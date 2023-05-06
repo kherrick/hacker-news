@@ -6,6 +6,7 @@
 
 * [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 * [2023-05-06, 09:29:05](https://news.ycombinator.com/item?id=35839643) - [Why People Shit on JavaScript?](https://textboard.lol/thread.php?id=64553bd977d2f)
+* [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 08:26:25](https://news.ycombinator.com/item?id=35839350) - [Risk assessment of retinal vascular occlusion after Covid-19 vaccination](https://www.nature.com/articles/s41541-023-00661-7)

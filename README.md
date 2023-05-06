@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
+* [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
@@ -29,7 +30,6 @@
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 * [2023-05-03, 19:00:06](https://news.ycombinator.com/item?id=35806306) - [An Internet Canvas](https://notes.mmm.page/paper)
-* [2023-05-02, 22:42:13](https://news.ycombinator.com/item?id=35795177) - [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
 
 ## [Archives](archives/index.md)
 
