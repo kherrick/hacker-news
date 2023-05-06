@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 09:29:05](https://news.ycombinator.com/item?id=35839643) - [Why People Shit on JavaScript?](https://textboard.lol/thread.php?id=64553bd977d2f)
+* [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 08:26:25](https://news.ycombinator.com/item?id=35839350) - [Risk assessment of retinal vascular occlusion after Covid-19 vaccination](https://www.nature.com/articles/s41541-023-00661-7)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
