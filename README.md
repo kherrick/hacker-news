@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 15:25:17](https://news.ycombinator.com/item?id=35842240) - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
 * [2023-05-06, 15:11:05](https://news.ycombinator.com/item?id=35842111) - [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
 * [2023-05-06, 14:40:43](https://news.ycombinator.com/item?id=35841818) - [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
 * [2023-05-06, 14:32:53](https://news.ycombinator.com/item?id=35841748) - [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
-* [2023-05-06, 14:26:02](https://news.ycombinator.com/item?id=35841679) - [Click Click Click](https://clickclickclick.click/)
+* [2023-05-06, 14:26:02](https://news.ycombinator.com/item?id=35841679) - [Click (2016)](https://clickclickclick.click/)
 * [2023-05-06, 14:19:52](https://news.ycombinator.com/item?id=35841632) - [Preventing the use of SIM farms for fraud: consultation](https://www.gov.uk/government/consultations/preventing-the-use-of-sim-farms-for-fraud/preventing-the-use-of-sim-farms-for-fraud-consultation-accessible)
 * [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
 * [2023-05-06, 13:59:45](https://news.ycombinator.com/item?id=35841460) - [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
@@ -29,7 +30,6 @@
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
 * [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
-* [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 
 ## [Archives](archives/index.md)
 
