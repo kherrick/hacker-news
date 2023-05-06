@@ -81,6 +81,7 @@
 * [2023-05-04, 07:51:31](https://news.ycombinator.com/item?id=35812525) - [On Having Enough Socks](https://gwern.net/socks)
 * [2023-05-04, 07:27:57](https://news.ycombinator.com/item?id=35812378) - [Gitlab and Google Cloud Partner to Expand AI-Assisted Capabilities](https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models)
 * [2023-05-04, 07:01:11](https://news.ycombinator.com/item?id=35812171) - [PhotoRoom Is Hiring a Senior Django Engineer in Paris](https://jobs.lever.co/photoroom/01f5cb22-695a-402a-a970-818a6c2d47a9?lever-origin=applied&lever-source%5B%5D=Hacker%20News)
+* [2023-05-04, 06:55:31](https://news.ycombinator.com/item?id=35812125) - [A Short History of DragThing – Ten Years of Tidying Up Your Desktop](https://www.dragthing.com/english/tenyears.html)
 * [2023-05-04, 06:48:26](https://news.ycombinator.com/item?id=35812063) - [I can&#x27;t believe I&#x27;m praising Tcl (2008)](https://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A Look at Crystal, the Programming Language for Humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
 * [2023-05-04, 06:04:56](https://news.ycombinator.com/item?id=35811741) - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
