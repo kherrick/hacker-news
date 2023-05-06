@@ -2,6 +2,7 @@
 
 * [2023-05-06, 18:10:36](https://news.ycombinator.com/item?id=35843831) - [Politics and the English Language by George Orwell](https://gutenberg.net.au/ebooks02/0200151h.html)
 * [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
+* [2023-05-06, 17:46:59](https://news.ycombinator.com/item?id=35843639) - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
 * [2023-05-06, 17:39:14](https://news.ycombinator.com/item?id=35843566) - [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
 * [2023-05-06, 17:13:02](https://news.ycombinator.com/item?id=35843325) - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
@@ -14,7 +15,6 @@
 * [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
 * [2023-05-06, 13:59:45](https://news.ycombinator.com/item?id=35841460) - [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
 * [2023-05-06, 11:20:39](https://news.ycombinator.com/item?id=35840224) - [Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
-* [2023-05-06, 10:53:58](https://news.ycombinator.com/item?id=35840097) - [How much can you earn creating content on Youtube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
 * [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Outcomes after surgery performed by associate clinicians vs doctors (2021)](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
 * [2023-05-06, 09:15:44](https://news.ycombinator.com/item?id=35839593) - [Show HN: ReRender AI - Realistic Architectural Renders for AutoCAD&#x2F;Blender Users](https://rerenderai.com)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
