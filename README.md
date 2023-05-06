@@ -12,7 +12,7 @@
 * [2023-05-05, 22:40:23](https://news.ycombinator.com/item?id=35835971) - [Show HN: Avoiding Imgur Link Rot](https://haasie.com)
 * [2023-05-05, 20:10:29](https://news.ycombinator.com/item?id=35834535) - [Death of the Twin Gynaecologists: A patient&#x27;s notes (1975)](https://www.vulture.com/article/twin-gynecologists-stewart-marcus-cyril-marcus-dead-ringers-inspiration.html)
 * [2023-05-05, 19:33:23](https://news.ycombinator.com/item?id=35834106) - [Bluesky&#x27;s AT Protocol - Federation Architecture Overview](https://blueskyweb.xyz/blog/5-5-2023-federation-architecture)
-* [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths Are Not Dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
+* [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-05, 18:18:41](https://news.ycombinator.com/item?id=35833163) - [The core problem with hamburger menus](https://bt.ht/hamburgers/)
 * [2023-05-05, 18:12:05](https://news.ycombinator.com/item?id=35833073) - [Hard feelings over mission change for NASA’s Pluto spacecraft](https://www.nature.com/articles/d41586-023-01530-y)
 * [2023-05-05, 17:58:53](https://news.ycombinator.com/item?id=35832876) - [Pioneer – An Open Source space adventure game set in our galaxy](https://pioneerspacesim.net)
