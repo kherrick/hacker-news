@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 18:36:39](https://news.ycombinator.com/item?id=35844080) - [If a PR Says “Artificial Intelligence,” There’s a Good Chance It’s Meaningless](https://slate.com/technology/2023/05/artificial-intelligence-hype-ibm-ftc-twitter-threadbois.html)
 * [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
 * [2023-05-06, 17:46:59](https://news.ycombinator.com/item?id=35843639) - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
 * [2023-05-06, 17:41:32](https://news.ycombinator.com/item?id=35843588) - [The phenomena of inner experience [pdf]](https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf)
@@ -10,7 +11,6 @@
 * [2023-05-06, 15:11:05](https://news.ycombinator.com/item?id=35842111) - [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
 * [2023-05-06, 14:32:53](https://news.ycombinator.com/item?id=35841748) - [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
 * [2023-05-06, 14:26:02](https://news.ycombinator.com/item?id=35841679) - [Click (2016)](https://clickclickclick.click/)
-* [2023-05-06, 14:19:52](https://news.ycombinator.com/item?id=35841632) - [Preventing the use of SIM farms for fraud: consultation](https://www.gov.uk/government/consultations/preventing-the-use-of-sim-farms-for-fraud/preventing-the-use-of-sim-farms-for-fraud-consultation-accessible)
 * [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
 * [2023-05-06, 13:59:45](https://news.ycombinator.com/item?id=35841460) - [It looks like GPT-4-32k is rolling out](https://community.openai.com/t/it-looks-like-gpt-4-32k-is-rolling-out/194615)
 * [2023-05-06, 11:20:39](https://news.ycombinator.com/item?id=35840224) - [Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
