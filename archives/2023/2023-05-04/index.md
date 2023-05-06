@@ -57,6 +57,7 @@
 * [2023-05-04, 13:00:28](https://news.ycombinator.com/item?id=35814575) - [Hue Light Hack](https://www.atomic14.com/2023/05/04/hue-light-hacking.html)
 * [2023-05-04, 12:57:56](https://news.ycombinator.com/item?id=35814537) - [State-controlled media gain Twitter followers after quiet platform policy change](https://dfrlab.org/2023/04/21/state-controlled-media-experience-sudden-twitter-gains-after-unannounced-platform-policy-change/)
 * [2023-05-04, 12:52:21](https://news.ycombinator.com/item?id=35814480) - [OpenAI Personal Data Removal Request Form](https://share.hsforms.com/1UPy6xqxZSEqTrGDh4ywo_g4sk30)
+* [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
 * [2023-05-04, 12:43:02](https://news.ycombinator.com/item?id=35814359) - [Clarence Thomas Had a Child in Private School. Harlan Crow Paid the Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus)
 * [2023-05-04, 12:38:58](https://news.ycombinator.com/item?id=35814322) - [Mach-9 12-passenger jet will fly from New York to Tokyo in one hour](https://robbreport.com/motors/aviation/hypersonic-aircraft-venus-global-flights-in-hour-1234837362/)
 * [2023-05-04, 12:13:55](https://news.ycombinator.com/item?id=35814113) - [EARN IT Act Remains a Threat to Liberty, Security, &amp; Safety of Children](https://techfreedom.org/earn-it-act-remains-a-threat-to-liberty-security-safety-of-children/)

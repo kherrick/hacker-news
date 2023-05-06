@@ -28,7 +28,7 @@
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
 * [2023-05-05, 05:57:20](https://news.ycombinator.com/item?id=35825683) - [Unity builds lurked into the Firefox Build System](https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-lurked-into-the-firefox-build-system.html)
-* [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
+* [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
 * [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 
 ## [Archives](archives/index.md)
