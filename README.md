@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Helsinki University makes Parkinson&#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
 * [2023-05-06, 12:02:36](https://news.ycombinator.com/item?id=35840485) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
 * [2023-05-06, 10:53:58](https://news.ycombinator.com/item?id=35840097) - [How much do you “really” earn creating content on YouTube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
 * [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
@@ -12,7 +13,6 @@
 * [2023-05-06, 05:43:06](https://news.ycombinator.com/item?id=35838407) - [I’m in Wyoming to celebrate the next nuclear breakthrough](https://www.gatesnotes.com/Wyoming-TerraPower)
 * [2023-05-06, 05:08:40](https://news.ycombinator.com/item?id=35838222) - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 * [2023-05-06, 03:40:37](https://news.ycombinator.com/item?id=35837750) - [Unix Koans](https://prirai.github.io/books/unix-koans.html)
-* [2023-05-06, 03:13:43](https://news.ycombinator.com/item?id=35837606) - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
 * [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
 * [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-06, 00:14:07](https://news.ycombinator.com/item?id=35836679) - [Show HN: UnionX – GPT4-powered Copilot for Work with Jupyter-style notebooks](https://www.unionx.io/)
