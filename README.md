@@ -2,6 +2,7 @@
 
 * [2023-05-06, 12:07:16](https://news.ycombinator.com/item?id=35840530) - [Helsinki University makes Parkinson&#x27;s disease breakthrough](https://yle.fi/a/74-20030498)
 * [2023-05-06, 12:02:36](https://news.ycombinator.com/item?id=35840485) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=35840485)
+* [2023-05-06, 11:41:03](https://news.ycombinator.com/item?id=35840330) - [Let&#x27;s (not) share our VR headsets](https://shkspr.mobi/blog/2023/05/lets-not-share-our-vr-headsets/)
 * [2023-05-06, 10:53:58](https://news.ycombinator.com/item?id=35840097) - [How much do you “really” earn creating content on YouTube?](https://blog.bassemdy.com/2023/05/06/content-creation/youtube/experience/growth/monetization/income/revenue/how-much-you-really-make-creating-content.html)
 * [2023-05-06, 09:39:44](https://news.ycombinator.com/item?id=35839711) - [Cognitive Decoupling and Banana Phones](https://drossbucket.com/2019/10/23/cognitive-decoupling-and-banana-phones/)
 * [2023-05-06, 09:15:45](https://news.ycombinator.com/item?id=35839594) - [Specialist non MD surgeons superior to surgeons at routine surgeries](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2774739)
@@ -23,7 +24,6 @@
 * [2023-05-05, 22:07:51](https://news.ycombinator.com/item?id=35835697) - [MSI firmware signing keys leaked](https://github.com/binarly-io/SupplyChainAttacks/blob/main/MSI/ImpactedDevices.md)
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
-* [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-04, 13:10:36](https://news.ycombinator.com/item?id=35814707) - [Waymo One doubles service area in Phoenix, continues growing in SF](https://blog.waymo.com/2023/05/waymo-one-doubles-service-area-in.html)
 * [2023-05-04, 11:51:02](https://news.ycombinator.com/item?id=35813950) - [A Linux kernel without struct buffer_head](https://lwn.net/SubscriberLink/930173/c1a1f68dc4e20191/)
