@@ -24,7 +24,7 @@
 * [2023-05-06, 05:43:06](https://news.ycombinator.com/item?id=35838407) - [I’m in Wyoming to celebrate the next nuclear breakthrough](https://www.gatesnotes.com/Wyoming-TerraPower)
 * [2023-05-06, 05:08:40](https://news.ycombinator.com/item?id=35838222) - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 * [2023-05-06, 04:57:17](https://news.ycombinator.com/item?id=35838180) - [Wikipedia user edits over 90k uses of “comprised of”](https://en.wikipedia.org/wiki/User:Giraffedata/comprised_of)
-* [2023-05-06, 03:40:37](https://news.ycombinator.com/item?id=35837750) - [Unix Koans](https://prirai.github.io/books/unix-koans.html)
+* [2023-05-06, 01:07:44](https://news.ycombinator.com/item?id=35836976) - [Shap-E: Generate 3D objects conditioned on text or images](https://github.com/openai/shap-e)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
 * [2023-05-05, 08:38:01](https://news.ycombinator.com/item?id=35826723) - [Concrete: A fully homomorphic encryption compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
 * [2023-05-05, 07:07:10](https://news.ycombinator.com/item?id=35826193) - [New Playground: Integer.exposed](https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/)
