@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 23:01:00](https://news.ycombinator.com/item?id=35846137) - [California Insists on Wasting Its Scarce Water Supply](https://www.wsj.com/articles/radical-environmentalists-insist-on-wasting-california-water0colorado-river-flood-delta-infrastructure-climate-activism-ba485028)
 * [2023-05-06, 22:22:12](https://news.ycombinator.com/item?id=35845864) - [MSFT exec admits console wars are over: ‘We lost the worst generation to lose&#x27;](https://fortune.com/2023/05/05/microsoft-exec-phil-spencer-admits-the-console-war-lost-sony-playstation-nintendo-switch/)
 * [2023-05-06, 21:45:31](https://news.ycombinator.com/item?id=35845612) - [Ask HN: What is the best password manager available today?](https://news.ycombinator.com/item?id=35845612)
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
@@ -17,7 +18,6 @@
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 * [2023-05-06, 15:45:30](https://news.ycombinator.com/item?id=35842470) - [FDA Finalizes Rule to Deregulate Hearing Aids](https://www.fda.gov/news-events/press-announcements/fda-finalizes-historic-rule-enabling-access-over-counter-hearing-aids-millions-americans)
 * [2023-05-06, 15:25:17](https://news.ycombinator.com/item?id=35842240) - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
-* [2023-05-06, 14:09:22](https://news.ycombinator.com/item?id=35841542) - [AI’s biggest risk is the corporations that control them](https://www.fastcompany.com/90892235/researcher-meredith-whittaker-says-ais-biggest-risk-isnt-consciousness-its-the-corporations-that-control-them)
 * [2023-05-06, 11:20:39](https://news.ycombinator.com/item?id=35840224) - [Linearly interpolating pixels that are in a gamma encoded color space](https://twitter.com/ID_AA_Carmack/status/1654528504724062217)
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 23:01:00](https://news.ycombinator.com/item?id=35846137) - [California Insists on Wasting Its Scarce Water Supply](https://www.wsj.com/articles/radical-environmentalists-insist-on-wasting-california-water0colorado-river-flood-delta-infrastructure-climate-activism-ba485028)
 * [2023-05-06, 22:22:12](https://news.ycombinator.com/item?id=35845864) - [MSFT exec admits console wars are over: ‘We lost the worst generation to lose&#x27;](https://fortune.com/2023/05/05/microsoft-exec-phil-spencer-admits-the-console-war-lost-sony-playstation-nintendo-switch/)
 * [2023-05-06, 21:45:31](https://news.ycombinator.com/item?id=35845612) - [Ask HN: What is the best password manager available today?](https://news.ycombinator.com/item?id=35845612)
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
