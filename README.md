@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-06, 08:26:25](https://news.ycombinator.com/item?id=35839350) - [Risk assessment of retinal vascular occlusion after Covid-19 vaccination](https://www.nature.com/articles/s41541-023-00661-7)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
 * [2023-05-06, 06:42:52](https://news.ycombinator.com/item?id=35838741) - [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
 * [2023-05-06, 06:16:12](https://news.ycombinator.com/item?id=35838601) - [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
 * [2023-05-06, 05:58:09](https://news.ycombinator.com/item?id=35838504) - [Open source Background Remover: Remove Background from images and video using AI](https://github.com/nadermx/backgroundremover)
+* [2023-05-06, 05:43:06](https://news.ycombinator.com/item?id=35838407) - [I’m in Wyoming to celebrate the next nuclear breakthrough](https://www.gatesnotes.com/Wyoming-TerraPower)
 * [2023-05-06, 05:08:40](https://news.ycombinator.com/item?id=35838222) - [Life After Language](https://www.ribbonfarm.com/2023/05/04/life-after-language/)
 * [2023-05-06, 03:40:37](https://news.ycombinator.com/item?id=35837750) - [Unix Koans](https://prirai.github.io/books/unix-koans.html)
 * [2023-05-06, 03:13:43](https://news.ycombinator.com/item?id=35837606) - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
@@ -19,7 +21,6 @@
 * [2023-05-05, 19:28:04](https://news.ycombinator.com/item?id=35834037) - [Monoliths are not dinosaurs](https://www.allthingsdistributed.com/2023/05/monoliths-are-not-dinosaurs.html)
 * [2023-05-05, 17:58:53](https://news.ycombinator.com/item?id=35832876) - [Pioneer – An Open Source space adventure game set in our galaxy](https://pioneerspacesim.net)
 * [2023-05-05, 17:53:50](https://news.ycombinator.com/item?id=35832802) - [Unlimiformer: Long-Range Transformers with Unlimited Length Input](https://arxiv.org/abs/2305.01625)
-* [2023-05-05, 16:58:44](https://news.ycombinator.com/item?id=35832038) - [A few words on Ruby&#x27;s type annotations state](https://zverok.space/blog/2023-05-05-ruby-types.html)
 * [2023-05-05, 14:32:19](https://news.ycombinator.com/item?id=35829733) - [Htmx Is the Future](https://quii.dev/HTMX_is_the_Future)
 * [2023-05-05, 11:49:46](https://news.ycombinator.com/item?id=35828046) - [Build your own private WireGuard VPN with PiVPN](https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn)
 * [2023-05-05, 02:39:05](https://news.ycombinator.com/item?id=35824654) - [What scares master of suspense Dean Koontz? Plenty](https://www.washingtonpost.com/books/2023/05/03/dean-koontz/)
@@ -28,7 +29,6 @@
 * [2023-05-04, 10:19:13](https://news.ycombinator.com/item?id=35813322) - [Google “We have no moat, and neither does OpenAI”](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
 * [2023-05-04, 09:25:10](https://news.ycombinator.com/item?id=35813010) - [A mansion hidden directly under the Bay Bridge](https://www.sfgate.com/obscuresf/article/nimitz-mansion-hidden-under-bay-bridge-17999245.php)
 * [2023-05-03, 19:00:06](https://news.ycombinator.com/item?id=35806306) - [An Internet Canvas](https://notes.mmm.page/paper)
-* [2023-05-03, 13:30:49](https://news.ycombinator.com/item?id=35802157) - [Farewell to the Era of Cheap EC2 Spot Instances](https://pauley.me/post/2023/spot-price-trends/)
 * [2023-05-02, 22:42:13](https://news.ycombinator.com/item?id=35795177) - [Why I Like Using Maps (and WeakMaps) for Handling DOM Nodes](https://www.macarthur.me/posts/maps-for-dom-nodes)
 
 ## [Archives](archives/index.md)
