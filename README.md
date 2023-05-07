@@ -12,7 +12,6 @@
 * [2023-05-07, 09:59:50](https://news.ycombinator.com/item?id=35849788) - [Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing](https://github.com/susam/devil)
 * [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
-* [2023-05-07, 08:39:49](https://news.ycombinator.com/item?id=35849243) - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
 * [2023-05-07, 08:39:09](https://news.ycombinator.com/item?id=35849241) - [Push 3.0 Programming Language Description (2004)](http://faculty.hampshire.edu/lspector/push3-description.html)
 * [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust (2016)](https://github.com/yberreby/rgo)
 * [2023-05-07, 08:11:16](https://news.ycombinator.com/item?id=35849060) - [I&#x27;m never investing in Google&#x27;s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
@@ -29,6 +28,7 @@
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-07, 02:28:55](https://news.ycombinator.com/item?id=35847327) - [The businessman and the fisherman (1963)](https://thestorytellers.com/the-businessman-and-the-fisherman/)
 * [2023-05-07, 02:17:10](https://news.ycombinator.com/item?id=35847269) - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
+* [2023-05-07, 01:10:02](https://news.ycombinator.com/item?id=35846885) - [Marlo Ciciliani: Mask (for no input mixer, 2004)](https://www.ciciliani.com/mask.html)
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 
 ## [Archives](archives/index.md)
