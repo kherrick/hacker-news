@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 20:36:50](https://news.ycombinator.com/item?id=35855398) - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 * [2023-05-07, 18:34:47](https://news.ycombinator.com/item?id=35854216) - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
@@ -23,7 +24,6 @@
 * [2023-05-07, 07:40:52](https://news.ycombinator.com/item?id=35848894) - [Walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
 * [2023-05-07, 07:37:36](https://news.ycombinator.com/item?id=35848872) - [DIY-Thermocam: A low-cost thermal imager based on the FLIR Lepton sensor](https://www.diy-thermocam.net/)
 * [2023-05-07, 07:11:23](https://news.ycombinator.com/item?id=35848758) - [TV series about startup failures](https://www.1984.design/c/discussions/tv-series-about-startup-failures-portraying-their-greedy-founders-and-the-damages-of-the-current-startup-ecosystem)
-* [2023-05-07, 06:19:50](https://news.ycombinator.com/item?id=35848421) - [React Aria Components](https://react-spectrum.adobe.com/react-aria/react-aria-components.html)
 * [2023-05-07, 05:42:52](https://news.ycombinator.com/item?id=35848276) - [Measuring the HP 11720A Pulse Modulator and Coax Cables](https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html)
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
