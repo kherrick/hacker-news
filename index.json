@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 02:17:10",
+      "https://news.ycombinator.com/item?id=35847269"
+    ],
+    [
+      "RedisRaft",
+      "https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 00:40:08",
       "https://news.ycombinator.com/item?id=35846726"
     ],
@@ -247,16 +257,6 @@
     [
       "Give It the Craigslist Test",
       "https://ericaheinz.com/notes/give-it-the-craigslist-test/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 08:38:01",
-      "https://news.ycombinator.com/item?id=35826723"
-    ],
-    [
-      "Concrete: A fully homomorphic encryption compiler",
-      "https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler"
     ]
   ],
   [
