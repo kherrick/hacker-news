@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-06](index.md)
 
+* [2023-05-06, 23:55:53](https://news.ycombinator.com/item?id=35846517) - [70% of Type 2 Diabetes Cases Linked to Food Choices](https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/)
+* [2023-05-06, 23:53:40](https://news.ycombinator.com/item?id=35846508) - [KDE Developers in Germany Planning for Plasma 6.0](https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany)
+* [2023-05-06, 23:35:11](https://news.ycombinator.com/item?id=35846386) - [How are you using ChatGPT internally at your company?](https://news.ycombinator.com/item?id=35846386)
 * [2023-05-06, 23:01:00](https://news.ycombinator.com/item?id=35846137) - [California Insists on Wasting Its Scarce Water Supply](https://www.wsj.com/articles/radical-environmentalists-insist-on-wasting-california-water0colorado-river-flood-delta-infrastructure-climate-activism-ba485028)
+* [2023-05-06, 22:37:16](https://news.ycombinator.com/item?id=35845963) - [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
 * [2023-05-06, 22:22:12](https://news.ycombinator.com/item?id=35845864) - [MSFT exec admits console wars are over: ‘We lost the worst generation to lose&#x27;](https://fortune.com/2023/05/05/microsoft-exec-phil-spencer-admits-the-console-war-lost-sony-playstation-nintendo-switch/)
+* [2023-05-06, 22:11:54](https://news.ycombinator.com/item?id=35845791) - [The Coggers – history and tragedy of the first US mountain railroad](http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html)
 * [2023-05-06, 21:45:31](https://news.ycombinator.com/item?id=35845612) - [Ask HN: What is the best password manager available today?](https://news.ycombinator.com/item?id=35845612)
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1,680,399 posts on Bluesky](https://worthdoingbadly.com/bsky/)
 * [2023-05-06, 21:22:38](https://news.ycombinator.com/item?id=35845469) - [Show HN: Mini-spend-tracker – a self-hosted server for tracking your spendings](https://github.com/martinlevesque/mini-spend-tracker)

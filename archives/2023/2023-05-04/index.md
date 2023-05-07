@@ -85,6 +85,7 @@
 * [2023-05-04, 06:48:26](https://news.ycombinator.com/item?id=35812063) - [I can&#x27;t believe I&#x27;m praising Tcl (2008)](https://yosefk.com/blog/i-cant-believe-im-praising-tcl.html)
 * [2023-05-04, 06:28:21](https://news.ycombinator.com/item?id=35811879) - [A Look at Crystal, the Programming Language for Humans](https://www.deusinmachina.net/p/a-look-at-the-crystal-programming)
 * [2023-05-04, 06:04:56](https://news.ycombinator.com/item?id=35811741) - [Prime Video Abandons Serverless Distributed Stack for Monolith, saves 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+* [2023-05-04, 06:04:38](https://news.ycombinator.com/item?id=35811739) - [Geography of Kansas (2022)](https://www.geographyrealm.com/geography-kansas/)
 * [2023-05-04, 05:30:40](https://news.ycombinator.com/item?id=35811570) - [How America’s Obsession with DEI Is Sabotaging Our Medical Schools](https://www.thefp.com/p/how-americas-obsession-with-dei-is)
 * [2023-05-04, 03:47:58](https://news.ycombinator.com/item?id=35810977) - [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [2023-05-04, 03:32:10](https://news.ycombinator.com/item?id=35810902) - [My pay went from $240k to $0](https://mstdn.social/@Devilstower/110299576469326182)
