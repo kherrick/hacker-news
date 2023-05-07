@@ -71,6 +71,7 @@
 * [2023-05-06, 04:48:44](https://news.ycombinator.com/item?id=35838126) - [Airbnb’s CEO spent 6 months living in his rentals and found the core problem](https://finance.yahoo.com/news/airbnb-ceo-spent-6-months-135043896.html)
 * [2023-05-06, 04:42:46](https://news.ycombinator.com/item?id=35838086) - [Modern Scottish, Welsh and Northern Irish people found to have Pictish ancestry](https://phys.org/news/2023-04-modern-day-scottish-welsh-northern-irish.html)
 * [2023-05-06, 03:40:37](https://news.ycombinator.com/item?id=35837750) - [Unix Koans](https://prirai.github.io/books/unix-koans.html)
+* [2023-05-06, 03:39:58](https://news.ycombinator.com/item?id=35837747) - [Secd: A silly implementation of the SECD machine](https://github.com/zachallaun/secd)
 * [2023-05-06, 03:13:43](https://news.ycombinator.com/item?id=35837606) - [Vaonis Hyperia: $45k digital telescope](https://vaonis.com/hyperia/en/)
 * [2023-05-06, 02:48:32](https://news.ycombinator.com/item?id=35837485) - [Shopify to Lay Off 20% of Its Workforce](https://www.wsj.com/articles/flexport-buys-shopify-logistics-operations-sets-up-rivalry-with-amazon-15a9f5bc)
 * [2023-05-06, 02:35:32](https://news.ycombinator.com/item?id=35837424) - [Fulfilling a reader&#x27;s request for my “dot files”](https://rachelbythebay.com/w/2023/05/05/dot/)
