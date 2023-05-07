@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 21:18:24](https://news.ycombinator.com/item?id=35855696) - [Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
 * [2023-05-07, 20:36:50](https://news.ycombinator.com/item?id=35855398) - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 * [2023-05-07, 18:34:47](https://news.ycombinator.com/item?id=35854216) - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
@@ -8,7 +9,6 @@
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 16:33:52](https://news.ycombinator.com/item?id=35853131) - [Five Books: The best books on everything](https://fivebooks.com/)
-* [2023-05-07, 16:00:01](https://news.ycombinator.com/item?id=35852783) - [Why the Ferrari F355 sounds so good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
