@@ -25,7 +25,7 @@
 * [2023-05-06, 19:42:36](https://news.ycombinator.com/item?id=35844735) - [Transcending My Father&#x27;s Abuse](https://valspals.substack.com/p/transcending-my-fathers-abuse)
 * [2023-05-06, 19:16:55](https://news.ycombinator.com/item?id=35844499) - [Solid, a spec that lets people store their data securely in decentralized Pods](https://solidproject.org/)
 * [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
-* [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
+* [2023-05-06, 15:45:30](https://news.ycombinator.com/item?id=35842470) - [FDA Finalizes Rule to Deregulate Hearing Aids](https://www.fda.gov/news-events/press-announcements/fda-finalizes-historic-rule-enabling-access-over-counter-hearing-aids-millions-americans)
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-04, 06:04:38](https://news.ycombinator.com/item?id=35811739) - [Geography of Kansas (2022)](https://www.geographyrealm.com/geography-kansas/)
