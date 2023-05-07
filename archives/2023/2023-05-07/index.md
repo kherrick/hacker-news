@@ -8,6 +8,7 @@
 * [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:15:14](https://news.ycombinator.com/item?id=35851208) - [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
+* [2023-05-07, 13:09:52](https://news.ycombinator.com/item?id=35851156) - [Before Dylan, There Was Connie Converse. Then She Vanished](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
 * [2023-05-07, 13:04:31](https://news.ycombinator.com/item?id=35851114) - [ChatGPT is Really Good at Roleplaying](https://blog.varunramesh.net/posts/chatgpt-role-playing/)
 * [2023-05-07, 12:28:09](https://news.ycombinator.com/item?id=35850744) - [AMD OpenSIL Planned to Replace Agesa Firmware in Client and Server in 2026](https://www.anandtech.com/show/18853/amd-opensil-planned-to-replace-agesa-firmware-in-client-and-server-in-2026)
 * [2023-05-07, 11:23:43](https://news.ycombinator.com/item?id=35850259) - [Liz Holmes Wants You to Forget About Elizabeth](https://www.nytimes.com/2023/05/07/business/elizabeth-holmes-theranos-interview.html)
