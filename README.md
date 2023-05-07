@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-07, 18:34:47](https://news.ycombinator.com/item?id=35854216) - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
+* [2023-05-07, 18:20:30](https://news.ycombinator.com/item?id=35854087) - [OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
 * [2023-05-07, 18:08:26](https://news.ycombinator.com/item?id=35853979) - [The AI revolution is powered by these contractors making $15 an hour](https://www.nbcnews.com/tech/innovation/openai-chatgpt-ai-jobs-contractors-talk-shadow-workforce-powers-rcna81892)
+* [2023-05-07, 17:43:38](https://news.ycombinator.com/item?id=35853764) - [Waking Up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
@@ -14,8 +16,6 @@
 * [2023-05-07, 09:59:50](https://news.ycombinator.com/item?id=35849788) - [Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing](https://github.com/susam/devil)
 * [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
-* [2023-05-07, 08:39:09](https://news.ycombinator.com/item?id=35849241) - [Push 3.0 Programming Language Description (2004)](http://faculty.hampshire.edu/lspector/push3-description.html)
-* [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust (2016)](https://github.com/yberreby/rgo)
 * [2023-05-07, 08:11:16](https://news.ycombinator.com/item?id=35849060) - [I&#x27;m never investing in Google&#x27;s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
 * [2023-05-07, 08:08:19](https://news.ycombinator.com/item?id=35849043) - [EU sends Apple stark warning over USB-C charging on new iPhones](https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all)
 * [2023-05-07, 07:40:52](https://news.ycombinator.com/item?id=35848894) - [‘Too greedy’: mass walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)

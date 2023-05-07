@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
 * [2023-05-07, 18:34:47](https://news.ycombinator.com/item?id=35854216) - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
+* [2023-05-07, 18:20:30](https://news.ycombinator.com/item?id=35854087) - [OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
 * [2023-05-07, 18:08:26](https://news.ycombinator.com/item?id=35853979) - [The AI revolution is powered by these contractors making $15 an hour](https://www.nbcnews.com/tech/innovation/openai-chatgpt-ai-jobs-contractors-talk-shadow-workforce-powers-rcna81892)
+* [2023-05-07, 17:43:38](https://news.ycombinator.com/item?id=35853764) - [Waking Up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 16:58:46](https://news.ycombinator.com/item?id=35853344) - [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
