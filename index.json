@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 04:40:22",
+      "https://news.ycombinator.com/item?id=35847988"
+    ],
+    [
+      "Prime Video service dumps microservices, cuts AWS bill 90%",
+      "https://thestack.technology/amazon-prime-video-microservices-monolith/"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 03:54:04",
       "https://news.ycombinator.com/item?id=35847774"
     ],
@@ -257,16 +267,6 @@
     [
       "Give It the Craigslist Test",
       "https://ericaheinz.com/notes/give-it-the-craigslist-test/"
-    ]
-  ],
-  [
-    [
-      "2023-05-04, 12:44:24",
-      "https://news.ycombinator.com/item?id=35814381"
-    ],
-    [
-      "Billion-Scale Approximate Nearest Neighbor Search [pdf]",
-      "https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf"
     ]
   ],
   [
