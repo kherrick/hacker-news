@@ -2,7 +2,6 @@
 
 * [2023-05-07, 03:54:04](https://news.ycombinator.com/item?id=35847774) - [‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable](https://www.nature.com/articles/d41586-023-01487-y)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
-* [2023-05-07, 02:28:55](https://news.ycombinator.com/item?id=35847327) - [The businessman and the fisherman](https://thestorytellers.com/the-businessman-and-the-fisherman/)
 * [2023-05-07, 02:17:10](https://news.ycombinator.com/item?id=35847269) - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
 * [2023-05-07, 00:40:08](https://news.ycombinator.com/item?id=35846726) - [Nintendo reportedly issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
@@ -16,6 +15,7 @@
 * [2023-05-06, 20:40:11](https://news.ycombinator.com/item?id=35845188) - [Sony Playstation 2 Development Kit](https://www.retroreversing.com/playstation-2-development-hardware)
 * [2023-05-06, 20:26:22](https://news.ycombinator.com/item?id=35845085) - [EU ready to back immediate open access without author fees](https://www.researchprofessionalnews.com/rr-news-europe-infrastructure-2023-5-eu-ready-to-back-immediate-open-access-without-author-fees/)
 * [2023-05-06, 19:42:36](https://news.ycombinator.com/item?id=35844735) - [Transcending My Father&#x27;s Abuse](https://valspals.substack.com/p/transcending-my-fathers-abuse)
+* [2023-05-06, 19:16:55](https://news.ycombinator.com/item?id=35844499) - [Solid, a spec that lets people store their data securely in decentralized Pods](https://solidproject.org/)
 * [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
 * [2023-05-06, 17:46:59](https://news.ycombinator.com/item?id=35843639) - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
 * [2023-05-06, 17:39:14](https://news.ycombinator.com/item?id=35843566) - [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
