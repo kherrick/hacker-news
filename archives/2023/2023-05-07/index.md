@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 * [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:15:14](https://news.ycombinator.com/item?id=35851208) - [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
@@ -12,6 +13,7 @@
 * [2023-05-07, 11:23:43](https://news.ycombinator.com/item?id=35850259) - [Liz Holmes Wants You to Forget About Elizabeth](https://www.nytimes.com/2023/05/07/business/elizabeth-holmes-theranos-interview.html)
 * [2023-05-07, 10:40:15](https://news.ycombinator.com/item?id=35850044) - [Low-contrast font color and unreadable texts? To hell with them!](https://contrastrebellion.com/)
 * [2023-05-07, 10:38:02](https://news.ycombinator.com/item?id=35850031) - [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
+* [2023-05-07, 09:59:50](https://news.ycombinator.com/item?id=35849788) - [Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing](https://github.com/susam/devil)
 * [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 * [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
