@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust](https://github.com/yberreby/rgo)
 * [2023-05-07, 08:11:16](https://news.ycombinator.com/item?id=35849060) - [I&#x27;m never investing in Google&#x27;s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
+* [2023-05-07, 07:40:52](https://news.ycombinator.com/item?id=35848894) - [‘Too greedy’: mass walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
+* [2023-05-07, 07:26:58](https://news.ycombinator.com/item?id=35848839) - [Ask HN: Why not permit use Linux laptop for work](https://news.ycombinator.com/item?id=35848839)
 * [2023-05-07, 07:26:30](https://news.ycombinator.com/item?id=35848836) - [OURphone Is a Fully Open-Source Smartphone Based on Linux](https://www.hackster.io/news/ourphone-is-a-fully-open-source-smartphone-based-on-linux-60aca685e87d)
 * [2023-05-07, 06:45:31](https://news.ycombinator.com/item?id=35848573) - [DEF CON to set thousands of hackers loose on LLMs](https://www.theregister.com/2023/05/06/ai_hacking_defcon/)
 * [2023-05-07, 06:01:29](https://news.ycombinator.com/item?id=35848343) - [Scientists find link between photosynthesis and &#x27;fifth state of matter&#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
