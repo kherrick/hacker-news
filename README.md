@@ -13,6 +13,7 @@
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 * [2023-05-07, 00:20:43](https://news.ycombinator.com/item?id=35846629) - [qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
 * [2023-05-06, 23:43:58](https://news.ycombinator.com/item?id=35846443) - [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
+* [2023-05-06, 22:11:54](https://news.ycombinator.com/item?id=35845791) - [The Coggers – history and tragedy of the first US mountain railroad](http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html)
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
 * [2023-05-06, 20:58:34](https://news.ycombinator.com/item?id=35845308) - [Mailbox.org discovers unencrypted password transmission in myMail](https://mailbox.org/en/post/mailbox-org-discovers-unencrypted-password-transmission-in-mymail)
 * [2023-05-06, 20:48:07](https://news.ycombinator.com/item?id=35845234) - [Our Amiga Demo-Creator Turns 36 Years](https://coding-and-computers.blogspot.com/2022/05/first-amiga-demo-creator-may-1987.html)
@@ -27,7 +28,6 @@
 * [2023-05-06, 15:45:30](https://news.ycombinator.com/item?id=35842470) - [FDA Finalizes Rule to Deregulate Hearing Aids](https://www.fda.gov/news-events/press-announcements/fda-finalizes-historic-rule-enabling-access-over-counter-hearing-aids-millions-americans)
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
-* [2023-05-04, 06:55:31](https://news.ycombinator.com/item?id=35812125) - [A Short History of DragThing – Ten Years of Tidying Up Your Desktop (2005)](https://www.dragthing.com/english/tenyears.html)
 * [2023-05-04, 06:04:38](https://news.ycombinator.com/item?id=35811739) - [Geography of Kansas (2022)](https://www.geographyrealm.com/geography-kansas/)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 
