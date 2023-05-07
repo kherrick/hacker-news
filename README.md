@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-07, 18:34:47](https://news.ycombinator.com/item?id=35854216) - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
-* [2023-05-07, 18:20:30](https://news.ycombinator.com/item?id=35854087) - [OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
 * [2023-05-07, 17:43:38](https://news.ycombinator.com/item?id=35853764) - [Waking up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 17:23:17](https://news.ycombinator.com/item?id=35853576) - [Ask HN: What productivity tools do you use?](https://news.ycombinator.com/item?id=35853576)
@@ -18,6 +17,7 @@
 * [2023-05-07, 09:59:50](https://news.ycombinator.com/item?id=35849788) - [Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing](https://github.com/susam/devil)
 * [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
+* [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust (2016)](https://github.com/yberreby/rgo)
 * [2023-05-07, 08:08:19](https://news.ycombinator.com/item?id=35849043) - [EU sends Apple stark warning over USB-C charging on new iPhones](https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all)
 * [2023-05-07, 07:40:52](https://news.ycombinator.com/item?id=35848894) - [Walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
 * [2023-05-07, 07:37:36](https://news.ycombinator.com/item?id=35848872) - [DIY-Thermocam: A low-cost thermal imager based on the FLIR Lepton sensor](https://www.diy-thermocam.net/)
