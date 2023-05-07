@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 * [2023-05-07, 08:39:49](https://news.ycombinator.com/item?id=35849243) - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
 * [2023-05-07, 08:25:00](https://news.ycombinator.com/item?id=35849153) - [Germany’s Nuclear Phase-Out Has Been a Disaster](https://nationalinterest.org/blog/buzz/germany%E2%80%99s-nuclear-phase-out-has-been-disaster-204007)
 * [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust](https://github.com/yberreby/rgo)
@@ -18,6 +19,7 @@
 * [2023-05-07, 06:12:56](https://news.ycombinator.com/item?id=35848397) - [Two seventeenth century atlases digitised and online (2022)](https://blogs.bl.uk/magnificentmaps/2022/12/norden-and-van-den-keere-two-seventeenth-century-atlases-digitised-and-online.html)
 * [2023-05-07, 06:01:29](https://news.ycombinator.com/item?id=35848343) - [Scientists find link between photosynthesis and &#x27;fifth state of matter&#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
 * [2023-05-07, 05:42:52](https://news.ycombinator.com/item?id=35848276) - [Measuring the HP 11720A Pulse Modulator and Coax Cables](https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html)
+* [2023-05-07, 05:38:54](https://news.ycombinator.com/item?id=35848267) - [Memoirs from the old web: IE&#x27;s crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-07, 04:40:22](https://news.ycombinator.com/item?id=35847988) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
 * [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Networks Are Performing Worse – What’s Going On?](https://spectrum.ieee.org/5g-rollout-disappointments)
 * [2023-05-07, 04:14:32](https://news.ycombinator.com/item?id=35847860) - [Belgium Legalises Ethical Hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
