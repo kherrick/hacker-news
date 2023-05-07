@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-05-07, 08:08:19",
-      "https://news.ycombinator.com/item?id=35849043"
-    ],
-    [
-      "EU sends Apple stark warning over USB-C charging on new iPhones",
-      "https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 07:40:52",
       "https://news.ycombinator.com/item?id=35848894"
     ],
@@ -267,6 +257,16 @@
     [
       "Using predictions from arbitrary models to get tighter confidence intervals",
       "https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 18:36:26",
+      "https://news.ycombinator.com/item?id=35844078"
+    ],
+    [
+      "Implementing Value Speculation in OCaml",
+      "https://www.lortex.org/articles/value-speculation-ocaml/"
     ]
   ],
   [
