@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 02:17:10](https://news.ycombinator.com/item?id=35847269) - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
 * [2023-05-07, 00:40:08](https://news.ycombinator.com/item?id=35846726) - [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 * [2023-05-07, 00:20:43](https://news.ycombinator.com/item?id=35846629) - [qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
@@ -25,7 +26,6 @@
 * [2023-05-06, 04:42:46](https://news.ycombinator.com/item?id=35838086) - [Modern Scottish, Welsh and Northern Irish people found to have Pictish ancestry](https://phys.org/news/2023-04-modern-day-scottish-welsh-northern-irish.html)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
-* [2023-05-05, 08:38:01](https://news.ycombinator.com/item?id=35826723) - [Concrete: A fully homomorphic encryption compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
 * [2023-05-05, 06:58:47](https://news.ycombinator.com/item?id=35826122) - [Whatever you do, don&#x27;t autoload Rails `lib&#x2F;`](https://island94.org/2023/05/whatever-you-do-don-t-autoload-rails-lib)
 * [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
 * [2023-05-04, 06:55:31](https://news.ycombinator.com/item?id=35812125) - [A Short History of DragThing – Ten Years of Tidying Up Your Desktop](https://www.dragthing.com/english/tenyears.html)
