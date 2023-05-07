@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 06:45:31",
+      "https://news.ycombinator.com/item?id=35848573"
+    ],
+    [
+      "DEF CON to set thousands of hackers loose on LLMs",
+      "https://www.theregister.com/2023/05/06/ai_hacking_defcon/"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 06:01:29",
       "https://news.ycombinator.com/item?id=35848343"
     ],
@@ -117,16 +127,6 @@
     [
       "FaaS in Go with WASM, WASI and Rust",
       "https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 21:33:29",
-      "https://news.ycombinator.com/item?id=35845540"
-    ],
-    [
-      "Windows 11: TPMs and Digital Sovereignty",
-      "https://secret.club/2021/06/28/windows11-tpms.html"
     ]
   ],
   [
