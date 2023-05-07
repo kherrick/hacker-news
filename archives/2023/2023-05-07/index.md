@@ -9,6 +9,7 @@
 * [2023-05-07, 18:08:26](https://news.ycombinator.com/item?id=35853979) - [The AI revolution is powered by these contractors making $15 an hour](https://www.nbcnews.com/tech/innovation/openai-chatgpt-ai-jobs-contractors-talk-shadow-workforce-powers-rcna81892)
 * [2023-05-07, 17:43:38](https://news.ycombinator.com/item?id=35853764) - [Waking Up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
+* [2023-05-07, 17:23:17](https://news.ycombinator.com/item?id=35853576) - [Ask HN: What productivity tools do you use?](https://news.ycombinator.com/item?id=35853576)
 * [2023-05-07, 16:58:46](https://news.ycombinator.com/item?id=35853344) - [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
 * [2023-05-07, 16:49:41](https://news.ycombinator.com/item?id=35853276) - [ChatGPT cannot build a simple working site from scratch](https://news.ycombinator.com/item?id=35853276)
