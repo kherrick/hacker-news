@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-07, 19:55:41",
+      "https://news.ycombinator.com/item?id=35855029"
+    ],
+    [
+      "Turbo Rascal Syntax Error",
+      "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 18:34:47",
       "https://news.ycombinator.com/item?id=35854216"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2023-05-07, 17:23:17",
-      "https://news.ycombinator.com/item?id=35853576"
+      "2023-05-07, 17:24:42",
+      "https://news.ycombinator.com/item?id=35853588"
     ],
     [
-      "Ask HN: What productivity tools do you use?",
-      "https://news.ycombinator.com/item?id=35853576"
+      "The first planetarium projector was unveiled 100 years ago",
+      "https://planetarium100.org/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "The tale of &quot;-mrtd&quot; in GCC and Clang",
       "https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 08:15:33",
-      "https://news.ycombinator.com/item?id=35849092"
-    ],
-    [
-      "A Go compiler, written in Rust (2016)",
-      "https://github.com/yberreby/rgo"
     ]
   ],
   [
