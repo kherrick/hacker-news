@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-07, 11:23:43](https://news.ycombinator.com/item?id=35850259) - [Liz Holmes Wants You to Forget About Elizabeth](https://www.nytimes.com/2023/05/07/business/elizabeth-holmes-theranos-interview.html)
+* [2023-05-07, 13:15:14](https://news.ycombinator.com/item?id=35851208) - [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
 * [2023-05-07, 10:38:02](https://news.ycombinator.com/item?id=35850031) - [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
 * [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 * [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
@@ -17,6 +17,7 @@
 * [2023-05-07, 06:12:56](https://news.ycombinator.com/item?id=35848397) - [Two seventeenth century atlases digitised and online (2022)](https://blogs.bl.uk/magnificentmaps/2022/12/norden-and-van-den-keere-two-seventeenth-century-atlases-digitised-and-online.html)
 * [2023-05-07, 06:01:29](https://news.ycombinator.com/item?id=35848343) - [Scientists find link between photosynthesis and &#x27;fifth state of matter&#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
 * [2023-05-07, 05:38:54](https://news.ycombinator.com/item?id=35848267) - [Memoirs from the old web: IE&#x27;s crazy content rating system](https://www.devever.net/~hl/pics)
+* [2023-05-07, 04:39:02](https://news.ycombinator.com/item?id=35847984) - [A Brief BitKnit Retrospective](https://fgiesen.wordpress.com/2023/05/06/a-very-brief-bitknit-retrospective/)
 * [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Rollout Disappointments](https://spectrum.ieee.org/5g-rollout-disappointments)
 * [2023-05-07, 04:14:32](https://news.ycombinator.com/item?id=35847860) - [Belgium Legalises Ethical Hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
@@ -27,7 +28,6 @@
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 * [2023-05-07, 00:20:43](https://news.ycombinator.com/item?id=35846629) - [Qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
 * [2023-05-06, 23:43:58](https://news.ycombinator.com/item?id=35846443) - [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
-* [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 

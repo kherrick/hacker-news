@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 13:15:14](https://news.ycombinator.com/item?id=35851208) - [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
 * [2023-05-07, 11:23:43](https://news.ycombinator.com/item?id=35850259) - [Liz Holmes Wants You to Forget About Elizabeth](https://www.nytimes.com/2023/05/07/business/elizabeth-holmes-theranos-interview.html)
 * [2023-05-07, 10:38:02](https://news.ycombinator.com/item?id=35850031) - [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
 * [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
@@ -27,6 +28,7 @@
 * [2023-05-07, 05:42:52](https://news.ycombinator.com/item?id=35848276) - [Measuring the HP 11720A Pulse Modulator and Coax Cables](https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html)
 * [2023-05-07, 05:38:54](https://news.ycombinator.com/item?id=35848267) - [Memoirs from the old web: IE&#x27;s crazy content rating system](https://www.devever.net/~hl/pics)
 * [2023-05-07, 04:40:22](https://news.ycombinator.com/item?id=35847988) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
+* [2023-05-07, 04:39:02](https://news.ycombinator.com/item?id=35847984) - [A Brief BitKnit Retrospective](https://fgiesen.wordpress.com/2023/05/06/a-very-brief-bitknit-retrospective/)
 * [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Networks Are Performing Worse – What’s Going On?](https://spectrum.ieee.org/5g-rollout-disappointments)
 * [2023-05-07, 04:14:32](https://news.ycombinator.com/item?id=35847860) - [Belgium Legalises Ethical Hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
