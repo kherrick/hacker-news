@@ -2,7 +2,6 @@
 
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 * [2023-05-07, 18:34:47](https://news.ycombinator.com/item?id=35854216) - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
-* [2023-05-07, 17:43:38](https://news.ycombinator.com/item?id=35853764) - [Waking up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 17:24:42](https://news.ycombinator.com/item?id=35853588) - [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
@@ -29,6 +28,7 @@
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-06, 19:26:59](https://news.ycombinator.com/item?id=35844574) - [Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
+* [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
 * [2023-05-06, 03:39:58](https://news.ycombinator.com/item?id=35837747) - [Secd: A silly implementation of the SECD machine](https://github.com/zachallaun/secd)
 
 ## [Archives](archives/index.md)

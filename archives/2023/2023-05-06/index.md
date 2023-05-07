@@ -62,6 +62,7 @@
 * [2023-05-06, 09:01:14](https://news.ycombinator.com/item?id=35839536) - [Using ChatGPT to generate a GPT project end-to-end](https://github.com/ixaxaar/VardaGPT/blob/master/STORY.md)
 * [2023-05-06, 08:50:39](https://news.ycombinator.com/item?id=35839470) - [Atuin replaces your existing shell history with a SQLite database](https://github.com/ellie/atuin)
 * [2023-05-06, 08:26:25](https://news.ycombinator.com/item?id=35839350) - [Risk assessment of retinal vascular occlusion after Covid-19 vaccination](https://www.nature.com/articles/s41541-023-00661-7)
+* [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
 * [2023-05-06, 06:44:17](https://news.ycombinator.com/item?id=35838751) - [Sailing Boat Rescued by the Götheborg](https://www.gotheborg.se/news/rescue-of-sailing-boat/)
 * [2023-05-06, 06:42:52](https://news.ycombinator.com/item?id=35838741) - [Upwork removing 5% commission bracket and moving everyone to 10% bracket](https://support.upwork.com/hc/en-us/articles/211062538-Freelancer-Service-Fees)
 * [2023-05-06, 06:16:12](https://news.ycombinator.com/item?id=35838601) - [How is it even possible to cheat on a musical performance practical exam?](https://devblogs.microsoft.com/oldnewthing/?p=108122)
