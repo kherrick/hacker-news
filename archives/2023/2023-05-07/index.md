@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 15:20:54](https://news.ycombinator.com/item?id=35852364) - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
+* [2023-05-07, 15:15:44](https://news.ycombinator.com/item?id=35852321) - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
+* [2023-05-07, 15:06:46](https://news.ycombinator.com/item?id=35852242) - [Russians Seem Interested in My Book About How Dictatorships End](https://www.almendron.com/tribuna/russians-seem-very-interested-in-my-book-about-how-dictatorships-end/)
 * [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 * [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:15:14](https://news.ycombinator.com/item?id=35851208) - [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)

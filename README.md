@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 15:20:54](https://news.ycombinator.com/item?id=35852364) - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
+* [2023-05-07, 15:15:44](https://news.ycombinator.com/item?id=35852321) - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
+* [2023-05-07, 15:06:46](https://news.ycombinator.com/item?id=35852242) - [Russians Seem Interested in My Book About How Dictatorships End](https://www.almendron.com/tribuna/russians-seem-very-interested-in-my-book-about-how-dictatorships-end/)
 * [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 * [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
 * [2023-05-07, 13:09:52](https://news.ycombinator.com/item?id=35851156) - [Before Dylan, There Was Connie Converse. Then She Vanished](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
 * [2023-05-07, 10:40:15](https://news.ycombinator.com/item?id=35850044) - [Contrast Rebellion – To hell with unreadable, low-contrast texts](https://contrastrebellion.com/)
 * [2023-05-07, 09:59:50](https://news.ycombinator.com/item?id=35849788) - [Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing](https://github.com/susam/devil)
-* [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 * [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 * [2023-05-07, 08:39:49](https://news.ycombinator.com/item?id=35849243) - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
@@ -21,7 +23,6 @@
 * [2023-05-07, 06:19:50](https://news.ycombinator.com/item?id=35848421) - [React Aria Components](https://react-spectrum.adobe.com/react-aria/react-aria-components.html)
 * [2023-05-07, 06:12:56](https://news.ycombinator.com/item?id=35848397) - [Two seventeenth century atlases digitised and online (2022)](https://blogs.bl.uk/magnificentmaps/2022/12/norden-and-van-den-keere-two-seventeenth-century-atlases-digitised-and-online.html)
 * [2023-05-07, 05:38:54](https://news.ycombinator.com/item?id=35848267) - [Memoirs from the old web: IE&#x27;s crazy content rating system](https://www.devever.net/~hl/pics)
-* [2023-05-07, 04:39:02](https://news.ycombinator.com/item?id=35847984) - [A Brief BitKnit Retrospective](https://fgiesen.wordpress.com/2023/05/06/a-very-brief-bitknit-retrospective/)
 * [2023-05-07, 04:14:32](https://news.ycombinator.com/item?id=35847860) - [Belgium legalises ethical hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
@@ -29,7 +30,6 @@
 * [2023-05-07, 02:17:10](https://news.ycombinator.com/item?id=35847269) - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
 * [2023-05-07, 01:10:02](https://news.ycombinator.com/item?id=35846885) - [Marlo Ciciliani: Mask (for no input mixer, 2004)](https://www.ciciliani.com/mask.html)
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
-* [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 
 ## [Archives](archives/index.md)
 
