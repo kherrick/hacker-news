@@ -27,7 +27,7 @@
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
 * [2023-05-04, 12:44:24](https://news.ycombinator.com/item?id=35814381) - [Billion-Scale Approximate Nearest Neighbor Search [pdf]](https://wangzwhu.github.io/home/file/acmmm-t-part3-ann.pdf)
-* [2023-05-04, 06:55:31](https://news.ycombinator.com/item?id=35812125) - [A Short History of DragThing – Ten Years of Tidying Up Your Desktop](https://www.dragthing.com/english/tenyears.html)
+* [2023-05-04, 06:55:31](https://news.ycombinator.com/item?id=35812125) - [A Short History of DragThing – Ten Years of Tidying Up Your Desktop (2005)](https://www.dragthing.com/english/tenyears.html)
 * [2023-05-04, 06:04:38](https://news.ycombinator.com/item?id=35811739) - [Geography of Kansas (2022)](https://www.geographyrealm.com/geography-kansas/)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 
