@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 18:08:26](https://news.ycombinator.com/item?id=35853979) - [The AI revolution is powered by these contractors making $15 an hour](https://www.nbcnews.com/tech/innovation/openai-chatgpt-ai-jobs-contractors-talk-shadow-workforce-powers-rcna81892)
+* [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 16:58:46](https://news.ycombinator.com/item?id=35853344) - [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
 * [2023-05-07, 16:49:41](https://news.ycombinator.com/item?id=35853276) - [ChatGPT cannot build a simple working site from scratch](https://news.ycombinator.com/item?id=35853276)
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [So many bad takes. Learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
