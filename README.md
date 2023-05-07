@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 06:01:29](https://news.ycombinator.com/item?id=35848343) - [Scientists find link between photosynthesis and &#x27;fifth state of matter&#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
 * [2023-05-07, 04:40:22](https://news.ycombinator.com/item?id=35847988) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
 * [2023-05-07, 03:54:04](https://news.ycombinator.com/item?id=35847774) - [‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable](https://www.nature.com/articles/d41586-023-01487-y)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
@@ -26,7 +27,6 @@
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 * [2023-05-06, 04:42:46](https://news.ycombinator.com/item?id=35838086) - [Modern Scottish, Welsh and Northern Irish people found to have Pictish ancestry](https://phys.org/news/2023-04-modern-day-scottish-welsh-northern-irish.html)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
-* [2023-05-05, 08:48:00](https://news.ycombinator.com/item?id=35826785) - [Give It the Craigslist Test](https://ericaheinz.com/notes/give-it-the-craigslist-test/)
 * [2023-05-04, 06:55:31](https://news.ycombinator.com/item?id=35812125) - [A Short History of DragThing – Ten Years of Tidying Up Your Desktop (2005)](https://www.dragthing.com/english/tenyears.html)
 * [2023-05-04, 06:04:38](https://news.ycombinator.com/item?id=35811739) - [Geography of Kansas (2022)](https://www.geographyrealm.com/geography-kansas/)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
