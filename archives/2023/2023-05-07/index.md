@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 07:26:30](https://news.ycombinator.com/item?id=35848836) - [OURphone Is a Fully Open-Source Smartphone Based on Linux](https://www.hackster.io/news/ourphone-is-a-fully-open-source-smartphone-based-on-linux-60aca685e87d)
 * [2023-05-07, 06:45:31](https://news.ycombinator.com/item?id=35848573) - [DEF CON to set thousands of hackers loose on LLMs](https://www.theregister.com/2023/05/06/ai_hacking_defcon/)
 * [2023-05-07, 06:01:29](https://news.ycombinator.com/item?id=35848343) - [Scientists find link between photosynthesis and &#x27;fifth state of matter&#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
+* [2023-05-07, 05:42:52](https://news.ycombinator.com/item?id=35848276) - [Measuring the HP 11720A Pulse Modulator and Coax Cables](https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html)
 * [2023-05-07, 04:40:22](https://news.ycombinator.com/item?id=35847988) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
 * [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Networks Are Performing Worse – What’s Going On?](https://spectrum.ieee.org/5g-rollout-disappointments)
 * [2023-05-07, 04:14:32](https://news.ycombinator.com/item?id=35847860) - [Belgium Legalises Ethical Hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
