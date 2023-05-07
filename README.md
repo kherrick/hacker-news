@@ -24,7 +24,7 @@
 * [2023-05-06, 17:46:59](https://news.ycombinator.com/item?id=35843639) - [Language Learning with Netflix](https://languagelearningwithnetflix.com/)
 * [2023-05-06, 17:39:14](https://news.ycombinator.com/item?id=35843566) - [Intel OEM Private Key Leak: A Blow to UEFI Secure Boot Security](https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/)
 * [2023-05-06, 17:13:02](https://news.ycombinator.com/item?id=35843325) - [Discord’s username change is causing discord](https://www.theverge.com/2023/5/6/23711332/discord-username-changes-community-backlash-handles)
-* [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
+* [2023-05-06, 15:45:30](https://news.ycombinator.com/item?id=35842470) - [FDA Finalizes Rule to Deregulate Hearing Aids](https://www.fda.gov/news-events/press-announcements/fda-finalizes-historic-rule-enabling-access-over-counter-hearing-aids-millions-americans)
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-04, 06:55:31](https://news.ycombinator.com/item?id=35812125) - [A Short History of DragThing – Ten Years of Tidying Up Your Desktop (2005)](https://www.dragthing.com/english/tenyears.html)
