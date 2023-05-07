@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [So many bad takes. Learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 16:00:01](https://news.ycombinator.com/item?id=35852783) - [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
 * [2023-05-07, 15:33:46](https://news.ycombinator.com/item?id=35852482) - [Cory Doctorow Explains Why Big Tech Is Making the Internet Terrible](https://jacobin.com/2023/05/cory-doctorow-big-tech-internet-monopoly-capitalism-artificial-intelligence-crypto/)
 * [2023-05-07, 15:20:54](https://news.ycombinator.com/item?id=35852364) - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
@@ -15,6 +16,7 @@
 * [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:15:14](https://news.ycombinator.com/item?id=35851208) - [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
+* [2023-05-07, 13:11:42](https://news.ycombinator.com/item?id=35851174) - [AMD promises its new laptop chips will crush the Apple M2 and it’s got receipts](https://www.techradar.com/news/amd-promises-its-new-laptop-chips-will-crush-the-apple-m2-and-its-got-reciepts)
 * [2023-05-07, 13:09:52](https://news.ycombinator.com/item?id=35851156) - [Before Dylan, There Was Connie Converse. Then She Vanished](https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html)
 * [2023-05-07, 13:04:31](https://news.ycombinator.com/item?id=35851114) - [ChatGPT is Really Good at Roleplaying](https://blog.varunramesh.net/posts/chatgpt-role-playing/)
 * [2023-05-07, 12:28:09](https://news.ycombinator.com/item?id=35850744) - [AMD OpenSIL Planned to Replace Agesa Firmware in Client and Server in 2026](https://www.anandtech.com/show/18853/amd-opensil-planned-to-replace-agesa-firmware-in-client-and-server-in-2026)
