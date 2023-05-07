@@ -9,7 +9,6 @@
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 16:33:52](https://news.ycombinator.com/item?id=35853131) - [Five Books: The best books on everything](https://fivebooks.com/)
 * [2023-05-07, 16:00:01](https://news.ycombinator.com/item?id=35852783) - [Why the Ferrari F355 sounds so good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
-* [2023-05-07, 15:15:44](https://news.ycombinator.com/item?id=35852321) - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
@@ -28,6 +27,7 @@
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-06, 19:26:59](https://news.ycombinator.com/item?id=35844574) - [Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
+* [2023-05-06, 14:56:17](https://news.ycombinator.com/item?id=35841961) - [The Language of Democracy](https://www.dissentmagazine.org/online_articles/language-democracy-christopher-lasch-plain-style)
 * [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
 * [2023-05-06, 03:39:58](https://news.ycombinator.com/item?id=35837747) - [Secd: A silly implementation of the SECD machine](https://github.com/zachallaun/secd)
 

@@ -38,6 +38,7 @@
 * [2023-05-06, 15:27:24](https://news.ycombinator.com/item?id=35842273) - [Ukraine downs Russian hypersonic missile with US Patriot](https://apnews.com/article/russia-ukraine-war-patriot-kinzhal-6b59af8e60853b4d6d16dd8d607768be)
 * [2023-05-06, 15:25:17](https://news.ycombinator.com/item?id=35842240) - [ACM Software System Award Given to seL4 Microkernel](https://awards.acm.org/software-system)
 * [2023-05-06, 15:11:05](https://news.ycombinator.com/item?id=35842111) - [The grid isn’t ready for 300M EVs by 2030](https://www.weforum.org/agenda/2023/01/electric-cars-charging-habits)
+* [2023-05-06, 14:56:17](https://news.ycombinator.com/item?id=35841961) - [The Language of Democracy](https://www.dissentmagazine.org/online_articles/language-democracy-christopher-lasch-plain-style)
 * [2023-05-06, 14:40:43](https://news.ycombinator.com/item?id=35841818) - [Bruce Schneier’s Plan to Reinvent Democracy](https://www.schneier.com/news/archives/2023/05/bruce-schneiers-plan-to-reinvent-democracy.html)
 * [2023-05-06, 14:32:53](https://news.ycombinator.com/item?id=35841748) - [Ocean-surface temperatures are breaking records](https://www.economist.com/graphic-detail/2023/05/05/ocean-surface-temperatures-are-breaking-records)
 * [2023-05-06, 14:28:21](https://news.ycombinator.com/item?id=35841703) - [Scientists Might Have Found the Best Way to Catcall a Cat](https://gizmodo.com/your-cat-knows-when-youre-using-your-cat-talk-voice-1849695518)
