@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 06:45:31](https://news.ycombinator.com/item?id=35848573) - [DEF CON to set thousands of hackers loose on LLMs](https://www.theregister.com/2023/05/06/ai_hacking_defcon/)
 * [2023-05-07, 06:01:29](https://news.ycombinator.com/item?id=35848343) - [Scientists find link between photosynthesis and &#x27;fifth state of matter&#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
 * [2023-05-07, 04:40:22](https://news.ycombinator.com/item?id=35847988) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
 * [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Networks Are Performing Worse – What’s Going On?](https://spectrum.ieee.org/5g-rollout-disappointments)
@@ -12,7 +13,6 @@
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 * [2023-05-07, 00:20:43](https://news.ycombinator.com/item?id=35846629) - [qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
 * [2023-05-06, 23:43:58](https://news.ycombinator.com/item?id=35846443) - [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
-* [2023-05-06, 21:33:29](https://news.ycombinator.com/item?id=35845540) - [Windows 11: TPMs and Digital Sovereignty](https://secret.club/2021/06/28/windows11-tpms.html)
 * [2023-05-06, 21:28:49](https://news.ycombinator.com/item?id=35845504) - [I downloaded all 1.6M posts on Bluesky](https://worthdoingbadly.com/bsky/)
 * [2023-05-06, 20:58:34](https://news.ycombinator.com/item?id=35845308) - [Mailbox.org discovers unencrypted password transmission in myMail](https://mailbox.org/en/post/mailbox-org-discovers-unencrypted-password-transmission-in-mymail)
 * [2023-05-06, 20:48:07](https://news.ycombinator.com/item?id=35845234) - [Our Amiga Demo-Creator Turns 36 Years](https://coding-and-computers.blogspot.com/2022/05/first-amiga-demo-creator-may-1987.html)
