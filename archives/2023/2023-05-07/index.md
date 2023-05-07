@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 08:39:49](https://news.ycombinator.com/item?id=35849243) - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
+* [2023-05-07, 08:25:00](https://news.ycombinator.com/item?id=35849153) - [Germany’s Nuclear Phase-Out Has Been a Disaster](https://nationalinterest.org/blog/buzz/germany%E2%80%99s-nuclear-phase-out-has-been-disaster-204007)
 * [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust](https://github.com/yberreby/rgo)
 * [2023-05-07, 08:11:16](https://news.ycombinator.com/item?id=35849060) - [I&#x27;m never investing in Google&#x27;s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
 * [2023-05-07, 08:08:19](https://news.ycombinator.com/item?id=35849043) - [EU sends Apple stark warning over USB-C charging on new iPhones](https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all)
