@@ -2,6 +2,7 @@
 
 * [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust (2016)](https://github.com/yberreby/rgo)
 * [2023-05-07, 08:11:16](https://news.ycombinator.com/item?id=35849060) - [I&#x27;m never investing in Google&#x27;s smart home ecosystem again](https://www.androidauthority.com/google-smart-home-3319869/)
+* [2023-05-07, 08:08:19](https://news.ycombinator.com/item?id=35849043) - [EU sends Apple stark warning over USB-C charging on new iPhones](https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all)
 * [2023-05-07, 07:40:52](https://news.ycombinator.com/item?id=35848894) - [‘Too greedy’: mass walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
 * [2023-05-07, 07:26:30](https://news.ycombinator.com/item?id=35848836) - [OURphone Is a Fully Open-Source Smartphone Based on Linux](https://www.hackster.io/news/ourphone-is-a-fully-open-source-smartphone-based-on-linux-60aca685e87d)
 * [2023-05-07, 06:45:31](https://news.ycombinator.com/item?id=35848573) - [DEF CON to set thousands of hackers loose on LLMs](https://www.theregister.com/2023/05/06/ai_hacking_defcon/)
@@ -25,7 +26,6 @@
 * [2023-05-06, 19:16:55](https://news.ycombinator.com/item?id=35844499) - [Solid, a spec that lets people store their data securely in decentralized Pods](https://solidproject.org/)
 * [2023-05-06, 18:04:16](https://news.ycombinator.com/item?id=35843775) - [Progress on running Haiku OS on VisionFive 2 RISC-V dev board](https://discuss.haiku-os.org/t/progress-on-running-haiku-on-visionfive-2/13369?page=2)
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
-* [2023-05-06, 15:45:30](https://news.ycombinator.com/item?id=35842470) - [FDA Finalizes Rule to Deregulate Hearing Aids](https://www.fda.gov/news-events/press-announcements/fda-finalizes-historic-rule-enabling-access-over-counter-hearing-aids-millions-americans)
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 * [2023-05-05, 11:44:03](https://news.ycombinator.com/item?id=35827994) - [Motorola’s 1990s Corvette EV Project](https://www.thedrive.com/features/the-untold-story-of-motorolas-secret-1990s-corvette-ev-project-who-killed-the-electric-corvette)
 * [2023-05-04, 06:04:38](https://news.ycombinator.com/item?id=35811739) - [Geography of Kansas (2022)](https://www.geographyrealm.com/geography-kansas/)
