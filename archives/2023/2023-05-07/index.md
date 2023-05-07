@@ -6,6 +6,7 @@
 
 * [2023-05-07, 06:01:29](https://news.ycombinator.com/item?id=35848343) - [Scientists find link between photosynthesis and &#x27;fifth state of matter&#x27;](https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html)
 * [2023-05-07, 04:40:22](https://news.ycombinator.com/item?id=35847988) - [Prime Video service dumps microservices, cuts AWS bill 90%](https://thestack.technology/amazon-prime-video-microservices-monolith/)
+* [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Networks Are Performing Worse – What’s Going On?](https://spectrum.ieee.org/5g-rollout-disappointments)
 * [2023-05-07, 03:54:04](https://news.ycombinator.com/item?id=35847774) - [‘Remarkable’ AI tool designs mRNA vaccines that are more potent and stable](https://www.nature.com/articles/d41586-023-01487-y)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-07, 02:28:55](https://news.ycombinator.com/item?id=35847327) - [The Businessman and the Fisherman](https://thestorytellers.com/the-businessman-and-the-fisherman/)
