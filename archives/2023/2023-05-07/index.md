@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 16:58:46](https://news.ycombinator.com/item?id=35853344) - [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
+* [2023-05-07, 16:49:41](https://news.ycombinator.com/item?id=35853276) - [ChatGPT cannot build a simple working site from scratch](https://news.ycombinator.com/item?id=35853276)
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [So many bad takes. Learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 16:00:01](https://news.ycombinator.com/item?id=35852783) - [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
 * [2023-05-07, 15:33:46](https://news.ycombinator.com/item?id=35852482) - [Cory Doctorow Explains Why Big Tech Is Making the Internet Terrible](https://jacobin.com/2023/05/cory-doctorow-big-tech-internet-monopoly-capitalism-artificial-intelligence-crypto/)
