@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
 * [2023-05-07, 13:04:31](https://news.ycombinator.com/item?id=35851114) - [ChatGPT is Really Good at Roleplaying](https://blog.varunramesh.net/posts/chatgpt-role-playing/)
 * [2023-05-07, 12:28:09](https://news.ycombinator.com/item?id=35850744) - [AMD OpenSIL Planned to Replace Agesa Firmware in Client and Server in 2026](https://www.anandtech.com/show/18853/amd-opensil-planned-to-replace-agesa-firmware-in-client-and-server-in-2026)
@@ -22,12 +23,11 @@
 * [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Rollout Disappointments](https://spectrum.ieee.org/5g-rollout-disappointments)
 * [2023-05-07, 04:14:32](https://news.ycombinator.com/item?id=35847860) - [Belgium Legalises Ethical Hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
-* [2023-05-07, 03:54:04](https://news.ycombinator.com/item?id=35847774) - [AI tool designs mRNA vaccines that are more potent and stable](https://www.nature.com/articles/d41586-023-01487-y)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-07, 02:28:55](https://news.ycombinator.com/item?id=35847327) - [The businessman and the fisherman (1963)](https://thestorytellers.com/the-businessman-and-the-fisherman/)
 * [2023-05-07, 02:17:10](https://news.ycombinator.com/item?id=35847269) - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
+* [2023-05-07, 01:10:02](https://news.ycombinator.com/item?id=35846885) - [Marlo Ciciliani: Mask (for no input mixer, 2004)](https://www.ciciliani.com/mask.html)
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
-* [2023-05-07, 00:20:43](https://news.ycombinator.com/item?id=35846629) - [Qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
 * [2023-05-06, 23:43:58](https://news.ycombinator.com/item?id=35846443) - [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 

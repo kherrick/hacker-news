@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:15:14](https://news.ycombinator.com/item?id=35851208) - [Synthetic gasoline promises neutral emissions –- but the math doesn’t work](https://arstechnica.com/cars/2023/05/synthetic-gasoline-promises-neutral-emissions-but-the-math-doesnt-work/)
 * [2023-05-07, 13:14:21](https://news.ycombinator.com/item?id=35851200) - [The Rocky Horror Coffin Clock](https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/)
 * [2023-05-07, 13:04:31](https://news.ycombinator.com/item?id=35851114) - [ChatGPT is Really Good at Roleplaying](https://blog.varunramesh.net/posts/chatgpt-role-playing/)
@@ -40,6 +41,7 @@
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-07, 02:28:55](https://news.ycombinator.com/item?id=35847327) - [The Businessman and the Fisherman](https://thestorytellers.com/the-businessman-and-the-fisherman/)
 * [2023-05-07, 02:17:10](https://news.ycombinator.com/item?id=35847269) - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
+* [2023-05-07, 01:10:02](https://news.ycombinator.com/item?id=35846885) - [Marlo Ciciliani: Mask (for no input mixer, 2004)](https://www.ciciliani.com/mask.html)
 * [2023-05-07, 00:40:08](https://news.ycombinator.com/item?id=35846726) - [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 * [2023-05-07, 00:20:43](https://news.ycombinator.com/item?id=35846629) - [qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
