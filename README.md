@@ -24,10 +24,10 @@
 * [2023-05-07, 07:11:23](https://news.ycombinator.com/item?id=35848758) - [TV series about startup failures](https://www.1984.design/c/discussions/tv-series-about-startup-failures-portraying-their-greedy-founders-and-the-damages-of-the-current-startup-ecosystem)
 * [2023-05-07, 06:19:50](https://news.ycombinator.com/item?id=35848421) - [React Aria Components](https://react-spectrum.adobe.com/react-aria/react-aria-components.html)
 * [2023-05-07, 05:38:54](https://news.ycombinator.com/item?id=35848267) - [Memoirs from the old web: IE&#x27;s crazy content rating system](https://www.devever.net/~hl/pics)
+* [2023-05-07, 04:21:48](https://news.ycombinator.com/item?id=35847899) - [5G Rollout Disappointments](https://spectrum.ieee.org/5g-rollout-disappointments)
 * [2023-05-07, 04:14:32](https://news.ycombinator.com/item?id=35847860) - [Belgium legalises ethical hacking](https://www.law.kuleuven.be/citip/blog/belgium-legalises-ethical-hacking-a-threat-or-an-opportunity-for-cybersecurity/)
 * [2023-05-07, 04:03:06](https://news.ycombinator.com/item?id=35847814) - [Large-scale study reveals autoimmune disorders now affect around one in ten](https://www.gla.ac.uk/news/headline_952084_en.html)
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
-* [2023-05-07, 02:28:55](https://news.ycombinator.com/item?id=35847327) - [The businessman and the fisherman (1963)](https://thestorytellers.com/the-businessman-and-the-fisherman/)
 * [2023-05-06, 19:26:59](https://news.ycombinator.com/item?id=35844574) - [Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
 * [2023-05-06, 03:39:58](https://news.ycombinator.com/item?id=35837747) - [Secd: A silly implementation of the SECD machine](https://github.com/zachallaun/secd)
 
