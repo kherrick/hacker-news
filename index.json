@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-07, 00:40:08",
+      "https://news.ycombinator.com/item?id=35846726"
+    ],
+    [
+      "Nintendo issues DMCA takedown for Switch homebrew projects",
+      "https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 00:20:43",
+      "https://news.ycombinator.com/item?id=35846629"
+    ],
+    [
+      "qsort.h – Quicksort as a C macro (2019)",
+      "https://github.com/svpv/qsort"
+    ]
+  ],
+  [
+    [
       "2023-05-06, 23:55:53",
       "https://news.ycombinator.com/item?id=35846517"
     ],
@@ -17,6 +37,16 @@
     [
       "KDE Developers in Germany Planning for Plasma 6.0",
       "https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 23:43:58",
+      "https://news.ycombinator.com/item?id=35846443"
+    ],
+    [
+      "FaaS in Go with WASM, WASI and Rust",
+      "https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "The Coggers – history and tragedy of the first US mountain railroad",
       "http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 21:33:29",
+      "https://news.ycombinator.com/item?id=35845540"
+    ],
+    [
+      "Windows 11: TPMs and Digital Sovereignty",
+      "https://secret.club/2021/06/28/windows11-tpms.html"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2023-05-06, 17:41:32",
-      "https://news.ycombinator.com/item?id=35843588"
-    ],
-    [
-      "The phenomena of inner experience (2007) [pdf]",
-      "https://hurlburt.faculty.unlv.edu/heavey-hurlburt-2008.pdf"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 17:39:14",
       "https://news.ycombinator.com/item?id=35843566"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-05-06, 08:50:39",
-      "https://news.ycombinator.com/item?id=35839470"
-    ],
-    [
-      "Atuin replaces your existing shell history with a SQLite database",
-      "https://github.com/ellie/atuin"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 06:02:36",
       "https://news.ycombinator.com/item?id=35838528"
     ],
@@ -237,26 +257,6 @@
     [
       "Give It the Craigslist Test",
       "https://ericaheinz.com/notes/give-it-the-craigslist-test/"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 08:38:01",
-      "https://news.ycombinator.com/item?id=35826723"
-    ],
-    [
-      "Concrete: A fully homomorphic encryption compiler",
-      "https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler"
-    ]
-  ],
-  [
-    [
-      "2023-05-05, 07:07:10",
-      "https://news.ycombinator.com/item?id=35826193"
-    ],
-    [
-      "New Playground: Integer.exposed",
-      "https://jvns.ca/blog/2023/04/19/new-playground-integer-exposed/"
     ]
   ],
   [
