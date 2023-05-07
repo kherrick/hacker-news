@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-07, 00:40:08](https://news.ycombinator.com/item?id=35846726) - [Nintendo issues DMCA takedown for Switch homebrew projects](https://gbatemp.net/threads/nintendo-reportedly-issues-dmca-takedown-for-switch-homebrew-projects-skyline-switch-emulator-development-ceased.632406/)
+* [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 * [2023-05-07, 00:20:43](https://news.ycombinator.com/item?id=35846629) - [qsort.h – Quicksort as a C macro (2019)](https://github.com/svpv/qsort)
 * [2023-05-06, 23:55:53](https://news.ycombinator.com/item?id=35846517) - [70% of Type 2 Diabetes Cases Linked to Food Choices](https://scitechdaily.com/new-study-70-of-type-2-diabetes-cases-linked-to-food-choices/)
 * [2023-05-06, 23:53:40](https://news.ycombinator.com/item?id=35846508) - [KDE Developers in Germany Planning for Plasma 6.0](https://www.phoronix.com/news/KDE-Plasma-6-Sprint-Germany)
 * [2023-05-06, 23:43:58](https://news.ycombinator.com/item?id=35846443) - [FaaS in Go with WASM, WASI and Rust](https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/)
-* [2023-05-06, 23:35:11](https://news.ycombinator.com/item?id=35846386) - [How are you using ChatGPT internally at your company?](https://news.ycombinator.com/item?id=35846386)
 * [2023-05-06, 22:37:16](https://news.ycombinator.com/item?id=35845963) - [Biggest industries burn through $7.3T of natural capital a year](https://grist.org/business-technology/none-of-the-worlds-top-industries-would-be-profitable-if-they-paid-for-the-natural-capital-they-use/)
 * [2023-05-06, 22:11:54](https://news.ycombinator.com/item?id=35845791) - [The Coggers – history and tragedy of the first US mountain railroad](http://www.northstarmonthly.com/features/the-history-and-tragedy-of-the-first-mountain-railroad-through-the-eyes-of-past-employees/article_ec1814fa-515a-11e9-9de4-7b44d5b8c75e.html)
 * [2023-05-06, 21:33:29](https://news.ycombinator.com/item?id=35845540) - [Windows 11: TPMs and Digital Sovereignty](https://secret.club/2021/06/28/windows11-tpms.html)
