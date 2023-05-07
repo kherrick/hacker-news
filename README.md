@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
+* [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 * [2023-05-07, 08:39:49](https://news.ycombinator.com/item?id=35849243) - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
 * [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust (2016)](https://github.com/yberreby/rgo)
@@ -8,7 +9,7 @@
 * [2023-05-07, 08:08:19](https://news.ycombinator.com/item?id=35849043) - [EU sends Apple stark warning over USB-C charging on new iPhones](https://www.techradar.com/news/apple-may-not-restrict-usb-c-charging-on-new-iphones-after-all)
 * [2023-05-07, 07:40:52](https://news.ycombinator.com/item?id=35848894) - [‘Too greedy’: mass walkout at global science journal over ‘unethical’ fees](https://www.theguardian.com/science/2023/may/07/too-greedy-mass-walkout-at-global-science-journal-over-unethical-fees)
 * [2023-05-07, 07:26:30](https://news.ycombinator.com/item?id=35848836) - [OURphone Is a Fully Open-Source Smartphone Based on Linux](https://www.hackster.io/news/ourphone-is-a-fully-open-source-smartphone-based-on-linux-60aca685e87d)
-* [2023-05-07, 07:11:53](https://news.ycombinator.com/item?id=35848764) - [Effect of lysergic acid diethylamide (LSD) on reinforcement learning in humans](https://www.cambridge.org/core/journals/psychological-medicine/article/effect-of-lysergic-acid-diethylamide-lsd-on-reinforcement-learning-in-humans/28E41FEE97D3A8614C77DC54DF501489)
+* [2023-05-07, 07:11:53](https://news.ycombinator.com/item?id=35848764) - [Effect of LSD on reinforcement learning in humans (2022)](https://www.cambridge.org/core/journals/psychological-medicine/article/effect-of-lysergic-acid-diethylamide-lsd-on-reinforcement-learning-in-humans/28E41FEE97D3A8614C77DC54DF501489)
 * [2023-05-07, 06:45:31](https://news.ycombinator.com/item?id=35848573) - [DEF CON to set thousands of hackers loose on LLMs](https://www.theregister.com/2023/05/06/ai_hacking_defcon/)
 * [2023-05-07, 06:19:50](https://news.ycombinator.com/item?id=35848421) - [React Aria Components](https://react-spectrum.adobe.com/react-aria/react-aria-components.html)
 * [2023-05-07, 06:12:56](https://news.ycombinator.com/item?id=35848397) - [Two seventeenth century atlases digitised and online (2022)](https://blogs.bl.uk/magnificentmaps/2022/12/norden-and-van-den-keere-two-seventeenth-century-atlases-digitised-and-online.html)
@@ -27,7 +28,6 @@
 * [2023-05-06, 20:58:34](https://news.ycombinator.com/item?id=35845308) - [Mailbox.org discovers unencrypted password transmission in myMail](https://mailbox.org/en/post/mailbox-org-discovers-unencrypted-password-transmission-in-mymail)
 * [2023-05-06, 20:40:11](https://news.ycombinator.com/item?id=35845188) - [Sony PlayStation 2 Development Kit (2020)](https://www.retroreversing.com/playstation-2-development-hardware)
 * [2023-05-06, 19:42:36](https://news.ycombinator.com/item?id=35844735) - [Transcending My Father&#x27;s Abuse](https://valspals.substack.com/p/transcending-my-fathers-abuse)
-* [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 

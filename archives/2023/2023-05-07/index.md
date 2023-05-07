@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
 * [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
+* [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 * [2023-05-07, 08:39:49](https://news.ycombinator.com/item?id=35849243) - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
 * [2023-05-07, 08:25:00](https://news.ycombinator.com/item?id=35849153) - [Germany’s Nuclear Phase-Out Has Been a Disaster](https://nationalinterest.org/blog/buzz/germany%E2%80%99s-nuclear-phase-out-has-been-disaster-204007)
