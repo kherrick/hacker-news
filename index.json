@@ -1,42 +1,12 @@
 [
   [
     [
-      "2023-05-07, 15:20:54",
-      "https://news.ycombinator.com/item?id=35852364"
-    ],
-    [
-      "OpenAI Sued for Fraud Allegations",
-      "https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 15:20:22",
-      "https://news.ycombinator.com/item?id=35852360"
-    ],
-    [
-      "AI voice scams: 77% of victims lose money",
-      "https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 15:15:44",
       "https://news.ycombinator.com/item?id=35852321"
     ],
     [
       "Why Lisp?",
       "https://nyxt.atlas.engineer/article/why-lisp.org"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 15:06:46",
-      "https://news.ycombinator.com/item?id=35852242"
-    ],
-    [
-      "Russians Seem Interested in My Book About How Dictatorships End",
-      "https://www.almendron.com/tribuna/russians-seem-very-interested-in-my-book-about-how-dictatorships-end/"
     ]
   ],
   [
@@ -75,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35851156"
     ],
     [
-      "Before Dylan, There Was Connie Converse. Then She Vanished",
+      "When Connie Converse, the ‘female Bob Dylan,’ lived in NYC",
       "https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html"
     ]
   ],
@@ -97,6 +67,16 @@
     [
       "Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing",
       "https://github.com/susam/devil"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 08:59:41",
+      "https://news.ycombinator.com/item?id=35849384"
+    ],
+    [
+      "Burnout",
+      "https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-05-07, 04:21:48",
+      "https://news.ycombinator.com/item?id=35847899"
+    ],
+    [
+      "5G Rollout Disappointments",
+      "https://spectrum.ieee.org/5g-rollout-disappointments"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 04:14:32",
       "https://news.ycombinator.com/item?id=35847860"
     ],
@@ -297,6 +287,16 @@
     [
       "Marlo Ciciliani: Mask (for no input mixer, 2004)",
       "https://www.ciciliani.com/mask.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 03:39:58",
+      "https://news.ycombinator.com/item?id=35837747"
+    ],
+    [
+      "Secd: A silly implementation of the SECD machine",
+      "https://github.com/zachallaun/secd"
     ]
   ]
 ]
