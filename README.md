@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 * [2023-05-07, 08:52:03](https://news.ycombinator.com/item?id=35849313) - [The tale of &quot;-mrtd&quot; in GCC and Clang](https://m680x0.github.io/blog/2023/05/the-tale-of-mrtd.html)
 * [2023-05-07, 08:39:49](https://news.ycombinator.com/item?id=35849243) - [Google Calendar and Assistant Reminders Will Migrate to Google Tasks Soon](https://workspaceupdates.googleblog.com/2023/02/calendar-and-assistant-reminders-to-tasks-migration.html)
 * [2023-05-07, 08:15:33](https://news.ycombinator.com/item?id=35849092) - [A Go compiler, written in Rust (2016)](https://github.com/yberreby/rgo)
@@ -28,7 +29,6 @@
 * [2023-05-06, 19:42:36](https://news.ycombinator.com/item?id=35844735) - [Transcending My Father&#x27;s Abuse](https://valspals.substack.com/p/transcending-my-fathers-abuse)
 * [2023-05-06, 17:00:22](https://news.ycombinator.com/item?id=35843196) - [Jerry (YC S17) Is Hiring Head of Design, Sr Designer, and PMs](https://getjerry.com/careers)
 * [2023-05-06, 06:02:36](https://news.ycombinator.com/item?id=35838528) - [Tunnel of Eupalinos](https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos)
-* [2023-05-04, 06:04:38](https://news.ycombinator.com/item?id=35811739) - [Geography of Kansas (2022)](https://www.geographyrealm.com/geography-kansas/)
 * [2023-05-04, 03:32:05](https://news.ycombinator.com/item?id=35810901) - [Firesky – The Bluesky Firehose](https://firesky.tv/)
 
 ## [Archives](archives/index.md)
