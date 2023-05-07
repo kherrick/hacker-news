@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-07, 15:20:54](https://news.ycombinator.com/item?id=35852364) - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
+* [2023-05-07, 15:20:22](https://news.ycombinator.com/item?id=35852360) - [AI voice scams: 77% of victims lose money](https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/)
 * [2023-05-07, 15:15:44](https://news.ycombinator.com/item?id=35852321) - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
 * [2023-05-07, 15:06:46](https://news.ycombinator.com/item?id=35852242) - [Russians Seem Interested in My Book About How Dictatorships End](https://www.almendron.com/tribuna/russians-seem-very-interested-in-my-book-about-how-dictatorships-end/)
 * [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
@@ -28,7 +29,6 @@
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-07, 02:28:55](https://news.ycombinator.com/item?id=35847327) - [The businessman and the fisherman (1963)](https://thestorytellers.com/the-businessman-and-the-fisherman/)
 * [2023-05-07, 02:17:10](https://news.ycombinator.com/item?id=35847269) - [RedisRaft](https://github.com/RedisLabs/redisraft/blob/master/docs/Introduction.md)
-* [2023-05-07, 01:10:02](https://news.ycombinator.com/item?id=35846885) - [Marlo Ciciliani: Mask (for no input mixer, 2004)](https://www.ciciliani.com/mask.html)
 * [2023-05-07, 00:29:28](https://news.ycombinator.com/item?id=35846667) - [Show HN: Git Hooting](https://git.ht)
 
 ## [Archives](archives/index.md)
