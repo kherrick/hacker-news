@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-05-07, 13:04:31",
-      "https://news.ycombinator.com/item?id=35851114"
-    ],
-    [
-      "ChatGPT is really good at roleplaying",
-      "https://blog.varunramesh.net/posts/chatgpt-role-playing/"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 12:28:09",
       "https://news.ycombinator.com/item?id=35850744"
     ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=35848872"
     ],
     [
-      "DIY-Thermocam: The Affordable and Easy-to-Build Thermal Camera for Everyone",
+      "DIY-Thermocam: A low-cost thermal imager based on the FLIR Lepton sensor",
       "https://www.diy-thermocam.net/"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35848758"
     ],
     [
-      "TV series about startup failures, portraying greedy founders, and the damages",
+      "TV series about startup failures",
       "https://www.1984.design/c/discussions/tv-series-about-startup-failures-portraying-their-greedy-founders-and-the-damages-of-the-current-startup-ecosystem"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Show HN: Git Hooting",
       "https://git.ht"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 00:20:43",
+      "https://news.ycombinator.com/item?id=35846629"
+    ],
+    [
+      "Qsort.h – Quicksort as a C macro (2019)",
+      "https://github.com/svpv/qsort"
     ]
   ],
   [
