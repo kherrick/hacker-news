@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 18:10:06](https://news.ycombinator.com/item?id=35865010) - [Fundraising Stages Defined (Angel&#x2F;Pre-Seed&#x2F;Seed&#x2F;Series A) – Incisive Ventures](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
 * [2023-05-08, 17:45:50](https://news.ycombinator.com/item?id=35864661) - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
 * [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [Next Computers](https://www.nextcomputers.org/)

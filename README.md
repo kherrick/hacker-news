@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 18:10:06](https://news.ycombinator.com/item?id=35865010) - [Fundraising Stages Defined (Angel&#x2F;Pre-Seed&#x2F;Seed&#x2F;Series A) – Incisive Ventures](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
 * [2023-05-08, 17:45:50](https://news.ycombinator.com/item?id=35864661) - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
 * [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [Next Computers](https://www.nextcomputers.org/)
@@ -7,7 +8,6 @@
 * [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 * [2023-05-08, 16:41:25](https://news.ycombinator.com/item?id=35863746) - [Colonels of Truth (2016)](https://www.damninteresting.com/colonels-of-truth/)
-* [2023-05-08, 16:26:13](https://news.ycombinator.com/item?id=35863512) - [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
 * [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
 * [2023-05-08, 16:01:47](https://news.ycombinator.com/item?id=35863175) - [GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
 * [2023-05-08, 15:59:03](https://news.ycombinator.com/item?id=35863124) - [Concrete goes carbon-negative](https://spectrum.ieee.org/concrete)
