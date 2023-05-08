@@ -129,6 +129,73 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="35864661">
+          <h3>
+            <a class="item" href="https://cptn.io"
+              >Show HN: Cptn.io – open-source integration platform</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-08 @ 17:45:50</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35864661"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://cptn.io">https://cptn.io</a>). The product is MIT
+              licensed and the repo is at
+              <a href="https://github.com/cptn-io/el-cptn"
+                >https://github.com/cptn-io/el-cptn</a
+              >.
+              <p>
+                I have started on my startup journey an year ago and launched a
+                monitoring platform called DevRaven. Unfortunately the product
+                did not takeoff as expected. That story is for another day.
+              </p>
+              <p>
+                But during the course of building the product, I have built
+                several integrations leveraging MQs and Cloud Functions. While
+                building and deploying Cloud Functions for happy paths is easy,
+                I had to monitor logs for failures, build retry mechanisms or
+                manually process failed events, keep instances running to
+                prevent cold start timeouts. It can also get expensive with
+                charges for MQs, server time for running cloud functions etc and
+                costs can be unpredictable.
+              </p>
+              <p>
+                I thought of building a platform where I can build integrations
+                quickly, have the ability to look at incoming/outgoing events,
+                look at logs, retry any failed events etc. And finally,
+                predictable costs for running the infrastructure. cptn.io
+                provides all these capabilities and more. You can build
+                pipelines to integrate with any cloud services, send data from
+                your backend to data warehouses, listen to web hook events etc.
+                The platform can be integrated into any stack by sending events
+                to HTTP end points.
+              </p>
+              <p>
+                Instead of trying to build a business first or launch an open
+                source product under restrictive licenses, the platform will be
+                available under MIT license so any user or customer can use it.
+                There is no ee folder or complex dual licensing and I am also
+                committing to releasing SSO under MIT. The plan is to offer a
+                managed service in the cloud at a later time, accept sponsors
+                for prioritizing features for enterprise customers and charge
+                for enterprise support.
+              </p>
+              <p>
+                It should take less than 5 minutes to get the platform running
+                on your machine. Welcome any feedback, feature requests, PRs and
+                bug reports.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="35864484">
           <h3>
             <a
@@ -141,7 +208,7 @@
             <h4>
               <span>2023-05-08 @ 17:34:01</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35864484"
                   >Comments</a
@@ -160,13 +227,153 @@
             <h4>
               <span>2023-05-08 @ 17:29:37</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35864429"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="35864114">
+          <h3>
+            <a class="item" href="https://domainverification.org"
+              >Show HN: Automatic Domain Verification</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-08 @ 17:06:01</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35864114"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The Domain Verification protocol stores a DNS TXT record at a
+                DNS name derived from a hashed "verifiable identifier" (email,
+                telephone, DID), enabling anyone that can prove control over the
+                verifiable identifier to prove authority for the domain name,
+                whilst preserving the privacy of the authorised party.
+              </p>
+              <p>
+                Once setup, the record enables automatic domain verification for
+                any service provider.
+              </p>
+              <p>
+                This record could be automatically setup by domain registrars
+                upon domain registration (with registrant opt-in) creating a
+                fast lane for verification with service providers many new small
+                businesses use (eg Google Ads, Facebook, Office365, Dropbox,
+                etc).
+              </p>
+              <p>=====</p>
+              <p>
+                Many of us would have verified a domain name by pasting a string
+                into a DNS TXT record. These methods are currently being
+                discussed and standardised at the IETF [2].
+              </p>
+              <p>
+                Let's Encrypt's DNS-01 method [3] is probably considered the
+                state of the art. The differences between DNS-01 and Domain
+                Verification protocol are:
+              </p>
+              <p>
+                - DNS-01 requires a new TXT record for each service provider.
+                With Domain Verification Protocol, multiple service providers
+                can use the same record.
+              </p>
+              <p>
+                - Instructions to setup a DNS-01 TXT record are instigated by
+                the service provider, whereas a Domain Verification Protocol
+                record can be setup independently by a user or a domain
+                registrar. They could even pre-populated by a registrar upon
+                domain registration (with registrant opt-in)
+              </p>
+              <p>
+                - There’s no concept of permissions in DNS-01, the act of
+                creating the record gives the user full access for the domain
+                with the service provider. With Domain Verification protocol
+                multiple records can be setup, limited permissions could be
+                setup for different third parties. For example give a marketing
+                agency authentication to claim the domain on social media but
+                nowhere else.
+              </p>
+              <p>
+                I'm still working on licensing but creating these records will
+                always be free. I hope to find service providers that see
+                significant upside in reducing friction for user onboarding that
+                are willing to pay to license it.
+              </p>
+              <p>
+                Worked example: Let's say you want to authenticate the user with
+                the email user@example.com with the domain dvexample.com, these
+                are the steps:
+              </p>
+              <p>
+                a. HASH(user@example.com) -&gt;
+                4i7ozur385y5nsqoo0mg0mxv6t9333s2rarxrtvlpag1gsk8pg
+              </p>
+              <p>
+                b. Store Domain Verification record at:
+                4i7ozur385y5nsqoo0mg0mxv6t9333s2rarxrtvlpag1gsk8pg._dv.dvexample.com
+              </p>
+              <p>c. TXT record determines permissions and time limit:</p>
+              <p>
+                @dv=1;d=Example user
+                email;e=2025-01-01;s=[seo;email];h=4i7ozur385y5nsqoo0mg0mxv6t9333s2rarxrtvlpag1gsk8pg
+              </p>
+              <p>Thanks for taking a look,</p>
+              <p>Elliott</p>
+              <p>
+                1.
+                <a href="https://news.ycombinator.com/item?id=35827952"
+                  >https://news.ycombinator.com/item?id=35827952</a
+                >
+              </p>
+              <p>
+                2.
+                <a
+                  href="https://datatracker.ietf.org/doc/draft-ietf-dnsop-domain-verification-techniques/"
+                  >https://datatracker.ietf.org/doc/draft-ietf-dnsop-domain-ver...</a
+                >
+              </p>
+              <p>
+                3.
+                <a href="https://letsencrypt.org/docs/challenge-types/"
+                  >https://letsencrypt.org/docs/challenge-types/</a
+                >
+              </p>
+              <p>=====</p>
+              <p>Quick sidebar:</p>
+              <p>
+                This was originally submitted to HN under the title "Show HN:
+                Make domain verification as easy as verifying an email or phone
+                number" 3 days ago [1]. It was doing really well (#3 on front
+                page) then totally disappeared from front page and went to
+                bottom of page 1 of Show HN.
+              </p>
+              <p>
+                After an email exchange with dang (incredibly helpful as
+                always), he explained that it got flagged with the "overheated
+                discussion detector" and it turned out I caused this by
+                diligently responding to every comment as fast as my fingers
+                would type because I wanted to keep engagement going. Helpfully
+                dang took the flag off it about 12 hours later after our email
+                exchange, but understandably the momentum was lost.
+              </p>
+              <p>
+                So I feel like it kinda got killed, just as it was picking up
+                pace and as the US west coast was waking up. So I am humbly
+                reposting it with a modified description based on the comments
+                of the last post.
+              </p>
+            </div>
           </section>
         </section>
         <section id="35864053">
@@ -185,27 +392,6 @@
             </h4>
           </section>
         </section>
-        <section id="35863876">
-          <h3>
-            <a
-              class="item"
-              href="https://www.wired.com/story/tiktok-platforms-cory-doctorow/"
-              >The ‘Enshittification’ of TikTok: Or how, platforms die</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-08 @ 16:49:28</span
-              ><span class="points-container"
-                >Points: <span class="points">106</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35863876"
-                  >Comments</a
-                ><span class="descendants">: 109</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="35863837">
           <h3>
             <a class="item" href="https://github.com/vadimdemedes/ink"
@@ -216,11 +402,11 @@
             <h4>
               <span>2023-05-08 @ 16:46:41</span
               ><span class="points-container"
-                >Points: <span class="points">138</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35863837"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -230,15 +416,14 @@
             <a
               class="item"
               href="https://www.damninteresting.com/colonels-of-truth/"
-              >The Tumultuous Life of Harland Sanders, Founder of Kentucky Fried
-              Chicken (KFC)</a
+              >Colonels of Truth (2016)</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-08 @ 16:41:25</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35863746"
                   >Comments</a
@@ -259,11 +444,11 @@
             <h4>
               <span>2023-05-08 @ 16:26:13</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35863512"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 91</span></span
               >
             </h4>
           </section>
@@ -280,11 +465,11 @@
             <h4>
               <span>2023-05-08 @ 16:13:01</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35863309"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -301,11 +486,11 @@
             <h4>
               <span>2023-05-08 @ 16:01:47</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35863175"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -313,18 +498,18 @@
         <section id="35863124">
           <h3>
             <a class="item" href="https://spectrum.ieee.org/concrete"
-              >Concrete Goes Carbon-Negative</a
+              >Concrete goes carbon-negative</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-08 @ 15:59:03</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35863124"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -341,32 +526,11 @@
             <h4>
               <span>2023-05-08 @ 15:40:33</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35862837"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35862833">
-          <h3>
-            <a
-              class="item"
-              href="https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/"
-              >Intel Announces Layoffs After Paying $1.5B in Q1 Dividends</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-08 @ 15:40:24</span
-              ><span class="points-container"
-                >Points: <span class="points">206</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35862833"
-                  >Comments</a
-                ><span class="descendants">: 196</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -383,31 +547,11 @@
             <h4>
               <span>2023-05-08 @ 15:37:43</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35862799"
                   >Comments</a
                 ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35862753">
-          <h3>
-            <a class="item" href="https://text.npr.org/1174132413"
-              >People are trying to claim real videos are deepfakes. The courts
-              are not amused</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-08 @ 15:33:51</span
-              ><span class="points-container"
-                >Points: <span class="points">132</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35862753"
-                  >Comments</a
-                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -424,11 +568,11 @@
             <h4>
               <span>2023-05-08 @ 15:26:42</span
               ><span class="points-container"
-                >Points: <span class="points">334</span></span
+                >Points: <span class="points">339</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35862656"
                   >Comments</a
-                ><span class="descendants">: 152</span></span
+                ><span class="descendants">: 155</span></span
               >
             </h4>
           </section>
@@ -438,14 +582,14 @@
             <a
               class="item"
               href="https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/"
-              >A Mutation Turned Ants into Parasites in One Generation</a
+              >A mutation turned ants into parasites in one generation</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-08 @ 14:50:47</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35862142"
                   >Comments</a
@@ -459,18 +603,18 @@
             <a
               class="item"
               href="https://appventuretime.blog/how-to-design-software-architecture-for-startups"
-              >How to Design Software Architecture for Startups</a
+              >How to design software architecture for startups</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-08 @ 13:52:53</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">136</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35861502"
                   >Comments</a
-                ><span class="descendants">: 81</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -487,33 +631,11 @@
             <h4>
               <span>2023-05-08 @ 13:44:16</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35861435"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35861412">
-          <h3>
-            <a
-              class="item"
-              href="https://restofworld.org/2023/force-47-vietnam-military-group-facebook/"
-              >The Vietnamese military has an actual troll army and Facebook is
-              its weapon</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-08 @ 13:41:40</span
-              ><span class="points-container"
-                >Points: <span class="points">116</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35861412"
-                  >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -539,28 +661,6 @@
             </h4>
           </section>
         </section>
-        <section id="35860401">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theglobeandmail.com/canada/article-canada-extends-copyright-protection-another-20-years-to-meet-new-trade/"
-              >Canada extends copyright protection another 20 years to meet
-              trade obligation</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-08 @ 11:29:00</span
-              ><span class="points-container"
-                >Points: <span class="points">197</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35860401"
-                  >Comments</a
-                ><span class="descendants">: 95</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="35859877">
           <h3>
             <a
@@ -573,11 +673,11 @@
             <h4>
               <span>2023-05-08 @ 10:00:51</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35859877"
                   >Comments</a
-                ><span class="descendants">: 173</span></span
+                ><span class="descendants">: 174</span></span
               >
             </h4>
           </section>
@@ -594,31 +694,11 @@
             <h4>
               <span>2023-05-08 @ 09:38:11</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">77</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35859752"
                   >Comments</a
                 ><span class="descendants">: 29</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35859344">
-          <h3>
-            <a class="item" href="https://github.com/paulpierre/RasaGPT"
-              >RasaGPT: First headless LLM chatbot built on top of Rasa,
-              Langchain and FastAPI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-08 @ 08:31:37</span
-              ><span class="points-container"
-                >Points: <span class="points">157</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35859344"
-                  >Comments</a
-                ><span class="descendants">: 95</span></span
               >
             </h4>
           </section>
@@ -635,93 +715,114 @@
             <h4>
               <span>2023-05-08 @ 08:30:58</span
               ><span class="points-container"
-                >Points: <span class="points">261</span></span
+                >Points: <span class="points">264</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35859338"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="35859281">
-          <h3>
-            <a class="item" href="https://www.flightreader.com/"
-              >DJI drone flight log viewer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-08 @ 08:21:17</span
-              ><span class="points-container"
-                >Points: <span class="points">92</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35859281"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35858357">
+        <section id="35858438">
           <h3>
             <a
               class="item"
-              href="http://www.artsmarket.co.uk/greta-valentine/greta-mary-sequeira-valentine.htm"
-              >Greta Mary Sequeira Valentine</a
+              href="https://www.theguardian.com/science/blog/2010/sep/08/slime-mould-physarum"
+              >Let slime moulds do the thinking (2010)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-05-08 @ 05:14:02</span
+              <span>2023-05-08 @ 05:28:48</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35858357"
+                ><a href="https://news.ycombinator.com/item?id=35858438"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35858375">
+          <h3>
+            <a class="item" href="https://ivanish.ca/hest-time-travel/"
+              >Hest, Time Travel (2019)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-08 @ 05:16:26</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35858375"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="35857072">
+        <section id="35858268">
           <h3>
             <a
               class="item"
-              href="https://www.sacrideo.us/suggestivity-and-idioms-in-apl/"
-              >Suggestivity and Idioms in APL</a
+              href="https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/"
+              >Rapamycin: The unlucky history of an anti-aging drug</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-05-08 @ 01:10:46</span
+              <span>2023-05-08 @ 04:59:25</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35857072"
+                ><a href="https://news.ycombinator.com/item?id=35858268"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 126</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="35854369">
+        <section id="35852710">
           <h3>
             <a
               class="item"
-              href="https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf"
-              >Are There Price Asymmetries in the U.S. Beef Market? [pdf]</a
+              href="https://gizmodo.com/casio-g-shock-digital-watch-fitness-tracking-heart-rate-1850357822"
+              >Casio adds fitness features to original G-Shock digital watch</a
             >
           </h3>
           <section>
             <h4>
-              <span>2023-05-07 @ 18:49:21</span
+              <span>2023-05-07 @ 15:52:43</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35854369"
+                ><a href="https://news.ycombinator.com/item?id=35852710"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 47</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35852516">
+          <h3>
+            <a
+              class="item"
+              href="https://www.chrbutler.com/what-i-want-from-the-internet"
+              >What I want from the internet</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-07 @ 15:36:16</span
+              ><span class="points-container"
+                >Points: <span class="points">59</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35852516"
+                  >Comments</a
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -738,11 +839,91 @@
             <h4>
               <span>2023-05-07 @ 15:10:25</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35852271"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35837807">
+          <h3>
+            <a
+              class="item"
+              href="http://www.travelforaliving.co.uk/tips/know-about-new-york-destination-fee/"
+              >The New York hotel destination fee scam (2020)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-06 @ 03:52:14</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35837807"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35836221">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=35836221"
+              >Ask HN: Suing Facebook in small claims?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-05 @ 23:08:45</span
+              ><span class="points-container"
+                >Points: <span class="points">28</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35836221"
+                  >Comments</a
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I am still paying monthly for Facebook Ads for my small
+                business. However, I cannot log in to cancel these Ads. I tried
+                contacting my credit card company, but FB uses a different
+                vendor account for each bill posted, making it difficult for the
+                credit card company to stop these transactions.
+              </p>
+              <p>
+                I attempted emailing FB several time to legal@facebook.com. And
+                I wrote a letter twice, and sent in the mail via postage, with
+                tracking, which was delivered, to cancel my Ad services and
+                provide a refund. No response however.
+              </p>
+              <p>
+                Should I proceed to small claims court to recover about $300 of
+                lost Ad revenue, for a service which I can no longer use? I am
+                still being billed to. Does anybody have any experience with
+                this?
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="35836019">
+          <h3>
+            <a class="item" href="https://mashpoe.github.io/favicon-dino-game/"
+              >Favicon Dino Game</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-05 @ 22:45:42</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35836019"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
