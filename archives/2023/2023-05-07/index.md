@@ -11,6 +11,7 @@
 * [2023-05-07, 21:37:39](https://news.ycombinator.com/item?id=35855858) - [Branding in the real world: acronym branding (2016)](https://www.brandingmag.com/2016/09/28/branding-in-the-real-world-acronym-branding/)
 * [2023-05-07, 21:22:16](https://news.ycombinator.com/item?id=35855737) - [Neil Postman: A civilized man in a century of barbarism (2003)](https://www.salon.com/2003/10/10/postman/)
 * [2023-05-07, 21:18:24](https://news.ycombinator.com/item?id=35855696) - [Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
+* [2023-05-07, 21:16:31](https://news.ycombinator.com/item?id=35855672) - [The life and work of Pieter Bruegel the Elder](https://www.laphamsquarterly.org/roundtable/sheer-teeming-multiplicity-and-variety-it-all)
 * [2023-05-07, 20:51:41](https://news.ycombinator.com/item?id=35855502) - [Some early praise for using drgn for poking into Linux kernel internals](https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise)
 * [2023-05-07, 20:44:09](https://news.ycombinator.com/item?id=35855454) - [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
 * [2023-05-07, 20:36:50](https://news.ycombinator.com/item?id=35855398) - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
