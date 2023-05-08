@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
 * [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
+* [2023-05-08, 15:59:03](https://news.ycombinator.com/item?id=35863124) - [Concrete Goes Carbon-Negative](https://spectrum.ieee.org/concrete)
+* [2023-05-08, 15:40:33](https://news.ycombinator.com/item?id=35862837) - [OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
 * [2023-05-08, 15:40:24](https://news.ycombinator.com/item?id=35862833) - [Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
+* [2023-05-08, 15:37:43](https://news.ycombinator.com/item?id=35862799) - [A coax cable horror story](https://qrper.com/2023/04/coax-cables-i-used-for-sota-pota-a-horror-story/)
 * [2023-05-08, 15:33:51](https://news.ycombinator.com/item?id=35862753) - [People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
 * [2023-05-08, 15:26:42](https://news.ycombinator.com/item?id=35862656) - [FBI agents accuse CIA of 9&#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
 * [2023-05-08, 15:10:41](https://news.ycombinator.com/item?id=35862452) - [‘Godfather of AI’ says its threat is ‘more urgent’ than climate change](https://nypost.com/2023/05/08/godfather-of-ai-says-its-threat-is-more-urgent-than-climate-change/)
@@ -44,6 +47,7 @@
 * [2023-05-08, 02:26:56](https://news.ycombinator.com/item?id=35857439) - [Vint Cerf on 3 Mistakes He Made in TCP&#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
 * [2023-05-08, 01:57:03](https://news.ycombinator.com/item?id=35857295) - [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
 * [2023-05-08, 01:22:13](https://news.ycombinator.com/item?id=35857134) - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
+* [2023-05-08, 01:10:46](https://news.ycombinator.com/item?id=35857072) - [Suggestivity and Idioms in APL](https://www.sacrideo.us/suggestivity-and-idioms-in-apl/)
 * [2023-05-08, 01:10:14](https://news.ycombinator.com/item?id=35857070) - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 * [2023-05-08, 00:51:48](https://news.ycombinator.com/item?id=35856986) - [Intel Skulltrail](https://en.wikipedia.org/wiki/Intel_Skulltrail)
 * [2023-05-08, 00:14:35](https://news.ycombinator.com/item?id=35856820) - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
