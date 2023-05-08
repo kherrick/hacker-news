@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861436) - [Gmail account is set to be invaded by even more annoying ads](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
+* [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861435) - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
 * [2023-05-08, 13:41:40](https://news.ycombinator.com/item?id=35861412) - [The Vietnamese military has an actual troll army and Facebook is its weapon](https://restofworld.org/2023/force-47-vietnam-military-group-facebook/)
 * [2023-05-08, 13:39:38](https://news.ycombinator.com/item?id=35861388) - [Are We Close to AGI?](https://polymathicbeing.substack.com/p/the-layers-of-ai)
 * [2023-05-08, 12:31:12](https://news.ycombinator.com/item?id=35860827) - [Restricting network access using Linux Network Namespaces](https://blog.sigma-star.at/post/2023/05/sandbox-netns/)
