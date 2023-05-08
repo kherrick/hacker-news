@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
+* [2023-05-08, 15:40:24](https://news.ycombinator.com/item?id=35862833) - [Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
 * [2023-05-08, 15:33:51](https://news.ycombinator.com/item?id=35862753) - [People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
 * [2023-05-08, 15:26:42](https://news.ycombinator.com/item?id=35862656) - [FBI agents accuse CIA of 9&#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
+* [2023-05-08, 15:10:41](https://news.ycombinator.com/item?id=35862452) - [‘Godfather of AI’ says its threat is ‘more urgent’ than climate change](https://nypost.com/2023/05/08/godfather-of-ai-says-its-threat-is-more-urgent-than-climate-change/)
 * [2023-05-08, 14:57:53](https://news.ycombinator.com/item?id=35862255) - [A startup ushered thousands of Indian women into gig work, for better and worse](https://restofworld.org/2023/urban-company-gig-work-women-india/)
 * [2023-05-08, 14:54:47](https://news.ycombinator.com/item?id=35862206) - [Curl and Cloudflare = Information leak – But why?](https://www.sami-lehtinen.net/blog/curl-cloudflare-information-leak-but-why)
 * [2023-05-08, 14:32:33](https://news.ycombinator.com/item?id=35861922) - [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
