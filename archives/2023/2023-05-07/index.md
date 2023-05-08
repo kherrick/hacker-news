@@ -41,6 +41,7 @@
 * [2023-05-07, 16:33:52](https://news.ycombinator.com/item?id=35853131) - [Five Books: The best books on everything](https://fivebooks.com/)
 * [2023-05-07, 16:00:01](https://news.ycombinator.com/item?id=35852783) - [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
 * [2023-05-07, 15:59:07](https://news.ycombinator.com/item?id=35852774) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
+* [2023-05-07, 15:36:16](https://news.ycombinator.com/item?id=35852516) - [What I Want from the Internet](https://www.chrbutler.com/what-i-want-from-the-internet)
 * [2023-05-07, 15:33:46](https://news.ycombinator.com/item?id=35852482) - [Cory Doctorow Explains Why Big Tech Is Making the Internet Terrible](https://jacobin.com/2023/05/cory-doctorow-big-tech-internet-monopoly-capitalism-artificial-intelligence-crypto/)
 * [2023-05-07, 15:20:54](https://news.ycombinator.com/item?id=35852364) - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
 * [2023-05-07, 15:20:22](https://news.ycombinator.com/item?id=35852360) - [AI voice scams: 77% of victims lose money](https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/)
