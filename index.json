@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-05-08, 00:51:48",
+      "https://news.ycombinator.com/item?id=35856986"
+    ],
+    [
+      "Intel Skulltrail",
+      "https://en.wikipedia.org/wiki/Intel_Skulltrail"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 00:14:35",
+      "https://news.ycombinator.com/item?id=35856820"
+    ],
+    [
+      "Ancient Earth Globe",
+      "https://dinosaurpictures.org/ancient-earth/#470"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 21:55:26",
+      "https://news.ycombinator.com/item?id=35855988"
+    ],
+    [
+      "A Group Is Its Own Worst Enemy [pdf] (2005)",
+      "https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 21:47:59",
+      "https://news.ycombinator.com/item?id=35855929"
+    ],
+    [
+      "The Beginner&#x27;s Guide to eBPF",
+      "https://github.com/lizrice/ebpf-beginners"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 21:22:16",
+      "https://news.ycombinator.com/item?id=35855737"
+    ],
+    [
+      "Neil Postman: A civilized man in a century of barbarism (2003)",
+      "https://www.salon.com/2003/10/10/postman/"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 20:51:41",
+      "https://news.ycombinator.com/item?id=35855502"
+    ],
+    [
+      "Some early praise for using drgn for poking into Linux kernel internals",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 20:44:09",
       "https://news.ycombinator.com/item?id=35855454"
     ],
@@ -51,16 +111,6 @@
   ],
   [
     [
-      "2023-05-07, 18:39:31",
-      "https://news.ycombinator.com/item?id=35854263"
-    ],
-    [
-      "America’s jobs report is not as strong as it seems",
-      "https://www.economist.com/graphic-detail/2023/05/05/americas-jobs-report-is-not-as-strong-as-it-seems"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 18:34:47",
       "https://news.ycombinator.com/item?id=35854216"
     ],
@@ -87,6 +137,16 @@
     [
       "The first planetarium projector was unveiled 100 years ago",
       "https://planetarium100.org/"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 17:23:53",
+      "https://news.ycombinator.com/item?id=35853580"
+    ],
+    [
+      "Makeitfrom.com – Material Properties Database",
+      "https://www.makeitfrom.com/"
     ]
   ],
   [
@@ -121,6 +181,26 @@
   ],
   [
     [
+      "2023-05-07, 15:59:07",
+      "https://news.ycombinator.com/item?id=35852774"
+    ],
+    [
+      "Vulkan Video Decoding",
+      "https://wickedengine.net/2023/05/07/vulkan-video-decoding/"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 15:15:44",
+      "https://news.ycombinator.com/item?id=35852321"
+    ],
+    [
+      "Why Lisp?",
+      "https://nyxt.atlas.engineer/article/why-lisp.org"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 15:00:25",
       "https://news.ycombinator.com/item?id=35852192"
     ],
@@ -131,32 +211,12 @@
   ],
   [
     [
-      "2023-05-07, 13:51:27",
-      "https://news.ycombinator.com/item?id=35851508"
-    ],
-    [
-      "The Messy Page Or: why I don&#x27;t like greenfield projects",
-      "https://registerspill.thorstenball.com/p/the-messy-page"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 13:14:21",
       "https://news.ycombinator.com/item?id=35851200"
     ],
     [
       "The Rocky Horror Coffin Clock",
       "https://burialsandbeyond.com/2023/05/07/the-rocky-horror-coffin-clock/"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 13:09:52",
-      "https://news.ycombinator.com/item?id=35851156"
-    ],
-    [
-      "When Connie Converse, the ‘female Bob Dylan,’ lived in NYC",
-      "https://www.nytimes.com/2023/05/06/nyregion/connie-converse-nyc.html"
     ]
   ],
   [
@@ -177,66 +237,6 @@
     [
       "Contrast Rebellion",
       "https://contrastrebellion.com/"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 09:48:06",
-      "https://news.ycombinator.com/item?id=35849691"
-    ],
-    [
-      "‘He epitomised the dazzling 60s and then was gone’: Rolling Stone Brian Jones",
-      "https://www.theguardian.com/music/2023/may/07/nick-broomfield-brian-jones-rolling-stones-arena-documentary-interview"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 08:57:04",
-      "https://news.ycombinator.com/item?id=35849356"
-    ],
-    [
-      "Google Analytics alternative that protects your data and your customers&#x27; privacy",
-      "https://matomo.org/"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 07:37:36",
-      "https://news.ycombinator.com/item?id=35848872"
-    ],
-    [
-      "DIY-Thermocam: A low-cost thermal imager based on the FLIR Lepton sensor",
-      "https://www.diy-thermocam.net/"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 05:42:52",
-      "https://news.ycombinator.com/item?id=35848276"
-    ],
-    [
-      "Measuring the HP 11720A Pulse Modulator and Coax Cables",
-      "https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 05:38:54",
-      "https://news.ycombinator.com/item?id=35848267"
-    ],
-    [
-      "Memoirs from the old web: IE&#x27;s crazy content rating system",
-      "https://www.devever.net/~hl/pics"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 04:03:06",
-      "https://news.ycombinator.com/item?id=35847814"
-    ],
-    [
-      "Large-scale study reveals autoimmune disorders now affect around one in ten",
-      "https://www.gla.ac.uk/news/headline_952084_en.html"
     ]
   ],
   [
