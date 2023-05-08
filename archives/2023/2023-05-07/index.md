@@ -44,6 +44,7 @@
 * [2023-05-07, 10:40:15](https://news.ycombinator.com/item?id=35850044) - [Low-contrast font color and unreadable texts? To hell with them!](https://contrastrebellion.com/)
 * [2023-05-07, 10:38:02](https://news.ycombinator.com/item?id=35850031) - [Verisign WILL get .web, ICANN rules](https://domainincite.com/28757-verisign-will-get-web-icann-rules)
 * [2023-05-07, 09:59:50](https://news.ycombinator.com/item?id=35849788) - [Show HN: Devil Mode: A twisted Emacs key translator for modifier-free editing](https://github.com/susam/devil)
+* [2023-05-07, 09:48:06](https://news.ycombinator.com/item?id=35849691) - [‘He epitomised the dazzling 60s and then was gone’: Rolling Stone Brian Jones](https://www.theguardian.com/music/2023/may/07/nick-broomfield-brian-jones-rolling-stones-arena-documentary-interview)
 * [2023-05-07, 08:59:41](https://news.ycombinator.com/item?id=35849384) - [Burnout](https://drewdevault.com/2023/05/01/2023-05-01-Burnout.html)
 * [2023-05-07, 08:58:10](https://news.ycombinator.com/item?id=35849368) - [Free Public Domain Audiobooks](https://librivox.org/)
 * [2023-05-07, 08:57:04](https://news.ycombinator.com/item?id=35849356) - [Google Analytics alternative that protects your data and your customers&#x27; privacy](https://matomo.org/)
