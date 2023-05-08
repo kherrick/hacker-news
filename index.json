@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 19:03:20",
+      "https://news.ycombinator.com/item?id=35865712"
+    ],
+    [
+      "Vietnam records highest ever temperature of 44.1C",
+      "https://www.theguardian.com/world/2023/may/07/vietnam-records-highest-ever-temperature-of-441c"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 19:00:32",
       "https://news.ycombinator.com/item?id=35865678"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35865257"
     ],
     [
-      "Evidence that the Neanderthals were the first seafarers",
+      "Evidence that the Neanderthals were the first seafarers?",
       "https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35865010"
     ],
     [
-      "Fundraising Stages Defined (Angel&#x2F;Pre-Seed&#x2F;Seed&#x2F;Series A) – Incisive Ventures",
+      "Fundraising Stages",
       "https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-05-08, 10:00:51",
-      "https://news.ycombinator.com/item?id=35859877"
-    ],
-    [
-      "KeePassXC pull request to add basic support for WebAuthn",
-      "https://github.com/keepassxreboot/keepassxc/pull/8825"
-    ]
-  ],
-  [
-    [
       "2023-05-08, 08:30:58",
       "https://news.ycombinator.com/item?id=35859338"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=35855104"
     ],
     [
-      "Papis 0.13: A CLI document and bibliography manager",
+      "Papis: A CLI document and bibliography manager",
       "https://github.com/papis/papis/releases/tag/v0.13"
     ]
   ],
