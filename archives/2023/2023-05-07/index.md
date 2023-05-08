@@ -45,6 +45,7 @@
 * [2023-05-07, 15:20:22](https://news.ycombinator.com/item?id=35852360) - [AI voice scams: 77% of victims lose money](https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/)
 * [2023-05-07, 15:15:44](https://news.ycombinator.com/item?id=35852321) - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
 * [2023-05-07, 15:06:46](https://news.ycombinator.com/item?id=35852242) - [Russians Seem Interested in My Book About How Dictatorships End](https://www.almendron.com/tribuna/russians-seem-very-interested-in-my-book-about-how-dictatorships-end/)
+* [2023-05-07, 15:01:08](https://news.ycombinator.com/item?id=35852196) - [Prehistoric pendant’s DNA reveals the person who held it](https://www.nature.com/articles/d41586-023-01482-3)
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 14:59:10](https://news.ycombinator.com/item?id=35852183) - [The ‘devil bird’ lands in New York, with more likely to come](https://www.nytimes.com/2023/05/04/science/anhinga-brooklyn-devil-bird.html)
 * [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
