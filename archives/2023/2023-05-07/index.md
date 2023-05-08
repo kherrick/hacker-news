@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
 * [2023-05-07, 23:52:14](https://news.ycombinator.com/item?id=35856722) - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
+* [2023-05-07, 22:00:50](https://news.ycombinator.com/item?id=35856036) - [SpaceTraders: A multiplayer game built on a free web API](https://spacetraders.io/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [2023-05-07, 21:47:59](https://news.ycombinator.com/item?id=35855929) - [The Beginner&#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+* [2023-05-07, 21:37:39](https://news.ycombinator.com/item?id=35855858) - [Branding in the real world: acronym branding (2016)](https://www.brandingmag.com/2016/09/28/branding-in-the-real-world-acronym-branding/)
 * [2023-05-07, 21:22:16](https://news.ycombinator.com/item?id=35855737) - [Neil Postman: A civilized man in a century of barbarism (2003)](https://www.salon.com/2003/10/10/postman/)
 * [2023-05-07, 21:18:24](https://news.ycombinator.com/item?id=35855696) - [Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
 * [2023-05-07, 20:51:41](https://news.ycombinator.com/item?id=35855502) - [Some early praise for using drgn for poking into Linux kernel internals](https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise)
