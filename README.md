@@ -2,12 +2,12 @@
 
 * [2023-05-08, 10:00:51](https://news.ycombinator.com/item?id=35859877) - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
 * [2023-05-08, 09:50:57](https://news.ycombinator.com/item?id=35859822) - [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
+* [2023-05-08, 09:45:24](https://news.ycombinator.com/item?id=35859791) - [A Readable Techcrunch Feed](https://readable_techcrunch.mvlab.workers.dev)
 * [2023-05-08, 08:37:39](https://news.ycombinator.com/item?id=35859392) - [There are no generic types or functions in Go](https://bitfieldconsulting.com/golang/type-parameters)
 * [2023-05-08, 08:31:37](https://news.ycombinator.com/item?id=35859344) - [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
 * [2023-05-08, 08:30:58](https://news.ycombinator.com/item?id=35859338) - [Street Fighter II, paper trails (2021)](https://fabiensanglard.net/sf2_sheets/index.html)
 * [2023-05-08, 08:21:17](https://news.ycombinator.com/item?id=35859281) - [DJI drone flight log viewer](https://www.flightreader.com/)
 * [2023-05-08, 08:02:53](https://news.ycombinator.com/item?id=35859169) - [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
-* [2023-05-08, 07:55:44](https://news.ycombinator.com/item?id=35859142) - [Please don’t upload my code on GitHub](https://nogithub.codeberg.page/)
 * [2023-05-08, 01:22:13](https://news.ycombinator.com/item?id=35857134) - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
 * [2023-05-08, 01:10:14](https://news.ycombinator.com/item?id=35857070) - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 * [2023-05-08, 00:14:35](https://news.ycombinator.com/item?id=35856820) - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
