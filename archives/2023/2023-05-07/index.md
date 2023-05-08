@@ -9,6 +9,7 @@
 * [2023-05-07, 21:57:32](https://news.ycombinator.com/item?id=35856007) - [Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [2023-05-07, 21:47:59](https://news.ycombinator.com/item?id=35855929) - [The Beginner&#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+* [2023-05-07, 21:47:44](https://news.ycombinator.com/item?id=35855927) - [Recently resigned Bitcoin maximalist here](https://old.reddit.com/r/btc/comments/13ao6ft/recently_resigned_bitcoin_maximalist_here_where/)
 * [2023-05-07, 21:37:39](https://news.ycombinator.com/item?id=35855858) - [Branding in the real world: acronym branding (2016)](https://www.brandingmag.com/2016/09/28/branding-in-the-real-world-acronym-branding/)
 * [2023-05-07, 21:22:16](https://news.ycombinator.com/item?id=35855737) - [Neil Postman: A civilized man in a century of barbarism (2003)](https://www.salon.com/2003/10/10/postman/)
 * [2023-05-07, 21:18:24](https://news.ycombinator.com/item?id=35855696) - [Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
