@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 17:45:50](https://news.ycombinator.com/item?id=35864661) - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
 * [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [Next Computers](https://www.nextcomputers.org/)
+* [2023-05-08, 17:06:01](https://news.ycombinator.com/item?id=35864114) - [Show HN: Automatic Domain Verification](https://domainverification.org)
 * [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:49:28](https://news.ycombinator.com/item?id=35863876) - [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
@@ -47,6 +49,8 @@
 * [2023-05-08, 08:21:17](https://news.ycombinator.com/item?id=35859281) - [DJI drone flight log viewer](https://www.flightreader.com/)
 * [2023-05-08, 08:02:53](https://news.ycombinator.com/item?id=35859169) - [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
 * [2023-05-08, 07:55:44](https://news.ycombinator.com/item?id=35859142) - [Please don’t upload my code on GitHub](https://nogithub.codeberg.page/)
+* [2023-05-08, 05:28:48](https://news.ycombinator.com/item?id=35858438) - [Let slime moulds do the thinking (2010)](https://www.theguardian.com/science/blog/2010/sep/08/slime-mould-physarum)
+* [2023-05-08, 05:16:26](https://news.ycombinator.com/item?id=35858375) - [Hest, Time Travel (2019)](https://ivanish.ca/hest-time-travel/)
 * [2023-05-08, 05:14:02](https://news.ycombinator.com/item?id=35858357) - [Greta Mary Sequeira Valentine](http://www.artsmarket.co.uk/greta-valentine/greta-mary-sequeira-valentine.htm)
 * [2023-05-08, 04:59:25](https://news.ycombinator.com/item?id=35858268) - [Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
 * [2023-05-08, 03:23:54](https://news.ycombinator.com/item?id=35857731) - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
