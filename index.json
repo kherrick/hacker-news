@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-08, 12:31:12",
+      "https://news.ycombinator.com/item?id=35860827"
+    ],
+    [
+      "Restricting network access using Linux Network Namespaces",
+      "https://blog.sigma-star.at/post/2023/05/sandbox-netns/"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 12:12:56",
       "https://news.ycombinator.com/item?id=35860705"
     ],
@@ -197,16 +207,6 @@
     [
       "A Group Is Its Own Worst Enemy [pdf] (2005)",
       "https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-07, 21:37:39",
-      "https://news.ycombinator.com/item?id=35855858"
-    ],
-    [
-      "Branding in the real world: acronym branding (2016)",
-      "https://www.brandingmag.com/2016/09/28/branding-in-the-real-world-acronym-branding/"
     ]
   ],
   [
