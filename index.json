@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-05-07, 21:47:59",
-      "https://news.ycombinator.com/item?id=35855929"
-    ],
-    [
-      "A Beginner&#x27;s Guide to eBPF",
-      "https://github.com/lizrice/ebpf-beginners"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 21:37:39",
       "https://news.ycombinator.com/item?id=35855858"
     ],
@@ -231,12 +221,32 @@
   ],
   [
     [
+      "2023-05-07, 19:55:41",
+      "https://news.ycombinator.com/item?id=35855029"
+    ],
+    [
+      "Turbo Rascal Syntax Error",
+      "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/"
+    ]
+  ],
+  [
+    [
       "2023-05-07, 18:49:21",
       "https://news.ycombinator.com/item?id=35854369"
     ],
     [
       "Are There Price Asymmetries in the U.S. Beef Market? [pdf]",
       "https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 17:11:14",
+      "https://news.ycombinator.com/item?id=35853466"
+    ],
+    [
+      "Ball Aerospace Deep Impact&#x27;s impactor simulation software (2006)",
+      "https://web.archive.org/web/20060830053522/http://www.ballaerospace.com/inter.exe"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Scoop on Solar Geoengineering",
       "https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 18:36:26",
-      "https://news.ycombinator.com/item?id=35844078"
-    ],
-    [
-      "Implementing Value Speculation in OCaml",
-      "https://www.lortex.org/articles/value-speculation-ocaml/"
     ]
   ]
 ]
