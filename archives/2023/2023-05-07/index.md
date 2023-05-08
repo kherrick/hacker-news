@@ -44,6 +44,7 @@
 * [2023-05-07, 15:15:44](https://news.ycombinator.com/item?id=35852321) - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
 * [2023-05-07, 15:06:46](https://news.ycombinator.com/item?id=35852242) - [Russians Seem Interested in My Book About How Dictatorships End](https://www.almendron.com/tribuna/russians-seem-very-interested-in-my-book-about-how-dictatorships-end/)
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
+* [2023-05-07, 14:59:10](https://news.ycombinator.com/item?id=35852183) - [The ‘devil bird’ lands in New York, with more likely to come](https://www.nytimes.com/2023/05/04/science/anhinga-brooklyn-devil-bird.html)
 * [2023-05-07, 13:51:27](https://news.ycombinator.com/item?id=35851508) - [The Messy Page Or: why I don&#x27;t like greenfield projects](https://registerspill.thorstenball.com/p/the-messy-page)
 * [2023-05-07, 13:33:52](https://news.ycombinator.com/item?id=35851369) - [VW to fire top executives at software unit Cariad, source says](https://www.reuters.com/business/autos-transportation/vw-fire-top-executives-software-unit-cariad-source-says-2023-05-06/)
 * [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)

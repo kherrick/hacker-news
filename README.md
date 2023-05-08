@@ -26,8 +26,8 @@
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 15:59:07](https://news.ycombinator.com/item?id=35852774) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
+* [2023-05-07, 14:59:10](https://news.ycombinator.com/item?id=35852183) - [The ‘devil bird’ lands in New York, with more likely to come](https://www.nytimes.com/2023/05/04/science/anhinga-brooklyn-devil-bird.html)
 * [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
-* [2023-05-07, 12:22:24](https://news.ycombinator.com/item?id=35850690) - [From XON&#x2F;XOFF to Forward Incremental Search (2022)](https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html)
 * [2023-05-06, 18:36:26](https://news.ycombinator.com/item?id=35844078) - [Implementing Value Speculation in OCaml](https://www.lortex.org/articles/value-speculation-ocaml/)
 * [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
 
