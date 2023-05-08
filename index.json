@@ -1,22 +1,52 @@
 [
   [
     [
+      "2023-05-08, 08:31:37",
+      "https://news.ycombinator.com/item?id=35859344"
+    ],
+    [
+      "RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI",
+      "https://github.com/paulpierre/RasaGPT"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 08:30:58",
+      "https://news.ycombinator.com/item?id=35859338"
+    ],
+    [
+      "Street Fighter II, paper trails (2021)",
+      "https://fabiensanglard.net/sf2_sheets/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 08:21:17",
+      "https://news.ycombinator.com/item?id=35859281"
+    ],
+    [
+      "DJI drone flight log viewer",
+      "https://www.flightreader.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 08:02:53",
+      "https://news.ycombinator.com/item?id=35859169"
+    ],
+    [
+      "The Electric Sitar Project",
+      "https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 07:55:44",
       "https://news.ycombinator.com/item?id=35859142"
     ],
     [
       "Please don’t upload my code on GitHub",
       "https://nogithub.codeberg.page/"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 02:30:37",
-      "https://news.ycombinator.com/item?id=35857463"
-    ],
-    [
-      "You don&#x27;t need Scrum, you just need to do Kanban right (2022)",
-      "https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-05-07, 21:22:16",
-      "https://news.ycombinator.com/item?id=35855737"
-    ],
-    [
-      "Neil Postman: A civilized man in a century of barbarism (2003)",
-      "https://www.salon.com/2003/10/10/postman/"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 21:16:31",
       "https://news.ycombinator.com/item?id=35855672"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-05-07, 17:23:53",
-      "https://news.ycombinator.com/item?id=35853580"
-    ],
-    [
-      "Makeitfrom.com – Material Properties Database",
-      "https://www.makeitfrom.com/"
-    ]
-  ],
-  [
-    [
       "2023-05-07, 17:11:14",
       "https://news.ycombinator.com/item?id=35853466"
     ],
@@ -287,16 +297,6 @@
     [
       "Implementing Value Speculation in OCaml",
       "https://www.lortex.org/articles/value-speculation-ocaml/"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 06:55:28",
-      "https://news.ycombinator.com/item?id=35838826"
-    ],
-    [
-      "Classic Sesame Street – Computer Trouble",
-      "https://www.youtube.com/watch?v=tCHKIdup5Lo"
     ]
   ]
 ]
