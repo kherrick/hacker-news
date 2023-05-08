@@ -19,6 +19,7 @@
 * [2023-05-07, 20:44:09](https://news.ycombinator.com/item?id=35855454) - [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
 * [2023-05-07, 20:36:50](https://news.ycombinator.com/item?id=35855398) - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 * [2023-05-07, 20:07:11](https://news.ycombinator.com/item?id=35855133) - [Passkeys will be importable, exportable, cross-device, and across managers](https://hachyderm.io/@rmondello/110329118270492669)
+* [2023-05-07, 20:04:31](https://news.ycombinator.com/item?id=35855104) - [Papis 0.13: A CLI document and bibliography manager](https://github.com/papis/papis/releases/tag/v0.13)
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 * [2023-05-07, 19:36:38](https://news.ycombinator.com/item?id=35854834) - [209,779 works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
 * [2023-05-07, 19:30:18](https://news.ycombinator.com/item?id=35854772) - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
