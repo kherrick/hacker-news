@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 19:18:20](https://news.ycombinator.com/item?id=35865855) - [Dutch Town Becomes First to Install Bat-Friendly Red LED Street Lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
 * [2023-05-08, 19:03:20](https://news.ycombinator.com/item?id=35865712) - [Vietnam records highest ever temperature of 44.1C](https://www.theguardian.com/world/2023/may/07/vietnam-records-highest-ever-temperature-of-441c)
 * [2023-05-08, 19:00:32](https://news.ycombinator.com/item?id=35865678) - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
 * [2023-05-08, 18:28:56](https://news.ycombinator.com/item?id=35865257) - [Long before modern humans existed Neanderthals built boats and went sailing](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
