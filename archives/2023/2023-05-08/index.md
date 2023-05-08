@@ -7,6 +7,7 @@
 * [2023-05-08, 18:28:56](https://news.ycombinator.com/item?id=35865257) - [Long before modern humans existed Neanderthals built boats and went sailing](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
 * [2023-05-08, 18:10:06](https://news.ycombinator.com/item?id=35865010) - [Fundraising Stages Defined (Angel&#x2F;Pre-Seed&#x2F;Seed&#x2F;Series A) – Incisive Ventures](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
 * [2023-05-08, 17:45:50](https://news.ycombinator.com/item?id=35864661) - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
+* [2023-05-08, 17:38:15](https://news.ycombinator.com/item?id=35864540) - [&quot;Coinbase (?) had a $65M Datadog bill per its Q1 earnings call&quot;](https://twitter.com/TurnerNovak/status/1654577231937544192)
 * [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [Next Computers](https://www.nextcomputers.org/)
 * [2023-05-08, 17:06:01](https://news.ycombinator.com/item?id=35864114) - [Show HN: Automatic Domain Verification](https://domainverification.org)

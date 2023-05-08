@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-08, 18:28:56](https://news.ycombinator.com/item?id=35865257) - [Long before modern humans existed Neanderthals built boats and went sailing](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
+* [2023-05-08, 18:28:56](https://news.ycombinator.com/item?id=35865257) - [Evidence that the Neanderthals were the first seafarers](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
 * [2023-05-08, 18:10:06](https://news.ycombinator.com/item?id=35865010) - [Fundraising Stages Defined (Angel&#x2F;Pre-Seed&#x2F;Seed&#x2F;Series A) – Incisive Ventures](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
 * [2023-05-08, 17:45:50](https://news.ycombinator.com/item?id=35864661) - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
+* [2023-05-08, 17:38:15](https://news.ycombinator.com/item?id=35864540) - [&quot;Coinbase (?) had a $65M Datadog bill per its Q1 earnings call&quot;](https://twitter.com/TurnerNovak/status/1654577231937544192)
 * [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [Next Computers](https://www.nextcomputers.org/)
 * [2023-05-08, 17:06:01](https://news.ycombinator.com/item?id=35864114) - [Show HN: Automatic Domain Verification](https://domainverification.org)
@@ -17,7 +18,6 @@
 * [2023-05-08, 15:26:42](https://news.ycombinator.com/item?id=35862656) - [FBI agents accuse CIA of 9&#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
 * [2023-05-08, 14:50:47](https://news.ycombinator.com/item?id=35862142) - [A mutation turned ants into parasites in one generation](https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861435) - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
-* [2023-05-08, 12:31:12](https://news.ycombinator.com/item?id=35860827) - [Restricting network access using Linux Network Namespaces](https://blog.sigma-star.at/post/2023/05/sandbox-netns/)
 * [2023-05-08, 10:00:51](https://news.ycombinator.com/item?id=35859877) - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
 * [2023-05-08, 08:30:58](https://news.ycombinator.com/item?id=35859338) - [Street Fighter II, paper trails (2021)](https://fabiensanglard.net/sf2_sheets/index.html)
 * [2023-05-08, 05:28:48](https://news.ycombinator.com/item?id=35858438) - [Let slime moulds do the thinking (2010)](https://www.theguardian.com/science/blog/2010/sep/08/slime-mould-physarum)
