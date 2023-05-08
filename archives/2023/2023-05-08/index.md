@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 09:50:57](https://news.ycombinator.com/item?id=35859822) - [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
+* [2023-05-08, 09:01:41](https://news.ycombinator.com/item?id=35859558) - [Blackmail as a victimless crime (The paradox of blackmail)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=83348)
 * [2023-05-08, 08:31:37](https://news.ycombinator.com/item?id=35859344) - [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
 * [2023-05-08, 08:30:58](https://news.ycombinator.com/item?id=35859338) - [Street Fighter II, paper trails (2021)](https://fabiensanglard.net/sf2_sheets/index.html)
 * [2023-05-08, 08:21:17](https://news.ycombinator.com/item?id=35859281) - [DJI drone flight log viewer](https://www.flightreader.com/)

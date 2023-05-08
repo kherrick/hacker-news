@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 09:50:57](https://news.ycombinator.com/item?id=35859822) - [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
+* [2023-05-08, 09:01:41](https://news.ycombinator.com/item?id=35859558) - [Blackmail as a victimless crime (The paradox of blackmail)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=83348)
 * [2023-05-08, 08:31:37](https://news.ycombinator.com/item?id=35859344) - [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
 * [2023-05-08, 08:30:58](https://news.ycombinator.com/item?id=35859338) - [Street Fighter II, paper trails (2021)](https://fabiensanglard.net/sf2_sheets/index.html)
 * [2023-05-08, 08:21:17](https://news.ycombinator.com/item?id=35859281) - [DJI drone flight log viewer](https://www.flightreader.com/)
@@ -22,9 +24,7 @@
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 * [2023-05-07, 19:36:38](https://news.ycombinator.com/item?id=35854834) - [210k works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
 * [2023-05-07, 19:30:18](https://news.ycombinator.com/item?id=35854772) - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
-* [2023-05-07, 17:24:42](https://news.ycombinator.com/item?id=35853588) - [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
 * [2023-05-07, 17:11:14](https://news.ycombinator.com/item?id=35853466) - [Ball Aerospace Deep Impact&#x27;s impactor simulation software (2006)](https://web.archive.org/web/20060830053522/http://www.ballaerospace.com/inter.exe)
-* [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 15:59:07](https://news.ycombinator.com/item?id=35852774) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 14:59:10](https://news.ycombinator.com/item?id=35852183) - [The ‘devil bird’ lands in New York, with more likely to come](https://www.nytimes.com/2023/05/04/science/anhinga-brooklyn-devil-bird.html)
