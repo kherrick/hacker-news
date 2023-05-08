@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 12:12:56](https://news.ycombinator.com/item?id=35860705) - [Everyone Was Wrong About Reverse Osmosis–Until Now](https://www.wired.com/story/everyone-was-wrong-about-reverse-osmosis-until-now/)
 * [2023-05-08, 11:41:55](https://news.ycombinator.com/item?id=35860473) - [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
 * [2023-05-08, 11:40:11](https://news.ycombinator.com/item?id=35860464) - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
 * [2023-05-08, 11:30:51](https://news.ycombinator.com/item?id=35860414) - [The plan to explode a nuclear bomb on the Moon](https://www.bbc.com/future/article/20230505-the-crazy-plan-to-explode-a-nuclear-bomb-on-the-moon)
@@ -19,6 +20,7 @@
 * [2023-05-08, 08:21:17](https://news.ycombinator.com/item?id=35859281) - [DJI drone flight log viewer](https://www.flightreader.com/)
 * [2023-05-08, 08:02:53](https://news.ycombinator.com/item?id=35859169) - [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
 * [2023-05-08, 07:55:44](https://news.ycombinator.com/item?id=35859142) - [Please don’t upload my code on GitHub](https://nogithub.codeberg.page/)
+* [2023-05-08, 05:14:02](https://news.ycombinator.com/item?id=35858357) - [Greta Mary Sequeira Valentine](http://www.artsmarket.co.uk/greta-valentine/greta-mary-sequeira-valentine.htm)
 * [2023-05-08, 04:59:25](https://news.ycombinator.com/item?id=35858268) - [Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
 * [2023-05-08, 03:23:54](https://news.ycombinator.com/item?id=35857731) - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
 * [2023-05-08, 02:59:00](https://news.ycombinator.com/item?id=35857631) - [Ask HN: Why is the state of “smart home” devices still so dire?](https://news.ycombinator.com/item?id=35857631)
