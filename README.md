@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 04:59:25](https://news.ycombinator.com/item?id=35858268) - [Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
 * [2023-05-08, 03:23:54](https://news.ycombinator.com/item?id=35857731) - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
 * [2023-05-08, 02:30:37](https://news.ycombinator.com/item?id=35857463) - [You don&#x27;t need Scrum, you just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 * [2023-05-08, 02:26:56](https://news.ycombinator.com/item?id=35857439) - [Vint Cerf on 3 Mistakes He Made in TCP&#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
@@ -26,7 +27,6 @@
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
 * [2023-05-07, 12:22:24](https://news.ycombinator.com/item?id=35850690) - [From XON&#x2F;XOFF to Forward Incremental Search (2022)](https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html)
-* [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-06, 19:26:59](https://news.ycombinator.com/item?id=35844574) - [Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
 * [2023-05-06, 18:36:26](https://news.ycombinator.com/item?id=35844078) - [Implementing Value Speculation in OCaml](https://www.lortex.org/articles/value-speculation-ocaml/)
 * [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
