@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 21:28:28](https://news.ycombinator.com/item?id=35867275) - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
 * [2023-05-08, 21:17:32](https://news.ycombinator.com/item?id=35867194) - [ChatGPT Is Powered by Human Contractors Getting Paid $15 per Hour](https://gizmodo.com/chatgpt-openai-ai-contractors-15-dollars-per-hour-1850415474)
+* [2023-05-08, 21:11:56](https://news.ycombinator.com/item?id=35867134) - [Vitamin K2 supplements fail to slow calcium buildup in heart](https://www.heart.org/en/news/2022/04/25/despite-hopes-vitamin-k2-supplements-fail-to-slow-calcium-buildup-in-heart-valve)
 * [2023-05-08, 21:03:57](https://news.ycombinator.com/item?id=35867043) - [Free speech under attack across Ireland, UK, Europe and globally](https://twitter.com/threadsirish/status/1655512886226354176)
 * [2023-05-08, 20:10:58](https://news.ycombinator.com/item?id=35866431) - [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
 * [2023-05-08, 19:56:50](https://news.ycombinator.com/item?id=35866283) - [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
