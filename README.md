@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-08, 20:10:58](https://news.ycombinator.com/item?id=35866431) - [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
+* [2023-05-08, 19:56:50](https://news.ycombinator.com/item?id=35866283) - [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 * [2023-05-08, 19:18:20](https://news.ycombinator.com/item?id=35865855) - [Dutch town installs bat-friendly red LED street lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
 * [2023-05-08, 19:00:32](https://news.ycombinator.com/item?id=35865678) - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
 * [2023-05-08, 18:28:56](https://news.ycombinator.com/item?id=35865257) - [Evidence that the Neanderthals were the first seafarers?](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
@@ -25,7 +26,6 @@
 * [2023-05-08, 04:59:25](https://news.ycombinator.com/item?id=35858268) - [Rapamycin: The unlucky history of an anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
 * [2023-05-08, 01:10:46](https://news.ycombinator.com/item?id=35857072) - [Suggestivity and Idioms in APL](https://www.sacrideo.us/suggestivity-and-idioms-in-apl/)
 * [2023-05-07, 23:38:37](https://news.ycombinator.com/item?id=35856646) - [A Time Series Apologia](https://win-vector.com/2023/05/07/a-time-series-apologia/)
-* [2023-05-07, 20:04:31](https://news.ycombinator.com/item?id=35855104) - [Papis: A CLI document and bibliography manager](https://github.com/papis/papis/releases/tag/v0.13)
 * [2023-05-07, 15:52:43](https://news.ycombinator.com/item?id=35852710) - [Casio adds fitness features to original G-Shock digital watch](https://gizmodo.com/casio-g-shock-digital-watch-fitness-tracking-heart-rate-1850357822)
 * [2023-05-07, 15:36:16](https://news.ycombinator.com/item?id=35852516) - [What I want from the internet](https://www.chrbutler.com/what-i-want-from-the-internet)
 * [2023-05-05, 23:08:45](https://news.ycombinator.com/item?id=35836221) - [Ask HN: Suing Facebook in small claims?](https://news.ycombinator.com/item?id=35836221)
