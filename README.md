@@ -16,6 +16,7 @@
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 17:24:42](https://news.ycombinator.com/item?id=35853588) - [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
 * [2023-05-07, 17:23:53](https://news.ycombinator.com/item?id=35853580) - [Makeitfrom.com – Material Properties Database](https://www.makeitfrom.com/)
+* [2023-05-07, 17:11:14](https://news.ycombinator.com/item?id=35853466) - [Ball Aerospace Deep Impact&#x27;s impactor simulation software (2006)](https://web.archive.org/web/20060830053522/http://www.ballaerospace.com/inter.exe)
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 16:33:52](https://news.ycombinator.com/item?id=35853131) - [Five Books: The best books on everything](https://fivebooks.com/)
 * [2023-05-07, 15:59:07](https://news.ycombinator.com/item?id=35852774) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
@@ -29,7 +30,6 @@
 * [2023-05-06, 18:36:26](https://news.ycombinator.com/item?id=35844078) - [Implementing Value Speculation in OCaml](https://www.lortex.org/articles/value-speculation-ocaml/)
 * [2023-05-06, 14:56:17](https://news.ycombinator.com/item?id=35841961) - [The Language of Democracy](https://www.dissentmagazine.org/online_articles/language-democracy-christopher-lasch-plain-style)
 * [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
-* [2023-05-06, 03:39:58](https://news.ycombinator.com/item?id=35837747) - [Secd: A silly implementation of the SECD machine](https://github.com/zachallaun/secd)
 
 ## [Archives](archives/index.md)
 

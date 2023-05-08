@@ -25,6 +25,7 @@
 * [2023-05-07, 17:24:42](https://news.ycombinator.com/item?id=35853588) - [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
 * [2023-05-07, 17:23:53](https://news.ycombinator.com/item?id=35853580) - [Makeitfrom.com – Material Properties Database](https://www.makeitfrom.com/)
 * [2023-05-07, 17:23:17](https://news.ycombinator.com/item?id=35853576) - [Ask HN: What productivity tools do you use?](https://news.ycombinator.com/item?id=35853576)
+* [2023-05-07, 17:11:14](https://news.ycombinator.com/item?id=35853466) - [Ball Aerospace Deep Impact&#x27;s impactor simulation software (2006)](https://web.archive.org/web/20060830053522/http://www.ballaerospace.com/inter.exe)
 * [2023-05-07, 16:58:46](https://news.ycombinator.com/item?id=35853344) - [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
 * [2023-05-07, 16:49:41](https://news.ycombinator.com/item?id=35853276) - [ChatGPT cannot build a simple working site from scratch](https://news.ycombinator.com/item?id=35853276)
