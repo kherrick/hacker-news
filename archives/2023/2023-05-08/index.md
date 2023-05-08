@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 23:04:39](https://news.ycombinator.com/item?id=35868065) - [LLMs are not greater than the sum of their parts: Stanford researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
 * [2023-05-08, 22:45:13](https://news.ycombinator.com/item?id=35867935) - [Ancient Greek Terms Worth Reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
 * [2023-05-08, 22:41:20](https://news.ycombinator.com/item?id=35867907) - [Red Hat considers Xorg “deprecated” and will remove it in a future RHEL release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/deprecated_functionality)
 * [2023-05-08, 22:39:44](https://news.ycombinator.com/item?id=35867886) - [Clarence Thomas Had a Child in Private School. Harlan Crow Paid the Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus)

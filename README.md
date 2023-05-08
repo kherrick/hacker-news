@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 23:04:39](https://news.ycombinator.com/item?id=35868065) - [LLMs are not greater than the sum of their parts: Stanford researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
 * [2023-05-08, 22:45:13](https://news.ycombinator.com/item?id=35867935) - [Ancient Greek Terms Worth Reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
 * [2023-05-08, 22:41:20](https://news.ycombinator.com/item?id=35867907) - [Red Hat considers Xorg “deprecated” and will remove it in a future RHEL release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/deprecated_functionality)
 * [2023-05-08, 21:28:28](https://news.ycombinator.com/item?id=35867275) - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
@@ -21,7 +22,6 @@
 * [2023-05-08, 08:30:58](https://news.ycombinator.com/item?id=35859338) - [Street Fighter II, paper trails (2021)](https://fabiensanglard.net/sf2_sheets/index.html)
 * [2023-05-08, 05:28:48](https://news.ycombinator.com/item?id=35858438) - [Let slime moulds do the thinking (2010)](https://www.theguardian.com/science/blog/2010/sep/08/slime-mould-physarum)
 * [2023-05-08, 05:16:26](https://news.ycombinator.com/item?id=35858375) - [Hest, Time Travel (2021)](https://ivanish.ca/hest-time-travel/)
-* [2023-05-08, 05:15:31](https://news.ycombinator.com/item?id=35858368) - [Second Thoughts on James Burnham (1946)](https://orwell.ru/library/reviews/burnham/english/e_burnh.html)
 * [2023-05-08, 04:59:25](https://news.ycombinator.com/item?id=35858268) - [Rapamycin: The unlucky history of an anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
 * [2023-05-08, 01:10:46](https://news.ycombinator.com/item?id=35857072) - [Suggestivity and Idioms in APL](https://www.sacrideo.us/suggestivity-and-idioms-in-apl/)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
