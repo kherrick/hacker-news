@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
 * [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:49:28](https://news.ycombinator.com/item?id=35863876) - [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 * [2023-05-08, 16:41:25](https://news.ycombinator.com/item?id=35863746) - [The Tumultuous Life of Harland Sanders, Founder of Kentucky Fried Chicken (KFC)](https://www.damninteresting.com/colonels-of-truth/)
 * [2023-05-08, 16:26:13](https://news.ycombinator.com/item?id=35863512) - [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
 * [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
+* [2023-05-08, 16:01:47](https://news.ycombinator.com/item?id=35863175) - [GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
 * [2023-05-08, 15:59:03](https://news.ycombinator.com/item?id=35863124) - [Concrete Goes Carbon-Negative](https://spectrum.ieee.org/concrete)
 * [2023-05-08, 15:40:33](https://news.ycombinator.com/item?id=35862837) - [OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
 * [2023-05-08, 15:40:24](https://news.ycombinator.com/item?id=35862833) - [Intel Announces Layoffs After Paying $1.5B in Q1 Dividends](https://wccftech.com/intel-announces-layoffs-after-paying-1-5-billion-in-q1-dividends/)
