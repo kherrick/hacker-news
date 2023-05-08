@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 11:41:55](https://news.ycombinator.com/item?id=35860473) - [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
+* [2023-05-08, 11:40:11](https://news.ycombinator.com/item?id=35860464) - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
 * [2023-05-08, 11:30:51](https://news.ycombinator.com/item?id=35860414) - [The plan to explode a nuclear bomb on the Moon](https://www.bbc.com/future/article/20230505-the-crazy-plan-to-explode-a-nuclear-bomb-on-the-moon)
+* [2023-05-08, 11:29:00](https://news.ycombinator.com/item?id=35860401) - [Canada extends copyright protection another 20 years to meet trade obligation](https://www.theglobeandmail.com/canada/article-canada-extends-copyright-protection-another-20-years-to-meet-new-trade/)
 * [2023-05-08, 10:00:51](https://news.ycombinator.com/item?id=35859877) - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
 * [2023-05-08, 09:50:57](https://news.ycombinator.com/item?id=35859822) - [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
 * [2023-05-08, 09:45:24](https://news.ycombinator.com/item?id=35859791) - [A Readable Techcrunch Feed](https://readable_techcrunch.mvlab.workers.dev)
