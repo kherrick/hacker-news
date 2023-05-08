@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 14:32:33](https://news.ycombinator.com/item?id=35861922) - [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
 * [2023-05-08, 14:25:37](https://news.ycombinator.com/item?id=35861826) - [Tipping at Self-Checkout Has Customers Crying ‘Emotional Blackmail’](https://www.wsj.com/articles/tipping-self-checkout-restaurants-airports-c3e09f7)
 * [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861436) - [Google appears to be scaling up the ads it shows to Gmail users](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
@@ -29,7 +30,6 @@
 * [2023-05-07, 15:36:16](https://news.ycombinator.com/item?id=35852516) - [What I Want from the Internet](https://www.chrbutler.com/what-i-want-from-the-internet)
 * [2023-05-07, 15:01:08](https://news.ycombinator.com/item?id=35852196) - [Prehistoric pendant’s DNA reveals the person who held it](https://www.nature.com/articles/d41586-023-01482-3)
 * [2023-05-07, 14:59:10](https://news.ycombinator.com/item?id=35852183) - [The ‘devil bird’ lands in New York, with more likely to come](https://www.nytimes.com/2023/05/04/science/anhinga-brooklyn-devil-bird.html)
-* [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
 
 ## [Archives](archives/index.md)
 
