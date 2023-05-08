@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-08, 02:43:23",
-      "https://news.ycombinator.com/item?id=35857536"
-    ],
-    [
-      "Stack Overflow Is ChatGPT Casualty Traffic Down 14% in March",
-      "https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/"
-    ]
-  ],
-  [
-    [
       "2023-05-08, 02:30:37",
       "https://news.ycombinator.com/item?id=35857463"
     ],
@@ -267,6 +257,16 @@
     [
       "From XON&#x2F;XOFF to Forward Incremental Search (2022)",
       "https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-07, 03:41:19",
+      "https://news.ycombinator.com/item?id=35847715"
+    ],
+    [
+      "macOS Internals",
+      "https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f"
     ]
   ],
   [
