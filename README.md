@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
+* [2023-05-08, 16:49:28](https://news.ycombinator.com/item?id=35863876) - [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
+* [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
+* [2023-05-08, 16:26:13](https://news.ycombinator.com/item?id=35863512) - [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
 * [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
 * [2023-05-08, 15:59:03](https://news.ycombinator.com/item?id=35863124) - [Concrete Goes Carbon-Negative](https://spectrum.ieee.org/concrete)
 * [2023-05-08, 15:40:33](https://news.ycombinator.com/item?id=35862837) - [OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
@@ -8,6 +12,7 @@
 * [2023-05-08, 15:33:51](https://news.ycombinator.com/item?id=35862753) - [People are trying to claim real videos are deepfakes. The courts are not amused](https://text.npr.org/1174132413)
 * [2023-05-08, 15:26:42](https://news.ycombinator.com/item?id=35862656) - [FBI agents accuse CIA of 9&#x2F;11 coverup](https://www.spytalk.co/p/exclusive-fbi-agents-accuse-cia-of)
 * [2023-05-08, 14:57:53](https://news.ycombinator.com/item?id=35862255) - [A startup ushered thousands of Indian women into gig work, for better and worse](https://restofworld.org/2023/urban-company-gig-work-women-india/)
+* [2023-05-08, 14:50:47](https://news.ycombinator.com/item?id=35862142) - [A Mutation Turned Ants into Parasites in One Generation](https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/)
 * [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861436) - [Google appears to be scaling up the ads it shows to Gmail users](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861435) - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
@@ -21,15 +26,10 @@
 * [2023-05-08, 08:30:58](https://news.ycombinator.com/item?id=35859338) - [Street Fighter II, paper trails (2021)](https://fabiensanglard.net/sf2_sheets/index.html)
 * [2023-05-08, 08:21:17](https://news.ycombinator.com/item?id=35859281) - [DJI drone flight log viewer](https://www.flightreader.com/)
 * [2023-05-08, 05:14:02](https://news.ycombinator.com/item?id=35858357) - [Greta Mary Sequeira Valentine](http://www.artsmarket.co.uk/greta-valentine/greta-mary-sequeira-valentine.htm)
-* [2023-05-08, 02:26:56](https://news.ycombinator.com/item?id=35857439) - [Vint Cerf on mistakes he made in TCP&#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
 * [2023-05-08, 01:10:46](https://news.ycombinator.com/item?id=35857072) - [Suggestivity and Idioms in APL](https://www.sacrideo.us/suggestivity-and-idioms-in-apl/)
-* [2023-05-08, 01:10:14](https://news.ycombinator.com/item?id=35857070) - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 * [2023-05-07, 23:52:14](https://news.ycombinator.com/item?id=35856722) - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
-* [2023-05-07, 21:57:32](https://news.ycombinator.com/item?id=35856007) - [Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
-* [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [2023-05-07, 18:49:21](https://news.ycombinator.com/item?id=35854369) - [Are There Price Asymmetries in the U.S. Beef Market? [pdf]](https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf)
 * [2023-05-07, 15:52:43](https://news.ycombinator.com/item?id=35852710) - [Casio Adds Fitness Features to Original G-Shock Digital Watch](https://gizmodo.com/casio-g-shock-digital-watch-fitness-tracking-heart-rate-1850357822)
-* [2023-05-07, 15:01:08](https://news.ycombinator.com/item?id=35852196) - [Prehistoric pendant’s DNA reveals the person who held it](https://www.nature.com/articles/d41586-023-01482-3)
 
 ## [Archives](archives/index.md)
 

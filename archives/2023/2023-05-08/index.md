@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
+* [2023-05-08, 16:49:28](https://news.ycombinator.com/item?id=35863876) - [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
+* [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
+* [2023-05-08, 16:26:13](https://news.ycombinator.com/item?id=35863512) - [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
 * [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
 * [2023-05-08, 15:59:03](https://news.ycombinator.com/item?id=35863124) - [Concrete Goes Carbon-Negative](https://spectrum.ieee.org/concrete)
 * [2023-05-08, 15:40:33](https://news.ycombinator.com/item?id=35862837) - [OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
@@ -14,6 +18,7 @@
 * [2023-05-08, 15:10:41](https://news.ycombinator.com/item?id=35862452) - [‘Godfather of AI’ says its threat is ‘more urgent’ than climate change](https://nypost.com/2023/05/08/godfather-of-ai-says-its-threat-is-more-urgent-than-climate-change/)
 * [2023-05-08, 14:57:53](https://news.ycombinator.com/item?id=35862255) - [A startup ushered thousands of Indian women into gig work, for better and worse](https://restofworld.org/2023/urban-company-gig-work-women-india/)
 * [2023-05-08, 14:54:47](https://news.ycombinator.com/item?id=35862206) - [Curl and Cloudflare = Information leak – But why?](https://www.sami-lehtinen.net/blog/curl-cloudflare-information-leak-but-why)
+* [2023-05-08, 14:50:47](https://news.ycombinator.com/item?id=35862142) - [A Mutation Turned Ants into Parasites in One Generation](https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/)
 * [2023-05-08, 14:32:33](https://news.ycombinator.com/item?id=35861922) - [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
 * [2023-05-08, 14:25:37](https://news.ycombinator.com/item?id=35861826) - [Tipping at Self-Checkout Has Customers Crying ‘Emotional Blackmail’](https://www.wsj.com/articles/tipping-self-checkout-restaurants-airports-c3e09f7)
 * [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
