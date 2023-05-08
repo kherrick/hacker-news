@@ -23,6 +23,7 @@
 * [2023-05-07, 19:36:38](https://news.ycombinator.com/item?id=35854834) - [209,779 works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
 * [2023-05-07, 19:30:18](https://news.ycombinator.com/item?id=35854772) - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 * [2023-05-07, 19:23:54](https://news.ycombinator.com/item?id=35854717) - [Ask HN: Books or courses to understand college level mathematics?](https://news.ycombinator.com/item?id=35854717)
+* [2023-05-07, 18:49:21](https://news.ycombinator.com/item?id=35854369) - [Are There Price Asymmetries in the U.S. Beef Market? [pdf]](https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf)
 * [2023-05-07, 18:39:31](https://news.ycombinator.com/item?id=35854263) - [America’s jobs report is not as strong as it seems](https://www.economist.com/graphic-detail/2023/05/05/americas-jobs-report-is-not-as-strong-as-it-seems)
 * [2023-05-07, 18:34:47](https://news.ycombinator.com/item?id=35854216) - [Passkeys: A Loss of User Control?](https://lapcatsoftware.com/articles/2023/5/1.html)
 * [2023-05-07, 18:20:30](https://news.ycombinator.com/item?id=35854087) - [OpenAI CEO says the remote work ‘experiment’ was a mistake–and ‘it’s over’](https://fortune.com/2023/05/05/openai-ceo-sam-altman-remote-work-mistake-return-to-office/)
