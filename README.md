@@ -3,7 +3,7 @@
 * [2023-05-08, 04:59:25](https://news.ycombinator.com/item?id=35858268) - [Rapamycin: The unlucky history of the most powerful anti-aging drug](https://bigthink.com/health/unlucky-history-rapamycin-anti-aging/)
 * [2023-05-08, 03:23:54](https://news.ycombinator.com/item?id=35857731) - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
 * [2023-05-08, 02:30:37](https://news.ycombinator.com/item?id=35857463) - [You don&#x27;t need Scrum, you just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
-* [2023-05-08, 02:26:56](https://news.ycombinator.com/item?id=35857439) - [Vint Cerf on 3 Mistakes He Made in TCP&#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
+* [2023-05-08, 02:26:56](https://news.ycombinator.com/item?id=35857439) - [Vint Cerf on mistakes he made in TCP&#x2F;IP](https://spectrum.ieee.org/vint-cerf-mistakes)
 * [2023-05-08, 01:22:13](https://news.ycombinator.com/item?id=35857134) - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
 * [2023-05-08, 01:10:14](https://news.ycombinator.com/item?id=35857070) - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 * [2023-05-08, 00:14:35](https://news.ycombinator.com/item?id=35856820) - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
