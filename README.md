@@ -10,7 +10,6 @@
 * [2023-05-07, 21:57:32](https://news.ycombinator.com/item?id=35856007) - [Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [2023-05-07, 21:47:59](https://news.ycombinator.com/item?id=35855929) - [A Beginner&#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
-* [2023-05-07, 21:47:44](https://news.ycombinator.com/item?id=35855927) - [Recently resigned Bitcoin maximalist here](https://old.reddit.com/r/btc/comments/13ao6ft/recently_resigned_bitcoin_maximalist_here_where/)
 * [2023-05-07, 21:37:39](https://news.ycombinator.com/item?id=35855858) - [Branding in the real world: acronym branding (2016)](https://www.brandingmag.com/2016/09/28/branding-in-the-real-world-acronym-branding/)
 * [2023-05-07, 21:22:16](https://news.ycombinator.com/item?id=35855737) - [Neil Postman: A civilized man in a century of barbarism (2003)](https://www.salon.com/2003/10/10/postman/)
 * [2023-05-07, 21:16:31](https://news.ycombinator.com/item?id=35855672) - [The life and work of Pieter Bruegel the Elder](https://www.laphamsquarterly.org/roundtable/sheer-teeming-multiplicity-and-variety-it-all)
@@ -30,6 +29,7 @@
 * [2023-05-07, 14:59:10](https://news.ycombinator.com/item?id=35852183) - [The ‘devil bird’ lands in New York, with more likely to come](https://www.nytimes.com/2023/05/04/science/anhinga-brooklyn-devil-bird.html)
 * [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
 * [2023-05-06, 18:36:26](https://news.ycombinator.com/item?id=35844078) - [Implementing Value Speculation in OCaml](https://www.lortex.org/articles/value-speculation-ocaml/)
+* [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
 
 ## [Archives](archives/index.md)
 
