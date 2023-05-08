@@ -24,10 +24,10 @@
 * [2023-05-07, 17:11:14](https://news.ycombinator.com/item?id=35853466) - [Ball Aerospace Deep Impact&#x27;s impactor simulation software (2006)](https://web.archive.org/web/20060830053522/http://www.ballaerospace.com/inter.exe)
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [The Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 15:59:07](https://news.ycombinator.com/item?id=35852774) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
-* [2023-05-07, 15:15:44](https://news.ycombinator.com/item?id=35852321) - [Why Lisp?](https://nyxt.atlas.engineer/article/why-lisp.org)
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
 * [2023-05-07, 12:22:24](https://news.ycombinator.com/item?id=35850690) - [From XON&#x2F;XOFF to Forward Incremental Search (2022)](https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html)
+* [2023-05-06, 19:26:59](https://news.ycombinator.com/item?id=35844574) - [Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
 * [2023-05-06, 18:36:26](https://news.ycombinator.com/item?id=35844078) - [Implementing Value Speculation in OCaml](https://www.lortex.org/articles/value-speculation-ocaml/)
 * [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
 
