@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
+* [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+* [2023-05-07, 21:47:59](https://news.ycombinator.com/item?id=35855929) - [The Beginner&#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
+* [2023-05-07, 21:22:16](https://news.ycombinator.com/item?id=35855737) - [Neil Postman: A civilized man in a century of barbarism (2003)](https://www.salon.com/2003/10/10/postman/)
 * [2023-05-07, 21:18:24](https://news.ycombinator.com/item?id=35855696) - [Amazon Tried Not to Pay a Woman After Driver Totaled Her Car](https://jalopnik.com/amazon-wrecked-womans-car-and-tried-not-to-pay-her-1850409798)
+* [2023-05-07, 20:51:41](https://news.ycombinator.com/item?id=35855502) - [Some early praise for using drgn for poking into Linux kernel internals](https://utcc.utoronto.ca/~cks/space/blog/linux/DrgnKernelPokingPraise)
 * [2023-05-07, 20:44:09](https://news.ycombinator.com/item?id=35855454) - [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
 * [2023-05-07, 20:36:50](https://news.ycombinator.com/item?id=35855398) - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
@@ -18,6 +22,7 @@
 * [2023-05-07, 17:43:38](https://news.ycombinator.com/item?id=35853764) - [Waking Up to Hacker News](https://johnathannader.com/waking-hacker-news/)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 17:24:42](https://news.ycombinator.com/item?id=35853588) - [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
+* [2023-05-07, 17:23:53](https://news.ycombinator.com/item?id=35853580) - [Makeitfrom.com – Material Properties Database](https://www.makeitfrom.com/)
 * [2023-05-07, 17:23:17](https://news.ycombinator.com/item?id=35853576) - [Ask HN: What productivity tools do you use?](https://news.ycombinator.com/item?id=35853576)
 * [2023-05-07, 16:58:46](https://news.ycombinator.com/item?id=35853344) - [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
@@ -25,6 +30,7 @@
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [So many bad takes. Learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 16:33:52](https://news.ycombinator.com/item?id=35853131) - [Five Books: The best books on everything](https://fivebooks.com/)
 * [2023-05-07, 16:00:01](https://news.ycombinator.com/item?id=35852783) - [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)
+* [2023-05-07, 15:59:07](https://news.ycombinator.com/item?id=35852774) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
 * [2023-05-07, 15:33:46](https://news.ycombinator.com/item?id=35852482) - [Cory Doctorow Explains Why Big Tech Is Making the Internet Terrible](https://jacobin.com/2023/05/cory-doctorow-big-tech-internet-monopoly-capitalism-artificial-intelligence-crypto/)
 * [2023-05-07, 15:20:54](https://news.ycombinator.com/item?id=35852364) - [OpenAI Sued for Fraud Allegations](https://webapps.sftc.org/captcha/captcha.dll?referrer=https://webapps.sftc.org/ci/CaseInfo.dll?CaseNum=CGC23606176)
 * [2023-05-07, 15:20:22](https://news.ycombinator.com/item?id=35852360) - [AI voice scams: 77% of victims lose money](https://9to5mac.com/2023/05/05/ai-voice-scams-how-to-prevent/)
