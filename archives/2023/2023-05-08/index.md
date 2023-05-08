@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 21:49:11](https://news.ycombinator.com/item?id=35867457) - [People are trying to claim real videos are deepfakes. The courts are not amused](https://www.npr.org/2023/05/08/1174132413/people-are-trying-to-claim-real-videos-are-deepfakes-the-courts-are-not-amused)
+* [2023-05-08, 21:47:30](https://news.ycombinator.com/item?id=35867436) - [Why Does It Take So Long to Schedule a Doctor&#x27;s Appointment in the US?](https://www.nbcsandiego.com/news/local/why-does-it-take-so-long-to-schedule-a-doctors-appointment-in-the-us/3222649/)
 * [2023-05-08, 21:28:28](https://news.ycombinator.com/item?id=35867275) - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
 * [2023-05-08, 21:17:32](https://news.ycombinator.com/item?id=35867194) - [ChatGPT Is Powered by Human Contractors Getting Paid $15 per Hour](https://gizmodo.com/chatgpt-openai-ai-contractors-15-dollars-per-hour-1850415474)
 * [2023-05-08, 21:11:56](https://news.ycombinator.com/item?id=35867134) - [Vitamin K2 supplements fail to slow calcium buildup in heart](https://www.heart.org/en/news/2022/04/25/despite-hopes-vitamin-k2-supplements-fail-to-slow-calcium-buildup-in-heart-valve)
 * [2023-05-08, 21:03:57](https://news.ycombinator.com/item?id=35867043) - [Free speech under attack across Ireland, UK, Europe and globally](https://twitter.com/threadsirish/status/1655512886226354176)
+* [2023-05-08, 20:59:04](https://news.ycombinator.com/item?id=35866988) - [Codon: Python Compiler](https://www.usenix.org/publications/loginonline/codon-python-compiler#Rik%20Farrow)
 * [2023-05-08, 20:10:58](https://news.ycombinator.com/item?id=35866431) - [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
 * [2023-05-08, 19:56:50](https://news.ycombinator.com/item?id=35866283) - [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 * [2023-05-08, 19:18:20](https://news.ycombinator.com/item?id=35865855) - [Dutch Town Becomes First to Install Bat-Friendly Red LED Street Lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
