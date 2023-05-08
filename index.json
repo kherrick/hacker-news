@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-08, 00:51:48",
-      "https://news.ycombinator.com/item?id=35856986"
-    ],
-    [
-      "Intel Skulltrail",
-      "https://en.wikipedia.org/wiki/Intel_Skulltrail"
-    ]
-  ],
-  [
-    [
       "2023-05-08, 00:14:35",
       "https://news.ycombinator.com/item?id=35856820"
     ],
@@ -297,6 +287,16 @@
     [
       "Classic Sesame Street – Computer Trouble",
       "https://www.youtube.com/watch?v=tCHKIdup5Lo"
+    ]
+  ],
+  [
+    [
+      "2023-05-06, 03:39:58",
+      "https://news.ycombinator.com/item?id=35837747"
+    ],
+    [
+      "Secd: A silly implementation of the SECD machine",
+      "https://github.com/zachallaun/secd"
     ]
   ]
 ]
