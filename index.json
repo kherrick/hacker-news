@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-05-08, 02:30:37",
+      "https://news.ycombinator.com/item?id=35857463"
+    ],
+    [
+      "You don&#x27;t need Scrum. You just need to do Kanban right (2022)",
+      "https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 01:57:03",
       "https://news.ycombinator.com/item?id=35857295"
     ],
     [
       "US banking crisis: Warren Buffett says bosses should face ‘punishment’",
       "https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 01:22:13",
+      "https://news.ycombinator.com/item?id=35857134"
+    ],
+    [
+      "SkyLink – Bluesky DID Detector browser plugin",
+      "https://github.com/jessejanderson/skylink"
     ]
   ],
   [
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=35854834"
     ],
     [
-      "209,779 works in the Public Domain, searchable",
+      "210k works in the Public Domain, searchable",
       "https://digital.staatsbibliothek-berlin.de/"
     ]
   ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-05-06, 14:56:17",
-      "https://news.ycombinator.com/item?id=35841961"
-    ],
-    [
-      "The Language of Democracy",
-      "https://www.dissentmagazine.org/online_articles/language-democracy-christopher-lasch-plain-style"
-    ]
-  ],
-  [
-    [
       "2023-05-06, 06:55:28",
       "https://news.ycombinator.com/item?id=35838826"
     ],
     [
       "Classic Sesame Street – Computer Trouble",
       "https://www.youtube.com/watch?v=tCHKIdup5Lo"
-    ]
-  ],
-  [
-    [
-      "2023-05-06, 03:39:58",
-      "https://news.ycombinator.com/item?id=35837747"
-    ],
-    [
-      "Secd: A silly implementation of the SECD machine",
-      "https://github.com/zachallaun/secd"
     ]
   ]
 ]
