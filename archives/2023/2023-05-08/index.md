@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 19:03:20](https://news.ycombinator.com/item?id=35865712) - [Vietnam records highest ever temperature of 44.1C](https://www.theguardian.com/world/2023/may/07/vietnam-records-highest-ever-temperature-of-441c)
 * [2023-05-08, 19:00:32](https://news.ycombinator.com/item?id=35865678) - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
 * [2023-05-08, 18:28:56](https://news.ycombinator.com/item?id=35865257) - [Long before modern humans existed Neanderthals built boats and went sailing](https://www.thearchaeologist.org/blog/long-before-modern-humans-existed-100000-years-ago-neanderthals-built-boats-and-went-sailing)
 * [2023-05-08, 18:10:06](https://news.ycombinator.com/item?id=35865010) - [Fundraising Stages Defined (Angel&#x2F;Pre-Seed&#x2F;Seed&#x2F;Series A) – Incisive Ventures](https://incisive.vc/2022/12/23/fundraising-stages-defined-angel-pre-seed-seed-series-a/)
