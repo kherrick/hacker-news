@@ -7,6 +7,7 @@
 * [2023-05-08, 10:00:51](https://news.ycombinator.com/item?id=35859877) - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
 * [2023-05-08, 09:50:57](https://news.ycombinator.com/item?id=35859822) - [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
 * [2023-05-08, 09:45:24](https://news.ycombinator.com/item?id=35859791) - [A Readable Techcrunch Feed](https://readable_techcrunch.mvlab.workers.dev)
+* [2023-05-08, 09:38:11](https://news.ycombinator.com/item?id=35859752) - [Tensegrity Wiki](https://tensegritywiki.com/index.php?title=Main_Page)
 * [2023-05-08, 09:01:41](https://news.ycombinator.com/item?id=35859558) - [Blackmail as a victimless crime (The paradox of blackmail)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=83348)
 * [2023-05-08, 08:37:39](https://news.ycombinator.com/item?id=35859392) - [There are no generic types or functions in Go](https://bitfieldconsulting.com/golang/type-parameters)
 * [2023-05-08, 08:31:37](https://news.ycombinator.com/item?id=35859344) - [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
