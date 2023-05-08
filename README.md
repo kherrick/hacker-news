@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 12:31:12](https://news.ycombinator.com/item?id=35860827) - [Restricting network access using Linux Network Namespaces](https://blog.sigma-star.at/post/2023/05/sandbox-netns/)
 * [2023-05-08, 12:12:56](https://news.ycombinator.com/item?id=35860705) - [Everyone Was Wrong About Reverse Osmosis–Until Now](https://www.wired.com/story/everyone-was-wrong-about-reverse-osmosis-until-now/)
 * [2023-05-08, 11:41:55](https://news.ycombinator.com/item?id=35860473) - [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
 * [2023-05-08, 11:40:11](https://news.ycombinator.com/item?id=35860464) - [Defenestrations of Prague](https://en.wikipedia.org/wiki/Defenestrations_of_Prague)
@@ -20,7 +21,6 @@
 * [2023-05-07, 22:00:50](https://news.ycombinator.com/item?id=35856036) - [SpaceTraders: A multiplayer game built on a free web API](https://spacetraders.io/)
 * [2023-05-07, 21:57:32](https://news.ycombinator.com/item?id=35856007) - [Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
-* [2023-05-07, 21:37:39](https://news.ycombinator.com/item?id=35855858) - [Branding in the real world: acronym branding (2016)](https://www.brandingmag.com/2016/09/28/branding-in-the-real-world-acronym-branding/)
 * [2023-05-07, 21:16:31](https://news.ycombinator.com/item?id=35855672) - [The life and work of Pieter Bruegel the Elder](https://www.laphamsquarterly.org/roundtable/sheer-teeming-multiplicity-and-variety-it-all)
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
 * [2023-05-07, 18:49:21](https://news.ycombinator.com/item?id=35854369) - [Are There Price Asymmetries in the U.S. Beef Market? [pdf]](https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf)
