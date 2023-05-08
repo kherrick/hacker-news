@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 14:25:37](https://news.ycombinator.com/item?id=35861826) - [Tipping at Self-Checkout Has Customers Crying ‘Emotional Blackmail’](https://www.wsj.com/articles/tipping-self-checkout-restaurants-airports-c3e09f7)
 * [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861436) - [Gmail account is set to be invaded by even more annoying ads](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861435) - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)

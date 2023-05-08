@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 14:25:37](https://news.ycombinator.com/item?id=35861826) - [Tipping at Self-Checkout Has Customers Crying ‘Emotional Blackmail’](https://www.wsj.com/articles/tipping-self-checkout-restaurants-airports-c3e09f7)
 * [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861436) - [Google appears to be scaling up the ads it shows to Gmail users](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861435) - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
@@ -21,7 +22,6 @@
 * [2023-05-08, 01:22:13](https://news.ycombinator.com/item?id=35857134) - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
 * [2023-05-08, 01:10:14](https://news.ycombinator.com/item?id=35857070) - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 * [2023-05-08, 00:14:35](https://news.ycombinator.com/item?id=35856820) - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
-* [2023-05-07, 21:57:32](https://news.ycombinator.com/item?id=35856007) - [Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [2023-05-07, 21:16:31](https://news.ycombinator.com/item?id=35855672) - [The life and work of Pieter Bruegel the Elder](https://www.laphamsquarterly.org/roundtable/sheer-teeming-multiplicity-and-variety-it-all)
 * [2023-05-07, 18:49:21](https://news.ycombinator.com/item?id=35854369) - [Are There Price Asymmetries in the U.S. Beef Market? [pdf]](https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf)
