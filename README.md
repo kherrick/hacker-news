@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
+* [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [Next Computers](https://www.nextcomputers.org/)
 * [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:49:28](https://news.ycombinator.com/item?id=35863876) - [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
@@ -27,7 +28,6 @@
 * [2023-05-08, 08:21:17](https://news.ycombinator.com/item?id=35859281) - [DJI drone flight log viewer](https://www.flightreader.com/)
 * [2023-05-08, 05:14:02](https://news.ycombinator.com/item?id=35858357) - [Greta Mary Sequeira Valentine](http://www.artsmarket.co.uk/greta-valentine/greta-mary-sequeira-valentine.htm)
 * [2023-05-08, 01:10:46](https://news.ycombinator.com/item?id=35857072) - [Suggestivity and Idioms in APL](https://www.sacrideo.us/suggestivity-and-idioms-in-apl/)
-* [2023-05-07, 23:52:14](https://news.ycombinator.com/item?id=35856722) - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
 * [2023-05-07, 18:49:21](https://news.ycombinator.com/item?id=35854369) - [Are There Price Asymmetries in the U.S. Beef Market? [pdf]](https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf)
 * [2023-05-07, 15:10:25](https://news.ycombinator.com/item?id=35852271) - [Is writer pay up or down? Depends how you look at it](https://variety.com/2023/biz/news/writer-pay-up-or-down-1235559599/)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
 * [2023-05-08, 17:34:01](https://news.ycombinator.com/item?id=35864484) - [[EPA] Interim Decision to Artificial Intelligence Tools](https://foiaonline.gov/foiaonline/action/public/submissionDetails?trackingNumber=EPA-2023-004020&type=Request)
+* [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [Next Computers](https://www.nextcomputers.org/)
 * [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:49:28](https://news.ycombinator.com/item?id=35863876) - [The ‘Enshittification’ of TikTok: Or how, platforms die](https://www.wired.com/story/tiktok-platforms-cory-doctorow/)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
