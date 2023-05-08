@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-08, 02:30:37](https://news.ycombinator.com/item?id=35857463) - [You don&#x27;t need Scrum. You just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
 * [2023-05-08, 01:57:03](https://news.ycombinator.com/item?id=35857295) - [US banking crisis: Warren Buffett says bosses should face ‘punishment’](https://www.theguardian.com/business/2023/may/07/us-banking-crisis-warren-buffett-says-bosses-should-face-punishment)
+* [2023-05-08, 01:22:13](https://news.ycombinator.com/item?id=35857134) - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
 * [2023-05-08, 00:14:35](https://news.ycombinator.com/item?id=35856820) - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
 * [2023-05-07, 23:52:14](https://news.ycombinator.com/item?id=35856722) - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
@@ -10,7 +12,7 @@
 * [2023-05-07, 20:44:09](https://news.ycombinator.com/item?id=35855454) - [Show HN: What do you think about my metasearch engine?](https://svmetasearch.eu.org)
 * [2023-05-07, 20:36:50](https://news.ycombinator.com/item?id=35855398) - [Prolog for Data Science](https://emiruz.com/post/2023-04-30-prolog-for-data-science/)
 * [2023-05-07, 19:55:41](https://news.ycombinator.com/item?id=35855029) - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/)
-* [2023-05-07, 19:36:38](https://news.ycombinator.com/item?id=35854834) - [209,779 works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
+* [2023-05-07, 19:36:38](https://news.ycombinator.com/item?id=35854834) - [210k works in the Public Domain, searchable](https://digital.staatsbibliothek-berlin.de/)
 * [2023-05-07, 19:30:18](https://news.ycombinator.com/item?id=35854772) - [Cyberpunk 2077’s Path Tracing Update](https://chipsandcheese.com/2023/05/07/cyberpunk-2077s-path-tracing-update/)
 * [2023-05-07, 17:28:52](https://news.ycombinator.com/item?id=35853625) - [How to make smaller C and C++ binaries](http://ptspts.blogspot.com/2013/12/how-to-make-smaller-c-and-c-binaries.html)
 * [2023-05-07, 17:24:42](https://news.ycombinator.com/item?id=35853588) - [The first planetarium projector was unveiled 100 years ago](https://planetarium100.org/)
@@ -27,9 +29,7 @@
 * [2023-05-07, 03:41:19](https://news.ycombinator.com/item?id=35847715) - [macOS Internals](https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f)
 * [2023-05-06, 19:26:59](https://news.ycombinator.com/item?id=35844574) - [Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
 * [2023-05-06, 18:36:26](https://news.ycombinator.com/item?id=35844078) - [Implementing Value Speculation in OCaml](https://www.lortex.org/articles/value-speculation-ocaml/)
-* [2023-05-06, 14:56:17](https://news.ycombinator.com/item?id=35841961) - [The Language of Democracy](https://www.dissentmagazine.org/online_articles/language-democracy-christopher-lasch-plain-style)
 * [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
-* [2023-05-06, 03:39:58](https://news.ycombinator.com/item?id=35837747) - [Secd: A silly implementation of the SECD machine](https://github.com/zachallaun/secd)
 
 ## [Archives](archives/index.md)
 
