@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-08, 14:32:33](https://news.ycombinator.com/item?id=35861922) - [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
-* [2023-05-08, 14:25:37](https://news.ycombinator.com/item?id=35861826) - [Tipping at Self-Checkout Has Customers Crying ‘Emotional Blackmail’](https://www.wsj.com/articles/tipping-self-checkout-restaurants-airports-c3e09f7)
 * [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861436) - [Google appears to be scaling up the ads it shows to Gmail users](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861435) - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
@@ -13,7 +12,6 @@
 * [2023-05-08, 11:30:51](https://news.ycombinator.com/item?id=35860414) - [The plan to explode a nuclear bomb on the Moon](https://www.bbc.com/future/article/20230505-the-crazy-plan-to-explode-a-nuclear-bomb-on-the-moon)
 * [2023-05-08, 11:29:00](https://news.ycombinator.com/item?id=35860401) - [Canada extends copyright protection another 20 years to meet trade obligation](https://www.theglobeandmail.com/canada/article-canada-extends-copyright-protection-another-20-years-to-meet-new-trade/)
 * [2023-05-08, 10:00:51](https://news.ycombinator.com/item?id=35859877) - [KeePassXC pull request to add basic support for WebAuthn](https://github.com/keepassxreboot/keepassxc/pull/8825)
-* [2023-05-08, 09:50:57](https://news.ycombinator.com/item?id=35859822) - [PSVR2 hardware authentication has been cracked on PC](https://www.neogaf.com/threads/psvr2-hardware-authentication-has-been-cracked-on-pc.1656277/)
 * [2023-05-08, 09:45:24](https://news.ycombinator.com/item?id=35859791) - [A Readable Techcrunch Feed](https://readable_techcrunch.mvlab.workers.dev)
 * [2023-05-08, 09:38:11](https://news.ycombinator.com/item?id=35859752) - [Tensegrity Wiki](https://tensegritywiki.com/index.php?title=Main_Page)
 * [2023-05-08, 08:31:37](https://news.ycombinator.com/item?id=35859344) - [RasaGPT: First headless LLM chatbot built on top of Rasa, Langchain and FastAPI](https://github.com/paulpierre/RasaGPT)
@@ -23,13 +21,15 @@
 * [2023-05-08, 01:22:13](https://news.ycombinator.com/item?id=35857134) - [SkyLink – Bluesky DID Detector browser plugin](https://github.com/jessejanderson/skylink)
 * [2023-05-08, 01:10:14](https://news.ycombinator.com/item?id=35857070) - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 * [2023-05-08, 00:14:35](https://news.ycombinator.com/item?id=35856820) - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
+* [2023-05-07, 23:24:05](https://news.ycombinator.com/item?id=35856560) - [Public-key cryptography (2018)](https://idea-instructions.com/public-key/)
+* [2023-05-07, 22:00:50](https://news.ycombinator.com/item?id=35856036) - [SpaceTraders: A multiplayer game built on a free web API](https://spacetraders.io/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
-* [2023-05-07, 21:16:31](https://news.ycombinator.com/item?id=35855672) - [The life and work of Pieter Bruegel the Elder](https://www.laphamsquarterly.org/roundtable/sheer-teeming-multiplicity-and-variety-it-all)
 * [2023-05-07, 18:49:21](https://news.ycombinator.com/item?id=35854369) - [Are There Price Asymmetries in the U.S. Beef Market? [pdf]](https://lancebachmeier.com/bachmeier_pozo_schroeder_beef_asymmetry.pdf)
-* [2023-05-07, 15:59:07](https://news.ycombinator.com/item?id=35852774) - [Vulkan Video Decoding](https://wickedengine.net/2023/05/07/vulkan-video-decoding/)
 * [2023-05-07, 15:36:16](https://news.ycombinator.com/item?id=35852516) - [What I Want from the Internet](https://www.chrbutler.com/what-i-want-from-the-internet)
 * [2023-05-07, 15:01:08](https://news.ycombinator.com/item?id=35852196) - [Prehistoric pendant’s DNA reveals the person who held it](https://www.nature.com/articles/d41586-023-01482-3)
+* [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 14:59:10](https://news.ycombinator.com/item?id=35852183) - [The ‘devil bird’ lands in New York, with more likely to come](https://www.nytimes.com/2023/05/04/science/anhinga-brooklyn-devil-bird.html)
+* [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
 
 ## [Archives](archives/index.md)
 
