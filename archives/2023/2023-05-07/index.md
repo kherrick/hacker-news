@@ -7,6 +7,7 @@
 * [2023-05-07, 23:52:14](https://news.ycombinator.com/item?id=35856722) - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
 * [2023-05-07, 23:38:37](https://news.ycombinator.com/item?id=35856646) - [A Time Series Apologia](https://win-vector.com/2023/05/07/a-time-series-apologia/)
 * [2023-05-07, 23:24:05](https://news.ycombinator.com/item?id=35856560) - [Public-key cryptography (2018)](https://idea-instructions.com/public-key/)
+* [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
 * [2023-05-07, 22:00:50](https://news.ycombinator.com/item?id=35856036) - [SpaceTraders: A multiplayer game built on a free web API](https://spacetraders.io/)
 * [2023-05-07, 21:57:32](https://news.ycombinator.com/item?id=35856007) - [Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
