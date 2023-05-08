@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 03:23:54](https://news.ycombinator.com/item?id=35857731) - [Operation Epsilon](https://en.wikipedia.org/wiki/Operation_Epsilon)
 * [2023-05-08, 02:59:00](https://news.ycombinator.com/item?id=35857631) - [Ask HN: Why is the state of “smart home” devices still so dire?](https://news.ycombinator.com/item?id=35857631)
 * [2023-05-08, 02:43:23](https://news.ycombinator.com/item?id=35857536) - [Stack Overflow Is ChatGPT Casualty Traffic Down 14% in March](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/)
 * [2023-05-08, 02:30:37](https://news.ycombinator.com/item?id=35857463) - [You don&#x27;t need Scrum. You just need to do Kanban right (2022)](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
