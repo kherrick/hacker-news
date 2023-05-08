@@ -8,6 +8,7 @@
 * [2023-05-08, 01:10:14](https://news.ycombinator.com/item?id=35857070) - [Early Artificial Intelligence Projects: A Student Perspective (2006)](https://projects.csail.mit.edu/films/aifilms/AIFilms.html)
 * [2023-05-08, 00:14:35](https://news.ycombinator.com/item?id=35856820) - [Ancient Earth Globe](https://dinosaurpictures.org/ancient-earth/#470)
 * [2023-05-07, 22:00:50](https://news.ycombinator.com/item?id=35856036) - [SpaceTraders: A multiplayer game built on a free web API](https://spacetraders.io/)
+* [2023-05-07, 21:57:32](https://news.ycombinator.com/item?id=35856007) - [Ninth-Century Coins Change Our Understanding of Alfred the Great](https://www.smithsonianmag.com/smart-news/coins-alfred-the-great-ninth-century-180982103/)
 * [2023-05-07, 21:55:26](https://news.ycombinator.com/item?id=35855988) - [A Group Is Its Own Worst Enemy [pdf] (2005)](https://gwern.net/doc/technology/2005-shirky-agroupisitsownworstenemy.pdf)
 * [2023-05-07, 21:47:59](https://news.ycombinator.com/item?id=35855929) - [A Beginner&#x27;s Guide to eBPF](https://github.com/lizrice/ebpf-beginners)
 * [2023-05-07, 21:37:39](https://news.ycombinator.com/item?id=35855858) - [Branding in the real world: acronym branding (2016)](https://www.brandingmag.com/2016/09/28/branding-in-the-real-world-acronym-branding/)
@@ -27,7 +28,6 @@
 * [2023-05-07, 15:00:25](https://news.ycombinator.com/item?id=35852192) - [Pixel phones are sold with bootloader unlocking disabled](https://www.fitzsim.org/blog/?p=545)
 * [2023-05-07, 13:25:52](https://news.ycombinator.com/item?id=35851303) - [The Scoop on Solar Geoengineering](https://www.technologyreview.com/2023/05/04/1072603/the-inside-scoop-on-solar-geoengineering/)
 * [2023-05-07, 12:22:24](https://news.ycombinator.com/item?id=35850690) - [From XON&#x2F;XOFF to Forward Incremental Search (2022)](https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html)
-* [2023-05-06, 19:26:59](https://news.ycombinator.com/item?id=35844574) - [Using predictions from arbitrary models to get tighter confidence intervals](https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/)
 * [2023-05-06, 18:36:26](https://news.ycombinator.com/item?id=35844078) - [Implementing Value Speculation in OCaml](https://www.lortex.org/articles/value-speculation-ocaml/)
 * [2023-05-06, 06:55:28](https://news.ycombinator.com/item?id=35838826) - [Classic Sesame Street – Computer Trouble](https://www.youtube.com/watch?v=tCHKIdup5Lo)
 
