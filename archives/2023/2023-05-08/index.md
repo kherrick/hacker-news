@@ -48,6 +48,7 @@
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861435) - [GPU vendor-agnostic fluid dynamics solver in Julia](https://b-fg.github.io/2023/05/07/waterlily-on-gpu.html)
 * [2023-05-08, 13:41:40](https://news.ycombinator.com/item?id=35861412) - [The Vietnamese military has an actual troll army and Facebook is its weapon](https://restofworld.org/2023/force-47-vietnam-military-group-facebook/)
 * [2023-05-08, 13:39:38](https://news.ycombinator.com/item?id=35861388) - [Are We Close to AGI?](https://polymathicbeing.substack.com/p/the-layers-of-ai)
+* [2023-05-08, 13:14:58](https://news.ycombinator.com/item?id=35861209) - [Show HN: SineRider, a math puzzle game](https://github.com/hackclub/sinerider)
 * [2023-05-08, 12:31:12](https://news.ycombinator.com/item?id=35860827) - [Restricting network access using Linux Network Namespaces](https://blog.sigma-star.at/post/2023/05/sandbox-netns/)
 * [2023-05-08, 12:12:56](https://news.ycombinator.com/item?id=35860705) - [Everyone Was Wrong About Reverse Osmosis–Until Now](https://www.wired.com/story/everyone-was-wrong-about-reverse-osmosis-until-now/)
 * [2023-05-08, 11:41:55](https://news.ycombinator.com/item?id=35860473) - [Chile to Nationalize Lithium Industry](https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/)
