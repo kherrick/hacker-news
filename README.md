@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-08, 14:54:47](https://news.ycombinator.com/item?id=35862206) - [Curl and Cloudflare = Information leak – But why?](https://www.sami-lehtinen.net/blog/curl-cloudflare-information-leak-but-why)
+* [2023-05-08, 14:57:53](https://news.ycombinator.com/item?id=35862255) - [A startup ushered thousands of Indian women into gig work, for better and worse](https://restofworld.org/2023/urban-company-gig-work-women-india/)
 * [2023-05-08, 14:32:33](https://news.ycombinator.com/item?id=35861922) - [Does a USB drive get heavier as you store more files on it?](https://www.sciencefocus.com/future-technology/does-a-usb-drive-get-heavier-as-you-store-more-files-on-it/)
 * [2023-05-08, 13:52:53](https://news.ycombinator.com/item?id=35861502) - [How to Design Software Architecture for Startups](https://appventuretime.blog/how-to-design-software-architecture-for-startups)
 * [2023-05-08, 13:44:16](https://news.ycombinator.com/item?id=35861436) - [Google appears to be scaling up the ads it shows to Gmail users](https://www.techradar.com/news/your-gmail-account-is-set-to-be-invaded-by-even-more-annoying-ads)
