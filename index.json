@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-09, 20:32:23",
+      "https://news.ycombinator.com/item?id=35880011"
+    ],
+    [
+      "The World’s Oldest Ultramarathon Runner Is Racing Against Death",
+      "https://thewalrus.ca/worlds-oldest-ultramarathon-runner/"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 20:13:01",
       "https://news.ycombinator.com/item?id=35879772"
     ],
@@ -27,6 +37,16 @@
     [
       "In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0",
       "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 19:40:16",
+      "https://news.ycombinator.com/item?id=35879409"
+    ],
+    [
+      "The pain points of teaching computer science",
+      "https://austinhenley.com/blog/teachingpainpoints.html"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35877545"
     ],
     [
-      "Google receives patent for attention-based sequence transduction neural networks",
+      "Patent for attention-based sequence transduction neural networks (2019)",
       "https://patents.google.com/patent/US10452978B2/en"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-05-09, 16:24:52",
-      "https://news.ycombinator.com/item?id=35876711"
-    ],
-    [
-      "Curious case of Martian traffic in Linux",
-      "https://pavel.network/curious-case-of-martian-traffic/"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 16:11:11",
       "https://news.ycombinator.com/item?id=35876511"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35876506"
     ],
     [
-      "Study finds elevated levels of toxic metals in fruit juices and soft drinks",
+      "Study finds elevated levels of toxic metals in some juices and soft drinks",
       "https://news.tulane.edu/pr/study-finds-elevated-levels-toxic-metals-some-mixed-fruit-juices-and-soft-drinks"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Inventor of Magical Realism",
       "https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 10:44:25",
-      "https://news.ycombinator.com/item?id=35860119"
-    ],
-    [
-      "Ultra Deep look at Messier 81 and 82",
-      "https://theuberger.ch/post/astrophotography/20230507-m81m82-collab/"
     ]
   ]
 ]
