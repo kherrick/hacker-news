@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 14:27:31](https://news.ycombinator.com/item?id=35874825) - [Bluesky Frustrations](https://anderegg.ca/2023/05/09/bluesky-frustrations)
 * [2023-05-09, 14:23:00](https://news.ycombinator.com/item?id=35874765) - [Federal Zoning Bill Would Preempt Local Parking Mandates](https://reason.com/2023/05/08/federal-zoning-bill-would-preempt-local-parking-mandates/)
 * [2023-05-09, 14:22:38](https://news.ycombinator.com/item?id=35874755) - [Second massive “blue hole” found, 270 metres deep](https://www.popularmechanics.com/science/environment/a43699012/massive-blue-hole-mexico-new-lifeforms/)
+* [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope Reveals Fomalhaut&#x27;s Disk in Unprecedented Detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 * [2023-05-09, 14:17:03](https://news.ycombinator.com/item?id=35874670) - [APA – Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)
 * [2023-05-09, 14:11:11](https://news.ycombinator.com/item?id=35874575) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
 * [2023-05-09, 13:56:43](https://news.ycombinator.com/item?id=35874375) - [Scientists Use GPT AI to Passively Read People&#x27;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
@@ -21,8 +23,6 @@
 * [2023-05-09, 05:53:43](https://news.ycombinator.com/item?id=35870654) - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 * [2023-05-09, 03:11:29](https://news.ycombinator.com/item?id=35869778) - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
 * [2023-05-09, 02:01:02](https://news.ycombinator.com/item?id=35869378) - [Nyxt 3.0.0](https://nyxt.atlas.engineer/article/release-3.0.0.org)
-* [2023-05-08, 23:45:50](https://news.ycombinator.com/item?id=35868447) - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
-* [2023-05-08, 23:43:14](https://news.ycombinator.com/item?id=35868421) - [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
 * [2023-05-08, 22:45:13](https://news.ycombinator.com/item?id=35867935) - [Ancient Greek terms worth reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 * [2023-05-08, 11:00:11](https://news.ycombinator.com/item?id=35860224) - [Pynchon in Public Day (2017)](https://www.atlasobscura.com/articles/conspiracy-pynchon-in-public-day-author)

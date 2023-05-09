@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 14:27:31](https://news.ycombinator.com/item?id=35874825) - [Bluesky Frustrations](https://anderegg.ca/2023/05/09/bluesky-frustrations)
 * [2023-05-09, 14:23:00](https://news.ycombinator.com/item?id=35874765) - [Federal Zoning Bill Would Preempt Local Parking Mandates](https://reason.com/2023/05/08/federal-zoning-bill-would-preempt-local-parking-mandates/)
 * [2023-05-09, 14:22:38](https://news.ycombinator.com/item?id=35874755) - [Second massive “blue hole” found, 270 metres deep](https://www.popularmechanics.com/science/environment/a43699012/massive-blue-hole-mexico-new-lifeforms/)
+* [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope Reveals Fomalhaut&#x27;s Disk in Unprecedented Detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 * [2023-05-09, 14:17:03](https://news.ycombinator.com/item?id=35874670) - [APA – Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)
 * [2023-05-09, 14:15:22](https://news.ycombinator.com/item?id=35874647) - [Adobe Warns Users They Can Get Sued If They Use Old Photoshop Versions](https://techthelead.com/adobe-warns-users-they-can-get-sued-if-they-use-old-photoshop-versions/)
 * [2023-05-09, 14:11:11](https://news.ycombinator.com/item?id=35874575) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
