@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 21:02:06](https://news.ycombinator.com/item?id=35880345) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=35880345)
 * [2023-05-09, 20:32:23](https://news.ycombinator.com/item?id=35880011) - [The World’s Oldest Ultramarathon Runner Is Racing Against Death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
 * [2023-05-09, 20:13:01](https://news.ycombinator.com/item?id=35879772) - [Seeing racial avoidance on New York City streets](https://www.nature.com/articles/s41562-023-01589-7)
 * [2023-05-09, 20:04:16](https://news.ycombinator.com/item?id=35879678) - [Framework shipping new laptops, Power Savings for Video Output expansion cards](https://frame.work/ca/en/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards)
