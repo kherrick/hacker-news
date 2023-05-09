@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
 * [2023-05-09, 17:24:26](https://news.ycombinator.com/item?id=35877545) - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
+* [2023-05-09, 17:21:30](https://news.ycombinator.com/item?id=35877492) - [How does data removal from GPT *work](https://news.ycombinator.com/item?id=35877492)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 * [2023-05-09, 16:54:27](https://news.ycombinator.com/item?id=35877146) - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
 * [2023-05-09, 16:49:01](https://news.ycombinator.com/item?id=35877090) - [Instagram is gaslighting Pixelfed, the open source federated alternative](https://mastodon.social/@pixelfed/110338336836687527)
@@ -47,6 +48,7 @@
 * [2023-05-09, 11:55:41](https://news.ycombinator.com/item?id=35872966) - [Ask HN: DIY ice bath equation for water cooling](https://news.ycombinator.com/item?id=35872966)
 * [2023-05-09, 11:46:12](https://news.ycombinator.com/item?id=35872850) - [OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-221213949.html)
 * [2023-05-09, 11:45:19](https://news.ycombinator.com/item?id=35872835) - [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
+* [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
 * [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What Is Permaculture?](https://www.permaculturedesignmagazine.com/what-is-permaculture)
 * [2023-05-09, 10:40:10](https://news.ycombinator.com/item?id=35872321) - [India’s religious AI chatbots speak in the voice of god – and condone violence](https://restofworld.org/2023/chatgpt-religious-chatbots-india-gitagpt-krishna/)
 * [2023-05-09, 10:03:56](https://news.ycombinator.com/item?id=35872054) - [New York Is Forcing Schools to Change How They Teach Children to Read](https://www.nytimes.com/2023/05/09/nyregion/reading-nyc-schools.html)
