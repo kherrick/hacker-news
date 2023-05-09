@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
 * [2023-05-09, 17:24:26](https://news.ycombinator.com/item?id=35877545) - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
 * [2023-05-09, 17:21:30](https://news.ycombinator.com/item?id=35877492) - [How does data removal from GPT *work](https://news.ycombinator.com/item?id=35877492)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)

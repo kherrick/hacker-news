@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
 * [2023-05-09, 17:24:26](https://news.ycombinator.com/item?id=35877545) - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
-* [2023-05-09, 17:21:30](https://news.ycombinator.com/item?id=35877492) - [How does data removal from GPT *work](https://news.ycombinator.com/item?id=35877492)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
-* [2023-05-09, 16:54:27](https://news.ycombinator.com/item?id=35877146) - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
 * [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 * [2023-05-09, 16:24:52](https://news.ycombinator.com/item?id=35876711) - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
 * [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
@@ -25,6 +24,7 @@
 * [2023-05-09, 12:48:13](https://news.ycombinator.com/item?id=35873552) - [CheerpJ 3.0: a JVM replacement in HTML5 and WASM to run Java on modern browsers](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
 * [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What Is Permaculture?](https://www.permaculturedesignmagazine.com/what-is-permaculture)
+* [2023-05-09, 07:26:02](https://news.ycombinator.com/item?id=35871186) - [Marginalia.nu API](https://www.marginalia.nu/marginalia-search/api/)
 * [2023-05-09, 06:01:39](https://news.ycombinator.com/item?id=35870692) - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
 * [2023-05-09, 05:53:43](https://news.ycombinator.com/item?id=35870654) - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 * [2023-05-08, 22:27:03](https://news.ycombinator.com/item?id=35867753) - [Mannerisms](https://newleftreview.org/sidecar/posts/mannerisms)
