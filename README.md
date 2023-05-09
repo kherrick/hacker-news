@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 20:13:01](https://news.ycombinator.com/item?id=35879772) - [Seeing racial avoidance on New York City streets](https://www.nature.com/articles/s41562-023-01589-7)
 * [2023-05-09, 20:04:16](https://news.ycombinator.com/item?id=35879678) - [Framework shipping new laptops, Power Savings for Video Output expansion cards](https://frame.work/ca/en/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards)
-* [2023-05-09, 19:58:51](https://news.ycombinator.com/item?id=35879628) - [In Erlang&#x2F;OTP 27, +0.0 will no longer be equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
+* [2023-05-09, 19:58:51](https://news.ycombinator.com/item?id=35879628) - [In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:31:00](https://news.ycombinator.com/item?id=35879278) - [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
 * [2023-05-09, 19:12:00](https://news.ycombinator.com/item?id=35879039) - [Syncthing: A continuous file synchronization program](https://syncthing.net/)
 * [2023-05-09, 19:08:48](https://news.ycombinator.com/item?id=35878998) - [Chaos Communication Camp 2023 – Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
@@ -26,7 +27,6 @@
 * [2023-05-09, 12:48:13](https://news.ycombinator.com/item?id=35873552) - [CheerpJ 3.0: a JVM replacement in HTML5 and WASM to run Java on modern browsers](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
 * [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What Is Permaculture?](https://www.permaculturedesignmagazine.com/what-is-permaculture)
-* [2023-05-09, 05:53:43](https://news.ycombinator.com/item?id=35870654) - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 * [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
 * [2023-05-08, 12:39:38](https://news.ycombinator.com/item?id=35860892) - [The Inventor of Magical Realism](https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/)
 * [2023-05-08, 10:44:25](https://news.ycombinator.com/item?id=35860119) - [Ultra Deep look at Messier 81 and 82](https://theuberger.ch/post/astrophotography/20230507-m81m82-collab/)
