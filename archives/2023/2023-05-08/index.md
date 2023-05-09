@@ -9,6 +9,7 @@
 * [2023-05-08, 23:43:14](https://news.ycombinator.com/item?id=35868421) - [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
 * [2023-05-08, 23:04:39](https://news.ycombinator.com/item?id=35868065) - [LLMs are not greater than the sum of their parts: Stanford researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
 * [2023-05-08, 22:54:15](https://news.ycombinator.com/item?id=35868000) - [Linux 6.4 Features: Intel and AMD Additions, Better Desktop&#x2F;Laptop Drivers](https://www.phoronix.com/review/linux-64-features)
+* [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
 * [2023-05-08, 22:45:13](https://news.ycombinator.com/item?id=35867935) - [Ancient Greek Terms Worth Reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
 * [2023-05-08, 22:44:26](https://news.ycombinator.com/item?id=35867928) - [The man who invented the modern cop novel](https://quillette.com/2023/04/23/the-man-who-invented-the-cop-novel/)
 * [2023-05-08, 22:41:20](https://news.ycombinator.com/item?id=35867907) - [Red Hat considers Xorg “deprecated” and will remove it in a future RHEL release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/deprecated_functionality)
