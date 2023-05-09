@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 06:27:23](https://news.ycombinator.com/item?id=35870824) - [Fired for Using Firefox](https://news.ycombinator.com/item?id=35870824)
 * [2023-05-09, 06:01:39](https://news.ycombinator.com/item?id=35870692) - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
 * [2023-05-09, 05:57:23](https://news.ycombinator.com/item?id=35870669) - [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
 * [2023-05-09, 05:53:43](https://news.ycombinator.com/item?id=35870654) - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
@@ -19,7 +20,6 @@
 * [2023-05-08, 19:00:32](https://news.ycombinator.com/item?id=35865678) - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
 * [2023-05-08, 17:45:50](https://news.ycombinator.com/item?id=35864661) - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [NeXT Computers](https://www.nextcomputers.org/)
-* [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 * [2023-05-08, 16:26:13](https://news.ycombinator.com/item?id=35863512) - [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
 * [2023-05-08, 13:24:15](https://news.ycombinator.com/item?id=35861276) - [Videocard Virtual Museum](https://vgamuseum.ru/?ref=scopeofwork.net)

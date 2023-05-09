@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 06:27:23](https://news.ycombinator.com/item?id=35870824) - [Fired for Using Firefox](https://news.ycombinator.com/item?id=35870824)
 * [2023-05-09, 06:01:39](https://news.ycombinator.com/item?id=35870692) - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
 * [2023-05-09, 05:57:23](https://news.ycombinator.com/item?id=35870669) - [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
 * [2023-05-09, 05:53:43](https://news.ycombinator.com/item?id=35870654) - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
