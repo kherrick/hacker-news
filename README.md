@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-09, 20:32:23](https://news.ycombinator.com/item?id=35880011) - [The World’s Oldest Ultramarathon Runner Is Racing Against Death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
-* [2023-05-09, 20:13:01](https://news.ycombinator.com/item?id=35879772) - [Seeing racial avoidance on New York City streets](https://www.nature.com/articles/s41562-023-01589-7)
 * [2023-05-09, 20:04:16](https://news.ycombinator.com/item?id=35879678) - [Framework shipping new laptops, Power Savings for Video Output expansion cards](https://frame.work/ca/en/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards)
+* [2023-05-09, 20:02:15](https://news.ycombinator.com/item?id=35879660) - [Linux kernel use-after-free in Netfilter, local privilege escalation](https://seclists.org/oss-sec/2023/q2/133)
 * [2023-05-09, 19:58:51](https://news.ycombinator.com/item?id=35879628) - [In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:40:16](https://news.ycombinator.com/item?id=35879409) - [The pain points of teaching computer science](https://austinhenley.com/blog/teachingpainpoints.html)
 * [2023-05-09, 19:31:00](https://news.ycombinator.com/item?id=35879278) - [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
