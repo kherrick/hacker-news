@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 21:17:48](https://news.ycombinator.com/item?id=35880504) - [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
 * [2023-05-09, 21:02:06](https://news.ycombinator.com/item?id=35880345) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=35880345)
 * [2023-05-09, 20:32:23](https://news.ycombinator.com/item?id=35880011) - [The World’s Oldest Ultramarathon Runner Is Racing Against Death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
 * [2023-05-09, 20:04:16](https://news.ycombinator.com/item?id=35879678) - [Getting ready to ship 13th Gen and announcing power saving Expansion Cards](https://frame.work/ca/en/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards)
 * [2023-05-09, 20:02:15](https://news.ycombinator.com/item?id=35879660) - [Linux kernel use-after-free in Netfilter, local privilege escalation](https://seclists.org/oss-sec/2023/q2/133)
 * [2023-05-09, 19:58:51](https://news.ycombinator.com/item?id=35879628) - [In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
-* [2023-05-09, 19:40:16](https://news.ycombinator.com/item?id=35879409) - [The pain points of teaching computer science](https://austinhenley.com/blog/teachingpainpoints.html)
 * [2023-05-09, 19:31:00](https://news.ycombinator.com/item?id=35879278) - [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
 * [2023-05-09, 19:12:00](https://news.ycombinator.com/item?id=35879039) - [Syncthing: A continuous file synchronization program](https://syncthing.net/)
 * [2023-05-09, 19:05:48](https://news.ycombinator.com/item?id=35878961) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
