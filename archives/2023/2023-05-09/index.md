@@ -10,6 +10,7 @@
 * [2023-05-09, 05:53:43](https://news.ycombinator.com/item?id=35870654) - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 * [2023-05-09, 05:51:44](https://news.ycombinator.com/item?id=35870641) - [TSMC’s Europe Plan Gives It a New Global Dimension](https://www.bloomberg.com/opinion/articles/2023-05-09/chipmakers-tsmc-s-europe-plan-gives-it-a-new-global-dimension)
 * [2023-05-09, 05:10:08](https://news.ycombinator.com/item?id=35870393) - [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
+* [2023-05-09, 04:48:46](https://news.ycombinator.com/item?id=35870266) - [Acceptance Address by Mr. Aleksandr Solzhenitsyn (1983)](https://www.templetonprize.org/laureate-sub/solzhenitsyn-acceptance-speech/)
 * [2023-05-09, 04:44:09](https://news.ycombinator.com/item?id=35870242) - [Sam Bankman-Fried, in First Detailed Defense, Seeks to Dismiss Charges](https://www.nytimes.com/2023/05/08/technology/sam-bankman-fried-defense.html)
 * [2023-05-09, 03:50:00](https://news.ycombinator.com/item?id=35869976) - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)
 * [2023-05-09, 03:15:28](https://news.ycombinator.com/item?id=35869798) - [Downtown San Francisco Office Tower Likely to Sell at Discount: Sources](https://sfstandard.com/business/downtown-san-francisco-office-tower-to-sell-at-massive-discount-sources/)
