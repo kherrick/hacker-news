@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 14:11:11](https://news.ycombinator.com/item?id=35874575) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
 * [2023-05-09, 13:56:43](https://news.ycombinator.com/item?id=35874375) - [Scientists Use GPT AI to Passively Read People&#x27;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
 * [2023-05-09, 13:48:25](https://news.ycombinator.com/item?id=35874246) - [Students can’t get off their phones. Schools have had enough](https://www.washingtonpost.com/education/2023/05/09/school-cellphone-ban-yondr/)
+* [2023-05-09, 13:42:09](https://news.ycombinator.com/item?id=35874171) - [Total Crap, the First Magazine Written by AI](https://www.mcsweeneys.net/articles/introducing-total-crap-the-first-magazine-written-entirely-by-ai)
 * [2023-05-09, 13:40:22](https://news.ycombinator.com/item?id=35874149) - [TikTok kept list of users who watched LGBTQ+ content, former employees say](https://www.thepinknews.com/2023/05/08/tiktok-lgbtq/)
 * [2023-05-09, 13:15:12](https://news.ycombinator.com/item?id=35873845) - [GitHub switches to Rust based Blackbird code search](https://www.theregister.com/2023/05/09/blackbird_github_search/)
 * [2023-05-09, 13:14:33](https://news.ycombinator.com/item?id=35873836) - [Google promised to delete sensitive data. It logged my abortion clinic visit](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
