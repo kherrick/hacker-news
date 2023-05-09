@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 12:49:42](https://news.ycombinator.com/item?id=35873575) - [Google Translate “Get well [Swedish firstname]” translates to “fuck you”](https://translate.google.se/?sl=auto&tl=en&text=krya%20p%C3%A5%20dig%20Bj%C3%B6rn%0A&op=translate)
+* [2023-05-09, 11:56:08](https://news.ycombinator.com/item?id=35872974) - [Wendy’s, Google Train Next-Generation Order Taker: An AI Chatbot](https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865)
+* [2023-05-09, 11:55:41](https://news.ycombinator.com/item?id=35872966) - [Ask HN: DIY ice bath equation for water cooling](https://news.ycombinator.com/item?id=35872966)
 * [2023-05-09, 11:46:12](https://news.ycombinator.com/item?id=35872850) - [OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-221213949.html)
 * [2023-05-09, 11:45:19](https://news.ycombinator.com/item?id=35872835) - [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
 * [2023-05-09, 10:40:10](https://news.ycombinator.com/item?id=35872321) - [India’s religious AI chatbots speak in the voice of god – and condone violence](https://restofworld.org/2023/chatgpt-religious-chatbots-india-gitagpt-krishna/)
