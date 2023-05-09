@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 19:58:51](https://news.ycombinator.com/item?id=35879628) - [In Erlang&#x2F;OTP 27, +0.0 will no longer be equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:31:00](https://news.ycombinator.com/item?id=35879278) - [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
 * [2023-05-09, 19:12:00](https://news.ycombinator.com/item?id=35879039) - [Syncthing: A continuous file synchronization program](https://syncthing.net/)
 * [2023-05-09, 19:08:48](https://news.ycombinator.com/item?id=35878998) - [Chaos Communication Camp 2023 – Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
