@@ -2,7 +2,6 @@
 
 * [2023-05-09, 15:08:33](https://news.ycombinator.com/item?id=35875477) - [Ex-Apple VP Mike Abbott Joins General Motors as Exec Vice President, Software](https://investor.gm.com/news-releases/news-release-details/tech-industry-innovator-mike-abbott-joins-general-motors/)
 * [2023-05-09, 14:27:31](https://news.ycombinator.com/item?id=35874825) - [Bluesky Frustrations](https://anderegg.ca/2023/05/09/bluesky-frustrations)
-* [2023-05-09, 14:23:00](https://news.ycombinator.com/item?id=35874765) - [Federal Zoning Bill Would Preempt Local Parking Mandates](https://reason.com/2023/05/08/federal-zoning-bill-would-preempt-local-parking-mandates/)
 * [2023-05-09, 14:22:38](https://news.ycombinator.com/item?id=35874755) - [Second massive “blue hole” found, 270 metres deep](https://www.popularmechanics.com/science/environment/a43699012/massive-blue-hole-mexico-new-lifeforms/)
 * [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope Reveals Fomalhaut&#x27;s Disk in Unprecedented Detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 * [2023-05-09, 14:17:03](https://news.ycombinator.com/item?id=35874670) - [APA – Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)
@@ -25,6 +24,7 @@
 * [2023-05-09, 02:01:02](https://news.ycombinator.com/item?id=35869378) - [Nyxt 3.0.0](https://nyxt.atlas.engineer/article/release-3.0.0.org)
 * [2023-05-08, 22:45:13](https://news.ycombinator.com/item?id=35867935) - [Ancient Greek terms worth reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
 * [2023-05-08, 22:27:03](https://news.ycombinator.com/item?id=35867753) - [Mannerisms](https://newleftreview.org/sidecar/posts/mannerisms)
+* [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 * [2023-05-08, 11:00:11](https://news.ycombinator.com/item?id=35860224) - [Pynchon in Public Day (2017)](https://www.atlasobscura.com/articles/conspiracy-pynchon-in-public-day-author)
 * [2023-05-08, 10:44:25](https://news.ycombinator.com/item?id=35860119) - [Ultra Deep look at Messier 81 and 82](https://theuberger.ch/post/astrophotography/20230507-m81m82-collab/)
 * [2023-05-08, 07:49:13](https://news.ycombinator.com/item?id=35859112) - [The curse and blessings of dynamic SQL (2004-2022)](https://www.sommarskog.se/dynamic_sql.html)
