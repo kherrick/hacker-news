@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-09, 21:14:13",
+      "https://news.ycombinator.com/item?id=35880466"
+    ],
+    [
+      "Apple just lost its lawsuit trying to ban iOS virtual machines",
+      "https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 21:02:06",
       "https://news.ycombinator.com/item?id=35880345"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35880011"
     ],
     [
-      "The World’s Oldest Ultramarathon Runner Is Racing Against Death",
+      "The world’s oldest ultramarathon runner is racing against death",
       "https://thewalrus.ca/worlds-oldest-ultramarathon-runner/"
     ]
   ],
@@ -51,11 +61,21 @@
   ],
   [
     [
+      "2023-05-09, 19:58:51",
+      "https://news.ycombinator.com/item?id=35879628"
+    ],
+    [
+      "In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0",
+      "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 19:40:16",
       "https://news.ycombinator.com/item?id=35879409"
     ],
     [
-      "The pain points of teaching computer science",
+      "Pain points of teaching computer science",
       "https://austinhenley.com/blog/teachingpainpoints.html"
     ]
   ],
@@ -135,18 +155,18 @@
       "https://news.ycombinator.com/item?id=35877291"
     ],
     [
-      "Companies hide negative news through unrelated press releases with SEC filings",
+      "Companies hide negative news with unrelated press releases alongside SEC filings",
       "https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/"
     ]
   ],
   [
     [
-      "2023-05-09, 16:11:11",
-      "https://news.ycombinator.com/item?id=35876511"
+      "2023-05-09, 16:24:52",
+      "https://news.ycombinator.com/item?id=35876711"
     ],
     [
-      "Dose-response relationships of LSD-induced subjective experiences in humans",
-      "https://www.nature.com/articles/s41386-023-01588-2"
+      "Curious case of Martian traffic in Linux",
+      "https://pavel.network/curious-case-of-martian-traffic/"
     ]
   ],
   [
@@ -161,12 +181,12 @@
   ],
   [
     [
-      "2023-05-09, 15:40:41",
-      "https://news.ycombinator.com/item?id=35876062"
+      "2023-05-09, 15:56:28",
+      "https://news.ycombinator.com/item?id=35876329"
     ],
     [
-      "Reduced cancer mortality with daily Vitamin D intake",
-      "https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php"
+      "Do the weirdest thing that feels right",
+      "https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels"
     ]
   ],
   [
@@ -177,16 +197,6 @@
     [
       "T cells can activate themselves to fight tumors",
       "https://today.ucsd.edu/story/t-cells-can-activate-themselves-to-fight-tumors"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 14:37:13",
-      "https://news.ycombinator.com/item?id=35874969"
-    ],
-    [
-      "Show HN: JavaFiddle – Compile, Run and Share Java code fully client side",
-      "https://javafiddle.leaningtech.com"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The seven specification ur-languages",
       "https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 13:32:00",
-      "https://news.ycombinator.com/item?id=35874053"
-    ],
-    [
-      "Logic Pro for iPad",
-      "https://www.apple.com/logic-pro-for-ipad/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-05-08, 05:28:48",
-      "https://news.ycombinator.com/item?id=35858438"
+      "2023-05-08, 10:44:25",
+      "https://news.ycombinator.com/item?id=35860119"
     ],
     [
-      "Let slime moulds do the thinking (2010)",
-      "https://www.theguardian.com/science/blog/2010/sep/08/slime-mould-physarum"
+      "Ultra Deep look at Messier 81 and 82",
+      "https://theuberger.ch/post/astrophotography/20230507-m81m82-collab/"
     ]
   ]
 ]
