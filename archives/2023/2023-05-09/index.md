@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 * [2023-05-09, 16:54:27](https://news.ycombinator.com/item?id=35877146) - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
+* [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 * [2023-05-09, 16:24:52](https://news.ycombinator.com/item?id=35876711) - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
 * [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
 * [2023-05-09, 16:11:11](https://news.ycombinator.com/item?id=35876511) - [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
+* [2023-05-09, 16:10:50](https://news.ycombinator.com/item?id=35876506) - [Study finds elevated levels of toxic metals in fruit juices and soft drinks](https://news.tulane.edu/pr/study-finds-elevated-levels-toxic-metals-some-mixed-fruit-juices-and-soft-drinks)
 * [2023-05-09, 15:56:28](https://news.ycombinator.com/item?id=35876329) - [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
 * [2023-05-09, 15:46:47](https://news.ycombinator.com/item?id=35876161) - [The Modern World Is Aging Your Brain](https://www.wired.com/story/aging-brain-volume/)
 * [2023-05-09, 15:45:46](https://news.ycombinator.com/item?id=35876150) - [Many people living in the &#x27;Diabetes Belt&#x27; are plagued with medical debt](https://text.npr.org/1173439205)
@@ -41,6 +44,7 @@
 * [2023-05-09, 11:55:41](https://news.ycombinator.com/item?id=35872966) - [Ask HN: DIY ice bath equation for water cooling](https://news.ycombinator.com/item?id=35872966)
 * [2023-05-09, 11:46:12](https://news.ycombinator.com/item?id=35872850) - [OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-221213949.html)
 * [2023-05-09, 11:45:19](https://news.ycombinator.com/item?id=35872835) - [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
+* [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What Is Permaculture?](https://www.permaculturedesignmagazine.com/what-is-permaculture)
 * [2023-05-09, 10:40:10](https://news.ycombinator.com/item?id=35872321) - [India’s religious AI chatbots speak in the voice of god – and condone violence](https://restofworld.org/2023/chatgpt-religious-chatbots-india-gitagpt-krishna/)
 * [2023-05-09, 10:03:56](https://news.ycombinator.com/item?id=35872054) - [New York Is Forcing Schools to Change How They Teach Children to Read](https://www.nytimes.com/2023/05/09/nyregion/reading-nyc-schools.html)
 * [2023-05-09, 09:57:10](https://news.ycombinator.com/item?id=35872018) - [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
