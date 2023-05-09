@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
 * [2023-05-09, 21:17:48](https://news.ycombinator.com/item?id=35880504) - [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
+* [2023-05-09, 21:14:13](https://news.ycombinator.com/item?id=35880466) - [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
 * [2023-05-09, 21:02:06](https://news.ycombinator.com/item?id=35880345) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=35880345)
 * [2023-05-09, 20:32:23](https://news.ycombinator.com/item?id=35880011) - [The World’s Oldest Ultramarathon Runner Is Racing Against Death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
 * [2023-05-09, 20:13:01](https://news.ycombinator.com/item?id=35879772) - [Seeing racial avoidance on New York City streets](https://www.nature.com/articles/s41562-023-01589-7)
