@@ -22,14 +22,14 @@
 * [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
 * [2023-05-08, 15:59:03](https://news.ycombinator.com/item?id=35863124) - [Carbon-negative concrete](https://spectrum.ieee.org/concrete)
 * [2023-05-08, 15:40:33](https://news.ycombinator.com/item?id=35862837) - [OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
-* [2023-05-08, 14:50:47](https://news.ycombinator.com/item?id=35862142) - [A mutation turned ants into parasites in one generation](https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/)
 * [2023-05-08, 13:24:15](https://news.ycombinator.com/item?id=35861276) - [Videocard Virtual Museum](https://vgamuseum.ru/?ref=scopeofwork.net)
 * [2023-05-08, 13:14:58](https://news.ycombinator.com/item?id=35861209) - [Show HN: SineRider, a math puzzle game](https://github.com/hackclub/sinerider)
-* [2023-05-08, 07:55:44](https://news.ycombinator.com/item?id=35859142) - [Please don’t upload my code on GitHub](https://nogithub.codeberg.page/)
 * [2023-05-08, 07:49:13](https://news.ycombinator.com/item?id=35859112) - [The curse and blessings of dynamic SQL (2004-2022)](https://www.sommarskog.se/dynamic_sql.html)
 * [2023-05-08, 02:48:37](https://news.ycombinator.com/item?id=35857575) - [Unix: An Oral History](https://www.princeton.edu/~hos/frs122/unixhist/finalhis.htm#attic)
 * [2023-05-07, 23:40:47](https://news.ycombinator.com/item?id=35856654) - [LambdaMOO Takes a New Direction (1992)](https://www.cc.gatech.edu/classes/AY2001/cs6470_fall/LTAND.html)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
+* [2023-05-07, 16:43:29](https://news.ycombinator.com/item?id=35853217) - [Blood–brain barrier opening with ultrasound device in patients with glioblastoma](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00112-2/fulltext)
+* [2023-05-05, 22:45:42](https://news.ycombinator.com/item?id=35836019) - [Favicon Dino Game](https://mashpoe.github.io/favicon-dino-game/)
 
 ## [Archives](archives/index.md)
 
