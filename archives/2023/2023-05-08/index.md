@@ -13,6 +13,7 @@
 * [2023-05-08, 22:44:26](https://news.ycombinator.com/item?id=35867928) - [The man who invented the modern cop novel](https://quillette.com/2023/04/23/the-man-who-invented-the-cop-novel/)
 * [2023-05-08, 22:41:20](https://news.ycombinator.com/item?id=35867907) - [Red Hat considers Xorg “deprecated” and will remove it in a future RHEL release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/deprecated_functionality)
 * [2023-05-08, 22:39:44](https://news.ycombinator.com/item?id=35867886) - [Clarence Thomas Had a Child in Private School. Harlan Crow Paid the Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus)
+* [2023-05-08, 22:27:03](https://news.ycombinator.com/item?id=35867753) - [Mannerisms](https://newleftreview.org/sidecar/posts/mannerisms)
 * [2023-05-08, 21:49:11](https://news.ycombinator.com/item?id=35867457) - [People are trying to claim real videos are deepfakes. The courts are not amused](https://www.npr.org/2023/05/08/1174132413/people-are-trying-to-claim-real-videos-are-deepfakes-the-courts-are-not-amused)
 * [2023-05-08, 21:47:30](https://news.ycombinator.com/item?id=35867436) - [Why Does It Take So Long to Schedule a Doctor&#x27;s Appointment in the US?](https://www.nbcsandiego.com/news/local/why-does-it-take-so-long-to-schedule-a-doctors-appointment-in-the-us/3222649/)
 * [2023-05-08, 21:28:28](https://news.ycombinator.com/item?id=35867275) - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
