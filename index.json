@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-09, 21:02:06",
+      "https://news.ycombinator.com/item?id=35880345"
+    ],
+    [
+      "Aptible (YC S14) Is Hiring: Security Engineer and Head of Product",
+      "https://news.ycombinator.com/item?id=35880345"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 20:32:23",
       "https://news.ycombinator.com/item?id=35880011"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35879678"
     ],
     [
-      "Framework shipping new laptops, Power Savings for Video Output expansion cards",
+      "Getting ready to ship 13th Gen and announcing power saving Expansion Cards",
       "https://frame.work/ca/en/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards"
     ]
   ],
@@ -27,26 +37,6 @@
     [
       "Linux kernel use-after-free in Netfilter, local privilege escalation",
       "https://seclists.org/oss-sec/2023/q2/133"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 19:58:51",
-      "https://news.ycombinator.com/item?id=35879628"
-    ],
-    [
-      "In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0",
-      "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 19:40:16",
-      "https://news.ycombinator.com/item?id=35879409"
-    ],
-    [
-      "The pain points of teaching computer science",
-      "https://austinhenley.com/blog/teachingpainpoints.html"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Syncthing: A continuous file synchronization program",
       "https://syncthing.net/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 19:08:48",
-      "https://news.ycombinator.com/item?id=35878998"
-    ],
-    [
-      "Chaos Communication Camp 2023 – Call for Participation",
-      "https://events.ccc.de/2023/05/09/camp23-call-for-participation/"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "Companies hide negative news through unrelated press releases with SEC filings",
       "https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 16:24:52",
+      "https://news.ycombinator.com/item?id=35876711"
+    ],
+    [
+      "Curious case of Martian traffic in Linux",
+      "https://pavel.network/curious-case-of-martian-traffic/"
     ]
   ],
   [
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=35874704"
     ],
     [
-      "James Webb Space Telescope Reveals Fomalhaut&#x27;s Disk in Unprecedented Detail",
+      "James Webb Space Telescope reveals Fomalhaut&#x27;s disk in detail",
       "https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/"
     ]
   ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35873732"
     ],
     [
-      "Apple Brings Final Cut Pro and Logic Pro to iPad",
+      "Apple brings Final Cut Pro and Logic Pro to iPad",
       "https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/"
     ]
   ],
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=35872647"
     ],
     [
-      "What Is Permaculture?",
+      "What is permaculture? (2015)",
       "https://www.permaculturedesignmagazine.com/what-is-permaculture"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "The Inventor of Magical Realism",
       "https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/"
+    ]
+  ],
+  [
+    [
+      "2023-05-08, 05:28:48",
+      "https://news.ycombinator.com/item?id=35858438"
+    ],
+    [
+      "Let slime moulds do the thinking (2010)",
+      "https://www.theguardian.com/science/blog/2010/sep/08/slime-mould-physarum"
     ]
   ]
 ]
