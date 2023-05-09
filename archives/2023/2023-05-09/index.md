@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 22:28:44](https://news.ycombinator.com/item?id=35881170) - [The AT protocol is the most obtuse crock of s*](https://urbanists.social/@sam/110339902538138997)
 * [2023-05-09, 22:08:13](https://news.ycombinator.com/item?id=35880997) - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
 * [2023-05-09, 21:36:37](https://news.ycombinator.com/item?id=35880700) - [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
+* [2023-05-09, 21:18:51](https://news.ycombinator.com/item?id=35880517) - [Twenty Years of Blogging](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)
 * [2023-05-09, 21:17:48](https://news.ycombinator.com/item?id=35880504) - [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
 * [2023-05-09, 21:14:13](https://news.ycombinator.com/item?id=35880466) - [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
 * [2023-05-09, 21:04:44](https://news.ycombinator.com/item?id=35880376) - [Spotify-Qt](https://github.com/kraxarn/spotify-qt)
