@@ -21,6 +21,7 @@
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [NeXT Computers](https://www.nextcomputers.org/)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 * [2023-05-08, 15:37:43](https://news.ycombinator.com/item?id=35862799) - [A coax cable horror story](https://qrper.com/2023/04/coax-cables-i-used-for-sota-pota-a-horror-story/)
+* [2023-05-08, 13:24:15](https://news.ycombinator.com/item?id=35861276) - [Videocard Virtual Museum](https://vgamuseum.ru/?ref=scopeofwork.net)
 * [2023-05-08, 13:14:58](https://news.ycombinator.com/item?id=35861209) - [Show HN: SineRider, a math puzzle game](https://github.com/hackclub/sinerider)
 * [2023-05-08, 11:00:11](https://news.ycombinator.com/item?id=35860224) - [Pynchon in Public Day (2017)](https://www.atlasobscura.com/articles/conspiracy-pynchon-in-public-day-author)
 * [2023-05-08, 07:49:13](https://news.ycombinator.com/item?id=35859112) - [The curse and blessings of dynamic SQL (2004-2022)](https://www.sommarskog.se/dynamic_sql.html)
@@ -29,7 +30,6 @@
 * [2023-05-07, 23:40:47](https://news.ycombinator.com/item?id=35856654) - [LambdaMOO Takes a New Direction (1992)](https://www.cc.gatech.edu/classes/AY2001/cs6470_fall/LTAND.html)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
 * [2023-05-07, 16:43:29](https://news.ycombinator.com/item?id=35853217) - [Blood–brain barrier opening with ultrasound device in patients with glioblastoma](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00112-2/fulltext)
-* [2023-05-06, 03:52:14](https://news.ycombinator.com/item?id=35837807) - [The New York hotel destination fee scam (2020)](http://www.travelforaliving.co.uk/tips/know-about-new-york-destination-fee/)
 
 ## [Archives](archives/index.md)
 
