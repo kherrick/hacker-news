@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-09, 06:27:23](https://news.ycombinator.com/item?id=35870824) - [Fired for Using Firefox](https://news.ycombinator.com/item?id=35870824)
+* [2023-05-09, 06:27:23](https://news.ycombinator.com/item?id=35870824) - [Ask HN: Fired for Using Firefox](https://news.ycombinator.com/item?id=35870824)
 * [2023-05-09, 06:01:39](https://news.ycombinator.com/item?id=35870692) - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
 * [2023-05-09, 05:57:23](https://news.ycombinator.com/item?id=35870669) - [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
 * [2023-05-09, 05:53:43](https://news.ycombinator.com/item?id=35870654) - [Learning DNS in 10 Years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 * [2023-05-09, 05:10:08](https://news.ycombinator.com/item?id=35870393) - [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
-* [2023-05-09, 03:50:00](https://news.ycombinator.com/item?id=35869976) - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)
 * [2023-05-09, 03:11:29](https://news.ycombinator.com/item?id=35869778) - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
 * [2023-05-09, 00:15:35](https://news.ycombinator.com/item?id=35868685) - [“Tinder for Canceling Meetings”](https://meetcala.com/)
 * [2023-05-08, 23:45:50](https://news.ycombinator.com/item?id=35868447) - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
@@ -20,8 +19,9 @@
 * [2023-05-08, 19:00:32](https://news.ycombinator.com/item?id=35865678) - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
 * [2023-05-08, 17:45:50](https://news.ycombinator.com/item?id=35864661) - [Show HN: Cptn.io – open-source integration platform](https://cptn.io)
 * [2023-05-08, 17:29:37](https://news.ycombinator.com/item?id=35864429) - [NeXT Computers](https://www.nextcomputers.org/)
+* [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
-* [2023-05-08, 16:26:13](https://news.ycombinator.com/item?id=35863512) - [The D.E.N.N.I.S. system: Résumé tips for Senior Devs](https://jacobbartlett.substack.com/p/the-dennis-system-cvs-tips-for-senior)
+* [2023-05-08, 15:37:43](https://news.ycombinator.com/item?id=35862799) - [A coax cable horror story](https://qrper.com/2023/04/coax-cables-i-used-for-sota-pota-a-horror-story/)
 * [2023-05-08, 13:24:15](https://news.ycombinator.com/item?id=35861276) - [Videocard Virtual Museum](https://vgamuseum.ru/?ref=scopeofwork.net)
 * [2023-05-08, 13:14:58](https://news.ycombinator.com/item?id=35861209) - [Show HN: SineRider, a math puzzle game](https://github.com/hackclub/sinerider)
 * [2023-05-08, 07:49:13](https://news.ycombinator.com/item?id=35859112) - [The curse and blessings of dynamic SQL (2004-2022)](https://www.sommarskog.se/dynamic_sql.html)
@@ -29,7 +29,7 @@
 * [2023-05-08, 02:48:37](https://news.ycombinator.com/item?id=35857575) - [Unix: An Oral History](https://www.princeton.edu/~hos/frs122/unixhist/finalhis.htm#attic)
 * [2023-05-07, 23:40:47](https://news.ycombinator.com/item?id=35856654) - [LambdaMOO Takes a New Direction (1992)](https://www.cc.gatech.edu/classes/AY2001/cs6470_fall/LTAND.html)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
-* [2023-05-05, 22:45:42](https://news.ycombinator.com/item?id=35836019) - [Favicon Dino Game](https://mashpoe.github.io/favicon-dino-game/)
+* [2023-05-07, 16:43:29](https://news.ycombinator.com/item?id=35853217) - [Blood–brain barrier opening with ultrasound device in patients with glioblastoma](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00112-2/fulltext)
 
 ## [Archives](archives/index.md)
 
