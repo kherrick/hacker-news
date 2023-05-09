@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
 * [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
+* [2023-05-09, 17:41:30](https://news.ycombinator.com/item?id=35877825) - [Defending against Bluetooth tracker abuse: it’s complicated](https://educatedguesswork.org/posts/unwanted-tracking/)
 * [2023-05-09, 17:24:26](https://news.ycombinator.com/item?id=35877545) - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
 * [2023-05-09, 17:21:30](https://news.ycombinator.com/item?id=35877492) - [How does data removal from GPT *work](https://news.ycombinator.com/item?id=35877492)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
+* [2023-05-09, 17:07:06](https://news.ycombinator.com/item?id=35877291) - [Companies hide negative news through unrelated press releases with SEC filings](https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/)
 * [2023-05-09, 16:54:27](https://news.ycombinator.com/item?id=35877146) - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
 * [2023-05-09, 16:49:01](https://news.ycombinator.com/item?id=35877090) - [Instagram is gaslighting Pixelfed, the open source federated alternative](https://mastodon.social/@pixelfed/110338336836687527)
 * [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
