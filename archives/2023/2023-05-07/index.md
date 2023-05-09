@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-07](index.md)
 
 * [2023-05-07, 23:52:14](https://news.ycombinator.com/item?id=35856722) - [Inductive charging highway section to be built in Florida](https://www.electrive.com/2023/05/02/inductive-charging-highway-section-to-be-built-in-florida/)
+* [2023-05-07, 23:40:47](https://news.ycombinator.com/item?id=35856654) - [LambdaMOO Takes a New Direction (1992)](https://www.cc.gatech.edu/classes/AY2001/cs6470_fall/LTAND.html)
 * [2023-05-07, 23:38:37](https://news.ycombinator.com/item?id=35856646) - [A Time Series Apologia](https://win-vector.com/2023/05/07/a-time-series-apologia/)
 * [2023-05-07, 23:24:05](https://news.ycombinator.com/item?id=35856560) - [Public-key cryptography (2018)](https://idea-instructions.com/public-key/)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
