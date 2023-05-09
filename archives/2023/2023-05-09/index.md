@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 11:46:12](https://news.ycombinator.com/item?id=35872850) - [OpenAI CEO Sam Altman says the remote work ‘experiment’ was a mistake](https://finance.yahoo.com/news/openai-ceo-sam-altman-says-221213949.html)
+* [2023-05-09, 11:45:19](https://news.ycombinator.com/item?id=35872835) - [GitHub incident: ongoing issues with Actions, Issues and other Git operations](https://www.githubstatus.com/incidents/f0mhbz9xn497)
 * [2023-05-09, 10:40:10](https://news.ycombinator.com/item?id=35872321) - [India’s religious AI chatbots speak in the voice of god – and condone violence](https://restofworld.org/2023/chatgpt-religious-chatbots-india-gitagpt-krishna/)
 * [2023-05-09, 10:03:56](https://news.ycombinator.com/item?id=35872054) - [New York Is Forcing Schools to Change How They Teach Children to Read](https://www.nytimes.com/2023/05/09/nyregion/reading-nyc-schools.html)
 * [2023-05-09, 09:57:10](https://news.ycombinator.com/item?id=35872018) - [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)

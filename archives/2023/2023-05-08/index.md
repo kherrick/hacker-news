@@ -81,6 +81,7 @@
 * [2023-05-08, 07:55:44](https://news.ycombinator.com/item?id=35859142) - [Please don’t upload my code on GitHub](https://nogithub.codeberg.page/)
 * [2023-05-08, 07:55:18](https://news.ycombinator.com/item?id=35859141) - [Why Object.keys doesn&#x27;t return (keyof T)[]](https://vladimirzdrazil.com/posts/object-keys-keyof-t/)
 * [2023-05-08, 07:49:13](https://news.ycombinator.com/item?id=35859112) - [The Curse and Blessings of Dynamic SQL](https://www.sommarskog.se/dynamic_sql.html)
+* [2023-05-08, 06:38:24](https://news.ycombinator.com/item?id=35858778) - [One line of code that did cost $8k](https://pietrasiak.com/one-line-of-code-that-did-cost-dollar8000)
 * [2023-05-08, 05:28:48](https://news.ycombinator.com/item?id=35858438) - [Let slime moulds do the thinking (2010)](https://www.theguardian.com/science/blog/2010/sep/08/slime-mould-physarum)
 * [2023-05-08, 05:16:26](https://news.ycombinator.com/item?id=35858375) - [Hest, Time Travel (2019)](https://ivanish.ca/hest-time-travel/)
 * [2023-05-08, 05:15:31](https://news.ycombinator.com/item?id=35858368) - [Second Thoughts on James Burnham (1946)](https://orwell.ru/library/reviews/burnham/english/e_burnh.html)
