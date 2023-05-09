@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 03:15:28](https://news.ycombinator.com/item?id=35869798) - [Downtown San Francisco Office Tower Likely to Sell at Discount: Sources](https://sfstandard.com/business/downtown-san-francisco-office-tower-to-sell-at-massive-discount-sources/)
 * [2023-05-09, 01:02:24](https://news.ycombinator.com/item?id=35869011) - [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
 * [2023-05-09, 00:15:35](https://news.ycombinator.com/item?id=35868685) - [“Tinder for Canceling Meetings”](https://meetcala.com/)
 * [2023-05-08, 23:54:56](https://news.ycombinator.com/item?id=35868529) - [WordPress plugin hole puts &#x27;2M websites&#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
@@ -28,7 +29,6 @@
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
 * [2023-05-07, 16:43:29](https://news.ycombinator.com/item?id=35853217) - [Blood–brain barrier opening with ultrasound device in patients with glioblastoma](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00112-2/fulltext)
 * [2023-05-07, 15:52:43](https://news.ycombinator.com/item?id=35852710) - [Casio adds fitness features to original G-Shock digital watch](https://gizmodo.com/casio-g-shock-digital-watch-fitness-tracking-heart-rate-1850357822)
-* [2023-05-05, 23:08:45](https://news.ycombinator.com/item?id=35836221) - [Ask HN: Suing Facebook in small claims?](https://news.ycombinator.com/item?id=35836221)
 * [2023-05-05, 22:45:42](https://news.ycombinator.com/item?id=35836019) - [Favicon Dino Game](https://mashpoe.github.io/favicon-dino-game/)
 
 ## [Archives](archives/index.md)
