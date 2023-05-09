@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 13:15:12](https://news.ycombinator.com/item?id=35873845) - [GitHub switches to Rust based Blackbird code search](https://www.theregister.com/2023/05/09/blackbird_github_search/)
 * [2023-05-09, 13:14:33](https://news.ycombinator.com/item?id=35873836) - [Google promised to delete sensitive data. It logged my abortion clinic visit](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
+* [2023-05-09, 13:04:06](https://news.ycombinator.com/item?id=35873732) - [Apple Brings Final Cut Pro and Logic Pro to iPad](https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/)
 * [2023-05-09, 12:49:42](https://news.ycombinator.com/item?id=35873575) - [Google Translate “Get well [Swedish firstname]” translates to “fuck you”](https://translate.google.se/?sl=auto&tl=en&text=krya%20p%C3%A5%20dig%20Bj%C3%B6rn%0A&op=translate)
 * [2023-05-09, 11:56:08](https://news.ycombinator.com/item?id=35872974) - [Wendy’s, Google Train Next-Generation Order Taker: An AI Chatbot](https://www.wsj.com/articles/wendys-google-train-next-generation-order-taker-an-ai-chatbot-968ff865)
 * [2023-05-09, 11:55:41](https://news.ycombinator.com/item?id=35872966) - [Ask HN: DIY ice bath equation for water cooling](https://news.ycombinator.com/item?id=35872966)
