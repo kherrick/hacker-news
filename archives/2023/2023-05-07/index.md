@@ -40,6 +40,7 @@
 * [2023-05-07, 16:58:46](https://news.ycombinator.com/item?id=35853344) - [LattePanda Sigma – A Hackable Single Board Server with Mighty Power](https://www.lattepanda.com/lattepanda-sigma)
 * [2023-05-07, 16:57:55](https://news.ycombinator.com/item?id=35853338) - [Lamest Edit Wars](https://en.wikipedia.org/wiki/Wikipedia:Lamest_edit_wars)
 * [2023-05-07, 16:49:41](https://news.ycombinator.com/item?id=35853276) - [ChatGPT cannot build a simple working site from scratch](https://news.ycombinator.com/item?id=35853276)
+* [2023-05-07, 16:43:29](https://news.ycombinator.com/item?id=35853217) - [Blood–brain barrier opening with ultrasound device in patients with glioblastoma](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00112-2/fulltext)
 * [2023-05-07, 16:36:33](https://news.ycombinator.com/item?id=35853148) - [So many bad takes. Learn from the Prime Video microservices to monolith story](https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4)
 * [2023-05-07, 16:33:52](https://news.ycombinator.com/item?id=35853131) - [Five Books: The best books on everything](https://fivebooks.com/)
 * [2023-05-07, 16:00:01](https://news.ycombinator.com/item?id=35852783) - [Why the Ferrari F355 Sounds So Good](https://www.roadandtrack.com/news/a43805754/ferrari-f355-exhaust-sound/)

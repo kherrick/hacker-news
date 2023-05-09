@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-08](index.md)
 
+* [2023-05-08, 23:54:56](https://news.ycombinator.com/item?id=35868529) - [WordPress plugin hole puts &#x27;2M websites&#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
+* [2023-05-08, 23:45:50](https://news.ycombinator.com/item?id=35868447) - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
+* [2023-05-08, 23:43:14](https://news.ycombinator.com/item?id=35868421) - [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
 * [2023-05-08, 23:04:39](https://news.ycombinator.com/item?id=35868065) - [LLMs are not greater than the sum of their parts: Stanford researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
+* [2023-05-08, 22:54:15](https://news.ycombinator.com/item?id=35868000) - [Linux 6.4 Features: Intel and AMD Additions, Better Desktop&#x2F;Laptop Drivers](https://www.phoronix.com/review/linux-64-features)
 * [2023-05-08, 22:45:13](https://news.ycombinator.com/item?id=35867935) - [Ancient Greek Terms Worth Reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
 * [2023-05-08, 22:41:20](https://news.ycombinator.com/item?id=35867907) - [Red Hat considers Xorg “deprecated” and will remove it in a future RHEL release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.0_release_notes/deprecated_functionality)
 * [2023-05-08, 22:39:44](https://news.ycombinator.com/item?id=35867886) - [Clarence Thomas Had a Child in Private School. Harlan Crow Paid the Tuition](https://www.propublica.org/article/clarence-thomas-harlan-crow-private-school-tuition-scotus)
