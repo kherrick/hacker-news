@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 10:03:56](https://news.ycombinator.com/item?id=35872054) - [New York Is Forcing Schools to Change How They Teach Children to Read](https://www.nytimes.com/2023/05/09/nyregion/reading-nyc-schools.html)
+* [2023-05-09, 09:57:10](https://news.ycombinator.com/item?id=35872018) - [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
 * [2023-05-09, 08:16:32](https://news.ycombinator.com/item?id=35871520) - [The Neon God](https://paulkingsnorth.substack.com/p/the-neon-god)
 * [2023-05-09, 07:57:08](https://news.ycombinator.com/item?id=35871394) - [UN Human Rights Chief Urges UK to Reverse ‘Deeply Troubling’ Public Order Bill](https://www.ohchr.org/en/press-releases/2023/04/un-human-rights-chief-urges-uk-reverse-deeply-troubling-public-order-bill)
 * [2023-05-09, 07:26:02](https://news.ycombinator.com/item?id=35871186) - [Marginalia.nu API](https://www.marginalia.nu/marginalia-search/api/)
