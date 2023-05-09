@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 16:24:52](https://news.ycombinator.com/item?id=35876711) - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
 * [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
 * [2023-05-09, 16:11:11](https://news.ycombinator.com/item?id=35876511) - [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
 * [2023-05-09, 15:56:28](https://news.ycombinator.com/item?id=35876329) - [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
 * [2023-05-09, 15:46:47](https://news.ycombinator.com/item?id=35876161) - [The Modern World Is Aging Your Brain](https://www.wired.com/story/aging-brain-volume/)
+* [2023-05-09, 15:45:46](https://news.ycombinator.com/item?id=35876150) - [Many people living in the &#x27;Diabetes Belt&#x27; are plagued with medical debt](https://text.npr.org/1173439205)
 * [2023-05-09, 15:45:35](https://news.ycombinator.com/item?id=35876147) - [Meta open-sources multisensory AI model that combines six types of data](https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research)
 * [2023-05-09, 15:40:41](https://news.ycombinator.com/item?id=35876062) - [Reduced cancer mortality with daily Vitamin D intake](https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php)
 * [2023-05-09, 15:08:33](https://news.ycombinator.com/item?id=35875477) - [Ex-Apple VP Mike Abbott Joins General Motors as Exec Vice President, Software](https://investor.gm.com/news-releases/news-release-details/tech-industry-innovator-mike-abbott-joins-general-motors/)
