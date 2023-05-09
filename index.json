@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-09, 22:08:13",
+      "https://news.ycombinator.com/item?id=35880997"
+    ],
+    [
+      "The last days of a 350-year-old family farm",
+      "https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 21:36:37",
+      "https://news.ycombinator.com/item?id=35880700"
+    ],
+    [
+      "Segment anything and Stable Diffusion showcase app",
+      "https://www.editanything.ai"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 21:17:48",
       "https://news.ycombinator.com/item?id=35880504"
     ],
@@ -17,6 +37,16 @@
     [
       "Apple just lost its lawsuit trying to ban iOS virtual machines",
       "https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 21:04:44",
+      "https://news.ycombinator.com/item?id=35880376"
+    ],
+    [
+      "Spotify-Qt",
+      "https://github.com/kraxarn/spotify-qt"
     ]
   ],
   [
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2023-05-09, 17:41:30",
-      "https://news.ycombinator.com/item?id=35877825"
-    ],
-    [
-      "Defending against Bluetooth tracker abuse: it’s complicated",
-      "https://educatedguesswork.org/posts/unwanted-tracking/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 17:24:26",
-      "https://news.ycombinator.com/item?id=35877545"
-    ],
-    [
-      "Patent for attention-based sequence transduction neural networks (2019)",
-      "https://patents.google.com/patent/US10452978B2/en"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 17:15:04",
       "https://news.ycombinator.com/item?id=35877402"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2023-05-09, 16:24:52",
-      "https://news.ycombinator.com/item?id=35876711"
-    ],
-    [
-      "Curious case of Martian traffic in Linux",
-      "https://pavel.network/curious-case-of-martian-traffic/"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 16:10:50",
       "https://news.ycombinator.com/item?id=35876506"
     ],
     [
       "Study finds elevated levels of toxic metals in some juices and soft drinks",
       "https://news.tulane.edu/pr/study-finds-elevated-levels-toxic-metals-some-mixed-fruit-juices-and-soft-drinks"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 15:56:28",
-      "https://news.ycombinator.com/item?id=35876329"
-    ],
-    [
-      "Do the weirdest thing that feels right",
-      "https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2023-05-09, 13:02:49",
+      "https://news.ycombinator.com/item?id=35873714"
+    ],
+    [
+      "Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform",
+      "https://arxiv.org/abs/2305.04760"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 12:48:13",
       "https://news.ycombinator.com/item?id=35873552"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-05-08, 20:22:28",
+      "https://news.ycombinator.com/item?id=35866570"
+    ],
+    [
+      "The Strange Devirtualization of Techno",
+      "https://haywirez.com/strange-devirtualization-of-techno/"
+    ]
+  ],
+  [
+    [
       "2023-05-08, 12:39:38",
       "https://news.ycombinator.com/item?id=35860892"
     ],
     [
       "The Inventor of Magical Realism",
       "https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 10:44:25",
-      "https://news.ycombinator.com/item?id=35860119"
-    ],
-    [
-      "Ultra Deep look at Messier 81 and 82",
-      "https://theuberger.ch/post/astrophotography/20230507-m81m82-collab/"
     ]
   ]
 ]
