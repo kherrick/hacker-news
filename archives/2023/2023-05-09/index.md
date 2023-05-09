@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
+* [2023-05-09, 16:11:11](https://news.ycombinator.com/item?id=35876511) - [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
+* [2023-05-09, 15:56:28](https://news.ycombinator.com/item?id=35876329) - [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
+* [2023-05-09, 15:46:47](https://news.ycombinator.com/item?id=35876161) - [The Modern World Is Aging Your Brain](https://www.wired.com/story/aging-brain-volume/)
 * [2023-05-09, 15:45:35](https://news.ycombinator.com/item?id=35876147) - [Meta open-sources multisensory AI model that combines six types of data](https://www.theverge.com/2023/5/9/23716558/meta-imagebind-open-source-multisensory-modal-ai-model-research)
 * [2023-05-09, 15:40:41](https://news.ycombinator.com/item?id=35876062) - [Reduced cancer mortality with daily Vitamin D intake](https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php)
 * [2023-05-09, 15:08:33](https://news.ycombinator.com/item?id=35875477) - [Ex-Apple VP Mike Abbott Joins General Motors as Exec Vice President, Software](https://investor.gm.com/news-releases/news-release-details/tech-industry-innovator-mike-abbott-joins-general-motors/)
 * [2023-05-09, 15:05:38](https://news.ycombinator.com/item?id=35875434) - [US on track to set record in 2023 for mass killings after series of shootings](https://www.theguardian.com/us-news/2023/may/09/us-on-track-set-record-mass-killings-2023)
+* [2023-05-09, 15:02:58](https://news.ycombinator.com/item?id=35875393) - [T Cells Can Activate Themselves to Fight Tumors](https://today.ucsd.edu/story/t-cells-can-activate-themselves-to-fight-tumors)
+* [2023-05-09, 14:37:13](https://news.ycombinator.com/item?id=35874969) - [Show HN: JavaFiddle – Compile, Run and Share Java code fully client side](https://javafiddle.leaningtech.com)
 * [2023-05-09, 14:27:31](https://news.ycombinator.com/item?id=35874825) - [Bluesky Frustrations](https://anderegg.ca/2023/05/09/bluesky-frustrations)
 * [2023-05-09, 14:23:00](https://news.ycombinator.com/item?id=35874765) - [Federal Zoning Bill Would Preempt Local Parking Mandates](https://reason.com/2023/05/08/federal-zoning-bill-would-preempt-local-parking-mandates/)
 * [2023-05-09, 14:22:38](https://news.ycombinator.com/item?id=35874755) - [Second massive “blue hole” found, 270 metres deep](https://www.popularmechanics.com/science/environment/a43699012/massive-blue-hole-mexico-new-lifeforms/)
