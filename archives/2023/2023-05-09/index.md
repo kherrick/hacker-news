@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 17:24:26](https://news.ycombinator.com/item?id=35877545) - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 * [2023-05-09, 16:54:27](https://news.ycombinator.com/item?id=35877146) - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
 * [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 * [2023-05-09, 16:24:52](https://news.ycombinator.com/item?id=35876711) - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
+* [2023-05-09, 16:15:58](https://news.ycombinator.com/item?id=35876582) - [Web Scraping on Autopilot with GPT-4](https://www.kadoa.com/playground)
 * [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
 * [2023-05-09, 16:11:11](https://news.ycombinator.com/item?id=35876511) - [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
 * [2023-05-09, 16:10:50](https://news.ycombinator.com/item?id=35876506) - [Study finds elevated levels of toxic metals in fruit juices and soft drinks](https://news.tulane.edu/pr/study-finds-elevated-levels-toxic-metals-some-mixed-fruit-juices-and-soft-drinks)
