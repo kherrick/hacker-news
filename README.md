@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-09, 01:02:24](https://news.ycombinator.com/item?id=35869011) - [The rise of ChatGPT-enabled GitHub spam](https://mastodon.social/@danluu/110335983520055904)
-* [2023-05-09, 00:42:52](https://news.ycombinator.com/item?id=35868887) - [Cheat Sheets for Developers](https://quickref.me/index.html)
 * [2023-05-09, 00:15:35](https://news.ycombinator.com/item?id=35868685) - [“Tinder for Canceling Meetings”](https://meetcala.com/)
 * [2023-05-08, 23:54:56](https://news.ycombinator.com/item?id=35868529) - [WordPress plugin hole puts &#x27;2M websites&#x27; at risk](https://www.theregister.com/2023/05/08/wordpress_plugin_vulnerability/)
 * [2023-05-08, 23:45:50](https://news.ycombinator.com/item?id=35868447) - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
@@ -18,6 +17,7 @@
 * [2023-05-08, 17:01:39](https://news.ycombinator.com/item?id=35864053) - [Tesorio (YC S15) Hiring Senior Back End Engineer, DevOps, Head of Data Science](https://www.tesorio.com/careers#job-openings)
 * [2023-05-08, 16:46:41](https://news.ycombinator.com/item?id=35863837) - [Ink: React for interactive command-line apps](https://github.com/vadimdemedes/ink)
 * [2023-05-08, 16:13:01](https://news.ycombinator.com/item?id=35863309) - [Reflected Diffusion Models](https://aaronlou.com/blog/2023/reflected-diffusion/)
+* [2023-05-08, 16:01:47](https://news.ycombinator.com/item?id=35863175) - [GitHub code search is generally available](https://github.blog/2023-05-08-github-code-search-is-generally-available/)
 * [2023-05-08, 15:40:33](https://news.ycombinator.com/item?id=35862837) - [OpenBSD cron(8) now supports random ranges with steps](http://undeadly.org/cgi?action=article;sid=20230507122935)
 * [2023-05-08, 15:37:43](https://news.ycombinator.com/item?id=35862799) - [A coax cable horror story](https://qrper.com/2023/04/coax-cables-i-used-for-sota-pota-a-horror-story/)
 * [2023-05-08, 14:50:47](https://news.ycombinator.com/item?id=35862142) - [A mutation turned ants into parasites in one generation](https://www.quantamagazine.org/a-mutation-turned-ants-into-parasites-in-one-generation-20230508/)
