@@ -2,7 +2,6 @@
 
 * [2023-05-09, 03:50:00](https://news.ycombinator.com/item?id=35869976) - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)
 * [2023-05-09, 03:11:29](https://news.ycombinator.com/item?id=35869778) - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
-* [2023-05-09, 02:15:49](https://news.ycombinator.com/item?id=35869474) - [Humans have known the earth is round for thousands of years (2018)](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
 * [2023-05-09, 00:15:35](https://news.ycombinator.com/item?id=35868685) - [“Tinder for Canceling Meetings”](https://meetcala.com/)
 * [2023-05-08, 23:45:50](https://news.ycombinator.com/item?id=35868447) - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
 * [2023-05-08, 23:43:14](https://news.ycombinator.com/item?id=35868421) - [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
@@ -29,6 +28,7 @@
 * [2023-05-08, 07:49:13](https://news.ycombinator.com/item?id=35859112) - [The Curse and Blessings of Dynamic SQL](https://www.sommarskog.se/dynamic_sql.html)
 * [2023-05-07, 23:40:47](https://news.ycombinator.com/item?id=35856654) - [LambdaMOO Takes a New Direction (1992)](https://www.cc.gatech.edu/classes/AY2001/cs6470_fall/LTAND.html)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
+* [2023-05-07, 16:43:29](https://news.ycombinator.com/item?id=35853217) - [Blood–brain barrier opening with ultrasound device in patients with glioblastoma](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00112-2/fulltext)
 * [2023-05-07, 15:52:43](https://news.ycombinator.com/item?id=35852710) - [Casio adds fitness features to original G-Shock digital watch](https://gizmodo.com/casio-g-shock-digital-watch-fitness-tracking-heart-rate-1850357822)
 
 ## [Archives](archives/index.md)
