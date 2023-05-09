@@ -36,6 +36,7 @@
 * [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
 * [2023-05-09, 16:11:11](https://news.ycombinator.com/item?id=35876511) - [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
 * [2023-05-09, 16:10:50](https://news.ycombinator.com/item?id=35876506) - [Study finds elevated levels of toxic metals in fruit juices and soft drinks](https://news.tulane.edu/pr/study-finds-elevated-levels-toxic-metals-some-mixed-fruit-juices-and-soft-drinks)
+* [2023-05-09, 16:01:49](https://news.ycombinator.com/item?id=35876406) - [This Exoplanet’s Weird Orbit Defies the Rules of Physics](https://www.inverse.com/science/bizarre-exoplanet-131b-orbit)
 * [2023-05-09, 15:56:28](https://news.ycombinator.com/item?id=35876329) - [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
 * [2023-05-09, 15:46:47](https://news.ycombinator.com/item?id=35876161) - [The Modern World Is Aging Your Brain](https://www.wired.com/story/aging-brain-volume/)
 * [2023-05-09, 15:45:46](https://news.ycombinator.com/item?id=35876150) - [Many people living in the &#x27;Diabetes Belt&#x27; are plagued with medical debt](https://text.npr.org/1173439205)
