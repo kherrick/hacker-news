@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 16:54:27](https://news.ycombinator.com/item?id=35877146) - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
 * [2023-05-09, 16:24:52](https://news.ycombinator.com/item?id=35876711) - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
 * [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
 * [2023-05-09, 16:11:11](https://news.ycombinator.com/item?id=35876511) - [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
@@ -26,6 +27,7 @@
 * [2023-05-09, 14:08:51](https://news.ycombinator.com/item?id=35874542) - [Ask HN: I won&#x27;t have Internet access for months, How could I use my time?](https://news.ycombinator.com/item?id=35874542)
 * [2023-05-09, 13:56:43](https://news.ycombinator.com/item?id=35874375) - [Scientists Use GPT AI to Passively Read People&#x27;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
 * [2023-05-09, 13:48:25](https://news.ycombinator.com/item?id=35874246) - [Students can’t get off their phones. Schools have had enough](https://www.washingtonpost.com/education/2023/05/09/school-cellphone-ban-yondr/)
+* [2023-05-09, 13:43:07](https://news.ycombinator.com/item?id=35874183) - [Good conversations have lots of doorknobs](https://www.experimental-history.com/p/good-conversations-have-lots-of-doorknobs)
 * [2023-05-09, 13:42:09](https://news.ycombinator.com/item?id=35874171) - [Total Crap, the First Magazine Written by AI](https://www.mcsweeneys.net/articles/introducing-total-crap-the-first-magazine-written-entirely-by-ai)
 * [2023-05-09, 13:40:22](https://news.ycombinator.com/item?id=35874149) - [TikTok kept list of users who watched LGBTQ+ content, former employees say](https://www.thepinknews.com/2023/05/08/tiktok-lgbtq/)
 * [2023-05-09, 13:32:00](https://news.ycombinator.com/item?id=35874053) - [Logic Pro for iPad](https://www.apple.com/logic-pro-for-ipad/)
