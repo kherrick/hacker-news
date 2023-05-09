@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 05:51:44](https://news.ycombinator.com/item?id=35870641) - [TSMC’s Europe Plan Gives It a New Global Dimension](https://www.bloomberg.com/opinion/articles/2023-05-09/chipmakers-tsmc-s-europe-plan-gives-it-a-new-global-dimension)
 * [2023-05-09, 05:10:08](https://news.ycombinator.com/item?id=35870393) - [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
 * [2023-05-09, 04:44:09](https://news.ycombinator.com/item?id=35870242) - [Sam Bankman-Fried, in First Detailed Defense, Seeks to Dismiss Charges](https://www.nytimes.com/2023/05/08/technology/sam-bankman-fried-defense.html)
 * [2023-05-09, 03:50:00](https://news.ycombinator.com/item?id=35869976) - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)

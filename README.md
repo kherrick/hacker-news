@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 05:51:44](https://news.ycombinator.com/item?id=35870641) - [TSMC’s Europe Plan Gives It a New Global Dimension](https://www.bloomberg.com/opinion/articles/2023-05-09/chipmakers-tsmc-s-europe-plan-gives-it-a-new-global-dimension)
 * [2023-05-09, 05:10:08](https://news.ycombinator.com/item?id=35870393) - [Google keeps failing its Nest customers](https://9to5google.com/2023/05/07/google-failing-nest/)
 * [2023-05-09, 03:50:00](https://news.ycombinator.com/item?id=35869976) - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)
 * [2023-05-09, 03:11:29](https://news.ycombinator.com/item?id=35869778) - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
@@ -28,7 +29,6 @@
 * [2023-05-08, 02:48:37](https://news.ycombinator.com/item?id=35857575) - [Unix: An Oral History](https://www.princeton.edu/~hos/frs122/unixhist/finalhis.htm#attic)
 * [2023-05-07, 23:40:47](https://news.ycombinator.com/item?id=35856654) - [LambdaMOO Takes a New Direction (1992)](https://www.cc.gatech.edu/classes/AY2001/cs6470_fall/LTAND.html)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
-* [2023-05-07, 16:43:29](https://news.ycombinator.com/item?id=35853217) - [Blood–brain barrier opening with ultrasound device in patients with glioblastoma](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(23)00112-2/fulltext)
 * [2023-05-05, 22:45:42](https://news.ycombinator.com/item?id=35836019) - [Favicon Dino Game](https://mashpoe.github.io/favicon-dino-game/)
 
 ## [Archives](archives/index.md)
