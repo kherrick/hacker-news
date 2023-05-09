@@ -2,6 +2,7 @@
 
 * [2023-05-09, 19:31:00](https://news.ycombinator.com/item?id=35879278) - [Show HN: Card game where players write their own cards that get parsed into code](https://app.wordbots.io/)
 * [2023-05-09, 19:12:00](https://news.ycombinator.com/item?id=35879039) - [Syncthing: A continuous file synchronization program](https://syncthing.net/)
+* [2023-05-09, 19:08:48](https://news.ycombinator.com/item?id=35878998) - [Chaos Communication Camp 2023 – Call for Participation](https://events.ccc.de/2023/05/09/camp23-call-for-participation/)
 * [2023-05-09, 19:05:48](https://news.ycombinator.com/item?id=35878961) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
 * [2023-05-09, 17:41:30](https://news.ycombinator.com/item?id=35877825) - [Defending against Bluetooth tracker abuse: it’s complicated](https://educatedguesswork.org/posts/unwanted-tracking/)
@@ -10,7 +11,6 @@
 * [2023-05-09, 17:07:06](https://news.ycombinator.com/item?id=35877291) - [Companies hide negative news through unrelated press releases with SEC filings](https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/)
 * [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 * [2023-05-09, 16:24:52](https://news.ycombinator.com/item?id=35876711) - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
-* [2023-05-09, 16:13:06](https://news.ycombinator.com/item?id=35876533) - [What happens when half of the IPFS network is down?](https://blog.ipfs.tech/2023-ipfs-unresponsive-nodes/)
 * [2023-05-09, 16:11:11](https://news.ycombinator.com/item?id=35876511) - [Dose-response relationships of LSD-induced subjective experiences in humans](https://www.nature.com/articles/s41386-023-01588-2)
 * [2023-05-09, 16:10:50](https://news.ycombinator.com/item?id=35876506) - [Study finds elevated levels of toxic metals in fruit juices and soft drinks](https://news.tulane.edu/pr/study-finds-elevated-levels-toxic-metals-some-mixed-fruit-juices-and-soft-drinks)
 * [2023-05-09, 15:56:28](https://news.ycombinator.com/item?id=35876329) - [Do the weirdest thing that feels right](https://charliebecker.substack.com/p/do-the-weirdest-thing-that-feels)
