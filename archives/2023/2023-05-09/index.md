@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 03:50:00](https://news.ycombinator.com/item?id=35869976) - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/abs/2304.14454)
 * [2023-05-09, 03:15:28](https://news.ycombinator.com/item?id=35869798) - [Downtown San Francisco Office Tower Likely to Sell at Discount: Sources](https://sfstandard.com/business/downtown-san-francisco-office-tower-to-sell-at-massive-discount-sources/)
 * [2023-05-09, 03:11:29](https://news.ycombinator.com/item?id=35869778) - [432-Core RISC-V European Processor Designed for Use in Space Taped Out](https://www.hpcwire.com/2023/05/08/european-processor-designed-for-use-in-space-taped-out/)
 * [2023-05-09, 02:15:49](https://news.ycombinator.com/item?id=35869474) - [Christopher Columbus Never Set Out to Prove the Earth Was Round](https://www.history.com/news/christopher-columbus-never-set-out-to-prove-the-earth-was-round)
