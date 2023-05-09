@@ -7,6 +7,7 @@
 * [2023-05-09, 17:24:26](https://news.ycombinator.com/item?id=35877545) - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 * [2023-05-09, 16:54:27](https://news.ycombinator.com/item?id=35877146) - [Downtown SF has 18.4M square feet of empty office space. We mapped every vacancy](https://www.sfchronicle.com/sf/article/downtown-empty-offices-business-tech-17911258.php)
+* [2023-05-09, 16:49:01](https://news.ycombinator.com/item?id=35877090) - [Instagram is gaslighting Pixelfed, the open source federated alternative](https://mastodon.social/@pixelfed/110338336836687527)
 * [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 * [2023-05-09, 16:24:52](https://news.ycombinator.com/item?id=35876711) - [Curious case of Martian traffic in Linux](https://pavel.network/curious-case-of-martian-traffic/)
 * [2023-05-09, 16:15:58](https://news.ycombinator.com/item?id=35876582) - [Web Scraping on Autopilot with GPT-4](https://www.kadoa.com/playground)
