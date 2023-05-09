@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 23:06:48](https://news.ycombinator.com/item?id=35881520) - [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
 * [2023-05-09, 22:45:52](https://news.ycombinator.com/item?id=35881326) - [Electrical Characteristics of Telephone Lines (2023)](https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html)
 * [2023-05-09, 22:08:13](https://news.ycombinator.com/item?id=35880997) - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
 * [2023-05-09, 21:36:37](https://news.ycombinator.com/item?id=35880700) - [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
@@ -17,7 +18,6 @@
 * [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 * [2023-05-09, 17:07:06](https://news.ycombinator.com/item?id=35877291) - [Companies hide negative news with unrelated press releases alongside SEC filings](https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/)
-* [2023-05-09, 16:01:49](https://news.ycombinator.com/item?id=35876406) - [This Exoplanet’s Weird Orbit Defies the Rules of Physics](https://www.inverse.com/science/bizarre-exoplanet-131b-orbit)
 * [2023-05-09, 15:02:58](https://news.ycombinator.com/item?id=35875393) - [T cells can activate themselves to fight tumors](https://today.ucsd.edu/story/t-cells-can-activate-themselves-to-fight-tumors)
 * [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope reveals Fomalhaut&#x27;s disk in detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 * [2023-05-09, 14:17:03](https://news.ycombinator.com/item?id=35874670) - [Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)

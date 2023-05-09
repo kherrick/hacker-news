@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 23:06:48](https://news.ycombinator.com/item?id=35881520) - [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
 * [2023-05-09, 22:45:52](https://news.ycombinator.com/item?id=35881326) - [Electrical Characteristics of Telephone Lines (2023)](https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html)
 * [2023-05-09, 22:28:44](https://news.ycombinator.com/item?id=35881170) - [The AT protocol is the most obtuse crock of s*](https://urbanists.social/@sam/110339902538138997)
 * [2023-05-09, 22:08:13](https://news.ycombinator.com/item?id=35880997) - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
