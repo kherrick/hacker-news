@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 07:26:02](https://news.ycombinator.com/item?id=35871186) - [Marginalia.nu API](https://www.marginalia.nu/marginalia-search/api/)
+* [2023-05-09, 07:12:16](https://news.ycombinator.com/item?id=35871108) - [‘Mind-boggling’ methane emissions from Turkmenistan revealed](https://www.theguardian.com/world/2023/may/09/mind-boggling-methane-emissions-from-turkmenistan-revealed)
 * [2023-05-09, 06:27:23](https://news.ycombinator.com/item?id=35870824) - [Fired for Using Firefox](https://news.ycombinator.com/item?id=35870824)
 * [2023-05-09, 06:01:39](https://news.ycombinator.com/item?id=35870692) - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
 * [2023-05-09, 05:57:23](https://news.ycombinator.com/item?id=35870669) - [Constitutional AI: RLHF on Steroids](https://astralcodexten.substack.com/p/constitutional-ai-rlhf-on-steroids)
