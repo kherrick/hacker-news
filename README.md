@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-09, 08:16:32](https://news.ycombinator.com/item?id=35871520) - [The Neon God](https://paulkingsnorth.substack.com/p/the-neon-god)
+* [2023-05-09, 07:57:08](https://news.ycombinator.com/item?id=35871394) - [UN Human Rights Chief Urges UK to Reverse ‘Deeply Troubling’ Public Order Bill](https://www.ohchr.org/en/press-releases/2023/04/un-human-rights-chief-urges-uk-reverse-deeply-troubling-public-order-bill)
 * [2023-05-09, 07:26:02](https://news.ycombinator.com/item?id=35871186) - [Marginalia.nu API](https://www.marginalia.nu/marginalia-search/api/)
 * [2023-05-09, 07:12:16](https://news.ycombinator.com/item?id=35871108) - [‘Mind-boggling’ methane emissions from Turkmenistan revealed](https://www.theguardian.com/world/2023/may/09/mind-boggling-methane-emissions-from-turkmenistan-revealed)
 * [2023-05-09, 06:01:39](https://news.ycombinator.com/item?id=35870692) - [Kchat: Persistent group chat in &lt;50 lines using kdb+&#x2F;k&#x2F;q web sockets, JavaScript](https://github.com/srpeck/kchat)
@@ -16,7 +17,6 @@
 * [2023-05-08, 22:44:26](https://news.ycombinator.com/item?id=35867928) - [The man who invented the modern cop novel](https://quillette.com/2023/04/23/the-man-who-invented-the-cop-novel/)
 * [2023-05-08, 21:28:28](https://news.ycombinator.com/item?id=35867275) - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
 * [2023-05-08, 20:59:04](https://news.ycombinator.com/item?id=35866988) - [Codon: Python Compiler](https://www.usenix.org/publications/loginonline/codon-python-compiler#Rik%20Farrow)
-* [2023-05-08, 20:47:25](https://news.ycombinator.com/item?id=35866856) - [Texas moves to create gold-backed digital currency](https://www.kitco.com/news/2023-04-06/Texas-moves-to-create-gold-backed-digital-currency.html)
 * [2023-05-08, 19:56:50](https://news.ycombinator.com/item?id=35866283) - [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 * [2023-05-08, 19:18:20](https://news.ycombinator.com/item?id=35865855) - [Dutch town installs bat-friendly red LED street lights (2018)](https://electronics360.globalspec.com/article/11940/dutch-town-becomes-first-to-install-bat-friendly-red-led-street-lights)
 * [2023-05-08, 19:00:32](https://news.ycombinator.com/item?id=35865678) - [Last Call to Migrate Mojang Accounts](https://www.minecraft.net/en-us/article/account-migration-last-call)
