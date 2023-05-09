@@ -12,7 +12,6 @@
 * [2023-05-09, 00:15:35](https://news.ycombinator.com/item?id=35868685) - [“Tinder for Canceling Meetings”](https://meetcala.com/)
 * [2023-05-08, 23:45:50](https://news.ycombinator.com/item?id=35868447) - [Unlighthouse: Like Lighthouse, but it scans every single page](https://unlighthouse.dev)
 * [2023-05-08, 23:43:14](https://news.ycombinator.com/item?id=35868421) - [Ed Sheeran demonstrates how copyright is destroying musicians](https://www.techdirt.com/2023/05/08/ed-sheeran-once-again-demonstrates-how-modern-copyright-is-destroying-rather-than-helping-musicians/)
-* [2023-05-08, 23:04:39](https://news.ycombinator.com/item?id=35868065) - [LLMs are not greater than the sum of their parts: researchers](https://hai.stanford.edu/news/ais-ostensible-emergent-abilities-are-mirage)
 * [2023-05-08, 22:45:13](https://news.ycombinator.com/item?id=35867935) - [Ancient Greek terms worth reviving](https://classicalwisdom.substack.com/p/12-ancient-greek-terms-that-should)
 * [2023-05-08, 22:44:26](https://news.ycombinator.com/item?id=35867928) - [The man who invented the modern cop novel](https://quillette.com/2023/04/23/the-man-who-invented-the-cop-novel/)
 * [2023-05-08, 21:28:28](https://news.ycombinator.com/item?id=35867275) - [Cantonese Font with Pronunciation](https://visual-fonts.com/)
@@ -29,6 +28,7 @@
 * [2023-05-08, 07:49:13](https://news.ycombinator.com/item?id=35859112) - [The curse and blessings of dynamic SQL (2004-2022)](https://www.sommarskog.se/dynamic_sql.html)
 * [2023-05-08, 05:16:26](https://news.ycombinator.com/item?id=35858375) - [Hest, Time Travel (2019)](https://ivanish.ca/hest-time-travel/)
 * [2023-05-08, 02:48:37](https://news.ycombinator.com/item?id=35857575) - [Unix: An Oral History](https://www.princeton.edu/~hos/frs122/unixhist/finalhis.htm#attic)
+* [2023-05-08, 02:02:23](https://news.ycombinator.com/item?id=35857317) - [The Ether Dreams of Fin-de-Siècle Paris](https://publicdomainreview.org/essay/ether-dreams)
 * [2023-05-07, 22:36:26](https://news.ycombinator.com/item?id=35856276) - [Are sockets the wave of the future? (1990)](https://groups.google.com/g/comp.protocols.tcp-ip/c/mVnR2OSXHBY/m/tjdkK1OBtCEJ)
 
 ## [Archives](archives/index.md)
