@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 15:40:41](https://news.ycombinator.com/item?id=35876062) - [Reduced cancer mortality with daily Vitamin D intake](https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php)
 * [2023-05-09, 15:08:33](https://news.ycombinator.com/item?id=35875477) - [Ex-Apple VP Mike Abbott Joins General Motors as Exec Vice President, Software](https://investor.gm.com/news-releases/news-release-details/tech-industry-innovator-mike-abbott-joins-general-motors/)
 * [2023-05-09, 15:05:38](https://news.ycombinator.com/item?id=35875434) - [US on track to set record in 2023 for mass killings after series of shootings](https://www.theguardian.com/us-news/2023/may/09/us-on-track-set-record-mass-killings-2023)
 * [2023-05-09, 14:27:31](https://news.ycombinator.com/item?id=35874825) - [Bluesky Frustrations](https://anderegg.ca/2023/05/09/bluesky-frustrations)

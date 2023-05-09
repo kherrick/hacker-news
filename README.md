@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-09, 15:40:41](https://news.ycombinator.com/item?id=35876062) - [Reduced cancer mortality with daily Vitamin D intake](https://www.dkfz.de/en/presse/pressemitteilungen/2023/dkfz-pm-23-27-Reduced-cancer-mortality-with-daily-vitamin-D-intake.php)
 * [2023-05-09, 15:08:33](https://news.ycombinator.com/item?id=35875477) - [Ex-Apple VP Mike Abbott Joins General Motors as Exec Vice President, Software](https://investor.gm.com/news-releases/news-release-details/tech-industry-innovator-mike-abbott-joins-general-motors/)
 * [2023-05-09, 14:27:31](https://news.ycombinator.com/item?id=35874825) - [Bluesky Frustrations](https://anderegg.ca/2023/05/09/bluesky-frustrations)
 * [2023-05-09, 14:22:38](https://news.ycombinator.com/item?id=35874755) - [Second massive “blue hole” found, 270 metres deep](https://www.popularmechanics.com/science/environment/a43699012/massive-blue-hole-mexico-new-lifeforms/)
 * [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope Reveals Fomalhaut&#x27;s Disk in Unprecedented Detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 * [2023-05-09, 14:17:03](https://news.ycombinator.com/item?id=35874670) - [APA – Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)
 * [2023-05-09, 14:11:11](https://news.ycombinator.com/item?id=35874575) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
-* [2023-05-09, 14:08:51](https://news.ycombinator.com/item?id=35874542) - [Ask HN: I won&#x27;t have Internet access for months, How could I use my time?](https://news.ycombinator.com/item?id=35874542)
 * [2023-05-09, 13:56:43](https://news.ycombinator.com/item?id=35874375) - [Scientists Use GPT AI to Passively Read People&#x27;s Thoughts in Breakthrough](https://www.vice.com/en/article/4a3w3g/scientists-use-gpt-ai-to-passively-read-peoples-thoughts-in-breakthrough)
 * [2023-05-09, 13:42:09](https://news.ycombinator.com/item?id=35874171) - [Total Crap, the First Magazine Written by AI](https://www.mcsweeneys.net/articles/introducing-total-crap-the-first-magazine-written-entirely-by-ai)
 * [2023-05-09, 13:32:00](https://news.ycombinator.com/item?id=35874053) - [Logic Pro for iPad](https://www.apple.com/logic-pro-for-ipad/)
