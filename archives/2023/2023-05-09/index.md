@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 19:12:00](https://news.ycombinator.com/item?id=35879039) - [Syncthing: A continuous file synchronization program](https://syncthing.net/)
 * [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
 * [2023-05-09, 17:41:30](https://news.ycombinator.com/item?id=35877825) - [Defending against Bluetooth tracker abuse: it’s complicated](https://educatedguesswork.org/posts/unwanted-tracking/)
 * [2023-05-09, 17:24:26](https://news.ycombinator.com/item?id=35877545) - [Google receives patent for attention-based sequence transduction neural networks](https://patents.google.com/patent/US10452978B2/en)
