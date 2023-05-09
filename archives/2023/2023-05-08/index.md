@@ -23,6 +23,7 @@
 * [2023-05-08, 21:03:57](https://news.ycombinator.com/item?id=35867043) - [Free speech under attack across Ireland, UK, Europe and globally](https://twitter.com/threadsirish/status/1655512886226354176)
 * [2023-05-08, 20:59:04](https://news.ycombinator.com/item?id=35866988) - [Codon: Python Compiler](https://www.usenix.org/publications/loginonline/codon-python-compiler#Rik%20Farrow)
 * [2023-05-08, 20:47:25](https://news.ycombinator.com/item?id=35866856) - [Texas moves to create gold-backed digital currency](https://www.kitco.com/news/2023-04-06/Texas-moves-to-create-gold-backed-digital-currency.html)
+* [2023-05-08, 20:22:28](https://news.ycombinator.com/item?id=35866570) - [The Strange Devirtualization of Techno](https://haywirez.com/strange-devirtualization-of-techno/)
 * [2023-05-08, 20:16:51](https://news.ycombinator.com/item?id=35866499) - [Three Governance Case Studies](https://buttondown.email/HelloGovernor/archive/three-governance-case-studies/)
 * [2023-05-08, 20:10:58](https://news.ycombinator.com/item?id=35866431) - [Apple loses copyright battle against security startup Corellium](https://www.washingtonpost.com/technology/2020/12/29/apple-corellium-lawsuit/)
 * [2023-05-08, 19:56:50](https://news.ycombinator.com/item?id=35866283) - [1-Bit Hokusai’s ”The Great Wave”](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)

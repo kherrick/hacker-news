@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-09](index.md)
 
+* [2023-05-09, 22:08:13](https://news.ycombinator.com/item?id=35880997) - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
+* [2023-05-09, 21:36:37](https://news.ycombinator.com/item?id=35880700) - [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
 * [2023-05-09, 21:17:48](https://news.ycombinator.com/item?id=35880504) - [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
 * [2023-05-09, 21:14:13](https://news.ycombinator.com/item?id=35880466) - [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
+* [2023-05-09, 21:04:44](https://news.ycombinator.com/item?id=35880376) - [Spotify-Qt](https://github.com/kraxarn/spotify-qt)
 * [2023-05-09, 21:02:06](https://news.ycombinator.com/item?id=35880345) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=35880345)
 * [2023-05-09, 20:32:23](https://news.ycombinator.com/item?id=35880011) - [The World’s Oldest Ultramarathon Runner Is Racing Against Death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
 * [2023-05-09, 20:13:01](https://news.ycombinator.com/item?id=35879772) - [Seeing racial avoidance on New York City streets](https://www.nature.com/articles/s41562-023-01589-7)
@@ -57,6 +60,7 @@
 * [2023-05-09, 13:15:12](https://news.ycombinator.com/item?id=35873845) - [GitHub switches to Rust based Blackbird code search](https://www.theregister.com/2023/05/09/blackbird_github_search/)
 * [2023-05-09, 13:14:33](https://news.ycombinator.com/item?id=35873836) - [Google promised to delete sensitive data. It logged my abortion clinic visit](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
 * [2023-05-09, 13:04:06](https://news.ycombinator.com/item?id=35873732) - [Apple Brings Final Cut Pro and Logic Pro to iPad](https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/)
+* [2023-05-09, 13:02:49](https://news.ycombinator.com/item?id=35873714) - [Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform](https://arxiv.org/abs/2305.04760)
 * [2023-05-09, 12:49:42](https://news.ycombinator.com/item?id=35873575) - [Google Translate “Get well [Swedish firstname]” translates to “fuck you”](https://translate.google.se/?sl=auto&tl=en&text=krya%20p%C3%A5%20dig%20Bj%C3%B6rn%0A&op=translate)
 * [2023-05-09, 12:48:13](https://news.ycombinator.com/item?id=35873552) - [CheerpJ 3.0: a JVM replacement in HTML5 and WASM to run Java on modern browsers](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
 * [2023-05-09, 12:41:30](https://news.ycombinator.com/item?id=35873482) - [Tony Hsieh and the Emptiness of the Tech-Mogul Myth](https://www.newyorker.com/news/our-columnists/tony-hsieh-and-the-emptiness-of-the-tech-mogul-myth)
