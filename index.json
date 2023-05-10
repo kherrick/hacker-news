@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-05-10, 21:51:21",
+      "https://news.ycombinator.com/item?id=35894004"
+    ],
+    [
+      "Heather Armstrong has died",
+      "https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 21:44:03",
       "https://news.ycombinator.com/item?id=35893939"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2023-05-10, 20:02:22",
-      "https://news.ycombinator.com/item?id=35892701"
-    ],
-    [
-      "Librem 5 USA Smartphone Provides Many Exclusive Security Features",
-      "https://puri.sm/posts/librem-5-usa-smart-phone-provides-many-exclusive-security-features/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 19:25:52",
       "https://news.ycombinator.com/item?id=35892246"
     ],
@@ -77,16 +77,6 @@
     [
       "PaLM 2 Technical Report [pdf]",
       "https://ai.google/static/documents/palm2techreport.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 18:02:14",
-      "https://news.ycombinator.com/item?id=35890989"
-    ],
-    [
-      "Google&#x27;s Latest Experiments in Labs",
-      "https://labs.withgoogle.com/"
     ]
   ],
   [
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35886288"
     ],
     [
-      "We should start to add “ai.txt” as we do for “robots.txt”",
+      "Tell HN: We should start to add “ai.txt” as we do for “robots.txt”",
       "https://news.ycombinator.com/item?id=35886288"
     ]
   ],
@@ -211,11 +201,21 @@
   ],
   [
     [
+      "2023-05-10, 11:01:25",
+      "https://news.ycombinator.com/item?id=35885797"
+    ],
+    [
+      "The Leverage of LLMs for Individuals",
+      "https://mazzzystar.github.io/2023/05/10/LLM-for-individual/"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 10:46:05",
       "https://news.ycombinator.com/item?id=35885717"
     ],
     [
-      "How I developed a faster Ruby interpreter",
+      "How I developed a faster Ruby interpreter (2022)",
       "https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter"
     ]
   ],
