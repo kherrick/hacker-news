@@ -181,26 +181,6 @@
   ],
   [
     [
-      "2023-05-10, 12:17:33",
-      "https://news.ycombinator.com/item?id=35886255"
-    ],
-    [
-      "Redis and its creator antirez",
-      "https://blog.brachiosoft.com/redis-en"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 12:15:29",
-      "https://news.ycombinator.com/item?id=35886243"
-    ],
-    [
-      "Why does no one have a favorite instrumentalist anymore?",
-      "https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 11:56:14",
       "https://news.ycombinator.com/item?id=35886103"
     ],
@@ -227,6 +207,16 @@
     [
       "The Leverage of LLMs for Individuals",
       "https://mazzzystar.github.io/2023/05/10/LLM-for-individual/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 10:46:05",
+      "https://news.ycombinator.com/item?id=35885717"
+    ],
+    [
+      "How I developed a faster Ruby interpreter",
+      "https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Mineo.app – Better Python Notebooks",
       "https://www.mineo.app/"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 08:07:06",
+      "https://news.ycombinator.com/item?id=35871462"
+    ],
+    [
+      "Story: Redis and its creator antirez",
+      "https://blog.brachiosoft.com/redis-en"
     ]
   ]
 ]
