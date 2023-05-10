@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 05:18:22](https://news.ycombinator.com/item?id=35883910) - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
 * [2023-05-10, 02:34:52](https://news.ycombinator.com/item?id=35882985) - [A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
 * [2023-05-10, 02:31:59](https://news.ycombinator.com/item?id=35882967) - [Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
 * [2023-05-10, 02:00:06](https://news.ycombinator.com/item?id=35882735) - [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
@@ -19,17 +20,16 @@
 * [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
 * [2023-05-09, 17:07:06](https://news.ycombinator.com/item?id=35877291) - [Companies hide negative news with unrelated press releases alongside SEC filings](https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/)
+* [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 * [2023-05-09, 16:18:56](https://news.ycombinator.com/item?id=35876635) - [Polya Urn Simulation](https://observablehq.com/@cmoog/polya-urn-simulation)
 * [2023-05-09, 15:22:24](https://news.ycombinator.com/item?id=35875736) - [Mechanical backpack boosts the sensation of jumping in virtual reality](https://www.newscientist.com/article/2371594-mechanical-backpack-boosts-the-sensation-of-jumping-in-virtual-reality/)
 * [2023-05-09, 15:02:58](https://news.ycombinator.com/item?id=35875393) - [T cells can activate themselves to fight tumors](https://today.ucsd.edu/story/t-cells-can-activate-themselves-to-fight-tumors)
-* [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope reveals Fomalhaut&#x27;s disk in detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
-* [2023-05-09, 14:17:03](https://news.ycombinator.com/item?id=35874670) - [Health advisory on social media use in adolescence](https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use)
-* [2023-05-09, 14:11:11](https://news.ycombinator.com/item?id=35874575) - [The seven specification ur-languages](https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/)
 * [2023-05-09, 13:14:02](https://news.ycombinator.com/item?id=35873829) - [A Business Card Universal Turing Machine (2019) [pdf]](http://alvyray.com/CreativeCommons/BizCardUniversalTuringMachine_v1.7.pdf)
 * [2023-05-09, 13:02:49](https://news.ycombinator.com/item?id=35873714) - [Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform](https://arxiv.org/abs/2305.04760)
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
 * [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What is permaculture? (2015)](https://www.permaculturedesignmagazine.com/what-is-permaculture)
 * [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
+* [2023-05-08, 12:39:38](https://news.ycombinator.com/item?id=35860892) - [The Inventor of Magical Realism](https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/)
 
 ## [Archives](archives/index.md)
 
