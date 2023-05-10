@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-05-10, 14:20:27",
+      "https://news.ycombinator.com/item?id=35887766"
+    ],
+    [
+      "A Codebase That Makes Codebases",
+      "https://www.saaspegasus.com/about/how-pegasus-works/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 14:18:31",
+      "https://news.ycombinator.com/item?id=35887734"
+    ],
+    [
+      "Helion’s fusion power purchase agreement with Microsoft",
+      "https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 14:04:22",
+      "https://news.ycombinator.com/item?id=35887537"
+    ],
+    [
+      "Microsoft Bets That Fusion Power Is Closer Than Many Think",
+      "https://www.wsj.com/articles/microsoft-bets-that-fusion-power-is-closer-than-many-think-cb1b09dc"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 13:16:21",
       "https://news.ycombinator.com/item?id=35886900"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35886815"
     ],
     [
-      "GitHub is going down almost every day around the same time",
+      "Incident with Actions, API Requests, Codespaces and Pages",
       "https://www.githubstatus.com/incidents/pr3498h3qkfy"
     ]
   ],
@@ -151,26 +181,6 @@
   ],
   [
     [
-      "2023-05-10, 06:22:49",
-      "https://news.ycombinator.com/item?id=35884272"
-    ],
-    [
-      "Punctuation Personified (1824)",
-      "https://publicdomainreview.org/collection/punctuation-personified"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 06:05:44",
-      "https://news.ycombinator.com/item?id=35884176"
-    ],
-    [
-      "Julia 1.9",
-      "https://julialang.org/blog/2023/04/julia-1.9-highlights/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 05:18:22",
       "https://news.ycombinator.com/item?id=35883910"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js",
       "https://livefir.fly.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 23:06:48",
-      "https://news.ycombinator.com/item?id=35881520"
-    ],
-    [
-      "File Locks on Linux",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS"
     ]
   ],
   [
