@@ -25,11 +25,11 @@
 * [2023-05-09, 13:02:49](https://news.ycombinator.com/item?id=35873714) - [Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform](https://arxiv.org/abs/2305.04760)
 * [2023-05-09, 12:48:13](https://news.ycombinator.com/item?id=35873552) - [CheerpJ 3.0: a JVM replacement in HTML5 and WASM to run Java on modern browsers](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
-* [2023-05-09, 06:43:13](https://news.ycombinator.com/item?id=35870911) - [Codes of Entry: Burglary, Architecture, and the Protocols of “Nakatomi Space”](https://www.youtube.com/watch?v=pK7U2IrPETQ)
 * [2023-05-09, 03:10:20](https://news.ycombinator.com/item?id=35869773) - [Webb Telescope Finds a Star Cloaked in 3 Rings of Ruined Worlds](https://www.nytimes.com/2023/05/08/science/fomalhaut-star-webb-telescope.html)
 * [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
 * [2023-05-08, 20:22:28](https://news.ycombinator.com/item?id=35866570) - [The Strange Devirtualization of Techno](https://haywirez.com/strange-devirtualization-of-techno/)
 * [2023-05-08, 12:39:38](https://news.ycombinator.com/item?id=35860892) - [The Inventor of Magical Realism](https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/)
+* [2023-05-08, 08:02:53](https://news.ycombinator.com/item?id=35859169) - [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
 
 ## [Archives](archives/index.md)
 
