@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-10, 08:20:46",
+      "https://news.ycombinator.com/item?id=35885004"
+    ],
+    [
+      "Dynamic Branch Prediction with Perceptrons [pdf]",
+      "https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 07:23:23",
       "https://news.ycombinator.com/item?id=35884668"
     ],
@@ -47,16 +57,6 @@
     [
       "Julia 1.9",
       "https://julialang.org/blog/2023/04/julia-1.9-highlights/"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 05:18:22",
-      "https://news.ycombinator.com/item?id=35883910"
-    ],
-    [
-      "Random bit-flip invalidates certificate transparency log – again?",
-      "https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI"
     ]
   ],
   [
