@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-10, 06:51:33",
+      "https://news.ycombinator.com/item?id=35884437"
+    ],
+    [
+      "See this page fetch itself, byte by byte, over TLS",
+      "https://subtls.pages.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 06:22:49",
+      "https://news.ycombinator.com/item?id=35884272"
+    ],
+    [
+      "Punctuation Personified (1824)",
+      "https://publicdomainreview.org/collection/punctuation-personified"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 06:05:44",
       "https://news.ycombinator.com/item?id=35884176"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-05-09, 21:17:48",
-      "https://news.ycombinator.com/item?id=35880504"
-    ],
-    [
-      "Thunderbird Is Thriving: Our 2022 Financial Report",
-      "https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 21:14:13",
       "https://news.ycombinator.com/item?id=35880466"
     ],
@@ -177,16 +187,6 @@
     [
       "Linux kernel use-after-free in Netfilter, local privilege escalation",
       "https://seclists.org/oss-sec/2023/q2/133"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 19:58:51",
-      "https://news.ycombinator.com/item?id=35879628"
-    ],
-    [
-      "In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0",
-      "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-05-09, 13:14:02",
+      "https://news.ycombinator.com/item?id=35873829"
+    ],
+    [
+      "A Business Card Universal Turing Machine (2019) [pdf]",
+      "http://alvyray.com/CreativeCommons/BizCardUniversalTuringMachine_v1.7.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 12:59:39",
       "https://news.ycombinator.com/item?id=35873686"
     ],
@@ -287,16 +297,6 @@
     [
       "What is permaculture? (2015)",
       "https://www.permaculturedesignmagazine.com/what-is-permaculture"
-    ]
-  ],
-  [
-    [
-      "2023-05-08, 22:45:32",
-      "https://news.ycombinator.com/item?id=35867939"
-    ],
-    [
-      "The Bronze Age has never looked stronger",
-      "https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has"
     ]
   ]
 ]
