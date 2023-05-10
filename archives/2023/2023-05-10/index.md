@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
 * [2023-05-10, 20:02:22](https://news.ycombinator.com/item?id=35892701) - [Librem 5 USA Smartphone Provides Many Exclusive Security Features](https://puri.sm/posts/librem-5-usa-smart-phone-provides-many-exclusive-security-features/)
+* [2023-05-10, 19:45:03](https://news.ycombinator.com/item?id=35892512) - [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
 * [2023-05-10, 19:29:04](https://news.ycombinator.com/item?id=35892286) - [Google Pixel Fold](https://store.google.com/product/pixel_fold?hl=en-US)
 * [2023-05-10, 19:25:52](https://news.ycombinator.com/item?id=35892246) - [Why I&#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
 * [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
