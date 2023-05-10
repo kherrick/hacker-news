@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 14:37:48](https://news.ycombinator.com/item?id=35888024) - [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
 * [2023-05-10, 14:20:27](https://news.ycombinator.com/item?id=35887766) - [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
 * [2023-05-10, 14:18:31](https://news.ycombinator.com/item?id=35887734) - [Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
 * [2023-05-10, 14:13:42](https://news.ycombinator.com/item?id=35887680) - [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
 * [2023-05-10, 14:04:22](https://news.ycombinator.com/item?id=35887537) - [Microsoft Bets That Fusion Power Is Closer Than Many Think](https://www.wsj.com/articles/microsoft-bets-that-fusion-power-is-closer-than-many-think-cb1b09dc)
+* [2023-05-10, 13:45:59](https://news.ycombinator.com/item?id=35887281) - [Health Insurance Claim Denied? See What Insurers Said Behind the Scenes](https://www.propublica.org/article/find-out-why-health-insurance-claim-denied)
 * [2023-05-10, 13:33:23](https://news.ycombinator.com/item?id=35887117) - [DEI Brings Kafka to My Law School](https://www.wsj.com/articles/dei-brings-kafka-to-my-law-school-ohio-tenure-collegiality-viewpoint-discipline-102d62b8)
 * [2023-05-10, 13:16:21](https://news.ycombinator.com/item?id=35886900) - [Ask HN: What is new in Algorithms &#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
 * [2023-05-10, 13:09:53](https://news.ycombinator.com/item?id=35886815) - [GitHub is going down almost every day around the same time](https://www.githubstatus.com/incidents/pr3498h3qkfy)
@@ -15,6 +17,7 @@
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
 * [2023-05-10, 12:31:43](https://news.ycombinator.com/item?id=35886409) - [Departing Cook County Prosecutor&#x27;s Searing Exit Letter](https://www.chicagocontrarian.com/blog/departing-cook-county-prosecutor-upbraids-kim-foxx-in-searing-exit-letter)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
+* [2023-05-10, 12:14:42](https://news.ycombinator.com/item?id=35886235) - [“GDPR compliant” analytics is probably violating GDPR](https://pilcrow.vercel.app/blog/gdpr-analytics)
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
 * [2023-05-10, 11:37:04](https://news.ycombinator.com/item?id=35885999) - [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
