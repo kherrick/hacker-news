@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 02:00:06](https://news.ycombinator.com/item?id=35882735) - [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
 * [2023-05-10, 00:03:52](https://news.ycombinator.com/item?id=35881963) - [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
 * [2023-05-09, 23:38:51](https://news.ycombinator.com/item?id=35881768) - [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
 * [2023-05-09, 23:06:48](https://news.ycombinator.com/item?id=35881520) - [File Locks on Linux](https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS)
 * [2023-05-09, 22:45:52](https://news.ycombinator.com/item?id=35881326) - [Electrical Characteristics of Telephone Lines (2023)](https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html)
 * [2023-05-09, 22:08:13](https://news.ycombinator.com/item?id=35880997) - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
-* [2023-05-09, 21:36:37](https://news.ycombinator.com/item?id=35880700) - [Segment anything and Stable Diffusion showcase app](https://www.editanything.ai)
 * [2023-05-09, 21:18:51](https://news.ycombinator.com/item?id=35880517) - [Twenty Years of Blogging](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)
 * [2023-05-09, 21:17:48](https://news.ycombinator.com/item?id=35880504) - [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
 * [2023-05-09, 21:14:13](https://news.ycombinator.com/item?id=35880466) - [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
@@ -25,9 +25,9 @@
 * [2023-05-09, 13:02:49](https://news.ycombinator.com/item?id=35873714) - [Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform](https://arxiv.org/abs/2305.04760)
 * [2023-05-09, 12:48:13](https://news.ycombinator.com/item?id=35873552) - [CheerpJ 3.0: a JVM replacement in HTML5 and WASM to run Java on modern browsers](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
+* [2023-05-09, 06:43:13](https://news.ycombinator.com/item?id=35870911) - [Codes of Entry: Burglary, Architecture, and the Protocols of “Nakatomi Space”](https://www.youtube.com/watch?v=pK7U2IrPETQ)
 * [2023-05-09, 03:10:20](https://news.ycombinator.com/item?id=35869773) - [Webb Telescope Finds a Star Cloaked in 3 Rings of Ruined Worlds](https://www.nytimes.com/2023/05/08/science/fomalhaut-star-webb-telescope.html)
 * [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
-* [2023-05-08, 20:22:28](https://news.ycombinator.com/item?id=35866570) - [The Strange Devirtualization of Techno](https://haywirez.com/strange-devirtualization-of-techno/)
 * [2023-05-08, 12:39:38](https://news.ycombinator.com/item?id=35860892) - [The Inventor of Magical Realism](https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/)
 * [2023-05-08, 08:02:53](https://news.ycombinator.com/item?id=35859169) - [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
 
