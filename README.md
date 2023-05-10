@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 18:20:50](https://news.ycombinator.com/item?id=35891259) - [Svelte is migrating from TypeScript to JSDoc](https://github.com/sveltejs/svelte/pull/8569)
+* [2023-05-10, 18:12:37](https://news.ycombinator.com/item?id=35891154) - [Google Bard now open to use](https://bard.google.com/?hl=en)
 * [2023-05-10, 17:47:48](https://news.ycombinator.com/item?id=35890784) - [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
 * [2023-05-10, 17:29:28](https://news.ycombinator.com/item?id=35890554) - [Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
 * [2023-05-10, 17:22:08](https://news.ycombinator.com/item?id=35890440) - [Google launches PaLM 2, its next-gen large language model](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/)
@@ -11,11 +13,9 @@
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 * [2023-05-10, 15:10:19](https://news.ycombinator.com/item?id=35888509) - [Infosec company owned completely by 4chan user](https://maia.crimew.gay/posts/optimeyes-leak/)
 * [2023-05-10, 14:37:48](https://news.ycombinator.com/item?id=35888024) - [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
-* [2023-05-10, 14:34:27](https://news.ycombinator.com/item?id=35887983) - [Abusing Vector Search for Texts, Maps, and Chess](https://ashvardanian.com/posts/abusing-vector-search/)
+* [2023-05-10, 14:34:27](https://news.ycombinator.com/item?id=35887983) - [Abusing vector search for texts, maps, and chess](https://ashvardanian.com/posts/abusing-vector-search/)
 * [2023-05-10, 14:20:27](https://news.ycombinator.com/item?id=35887766) - [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
-* [2023-05-10, 14:18:31](https://news.ycombinator.com/item?id=35887734) - [Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
 * [2023-05-10, 14:13:42](https://news.ycombinator.com/item?id=35887680) - [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
-* [2023-05-10, 13:51:12](https://news.ycombinator.com/item?id=35887349) - [Shining the Light on Baby Crabs](https://hakaimagazine.com/features/shining-the-light-on-baby-crabs/)
 * [2023-05-10, 13:16:21](https://news.ycombinator.com/item?id=35886900) - [Ask HN: What is new in Algorithms &#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
@@ -28,8 +28,8 @@
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 05:50:14](https://news.ycombinator.com/item?id=35884083) - [TwinBASIC is a modern BASIC compiler](https://twinbasic.com/preview.html)
-* [2023-05-10, 05:15:50](https://news.ycombinator.com/item?id=35883891) - [An experimental editor for WebGPU compute shaders](https://compute.toys/)
 * [2023-05-10, 04:55:31](https://news.ycombinator.com/item?id=35883777) - [Large Photonic Processor Solves Graph Problems](https://physics.aps.org/articles/v16/s64)
+* [2023-05-09, 13:19:04](https://news.ycombinator.com/item?id=35873887) - [Show HN: Mineo.app – Better Python Notebooks](https://www.mineo.app/)
 
 ## [Archives](archives/index.md)
 

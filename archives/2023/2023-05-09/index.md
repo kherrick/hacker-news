@@ -66,6 +66,7 @@
 * [2023-05-09, 13:42:09](https://news.ycombinator.com/item?id=35874171) - [Total Crap, the First Magazine Written by AI](https://www.mcsweeneys.net/articles/introducing-total-crap-the-first-magazine-written-entirely-by-ai)
 * [2023-05-09, 13:40:22](https://news.ycombinator.com/item?id=35874149) - [TikTok kept list of users who watched LGBTQ+ content, former employees say](https://www.thepinknews.com/2023/05/08/tiktok-lgbtq/)
 * [2023-05-09, 13:32:00](https://news.ycombinator.com/item?id=35874053) - [Logic Pro for iPad](https://www.apple.com/logic-pro-for-ipad/)
+* [2023-05-09, 13:19:04](https://news.ycombinator.com/item?id=35873887) - [Show HN: Mineo.app – Better Python Notebooks](https://www.mineo.app/)
 * [2023-05-09, 13:15:12](https://news.ycombinator.com/item?id=35873845) - [GitHub switches to Rust based Blackbird code search](https://www.theregister.com/2023/05/09/blackbird_github_search/)
 * [2023-05-09, 13:14:33](https://news.ycombinator.com/item?id=35873836) - [Google promised to delete sensitive data. It logged my abortion clinic visit](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
 * [2023-05-09, 13:14:02](https://news.ycombinator.com/item?id=35873829) - [A Business Card Universal Turing Machine (2019) [pdf]](http://alvyray.com/CreativeCommons/BizCardUniversalTuringMachine_v1.7.pdf)
