@@ -6,6 +6,7 @@
 
 * [2023-05-10, 14:20:27](https://news.ycombinator.com/item?id=35887766) - [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
 * [2023-05-10, 14:18:31](https://news.ycombinator.com/item?id=35887734) - [Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
+* [2023-05-10, 14:13:42](https://news.ycombinator.com/item?id=35887680) - [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
 * [2023-05-10, 14:04:22](https://news.ycombinator.com/item?id=35887537) - [Microsoft Bets That Fusion Power Is Closer Than Many Think](https://www.wsj.com/articles/microsoft-bets-that-fusion-power-is-closer-than-many-think-cb1b09dc)
 * [2023-05-10, 13:16:21](https://news.ycombinator.com/item?id=35886900) - [Ask HN: What is new in Algorithms &#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
 * [2023-05-10, 13:09:53](https://news.ycombinator.com/item?id=35886815) - [GitHub is going down almost every day around the same time](https://www.githubstatus.com/incidents/pr3498h3qkfy)

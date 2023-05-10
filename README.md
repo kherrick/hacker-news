@@ -2,10 +2,10 @@
 
 * [2023-05-10, 14:20:27](https://news.ycombinator.com/item?id=35887766) - [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
 * [2023-05-10, 14:18:31](https://news.ycombinator.com/item?id=35887734) - [Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
+* [2023-05-10, 14:13:42](https://news.ycombinator.com/item?id=35887680) - [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
 * [2023-05-10, 14:04:22](https://news.ycombinator.com/item?id=35887537) - [Microsoft Bets That Fusion Power Is Closer Than Many Think](https://www.wsj.com/articles/microsoft-bets-that-fusion-power-is-closer-than-many-think-cb1b09dc)
 * [2023-05-10, 13:16:21](https://news.ycombinator.com/item?id=35886900) - [Ask HN: What is new in Algorithms &#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
 * [2023-05-10, 13:09:53](https://news.ycombinator.com/item?id=35886815) - [Incident with Actions, API Requests, Codespaces and Pages](https://www.githubstatus.com/incidents/pr3498h3qkfy)
-* [2023-05-10, 13:09:33](https://news.ycombinator.com/item?id=35886811) - [The four times the United States government defaulted on its debt (2021)](https://thehill.com/opinion/finance/575722-the-us-has-never-defaulted-on-its-debt-except-the-four-times-it-did/)
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
