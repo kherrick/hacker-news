@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
+* [2023-05-10, 06:22:49](https://news.ycombinator.com/item?id=35884272) - [Punctuation Personified (1824)](https://publicdomainreview.org/collection/punctuation-personified)
 * [2023-05-10, 06:05:44](https://news.ycombinator.com/item?id=35884176) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
 * [2023-05-10, 05:59:19](https://news.ycombinator.com/item?id=35884135) - [HN Badges](https://hnbadges.netlify.app/?user=pg)
 * [2023-05-10, 05:18:22](https://news.ycombinator.com/item?id=35883910) - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
