@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 22:26:52",
+      "https://news.ycombinator.com/item?id=35894326"
+    ],
+    [
+      "The “Y” logo in the top-left corner has been upgraded to SVG",
+      "https://news.ycombinator.com/y18.svg"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 21:56:16",
       "https://news.ycombinator.com/item?id=35894039"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2023-05-10, 21:45:47",
+      "https://news.ycombinator.com/item?id=35893952"
+    ],
+    [
+      "Creatures That Don’t Conform",
+      "https://emergencemagazine.org/essay/creatures-that-dont-conform/"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 21:44:03",
       "https://news.ycombinator.com/item?id=35893939"
     ],
@@ -37,16 +57,6 @@
     [
       "QuestDB (YC S20) Is Hiring a Technical Content Lead",
       "https://questdb.io/careers/technical-content-lead/"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 20:51:44",
-      "https://news.ycombinator.com/item?id=35893334"
-    ],
-    [
-      "Apple busts iOS 17 leaker with spycraft ‘canary trap’",
-      "https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "How I developed a faster Ruby interpreter (2022)",
       "https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 08:30:03",
-      "https://news.ycombinator.com/item?id=35885066"
-    ],
-    [
-      "IPyflow: Reactive Python Notebooks in Jupyter(Lab)",
-      "https://github.com/ipyflow/ipyflow"
     ]
   ],
   [
