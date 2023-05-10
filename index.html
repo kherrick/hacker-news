@@ -129,6 +129,142 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="35888644">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=35888644"
+              >Launch HN: Clearspace (YC W23) – Cut back on screen time</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-10 @ 15:19:16</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35888644"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.getclearspace.com"
+                >https://www.getclearspace.com</a
+              >). We make an iPhone app that helps you reduce compulsive phone
+              use. It regulates your social media experiences and app usage,
+              saving you from impulse opens and mindless scrolls. Here’s a demo:
+              <a
+                href="https://drive.google.com/file/d/1zXLYvtG1zZ6ZRq01eGc8jlsn70vlUZLj/view"
+                >https://drive.google.com/file/d/1zXLYvtG1zZ6ZRq01eGc8jlsn70v...</a
+              >
+              <p>
+                During the pandemic, we found ourselves spending more and more
+                of our lives on digital content. Youtube, Instagram, Twitter,
+                even HN were always <i>right</i> there, and the impulse to open
+                and consume became stronger than ever. We realized how much of
+                our technology use was compulsive rather than intentional.
+                Willpower alone was not enough to solve the problem. Most of
+                these products have been designed to activate dopamine feedback
+                loops and, to be blunt, keep users hooked [1].
+              </p>
+              <p>
+                Not wanting to be addicted, we started cobbling together
+                "attention protection stacks": iPhone shortcuts, Chrome
+                Extensions, custom /etc/ files, anything to create digital
+                environments that aligned with our own goals rather than the
+                engagement metrics of big tech. We had some surprising successes
+                with that, so we decided to build a comprehensive and
+                approachable solution. We began with our worst pain point:
+                mindless scrolling on our phones.
+              </p>
+              <p>
+                How it works: you tell us what apps you want to reduce your
+                usage of, and we do the following to train better habits:
+              </p>
+              <p>
+                (1) App Intercepts: we inject a mandatory 15 second breathing
+                exercise before opening apps you’ve added to Clearspace. This
+                helps to break the dopamine feedback loop that your brain has
+                learned, where tapping an app icon yields an instant reward.
+              </p>
+              <p>
+                (2) Intentional Sessions: at the end of said breathing exercise,
+                you tell us how long you want to use an app for. Then you enter
+                and we'll pull you out after that amount of time.
+              </p>
+              <p>
+                (3) Cumulative Progress: each day you stay below your intended
+                time limit adds to your streak of successes. Over time,
+                protecting your streak frequently becomes more important than a
+                "quick scroll" before bed (and if you get a 100 day under-budget
+                streak, we'll send you a hat).
+              </p>
+              <p>
+                (4) Teammates: you can add “teammates” who will receive
+                automatic texts if you exceed your budget on an app, remove it
+                from Clearspace, or delete Clearspace entirely.
+              </p>
+              <p>
+                You may notice how this is fighting fire with fire: we use tech
+                to limit your tech use, social features to curtail social media,
+                and so on. The mechanisms built into the big apps have such a
+                conditioning effect on the brain, they’re nearly impossible for
+                most people to resist. We invoke similarly powerful mechanisms
+                on <i>your</i> behalf, to help your life be less dominated by
+                these things.
+              </p>
+              <p>
+                Some of this only recently became technically possible. The new
+                ScreenTime API from Apple allows users to connect apps on their
+                phone to third party apps (like us). We receive opaque "tokens"
+                for each user app selection and we can perform actions on the
+                tokens, which affects the apps without us knowing what the
+                actual apps are. We can add and remove "shields" to a token,
+                which presents an obstructing interface over an app or website.
+                We can display a user's usage of a token over a time period and
+                display that data to them.
+              </p>
+              <p>
+                Btw, after 3M "app intercepts" (a 15 second wait), we’ve found
+                that people opt <i>not</i> to continue to the app they tried to
+                open 54% of the time. We think that says something about how
+                much of our social media use as a society is compulsive rather
+                than intentional.
+              </p>
+              <p>
+                Here are some typical testimonials from users who have been
+                recovering their time by using our app:
+                <a
+                  href="https://twitter.com/martindaniel4/status/1630175865496584193"
+                  >https://twitter.com/martindaniel4/status/1630175865496584193</a
+                >,
+                <a href="https://twitter.com/timzyu/status/1632551744340123650"
+                  >https://twitter.com/timzyu/status/1632551744340123650</a
+                >,
+                <a
+                  href="https://twitter.com/jandralee/status/1650674167174377473"
+                  >https://twitter.com/jandralee/status/1650674167174377473</a
+                >
+              </p>
+              <p>
+                If you're an iPhone user, we'd love for you to try our app and
+                let us know what you think! We have a freemium model: adding one
+                app is free, paid tier gives you unlimited apps. Your feedback
+                on the app would be deeply appreciated and more broadly we’d
+                love to hear about how you’ve navigated this problem in your
+                life.
+              </p>
+              <p>
+                [1] though maybe not HN:
+                <a href="https://news.ycombinator.com/item?id=77173"
+                  >https://news.ycombinator.com/item?id=77173</a
+                >,
+                <a href="https://news.ycombinator.com/item?id=372593"
+                  >https://news.ycombinator.com/item?id=372593</a
+                >.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="35888024">
           <h3>
             <a
@@ -142,11 +278,32 @@
             <h4>
               <span>2023-05-10 @ 14:37:48</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35888024"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="35887983">
+          <h3>
+            <a
+              class="item"
+              href="https://ashvardanian.com/posts/abusing-vector-search/"
+              >Abusing Vector Search for Texts, Maps, and Chess ♟</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-10 @ 14:34:27</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35887983"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -163,11 +320,11 @@
             <h4>
               <span>2023-05-10 @ 14:20:27</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35887766"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -184,11 +341,11 @@
             <h4>
               <span>2023-05-10 @ 14:18:31</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35887734"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -205,7 +362,7 @@
             <h4>
               <span>2023-05-10 @ 14:13:42</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35887680"
                   >Comments</a
@@ -226,11 +383,11 @@
             <h4>
               <span>2023-05-10 @ 14:04:22</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35887537"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -248,11 +405,11 @@
             <h4>
               <span>2023-05-10 @ 13:45:59</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35887281"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -268,11 +425,11 @@
             <h4>
               <span>2023-05-10 @ 13:16:21</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35886900"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
             <div class="text">
@@ -292,11 +449,11 @@
             <h4>
               <span>2023-05-10 @ 12:49:06</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35886559"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 118</span></span
               >
             </h4>
           </section>
@@ -311,11 +468,11 @@
             <h4>
               <span>2023-05-10 @ 12:20:05</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35886288"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
             <div class="text">
@@ -340,11 +497,11 @@
             <h4>
               <span>2023-05-10 @ 12:14:42</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35886235"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -360,7 +517,7 @@
             <h4>
               <span>2023-05-10 @ 11:56:14</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35886103"
                   >Comments</a
@@ -379,32 +536,11 @@
             <h4>
               <span>2023-05-10 @ 11:42:18</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35886033"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35885999">
-          <h3>
-            <a
-              class="item"
-              href="https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america"
-              >‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-10 @ 11:37:04</span
-              ><span class="points-container"
-                >Points: <span class="points">88</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35885999"
-                  >Comments</a
-                ><span class="descendants">: 94</span></span
+                ><span class="descendants">: 104</span></span
               >
             </h4>
           </section>
@@ -421,11 +557,11 @@
             <h4>
               <span>2023-05-10 @ 11:01:25</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">234</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35885797"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 138</span></span
               >
             </h4>
           </section>
@@ -443,11 +579,11 @@
             <h4>
               <span>2023-05-10 @ 10:28:39</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35885638"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -465,11 +601,11 @@
             <h4>
               <span>2023-05-10 @ 09:26:31</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35885342"
                   >Comments</a
-                ><span class="descendants">: 333</span></span
+                ><span class="descendants">: 348</span></span
               >
             </h4>
           </section>
@@ -484,7 +620,7 @@
             <h4>
               <span>2023-05-10 @ 08:30:03</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35885066"
                   >Comments</a
@@ -505,11 +641,11 @@
             <h4>
               <span>2023-05-10 @ 08:20:46</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35885004"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -530,7 +666,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35884668"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -545,7 +681,7 @@
             <h4>
               <span>2023-05-10 @ 06:51:33</span
               ><span class="points-container"
-                >Points: <span class="points">761</span></span
+                >Points: <span class="points">774</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35884437"
                   >Comments</a
@@ -567,11 +703,11 @@
             <h4>
               <span>2023-05-10 @ 05:18:22</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35883910"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -607,11 +743,11 @@
             <h4>
               <span>2023-05-10 @ 02:34:52</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">240</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35882985"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -626,7 +762,7 @@
             <h4>
               <span>2023-05-10 @ 02:31:59</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35882967"
                   >Comments</a
@@ -645,32 +781,11 @@
             <h4>
               <span>2023-05-10 @ 02:00:06</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35882735"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35881170">
-          <h3>
-            <a
-              class="item"
-              href="https://urbanists.social/@sam/110339902538138997"
-              >The AT protocol is the most obtuse crock of shit</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-09 @ 22:28:44</span
-              ><span class="points-container"
-                >Points: <span class="points">347</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35881170"
-                  >Comments</a
-                ><span class="descendants">: 367</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -734,7 +849,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35875736"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -751,7 +866,7 @@
             <h4>
               <span>2023-05-09 @ 12:59:39</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35873686"
                   >Comments</a
