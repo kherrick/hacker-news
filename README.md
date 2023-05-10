@@ -2,7 +2,7 @@
 
 * [2023-05-10, 17:00:08](https://news.ycombinator.com/item?id=35890114) - [Aviator (YC S21) is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 * [2023-05-10, 16:33:41](https://news.ycombinator.com/item?id=35889743) - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
-* [2023-05-10, 16:25:11](https://news.ycombinator.com/item?id=35889627) - [Ask HN: Resources to Grow Breadth and Depth as a Software Engineer?](https://news.ycombinator.com/item?id=35889627)
+* [2023-05-10, 16:31:01](https://news.ycombinator.com/item?id=35889709) - [Microsoft Freezes Salaries for 2023](https://twitter.com/tomwarren/status/1656331173390327811)
 * [2023-05-10, 16:16:00](https://news.ycombinator.com/item?id=35889507) - [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
 * [2023-05-10, 16:03:58](https://news.ycombinator.com/item?id=35889335) - [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
 * [2023-05-10, 16:03:06](https://news.ycombinator.com/item?id=35889319) - [Spain asks US to clean up site of 1966 nuclear accident](https://www.foxnews.com/world/spain-asks-us-clean-1966-nuclear-accident-site)
@@ -29,7 +29,7 @@
 * [2023-05-10, 05:18:22](https://news.ycombinator.com/item?id=35883910) - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
 * [2023-05-10, 05:15:50](https://news.ycombinator.com/item?id=35883891) - [An experimental editor for WebGPU compute shaders](https://compute.toys/)
 * [2023-05-10, 04:55:31](https://news.ycombinator.com/item?id=35883777) - [Large Photonic Processor Solves Graph Problems](https://physics.aps.org/articles/v16/s64)
-* [2023-05-10, 02:34:52](https://news.ycombinator.com/item?id=35882985) - [A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
+* [2023-05-09, 12:59:39](https://news.ycombinator.com/item?id=35873686) - [Darvaza Gas Crater](https://en.wikipedia.org/wiki/Darvaza_gas_crater)
 
 ## [Archives](archives/index.md)
 

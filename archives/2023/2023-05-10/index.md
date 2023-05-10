@@ -6,6 +6,7 @@
 
 * [2023-05-10, 17:00:08](https://news.ycombinator.com/item?id=35890114) - [Aviator (YC S21) is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 * [2023-05-10, 16:33:41](https://news.ycombinator.com/item?id=35889743) - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
+* [2023-05-10, 16:31:01](https://news.ycombinator.com/item?id=35889709) - [Microsoft Freezes Salaries for 2023](https://twitter.com/tomwarren/status/1656331173390327811)
 * [2023-05-10, 16:25:11](https://news.ycombinator.com/item?id=35889627) - [Ask HN: Resources to Grow Breadth and Depth as a Software Engineer?](https://news.ycombinator.com/item?id=35889627)
 * [2023-05-10, 16:16:00](https://news.ycombinator.com/item?id=35889507) - [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
 * [2023-05-10, 16:03:58](https://news.ycombinator.com/item?id=35889335) - [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
