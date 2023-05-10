@@ -2,7 +2,7 @@
 
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 * [2023-05-10, 14:37:48](https://news.ycombinator.com/item?id=35888024) - [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
-* [2023-05-10, 14:34:27](https://news.ycombinator.com/item?id=35887983) - [Abusing Vector Search for Texts, Maps, and Chess ♟](https://ashvardanian.com/posts/abusing-vector-search/)
+* [2023-05-10, 14:34:27](https://news.ycombinator.com/item?id=35887983) - [Abusing Vector Search for Texts, Maps, and Chess](https://ashvardanian.com/posts/abusing-vector-search/)
 * [2023-05-10, 14:20:27](https://news.ycombinator.com/item?id=35887766) - [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
 * [2023-05-10, 14:18:31](https://news.ycombinator.com/item?id=35887734) - [Helion’s fusion power purchase agreement with Microsoft](https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/)
 * [2023-05-10, 14:13:42](https://news.ycombinator.com/item?id=35887680) - [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
