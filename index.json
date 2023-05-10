@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-10, 21:52:18",
-      "https://news.ycombinator.com/item?id=35894010"
-    ],
-    [
-      "What if we covered every warehouse in the mountain West with solar panels?",
-      "https://www.kunr.org/energy-and-environment/2023-05-03/what-if-we-covered-every-warehouse-mountain-west-solar-panels"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 21:51:21",
       "https://news.ycombinator.com/item?id=35894004"
     ],
@@ -61,6 +51,26 @@
   ],
   [
     [
+      "2023-05-10, 19:45:03",
+      "https://news.ycombinator.com/item?id=35892512"
+    ],
+    [
+      "YouTube tests blocking videos unless you disable ad blockers",
+      "https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 19:29:04",
+      "https://news.ycombinator.com/item?id=35892286"
+    ],
+    [
+      "Google Pixel Fold",
+      "https://store.google.com/us/product/pixel_fold"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 19:25:52",
       "https://news.ycombinator.com/item?id=35892246"
     ],
@@ -77,6 +87,16 @@
     [
       "PaLM 2 Technical Report [pdf]",
       "https://ai.google/static/documents/palm2techreport.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 18:20:50",
+      "https://news.ycombinator.com/item?id=35891259"
+    ],
+    [
+      "TS to JSDoc Conversion",
+      "https://github.com/sveltejs/svelte/pull/8569"
     ]
   ],
   [
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2023-05-10, 16:33:41",
-      "https://news.ycombinator.com/item?id=35889743"
+      "2023-05-10, 16:03:58",
+      "https://news.ycombinator.com/item?id=35889335"
     ],
     [
-      "Hugging Face Releases Agents",
-      "https://huggingface.co/docs/transformers/transformers_agents"
+      "How and why we acquired our .com domain",
+      "https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain"
     ]
   ],
   [
@@ -137,6 +157,16 @@
     [
       "Extending web applications with WebAssembly and Python",
       "https://wasmlabs.dev/articles/wasm-host-to-python/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 13:42:29",
+      "https://news.ycombinator.com/item?id=35887239"
+    ],
+    [
+      "Bad Manors: The McMansion as Harbinger",
+      "https://thebaffler.com/outbursts/bad-manors-wagner"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-05-10, 11:01:25",
-      "https://news.ycombinator.com/item?id=35885797"
-    ],
-    [
-      "The Leverage of LLMs for Individuals",
-      "https://mazzzystar.github.io/2023/05/10/LLM-for-individual/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 10:46:05",
       "https://news.ycombinator.com/item?id=35885717"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-05-10, 08:30:03",
-      "https://news.ycombinator.com/item?id=35885066"
-    ],
-    [
-      "IPyflow: Reactive Python Notebooks in Jupyter(Lab)",
-      "https://github.com/ipyflow/ipyflow"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 08:20:46",
       "https://news.ycombinator.com/item?id=35885004"
     ],
     [
       "Dynamic Branch Prediction with Perceptrons (2000) [pdf]",
       "https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 07:23:23",
-      "https://news.ycombinator.com/item?id=35884668"
-    ],
-    [
-      "50 years in filesystems: 1984 BSD FFS",
-      "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html"
     ]
   ],
   [
