@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=35886811"
     ],
     [
-      "The four times the United States government defaulted on its debt",
+      "The four times the United States government defaulted on its debt (2021)",
       "https://thehill.com/opinion/finance/575722-the-us-has-never-defaulted-on-its-debt-except-the-four-times-it-did/"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35885004"
     ],
     [
-      "Dynamic Branch Prediction with Perceptrons [pdf]",
+      "Dynamic Branch Prediction with Perceptrons (2000) [pdf]",
       "https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-05-09, 23:38:51",
+      "https://news.ycombinator.com/item?id=35881768"
+    ],
+    [
+      "Internet disrupted in Pakistan amid arrest of former PM Imran Khan",
+      "https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 23:06:48",
       "https://news.ycombinator.com/item?id=35881520"
     ],
@@ -221,32 +231,22 @@
   ],
   [
     [
-      "2023-05-09, 22:08:13",
-      "https://news.ycombinator.com/item?id=35880997"
-    ],
-    [
-      "The last days of a 350-year-old family farm",
-      "https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 21:18:51",
-      "https://news.ycombinator.com/item?id=35880517"
-    ],
-    [
-      "Twenty years of blogging",
-      "https://eli.thegreenplace.net/2023/twenty-years-of-blogging/"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 21:02:06",
       "https://news.ycombinator.com/item?id=35880345"
     ],
     [
       "Aptible (YC S14) Is Hiring: Security Engineer and Head of Product",
       "https://news.ycombinator.com/item?id=35880345"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 20:02:15",
+      "https://news.ycombinator.com/item?id=35879660"
+    ],
+    [
+      "Linux kernel use-after-free in Netfilter, local privilege escalation",
+      "https://seclists.org/oss-sec/2023/q2/133"
     ]
   ],
   [
