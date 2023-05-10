@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 02:31:59](https://news.ycombinator.com/item?id=35882967) - [Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
 * [2023-05-10, 02:00:06](https://news.ycombinator.com/item?id=35882735) - [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
 * [2023-05-10, 00:03:52](https://news.ycombinator.com/item?id=35881963) - [Show HN: Build progressively enhanced reactive HTML apps using Go and Alpine.js](https://livefir.fly.dev/)
 * [2023-05-09, 23:38:51](https://news.ycombinator.com/item?id=35881768) - [Internet disrupted in Pakistan amid arrest of former PM Imran Khan](https://netblocks.org/reports/internet-disrupted-in-pakistan-amid-arrest-of-former-pm-imran-khan-JA6RmrAQ)
@@ -29,7 +30,6 @@
 * [2023-05-09, 03:10:20](https://news.ycombinator.com/item?id=35869773) - [Webb Telescope Finds a Star Cloaked in 3 Rings of Ruined Worlds](https://www.nytimes.com/2023/05/08/science/fomalhaut-star-webb-telescope.html)
 * [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
 * [2023-05-08, 12:39:38](https://news.ycombinator.com/item?id=35860892) - [The Inventor of Magical Realism](https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/)
-* [2023-05-08, 08:02:53](https://news.ycombinator.com/item?id=35859169) - [The Electric Sitar Project](https://chandrakantha.com/music-and-dance/instrumental-music/indian-instruments/sitar/electric-sitar/)
 
 ## [Archives](archives/index.md)
 
