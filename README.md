@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-10, 05:18:22](https://news.ycombinator.com/item?id=35883910) - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
+* [2023-05-10, 05:15:50](https://news.ycombinator.com/item?id=35883891) - [An experimental editor for WebGPU compute shaders](https://compute.toys/)
 * [2023-05-10, 02:34:52](https://news.ycombinator.com/item?id=35882985) - [A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
 * [2023-05-10, 02:31:59](https://news.ycombinator.com/item?id=35882967) - [Freakwan: A MicroPython driver for the SX1276 LoRa chip](https://github.com/antirez/freakwan)
 * [2023-05-10, 02:00:06](https://news.ycombinator.com/item?id=35882735) - [Tempus Nectit Knitting Clock](http://kylerank.in/tempus_nectit/)
@@ -29,7 +30,6 @@
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
 * [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What is permaculture? (2015)](https://www.permaculturedesignmagazine.com/what-is-permaculture)
 * [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
-* [2023-05-08, 12:39:38](https://news.ycombinator.com/item?id=35860892) - [The Inventor of Magical Realism](https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/)
 
 ## [Archives](archives/index.md)
 
