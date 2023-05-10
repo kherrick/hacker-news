@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 02:34:52",
+      "https://news.ycombinator.com/item?id=35882985"
+    ],
+    [
+      "A TLS 1.3 Stack Written in Visual Basic 6",
+      "https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 02:31:59",
       "https://news.ycombinator.com/item?id=35882967"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-05-09, 17:41:30",
+      "https://news.ycombinator.com/item?id=35877825"
+    ],
+    [
+      "Defending against Bluetooth tracker abuse: it’s complicated",
+      "https://educatedguesswork.org/posts/unwanted-tracking/"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 17:15:04",
       "https://news.ycombinator.com/item?id=35877402"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2023-05-09, 13:04:06",
-      "https://news.ycombinator.com/item?id=35873732"
-    ],
-    [
-      "Apple brings Final Cut Pro and Logic Pro to iPad",
-      "https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 13:02:49",
       "https://news.ycombinator.com/item?id=35873714"
     ],
     [
       "Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform",
       "https://arxiv.org/abs/2305.04760"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 12:48:13",
-      "https://news.ycombinator.com/item?id=35873552"
-    ],
-    [
-      "CheerpJ 3.0: a JVM replacement in HTML5 and WASM to run Java on modern browsers",
-      "https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/"
     ]
   ],
   [
