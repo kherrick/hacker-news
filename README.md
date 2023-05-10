@@ -20,16 +20,16 @@
 * [2023-05-09, 21:02:06](https://news.ycombinator.com/item?id=35880345) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=35880345)
 * [2023-05-09, 20:32:23](https://news.ycombinator.com/item?id=35880011) - [The world’s oldest ultramarathon runner is racing against death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
 * [2023-05-09, 20:02:15](https://news.ycombinator.com/item?id=35879660) - [Linux kernel use-after-free in Netfilter, local privilege escalation](https://seclists.org/oss-sec/2023/q2/133)
+* [2023-05-09, 19:58:51](https://news.ycombinator.com/item?id=35879628) - [In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0](https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586)
 * [2023-05-09, 19:05:48](https://news.ycombinator.com/item?id=35878961) - [Is sequential IO dead in the era of the NVMe drive?](https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive)
 * [2023-05-09, 18:02:23](https://news.ycombinator.com/item?id=35878124) - [Show HN: Engineering Book Club](https://www.engineeringbookclub.com/)
 * [2023-05-09, 17:15:04](https://news.ycombinator.com/item?id=35877402) - [Language models can explain neurons in language models](https://openai.com/research/language-models-can-explain-neurons-in-language-models)
-* [2023-05-09, 17:07:06](https://news.ycombinator.com/item?id=35877291) - [Companies hide negative news with unrelated press releases alongside SEC filings](https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/)
 * [2023-05-09, 16:18:56](https://news.ycombinator.com/item?id=35876635) - [Polya Urn Simulation](https://observablehq.com/@cmoog/polya-urn-simulation)
 * [2023-05-09, 16:07:12](https://news.ycombinator.com/item?id=35876466) - [Detailed Image of the Human Retina](https://ethz.ch/en/news-and-events/eth-news/news/2023/05/detailed-image-of-the-human-retina.html)
 * [2023-05-09, 15:22:24](https://news.ycombinator.com/item?id=35875736) - [Mechanical backpack boosts the sensation of jumping in virtual reality](https://www.newscientist.com/article/2371594-mechanical-backpack-boosts-the-sensation-of-jumping-in-virtual-reality/)
+* [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope reveals Fomalhaut&#x27;s disk in detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 * [2023-05-09, 12:59:39](https://news.ycombinator.com/item?id=35873686) - [Darvaza Gas Crater](https://en.wikipedia.org/wiki/Darvaza_gas_crater)
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
-* [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What is permaculture? (2015)](https://www.permaculturedesignmagazine.com/what-is-permaculture)
 
 ## [Archives](archives/index.md)
 
