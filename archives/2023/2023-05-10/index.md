@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 21:00:10](https://news.ycombinator.com/item?id=35893439) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
+* [2023-05-10, 20:51:44](https://news.ycombinator.com/item?id=35893334) - [Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
 * [2023-05-10, 20:02:22](https://news.ycombinator.com/item?id=35892701) - [Librem 5 USA Smartphone Provides Many Exclusive Security Features](https://puri.sm/posts/librem-5-usa-smart-phone-provides-many-exclusive-security-features/)
 * [2023-05-10, 19:45:03](https://news.ycombinator.com/item?id=35892512) - [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
 * [2023-05-10, 19:29:04](https://news.ycombinator.com/item?id=35892286) - [Google Pixel Fold](https://store.google.com/product/pixel_fold?hl=en-US)
@@ -49,6 +51,7 @@
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
 * [2023-05-10, 11:37:04](https://news.ycombinator.com/item?id=35885999) - [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
+* [2023-05-10, 11:14:24](https://news.ycombinator.com/item?id=35885872) - [The World’s Greatest Freediver (2021)](https://www.gq.com/story/freediver-alexey-molchanov-profile)
 * [2023-05-10, 11:01:25](https://news.ycombinator.com/item?id=35885797) - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
 * [2023-05-10, 10:46:05](https://news.ycombinator.com/item?id=35885717) - [How I developed a faster Ruby interpreter](https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter)
 * [2023-05-10, 10:28:39](https://news.ycombinator.com/item?id=35885638) - [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
