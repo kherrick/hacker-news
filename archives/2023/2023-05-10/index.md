@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
+* [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
 * [2023-05-10, 11:37:04](https://news.ycombinator.com/item?id=35885999) - [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
