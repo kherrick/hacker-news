@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 19:29:04](https://news.ycombinator.com/item?id=35892286) - [Google Pixel Fold](https://store.google.com/product/pixel_fold?hl=en-US)
 * [2023-05-10, 19:25:52](https://news.ycombinator.com/item?id=35892246) - [Why I&#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
 * [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
 * [2023-05-10, 18:27:34](https://news.ycombinator.com/item?id=35891362) - [Psychoactive Substance Use by Professional Programmers](https://arxiv.org/abs/2305.01056)

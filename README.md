@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 19:29:04](https://news.ycombinator.com/item?id=35892286) - [Google Pixel Fold](https://store.google.com/product/pixel_fold?hl=en-US)
 * [2023-05-10, 19:25:52](https://news.ycombinator.com/item?id=35892246) - [Why I&#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
 * [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
 * [2023-05-10, 18:27:34](https://news.ycombinator.com/item?id=35891362) - [Psychoactive substance use by professional programmers](https://arxiv.org/abs/2305.01056)
@@ -7,7 +8,6 @@
 * [2023-05-10, 18:02:14](https://news.ycombinator.com/item?id=35890989) - [Google&#x27;s Latest Experiments in Labs](https://labs.withgoogle.com/)
 * [2023-05-10, 17:47:48](https://news.ycombinator.com/item?id=35890784) - [Cedar policy language is now open source](https://www.cedarpolicy.com/en)
 * [2023-05-10, 17:29:28](https://news.ycombinator.com/item?id=35890554) - [Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
-* [2023-05-10, 17:22:08](https://news.ycombinator.com/item?id=35890440) - [Google launches PaLM 2, its next-gen large language model](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/)
 * [2023-05-10, 17:00:08](https://news.ycombinator.com/item?id=35890114) - [Aviator (YC S21) is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 * [2023-05-10, 16:33:41](https://news.ycombinator.com/item?id=35889743) - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
 * [2023-05-10, 16:16:00](https://news.ycombinator.com/item?id=35889507) - [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
