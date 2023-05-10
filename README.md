@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+* [2023-05-10, 18:27:34](https://news.ycombinator.com/item?id=35891362) - [Psychoactive Substance Use by Professional Programmers](https://arxiv.org/abs/2305.01056)
 * [2023-05-10, 18:20:50](https://news.ycombinator.com/item?id=35891259) - [Svelte is migrating from TypeScript to JSDoc](https://github.com/sveltejs/svelte/pull/8569)
 * [2023-05-10, 18:12:37](https://news.ycombinator.com/item?id=35891154) - [Google Bard now open to use](https://bard.google.com/?hl=en)
 * [2023-05-10, 17:47:48](https://news.ycombinator.com/item?id=35890784) - [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
@@ -7,9 +9,7 @@
 * [2023-05-10, 17:22:08](https://news.ycombinator.com/item?id=35890440) - [Google launches PaLM 2, its next-gen large language model](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/)
 * [2023-05-10, 17:00:08](https://news.ycombinator.com/item?id=35890114) - [Aviator (YC S21) is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 * [2023-05-10, 16:33:41](https://news.ycombinator.com/item?id=35889743) - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
-* [2023-05-10, 16:31:01](https://news.ycombinator.com/item?id=35889709) - [Microsoft Freezes Salaries for 2023](https://twitter.com/tomwarren/status/1656331173390327811)
 * [2023-05-10, 16:16:00](https://news.ycombinator.com/item?id=35889507) - [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
-* [2023-05-10, 16:03:58](https://news.ycombinator.com/item?id=35889335) - [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 * [2023-05-10, 15:10:19](https://news.ycombinator.com/item?id=35888509) - [Infosec company owned completely by 4chan user](https://maia.crimew.gay/posts/optimeyes-leak/)
 * [2023-05-10, 14:37:48](https://news.ycombinator.com/item?id=35888024) - [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)

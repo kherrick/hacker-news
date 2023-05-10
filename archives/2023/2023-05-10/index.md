@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+* [2023-05-10, 18:27:34](https://news.ycombinator.com/item?id=35891362) - [Psychoactive Substance Use by Professional Programmers](https://arxiv.org/abs/2305.01056)
 * [2023-05-10, 18:20:50](https://news.ycombinator.com/item?id=35891259) - [Svelte is migrating from TypeScript to JSDoc](https://github.com/sveltejs/svelte/pull/8569)
 * [2023-05-10, 18:12:37](https://news.ycombinator.com/item?id=35891154) - [Google Bard now open to use](https://bard.google.com/?hl=en)
 * [2023-05-10, 17:47:48](https://news.ycombinator.com/item?id=35890784) - [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
