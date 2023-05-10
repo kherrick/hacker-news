@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-05-09, 22:45:52",
-      "https://news.ycombinator.com/item?id=35881326"
-    ],
-    [
-      "Electrical Characteristics of Telephone Lines (2023)",
-      "https://computer.rip/2023-05-07-electrical-characteristics-of-telephone-lines.html"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 22:08:13",
       "https://news.ycombinator.com/item?id=35880997"
     ],
@@ -157,6 +147,16 @@
     [
       "In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0",
       "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 19:05:48",
+      "https://news.ycombinator.com/item?id=35878961"
+    ],
+    [
+      "Is sequential IO dead in the era of the NVMe drive?",
+      "https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-05-09, 06:43:13",
-      "https://news.ycombinator.com/item?id=35870911"
+      "2023-05-09, 11:23:13",
+      "https://news.ycombinator.com/item?id=35872647"
     ],
     [
-      "Codes of Entry: Burglary, Architecture, and the Protocols of “Nakatomi Space”",
-      "https://www.youtube.com/watch?v=pK7U2IrPETQ"
+      "What is permaculture? (2015)",
+      "https://www.permaculturedesignmagazine.com/what-is-permaculture"
     ]
   ],
   [
