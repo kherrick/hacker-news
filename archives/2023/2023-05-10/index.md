@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 13:16:21](https://news.ycombinator.com/item?id=35886900) - [Ask HN: What is new in Algorithms &#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
 * [2023-05-10, 13:09:53](https://news.ycombinator.com/item?id=35886815) - [GitHub is going down almost every day around the same time](https://www.githubstatus.com/incidents/pr3498h3qkfy)
 * [2023-05-10, 13:09:33](https://news.ycombinator.com/item?id=35886811) - [The four times the United States government defaulted on its debt](https://thehill.com/opinion/finance/575722-the-us-has-never-defaulted-on-its-debt-except-the-four-times-it-did/)
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
+* [2023-05-10, 12:31:43](https://news.ycombinator.com/item?id=35886409) - [Departing Cook County Prosecutor&#x27;s Searing Exit Letter](https://www.chicagocontrarian.com/blog/departing-cook-county-prosecutor-upbraids-kim-foxx-in-searing-exit-letter)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
