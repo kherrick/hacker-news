@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
+* [2023-05-10, 11:37:04](https://news.ycombinator.com/item?id=35885999) - [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
 * [2023-05-10, 11:01:25](https://news.ycombinator.com/item?id=35885797) - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
 * [2023-05-10, 10:28:39](https://news.ycombinator.com/item?id=35885638) - [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
+* [2023-05-10, 09:26:31](https://news.ycombinator.com/item?id=35885342) - [My friends who cheated in interviews are getting promoted](https://www.teamblind.com/post/My-friends-who-cheated-in-interviews-are-getting-promoted-😡😡😡😡-XnYM4nLs)
 * [2023-05-10, 08:30:03](https://news.ycombinator.com/item?id=35885066) - [IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
 * [2023-05-10, 08:20:46](https://news.ycombinator.com/item?id=35885004) - [Dynamic Branch Prediction with Perceptrons [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
@@ -19,8 +22,6 @@
 * [2023-05-09, 22:28:44](https://news.ycombinator.com/item?id=35881170) - [The AT protocol is the most obtuse crock of shit](https://urbanists.social/@sam/110339902538138997)
 * [2023-05-09, 22:08:13](https://news.ycombinator.com/item?id=35880997) - [The last days of a 350-year-old family farm](https://www.smithsonianmag.com/arts-culture/these-intimate-photos-capture-a-family-farms-bittersweet-final-years-180982139/)
 * [2023-05-09, 21:18:51](https://news.ycombinator.com/item?id=35880517) - [Twenty years of blogging](https://eli.thegreenplace.net/2023/twenty-years-of-blogging/)
-* [2023-05-09, 21:17:48](https://news.ycombinator.com/item?id=35880504) - [Thunderbird Is Thriving: Our 2022 Financial Report](https://blog.thunderbird.net/2023/05/thunderbird-is-thriving-our-2022-financial-report/)
-* [2023-05-09, 21:14:13](https://news.ycombinator.com/item?id=35880466) - [Apple just lost its lawsuit trying to ban iOS virtual machines](https://www.techradar.com/news/apple-just-lost-its-lawsuit-trying-to-ban-ios-virtual-machines)
 * [2023-05-09, 21:02:06](https://news.ycombinator.com/item?id=35880345) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=35880345)
 * [2023-05-09, 20:32:23](https://news.ycombinator.com/item?id=35880011) - [The world’s oldest ultramarathon runner is racing against death](https://thewalrus.ca/worlds-oldest-ultramarathon-runner/)
 * [2023-05-09, 20:02:15](https://news.ycombinator.com/item?id=35879660) - [Linux kernel use-after-free in Netfilter, local privilege escalation](https://seclists.org/oss-sec/2023/q2/133)
@@ -28,7 +29,6 @@
 * [2023-05-09, 16:18:56](https://news.ycombinator.com/item?id=35876635) - [Polya Urn Simulation](https://observablehq.com/@cmoog/polya-urn-simulation)
 * [2023-05-09, 16:07:12](https://news.ycombinator.com/item?id=35876466) - [Detailed Image of the Human Retina](https://ethz.ch/en/news-and-events/eth-news/news/2023/05/detailed-image-of-the-human-retina.html)
 * [2023-05-09, 15:22:24](https://news.ycombinator.com/item?id=35875736) - [Mechanical backpack boosts the sensation of jumping in virtual reality](https://www.newscientist.com/article/2371594-mechanical-backpack-boosts-the-sensation-of-jumping-in-virtual-reality/)
-* [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope reveals Fomalhaut&#x27;s disk in detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
 * [2023-05-09, 12:59:39](https://news.ycombinator.com/item?id=35873686) - [Darvaza Gas Crater](https://en.wikipedia.org/wiki/Darvaza_gas_crater)
 
 ## [Archives](archives/index.md)
