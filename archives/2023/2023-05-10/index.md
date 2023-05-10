@@ -36,6 +36,7 @@
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
 * [2023-05-10, 12:31:43](https://news.ycombinator.com/item?id=35886409) - [Departing Cook County Prosecutor&#x27;s Searing Exit Letter](https://www.chicagocontrarian.com/blog/departing-cook-county-prosecutor-upbraids-kim-foxx-in-searing-exit-letter)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
+* [2023-05-10, 12:17:33](https://news.ycombinator.com/item?id=35886255) - [Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [Why does no one have a favorite instrumentalist anymore?](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)
 * [2023-05-10, 12:14:42](https://news.ycombinator.com/item?id=35886235) - [“GDPR compliant” analytics is probably violating GDPR](https://pilcrow.vercel.app/blog/gdpr-analytics)
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
