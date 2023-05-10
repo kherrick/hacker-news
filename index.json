@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-05-10, 21:45:47",
-      "https://news.ycombinator.com/item?id=35893952"
-    ],
-    [
-      "Creatures That Don’t Conform",
-      "https://emergencemagazine.org/essay/creatures-that-dont-conform/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 21:44:03",
       "https://news.ycombinator.com/item?id=35893939"
     ],
@@ -247,6 +237,16 @@
     [
       "How I developed a faster Ruby interpreter (2022)",
       "https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 08:30:03",
+      "https://news.ycombinator.com/item?id=35885066"
+    ],
+    [
+      "IPyflow: Reactive Python Notebooks in Jupyter(Lab)",
+      "https://github.com/ipyflow/ipyflow"
     ]
   ],
   [
