@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 21:30:45](https://news.ycombinator.com/item?id=35893804) - [Google will label fake images created with its A.I](https://www.cnbc.com/2023/05/10/google-will-label-fake-images-created-with-its-ai-.html)
 * [2023-05-10, 21:00:10](https://news.ycombinator.com/item?id=35893439) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-05-10, 20:51:44](https://news.ycombinator.com/item?id=35893334) - [Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
+* [2023-05-10, 20:13:58](https://news.ycombinator.com/item?id=35892837) - [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
 * [2023-05-10, 20:02:22](https://news.ycombinator.com/item?id=35892701) - [Librem 5 USA Smartphone Provides Many Exclusive Security Features](https://puri.sm/posts/librem-5-usa-smart-phone-provides-many-exclusive-security-features/)
 * [2023-05-10, 19:45:03](https://news.ycombinator.com/item?id=35892512) - [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
 * [2023-05-10, 19:29:04](https://news.ycombinator.com/item?id=35892286) - [Google Pixel Fold](https://store.google.com/product/pixel_fold?hl=en-US)
