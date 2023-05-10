@@ -27,7 +27,7 @@
 * [2023-05-10, 08:30:03](https://news.ycombinator.com/item?id=35885066) - [IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
 * [2023-05-10, 08:20:46](https://news.ycombinator.com/item?id=35885004) - [Dynamic Branch Prediction with Perceptrons (2000) [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
-* [2023-05-10, 05:50:14](https://news.ycombinator.com/item?id=35884083) - [TwinBASIC is a modern BASIC compiler](https://twinbasic.com/preview.html)
+* [2023-05-10, 04:55:31](https://news.ycombinator.com/item?id=35883777) - [Large Photonic Processor Solves Graph Problems](https://physics.aps.org/articles/v16/s64)
 * [2023-05-09, 13:19:04](https://news.ycombinator.com/item?id=35873887) - [Show HN: Mineo.app – Better Python Notebooks](https://www.mineo.app/)
 * [2023-05-09, 08:07:06](https://news.ycombinator.com/item?id=35871462) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 
