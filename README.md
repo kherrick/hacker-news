@@ -3,7 +3,7 @@
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 06:22:49](https://news.ycombinator.com/item?id=35884272) - [Punctuation Personified (1824)](https://publicdomainreview.org/collection/punctuation-personified)
-* [2023-05-10, 06:05:44](https://news.ycombinator.com/item?id=35884176) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
+* [2023-05-10, 06:05:44](https://news.ycombinator.com/item?id=35884176) - [Julia 1.9](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
 * [2023-05-10, 05:18:22](https://news.ycombinator.com/item?id=35883910) - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
 * [2023-05-10, 05:15:50](https://news.ycombinator.com/item?id=35883891) - [An experimental editor for WebGPU compute shaders](https://compute.toys/)
 * [2023-05-10, 02:34:52](https://news.ycombinator.com/item?id=35882985) - [A TLS 1.3 stack written in Visual Basic 6](https://github.com/wqweto/VbAsyncSocket/blob/master/src/mdTlsThunks.bas)
