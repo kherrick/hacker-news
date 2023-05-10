@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-05-09, 19:58:51",
+      "https://news.ycombinator.com/item?id=35879628"
+    ],
+    [
+      "In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0",
+      "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 19:05:48",
       "https://news.ycombinator.com/item?id=35878961"
     ],
@@ -227,16 +237,6 @@
     [
       "Language models can explain neurons in language models",
       "https://openai.com/research/language-models-can-explain-neurons-in-language-models"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 17:07:06",
-      "https://news.ycombinator.com/item?id=35877291"
-    ],
-    [
-      "Companies hide negative news with unrelated press releases alongside SEC filings",
-      "https://news.nd.edu/news/companies-hide-negative-news-by-issuing-unrelated-press-releases-alongside-sec-filings-study-shows/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-05-09, 14:19:14",
+      "https://news.ycombinator.com/item?id=35874704"
+    ],
+    [
+      "James Webb Space Telescope reveals Fomalhaut&#x27;s disk in detail",
+      "https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/"
+    ]
+  ],
+  [
+    [
       "2023-05-09, 12:59:39",
       "https://news.ycombinator.com/item?id=35873686"
     ],
@@ -287,16 +297,6 @@
     [
       "Lotus 1-2-3",
       "https://lock.cmpxchg8b.com/lotus123.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 11:23:13",
-      "https://news.ycombinator.com/item?id=35872647"
-    ],
-    [
-      "What is permaculture? (2015)",
-      "https://www.permaculturedesignmagazine.com/what-is-permaculture"
     ]
   ]
 ]
