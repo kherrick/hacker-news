@@ -9,6 +9,7 @@
 * [2023-05-10, 18:27:34](https://news.ycombinator.com/item?id=35891362) - [Psychoactive Substance Use by Professional Programmers](https://arxiv.org/abs/2305.01056)
 * [2023-05-10, 18:20:50](https://news.ycombinator.com/item?id=35891259) - [Svelte is migrating from TypeScript to JSDoc](https://github.com/sveltejs/svelte/pull/8569)
 * [2023-05-10, 18:12:37](https://news.ycombinator.com/item?id=35891154) - [Google Bard now open to use](https://bard.google.com/?hl=en)
+* [2023-05-10, 18:02:14](https://news.ycombinator.com/item?id=35890989) - [Google&#x27;s Latest Experiments in Labs](https://labs.withgoogle.com/)
 * [2023-05-10, 17:47:48](https://news.ycombinator.com/item?id=35890784) - [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
 * [2023-05-10, 17:29:28](https://news.ycombinator.com/item?id=35890554) - [Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
 * [2023-05-10, 17:22:08](https://news.ycombinator.com/item?id=35890440) - [Google launches PaLM 2, its next-gen large language model](https://techcrunch.com/2023/05/10/google-launches-palm-2-its-next-gen-large-language-model/)
