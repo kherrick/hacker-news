@@ -65,6 +65,7 @@
 * [2023-05-09, 13:32:00](https://news.ycombinator.com/item?id=35874053) - [Logic Pro for iPad](https://www.apple.com/logic-pro-for-ipad/)
 * [2023-05-09, 13:15:12](https://news.ycombinator.com/item?id=35873845) - [GitHub switches to Rust based Blackbird code search](https://www.theregister.com/2023/05/09/blackbird_github_search/)
 * [2023-05-09, 13:14:33](https://news.ycombinator.com/item?id=35873836) - [Google promised to delete sensitive data. It logged my abortion clinic visit](https://www.washingtonpost.com/technology/2023/05/09/google-privacy-abortion-data/)
+* [2023-05-09, 13:14:02](https://news.ycombinator.com/item?id=35873829) - [A Business Card Universal Turing Machine (2019) [pdf]](http://alvyray.com/CreativeCommons/BizCardUniversalTuringMachine_v1.7.pdf)
 * [2023-05-09, 13:04:06](https://news.ycombinator.com/item?id=35873732) - [Apple Brings Final Cut Pro and Logic Pro to iPad](https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/)
 * [2023-05-09, 13:02:49](https://news.ycombinator.com/item?id=35873714) - [Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform](https://arxiv.org/abs/2305.04760)
 * [2023-05-09, 12:49:42](https://news.ycombinator.com/item?id=35873575) - [Google Translate “Get well [Swedish firstname]” translates to “fuck you”](https://translate.google.se/?sl=auto&tl=en&text=krya%20p%C3%A5%20dig%20Bj%C3%B6rn%0A&op=translate)
