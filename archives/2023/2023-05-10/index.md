@@ -42,6 +42,7 @@
 * [2023-05-10, 06:22:49](https://news.ycombinator.com/item?id=35884272) - [Punctuation Personified (1824)](https://publicdomainreview.org/collection/punctuation-personified)
 * [2023-05-10, 06:05:44](https://news.ycombinator.com/item?id=35884176) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
 * [2023-05-10, 05:59:19](https://news.ycombinator.com/item?id=35884135) - [HN Badges](https://hnbadges.netlify.app/?user=pg)
+* [2023-05-10, 05:50:14](https://news.ycombinator.com/item?id=35884083) - [TwinBASIC is a modern BASIC compiler](https://twinbasic.com/preview.html)
 * [2023-05-10, 05:18:22](https://news.ycombinator.com/item?id=35883910) - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
 * [2023-05-10, 05:15:50](https://news.ycombinator.com/item?id=35883891) - [An experimental editor for WebGPU compute shaders](https://compute.toys/)
 * [2023-05-10, 04:55:31](https://news.ycombinator.com/item?id=35883777) - [Large Photonic Processor Solves Graph Problems](https://physics.aps.org/articles/v16/s64)
