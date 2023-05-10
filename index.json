@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-10, 13:16:21",
+      "https://news.ycombinator.com/item?id=35886900"
+    ],
+    [
+      "Ask HN: What is new in Algorithms &#x2F; Data Structures these days?",
+      "https://news.ycombinator.com/item?id=35886900"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 13:09:53",
       "https://news.ycombinator.com/item?id=35886815"
     ],
@@ -27,6 +37,16 @@
     [
       "Google I&#x2F;O 2023",
       "https://io.google/2023/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 12:31:43",
+      "https://news.ycombinator.com/item?id=35886409"
+    ],
+    [
+      "Departing Cook County Prosecutor&#x27;s Searing Exit Letter",
+      "https://www.chicagocontrarian.com/blog/departing-cook-county-prosecutor-upbraids-kim-foxx-in-searing-exit-letter"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2023-05-10, 05:18:22",
+      "https://news.ycombinator.com/item?id=35883910"
+    ],
+    [
+      "Random bit-flip invalidates certificate transparency log – again?",
+      "https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 05:15:50",
       "https://news.ycombinator.com/item?id=35883891"
     ],
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2023-05-09, 23:06:48",
-      "https://news.ycombinator.com/item?id=35881520"
-    ],
-    [
-      "File Locks on Linux",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/FlockFcntlAndNFS"
-    ]
-  ],
-  [
-    [
       "2023-05-09, 22:28:44",
       "https://news.ycombinator.com/item?id=35881170"
     ],
     [
       "The AT protocol is the most obtuse crock of shit",
       "https://urbanists.social/@sam/110339902538138997"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 21:02:06",
-      "https://news.ycombinator.com/item?id=35880345"
-    ],
-    [
-      "Aptible (YC S14) Is Hiring: Security Engineer and Head of Product",
-      "https://news.ycombinator.com/item?id=35880345"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 20:02:15",
-      "https://news.ycombinator.com/item?id=35879660"
-    ],
-    [
-      "Linux kernel use-after-free in Netfilter, local privilege escalation",
-      "https://seclists.org/oss-sec/2023/q2/133"
     ]
   ],
   [
