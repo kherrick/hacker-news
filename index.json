@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-05-10, 11:42:18",
+      "https://news.ycombinator.com/item?id=35886033"
+    ],
+    [
+      "Try Galaxy: A web app to demo Samsung’s OS on an iPhone",
+      "https://trygalaxy.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 11:01:25",
+      "https://news.ycombinator.com/item?id=35885797"
+    ],
+    [
+      "The Leverage of LLMs for Individuals",
+      "https://mazzzystar.github.io/2023/05/10/LLM-for-individual/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 10:28:39",
+      "https://news.ycombinator.com/item?id=35885638"
+    ],
+    [
+      "Running a Movie Theater Is More Expensive Than You Can Possibly Imagine",
+      "https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 08:30:03",
       "https://news.ycombinator.com/item?id=35885066"
     ],
@@ -207,36 +237,6 @@
     [
       "Linux kernel use-after-free in Netfilter, local privilege escalation",
       "https://seclists.org/oss-sec/2023/q2/133"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 19:58:51",
-      "https://news.ycombinator.com/item?id=35879628"
-    ],
-    [
-      "In Erlang&#x2F;OTP 27, +0.0 will no longer be exactly equal to -0.0",
-      "https://erlangforums.com/t/in-erlang-otp-27-0-0-will-no-longer-be-exactly-equal-to-0-0/2586"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 19:05:48",
-      "https://news.ycombinator.com/item?id=35878961"
-    ],
-    [
-      "Is sequential IO dead in the era of the NVMe drive?",
-      "https://jack-vanlightly.com/blog/2023/5/9/is-sequential-io-dead-in-the-era-of-the-nvme-drive"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 18:02:23",
-      "https://news.ycombinator.com/item?id=35878124"
-    ],
-    [
-      "Show HN: Engineering Book Club",
-      "https://www.engineeringbookclub.com/"
     ]
   ],
   [
