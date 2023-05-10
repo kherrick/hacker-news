@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-10, 18:20:50",
+      "https://news.ycombinator.com/item?id=35891259"
+    ],
+    [
+      "Svelte is migrating from TypeScript to JSDoc",
+      "https://github.com/sveltejs/svelte/pull/8569"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 18:12:37",
+      "https://news.ycombinator.com/item?id=35891154"
+    ],
+    [
+      "Google Bard now open to use",
+      "https://bard.google.com/?hl=en"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 17:47:48",
       "https://news.ycombinator.com/item?id=35890784"
     ],
@@ -115,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35887983"
     ],
     [
-      "Abusing Vector Search for Texts, Maps, and Chess",
+      "Abusing vector search for texts, maps, and chess",
       "https://ashvardanian.com/posts/abusing-vector-search/"
     ]
   ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2023-05-10, 14:18:31",
-      "https://news.ycombinator.com/item?id=35887734"
-    ],
-    [
-      "Helion’s fusion power purchase agreement with Microsoft",
-      "https://www.helionenergy.com/articles/announcing-helion-fusion-ppa-with-microsoft-constellation/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 14:13:42",
       "https://news.ycombinator.com/item?id=35887680"
     ],
     [
       "Extending web applications with WebAssembly and Python",
       "https://wasmlabs.dev/articles/wasm-host-to-python/"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 13:51:12",
-      "https://news.ycombinator.com/item?id=35887349"
-    ],
-    [
-      "Shining the Light on Baby Crabs",
-      "https://hakaimagazine.com/features/shining-the-light-on-baby-crabs/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-05-10, 05:15:50",
-      "https://news.ycombinator.com/item?id=35883891"
-    ],
-    [
-      "An experimental editor for WebGPU compute shaders",
-      "https://compute.toys/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 04:55:31",
       "https://news.ycombinator.com/item?id=35883777"
     ],
     [
       "Large Photonic Processor Solves Graph Problems",
       "https://physics.aps.org/articles/v16/s64"
+    ]
+  ],
+  [
+    [
+      "2023-05-09, 13:19:04",
+      "https://news.ycombinator.com/item?id=35873887"
+    ],
+    [
+      "Show HN: Mineo.app – Better Python Notebooks",
+      "https://www.mineo.app/"
     ]
   ]
 ]
