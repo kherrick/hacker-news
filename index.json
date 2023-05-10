@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35891259"
     ],
     [
-      "Svelte is migrating from TypeScript to JSDoc",
+      "TS to JSDoc Conversion",
       "https://github.com/sveltejs/svelte/pull/8569"
     ]
   ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2023-05-10, 07:59:52",
-      "https://news.ycombinator.com/item?id=35884875"
+      "2023-05-10, 08:20:46",
+      "https://news.ycombinator.com/item?id=35885004"
     ],
     [
-      "Foundations for the Study of Software Architecture (1992) [pdf]",
-      "http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf"
+      "Dynamic Branch Prediction with Perceptrons (2000) [pdf]",
+      "https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf"
     ]
   ],
   [
