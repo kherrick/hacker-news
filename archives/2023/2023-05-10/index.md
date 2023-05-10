@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 17:47:48](https://news.ycombinator.com/item?id=35890784) - [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
+* [2023-05-10, 17:29:28](https://news.ycombinator.com/item?id=35890554) - [Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
 * [2023-05-10, 17:00:08](https://news.ycombinator.com/item?id=35890114) - [Aviator (YC S21) is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 * [2023-05-10, 16:33:41](https://news.ycombinator.com/item?id=35889743) - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
 * [2023-05-10, 16:31:01](https://news.ycombinator.com/item?id=35889709) - [Microsoft Freezes Salaries for 2023](https://twitter.com/tomwarren/status/1656331173390327811)
@@ -41,6 +43,7 @@
 * [2023-05-10, 09:26:31](https://news.ycombinator.com/item?id=35885342) - [My friends who cheated in interviews are getting promoted](https://www.teamblind.com/post/My-friends-who-cheated-in-interviews-are-getting-promoted-😡😡😡😡-XnYM4nLs)
 * [2023-05-10, 08:30:03](https://news.ycombinator.com/item?id=35885066) - [IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
 * [2023-05-10, 08:20:46](https://news.ycombinator.com/item?id=35885004) - [Dynamic Branch Prediction with Perceptrons [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
+* [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 06:22:49](https://news.ycombinator.com/item?id=35884272) - [Punctuation Personified (1824)](https://publicdomainreview.org/collection/punctuation-personified)

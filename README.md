@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 17:47:48](https://news.ycombinator.com/item?id=35890784) - [Cedar Policy Language Is Now Open Source](https://www.cedarpolicy.com/en)
+* [2023-05-10, 17:29:28](https://news.ycombinator.com/item?id=35890554) - [Reverse engineering Dell iDRAC to get rid of GPU throttling](https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling)
 * [2023-05-10, 17:00:08](https://news.ycombinator.com/item?id=35890114) - [Aviator (YC S21) is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 * [2023-05-10, 16:33:41](https://news.ycombinator.com/item?id=35889743) - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
 * [2023-05-10, 16:31:01](https://news.ycombinator.com/item?id=35889709) - [Microsoft Freezes Salaries for 2023](https://twitter.com/tomwarren/status/1656331173390327811)
@@ -21,15 +23,13 @@
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
 * [2023-05-10, 11:01:25](https://news.ycombinator.com/item?id=35885797) - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
-* [2023-05-10, 09:26:31](https://news.ycombinator.com/item?id=35885342) - [My friends who cheated in interviews are getting promoted (2022)](https://www.teamblind.com/post/My-friends-who-cheated-in-interviews-are-getting-promoted-😡😡😡😡-XnYM4nLs)
 * [2023-05-10, 08:30:03](https://news.ycombinator.com/item?id=35885066) - [IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
+* [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 05:50:14](https://news.ycombinator.com/item?id=35884083) - [TwinBASIC is a modern BASIC compiler](https://twinbasic.com/preview.html)
-* [2023-05-10, 05:18:22](https://news.ycombinator.com/item?id=35883910) - [Random bit-flip invalidates certificate transparency log – again?](https://groups.google.com/a/chromium.org/g/ct-policy/c/S17_j-WJ6dI)
 * [2023-05-10, 05:15:50](https://news.ycombinator.com/item?id=35883891) - [An experimental editor for WebGPU compute shaders](https://compute.toys/)
 * [2023-05-10, 04:55:31](https://news.ycombinator.com/item?id=35883777) - [Large Photonic Processor Solves Graph Problems](https://physics.aps.org/articles/v16/s64)
-* [2023-05-09, 12:59:39](https://news.ycombinator.com/item?id=35873686) - [Darvaza Gas Crater](https://en.wikipedia.org/wiki/Darvaza_gas_crater)
 
 ## [Archives](archives/index.md)
 
