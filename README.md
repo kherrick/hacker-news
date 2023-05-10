@@ -24,12 +24,12 @@
 * [2023-05-09, 16:45:43](https://news.ycombinator.com/item?id=35877051) - [Ten Thousand Ways to Use Chopsticks](https://marcosticks.org/ten-thousand-ways/)
 * [2023-05-09, 16:18:56](https://news.ycombinator.com/item?id=35876635) - [Polya Urn Simulation](https://observablehq.com/@cmoog/polya-urn-simulation)
 * [2023-05-09, 15:22:24](https://news.ycombinator.com/item?id=35875736) - [Mechanical backpack boosts the sensation of jumping in virtual reality](https://www.newscientist.com/article/2371594-mechanical-backpack-boosts-the-sensation-of-jumping-in-virtual-reality/)
-* [2023-05-09, 14:19:14](https://news.ycombinator.com/item?id=35874704) - [James Webb Space Telescope reveals Fomalhaut&#x27;s disk in detail](https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/)
+* [2023-05-09, 13:14:02](https://news.ycombinator.com/item?id=35873829) - [A Business Card Universal Turing Machine (2019) [pdf]](http://alvyray.com/CreativeCommons/BizCardUniversalTuringMachine_v1.7.pdf)
 * [2023-05-09, 13:02:49](https://news.ycombinator.com/item?id=35873714) - [Cheshire: A Lightweight, Linux-Capable RISC-V Host Platform](https://arxiv.org/abs/2305.04760)
+* [2023-05-09, 12:59:39](https://news.ycombinator.com/item?id=35873686) - [Darvaza Gas Crater](https://en.wikipedia.org/wiki/Darvaza_gas_crater)
 * [2023-05-09, 11:35:44](https://news.ycombinator.com/item?id=35872758) - [Lotus 1-2-3](https://lock.cmpxchg8b.com/lotus123.html)
 * [2023-05-09, 11:23:13](https://news.ycombinator.com/item?id=35872647) - [What is permaculture? (2015)](https://www.permaculturedesignmagazine.com/what-is-permaculture)
 * [2023-05-08, 22:45:32](https://news.ycombinator.com/item?id=35867939) - [The Bronze Age has never looked stronger](https://www.thechatner.com/p/its-1178-bce-and-the-bronze-age-has)
-* [2023-05-08, 12:39:38](https://news.ycombinator.com/item?id=35860892) - [The Inventor of Magical Realism](https://www.nybooks.com/articles/2023/05/25/the-inventor-of-magical-realism-mr-president-asturias/)
 
 ## [Archives](archives/index.md)
 
