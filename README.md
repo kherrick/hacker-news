@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-10, 19:25:52](https://news.ycombinator.com/item?id=35892246) - [Why I&#x27;m done with Mouser Electronics](https://lcamtuf.substack.com/p/why-im-done-with-mouser-electronics)
 * [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
 * [2023-05-10, 18:27:34](https://news.ycombinator.com/item?id=35891362) - [Psychoactive Substance Use by Professional Programmers](https://arxiv.org/abs/2305.01056)
 * [2023-05-10, 18:20:50](https://news.ycombinator.com/item?id=35891259) - [Svelte is migrating from TypeScript to JSDoc](https://github.com/sveltejs/svelte/pull/8569)
@@ -12,7 +13,6 @@
 * [2023-05-10, 16:16:00](https://news.ycombinator.com/item?id=35889507) - [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 * [2023-05-10, 15:10:19](https://news.ycombinator.com/item?id=35888509) - [Infosec company owned completely by 4chan user](https://maia.crimew.gay/posts/optimeyes-leak/)
-* [2023-05-10, 14:37:48](https://news.ycombinator.com/item?id=35888024) - [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
 * [2023-05-10, 14:20:27](https://news.ycombinator.com/item?id=35887766) - [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
 * [2023-05-10, 14:13:42](https://news.ycombinator.com/item?id=35887680) - [Extending web applications with WebAssembly and Python](https://wasmlabs.dev/articles/wasm-host-to-python/)
 * [2023-05-10, 13:16:21](https://news.ycombinator.com/item?id=35886900) - [Ask HN: What is new in Algorithms &#x2F; Data Structures these days?](https://news.ycombinator.com/item?id=35886900)
