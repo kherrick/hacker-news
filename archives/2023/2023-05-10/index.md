@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 17:00:08](https://news.ycombinator.com/item?id=35890114) - [Aviator (YC S21) is hiring senior engineers to build the DX platform](https://www.aviator.co/jobs)
 * [2023-05-10, 16:33:41](https://news.ycombinator.com/item?id=35889743) - [Hugging Face Releases Agents](https://huggingface.co/docs/transformers/transformers_agents)
 * [2023-05-10, 16:25:11](https://news.ycombinator.com/item?id=35889627) - [Ask HN: Resources to Grow Breadth and Depth as a Software Engineer?](https://news.ycombinator.com/item?id=35889627)
 * [2023-05-10, 16:16:00](https://news.ycombinator.com/item?id=35889507) - [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
+* [2023-05-10, 16:03:58](https://news.ycombinator.com/item?id=35889335) - [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
 * [2023-05-10, 16:03:06](https://news.ycombinator.com/item?id=35889319) - [Spain asks US to clean up site of 1966 nuclear accident](https://www.foxnews.com/world/spain-asks-us-clean-1966-nuclear-accident-site)
 * [2023-05-10, 15:46:43](https://news.ycombinator.com/item?id=35889056) - [Since Go 1.22, loop {for I, p:= 0, new(int); p = &amp;I; {p = &amp;I}} might never exit](https://old.reddit.com/r/golang/comments/13dkikn/since_go_122_the_loop_for_i_p_0_newint_p_i_p_i/)
 * [2023-05-10, 15:32:14](https://news.ycombinator.com/item?id=35888853) - [GitHub&#x27;s New Code Search Is Bad for Finding Code](https://stackdiary.com/githubs-new-code-search-is-bad/)
@@ -28,6 +30,7 @@
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
 * [2023-05-10, 12:31:43](https://news.ycombinator.com/item?id=35886409) - [Departing Cook County Prosecutor&#x27;s Searing Exit Letter](https://www.chicagocontrarian.com/blog/departing-cook-county-prosecutor-upbraids-kim-foxx-in-searing-exit-letter)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
+* [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [Why does no one have a favorite instrumentalist anymore?](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)
 * [2023-05-10, 12:14:42](https://news.ycombinator.com/item?id=35886235) - [“GDPR compliant” analytics is probably violating GDPR](https://pilcrow.vercel.app/blog/gdpr-analytics)
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
