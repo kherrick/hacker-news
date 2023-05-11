@@ -16,7 +16,6 @@
 * [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 * [2023-05-10, 21:51:21](https://news.ycombinator.com/item?id=35894004) - [Heather Armstrong has died](https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html)
 * [2023-05-10, 21:45:47](https://news.ycombinator.com/item?id=35893952) - [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
-* [2023-05-10, 21:44:03](https://news.ycombinator.com/item?id=35893939) - [Google I&#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
 * [2023-05-10, 21:00:10](https://news.ycombinator.com/item?id=35893439) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-05-10, 19:45:03](https://news.ycombinator.com/item?id=35892512) - [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
 * [2023-05-10, 19:29:04](https://news.ycombinator.com/item?id=35892286) - [Google Pixel Fold](https://store.google.com/us/product/pixel_fold)
@@ -28,6 +27,7 @@
 * [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [The decline and fall of the hit instrumental song](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)
 * [2023-05-10, 10:46:05](https://news.ycombinator.com/item?id=35885717) - [How I developed a faster Ruby interpreter (2022)](https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter)
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
+* [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 06:29:20](https://news.ycombinator.com/item?id=35884305) - [Pragmatic Writing Advice from the 6th Century](https://www.laphamsquarterly.org/roundtable/lower-your-expectations)
 * [2023-05-09, 08:07:06](https://news.ycombinator.com/item?id=35871462) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 
