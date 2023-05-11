@@ -10,6 +10,7 @@
 * [2023-05-11, 01:44:37](https://news.ycombinator.com/item?id=35896240) - [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
 * [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
 * [2023-05-11, 01:37:16](https://news.ycombinator.com/item?id=35896176) - [Google Earth 3D Models Now Available as Open Standard (GlTF)](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
+* [2023-05-11, 00:54:22](https://news.ycombinator.com/item?id=35895840) - [Supertokens: Open-Source Alternative to Auth0 &#x2F; Firebase Auth &#x2F; AWS Cognito](https://github.com/supertokens/supertokens-core)
 * [2023-05-11, 00:22:56](https://news.ycombinator.com/item?id=35895550) - [Microsoft&#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
 * [2023-05-11, 00:08:39](https://news.ycombinator.com/item?id=35895417) - [Scientists Regenerate Hair Cells That Enable Hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
@@ -28,7 +29,6 @@
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 06:29:20](https://news.ycombinator.com/item?id=35884305) - [Pragmatic Writing Advice from the 6th Century](https://www.laphamsquarterly.org/roundtable/lower-your-expectations)
-* [2023-05-09, 13:19:04](https://news.ycombinator.com/item?id=35873887) - [Show HN: Mineo.app – Better Python Notebooks](https://www.mineo.app/)
 * [2023-05-09, 08:07:06](https://news.ycombinator.com/item?id=35871462) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 
 ## [Archives](archives/index.md)
