@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 03:54:02](https://news.ycombinator.com/item?id=35897198) - [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
 * [2023-05-11, 03:50:10](https://news.ycombinator.com/item?id=35897170) - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 03:28:38](https://news.ycombinator.com/item?id=35896990) - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
