@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-11, 18:21:26](https://news.ycombinator.com/item?id=35906135) - [SoftBank Vision funds post record $39B annual loss](https://www.ft.com/content/1dd470c2-be80-4887-83cc-87be93100a12)
 * [2023-05-11, 18:14:50](https://news.ycombinator.com/item?id=35906037) - [US iPhone market share up, in declining market, as people switch from Android](https://9to5mac.com/2023/05/10/us-iphone-market-share/)
 * [2023-05-11, 18:02:28](https://news.ycombinator.com/item?id=35905858) - [Programing Best Practices 2023](https://github.com/dereknguyen269/programing-best-practices-2023)
 * [2023-05-11, 17:46:35](https://news.ycombinator.com/item?id=35905624) - [Why I Blog](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
@@ -27,7 +28,6 @@
 * [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
 * [2023-05-10, 22:13:12](https://news.ycombinator.com/item?id=35894199) - [When Hay Was King: Energy History and Economic Nationalism in the 19th C. USA](https://academic.oup.com/ahr/article-abstract/128/1/177/7098054)
 * [2023-05-10, 20:36:17](https://news.ycombinator.com/item?id=35893133) - [As the California sea lion population got bigger, so did male sea lions](https://news.ucsc.edu/2023/04/sea-lion-size.html)
-* [2023-05-10, 12:23:51](https://news.ycombinator.com/item?id=35886334) - [A team of sleuths quietly hunting cyberattack-for-hire services](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The History of Fire Escapes (2018)](https://noidea.dog/#/fires/)
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 
