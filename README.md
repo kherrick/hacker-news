@@ -13,7 +13,7 @@
 * [2023-05-11, 01:37:16](https://news.ycombinator.com/item?id=35896176) - [Google Earth 3D Models Now Available as Open Standard (GlTF)](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
 * [2023-05-11, 01:22:25](https://news.ycombinator.com/item?id=35896060) - [The role of meat in the human diet: evolutionary aspects and nutritional value](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10105836/)
 * [2023-05-11, 00:54:22](https://news.ycombinator.com/item?id=35895840) - [Supertokens: Open-Source Alternative to Auth0 &#x2F; Firebase Auth &#x2F; AWS Cognito](https://github.com/supertokens/supertokens-core)
-* [2023-05-11, 00:08:39](https://news.ycombinator.com/item?id=35895417) - [Scientists Regenerate Hair Cells That Enable Hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
+* [2023-05-11, 00:08:39](https://news.ycombinator.com/item?id=35895417) - [Scientists regenerate hair cells that enable hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 * [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 * [2023-05-10, 21:45:47](https://news.ycombinator.com/item?id=35893952) - [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
