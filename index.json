@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-05-10, 21:00:10",
-      "https://news.ycombinator.com/item?id=35893439"
-    ],
-    [
-      "QuestDB (YC S20) Is Hiring a Technical Content Lead",
-      "https://questdb.io/careers/technical-content-lead/"
-    ]
-  ],
-  [
-    [
       "2023-05-10, 19:45:03",
       "https://news.ycombinator.com/item?id=35892512"
     ],
@@ -277,6 +267,16 @@
     [
       "50 Years in Filesystems: 1974 Unix V7",
       "https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 06:51:33",
+      "https://news.ycombinator.com/item?id=35884437"
+    ],
+    [
+      "See this page fetch itself, byte by byte, over TLS",
+      "https://subtls.pages.dev/"
     ]
   ],
   [
