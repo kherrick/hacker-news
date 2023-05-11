@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-11, 13:58:25](https://news.ycombinator.com/item?id=35902174) - [Mushrooms and sunlight for making Vitamin D supplement](https://fungi.com/blogs/articles/place-mushrooms-in-sunlight-to-get-your-vitamin-d)
+* [2023-05-11, 13:51:51](https://news.ycombinator.com/item?id=35902086) - [Ask HN: Resources for Older Developers?](https://news.ycombinator.com/item?id=35902086)
 * [2023-05-11, 13:34:30](https://news.ycombinator.com/item?id=35901790) - [Incident with Issues and Pull Requests](https://www.githubstatus.com/incidents/nf7s6933tnn8)
 * [2023-05-11, 13:32:09](https://news.ycombinator.com/item?id=35901760) - [NIH restarts bat virus grant](https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
@@ -8,7 +10,7 @@
 * [2023-05-11, 12:00:48](https://news.ycombinator.com/item?id=35900922) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-05-11, 11:57:57](https://news.ycombinator.com/item?id=35900907) - [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
-* [2023-05-11, 11:24:04](https://news.ycombinator.com/item?id=35900635) - [Fern leaves and cauliflower curds are not fractals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419012/)
+* [2023-05-11, 11:24:04](https://news.ycombinator.com/item?id=35900635) - [Fern leaves and cauliflower curds are not fractals (2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419012/)
 * [2023-05-11, 10:38:43](https://news.ycombinator.com/item?id=35900282) - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 09:05:01](https://news.ycombinator.com/item?id=35899642) - [Product design and UX design resources – Degreeless.Design](https://www.degreeless.design)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
@@ -21,15 +23,13 @@
 * [2023-05-11, 00:08:39](https://news.ycombinator.com/item?id=35895417) - [Scientists regenerate hair cells that enable hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 * [2023-05-10, 21:45:47](https://news.ycombinator.com/item?id=35893952) - [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
-* [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+* [2023-05-10, 20:36:17](https://news.ycombinator.com/item?id=35893133) - [As the California sea lion population got bigger, so did male sea lions](https://news.ucsc.edu/2023/04/sea-lion-size.html)
 * [2023-05-10, 17:57:25](https://news.ycombinator.com/item?id=35890926) - [The Erasmus Network](https://zarasophos.net/erasmus/)
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
-* [2023-05-10, 12:26:12](https://news.ycombinator.com/item?id=35886346) - [Anatomy of a Drum Machine (2012)](http://mickeydelp.com/blog/anatomy-of-a-drum-machine)
 * [2023-05-10, 12:23:51](https://news.ycombinator.com/item?id=35886334) - [Team of Sleuths Quietly Hunting Cyberattack-for-Hire Services for a Decade](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The history of fire escapes](https://noidea.dog/#/fires/)
 * [2023-05-10, 10:42:11](https://news.ycombinator.com/item?id=35885696) - [Researchers craft a fully edible battery](https://arstechnica.com/science/2023/05/researchers-craft-a-fully-edible-battery/)
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
-* [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
 
 ## [Archives](archives/index.md)
 

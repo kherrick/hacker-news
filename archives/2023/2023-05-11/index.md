@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 13:58:25](https://news.ycombinator.com/item?id=35902174) - [Mushrooms and sunlight for making Vitamin D supplement](https://fungi.com/blogs/articles/place-mushrooms-in-sunlight-to-get-your-vitamin-d)
+* [2023-05-11, 13:51:51](https://news.ycombinator.com/item?id=35902086) - [Ask HN: Resources for Older Developers?](https://news.ycombinator.com/item?id=35902086)
 * [2023-05-11, 13:34:30](https://news.ycombinator.com/item?id=35901790) - [Incident with Issues and Pull Requests](https://www.githubstatus.com/incidents/nf7s6933tnn8)
 * [2023-05-11, 13:32:09](https://news.ycombinator.com/item?id=35901760) - [NIH restarts bat virus grant](https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
