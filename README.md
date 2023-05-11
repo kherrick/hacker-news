@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-11, 22:29:20](https://news.ycombinator.com/item?id=35909203) - [YouTuber who staged plane crash faces up to 20 years jail](https://news.yahoo.com/youtuber-staged-plane-crash-faces-205718964.html)
 * [2023-05-11, 21:14:36](https://news.ycombinator.com/item?id=35908477) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
+* [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
+* [2023-05-11, 20:49:35](https://news.ycombinator.com/item?id=35908175) - [Ryujinx Progress Report April 2023 (Nintendo Switch Emulator)](https://blog.ryujinx.org/progress-report-april-2023/)
 * [2023-05-11, 20:45:02](https://news.ycombinator.com/item?id=35908120) - [Millions of mobile phones come pre-infected with malware, say researchers](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
 * [2023-05-11, 20:44:04](https://news.ycombinator.com/item?id=35908107) - [The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)
 * [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
@@ -21,15 +24,12 @@
 * [2023-05-11, 15:02:04](https://news.ycombinator.com/item?id=35903188) - [Understanding the power of bitwise operators](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
 * [2023-05-11, 14:40:22](https://news.ycombinator.com/item?id=35902820) - [Deluge – sequencer, synthesizer and sampler – goes open source](https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/)
 * [2023-05-11, 14:21:17](https://news.ycombinator.com/item?id=35902506) - [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
-* [2023-05-11, 13:46:03](https://news.ycombinator.com/item?id=35901981) - [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff Is Ready to Renounce the Digital Revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
 * [2023-05-11, 12:27:34](https://news.ycombinator.com/item?id=35901128) - [19th-century trippers who probed the mind](https://nautil.us/the-19th-century-trippers-who-probed-the-mind-303265/)
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 07:37:50](https://news.ycombinator.com/item?id=35899020) - [32-Bit DOS Applications](https://www.youtube.com/watch?v=EDl9qBZ9Bb0)
-* [2023-05-10, 20:36:17](https://news.ycombinator.com/item?id=35893133) - [As the California sea lion population got bigger, so did male sea lions](https://news.ucsc.edu/2023/04/sea-lion-size.html)
-* [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The History of Fire Escapes (2018)](https://noidea.dog/#/fires/)
 
 ## [Archives](archives/index.md)
 

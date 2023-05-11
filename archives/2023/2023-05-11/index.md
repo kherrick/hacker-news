@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 22:29:20](https://news.ycombinator.com/item?id=35909203) - [YouTuber who staged plane crash faces up to 20 years jail](https://news.yahoo.com/youtuber-staged-plane-crash-faces-205718964.html)
 * [2023-05-11, 21:14:36](https://news.ycombinator.com/item?id=35908477) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
 * [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Google Announces Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
+* [2023-05-11, 20:49:35](https://news.ycombinator.com/item?id=35908175) - [Ryujinx Progress Report April 2023 (Nintendo Switch Emulator)](https://blog.ryujinx.org/progress-report-april-2023/)
 * [2023-05-11, 20:45:02](https://news.ycombinator.com/item?id=35908120) - [Millions of mobile phones come pre-infected with malware, say researchers](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
 * [2023-05-11, 20:44:04](https://news.ycombinator.com/item?id=35908107) - [The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)
 * [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
