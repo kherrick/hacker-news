@@ -35,6 +35,7 @@
 * [2023-05-10, 16:16:00](https://news.ycombinator.com/item?id=35889507) - [The Missing App Economy](https://icing.space/2022/the-missing-app-economy)
 * [2023-05-10, 16:03:58](https://news.ycombinator.com/item?id=35889335) - [How and why we acquired our .com domain](https://www.advaitruia.com/p/how-and-why-we-acquired-our-com-domain)
 * [2023-05-10, 16:03:06](https://news.ycombinator.com/item?id=35889319) - [Spain asks US to clean up site of 1966 nuclear accident](https://www.foxnews.com/world/spain-asks-us-clean-1966-nuclear-accident-site)
+* [2023-05-10, 15:47:51](https://news.ycombinator.com/item?id=35889074) - [Remembering the Golden Age of Airline Food](https://www.atlasobscura.com/articles/airline-food-history)
 * [2023-05-10, 15:46:43](https://news.ycombinator.com/item?id=35889056) - [Since Go 1.22, loop {for I, p:= 0, new(int); p = &amp;I; {p = &amp;I}} might never exit](https://old.reddit.com/r/golang/comments/13dkikn/since_go_122_the_loop_for_i_p_0_newint_p_i_p_i/)
 * [2023-05-10, 15:32:14](https://news.ycombinator.com/item?id=35888853) - [GitHub&#x27;s New Code Search Is Bad for Finding Code](https://stackdiary.com/githubs-new-code-search-is-bad/)
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
