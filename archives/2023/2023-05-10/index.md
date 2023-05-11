@@ -78,6 +78,7 @@
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 * [2023-05-10, 08:20:46](https://news.ycombinator.com/item?id=35885004) - [Dynamic Branch Prediction with Perceptrons [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
 * [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
+* [2023-05-10, 07:47:58](https://news.ycombinator.com/item?id=35884803) - [Should we take measurements at an intermediate design point? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/27.pdf)
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
