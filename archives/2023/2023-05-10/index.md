@@ -65,6 +65,7 @@
 * [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:42:18](https://news.ycombinator.com/item?id=35886033) - [Try Galaxy: A web app to demo Samsung’s OS on an iPhone](https://trygalaxy.com/)
 * [2023-05-10, 11:37:04](https://news.ycombinator.com/item?id=35885999) - [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
+* [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The history of fire escapes](https://noidea.dog/#/fires/)
 * [2023-05-10, 11:14:24](https://news.ycombinator.com/item?id=35885872) - [The World’s Greatest Freediver (2021)](https://www.gq.com/story/freediver-alexey-molchanov-profile)
 * [2023-05-10, 11:01:25](https://news.ycombinator.com/item?id=35885797) - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
 * [2023-05-10, 10:46:05](https://news.ycombinator.com/item?id=35885717) - [How I developed a faster Ruby interpreter](https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter)

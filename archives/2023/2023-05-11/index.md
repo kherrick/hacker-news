@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 03:54:02](https://news.ycombinator.com/item?id=35897198) - [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
 * [2023-05-11, 03:50:10](https://news.ycombinator.com/item?id=35897170) - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
