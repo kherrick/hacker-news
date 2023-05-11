@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 19:54:07](https://news.ycombinator.com/item?id=35907564) - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
+* [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
+* [2023-05-11, 19:42:26](https://news.ycombinator.com/item?id=35907398) - [A rarely mentioned benefit of YC is Work At A Startup](https://twitter.com/collinjpham/status/1656078482407927809)
+* [2023-05-11, 19:24:41](https://news.ycombinator.com/item?id=35907155) - [Hobson&#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
+* [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based Self-hosted App Deployment](https://github.com/ibracorp/ibramenu)
 * [2023-05-11, 18:52:47](https://news.ycombinator.com/item?id=35906604) - [Ask HN: It&#x27;s 2023, how do you choose between MySQL and Postgres?](https://news.ycombinator.com/item?id=35906604)
 * [2023-05-11, 18:32:11](https://news.ycombinator.com/item?id=35906292) - [TP-7](https://teenage.engineering/products/tp-7)
 * [2023-05-11, 18:21:26](https://news.ycombinator.com/item?id=35906135) - [SoftBank Vision funds post record $39B annual loss](https://www.ft.com/content/1dd470c2-be80-4887-83cc-87be93100a12)
