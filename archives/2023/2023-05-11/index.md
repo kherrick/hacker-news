@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 15:52:21](https://news.ycombinator.com/item?id=35903956) - [May Flowers Spring COSMIC Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
 * [2023-05-11, 15:16:40](https://news.ycombinator.com/item?id=35903394) - [Automating the capture of airplane pictures with Raspberry Pi&#x2F;ADS-B&#x2F;IoT software](https://medium.com/@arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea)
 * [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 15:07:03](https://news.ycombinator.com/item?id=35903267) - [Turkish presidential candidate quits race after release of alleged sex tape](https://www.theguardian.com/world/2023/may/11/muharrem-ince-turkish-presidential-candidate-withdraws-alleged-sex-tape)
+* [2023-05-11, 15:02:04](https://news.ycombinator.com/item?id=35903188) - [Understanding the Power of Bitwise Operators. No Math Needed](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
 * [2023-05-11, 14:58:45](https://news.ycombinator.com/item?id=35903139) - [World ‘way off track’ from climate goal](https://news.harvard.edu/gazette/story/2023/05/world-way-offtrack-on-climate-goal-says-john-kerry/)
 * [2023-05-11, 14:53:20](https://news.ycombinator.com/item?id=35903056) - [Isgithub.live](https://isgithub.live/)
 * [2023-05-11, 14:24:15](https://news.ycombinator.com/item?id=35902543) - [AI Will Create More Developers, Not Less](https://interconnect.substack.com/p/ai-will-create-more-developers-not)
