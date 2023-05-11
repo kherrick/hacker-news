@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-11, 21:14:36](https://news.ycombinator.com/item?id=35908477) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
 * [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Google Announces Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
+* [2023-05-11, 20:45:02](https://news.ycombinator.com/item?id=35908120) - [Millions of mobile phones come pre-infected with malware, say researchers](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
 * [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 * [2023-05-11, 19:54:07](https://news.ycombinator.com/item?id=35907564) - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
 * [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
-* [2023-05-11, 19:42:26](https://news.ycombinator.com/item?id=35907398) - [A rarely mentioned benefit of YC is Work At A Startup](https://twitter.com/collinjpham/status/1656078482407927809)
 * [2023-05-11, 19:24:41](https://news.ycombinator.com/item?id=35907155) - [Hobson&#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
 * [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based Self-hosted App Deployment](https://github.com/ibracorp/ibramenu)
 * [2023-05-11, 18:52:47](https://news.ycombinator.com/item?id=35906604) - [Ask HN: It&#x27;s 2023, how do you choose between MySQL and Postgres?](https://news.ycombinator.com/item?id=35906604)
@@ -28,7 +29,6 @@
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 07:37:50](https://news.ycombinator.com/item?id=35899020) - [32-Bit DOS Applications](https://www.youtube.com/watch?v=EDl9qBZ9Bb0)
-* [2023-05-10, 20:36:17](https://news.ycombinator.com/item?id=35893133) - [As the California sea lion population got bigger, so did male sea lions](https://news.ucsc.edu/2023/04/sea-lion-size.html)
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The History of Fire Escapes (2018)](https://noidea.dog/#/fires/)
 
 ## [Archives](archives/index.md)
