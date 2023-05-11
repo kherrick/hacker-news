@@ -4,7 +4,6 @@
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
 * [2023-05-11, 16:14:47](https://news.ycombinator.com/item?id=35904320) - [BBEdit is 30 years old](https://www.barebones.com/store/)
-* [2023-05-11, 15:55:09](https://news.ycombinator.com/item?id=35904008) - [Scientists find enzyme that can make electricity out of tiny amounts of hydrogen](https://www.abc.net.au/news/2023-03-09/monash-university-air-electricity-enzyme-soil/102071786)
 * [2023-05-11, 15:52:21](https://news.ycombinator.com/item?id=35903956) - [May Flowers Spring COSMIC Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
 * [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 15:02:04](https://news.ycombinator.com/item?id=35903188) - [Understanding the power of bitwise operators](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
@@ -29,6 +28,7 @@
 * [2023-05-10, 17:57:25](https://news.ycombinator.com/item?id=35890926) - [The Erasmus Network](https://zarasophos.net/erasmus/)
 * [2023-05-10, 12:23:51](https://news.ycombinator.com/item?id=35886334) - [A team of sleuths quietly hunting cyberattack-for-hire services](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The History of Fire Escapes (2018)](https://noidea.dog/#/fires/)
+* [2023-05-10, 11:12:10](https://news.ycombinator.com/item?id=35885859) - [New Philips Monitor Features an E-Paper Side Panel](https://www.tomshardware.com/news/new-philips-monitor-features-an-e-paper-side-panel)
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 
 ## [Archives](archives/index.md)
