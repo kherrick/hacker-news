@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-05-11, 13:32:09",
+      "https://news.ycombinator.com/item?id=35901760"
+    ],
+    [
+      "NIH restarts bat virus grant",
+      "https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 13:12:37",
+      "https://news.ycombinator.com/item?id=35901538"
+    ],
+    [
+      "A transformer-based method for zero and few-shot biomedical NER",
+      "https://arxiv.org/abs/2305.04928"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 13:08:24",
       "https://news.ycombinator.com/item?id=35901493"
     ],
@@ -61,6 +81,16 @@
   ],
   [
     [
+      "2023-05-11, 11:24:04",
+      "https://news.ycombinator.com/item?id=35900635"
+    ],
+    [
+      "Fern leaves and cauliflower curds are not fractals",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419012/"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 10:38:43",
       "https://news.ycombinator.com/item?id=35900282"
     ],
@@ -107,16 +137,6 @@
     [
       "Go with PHP",
       "https://gowithphp.com/"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 02:17:31",
-      "https://news.ycombinator.com/item?id=35896505"
-    ],
-    [
-      "Windows 11 in Svelte",
-      "https://github.com/yashash-pugalia/win11-svelte"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "50 Years in Filesystems: 1974 Unix V7",
       "https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 06:51:33",
-      "https://news.ycombinator.com/item?id=35884437"
-    ],
-    [
-      "See this page fetch itself, byte by byte, over TLS",
-      "https://subtls.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-09, 08:07:06",
-      "https://news.ycombinator.com/item?id=35871462"
-    ],
-    [
-      "Story: Redis and its creator antirez",
-      "https://blog.brachiosoft.com/redis-en"
     ]
   ]
 ]
