@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-11, 03:54:02",
-      "https://news.ycombinator.com/item?id=35897198"
-    ],
-    [
-      "Qubits 30 meters apart used to confirm Einstein was wrong about quantum",
-      "https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/"
-    ]
-  ],
-  [
-    [
       "2023-05-11, 03:46:55",
       "https://news.ycombinator.com/item?id=35897146"
     ],
@@ -31,12 +21,12 @@
   ],
   [
     [
-      "2023-05-11, 03:23:16",
-      "https://news.ycombinator.com/item?id=35896954"
+      "2023-05-11, 03:26:00",
+      "https://news.ycombinator.com/item?id=35896971"
     ],
     [
-      "Go with PHP",
-      "https://gowithphp.com/"
+      "Startups Are Scooping Up Big Tech’s Cast-Off Workers",
+      "https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35"
     ]
   ],
   [
@@ -261,22 +251,32 @@
   ],
   [
     [
+      "2023-05-10, 08:26:54",
+      "https://news.ycombinator.com/item?id=35885046"
+    ],
+    [
+      "Protocol Wars",
+      "https://en.wikipedia.org/wiki/Protocol_Wars"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 07:59:52",
+      "https://news.ycombinator.com/item?id=35884875"
+    ],
+    [
+      "Foundations for the Study of Software Architecture (1992) [pdf]",
+      "http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-10, 07:22:59",
       "https://news.ycombinator.com/item?id=35884667"
     ],
     [
       "50 Years in Filesystems: 1974 Unix V7",
       "https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 06:51:33",
-      "https://news.ycombinator.com/item?id=35884437"
-    ],
-    [
-      "See this page fetch itself, byte by byte, over TLS",
-      "https://subtls.pages.dev/"
     ]
   ],
   [
