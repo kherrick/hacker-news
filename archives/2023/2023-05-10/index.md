@@ -7,6 +7,7 @@
 * [2023-05-10, 23:28:16](https://news.ycombinator.com/item?id=35895005) - [Telegram deletes message against Brazil’s Bill after Supreme Court threat](https://www.riotimesonline.com/brazil-news/brazil/telegram-deletes-message-against-fake-news-censorship-bill-after-supreme-court-threat/)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 * [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
+* [2023-05-10, 22:13:12](https://news.ycombinator.com/item?id=35894199) - [When Hay Was King: Energy History and Economic Nationalism in the 19th C. USA](https://academic.oup.com/ahr/article-abstract/128/1/177/7098054)
 * [2023-05-10, 21:56:16](https://news.ycombinator.com/item?id=35894039) - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
 * [2023-05-10, 21:52:18](https://news.ycombinator.com/item?id=35894010) - [What if we covered every warehouse in the mountain West with solar panels?](https://www.kunr.org/energy-and-environment/2023-05-03/what-if-we-covered-every-warehouse-mountain-west-solar-panels)
 * [2023-05-10, 21:51:21](https://news.ycombinator.com/item?id=35894004) - [Heather Armstrong has died](https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html)

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 15:07:03](https://news.ycombinator.com/item?id=35903267) - [Turkish presidential candidate quits race after release of alleged sex tape](https://www.theguardian.com/world/2023/may/11/muharrem-ince-turkish-presidential-candidate-withdraws-alleged-sex-tape)
+* [2023-05-11, 14:58:45](https://news.ycombinator.com/item?id=35903139) - [World ‘way off track’ from climate goal](https://news.harvard.edu/gazette/story/2023/05/world-way-offtrack-on-climate-goal-says-john-kerry/)
+* [2023-05-11, 14:24:15](https://news.ycombinator.com/item?id=35902543) - [AI Will Create More Developers, Not Less](https://interconnect.substack.com/p/ai-will-create-more-developers-not)
 * [2023-05-11, 14:21:17](https://news.ycombinator.com/item?id=35902506) - [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
 * [2023-05-11, 13:58:25](https://news.ycombinator.com/item?id=35902174) - [Mushrooms and sunlight for making Vitamin D supplement](https://fungi.com/blogs/articles/place-mushrooms-in-sunlight-to-get-your-vitamin-d)
 * [2023-05-11, 13:51:51](https://news.ycombinator.com/item?id=35902086) - [Ask HN: Resources for Older Developers?](https://news.ycombinator.com/item?id=35902086)
@@ -11,6 +14,7 @@
 * [2023-05-11, 13:40:00](https://news.ycombinator.com/item?id=35901881) - [Basic Physics of Rowing](http://eodg.atm.ox.ac.uk/user/dudhia/rowing/physics/basics.html)
 * [2023-05-11, 13:34:30](https://news.ycombinator.com/item?id=35901790) - [Incident with Issues and Pull Requests](https://www.githubstatus.com/incidents/nf7s6933tnn8)
 * [2023-05-11, 13:32:09](https://news.ycombinator.com/item?id=35901760) - [NIH restarts bat virus grant](https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump)
+* [2023-05-11, 13:16:35](https://news.ycombinator.com/item?id=35901579) - [On the Rise of Socialist Engineers](https://www.thedriftmag.com/the-engineers-predicament/)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
 * [2023-05-11, 13:08:24](https://news.ycombinator.com/item?id=35901493) - [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 * [2023-05-11, 13:04:51](https://news.ycombinator.com/item?id=35901453) - [Estimated IQ distribution of children given IQ of parents](https://milkyeggs.com/biology/estimated-iq-distribution-of-children-given-iq-of-parents/)
