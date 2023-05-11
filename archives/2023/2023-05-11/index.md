@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 16:14:47](https://news.ycombinator.com/item?id=35904320) - [BBEdit is 30 years old](https://www.barebones.com/store/)
 * [2023-05-11, 15:52:21](https://news.ycombinator.com/item?id=35903956) - [May Flowers Spring COSMIC Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
 * [2023-05-11, 15:16:40](https://news.ycombinator.com/item?id=35903394) - [Automating the capture of airplane pictures with Raspberry Pi&#x2F;ADS-B&#x2F;IoT software](https://medium.com/@arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea)
 * [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
