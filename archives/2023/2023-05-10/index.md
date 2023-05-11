@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 * [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 * [2023-05-10, 21:56:16](https://news.ycombinator.com/item?id=35894039) - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
 * [2023-05-10, 21:52:18](https://news.ycombinator.com/item?id=35894010) - [What if we covered every warehouse in the mountain West with solar panels?](https://www.kunr.org/energy-and-environment/2023-05-03/what-if-we-covered-every-warehouse-mountain-west-solar-panels)
@@ -70,6 +71,7 @@
 * [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
+* [2023-05-10, 06:29:20](https://news.ycombinator.com/item?id=35884305) - [Pragmatic Writing Advice from the 6th Century](https://www.laphamsquarterly.org/roundtable/lower-your-expectations)
 * [2023-05-10, 06:22:49](https://news.ycombinator.com/item?id=35884272) - [Punctuation Personified (1824)](https://publicdomainreview.org/collection/punctuation-personified)
 * [2023-05-10, 06:05:44](https://news.ycombinator.com/item?id=35884176) - [Julia 1.9 Highlights](https://julialang.org/blog/2023/04/julia-1.9-highlights/)
 * [2023-05-10, 05:59:19](https://news.ycombinator.com/item?id=35884135) - [HN Badges](https://hnbadges.netlify.app/?user=pg)
