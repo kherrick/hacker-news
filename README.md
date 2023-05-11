@@ -17,6 +17,7 @@
 * [2023-05-10, 19:45:03](https://news.ycombinator.com/item?id=35892512) - [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
 * [2023-05-10, 19:29:04](https://news.ycombinator.com/item?id=35892286) - [Google Pixel Fold](https://store.google.com/us/product/pixel_fold)
 * [2023-05-10, 18:32:30](https://news.ycombinator.com/item?id=35891444) - [PaLM 2 Technical Report [pdf]](https://ai.google/static/documents/palm2techreport.pdf)
+* [2023-05-10, 17:57:25](https://news.ycombinator.com/item?id=35890926) - [The Erasmus Network](https://zarasophos.net/erasmus/)
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 * [2023-05-10, 14:58:04](https://news.ycombinator.com/item?id=35888327) - [Coloring in R&#x27;s Blind Spot](https://www.zeileis.org/news/coloring/)
 * [2023-05-10, 12:26:12](https://news.ycombinator.com/item?id=35886346) - [Anatomy of a Drum Machine (2012)](http://mickeydelp.com/blog/anatomy-of-a-drum-machine)
@@ -28,7 +29,6 @@
 * [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
 * [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
-* [2023-05-10, 06:29:20](https://news.ycombinator.com/item?id=35884305) - [Pragmatic Writing Advice from the 6th Century](https://www.laphamsquarterly.org/roundtable/lower-your-expectations)
 * [2023-05-09, 08:07:06](https://news.ycombinator.com/item?id=35871462) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 
 ## [Archives](archives/index.md)
