@@ -18,6 +18,7 @@
 * [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
 * [2023-05-11, 01:37:16](https://news.ycombinator.com/item?id=35896176) - [Google Earth 3D Models Now Available as Open Standard (GlTF)](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
 * [2023-05-11, 01:24:29](https://news.ycombinator.com/item?id=35896080) - [Disney to offer Disney+ and Hulu as single-app option](https://abc7.com/disney-plus-hulu-bob-iger-streaming/13231625/)
+* [2023-05-11, 01:22:25](https://news.ycombinator.com/item?id=35896060) - [The role of meat in the human diet: evolutionary aspects and nutritional value](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10105836/)
 * [2023-05-11, 00:54:22](https://news.ycombinator.com/item?id=35895840) - [Supertokens: Open-Source Alternative to Auth0 &#x2F; Firebase Auth &#x2F; AWS Cognito](https://github.com/supertokens/supertokens-core)
 * [2023-05-11, 00:35:32](https://news.ycombinator.com/item?id=35895666) - [Spiraling in San Francisco’s Doom Loop](https://www.curbed.com/2023/05/san-francisco-doom-loop.html)
 * [2023-05-11, 00:22:56](https://news.ycombinator.com/item?id=35895550) - [Microsoft&#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
