@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-11, 14:21:17",
+      "https://news.ycombinator.com/item?id=35902506"
+    ],
+    [
+      "Faster CPython at PyCon, part one",
+      "https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 13:58:25",
       "https://news.ycombinator.com/item?id=35902174"
     ],
@@ -27,6 +37,16 @@
     [
       "52% of UK gig workers are earning below minimum wage",
       "https://www.bristol.ac.uk/news/2023/may/gig-economy-worker-research.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 13:40:00",
+      "https://news.ycombinator.com/item?id=35901881"
+    ],
+    [
+      "Basic Physics of Rowing",
+      "http://eodg.atm.ox.ac.uk/user/dudhia/rowing/physics/basics.html"
     ]
   ],
   [
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2023-05-11, 10:38:43",
-      "https://news.ycombinator.com/item?id=35900282"
-    ],
-    [
-      "The JavaScript Ecosystem Is Delightfully Weird",
-      "https://fly.io/blog/js-ecosystem-delightfully-wierd/"
-    ]
-  ],
-  [
-    [
       "2023-05-11, 09:05:01",
       "https://news.ycombinator.com/item?id=35899642"
     ],
     [
       "Product design and UX design resources – Degreeless.Design",
       "https://www.degreeless.design"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 08:50:26",
-      "https://news.ycombinator.com/item?id=35899527"
-    ],
-    [
-      "Bcachefs – A New COW Filesystem",
-      "https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44"
     ]
   ],
   [
@@ -207,16 +207,6 @@
     [
       "Scientists regenerate hair cells that enable hearing",
       "https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 23:26:22",
-      "https://news.ycombinator.com/item?id=35894987"
-    ],
-    [
-      "Geektools whois gateway has shut down after a 25-year run",
-      "http://www.geektools.com/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Protocol Wars",
       "https://en.wikipedia.org/wiki/Protocol_Wars"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 07:22:59",
+      "https://news.ycombinator.com/item?id=35884667"
+    ],
+    [
+      "50 Years in Filesystems: 1974 Unix V7",
+      "https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html"
     ]
   ]
 ]
