@@ -57,6 +57,7 @@
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
 * [2023-05-10, 12:31:43](https://news.ycombinator.com/item?id=35886409) - [Departing Cook County Prosecutor&#x27;s Searing Exit Letter](https://www.chicagocontrarian.com/blog/departing-cook-county-prosecutor-upbraids-kim-foxx-in-searing-exit-letter)
 * [2023-05-10, 12:26:12](https://news.ycombinator.com/item?id=35886346) - [Anatomy of a Drum Machine (2012)](http://mickeydelp.com/blog/anatomy-of-a-drum-machine)
+* [2023-05-10, 12:23:51](https://news.ycombinator.com/item?id=35886334) - [Team of Sleuths Quietly Hunting Cyberattack-for-Hire Services for a Decade](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
 * [2023-05-10, 12:17:33](https://news.ycombinator.com/item?id=35886255) - [Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [Why does no one have a favorite instrumentalist anymore?](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)

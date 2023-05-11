@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
-* [2023-05-11, 03:28:38](https://news.ycombinator.com/item?id=35896990) - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
 * [2023-05-11, 03:26:00](https://news.ycombinator.com/item?id=35896971) - [Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 * [2023-05-11, 03:23:16](https://news.ycombinator.com/item?id=35896954) - [Go with PHP](https://gowithphp.com/)
 * [2023-05-11, 02:17:31](https://news.ycombinator.com/item?id=35896505) - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
@@ -23,6 +22,7 @@
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 * [2023-05-10, 14:58:04](https://news.ycombinator.com/item?id=35888327) - [Coloring in R&#x27;s Blind Spot](https://www.zeileis.org/news/coloring/)
 * [2023-05-10, 12:26:12](https://news.ycombinator.com/item?id=35886346) - [Anatomy of a Drum Machine (2012)](http://mickeydelp.com/blog/anatomy-of-a-drum-machine)
+* [2023-05-10, 12:23:51](https://news.ycombinator.com/item?id=35886334) - [Team of Sleuths Quietly Hunting Cyberattack-for-Hire Services for a Decade](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
 * [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [The decline and fall of the hit instrumental song](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 * [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
