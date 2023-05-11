@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-11, 17:32:41](https://news.ycombinator.com/item?id=35905437) - [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
 * [2023-05-11, 17:01:10](https://news.ycombinator.com/item?id=35904973) - [RankScience (YC W17) Is Hiring SDR&#x27;s with a Knack for SEO](https://remotejobs.org/remote-jobs/sales-development-representative-1121)
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
@@ -13,7 +14,6 @@
 * [2023-05-11, 13:40:35](https://news.ycombinator.com/item?id=35901889) - [Majority of gig economy workers are earning below minimum wage: research](https://www.bristol.ac.uk/news/2023/may/gig-economy-worker-research.html)
 * [2023-05-11, 13:40:00](https://news.ycombinator.com/item?id=35901881) - [Basic Physics of Rowing (2007)](http://eodg.atm.ox.ac.uk/user/dudhia/rowing/physics/basics.html)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
-* [2023-05-11, 13:08:24](https://news.ycombinator.com/item?id=35901493) - [Against longtermism (2021)](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 * [2023-05-11, 12:27:34](https://news.ycombinator.com/item?id=35901128) - [The 19th-Century Trippers Who Probed the Mind](https://nautil.us/the-19th-century-trippers-who-probed-the-mind-303265/)
 * [2023-05-11, 11:57:57](https://news.ycombinator.com/item?id=35900907) - [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
