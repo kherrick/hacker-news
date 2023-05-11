@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-11, 09:07:45](https://news.ycombinator.com/item?id=35899665) - [Who Would Choose Socialism?](https://reason.com/1978/05/01/who-would-chose-socialism/)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 03:23:16](https://news.ycombinator.com/item?id=35896954) - [Go with PHP](https://gowithphp.com/)
@@ -25,6 +24,7 @@
 * [2023-05-10, 12:23:51](https://news.ycombinator.com/item?id=35886334) - [Team of Sleuths Quietly Hunting Cyberattack-for-Hire Services for a Decade](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
 * [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [The decline and fall of the hit instrumental song](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The history of fire escapes](https://noidea.dog/#/fires/)
+* [2023-05-10, 11:12:10](https://news.ycombinator.com/item?id=35885859) - [New Philips Monitor Features an E-Paper Side Panel](https://www.tomshardware.com/news/new-philips-monitor-features-an-e-paper-side-panel)
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 * [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)

@@ -67,6 +67,7 @@
 * [2023-05-10, 11:37:04](https://news.ycombinator.com/item?id=35885999) - [‘Nearshoring’ Push Is Fueling Tech Job Demand in Latin America](https://www.bloomberg.com/news/articles/2023-05-10/nearshoring-push-fuels-tech-job-demand-in-latin-america)
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The history of fire escapes](https://noidea.dog/#/fires/)
 * [2023-05-10, 11:14:24](https://news.ycombinator.com/item?id=35885872) - [The World’s Greatest Freediver (2021)](https://www.gq.com/story/freediver-alexey-molchanov-profile)
+* [2023-05-10, 11:12:10](https://news.ycombinator.com/item?id=35885859) - [New Philips Monitor Features an E-Paper Side Panel](https://www.tomshardware.com/news/new-philips-monitor-features-an-e-paper-side-panel)
 * [2023-05-10, 11:01:25](https://news.ycombinator.com/item?id=35885797) - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
 * [2023-05-10, 10:46:05](https://news.ycombinator.com/item?id=35885717) - [How I developed a faster Ruby interpreter](https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter)
 * [2023-05-10, 10:28:39](https://news.ycombinator.com/item?id=35885638) - [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
