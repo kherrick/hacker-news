@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 * [2023-05-11, 19:54:07](https://news.ycombinator.com/item?id=35907564) - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
 * [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
 * [2023-05-11, 19:42:26](https://news.ycombinator.com/item?id=35907398) - [A rarely mentioned benefit of YC is Work At A Startup](https://twitter.com/collinjpham/status/1656078482407927809)
