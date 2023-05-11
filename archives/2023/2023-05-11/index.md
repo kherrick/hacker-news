@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Google Announces Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 * [2023-05-11, 19:54:07](https://news.ycombinator.com/item?id=35907564) - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
@@ -46,6 +47,7 @@
 * [2023-05-11, 13:32:09](https://news.ycombinator.com/item?id=35901760) - [NIH restarts bat virus grant](https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump)
 * [2023-05-11, 13:16:35](https://news.ycombinator.com/item?id=35901579) - [On the Rise of Socialist Engineers](https://www.thedriftmag.com/the-engineers-predicament/)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
+* [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff Is Ready to Renounce the Digital Revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
 * [2023-05-11, 13:08:24](https://news.ycombinator.com/item?id=35901493) - [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 * [2023-05-11, 13:04:51](https://news.ycombinator.com/item?id=35901453) - [Estimated IQ distribution of children given IQ of parents](https://milkyeggs.com/biology/estimated-iq-distribution-of-children-given-iq-of-parents/)
 * [2023-05-11, 12:31:38](https://news.ycombinator.com/item?id=35901152) - [A look at what’s next for AI and Google Search [video]](https://www.youtube.com/watch?v=dVsiusLQy5Q)
