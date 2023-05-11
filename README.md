@@ -8,6 +8,7 @@
 * [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-05-11, 20:44:04](https://news.ycombinator.com/item?id=35908107) - [The Two Cultures (1959) [pdf]](https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf)
+* [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 * [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
 * [2023-05-11, 19:24:41](https://news.ycombinator.com/item?id=35907155) - [Hobson&#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
 * [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based self-hosted app deployment](https://ibramenu.io/)
@@ -29,7 +30,6 @@
 * [2023-05-11, 10:38:43](https://news.ycombinator.com/item?id=35900282) - [The JavaScript ecosystem is delightfully weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:49:24](https://news.ycombinator.com/item?id=35899518) - [Fuck being productive](https://dostoynikov.bearblog.dev/fuck-being-productive/)
-* [2023-05-11, 07:37:50](https://news.ycombinator.com/item?id=35899020) - [32-Bit DOS Applications (2022) [video]](https://www.youtube.com/watch?v=EDl9qBZ9Bb0)
 
 ## [Archives](archives/index.md)
 
