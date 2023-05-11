@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 13:34:30](https://news.ycombinator.com/item?id=35901790) - [Incident with Issues and Pull Requests](https://www.githubstatus.com/incidents/nf7s6933tnn8)
+* [2023-05-11, 13:08:24](https://news.ycombinator.com/item?id=35901493) - [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 * [2023-05-11, 13:04:51](https://news.ycombinator.com/item?id=35901453) - [Estimated IQ distribution of children given IQ of parents](https://milkyeggs.com/biology/estimated-iq-distribution-of-children-given-iq-of-parents/)
 * [2023-05-11, 12:31:38](https://news.ycombinator.com/item?id=35901152) - [A look at what’s next for AI and Google Search [video]](https://www.youtube.com/watch?v=dVsiusLQy5Q)
 * [2023-05-11, 12:00:48](https://news.ycombinator.com/item?id=35900922) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-05-11, 11:57:57](https://news.ycombinator.com/item?id=35900907) - [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)
+* [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
 * [2023-05-11, 10:38:43](https://news.ycombinator.com/item?id=35900282) - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 09:07:45](https://news.ycombinator.com/item?id=35899665) - [Who Would Choose Socialism?](https://reason.com/1978/05/01/who-would-chose-socialism/)
 * [2023-05-11, 09:05:01](https://news.ycombinator.com/item?id=35899642) - [Product design and UX design resources – Degreeless.Design](https://www.degreeless.design)
