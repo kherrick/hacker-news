@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 * [2023-05-11, 19:54:07](https://news.ycombinator.com/item?id=35907564) - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
 * [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
@@ -22,6 +23,7 @@
 * [2023-05-11, 17:01:10](https://news.ycombinator.com/item?id=35904973) - [RankScience (YC W17) Is Hiring SDR&#x27;s with a Knack for SEO](https://remotejobs.org/remote-jobs/sales-development-representative-1121)
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
+* [2023-05-11, 16:34:55](https://news.ycombinator.com/item?id=35904612) - [We fund Matrix dev by selling encrypted messaging to governments](https://mastodon.matrix.org/@element/110340953550548309)
 * [2023-05-11, 16:14:47](https://news.ycombinator.com/item?id=35904320) - [BBEdit is 30 years old](https://www.barebones.com/store/)
 * [2023-05-11, 16:00:39](https://news.ycombinator.com/item?id=35904118) - [IRS Files $44B Claims Against Bankrupt FTX](https://unchainedcrypto.com/irs-files-44-billion-claims-against-bankrupt-ftx/)
 * [2023-05-11, 15:55:09](https://news.ycombinator.com/item?id=35904008) - [Scientists find enzyme that can make electricity out of tiny amounts of hydrogen](https://www.abc.net.au/news/2023-03-09/monash-university-air-electricity-enzyme-soil/102071786)
