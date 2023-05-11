@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-11, 03:54:02](https://news.ycombinator.com/item?id=35897198) - [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 03:28:38](https://news.ycombinator.com/item?id=35896990) - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
-* [2023-05-11, 03:23:16](https://news.ycombinator.com/item?id=35896954) - [Go with PHP](https://gowithphp.com/)
+* [2023-05-11, 03:26:00](https://news.ycombinator.com/item?id=35896971) - [Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 * [2023-05-11, 02:17:31](https://news.ycombinator.com/item?id=35896505) - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
 * [2023-05-11, 01:44:37](https://news.ycombinator.com/item?id=35896240) - [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
 * [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
@@ -26,8 +25,9 @@
 * [2023-05-10, 12:26:12](https://news.ycombinator.com/item?id=35886346) - [Anatomy of a Drum Machine (2012)](http://mickeydelp.com/blog/anatomy-of-a-drum-machine)
 * [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [The decline and fall of the hit instrumental song](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)
 * [2023-05-10, 10:46:05](https://news.ycombinator.com/item?id=35885717) - [How I developed a faster Ruby interpreter (2022)](https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter)
+* [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
+* [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
-* [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-10, 06:29:20](https://news.ycombinator.com/item?id=35884305) - [Pragmatic Writing Advice from the 6th Century](https://www.laphamsquarterly.org/roundtable/lower-your-expectations)
 * [2023-05-09, 08:07:06](https://news.ycombinator.com/item?id=35871462) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 

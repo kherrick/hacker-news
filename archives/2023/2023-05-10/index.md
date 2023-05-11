@@ -69,6 +69,7 @@
 * [2023-05-10, 10:28:39](https://news.ycombinator.com/item?id=35885638) - [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
 * [2023-05-10, 09:26:31](https://news.ycombinator.com/item?id=35885342) - [My friends who cheated in interviews are getting promoted](https://www.teamblind.com/post/My-friends-who-cheated-in-interviews-are-getting-promoted-😡😡😡😡-XnYM4nLs)
 * [2023-05-10, 08:30:03](https://news.ycombinator.com/item?id=35885066) - [IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
+* [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 * [2023-05-10, 08:20:46](https://news.ycombinator.com/item?id=35885004) - [Dynamic Branch Prediction with Perceptrons [pdf]](https://www.cs.cmu.edu/afs/cs/academic/class/15740-f18/www/papers/hpca01-jiminez-perceptron.pdf)
 * [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
 * [2023-05-10, 07:23:23](https://news.ycombinator.com/item?id=35884668) - [50 years in filesystems: 1984 BSD FFS](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)

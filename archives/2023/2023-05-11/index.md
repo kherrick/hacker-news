@@ -8,6 +8,7 @@
 * [2023-05-11, 03:50:10](https://news.ycombinator.com/item?id=35897170) - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 03:28:38](https://news.ycombinator.com/item?id=35896990) - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
+* [2023-05-11, 03:26:00](https://news.ycombinator.com/item?id=35896971) - [Startups Are Scooping Up Big Tech’s Cast-Off Workers](https://www.wsj.com/articles/startups-are-scooping-up-big-techs-cast-off-workers-981f7d35)
 * [2023-05-11, 03:23:16](https://news.ycombinator.com/item?id=35896954) - [Go with PHP](https://gowithphp.com/)
 * [2023-05-11, 03:19:33](https://news.ycombinator.com/item?id=35896935) - [Microsoft Workers Won&#x27;t Get Annual Pay Bump Despite $18.3B in Profit](https://www.gamespot.com/articles/microsoft-workers-wont-get-annual-pay-bump-despite-18-3-billion-in-profit-in-past-3-months/1100-6513990/)
 * [2023-05-11, 03:03:55](https://news.ycombinator.com/item?id=35896833) - [Sorry Purism, I’m not investing. It’s not even legal](https://gabrielsieben.tech/2023/05/10/sorry-purism-im-not-investing-its-not-even-legal/)
