@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 15:16:40](https://news.ycombinator.com/item?id=35903394) - [Automating the capture of airplane pictures with Raspberry Pi&#x2F;ADS-B&#x2F;IoT software](https://medium.com/@arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea)
+* [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 15:07:03](https://news.ycombinator.com/item?id=35903267) - [Turkish presidential candidate quits race after release of alleged sex tape](https://www.theguardian.com/world/2023/may/11/muharrem-ince-turkish-presidential-candidate-withdraws-alleged-sex-tape)
 * [2023-05-11, 14:58:45](https://news.ycombinator.com/item?id=35903139) - [World ‘way off track’ from climate goal](https://news.harvard.edu/gazette/story/2023/05/world-way-offtrack-on-climate-goal-says-john-kerry/)
+* [2023-05-11, 14:53:20](https://news.ycombinator.com/item?id=35903056) - [Isgithub.live](https://isgithub.live/)
 * [2023-05-11, 14:24:15](https://news.ycombinator.com/item?id=35902543) - [AI Will Create More Developers, Not Less](https://interconnect.substack.com/p/ai-will-create-more-developers-not)
 * [2023-05-11, 14:21:17](https://news.ycombinator.com/item?id=35902506) - [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
 * [2023-05-11, 13:58:25](https://news.ycombinator.com/item?id=35902174) - [Mushrooms and sunlight for making Vitamin D supplement](https://fungi.com/blogs/articles/place-mushrooms-in-sunlight-to-get-your-vitamin-d)
