@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-11, 08:58:24](https://news.ycombinator.com/item?id=35899587) - [Show HN: BundleStore – increase revenue by offering your product in a bundle](https://bundlestore.airballoon.app/)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 03:23:16](https://news.ycombinator.com/item?id=35896954) - [Go with PHP](https://gowithphp.com/)
@@ -9,7 +10,6 @@
 * [2023-05-11, 01:37:16](https://news.ycombinator.com/item?id=35896176) - [Google Earth 3D Models Now Available as Open Standard (GlTF)](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
 * [2023-05-11, 00:54:22](https://news.ycombinator.com/item?id=35895840) - [Supertokens: Open-Source Alternative to Auth0 &#x2F; Firebase Auth &#x2F; AWS Cognito](https://github.com/supertokens/supertokens-core)
 * [2023-05-11, 00:08:39](https://news.ycombinator.com/item?id=35895417) - [Scientists regenerate hair cells that enable hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
-* [2023-05-10, 23:28:16](https://news.ycombinator.com/item?id=35895005) - [Telegram deletes message against Brazil’s Bill after Supreme Court threat](https://www.riotimesonline.com/brazil-news/brazil/telegram-deletes-message-against-fake-news-censorship-bill-after-supreme-court-threat/)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 * [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 * [2023-05-10, 21:51:21](https://news.ycombinator.com/item?id=35894004) - [Heather Armstrong has died](https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html)
