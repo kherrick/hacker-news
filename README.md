@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-11, 21:14:36](https://news.ycombinator.com/item?id=35908477) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
-* [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Google Announces Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-05-11, 20:45:02](https://news.ycombinator.com/item?id=35908120) - [Millions of mobile phones come pre-infected with malware, say researchers](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
 * [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
@@ -26,6 +25,7 @@
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff Is Ready to Renounce the Digital Revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
 * [2023-05-11, 12:27:34](https://news.ycombinator.com/item?id=35901128) - [19th-century trippers who probed the mind](https://nautil.us/the-19th-century-trippers-who-probed-the-mind-303265/)
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
+* [2023-05-11, 11:24:04](https://news.ycombinator.com/item?id=35900635) - [Fern leaves and cauliflower curds are not fractals (2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419012/)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 07:37:50](https://news.ycombinator.com/item?id=35899020) - [32-Bit DOS Applications](https://www.youtube.com/watch?v=EDl9qBZ9Bb0)
 * [2023-05-10, 20:36:17](https://news.ycombinator.com/item?id=35893133) - [As the California sea lion population got bigger, so did male sea lions](https://news.ucsc.edu/2023/04/sea-lion-size.html)
