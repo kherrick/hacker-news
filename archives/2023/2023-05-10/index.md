@@ -39,6 +39,7 @@
 * [2023-05-10, 15:32:14](https://news.ycombinator.com/item?id=35888853) - [GitHub&#x27;s New Code Search Is Bad for Finding Code](https://stackdiary.com/githubs-new-code-search-is-bad/)
 * [2023-05-10, 15:19:16](https://news.ycombinator.com/item?id=35888644) - [Launch HN: Clearspace (YC W23) – Cut back on screen time](https://news.ycombinator.com/item?id=35888644)
 * [2023-05-10, 15:10:19](https://news.ycombinator.com/item?id=35888509) - [Infosec company owned completely by 4chan user](https://maia.crimew.gay/posts/optimeyes-leak/)
+* [2023-05-10, 14:58:04](https://news.ycombinator.com/item?id=35888327) - [Coloring in R&#x27;s Blind Spot](https://www.zeileis.org/news/coloring/)
 * [2023-05-10, 14:37:48](https://news.ycombinator.com/item?id=35888024) - [Google breaking European privacy law by hoarding personal data of job candidates](https://fortune.com/2023/05/10/exclusive-google-recruitment-ghire-gdpr-violation-whistleblower/)
 * [2023-05-10, 14:34:27](https://news.ycombinator.com/item?id=35887983) - [Abusing Vector Search for Texts, Maps, and Chess ♟](https://ashvardanian.com/posts/abusing-vector-search/)
 * [2023-05-10, 14:20:27](https://news.ycombinator.com/item?id=35887766) - [A Codebase That Makes Codebases](https://www.saaspegasus.com/about/how-pegasus-works/)
