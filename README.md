@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-11, 17:01:10](https://news.ycombinator.com/item?id=35904973) - [RankScience (YC W17) Is Hiring SDR&#x27;s with a Knack for SEO](https://remotejobs.org/remote-jobs/sales-development-representative-1121)
+* [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
 * [2023-05-11, 16:14:47](https://news.ycombinator.com/item?id=35904320) - [BBEdit is 30 years old](https://www.barebones.com/store/)
 * [2023-05-11, 15:52:21](https://news.ycombinator.com/item?id=35903956) - [May Flowers Spring COSMIC Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
@@ -12,7 +14,6 @@
 * [2023-05-11, 13:40:00](https://news.ycombinator.com/item?id=35901881) - [Basic Physics of Rowing (2007)](http://eodg.atm.ox.ac.uk/user/dudhia/rowing/physics/basics.html)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
 * [2023-05-11, 13:08:24](https://news.ycombinator.com/item?id=35901493) - [Against longtermism (2021)](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
-* [2023-05-11, 12:00:48](https://news.ycombinator.com/item?id=35900922) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-05-11, 11:57:57](https://news.ycombinator.com/item?id=35900907) - [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
 * [2023-05-11, 11:24:04](https://news.ycombinator.com/item?id=35900635) - [Fern leaves and cauliflower curds are not fractals (2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419012/)
@@ -28,7 +29,6 @@
 * [2023-05-10, 12:23:51](https://news.ycombinator.com/item?id=35886334) - [A team of sleuths quietly hunting cyberattack-for-hire services](https://www.wired.com/story/big-pipes-ddos-for-hire-fbi/)
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The History of Fire Escapes (2018)](https://noidea.dog/#/fires/)
 * [2023-05-10, 11:12:10](https://news.ycombinator.com/item?id=35885859) - [New Philips Monitor Features an E-Paper Side Panel](https://www.tomshardware.com/news/new-philips-monitor-features-an-e-paper-side-panel)
-* [2023-05-10, 10:42:11](https://news.ycombinator.com/item?id=35885696) - [Researchers craft a fully edible battery](https://arstechnica.com/science/2023/05/researchers-craft-a-fully-edible-battery/)
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 
 ## [Archives](archives/index.md)
