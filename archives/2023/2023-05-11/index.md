@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 13:04:51](https://news.ycombinator.com/item?id=35901453) - [Estimated IQ distribution of children given IQ of parents](https://milkyeggs.com/biology/estimated-iq-distribution-of-children-given-iq-of-parents/)
 * [2023-05-11, 12:31:38](https://news.ycombinator.com/item?id=35901152) - [A look at what’s next for AI and Google Search [video]](https://www.youtube.com/watch?v=dVsiusLQy5Q)
 * [2023-05-11, 12:00:48](https://news.ycombinator.com/item?id=35900922) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
 * [2023-05-11, 11:57:57](https://news.ycombinator.com/item?id=35900907) - [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)

@@ -72,6 +72,7 @@
 * [2023-05-10, 11:12:10](https://news.ycombinator.com/item?id=35885859) - [New Philips Monitor Features an E-Paper Side Panel](https://www.tomshardware.com/news/new-philips-monitor-features-an-e-paper-side-panel)
 * [2023-05-10, 11:01:25](https://news.ycombinator.com/item?id=35885797) - [The Leverage of LLMs for Individuals](https://mazzzystar.github.io/2023/05/10/LLM-for-individual/)
 * [2023-05-10, 10:46:05](https://news.ycombinator.com/item?id=35885717) - [How I developed a faster Ruby interpreter](https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter)
+* [2023-05-10, 10:42:11](https://news.ycombinator.com/item?id=35885696) - [Researchers craft a fully edible battery](https://arstechnica.com/science/2023/05/researchers-craft-a-fully-edible-battery/)
 * [2023-05-10, 10:28:39](https://news.ycombinator.com/item?id=35885638) - [Running a Movie Theater Is More Expensive Than You Can Possibly Imagine](https://www.indiewire.com/features/general/how-much-does-it-cost-to-run-movie-theater-1234859340/)
 * [2023-05-10, 09:26:31](https://news.ycombinator.com/item?id=35885342) - [My friends who cheated in interviews are getting promoted](https://www.teamblind.com/post/My-friends-who-cheated-in-interviews-are-getting-promoted-😡😡😡😡-XnYM4nLs)
 * [2023-05-10, 08:30:03](https://news.ycombinator.com/item?id=35885066) - [IPyflow: Reactive Python Notebooks in Jupyter(Lab)](https://github.com/ipyflow/ipyflow)
