@@ -15,7 +15,7 @@
 * [2023-05-11, 00:22:56](https://news.ycombinator.com/item?id=35895550) - [Microsoft&#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
 * [2023-05-11, 00:08:39](https://news.ycombinator.com/item?id=35895417) - [Scientists Regenerate Hair Cells That Enable Hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
-* [2023-05-10, 21:56:16](https://news.ycombinator.com/item?id=35894039) - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
+* [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 * [2023-05-10, 21:44:03](https://news.ycombinator.com/item?id=35893939) - [Google I&#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
 * [2023-05-10, 21:00:10](https://news.ycombinator.com/item?id=35893439) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-05-10, 19:45:03](https://news.ycombinator.com/item?id=35892512) - [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
