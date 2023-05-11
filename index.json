@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-11, 23:12:29",
+      "https://news.ycombinator.com/item?id=35909595"
+    ],
+    [
+      "Proposal: Less error-prone loop variable scoping",
+      "https://github.com/golang/go/issues/60078"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 22:36:00",
       "https://news.ycombinator.com/item?id=35909272"
     ],
@@ -61,32 +71,12 @@
   ],
   [
     [
-      "2023-05-11, 20:45:02",
-      "https://news.ycombinator.com/item?id=35908120"
-    ],
-    [
-      "Millions of mobile phones come pre-infected with malware, say researchers",
-      "https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/"
-    ]
-  ],
-  [
-    [
       "2023-05-11, 20:44:04",
       "https://news.ycombinator.com/item?id=35908107"
     ],
     [
       "The Two Cultures (1959) [pdf]",
       "https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 20:03:26",
-      "https://news.ycombinator.com/item?id=35907663"
-    ],
-    [
-      "MemComputing vs. Quantum Computing",
-      "https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/"
     ]
   ],
   [
@@ -121,12 +111,22 @@
   ],
   [
     [
-      "2023-05-11, 18:52:47",
-      "https://news.ycombinator.com/item?id=35906604"
+      "2023-05-11, 18:32:11",
+      "https://news.ycombinator.com/item?id=35906292"
     ],
     [
-      "Ask HN: It&#x27;s 2023, how do you choose between MySQL and Postgres?",
-      "https://news.ycombinator.com/item?id=35906604"
+      "TP–7 Field Recorder",
+      "https://teenage.engineering/products/tp-7"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 18:04:06",
+      "https://news.ycombinator.com/item?id=35905876"
+    ],
+    [
+      "Gandalf – Game to make an LLM reveal a secret password",
+      "https://gandalf.lakera.ai/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-05-11, 08:46:11",
-      "https://news.ycombinator.com/item?id=35899498"
+      "2023-05-11, 08:49:24",
+      "https://news.ycombinator.com/item?id=35899518"
     ],
     [
-      "Teenage Engineering TP–7 field recorder",
-      "https://teenage.engineering/products/tp-7"
+      "Fuck being productive",
+      "https://dostoynikov.bearblog.dev/fuck-being-productive/"
     ]
   ],
   [
