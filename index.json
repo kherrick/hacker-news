@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2023-05-11, 01:37:16",
+      "https://news.ycombinator.com/item?id=35896176"
+    ],
+    [
+      "Google Earth 3D Models Now Available as Open Standard (GlTF)",
+      "https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 00:22:56",
       "https://news.ycombinator.com/item?id=35895550"
     ],
     [
       "Microsoft&#x27;s CEO Says No Raises for Full-Time Employees This Year",
       "https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 00:08:39",
+      "https://news.ycombinator.com/item?id=35895417"
+    ],
+    [
+      "Scientists Regenerate Hair Cells That Enable Hearing",
+      "https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "Tell HN: We should start to add “ai.txt” as we do for “robots.txt”",
       "https://news.ycombinator.com/item?id=35886288"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 12:15:29",
-      "https://news.ycombinator.com/item?id=35886243"
-    ],
-    [
-      "Why does no one have a favorite instrumentalist anymore?",
-      "https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental"
-    ]
-  ],
-  [
-    [
-      "2023-05-10, 11:56:14",
-      "https://news.ycombinator.com/item?id=35886103"
-    ],
-    [
-      "A collection of lock-free data structures written in standard C++11",
-      "https://github.com/DNedic/lockfree"
     ]
   ],
   [
