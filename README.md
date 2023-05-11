@@ -2,7 +2,9 @@
 
 * [2023-05-11, 02:17:31](https://news.ycombinator.com/item?id=35896505) - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
 * [2023-05-11, 01:44:37](https://news.ycombinator.com/item?id=35896240) - [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
+* [2023-05-11, 01:37:16](https://news.ycombinator.com/item?id=35896176) - [Google Earth 3D Models Now Available as Open Standard (GlTF)](https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles)
 * [2023-05-11, 00:22:56](https://news.ycombinator.com/item?id=35895550) - [Microsoft&#x27;s CEO Says No Raises for Full-Time Employees This Year](https://gizmodo.com/microsoft-no-raises-full-time-ceo-satya-nadella-1850424823)
+* [2023-05-11, 00:08:39](https://news.ycombinator.com/item?id=35895417) - [Scientists Regenerate Hair Cells That Enable Hearing](https://hms.harvard.edu/news/scientists-regenerate-hair-cells-enable-hearing)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 * [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [Tell HN: The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 * [2023-05-10, 21:56:16](https://news.ycombinator.com/item?id=35894039) - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
@@ -21,8 +23,6 @@
 * [2023-05-10, 13:16:21](https://news.ycombinator.com/item?id=35886900) - [Ask HN: What is new in algorithms and data structures these days?](https://news.ycombinator.com/item?id=35886900)
 * [2023-05-10, 12:49:06](https://news.ycombinator.com/item?id=35886559) - [Google I&#x2F;O 2023](https://io.google/2023/)
 * [2023-05-10, 12:20:05](https://news.ycombinator.com/item?id=35886288) - [Tell HN: We should start to add “ai.txt” as we do for “robots.txt”](https://news.ycombinator.com/item?id=35886288)
-* [2023-05-10, 12:15:29](https://news.ycombinator.com/item?id=35886243) - [Why does no one have a favorite instrumentalist anymore?](https://tedgioia.substack.com/p/the-decline-and-fall-of-the-hit-instrumental)
-* [2023-05-10, 11:56:14](https://news.ycombinator.com/item?id=35886103) - [A collection of lock-free data structures written in standard C++11](https://github.com/DNedic/lockfree)
 * [2023-05-10, 11:14:24](https://news.ycombinator.com/item?id=35885872) - [The World’s Greatest Freediver (2021)](https://www.gq.com/story/freediver-alexey-molchanov-profile)
 * [2023-05-10, 10:46:05](https://news.ycombinator.com/item?id=35885717) - [How I developed a faster Ruby interpreter (2022)](https://developers.redhat.com/articles/2022/11/22/how-i-developed-faster-ruby-interpreter)
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
