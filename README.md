@@ -27,8 +27,8 @@
 * [2023-05-10, 11:32:39](https://news.ycombinator.com/item?id=35885982) - [The history of fire escapes](https://noidea.dog/#/fires/)
 * [2023-05-10, 08:26:54](https://news.ycombinator.com/item?id=35885046) - [Protocol Wars](https://en.wikipedia.org/wiki/Protocol_Wars)
 * [2023-05-10, 07:59:52](https://news.ycombinator.com/item?id=35884875) - [Foundations for the Study of Software Architecture (1992) [pdf]](http://users.ece.utexas.edu/~perry/work/papers/swa-sen.pdf)
-* [2023-05-10, 07:47:58](https://news.ycombinator.com/item?id=35884803) - [Should we take measurements at an intermediate design point? [pdf]](http://www.stat.columbia.edu/~gelman/research/published/27.pdf)
 * [2023-05-10, 07:22:59](https://news.ycombinator.com/item?id=35884667) - [50 Years in Filesystems: 1974 Unix V7](https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html)
+* [2023-05-10, 06:51:33](https://news.ycombinator.com/item?id=35884437) - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 * [2023-05-09, 08:07:06](https://news.ycombinator.com/item?id=35871462) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 
 ## [Archives](archives/index.md)
