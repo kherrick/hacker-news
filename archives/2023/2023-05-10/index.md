@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-10](index.md)
 
+* [2023-05-10, 23:28:16](https://news.ycombinator.com/item?id=35895005) - [Telegram deletes message against Brazil’s Bill after Supreme Court threat](https://www.riotimesonline.com/brazil-news/brazil/telegram-deletes-message-against-fake-news-censorship-bill-after-supreme-court-threat/)
 * [2023-05-10, 23:26:22](https://news.ycombinator.com/item?id=35894987) - [Geektools whois gateway has shut down after a 25-year run](http://www.geektools.com/)
 * [2023-05-10, 22:26:52](https://news.ycombinator.com/item?id=35894326) - [The “Y” logo in the top-left corner has been upgraded to SVG](https://news.ycombinator.com/y18.svg)
 * [2023-05-10, 21:56:16](https://news.ycombinator.com/item?id=35894039) - [Expensive energy may have killed more Europeans than Covid-19 last winter](https://www.economist.com/graphic-detail/2023/05/10/expensive-energy-may-have-killed-more-europeans-than-covid-19-last-winter)
