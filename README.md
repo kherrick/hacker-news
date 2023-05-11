@@ -6,7 +6,7 @@
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-05-11, 20:49:35](https://news.ycombinator.com/item?id=35908175) - [Ryujinx Progress Report April 2023 (Nintendo Switch Emulator)](https://blog.ryujinx.org/progress-report-april-2023/)
 * [2023-05-11, 20:45:02](https://news.ycombinator.com/item?id=35908120) - [Millions of mobile phones come pre-infected with malware, say researchers](https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/)
-* [2023-05-11, 20:44:04](https://news.ycombinator.com/item?id=35908107) - [The Two Cultures](https://en.wikipedia.org/wiki/The_Two_Cultures)
+* [2023-05-11, 20:44:04](https://news.ycombinator.com/item?id=35908107) - [The Two Cultures (1959) [pdf]](https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf)
 * [2023-05-11, 20:03:26](https://news.ycombinator.com/item?id=35907663) - [MemComputing vs. Quantum Computing](https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/)
 * [2023-05-11, 19:54:07](https://news.ycombinator.com/item?id=35907564) - [Chat-UI, the codebase of HuggingChat, is open sourced](https://github.com/huggingface/chat-ui)
 * [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
