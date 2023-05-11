@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 12:31:38](https://news.ycombinator.com/item?id=35901152) - [A look at what’s next for AI and Google Search [video]](https://www.youtube.com/watch?v=dVsiusLQy5Q)
 * [2023-05-11, 12:00:48](https://news.ycombinator.com/item?id=35900922) - [OneSignal (YC S11) Is Hiring Engineers](https://onesignal.com/careers)
+* [2023-05-11, 11:57:57](https://news.ycombinator.com/item?id=35900907) - [Wind is main source of UK electricity for first time](https://www.bbc.co.uk/news/science-environment-65557469)
+* [2023-05-11, 10:38:43](https://news.ycombinator.com/item?id=35900282) - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 * [2023-05-11, 09:07:45](https://news.ycombinator.com/item?id=35899665) - [Who Would Choose Socialism?](https://reason.com/1978/05/01/who-would-chose-socialism/)
 * [2023-05-11, 09:05:01](https://news.ycombinator.com/item?id=35899642) - [Product design and UX design resources – Degreeless.Design](https://www.degreeless.design)
 * [2023-05-11, 08:58:24](https://news.ycombinator.com/item?id=35899587) - [Show HN: BundleStore – increase revenue by offering your product in a bundle](https://bundlestore.airballoon.app/)
