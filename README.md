@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-11, 03:50:10](https://news.ycombinator.com/item?id=35897170) - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
+* [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
 * [2023-05-11, 03:28:38](https://news.ycombinator.com/item?id=35896990) - [A Backup of Historical Proportions](https://computerhistory.org/blog/a-backup-of-historical-proportions/)
 * [2023-05-11, 03:23:16](https://news.ycombinator.com/item?id=35896954) - [Go with PHP](https://gowithphp.com/)
 * [2023-05-11, 03:19:33](https://news.ycombinator.com/item?id=35896935) - [Microsoft Workers Won&#x27;t Get Annual Pay Bump Despite $18.3B in Profit](https://www.gamespot.com/articles/microsoft-workers-wont-get-annual-pay-bump-despite-18-3-billion-in-profit-in-past-3-months/1100-6513990/)
 * [2023-05-11, 03:03:55](https://news.ycombinator.com/item?id=35896833) - [Sorry Purism, I’m not investing. It’s (possibly) not even legal](https://gabrielsieben.tech/2023/05/10/sorry-purism-im-not-investing-its-not-even-legal/)
-* [2023-05-11, 03:03:48](https://news.ycombinator.com/item?id=35896831) - [Pure: No more hard drives will be sold after 2028](https://blocksandfiles.com/2023/05/09/pure-no-more-hard-drives-2028/)
 * [2023-05-11, 02:17:31](https://news.ycombinator.com/item?id=35896505) - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
 * [2023-05-11, 01:44:37](https://news.ycombinator.com/item?id=35896240) - [The Backbone: A History of the Internet](https://technicshistory.com/the-backbone/)
 * [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
