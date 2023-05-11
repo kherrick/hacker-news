@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35896833"
     ],
     [
-      "Sorry Purism, I’m not investing. It’s not even legal",
+      "Sorry Purism, I’m not investing. It’s (possibly) not even legal",
       "https://gabrielsieben.tech/2023/05/10/sorry-purism-im-not-investing-its-not-even-legal/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Pure: No more hard drives will be sold after 2028",
       "https://blocksandfiles.com/2023/05/09/pure-no-more-hard-drives-2028/"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 02:41:31",
-      "https://news.ycombinator.com/item?id=35896666"
-    ],
-    [
-      "Ad-free Twitter with 1 line of CSS",
-      "https://gist.github.com/cmoog/6cedfb2be1f712ceb091fbd05c9dab3e"
     ]
   ],
   [
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2023-05-10, 13:16:21",
-      "https://news.ycombinator.com/item?id=35886900"
+      "2023-05-10, 14:13:42",
+      "https://news.ycombinator.com/item?id=35887680"
     ],
     [
-      "Ask HN: What is new in algorithms and data structures these days?",
-      "https://news.ycombinator.com/item?id=35886900"
+      "Extending web applications with WebAssembly and Python",
+      "https://wasmlabs.dev/articles/wasm-host-to-python/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 12:26:12",
+      "https://news.ycombinator.com/item?id=35886346"
+    ],
+    [
+      "Anatomy of a Drum Machine (2012)",
+      "http://mickeydelp.com/blog/anatomy-of-a-drum-machine"
     ]
   ],
   [
