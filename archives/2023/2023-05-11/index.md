@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 03:23:16](https://news.ycombinator.com/item?id=35896954) - [Go with PHP](https://gowithphp.com/)
 * [2023-05-11, 03:19:33](https://news.ycombinator.com/item?id=35896935) - [Microsoft Workers Won&#x27;t Get Annual Pay Bump Despite $18.3B in Profit](https://www.gamespot.com/articles/microsoft-workers-wont-get-annual-pay-bump-despite-18-3-billion-in-profit-in-past-3-months/1100-6513990/)
 * [2023-05-11, 02:41:31](https://news.ycombinator.com/item?id=35896666) - [Ad-free Twitter with 1 line of CSS](https://gist.github.com/cmoog/6cedfb2be1f712ceb091fbd05c9dab3e)
 * [2023-05-11, 02:17:31](https://news.ycombinator.com/item?id=35896505) - [Windows 11 in Svelte](https://github.com/yashash-pugalia/win11-svelte)
