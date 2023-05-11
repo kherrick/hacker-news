@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-11](index.md)
 
+* [2023-05-11, 23:15:00](https://news.ycombinator.com/item?id=35909625) - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
 * [2023-05-11, 22:36:00](https://news.ycombinator.com/item?id=35909272) - [One Day You’ll Find Yourself](https://www.onedayyoullfindyourself.com)
 * [2023-05-11, 22:29:20](https://news.ycombinator.com/item?id=35909203) - [YouTuber who staged plane crash faces up to 20 years jail](https://news.yahoo.com/youtuber-staged-plane-crash-faces-205718964.html)
 * [2023-05-11, 21:14:36](https://news.ycombinator.com/item?id=35908477) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
@@ -18,6 +19,7 @@
 * [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
 * [2023-05-11, 19:42:26](https://news.ycombinator.com/item?id=35907398) - [A rarely mentioned benefit of YC is Work At A Startup](https://twitter.com/collinjpham/status/1656078482407927809)
 * [2023-05-11, 19:24:41](https://news.ycombinator.com/item?id=35907155) - [Hobson&#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
+* [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based self-hosted app deployment](https://ibramenu.io/)
 * [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based Self-hosted App Deployment](https://github.com/ibracorp/ibramenu)
 * [2023-05-11, 18:52:47](https://news.ycombinator.com/item?id=35906604) - [Ask HN: It&#x27;s 2023, how do you choose between MySQL and Postgres?](https://news.ycombinator.com/item?id=35906604)
 * [2023-05-11, 18:32:11](https://news.ycombinator.com/item?id=35906292) - [TP-7](https://teenage.engineering/products/tp-7)
@@ -70,6 +72,7 @@
 * [2023-05-11, 08:58:24](https://news.ycombinator.com/item?id=35899587) - [Show HN: BundleStore – increase revenue by offering your product in a bundle](https://bundlestore.airballoon.app/)
 * [2023-05-11, 08:50:26](https://news.ycombinator.com/item?id=35899527) - [Bcachefs – A New COW Filesystem](https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44)
 * [2023-05-11, 08:49:24](https://news.ycombinator.com/item?id=35899518) - [Fuck Being Productive](https://dostoynikov.bearblog.dev/fuck-being-productive/)
+* [2023-05-11, 08:46:11](https://news.ycombinator.com/item?id=35899498) - [Teenage Engineering TP–7 field recorder](https://teenage.engineering/products/tp-7)
 * [2023-05-11, 07:37:50](https://news.ycombinator.com/item?id=35899020) - [32-Bit DOS Applications](https://www.youtube.com/watch?v=EDl9qBZ9Bb0)
 * [2023-05-11, 03:54:02](https://news.ycombinator.com/item?id=35897198) - [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
 * [2023-05-11, 03:50:10](https://news.ycombinator.com/item?id=35897170) - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
