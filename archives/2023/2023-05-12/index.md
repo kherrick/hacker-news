@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 07:53:33](https://news.ycombinator.com/item?id=35913260) - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
 * [2023-05-12, 06:08:41](https://news.ycombinator.com/item?id=35912560) - [YouTuber admits he crashed plane in Santa Barbara, destroyed evidence](https://www.latimes.com/california/story/2023-05-11/youtuber-pilot-trevor-jacobs-admits-plane-crash-destroyed-evidence)
 * [2023-05-12, 05:44:55](https://news.ycombinator.com/item?id=35912374) - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 * [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)

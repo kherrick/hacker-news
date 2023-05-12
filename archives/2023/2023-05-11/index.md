@@ -61,6 +61,7 @@
 * [2023-05-11, 13:40:00](https://news.ycombinator.com/item?id=35901881) - [Basic Physics of Rowing](http://eodg.atm.ox.ac.uk/user/dudhia/rowing/physics/basics.html)
 * [2023-05-11, 13:34:30](https://news.ycombinator.com/item?id=35901790) - [Incident with Issues and Pull Requests](https://www.githubstatus.com/incidents/nf7s6933tnn8)
 * [2023-05-11, 13:32:09](https://news.ycombinator.com/item?id=35901760) - [NIH restarts bat virus grant](https://www.science.org/content/article/nih-restarts-bat-virus-grant-suspended-3-years-ago-trump)
+* [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-11, 13:16:35](https://news.ycombinator.com/item?id=35901579) - [On the Rise of Socialist Engineers](https://www.thedriftmag.com/the-engineers-predicament/)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901538) - [A transformer-based method for zero and few-shot biomedical NER](https://arxiv.org/abs/2305.04928)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff Is Ready to Renounce the Digital Revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
