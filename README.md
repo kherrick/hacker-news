@@ -6,7 +6,7 @@
 * [2023-05-12, 18:13:17](https://news.ycombinator.com/item?id=35919942) - [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
 * [2023-05-12, 18:02:50](https://news.ycombinator.com/item?id=35919753) - [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
 * [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
-* [2023-05-12, 17:42:23](https://news.ycombinator.com/item?id=35919451) - [Why don’t Inter Milan have a shirt sponsor?](https://www.givemesport.com/inter-milan-why-dont-they-have-a-shirt-sponsor/)
+* [2023-05-12, 17:42:16](https://news.ycombinator.com/item?id=35919449) - [Tucker’s Message Fiasco Is the Wakeup Call You Need to Auto-Delete Your Messages](https://blakeashleyjr.com/posts/whether-you-like-him-or-not-tuckers-message-fiasco-should-be-the-wakeup-call-you-need-to-encrypt-and-autodelete-your-messages/)
 * [2023-05-12, 17:37:50](https://news.ycombinator.com/item?id=35919370) - [Google makes its text-to-music AI public](https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/)
 * [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 * [2023-05-12, 17:27:30](https://news.ycombinator.com/item?id=35919227) - [AWS Lambda function for converting of Telegram channel to RSS feed](https://github.com/hleb-kastseika/tg-channel-to-rss)
