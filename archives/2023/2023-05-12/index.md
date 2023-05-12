@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 17:42:23](https://news.ycombinator.com/item?id=35919451) - [Inter Milan: Why don’t they have a shirt sponsor?](https://www.givemesport.com/inter-milan-why-dont-they-have-a-shirt-sponsor/)
+* [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
+* [2023-05-12, 17:27:30](https://news.ycombinator.com/item?id=35919227) - [AWS Lambda function for converting of Telegram channel to RSS feed](https://github.com/hleb-kastseika/tg-channel-to-rss)
 * [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
+* [2023-05-12, 17:17:22](https://news.ycombinator.com/item?id=35919068) - [Building Customer-Facing Real-Time Dashboards with Postgres](https://www.crunchydata.com/blog/building-customer-facing-real-time-dashboards-with-postgres)
 * [2023-05-12, 16:56:45](https://news.ycombinator.com/item?id=35918859) - [New Cars Are Just for Rich People Now](https://jalopnik.com/new-cars-cost-more-than-most-people-can-afford-1850414664)
 * [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
 * [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
@@ -34,6 +38,7 @@
 * [2023-05-12, 10:01:35](https://news.ycombinator.com/item?id=35914094) - [Google Quantum AI braids non-Abelian anyons for the first time](https://phys.org/news/2023-05-google-quantum-ai-braids-non-abelian.html)
 * [2023-05-12, 09:49:14](https://news.ycombinator.com/item?id=35914013) - [EU&#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
 * [2023-05-12, 08:56:27](https://news.ycombinator.com/item?id=35913660) - [What to do when you don’t have strong product-market fit](https://dreasaez.medium.com/what-to-do-when-you-dont-have-strong-product-market-fit-fdac5def15c9)
+* [2023-05-12, 08:54:20](https://news.ycombinator.com/item?id=35913640) - [The Practicality of Art in Software](https://www.macstories.net/stories/the-practicality-of-art-in-software/)
 * [2023-05-12, 08:52:56](https://news.ycombinator.com/item?id=35913628) - [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 * [2023-05-12, 08:43:27](https://news.ycombinator.com/item?id=35913572) - [Unrelated Words Puzzle](https://unrelatedwords.com)
 * [2023-05-12, 07:53:33](https://news.ycombinator.com/item?id=35913260) - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
