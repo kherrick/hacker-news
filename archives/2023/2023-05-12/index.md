@@ -12,6 +12,7 @@
 * [2023-05-12, 07:52:31](https://news.ycombinator.com/item?id=35913249) - [Encountering the High Arctic](https://hedgehogreview.com/web-features/thr/posts/encountering-the-high-arctic?ref=thebrowser.com)
 * [2023-05-12, 07:40:31](https://news.ycombinator.com/item?id=35913173) - [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
 * [2023-05-12, 07:28:04](https://news.ycombinator.com/item?id=35913083) - [The Last Gamble of Tokyo Joe](https://www.chicagomag.com/chicago-magazine/may-2023/the-last-gamble-of-tokyo-joe/)
+* [2023-05-12, 07:03:32](https://news.ycombinator.com/item?id=35912930) - [Tesla cancels Model S and Model X deliveries in Australia and other RHD markets](https://thedriven.io/2023/05/12/tesla-cancels-model-s-and-model-x-deliveries-in-australia-and-other-rhd-markets/)
 * [2023-05-12, 06:08:41](https://news.ycombinator.com/item?id=35912560) - [YouTuber admits he crashed plane in Santa Barbara, destroyed evidence](https://www.latimes.com/california/story/2023-05-11/youtuber-pilot-trevor-jacobs-admits-plane-crash-destroyed-evidence)
 * [2023-05-12, 05:44:55](https://news.ycombinator.com/item?id=35912374) - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 * [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
