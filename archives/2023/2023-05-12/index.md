@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
+* [2023-05-12, 18:13:17](https://news.ycombinator.com/item?id=35919942) - [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
 * [2023-05-12, 18:02:50](https://news.ycombinator.com/item?id=35919753) - [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
 * [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
 * [2023-05-12, 17:43:06](https://news.ycombinator.com/item?id=35919463) - [FDIC to hit biggest US banks with $16B bill for SVB clean-up](https://www.ft.com/content/c55c06f9-5de1-49e5-a9c5-770a885dab67)
 * [2023-05-12, 17:42:23](https://news.ycombinator.com/item?id=35919451) - [Inter Milan: Why don’t they have a shirt sponsor?](https://www.givemesport.com/inter-milan-why-dont-they-have-a-shirt-sponsor/)
+* [2023-05-12, 17:37:50](https://news.ycombinator.com/item?id=35919370) - [Google makes its text-to-music AI public](https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/)
 * [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 * [2023-05-12, 17:27:30](https://news.ycombinator.com/item?id=35919227) - [AWS Lambda function for converting of Telegram channel to RSS feed](https://github.com/hleb-kastseika/tg-channel-to-rss)
 * [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
