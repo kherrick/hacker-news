@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 08:52:56](https://news.ycombinator.com/item?id=35913628) - [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 * [2023-05-12, 07:53:33](https://news.ycombinator.com/item?id=35913260) - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
 * [2023-05-12, 05:44:55](https://news.ycombinator.com/item?id=35912374) - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 * [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
@@ -25,7 +26,6 @@
 * [2023-05-11, 13:46:03](https://news.ycombinator.com/item?id=35901981) - [The Birth and Death of JavaScript [video] (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff is ready to renounce the digital revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
-* [2023-05-11, 12:17:19](https://news.ycombinator.com/item?id=35901056) - [The Ugly Truth Behind “We Buy Ugly Houses”](https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses)
 * [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 – An HP-42S Calculator Simulator](https://thomasokken.com/free42/)
 * [2023-05-11, 10:01:20](https://news.ycombinator.com/item?id=35900024) - [Baseline: a unified view of stable web features](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
 * [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
