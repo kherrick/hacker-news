@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-05-11, 23:12:29",
-      "https://news.ycombinator.com/item?id=35909595"
-    ],
-    [
-      "Proposal: Less error-prone loop variable scoping",
-      "https://github.com/golang/go/issues/60078"
-    ]
-  ],
-  [
-    [
       "2023-05-11, 22:41:25",
       "https://news.ycombinator.com/item?id=35909326"
     ],
@@ -147,6 +137,16 @@
     [
       "Hobson’s choice",
       "https://en.wikipedia.org/wiki/Hobson%27s_choice"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 19:16:49",
+      "https://news.ycombinator.com/item?id=35907015"
+    ],
+    [
+      "Ibramenu: Bash-based self-hosted app deployment",
+      "https://ibramenu.io/"
     ]
   ],
   [
