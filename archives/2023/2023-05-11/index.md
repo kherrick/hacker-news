@@ -84,6 +84,7 @@
 * [2023-05-11, 08:49:24](https://news.ycombinator.com/item?id=35899518) - [Fuck Being Productive](https://dostoynikov.bearblog.dev/fuck-being-productive/)
 * [2023-05-11, 08:46:11](https://news.ycombinator.com/item?id=35899498) - [Teenage Engineering TP–7 field recorder](https://teenage.engineering/products/tp-7)
 * [2023-05-11, 07:37:50](https://news.ycombinator.com/item?id=35899020) - [32-Bit DOS Applications](https://www.youtube.com/watch?v=EDl9qBZ9Bb0)
+* [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
 * [2023-05-11, 03:54:02](https://news.ycombinator.com/item?id=35897198) - [Qubits 30 meters apart used to confirm Einstein was wrong about quantum](https://arstechnica.com/science/2023/05/qubits-used-to-confirm-that-the-universe-doesnt-keep-reality-local/)
 * [2023-05-11, 03:50:10](https://news.ycombinator.com/item?id=35897170) - [GitHub push protection is free for all public repositories](https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/)
 * [2023-05-11, 03:46:55](https://news.ycombinator.com/item?id=35897146) - [The Xerox PARC Archive](https://info.computerhistory.org/xerox-parc-archive)
