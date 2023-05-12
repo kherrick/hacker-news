@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2023-05-12, 19:07:51",
-      "https://news.ycombinator.com/item?id=35920773"
+      "2023-05-12, 19:10:32",
+      "https://news.ycombinator.com/item?id=35920811"
     ],
     [
-      "Hyper – A fast and correct HTTP implementation for Rust",
-      "https://crates.io/crates/hyper"
+      "Understanding Modern Storage APIs: A systematic study of libaio, SPDK, io_uring [pdf]",
+      "https://atlarge-research.com/pdfs/2022-systor-apis.pdf"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Exploring the native use of 64-bit posit arithmetic in scientific computing",
       "https://arxiv.org/abs/2305.06946"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 17:44:45",
-      "https://news.ycombinator.com/item?id=35919492"
-    ],
-    [
-      "How AI knows things no one told it",
-      "https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Turn ideas into music with MusicLM",
       "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 20:27:09",
+      "https://news.ycombinator.com/item?id=35893006"
+    ],
+    [
+      "A whirlwind tour of the LLVM optimizer",
+      "https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf"
     ]
   ]
 ]
