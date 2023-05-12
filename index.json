@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-05-12, 20:46:24",
-      "https://news.ycombinator.com/item?id=35922155"
-    ],
-    [
-      "ChatGPT Plugins rolling out to all Plus users over the course of the next week",
-      "https://help.openai.com/en/articles/6825453-chatgpt-release-notes/#h_9894d7b0a4"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 20:36:57",
       "https://news.ycombinator.com/item?id=35922020"
     ],
     [
-      "How fast can European steelmakers decarbonise",
+      "How fast can European steelmakers decarbonise?",
       "https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35921538"
     ],
     [
-      "Gilbert Strang&#x27;s final lecture at MIT",
+      "Gilbert Strang&#x27;s final lecture at MIT: May 15, 11:00am",
       "https://grinfeld.org/strang/"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35920261"
     ],
     [
-      "Morris Tanenbaum, inventor of the silicon microchip, has died",
+      "Morris Tanenbaum, inventor of the silicon transistor, has died",
       "https://spectrum.ieee.org/in-memoriam-may-2023"
     ]
   ],
@@ -127,16 +117,6 @@
     [
       "Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing",
       "https://arxiv.org/abs/2305.06946"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 17:37:50",
-      "https://news.ycombinator.com/item?id=35919370"
-    ],
-    [
-      "Google makes its text-to-music AI public",
-      "https://techcrunch.com/2023/05/10/google-makes-its-text-to-music-ai-public/"
     ]
   ],
   [
@@ -197,6 +177,16 @@
     [
       "Linda Yaccarino is the new CEO of Twitter",
       "https://twitter.com/elonmusk/status/1657050349608501249"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 15:26:36",
+      "https://news.ycombinator.com/item?id=35917556"
+    ],
+    [
+      "A local TV station investigated an underground mine fire in Pennsylvania",
+      "https://www.poynter.org/ethics-trust/2023/how-a-local-tv-station-investigated-an-underground-mine-fire-in-the-heart-of-pennsylvanias-coal-region/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Hacker News with Tags",
       "https://histre.com/hn/"
+    ]
+  ],
+  [
+    [
+      "2023-05-10, 21:32:09",
+      "https://news.ycombinator.com/item?id=35893819"
+    ],
+    [
+      "Turn ideas into music with MusicLM",
+      "https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/"
     ]
   ]
 ]
