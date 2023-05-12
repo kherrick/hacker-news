@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
 * [2023-05-12, 03:07:05](https://news.ycombinator.com/item?id=35911406) - [FUTO – An independent software lab and grant fund](https://futo.org/)
 * [2023-05-12, 00:36:55](https://news.ycombinator.com/item?id=35910352) - [What happened after I left my software engineering career (2022)](https://thewebivore.com/what-happened-next/)
 * [2023-05-12, 00:17:44](https://news.ycombinator.com/item?id=35910201) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
@@ -23,7 +24,6 @@
 * [2023-05-11, 15:02:04](https://news.ycombinator.com/item?id=35903188) - [Understanding the power of bitwise operators](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
 * [2023-05-11, 14:56:28](https://news.ycombinator.com/item?id=35903102) - [Commuter Cars Tango](http://www.commutercars.com/index.html)
 * [2023-05-11, 14:40:22](https://news.ycombinator.com/item?id=35902820) - [Deluge – sequencer, synthesizer and sampler – goes open source](https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/)
-* [2023-05-11, 14:21:17](https://news.ycombinator.com/item?id=35902506) - [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
 * [2023-05-11, 13:46:03](https://news.ycombinator.com/item?id=35901981) - [The Birth and Death of JavaScript [video] (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff is ready to renounce the digital revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
 * [2023-05-11, 12:57:40](https://news.ycombinator.com/item?id=35901377) - [Kiss your free returns goodbye](https://thehustle.co/kiss-your-free-returns-goodbye/)
