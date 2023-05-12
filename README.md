@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
+* [2023-05-12, 11:59:00](https://news.ycombinator.com/item?id=35914921) - [After 20 Years as a Prosecutor in Illinois, I Quit](https://www.realclearwire.com/articles/2023/05/10/after_20_years_as_a_prosecutor_in_illinois_i_quit_149206.html)
+* [2023-05-12, 11:38:04](https://news.ycombinator.com/item?id=35914726) - [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
 * [2023-05-12, 11:36:31](https://news.ycombinator.com/item?id=35914716) - [The EU AI act is coming, this time for real probably](https://wolfhf.medium.com/the-eu-ai-act-is-coming-this-time-for-real-probably-df31ad8c451f)
 * [2023-05-12, 11:34:54](https://news.ycombinator.com/item?id=35914705) - [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
@@ -23,8 +25,6 @@
 * [2023-05-11, 17:32:41](https://news.ycombinator.com/item?id=35905437) - [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [100K Context Windows](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 15:47:13](https://news.ycombinator.com/item?id=35903878) - [The Epic Stack](https://www.epicweb.dev/epic-stack)
-* [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
-* [2023-05-11, 13:46:03](https://news.ycombinator.com/item?id=35901981) - [The Birth and Death of JavaScript [video] (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 – An HP-42S Calculator Simulator](https://thomasokken.com/free42/)
 * [2023-05-11, 10:01:20](https://news.ycombinator.com/item?id=35900024) - [Baseline: a unified view of stable web features](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
