@@ -6,6 +6,7 @@
 
 * [2023-05-11, 23:15:00](https://news.ycombinator.com/item?id=35909625) - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
 * [2023-05-11, 23:12:29](https://news.ycombinator.com/item?id=35909595) - [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
+* [2023-05-11, 22:41:25](https://news.ycombinator.com/item?id=35909326) - [Drug shortages have worsened and may only increase in the future, experts say](https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say)
 * [2023-05-11, 22:36:00](https://news.ycombinator.com/item?id=35909272) - [One Day You’ll Find Yourself](https://www.onedayyoullfindyourself.com)
 * [2023-05-11, 22:29:20](https://news.ycombinator.com/item?id=35909203) - [YouTuber who staged plane crash faces up to 20 years jail](https://news.yahoo.com/youtuber-staged-plane-crash-faces-205718964.html)
 * [2023-05-11, 21:14:36](https://news.ycombinator.com/item?id=35908477) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
@@ -69,6 +70,7 @@
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
 * [2023-05-11, 11:24:04](https://news.ycombinator.com/item?id=35900635) - [Fern leaves and cauliflower curds are not fractals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419012/)
 * [2023-05-11, 10:38:43](https://news.ycombinator.com/item?id=35900282) - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
+* [2023-05-11, 10:01:20](https://news.ycombinator.com/item?id=35900024) - [Baseline: a unified view of stable web features](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
 * [2023-05-11, 09:07:45](https://news.ycombinator.com/item?id=35899665) - [Who Would Choose Socialism?](https://reason.com/1978/05/01/who-would-chose-socialism/)
 * [2023-05-11, 09:05:01](https://news.ycombinator.com/item?id=35899642) - [Product design and UX design resources – Degreeless.Design](https://www.degreeless.design)
 * [2023-05-11, 08:58:24](https://news.ycombinator.com/item?id=35899587) - [Show HN: BundleStore – increase revenue by offering your product in a bundle](https://bundlestore.airballoon.app/)
