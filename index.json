@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-12, 00:36:55",
+      "https://news.ycombinator.com/item?id=35910352"
+    ],
+    [
+      "What happened after I left my software engineering career",
+      "https://thewebivore.com/what-happened-next/"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 00:29:55",
+      "https://news.ycombinator.com/item?id=35910310"
+    ],
+    [
+      "‘We buy ugly houses’ is code for ‘we steal vulnerable peoples’ homes’",
+      "https://pluralistic.net/2023/05/11/ugly-houses-ugly-truth/#homevestor"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 23:15:00",
       "https://news.ycombinator.com/item?id=35909625"
     ],
@@ -17,6 +37,16 @@
     [
       "Proposal: Less error-prone loop variable scoping",
       "https://github.com/golang/go/issues/60078"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 22:41:25",
+      "https://news.ycombinator.com/item?id=35909326"
+    ],
+    [
+      "Drug shortages have worsened and may only increase in the future, experts say",
+      "https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-05-11, 20:03:26",
-      "https://news.ycombinator.com/item?id=35907663"
-    ],
-    [
-      "MemComputing vs. Quantum Computing",
-      "https://www.memcpu.com/blog/memcomputing-vs-quantum-computing/"
-    ]
-  ],
-  [
-    [
       "2023-05-11, 19:44:42",
       "https://news.ycombinator.com/item?id=35907432"
     ],
@@ -107,16 +127,6 @@
     [
       "Hobson&#x27;s Choice",
       "https://en.wikipedia.org/wiki/Hobson%27s_choice"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 19:16:49",
-      "https://news.ycombinator.com/item?id=35907015"
-    ],
-    [
-      "Ibramenu: Bash-based self-hosted app deployment",
-      "https://ibramenu.io/"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-05-11, 17:20:44",
+      "https://news.ycombinator.com/item?id=35905269"
+    ],
+    [
+      "“Considered Harmful” Essays Considered Harmful (2002)",
+      "https://meyerweb.com/eric/comment/chech.html"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 16:46:19",
       "https://news.ycombinator.com/item?id=35904773"
     ],
@@ -187,16 +207,6 @@
     [
       "Electronics Lab Bench Setup Guide",
       "https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 15:06:41",
-      "https://news.ycombinator.com/item?id=35903260"
-    ],
-    [
-      "When the Chips are Down",
-      "https://www.scopeofwork.net/when-the-chips-are-down/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-05-11, 08:50:26",
-      "https://news.ycombinator.com/item?id=35899527"
+      "2023-05-11, 10:01:20",
+      "https://news.ycombinator.com/item?id=35900024"
     ],
     [
-      "Bcachefs – A New COW Filesystem",
-      "https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 08:49:24",
-      "https://news.ycombinator.com/item?id=35899518"
-    ],
-    [
-      "Fuck being productive",
-      "https://dostoynikov.bearblog.dev/fuck-being-productive/"
+      "Baseline: a unified view of stable web features",
+      "https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/"
     ]
   ]
 ]
