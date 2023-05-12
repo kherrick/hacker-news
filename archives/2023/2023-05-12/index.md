@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 09:49:14](https://news.ycombinator.com/item?id=35914013) - [EU&#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
 * [2023-05-12, 08:52:56](https://news.ycombinator.com/item?id=35913628) - [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 * [2023-05-12, 07:53:33](https://news.ycombinator.com/item?id=35913260) - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
 * [2023-05-12, 06:08:41](https://news.ycombinator.com/item?id=35912560) - [YouTuber admits he crashed plane in Santa Barbara, destroyed evidence](https://www.latimes.com/california/story/2023-05-11/youtuber-pilot-trevor-jacobs-admits-plane-crash-destroyed-evidence)
