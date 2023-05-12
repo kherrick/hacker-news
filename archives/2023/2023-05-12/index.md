@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 19:07:51](https://news.ycombinator.com/item?id=35920773) - [Hyper – A fast and correct HTTP implementation for Rust](https://crates.io/crates/hyper)
 * [2023-05-12, 18:38:39](https://news.ycombinator.com/item?id=35920336) - [The .zip TLD sucks and it needs to be immediately revoked](https://financialstatement.zip/)
 * [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
 * [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)

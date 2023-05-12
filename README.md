@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 19:07:51](https://news.ycombinator.com/item?id=35920773) - [Hyper – A fast and correct HTTP implementation for Rust](https://crates.io/crates/hyper)
 * [2023-05-12, 18:38:39](https://news.ycombinator.com/item?id=35920336) - [The .zip TLD sucks and it needs to be immediately revoked](https://financialstatement.zip/)
 * [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
 * [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
@@ -28,7 +29,6 @@
 * [2023-05-11, 19:02:42](https://news.ycombinator.com/item?id=35906783) - [An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
 * [2023-05-11, 17:48:02](https://news.ycombinator.com/item?id=35905645) - [Old Advocacy, New Algorithms: How “Devil&#x27;s Advocates” Shaped AI Red Teaming](https://royapakzad.substack.com/p/old-advocacy-new-algorithms)
 * [2023-05-11, 17:02:39](https://news.ycombinator.com/item?id=35904988) - [Show HN: Hacker News with Tags](https://histre.com/hn/)
-* [2023-05-11, 14:47:39](https://news.ycombinator.com/item?id=35902942) - [Comparing Speed of Lambda, Step Functions, App Runner, and Direct Integrations](https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 
 ## [Archives](archives/index.md)
