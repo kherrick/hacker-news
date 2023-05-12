@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 11:36:31](https://news.ycombinator.com/item?id=35914716) - [The EU act is coming, this time for real probably](https://wolfhf.medium.com/the-eu-ai-act-is-coming-this-time-for-real-probably-df31ad8c451f)
+* [2023-05-12, 11:34:54](https://news.ycombinator.com/item?id=35914705) - [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
+* [2023-05-12, 10:51:40](https://news.ycombinator.com/item?id=35914447) - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 * [2023-05-12, 10:01:35](https://news.ycombinator.com/item?id=35914094) - [Google Quantum AI braids non-Abelian anyons for the first time](https://phys.org/news/2023-05-google-quantum-ai-braids-non-abelian.html)
 * [2023-05-12, 09:49:14](https://news.ycombinator.com/item?id=35914013) - [EU&#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
 * [2023-05-12, 08:56:27](https://news.ycombinator.com/item?id=35913660) - [What to do when you don’t have strong product-market fit](https://dreasaez.medium.com/what-to-do-when-you-dont-have-strong-product-market-fit-fdac5def15c9)
