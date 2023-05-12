@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Introducing &quot;Implement DNS in a Weekend&quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
+* [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:52:09](https://news.ycombinator.com/item?id=35915492) - [Baltimore sues Hyundai, Kia over spike in car thefts](https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
 * [2023-05-12, 11:59:00](https://news.ycombinator.com/item?id=35914921) - [After 20 Years as a Prosecutor in Illinois, I Quit](https://www.realclearwire.com/articles/2023/05/10/after_20_years_as_a_prosecutor_in_illinois_i_quit_149206.html)
