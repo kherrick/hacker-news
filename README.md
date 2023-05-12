@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Introducing &quot;Implement DNS in a Weekend&quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 * [2023-05-12, 12:52:09](https://news.ycombinator.com/item?id=35915492) - [Baltimore sues Hyundai, Kia over spike in car thefts](https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
-* [2023-05-12, 11:59:00](https://news.ycombinator.com/item?id=35914921) - [After 20 Years as a Prosecutor in Illinois, I Quit](https://www.realclearwire.com/articles/2023/05/10/after_20_years_as_a_prosecutor_in_illinois_i_quit_149206.html)
 * [2023-05-12, 11:38:04](https://news.ycombinator.com/item?id=35914726) - [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
 * [2023-05-12, 11:36:31](https://news.ycombinator.com/item?id=35914716) - [The EU AI act is coming, this time for real probably](https://wolfhf.medium.com/the-eu-ai-act-is-coming-this-time-for-real-probably-df31ad8c451f)
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
