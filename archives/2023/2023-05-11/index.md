@@ -47,6 +47,7 @@
 * [2023-05-11, 15:06:41](https://news.ycombinator.com/item?id=35903260) - [When the Chips Are Down - Interview with Chip War author](https://www.scopeofwork.net/when-the-chips-are-down/)
 * [2023-05-11, 15:02:04](https://news.ycombinator.com/item?id=35903188) - [Understanding the Power of Bitwise Operators. No Math Needed](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
 * [2023-05-11, 14:58:45](https://news.ycombinator.com/item?id=35903139) - [World ‘way off track’ from climate goal](https://news.harvard.edu/gazette/story/2023/05/world-way-offtrack-on-climate-goal-says-john-kerry/)
+* [2023-05-11, 14:56:28](https://news.ycombinator.com/item?id=35903102) - [Commuter Cars Tango](http://www.commutercars.com/index.html)
 * [2023-05-11, 14:53:20](https://news.ycombinator.com/item?id=35903056) - [Isgithub.live](https://isgithub.live/)
 * [2023-05-11, 14:44:01](https://news.ycombinator.com/item?id=35902881) - [CIAM vs. IAM: What&#x27;s the difference (2022)](https://fusionauth.io/learn/expert-advice/ciam/ciam-vs-iam)
 * [2023-05-11, 14:41:56](https://news.ycombinator.com/item?id=35902840) - [Taiwan is running low on engineers](https://www.nytimes.com/2023/05/11/technology/taiwan-tsmc-microchips.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 03:03:33](https://news.ycombinator.com/item?id=35911389) - [Cloudflare is slow and Cloudflare cant do much about it](https://hiranyey.dev/posts/cloudflare/)
 * [2023-05-12, 02:33:38](https://news.ycombinator.com/item?id=35911233) - [I won’t spend more than $250 on a new smartphone](https://www.theverge.com/23719879/smartphone-price-budget-pixel-7a-editorial)
 * [2023-05-12, 00:36:55](https://news.ycombinator.com/item?id=35910352) - [What happened after I left my software engineering career (2022)](https://thewebivore.com/what-happened-next/)
 * [2023-05-12, 00:17:44](https://news.ycombinator.com/item?id=35910201) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
@@ -20,9 +21,8 @@
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [100K Context Windows](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
 * [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
-* [2023-05-11, 15:02:04](https://news.ycombinator.com/item?id=35903188) - [Understanding the power of bitwise operators](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
+* [2023-05-11, 14:56:28](https://news.ycombinator.com/item?id=35903102) - [Commuter Cars Tango](http://www.commutercars.com/index.html)
 * [2023-05-11, 14:44:01](https://news.ycombinator.com/item?id=35902881) - [CIAM vs. IAM: What&#x27;s the difference (2022)](https://fusionauth.io/learn/expert-advice/ciam/ciam-vs-iam)
-* [2023-05-11, 14:41:56](https://news.ycombinator.com/item?id=35902840) - [Taiwan is running low on engineers](https://www.nytimes.com/2023/05/11/technology/taiwan-tsmc-microchips.html)
 * [2023-05-11, 14:40:22](https://news.ycombinator.com/item?id=35902820) - [Deluge – sequencer, synthesizer and sampler – goes open source](https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/)
 * [2023-05-11, 14:21:17](https://news.ycombinator.com/item?id=35902506) - [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
 * [2023-05-11, 13:46:03](https://news.ycombinator.com/item?id=35901981) - [The Birth and Death of JavaScript [video] (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
