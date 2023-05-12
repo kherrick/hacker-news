@@ -23,6 +23,7 @@
 * [2023-05-11, 19:24:41](https://news.ycombinator.com/item?id=35907155) - [Hobson&#x27;s Choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
 * [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based self-hosted app deployment](https://ibramenu.io/)
 * [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based Self-hosted App Deployment](https://github.com/ibracorp/ibramenu)
+* [2023-05-11, 19:02:42](https://news.ycombinator.com/item?id=35906783) - [An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
 * [2023-05-11, 18:52:47](https://news.ycombinator.com/item?id=35906604) - [Ask HN: It&#x27;s 2023, how do you choose between MySQL and Postgres?](https://news.ycombinator.com/item?id=35906604)
 * [2023-05-11, 18:32:11](https://news.ycombinator.com/item?id=35906292) - [TP-7](https://teenage.engineering/products/tp-7)
 * [2023-05-11, 18:21:26](https://news.ycombinator.com/item?id=35906135) - [SoftBank Vision funds post record $39B annual loss](https://www.ft.com/content/1dd470c2-be80-4887-83cc-87be93100a12)
