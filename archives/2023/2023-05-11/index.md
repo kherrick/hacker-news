@@ -66,6 +66,7 @@
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff Is Ready to Renounce the Digital Revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
 * [2023-05-11, 13:08:24](https://news.ycombinator.com/item?id=35901493) - [Why longtermism is the world’s most dangerous secular credo](https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo)
 * [2023-05-11, 13:04:51](https://news.ycombinator.com/item?id=35901453) - [Estimated IQ distribution of children given IQ of parents](https://milkyeggs.com/biology/estimated-iq-distribution-of-children-given-iq-of-parents/)
+* [2023-05-11, 12:57:40](https://news.ycombinator.com/item?id=35901377) - [Kiss your free returns goodbye](https://thehustle.co/kiss-your-free-returns-goodbye/)
 * [2023-05-11, 12:31:38](https://news.ycombinator.com/item?id=35901152) - [A look at what’s next for AI and Google Search [video]](https://www.youtube.com/watch?v=dVsiusLQy5Q)
 * [2023-05-11, 12:27:34](https://news.ycombinator.com/item?id=35901128) - [The 19th-Century Trippers Who Probed the Mind](https://nautil.us/the-19th-century-trippers-who-probed-the-mind-303265/)
 * [2023-05-11, 12:17:19](https://news.ycombinator.com/item?id=35901056) - [The Ugly Truth Behind “We Buy Ugly Houses”](https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses)
