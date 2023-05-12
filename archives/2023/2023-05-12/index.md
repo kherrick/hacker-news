@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
 * [2023-05-12, 16:06:36](https://news.ycombinator.com/item?id=35918146) - [Don&#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
 * [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:50:37](https://news.ycombinator.com/item?id=35917899) - [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917362) - [.zip is now available as a TLD](https://twitter.com/Google/status/1653866291692728320)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:51:53](https://news.ycombinator.com/item?id=35917152) - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
+* [2023-05-12, 14:51:20](https://news.ycombinator.com/item?id=35917145) - [Pax Calendar](https://en.wikipedia.org/wiki/Pax_Calendar)
 * [2023-05-12, 14:45:11](https://news.ycombinator.com/item?id=35917066) - [Animals Are Dying in Droves. What Are They Telling Us?](https://newrepublic.com/article/172221/animals-dying-sea-lions)
 * [2023-05-12, 14:42:59](https://news.ycombinator.com/item?id=35917030) - [Things You Can Do with KDE Connect on Linux](https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/)
 * [2023-05-12, 14:33:08](https://news.ycombinator.com/item?id=35916921) - [A CIA Officer&#x27;s Murder Was Used to Silence the Agency’s Greatest Critic](https://theintercept.com/2023/05/09/cia-frank-church-richard-welch-book/)

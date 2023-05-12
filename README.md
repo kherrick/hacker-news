@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
 * [2023-05-12, 16:06:36](https://news.ycombinator.com/item?id=35918146) - [Don&#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
 * [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:50:37](https://news.ycombinator.com/item?id=35917899) - [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:51:53](https://news.ycombinator.com/item?id=35917152) - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
+* [2023-05-12, 14:51:20](https://news.ycombinator.com/item?id=35917145) - [Pax Calendar](https://en.wikipedia.org/wiki/Pax_Calendar)
 * [2023-05-12, 14:42:59](https://news.ycombinator.com/item?id=35917030) - [Things You Can Do with KDE Connect on Linux](https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Implement DNS in a Weekend](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
@@ -15,7 +17,6 @@
 * [2023-05-12, 08:52:56](https://news.ycombinator.com/item?id=35913628) - [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 * [2023-05-12, 08:43:27](https://news.ycombinator.com/item?id=35913572) - [Unrelated Words Puzzle](https://unrelatedwords.com)
 * [2023-05-12, 07:53:33](https://news.ycombinator.com/item?id=35913260) - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
-* [2023-05-12, 07:52:31](https://news.ycombinator.com/item?id=35913249) - [Encountering the High Arctic](https://hedgehogreview.com/web-features/thr/posts/encountering-the-high-arctic?ref=thebrowser.com)
 * [2023-05-12, 07:51:32](https://news.ycombinator.com/item?id=35913241) - [BQNPAD](https://bqnpad.mechanize.systems/)
 * [2023-05-12, 07:43:15](https://news.ycombinator.com/item?id=35913188) - [The Life and Science of Richard Feynman (1992)](https://www.nybooks.com/articles/1992/12/17/the-one-and-only-2/)
 * [2023-05-12, 07:40:31](https://news.ycombinator.com/item?id=35913173) - [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
@@ -29,7 +30,6 @@
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [100K Context Windows](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 14:47:39](https://news.ycombinator.com/item?id=35902942) - [Comparing Speed of Lambda, Step Functions, App Runner, and Direct Integrations](https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
-* [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming (2021) [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
 
 ## [Archives](archives/index.md)
 
