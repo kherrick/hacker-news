@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
 * [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
+* [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
+* [2023-05-12, 18:14:44](https://news.ycombinator.com/item?id=35919977) - [Geothermal Everywhere: Finding the Energy to Save the World](https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas/)
 * [2023-05-12, 18:13:17](https://news.ycombinator.com/item?id=35919942) - [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
 * [2023-05-12, 18:02:50](https://news.ycombinator.com/item?id=35919753) - [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
 * [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
