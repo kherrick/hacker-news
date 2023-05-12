@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 20:36:57](https://news.ycombinator.com/item?id=35922020) - [How fast can European steelmakers decarbonise](https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise)
 * [2023-05-12, 20:01:29](https://news.ycombinator.com/item?id=35921538) - [Gilbert Strang&#x27;s final lecture at MIT](https://grinfeld.org/strang/)
-* [2023-05-12, 19:44:20](https://news.ycombinator.com/item?id=35921308) - [Web browsing and Plugins are now rolling out in beta (May 12)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4)
 * [2023-05-12, 19:13:06](https://news.ycombinator.com/item?id=35920844) - [Open-source disposable email service](https://sorry.idont.date/)
 * [2023-05-12, 19:10:32](https://news.ycombinator.com/item?id=35920811) - [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, io_uring [pdf]](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
 * [2023-05-12, 19:07:51](https://news.ycombinator.com/item?id=35920773) - [Hyper – A fast and correct HTTP implementation for Rust](https://crates.io/crates/hyper)
@@ -23,12 +23,12 @@
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Implement DNS in a Weekend](https://implement-dns.wizardzines.com/)
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:52:09](https://news.ycombinator.com/item?id=35915492) - [Baltimore sues Hyundai, Kia over spike in car thefts](https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/)
+* [2023-05-12, 12:47:23](https://news.ycombinator.com/item?id=35915437) - [AR Demands Peripherals](https://taylor.town/ar-peripherals)
 * [2023-05-12, 12:26:43](https://news.ycombinator.com/item?id=35915191) - [Polyphony: Fine-Grained Concurrency for Ruby](https://github.com/digital-fabric/polyphony)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
 * [2023-05-12, 10:51:40](https://news.ycombinator.com/item?id=35914447) - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 * [2023-05-12, 08:54:20](https://news.ycombinator.com/item?id=35913640) - [The Practicality of Art in Software](https://www.macstories.net/stories/the-practicality-of-art-in-software/)
 * [2023-05-12, 07:43:15](https://news.ycombinator.com/item?id=35913188) - [The Life and Science of Richard Feynman (1992)](https://www.nybooks.com/articles/1992/12/17/the-one-and-only-2/)
-* [2023-05-12, 05:33:39](https://news.ycombinator.com/item?id=35912286) - [Indian Sign Talk (1893)](https://publicdomainreview.org/collection/indian-sign-talk)
 * [2023-05-11, 17:02:39](https://news.ycombinator.com/item?id=35904988) - [Show HN: Hacker News with Tags](https://histre.com/hn/)
 
 ## [Archives](archives/index.md)

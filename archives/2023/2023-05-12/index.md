@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 20:36:57](https://news.ycombinator.com/item?id=35922020) - [How fast can European steelmakers decarbonise](https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise)
 * [2023-05-12, 20:01:29](https://news.ycombinator.com/item?id=35921538) - [GIL Strang&#x27;s final lecture at MIT](https://grinfeld.org/strang/)
 * [2023-05-12, 19:44:20](https://news.ycombinator.com/item?id=35921308) - [Web browsing and Plugins are now rolling out in beta (May 12)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4)
 * [2023-05-12, 19:13:06](https://news.ycombinator.com/item?id=35920844) - [Open-source disposable email service](https://sorry.idont.date/)
@@ -44,6 +45,7 @@
 * [2023-05-12, 13:31:27](https://news.ycombinator.com/item?id=35915987) - [What Are Your Biggest Challenges and How Are You Overcoming Them?](https://news.ycombinator.com/item?id=35915987)
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:52:09](https://news.ycombinator.com/item?id=35915492) - [Baltimore sues Hyundai, Kia over spike in car thefts](https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/)
+* [2023-05-12, 12:47:23](https://news.ycombinator.com/item?id=35915437) - [AR Demands Peripherals](https://taylor.town/ar-peripherals)
 * [2023-05-12, 12:26:43](https://news.ycombinator.com/item?id=35915191) - [Polyphony: Fine-Grained Concurrency for Ruby](https://github.com/digital-fabric/polyphony)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
 * [2023-05-12, 11:59:00](https://news.ycombinator.com/item?id=35914921) - [After 20 Years as a Prosecutor in Illinois, I Quit](https://www.realclearwire.com/articles/2023/05/10/after_20_years_as_a_prosecutor_in_illinois_i_quit_149206.html)
