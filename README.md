@@ -7,11 +7,10 @@
 * [2023-05-12, 20:16:28](https://news.ycombinator.com/item?id=35921745) - [A RP2040 Powered MIDI-Controlled Synth in CircuitPython](https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b)
 * [2023-05-12, 20:01:29](https://news.ycombinator.com/item?id=35921538) - [Gilbert Strang&#x27;s final lecture at MIT: May 15, 11:00am](https://grinfeld.org/strang/)
 * [2023-05-12, 19:13:06](https://news.ycombinator.com/item?id=35920844) - [Open-source disposable email service](https://sorry.idont.date/)
-* [2023-05-12, 19:07:51](https://news.ycombinator.com/item?id=35920773) - [Hyper – A fast and correct HTTP implementation for Rust](https://crates.io/crates/hyper)
+* [2023-05-12, 19:10:32](https://news.ycombinator.com/item?id=35920811) - [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, io_uring [pdf]](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
 * [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, inventor of the silicon transistor, has died](https://spectrum.ieee.org/in-memoriam-may-2023)
 * [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
 * [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the native use of 64-bit posit arithmetic in scientific computing](https://arxiv.org/abs/2305.06946)
-* [2023-05-12, 17:44:45](https://news.ycombinator.com/item?id=35919492) - [How AI knows things no one told it](https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/)
 * [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 * [2023-05-12, 17:27:30](https://news.ycombinator.com/item?id=35919227) - [AWS Lambda function for converting of Telegram channel to RSS feed](https://github.com/hleb-kastseika/tg-channel-to-rss)
 * [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
@@ -30,6 +29,7 @@
 * [2023-05-12, 07:28:04](https://news.ycombinator.com/item?id=35913083) - [The Last Gamble of Tokyo Joe](https://www.chicagomag.com/chicago-magazine/may-2023/the-last-gamble-of-tokyo-joe/)
 * [2023-05-11, 19:02:42](https://news.ycombinator.com/item?id=35906783) - [An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
 * [2023-05-10, 21:32:09](https://news.ycombinator.com/item?id=35893819) - [Turn ideas into music with MusicLM](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
+* [2023-05-10, 20:27:09](https://news.ycombinator.com/item?id=35893006) - [A whirlwind tour of the LLVM optimizer](https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf)
 
 ## [Archives](archives/index.md)
 

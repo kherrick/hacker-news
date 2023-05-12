@@ -18,6 +18,7 @@
 * [2023-05-10, 21:00:10](https://news.ycombinator.com/item?id=35893439) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-05-10, 20:51:44](https://news.ycombinator.com/item?id=35893334) - [Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
 * [2023-05-10, 20:36:17](https://news.ycombinator.com/item?id=35893133) - [As the California sea lion population got bigger, so did male sea lions](https://news.ucsc.edu/2023/04/sea-lion-size.html)
+* [2023-05-10, 20:27:09](https://news.ycombinator.com/item?id=35893006) - [A whirlwind tour of the LLVM optimizer](https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf)
 * [2023-05-10, 20:13:58](https://news.ycombinator.com/item?id=35892837) - [Report on the Censorship-Industrial Complex: The Top Organizations to Know](https://www.racket.news/p/report-on-the-censorship-industrial-74b)
 * [2023-05-10, 20:02:22](https://news.ycombinator.com/item?id=35892701) - [Librem 5 USA Smartphone Provides Many Exclusive Security Features](https://puri.sm/posts/librem-5-usa-smart-phone-provides-many-exclusive-security-features/)
 * [2023-05-10, 19:45:03](https://news.ycombinator.com/item?id=35892512) - [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
