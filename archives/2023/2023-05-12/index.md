@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
 * [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
+* [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
 * [2023-05-12, 16:06:36](https://news.ycombinator.com/item?id=35918146) - [Don&#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
 * [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:50:37](https://news.ycombinator.com/item?id=35917899) - [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)

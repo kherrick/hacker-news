@@ -31,6 +31,7 @@
 * [2023-05-11, 18:04:06](https://news.ycombinator.com/item?id=35905876) - [Gandalf – Game to make an LLM reveal a secret password](https://gandalf.lakera.ai/)
 * [2023-05-11, 18:02:28](https://news.ycombinator.com/item?id=35905858) - [Programing Best Practices 2023](https://github.com/dereknguyen269/programing-best-practices-2023)
 * [2023-05-11, 17:49:24](https://news.ycombinator.com/item?id=35905677) - [Session recording for Tailscale SSH in beta](https://tailscale.com/blog/session-recording-beta/)
+* [2023-05-11, 17:48:02](https://news.ycombinator.com/item?id=35905645) - [Old Advocacy, New Algorithms: How “Devil&#x27;s Advocates” Shaped AI Red Teaming](https://royapakzad.substack.com/p/old-advocacy-new-algorithms)
 * [2023-05-11, 17:46:35](https://news.ycombinator.com/item?id=35905624) - [Why I Blog](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
 * [2023-05-11, 17:32:41](https://news.ycombinator.com/item?id=35905437) - [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
 * [2023-05-11, 17:20:44](https://news.ycombinator.com/item?id=35905269) - [“Considered Harmful” Essays Considered Harmful](https://meyerweb.com/eric/comment/chech.html)

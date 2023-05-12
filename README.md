@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
+* [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
 * [2023-05-12, 16:06:36](https://news.ycombinator.com/item?id=35918146) - [Don&#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
 * [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:50:37](https://news.ycombinator.com/item?id=35917899) - [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
@@ -12,7 +13,6 @@
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
 * [2023-05-12, 11:38:04](https://news.ycombinator.com/item?id=35914726) - [Welcome to Life: the singularity, ruined by lawyers (2012) [video]](https://www.youtube.com/watch?v=IFe9wiDfb0E)
-* [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 * [2023-05-12, 10:51:40](https://news.ycombinator.com/item?id=35914447) - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 * [2023-05-12, 08:52:56](https://news.ycombinator.com/item?id=35913628) - [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 * [2023-05-12, 08:43:27](https://news.ycombinator.com/item?id=35913572) - [Unrelated Words Puzzle](https://unrelatedwords.com)
@@ -25,9 +25,9 @@
 * [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
 * [2023-05-12, 03:07:05](https://news.ycombinator.com/item?id=35911406) - [FUTO – An independent software lab and grant fund](https://futo.org/)
 * [2023-05-11, 19:02:42](https://news.ycombinator.com/item?id=35906783) - [An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
+* [2023-05-11, 17:48:02](https://news.ycombinator.com/item?id=35905645) - [Old Advocacy, New Algorithms: How “Devil&#x27;s Advocates” Shaped AI Red Teaming](https://royapakzad.substack.com/p/old-advocacy-new-algorithms)
 * [2023-05-11, 17:32:41](https://news.ycombinator.com/item?id=35905437) - [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
 * [2023-05-11, 17:02:39](https://news.ycombinator.com/item?id=35904988) - [Show HN: Hacker News with Tags](https://histre.com/hn/)
-* [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [100K Context Windows](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 14:47:39](https://news.ycombinator.com/item?id=35902942) - [Comparing Speed of Lambda, Step Functions, App Runner, and Direct Integrations](https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 
