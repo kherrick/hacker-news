@@ -10,7 +10,7 @@
 * [2023-05-12, 17:17:22](https://news.ycombinator.com/item?id=35919068) - [Building Customer-Facing Real-Time Dashboards with Postgres](https://www.crunchydata.com/blog/building-customer-facing-real-time-dashboards-with-postgres)
 * [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
 * [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
-* [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
+* [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [Linda Yaccarino is the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:51:20](https://news.ycombinator.com/item?id=35917145) - [Pax Calendar](https://en.wikipedia.org/wiki/Pax_Calendar)
 * [2023-05-12, 14:42:59](https://news.ycombinator.com/item?id=35917030) - [Things You Can Do with KDE Connect on Linux](https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/)
