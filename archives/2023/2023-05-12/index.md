@@ -6,6 +6,7 @@
 
 * [2023-05-12, 14:09:05](https://news.ycombinator.com/item?id=35916592) - [Google is exploring blocking AdBlocker on YouTube](https://www.ign.com/articles/google-responds-to-reports-of-ad-blockers-being-banned-on-youtube)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Introducing &quot;Implement DNS in a Weekend&quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
+* [2023-05-12, 13:31:27](https://news.ycombinator.com/item?id=35915987) - [What Are Your Biggest Challenges and How Are You Overcoming Them?](https://news.ycombinator.com/item?id=35915987)
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:52:09](https://news.ycombinator.com/item?id=35915492) - [Baltimore sues Hyundai, Kia over spike in car thefts](https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)

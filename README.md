@@ -2,9 +2,9 @@
 
 * [2023-05-12, 14:09:05](https://news.ycombinator.com/item?id=35916592) - [Google is exploring blocking AdBlocker on YouTube](https://www.ign.com/articles/google-responds-to-reports-of-ad-blockers-being-banned-on-youtube)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Introducing &quot;Implement DNS in a Weekend&quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
+* [2023-05-12, 13:31:27](https://news.ycombinator.com/item?id=35915987) - [What Are Your Biggest Challenges and How Are You Overcoming Them?](https://news.ycombinator.com/item?id=35915987)
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
-* [2023-05-12, 11:58:58](https://news.ycombinator.com/item?id=35914920) - [Climate change may be making turbulence worse](https://www.npr.org/2023/04/06/1166993992/turbulence-climate-change)
 * [2023-05-12, 11:38:04](https://news.ycombinator.com/item?id=35914726) - [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 * [2023-05-12, 10:51:40](https://news.ycombinator.com/item?id=35914447) - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
@@ -19,6 +19,7 @@
 * [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
 * [2023-05-12, 03:07:05](https://news.ycombinator.com/item?id=35911406) - [FUTO – An independent software lab and grant fund](https://futo.org/)
 * [2023-05-12, 00:17:44](https://news.ycombinator.com/item?id=35910201) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+* [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 19:44:42](https://news.ycombinator.com/item?id=35907432) - [A Life of One’s Own: Marion Milner (2017)](https://www.themarginalian.org/2017/10/11/a-life-of-ones-own-joanna-field-marion-milner/)
 * [2023-05-11, 19:16:49](https://news.ycombinator.com/item?id=35907015) - [Ibramenu: Bash-based self-hosted app deployment](https://ibramenu.io/)
 * [2023-05-11, 19:02:42](https://news.ycombinator.com/item?id=35906783) - [An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
@@ -27,7 +28,6 @@
 * [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 14:47:39](https://news.ycombinator.com/item?id=35902942) - [Comparing Speed of Lambda, Step Functions, App Runner, and Direct Integrations](https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
-* [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 – An HP-42S Calculator Simulator](https://thomasokken.com/free42/)
 * [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
 * [2023-05-09, 08:27:06](https://news.ycombinator.com/item?id=35871565) - [Into Thin AirPods](https://defector.com/into-thin-airpods)
 
