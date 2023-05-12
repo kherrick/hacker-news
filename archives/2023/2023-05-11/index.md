@@ -41,6 +41,7 @@
 * [2023-05-11, 16:00:39](https://news.ycombinator.com/item?id=35904118) - [IRS Files $44B Claims Against Bankrupt FTX](https://unchainedcrypto.com/irs-files-44-billion-claims-against-bankrupt-ftx/)
 * [2023-05-11, 15:55:09](https://news.ycombinator.com/item?id=35904008) - [Scientists find enzyme that can make electricity out of tiny amounts of hydrogen](https://www.abc.net.au/news/2023-03-09/monash-university-air-electricity-enzyme-soil/102071786)
 * [2023-05-11, 15:52:21](https://news.ycombinator.com/item?id=35903956) - [May Flowers Spring COSMIC Showers](https://blog.system76.com/post/may-flowers-spring-cosmic-showers/)
+* [2023-05-11, 15:47:13](https://news.ycombinator.com/item?id=35903878) - [The Epic Stack](https://www.epicweb.dev/epic-stack)
 * [2023-05-11, 15:16:40](https://news.ycombinator.com/item?id=35903394) - [Automating the capture of airplane pictures with Raspberry Pi&#x2F;ADS-B&#x2F;IoT software](https://medium.com/@arunvenkats/automating-the-capture-of-airplane-pictures-with-raspberry-pis-ads-b-and-iot-software-39e25ddcf3ea)
 * [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
 * [2023-05-11, 15:07:03](https://news.ycombinator.com/item?id=35903267) - [Turkish presidential candidate quits race after release of alleged sex tape](https://www.theguardian.com/world/2023/may/11/muharrem-ince-turkish-presidential-candidate-withdraws-alleged-sex-tape)
