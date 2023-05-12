@@ -25,11 +25,11 @@
 * [2023-05-12, 03:07:05](https://news.ycombinator.com/item?id=35911406) - [FUTO – An independent software lab and grant fund](https://futo.org/)
 * [2023-05-11, 19:02:42](https://news.ycombinator.com/item?id=35906783) - [An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
 * [2023-05-11, 17:32:41](https://news.ycombinator.com/item?id=35905437) - [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
+* [2023-05-11, 17:02:39](https://news.ycombinator.com/item?id=35904988) - [Show HN: Hacker News with Tags](https://histre.com/hn/)
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [100K Context Windows](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 14:47:39](https://news.ycombinator.com/item?id=35902942) - [Comparing Speed of Lambda, Step Functions, App Runner, and Direct Integrations](https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming (2021) [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
-* [2023-05-09, 08:27:06](https://news.ycombinator.com/item?id=35871565) - [Into Thin AirPods](https://defector.com/into-thin-airpods)
 
 ## [Archives](archives/index.md)
 

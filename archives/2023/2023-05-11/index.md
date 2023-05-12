@@ -34,6 +34,7 @@
 * [2023-05-11, 17:46:35](https://news.ycombinator.com/item?id=35905624) - [Why I Blog](https://www.craigkerstiens.com/2013/03/31/why-i-blog/)
 * [2023-05-11, 17:32:41](https://news.ycombinator.com/item?id=35905437) - [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
 * [2023-05-11, 17:20:44](https://news.ycombinator.com/item?id=35905269) - [“Considered Harmful” Essays Considered Harmful](https://meyerweb.com/eric/comment/chech.html)
+* [2023-05-11, 17:02:39](https://news.ycombinator.com/item?id=35904988) - [Show HN: Hacker News with Tags](https://histre.com/hn/)
 * [2023-05-11, 17:01:10](https://news.ycombinator.com/item?id=35904973) - [RankScience (YC W17) Is Hiring SDR&#x27;s with a Knack for SEO](https://remotejobs.org/remote-jobs/sales-development-representative-1121)
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
