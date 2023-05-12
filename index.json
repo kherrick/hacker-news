@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-12, 00:17:44",
+      "https://news.ycombinator.com/item?id=35910201"
+    ],
+    [
+      "How to do distributed locking (2016)",
+      "https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html"
+    ]
+  ],
+  [
+    [
       "2023-05-11, 23:15:00",
       "https://news.ycombinator.com/item?id=35909625"
     ],
@@ -191,22 +201,22 @@
   ],
   [
     [
-      "2023-05-11, 15:06:41",
-      "https://news.ycombinator.com/item?id=35903260"
-    ],
-    [
-      "When the Chips are Down",
-      "https://www.scopeofwork.net/when-the-chips-are-down/"
-    ]
-  ],
-  [
-    [
       "2023-05-11, 15:02:04",
       "https://news.ycombinator.com/item?id=35903188"
     ],
     [
       "Understanding the power of bitwise operators",
       "https://www.deusinmachina.net/p/understanding-the-power-of-bitwise"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 14:44:01",
+      "https://news.ycombinator.com/item?id=35902881"
+    ],
+    [
+      "CIAM vs. IAM: What&#x27;s the difference (2022)",
+      "https://fusionauth.io/learn/expert-advice/ciam/ciam-vs-iam"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2023-05-11, 12:27:34",
-      "https://news.ycombinator.com/item?id=35901128"
+      "2023-05-11, 12:17:19",
+      "https://news.ycombinator.com/item?id=35901056"
     ],
     [
-      "19th-century trippers who probed the mind",
-      "https://nautil.us/the-19th-century-trippers-who-probed-the-mind-303265/"
+      "The Ugly Truth Behind “We Buy Ugly Houses”",
+      "https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Pharo 11",
       "https://pharo.org/news/pharo11-released.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 10:38:43",
-      "https://news.ycombinator.com/item?id=35900282"
-    ],
-    [
-      "The JavaScript ecosystem is delightfully weird",
-      "https://fly.io/blog/js-ecosystem-delightfully-wierd/"
     ]
   ],
   [
