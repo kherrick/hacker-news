@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 21:39:53](https://news.ycombinator.com/item?id=35922802) - [Greater than 90% chance of El Niño persisting into Northern Hemisphere winter](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
 * [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
 * [2023-05-12, 20:36:57](https://news.ycombinator.com/item?id=35922020) - [How fast can European steelmakers decarbonise?](https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise)
 * [2023-05-12, 20:21:45](https://news.ycombinator.com/item?id=35921828) - [The SGI XFS Filesystem](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
@@ -19,7 +20,6 @@
 * [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [Linda Yaccarino is the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. focuses on invigorating ‘chiplets’ to stay cutting-edge in tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Implement DNS in a Weekend](https://implement-dns.wizardzines.com/)
-* [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:52:09](https://news.ycombinator.com/item?id=35915492) - [Baltimore sues Hyundai, Kia over spike in car thefts](https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/)
 * [2023-05-12, 12:26:43](https://news.ycombinator.com/item?id=35915191) - [Polyphony: Fine-Grained Concurrency for Ruby](https://github.com/digital-fabric/polyphony)
 * [2023-05-12, 12:06:14](https://news.ycombinator.com/item?id=35914997) - [Has Apple sounded the last POST?](https://eclecticlight.co/2023/05/12/has-apple-sounded-the-last-post/)

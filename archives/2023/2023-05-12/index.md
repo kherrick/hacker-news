@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 21:39:53](https://news.ycombinator.com/item?id=35922802) - [Greater than 90% chance of El Niño persisting into Northern Hemisphere winter](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
 * [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
 * [2023-05-12, 20:46:24](https://news.ycombinator.com/item?id=35922155) - [ChatGPT Plugins rolling out to all Plus users over the course of the next week](https://help.openai.com/en/articles/6825453-chatgpt-release-notes/#h_9894d7b0a4)
 * [2023-05-12, 20:36:57](https://news.ycombinator.com/item?id=35922020) - [How fast can European steelmakers decarbonise](https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise)
