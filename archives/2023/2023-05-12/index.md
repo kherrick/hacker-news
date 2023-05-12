@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
+* [2023-05-12, 20:46:24](https://news.ycombinator.com/item?id=35922155) - [ChatGPT Plugins rolling out to all Plus users over the course of the next week](https://help.openai.com/en/articles/6825453-chatgpt-release-notes/#h_9894d7b0a4)
 * [2023-05-12, 20:36:57](https://news.ycombinator.com/item?id=35922020) - [How fast can European steelmakers decarbonise](https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise)
 * [2023-05-12, 20:01:29](https://news.ycombinator.com/item?id=35921538) - [GIL Strang&#x27;s final lecture at MIT](https://grinfeld.org/strang/)
 * [2023-05-12, 19:44:20](https://news.ycombinator.com/item?id=35921308) - [Web browsing and Plugins are now rolling out in beta (May 12)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4)
