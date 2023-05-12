@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
 * [2023-05-12, 20:01:29](https://news.ycombinator.com/item?id=35921538) - [GIL Strang&#x27;s final lecture at MIT](https://grinfeld.org/strang/)
+* [2023-05-12, 19:44:20](https://news.ycombinator.com/item?id=35921308) - [Web browsing and Plugins are now rolling out in beta (May 12)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4)
+* [2023-05-12, 19:13:06](https://news.ycombinator.com/item?id=35920844) - [Open-source disposable email service](https://sorry.idont.date/)
+* [2023-05-12, 19:10:32](https://news.ycombinator.com/item?id=35920811) - [Understanding Modern Storage APIs: A systematic study of libaio, SPDK, io_uring [pdf]](https://atlarge-research.com/pdfs/2022-systor-apis.pdf)
 * [2023-05-12, 19:07:51](https://news.ycombinator.com/item?id=35920773) - [Hyper – A fast and correct HTTP implementation for Rust](https://crates.io/crates/hyper)
 * [2023-05-12, 18:38:39](https://news.ycombinator.com/item?id=35920336) - [The .zip TLD sucks and it needs to be immediately revoked](https://financialstatement.zip/)
 * [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
