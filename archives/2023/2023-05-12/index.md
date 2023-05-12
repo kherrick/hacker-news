@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 * [2023-05-12, 10:01:35](https://news.ycombinator.com/item?id=35914094) - [Google Quantum AI braids non-Abelian anyons for the first time](https://phys.org/news/2023-05-google-quantum-ai-braids-non-abelian.html)
 * [2023-05-12, 09:49:14](https://news.ycombinator.com/item?id=35914013) - [EU&#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
 * [2023-05-12, 08:56:27](https://news.ycombinator.com/item?id=35913660) - [What to do when you don’t have strong product-market fit](https://dreasaez.medium.com/what-to-do-when-you-dont-have-strong-product-market-fit-fdac5def15c9)
