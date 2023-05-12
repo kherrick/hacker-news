@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917362) - [.zip is now available as a TLD](https://twitter.com/Google/status/1653866291692728320)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
+* [2023-05-12, 14:51:53](https://news.ycombinator.com/item?id=35917152) - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
 * [2023-05-12, 14:45:11](https://news.ycombinator.com/item?id=35917066) - [Animals Are Dying in Droves. What Are They Telling Us?](https://newrepublic.com/article/172221/animals-dying-sea-lions)
+* [2023-05-12, 14:42:59](https://news.ycombinator.com/item?id=35917030) - [Things You Can Do with KDE Connect on Linux](https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/)
 * [2023-05-12, 14:09:05](https://news.ycombinator.com/item?id=35916592) - [Google is exploring blocking AdBlocker on YouTube](https://www.ign.com/articles/google-responds-to-reports-of-ad-blockers-being-banned-on-youtube)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Introducing &quot;Implement DNS in a Weekend&quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 * [2023-05-12, 13:31:27](https://news.ycombinator.com/item?id=35915987) - [What Are Your Biggest Challenges and How Are You Overcoming Them?](https://news.ycombinator.com/item?id=35915987)
