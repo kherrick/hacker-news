@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 18:02:50](https://news.ycombinator.com/item?id=35919753) - [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
+* [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
+* [2023-05-12, 17:43:06](https://news.ycombinator.com/item?id=35919463) - [FDIC to hit biggest US banks with $16B bill for SVB clean-up](https://www.ft.com/content/c55c06f9-5de1-49e5-a9c5-770a885dab67)
 * [2023-05-12, 17:42:23](https://news.ycombinator.com/item?id=35919451) - [Inter Milan: Why don’t they have a shirt sponsor?](https://www.givemesport.com/inter-milan-why-dont-they-have-a-shirt-sponsor/)
 * [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 * [2023-05-12, 17:27:30](https://news.ycombinator.com/item?id=35919227) - [AWS Lambda function for converting of Telegram channel to RSS feed](https://github.com/hleb-kastseika/tg-channel-to-rss)
@@ -24,6 +27,7 @@
 * [2023-05-12, 14:33:08](https://news.ycombinator.com/item?id=35916921) - [A CIA Officer&#x27;s Murder Was Used to Silence the Agency’s Greatest Critic](https://theintercept.com/2023/05/09/cia-frank-church-richard-welch-book/)
 * [2023-05-12, 14:09:05](https://news.ycombinator.com/item?id=35916592) - [Google is exploring blocking AdBlocker on YouTube](https://www.ign.com/articles/google-responds-to-reports-of-ad-blockers-being-banned-on-youtube)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Introducing &quot;Implement DNS in a Weekend&quot;](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
+* [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Implement DNS in a Weekend](https://implement-dns.wizardzines.com/)
 * [2023-05-12, 13:31:27](https://news.ycombinator.com/item?id=35915987) - [What Are Your Biggest Challenges and How Are You Overcoming Them?](https://news.ycombinator.com/item?id=35915987)
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:52:09](https://news.ycombinator.com/item?id=35915492) - [Baltimore sues Hyundai, Kia over spike in car thefts](https://www.thebaltimorebanner.com/community/criminal-justice/baltimore-lawsuit-hyundai-kia-thefts-WQ74KXUXTBGB3JOTHQHEGIPT6M/)
