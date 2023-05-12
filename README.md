@@ -2,7 +2,6 @@
 
 * [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94](https://spectrum.ieee.org/in-memoriam-may-2023)
 * [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
-* [2023-05-12, 18:14:44](https://news.ycombinator.com/item?id=35919977) - [Geothermal Everywhere: Finding the Energy to Save the World](https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas/)
 * [2023-05-12, 18:13:17](https://news.ycombinator.com/item?id=35919942) - [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
 * [2023-05-12, 18:02:50](https://news.ycombinator.com/item?id=35919753) - [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
 * [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
@@ -25,6 +24,7 @@
 * [2023-05-12, 07:51:32](https://news.ycombinator.com/item?id=35913241) - [BQNPAD](https://bqnpad.mechanize.systems/)
 * [2023-05-12, 07:43:15](https://news.ycombinator.com/item?id=35913188) - [The Life and Science of Richard Feynman (1992)](https://www.nybooks.com/articles/1992/12/17/the-one-and-only-2/)
 * [2023-05-12, 07:40:31](https://news.ycombinator.com/item?id=35913173) - [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
+* [2023-05-12, 05:33:39](https://news.ycombinator.com/item?id=35912286) - [Indian Sign Talk (1893)](https://publicdomainreview.org/collection/indian-sign-talk)
 * [2023-05-11, 19:02:42](https://news.ycombinator.com/item?id=35906783) - [An IBM computer learned to sing in 1961](https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing)
 * [2023-05-11, 17:48:02](https://news.ycombinator.com/item?id=35905645) - [Old Advocacy, New Algorithms: How “Devil&#x27;s Advocates” Shaped AI Red Teaming](https://royapakzad.substack.com/p/old-advocacy-new-algorithms)
 * [2023-05-11, 17:02:39](https://news.ycombinator.com/item?id=35904988) - [Show HN: Hacker News with Tags](https://histre.com/hn/)
