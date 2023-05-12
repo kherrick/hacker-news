@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 * [2023-05-12, 16:56:45](https://news.ycombinator.com/item?id=35918859) - [New Cars Are Just for Rich People Now](https://jalopnik.com/new-cars-cost-more-than-most-people-can-afford-1850414664)
 * [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
 * [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
-* [2023-05-12, 16:06:36](https://news.ycombinator.com/item?id=35918146) - [Don&#x27;t believe the hype: why ChatGPT is not the “holy grail” of AI research](https://www.salon.com/2023/03/19/dont-believe-the-hype-why-chatgpt-is-not-the-holy-grail-of-ai-research/)
 * [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:51:53](https://news.ycombinator.com/item?id=35917152) - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)

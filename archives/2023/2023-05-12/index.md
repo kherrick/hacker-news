@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 * [2023-05-12, 16:56:45](https://news.ycombinator.com/item?id=35918859) - [New Cars Are Just for Rich People Now](https://jalopnik.com/new-cars-cost-more-than-most-people-can-afford-1850414664)
 * [2023-05-12, 16:44:05](https://news.ycombinator.com/item?id=35918660) - [A vaccine for pancreatic cancer treatment?](https://www.science.org/content/blog-post/vaccine-pancreatic-cancer-treatment)
 * [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
