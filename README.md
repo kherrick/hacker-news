@@ -1,15 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917362) - [.zip is now available as a TLD](https://twitter.com/Google/status/1653866291692728320)
+* [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
+* [2023-05-12, 15:50:37](https://news.ycombinator.com/item?id=35917899) - [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:51:53](https://news.ycombinator.com/item?id=35917152) - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
-* [2023-05-12, 14:45:11](https://news.ycombinator.com/item?id=35917066) - [Animals Are Dying in Droves. What Are They Telling Us?](https://newrepublic.com/article/172221/animals-dying-sea-lions)
 * [2023-05-12, 14:42:59](https://news.ycombinator.com/item?id=35917030) - [Things You Can Do with KDE Connect on Linux](https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/)
-* [2023-05-12, 14:33:08](https://news.ycombinator.com/item?id=35916921) - [A CIA Officer&#x27;s Murder Was Used to Silence the Agency’s Greatest Critic](https://theintercept.com/2023/05/09/cia-frank-church-richard-welch-book/)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Implement DNS in a Weekend](https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/)
 * [2023-05-12, 13:25:54](https://news.ycombinator.com/item?id=35915923) - [IBM PC 8088 replaced with a Motorola 68000](https://microcorelabs.wordpress.com/2023/04/28/ibm-pc-8088-replaced-with-a-motorola-68000/)
 * [2023-05-12, 12:00:05](https://news.ycombinator.com/item?id=35914929) - [Kalshi (YC W19) Is Hiring](https://news.ycombinator.com/item?id=35914929)
-* [2023-05-12, 11:38:04](https://news.ycombinator.com/item?id=35914726) - [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
+* [2023-05-12, 11:38:04](https://news.ycombinator.com/item?id=35914726) - [Welcome to Life: the singularity, ruined by lawyers (2012) [video]](https://www.youtube.com/watch?v=IFe9wiDfb0E)
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 * [2023-05-12, 10:51:40](https://news.ycombinator.com/item?id=35914447) - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 * [2023-05-12, 09:49:14](https://news.ycombinator.com/item?id=35914013) - [EU&#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
@@ -30,6 +29,7 @@
 * [2023-05-11, 14:47:39](https://news.ycombinator.com/item?id=35902942) - [Comparing Speed of Lambda, Step Functions, App Runner, and Direct Integrations](https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/)
 * [2023-05-11, 13:22:44](https://news.ycombinator.com/item?id=35901642) - [Pytz: The Fastest Footgun in the West (2018)](https://blog.ganssle.io/articles/2018/03/pytz-fastest-footgun.html)
 * [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
+* [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
 
 ## [Archives](archives/index.md)
 

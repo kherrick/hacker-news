@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-12](index.md)
 
+* [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [I am excited to welcome Linda Yaccarino as the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
+* [2023-05-12, 15:50:37](https://news.ycombinator.com/item?id=35917899) - [Show HN: AI SQL Copilot LogicLoop – AI to Generate, Optimize and Debug SQL](https://www.logicloop.com/ai-sql-query-generator)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917362) - [.zip is now available as a TLD](https://twitter.com/Google/status/1653866291692728320)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. Focuses on Invigorating Chiplets&#x27; to Stay Cuting- Edge in Tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:51:53](https://news.ycombinator.com/item?id=35917152) - [Narrative over Numbers: Andreessen Horowitz&#x27;s State of Crypto Report](https://newsletter.mollywhite.net/p/andreessen-horowitzs-state-of-crypto)
