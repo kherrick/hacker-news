@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-12, 00:36:55](https://news.ycombinator.com/item?id=35910352) - [What happened after I left my software engineering career](https://thewebivore.com/what-happened-next/)
+* [2023-05-12, 00:36:55](https://news.ycombinator.com/item?id=35910352) - [What happened after I left my software engineering career (2022)](https://thewebivore.com/what-happened-next/)
 * [2023-05-12, 00:17:44](https://news.ycombinator.com/item?id=35910201) - [How to do distributed locking (2016)](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 * [2023-05-11, 23:15:00](https://news.ycombinator.com/item?id=35909625) - [Forgetful Browsing](https://brave.com/privacy-updates/25-forgetful-browsing/)
 * [2023-05-11, 23:12:29](https://news.ycombinator.com/item?id=35909595) - [Proposal: Less error-prone loop variable scoping](https://github.com/golang/go/issues/60078)
@@ -28,7 +28,7 @@
 * [2023-05-11, 13:12:37](https://news.ycombinator.com/item?id=35901537) - [Doug Rushkoff is ready to renounce the digital revolution](https://www.wired.com/story/doug-rushkoff-survival-of-the-richest/)
 * [2023-05-11, 12:17:19](https://news.ycombinator.com/item?id=35901056) - [The Ugly Truth Behind “We Buy Ugly Houses”](https://www.propublica.org/article/ugly-truth-behind-we-buy-ugly-houses)
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
-* [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 is a re-implementation of the HP-42S Scientific Programmable Calculator](https://thomasokken.com/free42/)
+* [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 – An HP-42S Calculator Simulator](https://thomasokken.com/free42/)
 * [2023-05-11, 10:01:20](https://news.ycombinator.com/item?id=35900024) - [Baseline: a unified view of stable web features](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
 
 ## [Archives](archives/index.md)
