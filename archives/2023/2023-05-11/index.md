@@ -70,6 +70,7 @@
 * [2023-05-11, 11:56:02](https://news.ycombinator.com/item?id=35900891) - [Pharo 11](https://pharo.org/news/pharo11-released.html)
 * [2023-05-11, 11:24:04](https://news.ycombinator.com/item?id=35900635) - [Fern leaves and cauliflower curds are not fractals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3419012/)
 * [2023-05-11, 10:38:43](https://news.ycombinator.com/item?id=35900282) - [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
+* [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 is a re-implementation of the HP-42S Scientific Programmable Calculator](https://thomasokken.com/free42/)
 * [2023-05-11, 10:01:20](https://news.ycombinator.com/item?id=35900024) - [Baseline: a unified view of stable web features](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
 * [2023-05-11, 09:07:45](https://news.ycombinator.com/item?id=35899665) - [Who Would Choose Socialism?](https://reason.com/1978/05/01/who-would-chose-socialism/)
 * [2023-05-11, 09:05:01](https://news.ycombinator.com/item?id=35899642) - [Product design and UX design resources – Degreeless.Design](https://www.degreeless.design)
