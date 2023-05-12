@@ -1,11 +1,41 @@
 [
   [
     [
+      "2023-05-12, 18:02:50",
+      "https://news.ycombinator.com/item?id=35919753"
+    ],
+    [
+      "He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon",
+      "https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 17:57:22",
+      "https://news.ycombinator.com/item?id=35919667"
+    ],
+    [
+      "Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing",
+      "https://arxiv.org/abs/2305.06946"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 17:43:06",
+      "https://news.ycombinator.com/item?id=35919463"
+    ],
+    [
+      "FDIC to hit biggest US banks with $16B bill for SVB clean-up",
+      "https://www.ft.com/content/c55c06f9-5de1-49e5-a9c5-770a885dab67"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 17:42:23",
       "https://news.ycombinator.com/item?id=35919451"
     ],
     [
-      "Inter Milan: Why don’t they have a shirt sponsor?",
+      "Why don’t Inter Milan have a shirt sponsor?",
       "https://www.givemesport.com/inter-milan-why-dont-they-have-a-shirt-sponsor/"
     ]
   ],
@@ -47,16 +77,6 @@
     [
       "Building Customer-Facing Real-Time Dashboards with Postgres",
       "https://www.crunchydata.com/blog/building-customer-facing-real-time-dashboards-with-postgres"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 16:56:45",
-      "https://news.ycombinator.com/item?id=35918859"
-    ],
-    [
-      "New Cars Are Just for Rich People Now",
-      "https://jalopnik.com/new-cars-cost-more-than-most-people-can-afford-1850414664"
     ]
   ],
   [
@@ -126,7 +146,7 @@
     ],
     [
       "Implement DNS in a Weekend",
-      "https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/"
+      "https://implement-dns.wizardzines.com/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-05-12, 03:07:05",
-      "https://news.ycombinator.com/item?id=35911406"
-    ],
-    [
-      "FUTO – An independent software lab and grant fund",
-      "https://futo.org/"
-    ]
-  ],
-  [
-    [
       "2023-05-11, 19:02:42",
       "https://news.ycombinator.com/item?id=35906783"
     ],
@@ -257,16 +267,6 @@
     [
       "Old Advocacy, New Algorithms: How “Devil&#x27;s Advocates” Shaped AI Red Teaming",
       "https://royapakzad.substack.com/p/old-advocacy-new-algorithms"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 17:32:41",
-      "https://news.ycombinator.com/item?id=35905437"
-    ],
-    [
-      "Show HN: Boring Report, a news app that uses AI to desensationalize the news",
-      "https://www.boringreport.org/"
     ]
   ],
   [
