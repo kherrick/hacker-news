@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 23:07:08](https://news.ycombinator.com/item?id=35923651) - [Chatbots Don’t Know What Stuff Isn’t](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
 * [2023-05-12, 21:39:53](https://news.ycombinator.com/item?id=35922802) - [Greater than 90% chance of El Niño persisting into Northern Hemisphere winter](https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml)
 * [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
-* [2023-05-12, 20:36:57](https://news.ycombinator.com/item?id=35922020) - [How fast can European steelmakers decarbonise?](https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise)
 * [2023-05-12, 20:21:45](https://news.ycombinator.com/item?id=35921828) - [The SGI XFS Filesystem](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
 * [2023-05-12, 20:16:28](https://news.ycombinator.com/item?id=35921745) - [A RP2040 Powered MIDI-Controlled Synth in CircuitPython](https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b)
 * [2023-05-12, 20:01:29](https://news.ycombinator.com/item?id=35921538) - [Gilbert Strang&#x27;s final lecture at MIT: May 15, 11:00am](https://grinfeld.org/strang/)
