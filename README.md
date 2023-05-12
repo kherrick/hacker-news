@@ -2,7 +2,6 @@
 
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 * [2023-05-12, 09:49:14](https://news.ycombinator.com/item?id=35914013) - [EU&#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)
-* [2023-05-12, 08:56:27](https://news.ycombinator.com/item?id=35913660) - [What to do when you don’t have strong product-market fit](https://dreasaez.medium.com/what-to-do-when-you-dont-have-strong-product-market-fit-fdac5def15c9)
 * [2023-05-12, 08:52:56](https://news.ycombinator.com/item?id=35913628) - [What if we tolerated diseases?](https://knowablemagazine.org/article/health-disease/2023/what-if-we-tolerated-diseases)
 * [2023-05-12, 07:53:33](https://news.ycombinator.com/item?id=35913260) - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
 * [2023-05-12, 07:52:31](https://news.ycombinator.com/item?id=35913249) - [Encountering the High Arctic](https://hedgehogreview.com/web-features/thr/posts/encountering-the-high-arctic?ref=thebrowser.com)
@@ -29,6 +28,7 @@
 * [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 – An HP-42S Calculator Simulator](https://thomasokken.com/free42/)
 * [2023-05-11, 10:01:20](https://news.ycombinator.com/item?id=35900024) - [Baseline: a unified view of stable web features](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
 * [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
+* [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
 * [2023-05-09, 08:27:06](https://news.ycombinator.com/item?id=35871565) - [Into Thin AirPods](https://defector.com/into-thin-airpods)
 
 ## [Archives](archives/index.md)
