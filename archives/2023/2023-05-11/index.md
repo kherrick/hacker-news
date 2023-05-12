@@ -49,6 +49,7 @@
 * [2023-05-11, 14:58:45](https://news.ycombinator.com/item?id=35903139) - [World ‘way off track’ from climate goal](https://news.harvard.edu/gazette/story/2023/05/world-way-offtrack-on-climate-goal-says-john-kerry/)
 * [2023-05-11, 14:53:20](https://news.ycombinator.com/item?id=35903056) - [Isgithub.live](https://isgithub.live/)
 * [2023-05-11, 14:44:01](https://news.ycombinator.com/item?id=35902881) - [CIAM vs. IAM: What&#x27;s the difference (2022)](https://fusionauth.io/learn/expert-advice/ciam/ciam-vs-iam)
+* [2023-05-11, 14:41:56](https://news.ycombinator.com/item?id=35902840) - [Taiwan is running low on engineers](https://www.nytimes.com/2023/05/11/technology/taiwan-tsmc-microchips.html)
 * [2023-05-11, 14:40:22](https://news.ycombinator.com/item?id=35902820) - [Deluge – sequencer, synthesizer and sampler – Goes open source](https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/)
 * [2023-05-11, 14:24:15](https://news.ycombinator.com/item?id=35902543) - [AI Will Create More Developers, Not Less](https://interconnect.substack.com/p/ai-will-create-more-developers-not)
 * [2023-05-11, 14:21:17](https://news.ycombinator.com/item?id=35902506) - [Faster CPython at PyCon, part one](https://lwn.net/SubscriberLink/930705/4bbe9c26d7884277/)
