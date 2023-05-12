@@ -29,7 +29,7 @@
 * [2023-05-11, 10:25:03](https://news.ycombinator.com/item?id=35900205) - [Free42 – An HP-42S Calculator Simulator](https://thomasokken.com/free42/)
 * [2023-05-11, 10:01:20](https://news.ycombinator.com/item?id=35900024) - [Baseline: a unified view of stable web features](https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/)
 * [2023-05-11, 07:07:34](https://news.ycombinator.com/item?id=35898768) - [New Directions in Cloud Programming [pdf]](https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf)
-* [2023-05-11, 01:39:24](https://news.ycombinator.com/item?id=35896190) - [When you lose the ability to write, you also lose some of your ability to think](https://twitter.com/paulg/status/1655925905527537666)
+* [2023-05-09, 08:27:06](https://news.ycombinator.com/item?id=35871565) - [Into Thin AirPods](https://defector.com/into-thin-airpods)
 
 ## [Archives](archives/index.md)
 

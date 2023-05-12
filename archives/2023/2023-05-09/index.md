@@ -86,6 +86,7 @@
 * [2023-05-09, 10:03:56](https://news.ycombinator.com/item?id=35872054) - [New York Is Forcing Schools to Change How They Teach Children to Read](https://www.nytimes.com/2023/05/09/nyregion/reading-nyc-schools.html)
 * [2023-05-09, 09:57:10](https://news.ycombinator.com/item?id=35872018) - [Sexual abuse tip-off site could be sharing data with Facebook](https://sverigesradio.se/artikel/sexual-abuse-tip-off-site-could-be-sharing-data-with-facebook)
 * [2023-05-09, 09:15:36](https://news.ycombinator.com/item?id=35871803) - [Gender inequality is associated with differences in the brains of women and men](https://www.pnas.org/doi/full/10.1073/pnas.2218782120)
+* [2023-05-09, 08:27:06](https://news.ycombinator.com/item?id=35871565) - [Into Thin AirPods](https://defector.com/into-thin-airpods)
 * [2023-05-09, 08:16:32](https://news.ycombinator.com/item?id=35871520) - [The Neon God](https://paulkingsnorth.substack.com/p/the-neon-god)
 * [2023-05-09, 08:07:06](https://news.ycombinator.com/item?id=35871462) - [Story: Redis and its creator antirez](https://blog.brachiosoft.com/redis-en)
 * [2023-05-09, 08:07:00](https://news.ycombinator.com/item?id=35871459) - [Where Did Personal Computing Go Wrong (2020)](http://mmcthrow-musings.blogspot.com/2020/10/where-did-personal-computing-go-wrong.html)
