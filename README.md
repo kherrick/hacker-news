@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-12, 06:08:41](https://news.ycombinator.com/item?id=35912560) - [YouTuber admits he crashed plane in Santa Barbara, destroyed evidence](https://www.latimes.com/california/story/2023-05-11/youtuber-pilot-trevor-jacobs-admits-plane-crash-destroyed-evidence)
+* [2023-05-12, 05:44:55](https://news.ycombinator.com/item?id=35912374) - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 * [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
 * [2023-05-12, 03:07:05](https://news.ycombinator.com/item?id=35911406) - [FUTO – An independent software lab and grant fund](https://futo.org/)
 * [2023-05-12, 00:36:55](https://news.ycombinator.com/item?id=35910352) - [What happened after I left my software engineering career (2022)](https://thewebivore.com/what-happened-next/)
@@ -13,7 +15,6 @@
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
 * [2023-05-11, 20:44:04](https://news.ycombinator.com/item?id=35908107) - [The Two Cultures (1959) [pdf]](https://apps.weber.edu/wsuimages/michaelwutz/6510.Trio/Rede-lecture-2-cultures.pdf)
 * [2023-05-11, 19:24:41](https://news.ycombinator.com/item?id=35907155) - [Hobson’s choice](https://en.wikipedia.org/wiki/Hobson%27s_choice)
-* [2023-05-11, 18:32:11](https://news.ycombinator.com/item?id=35906292) - [TP–7 Field Recorder](https://teenage.engineering/products/tp-7)
 * [2023-05-11, 18:04:06](https://news.ycombinator.com/item?id=35905876) - [Gandalf – Game to make an LLM reveal a secret password](https://gandalf.lakera.ai/)
 * [2023-05-11, 17:49:24](https://news.ycombinator.com/item?id=35905677) - [Session recording for Tailscale SSH in beta](https://tailscale.com/blog/session-recording-beta/)
 * [2023-05-11, 17:32:41](https://news.ycombinator.com/item?id=35905437) - [Show HN: Boring Report, a news app that uses AI to desensationalize the news](https://www.boringreport.org/)
@@ -21,7 +22,6 @@
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [100K Context Windows](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
 * [2023-05-11, 15:09:04](https://news.ycombinator.com/item?id=35903294) - [Electronics Lab Bench Setup Guide](https://badar.tech/2023/04/30/electronics-lab-bench-setup-guide/)
-* [2023-05-11, 15:02:04](https://news.ycombinator.com/item?id=35903188) - [Understanding the power of bitwise operators](https://www.deusinmachina.net/p/understanding-the-power-of-bitwise)
 * [2023-05-11, 14:56:28](https://news.ycombinator.com/item?id=35903102) - [Commuter Cars Tango](http://www.commutercars.com/index.html)
 * [2023-05-11, 14:40:22](https://news.ycombinator.com/item?id=35902820) - [Deluge – sequencer, synthesizer and sampler – goes open source](https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/)
 * [2023-05-11, 13:46:03](https://news.ycombinator.com/item?id=35901981) - [The Birth and Death of JavaScript [video] (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
