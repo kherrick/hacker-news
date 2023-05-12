@@ -13,6 +13,7 @@
 * [2023-05-10, 21:51:21](https://news.ycombinator.com/item?id=35894004) - [Heather Armstrong has died](https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html)
 * [2023-05-10, 21:45:47](https://news.ycombinator.com/item?id=35893952) - [Creatures That Don’t Conform](https://emergencemagazine.org/essay/creatures-that-dont-conform/)
 * [2023-05-10, 21:44:03](https://news.ycombinator.com/item?id=35893939) - [Google I&#x2F;O: Big changes coming for SEOs with ubiquitous AI](https://www.demandsphere.com/blog/google-i-o-big-changes-coming-for-seos-with-ubiquitous-ai/)
+* [2023-05-10, 21:32:09](https://news.ycombinator.com/item?id=35893819) - [Turn ideas into music with MusicLM](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
 * [2023-05-10, 21:30:45](https://news.ycombinator.com/item?id=35893804) - [Google will label fake images created with its A.I](https://www.cnbc.com/2023/05/10/google-will-label-fake-images-created-with-its-ai-.html)
 * [2023-05-10, 21:00:10](https://news.ycombinator.com/item?id=35893439) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-05-10, 20:51:44](https://news.ycombinator.com/item?id=35893334) - [Apple planted fake Logic Pro and Final Cut Pro iPad rumours to bust leaker](https://www.cultofmac.com/815853/apple-busts-major-ios-17-leaker-tipster/)
