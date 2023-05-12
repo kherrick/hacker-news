@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-05-12, 20:21:45",
+      "https://news.ycombinator.com/item?id=35921828"
+    ],
+    [
+      "The SGI XFS Filesystem",
+      "https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 20:01:29",
       "https://news.ycombinator.com/item?id=35921538"
     ],
@@ -81,21 +91,11 @@
   ],
   [
     [
-      "2023-05-12, 18:38:39",
-      "https://news.ycombinator.com/item?id=35920336"
-    ],
-    [
-      "The .zip TLD sucks and it needs to be immediately revoked",
-      "https://financialstatement.zip/"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 18:32:59",
       "https://news.ycombinator.com/item?id=35920261"
     ],
     [
-      "Morris Tanenbaum, Inventor of the Silicon Microchip, Dies at 94",
+      "Morris Tanenbaum, inventor of the silicon microchip, has died",
       "https://spectrum.ieee.org/in-memoriam-may-2023"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "Faster CPython at PyCon, part two",
       "https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 18:02:50",
-      "https://news.ycombinator.com/item?id=35919753"
-    ],
-    [
-      "He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon",
-      "https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Life and Science of Richard Feynman (1992)",
       "https://www.nybooks.com/articles/1992/12/17/the-one-and-only-2/"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 17:02:39",
+      "https://news.ycombinator.com/item?id=35904988"
+    ],
+    [
+      "Show HN: Hacker News with Tags",
+      "https://histre.com/hn/"
     ]
   ]
 ]
