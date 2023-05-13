@@ -10,6 +10,7 @@
 * [2023-05-13, 11:22:15](https://news.ycombinator.com/item?id=35927352) - [V](https://www.imdb.com/title/tt0086823/)
 * [2023-05-13, 11:19:24](https://news.ycombinator.com/item?id=35927329) - [IBM sued for age discrimination by former global software director](https://www.theregister.com/2023/05/13/kyndryl_ibm_sued_discrimination/)
 * [2023-05-13, 11:09:45](https://news.ycombinator.com/item?id=35927282) - [TypeScript team released an explorer for performance tuning](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
+* [2023-05-13, 11:09:26](https://news.ycombinator.com/item?id=35927278) - [Number of displaced people hits record due to war, climate change](https://www.reuters.com/world/number-internally-displaced-people-hits-record-due-war-climate-change-2023-05-11/)
 * [2023-05-13, 11:01:03](https://news.ycombinator.com/item?id=35927239) - [Attention Viz](http://attentionviz.com/)
 * [2023-05-13, 10:59:47](https://news.ycombinator.com/item?id=35927228) - [Why Conscious AI Is a Bad, Bad Idea](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
 * [2023-05-13, 10:40:40](https://news.ycombinator.com/item?id=35927149) - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
