@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 16:44:25](https://news.ycombinator.com/item?id=35930105) - [Palantir seeing &#x27;unprecedented&#x27; demand for its military AI](https://fortune.com/2023/05/09/peter-thiel-palantir-unprecedented-demand-ai-artificial-intelligence/)
 * [2023-05-13, 16:16:25](https://news.ycombinator.com/item?id=35929816) - [Saturn&#x27;s rings are far younger than once thought](https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study)
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
@@ -27,7 +28,6 @@
 * [2023-05-12, 20:22:11](https://news.ycombinator.com/item?id=35921839) - [Decoding the Defiance of Henry VIII’s First Wife](https://www.nytimes.com/2022/07/07/arts/ciphers-henry-viii-catherine.html)
 * [2023-05-12, 19:48:59](https://news.ycombinator.com/item?id=35921375) - [GitHub Copilot Chat Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
 * [2023-05-12, 11:32:01](https://news.ycombinator.com/item?id=35914691) - [Who Were ‘The Celts’ and How Did They (Some of Them) Fight?](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/)
-* [2023-05-12, 10:34:17](https://news.ycombinator.com/item?id=35914330) - [Thoughts on Swift and Objective-C](https://lapcatsoftware.com/articles/swift.html)
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
 * [2023-05-12, 04:22:27](https://news.ycombinator.com/item?id=35911867) - [I&#x27;ve mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 
