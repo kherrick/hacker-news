@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
 * [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
+* [2023-05-13, 20:55:28](https://news.ycombinator.com/item?id=35932617) - [TypeScript is &#x27;not worth it&#x27; Svelte switches to JavaScript and JSDoc](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
 * [2023-05-13, 20:52:14](https://news.ycombinator.com/item?id=35932588) - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
 * [2023-05-13, 20:30:28](https://news.ycombinator.com/item?id=35932387) - [TikTok Feeds Teens a Diet of Darkness](https://www.wsj.com/articles/tiktok-feeds-teens-a-diet-of-darkness-8f350507)
 * [2023-05-13, 20:12:07](https://news.ycombinator.com/item?id=35932239) - [Dec&#x27;s OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
