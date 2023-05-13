@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-05-13, 18:46:39",
-      "https://news.ycombinator.com/item?id=35931396"
-    ],
-    [
-      "Julia 1.9.0 lives up to its promise",
-      "https://bkamins.github.io/julialang/2023/05/12/julia190.html"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 18:43:49",
       "https://news.ycombinator.com/item?id=35931368"
     ],
@@ -257,6 +247,16 @@
     [
       "The Wrong Abstraction (2016)",
       "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 09:56:35",
+      "https://news.ycombinator.com/item?id=35926993"
+    ],
+    [
+      "Donkeycar: A Python self driving library",
+      "https://github.com/autorope/donkeycar"
     ]
   ],
   [
