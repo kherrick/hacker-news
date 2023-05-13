@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 23:02:50](https://news.ycombinator.com/item?id=35933652) - [Why is there no open source firmware for laser or inkjet printers? (2019)](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
 * [2023-05-13, 22:13:40](https://news.ycombinator.com/item?id=35933293) - [I’m a student you have no idea how much we are using ChatGPT](https://www.chronicle.com/article/im-a-student-you-have-no-idea-how-much-were-using-chatgpt)
 * [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
 * [2023-05-13, 20:55:28](https://news.ycombinator.com/item?id=35932617) - [TypeScript is &#x27;not worth it&#x27; Svelte switches to JavaScript and JSDoc](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
@@ -29,6 +30,7 @@
 * [2023-05-13, 16:13:43](https://news.ycombinator.com/item?id=35929794) - [How we hack Hacker News and consistently hit the front page](https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12)
 * [2023-05-13, 15:36:11](https://news.ycombinator.com/item?id=35929377) - [Large language models generate functional protein sequences across families](https://www.nature.com/articles/s41587-022-01618-2)
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
+* [2023-05-13, 15:31:42](https://news.ycombinator.com/item?id=35929333) - [A Mathematician&#x27;s Lament [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 15:17:40](https://news.ycombinator.com/item?id=35929184) - [Erdogan Promises to Transfer Power Peacefully If He Loses Ballot](https://www.bloomberg.com/news/articles/2023-05-12/erdogan-promises-to-transfer-power-peacefully-if-he-loses-ballot)
 * [2023-05-13, 15:16:03](https://news.ycombinator.com/item?id=35929171) - [We’re About to See a Rare and Record-Setting May Heat Wave](https://www.scientificamerican.com/article/were-about-to-see-a-rare-and-record-setting-may-heat-wave/)
