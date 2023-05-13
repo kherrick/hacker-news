@@ -18,7 +18,6 @@
 * [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 * [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 * [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
-* [2023-05-12, 15:51:20](https://news.ycombinator.com/item?id=35917912) - [Linda Yaccarino is the new CEO of Twitter](https://twitter.com/elonmusk/status/1657050349608501249)
 * [2023-05-12, 15:26:36](https://news.ycombinator.com/item?id=35917556) - [A local TV station investigated an underground mine fire in Pennsylvania](https://www.poynter.org/ethics-trust/2023/how-a-local-tv-station-investigated-an-underground-mine-fire-in-the-heart-of-pennsylvanias-coal-region/)
 * [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. focuses on invigorating ‘chiplets’ to stay cutting-edge in tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:37:17](https://news.ycombinator.com/item?id=35916967) - [Helping a kid who made a math mistake](https://kidswholovemath.substack.com/p/helping-a-kid-who-made-a-math-mistake)
@@ -28,6 +27,7 @@
 * [2023-05-12, 04:40:53](https://news.ycombinator.com/item?id=35911990) - [The Law of the Sea](https://www.thedial.world/issue-4/law-of-the-sea-climate-change)
 * [2023-05-12, 04:22:27](https://news.ycombinator.com/item?id=35911867) - [I&#x27;ve mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 03:38:52](https://news.ycombinator.com/item?id=35911595) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
+* [2023-05-12, 02:10:20](https://news.ycombinator.com/item?id=35911060) - [Beyond NP: The Work and Legacy of Larry Stockmeyer [pdf]](https://lance.fortnow.com/papers/files/beyondnp.pdf)
 * [2023-05-10, 21:32:09](https://news.ycombinator.com/item?id=35893819) - [Turn ideas into music with MusicLM](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
 * [2023-05-10, 20:27:09](https://news.ycombinator.com/item?id=35893006) - [A whirlwind tour of the LLVM optimizer](https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf)
 
