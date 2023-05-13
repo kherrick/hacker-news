@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-05-13, 00:00:55",
+      "https://news.ycombinator.com/item?id=35924008"
+    ],
+    [
+      "First Rust Code Shows Up in the Windows 11 Kernel",
+      "https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 23:07:08",
       "https://news.ycombinator.com/item?id=35923651"
     ],
     [
       "Language models still struggle with the concept of negation",
       "https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 21:45:30",
+      "https://news.ycombinator.com/item?id=35922873"
+    ],
+    [
+      "Seinfeld Scripts",
+      "https://www.seinfeldscripts.com/seinfeld-scripts.html"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "CI&#x2F;CD with KiCad and Gitlab",
       "https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 20:36:57",
+      "https://news.ycombinator.com/item?id=35922020"
+    ],
+    [
+      "How fast can European steelmakers decarbonise?",
+      "https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2023-05-12, 15:26:36",
-      "https://news.ycombinator.com/item?id=35917556"
-    ],
-    [
-      "A local TV station investigated an underground mine fire in Pennsylvania",
-      "https://www.poynter.org/ethics-trust/2023/how-a-local-tv-station-investigated-an-underground-mine-fire-in-the-heart-of-pennsylvanias-coal-region/"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 15:09:11",
       "https://news.ycombinator.com/item?id=35917361"
     ],
@@ -221,42 +241,12 @@
   ],
   [
     [
-      "2023-05-12, 12:00:05",
-      "https://news.ycombinator.com/item?id=35914929"
-    ],
-    [
-      "Kalshi (YC W19) Is Hiring",
-      "https://news.ycombinator.com/item?id=35914929"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 10:51:40",
       "https://news.ycombinator.com/item?id=35914447"
     ],
     [
       "Pigz: Parallel gzip for modern multi-processor, multi-core machines",
       "https://zlib.net/pigz/"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 08:27:49",
-      "https://news.ycombinator.com/item?id=35913485"
-    ],
-    [
-      "Hangman over QUIC",
-      "https://ochagavia.nl/blog/hangman-over-quic/"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 07:43:15",
-      "https://news.ycombinator.com/item?id=35913188"
-    ],
-    [
-      "The Life and Science of Richard Feynman (1992)",
-      "https://www.nybooks.com/articles/1992/12/17/the-one-and-only-2/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "An IBM computer learned to sing in 1961",
       "https://tedgioia.substack.com/p/how-an-ibm-computer-learned-to-sing"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 04:57:28",
+      "https://news.ycombinator.com/item?id=35897713"
+    ],
+    [
+      "Rewriting the Messenger codebase for a faster, smaller, simpler messaging app",
+      "https://engineering.fb.com/2020/03/02/data-infrastructure/messenger/"
     ]
   ],
   [
