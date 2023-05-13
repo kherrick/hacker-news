@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
-* [2023-05-13, 02:39:56](https://news.ycombinator.com/item?id=35924949) - [Microsoft Employees Are Hooked on the Company’s Training Videos](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
-* [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [Why I Stopped Worrying and Learned to Love Denormalized Tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
-* [2023-05-13, 00:00:55](https://news.ycombinator.com/item?id=35924008) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
+* [2023-05-13, 02:39:56](https://news.ycombinator.com/item?id=35924949) - [Microsoft employees are hooked on the company’s training videos?](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
+* [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
+* [2023-05-13, 00:00:55](https://news.ycombinator.com/item?id=35924008) - [First Rust code in the Windows 11 kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 * [2023-05-12, 23:07:08](https://news.ycombinator.com/item?id=35923651) - [Language models still struggle with the concept of negation](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
 * [2023-05-12, 21:45:30](https://news.ycombinator.com/item?id=35922873) - [Seinfeld Scripts](https://www.seinfeldscripts.com/seinfeld-scripts.html)
 * [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
