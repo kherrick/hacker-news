@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 18:52:06](https://news.ycombinator.com/item?id=35931464) - [The dictatorship in Turkey is falling tomorrow](https://dostoynikov.bearblog.dev/the-dictatorship-in-turkey-is-falling-tomorrow/)
 * [2023-05-13, 17:35:40](https://news.ycombinator.com/item?id=35930652) - [This SSD Is Faster Than Your RAM](https://www.youtube.com/watch?v=IFwFDZDQWAA)
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 16:50:20](https://news.ycombinator.com/item?id=35930160) - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
@@ -31,6 +32,7 @@
 * [2023-05-13, 13:06:27](https://news.ycombinator.com/item?id=35928000) - [Please, please stop using Xorg with Asahi Linux](https://social.treehouse.systems/@marcan/110354541574112092)
 * [2023-05-13, 12:53:36](https://news.ycombinator.com/item?id=35927912) - [An AI Girlfriend made $72K in 1 week](https://old.reddit.com/r/ChatGPT/comments/13g9euv/an_ai_girlfriend_made_72k_in_1_week/)
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Welcome to Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
+* [2023-05-13, 12:06:10](https://news.ycombinator.com/item?id=35927571) - [Byte Magazine Volume 06 Number 09 – Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-05-13, 11:56:05](https://news.ycombinator.com/item?id=35927509) - [The new .zip TLD is going to cause some problems](https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/)
 * [2023-05-13, 11:50:45](https://news.ycombinator.com/item?id=35927477) - [Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion](https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid)
