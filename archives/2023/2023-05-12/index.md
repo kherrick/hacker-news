@@ -65,6 +65,7 @@
 * [2023-05-12, 11:38:04](https://news.ycombinator.com/item?id=35914726) - [Welcome to Life: the singularity, ruined by lawyers by Tom Scott](https://www.youtube.com/watch?v=IFe9wiDfb0E)
 * [2023-05-12, 11:36:31](https://news.ycombinator.com/item?id=35914716) - [The EU act is coming, this time for real probably](https://wolfhf.medium.com/the-eu-ai-act-is-coming-this-time-for-real-probably-df31ad8c451f)
 * [2023-05-12, 11:34:54](https://news.ycombinator.com/item?id=35914705) - [Google Bard blocks all European Union countries](https://9to5google.com/2023/05/11/google-bard-european-union/)
+* [2023-05-12, 11:25:40](https://news.ycombinator.com/item?id=35914651) - [Show HN: The Leica MPi: A Leica M2 with a Raspberry Pi-Powered Digital Sensor](https://psychomugs.github.io/mpi)
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 * [2023-05-12, 10:51:40](https://news.ycombinator.com/item?id=35914447) - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
 * [2023-05-12, 10:01:35](https://news.ycombinator.com/item?id=35914094) - [Google Quantum AI braids non-Abelian anyons for the first time](https://phys.org/news/2023-05-google-quantum-ai-braids-non-abelian.html)
