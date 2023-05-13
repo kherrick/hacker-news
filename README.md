@@ -27,9 +27,9 @@
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
 * [2023-05-13, 04:18:20](https://news.ycombinator.com/item?id=35925459) - [Caproni Ca.60](https://en.wikipedia.org/wiki/Caproni_Ca.60)
 * [2023-05-13, 02:47:04](https://news.ycombinator.com/item?id=35924997) - [Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
-* [2023-05-12, 19:48:59](https://news.ycombinator.com/item?id=35921375) - [GitHub Copilot Chat Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
 * [2023-05-12, 11:32:01](https://news.ycombinator.com/item?id=35914691) - [Who Were ‘The Celts’ and How Did They (Some of Them) Fight?](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/)
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
+* [2023-05-12, 07:16:43](https://news.ycombinator.com/item?id=35913013) - [“The Golden Age of Software Architecture” Revisited (2009)](https://ieeexplore.ieee.org/document/5076462)
 
 ## [Archives](archives/index.md)
 
