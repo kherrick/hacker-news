@@ -74,6 +74,7 @@
 * [2023-05-12, 07:53:33](https://news.ycombinator.com/item?id=35913260) - [How much is a smidgen?](https://www.laphamsquarterly.org/roundtable/how-much-smidgen)
 * [2023-05-12, 07:52:31](https://news.ycombinator.com/item?id=35913249) - [Encountering the High Arctic](https://hedgehogreview.com/web-features/thr/posts/encountering-the-high-arctic?ref=thebrowser.com)
 * [2023-05-12, 07:51:32](https://news.ycombinator.com/item?id=35913241) - [BQNPAD](https://bqnpad.mechanize.systems/)
+* [2023-05-12, 07:47:40](https://news.ycombinator.com/item?id=35913222) - [Primes and Primitive Sets: an Erdos Conjecture is cracked (2022) [video]](https://www.youtube.com/watch?v=33YSWaR3kAQ)
 * [2023-05-12, 07:43:15](https://news.ycombinator.com/item?id=35913188) - [The Life and Science of Richard Feynman (1992)](https://www.nybooks.com/articles/1992/12/17/the-one-and-only-2/)
 * [2023-05-12, 07:40:31](https://news.ycombinator.com/item?id=35913173) - [Eva AI-Relational Database System](https://evadb.readthedocs.io/en/stable/index.html)
 * [2023-05-12, 07:28:04](https://news.ycombinator.com/item?id=35913083) - [The Last Gamble of Tokyo Joe](https://www.chicagomag.com/chicago-magazine/may-2023/the-last-gamble-of-tokyo-joe/)
