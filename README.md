@@ -6,7 +6,6 @@
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 15:10:13](https://news.ycombinator.com/item?id=35929112) - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
 * [2023-05-13, 15:08:15](https://news.ycombinator.com/item?id=35929102) - [1980 Terminal with Linux – TeleVideo 950](https://www.youtube.com/watch?v=ob7cEzXLxXU)
-* [2023-05-13, 15:04:41](https://news.ycombinator.com/item?id=35929069) - [Lyft CEO David Risher reportedly says company is &#x27;open&#x27; to acquisition offers](https://www.sfgate.com/tech/article/lyft-ceo-says-ride-hailing-giant-open-to-sale-18097064.php)
 * [2023-05-13, 14:58:29](https://news.ycombinator.com/item?id=35929011) - [Chegg stock sinks after CEO says ChatGPT hurt growth](https://finance.yahoo.com/news/chegg-stock-sinks-after-ceo-says-chatgpt-hurt-growth-132058643.html)
 * [2023-05-13, 14:49:45](https://news.ycombinator.com/item?id=35928936) - [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
 * [2023-05-13, 14:47:08](https://news.ycombinator.com/item?id=35928907) - [EU lawmakers take first steps toward tougher AI rules](https://www.dw.com/en/eu-lawmakers-take-first-steps-toward-tougher-ai-rules/a-65585731)
@@ -29,6 +28,7 @@
 * [2023-05-12, 11:32:01](https://news.ycombinator.com/item?id=35914691) - [Who Were ‘The Celts’ and How Did They (Some of Them) Fight?](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/)
 * [2023-05-12, 10:34:17](https://news.ycombinator.com/item?id=35914330) - [Thoughts on Swift and Objective-C](https://lapcatsoftware.com/articles/swift.html)
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
+* [2023-05-12, 07:16:43](https://news.ycombinator.com/item?id=35913013) - [“The Golden Age of Software Architecture” Revisited (2009)](https://ieeexplore.ieee.org/document/5076462)
 * [2023-05-12, 04:22:27](https://news.ycombinator.com/item?id=35911867) - [I&#x27;ve mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 
 ## [Archives](archives/index.md)
