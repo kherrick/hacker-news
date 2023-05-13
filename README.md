@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
+* [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
-* [2023-05-13, 02:39:56](https://news.ycombinator.com/item?id=35924949) - [Microsoft employees are hooked on the company’s training videos?](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
 * [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
 * [2023-05-13, 00:00:55](https://news.ycombinator.com/item?id=35924008) - [First Rust code in the Windows 11 kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 * [2023-05-12, 23:07:08](https://news.ycombinator.com/item?id=35923651) - [Language models still struggle with the concept of negation](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
-* [2023-05-12, 21:45:30](https://news.ycombinator.com/item?id=35922873) - [Seinfeld Scripts](https://www.seinfeldscripts.com/seinfeld-scripts.html)
 * [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
 * [2023-05-12, 20:21:45](https://news.ycombinator.com/item?id=35921828) - [The SGI XFS Filesystem](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
 * [2023-05-12, 20:16:28](https://news.ycombinator.com/item?id=35921745) - [A RP2040 Powered MIDI-Controlled Synth in CircuitPython](https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b)
