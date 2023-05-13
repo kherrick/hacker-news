@@ -2,6 +2,7 @@
 
 * [2023-05-13, 20:12:07](https://news.ycombinator.com/item?id=35932239) - [Dec&#x27;s OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
 * [2023-05-13, 20:00:00](https://news.ycombinator.com/item?id=35932125) - [Revolut CFO quits after auditor BDO warning](https://www.standard.co.uk/business/revolut-cfo-quits-after-auditor-bdo-warning-over-accountsmikko-salovaara-b1080447.html)
+* [2023-05-13, 18:47:16](https://news.ycombinator.com/item?id=35931402) - [Hundreds of millions of stars turned into a map of GitHub projects](https://anvaka.github.io/map-of-github/)
 * [2023-05-13, 18:46:39](https://news.ycombinator.com/item?id=35931396) - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
 * [2023-05-13, 18:43:49](https://news.ycombinator.com/item?id=35931368) - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-13, 17:59:42](https://news.ycombinator.com/item?id=35930895) - [Committing changes to a 130GB Git repository without full checkouts [video]](https://www.youtube.com/watch?v=BxvVdB4-Aqc)
@@ -21,7 +22,6 @@
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-05-13, 11:50:23](https://news.ycombinator.com/item?id=35927475) - [Rust hello world app for Windows 95, cross-compiled from Linux, no MSVC](https://hails.org/@hailey/110360791283096989)
-* [2023-05-13, 11:01:03](https://news.ycombinator.com/item?id=35927239) - [Attention Viz](http://attentionviz.com/)
 * [2023-05-13, 10:40:40](https://news.ycombinator.com/item?id=35927149) - [The Wrong Abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [2023-05-13, 09:15:27](https://news.ycombinator.com/item?id=35926821) - [Ocean Temperature](https://en.wikipedia.org/wiki/Ocean_temperature)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
