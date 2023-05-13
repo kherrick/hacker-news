@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-13, 00:44:53",
+      "https://news.ycombinator.com/item?id=35924293"
+    ],
+    [
+      "GitHub Copilot Leaked Prompt",
+      "https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 00:40:05",
+      "https://news.ycombinator.com/item?id=35924259"
+    ],
+    [
+      "Why I Stopped Worrying and Learned to Love Denormalized Tables",
+      "https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables"
+    ]
+  ],
+  [
+    [
       "2023-05-13, 00:00:55",
       "https://news.ycombinator.com/item?id=35924008"
     ],
@@ -51,16 +71,6 @@
   ],
   [
     [
-      "2023-05-12, 20:36:57",
-      "https://news.ycombinator.com/item?id=35922020"
-    ],
-    [
-      "How fast can European steelmakers decarbonise?",
-      "https://www.economist.com/business/2023/05/11/how-fast-can-european-steelmakers-decarbonise"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 20:21:45",
       "https://news.ycombinator.com/item?id=35921828"
     ],
@@ -77,16 +87,6 @@
     [
       "A RP2040 Powered MIDI-Controlled Synth in CircuitPython",
       "https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 20:01:29",
-      "https://news.ycombinator.com/item?id=35921538"
-    ],
-    [
-      "Gilbert Strang&#x27;s final lecture at MIT: May 15, 11:00am",
-      "https://grinfeld.org/strang/"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-05-12, 17:27:30",
-      "https://news.ycombinator.com/item?id=35919227"
-    ],
-    [
-      "AWS Lambda function for converting of Telegram channel to RSS feed",
-      "https://github.com/hleb-kastseika/tg-channel-to-rss"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 17:21:07",
       "https://news.ycombinator.com/item?id=35919133"
     ],
@@ -187,6 +177,16 @@
     [
       "Linda Yaccarino is the new CEO of Twitter",
       "https://twitter.com/elonmusk/status/1657050349608501249"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 15:26:36",
+      "https://news.ycombinator.com/item?id=35917556"
+    ],
+    [
+      "A local TV station investigated an underground mine fire in Pennsylvania",
+      "https://www.poynter.org/ethics-trust/2023/how-a-local-tv-station-investigated-an-underground-mine-fire-in-the-heart-of-pennsylvanias-coal-region/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35897713"
     ],
     [
-      "Rewriting the Messenger codebase for a faster, smaller, simpler messaging app",
+      "Rewriting the Messenger codebase for a faster, smaller, simpler messaging app (2020)",
       "https://engineering.fb.com/2020/03/02/data-infrastructure/messenger/"
     ]
   ],
