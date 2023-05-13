@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
+* [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 * [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
@@ -18,7 +19,6 @@
 * [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 * [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 * [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
-* [2023-05-12, 15:09:11](https://news.ycombinator.com/item?id=35917361) - [U.S. focuses on invigorating ‘chiplets’ to stay cutting-edge in tech](https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html)
 * [2023-05-12, 14:37:17](https://news.ycombinator.com/item?id=35916967) - [Helping a kid who made a math mistake](https://kidswholovemath.substack.com/p/helping-a-kid-who-made-a-math-mistake)
 * [2023-05-12, 13:37:45](https://news.ycombinator.com/item?id=35916064) - [Implement DNS in a Weekend](https://implement-dns.wizardzines.com/)
 * [2023-05-12, 12:26:43](https://news.ycombinator.com/item?id=35915191) - [Polyphony: Fine-Grained Concurrency for Ruby](https://github.com/digital-fabric/polyphony)

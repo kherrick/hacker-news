@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
 * [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
+* [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 * [2023-05-13, 02:39:56](https://news.ycombinator.com/item?id=35924949) - [Microsoft Employees Are Hooked on the Company’s Training Videos](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
