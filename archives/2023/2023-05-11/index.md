@@ -9,6 +9,7 @@
 * [2023-05-11, 22:41:25](https://news.ycombinator.com/item?id=35909326) - [Drug shortages have worsened and may only increase in the future, experts say](https://www.cidrap.umn.edu/resilient-drug-supply/drug-shortages-have-worsened-and-may-only-increase-future-experts-say)
 * [2023-05-11, 22:36:00](https://news.ycombinator.com/item?id=35909272) - [One Day You’ll Find Yourself](https://www.onedayyoullfindyourself.com)
 * [2023-05-11, 22:29:20](https://news.ycombinator.com/item?id=35909203) - [YouTuber who staged plane crash faces up to 20 years jail](https://news.yahoo.com/youtuber-staged-plane-crash-faces-205718964.html)
+* [2023-05-11, 21:28:29](https://news.ycombinator.com/item?id=35908617) - [Gamedev from Scratch 1: Scaffolding](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/)
 * [2023-05-11, 21:14:36](https://news.ycombinator.com/item?id=35908477) - [Problems harder than NP-Complete](https://buttondown.email/hillelwayne/archive/problems-harder-than-np-complete/)
 * [2023-05-11, 21:12:18](https://news.ycombinator.com/item?id=35908455) - [Google Announces Pixel Tablet](https://store.google.com/product/pixel_tablet?hl=en-US)
 * [2023-05-11, 21:01:12](https://news.ycombinator.com/item?id=35908337) - [Firezone (YC W22) is hiring Elixir and Rust engineers](https://www.ycombinator.com/companies/firezone/jobs)
