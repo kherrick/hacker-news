@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
 * [2023-05-13, 18:52:06](https://news.ycombinator.com/item?id=35931464) - [The dictatorship in Turkey is falling tomorrow](https://dostoynikov.bearblog.dev/the-dictatorship-in-turkey-is-falling-tomorrow/)
+* [2023-05-13, 18:46:39](https://news.ycombinator.com/item?id=35931396) - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
+* [2023-05-13, 18:43:49](https://news.ycombinator.com/item?id=35931368) - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-13, 17:35:40](https://news.ycombinator.com/item?id=35930652) - [This SSD Is Faster Than Your RAM](https://www.youtube.com/watch?v=IFwFDZDQWAA)
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 16:50:20](https://news.ycombinator.com/item?id=35930160) - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)

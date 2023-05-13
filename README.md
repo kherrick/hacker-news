@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-13, 18:52:06](https://news.ycombinator.com/item?id=35931464) - [The dictatorship in Turkey is falling tomorrow](https://dostoynikov.bearblog.dev/the-dictatorship-in-turkey-is-falling-tomorrow/)
+* [2023-05-13, 18:46:39](https://news.ycombinator.com/item?id=35931396) - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
+* [2023-05-13, 18:43:49](https://news.ycombinator.com/item?id=35931368) - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 16:50:20](https://news.ycombinator.com/item?id=35930160) - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
-* [2023-05-13, 16:44:25](https://news.ycombinator.com/item?id=35930105) - [Palantir seeing &#x27;unprecedented&#x27; demand for its military AI](https://fortune.com/2023/05/09/peter-thiel-palantir-unprecedented-demand-ai-artificial-intelligence/)
 * [2023-05-13, 16:39:50](https://news.ycombinator.com/item?id=35930045) - [Microsoft will take nearly a year to finish patching new 0-day Secure Boot bug](https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/)
 * [2023-05-13, 16:16:25](https://news.ycombinator.com/item?id=35929816) - [Saturn&#x27;s rings are far younger than once thought](https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study)
 * [2023-05-13, 15:36:11](https://news.ycombinator.com/item?id=35929377) - [Large language models generate functional protein sequences across families](https://www.nature.com/articles/s41587-022-01618-2)
