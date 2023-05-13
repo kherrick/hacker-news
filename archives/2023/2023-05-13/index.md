@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+* [2023-05-13, 11:50:45](https://news.ycombinator.com/item?id=35927477) - [Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion](https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid)
+* [2023-05-13, 11:36:57](https://news.ycombinator.com/item?id=35927413) - [How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
+* [2023-05-13, 11:22:15](https://news.ycombinator.com/item?id=35927352) - [V](https://www.imdb.com/title/tt0086823/)
+* [2023-05-13, 11:19:24](https://news.ycombinator.com/item?id=35927329) - [IBM sued for age discrimination by former global software director](https://www.theregister.com/2023/05/13/kyndryl_ibm_sued_discrimination/)
+* [2023-05-13, 11:09:45](https://news.ycombinator.com/item?id=35927282) - [TypeScript team released an explorer for performance tuning](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
 * [2023-05-13, 11:01:03](https://news.ycombinator.com/item?id=35927239) - [Attention Viz](http://attentionviz.com/)
 * [2023-05-13, 10:59:47](https://news.ycombinator.com/item?id=35927228) - [Why Conscious AI Is a Bad, Bad Idea](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
 * [2023-05-13, 10:40:40](https://news.ycombinator.com/item?id=35927149) - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
