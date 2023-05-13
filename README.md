@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 09:15:27](https://news.ycombinator.com/item?id=35926821) - [Ocean Temperature](https://en.wikipedia.org/wiki/Ocean_temperature)
 * [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 * [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
-* [2023-05-13, 00:00:55](https://news.ycombinator.com/item?id=35924008) - [First Rust code in the Windows 11 kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
 * [2023-05-12, 23:07:08](https://news.ycombinator.com/item?id=35923651) - [Language models still struggle with the concept of negation](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
 * [2023-05-12, 21:45:30](https://news.ycombinator.com/item?id=35922873) - [Seinfeld Transcripts](https://www.seinfeldscripts.com/seinfeld-scripts.html)
 * [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
@@ -15,7 +15,6 @@
 * [2023-05-12, 19:07:17](https://news.ycombinator.com/item?id=35920760) - [The Cerberus C semantics [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-981.pdf)
 * [2023-05-12, 18:32:59](https://news.ycombinator.com/item?id=35920261) - [Morris Tanenbaum, inventor of the silicon transistor, has died](https://spectrum.ieee.org/in-memoriam-may-2023)
 * [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
-* [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the native use of 64-bit posit arithmetic in scientific computing](https://arxiv.org/abs/2305.06946)
 * [2023-05-12, 17:33:42](https://news.ycombinator.com/item?id=35919311) - [Hammerhead sharks are first fish found to ‘hold their breath’](https://www.nature.com/articles/d41586-023-01569-x)
 * [2023-05-12, 17:21:07](https://news.ycombinator.com/item?id=35919133) - [Toyota: Car location data and videos of 2M customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 * [2023-05-12, 16:29:36](https://news.ycombinator.com/item?id=35918450) - [Asymptote: 2D and 3D TeX-Aware Vector Graphics Language](https://asymptote.sourceforge.io/)
@@ -28,6 +27,7 @@
 * [2023-05-12, 04:40:53](https://news.ycombinator.com/item?id=35911990) - [The Law of the Sea](https://www.thedial.world/issue-4/law-of-the-sea-climate-change)
 * [2023-05-12, 04:22:27](https://news.ycombinator.com/item?id=35911867) - [I&#x27;ve mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 03:38:52](https://news.ycombinator.com/item?id=35911595) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
+* [2023-05-12, 00:39:29](https://news.ycombinator.com/item?id=35910363) - [Rarely Seen Game Mechanics](https://novalis.org/blog/2023-05-02-rarely-seen-game-mechanics.html)
 * [2023-05-10, 21:32:09](https://news.ycombinator.com/item?id=35893819) - [Turn ideas into music with MusicLM](https://blog.google/technology/ai/musiclm-google-ai-test-kitchen/)
 * [2023-05-10, 20:27:09](https://news.ycombinator.com/item?id=35893006) - [A whirlwind tour of the LLVM optimizer](https://www.slideshare.net/nikita_ppv/a-whirlwind-tour-of-the-llvm-optimizerpdf)
 
