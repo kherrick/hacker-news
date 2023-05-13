@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-05-13, 13:06:27",
+      "https://news.ycombinator.com/item?id=35928000"
+    ],
+    [
+      "Please, please stop using Xorg with Asahi Linux",
+      "https://social.treehouse.systems/@marcan/110354541574112092"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 12:53:36",
+      "https://news.ycombinator.com/item?id=35927912"
+    ],
+    [
+      "An AI Girlfriend made $72K in 1 week",
+      "https://old.reddit.com/r/ChatGPT/comments/13g9euv/an_ai_girlfriend_made_72k_in_1_week/"
+    ]
+  ],
+  [
+    [
       "2023-05-13, 12:41:36",
       "https://news.ycombinator.com/item?id=35927813"
     ],
     [
-      "Welcome to Rails Cheat Sheet",
+      "Rails Cheat Sheet",
       "https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/"
     ]
   ],
@@ -147,26 +167,6 @@
     [
       "I stopped worrying and learned to love denormalized tables",
       "https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 00:00:55",
-      "https://news.ycombinator.com/item?id=35924008"
-    ],
-    [
-      "First Rust code in the Windows 11 kernel",
-      "https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 20:49:49",
-      "https://news.ycombinator.com/item?id=35922207"
-    ],
-    [
-      "CI&#x2F;CD with KiCad and Gitlab",
-      "https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/"
     ]
   ],
   [
