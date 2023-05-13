@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-13, 15:18:33",
+      "https://news.ycombinator.com/item?id=35929195"
+    ],
+    [
+      "Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON",
+      "https://rome.tools/blog/2023/05/10/rome12_1/"
+    ]
+  ],
+  [
+    [
       "2023-05-13, 15:17:40",
       "https://news.ycombinator.com/item?id=35929184"
     ],
@@ -37,6 +47,16 @@
     [
       "Ask HN: What are the most eye-opening textbooks you have ever read?",
       "https://news.ycombinator.com/item?id=35929112"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 15:08:15",
+      "https://news.ycombinator.com/item?id=35929102"
+    ],
+    [
+      "1980 Terminal with Linux – TeleVideo 950",
+      "https://www.youtube.com/watch?v=ob7cEzXLxXU"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-05-13, 11:09:45",
-      "https://news.ycombinator.com/item?id=35927282"
-    ],
-    [
-      "TypeScript team released an explorer for performance tuning",
-      "https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 11:01:03",
       "https://news.ycombinator.com/item?id=35927239"
     ],
@@ -231,6 +241,16 @@
   ],
   [
     [
+      "2023-05-12, 20:22:11",
+      "https://news.ycombinator.com/item?id=35921839"
+    ],
+    [
+      "Decoding the Defiance of Henry VIII’s First Wife",
+      "https://www.nytimes.com/2022/07/07/arts/ciphers-henry-viii-catherine.html"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 19:48:59",
       "https://news.ycombinator.com/item?id=35921375"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-05-12, 07:16:43",
-      "https://news.ycombinator.com/item?id=35913013"
-    ],
-    [
-      "“The Golden Age of Software Architecture” Revisited (2009)",
-      "https://ieeexplore.ieee.org/document/5076462"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 04:22:27",
       "https://news.ycombinator.com/item?id=35911867"
     ],
     [
       "I&#x27;ve mostly stopped reading technical mailing lists",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 03:38:52",
-      "https://news.ycombinator.com/item?id=35911595"
-    ],
-    [
-      "Delimiters won’t save you from prompt injection",
-      "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/"
     ]
   ]
 ]
