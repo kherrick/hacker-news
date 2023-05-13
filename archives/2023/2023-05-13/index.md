@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 13:06:27](https://news.ycombinator.com/item?id=35928000) - [Please, please stop using Xorg with Asahi Linux](https://social.treehouse.systems/@marcan/110354541574112092)
+* [2023-05-13, 12:53:36](https://news.ycombinator.com/item?id=35927912) - [An AI Girlfriend made $72K in 1 week](https://old.reddit.com/r/ChatGPT/comments/13g9euv/an_ai_girlfriend_made_72k_in_1_week/)
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Welcome to Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-05-13, 11:50:45](https://news.ycombinator.com/item?id=35927477) - [Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion](https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid)
