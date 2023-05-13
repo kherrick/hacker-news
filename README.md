@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 15:17:40](https://news.ycombinator.com/item?id=35929184) - [Erdogan Promises to Transfer Power Peacefully If He Loses Ballot](https://www.bloomberg.com/news/articles/2023-05-12/erdogan-promises-to-transfer-power-peacefully-if-he-loses-ballot)
 * [2023-05-13, 15:16:03](https://news.ycombinator.com/item?id=35929171) - [We’re About to See a Rare and Record-Setting May Heat Wave](https://www.scientificamerican.com/article/were-about-to-see-a-rare-and-record-setting-may-heat-wave/)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 15:10:13](https://news.ycombinator.com/item?id=35929112) - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
@@ -29,7 +30,6 @@
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
 * [2023-05-12, 07:16:43](https://news.ycombinator.com/item?id=35913013) - [“The Golden Age of Software Architecture” Revisited (2009)](https://ieeexplore.ieee.org/document/5076462)
 * [2023-05-12, 04:22:27](https://news.ycombinator.com/item?id=35911867) - [I&#x27;ve mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
-* [2023-05-12, 03:38:52](https://news.ycombinator.com/item?id=35911595) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 
 ## [Archives](archives/index.md)
 

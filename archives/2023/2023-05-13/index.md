@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 15:17:40](https://news.ycombinator.com/item?id=35929184) - [Erdogan Promises to Transfer Power Peacefully If He Loses Ballot](https://www.bloomberg.com/news/articles/2023-05-12/erdogan-promises-to-transfer-power-peacefully-if-he-loses-ballot)
 * [2023-05-13, 15:16:03](https://news.ycombinator.com/item?id=35929171) - [We’re About to See a Rare and Record-Setting May Heat Wave](https://www.scientificamerican.com/article/were-about-to-see-a-rare-and-record-setting-may-heat-wave/)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 15:10:13](https://news.ycombinator.com/item?id=35929112) - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
