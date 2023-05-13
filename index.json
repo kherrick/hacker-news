@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-05-13, 16:39:50",
+      "https://news.ycombinator.com/item?id=35930045"
+    ],
+    [
+      "Microsoft will take nearly a year to finish patching new 0-day Secure Boot bug",
+      "https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/"
+    ]
+  ],
+  [
+    [
       "2023-05-13, 16:16:25",
       "https://news.ycombinator.com/item?id=35929816"
     ],
@@ -67,16 +77,6 @@
     [
       "Prompt injection explained, with video, slides, and a transcript",
       "https://simonwillison.net/2023/May/2/prompt-injection-explained/"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 15:10:13",
-      "https://news.ycombinator.com/item?id=35929112"
-    ],
-    [
-      "Ask HN: What are the most eye-opening textbooks you have ever read?",
-      "https://news.ycombinator.com/item?id=35929112"
     ]
   ],
   [
@@ -137,6 +137,16 @@
     [
       "Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy",
       "https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 13:49:31",
+      "https://news.ycombinator.com/item?id=35928362"
+    ],
+    [
+      "OpenBSD 7.3 on the es40 Dec Alpha emulator",
+      "https://virtuallyfun.com/2023/05/10/openbsd-7-3-on-the-es40-dec-alpha-emulator/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "How to sell Elixir again",
       "https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 04:22:27",
-      "https://news.ycombinator.com/item?id=35911867"
-    ],
-    [
-      "I&#x27;ve mostly stopped reading technical mailing lists",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading"
     ]
   ]
 ]
