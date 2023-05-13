@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-05-13, 01:49:13",
-      "https://news.ycombinator.com/item?id=35924670"
-    ],
-    [
-      "Singh proposes corporate tax hike tied to CEO-worker pay gap",
-      "https://www.cbc.ca/news/politics/singh-tax-worker-ceo-pay-1.6813968"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 00:40:05",
       "https://news.ycombinator.com/item?id=35924259"
     ],
@@ -97,6 +87,16 @@
     [
       "A RP2040 Powered MIDI-Controlled Synth in CircuitPython",
       "https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 19:48:59",
+      "https://news.ycombinator.com/item?id=35921375"
+    ],
+    [
+      "GitHub Copilot Leaked Prompt",
+      "https://twitter.com/marvinvonhagen/status/1657060506371346432"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-05-12, 07:47:40",
-      "https://news.ycombinator.com/item?id=35913222"
-    ],
-    [
-      "Primes and Primitive Sets: an Erdos Conjecture is cracked (2022) [video]",
-      "https://www.youtube.com/watch?v=33YSWaR3kAQ"
-    ]
-  ],
-  [
-    [
       "2023-05-12, 04:40:53",
       "https://news.ycombinator.com/item?id=35911990"
     ],
@@ -267,6 +257,16 @@
     [
       "I&#x27;ve mostly stopped reading technical mailing lists",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 16:17:56",
+      "https://news.ycombinator.com/item?id=35904361"
+    ],
+    [
+      "Delimiters won’t save you from prompt injection",
+      "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/"
     ]
   ],
   [
