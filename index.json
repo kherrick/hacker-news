@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-13, 09:15:27",
+      "https://news.ycombinator.com/item?id=35926821"
+    ],
+    [
+      "Ocean Temperature",
+      "https://en.wikipedia.org/wiki/Ocean_temperature"
+    ]
+  ],
+  [
+    [
       "2023-05-13, 05:19:00",
       "https://news.ycombinator.com/item?id=35925821"
     ],
@@ -27,16 +37,6 @@
     [
       "I stopped worrying and learned to love denormalized tables",
       "https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 00:00:55",
-      "https://news.ycombinator.com/item?id=35924008"
-    ],
-    [
-      "First Rust code in the Windows 11 kernel",
-      "https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Windmill: Open-source developer platform to turn scripts into workflows and UIs",
       "https://github.com/windmill-labs/windmill"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 17:57:22",
-      "https://news.ycombinator.com/item?id=35919667"
-    ],
-    [
-      "Exploring the native use of 64-bit posit arithmetic in scientific computing",
-      "https://arxiv.org/abs/2305.06946"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Delimiters won’t save you from prompt injection",
       "https://simonwillison.net/2023/May/11/delimiters-wont-save-you/"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 00:39:29",
+      "https://news.ycombinator.com/item?id=35910363"
+    ],
+    [
+      "Rarely Seen Game Mechanics",
+      "https://novalis.org/blog/2023-05-02-rarely-seen-game-mechanics.html"
     ]
   ],
   [
