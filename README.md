@@ -6,6 +6,7 @@
 * [2023-05-13, 16:44:25](https://news.ycombinator.com/item?id=35930105) - [Palantir seeing &#x27;unprecedented&#x27; demand for its military AI](https://fortune.com/2023/05/09/peter-thiel-palantir-unprecedented-demand-ai-artificial-intelligence/)
 * [2023-05-13, 16:39:50](https://news.ycombinator.com/item?id=35930045) - [Microsoft will take nearly a year to finish patching new 0-day Secure Boot bug](https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/)
 * [2023-05-13, 16:16:25](https://news.ycombinator.com/item?id=35929816) - [Saturn&#x27;s rings are far younger than once thought](https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study)
+* [2023-05-13, 15:36:11](https://news.ycombinator.com/item?id=35929377) - [Large language models generate functional protein sequences across families](https://www.nature.com/articles/s41587-022-01618-2)
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 15:08:15](https://news.ycombinator.com/item?id=35929102) - [1980 Terminal with Linux – TeleVideo 950](https://www.youtube.com/watch?v=ob7cEzXLxXU)
@@ -29,7 +30,6 @@
 * [2023-05-13, 02:47:04](https://news.ycombinator.com/item?id=35924997) - [Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
 * [2023-05-12, 11:32:01](https://news.ycombinator.com/item?id=35914691) - [Who Were ‘The Celts’ and How Did They (Some of Them) Fight?](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/)
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
-* [2023-05-12, 07:16:43](https://news.ycombinator.com/item?id=35913013) - [“The Golden Age of Software Architecture” Revisited (2009)](https://ieeexplore.ieee.org/document/5076462)
 
 ## [Archives](archives/index.md)
 
