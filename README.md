@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 14:49:45](https://news.ycombinator.com/item?id=35928936) - [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
+* [2023-05-13, 14:47:08](https://news.ycombinator.com/item?id=35928907) - [EU lawmakers take first steps toward tougher AI rules](https://www.dw.com/en/eu-lawmakers-take-first-steps-toward-tougher-ai-rules/a-65585731)
+* [2023-05-13, 14:36:24](https://news.ycombinator.com/item?id=35928816) - [Asus UK PR believes it is ‘legal to buy positive reviews’](https://www.kitguru.net/channel/generaltech/matthew-wilson/asus-uk-pr-believes-it-is-legal-to-buy-positive-reviews/)
 * [2023-05-13, 14:28:07](https://news.ycombinator.com/item?id=35928755) - [Julia 1.9: A New Era of Performance and Flexibility](https://juliazoid.com/julia-1-9-a-new-era-of-performance-and-flexibility-2e79f3e1ee15?gi=1136904d9cbb)
 * [2023-05-13, 14:18:03](https://news.ycombinator.com/item?id=35928663) - [GPS Independence: Japan plans expansion of QZSS network to 11 satellites](https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Japan-plans-expansion-of-homegrown-GPS-network-to-11-satellites)
 * [2023-05-13, 13:59:59](https://news.ycombinator.com/item?id=35928460) - [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
@@ -20,14 +23,11 @@
 * [2023-05-13, 02:47:04](https://news.ycombinator.com/item?id=35924997) - [Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
 * [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
 * [2023-05-12, 19:48:59](https://news.ycombinator.com/item?id=35921375) - [GitHub Copilot Chat Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
-* [2023-05-12, 19:07:17](https://news.ycombinator.com/item?id=35920760) - [The Cerberus C semantics [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-981.pdf)
 * [2023-05-12, 16:11:46](https://news.ycombinator.com/item?id=35918210) - [Durin: A new mobile app for the IPFS network](https://blog.ipfs.tech/announcing-durin/)
-* [2023-05-12, 15:34:24](https://news.ycombinator.com/item?id=35917665) - [Wild Lupine and Karner Blue Butterflies (1996) [pdf]](https://www.nrc.gov/docs/ML0707/ML070720463.pdf)
 * [2023-05-12, 11:32:01](https://news.ycombinator.com/item?id=35914691) - [Who Were ‘The Celts’ and How Did They (Some of Them) Fight?](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/)
 * [2023-05-12, 11:25:40](https://news.ycombinator.com/item?id=35914651) - [Show HN: The Leica MPi: A Leica M2 with a Raspberry Pi-Powered Digital Sensor](https://psychomugs.github.io/mpi)
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
 * [2023-05-12, 07:16:43](https://news.ycombinator.com/item?id=35913013) - [“The Golden Age of Software Architecture” Revisited (2009)](https://ieeexplore.ieee.org/document/5076462)
-* [2023-05-12, 04:40:53](https://news.ycombinator.com/item?id=35911990) - [The Law of the Sea](https://www.thedial.world/issue-4/law-of-the-sea-climate-change)
 * [2023-05-12, 04:22:27](https://news.ycombinator.com/item?id=35911867) - [I&#x27;ve mostly stopped reading technical mailing lists](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MailingListsNoMoreReading)
 * [2023-05-12, 03:38:52](https://news.ycombinator.com/item?id=35911595) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 

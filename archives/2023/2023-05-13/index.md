@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 14:49:45](https://news.ycombinator.com/item?id=35928936) - [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
+* [2023-05-13, 14:47:08](https://news.ycombinator.com/item?id=35928907) - [EU lawmakers take first steps toward tougher AI rules](https://www.dw.com/en/eu-lawmakers-take-first-steps-toward-tougher-ai-rules/a-65585731)
+* [2023-05-13, 14:36:24](https://news.ycombinator.com/item?id=35928816) - [Asus UK PR believes it is ‘legal to buy positive reviews’](https://www.kitguru.net/channel/generaltech/matthew-wilson/asus-uk-pr-believes-it-is-legal-to-buy-positive-reviews/)
 * [2023-05-13, 14:28:07](https://news.ycombinator.com/item?id=35928755) - [Julia 1.9: A New Era of Performance and Flexibility](https://juliazoid.com/julia-1-9-a-new-era-of-performance-and-flexibility-2e79f3e1ee15?gi=1136904d9cbb)
 * [2023-05-13, 14:18:03](https://news.ycombinator.com/item?id=35928663) - [GPS Independence: Japan plans expansion of QZSS network to 11 satellites](https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Japan-plans-expansion-of-homegrown-GPS-network-to-11-satellites)
 * [2023-05-13, 13:59:59](https://news.ycombinator.com/item?id=35928460) - [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
