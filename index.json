@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-05-13, 11:22:15",
-      "https://news.ycombinator.com/item?id=35927352"
-    ],
-    [
-      "V",
-      "https://www.imdb.com/title/tt0086823/"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 11:19:24",
       "https://news.ycombinator.com/item?id=35927329"
     ],
@@ -57,6 +47,16 @@
     [
       "TypeScript team released an explorer for performance tuning",
       "https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 11:09:26",
+      "https://news.ycombinator.com/item?id=35927278"
+    ],
+    [
+      "Number of displaced people hits record due to war, climate change",
+      "https://www.reuters.com/world/number-internally-displaced-people-hits-record-due-war-climate-change-2023-05-11/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "First Rust code in the Windows 11 kernel",
       "https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 23:07:08",
-      "https://news.ycombinator.com/item?id=35923651"
-    ],
-    [
-      "Language models still struggle with the concept of negation",
-      "https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Show HN: The Leica MPi: A Leica M2 with a Raspberry Pi-Powered Digital Sensor",
       "https://psychomugs.github.io/mpi"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 07:16:43",
+      "https://news.ycombinator.com/item?id=35913013"
+    ],
+    [
+      "“The Golden Age of Software Architecture” Revisited (2009)",
+      "https://ieeexplore.ieee.org/document/5076462"
     ]
   ],
   [
