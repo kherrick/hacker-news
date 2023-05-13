@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
+* [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 15:17:40](https://news.ycombinator.com/item?id=35929184) - [Erdogan Promises to Transfer Power Peacefully If He Loses Ballot](https://www.bloomberg.com/news/articles/2023-05-12/erdogan-promises-to-transfer-power-peacefully-if-he-loses-ballot)
 * [2023-05-13, 15:16:03](https://news.ycombinator.com/item?id=35929171) - [We’re About to See a Rare and Record-Setting May Heat Wave](https://www.scientificamerican.com/article/were-about-to-see-a-rare-and-record-setting-may-heat-wave/)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 15:10:13](https://news.ycombinator.com/item?id=35929112) - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
+* [2023-05-13, 15:08:15](https://news.ycombinator.com/item?id=35929102) - [1980 Terminal with Linux – TeleVideo 950](https://www.youtube.com/watch?v=ob7cEzXLxXU)
 * [2023-05-13, 15:04:41](https://news.ycombinator.com/item?id=35929069) - [Lyft CEO David Risher reportedly says company is &#x27;open&#x27; to acquisition offers](https://www.sfgate.com/tech/article/lyft-ceo-says-ride-hailing-giant-open-to-sale-18097064.php)
 * [2023-05-13, 14:58:29](https://news.ycombinator.com/item?id=35929011) - [Chegg stock sinks after CEO says ChatGPT hurt growth](https://finance.yahoo.com/news/chegg-stock-sinks-after-ceo-says-chatgpt-hurt-growth-132058643.html)
 * [2023-05-13, 14:49:45](https://news.ycombinator.com/item?id=35928936) - [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
