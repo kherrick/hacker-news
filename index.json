@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-13, 14:28:07",
+      "https://news.ycombinator.com/item?id=35928755"
+    ],
+    [
+      "Julia 1.9: A New Era of Performance and Flexibility",
+      "https://juliazoid.com/julia-1-9-a-new-era-of-performance-and-flexibility-2e79f3e1ee15?gi=1136904d9cbb"
+    ]
+  ],
+  [
+    [
       "2023-05-13, 14:18:03",
       "https://news.ycombinator.com/item?id=35928663"
     ],
@@ -197,16 +207,6 @@
     [
       "The Cerberus C semantics [pdf]",
       "https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-981.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 18:20:44",
-      "https://news.ycombinator.com/item?id=35920082"
-    ],
-    [
-      "Windmill: Open-source developer platform to turn scripts into workflows and UIs",
-      "https://github.com/windmill-labs/windmill"
     ]
   ],
   [
