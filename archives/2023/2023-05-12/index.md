@@ -71,6 +71,7 @@
 * [2023-05-12, 11:25:40](https://news.ycombinator.com/item?id=35914651) - [Show HN: The Leica MPi: A Leica M2 with a Raspberry Pi-Powered Digital Sensor](https://psychomugs.github.io/mpi)
 * [2023-05-12, 10:55:57](https://news.ycombinator.com/item?id=35914473) - [Ask HN: Where to Feature Startup on Spanish, Portuguese, German, French?](https://news.ycombinator.com/item?id=35914473)
 * [2023-05-12, 10:51:40](https://news.ycombinator.com/item?id=35914447) - [Pigz: Parallel gzip for modern multi-processor, multi-core machines](https://zlib.net/pigz/)
+* [2023-05-12, 10:34:17](https://news.ycombinator.com/item?id=35914330) - [Thoughts on Swift and Objective-C](https://lapcatsoftware.com/articles/swift.html)
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
 * [2023-05-12, 10:01:35](https://news.ycombinator.com/item?id=35914094) - [Google Quantum AI braids non-Abelian anyons for the first time](https://phys.org/news/2023-05-google-quantum-ai-braids-non-abelian.html)
 * [2023-05-12, 09:49:14](https://news.ycombinator.com/item?id=35914013) - [EU&#x27;s Cyber Resilience Act contains a poison pill](https://www.theregister.com/2023/05/12/eu_cyber_resilience_act/)

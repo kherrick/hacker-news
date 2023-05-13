@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 15:16:03](https://news.ycombinator.com/item?id=35929171) - [We’re About to See a Rare and Record-Setting May Heat Wave](https://www.scientificamerican.com/article/were-about-to-see-a-rare-and-record-setting-may-heat-wave/)
+* [2023-05-13, 15:10:13](https://news.ycombinator.com/item?id=35929112) - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
+* [2023-05-13, 14:58:29](https://news.ycombinator.com/item?id=35929011) - [Chegg stock sinks after CEO says ChatGPT hurt growth](https://finance.yahoo.com/news/chegg-stock-sinks-after-ceo-says-chatgpt-hurt-growth-132058643.html)
 * [2023-05-13, 14:49:45](https://news.ycombinator.com/item?id=35928936) - [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
 * [2023-05-13, 14:47:08](https://news.ycombinator.com/item?id=35928907) - [EU lawmakers take first steps toward tougher AI rules](https://www.dw.com/en/eu-lawmakers-take-first-steps-toward-tougher-ai-rules/a-65585731)
 * [2023-05-13, 14:36:24](https://news.ycombinator.com/item?id=35928816) - [Asus UK PR believes it is ‘legal to buy positive reviews’](https://www.kitguru.net/channel/generaltech/matthew-wilson/asus-uk-pr-believes-it-is-legal-to-buy-positive-reviews/)
