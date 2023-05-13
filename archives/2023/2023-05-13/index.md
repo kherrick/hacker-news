@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 11:01:03](https://news.ycombinator.com/item?id=35927239) - [Attention Viz](http://attentionviz.com/)
+* [2023-05-13, 10:59:47](https://news.ycombinator.com/item?id=35927228) - [Why Conscious AI Is a Bad, Bad Idea](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
+* [2023-05-13, 10:40:40](https://news.ycombinator.com/item?id=35927149) - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+* [2023-05-13, 09:36:20](https://news.ycombinator.com/item?id=35926904) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 09:15:27](https://news.ycombinator.com/item?id=35926821) - [Ocean Temperature](https://en.wikipedia.org/wiki/Ocean_temperature)
 * [2023-05-13, 09:09:22](https://news.ycombinator.com/item?id=35926798) - [A Tunguska sized airburst destroyed Tall el-Hammam in the Jordan Valley (2021)](https://www.nature.com/articles/s41598-021-97778-3)
 * [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
