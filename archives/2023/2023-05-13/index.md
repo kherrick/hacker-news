@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
+* [2023-05-13, 20:30:28](https://news.ycombinator.com/item?id=35932387) - [TikTok Feeds Teens a Diet of Darkness](https://www.wsj.com/articles/tiktok-feeds-teens-a-diet-of-darkness-8f350507)
 * [2023-05-13, 20:12:07](https://news.ycombinator.com/item?id=35932239) - [Dec&#x27;s OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
 * [2023-05-13, 20:00:00](https://news.ycombinator.com/item?id=35932125) - [Revolut CFO quits after auditor BDO warning](https://www.standard.co.uk/business/revolut-cfo-quits-after-auditor-bdo-warning-over-accountsmikko-salovaara-b1080447.html)
+* [2023-05-13, 19:59:00](https://news.ycombinator.com/item?id=35932118) - [Energy Saving Road Lighting in Norway](https://www.dailyscandinavian.com/energy-saving-road-lighting-norway/)
+* [2023-05-13, 19:55:04](https://news.ycombinator.com/item?id=35932074) - [DIY Git in Python](https://www.leshenko.net/p/ugit/)
+* [2023-05-13, 19:20:18](https://news.ycombinator.com/item?id=35931753) - [ChatGPT vs. Bard: A Realistic Comparison](https://blog.theapricot.io/posts/chatgpt-vs-bard/)
 * [2023-05-13, 18:52:06](https://news.ycombinator.com/item?id=35931464) - [The dictatorship in Turkey is falling tomorrow](https://dostoynikov.bearblog.dev/the-dictatorship-in-turkey-is-falling-tomorrow/)
 * [2023-05-13, 18:47:16](https://news.ycombinator.com/item?id=35931402) - [Hundreds of millions of stars turned into a map of GitHub projects](https://anvaka.github.io/map-of-github/)
 * [2023-05-13, 18:46:39](https://news.ycombinator.com/item?id=35931396) - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
