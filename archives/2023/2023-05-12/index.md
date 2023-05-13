@@ -83,6 +83,7 @@
 * [2023-05-12, 05:44:55](https://news.ycombinator.com/item?id=35912374) - [Extreme Multi-Threading: C++ and Julia 1.9 Integration](https://scientificcoder.com/extreme-multi-threading-c-and-julia-19-integration)
 * [2023-05-12, 05:38:18](https://news.ycombinator.com/item?id=35912318) - [The Legend of Zelda: Tears of the Kingdom Release](https://www.zelda.com/tears-of-the-kingdom/)
 * [2023-05-12, 05:33:39](https://news.ycombinator.com/item?id=35912286) - [Indian Sign Talk (1893)](https://publicdomainreview.org/collection/indian-sign-talk)
+* [2023-05-12, 04:40:53](https://news.ycombinator.com/item?id=35911990) - [The Law of the Sea](https://www.thedial.world/issue-4/law-of-the-sea-climate-change)
 * [2023-05-12, 03:43:20](https://news.ycombinator.com/item?id=35911617) - [A plan to address the world’s challenges with math](https://www.quantamagazine.org/a-plan-to-address-the-worlds-challenges-with-math-20230511/)
 * [2023-05-12, 03:07:05](https://news.ycombinator.com/item?id=35911406) - [FUTO – An independent software lab and grant fund](https://futo.org/)
 * [2023-05-12, 03:03:33](https://news.ycombinator.com/item?id=35911389) - [Cloudflare is slow and Cloudflare cant do much about it](https://hiranyey.dev/posts/cloudflare/)
