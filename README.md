@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-13, 13:06:27](https://news.ycombinator.com/item?id=35928000) - [Please, please stop using Xorg with Asahi Linux](https://social.treehouse.systems/@marcan/110354541574112092)
 * [2023-05-13, 12:53:36](https://news.ycombinator.com/item?id=35927912) - [An AI Girlfriend made $72K in 1 week](https://old.reddit.com/r/ChatGPT/comments/13g9euv/an_ai_girlfriend_made_72k_in_1_week/)
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
@@ -17,6 +16,7 @@
 * [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 * [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [I stopped worrying and learned to love denormalized tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
+* [2023-05-12, 20:49:49](https://news.ycombinator.com/item?id=35922207) - [CI&#x2F;CD with KiCad and Gitlab](https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/)
 * [2023-05-12, 19:48:59](https://news.ycombinator.com/item?id=35921375) - [GitHub Copilot Chat Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
 * [2023-05-12, 19:07:17](https://news.ycombinator.com/item?id=35920760) - [The Cerberus C semantics [pdf]](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-981.pdf)
 * [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
