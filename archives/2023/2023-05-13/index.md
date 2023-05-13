@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 22:13:40](https://news.ycombinator.com/item?id=35933293) - [I’m a student you have no idea how much we are using ChatGPT](https://www.chronicle.com/article/im-a-student-you-have-no-idea-how-much-were-using-chatgpt)
 * [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
 * [2023-05-13, 20:55:28](https://news.ycombinator.com/item?id=35932617) - [TypeScript is &#x27;not worth it&#x27; Svelte switches to JavaScript and JSDoc](https://devclass.com/2023/05/11/typescript-is-not-worth-it-for-developing-libraries-says-svelte-author-as-team-switches-to-javascript-and-jsdoc/)
 * [2023-05-13, 20:52:14](https://news.ycombinator.com/item?id=35932588) - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)

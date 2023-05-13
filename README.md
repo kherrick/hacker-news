@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 22:13:40](https://news.ycombinator.com/item?id=35933293) - [I’m a student you have no idea how much we are using ChatGPT](https://www.chronicle.com/article/im-a-student-you-have-no-idea-how-much-were-using-chatgpt)
 * [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
 * [2023-05-13, 20:52:14](https://news.ycombinator.com/item?id=35932588) - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
 * [2023-05-13, 20:46:15](https://news.ycombinator.com/item?id=35932530) - [How An Obscure OTC-Traded Derivative From The 80s Took Over Crypto](https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/)
@@ -18,7 +19,6 @@
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 15:08:15](https://news.ycombinator.com/item?id=35929102) - [1980 Terminal with Linux – TeleVideo 950](https://www.youtube.com/watch?v=ob7cEzXLxXU)
-* [2023-05-13, 14:36:24](https://news.ycombinator.com/item?id=35928816) - [Asus UK PR believes it is ‘legal to buy positive reviews’](https://www.kitguru.net/channel/generaltech/matthew-wilson/asus-uk-pr-believes-it-is-legal-to-buy-positive-reviews/)
 * [2023-05-13, 13:59:59](https://news.ycombinator.com/item?id=35928460) - [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
 * [2023-05-13, 13:49:31](https://news.ycombinator.com/item?id=35928362) - [OpenBSD 7.3 on the es40 Dec Alpha emulator](https://virtuallyfun.com/2023/05/10/openbsd-7-3-on-the-es40-dec-alpha-emulator/)
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
