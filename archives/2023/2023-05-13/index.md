@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 13:36:21](https://news.ycombinator.com/item?id=35928229) - [The Rails Doctrine](https://rubyonrails.org/doctrine)
 * [2023-05-13, 13:06:27](https://news.ycombinator.com/item?id=35928000) - [Please, please stop using Xorg with Asahi Linux](https://social.treehouse.systems/@marcan/110354541574112092)
 * [2023-05-13, 12:53:36](https://news.ycombinator.com/item?id=35927912) - [An AI Girlfriend made $72K in 1 week](https://old.reddit.com/r/ChatGPT/comments/13g9euv/an_ai_girlfriend_made_72k_in_1_week/)
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Welcome to Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
+* [2023-05-13, 11:56:05](https://news.ycombinator.com/item?id=35927509) - [The new .zip TLD is going to cause some problems](https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/)
 * [2023-05-13, 11:50:45](https://news.ycombinator.com/item?id=35927477) - [Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion](https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid)
 * [2023-05-13, 11:36:57](https://news.ycombinator.com/item?id=35927413) - [How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
 * [2023-05-13, 11:22:15](https://news.ycombinator.com/item?id=35927352) - [V](https://www.imdb.com/title/tt0086823/)
@@ -24,6 +26,7 @@
 * [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
+* [2023-05-13, 02:47:04](https://news.ycombinator.com/item?id=35924997) - [Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
 * [2023-05-13, 02:39:56](https://news.ycombinator.com/item?id=35924949) - [Microsoft Employees Are Hooked on the Company’s Training Videos](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
 * [2023-05-13, 01:49:13](https://news.ycombinator.com/item?id=35924670) - [Singh proposes corporate tax hike tied to CEO-worker pay gap](https://www.cbc.ca/news/politics/singh-tax-worker-ceo-pay-1.6813968)
 * [2023-05-13, 00:44:53](https://news.ycombinator.com/item?id=35924293) - [GitHub Copilot Leaked Prompt](https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/)
