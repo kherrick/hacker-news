@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
+* [2023-05-13, 20:52:14](https://news.ycombinator.com/item?id=35932588) - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
 * [2023-05-13, 20:30:28](https://news.ycombinator.com/item?id=35932387) - [TikTok Feeds Teens a Diet of Darkness](https://www.wsj.com/articles/tiktok-feeds-teens-a-diet-of-darkness-8f350507)
 * [2023-05-13, 20:12:07](https://news.ycombinator.com/item?id=35932239) - [Dec&#x27;s OS-like RSX-11M for the Z280 CPU](https://github.com/hperaza/RSX280)
 * [2023-05-13, 20:00:00](https://news.ycombinator.com/item?id=35932125) - [Revolut CFO quits after auditor BDO warning](https://www.standard.co.uk/business/revolut-cfo-quits-after-auditor-bdo-warning-over-accountsmikko-salovaara-b1080447.html)
@@ -13,7 +14,6 @@
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 16:50:20](https://news.ycombinator.com/item?id=35930160) - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
 * [2023-05-13, 16:16:25](https://news.ycombinator.com/item?id=35929816) - [Saturn&#x27;s rings are far younger than once thought](https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study)
-* [2023-05-13, 16:13:43](https://news.ycombinator.com/item?id=35929794) - [How we hack Hacker News and consistently hit the front page](https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12)
 * [2023-05-13, 15:36:11](https://news.ycombinator.com/item?id=35929377) - [Large language models generate functional protein sequences across families](https://www.nature.com/articles/s41587-022-01618-2)
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
