@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-13, 09:09:22",
-      "https://news.ycombinator.com/item?id=35926798"
-    ],
-    [
-      "A Tunguska sized airburst destroyed Tall el-Hammam in the Jordan Valley (2021)",
-      "https://www.nature.com/articles/s41598-021-97778-3"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 05:19:00",
       "https://news.ycombinator.com/item?id=35925821"
     ],
@@ -157,6 +147,16 @@
     [
       "Windmill: Open-source developer platform to turn scripts into workflows and UIs",
       "https://github.com/windmill-labs/windmill"
+    ]
+  ],
+  [
+    [
+      "2023-05-12, 17:57:22",
+      "https://news.ycombinator.com/item?id=35919667"
+    ],
+    [
+      "Exploring the native use of 64-bit posit arithmetic in scientific computing",
+      "https://arxiv.org/abs/2305.06946"
     ]
   ],
   [
