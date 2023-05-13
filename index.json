@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-05-13, 11:22:15",
-      "https://news.ycombinator.com/item?id=35927352"
-    ],
-    [
-      "V",
-      "https://www.imdb.com/title/tt0086823/"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 11:19:24",
       "https://news.ycombinator.com/item?id=35927329"
     ],
@@ -157,6 +147,16 @@
     [
       "I stopped worrying and learned to love denormalized tables",
       "https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 00:00:55",
+      "https://news.ycombinator.com/item?id=35924008"
+    ],
+    [
+      "First Rust code in the Windows 11 kernel",
+      "https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel"
     ]
   ],
   [
