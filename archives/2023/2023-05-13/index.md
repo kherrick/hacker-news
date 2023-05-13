@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 16:44:25](https://news.ycombinator.com/item?id=35930105) - [Palantir seeing &#x27;unprecedented&#x27; demand for its military AI](https://fortune.com/2023/05/09/peter-thiel-palantir-unprecedented-demand-ai-artificial-intelligence/)
+* [2023-05-13, 16:16:25](https://news.ycombinator.com/item?id=35929816) - [Saturn&#x27;s rings are far younger than once thought](https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study)
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 15:17:40](https://news.ycombinator.com/item?id=35929184) - [Erdogan Promises to Transfer Power Peacefully If He Loses Ballot](https://www.bloomberg.com/news/articles/2023-05-12/erdogan-promises-to-transfer-power-peacefully-if-he-loses-ballot)
@@ -41,6 +43,7 @@
 * [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
 * [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
+* [2023-05-13, 04:18:20](https://news.ycombinator.com/item?id=35925459) - [Caproni Ca.60](https://en.wikipedia.org/wiki/Caproni_Ca.60)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 * [2023-05-13, 02:47:04](https://news.ycombinator.com/item?id=35924997) - [Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
 * [2023-05-13, 02:39:56](https://news.ycombinator.com/item?id=35924949) - [Microsoft Employees Are Hooked on the Company’s Training Videos](https://www.wsj.com/articles/microsoft-employees-are-hooked-on-the-companys-training-videos-c8684a1)
