@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 20:00:00](https://news.ycombinator.com/item?id=35932125) - [Revolut CFO quits after auditor BDO warning](https://www.standard.co.uk/business/revolut-cfo-quits-after-auditor-bdo-warning-over-accountsmikko-salovaara-b1080447.html)
 * [2023-05-13, 18:52:06](https://news.ycombinator.com/item?id=35931464) - [The dictatorship in Turkey is falling tomorrow](https://dostoynikov.bearblog.dev/the-dictatorship-in-turkey-is-falling-tomorrow/)
 * [2023-05-13, 18:46:39](https://news.ycombinator.com/item?id=35931396) - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
 * [2023-05-13, 18:43:49](https://news.ycombinator.com/item?id=35931368) - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
