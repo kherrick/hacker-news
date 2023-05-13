@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-05-12, 19:10:32",
+      "https://news.ycombinator.com/item?id=35920811"
+    ],
+    [
+      "Understanding Modern Storage APIs: A systematic study of libaio, SPDK, io_uring [pdf]",
+      "https://atlarge-research.com/pdfs/2022-systor-apis.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-12, 18:32:59",
       "https://news.ycombinator.com/item?id=35920261"
     ],
@@ -187,16 +197,6 @@
     [
       "Durin: A new mobile app for the IPFS network",
       "https://blog.ipfs.tech/announcing-durin/"
-    ]
-  ],
-  [
-    [
-      "2023-05-12, 14:37:17",
-      "https://news.ycombinator.com/item?id=35916967"
-    ],
-    [
-      "Helping a kid who made a math mistake",
-      "https://kidswholovemath.substack.com/p/helping-a-kid-who-made-a-math-mistake"
     ]
   ],
   [
