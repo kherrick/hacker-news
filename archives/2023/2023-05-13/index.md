@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 23:21:17](https://news.ycombinator.com/item?id=35933769) - [Secondary Bacterial Pneumonia Drove Many Covid-19 Deaths](https://news.feinberg.northwestern.edu/2023/05/05/secondary-bacterial-pneumonia-drove-many-covid-19-deaths/)
 * [2023-05-13, 23:02:50](https://news.ycombinator.com/item?id=35933652) - [Why is there no open source firmware for laser or inkjet printers? (2019)](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
 * [2023-05-13, 22:13:40](https://news.ycombinator.com/item?id=35933293) - [I’m a student you have no idea how much we are using ChatGPT](https://www.chronicle.com/article/im-a-student-you-have-no-idea-how-much-were-using-chatgpt)
 * [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)

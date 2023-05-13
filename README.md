@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 23:21:17](https://news.ycombinator.com/item?id=35933769) - [Secondary Bacterial Pneumonia Drove Many Covid-19 Deaths](https://news.feinberg.northwestern.edu/2023/05/05/secondary-bacterial-pneumonia-drove-many-covid-19-deaths/)
 * [2023-05-13, 23:02:50](https://news.ycombinator.com/item?id=35933652) - [Why is there no open source firmware for laser or inkjet printers? (2019)](https://hackaday.io/page/6176-why-is-there-no-open-source-firmware-for-laser-or-inkjet-printers)
 * [2023-05-13, 22:13:40](https://news.ycombinator.com/item?id=35933293) - [I’m a student you have no idea how much we are using ChatGPT](https://www.chronicle.com/article/im-a-student-you-have-no-idea-how-much-were-using-chatgpt)
 * [2023-05-13, 20:56:34](https://news.ycombinator.com/item?id=35932632) - [Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device](https://github.com/canonical/matter-pi-gpio-commander)
@@ -27,7 +28,6 @@
 * [2023-05-13, 10:40:40](https://news.ycombinator.com/item?id=35927149) - [The Wrong Abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [2023-05-13, 09:56:35](https://news.ycombinator.com/item?id=35926993) - [Donkeycar: A Python self driving library](https://github.com/autorope/donkeycar)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
-* [2023-05-13, 02:47:04](https://news.ycombinator.com/item?id=35924997) - [Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
 * [2023-05-13, 01:20:43](https://news.ycombinator.com/item?id=35924495) - [RNA repair mechanism discovered in humans](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html)
 * [2023-05-11, 21:28:29](https://news.ycombinator.com/item?id=35908617) - [Gamedev from Scratch 1: Scaffolding](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/)
 
