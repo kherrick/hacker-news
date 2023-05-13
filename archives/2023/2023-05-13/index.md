@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-13](index.md)
 
+* [2023-05-13, 14:18:03](https://news.ycombinator.com/item?id=35928663) - [GPS Independence: Japan plans expansion of QZSS network to 11 satellites](https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Japan-plans-expansion-of-homegrown-GPS-network-to-11-satellites)
 * [2023-05-13, 13:59:59](https://news.ycombinator.com/item?id=35928460) - [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
 * [2023-05-13, 13:36:21](https://news.ycombinator.com/item?id=35928229) - [The Rails Doctrine](https://rubyonrails.org/doctrine)
 * [2023-05-13, 13:06:27](https://news.ycombinator.com/item?id=35928000) - [Please, please stop using Xorg with Asahi Linux](https://social.treehouse.systems/@marcan/110354541574112092)

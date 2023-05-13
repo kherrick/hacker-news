@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 14:18:03](https://news.ycombinator.com/item?id=35928663) - [GPS Independence: Japan plans expansion of QZSS network to 11 satellites](https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Japan-plans-expansion-of-homegrown-GPS-network-to-11-satellites)
 * [2023-05-13, 13:59:59](https://news.ycombinator.com/item?id=35928460) - [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
 * [2023-05-13, 13:36:21](https://news.ycombinator.com/item?id=35928229) - [The Rails Doctrine](https://rubyonrails.org/doctrine)
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
@@ -22,7 +23,6 @@
 * [2023-05-12, 18:20:44](https://news.ycombinator.com/item?id=35920082) - [Windmill: Open-source developer platform to turn scripts into workflows and UIs](https://github.com/windmill-labs/windmill)
 * [2023-05-12, 16:11:46](https://news.ycombinator.com/item?id=35918210) - [Durin: A new mobile app for the IPFS network](https://blog.ipfs.tech/announcing-durin/)
 * [2023-05-12, 15:34:24](https://news.ycombinator.com/item?id=35917665) - [Wild Lupine and Karner Blue Butterflies (1996) [pdf]](https://www.nrc.gov/docs/ML0707/ML070720463.pdf)
-* [2023-05-12, 14:37:17](https://news.ycombinator.com/item?id=35916967) - [Helping a kid who made a math mistake](https://kidswholovemath.substack.com/p/helping-a-kid-who-made-a-math-mistake)
 * [2023-05-12, 11:32:01](https://news.ycombinator.com/item?id=35914691) - [Who Were ‘The Celts’ and How Did They (Some of Them) Fight?](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/)
 * [2023-05-12, 11:25:40](https://news.ycombinator.com/item?id=35914651) - [Show HN: The Leica MPi: A Leica M2 with a Raspberry Pi-Powered Digital Sensor](https://psychomugs.github.io/mpi)
 * [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
