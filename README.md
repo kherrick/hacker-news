@@ -2,6 +2,7 @@
 
 * [2023-05-13, 18:46:39](https://news.ycombinator.com/item?id=35931396) - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
 * [2023-05-13, 18:43:49](https://news.ycombinator.com/item?id=35931368) - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
+* [2023-05-13, 17:59:42](https://news.ycombinator.com/item?id=35930895) - [Committing changes to a 130GB Git repository without full checkouts [video]](https://www.youtube.com/watch?v=BxvVdB4-Aqc)
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 16:50:20](https://news.ycombinator.com/item?id=35930160) - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
 * [2023-05-13, 16:39:50](https://news.ycombinator.com/item?id=35930045) - [Microsoft will take nearly a year to finish patching new 0-day Secure Boot bug](https://arstechnica.com/information-technology/2023/05/microsoft-patches-secure-boot-flaw-but-wont-enable-fix-by-default-until-early-2024/)
@@ -29,7 +30,6 @@
 * [2023-05-13, 02:47:04](https://news.ycombinator.com/item?id=35924997) - [Google Launches AI Supercomputer Powered by Nvidia H100 GPUs](https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio)
 * [2023-05-13, 01:20:43](https://news.ycombinator.com/item?id=35924495) - [RNA repair mechanism discovered in humans](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html)
 * [2023-05-12, 11:32:01](https://news.ycombinator.com/item?id=35914691) - [Who Were ‘The Celts’ and How Did They (Some of Them) Fight?](https://acoup.blog/2023/05/12/collections-who-were-the-celts-and-how-did-they-some-of-them-fight/)
-* [2023-05-12, 10:18:16](https://news.ycombinator.com/item?id=35914216) - [How to sell Elixir again](https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f)
 
 ## [Archives](archives/index.md)
 
