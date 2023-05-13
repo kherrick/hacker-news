@@ -40,6 +40,7 @@
 * [2023-05-11, 16:46:19](https://news.ycombinator.com/item?id=35904773) - [Anthropic - Introducing 100K Token Context Windows, Around 75,000 Words](https://www.anthropic.com/index/100k-context-windows)
 * [2023-05-11, 16:43:58](https://news.ycombinator.com/item?id=35904734) - [Show HN: Moderator Mayhem, a game about the difficulties of content moderation](https://moderatormayhem.engine.is/)
 * [2023-05-11, 16:34:55](https://news.ycombinator.com/item?id=35904612) - [We fund Matrix dev by selling encrypted messaging to governments](https://mastodon.matrix.org/@element/110340953550548309)
+* [2023-05-11, 16:17:56](https://news.ycombinator.com/item?id=35904361) - [Delimiters won’t save you from prompt injection](https://simonwillison.net/2023/May/11/delimiters-wont-save-you/)
 * [2023-05-11, 16:14:47](https://news.ycombinator.com/item?id=35904320) - [BBEdit is 30 years old](https://www.barebones.com/store/)
 * [2023-05-11, 16:00:39](https://news.ycombinator.com/item?id=35904118) - [IRS Files $44B Claims Against Bankrupt FTX](https://unchainedcrypto.com/irs-files-44-billion-claims-against-bankrupt-ftx/)
 * [2023-05-11, 15:55:09](https://news.ycombinator.com/item?id=35904008) - [Scientists find enzyme that can make electricity out of tiny amounts of hydrogen](https://www.abc.net.au/news/2023-03-09/monash-university-air-electricity-enzyme-soil/102071786)
