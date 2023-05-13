@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-13, 18:46:39](https://news.ycombinator.com/item?id=35931396) - [Julia 1.9.0 lives up to its promise](https://bkamins.github.io/julialang/2023/05/12/julia190.html)
 * [2023-05-13, 18:43:49](https://news.ycombinator.com/item?id=35931368) - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 16:50:20](https://news.ycombinator.com/item?id=35930160) - [New TLDs: Not Bad](https://textslashplain.com/2023/05/13/new-tlds-not-bad-actually/)
@@ -18,7 +19,6 @@
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 * [2023-05-13, 12:06:10](https://news.ycombinator.com/item?id=35927571) - [Byte Magazine Volume 06 Number 09 – Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
-* [2023-05-13, 11:56:05](https://news.ycombinator.com/item?id=35927509) - [The new .zip TLD is going to cause some problems](https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/)
 * [2023-05-13, 11:50:23](https://news.ycombinator.com/item?id=35927475) - [Rust hello world app for Windows 95, cross-compiled from Linux, no MSVC](https://hails.org/@hailey/110360791283096989)
 * [2023-05-13, 11:19:24](https://news.ycombinator.com/item?id=35927329) - [IBM sued for age discrimination by former global software director](https://www.theregister.com/2023/05/13/kyndryl_ibm_sued_discrimination/)
 * [2023-05-13, 11:01:03](https://news.ycombinator.com/item?id=35927239) - [Attention Viz](http://attentionviz.com/)
