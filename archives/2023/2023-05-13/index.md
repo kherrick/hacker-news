@@ -61,6 +61,7 @@
 * [2023-05-13, 12:06:10](https://news.ycombinator.com/item?id=35927571) - [Byte Magazine Volume 06 Number 09 – Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-05-13, 11:56:05](https://news.ycombinator.com/item?id=35927509) - [The new .zip TLD is going to cause some problems](https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/)
+* [2023-05-13, 11:55:58](https://news.ycombinator.com/item?id=35927507) - [Ranking by Engagement](http://tecunningham.github.io/2023-04-28-ranking-by-engagement.html)
 * [2023-05-13, 11:50:45](https://news.ycombinator.com/item?id=35927477) - [Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion](https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid)
 * [2023-05-13, 11:50:23](https://news.ycombinator.com/item?id=35927475) - [Rust hello world app for Windows 95, cross-compiled from Linux, no MSVC](https://hails.org/@hailey/110360791283096989)
 * [2023-05-13, 11:36:57](https://news.ycombinator.com/item?id=35927413) - [How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
