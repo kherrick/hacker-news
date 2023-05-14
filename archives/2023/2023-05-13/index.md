@@ -83,6 +83,7 @@
 * [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
 * [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
+* [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-05-13, 04:22:34](https://news.ycombinator.com/item?id=35925491) - [Pond of Gloop: Review of Anaximander and the Nature of Science](https://www.lrb.co.uk/the-paper/v45/n10/claire-hall/pond-of-gloop)
 * [2023-05-13, 04:18:20](https://news.ycombinator.com/item?id=35925459) - [Caproni Ca.60](https://en.wikipedia.org/wiki/Caproni_Ca.60)
 * [2023-05-13, 03:15:59](https://news.ycombinator.com/item?id=35925124) - [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
