@@ -14,6 +14,7 @@
 * [2023-05-12, 20:21:45](https://news.ycombinator.com/item?id=35921828) - [The SGI XFS Filesystem](https://blog.koehntopp.info/2023/05/12/50-years-in-filesystems-1994.html)
 * [2023-05-12, 20:16:28](https://news.ycombinator.com/item?id=35921745) - [A RP2040 Powered MIDI-Controlled Synth in CircuitPython](https://gist.github.com/todbot/96a654c5fa27625147d65c45c8bfd47b)
 * [2023-05-12, 20:01:29](https://news.ycombinator.com/item?id=35921538) - [GIL Strang&#x27;s final lecture at MIT](https://grinfeld.org/strang/)
+* [2023-05-12, 19:52:37](https://news.ycombinator.com/item?id=35921425) - [A Tour of Gallifrey, a Language for Geodistributed Programming [pdf] (2019)](https://drops.dagstuhl.de/opus/volltexte/2019/10554/pdf/LIPIcs-SNAPL-2019-11.pdf)
 * [2023-05-12, 19:48:59](https://news.ycombinator.com/item?id=35921375) - [GitHub Copilot Leaked Prompt](https://twitter.com/marvinvonhagen/status/1657060506371346432)
 * [2023-05-12, 19:44:20](https://news.ycombinator.com/item?id=35921308) - [Web browsing and Plugins are now rolling out in beta (May 12)](https://help.openai.com/en/articles/6825453-chatgpt-release-notes#h_9894d7b0a4)
 * [2023-05-12, 19:13:06](https://news.ycombinator.com/item?id=35920844) - [Open-source disposable email service](https://sorry.idont.date/)

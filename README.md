@@ -19,7 +19,6 @@
 * [2023-05-14, 09:06:59](https://news.ycombinator.com/item?id=35936539) - [Making GHC faster at emitting code (2022)](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 08:56:48](https://news.ycombinator.com/item?id=35936489) - [What does a leaked Google memo reveal about the future of AI?](https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai)
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [Successful Lisp: How to Understand and Use Common Lisp (1999)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
-* [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: A Common Lisp machine learning library](https://github.com/melisgl/mgl)
@@ -28,6 +27,7 @@
 * [2023-05-13, 11:55:58](https://news.ycombinator.com/item?id=35927507) - [Ranking by Engagement](http://tecunningham.github.io/2023-04-28-ranking-by-engagement.html)
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
+* [2023-05-12, 19:52:37](https://news.ycombinator.com/item?id=35921425) - [A Tour of Gallifrey, a Language for Geodistributed Programming [pdf] (2019)](https://drops.dagstuhl.de/opus/volltexte/2019/10554/pdf/LIPIcs-SNAPL-2019-11.pdf)
 * [2023-05-11, 10:50:30](https://news.ycombinator.com/item?id=35900369) - [Fairbuds XL review: noise-cancelling headphones you can fix](https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth)
 * [2023-05-11, 05:14:13](https://news.ycombinator.com/item?id=35897851) - [The Viterbi Algorithm at 50 (2017)](https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/)
 
