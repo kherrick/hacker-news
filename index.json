@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-05-14, 16:17:43",
+      "https://news.ycombinator.com/item?id=35939054"
+    ],
+    [
+      "The Techlash That Never Happened",
+      "https://eriktorenberg.substack.com/p/the-techlash-that-never-happened"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 15:27:38",
       "https://news.ycombinator.com/item?id=35938691"
     ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-05-14, 08:56:48",
-      "https://news.ycombinator.com/item?id=35936489"
-    ],
-    [
-      "What does a leaked Google memo reveal about the future of AI?",
-      "https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 08:51:53",
       "https://news.ycombinator.com/item?id=35936463"
     ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=35927790"
     ],
     [
-      "MGL: A Common Lisp machine learning library",
+      "MGL: Common Lisp machine learning library",
       "https://github.com/melisgl/mgl"
     ]
   ],
