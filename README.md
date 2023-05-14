@@ -25,11 +25,11 @@
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
 * [2023-05-13, 12:09:55](https://news.ycombinator.com/item?id=35927588) - [Arthropod head problem](https://en.wikipedia.org/wiki/Arthropod_head_problem)
-* [2023-05-13, 11:55:58](https://news.ycombinator.com/item?id=35927507) - [Ranking by Engagement](http://tecunningham.github.io/2023-04-28-ranking-by-engagement.html)
 * [2023-05-13, 10:51:54](https://news.ycombinator.com/item?id=35927198) - [Can Songs Replace Philosophy?](https://tedgioia.substack.com/p/can-songs-really-replace-philosophy)
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
 * [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
+* [2023-05-11, 05:14:13](https://news.ycombinator.com/item?id=35897851) - [The Viterbi Algorithm at 50 (2017)](https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/)
 
 ## [Archives](archives/index.md)
 
