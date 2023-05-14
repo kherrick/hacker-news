@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-14, 14:49:43](https://news.ycombinator.com/item?id=35938433) - [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
-* [2023-05-14, 13:49:51](https://news.ycombinator.com/item?id=35937957) - [IKEA bomb shelter furnishings catalog by Midjourney](https://www.core77.com/posts/123298/Midjourney-Created-Fake-Ikea-Bomb-Shelter-Furnishings-Catalog)
 * [2023-05-14, 12:43:32](https://news.ycombinator.com/item?id=35937540) - [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 12:26:36](https://news.ycombinator.com/item?id=35937464) - [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
@@ -16,6 +15,7 @@
 * [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-14, 06:39:08](https://news.ycombinator.com/item?id=35935849) - [How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
+* [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 05:14:03](https://news.ycombinator.com/item?id=35935499) - [Contempt Culture (2015)](https://blog.aurynn.com/2015/12/16-contempt-culture)
 * [2023-05-14, 02:48:46](https://news.ycombinator.com/item?id=35934903) - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
 * [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [Kudzu, the vine that never ate the south (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
