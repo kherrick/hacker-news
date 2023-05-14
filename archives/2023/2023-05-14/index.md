@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 22:53:58](https://news.ycombinator.com/item?id=35942093) - [Surveillance of reporter a &#x27;serious attack on freedom of the press in Canada&#x27;](https://www.cbc.ca/news/canada/montreal/la-presse-patrick-lagace-cjfe-edward-snowden-1.3829383)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:27:41](https://news.ycombinator.com/item?id=35941914) - [Nuclear energy: Not a Faustian bargain, but a near-perfect providential gift](https://gordianknotbook.com/wp-content/plugins/pdf-poster/pdfjs/web/viewer.html?file=https://gordianknotbook.com/wp-content/uploads/2023/05/rockwell_2008_faustian.pdf&download=true&print=vera&openfile=false)
 * [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
@@ -12,6 +13,7 @@
 * [2023-05-14, 21:35:06](https://news.ycombinator.com/item?id=35941533) - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-05-14, 21:31:56](https://news.ycombinator.com/item?id=35941503) - [The day you became a better writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2023-05-14, 21:21:12](https://news.ycombinator.com/item?id=35941436) - [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
+* [2023-05-14, 21:00:03](https://news.ycombinator.com/item?id=35941315) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-05-14, 20:40:51](https://news.ycombinator.com/item?id=35941200) - [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
 * [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
 * [2023-05-14, 19:57:45](https://news.ycombinator.com/item?id=35940890) - [The Web I Want](https://quii.dev/The_Web_I_Want)
