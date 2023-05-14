@@ -2,7 +2,6 @@
 
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-14, 07:56:25](https://news.ycombinator.com/item?id=35936207) - [Airbnb CEO: to hire from anywhere more useful than having everyone in one office](https://fortune.com/2023/05/11/airbnb-brian-chesky-remote-work-hamptons/)
-* [2023-05-14, 07:40:47](https://news.ycombinator.com/item?id=35936139) - [Ask HN: I am overflowing with ideas but never finish anything](https://news.ycombinator.com/item?id=35936139)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-14, 06:39:08](https://news.ycombinator.com/item?id=35935849) - [How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
@@ -22,6 +21,7 @@
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 13:26:30](https://news.ycombinator.com/item?id=35928141) - [Vimcasts – Free screencasts about the text editor Vim](http://vimcasts.org/)
+* [2023-05-13, 12:42:26](https://news.ycombinator.com/item?id=35927818) - [Ancient-human species mingled in Siberia’s hottest property 300k years (2019)](https://www.nature.com/articles/d41586-019-00353-0)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: A Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 12:06:10](https://news.ycombinator.com/item?id=35927571) - [Byte Magazine Volume 06 Number 09 – Artificial Intelligence (1981)](https://archive.org/details/byte-magazine-1981-09)
 * [2023-05-13, 09:56:35](https://news.ycombinator.com/item?id=35926993) - [Donkeycar: A Python self driving library](https://github.com/autorope/donkeycar)
