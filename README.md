@@ -12,7 +12,7 @@
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 02:48:46](https://news.ycombinator.com/item?id=35934903) - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
 * [2023-05-14, 02:24:38](https://news.ycombinator.com/item?id=35934799) - [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
-* [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [Kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
+* [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [Kudzu, the vine that never ate the south (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2023-05-14, 01:32:17](https://news.ycombinator.com/item?id=35934504) - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
 * [2023-05-14, 01:21:34](https://news.ycombinator.com/item?id=35934458) - [Open-Llama: Complete training pipeline for building large language models](https://github.com/s-JoL/Open-Llama)
 * [2023-05-14, 01:19:59](https://news.ycombinator.com/item?id=35934445) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
