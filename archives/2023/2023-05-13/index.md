@@ -40,6 +40,7 @@
 * [2023-05-13, 15:10:13](https://news.ycombinator.com/item?id=35929112) - [Ask HN: What are the most eye-opening textbooks you have ever read?](https://news.ycombinator.com/item?id=35929112)
 * [2023-05-13, 15:08:15](https://news.ycombinator.com/item?id=35929102) - [1980 Terminal with Linux – TeleVideo 950](https://www.youtube.com/watch?v=ob7cEzXLxXU)
 * [2023-05-13, 15:04:41](https://news.ycombinator.com/item?id=35929069) - [Lyft CEO David Risher reportedly says company is &#x27;open&#x27; to acquisition offers](https://www.sfgate.com/tech/article/lyft-ceo-says-ride-hailing-giant-open-to-sale-18097064.php)
+* [2023-05-13, 15:00:18](https://news.ycombinator.com/item?id=35929025) - [The path to path-traced movies (2016)](https://cs.dartmouth.edu/wjarosz/publications/christensen16path.html)
 * [2023-05-13, 14:58:29](https://news.ycombinator.com/item?id=35929011) - [Chegg stock sinks after CEO says ChatGPT hurt growth](https://finance.yahoo.com/news/chegg-stock-sinks-after-ceo-says-chatgpt-hurt-growth-132058643.html)
 * [2023-05-13, 14:49:45](https://news.ycombinator.com/item?id=35928936) - [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
 * [2023-05-13, 14:47:08](https://news.ycombinator.com/item?id=35928907) - [EU lawmakers take first steps toward tougher AI rules](https://www.dw.com/en/eu-lawmakers-take-first-steps-toward-tougher-ai-rules/a-65585731)
