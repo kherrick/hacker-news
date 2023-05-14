@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [The true story of kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2023-05-14, 01:43:23](https://news.ycombinator.com/item?id=35934562) - [USS Hornet Apollo 11 Cruise Report (1969) [pdf]](https://www.history.navy.mil/content/dam/nhhc/research/archives/apollo-11/hornet-apollo-11-cruise-report-1.pdf)
 * [2023-05-14, 01:32:17](https://news.ycombinator.com/item?id=35934504) - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
+* [2023-05-14, 01:27:39](https://news.ycombinator.com/item?id=35934482) - [Please Let Me Monetize My Hobbies](https://naveenarun.wordpress.com/2023/05/14/please-let-me-monetize-my-hobbies/)
 * [2023-05-14, 01:19:59](https://news.ycombinator.com/item?id=35934445) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-14, 01:18:00](https://news.ycombinator.com/item?id=35934434) - [Science Fiction Books About Aliens](https://fivebooks.com/best-books/science-fiction-aliens-jaime-green/)
 * [2023-05-14, 01:01:52](https://news.ycombinator.com/item?id=35934364) - [Instead of your Life&#x27;s Purpose (2021)](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
@@ -17,8 +19,6 @@
 * [2023-05-13, 18:47:16](https://news.ycombinator.com/item?id=35931402) - [Hundreds of millions of stars turned into a map of GitHub projects](https://anvaka.github.io/map-of-github/)
 * [2023-05-13, 18:43:49](https://news.ycombinator.com/item?id=35931368) - [Idle DR-DOS](http://www.os2museum.com/wp/idle-dr-dos/)
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
-* [2023-05-13, 16:16:25](https://news.ycombinator.com/item?id=35929816) - [Saturn&#x27;s rings are far younger than once thought](https://www.colorado.edu/today/2023/05/12/how-old-are-saturns-rings-far-younger-once-thought-according-new-study)
-* [2023-05-13, 16:13:43](https://news.ycombinator.com/item?id=35929794) - [How we hack Hacker News and consistently hit the front page](https://www.indiehackers.com/post/how-to-hack-hacker-news-and-consistently-hit-the-front-page-56b4a04e12)
 * [2023-05-13, 15:36:11](https://news.ycombinator.com/item?id=35929377) - [Large language models generate functional protein sequences across families](https://www.nature.com/articles/s41587-022-01618-2)
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
 * [2023-05-13, 15:31:42](https://news.ycombinator.com/item?id=35929333) - [A Mathematician&#x27;s Lament (2002) [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
