@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-05-14, 22:37:09",
+      "https://news.ycombinator.com/item?id=35941979"
+    ],
+    [
+      "Combinatory Logic",
+      "https://plato.stanford.edu/entries/logic-combinatory/"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 22:23:55",
       "https://news.ycombinator.com/item?id=35941892"
     ],
     [
       "Human activities drive long-term old trees in human-dominated landscapes",
       "https://www.nature.com/articles/s41477-023-01412-1"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 22:05:32",
+      "https://news.ycombinator.com/item?id=35941749"
+    ],
+    [
+      "JavaScript State Machines and Statecharts",
+      "https://xstate.js.org/docs/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "Pimoroni Badger W display server",
       "https://github.com/ulrischa/badger_server_display"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 20:40:51",
+      "https://news.ycombinator.com/item?id=35941200"
+    ],
+    [
+      "Off-grid solar brings light, time and income to remotest villages",
+      "https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee"
     ]
   ],
   [
@@ -171,32 +201,12 @@
   ],
   [
     [
-      "2023-05-14, 10:45:08",
-      "https://news.ycombinator.com/item?id=35936999"
-    ],
-    [
-      "The networkQuality tool on macOS",
-      "https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 10:13:52",
       "https://news.ycombinator.com/item?id=35936865"
     ],
     [
       "Moving from Blame to Accountability (2017)",
       "https://thesystemsthinker.com/moving-from-blame-to-accountability/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 09:06:59",
-      "https://news.ycombinator.com/item?id=35936539"
-    ],
-    [
-      "Making GHC faster at emitting code (2022)",
-      "https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Dual LLM pattern for building AI assistants that can resist prompt injection",
       "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/"
-    ]
-  ],
-  [
-    [
-      "2023-05-11, 05:14:13",
-      "https://news.ycombinator.com/item?id=35897851"
-    ],
-    [
-      "The Viterbi Algorithm at 50 (2017)",
-      "https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/"
     ]
   ]
 ]
