@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
+* [2023-05-14, 21:35:06](https://news.ycombinator.com/item?id=35941533) - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-05-14, 21:31:56](https://news.ycombinator.com/item?id=35941503) - [The day you became a better writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2023-05-14, 21:21:12](https://news.ycombinator.com/item?id=35941436) - [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
 * [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter (2021)](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
@@ -28,8 +30,6 @@
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
 * [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
-* [2023-05-12, 19:52:37](https://news.ycombinator.com/item?id=35921425) - [A Tour of Gallifrey, a Language for Geodistributed Programming [pdf] (2019)](https://drops.dagstuhl.de/opus/volltexte/2019/10554/pdf/LIPIcs-SNAPL-2019-11.pdf)
-* [2023-05-11, 05:14:13](https://news.ycombinator.com/item?id=35897851) - [The Viterbi Algorithm at 50 (2017)](https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/)
 
 ## [Archives](archives/index.md)
 
