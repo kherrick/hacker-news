@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 07:40:47](https://news.ycombinator.com/item?id=35936139) - [Ask HN: I am overflowing with ideas but never finish anything](https://news.ycombinator.com/item?id=35936139)
+* [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-14, 07:05:21](https://news.ycombinator.com/item?id=35935979) - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 05:27:11](https://news.ycombinator.com/item?id=35935554) - [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
