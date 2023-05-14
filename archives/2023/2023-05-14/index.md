@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-14, 07:40:47](https://news.ycombinator.com/item?id=35936139) - [Ask HN: I am overflowing with ideas but never finish anything](https://news.ycombinator.com/item?id=35936139)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-14, 07:05:21](https://news.ycombinator.com/item?id=35935979) - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
