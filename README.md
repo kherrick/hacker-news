@@ -18,7 +18,7 @@
 * [2023-05-14, 10:13:52](https://news.ycombinator.com/item?id=35936865) - [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
 * [2023-05-14, 09:06:59](https://news.ycombinator.com/item?id=35936539) - [Making GHC faster at emitting code (2022)](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 08:56:48](https://news.ycombinator.com/item?id=35936489) - [What does a leaked Google memo reveal about the future of AI?](https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai)
-* [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [Successful Lisp: How to Understand and Use Common Lisp (2005)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
+* [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [Successful Lisp: How to Understand and Use Common Lisp (1999)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
