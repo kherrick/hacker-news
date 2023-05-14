@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35934578"
     ],
     [
-      "The true story of kudzu, the vine that never ate the south",
+      "Kudzu, the vine that never ate the south",
       "https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/"
     ]
   ],
@@ -47,16 +47,6 @@
     [
       "Three Companies Impersonated Millions to Influence Internet Policy",
       "https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 01:27:39",
-      "https://news.ycombinator.com/item?id=35934482"
-    ],
-    [
-      "Please Let Me Monetize My Hobbies",
-      "https://naveenarun.wordpress.com/2023/05/14/please-let-me-monetize-my-hobbies/"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Python Port of 600 Line Bash Script: rsync-time-machine.py for Rsync Backups",
       "https://github.com/basnijholt/rsync-time-machine.py"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 20:56:34",
+      "https://news.ycombinator.com/item?id=35932632"
+    ],
+    [
+      "Matter Raspberry Pi GPIO Commander – Turn Your Pi into a Matter Lighting Device",
+      "https://github.com/canonical/matter-pi-gpio-commander"
     ]
   ],
   [
