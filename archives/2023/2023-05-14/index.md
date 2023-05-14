@@ -6,8 +6,11 @@
 
 * [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
 * [2023-05-14, 16:17:43](https://news.ycombinator.com/item?id=35939054) - [The Techlash That Never Happened](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened)
+* [2023-05-14, 15:58:36](https://news.ycombinator.com/item?id=35938924) - [A Former Pilot on Why Autonomous Vehicles Are So Risky](https://spectrum.ieee.org/self-driving-cars)
 * [2023-05-14, 15:27:38](https://news.ycombinator.com/item?id=35938691) - [Juice’s RIME antenna breaks free](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
 * [2023-05-14, 14:49:43](https://news.ycombinator.com/item?id=35938433) - [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
+* [2023-05-14, 14:48:23](https://news.ycombinator.com/item?id=35938418) - [“Just a statistical text predictor”](http://www.asanai.net/2023/05/14/just-a-statistical-text-predictor/)
+* [2023-05-14, 14:15:04](https://news.ycombinator.com/item?id=35938162) - [All the arguments against EVs are wrong](https://www.noahpinion.blog/p/all-the-arguments-against-evs-are)
 * [2023-05-14, 13:49:51](https://news.ycombinator.com/item?id=35937957) - [IKEA bomb shelter furnishings catalog by Midjourney](https://www.core77.com/posts/123298/Midjourney-Created-Fake-Ikea-Bomb-Shelter-Furnishings-Catalog)
 * [2023-05-14, 13:01:44](https://news.ycombinator.com/item?id=35937637) - [Fall of the Berlin Wall on Usenet (1989.)](https://groups.google.com/g/eunet.politics/c/LbrVEM7zp-Y/m/ae_hhAk9jd8J)
 * [2023-05-14, 12:43:32](https://news.ycombinator.com/item?id=35937540) - [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
