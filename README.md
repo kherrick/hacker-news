@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
+* [2023-05-14, 22:05:32](https://news.ycombinator.com/item?id=35941749) - [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
 * [2023-05-14, 21:35:06](https://news.ycombinator.com/item?id=35941533) - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-05-14, 21:31:56](https://news.ycombinator.com/item?id=35941503) - [The day you became a better writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2023-05-14, 21:21:12](https://news.ycombinator.com/item?id=35941436) - [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
+* [2023-05-14, 20:40:51](https://news.ycombinator.com/item?id=35941200) - [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
 * [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter (2021)](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
 * [2023-05-14, 19:11:47](https://news.ycombinator.com/item?id=35940506) - [The unreasonable effectiveness of character-level language models (2015)](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
 * [2023-05-14, 17:49:08](https://news.ycombinator.com/item?id=35939816) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
@@ -17,9 +20,7 @@
 * [2023-05-14, 12:07:49](https://news.ycombinator.com/item?id=35937375) - [The World is Built on Probability (1984)](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
 * [2023-05-14, 12:00:27](https://news.ycombinator.com/item?id=35937338) - [Tavus (YC S21) is hiring ML and full stack engineers](https://www.tavus.io/careers)
 * [2023-05-14, 11:32:12](https://news.ycombinator.com/item?id=35937196) - [Chemotherapy drug reaches brain tumors using novel ultrasound technology](https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/)
-* [2023-05-14, 10:45:08](https://news.ycombinator.com/item?id=35936999) - [The networkQuality tool on macOS](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 10:13:52](https://news.ycombinator.com/item?id=35936865) - [Moving from Blame to Accountability (2017)](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
-* [2023-05-14, 09:06:59](https://news.ycombinator.com/item?id=35936539) - [Making GHC faster at emitting code (2022)](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [Successful Lisp: How to Understand and Use Common Lisp (1999)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-13, 15:00:18](https://news.ycombinator.com/item?id=35929025) - [The path to path-traced movies (2016)](https://cs.dartmouth.edu/wjarosz/publications/christensen16path.html)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: Common Lisp machine learning library](https://github.com/melisgl/mgl)
@@ -29,7 +30,6 @@
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
 * [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
-* [2023-05-11, 05:14:13](https://news.ycombinator.com/item?id=35897851) - [The Viterbi Algorithm at 50 (2017)](https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/)
 
 ## [Archives](archives/index.md)
 
