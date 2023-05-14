@@ -24,6 +24,7 @@
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 05:27:11](https://news.ycombinator.com/item?id=35935554) - [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
 * [2023-05-14, 05:15:25](https://news.ycombinator.com/item?id=35935504) - [Hikers Are Banned from the Superbloom in this California Town](https://www.backpacker.com/news-and-events/news/hikers-are-banned-from-the-superbloom-in-this-california-town/)
+* [2023-05-14, 05:14:03](https://news.ycombinator.com/item?id=35935499) - [Contempt Culture (2015)](https://blog.aurynn.com/2015/12/16-contempt-culture)
 * [2023-05-14, 04:23:10](https://news.ycombinator.com/item?id=35935290) - [Vision Basic](https://visionbasic.net/)
 * [2023-05-14, 04:17:04](https://news.ycombinator.com/item?id=35935271) - [Show HN: WhyBot, making GPT-4 question itself](https://whybot-khaki.vercel.app/)
 * [2023-05-14, 04:15:06](https://news.ycombinator.com/item?id=35935265) - [Facebook claims people showing art, electronics, wheelchair mods is hate speech](https://blog.adafruit.com/2023/05/13/facebook-claiming-people-showing-art-electronics-wheelchair-modifications-is-hate-speech-our-video-show-and-tell-removed-from-facebook/)
