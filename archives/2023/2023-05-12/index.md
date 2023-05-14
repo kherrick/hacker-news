@@ -26,6 +26,7 @@
 * [2023-05-12, 18:14:44](https://news.ycombinator.com/item?id=35919977) - [Geothermal Everywhere: Finding the Energy to Save the World](https://www.wired.com/story/where-to-find-the-energy-to-save-the-world-geothermal-texas/)
 * [2023-05-12, 18:13:17](https://news.ycombinator.com/item?id=35919942) - [Faster CPython at PyCon, part two](https://lwn.net/SubscriberLink/931197/56e7c3d8a352d8bc/)
 * [2023-05-12, 18:02:50](https://news.ycombinator.com/item?id=35919753) - [He wrote a book on a rare subject. Then a ChatGPT replica appeared on Amazon](https://www.washingtonpost.com/technology/2023/05/05/ai-spam-websites-books-chatgpt/)
+* [2023-05-12, 18:02:18](https://news.ycombinator.com/item?id=35919741) - [What Is a Schumann Resonance and Why Am I Being Offered a 7.83HZ Oscillator?](https://hackaday.com/2023/05/12/what-is-a-schumann-resonance-and-why-am-i-being-offered-a-7-83hz-oscillator/)
 * [2023-05-12, 17:57:22](https://news.ycombinator.com/item?id=35919667) - [Exploring the Native Use of 64-Bit Posit Arithmetic in Scientific Computing](https://arxiv.org/abs/2305.06946)
 * [2023-05-12, 17:44:45](https://news.ycombinator.com/item?id=35919492) - [How AI knows things no one told it](https://www.scientificamerican.com/article/how-ai-knows-things-no-one-told-it/)
 * [2023-05-12, 17:43:06](https://news.ycombinator.com/item?id=35919463) - [FDIC to hit biggest US banks with $16B bill for SVB clean-up](https://www.ft.com/content/c55c06f9-5de1-49e5-a9c5-770a885dab67)
