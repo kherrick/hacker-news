@@ -74,6 +74,7 @@
 * [2023-05-13, 11:09:26](https://news.ycombinator.com/item?id=35927278) - [Number of displaced people hits record due to war, climate change](https://www.reuters.com/world/number-internally-displaced-people-hits-record-due-war-climate-change-2023-05-11/)
 * [2023-05-13, 11:01:03](https://news.ycombinator.com/item?id=35927239) - [Attention Viz](http://attentionviz.com/)
 * [2023-05-13, 10:59:47](https://news.ycombinator.com/item?id=35927228) - [Why Conscious AI Is a Bad, Bad Idea](https://nautil.us/why-conscious-ai-is-a-bad-bad-idea-302937/)
+* [2023-05-13, 10:51:54](https://news.ycombinator.com/item?id=35927198) - [Can Songs Replace Philosophy?](https://tedgioia.substack.com/p/can-songs-really-replace-philosophy)
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 10:40:40](https://news.ycombinator.com/item?id=35927149) - [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 * [2023-05-13, 09:56:35](https://news.ycombinator.com/item?id=35926993) - [Donkeycar: A Python self driving library](https://github.com/autorope/donkeycar)
