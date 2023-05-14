@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-05-14, 12:35:24",
+      "https://news.ycombinator.com/item?id=35937505"
+    ],
+    [
+      "How to run Llama 13B with a 6GB graphics card",
+      "https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 12:07:49",
       "https://news.ycombinator.com/item?id=35937375"
     ],
     [
-      "The World is Built on Probability [1988&#x2F;2023]",
+      "The World is Built on Probability (1984)",
       "https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023"
     ]
   ],
@@ -17,6 +27,26 @@
     [
       "Tavus (YC S21) is hiring ML and full stack engineers",
       "https://www.tavus.io/careers"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 11:58:24",
+      "https://news.ycombinator.com/item?id=35937324"
+    ],
+    [
+      "All the Media Outlets Are Dying. What the Hell Comes Next?",
+      "https://thewalrus.ca/buzzfeed-news/"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 11:33:45",
+      "https://news.ycombinator.com/item?id=35937204"
+    ],
+    [
+      "The Greatest Wealth Transfer in History Is Here, with Familiar (Rich) Winners",
+      "https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html"
     ]
   ],
   [
@@ -55,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35936463"
     ],
     [
-      "How to Understand and Use Common Lisp",
+      "How to Understand and Use Common Lisp (2005)",
       "https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html"
     ]
   ],
@@ -67,16 +97,6 @@
     [
       "Are We Sixel Yet",
       "https://www.arewesixelyet.com/#terminalapp"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 07:56:25",
-      "https://news.ycombinator.com/item?id=35936207"
-    ],
-    [
-      "Brian Chesky: Ability to hire from anywhere is more valuable than in-office work",
-      "https://fortune.com/2023/05/11/airbnb-brian-chesky-remote-work-hamptons/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "My dad built a cool thing but never boasted about it",
       "https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 02:24:38",
-      "https://news.ycombinator.com/item?id=35934799"
-    ],
-    [
-      "macOS Apps in Rust",
-      "https://github.com/ryanmcgrath/cacao"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-05-13, 12:42:26",
-      "https://news.ycombinator.com/item?id=35927818"
-    ],
-    [
-      "Ancient-human species mingled in Siberia’s hottest property 300k years (2019)",
-      "https://www.nature.com/articles/d41586-019-00353-0"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 12:38:49",
       "https://news.ycombinator.com/item?id=35927790"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35915169"
     ],
     [
-      "Knuth and McIlroy Approach a Problem",
+      "Knuth and McIlroy Approach a Problem (2021)",
       "https://matt-rickard.com/instinct-and-culture"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=35914781"
     ],
     [
-      "How to Survive a Car Crash in 10 Easy Steps",
+      "How to survive a car crash",
       "https://longreads.com/2023/05/11/how-to-survive-a-car-crash-traumatic-brain-injury-10-easy-steps/"
     ]
   ],
