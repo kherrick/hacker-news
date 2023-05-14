@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-14, 20:38:25",
+      "https://news.ycombinator.com/item?id=35941183"
+    ],
+    [
+      "ARM or x86? ISA Doesn’t Matter",
+      "https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 19:57:45",
+      "https://news.ycombinator.com/item?id=35940890"
+    ],
+    [
+      "The Web I Want",
+      "https://quii.dev/The_Web_I_Want"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 19:11:47",
       "https://news.ycombinator.com/item?id=35940506"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2023-05-14, 17:57:53",
-      "https://news.ycombinator.com/item?id=35939883"
+      "2023-05-14, 17:49:08",
+      "https://news.ycombinator.com/item?id=35939816"
     ],
     [
-      "Rising number of lithium battery incidents on airplanes worry crew",
-      "https://www.cbsnews.com/news/hazardous-materials-airplanes/"
+      "Pfeilstorch",
+      "https://en.wikipedia.org/wiki/Pfeilstorch"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "The Cathedral and the Bazaar (1999)",
       "http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 16:37:20",
-      "https://news.ycombinator.com/item?id=35939206"
-    ],
-    [
-      "Tell HN: Putting mirrors around my desk improved my posture",
-      "https://news.ycombinator.com/item?id=35939206"
     ]
   ],
   [
@@ -181,32 +191,12 @@
   ],
   [
     [
-      "2023-05-14, 08:23:12",
-      "https://news.ycombinator.com/item?id=35936331"
-    ],
-    [
-      "Are We Sixel Yet",
-      "https://www.arewesixelyet.com/"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 07:18:09",
       "https://news.ycombinator.com/item?id=35936044"
     ],
     [
       "OpenSnitch in Debian ready for prime time",
       "https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 15:18:33",
-      "https://news.ycombinator.com/item?id=35929195"
-    ],
-    [
-      "Rome v12.1: a linter formatter for TypeScript, JSX and JSON",
-      "https://rome.tools/blog/2023/05/10/rome12_1/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Microsoft Small Basic",
       "https://smallbasic-publicwebsite.azurewebsites.net/"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 05:08:06",
+      "https://news.ycombinator.com/item?id=35925758"
+    ],
+    [
+      "The Dual LLM pattern for building AI assistants that can resist prompt injection",
+      "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/"
     ]
   ],
   [
