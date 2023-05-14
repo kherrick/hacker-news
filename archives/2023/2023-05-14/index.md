@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 07:05:21](https://news.ycombinator.com/item?id=35935979) - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 05:27:11](https://news.ycombinator.com/item?id=35935554) - [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
 * [2023-05-14, 05:15:25](https://news.ycombinator.com/item?id=35935504) - [Hikers Are Banned from the Superbloom in this California Town](https://www.backpacker.com/news-and-events/news/hikers-are-banned-from-the-superbloom-in-this-california-town/)

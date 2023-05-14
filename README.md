@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 07:05:21](https://news.ycombinator.com/item?id=35935979) - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 05:27:11](https://news.ycombinator.com/item?id=35935554) - [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
-* [2023-05-14, 04:23:10](https://news.ycombinator.com/item?id=35935290) - [Vision Basic](https://visionbasic.net/)
 * [2023-05-14, 04:15:06](https://news.ycombinator.com/item?id=35935265) - [Facebook claims people showing art, electronics, wheelchair mods is hate speech](https://blog.adafruit.com/2023/05/13/facebook-claiming-people-showing-art-electronics-wheelchair-modifications-is-hate-speech-our-video-show-and-tell-removed-from-facebook/)
 * [2023-05-14, 03:41:20](https://news.ycombinator.com/item?id=35935135) - [Ask HN: What 60 folks can give career and general life advice for 40 folks](https://news.ycombinator.com/item?id=35935135)
 * [2023-05-14, 02:48:46](https://news.ycombinator.com/item?id=35934903) - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
