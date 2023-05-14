@@ -82,6 +82,7 @@
 * [2023-05-13, 01:57:31](https://news.ycombinator.com/item?id=35924713) - [Logarithmically-Spaced Snapshots](https://madebyevan.com/algos/log-spaced-snapshots/)
 * [2023-05-13, 01:49:13](https://news.ycombinator.com/item?id=35924670) - [Singh proposes corporate tax hike tied to CEO-worker pay gap](https://www.cbc.ca/news/politics/singh-tax-worker-ceo-pay-1.6813968)
 * [2023-05-13, 01:20:43](https://news.ycombinator.com/item?id=35924495) - [RNA repair mechanism discovered in humans](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html)
+* [2023-05-13, 01:18:48](https://news.ycombinator.com/item?id=35924483) - [Researchers use genomes of 241 species to redefine mammalian tree of life](https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html)
 * [2023-05-13, 00:44:53](https://news.ycombinator.com/item?id=35924293) - [GitHub Copilot Leaked Prompt](https://simonwillison.net/2023/May/12/github-copilot-chat-leaked-prompt/)
 * [2023-05-13, 00:40:05](https://news.ycombinator.com/item?id=35924259) - [Why I Stopped Worrying and Learned to Love Denormalized Tables](https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables)
 * [2023-05-13, 00:00:55](https://news.ycombinator.com/item?id=35924008) - [First Rust Code Shows Up in the Windows 11 Kernel](https://www.thurrott.com/windows/windows-11/282995/first-rust-code-shows-up-in-the-windows-11-kernel)
