@@ -15,4 +15,5 @@
 * [2023-05-14, 01:01:52](https://news.ycombinator.com/item?id=35934364) - [Instead of your Life&#x27;s Purpose (2021)](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
 * [2023-05-14, 00:51:53](https://news.ycombinator.com/item?id=35934313) - [Researchers improve nonviral gene editing and a new type of DNA repair](https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair)
 * [2023-05-14, 00:45:06](https://news.ycombinator.com/item?id=35934287) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
+* [2023-05-14, 00:33:20](https://news.ycombinator.com/item?id=35934223) - [As COVID raged in New York hospitals, executives pocketed $73M in bonuses (2022)](https://www.lohud.com/in-depth/news/2022/09/14/ny-hospital-executives-paid-millions-in-bonuses-salary-as-covid-raged/65411150007/)
 * [2023-05-14, 00:23:23](https://news.ycombinator.com/item?id=35934163) - [Metal-filtering sponge removes lead from water](https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/)
