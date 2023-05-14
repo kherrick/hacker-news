@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 21:53:20](https://news.ycombinator.com/item?id=35941667) - [EU AI Act To Target US Open Source Software](https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/)
 * [2023-05-14, 21:31:56](https://news.ycombinator.com/item?id=35941503) - [The day you became a better writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
 * [2023-05-14, 19:57:45](https://news.ycombinator.com/item?id=35940890) - [The Web I Want](https://quii.dev/The_Web_I_Want)
