@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-14](index.md)
+
+* [2023-05-14, 01:01:52](https://news.ycombinator.com/item?id=35934364) - [Instead of your Life&#x27;s Purpose (2021)](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
