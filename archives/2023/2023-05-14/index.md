@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 03:41:20](https://news.ycombinator.com/item?id=35935135) - [Ask HN: What 60 folks can give career and general life advice for 40 folks](https://news.ycombinator.com/item?id=35935135)
 * [2023-05-14, 02:24:38](https://news.ycombinator.com/item?id=35934799) - [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
 * [2023-05-14, 02:06:06](https://news.ycombinator.com/item?id=35934700) - [Attention with Linear Biases (ALiBi)](https://arxiv.org/abs/2108.12409)
 * [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [The true story of kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
