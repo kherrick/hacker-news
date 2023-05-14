@@ -23,12 +23,12 @@
 * [2023-05-13, 15:33:04](https://news.ycombinator.com/item?id=35929348) - [TikTok Owner Had &#x27;Backdoor&#x27; for CCP Access to US Data, Lawsuit Alleges](https://www.businessinsider.com/new-lawsuit-alleges-tiktok-owner-let-ccp-access-user-data-2023-5)
 * [2023-05-13, 15:31:42](https://news.ycombinator.com/item?id=35929333) - [A Mathematician&#x27;s Lament (2002) [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
-* [2023-05-13, 13:59:59](https://news.ycombinator.com/item?id=35928460) - [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
 * [2023-05-13, 13:26:30](https://news.ycombinator.com/item?id=35928141) - [Vimcasts – Free screencasts about the text editor Vim](http://vimcasts.org/)
 * [2023-05-13, 12:59:13](https://news.ycombinator.com/item?id=35927948) - [Boron-assisted abiotic polypeptide synthesis](https://www.nature.com/articles/s42004-023-00885-7)
 * [2023-05-13, 09:56:35](https://news.ycombinator.com/item?id=35926993) - [Donkeycar: A Python self driving library](https://github.com/autorope/donkeycar)
 * [2023-05-13, 01:57:31](https://news.ycombinator.com/item?id=35924713) - [Logarithmically-Spaced Snapshots](https://madebyevan.com/algos/log-spaced-snapshots/)
 * [2023-05-13, 01:20:43](https://news.ycombinator.com/item?id=35924495) - [RNA repair mechanism discovered in humans](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html)
+* [2023-05-12, 15:37:17](https://news.ycombinator.com/item?id=35917717) - [A Flexible Type System for Fearless Concurrency](https://dl.acm.org/doi/pdf/10.1145/3519939.3523443)
 * [2023-05-11, 21:28:29](https://news.ycombinator.com/item?id=35908617) - [Gamedev from Scratch 1: Scaffolding](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/)
 
 ## [Archives](archives/index.md)
