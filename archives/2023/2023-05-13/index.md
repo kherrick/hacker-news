@@ -75,6 +75,7 @@
 * [2023-05-13, 09:36:20](https://news.ycombinator.com/item?id=35926904) - [This time, it feels different](https://nadh.in/blog/this-time-it-feels-different/)
 * [2023-05-13, 09:15:27](https://news.ycombinator.com/item?id=35926821) - [Ocean Temperature](https://en.wikipedia.org/wiki/Ocean_temperature)
 * [2023-05-13, 09:09:22](https://news.ycombinator.com/item?id=35926798) - [A Tunguska sized airburst destroyed Tall el-Hammam in the Jordan Valley (2021)](https://www.nature.com/articles/s41598-021-97778-3)
+* [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
 * [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
 * [2023-05-13, 05:19:00](https://news.ycombinator.com/item?id=35925821) - [Ligatures in programming fonts: hell no](https://practicaltypography.com/ligatures-in-programming-fonts-hell-no.html)
 * [2023-05-13, 05:12:10](https://news.ycombinator.com/item?id=35925781) - [Recreating the sounds of the BBC Radiophonic Workshop](https://webaudio.prototyping.bbc.co.uk/)
