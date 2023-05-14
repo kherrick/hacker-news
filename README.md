@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 17:21:17](https://news.ycombinator.com/item?id=35939541) - [Can GPT pass my programming courses?](https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/)
 * [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
 * [2023-05-14, 16:32:28](https://news.ycombinator.com/item?id=35939168) - [The Group Decode ROM: The 8086 processor&#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 * [2023-05-14, 16:17:43](https://news.ycombinator.com/item?id=35939054) - [The Techlash That Never Happened](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened)
@@ -21,7 +22,6 @@
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [Successful Lisp: How to Understand and Use Common Lisp (2005)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
-* [2023-05-14, 02:48:46](https://news.ycombinator.com/item?id=35934903) - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: A Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
