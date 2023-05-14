@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-05-14, 05:27:11",
-      "https://news.ycombinator.com/item?id=35935554"
-    ],
-    [
-      "Should We Tax Robots?",
-      "https://news.mit.edu/2022/robot-tax-income-inequality-1221"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 02:48:46",
       "https://news.ycombinator.com/item?id=35934903"
     ],
@@ -187,6 +177,16 @@
     [
       "A Mathematician&#x27;s Lament (2002) [pdf]",
       "https://www.maa.org/external_archive/devlin/LockhartsLament.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 15:18:33",
+      "https://news.ycombinator.com/item?id=35929195"
+    ],
+    [
+      "Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON",
+      "https://rome.tools/blog/2023/05/10/rome12_1/"
     ]
   ],
   [
