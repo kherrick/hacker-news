@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-14, 17:21:17](https://news.ycombinator.com/item?id=35939541) - [Can GPT pass my programming courses?](https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/)
+* [2023-05-14, 17:01:59](https://news.ycombinator.com/item?id=35939383) - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 * [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
 * [2023-05-14, 16:32:28](https://news.ycombinator.com/item?id=35939168) - [The Group Decode ROM: The 8086 processor&#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 * [2023-05-14, 16:17:43](https://news.ycombinator.com/item?id=35939054) - [The Techlash That Never Happened](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened)
-* [2023-05-14, 15:58:36](https://news.ycombinator.com/item?id=35938924) - [A Former Pilot on Why Autonomous Vehicles Are So Risky](https://spectrum.ieee.org/self-driving-cars)
 * [2023-05-14, 15:27:38](https://news.ycombinator.com/item?id=35938691) - [Juice’s RIME antenna breaks free](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
 * [2023-05-14, 14:49:43](https://news.ycombinator.com/item?id=35938433) - [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
 * [2023-05-14, 14:48:23](https://news.ycombinator.com/item?id=35938418) - [“Just a statistical text predictor”](http://www.asanai.net/2023/05/14/just-a-statistical-text-predictor/)
@@ -25,9 +25,9 @@
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: A Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
+* [2023-05-13, 12:09:55](https://news.ycombinator.com/item?id=35927588) - [Arthropod Head Problem](https://en.wikipedia.org/wiki/Arthropod_head_problem)
 * [2023-05-13, 11:55:58](https://news.ycombinator.com/item?id=35927507) - [Ranking by Engagement](http://tecunningham.github.io/2023-04-28-ranking-by-engagement.html)
 * [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
-* [2023-05-13, 01:18:48](https://news.ycombinator.com/item?id=35924483) - [Researchers use genomes of 241 species to redefine mammalian tree of life](https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html)
 * [2023-05-11, 10:50:30](https://news.ycombinator.com/item?id=35900369) - [Fairbuds XL review: noise-cancelling headphones you can fix](https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth)
 * [2023-05-11, 05:14:13](https://news.ycombinator.com/item?id=35897851) - [The Viterbi Algorithm at 50 (2017)](https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/)
 

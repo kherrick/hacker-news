@@ -58,6 +58,7 @@
 * [2023-05-13, 12:41:36](https://news.ycombinator.com/item?id=35927813) - [Welcome to Rails Cheat Sheet](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: A Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
+* [2023-05-13, 12:09:55](https://news.ycombinator.com/item?id=35927588) - [Arthropod Head Problem](https://en.wikipedia.org/wiki/Arthropod_head_problem)
 * [2023-05-13, 12:06:10](https://news.ycombinator.com/item?id=35927571) - [Byte Magazine Volume 06 Number 09 – Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09)
 * [2023-05-13, 12:01:01](https://news.ycombinator.com/item?id=35927539) - [Laudspeaker hiring engineer to build open source customer journey software](https://github.com/laudspeaker/laudspeaker/tree/Hiring)
 * [2023-05-13, 11:56:05](https://news.ycombinator.com/item?id=35927509) - [The new .zip TLD is going to cause some problems](https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/)
