@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 17:57:53](https://news.ycombinator.com/item?id=35939883) - [Rising number of lithium battery incidents on airplanes worry crew](https://www.cbsnews.com/news/hazardous-materials-airplanes/)
 * [2023-05-14, 17:21:17](https://news.ycombinator.com/item?id=35939541) - [Can GPT pass my programming courses?](https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/)
 * [2023-05-14, 17:01:59](https://news.ycombinator.com/item?id=35939383) - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 * [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)

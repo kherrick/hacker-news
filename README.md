@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 17:57:53](https://news.ycombinator.com/item?id=35939883) - [Rising number of lithium battery incidents on airplanes worry crew](https://www.cbsnews.com/news/hazardous-materials-airplanes/)
 * [2023-05-14, 17:21:17](https://news.ycombinator.com/item?id=35939541) - [Can GPT pass my programming courses?](https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/)
 * [2023-05-14, 17:01:59](https://news.ycombinator.com/item?id=35939383) - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 * [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
@@ -17,7 +18,6 @@
 * [2023-05-14, 11:32:12](https://news.ycombinator.com/item?id=35937196) - [Chemotherapy drug reaches brain tumors using novel ultrasound technology](https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/)
 * [2023-05-14, 10:45:08](https://news.ycombinator.com/item?id=35936999) - [MacOS networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 10:13:52](https://news.ycombinator.com/item?id=35936865) - [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
-* [2023-05-14, 09:06:59](https://news.ycombinator.com/item?id=35936539) - [Making GHC faster at emitting code (2022)](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 08:56:48](https://news.ycombinator.com/item?id=35936489) - [What does a leaked Google memo reveal about the future of AI?](https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai)
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [Successful Lisp: How to Understand and Use Common Lisp (2005)](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/)
