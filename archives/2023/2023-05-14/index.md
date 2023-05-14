@@ -10,6 +10,7 @@
 * [2023-05-14, 04:23:10](https://news.ycombinator.com/item?id=35935290) - [Vision Basic](https://visionbasic.net/)
 * [2023-05-14, 04:15:06](https://news.ycombinator.com/item?id=35935265) - [Facebook claims people showing art, electronics, wheelchair mods is hate speech](https://blog.adafruit.com/2023/05/13/facebook-claiming-people-showing-art-electronics-wheelchair-modifications-is-hate-speech-our-video-show-and-tell-removed-from-facebook/)
 * [2023-05-14, 03:41:20](https://news.ycombinator.com/item?id=35935135) - [Ask HN: What 60 folks can give career and general life advice for 40 folks](https://news.ycombinator.com/item?id=35935135)
+* [2023-05-14, 02:48:46](https://news.ycombinator.com/item?id=35934903) - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
 * [2023-05-14, 02:24:38](https://news.ycombinator.com/item?id=35934799) - [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
 * [2023-05-14, 02:06:06](https://news.ycombinator.com/item?id=35934700) - [Attention with Linear Biases (ALiBi)](https://arxiv.org/abs/2108.12409)
 * [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [The true story of kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
