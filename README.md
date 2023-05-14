@@ -2,7 +2,6 @@
 
 * [2023-05-14, 07:05:21](https://news.ycombinator.com/item?id=35935979) - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
-* [2023-05-14, 05:27:11](https://news.ycombinator.com/item?id=35935554) - [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
 * [2023-05-14, 02:48:46](https://news.ycombinator.com/item?id=35934903) - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
 * [2023-05-14, 02:24:38](https://news.ycombinator.com/item?id=35934799) - [macOS Apps in Rust](https://github.com/ryanmcgrath/cacao)
 * [2023-05-14, 02:06:06](https://news.ycombinator.com/item?id=35934700) - [Attention with Linear Biases (ALiBi)](https://arxiv.org/abs/2108.12409)
@@ -19,6 +18,7 @@
 * [2023-05-13, 17:24:11](https://news.ycombinator.com/item?id=35930518) - [HP disables customers’ printers if they use ink cartridges from cheaper rivals](https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/)
 * [2023-05-13, 15:36:11](https://news.ycombinator.com/item?id=35929377) - [Large language models generate functional protein sequences across families](https://www.nature.com/articles/s41587-022-01618-2)
 * [2023-05-13, 15:31:42](https://news.ycombinator.com/item?id=35929333) - [A Mathematician&#x27;s Lament (2002) [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+* [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 13:26:30](https://news.ycombinator.com/item?id=35928141) - [Vimcasts – Free screencasts about the text editor Vim](http://vimcasts.org/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: A Common Lisp machine learning library](https://github.com/melisgl/mgl)
