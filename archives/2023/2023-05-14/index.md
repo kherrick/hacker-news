@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 12:43:32](https://news.ycombinator.com/item?id=35937540) - [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 12:26:36](https://news.ycombinator.com/item?id=35937464) - [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
 * [2023-05-14, 12:07:49](https://news.ycombinator.com/item?id=35937375) - [The World is Built on Probability [1988&#x2F;2023]](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
@@ -14,6 +15,7 @@
 * [2023-05-14, 10:45:08](https://news.ycombinator.com/item?id=35936999) - [A secret macOS tool – networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 10:13:52](https://news.ycombinator.com/item?id=35936865) - [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
 * [2023-05-14, 09:06:59](https://news.ycombinator.com/item?id=35936539) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
+* [2023-05-14, 08:56:48](https://news.ycombinator.com/item?id=35936489) - [What does a leaked Google memo reveal about the future of AI?](https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai)
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/#terminalapp)
 * [2023-05-14, 07:56:25](https://news.ycombinator.com/item?id=35936207) - [Airbnb CEO: to hire from anywhere more useful than having everyone in one office](https://fortune.com/2023/05/11/airbnb-brian-chesky-remote-work-hamptons/)
