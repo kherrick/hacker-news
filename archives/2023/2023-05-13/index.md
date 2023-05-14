@@ -63,6 +63,7 @@
 * [2023-05-13, 11:50:45](https://news.ycombinator.com/item?id=35927477) - [Isolation nation: Japan tries to draw its citizens out of post-Covid seclusion](https://www.theguardian.com/world/2023/may/12/isolation-nation-one-in-50-japanese-living-in-seclusion-after-covid)
 * [2023-05-13, 11:50:23](https://news.ycombinator.com/item?id=35927475) - [Rust hello world app for Windows 95, cross-compiled from Linux, no MSVC](https://hails.org/@hailey/110360791283096989)
 * [2023-05-13, 11:36:57](https://news.ycombinator.com/item?id=35927413) - [How to lose your work using Undo Copy in Windows](https://mihai.fm/how-to-lose-your-work-using-undo-copy-in-windows/)
+* [2023-05-13, 11:27:41](https://news.ycombinator.com/item?id=35927379) - [A man who started seeing the world backwards after being shot in the head](https://english.elpais.com/science-tech/2023-05-10/patient-m-the-man-who-started-seeing-the-world-backwards-after-being-shot-in-the-head.html)
 * [2023-05-13, 11:22:15](https://news.ycombinator.com/item?id=35927352) - [V](https://www.imdb.com/title/tt0086823/)
 * [2023-05-13, 11:19:24](https://news.ycombinator.com/item?id=35927329) - [IBM sued for age discrimination by former global software director](https://www.theregister.com/2023/05/13/kyndryl_ibm_sued_discrimination/)
 * [2023-05-13, 11:09:45](https://news.ycombinator.com/item?id=35927282) - [TypeScript team released an explorer for performance tuning](https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/)
