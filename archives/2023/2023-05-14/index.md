@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 02:06:06](https://news.ycombinator.com/item?id=35934700) - [Attention with Linear Biases (ALiBi)](https://arxiv.org/abs/2108.12409)
 * [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [The true story of kudzu, the vine that never ate the south](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
 * [2023-05-14, 01:43:23](https://news.ycombinator.com/item?id=35934562) - [USS Hornet Apollo 11 Cruise Report (1969) [pdf]](https://www.history.navy.mil/content/dam/nhhc/research/archives/apollo-11/hornet-apollo-11-cruise-report-1.pdf)
 * [2023-05-14, 01:32:17](https://news.ycombinator.com/item?id=35934504) - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
@@ -12,4 +13,5 @@
 * [2023-05-14, 01:18:00](https://news.ycombinator.com/item?id=35934434) - [Science Fiction Books About Aliens](https://fivebooks.com/best-books/science-fiction-aliens-jaime-green/)
 * [2023-05-14, 01:01:52](https://news.ycombinator.com/item?id=35934364) - [Instead of your Life&#x27;s Purpose (2021)](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
 * [2023-05-14, 00:51:53](https://news.ycombinator.com/item?id=35934313) - [Researchers improve nonviral gene editing and a new type of DNA repair](https://www.news.ucsb.edu/2023/021037/researchers-discover-way-improve-nonviral-gene-editing-well-new-type-dna-repair)
+* [2023-05-14, 00:45:06](https://news.ycombinator.com/item?id=35934287) - [Setting up Hetzner ARM instances with and for Objective-S](https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html)
 * [2023-05-14, 00:23:23](https://news.ycombinator.com/item?id=35934163) - [Metal-filtering sponge removes lead from water](https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/)
