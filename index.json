@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-05-14, 16:17:43",
-      "https://news.ycombinator.com/item?id=35939054"
-    ],
-    [
-      "The Techlash That Never Happened",
-      "https://eriktorenberg.substack.com/p/the-techlash-that-never-happened"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 15:27:38",
       "https://news.ycombinator.com/item?id=35938691"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35938433"
     ],
     [
-      "47% of all internet traffic came from bots in 2022",
+      "47% of all internet traffic came from bots in 2022?",
       "https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35937637"
     ],
     [
-      "Fall of the Berlin Wall on Usenet (1989.)",
+      "Fall of the Berlin Wall on Usenet (1989)",
       "https://groups.google.com/g/eunet.politics/c/LbrVEM7zp-Y/m/ae_hhAk9jd8J"
     ]
   ],
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35936865"
     ],
     [
-      "Moving from Blame to Accountability",
+      "Moving from Blame to Accountability (2017)",
       "https://thesystemsthinker.com/moving-from-blame-to-accountability/"
     ]
   ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2023-05-14, 08:23:12",
+      "https://news.ycombinator.com/item?id=35936331"
+    ],
+    [
+      "Are We Sixel Yet",
+      "https://www.arewesixelyet.com/"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 07:18:09",
       "https://news.ycombinator.com/item?id=35936044"
     ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=35929195"
     ],
     [
-      "Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON",
+      "Rome v12.1: a linter formatter for TypeScript, JSX and JSON",
       "https://rome.tools/blog/2023/05/10/rome12_1/"
     ]
   ],
