@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-14, 14:49:43",
+      "https://news.ycombinator.com/item?id=35938433"
+    ],
+    [
+      "47% of all internet traffic came from bots in 2022",
+      "https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 13:49:51",
+      "https://news.ycombinator.com/item?id=35937957"
+    ],
+    [
+      "IKEA bomb shelter furnishings catalog by Midjourney",
+      "https://www.core77.com/posts/123298/Midjourney-Created-Fake-Ikea-Bomb-Shelter-Furnishings-Catalog"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 12:43:32",
       "https://news.ycombinator.com/item?id=35937540"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35936539"
     ],
     [
-      "Making GHC faster at emitting code",
+      "Making GHC faster at emitting code (2022)",
       "https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/"
     ]
   ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-05-14, 01:32:17",
-      "https://news.ycombinator.com/item?id=35934504"
-    ],
-    [
-      "Three Companies Impersonated Millions to Influence Internet Policy",
-      "https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 01:21:34",
       "https://news.ycombinator.com/item?id=35934458"
     ],
     [
       "Open-Llama: Complete training pipeline for building large language models",
       "https://github.com/s-JoL/Open-Llama"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 01:19:59",
-      "https://news.ycombinator.com/item?id=35934445"
-    ],
-    [
-      "FreeBSD 13.2 on ThinkPad T14 (GEN1)",
-      "https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=35917717"
     ],
     [
-      "A Flexible Type System for Fearless Concurrency (2022)",
+      "A Flexible Type System for Fearless Concurrency (2022) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/3519939.3523443"
     ]
   ],
