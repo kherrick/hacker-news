@@ -24,7 +24,7 @@
 * [2023-05-13, 15:31:42](https://news.ycombinator.com/item?id=35929333) - [A Mathematician&#x27;s Lament (2002) [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
 * [2023-05-13, 13:26:30](https://news.ycombinator.com/item?id=35928141) - [Vimcasts – Free screencasts about the text editor Vim](http://vimcasts.org/)
-* [2023-05-13, 12:06:10](https://news.ycombinator.com/item?id=35927571) - [Byte Magazine Volume 06 Number 09 – Artificial Intelligence](https://archive.org/details/byte-magazine-1981-09)
+* [2023-05-13, 12:06:10](https://news.ycombinator.com/item?id=35927571) - [Byte Magazine Volume 06 Number 09 – Artificial Intelligence (1981)](https://archive.org/details/byte-magazine-1981-09)
 * [2023-05-13, 09:56:35](https://news.ycombinator.com/item?id=35926993) - [Donkeycar: A Python self driving library](https://github.com/autorope/donkeycar)
 * [2023-05-13, 01:57:31](https://news.ycombinator.com/item?id=35924713) - [Logarithmically-Spaced Snapshots](https://madebyevan.com/algos/log-spaced-snapshots/)
 * [2023-05-13, 01:20:43](https://news.ycombinator.com/item?id=35924495) - [RNA repair mechanism discovered in humans](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html)
