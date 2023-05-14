@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
+* [2023-05-14, 16:17:43](https://news.ycombinator.com/item?id=35939054) - [The Techlash That Never Happened](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened)
 * [2023-05-14, 15:27:38](https://news.ycombinator.com/item?id=35938691) - [Juice’s RIME antenna breaks free](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
 * [2023-05-14, 14:49:43](https://news.ycombinator.com/item?id=35938433) - [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
 * [2023-05-14, 13:49:51](https://news.ycombinator.com/item?id=35937957) - [IKEA bomb shelter furnishings catalog by Midjourney](https://www.core77.com/posts/123298/Midjourney-Created-Fake-Ikea-Bomb-Shelter-Furnishings-Catalog)

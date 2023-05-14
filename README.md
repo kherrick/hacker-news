@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
+* [2023-05-14, 16:17:43](https://news.ycombinator.com/item?id=35939054) - [The Techlash That Never Happened](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened)
 * [2023-05-14, 15:27:38](https://news.ycombinator.com/item?id=35938691) - [Juice’s RIME antenna breaks free](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
 * [2023-05-14, 14:49:43](https://news.ycombinator.com/item?id=35938433) - [47% of all internet traffic came from bots in 2022](https://www.securitymagazine.com/articles/99339-47-of-all-internet-traffic-came-from-bots-in-2022)
 * [2023-05-14, 13:01:44](https://news.ycombinator.com/item?id=35937637) - [Fall of the Berlin Wall on Usenet (1989.)](https://groups.google.com/g/eunet.politics/c/LbrVEM7zp-Y/m/ae_hhAk9jd8J)
@@ -19,8 +21,6 @@
 * [2023-05-14, 06:39:08](https://news.ycombinator.com/item?id=35935849) - [How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
 * [2023-05-14, 05:14:03](https://news.ycombinator.com/item?id=35935499) - [Contempt Culture (2015)](https://blog.aurynn.com/2015/12/16-contempt-culture)
 * [2023-05-14, 02:48:46](https://news.ycombinator.com/item?id=35934903) - [My dad built a cool thing but never boasted about it](https://robotsinplainenglish.com/e/2023-04-23-aaba-obit.html)
-* [2023-05-14, 01:45:31](https://news.ycombinator.com/item?id=35934578) - [Kudzu, the vine that never ate the south (2015)](https://www.smithsonianmag.com/science-nature/true-story-kudzu-vine-ate-south-180956325/)
-* [2023-05-14, 01:21:34](https://news.ycombinator.com/item?id=35934458) - [Open-Llama: Complete training pipeline for building large language models](https://github.com/s-JoL/Open-Llama)
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: A Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
