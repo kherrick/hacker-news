@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-14, 21:53:20",
-      "https://news.ycombinator.com/item?id=35941667"
-    ],
-    [
-      "EU AI Act To Target US Open Source Software",
-      "https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 21:31:56",
       "https://news.ycombinator.com/item?id=35941503"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
+      "2023-05-14, 21:21:12",
+      "https://news.ycombinator.com/item?id=35941436"
+    ],
+    [
+      "Pimoroni Badger W display server",
+      "https://github.com/ulrischa/badger_server_display"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 20:38:25",
       "https://news.ycombinator.com/item?id=35941183"
     ],
     [
       "ARM or x86? ISA Doesn’t Matter (2021)",
       "https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 19:57:45",
-      "https://news.ycombinator.com/item?id=35940890"
-    ],
-    [
-      "The Web I Want (2018)",
-      "https://quii.dev/The_Web_I_Want"
     ]
   ],
   [
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2023-05-14, 07:18:09",
-      "https://news.ycombinator.com/item?id=35936044"
+      "2023-05-13, 15:18:33",
+      "https://news.ycombinator.com/item?id=35929195"
     ],
     [
-      "OpenSnitch in Debian ready for prime time",
-      "https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html"
+      "Rome v12.1: a linter formatter for TypeScript, JSX and JSON",
+      "https://rome.tools/blog/2023/05/10/rome12_1/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Dual LLM pattern for building AI assistants that can resist prompt injection",
       "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 10:50:30",
+      "https://news.ycombinator.com/item?id=35900369"
+    ],
+    [
+      "Fairbuds XL review: noise-cancelling headphones you can fix",
+      "https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth"
     ]
   ],
   [
