@@ -17,6 +17,7 @@
 * [2023-05-14, 01:01:52](https://news.ycombinator.com/item?id=35934364) - [Instead of your Life&#x27;s Purpose (2021)](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
 * [2023-05-14, 00:23:23](https://news.ycombinator.com/item?id=35934163) - [Metal-filtering sponge removes lead from water](https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/)
 * [2023-05-13, 19:55:04](https://news.ycombinator.com/item?id=35932074) - [DIY Git in Python](https://www.leshenko.net/p/ugit/)
+* [2023-05-13, 18:47:16](https://news.ycombinator.com/item?id=35931402) - [Hundreds of millions of stars turned into a map of GitHub projects](https://anvaka.github.io/map-of-github/)
 * [2023-05-13, 15:31:42](https://news.ycombinator.com/item?id=35929333) - [A Mathematician&#x27;s Lament (2002) [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 * [2023-05-13, 15:18:33](https://news.ycombinator.com/item?id=35929195) - [Rome v12.1: a Rust-based linter formatter for TypeScript, JSX and JSON](https://rome.tools/blog/2023/05/10/rome12_1/)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
@@ -29,7 +30,6 @@
 * [2023-05-13, 01:57:31](https://news.ycombinator.com/item?id=35924713) - [Logarithmically-Spaced Snapshots](https://madebyevan.com/algos/log-spaced-snapshots/)
 * [2023-05-13, 01:18:48](https://news.ycombinator.com/item?id=35924483) - [Researchers use genomes of 241 species to redefine mammalian tree of life](https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html)
 * [2023-05-12, 15:37:17](https://news.ycombinator.com/item?id=35917717) - [A Flexible Type System for Fearless Concurrency](https://dl.acm.org/doi/pdf/10.1145/3519939.3523443)
-* [2023-05-11, 21:28:29](https://news.ycombinator.com/item?id=35908617) - [Gamedev from Scratch 1: Scaffolding](https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/)
 
 ## [Archives](archives/index.md)
 
