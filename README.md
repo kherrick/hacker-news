@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 01:43:23](https://news.ycombinator.com/item?id=35934562) - [USS Hornet Apollo 11 Cruise Report (1969) [pdf]](https://www.history.navy.mil/content/dam/nhhc/research/archives/apollo-11/hornet-apollo-11-cruise-report-1.pdf)
 * [2023-05-14, 01:32:17](https://news.ycombinator.com/item?id=35934504) - [Three Companies Impersonated Millions to Influence Internet Policy](https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence)
 * [2023-05-14, 01:19:59](https://news.ycombinator.com/item?id=35934445) - [FreeBSD 13.2 on ThinkPad T14 (GEN1)](https://vermaden.wordpress.com/2023/05/14/freebsd-13-2-on-thinkpad-t14-gen1/)
 * [2023-05-14, 01:18:00](https://news.ycombinator.com/item?id=35934434) - [Science Fiction Books About Aliens](https://fivebooks.com/best-books/science-fiction-aliens-jaime-green/)
@@ -25,7 +26,6 @@
 * [2023-05-13, 13:59:59](https://news.ycombinator.com/item?id=35928460) - [Agrivoltaics: A Sustainable Synergy Between Agriculture and Solar Energy](https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/)
 * [2023-05-13, 13:26:30](https://news.ycombinator.com/item?id=35928141) - [Vimcasts – Free screencasts about the text editor Vim](http://vimcasts.org/)
 * [2023-05-13, 12:59:13](https://news.ycombinator.com/item?id=35927948) - [Boron-assisted abiotic polypeptide synthesis](https://www.nature.com/articles/s42004-023-00885-7)
-* [2023-05-13, 11:50:23](https://news.ycombinator.com/item?id=35927475) - [Rust hello world app for Windows 95, cross-compiled from Linux, no MSVC](https://hails.org/@hailey/110360791283096989)
 * [2023-05-13, 09:56:35](https://news.ycombinator.com/item?id=35926993) - [Donkeycar: A Python self driving library](https://github.com/autorope/donkeycar)
 * [2023-05-13, 01:57:31](https://news.ycombinator.com/item?id=35924713) - [Logarithmically-Spaced Snapshots](https://madebyevan.com/algos/log-spaced-snapshots/)
 * [2023-05-13, 01:20:43](https://news.ycombinator.com/item?id=35924495) - [RNA repair mechanism discovered in humans](https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html)
