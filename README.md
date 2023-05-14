@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-14, 10:45:08](https://news.ycombinator.com/item?id=35936999) - [A secret macOS tool – networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
 * [2023-05-14, 09:06:59](https://news.ycombinator.com/item?id=35936539) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
 * [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/#terminalapp)
@@ -17,7 +18,6 @@
 * [2023-05-14, 01:01:52](https://news.ycombinator.com/item?id=35934364) - [Instead of your Life&#x27;s Purpose (2021)](https://philosophyinhell.substack.com/p/instead-of-your-lifes-purpose)
 * [2023-05-14, 00:23:23](https://news.ycombinator.com/item?id=35934163) - [Metal-filtering sponge removes lead from water](https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/)
 * [2023-05-13, 20:52:14](https://news.ycombinator.com/item?id=35932588) - [Micro.blog Reclaiming Usernames Policy](https://www.manton.org/2023/05/13/reclaiming-usernames-policy.html)
-* [2023-05-13, 19:55:04](https://news.ycombinator.com/item?id=35932074) - [DIY Git in Python](https://www.leshenko.net/p/ugit/)
 * [2023-05-13, 18:47:16](https://news.ycombinator.com/item?id=35931402) - [Hundreds of millions of stars turned into a map of GitHub projects](https://anvaka.github.io/map-of-github/)
 * [2023-05-13, 15:31:42](https://news.ycombinator.com/item?id=35929333) - [A Mathematician&#x27;s Lament (2002) [pdf]](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 * [2023-05-13, 15:11:11](https://news.ycombinator.com/item?id=35929122) - [Prompt injection explained, with video, slides, and a transcript](https://simonwillison.net/2023/May/2/prompt-injection-explained/)
