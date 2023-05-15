@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 22:00:44](https://news.ycombinator.com/item?id=35955092) - [Argentina raises interest rate to 97% as it struggles to tackle inflation](https://www.cnn.com/2023/05/15/business/argentina-interest-rates-inflation/index.html)
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
 * [2023-05-15, 21:02:42](https://news.ycombinator.com/item?id=35954439) - [US may default on debt as soon as June 1, Yellen reaffirms](https://www.cnn.com/2023/05/15/politics/debt-ceiling-default-yellen/index.html)
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Kaspersky: Case study: fake hardware cryptowallet (Trezor)](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
@@ -11,6 +12,7 @@
 * [2023-05-15, 20:46:28](https://news.ycombinator.com/item?id=35954259) - [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-15, 20:42:54](https://news.ycombinator.com/item?id=35954208) - [Clinical trial of mRNA universal influenza vaccine candidate begins](https://www.nih.gov/news-events/news-releases/clinical-trial-mrna-universal-influenza-vaccine-candidate-begins)
 * [2023-05-15, 20:19:15](https://news.ycombinator.com/item?id=35953947) - [Regorxxx&#x27;s Foobar2000 SMP Scripts – Spotify, iTunes, YouTube etc. in Your System](https://regorxxx.github.io/foobar2000-SMP.github.io/)
+* [2023-05-15, 20:14:44](https://news.ycombinator.com/item?id=35953882) - [Speaking of Illusions: Sirtuins and Longevity](https://www.science.org/content/blog-post/speaking-illusions-sirtuins-and-longevity)
 * [2023-05-15, 19:53:38](https://news.ycombinator.com/item?id=35953600) - [&#x27;Foundation&#x27; season 2 launches July 14 on Apple TV](https://www.space.com/foundation-season-2-apple-tv-plus-teaser-premiere-date)
 * [2023-05-15, 19:45:28](https://news.ycombinator.com/item?id=35953491) - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
