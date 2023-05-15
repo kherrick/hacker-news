@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-15, 19:45:28](https://news.ycombinator.com/item?id=35953491) - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
@@ -30,6 +29,7 @@
 * [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good Career Move, Terrible Career](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 * [2023-05-14, 10:18:27](https://news.ycombinator.com/item?id=35936885) - [Devil Mode for Emacs](https://susam.github.io/devil/)
 * [2023-05-14, 06:56:54](https://news.ycombinator.com/item?id=35935944) - [What If? Driven Development](https://aftenposten.substack.com/p/what-if-driven-development)
+* [2023-05-14, 06:28:53](https://news.ycombinator.com/item?id=35935796) - [Get Started Making Music](https://learningmusic.ableton.com/)
 
 ## [Archives](archives/index.md)
 
