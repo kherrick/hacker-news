@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 07:52:45](https://news.ycombinator.com/item?id=35944994) - [Mormon whistleblower says is his church is a “clandestine hedge fund”](https://www.cbsnews.com/news/mormon-whistleblower-ensign-peak-church-investment-fund-allegations-60-minutes-transcript-2023-05-14/)
 * [2023-05-15, 07:18:17](https://news.ycombinator.com/item?id=35944749) - [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
 * [2023-05-15, 06:53:40](https://news.ycombinator.com/item?id=35944616) - [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
 * [2023-05-15, 06:44:27](https://news.ycombinator.com/item?id=35944563) - [Ask HN: What is the license of GitHub&#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
@@ -22,7 +23,6 @@
 * [2023-05-14, 17:49:08](https://news.ycombinator.com/item?id=35939816) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2023-05-14, 17:01:59](https://news.ycombinator.com/item?id=35939383) - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
 * [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
-* [2023-05-14, 15:27:38](https://news.ycombinator.com/item?id=35938691) - [Juice’s RIME antenna successfully unjammed](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [Run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 08:37:46](https://news.ycombinator.com/item?id=35936396) - [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English)
 * [2023-05-14, 05:39:55](https://news.ycombinator.com/item?id=35935604) - [Bruce McCall’s “Safe Travels”](https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15)
