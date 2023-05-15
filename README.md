@@ -24,11 +24,11 @@
 * [2023-05-14, 22:05:32](https://news.ycombinator.com/item?id=35941749) - [JavaScript state machines and statecharts](https://xstate.js.org/docs/)
 * [2023-05-14, 21:00:03](https://news.ycombinator.com/item?id=35941315) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-05-14, 20:40:51](https://news.ycombinator.com/item?id=35941200) - [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
-* [2023-05-14, 18:02:05](https://news.ycombinator.com/item?id=35939909) - [Heart attack deaths drop over past two decades](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades)
 * [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
 * [2023-05-14, 08:37:46](https://news.ycombinator.com/item?id=35936396) - [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English)
 * [2023-05-14, 05:37:12](https://news.ycombinator.com/item?id=35935591) - [Crossing the Blood Meridian: Cormac McCarthy and American History](https://lareviewofbooks.org/article/crossing-the-blood-meridian-cormac-mccarthy-and-american-history/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: Common Lisp machine learning library](https://github.com/melisgl/mgl)
+* [2023-05-13, 08:17:21](https://news.ycombinator.com/item?id=35926597) - [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/#kv-cache)
 * [2023-05-13, 07:11:56](https://news.ycombinator.com/item?id=35926321) - [The Great Ptolemaic Smackdown: From Plausible to Proven (2013)](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
 
 ## [Archives](archives/index.md)
