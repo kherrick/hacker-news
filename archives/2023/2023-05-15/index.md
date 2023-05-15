@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 11:00:03](https://news.ycombinator.com/item?id=35946284) - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
+* [2023-05-15, 10:56:49](https://news.ycombinator.com/item?id=35946260) - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
+* [2023-05-15, 10:33:30](https://news.ycombinator.com/item?id=35946060) - [Uncensored (Language) Models](https://erichartford.com/uncensored-models)
 * [2023-05-15, 10:23:54](https://news.ycombinator.com/item?id=35945988) - [Google I&#x2F;O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
+* [2023-05-15, 10:23:43](https://news.ycombinator.com/item?id=35945986) - [Ask HN: Is depleted uranium being spread from the Khmelnitsky explosion?](https://news.ycombinator.com/item?id=35945986)
 * [2023-05-15, 09:54:26](https://news.ycombinator.com/item?id=35945777) - [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 * [2023-05-15, 09:26:32](https://news.ycombinator.com/item?id=35945592) - [Why are so many young Americans adopting fake British accents?](https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z)
 * [2023-05-15, 08:31:27](https://news.ycombinator.com/item?id=35945250) - [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
