@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 23:03:58](https://news.ycombinator.com/item?id=35955706) - [PFAS found in most contact lenses](https://superfund.ncsu.edu/news/3831/)
 * [2023-05-15, 22:05:49](https://news.ycombinator.com/item?id=35955155) - [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
 * [2023-05-15, 22:00:44](https://news.ycombinator.com/item?id=35955092) - [Argentina raises interest rate to 97% as it struggles to tackle inflation](https://www.cnn.com/2023/05/15/business/argentina-interest-rates-inflation/index.html)
 * [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)

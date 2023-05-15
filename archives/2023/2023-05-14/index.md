@@ -48,6 +48,7 @@
 * [2023-05-14, 11:33:45](https://news.ycombinator.com/item?id=35937204) - [The Greatest Wealth Transfer in History Is Here, with Familiar (Rich) Winners](https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html)
 * [2023-05-14, 11:32:12](https://news.ycombinator.com/item?id=35937196) - [Chemotherapy drug reaches brain tumors using novel ultrasound technology](https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/)
 * [2023-05-14, 10:45:08](https://news.ycombinator.com/item?id=35936999) - [A secret macOS tool – networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
+* [2023-05-14, 10:36:25](https://news.ycombinator.com/item?id=35936963) - [Merge branch &#x27;x86-rep-insns&#x27;: x86 user copy clarifications](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a5624566431de76b17862383d9ae254d9606cba9)
 * [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good Career Move, Terrible Career](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 * [2023-05-14, 10:18:27](https://news.ycombinator.com/item?id=35936885) - [Devil Mode for Emacs](https://susam.github.io/devil/)
 * [2023-05-14, 10:13:52](https://news.ycombinator.com/item?id=35936865) - [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
