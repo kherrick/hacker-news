@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-15, 01:31:46",
+      "https://news.ycombinator.com/item?id=35942996"
+    ],
+    [
+      "Rock that punched hole in New Jersey house is 4.6B-year-old meteorite",
+      "https://www.space.com/meteorite-strike-new-jersey-house-confirmed"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 00:36:56",
       "https://news.ycombinator.com/item?id=35942707"
     ],
@@ -67,16 +77,6 @@
     [
       "JavaScript State Machines and Statecharts",
       "https://xstate.js.org/docs/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 21:35:06",
-      "https://news.ycombinator.com/item?id=35941533"
-    ],
-    [
-      "Vore: A new RSS feed reader",
-      "https://j3s.sh/thought/vore-a-new-rss-feed-reader.html"
     ]
   ],
   [
@@ -155,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35939240"
     ],
     [
-      "Seamlessly run other Linux distributions inside your terminal",
+      "Distrobox: Use any Linux distribution inside your terminal",
       "https://github.com/89luca89/distrobox"
     ]
   ],
