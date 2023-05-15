@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 08:31:27](https://news.ycombinator.com/item?id=35945250) - [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
 * [2023-05-15, 08:13:22](https://news.ycombinator.com/item?id=35945134) - [We Don&#x27;t Know How to Compute (2011) [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
 * [2023-05-15, 07:52:45](https://news.ycombinator.com/item?id=35944994) - [Mormon whistleblower says is his church is a “clandestine hedge fund”](https://www.cbsnews.com/news/mormon-whistleblower-ensign-peak-church-investment-fund-allegations-60-minutes-transcript-2023-05-14/)
 * [2023-05-15, 07:18:17](https://news.ycombinator.com/item?id=35944749) - [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
@@ -29,7 +30,6 @@
 * [2023-05-14, 05:37:12](https://news.ycombinator.com/item?id=35935591) - [Crossing the Blood Meridian: Cormac McCarthy and American History](https://lareviewofbooks.org/article/crossing-the-blood-meridian-cormac-mccarthy-and-american-history/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 07:11:56](https://news.ycombinator.com/item?id=35926321) - [The Great Ptolemaic Smackdown: From Plausible to Proven (2013)](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
-* [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 
 ## [Archives](archives/index.md)
 

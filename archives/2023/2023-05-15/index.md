@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 08:31:27](https://news.ycombinator.com/item?id=35945250) - [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
 * [2023-05-15, 08:13:22](https://news.ycombinator.com/item?id=35945134) - [We Don&#x27;t Know How to Compute (2011) [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
 * [2023-05-15, 07:52:45](https://news.ycombinator.com/item?id=35944994) - [Mormon whistleblower says is his church is a “clandestine hedge fund”](https://www.cbsnews.com/news/mormon-whistleblower-ensign-peak-church-investment-fund-allegations-60-minutes-transcript-2023-05-14/)
 * [2023-05-15, 07:18:17](https://news.ycombinator.com/item?id=35944749) - [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
