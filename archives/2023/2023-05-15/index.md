@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
+* [2023-05-15, 14:15:29](https://news.ycombinator.com/item?id=35948491) - [Stories We’ve Seen Too Often](http://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/)
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-Source Privacy-Focused Voice Assistant Hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:06:01](https://news.ycombinator.com/item?id=35948332) - [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
 * [2023-05-15, 14:01:53](https://news.ycombinator.com/item?id=35948268) - [Come back, c2.com, we still need you](http://wiki.c2.com)
