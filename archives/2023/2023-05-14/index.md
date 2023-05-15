@@ -55,6 +55,7 @@
 * [2023-05-14, 06:39:08](https://news.ycombinator.com/item?id=35935849) - [How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 05:39:55](https://news.ycombinator.com/item?id=35935604) - [Bruce McCall’s “Safe Travels”](https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15)
+* [2023-05-14, 05:37:12](https://news.ycombinator.com/item?id=35935591) - [Crossing the Blood Meridian: Cormac McCarthy and American History](https://lareviewofbooks.org/article/crossing-the-blood-meridian-cormac-mccarthy-and-american-history/)
 * [2023-05-14, 05:27:11](https://news.ycombinator.com/item?id=35935554) - [Should We Tax Robots?](https://news.mit.edu/2022/robot-tax-income-inequality-1221)
 * [2023-05-14, 05:15:25](https://news.ycombinator.com/item?id=35935504) - [Hikers Are Banned from the Superbloom in this California Town](https://www.backpacker.com/news-and-events/news/hikers-are-banned-from-the-superbloom-in-this-california-town/)
 * [2023-05-14, 05:14:03](https://news.ycombinator.com/item?id=35935499) - [Contempt Culture (2015)](https://blog.aurynn.com/2015/12/16-contempt-culture)

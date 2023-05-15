@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 00:36:56](https://news.ycombinator.com/item?id=35942707) - [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
@@ -20,9 +21,8 @@
 * [2023-05-14, 12:07:49](https://news.ycombinator.com/item?id=35937375) - [The World is Built on Probability (1984)](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
 * [2023-05-14, 12:00:27](https://news.ycombinator.com/item?id=35937338) - [Tavus (YC S21) is hiring ML and full stack engineers](https://www.tavus.io/careers)
 * [2023-05-14, 11:32:12](https://news.ycombinator.com/item?id=35937196) - [Chemotherapy drug reaches brain tumors using novel ultrasound technology](https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/)
-* [2023-05-14, 10:45:08](https://news.ycombinator.com/item?id=35936999) - [The networkQuality tool on macOS](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
-* [2023-05-14, 10:13:52](https://news.ycombinator.com/item?id=35936865) - [Moving from Blame to Accountability (2017)](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
 * [2023-05-14, 05:39:55](https://news.ycombinator.com/item?id=35935604) - [Bruce McCall’s “Safe Travels”](https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15)
+* [2023-05-14, 05:37:12](https://news.ycombinator.com/item?id=35935591) - [Crossing the Blood Meridian: Cormac McCarthy and American History](https://lareviewofbooks.org/article/crossing-the-blood-meridian-cormac-mccarthy-and-american-history/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: Common Lisp machine learning library](https://github.com/melisgl/mgl)
 * [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
 * [2023-05-13, 12:09:55](https://news.ycombinator.com/item?id=35927588) - [Arthropod head problem](https://en.wikipedia.org/wiki/Arthropod_head_problem)
