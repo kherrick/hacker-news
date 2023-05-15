@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 04:18:06](https://news.ycombinator.com/item?id=35943836) - [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 * [2023-05-15, 04:11:18](https://news.ycombinator.com/item?id=35943808) - [Bard API](https://github.com/dsdanielpark/Bard-API)
+* [2023-05-15, 02:01:08](https://news.ycombinator.com/item?id=35943108) - [Bark: A transformer based text to audio system](https://github.com/suno-ai/bark/blob/main/README.md)
 * [2023-05-15, 00:36:56](https://news.ycombinator.com/item?id=35942707) - [Companies to pay $615k in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
@@ -24,12 +26,10 @@
 * [2023-05-14, 05:39:55](https://news.ycombinator.com/item?id=35935604) - [Bruce McCall’s “Safe Travels”](https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15)
 * [2023-05-14, 05:37:12](https://news.ycombinator.com/item?id=35935591) - [Crossing the Blood Meridian: Cormac McCarthy and American History](https://lareviewofbooks.org/article/crossing-the-blood-meridian-cormac-mccarthy-and-american-history/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: Common Lisp machine learning library](https://github.com/melisgl/mgl)
-* [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
 * [2023-05-13, 11:55:58](https://news.ycombinator.com/item?id=35927507) - [Ranking by Engagement](http://tecunningham.github.io/2023-04-28-ranking-by-engagement.html)
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 07:11:56](https://news.ycombinator.com/item?id=35926321) - [The Great Ptolemaic Smackdown: From Plausible to Proven (2013)](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
 * [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
-* [2023-05-11, 10:50:30](https://news.ycombinator.com/item?id=35900369) - [Fairbuds XL review: noise-cancelling headphones you can fix](https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth)
 
 ## [Archives](archives/index.md)
 
