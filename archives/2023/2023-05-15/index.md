@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 20:19:15](https://news.ycombinator.com/item?id=35953947) - [Regorxxx&#x27;s Foobar2000 SMP Scripts – Spotify, iTunes, YouTube etc. in Your System](https://regorxxx.github.io/foobar2000-SMP.github.io/)
 * [2023-05-15, 19:45:28](https://news.ycombinator.com/item?id=35953491) - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
