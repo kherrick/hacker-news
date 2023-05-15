@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
+* [2023-05-15, 21:02:42](https://news.ycombinator.com/item?id=35954439) - [US may default on debt as soon as June 1, Yellen reaffirms](https://www.cnn.com/2023/05/15/politics/debt-ceiling-default-yellen/index.html)
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Kaspersky: Case study: fake hardware cryptowallet (Trezor)](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 * [2023-05-15, 21:01:01](https://news.ycombinator.com/item?id=35954420) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
 * [2023-05-15, 20:46:28](https://news.ycombinator.com/item?id=35954259) - [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
@@ -16,7 +17,6 @@
 * [2023-05-15, 15:44:01](https://news.ycombinator.com/item?id=35950094) - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 * [2023-05-15, 15:06:10](https://news.ycombinator.com/item?id=35949368) - [GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations](https://www.infoq.com/news/2023/05/gcc13-c2x-features/)
 * [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing lobbying in European institutions](https://www.lobbyfacts.eu/)
-* [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
 * [2023-05-15, 14:29:50](https://news.ycombinator.com/item?id=35948742) - [Anthropic&#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-source privacy-focused voice assistant hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:01:53](https://news.ycombinator.com/item?id=35948268) - [Come back, c2.com, we still need you](http://wiki.c2.com)
