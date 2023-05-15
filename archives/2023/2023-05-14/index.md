@@ -58,6 +58,7 @@
 * [2023-05-14, 07:25:06](https://news.ycombinator.com/item?id=35936079) - [VT330&#x2F;VT340 Sixel Graphics](https://vt100.net/docs/vt3xx-gp/chapter14.html)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-14, 07:05:21](https://news.ycombinator.com/item?id=35935979) - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
+* [2023-05-14, 06:56:54](https://news.ycombinator.com/item?id=35935944) - [What If? Driven Development](https://aftenposten.substack.com/p/what-if-driven-development)
 * [2023-05-14, 06:39:08](https://news.ycombinator.com/item?id=35935849) - [How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
 * [2023-05-14, 06:08:33](https://news.ycombinator.com/item?id=35935714) - [What Wikipedia Did](https://twitter.com/jimmy_wales/status/1657494022741426180)
 * [2023-05-14, 05:39:55](https://news.ycombinator.com/item?id=35935604) - [Bruce McCall’s “Safe Travels”](https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15)

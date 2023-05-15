@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 15:53:04](https://news.ycombinator.com/item?id=35950253) - [Cedar is an open source policy language and evaluation engine](https://github.com/cedar-policy)
+* [2023-05-15, 15:44:01](https://news.ycombinator.com/item?id=35950094) - [Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 * [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 15:08:18](https://news.ycombinator.com/item?id=35949414) - [Don’t use sugar substitutes for weight loss, World Health Organization advises](https://www.cnn.com/2023/05/15/health/who-sweeteners-weigh-loss-guideline-wellness/index.html)
 * [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
+* [2023-05-15, 14:58:01](https://news.ycombinator.com/item?id=35949245) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 * [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
 * [2023-05-15, 14:42:41](https://news.ycombinator.com/item?id=35948972) - [I don&#x27;t have ADHD, but three private clinics say I do, and offered me medication](https://www.bbc.co.uk/news/health-65534449)
 * [2023-05-15, 14:29:50](https://news.ycombinator.com/item?id=35948742) - [Anthropic&#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
