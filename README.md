@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 15:08:18](https://news.ycombinator.com/item?id=35949414) - [Don’t use sugar substitutes for weight loss, World Health Organization advises](https://www.cnn.com/2023/05/15/health/who-sweeteners-weigh-loss-guideline-wellness/index.html)
 * [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
 * [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
@@ -9,7 +10,6 @@
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-Source Privacy-Focused Voice Assistant Hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:06:01](https://news.ycombinator.com/item?id=35948332) - [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
 * [2023-05-15, 14:01:53](https://news.ycombinator.com/item?id=35948268) - [Come back, c2.com, we still need you](http://wiki.c2.com)
-* [2023-05-15, 13:53:18](https://news.ycombinator.com/item?id=35948145) - [Which kinds of GPT startups will thrive?](https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating)
 * [2023-05-15, 13:12:15](https://news.ycombinator.com/item?id=35947605) - [U.S. Marshals Spied on Abortion Protesters Using Dataminr](https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/)
 * [2023-05-15, 12:56:01](https://news.ycombinator.com/item?id=35947409) - [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
 * [2023-05-15, 12:11:32](https://news.ycombinator.com/item?id=35946955) - [Show HN: Use ChatGPT, Bing, Bard and Claude in One App](https://github.com/chathub-dev/chathub/blob/main/README.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 15:08:18](https://news.ycombinator.com/item?id=35949414) - [Don’t use sugar substitutes for weight loss, World Health Organization advises](https://www.cnn.com/2023/05/15/health/who-sweeteners-weigh-loss-guideline-wellness/index.html)
 * [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
 * [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
