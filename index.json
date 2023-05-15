@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-05-14, 16:32:28",
+      "https://news.ycombinator.com/item?id=35939168"
+    ],
+    [
+      "The Group Decode ROM: The 8086 processor&#x27;s first step of instruction decoding",
+      "http://www.righto.com/2023/05/8086-processor-group-decode-rom.html"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 15:27:38",
       "https://news.ycombinator.com/item?id=35938691"
     ],
@@ -171,32 +181,12 @@
   ],
   [
     [
-      "2023-05-14, 12:43:32",
-      "https://news.ycombinator.com/item?id=35937540"
-    ],
-    [
-      "The mysterious dodecahedrons of the Roman Empire",
-      "https://www.atlasobscura.com/articles/dodecahedrons-roman-empire"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 12:35:24",
       "https://news.ycombinator.com/item?id=35937505"
     ],
     [
       "Run Llama 13B with a 6GB graphics card",
       "https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 12:26:36",
-      "https://news.ycombinator.com/item?id=35937464"
-    ],
-    [
-      "Building a front end framework – Reactivity, composability with no dependencies",
-      "https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "MGL: Common Lisp machine learning library",
       "https://github.com/melisgl/mgl"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 12:15:05",
+      "https://news.ycombinator.com/item?id=35927627"
+    ],
+    [
+      "Monte Carlo methods",
+      "https://easylang.dev/apps/tutorial_mcarlo.html"
     ]
   ],
   [
