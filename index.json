@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-05-15, 21:01:20",
+      "https://news.ycombinator.com/item?id=35954422"
+    ],
+    [
+      "Kaspersky: Case study: fake hardware cryptowallet (Trezor)",
+      "https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 21:01:01",
       "https://news.ycombinator.com/item?id=35954420"
     ],
     [
       "Ivy (YC W23) Is Hiring",
       "https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 20:46:28",
+      "https://news.ycombinator.com/item?id=35954259"
+    ],
+    [
+      "Translating Akkadian clay tablets with ChatGPT?",
+      "http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Show HN: Openlayer – Test, fix, and improve your ML models",
       "https://www.openlayer.com/?ref=hn"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 17:07:54",
-      "https://news.ycombinator.com/item?id=35951312"
-    ],
-    [
-      "It Wasn&#x27;t AI",
-      "https://itwasntai.com/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-05-15, 12:06:05",
-      "https://news.ycombinator.com/item?id=35946893"
-    ],
-    [
-      "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion",
-      "https://synthesiaresearch.github.io/humanrf/"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 10:35:28",
       "https://news.ycombinator.com/item?id=35946078"
     ],
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2023-05-14, 06:56:54",
-      "https://news.ycombinator.com/item?id=35935944"
+      "2023-05-14, 09:34:38",
+      "https://news.ycombinator.com/item?id=35936665"
     ],
     [
-      "What If? Driven Development",
-      "https://aftenposten.substack.com/p/what-if-driven-development"
+      "Learn Makefiles with the Tastiest Examples",
+      "https://makefiletutorial.com/#top"
     ]
   ],
   [
