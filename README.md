@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-Source Privacy-Focused Voice Assistant Hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:06:01](https://news.ycombinator.com/item?id=35948332) - [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
+* [2023-05-15, 14:01:53](https://news.ycombinator.com/item?id=35948268) - [Come back, c2.com, we still need you](http://wiki.c2.com)
 * [2023-05-15, 13:53:18](https://news.ycombinator.com/item?id=35948145) - [Which kinds of GPT startups will thrive?](https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating)
 * [2023-05-15, 13:12:15](https://news.ycombinator.com/item?id=35947605) - [U.S. Marshals Spied on Abortion Protesters Using Dataminr](https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/)
 * [2023-05-15, 12:56:01](https://news.ycombinator.com/item?id=35947409) - [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
@@ -25,8 +27,6 @@
 * [2023-05-15, 05:47:40](https://news.ycombinator.com/item?id=35944295) - [Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
 * [2023-05-15, 04:18:06](https://news.ycombinator.com/item?id=35943836) - [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 * [2023-05-15, 02:01:08](https://news.ycombinator.com/item?id=35943108) - [Bark: A transformer based text to audio system](https://github.com/suno-ai/bark/blob/main/README.md)
-* [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
-* [2023-05-14, 18:02:05](https://news.ycombinator.com/item?id=35939909) - [Heart attack deaths drop over past two decades](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades)
 * [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
 * [2023-05-14, 07:25:06](https://news.ycombinator.com/item?id=35936079) - [VT330&#x2F;VT340 Sixel Graphics](https://vt100.net/docs/vt3xx-gp/chapter14.html)
 * [2023-05-13, 08:17:21](https://news.ycombinator.com/item?id=35926597) - [Transformer Inference Arithmetic (2022)](https://kipp.ly/blog/transformer-inference-arithmetic)
