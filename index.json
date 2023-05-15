@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-15, 08:31:27",
+      "https://news.ycombinator.com/item?id=35945250"
+    ],
+    [
+      "Is Meta having growing pains or in a death spiral?",
+      "https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 08:13:22",
       "https://news.ycombinator.com/item?id=35945134"
     ],
@@ -287,16 +297,6 @@
     [
       "The Great Ptolemaic Smackdown: From Plausible to Proven (2013)",
       "http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 05:08:06",
-      "https://news.ycombinator.com/item?id=35925758"
-    ],
-    [
-      "The Dual LLM pattern for building AI assistants that can resist prompt injection",
-      "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/"
     ]
   ]
 ]
