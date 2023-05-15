@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 06:53:40](https://news.ycombinator.com/item?id=35944616) - [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
+* [2023-05-15, 06:44:27](https://news.ycombinator.com/item?id=35944563) - [Ask HN: What is the license of GitHub&#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
 * [2023-05-15, 06:05:28](https://news.ycombinator.com/item?id=35944376) - [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
 * [2023-05-15, 05:57:49](https://news.ycombinator.com/item?id=35944334) - [&#x27;Third places&#x27;: The ways losing our local haunts hurts us (2021)](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
 * [2023-05-15, 05:53:17](https://news.ycombinator.com/item?id=35944315) - [This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)

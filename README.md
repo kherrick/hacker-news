@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 06:53:40](https://news.ycombinator.com/item?id=35944616) - [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
+* [2023-05-15, 06:44:27](https://news.ycombinator.com/item?id=35944563) - [Ask HN: What is the license of GitHub&#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
 * [2023-05-15, 06:05:28](https://news.ycombinator.com/item?id=35944376) - [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
 * [2023-05-15, 05:57:49](https://news.ycombinator.com/item?id=35944334) - [&#x27;Third places&#x27;: The ways losing our local haunts hurts us (2021)](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
 * [2023-05-15, 05:53:17](https://news.ycombinator.com/item?id=35944315) - [This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
@@ -11,7 +13,6 @@
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [The long-term persistence of old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
-* [2023-05-14, 22:13:35](https://news.ycombinator.com/item?id=35941814) - [HCI Bibliography: Human-Computer Interaction Resources](http://hcibib.org/)
 * [2023-05-14, 22:05:32](https://news.ycombinator.com/item?id=35941749) - [JavaScript state machines and statecharts](https://xstate.js.org/docs/)
 * [2023-05-14, 21:35:06](https://news.ycombinator.com/item?id=35941533) - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-05-14, 21:00:03](https://news.ycombinator.com/item?id=35941315) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
@@ -27,7 +28,6 @@
 * [2023-05-14, 05:39:55](https://news.ycombinator.com/item?id=35935604) - [Bruce McCall’s “Safe Travels”](https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15)
 * [2023-05-14, 05:37:12](https://news.ycombinator.com/item?id=35935591) - [Crossing the Blood Meridian: Cormac McCarthy and American History](https://lareviewofbooks.org/article/crossing-the-blood-meridian-cormac-mccarthy-and-american-history/)
 * [2023-05-13, 12:38:49](https://news.ycombinator.com/item?id=35927790) - [MGL: Common Lisp machine learning library](https://github.com/melisgl/mgl)
-* [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 07:11:56](https://news.ycombinator.com/item?id=35926321) - [The Great Ptolemaic Smackdown: From Plausible to Proven (2013)](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
 * [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 
