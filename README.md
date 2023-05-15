@@ -2,6 +2,7 @@
 
 * [2023-05-15, 11:00:03](https://news.ycombinator.com/item?id=35946284) - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
 * [2023-05-15, 10:56:49](https://news.ycombinator.com/item?id=35946260) - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
+* [2023-05-15, 10:51:58](https://news.ycombinator.com/item?id=35946215) - [Dogs Can Have Human-Like Anxiety. They Need Human-Like Treatment [Opinion Piece]](https://undark.org/2023/05/11/opinion-dogs-can-have-human-like-anxiety-they-need-human-like-treatment/)
 * [2023-05-15, 10:33:30](https://news.ycombinator.com/item?id=35946060) - [Uncensored (Language) Models](https://erichartford.com/uncensored-models)
 * [2023-05-15, 10:23:54](https://news.ycombinator.com/item?id=35945988) - [Google I&#x2F;O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
 * [2023-05-15, 09:54:26](https://news.ycombinator.com/item?id=35945777) - [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
@@ -15,7 +16,6 @@
 * [2023-05-15, 05:47:40](https://news.ycombinator.com/item?id=35944295) - [Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
 * [2023-05-15, 04:18:06](https://news.ycombinator.com/item?id=35943836) - [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 * [2023-05-15, 02:01:08](https://news.ycombinator.com/item?id=35943108) - [Bark: A transformer based text to audio system](https://github.com/suno-ai/bark/blob/main/README.md)
-* [2023-05-15, 00:36:56](https://news.ycombinator.com/item?id=35942707) - [Companies to pay $615k in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [The long-term persistence of old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
