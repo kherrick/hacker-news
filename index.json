@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-15, 03:15:31",
-      "https://news.ycombinator.com/item?id=35943528"
-    ],
-    [
-      "Eat More Beans. Please",
-      "https://www.vox.com/future-perfect/2023/5/12/23717519/beans-protein-nutrition-sustainability-climate-food-security-solution-vegan-alternative-meat"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 00:36:56",
       "https://news.ycombinator.com/item?id=35942707"
     ],
@@ -117,6 +107,16 @@
     [
       "ARM or x86? ISA Doesn’t Matter (2021)",
       "https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 19:11:47",
+      "https://news.ycombinator.com/item?id=35940506"
+    ],
+    [
+      "The unreasonable effectiveness of character-level language models (2015)",
+      "https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb"
     ]
   ],
   [
