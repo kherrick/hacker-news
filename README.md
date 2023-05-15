@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 16:23:18](https://news.ycombinator.com/item?id=35950716) - [Taxonomy of Procrastination](https://dynomight.net/procrastination/)
 * [2023-05-15, 15:53:04](https://news.ycombinator.com/item?id=35950253) - [Cedar is an open source policy language and evaluation engine](https://github.com/cedar-policy)
 * [2023-05-15, 15:44:01](https://news.ycombinator.com/item?id=35950094) - [Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 * [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
@@ -7,7 +8,6 @@
 * [2023-05-15, 14:58:01](https://news.ycombinator.com/item?id=35949245) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 * [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
 * [2023-05-15, 14:29:50](https://news.ycombinator.com/item?id=35948742) - [Anthropic&#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
-* [2023-05-15, 14:27:02](https://news.ycombinator.com/item?id=35948698) - [Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving](https://www.nytimes.com/interactive/2023/05/15/upshot/migrations-college-super-cities.html)
 * [2023-05-15, 14:15:29](https://news.ycombinator.com/item?id=35948491) - [Stories We’ve Seen Too Often](http://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/)
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-Source Privacy-Focused Voice Assistant Hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:06:01](https://news.ycombinator.com/item?id=35948332) - [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 16:23:18](https://news.ycombinator.com/item?id=35950716) - [Taxonomy of Procrastination](https://dynomight.net/procrastination/)
 * [2023-05-15, 15:53:04](https://news.ycombinator.com/item?id=35950253) - [Cedar is an open source policy language and evaluation engine](https://github.com/cedar-policy)
 * [2023-05-15, 15:44:01](https://news.ycombinator.com/item?id=35950094) - [Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 * [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
