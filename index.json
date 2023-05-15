@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-15, 18:08:55",
+      "https://news.ycombinator.com/item?id=35952206"
+    ],
+    [
+      "LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper",
+      "https://github.com/SysSec-KAIST/LTESniffer"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 17:47:12",
+      "https://news.ycombinator.com/item?id=35951867"
+    ],
+    [
+      "StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)",
+      "https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 17:07:54",
       "https://news.ycombinator.com/item?id=35951312"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2023-05-15, 16:44:30",
+      "https://news.ycombinator.com/item?id=35951023"
+    ],
+    [
+      "Together’s $20M seed funding to build open-source AI and cloud platform",
+      "https://www.together.xyz/blog/seed-funding"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 16:31:29",
       "https://news.ycombinator.com/item?id=35950836"
     ],
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=35950094"
     ],
     [
-      "Word Does Not Exist",
+      "This Word Does Not Exist",
       "https://www.thisworddoesnotexist.com/"
     ]
   ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-05-15, 14:46:40",
-      "https://news.ycombinator.com/item?id=35949043"
-    ],
-    [
-      "The UK’s Secretive Web Surveillance Program Is Ramping Up",
-      "https://www.wired.com/story/internet-connection-records-uk-surveillance/"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 14:29:50",
       "https://news.ycombinator.com/item?id=35948742"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2023-05-15, 13:12:15",
-      "https://news.ycombinator.com/item?id=35947605"
-    ],
-    [
-      "U.S. Marshals Spied on Abortion Protesters Using Dataminr",
-      "https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 12:11:32",
       "https://news.ycombinator.com/item?id=35946955"
     ],
     [
       "Show HN: Use ChatGPT, Bing, Bard and Claude in One App",
       "https://github.com/chathub-dev/chathub/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 12:06:05",
-      "https://news.ycombinator.com/item?id=35946893"
-    ],
-    [
-      "HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion",
-      "https://synthesiaresearch.github.io/humanrf/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-05-15, 09:54:26",
-      "https://news.ycombinator.com/item?id=35945777"
-    ],
-    [
-      "Hippo Meat Nearly Became an American Food Staple",
-      "https://www.ripleys.com/weird-news/hippo-meat/"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 09:26:32",
       "https://news.ycombinator.com/item?id=35945592"
     ],
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2023-05-15, 05:53:17",
-      "https://news.ycombinator.com/item?id=35944315"
+      "2023-05-15, 05:23:13",
+      "https://news.ycombinator.com/item?id=35944159"
     ],
     [
-      "This blog is hosted on my Android phone",
-      "https://androidblog.a.pinggy.io/"
+      "Pixpaint",
+      "https://warms.maxbittker.repl.co/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Distrobox: Use any Linux distribution inside your terminal",
       "https://github.com/89luca89/distrobox"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 12:47:47",
+      "https://news.ycombinator.com/item?id=35937554"
+    ],
+    [
+      "High Performance Browser Networking",
+      "https://hpbn.co/"
     ]
   ],
   [
