@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-15, 03:15:31](https://news.ycombinator.com/item?id=35943528) - [Eat More Beans. Please](https://www.vox.com/future-perfect/2023/5/12/23717519/beans-protein-nutrition-sustainability-climate-food-security-solution-vegan-alternative-meat)
 * [2023-05-15, 00:36:56](https://news.ycombinator.com/item?id=35942707) - [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
@@ -12,6 +11,7 @@
 * [2023-05-14, 21:00:03](https://news.ycombinator.com/item?id=35941315) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-05-14, 20:40:51](https://news.ycombinator.com/item?id=35941200) - [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
 * [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter (2021)](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
+* [2023-05-14, 19:11:47](https://news.ycombinator.com/item?id=35940506) - [The unreasonable effectiveness of character-level language models (2015)](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
 * [2023-05-14, 18:38:23](https://news.ycombinator.com/item?id=35940218) - [Show HN: I built my first Cyberdeck](https://github.com/g1sbi/qaz-cyberdeck)
 * [2023-05-14, 17:49:08](https://news.ycombinator.com/item?id=35939816) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2023-05-14, 17:01:59](https://news.ycombinator.com/item?id=35939383) - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
