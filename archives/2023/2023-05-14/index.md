@@ -54,6 +54,7 @@
 * [2023-05-14, 08:23:12](https://news.ycombinator.com/item?id=35936331) - [Are We Sixel Yet](https://www.arewesixelyet.com/#terminalapp)
 * [2023-05-14, 07:56:25](https://news.ycombinator.com/item?id=35936207) - [Airbnb CEO: to hire from anywhere more useful than having everyone in one office](https://fortune.com/2023/05/11/airbnb-brian-chesky-remote-work-hamptons/)
 * [2023-05-14, 07:40:47](https://news.ycombinator.com/item?id=35936139) - [Ask HN: I am overflowing with ideas but never finish anything](https://news.ycombinator.com/item?id=35936139)
+* [2023-05-14, 07:25:06](https://news.ycombinator.com/item?id=35936079) - [VT330&#x2F;VT340 Sixel Graphics](https://vt100.net/docs/vt3xx-gp/chapter14.html)
 * [2023-05-14, 07:18:09](https://news.ycombinator.com/item?id=35936044) - [OpenSnitch in Debian ready for prime time](https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html)
 * [2023-05-14, 07:05:21](https://news.ycombinator.com/item?id=35935979) - [Asahi Linux to Users: Please Stop Using X.org](https://www.phoronix.com/news/Asahi-Linux-Stop-X.Org)
 * [2023-05-14, 06:39:08](https://news.ycombinator.com/item?id=35935849) - [How ‘open’ should your open source be?](https://github.com/readme/featured/how-open-is-open-source)
