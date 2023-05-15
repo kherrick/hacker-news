@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-15, 13:12:15",
+      "https://news.ycombinator.com/item?id=35947605"
+    ],
+    [
+      "U.S. Marshals Spied on Abortion Protesters Using Dataminr",
+      "https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 12:56:01",
       "https://news.ycombinator.com/item?id=35947409"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=35947386"
     ],
     [
-      "Why are humans never satisfied?",
+      "Why are humans never satisfied? [video]",
       "https://www.youtube.com/watch?v=WvGUTtYMUco"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Apple to occupy 90% of TSMC 3nm capacity in 2023",
       "https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 12:11:32",
+      "https://news.ycombinator.com/item?id=35946955"
+    ],
+    [
+      "Show HN: Use ChatGPT, Bing, Bard and Claude in One App",
+      "https://github.com/chathub-dev/chathub/blob/main/README.md"
     ]
   ],
   [
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35946419"
     ],
     [
-      "A Biography of the Pixel by Alvy Ray Smith",
+      "A Biography of the Pixel (2021)",
       "https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/"
     ]
   ],
@@ -195,7 +215,7 @@
       "https://news.ycombinator.com/item?id=35944315"
     ],
     [
-      "This Blog is hosted on my Android phone",
+      "This blog is hosted on my Android phone",
       "https://androidblog.a.pinggy.io/"
     ]
   ],
@@ -241,26 +261,6 @@
   ],
   [
     [
-      "2023-05-14, 22:37:09",
-      "https://news.ycombinator.com/item?id=35941979"
-    ],
-    [
-      "Combinatory Logic",
-      "https://plato.stanford.edu/entries/logic-combinatory/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 21:00:03",
-      "https://news.ycombinator.com/item?id=35941315"
-    ],
-    [
-      "How to Entertain with Your Pocket Calculator (1975)",
-      "https://archive.org/details/htewypc"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 18:02:05",
       "https://news.ycombinator.com/item?id=35939909"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-05-14, 07:25:06",
+      "https://news.ycombinator.com/item?id=35936079"
+    ],
+    [
+      "VT330&#x2F;VT340 Sixel Graphics",
+      "https://vt100.net/docs/vt3xx-gp/chapter14.html"
+    ]
+  ],
+  [
+    [
       "2023-05-13, 08:17:21",
       "https://news.ycombinator.com/item?id=35926597"
     ],
     [
       "Transformer Inference Arithmetic",
       "https://kipp.ly/blog/transformer-inference-arithmetic/#kv-cache"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 07:11:56",
-      "https://news.ycombinator.com/item?id=35926321"
-    ],
-    [
-      "The Great Ptolemaic Smackdown: From Plausible to Proven (2013)",
-      "http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html"
     ]
   ]
 ]
