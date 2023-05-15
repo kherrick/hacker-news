@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
 * [2023-05-15, 22:00:44](https://news.ycombinator.com/item?id=35955092) - [Argentina raises interest rate to 97% as it struggles to tackle inflation](https://www.cnn.com/2023/05/15/business/argentina-interest-rates-inflation/index.html)
+* [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
 * [2023-05-15, 21:02:42](https://news.ycombinator.com/item?id=35954439) - [US may default on debt as soon as June 1, Yellen reaffirms](https://www.cnn.com/2023/05/15/politics/debt-ceiling-default-yellen/index.html)
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Kaspersky: Case study: fake hardware cryptowallet (Trezor)](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 * [2023-05-15, 21:01:01](https://news.ycombinator.com/item?id=35954420) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
+* [2023-05-15, 20:52:09](https://news.ycombinator.com/item?id=35954325) - [EPFL cancels Stallman&#x27;s lecture citing “the situation regarding” his persona](https://clic.epfl.ch/news/49)
 * [2023-05-15, 20:46:28](https://news.ycombinator.com/item?id=35954259) - [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-15, 20:42:54](https://news.ycombinator.com/item?id=35954208) - [Clinical trial of mRNA universal influenza vaccine candidate begins](https://www.nih.gov/news-events/news-releases/clinical-trial-mrna-universal-influenza-vaccine-candidate-begins)
 * [2023-05-15, 20:19:15](https://news.ycombinator.com/item?id=35953947) - [Regorxxx&#x27;s Foobar2000 SMP Scripts – Spotify, iTunes, YouTube etc. in Your System](https://regorxxx.github.io/foobar2000-SMP.github.io/)
