@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 18:27:29](https://news.ycombinator.com/item?id=35952507) - [Full of contempt, she refused to talk to the engineers](https://respectfulleadership.substack.com/p/full-of-contempt-she-refused-to-talk)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 * [2023-05-15, 17:07:54](https://news.ycombinator.com/item?id=35951312) - [It Wasn&#x27;t AI](https://itwasntai.com/)

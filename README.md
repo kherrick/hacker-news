@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 18:27:29](https://news.ycombinator.com/item?id=35952507) - [Full of contempt, she refused to talk to the engineers](https://respectfulleadership.substack.com/p/full-of-contempt-she-refused-to-talk)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 * [2023-05-15, 17:00:29](https://news.ycombinator.com/item?id=35951221) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -25,7 +26,6 @@
 * [2023-05-15, 09:26:32](https://news.ycombinator.com/item?id=35945592) - [Why are so many young Americans adopting fake British accents?](https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z)
 * [2023-05-15, 05:53:17](https://news.ycombinator.com/item?id=35944315) - [This blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
-* [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
 * [2023-05-14, 12:47:47](https://news.ycombinator.com/item?id=35937554) - [High Performance Browser Networking](https://hpbn.co/)
 * [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good Career Move, Terrible Career](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 * [2023-05-14, 10:18:27](https://news.ycombinator.com/item?id=35936885) - [Devil Mode for Emacs](https://susam.github.io/devil/)
