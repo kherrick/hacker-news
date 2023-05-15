@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 05:57:49](https://news.ycombinator.com/item?id=35944334) - [&#x27;Third places&#x27;: The ways losing our local haunts hurts us (2021)](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
+* [2023-05-15, 05:47:40](https://news.ycombinator.com/item?id=35944295) - [Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
 * [2023-05-15, 04:18:06](https://news.ycombinator.com/item?id=35943836) - [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 * [2023-05-15, 04:11:18](https://news.ycombinator.com/item?id=35943808) - [Bard API](https://github.com/dsdanielpark/Bard-API)
 * [2023-05-15, 03:15:31](https://news.ycombinator.com/item?id=35943528) - [Eat More Beans. Please](https://www.vox.com/future-perfect/2023/5/12/23717519/beans-protein-nutrition-sustainability-climate-food-security-solution-vegan-alternative-meat)
