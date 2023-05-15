@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 21:01:01](https://news.ycombinator.com/item?id=35954420) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
 * [2023-05-15, 20:19:15](https://news.ycombinator.com/item?id=35953947) - [Regorxxx&#x27;s Foobar2000 SMP Scripts – Spotify, iTunes, YouTube etc. in Your System](https://regorxxx.github.io/foobar2000-SMP.github.io/)
+* [2023-05-15, 19:53:38](https://news.ycombinator.com/item?id=35953600) - [&#x27;Foundation&#x27; season 2 launches July 14 on Apple TV](https://www.space.com/foundation-season-2-apple-tv-plus-teaser-premiere-date)
 * [2023-05-15, 19:45:28](https://news.ycombinator.com/item?id=35953491) - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+* [2023-05-15, 18:38:57](https://news.ycombinator.com/item?id=35952672) - [You studied computer science but Big Tech no longer wants you](https://www.economist.com/1843/2023/05/15/you-studied-computer-science-but-big-tech-no-longer-wants-you-now-what)
 * [2023-05-15, 18:27:29](https://news.ycombinator.com/item?id=35952507) - [Full of contempt, she refused to talk to the engineers](https://respectfulleadership.substack.com/p/full-of-contempt-she-refused-to-talk)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
