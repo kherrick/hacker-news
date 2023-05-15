@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 17:07:54](https://news.ycombinator.com/item?id=35951312) - [It Wasn&#x27;t AI](https://itwasntai.com/)
 * [2023-05-15, 17:00:29](https://news.ycombinator.com/item?id=35951221) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-05-15, 16:53:18](https://news.ycombinator.com/item?id=35951126) - [Show HN: Sortabase, a collaborative, visual database builder for communities](https://www.sortabase.com/)
 * [2023-05-15, 16:34:51](https://news.ycombinator.com/item?id=35950881) - [Page Does Not Exist](https://thispagedoesnotexist.com/)
