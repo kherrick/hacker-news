@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
 * [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
+* [2023-05-15, 14:42:41](https://news.ycombinator.com/item?id=35948972) - [I don&#x27;t have ADHD, but three private clinics say I do, and offered me medication](https://www.bbc.co.uk/news/health-65534449)
+* [2023-05-15, 14:29:50](https://news.ycombinator.com/item?id=35948742) - [Anthropic&#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
 * [2023-05-15, 14:15:29](https://news.ycombinator.com/item?id=35948491) - [Stories We’ve Seen Too Often](http://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/)
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-Source Privacy-Focused Voice Assistant Hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:06:01](https://news.ycombinator.com/item?id=35948332) - [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
