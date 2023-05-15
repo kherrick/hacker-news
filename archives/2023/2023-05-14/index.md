@@ -24,6 +24,7 @@
 * [2023-05-14, 17:49:08](https://news.ycombinator.com/item?id=35939816) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2023-05-14, 17:21:17](https://news.ycombinator.com/item?id=35939541) - [Can GPT pass my programming courses?](https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/)
 * [2023-05-14, 17:01:59](https://news.ycombinator.com/item?id=35939383) - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
+* [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Seamlessly run other Linux distributions inside your terminal](https://github.com/89luca89/distrobox)
 * [2023-05-14, 16:37:20](https://news.ycombinator.com/item?id=35939206) - [Tell HN: Putting mirrors around my desk improved my posture](https://news.ycombinator.com/item?id=35939206)
 * [2023-05-14, 16:32:28](https://news.ycombinator.com/item?id=35939168) - [The Group Decode ROM: The 8086 processor&#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 * [2023-05-14, 16:17:43](https://news.ycombinator.com/item?id=35939054) - [The Techlash That Never Happened](https://eriktorenberg.substack.com/p/the-techlash-that-never-happened)
