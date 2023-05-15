@@ -50,6 +50,7 @@
 * [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good Career Move, Terrible Career](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 * [2023-05-14, 10:18:27](https://news.ycombinator.com/item?id=35936885) - [Devil Mode for Emacs](https://susam.github.io/devil/)
 * [2023-05-14, 10:13:52](https://news.ycombinator.com/item?id=35936865) - [Moving from Blame to Accountability](https://thesystemsthinker.com/moving-from-blame-to-accountability/)
+* [2023-05-14, 09:34:38](https://news.ycombinator.com/item?id=35936665) - [Learn Makefiles with the Tastiest Examples](https://makefiletutorial.com/#top)
 * [2023-05-14, 09:06:59](https://news.ycombinator.com/item?id=35936539) - [Making GHC faster at emitting code](https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/)
 * [2023-05-14, 08:56:48](https://news.ycombinator.com/item?id=35936489) - [What does a leaked Google memo reveal about the future of AI?](https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai)
 * [2023-05-14, 08:51:53](https://news.ycombinator.com/item?id=35936463) - [How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html)
