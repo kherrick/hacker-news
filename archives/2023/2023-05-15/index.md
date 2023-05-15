@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 10:23:54](https://news.ycombinator.com/item?id=35945988) - [Google I&#x2F;O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
+* [2023-05-15, 09:54:26](https://news.ycombinator.com/item?id=35945777) - [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 * [2023-05-15, 09:26:32](https://news.ycombinator.com/item?id=35945592) - [Why are so many young Americans adopting fake British accents?](https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z)
 * [2023-05-15, 08:31:27](https://news.ycombinator.com/item?id=35945250) - [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
 * [2023-05-15, 08:13:27](https://news.ycombinator.com/item?id=35945135) - [Vanilla-FP: the no-framework framework for building component-based FP UIs](https://github.com/abuseofnotation/vanilla-fp)
