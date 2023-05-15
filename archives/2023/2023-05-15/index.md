@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
+* [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 * [2023-05-15, 17:07:54](https://news.ycombinator.com/item?id=35951312) - [It Wasn&#x27;t AI](https://itwasntai.com/)
 * [2023-05-15, 17:00:29](https://news.ycombinator.com/item?id=35951221) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-05-15, 16:53:18](https://news.ycombinator.com/item?id=35951126) - [Show HN: Sortabase, a collaborative, visual database builder for communities](https://www.sortabase.com/)
@@ -60,6 +62,7 @@
 * [2023-05-15, 05:57:49](https://news.ycombinator.com/item?id=35944334) - [&#x27;Third places&#x27;: The ways losing our local haunts hurts us (2021)](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
 * [2023-05-15, 05:53:17](https://news.ycombinator.com/item?id=35944315) - [This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 * [2023-05-15, 05:47:40](https://news.ycombinator.com/item?id=35944295) - [Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
+* [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-15, 04:18:06](https://news.ycombinator.com/item?id=35943836) - [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 * [2023-05-15, 04:11:18](https://news.ycombinator.com/item?id=35943808) - [Bard API](https://github.com/dsdanielpark/Bard-API)
 * [2023-05-15, 03:15:31](https://news.ycombinator.com/item?id=35943528) - [Eat More Beans. Please](https://www.vox.com/future-perfect/2023/5/12/23717519/beans-protein-nutrition-sustainability-climate-food-security-solution-vegan-alternative-meat)

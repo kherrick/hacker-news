@@ -36,6 +36,7 @@
 * [2023-05-14, 14:15:04](https://news.ycombinator.com/item?id=35938162) - [All the arguments against EVs are wrong](https://www.noahpinion.blog/p/all-the-arguments-against-evs-are)
 * [2023-05-14, 13:49:51](https://news.ycombinator.com/item?id=35937957) - [IKEA bomb shelter furnishings catalog by Midjourney](https://www.core77.com/posts/123298/Midjourney-Created-Fake-Ikea-Bomb-Shelter-Furnishings-Catalog)
 * [2023-05-14, 13:01:44](https://news.ycombinator.com/item?id=35937637) - [Fall of the Berlin Wall on Usenet (1989.)](https://groups.google.com/g/eunet.politics/c/LbrVEM7zp-Y/m/ae_hhAk9jd8J)
+* [2023-05-14, 12:47:47](https://news.ycombinator.com/item?id=35937554) - [High Performance Browser Networking](https://hpbn.co/)
 * [2023-05-14, 12:43:32](https://news.ycombinator.com/item?id=35937540) - [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 12:26:36](https://news.ycombinator.com/item?id=35937464) - [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
