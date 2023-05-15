@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-05-15, 15:06:10",
+      "https://news.ycombinator.com/item?id=35949368"
+    ],
+    [
+      "GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations",
+      "https://www.infoq.com/news/2023/05/gcc13-c2x-features/"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 15:02:42",
       "https://news.ycombinator.com/item?id=35949317"
     ],
@@ -217,16 +227,6 @@
     [
       "Why are so many young Americans adopting fake British accents?",
       "https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 08:13:27",
-      "https://news.ycombinator.com/item?id=35945135"
-    ],
-    [
-      "Vanilla-FP: A no-framework framework for component-based purely-functional UIs",
-      "https://github.com/abuseofnotation/vanilla-fp"
     ]
   ],
   [
