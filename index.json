@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-05-14, 18:02:05",
-      "https://news.ycombinator.com/item?id=35939909"
-    ],
-    [
-      "Heart attack deaths drop over past two decades",
-      "https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades"
-    ]
-  ],
-  [
-    [
       "2023-05-14, 16:41:28",
       "https://news.ycombinator.com/item?id=35939240"
     ],
@@ -287,6 +277,16 @@
     [
       "MGL: Common Lisp machine learning library",
       "https://github.com/melisgl/mgl"
+    ]
+  ],
+  [
+    [
+      "2023-05-13, 08:17:21",
+      "https://news.ycombinator.com/item?id=35926597"
+    ],
+    [
+      "Transformer Inference Arithmetic",
+      "https://kipp.ly/blog/transformer-inference-arithmetic/#kv-cache"
     ]
   ],
   [
