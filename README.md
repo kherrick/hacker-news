@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 01:59:26](https://news.ycombinator.com/item?id=35943104) - [The 1% of the population accountable for 63 % of all violent crime convictions (2013)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3969807/)
 * [2023-05-15, 00:36:56](https://news.ycombinator.com/item?id=35942707) - [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
+* [2023-05-14, 22:13:35](https://news.ycombinator.com/item?id=35941814) - [HCI Bibliography: Human-Computer Interaction Resources](http://hcibib.org/)
 * [2023-05-14, 22:05:32](https://news.ycombinator.com/item?id=35941749) - [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
 * [2023-05-14, 21:35:06](https://news.ycombinator.com/item?id=35941533) - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-05-14, 21:21:12](https://news.ycombinator.com/item?id=35941436) - [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
@@ -19,7 +21,6 @@
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [Run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 12:26:36](https://news.ycombinator.com/item?id=35937464) - [Building a front end framework – Reactivity, composability with no dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
 * [2023-05-14, 12:07:49](https://news.ycombinator.com/item?id=35937375) - [The World is Built on Probability (1984)](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
-* [2023-05-14, 12:00:27](https://news.ycombinator.com/item?id=35937338) - [Tavus (YC S21) is hiring ML and full stack engineers](https://www.tavus.io/careers)
 * [2023-05-14, 11:32:12](https://news.ycombinator.com/item?id=35937196) - [Chemotherapy drug reaches brain tumors using novel ultrasound technology](https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/)
 * [2023-05-14, 05:39:55](https://news.ycombinator.com/item?id=35935604) - [Bruce McCall’s “Safe Travels”](https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15)
 * [2023-05-14, 05:37:12](https://news.ycombinator.com/item?id=35935591) - [Crossing the Blood Meridian: Cormac McCarthy and American History](https://lareviewofbooks.org/article/crossing-the-blood-meridian-cormac-mccarthy-and-american-history/)
@@ -27,9 +28,8 @@
 * [2023-05-13, 12:15:05](https://news.ycombinator.com/item?id=35927627) - [Monte Carlo methods](https://easylang.dev/apps/tutorial_mcarlo.html)
 * [2023-05-13, 12:09:55](https://news.ycombinator.com/item?id=35927588) - [Arthropod head problem](https://en.wikipedia.org/wiki/Arthropod_head_problem)
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
-* [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
+* [2023-05-13, 07:11:56](https://news.ycombinator.com/item?id=35926321) - [The Great Ptolemaic Smackdown: From Plausible to Proven](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
 * [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
-* [2023-05-11, 05:14:13](https://news.ycombinator.com/item?id=35897851) - [The Viterbi Algorithm at 50 (2017)](https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/)
 
 ## [Archives](archives/index.md)
 

@@ -8,6 +8,7 @@
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:27:41](https://news.ycombinator.com/item?id=35941914) - [Nuclear energy: Not a Faustian bargain, but a near-perfect providential gift](https://gordianknotbook.com/wp-content/plugins/pdf-poster/pdfjs/web/viewer.html?file=https://gordianknotbook.com/wp-content/uploads/2023/05/rockwell_2008_faustian.pdf&download=true&print=vera&openfile=false)
 * [2023-05-14, 22:23:55](https://news.ycombinator.com/item?id=35941892) - [Human activities drive long-term old trees in human-dominated landscapes](https://www.nature.com/articles/s41477-023-01412-1)
+* [2023-05-14, 22:13:35](https://news.ycombinator.com/item?id=35941814) - [HCI Bibliography: Human-Computer Interaction Resources](http://hcibib.org/)
 * [2023-05-14, 22:05:32](https://news.ycombinator.com/item?id=35941749) - [JavaScript State Machines and Statecharts](https://xstate.js.org/docs/)
 * [2023-05-14, 21:53:20](https://news.ycombinator.com/item?id=35941667) - [EU AI Act To Target US Open Source Software](https://technomancers.ai/eu-ai-act-to-target-us-open-source-software/)
 * [2023-05-14, 21:35:06](https://news.ycombinator.com/item?id=35941533) - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
