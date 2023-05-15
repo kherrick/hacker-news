@@ -20,6 +20,7 @@
 * [2023-05-14, 19:57:45](https://news.ycombinator.com/item?id=35940890) - [The Web I Want](https://quii.dev/The_Web_I_Want)
 * [2023-05-14, 19:11:47](https://news.ycombinator.com/item?id=35940506) - [The Unreasonable Effectiveness of Character-Level Language Models](https://colab.research.google.com/github/norvig/pytudes/blob/main/ipynb/Goldberg.ipynb)
 * [2023-05-14, 18:38:23](https://news.ycombinator.com/item?id=35940218) - [Show HN: I built my first Cyberdeck](https://github.com/g1sbi/qaz-cyberdeck)
+* [2023-05-14, 18:02:05](https://news.ycombinator.com/item?id=35939909) - [Heart attack deaths drop over past two decades](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades)
 * [2023-05-14, 17:57:53](https://news.ycombinator.com/item?id=35939883) - [Rising number of lithium battery incidents on airplanes worry crew](https://www.cbsnews.com/news/hazardous-materials-airplanes/)
 * [2023-05-14, 17:49:08](https://news.ycombinator.com/item?id=35939816) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2023-05-14, 17:21:17](https://news.ycombinator.com/item?id=35939541) - [Can GPT pass my programming courses?](https://lemire.me/blog/2023/03/22/can-gpt-pass-my-programming-courses/)
