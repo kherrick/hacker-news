@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-15, 14:06:01",
+      "https://news.ycombinator.com/item?id=35948332"
+    ],
+    [
+      "Kids who get smartphones earlier become adults with worse mental health",
+      "https://jonathanhaidt.substack.com/p/sapien-smartphone-report"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 13:53:18",
+      "https://news.ycombinator.com/item?id=35948145"
+    ],
+    [
+      "Which kinds of GPT startups will thrive?",
+      "https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 13:12:15",
       "https://news.ycombinator.com/item?id=35947605"
     ],
@@ -17,16 +37,6 @@
     [
       "The groundbreaking plan to map the entire human immune system",
       "https://www.freethink.com/health/human-immunome"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 12:53:50",
-      "https://news.ycombinator.com/item?id=35947386"
-    ],
-    [
-      "Why are humans never satisfied? [video]",
-      "https://www.youtube.com/watch?v=WvGUTtYMUco"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer",
       "https://infracost.io/join-the-team"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 11:22:26",
-      "https://news.ycombinator.com/item?id=35946448"
-    ],
-    [
-      "Veritasium: Light bulbs are linked to the invention of computer",
-      "https://www.youtube.com/watch?v=FU_YFpfDqqA"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35945135"
     ],
     [
-      "Vanilla-FP: the no-framework framework for building component-based FP UIs",
+      "Vanilla-FP: A no-framework framework for component-based purely-functional UIs",
       "https://github.com/abuseofnotation/vanilla-fp"
     ]
   ],
@@ -295,8 +295,8 @@
       "https://news.ycombinator.com/item?id=35926597"
     ],
     [
-      "Transformer Inference Arithmetic",
-      "https://kipp.ly/blog/transformer-inference-arithmetic/#kv-cache"
+      "Transformer Inference Arithmetic (2022)",
+      "https://kipp.ly/blog/transformer-inference-arithmetic"
     ]
   ]
 ]
