@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-15, 08:31:27](https://news.ycombinator.com/item?id=35945250) - [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
+* [2023-05-15, 08:13:27](https://news.ycombinator.com/item?id=35945135) - [Vanilla-FP: the no-framework framework for building component-based FP UIs](https://github.com/abuseofnotation/vanilla-fp)
 * [2023-05-15, 08:13:22](https://news.ycombinator.com/item?id=35945134) - [We Don&#x27;t Know How to Compute (2011) [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
 * [2023-05-15, 07:52:45](https://news.ycombinator.com/item?id=35944994) - [Mormon whistleblower says is his church is a “clandestine hedge fund”](https://www.cbsnews.com/news/mormon-whistleblower-ensign-peak-church-investment-fund-allegations-60-minutes-transcript-2023-05-14/)
 * [2023-05-15, 07:18:17](https://news.ycombinator.com/item?id=35944749) - [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
@@ -22,7 +23,6 @@
 * [2023-05-14, 20:40:51](https://news.ycombinator.com/item?id=35941200) - [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
 * [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter (2021)](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
 * [2023-05-14, 18:02:05](https://news.ycombinator.com/item?id=35939909) - [Heart attack deaths drop over past two decades](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades)
-* [2023-05-14, 17:49:08](https://news.ycombinator.com/item?id=35939816) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [Run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 08:37:46](https://news.ycombinator.com/item?id=35936396) - [Attempto Controlled English](https://en.wikipedia.org/wiki/Attempto_Controlled_English)
