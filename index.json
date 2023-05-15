@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-05-14, 22:53:58",
-      "https://news.ycombinator.com/item?id=35942093"
+      "2023-05-15, 00:12:10",
+      "https://news.ycombinator.com/item?id=35942583"
     ],
     [
-      "Surveillance of reporter a &#x27;serious attack on freedom of the press in Canada&#x27;",
-      "https://www.cbc.ca/news/canada/montreal/la-presse-patrick-lagace-cjfe-edward-snowden-1.3829383"
+      "Brex’s Prompt Engineering Guide",
+      "https://github.com/brexhq/prompt-engineering"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Combinatory Logic",
       "https://plato.stanford.edu/entries/logic-combinatory/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 22:27:41",
-      "https://news.ycombinator.com/item?id=35941914"
-    ],
-    [
-      "Nuclear energy: Not a Faustian bargain, but a near-perfect providential gift",
-      "https://gordianknotbook.com/wp-content/plugins/pdf-poster/pdfjs/web/viewer.html?file=https://gordianknotbook.com/wp-content/uploads/2023/05/rockwell_2008_faustian.pdf&download=true&print=vera&openfile=false"
     ]
   ],
   [
@@ -101,6 +91,16 @@
   ],
   [
     [
+      "2023-05-14, 18:38:23",
+      "https://news.ycombinator.com/item?id=35940218"
+    ],
+    [
+      "Show HN: I built my first Cyberdeck",
+      "https://github.com/g1sbi/qaz-cyberdeck"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 17:49:08",
       "https://news.ycombinator.com/item?id=35939816"
     ],
@@ -137,6 +137,16 @@
     [
       "Fall of the Berlin Wall on Usenet (1989)",
       "https://groups.google.com/g/eunet.politics/c/LbrVEM7zp-Y/m/ae_hhAk9jd8J"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 12:43:32",
+      "https://news.ycombinator.com/item?id=35937540"
+    ],
+    [
+      "The mysterious dodecahedrons of the Roman Empire",
+      "https://www.atlasobscura.com/articles/dodecahedrons-roman-empire"
     ]
   ],
   [
@@ -191,6 +201,16 @@
   ],
   [
     [
+      "2023-05-14, 10:45:08",
+      "https://news.ycombinator.com/item?id=35936999"
+    ],
+    [
+      "The networkQuality tool on macOS",
+      "https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 10:13:52",
       "https://news.ycombinator.com/item?id=35936865"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-05-14, 09:06:59",
-      "https://news.ycombinator.com/item?id=35936539"
+      "2023-05-14, 05:39:55",
+      "https://news.ycombinator.com/item?id=35935604"
     ],
     [
-      "Making GHC faster at emitting code (2022)",
-      "https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 08:51:53",
-      "https://news.ycombinator.com/item?id=35936463"
-    ],
-    [
-      "Successful Lisp: How to Understand and Use Common Lisp (1999)",
-      "https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-13, 15:00:18",
-      "https://news.ycombinator.com/item?id=35929025"
-    ],
-    [
-      "The path to path-traced movies (2016)",
-      "https://cs.dartmouth.edu/wjarosz/publications/christensen16path.html"
+      "Bruce McCall’s “Safe Travels”",
+      "https://www.newyorker.com/culture/cover-story/cover-story-2023-05-15"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-05-13, 10:51:54",
-      "https://news.ycombinator.com/item?id=35927198"
-    ],
-    [
-      "Can Songs Replace Philosophy?",
-      "https://tedgioia.substack.com/p/can-songs-really-replace-philosophy"
-    ]
-  ],
-  [
-    [
       "2023-05-13, 10:51:36",
       "https://news.ycombinator.com/item?id=35927197"
     ],
@@ -297,6 +287,16 @@
     [
       "The Dual LLM pattern for building AI assistants that can resist prompt injection",
       "https://simonwillison.net/2023/Apr/25/dual-llm-pattern/"
+    ]
+  ],
+  [
+    [
+      "2023-05-11, 05:14:13",
+      "https://news.ycombinator.com/item?id=35897851"
+    ],
+    [
+      "The Viterbi Algorithm at 50 (2017)",
+      "https://viterbischool.usc.edu/news/2017/03/viterbi-algorithm-50/"
     ]
   ]
 ]
