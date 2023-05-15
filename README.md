@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Kaspersky: Case study: fake hardware cryptowallet (Trezor)](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 * [2023-05-15, 21:01:01](https://news.ycombinator.com/item?id=35954420) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
 * [2023-05-15, 20:46:28](https://news.ycombinator.com/item?id=35954259) - [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
-* [2023-05-15, 18:38:57](https://news.ycombinator.com/item?id=35952672) - [You studied computer science but Big Tech no longer wants you](https://www.economist.com/1843/2023/05/15/you-studied-computer-science-but-big-tech-no-longer-wants-you-now-what)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 * [2023-05-15, 17:35:24](https://news.ycombinator.com/item?id=35951703) - [Show HN: Openlayer – Test, fix, and improve your ML models](https://www.openlayer.com/?ref=hn)
