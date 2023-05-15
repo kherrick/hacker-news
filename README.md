@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 22:05:49](https://news.ycombinator.com/item?id=35955155) - [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
+* [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
@@ -16,7 +18,6 @@
 * [2023-05-15, 16:23:18](https://news.ycombinator.com/item?id=35950716) - [Taxonomy of Procrastination](https://dynomight.net/procrastination/)
 * [2023-05-15, 15:44:01](https://news.ycombinator.com/item?id=35950094) - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 * [2023-05-15, 15:06:10](https://news.ycombinator.com/item?id=35949368) - [GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations](https://www.infoq.com/news/2023/05/gcc13-c2x-features/)
-* [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing lobbying in European institutions](https://www.lobbyfacts.eu/)
 * [2023-05-15, 14:29:50](https://news.ycombinator.com/item?id=35948742) - [Anthropic&#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-source privacy-focused voice assistant hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:01:53](https://news.ycombinator.com/item?id=35948268) - [Come back, c2.com, we still need you](http://wiki.c2.com)
@@ -26,8 +27,7 @@
 * [2023-05-14, 16:32:52](https://news.ycombinator.com/item?id=35939171) - [Software Development Ethics](http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html)
 * [2023-05-14, 12:47:47](https://news.ycombinator.com/item?id=35937554) - [High Performance Browser Networking](https://hpbn.co/)
 * [2023-05-14, 11:36:48](https://news.ycombinator.com/item?id=35937220) - [Assemblers: Popular assemblers and their architecture-specific differences](https://maskray.me/blog/2023-05-08-assemblers)
-* [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good career move, terrible career](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
-* [2023-05-14, 10:18:27](https://news.ycombinator.com/item?id=35936885) - [Devil Mode for Emacs](https://susam.github.io/devil/)
+* [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good career move, terrible career (2018)](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 * [2023-05-14, 09:34:38](https://news.ycombinator.com/item?id=35936665) - [Learn Makefiles with the Tastiest Examples](https://makefiletutorial.com/#top)
 * [2023-05-14, 06:28:53](https://news.ycombinator.com/item?id=35935796) - [Get started making music](https://learningmusic.ableton.com/)
 
