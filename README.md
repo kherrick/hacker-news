@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 03:15:31](https://news.ycombinator.com/item?id=35943528) - [Eat More Beans. Please](https://www.vox.com/future-perfect/2023/5/12/23717519/beans-protein-nutrition-sustainability-climate-food-security-solution-vegan-alternative-meat)
 * [2023-05-15, 00:36:56](https://news.ycombinator.com/item?id=35942707) - [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
@@ -14,7 +15,6 @@
 * [2023-05-14, 18:38:23](https://news.ycombinator.com/item?id=35940218) - [Show HN: I built my first Cyberdeck](https://github.com/g1sbi/qaz-cyberdeck)
 * [2023-05-14, 17:49:08](https://news.ycombinator.com/item?id=35939816) - [Pfeilstorch](https://en.wikipedia.org/wiki/Pfeilstorch)
 * [2023-05-14, 17:01:59](https://news.ycombinator.com/item?id=35939383) - [The Cathedral and the Bazaar (1999)](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/)
-* [2023-05-14, 16:32:28](https://news.ycombinator.com/item?id=35939168) - [The Group Decode ROM: The 8086 processor&#x27;s first step of instruction decoding](http://www.righto.com/2023/05/8086-processor-group-decode-rom.html)
 * [2023-05-14, 15:27:38](https://news.ycombinator.com/item?id=35938691) - [Juice’s RIME antenna successfully unjammed](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
 * [2023-05-14, 13:01:44](https://news.ycombinator.com/item?id=35937637) - [Fall of the Berlin Wall on Usenet (1989)](https://groups.google.com/g/eunet.politics/c/LbrVEM7zp-Y/m/ae_hhAk9jd8J)
 * [2023-05-14, 12:43:32](https://news.ycombinator.com/item?id=35937540) - [The mysterious dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
