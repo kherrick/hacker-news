@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
 * [2023-05-15, 12:00:05](https://news.ycombinator.com/item?id=35946822) - [Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
+* [2023-05-15, 11:57:41](https://news.ycombinator.com/item?id=35946793) - [The Last Old-School Seltzer Shop in New York](https://www.nytimes.com/2023/05/13/nyregion/brooklyn-seltzer-boys.html)
+* [2023-05-15, 11:22:26](https://news.ycombinator.com/item?id=35946448) - [Veritasium: Light bulbs are linked to the invention of computer](https://www.youtube.com/watch?v=FU_YFpfDqqA)
 * [2023-05-15, 11:19:05](https://news.ycombinator.com/item?id=35946419) - [A Biography of the Pixel by Alvy Ray Smith](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
 * [2023-05-15, 11:00:03](https://news.ycombinator.com/item?id=35946284) - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
 * [2023-05-15, 10:56:49](https://news.ycombinator.com/item?id=35946260) - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
