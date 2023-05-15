@@ -44,6 +44,7 @@
 * [2023-05-14, 12:07:49](https://news.ycombinator.com/item?id=35937375) - [The World is Built on Probability [1988&#x2F;2023]](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
 * [2023-05-14, 12:00:27](https://news.ycombinator.com/item?id=35937338) - [Tavus (YC S21) is hiring ML and full stack engineers](https://www.tavus.io/careers)
 * [2023-05-14, 11:58:24](https://news.ycombinator.com/item?id=35937324) - [All the Media Outlets Are Dying. What the Hell Comes Next?](https://thewalrus.ca/buzzfeed-news/)
+* [2023-05-14, 11:36:48](https://news.ycombinator.com/item?id=35937220) - [Assemblers: Popular assemblers and their architecture-specific differences](https://maskray.me/blog/2023-05-08-assemblers)
 * [2023-05-14, 11:33:45](https://news.ycombinator.com/item?id=35937204) - [The Greatest Wealth Transfer in History Is Here, with Familiar (Rich) Winners](https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html)
 * [2023-05-14, 11:32:12](https://news.ycombinator.com/item?id=35937196) - [Chemotherapy drug reaches brain tumors using novel ultrasound technology](https://news.northwestern.edu/stories/2023/05/chemotherapy-drug-reaches-brain-in-humans-for-first-time/)
 * [2023-05-14, 10:45:08](https://news.ycombinator.com/item?id=35936999) - [A secret macOS tool – networkQuality](https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/)
