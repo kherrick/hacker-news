@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 12:00:05](https://news.ycombinator.com/item?id=35946822) - [Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
+* [2023-05-15, 11:19:05](https://news.ycombinator.com/item?id=35946419) - [A Biography of the Pixel by Alvy Ray Smith](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
 * [2023-05-15, 11:00:03](https://news.ycombinator.com/item?id=35946284) - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
 * [2023-05-15, 10:56:49](https://news.ycombinator.com/item?id=35946260) - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
 * [2023-05-15, 10:51:58](https://news.ycombinator.com/item?id=35946215) - [Dogs Can Have Human-Like Anxiety. They Need Human-Like Treatment [Opinion Piece]](https://undark.org/2023/05/11/opinion-dogs-can-have-human-like-anxiety-they-need-human-like-treatment/)
@@ -10,7 +12,6 @@
 * [2023-05-15, 08:13:22](https://news.ycombinator.com/item?id=35945134) - [We Don&#x27;t Know How to Compute (2011) [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
 * [2023-05-15, 07:52:45](https://news.ycombinator.com/item?id=35944994) - [Mormon whistleblower says is his church is a “clandestine hedge fund”](https://www.cbsnews.com/news/mormon-whistleblower-ensign-peak-church-investment-fund-allegations-60-minutes-transcript-2023-05-14/)
 * [2023-05-15, 06:53:40](https://news.ycombinator.com/item?id=35944616) - [Gambling firm allegedly paid blogs to link new mothers to its online games](https://www.theguardian.com/society/2023/may/14/gambling-firm-allegedly-paid-blogs-to-link-new-mothers-to-its-online-games)
-* [2023-05-15, 06:44:27](https://news.ycombinator.com/item?id=35944563) - [Ask HN: What is the license of GitHub&#x27;s blog and The README project?](https://news.ycombinator.com/item?id=35944563)
 * [2023-05-15, 06:05:28](https://news.ycombinator.com/item?id=35944376) - [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
 * [2023-05-15, 06:05:01](https://news.ycombinator.com/item?id=35944373) - [VSCode config to disable annoyances – telemetry, notifications, welcome pages](https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0)
 * [2023-05-15, 05:47:40](https://news.ycombinator.com/item?id=35944295) - [Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
@@ -22,7 +23,6 @@
 * [2023-05-14, 22:05:32](https://news.ycombinator.com/item?id=35941749) - [JavaScript state machines and statecharts](https://xstate.js.org/docs/)
 * [2023-05-14, 21:00:03](https://news.ycombinator.com/item?id=35941315) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-05-14, 20:40:51](https://news.ycombinator.com/item?id=35941200) - [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
-* [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter (2021)](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
 * [2023-05-14, 18:02:05](https://news.ycombinator.com/item?id=35939909) - [Heart attack deaths drop over past two decades](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades)
 * [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [Run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
