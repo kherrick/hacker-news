@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 14:06:01](https://news.ycombinator.com/item?id=35948332) - [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
+* [2023-05-15, 13:53:18](https://news.ycombinator.com/item?id=35948145) - [Which kinds of GPT startups will thrive?](https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating)
 * [2023-05-15, 13:12:15](https://news.ycombinator.com/item?id=35947605) - [U.S. Marshals Spied on Abortion Protesters Using Dataminr](https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/)
 * [2023-05-15, 12:56:01](https://news.ycombinator.com/item?id=35947409) - [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
 * [2023-05-15, 12:53:50](https://news.ycombinator.com/item?id=35947386) - [Why are humans never satisfied?](https://www.youtube.com/watch?v=WvGUTtYMUco)

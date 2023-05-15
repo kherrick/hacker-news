@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 14:06:01](https://news.ycombinator.com/item?id=35948332) - [Kids who get smartphones earlier become adults with worse mental health](https://jonathanhaidt.substack.com/p/sapien-smartphone-report)
+* [2023-05-15, 13:53:18](https://news.ycombinator.com/item?id=35948145) - [Which kinds of GPT startups will thrive?](https://assistedeverything.substack.com/p/the-three-hills-model-for-evaluating)
 * [2023-05-15, 13:12:15](https://news.ycombinator.com/item?id=35947605) - [U.S. Marshals Spied on Abortion Protesters Using Dataminr](https://theintercept.com/2023/05/15/abortion-surveillance-dataminr/)
 * [2023-05-15, 12:56:01](https://news.ycombinator.com/item?id=35947409) - [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
-* [2023-05-15, 12:53:50](https://news.ycombinator.com/item?id=35947386) - [Why are humans never satisfied? [video]](https://www.youtube.com/watch?v=WvGUTtYMUco)
 * [2023-05-15, 12:50:43](https://news.ycombinator.com/item?id=35947339) - [Apple to occupy 90% of TSMC 3nm capacity in 2023](https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/)
 * [2023-05-15, 12:11:32](https://news.ycombinator.com/item?id=35946955) - [Show HN: Use ChatGPT, Bing, Bard and Claude in One App](https://github.com/chathub-dev/chathub/blob/main/README.md)
 * [2023-05-15, 12:00:05](https://news.ycombinator.com/item?id=35946822) - [Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
-* [2023-05-15, 11:22:26](https://news.ycombinator.com/item?id=35946448) - [Veritasium: Light bulbs are linked to the invention of computer](https://www.youtube.com/watch?v=FU_YFpfDqqA)
 * [2023-05-15, 11:19:05](https://news.ycombinator.com/item?id=35946419) - [A Biography of the Pixel (2021)](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
 * [2023-05-15, 11:00:03](https://news.ycombinator.com/item?id=35946284) - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
 * [2023-05-15, 10:56:49](https://news.ycombinator.com/item?id=35946260) - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
@@ -16,7 +16,7 @@
 * [2023-05-15, 10:23:54](https://news.ycombinator.com/item?id=35945988) - [Google I&#x2F;O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
 * [2023-05-15, 09:54:26](https://news.ycombinator.com/item?id=35945777) - [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 * [2023-05-15, 09:26:32](https://news.ycombinator.com/item?id=35945592) - [Why are so many young Americans adopting fake British accents?](https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z)
-* [2023-05-15, 08:13:27](https://news.ycombinator.com/item?id=35945135) - [Vanilla-FP: the no-framework framework for building component-based FP UIs](https://github.com/abuseofnotation/vanilla-fp)
+* [2023-05-15, 08:13:27](https://news.ycombinator.com/item?id=35945135) - [Vanilla-FP: A no-framework framework for component-based purely-functional UIs](https://github.com/abuseofnotation/vanilla-fp)
 * [2023-05-15, 08:13:22](https://news.ycombinator.com/item?id=35945134) - [We Don&#x27;t Know How to Compute (2011) [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
 * [2023-05-15, 07:18:17](https://news.ycombinator.com/item?id=35944749) - [Vice files for Bankruptcy](https://www.bloomberg.com/news/articles/2023-05-15/vice-files-for-chapter-11-in-shift-of-fortune-for-media-upstart)
 * [2023-05-15, 06:05:28](https://news.ycombinator.com/item?id=35944376) - [Vice, Decayed Digital Colossus, Files for Bankruptcy](https://www.nytimes.com/2023/05/15/business/media/vice-bankruptcy.html)
@@ -29,7 +29,7 @@
 * [2023-05-14, 18:02:05](https://news.ycombinator.com/item?id=35939909) - [Heart attack deaths drop over past two decades](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/30/Heart-Attack-Deaths-Drop-Over-Past-Two-Decades)
 * [2023-05-14, 16:41:28](https://news.ycombinator.com/item?id=35939240) - [Distrobox: Use any Linux distribution inside your terminal](https://github.com/89luca89/distrobox)
 * [2023-05-14, 07:25:06](https://news.ycombinator.com/item?id=35936079) - [VT330&#x2F;VT340 Sixel Graphics](https://vt100.net/docs/vt3xx-gp/chapter14.html)
-* [2023-05-13, 08:17:21](https://news.ycombinator.com/item?id=35926597) - [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/#kv-cache)
+* [2023-05-13, 08:17:21](https://news.ycombinator.com/item?id=35926597) - [Transformer Inference Arithmetic (2022)](https://kipp.ly/blog/transformer-inference-arithmetic)
 
 ## [Archives](archives/index.md)
 

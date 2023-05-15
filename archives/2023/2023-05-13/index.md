@@ -82,6 +82,7 @@
 * [2023-05-13, 09:15:27](https://news.ycombinator.com/item?id=35926821) - [Ocean Temperature](https://en.wikipedia.org/wiki/Ocean_temperature)
 * [2023-05-13, 09:09:22](https://news.ycombinator.com/item?id=35926798) - [A Tunguska sized airburst destroyed Tall el-Hammam in the Jordan Valley (2021)](https://www.nature.com/articles/s41598-021-97778-3)
 * [2023-05-13, 08:17:21](https://news.ycombinator.com/item?id=35926597) - [Transformer Inference Arithmetic](https://kipp.ly/blog/transformer-inference-arithmetic/#kv-cache)
+* [2023-05-13, 08:17:21](https://news.ycombinator.com/item?id=35926597) - [Transformer Inference Arithmetic (2022)](https://kipp.ly/blog/transformer-inference-arithmetic)
 * [2023-05-13, 08:06:35](https://news.ycombinator.com/item?id=35926556) - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
 * [2023-05-13, 07:11:56](https://news.ycombinator.com/item?id=35926321) - [The Great Ptolemaic Smackdown: From Plausible to Proven](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
 * [2023-05-13, 05:55:24](https://news.ycombinator.com/item?id=35925983) - [Bot or Human? Detecting ChatGPT Imposters with a Single Question](https://arxiv.org/abs/2305.06424)
