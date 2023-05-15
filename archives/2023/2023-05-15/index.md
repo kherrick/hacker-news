@@ -13,6 +13,7 @@
 * [2023-05-15, 12:53:50](https://news.ycombinator.com/item?id=35947386) - [Why are humans never satisfied?](https://www.youtube.com/watch?v=WvGUTtYMUco)
 * [2023-05-15, 12:50:43](https://news.ycombinator.com/item?id=35947339) - [Apple to occupy 90% of TSMC 3nm capacity in 2023](https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/)
 * [2023-05-15, 12:11:32](https://news.ycombinator.com/item?id=35946955) - [Show HN: Use ChatGPT, Bing, Bard and Claude in One App](https://github.com/chathub-dev/chathub/blob/main/README.md)
+* [2023-05-15, 12:06:05](https://news.ycombinator.com/item?id=35946893) - [HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion](https://synthesiaresearch.github.io/humanrf/)
 * [2023-05-15, 12:00:05](https://news.ycombinator.com/item?id=35946822) - [Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
 * [2023-05-15, 11:57:41](https://news.ycombinator.com/item?id=35946793) - [The Last Old-School Seltzer Shop in New York](https://www.nytimes.com/2023/05/13/nyregion/brooklyn-seltzer-boys.html)
 * [2023-05-15, 11:22:26](https://news.ycombinator.com/item?id=35946448) - [Veritasium: Light bulbs are linked to the invention of computer](https://www.youtube.com/watch?v=FU_YFpfDqqA)
