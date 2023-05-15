@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
 * [2023-05-15, 05:57:49](https://news.ycombinator.com/item?id=35944334) - [&#x27;Third places&#x27;: The ways losing our local haunts hurts us (2021)](https://www.bbc.com/worklife/article/20210428-third-places-how-losing-responsibility-free-zones-hurts-us)
+* [2023-05-15, 05:53:17](https://news.ycombinator.com/item?id=35944315) - [This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 * [2023-05-15, 05:47:40](https://news.ycombinator.com/item?id=35944295) - [Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
 * [2023-05-15, 04:18:06](https://news.ycombinator.com/item?id=35943836) - [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 * [2023-05-15, 04:11:18](https://news.ycombinator.com/item?id=35943808) - [Bard API](https://github.com/dsdanielpark/Bard-API)
