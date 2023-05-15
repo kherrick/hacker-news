@@ -3,7 +3,7 @@
 * [2023-05-15, 11:00:03](https://news.ycombinator.com/item?id=35946284) - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
 * [2023-05-15, 10:56:49](https://news.ycombinator.com/item?id=35946260) - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
 * [2023-05-15, 10:51:58](https://news.ycombinator.com/item?id=35946215) - [Dogs Can Have Human-Like Anxiety. They Need Human-Like Treatment [Opinion Piece]](https://undark.org/2023/05/11/opinion-dogs-can-have-human-like-anxiety-they-need-human-like-treatment/)
-* [2023-05-15, 10:33:30](https://news.ycombinator.com/item?id=35946060) - [Uncensored (Language) Models](https://erichartford.com/uncensored-models)
+* [2023-05-15, 10:33:30](https://news.ycombinator.com/item?id=35946060) - [Uncensored Models](https://erichartford.com/uncensored-models)
 * [2023-05-15, 10:23:54](https://news.ycombinator.com/item?id=35945988) - [Google I&#x2F;O and the Coming AI Battles](https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/)
 * [2023-05-15, 09:54:26](https://news.ycombinator.com/item?id=35945777) - [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 * [2023-05-15, 08:13:27](https://news.ycombinator.com/item?id=35945135) - [Vanilla-FP: the no-framework framework for building component-based FP UIs](https://github.com/abuseofnotation/vanilla-fp)
