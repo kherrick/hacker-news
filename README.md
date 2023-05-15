@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 19:45:28](https://news.ycombinator.com/item?id=35953491) - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
+* [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
@@ -16,9 +18,7 @@
 * [2023-05-15, 15:06:10](https://news.ycombinator.com/item?id=35949368) - [GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations](https://www.infoq.com/news/2023/05/gcc13-c2x-features/)
 * [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing lobbying in European institutions](https://www.lobbyfacts.eu/)
 * [2023-05-15, 14:58:01](https://news.ycombinator.com/item?id=35949245) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
-* [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
 * [2023-05-15, 14:29:50](https://news.ycombinator.com/item?id=35948742) - [Anthropic&#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
-* [2023-05-15, 14:15:29](https://news.ycombinator.com/item?id=35948491) - [Stories We’ve Seen Too Often](http://strangehorizons.com/submit/fiction-submission-guidelines/stories-weve-seen-too-often/)
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-Source Privacy-Focused Voice Assistant Hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 14:01:53](https://news.ycombinator.com/item?id=35948268) - [Come back, c2.com, we still need you](http://wiki.c2.com)
 * [2023-05-15, 12:11:32](https://news.ycombinator.com/item?id=35946955) - [Show HN: Use ChatGPT, Bing, Bard and Claude in One App](https://github.com/chathub-dev/chathub/blob/main/README.md)

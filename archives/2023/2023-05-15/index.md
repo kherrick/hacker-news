@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-15](index.md)
 
+* [2023-05-15, 19:45:28](https://news.ycombinator.com/item?id=35953491) - [Telly Is the First TV Paid for by Brands](https://www.freetelly.com/)
+* [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [Random(Random(Random(Random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 * [2023-05-15, 18:27:29](https://news.ycombinator.com/item?id=35952507) - [Full of contempt, she refused to talk to the engineers](https://respectfulleadership.substack.com/p/full-of-contempt-she-refused-to-talk)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
