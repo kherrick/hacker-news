@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-15, 04:11:18](https://news.ycombinator.com/item?id=35943808) - [Bard API](https://github.com/dsdanielpark/Bard-API)
 * [2023-05-15, 00:36:56](https://news.ycombinator.com/item?id=35942707) - [Companies to pay $615,000 in investigation over faked net neutrality comments](https://apnews.com/article/settlement-fake-public-comments-net-neutrality-ae1f69a1f5415d9f77a41f07c3f6c358)
 * [2023-05-15, 00:12:10](https://news.ycombinator.com/item?id=35942583) - [Brex’s Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
@@ -27,7 +28,6 @@
 * [2023-05-13, 11:55:58](https://news.ycombinator.com/item?id=35927507) - [Ranking by Engagement](http://tecunningham.github.io/2023-04-28-ranking-by-engagement.html)
 * [2023-05-13, 10:51:36](https://news.ycombinator.com/item?id=35927197) - [Cybernetic Culture Research Unit](https://en.wikipedia.org/wiki/Cybernetic_Culture_Research_Unit)
 * [2023-05-13, 07:11:56](https://news.ycombinator.com/item?id=35926321) - [The Great Ptolemaic Smackdown: From Plausible to Proven](http://tofspot.blogspot.com/2013/10/9-great-ptolemaic-smackdown-from.html)
-* [2023-05-13, 06:33:36](https://news.ycombinator.com/item?id=35926165) - [Juice’s RIME antenna breaks free](https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free)
 * [2023-05-13, 05:08:06](https://news.ycombinator.com/item?id=35925758) - [The Dual LLM pattern for building AI assistants that can resist prompt injection](https://simonwillison.net/2023/Apr/25/dual-llm-pattern/)
 * [2023-05-11, 10:50:30](https://news.ycombinator.com/item?id=35900369) - [Fairbuds XL review: noise-cancelling headphones you can fix](https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth)
 
