@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-15, 23:03:58](https://news.ycombinator.com/item?id=35955706) - [PFAS found in most contact lenses](https://superfund.ncsu.edu/news/3831/)
+* [2023-05-15, 22:05:49](https://news.ycombinator.com/item?id=35955155) - [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
@@ -25,7 +26,6 @@
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-14, 16:32:52](https://news.ycombinator.com/item?id=35939171) - [Software Development Ethics](http://theprogrammersparadox.blogspot.com/2023/04/software-development-ethics.html)
 * [2023-05-14, 12:47:47](https://news.ycombinator.com/item?id=35937554) - [High Performance Browser Networking](https://hpbn.co/)
-* [2023-05-14, 11:36:48](https://news.ycombinator.com/item?id=35937220) - [Assemblers: Popular assemblers and their architecture-specific differences](https://maskray.me/blog/2023-05-08-assemblers)
 * [2023-05-14, 10:36:25](https://news.ycombinator.com/item?id=35936963) - [Merge branch &#x27;x86-rep-insns&#x27;: x86 user copy clarifications](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a5624566431de76b17862383d9ae254d9606cba9)
 * [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good career move, terrible career (2018)](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 * [2023-05-14, 09:34:38](https://news.ycombinator.com/item?id=35936665) - [Learn Makefiles with the Tastiest Examples](https://makefiletutorial.com/#top)
