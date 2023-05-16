@@ -6,6 +6,7 @@
 
 * [2023-05-16, 19:53:34](https://news.ycombinator.com/item?id=35966890) - [What&#x27;s special about Erlang and Elixir?](https://news.ycombinator.com/item?id=35966890)
 * [2023-05-16, 19:27:58](https://news.ycombinator.com/item?id=35966550) - [Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down](https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/)
+* [2023-05-16, 19:27:33](https://news.ycombinator.com/item?id=35966543) - [EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 * [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [Remembering John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language](http://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 19:13:32](https://news.ycombinator.com/item?id=35966318) - [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
 * [2023-05-16, 19:05:34](https://news.ycombinator.com/item?id=35966210) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
@@ -73,3 +74,4 @@
 * [2023-05-16, 00:20:47](https://news.ycombinator.com/item?id=35956333) - [Ken Griffin’s Hand-Picked Math Prodigy Runs Market-Making Empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
 * [2023-05-16, 00:14:49](https://news.ycombinator.com/item?id=35956295) - [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
 * [2023-05-16, 00:13:53](https://news.ycombinator.com/item?id=35956287) - [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
+* [2023-05-16, 00:12:01](https://news.ycombinator.com/item?id=35956275) - [Verifying Dynamic Trait Objects in Rust (2022)](https://dl.acm.org/doi/pdf/10.1145/3510457.3513031)
