@@ -8,7 +8,7 @@
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
 * [2023-05-16, 19:27:33](https://news.ycombinator.com/item?id=35966543) - [EU Artificial Intelligence Act](https://artificialintelligenceact.eu/)
 * [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language (2020)](http://raganwald.com/2020/05/03/fractran.html)
-* [2023-05-16, 19:13:32](https://news.ycombinator.com/item?id=35966318) - [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
+* [2023-05-16, 19:05:34](https://news.ycombinator.com/item?id=35966210) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
 * [2023-05-16, 18:09:04](https://news.ycombinator.com/item?id=35965541) - [One man&#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
 * [2023-05-16, 18:05:52](https://news.ycombinator.com/item?id=35965496) - [Colossal Biosciences Aims to ‘De-Extinct’ the Woolly Mammoth](https://blogs.nvidia.com/blog/2023/05/16/colossal-biosciences-de-extinct-woolly-mammoth-parabricks/)
 * [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun 0.6](https://bun.sh/blog/bun-v0.6.0)
