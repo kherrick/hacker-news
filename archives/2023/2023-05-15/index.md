@@ -42,6 +42,7 @@
 * [2023-05-15, 16:23:18](https://news.ycombinator.com/item?id=35950716) - [Taxonomy of Procrastination](https://dynomight.net/procrastination/)
 * [2023-05-15, 15:53:04](https://news.ycombinator.com/item?id=35950253) - [Cedar is an open source policy language and evaluation engine](https://github.com/cedar-policy)
 * [2023-05-15, 15:44:01](https://news.ycombinator.com/item?id=35950094) - [Word Does Not Exist](https://www.thisworddoesnotexist.com/)
+* [2023-05-15, 15:38:26](https://news.ycombinator.com/item?id=35949995) - [How Does a TLS Handshake Work?](https://venafi.com/blog/how-does-a-tls-handshake-work/)
 * [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 15:09:48](https://news.ycombinator.com/item?id=35949442) - [Where oil rigs go to die (2017)](https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die)
 * [2023-05-15, 15:08:18](https://news.ycombinator.com/item?id=35949414) - [Don’t use sugar substitutes for weight loss, World Health Organization advises](https://www.cnn.com/2023/05/15/health/who-sweeteners-weigh-loss-guideline-wellness/index.html)

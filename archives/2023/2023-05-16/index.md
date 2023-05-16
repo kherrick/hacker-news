@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 18:09:04](https://news.ycombinator.com/item?id=35965541) - [One man&#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
 * [2023-05-16, 18:04:36](https://news.ycombinator.com/item?id=35965486) - [Should we normalize ephemeral businesses?](https://anu.substack.com/p/the-generational-business-trap)
 * [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun v0.6.0 – Bun&#x27;s new JavaScript bundler and minifier](https://bun.sh/blog/bun-v0.6.0)
 * [2023-05-16, 17:44:33](https://news.ycombinator.com/item?id=35965253) - [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
