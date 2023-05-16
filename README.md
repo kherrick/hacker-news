@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-16, 23:02:14](https://news.ycombinator.com/item?id=35968911) - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
-* [2023-05-16, 21:42:54](https://news.ycombinator.com/item?id=35968148) - [On the foolishness of “natural language programming”](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
+* [2023-05-16, 22:00:02](https://news.ycombinator.com/item?id=35968336) - [ChatGPT is not ‘artificial intelligence.’ It’s theft](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
+* [2023-05-16, 21:42:54](https://news.ycombinator.com/item?id=35968148) - [On the foolishness of “natural language programming” (1979)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
 * [2023-05-16, 21:01:15](https://news.ycombinator.com/item?id=35967704) - [Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 * [2023-05-16, 20:48:06](https://news.ycombinator.com/item?id=35967549) - [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
 * [2023-05-16, 20:40:47](https://news.ycombinator.com/item?id=35967458) - [The RedMonk Programming Language Rankings: January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/)
@@ -12,7 +13,6 @@
 * [2023-05-16, 18:05:52](https://news.ycombinator.com/item?id=35965496) - [Colossal Biosciences Aims to ‘De-Extinct’ the Woolly Mammoth](https://blogs.nvidia.com/blog/2023/05/16/colossal-biosciences-de-extinct-woolly-mammoth-parabricks/)
 * [2023-05-16, 18:04:36](https://news.ycombinator.com/item?id=35965486) - [Should we normalize ephemeral businesses?](https://anu.substack.com/p/the-generational-business-trap)
 * [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun 0.6](https://bun.sh/blog/bun-v0.6.0)
-* [2023-05-16, 17:00:55](https://news.ycombinator.com/item?id=35964640) - [Show HN: Neucards – Privacy based digital contact card](https://www.neucards.com)
 * [2023-05-16, 16:40:54](https://news.ycombinator.com/item?id=35964335) - [The Bookmarking Data Model Is Wrong for Highlighting](https://lgug2z.com/articles/the-bookmarking-data-model-is-wrong-for-highlighting/)
 * [2023-05-16, 16:36:23](https://news.ycombinator.com/item?id=35964281) - [Show HN: My solar-powered, ePaper digital photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
 * [2023-05-16, 16:14:36](https://news.ycombinator.com/item?id=35963949) - [AI can’t do hiring because it lacks the data](https://interviewing.io/blog/why-ai-cant-do-hiring)
@@ -28,8 +28,8 @@
 * [2023-05-15, 12:39:42](https://news.ycombinator.com/item?id=35947217) - [CMU Common Lisp 21e](https://gitlab.common-lisp.net/cmucl/cmucl/-/releases/21e)
 * [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
 * [2023-05-15, 10:48:57](https://news.ycombinator.com/item?id=35946181) - [Why we created Taxi, and why we felt the need for another schema language](https://orbitalhq.com/blog/2023-05-12-why-we-created-taxi)
+* [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 07:54:47](https://news.ycombinator.com/item?id=35945006) - [How to Play Hextraction](https://www.playhextraction.com/how-to-play)
-* [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)
 

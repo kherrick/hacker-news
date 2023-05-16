@@ -81,6 +81,7 @@
 * [2023-05-15, 10:23:43](https://news.ycombinator.com/item?id=35945986) - [Ask HN: Is depleted uranium being spread from the Khmelnitsky explosion?](https://news.ycombinator.com/item?id=35945986)
 * [2023-05-15, 09:54:26](https://news.ycombinator.com/item?id=35945777) - [Hippo Meat Nearly Became an American Food Staple](https://www.ripleys.com/weird-news/hippo-meat/)
 * [2023-05-15, 09:26:32](https://news.ycombinator.com/item?id=35945592) - [Why are so many young Americans adopting fake British accents?](https://www.theguardian.com/lifeandstyle/2023/may/14/fake-british-accents-americans-gen-z)
+* [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:31:27](https://news.ycombinator.com/item?id=35945250) - [Is Meta having growing pains or in a death spiral?](https://slate.com/podcasts/what-next-tbd/2023/05/is-meta-having-growing-pains-or-in-a-death-spiral)
 * [2023-05-15, 08:13:27](https://news.ycombinator.com/item?id=35945135) - [Vanilla-FP: the no-framework framework for building component-based FP UIs](https://github.com/abuseofnotation/vanilla-fp)
 * [2023-05-15, 08:13:22](https://news.ycombinator.com/item?id=35945134) - [We Don&#x27;t Know How to Compute (2011) [video]](https://www.youtube.com/watch?v=HB5TrK7A4pI)
