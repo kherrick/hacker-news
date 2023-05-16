@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 07:21:36](https://news.ycombinator.com/item?id=35958667) - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
 * [2023-05-16, 04:40:41](https://news.ycombinator.com/item?id=35957814) - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
@@ -25,7 +26,6 @@
 * [2023-05-15, 04:52:52](https://news.ycombinator.com/item?id=35944010) - [The World Atlas of Languages](https://en.wal.unesco.org/discover/languages)
 * [2023-05-15, 04:22:31](https://news.ycombinator.com/item?id=35943863) - [All Roll Is B-Roll: Adam Curtis Goes Quiet](https://www.thedriftmag.com/all-roll-is-b-roll/)
 * [2023-05-14, 23:57:48](https://news.ycombinator.com/item?id=35942500) - [The Miracle of Pakistani Tekken (2022) [video]](https://www.youtube.com/watch?v=l2SQgjYmVYY)
-* [2023-05-14, 12:47:47](https://news.ycombinator.com/item?id=35937554) - [High Performance Browser Networking](https://hpbn.co/)
 * [2023-05-14, 12:17:03](https://news.ycombinator.com/item?id=35937419) - [Digital Audio Workstation Front End Development Struggles](https://billydm.github.io/blog/daw-frontend-development-struggles/)
 * [2023-05-14, 10:03:59](https://news.ycombinator.com/item?id=35936828) - [Artists must be allowed to make bad work](https://austinkleon.com/2023/05/07/artists-must-be-allowed-to-make-bad-work/)
 * [2023-05-14, 09:34:38](https://news.ycombinator.com/item?id=35936665) - [Learn Makefiles with the Tastiest Examples](https://makefiletutorial.com/#top)
