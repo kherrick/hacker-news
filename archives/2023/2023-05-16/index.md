@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
 * [2023-05-16, 02:06:55](https://news.ycombinator.com/item?id=35957039) - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
+* [2023-05-16, 01:47:46](https://news.ycombinator.com/item?id=35956900) - [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
 * [2023-05-16, 01:40:05](https://news.ycombinator.com/item?id=35956837) - [Ultimate Electronics](https://ultimateelectronicsbook.com/)
 * [2023-05-16, 01:27:42](https://news.ycombinator.com/item?id=35956755) - [Claude LLM has context window of 100k tokens (can summarize any report)](https://www.promptengineering.org/claudes-100k-context-window-how-this-will-transform-business-education-and-research/)
 * [2023-05-16, 01:01:01](https://news.ycombinator.com/item?id=35956581) - [Peoplebox (YC S22) Is Hiring a Principal Engineer (Back End)](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
+* [2023-05-16, 00:46:43](https://news.ycombinator.com/item?id=35956484) - [LMQL: A query language for programming (large) language models](https://github.com/eth-sri/lmql)
 * [2023-05-16, 00:22:56](https://news.ycombinator.com/item?id=35956353) - [More hospitals create police forces](https://www.npr.org/sections/health-shots/2023/05/15/1175889585/hospitals-create-police-forces-to-stem-growing-violence-against-staff)
 * [2023-05-16, 00:20:47](https://news.ycombinator.com/item?id=35956333) - [Ken Griffin’s Hand-Picked Math Prodigy Runs Market-Making Empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
 * [2023-05-16, 00:14:49](https://news.ycombinator.com/item?id=35956295) - [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
