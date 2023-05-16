@@ -15,6 +15,7 @@
 * [2023-05-16, 00:46:43](https://news.ycombinator.com/item?id=35956484) - [LMQL: A query language for programming (large) language models](https://github.com/eth-sri/lmql)
 * [2023-05-16, 00:14:49](https://news.ycombinator.com/item?id=35956295) - [Vint Cerf’s career advice for engineers](https://spectrum.ieee.org/vint-cerf-advice)
 * [2023-05-16, 00:13:53](https://news.ycombinator.com/item?id=35956287) - [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
+* [2023-05-15, 23:54:18](https://news.ycombinator.com/item?id=35956144) - [Successful flight trial completion of unmanned aerial vehicle, MAGMA (2017)](https://www.baesystems.com/en/article/first-magma-flight-trials)
 * [2023-05-15, 22:25:42](https://news.ycombinator.com/item?id=35955336) - [My 20 year career is technical debt or deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
 * [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
@@ -28,7 +29,6 @@
 * [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 * [2023-05-14, 12:17:03](https://news.ycombinator.com/item?id=35937419) - [Digital Audio Workstation Front End Development Struggles](https://billydm.github.io/blog/daw-frontend-development-struggles/)
 * [2023-05-14, 10:03:59](https://news.ycombinator.com/item?id=35936828) - [Artists must be allowed to make bad work](https://austinkleon.com/2023/05/07/artists-must-be-allowed-to-make-bad-work/)
-* [2023-05-14, 09:34:38](https://news.ycombinator.com/item?id=35936665) - [Learn Makefiles with the Tastiest Examples](https://makefiletutorial.com/#top)
 * [2023-05-14, 06:28:53](https://news.ycombinator.com/item?id=35935796) - [Get started making music](https://learningmusic.ableton.com/)
 
 ## [Archives](archives/index.md)
