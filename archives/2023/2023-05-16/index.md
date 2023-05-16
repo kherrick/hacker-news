@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 18:50:25](https://news.ycombinator.com/item?id=35966011) - [ChatGPT chief calls for new agency to license AI systems in Congress testimony](https://thepeninsulaqatar.com/article/16/05/2023/chatgpt-chief-calls-for-new-agency-to-license-ai-systems-in-congress-testimony)
+* [2023-05-16, 18:49:38](https://news.ycombinator.com/item?id=35966001) - [Majority of EU countries support scanning of audio communications](https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/)
+* [2023-05-16, 18:40:26](https://news.ycombinator.com/item?id=35965896) - [US Secret Service: “blockchain is an opportunity to track money”](https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money)
 * [2023-05-16, 18:09:04](https://news.ycombinator.com/item?id=35965541) - [One man&#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
 * [2023-05-16, 18:04:36](https://news.ycombinator.com/item?id=35965486) - [Should we normalize ephemeral businesses?](https://anu.substack.com/p/the-generational-business-trap)
 * [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun v0.6.0 – Bun&#x27;s new JavaScript bundler and minifier](https://bun.sh/blog/bun-v0.6.0)
@@ -11,6 +14,7 @@
 * [2023-05-16, 17:40:37](https://news.ycombinator.com/item?id=35965197) - [“My Daughter’s Murder Wasn’t Enough”: A Uvalde Mother Fights Back](https://www.texasmonthly.com/news-politics/uvalde-shooting-mother-grief-one-year-anniversary-gun-control/)
 * [2023-05-16, 17:39:53](https://news.ycombinator.com/item?id=35965186) - [Renewables supplied 65% of new US utility-scale generating capacity in Q1 2023](https://electrek.co/2023/05/15/renewables-us-utility-scale-generating-capacity-q1-2023/)
 * [2023-05-16, 17:08:44](https://news.ycombinator.com/item?id=35964763) - [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
+* [2023-05-16, 17:00:55](https://news.ycombinator.com/item?id=35964640) - [Show HN: Neucards – Privacy based digital contact card](https://www.neucards.com)
 * [2023-05-16, 17:00:24](https://news.ycombinator.com/item?id=35964635) - [Microsoft will upgrade Windows 10 21H2 users whether they like it or not](https://www.theregister.com/2023/05/15/windows_10_21h2_support/)
 * [2023-05-16, 16:46:30](https://news.ycombinator.com/item?id=35964424) - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
 * [2023-05-16, 16:44:49](https://news.ycombinator.com/item?id=35964397) - [Mullvad Leta (Search Engine)](https://leta.mullvad.net/)
