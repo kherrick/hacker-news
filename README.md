@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-16, 23:02:14](https://news.ycombinator.com/item?id=35968911) - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
-* [2023-05-16, 22:26:07](https://news.ycombinator.com/item?id=35968604) - [Businesses are in for a mighty debt hangover](https://www.economist.com/business/2023/05/16/businesses-are-in-for-a-mighty-debt-hangover)
 * [2023-05-16, 21:42:54](https://news.ycombinator.com/item?id=35968148) - [On the foolishness of “natural language programming”](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
 * [2023-05-16, 21:01:15](https://news.ycombinator.com/item?id=35967704) - [Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 * [2023-05-16, 20:48:06](https://news.ycombinator.com/item?id=35967549) - [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
@@ -30,6 +29,7 @@
 * [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
 * [2023-05-15, 10:48:57](https://news.ycombinator.com/item?id=35946181) - [Why we created Taxi, and why we felt the need for another schema language](https://orbitalhq.com/blog/2023-05-12-why-we-created-taxi)
 * [2023-05-15, 07:54:47](https://news.ycombinator.com/item?id=35945006) - [How to Play Hextraction](https://www.playhextraction.com/how-to-play)
+* [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)
 
