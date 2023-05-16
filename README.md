@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 12:52:14](https://news.ycombinator.com/item?id=35961170) - [Apple is now worth more than the entire Russell 2000](https://www.marketwatch.com/story/a-stock-market-milestone-apple-is-now-worth-more-than-the-entire-russell-2000-e2dc3f75)
 * [2023-05-16, 12:07:00](https://news.ycombinator.com/item?id=35960663) - [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
 * [2023-05-16, 12:00:46](https://news.ycombinator.com/item?id=35960606) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-16, 11:08:38](https://news.ycombinator.com/item?id=35960139) - [Ask HN: Has journaling improved your life?](https://news.ycombinator.com/item?id=35960139)
@@ -15,7 +16,6 @@
 * [2023-05-16, 01:40:05](https://news.ycombinator.com/item?id=35956837) - [Ultimate Electronics (2021)](https://ultimateelectronicsbook.com/)
 * [2023-05-16, 00:46:43](https://news.ycombinator.com/item?id=35956484) - [LMQL: A query language for programming (large) language models](https://github.com/eth-sri/lmql)
 * [2023-05-16, 00:14:49](https://news.ycombinator.com/item?id=35956295) - [Vint Cerf’s career advice for engineers](https://spectrum.ieee.org/vint-cerf-advice)
-* [2023-05-16, 00:13:53](https://news.ycombinator.com/item?id=35956287) - [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
 * [2023-05-15, 22:25:42](https://news.ycombinator.com/item?id=35955336) - [My 20 year career is technical debt or deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
 * [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
