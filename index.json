@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-16, 18:04:36",
+      "https://news.ycombinator.com/item?id=35965486"
+    ],
+    [
+      "Should we normalize ephemeral businesses?",
+      "https://anu.substack.com/p/the-generational-business-trap"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 18:04:20",
       "https://news.ycombinator.com/item?id=35965483"
     ],
@@ -37,16 +47,6 @@
     [
       "US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI",
       "https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 17:00:24",
-      "https://news.ycombinator.com/item?id=35964635"
-    ],
-    [
-      "Microsoft will upgrade Windows 10 21H2 users whether they like it or not",
-      "https://www.theregister.com/2023/05/15/windows_10_21h2_support/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2023-05-16, 09:32:50",
+      "https://news.ycombinator.com/item?id=35959482"
+    ],
+    [
+      "Why `fsync()`: Losing unsynced data on a single node leads to global data loss",
+      "https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 07:30:18",
       "https://news.ycombinator.com/item?id=35958715"
     ],
@@ -277,16 +287,6 @@
     [
       "Pixpaint",
       "https://warms.maxbittker.repl.co/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 12:17:03",
-      "https://news.ycombinator.com/item?id=35937419"
-    ],
-    [
-      "Digital Audio Workstation Front End Development Struggles",
-      "https://billydm.github.io/blog/daw-frontend-development-struggles/"
     ]
   ],
   [
