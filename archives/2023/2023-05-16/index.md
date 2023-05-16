@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 16:23:50](https://news.ycombinator.com/item?id=35964081) - [AA CEO tells pilots the carrier to increase pay to up to $590k a year](https://www.cnbc.com/2023/03/08/american-airlines-vows-pilot-pay-raises.html)
 * [2023-05-16, 16:20:10](https://news.ycombinator.com/item?id=35964018) - [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
 * [2023-05-16, 15:27:46](https://news.ycombinator.com/item?id=35963163) - [Texas professor fails entire class from graduating- claiming they used ChatGTP](https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/)
 * [2023-05-16, 15:21:40](https://news.ycombinator.com/item?id=35963074) - [Warren Buffett’s Berkshire Hathaway sells entire stake in TSMC](https://www.cnn.com/2023/05/16/investing/berkshire-hathaway-taiwan-tsmc-stock-exit-hnk-intl/index.html)
 * [2023-05-16, 15:21:15](https://news.ycombinator.com/item?id=35963064) - [ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems](https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a)
 * [2023-05-16, 14:51:24](https://news.ycombinator.com/item?id=35962675) - [Average Age of Cars on U.S. Roads Hits 12.5 Years, a Record High](https://www.thedrive.com/news/average-age-of-cars-on-us-roads-hits-12-5-years-a-record-high)
+* [2023-05-16, 14:50:32](https://news.ycombinator.com/item?id=35962667) - [Chosen-prefix collision for SHA-1](https://sha-mbles.github.io/)
 * [2023-05-16, 14:16:12](https://news.ycombinator.com/item?id=35962213) - [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 13:44:55](https://news.ycombinator.com/item?id=35961817) - [Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)
 * [2023-05-16, 13:36:44](https://news.ycombinator.com/item?id=35961700) - [Erlang&#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
