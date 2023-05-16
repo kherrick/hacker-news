@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-16, 10:52:47",
+      "https://news.ycombinator.com/item?id=35960018"
+    ],
+    [
+      "Widely used chemical strongly linked to Parkinson’s disease",
+      "https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 10:49:29",
+      "https://news.ycombinator.com/item?id=35959991"
+    ],
+    [
+      "Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy",
+      "https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 10:32:00",
       "https://news.ycombinator.com/item?id=35959865"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35958876"
     ],
     [
-      "European bird populations decrease by a quarter, farming to blame",
+      "Farmland practices are driving bird population decline across Europe",
       "https://www.pnas.org/doi/full/10.1073/pnas.2216573120"
     ]
   ],
@@ -177,26 +197,6 @@
     [
       "Translating Akkadian clay tablets with ChatGPT?",
       "http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 19:23:54",
-      "https://news.ycombinator.com/item?id=35953286"
-    ],
-    [
-      "random(random(random(random())))",
-      "https://openprocessing.org/sketch/1575230/"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 19:12:26",
-      "https://news.ycombinator.com/item?id=35953171"
-    ],
-    [
-      "Server-sent events",
-      "https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events"
     ]
   ],
   [
