@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 16:20:10](https://news.ycombinator.com/item?id=35964018) - [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
 * [2023-05-16, 15:27:46](https://news.ycombinator.com/item?id=35963163) - [Texas professor fails entire class from graduating- claiming they used ChatGTP](https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/)
 * [2023-05-16, 15:21:40](https://news.ycombinator.com/item?id=35963074) - [Warren Buffett’s Berkshire Hathaway sells entire stake in TSMC](https://www.cnn.com/2023/05/16/investing/berkshire-hathaway-taiwan-tsmc-stock-exit-hnk-intl/index.html)
 * [2023-05-16, 15:21:15](https://news.ycombinator.com/item?id=35963064) - [ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems](https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a)
