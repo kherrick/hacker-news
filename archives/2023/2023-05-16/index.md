@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus – The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970)
 * [2023-05-16, 03:53:49](https://news.ycombinator.com/item?id=35957582) - [Netflix’s Queen Cleopatra Appears to Have the Worst Audience Score in TV History](https://www.forbes.com/sites/paultassi/2023/05/15/netflixs-queen-cleopatra-appears-to-have-the-worst-audience-score-in-tv-history/)
 * [2023-05-16, 02:06:55](https://news.ycombinator.com/item?id=35957039) - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
 * [2023-05-16, 01:47:46](https://news.ycombinator.com/item?id=35956900) - [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus – The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970)
 * [2023-05-16, 02:06:55](https://news.ycombinator.com/item?id=35957039) - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
 * [2023-05-16, 01:47:46](https://news.ycombinator.com/item?id=35956900) - [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
 * [2023-05-16, 01:40:05](https://news.ycombinator.com/item?id=35956837) - [Ultimate Electronics (2021)](https://ultimateelectronicsbook.com/)
@@ -9,7 +10,6 @@
 * [2023-05-16, 00:13:53](https://news.ycombinator.com/item?id=35956287) - [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
 * [2023-05-15, 23:54:18](https://news.ycombinator.com/item?id=35956144) - [Successful flight trial completion of unmanned aerial vehicle, MAGMA (2017)](https://www.baesystems.com/en/article/first-magma-flight-trials)
 * [2023-05-15, 22:25:42](https://news.ycombinator.com/item?id=35955336) - [My 20 year career is technical debt or deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
-* [2023-05-15, 22:05:49](https://news.ycombinator.com/item?id=35955155) - [Show HN: Hat-syslog – Syslog Server with real time web UI](https://github.com/hat-open/hat-syslog)
 * [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
@@ -24,7 +24,7 @@
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-source privacy-focused voice assistant hardware](https://github.com/toverainc/willow)
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-15, 04:53:30](https://news.ycombinator.com/item?id=35944015) - [Self-Replace: A Utility For Self Replacing Executables](https://github.com/mitsuhiko/self-replace)
-* [2023-05-14, 23:57:48](https://news.ycombinator.com/item?id=35942500) - [The Miracle of Pakistani Tekken](https://www.youtube.com/watch?v=l2SQgjYmVYY)
+* [2023-05-14, 23:57:48](https://news.ycombinator.com/item?id=35942500) - [The Miracle of Pakistani Tekken (2022) [video]](https://www.youtube.com/watch?v=l2SQgjYmVYY)
 * [2023-05-14, 12:47:47](https://news.ycombinator.com/item?id=35937554) - [High Performance Browser Networking](https://hpbn.co/)
 * [2023-05-14, 12:17:03](https://news.ycombinator.com/item?id=35937419) - [Digital Audio Workstation Front End Development Struggles](https://billydm.github.io/blog/daw-frontend-development-struggles/)
 * [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good career move, terrible career (2018)](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
