@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-16, 03:53:49](https://news.ycombinator.com/item?id=35957582) - [Netflix’s Queen Cleopatra Appears to Have the Worst Audience Score in TV History](https://www.forbes.com/sites/paultassi/2023/05/15/netflixs-queen-cleopatra-appears-to-have-the-worst-audience-score-in-tv-history/)
 * [2023-05-16, 02:06:55](https://news.ycombinator.com/item?id=35957039) - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
 * [2023-05-16, 01:47:46](https://news.ycombinator.com/item?id=35956900) - [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
 * [2023-05-16, 01:40:05](https://news.ycombinator.com/item?id=35956837) - [Ultimate Electronics (2021)](https://ultimateelectronicsbook.com/)
@@ -27,6 +26,7 @@
 * [2023-05-15, 04:53:30](https://news.ycombinator.com/item?id=35944015) - [Self-Replace: A Utility For Self Replacing Executables](https://github.com/mitsuhiko/self-replace)
 * [2023-05-14, 23:57:48](https://news.ycombinator.com/item?id=35942500) - [The Miracle of Pakistani Tekken](https://www.youtube.com/watch?v=l2SQgjYmVYY)
 * [2023-05-14, 12:47:47](https://news.ycombinator.com/item?id=35937554) - [High Performance Browser Networking](https://hpbn.co/)
+* [2023-05-14, 12:17:03](https://news.ycombinator.com/item?id=35937419) - [Digital Audio Workstation Front End Development Struggles](https://billydm.github.io/blog/daw-frontend-development-struggles/)
 * [2023-05-14, 10:26:42](https://news.ycombinator.com/item?id=35936915) - [Writing: Good career move, terrible career (2018)](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 * [2023-05-14, 09:34:38](https://news.ycombinator.com/item?id=35936665) - [Learn Makefiles with the Tastiest Examples](https://makefiletutorial.com/#top)
 * [2023-05-14, 06:28:53](https://news.ycombinator.com/item?id=35935796) - [Get started making music](https://learningmusic.ableton.com/)

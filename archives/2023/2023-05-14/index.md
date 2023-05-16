@@ -42,6 +42,7 @@
 * [2023-05-14, 12:43:32](https://news.ycombinator.com/item?id=35937540) - [The Mysterious Dodecahedrons of the Roman Empire](https://www.atlasobscura.com/articles/dodecahedrons-roman-empire)
 * [2023-05-14, 12:35:24](https://news.ycombinator.com/item?id=35937505) - [How to run Llama 13B with a 6GB graphics card](https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc)
 * [2023-05-14, 12:26:36](https://news.ycombinator.com/item?id=35937464) - [Building a Front End Framework; Reactivity, Composability with No Dependencies](https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html)
+* [2023-05-14, 12:17:03](https://news.ycombinator.com/item?id=35937419) - [Digital Audio Workstation Front End Development Struggles](https://billydm.github.io/blog/daw-frontend-development-struggles/)
 * [2023-05-14, 12:07:49](https://news.ycombinator.com/item?id=35937375) - [The World is Built on Probability [1988&#x2F;2023]](https://archive.org/details/lev-tarasov-the-world-is-built-on-probability-mir-2023)
 * [2023-05-14, 12:00:27](https://news.ycombinator.com/item?id=35937338) - [Tavus (YC S21) is hiring ML and full stack engineers](https://www.tavus.io/careers)
 * [2023-05-14, 11:58:24](https://news.ycombinator.com/item?id=35937324) - [All the Media Outlets Are Dying. What the Hell Comes Next?](https://thewalrus.ca/buzzfeed-news/)
