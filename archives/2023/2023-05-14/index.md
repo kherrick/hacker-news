@@ -16,6 +16,7 @@
 * [2023-05-14, 21:35:06](https://news.ycombinator.com/item?id=35941533) - [Vore: A new RSS feed reader](https://j3s.sh/thought/vore-a-new-rss-feed-reader.html)
 * [2023-05-14, 21:31:56](https://news.ycombinator.com/item?id=35941503) - [The day you became a better writer (2007)](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
 * [2023-05-14, 21:21:12](https://news.ycombinator.com/item?id=35941436) - [Pimoroni Badger W display server](https://github.com/ulrischa/badger_server_display)
+* [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 * [2023-05-14, 21:00:03](https://news.ycombinator.com/item?id=35941315) - [How to Entertain with Your Pocket Calculator (1975)](https://archive.org/details/htewypc)
 * [2023-05-14, 20:40:51](https://news.ycombinator.com/item?id=35941200) - [Off-grid solar brings light, time and income to remotest villages](https://apnews.com/article/offgrid-solar-electrification-indonesia-0991d77d68f879c4daa12e7d3dfd97ee)
 * [2023-05-14, 20:38:25](https://news.ycombinator.com/item?id=35941183) - [ARM or x86? ISA Doesn’t Matter](https://chipsandcheese.com/2021/07/13/arm-or-x86-isa-doesnt-matter/)
