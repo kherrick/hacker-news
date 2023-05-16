@@ -90,6 +90,7 @@
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-15, 05:12:09](https://news.ycombinator.com/item?id=35944094) - [The ocean’s largest shark has a little something to say](https://www.atlasobscura.com/articles/whale-shark-sounds)
 * [2023-05-15, 04:53:30](https://news.ycombinator.com/item?id=35944015) - [Self-Replace: A Utility For Self Replacing Executables](https://github.com/mitsuhiko/self-replace)
+* [2023-05-15, 04:52:52](https://news.ycombinator.com/item?id=35944010) - [The World Atlas of Languages](https://en.wal.unesco.org/discover/languages)
 * [2023-05-15, 04:22:31](https://news.ycombinator.com/item?id=35943863) - [All Roll Is B-Roll: Adam Curtis Goes Quiet](https://www.thedriftmag.com/all-roll-is-b-roll/)
 * [2023-05-15, 04:18:06](https://news.ycombinator.com/item?id=35943836) - [F-Droid interview featuring Sylvia von OS and Hans-Christoph Steiner [audio]](https://fossandcrafts.org/episodes/057-f-droid.html)
 * [2023-05-15, 04:11:18](https://news.ycombinator.com/item?id=35943808) - [Bard API](https://github.com/dsdanielpark/Bard-API)
