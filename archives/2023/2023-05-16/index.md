@@ -9,6 +9,7 @@
 * [2023-05-16, 15:21:15](https://news.ycombinator.com/item?id=35963064) - [ChatGPT’s Sam Altman Calls on Congress to Adopt Safety Standards for AI Systems](https://www.wsj.com/articles/chatgpts-sam-altman-faces-senate-panel-examining-artificial-intelligence-4bb6942a)
 * [2023-05-16, 14:51:24](https://news.ycombinator.com/item?id=35962675) - [Average Age of Cars on U.S. Roads Hits 12.5 Years, a Record High](https://www.thedrive.com/news/average-age-of-cars-on-us-roads-hits-12-5-years-a-record-high)
 * [2023-05-16, 14:16:12](https://news.ycombinator.com/item?id=35962213) - [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
+* [2023-05-16, 13:44:55](https://news.ycombinator.com/item?id=35961817) - [Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)
 * [2023-05-16, 13:36:44](https://news.ycombinator.com/item?id=35961700) - [Erlang&#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 * [2023-05-16, 13:36:34](https://news.ycombinator.com/item?id=35961697) - [Goodbye, section 2.8 and hello to Cloudflare’s new terms of service](https://blog.cloudflare.com/updated-tos/)
 * [2023-05-16, 13:32:48](https://news.ycombinator.com/item?id=35961657) - [Tutanota – Revolutionary Changes Ahead](https://tutanota.com/blog/announcement-2023)

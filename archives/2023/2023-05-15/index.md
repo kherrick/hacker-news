@@ -36,6 +36,7 @@
 * [2023-05-15, 16:50:00](https://news.ycombinator.com/item?id=35951086) - [Blizzard says mandatory return-to-office policy has &#x27;cost some amazing people&#x27;](https://www.pcgamer.com/blizzard-developers-say-mandatory-return-to-office-policy-has-cost-us-some-amazing-people/)
 * [2023-05-15, 16:45:08](https://news.ycombinator.com/item?id=35951031) - [American Hippopotamus](https://magazine.atavist.com/american-hippopotamus/)
 * [2023-05-15, 16:44:30](https://news.ycombinator.com/item?id=35951023) - [Together’s $20M seed funding to build open-source AI and cloud platform](https://www.together.xyz/blog/seed-funding)
+* [2023-05-15, 16:37:24](https://news.ycombinator.com/item?id=35950921) - [So, How Do You Refill an Aquifer?](https://heatmap.news/technology/so-how-do-you-actually-refill-an-aquifer)
 * [2023-05-15, 16:34:51](https://news.ycombinator.com/item?id=35950881) - [Page Does Not Exist](https://thispagedoesnotexist.com/)
 * [2023-05-15, 16:31:29](https://news.ycombinator.com/item?id=35950836) - [IRS tests free e-filing system that could compete with tax prep giants](https://www.washingtonpost.com/business/2023/05/15/irs-free-file/)
 * [2023-05-15, 16:23:18](https://news.ycombinator.com/item?id=35950716) - [Taxonomy of Procrastination](https://dynomight.net/procrastination/)
