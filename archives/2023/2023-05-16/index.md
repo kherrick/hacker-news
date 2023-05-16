@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 14:51:24](https://news.ycombinator.com/item?id=35962675) - [Average Age of Cars on U.S. Roads Hits 12.5 Years, a Record High](https://www.thedrive.com/news/average-age-of-cars-on-us-roads-hits-12-5-years-a-record-high)
 * [2023-05-16, 14:16:12](https://news.ycombinator.com/item?id=35962213) - [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 13:36:44](https://news.ycombinator.com/item?id=35961700) - [Erlang&#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 * [2023-05-16, 13:36:34](https://news.ycombinator.com/item?id=35961697) - [Goodbye, section 2.8 and hello to Cloudflare’s new terms of service](https://blog.cloudflare.com/updated-tos/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 14:51:24](https://news.ycombinator.com/item?id=35962675) - [Average Age of Cars on U.S. Roads Hits 12.5 Years, a Record High](https://www.thedrive.com/news/average-age-of-cars-on-us-roads-hits-12-5-years-a-record-high)
 * [2023-05-16, 14:16:12](https://news.ycombinator.com/item?id=35962213) - [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 13:36:44](https://news.ycombinator.com/item?id=35961700) - [Erlang&#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 * [2023-05-16, 13:36:34](https://news.ycombinator.com/item?id=35961697) - [Goodbye, section 2.8 and hello to Cloudflare’s new terms of service](https://blog.cloudflare.com/updated-tos/)
-* [2023-05-16, 13:32:48](https://news.ycombinator.com/item?id=35961657) - [Tutanota – Revolutionary Changes Ahead](https://tutanota.com/blog/announcement-2023)
 * [2023-05-16, 13:27:56](https://news.ycombinator.com/item?id=35961590) - [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
 * [2023-05-16, 13:04:34](https://news.ycombinator.com/item?id=35961309) - [Experiments in Making Cocktail Ice](https://www.alcademics.com/index-of-ice-experiments-on-alcademics.html)
 * [2023-05-16, 12:07:00](https://news.ycombinator.com/item?id=35960663) - [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
