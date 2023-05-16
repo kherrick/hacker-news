@@ -6,6 +6,7 @@
 
 * [2023-05-16, 17:44:33](https://news.ycombinator.com/item?id=35965253) - [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
 * [2023-05-16, 17:40:37](https://news.ycombinator.com/item?id=35965197) - [“My Daughter’s Murder Wasn’t Enough”: A Uvalde Mother Fights Back](https://www.texasmonthly.com/news-politics/uvalde-shooting-mother-grief-one-year-anniversary-gun-control/)
+* [2023-05-16, 17:39:53](https://news.ycombinator.com/item?id=35965186) - [Renewables supplied 65% of new US utility-scale generating capacity in Q1 2023](https://electrek.co/2023/05/15/renewables-us-utility-scale-generating-capacity-q1-2023/)
 * [2023-05-16, 17:08:44](https://news.ycombinator.com/item?id=35964763) - [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
 * [2023-05-16, 17:00:24](https://news.ycombinator.com/item?id=35964635) - [Microsoft will upgrade Windows 10 21H2 users whether they like it or not](https://www.theregister.com/2023/05/15/windows_10_21h2_support/)
 * [2023-05-16, 16:46:30](https://news.ycombinator.com/item?id=35964424) - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
