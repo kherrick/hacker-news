@@ -6,6 +6,7 @@
 
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus – The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970)
+* [2023-05-16, 04:40:41](https://news.ycombinator.com/item?id=35957814) - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
 * [2023-05-16, 04:40:32](https://news.ycombinator.com/item?id=35957811) - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
 * [2023-05-16, 03:53:49](https://news.ycombinator.com/item?id=35957582) - [Netflix’s Queen Cleopatra Appears to Have the Worst Audience Score in TV History](https://www.forbes.com/sites/paultassi/2023/05/15/netflixs-queen-cleopatra-appears-to-have-the-worst-audience-score-in-tv-history/)
 * [2023-05-16, 02:06:55](https://news.ycombinator.com/item?id=35957039) - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
