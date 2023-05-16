@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 19:53:34](https://news.ycombinator.com/item?id=35966890) - [What&#x27;s special about Erlang and Elixir?](https://news.ycombinator.com/item?id=35966890)
 * [2023-05-16, 19:27:58](https://news.ycombinator.com/item?id=35966550) - [Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down](https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/)
 * [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [Remembering John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language](http://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 19:13:32](https://news.ycombinator.com/item?id=35966318) - [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)

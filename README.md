@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 19:53:34](https://news.ycombinator.com/item?id=35966890) - [What&#x27;s special about Erlang and Elixir?](https://news.ycombinator.com/item?id=35966890)
 * [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language (2020)](http://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 19:13:32](https://news.ycombinator.com/item?id=35966318) - [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
 * [2023-05-16, 19:05:34](https://news.ycombinator.com/item?id=35966210) - [Why KDE Plasma was chosen as the default desktop environment for Asahi Linux](https://social.treehouse.systems/@marcan/110366434912340959)
@@ -22,7 +23,6 @@
 * [2023-05-16, 11:06:54](https://news.ycombinator.com/item?id=35960125) - [Sam Altman goes before US Congress to propose licenses for building AI](https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/)
 * [2023-05-16, 10:52:47](https://news.ycombinator.com/item?id=35960018) - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
 * [2023-05-16, 10:49:29](https://news.ycombinator.com/item?id=35959991) - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
-* [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
 * [2023-05-15, 16:37:24](https://news.ycombinator.com/item?id=35950921) - [So, how do you refill an aquifer?](https://heatmap.news/technology/so-how-do-you-actually-refill-an-aquifer)
 * [2023-05-15, 15:38:26](https://news.ycombinator.com/item?id=35949995) - [How Does a TLS Handshake Work?](https://venafi.com/blog/how-does-a-tls-handshake-work/)
 * [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
