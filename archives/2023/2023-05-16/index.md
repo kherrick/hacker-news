@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 23:02:14](https://news.ycombinator.com/item?id=35968911) - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
 * [2023-05-16, 22:26:07](https://news.ycombinator.com/item?id=35968604) - [Businesses are in for a mighty debt hangover](https://www.economist.com/business/2023/05/16/businesses-are-in-for-a-mighty-debt-hangover)
 * [2023-05-16, 21:42:54](https://news.ycombinator.com/item?id=35968148) - [On the foolishness of “natural language programming”](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
 * [2023-05-16, 21:16:09](https://news.ycombinator.com/item?id=35967850) - [GitHub Incident](https://www.githubstatus.com/incidents/v2xjymn61dv8)
@@ -34,6 +35,7 @@
 * [2023-05-16, 16:46:30](https://news.ycombinator.com/item?id=35964424) - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
 * [2023-05-16, 16:44:49](https://news.ycombinator.com/item?id=35964397) - [Mullvad Leta (Search Engine)](https://leta.mullvad.net/)
 * [2023-05-16, 16:40:54](https://news.ycombinator.com/item?id=35964335) - [The Bookmarking Data Model Is Wrong for Highlighting](https://lgug2z.com/articles/the-bookmarking-data-model-is-wrong-for-highlighting/)
+* [2023-05-16, 16:36:23](https://news.ycombinator.com/item?id=35964281) - [Show HN: My solar-powered, ePaper digital photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
 * [2023-05-16, 16:23:50](https://news.ycombinator.com/item?id=35964081) - [AA CEO tells pilots the carrier to increase pay to up to $590k a year](https://www.cnbc.com/2023/03/08/american-airlines-vows-pilot-pay-raises.html)
 * [2023-05-16, 16:20:10](https://news.ycombinator.com/item?id=35964018) - [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
 * [2023-05-16, 16:14:11](https://news.ycombinator.com/item?id=35963936) - [A guidance language for controlling LLMs](https://github.com/microsoft/guidance)
