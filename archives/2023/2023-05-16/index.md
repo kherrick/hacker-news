@@ -7,6 +7,7 @@
 * [2023-05-16, 21:16:09](https://news.ycombinator.com/item?id=35967850) - [GitHub Incident](https://www.githubstatus.com/incidents/v2xjymn61dv8)
 * [2023-05-16, 21:01:15](https://news.ycombinator.com/item?id=35967704) - [Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 * [2023-05-16, 20:48:06](https://news.ycombinator.com/item?id=35967549) - [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
+* [2023-05-16, 20:40:47](https://news.ycombinator.com/item?id=35967458) - [The RedMonk Programming Language Rankings: January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/)
 * [2023-05-16, 20:33:47](https://news.ycombinator.com/item?id=35967381) - [Framework Laptop 13 review: a DIY dream come true](https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review)
 * [2023-05-16, 19:53:34](https://news.ycombinator.com/item?id=35966890) - [What&#x27;s special about Erlang and Elixir?](https://news.ycombinator.com/item?id=35966890)
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
