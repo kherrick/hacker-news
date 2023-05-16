@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 17:08:44](https://news.ycombinator.com/item?id=35964763) - [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
 * [2023-05-16, 17:00:24](https://news.ycombinator.com/item?id=35964635) - [Microsoft will upgrade Windows 10 21H2 users whether they like it or not](https://www.theregister.com/2023/05/15/windows_10_21h2_support/)
 * [2023-05-16, 16:46:30](https://news.ycombinator.com/item?id=35964424) - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
 * [2023-05-16, 16:44:49](https://news.ycombinator.com/item?id=35964397) - [Mullvad Leta (Search Engine)](https://leta.mullvad.net/)
