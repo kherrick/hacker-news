@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-16, 19:27:33",
+      "https://news.ycombinator.com/item?id=35966543"
+    ],
+    [
+      "EU Artificial Intelligence Act",
+      "https://artificialintelligenceact.eu/"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 19:27:18",
       "https://news.ycombinator.com/item?id=35966537"
     ],
@@ -37,16 +47,6 @@
     [
       "Why KDE Plasma was chosen as the default desktop environment for Asahi Linux",
       "https://social.treehouse.systems/@marcan/110366434912340959"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 18:49:38",
-      "https://news.ycombinator.com/item?id=35966001"
-    ],
-    [
-      "Majority of EU countries support scanning of audio communications",
-      "https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-05-16, 12:06:56",
-      "https://news.ycombinator.com/item?id=35960662"
-    ],
-    [
-      "Why you should still read the docs",
-      "https://death.andgravity.com/output"
-    ]
-  ],
-  [
-    [
       "2023-05-16, 12:00:46",
       "https://news.ycombinator.com/item?id=35960606"
     ],
@@ -227,6 +217,16 @@
     [
       "Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy",
       "https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 00:12:01",
+      "https://news.ycombinator.com/item?id=35956275"
+    ],
+    [
+      "Verifying Dynamic Trait Objects in Rust (2022)",
+      "https://dl.acm.org/doi/pdf/10.1145/3510457.3513031"
     ]
   ],
   [
