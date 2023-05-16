@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [Remembering John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language](http://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 19:13:32](https://news.ycombinator.com/item?id=35966318) - [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
 * [2023-05-16, 18:50:25](https://news.ycombinator.com/item?id=35966011) - [ChatGPT chief calls for new agency to license AI systems in Congress testimony](https://thepeninsulaqatar.com/article/16/05/2023/chatgpt-chief-calls-for-new-agency-to-license-ai-systems-in-congress-testimony)
-* [2023-05-16, 18:49:38](https://news.ycombinator.com/item?id=35966001) - [Majority of EU countries support scanning of audio communications](https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/)
 * [2023-05-16, 18:40:26](https://news.ycombinator.com/item?id=35965896) - [US Secret Service: “blockchain is an opportunity to track money”](https://coinpaper.com/1505/us-secret-service-blockchain-is-an-amazing-opportunity-to-track-money)
 * [2023-05-16, 18:09:04](https://news.ycombinator.com/item?id=35965541) - [One man&#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
 * [2023-05-16, 18:05:52](https://news.ycombinator.com/item?id=35965496) - [Colossal Biosciences Aims to ‘De-Extinct’ the Woolly Mammoth](https://blogs.nvidia.com/blog/2023/05/16/colossal-biosciences-de-extinct-woolly-mammoth-parabricks/)
@@ -23,11 +23,11 @@
 * [2023-05-16, 10:52:47](https://news.ycombinator.com/item?id=35960018) - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
 * [2023-05-16, 10:49:29](https://news.ycombinator.com/item?id=35959991) - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
 * [2023-05-16, 04:40:41](https://news.ycombinator.com/item?id=35957814) - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
-* [2023-05-16, 04:40:32](https://news.ycombinator.com/item?id=35957811) - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
 * [2023-05-15, 16:37:24](https://news.ycombinator.com/item?id=35950921) - [So, how do you refill an aquifer?](https://heatmap.news/technology/so-how-do-you-actually-refill-an-aquifer)
 * [2023-05-15, 15:38:26](https://news.ycombinator.com/item?id=35949995) - [How Does a TLS Handshake Work?](https://venafi.com/blog/how-does-a-tls-handshake-work/)
 * [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
 * [2023-05-15, 10:48:57](https://news.ycombinator.com/item?id=35946181) - [Why we created Taxi, and why we felt the need for another schema language](https://orbitalhq.com/blog/2023-05-12-why-we-created-taxi)
+* [2023-05-15, 07:54:47](https://news.ycombinator.com/item?id=35945006) - [How to Play Hextraction](https://www.playhextraction.com/how-to-play)
 * [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 * [2023-05-14, 10:03:59](https://news.ycombinator.com/item?id=35936828) - [Artists must be allowed to make bad work](https://austinkleon.com/2023/05/07/artists-must-be-allowed-to-make-bad-work/)
 

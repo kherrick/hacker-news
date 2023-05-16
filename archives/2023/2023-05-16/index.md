@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [Remembering John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language](http://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 19:13:32](https://news.ycombinator.com/item?id=35966318) - [Updating our inactive account policies](https://blog.google/technology/safety-security/updating-our-inactive-account-policies/)
 * [2023-05-16, 18:50:25](https://news.ycombinator.com/item?id=35966011) - [ChatGPT chief calls for new agency to license AI systems in Congress testimony](https://thepeninsulaqatar.com/article/16/05/2023/chatgpt-chief-calls-for-new-agency-to-license-ai-systems-in-congress-testimony)
 * [2023-05-16, 18:49:38](https://news.ycombinator.com/item?id=35966001) - [Majority of EU countries support scanning of audio communications](https://www.euractiv.com/section/law-enforcement/news/majority-of-eu-countries-support-scanning-of-audio-communications/)
