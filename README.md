@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 16:46:30](https://news.ycombinator.com/item?id=35964424) - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
 * [2023-05-16, 16:20:10](https://news.ycombinator.com/item?id=35964018) - [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
 * [2023-05-16, 16:14:11](https://news.ycombinator.com/item?id=35963936) - [A guidance language for controlling LLMs](https://github.com/microsoft/guidance)
 * [2023-05-16, 15:27:46](https://news.ycombinator.com/item?id=35963163) - [Texas professor fails entire class from graduating- claiming they used ChatGTP](https://old.reddit.com/r/ChatGPT/comments/13isibz/texas_am_commerce_professor_fails_entire_class_of/)
@@ -19,7 +20,6 @@
 * [2023-05-16, 10:49:29](https://news.ycombinator.com/item?id=35959991) - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
 * [2023-05-16, 10:32:00](https://news.ycombinator.com/item?id=35959865) - [JPMorgan Chase &amp; Co tracks employees to dystopian extents](https://old.reddit.com/r/antiwork/comments/13ijhae/came_back_to_a_post_here_but_it_was_removed_from/)
 * [2023-05-16, 09:32:50](https://news.ycombinator.com/item?id=35959482) - [Why `fsync()`: Losing unsynced data on a single node leads to global data loss](https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols)
-* [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [Farmland practices are driving bird population decline across Europe](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 * [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
 * [2023-05-16, 04:40:41](https://news.ycombinator.com/item?id=35957814) - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 16:46:30](https://news.ycombinator.com/item?id=35964424) - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
 * [2023-05-16, 16:23:50](https://news.ycombinator.com/item?id=35964081) - [AA CEO tells pilots the carrier to increase pay to up to $590k a year](https://www.cnbc.com/2023/03/08/american-airlines-vows-pilot-pay-raises.html)
 * [2023-05-16, 16:20:10](https://news.ycombinator.com/item?id=35964018) - [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
 * [2023-05-16, 16:14:11](https://news.ycombinator.com/item?id=35963936) - [A guidance language for controlling LLMs](https://github.com/microsoft/guidance)
