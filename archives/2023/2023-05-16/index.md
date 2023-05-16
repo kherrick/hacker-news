@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 * [2023-05-16, 07:21:36](https://news.ycombinator.com/item?id=35958667) - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus – The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970)

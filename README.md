@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 * [2023-05-16, 07:21:36](https://news.ycombinator.com/item?id=35958667) - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
@@ -15,7 +16,6 @@
 * [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
-* [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Case study: fake hardware cryptowallet](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 * [2023-05-15, 20:46:28](https://news.ycombinator.com/item?id=35954259) - [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [random(random(random(random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
