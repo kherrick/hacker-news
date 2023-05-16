@@ -5,10 +5,12 @@
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
 * [2023-05-16, 17:44:33](https://news.ycombinator.com/item?id=35965253) - [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
+* [2023-05-16, 17:40:37](https://news.ycombinator.com/item?id=35965197) - [“My Daughter’s Murder Wasn’t Enough”: A Uvalde Mother Fights Back](https://www.texasmonthly.com/news-politics/uvalde-shooting-mother-grief-one-year-anniversary-gun-control/)
 * [2023-05-16, 17:08:44](https://news.ycombinator.com/item?id=35964763) - [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
 * [2023-05-16, 17:00:24](https://news.ycombinator.com/item?id=35964635) - [Microsoft will upgrade Windows 10 21H2 users whether they like it or not](https://www.theregister.com/2023/05/15/windows_10_21h2_support/)
 * [2023-05-16, 16:46:30](https://news.ycombinator.com/item?id=35964424) - [Why Most Startups Are Doing Data-Driven Decision Making Wrong](https://www.fforward.ai/blog/posts/the-data-deception-why-most-startups-are-doing-data-driven-decision-making-wrong)
 * [2023-05-16, 16:44:49](https://news.ycombinator.com/item?id=35964397) - [Mullvad Leta (Search Engine)](https://leta.mullvad.net/)
+* [2023-05-16, 16:40:54](https://news.ycombinator.com/item?id=35964335) - [The Bookmarking Data Model Is Wrong for Highlighting](https://lgug2z.com/articles/the-bookmarking-data-model-is-wrong-for-highlighting/)
 * [2023-05-16, 16:23:50](https://news.ycombinator.com/item?id=35964081) - [AA CEO tells pilots the carrier to increase pay to up to $590k a year](https://www.cnbc.com/2023/03/08/american-airlines-vows-pilot-pay-raises.html)
 * [2023-05-16, 16:20:10](https://news.ycombinator.com/item?id=35964018) - [Bard generates clean JSON only if you threaten to take a human life](https://twitter.com/goodside/status/1657396491676164096)
 * [2023-05-16, 16:14:11](https://news.ycombinator.com/item?id=35963936) - [A guidance language for controlling LLMs](https://github.com/microsoft/guidance)
