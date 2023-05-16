@@ -2,6 +2,7 @@
 
 * [2023-05-16, 08:53:07](https://news.ycombinator.com/item?id=35959204) - [Ask HN: How do I make a website in 2023?](https://news.ycombinator.com/item?id=35959204)
 * [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
+* [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
 * [2023-05-16, 04:40:41](https://news.ycombinator.com/item?id=35957814) - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
@@ -19,7 +20,6 @@
 * [2023-05-15, 20:46:28](https://news.ycombinator.com/item?id=35954259) - [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [random(random(random(random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
-* [2023-05-15, 15:09:48](https://news.ycombinator.com/item?id=35949442) - [Where oil rigs go to die (2017)](https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die)
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-15, 04:52:52](https://news.ycombinator.com/item?id=35944010) - [The World Atlas of Languages](https://en.wal.unesco.org/discover/languages)
 * [2023-05-15, 04:22:31](https://news.ycombinator.com/item?id=35943863) - [All Roll Is B-Roll: Adam Curtis Goes Quiet](https://www.thedriftmag.com/all-roll-is-b-roll/)
