@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 13:36:44](https://news.ycombinator.com/item?id=35961700) - [Erlang&#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)
 * [2023-05-16, 13:36:34](https://news.ycombinator.com/item?id=35961697) - [Goodbye, section 2.8 and hello to Cloudflare’s new terms of service](https://blog.cloudflare.com/updated-tos/)
 * [2023-05-16, 13:32:48](https://news.ycombinator.com/item?id=35961657) - [Tutanota – Revolutionary Changes Ahead](https://tutanota.com/blog/announcement-2023)
+* [2023-05-16, 13:27:56](https://news.ycombinator.com/item?id=35961590) - [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
 * [2023-05-16, 13:04:34](https://news.ycombinator.com/item?id=35961309) - [Experiments in Making Cocktail Ice](https://www.alcademics.com/index-of-ice-experiments-on-alcademics.html)
 * [2023-05-16, 12:52:14](https://news.ycombinator.com/item?id=35961170) - [Apple is now worth more than the entire Russell 2000](https://www.marketwatch.com/story/a-stock-market-milestone-apple-is-now-worth-more-than-the-entire-russell-2000-e2dc3f75)
 * [2023-05-16, 12:40:59](https://news.ycombinator.com/item?id=35961045) - [iPhones will be able to speak in your voice with 15 minutes of training](https://www.theverge.com/2023/5/16/23725237/iphone-personal-voice-speak-training-accessibility)
