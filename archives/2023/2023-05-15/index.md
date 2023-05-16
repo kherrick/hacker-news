@@ -42,6 +42,7 @@
 * [2023-05-15, 15:53:04](https://news.ycombinator.com/item?id=35950253) - [Cedar is an open source policy language and evaluation engine](https://github.com/cedar-policy)
 * [2023-05-15, 15:44:01](https://news.ycombinator.com/item?id=35950094) - [Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 * [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
+* [2023-05-15, 15:09:48](https://news.ycombinator.com/item?id=35949442) - [Where oil rigs go to die (2017)](https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die)
 * [2023-05-15, 15:08:18](https://news.ycombinator.com/item?id=35949414) - [Don’t use sugar substitutes for weight loss, World Health Organization advises](https://www.cnn.com/2023/05/15/health/who-sweeteners-weigh-loss-guideline-wellness/index.html)
 * [2023-05-15, 15:06:10](https://news.ycombinator.com/item?id=35949368) - [GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations](https://www.infoq.com/news/2023/05/gcc13-c2x-features/)
 * [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
