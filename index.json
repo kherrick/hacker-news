@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-05-16, 12:40:59",
-      "https://news.ycombinator.com/item?id=35961045"
-    ],
-    [
-      "iPhones will be able to speak in your voice with 15 minutes of training",
-      "https://www.theverge.com/2023/5/16/23725237/iphone-personal-voice-speak-training-accessibility"
-    ]
-  ],
-  [
-    [
       "2023-05-16, 12:07:00",
       "https://news.ycombinator.com/item?id=35960663"
     ],
@@ -121,12 +111,12 @@
   ],
   [
     [
-      "2023-05-16, 10:17:07",
-      "https://news.ycombinator.com/item?id=35959789"
+      "2023-05-16, 09:32:50",
+      "https://news.ycombinator.com/item?id=35959482"
     ],
     [
-      "Why are there no antitrust claims vs. GitHub Copilot, when there is a precedent?",
-      "https://thehftguy.com/2023/05/16/why-are-there-no-antitrust-claims-vs-github-copilot-when-there-is-a-precedent/"
+      "Why `fsync()`: Losing unsynced data on a single node leads to global data loss",
+      "https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "LMQL: A query language for programming (large) language models",
       "https://github.com/eth-sri/lmql"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 00:14:49",
+      "https://news.ycombinator.com/item?id=35956295"
+    ],
+    [
+      "Vint Cerf’s career advice for engineers",
+      "https://spectrum.ieee.org/vint-cerf-advice"
     ]
   ],
   [
