@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 10:52:47](https://news.ycombinator.com/item?id=35960018) - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
+* [2023-05-16, 10:49:29](https://news.ycombinator.com/item?id=35959991) - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
 * [2023-05-16, 10:32:00](https://news.ycombinator.com/item?id=35959865) - [JPMorgan Chase &amp; Co tracks employees to distopian extents](https://old.reddit.com/r/antiwork/comments/13ijhae/came_back_to_a_post_here_but_it_was_removed_from/)
 * [2023-05-16, 10:17:07](https://news.ycombinator.com/item?id=35959789) - [Why are there no antitrust claims vs. GitHub Copilot, when there is a precedent?](https://thehftguy.com/2023/05/16/why-are-there-no-antitrust-claims-vs-github-copilot-when-there-is-a-precedent/)
 * [2023-05-16, 08:53:07](https://news.ycombinator.com/item?id=35959204) - [Ask HN: How do I make a website in 2023?](https://news.ycombinator.com/item?id=35959204)
