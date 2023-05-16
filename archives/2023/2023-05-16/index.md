@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 10:17:07](https://news.ycombinator.com/item?id=35959789) - [Why are there no antitrust claims vs. GitHub Copilot, when there is a precedent?](https://thehftguy.com/2023/05/16/why-are-there-no-antitrust-claims-vs-github-copilot-when-there-is-a-precedent/)
 * [2023-05-16, 08:53:07](https://news.ycombinator.com/item?id=35959204) - [Ask HN: How do I make a website in 2023?](https://news.ycombinator.com/item?id=35959204)
 * [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 * [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
