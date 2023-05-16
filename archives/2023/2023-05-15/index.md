@@ -63,6 +63,7 @@
 * [2023-05-15, 12:56:01](https://news.ycombinator.com/item?id=35947409) - [The groundbreaking plan to map the entire human immune system](https://www.freethink.com/health/human-immunome)
 * [2023-05-15, 12:53:50](https://news.ycombinator.com/item?id=35947386) - [Why are humans never satisfied?](https://www.youtube.com/watch?v=WvGUTtYMUco)
 * [2023-05-15, 12:50:43](https://news.ycombinator.com/item?id=35947339) - [Apple to occupy 90% of TSMC 3nm capacity in 2023](https://www.macrumors.com/2023/05/15/apple-tsmc-3nm-production-capacity/)
+* [2023-05-15, 12:39:42](https://news.ycombinator.com/item?id=35947217) - [CMU Common Lisp 21e](https://gitlab.common-lisp.net/cmucl/cmucl/-/releases/21e)
 * [2023-05-15, 12:11:32](https://news.ycombinator.com/item?id=35946955) - [Show HN: Use ChatGPT, Bing, Bard and Claude in One App](https://github.com/chathub-dev/chathub/blob/main/README.md)
 * [2023-05-15, 12:06:05](https://news.ycombinator.com/item?id=35946893) - [HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion](https://synthesiaresearch.github.io/humanrf/)
 * [2023-05-15, 12:00:05](https://news.ycombinator.com/item?id=35946822) - [Infracost (YC W21) Is Hiring a Customer Success Engineer and Software Engineer](https://infracost.io/join-the-team)
