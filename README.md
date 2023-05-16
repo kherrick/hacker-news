@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 10:32:00](https://news.ycombinator.com/item?id=35959865) - [JPMorgan Chase &amp; Co tracks employees to distopian extents](https://old.reddit.com/r/antiwork/comments/13ijhae/came_back_to_a_post_here_but_it_was_removed_from/)
 * [2023-05-16, 10:17:07](https://news.ycombinator.com/item?id=35959789) - [Why are there no antitrust claims vs. GitHub Copilot, when there is a precedent?](https://thehftguy.com/2023/05/16/why-are-there-no-antitrust-claims-vs-github-copilot-when-there-is-a-precedent/)
 * [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 * [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
@@ -12,7 +13,6 @@
 * [2023-05-16, 00:46:43](https://news.ycombinator.com/item?id=35956484) - [LMQL: A query language for programming (large) language models](https://github.com/eth-sri/lmql)
 * [2023-05-16, 00:14:49](https://news.ycombinator.com/item?id=35956295) - [Vint Cerf’s career advice for engineers](https://spectrum.ieee.org/vint-cerf-advice)
 * [2023-05-16, 00:13:53](https://news.ycombinator.com/item?id=35956287) - [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
-* [2023-05-15, 23:54:18](https://news.ycombinator.com/item?id=35956144) - [Successful flight trial completion of unmanned aerial vehicle, MAGMA (2017)](https://www.baesystems.com/en/article/first-magma-flight-trials)
 * [2023-05-15, 22:25:42](https://news.ycombinator.com/item?id=35955336) - [My 20 year career is technical debt or deprecated](https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt)
 * [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
