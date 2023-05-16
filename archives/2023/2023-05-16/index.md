@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 18:04:36](https://news.ycombinator.com/item?id=35965486) - [Should we normalize ephemeral businesses?](https://anu.substack.com/p/the-generational-business-trap)
 * [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun v0.6.0 – Bun&#x27;s new JavaScript bundler and minifier](https://bun.sh/blog/bun-v0.6.0)
 * [2023-05-16, 17:44:33](https://news.ycombinator.com/item?id=35965253) - [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
 * [2023-05-16, 17:40:37](https://news.ycombinator.com/item?id=35965197) - [“My Daughter’s Murder Wasn’t Enough”: A Uvalde Mother Fights Back](https://www.texasmonthly.com/news-politics/uvalde-shooting-mother-grief-one-year-anniversary-gun-control/)
