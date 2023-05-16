@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun v0.6.0 – Bun&#x27;s new JavaScript bundler and minifier](https://bun.sh/blog/bun-v0.6.0)
 * [2023-05-16, 17:44:33](https://news.ycombinator.com/item?id=35965253) - [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
 * [2023-05-16, 17:40:37](https://news.ycombinator.com/item?id=35965197) - [“My Daughter’s Murder Wasn’t Enough”: A Uvalde Mother Fights Back](https://www.texasmonthly.com/news-politics/uvalde-shooting-mother-grief-one-year-anniversary-gun-control/)
 * [2023-05-16, 17:39:53](https://news.ycombinator.com/item?id=35965186) - [Renewables supplied 65% of new US utility-scale generating capacity in Q1 2023](https://electrek.co/2023/05/15/renewables-us-utility-scale-generating-capacity-q1-2023/)
@@ -30,6 +31,7 @@
 * [2023-05-16, 13:04:34](https://news.ycombinator.com/item?id=35961309) - [Experiments in Making Cocktail Ice](https://www.alcademics.com/index-of-ice-experiments-on-alcademics.html)
 * [2023-05-16, 12:52:14](https://news.ycombinator.com/item?id=35961170) - [Apple is now worth more than the entire Russell 2000](https://www.marketwatch.com/story/a-stock-market-milestone-apple-is-now-worth-more-than-the-entire-russell-2000-e2dc3f75)
 * [2023-05-16, 12:40:59](https://news.ycombinator.com/item?id=35961045) - [iPhones will be able to speak in your voice with 15 minutes of training](https://www.theverge.com/2023/5/16/23725237/iphone-personal-voice-speak-training-accessibility)
+* [2023-05-16, 12:39:47](https://news.ycombinator.com/item?id=35961032) - [Re-Victimization from Police-Auctioned Cell Phones](https://krebsonsecurity.com/2023/05/re-victimization-from-police-auctioned-cell-phones/)
 * [2023-05-16, 12:07:00](https://news.ycombinator.com/item?id=35960663) - [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
 * [2023-05-16, 12:06:56](https://news.ycombinator.com/item?id=35960662) - [Why you should still read the docs](https://death.andgravity.com/output)
 * [2023-05-16, 12:00:46](https://news.ycombinator.com/item?id=35960606) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun v0.6.0 – Bun&#x27;s new JavaScript bundler and minifier](https://bun.sh/blog/bun-v0.6.0)
 * [2023-05-16, 17:44:33](https://news.ycombinator.com/item?id=35965253) - [How to Spot Cult Leader Personalities](https://sashachapin.substack.com/p/how-to-spot-cult-leader-personalities)
 * [2023-05-16, 17:39:53](https://news.ycombinator.com/item?id=35965186) - [Renewables supplied 65% of new US utility-scale generating capacity in Q1 2023](https://electrek.co/2023/05/15/renewables-us-utility-scale-generating-capacity-q1-2023/)
 * [2023-05-16, 17:08:44](https://news.ycombinator.com/item?id=35964763) - [US Senator Uses ChatGPT for Opening Remarks at a Hearing on AI](https://www.bloomberg.com/news/articles/2023-05-16/a-us-senator-just-used-chatgpt-for-opening-remarks-at-a-hearing)
@@ -14,12 +15,12 @@
 * [2023-05-16, 13:36:34](https://news.ycombinator.com/item?id=35961697) - [Goodbye, section 2.8 and hello to Cloudflare’s new terms of service](https://blog.cloudflare.com/updated-tos/)
 * [2023-05-16, 13:27:56](https://news.ycombinator.com/item?id=35961590) - [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
 * [2023-05-16, 13:04:34](https://news.ycombinator.com/item?id=35961309) - [Experiments in Making Cocktail Ice](https://www.alcademics.com/index-of-ice-experiments-on-alcademics.html)
+* [2023-05-16, 12:39:47](https://news.ycombinator.com/item?id=35961032) - [Re-Victimization from Police-Auctioned Cell Phones](https://krebsonsecurity.com/2023/05/re-victimization-from-police-auctioned-cell-phones/)
 * [2023-05-16, 12:07:00](https://news.ycombinator.com/item?id=35960663) - [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
 * [2023-05-16, 12:06:56](https://news.ycombinator.com/item?id=35960662) - [Why you should still read the docs](https://death.andgravity.com/output)
 * [2023-05-16, 12:00:46](https://news.ycombinator.com/item?id=35960606) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-16, 10:52:47](https://news.ycombinator.com/item?id=35960018) - [Widely used chemical strongly linked to Parkinson’s disease](https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease)
 * [2023-05-16, 10:49:29](https://news.ycombinator.com/item?id=35959991) - [Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy](https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798)
-* [2023-05-16, 09:32:50](https://news.ycombinator.com/item?id=35959482) - [Why `fsync()`: Losing unsynced data on a single node leads to global data loss](https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols)
 * [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
 * [2023-05-16, 04:40:41](https://news.ycombinator.com/item?id=35957814) - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
 * [2023-05-16, 04:40:32](https://news.ycombinator.com/item?id=35957811) - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
@@ -27,7 +28,6 @@
 * [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
 * [2023-05-15, 10:48:57](https://news.ycombinator.com/item?id=35946181) - [Why we created Taxi, and why we felt the need for Another Schema Language](https://orbitalhq.com/blog/2023-05-12-why-we-created-taxi)
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
-* [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 * [2023-05-14, 12:17:03](https://news.ycombinator.com/item?id=35937419) - [Digital Audio Workstation Front End Development Struggles](https://billydm.github.io/blog/daw-frontend-development-struggles/)
 * [2023-05-14, 10:03:59](https://news.ycombinator.com/item?id=35936828) - [Artists must be allowed to make bad work](https://austinkleon.com/2023/05/07/artists-must-be-allowed-to-make-bad-work/)
 
