@@ -14,6 +14,7 @@
 * [2023-05-16, 12:52:14](https://news.ycombinator.com/item?id=35961170) - [Apple is now worth more than the entire Russell 2000](https://www.marketwatch.com/story/a-stock-market-milestone-apple-is-now-worth-more-than-the-entire-russell-2000-e2dc3f75)
 * [2023-05-16, 12:40:59](https://news.ycombinator.com/item?id=35961045) - [iPhones will be able to speak in your voice with 15 minutes of training](https://www.theverge.com/2023/5/16/23725237/iphone-personal-voice-speak-training-accessibility)
 * [2023-05-16, 12:07:00](https://news.ycombinator.com/item?id=35960663) - [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
+* [2023-05-16, 12:06:56](https://news.ycombinator.com/item?id=35960662) - [Why you should still read the docs](https://death.andgravity.com/output)
 * [2023-05-16, 12:00:46](https://news.ycombinator.com/item?id=35960606) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-16, 11:08:38](https://news.ycombinator.com/item?id=35960139) - [Ask HN: Has journaling improved your life?](https://news.ycombinator.com/item?id=35960139)
 * [2023-05-16, 11:06:54](https://news.ycombinator.com/item?id=35960125) - [OpenAI chief goes before US Congress to propose licenses for building AI](https://www.reuters.com/technology/openai-chief-goes-before-us-congress-propose-licenses-building-ai-2023-05-16/)
