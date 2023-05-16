@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-05-16, 02:06:55",
+      "https://news.ycombinator.com/item?id=35957039"
+    ],
+    [
+      "A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur",
+      "https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 01:40:05",
+      "https://news.ycombinator.com/item?id=35956837"
+    ],
+    [
+      "Ultimate Electronics",
+      "https://ultimateelectronicsbook.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 01:27:42",
+      "https://news.ycombinator.com/item?id=35956755"
+    ],
+    [
+      "Claude LLM has context window of 100k tokens (can summarize any report)",
+      "https://www.promptengineering.org/claudes-100k-context-window-how-this-will-transform-business-education-and-research/"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 01:01:01",
       "https://news.ycombinator.com/item?id=35956581"
     ],
@@ -11,21 +41,11 @@
   ],
   [
     [
-      "2023-05-16, 00:22:56",
-      "https://news.ycombinator.com/item?id=35956353"
-    ],
-    [
-      "More hospitals create police forces",
-      "https://www.npr.org/sections/health-shots/2023/05/15/1175889585/hospitals-create-police-forces-to-stem-growing-violence-against-staff"
-    ]
-  ],
-  [
-    [
       "2023-05-16, 00:20:47",
       "https://news.ycombinator.com/item?id=35956333"
     ],
     [
-      "Ken Griffin’s Hand-Picked Math Prodigy Runs Market-Making Empire",
+      "Math prodigy runs market-making empire",
       "https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire"
     ]
   ],
@@ -55,18 +75,8 @@
       "https://news.ycombinator.com/item?id=35956144"
     ],
     [
-      "Successful first flight trial completion of unmanned aerial vehicle, MAGMA",
+      "Successful flight trial completion of unmanned aerial vehicle, MAGMA (2017)",
       "https://www.baesystems.com/en/article/first-magma-flight-trials"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 23:03:58",
-      "https://news.ycombinator.com/item?id=35955706"
-    ],
-    [
-      "Many soft contact lenses in US made up of PFAS, research suggests",
-      "https://www.theguardian.com/environment/2023/may/09/contact-lenses-pfas-forever-chemicals"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35955336"
     ],
     [
-      "My 20 Year Career Is Technical Debt or Deprecated",
+      "My 20 year career is technical debt or deprecated",
       "https://blog.visionarycto.com/p/my-20-year-career-is-technical-debt"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-05-15, 17:47:12",
-      "https://news.ycombinator.com/item?id=35951867"
-    ],
-    [
-      "StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)",
-      "https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 16:23:18",
       "https://news.ycombinator.com/item?id=35950716"
     ],
@@ -197,16 +197,6 @@
     [
       "GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations",
       "https://www.infoq.com/news/2023/05/gcc13-c2x-features/"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 14:29:50",
-      "https://news.ycombinator.com/item?id=35948742"
-    ],
-    [
-      "Anthropic&#x27;s 100k context is now available in the web UI",
-      "https://twitter.com/jlowin/status/1658117052425543682"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35944094"
     ],
     [
-      "The ocean’s largest shark has a little something to say",
+      "Do whale sharks make sounds? An online video raises the question",
       "https://www.atlasobscura.com/articles/whale-shark-sounds"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Self-Replace: A Utility For Self Replacing Executables",
       "https://github.com/mitsuhiko/self-replace"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 23:57:48",
+      "https://news.ycombinator.com/item?id=35942500"
+    ],
+    [
+      "The Miracle of Pakistani Tekken",
+      "https://www.youtube.com/watch?v=l2SQgjYmVYY"
     ]
   ],
   [
