@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-05-16, 00:22:56",
+      "https://news.ycombinator.com/item?id=35956353"
+    ],
+    [
+      "More hospitals create police forces",
+      "https://www.npr.org/sections/health-shots/2023/05/15/1175889585/hospitals-create-police-forces-to-stem-growing-violence-against-staff"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 00:13:53",
+      "https://news.ycombinator.com/item?id=35956287"
+    ],
+    [
+      "Show HN: Capillaries: Distributed data processing with Go and Cassandra",
+      "https://capillaries.io"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 23:54:18",
+      "https://news.ycombinator.com/item?id=35956144"
+    ],
+    [
+      "Successful first flight trial completion of unmanned aerial vehicle, MAGMA",
+      "https://www.baesystems.com/en/article/first-magma-flight-trials"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 23:03:58",
       "https://news.ycombinator.com/item?id=35955706"
     ],
     [
-      "PFAS found in most contact lenses",
-      "https://superfund.ncsu.edu/news/3831/"
+      "Many soft contact lenses in US made up of PFAS, research suggests",
+      "https://www.theguardian.com/environment/2023/may/09/contact-lenses-pfas-forever-chemicals"
     ]
   ],
   [
@@ -17,6 +47,16 @@
     [
       "Show HN: Hat-syslog – Syslog Server with real time web UI",
       "https://github.com/hat-open/hat-syslog"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 22:00:30",
+      "https://news.ycombinator.com/item?id=35955089"
+    ],
+    [
+      "A weed is swallowing the Sonoran Desert",
+      "https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "Ivy (YC W23) Is Hiring",
       "https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 20:52:09",
-      "https://news.ycombinator.com/item?id=35954325"
-    ],
-    [
-      "EPFL cancels Stallman&#x27;s lecture citing “the situation regarding” his persona",
-      "https://clic.epfl.ch/news/49"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-05-15, 17:35:24",
-      "https://news.ycombinator.com/item?id=35951703"
-    ],
-    [
-      "Show HN: Openlayer – Test, fix, and improve your ML models",
-      "https://www.openlayer.com/?ref=hn"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 16:53:18",
       "https://news.ycombinator.com/item?id=35951126"
     ],
@@ -147,16 +167,6 @@
     [
       "Taxonomy of Procrastination",
       "https://dynomight.net/procrastination/"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 15:44:01",
-      "https://news.ycombinator.com/item?id=35950094"
-    ],
-    [
-      "This Word Does Not Exist",
-      "https://www.thisworddoesnotexist.com/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-05-15, 12:11:32",
-      "https://news.ycombinator.com/item?id=35946955"
-    ],
-    [
-      "Show HN: Use ChatGPT, Bing, Bard and Claude in One App",
-      "https://github.com/chathub-dev/chathub/blob/main/README.md"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 10:35:28",
       "https://news.ycombinator.com/item?id=35946078"
     ],
@@ -231,22 +231,22 @@
   ],
   [
     [
+      "2023-05-15, 04:53:30",
+      "https://news.ycombinator.com/item?id=35944015"
+    ],
+    [
+      "Self-Replace: A Utility For Self Replacing Executables",
+      "https://github.com/mitsuhiko/self-replace"
+    ]
+  ],
+  [
+    [
       "2023-05-14, 12:47:47",
       "https://news.ycombinator.com/item?id=35937554"
     ],
     [
       "High Performance Browser Networking",
       "https://hpbn.co/"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 11:36:48",
-      "https://news.ycombinator.com/item?id=35937220"
-    ],
-    [
-      "Assemblers: Popular assemblers and their architecture-specific differences",
-      "https://maskray.me/blog/2023-05-08-assemblers"
     ]
   ],
   [
