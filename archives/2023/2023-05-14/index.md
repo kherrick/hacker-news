@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-14](index.md)
 
+* [2023-05-14, 23:57:48](https://news.ycombinator.com/item?id=35942500) - [The Miracle of Pakistani Tekken](https://www.youtube.com/watch?v=l2SQgjYmVYY)
 * [2023-05-14, 22:53:58](https://news.ycombinator.com/item?id=35942093) - [Surveillance of reporter a &#x27;serious attack on freedom of the press in Canada&#x27;](https://www.cbc.ca/news/canada/montreal/la-presse-patrick-lagace-cjfe-edward-snowden-1.3829383)
 * [2023-05-14, 22:37:09](https://news.ycombinator.com/item?id=35941979) - [Combinatory Logic](https://plato.stanford.edu/entries/logic-combinatory/)
 * [2023-05-14, 22:27:41](https://news.ycombinator.com/item?id=35941914) - [Nuclear energy: Not a Faustian bargain, but a near-perfect providential gift](https://gordianknotbook.com/wp-content/plugins/pdf-poster/pdfjs/web/viewer.html?file=https://gordianknotbook.com/wp-content/uploads/2023/05/rockwell_2008_faustian.pdf&download=true&print=vera&openfile=false)
