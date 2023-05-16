@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-05-16, 01:27:42",
-      "https://news.ycombinator.com/item?id=35956755"
-    ],
-    [
-      "Claude LLM has context window of 100k tokens (can summarize any report)",
-      "https://www.promptengineering.org/claudes-100k-context-window-how-this-will-transform-business-education-and-research/"
-    ]
-  ],
-  [
-    [
       "2023-05-16, 01:01:01",
       "https://news.ycombinator.com/item?id=35956581"
     ],
@@ -177,6 +167,16 @@
     [
       "LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper",
       "https://github.com/SysSec-KAIST/LTESniffer"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 17:47:12",
+      "https://news.ycombinator.com/item?id=35951867"
+    ],
+    [
+      "StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)",
+      "https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779"
     ]
   ],
   [
