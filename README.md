@@ -2,7 +2,6 @@
 
 * [2023-05-16, 02:06:55](https://news.ycombinator.com/item?id=35957039) - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
 * [2023-05-16, 01:40:05](https://news.ycombinator.com/item?id=35956837) - [Ultimate Electronics](https://ultimateelectronicsbook.com/)
-* [2023-05-16, 01:27:42](https://news.ycombinator.com/item?id=35956755) - [Claude LLM has context window of 100k tokens (can summarize any report)](https://www.promptengineering.org/claudes-100k-context-window-how-this-will-transform-business-education-and-research/)
 * [2023-05-16, 01:01:01](https://news.ycombinator.com/item?id=35956581) - [Peoplebox (YC S22) Is Hiring a Principal Engineer (Back End)](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
 * [2023-05-16, 00:20:47](https://news.ycombinator.com/item?id=35956333) - [Math prodigy runs market-making empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
 * [2023-05-16, 00:14:49](https://news.ycombinator.com/item?id=35956295) - [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
@@ -18,6 +17,7 @@
 * [2023-05-15, 20:42:54](https://news.ycombinator.com/item?id=35954208) - [Clinical trial of mRNA universal influenza vaccine candidate begins](https://www.nih.gov/news-events/news-releases/clinical-trial-mrna-universal-influenza-vaccine-candidate-begins)
 * [2023-05-15, 19:23:54](https://news.ycombinator.com/item?id=35953286) - [random(random(random(random())))](https://openprocessing.org/sketch/1575230/)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
+* [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 * [2023-05-15, 16:23:18](https://news.ycombinator.com/item?id=35950716) - [Taxonomy of Procrastination](https://dynomight.net/procrastination/)
 * [2023-05-15, 15:06:10](https://news.ycombinator.com/item?id=35949368) - [GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations](https://www.infoq.com/news/2023/05/gcc13-c2x-features/)
 * [2023-05-15, 14:13:35](https://news.ycombinator.com/item?id=35948462) - [Show HN: Willow – Open-source privacy-focused voice assistant hardware](https://github.com/toverainc/willow)
