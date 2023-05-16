@@ -4,5 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 01:01:01](https://news.ycombinator.com/item?id=35956581) - [Peoplebox (YC S22) Is Hiring a Principal Engineer (Back End)](https://www.ycombinator.com/companies/peoplebox/jobs/kpFkrzX-principal-engineer)
 * [2023-05-16, 00:22:56](https://news.ycombinator.com/item?id=35956353) - [More hospitals create police forces](https://www.npr.org/sections/health-shots/2023/05/15/1175889585/hospitals-create-police-forces-to-stem-growing-violence-against-staff)
+* [2023-05-16, 00:20:47](https://news.ycombinator.com/item?id=35956333) - [Ken Griffin’s Hand-Picked Math Prodigy Runs Market-Making Empire](https://www.bloomberg.com/news/articles/2023-05-11/ken-griffin-s-hand-picked-math-prodigy-peng-zhao-runs-market-making-empire)
+* [2023-05-16, 00:14:49](https://news.ycombinator.com/item?id=35956295) - [Vint Cerf’s Career Advice for Engineers](https://spectrum.ieee.org/vint-cerf-advice)
 * [2023-05-16, 00:13:53](https://news.ycombinator.com/item?id=35956287) - [Show HN: Capillaries: Distributed data processing with Go and Cassandra](https://capillaries.io)
