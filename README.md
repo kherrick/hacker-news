@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-16, 08:53:07](https://news.ycombinator.com/item?id=35959204) - [Ask HN: How do I make a website in 2023?](https://news.ycombinator.com/item?id=35959204)
 * [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus: The Forbin Project (1970) [video]](https://archive.org/details/colossus-the-forbin-project-1970)
@@ -21,7 +22,6 @@
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2023-05-15, 15:09:48](https://news.ycombinator.com/item?id=35949442) - [Where oil rigs go to die (2017)](https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die)
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
-* [2023-05-15, 04:53:30](https://news.ycombinator.com/item?id=35944015) - [Self-Replace: A Utility For Self Replacing Executables](https://github.com/mitsuhiko/self-replace)
 * [2023-05-15, 04:52:52](https://news.ycombinator.com/item?id=35944010) - [The World Atlas of Languages](https://en.wal.unesco.org/discover/languages)
 * [2023-05-15, 04:22:31](https://news.ycombinator.com/item?id=35943863) - [All Roll Is B-Roll: Adam Curtis Goes Quiet](https://www.thedriftmag.com/all-roll-is-b-roll/)
 * [2023-05-14, 23:57:48](https://news.ycombinator.com/item?id=35942500) - [The Miracle of Pakistani Tekken (2022) [video]](https://www.youtube.com/watch?v=l2SQgjYmVYY)
