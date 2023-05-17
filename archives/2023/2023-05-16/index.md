@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 23:29:48](https://news.ycombinator.com/item?id=35969184) - [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers)
+* [2023-05-16, 23:08:20](https://news.ycombinator.com/item?id=35968968) - [Beware Offers of “Help” with Your Projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
 * [2023-05-16, 23:02:14](https://news.ycombinator.com/item?id=35968911) - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
 * [2023-05-16, 22:26:07](https://news.ycombinator.com/item?id=35968604) - [Businesses are in for a mighty debt hangover](https://www.economist.com/business/2023/05/16/businesses-are-in-for-a-mighty-debt-hangover)
 * [2023-05-16, 22:00:02](https://news.ycombinator.com/item?id=35968336) - [ChatGPT is not ‘artificial intelligence.’ It’s theft](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
