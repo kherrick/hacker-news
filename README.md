@@ -27,7 +27,7 @@
 * [2023-05-15, 09:34:44](https://news.ycombinator.com/item?id=35945648) - [Bitmap Bonanza](https://dansanderson.com/mega65/bitmap-bonanza/)
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:47:32](https://news.ycombinator.com/item?id=35945322) - [Asus Ally Emulates PS3, Nintendo Switch, Xbox 360 with Ease](https://www.tomshardware.com/news/asus-rog-ally-emulation-performance)
-* [2023-05-15, 08:28:45](https://news.ycombinator.com/item?id=35945234) - [Introduction to the Fourier Transform for Image Processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
+* [2023-05-15, 08:28:45](https://news.ycombinator.com/item?id=35945234) - [Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
 * [2023-05-15, 07:54:47](https://news.ycombinator.com/item?id=35945006) - [How to Play Hextraction](https://www.playhextraction.com/how-to-play)
 * [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
