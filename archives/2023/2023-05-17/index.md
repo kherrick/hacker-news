@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 11:36:26](https://news.ycombinator.com/item?id=35973873) - [A Radical Plan to Make AI Good, Not Evil](https://www.wired.com/story/anthropic-ai-chatbots-ethics/)
+* [2023-05-17, 10:20:30](https://news.ycombinator.com/item?id=35973366) - [UK: No-fault evictions to be banned in reform of rental sector](https://www.bbc.co.uk/news/uk-politics-65612842)
 * [2023-05-17, 10:03:48](https://news.ycombinator.com/item?id=35973265) - [Pandas AI – The Future of Data Analysis](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f)
 * [2023-05-17, 09:38:02](https://news.ycombinator.com/item?id=35973093) - [Planned obsolescence: Apple attacked for the “serialization” of its spare parts](https://www.lemonde.fr/pixels/article/2023/05/17/obsolescence-programmee-apple-attaquee-pour-la-serialisation-de-ses-pieces-detachees_6173705_4408996.html)
 * [2023-05-17, 08:57:08](https://news.ycombinator.com/item?id=35972774) - [Slack Is Down](https://slack.com)
