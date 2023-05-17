@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 08:57:08](https://news.ycombinator.com/item?id=35972774) - [Slack Is Down](https://slack.com)
+* [2023-05-17, 08:36:26](https://news.ycombinator.com/item?id=35972664) - [The U.S. birth rate has fallen by 20% since 2007](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate)
 * [2023-05-17, 08:30:52](https://news.ycombinator.com/item?id=35972631) - [Rollstack (YC W23) Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
 * [2023-05-17, 07:57:54](https://news.ycombinator.com/item?id=35972437) - [Comparison site for digital analytics tools](https://newmetrics.io/)
 * [2023-05-17, 07:26:40](https://news.ycombinator.com/item?id=35972254) - [Titanic: First ever full-sized scans](https://www.bbc.co.uk/news/science-environment-65602182)
