@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 17:05:34](https://news.ycombinator.com/item?id=35978217) - [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
 * [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
 * [2023-05-17, 16:53:55](https://news.ycombinator.com/item?id=35978058) - [Bing thinks Hitler was in Radiohead](https://twitter.com/jdx/status/1658876595921190912)
 * [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
