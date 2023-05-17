@@ -27,6 +27,7 @@
 * [2023-05-15, 19:12:26](https://news.ycombinator.com/item?id=35953171) - [Server Sent Events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 * [2023-05-15, 18:38:57](https://news.ycombinator.com/item?id=35952672) - [You studied computer science but Big Tech no longer wants you](https://www.economist.com/1843/2023/05/15/you-studied-computer-science-but-big-tech-no-longer-wants-you-now-what)
 * [2023-05-15, 18:27:29](https://news.ycombinator.com/item?id=35952507) - [Full of contempt, she refused to talk to the engineers](https://respectfulleadership.substack.com/p/full-of-contempt-she-refused-to-talk)
+* [2023-05-15, 18:22:03](https://news.ycombinator.com/item?id=35952406) - [A24 Took over Hollywood [video]](https://www.youtube.com/watch?v=7tuRJIkDcXg)
 * [2023-05-15, 18:08:55](https://news.ycombinator.com/item?id=35952206) - [LTESniffer – An Open-Source LTE Downlink&#x2F;Uplink Eavesdropper](https://github.com/SysSec-KAIST/LTESniffer)
 * [2023-05-15, 17:47:12](https://news.ycombinator.com/item?id=35951867) - [StarFive VisionFive 2 SBC Now Supports TianoCore EDK II (UEFI)](https://forum.rvspace.org/t/unlocking-new-possibilities-starfive-visionfive-2-sbc-now-supports-tianocore-edk-ii-uefi/2779)
 * [2023-05-15, 17:35:24](https://news.ycombinator.com/item?id=35951703) - [Show HN: Openlayer – Test, fix, and improve your ML models](https://www.openlayer.com/?ref=hn)
