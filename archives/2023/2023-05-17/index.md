@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 14:03:10](https://news.ycombinator.com/item?id=35975352) - [Zuck impresses in Brazilian jiu-jitsu tournament](https://www.espn.com/mma/story/_/id/37598929/coach-marvels-mark-zuckerberg-winning-bjj-tournament-one-best-students-ever-had)
 * [2023-05-17, 13:39:35](https://news.ycombinator.com/item?id=35975080) - [Langton&#x27;s Ant [Wikipedia]](https://en.wikipedia.org/wiki/Langton%27s_ant)
+* [2023-05-17, 13:26:37](https://news.ycombinator.com/item?id=35974934) - [Students are increasingly refusing to go to school](https://www.usatoday.com/in-depth/news/health/2023/05/15/school-avoidance-becomes-crisis-after-covid/11127563002/)
 * [2023-05-17, 13:14:54](https://news.ycombinator.com/item?id=35974794) - [George Soros’ quiet overhaul of the U.S. justice system](https://www.politico.com/story/2016/08/george-soros-criminal-justice-reform-227519)
 * [2023-05-17, 13:00:15](https://news.ycombinator.com/item?id=35974653) - [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
 * [2023-05-17, 12:58:17](https://news.ycombinator.com/item?id=35974636) - [Google will start deleting inactive accounts after two years](https://arstechnica.com/gadgets/2023/05/google-will-start-deleting-inactive-accounts-after-two-years/)
+* [2023-05-17, 12:51:03](https://news.ycombinator.com/item?id=35974542) - [Bosses of failed US banks refuse to hand back millions of dollars in pay](https://www.ft.com/content/26ed4163-84d3-45af-a784-8aeb4abc288b)
+* [2023-05-17, 12:48:37](https://news.ycombinator.com/item?id=35974517) - [Oh Yes You Can Use Regexes to Parse HTML](https://stackoverflow.com/a/4234491/10824322)
 * [2023-05-17, 12:48:26](https://news.ycombinator.com/item?id=35974515) - [Agnès Varda](https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda)
+* [2023-05-17, 12:20:01](https://news.ycombinator.com/item?id=35974229) - [Logitech Partners with iFixit for Self-Repairs](https://www.theverge.com/2023/5/17/23726681/logitech-ifixit-self-repair-program-announcement-mx-master-anywhere)
 * [2023-05-17, 12:02:42](https://news.ycombinator.com/item?id=35974080) - [Retro Computer Museum – Leicester, UK](https://retrocomputermuseum.co.uk/)
 * [2023-05-17, 12:01:22](https://news.ycombinator.com/item?id=35974067) - [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 * [2023-05-17, 11:45:43](https://news.ycombinator.com/item?id=35973947) - [Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
