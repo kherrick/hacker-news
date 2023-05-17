@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 19:02:15",
+      "https://news.ycombinator.com/item?id=35979712"
+    ],
+    [
+      "DuckDuckGo owns the #2 position in mobile market share in the US",
+      "https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 18:26:13",
       "https://news.ycombinator.com/item?id=35979305"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=35977057"
     ],
     [
-      "World&#x27;s largest open source company dataset",
+      "A raw dump of companies from all over the world by LinkedIn handle",
       "https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=35975578"
     ],
     [
-      "Stability AI Releases StableStudio, the Open-Source Future of DreamStudio",
+      "StableStudio, an open-source release of DreamStudio",
       "https://stability.ai/blog/stablestudio-open-source-community-driven-future-dreamstudio-release"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The Maddest My Code Made Anyone",
       "http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 08:28:45",
-      "https://news.ycombinator.com/item?id=35945234"
-    ],
-    [
-      "Introduction to the Fourier transform for image processing",
-      "https://www.cs.unm.edu/~brayer/vision/fourier.html"
     ]
   ]
 ]
