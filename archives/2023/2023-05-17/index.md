@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
 * [2023-05-17, 07:26:40](https://news.ycombinator.com/item?id=35972254) - [Titanic: First ever full-sized scans](https://www.bbc.co.uk/news/science-environment-65602182)
+* [2023-05-17, 07:12:42](https://news.ycombinator.com/item?id=35972167) - [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
+* [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
 * [2023-05-17, 06:20:15](https://news.ycombinator.com/item?id=35971863) - [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
 * [2023-05-17, 05:46:29](https://news.ycombinator.com/item?id=35971677) - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
