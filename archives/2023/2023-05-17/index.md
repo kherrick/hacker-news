@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 21:46:39](https://news.ycombinator.com/item?id=35981662) - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
 * [2023-05-17, 21:22:34](https://news.ycombinator.com/item?id=35981417) - [Target expects organized retail crime-fueled losses to jump by $500M this year](https://www.cnbc.com/2023/05/17/target-says-organized-retail-crime-fueled-losses-have-shot-up.html)
+* [2023-05-17, 21:10:24](https://news.ycombinator.com/item?id=35981311) - [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
 * [2023-05-17, 21:02:14](https://news.ycombinator.com/item?id=35981238) - [Show HN: Postgres Query Lock Explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
 * [2023-05-17, 20:58:47](https://news.ycombinator.com/item?id=35981195) - [Degrowth and the Monkey&#x27;s Paw](https://www.worksinprogress.news/p/degrowth-and-the-monkeys-paw)
 * [2023-05-17, 20:42:26](https://news.ycombinator.com/item?id=35981019) - [The myth of the $600 hammer (1998)](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)

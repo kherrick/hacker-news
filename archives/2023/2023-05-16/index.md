@@ -89,6 +89,7 @@
 * [2023-05-16, 04:40:41](https://news.ycombinator.com/item?id=35957814) - [Seaflooding](https://unchartedterritories.tomaspueyo.com/p/seaflooding)
 * [2023-05-16, 04:40:32](https://news.ycombinator.com/item?id=35957811) - [CS 61B Data Structures, Spring 2023 UC Berkeley](https://sp23.datastructur.es/)
 * [2023-05-16, 03:53:49](https://news.ycombinator.com/item?id=35957582) - [Netflix’s Queen Cleopatra Appears to Have the Worst Audience Score in TV History](https://www.forbes.com/sites/paultassi/2023/05/15/netflixs-queen-cleopatra-appears-to-have-the-worst-audience-score-in-tv-history/)
+* [2023-05-16, 03:18:29](https://news.ycombinator.com/item?id=35957399) - [Integrating Social Responsibility into Core CS](https://evanpeck.github.io/projects/responsibleCS)
 * [2023-05-16, 02:06:55](https://news.ycombinator.com/item?id=35957039) - [A promised audit of Twitter&#x27;s encrypted DMs didn&#x27;t occur](https://www.platformer.news/p/why-you-cant-trust-twitters-encrypted)
 * [2023-05-16, 01:47:46](https://news.ycombinator.com/item?id=35956900) - [Consumer Credit and the Removal of Medical Collections from Credit Reports](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/)
 * [2023-05-16, 01:40:05](https://news.ycombinator.com/item?id=35956837) - [Ultimate Electronics](https://ultimateelectronicsbook.com/)
