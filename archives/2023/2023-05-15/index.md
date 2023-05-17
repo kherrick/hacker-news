@@ -45,6 +45,7 @@
 * [2023-05-15, 15:38:26](https://news.ycombinator.com/item?id=35949995) - [How Does a TLS Handshake Work?](https://venafi.com/blog/how-does-a-tls-handshake-work/)
 * [2023-05-15, 15:27:01](https://news.ycombinator.com/item?id=35949771) - [Kafka vs. Redpanda Performance – Do the claims add up?](https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up)
 * [2023-05-15, 15:22:08](https://news.ycombinator.com/item?id=35949670) - [Saturn reclaims &#x27;moon king&#x27; title from Jupiter with 62 newfound satellites](https://www.space.com/saturn-moon-king-62-newfound-satellites)
+* [2023-05-15, 15:17:10](https://news.ycombinator.com/item?id=35949579) - [I Talk with an AI Music Historian](https://tedgioia.substack.com/p/i-talk-with-an-ai-music-historian)
 * [2023-05-15, 15:09:48](https://news.ycombinator.com/item?id=35949442) - [Where oil rigs go to die (2017)](https://www.theguardian.com/business/2017/may/02/where-oil-rigs-go-to-die)
 * [2023-05-15, 15:08:18](https://news.ycombinator.com/item?id=35949414) - [Don’t use sugar substitutes for weight loss, World Health Organization advises](https://www.cnn.com/2023/05/15/health/who-sweeteners-weigh-loss-guideline-wellness/index.html)
 * [2023-05-15, 15:06:10](https://news.ycombinator.com/item?id=35949368) - [GCC 13 Supports New C2x Features, Including Nullptr, Enhanced Enumerations](https://www.infoq.com/news/2023/05/gcc13-c2x-features/)
