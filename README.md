@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 18:26:13](https://news.ycombinator.com/item?id=35979305) - [Sam Altman Isn’t the Answer to Regulating Artificial Intelligence](https://www.bloomberg.com/opinion/articles/2023-05-17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask)
+* [2023-05-17, 17:30:30](https://news.ycombinator.com/item?id=35978575) - [Astmaker – A DSL in Rust for programming language designers](https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831)
 * [2023-05-17, 17:05:34](https://news.ycombinator.com/item?id=35978217) - [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
 * [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
 * [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
@@ -21,10 +23,8 @@
 * [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
 * [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
-* [2023-05-17, 03:29:19](https://news.ycombinator.com/item?id=35970931) - [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)
 * [2023-05-16, 18:35:51](https://news.ycombinator.com/item?id=35965824) - [I Still Use Windows 95 (2008)](https://web.archive.org/web/20080220175358/http://www.andrew-turnbull.net/tech/windows95.html)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s Exabyte-Scale Blob Storage System](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
-* [2023-05-16, 06:35:46](https://news.ycombinator.com/item?id=35958374) - [Vintage AI predictions show our hopes and fears aren’t new, even if the tech is](https://gizmodo.com/ai-chatbot-chatgpt-tech-1850433697)
 * [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)
 * [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
 * [2023-05-15, 13:36:15](https://news.ycombinator.com/item?id=35947915) - [Deadlines as Technology](https://blog.jim-nielsen.com/2023/deadlines-as-technology/)
