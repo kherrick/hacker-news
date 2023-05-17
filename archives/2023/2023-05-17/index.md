@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 20:58:47](https://news.ycombinator.com/item?id=35981195) - [Degrowth and the Monkey&#x27;s Paw](https://www.worksinprogress.news/p/degrowth-and-the-monkeys-paw)
+* [2023-05-17, 20:42:26](https://news.ycombinator.com/item?id=35981019) - [The myth of the $600 hammer (1998)](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
 * [2023-05-17, 20:13:49](https://news.ycombinator.com/item?id=35980656) - [Dear Substack: Quit Sending Me Your Corporate Propaganda](https://empathynovel.substack.com/p/dear-substack-quit-sending-me-your)
 * [2023-05-17, 20:05:01](https://news.ycombinator.com/item?id=35980543) - [Tracking Blocked Scripts](https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/)
+* [2023-05-17, 19:58:22](https://news.ycombinator.com/item?id=35980455) - [Global temperatures set to reach new records in next five years](https://public.wmo.int/en/media/press-release/global-temperatures-set-reach-new-records-next-five-years)
 * [2023-05-17, 19:41:16](https://news.ycombinator.com/item?id=35980223) - [Show HN: Smallville – Create Generative Agents for simulations and games](https://github.com/nickm980/smallville)
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [International Music Score Library Project (IMSLP)](https://imslp.org/)
 * [2023-05-17, 19:02:15](https://news.ycombinator.com/item?id=35979712) - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
