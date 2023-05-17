@@ -21,7 +21,6 @@
 * [2023-05-16, 13:27:56](https://news.ycombinator.com/item?id=35961590) - [The Sourdough Framework](https://github.com/hendricius/the-sourdough-framework)
 * [2023-05-16, 08:34:50](https://news.ycombinator.com/item?id=35959073) - [Experts weigh impact of Intel-Arm collaboration](https://www.eetimes.com/experts-weigh-impact-of-intel-arm-collaboration/)
 * [2023-05-15, 18:22:03](https://news.ycombinator.com/item?id=35952406) - [How A24 Took over Hollywood [video]](https://www.youtube.com/watch?v=7tuRJIkDcXg)
-* [2023-05-15, 16:37:24](https://news.ycombinator.com/item?id=35950921) - [So, how do you refill an aquifer?](https://heatmap.news/technology/so-how-do-you-actually-refill-an-aquifer)
 * [2023-05-15, 15:22:08](https://news.ycombinator.com/item?id=35949670) - [Saturn reclaims &#x27;moon king&#x27; title from Jupiter with 62 newfound satellites](https://www.space.com/saturn-moon-king-62-newfound-satellites)
 * [2023-05-15, 12:39:42](https://news.ycombinator.com/item?id=35947217) - [CMU Common Lisp 21e](https://gitlab.common-lisp.net/cmucl/cmucl/-/releases/21e)
 * [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
@@ -29,6 +28,7 @@
 * [2023-05-15, 09:34:44](https://news.ycombinator.com/item?id=35945648) - [Bitmap Bonanza](https://dansanderson.com/mega65/bitmap-bonanza/)
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 07:54:47](https://news.ycombinator.com/item?id=35945006) - [How to Play Hextraction](https://www.playhextraction.com/how-to-play)
+* [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)
