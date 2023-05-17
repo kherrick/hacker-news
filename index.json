@@ -1,12 +1,52 @@
 [
   [
     [
-      "2023-05-17, 11:36:26",
-      "https://news.ycombinator.com/item?id=35973873"
+      "2023-05-17, 12:02:42",
+      "https://news.ycombinator.com/item?id=35974080"
     ],
     [
-      "A Radical Plan to Make AI Good, Not Evil",
-      "https://www.wired.com/story/anthropic-ai-chatbots-ethics/"
+      "Retro Computer Museum – Leicester, UK",
+      "https://retrocomputermuseum.co.uk/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 12:01:22",
+      "https://news.ycombinator.com/item?id=35974067"
+    ],
+    [
+      "Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 11:45:43",
+      "https://news.ycombinator.com/item?id=35973947"
+    ],
+    [
+      "Summarize Any Article as a Dialog Between Two People with Bing Chat",
+      "https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 11:37:16",
+      "https://news.ycombinator.com/item?id=35973882"
+    ],
+    [
+      "Americans Have Never Been So Unwilling to Relocate for a New Job",
+      "https://www.bloomberg.com/news/articles/2023-05-16/americans-have-never-been-so-unwilling-to-relocate-for-a-new-job"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 11:03:46",
+      "https://news.ycombinator.com/item?id=35973645"
+    ],
+    [
+      "OpenAI came after our domain because we use GPT in it",
+      "https://news.ycombinator.com/item?id=35973645"
     ]
   ],
   [
@@ -41,22 +81,22 @@
   ],
   [
     [
+      "2023-05-17, 09:30:13",
+      "https://news.ycombinator.com/item?id=35973016"
+    ],
+    [
+      "Framework Laptop 13 Review",
+      "https://www.theguardian.com/technology/2023/may/17/framework-laptop-13-review-modular-pc-upgrade-performance"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 08:57:08",
       "https://news.ycombinator.com/item?id=35972774"
     ],
     [
       "Slack Is Down",
       "https://slack.com"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 08:30:52",
-      "https://news.ycombinator.com/item?id=35972631"
-    ],
-    [
-      "Rollstack (YC W23) Is hiring a Node.js software engineer",
-      "https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe"
     ]
   ],
   [
@@ -71,42 +111,12 @@
   ],
   [
     [
-      "2023-05-17, 07:12:42",
-      "https://news.ycombinator.com/item?id=35972167"
-    ],
-    [
-      "Valve Sued by Immersion over Steam Deck and Index Rumble",
-      "https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 07:00:31",
       "https://news.ycombinator.com/item?id=35972096"
     ],
     [
       "Give your brain time to think and remember",
       "https://github.com/madprops/blog/blob/main/docs/timers.md"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 06:59:54",
-      "https://news.ycombinator.com/item?id=35972092"
-    ],
-    [
-      "Pandas vs. Julia – cheat sheet and comparison",
-      "https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 06:20:15",
-      "https://news.ycombinator.com/item?id=35971863"
-    ],
-    [
-      "Traders Do Less Crime at Home",
-      "https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2023-05-15, 18:01:46",
+      "https://news.ycombinator.com/item?id=35952110"
+    ],
+    [
+      "Event Sourcing and Microservices – Unix Style",
+      "https://two-wrongs.com/event-sourcing-and-microservices-unix-style.html"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 13:36:15",
       "https://news.ycombinator.com/item?id=35947915"
     ],
     [
       "Deadlines as Technology",
       "https://blog.jim-nielsen.com/2023/deadlines-as-technology/"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 12:39:42",
-      "https://news.ycombinator.com/item?id=35947217"
-    ],
-    [
-      "CMU Common Lisp 21e",
-      "https://gitlab.common-lisp.net/cmucl/cmucl/-/releases/21e"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Introduction to the Fourier transform for image processing",
       "https://www.cs.unm.edu/~brayer/vision/fourier.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 21:09:50",
-      "https://news.ycombinator.com/item?id=35941369"
-    ],
-    [
-      "Notes on rarely-seen game mechanics",
-      "https://blog.plover.com/notes/game-mechanics.html"
     ]
   ]
 ]
