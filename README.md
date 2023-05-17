@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
 * [2023-05-17, 03:29:19](https://news.ycombinator.com/item?id=35970931) - [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)
 * [2023-05-17, 01:30:18](https://news.ycombinator.com/item?id=35970213) - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
 * [2023-05-17, 00:27:22](https://news.ycombinator.com/item?id=35969715) - [Advocating for Open Models in AI Oversight: Stability AI&#x27;s Letter to U.S. Senate](https://stability.ai/blog/stability-ai-letter-us-senate-ai-oversight)
 * [2023-05-16, 23:02:14](https://news.ycombinator.com/item?id=35968911) - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
 * [2023-05-16, 21:46:03](https://news.ycombinator.com/item?id=35968183) - [On the trail of the &#x27;Johatsu,&#x27; Japan&#x27;s &#x27;evaporated people&#x27; (2017)](https://time.com/4646293/japan-missing-people-johatsu-evaporated/)
 * [2023-05-16, 21:42:54](https://news.ycombinator.com/item?id=35968148) - [On the foolishness of “natural language programming” (1978)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
+* [2023-05-16, 21:34:06](https://news.ycombinator.com/item?id=35968068) - [CO2 Heat Pumps Found to Offer High Efficiency at Low Ambient Temperature](https://r744.com/co2-heat-pumps-found-to-offer-high-efficiency-at-low-ambient-temperature-in-electric-vehicles/)
 * [2023-05-16, 21:01:15](https://news.ycombinator.com/item?id=35967704) - [Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
 * [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language (2020)](http://raganwald.com/2020/05/03/fractran.html)
@@ -26,9 +28,7 @@
 * [2023-05-15, 10:48:57](https://news.ycombinator.com/item?id=35946181) - [Why we created Taxi, and why we felt the need for another schema language](https://orbitalhq.com/blog/2023-05-12-why-we-created-taxi)
 * [2023-05-15, 09:34:44](https://news.ycombinator.com/item?id=35945648) - [Bitmap Bonanza](https://dansanderson.com/mega65/bitmap-bonanza/)
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
-* [2023-05-15, 08:47:32](https://news.ycombinator.com/item?id=35945322) - [Asus Ally Emulates PS3, Nintendo Switch, Xbox 360 with Ease](https://www.tomshardware.com/news/asus-rog-ally-emulation-performance)
 * [2023-05-15, 07:54:47](https://news.ycombinator.com/item?id=35945006) - [How to Play Hextraction](https://www.playhextraction.com/how-to-play)
-* [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)

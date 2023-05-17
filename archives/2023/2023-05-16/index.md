@@ -12,6 +12,7 @@
 * [2023-05-16, 22:00:02](https://news.ycombinator.com/item?id=35968336) - [ChatGPT is not ‘artificial intelligence.’ It’s theft](https://www.americamagazine.org/faith/2023/05/15/chatgpt-artificial-intelligence-theft-245283)
 * [2023-05-16, 21:46:03](https://news.ycombinator.com/item?id=35968183) - [On the Trail of the &#x27;Johatsu,&#x27; Japan&#x27;s &#x27;Evaporated People&#x27;](https://time.com/4646293/japan-missing-people-johatsu-evaporated/)
 * [2023-05-16, 21:42:54](https://news.ycombinator.com/item?id=35968148) - [On the foolishness of “natural language programming”](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html)
+* [2023-05-16, 21:34:06](https://news.ycombinator.com/item?id=35968068) - [CO2 Heat Pumps Found to Offer High Efficiency at Low Ambient Temperature](https://r744.com/co2-heat-pumps-found-to-offer-high-efficiency-at-low-ambient-temperature-in-electric-vehicles/)
 * [2023-05-16, 21:16:09](https://news.ycombinator.com/item?id=35967850) - [GitHub Incident](https://www.githubstatus.com/incidents/v2xjymn61dv8)
 * [2023-05-16, 21:01:15](https://news.ycombinator.com/item?id=35967704) - [Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 * [2023-05-16, 20:48:06](https://news.ycombinator.com/item?id=35967549) - [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
