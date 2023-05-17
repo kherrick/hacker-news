@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
+* [2023-05-17, 16:53:55](https://news.ycombinator.com/item?id=35978058) - [Bing thinks Hitler was in Radiohead](https://twitter.com/jdx/status/1658876595921190912)
 * [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
 * [2023-05-17, 16:03:48](https://news.ycombinator.com/item?id=35977294) - [AI-powered coding, free of charge with Colab](https://blog.google/technology/developers/google-colab-ai-coding-features/)
 * [2023-05-17, 15:50:08](https://news.ycombinator.com/item?id=35977057) - [World&#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
@@ -13,6 +15,7 @@
 * [2023-05-17, 15:30:09](https://news.ycombinator.com/item?id=35976743) - [Controlled burns help prevent wildfires. Regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
 * [2023-05-17, 15:19:34](https://news.ycombinator.com/item?id=35976563) - [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
 * [2023-05-17, 15:19:07](https://news.ycombinator.com/item?id=35976557) - [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
+* [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 14:45:51](https://news.ycombinator.com/item?id=35975943) - [Stripe shut our microbiology conference account down for adult content?](https://news.ycombinator.com/item?id=35975943)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 * [2023-05-17, 14:29:48](https://news.ycombinator.com/item?id=35975690) - [U.S. Depression Rates Reach New Highs](https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx)
