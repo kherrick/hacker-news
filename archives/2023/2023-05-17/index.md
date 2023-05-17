@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 14:45:51](https://news.ycombinator.com/item?id=35975943) - [Stripe shut our microbiology conference account down for adult content?](https://news.ycombinator.com/item?id=35975943)
+* [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
+* [2023-05-17, 14:29:48](https://news.ycombinator.com/item?id=35975690) - [U.S. Depression Rates Reach New Highs](https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx)
 * [2023-05-17, 14:19:49](https://news.ycombinator.com/item?id=35975545) - [The IRS is building its own online tax filing system. Tax-preppers not happy](https://text.npr.org/1176417594)
 * [2023-05-17, 14:14:17](https://news.ycombinator.com/item?id=35975470) - [Engineering professor awarded defense grant for cognitive security research](https://today.tamu.edu/2023/05/05/texas-am-engineering-professor-awarded-6-million-defense-grant-for-cognitive-security-research/)
+* [2023-05-17, 14:03:12](https://news.ycombinator.com/item?id=35975353) - [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
 * [2023-05-17, 14:03:10](https://news.ycombinator.com/item?id=35975352) - [Zuck impresses in Brazilian jiu-jitsu tournament](https://www.espn.com/mma/story/_/id/37598929/coach-marvels-mark-zuckerberg-winning-bjj-tournament-one-best-students-ever-had)
 * [2023-05-17, 13:39:35](https://news.ycombinator.com/item?id=35975080) - [Langton&#x27;s Ant [Wikipedia]](https://en.wikipedia.org/wiki/Langton%27s_ant)
 * [2023-05-17, 13:28:58](https://news.ycombinator.com/item?id=35974965) - [Show HN: Pinbot – An extension to privately search one&#x27;s browser history with AI](https://getpinbot.com)
