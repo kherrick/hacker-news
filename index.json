@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-05-17, 21:53:41",
-      "https://news.ycombinator.com/item?id=35981743"
+      "2023-05-17, 22:34:25",
+      "https://news.ycombinator.com/item?id=35982083"
     ],
     [
-      "IntelligentPad (1989) a component-based drag-and-drop software creator",
-      "https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/"
+      "Simulated Hospital",
+      "https://github.com/google/simhospital"
     ]
   ],
   [
@@ -37,6 +37,26 @@
     [
       "Show HN: Postgres query lock explainer",
       "https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 20:58:47",
+      "https://news.ycombinator.com/item?id=35981195"
+    ],
+    [
+      "Degrowth and the monkey&#x27;s paw",
+      "https://www.worksinprogress.news/p/degrowth-and-the-monkeys-paw"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 20:42:26",
+      "https://news.ycombinator.com/item?id=35981019"
+    ],
+    [
+      "The myth of the $600 hammer (1998)",
+      "https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-05-17, 17:30:30",
-      "https://news.ycombinator.com/item?id=35978575"
-    ],
-    [
-      "Astmaker – A DSL in Rust for programming language designers",
-      "https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 17:00:29",
       "https://news.ycombinator.com/item?id=35978151"
     ],
@@ -127,16 +137,6 @@
     [
       "Google Colab will soon introduce AI coding features",
       "https://blog.google/technology/developers/google-colab-ai-coding-features/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 15:50:08",
-      "https://news.ycombinator.com/item?id=35977057"
-    ],
-    [
-      "A raw dump of companies from all over the world by LinkedIn handle",
-      "https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/"
     ]
   ],
   [
