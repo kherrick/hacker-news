@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989) a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-05-17, 21:46:39](https://news.ycombinator.com/item?id=35981662) - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
 * [2023-05-17, 21:41:26](https://news.ycombinator.com/item?id=35981620) - [Debian pauses &#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
 * [2023-05-17, 21:22:34](https://news.ycombinator.com/item?id=35981417) - [Target expects organized retail crime-fueled losses to jump by $500M this year](https://www.cnbc.com/2023/05/17/target-says-organized-retail-crime-fueled-losses-have-shot-up.html)
