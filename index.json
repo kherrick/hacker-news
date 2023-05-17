@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-05-17, 21:22:34",
+      "https://news.ycombinator.com/item?id=35981417"
+    ],
+    [
+      "Target expects organized retail crime-fueled losses to jump by $500M this year",
+      "https://www.cnbc.com/2023/05/17/target-says-organized-retail-crime-fueled-losses-have-shot-up.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 21:02:14",
+      "https://news.ycombinator.com/item?id=35981238"
+    ],
+    [
+      "Show HN: Postgres Query Lock Explainer",
+      "https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 20:58:47",
       "https://news.ycombinator.com/item?id=35981195"
     ],
     [
-      "Degrowth and the Monkey&#x27;s Paw",
+      "Degrowth and the monkey&#x27;s paw",
       "https://www.worksinprogress.news/p/degrowth-and-the-monkeys-paw"
     ]
   ],
@@ -21,22 +41,12 @@
   ],
   [
     [
-      "2023-05-17, 20:13:49",
-      "https://news.ycombinator.com/item?id=35980656"
+      "2023-05-17, 19:41:16",
+      "https://news.ycombinator.com/item?id=35980223"
     ],
     [
-      "Dear Substack: Quit Sending Me Your Corporate Propaganda",
-      "https://empathynovel.substack.com/p/dear-substack-quit-sending-me-your"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 20:05:01",
-      "https://news.ycombinator.com/item?id=35980543"
-    ],
-    [
-      "Tracking Blocked Scripts",
-      "https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/"
+      "Show HN: Smallville – Create Generative Agents for simulations and games",
+      "https://github.com/nickm980/smallville"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35978757"
     ],
     [
-      "Understanding Database Indexes in PostgreSQL",
+      "Understanding database indexes in PostgreSQL",
       "https://blog.mastermind.dev/indexes-in-postgresql"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=35977891"
     ],
     [
-      "Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper",
+      "Ask HN: Can someone ELI5 transformers and the “Attention is all we need” paper?",
       "https://news.ycombinator.com/item?id=35977891"
     ]
   ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=35975880"
     ],
     [
-      "The Regenerating Power of Big Basin’s Redwoods",
+      "The regenerating power of Big Basin’s redwoods",
       "https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/"
     ]
   ],
@@ -225,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35972096"
     ],
     [
-      "Give your brain time to think and remember",
+      "Lately I&#x27;ve been using timers daily",
       "https://github.com/madprops/blog/blob/main/docs/timers.md"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Magic Pocket: Dropbox’s Exabyte-Scale Blob Storage System",
       "https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 17:28:42",
-      "https://news.ycombinator.com/item?id=35951594"
-    ],
-    [
-      "Paul Linebarger wrote science fiction as Cordwainer Smith (2018)",
-      "https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/"
     ]
   ],
   [
