@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 13:39:35](https://news.ycombinator.com/item?id=35975080) - [Langton&#x27;s Ant [Wikipedia]](https://en.wikipedia.org/wiki/Langton%27s_ant)
 * [2023-05-17, 13:14:54](https://news.ycombinator.com/item?id=35974794) - [George Soros’ quiet overhaul of the U.S. justice system](https://www.politico.com/story/2016/08/george-soros-criminal-justice-reform-227519)
 * [2023-05-17, 13:00:15](https://news.ycombinator.com/item?id=35974653) - [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
 * [2023-05-17, 12:58:17](https://news.ycombinator.com/item?id=35974636) - [Google will start deleting inactive accounts after two years](https://arstechnica.com/gadgets/2023/05/google-will-start-deleting-inactive-accounts-after-two-years/)
@@ -13,6 +14,7 @@
 * [2023-05-17, 11:45:43](https://news.ycombinator.com/item?id=35973947) - [Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
 * [2023-05-17, 11:37:16](https://news.ycombinator.com/item?id=35973882) - [Americans Have Never Been So Unwilling to Relocate for a New Job](https://www.bloomberg.com/news/articles/2023-05-16/americans-have-never-been-so-unwilling-to-relocate-for-a-new-job)
 * [2023-05-17, 11:36:26](https://news.ycombinator.com/item?id=35973873) - [A Radical Plan to Make AI Good, Not Evil](https://www.wired.com/story/anthropic-ai-chatbots-ethics/)
+* [2023-05-17, 11:18:36](https://news.ycombinator.com/item?id=35973743) - [The $GREED Experiment: From a joke tweet to the top of Twitter Trending](https://voshy.medium.com/the-greed-experiment-from-a-joke-tweet-to-the-top-of-twitter-trending-8540ac595ef3)
 * [2023-05-17, 11:03:46](https://news.ycombinator.com/item?id=35973645) - [OpenAI came after our domain because we use GPT in it](https://news.ycombinator.com/item?id=35973645)
 * [2023-05-17, 10:20:30](https://news.ycombinator.com/item?id=35973366) - [UK: No-fault evictions to be banned in reform of rental sector](https://www.bbc.co.uk/news/uk-politics-65612842)
 * [2023-05-17, 10:03:48](https://news.ycombinator.com/item?id=35973265) - [Pandas AI – The Future of Data Analysis](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f)
