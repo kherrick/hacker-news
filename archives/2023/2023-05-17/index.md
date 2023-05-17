@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 05:46:29](https://news.ycombinator.com/item?id=35971677) - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
+* [2023-05-17, 04:46:05](https://news.ycombinator.com/item?id=35971338) - [Beautiful Documents with Groff (Part I)](https://stephenramsay.net/posts/groff-mom.html)
 * [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
 * [2023-05-17, 03:45:50](https://news.ycombinator.com/item?id=35971034) - [27-year-old pays $0 to live in a ‘luxury tiny home’–how she built it for $35,000](https://www.cnbc.com/2023/05/13/27-year-old-lives-for-free-in-backyard-tiny-luxury-home-built-for-35000-i-forget-i-am-living-in-a-shed.html)
 * [2023-05-17, 03:29:19](https://news.ycombinator.com/item?id=35970931) - [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)

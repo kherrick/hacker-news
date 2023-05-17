@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 05:46:29](https://news.ycombinator.com/item?id=35971677) - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
+* [2023-05-17, 04:46:05](https://news.ycombinator.com/item?id=35971338) - [Beautiful Documents with Groff (Part I)](https://stephenramsay.net/posts/groff-mom.html)
 * [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
 * [2023-05-17, 03:29:19](https://news.ycombinator.com/item?id=35970931) - [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)
 * [2023-05-17, 01:30:18](https://news.ycombinator.com/item?id=35970213) - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
@@ -14,7 +16,6 @@
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
 * [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language (2020)](http://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 18:09:04](https://news.ycombinator.com/item?id=35965541) - [One man&#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
-* [2023-05-16, 18:04:36](https://news.ycombinator.com/item?id=35965486) - [Should we normalize ephemeral businesses?](https://anu.substack.com/p/the-generational-business-trap)
 * [2023-05-16, 18:04:20](https://news.ycombinator.com/item?id=35965483) - [Bun 0.6](https://bun.sh/blog/bun-v0.6.0)
 * [2023-05-16, 16:36:23](https://news.ycombinator.com/item?id=35964281) - [Show HN: My solar-powered, ePaper digital photo frame](https://www.jamez.it/blog/2023/05/16/version-2-of-my-solar-powered-epaper-digital-photo-frame/)
 * [2023-05-16, 16:14:36](https://news.ycombinator.com/item?id=35963949) - [AI can’t do hiring because it lacks the data](https://interviewing.io/blog/why-ai-cant-do-hiring)
@@ -28,7 +29,6 @@
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:47:32](https://news.ycombinator.com/item?id=35945322) - [Asus Ally Emulates PS3, Nintendo Switch, Xbox 360 with Ease](https://www.tomshardware.com/news/asus-rog-ally-emulation-performance)
 * [2023-05-15, 08:28:45](https://news.ycombinator.com/item?id=35945234) - [Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
-* [2023-05-15, 07:54:47](https://news.ycombinator.com/item?id=35945006) - [How to Play Hextraction](https://www.playhextraction.com/how-to-play)
 * [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)
