@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 13:14:54](https://news.ycombinator.com/item?id=35974794) - [George Soros’ quiet overhaul of the U.S. justice system](https://www.politico.com/story/2016/08/george-soros-criminal-justice-reform-227519)
+* [2023-05-17, 13:00:15](https://news.ycombinator.com/item?id=35974653) - [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
+* [2023-05-17, 12:58:17](https://news.ycombinator.com/item?id=35974636) - [Google will start deleting inactive accounts after two years](https://arstechnica.com/gadgets/2023/05/google-will-start-deleting-inactive-accounts-after-two-years/)
+* [2023-05-17, 12:48:26](https://news.ycombinator.com/item?id=35974515) - [Agnès Varda](https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda)
 * [2023-05-17, 12:02:42](https://news.ycombinator.com/item?id=35974080) - [Retro Computer Museum – Leicester, UK](https://retrocomputermuseum.co.uk/)
 * [2023-05-17, 12:01:22](https://news.ycombinator.com/item?id=35974067) - [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 * [2023-05-17, 11:45:43](https://news.ycombinator.com/item?id=35973947) - [Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
