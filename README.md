@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-17, 07:26:40](https://news.ycombinator.com/item?id=35972254) - [Titanic: First ever full-sized scans](https://www.bbc.co.uk/news/science-environment-65602182)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
 * [2023-05-17, 06:20:15](https://news.ycombinator.com/item?id=35971863) - [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
 * [2023-05-17, 05:46:29](https://news.ycombinator.com/item?id=35971677) - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
@@ -30,6 +29,7 @@
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:47:32](https://news.ycombinator.com/item?id=35945322) - [Asus Ally Emulates PS3, Nintendo Switch, Xbox 360 with Ease](https://www.tomshardware.com/news/asus-rog-ally-emulation-performance)
 * [2023-05-15, 08:28:45](https://news.ycombinator.com/item?id=35945234) - [Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
+* [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)
 
