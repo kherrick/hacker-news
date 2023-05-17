@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
 * [2023-05-17, 21:46:39](https://news.ycombinator.com/item?id=35981662) - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
+* [2023-05-17, 21:41:26](https://news.ycombinator.com/item?id=35981620) - [Debian pauses &#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
 * [2023-05-17, 21:22:34](https://news.ycombinator.com/item?id=35981417) - [Target expects organized retail crime-fueled losses to jump by $500M this year](https://www.cnbc.com/2023/05/17/target-says-organized-retail-crime-fueled-losses-have-shot-up.html)
 * [2023-05-17, 21:10:24](https://news.ycombinator.com/item?id=35981311) - [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
 * [2023-05-17, 21:02:14](https://news.ycombinator.com/item?id=35981238) - [Show HN: Postgres Query Lock Explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
@@ -18,6 +19,7 @@
 * [2023-05-17, 19:02:15](https://news.ycombinator.com/item?id=35979712) - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
 * [2023-05-17, 19:00:51](https://news.ycombinator.com/item?id=35979692) - [Has HN Changed? I assume it&#x27;s just me](https://news.ycombinator.com/item?id=35979692)
 * [2023-05-17, 18:26:13](https://news.ycombinator.com/item?id=35979305) - [Sam Altman Isn’t the Answer to Regulating Artificial Intelligence](https://www.bloomberg.com/opinion/articles/2023-05-17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask)
+* [2023-05-17, 18:12:31](https://news.ycombinator.com/item?id=35979133) - [Show HN: PENVM – Programmable, extensible, network virtual machine](https://penvm.dev/)
 * [2023-05-17, 17:53:38](https://news.ycombinator.com/item?id=35978913) - [Elizabeth Holmes ordered to pay $452M restitution](https://wjla.com/news/nation-world/elizabeth-holmes-ordered-to-pay-452m-restitution-for-blood-testing-hoax-theranos-ceo-conviction-fraud-billionaire-ramesh-sunny-balwani-the-dropout-silicon-valley-prison-southern-california)
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 17:42:15](https://news.ycombinator.com/item?id=35978757) - [Understanding Database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
