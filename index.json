@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 19:22:22",
+      "https://news.ycombinator.com/item?id=35979977"
+    ],
+    [
+      "International Music Score Library Project (IMSLP)",
+      "https://imslp.org/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 19:02:15",
       "https://news.ycombinator.com/item?id=35979712"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2023-05-17, 18:26:13",
-      "https://news.ycombinator.com/item?id=35979305"
-    ],
-    [
-      "Sam Altman Isn’t the Answer to Regulating Artificial Intelligence",
-      "https://www.bloomberg.com/opinion/articles/2023-05-17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 17:50:07",
       "https://news.ycombinator.com/item?id=35978864"
     ],
     [
       "Numbers every LLM Developer should know",
       "https://github.com/ray-project/llm-numbers"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 17:42:15",
+      "https://news.ycombinator.com/item?id=35978757"
+    ],
+    [
+      "Understanding Database Indexes in PostgreSQL",
+      "https://blog.mastermind.dev/indexes-in-postgresql"
     ]
   ],
   [
@@ -45,18 +55,8 @@
       "https://news.ycombinator.com/item?id=35978445"
     ],
     [
-      "Google Analytics 4 Has Me So Frustrated, We Built Our Own Analytics Service",
+      "Google Analytics 4 was frustrating, so we built our own analytics service",
       "https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 17:05:34",
-      "https://news.ycombinator.com/item?id=35978217"
-    ],
-    [
-      "SkiFree has been recompiled using VS2019 for modern Windows",
-      "https://ski.ihoc.net/#download"
     ]
   ],
   [
