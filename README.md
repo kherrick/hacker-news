@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
 * [2023-05-17, 16:03:48](https://news.ycombinator.com/item?id=35977294) - [AI-powered coding, free of charge with Colab](https://blog.google/technology/developers/google-colab-ai-coding-features/)
 * [2023-05-17, 15:50:08](https://news.ycombinator.com/item?id=35977057) - [World&#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
 * [2023-05-17, 15:46:14](https://news.ycombinator.com/item?id=35976993) - [What If Instead of Trying to Manage Your Time, You Set It Free?](https://www.nytimes.com/interactive/2023/05/15/magazine/jenny-odell-interview.html)
@@ -24,7 +25,6 @@
 * [2023-05-17, 04:46:05](https://news.ycombinator.com/item?id=35971338) - [Beautiful Documents with Groff (Part I)](https://stephenramsay.net/posts/groff-mom.html)
 * [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
 * [2023-05-17, 03:29:19](https://news.ycombinator.com/item?id=35970931) - [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)
-* [2023-05-16, 22:56:03](https://news.ycombinator.com/item?id=35968864) - [Jean Baptiste Vérany’s Chromolithographs of Cephalopods (1851)](https://publicdomainreview.org/collection/verany-cephalopods)
 * [2023-05-16, 18:35:51](https://news.ycombinator.com/item?id=35965824) - [I Still Use Windows 95 (2008)](https://web.archive.org/web/20080220175358/http://www.andrew-turnbull.net/tech/windows95.html)
 * [2023-05-16, 06:35:46](https://news.ycombinator.com/item?id=35958374) - [Vintage AI predictions show our hopes and fears aren’t new, even if the tech is](https://gizmodo.com/ai-chatbot-chatgpt-tech-1850433697)
 * [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 Transformers and the “Attention is all we need” paper](https://news.ycombinator.com/item?id=35977891)
 * [2023-05-17, 16:03:48](https://news.ycombinator.com/item?id=35977294) - [AI-powered coding, free of charge with Colab](https://blog.google/technology/developers/google-colab-ai-coding-features/)
 * [2023-05-17, 15:50:08](https://news.ycombinator.com/item?id=35977057) - [World&#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
 * [2023-05-17, 15:46:14](https://news.ycombinator.com/item?id=35976993) - [What If Instead of Trying to Manage Your Time, You Set It Free?](https://www.nytimes.com/interactive/2023/05/15/magazine/jenny-odell-interview.html)
