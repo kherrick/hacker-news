@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 20:13:49](https://news.ycombinator.com/item?id=35980656) - [Dear Substack: Quit Sending Me Your Corporate Propaganda](https://empathynovel.substack.com/p/dear-substack-quit-sending-me-your)
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [International Music Score Library Project (IMSLP)](https://imslp.org/)
 * [2023-05-17, 19:02:15](https://news.ycombinator.com/item?id=35979712) - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
 * [2023-05-17, 19:00:51](https://news.ycombinator.com/item?id=35979692) - [Has HN Changed? I assume it&#x27;s just me](https://news.ycombinator.com/item?id=35979692)
