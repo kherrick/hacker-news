@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 14:19:49](https://news.ycombinator.com/item?id=35975545) - [The IRS is building its own online tax filing system. Tax-preppers not happy](https://text.npr.org/1176417594)
 * [2023-05-17, 14:03:10](https://news.ycombinator.com/item?id=35975352) - [Zuck impresses in Brazilian jiu-jitsu tournament](https://www.espn.com/mma/story/_/id/37598929/coach-marvels-mark-zuckerberg-winning-bjj-tournament-one-best-students-ever-had)
 * [2023-05-17, 13:39:35](https://news.ycombinator.com/item?id=35975080) - [Langton&#x27;s Ant [Wikipedia]](https://en.wikipedia.org/wiki/Langton%27s_ant)
 * [2023-05-17, 13:26:37](https://news.ycombinator.com/item?id=35974934) - [Students are increasingly refusing to go to school](https://www.usatoday.com/in-depth/news/health/2023/05/15/school-avoidance-becomes-crisis-after-covid/11127563002/)
+* [2023-05-17, 13:18:48](https://news.ycombinator.com/item?id=35974845) - [The Staff Engineer&#x27;s Path – Book Review](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
 * [2023-05-17, 13:14:54](https://news.ycombinator.com/item?id=35974794) - [George Soros’ quiet overhaul of the U.S. justice system](https://www.politico.com/story/2016/08/george-soros-criminal-justice-reform-227519)
 * [2023-05-17, 13:00:15](https://news.ycombinator.com/item?id=35974653) - [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
 * [2023-05-17, 12:58:17](https://news.ycombinator.com/item?id=35974636) - [Google will start deleting inactive accounts after two years](https://arstechnica.com/gadgets/2023/05/google-will-start-deleting-inactive-accounts-after-two-years/)
