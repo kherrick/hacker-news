@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 07:26:40",
+      "https://news.ycombinator.com/item?id=35972254"
+    ],
+    [
+      "Titanic: First ever full-sized scans",
+      "https://www.bbc.co.uk/news/science-environment-65602182"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 06:29:14",
       "https://news.ycombinator.com/item?id=35971915"
     ],
@@ -27,6 +37,16 @@
     [
       "BratGPT: The evil older sibling of ChatGPT",
       "https://bratgpt.com"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 05:04:11",
+      "https://news.ycombinator.com/item?id=35971454"
+    ],
+    [
+      "Achieving full stack Kubernetes visibility",
+      "https://devtron.ai/blog/full-stack-kubernetes-visibility/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-05-15, 09:34:44",
-      "https://news.ycombinator.com/item?id=35945648"
-    ],
-    [
-      "Bitmap Bonanza",
-      "https://dansanderson.com/mega65/bitmap-bonanza/"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 09:08:14",
       "https://news.ycombinator.com/item?id=35945467"
     ],
@@ -287,16 +297,6 @@
     [
       "Introduction to the Fourier transform for image processing",
       "https://www.cs.unm.edu/~brayer/vision/fourier.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-14, 21:09:50",
-      "https://news.ycombinator.com/item?id=35941369"
-    ],
-    [
-      "Notes on rarely-seen game mechanics",
-      "https://blog.plover.com/notes/game-mechanics.html"
     ]
   ]
 ]
