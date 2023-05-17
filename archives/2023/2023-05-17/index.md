@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
 * [2023-05-17, 10:03:48](https://news.ycombinator.com/item?id=35973265) - [Pandas AI – The Future of Data Analysis](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f)
+* [2023-05-17, 09:38:02](https://news.ycombinator.com/item?id=35973093) - [Planned obsolescence: Apple attacked for the “serialization” of its spare parts](https://www.lemonde.fr/pixels/article/2023/05/17/obsolescence-programmee-apple-attaquee-pour-la-serialisation-de-ses-pieces-detachees_6173705_4408996.html)
 * [2023-05-17, 08:57:08](https://news.ycombinator.com/item?id=35972774) - [Slack Is Down](https://slack.com)
 * [2023-05-17, 08:36:26](https://news.ycombinator.com/item?id=35972664) - [The U.S. birth rate has fallen by 20% since 2007](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate)
 * [2023-05-17, 08:30:52](https://news.ycombinator.com/item?id=35972631) - [Rollstack (YC W23) Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
