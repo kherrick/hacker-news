@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 03:45:50](https://news.ycombinator.com/item?id=35971034) - [27-year-old pays $0 to live in a ‘luxury tiny home’–how she built it for $35,000](https://www.cnbc.com/2023/05/13/27-year-old-lives-for-free-in-backyard-tiny-luxury-home-built-for-35000-i-forget-i-am-living-in-a-shed.html)
 * [2023-05-17, 03:13:52](https://news.ycombinator.com/item?id=35970854) - [Theranos founder Elizabeth Holmes must go to prison while she appeals sentence](https://www.theguardian.com/technology/2023/may/17/court-rules-theranos-founder-elizabeth-holmes-must-go-to-prison-while-she-appeals-sentence)
 * [2023-05-17, 02:18:14](https://news.ycombinator.com/item?id=35970539) - [Earth Primer](https://www.earthprimer.com/)
 * [2023-05-17, 01:30:18](https://news.ycombinator.com/item?id=35970213) - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
@@ -24,7 +25,6 @@
 * [2023-05-15, 16:37:24](https://news.ycombinator.com/item?id=35950921) - [So, how do you refill an aquifer?](https://heatmap.news/technology/so-how-do-you-actually-refill-an-aquifer)
 * [2023-05-15, 15:22:08](https://news.ycombinator.com/item?id=35949670) - [Saturn reclaims &#x27;moon king&#x27; title from Jupiter with 62 newfound satellites](https://www.space.com/saturn-moon-king-62-newfound-satellites)
 * [2023-05-15, 12:39:42](https://news.ycombinator.com/item?id=35947217) - [CMU Common Lisp 21e](https://gitlab.common-lisp.net/cmucl/cmucl/-/releases/21e)
-* [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
 * [2023-05-15, 10:48:57](https://news.ycombinator.com/item?id=35946181) - [Why we created Taxi, and why we felt the need for another schema language](https://orbitalhq.com/blog/2023-05-12-why-we-created-taxi)
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:47:32](https://news.ycombinator.com/item?id=35945322) - [Asus Ally Emulates PS3, Nintendo Switch, Xbox 360 with Ease](https://www.tomshardware.com/news/asus-rog-ally-emulation-performance)
