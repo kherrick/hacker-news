@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 08:30:52](https://news.ycombinator.com/item?id=35972631) - [Rollstack (YC W23) Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
 * [2023-05-17, 07:57:54](https://news.ycombinator.com/item?id=35972437) - [Comparison site for digital analytics tools](https://newmetrics.io/)
 * [2023-05-17, 07:12:42](https://news.ycombinator.com/item?id=35972167) - [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
 * [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
@@ -15,7 +16,6 @@
 * [2023-05-16, 23:08:20](https://news.ycombinator.com/item?id=35968968) - [Beware offers of “help” with your projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
 * [2023-05-16, 22:26:07](https://news.ycombinator.com/item?id=35968604) - [Businesses are in for a mighty debt hangover](https://www.economist.com/business/2023/05/16/businesses-are-in-for-a-mighty-debt-hangover)
 * [2023-05-16, 21:34:06](https://news.ycombinator.com/item?id=35968068) - [CO2 Heat Pumps Found to Offer High Efficiency at Low Ambient Temperature](https://r744.com/co2-heat-pumps-found-to-offer-high-efficiency-at-low-ambient-temperature-in-electric-vehicles/)
-* [2023-05-16, 21:01:15](https://news.ycombinator.com/item?id=35967704) - [Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
 * [2023-05-16, 19:27:18](https://news.ycombinator.com/item?id=35966537) - [John Conway&#x27;s FRACTRAN, a ridiculous, yet surprisingly deep language (2020)](http://raganwald.com/2020/05/03/fractran.html)
 * [2023-05-16, 18:09:04](https://news.ycombinator.com/item?id=35965541) - [One man&#x27;s rare Alzheimer’s mutation delayed its onset](https://www.nature.com/articles/d41586-023-01610-z)
