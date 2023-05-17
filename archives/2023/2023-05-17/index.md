@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 15:50:08](https://news.ycombinator.com/item?id=35977057) - [World&#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
+* [2023-05-17, 15:40:39](https://news.ycombinator.com/item?id=35976891) - [Conditional CSS with:has and:nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child/)
 * [2023-05-17, 15:39:14](https://news.ycombinator.com/item?id=35976871) - [Report reveals Android users switching to iPhone at 5-year high](https://9to5mac.com/2023/05/17/android-switching-to-iphone-highest-level/)
+* [2023-05-17, 15:30:09](https://news.ycombinator.com/item?id=35976743) - [Controlled burns help prevent wildfires. Regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
 * [2023-05-17, 15:19:34](https://news.ycombinator.com/item?id=35976563) - [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
 * [2023-05-17, 15:19:07](https://news.ycombinator.com/item?id=35976557) - [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
 * [2023-05-17, 14:45:51](https://news.ycombinator.com/item?id=35975943) - [Stripe shut our microbiology conference account down for adult content?](https://news.ycombinator.com/item?id=35975943)
