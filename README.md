@@ -11,6 +11,7 @@
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [Petrucci Music Library](https://imslp.org/)
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 17:42:15](https://news.ycombinator.com/item?id=35978757) - [Understanding database indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
+* [2023-05-17, 17:30:30](https://news.ycombinator.com/item?id=35978575) - [Astmaker – A DSL in Rust for programming language designers](https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831)
 * [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
 * [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 transformers and the “Attention is all we need” paper?](https://news.ycombinator.com/item?id=35977891)
 * [2023-05-17, 16:03:48](https://news.ycombinator.com/item?id=35977294) - [Google Colab will soon introduce AI coding features](https://blog.google/technology/developers/google-colab-ai-coding-features/)
@@ -29,7 +30,6 @@
 * [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)
 * [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
 * [2023-05-15, 12:28:51](https://news.ycombinator.com/item?id=35947125) - [What were the worst jobs for poor Romans in Ancient Rome?](https://www.quora.com/What-were-the-worst-jobs-for-poor-Romans-in-Ancient-Rome)
-* [2023-05-15, 05:15:58](https://news.ycombinator.com/item?id=35944116) - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 
 ## [Archives](archives/index.md)
 
