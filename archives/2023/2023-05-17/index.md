@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 17:53:38](https://news.ycombinator.com/item?id=35978913) - [Elizabeth Holmes ordered to pay $452M restitution](https://wjla.com/news/nation-world/elizabeth-holmes-ordered-to-pay-452m-restitution-for-blood-testing-hoax-theranos-ceo-conviction-fraud-billionaire-ramesh-sunny-balwani-the-dropout-silicon-valley-prison-southern-california)
 * [2023-05-17, 17:05:34](https://news.ycombinator.com/item?id=35978217) - [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
 * [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
 * [2023-05-17, 16:53:55](https://news.ycombinator.com/item?id=35978058) - [Bing thinks Hitler was in Radiohead](https://twitter.com/jdx/status/1658876595921190912)
@@ -54,6 +55,7 @@
 * [2023-05-17, 07:57:54](https://news.ycombinator.com/item?id=35972437) - [Comparison site for digital analytics tools](https://newmetrics.io/)
 * [2023-05-17, 07:26:40](https://news.ycombinator.com/item?id=35972254) - [Titanic: First ever full-sized scans](https://www.bbc.co.uk/news/science-environment-65602182)
 * [2023-05-17, 07:12:42](https://news.ycombinator.com/item?id=35972167) - [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
+* [2023-05-17, 07:04:24](https://news.ycombinator.com/item?id=35972112) - [Show HN: Speeding up the code-test cycle for Java developers](https://news.ycombinator.com/item?id=35972112)
 * [2023-05-17, 07:00:31](https://news.ycombinator.com/item?id=35972096) - [Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
 * [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)

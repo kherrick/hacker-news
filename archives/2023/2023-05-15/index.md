@@ -55,6 +55,7 @@
 * [2023-05-15, 15:02:42](https://news.ycombinator.com/item?id=35949317) - [LobbyFacts – Exposing Lobbying in the European Institutions](https://www.lobbyfacts.eu/)
 * [2023-05-15, 14:58:01](https://news.ycombinator.com/item?id=35949245) - [Windows 2000 64-bit for Alpha AXP](https://virtuallyfun.com/2023/05/15/windows-2000-64-bit-for-alpha-axp/)
 * [2023-05-15, 14:46:40](https://news.ycombinator.com/item?id=35949043) - [The UK’s Secretive Web Surveillance Program Is Ramping Up](https://www.wired.com/story/internet-connection-records-uk-surveillance/)
+* [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
 * [2023-05-15, 14:42:41](https://news.ycombinator.com/item?id=35948972) - [I don&#x27;t have ADHD, but three private clinics say I do, and offered me medication](https://www.bbc.co.uk/news/health-65534449)
 * [2023-05-15, 14:29:50](https://news.ycombinator.com/item?id=35948742) - [Anthropic&#x27;s 100k context is now available in the web UI](https://twitter.com/jlowin/status/1658117052425543682)
 * [2023-05-15, 14:27:02](https://news.ycombinator.com/item?id=35948698) - [Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving](https://www.nytimes.com/interactive/2023/05/15/upshot/migrations-college-super-cities.html)
