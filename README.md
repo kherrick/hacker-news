@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 15:39:14](https://news.ycombinator.com/item?id=35976871) - [Report reveals Android users switching to iPhone at 5-year high](https://9to5mac.com/2023/05/17/android-switching-to-iphone-highest-level/)
 * [2023-05-17, 15:19:34](https://news.ycombinator.com/item?id=35976563) - [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
 * [2023-05-17, 15:19:07](https://news.ycombinator.com/item?id=35976557) - [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
@@ -24,7 +25,6 @@
 * [2023-05-17, 02:51:07](https://news.ycombinator.com/item?id=35970723) - [DIY Book Binding](http://www.diybookbinding.com/)
 * [2023-05-16, 18:35:51](https://news.ycombinator.com/item?id=35965824) - [I Still Use Windows 95 (2008)](https://web.archive.org/web/20080220175358/http://www.andrew-turnbull.net/tech/windows95.html)
 * [2023-05-16, 14:35:29](https://news.ycombinator.com/item?id=35962468) - [Large-scale genetic modification reveals role of duplicated genes in plants](https://phys.org/news/2023-05-large-scale-genetic-modification-method-reveals.html)
-* [2023-05-16, 08:34:50](https://news.ycombinator.com/item?id=35959073) - [Experts weigh impact of Intel-Arm collaboration](https://www.eetimes.com/experts-weigh-impact-of-intel-arm-collaboration/)
 * [2023-05-16, 06:35:46](https://news.ycombinator.com/item?id=35958374) - [Vintage AI predictions show our hopes and fears aren’t new, even if the tech is](https://gizmodo.com/ai-chatbot-chatgpt-tech-1850433697)
 * [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)
 * [2023-05-15, 13:36:15](https://news.ycombinator.com/item?id=35947915) - [Deadlines as Technology](https://blog.jim-nielsen.com/2023/deadlines-as-technology/)

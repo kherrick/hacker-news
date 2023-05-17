@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 15:39:14](https://news.ycombinator.com/item?id=35976871) - [Report reveals Android users switching to iPhone at 5-year high](https://9to5mac.com/2023/05/17/android-switching-to-iphone-highest-level/)
 * [2023-05-17, 15:19:34](https://news.ycombinator.com/item?id=35976563) - [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
 * [2023-05-17, 15:19:07](https://news.ycombinator.com/item?id=35976557) - [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
 * [2023-05-17, 14:45:51](https://news.ycombinator.com/item?id=35975943) - [Stripe shut our microbiology conference account down for adult content?](https://news.ycombinator.com/item?id=35975943)
