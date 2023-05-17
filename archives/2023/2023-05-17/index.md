@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 10:03:48](https://news.ycombinator.com/item?id=35973265) - [Pandas AI – The Future of Data Analysis](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f)
 * [2023-05-17, 08:57:08](https://news.ycombinator.com/item?id=35972774) - [Slack Is Down](https://slack.com)
 * [2023-05-17, 08:36:26](https://news.ycombinator.com/item?id=35972664) - [The U.S. birth rate has fallen by 20% since 2007](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate)
 * [2023-05-17, 08:30:52](https://news.ycombinator.com/item?id=35972631) - [Rollstack (YC W23) Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
 * [2023-05-17, 07:57:54](https://news.ycombinator.com/item?id=35972437) - [Comparison site for digital analytics tools](https://newmetrics.io/)
 * [2023-05-17, 07:26:40](https://news.ycombinator.com/item?id=35972254) - [Titanic: First ever full-sized scans](https://www.bbc.co.uk/news/science-environment-65602182)
 * [2023-05-17, 07:12:42](https://news.ycombinator.com/item?id=35972167) - [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
+* [2023-05-17, 07:00:31](https://news.ycombinator.com/item?id=35972096) - [Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
 * [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
 * [2023-05-17, 06:20:15](https://news.ycombinator.com/item?id=35971863) - [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
