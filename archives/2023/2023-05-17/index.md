@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 19:02:15](https://news.ycombinator.com/item?id=35979712) - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
 * [2023-05-17, 18:26:13](https://news.ycombinator.com/item?id=35979305) - [Sam Altman Isn’t the Answer to Regulating Artificial Intelligence](https://www.bloomberg.com/opinion/articles/2023-05-17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask)
 * [2023-05-17, 17:53:38](https://news.ycombinator.com/item?id=35978913) - [Elizabeth Holmes ordered to pay $452M restitution](https://wjla.com/news/nation-world/elizabeth-holmes-ordered-to-pay-452m-restitution-for-blood-testing-hoax-theranos-ceo-conviction-fraud-billionaire-ramesh-sunny-balwani-the-dropout-silicon-valley-prison-southern-california)
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
