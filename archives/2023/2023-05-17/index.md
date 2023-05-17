@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 16:03:48](https://news.ycombinator.com/item?id=35977294) - [AI-powered coding, free of charge with Colab](https://blog.google/technology/developers/google-colab-ai-coding-features/)
 * [2023-05-17, 15:50:08](https://news.ycombinator.com/item?id=35977057) - [World&#x27;s largest open source company dataset](https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/)
+* [2023-05-17, 15:46:14](https://news.ycombinator.com/item?id=35976993) - [What If Instead of Trying to Manage Your Time, You Set It Free?](https://www.nytimes.com/interactive/2023/05/15/magazine/jenny-odell-interview.html)
 * [2023-05-17, 15:40:39](https://news.ycombinator.com/item?id=35976891) - [Conditional CSS with:has and:nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child/)
 * [2023-05-17, 15:39:14](https://news.ycombinator.com/item?id=35976871) - [Report reveals Android users switching to iPhone at 5-year high](https://9to5mac.com/2023/05/17/android-switching-to-iphone-highest-level/)
 * [2023-05-17, 15:30:09](https://news.ycombinator.com/item?id=35976743) - [Controlled burns help prevent wildfires. Regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
@@ -13,6 +15,7 @@
 * [2023-05-17, 14:45:51](https://news.ycombinator.com/item?id=35975943) - [Stripe shut our microbiology conference account down for adult content?](https://news.ycombinator.com/item?id=35975943)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 * [2023-05-17, 14:29:48](https://news.ycombinator.com/item?id=35975690) - [U.S. Depression Rates Reach New Highs](https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx)
+* [2023-05-17, 14:21:51](https://news.ycombinator.com/item?id=35975578) - [Stability AI Releases StableStudio, the Open-Source Future of DreamStudio](https://stability.ai/blog/stablestudio-open-source-community-driven-future-dreamstudio-release)
 * [2023-05-17, 14:19:49](https://news.ycombinator.com/item?id=35975545) - [The IRS is building its own online tax filing system. Tax-preppers not happy](https://text.npr.org/1176417594)
 * [2023-05-17, 14:14:17](https://news.ycombinator.com/item?id=35975470) - [Engineering professor awarded defense grant for cognitive security research](https://today.tamu.edu/2023/05/05/texas-am-engineering-professor-awarded-6-million-defense-grant-for-cognitive-security-research/)
 * [2023-05-17, 14:03:16](https://news.ycombinator.com/item?id=35975355) - [SQLite FTS5 Faster Than Redis Full-Text Search](https://blog.sqlitecloud.io/real-time-full-text-site-search-with-sqlite-fts5-extension)
