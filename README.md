@@ -2,7 +2,6 @@
 
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [International Music Score Library Project (IMSLP)](https://imslp.org/)
 * [2023-05-17, 19:02:15](https://news.ycombinator.com/item?id=35979712) - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
-* [2023-05-17, 19:00:51](https://news.ycombinator.com/item?id=35979692) - [Has HN Changed? I assume it&#x27;s just me](https://news.ycombinator.com/item?id=35979692)
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 17:42:15](https://news.ycombinator.com/item?id=35978757) - [Understanding Database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 * [2023-05-17, 17:30:30](https://news.ycombinator.com/item?id=35978575) - [Astmaker – A DSL in Rust for programming language designers](https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831)
@@ -23,12 +22,13 @@
 * [2023-05-17, 11:37:16](https://news.ycombinator.com/item?id=35973882) - [Americans Have Never Been So Unwilling to Relocate for a New Job](https://www.bloomberg.com/news/articles/2023-05-16/americans-have-never-been-so-unwilling-to-relocate-for-a-new-job)
 * [2023-05-17, 07:04:24](https://news.ycombinator.com/item?id=35972112) - [Show HN: Speeding up the code-test cycle for Java developers](https://news.ycombinator.com/item?id=35972112)
 * [2023-05-17, 07:00:31](https://news.ycombinator.com/item?id=35972096) - [Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
-* [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
+* [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 * [2023-05-16, 18:35:51](https://news.ycombinator.com/item?id=35965824) - [I Still Use Windows 95 (2008)](https://web.archive.org/web/20080220175358/http://www.andrew-turnbull.net/tech/windows95.html)
-* [2023-05-16, 06:58:15](https://news.ycombinator.com/item?id=35958516) - [How to become a debt buyer](https://coda.io/@bob/debt-buyer)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s Exabyte-Scale Blob Storage System](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
+* [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)
 * [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
 * [2023-05-15, 13:36:15](https://news.ycombinator.com/item?id=35947915) - [Deadlines as Technology](https://blog.jim-nielsen.com/2023/deadlines-as-technology/)
+* [2023-05-15, 12:28:51](https://news.ycombinator.com/item?id=35947125) - [What were the worst jobs for poor Romans in Ancient Rome?](https://www.quora.com/What-were-the-worst-jobs-for-poor-Romans-in-Ancient-Rome)
 * [2023-05-15, 10:18:09](https://news.ycombinator.com/item?id=35945941) - [The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
 
 ## [Archives](archives/index.md)
