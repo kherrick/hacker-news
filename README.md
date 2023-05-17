@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-17, 13:39:35](https://news.ycombinator.com/item?id=35975080) - [Langton&#x27;s Ant [Wikipedia]](https://en.wikipedia.org/wiki/Langton%27s_ant)
+* [2023-05-17, 13:39:35](https://news.ycombinator.com/item?id=35975080) - [Langton’s ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
 * [2023-05-17, 13:00:15](https://news.ycombinator.com/item?id=35974653) - [The Golang telemetry proposal has been accepted](https://github.com/golang/go/issues/58894)
-* [2023-05-17, 12:48:26](https://news.ycombinator.com/item?id=35974515) - [Agnès Varda](https://en.wikipedia.org/wiki/Agn%C3%A8s_Varda)
 * [2023-05-17, 12:02:42](https://news.ycombinator.com/item?id=35974080) - [Retro Computer Museum – Leicester, UK](https://retrocomputermuseum.co.uk/)
 * [2023-05-17, 12:01:22](https://news.ycombinator.com/item?id=35974067) - [Skio (YC S20) is hiring – subscriptions for Shopify, easy ReCharge migrations](https://skio.com/careers/)
 * [2023-05-17, 11:45:43](https://news.ycombinator.com/item?id=35973947) - [Summarize Any Article as a Dialog Between Two People with Bing Chat](https://www.aidemos.info/summarize-any-article-as-a-dialog-between-two-people-with-bing-chat/)
@@ -29,6 +28,7 @@
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:47:32](https://news.ycombinator.com/item?id=35945322) - [Asus Ally Emulates PS3, Nintendo Switch, Xbox 360 with Ease](https://www.tomshardware.com/news/asus-rog-ally-emulation-performance)
 * [2023-05-15, 08:28:45](https://news.ycombinator.com/item?id=35945234) - [Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
+* [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
 * [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)
