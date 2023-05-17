@@ -2,7 +2,6 @@
 
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989) a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-05-17, 21:46:39](https://news.ycombinator.com/item?id=35981662) - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
-* [2023-05-17, 21:41:26](https://news.ycombinator.com/item?id=35981620) - [Debian pauses &#x2F;usr merge file moves](https://lwn.net/Articles/932158/)
 * [2023-05-17, 21:10:24](https://news.ycombinator.com/item?id=35981311) - [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
 * [2023-05-17, 21:02:14](https://news.ycombinator.com/item?id=35981238) - [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
 * [2023-05-17, 20:05:01](https://news.ycombinator.com/item?id=35980543) - [Tracking Blocked Scripts](https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/)
@@ -30,6 +29,7 @@
 * [2023-05-16, 03:18:29](https://news.ycombinator.com/item?id=35957399) - [Integrating social responsibility into core CS](https://evanpeck.github.io/projects/responsibleCS)
 * [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)
 * [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
+* [2023-05-15, 05:15:58](https://news.ycombinator.com/item?id=35944116) - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 
 ## [Archives](archives/index.md)
 

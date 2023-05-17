@@ -108,6 +108,7 @@
 * [2023-05-15, 05:53:17](https://news.ycombinator.com/item?id=35944315) - [This Blog is hosted on my Android phone](https://androidblog.a.pinggy.io/)
 * [2023-05-15, 05:47:40](https://news.ycombinator.com/item?id=35944295) - [Dell goes back on WFH pledge, forces employees to come back to the office](https://www.techradar.com/news/dell-goes-back-on-wfh-pledge-forces-employees-to-come-back-to-the-office)
 * [2023-05-15, 05:23:13](https://news.ycombinator.com/item?id=35944159) - [Pixpaint](https://warms.maxbittker.repl.co/)
+* [2023-05-15, 05:15:58](https://news.ycombinator.com/item?id=35944116) - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 * [2023-05-15, 05:12:09](https://news.ycombinator.com/item?id=35944094) - [The ocean’s largest shark has a little something to say](https://www.atlasobscura.com/articles/whale-shark-sounds)
 * [2023-05-15, 04:53:30](https://news.ycombinator.com/item?id=35944015) - [Self-Replace: A Utility For Self Replacing Executables](https://github.com/mitsuhiko/self-replace)
 * [2023-05-15, 04:52:52](https://news.ycombinator.com/item?id=35944010) - [The World Atlas of Languages](https://en.wal.unesco.org/discover/languages)
