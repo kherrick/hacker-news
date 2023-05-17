@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-05-17, 10:20:30",
-      "https://news.ycombinator.com/item?id=35973366"
-    ],
-    [
-      "UK: No-fault evictions to be banned in reform of rental sector",
-      "https://www.bbc.co.uk/news/uk-politics-65612842"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 10:03:48",
       "https://news.ycombinator.com/item?id=35973265"
     ],
@@ -111,12 +101,32 @@
   ],
   [
     [
+      "2023-05-17, 07:12:42",
+      "https://news.ycombinator.com/item?id=35972167"
+    ],
+    [
+      "Valve Sued by Immersion over Steam Deck and Index Rumble",
+      "https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 07:00:31",
       "https://news.ycombinator.com/item?id=35972096"
     ],
     [
       "Give your brain time to think and remember",
       "https://github.com/madprops/blog/blob/main/docs/timers.md"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 06:20:15",
+      "https://news.ycombinator.com/item?id=35971863"
+    ],
+    [
+      "Traders Do Less Crime at Home",
+      "https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-05-16, 21:34:06",
-      "https://news.ycombinator.com/item?id=35968068"
-    ],
-    [
-      "CO2 Heat Pumps Found to Offer High Efficiency at Low Ambient Temperature",
-      "https://r744.com/co2-heat-pumps-found-to-offer-high-efficiency-at-low-ambient-temperature-in-electric-vehicles/"
-    ]
-  ],
-  [
-    [
       "2023-05-16, 16:36:23",
       "https://news.ycombinator.com/item?id=35964281"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-05-15, 18:01:46",
-      "https://news.ycombinator.com/item?id=35952110"
-    ],
-    [
-      "Event Sourcing and Microservices – Unix Style",
-      "https://two-wrongs.com/event-sourcing-and-microservices-unix-style.html"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 13:36:15",
       "https://news.ycombinator.com/item?id=35947915"
     ],
@@ -297,6 +287,16 @@
     [
       "Introduction to the Fourier transform for image processing",
       "https://www.cs.unm.edu/~brayer/vision/fourier.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 21:09:50",
+      "https://news.ycombinator.com/item?id=35941369"
+    ],
+    [
+      "Notes on rarely-seen game mechanics",
+      "https://blog.plover.com/notes/game-mechanics.html"
     ]
   ]
 ]
