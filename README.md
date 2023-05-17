@@ -26,10 +26,10 @@
 * [2023-05-16, 08:34:50](https://news.ycombinator.com/item?id=35959073) - [Experts weigh impact of Intel-Arm collaboration](https://www.eetimes.com/experts-weigh-impact-of-intel-arm-collaboration/)
 * [2023-05-15, 15:22:08](https://news.ycombinator.com/item?id=35949670) - [Saturn reclaims &#x27;moon king&#x27; title from Jupiter with 62 newfound satellites](https://www.space.com/saturn-moon-king-62-newfound-satellites)
 * [2023-05-15, 12:39:42](https://news.ycombinator.com/item?id=35947217) - [CMU Common Lisp 21e](https://gitlab.common-lisp.net/cmucl/cmucl/-/releases/21e)
+* [2023-05-15, 09:34:44](https://news.ycombinator.com/item?id=35945648) - [Bitmap Bonanza](https://dansanderson.com/mega65/bitmap-bonanza/)
 * [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:47:32](https://news.ycombinator.com/item?id=35945322) - [Asus Ally Emulates PS3, Nintendo Switch, Xbox 360 with Ease](https://www.tomshardware.com/news/asus-rog-ally-emulation-performance)
 * [2023-05-15, 08:28:45](https://news.ycombinator.com/item?id=35945234) - [Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
-* [2023-05-14, 21:09:50](https://news.ycombinator.com/item?id=35941369) - [Notes on rarely-seen game mechanics](https://blog.plover.com/notes/game-mechanics.html)
 
 ## [Archives](archives/index.md)
 
