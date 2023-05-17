@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-17, 01:40:35",
+      "https://news.ycombinator.com/item?id=35970289"
+    ],
+    [
+      "The IRS is building its own online tax filing system",
+      "https://www.npr.org/2023/05/16/1176417594/irs-taxes-filing-turbotax-intuit-tax-prep"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 01:30:18",
+      "https://news.ycombinator.com/item?id=35970213"
+    ],
+    [
+      "WebGPU hits 40% availability 2 weeks after Chrome releases support",
+      "https://web3dsurvey.com/webgpu"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 00:27:22",
       "https://news.ycombinator.com/item?id=35969715"
     ],
@@ -11,22 +31,12 @@
   ],
   [
     [
-      "2023-05-16, 23:29:48",
-      "https://news.ycombinator.com/item?id=35969184"
+      "2023-05-16, 23:31:46",
+      "https://news.ycombinator.com/item?id=35969206"
     ],
     [
-      "Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs",
-      "https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 23:08:20",
-      "https://news.ycombinator.com/item?id=35968968"
-    ],
-    [
-      "Beware Offers of “Help” with Your Projects",
-      "http://misc-stuff.terraaeon.com/articles/beware-help.html"
+      "The promise of crypto has not lived up to its initial excitement",
+      "https://www.economist.com/special-report/2023/05/15/the-promise-of-crypto-has-not-lived-up-to-its-initial-excitement"
     ]
   ],
   [
@@ -41,11 +51,21 @@
   ],
   [
     [
+      "2023-05-16, 21:46:03",
+      "https://news.ycombinator.com/item?id=35968183"
+    ],
+    [
+      "On the Trail of the &#x27;Johatsu,&#x27; Japan&#x27;s &#x27;Evaporated People&#x27;",
+      "https://time.com/4646293/japan-missing-people-johatsu-evaporated/"
+    ]
+  ],
+  [
+    [
       "2023-05-16, 21:42:54",
       "https://news.ycombinator.com/item?id=35968148"
     ],
     [
-      "On the foolishness of “natural language programming” (1979)",
+      "On the foolishness of “natural language programming” (1978)",
       "https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD667.html"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "Middleware (YC W23) Is Hiring AI Founding Engineer",
       "https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 20:40:47",
-      "https://news.ycombinator.com/item?id=35967458"
-    ],
-    [
-      "The RedMonk Programming Language Rankings: January 2023",
-      "https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-05-16, 10:52:47",
-      "https://news.ycombinator.com/item?id=35960018"
-    ],
-    [
-      "Widely used chemical strongly linked to Parkinson’s disease",
-      "https://www.science.org/content/article/widely-used-chemical-strongly-linked-parkinson-s-disease"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 10:49:29",
-      "https://news.ycombinator.com/item?id=35959991"
-    ],
-    [
-      "Optimization Without Derivatives: Prima Fortran Version and Inclusion in SciPy",
-      "https://fortran-lang.discourse.group/t/optimization-without-using-derivatives-the-prima-package-its-fortran-implementation-and-its-inclusion-in-scipy/5798"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 16:37:24",
       "https://news.ycombinator.com/item?id=35950921"
     ],
@@ -241,22 +231,22 @@
   ],
   [
     [
+      "2023-05-15, 15:17:10",
+      "https://news.ycombinator.com/item?id=35949579"
+    ],
+    [
+      "I Talk with an AI Music Historian",
+      "https://tedgioia.substack.com/p/i-talk-with-an-ai-music-historian"
+    ]
+  ],
+  [
+    [
       "2023-05-15, 12:39:42",
       "https://news.ycombinator.com/item?id=35947217"
     ],
     [
       "CMU Common Lisp 21e",
       "https://gitlab.common-lisp.net/cmucl/cmucl/-/releases/21e"
-    ]
-  ],
-  [
-    [
-      "2023-05-15, 10:59:42",
-      "https://news.ycombinator.com/item?id=35946279"
-    ],
-    [
-      "Pinball is booming in America",
-      "https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "How to Play Hextraction",
       "https://www.playhextraction.com/how-to-play"
+    ]
+  ],
+  [
+    [
+      "2023-05-14, 21:09:50",
+      "https://news.ycombinator.com/item?id=35941369"
+    ],
+    [
+      "Notes on rarely-seen game mechanics",
+      "https://blog.plover.com/notes/game-mechanics.html"
     ]
   ]
 ]
