@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 07:26:40](https://news.ycombinator.com/item?id=35972254) - [Titanic: First ever full-sized scans](https://www.bbc.co.uk/news/science-environment-65602182)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
 * [2023-05-17, 06:20:15](https://news.ycombinator.com/item?id=35971863) - [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
 * [2023-05-17, 05:46:29](https://news.ycombinator.com/item?id=35971677) - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
+* [2023-05-17, 05:04:11](https://news.ycombinator.com/item?id=35971454) - [Achieving full stack Kubernetes visibility](https://devtron.ai/blog/full-stack-kubernetes-visibility/)
 * [2023-05-17, 04:46:05](https://news.ycombinator.com/item?id=35971338) - [Beautiful Documents with Groff (Part I)](https://stephenramsay.net/posts/groff-mom.html)
 * [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
 * [2023-05-17, 03:45:50](https://news.ycombinator.com/item?id=35971034) - [27-year-old pays $0 to live in a ‘luxury tiny home’–how she built it for $35,000](https://www.cnbc.com/2023/05/13/27-year-old-lives-for-free-in-backyard-tiny-luxury-home-built-for-35000-i-forget-i-am-living-in-a-shed.html)
