@@ -19,7 +19,6 @@
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The regenerating power of Big Basin’s redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 * [2023-05-17, 14:03:12](https://news.ycombinator.com/item?id=35975353) - [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
-* [2023-05-17, 13:28:58](https://news.ycombinator.com/item?id=35974965) - [Show HN: Pinbot – An extension to privately search one&#x27;s browser history with AI](https://getpinbot.com)
 * [2023-05-17, 13:18:48](https://news.ycombinator.com/item?id=35974845) - [The Staff Engineer&#x27;s Path – Book Review](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
 * [2023-05-17, 12:02:42](https://news.ycombinator.com/item?id=35974080) - [Retro Computer Museum](https://retrocomputermuseum.co.uk/)
 * [2023-05-17, 07:04:24](https://news.ycombinator.com/item?id=35972112) - [Show HN: Speeding up the code-test cycle for Java developers](https://news.ycombinator.com/item?id=35972112)
@@ -29,6 +28,7 @@
 * [2023-05-16, 03:18:29](https://news.ycombinator.com/item?id=35957399) - [Integrating social responsibility into core CS](https://evanpeck.github.io/projects/responsibleCS)
 * [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)
 * [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
+* [2023-05-15, 12:28:51](https://news.ycombinator.com/item?id=35947125) - [What were the worst jobs for poor Romans in Ancient Rome?](https://www.quora.com/What-were-the-worst-jobs-for-poor-Romans-in-Ancient-Rome)
 * [2023-05-15, 05:15:58](https://news.ycombinator.com/item?id=35944116) - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 
 ## [Archives](archives/index.md)
