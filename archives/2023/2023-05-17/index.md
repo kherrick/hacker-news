@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [International Music Score Library Project (IMSLP)](https://imslp.org/)
 * [2023-05-17, 19:02:15](https://news.ycombinator.com/item?id=35979712) - [DuckDuckGo owns the #2 position in mobile market share in the US](https://help.duckduckgo.com/duckduckgo-help-pages/company/advertise-on-duckduckgo-search/)
 * [2023-05-17, 18:26:13](https://news.ycombinator.com/item?id=35979305) - [Sam Altman Isn’t the Answer to Regulating Artificial Intelligence](https://www.bloomberg.com/opinion/articles/2023-05-17/ai-regulation-openai-s-sam-altman-is-the-wrong-person-to-ask)
 * [2023-05-17, 17:53:38](https://news.ycombinator.com/item?id=35978913) - [Elizabeth Holmes ordered to pay $452M restitution](https://wjla.com/news/nation-world/elizabeth-holmes-ordered-to-pay-452m-restitution-for-blood-testing-hoax-theranos-ceo-conviction-fraud-billionaire-ramesh-sunny-balwani-the-dropout-silicon-valley-prison-southern-california)
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
+* [2023-05-17, 17:42:15](https://news.ycombinator.com/item?id=35978757) - [Understanding Database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 * [2023-05-17, 17:30:30](https://news.ycombinator.com/item?id=35978575) - [Astmaker – A DSL in Rust for programming language designers](https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831)
 * [2023-05-17, 17:22:19](https://news.ycombinator.com/item?id=35978445) - [Google Analytics 4 Has Me So Frustrated, We Built Our Own Analytics Service](https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service/)
 * [2023-05-17, 17:05:34](https://news.ycombinator.com/item?id=35978217) - [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
