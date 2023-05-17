@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 15:19:34](https://news.ycombinator.com/item?id=35976563) - [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
+* [2023-05-17, 15:19:07](https://news.ycombinator.com/item?id=35976557) - [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 * [2023-05-17, 14:19:49](https://news.ycombinator.com/item?id=35975545) - [The IRS is building its own online tax filing system](https://text.npr.org/1176417594)
-* [2023-05-17, 14:14:17](https://news.ycombinator.com/item?id=35975470) - [Engineering professor awarded defense grant for cognitive security research](https://today.tamu.edu/2023/05/05/texas-am-engineering-professor-awarded-6-million-defense-grant-for-cognitive-security-research/)
 * [2023-05-17, 14:03:16](https://news.ycombinator.com/item?id=35975355) - [Real-Time Full-Text Site Search with SQLite FTS5 extension](https://blog.sqlitecloud.io/real-time-full-text-site-search-with-sqlite-fts5-extension)
 * [2023-05-17, 14:03:12](https://news.ycombinator.com/item?id=35975353) - [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
 * [2023-05-17, 13:39:35](https://news.ycombinator.com/item?id=35975080) - [Langton’s ant](https://en.wikipedia.org/wiki/Langton%27s_ant)
@@ -28,7 +29,6 @@
 * [2023-05-15, 17:28:42](https://news.ycombinator.com/item?id=35951594) - [Paul Linebarger wrote science fiction as Cordwainer Smith (2018)](https://hub.jhu.edu/magazine/2018/fall/cordwainer-smith-paul-linebarger/)
 * [2023-05-15, 13:36:15](https://news.ycombinator.com/item?id=35947915) - [Deadlines as Technology](https://blog.jim-nielsen.com/2023/deadlines-as-technology/)
 * [2023-05-15, 10:18:09](https://news.ycombinator.com/item?id=35945941) - [The Maddest My Code Made Anyone](http://jackkelly.name/blog/archives/2023/05/14/the_maddest_my_code_made_anyone/)
-* [2023-05-15, 09:08:14](https://news.ycombinator.com/item?id=35945467) - [Smol Developer](https://github.com/smol-ai/developer)
 * [2023-05-15, 08:28:45](https://news.ycombinator.com/item?id=35945234) - [Introduction to the Fourier transform for image processing](https://www.cs.unm.edu/~brayer/vision/fourier.html)
 
 ## [Archives](archives/index.md)
