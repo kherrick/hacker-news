@@ -82,6 +82,7 @@
 * [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
 * [2023-05-16, 07:21:36](https://news.ycombinator.com/item?id=35958667) - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
+* [2023-05-16, 06:58:15](https://news.ycombinator.com/item?id=35958516) - [How to become a debt buyer](https://coda.io/@bob/debt-buyer)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s Exabyte-Scale Blob Storage System](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
 * [2023-05-16, 06:35:46](https://news.ycombinator.com/item?id=35958374) - [Vintage AI Predictions Show Our Hopes and Fears Aren’t New–Even If the Tech Is](https://gizmodo.com/ai-chatbot-chatgpt-tech-1850433697)
 * [2023-05-16, 05:11:53](https://news.ycombinator.com/item?id=35957944) - [Colossus – The Forbin Project](https://archive.org/details/colossus-the-forbin-project-1970)
