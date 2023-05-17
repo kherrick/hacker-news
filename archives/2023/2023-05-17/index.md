@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 06:20:15](https://news.ycombinator.com/item?id=35971863) - [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
 * [2023-05-17, 05:46:29](https://news.ycombinator.com/item?id=35971677) - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
 * [2023-05-17, 04:46:05](https://news.ycombinator.com/item?id=35971338) - [Beautiful Documents with Groff (Part I)](https://stephenramsay.net/posts/groff-mom.html)
 * [2023-05-17, 04:43:11](https://news.ycombinator.com/item?id=35971329) - [Rekt.network](https://rekt.network)
