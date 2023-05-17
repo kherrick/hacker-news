@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-17, 07:57:54](https://news.ycombinator.com/item?id=35972437) - [Comparison site for digital analytics tools](https://newmetrics.io/)
 * [2023-05-17, 07:12:42](https://news.ycombinator.com/item?id=35972167) - [Valve Sued by Immersion over Steam Deck and Index Rumble](https://www.theverge.com/2023/5/16/23726295/valve-immersion-rumble-lawsuit)
 * [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
@@ -13,7 +14,6 @@
 * [2023-05-17, 01:30:18](https://news.ycombinator.com/item?id=35970213) - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)
 * [2023-05-16, 23:08:20](https://news.ycombinator.com/item?id=35968968) - [Beware offers of “help” with your projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
 * [2023-05-16, 22:26:07](https://news.ycombinator.com/item?id=35968604) - [Businesses are in for a mighty debt hangover](https://www.economist.com/business/2023/05/16/businesses-are-in-for-a-mighty-debt-hangover)
-* [2023-05-16, 21:46:03](https://news.ycombinator.com/item?id=35968183) - [On the trail of the &#x27;Johatsu,&#x27; Japan&#x27;s &#x27;evaporated people&#x27; (2017)](https://time.com/4646293/japan-missing-people-johatsu-evaporated/)
 * [2023-05-16, 21:34:06](https://news.ycombinator.com/item?id=35968068) - [CO2 Heat Pumps Found to Offer High Efficiency at Low Ambient Temperature](https://r744.com/co2-heat-pumps-found-to-offer-high-efficiency-at-low-ambient-temperature-in-electric-vehicles/)
 * [2023-05-16, 21:01:15](https://news.ycombinator.com/item?id=35967704) - [Middleware (YC W23) Is Hiring AI Founding Engineer](https://www.ycombinator.com/companies/middleware/jobs/8l5TKYq-ai-founding-engineer)
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
