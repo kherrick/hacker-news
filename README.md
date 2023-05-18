@@ -23,11 +23,11 @@
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The regenerating power of Big Basin’s redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 * [2023-05-17, 14:03:12](https://news.ycombinator.com/item?id=35975353) - [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
-* [2023-05-17, 13:18:48](https://news.ycombinator.com/item?id=35974845) - [The Staff Engineer&#x27;s Path – Book Review](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
 * [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
 * [2023-05-16, 07:08:22](https://news.ycombinator.com/item?id=35958590) - [The war on Japanese knotweed](https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s exabyte-scale blob storage system](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
+* [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
 * [2023-05-15, 10:58:36](https://news.ycombinator.com/item?id=35946269) - [ScholarTurbo: Use ChatGPT to chat with PDFs (supports GPT-4)](https://scholarturbo.com/)
 * [2023-05-15, 10:30:10](https://news.ycombinator.com/item?id=35946032) - [Flann O’Brien Splits the Atom (1967)](https://www.laphamsquarterly.org/comedy/flann-obrien-splits-atom)
 
