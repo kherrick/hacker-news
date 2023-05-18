@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-05-18, 18:40:31",
-      "https://news.ycombinator.com/item?id=35992285"
-    ],
-    [
-      "Disney cancels plans to relocate 2,000 jobs to Florida",
-      "https://www.reuters.com/business/media-telecom/disney-cancels-plans-relocate-2000-jobs-florida-company-email-2023-05-18/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 18:04:58",
       "https://news.ycombinator.com/item?id=35991791"
     ],
@@ -57,6 +47,16 @@
     [
       "Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement",
       "https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 17:57:01",
+      "https://news.ycombinator.com/item?id=35991684"
+    ],
+    [
+      "Zig now has built-in HTTP server and client in std",
+      "https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=35985240"
     ],
     [
-      "User In Yer Face, a worst-practise UI experiment",
+      "User In Yer Face, a worst-practise UI experiment (2018)",
       "https://userinyerface.com/"
     ]
   ],
