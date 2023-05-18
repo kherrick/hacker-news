@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [94% of users prefer not to be tracked, so why do consent prompts exist?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
+* [2023-05-18, 08:09:42](https://news.ycombinator.com/item?id=35985224) - [The Case for Bash (2021)](https://www.neversaw.us/2021/04/02/the-case-for-bash/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
