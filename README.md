@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with Asus routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
+* [2023-05-18, 03:30:40](https://news.ycombinator.com/item?id=35983876) - [(Graphical) Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
+* [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
+* [2023-05-18, 03:23:13](https://news.ycombinator.com/item?id=35983824) - [Has ChatGPT Been Neutered?](https://news.ycombinator.com/item?id=35983824)
 * [2023-05-18, 02:23:21](https://news.ycombinator.com/item?id=35983517) - [DuckDB 0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
 * [2023-05-18, 01:47:31](https://news.ycombinator.com/item?id=35983349) - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [2023-05-18, 00:53:03](https://news.ycombinator.com/item?id=35983012) - [The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)
@@ -27,8 +29,6 @@
 * [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
 * [2023-05-16, 07:08:22](https://news.ycombinator.com/item?id=35958590) - [The war on Japanese knotweed](https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s exabyte-scale blob storage system](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
-* [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
-* [2023-05-15, 10:58:36](https://news.ycombinator.com/item?id=35946269) - [ScholarTurbo: Use ChatGPT to chat with PDFs (supports GPT-4)](https://scholarturbo.com/)
 * [2023-05-15, 10:30:10](https://news.ycombinator.com/item?id=35946032) - [Flann O’Brien Splits the Atom (1967)](https://www.laphamsquarterly.org/comedy/flann-obrien-splits-atom)
 
 ## [Archives](archives/index.md)
