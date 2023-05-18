@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-17](index.md)
 
+* [2023-05-17, 23:26:15](https://news.ycombinator.com/item?id=35982507) - [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
 * [2023-05-17, 22:34:25](https://news.ycombinator.com/item?id=35982083) - [Simulated Hospital](https://github.com/google/simhospital)
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989) a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-05-17, 21:46:39](https://news.ycombinator.com/item?id=35981662) - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)

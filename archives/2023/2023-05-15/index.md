@@ -79,6 +79,7 @@
 * [2023-05-15, 11:19:05](https://news.ycombinator.com/item?id=35946419) - [A Biography of the Pixel by Alvy Ray Smith](https://mitpress.mit.edu/9780262542456/a-biography-of-the-pixel/)
 * [2023-05-15, 11:00:03](https://news.ycombinator.com/item?id=35946284) - [Two students built an A-bomb (2003)](https://www.theguardian.com/world/2003/jun/24/usa.science)
 * [2023-05-15, 10:59:42](https://news.ycombinator.com/item?id=35946279) - [Pinball is booming in America, thanks to nostalgia and canny marketing](https://www.economist.com/united-states/2023/05/14/pinball-is-booming-in-america-thanks-to-nostalgia-and-canny-marketing)
+* [2023-05-15, 10:58:36](https://news.ycombinator.com/item?id=35946269) - [ScholarTurbo: Use ChatGPT to chat with PDFs (supports GPT-4)](https://scholarturbo.com/)
 * [2023-05-15, 10:56:49](https://news.ycombinator.com/item?id=35946260) - [Ask HN: What&#x27;s your favorite GPT powered tool?](https://news.ycombinator.com/item?id=35946260)
 * [2023-05-15, 10:51:58](https://news.ycombinator.com/item?id=35946215) - [Dogs Can Have Human-Like Anxiety. They Need Human-Like Treatment [Opinion Piece]](https://undark.org/2023/05/11/opinion-dogs-can-have-human-like-anxiety-they-need-human-like-treatment/)
 * [2023-05-15, 10:48:57](https://news.ycombinator.com/item?id=35946181) - [Why we created Taxi, and why we felt the need for Another Schema Language](https://orbitalhq.com/blog/2023-05-12-why-we-created-taxi)
