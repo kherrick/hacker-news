@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple&#x27;s Reality Pro headset compromised](https://9to5mac.com/2023/05/18/reality-pro-headset/)
+* [2023-05-18, 13:16:25](https://news.ycombinator.com/item?id=35987413) - [Using LangChainJS and Cloudflare Workers together](https://blog.cloudflare.com/langchain-and-cloudflare/)
 * [2023-05-18, 13:14:03](https://news.ycombinator.com/item?id=35987376) - [BT will shed as many as 55,000 workers by 2030](https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html)
 * [2023-05-18, 12:40:35](https://news.ycombinator.com/item?id=35987058) - [USDC&#x27;s Circle Moves $8.7B to Repo Agreements to Protect Reserves from US Default](https://www.coindesk.com/business/2023/05/17/usdc-issuer-circle-moves-87b-to-repo-agreements-to-protect-reserves-from-us-government-default/)
 * [2023-05-18, 12:39:29](https://news.ycombinator.com/item?id=35987054) - [AI is coming to Google search through Search Generative Experience](https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io)
 * [2023-05-18, 12:33:33](https://news.ycombinator.com/item?id=35986992) - [YouTube on TVs getting unskippable 30-second and pause screen ads](https://9to5google.com/2023/05/17/youtube-tv-ads/)
+* [2023-05-18, 12:29:23](https://news.ycombinator.com/item?id=35986967) - [Replication of room-temperature superconductor fails to show superconductivity](https://phys.org/news/2023-05-replication-room-temperature-superconductor-superconductivity.html)
 * [2023-05-18, 12:28:43](https://news.ycombinator.com/item?id=35986956) - [Legend of Zelda game sells 10M copies in three days](https://finance.yahoo.com/news/legend-zelda-game-sells-10-172603983.html)
 * [2023-05-18, 12:22:22](https://news.ycombinator.com/item?id=35986906) - [SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code](https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821)
 * [2023-05-18, 11:42:34](https://news.ycombinator.com/item?id=35986602) - [Rolls-Royce tests &#x27;game-changing&#x27; greener UltraFan engine](https://www.bbc.com/news/uk-england-derbyshire-65633884)
