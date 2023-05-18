@@ -81,6 +81,7 @@
 * [2023-05-16, 08:34:50](https://news.ycombinator.com/item?id=35959073) - [Experts weigh impact of Intel-Arm collaboration](https://www.eetimes.com/experts-weigh-impact-of-intel-arm-collaboration/)
 * [2023-05-16, 08:02:53](https://news.ycombinator.com/item?id=35958876) - [European bird populations decrease by a quarter, farming to blame](https://www.pnas.org/doi/full/10.1073/pnas.2216573120)
 * [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
+* [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: The Secret Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
 * [2023-05-16, 07:21:36](https://news.ycombinator.com/item?id=35958667) - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 06:58:15](https://news.ycombinator.com/item?id=35958516) - [How to become a debt buyer](https://coda.io/@bob/debt-buyer)
