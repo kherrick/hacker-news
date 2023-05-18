@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 17:28:49](https://news.ycombinator.com/item?id=35991322) - [John Carmack: My comments on BasedCon (tweet)](https://twitter.com/ID_AA_Carmack/status/1659173689986883584)
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 16:40:46](https://news.ycombinator.com/item?id=35990552) - [OpenAI Brings ChatGPT to iOS](https://openai.com/blog/introducing-the-chatgpt-app-for-ios)
 * [2023-05-18, 16:24:09](https://news.ycombinator.com/item?id=35990320) - [Tell HN: Today Is Global Accessibility Awareness Day](https://news.ycombinator.com/item?id=35990320)
@@ -8,7 +9,6 @@
 * [2023-05-18, 15:48:47](https://news.ycombinator.com/item?id=35989696) - [Nuances of Overloading and Overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
 * [2023-05-18, 15:33:13](https://news.ycombinator.com/item?id=35989462) - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
 * [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
-* [2023-05-18, 15:04:24](https://news.ycombinator.com/item?id=35988984) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:37:49](https://news.ycombinator.com/item?id=35988604) - [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
 * [2023-05-18, 14:33:29](https://news.ycombinator.com/item?id=35988538) - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
