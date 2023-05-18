@@ -6,6 +6,7 @@
 
 * [2023-05-17, 23:58:50](https://news.ycombinator.com/item?id=35982732) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
 * [2023-05-17, 23:26:15](https://news.ycombinator.com/item?id=35982507) - [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
+* [2023-05-17, 23:17:59](https://news.ycombinator.com/item?id=35982447) - [TikTok is now banned in Montana](https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court)
 * [2023-05-17, 22:34:25](https://news.ycombinator.com/item?id=35982083) - [Simulated Hospital](https://github.com/google/simhospital)
 * [2023-05-17, 22:28:44](https://news.ycombinator.com/item?id=35982037) - [A minimal operating system (2K LOC) on QEMU and a RISC-V board](https://github.com/yhzhang0128/egos-2000)
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989) a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
