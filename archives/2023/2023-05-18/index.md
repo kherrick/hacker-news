@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
 * [2023-05-18, 11:42:34](https://news.ycombinator.com/item?id=35986602) - [Rolls-Royce tests &#x27;game-changing&#x27; greener UltraFan engine](https://www.bbc.com/news/uk-england-derbyshire-65633884)
+* [2023-05-18, 11:34:14](https://news.ycombinator.com/item?id=35986534) - [Seven.zip](https://7-zip.org/)
+* [2023-05-18, 10:49:28](https://news.ycombinator.com/item?id=35986270) - [Where have all the hackers gone?](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-18, 09:37:31](https://news.ycombinator.com/item?id=35985832) - [Ask HN: Contradicting licensing information on .NET &#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
 * [2023-05-18, 09:32:27](https://news.ycombinator.com/item?id=35985808) - [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
 * [2023-05-18, 09:08:18](https://news.ycombinator.com/item?id=35985639) - [Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
