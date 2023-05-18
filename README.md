@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
 * [2023-05-18, 05:07:18](https://news.ycombinator.com/item?id=35984302) - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
 * [2023-05-18, 04:22:33](https://news.ycombinator.com/item?id=35984101) - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
 * [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
@@ -23,6 +22,7 @@
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 17:42:15](https://news.ycombinator.com/item?id=35978757) - [Understanding database indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
+* [2023-05-17, 14:03:12](https://news.ycombinator.com/item?id=35975353) - [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
 * [2023-05-17, 02:29:44](https://news.ycombinator.com/item?id=35970604) - [The Dress Diary of Mrs. Anne Sykes](https://www.theparisreview.org/blog/2023/05/15/the-dress-diary-of-mrs-anne-sykes/#more-164077)
 * [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 * [2023-05-16, 11:04:39](https://news.ycombinator.com/item?id=35960116) - [Medieval Arabs ate sandwiches too? (2021)](https://nawalcooking.blogspot.com/2021/06/medieval-arabs-ate-sandwiches-too-keep.html)
