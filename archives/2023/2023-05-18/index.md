@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [94% of users prefer not to be tracked, so why do consent prompts exist?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
+* [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
 * [2023-05-18, 05:21:47](https://news.ycombinator.com/item?id=35984382) - [Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
 * [2023-05-18, 05:07:18](https://news.ycombinator.com/item?id=35984302) - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
