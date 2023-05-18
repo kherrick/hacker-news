@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-18, 14:56:39](https://news.ycombinator.com/item?id=35988879) - [NYC Skyscrapers Sit Vacant, Exposing Risk City Never Predicted](https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted)
-* [2023-05-18, 14:52:54](https://news.ycombinator.com/item?id=35988820) - [How to Quit Cars](https://www.newyorker.com/magazine/2023/05/22/carmageddon-daniel-knowles-book-review-paved-paradise-henry-grabar)
+* [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
 * [2023-05-18, 14:37:49](https://news.ycombinator.com/item?id=35988604) - [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
 * [2023-05-18, 14:33:29](https://news.ycombinator.com/item?id=35988538) - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 * [2023-05-18, 14:22:20](https://news.ycombinator.com/item?id=35988348) - [Passage by 1Password](https://blog.1password.com/passage-by-1password/)
@@ -15,6 +14,7 @@
 * [2023-05-18, 12:29:23](https://news.ycombinator.com/item?id=35986967) - [Replication of room-temperature superconductor fails to show superconductivity](https://phys.org/news/2023-05-replication-room-temperature-superconductor-superconductivity.html)
 * [2023-05-18, 12:28:43](https://news.ycombinator.com/item?id=35986956) - [Legend of Zelda game sells 10M copies in three days](https://finance.yahoo.com/news/legend-zelda-game-sells-10-172603983.html)
 * [2023-05-18, 12:22:22](https://news.ycombinator.com/item?id=35986906) - [SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code](https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821)
+* [2023-05-18, 11:34:14](https://news.ycombinator.com/item?id=35986534) - [Seven.zip](https://7-zip.org/)
 * [2023-05-18, 10:49:28](https://news.ycombinator.com/item?id=35986270) - [Where have all the hackers gone?](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html)
 * [2023-05-18, 09:08:18](https://news.ycombinator.com/item?id=35985639) - [Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
 * [2023-05-18, 09:03:08](https://news.ycombinator.com/item?id=35985590) - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)

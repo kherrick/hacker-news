@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
 * [2023-05-18, 14:56:39](https://news.ycombinator.com/item?id=35988879) - [NYC Skyscrapers Sit Vacant, Exposing Risk City Never Predicted](https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted)
 * [2023-05-18, 14:52:54](https://news.ycombinator.com/item?id=35988820) - [How to Quit Cars](https://www.newyorker.com/magazine/2023/05/22/carmageddon-daniel-knowles-book-review-paved-paradise-henry-grabar)
 * [2023-05-18, 14:37:49](https://news.ycombinator.com/item?id=35988604) - [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
