@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 21:42:23",
+      "https://news.ycombinator.com/item?id=35994494"
+    ],
+    [
+      "The American Dream convinces people loneliness is normal",
+      "https://english.elpais.com/usa/2023-05-16/how-the-american-dream-convinces-people-loneliness-is-normal.html"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 21:05:26",
       "https://news.ycombinator.com/item?id=35994037"
     ],
@@ -57,16 +67,6 @@
     [
       "My Inventions – Nikola Tesla (1919)",
       "https://archive.org/details/MyInventionsNikolaTesla"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 18:04:58",
-      "https://news.ycombinator.com/item?id=35991791"
-    ],
-    [
-      "ChatGPT vs. open source on harder tasks",
-      "https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-05-17, 23:17:59",
-      "https://news.ycombinator.com/item?id=35982447"
-    ],
-    [
-      "TikTok is now banned in Montana",
-      "https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 10:26:18",
       "https://news.ycombinator.com/item?id=35973408"
     ],
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2023-05-17, 02:49:22",
-      "https://news.ycombinator.com/item?id=35970712"
+      "2023-05-16, 23:51:50",
+      "https://news.ycombinator.com/item?id=35969420"
     ],
     [
-      "Debug browser redirects without ruining your day",
-      "https://dodov.dev/blog/how-to-debug-browser-redirects"
+      "Bitwise Binary Search: Elegant and Fast",
+      "https://orlp.net/blog/bitwise-binary-search/"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 14:23:40",
+      "https://news.ycombinator.com/item?id=35962315"
+    ],
+    [
+      "Show HN: PAKman – A new build system built around Alpine Linux Packages",
+      "https://zacksiri.dev/posts/why-i-created-pakman"
     ]
   ]
 ]
