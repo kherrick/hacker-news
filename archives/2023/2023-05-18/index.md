@@ -6,6 +6,7 @@
 
 * [2023-05-18, 16:24:09](https://news.ycombinator.com/item?id=35990320) - [Tell HN: Today Is Global Accessibility Awareness Day](https://news.ycombinator.com/item?id=35990320)
 * [2023-05-18, 16:14:52](https://news.ycombinator.com/item?id=35990182) - [‘In London there is no space at all’: the rise of self-storage as rents soar](https://www.theguardian.com/uk-news/2023/may/17/in-london-there-is-no-space-at-all-the-rise-of-self-storage-as-rents-soar)
+* [2023-05-18, 16:10:32](https://news.ycombinator.com/item?id=35990103) - [Sam Altman attends secretive annual meeting with the world’s elite](https://www.cnbc.com/2023/05/18/bilderberg-openai-microsoft-google-join-ai-talks-at-secretive-meeting.html)
 * [2023-05-18, 16:00:14](https://news.ycombinator.com/item?id=35989911) - [Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
 * [2023-05-18, 16:00:06](https://news.ycombinator.com/item?id=35989909) - [The first version of Redis, written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:48:47](https://news.ycombinator.com/item?id=35989696) - [Nuances of Overloading and Overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
