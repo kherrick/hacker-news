@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 16:40:46",
+      "https://news.ycombinator.com/item?id=35990552"
+    ],
+    [
+      "OpenAI Brings ChatGPT to iOS",
+      "https://openai.com/blog/introducing-the-chatgpt-app-for-ios"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 16:24:09",
       "https://news.ycombinator.com/item?id=35990320"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=35990103"
     ],
     [
-      "Sam Altman attends secretive annual meeting with the world’s elite",
+      "OpenAI&#x27;s Sam Altman attends secretive annual meeting with the world’s elite",
       "https://www.cnbc.com/2023/05/18/bilderberg-openai-microsoft-google-join-ai-talks-at-secretive-meeting.html"
     ]
   ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2023-05-18, 14:22:20",
-      "https://news.ycombinator.com/item?id=35988348"
-    ],
-    [
-      "Passage by 1Password",
-      "https://blog.1password.com/passage-by-1password/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 14:00:42",
       "https://news.ycombinator.com/item?id=35988046"
     ],
     [
       "CRDT-richtext: Rust implementation of Peritext and Fugue",
       "https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 13:21:00",
-      "https://news.ycombinator.com/item?id=35987481"
-    ],
-    [
-      "Apple to Mass Produce Its Own MicroLED Displays for iPhones",
-      "https://www.macrumors.com/2023/05/18/apple-mass-produce-microled-iphone/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Language models cost much more in some languages than others",
       "https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 01:47:31",
+      "https://news.ycombinator.com/item?id=35983349"
+    ],
+    [
+      "Colima: Container runtimes on macOS (and Linux) with minimal setup",
+      "https://github.com/abiosoft/colima"
     ]
   ],
   [
