@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-05-18, 16:24:09",
+      "https://news.ycombinator.com/item?id=35990320"
+    ],
+    [
+      "Tell HN: Today Is Global Accessibility Awareness Day",
+      "https://news.ycombinator.com/item?id=35990320"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 16:14:52",
+      "https://news.ycombinator.com/item?id=35990182"
+    ],
+    [
+      "‘In London there is no space at all’: the rise of self-storage as rents soar",
+      "https://www.theguardian.com/uk-news/2023/may/17/in-london-there-is-no-space-at-all-the-rise-of-self-storage-as-rents-soar"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 16:00:14",
       "https://news.ycombinator.com/item?id=35989911"
     ],
     [
       "Unit Testing eBPF Programs",
       "https://who.ldelossa.is/posts/unit-testing-ebpf/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 16:00:06",
+      "https://news.ycombinator.com/item?id=35989909"
+    ],
+    [
+      "The first version of Redis, written in Tcl",
+      "https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 15:48:47",
+      "https://news.ycombinator.com/item?id=35989696"
+    ],
+    [
+      "Nuances of Overloading and Overriding in Java",
+      "https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "CRDT-richtext: Rust implementation of Peritext and Fugue",
       "https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 13:42:12",
-      "https://news.ycombinator.com/item?id=35987780"
-    ],
-    [
-      "Montana becomes first US state to ban TikTok",
-      "https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/"
     ]
   ],
   [
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2023-05-18, 11:34:14",
-      "https://news.ycombinator.com/item?id=35986534"
-    ],
-    [
-      "Seven.zip",
-      "https://7-zip.org/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 10:49:28",
       "https://news.ycombinator.com/item?id=35986270"
     ],
     [
       "Where have all the hackers gone?",
       "https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 09:08:18",
-      "https://news.ycombinator.com/item?id=35985639"
-    ],
-    [
-      "Ireland’s DPC set to hit Meta with record privacy fine over US data transfers",
-      "https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Language models cost much more in some languages than others",
       "https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 01:47:31",
-      "https://news.ycombinator.com/item?id=35983349"
-    ],
-    [
-      "Colima: Container runtimes on macOS (and Linux) with minimal setup",
-      "https://github.com/abiosoft/colima"
     ]
   ],
   [
