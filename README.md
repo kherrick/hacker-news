@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 09:37:31](https://news.ycombinator.com/item?id=35985832) - [Ask HN: Contradicting licensing information on .NET &#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
 * [2023-05-18, 09:32:27](https://news.ycombinator.com/item?id=35985808) - [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
 * [2023-05-18, 09:03:08](https://news.ycombinator.com/item?id=35985590) - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
+* [2023-05-18, 09:00:10](https://news.ycombinator.com/item?id=35985573) - [The Rimac Nevera Just Shattered Pretty Much Every Acceleration Record](https://www.thedrive.com/news/the-rimac-nevera-just-shattered-pretty-much-every-acceleration-record)
 * [2023-05-18, 08:09:42](https://news.ycombinator.com/item?id=35985224) - [The Case for Bash (2021)](https://www.neversaw.us/2021/04/02/the-case-for-bash/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
@@ -23,12 +25,10 @@
 * [2023-05-17, 19:41:16](https://news.ycombinator.com/item?id=35980223) - [Show HN: Smallville – Create generative agents for simulations and games](https://github.com/nickm980/smallville)
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [Petrucci Music Library](https://imslp.org/)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
-* [2023-05-17, 14:03:12](https://news.ycombinator.com/item?id=35975353) - [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
 * [2023-05-17, 02:29:44](https://news.ycombinator.com/item?id=35970604) - [The Dress Diary of Mrs. Anne Sykes](https://www.theparisreview.org/blog/2023/05/15/the-dress-diary-of-mrs-anne-sykes/#more-164077)
 * [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
 * [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
-* [2023-05-16, 07:08:22](https://news.ycombinator.com/item?id=35958590) - [The war on Japanese knotweed](https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed)
 * [2023-05-15, 20:50:22](https://news.ycombinator.com/item?id=35954306) - [Old Traditions and New Hopes](https://www.historytoday.com/archive/out-margins/old-traditions-and-new-hopes)
 
 ## [Archives](archives/index.md)
