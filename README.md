@@ -26,10 +26,10 @@
 * [2023-05-18, 01:47:31](https://news.ycombinator.com/item?id=35983349) - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [2023-05-18, 00:53:03](https://news.ycombinator.com/item?id=35983012) - [The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)
 * [2023-05-17, 23:58:50](https://news.ycombinator.com/item?id=35982732) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
+* [2023-05-17, 23:26:15](https://news.ycombinator.com/item?id=35982507) - [New proof finds the ‘ultimate instability’ in a solar system model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
-* [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
 
 ## [Archives](archives/index.md)
 
