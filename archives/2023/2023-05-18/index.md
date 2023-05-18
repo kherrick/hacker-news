@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 14:22:20](https://news.ycombinator.com/item?id=35988348) - [Passage by 1Password](https://blog.1password.com/passage-by-1password/)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
 * [2023-05-18, 13:42:12](https://news.ycombinator.com/item?id=35987780) - [Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
 * [2023-05-18, 13:28:11](https://news.ycombinator.com/item?id=35987579) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)

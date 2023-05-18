@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 14:22:20](https://news.ycombinator.com/item?id=35988348) - [Passage by 1Password](https://blog.1password.com/passage-by-1password/)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
 * [2023-05-18, 13:42:12](https://news.ycombinator.com/item?id=35987780) - [Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
 * [2023-05-18, 13:28:11](https://news.ycombinator.com/item?id=35987579) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
@@ -7,7 +8,6 @@
 * [2023-05-18, 13:21:00](https://news.ycombinator.com/item?id=35987481) - [Apple to Mass Produce Its Own MicroLED Displays for iPhones](https://www.macrumors.com/2023/05/18/apple-mass-produce-microled-iphone/)
 * [2023-05-18, 13:16:25](https://news.ycombinator.com/item?id=35987413) - [Using LangChainJS and Cloudflare Workers together](https://blog.cloudflare.com/langchain-and-cloudflare/)
 * [2023-05-18, 13:14:03](https://news.ycombinator.com/item?id=35987376) - [BT will shed as many as 55,000 workers by 2030](https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html)
-* [2023-05-18, 12:40:35](https://news.ycombinator.com/item?id=35987058) - [USDC&#x27;s Circle Moves $8.7B to Repo Agreements to Protect Reserves from US Default](https://www.coindesk.com/business/2023/05/17/usdc-issuer-circle-moves-87b-to-repo-agreements-to-protect-reserves-from-us-government-default/)
 * [2023-05-18, 12:39:29](https://news.ycombinator.com/item?id=35987054) - [AI is coming to Google search through Search Generative Experience](https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io)
 * [2023-05-18, 12:29:23](https://news.ycombinator.com/item?id=35986967) - [Replication of room-temperature superconductor fails to show superconductivity](https://phys.org/news/2023-05-replication-room-temperature-superconductor-superconductivity.html)
 * [2023-05-18, 12:28:43](https://news.ycombinator.com/item?id=35986956) - [Legend of Zelda game sells 10M copies in three days](https://finance.yahoo.com/news/legend-zelda-game-sells-10-172603983.html)
@@ -26,10 +26,10 @@
 * [2023-05-18, 01:47:31](https://news.ycombinator.com/item?id=35983349) - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [2023-05-18, 00:53:03](https://news.ycombinator.com/item?id=35983012) - [The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)
 * [2023-05-17, 23:58:50](https://news.ycombinator.com/item?id=35982732) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
-* [2023-05-17, 23:26:15](https://news.ycombinator.com/item?id=35982507) - [New proof finds the ‘ultimate instability’ in a solar system model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
+* [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
 
 ## [Archives](archives/index.md)
 
