@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-18, 13:25:36",
+      "https://news.ycombinator.com/item?id=35987545"
+    ],
+    [
+      "Apple&#x27;s Reality Pro headset compromised",
+      "https://9to5mac.com/2023/05/18/reality-pro-headset/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 13:16:25",
+      "https://news.ycombinator.com/item?id=35987413"
+    ],
+    [
+      "Using LangChainJS and Cloudflare Workers together",
+      "https://blog.cloudflare.com/langchain-and-cloudflare/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 13:14:03",
       "https://news.ycombinator.com/item?id=35987376"
     ],
@@ -37,6 +57,16 @@
     [
       "YouTube on TVs getting unskippable 30-second and pause screen ads",
       "https://9to5google.com/2023/05/17/youtube-tv-ads/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 12:29:23",
+      "https://news.ycombinator.com/item?id=35986967"
+    ],
+    [
+      "Replication of room-temperature superconductor fails to show superconductivity",
+      "https://phys.org/news/2023-05-replication-room-temperature-superconductor-superconductivity.html"
     ]
   ],
   [
@@ -241,26 +271,6 @@
   ],
   [
     [
-      "2023-05-17, 22:28:44",
-      "https://news.ycombinator.com/item?id=35982037"
-    ],
-    [
-      "A minimal operating system (2K LOC) on QEMU and a RISC-V board",
-      "https://github.com/yhzhang0128/egos-2000"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 19:22:22",
-      "https://news.ycombinator.com/item?id=35979977"
-    ],
-    [
-      "Petrucci Music Library",
-      "https://imslp.org/"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 15:13:53",
       "https://news.ycombinator.com/item?id=35976488"
     ],
@@ -287,16 +297,6 @@
     [
       "Algorithms and Data Structures (2007) [pdf]",
       "https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 07:23:00",
-      "https://news.ycombinator.com/item?id=35958673"
-    ],
-    [
-      "The Speed Project: A Race Between Los Angeles and Las Vegas",
-      "https://www.bbc.co.uk/sport/65568403"
     ]
   ]
 ]
