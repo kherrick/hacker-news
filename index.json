@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=35983517"
     ],
     [
-      "DuckDB 0.8.0",
+      "DuckDB 0.8",
       "https://duckdb.org/2023/05/17/announcing-duckdb-080.html"
     ]
   ],
@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=35983475"
     ],
     [
-      "New York City May Be Sinking Under the Weight of Its Skyscrapers",
+      "New York City may be sinking under the weight of its skyscrapers",
       "https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 01:58:44",
-      "https://news.ycombinator.com/item?id=35983397"
-    ],
-    [
-      "85% of jobs are filled via networking",
-      "https://www.zippia.com/advice/networking-statistics/"
     ]
   ],
   [
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-05-18, 00:53:03",
+      "https://news.ycombinator.com/item?id=35983012"
+    ],
+    [
+      "The oldest known blueprints depict Stone Age ‘megastructures’",
+      "https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 00:27:11",
       "https://news.ycombinator.com/item?id=35982860"
     ],
@@ -61,12 +61,12 @@
   ],
   [
     [
-      "2023-05-17, 23:26:15",
-      "https://news.ycombinator.com/item?id=35982507"
+      "2023-05-17, 23:58:50",
+      "https://news.ycombinator.com/item?id=35982732"
     ],
     [
-      "New Proof Finds the ‘Ultimate Instability’ in a Solar System Model",
-      "https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/"
+      "Improving Performance with HTTP Streaming",
+      "https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408"
     ]
   ],
   [
@@ -81,22 +81,22 @@
   ],
   [
     [
+      "2023-05-17, 21:53:41",
+      "https://news.ycombinator.com/item?id=35981743"
+    ],
+    [
+      "IntelligentPad (1989): a component-based drag-and-drop software creator",
+      "https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 21:46:39",
       "https://news.ycombinator.com/item?id=35981662"
     ],
     [
       "Using Bun.js as a Bundler",
       "https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 21:10:24",
-      "https://news.ycombinator.com/item?id=35981311"
-    ],
-    [
-      "The US post office is spying on the mail – senators want to stop it",
-      "https://www.wired.com/story/usps-mail-surveillance-letter/"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Petrucci Music Library",
       "https://imslp.org/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 17:50:07",
-      "https://news.ycombinator.com/item?id=35978864"
-    ],
-    [
-      "Numbers every LLM developer should know",
-      "https://github.com/ray-project/llm-numbers"
     ]
   ],
   [
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=35958673"
     ],
     [
-      "The Speed Project: The Secret Race Between Los Angeles and Las Vegas",
+      "The Speed Project: A Race Between Los Angeles and Las Vegas",
       "https://www.bbc.co.uk/sport/65568403"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 07:08:22",
+      "https://news.ycombinator.com/item?id=35958590"
+    ],
+    [
+      "The war on Japanese knotweed",
+      "https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-05-15, 14:43:40",
-      "https://news.ycombinator.com/item?id=35948987"
-    ],
-    [
-      "The complicated history of how the Earth’s atmosphere became breathable",
-      "https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 10:58:36",
       "https://news.ycombinator.com/item?id=35946269"
     ],
     [
       "ScholarTurbo: Use ChatGPT to chat with PDFs (supports GPT-4)",
       "https://scholarturbo.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-15, 10:30:10",
+      "https://news.ycombinator.com/item?id=35946032"
+    ],
+    [
+      "Flann O’Brien Splits the Atom (1967)",
+      "https://www.laphamsquarterly.org/comedy/flann-obrien-splits-atom"
     ]
   ]
 ]
