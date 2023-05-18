@@ -6,10 +6,12 @@
 
 * [2023-05-18, 05:21:47](https://news.ycombinator.com/item?id=35984382) - [Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
 * [2023-05-18, 05:07:18](https://news.ycombinator.com/item?id=35984302) - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
+* [2023-05-18, 04:22:33](https://news.ycombinator.com/item?id=35984101) - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
 * [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
 * [2023-05-18, 03:30:40](https://news.ycombinator.com/item?id=35983876) - [(Graphical) Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
 * [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with Asus routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 * [2023-05-18, 03:23:13](https://news.ycombinator.com/item?id=35983824) - [Has ChatGPT Been Neutered?](https://news.ycombinator.com/item?id=35983824)
+* [2023-05-18, 03:02:34](https://news.ycombinator.com/item?id=35983707) - [Language models cost 10x more in some languages than others](https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized)
 * [2023-05-18, 02:23:21](https://news.ycombinator.com/item?id=35983517) - [DuckDB 0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
 * [2023-05-18, 02:14:32](https://news.ycombinator.com/item?id=35983475) - [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
 * [2023-05-18, 01:58:44](https://news.ycombinator.com/item?id=35983397) - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
