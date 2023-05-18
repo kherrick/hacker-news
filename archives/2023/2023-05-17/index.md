@@ -92,6 +92,7 @@
 * [2023-05-17, 03:29:19](https://news.ycombinator.com/item?id=35970931) - [Google will soon let Pixel phones double as dashcams](https://9to5google.com/2023/05/16/pixel-dashcam-personal-safety-update/)
 * [2023-05-17, 03:13:52](https://news.ycombinator.com/item?id=35970854) - [Theranos founder Elizabeth Holmes must go to prison while she appeals sentence](https://www.theguardian.com/technology/2023/may/17/court-rules-theranos-founder-elizabeth-holmes-must-go-to-prison-while-she-appeals-sentence)
 * [2023-05-17, 02:51:07](https://news.ycombinator.com/item?id=35970723) - [DIY Book Binding](http://www.diybookbinding.com/)
+* [2023-05-17, 02:29:44](https://news.ycombinator.com/item?id=35970604) - [The Dress Diary of Mrs. Anne Sykes](https://www.theparisreview.org/blog/2023/05/15/the-dress-diary-of-mrs-anne-sykes/#more-164077)
 * [2023-05-17, 02:18:14](https://news.ycombinator.com/item?id=35970539) - [Earth Primer](https://www.earthprimer.com/)
 * [2023-05-17, 01:40:35](https://news.ycombinator.com/item?id=35970289) - [The IRS is building its own online tax filing system](https://www.npr.org/2023/05/16/1176417594/irs-taxes-filing-turbotax-intuit-tax-prep)
 * [2023-05-17, 01:30:18](https://news.ycombinator.com/item?id=35970213) - [WebGPU hits 40% availability 2 weeks after Chrome releases support](https://web3dsurvey.com/webgpu)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
 * [2023-05-18, 03:30:40](https://news.ycombinator.com/item?id=35983876) - [(Graphical) Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
 * [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 * [2023-05-18, 03:23:13](https://news.ycombinator.com/item?id=35983824) - [Has ChatGPT Been Neutered?](https://news.ycombinator.com/item?id=35983824)
@@ -20,16 +21,15 @@
 * [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
 * [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 transformers and the “Attention is all we need” paper?](https://news.ycombinator.com/item?id=35977891)
 * [2023-05-17, 16:03:48](https://news.ycombinator.com/item?id=35977294) - [Google Colab will soon introduce AI coding features](https://blog.google/technology/developers/google-colab-ai-coding-features/)
-* [2023-05-17, 15:40:39](https://news.ycombinator.com/item?id=35976891) - [Conditional CSS with:has and:nth-last-child](https://ishadeed.com/article/conditional-css-has-nth-last-child/)
 * [2023-05-17, 15:30:09](https://news.ycombinator.com/item?id=35976743) - [Controlled burns can prevent wildfires; regulations make them nearly impossible](https://boulderbeat.news/2023/05/12/controlled-burn-rules/)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The regenerating power of Big Basin’s redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 * [2023-05-17, 14:03:12](https://news.ycombinator.com/item?id=35975353) - [Researchers treat depression by reversing brain signals traveling the wrong way](https://med.stanford.edu/news/all-news/2023/05/depression-reverse-brain-signals.html)
+* [2023-05-17, 02:29:44](https://news.ycombinator.com/item?id=35970604) - [The Dress Diary of Mrs. Anne Sykes](https://www.theparisreview.org/blog/2023/05/15/the-dress-diary-of-mrs-anne-sykes/#more-164077)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
 * [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
 * [2023-05-16, 07:08:22](https://news.ycombinator.com/item?id=35958590) - [The war on Japanese knotweed](https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s exabyte-scale blob storage system](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
-* [2023-05-15, 10:30:10](https://news.ycombinator.com/item?id=35946032) - [Flann O’Brien Splits the Atom (1967)](https://www.laphamsquarterly.org/comedy/flann-obrien-splits-atom)
 
 ## [Archives](archives/index.md)
 
