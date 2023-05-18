@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 02:23:21](https://news.ycombinator.com/item?id=35983517) - [DuckDB 0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
+* [2023-05-18, 02:14:32](https://news.ycombinator.com/item?id=35983475) - [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
 * [2023-05-18, 01:58:44](https://news.ycombinator.com/item?id=35983397) - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
+* [2023-05-18, 01:47:31](https://news.ycombinator.com/item?id=35983349) - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [2023-05-18, 00:54:47](https://news.ycombinator.com/item?id=35983024) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 * [2023-05-18, 00:27:11](https://news.ycombinator.com/item?id=35982860) - [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
