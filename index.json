@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-18, 20:52:19",
-      "https://news.ycombinator.com/item?id=35993882"
-    ],
-    [
-      "AC3D is a 3D mesh editor that uses Tcl&#x2F;Tk for the UI",
-      "http://www.inivis.com/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 20:40:56",
       "https://news.ycombinator.com/item?id=35993758"
     ],
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2023-05-18, 15:25:11",
+      "https://news.ycombinator.com/item?id=35989311"
+    ],
+    [
+      "20 Years of Gentoo",
+      "https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 15:04:24",
       "https://news.ycombinator.com/item?id=35988984"
     ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=35988879"
     ],
     [
-      "NYC skyscrapers sit vacant, exposing risk city never predicted",
+      "NYC skyscrapers sit vacant",
       "https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted"
     ]
   ],
@@ -197,16 +197,6 @@
     [
       "How to Quit Cars",
       "https://www.newyorker.com/magazine/2023/05/22/carmageddon-daniel-knowles-book-review-paved-paradise-henry-grabar"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 14:22:20",
-      "https://news.ycombinator.com/item?id=35988348"
-    ],
-    [
-      "Passage by 1Password: Add passkey support to your app or website",
-      "https://blog.1password.com/passage-by-1password/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Photomator for Mac",
       "https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 02:49:22",
+      "https://news.ycombinator.com/item?id=35970712"
+    ],
+    [
+      "Debug browser redirects without ruining your day",
+      "https://dodov.dev/blog/how-to-debug-browser-redirects"
     ]
   ]
 ]
