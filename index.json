@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-18, 05:21:47",
-      "https://news.ycombinator.com/item?id=35984382"
-    ],
-    [
-      "Elizabeth Holmes is going to prison – with a $500M bill",
-      "https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 05:07:18",
       "https://news.ycombinator.com/item?id=35984302"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-05-17, 22:28:44",
+      "https://news.ycombinator.com/item?id=35982037"
+    ],
+    [
+      "A minimal operating system (2K LOC) on QEMU and a RISC-V board",
+      "https://github.com/yhzhang0128/egos-2000"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 21:53:41",
       "https://news.ycombinator.com/item?id=35981743"
     ],
@@ -161,22 +161,22 @@
   ],
   [
     [
+      "2023-05-17, 21:10:24",
+      "https://news.ycombinator.com/item?id=35981311"
+    ],
+    [
+      "The US post office is spying on the mail – senators want to stop it",
+      "https://www.wired.com/story/usps-mail-surveillance-letter/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 21:02:14",
       "https://news.ycombinator.com/item?id=35981238"
     ],
     [
       "Show HN: Postgres query lock explainer",
       "https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 20:42:26",
-      "https://news.ycombinator.com/item?id=35981019"
-    ],
-    [
-      "The myth of the $600 hammer (1998)",
-      "https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-05-17, 16:43:26",
-      "https://news.ycombinator.com/item?id=35977891"
-    ],
-    [
-      "Ask HN: Can someone ELI5 transformers and the “Attention is all we need” paper?",
-      "https://news.ycombinator.com/item?id=35977891"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 15:13:53",
       "https://news.ycombinator.com/item?id=35976488"
     ],
@@ -247,6 +237,16 @@
     [
       "The Dress Diary of Mrs. Anne Sykes",
       "https://www.theparisreview.org/blog/2023/05/15/the-dress-diary-of-mrs-anne-sykes/#more-164077"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 12:14:02",
+      "https://news.ycombinator.com/item?id=35960743"
+    ],
+    [
+      "Literate Programming: Articles",
+      "http://literateprogramming.com/articles.html"
     ]
   ],
   [
