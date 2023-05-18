@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 01:58:44](https://news.ycombinator.com/item?id=35983397) - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
 * [2023-05-18, 00:54:47](https://news.ycombinator.com/item?id=35983024) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 * [2023-05-18, 00:27:11](https://news.ycombinator.com/item?id=35982860) - [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
 * [2023-05-17, 23:26:15](https://news.ycombinator.com/item?id=35982507) - [New Proof Finds the ‘Ultimate Instability’ in a Solar System Model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
@@ -9,7 +10,6 @@
 * [2023-05-17, 21:10:24](https://news.ycombinator.com/item?id=35981311) - [The US post office is spying on the mail – senators want to stop it](https://www.wired.com/story/usps-mail-surveillance-letter/)
 * [2023-05-17, 21:02:14](https://news.ycombinator.com/item?id=35981238) - [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
 * [2023-05-17, 20:42:26](https://news.ycombinator.com/item?id=35981019) - [The myth of the $600 hammer (1998)](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
-* [2023-05-17, 20:05:01](https://news.ycombinator.com/item?id=35980543) - [Tracking Blocked Scripts](https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/)
 * [2023-05-17, 19:41:16](https://news.ycombinator.com/item?id=35980223) - [Show HN: Smallville – Create generative agents for simulations and games](https://github.com/nickm980/smallville)
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [Petrucci Music Library](https://imslp.org/)
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
@@ -25,7 +25,7 @@
 * [2023-05-17, 13:18:48](https://news.ycombinator.com/item?id=35974845) - [The Staff Engineer&#x27;s Path – Book Review](https://smyachenkov.com/posts/book-review-the-staff-engineers-path/)
 * [2023-05-17, 12:02:42](https://news.ycombinator.com/item?id=35974080) - [Retro Computer Museum](https://retrocomputermuseum.co.uk/)
 * [2023-05-16, 23:02:14](https://news.ycombinator.com/item?id=35968911) - [USB MIDI interface for the NeXTCube – ISPW board](https://0110.be/posts/USB_MIDI_interface_for_the_NeXTCube_-_ISPW_board)
-* [2023-05-16, 18:35:51](https://news.ycombinator.com/item?id=35965824) - [I Still Use Windows 95 (2008)](https://web.archive.org/web/20080220175358/http://www.andrew-turnbull.net/tech/windows95.html)
+* [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s exabyte-scale blob storage system](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
 * [2023-05-15, 14:43:40](https://news.ycombinator.com/item?id=35948987) - [The complicated history of how the Earth’s atmosphere became breathable](https://arstechnica.com/science/2023/05/the-complicated-history-of-how-the-earths-atmosphere-became-breathable/)
 * [2023-05-15, 10:58:36](https://news.ycombinator.com/item?id=35946269) - [ScholarTurbo: Use ChatGPT to chat with PDFs (supports GPT-4)](https://scholarturbo.com/)
