@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-18, 16:00:14",
+      "https://news.ycombinator.com/item?id=35989911"
+    ],
+    [
+      "Unit Testing eBPF Programs",
+      "https://who.ldelossa.is/posts/unit-testing-ebpf/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 15:33:13",
+      "https://news.ycombinator.com/item?id=35989462"
+    ],
+    [
+      "The Great CPU Stagnation",
+      "http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 15:32:08",
       "https://news.ycombinator.com/item?id=35989440"
     ],
@@ -97,16 +117,6 @@
     [
       "BT will shed as many as 55,000 workers by 2030",
       "https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 12:39:29",
-      "https://news.ycombinator.com/item?id=35987054"
-    ],
-    [
-      "AI is coming to Google search through Search Generative Experience",
-      "https://www.theverge.com/2023/5/10/23717120/google-search-ai-results-generated-experience-io"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2023-05-18, 00:53:03",
-      "https://news.ycombinator.com/item?id=35983012"
-    ],
-    [
-      "The oldest known blueprints depict Stone Age ‘megastructures’",
-      "https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 23:58:50",
-      "https://news.ycombinator.com/item?id=35982732"
-    ],
-    [
-      "Improving Performance with HTTP Streaming",
-      "https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 15:13:53",
       "https://news.ycombinator.com/item?id=35976488"
     ],
     [
       "Show HN: Beepberry – a portable e-paper computer for hackers",
       "https://beepberry.sqfmi.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 11:04:42",
+      "https://news.ycombinator.com/item?id=35973653"
+    ],
+    [
+      "Fast GPT-2 inference written in Fortran",
+      "https://github.com/certik/fastGPT"
     ]
   ]
 ]
