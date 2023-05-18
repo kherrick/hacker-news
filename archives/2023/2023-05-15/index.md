@@ -17,6 +17,7 @@
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Kaspersky: Case study: fake hardware cryptowallet (Trezor)](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
 * [2023-05-15, 21:01:01](https://news.ycombinator.com/item?id=35954420) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer)
 * [2023-05-15, 20:52:09](https://news.ycombinator.com/item?id=35954325) - [EPFL cancels Stallman&#x27;s lecture citing “the situation regarding” his persona](https://clic.epfl.ch/news/49)
+* [2023-05-15, 20:50:22](https://news.ycombinator.com/item?id=35954306) - [Old Traditions and New Hopes](https://www.historytoday.com/archive/out-margins/old-traditions-and-new-hopes)
 * [2023-05-15, 20:46:28](https://news.ycombinator.com/item?id=35954259) - [Translating Akkadian clay tablets with ChatGPT?](http://www.janromme.com/2023/05/ChaptGPT-transaltion-of-Akkadian-texts.html)
 * [2023-05-15, 20:42:54](https://news.ycombinator.com/item?id=35954208) - [Clinical trial of mRNA universal influenza vaccine candidate begins](https://www.nih.gov/news-events/news-releases/clinical-trial-mrna-universal-influenza-vaccine-candidate-begins)
 * [2023-05-15, 20:19:15](https://news.ycombinator.com/item?id=35953947) - [Regorxxx&#x27;s Foobar2000 SMP Scripts – Spotify, iTunes, YouTube etc. in Your System](https://regorxxx.github.io/foobar2000-SMP.github.io/)
