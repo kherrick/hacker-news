@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 05:21:47](https://news.ycombinator.com/item?id=35984382) - [Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
+* [2023-05-18, 05:07:18](https://news.ycombinator.com/item?id=35984302) - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
 * [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
 * [2023-05-18, 03:30:40](https://news.ycombinator.com/item?id=35983876) - [(Graphical) Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
 * [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with Asus routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
