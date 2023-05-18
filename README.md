@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
 * [2023-05-18, 05:21:47](https://news.ycombinator.com/item?id=35984382) - [Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
 * [2023-05-18, 05:07:18](https://news.ycombinator.com/item?id=35984302) - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
 * [2023-05-18, 04:22:33](https://news.ycombinator.com/item?id=35984101) - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
@@ -16,7 +17,6 @@
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989): a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-05-17, 21:46:39](https://news.ycombinator.com/item?id=35981662) - [Using Bun.js as a Bundler](https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/)
 * [2023-05-17, 21:02:14](https://news.ycombinator.com/item?id=35981238) - [Show HN: Postgres query lock explainer](https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer)
-* [2023-05-17, 20:42:26](https://news.ycombinator.com/item?id=35981019) - [The myth of the $600 hammer (1998)](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
 * [2023-05-17, 19:41:16](https://news.ycombinator.com/item?id=35980223) - [Show HN: Smallville – Create generative agents for simulations and games](https://github.com/nickm980/smallville)
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [Petrucci Music Library](https://imslp.org/)
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
