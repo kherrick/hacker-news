@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-05-18, 20:08:11",
-      "https://news.ycombinator.com/item?id=35993398"
-    ],
-    [
-      "The next 5 years will be the hottest yet",
-      "https://grist.org/science/el-nino-the-next-5-years-will-be-the-hottest-on-record/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 19:42:03",
       "https://news.ycombinator.com/item?id=35993044"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35992553"
     ],
     [
-      "The Autobiography of Nikola Tesla",
+      "My Inventions – Nikola Tesla",
       "https://archive.org/details/MyInventionsNikolaTesla"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=35989909"
     ],
     [
-      "The first version of Redis, written in Tcl (2009)",
+      "LMDB: The first version of Redis, written in Tcl (2009)",
       "https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8"
     ]
   ],
@@ -271,6 +261,16 @@
   ],
   [
     [
+      "2023-05-18, 04:06:38",
+      "https://news.ycombinator.com/item?id=35984028"
+    ],
+    [
+      "The Work of the Audiobook",
+      "https://lareviewofbooks.org/article/the-work-of-the-audiobook/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 11:04:42",
       "https://news.ycombinator.com/item?id=35973653"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=35973408"
     ],
     [
-      "An Interactive Introduction to Fourier Transforms",
+      "An Interactive Introduction to Fourier Transforms (2019)",
       "https://www.jezzamon.com/fourier/"
     ]
   ],
