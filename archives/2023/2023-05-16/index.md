@@ -68,6 +68,7 @@
 * [2023-05-16, 12:52:14](https://news.ycombinator.com/item?id=35961170) - [Apple is now worth more than the entire Russell 2000](https://www.marketwatch.com/story/a-stock-market-milestone-apple-is-now-worth-more-than-the-entire-russell-2000-e2dc3f75)
 * [2023-05-16, 12:40:59](https://news.ycombinator.com/item?id=35961045) - [iPhones will be able to speak in your voice with 15 minutes of training](https://www.theverge.com/2023/5/16/23725237/iphone-personal-voice-speak-training-accessibility)
 * [2023-05-16, 12:39:47](https://news.ycombinator.com/item?id=35961032) - [Re-Victimization from Police-Auctioned Cell Phones](https://krebsonsecurity.com/2023/05/re-victimization-from-police-auctioned-cell-phones/)
+* [2023-05-16, 12:36:32](https://news.ycombinator.com/item?id=35961003) - [Eighty Shades of Option Key](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)
 * [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 * [2023-05-16, 12:07:00](https://news.ycombinator.com/item?id=35960663) - [Apple previews Live Speech, Personal Voice, and more new accessibility features](https://www.apple.com/newsroom/2023/05/apple-previews-live-speech-personal-voice-and-more-new-accessibility-features/)
 * [2023-05-16, 12:06:56](https://news.ycombinator.com/item?id=35960662) - [Why you should still read the docs](https://death.andgravity.com/output)
