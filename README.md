@@ -26,10 +26,10 @@
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [Petrucci Music Library](https://imslp.org/)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 02:29:44](https://news.ycombinator.com/item?id=35970604) - [The Dress Diary of Mrs. Anne Sykes](https://www.theparisreview.org/blog/2023/05/15/the-dress-diary-of-mrs-anne-sykes/#more-164077)
+* [2023-05-16, 23:48:07](https://news.ycombinator.com/item?id=35969377) - [To help new students adapt, some colleges are eliminating grades](https://www.npr.org/2023/03/26/1164832694/to-help-new-students-adapt-some-colleges-are-eliminating-grades)
 * [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
 * [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
-* [2023-05-15, 20:50:22](https://news.ycombinator.com/item?id=35954306) - [Old Traditions and New Hopes](https://www.historytoday.com/archive/out-margins/old-traditions-and-new-hopes)
 
 ## [Archives](archives/index.md)
 

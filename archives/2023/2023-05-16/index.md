@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 23:48:07](https://news.ycombinator.com/item?id=35969377) - [To help new students adapt, some colleges are eliminating grades](https://www.npr.org/2023/03/26/1164832694/to-help-new-students-adapt-some-colleges-are-eliminating-grades)
 * [2023-05-16, 23:31:46](https://news.ycombinator.com/item?id=35969206) - [The promise of crypto has not lived up to its initial excitement](https://www.economist.com/special-report/2023/05/15/the-promise-of-crypto-has-not-lived-up-to-its-initial-excitement)
 * [2023-05-16, 23:29:48](https://news.ycombinator.com/item?id=35969184) - [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers)
 * [2023-05-16, 23:08:20](https://news.ycombinator.com/item?id=35968968) - [Beware Offers of “Help” with Your Projects](http://misc-stuff.terraaeon.com/articles/beware-help.html)
