@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-18, 14:33:29",
+      "https://news.ycombinator.com/item?id=35988538"
+    ],
+    [
+      "Quid Pro Crow",
+      "https://languagelog.ldc.upenn.edu/nll/?p=58724"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 14:22:20",
       "https://news.ycombinator.com/item?id=35988348"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-05-18, 11:42:34",
-      "https://news.ycombinator.com/item?id=35986602"
-    ],
-    [
-      "Rolls-Royce tests &#x27;game-changing&#x27; greener UltraFan engine",
-      "https://www.bbc.com/news/uk-england-derbyshire-65633884"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 11:34:14",
       "https://news.ycombinator.com/item?id=35986534"
     ],
@@ -171,12 +171,32 @@
   ],
   [
     [
+      "2023-05-18, 08:18:38",
+      "https://news.ycombinator.com/item?id=35985285"
+    ],
+    [
+      "94% of users prefer not to be tracked, so why do consent prompts exist?",
+      "https://www.quantable.com/analytics/who-wants-to-be-tracked/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 08:13:03",
       "https://news.ycombinator.com/item?id=35985240"
     ],
     [
       "User In Yer Face, a worst-practise UI experiment",
       "https://userinyerface.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 08:09:42",
+      "https://news.ycombinator.com/item?id=35985224"
+    ],
+    [
+      "The Case for Bash (2021)",
+      "https://www.neversaw.us/2021/04/02/the-case-for-bash/"
     ]
   ],
   [
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2023-05-18, 07:13:02",
+      "https://news.ycombinator.com/item?id=35984928"
+    ],
+    [
+      "One million cancel broadband as living costs rise (UK)",
+      "https://www.bbc.com/news/technology-65622403"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 03:29:10",
       "https://news.ycombinator.com/item?id=35983866"
     ],
@@ -217,16 +247,6 @@
     [
       "Language models cost 10x more in some languages than others",
       "https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 02:23:21",
-      "https://news.ycombinator.com/item?id=35983517"
-    ],
-    [
-      "DuckDB 0.8",
-      "https://duckdb.org/2023/05/17/announcing-duckdb-080.html"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-05-17, 23:26:15",
-      "https://news.ycombinator.com/item?id=35982507"
-    ],
-    [
-      "New proof finds the ‘ultimate instability’ in a solar system model",
-      "https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 15:13:53",
       "https://news.ycombinator.com/item?id=35976488"
     ],
@@ -287,16 +297,6 @@
     [
       "Literate Programming: Articles",
       "http://literateprogramming.com/articles.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 09:35:40",
-      "https://news.ycombinator.com/item?id=35959502"
-    ],
-    [
-      "Algorithms and Data Structures (2007) [pdf]",
-      "https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf"
     ]
   ]
 ]
