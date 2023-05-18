@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 19:04:18](https://news.ycombinator.com/item?id=35992593) - [Linux Software Map](https://xteddy.org/lsm/)
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
+* [2023-05-18, 18:44:47](https://news.ycombinator.com/item?id=35992337) - [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
 * [2023-05-18, 18:43:40](https://news.ycombinator.com/item?id=35992325) - [UUIDs are obsolete in the age of Docker](https://leonid.shevtsov.me/post/uuids-are-obsolete/)
 * [2023-05-18, 18:40:31](https://news.ycombinator.com/item?id=35992285) - [Disney cancels plans to relocate 2,000 jobs to Florida](https://www.reuters.com/business/media-telecom/disney-cancels-plans-relocate-2000-jobs-florida-company-email-2023-05-18/)
 * [2023-05-18, 18:33:09](https://news.ycombinator.com/item?id=35992183) - [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 19:04:18](https://news.ycombinator.com/item?id=35992593) - [Linux Software Map](https://xteddy.org/lsm/)
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
-* [2023-05-18, 18:43:40](https://news.ycombinator.com/item?id=35992325) - [UUIDs are obsolete in the age of Docker](https://leonid.shevtsov.me/post/uuids-are-obsolete/)
+* [2023-05-18, 18:44:47](https://news.ycombinator.com/item?id=35992337) - [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
 * [2023-05-18, 18:40:31](https://news.ycombinator.com/item?id=35992285) - [Disney cancels plans to relocate 2,000 jobs to Florida](https://www.reuters.com/business/media-telecom/disney-cancels-plans-relocate-2000-jobs-florida-company-email-2023-05-18/)
 * [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
@@ -24,7 +25,6 @@
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [Who wants to be tracked?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
 * [2023-05-18, 08:13:03](https://news.ycombinator.com/item?id=35985240) - [User In Yer Face, a worst-practise UI experiment](https://userinyerface.com/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
-* [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise](https://www.bbc.com/news/technology-65622403)
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989): a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-05-17, 11:04:42](https://news.ycombinator.com/item?id=35973653) - [Fast GPT-2 inference written in Fortran](https://github.com/certik/fastGPT)
