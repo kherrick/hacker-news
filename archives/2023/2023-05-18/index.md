@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 19:26:43](https://news.ycombinator.com/item?id=35992838) - [Disney scraps plans for new Florida campus, mass employee relocation](https://www.cnbc.com/2023/05/18/disney-scraps-lake-nona-florida-campus.html)
 * [2023-05-18, 19:04:18](https://news.ycombinator.com/item?id=35992593) - [Linux Software Map](https://xteddy.org/lsm/)
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
 * [2023-05-18, 18:44:47](https://news.ycombinator.com/item?id=35992337) - [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
