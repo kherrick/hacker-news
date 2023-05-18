@@ -12,6 +12,7 @@
 * [2023-05-15, 22:00:44](https://news.ycombinator.com/item?id=35955092) - [Argentina raises interest rate to 97% as it struggles to tackle inflation](https://www.cnn.com/2023/05/15/business/argentina-interest-rates-inflation/index.html)
 * [2023-05-15, 22:00:30](https://news.ycombinator.com/item?id=35955089) - [A weed is swallowing the Sonoran Desert](https://www.hcn.org/articles/south-non-native-species-a-weed-is-swallowing-the-sonoran-desert)
 * [2023-05-15, 21:57:52](https://news.ycombinator.com/item?id=35955062) - [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s)
+* [2023-05-15, 21:52:01](https://news.ycombinator.com/item?id=35954985) - [Eighty Shades of Option Key](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)
 * [2023-05-15, 21:06:05](https://news.ycombinator.com/item?id=35954481) - [StarCoder and StarCoderBase: 15.5B parameter models with 8K context length](https://arxiv.org/abs/2305.06161)
 * [2023-05-15, 21:02:42](https://news.ycombinator.com/item?id=35954439) - [US may default on debt as soon as June 1, Yellen reaffirms](https://www.cnn.com/2023/05/15/politics/debt-ceiling-default-yellen/index.html)
 * [2023-05-15, 21:01:20](https://news.ycombinator.com/item?id=35954422) - [Kaspersky: Case study: fake hardware cryptowallet (Trezor)](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)

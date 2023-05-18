@@ -29,7 +29,7 @@
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
 * [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
-* [2023-05-16, 14:23:40](https://news.ycombinator.com/item?id=35962315) - [Show HN: PAKman – A new build system built around Alpine Linux Packages](https://zacksiri.dev/posts/why-i-created-pakman)
+* [2023-05-15, 21:52:01](https://news.ycombinator.com/item?id=35954985) - [Eighty Shades of Option Key](https://getenet.notion.site/Eighty-Shades-of-Option-Key-3c6e58feb5c848ee9d4c027f0b9d52e0)
 
 ## [Archives](archives/index.md)
 
