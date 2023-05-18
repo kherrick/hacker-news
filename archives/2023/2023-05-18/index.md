@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
+* [2023-05-18, 20:52:19](https://news.ycombinator.com/item?id=35993882) - [AC3D is a 3D mesh editor that uses Tcl&#x2F;Tk for the UI](http://www.inivis.com/)
 * [2023-05-18, 20:16:20](https://news.ycombinator.com/item?id=35993498) - [Inject My PDF: Prompt Injection for Your Resume](https://kai-greshake.de/posts/inject-my-pdf/)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 * [2023-05-18, 20:08:11](https://news.ycombinator.com/item?id=35993398) - [The next 5 years will be the hottest yet](https://grist.org/science/el-nino-the-next-5-years-will-be-the-hottest-on-record/)
@@ -51,6 +53,7 @@
 * [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple’s new headset meets reality](https://www.bloomberg.com/news/features/2023-05-18/apple-s-mixed-reality-headset-may-define-tim-cook-s-legacy)
 * [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple&#x27;s Reality Pro headset compromised](https://9to5mac.com/2023/05/18/reality-pro-headset/)
 * [2023-05-18, 13:21:00](https://news.ycombinator.com/item?id=35987481) - [Apple to Mass Produce Its Own MicroLED Displays for iPhones](https://www.macrumors.com/2023/05/18/apple-mass-produce-microled-iphone/)
+* [2023-05-18, 13:21:00](https://news.ycombinator.com/item?id=35987481) - [Apple dives into display-making to cut reliance on Samsung](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-dives-into-display-making-to-cut-reliance-on-Samsung)
 * [2023-05-18, 13:16:25](https://news.ycombinator.com/item?id=35987413) - [Using LangChainJS and Cloudflare Workers together](https://blog.cloudflare.com/langchain-and-cloudflare/)
 * [2023-05-18, 13:14:03](https://news.ycombinator.com/item?id=35987376) - [BT will shed as many as 55,000 workers by 2030](https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html)
 * [2023-05-18, 12:40:35](https://news.ycombinator.com/item?id=35987058) - [USDC&#x27;s Circle Moves $8.7B to Repo Agreements to Protect Reserves from US Default](https://www.coindesk.com/business/2023/05/17/usdc-issuer-circle-moves-87b-to-repo-agreements-to-protect-reserves-from-us-government-default/)
