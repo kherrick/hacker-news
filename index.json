@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-05-18, 16:10:32",
+      "https://news.ycombinator.com/item?id=35990103"
+    ],
+    [
+      "Sam Altman attends secretive annual meeting with the world’s elite",
+      "https://www.cnbc.com/2023/05/18/bilderberg-openai-microsoft-google-join-ai-talks-at-secretive-meeting.html"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 16:00:14",
       "https://news.ycombinator.com/item?id=35989911"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=35989909"
     ],
     [
-      "The first version of Redis, written in Tcl",
+      "The first version of Redis, written in Tcl (2009)",
       "https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "CRDT-richtext: Rust implementation of Peritext and Fugue",
       "https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 13:26:04",
-      "https://news.ycombinator.com/item?id=35987550"
-    ],
-    [
-      "New Maintainer Steps Up for GCC Compiler&#x27;s MIPS CPU Port",
-      "https://www.phoronix.com/news/GCC-MIPS-New-Maintainer"
     ]
   ],
   [
