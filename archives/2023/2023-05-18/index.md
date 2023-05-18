@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 13:42:12](https://news.ycombinator.com/item?id=35987780) - [Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
 * [2023-05-18, 13:28:11](https://news.ycombinator.com/item?id=35987579) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
 * [2023-05-18, 13:26:04](https://news.ycombinator.com/item?id=35987550) - [New Maintainer Steps Up for GCC Compiler&#x27;s MIPS CPU Port](https://www.phoronix.com/news/GCC-MIPS-New-Maintainer)
 * [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple&#x27;s Reality Pro headset compromised](https://9to5mac.com/2023/05/18/reality-pro-headset/)

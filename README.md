@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 13:42:12](https://news.ycombinator.com/item?id=35987780) - [Montana becomes first US state to ban TikTok](https://www.reuters.com/world/us/montana-governor-signs-bill-banning-tiktok-state-2023-05-17/)
 * [2023-05-18, 13:28:11](https://news.ycombinator.com/item?id=35987579) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
 * [2023-05-18, 13:26:04](https://news.ycombinator.com/item?id=35987550) - [New Maintainer Steps Up for GCC Compiler&#x27;s MIPS CPU Port](https://www.phoronix.com/news/GCC-MIPS-New-Maintainer)
 * [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple&#x27;s Reality Pro headset compromised](https://9to5mac.com/2023/05/18/reality-pro-headset/)
@@ -26,7 +27,6 @@
 * [2023-05-18, 00:53:03](https://news.ycombinator.com/item?id=35983012) - [The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)
 * [2023-05-17, 23:58:50](https://news.ycombinator.com/item?id=35982732) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
 * [2023-05-17, 23:26:15](https://news.ycombinator.com/item?id=35982507) - [New proof finds the ‘ultimate instability’ in a solar system model](https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/)
-* [2023-05-17, 22:34:25](https://news.ycombinator.com/item?id=35982083) - [Simulated Hospital](https://github.com/google/simhospital)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
