@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with Asus routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 * [2023-05-18, 02:23:21](https://news.ycombinator.com/item?id=35983517) - [DuckDB 0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
-* [2023-05-18, 02:14:32](https://news.ycombinator.com/item?id=35983475) - [New York City may be sinking under the weight of its skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
 * [2023-05-18, 01:47:31](https://news.ycombinator.com/item?id=35983349) - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
-* [2023-05-18, 00:54:47](https://news.ycombinator.com/item?id=35983024) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
 * [2023-05-18, 00:53:03](https://news.ycombinator.com/item?id=35983012) - [The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)
 * [2023-05-18, 00:27:11](https://news.ycombinator.com/item?id=35982860) - [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)
 * [2023-05-17, 23:58:50](https://news.ycombinator.com/item?id=35982732) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
@@ -14,6 +13,7 @@
 * [2023-05-17, 20:42:26](https://news.ycombinator.com/item?id=35981019) - [The myth of the $600 hammer (1998)](https://www.govexec.com/federal-news/1998/12/the-myth-of-the-600-hammer/5271/)
 * [2023-05-17, 19:41:16](https://news.ycombinator.com/item?id=35980223) - [Show HN: Smallville – Create generative agents for simulations and games](https://github.com/nickm980/smallville)
 * [2023-05-17, 19:22:22](https://news.ycombinator.com/item?id=35979977) - [Petrucci Music Library](https://imslp.org/)
+* [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 17:42:15](https://news.ycombinator.com/item?id=35978757) - [Understanding database indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 * [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
 * [2023-05-17, 16:43:26](https://news.ycombinator.com/item?id=35977891) - [Ask HN: Can someone ELI5 transformers and the “Attention is all we need” paper?](https://news.ycombinator.com/item?id=35977891)

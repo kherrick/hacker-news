@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with Asus routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 * [2023-05-18, 02:23:21](https://news.ycombinator.com/item?id=35983517) - [DuckDB 0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
 * [2023-05-18, 02:14:32](https://news.ycombinator.com/item?id=35983475) - [New York City May Be Sinking Under the Weight of Its Skyscrapers](https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers)
 * [2023-05-18, 01:58:44](https://news.ycombinator.com/item?id=35983397) - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
