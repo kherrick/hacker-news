@@ -6,6 +6,7 @@
 
 * [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 * [2023-05-18, 20:52:19](https://news.ycombinator.com/item?id=35993882) - [AC3D is a 3D mesh editor that uses Tcl&#x2F;Tk for the UI](http://www.inivis.com/)
+* [2023-05-18, 20:40:56](https://news.ycombinator.com/item?id=35993758) - [Thirty Minutes or Less: An Oral History of the LØpht, Part Three](https://duo.com/decipher/thirty-minutes-or-less-an-oral-history-of-the-l0pht-part-three)
 * [2023-05-18, 20:16:20](https://news.ycombinator.com/item?id=35993498) - [Inject My PDF: Prompt Injection for Your Resume](https://kai-greshake.de/posts/inject-my-pdf/)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 * [2023-05-18, 20:08:11](https://news.ycombinator.com/item?id=35993398) - [The next 5 years will be the hottest yet](https://grist.org/science/el-nino-the-next-5-years-will-be-the-hottest-on-record/)
