@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 09:37:31](https://news.ycombinator.com/item?id=35985832) - [Ask HN: Contradicting licensing information on .NET &#x2F; Visual Studio libraries](https://developercommunity.visualstudio.com/t/Contradicting-licensing-information-on-/10367059)
 * [2023-05-18, 09:32:27](https://news.ycombinator.com/item?id=35985808) - [How a Secretive Swiss Dealer Is Enabling Israeli Spy Firms](https://www.haaretz.com/israel-news/security-aviation/2023-05-14/ty-article-magazine/.highlight/global-surveillance-the-secretive-swiss-dealer-enabling-israeli-spy-firms/00000188-0005-dc7e-a3fe-22cdf2900000)
 * [2023-05-18, 09:08:18](https://news.ycombinator.com/item?id=35985639) - [Ireland’s DPC set to hit Meta with record privacy fine over US data transfers](https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/)
 * [2023-05-18, 09:03:08](https://news.ycombinator.com/item?id=35985590) - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
 * [2023-05-18, 09:00:10](https://news.ycombinator.com/item?id=35985573) - [The Rimac Nevera Just Shattered Pretty Much Every Acceleration Record](https://www.thedrive.com/news/the-rimac-nevera-just-shattered-pretty-much-every-acceleration-record)
 * [2023-05-18, 08:13:03](https://news.ycombinator.com/item?id=35985240) - [User In Yer Face, a worst-practise UI experiment](https://userinyerface.com/)
-* [2023-05-18, 08:09:42](https://news.ycombinator.com/item?id=35985224) - [The Case for Bash (2021)](https://www.neversaw.us/2021/04/02/the-case-for-bash/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
