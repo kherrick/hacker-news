@@ -2,11 +2,11 @@
 
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
 * [2023-05-18, 18:43:40](https://news.ycombinator.com/item?id=35992325) - [UUIDs are obsolete in the age of Docker](https://leonid.shevtsov.me/post/uuids-are-obsolete/)
+* [2023-05-18, 18:40:31](https://news.ycombinator.com/item?id=35992285) - [Disney cancels plans to relocate 2,000 jobs to Florida](https://www.reuters.com/business/media-telecom/disney-cancels-plans-relocate-2000-jobs-florida-company-email-2023-05-18/)
 * [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 * [2023-05-18, 17:54:53](https://news.ycombinator.com/item?id=35991654) - [James Webb&#x27;s &#x27;too massive&#x27; galaxies may be even more massive](https://phys.org/news/2023-05-james-webb-massive-galaxies.html)
 * [2023-05-18, 17:31:47](https://news.ycombinator.com/item?id=35991362) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
-* [2023-05-18, 17:19:34](https://news.ycombinator.com/item?id=35991196) - [Social network ad targeting can “listen into” conversations using “Live Photos”](https://twitter.com/benguild/status/1658899250590228500)
 * [2023-05-18, 17:08:46](https://news.ycombinator.com/item?id=35991018) - [Show HN: Jesth – Next-level human-readable data serialization format](https://github.com/pyrustic/jesth)
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 16:40:46](https://news.ycombinator.com/item?id=35990552) - [OpenAI Brings ChatGPT to iOS](https://openai.com/blog/introducing-the-chatgpt-app-for-ios)
