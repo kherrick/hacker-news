@@ -41,6 +41,7 @@
 * [2023-05-18, 15:48:47](https://news.ycombinator.com/item?id=35989696) - [Nuances of Overloading and Overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
 * [2023-05-18, 15:33:13](https://news.ycombinator.com/item?id=35989462) - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
 * [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
+* [2023-05-18, 15:25:11](https://news.ycombinator.com/item?id=35989311) - [20 Years of Gentoo](https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/)
 * [2023-05-18, 15:04:24](https://news.ycombinator.com/item?id=35988984) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:56:39](https://news.ycombinator.com/item?id=35988879) - [NYC Skyscrapers Sit Vacant, Exposing Risk City Never Predicted](https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted)
 * [2023-05-18, 14:52:54](https://news.ycombinator.com/item?id=35988820) - [How to Quit Cars](https://www.newyorker.com/magazine/2023/05/22/carmageddon-daniel-knowles-book-review-paved-paradise-henry-grabar)

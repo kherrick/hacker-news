@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
-* [2023-05-18, 20:52:19](https://news.ycombinator.com/item?id=35993882) - [AC3D is a 3D mesh editor that uses Tcl&#x2F;Tk for the UI](http://www.inivis.com/)
 * [2023-05-18, 20:40:56](https://news.ycombinator.com/item?id=35993758) - [Thirty Minutes or Less: An Oral History of the LØpht, Part Three](https://duo.com/decipher/thirty-minutes-or-less-an-oral-history-of-the-l0pht-part-three)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 * [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
@@ -17,10 +16,10 @@
 * [2023-05-18, 16:00:06](https://news.ycombinator.com/item?id=35989909) - [LMDB: The first version of Redis, written in Tcl (2009)](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:48:47](https://news.ycombinator.com/item?id=35989696) - [Nuances of overloading and overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
 * [2023-05-18, 15:33:13](https://news.ycombinator.com/item?id=35989462) - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
+* [2023-05-18, 15:25:11](https://news.ycombinator.com/item?id=35989311) - [20 Years of Gentoo](https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/)
 * [2023-05-18, 15:04:24](https://news.ycombinator.com/item?id=35988984) - [The simple joys of scaling up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
-* [2023-05-18, 14:56:39](https://news.ycombinator.com/item?id=35988879) - [NYC skyscrapers sit vacant, exposing risk city never predicted](https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted)
+* [2023-05-18, 14:56:39](https://news.ycombinator.com/item?id=35988879) - [NYC skyscrapers sit vacant](https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted)
 * [2023-05-18, 14:52:54](https://news.ycombinator.com/item?id=35988820) - [How to Quit Cars](https://www.newyorker.com/magazine/2023/05/22/carmageddon-daniel-knowles-book-review-paved-paradise-henry-grabar)
-* [2023-05-18, 14:22:20](https://news.ycombinator.com/item?id=35988348) - [Passage by 1Password: Add passkey support to your app or website](https://blog.1password.com/passage-by-1password/)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
 * [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple’s new headset meets reality](https://www.bloomberg.com/news/features/2023-05-18/apple-s-mixed-reality-headset-may-define-tim-cook-s-legacy)
 * [2023-05-18, 13:21:00](https://news.ycombinator.com/item?id=35987481) - [Apple dives into display-making to cut reliance on Samsung](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-dives-into-display-making-to-cut-reliance-on-Samsung)
@@ -30,6 +29,7 @@
 * [2023-05-17, 23:17:59](https://news.ycombinator.com/item?id=35982447) - [TikTok is now banned in Montana](https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court)
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
+* [2023-05-17, 02:49:22](https://news.ycombinator.com/item?id=35970712) - [Debug browser redirects without ruining your day](https://dodov.dev/blog/how-to-debug-browser-redirects)
 
 ## [Archives](archives/index.md)
 
