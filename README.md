@@ -2,6 +2,7 @@
 
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [94% of users prefer not to be tracked, so why do consent prompts exist?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
+* [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 05:07:18](https://news.ycombinator.com/item?id=35984302) - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
 * [2023-05-18, 04:22:33](https://news.ycombinator.com/item?id=35984101) - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)
 * [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
@@ -28,7 +29,6 @@
 * [2023-05-16, 11:04:39](https://news.ycombinator.com/item?id=35960116) - [Medieval Arabs ate sandwiches too? (2021)](https://nawalcooking.blogspot.com/2021/06/medieval-arabs-ate-sandwiches-too-keep.html)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
 * [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: A Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
-* [2023-05-16, 07:08:22](https://news.ycombinator.com/item?id=35958590) - [The war on Japanese knotweed](https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed)
 * [2023-05-15, 20:50:22](https://news.ycombinator.com/item?id=35954306) - [Old Traditions and New Hopes](https://www.historytoday.com/archive/out-margins/old-traditions-and-new-hopes)
 
 ## [Archives](archives/index.md)
