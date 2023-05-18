@@ -9,4 +9,5 @@
 * [2023-05-18, 01:58:44](https://news.ycombinator.com/item?id=35983397) - [85% of jobs are filled via networking](https://www.zippia.com/advice/networking-statistics/)
 * [2023-05-18, 01:47:31](https://news.ycombinator.com/item?id=35983349) - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [2023-05-18, 00:54:47](https://news.ycombinator.com/item?id=35983024) - [Read Every Single Error](https://www.pulumi.com/blog/reducing-our-error-rate/)
+* [2023-05-18, 00:53:03](https://news.ycombinator.com/item?id=35983012) - [The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)
 * [2023-05-18, 00:27:11](https://news.ycombinator.com/item?id=35982860) - [YC Interview Questions Gamified](https://examples.slashml.com/yc-interview)

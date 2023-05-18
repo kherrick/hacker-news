@@ -83,6 +83,7 @@
 * [2023-05-16, 07:30:18](https://news.ycombinator.com/item?id=35958715) - [Show HN: Oblivus GPU Cloud – Affordable and scalable GPU servers from $0.29&#x2F;hr](https://oblivus.com)
 * [2023-05-16, 07:23:00](https://news.ycombinator.com/item?id=35958673) - [The Speed Project: The Secret Race Between Los Angeles and Las Vegas](https://www.bbc.co.uk/sport/65568403)
 * [2023-05-16, 07:21:36](https://news.ycombinator.com/item?id=35958667) - [Airbnb is making life hell for young renters in tourist hotspots](https://www.dazeddigital.com/life-culture/article/59744/1/airbnb-is-making-life-hell-for-young-renters-in-tourist-hotspots-cornwall)
+* [2023-05-16, 07:08:22](https://news.ycombinator.com/item?id=35958590) - [The war on Japanese knotweed](https://www.theguardian.com/environment/2023/may/16/the-war-on-japanese-knotweed)
 * [2023-05-16, 07:00:23](https://news.ycombinator.com/item?id=35958531) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=35958531)
 * [2023-05-16, 06:58:15](https://news.ycombinator.com/item?id=35958516) - [How to become a debt buyer](https://coda.io/@bob/debt-buyer)
 * [2023-05-16, 06:49:30](https://news.ycombinator.com/item?id=35958460) - [Magic Pocket: Dropbox’s Exabyte-Scale Blob Storage System](https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/)
