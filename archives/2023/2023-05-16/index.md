@@ -79,6 +79,7 @@
 * [2023-05-16, 10:17:07](https://news.ycombinator.com/item?id=35959789) - [Why are there no antitrust claims vs. GitHub Copilot, when there is a precedent?](https://thehftguy.com/2023/05/16/why-are-there-no-antitrust-claims-vs-github-copilot-when-there-is-a-precedent/)
 * [2023-05-16, 09:35:40](https://news.ycombinator.com/item?id=35959502) - [Algorithms and Data Structures (2007) [pdf]](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf)
 * [2023-05-16, 09:32:50](https://news.ycombinator.com/item?id=35959482) - [Why `fsync()`: Losing unsynced data on a single node leads to global data loss](https://redpanda.com/blog/why-fsync-is-needed-for-data-safety-in-kafka-or-non-byzantine-protocols)
+* [2023-05-16, 09:18:43](https://news.ycombinator.com/item?id=35959389) - [Packing and Expanding Polygons: An Ongoing Exploration](https://www.amygoodchild.com/blog/polygons-packing-expanding)
 * [2023-05-16, 09:13:00](https://news.ycombinator.com/item?id=35959343) - [India&#x27;s Alphonso mangoes are virtually impossible to find in America (2018)](https://www.vice.com/en/article/gyw4zb/alphonso-best-mangoes-india-us)
 * [2023-05-16, 08:53:07](https://news.ycombinator.com/item?id=35959204) - [Ask HN: How do I make a website in 2023?](https://news.ycombinator.com/item?id=35959204)
 * [2023-05-16, 08:34:50](https://news.ycombinator.com/item?id=35959073) - [Experts weigh impact of Intel-Arm collaboration](https://www.eetimes.com/experts-weigh-impact-of-intel-arm-collaboration/)

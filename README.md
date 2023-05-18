@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-18, 19:26:43](https://news.ycombinator.com/item?id=35992838) - [Disney scraps plans for new Florida campus, mass employee relocation](https://www.cnbc.com/2023/05/18/disney-scraps-lake-nona-florida-campus.html)
+* [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
+* [2023-05-18, 19:40:02](https://news.ycombinator.com/item?id=35993020) - [French resistance fighter, 98, reveals mass execution of German prisoners](https://www.theguardian.com/world/2023/may/18/french-resistance-fighter-98-reveals-mass-execution-of-german-prisoners)
 * [2023-05-18, 19:04:18](https://news.ycombinator.com/item?id=35992593) - [Linux Software Map](https://xteddy.org/lsm/)
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
 * [2023-05-18, 18:44:47](https://news.ycombinator.com/item?id=35992337) - [First portable quantum computers on sale in Japan: Prices start at $8.7k](https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html)
@@ -18,9 +19,7 @@
 * [2023-05-18, 16:00:06](https://news.ycombinator.com/item?id=35989909) - [The first version of Redis, written in Tcl (2009)](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
 * [2023-05-18, 15:48:47](https://news.ycombinator.com/item?id=35989696) - [Nuances of Overloading and Overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
 * [2023-05-18, 15:33:13](https://news.ycombinator.com/item?id=35989462) - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
-* [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
 * [2023-05-18, 15:04:24](https://news.ycombinator.com/item?id=35988984) - [The Simple Joys of Scaling Up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
-* [2023-05-18, 14:33:29](https://news.ycombinator.com/item?id=35988538) - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
 * [2023-05-18, 12:22:22](https://news.ycombinator.com/item?id=35986906) - [SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code](https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821)
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [Who wants to be tracked?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
@@ -30,6 +29,7 @@
 * [2023-05-17, 11:04:42](https://news.ycombinator.com/item?id=35973653) - [Fast GPT-2 inference written in Fortran](https://github.com/certik/fastGPT)
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
+* [2023-05-16, 09:18:43](https://news.ycombinator.com/item?id=35959389) - [Packing and Expanding Polygons: An Ongoing Exploration](https://www.amygoodchild.com/blog/polygons-packing-expanding)
 
 ## [Archives](archives/index.md)
 

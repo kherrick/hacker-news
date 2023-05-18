@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
+* [2023-05-18, 19:40:02](https://news.ycombinator.com/item?id=35993020) - [French resistance fighter, 98, reveals mass execution of German prisoners](https://www.theguardian.com/world/2023/may/18/french-resistance-fighter-98-reveals-mass-execution-of-german-prisoners)
 * [2023-05-18, 19:26:43](https://news.ycombinator.com/item?id=35992838) - [Disney scraps plans for new Florida campus, mass employee relocation](https://www.cnbc.com/2023/05/18/disney-scraps-lake-nona-florida-campus.html)
 * [2023-05-18, 19:04:18](https://news.ycombinator.com/item?id=35992593) - [Linux Software Map](https://xteddy.org/lsm/)
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
