@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 18:02:53](https://news.ycombinator.com/item?id=35991764) - [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
+* [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 * [2023-05-18, 17:31:47](https://news.ycombinator.com/item?id=35991362) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
-* [2023-05-18, 17:28:49](https://news.ycombinator.com/item?id=35991322) - [John Carmack: My comments on BasedCon (tweet)](https://twitter.com/ID_AA_Carmack/status/1659173689986883584)
 * [2023-05-18, 17:19:34](https://news.ycombinator.com/item?id=35991196) - [Social network ad targeting can “listen into” conversations using “Live Photos”](https://twitter.com/benguild/status/1658899250590228500)
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 16:40:46](https://news.ycombinator.com/item?id=35990552) - [OpenAI Brings ChatGPT to iOS](https://openai.com/blog/introducing-the-chatgpt-app-for-ios)
@@ -15,8 +16,6 @@
 * [2023-05-18, 14:37:49](https://news.ycombinator.com/item?id=35988604) - [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
 * [2023-05-18, 14:33:29](https://news.ycombinator.com/item?id=35988538) - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
-* [2023-05-18, 13:14:03](https://news.ycombinator.com/item?id=35987376) - [BT will shed as many as 55,000 workers by 2030](https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html)
-* [2023-05-18, 12:29:23](https://news.ycombinator.com/item?id=35986967) - [Replication of room-temperature superconductor fails to show superconductivity](https://phys.org/news/2023-05-replication-room-temperature-superconductor-superconductivity.html)
 * [2023-05-18, 12:22:22](https://news.ycombinator.com/item?id=35986906) - [SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code](https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821)
 * [2023-05-18, 09:03:08](https://news.ycombinator.com/item?id=35985590) - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [Who wants to be tracked?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
@@ -30,6 +29,7 @@
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989): a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 11:04:42](https://news.ycombinator.com/item?id=35973653) - [Fast GPT-2 inference written in Fortran](https://github.com/certik/fastGPT)
+* [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
 
 ## [Archives](archives/index.md)
 

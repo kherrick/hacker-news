@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 18:02:53](https://news.ycombinator.com/item?id=35991764) - [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
+* [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 * [2023-05-18, 17:31:47](https://news.ycombinator.com/item?id=35991362) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
 * [2023-05-18, 17:28:49](https://news.ycombinator.com/item?id=35991322) - [John Carmack: My comments on BasedCon (tweet)](https://twitter.com/ID_AA_Carmack/status/1659173689986883584)
 * [2023-05-18, 17:19:34](https://news.ycombinator.com/item?id=35991196) - [Social network ad targeting can “listen into” conversations using “Live Photos”](https://twitter.com/benguild/status/1658899250590228500)
