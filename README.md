@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 18:33:09](https://news.ycombinator.com/item?id=35992183) - [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)
 * [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 * [2023-05-18, 17:54:53](https://news.ycombinator.com/item?id=35991654) - [James Webb&#x27;s &#x27;too massive&#x27; galaxies may be even more massive](https://phys.org/news/2023-05-james-webb-massive-galaxies.html)
@@ -19,17 +20,16 @@
 * [2023-05-18, 14:33:29](https://news.ycombinator.com/item?id=35988538) - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
 * [2023-05-18, 12:22:22](https://news.ycombinator.com/item?id=35986906) - [SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code](https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821)
-* [2023-05-18, 09:03:08](https://news.ycombinator.com/item?id=35985590) - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [Who wants to be tracked?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
 * [2023-05-18, 08:13:03](https://news.ycombinator.com/item?id=35985240) - [User In Yer Face, a worst-practise UI experiment](https://userinyerface.com/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise](https://www.bbc.com/news/technology-65622403)
-* [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989): a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 11:04:42](https://news.ycombinator.com/item?id=35973653) - [Fast GPT-2 inference written in Fortran](https://github.com/certik/fastGPT)
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
+* [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
 
 ## [Archives](archives/index.md)
 

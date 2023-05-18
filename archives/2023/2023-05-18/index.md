@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 18:33:09](https://news.ycombinator.com/item?id=35992183) - [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)
 * [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 18:02:53](https://news.ycombinator.com/item?id=35991764) - [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
