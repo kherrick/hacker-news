@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-18, 21:05:26",
+      "https://news.ycombinator.com/item?id=35994037"
+    ],
+    [
+      "CLI tools for working with ChatGPT and other LLMs",
+      "https://simonwillison.net/2023/May/18/cli-tools-for-llms/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 20:52:19",
+      "https://news.ycombinator.com/item?id=35993882"
+    ],
+    [
+      "AC3D is a 3D mesh editor that uses Tcl&#x2F;Tk for the UI",
+      "http://www.inivis.com/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 20:16:20",
       "https://news.ycombinator.com/item?id=35993498"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=35992553"
     ],
     [
-      "My Inventions – Nikola Tesla",
+      "My Inventions – Nikola Tesla (1919)",
       "https://archive.org/details/MyInventionsNikolaTesla"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=35992337"
     ],
     [
-      "First portable quantum computers on sale in Japan: Prices start at $8.7k",
+      "First portable quantum computers on sale in Japan?",
       "https://tech.news.am/eng/news/510/worlds-first-portable-quantum-computers-on-sale-in-japan-prices-start-at-$8700.html"
     ]
   ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-05-18, 16:05:52",
-      "https://news.ycombinator.com/item?id=35990004"
-    ],
-    [
-      "Spain, Sweden, and Belgium Soar to New Heights in Wind and Solar Power",
-      "https://nexlumina.com/the-renewable-revolution-spain-sweden-and-belgium-soar-to-new-heights-in-wind-and-solar-power/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 16:00:14",
       "https://news.ycombinator.com/item?id=35989911"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=35989696"
     ],
     [
-      "Nuances of Overloading and Overriding in Java",
+      "Nuances of overloading and overriding in Java",
       "https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/"
     ]
   ],
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=35988984"
     ],
     [
-      "The Simple Joys of Scaling Up",
+      "The simple joys of scaling up",
       "https://motherduck.com/blog/the-simple-joys-of-scaling-up/"
     ]
   ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2023-05-18, 12:22:22",
-      "https://news.ycombinator.com/item?id=35986906"
+      "2023-05-18, 13:21:00",
+      "https://news.ycombinator.com/item?id=35987481"
     ],
     [
-      "SciPy: Interested in adopting PRIMA, but little appetite for more Fortran code",
-      "https://fortran-lang.discourse.group/t/scipy-there-is-interest-in-adopting-this-prima-implementation-but-little-appetite-for-taking-on-more-fortran-code/5821"
+      "Apple dives into display-making to cut reliance on Samsung",
+      "https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-dives-into-display-making-to-cut-reliance-on-Samsung"
     ]
   ],
   [
@@ -251,32 +261,12 @@
   ],
   [
     [
-      "2023-05-18, 07:13:02",
-      "https://news.ycombinator.com/item?id=35984928"
-    ],
-    [
-      "One million cancel broadband as living costs rise",
-      "https://www.bbc.com/news/technology-65622403"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 04:06:38",
       "https://news.ycombinator.com/item?id=35984028"
     ],
     [
       "The Work of the Audiobook",
       "https://lareviewofbooks.org/article/the-work-of-the-audiobook/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 11:04:42",
-      "https://news.ycombinator.com/item?id=35973653"
-    ],
-    [
-      "Fast GPT-2 inference written in Fortran",
-      "https://github.com/certik/fastGPT"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Photomator for Mac",
       "https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 09:18:43",
+      "https://news.ycombinator.com/item?id=35959389"
+    ],
+    [
+      "Packing and Expanding Polygons: An Ongoing Exploration",
+      "https://www.amygoodchild.com/blog/polygons-packing-expanding"
     ]
   ]
 ]
