@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 16:40:46](https://news.ycombinator.com/item?id=35990552) - [OpenAI Brings ChatGPT to iOS](https://openai.com/blog/introducing-the-chatgpt-app-for-ios)
 * [2023-05-18, 16:24:09](https://news.ycombinator.com/item?id=35990320) - [Tell HN: Today Is Global Accessibility Awareness Day](https://news.ycombinator.com/item?id=35990320)
 * [2023-05-18, 16:14:52](https://news.ycombinator.com/item?id=35990182) - [‘In London there is no space at all’: the rise of self-storage as rents soar](https://www.theguardian.com/uk-news/2023/may/17/in-london-there-is-no-space-at-all-the-rise-of-self-storage-as-rents-soar)
 * [2023-05-18, 16:10:32](https://news.ycombinator.com/item?id=35990103) - [Sam Altman attends secretive annual meeting with the world’s elite](https://www.cnbc.com/2023/05/18/bilderberg-openai-microsoft-google-join-ai-talks-at-secretive-meeting.html)
