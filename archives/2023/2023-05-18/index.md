@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 21:42:23](https://news.ycombinator.com/item?id=35994494) - [The American Dream convinces people loneliness is normal](https://english.elpais.com/usa/2023-05-16/how-the-american-dream-convinces-people-loneliness-is-normal.html)
 * [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 * [2023-05-18, 20:52:19](https://news.ycombinator.com/item?id=35993882) - [AC3D is a 3D mesh editor that uses Tcl&#x2F;Tk for the UI](http://www.inivis.com/)
 * [2023-05-18, 20:40:56](https://news.ycombinator.com/item?id=35993758) - [Thirty Minutes or Less: An Oral History of the LØpht, Part Three](https://duo.com/decipher/thirty-minutes-or-less-an-oral-history-of-the-l0pht-part-three)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-16](index.md)
 
+* [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
 * [2023-05-16, 23:48:07](https://news.ycombinator.com/item?id=35969377) - [To help new students adapt, some colleges are eliminating grades](https://www.npr.org/2023/03/26/1164832694/to-help-new-students-adapt-some-colleges-are-eliminating-grades)
 * [2023-05-16, 23:31:46](https://news.ycombinator.com/item?id=35969206) - [The promise of crypto has not lived up to its initial excitement](https://www.economist.com/special-report/2023/05/15/the-promise-of-crypto-has-not-lived-up-to-its-initial-excitement)
 * [2023-05-16, 23:29:48](https://news.ycombinator.com/item?id=35969184) - [Big Tech Resumed Hiring Foreign Workers Just Weeks After Layoffs](https://www.leefang.com/p/big-tech-resumed-hiring-foreign-workers)
@@ -55,6 +56,7 @@
 * [2023-05-16, 14:51:24](https://news.ycombinator.com/item?id=35962675) - [Average Age of Cars on U.S. Roads Hits 12.5 Years, a Record High](https://www.thedrive.com/news/average-age-of-cars-on-us-roads-hits-12-5-years-a-record-high)
 * [2023-05-16, 14:50:32](https://news.ycombinator.com/item?id=35962667) - [Chosen-prefix collision for SHA-1](https://sha-mbles.github.io/)
 * [2023-05-16, 14:35:29](https://news.ycombinator.com/item?id=35962468) - [Large-scale genetic modification reveals role of duplicated genes in plants](https://phys.org/news/2023-05-large-scale-genetic-modification-method-reveals.html)
+* [2023-05-16, 14:23:40](https://news.ycombinator.com/item?id=35962315) - [Show HN: PAKman – A new build system built around Alpine Linux Packages](https://zacksiri.dev/posts/why-i-created-pakman)
 * [2023-05-16, 14:16:12](https://news.ycombinator.com/item?id=35962213) - [SQLite Release 3.42.0](https://sqlite.org/releaselog/3_42_0.html)
 * [2023-05-16, 13:44:55](https://news.ycombinator.com/item?id=35961817) - [Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)
 * [2023-05-16, 13:36:44](https://news.ycombinator.com/item?id=35961700) - [Erlang&#x2F;OTP 26 Highlights](https://www.erlang.org/blog/otp-26-highlights/)

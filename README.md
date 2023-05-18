@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 21:42:23](https://news.ycombinator.com/item?id=35994494) - [The American Dream convinces people loneliness is normal](https://english.elpais.com/usa/2023-05-16/how-the-american-dream-convinces-people-loneliness-is-normal.html)
 * [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 * [2023-05-18, 20:40:56](https://news.ycombinator.com/item?id=35993758) - [Thirty Minutes or Less: An Oral History of the LØpht, Part Three](https://duo.com/decipher/thirty-minutes-or-less-an-oral-history-of-the-l0pht-part-three)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 * [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
 * [2023-05-18, 19:04:18](https://news.ycombinator.com/item?id=35992593) - [Linux Software Map](https://xteddy.org/lsm/)
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [My Inventions – Nikola Tesla (1919)](https://archive.org/details/MyInventionsNikolaTesla)
-* [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court rules Andy Warhol’s Prince art is copyright infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 * [2023-05-18, 17:57:01](https://news.ycombinator.com/item?id=35991684) - [Zig now has built-in HTTP server and client in std](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)
 * [2023-05-18, 17:19:34](https://news.ycombinator.com/item?id=35991196) - [Social network ad targeting can “listen into” conversations using “live photos”](https://twitter.com/benguild/status/1658899250590228500)
@@ -26,10 +26,10 @@
 * [2023-05-18, 08:13:03](https://news.ycombinator.com/item?id=35985240) - [User In Yer Face, a worst-practise UI experiment (2018)](https://userinyerface.com/)
 * [2023-05-18, 08:09:42](https://news.ycombinator.com/item?id=35985224) - [The Case for Bash (2021)](https://www.neversaw.us/2021/04/02/the-case-for-bash/)
 * [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
-* [2023-05-17, 23:17:59](https://news.ycombinator.com/item?id=35982447) - [TikTok is now banned in Montana](https://www.theverge.com/2023/5/17/23686294/montana-tiktok-ban-signed-governor-gianforte-court)
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
-* [2023-05-17, 02:49:22](https://news.ycombinator.com/item?id=35970712) - [Debug browser redirects without ruining your day](https://dodov.dev/blog/how-to-debug-browser-redirects)
+* [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
+* [2023-05-16, 14:23:40](https://news.ycombinator.com/item?id=35962315) - [Show HN: PAKman – A new build system built around Alpine Linux Packages](https://zacksiri.dev/posts/why-i-created-pakman)
 
 ## [Archives](archives/index.md)
 
