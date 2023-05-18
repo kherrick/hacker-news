@@ -25,11 +25,11 @@
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
 * [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
-* [2023-05-18, 03:02:34](https://news.ycombinator.com/item?id=35983707) - [Language models cost 10x more in some languages than others](https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized)
+* [2023-05-18, 03:02:34](https://news.ycombinator.com/item?id=35983707) - [Language models cost much more in some languages than others](https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized)
 * [2023-05-18, 01:47:31](https://news.ycombinator.com/item?id=35983349) - [Colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [2023-05-18, 00:53:03](https://news.ycombinator.com/item?id=35983012) - [The oldest known blueprints depict Stone Age ‘megastructures’](https://www.vice.com/en/article/pkagbb/the-oldest-known-blueprints-depict-stone-age-megastructures)
+* [2023-05-17, 23:58:50](https://news.ycombinator.com/item?id=35982732) - [Improving Performance with HTTP Streaming](https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
-* [2023-05-16, 12:14:02](https://news.ycombinator.com/item?id=35960743) - [Literate Programming: Articles](http://literateprogramming.com/articles.html)
 
 ## [Archives](archives/index.md)
 
