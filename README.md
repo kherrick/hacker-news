@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 16:40:46](https://news.ycombinator.com/item?id=35990552) - [OpenAI Brings ChatGPT to iOS](https://openai.com/blog/introducing-the-chatgpt-app-for-ios)
 * [2023-05-18, 16:24:09](https://news.ycombinator.com/item?id=35990320) - [Tell HN: Today Is Global Accessibility Awareness Day](https://news.ycombinator.com/item?id=35990320)
 * [2023-05-18, 16:14:52](https://news.ycombinator.com/item?id=35990182) - [‘In London there is no space at all’: the rise of self-storage as rents soar](https://www.theguardian.com/uk-news/2023/may/17/in-london-there-is-no-space-at-all-the-rise-of-self-storage-as-rents-soar)
@@ -11,7 +12,6 @@
 * [2023-05-18, 14:37:49](https://news.ycombinator.com/item?id=35988604) - [The Alan Turing Institute has failed to develop modern AI in the UK](https://rssdsaisection.substack.com/p/the-alan-turing-institute-has-failed)
 * [2023-05-18, 14:33:29](https://news.ycombinator.com/item?id=35988538) - [Quid Pro Crow](https://languagelog.ldc.upenn.edu/nll/?p=58724)
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
-* [2023-05-18, 13:26:04](https://news.ycombinator.com/item?id=35987550) - [New Maintainer Steps Up for GCC Compiler&#x27;s MIPS CPU Port](https://www.phoronix.com/news/GCC-MIPS-New-Maintainer)
 * [2023-05-18, 13:16:25](https://news.ycombinator.com/item?id=35987413) - [Using LangChainJS and Cloudflare Workers together](https://blog.cloudflare.com/langchain-and-cloudflare/)
 * [2023-05-18, 13:14:03](https://news.ycombinator.com/item?id=35987376) - [BT will shed as many as 55,000 workers by 2030](https://www.cnn.com/2023/05/18/tech/bt-job-cuts/index.html)
 * [2023-05-18, 12:29:23](https://news.ycombinator.com/item?id=35986967) - [Replication of room-temperature superconductor fails to show superconductivity](https://phys.org/news/2023-05-replication-room-temperature-superconductor-superconductivity.html)
