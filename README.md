@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-18, 18:02:53](https://news.ycombinator.com/item?id=35991764) - [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
+* [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
+* [2023-05-18, 17:56:22](https://news.ycombinator.com/item?id=35991674) - [Show HN: Blend](https://www.blendnow.com:443/)
 * [2023-05-18, 17:31:47](https://news.ycombinator.com/item?id=35991362) - [Cargo Cult AI](https://queue.acm.org/detail.cfm?ref=rss&id=3595860)
 * [2023-05-18, 17:19:34](https://news.ycombinator.com/item?id=35991196) - [Social network ad targeting can “listen into” conversations using “Live Photos”](https://twitter.com/benguild/status/1658899250590228500)
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
@@ -20,7 +21,6 @@
 * [2023-05-18, 09:03:08](https://news.ycombinator.com/item?id=35985590) - [European standards bodies are inaccessible to Open Source projects](https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/)
 * [2023-05-18, 08:18:38](https://news.ycombinator.com/item?id=35985285) - [Who wants to be tracked?](https://www.quantable.com/analytics/who-wants-to-be-tracked/)
 * [2023-05-18, 08:13:03](https://news.ycombinator.com/item?id=35985240) - [User In Yer Face, a worst-practise UI experiment](https://userinyerface.com/)
-* [2023-05-18, 08:09:42](https://news.ycombinator.com/item?id=35985224) - [The Case for Bash (2021)](https://www.neversaw.us/2021/04/02/the-case-for-bash/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise](https://www.bbc.com/news/technology-65622403)
