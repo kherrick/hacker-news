@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 16:24:09](https://news.ycombinator.com/item?id=35990320) - [Tell HN: Today Is Global Accessibility Awareness Day](https://news.ycombinator.com/item?id=35990320)
+* [2023-05-18, 16:14:52](https://news.ycombinator.com/item?id=35990182) - [‘In London there is no space at all’: the rise of self-storage as rents soar](https://www.theguardian.com/uk-news/2023/may/17/in-london-there-is-no-space-at-all-the-rise-of-self-storage-as-rents-soar)
 * [2023-05-18, 16:00:14](https://news.ycombinator.com/item?id=35989911) - [Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
+* [2023-05-18, 16:00:06](https://news.ycombinator.com/item?id=35989909) - [The first version of Redis, written in Tcl](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
+* [2023-05-18, 15:48:47](https://news.ycombinator.com/item?id=35989696) - [Nuances of Overloading and Overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
 * [2023-05-18, 15:33:13](https://news.ycombinator.com/item?id=35989462) - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
 * [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [SpaceTop, an innovative laptop without a screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
 * [2023-05-18, 14:56:39](https://news.ycombinator.com/item?id=35988879) - [NYC Skyscrapers Sit Vacant, Exposing Risk City Never Predicted](https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted)
