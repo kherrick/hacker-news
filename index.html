@@ -141,11 +141,11 @@
             <h4>
               <span>2023-05-18 @ 18:04:58</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35991791"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2023-05-18 @ 17:59:43</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35991725"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -182,11 +182,11 @@
             <h4>
               <span>2023-05-18 @ 17:56:22</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35991674"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
@@ -209,6 +209,27 @@
             </div>
           </section>
         </section>
+        <section id="35991654">
+          <h3>
+            <a
+              class="item"
+              href="https://phys.org/news/2023-05-james-webb-massive-galaxies.html"
+              >James Webb's 'too massive' galaxies may be even more massive</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-18 @ 17:54:53</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35991654"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="35991362">
           <h3>
             <a
@@ -221,11 +242,11 @@
             <h4>
               <span>2023-05-18 @ 17:31:47</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35991362"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -243,13 +264,155 @@
             <h4>
               <span>2023-05-18 @ 17:19:34</span
               ><span class="points-container"
-                >Points: <span class="points">22</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35991196"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="35991018">
+          <h3>
+            <a class="item" href="https://github.com/pyrustic/jesth"
+              >Show HN: Jesth – Next-level human-readable data serialization
+              format</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-18 @ 17:08:46</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=35991018"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'm Alex, a tech enthusiast. I'm excited to show you Jesth, a
+                next-level human-readable data serialization format.
+              </p>
+              <p>
+                This project started out as a markup language for writing the
+                docstrings of functions that would ultimately be consumed by a
+                documentation generator. Basically the idea was to split a
+                docstring into sections like Description and Parameters. Each
+                section would consist of a header in square brackets and a body
+                (lines of text between two headers).
+              </p>
+              <p>Here's what a docstring for a sum function would look like:</p>
+              <p></p>
+              <pre><code>  This function takes in two integers a and b and returns their sum.
+
+  [parameters]
+  - a: First integer
+  - b: Second integer
+
+  [return] 
+  Sum of a and b
+</code></pre>
+              The Description section in the example above is actually an
+              anonymous section, i.e., a section with an empty header.
+              <p>
+                Meanwhile, I was thinking of a way to automate part of my dev
+                workflow by storing in a file commands grouped into tasks such
+                as project creation, build, testing, release, et cetera.
+                Similarly with the markup language for my documentation
+                generator, I would use square brackets to define the tasks.
+                Thus, a task would consist of a header and a body which would be
+                a list of commands to be executed sequentially.
+              </p>
+              <p>
+                I built this project and named it Backstage. Here is a
+                hypothetical backstage.tasks file:
+              </p>
+              <p></p>
+              <pre><code>  [release]
+  &amp; test
+  &amp; generate_doc
+  &amp; git_stuff
+  &amp; build
+  # upload to PyPI
+  $ twine upload --skip-existing dist/*
+
+  [git_stuff]
+  $ git add .
+  $ git commit -m {message}
+  $ git push origin master
+</code></pre>
+              The example above is illustrative only and would not work. It
+              contains 2 sections "release" and "git_stuff". Running the
+              "release" task from the command line is equivalent to sequentially
+              executing the commands in the "release" section.
+              <p>
+                The documentation generator and the scripting language, despite
+                the obvious similarity in their formats, did not share any
+                parsing code. So, to stop repeating myself, I created a file
+                format and its library named Jesth which stands for "Just
+                Extract Sections Then Hack".
+              </p>
+              <p>
+                The library acts as an incomplete INI file parser that only
+                hands the programmer the sections (as headers and their
+                associated bodies which are lists of strings). No further
+                interpretation of the data is done by the parser, allowing the
+                programmer to unleash their creativity through useful hacks.
+              </p>
+              <p>
+                In its latest iteration, Jesth has matured and also includes a
+                proper and extensively tested hack to convert a compatible
+                section into a dictionary data structure, making Jesth my de
+                facto preferred format for config files. I find Jesth more
+                readable than TOML, YAML, and JSON.
+              </p>
+              <p>
+                Here, encoding a dictionary data structure in its own section
+                with another section containing a prompt for ChatGPT:
+              </p>
+              <p></p>
+              <pre><code>  [prompt]
+  I want you to act as a detective story writer. I will provide you with
+  two dictionary data structures representing the profiles of two people.
+  Your goal is to write a thrilling neo-noir story. My first request is:
+  "guess who the killer and victim is from the profiles, then build a story
+  that includes every detail of the profiles".
+
+  [profile]
+  # This section can be converted into a dictionary data structure
+  name = 'Jane Doe'
+  birthday = 2000-12-23Z10:17:37Z
+  photo_jpg = (bin)
+      VGhpcyBpcyBub3QgYSBwaG90by4uLiBCdXQgdGhhbmsgeW91
+      IGZvciB5b3VyIGludGVsbGVjdHVhbCBjdXJpb3NpdHkgOyk=
+      ---
+  books = (dict)
+      romance = (list)
+          'Happy Place'
+          'Romantic Comedy'
+      sci-fi = (list)
+          'Dune'
+          'Neuromancer'
+  epitaph = (text)
+      According to the law of conservation of energy,
+      no a bit of you is gone;
+      you are just less orderly.
+      ---
+
+  [profile]
+  name = 'John Doe'
+  birthday = null
+  books = (list)
+      'American Predator'
+      'Mindhunter: Inside the FBI's Elite Serial Crime Unit'
+</code></pre>
+              You can learn more by reading the project's README and playing
+              with the demo.
+              <p>Let me know what you think of this project.</p>
+            </div>
           </section>
         </section>
         <section id="35990858">
@@ -264,11 +427,11 @@
             <h4>
               <span>2023-05-18 @ 16:58:13</span
               ><span class="points-container"
-                >Points: <span class="points">132</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35990858"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -285,11 +448,11 @@
             <h4>
               <span>2023-05-18 @ 16:40:46</span
               ><span class="points-container"
-                >Points: <span class="points">310</span></span
+                >Points: <span class="points">332</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35990552"
                   >Comments</a
-                ><span class="descendants">: 186</span></span
+                ><span class="descendants">: 198</span></span
               >
             </h4>
           </section>
@@ -304,7 +467,7 @@
             <h4>
               <span>2023-05-18 @ 16:24:09</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">111</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35990320"
                   >Comments</a
@@ -349,7 +512,7 @@
             <h4>
               <span>2023-05-18 @ 16:00:14</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35989911"
                   >Comments</a
@@ -370,11 +533,11 @@
             <h4>
               <span>2023-05-18 @ 16:00:06</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35989909"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -391,7 +554,7 @@
             <h4>
               <span>2023-05-18 @ 15:48:47</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35989696"
                   >Comments</a
@@ -412,11 +575,11 @@
             <h4>
               <span>2023-05-18 @ 15:33:13</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35989462"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -433,11 +596,11 @@
             <h4>
               <span>2023-05-18 @ 15:32:08</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35989440"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -454,7 +617,7 @@
             <h4>
               <span>2023-05-18 @ 15:04:24</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35988984"
                   >Comments</a
@@ -480,7 +643,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35988604"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -501,7 +664,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35988538"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -518,7 +681,7 @@
             <h4>
               <span>2023-05-18 @ 14:00:42</span
               ><span class="points-container"
-                >Points: <span class="points">114</span></span
+                >Points: <span class="points">116</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35988046"
                   >Comments</a
@@ -540,33 +703,11 @@
             <h4>
               <span>2023-05-18 @ 12:22:22</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35986906"
                   >Comments</a
-                ><span class="descendants">: 49</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35985590">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.opensource.org/another-issue-with-the-cyber-resilience-act-european-standards-bodies-are-inaccessible-to-open-source-projects/"
-              >European standards bodies are inaccessible to Open Source
-              projects</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-18 @ 09:03:08</span
-              ><span class="points-container"
-                >Points: <span class="points">244</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35985590"
-                  >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -587,7 +728,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35985285"
                   >Comments</a
-                ><span class="descendants">: 208</span></span
+                ><span class="descendants">: 213</span></span
               >
             </h4>
           </section>
@@ -602,7 +743,7 @@
             <h4>
               <span>2023-05-18 @ 08:13:03</span
               ><span class="points-container"
-                >Points: <span class="points">254</span></span
+                >Points: <span class="points">256</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35985240"
                   >Comments</a
@@ -667,11 +808,11 @@
             <h4>
               <span>2023-05-18 @ 07:43:44</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35985085"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -686,11 +827,11 @@
             <h4>
               <span>2023-05-18 @ 07:13:02</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35984928"
                   >Comments</a
-                ><span class="descendants">: 283</span></span
+                ><span class="descendants">: 291</span></span
               >
             </h4>
           </section>
@@ -707,32 +848,11 @@
             <h4>
               <span>2023-05-18 @ 03:29:10</span
               ><span class="points-container"
-                >Points: <span class="points">655</span></span
+                >Points: <span class="points">660</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35983866"
                   >Comments</a
-                ><span class="descendants">: 406</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="35983707">
-          <h3>
-            <a
-              class="item"
-              href="https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized"
-              >Language models cost much more in some languages than others</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-18 @ 03:02:34</span
-              ><span class="points-container"
-                >Points: <span class="points">236</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=35983707"
-                  >Comments</a
-                ><span class="descendants">: 150</span></span
+                ><span class="descendants">: 409</span></span
               >
             </h4>
           </section>
@@ -750,7 +870,7 @@
             <h4>
               <span>2023-05-17 @ 21:53:41</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35981743"
                   >Comments</a
@@ -769,7 +889,7 @@
             <h4>
               <span>2023-05-17 @ 15:13:53</span
               ><span class="points-container"
-                >Points: <span class="points">677</span></span
+                >Points: <span class="points">678</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35976488"
                   >Comments</a
@@ -840,7 +960,7 @@
             <h4>
               <span>2023-05-17 @ 11:04:42</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35973653"
                   >Comments</a
@@ -859,11 +979,11 @@
             <h4>
               <span>2023-05-17 @ 10:26:18</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=35973408"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
