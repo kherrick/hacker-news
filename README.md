@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-18, 18:33:09](https://news.ycombinator.com/item?id=35992183) - [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)
+* [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
+* [2023-05-18, 18:43:40](https://news.ycombinator.com/item?id=35992325) - [UUIDs are obsolete in the age of Docker](https://leonid.shevtsov.me/post/uuids-are-obsolete/)
 * [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 * [2023-05-18, 17:54:53](https://news.ycombinator.com/item?id=35991654) - [James Webb&#x27;s &#x27;too massive&#x27; galaxies may be even more massive](https://phys.org/news/2023-05-james-webb-massive-galaxies.html)
@@ -26,7 +27,6 @@
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise](https://www.bbc.com/news/technology-65622403)
 * [2023-05-17, 21:53:41](https://news.ycombinator.com/item?id=35981743) - [IntelligentPad (1989): a component-based drag-and-drop software creator](https://blog.gingerbeardman.com/2023/05/17/intelligentpad-component-based-drag-and-drop-software-creator/)
-* [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
 * [2023-05-17, 11:04:42](https://news.ycombinator.com/item?id=35973653) - [Fast GPT-2 inference written in Fortran](https://github.com/certik/fastGPT)
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)

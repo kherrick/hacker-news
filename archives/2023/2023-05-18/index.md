@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [The Autobiography of Nikola Tesla](https://archive.org/details/MyInventionsNikolaTesla)
+* [2023-05-18, 18:43:40](https://news.ycombinator.com/item?id=35992325) - [UUIDs are obsolete in the age of Docker](https://leonid.shevtsov.me/post/uuids-are-obsolete/)
 * [2023-05-18, 18:33:09](https://news.ycombinator.com/item?id=35992183) - [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)
 * [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
 * [2023-05-18, 18:02:53](https://news.ycombinator.com/item?id=35991764) - [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
