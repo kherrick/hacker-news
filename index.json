@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-17, 23:26:15",
+      "https://news.ycombinator.com/item?id=35982507"
+    ],
+    [
+      "New Proof Finds the ‘Ultimate Instability’ in a Solar System Model",
+      "https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 22:34:25",
       "https://news.ycombinator.com/item?id=35982083"
     ],
@@ -17,6 +27,16 @@
     [
       "Using Bun.js as a Bundler",
       "https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 21:41:26",
+      "https://news.ycombinator.com/item?id=35981620"
+    ],
+    [
+      "Debian pauses &#x2F;usr merge file moves",
+      "https://lwn.net/Articles/932158/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Understanding database indexes in PostgreSQL",
       "https://blog.mastermind.dev/indexes-in-postgresql"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 17:30:30",
-      "https://news.ycombinator.com/item?id=35978575"
-    ],
-    [
-      "Astmaker – A DSL in Rust for programming language designers",
-      "https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2023-05-16, 03:18:29",
-      "https://news.ycombinator.com/item?id=35957399"
-    ],
-    [
-      "Integrating social responsibility into core CS",
-      "https://evanpeck.github.io/projects/responsibleCS"
-    ]
-  ],
-  [
-    [
       "2023-05-15, 17:28:42",
       "https://news.ycombinator.com/item?id=35951594"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-05-15, 12:28:51",
-      "https://news.ycombinator.com/item?id=35947125"
+      "2023-05-15, 10:58:36",
+      "https://news.ycombinator.com/item?id=35946269"
     ],
     [
-      "What were the worst jobs for poor Romans in Ancient Rome?",
-      "https://www.quora.com/What-were-the-worst-jobs-for-poor-Romans-in-Ancient-Rome"
+      "ScholarTurbo: Use ChatGPT to chat with PDFs (supports GPT-4)",
+      "https://scholarturbo.com/"
     ]
   ]
 ]
