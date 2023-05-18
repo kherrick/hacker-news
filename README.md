@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-18, 13:28:11](https://news.ycombinator.com/item?id=35987579) - [Adobe Tells Users They Can Get Sued for Using Old Versions of Photoshop](https://www.vice.com/en/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop)
+* [2023-05-18, 13:26:04](https://news.ycombinator.com/item?id=35987550) - [New Maintainer Steps Up for GCC Compiler&#x27;s MIPS CPU Port](https://www.phoronix.com/news/GCC-MIPS-New-Maintainer)
 * [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple&#x27;s Reality Pro headset compromised](https://9to5mac.com/2023/05/18/reality-pro-headset/)
 * [2023-05-18, 13:21:00](https://news.ycombinator.com/item?id=35987481) - [Apple to Mass Produce Its Own MicroLED Displays for iPhones](https://www.macrumors.com/2023/05/18/apple-mass-produce-microled-iphone/)
 * [2023-05-18, 13:16:25](https://news.ycombinator.com/item?id=35987413) - [Using LangChainJS and Cloudflare Workers together](https://blog.cloudflare.com/langchain-and-cloudflare/)
@@ -18,7 +19,6 @@
 * [2023-05-18, 08:13:03](https://news.ycombinator.com/item?id=35985240) - [User In Yer Face, a worst-practise UI experiment](https://userinyerface.com/)
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
-* [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
 * [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with ASUS routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 * [2023-05-18, 03:02:34](https://news.ycombinator.com/item?id=35983707) - [Language models cost 10x more in some languages than others](https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized)
 * [2023-05-18, 02:23:21](https://news.ycombinator.com/item?id=35983517) - [DuckDB 0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html)
