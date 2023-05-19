@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-19, 17:13:53](https://news.ycombinator.com/item?id=36004401) - [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
-* [2023-05-19, 16:51:09](https://news.ycombinator.com/item?id=36004077) - [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
+* [2023-05-19, 16:30:23](https://news.ycombinator.com/item?id=36003791) - [Most Small Cars Are Unsafe for Backseat Passengers: IIHS](https://www.thedrive.com/news/most-small-cars-are-unsafe-for-backseat-passengers-iihs)
 * [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
 * [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
 * [2023-05-19, 16:07:14](https://news.ycombinator.com/item?id=36003557) - [Debian 12 &#x27;Bookworm&#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
@@ -27,7 +27,7 @@
 * [2023-05-19, 07:09:08](https://news.ycombinator.com/item?id=35998716) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-18, 19:50:30](https://news.ycombinator.com/item?id=35993185) - [Social processes and proofs of theorems and programs (1979) [pdf]](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/social.pdf)
-* [2023-05-18, 04:05:16](https://news.ycombinator.com/item?id=35984021) - [A statistical analysis of the work of Bob Ross (2014)](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
+* [2023-05-17, 10:55:46](https://news.ycombinator.com/item?id=35973591) - [Understanding Passkeys](https://michal.sapka.me/2023/passkeys/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
 
