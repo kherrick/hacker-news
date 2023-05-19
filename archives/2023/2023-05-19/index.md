@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 14:13:38](https://news.ycombinator.com/item?id=36002215) - [Last update of Safari has problems displaying JPEGs](https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/)
 * [2023-05-19, 13:53:58](https://news.ycombinator.com/item?id=36001960) - [Rafael’s Iron Dome](https://www.rafael.co.il/iron-dome-10years/)
 * [2023-05-19, 13:44:21](https://news.ycombinator.com/item?id=36001871) - [U.S. prison labor programs violate fundamental human rights, new report finds](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
 * [2023-05-19, 13:22:35](https://news.ycombinator.com/item?id=36001623) - [‘Eternal’ Guantanamo prisoner tells of decades of US torture](https://www.thecanary.co/uk/analysis/2023/05/19/eternal-guantanamo-prisoner-tells-of-decades-of-us-torture/)
@@ -23,6 +24,7 @@
 * [2023-05-19, 11:12:24](https://news.ycombinator.com/item?id=36000221) - [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 11:05:38](https://news.ycombinator.com/item?id=36000156) - [Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple bans ChatGPT use by employees, report says](https://mashable.com/article/apple-chatgpt-employee-ban-report)
+* [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple Restricts Employee Use of ChatGPT, Joining Other Companies Wary of Leaks](https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34)
 * [2023-05-19, 10:48:03](https://news.ycombinator.com/item?id=36000027) - [Send a message to teams channel on Linux server SSH connexion](https://github.com/Blue-Secure/ssh-login-teams-alert-webhook)
 * [2023-05-19, 10:35:22](https://news.ycombinator.com/item?id=35999950) - [Cities Aren&#x27;t Loud: Cars Are Loud](https://www.youtube.com/watch?v=CTV-wwszGw8)
 * [2023-05-19, 10:29:00](https://news.ycombinator.com/item?id=35999910) - [The Most Important Test You’ve Never Heard Of](https://davidzweig.substack.com/p/the-most-important-test-youve-never)
