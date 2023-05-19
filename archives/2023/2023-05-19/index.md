@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 07:41:18](https://news.ycombinator.com/item?id=35998913) - [The proto-fascism of Elon Musk](https://nickcohen.substack.com/p/the-proto-fasicsm-of-elon-musk)
+* [2023-05-19, 07:35:29](https://news.ycombinator.com/item?id=35998882) - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-19, 06:22:57](https://news.ycombinator.com/item?id=35998450) - [Samsung eyes chip facility in Japan amid thaw in Seoul-Tokyo relations](https://m.koreaherald.com/view.php?ud=20230515000614)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [Want to build your own graphics and audio hardware?](https://martin-piper.itch.io/bomb-jack-display-hardware)
