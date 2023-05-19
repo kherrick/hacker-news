@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-19, 07:41:18](https://news.ycombinator.com/item?id=35998913) - [The proto-fascism of Elon Musk](https://nickcohen.substack.com/p/the-proto-fasicsm-of-elon-musk)
 * [2023-05-19, 07:35:29](https://news.ycombinator.com/item?id=35998882) - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
@@ -26,6 +25,7 @@
 * [2023-05-18, 06:04:19](https://news.ycombinator.com/item?id=35984560) - [Bruno Schulz: An Artist, a Murder, and the Hijacking of History](https://www.theguardian.com/books/2023/may/14/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-review-extraordinary-mind-cruel-death)
 * [2023-05-17, 22:02:29](https://news.ycombinator.com/item?id=35981828) - [Code Generator for SQLite](https://cgsql.dev/)
 * [2023-05-17, 20:05:01](https://news.ycombinator.com/item?id=35980543) - [Tracking Blocked Scripts](https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/)
+* [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
 * [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
