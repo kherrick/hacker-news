@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-05-19, 13:44:21",
-      "https://news.ycombinator.com/item?id=36001871"
-    ],
-    [
-      "U.S. prison labor programs violate fundamental human rights, new report finds",
-      "https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 13:22:35",
-      "https://news.ycombinator.com/item?id=36001623"
-    ],
-    [
-      "‘Eternal’ Guantanamo prisoner tells of decades of US torture",
-      "https://www.thecanary.co/uk/analysis/2023/05/19/eternal-guantanamo-prisoner-tells-of-decades-of-us-torture/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 13:12:00",
       "https://news.ycombinator.com/item?id=36001509"
     ],
@@ -71,16 +51,6 @@
   ],
   [
     [
-      "2023-05-19, 11:14:01",
-      "https://news.ycombinator.com/item?id=36000238"
-    ],
-    [
-      "CppCon 2022 Best Practices Every C++ Programmer Needs to Follow – Oz Syed",
-      "https://isocpp.org//blog/2023/05/cppcon-2022-best-practices-every-cpp-programmer-needs-to-follow-oz-syed"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 11:12:24",
       "https://news.ycombinator.com/item?id=36000221"
     ],
@@ -117,6 +87,16 @@
     [
       "Send a message to teams channel on Linux server SSH connexion",
       "https://github.com/Blue-Secure/ssh-login-teams-alert-webhook"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 10:35:22",
+      "https://news.ycombinator.com/item?id=35999950"
+    ],
+    [
+      "Cities Aren&#x27;t Loud: Cars Are Loud (2021) [video]",
+      "https://www.youtube.com/watch?v=CTV-wwszGw8"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "With new trade deal, Big Tech wants to be above the law",
       "https://proton.me/blog/big-tech-ipef"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 07:35:29",
+      "https://news.ycombinator.com/item?id=35998882"
+    ],
+    [
+      "Andy Rourke: The Smiths bassist dies aged 59",
+      "https://www.bbc.co.uk/news/entertainment-arts-65644596"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2023-05-17, 17:31:49",
-      "https://news.ycombinator.com/item?id=35978593"
+      "2023-05-17, 22:02:29",
+      "https://news.ycombinator.com/item?id=35981828"
     ],
     [
-      "How&#x27;s business at Stack Overflow?",
-      "https://jlericson.com/2023/05/17/so_business.html"
+      "Code Generator for SQLite",
+      "https://cgsql.dev/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Managing State with Signals",
       "https://tonsky.me/blog/humble-signals/"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 22:43:03",
+      "https://news.ycombinator.com/item?id=35968754"
+    ],
+    [
+      "From 0 to glTF with WebGPU: Rendering the first glTF mesh",
+      "https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh"
     ]
   ],
   [
