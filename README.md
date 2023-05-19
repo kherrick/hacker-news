@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 * [2023-05-19, 15:02:18](https://news.ycombinator.com/item?id=36002784) - [Here’s How AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
 * [2023-05-19, 14:44:40](https://news.ycombinator.com/item?id=36002574) - [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
@@ -8,7 +9,6 @@
 * [2023-05-19, 13:12:00](https://news.ycombinator.com/item?id=36001509) - [Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)
 * [2023-05-19, 13:08:47](https://news.ycombinator.com/item?id=36001474) - [D1: We turned it up to 11](https://blog.cloudflare.com/d1-turning-it-up-to-11/)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
-* [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 * [2023-05-19, 11:15:42](https://news.ycombinator.com/item?id=36000260) - [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
 * [2023-05-19, 11:12:24](https://news.ycombinator.com/item?id=36000221) - [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
@@ -24,11 +24,11 @@
 * [2023-05-19, 06:58:09](https://news.ycombinator.com/item?id=35998649) - [Interactive Point-Based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
 * [2023-05-18, 23:48:13](https://news.ycombinator.com/item?id=35995959) - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
+* [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 04:05:16](https://news.ycombinator.com/item?id=35984021) - [A statistical analysis of the work of Bob Ross (2014)](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
 * [2023-05-17, 17:25:06](https://news.ycombinator.com/item?id=35978486) - [Updating my website from my iPad](https://dddiaz.com/post/blog-from-ipad/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
-* [2023-05-16, 20:29:49](https://news.ycombinator.com/item?id=35967337) - [Japan Is Unmasking, and Its Smile Coach Is Busy](https://www.nytimes.com/2023/05/15/world/asia/japan-covid-smiling-lessons.html)
 * [2023-05-16, 20:16:53](https://news.ycombinator.com/item?id=35967174) - [Software Design Review (2009)](https://philip.greenspun.com/software/design-review)
 
 ## [Archives](archives/index.md)
