@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-05-19, 00:57:49",
+      "https://news.ycombinator.com/item?id=35996463"
+    ],
+    [
+      "Google banned me – open sourcing all my apps",
+      "https://old.reddit.com/r/androiddev/comments/13lf6jb/open_sourcing_all_my_apps_quitting_android_dev/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 23:48:13",
       "https://news.ycombinator.com/item?id=35995959"
     ],
@@ -77,16 +87,6 @@
     [
       "Recreating Medieval English Ales (1998)",
       "https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 19:42:03",
-      "https://news.ycombinator.com/item?id=35993044"
-    ],
-    [
-      "Windows XP Activation: Game Over",
-      "https://tinyapps.org/blog/202304230700_xp_wpa.html"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "ChatGPT app for iOS",
       "https://openai.com/blog/introducing-the-chatgpt-app-for-ios"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 16:00:14",
-      "https://news.ycombinator.com/item?id=35989911"
-    ],
-    [
-      "Unit Testing eBPF Programs",
-      "https://who.ldelossa.is/posts/unit-testing-ebpf/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Code Generator for SQLite",
       "https://cgsql.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 20:05:01",
+      "https://news.ycombinator.com/item?id=35980543"
+    ],
+    [
+      "Tracking Blocked Scripts",
+      "https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/"
     ]
   ],
   [
