@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-05-19, 12:46:55",
-      "https://news.ycombinator.com/item?id=36001238"
+      "2023-05-19, 13:12:00",
+      "https://news.ycombinator.com/item?id=36001509"
     ],
     [
-      "Possible toxicity of chronic CO2 exposure associated with face mask use [pdf]",
-      "https://www.cell.com/heliyon/pdf/S2405-8440(23)01324-5.pdf"
+      "Update of the RDF and SPARQL (RDF star) families of specifications",
+      "https://www.w3.org/blog/news/archives/9906"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Linux tool to show progress for cp, mv, dd",
       "https://github.com/Xfennec/progress"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 11:22:03",
-      "https://news.ycombinator.com/item?id=36000332"
-    ],
-    [
-      "First Solar Bike Path in Germany Is Now Live",
-      "https://cleantechnica.com/2023/05/16/1st-solar-bike-path-in-germany-is-now-live/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Code Generator for SQLite",
       "https://cgsql.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 17:31:49",
+      "https://news.ycombinator.com/item?id=35978593"
+    ],
+    [
+      "How&#x27;s business at Stack Overflow?",
+      "https://jlericson.com/2023/05/17/so_business.html"
     ]
   ],
   [
