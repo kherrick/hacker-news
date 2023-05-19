@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
 * [2023-05-19, 16:51:09](https://news.ycombinator.com/item?id=36004077) - [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
+* [2023-05-19, 16:30:23](https://news.ycombinator.com/item?id=36003791) - [Most Small Cars Are Unsafe for Backseat Passengers: IIHS](https://www.thedrive.com/news/most-small-cars-are-unsafe-for-backseat-passengers-iihs)
 * [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
 * [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
 * [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
@@ -23,6 +24,7 @@
 * [2023-05-19, 14:44:40](https://news.ycombinator.com/item?id=36002574) - [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
 * [2023-05-19, 14:44:16](https://news.ycombinator.com/item?id=36002570) - [Sensible Security: concrete and evidence-informed cybersecurity for everyone](https://security.stolovitz.com/)
 * [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
+* [2023-05-19, 14:25:45](https://news.ycombinator.com/item?id=36002375) - [The Upper Atmosphere Is Cooling, Prompting New Climate Concerns](https://e360.yale.edu/features/climate-change-upper-atmosphere-cooling)
 * [2023-05-19, 14:13:38](https://news.ycombinator.com/item?id=36002215) - [Last update of Safari has problems displaying JPEGs](https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/)
 * [2023-05-19, 13:53:58](https://news.ycombinator.com/item?id=36001960) - [Rafael’s Iron Dome](https://www.rafael.co.il/iron-dome-10years/)
 * [2023-05-19, 13:44:21](https://news.ycombinator.com/item?id=36001871) - [U.S. prison labor programs violate fundamental human rights, new report finds](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
