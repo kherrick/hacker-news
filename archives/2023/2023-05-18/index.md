@@ -14,6 +14,7 @@
 * [2023-05-18, 20:16:20](https://news.ycombinator.com/item?id=35993498) - [Inject My PDF: Prompt Injection for Your Resume](https://kai-greshake.de/posts/inject-my-pdf/)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 * [2023-05-18, 20:08:11](https://news.ycombinator.com/item?id=35993398) - [The next 5 years will be the hottest yet](https://grist.org/science/el-nino-the-next-5-years-will-be-the-hottest-on-record/)
+* [2023-05-18, 19:44:06](https://news.ycombinator.com/item?id=35993078) - [Ts-morph – programmatically manipulate TypeScript source code with TypeScript](https://www.npmjs.com/package/ts-morph)
 * [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
 * [2023-05-18, 19:40:34](https://news.ycombinator.com/item?id=35993028) - [Seattle startup’s ex-CFO accused of diverting $35M, losing it in crypto crash](https://www.seattletimes.com/business/seattle-startups-ex-cfo-accused-of-diverting-35m-losing-it-in-crypto-crash/)
 * [2023-05-18, 19:40:02](https://news.ycombinator.com/item?id=35993020) - [French resistance fighter, 98, reveals mass execution of German prisoners](https://www.theguardian.com/world/2023/may/18/french-resistance-fighter-98-reveals-mass-execution-of-german-prisoners)
