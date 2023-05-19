@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 20:35:01](https://news.ycombinator.com/item?id=36006568) - [Opposite of Courage Is Conformity](https://www.clues.life/stories/rollo-may)
+* [2023-05-19, 20:24:59](https://news.ycombinator.com/item?id=36006446) - [x86-S External Architectural Specification](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-19, 20:07:15](https://news.ycombinator.com/item?id=36006276) - [Peter Thiel Is Latest Billionaire Said to Have Met with Jeffrey Epstein](https://www.nytimes.com/2023/05/18/business/jeffrey-epstein-peter-thiel.html)
 * [2023-05-19, 19:55:41](https://news.ycombinator.com/item?id=36006139) - [Rocky Linux 8.8 Available Now](https://rockylinux.org/news/rocky-linux-8-8-ga-release/)
+* [2023-05-19, 19:50:08](https://news.ycombinator.com/item?id=36006082) - [AmpereOne with 192 Cores 128x PCIe Gen5 Lanes and DDR5 in 2023](https://www.servethehome.com/ampereone-with-192-cores-128x-pcie-gen5-lanes-and-ddr5-in-2023-arm/)
 * [2023-05-19, 19:45:04](https://news.ycombinator.com/item?id=36006030) - [California’s Water Rights and Investment](https://onthepublicrecord.org/2009/04/29/california%e2%80%99s-water-rights-and-investment/)
 * [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
 * [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
