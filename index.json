@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-05-18, 21:05:26",
+      "https://news.ycombinator.com/item?id=35994037"
+    ],
+    [
+      "CLI tools for working with ChatGPT and other LLMs",
+      "https://simonwillison.net/2023/May/18/cli-tools-for-llms/"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 20:13:01",
       "https://news.ycombinator.com/item?id=35993455"
     ],
@@ -107,6 +117,16 @@
     [
       "Windows XP Activation: Game Over",
       "https://tinyapps.org/blog/202304230700_xp_wpa.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 19:04:18",
+      "https://news.ycombinator.com/item?id=35992593"
+    ],
+    [
+      "Linux Software Map",
+      "https://xteddy.org/lsm/"
     ]
   ],
   [
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2023-05-18, 17:08:46",
+      "https://news.ycombinator.com/item?id=35991018"
+    ],
+    [
+      "Show HN: Jesth – Next-level human-readable data serialization format",
+      "https://github.com/pyrustic/jesth"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 16:58:13",
       "https://news.ycombinator.com/item?id=35990858"
     ],
@@ -161,32 +191,12 @@
   ],
   [
     [
-      "2023-05-18, 16:00:14",
-      "https://news.ycombinator.com/item?id=35989911"
+      "2023-05-18, 15:48:47",
+      "https://news.ycombinator.com/item?id=35989696"
     ],
     [
-      "Unit Testing eBPF Programs",
-      "https://who.ldelossa.is/posts/unit-testing-ebpf/"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 16:00:06",
-      "https://news.ycombinator.com/item?id=35989909"
-    ],
-    [
-      "LMDB: The first version of Redis, written in Tcl (2009)",
-      "https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 15:33:13",
-      "https://news.ycombinator.com/item?id=35989462"
-    ],
-    [
-      "The Great CPU Stagnation",
-      "http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html"
+      "Nuances of overloading and overriding in Java",
+      "https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2023-05-18, 03:29:10",
+      "https://news.ycombinator.com/item?id=35983866"
+    ],
+    [
+      "What happened with ASUS routers this morning?",
+      "https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 23:17:59",
       "https://news.ycombinator.com/item?id=35982447"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-05-17, 10:26:18",
-      "https://news.ycombinator.com/item?id=35973408"
-    ],
-    [
-      "An Interactive Introduction to Fourier Transforms (2019)",
-      "https://www.jezzamon.com/fourier/"
-    ]
-  ],
-  [
-    [
       "2023-05-17, 09:45:53",
       "https://news.ycombinator.com/item?id=35973151"
     ],
     [
       "Managing State with Signals",
       "https://tonsky.me/blog/humble-signals/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 06:52:08",
-      "https://news.ycombinator.com/item?id=35972047"
-    ],
-    [
-      "Photomator for Mac",
-      "https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/"
     ]
   ],
   [
