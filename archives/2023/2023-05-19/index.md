@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+* [2023-05-19, 06:22:57](https://news.ycombinator.com/item?id=35998450) - [Samsung eyes chip facility in Japan amid thaw in Seoul-Tokyo relations](https://m.koreaherald.com/view.php?ud=20230515000614)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [Want to build your own graphics and audio hardware?](https://martin-piper.itch.io/bomb-jack-display-hardware)
 * [2023-05-19, 05:03:36](https://news.ycombinator.com/item?id=35997975) - [Ask HN: Is Moore&#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
 * [2023-05-19, 04:37:06](https://news.ycombinator.com/item?id=35997798) - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)

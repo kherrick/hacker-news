@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
+* [2023-05-19, 06:22:57](https://news.ycombinator.com/item?id=35998450) - [Samsung eyes chip facility in Japan amid thaw in Seoul-Tokyo relations](https://m.koreaherald.com/view.php?ud=20230515000614)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
 * [2023-05-19, 05:03:36](https://news.ycombinator.com/item?id=35997975) - [Ask HN: Is Moore&#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
 * [2023-05-19, 04:37:06](https://news.ycombinator.com/item?id=35997798) - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
@@ -7,7 +9,6 @@
 * [2023-05-18, 23:48:13](https://news.ycombinator.com/item?id=35995959) - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales (1998)](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
-* [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
 * [2023-05-18, 19:02:03](https://news.ycombinator.com/item?id=35992553) - [My Inventions – Nikola Tesla (1919)](https://archive.org/details/MyInventionsNikolaTesla)
 * [2023-05-18, 18:06:01](https://news.ycombinator.com/item?id=35991811) - [Sniffnet: Open-source, cross platform application to monitor network traffic](https://github.com/GyulyVGC/sniffnet)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court rules Andy Warhol’s Prince art is copyright infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
@@ -25,7 +26,6 @@
 * [2023-05-18, 06:04:19](https://news.ycombinator.com/item?id=35984560) - [Bruno Schulz: An Artist, a Murder, and the Hijacking of History](https://www.theguardian.com/books/2023/may/14/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-review-extraordinary-mind-cruel-death)
 * [2023-05-17, 22:02:29](https://news.ycombinator.com/item?id=35981828) - [Code Generator for SQLite](https://cgsql.dev/)
 * [2023-05-17, 20:05:01](https://news.ycombinator.com/item?id=35980543) - [Tracking Blocked Scripts](https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/)
-* [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
 * [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
