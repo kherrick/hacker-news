@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-19, 07:35:29](https://news.ycombinator.com/item?id=35998882) - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
+* [2023-05-19, 07:09:08](https://news.ycombinator.com/item?id=35998716) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
 * [2023-05-19, 04:37:06](https://news.ycombinator.com/item?id=35997798) - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
@@ -16,7 +17,6 @@
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 16:00:14](https://news.ycombinator.com/item?id=35989911) - [Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
 * [2023-05-18, 16:00:06](https://news.ycombinator.com/item?id=35989909) - [LMDB: The first version of Redis, written in Tcl (2009)](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
-* [2023-05-18, 15:33:13](https://news.ycombinator.com/item?id=35989462) - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
 * [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [Spacetop, a radical laptop with no screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
 * [2023-05-18, 15:25:11](https://news.ycombinator.com/item?id=35989311) - [20 Years of Gentoo](https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/)
 * [2023-05-18, 15:04:24](https://news.ycombinator.com/item?id=35988984) - [The simple joys of scaling up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
