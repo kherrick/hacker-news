@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
+* [2023-05-19, 15:02:18](https://news.ycombinator.com/item?id=36002784) - [AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
+* [2023-05-19, 14:44:40](https://news.ycombinator.com/item?id=36002574) - [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
+* [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
 * [2023-05-19, 14:13:38](https://news.ycombinator.com/item?id=36002215) - [Last update of Safari has problems displaying JPEGs](https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/)
 * [2023-05-19, 13:53:58](https://news.ycombinator.com/item?id=36001960) - [Rafael’s Iron Dome](https://www.rafael.co.il/iron-dome-10years/)
 * [2023-05-19, 13:44:21](https://news.ycombinator.com/item?id=36001871) - [U.S. prison labor programs violate fundamental human rights, new report finds](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
