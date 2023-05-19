@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 22:01:45](https://news.ycombinator.com/item?id=36007310) - [Tunnel via Cloudflare to Any TCP Service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
 * [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
 * [2023-05-19, 20:45:59](https://news.ycombinator.com/item?id=36006676) - [It’s Time to Embrace Slow Productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
 * [2023-05-19, 20:42:43](https://news.ycombinator.com/item?id=36006626) - [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 * [2023-05-19, 20:34:22](https://news.ycombinator.com/item?id=36006561) - [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
-* [2023-05-19, 20:24:59](https://news.ycombinator.com/item?id=36006446) - [Envisioning a Simplified Intel Architecture](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)
 * [2023-05-19, 19:58:44](https://news.ycombinator.com/item?id=36006181) - [Building a weather station](https://drwho.virtadpt.net/archive/2023-04-28/building-a-weather-station/)
 * [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
