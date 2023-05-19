@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 23:48:13](https://news.ycombinator.com/item?id=35995959) - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-18, 21:42:23](https://news.ycombinator.com/item?id=35994494) - [The American Dream convinces people loneliness is normal](https://english.elpais.com/usa/2023-05-16/how-the-american-dream-convinces-people-loneliness-is-normal.html)
 * [2023-05-18, 21:10:37](https://news.ycombinator.com/item?id=35994106) - [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)

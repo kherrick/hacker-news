@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-19, 00:00:17](https://news.ycombinator.com/item?id=35996042) - [Stop Saying C&#x2F;C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
-* [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
+* [2023-05-18, 23:48:13](https://news.ycombinator.com/item?id=35995959) - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
+* [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-18, 21:10:37](https://news.ycombinator.com/item?id=35994106) - [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
 * [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales (1998)](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
@@ -16,6 +16,7 @@
 * [2023-05-18, 16:40:46](https://news.ycombinator.com/item?id=35990552) - [ChatGPT app for iOS](https://openai.com/blog/introducing-the-chatgpt-app-for-ios)
 * [2023-05-18, 16:00:14](https://news.ycombinator.com/item?id=35989911) - [Unit Testing eBPF Programs](https://who.ldelossa.is/posts/unit-testing-ebpf/)
 * [2023-05-18, 16:00:06](https://news.ycombinator.com/item?id=35989909) - [LMDB: The first version of Redis, written in Tcl (2009)](https://gist.github.com/antirez/6ca04dd191bdb82aad9fb241013e88a8)
+* [2023-05-18, 15:48:47](https://news.ycombinator.com/item?id=35989696) - [Nuances of overloading and overriding in Java](https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/)
 * [2023-05-18, 15:33:13](https://news.ycombinator.com/item?id=35989462) - [The Great CPU Stagnation](http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html)
 * [2023-05-18, 15:04:24](https://news.ycombinator.com/item?id=35988984) - [The simple joys of scaling up](https://motherduck.com/blog/the-simple-joys-of-scaling-up/)
 * [2023-05-18, 14:56:39](https://news.ycombinator.com/item?id=35988879) - [NYC skyscrapers sit vacant](https://www.bloomberg.com/news/articles/2023-05-18/nyc-skyscrapers-sit-vacant-exposing-risk-city-never-predicted)
@@ -29,7 +30,6 @@
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
 * [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
-* [2023-05-16, 22:43:03](https://news.ycombinator.com/item?id=35968754) - [From 0 to glTF with WebGPU: Rendering the first glTF mesh](https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh)
 
 ## [Archives](archives/index.md)
 
