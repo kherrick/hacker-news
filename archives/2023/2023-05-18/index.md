@@ -14,6 +14,7 @@
 * [2023-05-18, 20:16:20](https://news.ycombinator.com/item?id=35993498) - [Inject My PDF: Prompt Injection for Your Resume](https://kai-greshake.de/posts/inject-my-pdf/)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 * [2023-05-18, 20:08:11](https://news.ycombinator.com/item?id=35993398) - [The next 5 years will be the hottest yet](https://grist.org/science/el-nino-the-next-5-years-will-be-the-hottest-on-record/)
+* [2023-05-18, 19:50:30](https://news.ycombinator.com/item?id=35993185) - [Social processes and proofs of theorems and programs (1979) [pdf]](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/social.pdf)
 * [2023-05-18, 19:44:06](https://news.ycombinator.com/item?id=35993078) - [Ts-morph – programmatically manipulate TypeScript source code with TypeScript](https://www.npmjs.com/package/ts-morph)
 * [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
 * [2023-05-18, 19:40:34](https://news.ycombinator.com/item?id=35993028) - [Seattle startup’s ex-CFO accused of diverting $35M, losing it in crypto crash](https://www.seattletimes.com/business/seattle-startups-ex-cfo-accused-of-diverting-35m-losing-it-in-crypto-crash/)
