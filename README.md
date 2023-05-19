@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-19, 18:01:56](https://news.ycombinator.com/item?id=36004980) - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
+* [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
 * [2023-05-19, 17:45:28](https://news.ycombinator.com/item?id=36004762) - [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
 * [2023-05-19, 17:43:40](https://news.ycombinator.com/item?id=36004743) - [Uber attempting to reduce office space in SF &#x2F; 31% of office leases open](https://www.sfchronicle.com/sf/article/uber-headquarters-san-francisco-office-space-lease-18108419.php)
 * [2023-05-19, 17:28:52](https://news.ycombinator.com/item?id=36004574) - [Anti-Piracy Program Accused of Violating Citizens’ Fundamental Rights in France](https://torrentfreak.com/anti-piracy-program-accused-of-violating-citizens-fundamental-rights-230519/)
 * [2023-05-19, 17:13:53](https://news.ycombinator.com/item?id=36004401) - [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
 * [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
-* [2023-05-19, 16:07:14](https://news.ycombinator.com/item?id=36003557) - [Debian 12 &#x27;Bookworm&#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
 * [2023-05-19, 16:06:11](https://news.ycombinator.com/item?id=36003550) - [Matter 1.1 release – Enhancements for developers and devices](https://csa-iot.org/newsroom/matter-1-1-release-enhancements-for-developers-and-devices/)
 * [2023-05-19, 15:37:56](https://news.ycombinator.com/item?id=36003187) - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
 * [2023-05-19, 15:31:01](https://news.ycombinator.com/item?id=36003122) - [Writing Is My Main Freedom. One Day My Work Disappeared (2021)](https://www.themarshallproject.org/2021/12/16/writing-is-my-main-freedom-one-day-my-poems-essays-short-stories-and-letters-disappeared)
