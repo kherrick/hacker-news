@@ -6,7 +6,9 @@
 
 * [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
 * [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
+* [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
 * [2023-05-19, 16:07:14](https://news.ycombinator.com/item?id=36003557) - [Debian 12 &#x27;Bookworm&#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
+* [2023-05-19, 16:06:11](https://news.ycombinator.com/item?id=36003550) - [Matter 1.1 release – Enhancements for developers and devices](https://csa-iot.org/newsroom/matter-1-1-release-enhancements-for-developers-and-devices/)
 * [2023-05-19, 16:02:03](https://news.ycombinator.com/item?id=36003507) - [Ask HN: Will AI result in mass silo-ing of new knowledge?](https://news.ycombinator.com/item?id=36003507)
 * [2023-05-19, 15:37:56](https://news.ycombinator.com/item?id=36003187) - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
 * [2023-05-19, 15:31:40](https://news.ycombinator.com/item?id=36003127) - [New York City is sinking due to weight of its skyscrapers, new research finds](https://www.theguardian.com/us-news/2023/may/19/new-york-city-sinking-skyscrapers-climate-crisis)

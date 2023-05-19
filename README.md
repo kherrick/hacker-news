@@ -2,7 +2,9 @@
 
 * [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
 * [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
+* [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
 * [2023-05-19, 16:07:14](https://news.ycombinator.com/item?id=36003557) - [Debian 12 &#x27;Bookworm&#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
+* [2023-05-19, 16:06:11](https://news.ycombinator.com/item?id=36003550) - [Matter 1.1 release – Enhancements for developers and devices](https://csa-iot.org/newsroom/matter-1-1-release-enhancements-for-developers-and-devices/)
 * [2023-05-19, 16:02:03](https://news.ycombinator.com/item?id=36003507) - [Ask HN: Will AI result in mass silo-ing of new knowledge?](https://news.ycombinator.com/item?id=36003507)
 * [2023-05-19, 15:37:56](https://news.ycombinator.com/item?id=36003187) - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
 * [2023-05-19, 15:31:01](https://news.ycombinator.com/item?id=36003122) - [Writing Is My Main Freedom. One Day My Work Disappeared](https://www.themarshallproject.org/2021/12/16/writing-is-my-main-freedom-one-day-my-poems-essays-short-stories-and-letters-disappeared)
@@ -17,7 +19,6 @@
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 * [2023-05-19, 11:15:42](https://news.ycombinator.com/item?id=36000260) - [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
-* [2023-05-19, 11:12:24](https://news.ycombinator.com/item?id=36000221) - [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 11:05:38](https://news.ycombinator.com/item?id=36000156) - [Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple Restricts Employee Use of ChatGPT, Joining Other Companies Wary of Leaks](https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34)
 * [2023-05-19, 10:48:03](https://news.ycombinator.com/item?id=36000027) - [Send a message to teams channel on Linux server SSH connexion](https://github.com/Blue-Secure/ssh-login-teams-alert-webhook)
@@ -29,7 +30,6 @@
 * [2023-05-18, 04:05:16](https://news.ycombinator.com/item?id=35984021) - [A statistical analysis of the work of Bob Ross (2014)](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
-* [2023-05-16, 20:16:53](https://news.ycombinator.com/item?id=35967174) - [Software Design Review (2009)](https://philip.greenspun.com/software/design-review)
 
 ## [Archives](archives/index.md)
 
