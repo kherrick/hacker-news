@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 20:42:43](https://news.ycombinator.com/item?id=36006626) - [PyTorch Primitives in WebGPU for the Browser](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 * [2023-05-19, 20:35:01](https://news.ycombinator.com/item?id=36006568) - [Opposite of Courage Is Conformity](https://www.clues.life/stories/rollo-may)
 * [2023-05-19, 20:24:59](https://news.ycombinator.com/item?id=36006446) - [x86-S External Architectural Specification](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-19, 20:07:15](https://news.ycombinator.com/item?id=36006276) - [Peter Thiel Is Latest Billionaire Said to Have Met with Jeffrey Epstein](https://www.nytimes.com/2023/05/18/business/jeffrey-epstein-peter-thiel.html)

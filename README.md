@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 20:42:43](https://news.ycombinator.com/item?id=36006626) - [PyTorch Primitives in WebGPU for the Browser](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 * [2023-05-19, 20:35:01](https://news.ycombinator.com/item?id=36006568) - [Opposite of Courage Is Conformity](https://www.clues.life/stories/rollo-may)
 * [2023-05-19, 20:24:59](https://news.ycombinator.com/item?id=36006446) - [x86-S External Architectural Specification](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
 * [2023-05-19, 19:55:41](https://news.ycombinator.com/item?id=36006139) - [Rocky Linux 8.8 Available Now](https://rockylinux.org/news/rocky-linux-8-8-ga-release/)
@@ -14,7 +15,6 @@
 * [2023-05-19, 17:28:52](https://news.ycombinator.com/item?id=36004574) - [Anti-Piracy Program Accused of Violating Citizens’ Fundamental Rights in France](https://torrentfreak.com/anti-piracy-program-accused-of-violating-citizens-fundamental-rights-230519/)
 * [2023-05-19, 17:13:53](https://news.ycombinator.com/item?id=36004401) - [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
 * [2023-05-19, 17:01:10](https://news.ycombinator.com/item?id=36004230) - [ChatGPT plugins Account Takeover via Prompt injection](https://rez0.blog/hacking/2023/05/19/prompt-injection-poc.html)
-* [2023-05-19, 15:37:56](https://news.ycombinator.com/item?id=36003187) - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
 * [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 * [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
