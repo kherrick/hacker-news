@@ -25,9 +25,9 @@
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 08:56:54](https://news.ycombinator.com/item?id=35999438) - [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
 * [2023-05-18, 21:00:41](https://news.ycombinator.com/item?id=35993993) - [The Future of Programming – Interview with Richard Eisenberg](https://signalsandthreads.com/future-of-programming/)
+* [2023-05-18, 04:05:01](https://news.ycombinator.com/item?id=35984018) - [Roger&#x27;s little rule book (2008)](https://www.rogerebert.com/roger-ebert/rogers-little-rule-book)
 * [2023-05-18, 03:30:57](https://news.ycombinator.com/item?id=35983878) - [Having metrics for something attracts your attention to it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MetricsAttractAttention)
 * [2023-05-17, 23:57:17](https://news.ycombinator.com/item?id=35982726) - [The Birth of Brainstorming](https://www.laphamsquarterly.org/roundtable/birth-brainstorming)
-* [2023-05-17, 10:55:46](https://news.ycombinator.com/item?id=35973591) - [Understanding Passkeys](https://michal.sapka.me/2023/passkeys/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 00:00:38](https://news.ycombinator.com/item?id=35969485) - [The Pillar Box War](https://blog.plover.com/history/pillar-box-war.html)
 
