@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 12:46:55](https://news.ycombinator.com/item?id=36001238) - [Possible toxicity of chronic CO2 exposure associated with face mask use [pdf]](https://www.cell.com/heliyon/pdf/S2405-8440(23)01324-5.pdf)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
@@ -20,7 +21,6 @@
 * [2023-05-19, 07:35:29](https://news.ycombinator.com/item?id=35998882) - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
 * [2023-05-19, 07:09:08](https://news.ycombinator.com/item?id=35998716) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
-* [2023-05-19, 06:58:09](https://news.ycombinator.com/item?id=35998649) - [Interactive Point-Based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [MegaWang 2000 Turbo Edition hardware](https://martin-piper.itch.io/bomb-jack-display-hardware)
 * [2023-05-18, 23:48:13](https://news.ycombinator.com/item?id=35995959) - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 12:46:55](https://news.ycombinator.com/item?id=36001238) - [Possible toxicity of chronic CO2 exposure associated with face mask use [pdf]](https://www.cell.com/heliyon/pdf/S2405-8440(23)01324-5.pdf)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
