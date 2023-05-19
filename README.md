@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-19, 18:01:56](https://news.ycombinator.com/item?id=36004980) - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
+* [2023-05-19, 17:45:28](https://news.ycombinator.com/item?id=36004762) - [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
 * [2023-05-19, 17:43:40](https://news.ycombinator.com/item?id=36004743) - [Uber attempting to reduce office space in SF &#x2F; 31% of office leases open](https://www.sfchronicle.com/sf/article/uber-headquarters-san-francisco-office-space-lease-18108419.php)
+* [2023-05-19, 17:28:52](https://news.ycombinator.com/item?id=36004574) - [Anti-Piracy Program Accused of Violating Citizens’ Fundamental Rights in France](https://torrentfreak.com/anti-piracy-program-accused-of-violating-citizens-fundamental-rights-230519/)
 * [2023-05-19, 17:13:53](https://news.ycombinator.com/item?id=36004401) - [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
 * [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
 * [2023-05-19, 16:07:14](https://news.ycombinator.com/item?id=36003557) - [Debian 12 &#x27;Bookworm&#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
@@ -9,7 +11,6 @@
 * [2023-05-19, 15:37:56](https://news.ycombinator.com/item?id=36003187) - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
 * [2023-05-19, 15:31:01](https://news.ycombinator.com/item?id=36003122) - [Writing Is My Main Freedom. One Day My Work Disappeared (2021)](https://www.themarshallproject.org/2021/12/16/writing-is-my-main-freedom-one-day-my-poems-essays-short-stories-and-letters-disappeared)
 * [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
-* [2023-05-19, 15:12:16](https://news.ycombinator.com/item?id=36002909) - [Whichlang – Fast, OSS for Language Detection in Rust](https://github.com/quickwit-oss/whichlang)
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 * [2023-05-19, 14:52:52](https://news.ycombinator.com/item?id=36002667) - [CodeWeavers Now Controlled by an Employee Ownership Trust](https://www.phoronix.com/news/CodeWeavers-Employee-Trust)
 * [2023-05-19, 14:44:40](https://news.ycombinator.com/item?id=36002574) - [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
@@ -24,12 +25,11 @@
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple Restricts Employee Use of ChatGPT, Joining Other Companies Wary of Leaks](https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 08:56:54](https://news.ycombinator.com/item?id=35999438) - [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
-* [2023-05-19, 07:09:08](https://news.ycombinator.com/item?id=35998716) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-18, 19:50:30](https://news.ycombinator.com/item?id=35993185) - [Social processes and proofs of theorems and programs (1979) [pdf]](https://www.cs.umd.edu/~gasarch/BLOGPAPERS/social.pdf)
 * [2023-05-17, 10:55:46](https://news.ycombinator.com/item?id=35973591) - [Understanding Passkeys](https://michal.sapka.me/2023/passkeys/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
-* [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
+* [2023-05-17, 00:00:38](https://news.ycombinator.com/item?id=35969485) - [The Pillar Box War](https://blog.plover.com/history/pillar-box-war.html)
 
 ## [Archives](archives/index.md)
 
