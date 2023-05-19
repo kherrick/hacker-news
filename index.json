@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-05-19, 11:23:58",
-      "https://news.ycombinator.com/item?id=36000349"
+      "2023-05-19, 11:50:00",
+      "https://news.ycombinator.com/item?id=36000631"
     ],
     [
-      "New ZIP domains spark debate among cybersecurity experts",
-      "https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/"
+      "Google Photorealistic 3D Tiles and Unreal Engine",
+      "https://nilsbakker.nl/portfolio/3d-tiles/"
     ]
   ],
   [
@@ -41,32 +41,12 @@
   ],
   [
     [
-      "2023-05-19, 11:14:28",
-      "https://news.ycombinator.com/item?id=36000242"
-    ],
-    [
-      "In Rust, for memory, you don&#x27;t pay as you go, everyone has to pay all the time",
-      "https://signalsandthreads.com/future-of-programming/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 11:14:01",
       "https://news.ycombinator.com/item?id=36000238"
     ],
     [
       "CppCon 2022 Best Practices Every C++ Programmer Needs to Follow – Oz Syed",
       "https://isocpp.org//blog/2023/05/cppcon-2022-best-practices-every-cpp-programmer-needs-to-follow-oz-syed"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 11:13:14",
-      "https://news.ycombinator.com/item?id=36000230"
-    ],
-    [
-      "Google Is Spared a Search-Engine Switch by a Major Partner",
-      "https://www.wsj.com/articles/google-is-spared-a-search-engine-switch-by-a-major-partner-f06b734f"
     ]
   ],
   [
@@ -101,12 +81,62 @@
   ],
   [
     [
+      "2023-05-19, 10:48:03",
+      "https://news.ycombinator.com/item?id=36000027"
+    ],
+    [
+      "Send a message to teams channel on Linux server SSH connexion",
+      "https://github.com/Blue-Secure/ssh-login-teams-alert-webhook"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 10:35:22",
       "https://news.ycombinator.com/item?id=35999950"
     ],
     [
       "Cities Aren&#x27;t Loud: Cars Are Loud (2021) [video]",
       "https://www.youtube.com/watch?v=CTV-wwszGw8"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 10:29:00",
+      "https://news.ycombinator.com/item?id=35999910"
+    ],
+    [
+      "The Most Important Test You’ve Never Heard Of",
+      "https://davidzweig.substack.com/p/the-most-important-test-youve-never"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 10:27:00",
+      "https://news.ycombinator.com/item?id=35999896"
+    ],
+    [
+      "AI Submissions to Clarkesworld Continue",
+      "http://neil-clarke.com/it-continues/"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 10:17:11",
+      "https://news.ycombinator.com/item?id=35999835"
+    ],
+    [
+      "Orb Farm",
+      "https://orb.farm/"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 10:14:36",
+      "https://news.ycombinator.com/item?id=35999822"
+    ],
+    [
+      "Way to get NVM working in CI&#x2F;CD systems",
+      "https://timor.site/2023/04/the-best-way-to-get-nvm-working-in-ci/cd-systems/"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2023-05-18, 15:25:11",
-      "https://news.ycombinator.com/item?id=35989311"
-    ],
-    [
-      "20 Years of Gentoo",
-      "https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 04:05:16",
       "https://news.ycombinator.com/item?id=35984021"
     ],
@@ -247,16 +267,6 @@
     [
       "Code Generator for SQLite",
       "https://cgsql.dev/"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 20:05:01",
-      "https://news.ycombinator.com/item?id=35980543"
-    ],
-    [
-      "Tracking Blocked Scripts",
-      "https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-05-16, 23:51:50",
-      "https://news.ycombinator.com/item?id=35969420"
+      "2023-05-16, 20:16:53",
+      "https://news.ycombinator.com/item?id=35967174"
     ],
     [
-      "Bitwise Binary Search: Elegant and Fast",
-      "https://orlp.net/blog/bitwise-binary-search/"
-    ]
-  ],
-  [
-    [
-      "2023-05-16, 22:43:03",
-      "https://news.ycombinator.com/item?id=35968754"
-    ],
-    [
-      "From 0 to glTF with WebGPU: Rendering the first glTF mesh",
-      "https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh"
+      "Software Design Review (2009)",
+      "https://philip.greenspun.com/software/design-review"
     ]
   ]
 ]
