@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 15:37:56](https://news.ycombinator.com/item?id=36003187) - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
 * [2023-05-19, 15:31:40](https://news.ycombinator.com/item?id=36003127) - [New York City is sinking due to weight of its skyscrapers, new research finds](https://www.theguardian.com/us-news/2023/may/19/new-york-city-sinking-skyscrapers-climate-crisis)
 * [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 * [2023-05-19, 15:02:18](https://news.ycombinator.com/item?id=36002784) - [AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
+* [2023-05-19, 14:52:52](https://news.ycombinator.com/item?id=36002667) - [CodeWeavers Now Controlled by an Employee Ownership Trust](https://www.phoronix.com/news/CodeWeavers-Employee-Trust)
 * [2023-05-19, 14:44:40](https://news.ycombinator.com/item?id=36002574) - [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
 * [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
 * [2023-05-19, 14:13:38](https://news.ycombinator.com/item?id=36002215) - [Last update of Safari has problems displaying JPEGs](https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/)
