@@ -31,6 +31,7 @@
 * [2023-05-17, 17:50:07](https://news.ycombinator.com/item?id=35978864) - [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers)
 * [2023-05-17, 17:42:15](https://news.ycombinator.com/item?id=35978757) - [Understanding Database Indexes in PostgreSQL](https://blog.mastermind.dev/indexes-in-postgresql)
 * [2023-05-17, 17:30:30](https://news.ycombinator.com/item?id=35978575) - [Astmaker – A DSL in Rust for programming language designers](https://david-delassus.medium.com/astmaker-a-dsl-in-rust-for-programming-language-designers-99691a00b831)
+* [2023-05-17, 17:25:06](https://news.ycombinator.com/item?id=35978486) - [Updating my website from my iPad](https://dddiaz.com/post/blog-from-ipad/)
 * [2023-05-17, 17:22:19](https://news.ycombinator.com/item?id=35978445) - [Google Analytics 4 Has Me So Frustrated, We Built Our Own Analytics Service](https://requestmetrics.com/blog/product/google-analytics-4-has-me-so-frustrated-we-built-our-own-analytics-service/)
 * [2023-05-17, 17:05:34](https://news.ycombinator.com/item?id=35978217) - [SkiFree has been recompiled using VS2019 for modern Windows](https://ski.ihoc.net/#download)
 * [2023-05-17, 17:00:29](https://news.ycombinator.com/item?id=35978151) - [Retool (YC W17) is hiring hackers to combine visual programming with AI](https://news.ycombinator.com/item?id=35978151)
