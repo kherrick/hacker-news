@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-05-18, 08:09:42",
-      "https://news.ycombinator.com/item?id=35985224"
-    ],
-    [
-      "The Case for Bash (2021)",
-      "https://www.neversaw.us/2021/04/02/the-case-for-bash/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 06:04:19",
       "https://news.ycombinator.com/item?id=35984560"
     ],
@@ -297,6 +287,16 @@
     [
       "Bitwise Binary Search: Elegant and Fast",
       "https://orlp.net/blog/bitwise-binary-search/"
+    ]
+  ],
+  [
+    [
+      "2023-05-16, 22:43:03",
+      "https://news.ycombinator.com/item?id=35968754"
+    ],
+    [
+      "From 0 to glTF with WebGPU: Rendering the first glTF mesh",
+      "https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh"
     ]
   ]
 ]
