@@ -24,12 +24,12 @@
 * [2023-05-18, 14:00:42](https://news.ycombinator.com/item?id=35988046) - [CRDT-richtext: Rust implementation of Peritext and Fugue](https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0)
 * [2023-05-18, 13:25:36](https://news.ycombinator.com/item?id=35987545) - [Apple’s new headset meets reality](https://www.bloomberg.com/news/features/2023-05-18/apple-s-mixed-reality-headset-may-define-tim-cook-s-legacy)
 * [2023-05-18, 13:21:00](https://news.ycombinator.com/item?id=35987481) - [Apple dives into display-making to cut reliance on Samsung](https://asia.nikkei.com/Spotlight/Supply-Chain/Apple-dives-into-display-making-to-cut-reliance-on-Samsung)
-* [2023-05-18, 08:09:42](https://news.ycombinator.com/item?id=35985224) - [The Case for Bash (2021)](https://www.neversaw.us/2021/04/02/the-case-for-bash/)
 * [2023-05-18, 06:04:19](https://news.ycombinator.com/item?id=35984560) - [Bruno Schulz: An Artist, a Murder, and the Hijacking of History](https://www.theguardian.com/books/2023/may/14/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-review-extraordinary-mind-cruel-death)
 * [2023-05-17, 22:02:29](https://news.ycombinator.com/item?id=35981828) - [Code Generator for SQLite](https://cgsql.dev/)
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
 * [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
+* [2023-05-16, 22:43:03](https://news.ycombinator.com/item?id=35968754) - [From 0 to glTF with WebGPU: Rendering the first glTF mesh](https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh)
 
 ## [Archives](archives/index.md)
 
