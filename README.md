@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 13:44:21](https://news.ycombinator.com/item?id=36001871) - [U.S. prison labor programs violate fundamental human rights, new report finds](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
+* [2023-05-19, 13:22:35](https://news.ycombinator.com/item?id=36001623) - [‘Eternal’ Guantanamo prisoner tells of decades of US torture](https://www.thecanary.co/uk/analysis/2023/05/19/eternal-guantanamo-prisoner-tells-of-decades-of-us-torture/)
 * [2023-05-19, 13:12:00](https://news.ycombinator.com/item?id=36001509) - [Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
@@ -10,7 +12,6 @@
 * [2023-05-19, 11:05:38](https://news.ycombinator.com/item?id=36000156) - [Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple bans ChatGPT use by employees, report says](https://mashable.com/article/apple-chatgpt-employee-ban-report)
 * [2023-05-19, 10:48:03](https://news.ycombinator.com/item?id=36000027) - [Send a message to teams channel on Linux server SSH connexion](https://github.com/Blue-Secure/ssh-login-teams-alert-webhook)
-* [2023-05-19, 10:35:22](https://news.ycombinator.com/item?id=35999950) - [Cities Aren&#x27;t Loud: Cars Are Loud (2021) [video]](https://www.youtube.com/watch?v=CTV-wwszGw8)
 * [2023-05-19, 10:27:00](https://news.ycombinator.com/item?id=35999896) - [AI Submissions to Clarkesworld Continue](http://neil-clarke.com/it-continues/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 10:14:36](https://news.ycombinator.com/item?id=35999822) - [Way to get NVM working in CI&#x2F;CD systems](https://timor.site/2023/04/the-best-way-to-get-nvm-working-in-ci/cd-systems/)
@@ -25,7 +26,6 @@
 * [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 04:05:16](https://news.ycombinator.com/item?id=35984021) - [A statistical analysis of the work of Bob Ross (2014)](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
-* [2023-05-17, 22:02:29](https://news.ycombinator.com/item?id=35981828) - [Code Generator for SQLite](https://cgsql.dev/)
 * [2023-05-17, 17:31:49](https://news.ycombinator.com/item?id=35978593) - [How&#x27;s business at Stack Overflow?](https://jlericson.com/2023/05/17/so_business.html)
 * [2023-05-17, 17:25:06](https://news.ycombinator.com/item?id=35978486) - [Updating my website from my iPad](https://dddiaz.com/post/blog-from-ipad/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)

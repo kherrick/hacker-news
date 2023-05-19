@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 13:44:21](https://news.ycombinator.com/item?id=36001871) - [U.S. prison labor programs violate fundamental human rights, new report finds](https://news.uchicago.edu/story/us-prison-labor-programs-violate-fundamental-human-rights-new-report-finds)
+* [2023-05-19, 13:22:35](https://news.ycombinator.com/item?id=36001623) - [‘Eternal’ Guantanamo prisoner tells of decades of US torture](https://www.thecanary.co/uk/analysis/2023/05/19/eternal-guantanamo-prisoner-tells-of-decades-of-us-torture/)
 * [2023-05-19, 13:12:00](https://news.ycombinator.com/item?id=36001509) - [Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)
 * [2023-05-19, 12:46:55](https://news.ycombinator.com/item?id=36001238) - [Possible toxicity of chronic CO2 exposure associated with face mask use [pdf]](https://www.cell.com/heliyon/pdf/S2405-8440(23)01324-5.pdf)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
