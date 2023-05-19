@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-05-19, 17:27:26",
+      "https://news.ycombinator.com/item?id=36004553"
+    ],
+    [
+      "I wrote a GameBoy emulator for my hobby OS",
+      "https://axleos.com/writing-axles-gameboy-emulator/"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 16:18:29",
       "https://news.ycombinator.com/item?id=36003661"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-05-19, 11:15:42",
-      "https://news.ycombinator.com/item?id=36000260"
-    ],
-    [
-      "Typescale: A tool for easy CSS typography",
-      "https://typescale.com"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 10:17:11",
       "https://news.ycombinator.com/item?id=35999835"
     ],
@@ -247,6 +247,16 @@
     [
       "The Future of Programming – Interview with Richard Eisenberg",
       "https://signalsandthreads.com/future-of-programming/"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 18:04:11",
+      "https://news.ycombinator.com/item?id=35991783"
+    ],
+    [
+      "Show HN: Swap.js – a JavaScript micro-framework (HTML fragments over the wire)",
+      "https://github.com/josephernest/Swap"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Logitech iFeel Mouses (2001)",
       "http://www.dansdata.com/ifeel.htm"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 07:44:55",
-      "https://news.ycombinator.com/item?id=35972359"
-    ],
-    [
-      "DM32 – a modern take on the HP-32SII calculator",
-      "https://www.swissmicros.com/product/model-dm32"
     ]
   ]
 ]
