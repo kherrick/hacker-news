@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
 * [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
 * [2023-05-19, 19:18:53](https://news.ycombinator.com/item?id=36005787) - [US Air Force Shoots Down Drone Swarm with THOR Microwave Weapon](https://www.thedefensepost.com/2023/05/18/us-drone-swarm-thor/)
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
@@ -19,7 +20,6 @@
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 * [2023-05-19, 11:15:42](https://news.ycombinator.com/item?id=36000260) - [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
-* [2023-05-19, 11:05:38](https://news.ycombinator.com/item?id=36000156) - [Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 08:56:54](https://news.ycombinator.com/item?id=35999438) - [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) is hiring a first product designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)

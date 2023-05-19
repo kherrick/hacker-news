@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
 * [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
 * [2023-05-19, 19:18:53](https://news.ycombinator.com/item?id=36005787) - [US Air Force Shoots Down Drone Swarm with THOR Microwave Weapon](https://www.thedefensepost.com/2023/05/18/us-drone-swarm-thor/)
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
