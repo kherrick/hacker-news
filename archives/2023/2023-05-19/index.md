@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 15:31:40](https://news.ycombinator.com/item?id=36003127) - [New York City is sinking due to weight of its skyscrapers, new research finds](https://www.theguardian.com/us-news/2023/may/19/new-york-city-sinking-skyscrapers-climate-crisis)
 * [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 * [2023-05-19, 15:02:18](https://news.ycombinator.com/item?id=36002784) - [AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)

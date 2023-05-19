@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 15:31:40](https://news.ycombinator.com/item?id=36003127) - [New York City is sinking due to weight of its skyscrapers, new research finds](https://www.theguardian.com/us-news/2023/may/19/new-york-city-sinking-skyscrapers-climate-crisis)
 * [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 * [2023-05-19, 15:02:18](https://news.ycombinator.com/item?id=36002784) - [Here’s How AI Will Come for Your Job](https://www.theatlantic.com/technology/archive/2023/05/ai-chatgpt-productivity-work/674090/)
@@ -16,7 +17,6 @@
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple Restricts Employee Use of ChatGPT, Joining Other Companies Wary of Leaks](https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34)
 * [2023-05-19, 10:48:03](https://news.ycombinator.com/item?id=36000027) - [Send a message to teams channel on Linux server SSH connexion](https://github.com/Blue-Secure/ssh-login-teams-alert-webhook)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
-* [2023-05-19, 10:14:36](https://news.ycombinator.com/item?id=35999822) - [Way to get NVM working in CI&#x2F;CD systems](https://timor.site/2023/04/the-best-way-to-get-nvm-working-in-ci/cd-systems/)
 * [2023-05-19, 08:56:54](https://news.ycombinator.com/item?id=35999438) - [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
 * [2023-05-19, 08:24:08](https://news.ycombinator.com/item?id=35999237) - [With new trade deal, Big Tech wants to be above the law](https://proton.me/blog/big-tech-ipef)
 * [2023-05-19, 07:09:08](https://news.ycombinator.com/item?id=35998716) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
