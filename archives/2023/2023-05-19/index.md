@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 11:23:58](https://news.ycombinator.com/item?id=36000349) - [New ZIP domains spark debate among cybersecurity experts](https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/)
 * [2023-05-19, 11:22:03](https://news.ycombinator.com/item?id=36000332) - [First Solar Bike Path in Germany Is Now Live](https://cleantechnica.com/2023/05/16/1st-solar-bike-path-in-germany-is-now-live/)
 * [2023-05-19, 11:20:00](https://news.ycombinator.com/item?id=36000310) - [Poll: Do you get along with your parents?](https://news.ycombinator.com/item?id=36000310)
 * [2023-05-19, 11:15:42](https://news.ycombinator.com/item?id=36000260) - [Typescale: A Tool for Easy CSS Typography](https://typescale.com)
 * [2023-05-19, 11:14:28](https://news.ycombinator.com/item?id=36000242) - [In Rust, for memory, you don&#x27;t pay as you go, everyone has to pay all the time](https://signalsandthreads.com/future-of-programming/)
+* [2023-05-19, 11:14:01](https://news.ycombinator.com/item?id=36000238) - [CppCon 2022 Best Practices Every C++ Programmer Needs to Follow – Oz Syed](https://isocpp.org//blog/2023/05/cppcon-2022-best-practices-every-cpp-programmer-needs-to-follow-oz-syed)
 * [2023-05-19, 11:13:14](https://news.ycombinator.com/item?id=36000230) - [Google Is Spared a Search-Engine Switch by a Major Partner](https://www.wsj.com/articles/google-is-spared-a-search-engine-switch-by-a-major-partner-f06b734f)
+* [2023-05-19, 11:12:24](https://news.ycombinator.com/item?id=36000221) - [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 11:05:38](https://news.ycombinator.com/item?id=36000156) - [Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple bans ChatGPT use by employees, report says](https://mashable.com/article/apple-chatgpt-employee-ban-report)
 * [2023-05-19, 10:35:22](https://news.ycombinator.com/item?id=35999950) - [Cities Aren&#x27;t Loud: Cars Are Loud](https://www.youtube.com/watch?v=CTV-wwszGw8)
