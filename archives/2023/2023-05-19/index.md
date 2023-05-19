@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 11:22:03](https://news.ycombinator.com/item?id=36000332) - [First Solar Bike Path in Germany Is Now Live](https://cleantechnica.com/2023/05/16/1st-solar-bike-path-in-germany-is-now-live/)
+* [2023-05-19, 11:20:00](https://news.ycombinator.com/item?id=36000310) - [Poll: Do you get along with your parents?](https://news.ycombinator.com/item?id=36000310)
+* [2023-05-19, 11:14:28](https://news.ycombinator.com/item?id=36000242) - [In Rust, for memory, you don&#x27;t pay as you go, everyone has to pay all the time](https://signalsandthreads.com/future-of-programming/)
+* [2023-05-19, 11:05:38](https://news.ycombinator.com/item?id=36000156) - [Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
+* [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple bans ChatGPT use by employees, report says](https://mashable.com/article/apple-chatgpt-employee-ban-report)
 * [2023-05-19, 10:35:22](https://news.ycombinator.com/item?id=35999950) - [Cities Aren&#x27;t Loud: Cars Are Loud](https://www.youtube.com/watch?v=CTV-wwszGw8)
 * [2023-05-19, 09:46:34](https://news.ycombinator.com/item?id=35999670) - [Raspberry Pi CEO Eben Upton Discusses Stock Updates, Industry Prioritization](https://www.tomshardware.com/news/raspberry-pi-ceo-eben-upton-discusses-stock-updates-industry-prioritization)
 * [2023-05-19, 09:31:18](https://news.ycombinator.com/item?id=35999595) - [Can America Go Car-Free? Gen Z Hopes So](https://www.thenation.com/article/activism/young-people-driving-safety-cost-climate-change-public-transportation/)
