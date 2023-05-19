@@ -76,6 +76,7 @@
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms](https://www.jezzamon.com/fourier/)
 * [2023-05-17, 10:20:30](https://news.ycombinator.com/item?id=35973366) - [UK: No-fault evictions to be banned in reform of rental sector](https://www.bbc.co.uk/news/uk-politics-65612842)
 * [2023-05-17, 10:03:48](https://news.ycombinator.com/item?id=35973265) - [Pandas AI – The Future of Data Analysis](https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f)
+* [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 09:38:02](https://news.ycombinator.com/item?id=35973093) - [Planned obsolescence: Apple attacked for the “serialization” of its spare parts](https://www.lemonde.fr/pixels/article/2023/05/17/obsolescence-programmee-apple-attaquee-pour-la-serialisation-de-ses-pieces-detachees_6173705_4408996.html)
 * [2023-05-17, 09:30:13](https://news.ycombinator.com/item?id=35973016) - [Framework Laptop 13 Review](https://www.theguardian.com/technology/2023/may/17/framework-laptop-13-review-modular-pc-upgrade-performance)
 * [2023-05-17, 08:57:08](https://news.ycombinator.com/item?id=35972774) - [Slack Is Down](https://slack.com)
