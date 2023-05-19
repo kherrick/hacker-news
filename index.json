@@ -5,8 +5,18 @@
       "https://news.ycombinator.com/item?id=35998411"
     ],
     [
-      "Want to build your own graphics and audio hardware?",
+      "MegaWang 2000 Turbo Edition hardware",
       "https://martin-piper.itch.io/bomb-jack-display-hardware"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 05:03:36",
+      "https://news.ycombinator.com/item?id=35997975"
+    ],
+    [
+      "Ask HN: Is Moore&#x27;s Law over, or not?",
+      "https://news.ycombinator.com/item?id=35997975"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "High-performance tidy trees visualization (2022)",
       "https://www.zxch3n.com/tidy/tidy/"
-    ]
-  ],
-  [
-    [
-      "2023-05-18, 21:05:26",
-      "https://news.ycombinator.com/item?id=35994037"
-    ],
-    [
-      "CLI tools for working with ChatGPT and other LLMs",
-      "https://simonwillison.net/2023/May/18/cli-tools-for-llms/"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-05-18, 16:00:14",
-      "https://news.ycombinator.com/item?id=35989911"
-    ],
-    [
-      "Unit Testing eBPF Programs",
-      "https://who.ldelossa.is/posts/unit-testing-ebpf/"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 16:00:06",
       "https://news.ycombinator.com/item?id=35989909"
     ],
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2023-05-18, 15:33:13",
-      "https://news.ycombinator.com/item?id=35989462"
+      "2023-05-18, 15:32:08",
+      "https://news.ycombinator.com/item?id=35989440"
     ],
     [
-      "The Great CPU Stagnation",
-      "http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html"
+      "Spacetop, a radical laptop with no screen",
+      "https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "An Interactive Introduction to Fourier Transforms (2019)",
       "https://www.jezzamon.com/fourier/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 09:45:53",
+      "https://news.ycombinator.com/item?id=35973151"
+    ],
+    [
+      "Managing State with Signals",
+      "https://tonsky.me/blog/humble-signals/"
     ]
   ],
   [
