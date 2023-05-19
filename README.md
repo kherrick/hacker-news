@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-19, 13:12:00](https://news.ycombinator.com/item?id=36001509) - [Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)
+* [2023-05-19, 13:08:47](https://news.ycombinator.com/item?id=36001474) - [D1: We turned it up to 11](https://blog.cloudflare.com/d1-turning-it-up-to-11/)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
@@ -14,7 +15,6 @@
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 10:14:36](https://news.ycombinator.com/item?id=35999822) - [Way to get NVM working in CI&#x2F;CD systems](https://timor.site/2023/04/the-best-way-to-get-nvm-working-in-ci/cd-systems/)
 * [2023-05-19, 08:56:54](https://news.ycombinator.com/item?id=35999438) - [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
-* [2023-05-19, 08:50:12](https://news.ycombinator.com/item?id=35999394) - [Microsoft decides it will be the one to choose which secure login method you use](https://www.theregister.com/2023/05/18/microsoft_azure_system_authentication/)
 * [2023-05-19, 08:24:08](https://news.ycombinator.com/item?id=35999237) - [With new trade deal, Big Tech wants to be above the law](https://proton.me/blog/big-tech-ipef)
 * [2023-05-19, 07:35:29](https://news.ycombinator.com/item?id=35998882) - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
 * [2023-05-19, 07:09:08](https://news.ycombinator.com/item?id=35998716) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
@@ -28,7 +28,7 @@
 * [2023-05-17, 22:02:29](https://news.ycombinator.com/item?id=35981828) - [Code Generator for SQLite](https://cgsql.dev/)
 * [2023-05-17, 17:25:06](https://news.ycombinator.com/item?id=35978486) - [Updating my website from my iPad](https://dddiaz.com/post/blog-from-ipad/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
-* [2023-05-16, 22:43:03](https://news.ycombinator.com/item?id=35968754) - [From 0 to glTF with WebGPU: Rendering the first glTF mesh](https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh)
+* [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
 * [2023-05-16, 20:16:53](https://news.ycombinator.com/item?id=35967174) - [Software Design Review (2009)](https://philip.greenspun.com/software/design-review)
 
 ## [Archives](archives/index.md)
