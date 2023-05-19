@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
+* [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
+* [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 * [2023-05-19, 11:23:58](https://news.ycombinator.com/item?id=36000349) - [New ZIP domains spark debate among cybersecurity experts](https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/)
 * [2023-05-19, 11:22:03](https://news.ycombinator.com/item?id=36000332) - [First Solar Bike Path in Germany Is Now Live](https://cleantechnica.com/2023/05/16/1st-solar-bike-path-in-germany-is-now-live/)
 * [2023-05-19, 11:20:00](https://news.ycombinator.com/item?id=36000310) - [Poll: Do you get along with your parents?](https://news.ycombinator.com/item?id=36000310)
@@ -23,6 +25,7 @@
 * [2023-05-19, 10:14:36](https://news.ycombinator.com/item?id=35999822) - [Way to get NVM working in CI&#x2F;CD systems](https://timor.site/2023/04/the-best-way-to-get-nvm-working-in-ci/cd-systems/)
 * [2023-05-19, 09:46:34](https://news.ycombinator.com/item?id=35999670) - [Raspberry Pi CEO Eben Upton Discusses Stock Updates, Industry Prioritization](https://www.tomshardware.com/news/raspberry-pi-ceo-eben-upton-discusses-stock-updates-industry-prioritization)
 * [2023-05-19, 09:31:18](https://news.ycombinator.com/item?id=35999595) - [Can America Go Car-Free? Gen Z Hopes So](https://www.thenation.com/article/activism/young-people-driving-safety-cost-climate-change-public-transportation/)
+* [2023-05-19, 08:56:54](https://news.ycombinator.com/item?id=35999438) - [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
 * [2023-05-19, 08:50:12](https://news.ycombinator.com/item?id=35999394) - [Microsoft decides it will be the one to choose which secure login method you use](https://www.theregister.com/2023/05/18/microsoft_azure_system_authentication/)
 * [2023-05-19, 08:24:08](https://news.ycombinator.com/item?id=35999237) - [With new trade deal, Big Tech wants to be above the law](https://proton.me/blog/big-tech-ipef)
 * [2023-05-19, 07:41:18](https://news.ycombinator.com/item?id=35998913) - [The proto-fascism of Elon Musk](https://nickcohen.substack.com/p/the-proto-fasicsm-of-elon-musk)
