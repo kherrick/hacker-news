@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-19, 03:23:00](https://news.ycombinator.com/item?id=35997351) - [Visa and Mastercard agree to lower average credit card interchange fee below 1%](https://ca.news.yahoo.com/visa-mastercard-agree-lower-average-193615680.html)
+* [2023-05-19, 03:13:59](https://news.ycombinator.com/item?id=35997301) - [Supreme Court Won’t Hold Tech Companies Liable for User Posts](https://www.nytimes.com/2023/05/18/us/politics/supreme-court-google-twitter-230.html)
 * [2023-05-19, 03:04:42](https://news.ycombinator.com/item?id=35997243) - [I lived in LA and commuted to Berkeley by plane to save on rent](https://old.reddit.com/r/berkeley/comments/13hv95y/i_survived_living_in_la_and_commuting_to_cal_by/)
 * [2023-05-18, 23:48:13](https://news.ycombinator.com/item?id=35995959) - [A $200 mini-laptop with a Intel 8088 chip and 640KB](https://liliputing.com/past-meets-present-in-this-200-mini-laptop-with-a-intel-8088-chip-and-640kb-of-memory/)
 * [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
@@ -27,7 +28,6 @@
 * [2023-05-18, 06:04:19](https://news.ycombinator.com/item?id=35984560) - [Bruno Schulz: An Artist, a Murder, and the Hijacking of History](https://www.theguardian.com/books/2023/may/14/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-review-extraordinary-mind-cruel-death)
 * [2023-05-17, 22:02:29](https://news.ycombinator.com/item?id=35981828) - [Code Generator for SQLite](https://cgsql.dev/)
 * [2023-05-17, 10:26:18](https://news.ycombinator.com/item?id=35973408) - [An Interactive Introduction to Fourier Transforms (2019)](https://www.jezzamon.com/fourier/)
-* [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
 * [2023-05-16, 23:51:50](https://news.ycombinator.com/item?id=35969420) - [Bitwise Binary Search: Elegant and Fast](https://orlp.net/blog/bitwise-binary-search/)
 * [2023-05-16, 22:43:03](https://news.ycombinator.com/item?id=35968754) - [From 0 to glTF with WebGPU: Rendering the first glTF mesh](https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh)
 
