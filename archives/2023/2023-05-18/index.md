@@ -29,6 +29,7 @@
 * [2023-05-18, 18:33:09](https://news.ycombinator.com/item?id=35992183) - [Pronatalism and Silicon Valley’s Right-Wing Turn](https://www.techwontsave.us/episode/168_pronatalism_and_silicon_valleys_right_wing_turn_w_julia_black)
 * [2023-05-18, 18:06:01](https://news.ycombinator.com/item?id=35991811) - [Sniffnet: Open-source, cross platform application to monitor network traffic](https://github.com/GyulyVGC/sniffnet)
 * [2023-05-18, 18:04:58](https://news.ycombinator.com/item?id=35991791) - [ChatGPT vs. open source on harder tasks](https://github.com/microsoft/guidance/blob/main/notebooks/chatgpt_vs_open_source_on_harder_tasks.ipynb)
+* [2023-05-18, 18:04:11](https://news.ycombinator.com/item?id=35991783) - [Show HN: Swap.js – a JavaScript micro-framework (HTML fragments over the wire)](https://github.com/josephernest/Swap)
 * [2023-05-18, 18:02:53](https://news.ycombinator.com/item?id=35991764) - [Another reason to stop using gas](https://protonsforbreakfast.wordpress.com/2022/03/06/another-reason-to-stop-using-gas/)
 * [2023-05-18, 17:59:43](https://news.ycombinator.com/item?id=35991725) - [Supreme Court Rules Andy Warhol’s Prince Art Is Copyright Infringement](https://petapixel.com/2023/05/18/supreme-court-rules-andy-warhols-prince-art-is-copyright-infringement/)
 * [2023-05-18, 17:57:01](https://news.ycombinator.com/item?id=35991684) - [Zig now has built-in HTTP server and client in std](https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig)

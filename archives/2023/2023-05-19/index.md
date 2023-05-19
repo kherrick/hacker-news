@@ -29,6 +29,7 @@
 * [2023-05-19, 17:45:28](https://news.ycombinator.com/item?id=36004762) - [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
 * [2023-05-19, 17:43:40](https://news.ycombinator.com/item?id=36004743) - [Uber attempting to reduce office space in SF &#x2F; 31% of office leases open](https://www.sfchronicle.com/sf/article/uber-headquarters-san-francisco-office-space-lease-18108419.php)
 * [2023-05-19, 17:28:52](https://news.ycombinator.com/item?id=36004574) - [Anti-Piracy Program Accused of Violating Citizens’ Fundamental Rights in France](https://torrentfreak.com/anti-piracy-program-accused-of-violating-citizens-fundamental-rights-230519/)
+* [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS](https://axleos.com/writing-axles-gameboy-emulator/)
 * [2023-05-19, 17:13:53](https://news.ycombinator.com/item?id=36004401) - [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
 * [2023-05-19, 17:01:10](https://news.ycombinator.com/item?id=36004230) - [ChatGPT plugins Account Takeover via Prompt injection](https://rez0.blog/hacking/2023/05/19/prompt-injection-poc.html)
 * [2023-05-19, 16:51:09](https://news.ycombinator.com/item?id=36004077) - [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
