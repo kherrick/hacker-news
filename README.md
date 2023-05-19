@@ -8,7 +8,6 @@
 * [2023-05-19, 19:45:04](https://news.ycombinator.com/item?id=36006030) - [California’s Water Rights and Investment](https://onthepublicrecord.org/2009/04/29/california%e2%80%99s-water-rights-and-investment/)
 * [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
-* [2023-05-19, 18:32:39](https://news.ycombinator.com/item?id=36005311) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 18:01:56](https://news.ycombinator.com/item?id=36004980) - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
 * [2023-05-19, 17:45:28](https://news.ycombinator.com/item?id=36004762) - [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
@@ -28,6 +27,7 @@
 * [2023-05-18, 21:00:41](https://news.ycombinator.com/item?id=35993993) - [The Future of Programming – Interview with Richard Eisenberg](https://signalsandthreads.com/future-of-programming/)
 * [2023-05-18, 03:30:57](https://news.ycombinator.com/item?id=35983878) - [Having metrics for something attracts your attention to it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MetricsAttractAttention)
 * [2023-05-17, 23:57:17](https://news.ycombinator.com/item?id=35982726) - [The Birth of Brainstorming](https://www.laphamsquarterly.org/roundtable/birth-brainstorming)
+* [2023-05-17, 14:54:52](https://news.ycombinator.com/item?id=35976115) - [The two-century quest to quantify our senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
 * [2023-05-17, 09:30:11](https://news.ycombinator.com/item?id=35973015) - [Logitech iFeel Mouses (2001)](http://www.dansdata.com/ifeel.htm)
 * [2023-05-17, 00:00:38](https://news.ycombinator.com/item?id=35969485) - [The Pillar Box War](https://blog.plover.com/history/pillar-box-war.html)
 

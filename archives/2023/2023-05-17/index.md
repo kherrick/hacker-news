@@ -48,6 +48,7 @@
 * [2023-05-17, 15:19:34](https://news.ycombinator.com/item?id=35976563) - [Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/)
 * [2023-05-17, 15:19:07](https://news.ycombinator.com/item?id=35976557) - [Wizards of the Coast Raids YouTuber’s House to Take Back Magic Cards](https://kotaku.com/mtg-aftermath-leaks-pinkertons-wotc-magic-the-gathering-1850368923)
 * [2023-05-17, 15:13:53](https://news.ycombinator.com/item?id=35976488) - [Show HN: Beepberry – a portable e-paper computer for hackers](https://beepberry.sqfmi.com/)
+* [2023-05-17, 14:54:52](https://news.ycombinator.com/item?id=35976115) - [The two-century quest to quantify our senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
 * [2023-05-17, 14:45:51](https://news.ycombinator.com/item?id=35975943) - [Stripe shut our microbiology conference account down for adult content?](https://news.ycombinator.com/item?id=35975943)
 * [2023-05-17, 14:41:41](https://news.ycombinator.com/item?id=35975880) - [The Regenerating Power of Big Basin’s Redwoods](https://worldsensorium.com/the-regenerating-power-of-big-basins-redwoods/)
 * [2023-05-17, 14:29:48](https://news.ycombinator.com/item?id=35975690) - [U.S. Depression Rates Reach New Highs](https://news.gallup.com/poll/505745/depression-rates-reach-new-highs.aspx)
