@@ -93,6 +93,7 @@
 * [2023-05-18, 04:06:38](https://news.ycombinator.com/item?id=35984028) - [The Work of the Audiobook](https://lareviewofbooks.org/article/the-work-of-the-audiobook/)
 * [2023-05-18, 04:05:16](https://news.ycombinator.com/item?id=35984021) - [A statistical analysis of the work of Bob Ross (2014)](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
 * [2023-05-18, 04:05:01](https://news.ycombinator.com/item?id=35984018) - [Roger&#x27;s little rule book (2008)](https://www.rogerebert.com/roger-ebert/rogers-little-rule-book)
+* [2023-05-18, 03:30:57](https://news.ycombinator.com/item?id=35983878) - [Having metrics for something attracts your attention to it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MetricsAttractAttention)
 * [2023-05-18, 03:30:40](https://news.ycombinator.com/item?id=35983876) - [(Graphical) Unix has always had desktop environments](https://utcc.utoronto.ca/~cks/space/blog/unix/DesktopsAlwaysThere)
 * [2023-05-18, 03:29:10](https://news.ycombinator.com/item?id=35983866) - [What happened with Asus routers this morning?](https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/)
 * [2023-05-18, 03:23:13](https://news.ycombinator.com/item?id=35983824) - [Has ChatGPT Been Neutered?](https://news.ycombinator.com/item?id=35983824)

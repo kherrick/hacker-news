@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
+* [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
 * [2023-05-19, 18:01:56](https://news.ycombinator.com/item?id=36004980) - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
 * [2023-05-19, 17:45:28](https://news.ycombinator.com/item?id=36004762) - [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
