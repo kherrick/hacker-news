@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
-* [2023-05-19, 21:25:21](https://news.ycombinator.com/item?id=36007033) - [Stanford professor says US is reverse-engineering downed UFOs](https://www.news.com.au/technology/science/space/stanford-professor-says-aliens-are-100-per-cent-on-earth-us-is-reverseengineering-downed-ufos/news-story/041694ef5df4791fbdfa303a08f34a9c)
+* [2023-05-19, 20:45:59](https://news.ycombinator.com/item?id=36006676) - [It’s Time to Embrace Slow Productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
 * [2023-05-19, 20:42:43](https://news.ycombinator.com/item?id=36006626) - [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 * [2023-05-19, 20:34:22](https://news.ycombinator.com/item?id=36006561) - [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
 * [2023-05-19, 20:24:59](https://news.ycombinator.com/item?id=36006446) - [Envisioning a Simplified Intel Architecture](https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html)
@@ -14,6 +14,7 @@
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to reality – executable essay](https://reality.mentat.org/essays/reality/introduction)
 * [2023-05-19, 18:32:39](https://news.ycombinator.com/item?id=36005311) - [User stories? thanks but no](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
+* [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more?](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
 * [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
 * [2023-05-19, 14:44:40](https://news.ycombinator.com/item?id=36002574) - [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
 * [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-source synthetic patient generation](https://synthetichealth.github.io/synthea/)
@@ -23,13 +24,12 @@
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 08:56:54](https://news.ycombinator.com/item?id=35999438) - [Satellites reveal widespread decline in global lake water storage](https://www.science.org/doi/10.1126/science.abo2812)
-* [2023-05-19, 07:11:47](https://news.ycombinator.com/item?id=35998731) - [Pushing through when no one cares](https://elpha.com/posts/vbuzm9rg/pushing-through-when-no-one-cares)
-* [2023-05-19, 06:58:09](https://news.ycombinator.com/item?id=35998649) - [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
 * [2023-05-18, 21:00:41](https://news.ycombinator.com/item?id=35993993) - [The Future of Programming – Interview with Richard Eisenberg](https://signalsandthreads.com/future-of-programming/)
-* [2023-05-18, 04:05:01](https://news.ycombinator.com/item?id=35984018) - [Roger&#x27;s little rule book (2008)](https://www.rogerebert.com/roger-ebert/rogers-little-rule-book)
+* [2023-05-18, 06:04:19](https://news.ycombinator.com/item?id=35984560) - [Bruno Schulz: An Artist, a Murder, and the Hijacking of History](https://www.theguardian.com/books/2023/may/14/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-review-extraordinary-mind-cruel-death)
 * [2023-05-18, 03:30:57](https://news.ycombinator.com/item?id=35983878) - [Having metrics for something attracts your attention to it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MetricsAttractAttention)
 * [2023-05-17, 23:57:17](https://news.ycombinator.com/item?id=35982726) - [The Birth of Brainstorming](https://www.laphamsquarterly.org/roundtable/birth-brainstorming)
 * [2023-05-17, 09:30:11](https://news.ycombinator.com/item?id=35973015) - [Logitech iFeel Mouses (2001)](http://www.dansdata.com/ifeel.htm)
+* [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
 
 ## [Archives](archives/index.md)
 
