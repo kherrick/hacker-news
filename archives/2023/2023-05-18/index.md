@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-18](index.md)
 
+* [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-18, 21:42:23](https://news.ycombinator.com/item?id=35994494) - [The American Dream convinces people loneliness is normal](https://english.elpais.com/usa/2023-05-16/how-the-american-dream-convinces-people-loneliness-is-normal.html)
 * [2023-05-18, 21:10:37](https://news.ycombinator.com/item?id=35994106) - [Bevy and WebGPU](https://bevyengine.org/news/bevy-webgpu/)
 * [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
@@ -81,6 +82,7 @@
 * [2023-05-18, 08:08:50](https://news.ycombinator.com/item?id=35985221) - [Where can I see Hokusai&#x27;s Great Wave today?](https://greatwavetoday.com)
 * [2023-05-18, 07:43:44](https://news.ycombinator.com/item?id=35985085) - [User Driven UI](https://garden.bradwoods.io/notes/design/user-driven-ui)
 * [2023-05-18, 07:13:02](https://news.ycombinator.com/item?id=35984928) - [One million cancel broadband as living costs rise (UK)](https://www.bbc.com/news/technology-65622403)
+* [2023-05-18, 06:04:19](https://news.ycombinator.com/item?id=35984560) - [Bruno Schulz: An Artist, a Murder, and the Hijacking of History](https://www.theguardian.com/books/2023/may/14/bruno-schulz-an-artist-a-murder-and-the-hijacking-of-history-benjamin-balint-review-extraordinary-mind-cruel-death)
 * [2023-05-18, 05:21:47](https://news.ycombinator.com/item?id=35984382) - [Elizabeth Holmes is going to prison – with a $500M bill](https://www.theregister.com/2023/05/17/elizabeth_holmes_prison/)
 * [2023-05-18, 05:07:18](https://news.ycombinator.com/item?id=35984302) - [Companies in Apple’s repair program say they can’t compete with tech giant](https://www.theguardian.com/technology/2023/may/18/we-are-losing-money-companies-in-apples-repair-program-say-they-cant-compete-with-tech-giant)
 * [2023-05-18, 04:22:33](https://news.ycombinator.com/item?id=35984101) - [ACM Sigplan ICFP will be in Seattle, WA, USA on 4–9 September 2023](https://icfp23.sigplan.org/)

@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-19](index.md)
+
+* [2023-05-19, 00:00:17](https://news.ycombinator.com/item?id=35996042) - [Stop Saying C&#x2F;C++](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/)
