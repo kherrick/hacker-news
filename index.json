@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2023-05-19, 03:13:59",
-      "https://news.ycombinator.com/item?id=35997301"
-    ],
-    [
-      "Supreme Court Won’t Hold Tech Companies Liable for User Posts",
-      "https://www.nytimes.com/2023/05/18/us/politics/supreme-court-google-twitter-230.html"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 03:04:42",
       "https://news.ycombinator.com/item?id=35997243"
     ],
     [
       "I lived in LA and commuted to Berkeley by plane to save on rent",
       "https://old.reddit.com/r/berkeley/comments/13hv95y/i_survived_living_in_la_and_commuting_to_cal_by/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 00:57:49",
-      "https://news.ycombinator.com/item?id=35996463"
-    ],
-    [
-      "Google banned me – open sourcing all my apps",
-      "https://old.reddit.com/r/androiddev/comments/13lf6jb/open_sourcing_all_my_apps_quitting_android_dev/"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2023-05-18, 19:42:03",
+      "https://news.ycombinator.com/item?id=35993044"
+    ],
+    [
+      "Windows XP Activation: Game Over",
+      "https://tinyapps.org/blog/202304230700_xp_wpa.html"
+    ]
+  ],
+  [
+    [
       "2023-05-18, 19:02:03",
       "https://news.ycombinator.com/item?id=35992553"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2023-05-18, 17:57:01",
-      "https://news.ycombinator.com/item?id=35991684"
-    ],
-    [
-      "Zig now has built-in HTTP server and client in std",
-      "https://github.com/ziglang/zig/blob/7cf2cbb33ef34c1d211135f56d30fe23b6cacd42/test/standalone/http.zig"
-    ]
-  ],
-  [
-    [
       "2023-05-18, 17:19:34",
       "https://news.ycombinator.com/item?id=35991196"
     ],
@@ -151,12 +131,12 @@
   ],
   [
     [
-      "2023-05-18, 16:40:46",
-      "https://news.ycombinator.com/item?id=35990552"
+      "2023-05-18, 16:00:14",
+      "https://news.ycombinator.com/item?id=35989911"
     ],
     [
-      "ChatGPT app for iOS",
-      "https://openai.com/blog/introducing-the-chatgpt-app-for-ios"
+      "Unit Testing eBPF Programs",
+      "https://who.ldelossa.is/posts/unit-testing-ebpf/"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "The Great CPU Stagnation",
       "http://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-18, 15:25:11",
+      "https://news.ycombinator.com/item?id=35989311"
+    ],
+    [
+      "20 Years of Gentoo",
+      "https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "An Interactive Introduction to Fourier Transforms (2019)",
       "https://www.jezzamon.com/fourier/"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 06:52:08",
+      "https://news.ycombinator.com/item?id=35972047"
+    ],
+    [
+      "Photomator for Mac",
+      "https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/"
     ]
   ],
   [
