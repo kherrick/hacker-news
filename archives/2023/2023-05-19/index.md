@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 16:51:09](https://news.ycombinator.com/item?id=36004077) - [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
 * [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
 * [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
 * [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)

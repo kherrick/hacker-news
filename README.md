@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 16:51:09](https://news.ycombinator.com/item?id=36004077) - [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
 * [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
 * [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
 * [2023-05-19, 16:08:36](https://news.ycombinator.com/item?id=36003576) - [The Next Generation in Graphics, Part 3: Software Meets Hardware](https://www.filfre.net/2023/05/the-next-generation-in-graphics-part-3-software-meets-hardware/)
@@ -14,7 +15,6 @@
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
 * [2023-05-19, 14:52:52](https://news.ycombinator.com/item?id=36002667) - [CodeWeavers Now Controlled by an Employee Ownership Trust](https://www.phoronix.com/news/CodeWeavers-Employee-Trust)
 * [2023-05-19, 14:44:40](https://news.ycombinator.com/item?id=36002574) - [FreeBSD spends 7% of its boot time running a bubblesort on its SYSINITs](https://twitter.com/cperciva/status/1659558311920914432)
-* [2023-05-19, 14:44:16](https://news.ycombinator.com/item?id=36002570) - [Sensible Security: concrete and evidence-informed cybersecurity for everyone](https://security.stolovitz.com/)
 * [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
 * [2023-05-19, 13:12:00](https://news.ycombinator.com/item?id=36001509) - [Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)
 * [2023-05-19, 13:07:41](https://news.ycombinator.com/item?id=36001465) - [LangChain: The Missing Manual](https://www.pinecone.io/learn/langchain/)
