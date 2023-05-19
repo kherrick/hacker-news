@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
 * [2023-05-19, 09:46:34](https://news.ycombinator.com/item?id=35999670) - [Raspberry Pi CEO Eben Upton Discusses Stock Updates, Industry Prioritization](https://www.tomshardware.com/news/raspberry-pi-ceo-eben-upton-discusses-stock-updates-industry-prioritization)
+* [2023-05-19, 09:31:18](https://news.ycombinator.com/item?id=35999595) - [Can America Go Car-Free? Gen Z Hopes So](https://www.thenation.com/article/activism/young-people-driving-safety-cost-climate-change-public-transportation/)
+* [2023-05-19, 08:50:12](https://news.ycombinator.com/item?id=35999394) - [Microsoft decides it will be the one to choose which secure login method you use](https://www.theregister.com/2023/05/18/microsoft_azure_system_authentication/)
 * [2023-05-19, 08:24:08](https://news.ycombinator.com/item?id=35999237) - [With new trade deal, Big Tech wants to be above the law](https://proton.me/blog/big-tech-ipef)
 * [2023-05-19, 07:41:18](https://news.ycombinator.com/item?id=35998913) - [The proto-fascism of Elon Musk](https://nickcohen.substack.com/p/the-proto-fasicsm-of-elon-musk)
 * [2023-05-19, 07:35:29](https://news.ycombinator.com/item?id=35998882) - [Andy Rourke: The Smiths bassist dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-65644596)
