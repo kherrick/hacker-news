@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 10:35:22](https://news.ycombinator.com/item?id=35999950) - [Cities Aren&#x27;t Loud: Cars Are Loud](https://www.youtube.com/watch?v=CTV-wwszGw8)
 * [2023-05-19, 09:46:34](https://news.ycombinator.com/item?id=35999670) - [Raspberry Pi CEO Eben Upton Discusses Stock Updates, Industry Prioritization](https://www.tomshardware.com/news/raspberry-pi-ceo-eben-upton-discusses-stock-updates-industry-prioritization)
 * [2023-05-19, 09:31:18](https://news.ycombinator.com/item?id=35999595) - [Can America Go Car-Free? Gen Z Hopes So](https://www.thenation.com/article/activism/young-people-driving-safety-cost-climate-change-public-transportation/)
 * [2023-05-19, 08:50:12](https://news.ycombinator.com/item?id=35999394) - [Microsoft decides it will be the one to choose which secure login method you use](https://www.theregister.com/2023/05/18/microsoft_azure_system_authentication/)

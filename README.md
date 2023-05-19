@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 10:35:22](https://news.ycombinator.com/item?id=35999950) - [Cities Aren&#x27;t Loud: Cars Are Loud](https://www.youtube.com/watch?v=CTV-wwszGw8)
 * [2023-05-19, 09:46:34](https://news.ycombinator.com/item?id=35999670) - [Raspberry Pi CEO Eben Upton Discusses Stock Updates, Industry Prioritization](https://www.tomshardware.com/news/raspberry-pi-ceo-eben-upton-discusses-stock-updates-industry-prioritization)
 * [2023-05-19, 09:31:18](https://news.ycombinator.com/item?id=35999595) - [Can America Go Car-Free? Gen Z Hopes So](https://www.thenation.com/article/activism/young-people-driving-safety-cost-climate-change-public-transportation/)
 * [2023-05-19, 08:50:12](https://news.ycombinator.com/item?id=35999394) - [Microsoft decides it will be the one to choose which secure login method you use](https://www.theregister.com/2023/05/18/microsoft_azure_system_authentication/)
@@ -15,7 +16,6 @@
 * [2023-05-18, 21:05:26](https://news.ycombinator.com/item?id=35994037) - [CLI tools for working with ChatGPT and other LLMs](https://simonwillison.net/2023/May/18/cli-tools-for-llms/)
 * [2023-05-18, 20:13:01](https://news.ycombinator.com/item?id=35993455) - [Recreating Medieval English Ales (1998)](https://www.cs.cmu.edu/~pwp/tofi/medieval_english_ale.html)
 * [2023-05-18, 19:42:03](https://news.ycombinator.com/item?id=35993044) - [Windows XP Activation: Game Over](https://tinyapps.org/blog/202304230700_xp_wpa.html)
-* [2023-05-18, 19:04:18](https://news.ycombinator.com/item?id=35992593) - [Linux Software Map](https://xteddy.org/lsm/)
 * [2023-05-18, 18:06:01](https://news.ycombinator.com/item?id=35991811) - [Sniffnet: Open-source, cross platform application to monitor network traffic](https://github.com/GyulyVGC/sniffnet)
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 15:32:08](https://news.ycombinator.com/item?id=35989440) - [Spacetop, a radical laptop with no screen](https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html)
