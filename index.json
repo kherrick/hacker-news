@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-19, 20:42:43",
+      "https://news.ycombinator.com/item?id=36006626"
+    ],
+    [
+      "PyTorch Primitives in WebGPU for the Browser",
+      "https://praeclarum.org/2023/05/19/webgpu-torch.html"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 20:35:01",
       "https://news.ycombinator.com/item?id=36006568"
     ],
@@ -137,16 +147,6 @@
     [
       "ChatGPT plugins Account Takeover via Prompt injection",
       "https://rez0.blog/hacking/2023/05/19/prompt-injection-poc.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 15:37:56",
-      "https://news.ycombinator.com/item?id=36003187"
-    ],
-    [
-      "US Supreme Court leaves protections for internet companies unscathed",
-      "https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/"
     ]
   ],
   [
