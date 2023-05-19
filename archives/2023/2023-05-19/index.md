@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 17:13:53](https://news.ycombinator.com/item?id=36004401) - [Product Quantization for Vector Search](https://zilliz.com/blog/scalar-quantization-and-product-quantization)
 * [2023-05-19, 16:51:09](https://news.ycombinator.com/item?id=36004077) - [Ask HN: Amazon account is suspended and I lost all tax documents. What to do?](https://news.ycombinator.com/item?id=36004077)
 * [2023-05-19, 16:30:23](https://news.ycombinator.com/item?id=36003791) - [Most Small Cars Are Unsafe for Backseat Passengers: IIHS](https://www.thedrive.com/news/most-small-cars-are-unsafe-for-backseat-passengers-iihs)
 * [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
