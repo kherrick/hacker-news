@@ -22,6 +22,7 @@
 * [2023-05-16, 20:48:06](https://news.ycombinator.com/item?id=35967549) - [Steam Now Offers 90-Minute Game Trials, Starting with Dead Space](https://www.gamespot.com/articles/steam-now-offers-90-minute-game-trials-starting-with-dead-space/1100-6514177/)
 * [2023-05-16, 20:40:47](https://news.ycombinator.com/item?id=35967458) - [The RedMonk Programming Language Rankings: January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/)
 * [2023-05-16, 20:33:47](https://news.ycombinator.com/item?id=35967381) - [Framework Laptop 13 review: a DIY dream come true](https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review)
+* [2023-05-16, 20:16:53](https://news.ycombinator.com/item?id=35967174) - [Software Design Review (2009)](https://philip.greenspun.com/software/design-review)
 * [2023-05-16, 19:53:34](https://news.ycombinator.com/item?id=35966890) - [What&#x27;s special about Erlang and Elixir?](https://news.ycombinator.com/item?id=35966890)
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
 * [2023-05-16, 19:27:58](https://news.ycombinator.com/item?id=35966550) - [Tesla’s “Full Self-Driving” sees pedestrian, chooses not to slow down](https://arstechnica.com/cars/2023/05/teslas-full-self-driving-sees-pedestrian-chooses-not-to-slow-down/)
