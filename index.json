@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36006626"
     ],
     [
-      "PyTorch Primitives in WebGPU for the Browser",
+      "PyTorch for WebGPU",
       "https://praeclarum.org/2023/05/19/webgpu-torch.html"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36006568"
     ],
     [
-      "Opposite of Courage Is Conformity",
+      "Who is Rollo May?",
       "https://www.clues.life/stories/rollo-may"
     ]
   ],
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36006446"
     ],
     [
-      "x86-S External Architectural Specification",
+      "Envisioning a Simplified Intel Architecture",
       "https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html"
     ]
   ],
@@ -81,32 +81,12 @@
   ],
   [
     [
-      "2023-05-19, 18:01:56",
-      "https://news.ycombinator.com/item?id=36004980"
-    ],
-    [
-      "Secret Messages Can Hide in AI-Generated Media",
-      "https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 17:57:53",
       "https://news.ycombinator.com/item?id=36004925"
     ],
     [
       "Migrating from Supabase",
       "https://blog.val.town/blog/migrating-from-supabase"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 17:45:28",
-      "https://news.ycombinator.com/item?id=36004762"
-    ],
-    [
-      "Drag Your GAN: Interactive Point-Based Manipulation of Images",
-      "https://arxiv.org/abs/2305.10973"
     ]
   ],
   [
@@ -151,11 +131,21 @@
   ],
   [
     [
+      "2023-05-19, 15:37:56",
+      "https://news.ycombinator.com/item?id=36003187"
+    ],
+    [
+      "US Supreme Court leaves protections for internet companies unscathed",
+      "https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 15:28:39",
       "https://news.ycombinator.com/item?id=36003096"
     ],
     [
-      "Venture Predation: Using venture finance to price below costs",
+      "Venture Predation",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Satellites reveal widespread decline in global lake water storage",
       "https://www.science.org/doi/10.1126/science.abo2812"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 06:58:09",
+      "https://news.ycombinator.com/item?id=35998649"
+    ],
+    [
+      "Drag Your GAN: Interactive Point-Based Manipulation of Images",
+      "https://vcai.mpi-inf.mpg.de/projects/DragGAN/"
     ]
   ],
   [
