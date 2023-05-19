@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-19, 13:53:58](https://news.ycombinator.com/item?id=36001960) - [Rafael’s Iron Dome](https://www.rafael.co.il/iron-dome-10years/)
 * [2023-05-19, 13:12:00](https://news.ycombinator.com/item?id=36001509) - [Update of the RDF and SPARQL (RDF star) families of specifications](https://www.w3.org/blog/news/archives/9906)
 * [2023-05-19, 13:08:47](https://news.ycombinator.com/item?id=36001474) - [D1: We turned it up to 11](https://blog.cloudflare.com/d1-turning-it-up-to-11/)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
@@ -25,7 +26,6 @@
 * [2023-05-18, 23:47:06](https://news.ycombinator.com/item?id=35995953) - [High-performance tidy trees visualization (2022)](https://www.zxch3n.com/tidy/tidy/)
 * [2023-05-18, 16:58:13](https://news.ycombinator.com/item?id=35990858) - [Why is my dryer radioactive?](https://physics.stackexchange.com/questions/764460/why-is-my-dryer-radioactive)
 * [2023-05-18, 04:05:16](https://news.ycombinator.com/item?id=35984021) - [A statistical analysis of the work of Bob Ross (2014)](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)
-* [2023-05-17, 22:02:29](https://news.ycombinator.com/item?id=35981828) - [Code Generator for SQLite](https://cgsql.dev/)
 * [2023-05-17, 17:25:06](https://news.ycombinator.com/item?id=35978486) - [Updating my website from my iPad](https://dddiaz.com/post/blog-from-ipad/)
 * [2023-05-17, 09:45:53](https://news.ycombinator.com/item?id=35973151) - [Managing State with Signals](https://tonsky.me/blog/humble-signals/)
 * [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
