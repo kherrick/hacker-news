@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 16:25:26](https://news.ycombinator.com/item?id=36003735) - [Jeff Bezos announces $3.4B NASA contract to land astronauts on lunar surface](https://www.dailymail.co.uk/sciencetech/article-12103587/Jeff-Bezos-announces-3-5bn-NASA-contract-land-astronauts-lunar-surface-Blue-Origin.html)
+* [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
+* [2023-05-19, 16:07:14](https://news.ycombinator.com/item?id=36003557) - [Debian 12 &#x27;Bookworm&#x27; New Features and Release Date](https://news.itsfoss.com/debian-12-features/)
+* [2023-05-19, 16:02:03](https://news.ycombinator.com/item?id=36003507) - [Ask HN: Will AI result in mass silo-ing of new knowledge?](https://news.ycombinator.com/item?id=36003507)
 * [2023-05-19, 15:37:56](https://news.ycombinator.com/item?id=36003187) - [US Supreme Court leaves protections for internet companies unscathed](https://www.reuters.com/legal/us-supreme-court-lets-twitter-off-hook-terrorism-lawsuit-over-istanbul-massacre-2023-05-18/)
 * [2023-05-19, 15:31:40](https://news.ycombinator.com/item?id=36003127) - [New York City is sinking due to weight of its skyscrapers, new research finds](https://www.theguardian.com/us-news/2023/may/19/new-york-city-sinking-skyscrapers-climate-crisis)
+* [2023-05-19, 15:31:01](https://news.ycombinator.com/item?id=36003122) - [Writing Is My Main Freedom. One Day My Work Disappeared](https://www.themarshallproject.org/2021/12/16/writing-is-my-main-freedom-one-day-my-poems-essays-short-stories-and-letters-disappeared)
 * [2023-05-19, 15:28:39](https://news.ycombinator.com/item?id=36003096) - [Venture Predation: Using venture finance to price below costs](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437360)
 * [2023-05-19, 15:13:55](https://news.ycombinator.com/item?id=36002930) - [A new chapter for CodeWeavers and myself – trust me](https://www.codeweavers.com/blog/jwhite/2023/5/19/a-new-chapter-for-codeweavers-and-myself-trust-me)
 * [2023-05-19, 15:04:49](https://news.ycombinator.com/item?id=36002817) - [NodePad: LLM-aided graph based note-taking and brainstorming tool](https://nodepad.space/)
