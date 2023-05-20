@@ -27,6 +27,7 @@
 * [2023-05-20, 15:47:42](https://news.ycombinator.com/item?id=36012888) - [Attention, Hollywood: De-Aging Isn’t Working, So Please Stop Using It](https://variety.com/2023/film/awards/indiana-jones-5-harrison-ford-de-aging-not-working-1235618698/)
 * [2023-05-20, 15:41:15](https://news.ycombinator.com/item?id=36012833) - [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
+* [2023-05-20, 14:43:30](https://news.ycombinator.com/item?id=36012320) - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 * [2023-05-20, 14:33:38](https://news.ycombinator.com/item?id=36012255) - [Almost 90M American Adults Struggle to Make Ends Meet, Census Says](https://www.bloomberg.com/news/articles/2023-05-17/almost-90-million-us-homes-struggle-with-expenses-census-says)
 * [2023-05-20, 14:30:53](https://news.ycombinator.com/item?id=36012227) - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
 * [2023-05-20, 14:20:09](https://news.ycombinator.com/item?id=36012137) - [I helped Pfizer think through the ethics of Viagra 25 years ago](https://www.statnews.com/2023/05/19/viagra-25th-anniversary-fda-approval-ethics-pfizer/)
