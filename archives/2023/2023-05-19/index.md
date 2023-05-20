@@ -105,6 +105,7 @@
 * [2023-05-19, 05:44:31](https://news.ycombinator.com/item?id=35998210) - [Embedded Systems – Shape the World (2014)](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
 * [2023-05-19, 05:03:36](https://news.ycombinator.com/item?id=35997975) - [Ask HN: Is Moore&#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
 * [2023-05-19, 04:37:06](https://news.ycombinator.com/item?id=35997798) - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
+* [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
 * [2023-05-19, 03:23:00](https://news.ycombinator.com/item?id=35997351) - [Visa and Mastercard agree to lower average credit card interchange fee below 1%](https://ca.news.yahoo.com/visa-mastercard-agree-lower-average-193615680.html)
 * [2023-05-19, 03:13:59](https://news.ycombinator.com/item?id=35997301) - [Supreme Court Won’t Hold Tech Companies Liable for User Posts](https://www.nytimes.com/2023/05/18/us/politics/supreme-court-google-twitter-230.html)
 * [2023-05-19, 03:04:42](https://news.ycombinator.com/item?id=35997243) - [To save on rent, Berkeley student lives in LA, commutes by plane for entire year](https://old.reddit.com/r/berkeley/comments/13hv95y/i_survived_living_in_la_and_commuting_to_cal_by/)

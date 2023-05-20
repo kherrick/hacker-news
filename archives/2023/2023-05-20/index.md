@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 14:30:53](https://news.ycombinator.com/item?id=36012227) - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
 * [2023-05-20, 14:05:31](https://news.ycombinator.com/item?id=36012028) - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
 * [2023-05-20, 13:58:34](https://news.ycombinator.com/item?id=36011978) - [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
 * [2023-05-20, 13:21:20](https://news.ycombinator.com/item?id=36011725) - [Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery](https://www.nytimes.com/2023/05/20/business/mykonos-greece-construction-tourism.html)
