@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-20, 20:39:22](https://news.ycombinator.com/item?id=36015383) - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
+* [2023-05-20, 20:24:42](https://news.ycombinator.com/item?id=36015232) - [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
 * [2023-05-20, 20:04:39](https://news.ycombinator.com/item?id=36015078) - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
 * [2023-05-20, 19:55:31](https://news.ycombinator.com/item?id=36015014) - [Sadist – An old DOS game from 1998](https://github.com/GadZombie/sadist)
 * [2023-05-20, 19:36:23](https://news.ycombinator.com/item?id=36014887) - [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
@@ -25,7 +26,6 @@
 * [2023-05-19, 19:09:54](https://news.ycombinator.com/item?id=36005717) - [Multiple lines of evidence suggest persistence of the ivory-billed woodpecker](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
-* [2023-05-19, 04:53:59](https://news.ycombinator.com/item?id=35997915) - [Can a novel capture the power of money?](https://www.newyorker.com/books/under-review/can-a-novel-capture-the-power-of-money)
 * [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
 * [2023-05-17, 06:39:10](https://news.ycombinator.com/item?id=35971961) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
 * [2023-05-17, 06:31:04](https://news.ycombinator.com/item?id=35971923) - [Why Did Thomas Harriot Invent Binary?](https://fermatslibrary.com/s/why-did-thomas-harriot-invent-binary)
