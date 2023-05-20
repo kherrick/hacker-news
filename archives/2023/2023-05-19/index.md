@@ -32,6 +32,7 @@
 * [2023-05-19, 18:32:39](https://news.ycombinator.com/item?id=36005311) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
 * [2023-05-19, 18:01:56](https://news.ycombinator.com/item?id=36004980) - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
+* [2023-05-19, 17:53:52](https://news.ycombinator.com/item?id=36004867) - [A Centuries-Old Mystery: Did This Elusive Viking City Exist?](https://www.nytimes.com/2023/05/18/world/europe/poland-vikings-wolin-jomsborg.html)
 * [2023-05-19, 17:45:28](https://news.ycombinator.com/item?id=36004762) - [Drag Your GAN: Interactive Point-Based Manipulation of Images](https://arxiv.org/abs/2305.10973)
 * [2023-05-19, 17:43:40](https://news.ycombinator.com/item?id=36004743) - [Uber attempting to reduce office space in SF &#x2F; 31% of office leases open](https://www.sfchronicle.com/sf/article/uber-headquarters-san-francisco-office-space-lease-18108419.php)
 * [2023-05-19, 17:28:52](https://news.ycombinator.com/item?id=36004574) - [Anti-Piracy Program Accused of Violating Citizens’ Fundamental Rights in France](https://torrentfreak.com/anti-piracy-program-accused-of-violating-citizens-fundamental-rights-230519/)
