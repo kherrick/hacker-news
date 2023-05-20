@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-20, 00:21:07](https://news.ycombinator.com/item?id=36008243) - [Book Review: “Quantum Supremacy” by Michio Kaku (Tl;Dr Do Not Buy)](https://scottaaronson.blog/?p=7321)
+* [2023-05-20, 01:00:30](https://news.ycombinator.com/item?id=36008446) - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
+* [2023-05-19, 23:35:03](https://news.ycombinator.com/item?id=36007997) - [The Professor Who Made $10B by Cutting Google Its First Startup Check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
 * [2023-05-19, 22:59:44](https://news.ycombinator.com/item?id=36007774) - [HP 15C Collector’s Edition (preorder)](https://hpcalcs.com/product/hp-15c-collectors-edition/)
 * [2023-05-19, 22:01:45](https://news.ycombinator.com/item?id=36007310) - [Tunnel via Cloudflare to any TCP service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
 * [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
@@ -22,14 +23,13 @@
 * [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-source synthetic patient generation](https://synthetichealth.github.io/synthea/)
 * [2023-05-19, 14:06:03](https://news.ycombinator.com/item?id=36002105) - [&#x27;Do&#x27; More with &#x27;Run&#x27;](https://maxgreenwald.me/blog/do-more-with-run)
 * [2023-05-19, 13:08:47](https://news.ycombinator.com/item?id=36001474) - [D1: Improvements to performance and scalability](https://blog.cloudflare.com/d1-turning-it-up-to-11/)
+* [2023-05-19, 12:07:25](https://news.ycombinator.com/item?id=36000824) - [My solar-powered blog is now on lithium iron phosphate](https://louwrentius.com/my-solar-powered-blog-is-now-on-lithium-iron-phosphate.html)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-18, 21:00:41](https://news.ycombinator.com/item?id=35993993) - [The Future of Programming – Interview with Richard Eisenberg](https://signalsandthreads.com/future-of-programming/)
 * [2023-05-18, 18:04:11](https://news.ycombinator.com/item?id=35991783) - [Show HN: Swap.js – a JavaScript micro-framework (HTML fragments over the wire)](https://github.com/josephernest/Swap)
-* [2023-05-18, 04:05:01](https://news.ycombinator.com/item?id=35984018) - [Roger&#x27;s little rule book (2008)](https://www.rogerebert.com/roger-ebert/rogers-little-rule-book)
 * [2023-05-18, 03:30:57](https://news.ycombinator.com/item?id=35983878) - [Having metrics for something attracts your attention to it](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MetricsAttractAttention)
-* [2023-05-17, 07:44:55](https://news.ycombinator.com/item?id=35972359) - [DM32 – a modern take on the HP-32SII calculator](https://www.swissmicros.com/product/model-dm32)
 
 ## [Archives](archives/index.md)
 

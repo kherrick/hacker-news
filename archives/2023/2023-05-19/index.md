@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 23:35:03](https://news.ycombinator.com/item?id=36007997) - [The Professor Who Made $10B by Cutting Google Its First Startup Check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
 * [2023-05-19, 22:59:44](https://news.ycombinator.com/item?id=36007774) - [HP 15C Collector’s Edition (preorder)](https://hpcalcs.com/product/hp-15c-collectors-edition/)
 * [2023-05-19, 22:01:45](https://news.ycombinator.com/item?id=36007310) - [Tunnel via Cloudflare to Any TCP Service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
 * [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
@@ -63,6 +64,7 @@
 * [2023-05-19, 13:08:47](https://news.ycombinator.com/item?id=36001474) - [D1: We turned it up to 11](https://blog.cloudflare.com/d1-turning-it-up-to-11/)
 * [2023-05-19, 13:07:41](https://news.ycombinator.com/item?id=36001465) - [LangChain: The Missing Manual](https://www.pinecone.io/learn/langchain/)
 * [2023-05-19, 12:46:55](https://news.ycombinator.com/item?id=36001238) - [Possible toxicity of chronic CO2 exposure associated with face mask use [pdf]](https://www.cell.com/heliyon/pdf/S2405-8440(23)01324-5.pdf)
+* [2023-05-19, 12:07:25](https://news.ycombinator.com/item?id=36000824) - [My solar-powered blog is now on lithium iron phosphate](https://louwrentius.com/my-solar-powered-blog-is-now-on-lithium-iron-phosphate.html)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
 * [2023-05-19, 11:30:27](https://news.ycombinator.com/item?id=36000407) - [Linux tool to show progress for cp, mv, dd](https://github.com/Xfennec/progress)
