@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
+* [2023-05-20, 16:57:58](https://news.ycombinator.com/item?id=36013571) - [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
 * [2023-05-20, 16:32:58](https://news.ycombinator.com/item?id=36013315) - [France is fighting to save your iPhone from an early death](https://www.wired.com/story/right-to-repair-apple-france/)
 * [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 15:41:15](https://news.ycombinator.com/item?id=36012833) - [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
