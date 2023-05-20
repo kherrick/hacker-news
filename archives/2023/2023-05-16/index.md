@@ -23,6 +23,7 @@
 * [2023-05-16, 20:40:47](https://news.ycombinator.com/item?id=35967458) - [The RedMonk Programming Language Rankings: January 2023](https://redmonk.com/sogrady/2023/05/16/language-rankings-1-23/)
 * [2023-05-16, 20:33:47](https://news.ycombinator.com/item?id=35967381) - [Framework Laptop 13 review: a DIY dream come true](https://www.theverge.com/23725039/framework-laptop-13-2023-intel-review)
 * [2023-05-16, 20:29:49](https://news.ycombinator.com/item?id=35967337) - [Japan Is Unmasking, and Its Smile Coach Is Busy](https://www.nytimes.com/2023/05/15/world/asia/japan-covid-smiling-lessons.html)
+* [2023-05-16, 20:28:04](https://news.ycombinator.com/item?id=35967322) - [In a Sheep to Shawl competition, you have 5 people, 1 sheep, and 3 hours](https://www.npr.org/2023/05/15/1176174760/sheep-shawl-fiber-art)
 * [2023-05-16, 20:16:53](https://news.ycombinator.com/item?id=35967174) - [Software Design Review (2009)](https://philip.greenspun.com/software/design-review)
 * [2023-05-16, 19:53:34](https://news.ycombinator.com/item?id=35966890) - [What&#x27;s special about Erlang and Elixir?](https://news.ycombinator.com/item?id=35966890)
 * [2023-05-16, 19:37:42](https://news.ycombinator.com/item?id=35966680) - [Show HN: A little web server in C](https://github.com/robdelacruz/lkwebserver)
