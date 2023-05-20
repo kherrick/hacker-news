@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 20:39:22](https://news.ycombinator.com/item?id=36015383) - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 * [2023-05-20, 20:04:39](https://news.ycombinator.com/item?id=36015078) - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
 * [2023-05-20, 19:55:31](https://news.ycombinator.com/item?id=36015014) - [Sadist (a Polish indie kill&#x27;em all game from 1998) gets open-sourced](https://github.com/GadZombie/sadist)
 * [2023-05-20, 19:40:17](https://news.ycombinator.com/item?id=36014917) - [Why US can&#x27;t have nice things](https://walkingtheworld.substack.com/p/why-the-us-cant-have-nice-things)
+* [2023-05-20, 19:36:23](https://news.ycombinator.com/item?id=36014887) - [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
 * [2023-05-20, 19:28:29](https://news.ycombinator.com/item?id=36014812) - [Martin Amis, era-defining British novelist, dies aged 73](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
 * [2023-05-20, 19:23:54](https://news.ycombinator.com/item?id=36014778) - [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
