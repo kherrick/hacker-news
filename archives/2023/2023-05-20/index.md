@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 22:31:10](https://news.ycombinator.com/item?id=36016250) - [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
 * [2023-05-20, 21:13:18](https://news.ycombinator.com/item?id=36015684) - [Russia’s Nukes Probably Don’t Work – Here’s Why](https://wesodonnell.medium.com/russias-nukes-probably-don-t-work-here-s-why-bd686dec8b6)
 * [2023-05-20, 20:39:22](https://news.ycombinator.com/item?id=36015383) - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 * [2023-05-20, 20:36:54](https://news.ycombinator.com/item?id=36015357) - [Everything you think you know about homelessness is wrong](https://www.noahpinion.blog/p/everything-you-think-you-know-about)
