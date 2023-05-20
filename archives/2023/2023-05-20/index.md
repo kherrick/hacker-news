@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-20](index.md)
+
+* [2023-05-20, 00:21:07](https://news.ycombinator.com/item?id=36008243) - [Book Review: “Quantum Supremacy” by Michio Kaku (Tl;Dr Do Not Buy)](https://scottaaronson.blog/?p=7321)

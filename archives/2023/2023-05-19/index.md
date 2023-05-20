@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 22:59:44](https://news.ycombinator.com/item?id=36007774) - [HP 15C Collector’s Edition (preorder)](https://hpcalcs.com/product/hp-15c-collectors-edition/)
 * [2023-05-19, 22:01:45](https://news.ycombinator.com/item?id=36007310) - [Tunnel via Cloudflare to Any TCP Service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
 * [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
 * [2023-05-19, 21:25:21](https://news.ycombinator.com/item?id=36007033) - [Stanford professor says US is reverse-engineering downed UFOs](https://www.news.com.au/technology/science/space/stanford-professor-says-aliens-are-100-per-cent-on-earth-us-is-reverseengineering-downed-ufos/news-story/041694ef5df4791fbdfa303a08f34a9c)
