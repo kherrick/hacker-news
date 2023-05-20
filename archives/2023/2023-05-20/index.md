@@ -12,6 +12,7 @@
 * [2023-05-20, 04:32:44](https://news.ycombinator.com/item?id=36009401) - [The KIM-1 that sounds like Stephen Hawking (or: “jitbanging” DECtalk)](http://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
 * [2023-05-20, 04:06:20](https://news.ycombinator.com/item?id=36009291) - [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 * [2023-05-20, 03:17:03](https://news.ycombinator.com/item?id=36009055) - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
+* [2023-05-20, 02:54:09](https://news.ycombinator.com/item?id=36008969) - [Romanian Mint Rubbing Association (RMRA)](https://web.archive.org/web/20050131093151/http://www.mintrubbing.org/)
 * [2023-05-20, 01:52:00](https://news.ycombinator.com/item?id=36008706) - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
 * [2023-05-20, 01:29:58](https://news.ycombinator.com/item?id=36008609) - [HDMI Alt Mode for USB Type-C Connector](https://www.hdmi.org/spec/typec)
 * [2023-05-20, 01:20:35](https://news.ycombinator.com/item?id=36008564) - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
