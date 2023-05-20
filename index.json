@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2023-05-20, 20:36:54",
+      "https://news.ycombinator.com/item?id=36015357"
+    ],
+    [
+      "Everything you think you know about homelessness is wrong",
+      "https://www.noahpinion.blog/p/everything-you-think-you-know-about"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 20:24:42",
       "https://news.ycombinator.com/item?id=36015232"
     ],
     [
       "An exploit can reveal your KeePass master password in plaintext",
       "https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 20:19:45",
+      "https://news.ycombinator.com/item?id=36015196"
+    ],
+    [
+      "Dwgd: Docker WireGuard Driver",
+      "https://github.com/leomos/dwgd"
     ]
   ],
   [
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2023-05-20, 19:23:54",
-      "https://news.ycombinator.com/item?id=36014778"
+      "2023-05-20, 19:26:59",
+      "https://news.ycombinator.com/item?id=36014796"
     ],
     [
-      "Gfycat has been down for two days due to an expired SSL certificate",
-      "https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/"
+      "“Don Knuth Plays with ChatGPT” but with ChatGPT-4",
+      "https://gist.github.com/Jessime/63f93215faed6f7109c6d62b7fef7fbc"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "U.S. universities are building a new semiconductor workforce",
       "https://spectrum.ieee.org/chips-act-workforce-development"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 04:42:14",
-      "https://news.ycombinator.com/item?id=36009430"
-    ],
-    [
-      "Rooms.xyz",
-      "https://rooms.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 23:58:49",
-      "https://news.ycombinator.com/item?id=36008139"
-    ],
-    [
-      "Topiary: A code formatting engine leveraging Tree-sitter",
-      "https://www.tweag.io/blog/2023-03-09-announcing-topiary/"
     ]
   ],
   [
