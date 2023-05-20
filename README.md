@@ -2,6 +2,7 @@
 
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
 * [2023-05-20, 16:57:58](https://news.ycombinator.com/item?id=36013571) - [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
+* [2023-05-20, 16:26:17](https://news.ycombinator.com/item?id=36013257) - [Intel Explores Transition to 64-Bit-Only X86S Architecture](https://www.tomshardware.com/news/intel-ponders-transition-to-64-bit-only-x86s-architecture)
 * [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 15:47:42](https://news.ycombinator.com/item?id=36012888) - [Attention, Hollywood: De-Aging Isn’t Working, So Please Stop Using It](https://variety.com/2023/film/awards/indiana-jones-5-harrison-ford-de-aging-not-working-1235618698/)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
@@ -12,7 +13,6 @@
 * [2023-05-20, 12:56:42](https://news.ycombinator.com/item?id=36011550) - [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
 * [2023-05-20, 12:02:55](https://news.ycombinator.com/item?id=36011172) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 * [2023-05-20, 11:53:07](https://news.ycombinator.com/item?id=36011110) - [Show HN: Mapname – anonymous social network for organising points of interest](https://map.name)
-* [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
 * [2023-05-20, 07:45:42](https://news.ycombinator.com/item?id=36010128) - [Hitler’s Antarctic base: the myth and the reality (2007) [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
 * [2023-05-20, 06:47:43](https://news.ycombinator.com/item?id=36009892) - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
 * [2023-05-20, 06:18:24](https://news.ycombinator.com/item?id=36009774) - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
