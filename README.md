@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 03:17:03](https://news.ycombinator.com/item?id=36009055) - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
 * [2023-05-20, 01:52:00](https://news.ycombinator.com/item?id=36008706) - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
 * [2023-05-20, 01:20:35](https://news.ycombinator.com/item?id=36008564) - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
 * [2023-05-20, 01:13:49](https://news.ycombinator.com/item?id=36008526) - [Axle OS](https://axleos.com/)
@@ -13,7 +14,6 @@
 * [2023-05-19, 20:42:43](https://news.ycombinator.com/item?id=36006626) - [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 * [2023-05-19, 20:34:22](https://news.ycombinator.com/item?id=36006561) - [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
 * [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)
-* [2023-05-19, 19:58:44](https://news.ycombinator.com/item?id=36006181) - [Building a weather station](https://drwho.virtadpt.net/archive/2023-04-28/building-a-weather-station/)
 * [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
 * [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
 * [2023-05-19, 19:00:08](https://news.ycombinator.com/item?id=36005611) - [Nonius Clock](https://www.lykahb.com/projects/clock.html)
