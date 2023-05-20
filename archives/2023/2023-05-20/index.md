@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
 * [2023-05-20, 10:51:00](https://news.ycombinator.com/item?id=36010785) - [People in the U.S. Think They Are Better Than They Are. Asians Don’t](https://www.scientificamerican.com/article/people-in-the-u-s-think-they-are-better-than-they-actually-are-people-in-asia-dont/)
 * [2023-05-20, 09:50:04](https://news.ycombinator.com/item?id=36010562) - [Home schooling can challenge our beliefs about education](https://www.prospectmagazine.co.uk/society/44818/how-home-schooling-can-challenge-our-beliefs-about-education)
 * [2023-05-20, 08:26:22](https://news.ycombinator.com/item?id=36010270) - [Tell HN: OpenAI&#x27;s billing features and customer support are barely functional](https://news.ycombinator.com/item?id=36010270)

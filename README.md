@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
 * [2023-05-20, 10:51:00](https://news.ycombinator.com/item?id=36010785) - [People in the U.S. Think They Are Better Than They Are. Asians Don’t](https://www.scientificamerican.com/article/people-in-the-u-s-think-they-are-better-than-they-actually-are-people-in-asia-dont/)
 * [2023-05-20, 07:45:42](https://news.ycombinator.com/item?id=36010128) - [Hitler’s Antarctic base: the myth and the reality [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
 * [2023-05-20, 06:47:43](https://news.ycombinator.com/item?id=36009892) - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
@@ -10,7 +11,6 @@
 * [2023-05-20, 04:42:14](https://news.ycombinator.com/item?id=36009430) - [Rooms.xyz](https://rooms.xyz/)
 * [2023-05-20, 04:06:20](https://news.ycombinator.com/item?id=36009291) - [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 * [2023-05-20, 03:17:03](https://news.ycombinator.com/item?id=36009055) - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
-* [2023-05-20, 01:20:35](https://news.ycombinator.com/item?id=36008564) - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
 * [2023-05-20, 01:13:49](https://news.ycombinator.com/item?id=36008526) - [Axle OS](https://axleos.com/)
 * [2023-05-20, 01:00:30](https://news.ycombinator.com/item?id=36008446) - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
 * [2023-05-19, 23:58:49](https://news.ycombinator.com/item?id=36008139) - [Topiary: A code formatting engine leveraging Tree-sitter](https://www.tweag.io/blog/2023-03-09-announcing-topiary/)
