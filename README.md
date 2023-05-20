@@ -24,10 +24,10 @@
 * [2023-05-19, 19:00:08](https://news.ycombinator.com/item?id=36005611) - [Show HN: Nonius Clock](https://www.lykahb.com/projects/clock.html)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
-* [2023-05-19, 16:18:29](https://news.ycombinator.com/item?id=36003661) - [Ozempic drug supresses desire to smoke, drink and more?](https://www.theatlantic.com/health/archive/2023/05/ozempic-addictive-behavior-drinking-smoking/674098/)
 * [2023-05-19, 12:07:25](https://news.ycombinator.com/item?id=36000824) - [My solar-powered blog is now on lithium iron phosphate](https://louwrentius.com/my-solar-powered-blog-is-now-on-lithium-iron-phosphate.html)
 * [2023-05-19, 10:59:06](https://news.ycombinator.com/item?id=36000107) - [The Joys of Hacking ISA and PCI (2021)](https://hackaday.com/2021/01/06/you-got-something-on-your-processor-bus-the-joys-of-hacking-isa-and-pci/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
+* [2023-05-18, 21:00:41](https://news.ycombinator.com/item?id=35993993) - [The Future of Programming – Interview with Richard Eisenberg](https://signalsandthreads.com/future-of-programming/)
 * [2023-05-18, 18:04:11](https://news.ycombinator.com/item?id=35991783) - [Show HN: Swap.js – a JavaScript micro-framework (HTML fragments over the wire)](https://github.com/josephernest/Swap)
 * [2023-05-16, 20:28:04](https://news.ycombinator.com/item?id=35967322) - [In a Sheep to Shawl competition, you have 5 people, 1 sheep, and 3 hours](https://www.npr.org/2023/05/15/1176174760/sheep-shawl-fiber-art)
 
