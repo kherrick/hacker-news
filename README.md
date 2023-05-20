@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 12:56:42](https://news.ycombinator.com/item?id=36011550) - [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
 * [2023-05-20, 12:02:55](https://news.ycombinator.com/item?id=36011172) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 * [2023-05-20, 11:47:07](https://news.ycombinator.com/item?id=36011072) - [WeWork has frittered away $46.7B in value as the stock sinks below ¢50](https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4)
 * [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
@@ -17,7 +18,6 @@
 * [2023-05-19, 23:58:49](https://news.ycombinator.com/item?id=36008139) - [Topiary: A code formatting engine leveraging Tree-sitter](https://www.tweag.io/blog/2023-03-09-announcing-topiary/)
 * [2023-05-19, 23:38:25](https://news.ycombinator.com/item?id=36008018) - [Getting Stuff Done by Not Being Mean to Yourself](https://openheartproject.com/getting-stuff-done-by-not-being-mean-to-yourself/)
 * [2023-05-19, 22:01:45](https://news.ycombinator.com/item?id=36007310) - [Tunnel via Cloudflare to any TCP service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
-* [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
 * [2023-05-19, 20:45:59](https://news.ycombinator.com/item?id=36006676) - [It’s time to embrace slow productivity (2022)](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
 * [2023-05-19, 20:42:43](https://news.ycombinator.com/item?id=36006626) - [PyTorch for WebGPU](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 * [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)

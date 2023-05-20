@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 12:56:42](https://news.ycombinator.com/item?id=36011550) - [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
 * [2023-05-20, 12:02:55](https://news.ycombinator.com/item?id=36011172) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 * [2023-05-20, 11:47:07](https://news.ycombinator.com/item?id=36011072) - [WeWork has frittered away $46.7B in value as the stock sinks below ¢50](https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4)
 * [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
