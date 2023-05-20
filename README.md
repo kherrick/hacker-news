@@ -21,7 +21,7 @@
 * [2023-05-20, 06:18:24](https://news.ycombinator.com/item?id=36009774) - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
 * [2023-05-20, 06:01:48](https://news.ycombinator.com/item?id=36009701) - [U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
 * [2023-05-20, 05:51:11](https://news.ycombinator.com/item?id=36009667) - [Counterintuitive Properties of High Dimensional Space (2018)](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
-* [2023-05-20, 05:16:18](https://news.ycombinator.com/item?id=36009553) - [Lojban: Constructed language to eliminate ambiguity from communication](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
+* [2023-05-20, 04:42:14](https://news.ycombinator.com/item?id=36009430) - [Rooms.xyz](https://rooms.xyz/)
 * [2023-05-19, 23:58:49](https://news.ycombinator.com/item?id=36008139) - [Topiary: A code formatting engine leveraging Tree-sitter](https://www.tweag.io/blog/2023-03-09-announcing-topiary/)
 * [2023-05-19, 19:09:54](https://news.ycombinator.com/item?id=36005717) - [Multiple lines of evidence suggest persistence of the ivory-billed woodpecker](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
