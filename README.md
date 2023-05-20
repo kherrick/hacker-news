@@ -16,6 +16,7 @@
 * [2023-05-19, 20:34:22](https://news.ycombinator.com/item?id=36006561) - [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
 * [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)
 * [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
+* [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
 * [2023-05-19, 19:00:08](https://news.ycombinator.com/item?id=36005611) - [Nonius Clock](https://www.lykahb.com/projects/clock.html)
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to reality – executable essay](https://reality.mentat.org/essays/reality/introduction)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
@@ -28,7 +29,6 @@
 * [2023-05-18, 21:00:41](https://news.ycombinator.com/item?id=35993993) - [The Future of Programming – Interview with Richard Eisenberg](https://signalsandthreads.com/future-of-programming/)
 * [2023-05-18, 18:04:11](https://news.ycombinator.com/item?id=35991783) - [Show HN: Swap.js – a JavaScript micro-framework (HTML fragments over the wire)](https://github.com/josephernest/Swap)
 * [2023-05-17, 22:00:24](https://news.ycombinator.com/item?id=35981800) - [It&#x27;s Not Survivorship Bias](https://www.anthropicstudios.com/2022/12/23/survivorship-bias/)
-* [2023-05-17, 08:04:34](https://news.ycombinator.com/item?id=35972471) - [The Last Recording Artist](https://jaimebrooks.substack.com/p/the-last-recording-artist)
 * [2023-05-16, 20:28:04](https://news.ycombinator.com/item?id=35967322) - [In a Sheep to Shawl competition, you have 5 people, 1 sheep, and 3 hours](https://www.npr.org/2023/05/15/1176174760/sheep-shawl-fiber-art)
 
 ## [Archives](archives/index.md)
