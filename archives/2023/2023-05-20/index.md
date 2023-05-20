@@ -9,6 +9,7 @@
 * [2023-05-20, 20:36:54](https://news.ycombinator.com/item?id=36015357) - [Everything you think you know about homelessness is wrong](https://www.noahpinion.blog/p/everything-you-think-you-know-about)
 * [2023-05-20, 20:24:42](https://news.ycombinator.com/item?id=36015232) - [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
 * [2023-05-20, 20:19:45](https://news.ycombinator.com/item?id=36015196) - [Dwgd: Docker WireGuard Driver](https://github.com/leomos/dwgd)
+* [2023-05-20, 20:16:16](https://news.ycombinator.com/item?id=36015169) - [How Somali workers in the US are fighting Amazon’s surveillance machine](https://www.codastory.com/authoritarian-tech/amazon-workers-surveillance/)
 * [2023-05-20, 20:04:39](https://news.ycombinator.com/item?id=36015078) - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
 * [2023-05-20, 19:55:31](https://news.ycombinator.com/item?id=36015014) - [Sadist (a Polish indie kill&#x27;em all game from 1998) gets open-sourced](https://github.com/GadZombie/sadist)
 * [2023-05-20, 19:40:17](https://news.ycombinator.com/item?id=36014917) - [Why US can&#x27;t have nice things](https://walkingtheworld.substack.com/p/why-the-us-cant-have-nice-things)
