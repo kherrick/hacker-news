@@ -76,6 +76,7 @@
 * [2023-05-17, 11:37:16](https://news.ycombinator.com/item?id=35973882) - [Americans Have Never Been So Unwilling to Relocate for a New Job](https://www.bloomberg.com/news/articles/2023-05-16/americans-have-never-been-so-unwilling-to-relocate-for-a-new-job)
 * [2023-05-17, 11:36:26](https://news.ycombinator.com/item?id=35973873) - [A Radical Plan to Make AI Good, Not Evil](https://www.wired.com/story/anthropic-ai-chatbots-ethics/)
 * [2023-05-17, 11:18:36](https://news.ycombinator.com/item?id=35973743) - [The $GREED Experiment: From a joke tweet to the top of Twitter Trending](https://voshy.medium.com/the-greed-experiment-from-a-joke-tweet-to-the-top-of-twitter-trending-8540ac595ef3)
+* [2023-05-17, 11:11:27](https://news.ycombinator.com/item?id=35973699) - [Demand and ETR Forecasting at Airports](https://www.uber.com/en-FR/blog/demand-and-etr-forecasting-at-airports/)
 * [2023-05-17, 11:04:42](https://news.ycombinator.com/item?id=35973653) - [Fast GPT-2 inference written in Fortran](https://github.com/certik/fastGPT)
 * [2023-05-17, 11:03:46](https://news.ycombinator.com/item?id=35973645) - [OpenAI came after our domain because we use GPT in it](https://news.ycombinator.com/item?id=35973645)
 * [2023-05-17, 10:55:46](https://news.ycombinator.com/item?id=35973591) - [Understanding Passkeys](https://michal.sapka.me/2023/passkeys/)
