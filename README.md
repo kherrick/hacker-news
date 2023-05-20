@@ -2,6 +2,7 @@
 
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
 * [2023-05-20, 16:57:58](https://news.ycombinator.com/item?id=36013571) - [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
+* [2023-05-20, 16:31:59](https://news.ycombinator.com/item?id=36013309) - [Review: Energy and Civilization, by Vaclav Smil](https://www.thepsmiths.com/p/review-energy-and-civilization-by)
 * [2023-05-20, 16:26:17](https://news.ycombinator.com/item?id=36013257) - [Intel Explores Transition to 64-Bit-Only X86S Architecture](https://www.tomshardware.com/news/intel-ponders-transition-to-64-bit-only-x86s-architecture)
 * [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 15:47:42](https://news.ycombinator.com/item?id=36012888) - [Attention, Hollywood: De-Aging Isn’t Working, So Please Stop Using It](https://variety.com/2023/film/awards/indiana-jones-5-harrison-ford-de-aging-not-working-1235618698/)
@@ -22,7 +23,6 @@
 * [2023-05-20, 04:42:14](https://news.ycombinator.com/item?id=36009430) - [Rooms.xyz](https://rooms.xyz/)
 * [2023-05-20, 04:06:20](https://news.ycombinator.com/item?id=36009291) - [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 * [2023-05-19, 23:58:49](https://news.ycombinator.com/item?id=36008139) - [Topiary: A code formatting engine leveraging Tree-sitter](https://www.tweag.io/blog/2023-03-09-announcing-topiary/)
-* [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)
 * [2023-05-19, 19:09:54](https://news.ycombinator.com/item?id=36005717) - [Multiple lines of evidence suggest persistence of the ivory-billed woodpecker](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
