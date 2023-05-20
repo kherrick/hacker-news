@@ -78,6 +78,7 @@
 * [2023-05-19, 11:13:14](https://news.ycombinator.com/item?id=36000230) - [Google Is Spared a Search-Engine Switch by a Major Partner](https://www.wsj.com/articles/google-is-spared-a-search-engine-switch-by-a-major-partner-f06b734f)
 * [2023-05-19, 11:12:24](https://news.ycombinator.com/item?id=36000221) - [MTIA v1: Meta’s first-generation AI inference accelerator](https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/)
 * [2023-05-19, 11:05:38](https://news.ycombinator.com/item?id=36000156) - [Dandelion Root Recipes](https://practicalselfreliance.com/dandelion-root-recipes/)
+* [2023-05-19, 10:59:06](https://news.ycombinator.com/item?id=36000107) - [The Joys of Hacking ISA and PCI (2021)](https://hackaday.com/2021/01/06/you-got-something-on-your-processor-bus-the-joys-of-hacking-isa-and-pci/)
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple bans ChatGPT use by employees, report says](https://mashable.com/article/apple-chatgpt-employee-ban-report)
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple Restricts Employee Use of ChatGPT, Joining Other Companies Wary of Leaks](https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34)
 * [2023-05-19, 10:48:03](https://news.ycombinator.com/item?id=36000027) - [Send a message to teams channel on Linux server SSH connexion](https://github.com/Blue-Secure/ssh-login-teams-alert-webhook)
