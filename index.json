@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-20, 17:25:09",
+      "https://news.ycombinator.com/item?id=36013783"
+    ],
+    [
+      "Neeva (search engine with a privacy and AI focus) is shutting down",
+      "https://neeva.com/blog/may-announcement"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 16:57:58",
+      "https://news.ycombinator.com/item?id=36013571"
+    ],
+    [
+      "Using ChatGPT for Home Automation",
+      "https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 16:32:58",
       "https://news.ycombinator.com/item?id=36013315"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2023-05-20, 01:13:49",
-      "https://news.ycombinator.com/item?id=36008526"
-    ],
-    [
-      "Axle OS",
-      "https://axleos.com/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 23:58:49",
       "https://news.ycombinator.com/item?id=36008139"
     ],
     [
       "Topiary: A code formatting engine leveraging Tree-sitter",
       "https://www.tweag.io/blog/2023-03-09-announcing-topiary/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 20:42:43",
-      "https://news.ycombinator.com/item?id=36006626"
-    ],
-    [
-      "PyTorch for WebGPU",
-      "https://praeclarum.org/2023/05/19/webgpu-torch.html"
     ]
   ],
   [
