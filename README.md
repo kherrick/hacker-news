@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 21:13:18](https://news.ycombinator.com/item?id=36015684) - [Russia’s Nukes Probably Don’t Work – Here’s Why](https://wesodonnell.medium.com/russias-nukes-probably-don-t-work-here-s-why-bd686dec8b6)
 * [2023-05-20, 20:39:22](https://news.ycombinator.com/item?id=36015383) - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
-* [2023-05-20, 20:36:54](https://news.ycombinator.com/item?id=36015357) - [Everything you think you know about homelessness is wrong](https://www.noahpinion.blog/p/everything-you-think-you-know-about)
 * [2023-05-20, 20:24:42](https://news.ycombinator.com/item?id=36015232) - [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
 * [2023-05-20, 20:19:45](https://news.ycombinator.com/item?id=36015196) - [Dwgd: Docker WireGuard Driver](https://github.com/leomos/dwgd)
 * [2023-05-20, 20:04:39](https://news.ycombinator.com/item?id=36015078) - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
