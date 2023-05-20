@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 05:51:11](https://news.ycombinator.com/item?id=36009667) - [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
 * [2023-05-20, 05:19:51](https://news.ycombinator.com/item?id=36009562) - [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
 * [2023-05-20, 05:16:18](https://news.ycombinator.com/item?id=36009553) - [Lojban: Constructed language to eliminate ambiguity from communication](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
 * [2023-05-20, 04:32:44](https://news.ycombinator.com/item?id=36009401) - [The KIM-1 that sounds like Stephen Hawking (or: “jitbanging” DECtalk)](http://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
@@ -17,7 +18,6 @@
 * [2023-05-19, 20:34:22](https://news.ycombinator.com/item?id=36006561) - [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
 * [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)
 * [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
-* [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
 * [2023-05-19, 19:00:08](https://news.ycombinator.com/item?id=36005611) - [Show HN: Nonius Clock](https://www.lykahb.com/projects/clock.html)
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to reality – executable essay](https://reality.mentat.org/essays/reality/introduction)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)

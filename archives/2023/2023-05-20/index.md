@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 05:51:11](https://news.ycombinator.com/item?id=36009667) - [Counterintuitive Properties of High Dimensional Space](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
 * [2023-05-20, 05:19:51](https://news.ycombinator.com/item?id=36009562) - [A Crashed Israeli Lunar Lander Spilled Tardigrades on the Moon](https://www.wired.com/story/a-crashed-israeli-lunar-lander-spilled-tardigrades-on-the-moon/)
 * [2023-05-20, 05:16:18](https://news.ycombinator.com/item?id=36009553) - [Lojban: Constructed language to eliminate ambiguity from communication](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
 * [2023-05-20, 04:32:44](https://news.ycombinator.com/item?id=36009401) - [The KIM-1 that sounds like Stephen Hawking (or: “jitbanging” DECtalk)](http://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
