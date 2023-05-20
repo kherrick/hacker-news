@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 13:21:20](https://news.ycombinator.com/item?id=36011725) - [Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery](https://www.nytimes.com/2023/05/20/business/mykonos-greece-construction-tourism.html)
 * [2023-05-20, 12:56:42](https://news.ycombinator.com/item?id=36011550) - [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
 * [2023-05-20, 12:02:55](https://news.ycombinator.com/item?id=36011172) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 * [2023-05-20, 11:47:07](https://news.ycombinator.com/item?id=36011072) - [WeWork has frittered away $46.7B in value as the stock sinks below ¢50](https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4)
