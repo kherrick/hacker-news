@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 20:04:39](https://news.ycombinator.com/item?id=36015078) - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
+* [2023-05-20, 19:55:31](https://news.ycombinator.com/item?id=36015014) - [Sadist (a Polish indie kill&#x27;em all game from 1998) gets open-sourced](https://github.com/GadZombie/sadist)
 * [2023-05-20, 19:28:29](https://news.ycombinator.com/item?id=36014812) - [Martin Amis, era-defining British novelist, dies aged 73](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
 * [2023-05-20, 19:23:54](https://news.ycombinator.com/item?id=36014778) - [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
@@ -9,7 +11,6 @@
 * [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-05-20, 14:30:53](https://news.ycombinator.com/item?id=36012227) - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
-* [2023-05-20, 14:05:31](https://news.ycombinator.com/item?id=36012028) - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
 * [2023-05-20, 13:58:34](https://news.ycombinator.com/item?id=36011978) - [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
 * [2023-05-20, 13:02:39](https://news.ycombinator.com/item?id=36011599) - [Writing summaries is more important than reading more books](https://www.andreasfragner.com/writing/writing-summaries)
 * [2023-05-20, 12:56:42](https://news.ycombinator.com/item?id=36011550) - [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
@@ -25,7 +26,6 @@
 * [2023-05-19, 19:09:54](https://news.ycombinator.com/item?id=36005717) - [Multiple lines of evidence suggest persistence of the ivory-billed woodpecker](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
-* [2023-05-19, 05:44:31](https://news.ycombinator.com/item?id=35998210) - [Embedded Systems – Shape the World (2014)](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
 * [2023-05-19, 04:53:59](https://news.ycombinator.com/item?id=35997915) - [Can a Novel Capture the Power of Money?](https://www.newyorker.com/books/under-review/can-a-novel-capture-the-power-of-money)
 * [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
 * [2023-05-17, 06:31:04](https://news.ycombinator.com/item?id=35971923) - [Why Did Thomas Harriot Invent Binary?](https://fermatslibrary.com/s/why-did-thomas-harriot-invent-binary)
