@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-19](index.md)
 
+* [2023-05-19, 23:38:25](https://news.ycombinator.com/item?id=36008018) - [Getting Stuff Done by Not Being Mean to Yourself](https://openheartproject.com/getting-stuff-done-by-not-being-mean-to-yourself/)
 * [2023-05-19, 23:35:03](https://news.ycombinator.com/item?id=36007997) - [The Professor Who Made $10B by Cutting Google Its First Startup Check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
 * [2023-05-19, 22:59:44](https://news.ycombinator.com/item?id=36007774) - [HP 15C Collector’s Edition (preorder)](https://hpcalcs.com/product/hp-15c-collectors-edition/)
 * [2023-05-19, 22:01:45](https://news.ycombinator.com/item?id=36007310) - [Tunnel via Cloudflare to Any TCP Service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)

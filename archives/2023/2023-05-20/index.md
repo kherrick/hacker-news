@@ -7,5 +7,6 @@
 * [2023-05-20, 01:52:00](https://news.ycombinator.com/item?id=36008706) - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
 * [2023-05-20, 01:29:58](https://news.ycombinator.com/item?id=36008609) - [HDMI Alt Mode for USB Type-C Connector](https://www.hdmi.org/spec/typec)
 * [2023-05-20, 01:20:35](https://news.ycombinator.com/item?id=36008564) - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
+* [2023-05-20, 01:13:49](https://news.ycombinator.com/item?id=36008526) - [Axle OS](https://axleos.com/)
 * [2023-05-20, 01:00:30](https://news.ycombinator.com/item?id=36008446) - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
 * [2023-05-20, 00:21:07](https://news.ycombinator.com/item?id=36008243) - [Book Review: “Quantum Supremacy” by Michio Kaku (Tl;Dr Do Not Buy)](https://scottaaronson.blog/?p=7321)
