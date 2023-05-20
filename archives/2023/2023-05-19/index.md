@@ -106,6 +106,7 @@
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [Want to build your own graphics and audio hardware?](https://martin-piper.itch.io/bomb-jack-display-hardware)
 * [2023-05-19, 05:44:31](https://news.ycombinator.com/item?id=35998210) - [Embedded Systems – Shape the World (2014)](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
 * [2023-05-19, 05:03:36](https://news.ycombinator.com/item?id=35997975) - [Ask HN: Is Moore&#x27;s Law over, or not?](https://news.ycombinator.com/item?id=35997975)
+* [2023-05-19, 04:53:59](https://news.ycombinator.com/item?id=35997915) - [Can a Novel Capture the Power of Money?](https://www.newyorker.com/books/under-review/can-a-novel-capture-the-power-of-money)
 * [2023-05-19, 04:37:06](https://news.ycombinator.com/item?id=35997798) - [Let ChatGPT visit a website and have your email stolen](https://twitter.com/wunderwuzzi23/status/1659411665853779971)
 * [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
 * [2023-05-19, 03:23:00](https://news.ycombinator.com/item?id=35997351) - [Visa and Mastercard agree to lower average credit card interchange fee below 1%](https://ca.news.yahoo.com/visa-mastercard-agree-lower-average-193615680.html)

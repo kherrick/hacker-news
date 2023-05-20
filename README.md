@@ -2,8 +2,8 @@
 
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
 * [2023-05-20, 16:57:58](https://news.ycombinator.com/item?id=36013571) - [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
-* [2023-05-20, 16:32:58](https://news.ycombinator.com/item?id=36013315) - [France is fighting to save your iPhone from an early death](https://www.wired.com/story/right-to-repair-apple-france/)
 * [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
+* [2023-05-20, 15:47:42](https://news.ycombinator.com/item?id=36012888) - [Attention, Hollywood: De-Aging Isn’t Working, So Please Stop Using It](https://variety.com/2023/film/awards/indiana-jones-5-harrison-ford-de-aging-not-working-1235618698/)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-05-20, 14:30:53](https://news.ycombinator.com/item?id=36012227) - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
 * [2023-05-20, 14:05:31](https://news.ycombinator.com/item?id=36012028) - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
@@ -28,8 +28,8 @@
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 05:44:31](https://news.ycombinator.com/item?id=35998210) - [Embedded Systems – Shape the World (2014)](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
+* [2023-05-19, 04:53:59](https://news.ycombinator.com/item?id=35997915) - [Can a Novel Capture the Power of Money?](https://www.newyorker.com/books/under-review/can-a-novel-capture-the-power-of-money)
 * [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
-* [2023-05-17, 11:11:27](https://news.ycombinator.com/item?id=35973699) - [Demand and ETR Forecasting at Airports](https://www.uber.com/en-FR/blog/demand-and-etr-forecasting-at-airports/)
 
 ## [Archives](archives/index.md)
 
