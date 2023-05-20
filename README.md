@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-20, 22:31:10](https://news.ycombinator.com/item?id=36016250) - [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
+* [2023-05-20, 22:28:59](https://news.ycombinator.com/item?id=36016230) - [China overtakes United States on contribution to research in Nature Index](https://www.nature.com/articles/d41586-023-01705-7)
 * [2023-05-20, 20:39:22](https://news.ycombinator.com/item?id=36015383) - [Popular Pirate Bay Proxy Site Disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 * [2023-05-20, 20:24:42](https://news.ycombinator.com/item?id=36015232) - [An exploit can reveal your KeePass master password in plaintext](https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html)
 * [2023-05-20, 20:16:16](https://news.ycombinator.com/item?id=36015169) - [How Somali workers in the US are fighting Amazon’s surveillance machine](https://www.codastory.com/authoritarian-tech/amazon-workers-surveillance/)
@@ -21,7 +22,6 @@
 * [2023-05-20, 12:02:55](https://news.ycombinator.com/item?id=36011172) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 * [2023-05-20, 06:18:24](https://news.ycombinator.com/item?id=36009774) - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
 * [2023-05-20, 04:42:14](https://news.ycombinator.com/item?id=36009430) - [Rooms.xyz](https://rooms.xyz/)
-* [2023-05-19, 19:09:54](https://news.ycombinator.com/item?id=36005717) - [Multiple lines of evidence suggest persistence of the ivory-billed woodpecker](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
