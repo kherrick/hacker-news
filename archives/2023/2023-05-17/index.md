@@ -99,6 +99,7 @@
 * [2023-05-17, 07:00:31](https://news.ycombinator.com/item?id=35972096) - [Give your brain time to think and remember](https://github.com/madprops/blog/blob/main/docs/timers.md)
 * [2023-05-17, 06:59:54](https://news.ycombinator.com/item?id=35972092) - [Pandas vs. Julia – cheat sheet and comparison](https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/)
 * [2023-05-17, 06:52:08](https://news.ycombinator.com/item?id=35972047) - [Photomator for Mac](https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/)
+* [2023-05-17, 06:31:04](https://news.ycombinator.com/item?id=35971923) - [Why Did Thomas Harriot Invent Binary?](https://fermatslibrary.com/s/why-did-thomas-harriot-invent-binary)
 * [2023-05-17, 06:29:14](https://news.ycombinator.com/item?id=35971915) - [Quad9’s Opinion of the Recent Court Ruling in Leipzig](https://quad9.net/news/press/quad9-s-opinion-of-the-recent-court-ruling-in-leipzig/)
 * [2023-05-17, 06:20:15](https://news.ycombinator.com/item?id=35971863) - [Traders Do Less Crime at Home](https://www.bloomberg.com/opinion/articles/2023-05-16/traders-do-less-crime-at-home)
 * [2023-05-17, 05:46:29](https://news.ycombinator.com/item?id=35971677) - [BratGPT: The evil older sibling of ChatGPT](https://bratgpt.com)
