@@ -2,6 +2,7 @@
 
 * [2023-05-20, 20:04:39](https://news.ycombinator.com/item?id=36015078) - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
 * [2023-05-20, 19:55:31](https://news.ycombinator.com/item?id=36015014) - [Sadist (a Polish indie kill&#x27;em all game from 1998) gets open-sourced](https://github.com/GadZombie/sadist)
+* [2023-05-20, 19:40:17](https://news.ycombinator.com/item?id=36014917) - [Why US can&#x27;t have nice things](https://walkingtheworld.substack.com/p/why-the-us-cant-have-nice-things)
 * [2023-05-20, 19:28:29](https://news.ycombinator.com/item?id=36014812) - [Martin Amis, era-defining British novelist, dies aged 73](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
 * [2023-05-20, 19:23:54](https://news.ycombinator.com/item?id=36014778) - [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
@@ -21,7 +22,6 @@
 * [2023-05-20, 06:01:48](https://news.ycombinator.com/item?id=36009701) - [U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
 * [2023-05-20, 05:51:11](https://news.ycombinator.com/item?id=36009667) - [Counterintuitive Properties of High Dimensional Space (2018)](https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/)
 * [2023-05-20, 05:16:18](https://news.ycombinator.com/item?id=36009553) - [Lojban: Constructed language to eliminate ambiguity from communication](https://mw.lojban.org/index.php?title=Lojban&setlang=en-US)
-* [2023-05-20, 04:42:14](https://news.ycombinator.com/item?id=36009430) - [Rooms.xyz](https://rooms.xyz/)
 * [2023-05-19, 23:58:49](https://news.ycombinator.com/item?id=36008139) - [Topiary: A code formatting engine leveraging Tree-sitter](https://www.tweag.io/blog/2023-03-09-announcing-topiary/)
 * [2023-05-19, 19:09:54](https://news.ycombinator.com/item?id=36005717) - [Multiple lines of evidence suggest persistence of the ivory-billed woodpecker](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
