@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 04:32:44](https://news.ycombinator.com/item?id=36009401) - [The KIM-1 that sounds like Stephen Hawking (or: “jitbanging” DECtalk)](http://oldvcr.blogspot.com/2023/05/the-kim-1-that-sounds-like-stephen.html)
 * [2023-05-20, 04:06:20](https://news.ycombinator.com/item?id=36009291) - [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 * [2023-05-20, 03:17:03](https://news.ycombinator.com/item?id=36009055) - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
 * [2023-05-20, 01:52:00](https://news.ycombinator.com/item?id=36008706) - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
@@ -7,7 +8,6 @@
 * [2023-05-20, 01:13:49](https://news.ycombinator.com/item?id=36008526) - [Axle OS](https://axleos.com/)
 * [2023-05-20, 01:00:30](https://news.ycombinator.com/item?id=36008446) - [Generally Intelligent (YC S17) Is Hiring Infrastructure Engineers](https://news.ycombinator.com/item?id=36008446)
 * [2023-05-19, 23:38:25](https://news.ycombinator.com/item?id=36008018) - [Getting Stuff Done by Not Being Mean to Yourself](https://openheartproject.com/getting-stuff-done-by-not-being-mean-to-yourself/)
-* [2023-05-19, 23:35:03](https://news.ycombinator.com/item?id=36007997) - [The professor who made $10B by cutting Google its first startup check](https://finance.yahoo.com/news/professor-made-10-billion-cutting-220400904.html)
 * [2023-05-19, 22:59:44](https://news.ycombinator.com/item?id=36007774) - [HP 15C Collector’s Edition (preorder)](https://hpcalcs.com/product/hp-15c-collectors-edition/)
 * [2023-05-19, 22:01:45](https://news.ycombinator.com/item?id=36007310) - [Tunnel via Cloudflare to any TCP service](https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service)
 * [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
