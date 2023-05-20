@@ -15,7 +15,6 @@
 * [2023-05-20, 12:56:42](https://news.ycombinator.com/item?id=36011550) - [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
 * [2023-05-20, 12:02:55](https://news.ycombinator.com/item?id=36011172) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 * [2023-05-20, 11:53:07](https://news.ycombinator.com/item?id=36011110) - [Show HN: Mapname – anonymous social network for organising points of interest](https://map.name)
-* [2023-05-20, 07:45:42](https://news.ycombinator.com/item?id=36010128) - [Hitler’s Antarctic base: the myth and the reality (2007) [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
 * [2023-05-20, 06:47:43](https://news.ycombinator.com/item?id=36009892) - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
 * [2023-05-20, 06:18:24](https://news.ycombinator.com/item?id=36009774) - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
 * [2023-05-20, 06:01:48](https://news.ycombinator.com/item?id=36009701) - [U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
@@ -30,6 +29,7 @@
 * [2023-05-19, 04:53:59](https://news.ycombinator.com/item?id=35997915) - [Can a Novel Capture the Power of Money?](https://www.newyorker.com/books/under-review/can-a-novel-capture-the-power-of-money)
 * [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
 * [2023-05-17, 06:31:04](https://news.ycombinator.com/item?id=35971923) - [Why Did Thomas Harriot Invent Binary?](https://fermatslibrary.com/s/why-did-thomas-harriot-invent-binary)
+* [2023-05-17, 02:49:22](https://news.ycombinator.com/item?id=35970712) - [Debug browser redirects without ruining your day](https://dodov.dev/blog/how-to-debug-browser-redirects)
 
 ## [Archives](archives/index.md)
 
