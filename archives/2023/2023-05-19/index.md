@@ -26,6 +26,7 @@
 * [2023-05-19, 19:28:21](https://news.ycombinator.com/item?id=36005879) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=f4c590ed3fe6)
 * [2023-05-19, 19:22:09](https://news.ycombinator.com/item?id=36005823) - [Switching from QWERTY to Colemak and Back](https://oppositeinvictus.com/switching-from-qwerty-to-colemak-and-back)
 * [2023-05-19, 19:18:53](https://news.ycombinator.com/item?id=36005787) - [US Air Force Shoots Down Drone Swarm with THOR Microwave Weapon](https://www.thedefensepost.com/2023/05/18/us-drone-swarm-thor/)
+* [2023-05-19, 19:09:54](https://news.ycombinator.com/item?id=36005717) - [Multiple lines of evidence suggest persistence of the ivory-billed woodpecker](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10017)
 * [2023-05-19, 19:00:08](https://news.ycombinator.com/item?id=36005611) - [Nonius Clock](https://www.lykahb.com/projects/clock.html)
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
 * [2023-05-19, 18:32:39](https://news.ycombinator.com/item?id=36005311) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
