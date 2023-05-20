@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-05-20, 14:30:53](https://news.ycombinator.com/item?id=36012227) - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
+* [2023-05-20, 14:20:09](https://news.ycombinator.com/item?id=36012137) - [I helped Pfizer think through the ethics of Viagra 25 years ago](https://www.statnews.com/2023/05/19/viagra-25th-anniversary-fda-approval-ethics-pfizer/)
 * [2023-05-20, 14:05:31](https://news.ycombinator.com/item?id=36012028) - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
 * [2023-05-20, 13:58:34](https://news.ycombinator.com/item?id=36011978) - [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
 * [2023-05-20, 13:21:20](https://news.ycombinator.com/item?id=36011725) - [Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery](https://www.nytimes.com/2023/05/20/business/mykonos-greece-construction-tourism.html)
@@ -19,7 +21,6 @@
 * [2023-05-20, 04:42:14](https://news.ycombinator.com/item?id=36009430) - [Rooms.xyz](https://rooms.xyz/)
 * [2023-05-20, 04:06:20](https://news.ycombinator.com/item?id=36009291) - [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 * [2023-05-20, 03:17:03](https://news.ycombinator.com/item?id=36009055) - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
-* [2023-05-20, 01:20:35](https://news.ycombinator.com/item?id=36008564) - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
 * [2023-05-20, 01:13:49](https://news.ycombinator.com/item?id=36008526) - [Axle OS](https://axleos.com/)
 * [2023-05-19, 23:58:49](https://news.ycombinator.com/item?id=36008139) - [Topiary: A code formatting engine leveraging Tree-sitter](https://www.tweag.io/blog/2023-03-09-announcing-topiary/)
 * [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)
@@ -28,7 +29,6 @@
 * [2023-05-19, 10:17:11](https://news.ycombinator.com/item?id=35999835) - [Orb Farm](https://orb.farm/)
 * [2023-05-19, 05:44:31](https://news.ycombinator.com/item?id=35998210) - [Embedded Systems – Shape the World (2014)](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
 * [2023-05-19, 04:26:32](https://news.ycombinator.com/item?id=35997727) - [To Pay Rent in Medieval England, Catch Some Eels](https://www.atlasobscura.com/articles/medieval-eel-rent-map-england)
-* [2023-05-17, 11:11:27](https://news.ycombinator.com/item?id=35973699) - [Demand and ETR Forecasting at Airports](https://www.uber.com/en-FR/blog/demand-and-etr-forecasting-at-airports/)
 * [2023-05-16, 20:28:04](https://news.ycombinator.com/item?id=35967322) - [In a Sheep to Shawl competition, you have 5 people, 1 sheep, and 3 hours](https://www.npr.org/2023/05/15/1176174760/sheep-shawl-fiber-art)
 
 ## [Archives](archives/index.md)
