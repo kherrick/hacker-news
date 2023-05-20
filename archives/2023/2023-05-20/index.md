@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 15:41:15](https://news.ycombinator.com/item?id=36012833) - [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-05-20, 14:30:53](https://news.ycombinator.com/item?id=36012227) - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)

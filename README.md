@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-20, 15:41:15](https://news.ycombinator.com/item?id=36012833) - [The Fanfic Sex Trope That Caught a Plundering AI Red-Handed](https://www.wired.com/story/fanfiction-omegaverse-sex-trope-artificial-intelligence-knotting/)
+* [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth Plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-05-20, 14:30:53](https://news.ycombinator.com/item?id=36012227) - [Thales seizes control of ESA demonstration satellite in cybersecurity exercise](https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first)
 * [2023-05-20, 14:05:31](https://news.ycombinator.com/item?id=36012028) - [Using Advanced Camera Tech and AI to Target the Poor](https://petapixel.com/2023/05/19/big-brother-is-using-advanced-camera-tech-and-ai-to-target-the-poor/)
@@ -11,6 +11,7 @@
 * [2023-05-20, 11:53:07](https://news.ycombinator.com/item?id=36011110) - [Show HN: Mapname – anonymous social network for organising points of interest](https://map.name)
 * [2023-05-20, 11:47:07](https://news.ycombinator.com/item?id=36011072) - [WeWork has frittered away $46.7B in value as the stock sinks below ¢50](https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4)
 * [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
+* [2023-05-20, 07:45:42](https://news.ycombinator.com/item?id=36010128) - [Hitler’s Antarctic base: the myth and the reality (2007) [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
 * [2023-05-20, 06:47:43](https://news.ycombinator.com/item?id=36009892) - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
 * [2023-05-20, 06:18:24](https://news.ycombinator.com/item?id=36009774) - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
 * [2023-05-20, 06:01:48](https://news.ycombinator.com/item?id=36009701) - [U.S. Universities Are Building a New Semiconductor Workforce](https://spectrum.ieee.org/chips-act-workforce-development)
@@ -19,7 +20,6 @@
 * [2023-05-20, 04:42:14](https://news.ycombinator.com/item?id=36009430) - [Rooms.xyz](https://rooms.xyz/)
 * [2023-05-20, 04:06:20](https://news.ycombinator.com/item?id=36009291) - [Nontoxic powder uses sunlight to quickly disinfect contaminated drinking water](https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/)
 * [2023-05-20, 03:17:03](https://news.ycombinator.com/item?id=36009055) - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
-* [2023-05-20, 01:20:35](https://news.ycombinator.com/item?id=36008564) - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)
 * [2023-05-20, 01:13:49](https://news.ycombinator.com/item?id=36008526) - [Axle OS](https://axleos.com/)
 * [2023-05-19, 23:58:49](https://news.ycombinator.com/item?id=36008139) - [Topiary: A code formatting engine leveraging Tree-sitter](https://www.tweag.io/blog/2023-03-09-announcing-topiary/)
 * [2023-05-19, 20:22:51](https://news.ycombinator.com/item?id=36006423) - [Nyxt: The Hacker&#x27;s Browser](https://nyxt.atlas.engineer/)
