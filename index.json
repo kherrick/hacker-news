@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-05-20, 23:01:01",
-      "https://news.ycombinator.com/item?id=36016420"
+      "2023-05-21, 01:16:56",
+      "https://news.ycombinator.com/item?id=36017115"
     ],
     [
-      "Google blew it with open source layoffs",
-      "https://www.infoworld.com/article/3686511/google-blew-it-with-open-source-layoffs.html"
+      "Nonprofits are sapping the progressive project",
+      "https://www.noahpinion.blog/p/nonprofits-are-sapping-the-progressive"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 23:49:33",
+      "https://news.ycombinator.com/item?id=36016653"
+    ],
+    [
+      "Japanese police make first YouTuber arrest for uploading video game gameplay",
+      "https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 23:48:46",
+      "https://news.ycombinator.com/item?id=36016649"
+    ],
+    [
+      "Symbolics Lisp Machines Graphics Demo (1990) [video]",
+      "https://www.youtube.com/watch?v=RQKlgza_HgE"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 23:01:00",
+      "https://news.ycombinator.com/item?id=36016419"
+    ],
+    [
+      "Apple-1 ELIZA chatbot vs. ChatGPT",
+      "https://www.youtube.com/watch?v=1yZRNt25Wdo"
     ]
   ],
   [
@@ -21,21 +51,11 @@
   ],
   [
     [
-      "2023-05-20, 22:28:59",
-      "https://news.ycombinator.com/item?id=36016230"
-    ],
-    [
-      "China overtakes United States on contribution to research in Nature Index",
-      "https://www.nature.com/articles/d41586-023-01705-7"
-    ]
-  ],
-  [
-    [
       "2023-05-20, 21:31:53",
       "https://news.ycombinator.com/item?id=36015815"
     ],
     [
-      "The 0+ HFT Strategy",
+      "0+: A double digit Sharpe HFT strategy",
       "https://blog.everstrike.io/the-0-hft-strategy/"
     ]
   ],
@@ -45,18 +65,8 @@
       "https://news.ycombinator.com/item?id=36015383"
     ],
     [
-      "Popular Pirate Bay Proxy Site Disappears from GitHub",
+      "Popular Pirate Bay proxy site disappears from GitHub",
       "https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 20:24:42",
-      "https://news.ycombinator.com/item?id=36015232"
-    ],
-    [
-      "An exploit can reveal your KeePass master password in plaintext",
-      "https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-05-20, 19:26:59",
-      "https://news.ycombinator.com/item?id=36014796"
-    ],
-    [
-      "“Don Knuth Plays with ChatGPT” but with ChatGPT-4",
-      "https://gist.github.com/Jessime/63f93215faed6f7109c6d62b7fef7fbc"
-    ]
-  ],
-  [
-    [
       "2023-05-20, 17:25:09",
       "https://news.ycombinator.com/item?id=36013783"
     ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36013309"
     ],
     [
-      "Review: Energy and Civilization, by Vaclav Smil",
+      "Review: Energy and Civilization",
       "https://www.thepsmiths.com/p/review-energy-and-civilization-by"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-05-19, 08:31:09",
+      "https://news.ycombinator.com/item?id=35999296"
+    ],
+    [
+      "Apple II Vapor Lock and the Floating Bus",
+      "http://www.deater.net/weave/vmwprod/megademo/vapor_lock.html"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 06:07:40",
       "https://news.ycombinator.com/item?id=35998359"
     ],
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2023-05-17, 09:28:18",
+      "https://news.ycombinator.com/item?id=35973000"
+    ],
+    [
+      "Ocicl – An ASDF system distribution and management tool for Common Lisp",
+      "https://github.com/ocicl/ocicl"
+    ]
+  ],
+  [
+    [
       "2023-05-17, 08:25:22",
       "https://news.ycombinator.com/item?id=35972584"
     ],
@@ -277,26 +297,6 @@
     [
       "My Interview with Eelco Visser on Parsing",
       "https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 06:31:04",
-      "https://news.ycombinator.com/item?id=35971923"
-    ],
-    [
-      "Why Did Thomas Harriot Invent Binary?",
-      "https://fermatslibrary.com/s/why-did-thomas-harriot-invent-binary"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 02:49:22",
-      "https://news.ycombinator.com/item?id=35970712"
-    ],
-    [
-      "Debug browser redirects without ruining your day",
-      "https://dodov.dev/blog/how-to-debug-browser-redirects"
     ]
   ]
 ]
