@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-21, 22:38:23](https://news.ycombinator.com/item?id=36025288) - [China is calling in loans to dozens of countries from Pakistan to Kenya](https://fortune.com/2023/05/18/china-belt-road-loans-pakistan-sri-lanka-africa-collapse-economic-instability/)
 * [2023-05-21, 22:36:58](https://news.ycombinator.com/item?id=36025278) - [Ask HN: What&#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
 * [2023-05-21, 22:26:05](https://news.ycombinator.com/item?id=36025209) - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
 * [2023-05-21, 22:08:35](https://news.ycombinator.com/item?id=36025099) - [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
@@ -8,6 +7,9 @@
 * [2023-05-21, 21:33:05](https://news.ycombinator.com/item?id=36024887) - [Noise is all around us](https://thewalrus.ca/noise-ethics/)
 * [2023-05-21, 21:13:31](https://news.ycombinator.com/item?id=36024754) - [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
 * [2023-05-21, 20:32:36](https://news.ycombinator.com/item?id=36024445) - [The $40M bet that made South Korea a food and cultural power](https://blog.hubspot.com/the-hustle/the-40m-bet-that-made-south-korea-a-food-and-cultural-power)
+* [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How much memory do you need to run 1M concurrent tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
+* [2023-05-21, 18:44:02](https://news.ycombinator.com/item?id=36023656) - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
+* [2023-05-21, 17:58:33](https://news.ycombinator.com/item?id=36023269) - [Ask HN: Have you used a forward sale to avoid stock transfer restrictions?](https://news.ycombinator.com/item?id=36023269)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-05-21, 16:58:56](https://news.ycombinator.com/item?id=36022768) - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
@@ -23,13 +25,11 @@
 * [2023-05-21, 08:41:11](https://news.ycombinator.com/item?id=36019005) - [Typical: Data interchange with algebraic data types](https://github.com/stepchowfun/typical)
 * [2023-05-21, 05:33:53](https://news.ycombinator.com/item?id=36018300) - [Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
 * [2023-05-21, 05:28:43](https://news.ycombinator.com/item?id=36018272) - [America’s skepticism toward the first automobiles (1930)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
-* [2023-05-20, 21:09:09](https://news.ycombinator.com/item?id=36015638) - [The Data Fix with Dr. Mél Hogan](https://shows.acast.com/the-data-fix)
 * [2023-05-20, 19:26:27](https://news.ycombinator.com/item?id=36014790) - [The Last Cosmopolitan: Elias Canetti’s 20th Century](https://www.thenation.com/article/culture/elias-canetti-joshua-cohen-cosmopolitan/)
 * [2023-05-20, 11:12:34](https://news.ycombinator.com/item?id=36010911) - [Is Consciousness More Like Chess or the Weather?](https://nautil.us/is-consciousness-more-like-chess-or-the-weather-304796/)
 * [2023-05-20, 10:49:23](https://news.ycombinator.com/item?id=36010778) - [Show HN: PuzzleMoji, a daily emoji pictionary challenge against ChatGPT](https://puzzlemoji.com/)
 * [2023-05-20, 10:00:36](https://news.ycombinator.com/item?id=36010600) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 04:53:20](https://news.ycombinator.com/item?id=36009472) - [OpenEPaperLink: Alternative Firmware for ZBS243-Based eInk Shelf Labels](https://github.com/jjwbruijn/OpenEPaperLink)
-* [2023-05-19, 10:35:34](https://news.ycombinator.com/item?id=35999951) - [First ever 64-bit version of Windows rediscovered and a C compiler for it too](https://www.theregister.com/2023/05/19/first_64bit_windows/)
 
 ## [Archives](archives/index.md)
 
