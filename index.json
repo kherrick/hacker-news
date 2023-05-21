@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-05-21, 12:27:22",
+      "https://news.ycombinator.com/item?id=36020196"
+    ],
+    [
+      "Suspicious iOS KeePass Client",
+      "https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 12:09:39",
+      "https://news.ycombinator.com/item?id=36020080"
+    ],
+    [
+      "Windows 11 is so broken that even Microsoft can’t fix it",
+      "https://www.techradar.com/news/windows-11-is-so-broken-that-even-microsoft-cant-fix-it"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 12:01:14",
       "https://news.ycombinator.com/item?id=36020029"
     ],
     [
       "Emerge Tools is building the future of mobile tooling, come join us",
       "https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 11:32:34",
+      "https://news.ycombinator.com/item?id=36019870"
+    ],
+    [
+      "Arch Linux: Git migration completed",
+      "https://archlinux.org/news/git-migration-completed/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "The Absurdity Of Stacks",
       "https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 09:25:34",
+      "https://news.ycombinator.com/item?id=36019208"
+    ],
+    [
+      "Building a Handheld PC",
+      "https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html"
     ]
   ],
   [
@@ -161,16 +201,6 @@
   ],
   [
     [
-      "2023-05-21, 05:17:19",
-      "https://news.ycombinator.com/item?id=36018221"
-    ],
-    [
-      "Dragonfly – The most performant in-memory data store on Earth",
-      "https://www.dragonflydb.io/?gclid=CjwKCAjw36GjBhAkEiwAKwIWyR8z6AbdHnG7gNsdqQpndmNTkck5av2CU0WDVVMJQjwEAjd9NK7hnhoCqGkQAvD_BwE"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 05:00:41",
       "https://news.ycombinator.com/item?id=36018149"
     ],
@@ -187,16 +217,6 @@
     [
       "Feynman Lectures on Physics (1964)",
       "https://www.feynmanlectures.caltech.edu/"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 03:28:58",
-      "https://news.ycombinator.com/item?id=36017775"
-    ],
-    [
-      "Moonrabbit Collection",
-      "https://ldjam.com/events/ludum-dare/53/moonrabbit-collection"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-05-19, 06:40:48",
-      "https://news.ycombinator.com/item?id=35998544"
-    ],
-    [
-      "WinLinux 2000",
-      "https://archive.org/details/win-linux-2000"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 06:13:53",
       "https://news.ycombinator.com/item?id=35998390"
     ],
@@ -287,16 +297,6 @@
     [
       "JunoDB: PayPal’s Key-Value Store Goes Open-Source",
       "https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 23:56:59",
-      "https://news.ycombinator.com/item?id=35982722"
-    ],
-    [
-      "DevEx: What Drives Productivity",
-      "https://queue.acm.org/detail.cfm?id=3595878"
     ]
   ]
 ]
