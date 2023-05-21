@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-20](index.md)
 
+* [2023-05-20, 23:49:33](https://news.ycombinator.com/item?id=36016653) - [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
+* [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 23:01:01](https://news.ycombinator.com/item?id=36016420) - [Google blew it with open source layoffs](https://www.infoworld.com/article/3686511/google-blew-it-with-open-source-layoffs.html)
+* [2023-05-20, 23:01:00](https://news.ycombinator.com/item?id=36016419) - [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
 * [2023-05-20, 22:31:10](https://news.ycombinator.com/item?id=36016250) - [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
 * [2023-05-20, 22:28:59](https://news.ycombinator.com/item?id=36016230) - [China overtakes United States on contribution to research in Nature Index](https://www.nature.com/articles/d41586-023-01705-7)
 * [2023-05-20, 21:31:53](https://news.ycombinator.com/item?id=36015815) - [The 0+ HFT Strategy](https://blog.everstrike.io/the-0-hft-strategy/)

@@ -88,6 +88,7 @@
 * [2023-05-17, 09:38:02](https://news.ycombinator.com/item?id=35973093) - [Planned obsolescence: Apple attacked for the “serialization” of its spare parts](https://www.lemonde.fr/pixels/article/2023/05/17/obsolescence-programmee-apple-attaquee-pour-la-serialisation-de-ses-pieces-detachees_6173705_4408996.html)
 * [2023-05-17, 09:30:13](https://news.ycombinator.com/item?id=35973016) - [Framework Laptop 13 Review](https://www.theguardian.com/technology/2023/may/17/framework-laptop-13-review-modular-pc-upgrade-performance)
 * [2023-05-17, 09:30:11](https://news.ycombinator.com/item?id=35973015) - [Logitech iFeel Mouses (2001)](http://www.dansdata.com/ifeel.htm)
+* [2023-05-17, 09:28:18](https://news.ycombinator.com/item?id=35973000) - [Ocicl – An ASDF system distribution and management tool for Common Lisp](https://github.com/ocicl/ocicl)
 * [2023-05-17, 08:57:08](https://news.ycombinator.com/item?id=35972774) - [Slack Is Down](https://slack.com)
 * [2023-05-17, 08:36:26](https://news.ycombinator.com/item?id=35972664) - [The U.S. birth rate has fallen by 20% since 2007](https://econofact.org/the-mystery-of-the-declining-u-s-birth-rate)
 * [2023-05-17, 08:30:52](https://news.ycombinator.com/item?id=35972631) - [Rollstack (YC W23) Is hiring a Node.js software engineer](https://www.ycombinator.com/companies/rollstack-2/jobs/SMeE2q7-senior-software-engineer-in-europe)
