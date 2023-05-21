@@ -105,6 +105,7 @@
 * [2023-05-19, 07:09:08](https://news.ycombinator.com/item?id=35998716) - [Hands-Free Coding (2020)](https://www.joshwcomeau.com/blog/hands-free-coding/)
 * [2023-05-19, 07:00:38](https://news.ycombinator.com/item?id=35998667) - [Memfault (YC W19) Is Hiring Their First Product Designer in Berlin](https://jobs.lever.co/memfault/730541eb-637f-4d9d-9526-8949432f9a34)
 * [2023-05-19, 06:58:09](https://news.ycombinator.com/item?id=35998649) - [Interactive Point-Based Manipulation on the Generative Image Manifold](https://vcai.mpi-inf.mpg.de/projects/DragGAN/)
+* [2023-05-19, 06:40:48](https://news.ycombinator.com/item?id=35998544) - [WinLinux 2000](https://archive.org/details/win-linux-2000)
 * [2023-05-19, 06:22:57](https://news.ycombinator.com/item?id=35998450) - [Samsung eyes chip facility in Japan amid thaw in Seoul-Tokyo relations](https://m.koreaherald.com/view.php?ud=20230515000614)
 * [2023-05-19, 06:16:58](https://news.ycombinator.com/item?id=35998411) - [Want to build your own graphics and audio hardware?](https://martin-piper.itch.io/bomb-jack-display-hardware)
 * [2023-05-19, 06:07:40](https://news.ycombinator.com/item?id=35998359) - [JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
