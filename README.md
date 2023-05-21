@@ -18,6 +18,7 @@
 * [2023-05-21, 10:17:17](https://news.ycombinator.com/item?id=36019492) - [HP rushes to fix bricked printers after faulty firmware update](https://www.bleepingcomputer.com/news/technology/hp-rushes-to-fix-bricked-printers-after-faulty-firmware-update/)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 09:25:34](https://news.ycombinator.com/item?id=36019208) - [Building a Handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
+* [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 08:29:23](https://news.ycombinator.com/item?id=36018949) - [ПП-BESM – a Soviet language (1955)](http://xav.io/posts/besm/)
 * [2023-05-21, 07:56:22](https://news.ycombinator.com/item?id=36018817) - [TOML: Tom&#x27;s Obvious Minimal Language](https://toml.io/en/)
 * [2023-05-21, 07:49:03](https://news.ycombinator.com/item?id=36018794) - [Notes on the Cost of Go Finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
@@ -28,7 +29,6 @@
 * [2023-05-20, 12:57:39](https://news.ycombinator.com/item?id=36011560) - [Thermal transfer compound comparison (2002)](http://www.dansdata.com/goop.htm)
 * [2023-05-20, 04:53:20](https://news.ycombinator.com/item?id=36009472) - [OpenEPaperLink: Alternative Firmware for ZBS243-Based eInk Shelf Labels](https://github.com/jjwbruijn/OpenEPaperLink)
 * [2023-05-19, 18:28:29](https://news.ycombinator.com/item?id=36005248) - [More notes about pain as a game mechanic](https://blog.plover.com/games/game-mechanics-2.html)
-* [2023-05-19, 14:24:11](https://news.ycombinator.com/item?id=36002355) - [Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]](https://www.youtube.com/watch?v=u7pBAt2kWqA)
 * [2023-05-19, 07:11:47](https://news.ycombinator.com/item?id=35998731) - [Pushing through when no one cares](https://elpha.com/posts/vbuzm9rg/pushing-through-when-no-one-cares)
 
 ## [Archives](archives/index.md)
