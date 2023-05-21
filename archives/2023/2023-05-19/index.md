@@ -69,6 +69,7 @@
 * [2023-05-19, 13:08:47](https://news.ycombinator.com/item?id=36001474) - [D1: We turned it up to 11](https://blog.cloudflare.com/d1-turning-it-up-to-11/)
 * [2023-05-19, 13:07:41](https://news.ycombinator.com/item?id=36001465) - [LangChain: The Missing Manual](https://www.pinecone.io/learn/langchain/)
 * [2023-05-19, 12:46:55](https://news.ycombinator.com/item?id=36001238) - [Possible toxicity of chronic CO2 exposure associated with face mask use [pdf]](https://www.cell.com/heliyon/pdf/S2405-8440(23)01324-5.pdf)
+* [2023-05-19, 12:20:46](https://news.ycombinator.com/item?id=36000932) - [Big Patch Series Prepares the Linux Audio Drivers for MIDI 2.0](https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches)
 * [2023-05-19, 12:07:25](https://news.ycombinator.com/item?id=36000824) - [My solar-powered blog is now on lithium iron phosphate](https://louwrentius.com/my-solar-powered-blog-is-now-on-lithium-iron-phosphate.html)
 * [2023-05-19, 11:50:00](https://news.ycombinator.com/item?id=36000631) - [Google Photorealistic 3D Tiles and Unreal Engine](https://nilsbakker.nl/portfolio/3d-tiles/)
 * [2023-05-19, 11:34:55](https://news.ycombinator.com/item?id=36000459) - [WhatsApp could disappear from UK over privacy concerns, ministers told](https://www.theguardian.com/technology/2023/may/08/whatsapp-could-disappear-uk-over-privacy-concerns-ministers-told)
