@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 16:58:56",
+      "https://news.ycombinator.com/item?id=36022768"
+    ],
+    [
+      "AI boom could expose investors’ natural stupidity",
+      "https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 16:51:22",
       "https://news.ycombinator.com/item?id=36022695"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-05-21, 12:27:22",
-      "https://news.ycombinator.com/item?id=36020196"
-    ],
-    [
-      "Suspicious iOS KeePass Client",
-      "https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 12:01:14",
       "https://news.ycombinator.com/item?id=36020029"
     ],
@@ -177,16 +177,6 @@
     [
       "Building a Handheld PC",
       "https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 08:29:54",
-      "https://news.ycombinator.com/item?id=36018950"
-    ],
-    [
-      "Little Languages for Music (1990) [pdf]",
-      "https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf"
     ]
   ],
   [
@@ -271,22 +261,32 @@
   ],
   [
     [
+      "2023-05-20, 04:53:20",
+      "https://news.ycombinator.com/item?id=36009472"
+    ],
+    [
+      "OpenEPaperLink: Alternative Firmware for ZBS243-Based eInk Shelf Labels",
+      "https://github.com/jjwbruijn/OpenEPaperLink"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 18:28:29",
+      "https://news.ycombinator.com/item?id=36005248"
+    ],
+    [
+      "More notes about pain as a game mechanic",
+      "https://blog.plover.com/games/game-mechanics-2.html"
+    ]
+  ],
+  [
+    [
       "2023-05-19, 14:24:11",
       "https://news.ycombinator.com/item?id=36002355"
     ],
     [
       "Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]",
       "https://www.youtube.com/watch?v=u7pBAt2kWqA"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 10:35:34",
-      "https://news.ycombinator.com/item?id=35999951"
-    ],
-    [
-      "First ever 64-bit version of Windows rediscovered and a C compiler for it too",
-      "https://www.theregister.com/2023/05/19/first_64bit_windows/"
     ]
   ],
   [
