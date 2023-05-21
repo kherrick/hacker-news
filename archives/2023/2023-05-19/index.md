@@ -31,6 +31,7 @@
 * [2023-05-19, 19:00:08](https://news.ycombinator.com/item?id=36005611) - [Nonius Clock](https://www.lykahb.com/projects/clock.html)
 * [2023-05-19, 18:59:32](https://news.ycombinator.com/item?id=36005600) - [Road to Reality Executable Essay](https://reality.mentat.org/essays/reality/introduction)
 * [2023-05-19, 18:32:39](https://news.ycombinator.com/item?id=36005311) - [User Stories? Thanks but No](https://beza1e1.tuxen.de/user_stories.html)
+* [2023-05-19, 18:28:29](https://news.ycombinator.com/item?id=36005248) - [More notes about pain as a game mechanic](https://blog.plover.com/games/game-mechanics-2.html)
 * [2023-05-19, 18:01:56](https://news.ycombinator.com/item?id=36004980) - [Secret Messages Can Hide in AI-Generated Media](https://www.quantamagazine.org/secret-messages-can-hide-in-ai-generated-media-20230518/)
 * [2023-05-19, 17:57:53](https://news.ycombinator.com/item?id=36004925) - [Migrating from Supabase](https://blog.val.town/blog/migrating-from-supabase)
 * [2023-05-19, 17:53:52](https://news.ycombinator.com/item?id=36004867) - [A Centuries-Old Mystery: Did This Elusive Viking City Exist?](https://www.nytimes.com/2023/05/18/world/europe/poland-vikings-wolin-jomsborg.html)
