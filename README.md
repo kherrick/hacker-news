@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-21, 14:15:35](https://news.ycombinator.com/item?id=36021073) - [The California Reparations Commission Fails State History](https://www.nationalreview.com/2023/05/the-california-reparations-commission-fails-state-history/)
+* [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The End of the Accounting Search](https://lwn.net/Articles/925782/)
+* [2023-05-21, 14:25:25](https://news.ycombinator.com/item?id=36021172) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 13:47:56](https://news.ycombinator.com/item?id=36020811) - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
 * [2023-05-21, 13:22:10](https://news.ycombinator.com/item?id=36020597) - [Ask HN: What are your favorite sci-fi books?](https://news.ycombinator.com/item?id=36020597)
 * [2023-05-21, 13:01:44](https://news.ycombinator.com/item?id=36020473) - [Study finds 90% of Australian teachers can&#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
-* [2023-05-21, 12:57:27](https://news.ycombinator.com/item?id=36020437) - [The bill of materials for the Apple headset leaked](https://twitter.com/cixliv/status/1660038281034350592)
 * [2023-05-21, 12:56:52](https://news.ycombinator.com/item?id=36020431) - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
 * [2023-05-21, 12:27:22](https://news.ycombinator.com/item?id=36020196) - [Suspicious iOS KeePass Client](https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/)
 * [2023-05-21, 12:01:14](https://news.ycombinator.com/item?id=36020029) - [Emerge Tools is building the future of mobile tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote)
