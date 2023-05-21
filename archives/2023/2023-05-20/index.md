@@ -25,6 +25,7 @@
 * [2023-05-20, 19:36:23](https://news.ycombinator.com/item?id=36014887) - [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
 * [2023-05-20, 19:28:29](https://news.ycombinator.com/item?id=36014812) - [Martin Amis, era-defining British novelist, dies aged 73](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
 * [2023-05-20, 19:26:59](https://news.ycombinator.com/item?id=36014796) - [“Don Knuth Plays with ChatGPT” but with ChatGPT-4](https://gist.github.com/Jessime/63f93215faed6f7109c6d62b7fef7fbc)
+* [2023-05-20, 19:26:27](https://news.ycombinator.com/item?id=36014790) - [The Last Cosmopolitan: Elias Canetti’s 20th Century](https://www.thenation.com/article/culture/elias-canetti-joshua-cohen-cosmopolitan/)
 * [2023-05-20, 19:23:54](https://news.ycombinator.com/item?id=36014778) - [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
 * [2023-05-20, 16:59:31](https://news.ycombinator.com/item?id=36013586) - [Show HN: My affordable solution to costly workflow automation: Embed Workflow](https://embedworkflow.com/)
