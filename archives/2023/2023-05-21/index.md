@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 14:15:35](https://news.ycombinator.com/item?id=36021073) - [The California Reparations Commission Fails State History](https://www.nationalreview.com/2023/05/the-california-reparations-commission-fails-state-history/)
 * [2023-05-21, 13:55:32](https://news.ycombinator.com/item?id=36020891) - [San Francisco office values fall 75%](https://www.hoover.org/research/san-francisco-falls-further-abyss-office-values-plunge-75-percent)
 * [2023-05-21, 13:47:56](https://news.ycombinator.com/item?id=36020811) - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
 * [2023-05-21, 13:45:35](https://news.ycombinator.com/item?id=36020792) - [The New Bar Exam Puts DEI over Lawyer Competence](https://www.wsj.com/articles/the-new-bar-exam-puts-dei-over-competence-ncbe-family-law-schools-9c0dd4e8)
+* [2023-05-21, 13:22:10](https://news.ycombinator.com/item?id=36020597) - [Ask HN: What are your favorite sci-fi books?](https://news.ycombinator.com/item?id=36020597)
 * [2023-05-21, 13:01:44](https://news.ycombinator.com/item?id=36020473) - [Study finds 90% of Australian teachers can&#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
 * [2023-05-21, 12:57:27](https://news.ycombinator.com/item?id=36020437) - [The Bill of Materials for the Apple Headset Leaked Online](https://twitter.com/cixliv/status/1660038281034350592)
 * [2023-05-21, 12:56:52](https://news.ycombinator.com/item?id=36020431) - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
