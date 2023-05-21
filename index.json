@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 05:55:34",
+      "https://news.ycombinator.com/item?id=36018386"
+    ],
+    [
+      "The AI revolution already transforming education",
+      "https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 05:28:43",
       "https://news.ycombinator.com/item?id=36018272"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2023-05-21, 05:00:41",
+      "https://news.ycombinator.com/item?id=36018149"
+    ],
+    [
+      "KeyDB – multi-threaded Redis fork by Snapchat",
+      "https://docs.keydb.dev/"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 04:47:41",
       "https://news.ycombinator.com/item?id=36018107"
     ],
     [
       "The Raygun Conspiracy",
       "https://www.youtube.com/watch?v=zTZAQSEcPGc"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 04:07:08",
-      "https://news.ycombinator.com/item?id=36017940"
-    ],
-    [
-      "The lefty Europeans who want to deliberately shrink the economy",
-      "https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Hybrid Fortran – A Framework for GPU Acceleration",
       "https://github.com/muellermichel/Hybrid-Fortran"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 06:39:10",
-      "https://news.ycombinator.com/item?id=35971961"
-    ],
-    [
-      "My Interview with Eelco Visser on Parsing",
-      "https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html"
     ]
   ]
 ]
