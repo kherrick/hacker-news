@@ -12,6 +12,7 @@
 * [2023-05-21, 08:47:10](https://news.ycombinator.com/item?id=36019038) - [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2023-05-21, 08:45:31](https://news.ycombinator.com/item?id=36019030) - [r9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
+* [2023-05-21, 08:29:23](https://news.ycombinator.com/item?id=36018949) - [ПП-BESM – a Soviet language (1955)](http://xav.io/posts/besm/)
 * [2023-05-21, 07:49:03](https://news.ycombinator.com/item?id=36018794) - [Notes on the Cost of Go Finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 07:15:05](https://news.ycombinator.com/item?id=36018670) - [AI in the Arts Is the Destruction of the Film Industry. We Can&#x27;t Go Quietly](https://www.newsweek.com/ai-arts-destruction-film-industry-we-cant-go-quietly-opinion-1800983)
 * [2023-05-21, 07:11:42](https://news.ycombinator.com/item?id=36018657) - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
