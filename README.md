@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-21, 12:27:22](https://news.ycombinator.com/item?id=36020196) - [Suspicious iOS KeePass Client](https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/)
-* [2023-05-21, 12:09:39](https://news.ycombinator.com/item?id=36020080) - [Windows 11 is so broken that even Microsoft can’t fix it](https://www.techradar.com/news/windows-11-is-so-broken-that-even-microsoft-cant-fix-it)
 * [2023-05-21, 12:01:14](https://news.ycombinator.com/item?id=36020029) - [Emerge Tools is building the future of mobile tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote)
 * [2023-05-21, 11:32:34](https://news.ycombinator.com/item?id=36019870) - [Arch Linux: Git migration completed](https://archlinux.org/news/git-migration-completed/)
 * [2023-05-21, 10:56:53](https://news.ycombinator.com/item?id=36019664) - [Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
@@ -15,13 +14,13 @@
 * [2023-05-21, 08:45:31](https://news.ycombinator.com/item?id=36019030) - [r9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 08:29:23](https://news.ycombinator.com/item?id=36018949) - [ПП-BESM – a Soviet language (1955)](http://xav.io/posts/besm/)
-* [2023-05-21, 07:56:22](https://news.ycombinator.com/item?id=36018817) - [TOML: Tom&#x27;s Obvious Minimal Language](https://toml.io/en/)
 * [2023-05-21, 07:49:03](https://news.ycombinator.com/item?id=36018794) - [Notes on the Cost of Go Finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 07:11:42](https://news.ycombinator.com/item?id=36018657) - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
 * [2023-05-21, 06:59:59](https://news.ycombinator.com/item?id=36018621) - [Writing Python like it&#x27;s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-21, 06:28:19](https://news.ycombinator.com/item?id=36018512) - [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
 * [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
+* [2023-05-21, 03:28:58](https://news.ycombinator.com/item?id=36017775) - [Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
 * [2023-05-21, 00:49:29](https://news.ycombinator.com/item?id=36016982) - [How Do Semiconductors Work? Introduction to SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
 * [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 10:49:23](https://news.ycombinator.com/item?id=36010778) - [Show HN: PuzzleMoji, a daily emoji pictionary challenge against ChatGPT](https://puzzlemoji.com/)
@@ -30,6 +29,7 @@
 * [2023-05-19, 10:35:34](https://news.ycombinator.com/item?id=35999951) - [First ever 64-bit version of Windows rediscovered and a C compiler for it too](https://www.theregister.com/2023/05/19/first_64bit_windows/)
 * [2023-05-19, 06:13:53](https://news.ycombinator.com/item?id=35998390) - [Trying Gnus as an Email Client](https://gluer.org/blog/2023/trying-gnus-as-an-email-client/)
 * [2023-05-19, 06:07:40](https://news.ycombinator.com/item?id=35998359) - [JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
+* [2023-05-17, 23:56:59](https://news.ycombinator.com/item?id=35982722) - [DevEx: What Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
 
 ## [Archives](archives/index.md)
 
