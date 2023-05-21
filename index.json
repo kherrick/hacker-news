@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-21, 15:35:52",
+      "https://news.ycombinator.com/item?id=36022005"
+    ],
+    [
+      "Plain Text Accounting",
+      "https://plaintextaccounting.org/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 14:51:27",
+      "https://news.ycombinator.com/item?id=36021530"
+    ],
+    [
+      "US is expanding CO2 pipelines. One poisoned town wants you to know its story",
+      "https://text.npr.org/1172679786"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 14:49:12",
       "https://news.ycombinator.com/item?id=36021495"
     ],
@@ -37,6 +57,16 @@
     [
       "Paris’s Centre Pompidou to Close for Five Years Starting in 2025",
       "https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 13:36:44",
+      "https://news.ycombinator.com/item?id=36020717"
+    ],
+    [
+      "Show HN: Trogon – An automatic TUI for command line apps",
+      "https://github.com/Textualize/trogon"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2023-05-21, 11:32:34",
-      "https://news.ycombinator.com/item?id=36019870"
-    ],
-    [
-      "Arch Linux: Git migration completed",
-      "https://archlinux.org/news/git-migration-completed/"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 10:36:11",
       "https://news.ycombinator.com/item?id=36019580"
     ],
@@ -147,16 +167,6 @@
     [
       "Building a Handheld PC",
       "https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 08:45:31",
-      "https://news.ycombinator.com/item?id=36019030"
-    ],
-    [
-      "r9: Plan 9 in Rust",
-      "https://github.com/r9os/r9"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2023-05-21, 05:33:53",
+      "https://news.ycombinator.com/item?id=36018300"
+    ],
+    [
+      "Testing a Formally Verified Compiler",
+      "https://hal.science/hal-04096390/document"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 05:00:41",
       "https://news.ycombinator.com/item?id=36018149"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-05-19, 18:28:29",
-      "https://news.ycombinator.com/item?id=36005248"
-    ],
-    [
-      "More notes about pain as a game mechanic",
-      "https://blog.plover.com/games/game-mechanics-2.html"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 14:24:11",
       "https://news.ycombinator.com/item?id=36002355"
     ],
@@ -287,16 +297,6 @@
     [
       "Pushing through when no one cares",
       "https://elpha.com/posts/vbuzm9rg/pushing-through-when-no-one-cares"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 06:13:53",
-      "https://news.ycombinator.com/item?id=35998390"
-    ],
-    [
-      "Trying Gnus as an Email Client",
-      "https://gluer.org/blog/2023/trying-gnus-as-an-email-client/"
     ]
   ]
 ]
