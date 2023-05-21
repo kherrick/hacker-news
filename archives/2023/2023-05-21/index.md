@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 22:26:05](https://news.ycombinator.com/item?id=36025209) - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
 * [2023-05-21, 21:33:05](https://news.ycombinator.com/item?id=36024887) - [Noise Is All Around Us–and It’s Affecting You More Than You Think](https://thewalrus.ca/noise-ethics/)
 * [2023-05-21, 21:13:31](https://news.ycombinator.com/item?id=36024754) - [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
+* [2023-05-21, 20:32:36](https://news.ycombinator.com/item?id=36024445) - [The $40M bet that made South Korea a food and cultural power](https://blog.hubspot.com/the-hustle/the-40m-bet-that-made-south-korea-a-food-and-cultural-power)
 * [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How Much Memory Do You Need to Run 1M Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 * [2023-05-21, 18:56:47](https://news.ycombinator.com/item?id=36023745) - [No Screens Cafe](https://cmart.blog/no-screens-cafe/)
 * [2023-05-21, 18:44:02](https://news.ycombinator.com/item?id=36023656) - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
