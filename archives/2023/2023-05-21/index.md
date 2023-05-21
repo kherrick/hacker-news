@@ -42,6 +42,7 @@
 * [2023-05-21, 09:02:57](https://news.ycombinator.com/item?id=36019109) - [How AI coding companions will change the way developers work](https://www.allthingsdistributed.com/2023/04/how-ai-coding-companions-will-change-the-way-developers-work.html)
 * [2023-05-21, 08:47:10](https://news.ycombinator.com/item?id=36019038) - [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2023-05-21, 08:45:31](https://news.ycombinator.com/item?id=36019030) - [r9: Plan 9 in Rust](https://github.com/r9os/r9)
+* [2023-05-21, 08:41:11](https://news.ycombinator.com/item?id=36019005) - [Typical: Data interchange with algebraic data types](https://github.com/stepchowfun/typical)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 08:29:23](https://news.ycombinator.com/item?id=36018949) - [ПП-BESM – a Soviet language (1955)](http://xav.io/posts/besm/)
 * [2023-05-21, 07:56:22](https://news.ycombinator.com/item?id=36018817) - [TOML: Tom&#x27;s Obvious Minimal Language](https://toml.io/en/)
