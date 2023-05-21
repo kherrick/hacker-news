@@ -2,6 +2,7 @@
 
 * [2023-05-21, 08:47:10](https://news.ycombinator.com/item?id=36019038) - [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
+* [2023-05-21, 07:49:03](https://news.ycombinator.com/item?id=36018794) - [Notes on the Cost of Go Finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 07:11:42](https://news.ycombinator.com/item?id=36018657) - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
 * [2023-05-21, 06:59:59](https://news.ycombinator.com/item?id=36018621) - [Writing Python like it&#x27;s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-21, 06:28:19](https://news.ycombinator.com/item?id=36018512) - [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
@@ -14,7 +15,6 @@
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
 * [2023-05-21, 03:28:58](https://news.ycombinator.com/item?id=36017775) - [Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
 * [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Rodney Brooks on GPT-4](https://spectrum.ieee.org/gpt-4-calm-down)
-* [2023-05-21, 01:47:11](https://news.ycombinator.com/item?id=36017274) - [The Problem with Consensus (2015)](http://scienceunicorn.blogspot.com/2015/02/the-problem-with-consensus.html)
 * [2023-05-21, 00:49:29](https://news.ycombinator.com/item?id=36016982) - [How Do Semiconductors Work? Introduction to SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
 * [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 23:01:00](https://news.ycombinator.com/item?id=36016419) - [Apple-1 ELIZA chatbot vs. ChatGPT [video]](https://www.youtube.com/watch?v=1yZRNt25Wdo)
