@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 13:01:44](https://news.ycombinator.com/item?id=36020473) - [Study finds 90% of Australian teachers can&#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
+* [2023-05-21, 12:56:52](https://news.ycombinator.com/item?id=36020431) - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
 * [2023-05-21, 12:27:22](https://news.ycombinator.com/item?id=36020196) - [Suspicious iOS KeePass Client](https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/)
 * [2023-05-21, 12:09:39](https://news.ycombinator.com/item?id=36020080) - [Windows 11 is so broken that even Microsoft can’t fix it](https://www.techradar.com/news/windows-11-is-so-broken-that-even-microsoft-cant-fix-it)
 * [2023-05-21, 12:01:14](https://news.ycombinator.com/item?id=36020029) - [Emerge Tools is building the future of mobile tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote)
+* [2023-05-21, 11:54:34](https://news.ycombinator.com/item?id=36020001) - [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
 * [2023-05-21, 11:32:34](https://news.ycombinator.com/item?id=36019870) - [Arch Linux: Git migration completed](https://archlinux.org/news/git-migration-completed/)
 * [2023-05-21, 10:56:53](https://news.ycombinator.com/item?id=36019664) - [Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
 * [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
