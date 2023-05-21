@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 * [2023-05-21, 15:39:48](https://news.ycombinator.com/item?id=36022042) - [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
 * [2023-05-21, 15:35:52](https://news.ycombinator.com/item?id=36022005) - [Plain Text Accounting](https://plaintextaccounting.org/)
 * [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
@@ -26,7 +27,6 @@
 * [2023-05-21, 05:33:53](https://news.ycombinator.com/item?id=36018300) - [Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
 * [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
 * [2023-05-20, 12:57:39](https://news.ycombinator.com/item?id=36011560) - [Thermal transfer compound comparison (2002)](http://www.dansdata.com/goop.htm)
-* [2023-05-19, 18:28:29](https://news.ycombinator.com/item?id=36005248) - [More notes about pain as a game mechanic](https://blog.plover.com/games/game-mechanics-2.html)
 * [2023-05-19, 14:24:11](https://news.ycombinator.com/item?id=36002355) - [Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]](https://www.youtube.com/watch?v=u7pBAt2kWqA)
 * [2023-05-19, 10:35:34](https://news.ycombinator.com/item?id=35999951) - [First ever 64-bit version of Windows rediscovered and a C compiler for it too](https://www.theregister.com/2023/05/19/first_64bit_windows/)
 * [2023-05-19, 07:11:47](https://news.ycombinator.com/item?id=35998731) - [Pushing through when no one cares](https://elpha.com/posts/vbuzm9rg/pushing-through-when-no-one-cares)

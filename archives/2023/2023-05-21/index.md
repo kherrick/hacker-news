@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 * [2023-05-21, 15:39:48](https://news.ycombinator.com/item?id=36022042) - [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
 * [2023-05-21, 15:35:52](https://news.ycombinator.com/item?id=36022005) - [Plain Text Accounting](https://plaintextaccounting.org/)
 * [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [the US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
