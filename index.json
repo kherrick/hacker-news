@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-05-21, 07:15:05",
+      "https://news.ycombinator.com/item?id=36018670"
+    ],
+    [
+      "AI in the Arts Is the Destruction of the Film Industry. We Can&#x27;t Go Quietly",
+      "https://www.newsweek.com/ai-arts-destruction-film-industry-we-cant-go-quietly-opinion-1800983"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 07:11:42",
+      "https://news.ycombinator.com/item?id=36018657"
+    ],
+    [
+      "DarkBERT: A Language Model for the Dark Side of the Internet",
+      "https://arxiv.org/abs/2305.08596"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 06:59:59",
+      "https://news.ycombinator.com/item?id=36018621"
+    ],
+    [
+      "Writing Python like it&#x27;s Rust",
+      "https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 06:28:19",
+      "https://news.ycombinator.com/item?id=36018512"
+    ],
+    [
+      "Best Linux Books for Different Target Groups and Use Cases",
+      "https://linuxstans.com/linux-books/"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 05:55:34",
       "https://news.ycombinator.com/item?id=36018386"
     ],
@@ -31,16 +71,6 @@
   ],
   [
     [
-      "2023-05-21, 04:47:41",
-      "https://news.ycombinator.com/item?id=36018107"
-    ],
-    [
-      "The Raygun Conspiracy (1990) [video]",
-      "https://www.youtube.com/watch?v=zTZAQSEcPGc"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 03:34:04",
       "https://news.ycombinator.com/item?id=36017793"
     ],
@@ -57,16 +87,6 @@
     [
       "Moonrabbit Collection",
       "https://ldjam.com/events/ludum-dare/53/moonrabbit-collection"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 02:38:58",
-      "https://news.ycombinator.com/item?id=36017538"
-    ],
-    [
-      "Thought as a System (David Bohm, 1990) [pdf]",
-      "https://ia601808.us.archive.org/16/items/david-bohm-thought-as-a-system/David%20Bohm%20-%20Thought%20as%20a%20System.pdf"
     ]
   ],
   [
@@ -101,6 +121,16 @@
   ],
   [
     [
+      "2023-05-20, 23:49:33",
+      "https://news.ycombinator.com/item?id=36016653"
+    ],
+    [
+      "Japanese police make first YouTuber arrest for uploading video game gameplay",
+      "https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 23:48:46",
       "https://news.ycombinator.com/item?id=36016649"
     ],
@@ -131,21 +161,11 @@
   ],
   [
     [
-      "2023-05-20, 19:36:23",
-      "https://news.ycombinator.com/item?id=36014887"
-    ],
-    [
-      "SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised",
-      "https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/"
-    ]
-  ],
-  [
-    [
       "2023-05-20, 17:25:09",
       "https://news.ycombinator.com/item?id=36013783"
     ],
     [
-      "Neeva (search engine with a privacy and AI focus) is shutting down",
+      "We will be shutting down neeva.com",
       "https://neeva.com/blog/may-announcement"
     ]
   ],
@@ -207,16 +227,6 @@
     [
       "Guide to a Foreign Past",
       "https://aeon.co/essays/the-scorched-earth-iconoclasm-of-the-historian-paul-veyne"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 17:27:26",
-      "https://news.ycombinator.com/item?id=36004553"
-    ],
-    [
-      "I wrote a GameBoy emulator for my hobby OS (2022)",
-      "https://axleos.com/writing-axles-gameboy-emulator/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ocicl – An ASDF system distribution and management tool for Common Lisp",
       "https://github.com/ocicl/ocicl"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 08:25:22",
-      "https://news.ycombinator.com/item?id=35972584"
-    ],
-    [
-      "Hybrid Fortran – A Framework for GPU Acceleration",
-      "https://github.com/muellermichel/Hybrid-Fortran"
     ]
   ]
 ]
