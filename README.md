@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 08:47:10](https://news.ycombinator.com/item?id=36019038) - [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 07:49:03](https://news.ycombinator.com/item?id=36018794) - [Notes on the Cost of Go Finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
@@ -14,7 +15,6 @@
 * [2023-05-21, 03:49:50](https://news.ycombinator.com/item?id=36017857) - [The Bitter Lesson – Rich Sutton (2019)](http://incompleteideas.net/IncIdeas/BitterLesson.html?dup)
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
 * [2023-05-21, 03:28:58](https://news.ycombinator.com/item?id=36017775) - [Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
-* [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Rodney Brooks on GPT-4](https://spectrum.ieee.org/gpt-4-calm-down)
 * [2023-05-21, 00:49:29](https://news.ycombinator.com/item?id=36016982) - [How Do Semiconductors Work? Introduction to SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
 * [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 23:01:00](https://news.ycombinator.com/item?id=36016419) - [Apple-1 ELIZA chatbot vs. ChatGPT [video]](https://www.youtube.com/watch?v=1yZRNt25Wdo)
