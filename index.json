@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-20, 23:01:01",
+      "https://news.ycombinator.com/item?id=36016420"
+    ],
+    [
+      "Google blew it with open source layoffs",
+      "https://www.infoworld.com/article/3686511/google-blew-it-with-open-source-layoffs.html"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 22:31:10",
       "https://news.ycombinator.com/item?id=36016250"
     ],
@@ -17,6 +27,16 @@
     [
       "China overtakes United States on contribution to research in Nature Index",
       "https://www.nature.com/articles/d41586-023-01705-7"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 21:31:53",
+      "https://news.ycombinator.com/item?id=36015815"
+    ],
+    [
+      "The 0+ HFT Strategy",
+      "https://blog.everstrike.io/the-0-hft-strategy/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "PyPI new user and new project registrations temporarily suspended",
       "https://status.python.org"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 19:55:31",
-      "https://news.ycombinator.com/item?id=36015014"
-    ],
-    [
-      "Sadist – An old DOS game from 1998",
-      "https://github.com/GadZombie/sadist"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36013571"
     ],
     [
-      "Using ChatGPT for Home Automation",
+      "Using ChatGPT for home automation",
       "https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html"
     ]
   ],
@@ -137,16 +147,6 @@
     [
       "Review: Energy and Civilization, by Vaclav Smil",
       "https://www.thepsmiths.com/p/review-energy-and-civilization-by"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 16:26:17",
-      "https://news.ycombinator.com/item?id=36013257"
-    ],
-    [
-      "Intel Explores Transition to 64-Bit-Only X86S Architecture",
-      "https://www.tomshardware.com/news/intel-ponders-transition-to-64-bit-only-x86s-architecture"
     ]
   ],
   [
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36012360"
     ],
     [
-      "Don Knuth Plays with ChatGPT",
+      "Don Knuth plays with ChatGPT",
       "https://cs.stanford.edu/~knuth/chatGPT20.txt"
     ]
   ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-05-20, 04:42:14",
-      "https://news.ycombinator.com/item?id=36009430"
-    ],
-    [
-      "Rooms.xyz",
-      "https://rooms.xyz/"
-    ]
-  ],
-  [
-    [
       "2023-05-19, 17:27:26",
       "https://news.ycombinator.com/item?id=36004553"
     ],
@@ -237,6 +227,16 @@
     [
       "Orb Farm",
       "https://orb.farm/"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 06:07:40",
+      "https://news.ycombinator.com/item?id=35998359"
+    ],
+    [
+      "JunoDB: PayPal’s Key-Value Store Goes Open-Source",
+      "https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1"
     ]
   ],
   [
