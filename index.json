@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-21, 10:25:15",
+      "https://news.ycombinator.com/item?id=36019535"
+    ],
+    [
+      "GitHub – GEIGEIGEIST&#x2F;KLOR: a 36-42 key column-staggered split keyboard",
+      "https://github.com/GEIGEIGEIST/KLOR"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 10:16:38",
       "https://news.ycombinator.com/item?id=36019485"
     ],
@@ -11,12 +21,52 @@
   ],
   [
     [
+      "2023-05-21, 09:59:03",
+      "https://news.ycombinator.com/item?id=36019391"
+    ],
+    [
+      "Ask HN: Are App Store anti-steering rules dead now?",
+      "https://news.ycombinator.com/item?id=36019391"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 09:40:24",
+      "https://news.ycombinator.com/item?id=36019293"
+    ],
+    [
+      "The Absurdity Of Stacks",
+      "https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 09:02:57",
+      "https://news.ycombinator.com/item?id=36019109"
+    ],
+    [
+      "How AI coding companions will change the way developers work",
+      "https://www.allthingsdistributed.com/2023/04/how-ai-coding-companions-will-change-the-way-developers-work.html"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 08:47:10",
       "https://news.ycombinator.com/item?id=36019038"
     ],
     [
       "Reasons Not to Become Famous",
       "https://tim.blog/2020/02/02/reasons-to-not-become-famous/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 08:45:31",
+      "https://news.ycombinator.com/item?id=36019030"
+    ],
+    [
+      "r9: Plan 9 in Rust",
+      "https://github.com/r9os/r9"
     ]
   ],
   [
@@ -121,16 +171,6 @@
   ],
   [
     [
-      "2023-05-21, 03:49:50",
-      "https://news.ycombinator.com/item?id=36017857"
-    ],
-    [
-      "The Bitter Lesson – Rich Sutton (2019)",
-      "http://incompleteideas.net/IncIdeas/BitterLesson.html?dup"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 03:34:04",
       "https://news.ycombinator.com/item?id=36017793"
     ],
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2023-05-20, 17:25:09",
-      "https://news.ycombinator.com/item?id=36013783"
-    ],
-    [
-      "We will be shutting down neeva.com",
-      "https://neeva.com/blog/may-announcement"
-    ]
-  ],
-  [
-    [
       "2023-05-20, 02:20:26",
       "https://news.ycombinator.com/item?id=36008830"
     ],
     [
       "Fermented coffee’s fruity aromas [video]",
       "https://www.youtube.com/watch?v=rYvxJcR79PA"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 20:43:01",
-      "https://news.ycombinator.com/item?id=36006634"
-    ],
-    [
-      "Guide to a Foreign Past",
-      "https://aeon.co/essays/the-scorched-earth-iconoclasm-of-the-historian-paul-veyne"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Big Patch Series Prepares the Linux Audio Drivers for MIDI 2.0",
       "https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 10:17:11",
-      "https://news.ycombinator.com/item?id=35999835"
-    ],
-    [
-      "Orb Farm",
-      "https://orb.farm/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "DevEx: What Drives Productivity",
       "https://queue.acm.org/detail.cfm?id=3595878"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 09:28:18",
-      "https://news.ycombinator.com/item?id=35973000"
-    ],
-    [
-      "Ocicl – An ASDF system distribution and management tool for Common Lisp",
-      "https://github.com/ocicl/ocicl"
     ]
   ]
 ]
