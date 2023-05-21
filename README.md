@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
 * [2023-05-21, 14:49:12](https://news.ycombinator.com/item?id=36021495) - [The Drakon Language](https://drakonhub.com/en/drakon)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The end of the accounting search](https://lwn.net/Articles/925782/)
 * [2023-05-21, 14:25:25](https://news.ycombinator.com/item?id=36021172) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
@@ -16,6 +15,7 @@
 * [2023-05-21, 10:17:17](https://news.ycombinator.com/item?id=36019492) - [HP rushes to fix bricked printers after faulty firmware update](https://www.bleepingcomputer.com/news/technology/hp-rushes-to-fix-bricked-printers-after-faulty-firmware-update/)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 09:25:34](https://news.ycombinator.com/item?id=36019208) - [Building a Handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
+* [2023-05-21, 08:45:31](https://news.ycombinator.com/item?id=36019030) - [r9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 08:29:23](https://news.ycombinator.com/item?id=36018949) - [ПП-BESM – a Soviet language (1955)](http://xav.io/posts/besm/)
 * [2023-05-21, 07:56:22](https://news.ycombinator.com/item?id=36018817) - [TOML: Tom&#x27;s Obvious Minimal Language](https://toml.io/en/)
