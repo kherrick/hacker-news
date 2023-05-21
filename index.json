@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-05-21, 22:26:05",
+      "https://news.ycombinator.com/item?id=36025209"
+    ],
+    [
+      "LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V",
+      "https://www.phoronix.com/news/LLVM-libc-Faster-memcpy"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 21:33:05",
       "https://news.ycombinator.com/item?id=36024887"
     ],
     [
-      "Noise Is All Around Us–and It’s Affecting You More Than You Think",
+      "Noise is all around us",
       "https://thewalrus.ca/noise-ethics/"
     ]
   ],
@@ -17,6 +27,16 @@
     [
       "An Example of a Sad Google Account Recovery Failure and Its Effects",
       "https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 20:32:36",
+      "https://news.ycombinator.com/item?id=36024445"
+    ],
+    [
+      "The $40M bet that made South Korea a food and cultural power",
+      "https://blog.hubspot.com/the-hustle/the-40m-bet-that-made-south-korea-a-food-and-cultural-power"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "TOML: Tom&#x27;s Obvious Minimal Language",
       "https://toml.io/en/"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 07:11:42",
-      "https://news.ycombinator.com/item?id=36018657"
-    ],
-    [
-      "DarkBERT: A Language Model for the Dark Side of the Internet",
-      "https://arxiv.org/abs/2305.08596"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 06:59:59",
-      "https://news.ycombinator.com/item?id=36018621"
-    ],
-    [
-      "Writing Python like it&#x27;s Rust",
-      "https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html"
     ]
   ],
   [
