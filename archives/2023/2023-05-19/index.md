@@ -13,6 +13,7 @@
 * [2023-05-19, 21:36:39](https://news.ycombinator.com/item?id=36007128) - [Show HN: Weekle – a web app to learn how to calculate the day of the week](https://benjoffe.com/weekle)
 * [2023-05-19, 21:25:21](https://news.ycombinator.com/item?id=36007033) - [Stanford professor says US is reverse-engineering downed UFOs](https://www.news.com.au/technology/science/space/stanford-professor-says-aliens-are-100-per-cent-on-earth-us-is-reverseengineering-downed-ufos/news-story/041694ef5df4791fbdfa303a08f34a9c)
 * [2023-05-19, 20:45:59](https://news.ycombinator.com/item?id=36006676) - [It’s Time to Embrace Slow Productivity](https://www.newyorker.com/culture/office-space/its-time-to-embrace-slow-productivity)
+* [2023-05-19, 20:43:01](https://news.ycombinator.com/item?id=36006634) - [Guide to a Foreign Past](https://aeon.co/essays/the-scorched-earth-iconoclasm-of-the-historian-paul-veyne)
 * [2023-05-19, 20:42:43](https://news.ycombinator.com/item?id=36006626) - [PyTorch Primitives in WebGPU for the Browser](https://praeclarum.org/2023/05/19/webgpu-torch.html)
 * [2023-05-19, 20:35:01](https://news.ycombinator.com/item?id=36006568) - [Opposite of Courage Is Conformity](https://www.clues.life/stories/rollo-may)
 * [2023-05-19, 20:34:22](https://news.ycombinator.com/item?id=36006561) - [Devex: What actually drives productivity](https://queue.acm.org/detail.cfm?id=3595878)
