@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [the US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The End of the Accounting Search](https://lwn.net/Articles/925782/)
 * [2023-05-21, 14:25:25](https://news.ycombinator.com/item?id=36021172) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:15:35](https://news.ycombinator.com/item?id=36021073) - [The California Reparations Commission Fails State History](https://www.nationalreview.com/2023/05/the-california-reparations-commission-fails-state-history/)
