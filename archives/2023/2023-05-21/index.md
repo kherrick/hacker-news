@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
 * [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [the US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
+* [2023-05-21, 14:49:12](https://news.ycombinator.com/item?id=36021495) - [The Drakon Language](https://drakonhub.com/en/drakon)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The End of the Accounting Search](https://lwn.net/Articles/925782/)
 * [2023-05-21, 14:25:25](https://news.ycombinator.com/item?id=36021172) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:15:35](https://news.ycombinator.com/item?id=36021073) - [The California Reparations Commission Fails State History](https://www.nationalreview.com/2023/05/the-california-reparations-commission-fails-state-history/)
@@ -23,6 +24,7 @@
 * [2023-05-21, 10:56:53](https://news.ycombinator.com/item?id=36019664) - [Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
 * [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [GitHub – GEIGEIGEIST&#x2F;KLOR: a 36-42 key column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
+* [2023-05-21, 10:17:17](https://news.ycombinator.com/item?id=36019492) - [HP rushes to fix bricked printers after faulty firmware update](https://www.bleepingcomputer.com/news/technology/hp-rushes-to-fix-bricked-printers-after-faulty-firmware-update/)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 10:03:08](https://news.ycombinator.com/item?id=36019414) - [Arctic Blockades](https://www.weareliminal.co/blog/arctic-blockades)
 * [2023-05-21, 09:59:03](https://news.ycombinator.com/item?id=36019391) - [Ask HN: Are App Store anti-steering rules dead now?](https://news.ycombinator.com/item?id=36019391)
