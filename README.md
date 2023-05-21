@@ -10,7 +10,6 @@
 * [2023-05-21, 13:36:44](https://news.ycombinator.com/item?id=36020717) - [Show HN: Trogon – An automatic TUI for command line apps](https://github.com/Textualize/trogon)
 * [2023-05-21, 12:57:27](https://news.ycombinator.com/item?id=36020437) - [The bill of materials for the Apple headset leaked](https://twitter.com/cixliv/status/1660038281034350592)
 * [2023-05-21, 12:56:52](https://news.ycombinator.com/item?id=36020431) - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
-* [2023-05-21, 12:27:22](https://news.ycombinator.com/item?id=36020196) - [Suspicious iOS KeePass Client](https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/)
 * [2023-05-21, 11:54:34](https://news.ycombinator.com/item?id=36020001) - [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
 * [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [KLOR – A 36-42 keys column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
@@ -30,6 +29,7 @@
 * [2023-05-19, 18:28:29](https://news.ycombinator.com/item?id=36005248) - [More notes about pain as a game mechanic](https://blog.plover.com/games/game-mechanics-2.html)
 * [2023-05-19, 14:24:11](https://news.ycombinator.com/item?id=36002355) - [Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]](https://www.youtube.com/watch?v=u7pBAt2kWqA)
 * [2023-05-19, 10:35:34](https://news.ycombinator.com/item?id=35999951) - [First ever 64-bit version of Windows rediscovered and a C compiler for it too](https://www.theregister.com/2023/05/19/first_64bit_windows/)
+* [2023-05-19, 07:11:47](https://news.ycombinator.com/item?id=35998731) - [Pushing through when no one cares](https://elpha.com/posts/vbuzm9rg/pushing-through-when-no-one-cares)
 
 ## [Archives](archives/index.md)
 
