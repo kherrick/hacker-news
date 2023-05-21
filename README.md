@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-21, 05:55:34](https://news.ycombinator.com/item?id=36018386) - [The AI revolution already transforming education](https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c)
 * [2023-05-21, 05:28:43](https://news.ycombinator.com/item?id=36018272) - [America’s Skepticism Toward the First Automobiles (2017)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
+* [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – multi-threaded Redis fork by Snapchat](https://docs.keydb.dev/)
 * [2023-05-21, 04:47:41](https://news.ycombinator.com/item?id=36018107) - [The Raygun Conspiracy](https://www.youtube.com/watch?v=zTZAQSEcPGc)
-* [2023-05-21, 04:07:08](https://news.ycombinator.com/item?id=36017940) - [The lefty Europeans who want to deliberately shrink the economy](https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy)
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
 * [2023-05-21, 03:28:58](https://news.ycombinator.com/item?id=36017775) - [Moonrabbit Collection](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
 * [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Rodney Brooks on GPT-4](https://spectrum.ieee.org/gpt-4-calm-down)
@@ -29,7 +30,6 @@
 * [2023-05-17, 23:56:59](https://news.ycombinator.com/item?id=35982722) - [DevEx: What Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
 * [2023-05-17, 09:28:18](https://news.ycombinator.com/item?id=35973000) - [Ocicl – An ASDF system distribution and management tool for Common Lisp](https://github.com/ocicl/ocicl)
 * [2023-05-17, 08:25:22](https://news.ycombinator.com/item?id=35972584) - [Hybrid Fortran – A Framework for GPU Acceleration](https://github.com/muellermichel/Hybrid-Fortran)
-* [2023-05-17, 06:39:10](https://news.ycombinator.com/item?id=35971961) - [My Interview with Eelco Visser on Parsing](https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html)
 
 ## [Archives](archives/index.md)
 
