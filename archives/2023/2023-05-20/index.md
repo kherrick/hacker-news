@@ -65,6 +65,7 @@
 * [2023-05-20, 03:20:03](https://news.ycombinator.com/item?id=36009069) - [Democracy Perception Index](https://www.allianceofdemocracies.org/democracy-perception-index/)
 * [2023-05-20, 03:17:03](https://news.ycombinator.com/item?id=36009055) - [Where Do Great Ideas Come From?](https://www.generalist.com/briefing/where-do-great-ideas-come-from)
 * [2023-05-20, 02:54:09](https://news.ycombinator.com/item?id=36008969) - [Romanian Mint Rubbing Association (RMRA)](https://web.archive.org/web/20050131093151/http://www.mintrubbing.org/)
+* [2023-05-20, 02:20:26](https://news.ycombinator.com/item?id=36008830) - [Fermented coffee’s fruity aromas [video]](https://www.youtube.com/watch?v=rYvxJcR79PA)
 * [2023-05-20, 01:52:00](https://news.ycombinator.com/item?id=36008706) - [ErlMUD Commentary](https://zxq9.com/erlmud/html/index.html)
 * [2023-05-20, 01:29:58](https://news.ycombinator.com/item?id=36008609) - [HDMI Alt Mode for USB Type-C Connector](https://www.hdmi.org/spec/typec)
 * [2023-05-20, 01:20:35](https://news.ycombinator.com/item?id=36008564) - [GlitchTip: An open source, Sentry API compatible error tracking platform](https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md)

@@ -13,6 +13,7 @@
 * [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – multi-threaded Redis fork by Snapchat](https://docs.keydb.dev/)
 * [2023-05-21, 04:47:41](https://news.ycombinator.com/item?id=36018107) - [The Raygun Conspiracy](https://www.youtube.com/watch?v=zTZAQSEcPGc)
 * [2023-05-21, 04:07:08](https://news.ycombinator.com/item?id=36017940) - [The lefty Europeans who want to deliberately shrink the economy](https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy)
+* [2023-05-21, 03:49:50](https://news.ycombinator.com/item?id=36017857) - [The Bitter Lesson – Rich Sutton (2019)](http://incompleteideas.net/IncIdeas/BitterLesson.html?dup)
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics now online](https://www.feynmanlectures.caltech.edu/)
 * [2023-05-21, 03:28:58](https://news.ycombinator.com/item?id=36017775) - [Pygame game won best graphics in Ludum Dare 53](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
 * [2023-05-21, 02:38:58](https://news.ycombinator.com/item?id=36017538) - [Thought as a System (David Bohm, 1990) [pdf]](https://ia601808.us.archive.org/16/items/david-bohm-thought-as-a-system/David%20Bohm%20-%20Thought%20as%20a%20System.pdf)
