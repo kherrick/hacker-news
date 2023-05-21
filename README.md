@@ -17,7 +17,6 @@
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
 * [2023-05-20, 16:59:31](https://news.ycombinator.com/item?id=36013586) - [Show HN: My affordable solution to costly workflow automation: Embed Workflow](https://embedworkflow.com/)
 * [2023-05-20, 16:57:58](https://news.ycombinator.com/item?id=36013571) - [Using ChatGPT for home automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
-* [2023-05-20, 16:31:59](https://news.ycombinator.com/item?id=36013309) - [Review: Energy and Civilization](https://www.thepsmiths.com/p/review-energy-and-civilization-by)
 * [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
 * [2023-05-19, 20:43:01](https://news.ycombinator.com/item?id=36006634) - [Guide to a Foreign Past](https://aeon.co/essays/the-scorched-earth-iconoclasm-of-the-historian-paul-veyne)
@@ -28,6 +27,7 @@
 * [2023-05-19, 06:40:48](https://news.ycombinator.com/item?id=35998544) - [WinLinux 2000](https://archive.org/details/win-linux-2000)
 * [2023-05-19, 06:07:40](https://news.ycombinator.com/item?id=35998359) - [JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
 * [2023-05-17, 23:56:59](https://news.ycombinator.com/item?id=35982722) - [DevEx: What Drives Productivity](https://queue.acm.org/detail.cfm?id=3595878)
+* [2023-05-17, 10:50:42](https://news.ycombinator.com/item?id=35973557) - [OS in Go? Why Not](https://blog.jetbrains.com/go/2023/05/16/os-in-go-why-not/)
 * [2023-05-17, 09:28:18](https://news.ycombinator.com/item?id=35973000) - [Ocicl – An ASDF system distribution and management tool for Common Lisp](https://github.com/ocicl/ocicl)
 * [2023-05-17, 08:25:22](https://news.ycombinator.com/item?id=35972584) - [Hybrid Fortran – A Framework for GPU Acceleration](https://github.com/muellermichel/Hybrid-Fortran)
 
