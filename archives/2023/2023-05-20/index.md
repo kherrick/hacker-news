@@ -51,6 +51,7 @@
 * [2023-05-20, 11:47:07](https://news.ycombinator.com/item?id=36011072) - [WeWork has frittered away $46.7B in value as the stock sinks below ¢50](https://www.businessinsider.com/wework-startup-failure-benchmark-insight-partners-venture-capitalists-learned-nothing-2023-4)
 * [2023-05-20, 11:46:40](https://news.ycombinator.com/item?id=36011067) - [Does AI mean we don&#x27;t need the Semantic Web?](https://shkspr.mobi/blog/2023/05/does-ai-mean-we-dont-need-the-semantic-web/)
 * [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
+* [2023-05-20, 11:12:34](https://news.ycombinator.com/item?id=36010911) - [Is Consciousness More Like Chess or the Weather?](https://nautil.us/is-consciousness-more-like-chess-or-the-weather-304796/)
 * [2023-05-20, 11:11:44](https://news.ycombinator.com/item?id=36010903) - [S3 (Missile)](https://en.wikipedia.org/wiki/S3_(missile))
 * [2023-05-20, 10:51:00](https://news.ycombinator.com/item?id=36010785) - [People in the U.S. Think They Are Better Than They Are. Asians Don’t](https://www.scientificamerican.com/article/people-in-the-u-s-think-they-are-better-than-they-actually-are-people-in-asia-dont/)
 * [2023-05-20, 10:49:23](https://news.ycombinator.com/item?id=36010778) - [Show HN: PuzzleMoji, a daily emoji pictionary challenge against ChatGPT](https://puzzlemoji.com/)
