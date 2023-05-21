@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 22:38:23](https://news.ycombinator.com/item?id=36025288) - [China is calling in loans to dozens of countries from Pakistan to Kenya](https://fortune.com/2023/05/18/china-belt-road-loans-pakistan-sri-lanka-africa-collapse-economic-instability/)
+* [2023-05-21, 22:36:58](https://news.ycombinator.com/item?id=36025278) - [Ask HN: What&#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
 * [2023-05-21, 22:26:05](https://news.ycombinator.com/item?id=36025209) - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
+* [2023-05-21, 22:08:35](https://news.ycombinator.com/item?id=36025099) - [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
 * [2023-05-21, 21:33:05](https://news.ycombinator.com/item?id=36024887) - [Noise Is All Around Us–and It’s Affecting You More Than You Think](https://thewalrus.ca/noise-ethics/)
 * [2023-05-21, 21:13:31](https://news.ycombinator.com/item?id=36024754) - [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
 * [2023-05-21, 20:32:36](https://news.ycombinator.com/item?id=36024445) - [The $40M bet that made South Korea a food and cultural power](https://blog.hubspot.com/the-hustle/the-40m-bet-that-made-south-korea-a-food-and-cultural-power)
