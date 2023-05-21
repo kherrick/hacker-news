@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-21, 12:09:39",
-      "https://news.ycombinator.com/item?id=36020080"
-    ],
-    [
-      "Windows 11 is so broken that even Microsoft can’t fix it",
-      "https://www.techradar.com/news/windows-11-is-so-broken-that-even-microsoft-cant-fix-it"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 12:01:14",
       "https://news.ycombinator.com/item?id=36020029"
     ],
@@ -151,16 +141,6 @@
   ],
   [
     [
-      "2023-05-21, 07:56:22",
-      "https://news.ycombinator.com/item?id=36018817"
-    ],
-    [
-      "TOML: Tom&#x27;s Obvious Minimal Language",
-      "https://toml.io/en/"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 07:49:03",
       "https://news.ycombinator.com/item?id=36018794"
     ],
@@ -217,6 +197,16 @@
     [
       "Feynman Lectures on Physics (1964)",
       "https://www.feynmanlectures.caltech.edu/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 03:28:58",
+      "https://news.ycombinator.com/item?id=36017775"
+    ],
+    [
+      "Moonrabbit Collection",
+      "https://ldjam.com/events/ludum-dare/53/moonrabbit-collection"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "JunoDB: PayPal’s Key-Value Store Goes Open-Source",
       "https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1"
+    ]
+  ],
+  [
+    [
+      "2023-05-17, 23:56:59",
+      "https://news.ycombinator.com/item?id=35982722"
+    ],
+    [
+      "DevEx: What Drives Productivity",
+      "https://queue.acm.org/detail.cfm?id=3595878"
     ]
   ]
 ]
