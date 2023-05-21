@@ -42,6 +42,7 @@
 * [2023-05-20, 13:58:34](https://news.ycombinator.com/item?id=36011978) - [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
 * [2023-05-20, 13:21:20](https://news.ycombinator.com/item?id=36011725) - [Building Boom on Mykonos Reveals ‘Wretched’ Side of Greece’s Recovery](https://www.nytimes.com/2023/05/20/business/mykonos-greece-construction-tourism.html)
 * [2023-05-20, 13:02:39](https://news.ycombinator.com/item?id=36011599) - [Writing summaries is more important than reading more books](https://www.andreasfragner.com/writing/writing-summaries)
+* [2023-05-20, 12:57:39](https://news.ycombinator.com/item?id=36011560) - [Thermal transfer compound comparison (2002)](http://www.dansdata.com/goop.htm)
 * [2023-05-20, 12:56:42](https://news.ycombinator.com/item?id=36011550) - [FBI Misused Spy Database, FISA Court Says](https://www.wsj.com/articles/fbi-improperly-searched-spy-database-for-information-on-americans-court-says-2f12bcd)
 * [2023-05-20, 12:02:55](https://news.ycombinator.com/item?id=36011172) - [Meticulous (YC S21) is hiring founding engineer to build AI for testing](https://news.ycombinator.com/item?id=36011172)
 * [2023-05-20, 11:53:07](https://news.ycombinator.com/item?id=36011110) - [Show HN: Mapname – anonymous social network for organising points of interest](https://map.name)
