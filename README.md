@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
-* [2023-05-21, 01:16:56](https://news.ycombinator.com/item?id=36017115) - [Nonprofits are sapping the progressive project](https://www.noahpinion.blog/p/nonprofits-are-sapping-the-progressive)
 * [2023-05-20, 23:49:33](https://news.ycombinator.com/item?id=36016653) - [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
 * [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 23:01:00](https://news.ycombinator.com/item?id=36016419) - [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
 * [2023-05-20, 22:31:10](https://news.ycombinator.com/item?id=36016250) - [Neeva, would-be Google competitor, is shutting down its search engine](https://www.theverge.com/2023/5/20/23731397/neeva-search-engine-google-shutdown)
 * [2023-05-20, 20:39:22](https://news.ycombinator.com/item?id=36015383) - [Popular Pirate Bay proxy site disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
+* [2023-05-20, 20:16:16](https://news.ycombinator.com/item?id=36015169) - [How Somali workers in the US are fighting Amazon’s surveillance machine](https://www.codastory.com/authoritarian-tech/amazon-workers-surveillance/)
 * [2023-05-20, 20:04:39](https://news.ycombinator.com/item?id=36015078) - [PyPI new user and new project registrations temporarily suspended](https://status.python.org)
 * [2023-05-20, 19:36:23](https://news.ycombinator.com/item?id=36014887) - [SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised](https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/)
 * [2023-05-20, 19:28:29](https://news.ycombinator.com/item?id=36014812) - [Martin Amis has died](https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73)
