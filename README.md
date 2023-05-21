@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-21, 13:01:44](https://news.ycombinator.com/item?id=36020473) - [Study finds 90% of Australian teachers can&#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
+* [2023-05-21, 12:57:27](https://news.ycombinator.com/item?id=36020437) - [The Bill of Materials for the Apple Headset Leaked Online](https://twitter.com/cixliv/status/1660038281034350592)
 * [2023-05-21, 12:56:52](https://news.ycombinator.com/item?id=36020431) - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
 * [2023-05-21, 12:27:22](https://news.ycombinator.com/item?id=36020196) - [Suspicious iOS KeePass Client](https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/)
 * [2023-05-21, 12:01:14](https://news.ycombinator.com/item?id=36020029) - [Emerge Tools is building the future of mobile tooling, come join us](https://www.ycombinator.com/companies/emerge-tools/jobs/S8b1ojf-senior-software-engineer-remote)
@@ -23,7 +24,6 @@
 * [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
 * [2023-05-21, 00:49:29](https://news.ycombinator.com/item?id=36016982) - [How Do Semiconductors Work? Introduction to SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
-* [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 10:49:23](https://news.ycombinator.com/item?id=36010778) - [Show HN: PuzzleMoji, a daily emoji pictionary challenge against ChatGPT](https://puzzlemoji.com/)
 * [2023-05-20, 02:20:26](https://news.ycombinator.com/item?id=36008830) - [Fermented coffee’s fruity aromas [video]](https://www.youtube.com/watch?v=rYvxJcR79PA)
 * [2023-05-19, 14:24:11](https://news.ycombinator.com/item?id=36002355) - [Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]](https://www.youtube.com/watch?v=u7pBAt2kWqA)
