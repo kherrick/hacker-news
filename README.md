@@ -19,7 +19,7 @@
 * [2023-05-20, 16:57:58](https://news.ycombinator.com/item?id=36013571) - [Using ChatGPT for home automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)
 * [2023-05-20, 16:15:46](https://news.ycombinator.com/item?id=36013160) - [Living sound forever: The genius of Wendy Carlos](https://xtramagazine.com/culture/wendy-carlos-trans-profile-251085)
 * [2023-05-20, 14:47:57](https://news.ycombinator.com/item?id=36012360) - [Don Knuth plays with ChatGPT](https://cs.stanford.edu/~knuth/chatGPT20.txt)
-* [2023-05-20, 06:18:24](https://news.ycombinator.com/item?id=36009774) - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
+* [2023-05-20, 13:58:34](https://news.ycombinator.com/item?id=36011978) - [A digital payments revolution in India](https://www.economist.com/special-report/2023/05/15/a-digital-payments-revolution-in-india)
 * [2023-05-19, 20:43:01](https://news.ycombinator.com/item?id=36006634) - [Guide to a Foreign Past](https://aeon.co/essays/the-scorched-earth-iconoclasm-of-the-historian-paul-veyne)
 * [2023-05-19, 17:27:26](https://news.ycombinator.com/item?id=36004553) - [I wrote a GameBoy emulator for my hobby OS (2022)](https://axleos.com/writing-axles-gameboy-emulator/)
 * [2023-05-19, 12:20:46](https://news.ycombinator.com/item?id=36000932) - [Big Patch Series Prepares the Linux Audio Drivers for MIDI 2.0](https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches)
