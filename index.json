@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-05-21, 08:41:11",
+      "https://news.ycombinator.com/item?id=36019005"
+    ],
+    [
+      "Typical: Data interchange with algebraic data types",
+      "https://github.com/stepchowfun/typical"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 08:29:54",
       "https://news.ycombinator.com/item?id=36018950"
     ],
@@ -287,16 +297,6 @@
     [
       "First ever 64-bit version of Windows rediscovered and a C compiler for it too",
       "https://www.theregister.com/2023/05/19/first_64bit_windows/"
-    ]
-  ],
-  [
-    [
-      "2023-05-19, 07:11:47",
-      "https://news.ycombinator.com/item?id=35998731"
-    ],
-    [
-      "Pushing through when no one cares",
-      "https://elpha.com/posts/vbuzm9rg/pushing-through-when-no-one-cares"
     ]
   ]
 ]
