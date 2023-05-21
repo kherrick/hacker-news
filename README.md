@@ -22,12 +22,12 @@
 * [2023-05-21, 07:11:42](https://news.ycombinator.com/item?id=36018657) - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
 * [2023-05-21, 06:59:59](https://news.ycombinator.com/item?id=36018621) - [Writing Python like it&#x27;s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-21, 05:33:53](https://news.ycombinator.com/item?id=36018300) - [Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
+* [2023-05-21, 05:17:19](https://news.ycombinator.com/item?id=36018221) - [Dragonfly – Performant in-memory data store](https://www.dragonflydb.io/?gclid=CjwKCAjw36GjBhAkEiwAKwIWyR8z6AbdHnG7gNsdqQpndmNTkck5av2CU0WDVVMJQjwEAjd9NK7hnhoCqGkQAvD_BwE)
 * [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – A Multithreaded Fork of Redis](https://docs.keydb.dev/)
 * [2023-05-20, 12:57:39](https://news.ycombinator.com/item?id=36011560) - [Thermal transfer compound comparison (2002)](http://www.dansdata.com/goop.htm)
 * [2023-05-20, 10:00:36](https://news.ycombinator.com/item?id=36010600) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 04:53:20](https://news.ycombinator.com/item?id=36009472) - [OpenEPaperLink: Alternative Firmware for ZBS243-Based eInk Shelf Labels](https://github.com/jjwbruijn/OpenEPaperLink)
 * [2023-05-19, 18:28:29](https://news.ycombinator.com/item?id=36005248) - [More notes about pain as a game mechanic](https://blog.plover.com/games/game-mechanics-2.html)
-* [2023-05-19, 14:24:11](https://news.ycombinator.com/item?id=36002355) - [Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]](https://www.youtube.com/watch?v=u7pBAt2kWqA)
 * [2023-05-19, 10:35:34](https://news.ycombinator.com/item?id=35999951) - [First ever 64-bit version of Windows rediscovered and a C compiler for it too](https://www.theregister.com/2023/05/19/first_64bit_windows/)
 * [2023-05-19, 07:11:47](https://news.ycombinator.com/item?id=35998731) - [Pushing through when no one cares](https://elpha.com/posts/vbuzm9rg/pushing-through-when-no-one-cares)
 
