@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [the US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
+* [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The end of the accounting search](https://lwn.net/Articles/925782/)
 * [2023-05-21, 14:25:25](https://news.ycombinator.com/item?id=36021172) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 13:47:56](https://news.ycombinator.com/item?id=36020811) - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
