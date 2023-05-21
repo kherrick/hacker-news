@@ -8,6 +8,7 @@
 * [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [GitHub – GEIGEIGEIST&#x2F;KLOR: a 36-42 key column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
+* [2023-05-21, 10:03:08](https://news.ycombinator.com/item?id=36019414) - [Arctic Blockades](https://www.weareliminal.co/blog/arctic-blockades)
 * [2023-05-21, 09:59:03](https://news.ycombinator.com/item?id=36019391) - [Ask HN: Are App Store anti-steering rules dead now?](https://news.ycombinator.com/item?id=36019391)
 * [2023-05-21, 09:48:47](https://news.ycombinator.com/item?id=36019336) - [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 * [2023-05-21, 09:40:24](https://news.ycombinator.com/item?id=36019293) - [The Absurdity Of Stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
