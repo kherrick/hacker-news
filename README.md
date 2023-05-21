@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How Much Memory Do You Need to Run 1M Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
+* [2023-05-21, 21:13:31](https://news.ycombinator.com/item?id=36024754) - [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
+* [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How much memory do you need to run 1M concurrent tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-05-21, 16:58:56](https://news.ycombinator.com/item?id=36022768) - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
@@ -13,7 +14,6 @@
 * [2023-05-21, 12:56:52](https://news.ycombinator.com/item?id=36020431) - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)
 * [2023-05-21, 11:57:50](https://news.ycombinator.com/item?id=36020008) - [Ask HN: I have 176 logins&#x2F;accounts. How many do you have?](https://news.ycombinator.com/item?id=36020008)
 * [2023-05-21, 11:54:34](https://news.ycombinator.com/item?id=36020001) - [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
-* [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [KLOR – A 36-42 keys column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 09:25:34](https://news.ycombinator.com/item?id=36019208) - [Building a Handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
