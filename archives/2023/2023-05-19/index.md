@@ -61,6 +61,7 @@
 * [2023-05-19, 14:44:16](https://news.ycombinator.com/item?id=36002570) - [Sensible Security: concrete and evidence-informed cybersecurity for everyone](https://security.stolovitz.com/)
 * [2023-05-19, 14:30:37](https://news.ycombinator.com/item?id=36002437) - [Synthea: Open-Source Synthetic Patient Generation](https://synthetichealth.github.io/synthea/)
 * [2023-05-19, 14:25:45](https://news.ycombinator.com/item?id=36002375) - [The Upper Atmosphere Is Cooling, Prompting New Climate Concerns](https://e360.yale.edu/features/climate-change-upper-atmosphere-cooling)
+* [2023-05-19, 14:24:11](https://news.ycombinator.com/item?id=36002355) - [Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]](https://www.youtube.com/watch?v=u7pBAt2kWqA)
 * [2023-05-19, 14:13:38](https://news.ycombinator.com/item?id=36002215) - [Last update of Safari has problems displaying JPEGs](https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/)
 * [2023-05-19, 14:06:03](https://news.ycombinator.com/item?id=36002105) - [&#x27;Do&#x27; More with &#x27;Run&#x27;](https://maxgreenwald.me/blog/do-more-with-run)
 * [2023-05-19, 13:53:58](https://news.ycombinator.com/item?id=36001960) - [Rafael’s Iron Dome](https://www.rafael.co.il/iron-dome-10years/)
