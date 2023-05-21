@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 15:35:52](https://news.ycombinator.com/item?id=36022005) - [Plain Text Accounting](https://plaintextaccounting.org/)
 * [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [the US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
 * [2023-05-21, 14:49:12](https://news.ycombinator.com/item?id=36021495) - [The Drakon Language](https://drakonhub.com/en/drakon)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The End of the Accounting Search](https://lwn.net/Articles/925782/)
@@ -12,6 +13,7 @@
 * [2023-05-21, 13:55:32](https://news.ycombinator.com/item?id=36020891) - [San Francisco office values fall 75%](https://www.hoover.org/research/san-francisco-falls-further-abyss-office-values-plunge-75-percent)
 * [2023-05-21, 13:47:56](https://news.ycombinator.com/item?id=36020811) - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
 * [2023-05-21, 13:45:35](https://news.ycombinator.com/item?id=36020792) - [The New Bar Exam Puts DEI over Lawyer Competence](https://www.wsj.com/articles/the-new-bar-exam-puts-dei-over-competence-ncbe-family-law-schools-9c0dd4e8)
+* [2023-05-21, 13:36:44](https://news.ycombinator.com/item?id=36020717) - [Show HN: Trogon – An automatic TUI for command line apps](https://github.com/Textualize/trogon)
 * [2023-05-21, 13:22:10](https://news.ycombinator.com/item?id=36020597) - [Ask HN: What are your favorite sci-fi books?](https://news.ycombinator.com/item?id=36020597)
 * [2023-05-21, 13:01:44](https://news.ycombinator.com/item?id=36020473) - [Study finds 90% of Australian teachers can&#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
 * [2023-05-21, 12:57:27](https://news.ycombinator.com/item?id=36020437) - [The Bill of Materials for the Apple Headset Leaked Online](https://twitter.com/cixliv/status/1660038281034350592)
@@ -44,6 +46,7 @@
 * [2023-05-21, 06:28:19](https://news.ycombinator.com/item?id=36018512) - [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
 * [2023-05-21, 05:55:34](https://news.ycombinator.com/item?id=36018386) - [The AI revolution already transforming education](https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c)
 * [2023-05-21, 05:42:42](https://news.ycombinator.com/item?id=36018332) - [Tarteel – AI-powered Quran companion](https://www.tarteel.ai/)
+* [2023-05-21, 05:33:53](https://news.ycombinator.com/item?id=36018300) - [Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
 * [2023-05-21, 05:28:43](https://news.ycombinator.com/item?id=36018272) - [America’s Skepticism Toward the First Automobiles (2017)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
 * [2023-05-21, 05:17:19](https://news.ycombinator.com/item?id=36018221) - [Dragonfly – The most performant in-memory data store on Earth](https://www.dragonflydb.io/?gclid=CjwKCAjw36GjBhAkEiwAKwIWyR8z6AbdHnG7gNsdqQpndmNTkck5av2CU0WDVVMJQjwEAjd9NK7hnhoCqGkQAvD_BwE)
 * [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – multi-threaded Redis fork by Snapchat](https://docs.keydb.dev/)
