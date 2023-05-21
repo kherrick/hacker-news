@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics now online](https://www.feynmanlectures.caltech.edu/)
-* [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
+* [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
+* [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Calm Down About GPT-4](https://spectrum.ieee.org/gpt-4-calm-down)
 * [2023-05-20, 23:49:33](https://news.ycombinator.com/item?id=36016653) - [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
 * [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 23:01:00](https://news.ycombinator.com/item?id=36016419) - [Apple-1 ELIZA chatbot vs. ChatGPT](https://www.youtube.com/watch?v=1yZRNt25Wdo)
