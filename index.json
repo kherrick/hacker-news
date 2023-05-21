@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-05-21, 05:28:43",
+      "https://news.ycombinator.com/item?id=36018272"
+    ],
+    [
+      "America’s Skepticism Toward the First Automobiles (2017)",
+      "https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 04:47:41",
       "https://news.ycombinator.com/item?id=36018107"
     ],
     [
       "The Raygun Conspiracy",
       "https://www.youtube.com/watch?v=zTZAQSEcPGc"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 04:07:08",
+      "https://news.ycombinator.com/item?id=36017940"
+    ],
+    [
+      "The lefty Europeans who want to deliberately shrink the economy",
+      "https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "SanDisk Extreme SSDs keep abruptly failing–firmware fix for only some promised",
       "https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 19:28:29",
-      "https://news.ycombinator.com/item?id=36014812"
-    ],
-    [
-      "Martin Amis has died",
-      "https://www.theguardian.com/books/2023/may/20/martin-amis-era-defining-british-novelist-dies-aged-73"
     ]
   ],
   [
@@ -225,8 +235,18 @@
       "https://news.ycombinator.com/item?id=35999296"
     ],
     [
-      "Apple II Vapor Lock and the Floating Bus",
+      "Apple II Vapor Lock and the Floating Bus (2018)",
       "http://www.deater.net/weave/vmwprod/megademo/vapor_lock.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-19, 06:40:48",
+      "https://news.ycombinator.com/item?id=35998544"
+    ],
+    [
+      "WinLinux 2000",
+      "https://archive.org/details/win-linux-2000"
     ]
   ],
   [
@@ -247,16 +267,6 @@
     [
       "DevEx: What Drives Productivity",
       "https://queue.acm.org/detail.cfm?id=3595878"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 11:23:23",
-      "https://news.ycombinator.com/item?id=35973777"
-    ],
-    [
-      "I tested services to extract colors from image",
-      "https://kiru.io/blog/posts/2023/extracting-colors-from-images-seems-hard/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "My Interview with Eelco Visser on Parsing",
       "https://tratt.net/laurie/blog/2023/my_interview_with_eelco_visser_with_on_parsing.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-17, 02:49:22",
-      "https://news.ycombinator.com/item?id=35970712"
-    ],
-    [
-      "Debug browser redirects without ruining your day",
-      "https://dodov.dev/blog/how-to-debug-browser-redirects"
     ]
   ]
 ]
