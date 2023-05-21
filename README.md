@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 07:11:42](https://news.ycombinator.com/item?id=36018657) - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)
 * [2023-05-21, 06:59:59](https://news.ycombinator.com/item?id=36018621) - [Writing Python like it&#x27;s Rust](https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html)
 * [2023-05-21, 06:28:19](https://news.ycombinator.com/item?id=36018512) - [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
@@ -18,7 +19,6 @@
 * [2023-05-20, 23:49:33](https://news.ycombinator.com/item?id=36016653) - [Japanese police make first YouTuber arrest for uploading video game gameplay](https://japantoday.com/category/crime/japanese-police-make-first-ever-youtuber-arrest-for-uploading-video-game-gameplay-videos)
 * [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 23:01:00](https://news.ycombinator.com/item?id=36016419) - [Apple-1 ELIZA chatbot vs. ChatGPT [video]](https://www.youtube.com/watch?v=1yZRNt25Wdo)
-* [2023-05-20, 20:39:22](https://news.ycombinator.com/item?id=36015383) - [Popular Pirate Bay proxy site disappears from GitHub](https://torrentfreak.com/popular-pirate-bay-proxy-site-disappears-from-github-230520/)
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [We will be shutting down neeva.com](https://neeva.com/blog/may-announcement)
 * [2023-05-20, 02:20:26](https://news.ycombinator.com/item?id=36008830) - [Fermented coffee’s fruity aromas [video]](https://www.youtube.com/watch?v=rYvxJcR79PA)
 * [2023-05-19, 20:43:01](https://news.ycombinator.com/item?id=36006634) - [Guide to a Foreign Past](https://aeon.co/essays/the-scorched-earth-iconoclasm-of-the-historian-paul-veyne)
