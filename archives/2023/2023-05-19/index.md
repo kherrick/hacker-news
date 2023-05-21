@@ -89,6 +89,7 @@
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple bans ChatGPT use by employees, report says](https://mashable.com/article/apple-chatgpt-employee-ban-report)
 * [2023-05-19, 10:55:20](https://news.ycombinator.com/item?id=36000079) - [Apple Restricts Employee Use of ChatGPT, Joining Other Companies Wary of Leaks](https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34)
 * [2023-05-19, 10:48:03](https://news.ycombinator.com/item?id=36000027) - [Send a message to teams channel on Linux server SSH connexion](https://github.com/Blue-Secure/ssh-login-teams-alert-webhook)
+* [2023-05-19, 10:35:34](https://news.ycombinator.com/item?id=35999951) - [First ever 64-bit version of Windows rediscovered and a C compiler for it too](https://www.theregister.com/2023/05/19/first_64bit_windows/)
 * [2023-05-19, 10:35:22](https://news.ycombinator.com/item?id=35999950) - [Cities Aren&#x27;t Loud: Cars Are Loud](https://www.youtube.com/watch?v=CTV-wwszGw8)
 * [2023-05-19, 10:29:00](https://news.ycombinator.com/item?id=35999910) - [The Most Important Test You’ve Never Heard Of](https://davidzweig.substack.com/p/the-most-important-test-youve-never)
 * [2023-05-19, 10:27:00](https://news.ycombinator.com/item?id=35999896) - [AI Submissions to Clarkesworld Continue](http://neil-clarke.com/it-continues/)
