@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [GitHub – GEIGEIGEIST&#x2F;KLOR: a 36-42 key column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 09:59:03](https://news.ycombinator.com/item?id=36019391) - [Ask HN: Are App Store anti-steering rules dead now?](https://news.ycombinator.com/item?id=36019391)
@@ -13,6 +14,7 @@
 * [2023-05-21, 08:45:31](https://news.ycombinator.com/item?id=36019030) - [r9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 08:29:23](https://news.ycombinator.com/item?id=36018949) - [ПП-BESM – a Soviet language (1955)](http://xav.io/posts/besm/)
+* [2023-05-21, 07:56:22](https://news.ycombinator.com/item?id=36018817) - [TOML: Tom&#x27;s Obvious Minimal Language](https://toml.io/en/)
 * [2023-05-21, 07:49:03](https://news.ycombinator.com/item?id=36018794) - [Notes on the Cost of Go Finalizers](https://utcc.utoronto.ca/~cks/space/blog/programming/GoFinalizerCostsNotes)
 * [2023-05-21, 07:15:05](https://news.ycombinator.com/item?id=36018670) - [AI in the Arts Is the Destruction of the Film Industry. We Can&#x27;t Go Quietly](https://www.newsweek.com/ai-arts-destruction-film-industry-we-cant-go-quietly-opinion-1800983)
 * [2023-05-21, 07:11:42](https://news.ycombinator.com/item?id=36018657) - [DarkBERT: A Language Model for the Dark Side of the Internet](https://arxiv.org/abs/2305.08596)

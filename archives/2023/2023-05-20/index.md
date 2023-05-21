@@ -50,6 +50,7 @@
 * [2023-05-20, 11:24:58](https://news.ycombinator.com/item?id=36010975) - [People who die by suicide want to stop suffering, not to stop living](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
 * [2023-05-20, 11:11:44](https://news.ycombinator.com/item?id=36010903) - [S3 (Missile)](https://en.wikipedia.org/wiki/S3_(missile))
 * [2023-05-20, 10:51:00](https://news.ycombinator.com/item?id=36010785) - [People in the U.S. Think They Are Better Than They Are. Asians Don’t](https://www.scientificamerican.com/article/people-in-the-u-s-think-they-are-better-than-they-actually-are-people-in-asia-dont/)
+* [2023-05-20, 10:49:23](https://news.ycombinator.com/item?id=36010778) - [Show HN: PuzzleMoji, a daily emoji pictionary challenge against ChatGPT](https://puzzlemoji.com/)
 * [2023-05-20, 09:50:04](https://news.ycombinator.com/item?id=36010562) - [Home schooling can challenge our beliefs about education](https://www.prospectmagazine.co.uk/society/44818/how-home-schooling-can-challenge-our-beliefs-about-education)
 * [2023-05-20, 08:26:22](https://news.ycombinator.com/item?id=36010270) - [Tell HN: OpenAI&#x27;s billing features and customer support are barely functional](https://news.ycombinator.com/item?id=36010270)
 * [2023-05-20, 07:45:42](https://news.ycombinator.com/item?id=36010128) - [Hitler’s Antarctic base: the myth and the reality [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
