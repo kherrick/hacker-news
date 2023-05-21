@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 10:56:53](https://news.ycombinator.com/item?id=36019664) - [Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
 * [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [GitHub – GEIGEIGEIST&#x2F;KLOR: a 36-42 key column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)

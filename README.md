@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-21, 10:56:53](https://news.ycombinator.com/item?id=36019664) - [Show HN: A simple echo server for testing HTTP clients](https://echoserver.dev/)
 * [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [GitHub – GEIGEIGEIST&#x2F;KLOR: a 36-42 key column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
@@ -25,7 +26,6 @@
 * [2023-05-20, 10:49:23](https://news.ycombinator.com/item?id=36010778) - [Show HN: PuzzleMoji, a daily emoji pictionary challenge against ChatGPT](https://puzzlemoji.com/)
 * [2023-05-20, 02:20:26](https://news.ycombinator.com/item?id=36008830) - [Fermented coffee’s fruity aromas [video]](https://www.youtube.com/watch?v=rYvxJcR79PA)
 * [2023-05-19, 14:24:11](https://news.ycombinator.com/item?id=36002355) - [Wang Computers &#x27;David and Goliath&#x27; Commercial (1977) [video]](https://www.youtube.com/watch?v=u7pBAt2kWqA)
-* [2023-05-19, 12:20:46](https://news.ycombinator.com/item?id=36000932) - [Big Patch Series Prepares the Linux Audio Drivers for MIDI 2.0](https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches)
 * [2023-05-19, 06:40:48](https://news.ycombinator.com/item?id=35998544) - [WinLinux 2000](https://archive.org/details/win-linux-2000)
 * [2023-05-19, 06:13:53](https://news.ycombinator.com/item?id=35998390) - [Trying Gnus as an Email Client](https://gluer.org/blog/2023/trying-gnus-as-an-email-client/)
 * [2023-05-19, 06:07:40](https://news.ycombinator.com/item?id=35998359) - [JunoDB: PayPal’s Key-Value Store Goes Open-Source](https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1)
