@@ -11,6 +11,7 @@
 * [2023-05-21, 04:07:08](https://news.ycombinator.com/item?id=36017940) - [The lefty Europeans who want to deliberately shrink the economy](https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy)
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics now online](https://www.feynmanlectures.caltech.edu/)
 * [2023-05-21, 03:28:58](https://news.ycombinator.com/item?id=36017775) - [Pygame game won best graphics in Ludum Dare 53](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
+* [2023-05-21, 02:38:58](https://news.ycombinator.com/item?id=36017538) - [Thought as a System (David Bohm, 1990) [pdf]](https://ia601808.us.archive.org/16/items/david-bohm-thought-as-a-system/David%20Bohm%20-%20Thought%20as%20a%20System.pdf)
 * [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Just Calm Down About GPT-4 Already](https://spectrum.ieee.org/gpt-4-calm-down)
 * [2023-05-21, 01:47:11](https://news.ycombinator.com/item?id=36017274) - [The Problem with Consensus](http://scienceunicorn.blogspot.com/2015/02/the-problem-with-consensus.html)
 * [2023-05-21, 01:16:56](https://news.ycombinator.com/item?id=36017115) - [Nonprofits are sapping the progressive project](https://www.noahpinion.blog/p/nonprofits-are-sapping-the-progressive)
