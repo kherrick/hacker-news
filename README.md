@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
-* [2023-05-21, 16:58:56](https://news.ycombinator.com/item?id=36022768) - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
-* [2023-05-21, 15:39:48](https://news.ycombinator.com/item?id=36022042) - [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
+* [2023-05-21, 15:39:48](https://news.ycombinator.com/item?id=36022042) - [High-Performance Graph Databases](https://arxiv.org/abs/2305.11162)
 * [2023-05-21, 15:35:52](https://news.ycombinator.com/item?id=36022005) - [Plain Text Accounting](https://plaintextaccounting.org/)
 * [2023-05-21, 14:49:12](https://news.ycombinator.com/item?id=36021495) - [The Drakon Language](https://drakonhub.com/en/drakon)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The end of the accounting search](https://lwn.net/Articles/925782/)
@@ -14,6 +13,7 @@
 * [2023-05-21, 11:54:34](https://news.ycombinator.com/item?id=36020001) - [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
 * [2023-05-21, 10:36:11](https://news.ycombinator.com/item?id=36019580) - [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
 * [2023-05-21, 10:25:15](https://news.ycombinator.com/item?id=36019535) - [KLOR – A 36-42 keys column-staggered split keyboard](https://github.com/GEIGEIGEIST/KLOR)
+* [2023-05-21, 10:17:17](https://news.ycombinator.com/item?id=36019492) - [HP rushes to fix bricked printers after faulty firmware update](https://www.bleepingcomputer.com/news/technology/hp-rushes-to-fix-bricked-printers-after-faulty-firmware-update/)
 * [2023-05-21, 10:16:38](https://news.ycombinator.com/item?id=36019485) - [Dolphin Emulator: Progress Report February, March, and April 2023](https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/)
 * [2023-05-21, 09:25:34](https://news.ycombinator.com/item?id=36019208) - [Building a Handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
