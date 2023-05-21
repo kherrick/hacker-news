@@ -3,7 +3,7 @@
 * [2023-05-21, 04:47:41](https://news.ycombinator.com/item?id=36018107) - [The Raygun Conspiracy](https://www.youtube.com/watch?v=zTZAQSEcPGc)
 * [2023-05-21, 03:34:04](https://news.ycombinator.com/item?id=36017793) - [Feynman Lectures on Physics (1964)](https://www.feynmanlectures.caltech.edu/)
 * [2023-05-21, 03:28:58](https://news.ycombinator.com/item?id=36017775) - [Pygame game won best graphics in Ludum Dare 53](https://ldjam.com/events/ludum-dare/53/moonrabbit-collection)
-* [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Calm Down About GPT-4](https://spectrum.ieee.org/gpt-4-calm-down)
+* [2023-05-21, 01:54:50](https://news.ycombinator.com/item?id=36017309) - [Rodney Brooks on GPT-4](https://spectrum.ieee.org/gpt-4-calm-down)
 * [2023-05-21, 00:49:29](https://news.ycombinator.com/item?id=36016982) - [How Do Semiconductors Work? Introduction to SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
 * [2023-05-20, 23:48:46](https://news.ycombinator.com/item?id=36016649) - [Symbolics Lisp Machines Graphics Demo (1990) [video]](https://www.youtube.com/watch?v=RQKlgza_HgE)
 * [2023-05-20, 23:01:00](https://news.ycombinator.com/item?id=36016419) - [Apple-1 ELIZA chatbot vs. ChatGPT [video]](https://www.youtube.com/watch?v=1yZRNt25Wdo)
