@@ -10,6 +10,7 @@
 * [2023-05-21, 06:28:19](https://news.ycombinator.com/item?id=36018512) - [Best Linux Books for Different Target Groups and Use Cases](https://linuxstans.com/linux-books/)
 * [2023-05-21, 05:55:34](https://news.ycombinator.com/item?id=36018386) - [The AI revolution already transforming education](https://www.ft.com/content/47fd20c6-240d-4ffa-a0de-70717712ed1c)
 * [2023-05-21, 05:28:43](https://news.ycombinator.com/item?id=36018272) - [America’s Skepticism Toward the First Automobiles (2017)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
+* [2023-05-21, 05:17:19](https://news.ycombinator.com/item?id=36018221) - [Dragonfly – The most performant in-memory data store on Earth](https://www.dragonflydb.io/?gclid=CjwKCAjw36GjBhAkEiwAKwIWyR8z6AbdHnG7gNsdqQpndmNTkck5av2CU0WDVVMJQjwEAjd9NK7hnhoCqGkQAvD_BwE)
 * [2023-05-21, 05:00:41](https://news.ycombinator.com/item?id=36018149) - [KeyDB – multi-threaded Redis fork by Snapchat](https://docs.keydb.dev/)
 * [2023-05-21, 04:47:41](https://news.ycombinator.com/item?id=36018107) - [The Raygun Conspiracy](https://www.youtube.com/watch?v=zTZAQSEcPGc)
 * [2023-05-21, 04:07:08](https://news.ycombinator.com/item?id=36017940) - [The lefty Europeans who want to deliberately shrink the economy](https://www.economist.com/europe/2023/05/18/meet-the-lefty-europeans-who-want-to-deliberately-shrink-the-economy)
