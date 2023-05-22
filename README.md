@@ -3,7 +3,6 @@
 * [2023-05-22, 09:18:25](https://news.ycombinator.com/item?id=36029050) - [Noyb win: € 1.2B fine against Meta over EU-US data transfers](https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation)
 * [2023-05-22, 08:42:31](https://news.ycombinator.com/item?id=36028847) - [Ask HN: How to move from dev role to management&#x2F;team lead role?](https://news.ycombinator.com/item?id=36028847)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
-* [2023-05-22, 08:39:54](https://news.ycombinator.com/item?id=36028837) - [Bedr00mZ: Nobody Prepared Me for That](https://bedr00mz.neocities.org/)
 * [2023-05-22, 08:24:33](https://news.ycombinator.com/item?id=36028756) - [The Atomic Energy Lab Kit for Kids That Came with Actual Radioactive Materials](https://rarehistoricalphotos.com/gilbert-u-238-atomic-energy-lab-kit-for-kids/)
 * [2023-05-22, 08:00:40](https://news.ycombinator.com/item?id=36028608) - [Winamp Clone Whips the Llama&#x27;s Ass on an Espressif ESP32](https://www.hackster.io/news/cheng-liang-s-lvgl-driven-winamp-clone-really-whips-the-llama-s-ass-on-an-espressif-esp32-2948716adcbb)
 * [2023-05-22, 07:54:05](https://news.ycombinator.com/item?id=36028567) - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
@@ -29,6 +28,7 @@
 * [2023-05-20, 19:26:27](https://news.ycombinator.com/item?id=36014790) - [The Last Cosmopolitan: Elias Canetti’s 20th Century](https://www.thenation.com/article/culture/elias-canetti-joshua-cohen-cosmopolitan/)
 * [2023-05-20, 11:03:49](https://news.ycombinator.com/item?id=36010863) - [Cooking, Monasteries, Arithmetic: The History of Rules](https://www.publicbooks.org/cooking-monasteries-arithmetic-lorraine-daston-on-the-history-of-rules/)
 * [2023-05-20, 10:27:55](https://news.ycombinator.com/item?id=36010689) - [Wrench Embedded Interpreter](https://www.northarc.com/wrench/www/)
+* [2023-05-20, 10:00:36](https://news.ycombinator.com/item?id=36010600) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 09:22:21](https://news.ycombinator.com/item?id=36010467) - [Solving Intermittent Cable Modem Issues (plus “loose&#x2F;bad connectors” and others)](https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html)
 
 ## [Archives](archives/index.md)
