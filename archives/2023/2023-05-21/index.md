@@ -23,6 +23,7 @@
 * [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 * [2023-05-21, 17:58:33](https://news.ycombinator.com/item?id=36023269) - [Ask HN: Have you used a forward sale to avoid stock transfer restrictions?](https://news.ycombinator.com/item?id=36023269)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+* [2023-05-21, 17:11:57](https://news.ycombinator.com/item?id=36022896) - [Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
 * [2023-05-21, 16:58:56](https://news.ycombinator.com/item?id=36022768) - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
 * [2023-05-21, 16:53:36](https://news.ycombinator.com/item?id=36022722) - [The Two-Century Quest to Quantify Our Senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:23:25](https://news.ycombinator.com/item?id=36034855) - [What It Was Like to Live Inside Habitat 67](https://www.architecturaldigest.com/story/what-it-was-like-to-live-inside-habitat-67)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
@@ -9,6 +10,7 @@
 * [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [Breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Salvador Dalí is the most faked artist?](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
 * [2023-05-22, 14:54:32](https://news.ycombinator.com/item?id=36032224) - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
+* [2023-05-22, 14:41:47](https://news.ycombinator.com/item?id=36032081) - [Show HN: Psychic - An open-source data integration platform for AI startups](https://github.com/psychic-api/psychic)
 * [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
 * [2023-05-22, 13:48:53](https://news.ycombinator.com/item?id=36031446) - [Parallels in the ways that humans and ML models acquire language skills](https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/)
 * [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
@@ -24,10 +26,8 @@
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta fined $1.3B over data transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-21, 18:31:33](https://news.ycombinator.com/item?id=36023558) - [Success to the successful](https://riskmusings.substack.com/p/success-to-the-successful)
 * [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
-* [2023-05-21, 16:53:36](https://news.ycombinator.com/item?id=36022722) - [The Two-Century Quest to Quantify Our Senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
-* [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly secure steganography using minimum entropy coupling](https://arxiv.org/abs/2210.14889)
+* [2023-05-21, 17:11:57](https://news.ycombinator.com/item?id=36022896) - [Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
 * [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core and the Strange Death of Louis Slotin (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
-* [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical validation of a blood-pressure sensor for continuous health monitoring](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep neural networks as computational graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 * [2023-05-21, 00:12:40](https://news.ycombinator.com/item?id=36016774) - [ONR Digital Computer Newsletter (1949-64)](http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/)
 

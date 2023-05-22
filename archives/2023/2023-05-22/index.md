@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 19:26:52](https://news.ycombinator.com/item?id=36035587) - [Disney and the Great Streaming Purge](https://puck.news/disney-and-the-great-streaming-purge/)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:23:25](https://news.ycombinator.com/item?id=36034855) - [What It Was Like to Live Inside Habitat 67](https://www.architecturaldigest.com/story/what-it-was-like-to-live-inside-habitat-67)
@@ -25,6 +26,7 @@
 * [2023-05-22, 15:01:58](https://news.ycombinator.com/item?id=36032335) - [Bakhmut Is Gone: An Aerial Look at the War’s Destruction](https://www.nytimes.com/2023/05/22/world/europe/bakhmut-ukraine.html)
 * [2023-05-22, 14:54:32](https://news.ycombinator.com/item?id=36032224) - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
 * [2023-05-22, 14:52:21](https://news.ycombinator.com/item?id=36032193) - [Examining puppeteer fungus&#x27; targeted takeover of zombie flies](https://phys.org/news/2023-05-puppeteer-fungus-takeover-zombie-flies.html)
+* [2023-05-22, 14:41:47](https://news.ycombinator.com/item?id=36032081) - [Show HN: Psychic - An open-source data integration platform for AI startups](https://github.com/psychic-api/psychic)
 * [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
 * [2023-05-22, 14:30:31](https://news.ycombinator.com/item?id=36031933) - [Roblox: Ten-year-old spent £2,500 of mum&#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
 * [2023-05-22, 14:20:04](https://news.ycombinator.com/item?id=36031789) - [Ask HN: I Want to have a small Linux laptop. What are my options?](https://news.ycombinator.com/item?id=36031789)
