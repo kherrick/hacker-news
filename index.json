@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-22, 22:07:38",
+      "https://news.ycombinator.com/item?id=36037308"
+    ],
+    [
+      "Compromising LLM-Integrated Applications with Indirect Prompt Injection",
+      "https://arxiv.org/abs/2302.12173"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 21:33:51",
       "https://news.ycombinator.com/item?id=36036997"
     ],
@@ -287,16 +297,6 @@
     [
       "Deep neural networks as computational graphs (2018)",
       "https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 00:12:40",
-      "https://news.ycombinator.com/item?id=36016774"
-    ],
-    [
-      "ONR Digital Computer Newsletter (1949-64)",
-      "http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/"
     ]
   ]
 ]
