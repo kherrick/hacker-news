@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 17:53:38](https://news.ycombinator.com/item?id=36034487) - [Custom OIDC is generally available on Tailscale](https://tailscale.com/blog/custom-oidc-ga/)
 * [2023-05-22, 17:46:33](https://news.ycombinator.com/item?id=36034405) - [Lawsuit accuses DoorDash of charging iPhone users more for identical orders](https://arstechnica.com/gadgets/2023/05/lawsuit-accuses-doordash-of-charging-iphone-users-more-for-identical-orders/)
 * [2023-05-22, 17:34:56](https://news.ycombinator.com/item?id=36034314) - [Governance of Superintelligence](https://openai.com/blog/governance-of-superintelligence)
 * [2023-05-22, 17:17:01](https://news.ycombinator.com/item?id=36034074) - [Intel Announces Aurora GenAI, ChatGPT Competitor with 1T Parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)

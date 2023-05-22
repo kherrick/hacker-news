@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 17:53:38](https://news.ycombinator.com/item?id=36034487) - [Custom OIDC is generally available on Tailscale](https://tailscale.com/blog/custom-oidc-ga/)
 * [2023-05-22, 17:46:33](https://news.ycombinator.com/item?id=36034405) - [Lawsuit accuses DoorDash of charging iPhone users more for identical orders](https://arstechnica.com/gadgets/2023/05/lawsuit-accuses-doordash-of-charging-iphone-users-more-for-identical-orders/)
 * [2023-05-22, 17:34:56](https://news.ycombinator.com/item?id=36034314) - [Governance of Superintelligence](https://openai.com/blog/governance-of-superintelligence)
 * [2023-05-22, 17:17:01](https://news.ycombinator.com/item?id=36034074) - [Intel Announces Aurora GenAI, ChatGPT Competitor with 1T Parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)
-* [2023-05-22, 16:49:14](https://news.ycombinator.com/item?id=36033763) - [When will global warming hit the landmark 1.5 ºC limit?](https://www.nature.com/articles/d41586-023-01702-w)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 * [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
