@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 14:52:21](https://news.ycombinator.com/item?id=36032193) - [Examining puppeteer fungus&#x27; targeted takeover of zombie flies](https://phys.org/news/2023-05-puppeteer-fungus-takeover-zombie-flies.html)
 * [2023-05-22, 14:30:31](https://news.ycombinator.com/item?id=36031933) - [Roblox: Ten-year-old spent £2,500 of mum&#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
+* [2023-05-22, 14:20:04](https://news.ycombinator.com/item?id=36031789) - [Ask HN: I Want to have a small Linux laptop. What are my options?](https://news.ycombinator.com/item?id=36031789)
 * [2023-05-22, 13:20:43](https://news.ycombinator.com/item?id=36031088) - [DfT Recommends Removing WiFi from Trains to Cut Costs](https://www.theguardian.com/business/2023/may/22/rail-passengers-in-england-could-lose-wifi-access-amid-cost-cuts)
 * [2023-05-22, 13:19:45](https://news.ycombinator.com/item?id=36031075) - [Mike Rowe&#x27;s warning to white collar workers &#x27;The robots are coming&#x27; for your job](https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job)
 * [2023-05-22, 13:09:12](https://news.ycombinator.com/item?id=36030969) - [Growing Up Alyssa](https://rosenzweig.io/blog/growing-up-alyssa.html)
