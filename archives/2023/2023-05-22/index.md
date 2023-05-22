@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 15:27:35](https://news.ycombinator.com/item?id=36032687) - [That ChatGPT iPhone app has serious privacy issues you need to know about](https://www.techradar.com/news/that-chatgpt-iphone-app-has-serious-privacy-issues-you-need-to-know-about)
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
 * [2023-05-22, 15:01:58](https://news.ycombinator.com/item?id=36032335) - [Bakhmut Is Gone: An Aerial Look at the War’s Destruction](https://www.nytimes.com/2023/05/22/world/europe/bakhmut-ukraine.html)
+* [2023-05-22, 14:54:32](https://news.ycombinator.com/item?id=36032224) - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
 * [2023-05-22, 14:52:21](https://news.ycombinator.com/item?id=36032193) - [Examining puppeteer fungus&#x27; targeted takeover of zombie flies](https://phys.org/news/2023-05-puppeteer-fungus-takeover-zombie-flies.html)
 * [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
 * [2023-05-22, 14:30:31](https://news.ycombinator.com/item?id=36031933) - [Roblox: Ten-year-old spent £2,500 of mum&#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
@@ -17,6 +19,7 @@
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 13:07:49](https://news.ycombinator.com/item?id=36030955) - [The Culture: The Drawings by Iain M. Banks](https://www.orbit-books.co.uk/landing-page/orbit/the-culture-the-drawings/)
 * [2023-05-22, 13:05:21](https://news.ycombinator.com/item?id=36030937) - [Lem v2.0.0 – Common Lisp IDE with high expansibility](https://github.com/lem-project/lem/releases/tag/v2.0.0)
+* [2023-05-22, 12:59:19](https://news.ycombinator.com/item?id=36030866) - [JSON-joy CRDT benchmarks, 100x speed improvement over state-of-the-art](https://jsonjoy.com/blog/list-crdt-benchmarks)
 * [2023-05-22, 12:47:03](https://news.ycombinator.com/item?id=36030731) - [The Most Underrated Sci-Fi Movies of the 1970s](https://www.denofgeek.com/movies/most-underrated-sci-fi-movies-of-the-1970s/)
 * [2023-05-22, 12:10:47](https://news.ycombinator.com/item?id=36030350) - [Show HN: I made an iOS HN app to navigate large threads without getting lost](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 * [2023-05-22, 12:09:33](https://news.ycombinator.com/item?id=36030337) - [UK&#x27;s GDPR replacement could wipe out oversight of live facial recognition](https://www.theregister.com/2023/05/19/dpib_2_surveillance_oversight/)

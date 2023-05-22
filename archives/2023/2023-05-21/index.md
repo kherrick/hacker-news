@@ -23,6 +23,7 @@
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-05-21, 16:58:56](https://news.ycombinator.com/item?id=36022768) - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
+* [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://arxiv.org/abs/2210.14889)
 * [2023-05-21, 16:22:34](https://news.ycombinator.com/item?id=36022460) - [Neural Network Architecture Beyond Width and Depth](https://arxiv.org/abs/2205.09459)
 * [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
 * [2023-05-21, 15:39:48](https://news.ycombinator.com/item?id=36022042) - [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
