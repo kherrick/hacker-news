@@ -17,7 +17,6 @@
 * [2023-05-22, 09:13:10](https://news.ycombinator.com/item?id=36029020) - [VSCode Security: Malicious Extensions Detected- More Than 45,000 Downloads](https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/)
 * [2023-05-22, 08:42:31](https://news.ycombinator.com/item?id=36028847) - [Ask HN: How to move from dev role to management&#x2F;team lead role?](https://news.ycombinator.com/item?id=36028847)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
-* [2023-05-22, 06:16:03](https://news.ycombinator.com/item?id=36028041) - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
 * [2023-05-22, 04:39:02](https://news.ycombinator.com/item?id=36027523) - [How to Be a Know-It-All (2017)](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all)
 * [2023-05-22, 04:35:55](https://news.ycombinator.com/item?id=36027510) - [Ketamine no better than placebo at alleviating depression, unusual trial finds](https://www.science.org/content/article/ketamine-no-better-placebo-alleviating-depression-unusual-trial-finds)
@@ -30,6 +29,7 @@
 * [2023-05-21, 08:36:58](https://news.ycombinator.com/item?id=36018980) - [A tutorial on Principal Components Analysis [pdf]](http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf)
 * [2023-05-21, 00:12:40](https://news.ycombinator.com/item?id=36016774) - [ONR Digital Computer Newsletter (1949-64)](http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/)
 * [2023-05-20, 10:27:55](https://news.ycombinator.com/item?id=36010689) - [Wrench Embedded Interpreter](https://www.northarc.com/wrench/www/)
+* [2023-05-20, 09:22:21](https://news.ycombinator.com/item?id=36010467) - [Solving Intermittent Cable Modem Issues (plus “loose&#x2F;bad connectors” and others)](https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html)
 
 ## [Archives](archives/index.md)
 
