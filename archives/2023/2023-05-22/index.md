@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 17:46:33](https://news.ycombinator.com/item?id=36034405) - [Lawsuit accuses DoorDash of charging iPhone users more for identical orders](https://arstechnica.com/gadgets/2023/05/lawsuit-accuses-doordash-of-charging-iphone-users-more-for-identical-orders/)
+* [2023-05-22, 17:34:56](https://news.ycombinator.com/item?id=36034314) - [Governance of Superintelligence](https://openai.com/blog/governance-of-superintelligence)
 * [2023-05-22, 17:17:01](https://news.ycombinator.com/item?id=36034074) - [Intel Announces Aurora GenAI, ChatGPT Competitor with 1T Parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)
 * [2023-05-22, 17:00:39](https://news.ycombinator.com/item?id=36033900) - [Florida’s Education Brain Drain Is Hitting Public Schools Hard](https://www.vanityfair.com/news/2023/05/florida-education-brain-drain-hitting-schools-hard)
 * [2023-05-22, 16:49:14](https://news.ycombinator.com/item?id=36033763) - [When will global warming hit the landmark 1.5 ºC limit?](https://www.nature.com/articles/d41586-023-01702-w)
