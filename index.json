@@ -1,32 +1,12 @@
 [
   [
     [
-      "2023-05-22, 05:35:00",
-      "https://news.ycombinator.com/item?id=36027799"
-    ],
-    [
-      "qb-escape – QuickBooks to GnuCash migration scripts",
-      "https://github.com/erikmack/qb-escape"
-    ]
-  ],
-  [
-    [
       "2023-05-22, 05:13:33",
       "https://news.ycombinator.com/item?id=36027702"
     ],
     [
       "Investigating the impact of HTTP3 on network latency for search",
       "https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 04:39:01",
-      "https://news.ycombinator.com/item?id=36027522"
-    ],
-    [
-      "Having a 20GB file that lets you ask an offline computer any question is amazing",
-      "https://old.reddit.com/r/LocalLLaMA/comments/128tp9n/having_a_20_gig_file_that_you_can_ask_an_offline/"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "Same Stop: Life after 26 years as a programmer for Apple",
       "https://www.engineersneedart.com/blog/samestop/samestop.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 00:59:52",
+      "https://news.ycombinator.com/item?id=36026220"
+    ],
+    [
+      "Deep sleep may be the best defense against Alzheimer’s",
+      "https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Noise is all around us",
       "https://thewalrus.ca/noise-ethics/"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 21:13:31",
-      "https://news.ycombinator.com/item?id=36024754"
-    ],
-    [
-      "An Example of a Sad Google Account Recovery Failure and Its Effects",
-      "https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad"
     ]
   ],
   [
@@ -175,7 +155,7 @@
       "https://news.ycombinator.com/item?id=36021495"
     ],
     [
-      "The Drakon Language",
+      "The DRAKON Language",
       "https://drakonhub.com/en/drakon"
     ]
   ],
@@ -201,22 +181,22 @@
   ],
   [
     [
-      "2023-05-21, 11:57:50",
-      "https://news.ycombinator.com/item?id=36020008"
-    ],
-    [
-      "Ask HN: I have 176 logins&#x2F;accounts. How many do you have?",
-      "https://news.ycombinator.com/item?id=36020008"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 11:54:34",
       "https://news.ycombinator.com/item?id=36020001"
     ],
     [
       "Show HN: SpaceBadgers – Free and Libre SVG Badges",
       "https://badgers.space"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 09:52:27",
+      "https://news.ycombinator.com/item?id=36019354"
+    ],
+    [
+      "Toaster: Pure CSS 3D Editor",
+      "https://petertyliu.github.io/toaster/"
     ]
   ],
   [
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2023-05-20, 19:26:27",
+      "https://news.ycombinator.com/item?id=36014790"
+    ],
+    [
+      "The Last Cosmopolitan: Elias Canetti’s 20th Century",
+      "https://www.thenation.com/article/culture/elias-canetti-joshua-cohen-cosmopolitan/"
+    ]
+  ],
+  [
+    [
       "2023-05-20, 19:17:35",
       "https://news.ycombinator.com/item?id=36014739"
     ],
     [
       "Why districts are slow to charge market rates for water (2009)",
       "https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market-rates-for-water/"
+    ]
+  ],
+  [
+    [
+      "2023-05-20, 11:03:49",
+      "https://news.ycombinator.com/item?id=36010863"
+    ],
+    [
+      "Cooking, Monasteries, Arithmetic: The History of Rules",
+      "https://www.publicbooks.org/cooking-monasteries-arithmetic-lorraine-daston-on-the-history-of-rules/"
     ]
   ],
   [
