@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 08:00:40](https://news.ycombinator.com/item?id=36028608) - [Winamp Clone Whips the Llama&#x27;s Ass on an Espressif ESP32](https://www.hackster.io/news/cheng-liang-s-lvgl-driven-winamp-clone-really-whips-the-llama-s-ass-on-an-espressif-esp32-2948716adcbb)
 * [2023-05-22, 07:54:05](https://news.ycombinator.com/item?id=36028567) - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
 * [2023-05-22, 07:35:50](https://news.ycombinator.com/item?id=36028459) - [Nvidia, Rolls-Royce Announce Quantum Computing Breakthrough for CFD in Jets](https://nvidianews.nvidia.com/news/nvidia-rolls-royce-and-classiq-announce-quantum-computing-breakthrough-for-computational-fluid-dynamics-in-jet-engines)
 * [2023-05-22, 06:16:03](https://news.ycombinator.com/item?id=36028041) - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
@@ -13,7 +14,6 @@
 * [2023-05-22, 00:31:19](https://news.ycombinator.com/item?id=36026038) - [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
 * [2023-05-21, 23:28:41](https://news.ycombinator.com/item?id=36025611) - [Beej&#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [2023-05-21, 23:14:26](https://news.ycombinator.com/item?id=36025507) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
-* [2023-05-21, 22:08:35](https://news.ycombinator.com/item?id=36025099) - [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
 * [2023-05-21, 21:36:14](https://news.ycombinator.com/item?id=36024901) - [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
 * [2023-05-21, 21:33:05](https://news.ycombinator.com/item?id=36024887) - [Noise is all around us](https://thewalrus.ca/noise-ethics/)
 * [2023-05-21, 20:40:06](https://news.ycombinator.com/item?id=36024503) - [PrivateGPT](https://github.com/imartinez/privateGPT)
