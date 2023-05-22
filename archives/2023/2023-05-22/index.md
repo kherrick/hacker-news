@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 07:54:05](https://news.ycombinator.com/item?id=36028567) - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
 * [2023-05-22, 06:16:03](https://news.ycombinator.com/item?id=36028041) - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 * [2023-05-22, 05:35:00](https://news.ycombinator.com/item?id=36027799) - [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
