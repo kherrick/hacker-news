@@ -60,6 +60,7 @@
 * [2023-05-21, 08:47:10](https://news.ycombinator.com/item?id=36019038) - [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2023-05-21, 08:45:31](https://news.ycombinator.com/item?id=36019030) - [r9: Plan 9 in Rust](https://github.com/r9os/r9)
 * [2023-05-21, 08:41:11](https://news.ycombinator.com/item?id=36019005) - [Typical: Data interchange with algebraic data types](https://github.com/stepchowfun/typical)
+* [2023-05-21, 08:36:58](https://news.ycombinator.com/item?id=36018980) - [A tutorial on Principal Components Analysis [pdf]](http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf)
 * [2023-05-21, 08:29:54](https://news.ycombinator.com/item?id=36018950) - [Little Languages for Music (1990) [pdf]](https://www.usenix.org/legacy/publications/compsystems/1990/spr_langston.pdf)
 * [2023-05-21, 08:29:23](https://news.ycombinator.com/item?id=36018949) - [ПП-BESM – a Soviet language (1955)](http://xav.io/posts/besm/)
 * [2023-05-21, 07:56:22](https://news.ycombinator.com/item?id=36018817) - [TOML: Tom&#x27;s Obvious Minimal Language](https://toml.io/en/)
