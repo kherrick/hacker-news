@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 02:30:30](https://news.ycombinator.com/item?id=36026773) - [Solar farms took over the California desert: ‘An oasis has become a dead sea’](https://www.theguardian.com/us-news/2023/may/21/solar-farms-energy-power-california-mojave-desert)
 * [2023-05-22, 02:11:45](https://news.ycombinator.com/item?id=36026662) - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
 * [2023-05-22, 00:59:52](https://news.ycombinator.com/item?id=36026220) - [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
 * [2023-05-22, 00:31:19](https://news.ycombinator.com/item?id=36026038) - [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
@@ -13,7 +14,6 @@
 * [2023-05-21, 20:40:06](https://news.ycombinator.com/item?id=36024503) - [PrivateGPT](https://github.com/imartinez/privateGPT)
 * [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How much memory do you need to run 1M concurrent tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 * [2023-05-21, 19:57:39](https://news.ycombinator.com/item?id=36024205) - [Hoarding](https://www.michaelsamsel.com/Content/Difficult_Styles/hoarding.html)
-* [2023-05-21, 18:44:02](https://news.ycombinator.com/item?id=36023656) - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 * [2023-05-21, 16:22:34](https://news.ycombinator.com/item?id=36022460) - [Neural Network Architecture Beyond Width and Depth](https://arxiv.org/abs/2205.09459)
