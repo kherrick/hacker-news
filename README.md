@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-22, 11:00:06](https://news.ycombinator.com/item?id=36029816) - [A Uber DEI exec placed on leave after hosting event “Don&#x27;t Call Me Karen”](https://www.businessinsider.com/dei-exec-at-uber-placed-on-leave-after-karen-event-2023-5)
-* [2023-05-22, 10:30:52](https://news.ycombinator.com/item?id=36029574) - [Video Shows Greece Abandoning Migrants at Sea](https://www.nytimes.com/2023/05/19/world/europe/greece-migrants-abandoned.html)
+* [2023-05-22, 11:59:03](https://news.ycombinator.com/item?id=36030231) - [Russia’s army is learning and improving on the battlefield](https://www.economist.com/europe/2023/05/21/russias-army-is-learning-on-the-battlefield)
+* [2023-05-22, 11:50:33](https://news.ycombinator.com/item?id=36030156) - [PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used](https://news.ycombinator.com/item?id=36030156)
 * [2023-05-22, 10:09:53](https://news.ycombinator.com/item?id=36029409) - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
 * [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
