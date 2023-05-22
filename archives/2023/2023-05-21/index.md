@@ -31,6 +31,7 @@
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://arxiv.org/abs/2210.14889)
 * [2023-05-21, 16:22:34](https://news.ycombinator.com/item?id=36022460) - [Neural Network Architecture Beyond Width and Depth](https://arxiv.org/abs/2205.09459)
 * [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
+* [2023-05-21, 15:43:52](https://news.ycombinator.com/item?id=36022078) - [A Review of the RGB Blaster: No Mod, No Problem](https://nicole.express/2023/that-blasted-rgb.html)
 * [2023-05-21, 15:39:48](https://news.ycombinator.com/item?id=36022042) - [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
 * [2023-05-21, 15:35:52](https://news.ycombinator.com/item?id=36022005) - [Plain Text Accounting](https://plaintextaccounting.org/)
 * [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical Validation of Wearable Piezoelectric Blood-Pressure Sensor](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
