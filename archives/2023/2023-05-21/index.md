@@ -56,6 +56,7 @@
 * [2023-05-21, 09:48:47](https://news.ycombinator.com/item?id=36019336) - [Experimenting with graph databases with Memgraph and Elixir](https://0x7f.dev/post/elixir_memgraph/)
 * [2023-05-21, 09:40:24](https://news.ycombinator.com/item?id=36019293) - [The Absurdity Of Stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
 * [2023-05-21, 09:25:34](https://news.ycombinator.com/item?id=36019208) - [Building a Handheld PC](https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html)
+* [2023-05-21, 09:23:29](https://news.ycombinator.com/item?id=36019197) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d)
 * [2023-05-21, 09:02:57](https://news.ycombinator.com/item?id=36019109) - [How AI coding companions will change the way developers work](https://www.allthingsdistributed.com/2023/04/how-ai-coding-companions-will-change-the-way-developers-work.html)
 * [2023-05-21, 08:47:10](https://news.ycombinator.com/item?id=36019038) - [Reasons Not to Become Famous](https://tim.blog/2020/02/02/reasons-to-not-become-famous/)
 * [2023-05-21, 08:45:31](https://news.ycombinator.com/item?id=36019030) - [r9: Plan 9 in Rust](https://github.com/r9os/r9)
