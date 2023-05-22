@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-22, 07:54:05](https://news.ycombinator.com/item?id=36028567) - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
+* [2023-05-22, 07:35:50](https://news.ycombinator.com/item?id=36028459) - [Nvidia, Rolls-Royce Announce Quantum Computing Breakthrough for CFD in Jets](https://nvidianews.nvidia.com/news/nvidia-rolls-royce-and-classiq-announce-quantum-computing-breakthrough-for-computational-fluid-dynamics-in-jet-engines)
 * [2023-05-22, 06:16:03](https://news.ycombinator.com/item?id=36028041) - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 * [2023-05-22, 05:35:00](https://news.ycombinator.com/item?id=36027799) - [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
@@ -18,7 +19,6 @@
 * [2023-05-21, 21:13:31](https://news.ycombinator.com/item?id=36024754) - [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
 * [2023-05-21, 20:40:06](https://news.ycombinator.com/item?id=36024503) - [PrivateGPT](https://github.com/imartinez/privateGPT)
 * [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How much memory do you need to run 1M concurrent tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
-* [2023-05-21, 19:57:39](https://news.ycombinator.com/item?id=36024205) - [Hoarding](https://www.michaelsamsel.com/Content/Difficult_Styles/hoarding.html)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The end of the accounting search](https://lwn.net/Articles/925782/)
 * [2023-05-21, 09:52:27](https://news.ycombinator.com/item?id=36019354) - [Toaster: Pure CSS 3D Editor](https://petertyliu.github.io/toaster/)
