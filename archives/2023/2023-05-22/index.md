@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
+* [2023-05-22, 08:39:54](https://news.ycombinator.com/item?id=36028837) - [Bedr00mZ: Nobody Prepared Me for That](https://bedr00mz.neocities.org/)
+* [2023-05-22, 08:24:33](https://news.ycombinator.com/item?id=36028756) - [The Atomic Energy Lab Kit for Kids That Came with Actual Radioactive Materials](https://rarehistoricalphotos.com/gilbert-u-238-atomic-energy-lab-kit-for-kids/)
 * [2023-05-22, 08:00:40](https://news.ycombinator.com/item?id=36028608) - [Winamp Clone Whips the Llama&#x27;s Ass on an Espressif ESP32](https://www.hackster.io/news/cheng-liang-s-lvgl-driven-winamp-clone-really-whips-the-llama-s-ass-on-an-espressif-esp32-2948716adcbb)
 * [2023-05-22, 07:54:05](https://news.ycombinator.com/item?id=36028567) - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
 * [2023-05-22, 07:36:06](https://news.ycombinator.com/item?id=36028463) - [Why your team doesn&#x27;t need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
