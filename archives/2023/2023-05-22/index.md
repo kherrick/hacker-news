@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
 * [2023-05-22, 22:35:47](https://news.ycombinator.com/item?id=36037559) - [Ask HN: Those with success using GPT-4 for programming – what are you doing?](https://news.ycombinator.com/item?id=36037559)
+* [2023-05-22, 22:21:06](https://news.ycombinator.com/item?id=36037419) - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 * [2023-05-22, 22:07:38](https://news.ycombinator.com/item?id=36037308) - [Compromising LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
 * [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)

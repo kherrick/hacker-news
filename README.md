@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-22, 22:35:47](https://news.ycombinator.com/item?id=36037559) - [Ask HN: Those with success using GPT-4 for programming – what are you doing?](https://news.ycombinator.com/item?id=36037559)
+* [2023-05-22, 22:21:06](https://news.ycombinator.com/item?id=36037419) - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 * [2023-05-22, 22:07:38](https://news.ycombinator.com/item?id=36037308) - [Compromising LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
 * [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
@@ -24,11 +24,11 @@
 * [2023-05-22, 09:15:20](https://news.ycombinator.com/item?id=36029032) - [Polar Night](https://brr.fyi/posts/polar-night)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta fined $1.3B over data transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-21, 18:31:33](https://news.ycombinator.com/item?id=36023558) - [Success to the successful](https://riskmusings.substack.com/p/success-to-the-successful)
-* [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 * [2023-05-21, 17:11:57](https://news.ycombinator.com/item?id=36022896) - [Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly secure steganography using minimum entropy coupling](https://arxiv.org/abs/2210.14889)
 * [2023-05-21, 15:43:52](https://news.ycombinator.com/item?id=36022078) - [A Review of the RGB Blaster: No Mod, No Problem](https://nicole.express/2023/that-blasted-rgb.html)
 * [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical validation of a blood-pressure sensor for continuous health monitoring](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
+* [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep neural networks as computational graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 
 ## [Archives](archives/index.md)
