@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 17:17:01](https://news.ycombinator.com/item?id=36034074) - [Intel Announces Aurora GenAI, ChatGPT Competitor with 1T Parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)
 * [2023-05-22, 17:00:39](https://news.ycombinator.com/item?id=36033900) - [Florida’s Education Brain Drain Is Hitting Public Schools Hard](https://www.vanityfair.com/news/2023/05/florida-education-brain-drain-hitting-schools-hard)
 * [2023-05-22, 16:45:04](https://news.ycombinator.com/item?id=36033708) - [You&#x27;ll own nothing and be happy](https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_be_happy)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
@@ -16,6 +17,7 @@
 * [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
 * [2023-05-22, 14:30:31](https://news.ycombinator.com/item?id=36031933) - [Roblox: Ten-year-old spent £2,500 of mum&#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
 * [2023-05-22, 14:20:04](https://news.ycombinator.com/item?id=36031789) - [Ask HN: I Want to have a small Linux laptop. What are my options?](https://news.ycombinator.com/item?id=36031789)
+* [2023-05-22, 13:48:53](https://news.ycombinator.com/item?id=36031446) - [Some Neural Networks Learn Language Like Humans](https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/)
 * [2023-05-22, 13:20:43](https://news.ycombinator.com/item?id=36031088) - [DfT Recommends Removing WiFi from Trains to Cut Costs](https://www.theguardian.com/business/2023/may/22/rail-passengers-in-england-could-lose-wifi-access-amid-cost-cuts)
 * [2023-05-22, 13:19:45](https://news.ycombinator.com/item?id=36031075) - [Mike Rowe&#x27;s warning to white collar workers &#x27;The robots are coming&#x27; for your job](https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job)
 * [2023-05-22, 13:09:12](https://news.ycombinator.com/item?id=36030969) - [Growing Up Alyssa](https://rosenzweig.io/blog/growing-up-alyssa.html)
