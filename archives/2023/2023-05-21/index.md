@@ -36,6 +36,7 @@
 * [2023-05-21, 13:45:35](https://news.ycombinator.com/item?id=36020792) - [The New Bar Exam Puts DEI over Lawyer Competence](https://www.wsj.com/articles/the-new-bar-exam-puts-dei-over-competence-ncbe-family-law-schools-9c0dd4e8)
 * [2023-05-21, 13:36:44](https://news.ycombinator.com/item?id=36020717) - [Show HN: Trogon – An automatic TUI for command line apps](https://github.com/Textualize/trogon)
 * [2023-05-21, 13:22:10](https://news.ycombinator.com/item?id=36020597) - [Ask HN: What are your favorite sci-fi books?](https://news.ycombinator.com/item?id=36020597)
+* [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep Learning as Computational Graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 * [2023-05-21, 13:01:44](https://news.ycombinator.com/item?id=36020473) - [Study finds 90% of Australian teachers can&#x27;t afford to live where they teach](https://phys.org/news/2023-05-australian-teachers.html)
 * [2023-05-21, 12:57:27](https://news.ycombinator.com/item?id=36020437) - [The Bill of Materials for the Apple Headset Leaked Online](https://twitter.com/cixliv/status/1660038281034350592)
 * [2023-05-21, 12:56:52](https://news.ycombinator.com/item?id=36020431) - [Potentially millions of Android TVs and phones come with malware preinstalled](https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/)

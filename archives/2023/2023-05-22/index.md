@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
+* [2023-05-22, 12:47:03](https://news.ycombinator.com/item?id=36030731) - [The Most Underrated Sci-Fi Movies of the 1970s](https://www.denofgeek.com/movies/most-underrated-sci-fi-movies-of-the-1970s/)
 * [2023-05-22, 12:10:47](https://news.ycombinator.com/item?id=36030350) - [Show HN: I made an iOS HN app to navigate large threads without getting lost](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 * [2023-05-22, 12:09:33](https://news.ycombinator.com/item?id=36030337) - [UK&#x27;s GDPR replacement could wipe out oversight of live facial recognition](https://www.theregister.com/2023/05/19/dpib_2_surveillance_oversight/)
+* [2023-05-22, 12:03:01](https://news.ycombinator.com/item?id=36030282) - [Show HN: I built a web app for learning Vim from the browser as a 17-year-old](https://www.vimninja.com/)
 * [2023-05-22, 11:59:03](https://news.ycombinator.com/item?id=36030231) - [Russia’s army is learning and improving on the battlefield](https://www.economist.com/europe/2023/05/21/russias-army-is-learning-on-the-battlefield)
 * [2023-05-22, 11:50:33](https://news.ycombinator.com/item?id=36030156) - [PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used](https://news.ycombinator.com/item?id=36030156)
 * [2023-05-22, 11:00:06](https://news.ycombinator.com/item?id=36029816) - [A Uber DEI exec placed on leave after hosting event “Don&#x27;t Call Me Karen”](https://www.businessinsider.com/dei-exec-at-uber-placed-on-leave-after-karen-event-2023-5)
