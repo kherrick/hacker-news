@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-05-22, 18:28:40",
+      "https://news.ycombinator.com/item?id=36034929"
+    ],
+    [
+      "Modern work requires attention – constant alerts steal it",
+      "https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 18:15:11",
       "https://news.ycombinator.com/item?id=36034726"
     ],
     [
-      "What if you did the exact opposite?",
+      "What if you did the exact opposite, like rogue bees do (2020)",
       "https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/"
     ]
   ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-05-22, 17:43:46",
-      "https://news.ycombinator.com/item?id=36034368"
+      "2023-05-22, 17:27:05",
+      "https://news.ycombinator.com/item?id=36034211"
     ],
     [
-      "New Tesla Model Y with BYD batteries charges much faster",
-      "https://electrek.co/2023/05/22/tesla-model-y-byd-batteries-charges-faster/"
+      "Meta AI announces Massive Multilingual Speech code &amp; models for 1000+ languages",
+      "https://github.com/facebookresearch/fairseq/tree/main/examples/mms"
     ]
   ],
   [
@@ -221,26 +231,6 @@
   ],
   [
     [
-      "2023-05-22, 05:13:33",
-      "https://news.ycombinator.com/item?id=36027702"
-    ],
-    [
-      "Investigating the impact of HTTP3 on network latency for search",
-      "https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 02:11:45",
-      "https://news.ycombinator.com/item?id=36026662"
-    ],
-    [
-      "Same Stop: Life after 26 years as a programmer for Apple",
-      "https://www.engineersneedart.com/blog/samestop/samestop.html"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 18:31:33",
       "https://news.ycombinator.com/item?id=36023558"
     ],
@@ -297,6 +287,16 @@
     [
       "Deep neural networks as computational graphs (2018)",
       "https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 00:12:40",
+      "https://news.ycombinator.com/item?id=36016774"
+    ],
+    [
+      "ONR Digital Computer Newsletter (1949-64)",
+      "http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/"
     ]
   ]
 ]
