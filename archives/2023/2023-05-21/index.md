@@ -24,6 +24,7 @@
 * [2023-05-21, 17:58:33](https://news.ycombinator.com/item?id=36023269) - [Ask HN: Have you used a forward sale to avoid stock transfer restrictions?](https://news.ycombinator.com/item?id=36023269)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-05-21, 16:58:56](https://news.ycombinator.com/item?id=36022768) - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
+* [2023-05-21, 16:53:36](https://news.ycombinator.com/item?id=36022722) - [The Two-Century Quest to Quantify Our Senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://arxiv.org/abs/2210.14889)
 * [2023-05-21, 16:22:34](https://news.ycombinator.com/item?id=36022460) - [Neural Network Architecture Beyond Width and Depth](https://arxiv.org/abs/2205.09459)

@@ -2,7 +2,6 @@
 
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
-* [2023-05-22, 17:46:33](https://news.ycombinator.com/item?id=36034405) - [Lawsuit accuses DoorDash of charging iPhone users more than others](https://arstechnica.com/gadgets/2023/05/lawsuit-accuses-doordash-of-charging-iphone-users-more-for-identical-orders/)
 * [2023-05-22, 17:27:05](https://news.ycombinator.com/item?id=36034211) - [Meta AI announces Massive Multilingual Speech code &amp; models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron quits, saying Apple didn&#x27;t let it make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 * [2023-05-22, 16:18:51](https://news.ycombinator.com/item?id=36033369) - [Ethical, societal implications of genome-wide behavioral, brain-related traits](https://www.nature.com/articles/s41593-023-01333-4)
@@ -25,6 +24,7 @@
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta fined $1.3B over data transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-21, 18:31:33](https://news.ycombinator.com/item?id=36023558) - [Success to the successful](https://riskmusings.substack.com/p/success-to-the-successful)
 * [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
+* [2023-05-21, 16:53:36](https://news.ycombinator.com/item?id=36022722) - [The Two-Century Quest to Quantify Our Senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly secure steganography using minimum entropy coupling](https://arxiv.org/abs/2210.14889)
 * [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core and the Strange Death of Louis Slotin (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
 * [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical validation of a blood-pressure sensor for continuous health monitoring](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
