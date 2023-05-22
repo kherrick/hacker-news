@@ -62,6 +62,7 @@
 * [2023-05-20, 09:50:04](https://news.ycombinator.com/item?id=36010562) - [Home schooling can challenge our beliefs about education](https://www.prospectmagazine.co.uk/society/44818/how-home-schooling-can-challenge-our-beliefs-about-education)
 * [2023-05-20, 08:26:22](https://news.ycombinator.com/item?id=36010270) - [Tell HN: OpenAI&#x27;s billing features and customer support are barely functional](https://news.ycombinator.com/item?id=36010270)
 * [2023-05-20, 07:45:42](https://news.ycombinator.com/item?id=36010128) - [Hitler’s Antarctic base: the myth and the reality [pdf]](https://www.histarmar.com.ar/Antartida/Base-Hitler/LaBaseAntarticadeHitler.pdf)
+* [2023-05-20, 07:10:47](https://news.ycombinator.com/item?id=36009988) - [Poverty Is the 4th Leading Cause of Death in the US, Research Shows](https://www.commondreams.org/news/poverty-4th-leading-cause-death)
 * [2023-05-20, 06:47:43](https://news.ycombinator.com/item?id=36009892) - [The long life of Apache httpd 2.4](https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife)
 * [2023-05-20, 06:18:24](https://news.ycombinator.com/item?id=36009774) - [Show HN: YouTube Full Text Search – Search all of a channel from the commandline](https://github.com/NotJoeMartinez/yt-fts)
 * [2023-05-20, 06:17:47](https://news.ycombinator.com/item?id=36009768) - [Debugging a FUSE deadlock in the Linux kernel at Netflix](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=06e75507c327)
