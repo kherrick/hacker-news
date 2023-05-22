@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-22, 22:35:47](https://news.ycombinator.com/item?id=36037559) - [Ask HN: Those with success using GPT-4 for programming – what are you doing?](https://news.ycombinator.com/item?id=36037559)
+* [2023-05-22, 22:07:38](https://news.ycombinator.com/item?id=36037308) - [Compromising LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
 * [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 20:32:03](https://news.ycombinator.com/item?id=36036321) - [A temperature rise of 2 degrees Celsius impacts billions](https://www.dw.com/en/how-a-temperature-rise-of-2-degrees-celsius-impacts-billions/a-65695800)
@@ -29,7 +30,6 @@
 * [2023-05-21, 15:43:52](https://news.ycombinator.com/item?id=36022078) - [A Review of the RGB Blaster: No Mod, No Problem](https://nicole.express/2023/that-blasted-rgb.html)
 * [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical validation of a blood-pressure sensor for continuous health monitoring](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep neural networks as computational graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
-* [2023-05-21, 00:12:40](https://news.ycombinator.com/item?id=36016774) - [ONR Digital Computer Newsletter (1949-64)](http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/)
 
 ## [Archives](archives/index.md)
 
