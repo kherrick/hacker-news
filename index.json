@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-05-22, 13:09:12",
+      "https://news.ycombinator.com/item?id=36030969"
+    ],
+    [
+      "Growing Up Alyssa",
+      "https://rosenzweig.io/blog/growing-up-alyssa.html"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 13:08:02",
       "https://news.ycombinator.com/item?id=36030959"
     ],
     [
       "Black holes might be defects in spacetime",
       "https://phys.org/news/2023-05-black-holes-defects-spacetime.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 13:07:56",
+      "https://news.ycombinator.com/item?id=36030958"
+    ],
+    [
+      "Io Uring",
+      "https://nick-black.com/dankwiki/index.php/Io_uring"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 13:07:49",
+      "https://news.ycombinator.com/item?id=36030955"
+    ],
+    [
+      "The Culture: The Drawings by Iain M. Banks",
+      "https://www.orbit-books.co.uk/landing-page/orbit/the-culture-the-drawings/"
     ]
   ],
   [
@@ -57,6 +87,16 @@
     [
       "PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used",
       "https://news.ycombinator.com/item?id=36030156"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 11:50:05",
+      "https://news.ycombinator.com/item?id=36030153"
+    ],
+    [
+      "Show HN: Ki Programming Language",
+      "https://github.com/ki-lang/ki"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2023-05-22, 06:16:03",
-      "https://news.ycombinator.com/item?id=36028041"
-    ],
-    [
-      "SR-71 pilot, photographer and storyteller Brian Shul dies at 75",
-      "https://newatlas.com/remarkable-people/brian-shul-death/"
-    ]
-  ],
-  [
-    [
       "2023-05-22, 05:13:33",
       "https://news.ycombinator.com/item?id=36027702"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-05-22, 00:59:52",
-      "https://news.ycombinator.com/item?id=36026220"
-    ],
-    [
-      "Deep sleep may be the best defense against Alzheimer’s",
-      "https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 23:28:41",
       "https://news.ycombinator.com/item?id=36025611"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-05-21, 09:23:29",
-      "https://news.ycombinator.com/item?id=36019197"
-    ],
-    [
-      "Debugging a FUSE deadlock in the Linux kernel",
-      "https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 08:36:58",
       "https://news.ycombinator.com/item?id=36018980"
     ],
@@ -287,16 +297,6 @@
     [
       "Wrench Embedded Interpreter",
       "https://www.northarc.com/wrench/www/"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 09:22:21",
-      "https://news.ycombinator.com/item?id=36010467"
-    ],
-    [
-      "Solving Intermittent Cable Modem Issues (plus “loose&#x2F;bad connectors” and others)",
-      "https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html"
     ]
   ]
 ]
