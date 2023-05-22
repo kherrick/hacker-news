@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
+* [2023-05-22, 18:23:25](https://news.ycombinator.com/item?id=36034855) - [What It Was Like to Live Inside Habitat 67](https://www.architecturaldigest.com/story/what-it-was-like-to-live-inside-habitat-67)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
 * [2023-05-22, 17:27:05](https://news.ycombinator.com/item?id=36034211) - [Meta AI announces Massive Multilingual Speech code &amp; models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron quits, saying Apple didn&#x27;t let it make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
@@ -14,7 +15,6 @@
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 13:05:21](https://news.ycombinator.com/item?id=36030937) - [Lem v2.0.0 – Common Lisp IDE with high expansibility](https://github.com/lem-project/lem)
 * [2023-05-22, 12:59:19](https://news.ycombinator.com/item?id=36030866) - [CRDT Benchmarks](https://jsonjoy.com/blog/list-crdt-benchmarks)
-* [2023-05-22, 12:09:33](https://news.ycombinator.com/item?id=36030337) - [UK’s GDPR replacement could wipe out oversight of live facial recognition](https://www.theregister.com/2023/05/19/dpib_2_surveillance_oversight/)
 * [2023-05-22, 11:12:43](https://news.ycombinator.com/item?id=36029915) - [RCE on MikroTik routers with IPv6 RA enabled](https://blog.mikrotik.com/security/cve-2023-32154.html)
 * [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The many faces of DISTINCT in Postgres (2017)](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
