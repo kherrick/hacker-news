@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
+* [2023-05-22, 15:01:58](https://news.ycombinator.com/item?id=36032335) - [Bakhmut Is Gone: An Aerial Look at the War’s Destruction](https://www.nytimes.com/2023/05/22/world/europe/bakhmut-ukraine.html)
 * [2023-05-22, 14:52:21](https://news.ycombinator.com/item?id=36032193) - [Examining puppeteer fungus&#x27; targeted takeover of zombie flies](https://phys.org/news/2023-05-puppeteer-fungus-takeover-zombie-flies.html)
 * [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
 * [2023-05-22, 14:30:31](https://news.ycombinator.com/item?id=36031933) - [Roblox: Ten-year-old spent £2,500 of mum&#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
@@ -23,6 +24,7 @@
 * [2023-05-22, 11:59:03](https://news.ycombinator.com/item?id=36030231) - [Russia’s army is learning and improving on the battlefield](https://www.economist.com/europe/2023/05/21/russias-army-is-learning-on-the-battlefield)
 * [2023-05-22, 11:50:33](https://news.ycombinator.com/item?id=36030156) - [PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used](https://news.ycombinator.com/item?id=36030156)
 * [2023-05-22, 11:50:05](https://news.ycombinator.com/item?id=36030153) - [Show HN: Ki Programming Language](https://github.com/ki-lang/ki)
+* [2023-05-22, 11:12:43](https://news.ycombinator.com/item?id=36029915) - [RCE on MikroTik routers with IPv6 RA enabled](https://blog.mikrotik.com/security/cve-2023-32154.html)
 * [2023-05-22, 11:00:06](https://news.ycombinator.com/item?id=36029816) - [A Uber DEI exec placed on leave after hosting event “Don&#x27;t Call Me Karen”](https://www.businessinsider.com/dei-exec-at-uber-placed-on-leave-after-karen-event-2023-5)
 * [2023-05-22, 10:30:52](https://news.ycombinator.com/item?id=36029574) - [Video Shows Greece Abandoning Migrants at Sea](https://www.nytimes.com/2023/05/19/world/europe/greece-migrants-abandoned.html)
 * [2023-05-22, 10:12:45](https://news.ycombinator.com/item?id=36029432) - [Volkswagen-backed Gotion unveils new EV battery with 1k km range](https://technode.com/2023/05/19/volkswagen-backed-gotion-unveils-new-ev-battery-allowing-1000-km-range/)
