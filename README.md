@@ -2,6 +2,7 @@
 
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
 * [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
+* [2023-05-22, 20:32:03](https://news.ycombinator.com/item?id=36036321) - [A temperature rise of 2 degrees Celsius impacts billions](https://www.dw.com/en/how-a-temperature-rise-of-2-degrees-celsius-impacts-billions/a-65695800)
 * [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
@@ -14,7 +15,6 @@
 * [2023-05-22, 13:48:53](https://news.ycombinator.com/item?id=36031446) - [Parallels in the ways that humans and ML models acquire language skills](https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/)
 * [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io uring](https://nick-black.com/dankwiki/index.php/Io_uring)
-* [2023-05-22, 13:05:21](https://news.ycombinator.com/item?id=36030937) - [Lem v2.0.0 – Common Lisp IDE with high expansibility](https://github.com/lem-project/lem)
 * [2023-05-22, 12:59:19](https://news.ycombinator.com/item?id=36030866) - [CRDT Benchmarks](https://jsonjoy.com/blog/list-crdt-benchmarks)
 * [2023-05-22, 11:12:43](https://news.ycombinator.com/item?id=36029915) - [RCE on MikroTik routers with IPv6 RA enabled](https://blog.mikrotik.com/security/cve-2023-32154.html)
 * [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
