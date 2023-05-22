@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 04:25:32](https://news.ycombinator.com/item?id=36027442) - [The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
 * [2023-05-22, 02:11:45](https://news.ycombinator.com/item?id=36026662) - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
 * [2023-05-22, 00:59:52](https://news.ycombinator.com/item?id=36026220) - [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
 * [2023-05-22, 00:31:19](https://news.ycombinator.com/item?id=36026038) - [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
@@ -22,7 +23,6 @@
 * [2023-05-21, 11:54:34](https://news.ycombinator.com/item?id=36020001) - [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
 * [2023-05-21, 08:41:11](https://news.ycombinator.com/item?id=36019005) - [Typical: Data interchange with algebraic data types](https://github.com/stepchowfun/typical)
 * [2023-05-21, 05:33:53](https://news.ycombinator.com/item?id=36018300) - [Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
-* [2023-05-21, 05:28:43](https://news.ycombinator.com/item?id=36018272) - [America’s skepticism toward the first automobiles (1930)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
 * [2023-05-20, 19:17:35](https://news.ycombinator.com/item?id=36014739) - [Why districts are slow to charge market rates for water (2009)](https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market-rates-for-water/)
 * [2023-05-20, 11:03:49](https://news.ycombinator.com/item?id=36010863) - [Cooking, Monasteries, Arithmetic: Lorraine Daston on the History of Rules](https://www.publicbooks.org/cooking-monasteries-arithmetic-lorraine-daston-on-the-history-of-rules/)
 * [2023-05-20, 10:00:36](https://news.ycombinator.com/item?id=36010600) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)

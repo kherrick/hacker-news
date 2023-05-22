@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 04:25:32](https://news.ycombinator.com/item?id=36027442) - [The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
 * [2023-05-22, 02:30:30](https://news.ycombinator.com/item?id=36026773) - [Solar farms took over the California desert: ‘An oasis has become a dead sea’](https://www.theguardian.com/us-news/2023/may/21/solar-farms-energy-power-california-mojave-desert)
 * [2023-05-22, 02:11:45](https://news.ycombinator.com/item?id=36026662) - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
 * [2023-05-22, 01:18:26](https://news.ycombinator.com/item?id=36026331) - [Americans no longer want to move for work](https://www.cbsnews.com/news/moving-for-work-mobilty-record-low-1-6-percent-challenger/)
