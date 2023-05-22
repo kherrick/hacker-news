@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-22, 17:00:39",
+      "https://news.ycombinator.com/item?id=36033900"
+    ],
+    [
+      "Florida’s Education Brain Drain Is Hitting Public Schools Hard",
+      "https://www.vanityfair.com/news/2023/05/florida-education-brain-drain-hitting-schools-hard"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 16:45:04",
+      "https://news.ycombinator.com/item?id=36033708"
+    ],
+    [
+      "You&#x27;ll own nothing and be happy",
+      "https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_be_happy"
+    ]
+  ],
+  [
+    [
       "2023-05-22, 16:23:16",
       "https://news.ycombinator.com/item?id=36033433"
     ],
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2023-05-21, 23:28:41",
-      "https://news.ycombinator.com/item?id=36025611"
+      "2023-05-21, 18:03:34",
+      "https://news.ycombinator.com/item?id=36023306"
     ],
     [
-      "Beej&#x27;s Guide to Network Programming",
-      "https://beej.us/guide/bgnet/"
+      "Lehman’s Laws of Software Evolution",
+      "https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Deep Neural Networks As Computational Graphs (2018)",
       "https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 08:36:58",
-      "https://news.ycombinator.com/item?id=36018980"
-    ],
-    [
-      "A tutorial on Principal Components Analysis (2002) [pdf]",
-      "http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 10:27:55",
-      "https://news.ycombinator.com/item?id=36010689"
-    ],
-    [
-      "Wrench Embedded Interpreter",
-      "https://www.northarc.com/wrench/www/"
     ]
   ]
 ]
