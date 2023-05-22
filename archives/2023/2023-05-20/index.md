@@ -58,6 +58,7 @@
 * [2023-05-20, 11:03:49](https://news.ycombinator.com/item?id=36010863) - [Cooking, Monasteries, Arithmetic: Lorraine Daston on the History of Rules](https://www.publicbooks.org/cooking-monasteries-arithmetic-lorraine-daston-on-the-history-of-rules/)
 * [2023-05-20, 10:51:00](https://news.ycombinator.com/item?id=36010785) - [People in the U.S. Think They Are Better Than They Are. Asians Don’t](https://www.scientificamerican.com/article/people-in-the-u-s-think-they-are-better-than-they-actually-are-people-in-asia-dont/)
 * [2023-05-20, 10:49:23](https://news.ycombinator.com/item?id=36010778) - [Show HN: PuzzleMoji, a daily emoji pictionary challenge against ChatGPT](https://puzzlemoji.com/)
+* [2023-05-20, 10:27:55](https://news.ycombinator.com/item?id=36010689) - [Wrench Embedded Interpreter](https://www.northarc.com/wrench/www/)
 * [2023-05-20, 10:00:36](https://news.ycombinator.com/item?id=36010600) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 09:50:04](https://news.ycombinator.com/item?id=36010562) - [Home schooling can challenge our beliefs about education](https://www.prospectmagazine.co.uk/society/44818/how-home-schooling-can-challenge-our-beliefs-about-education)
 * [2023-05-20, 09:22:21](https://news.ycombinator.com/item?id=36010467) - [Solving Intermittent Cable Modem Issues (plus “loose&#x2F;bad connectors” and others)](https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html)
