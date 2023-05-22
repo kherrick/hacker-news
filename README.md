@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
@@ -26,7 +27,6 @@
 * [2023-05-21, 17:16:39](https://news.ycombinator.com/item?id=36022948) - [How to Spin Bad News](https://www.pajiba.com/celebrities_are_better_than_you/how-to-spin-bad-news-featuring-jonathan-majors-and-johnny-depp.php)
 * [2023-05-21, 17:11:57](https://news.ycombinator.com/item?id=36022896) - [Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly secure steganography using minimum entropy coupling](https://arxiv.org/abs/2210.14889)
-* [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core and the Strange Death of Louis Slotin (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
 * [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical validation of a blood-pressure sensor for continuous health monitoring](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep neural networks as computational graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 * [2023-05-21, 00:12:40](https://news.ycombinator.com/item?id=36016774) - [ONR Digital Computer Newsletter (1949-64)](http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 19:26:52](https://news.ycombinator.com/item?id=36035587) - [Disney and the Great Streaming Purge](https://puck.news/disney-and-the-great-streaming-purge/)
 * [2023-05-22, 19:15:30](https://news.ycombinator.com/item?id=36035461) - [Once a fringe theory, “greedflation” gets its due](https://www.axios.com/2023/05/18/once-a-fringe-theory-greedflation-gets-its-due)
