@@ -10,6 +10,7 @@
 * [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 13:07:49](https://news.ycombinator.com/item?id=36030955) - [The Culture: The Drawings by Iain M. Banks](https://www.orbit-books.co.uk/landing-page/orbit/the-culture-the-drawings/)
+* [2023-05-22, 13:05:21](https://news.ycombinator.com/item?id=36030937) - [Lem v2.0.0 – Common Lisp IDE with high expansibility](https://github.com/lem-project/lem/releases/tag/v2.0.0)
 * [2023-05-22, 12:47:03](https://news.ycombinator.com/item?id=36030731) - [The Most Underrated Sci-Fi Movies of the 1970s](https://www.denofgeek.com/movies/most-underrated-sci-fi-movies-of-the-1970s/)
 * [2023-05-22, 12:10:47](https://news.ycombinator.com/item?id=36030350) - [Show HN: I made an iOS HN app to navigate large threads without getting lost](https://apps.apple.com/us/app/hackernewt-for-hacker-news/id6448201970)
 * [2023-05-22, 12:09:33](https://news.ycombinator.com/item?id=36030337) - [UK&#x27;s GDPR replacement could wipe out oversight of live facial recognition](https://www.theregister.com/2023/05/19/dpib_2_surveillance_oversight/)
