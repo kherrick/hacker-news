@@ -26,6 +26,7 @@
 * [2023-05-21, 16:22:34](https://news.ycombinator.com/item?id=36022460) - [Neural Network Architecture Beyond Width and Depth](https://arxiv.org/abs/2205.09459)
 * [2023-05-21, 15:39:48](https://news.ycombinator.com/item?id=36022042) - [High-Performance Graph Databases, Scaling to Hundreds of Thousands of Cores](https://arxiv.org/abs/2305.11162)
 * [2023-05-21, 15:35:52](https://news.ycombinator.com/item?id=36022005) - [Plain Text Accounting](https://plaintextaccounting.org/)
+* [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical Validation of Wearable Piezoelectric Blood-Pressure Sensor](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
 * [2023-05-21, 14:51:27](https://news.ycombinator.com/item?id=36021530) - [the US is expanding CO2 pipelines. One poisoned town wants you to know its story](https://text.npr.org/1172679786)
 * [2023-05-21, 14:49:12](https://news.ycombinator.com/item?id=36021495) - [The Drakon Language](https://drakonhub.com/en/drakon)
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The End of the Accounting Search](https://lwn.net/Articles/925782/)
