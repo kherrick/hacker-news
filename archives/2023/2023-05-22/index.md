@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
 * [2023-05-22, 14:52:21](https://news.ycombinator.com/item?id=36032193) - [Examining puppeteer fungus&#x27; targeted takeover of zombie flies](https://phys.org/news/2023-05-puppeteer-fungus-takeover-zombie-flies.html)
+* [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
 * [2023-05-22, 14:30:31](https://news.ycombinator.com/item?id=36031933) - [Roblox: Ten-year-old spent £2,500 of mum&#x27;s money without her knowing](https://www.bbc.com/news/uk-wales-65659896)
 * [2023-05-22, 14:20:04](https://news.ycombinator.com/item?id=36031789) - [Ask HN: I Want to have a small Linux laptop. What are my options?](https://news.ycombinator.com/item?id=36031789)
 * [2023-05-22, 13:20:43](https://news.ycombinator.com/item?id=36031088) - [DfT Recommends Removing WiFi from Trains to Cut Costs](https://www.theguardian.com/business/2023/may/22/rail-passengers-in-england-could-lose-wifi-access-amid-cost-cuts)
