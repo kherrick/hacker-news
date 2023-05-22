@@ -20,7 +20,6 @@
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The Many Faces of Distinct in PostgreSQL (2017)](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
 * [2023-05-22, 09:31:16](https://news.ycombinator.com/item?id=36029115) - [Golden parachutes: Record severance payments at Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
-* [2023-05-22, 09:15:20](https://news.ycombinator.com/item?id=36029032) - [Polar Night](https://brr.fyi/posts/polar-night)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
 * [2023-05-22, 02:11:45](https://news.ycombinator.com/item?id=36026662) - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
@@ -29,6 +28,7 @@
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://arxiv.org/abs/2210.14889)
 * [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core and the Strange Death of Louis Slotin (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
 * [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical Validation of Wearable Piezoelectric Blood-Pressure Sensor](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
+* [2023-05-21, 14:01:24](https://news.ycombinator.com/item?id=36020950) - [AliExpress laptop with Intel 8088 CPU will take you back to the MS-DOS era](https://arstechnica.com/gadgets/2023/05/brand-new-laptop-recreates-1981s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram/)
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep Neural Networks As Computational Graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 
 ## [Archives](archives/index.md)

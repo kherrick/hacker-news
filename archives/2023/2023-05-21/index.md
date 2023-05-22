@@ -36,6 +36,7 @@
 * [2023-05-21, 14:26:44](https://news.ycombinator.com/item?id=36021197) - [The End of the Accounting Search](https://lwn.net/Articles/925782/)
 * [2023-05-21, 14:25:25](https://news.ycombinator.com/item?id=36021172) - [PGP signatures on PyPI: worse than useless](https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless)
 * [2023-05-21, 14:15:35](https://news.ycombinator.com/item?id=36021073) - [The California Reparations Commission Fails State History](https://www.nationalreview.com/2023/05/the-california-reparations-commission-fails-state-history/)
+* [2023-05-21, 14:01:24](https://news.ycombinator.com/item?id=36020950) - [AliExpress laptop with Intel 8088 CPU will take you back to the MS-DOS era](https://arstechnica.com/gadgets/2023/05/brand-new-laptop-recreates-1981s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram/)
 * [2023-05-21, 13:55:32](https://news.ycombinator.com/item?id=36020891) - [San Francisco office values fall 75%](https://www.hoover.org/research/san-francisco-falls-further-abyss-office-values-plunge-75-percent)
 * [2023-05-21, 13:47:56](https://news.ycombinator.com/item?id=36020811) - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
 * [2023-05-21, 13:45:35](https://news.ycombinator.com/item?id=36020792) - [The New Bar Exam Puts DEI over Lawyer Competence](https://www.wsj.com/articles/the-new-bar-exam-puts-dei-over-competence-ncbe-family-law-schools-9c0dd4e8)
