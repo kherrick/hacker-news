@@ -35,8 +35,18 @@
       "https://news.ycombinator.com/item?id=36027523"
     ],
     [
-      "How to Be a Know-It-All",
+      "How to Be a Know-It-All (2017)",
       "https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 04:39:01",
+      "https://news.ycombinator.com/item?id=36027522"
+    ],
+    [
+      "Having a 20GB file that lets you ask an offline computer any question is amazing",
+      "https://old.reddit.com/r/LocalLLaMA/comments/128tp9n/having_a_20_gig_file_that_you_can_ask_an_offline/"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2023-05-21, 08:36:58",
+      "https://news.ycombinator.com/item?id=36018980"
+    ],
+    [
+      "A tutorial on Principal Components Analysis [pdf]",
+      "http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-21, 01:47:11",
       "https://news.ycombinator.com/item?id=36017274"
     ],
@@ -237,16 +257,6 @@
     [
       "The Last Cosmopolitan: Elias Canetti’s 20th Century",
       "https://www.thenation.com/article/culture/elias-canetti-joshua-cohen-cosmopolitan/"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 19:17:35",
-      "https://news.ycombinator.com/item?id=36014739"
-    ],
-    [
-      "Why districts are slow to charge market rates for water (2009)",
-      "https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market-rates-for-water/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Solving Intermittent Cable Modem Issues (plus “loose&#x2F;bad connectors” and others)",
       "https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-20, 06:17:47",
-      "https://news.ycombinator.com/item?id=36009768"
-    ],
-    [
-      "Debugging a FUSE deadlock in the Linux kernel at Netflix",
-      "https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=06e75507c327"
     ]
   ]
 ]
