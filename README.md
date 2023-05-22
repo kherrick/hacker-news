@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
 * [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
@@ -7,7 +8,6 @@
 * [2023-05-22, 17:27:05](https://news.ycombinator.com/item?id=36034211) - [Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron quits, saying Apple didn&#x27;t let it make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 * [2023-05-22, 16:18:51](https://news.ycombinator.com/item?id=36033369) - [Ethical, societal implications of genome-wide behavioral, brain-related traits](https://www.nature.com/articles/s41593-023-01333-4)
-* [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [Breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
 * [2023-05-22, 14:54:32](https://news.ycombinator.com/item?id=36032224) - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
 * [2023-05-22, 14:41:47](https://news.ycombinator.com/item?id=36032081) - [Show HN: Psychic - An open-source integration platform for unstructured data](https://github.com/psychic-api/psychic)
 * [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
