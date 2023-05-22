@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 22:35:47](https://news.ycombinator.com/item?id=36037559) - [Ask HN: Those with success using GPT-4 for programming – what are you doing?](https://news.ycombinator.com/item?id=36037559)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
 * [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 20:32:03](https://news.ycombinator.com/item?id=36036321) - [A temperature rise of 2 degrees Celsius impacts billions](https://www.dw.com/en/how-a-temperature-rise-of-2-degrees-celsius-impacts-billions/a-65695800)
@@ -16,7 +17,6 @@
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 12:59:19](https://news.ycombinator.com/item?id=36030866) - [CRDT Benchmarks](https://jsonjoy.com/blog/list-crdt-benchmarks)
 * [2023-05-22, 11:12:43](https://news.ycombinator.com/item?id=36029915) - [RCE on MikroTik routers with IPv6 RA enabled](https://blog.mikrotik.com/security/cve-2023-32154.html)
-* [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The many faces of DISTINCT in Postgres (2017)](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
 * [2023-05-22, 09:31:16](https://news.ycombinator.com/item?id=36029115) - [Severance payments at Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)

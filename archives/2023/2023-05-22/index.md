@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 22:35:47](https://news.ycombinator.com/item?id=36037559) - [Ask HN: Those with success using GPT-4 for programming – what are you doing?](https://news.ycombinator.com/item?id=36037559)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
 * [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More Than 600k Students and Teachers Use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 20:32:03](https://news.ycombinator.com/item?id=36036321) - [A temperature rise of 2 degrees Celsius impacts billions](https://www.dw.com/en/how-a-temperature-rise-of-2-degrees-celsius-impacts-billions/a-65695800)
