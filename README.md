@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-22, 11:00:06](https://news.ycombinator.com/item?id=36029816) - [A Uber DEI exec placed on leave after hosting event “Don&#x27;t Call Me Karen”](https://www.businessinsider.com/dei-exec-at-uber-placed-on-leave-after-karen-event-2023-5)
+* [2023-05-22, 10:30:52](https://news.ycombinator.com/item?id=36029574) - [Video Shows Greece Abandoning Migrants at Sea](https://www.nytimes.com/2023/05/19/world/europe/greece-migrants-abandoned.html)
 * [2023-05-22, 10:09:53](https://news.ycombinator.com/item?id=36029409) - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
 * [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
@@ -23,7 +24,6 @@
 * [2023-05-21, 23:14:26](https://news.ycombinator.com/item?id=36025507) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 * [2023-05-21, 21:36:14](https://news.ycombinator.com/item?id=36024901) - [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
 * [2023-05-21, 20:40:06](https://news.ycombinator.com/item?id=36024503) - [PrivateGPT](https://github.com/imartinez/privateGPT)
-* [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-05-21, 09:52:27](https://news.ycombinator.com/item?id=36019354) - [Toaster: Pure CSS 3D Editor](https://petertyliu.github.io/toaster/)
 * [2023-05-21, 09:23:29](https://news.ycombinator.com/item?id=36019197) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d)
 * [2023-05-21, 08:36:58](https://news.ycombinator.com/item?id=36018980) - [A tutorial on Principal Components Analysis [pdf]](http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf)

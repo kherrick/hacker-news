@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
 * [2023-05-22, 11:00:06](https://news.ycombinator.com/item?id=36029816) - [A Uber DEI exec placed on leave after hosting event “Don&#x27;t Call Me Karen”](https://www.businessinsider.com/dei-exec-at-uber-placed-on-leave-after-karen-event-2023-5)
+* [2023-05-22, 10:30:52](https://news.ycombinator.com/item?id=36029574) - [Video Shows Greece Abandoning Migrants at Sea](https://www.nytimes.com/2023/05/19/world/europe/greece-migrants-abandoned.html)
 * [2023-05-22, 10:09:53](https://news.ycombinator.com/item?id=36029409) - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
 * [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 * [2023-05-22, 09:48:52](https://news.ycombinator.com/item?id=36029239) - [Solar farms took over California desert: ‘An oasis has become a dead sea’](https://www.theguardian.com/us-news/2023/may/21/solar-farms-energy-power-california-mojave-desert)
