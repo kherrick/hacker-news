@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite?](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
 * [2023-05-22, 17:53:38](https://news.ycombinator.com/item?id=36034487) - [Custom OIDC is generally available on Tailscale](https://tailscale.com/blog/custom-oidc-ga/)
 * [2023-05-22, 17:46:33](https://news.ycombinator.com/item?id=36034405) - [Lawsuit accuses DoorDash of charging iPhone users more for identical orders](https://arstechnica.com/gadgets/2023/05/lawsuit-accuses-doordash-of-charging-iphone-users-more-for-identical-orders/)
+* [2023-05-22, 17:43:46](https://news.ycombinator.com/item?id=36034368) - [New Tesla Model Y with BYD batteries charges much faster](https://electrek.co/2023/05/22/tesla-model-y-byd-batteries-charges-faster/)
 * [2023-05-22, 17:34:56](https://news.ycombinator.com/item?id=36034314) - [Governance of Superintelligence](https://openai.com/blog/governance-of-superintelligence)
 * [2023-05-22, 17:17:01](https://news.ycombinator.com/item?id=36034074) - [Intel Announces Aurora GenAI, ChatGPT Competitor with 1T Parameters](https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/)
 * [2023-05-22, 17:00:39](https://news.ycombinator.com/item?id=36033900) - [Florida’s Education Brain Drain Is Hitting Public Schools Hard](https://www.vanityfair.com/news/2023/05/florida-education-brain-drain-hitting-schools-hard)
