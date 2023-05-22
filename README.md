@@ -17,6 +17,7 @@
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The Many Faces of Distinct in PostgreSQL (2017)](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
 * [2023-05-22, 09:31:16](https://news.ycombinator.com/item?id=36029115) - [Golden parachutes: Record severance payments at Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
+* [2023-05-22, 09:15:20](https://news.ycombinator.com/item?id=36029032) - [Polar Night](https://brr.fyi/posts/polar-night)
 * [2023-05-22, 09:13:10](https://news.ycombinator.com/item?id=36029020) - [Malicious VSCode extensions with more than 45k installs](https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
@@ -29,7 +30,6 @@
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep Neural Networks As Computational Graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 * [2023-05-21, 08:36:58](https://news.ycombinator.com/item?id=36018980) - [A tutorial on Principal Components Analysis (2002) [pdf]](http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf)
 * [2023-05-20, 10:27:55](https://news.ycombinator.com/item?id=36010689) - [Wrench Embedded Interpreter](https://www.northarc.com/wrench/www/)
-* [2023-05-20, 09:22:21](https://news.ycombinator.com/item?id=36010467) - [Solving Intermittent Cable Modem Issues](https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html)
 
 ## [Archives](archives/index.md)
 
