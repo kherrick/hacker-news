@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-05-22, 13:19:45",
-      "https://news.ycombinator.com/item?id=36031075"
-    ],
-    [
-      "Mike Rowe&#x27;s warning to white collar workers &#x27;The robots are coming&#x27; for your job",
-      "https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job"
-    ]
-  ],
-  [
-    [
       "2023-05-22, 13:08:02",
       "https://news.ycombinator.com/item?id=36030959"
     ],
@@ -27,6 +17,16 @@
     [
       "Io Uring",
       "https://nick-black.com/dankwiki/index.php/Io_uring"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 13:05:21",
+      "https://news.ycombinator.com/item?id=36030937"
+    ],
+    [
+      "Lem v2.0.0 – Common Lisp IDE with high expansibility",
+      "https://github.com/lem-project/lem/releases/tag/v2.0.0"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-05-22, 04:35:55",
-      "https://news.ycombinator.com/item?id=36027510"
-    ],
-    [
-      "Ketamine no better than placebo at alleviating depression, unusual trial finds",
-      "https://www.science.org/content/article/ketamine-no-better-placebo-alleviating-depression-unusual-trial-finds"
-    ]
-  ],
-  [
-    [
       "2023-05-22, 04:25:32",
       "https://news.ycombinator.com/item?id=36027442"
     ],
@@ -267,6 +257,16 @@
     [
       "Debugging a FUSE deadlock in the Linux kernel",
       "https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 08:36:58",
+      "https://news.ycombinator.com/item?id=36018980"
+    ],
+    [
+      "A tutorial on Principal Components Analysis [pdf]",
+      "http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf"
     ]
   ],
   [
