@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-05-21, 21:13:31",
-      "https://news.ycombinator.com/item?id=36024754"
-    ],
-    [
-      "An Example of a Sad Google Account Recovery Failure and Its Effects",
-      "https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 20:40:06",
       "https://news.ycombinator.com/item?id=36024503"
     ],
@@ -217,6 +207,16 @@
     [
       "Toaster: Pure CSS 3D Editor",
       "https://petertyliu.github.io/toaster/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 09:23:29",
+      "https://news.ycombinator.com/item?id=36019197"
+    ],
+    [
+      "Debugging a FUSE deadlock in the Linux kernel",
+      "https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d"
     ]
   ],
   [
