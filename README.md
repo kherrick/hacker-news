@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 11:00:06](https://news.ycombinator.com/item?id=36029816) - [A Uber DEI exec placed on leave after hosting event “Don&#x27;t Call Me Karen”](https://www.businessinsider.com/dei-exec-at-uber-placed-on-leave-after-karen-event-2023-5)
 * [2023-05-22, 10:09:53](https://news.ycombinator.com/item?id=36029409) - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
 * [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
-* [2023-05-22, 09:31:16](https://news.ycombinator.com/item?id=36029115) - [Golden parachutes: Record severance payments at Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [A highly intuitive visual guide on how memory allocation works, step by step](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 09:18:25](https://news.ycombinator.com/item?id=36029050) - [Noyb win: € 1.2B fine against Meta over EU-US data transfers](https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation)
 * [2023-05-22, 09:13:10](https://news.ycombinator.com/item?id=36029020) - [VSCode Security: Malicious Extensions Detected- More Than 45,000 Downloads](https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/)
