@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-22, 13:09:12](https://news.ycombinator.com/item?id=36030969) - [Growing Up Alyssa](https://rosenzweig.io/blog/growing-up-alyssa.html)
+* [2023-05-22, 13:20:43](https://news.ycombinator.com/item?id=36031088) - [DfT Recommends Removing WiFi from Trains to Cut Costs](https://www.theguardian.com/business/2023/may/22/rail-passengers-in-england-could-lose-wifi-access-amid-cost-cuts)
 * [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 13:07:49](https://news.ycombinator.com/item?id=36030955) - [The Culture: The Drawings by Iain M. Banks](https://www.orbit-books.co.uk/landing-page/orbit/the-culture-the-drawings/)
@@ -10,7 +10,6 @@
 * [2023-05-22, 12:03:01](https://news.ycombinator.com/item?id=36030282) - [Show HN: I built a web app for learning Vim from the browser as a 17-year-old](https://www.vimninja.com/)
 * [2023-05-22, 11:50:33](https://news.ycombinator.com/item?id=36030156) - [PSA: Cancelling HP Instant Ink subscription prevents cartridges from being used](https://news.ycombinator.com/item?id=36030156)
 * [2023-05-22, 11:50:05](https://news.ycombinator.com/item?id=36030153) - [Show HN: Ki Programming Language](https://github.com/ki-lang/ki)
-* [2023-05-22, 10:09:53](https://news.ycombinator.com/item?id=36029409) - [Ask HN: Engineering managers, how do you onboard new hires?](https://news.ycombinator.com/item?id=36029409)
 * [2023-05-22, 10:05:14](https://news.ycombinator.com/item?id=36029368) - [Pytrees](https://jax.readthedocs.io/en/latest/pytrees.html)
 * [2023-05-22, 09:46:19](https://news.ycombinator.com/item?id=36029221) - [The Many Faces of Distinct in PostgreSQL](https://hakibenita.com/the-many-faces-of-distinct-in-postgre-sql)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [A highly intuitive visual guide on how memory allocation works, step by step](https://samwho.dev/memory-allocation/)
@@ -18,6 +17,7 @@
 * [2023-05-22, 09:13:10](https://news.ycombinator.com/item?id=36029020) - [VSCode Security: Malicious Extensions Detected- More Than 45,000 Downloads](https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/)
 * [2023-05-22, 08:42:31](https://news.ycombinator.com/item?id=36028847) - [Ask HN: How to move from dev role to management&#x2F;team lead role?](https://news.ycombinator.com/item?id=36028847)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
+* [2023-05-22, 06:16:03](https://news.ycombinator.com/item?id=36028041) - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
 * [2023-05-22, 04:39:02](https://news.ycombinator.com/item?id=36027523) - [How to Be a Know-It-All (2017)](https://www.newyorker.com/magazine/2017/10/16/how-to-be-a-know-it-all)
 * [2023-05-22, 04:35:55](https://news.ycombinator.com/item?id=36027510) - [Ketamine no better than placebo at alleviating depression, unusual trial finds](https://www.science.org/content/article/ketamine-no-better-placebo-alleviating-depression-unusual-trial-finds)
