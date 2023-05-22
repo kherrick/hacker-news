@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 * [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
-* [2023-05-22, 15:27:35](https://news.ycombinator.com/item?id=36032687) - [That ChatGPT iPhone app has serious privacy issues you need to know about](https://www.techradar.com/news/that-chatgpt-iphone-app-has-serious-privacy-issues-you-need-to-know-about)
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
 * [2023-05-22, 14:54:32](https://news.ycombinator.com/item?id=36032224) - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
 * [2023-05-22, 14:38:45](https://news.ycombinator.com/item?id=36032039) - [Stippling and Blue Noise (2011)](https://www.joesfer.com/?p=108)
