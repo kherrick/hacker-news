@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
 * [2023-05-22, 15:27:35](https://news.ycombinator.com/item?id=36032687) - [That ChatGPT iPhone app has serious privacy issues you need to know about](https://www.techradar.com/news/that-chatgpt-iphone-app-has-serious-privacy-issues-you-need-to-know-about)
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
 * [2023-05-22, 15:01:58](https://news.ycombinator.com/item?id=36032335) - [Bakhmut Is Gone: An Aerial Look at the War’s Destruction](https://www.nytimes.com/2023/05/22/world/europe/bakhmut-ukraine.html)

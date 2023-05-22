@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
 * [2023-05-22, 15:27:35](https://news.ycombinator.com/item?id=36032687) - [That ChatGPT iPhone app has serious privacy issues you need to know about](https://www.techradar.com/news/that-chatgpt-iphone-app-has-serious-privacy-issues-you-need-to-know-about)
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
 * [2023-05-22, 14:54:32](https://news.ycombinator.com/item?id=36032224) - [Ask HN: Is anyone hosting their own Jitsi server?](https://news.ycombinator.com/item?id=36032224)
@@ -17,7 +18,6 @@
 * [2023-05-22, 09:31:16](https://news.ycombinator.com/item?id=36029115) - [Golden parachutes: Record severance payments at Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 09:13:10](https://news.ycombinator.com/item?id=36029020) - [Malicious VSCode extensions with more than 45k installs](https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/)
-* [2023-05-22, 08:42:31](https://news.ycombinator.com/item?id=36028847) - [Ask HN: How to move from dev role to management&#x2F;team lead role?](https://news.ycombinator.com/item?id=36028847)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
 * [2023-05-22, 04:25:32](https://news.ycombinator.com/item?id=36027442) - [The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
