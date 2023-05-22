@@ -19,6 +19,7 @@
 * [2023-05-21, 19:57:39](https://news.ycombinator.com/item?id=36024205) - [Hoarding](https://www.michaelsamsel.com/Content/Difficult_Styles/hoarding.html)
 * [2023-05-21, 18:56:47](https://news.ycombinator.com/item?id=36023745) - [No Screens Cafe](https://cmart.blog/no-screens-cafe/)
 * [2023-05-21, 18:44:02](https://news.ycombinator.com/item?id=36023656) - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
+* [2023-05-21, 18:31:33](https://news.ycombinator.com/item?id=36023558) - [Success to the Successful](https://riskmusings.substack.com/p/success-to-the-successful)
 * [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 * [2023-05-21, 17:58:33](https://news.ycombinator.com/item?id=36023269) - [Ask HN: Have you used a forward sale to avoid stock transfer restrictions?](https://news.ycombinator.com/item?id=36023269)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
