@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
 * [2023-05-21, 23:28:41](https://news.ycombinator.com/item?id=36025611) - [Beej&#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
+* [2023-05-21, 23:14:26](https://news.ycombinator.com/item?id=36025507) - [Modding Age of Empires II with a Sprite-Diffuser](https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/)
 * [2023-05-21, 22:38:23](https://news.ycombinator.com/item?id=36025288) - [China is calling in loans to dozens of countries from Pakistan to Kenya](https://fortune.com/2023/05/18/china-belt-road-loans-pakistan-sri-lanka-africa-collapse-economic-instability/)
 * [2023-05-21, 22:36:58](https://news.ycombinator.com/item?id=36025278) - [Ask HN: What&#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
 * [2023-05-21, 22:26:05](https://news.ycombinator.com/item?id=36025209) - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
