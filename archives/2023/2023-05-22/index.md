@@ -6,6 +6,7 @@
 
 * [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 19:26:52](https://news.ycombinator.com/item?id=36035587) - [Disney and the Great Streaming Purge](https://puck.news/disney-and-the-great-streaming-purge/)
+* [2023-05-22, 19:15:30](https://news.ycombinator.com/item?id=36035461) - [Once a fringe theory, “greedflation” gets its due](https://www.axios.com/2023/05/18/once-a-fringe-theory-greedflation-gets-its-due)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:23:25](https://news.ycombinator.com/item?id=36034855) - [What It Was Like to Live Inside Habitat 67](https://www.architecturaldigest.com/story/what-it-was-like-to-live-inside-habitat-67)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite?](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
