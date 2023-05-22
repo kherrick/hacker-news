@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 13:19:45](https://news.ycombinator.com/item?id=36031075) - [Mike Rowe&#x27;s warning to white collar workers &#x27;The robots are coming&#x27; for your job](https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job)
 * [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 12:47:03](https://news.ycombinator.com/item?id=36030731) - [The Most Underrated Sci-Fi Movies of the 1970s](https://www.denofgeek.com/movies/most-underrated-sci-fi-movies-of-the-1970s/)
@@ -26,7 +27,6 @@
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep Learning as Computational Graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 * [2023-05-21, 09:52:27](https://news.ycombinator.com/item?id=36019354) - [Toaster: Pure CSS 3D Editor](https://petertyliu.github.io/toaster/)
 * [2023-05-21, 09:23:29](https://news.ycombinator.com/item?id=36019197) - [Debugging a FUSE deadlock in the Linux kernel](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d)
-* [2023-05-21, 08:36:58](https://news.ycombinator.com/item?id=36018980) - [A tutorial on Principal Components Analysis [pdf]](http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf)
 * [2023-05-21, 00:12:40](https://news.ycombinator.com/item?id=36016774) - [ONR Digital Computer Newsletter (1949-64)](http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/)
 * [2023-05-20, 10:27:55](https://news.ycombinator.com/item?id=36010689) - [Wrench Embedded Interpreter](https://www.northarc.com/wrench/www/)
 * [2023-05-20, 09:22:21](https://news.ycombinator.com/item?id=36010467) - [Solving Intermittent Cable Modem Issues](https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
 * [2023-05-22, 13:20:43](https://news.ycombinator.com/item?id=36031088) - [DfT Recommends Removing WiFi from Trains to Cut Costs](https://www.theguardian.com/business/2023/may/22/rail-passengers-in-england-could-lose-wifi-access-amid-cost-cuts)
+* [2023-05-22, 13:19:45](https://news.ycombinator.com/item?id=36031075) - [Mike Rowe&#x27;s warning to white collar workers &#x27;The robots are coming&#x27; for your job](https://www.foxbusiness.com/economy/mike-rowes-warning-white-collar-workers-robots-coming-white-collar-job)
 * [2023-05-22, 13:09:12](https://news.ycombinator.com/item?id=36030969) - [Growing Up Alyssa](https://rosenzweig.io/blog/growing-up-alyssa.html)
 * [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
