@@ -86,3 +86,4 @@
 * [2023-05-21, 01:47:11](https://news.ycombinator.com/item?id=36017274) - [The Problem with Consensus](http://scienceunicorn.blogspot.com/2015/02/the-problem-with-consensus.html)
 * [2023-05-21, 01:16:56](https://news.ycombinator.com/item?id=36017115) - [Nonprofits are sapping the progressive project](https://www.noahpinion.blog/p/nonprofits-are-sapping-the-progressive)
 * [2023-05-21, 00:49:29](https://news.ycombinator.com/item?id=36016982) - [How Do Semiconductors Work? Introduction to SiliWiz](https://tinytapeout.com/siliwiz/introduction/)
+* [2023-05-21, 00:12:40](https://news.ycombinator.com/item?id=36016774) - [ONR Digital Computer Newsletter (1949-64)](http://www.bitsavers.org/pdf/onr/Digital_Computer_Newsletter/)
