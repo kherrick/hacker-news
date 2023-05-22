@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-22, 17:00:39](https://news.ycombinator.com/item?id=36033900) - [Florida’s Education Brain Drain Is Hitting Public Schools Hard](https://www.vanityfair.com/news/2023/05/florida-education-brain-drain-hitting-schools-hard)
+* [2023-05-22, 16:45:04](https://news.ycombinator.com/item?id=36033708) - [You&#x27;ll own nothing and be happy](https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_be_happy)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 * [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
 * [2023-05-22, 15:17:34](https://news.ycombinator.com/item?id=36032564) - [Why Salvador Dalí is the most faked artist in the world](https://thehustle.co/why-salvador-dali-is-the-most-faked-artist-in-the-world/)
@@ -23,13 +25,11 @@
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)
 * [2023-05-22, 04:25:32](https://news.ycombinator.com/item?id=36027442) - [The time I accidentally spent a year combatting fraud](https://www.brightball.com/articles/the-time-i-accidentally-ended-up-combating-fraud-for-a-year)
 * [2023-05-22, 02:11:45](https://news.ycombinator.com/item?id=36026662) - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
-* [2023-05-21, 23:28:41](https://news.ycombinator.com/item?id=36025611) - [Beej&#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
+* [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://arxiv.org/abs/2210.14889)
 * [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core and the Strange Death of Louis Slotin (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
 * [2023-05-21, 15:28:41](https://news.ycombinator.com/item?id=36021933) - [Clinical Validation of Wearable Piezoelectric Blood-Pressure Sensor](https://onlinelibrary.wiley.com/doi/10.1002/adma.202301627)
 * [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep Neural Networks As Computational Graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
-* [2023-05-21, 08:36:58](https://news.ycombinator.com/item?id=36018980) - [A tutorial on Principal Components Analysis (2002) [pdf]](http://www.cs.otago.ac.nz/research/publications/OUCS-2002-12.pdf)
-* [2023-05-20, 10:27:55](https://news.ycombinator.com/item?id=36010689) - [Wrench Embedded Interpreter](https://www.northarc.com/wrench/www/)
 
 ## [Archives](archives/index.md)
 

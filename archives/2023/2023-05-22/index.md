@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 17:00:39](https://news.ycombinator.com/item?id=36033900) - [Florida’s Education Brain Drain Is Hitting Public Schools Hard](https://www.vanityfair.com/news/2023/05/florida-education-brain-drain-hitting-schools-hard)
+* [2023-05-22, 16:45:04](https://news.ycombinator.com/item?id=36033708) - [You&#x27;ll own nothing and be happy](https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_be_happy)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 * [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
 * [2023-05-22, 15:27:35](https://news.ycombinator.com/item?id=36032687) - [That ChatGPT iPhone app has serious privacy issues you need to know about](https://www.techradar.com/news/that-chatgpt-iphone-app-has-serious-privacy-issues-you-need-to-know-about)
