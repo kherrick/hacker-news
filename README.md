@@ -23,13 +23,13 @@
 * [2023-05-21, 11:54:34](https://news.ycombinator.com/item?id=36020001) - [Show HN: SpaceBadgers – Free and Libre SVG Badges](https://badgers.space)
 * [2023-05-21, 08:41:11](https://news.ycombinator.com/item?id=36019005) - [Typical: Data interchange with algebraic data types](https://github.com/stepchowfun/typical)
 * [2023-05-21, 05:33:53](https://news.ycombinator.com/item?id=36018300) - [Testing a Formally Verified Compiler](https://hal.science/hal-04096390/document)
+* [2023-05-21, 05:28:43](https://news.ycombinator.com/item?id=36018272) - [America’s skepticism toward the first automobiles (1930)](https://www.saturdayeveningpost.com/2017/01/get-horse-americas-skepticism-toward-first-automobiles/)
 * [2023-05-20, 19:17:35](https://news.ycombinator.com/item?id=36014739) - [Why districts are slow to charge market rates for water (2009)](https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market-rates-for-water/)
 * [2023-05-20, 11:03:49](https://news.ycombinator.com/item?id=36010863) - [Cooking, Monasteries, Arithmetic: Lorraine Daston on the History of Rules](https://www.publicbooks.org/cooking-monasteries-arithmetic-lorraine-daston-on-the-history-of-rules/)
 * [2023-05-20, 10:00:36](https://news.ycombinator.com/item?id=36010600) - [Building a Signal Analyzer with Modern Web Tech](https://cprimozic.net/blog/building-a-signal-analyzer-with-modern-web-tech/)
 * [2023-05-20, 09:22:21](https://news.ycombinator.com/item?id=36010467) - [Solving Intermittent Cable Modem Issues (plus “loose&#x2F;bad connectors” and others)](https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html)
 * [2023-05-20, 07:10:47](https://news.ycombinator.com/item?id=36009988) - [Poverty Is the 4th Leading Cause of Death in the US, Research Shows](https://www.commondreams.org/news/poverty-4th-leading-cause-death)
 * [2023-05-20, 06:17:47](https://news.ycombinator.com/item?id=36009768) - [Debugging a FUSE deadlock in the Linux kernel at Netflix](https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=06e75507c327)
-* [2023-05-20, 04:53:20](https://news.ycombinator.com/item?id=36009472) - [OpenEPaperLink: Alternative Firmware for ZBS243-Based eInk Shelf Labels](https://github.com/jjwbruijn/OpenEPaperLink)
 
 ## [Archives](archives/index.md)
 
