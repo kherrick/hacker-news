@@ -27,6 +27,7 @@
 * [2023-05-20, 19:26:59](https://news.ycombinator.com/item?id=36014796) - [“Don Knuth Plays with ChatGPT” but with ChatGPT-4](https://gist.github.com/Jessime/63f93215faed6f7109c6d62b7fef7fbc)
 * [2023-05-20, 19:26:27](https://news.ycombinator.com/item?id=36014790) - [The Last Cosmopolitan: Elias Canetti’s 20th Century](https://www.thenation.com/article/culture/elias-canetti-joshua-cohen-cosmopolitan/)
 * [2023-05-20, 19:23:54](https://news.ycombinator.com/item?id=36014778) - [Gfycat has been down for two days due to an expired SSL certificate](https://old.reddit.com/r/gfycat/comments/13kj3u7/has_gfycat_suddenly_gone_down_for_anyone_else/)
+* [2023-05-20, 19:17:35](https://news.ycombinator.com/item?id=36014739) - [Why districts are slow to charge market rates for water](https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market-rates-for-water/)
 * [2023-05-20, 17:25:09](https://news.ycombinator.com/item?id=36013783) - [Neeva (search engine with a privacy and AI focus) is shutting down](https://neeva.com/blog/may-announcement)
 * [2023-05-20, 16:59:31](https://news.ycombinator.com/item?id=36013586) - [Show HN: My affordable solution to costly workflow automation: Embed Workflow](https://embedworkflow.com/)
 * [2023-05-20, 16:57:58](https://news.ycombinator.com/item?id=36013571) - [Using ChatGPT for Home Automation](https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html)

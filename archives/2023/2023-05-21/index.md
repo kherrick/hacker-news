@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-21](index.md)
 
+* [2023-05-21, 23:28:41](https://news.ycombinator.com/item?id=36025611) - [Beej&#x27;s Guide to Network Programming](https://beej.us/guide/bgnet/)
 * [2023-05-21, 22:38:23](https://news.ycombinator.com/item?id=36025288) - [China is calling in loans to dozens of countries from Pakistan to Kenya](https://fortune.com/2023/05/18/china-belt-road-loans-pakistan-sri-lanka-africa-collapse-economic-instability/)
 * [2023-05-21, 22:36:58](https://news.ycombinator.com/item?id=36025278) - [Ask HN: What&#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
 * [2023-05-21, 22:26:05](https://news.ycombinator.com/item?id=36025209) - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
@@ -11,8 +12,10 @@
 * [2023-05-21, 21:36:14](https://news.ycombinator.com/item?id=36024901) - [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
 * [2023-05-21, 21:33:05](https://news.ycombinator.com/item?id=36024887) - [Noise Is All Around Us–and It’s Affecting You More Than You Think](https://thewalrus.ca/noise-ethics/)
 * [2023-05-21, 21:13:31](https://news.ycombinator.com/item?id=36024754) - [An Example of a Sad Google Account Recovery Failure and Its Effects](https://lauren.vortex.com/2023/05/17/google-account-recovery-failure-sad)
+* [2023-05-21, 20:40:06](https://news.ycombinator.com/item?id=36024503) - [PrivateGPT](https://github.com/imartinez/privateGPT)
 * [2023-05-21, 20:32:36](https://news.ycombinator.com/item?id=36024445) - [The $40M bet that made South Korea a food and cultural power](https://blog.hubspot.com/the-hustle/the-40m-bet-that-made-south-korea-a-food-and-cultural-power)
 * [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How Much Memory Do You Need to Run 1M Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
+* [2023-05-21, 19:57:39](https://news.ycombinator.com/item?id=36024205) - [Hoarding](https://www.michaelsamsel.com/Content/Difficult_Styles/hoarding.html)
 * [2023-05-21, 18:56:47](https://news.ycombinator.com/item?id=36023745) - [No Screens Cafe](https://cmart.blog/no-screens-cafe/)
 * [2023-05-21, 18:44:02](https://news.ycombinator.com/item?id=36023656) - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
 * [2023-05-21, 17:58:33](https://news.ycombinator.com/item?id=36023269) - [Ask HN: Have you used a forward sale to avoid stock transfer restrictions?](https://news.ycombinator.com/item?id=36023269)
