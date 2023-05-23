@@ -6,6 +6,7 @@
 
 * [2023-05-23, 16:04:31](https://news.ycombinator.com/item?id=36046293) - [I Block Ads](https://coryd.dev/posts/2023/i-block-ads/)
 * [2023-05-23, 15:59:13](https://news.ycombinator.com/item?id=36046222) - [Podman Desktop 1.0](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
+* [2023-05-23, 15:41:14](https://news.ycombinator.com/item?id=36045938) - [ROS 2 Iron Irwini Release](https://www.openrobotics.org/blog/2023/5/23/ros-2-iron-irwini-released)
 * [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
 * [2023-05-23, 15:25:19](https://news.ycombinator.com/item?id=36045671) - [Congress wants AM radio in all new cars–trade groups say that’s a mistake](https://arstechnica.com/cars/2023/05/ev-advocates-join-tech-groups-and-automakers-to-oppose-am-radio-mandate/)
 * [2023-05-23, 14:42:43](https://news.ycombinator.com/item?id=36045027) - [Google Bans ‘Downloader’ App: TV Outfits Claim Browser Violates Injunction](https://torrentfreak.com/google-bans-downloader-app-tv-outfits-claim-browser-violates-injunction-230523/)
