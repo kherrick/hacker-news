@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-23, 14:10:13](https://news.ycombinator.com/item?id=36044561) - [Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)
+* [2023-05-23, 14:09:20](https://news.ycombinator.com/item?id=36044543) - [Removing PGP from PyPI – The Python Package Index](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2023-05-23, 13:56:51](https://news.ycombinator.com/item?id=36044362) - [Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
@@ -24,12 +25,11 @@
 * [2023-05-22, 06:51:58](https://news.ycombinator.com/item?id=36028244) - [Source code for Glider Pro (1994)](https://github.com/softdorothy/GliderPRO)
 * [2023-05-21, 22:22:14](https://news.ycombinator.com/item?id=36025180) - [The Fight to Protect the Joshua Tree](https://www.wsj.com/articles/the-fight-to-protect-the-joshua-tree-609bc7e9)
 * [2023-05-21, 18:55:51](https://news.ycombinator.com/item?id=36023740) - [ZX-Calculus Simulator in the Browser](https://qirella.geosearchef.de)
-* [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering (2021)](https://surma.dev/things/ditherpunk/)
 * [2023-05-21, 18:31:28](https://news.ycombinator.com/item?id=36023557) - [Can alligators climb trees? (2021)](https://wildlifeinformer.com/can-alligators-climb-trees/)
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 17:58:17](https://news.ycombinator.com/item?id=36023267) - [A semester of Haskell-language-server: an internship report](https://www.tweag.io/blog/2023-01-31-hls-internship-report/)
 * [2023-05-21, 16:54:20](https://news.ycombinator.com/item?id=36022731) - [Ithkuil, the Most Complicated Language](https://en.wikipedia.org/wiki/Ithkuil)
-* [2023-05-21, 13:23:54](https://news.ycombinator.com/item?id=36020612) - [Benchmarking Intel, AMD and Graviton Using Erasure Coding Workloads](https://blog.min.io/erasure-coding-cpu-utilization/)
+* [2023-05-21, 13:30:58](https://news.ycombinator.com/item?id=36020670) - [Quaternions, Interpolation and Animation [pdf]](https://web.mit.edu/2.998/www/QuaternionReport1.pdf)
 
 ## [Archives](archives/index.md)
 

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
 * [2023-05-23, 14:10:13](https://news.ycombinator.com/item?id=36044561) - [Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)
+* [2023-05-23, 14:09:20](https://news.ycombinator.com/item?id=36044543) - [Removing PGP from PyPI – The Python Package Index](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2023-05-23, 13:56:51](https://news.ycombinator.com/item?id=36044362) - [Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)

@@ -57,6 +57,7 @@
 * [2023-05-21, 13:47:56](https://news.ycombinator.com/item?id=36020811) - [Paris’s Centre Pompidou to Close for Five Years Starting in 2025](https://www.artnews.com/art-news/news/centre-pompidou-closing-five-years-2025-1234667508/)
 * [2023-05-21, 13:45:35](https://news.ycombinator.com/item?id=36020792) - [The New Bar Exam Puts DEI over Lawyer Competence](https://www.wsj.com/articles/the-new-bar-exam-puts-dei-over-competence-ncbe-family-law-schools-9c0dd4e8)
 * [2023-05-21, 13:36:44](https://news.ycombinator.com/item?id=36020717) - [Show HN: Trogon – An automatic TUI for command line apps](https://github.com/Textualize/trogon)
+* [2023-05-21, 13:30:58](https://news.ycombinator.com/item?id=36020670) - [Quaternions, Interpolation and Animation [pdf]](https://web.mit.edu/2.998/www/QuaternionReport1.pdf)
 * [2023-05-21, 13:23:54](https://news.ycombinator.com/item?id=36020612) - [Benchmarking Intel, AMD and Graviton Using Erasure Coding Workloads](https://blog.min.io/erasure-coding-cpu-utilization/)
 * [2023-05-21, 13:22:10](https://news.ycombinator.com/item?id=36020597) - [Ask HN: What are your favorite sci-fi books?](https://news.ycombinator.com/item?id=36020597)
 * [2023-05-21, 13:12:01](https://news.ycombinator.com/item?id=36020534) - [X-59 supersonic aircraft](https://www.lockheedmartin.com/en-us/products/quesst.html)
