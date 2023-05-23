@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 22:50:13](https://news.ycombinator.com/item?id=36051831) - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
+* [2023-05-23, 22:34:52](https://news.ycombinator.com/item?id=36051710) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
 * [2023-05-23, 22:26:36](https://news.ycombinator.com/item?id=36051635) - [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
 * [2023-05-23, 22:22:21](https://news.ycombinator.com/item?id=36051588) - [Don&#x27;t Use VPN Services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 * [2023-05-23, 21:40:06](https://news.ycombinator.com/item?id=36051185) - [Philip K. Dick&#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
