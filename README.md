@@ -18,8 +18,8 @@
 * [2023-05-23, 16:31:08](https://news.ycombinator.com/item?id=36046662) - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 * [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
 * [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple announces multibillion deal with Broadcom to make components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
+* [2023-05-23, 14:16:38](https://news.ycombinator.com/item?id=36044663) - [Show HN: File-by-file AI-generated comments for your codebase](https://swiftstart.vercel.app)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
-* [2023-05-23, 12:28:39](https://news.ycombinator.com/item?id=36043322) - [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
 * [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [The AARD Code and DR DOS (2021)](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
@@ -27,9 +27,9 @@
 * [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What Number Comes Next? The On-Line Encyclopedia of Integer Sequences Knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
+* [2023-05-22, 16:32:59](https://news.ycombinator.com/item?id=36033566) - [Easier data debugging with Zed’s first-class errors](https://www.brimdata.io/blog/debugging-data-first-class-errors/)
 * [2023-05-22, 13:10:15](https://news.ycombinator.com/item?id=36030979) - [Humanity&#x27;s earliest recorded kiss occurred in Mesopotamia 4,500 years ago](https://phys.org/news/2023-05-humanity-earliest-mesopotamia-years.html)
 * [2023-05-22, 09:43:46](https://news.ycombinator.com/item?id=36029202) - [Safety I vs. Safety II: An overview (2018)](https://safety4sea.com/cm-safety-i-vs-safety-ii-an-overview/)
-* [2023-05-22, 08:22:16](https://news.ycombinator.com/item?id=36028740) - [When can you know the Type I error rate for your analysis](https://statmodeling.stat.columbia.edu/2023/05/20/if-you-do-not-know-what-you-would-have-done-under-all-possible-scenarios-then-you-cannot-know-the-type-i-error-rate-for-your-analysis/)
 
 ## [Archives](archives/index.md)
 

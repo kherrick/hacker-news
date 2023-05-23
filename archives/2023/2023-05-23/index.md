@@ -39,6 +39,7 @@
 * [2023-05-23, 14:28:10](https://news.ycombinator.com/item?id=36044829) - [EU rules allowing “exceptional” use of spyware against journalists](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
 * [2023-05-23, 14:21:33](https://news.ycombinator.com/item?id=36044744) - [Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street](https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling)
 * [2023-05-23, 14:18:10](https://news.ycombinator.com/item?id=36044691) - [Show HN: GS-Calc – a spreadsheet with 12M rows](https://citadel5.com/gs-calc.htm)
+* [2023-05-23, 14:16:38](https://news.ycombinator.com/item?id=36044663) - [Show HN: File-by-file AI-generated comments for your codebase](https://swiftstart.vercel.app)
 * [2023-05-23, 14:16:19](https://news.ycombinator.com/item?id=36044657) - [Show HN: Open-Source, AI Powered Notebooks for SRE Teams](https://unskript.com/developers)
 * [2023-05-23, 14:12:34](https://news.ycombinator.com/item?id=36044591) - [A Guide to Continuous Data Quality Monitoring for AWS Athena](https://www.lariatdata.com/blog/continuous-data-quality-athena)
 * [2023-05-23, 14:10:13](https://news.ycombinator.com/item?id=36044561) - [Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)

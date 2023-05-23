@@ -30,6 +30,7 @@
 * [2023-05-22, 17:00:39](https://news.ycombinator.com/item?id=36033900) - [Florida’s Education Brain Drain Is Hitting Public Schools Hard](https://www.vanityfair.com/news/2023/05/florida-education-brain-drain-hitting-schools-hard)
 * [2023-05-22, 16:49:14](https://news.ycombinator.com/item?id=36033763) - [When will global warming hit the landmark 1.5 ºC limit?](https://www.nature.com/articles/d41586-023-01702-w)
 * [2023-05-22, 16:45:04](https://news.ycombinator.com/item?id=36033708) - [You&#x27;ll own nothing and be happy](https://en.wikipedia.org/wiki/You%27ll_own_nothing_and_be_happy)
+* [2023-05-22, 16:32:59](https://news.ycombinator.com/item?id=36033566) - [Easier data debugging with Zed’s first-class errors](https://www.brimdata.io/blog/debugging-data-first-class-errors/)
 * [2023-05-22, 16:23:16](https://news.ycombinator.com/item?id=36033433) - [iPhone maker Wistron calls quit, saying Apple didn’t allow it to make a profit](https://9to5mac.com/2023/05/22/iphone-maker-wistron-quits/)
 * [2023-05-22, 16:18:51](https://news.ycombinator.com/item?id=36033369) - [Ethical, societal implications of genome-wide behavioral, brain-related traits](https://www.nature.com/articles/s41593-023-01333-4)
 * [2023-05-22, 16:02:08](https://news.ycombinator.com/item?id=36033151) - [US states agree breakthrough deal to prevent Colorado River from drying up](https://www.theguardian.com/us-news/2023/may/22/colorado-river-states-california-arizona-nevada)
