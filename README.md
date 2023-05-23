@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-23, 18:14:11](https://news.ycombinator.com/item?id=36048464) - [30% of All Rural Hospitals in the US Are at Risk of Closing [pdf]](https://ruralhospitals.chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
+* [2023-05-23, 18:01:46](https://news.ycombinator.com/item?id=36048261) - [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
 * [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
 * [2023-05-23, 17:19:06](https://news.ycombinator.com/item?id=36047524) - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)
 * [2023-05-23, 17:09:14](https://news.ycombinator.com/item?id=36047359) - [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
@@ -18,7 +19,6 @@
 * [2023-05-23, 14:10:13](https://news.ycombinator.com/item?id=36044561) - [Social media can be a ‘profound risk’ to youth, surgeon general warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)
 * [2023-05-23, 14:09:20](https://news.ycombinator.com/item?id=36044543) - [Removing PGP from PyPI](https://blog.pypi.org/posts/2023-05-23-removing-pgp/)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
-* [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental health crisis in science](https://www.nature.com/articles/d41586-023-01708-4)
 * [2023-05-23, 12:29:03](https://news.ycombinator.com/item?id=36043327) - [Following UK antitrust order, Meta sells Giphy to Shutterstock for $53M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
 * [2023-05-23, 12:28:39](https://news.ycombinator.com/item?id=36043322) - [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
 * [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)
