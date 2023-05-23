@@ -8,6 +8,7 @@
 * [2023-05-23, 21:24:11](https://news.ycombinator.com/item?id=36051030) - [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
 * [2023-05-23, 21:08:12](https://news.ycombinator.com/item?id=36050884) - [Who Pays the Price When Cochlear Implants Go Obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
 * [2023-05-23, 21:02:18](https://news.ycombinator.com/item?id=36050830) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
+* [2023-05-23, 20:58:10](https://news.ycombinator.com/item?id=36050796) - [Not Even a Recession: The Great German Gas Debate in Retrospect [pdf]](https://www.econtribute.de/RePEc/ajk/ajkpbs/ECONtribute_PB_048_2023_EN.pdf)
 * [2023-05-23, 19:22:06](https://news.ycombinator.com/item?id=36049467) - [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
 * [2023-05-23, 19:19:13](https://news.ycombinator.com/item?id=36049404) - [Heat Wave and Blackout Would Send Half of Phoenix to E.R., Study Says](https://www.nytimes.com/2023/05/23/climate/blackout-heat-wave-danger.html)
 * [2023-05-23, 19:18:10](https://news.ycombinator.com/item?id=36049386) - [Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
