@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
+* [2023-05-23, 12:38:45](https://news.ycombinator.com/item?id=36043398) - [Crypto giant Binance commingled customer funds and company revenue](https://www.reuters.com/investigates/special-report/crypto-binance-money/)
 * [2023-05-23, 12:36:11](https://news.ycombinator.com/item?id=36043377) - [Imperial College working with Royal Navy on system to replace GPS on ships](https://www.telegraph.co.uk/news/2023/05/21/ships-gps-alternative-warfare-tracking-impossible/)
 * [2023-05-23, 12:29:03](https://news.ycombinator.com/item?id=36043327) - [Meta sells Giphy to Shutterstock for $53M after buying it for $400M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
 * [2023-05-23, 12:28:39](https://news.ycombinator.com/item?id=36043322) - [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)

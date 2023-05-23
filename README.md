@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
+* [2023-05-23, 12:38:45](https://news.ycombinator.com/item?id=36043398) - [Crypto giant Binance commingled customer funds and company revenue](https://www.reuters.com/investigates/special-report/crypto-binance-money/)
 * [2023-05-23, 12:36:11](https://news.ycombinator.com/item?id=36043377) - [Imperial College working with Royal Navy on system to replace GPS on ships](https://www.telegraph.co.uk/news/2023/05/21/ships-gps-alternative-warfare-tracking-impossible/)
 * [2023-05-23, 12:29:03](https://news.ycombinator.com/item?id=36043327) - [Meta sells Giphy to Shutterstock for $53M after buying it for $400M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
 * [2023-05-23, 12:28:39](https://news.ycombinator.com/item?id=36043322) - [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
@@ -10,7 +12,6 @@
 * [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 10:11:52](https://news.ycombinator.com/item?id=36042126) - [Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
-* [2023-05-23, 09:20:45](https://news.ycombinator.com/item?id=36041832) - [GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI misused surveillance powers more than 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 02:51:13](https://news.ycombinator.com/item?id=36039232) - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
@@ -28,7 +29,6 @@
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 17:58:17](https://news.ycombinator.com/item?id=36023267) - [A semester of Haskell-language-server: an internship report](https://www.tweag.io/blog/2023-01-31-hls-internship-report/)
 * [2023-05-21, 16:54:20](https://news.ycombinator.com/item?id=36022731) - [Ithkuil, the Most Complicated Language](https://en.wikipedia.org/wiki/Ithkuil)
-* [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
 * [2023-05-21, 13:23:54](https://news.ycombinator.com/item?id=36020612) - [Benchmarking Intel, AMD and Graviton Using Erasure Coding Workloads](https://blog.min.io/erasure-coding-cpu-utilization/)
 
 ## [Archives](archives/index.md)
