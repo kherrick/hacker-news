@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-23, 14:09:20",
+      "https://news.ycombinator.com/item?id=36044543"
+    ],
+    [
+      "Removing PGP from PyPI – The Python Package Index",
+      "https://blog.pypi.org/posts/2023-05-23-removing-pgp/"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 13:56:51",
       "https://news.ycombinator.com/item?id=36044362"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-05-21, 18:50:21",
-      "https://news.ycombinator.com/item?id=36023706"
-    ],
-    [
-      "Ditherpunk – The article I wish I had about monochrome image dithering (2021)",
-      "https://surma.dev/things/ditherpunk/"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 18:31:28",
       "https://news.ycombinator.com/item?id=36023557"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-05-21, 13:23:54",
-      "https://news.ycombinator.com/item?id=36020612"
+      "2023-05-21, 13:30:58",
+      "https://news.ycombinator.com/item?id=36020670"
     ],
     [
-      "Benchmarking Intel, AMD and Graviton Using Erasure Coding Workloads",
-      "https://blog.min.io/erasure-coding-cpu-utilization/"
+      "Quaternions, Interpolation and Animation [pdf]",
+      "https://web.mit.edu/2.998/www/QuaternionReport1.pdf"
     ]
   ]
 ]
