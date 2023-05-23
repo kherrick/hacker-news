@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
+* [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 * [2023-05-23, 02:51:13](https://news.ycombinator.com/item?id=36039232) - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
 * [2023-05-23, 02:14:20](https://news.ycombinator.com/item?id=36039000) - [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 * [2023-05-23, 02:04:56](https://news.ycombinator.com/item?id=36038950) - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
@@ -10,7 +12,6 @@
 * [2023-05-23, 01:17:32](https://news.ycombinator.com/item?id=36038684) - [Reddit comments and submissions collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
 * [2023-05-23, 01:08:34](https://news.ycombinator.com/item?id=36038635) - [Students give Gilbert Strang a standing ovation after his last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
 * [2023-05-23, 00:10:29](https://news.ycombinator.com/item?id=36038321) - [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
-* [2023-05-23, 00:09:14](https://news.ycombinator.com/item?id=36038311) - [CoDi: Any-to-Any Generation via Composable Diffusion](https://codi-gen.github.io/)
 * [2023-05-22, 22:41:31](https://news.ycombinator.com/item?id=36037607) - [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
 * [2023-05-22, 22:21:06](https://news.ycombinator.com/item?id=36037419) - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
@@ -21,7 +22,6 @@
 * [2023-05-22, 17:46:44](https://news.ycombinator.com/item?id=36034409) - [Salt Lake 2002 – not enough memory&#x2F;crashes to desktop after starting error](https://www.vogons.org/viewtopic.php?t=86172)
 * [2023-05-22, 17:27:05](https://news.ycombinator.com/item?id=36034211) - [Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 * [2023-05-22, 14:41:47](https://news.ycombinator.com/item?id=36032081) - [Show HN: Psychic - An open-source integration platform for unstructured data](https://github.com/psychic-api/psychic)
-* [2023-05-22, 13:48:53](https://news.ycombinator.com/item?id=36031446) - [Parallels in the ways that humans and ML models acquire language skills](https://www.quantamagazine.org/some-neural-networks-learn-language-like-humans-20230522/)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-21, 22:22:14](https://news.ycombinator.com/item?id=36025180) - [The Fight to Protect the Joshua Tree](https://www.wsj.com/articles/the-fight-to-protect-the-joshua-tree-609bc7e9)
 * [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)

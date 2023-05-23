@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
+* [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 * [2023-05-23, 05:27:20](https://news.ycombinator.com/item?id=36040218) - [Why it can be a good idea to say “Thank You” to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)
 * [2023-05-23, 04:20:10](https://news.ycombinator.com/item?id=36039779) - [Changing my mind on remote, moving the team back to San Francisco](https://flocrivello.com/changing-my-mind-on-remote-about-being-in-san-francisco/)
 * [2023-05-23, 04:12:12](https://news.ycombinator.com/item?id=36039731) - [Waste coffee husk turned into a wonder material key to mitigating climate change](https://reasonstobecheerful.world/netzero-coffee-husks-biochar-climate-reduce-emissions/)
