@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 10:02:02](https://news.ycombinator.com/item?id=36042066) - [Why are we more and more talking about the past here on HN?](https://news.ycombinator.com/item?id=36042066)
 * [2023-05-23, 09:42:37](https://news.ycombinator.com/item?id=36041973) - [Europe’s CEOs Eye Shift in Spending Plans Toward North America](https://www.bloomberg.com/news/articles/2023-05-23/europe-s-ceos-eye-shift-in-spending-plans-toward-north-america)
 * [2023-05-23, 09:34:28](https://news.ycombinator.com/item?id=36041926) - [UK to crack down on plant-based food and drink labels](https://unearthed.greenpeace.org/2023/05/20/plant-based-dairy-marketing-lobbying/)
 * [2023-05-23, 09:20:45](https://news.ycombinator.com/item?id=36041832) - [GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
@@ -27,7 +28,6 @@
 * [2023-05-21, 18:31:28](https://news.ycombinator.com/item?id=36023557) - [Can alligators climb trees? (2021)](https://wildlifeinformer.com/can-alligators-climb-trees/)
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 17:58:17](https://news.ycombinator.com/item?id=36023267) - [A semester of Haskell-language-server: an internship report](https://www.tweag.io/blog/2023-01-31-hls-internship-report/)
-* [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus (2018)](https://plato.stanford.edu/entries/plotinus/)
 * [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
 * [2023-05-21, 13:23:54](https://news.ycombinator.com/item?id=36020612) - [Benchmarking Intel, AMD and Graviton Using Erasure Coding Workloads](https://blog.min.io/erasure-coding-cpu-utilization/)
 
