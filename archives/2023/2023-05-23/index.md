@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
 * [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)

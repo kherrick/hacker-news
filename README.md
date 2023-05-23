@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
 * [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
@@ -15,7 +16,6 @@
 * [2023-05-22, 22:41:31](https://news.ycombinator.com/item?id=36037607) - [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
 * [2023-05-22, 22:21:06](https://news.ycombinator.com/item?id=36037419) - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
-* [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More than 600k students and teachers use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
 * [2023-05-22, 18:14:25](https://news.ycombinator.com/item?id=36034718) - [Talks That Attendees See in Person More Likely to Be Cited](https://www.nature.com/articles/d41586-023-01604-x)
