@@ -22,6 +22,8 @@
 * [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-21, 18:44:02](https://news.ycombinator.com/item?id=36023656) - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
 * [2023-05-21, 18:31:33](https://news.ycombinator.com/item?id=36023558) - [Success to the Successful](https://riskmusings.substack.com/p/success-to-the-successful)
+* [2023-05-21, 18:31:28](https://news.ycombinator.com/item?id=36023557) - [Can alligators climb trees? (2021)](https://wildlifeinformer.com/can-alligators-climb-trees/)
+* [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 * [2023-05-21, 17:58:33](https://news.ycombinator.com/item?id=36023269) - [Ask HN: Have you used a forward sale to avoid stock transfer restrictions?](https://news.ycombinator.com/item?id=36023269)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
