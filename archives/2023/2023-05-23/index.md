@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 21:02:18](https://news.ycombinator.com/item?id=36050830) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
 * [2023-05-23, 19:22:06](https://news.ycombinator.com/item?id=36049467) - [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
 * [2023-05-23, 19:19:13](https://news.ycombinator.com/item?id=36049404) - [Heat Wave and Blackout Would Send Half of Phoenix to E.R., Study Says](https://www.nytimes.com/2023/05/23/climate/blackout-heat-wave-danger.html)
 * [2023-05-23, 19:18:10](https://news.ycombinator.com/item?id=36049386) - [Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
@@ -84,3 +85,4 @@
 * [2023-05-23, 01:08:34](https://news.ycombinator.com/item?id=36038635) - [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
 * [2023-05-23, 00:10:29](https://news.ycombinator.com/item?id=36038321) - [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
 * [2023-05-23, 00:09:14](https://news.ycombinator.com/item?id=36038311) - [CoDi: Any-to-Any Generation via Composable Diffusion](https://codi-gen.github.io/)
+* [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What Number Comes Next? The On-Line Encyclopedia of Integer Sequences Knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
