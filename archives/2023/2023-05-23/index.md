@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 19:22:06](https://news.ycombinator.com/item?id=36049467) - [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
 * [2023-05-23, 19:19:13](https://news.ycombinator.com/item?id=36049404) - [Heat Wave and Blackout Would Send Half of Phoenix to E.R., Study Says](https://www.nytimes.com/2023/05/23/climate/blackout-heat-wave-danger.html)
+* [2023-05-23, 19:18:10](https://news.ycombinator.com/item?id=36049386) - [Instant flood fill with HTML Canvas](https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/)
 * [2023-05-23, 19:16:06](https://news.ycombinator.com/item?id=36049352) - [Correct Horse Battery Staple: Secure Password Generator](https://www.correcthorsebatterystaple.net/index.html)
 * [2023-05-23, 18:56:55](https://news.ycombinator.com/item?id=36049078) - [Update on Sharing](https://about.netflix.com/en/news/update-on-sharing-may-us)
 * [2023-05-23, 18:14:11](https://news.ycombinator.com/item?id=36048464) - [30% of All Rural Hospitals in the US Are at Risk of Closing [pdf]](https://ruralhospitals.chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
