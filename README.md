@@ -2,6 +2,7 @@
 
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
+* [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 * [2023-05-23, 02:51:13](https://news.ycombinator.com/item?id=36039232) - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
 * [2023-05-23, 02:14:20](https://news.ycombinator.com/item?id=36039000) - [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 * [2023-05-23, 02:04:56](https://news.ycombinator.com/item?id=36038950) - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
@@ -27,7 +28,6 @@
 * [2023-05-21, 18:31:28](https://news.ycombinator.com/item?id=36023557) - [Can alligators climb trees? (2021)](https://wildlifeinformer.com/can-alligators-climb-trees/)
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus (2018)](https://plato.stanford.edu/entries/plotinus/)
-* [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
 * [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
 * [2023-05-21, 13:23:54](https://news.ycombinator.com/item?id=36020612) - [Benchmarking Intel, AMD and Graviton Using Erasure Coding Workloads](https://blog.min.io/erasure-coding-cpu-utilization/)
 
