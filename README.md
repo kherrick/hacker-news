@@ -19,7 +19,6 @@
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
 * [2023-05-22, 18:14:25](https://news.ycombinator.com/item?id=36034718) - [Talks That Attendees See in Person More Likely to Be Cited](https://www.nature.com/articles/d41586-023-01604-x)
 * [2023-05-22, 17:46:44](https://news.ycombinator.com/item?id=36034409) - [Salt Lake 2002 – not enough memory&#x2F;crashes to desktop after starting error](https://www.vogons.org/viewtopic.php?t=86172)
-* [2023-05-22, 17:27:05](https://news.ycombinator.com/item?id=36034211) - [Meta AI announces Massive Multilingual Speech code,  models for 1000+ languages](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
 * [2023-05-22, 14:41:47](https://news.ycombinator.com/item?id=36032081) - [Show HN: Psychic - An open-source integration platform for unstructured data](https://github.com/psychic-api/psychic)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-22, 06:51:58](https://news.ycombinator.com/item?id=36028244) - [Source code for Glider Pro (1994)](https://github.com/softdorothy/GliderPRO)
@@ -28,6 +27,7 @@
 * [2023-05-21, 18:31:28](https://news.ycombinator.com/item?id=36023557) - [Can alligators climb trees? (2021)](https://wildlifeinformer.com/can-alligators-climb-trees/)
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus (2018)](https://plato.stanford.edu/entries/plotinus/)
+* [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
 * [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
 * [2023-05-21, 13:23:54](https://news.ycombinator.com/item?id=36020612) - [Benchmarking Intel, AMD and Graviton Using Erasure Coding Workloads](https://blog.min.io/erasure-coding-cpu-utilization/)
 
