@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
 * [2023-05-23, 17:09:14](https://news.ycombinator.com/item?id=36047359) - [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
 * [2023-05-23, 17:00:11](https://news.ycombinator.com/item?id=36047209) - [Santé (YC S23) Is Hiring – Building a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Beng31R-founding-engineer-full-stack)
 * [2023-05-23, 16:59:13](https://news.ycombinator.com/item?id=36047187) - [Let&#x27;s Talk about ChatGPT with Code Interpreter and Microsoft Copilot](https://www.oneusefulthing.org/p/it-is-starting-to-get-strange)
@@ -52,6 +53,7 @@
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 07:20:05](https://news.ycombinator.com/item?id=36041016) - [Show HN: MrScraper AI – Dead simple web scraper (powered by AI)](https://mrscraper.com/ai)
+* [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
 * [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 * [2023-05-23, 05:27:20](https://news.ycombinator.com/item?id=36040218) - [Why it can be a good idea to say “Thank You” to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)
