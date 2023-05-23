@@ -27,6 +27,7 @@
 * [2023-05-21, 17:16:39](https://news.ycombinator.com/item?id=36022948) - [How to Spin Bad News](https://www.pajiba.com/celebrities_are_better_than_you/how-to-spin-bad-news-featuring-jonathan-majors-and-johnny-depp.php)
 * [2023-05-21, 17:11:57](https://news.ycombinator.com/item?id=36022896) - [Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
 * [2023-05-21, 16:58:56](https://news.ycombinator.com/item?id=36022768) - [AI boom could expose investors’ natural stupidity](https://www.reuters.com/breakingviews/ai-boom-could-expose-investors-natural-stupidity-2023-05-19/)
+* [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus – Founder of Neoplatonism](https://plato.stanford.edu/entries/plotinus/)
 * [2023-05-21, 16:53:36](https://news.ycombinator.com/item?id=36022722) - [The Two-Century Quest to Quantify Our Senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://arxiv.org/abs/2210.14889)

@@ -26,7 +26,7 @@
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-21, 17:11:57](https://news.ycombinator.com/item?id=36022896) - [Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
-* [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly secure steganography using minimum entropy coupling](https://arxiv.org/abs/2210.14889)
+* [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus – Founder of Neoplatonism](https://plato.stanford.edu/entries/plotinus/)
 * [2023-05-21, 16:38:30](https://news.ycombinator.com/item?id=36022589) - [You Keep Using That Word: Asynchronous and Interprocess Comms](https://www.youtube.com/watch?v=6FOCNf06lqY)
 * [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
 * [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
