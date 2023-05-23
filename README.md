@@ -11,7 +11,7 @@
 * [2023-05-23, 01:38:01](https://news.ycombinator.com/item?id=36038796) - [Why do recipe writers lie about how long it takes to caramelize onions? (2012)](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
 * [2023-05-23, 01:17:32](https://news.ycombinator.com/item?id=36038684) - [Reddit comments and submissions collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
 * [2023-05-23, 01:08:34](https://news.ycombinator.com/item?id=36038635) - [Students give Gilbert Strang a standing ovation after his last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
-* [2023-05-23, 00:10:29](https://news.ycombinator.com/item?id=36038321) - [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
+* [2023-05-23, 00:09:14](https://news.ycombinator.com/item?id=36038311) - [CoDi: Any-to-Any Generation via Composable Diffusion](https://codi-gen.github.io/)
 * [2023-05-22, 22:41:31](https://news.ycombinator.com/item?id=36037607) - [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
 * [2023-05-22, 22:21:06](https://news.ycombinator.com/item?id=36037419) - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
