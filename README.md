@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 14:42:43](https://news.ycombinator.com/item?id=36045027) - [Google Bans ‘Downloader’ App: TV Outfits Claim Browser Violates Injunction](https://torrentfreak.com/google-bans-downloader-app-tv-outfits-claim-browser-violates-injunction-230523/)
 * [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:28:10](https://news.ycombinator.com/item?id=36044829) - [EU rules allowing use of spyware against journalists need “fine-tuning”](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
 * [2023-05-23, 14:21:33](https://news.ycombinator.com/item?id=36044744) - [Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street](https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling)
@@ -26,7 +27,6 @@
 * [2023-05-23, 01:50:00](https://news.ycombinator.com/item?id=36038868) - [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 * [2023-05-23, 01:38:01](https://news.ycombinator.com/item?id=36038796) - [Why do recipe writers lie about how long it takes to caramelize onions? (2012)](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
 * [2023-05-23, 01:17:32](https://news.ycombinator.com/item?id=36038684) - [Reddit comments and submissions collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
-* [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 16:54:20](https://news.ycombinator.com/item?id=36022731) - [Ithkuil, the Most Complicated Language](https://en.wikipedia.org/wiki/Ithkuil)
 * [2023-05-21, 15:10:44](https://news.ycombinator.com/item?id=36021770) - [The Rise of Somatic Therapy](https://www.nytimes.com/2023/05/18/magazine/somatic-therapy.html)
 * [2023-05-21, 13:30:58](https://news.ycombinator.com/item?id=36020670) - [Quaternions, Interpolation and Animation (1998) [pdf]](https://web.mit.edu/2.998/www/QuaternionReport1.pdf)
