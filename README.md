@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets”](https://metalintheory.com/metallica-master-of-puppets/)
-* [2023-05-23, 11:10:49](https://news.ycombinator.com/item?id=36042628) - [How to Fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/)
+* [2023-05-23, 12:01:05](https://news.ycombinator.com/item?id=36043086) - [Tesorio (YC S15) Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
+* [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
-* [2023-05-23, 09:42:37](https://news.ycombinator.com/item?id=36041973) - [Europe’s CEOs Eye Shift in Spending Plans Toward North America](https://www.bloomberg.com/news/articles/2023-05-23/europe-s-ceos-eye-shift-in-spending-plans-toward-north-america)
+* [2023-05-23, 10:11:52](https://news.ycombinator.com/item?id=36042126) - [Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
 * [2023-05-23, 09:41:43](https://news.ycombinator.com/item?id=36041968) - [Palm-sized PC might contain the future of gadget cooling](https://www.theverge.com/2023/5/23/23733592/frore-airjet-zotac-mini-desktop-pc-zbox-pi430aj-price)
 * [2023-05-23, 09:20:45](https://news.ycombinator.com/item?id=36041832) - [GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
