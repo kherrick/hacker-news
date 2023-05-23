@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-05-23, 14:28:10",
+      "https://news.ycombinator.com/item?id=36044829"
+    ],
+    [
+      "EU rules allowing “exceptional” use of spyware against journalists",
+      "https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 14:21:33",
+      "https://news.ycombinator.com/item?id=36044744"
+    ],
+    [
+      "Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street",
+      "https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 14:18:10",
+      "https://news.ycombinator.com/item?id=36044691"
+    ],
+    [
+      "Show HN: GS-Calc – a spreadsheet with 12M rows",
+      "https://citadel5.com/gs-calc.htm"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 14:16:19",
+      "https://news.ycombinator.com/item?id=36044657"
+    ],
+    [
+      "Show HN: Open-Source, AI Powered Notebooks for SRE Teams",
+      "https://unskript.com/developers"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 14:12:34",
+      "https://news.ycombinator.com/item?id=36044591"
+    ],
+    [
+      "A Guide to Continuous Data Quality Monitoring for AWS Athena",
+      "https://www.lariatdata.com/blog/continuous-data-quality-athena"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 14:10:13",
       "https://news.ycombinator.com/item?id=36044561"
     ],
@@ -27,6 +77,16 @@
     [
       "Elephants may be domesticating themselves",
       "https://www.science.org/content/article/elephants-may-be-domesticating-themselves"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 13:39:51",
+      "https://news.ycombinator.com/item?id=36044112"
+    ],
+    [
+      "How WebAssembly Is Eating the Database",
+      "https://dylibso.com/blog/wasm-udf/"
     ]
   ],
   [
@@ -61,16 +121,6 @@
   ],
   [
     [
-      "2023-05-23, 12:36:11",
-      "https://news.ycombinator.com/item?id=36043377"
-    ],
-    [
-      "Imperial College working with Royal Navy on system to replace GPS on ships",
-      "https://www.telegraph.co.uk/news/2023/05/21/ships-gps-alternative-warfare-tracking-impossible/"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 12:29:03",
       "https://news.ycombinator.com/item?id=36043327"
     ],
@@ -87,16 +137,6 @@
     [
       "Waymo and Uber partner to bring autonomous driving technology to Uber",
       "https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 12:25:27",
-      "https://news.ycombinator.com/item?id=36043287"
-    ],
-    [
-      "Nintendo sued for “immoral” Mario Kart lootboxes",
-      "https://www.axios.com/2023/05/22/nintendo-mario-kart-lootboxes-lawsuit"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2023-05-23, 02:03:51",
-      "https://news.ycombinator.com/item?id=36038945"
-    ],
-    [
-      "Generating Music Tracks with Unified Representation and Diffusion Framework",
-      "https://ai-muzic.github.io/getmusic/"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 01:50:00",
       "https://news.ycombinator.com/item?id=36038868"
     ],
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2023-05-21, 22:22:14",
-      "https://news.ycombinator.com/item?id=36025180"
-    ],
-    [
-      "The Fight to Protect the Joshua Tree",
-      "https://www.wsj.com/articles/the-fight-to-protect-the-joshua-tree-609bc7e9"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 18:55:51",
       "https://news.ycombinator.com/item?id=36023740"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-05-21, 18:31:28",
-      "https://news.ycombinator.com/item?id=36023557"
-    ],
-    [
-      "Can alligators climb trees? (2021)",
-      "https://wildlifeinformer.com/can-alligators-climb-trees/"
-    ]
-  ],
-  [
-    [
       "2023-05-21, 18:22:27",
       "https://news.ycombinator.com/item?id=36023463"
     ],
     [
       "The Industrial Hammer Complex",
       "https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 17:58:17",
-      "https://news.ycombinator.com/item?id=36023267"
-    ],
-    [
-      "A semester of Haskell-language-server: an internship report",
-      "https://www.tweag.io/blog/2023-01-31-hls-internship-report/"
     ]
   ],
   [
