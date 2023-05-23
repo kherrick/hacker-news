@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 22:26:36](https://news.ycombinator.com/item?id=36051635) - [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
 * [2023-05-23, 22:22:21](https://news.ycombinator.com/item?id=36051588) - [Don&#x27;t Use VPN Services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 * [2023-05-23, 21:40:06](https://news.ycombinator.com/item?id=36051185) - [Philip K. Dick&#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
 * [2023-05-23, 21:24:11](https://news.ycombinator.com/item?id=36051030) - [A blocky based CAD program](https://vkgames82.itch.io/block-cad)

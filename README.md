@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-23, 22:22:21](https://news.ycombinator.com/item?id=36051588) - [Don&#x27;t Use VPN Services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
+* [2023-05-23, 22:26:36](https://news.ycombinator.com/item?id=36051635) - [New Nightmare, the Hammerhead Worm](https://www.texasmonthly.com/travel/meet-nightmare-hammerhead-worm/)
 * [2023-05-23, 21:40:06](https://news.ycombinator.com/item?id=36051185) - [Philip K. Dick&#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
 * [2023-05-23, 21:24:11](https://news.ycombinator.com/item?id=36051030) - [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
-* [2023-05-23, 21:08:12](https://news.ycombinator.com/item?id=36050884) - [Who pays the price when cochlear implants go obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
 * [2023-05-23, 21:02:18](https://news.ycombinator.com/item?id=36050830) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
 * [2023-05-23, 20:58:10](https://news.ycombinator.com/item?id=36050796) - [Not Even a Recession: The Great German Gas Debate in Retrospect [pdf]](https://www.econtribute.de/RePEc/ajk/ajkpbs/ECONtribute_PB_048_2023_EN.pdf)
 * [2023-05-23, 19:22:06](https://news.ycombinator.com/item?id=36049467) - [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
@@ -25,6 +24,7 @@
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [The AARD Code and DR DOS (2021)](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+* [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What number comes next? The On-line Encyclopedia of Integer Sequences knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 16:32:59](https://news.ycombinator.com/item?id=36033566) - [Easier data debugging with Zed’s first-class errors](https://www.brimdata.io/blog/debugging-data-first-class-errors/)
