@@ -77,6 +77,7 @@
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-22, 08:39:54](https://news.ycombinator.com/item?id=36028837) - [Bedr00mZ: Nobody Prepared Me for That](https://bedr00mz.neocities.org/)
 * [2023-05-22, 08:24:33](https://news.ycombinator.com/item?id=36028756) - [The Atomic Energy Lab Kit for Kids That Came with Actual Radioactive Materials](https://rarehistoricalphotos.com/gilbert-u-238-atomic-energy-lab-kit-for-kids/)
+* [2023-05-22, 08:22:16](https://news.ycombinator.com/item?id=36028740) - [When can you know the Type I error rate for your analysis](https://statmodeling.stat.columbia.edu/2023/05/20/if-you-do-not-know-what-you-would-have-done-under-all-possible-scenarios-then-you-cannot-know-the-type-i-error-rate-for-your-analysis/)
 * [2023-05-22, 08:00:40](https://news.ycombinator.com/item?id=36028608) - [Winamp Clone Whips the Llama&#x27;s Ass on an Espressif ESP32](https://www.hackster.io/news/cheng-liang-s-lvgl-driven-winamp-clone-really-whips-the-llama-s-ass-on-an-espressif-esp32-2948716adcbb)
 * [2023-05-22, 07:54:05](https://news.ycombinator.com/item?id=36028567) - [Meta preps new social app](https://liahaberman.substack.com/p/icymi-instagrams-new-app-could-be)
 * [2023-05-22, 07:36:06](https://news.ycombinator.com/item?id=36028463) - [Why your team doesn&#x27;t need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
