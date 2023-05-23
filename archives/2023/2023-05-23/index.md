@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 13:56:51](https://news.ycombinator.com/item?id=36044362) - [Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
 * [2023-05-23, 12:38:45](https://news.ycombinator.com/item?id=36043398) - [Crypto giant Binance commingled customer funds and company revenue](https://www.reuters.com/investigates/special-report/crypto-binance-money/)
