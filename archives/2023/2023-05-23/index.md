@@ -7,6 +7,7 @@
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 10:02:02](https://news.ycombinator.com/item?id=36042066) - [Why are we more and more talking about the past here on HN?](https://news.ycombinator.com/item?id=36042066)
 * [2023-05-23, 09:42:37](https://news.ycombinator.com/item?id=36041973) - [Europe’s CEOs Eye Shift in Spending Plans Toward North America](https://www.bloomberg.com/news/articles/2023-05-23/europe-s-ceos-eye-shift-in-spending-plans-toward-north-america)
+* [2023-05-23, 09:41:43](https://news.ycombinator.com/item?id=36041968) - [Palm-sized PC might contain the future of gadget cooling](https://www.theverge.com/2023/5/23/23733592/frore-airjet-zotac-mini-desktop-pc-zbox-pi430aj-price)
 * [2023-05-23, 09:34:28](https://news.ycombinator.com/item?id=36041926) - [UK to crack down on plant-based food and drink labels](https://unearthed.greenpeace.org/2023/05/20/plant-based-dairy-marketing-lobbying/)
 * [2023-05-23, 09:20:45](https://news.ycombinator.com/item?id=36041832) - [GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
 * [2023-05-23, 09:18:17](https://news.ycombinator.com/item?id=36041811) - [An auto CEO came close to saying the right thing about heavy EV batteries](https://www.theverge.com/2023/5/22/23733215/ford-ev-battery-size-weight-safety-jim-farley)
