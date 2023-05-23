@@ -16,3 +16,4 @@
 * [2023-05-23, 01:13:10](https://news.ycombinator.com/item?id=36038655) - [India pulls highest-denomination notes from circulation](https://www.ft.com/content/45281776-6501-43de-87b1-af1e72ab3225)
 * [2023-05-23, 01:08:34](https://news.ycombinator.com/item?id=36038635) - [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
 * [2023-05-23, 00:10:29](https://news.ycombinator.com/item?id=36038321) - [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
+* [2023-05-23, 00:09:14](https://news.ycombinator.com/item?id=36038311) - [CoDi: Any-to-Any Generation via Composable Diffusion](https://codi-gen.github.io/)
