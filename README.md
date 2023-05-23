@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 02:51:13](https://news.ycombinator.com/item?id=36039232) - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
 * [2023-05-23, 02:13:13](https://news.ycombinator.com/item?id=36038992) - [Seattle Amazon workers plan walkout over return to office, layoffs](https://www.seattletimes.com/business/seattle-amazon-workers-plan-walkout-over-return-to-office-layoffs/)
 * [2023-05-23, 02:04:56](https://news.ycombinator.com/item?id=36038950) - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
 * [2023-05-23, 02:03:51](https://news.ycombinator.com/item?id=36038945) - [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
@@ -25,7 +26,6 @@
 * [2023-05-22, 12:59:19](https://news.ycombinator.com/item?id=36030866) - [CRDT Benchmarks](https://jsonjoy.com/blog/list-crdt-benchmarks)
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
-* [2023-05-21, 17:11:57](https://news.ycombinator.com/item?id=36022896) - [Building a Better Book Club: A Strategy for Efficiently Ingesting Nonfiction](https://spin.atomicobject.com/2023/05/21/nonfiction-business-books/)
 * [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus – Founder of Neoplatonism](https://plato.stanford.edu/entries/plotinus/)
 * [2023-05-21, 16:38:30](https://news.ycombinator.com/item?id=36022589) - [You Keep Using That Word: Asynchronous and Interprocess Comms](https://www.youtube.com/watch?v=6FOCNf06lqY)
 * [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
