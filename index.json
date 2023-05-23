@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36044829"
     ],
     [
-      "EU rules allowing “exceptional” use of spyware against journalists",
+      "EU rules allowing use of spyware against journalists need “fine-tuning”",
       "https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/"
     ]
   ],
@@ -27,16 +27,6 @@
     [
       "Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street",
       "https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 14:18:10",
-      "https://news.ycombinator.com/item?id=36044691"
-    ],
-    [
-      "Show HN: GS-Calc – a spreadsheet with 12M rows",
-      "https://citadel5.com/gs-calc.htm"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36044561"
     ],
     [
-      "Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns",
+      "Social media can be a ‘profound risk’ to youth, surgeon general warns",
       "https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36044543"
     ],
     [
-      "Removing PGP from PyPI – The Python Package Index",
+      "Removing PGP from PyPI",
       "https://blog.pypi.org/posts/2023-05-23-removing-pgp/"
     ]
   ],
@@ -151,12 +141,32 @@
   ],
   [
     [
+      "2023-05-23, 12:25:27",
+      "https://news.ycombinator.com/item?id=36043287"
+    ],
+    [
+      "Nintendo sued for “immoral” Mario Kart lootboxes",
+      "https://www.axios.com/2023/05/22/nintendo-mario-kart-lootboxes-lawsuit"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 12:01:05",
       "https://news.ycombinator.com/item?id=36043086"
     ],
     [
       "Tesorio (YC S15) Is Hiring Back End Engineers and DevOps",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 11:58:52",
+      "https://news.ycombinator.com/item?id=36043066"
+    ],
+    [
+      "Why I Use Elm in 2023",
+      "https://taylor.town/elm-2023"
     ]
   ],
   [
@@ -175,7 +185,7 @@
       "https://news.ycombinator.com/item?id=36042213"
     ],
     [
-      "How Microsoft faked errors in Windows 3 on top of DR DOS",
+      "The AARD Code and DR DOS (2021)",
       "https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm"
     ]
   ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2023-05-23, 02:51:13",
-      "https://news.ycombinator.com/item?id=36039232"
+      "2023-05-23, 02:04:56",
+      "https://news.ycombinator.com/item?id=36038950"
     ],
     [
-      "Demystifying Tupper&#x27;s Formula",
-      "https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/"
+      "SimCity 4, the greatest citybuilder of all time, was released 20 years ago",
+      "https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2023-05-21, 18:55:51",
-      "https://news.ycombinator.com/item?id=36023740"
+      "2023-05-23, 01:17:32",
+      "https://news.ycombinator.com/item?id=36038684"
     ],
     [
-      "ZX-Calculus Simulator in the Browser",
-      "https://qirella.geosearchef.de"
+      "Reddit comments and submissions collected by Pushshift",
+      "https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The Industrial Hammer Complex",
       "https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 17:58:17",
-      "https://news.ycombinator.com/item?id=36023267"
-    ],
-    [
-      "A semester of Haskell-language-server: an internship report",
-      "https://www.tweag.io/blog/2023-01-31-hls-internship-report/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36020670"
     ],
     [
-      "Quaternions, Interpolation and Animation [pdf]",
+      "Quaternions, Interpolation and Animation (1998) [pdf]",
       "https://web.mit.edu/2.998/www/QuaternionReport1.pdf"
     ]
   ]
