@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 11:10:49](https://news.ycombinator.com/item?id=36042628) - [How to Fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 10:02:02](https://news.ycombinator.com/item?id=36042066) - [Why are we more and more talking about the past here on HN?](https://news.ycombinator.com/item?id=36042066)
 * [2023-05-23, 09:42:37](https://news.ycombinator.com/item?id=36041973) - [Europe’s CEOs Eye Shift in Spending Plans Toward North America](https://www.bloomberg.com/news/articles/2023-05-23/europe-s-ceos-eye-shift-in-spending-plans-toward-north-america)
