@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 21:40:06](https://news.ycombinator.com/item?id=36051185) - [Philip K. Dick&#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
+* [2023-05-23, 21:24:11](https://news.ycombinator.com/item?id=36051030) - [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
 * [2023-05-23, 21:08:12](https://news.ycombinator.com/item?id=36050884) - [Who Pays the Price When Cochlear Implants Go Obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
 * [2023-05-23, 21:02:18](https://news.ycombinator.com/item?id=36050830) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
 * [2023-05-23, 19:22:06](https://news.ycombinator.com/item?id=36049467) - [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
@@ -14,7 +16,6 @@
 * [2023-05-23, 16:39:21](https://news.ycombinator.com/item?id=36046830) - [The damage to lunar orbiting spacecraft caused by the ejecta of lunar landers](https://arxiv.org/abs/2305.12234)
 * [2023-05-23, 16:31:08](https://news.ycombinator.com/item?id=36046662) - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 * [2023-05-23, 16:06:46](https://news.ycombinator.com/item?id=36046319) - [Show HN: Accelerated Docker builds on your local machine with Depot (YC W23)](https://news.ycombinator.com/item?id=36046319)
-* [2023-05-23, 15:41:14](https://news.ycombinator.com/item?id=36045938) - [ROS 2 Iron Irwini Release](https://www.openrobotics.org/blog/2023/5/23/ros-2-iron-irwini-released)
 * [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
 * [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple announces multibillion deal with Broadcom to make components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:10:13](https://news.ycombinator.com/item?id=36044561) - [Social media can be a ‘profound risk’ to youth, surgeon general warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)
@@ -29,7 +30,6 @@
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 13:10:15](https://news.ycombinator.com/item?id=36030979) - [Humanity&#x27;s earliest recorded kiss occurred in Mesopotamia 4,500 years ago](https://phys.org/news/2023-05-humanity-earliest-mesopotamia-years.html)
 * [2023-05-22, 08:22:16](https://news.ycombinator.com/item?id=36028740) - [When can you know the Type I error rate for your analysis](https://statmodeling.stat.columbia.edu/2023/05/20/if-you-do-not-know-what-you-would-have-done-under-all-possible-scenarios-then-you-cannot-know-the-type-i-error-rate-for-your-analysis/)
-* [2023-05-21, 16:54:20](https://news.ycombinator.com/item?id=36022731) - [Ithkuil, the Most Complicated Language](https://en.wikipedia.org/wiki/Ithkuil)
 
 ## [Archives](archives/index.md)
 

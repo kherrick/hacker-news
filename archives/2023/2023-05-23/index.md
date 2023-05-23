@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 21:40:06](https://news.ycombinator.com/item?id=36051185) - [Philip K. Dick&#x27;s Substance Abuse and Psychosis](https://www.thecompanion.app/philip-k-dick-psychosis/)
+* [2023-05-23, 21:24:11](https://news.ycombinator.com/item?id=36051030) - [A blocky based CAD program](https://vkgames82.itch.io/block-cad)
 * [2023-05-23, 21:08:12](https://news.ycombinator.com/item?id=36050884) - [Who Pays the Price When Cochlear Implants Go Obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
 * [2023-05-23, 21:02:18](https://news.ycombinator.com/item?id=36050830) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
 * [2023-05-23, 19:22:06](https://news.ycombinator.com/item?id=36049467) - [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
