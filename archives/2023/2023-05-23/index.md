@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 09:42:37](https://news.ycombinator.com/item?id=36041973) - [Europe’s CEOs Eye Shift in Spending Plans Toward North America](https://www.bloomberg.com/news/articles/2023-05-23/europe-s-ceos-eye-shift-in-spending-plans-toward-north-america)
+* [2023-05-23, 09:34:28](https://news.ycombinator.com/item?id=36041926) - [UK to crack down on plant-based food and drink labels](https://unearthed.greenpeace.org/2023/05/20/plant-based-dairy-marketing-lobbying/)
+* [2023-05-23, 09:20:45](https://news.ycombinator.com/item?id=36041832) - [GirlfriendGPT – OSS AI Companion](https://github.com/EniasCailliau/GirlfriendGPT)
+* [2023-05-23, 09:18:17](https://news.ycombinator.com/item?id=36041811) - [An auto CEO came close to saying the right thing about heavy EV batteries](https://www.theverge.com/2023/5/22/23733215/ford-ev-battery-size-weight-safety-jim-farley)
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 07:20:05](https://news.ycombinator.com/item?id=36041016) - [Show HN: MrScraper AI – Dead simple web scraper (powered by AI)](https://mrscraper.com/ai)
