@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-23, 04:12:12](https://news.ycombinator.com/item?id=36039731) - [Waste coffee husk turned into a wonder material key to mitigating climate change](https://reasonstobecheerful.world/netzero-coffee-husks-biochar-climate-reduce-emissions/)
+* [2023-05-23, 04:20:10](https://news.ycombinator.com/item?id=36039779) - [Changing my mind on remote, moving the team back to San Francisco](https://flocrivello.com/changing-my-mind-on-remote-about-being-in-san-francisco/)
 * [2023-05-23, 02:51:13](https://news.ycombinator.com/item?id=36039232) - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
 * [2023-05-23, 02:14:20](https://news.ycombinator.com/item?id=36039000) - [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 * [2023-05-23, 02:13:13](https://news.ycombinator.com/item?id=36038992) - [Seattle Amazon workers plan walkout over return to office, layoffs](https://www.seattletimes.com/business/seattle-amazon-workers-plan-walkout-over-return-to-office-layoffs/)
@@ -26,10 +26,10 @@
 * [2023-05-22, 09:26:22](https://news.ycombinator.com/item?id=36029087) - [Memory Allocation](https://samwho.dev/memory-allocation/)
 * [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-21, 17:39:26](https://news.ycombinator.com/item?id=36023138) - [Papyrus Oxyrhynchus 69](https://en.wikipedia.org/wiki/Papyrus_Oxyrhynchus_69)
-* [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus – Founder of Neoplatonism](https://plato.stanford.edu/entries/plotinus/)
 * [2023-05-21, 16:38:30](https://news.ycombinator.com/item?id=36022589) - [You Keep Using That Word: Asynchronous and Interprocess Comms](https://www.youtube.com/watch?v=6FOCNf06lqY)
 * [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
 * [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
+* [2023-05-21, 13:12:01](https://news.ycombinator.com/item?id=36020534) - [X-59 supersonic aircraft](https://www.lockheedmartin.com/en-us/products/quesst.html)
 
 ## [Archives](archives/index.md)
 
