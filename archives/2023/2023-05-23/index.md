@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 17:00:11](https://news.ycombinator.com/item?id=36047209) - [Santé (YC S23) Is Hiring – Building a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Beng31R-founding-engineer-full-stack)
+* [2023-05-23, 16:49:30](https://news.ycombinator.com/item?id=36046999) - [Social Media and Youth Mental Health](https://www.hhs.gov/surgeongeneral/priorities/youth-mental-health/social-media/index.html)
+* [2023-05-23, 16:39:21](https://news.ycombinator.com/item?id=36046830) - [The Damage to Lunar Orbiting Spacecraft Caused by the Ejecta of Lunar Landers](https://arxiv.org/abs/2305.12234)
 * [2023-05-23, 16:04:31](https://news.ycombinator.com/item?id=36046293) - [I Block Ads](https://coryd.dev/posts/2023/i-block-ads/)
 * [2023-05-23, 15:59:13](https://news.ycombinator.com/item?id=36046222) - [Podman Desktop 1.0](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
 * [2023-05-23, 15:41:14](https://news.ycombinator.com/item?id=36045938) - [ROS 2 Iron Irwini Release](https://www.openrobotics.org/blog/2023/5/23/ros-2-iron-irwini-released)
 * [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
 * [2023-05-23, 15:25:19](https://news.ycombinator.com/item?id=36045671) - [Congress wants AM radio in all new cars–trade groups say that’s a mistake](https://arstechnica.com/cars/2023/05/ev-advocates-join-tech-groups-and-automakers-to-oppose-am-radio-mandate/)
+* [2023-05-23, 15:17:13](https://news.ycombinator.com/item?id=36045526) - [Bringing the power of AI to Windows 11](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
 * [2023-05-23, 14:42:43](https://news.ycombinator.com/item?id=36045027) - [Google Bans ‘Downloader’ App: TV Outfits Claim Browser Violates Injunction](https://torrentfreak.com/google-bans-downloader-app-tv-outfits-claim-browser-violates-injunction-230523/)
 * [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:28:10](https://news.ycombinator.com/item?id=36044829) - [EU rules allowing “exceptional” use of spyware against journalists](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
