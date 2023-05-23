@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 14:10:13](https://news.ycombinator.com/item?id=36044561) - [Social Media Can Be a ‘Profound Risk’ to Youth, Surgeon General Warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)
 * [2023-05-23, 13:56:51](https://news.ycombinator.com/item?id=36044362) - [Elephants may be domesticating themselves](https://www.science.org/content/article/elephants-may-be-domesticating-themselves)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
@@ -16,7 +17,6 @@
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI misused surveillance powers more than 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 02:51:13](https://news.ycombinator.com/item?id=36039232) - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
-* [2023-05-23, 02:14:20](https://news.ycombinator.com/item?id=36039000) - [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 * [2023-05-23, 02:03:51](https://news.ycombinator.com/item?id=36038945) - [Generating Music Tracks with Unified Representation and Diffusion Framework](https://ai-muzic.github.io/getmusic/)
 * [2023-05-23, 01:50:00](https://news.ycombinator.com/item?id=36038868) - [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 * [2023-05-23, 01:40:55](https://news.ycombinator.com/item?id=36038815) - [Show HN: DB-GPT, an LLM tool for database](https://github.com/csunny/DB-GPT)
