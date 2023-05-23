@@ -14,6 +14,7 @@
 * [2023-05-22, 22:41:31](https://news.ycombinator.com/item?id=36037607) - [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
 * [2023-05-22, 22:21:06](https://news.ycombinator.com/item?id=36037419) - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 * [2023-05-22, 21:33:51](https://news.ycombinator.com/item?id=36036997) - [The Open Buddhist University](https://buddhistuniversity.net/)
+* [2023-05-22, 20:38:42](https://news.ycombinator.com/item?id=36036412) - [More than 600k students and teachers use Z-Library](https://torrentfreak.com/more-than-600000-students-and-teachers-use-z-library-230522/)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:15:11](https://news.ycombinator.com/item?id=36034726) - [What if you did the exact opposite, like rogue bees do (2020)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
 * [2023-05-22, 18:14:25](https://news.ycombinator.com/item?id=36034718) - [Talks That Attendees See in Person More Likely to Be Cited](https://www.nature.com/articles/d41586-023-01604-x)
@@ -29,7 +30,6 @@
 * [2023-05-21, 16:54:30](https://news.ycombinator.com/item?id=36022733) - [Plotinus (2018)](https://plato.stanford.edu/entries/plotinus/)
 * [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
 * [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
-* [2023-05-21, 13:12:01](https://news.ycombinator.com/item?id=36020534) - [X-59 supersonic aircraft](https://www.lockheedmartin.com/en-us/products/quesst.html)
 
 ## [Archives](archives/index.md)
 
