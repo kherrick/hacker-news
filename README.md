@@ -6,7 +6,6 @@
 * [2023-05-23, 01:50:00](https://news.ycombinator.com/item?id=36038868) - [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 * [2023-05-23, 01:38:01](https://news.ycombinator.com/item?id=36038796) - [Why do recipe writers lie and lie about how long it takes to caramelize onions? (2012)](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
 * [2023-05-23, 01:17:32](https://news.ycombinator.com/item?id=36038684) - [Reddit comments and submissions from 2005-06 to 2022-12 collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
-* [2023-05-23, 01:13:10](https://news.ycombinator.com/item?id=36038655) - [India pulls highest-denomination notes from circulation](https://www.ft.com/content/45281776-6501-43de-87b1-af1e72ab3225)
 * [2023-05-23, 01:08:34](https://news.ycombinator.com/item?id=36038635) - [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
 * [2023-05-23, 00:10:29](https://news.ycombinator.com/item?id=36038321) - [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
 * [2023-05-22, 22:41:31](https://news.ycombinator.com/item?id=36037607) - [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
@@ -30,6 +29,7 @@
 * [2023-05-21, 15:43:52](https://news.ycombinator.com/item?id=36022078) - [A Review of the RGB Blaster: No Mod, No Problem](https://nicole.express/2023/that-blasted-rgb.html)
 * [2023-05-21, 15:07:24](https://news.ycombinator.com/item?id=36021741) - [&#x27;BlackBerry&#x27; review: The comedy and tragedy of the innovator&#x27;s dilemma](https://www.engadget.com/blackberry-movie-review-comedy-tragedy-innovators-dilemma-140115574.html)
 * [2023-05-21, 14:59:53](https://news.ycombinator.com/item?id=36021652) - [In Defense of Pure 16-Bit Floating-Point Neural Networks](https://arxiv.org/abs/2305.10947)
+* [2023-05-21, 13:09:36](https://news.ycombinator.com/item?id=36020520) - [Deep neural networks as computational graphs (2018)](https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9)
 
 ## [Archives](archives/index.md)
 
