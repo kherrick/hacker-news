@@ -75,6 +75,7 @@
 * [2023-05-22, 09:18:25](https://news.ycombinator.com/item?id=36029050) - [Noyb win: € 1.2B fine against Meta over EU-US data transfers](https://noyb.eu/en/edpb-decision-facebooks-eu-us-data-transfers-stop-transfers-fine-and-repatriation)
 * [2023-05-22, 09:15:20](https://news.ycombinator.com/item?id=36029032) - [Polar Night](https://brr.fyi/posts/polar-night)
 * [2023-05-22, 09:13:10](https://news.ycombinator.com/item?id=36029020) - [VSCode Security: Malicious Extensions Detected- More Than 45,000 Downloads](https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/)
+* [2023-05-22, 09:11:02](https://news.ycombinator.com/item?id=36029006) - [Programming with Natural Language Is Going to Work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)
 * [2023-05-22, 08:42:31](https://news.ycombinator.com/item?id=36028847) - [Ask HN: How to move from dev role to management&#x2F;team lead role?](https://news.ycombinator.com/item?id=36028847)
 * [2023-05-22, 08:42:00](https://news.ycombinator.com/item?id=36028845) - [Meta Fined $1.3B Over Data Transfers to U.S.](https://www.wsj.com/articles/meta-fined-1-3-billion-over-data-transfers-to-u-s-b53dbb04)
 * [2023-05-22, 08:39:54](https://news.ycombinator.com/item?id=36028837) - [Bedr00mZ: Nobody Prepared Me for That](https://bedr00mz.neocities.org/)
