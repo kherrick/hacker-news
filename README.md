@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 18:14:11](https://news.ycombinator.com/item?id=36048464) - [30% of All Rural Hospitals in the US Are at Risk of Closing [pdf]](https://ruralhospitals.chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
 * [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
 * [2023-05-23, 17:19:06](https://news.ycombinator.com/item?id=36047524) - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)
 * [2023-05-23, 17:09:14](https://news.ycombinator.com/item?id=36047359) - [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
@@ -12,7 +13,6 @@
 * [2023-05-23, 15:59:13](https://news.ycombinator.com/item?id=36046222) - [Podman Desktop 1.0](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
 * [2023-05-23, 15:41:14](https://news.ycombinator.com/item?id=36045938) - [ROS 2 Iron Irwini Release](https://www.openrobotics.org/blog/2023/5/23/ros-2-iron-irwini-released)
 * [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
-* [2023-05-23, 15:17:13](https://news.ycombinator.com/item?id=36045526) - [Bringing the power of AI to Windows 11](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
 * [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple announces multibillion deal with Broadcom to make components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:12:34](https://news.ycombinator.com/item?id=36044591) - [A Guide to Continuous Data Quality Monitoring for AWS Athena](https://www.lariatdata.com/blog/continuous-data-quality-athena)
 * [2023-05-23, 14:10:13](https://news.ycombinator.com/item?id=36044561) - [Social media can be a ‘profound risk’ to youth, surgeon general warns](https://www.nytimes.com/2023/05/23/well/family/social-media-mental-health-surgeon-general.html)
@@ -25,11 +25,11 @@
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [The AARD Code and DR DOS (2021)](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+* [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 13:10:15](https://news.ycombinator.com/item?id=36030979) - [Humanity&#x27;s earliest recorded kiss occurred in Mesopotamia 4,500 years ago](https://phys.org/news/2023-05-humanity-earliest-mesopotamia-years.html)
 * [2023-05-21, 16:54:20](https://news.ycombinator.com/item?id=36022731) - [Ithkuil, the Most Complicated Language](https://en.wikipedia.org/wiki/Ithkuil)
 * [2023-05-21, 15:10:44](https://news.ycombinator.com/item?id=36021770) - [The Rise of Somatic Therapy](https://www.nytimes.com/2023/05/18/magazine/somatic-therapy.html)
-* [2023-05-21, 13:30:58](https://news.ycombinator.com/item?id=36020670) - [Quaternions, Interpolation and Animation (1998) [pdf]](https://web.mit.edu/2.998/www/QuaternionReport1.pdf)
 
 ## [Archives](archives/index.md)
 

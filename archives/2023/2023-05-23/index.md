@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 18:14:11](https://news.ycombinator.com/item?id=36048464) - [30% of All Rural Hospitals in the US Are at Risk of Closing [pdf]](https://ruralhospitals.chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
 * [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
 * [2023-05-23, 17:19:06](https://news.ycombinator.com/item?id=36047524) - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)
 * [2023-05-23, 17:09:14](https://news.ycombinator.com/item?id=36047359) - [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
@@ -56,6 +57,7 @@
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI abused spy law but only like 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 07:20:05](https://news.ycombinator.com/item?id=36041016) - [Show HN: MrScraper AI – Dead simple web scraper (powered by AI)](https://mrscraper.com/ai)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+* [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
 * [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 * [2023-05-23, 05:27:20](https://news.ycombinator.com/item?id=36040218) - [Why it can be a good idea to say “Thank You” to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)
