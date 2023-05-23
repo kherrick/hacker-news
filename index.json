@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-05-23, 19:19:13",
-      "https://news.ycombinator.com/item?id=36049404"
+      "2023-05-23, 19:22:06",
+      "https://news.ycombinator.com/item?id=36049467"
     ],
     [
-      "Heat Wave and Blackout Would Send Half of Phoenix to E.R., Study Says",
-      "https://www.nytimes.com/2023/05/23/climate/blackout-heat-wave-danger.html"
+      "Using anti-requirements to find system boundaries",
+      "https://particular.net/blog/antirequirements"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 19:18:10",
+      "https://news.ycombinator.com/item?id=36049386"
+    ],
+    [
+      "Instant flood fill with HTML Canvas",
+      "https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-05-23, 16:59:13",
-      "https://news.ycombinator.com/item?id=36047187"
-    ],
-    [
-      "Let&#x27;s Talk about ChatGPT with Code Interpreter and Microsoft Copilot",
-      "https://www.oneusefulthing.org/p/it-is-starting-to-get-strange"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 16:56:49",
       "https://news.ycombinator.com/item?id=36047143"
     ],
@@ -117,6 +117,16 @@
     [
       "How to start a Go project in 2023",
       "https://boyter.org/posts/how-to-start-go-project-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 16:06:46",
+      "https://news.ycombinator.com/item?id=36046319"
+    ],
+    [
+      "Show HN: Accelerated Docker builds on your local machine with Depot (YC W23)",
+      "https://news.ycombinator.com/item?id=36046319"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Ithkuil, the Most Complicated Language",
       "https://en.wikipedia.org/wiki/Ithkuil"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 15:10:44",
-      "https://news.ycombinator.com/item?id=36021770"
-    ],
-    [
-      "The Rise of Somatic Therapy",
-      "https://www.nytimes.com/2023/05/18/magazine/somatic-therapy.html"
     ]
   ]
 ]
