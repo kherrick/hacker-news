@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
 * [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
+* [2023-05-23, 17:19:06](https://news.ycombinator.com/item?id=36047524) - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)
 * [2023-05-23, 17:09:14](https://news.ycombinator.com/item?id=36047359) - [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
 * [2023-05-23, 17:00:11](https://news.ycombinator.com/item?id=36047209) - [Santé (YC S23) Is Hiring – Building a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Beng31R-founding-engineer-full-stack)
 * [2023-05-23, 16:59:13](https://news.ycombinator.com/item?id=36047187) - [Let&#x27;s Talk about ChatGPT with Code Interpreter and Microsoft Copilot](https://www.oneusefulthing.org/p/it-is-starting-to-get-strange)
+* [2023-05-23, 16:56:49](https://news.ycombinator.com/item?id=36047143) - [Show HN: I&#x27;m open sourcing Harmonic, the Android Hacker News client](https://github.com/SimonHalvdansson/Harmonic-HN)
 * [2023-05-23, 16:55:34](https://news.ycombinator.com/item?id=36047114) - [Show HN: Cosmic – Headless CMS and API toolkit v2.0](https://news.ycombinator.com/item?id=36047114)
 * [2023-05-23, 16:49:30](https://news.ycombinator.com/item?id=36046999) - [Social Media and Youth Mental Health](https://www.hhs.gov/surgeongeneral/priorities/youth-mental-health/social-media/index.html)
 * [2023-05-23, 16:39:21](https://news.ycombinator.com/item?id=36046830) - [The Damage to Lunar Orbiting Spacecraft Caused by the Ejecta of Lunar Landers](https://arxiv.org/abs/2305.12234)
