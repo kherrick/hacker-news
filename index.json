@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-05-23, 01:13:10",
-      "https://news.ycombinator.com/item?id=36038655"
-    ],
-    [
-      "India pulls highest-denomination notes from circulation",
-      "https://www.ft.com/content/45281776-6501-43de-87b1-af1e72ab3225"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 01:08:34",
       "https://news.ycombinator.com/item?id=36038635"
     ],
@@ -297,6 +287,16 @@
     [
       "In Defense of Pure 16-Bit Floating-Point Neural Networks",
       "https://arxiv.org/abs/2305.10947"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 13:09:36",
+      "https://news.ycombinator.com/item?id=36020520"
+    ],
+    [
+      "Deep neural networks as computational graphs (2018)",
+      "https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9"
     ]
   ]
 ]
