@@ -136,6 +136,181 @@
               Contracts</a
             >
           </h3>
+          <section>
+            <h4>
+              <span>2023-05-23 @ 13:28:53</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36043944"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://commonpaper.com">https://commonpaper.com</a>). We
+              provide standard, open-source contracts and a platform for getting
+              them signed quickly. See
+              <a href="https://youtu.be/f7maIapJpU4"
+                >https://youtu.be/f7maIapJpU4</a
+              >
+              for an overview, and
+              <a href="https://youtu.be/A1PWjWiheFk"
+                >https://youtu.be/A1PWjWiheFk</a
+              >
+              for a demo of sending and signing a contract.
+              <p>
+                I (Jake) was a co-founder of two B2B SaaS companies, RJMetrics
+                (where Ben and I met), and Stitch. Everything about contracts
+                was frustrating, both at those startups and the larger companies
+                that acquired us.
+              </p>
+              <p>
+                Way too often, the contracting process with a customer got
+                adversarial—arguing over whose template to use, emailing Word
+                docs back and forth, huge legal fees, and unpredictable delays
+                that made it hard to know if a deal would ever close. Then, when
+                we finally got the customer to sign, we had to keep track of all
+                of the promises embedded in the contract. This is difficult when
+                you have hundreds of customers and contract PDFs full of
+                unstructured text.
+              </p>
+              <p>
+                The breaking point came when one of our customers was acquired
+                by Oracle. They wanted to keep using our product, but had to
+                move from our original contract to the one that Oracle uses. In
+                exchange for this, they were willing to increase the price they
+                were paying from $6,000 to $24,000 per year.
+              </p>
+              <p>
+                It took us 9 months to get the new contract in place, just to
+                enable them to keep using the product. We spent more on
+                attorneys than we gained from the upsell. And there was
+                basically nothing we could do to improve that process as a
+                single company operating in a system where standards don’t
+                exist.
+              </p>
+              <p>
+                Contrast that to the standardization that the SAFE, or Simple
+                Agreement for Future Equity, brought to seed investments, and
+                the potential is obvious. (Past discussion of the SAFE at
+                <a href="https://news.ycombinator.com/item?id=33639191"
+                  >https://news.ycombinator.com/item?id=33639191</a
+                >)
+              </p>
+              <p>
+                If you’re a startup raising money on a SAFE, the process is
+                simple, whether you’re raising $10k from an angel or $1M from a
+                VC. Everyone already uses, or at least is familiar with, the
+                same basic contract. There are a few variables that change on a
+                deal-by-deal basis, but the transactions are vastly more
+                efficient because everyone is on the same standard contract.
+              </p>
+              <p>
+                If you start with standard contracts, you can build very
+                different software to manage them compared to traditional
+                contracts. Our business model is to provide the standard
+                contracts for free and charge money from companies who use our
+                software to sell to their customers (more on this below).
+              </p>
+              <p>
+                The standard contracts we create are all related to buying and
+                selling B2B software. This includes a non-disclosure agreement,
+                (<a href="https://commonpaper.com/standards/mutual-nda/"
+                  >https://commonpaper.com/standards/mutual-nda/</a
+                >), sales contract (<a
+                  href="https://commonpaper.com/standards/cloud-service-agreement/"
+                  >https://commonpaper.com/standards/cloud-service-agreement/</a
+                >), SLA, DPA, ToS, etc. The full list is at
+                <a href="https://commonpaper.com/standards/"
+                  >https://commonpaper.com/standards/</a
+                >.
+              </p>
+              <p>
+                The process for creating and revising the contracts is modeled
+                after an open-source software project, and they are released for
+                free (as in both speech and beer) under the Creative Commons CC
+                BY 4.0 license.
+              </p>
+              <p>
+                We have a committee of 40+ attorneys from tech companies and law
+                firms who are analogous to code contributors (<a
+                  href="https://commonpaper.com/committee"
+                  >https://commonpaper.com/committee</a
+                >). An attorney on our team, who you can think about like a
+                maintainer, collects all of their feedback and synthesizes it
+                into a version for release (eg the Design Partner Agreement
+                v1.0). We post the agreements as DOCX, PDF, and HTML on our
+                website and host markdown on Github.
+              </p>
+              <p>
+                Most of the usage of the agreements happens outside of our
+                platform, and we don’t have any visibility into that unless
+                people choose to tell us. However, we do know that thousands of
+                companies have signed the agreements, and millions of dollars
+                worth of deals have been closed on them.
+              </p>
+              <p>
+                Each agreement is split into two sections: the standard terms,
+                which are the same across all instances, and a cover page, with
+                variables that can be customized for a particular company and
+                deal. The latter is basically a schema for each agreement type,
+                and that leads to the fundamental trade-off in how we build our
+                software. We have less flexibility around types of contracts
+                (because we’re focused on the standard agreements, not arbitrary
+                DOCX files), but in exchange, every agreement type has a
+                consistent data model, which means that we can build
+                integrations and features that work across all customers. This
+                gain is huge.
+              </p>
+              <p>
+                For example, we can use the data in the fees section of our
+                standard Cloud Service Agreement to automatically generate
+                invoices and subscriptions using Stripe. Similarly, it’s trivial
+                to use our API (<a href="https://api.commonpaper.com/docs"
+                  >https://api.commonpaper.com/docs</a
+                >) to check if an active NDA is in place before sharing
+                confidential information or to keep a spreadsheet up to date
+                with the SLA obligations for different customers.
+              </p>
+              <p>
+                Traditional contract management tools are built around adding
+                electronic signatures to documents full of unstructured text
+                and/or creating a custom data model from a particular company’s
+                bespoke contract. There’s no way they can offer features like
+                this without a custom project for each particular contract. It’s
+                basically the difference between custom software and a software
+                product.
+              </p>
+              <p>
+                Part of our feature set overlaps with the traditional tools. We
+                can do things like send a contract to the other side, propose
+                changes, approve, and sign. But our negotiation model is
+                different in that it encourages both sides to keep changes
+                narrowly scoped to the variables in the cover page. That makes
+                it faster both to propose the changes and for each side to
+                understand, and accept or reject, the changes proposed by their
+                counterparty.
+              </p>
+              <p>
+                We believe that, just as with SAFEs in the investment world, the
+                potential efficiency gains and positive side effects of this
+                model are so big that the transition is inevitable. We’d love
+                for you all to try it out and let us know your feedback and
+                suggestions. The agreements are free forever, and our software
+                is free as well until you use it to close deals with 5
+                customers.
+                <a href="https://commonpaper.com/product/"
+                  >https://commonpaper.com/product/</a
+                >.
+              </p>
+              <p>
+                We’re interested to hear about any experiences you’ve had with
+                contracts and how you’ve worked with them. We look forward to
+                your comments!
+              </p>
+            </div>
+          </section>
         </section>
         <section id="36043716">
           <h3>
@@ -150,11 +325,11 @@
             <h4>
               <span>2023-05-23 @ 13:08:53</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043716"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -172,11 +347,11 @@
             <h4>
               <span>2023-05-23 @ 12:38:45</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043398"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -194,11 +369,11 @@
             <h4>
               <span>2023-05-23 @ 12:36:11</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043377"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -208,19 +383,19 @@
             <a
               class="item"
               href="https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/"
-              >Meta sells Giphy to Shutterstock for $53M after buying it for
-              $400M</a
+              >Following UK antitrust order, Meta sells Giphy to Shutterstock
+              for $53M</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-05-23 @ 12:29:03</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043327"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -238,11 +413,11 @@
             <h4>
               <span>2023-05-23 @ 12:28:39</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043322"
                   >Comments</a
-                ><span class="descendants">: 36</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -259,11 +434,11 @@
             <h4>
               <span>2023-05-23 @ 12:25:27</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043287"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -293,11 +468,11 @@
             <h4>
               <span>2023-05-23 @ 11:58:52</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043066"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -314,11 +489,11 @@
             <h4>
               <span>2023-05-23 @ 11:58:04</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043060"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -335,11 +510,11 @@
             <h4>
               <span>2023-05-23 @ 11:22:51</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36042732"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -356,11 +531,11 @@
             <h4>
               <span>2023-05-23 @ 10:24:44</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36042213"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -377,11 +552,11 @@
             <h4>
               <span>2023-05-23 @ 10:11:52</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36042126"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -396,11 +571,11 @@
             <h4>
               <span>2023-05-23 @ 08:16:18</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36041432"
                   >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -417,11 +592,11 @@
             <h4>
               <span>2023-05-23 @ 07:26:53</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36041059"
                   >Comments</a
-                ><span class="descendants">: 85</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -438,11 +613,11 @@
             <h4>
               <span>2023-05-23 @ 02:51:13</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36039232"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -458,11 +633,11 @@
             <h4>
               <span>2023-05-23 @ 02:03:51</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36038945"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -477,11 +652,11 @@
             <h4>
               <span>2023-05-23 @ 01:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">293</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36038868"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -496,7 +671,7 @@
             <h4>
               <span>2023-05-23 @ 01:40:55</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36038815"
                   >Comments</a
@@ -518,11 +693,11 @@
             <h4>
               <span>2023-05-23 @ 01:38:01</span
               ><span class="points-container"
-                >Points: <span class="points">345</span></span
+                >Points: <span class="points">373</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36038796"
                   >Comments</a
-                ><span class="descendants">: 527</span></span
+                ><span class="descendants">: 565</span></span
               >
             </h4>
           </section>
@@ -538,11 +713,11 @@
             <h4>
               <span>2023-05-22 @ 17:46:44</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36034409"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -557,11 +732,11 @@
             <h4>
               <span>2023-05-22 @ 06:51:58</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36028244"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -578,11 +753,11 @@
             <h4>
               <span>2023-05-21 @ 22:22:14</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36025180"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -597,7 +772,7 @@
             <h4>
               <span>2023-05-21 @ 18:55:51</span
               ><span class="points-container"
-                >Points: <span class="points">2</span></span
+                >Points: <span class="points">4</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36023740"
                   >Comments</a
@@ -617,11 +792,11 @@
             <h4>
               <span>2023-05-21 @ 18:50:21</span
               ><span class="points-container"
-                >Points: <span class="points">189</span></span
+                >Points: <span class="points">207</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36023706"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -638,11 +813,11 @@
             <h4>
               <span>2023-05-21 @ 18:31:28</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36023557"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -659,11 +834,11 @@
             <h4>
               <span>2023-05-21 @ 18:22:27</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36023463"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -680,11 +855,11 @@
             <h4>
               <span>2023-05-21 @ 17:58:17</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36023267"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -699,11 +874,11 @@
             <h4>
               <span>2023-05-21 @ 16:54:20</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36022731"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -721,11 +896,11 @@
             <h4>
               <span>2023-05-21 @ 13:23:54</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36020612"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
