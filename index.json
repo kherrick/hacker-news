@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-05-23, 17:19:06",
+      "https://news.ycombinator.com/item?id=36047524"
+    ],
+    [
+      "Nginx 1.25.0: experimental HTTP&#x2F;3 support",
+      "http://nginx.org/en/CHANGES"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 17:09:14",
       "https://news.ycombinator.com/item?id=36047359"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2023-05-23, 16:55:34",
-      "https://news.ycombinator.com/item?id=36047114"
+      "2023-05-23, 16:56:49",
+      "https://news.ycombinator.com/item?id=36047143"
     ],
     [
-      "Show HN: Cosmic – Headless CMS and API toolkit v2.0",
-      "https://news.ycombinator.com/item?id=36047114"
+      "Show HN: I&#x27;m open sourcing Harmonic, the Android Hacker News client",
+      "https://github.com/SimonHalvdansson/Harmonic-HN"
     ]
   ],
   [
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36046830"
     ],
     [
-      "The Damage to Lunar Orbiting Spacecraft Caused by the Ejecta of Lunar Landers",
+      "The damage to lunar orbiting spacecraft caused by the ejecta of lunar landers",
       "https://arxiv.org/abs/2305.12234"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Removing PGP from PyPI",
       "https://blog.pypi.org/posts/2023-05-23-removing-pgp/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 13:56:51",
-      "https://news.ycombinator.com/item?id=36044362"
-    ],
-    [
-      "Elephants may be domesticating themselves",
-      "https://www.science.org/content/article/elephants-may-be-domesticating-themselves"
     ]
   ],
   [
