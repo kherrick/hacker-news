@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 21:08:12](https://news.ycombinator.com/item?id=36050884) - [Who Pays the Price When Cochlear Implants Go Obsolete?](https://www.sapiens.org/culture/planned-obsolescence-cochlear-implants/)
 * [2023-05-23, 21:02:18](https://news.ycombinator.com/item?id=36050830) - [Aptible (YC S14) Is Hiring: Security Engineer and Head of Product](https://news.ycombinator.com/item?id=36050830)
 * [2023-05-23, 19:22:06](https://news.ycombinator.com/item?id=36049467) - [Using anti-requirements to find system boundaries](https://particular.net/blog/antirequirements)
 * [2023-05-23, 19:19:13](https://news.ycombinator.com/item?id=36049404) - [Heat Wave and Blackout Would Send Half of Phoenix to E.R., Study Says](https://www.nytimes.com/2023/05/23/climate/blackout-heat-wave-danger.html)
