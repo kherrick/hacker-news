@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:28:10](https://news.ycombinator.com/item?id=36044829) - [EU rules allowing “exceptional” use of spyware against journalists](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
 * [2023-05-23, 14:21:33](https://news.ycombinator.com/item?id=36044744) - [Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street](https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling)
 * [2023-05-23, 14:18:10](https://news.ycombinator.com/item?id=36044691) - [Show HN: GS-Calc – a spreadsheet with 12M rows](https://citadel5.com/gs-calc.htm)

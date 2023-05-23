@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:28:10](https://news.ycombinator.com/item?id=36044829) - [EU rules allowing “exceptional” use of spyware against journalists](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
 * [2023-05-23, 14:21:33](https://news.ycombinator.com/item?id=36044744) - [Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street](https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling)
 * [2023-05-23, 14:18:10](https://news.ycombinator.com/item?id=36044691) - [Show HN: GS-Calc – a spreadsheet with 12M rows](https://citadel5.com/gs-calc.htm)
@@ -15,7 +16,6 @@
 * [2023-05-23, 12:29:03](https://news.ycombinator.com/item?id=36043327) - [Following UK antitrust order, Meta sells Giphy to Shutterstock for $53M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
 * [2023-05-23, 12:28:39](https://news.ycombinator.com/item?id=36043322) - [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
 * [2023-05-23, 12:01:05](https://news.ycombinator.com/item?id=36043086) - [Tesorio (YC S15) Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
-* [2023-05-23, 11:58:52](https://news.ycombinator.com/item?id=36043066) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 * [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 10:11:52](https://news.ycombinator.com/item?id=36042126) - [Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
@@ -25,9 +25,9 @@
 * [2023-05-23, 01:50:00](https://news.ycombinator.com/item?id=36038868) - [RWKV: Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048)
 * [2023-05-23, 01:40:55](https://news.ycombinator.com/item?id=36038815) - [Show HN: DB-GPT, an LLM tool for database](https://github.com/csunny/DB-GPT)
 * [2023-05-23, 01:38:01](https://news.ycombinator.com/item?id=36038796) - [Why do recipe writers lie about how long it takes to caramelize onions? (2012)](https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html)
-* [2023-05-22, 06:51:58](https://news.ycombinator.com/item?id=36028244) - [Source code for Glider Pro (1994)](https://github.com/softdorothy/GliderPRO)
 * [2023-05-21, 18:55:51](https://news.ycombinator.com/item?id=36023740) - [ZX-Calculus Simulator in the Browser](https://qirella.geosearchef.de)
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
+* [2023-05-21, 17:58:17](https://news.ycombinator.com/item?id=36023267) - [A semester of Haskell-language-server: an internship report](https://www.tweag.io/blog/2023-01-31-hls-internship-report/)
 * [2023-05-21, 16:54:20](https://news.ycombinator.com/item?id=36022731) - [Ithkuil, the Most Complicated Language](https://en.wikipedia.org/wiki/Ithkuil)
 * [2023-05-21, 13:30:58](https://news.ycombinator.com/item?id=36020670) - [Quaternions, Interpolation and Animation [pdf]](https://web.mit.edu/2.998/www/QuaternionReport1.pdf)
 
