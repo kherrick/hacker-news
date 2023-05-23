@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 17:09:14](https://news.ycombinator.com/item?id=36047359) - [Nintendo updates 3DS to block Bannerbomb3 despite eShop discontinuation](https://www.3dbrew.org/wiki/11.17.0-50)
 * [2023-05-23, 17:00:11](https://news.ycombinator.com/item?id=36047209) - [Santé (YC S23) Is Hiring – Building a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Beng31R-founding-engineer-full-stack)
 * [2023-05-23, 16:49:30](https://news.ycombinator.com/item?id=36046999) - [Social Media and Youth Mental Health](https://www.hhs.gov/surgeongeneral/priorities/youth-mental-health/social-media/index.html)
 * [2023-05-23, 16:39:21](https://news.ycombinator.com/item?id=36046830) - [The Damage to Lunar Orbiting Spacecraft Caused by the Ejecta of Lunar Landers](https://arxiv.org/abs/2305.12234)
+* [2023-05-23, 16:31:08](https://news.ycombinator.com/item?id=36046662) - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 * [2023-05-23, 16:04:31](https://news.ycombinator.com/item?id=36046293) - [I Block Ads](https://coryd.dev/posts/2023/i-block-ads/)
 * [2023-05-23, 15:59:13](https://news.ycombinator.com/item?id=36046222) - [Podman Desktop 1.0](https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available)
 * [2023-05-23, 15:41:14](https://news.ycombinator.com/item?id=36045938) - [ROS 2 Iron Irwini Release](https://www.openrobotics.org/blog/2023/5/23/ros-2-iron-irwini-released)
