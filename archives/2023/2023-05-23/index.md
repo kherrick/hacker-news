@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
+* [2023-05-23, 15:25:19](https://news.ycombinator.com/item?id=36045671) - [Congress wants AM radio in all new cars–trade groups say that’s a mistake](https://arstechnica.com/cars/2023/05/ev-advocates-join-tech-groups-and-automakers-to-oppose-am-radio-mandate/)
 * [2023-05-23, 14:42:43](https://news.ycombinator.com/item?id=36045027) - [Google Bans ‘Downloader’ App: TV Outfits Claim Browser Violates Injunction](https://torrentfreak.com/google-bans-downloader-app-tv-outfits-claim-browser-violates-injunction-230523/)
 * [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:28:10](https://news.ycombinator.com/item?id=36044829) - [EU rules allowing “exceptional” use of spyware against journalists](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)

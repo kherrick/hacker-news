@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-23, 14:42:43](https://news.ycombinator.com/item?id=36045027) - [Google Bans ‘Downloader’ App: TV Outfits Claim Browser Violates Injunction](https://torrentfreak.com/google-bans-downloader-app-tv-outfits-claim-browser-violates-injunction-230523/)
+* [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
+* [2023-05-23, 15:25:19](https://news.ycombinator.com/item?id=36045671) - [Congress wants AM radio in all new cars–trade groups say that’s a mistake](https://arstechnica.com/cars/2023/05/ev-advocates-join-tech-groups-and-automakers-to-oppose-am-radio-mandate/)
 * [2023-05-23, 14:39:15](https://news.ycombinator.com/item?id=36044977) - [Apple Announces Multibillion Deal with Broadcom to Make Components in the USA](https://www.macrumors.com/2023/05/23/apple-announces-deal-to-make-components-in-the-usa/)
 * [2023-05-23, 14:28:10](https://news.ycombinator.com/item?id=36044829) - [EU rules allowing use of spyware against journalists need “fine-tuning”](https://www.statewatch.org/news/2023/may/eu-rules-allowing-exceptional-use-of-spyware-against-journalists-need-fine-tuning/)
 * [2023-05-23, 14:21:33](https://news.ycombinator.com/item?id=36044744) - [Almost 200k Job Cuts in Tech Pushes New Grads to Wall Street](https://www.bloomberg.com/news/articles/2023-05-23/how-to-get-a-job-in-2023-young-workers-eye-finance-with-tech-struggling)
@@ -20,7 +21,6 @@
 * [2023-05-23, 11:58:52](https://news.ycombinator.com/item?id=36043066) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 * [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets” (2014)](https://metalintheory.com/metallica-master-of-puppets/)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [The AARD Code and DR DOS (2021)](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
-* [2023-05-23, 10:11:52](https://news.ycombinator.com/item?id=36042126) - [Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)
 * [2023-05-23, 08:16:18](https://news.ycombinator.com/item?id=36041432) - [Ableton Push 3](https://www.ableton.com/en/push/)
 * [2023-05-23, 07:26:53](https://news.ycombinator.com/item?id=36041059) - [FBI misused surveillance powers more than 280k times in a year](https://www.theregister.com/2023/05/22/fbi_fisa_abuse/)
 * [2023-05-23, 02:04:56](https://news.ycombinator.com/item?id=36038950) - [SimCity 4, the greatest citybuilder of all time, was released 20 years ago](https://www.rockpapershotgun.com/simcity-4-the-greatest-citybuilder-of-all-time-was-released-20-years-ago)
