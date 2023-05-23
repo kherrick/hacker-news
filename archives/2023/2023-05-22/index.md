@@ -14,6 +14,7 @@
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 19:31:47](https://news.ycombinator.com/item?id=36035641) - [Leaked government document shows Spain wants to ban end-to-end encryption](https://www.wired.com/story/europe-break-encryption-leaked-document-csa-law/)
 * [2023-05-22, 19:26:52](https://news.ycombinator.com/item?id=36035587) - [Disney and the Great Streaming Purge](https://puck.news/disney-and-the-great-streaming-purge/)
+* [2023-05-22, 19:20:57](https://news.ycombinator.com/item?id=36035519) - [The Alien-Life Summit (2013)](https://slate.com/technology/2013/09/green-bank-conference-seti-frank-drakes-equation-for-estimating-the-extraterrestrial-life.html)
 * [2023-05-22, 19:15:30](https://news.ycombinator.com/item?id=36035461) - [Once a fringe theory, “greedflation” gets its due](https://www.axios.com/2023/05/18/once-a-fringe-theory-greedflation-gets-its-due)
 * [2023-05-22, 18:28:40](https://news.ycombinator.com/item?id=36034929) - [Modern work requires attention – constant alerts steal it](https://stackoverflow.blog/2023/05/22/modern-work-requires-attention-constant-alerts-steal-it/)
 * [2023-05-22, 18:23:25](https://news.ycombinator.com/item?id=36034855) - [What It Was Like to Live Inside Habitat 67](https://www.architecturaldigest.com/story/what-it-was-like-to-live-inside-habitat-67)
