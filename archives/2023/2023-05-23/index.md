@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 12:29:03](https://news.ycombinator.com/item?id=36043327) - [Meta sells Giphy to Shutterstock for $53M after buying it for $400M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
 * [2023-05-23, 12:01:05](https://news.ycombinator.com/item?id=36043086) - [Tesorio (YC S15) Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
+* [2023-05-23, 11:58:52](https://news.ycombinator.com/item?id=36043066) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
+* [2023-05-23, 11:58:04](https://news.ycombinator.com/item?id=36043060) - [AI scanner used in hundreds of US schools misses knives](https://www.bbc.co.uk/news/technology-65342798)
 * [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets”](https://metalintheory.com/metallica-master-of-puppets/)
 * [2023-05-23, 11:10:49](https://news.ycombinator.com/item?id=36042628) - [How to Fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
