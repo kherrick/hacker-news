@@ -29,6 +29,7 @@
 * [2023-05-21, 16:53:36](https://news.ycombinator.com/item?id=36022722) - [The Two-Century Quest to Quantify Our Senses](https://thereader.mitpress.mit.edu/the-two-century-quest-to-quantify-our-senses/)
 * [2023-05-21, 16:51:22](https://news.ycombinator.com/item?id=36022695) - [Recreating RP2040 PIO Interface in an FPGA](https://github.com/lawrie/fpga_pio)
 * [2023-05-21, 16:39:23](https://news.ycombinator.com/item?id=36022598) - [Perfectly Secure Steganography Using Minimum Entropy Coupling](https://arxiv.org/abs/2210.14889)
+* [2023-05-21, 16:38:30](https://news.ycombinator.com/item?id=36022589) - [You Keep Using That Word: Asynchronous and Interprocess Comms](https://www.youtube.com/watch?v=6FOCNf06lqY)
 * [2023-05-21, 16:22:34](https://news.ycombinator.com/item?id=36022460) - [Neural Network Architecture Beyond Width and Depth](https://arxiv.org/abs/2205.09459)
 * [2023-05-21, 16:14:03](https://news.ycombinator.com/item?id=36022373) - [The Demon Core (2016)](https://www.newyorker.com/tech/annals-of-technology/demon-core-the-strange-death-of-louis-slotin)
 * [2023-05-21, 15:43:52](https://news.ycombinator.com/item?id=36022078) - [A Review of the RGB Blaster: No Mod, No Problem](https://nicole.express/2023/that-blasted-rgb.html)

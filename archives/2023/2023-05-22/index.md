@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-22](index.md)
 
+* [2023-05-22, 22:41:31](https://news.ycombinator.com/item?id=36037607) - [Show HN: Aimless.js – the missing js randomness library](https://github.com/ChrisCavs/aimless.js)
 * [2023-05-22, 22:35:47](https://news.ycombinator.com/item?id=36037559) - [Ask HN: Those with success using GPT-4 for programming – what are you doing?](https://news.ycombinator.com/item?id=36037559)
 * [2023-05-22, 22:21:06](https://news.ycombinator.com/item?id=36037419) - [Show HN: Blotter – An interactive, never ending music video](https://www.twitch.tv/blotterstream)
 * [2023-05-22, 22:07:38](https://news.ycombinator.com/item?id=36037308) - [Compromising LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173)
