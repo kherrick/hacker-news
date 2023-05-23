@@ -89,6 +89,7 @@
 * [2023-05-22, 03:23:41](https://news.ycombinator.com/item?id=36027103) - [Louis Remme’s horse race against a steamship for a fortune](http://www.lrgaf.org/journeys/remme.htm)
 * [2023-05-22, 02:30:30](https://news.ycombinator.com/item?id=36026773) - [Solar farms took over the California desert: ‘An oasis has become a dead sea’](https://www.theguardian.com/us-news/2023/may/21/solar-farms-energy-power-california-mojave-desert)
 * [2023-05-22, 02:11:45](https://news.ycombinator.com/item?id=36026662) - [Same Stop: Life after 26 years as a programmer for Apple](https://www.engineersneedart.com/blog/samestop/samestop.html)
+* [2023-05-22, 01:19:05](https://news.ycombinator.com/item?id=36026339) - [Robotic arm made out of glass](https://www.youtube.com/watch?v=g_38fsHe8Ws)
 * [2023-05-22, 01:18:26](https://news.ycombinator.com/item?id=36026331) - [Americans no longer want to move for work](https://www.cbsnews.com/news/moving-for-work-mobilty-record-low-1-6-percent-challenger/)
 * [2023-05-22, 00:59:52](https://news.ycombinator.com/item?id=36026220) - [Deep Sleep May Be the Best Defense Against Alzheimer’s](https://www.wsj.com/articles/deep-sleep-may-be-the-best-defense-against-alzheimers-memory-amlyoid-1524dbd7)
 * [2023-05-22, 00:31:19](https://news.ycombinator.com/item?id=36026038) - [Apple is rewriting Foundation in Swift](https://github.com/apple/swift-foundation)
