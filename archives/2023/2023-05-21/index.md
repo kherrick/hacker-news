@@ -9,6 +9,7 @@
 * [2023-05-21, 22:38:23](https://news.ycombinator.com/item?id=36025288) - [China is calling in loans to dozens of countries from Pakistan to Kenya](https://fortune.com/2023/05/18/china-belt-road-loans-pakistan-sri-lanka-africa-collapse-economic-instability/)
 * [2023-05-21, 22:36:58](https://news.ycombinator.com/item?id=36025278) - [Ask HN: What&#x27;s your favorite software testing framework and why?](https://news.ycombinator.com/item?id=36025278)
 * [2023-05-21, 22:26:05](https://news.ycombinator.com/item?id=36025209) - [LLVM&#x27;s Libc Gets Much Faster memcpy For RISC-V](https://www.phoronix.com/news/LLVM-libc-Faster-memcpy)
+* [2023-05-21, 22:22:14](https://news.ycombinator.com/item?id=36025180) - [The Fight to Protect the Joshua Tree](https://www.wsj.com/articles/the-fight-to-protect-the-joshua-tree-609bc7e9)
 * [2023-05-21, 22:08:35](https://news.ycombinator.com/item?id=36025099) - [Cloud GPU Resources and Pricing](https://fullstackdeeplearning.com/cloud-gpus/)
 * [2023-05-21, 21:36:14](https://news.ycombinator.com/item?id=36024901) - [For chemists, the AI revolution has yet to happen](https://www.nature.com/articles/d41586-023-01612-x)
 * [2023-05-21, 21:33:05](https://news.ycombinator.com/item?id=36024887) - [Noise Is All Around Us–and It’s Affecting You More Than You Think](https://thewalrus.ca/noise-ethics/)
