@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-23, 18:56:55](https://news.ycombinator.com/item?id=36049078) - [Update on Sharing](https://about.netflix.com/en/news/update-on-sharing-may-us)
+* [2023-05-23, 19:16:06](https://news.ycombinator.com/item?id=36049352) - [Correct Horse Battery Staple: Secure Password Generator](https://www.correcthorsebatterystaple.net/index.html)
 * [2023-05-23, 18:01:46](https://news.ycombinator.com/item?id=36048261) - [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
 * [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard is a free and open source Kanban project management software](https://kanboard.org/)
 * [2023-05-23, 17:19:06](https://news.ycombinator.com/item?id=36047524) - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)

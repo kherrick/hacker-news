@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-23](index.md)
 
+* [2023-05-23, 19:16:06](https://news.ycombinator.com/item?id=36049352) - [Correct Horse Battery Staple: Secure Password Generator](https://www.correcthorsebatterystaple.net/index.html)
 * [2023-05-23, 18:56:55](https://news.ycombinator.com/item?id=36049078) - [Update on Sharing](https://about.netflix.com/en/news/update-on-sharing-may-us)
 * [2023-05-23, 18:14:11](https://news.ycombinator.com/item?id=36048464) - [30% of All Rural Hospitals in the US Are at Risk of Closing [pdf]](https://ruralhospitals.chqpr.org/downloads/Rural_Hospitals_at_Risk_of_Closing.pdf)
 * [2023-05-23, 18:01:46](https://news.ycombinator.com/item?id=36048261) - [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
