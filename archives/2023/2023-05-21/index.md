@@ -26,6 +26,7 @@
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
 * [2023-05-21, 18:03:34](https://news.ycombinator.com/item?id=36023306) - [Lehman’s Laws of Software Evolution](https://bartwullems.blogspot.com/2023/05/lehmans-laws-of-software-evolution.html)
 * [2023-05-21, 17:58:33](https://news.ycombinator.com/item?id=36023269) - [Ask HN: Have you used a forward sale to avoid stock transfer restrictions?](https://news.ycombinator.com/item?id=36023269)
+* [2023-05-21, 17:58:17](https://news.ycombinator.com/item?id=36023267) - [A semester of Haskell-language-server: an internship report](https://www.tweag.io/blog/2023-01-31-hls-internship-report/)
 * [2023-05-21, 17:58:08](https://news.ycombinator.com/item?id=36023266) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-05-21, 17:39:26](https://news.ycombinator.com/item?id=36023138) - [Papyrus Oxyrhynchus 69](https://en.wikipedia.org/wiki/Papyrus_Oxyrhynchus_69)
 * [2023-05-21, 17:16:39](https://news.ycombinator.com/item?id=36022948) - [How to Spin Bad News](https://www.pajiba.com/celebrities_are_better_than_you/how-to-spin-bad-news-featuring-jonathan-majors-and-johnny-depp.php)
