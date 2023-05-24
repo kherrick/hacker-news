@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 16:18:37](https://news.ycombinator.com/item?id=36060287) - [“Rewrite It in Rust” Considered Harmful? [pdf]](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
+* [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
 * [2023-05-24, 16:01:21](https://news.ycombinator.com/item?id=36059964) - [Microsoft Puts Co-Pilot on Windows](https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html)
+* [2023-05-24, 15:57:23](https://news.ycombinator.com/item?id=36059901) - [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
+* [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
+* [2023-05-24, 15:37:36](https://news.ycombinator.com/item?id=36059601) - [A college student reached $64k&#x2F;mo in 6 months by being an AI first mover](https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1)
 * [2023-05-24, 15:12:17](https://news.ycombinator.com/item?id=36059247) - [Man Cures Acid Reflux By Eating Upside-Down](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2023-05-24, 15:06:45](https://news.ycombinator.com/item?id=36059178) - [A Student-Loan Payment Pause Led Borrowers to Take on More Debt](https://marginalrevolution.com/marginalrevolution/2023/05/the-student-loan-payment-pause-led-borrowers-to-take-on-more-debt.html)
 * [2023-05-24, 14:38:56](https://news.ycombinator.com/item?id=36058771) - [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
+* [2023-05-24, 14:37:39](https://news.ycombinator.com/item?id=36058754) - [Breaking SHA256: length extension attacks in practice](https://kerkour.com/sha256-length-extension-attacks)
 * [2023-05-24, 14:35:13](https://news.ycombinator.com/item?id=36058728) - [Build a serverless Discord bot with OpenFaaS and Golang](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)
 * [2023-05-24, 14:33:07](https://news.ycombinator.com/item?id=36058695) - [VanillaNet: The Power of Minimalism in Deep Learning](https://arxiv.org/abs/2305.12972)
 * [2023-05-24, 14:27:17](https://news.ycombinator.com/item?id=36058598) - [Kubernetes Enthusiasts: Share Your Ideas for Future Dev Tools](https://news.ycombinator.com/item?id=36058598)
