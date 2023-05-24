@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-24, 14:38:56",
+      "https://news.ycombinator.com/item?id=36058771"
+    ],
+    [
+      "SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest",
+      "https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 14:35:13",
+      "https://news.ycombinator.com/item?id=36058728"
+    ],
+    [
+      "Build a serverless Discord bot with OpenFaaS and Golang",
+      "https://www.openfaas.com/blog/build-a-serverless-discord-bot/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 14:27:17",
       "https://news.ycombinator.com/item?id=36058598"
     ],
@@ -27,16 +47,6 @@
     [
       "Terminal app built over WebGPU, WebAssembly and Rust",
       "https://github.com/raphamorim/rio"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 13:24:03",
-      "https://news.ycombinator.com/item?id=36057675"
-    ],
-    [
-      "Hypersonic missiles are just misunderstood",
-      "https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0"
     ]
   ],
   [
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-05-24, 12:34:48",
-      "https://news.ycombinator.com/item?id=36057132"
-    ],
-    [
-      "Meta has started its latest round of layoffs, focusing on business groups",
-      "https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 12:29:08",
       "https://news.ycombinator.com/item?id=36057074"
     ],
@@ -107,6 +107,16 @@
     [
       "European Commission Calls for Pirate Site Blocking Around the Globe",
       "https://torrentfreak.com/european-commission-calls-for-pirate-site-blocking-around-the-globe-230524/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 12:27:29",
+      "https://news.ycombinator.com/item?id=36057052"
+    ],
+    [
+      "Ice loss from Greenland and Antarctica hits new record",
+      "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Ice_loss_from_Greenland_and_Antarctica_hits_new_record"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Regent – Electric coastal travel",
       "https://www.regentcraft.com/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 17:39:12",
-      "https://news.ycombinator.com/item?id=36047861"
-    ],
-    [
-      "Kanboard: free and open source Kanban project management software",
-      "https://kanboard.org/"
     ]
   ],
   [
