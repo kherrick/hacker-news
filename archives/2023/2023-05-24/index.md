@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 15:06:45](https://news.ycombinator.com/item?id=36059178) - [A Student-Loan Payment Pause Led Borrowers to Take on More Debt](https://marginalrevolution.com/marginalrevolution/2023/05/the-student-loan-payment-pause-led-borrowers-to-take-on-more-debt.html)
 * [2023-05-24, 14:38:56](https://news.ycombinator.com/item?id=36058771) - [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
 * [2023-05-24, 14:35:13](https://news.ycombinator.com/item?id=36058728) - [Build a serverless Discord bot with OpenFaaS and Golang](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)
 * [2023-05-24, 14:27:17](https://news.ycombinator.com/item?id=36058598) - [Kubernetes Enthusiasts: Share Your Ideas for Future Dev Tools](https://news.ycombinator.com/item?id=36058598)
