@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 16:01:21](https://news.ycombinator.com/item?id=36059964) - [Microsoft Puts Co-Pilot on Windows](https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html)
 * [2023-05-24, 15:12:17](https://news.ycombinator.com/item?id=36059247) - [Man Cures Acid Reflux By Eating Upside-Down](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2023-05-24, 15:06:45](https://news.ycombinator.com/item?id=36059178) - [A Student-Loan Payment Pause Led Borrowers to Take on More Debt](https://marginalrevolution.com/marginalrevolution/2023/05/the-student-loan-payment-pause-led-borrowers-to-take-on-more-debt.html)
 * [2023-05-24, 14:38:56](https://news.ycombinator.com/item?id=36058771) - [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
@@ -11,6 +12,7 @@
 * [2023-05-24, 14:33:07](https://news.ycombinator.com/item?id=36058695) - [VanillaNet: The Power of Minimalism in Deep Learning](https://arxiv.org/abs/2305.12972)
 * [2023-05-24, 14:27:17](https://news.ycombinator.com/item?id=36058598) - [Kubernetes Enthusiasts: Share Your Ideas for Future Dev Tools](https://news.ycombinator.com/item?id=36058598)
 * [2023-05-24, 14:14:50](https://news.ycombinator.com/item?id=36058382) - [How Doctors buy their way out of trouble](https://www.reuters.com/investigates/special-report/usa-healthcare-settlements/)
+* [2023-05-24, 14:14:16](https://news.ycombinator.com/item?id=36058374) - [Ask HN: What is your proudest little invention or discovery?](https://news.ycombinator.com/item?id=36058374)
 * [2023-05-24, 13:40:44](https://news.ycombinator.com/item?id=36057911) - [Lenovo profits sink 75% as PC demand continues nosedive](https://www.theregister.com/2023/05/24/lenovo_q4_2023_profit_sales_crash/)
 * [2023-05-24, 13:39:36](https://news.ycombinator.com/item?id=36057889) - [Finland&#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
 * [2023-05-24, 13:25:13](https://news.ycombinator.com/item?id=36057687) - [Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
