@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-05-24, 18:44:38",
-      "https://news.ycombinator.com/item?id=36062369"
+      "2023-05-24, 19:19:56",
+      "https://news.ycombinator.com/item?id=36062763"
     ],
     [
-      "Tina Turner has died",
-      "https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-dies-illness-b2345195.html"
+      "World of Goo Remastered",
+      "https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US"
     ]
   ],
   [
@@ -71,12 +71,32 @@
   ],
   [
     [
+      "2023-05-24, 16:18:37",
+      "https://news.ycombinator.com/item?id=36060287"
+    ],
+    [
+      "“Rewrite It in Rust” Considered Harmful? (2017) [pdf]",
+      "https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 15:55:57",
       "https://news.ycombinator.com/item?id=36059878"
     ],
     [
       "DeviceScript: TypeScript for Tiny IoT Devices",
       "https://microsoft.github.io/devicescript/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 15:49:52",
+      "https://news.ycombinator.com/item?id=36059774"
+    ],
+    [
+      "Power series, power serious: Talk by Doug McIlroy (2007) [video]",
+      "https://www.microsoft.com/en-us/research/video/power-series-power-serious/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "NASA has funded a bunch of early stage technologies",
       "https://orbitalindex.com/archive/2023-05-24-Issue-219/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 14:38:37",
-      "https://news.ycombinator.com/item?id=36058767"
-    ],
-    [
-      "A warmer planet, less nutritious plants and fewer grasshoppers?",
-      "https://worldsensorium.com/a-warmer-planet-less-nutritious-plants-and-fewer-grasshoppers/"
     ]
   ],
   [
@@ -167,6 +177,16 @@
     [
       "Rio: Terminal app built over WebGPU, WebAssembly and Rust",
       "https://github.com/raphamorim/rio"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 13:24:03",
+      "https://news.ycombinator.com/item?id=36057675"
+    ],
+    [
+      "Hypersonic missiles are misunderstood",
+      "https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Tokyo’s trash-collecting samurai takes a fun approach to cleanup",
       "https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 13:06:12",
-      "https://news.ycombinator.com/item?id=36030945"
-    ],
-    [
-      "New study suggests Joro spiders are shy",
-      "https://phys.org/news/2023-05-massive-joro-spiders-gentle-giants.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 07:25:42",
-      "https://news.ycombinator.com/item?id=36028410"
-    ],
-    [
-      "Choosing a Name for Your Computer (1990)",
-      "https://www.rfc-editor.org/rfc/rfc1178"
     ]
   ]
 ]
