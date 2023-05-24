@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 23:02:24](https://news.ycombinator.com/item?id=36064961) - [Minix development has been abandoned, with no updates in almost 5 years](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
+* [2023-05-24, 22:29:31](https://news.ycombinator.com/item?id=36064664) - [High-Quality Video Reconstruction from Brain Activity](https://arxiv.org/abs/2305.11675)
 * [2023-05-24, 22:19:39](https://news.ycombinator.com/item?id=36064568) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+* [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
 * [2023-05-24, 21:50:00](https://news.ycombinator.com/item?id=36064305) - [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
 * [2023-05-24, 21:17:09](https://news.ycombinator.com/item?id=36063979) - [Sony confirms its working on a new Playstation portable, codenamed Project Q](https://overkill.wtf/sony-new-playstation-portable-q-lite/)
 * [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
@@ -67,6 +70,7 @@
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The Strange Story of the Teens Behind the Mirai Botnet](https://spectrum.ieee.org/mirai-botnet)
 * [2023-05-24, 10:43:29](https://news.ycombinator.com/item?id=36056176) - [M.U.L.E. 40th Anniversary Special](https://www.carpeludum.com/m-u-l-e-40th-anniversary-special/)
 * [2023-05-24, 10:14:31](https://news.ycombinator.com/item?id=36055986) - [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
+* [2023-05-24, 10:02:47](https://news.ycombinator.com/item?id=36055902) - [They Won&#x27;t Play a Lady-O on Country Radio](https://pudding.cool/2023/05/country-radio/)
 * [2023-05-24, 09:50:01](https://news.ycombinator.com/item?id=36055826) - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
 * [2023-05-24, 08:17:23](https://news.ycombinator.com/item?id=36055360) - [Hypergamy: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
 * [2023-05-24, 07:25:47](https://news.ycombinator.com/item?id=36055093) - [The Structure of Scientific Revolutions [pdf]](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf)
