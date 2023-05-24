@@ -18,6 +18,7 @@
 * [2023-05-24, 16:01:21](https://news.ycombinator.com/item?id=36059964) - [Microsoft Puts Co-Pilot on Windows](https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html)
 * [2023-05-24, 15:57:23](https://news.ycombinator.com/item?id=36059901) - [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
 * [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
+* [2023-05-24, 15:49:52](https://news.ycombinator.com/item?id=36059774) - [Power series, power serious: Talk by Doug McIlroy (2007) [video]](https://www.microsoft.com/en-us/research/video/power-series-power-serious/)
 * [2023-05-24, 15:37:36](https://news.ycombinator.com/item?id=36059601) - [A college student reached $64k&#x2F;mo in 6 months by being an AI first mover](https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1)
 * [2023-05-24, 15:26:00](https://news.ycombinator.com/item?id=36059429) - [Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
 * [2023-05-24, 15:12:17](https://news.ycombinator.com/item?id=36059247) - [Man Cures Acid Reflux By Eating Upside-Down](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
