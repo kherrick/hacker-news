@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-05-24, 17:22:45",
+      "https://news.ycombinator.com/item?id=36061326"
+    ],
+    [
+      "PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico",
+      "https://github.com/polpo/picogus"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 17:01:24",
       "https://news.ycombinator.com/item?id=36060983"
     ],
@@ -155,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36057687"
     ],
     [
-      "Terminal app built over WebGPU, WebAssembly and Rust",
+      "Rio: Terminal app built over WebGPU, WebAssembly and Rust",
       "https://github.com/raphamorim/rio"
     ]
   ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-05-24, 12:27:29",
-      "https://news.ycombinator.com/item?id=36057052"
-    ],
-    [
-      "Ice loss from Greenland and Antarctica hits new record",
-      "https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Ice_loss_from_Greenland_and_Antarctica_hits_new_record"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 12:11:18",
       "https://news.ycombinator.com/item?id=36056907"
     ],
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=36056320"
     ],
     [
-      "The Strange Story of the Teens Behind the Mirai Botnet",
+      "The Teens Behind the Mirai Botnet",
       "https://spectrum.ieee.org/mirai-botnet"
     ]
   ],
