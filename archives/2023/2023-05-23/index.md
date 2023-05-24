@@ -83,6 +83,7 @@
 * [2023-05-23, 06:24:07](https://news.ycombinator.com/item?id=36040612) - [Gis.chat – The Geospatial Community](https://gis.chat)
 * [2023-05-23, 06:03:08](https://news.ycombinator.com/item?id=36040457) - [What&#x27;s up with this new memory_order_consume memory order?](https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
+* [2023-05-23, 05:42:07](https://news.ycombinator.com/item?id=36040312) - [Heat as a Rite of Passage in the Kitchen](https://enthucutlet.com/enthuoriginals/playing-with-fire/trial-by-fire/)
 * [2023-05-23, 05:41:34](https://news.ycombinator.com/item?id=36040307) - [In-Betweeners](https://www.lrb.co.uk/the-paper/v45/n10/malcolm-gaskill/in-betweeners)
 * [2023-05-23, 05:38:18](https://news.ycombinator.com/item?id=36040282) - [r&#x2F;all removals over time](https://i.redd.it/r68fgiisk3sa1.jpg)
 * [2023-05-23, 05:27:20](https://news.ycombinator.com/item?id=36040218) - [Why it can be a good idea to say “Thank You” to ChatGPT](https://www.friendlyskies.net/maybe/why-it-can-be-a-good-idea-to-say-thank-you-to-chatgpt)

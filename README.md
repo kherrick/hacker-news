@@ -21,7 +21,6 @@
 * [2023-05-24, 13:24:03](https://news.ycombinator.com/item?id=36057675) - [Hypersonic missiles are misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD has a one-liner to help speed up Linux system resume time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
 * [2023-05-24, 12:39:28](https://news.ycombinator.com/item?id=36057183) - [Why the original transformer figure is wrong, and some other tidbits about LLMs](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
-* [2023-05-24, 12:29:08](https://news.ycombinator.com/item?id=36057074) - [Show HN: HelpHub – GPT chatbot for any site](https://helphub.commandbar.com)
 * [2023-05-24, 12:11:18](https://news.ycombinator.com/item?id=36056907) - [ChainForge: An open-source visual programming environment for testing prompts](https://github.com/ianarawjo/ChainForge)
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The teens behind the Mirai botnet](https://spectrum.ieee.org/mirai-botnet)
 * [2023-05-24, 10:43:29](https://news.ycombinator.com/item?id=36056176) - [M.U.L.E. 40th Anniversary Special](https://www.carpeludum.com/m-u-l-e-40th-anniversary-special/)
@@ -29,6 +28,7 @@
 * [2023-05-23, 12:19:43](https://news.ycombinator.com/item?id=36043239) - [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)
 * [2023-05-23, 09:23:04](https://news.ycombinator.com/item?id=36041845) - [SR-71 Blackbird Speed Check Story](https://www.thesr71blackbird.com/Aircraft/Stories/sr-71-blackbird-speed-check-story)
 * [2023-05-23, 06:24:07](https://news.ycombinator.com/item?id=36040612) - [Show HN: Gis.chat – a Geospatial Community](https://gis.chat)
+* [2023-05-23, 05:42:07](https://news.ycombinator.com/item?id=36040312) - [Heat as a Rite of Passage in the Kitchen](https://enthucutlet.com/enthuoriginals/playing-with-fire/trial-by-fire/)
 * [2023-05-22, 19:01:34](https://news.ycombinator.com/item?id=36035315) - [Tokyo’s trash-collecting samurai takes a fun approach to cleanup](https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup)
 
 ## [Archives](archives/index.md)
