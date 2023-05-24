@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 07:11:40](https://news.ycombinator.com/item?id=36054997) - [Microsoft enables booting PCs directly into cloud PCs](https://www.theregister.com/2023/05/24/windows_365_boot_preview/)
 * [2023-05-24, 07:11:00](https://news.ycombinator.com/item?id=36054990) - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
@@ -7,6 +8,7 @@
 * [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
 * [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container shipping has cratered, as ship owners try to avoid unprofitable trips](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
+* [2023-05-24, 01:05:15](https://news.ycombinator.com/item?id=36052753) - [Show HN: Honda Civic Infotainment Reverse-Engineering](https://github.com/librick/ic1101)
 * [2023-05-24, 00:55:59](https://news.ycombinator.com/item?id=36052689) - [Popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 * [2023-05-23, 22:50:13](https://news.ycombinator.com/item?id=36051831) - [Regent – Electric coastal travel](https://www.regentcraft.com/)
 * [2023-05-23, 22:34:52](https://news.ycombinator.com/item?id=36051710) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
@@ -18,8 +20,6 @@
 * [2023-05-23, 18:01:46](https://news.ycombinator.com/item?id=36048261) - [Comprehensive Rust: course used by the Android team at Google](https://github.com/google/comprehensive-rust)
 * [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard: free and open source Kanban project management software](https://kanboard.org/)
 * [2023-05-23, 17:19:06](https://news.ycombinator.com/item?id=36047524) - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)
-* [2023-05-23, 16:59:54](https://news.ycombinator.com/item?id=36047202) - [Google open-sources Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html)
-* [2023-05-23, 16:56:49](https://news.ycombinator.com/item?id=36047143) - [Show HN: Open sourcing Harmonic, my Android Hacker News client](https://github.com/SimonHalvdansson/Harmonic-HN)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 12:55:41](https://news.ycombinator.com/item?id=36043552) - [A brief introduction of RF test chambers and ranges](https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
