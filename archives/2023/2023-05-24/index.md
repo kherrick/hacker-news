@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 20:34:58](https://news.ycombinator.com/item?id=36063531) - [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
 * [2023-05-24, 19:57:49](https://news.ycombinator.com/item?id=36063166) - [OpenAI Major Outage](https://status.openai.com/incidents/jbt079x532bg)
 * [2023-05-24, 19:19:56](https://news.ycombinator.com/item?id=36062763) - [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
 * [2023-05-24, 18:44:38](https://news.ycombinator.com/item?id=36062369) - [Tina Turner has died](https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-dies-illness-b2345195.html)
