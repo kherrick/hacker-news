@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
+* [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 * [2023-05-24, 03:29:51](https://news.ycombinator.com/item?id=36053736) - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
 * [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
@@ -29,7 +30,6 @@
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 09:11:02](https://news.ycombinator.com/item?id=36029006) - [Programming with Natural Language Is Going to Work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)
 * [2023-05-21, 18:57:22](https://news.ycombinator.com/item?id=36023751) - [Tech Companies Keep Falling for the Forever Fallacy. Leaders Should Know Better](https://www.inc.com/jason-aten/tech-companies-keep-falling-for-forever-fallacy-why-smart-leaders-should-know-better.html)
-* [2023-05-21, 18:41:35](https://news.ycombinator.com/item?id=36023634) - [Ellison&#x27;s Cave](https://en.wikipedia.org/wiki/Ellison%27s_Cave)
 
 ## [Archives](archives/index.md)
 
