@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
 * [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container Shipping Has Cratered](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
-* [2023-05-24, 01:04:53](https://news.ycombinator.com/item?id=36052751) - [A Housing Bust Comes for Thousands of Small-Time Investors](https://www.wsj.com/articles/a-housing-bust-comes-for-thousands-of-small-time-investors-3934beb3)
 * [2023-05-23, 22:57:18](https://news.ycombinator.com/item?id=36051891) - [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
 * [2023-05-23, 22:50:13](https://news.ycombinator.com/item?id=36051831) - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
 * [2023-05-23, 22:34:52](https://news.ycombinator.com/item?id=36051710) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
@@ -23,12 +23,12 @@
 * [2023-05-23, 14:16:38](https://news.ycombinator.com/item?id=36044663) - [Show HN: File-by-file AI-generated comments for your codebase](https://swiftstart.vercel.app)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+* [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
 * [2023-05-23, 05:03:27](https://news.ycombinator.com/item?id=36040045) - [English in the Real World](https://themillions.com/2023/01/english-in-the-real-world.html)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What number comes next? The On-line Encyclopedia of Integer Sequences knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 13:10:15](https://news.ycombinator.com/item?id=36030979) - [Humanity&#x27;s earliest recorded kiss occurred in Mesopotamia 4,500 years ago](https://phys.org/news/2023-05-humanity-earliest-mesopotamia-years.html)
-* [2023-05-22, 09:43:46](https://news.ycombinator.com/item?id=36029202) - [Safety I vs. Safety II: An overview (2018)](https://safety4sea.com/cm-safety-i-vs-safety-ii-an-overview/)
 * [2023-05-22, 09:11:02](https://news.ycombinator.com/item?id=36029006) - [Programming with Natural Language Is Going to Work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)
 
 ## [Archives](archives/index.md)
