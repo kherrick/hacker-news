@@ -96,6 +96,7 @@
 * [2023-05-23, 01:17:32](https://news.ycombinator.com/item?id=36038684) - [Reddit comments and submissions from 2005-06 to 2022-12 collected by Pushshift](https://academictorrents.com/details/7c0645c94321311bb05bd879ddee4d0eba08aaee)
 * [2023-05-23, 01:13:10](https://news.ycombinator.com/item?id=36038655) - [India pulls highest-denomination notes from circulation](https://www.ft.com/content/45281776-6501-43de-87b1-af1e72ab3225)
 * [2023-05-23, 01:08:34](https://news.ycombinator.com/item?id=36038635) - [MIT students give longtime professor standing ovation after last lecture](https://www.boston.com/news/local-news/2023/05/17/mit-professor-gilbert-strang-retiring-standing-ovation-video/)
+* [2023-05-23, 00:40:03](https://news.ycombinator.com/item?id=36038466) - [Polyphonic Audio Key Finding Using the Spiral Array CEG Algorithm (2005)](https://ieeexplore.ieee.org/document/1521350)
 * [2023-05-23, 00:10:29](https://news.ycombinator.com/item?id=36038321) - [Is 20M of rows still a valid soft limit of MySQL table in 2023?](https://yishenggong.com/2023/05/22/is-20m-of-rows-still-a-valid-soft-limit-of-mysql-table-in-2023/)
 * [2023-05-23, 00:09:14](https://news.ycombinator.com/item?id=36038311) - [CoDi: Any-to-Any Generation via Composable Diffusion](https://codi-gen.github.io/)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What Number Comes Next? The On-Line Encyclopedia of Integer Sequences Knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
