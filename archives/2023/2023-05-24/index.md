@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 22:19:39](https://news.ycombinator.com/item?id=36064568) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 * [2023-05-24, 21:50:00](https://news.ycombinator.com/item?id=36064305) - [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
 * [2023-05-24, 21:17:09](https://news.ycombinator.com/item?id=36063979) - [Sony confirms its working on a new Playstation portable, codenamed Project Q](https://overkill.wtf/sony-new-playstation-portable-q-lite/)
 * [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)

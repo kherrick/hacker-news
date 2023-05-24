@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 22:19:39](https://news.ycombinator.com/item?id=36064568) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 * [2023-05-24, 21:50:00](https://news.ycombinator.com/item?id=36064305) - [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
 * [2023-05-24, 21:17:09](https://news.ycombinator.com/item?id=36063979) - [Sony confirms its working on a new Playstation portable, codenamed Project Q](https://overkill.wtf/sony-new-playstation-portable-q-lite/)
 * [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
@@ -18,7 +19,6 @@
 * [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
 * [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
 * [2023-05-24, 15:26:00](https://news.ycombinator.com/item?id=36059429) - [Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
-* [2023-05-24, 15:12:17](https://news.ycombinator.com/item?id=36059247) - [Simple exercise to eliminate gastroesophageal reflux (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2023-05-24, 14:52:42](https://news.ycombinator.com/item?id=36058966) - [NASA has funded a bunch of early stage technologies](https://orbitalindex.com/archive/2023-05-24-Issue-219/)
 * [2023-05-24, 14:36:14](https://news.ycombinator.com/item?id=36058743) - [Fish Folk – open-source Bevy game](https://github.com/fishfolk/jumpy)
 * [2023-05-24, 13:24:03](https://news.ycombinator.com/item?id=36057675) - [Hypersonic missiles are misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
