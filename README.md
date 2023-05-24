@@ -2,7 +2,6 @@
 
 * [2023-05-24, 20:34:58](https://news.ycombinator.com/item?id=36063531) - [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
 * [2023-05-24, 20:17:07](https://news.ycombinator.com/item?id=36063346) - [Neeva Acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
-* [2023-05-24, 19:57:49](https://news.ycombinator.com/item?id=36063166) - [OpenAI Major Outage](https://status.openai.com/incidents/jbt079x532bg)
 * [2023-05-24, 19:19:56](https://news.ycombinator.com/item?id=36062763) - [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
 * [2023-05-24, 19:03:17](https://news.ycombinator.com/item?id=36062602) - [Kenny Log-Ins](https://www.kennylog-in.com)
 * [2023-05-24, 18:33:13](https://news.ycombinator.com/item?id=36062233) - [Analog Lorenz Attractor Computer.io](https://hackaday.io/project/191142-analog-lorenz-attractor-computer)
@@ -30,6 +29,7 @@
 * [2023-05-23, 09:23:04](https://news.ycombinator.com/item?id=36041845) - [SR-71 Blackbird Speed Check Story](https://www.thesr71blackbird.com/Aircraft/Stories/sr-71-blackbird-speed-check-story)
 * [2023-05-23, 06:24:07](https://news.ycombinator.com/item?id=36040612) - [Show HN: Gis.chat – a Geospatial Community](https://gis.chat)
 * [2023-05-23, 05:42:07](https://news.ycombinator.com/item?id=36040312) - [Heat as a Rite of Passage in the Kitchen](https://enthucutlet.com/enthuoriginals/playing-with-fire/trial-by-fire/)
+* [2023-05-22, 19:01:34](https://news.ycombinator.com/item?id=36035315) - [Tokyo’s trash-collecting samurai takes a fun approach to cleanup](https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup)
 
 ## [Archives](archives/index.md)
 
