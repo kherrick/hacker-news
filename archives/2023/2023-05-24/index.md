@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 19:19:56](https://news.ycombinator.com/item?id=36062763) - [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
 * [2023-05-24, 18:44:38](https://news.ycombinator.com/item?id=36062369) - [Tina Turner has died](https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-dies-illness-b2345195.html)
 * [2023-05-24, 18:33:13](https://news.ycombinator.com/item?id=36062233) - [Analog Lorenz Attractor Computer.io](https://hackaday.io/project/191142-analog-lorenz-attractor-computer)
 * [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
