@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-24, 00:13:01",
+      "https://news.ycombinator.com/item?id=36052411"
+    ],
+    [
+      "Alpaca RLHF-ed to beat ChatGPT",
+      "https://crfm.stanford.edu/2023/05/22/alpaca-farm.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 22:57:18",
+      "https://news.ycombinator.com/item?id=36051891"
+    ],
+    [
+      "Amazon corporate workers plan walkout next week over return-to-office policies",
+      "https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 22:50:13",
       "https://news.ycombinator.com/item?id=36051831"
     ],
@@ -57,26 +77,6 @@
     [
       "Aptible (YC S14) Is Hiring: Security Engineer and Head of Product",
       "https://news.ycombinator.com/item?id=36050830"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 20:58:10",
-      "https://news.ycombinator.com/item?id=36050796"
-    ],
-    [
-      "Not Even a Recession: The Great German Gas Debate in Retrospect [pdf]",
-      "https://www.econtribute.de/RePEc/ajk/ajkpbs/ECONtribute_PB_048_2023_EN.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 19:22:06",
-      "https://news.ycombinator.com/item?id=36049467"
-    ],
-    [
-      "Using anti-requirements to find system boundaries",
-      "https://particular.net/blog/antirequirements"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-05-23, 06:34:43",
-      "https://news.ycombinator.com/item?id=36040678"
-    ],
-    [
-      "The Great Aboveground Empire",
-      "http://ascii.textfiles.com/archives/5528"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 00:07:13",
       "https://news.ycombinator.com/item?id=36038302"
     ],
@@ -297,6 +287,16 @@
     [
       "Programming with Natural Language Is Going to Work (2010)",
       "https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/"
+    ]
+  ],
+  [
+    [
+      "2023-05-21, 18:57:22",
+      "https://news.ycombinator.com/item?id=36023751"
+    ],
+    [
+      "Tech Companies Keep Falling for the Forever Fallacy. Leaders Should Know Better",
+      "https://www.inc.com/jason-aten/tech-companies-keep-falling-for-forever-fallacy-why-smart-leaders-should-know-better.html"
     ]
   ]
 ]
