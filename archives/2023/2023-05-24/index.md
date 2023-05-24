@@ -8,6 +8,7 @@
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 17:01:24](https://news.ycombinator.com/item?id=36060983) - [Aviator (YC S21) is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-05-24, 16:18:37](https://news.ycombinator.com/item?id=36060287) - [“Rewrite It in Rust” Considered Harmful? [pdf]](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
+* [2023-05-24, 16:04:45](https://news.ycombinator.com/item?id=36060031) - [I Didn’t Learn Unix by Reading All the Manpages](https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/)
 * [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
 * [2023-05-24, 16:01:21](https://news.ycombinator.com/item?id=36059964) - [Microsoft Puts Co-Pilot on Windows](https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html)
 * [2023-05-24, 15:57:23](https://news.ycombinator.com/item?id=36059901) - [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
