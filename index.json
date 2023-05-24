@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2023-05-24, 16:02:07",
-      "https://news.ycombinator.com/item?id=36059982"
+      "2023-05-24, 16:04:45",
+      "https://news.ycombinator.com/item?id=36060031"
     ],
     [
-      "Win32 App Isolation",
-      "https://github.com/microsoft/win32-app-isolation"
+      "I Didn’t Learn Unix by Reading All the Manpages",
+      "https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "DeviceScript: TypeScript for Tiny IoT Devices",
       "https://microsoft.github.io/devicescript/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 15:37:36",
-      "https://news.ycombinator.com/item?id=36059601"
-    ],
-    [
-      "A college student reached $64k&#x2F;mo in 6 months by being an AI first mover",
-      "https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "A Warmer Planet, Less Nutritious Plants and Fewer Grasshoppers?",
       "https://worldsensorium.com/a-warmer-planet-less-nutritious-plants-and-fewer-grasshoppers/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 14:37:39",
+      "https://news.ycombinator.com/item?id=36058754"
+    ],
+    [
+      "Breaking SHA256: length extension attacks in practice",
+      "https://kerkour.com/sha256-length-extension-attacks"
     ]
   ],
   [
