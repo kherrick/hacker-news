@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-24, 18:44:38](https://news.ycombinator.com/item?id=36062369) - [Tina Turner has died](https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-dies-illness-b2345195.html)
 * [2023-05-24, 18:33:13](https://news.ycombinator.com/item?id=36062233) - [Analog Lorenz Attractor Computer.io](https://hackaday.io/project/191142-analog-lorenz-attractor-computer)
 * [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
@@ -18,6 +17,7 @@
 * [2023-05-24, 14:25:55](https://news.ycombinator.com/item?id=36058576) - [Building a Raspberry Pi based ultrasound imaging development platform](https://kelu124.gitbooks.io/echomods/content/RPI.html)
 * [2023-05-24, 14:17:49](https://news.ycombinator.com/item?id=36058430) - [Patterns: Exhaustiveness, Unconditionality, and Remainder](https://openjdk.org/projects/amber/design-notes/patterns/exhaustiveness)
 * [2023-05-24, 13:25:13](https://news.ycombinator.com/item?id=36057687) - [Rio: Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
+* [2023-05-24, 13:10:01](https://news.ycombinator.com/item?id=36057497) - [Show HN: Procoto – Self-Service RFP Management](https://procoto.com/)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD has a one-liner to help speed up Linux system resume time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
 * [2023-05-24, 12:39:28](https://news.ycombinator.com/item?id=36057183) - [Why the original transformer figure is wrong, and some other tidbits about LLMs](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
 * [2023-05-24, 12:29:08](https://news.ycombinator.com/item?id=36057074) - [Show HN: HelpHub – GPT chatbot for any site](https://helphub.commandbar.com)

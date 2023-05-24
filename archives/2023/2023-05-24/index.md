@@ -41,6 +41,7 @@
 * [2023-05-24, 13:23:26](https://news.ycombinator.com/item?id=36057667) - [Pump the Brakes on Your Police’s Use of Flock’s [YC2017] Mass Surveillance](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
 * [2023-05-24, 13:23:23](https://news.ycombinator.com/item?id=36057665) - [Ask HN: Has anyone switched from a professional job to a (more) manual one?](https://news.ycombinator.com/item?id=36057665)
 * [2023-05-24, 13:12:42](https://news.ycombinator.com/item?id=36057533) - [Indiana, Iowa, and Tennessee Pass Comprehensive Privacy Laws](https://www.schneier.com/blog/archives/2023/05/indiana-iowa-and-tennessee-pass-comprehensive-privacy-laws.html)
+* [2023-05-24, 13:10:01](https://news.ycombinator.com/item?id=36057497) - [Show HN: Procoto – Self-Service RFP Management](https://procoto.com/)
 * [2023-05-24, 12:59:45](https://news.ycombinator.com/item?id=36057388) - [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD Has a One-Liner to Help Speed Up Linux System Resume Time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
 * [2023-05-24, 12:44:23](https://news.ycombinator.com/item?id=36057227) - [Facebook owner Meta starts final round of layoffs](https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/)
