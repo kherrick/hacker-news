@@ -25,11 +25,11 @@
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-23, 05:03:27](https://news.ycombinator.com/item?id=36040045) - [English in the Real World](https://themillions.com/2023/01/english-in-the-real-world.html)
-* [2023-05-23, 00:40:03](https://news.ycombinator.com/item?id=36038466) - [Polyphonic Audio Key Finding Using the Spiral Array CEG Algorithm (2005)](https://ieeexplore.ieee.org/document/1521350)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What number comes next? The On-line Encyclopedia of Integer Sequences knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 13:10:15](https://news.ycombinator.com/item?id=36030979) - [Humanity&#x27;s earliest recorded kiss occurred in Mesopotamia 4,500 years ago](https://phys.org/news/2023-05-humanity-earliest-mesopotamia-years.html)
+* [2023-05-21, 18:41:35](https://news.ycombinator.com/item?id=36023634) - [Ellison&#x27;s Cave](https://en.wikipedia.org/wiki/Ellison%27s_Cave)
 
 ## [Archives](archives/index.md)
 

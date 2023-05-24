@@ -23,6 +23,7 @@
 * [2023-05-21, 18:55:51](https://news.ycombinator.com/item?id=36023740) - [ZX-Calculus Simulator in the Browser](https://qirella.geosearchef.de)
 * [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
 * [2023-05-21, 18:44:02](https://news.ycombinator.com/item?id=36023656) - [Tell HN: Be aware of people trying to scam contractors](https://news.ycombinator.com/item?id=36023656)
+* [2023-05-21, 18:41:35](https://news.ycombinator.com/item?id=36023634) - [Ellison&#x27;s Cave](https://en.wikipedia.org/wiki/Ellison%27s_Cave)
 * [2023-05-21, 18:31:33](https://news.ycombinator.com/item?id=36023558) - [Success to the Successful](https://riskmusings.substack.com/p/success-to-the-successful)
 * [2023-05-21, 18:31:28](https://news.ycombinator.com/item?id=36023557) - [Can alligators climb trees? (2021)](https://wildlifeinformer.com/can-alligators-climb-trees/)
 * [2023-05-21, 18:22:27](https://news.ycombinator.com/item?id=36023463) - [The Industrial Hammer Complex](https://eisenbergeffect.medium.com/the-industrial-hammer-complex-d9785886ee59)
