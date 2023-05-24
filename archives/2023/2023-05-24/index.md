@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 17:01:24](https://news.ycombinator.com/item?id=36060983) - [Aviator (YC S21) is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-05-24, 16:18:37](https://news.ycombinator.com/item?id=36060287) - [“Rewrite It in Rust” Considered Harmful? [pdf]](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
 * [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
 * [2023-05-24, 16:01:21](https://news.ycombinator.com/item?id=36059964) - [Microsoft Puts Co-Pilot on Windows](https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html)
@@ -21,6 +22,7 @@
 * [2023-05-24, 14:33:07](https://news.ycombinator.com/item?id=36058695) - [VanillaNet: The Power of Minimalism in Deep Learning](https://arxiv.org/abs/2305.12972)
 * [2023-05-24, 14:27:17](https://news.ycombinator.com/item?id=36058598) - [Kubernetes Enthusiasts: Share Your Ideas for Future Dev Tools](https://news.ycombinator.com/item?id=36058598)
 * [2023-05-24, 14:25:55](https://news.ycombinator.com/item?id=36058576) - [Building a Raspberry Pi Ultrasound](https://kelu124.gitbooks.io/echomods/content/RPI.html)
+* [2023-05-24, 14:17:49](https://news.ycombinator.com/item?id=36058430) - [Patterns: Exhaustiveness, Unconditionality, and Remainder](https://openjdk.org/projects/amber/design-notes/patterns/exhaustiveness)
 * [2023-05-24, 14:14:50](https://news.ycombinator.com/item?id=36058382) - [How Doctors buy their way out of trouble](https://www.reuters.com/investigates/special-report/usa-healthcare-settlements/)
 * [2023-05-24, 14:14:16](https://news.ycombinator.com/item?id=36058374) - [Ask HN: What is your proudest little invention or discovery?](https://news.ycombinator.com/item?id=36058374)
 * [2023-05-24, 13:40:44](https://news.ycombinator.com/item?id=36057911) - [Lenovo profits sink 75% as PC demand continues nosedive](https://www.theregister.com/2023/05/24/lenovo_q4_2023_profit_sales_crash/)
