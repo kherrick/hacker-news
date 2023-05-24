@@ -87,6 +87,7 @@
 * [2023-05-22, 07:36:06](https://news.ycombinator.com/item?id=36028463) - [Why your team doesn&#x27;t need to use pull requests](https://infrastructure-as-code.com/book/2021/01/02/pull-requests.html)
 * [2023-05-22, 07:35:50](https://news.ycombinator.com/item?id=36028459) - [Nvidia, Rolls-Royce Announce Quantum Computing Breakthrough for CFD in Jets](https://nvidianews.nvidia.com/news/nvidia-rolls-royce-and-classiq-announce-quantum-computing-breakthrough-for-computational-fluid-dynamics-in-jet-engines)
 * [2023-05-22, 06:51:58](https://news.ycombinator.com/item?id=36028244) - [Source code for Glider Pro (1994)](https://github.com/softdorothy/GliderPRO)
+* [2023-05-22, 06:26:09](https://news.ycombinator.com/item?id=36028113) - [The Chicago Newspaper That Bought a Bar](https://www.topic.com/the-story-behind-the-chicago-newspaper-that-bought-a-bar)
 * [2023-05-22, 06:16:03](https://news.ycombinator.com/item?id=36028041) - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 * [2023-05-22, 05:35:00](https://news.ycombinator.com/item?id=36027799) - [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)

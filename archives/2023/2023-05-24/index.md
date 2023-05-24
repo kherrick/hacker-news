@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 08:17:23](https://news.ycombinator.com/item?id=36055360) - [Hypergamy: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
 * [2023-05-24, 07:11:40](https://news.ycombinator.com/item?id=36054997) - [Microsoft enables booting PCs directly into cloud PCs](https://www.theregister.com/2023/05/24/windows_365_boot_preview/)
 * [2023-05-24, 07:11:00](https://news.ycombinator.com/item?id=36054990) - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
