@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-24, 08:17:23](https://news.ycombinator.com/item?id=36055360) - [The hypergamy hypothesis: much more than you wanted to know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
-* [2023-05-24, 07:11:40](https://news.ycombinator.com/item?id=36054997) - [Microsoft enables booting PCs directly into cloud PCs](https://www.theregister.com/2023/05/24/windows_365_boot_preview/)
 * [2023-05-24, 07:11:00](https://news.ycombinator.com/item?id=36054990) - [A guide to closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
@@ -23,6 +22,7 @@
 * [2023-05-23, 12:55:41](https://news.ycombinator.com/item?id=36043552) - [RF test chambers and ranges](https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-23, 05:03:27](https://news.ycombinator.com/item?id=36040045) - [English in the Real World](https://themillions.com/2023/01/english-in-the-real-world.html)
+* [2023-05-23, 00:40:03](https://news.ycombinator.com/item?id=36038466) - [Polyphonic Audio Key Finding Using the Spiral Array CEG Algorithm (2005)](https://ieeexplore.ieee.org/document/1521350)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What number comes next? The On-line Encyclopedia of Integer Sequences knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 16:32:59](https://news.ycombinator.com/item?id=36033566) - [Easier data debugging with Zed’s first-class errors](https://www.brimdata.io/blog/debugging-data-first-class-errors/)
