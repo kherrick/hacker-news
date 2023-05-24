@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 23:25:17](https://news.ycombinator.com/item?id=36065175) - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 * [2023-05-24, 23:02:56](https://news.ycombinator.com/item?id=36064971) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2023-05-24, 23:02:24](https://news.ycombinator.com/item?id=36064961) - [Minix development has been abandoned, with no updates in almost 5 years](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
 * [2023-05-24, 22:29:31](https://news.ycombinator.com/item?id=36064664) - [High-Quality Video Reconstruction from Brain Activity](https://arxiv.org/abs/2305.11675)
