@@ -55,8 +55,18 @@
       "https://news.ycombinator.com/item?id=36060031"
     ],
     [
-      "I Didn’t Learn Unix by Reading All the Manpages",
+      "I didn’t learn Unix by reading all the manpages (2022)",
       "https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 16:02:07",
+      "https://news.ycombinator.com/item?id=36059982"
+    ],
+    [
+      "Win32 App Isolation",
+      "https://github.com/microsoft/win32-app-isolation"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36058966"
     ],
     [
-      "NASA has funded a bunch of fascinating early stage technologies",
+      "NASA has funded a bunch of early stage technologies",
       "https://orbitalindex.com/archive/2023-05-24-Issue-219/"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36058771"
     ],
     [
-      "SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest",
+      "SFPD obtained live access to business camera network in anticipation of protest",
       "https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36058767"
     ],
     [
-      "A Warmer Planet, Less Nutritious Plants and Fewer Grasshoppers?",
+      "A warmer planet, less nutritious plants and fewer grasshoppers?",
       "https://worldsensorium.com/a-warmer-planet-less-nutritious-plants-and-fewer-grasshoppers/"
     ]
   ],
@@ -141,21 +151,11 @@
   ],
   [
     [
-      "2023-05-24, 14:33:07",
-      "https://news.ycombinator.com/item?id=36058695"
-    ],
-    [
-      "VanillaNet: The Power of Minimalism in Deep Learning",
-      "https://arxiv.org/abs/2305.12972"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 14:25:55",
       "https://news.ycombinator.com/item?id=36058576"
     ],
     [
-      "Building a Raspberry Pi Ultrasound",
+      "Building a Raspberry Pi based ultrasound imaging development platform",
       "https://kelu124.gitbooks.io/echomods/content/RPI.html"
     ]
   ],
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=36056320"
     ],
     [
-      "The Teens Behind the Mirai Botnet",
+      "The teens behind the Mirai botnet",
       "https://spectrum.ieee.org/mirai-botnet"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=36040612"
     ],
     [
-      "Gis.chat – The Geospatial Community",
+      "Show HN: Gis.chat – a Geospatial Community",
       "https://gis.chat"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=36035315"
     ],
     [
-      "Tokyo’s trash-collecting samurai takes a fun, zany approach to cleanup",
+      "Tokyo’s trash-collecting samurai takes a fun approach to cleanup",
       "https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup"
     ]
   ],
