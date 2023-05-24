@@ -4,7 +4,7 @@
 * [2023-05-24, 03:29:51](https://news.ycombinator.com/item?id=36053736) - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
 * [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
-* [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container Shipping Has Cratered](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
+* [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container shipping has cratered, as ship owners try to avoid unprofitable trips](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
 * [2023-05-24, 00:55:59](https://news.ycombinator.com/item?id=36052689) - [Popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 * [2023-05-23, 22:50:13](https://news.ycombinator.com/item?id=36051831) - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
 * [2023-05-23, 22:34:52](https://news.ycombinator.com/item?id=36051710) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
