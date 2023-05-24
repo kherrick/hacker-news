@@ -23,13 +23,13 @@
 * [2023-05-23, 14:16:38](https://news.ycombinator.com/item?id=36044663) - [Show HN: File-by-file AI-generated comments for your codebase](https://swiftstart.vercel.app)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+* [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
 * [2023-05-23, 05:03:27](https://news.ycombinator.com/item?id=36040045) - [English in the Real World](https://themillions.com/2023/01/english-in-the-real-world.html)
 * [2023-05-23, 03:00:31](https://news.ycombinator.com/item?id=36039274) - [Dev Journal for Deco Deck](https://novalis.org/blog/2023-05-12-introducing-deco-deck-my-new-indie-game.html)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What number comes next? The On-line Encyclopedia of Integer Sequences knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 13:10:15](https://news.ycombinator.com/item?id=36030979) - [Humanity&#x27;s earliest recorded kiss occurred in Mesopotamia 4,500 years ago](https://phys.org/news/2023-05-humanity-earliest-mesopotamia-years.html)
-* [2023-05-22, 09:11:02](https://news.ycombinator.com/item?id=36029006) - [Programming with Natural Language Is Going to Work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)
 
 ## [Archives](archives/index.md)
 
