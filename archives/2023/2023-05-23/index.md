@@ -59,6 +59,7 @@
 * [2023-05-23, 12:29:03](https://news.ycombinator.com/item?id=36043327) - [Meta sells Giphy to Shutterstock for $53M after buying it for $400M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
 * [2023-05-23, 12:28:39](https://news.ycombinator.com/item?id=36043322) - [Waymo and Uber partner to bring autonomous driving technology to Uber](https://blog.waymo.com/2023/05/waymo-and-uber-partner-to-bring-waymos.html)
 * [2023-05-23, 12:25:27](https://news.ycombinator.com/item?id=36043287) - [Nintendo sued for “immoral” Mario Kart lootboxes](https://www.axios.com/2023/05/22/nintendo-mario-kart-lootboxes-lawsuit)
+* [2023-05-23, 12:19:43](https://news.ycombinator.com/item?id=36043239) - [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)
 * [2023-05-23, 12:01:05](https://news.ycombinator.com/item?id=36043086) - [Tesorio (YC S15) Is Hiring Back End Engineers and DevOps](https://www.tesorio.com/careers#job-openings)
 * [2023-05-23, 11:58:52](https://news.ycombinator.com/item?id=36043066) - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 * [2023-05-23, 11:58:04](https://news.ycombinator.com/item?id=36043060) - [AI scanner used in hundreds of US schools misses knives](https://www.bbc.co.uk/news/technology-65342798)
