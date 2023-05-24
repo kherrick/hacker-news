@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 07:11:00](https://news.ycombinator.com/item?id=36054990) - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 * [2023-05-24, 03:29:51](https://news.ycombinator.com/item?id=36053736) - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
@@ -24,7 +25,6 @@
 * [2023-05-23, 14:16:38](https://news.ycombinator.com/item?id=36044663) - [Show HN: File-by-file AI-generated comments for your codebase](https://swiftstart.vercel.app)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 12:55:41](https://news.ycombinator.com/item?id=36043552) - [A brief introduction of RF test chambers and ranges](https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/)
-* [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-23, 05:03:27](https://news.ycombinator.com/item?id=36040045) - [English in the Real World](https://themillions.com/2023/01/english-in-the-real-world.html)
 * [2023-05-23, 00:07:13](https://news.ycombinator.com/item?id=36038302) - [What number comes next? The On-line Encyclopedia of Integer Sequences knows](https://www.nytimes.com/2023/05/21/science/math-puzzles-integer-sequences.html)
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)

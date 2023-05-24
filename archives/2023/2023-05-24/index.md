@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 07:11:00](https://news.ycombinator.com/item?id=36054990) - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 05:04:45](https://news.ycombinator.com/item?id=36054269) - [Dear Ubuntu](https://hackaday.com/2023/05/22/dear-ubuntu/)
 * [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
