@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 14:14:50](https://news.ycombinator.com/item?id=36058382) - [How Doctors buy their way out of trouble](https://www.reuters.com/investigates/special-report/usa-healthcare-settlements/)
 * [2023-05-24, 13:39:36](https://news.ycombinator.com/item?id=36057889) - [Finland&#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
 * [2023-05-24, 13:24:03](https://news.ycombinator.com/item?id=36057675) - [Hypersonic Missiles Are Just Misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
 * [2023-05-24, 13:23:26](https://news.ycombinator.com/item?id=36057667) - [Pump the Brakes on Your Police’s Use of Flock’s [YC2017] Mass Surveillance](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
 * [2023-05-24, 13:23:23](https://news.ycombinator.com/item?id=36057665) - [Ask HN: Has anyone switched from a professional job to a (more) manual one?](https://news.ycombinator.com/item?id=36057665)
+* [2023-05-24, 13:12:42](https://news.ycombinator.com/item?id=36057533) - [Indiana, Iowa, and Tennessee Pass Comprehensive Privacy Laws](https://www.schneier.com/blog/archives/2023/05/indiana-iowa-and-tennessee-pass-comprehensive-privacy-laws.html)
 * [2023-05-24, 12:59:45](https://news.ycombinator.com/item?id=36057388) - [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD Has a One-Liner to Help Speed Up Linux System Resume Time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
 * [2023-05-24, 12:44:23](https://news.ycombinator.com/item?id=36057227) - [Facebook owner Meta starts final round of layoffs](https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/)
+* [2023-05-24, 12:39:28](https://news.ycombinator.com/item?id=36057183) - [Why the Original Transformer LLM Figure Is Wrong, and Other Interesting Tidbits](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
 * [2023-05-24, 12:34:48](https://news.ycombinator.com/item?id=36057132) - [Meta has started its latest round of layoffs, focusing on business groups](https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html)
 * [2023-05-24, 12:29:08](https://news.ycombinator.com/item?id=36057074) - [Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)](https://helphub.commandbar.com)
 * [2023-05-24, 12:28:21](https://news.ycombinator.com/item?id=36057065) - [European Commission Calls for Pirate Site Blocking Around the Globe](https://torrentfreak.com/european-commission-calls-for-pirate-site-blocking-around-the-globe-230524/)
