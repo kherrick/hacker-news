@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 17:22:45](https://news.ycombinator.com/item?id=36061326) - [PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico](https://github.com/polpo/picogus)
@@ -23,7 +24,6 @@
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The Teens Behind the Mirai Botnet](https://spectrum.ieee.org/mirai-botnet)
 * [2023-05-24, 10:43:29](https://news.ycombinator.com/item?id=36056176) - [M.U.L.E. 40th Anniversary Special](https://www.carpeludum.com/m-u-l-e-40th-anniversary-special/)
 * [2023-05-24, 09:50:01](https://news.ycombinator.com/item?id=36055826) - [Venus is not Earth’s closest neighbor (2019) [pdf]](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
-* [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-23, 06:33:31](https://news.ycombinator.com/item?id=36040666) - [Looking Back On Helm](https://giri.co/looking-back-on-helm/)
 * [2023-05-23, 06:24:07](https://news.ycombinator.com/item?id=36040612) - [Gis.chat – The Geospatial Community](https://gis.chat)
 * [2023-05-22, 19:01:34](https://news.ycombinator.com/item?id=36035315) - [Tokyo’s trash-collecting samurai takes a fun, zany approach to cleanup](https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup)

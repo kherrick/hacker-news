@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 17:22:45](https://news.ycombinator.com/item?id=36061326) - [PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico](https://github.com/polpo/picogus)
