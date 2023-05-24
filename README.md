@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 18:44:38](https://news.ycombinator.com/item?id=36062369) - [Tina Turner has died](https://www.independent.co.uk/arts-entertainment/music/news/tina-turner-dies-illness-b2345195.html)
 * [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
@@ -11,7 +12,6 @@
 * [2023-05-24, 15:26:00](https://news.ycombinator.com/item?id=36059429) - [Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
 * [2023-05-24, 15:12:17](https://news.ycombinator.com/item?id=36059247) - [Simple exercise to eliminate gastroesophageal reflux (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2023-05-24, 14:52:42](https://news.ycombinator.com/item?id=36058966) - [NASA has funded a bunch of early stage technologies](https://orbitalindex.com/archive/2023-05-24-Issue-219/)
-* [2023-05-24, 14:38:56](https://news.ycombinator.com/item?id=36058771) - [SFPD obtained live access to business camera network in anticipation of protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
 * [2023-05-24, 14:38:37](https://news.ycombinator.com/item?id=36058767) - [A warmer planet, less nutritious plants and fewer grasshoppers?](https://worldsensorium.com/a-warmer-planet-less-nutritious-plants-and-fewer-grasshoppers/)
 * [2023-05-24, 14:37:39](https://news.ycombinator.com/item?id=36058754) - [Breaking SHA256: length extension attacks in practice](https://kerkour.com/sha256-length-extension-attacks)
 * [2023-05-24, 14:36:14](https://news.ycombinator.com/item?id=36058743) - [Fish Folk – open-source Bevy game](https://github.com/fishfolk/jumpy)
