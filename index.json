@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-05-23, 18:56:55",
-      "https://news.ycombinator.com/item?id=36049078"
-    ],
-    [
-      "Update on Sharing",
-      "https://about.netflix.com/en/news/update-on-sharing-may-us"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 18:01:46",
       "https://news.ycombinator.com/item?id=36048261"
     ],
@@ -217,6 +207,16 @@
     [
       "Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT",
       "https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 06:03:08",
+      "https://news.ycombinator.com/item?id=36040457"
+    ],
+    [
+      "What&#x27;s up with this new memory_order_consume memory order?",
+      "https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107"
     ]
   ],
   [
