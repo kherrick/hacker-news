@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 15:12:17](https://news.ycombinator.com/item?id=36059247) - [Man Cures Acid Reflux By Eating Upside-Down](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2023-05-24, 15:06:45](https://news.ycombinator.com/item?id=36059178) - [A Student-Loan Payment Pause Led Borrowers to Take on More Debt](https://marginalrevolution.com/marginalrevolution/2023/05/the-student-loan-payment-pause-led-borrowers-to-take-on-more-debt.html)
 * [2023-05-24, 14:38:56](https://news.ycombinator.com/item?id=36058771) - [SFPD Obtained Live Access to Business Camera Network in Anticipation of Protest](https://www.eff.org/deeplinks/2023/05/sfpd-obtained-live-access-business-camera-network-anticipation-tyre-nichols)
 * [2023-05-24, 14:35:13](https://news.ycombinator.com/item?id=36058728) - [Build a serverless Discord bot with OpenFaaS and Golang](https://www.openfaas.com/blog/build-a-serverless-discord-bot/)
 * [2023-05-24, 14:33:07](https://news.ycombinator.com/item?id=36058695) - [VanillaNet: The Power of Minimalism in Deep Learning](https://arxiv.org/abs/2305.12972)
 * [2023-05-24, 14:27:17](https://news.ycombinator.com/item?id=36058598) - [Ask HN: What tools would make your Kubernetes development experience better?](https://news.ycombinator.com/item?id=36058598)
 * [2023-05-24, 13:40:44](https://news.ycombinator.com/item?id=36057911) - [Lenovo profits sink 75% as PC demand continues nosedive](https://www.theregister.com/2023/05/24/lenovo_q4_2023_profit_sales_crash/)
-* [2023-05-24, 13:39:36](https://news.ycombinator.com/item?id=36057889) - [Finland&#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
 * [2023-05-24, 13:25:13](https://news.ycombinator.com/item?id=36057687) - [Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
 * [2023-05-24, 13:23:23](https://news.ycombinator.com/item?id=36057665) - [Ask HN: Has anyone switched from a professional job to a (more) manual one?](https://news.ycombinator.com/item?id=36057665)
 * [2023-05-24, 13:12:42](https://news.ycombinator.com/item?id=36057533) - [Indiana, Iowa, and Tennessee Pass Comprehensive Privacy Laws](https://www.schneier.com/blog/archives/2023/05/indiana-iowa-and-tennessee-pass-comprehensive-privacy-laws.html)
