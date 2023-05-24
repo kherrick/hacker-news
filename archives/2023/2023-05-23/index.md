@@ -84,6 +84,7 @@
 * [2023-05-23, 04:20:10](https://news.ycombinator.com/item?id=36039779) - [Changing my mind on remote, moving the team back to San Francisco](https://flocrivello.com/changing-my-mind-on-remote-about-being-in-san-francisco/)
 * [2023-05-23, 04:12:12](https://news.ycombinator.com/item?id=36039731) - [Waste coffee husk turned into a wonder material key to mitigating climate change](https://reasonstobecheerful.world/netzero-coffee-husks-biochar-climate-reduce-emissions/)
 * [2023-05-23, 03:15:02](https://news.ycombinator.com/item?id=36039364) - [Steal This Idea: The Larger the Car, the More You Pay to Park](https://usa.streetsblog.org/2023/05/16/heres-a-big-idea-the-larger-the-car-the-more-you-pay-to-park-the-damn-thing/)
+* [2023-05-23, 03:00:31](https://news.ycombinator.com/item?id=36039274) - [Dev Journal for Deco Deck](https://novalis.org/blog/2023-05-12-introducing-deco-deck-my-new-indie-game.html)
 * [2023-05-23, 02:51:13](https://news.ycombinator.com/item?id=36039232) - [Demystifying Tupper&#x27;s Formula](https://eli.thegreenplace.net/2023/demystifying-tuppers-formula/)
 * [2023-05-23, 02:14:20](https://news.ycombinator.com/item?id=36039000) - [Vanilla OS 2.0 Orchid base is changing from Ubuntu to Debian](https://vanillaos.org/2023/03/07/vanilla-os-2.0-orchid-initial-work.html)
 * [2023-05-23, 02:13:13](https://news.ycombinator.com/item?id=36038992) - [Seattle Amazon workers plan walkout over return to office, layoffs](https://www.seattletimes.com/business/seattle-amazon-workers-plan-walkout-over-return-to-office-layoffs/)
