@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 13:39:36",
+      "https://news.ycombinator.com/item?id=36057889"
+    ],
+    [
+      "Finland&#x27;s average electricity price slips into negative territory",
+      "https://yle.fi/a/74-20033326"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 13:24:03",
       "https://news.ycombinator.com/item?id=36057675"
     ],
@@ -17,6 +27,16 @@
     [
       "Pump the Brakes on Your Police’s Use of Flock’s [YC2017] Mass Surveillance",
       "https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 13:23:23",
+      "https://news.ycombinator.com/item?id=36057665"
+    ],
+    [
+      "Ask HN: Has anyone switched from a professional job to a (more) manual one?",
+      "https://news.ycombinator.com/item?id=36057665"
     ]
   ],
   [
@@ -41,12 +61,32 @@
   ],
   [
     [
+      "2023-05-24, 12:44:23",
+      "https://news.ycombinator.com/item?id=36057227"
+    ],
+    [
+      "Facebook owner Meta starts final round of layoffs",
+      "https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 12:34:48",
       "https://news.ycombinator.com/item?id=36057132"
     ],
     [
       "Meta has started its latest round of layoffs, focusing on business groups",
       "https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 12:29:08",
+      "https://news.ycombinator.com/item?id=36057074"
+    ],
+    [
+      "Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)",
+      "https://helphub.commandbar.com"
     ]
   ],
   [
@@ -75,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36056376"
     ],
     [
-      "You don&#x27;t need a modal window",
+      "Don’t open the details in a modal window, have it be a separate page",
       "https://youdontneedamodalwindow.dev/"
     ]
   ],
@@ -161,32 +201,12 @@
   ],
   [
     [
-      "2023-05-23, 22:34:52",
-      "https://news.ycombinator.com/item?id=36051710"
-    ],
-    [
-      "50 years in filesystems: towards 2004 – LFS",
-      "https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 17:39:12",
       "https://news.ycombinator.com/item?id=36047861"
     ],
     [
       "Kanboard: free and open source Kanban project management software",
       "https://kanboard.org/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 17:19:06",
-      "https://news.ycombinator.com/item?id=36047524"
-    ],
-    [
-      "Nginx 1.25.0: experimental HTTP&#x2F;3 support",
-      "http://nginx.org/en/CHANGES"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-05-23, 06:52:16",
-      "https://news.ycombinator.com/item?id=36040803"
-    ],
-    [
-      "Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT",
-      "https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html"
-    ]
-  ],
-  [
-    [
       "2023-05-23, 06:33:31",
       "https://news.ycombinator.com/item?id=36040666"
     ],
@@ -237,16 +247,6 @@
     [
       "What&#x27;s up with this new memory_order_consume memory order?",
       "https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 00:40:03",
-      "https://news.ycombinator.com/item?id=36038466"
-    ],
-    [
-      "Polyphonic Audio Key Finding Using the Spiral Array CEG Algorithm (2005)",
-      "https://ieeexplore.ieee.org/document/1521350"
     ]
   ],
   [
