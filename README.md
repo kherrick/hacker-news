@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 05:04:45](https://news.ycombinator.com/item?id=36054269) - [Dear Ubuntu](https://hackaday.com/2023/05/22/dear-ubuntu/)
 * [2023-05-24, 03:29:51](https://news.ycombinator.com/item?id=36053736) - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
 * [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
@@ -16,7 +17,6 @@
 * [2023-05-23, 17:39:12](https://news.ycombinator.com/item?id=36047861) - [Kanboard: free and open source Kanban project management software](https://kanboard.org/)
 * [2023-05-23, 17:19:06](https://news.ycombinator.com/item?id=36047524) - [Nginx 1.25.0: experimental HTTP&#x2F;3 support](http://nginx.org/en/CHANGES)
 * [2023-05-23, 16:59:54](https://news.ycombinator.com/item?id=36047202) - [Google open-sources Rust crate audits](https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html)
-* [2023-05-23, 16:56:49](https://news.ycombinator.com/item?id=36047143) - [Show HN: Open sourcing Harmonic, my Android Hacker News client](https://github.com/SimonHalvdansson/Harmonic-HN)
 * [2023-05-23, 16:39:21](https://news.ycombinator.com/item?id=36046830) - [The damage to lunar orbiting spacecraft caused by the ejecta of lunar landers](https://arxiv.org/abs/2305.12234)
 * [2023-05-23, 16:31:08](https://news.ycombinator.com/item?id=36046662) - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 * [2023-05-23, 15:40:03](https://news.ycombinator.com/item?id=36045919) - [Watching Paint Dry: The unexpectedly interesting story of car coatings](https://edconway.substack.com/p/watching-paint-dry)
