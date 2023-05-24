@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 12:01:03](https://news.ycombinator.com/item?id=36056812) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-05-24, 11:50:33](https://news.ycombinator.com/item?id=36056705) - [Peloton CEO Quit After Laying Off 2,800. Its a Bad Lesson About How Not to Lead](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
 * [2023-05-24, 11:12:40](https://news.ycombinator.com/item?id=36056376) - [You don&#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
 * [2023-05-24, 10:14:31](https://news.ycombinator.com/item?id=36055986) - [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
@@ -8,7 +9,6 @@
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 * [2023-05-24, 03:29:51](https://news.ycombinator.com/item?id=36053736) - [SCOTUS declines to hear challenge to warrantless pole camera surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
-* [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
 * [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container shipping has cratered, as ship owners try to avoid unprofitable trips](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
 * [2023-05-24, 01:05:15](https://news.ycombinator.com/item?id=36052753) - [Show HN: Honda Civic Infotainment Reverse-Engineering](https://github.com/librick/ic1101)
 * [2023-05-23, 22:50:13](https://news.ycombinator.com/item?id=36051831) - [Regent – Electric coastal travel](https://www.regentcraft.com/)
@@ -23,13 +23,13 @@
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-23, 06:03:08](https://news.ycombinator.com/item?id=36040457) - [What&#x27;s up with this new memory_order_consume memory order?](https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107)
 * [2023-05-23, 05:03:27](https://news.ycombinator.com/item?id=36040045) - [English in the Real World](https://themillions.com/2023/01/english-in-the-real-world.html)
+* [2023-05-23, 00:40:03](https://news.ycombinator.com/item?id=36038466) - [Polyphonic Audio Key Finding Using the Spiral Array CEG Algorithm (2005)](https://ieeexplore.ieee.org/document/1521350)
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 16:32:59](https://news.ycombinator.com/item?id=36033566) - [Easier data debugging with Zed’s first-class errors](https://www.brimdata.io/blog/debugging-data-first-class-errors/)
 * [2023-05-22, 09:11:02](https://news.ycombinator.com/item?id=36029006) - [Programming with natural language is going to work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)
 * [2023-05-22, 07:25:42](https://news.ycombinator.com/item?id=36028410) - [Choosing a Name for Your Computer](https://www.rfc-editor.org/rfc/rfc1178)
 * [2023-05-22, 06:26:09](https://news.ycombinator.com/item?id=36028113) - [A Chicago newspaper that bought a bar](https://www.topic.com/the-story-behind-the-chicago-newspaper-that-bought-a-bar)
 * [2023-05-21, 18:57:22](https://news.ycombinator.com/item?id=36023751) - [Tech companies keep falling for the forever fallacy](https://www.inc.com/jason-aten/tech-companies-keep-falling-for-forever-fallacy-why-smart-leaders-should-know-better.html)
-* [2023-05-21, 18:41:35](https://news.ycombinator.com/item?id=36023634) - [Ellison&#x27;s Cave](https://en.wikipedia.org/wiki/Ellison%27s_Cave)
 
 ## [Archives](archives/index.md)
 
