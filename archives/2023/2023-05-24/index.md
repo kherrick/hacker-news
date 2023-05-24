@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 11:50:33](https://news.ycombinator.com/item?id=36056705) - [Peloton CEO Quit After Laying Off 2,800. Its a Bad Lesson About How Not to Lead](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
 * [2023-05-24, 11:12:40](https://news.ycombinator.com/item?id=36056376) - [You don&#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
 * [2023-05-24, 10:14:31](https://news.ycombinator.com/item?id=36055986) - [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
 * [2023-05-24, 09:50:01](https://news.ycombinator.com/item?id=36055826) - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)

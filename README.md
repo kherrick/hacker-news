@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 11:50:33](https://news.ycombinator.com/item?id=36056705) - [Peloton CEO Quit After Laying Off 2,800. Its a Bad Lesson About How Not to Lead](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
 * [2023-05-24, 11:12:40](https://news.ycombinator.com/item?id=36056376) - [You don&#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
 * [2023-05-24, 10:14:31](https://news.ycombinator.com/item?id=36055986) - [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
 * [2023-05-24, 09:50:01](https://news.ycombinator.com/item?id=36055826) - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
@@ -22,7 +23,6 @@
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-23, 06:03:08](https://news.ycombinator.com/item?id=36040457) - [What&#x27;s up with this new memory_order_consume memory order?](https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107)
 * [2023-05-23, 05:03:27](https://news.ycombinator.com/item?id=36040045) - [English in the Real World](https://themillions.com/2023/01/english-in-the-real-world.html)
-* [2023-05-23, 00:40:03](https://news.ycombinator.com/item?id=36038466) - [Polyphonic Audio Key Finding Using the Spiral Array CEG Algorithm (2005)](https://ieeexplore.ieee.org/document/1521350)
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 16:32:59](https://news.ycombinator.com/item?id=36033566) - [Easier data debugging with Zed’s first-class errors](https://www.brimdata.io/blog/debugging-data-first-class-errors/)
 * [2023-05-22, 09:11:02](https://news.ycombinator.com/item?id=36029006) - [Programming with natural language is going to work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)
