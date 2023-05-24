@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 16:01:21",
+      "https://news.ycombinator.com/item?id=36059964"
+    ],
+    [
+      "Microsoft Puts Co-Pilot on Windows",
+      "https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 15:12:17",
       "https://news.ycombinator.com/item?id=36059247"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2023-05-24, 14:35:13",
-      "https://news.ycombinator.com/item?id=36058728"
-    ],
-    [
-      "Build a serverless Discord bot with OpenFaaS and Golang",
-      "https://www.openfaas.com/blog/build-a-serverless-discord-bot/"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 14:33:07",
       "https://news.ycombinator.com/item?id=36058695"
     ],
@@ -57,6 +57,16 @@
     [
       "Ask HN: What tools would make your Kubernetes development experience better?",
       "https://news.ycombinator.com/item?id=36058598"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 14:14:16",
+      "https://news.ycombinator.com/item?id=36058374"
+    ],
+    [
+      "Ask HN: What is your proudest little invention or discovery?",
+      "https://news.ycombinator.com/item?id=36058374"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Venus is not Earth’s closest neighbor (2019) [pdf]",
       "https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 07:11:00",
-      "https://news.ycombinator.com/item?id=36054990"
-    ],
-    [
-      "A guide to closures in Rust",
-      "https://hashrust.com/blog/a-guide-to-closures-in-rust/"
     ]
   ],
   [
