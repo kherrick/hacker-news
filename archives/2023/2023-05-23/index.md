@@ -53,6 +53,7 @@
 * [2023-05-23, 13:39:51](https://news.ycombinator.com/item?id=36044112) - [How WebAssembly Is Eating the Database](https://dylibso.com/blog/wasm-udf/)
 * [2023-05-23, 13:28:53](https://news.ycombinator.com/item?id=36043944) - [Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts](https://news.ycombinator.com/item?id=36043944)
 * [2023-05-23, 13:08:53](https://news.ycombinator.com/item?id=36043716) - [A mental-health crisis is gripping science – toxic research culture is to blame](https://www.nature.com/articles/d41586-023-01708-4)
+* [2023-05-23, 12:55:41](https://news.ycombinator.com/item?id=36043552) - [A brief introduction of RF test chambers and ranges](https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/)
 * [2023-05-23, 12:38:45](https://news.ycombinator.com/item?id=36043398) - [Crypto giant Binance commingled customer funds and company revenue](https://www.reuters.com/investigates/special-report/crypto-binance-money/)
 * [2023-05-23, 12:36:11](https://news.ycombinator.com/item?id=36043377) - [Imperial College working with Royal Navy on system to replace GPS on ships](https://www.telegraph.co.uk/news/2023/05/21/ships-gps-alternative-warfare-tracking-impossible/)
 * [2023-05-23, 12:29:03](https://news.ycombinator.com/item?id=36043327) - [Meta sells Giphy to Shutterstock for $53M after buying it for $400M](https://techcrunch.com/2023/05/23/meta-sells-giphy-to-shutterstock-for-53m-after-uk-divestment-order/)
