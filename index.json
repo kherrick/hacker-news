@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-24, 07:11:00",
+      "https://news.ycombinator.com/item?id=36054990"
+    ],
+    [
+      "A Guide to Closures in Rust",
+      "https://hashrust.com/blog/a-guide-to-closures-in-rust/"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 05:46:10",
       "https://news.ycombinator.com/item?id=36054521"
     ],
@@ -237,16 +247,6 @@
     [
       "A brief introduction of RF test chambers and ranges",
       "https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 06:52:16",
-      "https://news.ycombinator.com/item?id=36040803"
-    ],
-    [
-      "Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and NAT",
-      "https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html"
     ]
   ],
   [
