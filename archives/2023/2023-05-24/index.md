@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 12:59:45](https://news.ycombinator.com/item?id=36057388) - [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD Has a One-Liner to Help Speed Up Linux System Resume Time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
 * [2023-05-24, 12:34:48](https://news.ycombinator.com/item?id=36057132) - [Meta has started its latest round of layoffs, focusing on business groups](https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html)
 * [2023-05-24, 12:28:21](https://news.ycombinator.com/item?id=36057065) - [European Commission Calls for Pirate Site Blocking Around the Globe](https://torrentfreak.com/european-commission-calls-for-pirate-site-blocking-around-the-globe-230524/)
