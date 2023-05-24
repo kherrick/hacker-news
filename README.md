@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 19:57:49](https://news.ycombinator.com/item?id=36063166) - [OpenAI Major Outage](https://status.openai.com/incidents/jbt079x532bg)
 * [2023-05-24, 19:19:56](https://news.ycombinator.com/item?id=36062763) - [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
 * [2023-05-24, 18:33:13](https://news.ycombinator.com/item?id=36062233) - [Analog Lorenz Attractor Computer.io](https://hackaday.io/project/191142-analog-lorenz-attractor-computer)
 * [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
@@ -9,7 +10,6 @@
 * [2023-05-24, 17:01:24](https://news.ycombinator.com/item?id=36060983) - [Aviator (YC S21) is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-05-24, 16:18:37](https://news.ycombinator.com/item?id=36060287) - [“Rewrite It in Rust” Considered Harmful? (2017) [pdf]](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
 * [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
-* [2023-05-24, 15:49:52](https://news.ycombinator.com/item?id=36059774) - [Power series, power serious: Talk by Doug McIlroy (2007) [video]](https://www.microsoft.com/en-us/research/video/power-series-power-serious/)
 * [2023-05-24, 15:26:00](https://news.ycombinator.com/item?id=36059429) - [Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
 * [2023-05-24, 15:12:17](https://news.ycombinator.com/item?id=36059247) - [Simple exercise to eliminate gastroesophageal reflux (2022)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/)
 * [2023-05-24, 14:52:42](https://news.ycombinator.com/item?id=36058966) - [NASA has funded a bunch of early stage technologies](https://orbitalindex.com/archive/2023-05-24-Issue-219/)
