@@ -53,6 +53,7 @@
 * [2023-05-22, 13:08:02](https://news.ycombinator.com/item?id=36030959) - [Black holes might be defects in spacetime](https://phys.org/news/2023-05-black-holes-defects-spacetime.html)
 * [2023-05-22, 13:07:56](https://news.ycombinator.com/item?id=36030958) - [Io Uring](https://nick-black.com/dankwiki/index.php/Io_uring)
 * [2023-05-22, 13:07:49](https://news.ycombinator.com/item?id=36030955) - [The Culture: The Drawings by Iain M. Banks](https://www.orbit-books.co.uk/landing-page/orbit/the-culture-the-drawings/)
+* [2023-05-22, 13:06:12](https://news.ycombinator.com/item?id=36030945) - [New study suggests Joro spiders are gentle giants](https://phys.org/news/2023-05-massive-joro-spiders-gentle-giants.html)
 * [2023-05-22, 13:05:21](https://news.ycombinator.com/item?id=36030937) - [Lem v2.0.0 – Common Lisp IDE with high expansibility](https://github.com/lem-project/lem/releases/tag/v2.0.0)
 * [2023-05-22, 13:05:21](https://news.ycombinator.com/item?id=36030937) - [Lem v2.0.0 – Common Lisp IDE with high expansibility](https://github.com/lem-project/lem)
 * [2023-05-22, 12:59:19](https://news.ycombinator.com/item?id=36030866) - [JSON-joy CRDT benchmarks, 100x speed improvement over state-of-the-art](https://jsonjoy.com/blog/list-crdt-benchmarks)

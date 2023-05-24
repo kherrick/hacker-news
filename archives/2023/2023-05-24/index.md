@@ -6,6 +6,7 @@
 
 * [2023-05-24, 14:14:50](https://news.ycombinator.com/item?id=36058382) - [How Doctors buy their way out of trouble](https://www.reuters.com/investigates/special-report/usa-healthcare-settlements/)
 * [2023-05-24, 13:39:36](https://news.ycombinator.com/item?id=36057889) - [Finland&#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
+* [2023-05-24, 13:25:13](https://news.ycombinator.com/item?id=36057687) - [Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
 * [2023-05-24, 13:24:03](https://news.ycombinator.com/item?id=36057675) - [Hypersonic Missiles Are Just Misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
 * [2023-05-24, 13:23:26](https://news.ycombinator.com/item?id=36057667) - [Pump the Brakes on Your Police’s Use of Flock’s [YC2017] Mass Surveillance](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
 * [2023-05-24, 13:23:23](https://news.ycombinator.com/item?id=36057665) - [Ask HN: Has anyone switched from a professional job to a (more) manual one?](https://news.ycombinator.com/item?id=36057665)
