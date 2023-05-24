@@ -18,6 +18,7 @@
 * [2023-05-21, 20:32:36](https://news.ycombinator.com/item?id=36024445) - [The $40M bet that made South Korea a food and cultural power](https://blog.hubspot.com/the-hustle/the-40m-bet-that-made-south-korea-a-food-and-cultural-power)
 * [2023-05-21, 19:58:24](https://news.ycombinator.com/item?id=36024209) - [How Much Memory Do You Need to Run 1M Concurrent Tasks?](https://pkolaczk.github.io/memory-consumption-of-async/)
 * [2023-05-21, 19:57:39](https://news.ycombinator.com/item?id=36024205) - [Hoarding](https://www.michaelsamsel.com/Content/Difficult_Styles/hoarding.html)
+* [2023-05-21, 18:57:22](https://news.ycombinator.com/item?id=36023751) - [Tech Companies Keep Falling for the Forever Fallacy. Leaders Should Know Better](https://www.inc.com/jason-aten/tech-companies-keep-falling-for-forever-fallacy-why-smart-leaders-should-know-better.html)
 * [2023-05-21, 18:56:47](https://news.ycombinator.com/item?id=36023745) - [No Screens Cafe](https://cmart.blog/no-screens-cafe/)
 * [2023-05-21, 18:55:51](https://news.ycombinator.com/item?id=36023740) - [ZX-Calculus Simulator in the Browser](https://qirella.geosearchef.de)
 * [2023-05-21, 18:50:21](https://news.ycombinator.com/item?id=36023706) - [Ditherpunk – The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk/)
