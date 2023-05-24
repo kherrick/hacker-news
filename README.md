@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 17:01:24](https://news.ycombinator.com/item?id=36060983) - [Aviator (YC S21) is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
 * [2023-05-24, 15:57:23](https://news.ycombinator.com/item?id=36059901) - [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
@@ -14,7 +15,6 @@
 * [2023-05-24, 14:33:07](https://news.ycombinator.com/item?id=36058695) - [VanillaNet: The Power of Minimalism in Deep Learning](https://arxiv.org/abs/2305.12972)
 * [2023-05-24, 14:25:55](https://news.ycombinator.com/item?id=36058576) - [Building a Raspberry Pi Ultrasound](https://kelu124.gitbooks.io/echomods/content/RPI.html)
 * [2023-05-24, 14:17:49](https://news.ycombinator.com/item?id=36058430) - [Patterns: Exhaustiveness, Unconditionality, and Remainder](https://openjdk.org/projects/amber/design-notes/patterns/exhaustiveness)
-* [2023-05-24, 13:40:44](https://news.ycombinator.com/item?id=36057911) - [Lenovo profits sink 75% as PC demand continues nosedive](https://www.theregister.com/2023/05/24/lenovo_q4_2023_profit_sales_crash/)
 * [2023-05-24, 13:25:13](https://news.ycombinator.com/item?id=36057687) - [Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)
 * [2023-05-24, 12:39:28](https://news.ycombinator.com/item?id=36057183) - [Why the original transformer figure is wrong, and some other tidbits about LLMs](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
 * [2023-05-24, 12:29:08](https://news.ycombinator.com/item?id=36057074) - [Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)](https://helphub.commandbar.com)
