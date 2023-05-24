@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 13:39:36](https://news.ycombinator.com/item?id=36057889) - [Finland&#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
 * [2023-05-24, 13:24:03](https://news.ycombinator.com/item?id=36057675) - [Hypersonic Missiles Are Just Misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
 * [2023-05-24, 13:23:26](https://news.ycombinator.com/item?id=36057667) - [Pump the Brakes on Your Police’s Use of Flock’s [YC2017] Mass Surveillance](https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers)
+* [2023-05-24, 13:23:23](https://news.ycombinator.com/item?id=36057665) - [Ask HN: Has anyone switched from a professional job to a (more) manual one?](https://news.ycombinator.com/item?id=36057665)
 * [2023-05-24, 12:59:45](https://news.ycombinator.com/item?id=36057388) - [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD Has a One-Liner to Help Speed Up Linux System Resume Time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
+* [2023-05-24, 12:44:23](https://news.ycombinator.com/item?id=36057227) - [Facebook owner Meta starts final round of layoffs](https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/)
 * [2023-05-24, 12:34:48](https://news.ycombinator.com/item?id=36057132) - [Meta has started its latest round of layoffs, focusing on business groups](https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html)
+* [2023-05-24, 12:29:08](https://news.ycombinator.com/item?id=36057074) - [Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)](https://helphub.commandbar.com)
 * [2023-05-24, 12:28:21](https://news.ycombinator.com/item?id=36057065) - [European Commission Calls for Pirate Site Blocking Around the Globe](https://torrentfreak.com/european-commission-calls-for-pirate-site-blocking-around-the-globe-230524/)
 * [2023-05-24, 12:01:03](https://news.ycombinator.com/item?id=36056812) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-05-24, 11:50:33](https://news.ycombinator.com/item?id=36056705) - [Peloton CEO Quit After Laying Off 2,800. Its a Bad Lesson About How Not to Lead](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
