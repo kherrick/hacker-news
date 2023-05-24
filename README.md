@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-24, 17:01:24](https://news.ycombinator.com/item?id=36060983) - [Aviator (YC S21) is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
-* [2023-05-24, 16:18:37](https://news.ycombinator.com/item?id=36060287) - [“Rewrite It in Rust” Considered Harmful? [pdf]](https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf)
 * [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
 * [2023-05-24, 15:57:23](https://news.ycombinator.com/item?id=36059901) - [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
 * [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
@@ -23,6 +22,7 @@
 * [2023-05-24, 12:11:18](https://news.ycombinator.com/item?id=36056907) - [ChainForge: An open-source visual programming environment for testing prompts](https://github.com/ianarawjo/ChainForge)
 * [2023-05-24, 10:43:29](https://news.ycombinator.com/item?id=36056176) - [M.U.L.E. 40th Anniversary Special](https://www.carpeludum.com/m-u-l-e-40th-anniversary-special/)
 * [2023-05-24, 09:50:01](https://news.ycombinator.com/item?id=36055826) - [Venus is not Earth’s closest neighbor (2019) [pdf]](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+* [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 * [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-23, 06:33:31](https://news.ycombinator.com/item?id=36040666) - [Looking Back On Helm](https://giri.co/looking-back-on-helm/)
 * [2023-05-23, 06:24:07](https://news.ycombinator.com/item?id=36040612) - [Gis.chat – The Geospatial Community](https://gis.chat)
