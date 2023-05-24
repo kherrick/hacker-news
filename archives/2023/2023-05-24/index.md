@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
+* [2023-05-24, 21:50:00](https://news.ycombinator.com/item?id=36064305) - [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
+* [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
 * [2023-05-24, 20:34:58](https://news.ycombinator.com/item?id=36063531) - [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
 * [2023-05-24, 20:17:07](https://news.ycombinator.com/item?id=36063346) - [Neeva Acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
 * [2023-05-24, 19:57:49](https://news.ycombinator.com/item?id=36063166) - [OpenAI Major Outage](https://status.openai.com/incidents/jbt079x532bg)
