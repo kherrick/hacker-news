@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-05-24, 16:18:37",
+      "https://news.ycombinator.com/item?id=36060287"
+    ],
+    [
+      "“Rewrite It in Rust” Considered Harmful? [pdf]",
+      "https://goto.ucsd.edu/~rjhala/hotos-ffi.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 16:02:07",
+      "https://news.ycombinator.com/item?id=36059982"
+    ],
+    [
+      "Win32 App Isolation",
+      "https://github.com/microsoft/win32-app-isolation"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 16:01:21",
       "https://news.ycombinator.com/item?id=36059964"
     ],
     [
-      "Microsoft Puts Co-Pilot on Windows",
+      "Microsoft is integrating Copilot into Windows 11",
       "https://www.engadget.com/microsoft-windows-copilot-ai-panos-panay-interview-150044298.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 15:57:23",
+      "https://news.ycombinator.com/item?id=36059901"
+    ],
+    [
+      "France bans short-haul flights to cut carbon emissions",
+      "https://www.bbc.co.uk/news/world-europe-65687665"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 15:55:57",
+      "https://news.ycombinator.com/item?id=36059878"
+    ],
+    [
+      "DeviceScript: TypeScript for Tiny IoT Devices",
+      "https://microsoft.github.io/devicescript/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 15:37:36",
+      "https://news.ycombinator.com/item?id=36059601"
+    ],
+    [
+      "A college student reached $64k&#x2F;mo in 6 months by being an AI first mover",
+      "https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1"
     ]
   ],
   [
@@ -15,18 +65,8 @@
       "https://news.ycombinator.com/item?id=36059247"
     ],
     [
-      "Man Cures Acid Reflux By Eating Upside-Down",
+      "Simple exercise to eliminate gastroesophageal reflux (2022)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9106553/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 15:06:45",
-      "https://news.ycombinator.com/item?id=36059178"
-    ],
-    [
-      "A Student-Loan Payment Pause Led Borrowers to Take on More Debt",
-      "https://marginalrevolution.com/marginalrevolution/2023/05/the-student-loan-payment-pause-led-borrowers-to-take-on-more-debt.html"
     ]
   ],
   [
@@ -41,32 +81,22 @@
   ],
   [
     [
+      "2023-05-24, 14:37:39",
+      "https://news.ycombinator.com/item?id=36058754"
+    ],
+    [
+      "Breaking SHA256: length extension attacks in practice",
+      "https://kerkour.com/sha256-length-extension-attacks"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 14:33:07",
       "https://news.ycombinator.com/item?id=36058695"
     ],
     [
       "VanillaNet: The Power of Minimalism in Deep Learning",
       "https://arxiv.org/abs/2305.12972"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 14:27:17",
-      "https://news.ycombinator.com/item?id=36058598"
-    ],
-    [
-      "Ask HN: What tools would make your Kubernetes development experience better?",
-      "https://news.ycombinator.com/item?id=36058598"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 14:14:16",
-      "https://news.ycombinator.com/item?id=36058374"
-    ],
-    [
-      "Ask HN: What is your proudest little invention or discovery?",
-      "https://news.ycombinator.com/item?id=36058374"
     ]
   ],
   [
@@ -91,26 +121,6 @@
   ],
   [
     [
-      "2023-05-24, 13:23:23",
-      "https://news.ycombinator.com/item?id=36057665"
-    ],
-    [
-      "Ask HN: Has anyone switched from a professional job to a (more) manual one?",
-      "https://news.ycombinator.com/item?id=36057665"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 13:12:42",
-      "https://news.ycombinator.com/item?id=36057533"
-    ],
-    [
-      "Indiana, Iowa, and Tennessee Pass Comprehensive Privacy Laws",
-      "https://www.schneier.com/blog/archives/2023/05/indiana-iowa-and-tennessee-pass-comprehensive-privacy-laws.html"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 12:46:37",
       "https://news.ycombinator.com/item?id=36057248"
     ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36057183"
     ],
     [
-      "The original transformer LLM figure is wrong",
+      "Why the original transformer figure is wrong, and some other tidbits about LLMs",
       "https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "Launch HN: Common Paper (YC W23) – SAFEs for Commercial Contracts",
       "https://news.ycombinator.com/item?id=36043944"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 12:55:41",
-      "https://news.ycombinator.com/item?id=36043552"
-    ],
-    [
-      "RF test chambers and ranges",
-      "https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/"
     ]
   ],
   [
