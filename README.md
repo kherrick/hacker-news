@@ -3,6 +3,7 @@
 * [2023-05-24, 03:17:47](https://news.ycombinator.com/item?id=36053662) - [Meta AI Unleashes Megabyte, a Revolutionary Scalable Model Architecture](https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture)
 * [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
 * [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container Shipping Has Cratered](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
+* [2023-05-24, 00:55:59](https://news.ycombinator.com/item?id=36052689) - [Popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 * [2023-05-23, 22:57:18](https://news.ycombinator.com/item?id=36051891) - [Amazon corporate workers plan walkout next week over return-to-office policies](https://www.cnn.com/2023/05/23/tech/amazon-walkout/index.html)
 * [2023-05-23, 22:50:13](https://news.ycombinator.com/item?id=36051831) - [Regent – 100% Electric Coastal Travel](https://www.regentcraft.com/)
 * [2023-05-23, 22:34:52](https://news.ycombinator.com/item?id=36051710) - [50 years in filesystems: towards 2004 – LFS](https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html)
@@ -29,7 +30,6 @@
 * [2023-05-22, 19:56:45](https://news.ycombinator.com/item?id=36035922) - [In England, Bar Hill’s ‘Skull Comb’ Is an Iron Age Mystery](https://www.atlasobscura.com/articles/bar-hill-skull-comb-iron-age)
 * [2023-05-22, 19:41:29](https://news.ycombinator.com/item?id=36035748) - [Emacs Web Buttons](https://erkin.party/emacs/)
 * [2023-05-22, 13:10:15](https://news.ycombinator.com/item?id=36030979) - [Humanity&#x27;s earliest recorded kiss occurred in Mesopotamia 4,500 years ago](https://phys.org/news/2023-05-humanity-earliest-mesopotamia-years.html)
-* [2023-05-22, 09:11:02](https://news.ycombinator.com/item?id=36029006) - [Programming with Natural Language Is Going to Work (2010)](https://writings.stephenwolfram.com/2010/11/programming-with-natural-language-is-actually-going-to-work/)
 
 ## [Archives](archives/index.md)
 

@@ -9,4 +9,5 @@
 * [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container Shipping Has Cratered](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
 * [2023-05-24, 01:45:22](https://news.ycombinator.com/item?id=36053060) - [Ask HN: Do average tech companies care about felony probation for SWE?](https://news.ycombinator.com/item?id=36053060)
 * [2023-05-24, 01:04:53](https://news.ycombinator.com/item?id=36052751) - [A Housing Bust Comes for Thousands of Small-Time Investors](https://www.wsj.com/articles/a-housing-bust-comes-for-thousands-of-small-time-investors-3934beb3)
+* [2023-05-24, 00:55:59](https://news.ycombinator.com/item?id=36052689) - [Popover API](https://developer.chrome.com/blog/introducing-popover-api/)
 * [2023-05-24, 00:13:01](https://news.ycombinator.com/item?id=36052411) - [Alpaca RLHF-ed to beat ChatGPT](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html)
