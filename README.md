@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 12:34:48](https://news.ycombinator.com/item?id=36057132) - [Meta has started its latest round of layoffs, focusing on business groups](https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html)
 * [2023-05-24, 12:01:03](https://news.ycombinator.com/item?id=36056812) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-05-24, 11:50:33](https://news.ycombinator.com/item?id=36056705) - [Peloton CEO quit after laying off 2,800. A lesson about how not to lead (2022)](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
 * [2023-05-24, 11:12:40](https://news.ycombinator.com/item?id=36056376) - [You don&#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
@@ -8,7 +9,6 @@
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A novel the CIA spent a fortune to suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 * [2023-05-24, 03:29:51](https://news.ycombinator.com/item?id=36053736) - [SCOTUS declines to hear challenge to warrantless pole camera surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
-* [2023-05-24, 03:07:02](https://news.ycombinator.com/item?id=36053592) - [Meta Open-Sources Computer Vision Foundation Model DINOv2](https://www.infoq.com/news/2023/05/meta-dinov2-vision/)
 * [2023-05-24, 02:33:01](https://news.ycombinator.com/item?id=36053411) - [Container shipping has cratered, as ship owners try to avoid unprofitable trips](https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c)
 * [2023-05-24, 01:05:15](https://news.ycombinator.com/item?id=36052753) - [Show HN: Honda Civic Infotainment Reverse-Engineering](https://github.com/librick/ic1101)
 * [2023-05-23, 22:50:13](https://news.ycombinator.com/item?id=36051831) - [Regent – Electric coastal travel](https://www.regentcraft.com/)
