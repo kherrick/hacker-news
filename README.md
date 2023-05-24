@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 17:01:24](https://news.ycombinator.com/item?id=36060983) - [Aviator (YC S21) is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
-* [2023-05-24, 15:57:23](https://news.ycombinator.com/item?id=36059901) - [France bans short-haul flights to cut carbon emissions](https://www.bbc.co.uk/news/world-europe-65687665)
 * [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
 * [2023-05-24, 15:37:36](https://news.ycombinator.com/item?id=36059601) - [A college student reached $64k&#x2F;mo in 6 months by being an AI first mover](https://www.indiehackers.com/post/how-a-college-student-reached-64-000-mo-in-6-months-by-being-an-ai-first-mover-ba7981f6e1)
 * [2023-05-24, 15:26:00](https://news.ycombinator.com/item?id=36059429) - [Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
