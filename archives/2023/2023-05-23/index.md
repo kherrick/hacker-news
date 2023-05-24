@@ -77,6 +77,7 @@
 * [2023-05-23, 07:20:05](https://news.ycombinator.com/item?id=36041016) - [Show HN: MrScraper AI – Dead simple web scraper (powered by AI)](https://mrscraper.com/ai)
 * [2023-05-23, 06:52:16](https://news.ycombinator.com/item?id=36040803) - [Linux Networking Shallow Dive: WireGuard, Routing, TCP&#x2F;IP and Nat](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
 * [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
+* [2023-05-23, 06:33:31](https://news.ycombinator.com/item?id=36040666) - [Looking Back On Helm (secure email appliance)](https://giri.co/looking-back-on-helm/)
 * [2023-05-23, 06:03:08](https://news.ycombinator.com/item?id=36040457) - [What&#x27;s up with this new memory_order_consume memory order?](https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
 * [2023-05-23, 05:41:34](https://news.ycombinator.com/item?id=36040307) - [In-Betweeners](https://www.lrb.co.uk/the-paper/v45/n10/malcolm-gaskill/in-betweeners)
