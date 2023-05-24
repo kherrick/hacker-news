@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-05-24, 13:39:36",
-      "https://news.ycombinator.com/item?id=36057889"
-    ],
-    [
-      "Finland&#x27;s average electricity price slips into negative territory",
-      "https://yle.fi/a/74-20033326"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 13:24:03",
       "https://news.ycombinator.com/item?id=36057675"
     ],
     [
-      "Hypersonic Missiles Are Just Misunderstood",
+      "Hypersonic missiles are just misunderstood",
       "https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36057667"
     ],
     [
-      "Pump the brakes on your police’s use of Flock’s (YC17) mass surveillance",
+      "Pump the brakes on your police’s use of Flock (YC17)’s mass surveillance",
       "https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36057183"
     ],
     [
-      "Why the Original Transformer LLM Figure Is Wrong, and Other Interesting Tidbits",
+      "The original transformer LLM figure is wrong",
       "https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Tokyo’s trash-collecting samurai takes a fun, zany approach to cleanup",
       "https://theworld.org/stories/2023-05-19/tokyo-s-trash-collecting-samurai-takes-fun-zany-approach-cleanup"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 16:32:59",
+      "https://news.ycombinator.com/item?id=36033566"
+    ],
+    [
+      "Easier data debugging with Zed’s first-class errors",
+      "https://www.brimdata.io/blog/debugging-data-first-class-errors/"
     ]
   ],
   [
