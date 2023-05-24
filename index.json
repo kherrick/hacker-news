@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-24, 13:24:03",
+      "https://news.ycombinator.com/item?id=36057675"
+    ],
+    [
+      "Hypersonic Missiles Are Just Misunderstood",
+      "https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 13:23:26",
+      "https://news.ycombinator.com/item?id=36057667"
+    ],
+    [
+      "Pump the Brakes on Your Police’s Use of Flock’s [YC2017] Mass Surveillance",
+      "https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 12:59:45",
       "https://news.ycombinator.com/item?id=36057388"
     ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36055826"
     ],
     [
-      "Venus is not Earth’s closest neighbor",
+      "Venus is not Earth’s closest neighbor (2019) [pdf]",
       "https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-05-24, 03:07:02",
-      "https://news.ycombinator.com/item?id=36053592"
-    ],
-    [
-      "Meta Open-Sources Computer Vision Foundation Model DINOv2",
-      "https://www.infoq.com/news/2023/05/meta-dinov2-vision/"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 02:33:01",
       "https://news.ycombinator.com/item?id=36053411"
     ],
@@ -157,16 +167,6 @@
     [
       "50 years in filesystems: towards 2004 – LFS",
       "https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 19:18:10",
-      "https://news.ycombinator.com/item?id=36049386"
-    ],
-    [
-      "Instant flood fill with HTML Canvas",
-      "https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-05-23, 06:33:31",
+      "https://news.ycombinator.com/item?id=36040666"
+    ],
+    [
+      "Looking Back On Helm (secure email appliance)",
+      "https://giri.co/looking-back-on-helm/"
+    ]
+  ],
+  [
+    [
       "2023-05-23, 06:03:08",
       "https://news.ycombinator.com/item?id=36040457"
     ],
@@ -267,16 +277,6 @@
     [
       "Easier data debugging with Zed’s first-class errors",
       "https://www.brimdata.io/blog/debugging-data-first-class-errors/"
-    ]
-  ],
-  [
-    [
-      "2023-05-22, 07:25:42",
-      "https://news.ycombinator.com/item?id=36028410"
-    ],
-    [
-      "Choosing a Name for Your Computer (1990)",
-      "https://www.rfc-editor.org/rfc/rfc1178"
     ]
   ],
   [
