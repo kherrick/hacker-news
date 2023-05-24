@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2023-05-24, 13:25:13",
+      "https://news.ycombinator.com/item?id=36057687"
+    ],
+    [
+      "Terminal app built over WebGPU, WebAssembly and Rust",
+      "https://github.com/raphamorim/rio"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 13:24:03",
       "https://news.ycombinator.com/item?id=36057675"
     ],
     [
       "Hypersonic missiles are just misunderstood",
       "https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 13:23:26",
-      "https://news.ycombinator.com/item?id=36057667"
-    ],
-    [
-      "Pump the brakes on your police’s use of Flock (YC17)’s mass surveillance",
-      "https://www.aclu.org/news/privacy-technology/how-to-pump-the-brakes-on-your-police-departments-use-of-flocks-mass-surveillance-license-plate-readers"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-05-24, 05:46:10",
-      "https://news.ycombinator.com/item?id=36054521"
-    ],
-    [
-      "SQLite builds for WASI since 3.41.0",
-      "https://wasmlabs.dev/articles/sqlite-wasi-support/"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 04:46:05",
       "https://news.ycombinator.com/item?id=36054182"
     ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2023-05-24, 02:33:01",
-      "https://news.ycombinator.com/item?id=36053411"
+      "2023-05-24, 03:17:47",
+      "https://news.ycombinator.com/item?id=36053662"
     ],
     [
-      "Container shipping has cratered, as ship owners try to avoid unprofitable trips",
-      "https://www.wsj.com/articles/ocean-freight-rates-slump-as-demand-for-apparel-and-electronics-weakens-460d0a0c"
+      "Meta AI Unleashes Megabyte, a Scalable Model Architecture",
+      "https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2023-05-22, 16:32:59",
-      "https://news.ycombinator.com/item?id=36033566"
+      "2023-05-22, 13:06:12",
+      "https://news.ycombinator.com/item?id=36030945"
     ],
     [
-      "Easier data debugging with Zed’s first-class errors",
-      "https://www.brimdata.io/blog/debugging-data-first-class-errors/"
+      "New study suggests Joro spiders are gentle giants",
+      "https://phys.org/news/2023-05-massive-joro-spiders-gentle-giants.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-22, 07:25:42",
+      "https://news.ycombinator.com/item?id=36028410"
+    ],
+    [
+      "Choosing a Name for Your Computer (1990)",
+      "https://www.rfc-editor.org/rfc/rfc1178"
     ]
   ],
   [
