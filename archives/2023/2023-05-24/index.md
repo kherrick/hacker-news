@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-24](index.md)
 
 * [2023-05-24, 20:34:58](https://news.ycombinator.com/item?id=36063531) - [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
+* [2023-05-24, 20:17:07](https://news.ycombinator.com/item?id=36063346) - [Neeva Acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
 * [2023-05-24, 19:57:49](https://news.ycombinator.com/item?id=36063166) - [OpenAI Major Outage](https://status.openai.com/incidents/jbt079x532bg)
 * [2023-05-24, 19:19:56](https://news.ycombinator.com/item?id=36062763) - [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
 * [2023-05-24, 19:03:17](https://news.ycombinator.com/item?id=36062602) - [Kenny Log-Ins](https://www.kennylog-in.com)
@@ -64,6 +65,7 @@
 * [2023-05-24, 10:14:31](https://news.ycombinator.com/item?id=36055986) - [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
 * [2023-05-24, 09:50:01](https://news.ycombinator.com/item?id=36055826) - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
 * [2023-05-24, 08:17:23](https://news.ycombinator.com/item?id=36055360) - [Hypergamy: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
+* [2023-05-24, 07:25:47](https://news.ycombinator.com/item?id=36055093) - [The Structure of Scientific Revolutions [pdf]](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf)
 * [2023-05-24, 07:11:40](https://news.ycombinator.com/item?id=36054997) - [Microsoft enables booting PCs directly into cloud PCs](https://www.theregister.com/2023/05/24/windows_365_boot_preview/)
 * [2023-05-24, 07:11:00](https://news.ycombinator.com/item?id=36054990) - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
