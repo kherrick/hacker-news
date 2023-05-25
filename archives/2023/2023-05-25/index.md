@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 13:53:12](https://news.ycombinator.com/item?id=36070722) - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * [2023-05-25, 13:44:14](https://news.ycombinator.com/item?id=36070611) - [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
 * [2023-05-25, 13:26:47](https://news.ycombinator.com/item?id=36070426) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 13:24:32](https://news.ycombinator.com/item?id=36070406) - [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
