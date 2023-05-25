@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 19:21:52](https://news.ycombinator.com/item?id=36074911) - [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
 * [2023-05-25, 19:16:15](https://news.ycombinator.com/item?id=36074845) - [War Is a Racket (1935)](https://archive.org/details/WarIsARacket)
 * [2023-05-25, 19:00:50](https://news.ycombinator.com/item?id=36074646) - [Aurora Store Accounts Blocked by Google](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
 * [2023-05-25, 18:42:12](https://news.ycombinator.com/item?id=36074423) - [YouTube Is Killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
-* [2023-05-25, 18:03:40](https://news.ycombinator.com/item?id=36073957) - [The US Might Be Only AA+](https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa)
 * [2023-05-25, 17:48:02](https://news.ycombinator.com/item?id=36073785) - [New Playground: Memory Spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
 * [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
 * [2023-05-25, 17:15:00](https://news.ycombinator.com/item?id=36073379) - [Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode](https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/)

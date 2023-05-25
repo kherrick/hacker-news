@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 19:21:52](https://news.ycombinator.com/item?id=36074911) - [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
 * [2023-05-25, 19:16:15](https://news.ycombinator.com/item?id=36074845) - [War Is a Racket (1935)](https://archive.org/details/WarIsARacket)
 * [2023-05-25, 19:00:50](https://news.ycombinator.com/item?id=36074646) - [Aurora Store Accounts Blocked by Google](https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912)
 * [2023-05-25, 18:42:12](https://news.ycombinator.com/item?id=36074423) - [YouTube Is Killing Stories](https://www.theverge.com/2023/5/25/23736246/youtube-ending-stories-shorts-community-posts)
