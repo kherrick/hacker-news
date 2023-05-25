@@ -6,6 +6,7 @@
 
 * [2023-05-25, 20:57:33](https://news.ycombinator.com/item?id=36076120) - [The Supreme Court Just Gutted the Clean Water Act](https://gizmodo.com/supreme-court-guts-clean-water-act-sackett-epa-1850474838)
 * [2023-05-25, 20:46:23](https://news.ycombinator.com/item?id=36075977) - [Chatbot Arena Leaderboard Updates (Week 4)](https://lmsys.org/blog/2023-05-25-leaderboard/)
+* [2023-05-25, 20:41:31](https://news.ycombinator.com/item?id=36075917) - [It will take years to get Deutsche Bahn back on track](https://www.economist.com/business/2023/05/25/it-will-take-years-to-get-deutsche-bahn-back-on-track)
 * [2023-05-25, 20:38:25](https://news.ycombinator.com/item?id=36075886) - [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
 * [2023-05-25, 20:31:53](https://news.ycombinator.com/item?id=36075801) - [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 * [2023-05-25, 20:13:12](https://news.ycombinator.com/item?id=36075550) - [OpenAI CEO raises $115M for crypto company that scans people’s eyeballs](https://arstechnica.com/tech-policy/2023/05/openai-ceo-raises-115m-for-crypto-company-that-scans-peoples-eyeballs/)
