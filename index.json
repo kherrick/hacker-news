@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2023-05-25, 16:05:51",
+      "https://news.ycombinator.com/item?id=36072524"
+    ],
+    [
+      "ChatGPT plugins now support Postgres and Supabase",
+      "https://supabase.com/blog/chatgpt-plugins-support-postgres"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 15:44:01",
       "https://news.ycombinator.com/item?id=36072219"
     ],
     [
       "Electric cars prove we need to rethink brake lights",
       "https://www.youtube.com/watch?v=U0YW7x9U5TQ"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 15:40:49",
+      "https://news.ycombinator.com/item?id=36072165"
+    ],
+    [
+      "Long-term Covid-19 booster effectiveness: a population-based cohort study",
+      "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00058-0/fulltext"
     ]
   ],
   [
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2023-05-25, 14:42:36",
+      "https://news.ycombinator.com/item?id=36071342"
+    ],
+    [
+      "Lessons from Creating a VSCode Extension with GPT-4",
+      "https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 14:29:20",
       "https://news.ycombinator.com/item?id=36071183"
     ],
@@ -51,22 +81,12 @@
   ],
   [
     [
-      "2023-05-25, 14:14:58",
-      "https://news.ycombinator.com/item?id=36071001"
+      "2023-05-25, 14:19:49",
+      "https://news.ycombinator.com/item?id=36071077"
     ],
     [
-      "The forces at play in de-dollarisation",
-      "https://www.reuters.com/markets/currencies/end-king-dollar-forces-play-de-dollarisation-2023-05-25/"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 13:53:12",
-      "https://news.ycombinator.com/item?id=36070722"
-    ],
-    [
-      "Alien was released 44 years ago today",
-      "https://twitter.com/ATRightMovies/status/1661664750273527810"
+      "I Fired Myself",
+      "https://blog.cto.berlin/why-i-fired-myself-94deccee2c03"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "How to Finetune GPT Like Large Language Models on a Custom Dataset",
       "https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 09:26:34",
-      "https://news.ycombinator.com/item?id=36068619"
-    ],
-    [
-      "RFC: Enforcing Bounds Safety in C (-fbounds-safety)",
-      "https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Ask HN: How do you not take criticism of your work personally?",
       "https://news.ycombinator.com/item?id=36056299"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 08:27:59",
-      "https://news.ycombinator.com/item?id=36055426"
-    ],
-    [
-      "Thin Film Patterns",
-      "http://john.maloney.org/Patterns/patterns.htm"
     ]
   ],
   [
