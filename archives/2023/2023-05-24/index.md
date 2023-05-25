@@ -62,6 +62,7 @@
 * [2023-05-24, 12:59:45](https://news.ycombinator.com/item?id=36057388) - [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD Has a One-Liner to Help Speed Up Linux System Resume Time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
 * [2023-05-24, 12:44:23](https://news.ycombinator.com/item?id=36057227) - [Facebook owner Meta starts final round of layoffs](https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/)
+* [2023-05-24, 12:43:46](https://news.ycombinator.com/item?id=36057222) - [Mean Average Precision (mAP): Common Definitions, Myths and Misconceptions](https://medium.com/@tenyks_blogger/mean-average-precision-definition-and-common-myths-c679a809807a)
 * [2023-05-24, 12:39:28](https://news.ycombinator.com/item?id=36057183) - [Why the Original Transformer LLM Figure Is Wrong, and Other Interesting Tidbits](https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure)
 * [2023-05-24, 12:34:48](https://news.ycombinator.com/item?id=36057132) - [Meta has started its latest round of layoffs, focusing on business groups](https://www.cnbc.com/2023/05/24/meta-layoffs-latest-round-of-cuts-focuses-on-business-groups.html)
 * [2023-05-24, 12:29:08](https://news.ycombinator.com/item?id=36057074) - [Show HN: HelpHub – GPT chatbot for any site by CommandBar (YC S20)](https://helphub.commandbar.com)
