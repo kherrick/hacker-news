@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-25, 22:48:03",
+      "https://news.ycombinator.com/item?id=36077413"
+    ],
+    [
+      "Media Bias Fact Check: Hacker News",
+      "https://mediabiasfactcheck.com/hacker-news/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 21:45:45",
       "https://news.ycombinator.com/item?id=36076667"
     ],
@@ -15,18 +25,8 @@
       "https://news.ycombinator.com/item?id=36076629"
     ],
     [
-      "Neanderthal flute: The oldest musical instrument in the world",
+      "Neanderthal Flute",
       "https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 21:34:20",
-      "https://news.ycombinator.com/item?id=36076545"
-    ],
-    [
-      "WHO Releases Data.who.int",
-      "https://www.who.int/news-room/feature-stories/detail/who-releases-data.who.int"
     ]
   ],
   [
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36075977"
     ],
     [
-      "Chatbot Arena Leaderboard Updates (Week 4)",
+      "Chatbot Arena Leaderboard",
       "https://lmsys.org/blog/2023-05-25-leaderboard/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36075886"
     ],
     [
-      "Whistleblower Drops 100 GB of Tesla Secrets to German News Site",
+      "Whistleblower drops 100 GB of Tesla secrets to German news site",
       "https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542"
     ]
   ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36073241"
     ],
     [
-      "Gorilla: LLM Connected with APIs",
+      "Gorilla: Large Language Model connected with massive APIs",
       "https://gorilla.cs.berkeley.edu/"
     ]
   ],
@@ -145,18 +145,8 @@
       "https://news.ycombinator.com/item?id=36073159"
     ],
     [
-      "Show HN: Hacker News in Slow Italian - AI-generated podcast (with code)",
+      "Hacker News in Slow Italian",
       "https://hn.lingually.ai"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 15:47:20",
-      "https://news.ycombinator.com/item?id=36072268"
-    ],
-    [
-      "AI Canon",
-      "https://a16z.com/2023/05/25/ai-canon/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Lessons from Creating a VSCode Extension with GPT-4",
       "https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 14:29:20",
+      "https://news.ycombinator.com/item?id=36071183"
+    ],
+    [
+      "Show HN: HN Follow – Follow Your Friends on HN",
+      "https://www.val.town/v/rodrigotello.hnFollow"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=36068850"
     ],
     [
-      "How to Finetune GPT Like Large Language Models on a Custom Dataset",
+      "How to Finetune GPT-Like Large Language Models on a Custom Dataset",
       "https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36054430"
     ],
     [
-      "Nirvana Fallacy",
+      "Nirvana fallacy",
       "https://en.wikipedia.org/wiki/Nirvana_fallacy"
     ]
   ]
