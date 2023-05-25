@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
 * [2023-05-25, 22:48:03](https://news.ycombinator.com/item?id=36077413) - [Media Bias Fact Check: Hacker News](https://mediabiasfactcheck.com/hacker-news/)
+* [2023-05-25, 22:43:28](https://news.ycombinator.com/item?id=36077360) - [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 * [2023-05-25, 21:35:09](https://news.ycombinator.com/item?id=36076553) - [Tesla Model Y is now the world&#x27;s best-selling car, first EV to do so](https://electrek.co/2023/05/25/tesla-model-y-is-now-the-worlds-best-selling-car-first-ev-to-do-so/)
