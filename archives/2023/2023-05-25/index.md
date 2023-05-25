@@ -6,6 +6,7 @@
 
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
+* [2023-05-25, 21:35:09](https://news.ycombinator.com/item?id=36076553) - [Tesla Model Y is now the world&#x27;s best-selling car, first EV to do so](https://electrek.co/2023/05/25/tesla-model-y-is-now-the-worlds-best-selling-car-first-ev-to-do-so/)
 * [2023-05-25, 20:57:33](https://news.ycombinator.com/item?id=36076120) - [The Supreme Court Just Gutted the Clean Water Act](https://gizmodo.com/supreme-court-guts-clean-water-act-sackett-epa-1850474838)
 * [2023-05-25, 20:49:36](https://news.ycombinator.com/item?id=36076027) - [There May Be a Second Kuiper Belt, and New Horizons Is Headed There](https://spaceref.com/science-and-exploration/second-kuiper-belt-new-horizons-headed/)
 * [2023-05-25, 20:46:23](https://news.ycombinator.com/item?id=36075977) - [Chatbot Arena Leaderboard Updates (Week 4)](https://lmsys.org/blog/2023-05-25-leaderboard/)
@@ -61,6 +62,7 @@
 * [2023-05-25, 10:13:38](https://news.ycombinator.com/item?id=36068883) - [Vapor.js – The Smallest and Fastest JavaScript Library](https://github.com/madrobby/vapor.js)
 * [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 * [2023-05-25, 09:50:18](https://news.ycombinator.com/item?id=36068750) - [Ask HN: For users with 10k+ karma, how much time do you spend on HN?](https://news.ycombinator.com/item?id=36068750)
+* [2023-05-25, 09:45:39](https://news.ycombinator.com/item?id=36068723) - [An interactive introduction to the surface code](https://arthurpesah.me/blog/2023-05-13-surface-code/)
 * [2023-05-25, 09:45:21](https://news.ycombinator.com/item?id=36068720) - [Show HN: Personal GPT-4 AI document assistant](https://www.chatdox.com/)
 * [2023-05-25, 09:26:34](https://news.ycombinator.com/item?id=36068619) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
 * [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
