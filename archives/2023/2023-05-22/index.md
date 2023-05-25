@@ -91,6 +91,7 @@
 * [2023-05-22, 07:25:42](https://news.ycombinator.com/item?id=36028410) - [Choosing a Name for Your Computer](https://www.rfc-editor.org/rfc/rfc1178)
 * [2023-05-22, 06:51:58](https://news.ycombinator.com/item?id=36028244) - [Source code for Glider Pro (1994)](https://github.com/softdorothy/GliderPRO)
 * [2023-05-22, 06:26:09](https://news.ycombinator.com/item?id=36028113) - [The Chicago Newspaper That Bought a Bar](https://www.topic.com/the-story-behind-the-chicago-newspaper-that-bought-a-bar)
+* [2023-05-22, 06:16:22](https://news.ycombinator.com/item?id=36028045) - [The Remarkable Basilisks](https://tetzoo.com/blog/2023/5/10/basilisks-revisited)
 * [2023-05-22, 06:16:03](https://news.ycombinator.com/item?id=36028041) - [SR-71 pilot, photographer and storyteller Brian Shul dies at 75](https://newatlas.com/remarkable-people/brian-shul-death/)
 * [2023-05-22, 05:35:00](https://news.ycombinator.com/item?id=36027799) - [qb-escape – QuickBooks to GnuCash migration scripts](https://github.com/erikmack/qb-escape)
 * [2023-05-22, 05:13:33](https://news.ycombinator.com/item?id=36027702) - [Investigating the impact of HTTP3 on network latency for search](https://dropbox.tech/frontend/investigating-the-impact-of-http3-on-network-latency-for-search)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
 * [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
 * [2023-05-25, 02:42:32](https://news.ycombinator.com/item?id=36066513) - [Psychiatric detentions rise in first year of 988 hotline](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/)
 * [2023-05-25, 02:26:30](https://news.ycombinator.com/item?id=36066431) - [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
@@ -18,8 +19,6 @@
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 17:22:45](https://news.ycombinator.com/item?id=36061326) - [PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico](https://github.com/polpo/picogus)
-* [2023-05-24, 16:04:45](https://news.ycombinator.com/item?id=36060031) - [I didn’t learn Unix by reading all the manpages (2022)](https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/)
-* [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
 * [2023-05-24, 13:12:04](https://news.ycombinator.com/item?id=36057523) - [Ordering Photocopies from Japan&#x27;s National Library](https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/)
 * [2023-05-24, 12:43:46](https://news.ycombinator.com/item?id=36057222) - [Mean Average Precision (mAP): Common Definitions, Myths and Misconceptions](https://medium.com/@tenyks_blogger/mean-average-precision-definition-and-common-myths-c679a809807a)
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The teens behind the Mirai botnet](https://spectrum.ieee.org/mirai-botnet)
@@ -29,6 +28,7 @@
 * [2023-05-24, 06:45:02](https://news.ycombinator.com/item?id=36054868) - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 * [2023-05-23, 12:19:43](https://news.ycombinator.com/item?id=36043239) - [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)
 * [2023-05-23, 10:29:08](https://news.ycombinator.com/item?id=36042249) - [How to Find a Missing Person with Dementia](https://www.newyorker.com/news/annals-of-inquiry/how-to-find-a-missing-person-with-dementia)
+* [2023-05-22, 06:16:22](https://news.ycombinator.com/item?id=36028045) - [The Remarkable Basilisks](https://tetzoo.com/blog/2023/5/10/basilisks-revisited)
 * [2023-05-21, 12:07:23](https://news.ycombinator.com/item?id=36020067) - [A Microscopic Look at Snail Jaws](https://nhm.org/stories/microscopic-look-snail-jaws)
 
 ## [Archives](archives/index.md)

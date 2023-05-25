@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
 * [2023-05-25, 03:54:02](https://news.ycombinator.com/item?id=36066900) - [Framework Laptop 16](https://frame.work/blog/introducing-the-framework-laptop-16)
 * [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
 * [2023-05-25, 02:42:32](https://news.ycombinator.com/item?id=36066513) - [Psychiatric Detentions Rise 220% in First Year of 988 Hotline](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/)
