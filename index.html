@@ -129,27 +129,6 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="36066900">
-          <h3>
-            <a
-              class="item"
-              href="https://frame.work/blog/introducing-the-framework-laptop-16"
-              >Framework Laptop 16</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-05-25 @ 03:54:02</span
-              ><span class="points-container"
-                >Points: <span class="points">85</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36066900"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="36066660">
           <h3>
             <a class="item" href="https://www.tecgraf.puc-rio.br/iup/"
@@ -160,7 +139,7 @@
             <h4>
               <span>2023-05-25 @ 03:05:32</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36066660"
                   >Comments</a
@@ -181,7 +160,7 @@
             <h4>
               <span>2023-05-25 @ 02:42:32</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36066513"
                   >Comments</a
@@ -207,7 +186,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36066431"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -224,11 +203,11 @@
             <h4>
               <span>2023-05-25 @ 00:17:14</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36065666"
                   >Comments</a
-                ><span class="descendants">: 63</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -245,11 +224,11 @@
             <h4>
               <span>2023-05-24 @ 23:25:17</span
               ><span class="points-container"
-                >Points: <span class="points">404</span></span
+                >Points: <span class="points">411</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36065175"
                   >Comments</a
-                ><span class="descendants">: 176</span></span
+                ><span class="descendants">: 180</span></span
               >
             </h4>
           </section>
@@ -264,13 +243,115 @@
             <h4>
               <span>2023-05-24 @ 23:02:56</span
               ><span class="points-container"
-                >Points: <span class="points">218</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36064971"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="36064639">
+          <h3>
+            <a class="item" href="https://pixian.ai/remove-image-backgrounds"
+              >Show HN: Image background removal without annoying
+              subscriptions</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-05-24 @ 22:26:59</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36064639"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Removing the background from images is a surprisingly common
+                image processing task, and AI has made it really easy. The
+                technology has come a long way since segment leader remove.bg
+                launched here on hn in Dec 2018 [1]. Chasing remove.bg's
+                success, a legion of providers have come on the market offering
+                varying levels of quality &amp; service.
+              </p>
+              <p>
+                Despite there being a large number of competing services, most
+                still price for very high (~95%?) gross margins. Furthermore,
+                subscriptions make the effective unit price a lot higher than
+                the list price for infrequent users, and requires effort &amp;
+                attention to ensure you're getting value for money. This has
+                prevented a host of use cases (e.g. infrequent professional /
+                hobbyist) and business models (e.g. ad-supported websites &amp;
+                mobile apps).
+              </p>
+              <p>
+                We see this as an opportunity where we can jump to the market's
+                logical conclusion to gain market share and build goodwill:
+                cost-plus PAYGO pricing, i.e. the "S3 pricing model".
+              </p>
+              <p>
+                So we've built yet-another image background removal service (
+                <a href="https://pixian.ai">https://pixian.ai</a> - introductory
+                post 6 months ago [2], a ton has been improved since then) but
+                with a couple of twists:
+              </p>
+              <p>
+                1. Quantified quality comparison (90-120% of remove.bg,
+                depending on image category), free for you to check your own
+                images so you can make an informed choice.
+              </p>
+              <p>
+                2. Customer-friendly pricing (PAYGO @ 1-10% of competitors'
+                subscriptions) with a generous free tier (and free while in
+                beta).
+              </p>
+              <p>
+                3. A novel API result format: Delta PNG [3], which offers
+                excellent latency &amp; bandwidth savings. Especially useful for
+                mobile apps.
+              </p>
+              <p>
+                4. Operational transparency: actual volume &amp; latency metrics
+                public, with more coming soon (all API providers should be
+                showing this).
+              </p>
+              <p>
+                There's of course more to it than just price and we see several
+                sources of differentiation in this market: quality, price,
+                capability, reliability, latency, and goodwill.
+              </p>
+              <p>
+                As a new entrant we're looking to meet-or-beat the quality bar;
+                beat on price, capability, reliability and latency; and to build
+                up goodwill over time.
+              </p>
+              <p>
+                Our goal is to make it a no-brainer for new accounts to choose
+                us, and to provide the tools and guidance necessary for existing
+                accounts to make the switch with confidence.
+              </p>
+              <p>We'd love for you to try it out and to hear your thoughts!</p>
+              <p><a href="https://pixian.ai">https://pixian.ai</a></p>
+              <p>
+                [1]
+                <a href="https://news.ycombinator.com/item?id=18697601"
+                  >https://news.ycombinator.com/item?id=18697601</a
+                >
+                [2]
+                <a href="https://news.ycombinator.com/item?id=33439405"
+                  >https://news.ycombinator.com/item?id=33439405</a
+                >
+                [3]
+                <a href="https://pixian.ai/api/deltaPng"
+                  >https://pixian.ai/api/deltaPng</a
+                >
+              </p>
+            </div>
           </section>
         </section>
         <section id="36064568">
@@ -283,11 +364,11 @@
             <h4>
               <span>2023-05-24 @ 22:19:39</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36064568"
                   >Comments</a
-                ><span class="descendants">: 54</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -304,11 +385,11 @@
             <h4>
               <span>2023-05-24 @ 22:14:26</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">175</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36064515"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -323,11 +404,11 @@
             <h4>
               <span>2023-05-24 @ 21:50:00</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36064305"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -344,11 +425,11 @@
             <h4>
               <span>2023-05-24 @ 21:13:59</span
               ><span class="points-container"
-                >Points: <span class="points">308</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36063943"
                   >Comments</a
-                ><span class="descendants">: 130</span></span
+                ><span class="descendants">: 131</span></span
               >
             </h4>
           </section>
@@ -390,7 +471,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36062763"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -403,7 +484,7 @@
             <h4>
               <span>2023-05-24 @ 19:03:17</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36062602"
                   >Comments</a
@@ -424,11 +505,11 @@
             <h4>
               <span>2023-05-24 @ 17:41:39</span
               ><span class="points-container"
-                >Points: <span class="points">398</span></span
+                >Points: <span class="points">400</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36061574"
                   >Comments</a
-                ><span class="descendants">: 148</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -445,7 +526,7 @@
             <h4>
               <span>2023-05-24 @ 17:28:12</span
               ><span class="points-container"
-                >Points: <span class="points">890</span></span
+                >Points: <span class="points">899</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36061407"
                   >Comments</a
@@ -465,7 +546,7 @@
             <h4>
               <span>2023-05-24 @ 17:24:05</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36061344"
                   >Comments</a
@@ -582,7 +663,7 @@
             <h4>
               <span>2023-05-24 @ 17:22:45</span
               ><span class="points-container"
-                >Points: <span class="points">107</span></span
+                >Points: <span class="points">108</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36061326"
                   >Comments</a
@@ -644,7 +725,7 @@
             <h4>
               <span>2023-05-24 @ 13:24:03</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">244</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36057675"
                   >Comments</a
@@ -665,11 +746,11 @@
             <h4>
               <span>2023-05-24 @ 13:12:04</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36057523"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -687,7 +768,7 @@
             <h4>
               <span>2023-05-24 @ 12:43:46</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36057222"
                   >Comments</a
@@ -706,7 +787,7 @@
             <h4>
               <span>2023-05-24 @ 11:03:35</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">204</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36056320"
                   >Comments</a
@@ -725,11 +806,11 @@
             <h4>
               <span>2023-05-24 @ 11:00:23</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36056299"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
             <div class="text">
@@ -751,11 +832,11 @@
             <h4>
               <span>2023-05-24 @ 07:22:01</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36055066"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -797,7 +878,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36043239"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -814,7 +895,7 @@
             <h4>
               <span>2023-05-23 @ 10:29:08</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36042249"
                   >Comments</a
