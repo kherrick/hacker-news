@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-25](index.md)
+
+* [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [Ze Frank True Facts: The Smartest Slime](https://www.youtube.com/watch?v=k_GTIL7AECQ)
