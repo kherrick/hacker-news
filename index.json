@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-25, 13:44:14",
+      "https://news.ycombinator.com/item?id=36070611"
+    ],
+    [
+      "Germany Falls into Recession",
+      "https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 13:26:47",
+      "https://news.ycombinator.com/item?id=36070426"
+    ],
+    [
+      "Implementing a distributed key-value store on top of implementing Raft in Go",
+      "https://notes.eatonphil.com/2023-05-25-raft.html"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 13:24:32",
       "https://news.ycombinator.com/item?id=36070406"
     ],
@@ -11,12 +31,32 @@
   ],
   [
     [
+      "2023-05-25, 13:08:28",
+      "https://news.ycombinator.com/item?id=36070261"
+    ],
+    [
+      "PostgreSQL 16 Beta 1",
+      "https://www.postgresql.org/about/news/postgresql-16-beta-1-released-2643/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 12:50:22",
       "https://news.ycombinator.com/item?id=36070090"
     ],
     [
       "Show HN: Visual intuitive explanations of LLM concepts (LLM University)",
       "https://news.ycombinator.com/item?id=36070090"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 12:36:05",
+      "https://news.ycombinator.com/item?id=36069967"
+    ],
+    [
+      "Ask HN: Examples of desktop software with 20+ years of longevity?",
+      "https://news.ycombinator.com/item?id=36069967"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2023-05-24, 17:41:39",
-      "https://news.ycombinator.com/item?id=36061574"
-    ],
-    [
-      "The long road to recover Frogger 2 source from tape drives",
-      "https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 17:28:12",
       "https://news.ycombinator.com/item?id=36061407"
     ],
@@ -197,16 +227,6 @@
     [
       "Launch HN: Dittofeed (YC S22) – open-source customer engagement platform",
       "https://news.ycombinator.com/item?id=36061344"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 13:12:04",
-      "https://news.ycombinator.com/item?id=36057523"
-    ],
-    [
-      "Ordering Photocopies from Japan&#x27;s National Library",
-      "https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-05-24, 06:36:50",
-      "https://news.ycombinator.com/item?id=36054820"
-    ],
-    [
-      "Trust and the Peripheral Canal",
-      "https://onthepublicrecord.org/2009/03/25/trust-and-the-peripheral-canal/"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 05:28:25",
       "https://news.ycombinator.com/item?id=36054416"
     ],
@@ -287,16 +297,6 @@
     [
       "The Remarkable Basilisks",
       "https://tetzoo.com/blog/2023/5/10/basilisks-revisited"
-    ]
-  ],
-  [
-    [
-      "2023-05-21, 12:07:23",
-      "https://news.ycombinator.com/item?id=36020067"
-    ],
-    [
-      "A Microscopic Look at Snail Jaws",
-      "https://nhm.org/stories/microscopic-look-snail-jaws"
     ]
   ]
 ]
