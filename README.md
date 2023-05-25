@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-25, 09:45:21](https://news.ycombinator.com/item?id=36068720) - [Show HN: Personal GPT-4 AI document assistant](https://www.chatdox.com/)
+* [2023-05-25, 09:50:18](https://news.ycombinator.com/item?id=36068750) - [Ask HN: For users with 10k+ karma, how much time do you spend on HN?](https://news.ycombinator.com/item?id=36068750)
 * [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
 * [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
