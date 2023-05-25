@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-25, 09:50:18](https://news.ycombinator.com/item?id=36068750) - [Ask HN: For users with 10k+ karma, how much time do you spend on HN?](https://news.ycombinator.com/item?id=36068750)
-* [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
 * [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
 * [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
@@ -9,6 +8,7 @@
 * [2023-05-25, 00:17:14](https://news.ycombinator.com/item?id=36065666) - [The QR-code menu is being shown the door](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
 * [2023-05-24, 23:25:17](https://news.ycombinator.com/item?id=36065175) - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 * [2023-05-24, 23:02:56](https://news.ycombinator.com/item?id=36064971) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+* [2023-05-24, 23:02:24](https://news.ycombinator.com/item?id=36064961) - [Minix development has been abandoned?](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
 * [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
 * [2023-05-24, 22:19:39](https://news.ycombinator.com/item?id=36064568) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 * [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA computer grad constructs “crown jewel of cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
