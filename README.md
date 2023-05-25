@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 20:13:12](https://news.ycombinator.com/item?id=36075550) - [OpenAI CEO raises $115M for crypto company that scans people’s eyeballs](https://arstechnica.com/tech-policy/2023/05/openai-ceo-raises-115m-for-crypto-company-that-scans-peoples-eyeballs/)
 * [2023-05-25, 20:01:18](https://news.ycombinator.com/item?id=36075406) - [Hacker New with Semafor UI](https://hackernews-semafor-duhw.vercel.app/)
 * [2023-05-25, 19:21:52](https://news.ycombinator.com/item?id=36074911) - [Canary domain – use-application-dns.net](https://support.mozilla.org/en-US/kb/canary-domain-use-application-dnsnet)
 * [2023-05-25, 19:16:15](https://news.ycombinator.com/item?id=36074845) - [War Is a Racket (1935)](https://archive.org/details/WarIsARacket)
@@ -25,7 +26,6 @@
 * [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [The smartest slime [video]](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 * [2023-05-25, 00:20:13](https://news.ycombinator.com/item?id=36065693) - [Astronomers explore a recently discovered luminous quasar](https://phys.org/news/2023-05-astronomers-explore-luminous-quasar.html)
 * [2023-05-25, 00:15:01](https://news.ycombinator.com/item?id=36065645) - [Behind a Pseudonym, Literary Provocation](https://www.washingtonpost.com/books/2023/05/12/behind-pseudonym-literary-provocation/)
-* [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
 * [2023-05-24, 15:49:52](https://news.ycombinator.com/item?id=36059774) - [Power series, power serious: Talk by Doug McIlroy (2007) [video]](https://www.microsoft.com/en-us/research/video/power-series-power-serious/)
 * [2023-05-24, 11:24:38](https://news.ycombinator.com/item?id=36056488) - [Math That Goes on Forever but Never Repeats](https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/)
 * [2023-05-24, 11:16:00](https://news.ycombinator.com/item?id=36056408) - [Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)

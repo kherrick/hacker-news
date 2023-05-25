@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 20:13:12](https://news.ycombinator.com/item?id=36075550) - [OpenAI CEO raises $115M for crypto company that scans people’s eyeballs](https://arstechnica.com/tech-policy/2023/05/openai-ceo-raises-115m-for-crypto-company-that-scans-peoples-eyeballs/)
 * [2023-05-25, 20:01:18](https://news.ycombinator.com/item?id=36075406) - [Hacker New with Semafor UI](https://hackernews-semafor-duhw.vercel.app/)
 * [2023-05-25, 19:39:40](https://news.ycombinator.com/item?id=36075144) - [Infecting SSH Public Keys with Backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
 * [2023-05-25, 19:25:39](https://news.ycombinator.com/item?id=36074960) - [AI chip boom sends Nvidia’s stock surging after whopper of a quarter](https://www.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html)
