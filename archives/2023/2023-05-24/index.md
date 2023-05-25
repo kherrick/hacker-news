@@ -61,6 +61,7 @@
 * [2023-05-24, 13:12:04](https://news.ycombinator.com/item?id=36057523) - [Ordering Photocopies from Japan&#x27;s National Library](https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/)
 * [2023-05-24, 13:10:01](https://news.ycombinator.com/item?id=36057497) - [Show HN: Procoto – Self-Service RFP Management](https://procoto.com/)
 * [2023-05-24, 12:59:45](https://news.ycombinator.com/item?id=36057388) - [Do not call: States sue telecom company over billions of robocalls](https://abcnews.go.com/Business/wireStory/call-states-sue-telecom-company-billions-robocalls-99553597)
+* [2023-05-24, 12:47:55](https://news.ycombinator.com/item?id=36057261) - [Ask HN: Indic languages OCR and searchable pdfs](https://news.ycombinator.com/item?id=36057261)
 * [2023-05-24, 12:46:37](https://news.ycombinator.com/item?id=36057248) - [AMD Has a One-Liner to Help Speed Up Linux System Resume Time](https://www.phoronix.com/news/AMD-One-Liner-System-Resume)
 * [2023-05-24, 12:44:23](https://news.ycombinator.com/item?id=36057227) - [Facebook owner Meta starts final round of layoffs](https://www.reuters.com/technology/facebook-owner-meta-starts-final-round-layoffs-2023-05-24/)
 * [2023-05-24, 12:43:46](https://news.ycombinator.com/item?id=36057222) - [Mean Average Precision (mAP): Common Definitions, Myths and Misconceptions](https://medium.com/@tenyks_blogger/mean-average-precision-definition-and-common-myths-c679a809807a)
