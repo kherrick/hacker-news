@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36071397"
     ],
     [
-      "You Don&#x27;t Always Need Indexes",
+      "Cases where full scans are better than indexes",
       "https://www.jefftk.com/p/you-dont-always-need-indexes"
     ]
   ],
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-05-25, 13:11:37",
+      "https://news.ycombinator.com/item?id=36070288"
+    ],
+    [
+      "Show HN: Appliku – Deployment PaaS for Python&#x2F;Django",
+      "https://appliku.com/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 13:08:28",
       "https://news.ycombinator.com/item?id=36070261"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-05-25, 10:26:13",
-      "https://news.ycombinator.com/item?id=36068956"
-    ],
-    [
-      "Better cognitive ability from less snacking of processed carbohydrates",
-      "https://studyfinds.org/snacking-processed-foods-brain/"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 10:16:00",
       "https://news.ycombinator.com/item?id=36068896"
     ],
@@ -137,16 +137,6 @@
     [
       "How to Finetune GPT Like Large Language Models on a Custom Dataset",
       "https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 09:26:34",
-      "https://news.ycombinator.com/item?id=36068619"
-    ],
-    [
-      "RFC: Enforcing Bounds Safety in C (-fbounds-safety)",
-      "https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854"
     ]
   ],
   [
@@ -177,16 +167,6 @@
     [
       "IUP – Cross platform C GUI library",
       "https://www.tecgraf.puc-rio.br/iup/"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 02:26:30",
-      "https://news.ycombinator.com/item?id=36066431"
-    ],
-    [
-      "Comb jellies proven to be the sibling group to all other animals",
-      "https://news.ucsc.edu/2023/05/animal-siblings.html"
     ]
   ],
   [
@@ -227,6 +207,26 @@
     [
       "PyPI Was Subpoenaed",
       "https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 17:24:05",
+      "https://news.ycombinator.com/item?id=36061344"
+    ],
+    [
+      "Launch HN: Dittofeed (YC S22) – open-source customer engagement platform",
+      "https://news.ycombinator.com/item?id=36061344"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 15:49:52",
+      "https://news.ycombinator.com/item?id=36059774"
+    ],
+    [
+      "Power series, power serious: Talk by Doug McIlroy (2007) [video]",
+      "https://www.microsoft.com/en-us/research/video/power-series-power-serious/"
     ]
   ],
   [
