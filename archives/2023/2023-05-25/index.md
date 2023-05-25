@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 10:26:13](https://news.ycombinator.com/item?id=36068956) - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
 * [2023-05-25, 09:50:18](https://news.ycombinator.com/item?id=36068750) - [Ask HN: For users with 10k+ karma, how much time do you spend on HN?](https://news.ycombinator.com/item?id=36068750)
 * [2023-05-25, 09:45:21](https://news.ycombinator.com/item?id=36068720) - [Show HN: Personal GPT-4 AI document assistant](https://www.chatdox.com/)
 * [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
