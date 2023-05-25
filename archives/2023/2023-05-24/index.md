@@ -89,6 +89,7 @@
 * [2023-05-24, 07:22:01](https://news.ycombinator.com/item?id=36055066) - [Will deep understanding still be valuable?](https://ericsink.com/entries/depth.html)
 * [2023-05-24, 07:11:40](https://news.ycombinator.com/item?id=36054997) - [Microsoft enables booting PCs directly into cloud PCs](https://www.theregister.com/2023/05/24/windows_365_boot_preview/)
 * [2023-05-24, 07:11:00](https://news.ycombinator.com/item?id=36054990) - [A Guide to Closures in Rust](https://hashrust.com/blog/a-guide-to-closures-in-rust/)
+* [2023-05-24, 06:54:53](https://news.ycombinator.com/item?id=36054918) - [Elm&#x2F;compiler: Matching on negative literals results in a parser error](https://github.com/elm/compiler/issues/1773)
 * [2023-05-24, 06:45:02](https://news.ycombinator.com/item?id=36054868) - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 * [2023-05-24, 06:36:50](https://news.ycombinator.com/item?id=36054820) - [Trust and the Peripheral Canal](https://onthepublicrecord.org/2009/03/25/trust-and-the-peripheral-canal/)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
