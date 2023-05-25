@@ -24,7 +24,7 @@
 * [2023-05-24, 13:12:04](https://news.ycombinator.com/item?id=36057523) - [Ordering Photocopies from Japan&#x27;s National Library](https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/)
 * [2023-05-24, 12:43:46](https://news.ycombinator.com/item?id=36057222) - [Mean Average Precision (mAP): Common Definitions, Myths and Misconceptions](https://medium.com/@tenyks_blogger/mean-average-precision-definition-and-common-myths-c679a809807a)
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The teens behind the Mirai botnet](https://spectrum.ieee.org/mirai-botnet)
-* [2023-05-24, 07:25:47](https://news.ycombinator.com/item?id=36055093) - [The Structure of Scientific Revolutions [pdf]](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf)
+* [2023-05-24, 11:00:23](https://news.ycombinator.com/item?id=36056299) - [Ask HN: How do you not take criticism of your work personally?](https://news.ycombinator.com/item?id=36056299)
 * [2023-05-24, 07:22:01](https://news.ycombinator.com/item?id=36055066) - [Will deep understanding still be valuable?](https://ericsink.com/entries/depth.html)
 * [2023-05-24, 06:45:02](https://news.ycombinator.com/item?id=36054868) - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 * [2023-05-23, 12:19:43](https://news.ycombinator.com/item?id=36043239) - [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)
