@@ -7,6 +7,7 @@
 * [2023-05-25, 10:56:08](https://news.ycombinator.com/item?id=36069157) - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
 * [2023-05-25, 10:50:44](https://news.ycombinator.com/item?id=36069118) - [Sam Altman Says OpenAI Will Leave the EU If There&#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
 * [2023-05-25, 10:26:13](https://news.ycombinator.com/item?id=36068956) - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
+* [2023-05-25, 10:23:44](https://news.ycombinator.com/item?id=36068944) - [4-Bit Quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 * [2023-05-25, 10:16:00](https://news.ycombinator.com/item?id=36068896) - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
 * [2023-05-25, 10:13:38](https://news.ycombinator.com/item?id=36068883) - [Vapor.js – The Smallest and Fastest JavaScript Library](https://github.com/madrobby/vapor.js)
 * [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)

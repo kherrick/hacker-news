@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-25, 10:56:08](https://news.ycombinator.com/item?id=36069157) - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
-* [2023-05-25, 10:50:44](https://news.ycombinator.com/item?id=36069118) - [Sam Altman Says OpenAI Will Leave the EU If There&#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
 * [2023-05-25, 10:26:13](https://news.ycombinator.com/item?id=36068956) - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
+* [2023-05-25, 10:23:44](https://news.ycombinator.com/item?id=36068944) - [4-Bit Quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
 * [2023-05-25, 10:16:00](https://news.ycombinator.com/item?id=36068896) - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
 * [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
@@ -22,6 +21,7 @@
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 13:12:04](https://news.ycombinator.com/item?id=36057523) - [Ordering Photocopies from Japan&#x27;s National Library](https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/)
 * [2023-05-24, 12:43:46](https://news.ycombinator.com/item?id=36057222) - [Mean Average Precision (mAP): Common Definitions, Myths and Misconceptions](https://medium.com/@tenyks_blogger/mean-average-precision-definition-and-common-myths-c679a809807a)
+* [2023-05-24, 11:37:21](https://news.ycombinator.com/item?id=36056589) - [The First Deep-Sea Dive in History](https://www.smithsonianmag.com/science-nature/inside-the-first-deep-sea-dive-in-history-180982128/)
 * [2023-05-24, 11:16:00](https://news.ycombinator.com/item?id=36056408) - [Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)
 * [2023-05-24, 11:00:23](https://news.ycombinator.com/item?id=36056299) - [Ask HN: How do you not take criticism of your work personally?](https://news.ycombinator.com/item?id=36056299)
 * [2023-05-24, 08:27:59](https://news.ycombinator.com/item?id=36055426) - [Thin Film Patterns](http://john.maloney.org/Patterns/patterns.htm)
