@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 16:48:06](https://news.ycombinator.com/item?id=36073020) - [Kissinger&#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 * [2023-05-25, 16:05:53](https://news.ycombinator.com/item?id=36072525) - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
 * [2023-05-25, 16:05:51](https://news.ycombinator.com/item?id=36072524) - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
 * [2023-05-25, 15:47:20](https://news.ycombinator.com/item?id=36072268) - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
@@ -9,7 +10,6 @@
 * [2023-05-25, 14:42:36](https://news.ycombinator.com/item?id=36071342) - [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)
 * [2023-05-25, 14:29:20](https://news.ycombinator.com/item?id=36071183) - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
 * [2023-05-25, 14:19:49](https://news.ycombinator.com/item?id=36071077) - [I Fired Myself](https://blog.cto.berlin/why-i-fired-myself-94deccee2c03)
-* [2023-05-25, 13:53:12](https://news.ycombinator.com/item?id=36070722) - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * [2023-05-25, 13:26:47](https://news.ycombinator.com/item?id=36070426) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 13:08:28](https://news.ycombinator.com/item?id=36070261) - [PostgreSQL 16 Beta 1](https://www.postgresql.org/about/news/postgresql-16-beta-1-released-2643/)
 * [2023-05-25, 12:50:22](https://news.ycombinator.com/item?id=36070090) - [Show HN: Visual intuitive explanations of LLM concepts (LLM University)](https://news.ycombinator.com/item?id=36070090)

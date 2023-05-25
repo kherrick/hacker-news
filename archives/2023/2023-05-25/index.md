@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 16:48:06](https://news.ycombinator.com/item?id=36073020) - [Kissinger&#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 * [2023-05-25, 16:05:53](https://news.ycombinator.com/item?id=36072525) - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
 * [2023-05-25, 16:05:51](https://news.ycombinator.com/item?id=36072524) - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
 * [2023-05-25, 15:47:20](https://news.ycombinator.com/item?id=36072268) - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
