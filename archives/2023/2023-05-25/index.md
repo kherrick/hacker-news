@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 20:46:23](https://news.ycombinator.com/item?id=36075977) - [Chatbot Arena Leaderboard Updates (Week 4)](https://lmsys.org/blog/2023-05-25-leaderboard/)
 * [2023-05-25, 20:38:25](https://news.ycombinator.com/item?id=36075886) - [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
 * [2023-05-25, 20:31:53](https://news.ycombinator.com/item?id=36075801) - [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 * [2023-05-25, 20:13:12](https://news.ycombinator.com/item?id=36075550) - [OpenAI CEO raises $115M for crypto company that scans people’s eyeballs](https://arstechnica.com/tech-policy/2023/05/openai-ceo-raises-115m-for-crypto-company-that-scans-peoples-eyeballs/)
