@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-25, 01:40:35](https://news.ycombinator.com/item?id=36066186) - [Chinese Businesses Fueling the Fentanyl Epidemic Receive Millions in Crypto](https://www.elliptic.co/blog/chinese-businesses-fueling-the-fentanyl-epidemic-receive-millions-in-cryptocurrency-payments)
-* [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [Ze Frank True Facts: The Smartest Slime](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 * [2023-05-24, 23:25:17](https://news.ycombinator.com/item?id=36065175) - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 * [2023-05-24, 23:02:56](https://news.ycombinator.com/item?id=36064971) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2023-05-24, 23:02:24](https://news.ycombinator.com/item?id=36064961) - [Minix development has been abandoned?](https://git.minix3.org/index.cgi?p=minix.git;a=summary)
@@ -30,6 +29,7 @@
 * [2023-05-23, 10:29:08](https://news.ycombinator.com/item?id=36042249) - [How to Find a Missing Person with Dementia](https://www.newyorker.com/news/annals-of-inquiry/how-to-find-a-missing-person-with-dementia)
 * [2023-05-23, 09:23:04](https://news.ycombinator.com/item?id=36041845) - [SR-71 Blackbird Speed Check Story](https://www.thesr71blackbird.com/Aircraft/Stories/sr-71-blackbird-speed-check-story)
 * [2023-05-23, 05:42:07](https://news.ycombinator.com/item?id=36040312) - [Heat as a Rite of Passage in the Kitchen](https://enthucutlet.com/enthuoriginals/playing-with-fire/trial-by-fire/)
+* [2023-05-21, 12:07:23](https://news.ycombinator.com/item?id=36020067) - [A Microscopic Look at Snail Jaws](https://nhm.org/stories/microscopic-look-snail-jaws)
 
 ## [Archives](archives/index.md)
 
