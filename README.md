@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 13:24:32](https://news.ycombinator.com/item?id=36070406) - [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
 * [2023-05-25, 12:50:22](https://news.ycombinator.com/item?id=36070090) - [Show HN: Visual intuitive explanations of LLM concepts (LLM University)](https://news.ycombinator.com/item?id=36070090)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything You Always Wanted to Know About Mathematics [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 * [2023-05-25, 11:32:45](https://news.ycombinator.com/item?id=36069393) - [Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
@@ -14,7 +15,6 @@
 * [2023-05-24, 23:25:17](https://news.ycombinator.com/item?id=36065175) - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 * [2023-05-24, 23:02:56](https://news.ycombinator.com/item?id=36064971) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
-* [2023-05-24, 22:19:39](https://news.ycombinator.com/item?id=36064568) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 * [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA computer grad constructs “crown jewel of cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
 * [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The brand new Thunderbird logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
 * [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)

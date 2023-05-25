@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 13:24:32](https://news.ycombinator.com/item?id=36070406) - [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
 * [2023-05-25, 12:50:22](https://news.ycombinator.com/item?id=36070090) - [Show HN: Visual intuitive explanations of LLM concepts (LLM University)](https://news.ycombinator.com/item?id=36070090)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything You Always Wanted to Know About Mathematics [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 * [2023-05-25, 11:32:45](https://news.ycombinator.com/item?id=36069393) - [Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
