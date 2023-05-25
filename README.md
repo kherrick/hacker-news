@@ -18,7 +18,7 @@
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 17:22:45](https://news.ycombinator.com/item?id=36061326) - [PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico](https://github.com/polpo/picogus)
-* [2023-05-24, 17:01:24](https://news.ycombinator.com/item?id=36060983) - [Aviator (YC S21) is hiring senior engineers excited about improving DX](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-05-24, 16:04:45](https://news.ycombinator.com/item?id=36060031) - [I didn’t learn Unix by reading all the manpages (2022)](https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/)
 * [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
 * [2023-05-24, 15:26:00](https://news.ycombinator.com/item?id=36059429) - [Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
 * [2023-05-24, 13:24:03](https://news.ycombinator.com/item?id=36057675) - [Hypersonic missiles are misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
