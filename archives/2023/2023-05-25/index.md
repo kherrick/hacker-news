@@ -19,6 +19,7 @@
 * [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
 * [2023-05-25, 17:15:00](https://news.ycombinator.com/item?id=36073379) - [Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode](https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/)
 * [2023-05-25, 17:05:00](https://news.ycombinator.com/item?id=36073241) - [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
+* [2023-05-25, 16:58:57](https://news.ycombinator.com/item?id=36073159) - [Show HN: Hacker News in Slow Italian - AI-generated podcast (with code)](https://hn.lingually.ai)
 * [2023-05-25, 16:48:06](https://news.ycombinator.com/item?id=36073020) - [Kissinger&#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 * [2023-05-25, 16:05:53](https://news.ycombinator.com/item?id=36072525) - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
 * [2023-05-25, 16:05:51](https://news.ycombinator.com/item?id=36072524) - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
