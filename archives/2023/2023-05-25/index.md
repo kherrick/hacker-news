@@ -57,3 +57,4 @@
 * [2023-05-25, 00:20:13](https://news.ycombinator.com/item?id=36065693) - [Astronomers explore a recently discovered luminous quasar](https://phys.org/news/2023-05-astronomers-explore-luminous-quasar.html)
 * [2023-05-25, 00:17:14](https://news.ycombinator.com/item?id=36065666) - [The QR-code menu is being shown the door](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html?smtyp=cur&amp;smid=tw-nytimes)
 * [2023-05-25, 00:17:14](https://news.ycombinator.com/item?id=36065666) - [The QR-code menu is being shown the door](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
+* [2023-05-25, 00:15:01](https://news.ycombinator.com/item?id=36065645) - [Behind a Pseudonym, Literary Provocation](https://www.washingtonpost.com/books/2023/05/12/behind-pseudonym-literary-provocation/)
