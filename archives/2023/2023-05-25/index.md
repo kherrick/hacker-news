@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 13:44:14](https://news.ycombinator.com/item?id=36070611) - [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
+* [2023-05-25, 13:26:47](https://news.ycombinator.com/item?id=36070426) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 13:24:32](https://news.ycombinator.com/item?id=36070406) - [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
+* [2023-05-25, 13:08:28](https://news.ycombinator.com/item?id=36070261) - [PostgreSQL 16 Beta 1](https://www.postgresql.org/about/news/postgresql-16-beta-1-released-2643/)
 * [2023-05-25, 12:50:22](https://news.ycombinator.com/item?id=36070090) - [Show HN: Visual intuitive explanations of LLM concepts (LLM University)](https://news.ycombinator.com/item?id=36070090)
+* [2023-05-25, 12:36:05](https://news.ycombinator.com/item?id=36069967) - [Ask HN: Examples of desktop software with 20+ years of longevity?](https://news.ycombinator.com/item?id=36069967)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything You Always Wanted to Know About Mathematics [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 * [2023-05-25, 11:32:45](https://news.ycombinator.com/item?id=36069393) - [Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
 * [2023-05-25, 10:56:08](https://news.ycombinator.com/item?id=36069157) - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
