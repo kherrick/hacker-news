@@ -16,7 +16,6 @@
 * [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
 * [2023-05-24, 22:19:39](https://news.ycombinator.com/item?id=36064568) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 * [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA computer grad constructs “crown jewel of cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
-* [2023-05-24, 21:50:00](https://news.ycombinator.com/item?id=36064305) - [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
 * [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The brand new Thunderbird logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
 * [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
@@ -28,6 +27,7 @@
 * [2023-05-24, 08:27:59](https://news.ycombinator.com/item?id=36055426) - [Thin Film Patterns](http://john.maloney.org/Patterns/patterns.htm)
 * [2023-05-24, 06:36:50](https://news.ycombinator.com/item?id=36054820) - [Trust and the Peripheral Canal](https://onthepublicrecord.org/2009/03/25/trust-and-the-peripheral-canal/)
 * [2023-05-24, 05:28:25](https://news.ycombinator.com/item?id=36054416) - [Let&#x27;s Build a Compiler (1988)](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)
+* [2023-05-23, 06:09:30](https://news.ycombinator.com/item?id=36040505) - [Using Livestock Guardian Dogs in a Small-Scale Commercial Sheep Operation](http://flyingmule.blogspot.com/2014/09/using-livestock-guardian-dogs-in-small.html)
 * [2023-05-22, 06:16:22](https://news.ycombinator.com/item?id=36028045) - [The Remarkable Basilisks](https://tetzoo.com/blog/2023/5/10/basilisks-revisited)
 * [2023-05-21, 12:07:23](https://news.ycombinator.com/item?id=36020067) - [A Microscopic Look at Snail Jaws](https://nhm.org/stories/microscopic-look-snail-jaws)
 

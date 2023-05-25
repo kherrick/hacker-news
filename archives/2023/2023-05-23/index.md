@@ -82,6 +82,7 @@
 * [2023-05-23, 06:34:43](https://news.ycombinator.com/item?id=36040678) - [The Great Aboveground Empire](http://ascii.textfiles.com/archives/5528)
 * [2023-05-23, 06:33:31](https://news.ycombinator.com/item?id=36040666) - [Looking Back On Helm (secure email appliance)](https://giri.co/looking-back-on-helm/)
 * [2023-05-23, 06:24:07](https://news.ycombinator.com/item?id=36040612) - [Gis.chat – The Geospatial Community](https://gis.chat)
+* [2023-05-23, 06:09:30](https://news.ycombinator.com/item?id=36040505) - [Using Livestock Guardian Dogs in a Small-Scale Commercial Sheep Operation](http://flyingmule.blogspot.com/2014/09/using-livestock-guardian-dogs-in-small.html)
 * [2023-05-23, 06:03:08](https://news.ycombinator.com/item?id=36040457) - [What&#x27;s up with this new memory_order_consume memory order?](https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107)
 * [2023-05-23, 05:46:32](https://news.ycombinator.com/item?id=36040346) - [Updates to Kagi pricing plans – More searches, unrestricted AI tools](https://blog.kagi.com/plan-changes)
 * [2023-05-23, 05:42:07](https://news.ycombinator.com/item?id=36040312) - [Heat as a Rite of Passage in the Kitchen](https://enthucutlet.com/enthuoriginals/playing-with-fire/trial-by-fire/)
