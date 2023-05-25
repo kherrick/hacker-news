@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-05-25, 13:43:11",
-      "https://news.ycombinator.com/item?id=36070595"
-    ],
-    [
-      "Europe’s biggest city council faces £100M bill in Oracle ERP project disaster",
-      "https://www.theregister.com/2023/05/25/europes_biggest_council_faces_100m_erp_bill/"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 13:26:47",
       "https://news.ycombinator.com/item?id=36070426"
     ],
@@ -137,6 +127,16 @@
     [
       "How to Finetune GPT Like Large Language Models on a Custom Dataset",
       "https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 09:26:34",
+      "https://news.ycombinator.com/item?id=36068619"
+    ],
+    [
+      "RFC: Enforcing Bounds Safety in C (-fbounds-safety)",
+      "https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36040505"
     ],
     [
-      "Using Livestock Guardian Dogs in a Small-Scale Commercial Sheep Operation",
+      "Using livestock guardian dogs in a small-scale commercial sheep operation (2014)",
       "http://flyingmule.blogspot.com/2014/09/using-livestock-guardian-dogs-in-small.html"
     ]
   ]
