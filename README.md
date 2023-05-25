@@ -2,6 +2,7 @@
 
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
+* [2023-05-25, 20:49:36](https://news.ycombinator.com/item?id=36076027) - [There May Be a Second Kuiper Belt, and New Horizons Is Headed There](https://spaceref.com/science-and-exploration/second-kuiper-belt-new-horizons-headed/)
 * [2023-05-25, 20:46:23](https://news.ycombinator.com/item?id=36075977) - [Chatbot Arena Leaderboard Updates (Week 4)](https://lmsys.org/blog/2023-05-25-leaderboard/)
 * [2023-05-25, 20:41:31](https://news.ycombinator.com/item?id=36075917) - [It will take years to get Deutsche Bahn back on track](https://www.economist.com/business/2023/05/25/it-will-take-years-to-get-deutsche-bahn-back-on-track)
 * [2023-05-25, 20:38:25](https://news.ycombinator.com/item?id=36075886) - [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
@@ -14,7 +15,6 @@
 * [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
 * [2023-05-25, 17:05:00](https://news.ycombinator.com/item?id=36073241) - [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
 * [2023-05-25, 16:58:57](https://news.ycombinator.com/item?id=36073159) - [Show HN: Hacker News in Slow Italian - AI-generated podcast (with code)](https://hn.lingually.ai)
-* [2023-05-25, 16:05:51](https://news.ycombinator.com/item?id=36072524) - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
 * [2023-05-25, 15:47:20](https://news.ycombinator.com/item?id=36072268) - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [Cases where full scans are better than indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
 * [2023-05-25, 14:42:36](https://news.ycombinator.com/item?id=36071342) - [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)

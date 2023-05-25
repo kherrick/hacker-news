@@ -7,6 +7,7 @@
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal flute: The oldest musical instrument in the world](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 * [2023-05-25, 20:57:33](https://news.ycombinator.com/item?id=36076120) - [The Supreme Court Just Gutted the Clean Water Act](https://gizmodo.com/supreme-court-guts-clean-water-act-sackett-epa-1850474838)
+* [2023-05-25, 20:49:36](https://news.ycombinator.com/item?id=36076027) - [There May Be a Second Kuiper Belt, and New Horizons Is Headed There](https://spaceref.com/science-and-exploration/second-kuiper-belt-new-horizons-headed/)
 * [2023-05-25, 20:46:23](https://news.ycombinator.com/item?id=36075977) - [Chatbot Arena Leaderboard Updates (Week 4)](https://lmsys.org/blog/2023-05-25-leaderboard/)
 * [2023-05-25, 20:41:31](https://news.ycombinator.com/item?id=36075917) - [It will take years to get Deutsche Bahn back on track](https://www.economist.com/business/2023/05/25/it-will-take-years-to-get-deutsche-bahn-back-on-track)
 * [2023-05-25, 20:38:25](https://news.ycombinator.com/item?id=36075886) - [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
