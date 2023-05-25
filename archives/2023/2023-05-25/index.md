@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [Superbug killing antibiotics with the help of AI](https://www.bbc.co.uk/news/health-65709834)
+* [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [You Don&#x27;t Always Need Indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
 * [2023-05-25, 14:29:20](https://news.ycombinator.com/item?id=36071183) - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
 * [2023-05-25, 14:14:58](https://news.ycombinator.com/item?id=36071001) - [The forces at play in de-dollarisation](https://www.reuters.com/markets/currencies/end-king-dollar-forces-play-de-dollarisation-2023-05-25/)
