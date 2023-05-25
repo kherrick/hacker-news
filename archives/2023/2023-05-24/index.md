@@ -72,6 +72,7 @@
 * [2023-05-24, 12:11:18](https://news.ycombinator.com/item?id=36056907) - [ChainForge: An open-source visual programming environment for testing prompts](https://github.com/ianarawjo/ChainForge)
 * [2023-05-24, 12:01:03](https://news.ycombinator.com/item?id=36056812) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-05-24, 11:50:33](https://news.ycombinator.com/item?id=36056705) - [Peloton CEO Quit After Laying Off 2,800. Its a Bad Lesson About How Not to Lead](https://www.inc.com/jason-aten/pelotons-ceo-john-foley-quit-q2-2022-earnings-laying-off-2800-people.html)
+* [2023-05-24, 11:16:00](https://news.ycombinator.com/item?id=36056408) - [Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)
 * [2023-05-24, 11:12:40](https://news.ycombinator.com/item?id=36056376) - [You don&#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The Strange Story of the Teens Behind the Mirai Botnet](https://spectrum.ieee.org/mirai-botnet)
 * [2023-05-24, 11:00:23](https://news.ycombinator.com/item?id=36056299) - [Ask HN: How do you not take criticism of your work personally?](https://news.ycombinator.com/item?id=36056299)
