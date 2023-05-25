@@ -2,6 +2,7 @@
 
 * [2023-05-25, 22:48:03](https://news.ycombinator.com/item?id=36077413) - [Media Bias Fact Check: Hacker News](https://mediabiasfactcheck.com/hacker-news/)
 * [2023-05-25, 22:43:28](https://news.ycombinator.com/item?id=36077360) - [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
+* [2023-05-25, 22:15:55](https://news.ycombinator.com/item?id=36077034) - [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 * [2023-05-25, 20:49:36](https://news.ycombinator.com/item?id=36076027) - [There May Be a Second Kuiper Belt, and New Horizons Is Headed There](https://spaceref.com/science-and-exploration/second-kuiper-belt-new-horizons-headed/)
@@ -27,7 +28,6 @@
 * [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [The smartest slime [video]](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 12:47:55](https://news.ycombinator.com/item?id=36057261) - [Ask HN: Indic languages OCR and searchable pdfs](https://news.ycombinator.com/item?id=36057261)
-* [2023-05-24, 11:24:38](https://news.ycombinator.com/item?id=36056488) - [Math That Goes on Forever but Never Repeats](https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/)
 * [2023-05-24, 11:16:00](https://news.ycombinator.com/item?id=36056408) - [Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)
 * [2023-05-24, 05:30:05](https://news.ycombinator.com/item?id=36054430) - [Nirvana fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 
