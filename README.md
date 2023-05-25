@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
 * [2023-05-25, 02:26:30](https://news.ycombinator.com/item?id=36066431) - [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
 * [2023-05-24, 23:25:17](https://news.ycombinator.com/item?id=36065175) - [The tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
 * [2023-05-24, 23:02:56](https://news.ycombinator.com/item?id=36064971) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
@@ -19,7 +20,6 @@
 * [2023-05-24, 16:02:07](https://news.ycombinator.com/item?id=36059982) - [Win32 App Isolation](https://github.com/microsoft/win32-app-isolation)
 * [2023-05-24, 15:55:57](https://news.ycombinator.com/item?id=36059878) - [DeviceScript: TypeScript for Tiny IoT Devices](https://microsoft.github.io/devicescript/)
 * [2023-05-24, 15:26:00](https://news.ycombinator.com/item?id=36059429) - [Walking naturally after spinal cord injury using a brain–spine interface](https://www.nature.com/articles/s41586-023-06094-5)
-* [2023-05-24, 14:52:42](https://news.ycombinator.com/item?id=36058966) - [NASA has funded a bunch of early stage technologies](https://orbitalindex.com/archive/2023-05-24-Issue-219/)
 * [2023-05-24, 13:24:03](https://news.ycombinator.com/item?id=36057675) - [Hypersonic missiles are misunderstood](https://medium.com/@ToryBrunoULA/hypersonic-missiles-are-just-misunderstood-1a35c8ae3dd0)
 * [2023-05-24, 13:12:04](https://news.ycombinator.com/item?id=36057523) - [Ordering Photocopies from Japan&#x27;s National Library](https://blog.gingerbeardman.com/2023/05/24/ordering-photocopies-from-japans-national-library/)
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The teens behind the Mirai botnet](https://spectrum.ieee.org/mirai-botnet)
