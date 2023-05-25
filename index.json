@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-25, 20:01:18",
+      "https://news.ycombinator.com/item?id=36075406"
+    ],
+    [
+      "Hacker New with Semafor UI",
+      "https://hackernews-semafor-duhw.vercel.app/"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 19:39:40",
+      "https://news.ycombinator.com/item?id=36075144"
+    ],
+    [
+      "Infecting SSH Public Keys with Backdoors",
+      "https://blog.thc.org/infecting-ssh-public-keys-with-backdoors"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 19:25:39",
       "https://news.ycombinator.com/item?id=36074960"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-05-25, 10:16:00",
-      "https://news.ycombinator.com/item?id=36068896"
-    ],
-    [
-      "Deno 1.34: Deno compile supports NPM packages",
-      "https://deno.com/blog/v1.34"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 10:06:38",
       "https://news.ycombinator.com/item?id=36068850"
     ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2023-05-24, 15:49:52",
-      "https://news.ycombinator.com/item?id=36059774"
-    ],
-    [
-      "Power series, power serious: Talk by Doug McIlroy (2007) [video]",
-      "https://www.microsoft.com/en-us/research/video/power-series-power-serious/"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 11:24:38",
       "https://news.ycombinator.com/item?id=36056488"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-05-24, 11:00:23",
-      "https://news.ycombinator.com/item?id=36056299"
+      "2023-05-24, 05:30:05",
+      "https://news.ycombinator.com/item?id=36054430"
     ],
     [
-      "Ask HN: How do you not take criticism of your work personally?",
-      "https://news.ycombinator.com/item?id=36056299"
+      "Nirvana Fallacy",
+      "https://en.wikipedia.org/wiki/Nirvana_fallacy"
     ]
   ]
 ]
