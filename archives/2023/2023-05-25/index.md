@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [You Don&#x27;t Always Need Indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
 * [2023-05-25, 14:29:20](https://news.ycombinator.com/item?id=36071183) - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
 * [2023-05-25, 13:53:12](https://news.ycombinator.com/item?id=36070722) - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * [2023-05-25, 13:44:14](https://news.ycombinator.com/item?id=36070611) - [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
