@@ -2,6 +2,7 @@
 
 * [2023-05-25, 13:53:12](https://news.ycombinator.com/item?id=36070722) - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * [2023-05-25, 13:44:14](https://news.ycombinator.com/item?id=36070611) - [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
+* [2023-05-25, 13:43:11](https://news.ycombinator.com/item?id=36070595) - [Europe’s biggest city council faces £100M bill in Oracle ERP project disaster](https://www.theregister.com/2023/05/25/europes_biggest_council_faces_100m_erp_bill/)
 * [2023-05-25, 13:26:47](https://news.ycombinator.com/item?id=36070426) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 13:24:32](https://news.ycombinator.com/item?id=36070406) - [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
 * [2023-05-25, 13:08:28](https://news.ycombinator.com/item?id=36070261) - [PostgreSQL 16 Beta 1](https://www.postgresql.org/about/news/postgresql-16-beta-1-released-2643/)
@@ -17,7 +18,6 @@
 * [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
 * [2023-05-25, 02:26:30](https://news.ycombinator.com/item?id=36066431) - [Comb jellies proven to be the sibling group to all other animals](https://news.ucsc.edu/2023/05/animal-siblings.html)
 * [2023-05-25, 00:17:14](https://news.ycombinator.com/item?id=36065666) - [The QR-code menu is being shown the door](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
-* [2023-05-24, 23:02:56](https://news.ycombinator.com/item?id=36064971) - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 * [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
 * [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA computer grad constructs “crown jewel of cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
 * [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The brand new Thunderbird logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
