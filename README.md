@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 14:29:20](https://news.ycombinator.com/item?id=36071183) - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
 * [2023-05-25, 13:53:12](https://news.ycombinator.com/item?id=36070722) - [Alien was released 44 years ago today](https://twitter.com/ATRightMovies/status/1661664750273527810)
 * [2023-05-25, 13:44:14](https://news.ycombinator.com/item?id=36070611) - [Germany Falls into Recession](https://www.cnn.com/2023/05/25/economy/germany-recession-q1-2023/index.html)
 * [2023-05-25, 13:43:11](https://news.ycombinator.com/item?id=36070595) - [Europe’s biggest city council faces £100M bill in Oracle ERP project disaster](https://www.theregister.com/2023/05/25/europes_biggest_council_faces_100m_erp_bill/)
@@ -20,7 +21,6 @@
 * [2023-05-25, 00:17:14](https://news.ycombinator.com/item?id=36065666) - [The QR-code menu is being shown the door](https://www.nytimes.com/2023/05/22/dining/restaurant-qr-code-menu.html)
 * [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
 * [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA computer grad constructs “crown jewel of cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
-* [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The brand new Thunderbird logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 17:24:05](https://news.ycombinator.com/item?id=36061344) - [Launch HN: Dittofeed (YC S22) – open-source customer engagement platform](https://news.ycombinator.com/item?id=36061344)
 * [2023-05-24, 11:37:21](https://news.ycombinator.com/item?id=36056589) - [The First Deep-Sea Dive in History](https://www.smithsonianmag.com/science-nature/inside-the-first-deep-sea-dive-in-history-180982128/)
