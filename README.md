@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 10:56:08](https://news.ycombinator.com/item?id=36069157) - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
 * [2023-05-25, 10:50:44](https://news.ycombinator.com/item?id=36069118) - [Sam Altman Says OpenAI Will Leave the EU If There&#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
 * [2023-05-25, 10:26:13](https://news.ycombinator.com/item?id=36068956) - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
 * [2023-05-25, 10:16:00](https://news.ycombinator.com/item?id=36068896) - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
 * [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
-* [2023-05-25, 09:50:18](https://news.ycombinator.com/item?id=36068750) - [Ask HN: For users with 10k+ karma, how much time do you spend on HN?](https://news.ycombinator.com/item?id=36068750)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
 * [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
 * [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)

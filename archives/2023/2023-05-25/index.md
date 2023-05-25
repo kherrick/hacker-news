@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 10:56:08](https://news.ycombinator.com/item?id=36069157) - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
 * [2023-05-25, 10:50:44](https://news.ycombinator.com/item?id=36069118) - [Sam Altman Says OpenAI Will Leave the EU If There&#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
 * [2023-05-25, 10:26:13](https://news.ycombinator.com/item?id=36068956) - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
 * [2023-05-25, 10:16:00](https://news.ycombinator.com/item?id=36068896) - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
