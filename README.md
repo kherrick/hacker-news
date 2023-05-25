@@ -8,8 +8,9 @@
 * [2023-05-24, 22:19:39](https://news.ycombinator.com/item?id=36064568) - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
 * [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA Computer Grad Constructs “Crown Jewel of Cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
 * [2023-05-24, 21:50:00](https://news.ycombinator.com/item?id=36064305) - [Make your own VPN with Fly.io, tailscale and GitHub](https://github.com/patte/fly-tailscale-exit)
-* [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
+* [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The brand new Thunderbird logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
 * [2023-05-24, 20:34:58](https://news.ycombinator.com/item?id=36063531) - [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
+* [2023-05-24, 20:17:07](https://news.ycombinator.com/item?id=36063346) - [Neeva acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
 * [2023-05-24, 19:03:17](https://news.ycombinator.com/item?id=36062602) - [Kenny Log-Ins](https://www.kennylog-in.com)
 * [2023-05-24, 17:41:39](https://news.ycombinator.com/item?id=36061574) - [The long road to recover Frogger 2 source from tape drives](https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD)
 * [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
@@ -28,7 +29,6 @@
 * [2023-05-24, 06:45:02](https://news.ycombinator.com/item?id=36054868) - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 * [2023-05-23, 12:19:43](https://news.ycombinator.com/item?id=36043239) - [Michel de Montaigne](https://en.wikipedia.org/wiki/Michel_de_Montaigne)
 * [2023-05-23, 10:29:08](https://news.ycombinator.com/item?id=36042249) - [How to Find a Missing Person with Dementia](https://www.newyorker.com/news/annals-of-inquiry/how-to-find-a-missing-person-with-dementia)
-* [2023-05-23, 09:23:04](https://news.ycombinator.com/item?id=36041845) - [SR-71 Blackbird Speed Check Story](https://www.thesr71blackbird.com/Aircraft/Stories/sr-71-blackbird-speed-check-story)
 * [2023-05-21, 12:07:23](https://news.ycombinator.com/item?id=36020067) - [A Microscopic Look at Snail Jaws](https://nhm.org/stories/microscopic-look-snail-jaws)
 
 ## [Archives](archives/index.md)
