@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-25, 18:11:03](https://news.ycombinator.com/item?id=36074031) - [Twitter launches new Pro tier for $5000&#x2F;month](https://developer.twitter.com/en)
+* [2023-05-25, 18:03:40](https://news.ycombinator.com/item?id=36073957) - [The US Might Be Only AA+](https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa)
 * [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
 * [2023-05-25, 17:15:00](https://news.ycombinator.com/item?id=36073379) - [Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode](https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/)
 * [2023-05-25, 17:05:00](https://news.ycombinator.com/item?id=36073241) - [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
 * [2023-05-25, 16:48:06](https://news.ycombinator.com/item?id=36073020) - [Kissinger&#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 * [2023-05-25, 16:05:51](https://news.ycombinator.com/item?id=36072524) - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
-* [2023-05-25, 16:05:08](https://news.ycombinator.com/item?id=36072505) - [Supreme Court Narrows the Scope of the Clean Water Act](https://www.npr.org/2023/05/25/1178150234/supreme-court-epa-clean-water-act)
 * [2023-05-25, 15:47:20](https://news.ycombinator.com/item?id=36072268) - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [Cases where full scans are better than indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
