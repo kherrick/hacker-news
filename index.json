@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-05-25, 00:35:08",
-      "https://news.ycombinator.com/item?id=36065802"
-    ],
-    [
-      "Ze Frank True Facts: The Smartest Slime",
-      "https://www.youtube.com/watch?v=k_GTIL7AECQ"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 23:25:17",
       "https://news.ycombinator.com/item?id=36065175"
     ],
@@ -167,6 +157,16 @@
     [
       "I didn’t learn Unix by reading all the manpages (2022)",
       "https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/"
+    ]
+  ],
+  [
+    [
+      "2023-05-24, 16:02:07",
+      "https://news.ycombinator.com/item?id=36059982"
+    ],
+    [
+      "Win32 App Isolation",
+      "https://github.com/microsoft/win32-app-isolation"
     ]
   ],
   [
