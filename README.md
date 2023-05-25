@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
 * [2023-05-25, 16:48:06](https://news.ycombinator.com/item?id=36073020) - [Kissinger&#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 * [2023-05-25, 16:05:53](https://news.ycombinator.com/item?id=36072525) - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
 * [2023-05-25, 16:05:51](https://news.ycombinator.com/item?id=36072524) - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
 * [2023-05-25, 15:47:20](https://news.ycombinator.com/item?id=36072268) - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
+* [2023-05-25, 15:44:01](https://news.ycombinator.com/item?id=36072219) - [Electric cars prove we need to rethink brake lights](https://www.youtube.com/watch?v=U0YW7x9U5TQ)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [Cases where full scans are better than indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
 * [2023-05-25, 14:42:36](https://news.ycombinator.com/item?id=36071342) - [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)
@@ -17,7 +19,6 @@
 * [2023-05-25, 10:16:00](https://news.ycombinator.com/item?id=36068896) - [Deno 1.34: Deno compile supports NPM packages](https://deno.com/blog/v1.34)
 * [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
-* [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
 * [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [The smartest slime [video]](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 * [2023-05-25, 00:20:13](https://news.ycombinator.com/item?id=36065693) - [Astronomers explore a recently discovered luminous quasar](https://phys.org/news/2023-05-astronomers-explore-luminous-quasar.html)
 * [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
@@ -29,7 +30,6 @@
 * [2023-05-24, 11:16:00](https://news.ycombinator.com/item?id=36056408) - [Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)
 * [2023-05-24, 11:00:23](https://news.ycombinator.com/item?id=36056299) - [Ask HN: How do you not take criticism of your work personally?](https://news.ycombinator.com/item?id=36056299)
 * [2023-05-24, 05:28:25](https://news.ycombinator.com/item?id=36054416) - [Let&#x27;s Build a Compiler (1988)](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)
-* [2023-05-23, 06:09:30](https://news.ycombinator.com/item?id=36040505) - [Using livestock guardian dogs in a small-scale commercial sheep operation (2014)](http://flyingmule.blogspot.com/2014/09/using-livestock-guardian-dogs-in-small.html)
 
 ## [Archives](archives/index.md)
 
