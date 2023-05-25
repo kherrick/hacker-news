@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-25, 19:16:15",
+      "https://news.ycombinator.com/item?id=36074845"
+    ],
+    [
+      "War Is a Racket (1935)",
+      "https://archive.org/details/WarIsARacket"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 19:00:50",
+      "https://news.ycombinator.com/item?id=36074646"
+    ],
+    [
+      "Aurora Store Accounts Blocked by Google",
+      "https://gitlab.com/AuroraOSS/AuroraStore/-/issues/912"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 18:42:12",
       "https://news.ycombinator.com/item?id=36074423"
     ],
@@ -17,6 +37,16 @@
     [
       "The US Might Be Only AA+",
       "https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 17:48:02",
+      "https://news.ycombinator.com/item?id=36073785"
+    ],
+    [
+      "New Playground: Memory Spy",
+      "https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/"
     ]
   ],
   [
@@ -221,32 +251,12 @@
   ],
   [
     [
-      "2023-05-24, 22:14:26",
-      "https://news.ycombinator.com/item?id=36064515"
-    ],
-    [
-      "UCLA computer grad constructs “crown jewel of cryptography”",
-      "https://www.acm.org/media-center/2023/may/dissertation-award-2022"
-    ]
-  ],
-  [
-    [
       "2023-05-24, 15:49:52",
       "https://news.ycombinator.com/item?id=36059774"
     ],
     [
       "Power series, power serious: Talk by Doug McIlroy (2007) [video]",
       "https://www.microsoft.com/en-us/research/video/power-series-power-serious/"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 11:37:21",
-      "https://news.ycombinator.com/item?id=36056589"
-    ],
-    [
-      "The First Deep-Sea Dive in History",
-      "https://www.smithsonianmag.com/science-nature/inside-the-first-deep-sea-dive-in-history-180982128/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Ask HN: How do you not take criticism of your work personally?",
       "https://news.ycombinator.com/item?id=36056299"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 06:54:53",
-      "https://news.ycombinator.com/item?id=36054918"
-    ],
-    [
-      "Elm&#x2F;compiler: Matching on negative literals results in a parser error",
-      "https://github.com/elm/compiler/issues/1773"
     ]
   ],
   [
