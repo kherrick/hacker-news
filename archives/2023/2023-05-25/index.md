@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 16:05:53](https://news.ycombinator.com/item?id=36072525) - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
+* [2023-05-25, 15:44:01](https://news.ycombinator.com/item?id=36072219) - [Electric cars prove we need to rethink brake lights](https://www.youtube.com/watch?v=U0YW7x9U5TQ)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [Superbug killing antibiotics with the help of AI](https://www.bbc.co.uk/news/health-65709834)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [You Don&#x27;t Always Need Indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
