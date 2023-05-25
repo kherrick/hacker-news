@@ -11,6 +11,7 @@
 * [2023-05-25, 13:43:11](https://news.ycombinator.com/item?id=36070595) - [Europe’s biggest city council faces £100M bill in Oracle ERP project disaster](https://www.theregister.com/2023/05/25/europes_biggest_council_faces_100m_erp_bill/)
 * [2023-05-25, 13:26:47](https://news.ycombinator.com/item?id=36070426) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 13:24:32](https://news.ycombinator.com/item?id=36070406) - [US lawmakers urge PayPal to end ban on Palestinians in Occupied Territories](https://www.arabnews.com/node/2310186/business-economy)
+* [2023-05-25, 13:11:37](https://news.ycombinator.com/item?id=36070288) - [Show HN: Appliku – Deployment PaaS for Python&#x2F;Django](https://appliku.com/)
 * [2023-05-25, 13:08:28](https://news.ycombinator.com/item?id=36070261) - [PostgreSQL 16 Beta 1](https://www.postgresql.org/about/news/postgresql-16-beta-1-released-2643/)
 * [2023-05-25, 12:50:22](https://news.ycombinator.com/item?id=36070090) - [Show HN: Visual intuitive explanations of LLM concepts (LLM University)](https://news.ycombinator.com/item?id=36070090)
 * [2023-05-25, 12:36:05](https://news.ycombinator.com/item?id=36069967) - [Ask HN: Examples of desktop software with 20+ years of longevity?](https://news.ycombinator.com/item?id=36069967)
