@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
+* [2023-05-25, 17:05:00](https://news.ycombinator.com/item?id=36073241) - [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
 * [2023-05-25, 16:48:06](https://news.ycombinator.com/item?id=36073020) - [Kissinger&#x27;s killing fields](https://theintercept.com/series/henry-kissinger-killing-fields/)
 * [2023-05-25, 16:05:53](https://news.ycombinator.com/item?id=36072525) - [PostgresML raises $4.7M to launch serverless AI app databases based on Postgres](https://postgresml.org/blog/postgresml-raises-4.7M-to-launch-serverless-ai-application-databases-based-on-postgres)
 * [2023-05-25, 16:05:51](https://news.ycombinator.com/item?id=36072524) - [ChatGPT plugins now support Postgres and Supabase](https://supabase.com/blog/chatgpt-plugins-support-postgres)
@@ -22,7 +23,6 @@
 * [2023-05-25, 00:20:13](https://news.ycombinator.com/item?id=36065693) - [Astronomers explore a recently discovered luminous quasar](https://phys.org/news/2023-05-astronomers-explore-luminous-quasar.html)
 * [2023-05-24, 22:26:59](https://news.ycombinator.com/item?id=36064639) - [Show HN: Image background removal without annoying subscriptions](https://pixian.ai/remove-image-backgrounds)
 * [2023-05-24, 22:14:26](https://news.ycombinator.com/item?id=36064515) - [UCLA computer grad constructs “crown jewel of cryptography”](https://www.acm.org/media-center/2023/may/dissertation-award-2022)
-* [2023-05-24, 17:28:12](https://news.ycombinator.com/item?id=36061407) - [PyPI Was Subpoenaed](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/)
 * [2023-05-24, 15:49:52](https://news.ycombinator.com/item?id=36059774) - [Power series, power serious: Talk by Doug McIlroy (2007) [video]](https://www.microsoft.com/en-us/research/video/power-series-power-serious/)
 * [2023-05-24, 11:37:21](https://news.ycombinator.com/item?id=36056589) - [The First Deep-Sea Dive in History](https://www.smithsonianmag.com/science-nature/inside-the-first-deep-sea-dive-in-history-180982128/)
 * [2023-05-24, 11:24:38](https://news.ycombinator.com/item?id=36056488) - [Math That Goes on Forever but Never Repeats](https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/)
