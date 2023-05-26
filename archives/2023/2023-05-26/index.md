@@ -30,6 +30,7 @@
 * [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Causal evidence that Alzheimer&#x27;s may be caused by an infection](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
 * [2023-05-26, 13:02:18](https://news.ycombinator.com/item?id=36083500) - [Puerto Rico: A U.S. Territory in Crisis](https://www.cfr.org/backgrounder/puerto-rico-us-territory-crisis)
 * [2023-05-26, 12:50:53](https://news.ycombinator.com/item?id=36083374) - [Microsoft Teams update could turn your meeting into a complete mess](https://www.techradar.com/news/this-microsoft-teams-update-could-turn-your-meeting-into-a-complete-mess)
+* [2023-05-26, 12:44:22](https://news.ycombinator.com/item?id=36083306) - [Want to Buy a West Texas Ghost Town? Now’s Your Chance](https://www.texasmonthly.com/travel/want-to-buy-a-west-texas-ghost-town-nows-your-chance/)
 * [2023-05-26, 12:44:11](https://news.ycombinator.com/item?id=36083304) - [Mastering Monero: The future of private transactions [pdf]](https://masteringmonero.com/book/Mastering%20Monero%20First%20Edition%20by%20SerHack%20and%20Monero%20Community.pdf)
 * [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
 * [2023-05-26, 12:16:47](https://news.ycombinator.com/item?id=36083093) - [How AI Is Catapulting Nvidia Toward the $1T Club](https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380)
