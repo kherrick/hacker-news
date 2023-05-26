@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-05-26, 01:38:14",
-      "https://news.ycombinator.com/item?id=36078709"
-    ],
-    [
-      "htmx",
-      "https://htmx.org/"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 21:45:45",
       "https://news.ycombinator.com/item?id=36076667"
     ],
@@ -147,6 +137,16 @@
     [
       "Ethereum Ceremony – Add your randomness to prepare the way for EIP-4844",
       "https://ceremony.ethereum.org"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 20:38:25",
+      "https://news.ycombinator.com/item?id=36075886"
+    ],
+    [
+      "Whistleblower drops 100 GB of Tesla secrets to German news site",
+      "https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542"
     ]
   ],
   [
@@ -201,32 +201,22 @@
   ],
   [
     [
+      "2023-05-25, 16:58:57",
+      "https://news.ycombinator.com/item?id=36073159"
+    ],
+    [
+      "Hacker News in Slow Italian",
+      "https://hn.lingually.ai"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 15:23:56",
       "https://news.ycombinator.com/item?id=36071932"
     ],
     [
       "Attacked from Within (2009)",
       "https://web.archive.org/web/20091126092028/http://www.kuro5hin.org/story/2009/3/12/33338/3000"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 14:47:03",
-      "https://news.ycombinator.com/item?id=36071397"
-    ],
-    [
-      "Cases where full scans are better than indexes",
-      "https://www.jefftk.com/p/you-dont-always-need-indexes"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 14:42:36",
-      "https://news.ycombinator.com/item?id=36071342"
-    ],
-    [
-      "Lessons from Creating a VSCode Extension with GPT-4",
-      "https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the"
     ]
   ],
   [
@@ -281,22 +271,32 @@
   ],
   [
     [
+      "2023-05-25, 02:17:06",
+      "https://news.ycombinator.com/item?id=36066381"
+    ],
+    [
+      "The Indelible Hulk",
+      "https://www.historytoday.com/archive/history-matters/indelible-hulk"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 00:35:08",
+      "https://news.ycombinator.com/item?id=36065802"
+    ],
+    [
+      "The smartest slime [video]",
+      "https://www.youtube.com/watch?v=k_GTIL7AECQ"
+    ]
+  ],
+  [
+    [
       "2023-05-24, 13:54:40",
       "https://news.ycombinator.com/item?id=36058098"
     ],
     [
       "Sudo and signal propagation",
       "https://dxuuu.xyz/sudo.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 11:24:38",
-      "https://news.ycombinator.com/item?id=36056488"
-    ],
-    [
-      "Math That Goes on Forever but Never Repeats",
-      "https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/"
     ]
   ]
 ]
