@@ -62,6 +62,7 @@
 * [2023-05-25, 12:36:05](https://news.ycombinator.com/item?id=36069967) - [Ask HN: Examples of desktop software with 20+ years of longevity?](https://news.ycombinator.com/item?id=36069967)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything You Always Wanted to Know About Mathematics [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 * [2023-05-25, 11:32:45](https://news.ycombinator.com/item?id=36069393) - [Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
+* [2023-05-25, 11:13:44](https://news.ycombinator.com/item?id=36069260) - [Before the Fire: Saturn-Apollo Applications (1966)](https://www.wired.com/2012/08/before-the-fire/)
 * [2023-05-25, 10:56:08](https://news.ycombinator.com/item?id=36069157) - [Cory Doctorow: How Big Tech Captured Culture [video]](https://www.youtube.com/watch?v=kiIovIKzBlc)
 * [2023-05-25, 10:50:44](https://news.ycombinator.com/item?id=36069118) - [Sam Altman Says OpenAI Will Leave the EU If There&#x27;s Any Real AI Regulation](https://gizmodo.com/sam-altman-openai-gpt-chatbot-chatgpt-gpt4-1850471865)
 * [2023-05-25, 10:26:13](https://news.ycombinator.com/item?id=36068956) - [Better cognitive ability from less snacking of processed carbohydrates](https://studyfinds.org/snacking-processed-foods-brain/)
