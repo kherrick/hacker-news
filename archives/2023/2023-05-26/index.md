@@ -48,6 +48,7 @@
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
 * [2023-05-26, 14:18:40](https://news.ycombinator.com/item?id=36084497) - [DeSantis Signs Bill Shielding Musk’s SpaceX From ‘Spaceflight Entity Liability’](https://www.rollingstone.com/politics/politics-news/ron-desantis-signs-bill-elon-musk-spacex-spaceflight-liability-1234742632/)
 * [2023-05-26, 14:17:23](https://news.ycombinator.com/item?id=36084483) - [How the Lemon Was Invented](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
+* [2023-05-26, 14:15:07](https://news.ycombinator.com/item?id=36084457) - [A Spreading Activation Theory of Semantic Processing (1975)](https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing)
 * [2023-05-26, 14:14:22](https://news.ycombinator.com/item?id=36084450) - [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
 * [2023-05-26, 13:47:55](https://news.ycombinator.com/item?id=36084076) - [What Is a Weed?](https://www.newyorker.com/news/our-local-correspondents/what-is-a-weed)
 * [2023-05-26, 13:19:27](https://news.ycombinator.com/item?id=36083707) - [The Case for South Korean Membership in the G7](https://nationalinterest.org/feature/case-south-korean-membership-g7-206233)

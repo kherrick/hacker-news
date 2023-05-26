@@ -19,7 +19,7 @@
 * [2023-05-26, 16:15:58](https://news.ycombinator.com/item?id=36086099) - [Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
 * [2023-05-26, 15:34:59](https://news.ycombinator.com/item?id=36085538) - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
-* [2023-05-26, 13:47:55](https://news.ycombinator.com/item?id=36084076) - [What Is a Weed?](https://www.newyorker.com/news/our-local-correspondents/what-is-a-weed)
+* [2023-05-26, 14:15:07](https://news.ycombinator.com/item?id=36084457) - [A Spreading Activation Theory of Semantic Processing (1975)](https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing)
 * [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
 * [2023-05-26, 12:44:22](https://news.ycombinator.com/item?id=36083306) - [Want to buy a West Texas ghost town? Now’s your chance](https://www.texasmonthly.com/travel/want-to-buy-a-west-texas-ghost-town-nows-your-chance/)
 * [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
