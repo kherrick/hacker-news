@@ -20,6 +20,7 @@
 * [2023-05-25, 20:38:25](https://news.ycombinator.com/item?id=36075886) - [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
 * [2023-05-25, 20:31:53](https://news.ycombinator.com/item?id=36075801) - [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 * [2023-05-25, 20:13:12](https://news.ycombinator.com/item?id=36075550) - [OpenAI CEO raises $115M for crypto company that scans people’s eyeballs](https://arstechnica.com/tech-policy/2023/05/openai-ceo-raises-115m-for-crypto-company-that-scans-peoples-eyeballs/)
+* [2023-05-25, 20:07:46](https://news.ycombinator.com/item?id=36075489) - [The Burden of Writing: Scribes in Medieval Manuscripts (2014)](https://blogs.bl.uk/digitisedmanuscripts/2014/06/the-burden-of-writing-scribes-in-medieval-manuscripts.html)
 * [2023-05-25, 20:01:18](https://news.ycombinator.com/item?id=36075406) - [Hacker New with Semafor UI](https://hackernews-semafor-duhw.vercel.app/)
 * [2023-05-25, 19:39:40](https://news.ycombinator.com/item?id=36075144) - [Infecting SSH Public Keys with Backdoors](https://blog.thc.org/infecting-ssh-public-keys-with-backdoors)
 * [2023-05-25, 19:25:39](https://news.ycombinator.com/item?id=36074960) - [AI chip boom sends Nvidia’s stock surging after whopper of a quarter](https://www.cnn.com/2023/05/25/tech/nvidia-earnings-ai/index.html)
