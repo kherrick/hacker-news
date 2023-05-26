@@ -73,6 +73,7 @@
 * [2023-05-25, 09:50:18](https://news.ycombinator.com/item?id=36068750) - [Ask HN: For users with 10k+ karma, how much time do you spend on HN?](https://news.ycombinator.com/item?id=36068750)
 * [2023-05-25, 09:45:39](https://news.ycombinator.com/item?id=36068723) - [An interactive introduction to the surface code](https://arthurpesah.me/blog/2023-05-13-surface-code/)
 * [2023-05-25, 09:45:21](https://news.ycombinator.com/item?id=36068720) - [Show HN: Personal GPT-4 AI document assistant](https://www.chatdox.com/)
+* [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
 * [2023-05-25, 09:37:13](https://news.ycombinator.com/item?id=36068677) - [Ask HN: What Happened to Fuzzy Logic?](https://news.ycombinator.com/item?id=36068677)
 * [2023-05-25, 09:26:34](https://news.ycombinator.com/item?id=36068619) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
 * [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
