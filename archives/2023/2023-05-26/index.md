@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 19:06:59](https://news.ycombinator.com/item?id=36088359) - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
+* [2023-05-26, 18:49:11](https://news.ycombinator.com/item?id=36088159) - [The reality of Wayland input methods in 2022 (2022)](https://nimfsoft.art/blog/the-reality-of-wayland-input-methods-in-2022/)
 * [2023-05-26, 18:40:24](https://news.ycombinator.com/item?id=36088052) - [Safety of the BNT162b2 Covid-19 Vaccine in Children Aged 5 to 17 Years](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2805184)
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
@@ -11,6 +13,7 @@
 * [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 * [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
 * [2023-05-26, 17:15:41](https://news.ycombinator.com/item?id=36087007) - [Qt 5.15 Standard Support for Legacy License Holders Ends Today](https://www.qt.io/blog/qt-5.15-support-ends)
+* [2023-05-26, 17:14:19](https://news.ycombinator.com/item?id=36086984) - [Making $10k&#x2F;m from a French learning app](https://www.highsignal.io/companies/making-10k-m-french-learning-app/)
 * [2023-05-26, 17:04:52](https://news.ycombinator.com/item?id=36086858) - [GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
 * [2023-05-26, 16:42:58](https://news.ycombinator.com/item?id=36086537) - [Phishing Domains Tanked After Meta Sued Freenom](https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/)
 * [2023-05-26, 16:21:43](https://news.ycombinator.com/item?id=36086180) - [Please stop sending me emails written by GPT](https://mkbaio.substack.com/p/please-stop-sending-me-emails-written)
