@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
 * [2023-05-26, 04:41:50](https://news.ycombinator.com/item?id=36080026) - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
+* [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
 * [2023-05-26, 03:17:55](https://news.ycombinator.com/item?id=36079382) - [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
 * [2023-05-26, 03:08:46](https://news.ycombinator.com/item?id=36079317) - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
