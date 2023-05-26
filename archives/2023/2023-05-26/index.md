@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 23:09:46](https://news.ycombinator.com/item?id=36090512) - [I have resigned from all roles in rustlang, effective immediately](https://twitter.com/jntrnr/status/1662229886386442242)
 * [2023-05-26, 20:57:02](https://news.ycombinator.com/item?id=36089422) - [GPT-4-32k does not exist](https://platform.openai.com/docs/models/gpt-4)
 * [2023-05-26, 20:48:45](https://news.ycombinator.com/item?id=36089333) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 * [2023-05-26, 20:31:57](https://news.ycombinator.com/item?id=36089171) - [AI tools like ChatGPT are built on mass copyright infringement](https://www.theglobeandmail.com/opinion/article-ai-programs-like-chatgpt-are-built-on-mass-copyright-infringement/)
@@ -82,6 +83,7 @@
 * [2023-05-26, 05:10:43](https://news.ycombinator.com/item?id=36080209) - [The Sonnet Machine](https://aeon.co/essays/sonnets-are-machines-for-thinking-through-complex-emotions)
 * [2023-05-26, 05:01:53](https://news.ycombinator.com/item?id=36080167) - [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
 * [2023-05-26, 04:41:50](https://news.ycombinator.com/item?id=36080026) - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
+* [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 * [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [Chronic stress can inflame the gut – now scientists know why](https://www.nature.com/articles/d41586-023-01700-y)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
