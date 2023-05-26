@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-26, 20:48:45](https://news.ycombinator.com/item?id=36089333) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
-* [2023-05-26, 20:23:59](https://news.ycombinator.com/item?id=36089104) - [Daniel Micay publicly steps down from GrapheneOS](https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53)
 * [2023-05-26, 20:22:13](https://news.ycombinator.com/item?id=36089084) - [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
 * [2023-05-26, 20:19:20](https://news.ycombinator.com/item?id=36089055) - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
@@ -26,6 +25,7 @@
 * [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
 * [2023-05-26, 10:07:19](https://news.ycombinator.com/item?id=36082180) - [That people produce HTML with string templates is telling us something](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates)
+* [2023-05-26, 07:28:43](https://news.ycombinator.com/item?id=36081142) - [The History of CMOS](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos)
 * [2023-05-26, 05:10:43](https://news.ycombinator.com/item?id=36080209) - [The Sonnet Machine](https://aeon.co/essays/sonnets-are-machines-for-thinking-through-complex-emotions)
 * [2023-05-25, 20:16:21](https://news.ycombinator.com/item?id=36075587) - [Observable Plot 0.6.7 released: pointer interaction, tip mark](https://twitter.com/mbostock/status/1661814623962812416)
 * [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
