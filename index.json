@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=36084483"
     ],
     [
-      "How the Lemon Was Invented",
+      "How the lemon was invented",
       "https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 14:14:22",
+      "https://news.ycombinator.com/item?id=36084450"
+    ],
+    [
+      "Node.js built-ins on Deno Deploy",
+      "https://deno.com/blog/node-builtins-on-deploy"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "The Windows XP activation algorithm has been cracked",
       "https://www.theregister.com/2023/05/26/windows_xp_activation_cracked/"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 10:07:19",
-      "https://news.ycombinator.com/item?id=36082180"
-    ],
-    [
-      "That people produce HTML with string templates is telling us something",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2023-05-25, 12:22:42",
-      "https://news.ycombinator.com/item?id=36069847"
-    ],
-    [
-      "Everything you always wanted to know about mathematics (2013) [pdf]",
-      "https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 11:13:44",
       "https://news.ycombinator.com/item?id=36069260"
     ],
     [
       "Before the Fire: Saturn-Apollo Applications (1966)",
       "https://www.wired.com/2012/08/before-the-fire/"
+    ]
+  ],
+  [
+    [
+      "2023-05-25, 09:37:40",
+      "https://news.ycombinator.com/item?id=36068682"
+    ],
+    [
+      "Jails on FreeBSD",
+      "https://ogris.de/howtos/freebsd-jails.html"
     ]
   ],
   [
