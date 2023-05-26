@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 15:18:15](https://news.ycombinator.com/item?id=36085310) - [Ask HN: Have any managers&#x2F;team leads been asked to layoff staff b&#x2F;c of AI?](https://news.ycombinator.com/item?id=36085310)
 * [2023-05-26, 14:45:48](https://news.ycombinator.com/item?id=36084881) - [How much of AI&#x27;s recent success is due to the Forer Effect?](https://shkspr.mobi/blog/2023/02/how-much-of-ais-recent-success-is-due-to-the-forer-effect/)
 * [2023-05-26, 14:17:23](https://news.ycombinator.com/item?id=36084483) - [How the lemon was invented](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
 * [2023-05-26, 14:14:22](https://news.ycombinator.com/item?id=36084450) - [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
@@ -9,6 +10,7 @@
 * [2023-05-26, 12:44:11](https://news.ycombinator.com/item?id=36083304) - [Mastering Monero: The future of private transactions [pdf] (2019)](https://masteringmonero.com/book/Mastering%20Monero%20First%20Edition%20by%20SerHack%20and%20Monero%20Community.pdf)
 * [2023-05-26, 11:37:01](https://news.ycombinator.com/item?id=36082788) - [XFS metadata corruption after upgrade to 6.3.3 kernel](https://bugzilla.redhat.com/show_bug.cgi?id=2208553)
 * [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
+* [2023-05-26, 10:49:30](https://news.ycombinator.com/item?id=36082453) - [Don&#x27;t abuse su for dropping user privileges (2015)](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)
 * [2023-05-26, 09:19:13](https://news.ycombinator.com/item?id=36081851) - [Excel Labs, a Microsoft Garage Project](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview&exp=kyyw)
 * [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
 * [2023-05-26, 08:29:57](https://news.ycombinator.com/item?id=36081540) - [Ask HN: What are some good resources for learning about low level disk&#x2F;file IO?](https://news.ycombinator.com/item?id=36081540)
@@ -16,8 +18,6 @@
 * [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [A PhD student&#x27;s perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 * [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [New work helps to explain how chronic stress can inflame the gut](https://www.nature.com/articles/d41586-023-01700-y)
-* [2023-05-26, 03:17:55](https://news.ycombinator.com/item?id=36079382) - [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
-* [2023-05-26, 02:57:27](https://news.ycombinator.com/item?id=36079236) - [Ford EV Customers to Gain Access to 12,000 Tesla Superchargers](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html)
 * [2023-05-26, 02:41:54](https://news.ycombinator.com/item?id=36079115) - [The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 * [2023-05-25, 19:25:37](https://news.ycombinator.com/item?id=36074959) - [Automating everything in a USB cable tester PCB design](https://www.jitx.com/blog/automating-everything-in-a-usb-cable-tester-pcb-design)
