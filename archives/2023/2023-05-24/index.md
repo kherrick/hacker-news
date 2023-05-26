@@ -52,6 +52,7 @@
 * [2023-05-24, 14:14:50](https://news.ycombinator.com/item?id=36058382) - [How Doctors buy their way out of trouble](https://www.reuters.com/investigates/special-report/usa-healthcare-settlements/)
 * [2023-05-24, 14:14:16](https://news.ycombinator.com/item?id=36058374) - [Ask HN: What is your proudest little invention or discovery?](https://news.ycombinator.com/item?id=36058374)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
+* [2023-05-24, 13:46:42](https://news.ycombinator.com/item?id=36057997) - [Ask HN: How do you approach a problem you are not sure has a solution?](https://news.ycombinator.com/item?id=36057997)
 * [2023-05-24, 13:40:44](https://news.ycombinator.com/item?id=36057911) - [Lenovo profits sink 75% as PC demand continues nosedive](https://www.theregister.com/2023/05/24/lenovo_q4_2023_profit_sales_crash/)
 * [2023-05-24, 13:39:36](https://news.ycombinator.com/item?id=36057889) - [Finland&#x27;s average electricity price slips into negative territory](https://yle.fi/a/74-20033326)
 * [2023-05-24, 13:25:13](https://news.ycombinator.com/item?id=36057687) - [Terminal app built over WebGPU, WebAssembly and Rust](https://github.com/raphamorim/rio)

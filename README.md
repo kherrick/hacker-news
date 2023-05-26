@@ -28,8 +28,8 @@
 * [2023-05-25, 09:45:39](https://news.ycombinator.com/item?id=36068723) - [An interactive introduction to the surface code](https://arthurpesah.me/blog/2023-05-13-surface-code/)
 * [2023-05-25, 08:17:35](https://news.ycombinator.com/item?id=36068243) - [The XY Problem](https://xyproblem.info/)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
-* [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [The smartest slime [video]](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
+* [2023-05-24, 13:46:42](https://news.ycombinator.com/item?id=36057997) - [Ask HN: How do you approach a problem you are not sure has a solution?](https://news.ycombinator.com/item?id=36057997)
 
 ## [Archives](archives/index.md)
 
