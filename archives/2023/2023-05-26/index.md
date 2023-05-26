@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
 * [2023-05-26, 19:06:59](https://news.ycombinator.com/item?id=36088359) - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
+* [2023-05-26, 18:55:01](https://news.ycombinator.com/item?id=36088224) - [Can we create a thread for some of the best materials on CS available online?](https://news.ycombinator.com/item?id=36088224)
 * [2023-05-26, 18:49:11](https://news.ycombinator.com/item?id=36088159) - [The reality of Wayland input methods in 2022 (2022)](https://nimfsoft.art/blog/the-reality-of-wayland-input-methods-in-2022/)
 * [2023-05-26, 18:40:24](https://news.ycombinator.com/item?id=36088052) - [Safety of the BNT162b2 Covid-19 Vaccine in Children Aged 5 to 17 Years](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2805184)
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
