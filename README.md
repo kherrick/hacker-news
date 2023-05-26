@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 11:16:11](https://news.ycombinator.com/item?id=36082642) - [George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
 * [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
 * [2023-05-26, 09:26:43](https://news.ycombinator.com/item?id=36081922) - [Sweden&#x27;s 250-year-old Freedom of the Press Act gets UNESCO status](https://sverigesradio.se/artikel/swedens-250-year-old-freedom-of-the-press-act-awarded-unesco-status)
@@ -22,7 +23,6 @@
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 * [2023-05-25, 20:31:53](https://news.ycombinator.com/item?id=36075801) - [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 * [2023-05-25, 19:25:37](https://news.ycombinator.com/item?id=36074959) - [Automating Everything in a USB Cable Tester PCB Design](https://www.jitx.com/blog/automating-everything-in-a-usb-cable-tester-pcb-design)
-* [2023-05-25, 15:23:56](https://news.ycombinator.com/item?id=36071932) - [Attacked from Within (2009)](https://web.archive.org/web/20091126092028/http://www.kuro5hin.org/story/2009/3/12/33338/3000)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 * [2023-05-25, 08:17:35](https://news.ycombinator.com/item?id=36068243) - [The XY Problem (2014)](https://xyproblem.info/)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
