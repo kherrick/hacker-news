@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-05-26, 01:43:22",
+      "https://news.ycombinator.com/item?id=36078746"
+    ],
+    [
+      "Amazon Backs Out of Climate Pledge, Deletes Shipment Zero Initiative Blogpost",
+      "https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 01:42:45",
       "https://news.ycombinator.com/item?id=36078739"
     ],
     [
       "The False Promise of Imitating Proprietary LLMs",
       "https://arxiv.org/abs/2305.15717"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 01:38:14",
+      "https://news.ycombinator.com/item?id=36078709"
+    ],
+    [
+      "htmx",
+      "https://htmx.org/"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "Colorado repealed law limiting municipal internet",
       "https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 19:16:15",
-      "https://news.ycombinator.com/item?id=36074845"
-    ],
-    [
-      "War Is a Racket (1935)",
-      "https://archive.org/details/WarIsARacket"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-05-25, 11:32:45",
-      "https://news.ycombinator.com/item?id=36069393"
-    ],
-    [
-      "Archive of medieval books and manuscripts discovered in Romanian church",
-      "https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 10:06:38",
       "https://news.ycombinator.com/item?id=36068850"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
+      "2023-05-25, 07:25:18",
+      "https://news.ycombinator.com/item?id=36067958"
+    ],
+    [
+      "Jj: JSON Stream Editor",
+      "https://github.com/tidwall/jj"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 05:41:02",
       "https://news.ycombinator.com/item?id=36067382"
     ],
     [
       "Acer Aspire Vero 14 laptop review: From recycled trash to PC treasure",
       "https://www.pcworld.com/article/1358891/acer-aspire-vero-14-review-from-trash-to-treasure.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 05:20:51",
-      "https://news.ycombinator.com/item?id=36067280"
-    ],
-    [
-      "How RxHTML Works",
-      "https://www.adama-platform.com/2023/05/25/how-rxhtml-works.html"
     ]
   ],
   [
