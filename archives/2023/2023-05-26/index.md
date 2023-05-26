@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
 * [2023-05-26, 09:26:43](https://news.ycombinator.com/item?id=36081922) - [Sweden&#x27;s 250-year-old Freedom of the Press Act gets UNESCO status](https://sverigesradio.se/artikel/swedens-250-year-old-freedom-of-the-press-act-awarded-unesco-status)
+* [2023-05-26, 09:19:13](https://news.ycombinator.com/item?id=36081851) - [Excel Labs, a Microsoft Garage Project](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview&exp=kyyw)
 * [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
 * [2023-05-26, 08:29:57](https://news.ycombinator.com/item?id=36081540) - [Ask HN: What are some good resources for learning about low level disk&#x2F;file IO?](https://news.ycombinator.com/item?id=36081540)
 * [2023-05-26, 07:52:45](https://news.ycombinator.com/item?id=36081297) - [PyPI will require 2FA by the end of 2023](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
