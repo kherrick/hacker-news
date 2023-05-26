@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-05-26, 16:21:43",
+      "https://news.ycombinator.com/item?id=36086180"
+    ],
+    [
+      "Please stop sending me emails written by GPT",
+      "https://mkbaio.substack.com/p/please-stop-sending-me-emails-written"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 16:15:58",
+      "https://news.ycombinator.com/item?id=36086099"
+    ],
+    [
+      "Gravitational-wave detector LIGO is back",
+      "https://www.nature.com/articles/d41586-023-01732-4"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 16:09:38",
+      "https://news.ycombinator.com/item?id=36086023"
+    ],
+    [
+      "Magnitude 6.1 earthquake near the east coast of Honshu, Japan",
+      "https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000k46f&extent=24.36711,-234.4043&extent=46.46813,-203.20313&magnitude=all&listOnlyShown=true&timeZone=utc&settings=true"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 16:08:40",
       "https://news.ycombinator.com/item?id=36086005"
     ],
     [
-      "Oppo has pulled their factory off turkey",
+      "OPPO’s Tuzla factory closed quietly",
       "https://turkey.postsen.com/business/282016/OPPO%E2%80%99s-Tuzla-factory-whose-opening-was-announced-by-AKP%E2%80%99s-Mustafa-Varank-closed-quietly.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 16:08:16",
+      "https://news.ycombinator.com/item?id=36086002"
+    ],
+    [
+      "Mojo: First Impressions",
+      "https://mojodojo.dev/blog.html"
     ]
   ],
   [
@@ -141,22 +181,22 @@
   ],
   [
     [
-      "2023-05-26, 13:19:27",
-      "https://news.ycombinator.com/item?id=36083707"
-    ],
-    [
-      "The case for South Korean membership in the G7",
-      "https://nationalinterest.org/feature/case-south-korean-membership-g7-206233"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 13:11:50",
       "https://news.ycombinator.com/item?id=36083620"
     ],
     [
       "Causal evidence that Alzheimer&#x27;s may be caused by an infection",
       "https://twitter.com/PGeldsetzer1/status/1661776663074738176"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 12:26:44",
+      "https://news.ycombinator.com/item?id=36083155"
+    ],
+    [
+      "A Technical Film Report on Project Deep Ops (1972) [video]",
+      "https://www.youtube.com/watch?v=isyO5tQfeqM"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2023-05-26, 11:03:00",
-      "https://news.ycombinator.com/item?id=36082551"
-    ],
-    [
-      "Show HN: Hacker News user experience enhancement browser extension",
-      "https://carina.app/hnux"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 10:49:30",
       "https://news.ycombinator.com/item?id=36082453"
     ],
@@ -207,26 +237,6 @@
     [
       "Layoffs push down scores on Glassdoor: this is how companies respond",
       "https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 07:43:22",
-      "https://news.ycombinator.com/item?id=36081240"
-    ],
-    [
-      "12 years since Saab’s bankruptcy: Secret NEVS electric cars revealed",
-      "https://www.vibilagare.se/english/12-years-saabs-bankruptcy-secret-nevs-electric-cars-revealed"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 04:30:03",
-      "https://news.ycombinator.com/item?id=36079940"
-    ],
-    [
-      "Weird, Rare, and Everywhere",
-      "https://hakaimagazine.com/features/weird-rare-and-everywhere/"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2023-05-25, 11:13:44",
-      "https://news.ycombinator.com/item?id=36069260"
+      "2023-05-25, 20:07:46",
+      "https://news.ycombinator.com/item?id=36075489"
     ],
     [
-      "Before the Fire: Saturn-Apollo Applications (1966)",
-      "https://www.wired.com/2012/08/before-the-fire/"
+      "The Burden of Writing: Scribes in Medieval Manuscripts (2014)",
+      "https://blogs.bl.uk/digitisedmanuscripts/2014/06/the-burden-of-writing-scribes-in-medieval-manuscripts.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "State of the Union (2017)",
       "https://inference-review.com/article/state-of-the-union"
-    ]
-  ],
-  [
-    [
-      "2023-05-23, 10:45:09",
-      "https://news.ycombinator.com/item?id=36042371"
-    ],
-    [
-      "Nobody cares about our concurrency control research [pdf]",
-      "https://www.cs.cmu.edu/~pavlo/slides/pavlo-keynote-sigmod2017.pdf"
     ]
   ]
 ]
