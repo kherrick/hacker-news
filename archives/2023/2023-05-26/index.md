@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 06:30:43](https://news.ycombinator.com/item?id=36080754) - [HP Plus prevents printer from using non-OEM ink for the life of the printer](https://www.theverge.com/2023/5/25/23736811/hp-plus-printer-ink-drm-firmware-update-cant-cancel)
 * [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record $279M Whistleblower Award Went to a Tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
 * [2023-05-26, 04:41:50](https://news.ycombinator.com/item?id=36080026) - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
