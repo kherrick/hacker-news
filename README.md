@@ -3,6 +3,8 @@
 * [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [A PhD student&#x27;s perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)
 * [2023-05-26, 06:30:43](https://news.ycombinator.com/item?id=36080754) - [HP Plus prevents printer from using non-OEM ink for the life of the printer](https://www.theverge.com/2023/5/25/23736811/hp-plus-printer-ink-drm-firmware-update-cant-cancel)
 * [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record $279M Whistleblower Award Went to a Tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
+* [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
+* [2023-05-26, 05:01:53](https://news.ycombinator.com/item?id=36080167) - [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 * [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [New work helps to explain how chronic stress can inflame the gut](https://www.nature.com/articles/d41586-023-01700-y)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
@@ -20,7 +22,6 @@
 * [2023-05-25, 19:25:37](https://news.ycombinator.com/item?id=36074959) - [Automating Everything in a USB Cable Tester PCB Design](https://www.jitx.com/blog/automating-everything-in-a-usb-cable-tester-pcb-design)
 * [2023-05-25, 18:00:24](https://news.ycombinator.com/item?id=36073919) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:48:02](https://news.ycombinator.com/item?id=36073785) - [New Playground: Memory Spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
-* [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
 * [2023-05-25, 16:58:57](https://news.ycombinator.com/item?id=36073159) - [Hacker News in Slow Italian](https://hn.lingually.ai)
 * [2023-05-25, 15:23:56](https://news.ycombinator.com/item?id=36071932) - [Attacked from Within (2009)](https://web.archive.org/web/20091126092028/http://www.kuro5hin.org/story/2009/3/12/33338/3000)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
@@ -29,7 +30,6 @@
 * [2023-05-25, 09:37:13](https://news.ycombinator.com/item?id=36068677) - [Ask HN: What Happened to Fuzzy Logic?](https://news.ycombinator.com/item?id=36068677)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
-* [2023-05-24, 13:46:42](https://news.ycombinator.com/item?id=36057997) - [Ask HN: How do you approach a problem you are not sure has a solution?](https://news.ycombinator.com/item?id=36057997)
 
 ## [Archives](archives/index.md)
 
