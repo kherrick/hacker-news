@@ -98,6 +98,7 @@
 * [2023-05-24, 06:54:53](https://news.ycombinator.com/item?id=36054918) - [Elm&#x2F;compiler: Matching on negative literals results in a parser error](https://github.com/elm/compiler/issues/1773)
 * [2023-05-24, 06:45:02](https://news.ycombinator.com/item?id=36054868) - [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 * [2023-05-24, 06:36:50](https://news.ycombinator.com/item?id=36054820) - [Trust and the Peripheral Canal](https://onthepublicrecord.org/2009/03/25/trust-and-the-peripheral-canal/)
+* [2023-05-24, 06:23:27](https://news.ycombinator.com/item?id=36054751) - [State of the Union (2017)](https://inference-review.com/article/state-of-the-union)
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 05:30:05](https://news.ycombinator.com/item?id=36054430) - [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 * [2023-05-24, 05:28:25](https://news.ycombinator.com/item?id=36054416) - [Let&#x27;s Build a Compiler (1988)](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)
