@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
+* [2023-05-26, 19:45:13](https://news.ycombinator.com/item?id=36088704) - [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
+* [2023-05-26, 19:44:30](https://news.ycombinator.com/item?id=36088693) - [What if we set GPT-4 free in Minecraft?](https://twitter.com/DrJimFan/status/1662115266933972993)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 19:06:59](https://news.ycombinator.com/item?id=36088359) - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
 * [2023-05-26, 18:55:01](https://news.ycombinator.com/item?id=36088224) - [Can we create a thread for some of the best materials on CS available online?](https://news.ycombinator.com/item?id=36088224)
