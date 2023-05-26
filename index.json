@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-26, 15:43:44",
+      "https://news.ycombinator.com/item?id=36085642"
+    ],
+    [
+      "Mozilla stops Firefox fullscreen VPN ads after user outrage",
+      "https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 15:34:59",
       "https://news.ycombinator.com/item?id=36085538"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36085536"
     ],
     [
-      "Stripe Launches PayPal Integration",
+      "Stripe Launches PayPal Integration In Europe",
       "https://stripe.com/docs/payments/paypal"
     ]
   ],
@@ -111,12 +121,32 @@
   ],
   [
     [
+      "2023-05-26, 11:38:05",
+      "https://news.ycombinator.com/item?id=36082798"
+    ],
+    [
+      "Why is Betelgeuse glowing so brightly and behaving so strangely?",
+      "https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 11:37:01",
       "https://news.ycombinator.com/item?id=36082788"
     ],
     [
       "XFS metadata corruption after upgrade to 6.3.3 kernel",
       "https://bugzilla.redhat.com/show_bug.cgi?id=2208553"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 11:03:00",
+      "https://news.ycombinator.com/item?id=36082551"
+    ],
+    [
+      "Show HN: Hacker News user experience enhancement browser extension",
+      "https://carina.app/hnux"
     ]
   ],
   [
@@ -137,16 +167,6 @@
     [
       "Layoffs push down scores on Glassdoor: this is how companies respond",
       "https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 08:29:57",
-      "https://news.ycombinator.com/item?id=36081540"
-    ],
-    [
-      "Ask HN: What are some good resources for learning about low level disk&#x2F;file IO?",
-      "https://news.ycombinator.com/item?id=36081540"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2023-05-26, 03:54:08",
-      "https://news.ycombinator.com/item?id=36079649"
-    ],
-    [
-      "New work helps to explain how chronic stress can inflame the gut",
-      "https://www.nature.com/articles/d41586-023-01700-y"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 03:08:23",
       "https://news.ycombinator.com/item?id=36079311"
     ],
@@ -207,16 +217,6 @@
     [
       "The Silent (R)evolution of SAT",
       "https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 19:25:37",
-      "https://news.ycombinator.com/item?id=36074959"
-    ],
-    [
-      "Automating everything in a USB cable tester PCB design",
-      "https://www.jitx.com/blog/automating-everything-in-a-usb-cable-tester-pcb-design"
     ]
   ],
   [
