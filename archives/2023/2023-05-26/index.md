@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
+* [2023-05-26, 08:29:57](https://news.ycombinator.com/item?id=36081540) - [Ask HN: What are some good resources for learning about low level disk&#x2F;file IO?](https://news.ycombinator.com/item?id=36081540)
 * [2023-05-26, 07:52:45](https://news.ycombinator.com/item?id=36081297) - [PyPI will require 2FA by the end of 2023](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
 * [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [Research in NLP in the Era of Large Language Models](https://arxiv.org/abs/2305.12544)
 * [2023-05-26, 06:30:43](https://news.ycombinator.com/item?id=36080754) - [HP Plus prevents printer from using non-OEM ink for the life of the printer](https://www.theverge.com/2023/5/25/23736811/hp-plus-printer-ink-drm-firmware-update-cant-cancel)

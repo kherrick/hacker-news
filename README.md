@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-26, 07:52:45](https://news.ycombinator.com/item?id=36081297) - [PyPI will require 2FA by the end of 2023](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
+* [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
+* [2023-05-26, 08:29:57](https://news.ycombinator.com/item?id=36081540) - [Ask HN: What are some good resources for learning about low level disk&#x2F;file IO?](https://news.ycombinator.com/item?id=36081540)
 * [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [A PhD student&#x27;s perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)
 * [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
@@ -20,7 +21,6 @@
 * [2023-05-25, 19:25:37](https://news.ycombinator.com/item?id=36074959) - [Automating Everything in a USB Cable Tester PCB Design](https://www.jitx.com/blog/automating-everything-in-a-usb-cable-tester-pcb-design)
 * [2023-05-25, 18:00:24](https://news.ycombinator.com/item?id=36073919) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:48:02](https://news.ycombinator.com/item?id=36073785) - [New Playground: Memory Spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
-* [2023-05-25, 16:58:57](https://news.ycombinator.com/item?id=36073159) - [Hacker News in Slow Italian](https://hn.lingually.ai)
 * [2023-05-25, 15:23:56](https://news.ycombinator.com/item?id=36071932) - [Attacked from Within (2009)](https://web.archive.org/web/20091126092028/http://www.kuro5hin.org/story/2009/3/12/33338/3000)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
 * [2023-05-25, 09:37:13](https://news.ycombinator.com/item?id=36068677) - [Ask HN: What happened to fuzzy logic?](https://news.ycombinator.com/item?id=36068677)
