@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
 * [2023-05-26, 09:26:43](https://news.ycombinator.com/item?id=36081922) - [Sweden&#x27;s 250-year-old Freedom of the Press Act gets UNESCO status](https://sverigesradio.se/artikel/swedens-250-year-old-freedom-of-the-press-act-awarded-unesco-status)
 * [2023-05-26, 09:19:13](https://news.ycombinator.com/item?id=36081851) - [Excel Labs, a Microsoft Garage Project](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview&exp=kyyw)
 * [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
 * [2023-05-26, 08:29:57](https://news.ycombinator.com/item?id=36081540) - [Ask HN: What are some good resources for learning about low level disk&#x2F;file IO?](https://news.ycombinator.com/item?id=36081540)
 * [2023-05-26, 07:43:22](https://news.ycombinator.com/item?id=36081240) - [12 years since Saab’s bankruptcy: Secret NEVS electric cars revealed](https://www.vibilagare.se/english/12-years-saabs-bankruptcy-secret-nevs-electric-cars-revealed)
 * [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [A PhD student&#x27;s perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)
-* [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 * [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [New work helps to explain how chronic stress can inflame the gut](https://www.nature.com/articles/d41586-023-01700-y)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet (2018)](https://twobithistory.org/2018/09/30/chaosnet.html)
