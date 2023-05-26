@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 12:16:47](https://news.ycombinator.com/item?id=36083093) - [How AI Is Catapulting Nvidia Toward the $1T Club](https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380)
 * [2023-05-26, 11:38:05](https://news.ycombinator.com/item?id=36082798) - [Why is Betelgeuse glowing so brightly and behaving so strangely?](https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely)
-* [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 11:16:11](https://news.ycombinator.com/item?id=36082642) - [George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
 * [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
@@ -16,7 +16,7 @@
 * [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [New work helps to explain how chronic stress can inflame the gut](https://www.nature.com/articles/d41586-023-01700-y)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet (2018)](https://twobithistory.org/2018/09/30/chaosnet.html)
 * [2023-05-26, 03:17:55](https://news.ycombinator.com/item?id=36079382) - [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
-* [2023-05-26, 03:08:23](https://news.ycombinator.com/item?id=36079311) - [Emissions are no longer following the worst case scenario](https://theclimatebrink.substack.com/p/emissions-are-no-longer-following)
+* [2023-05-26, 03:08:46](https://news.ycombinator.com/item?id=36079317) - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
 * [2023-05-26, 02:57:27](https://news.ycombinator.com/item?id=36079236) - [Ford EV Customers to Gain Access to 12,000 Tesla Superchargers](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html)
 * [2023-05-26, 02:41:54](https://news.ycombinator.com/item?id=36079115) - [The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
 * [2023-05-25, 22:15:55](https://news.ycombinator.com/item?id=36077034) - [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
