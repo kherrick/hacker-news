@@ -34,6 +34,7 @@
 * [2023-05-25, 18:03:40](https://news.ycombinator.com/item?id=36073957) - [The US Might Be Only AA+](https://www.bloomberg.com/opinion/articles/2023-05-25/the-us-might-be-only-aa)
 * [2023-05-25, 18:00:24](https://news.ycombinator.com/item?id=36073919) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:48:02](https://news.ycombinator.com/item?id=36073785) - [New Playground: Memory Spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
+* [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
 * [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
 * [2023-05-25, 17:15:00](https://news.ycombinator.com/item?id=36073379) - [Intel mulls cutting 16 and 32-bit support, booting straight into 64-bit mode](https://www.theregister.com/2023/05/25/intel_proposes_dropping_16_bit_mode/)
 * [2023-05-25, 17:05:00](https://news.ycombinator.com/item?id=36073241) - [Gorilla: LLM Connected with APIs](https://gorilla.cs.berkeley.edu/)
