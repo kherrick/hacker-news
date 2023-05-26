@@ -73,6 +73,7 @@
 * [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
 * [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
+* [2023-05-25, 05:41:02](https://news.ycombinator.com/item?id=36067382) - [Acer Aspire Vero 14 laptop review: From recycled trash to PC treasure](https://www.pcworld.com/article/1358891/acer-aspire-vero-14-review-from-trash-to-treasure.html)
 * [2023-05-25, 05:20:51](https://news.ycombinator.com/item?id=36067280) - [How RxHTML Works](https://www.adama-platform.com/2023/05/25/how-rxhtml-works.html)
 * [2023-05-25, 03:54:02](https://news.ycombinator.com/item?id=36066900) - [Framework Laptop 16](https://frame.work/blog/introducing-the-framework-laptop-16)
 * [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)

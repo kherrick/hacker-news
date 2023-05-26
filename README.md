@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-25, 22:52:00](https://news.ycombinator.com/item?id=36077466) - [58% of US adults have heard of ChatGPT; 14% have tried it](https://www.pewresearch.org/short-reads/2023/05/24/a-majority-of-americans-have-heard-of-chatgpt-but-few-have-tried-it-themselves/)
 * [2023-05-25, 22:43:28](https://news.ycombinator.com/item?id=36077360) - [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
 * [2023-05-25, 22:15:55](https://news.ycombinator.com/item?id=36077034) - [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
@@ -24,11 +23,12 @@
 * [2023-05-25, 11:32:45](https://news.ycombinator.com/item?id=36069393) - [Archive of medieval books and manuscripts discovered in Romanian church](https://www.medievalists.net/2022/09/medieval-books-manuscripts-discovered-romania/)
 * [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT-Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 * [2023-05-25, 09:45:39](https://news.ycombinator.com/item?id=36068723) - [An interactive introduction to the surface code](https://arthurpesah.me/blog/2023-05-13-surface-code/)
+* [2023-05-25, 05:41:02](https://news.ycombinator.com/item?id=36067382) - [Acer Aspire Vero 14 laptop review: From recycled trash to PC treasure](https://www.pcworld.com/article/1358891/acer-aspire-vero-14-review-from-trash-to-treasure.html)
 * [2023-05-25, 05:20:51](https://news.ycombinator.com/item?id=36067280) - [How RxHTML Works](https://www.adama-platform.com/2023/05/25/how-rxhtml-works.html)
 * [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [The smartest slime [video]](https://www.youtube.com/watch?v=k_GTIL7AECQ)
+* [2023-05-25, 00:20:13](https://news.ycombinator.com/item?id=36065693) - [Astronomers explore a recently discovered luminous quasar](https://phys.org/news/2023-05-astronomers-explore-luminous-quasar.html)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 11:24:38](https://news.ycombinator.com/item?id=36056488) - [Math That Goes on Forever but Never Repeats](https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/)
-* [2023-05-24, 11:16:00](https://news.ycombinator.com/item?id=36056408) - [Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)
 * [2023-05-24, 05:30:05](https://news.ycombinator.com/item?id=36054430) - [Nirvana fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 
 ## [Archives](archives/index.md)
