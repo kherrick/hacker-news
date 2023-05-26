@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
+* [2023-05-26, 03:08:46](https://news.ycombinator.com/item?id=36079317) - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
 * [2023-05-26, 02:57:27](https://news.ycombinator.com/item?id=36079236) - [Ford EV Customers to Gain Access to 12,000 Tesla Superchargers](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html)
 * [2023-05-26, 02:49:25](https://news.ycombinator.com/item?id=36079180) - [MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
 * [2023-05-26, 02:41:54](https://news.ycombinator.com/item?id=36079115) - [The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
@@ -9,7 +11,6 @@
 * [2023-05-26, 01:42:45](https://news.ycombinator.com/item?id=36078739) - [The False Promise of Imitating Proprietary LLMs](https://arxiv.org/abs/2305.15717)
 * [2023-05-26, 01:38:14](https://news.ycombinator.com/item?id=36078709) - [htmx](https://htmx.org/)
 * [2023-05-25, 22:43:28](https://news.ycombinator.com/item?id=36077360) - [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
-* [2023-05-25, 22:15:55](https://news.ycombinator.com/item?id=36077034) - [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 * [2023-05-25, 21:18:38](https://news.ycombinator.com/item?id=36076364) - [Ethereum Ceremony – Add your randomness to prepare the way for EIP-4844](https://ceremony.ethereum.org)
@@ -23,7 +24,6 @@
 * [2023-05-25, 13:26:47](https://news.ycombinator.com/item?id=36070426) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 12:50:22](https://news.ycombinator.com/item?id=36070090) - [Show HN: Visual intuitive explanations of LLM concepts (LLM University)](https://news.ycombinator.com/item?id=36070090)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
-* [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT-Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 * [2023-05-25, 09:45:39](https://news.ycombinator.com/item?id=36068723) - [An interactive introduction to the surface code](https://arthurpesah.me/blog/2023-05-13-surface-code/)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 * [2023-05-25, 02:17:06](https://news.ycombinator.com/item?id=36066381) - [The Indelible Hulk](https://www.historytoday.com/archive/history-matters/indelible-hulk)
