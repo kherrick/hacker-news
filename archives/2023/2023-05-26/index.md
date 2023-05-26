@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 11:38:05](https://news.ycombinator.com/item?id=36082798) - [Why is Betelgeuse glowing so brightly and behaving so strangely?](https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely)
 * [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 11:16:11](https://news.ycombinator.com/item?id=36082642) - [George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
 * [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
