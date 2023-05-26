@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 17:15:41](https://news.ycombinator.com/item?id=36087007) - [Qt 5.15 Standard Support for Legacy License Holders Ends Today](https://www.qt.io/blog/qt-5.15-support-ends)
 * [2023-05-26, 16:21:43](https://news.ycombinator.com/item?id=36086180) - [Please stop sending me emails written by GPT](https://mkbaio.substack.com/p/please-stop-sending-me-emails-written)
 * [2023-05-26, 16:15:58](https://news.ycombinator.com/item?id=36086099) - [Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
 * [2023-05-26, 16:09:38](https://news.ycombinator.com/item?id=36086023) - [Magnitude 6.1 earthquake near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000k46f&extent=24.36711,-234.4043&extent=46.46813,-203.20313&magnitude=all&listOnlyShown=true&timeZone=utc&settings=true)
