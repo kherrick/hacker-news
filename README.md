@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
 * [2023-05-26, 23:09:46](https://news.ycombinator.com/item?id=36090512) - [I have resigned from all roles in rustlang, effective immediately](https://twitter.com/jntrnr/status/1662229886386442242)
+* [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [[418] I&#x27;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 * [2023-05-26, 20:48:45](https://news.ycombinator.com/item?id=36089333) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 * [2023-05-26, 20:19:20](https://news.ycombinator.com/item?id=36089055) - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
@@ -22,8 +24,6 @@
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
 * [2023-05-26, 14:15:07](https://news.ycombinator.com/item?id=36084457) - [A Spreading Activation Theory of Semantic Processing (1975)](https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing)
 * [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
-* [2023-05-26, 12:44:22](https://news.ycombinator.com/item?id=36083306) - [Want to buy a West Texas ghost town? Now’s your chance](https://www.texasmonthly.com/travel/want-to-buy-a-west-texas-ghost-town-nows-your-chance/)
-* [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
 * [2023-05-26, 05:10:43](https://news.ycombinator.com/item?id=36080209) - [The Sonnet Machine](https://aeon.co/essays/sonnets-are-machines-for-thinking-through-complex-emotions)
 * [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)
