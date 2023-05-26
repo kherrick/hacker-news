@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-25](index.md)
 
+* [2023-05-25, 22:52:00](https://news.ycombinator.com/item?id=36077466) - [58% of US adults have heard of ChatGPT; 14% have tried it](https://www.pewresearch.org/short-reads/2023/05/24/a-majority-of-americans-have-heard-of-chatgpt-but-few-have-tried-it-themselves/)
 * [2023-05-25, 22:48:03](https://news.ycombinator.com/item?id=36077413) - [Media Bias Fact Check: Hacker News](https://mediabiasfactcheck.com/hacker-news/)
 * [2023-05-25, 22:43:28](https://news.ycombinator.com/item?id=36077360) - [Firefox displayed a pop-up ad for Mozilla VPN over an unrelated page](https://bugzilla.mozilla.org/show_bug.cgi?id=1835158)
 * [2023-05-25, 22:15:55](https://news.ycombinator.com/item?id=36077034) - [DARPA’s silent MHD magnetic drives for replacing naval propellers](https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/)
@@ -72,6 +73,7 @@
 * [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
 * [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
+* [2023-05-25, 05:20:51](https://news.ycombinator.com/item?id=36067280) - [How RxHTML Works](https://www.adama-platform.com/2023/05/25/how-rxhtml-works.html)
 * [2023-05-25, 03:54:02](https://news.ycombinator.com/item?id=36066900) - [Framework Laptop 16](https://frame.work/blog/introducing-the-framework-laptop-16)
 * [2023-05-25, 03:05:32](https://news.ycombinator.com/item?id=36066660) - [IUP – Cross platform C GUI library](https://www.tecgraf.puc-rio.br/iup/)
 * [2023-05-25, 02:42:32](https://news.ycombinator.com/item?id=36066513) - [Psychiatric Detentions Rise 220% in First Year of 988 Hotline](https://www.madinamerica.com/2023/05/psychiatric-detentions-rise-988/)
