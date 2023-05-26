@@ -24,10 +24,10 @@
 * [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
 * [2023-05-26, 12:16:47](https://news.ycombinator.com/item?id=36083093) - [AI Is Catapulting Nvidia Toward the $1 Trillion Club](https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380)
 * [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
+* [2023-05-26, 10:49:30](https://news.ycombinator.com/item?id=36082453) - [Don&#x27;t abuse su for dropping user privileges (2015)](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
 * [2023-05-26, 10:07:19](https://news.ycombinator.com/item?id=36082180) - [That people produce HTML with string templates is telling us something](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates)
 * [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor – how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
-* [2023-05-25, 20:07:46](https://news.ycombinator.com/item?id=36075489) - [The Burden of Writing: Scribes in Medieval Manuscripts (2014)](https://blogs.bl.uk/digitisedmanuscripts/2014/06/the-burden-of-writing-scribes-in-medieval-manuscripts.html)
 * [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
 * [2023-05-24, 17:25:58](https://news.ycombinator.com/item?id=36061376) - [Native AOT Overview](https://ericsink.com/native_aot/overview.html)
 
