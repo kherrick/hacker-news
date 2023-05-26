@@ -2,6 +2,7 @@
 
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs: A database of paper airplanes](https://www.foldnfly.com/lounge/national-paper-airplane-day.php)
+* [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 * [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
 * [2023-05-26, 17:15:41](https://news.ycombinator.com/item?id=36087007) - [Qt 5.15 Standard Support for Legacy License Holders Ends Today](https://www.qt.io/blog/qt-5.15-support-ends)
 * [2023-05-26, 17:04:52](https://news.ycombinator.com/item?id=36086858) - [GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
@@ -12,7 +13,6 @@
 * [2023-05-26, 15:55:54](https://news.ycombinator.com/item?id=36085835) - [Green hills forever: Windows XP activation algorithm cracked after 21 years](https://arstechnica.com/gadgets/2023/05/a-decade-after-it-mattered-windows-xps-activation-algorithm-is-cracked/)
 * [2023-05-26, 15:43:44](https://news.ycombinator.com/item?id=36085642) - [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
 * [2023-05-26, 15:34:59](https://news.ycombinator.com/item?id=36085538) - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
-* [2023-05-26, 14:45:48](https://news.ycombinator.com/item?id=36084881) - [How much of AI&#x27;s recent success is due to the Forer Effect?](https://shkspr.mobi/blog/2023/02/how-much-of-ais-recent-success-is-due-to-the-forer-effect/)
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
 * [2023-05-26, 14:17:23](https://news.ycombinator.com/item?id=36084483) - [How the lemon was invented (2018)](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
 * [2023-05-26, 14:14:22](https://news.ycombinator.com/item?id=36084450) - [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
