@@ -16,6 +16,7 @@
 * [2023-05-24, 21:17:09](https://news.ycombinator.com/item?id=36063979) - [Sony confirms its working on a new Playstation portable, codenamed Project Q](https://overkill.wtf/sony-new-playstation-portable-q-lite/)
 * [2023-05-24, 21:13:59](https://news.ycombinator.com/item?id=36063943) - [The Brand New Thunderbird Logo](https://blog.thunderbird.net/2023/05/introducing-the-brand-new-thunderbird-logo/)
 * [2023-05-24, 20:34:58](https://news.ycombinator.com/item?id=36063531) - [Show HN: Mount Unix system into Common Lisp image](https://github.com/PuellaeMagicae/unix-in-lisp)
+* [2023-05-24, 20:20:27](https://news.ycombinator.com/item?id=36063382) - [Unintended Side Effects](https://www.os2museum.com/wp/unintended-side-effects/)
 * [2023-05-24, 20:17:07](https://news.ycombinator.com/item?id=36063346) - [Neeva Acquired by Snowflake](https://www.snowflake.com/blog/snowflake-acquires-neeva-to-accelerate-search-in-the-data-cloud-through-generative-ai/)
 * [2023-05-24, 19:57:49](https://news.ycombinator.com/item?id=36063166) - [OpenAI Major Outage](https://status.openai.com/incidents/jbt079x532bg)
 * [2023-05-24, 19:19:56](https://news.ycombinator.com/item?id=36062763) - [World of Goo Remastered](https://play.google.com/store/apps/details?id=com.netflix.NGP.WorldofGooHD&hl=en_US)
