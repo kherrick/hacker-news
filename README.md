@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record $279M Whistleblower Award Went to a Tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
 * [2023-05-26, 04:41:50](https://news.ycombinator.com/item?id=36080026) - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
+* [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [Chronic stress can inflame the gut – now scientists know why](https://www.nature.com/articles/d41586-023-01700-y)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
 * [2023-05-26, 03:17:55](https://news.ycombinator.com/item?id=36079382) - [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
 * [2023-05-26, 03:08:46](https://news.ycombinator.com/item?id=36079317) - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
@@ -14,7 +16,6 @@
 * [2023-05-25, 21:45:45](https://news.ycombinator.com/item?id=36076667) - [JobRunr: A library for background processing in Java](https://www.jobrunr.io/en/)
 * [2023-05-25, 21:42:21](https://news.ycombinator.com/item?id=36076629) - [Neanderthal Flute](https://www.nms.si:443/en/collections/highlights/343-Neanderthal-flute)
 * [2023-05-25, 21:18:38](https://news.ycombinator.com/item?id=36076364) - [Ethereum Ceremony – Add your randomness to prepare the way for EIP-4844](https://ceremony.ethereum.org)
-* [2023-05-25, 20:38:25](https://news.ycombinator.com/item?id=36075886) - [Whistleblower drops 100 GB of Tesla secrets to German news site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
 * [2023-05-25, 20:31:53](https://news.ycombinator.com/item?id=36075801) - [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 * [2023-05-25, 18:00:24](https://news.ycombinator.com/item?id=36073919) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:48:02](https://news.ycombinator.com/item?id=36073785) - [New Playground: Memory Spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
@@ -27,7 +28,6 @@
 * [2023-05-25, 09:45:39](https://news.ycombinator.com/item?id=36068723) - [An interactive introduction to the surface code](https://arthurpesah.me/blog/2023-05-13-surface-code/)
 * [2023-05-25, 08:17:35](https://news.ycombinator.com/item?id=36068243) - [The XY Problem](https://xyproblem.info/)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
-* [2023-05-25, 02:17:06](https://news.ycombinator.com/item?id=36066381) - [The Indelible Hulk](https://www.historytoday.com/archive/history-matters/indelible-hulk)
 * [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [The smartest slime [video]](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 
