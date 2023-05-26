@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 11:16:11](https://news.ycombinator.com/item?id=36082642) - [George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
 * [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
@@ -26,7 +27,6 @@
 * [2023-05-25, 08:17:35](https://news.ycombinator.com/item?id=36068243) - [The XY Problem (2014)](https://xyproblem.info/)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 * [2023-05-25, 02:17:06](https://news.ycombinator.com/item?id=36066381) - [Prison Hulks](https://www.historytoday.com/archive/history-matters/indelible-hulk)
-* [2023-05-24, 20:20:27](https://news.ycombinator.com/item?id=36063382) - [Unintended Side Effects](https://www.os2museum.com/wp/unintended-side-effects/)
 * [2023-05-24, 13:46:42](https://news.ycombinator.com/item?id=36057997) - [Ask HN: How do you approach a problem you are not sure has a solution?](https://news.ycombinator.com/item?id=36057997)
 * [2023-05-24, 08:39:46](https://news.ycombinator.com/item?id=36055490) - [More Than Just Algorithms](https://queue.acm.org/detail.cfm?id=3587481)
 * [2023-05-23, 10:45:09](https://news.ycombinator.com/item?id=36042371) - [Nobody cares about our concurrency control research [pdf]](https://www.cs.cmu.edu/~pavlo/slides/pavlo-keynote-sigmod2017.pdf)
