@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 20:19:20](https://news.ycombinator.com/item?id=36089055) - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 * [2023-05-26, 19:45:13](https://news.ycombinator.com/item?id=36088704) - [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
 * [2023-05-26, 19:44:30](https://news.ycombinator.com/item?id=36088693) - [What if we set GPT-4 free in Minecraft?](https://twitter.com/DrJimFan/status/1662115266933972993)
@@ -15,7 +16,6 @@
 * [2023-05-26, 17:04:52](https://news.ycombinator.com/item?id=36086858) - [GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
 * [2023-05-26, 16:42:58](https://news.ycombinator.com/item?id=36086537) - [Phishing domains tanked after Meta sued Freenom](https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/)
 * [2023-05-26, 16:15:58](https://news.ycombinator.com/item?id=36086099) - [Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
-* [2023-05-26, 16:02:21](https://news.ycombinator.com/item?id=36085936) - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/)
 * [2023-05-26, 15:43:44](https://news.ycombinator.com/item?id=36085642) - [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
 * [2023-05-26, 15:34:59](https://news.ycombinator.com/item?id=36085538) - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
