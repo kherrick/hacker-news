@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 20:31:57](https://news.ycombinator.com/item?id=36089171) - [AI tools like ChatGPT are built on mass copyright infringement](https://www.theglobeandmail.com/opinion/article-ai-programs-like-chatgpt-are-built-on-mass-copyright-infringement/)
+* [2023-05-26, 20:23:59](https://news.ycombinator.com/item?id=36089104) - [Daniel Micay publicly steps down from GrapheneOS](https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53)
+* [2023-05-26, 20:22:13](https://news.ycombinator.com/item?id=36089084) - [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
 * [2023-05-26, 20:19:20](https://news.ycombinator.com/item?id=36089055) - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 * [2023-05-26, 19:45:13](https://news.ycombinator.com/item?id=36088704) - [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
