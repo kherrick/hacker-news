@@ -23,13 +23,13 @@
 * [2023-05-25, 13:26:47](https://news.ycombinator.com/item?id=36070426) - [Implementing a distributed key-value store on top of implementing Raft in Go](https://notes.eatonphil.com/2023-05-25-raft.html)
 * [2023-05-25, 12:50:22](https://news.ycombinator.com/item?id=36070090) - [Show HN: Visual intuitive explanations of LLM concepts (LLM University)](https://news.ycombinator.com/item?id=36070090)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
+* [2023-05-25, 10:06:38](https://news.ycombinator.com/item?id=36068850) - [How to Finetune GPT-Like Large Language Models on a Custom Dataset](https://lightning.ai/pages/blog/how-to-finetune-gpt-like-large-language-models-on-a-custom-dataset/)
 * [2023-05-25, 09:45:39](https://news.ycombinator.com/item?id=36068723) - [An interactive introduction to the surface code](https://arthurpesah.me/blog/2023-05-13-surface-code/)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 * [2023-05-25, 02:17:06](https://news.ycombinator.com/item?id=36066381) - [The Indelible Hulk](https://www.historytoday.com/archive/history-matters/indelible-hulk)
 * [2023-05-25, 00:35:08](https://news.ycombinator.com/item?id=36065802) - [The smartest slime [video]](https://www.youtube.com/watch?v=k_GTIL7AECQ)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 11:24:38](https://news.ycombinator.com/item?id=36056488) - [Math That Goes on Forever but Never Repeats](https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/)
-* [2023-05-24, 05:30:05](https://news.ycombinator.com/item?id=36054430) - [Nirvana fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 
 ## [Archives](archives/index.md)
 
