@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 20:48:45](https://news.ycombinator.com/item?id=36089333) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
 * [2023-05-26, 20:23:59](https://news.ycombinator.com/item?id=36089104) - [Daniel Micay publicly steps down from GrapheneOS](https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53)
 * [2023-05-26, 20:22:13](https://news.ycombinator.com/item?id=36089084) - [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
 * [2023-05-26, 20:19:20](https://news.ycombinator.com/item?id=36089055) - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
@@ -9,6 +10,7 @@
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 19:06:59](https://news.ycombinator.com/item?id=36088359) - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
 * [2023-05-26, 18:55:01](https://news.ycombinator.com/item?id=36088224) - [Can we create a thread for some of the best materials on CS available online?](https://news.ycombinator.com/item?id=36088224)
+* [2023-05-26, 18:47:34](https://news.ycombinator.com/item?id=36088135) - [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)
 * [2023-05-26, 18:17:53](https://news.ycombinator.com/item?id=36087804) - [Ispace Announces Results of the “Hakuto-R” Mission 1 Lunar Landing](https://ispace-inc.com/news-en/?p=4691)
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
@@ -23,13 +25,11 @@
 * [2023-05-26, 14:14:22](https://news.ycombinator.com/item?id=36084450) - [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
 * [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
 * [2023-05-26, 12:44:22](https://news.ycombinator.com/item?id=36083306) - [Want to buy a West Texas ghost town? Now’s your chance](https://www.texasmonthly.com/travel/want-to-buy-a-west-texas-ghost-town-nows-your-chance/)
-* [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
-* [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
-* [2023-05-26, 10:07:19](https://news.ycombinator.com/item?id=36082180) - [That people produce HTML with string templates is telling us something](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates)
 * [2023-05-26, 05:10:43](https://news.ycombinator.com/item?id=36080209) - [The Sonnet Machine](https://aeon.co/essays/sonnets-are-machines-for-thinking-through-complex-emotions)
 * [2023-05-25, 20:16:21](https://news.ycombinator.com/item?id=36075587) - [Observable Plot 0.6.7 released: pointer interaction, tip mark](https://twitter.com/mbostock/status/1661814623962812416)
 * [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
+* [2023-05-25, 05:54:30](https://news.ycombinator.com/item?id=36067464) - [How Life (and Death) Spring from Disorder (2017)](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
 
 ## [Archives](archives/index.md)
 
