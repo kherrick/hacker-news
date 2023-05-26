@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [Research in NLP in the Era of Large Language Models](https://arxiv.org/abs/2305.12544)
 * [2023-05-26, 06:30:43](https://news.ycombinator.com/item?id=36080754) - [HP Plus prevents printer from using non-OEM ink for the life of the printer](https://www.theverge.com/2023/5/25/23736811/hp-plus-printer-ink-drm-firmware-update-cant-cancel)
 * [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record $279M Whistleblower Award Went to a Tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
 * [2023-05-26, 04:41:50](https://news.ycombinator.com/item?id=36080026) - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
@@ -8,6 +9,7 @@
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
 * [2023-05-26, 03:17:55](https://news.ycombinator.com/item?id=36079382) - [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
 * [2023-05-26, 03:08:46](https://news.ycombinator.com/item?id=36079317) - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
+* [2023-05-26, 03:08:23](https://news.ycombinator.com/item?id=36079311) - [Emissions are no longer following the worst case scenario](https://theclimatebrink.substack.com/p/emissions-are-no-longer-following)
 * [2023-05-26, 02:49:25](https://news.ycombinator.com/item?id=36079180) - [MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
 * [2023-05-26, 02:41:54](https://news.ycombinator.com/item?id=36079115) - [The Silent (R)evolution of SAT](https://cacm.acm.org/magazines/2023/6/273222-the-silent-revolution-of-sat/fulltext)
 * [2023-05-26, 01:55:48](https://news.ycombinator.com/item?id=36078831) - [Fluent 2 Design System](https://fluent2.microsoft.design/)
@@ -19,8 +21,6 @@
 * [2023-05-25, 20:31:53](https://news.ycombinator.com/item?id=36075801) - [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
 * [2023-05-25, 18:00:24](https://news.ycombinator.com/item?id=36073919) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:48:02](https://news.ycombinator.com/item?id=36073785) - [New Playground: Memory Spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
-* [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
-* [2023-05-25, 17:05:00](https://news.ycombinator.com/item?id=36073241) - [Gorilla: Large Language Model connected with massive APIs](https://gorilla.cs.berkeley.edu/)
 * [2023-05-25, 16:58:57](https://news.ycombinator.com/item?id=36073159) - [Hacker News in Slow Italian](https://hn.lingually.ai)
 * [2023-05-25, 15:23:56](https://news.ycombinator.com/item?id=36071932) - [Attacked from Within (2009)](https://web.archive.org/web/20091126092028/http://www.kuro5hin.org/story/2009/3/12/33338/3000)
 * [2023-05-25, 12:22:42](https://news.ycombinator.com/item?id=36069847) - [Everything you always wanted to know about mathematics (2013) [pdf]](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf)
