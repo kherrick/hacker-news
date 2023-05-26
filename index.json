@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-26, 17:50:15",
+      "https://news.ycombinator.com/item?id=36087464"
+    ],
+    [
+      "Modern SAT solvers: fast, neat and underused (2018)",
+      "https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 17:48:12",
       "https://news.ycombinator.com/item?id=36087442"
     ],
@@ -37,6 +47,16 @@
     [
       "GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure",
       "https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 16:42:58",
+      "https://news.ycombinator.com/item?id=36086537"
+    ],
+    [
+      "Phishing Domains Tanked After Meta Sued Freenom",
+      "https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-05-26, 10:49:30",
-      "https://news.ycombinator.com/item?id=36082453"
-    ],
-    [
-      "Don&#x27;t abuse su for dropping user privileges (2015)",
-      "https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 10:27:50",
       "https://news.ycombinator.com/item?id=36082308"
     ],
@@ -287,16 +297,6 @@
     [
       "Ask HN: How do you approach a problem you are not sure has a solution?",
       "https://news.ycombinator.com/item?id=36057997"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 06:23:27",
-      "https://news.ycombinator.com/item?id=36054751"
-    ],
-    [
-      "State of the Union (2017)",
-      "https://inference-review.com/article/state-of-the-union"
     ]
   ]
 ]
