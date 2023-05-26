@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 15:43:44](https://news.ycombinator.com/item?id=36085642) - [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
 * [2023-05-26, 15:34:59](https://news.ycombinator.com/item?id=36085538) - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
 * [2023-05-26, 15:34:54](https://news.ycombinator.com/item?id=36085536) - [Stripe Launches PayPal Integration](https://stripe.com/docs/payments/paypal)
 * [2023-05-26, 15:34:48](https://news.ycombinator.com/item?id=36085531) - [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/)
