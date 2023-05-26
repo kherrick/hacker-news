@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
 * [2023-05-26, 13:19:27](https://news.ycombinator.com/item?id=36083707) - [The Case for South Korean Membership in the G7](https://nationalinterest.org/feature/case-south-korean-membership-g7-206233)
+* [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Causal evidence that Alzheimer&#x27;s may be caused by an infection](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
 * [2023-05-26, 13:02:18](https://news.ycombinator.com/item?id=36083500) - [Puerto Rico: A U.S. Territory in Crisis](https://www.cfr.org/backgrounder/puerto-rico-us-territory-crisis)
 * [2023-05-26, 12:50:53](https://news.ycombinator.com/item?id=36083374) - [Microsoft Teams update could turn your meeting into a complete mess](https://www.techradar.com/news/this-microsoft-teams-update-could-turn-your-meeting-into-a-complete-mess)
 * [2023-05-26, 12:44:11](https://news.ycombinator.com/item?id=36083304) - [Mastering Monero: The future of private transactions [pdf]](https://masteringmonero.com/book/Mastering%20Monero%20First%20Edition%20by%20SerHack%20and%20Monero%20Community.pdf)
 * [2023-05-26, 12:16:47](https://news.ycombinator.com/item?id=36083093) - [How AI Is Catapulting Nvidia Toward the $1T Club](https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380)
 * [2023-05-26, 11:38:05](https://news.ycombinator.com/item?id=36082798) - [Why is Betelgeuse glowing so brightly and behaving so strangely?](https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely)
+* [2023-05-26, 11:37:01](https://news.ycombinator.com/item?id=36082788) - [Avoid using Linux 6.3 if you have XFS filesystem](https://bugzilla.redhat.com/show_bug.cgi?id=2208553)
 * [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 11:16:11](https://news.ycombinator.com/item?id=36082642) - [George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
 * [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
