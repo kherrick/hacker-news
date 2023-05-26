@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
+* [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs: A database of paper airplanes](https://www.foldnfly.com/lounge/national-paper-airplane-day.php)
 * [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 * [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)

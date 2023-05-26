@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
-* [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs: A database of paper airplanes](https://www.foldnfly.com/lounge/national-paper-airplane-day.php)
+* [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 * [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
-* [2023-05-26, 17:15:41](https://news.ycombinator.com/item?id=36087007) - [Qt 5.15 Standard Support for Legacy License Holders Ends Today](https://www.qt.io/blog/qt-5.15-support-ends)
 * [2023-05-26, 17:04:52](https://news.ycombinator.com/item?id=36086858) - [GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
-* [2023-05-26, 16:42:58](https://news.ycombinator.com/item?id=36086537) - [Phishing Domains Tanked After Meta Sued Freenom](https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/)
+* [2023-05-26, 16:42:58](https://news.ycombinator.com/item?id=36086537) - [Phishing domains tanked after Meta sued Freenom](https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/)
 * [2023-05-26, 16:15:58](https://news.ycombinator.com/item?id=36086099) - [Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
 * [2023-05-26, 16:09:38](https://news.ycombinator.com/item?id=36086023) - [Magnitude 6.1 earthquake near the east coast of Honshu, Japan](https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000k46f&extent=24.36711,-234.4043&extent=46.46813,-203.20313&magnitude=all&listOnlyShown=true&timeZone=utc&settings=true)
 * [2023-05-26, 16:02:21](https://news.ycombinator.com/item?id=36085936) - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/)
@@ -18,7 +17,7 @@
 * [2023-05-26, 14:14:22](https://news.ycombinator.com/item?id=36084450) - [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
 * [2023-05-26, 13:47:55](https://news.ycombinator.com/item?id=36084076) - [What Is a Weed?](https://www.newyorker.com/news/our-local-correspondents/what-is-a-weed)
 * [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
-* [2023-05-26, 12:44:22](https://news.ycombinator.com/item?id=36083306) - [Want to Buy a West Texas Ghost Town? Now’s Your Chance](https://www.texasmonthly.com/travel/want-to-buy-a-west-texas-ghost-town-nows-your-chance/)
+* [2023-05-26, 12:44:22](https://news.ycombinator.com/item?id=36083306) - [Want to buy a West Texas ghost town? Now’s your chance](https://www.texasmonthly.com/travel/want-to-buy-a-west-texas-ghost-town-nows-your-chance/)
 * [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
 * [2023-05-26, 12:16:47](https://news.ycombinator.com/item?id=36083093) - [AI Is Catapulting Nvidia Toward the $1 Trillion Club](https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380)
 * [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
@@ -30,6 +29,7 @@
 * [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
 * [2023-05-24, 17:25:58](https://news.ycombinator.com/item?id=36061376) - [Native AOT Overview](https://ericsink.com/native_aot/overview.html)
 * [2023-05-24, 13:46:42](https://news.ycombinator.com/item?id=36057997) - [Ask HN: How do you approach a problem you are not sure has a solution?](https://news.ycombinator.com/item?id=36057997)
+* [2023-05-24, 06:23:27](https://news.ycombinator.com/item?id=36054751) - [State of the Union (2017)](https://inference-review.com/article/state-of-the-union)
 
 ## [Archives](archives/index.md)
 
