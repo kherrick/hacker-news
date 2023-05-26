@@ -16,7 +16,7 @@
 * [2023-05-26, 17:04:52](https://news.ycombinator.com/item?id=36086858) - [GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure](https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure)
 * [2023-05-26, 16:42:58](https://news.ycombinator.com/item?id=36086537) - [Phishing domains tanked after Meta sued Freenom](https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/)
 * [2023-05-26, 16:15:58](https://news.ycombinator.com/item?id=36086099) - [Gravitational-wave detector LIGO is back](https://www.nature.com/articles/d41586-023-01732-4)
-* [2023-05-26, 15:43:44](https://news.ycombinator.com/item?id=36085642) - [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
+* [2023-05-26, 16:02:21](https://news.ycombinator.com/item?id=36085936) - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/)
 * [2023-05-26, 15:34:59](https://news.ycombinator.com/item?id=36085538) - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
 * [2023-05-26, 14:14:22](https://news.ycombinator.com/item?id=36084450) - [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
@@ -27,8 +27,8 @@
 * [2023-05-26, 11:17:11](https://news.ycombinator.com/item?id=36082650) - [Am I the Unethical One?](https://dailynous.com/2023/05/25/am-i-the-unethical-one-a-philosophy-professor-his-cheating-students/)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
 * [2023-05-26, 10:07:19](https://news.ycombinator.com/item?id=36082180) - [That people produce HTML with string templates is telling us something](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates)
-* [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor – how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
 * [2023-05-26, 05:10:43](https://news.ycombinator.com/item?id=36080209) - [The Sonnet Machine](https://aeon.co/essays/sonnets-are-machines-for-thinking-through-complex-emotions)
+* [2023-05-25, 20:16:21](https://news.ycombinator.com/item?id=36075587) - [Observable Plot 0.6.7 released: pointer interaction, tip mark](https://twitter.com/mbostock/status/1661814623962812416)
 * [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
 
 ## [Archives](archives/index.md)

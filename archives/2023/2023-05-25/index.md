@@ -19,6 +19,7 @@
 * [2023-05-25, 20:41:31](https://news.ycombinator.com/item?id=36075917) - [It will take years to get Deutsche Bahn back on track](https://www.economist.com/business/2023/05/25/it-will-take-years-to-get-deutsche-bahn-back-on-track)
 * [2023-05-25, 20:38:25](https://news.ycombinator.com/item?id=36075886) - [Whistleblower Drops 100 GB of Tesla Secrets to German News Site](https://jalopnik.com/whistleblower-drops-100-gigabytes-of-tesla-secrets-to-g-1850476542)
 * [2023-05-25, 20:31:53](https://news.ycombinator.com/item?id=36075801) - [Colorado repealed law limiting municipal internet](https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/)
+* [2023-05-25, 20:16:21](https://news.ycombinator.com/item?id=36075587) - [Observable Plot 0.6.7 released: pointer interaction, tip mark](https://twitter.com/mbostock/status/1661814623962812416)
 * [2023-05-25, 20:13:12](https://news.ycombinator.com/item?id=36075550) - [OpenAI CEO raises $115M for crypto company that scans people’s eyeballs](https://arstechnica.com/tech-policy/2023/05/openai-ceo-raises-115m-for-crypto-company-that-scans-peoples-eyeballs/)
 * [2023-05-25, 20:07:46](https://news.ycombinator.com/item?id=36075489) - [The Burden of Writing: Scribes in Medieval Manuscripts (2014)](https://blogs.bl.uk/digitisedmanuscripts/2014/06/the-burden-of-writing-scribes-in-medieval-manuscripts.html)
 * [2023-05-25, 20:01:18](https://news.ycombinator.com/item?id=36075406) - [Hacker New with Semafor UI](https://hackernews-semafor-duhw.vercel.app/)
