@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 14:45:48](https://news.ycombinator.com/item?id=36084881) - [How much of AI&#x27;s recent success is due to the Forer Effect?](https://shkspr.mobi/blog/2023/02/how-much-of-ais-recent-success-is-due-to-the-forer-effect/)
 * [2023-05-26, 14:17:23](https://news.ycombinator.com/item?id=36084483) - [How the lemon was invented](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
 * [2023-05-26, 14:14:22](https://news.ycombinator.com/item?id=36084450) - [Node.js built-ins on Deno Deploy](https://deno.com/blog/node-builtins-on-deploy)
 * [2023-05-26, 13:19:27](https://news.ycombinator.com/item?id=36083707) - [The case for South Korean membership in the G7](https://nationalinterest.org/feature/case-south-korean-membership-g7-206233)
@@ -25,7 +26,6 @@
 * [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
 * [2023-05-25, 08:17:35](https://news.ycombinator.com/item?id=36068243) - [The XY Problem (2014)](https://xyproblem.info/)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
-* [2023-05-25, 02:17:06](https://news.ycombinator.com/item?id=36066381) - [Prison Hulks](https://www.historytoday.com/archive/history-matters/indelible-hulk)
 * [2023-05-24, 17:25:58](https://news.ycombinator.com/item?id=36061376) - [Native AOT Overview](https://ericsink.com/native_aot/overview.html)
 * [2023-05-24, 13:46:42](https://news.ycombinator.com/item?id=36057997) - [Ask HN: How do you approach a problem you are not sure has a solution?](https://news.ycombinator.com/item?id=36057997)
 * [2023-05-24, 08:39:46](https://news.ycombinator.com/item?id=36055490) - [More Than Just Algorithms](https://queue.acm.org/detail.cfm?id=3587481)
