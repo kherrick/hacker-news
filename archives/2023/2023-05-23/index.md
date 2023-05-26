@@ -65,6 +65,7 @@
 * [2023-05-23, 11:58:04](https://news.ycombinator.com/item?id=36043060) - [AI scanner used in hundreds of US schools misses knives](https://www.bbc.co.uk/news/technology-65342798)
 * [2023-05-23, 11:22:51](https://news.ycombinator.com/item?id=36042732) - [Microtiming in Metallica&#x27;s “Master of Puppets”](https://metalintheory.com/metallica-master-of-puppets/)
 * [2023-05-23, 11:10:49](https://news.ycombinator.com/item?id=36042628) - [How to Fix a ReDoS](https://github.blog/2023-05-09-how-to-fix-a-redos/)
+* [2023-05-23, 10:45:09](https://news.ycombinator.com/item?id=36042371) - [Nobody cares about our concurrency control research [pdf]](https://www.cs.cmu.edu/~pavlo/slides/pavlo-keynote-sigmod2017.pdf)
 * [2023-05-23, 10:29:08](https://news.ycombinator.com/item?id=36042249) - [How to Find a Missing Person with Dementia](https://www.newyorker.com/news/annals-of-inquiry/how-to-find-a-missing-person-with-dementia)
 * [2023-05-23, 10:24:44](https://news.ycombinator.com/item?id=36042213) - [How Microsoft faked errors in Windows 3 on top of DR DOS](https://www.geoffchappell.com/notes/windows/archive/aard/drdos/index.htm)
 * [2023-05-23, 10:11:52](https://news.ycombinator.com/item?id=36042126) - [Yoshua Bengio: How Rogue AIs May Arise](https://yoshuabengio.org/2023/05/22/how-rogue-ais-may-arise/)

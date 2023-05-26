@@ -7,6 +7,7 @@
 * [2023-05-26, 11:16:11](https://news.ycombinator.com/item?id=36082642) - [George Takei recalls his childhood in an internment camp](https://www.bbc.com/reel/video/p0fqggwq/george-takei-recalls-his-childhood-in-an-internment-camp)
 * [2023-05-26, 11:03:00](https://news.ycombinator.com/item?id=36082551) - [Show HN: Hacker News user experience enhancement browser extension](https://carina.app/hnux)
 * [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
+* [2023-05-26, 10:07:19](https://news.ycombinator.com/item?id=36082180) - [That people produce HTML with string templates is telling us something](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates)
 * [2023-05-26, 09:26:43](https://news.ycombinator.com/item?id=36081922) - [Sweden&#x27;s 250-year-old Freedom of the Press Act gets UNESCO status](https://sverigesradio.se/artikel/swedens-250-year-old-freedom-of-the-press-act-awarded-unesco-status)
 * [2023-05-26, 09:19:13](https://news.ycombinator.com/item?id=36081851) - [Excel Labs, a Microsoft Garage Project](https://appsource.microsoft.com/en-us/product/office/wa200003696?tab=overview&exp=kyyw)
 * [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
