@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-05-26, 10:07:19",
+      "https://news.ycombinator.com/item?id=36082180"
+    ],
+    [
+      "That people produce HTML with string templates is telling us something",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 09:26:43",
       "https://news.ycombinator.com/item?id=36081922"
     ],
@@ -87,16 +97,6 @@
     [
       "A PhD student&#x27;s perspective on research in NLP in the era of LLMs",
       "https://arxiv.org/abs/2305.12544"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 05:17:33",
-      "https://news.ycombinator.com/item?id=36080263"
-    ],
-    [
-      "Wardley Maps–illustrated through Gerstner",
-      "https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-05-25, 20:31:53",
-      "https://news.ycombinator.com/item?id=36075801"
-    ],
-    [
-      "Colorado repealed law limiting municipal internet",
-      "https://coloradosun.com/2023/05/24/municipal-internet-sb-152-repealed-colorado/"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 19:25:37",
       "https://news.ycombinator.com/item?id=36074959"
     ],
@@ -297,6 +287,16 @@
     [
       "More Than Just Algorithms",
       "https://queue.acm.org/detail.cfm?id=3587481"
+    ]
+  ],
+  [
+    [
+      "2023-05-23, 10:45:09",
+      "https://news.ycombinator.com/item?id=36042371"
+    ],
+    [
+      "Nobody cares about our concurrency control research [pdf]",
+      "https://www.cs.cmu.edu/~pavlo/slides/pavlo-keynote-sigmod2017.pdf"
     ]
   ]
 ]
