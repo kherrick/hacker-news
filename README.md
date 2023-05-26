@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 07:52:45](https://news.ycombinator.com/item?id=36081297) - [PyPI will require 2FA by the end of 2023](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
 * [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [A PhD student&#x27;s perspective on research in NLP in the era of LLMs](https://arxiv.org/abs/2305.12544)
-* [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record whistleblower award went to a tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
-* [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
 * [2023-05-26, 04:30:03](https://news.ycombinator.com/item?id=36079940) - [Weird, Rare, and Everywhere](https://hakaimagazine.com/features/weird-rare-and-everywhere/)
 * [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [New work helps to explain how chronic stress can inflame the gut](https://www.nature.com/articles/d41586-023-01700-y)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet (2018)](https://twobithistory.org/2018/09/30/chaosnet.html)
@@ -30,6 +29,7 @@
 * [2023-05-25, 02:17:06](https://news.ycombinator.com/item?id=36066381) - [Prison Hulks](https://www.historytoday.com/archive/history-matters/indelible-hulk)
 * [2023-05-24, 13:54:40](https://news.ycombinator.com/item?id=36058098) - [Sudo and signal propagation](https://dxuuu.xyz/sudo.html)
 * [2023-05-24, 13:46:42](https://news.ycombinator.com/item?id=36057997) - [Ask HN: How do you approach a problem you are not sure has a solution?](https://news.ycombinator.com/item?id=36057997)
+* [2023-05-24, 08:39:46](https://news.ycombinator.com/item?id=36055490) - [More Than Just Algorithms](https://queue.acm.org/detail.cfm?id=3587481)
 
 ## [Archives](archives/index.md)
 

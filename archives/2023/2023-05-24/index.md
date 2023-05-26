@@ -86,6 +86,7 @@
 * [2023-05-24, 10:14:31](https://news.ycombinator.com/item?id=36055986) - [Shortage of COBOL developers in insurance and banks](https://www.lemonde.fr/economie/article/2023/05/23/informatique-le-secteur-bancaire-manque-de-specialistes-du-cobol_6174417_3234.html)
 * [2023-05-24, 10:02:47](https://news.ycombinator.com/item?id=36055902) - [They Won&#x27;t Play a Lady-O on Country Radio](https://pudding.cool/2023/05/country-radio/)
 * [2023-05-24, 09:50:01](https://news.ycombinator.com/item?id=36055826) - [Venus is not Earth’s closest neighbor](https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor)
+* [2023-05-24, 08:39:46](https://news.ycombinator.com/item?id=36055490) - [More Than Just Algorithms](https://queue.acm.org/detail.cfm?id=3587481)
 * [2023-05-24, 08:27:59](https://news.ycombinator.com/item?id=36055426) - [Thin Film Patterns](http://john.maloney.org/Patterns/patterns.htm)
 * [2023-05-24, 08:17:23](https://news.ycombinator.com/item?id=36055360) - [Hypergamy: Much More Than You Wanted to Know](https://astralcodexten.substack.com/p/hypergamy-much-more-than-you-wanted)
 * [2023-05-24, 07:25:47](https://news.ycombinator.com/item?id=36055093) - [The Structure of Scientific Revolutions [pdf]](https://www.lri.fr/~mbl/Stanford/CS477/papers/Kuhn-SSR-2ndEd.pdf)
