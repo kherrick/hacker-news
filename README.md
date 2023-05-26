@@ -2,6 +2,7 @@
 
 * [2023-05-26, 04:41:50](https://news.ycombinator.com/item?id=36080026) - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
+* [2023-05-26, 03:17:55](https://news.ycombinator.com/item?id=36079382) - [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
 * [2023-05-26, 03:08:46](https://news.ycombinator.com/item?id=36079317) - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
 * [2023-05-26, 02:57:27](https://news.ycombinator.com/item?id=36079236) - [Ford EV Customers to Gain Access to 12,000 Tesla Superchargers](https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html)
 * [2023-05-26, 02:49:25](https://news.ycombinator.com/item?id=36079180) - [MIT Course: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
@@ -18,7 +19,6 @@
 * [2023-05-25, 18:00:24](https://news.ycombinator.com/item?id=36073919) - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 * [2023-05-25, 17:48:02](https://news.ycombinator.com/item?id=36073785) - [New Playground: Memory Spy](https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/)
 * [2023-05-25, 17:21:24](https://news.ycombinator.com/item?id=36073467) - [Finley (YC W21) is hiring to reimagine the debt capital markets (US remote)](https://www.finleycms.com/careers/)
-* [2023-05-25, 16:58:57](https://news.ycombinator.com/item?id=36073159) - [Hacker News in Slow Italian](https://hn.lingually.ai)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [Cases where full scans are better than indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
 * [2023-05-25, 14:42:36](https://news.ycombinator.com/item?id=36071342) - [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)
 * [2023-05-25, 14:29:20](https://news.ycombinator.com/item?id=36071183) - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
