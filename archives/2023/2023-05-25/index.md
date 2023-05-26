@@ -42,6 +42,7 @@
 * [2023-05-25, 15:47:20](https://news.ycombinator.com/item?id=36072268) - [AI Canon](https://a16z.com/2023/05/25/ai-canon/)
 * [2023-05-25, 15:44:01](https://news.ycombinator.com/item?id=36072219) - [Electric cars prove we need to rethink brake lights](https://www.youtube.com/watch?v=U0YW7x9U5TQ)
 * [2023-05-25, 15:40:49](https://news.ycombinator.com/item?id=36072165) - [Long-term Covid-19 booster effectiveness: a population-based cohort study](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00058-0/fulltext)
+* [2023-05-25, 15:23:56](https://news.ycombinator.com/item?id=36071932) - [Attacked from Within (2009)](https://web.archive.org/web/20091126092028/http://www.kuro5hin.org/story/2009/3/12/33338/3000)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [Superbug killing antibiotics with the help of AI](https://www.bbc.co.uk/news/health-65709834)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [You Don&#x27;t Always Need Indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
