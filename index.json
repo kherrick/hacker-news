@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-05-25, 17:05:00",
+      "https://news.ycombinator.com/item?id=36073241"
+    ],
+    [
+      "Gorilla: Large Language Model connected with massive APIs",
+      "https://gorilla.cs.berkeley.edu/"
+    ]
+  ],
+  [
+    [
       "2023-05-25, 16:58:57",
       "https://news.ycombinator.com/item?id=36073159"
     ],
@@ -207,16 +217,6 @@
     [
       "Show HN: HN Follow – Follow Your Friends on HN",
       "https://www.val.town/v/rodrigotello.hnFollow"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 13:26:47",
-      "https://news.ycombinator.com/item?id=36070426"
-    ],
-    [
-      "Implementing a distributed key-value store on top of implementing Raft in Go",
-      "https://notes.eatonphil.com/2023-05-25-raft.html"
     ]
   ],
   [
