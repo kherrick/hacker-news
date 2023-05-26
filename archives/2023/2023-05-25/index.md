@@ -72,6 +72,7 @@
 * [2023-05-25, 09:45:21](https://news.ycombinator.com/item?id=36068720) - [Show HN: Personal GPT-4 AI document assistant](https://www.chatdox.com/)
 * [2023-05-25, 09:26:34](https://news.ycombinator.com/item?id=36068619) - [RFC: Enforcing Bounds Safety in C (-fbounds-safety)](https://discourse.llvm.org/t/rfc-enforcing-bounds-safety-in-c-fbounds-safety/70854)
 * [2023-05-25, 08:34:04](https://news.ycombinator.com/item?id=36068338) - [NASA plans to melt the Moon–and build on Mars](https://www.wired.com/story/how-nasa-plans-to-melt-the-moon-and-build-on-mars/)
+* [2023-05-25, 08:17:35](https://news.ycombinator.com/item?id=36068243) - [The XY Problem](https://xyproblem.info/)
 * [2023-05-25, 07:31:10](https://news.ycombinator.com/item?id=36067983) - [VanJS (Vanilla JavaScript): smallest reactive UI framework](https://github.com/vanjs-org/van)
 * [2023-05-25, 07:25:18](https://news.ycombinator.com/item?id=36067958) - [Jj: JSON Stream Editor](https://github.com/tidwall/jj)
 * [2023-05-25, 07:01:09](https://news.ycombinator.com/item?id=36067846) - [Keyval (YC W23) Is Hiring Founding Back End Engineer](https://www.ycombinator.com/companies/keyval/jobs/gc3sdVX-founding-backend-engineer)
