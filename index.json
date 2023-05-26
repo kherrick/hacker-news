@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-26, 19:06:59",
+      "https://news.ycombinator.com/item?id=36088359"
+    ],
+    [
+      "Show HN: I made an in-browser code editor with code replay and REPL",
+      "https://logicboard.com/demo"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 18:49:11",
+      "https://news.ycombinator.com/item?id=36088159"
+    ],
+    [
+      "The reality of Wayland input methods in 2022 (2022)",
+      "https://nimfsoft.art/blog/the-reality-of-wayland-input-methods-in-2022/"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 18:40:24",
       "https://news.ycombinator.com/item?id=36088052"
     ],
@@ -47,6 +67,16 @@
     [
       "There oughta be a bullet time video booth",
       "https://there.oughta.be/a/bullet-time-video-booth"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 17:14:19",
+      "https://news.ycombinator.com/item?id=36086984"
+    ],
+    [
+      "Making $10k&#x2F;m from a French learning app",
+      "https://www.highsignal.io/companies/making-10k-m-french-learning-app/"
     ]
   ],
   [
@@ -211,16 +241,6 @@
   ],
   [
     [
-      "2023-05-26, 10:49:30",
-      "https://news.ycombinator.com/item?id=36082453"
-    ],
-    [
-      "Don&#x27;t abuse su for dropping user privileges (2015)",
-      "https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 10:27:50",
       "https://news.ycombinator.com/item?id=36082308"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-05-25, 20:07:46",
-      "https://news.ycombinator.com/item?id=36075489"
-    ],
-    [
-      "The Burden of Writing: Scribes in Medieval Manuscripts (2014)",
-      "https://blogs.bl.uk/digitisedmanuscripts/2014/06/the-burden-of-writing-scribes-in-medieval-manuscripts.html"
-    ]
-  ],
-  [
-    [
       "2023-05-25, 09:37:40",
       "https://news.ycombinator.com/item?id=36068682"
     ],
@@ -287,16 +297,6 @@
     [
       "Native AOT Overview",
       "https://ericsink.com/native_aot/overview.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 06:23:27",
-      "https://news.ycombinator.com/item?id=36054751"
-    ],
-    [
-      "State of the Union (2017)",
-      "https://inference-review.com/article/state-of-the-union"
     ]
   ]
 ]
