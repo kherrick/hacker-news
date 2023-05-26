@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
 * [2023-05-26, 16:08:40](https://news.ycombinator.com/item?id=36086005) - [Oppo has pulled their factory off turkey](https://turkey.postsen.com/business/282016/OPPO%E2%80%99s-Tuzla-factory-whose-opening-was-announced-by-AKP%E2%80%99s-Mustafa-Varank-closed-quietly.html)
+* [2023-05-26, 16:03:10](https://news.ycombinator.com/item?id=36085942) - [U.S. to give away free lighthouses as GPS makes them unnecessary](https://www.theguardian.com/us-news/2023/may/26/us-free-lighthouses-gps)
+* [2023-05-26, 16:02:21](https://news.ycombinator.com/item?id=36085936) - [Voyager: An Open-Ended Embodied Agent with LLMs](https://voyager.minedojo.org/)
 * [2023-05-26, 16:00:18](https://news.ycombinator.com/item?id=36085904) - [90% of laid-off H1-B visa holders were able to find new work against all odds](https://fortune.com/2023/05/26/90-of-laid-off-h1-b-visa-holders-were-able-to-find-new-work-against-all-odds-heres-what-the-data-tells-us-about-americas-complicated-relationship-with-foreign-born-talent/)
+* [2023-05-26, 15:55:54](https://news.ycombinator.com/item?id=36085835) - [Green hills forever: Windows XP activation algorithm cracked after 21 years](https://arstechnica.com/gadgets/2023/05/a-decade-after-it-mattered-windows-xps-activation-algorithm-is-cracked/)
 * [2023-05-26, 15:43:44](https://news.ycombinator.com/item?id=36085642) - [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
 * [2023-05-26, 15:34:59](https://news.ycombinator.com/item?id=36085538) - [Tree of Thoughts](https://github.com/kyegomez/tree-of-thoughts)
 * [2023-05-26, 15:34:54](https://news.ycombinator.com/item?id=36085536) - [Stripe Launches PayPal Integration](https://stripe.com/docs/payments/paypal)
