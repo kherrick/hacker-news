@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 23:47:19](https://news.ycombinator.com/item?id=36090755) - [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
 * [2023-05-26, 23:38:32](https://news.ycombinator.com/item?id=36090698) - [Women Mapping New York City’s Halal Food](https://www.atlasobscura.com/articles/halal-restaurants-in-new-york)
 * [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
 * [2023-05-26, 23:09:46](https://news.ycombinator.com/item?id=36090512) - [I have resigned from all roles in rustlang, effective immediately](https://twitter.com/jntrnr/status/1662229886386442242)
@@ -84,6 +85,7 @@
 * [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record $279M Whistleblower Award Went to a Tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
 * [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
 * [2023-05-26, 05:10:43](https://news.ycombinator.com/item?id=36080209) - [The Sonnet Machine](https://aeon.co/essays/sonnets-are-machines-for-thinking-through-complex-emotions)
+* [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 * [2023-05-26, 05:01:53](https://news.ycombinator.com/item?id=36080167) - [Deep Learning Systems: Algorithms and Implementation](https://dlsyscourse.org/)
 * [2023-05-26, 04:41:50](https://news.ycombinator.com/item?id=36080026) - [Get Ready for Team America: AI Police](https://cacm.acm.org/news/273289-get-ready-for-team-america-ai-police/fulltext)
 * [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)

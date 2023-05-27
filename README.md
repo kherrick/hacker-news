@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-26, 23:38:32](https://news.ycombinator.com/item?id=36090698) - [Women Mapping New York City’s Halal Food](https://www.atlasobscura.com/articles/halal-restaurants-in-new-york)
+* [2023-05-27, 01:10:46](https://news.ycombinator.com/item?id=36091166) - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
+* [2023-05-26, 23:47:19](https://news.ycombinator.com/item?id=36090755) - [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
 * [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
 * [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [418 I&#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 * [2023-05-26, 20:48:45](https://news.ycombinator.com/item?id=36089333) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
@@ -25,9 +26,8 @@
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
 * [2023-05-26, 14:15:07](https://news.ycombinator.com/item?id=36084457) - [A Spreading Activation Theory of Semantic Processing (1975)](https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing)
 * [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
-* [2023-05-26, 10:27:50](https://news.ycombinator.com/item?id=36082308) - [Killer whales wreck boat in latest attack off Spain](https://www.reuters.com/world/europe/killer-whales-wreck-boat-latest-attack-off-spain-2023-05-25/)
+* [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 * [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)
-* [2023-05-25, 20:16:21](https://news.ycombinator.com/item?id=36075587) - [Observable Plot 0.6.7 released: pointer interaction, tip mark](https://twitter.com/mbostock/status/1661814623962812416)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
 * [2023-05-25, 05:54:30](https://news.ycombinator.com/item?id=36067464) - [How Life (and Death) Spring from Disorder (2017)](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
 
