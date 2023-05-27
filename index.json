@@ -41,11 +41,21 @@
   ],
   [
     [
+      "2023-05-27, 21:25:41",
+      "https://news.ycombinator.com/item?id=36098488"
+    ],
+    [
+      "No_color",
+      "https://no-color.org/"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 21:13:35",
       "https://news.ycombinator.com/item?id=36098382"
     ],
     [
-      "1 in 10 developers leaked an API-key in 2022",
+      "How to mitigate risk from secrets leaks",
       "https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps"
     ]
   ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-05-27, 17:34:31",
+      "https://news.ycombinator.com/item?id=36096557"
+    ],
+    [
+      "Europe data salary benchmark 2023",
+      "https://medium.com/@mikldd/europe-data-salary-benchmark-2023-b68cea57923d"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 17:09:11",
       "https://news.ycombinator.com/item?id=36096343"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-05-27, 07:50:27",
-      "https://news.ycombinator.com/item?id=36092852"
-    ],
-    [
-      "Servo, the parallel browser engine written in Rust",
-      "https://servo.org/"
-    ]
-  ],
-  [
-    [
       "2023-05-27, 05:27:53",
       "https://news.ycombinator.com/item?id=36092303"
     ],
@@ -287,16 +297,6 @@
     [
       "TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript",
       "https://github.com/tpope/timl"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 21:57:42",
-      "https://news.ycombinator.com/item?id=36076813"
-    ],
-    [
-      "Curing brain tumors: blocking functions in cells with a docked molecule",
-      "https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html"
     ]
   ]
 ]
