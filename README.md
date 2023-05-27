@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 12:01:05](https://news.ycombinator.com/item?id=36093995) - [Downtown San Francisco is at a tipping-point](https://www.economist.com/united-states/2023/05/25/downtown-san-francisco-is-at-a-tipping-point)
 * [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
 * [2023-05-27, 11:14:07](https://news.ycombinator.com/item?id=36093756) - [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
@@ -19,7 +20,6 @@
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 * [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
-* [2023-05-26, 14:30:24](https://news.ycombinator.com/item?id=36084650) - [Returning orca Lolita to Northwest is risky](https://abcnews.go.com/Entertainment/wireStory/bringing-lolita-home-release-long-captive-orca-98347694)
 * [2023-05-26, 08:41:41](https://news.ycombinator.com/item?id=36081615) - [Din 1450, recommended for barrier-free reading](https://www.linotype.com/6990/din-1450.html)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
 * [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML (2011) [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
