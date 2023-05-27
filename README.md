@@ -8,7 +8,7 @@
 * [2023-05-27, 10:37:08](https://news.ycombinator.com/item?id=36093583) - [Virginia lottery flaw lets same people win repeatedly](https://wtop.com/virginia/2023/05/virginia-lottery-for-rare-whiskey-sours-as-flaw-lets-same-people-win-repeatedly/)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
-* [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
+* [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is an A.I. chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-27, 07:15:45](https://news.ycombinator.com/item?id=36092704) - [I made nodb, a RESTFful API to store and fetch JSON](https://nodb.sh)
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
