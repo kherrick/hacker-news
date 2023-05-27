@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 12:41:20](https://news.ycombinator.com/item?id=36094282) - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
 * [2023-05-27, 12:01:05](https://news.ycombinator.com/item?id=36093995) - [Downtown San Francisco is at a tipping-point](https://www.economist.com/united-states/2023/05/25/downtown-san-francisco-is-at-a-tipping-point)
 * [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
-* [2023-05-27, 11:14:07](https://news.ycombinator.com/item?id=36093756) - [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
