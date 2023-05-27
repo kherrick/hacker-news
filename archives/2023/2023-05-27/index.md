@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
+* [2023-05-27, 19:00:09](https://news.ycombinator.com/item?id=36097258) - [WebXR](https://immersiveweb.dev/)
+* [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
+* [2023-05-27, 18:48:40](https://news.ycombinator.com/item?id=36097173) - [Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
 * [2023-05-27, 18:36:43](https://news.ycombinator.com/item?id=36097082) - [Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
 * [2023-05-27, 18:04:56](https://news.ycombinator.com/item?id=36096811) - [All the Hard Stuff Nobody Talks About When Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-27, 17:46:18](https://news.ycombinator.com/item?id=36096652) - [Watch Tarkovsky&#x27;s Best Films Online for Free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
@@ -46,6 +49,7 @@
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s Enthusiast Community Bring IRIX Back to Life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 * [2023-05-27, 04:50:46](https://news.ycombinator.com/item?id=36092156) - [What are some of the best written papers in AI,ML,DL and its applications?](https://news.ycombinator.com/item?id=36092156)
 * [2023-05-27, 04:10:48](https://news.ycombinator.com/item?id=36092007) - [Makefile Tricks for Python Projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
+* [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is This Octopus Having a Nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
 * [2023-05-27, 03:05:19](https://news.ycombinator.com/item?id=36091710) - [KryptEY – Android keyboard for E2EE comms via Signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 * [2023-05-27, 01:58:56](https://news.ycombinator.com/item?id=36091388) - [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 * [2023-05-27, 01:51:17](https://news.ycombinator.com/item?id=36091356) - [First well-designed “Smart Gun” that uses biometrics to authenticate](https://www.youtube.com/watch?v=2cRm9BMxl90)
