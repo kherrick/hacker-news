@@ -102,6 +102,7 @@
 * [2023-05-26, 04:29:06](https://news.ycombinator.com/item?id=36079932) - [Children&#x27;s Games (Bruegel)](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel))
 * [2023-05-26, 03:54:08](https://news.ycombinator.com/item?id=36079649) - [Chronic stress can inflame the gut – now scientists know why](https://www.nature.com/articles/d41586-023-01700-y)
 * [2023-05-26, 03:22:54](https://news.ycombinator.com/item?id=36079416) - [A Short History of Chaosnet](https://twobithistory.org/2018/09/30/chaosnet.html)
+* [2023-05-26, 03:19:05](https://news.ycombinator.com/item?id=36079389) - [Whose baseline (compiler) is it anyway?](https://arxiv.org/abs/2305.13241)
 * [2023-05-26, 03:17:55](https://news.ycombinator.com/item?id=36079382) - [Agent GPT – Assemble, configure, and deploy autonomous AI Agents in the browser](https://agentgpt.reworkd.ai/)
 * [2023-05-26, 03:17:34](https://news.ycombinator.com/item?id=36079380) - [Is History Written by the Winners?](https://www.historytoday.com/archive/head-head/history-written-winners)
 * [2023-05-26, 03:08:46](https://news.ycombinator.com/item?id=36079317) - [Tesla Model Y overtakes Corolla to be world’s best-selling car in 2023](https://thedriven.io/2023/05/26/tesla-model-y-overtakes-corolla-to-be-worlds-best-selling-car-in-2023/)
