@@ -27,7 +27,7 @@
 * [2023-05-25, 21:57:42](https://news.ycombinator.com/item?id=36076813) - [Curing brain tumors: blocking functions in cells with a docked molecule](https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html)
 * [2023-05-25, 19:02:45](https://news.ycombinator.com/item?id=36074664) - [The Birth of the Self](https://hudsonreview.com/?p=21100#.ZG551nbMKUk)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
-* [2023-05-25, 15:07:22](https://news.ycombinator.com/item?id=36071674) - [C++: The Obvious Final Step](https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/)
+* [2023-05-25, 15:07:22](https://news.ycombinator.com/item?id=36071674) - [The obvious final step](https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/)
 * [2023-05-24, 11:17:31](https://news.ycombinator.com/item?id=36056419) - [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
 * [2023-05-24, 05:28:24](https://news.ycombinator.com/item?id=36054415) - [New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 
