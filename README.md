@@ -2,11 +2,11 @@
 
 * [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
+* [2023-05-27, 07:15:45](https://news.ycombinator.com/item?id=36092704) - [I made nodb, a RESTFful API to store and fetch JSON](https://nodb.sh)
 * [2023-05-27, 06:57:01](https://news.ycombinator.com/item?id=36092638) - [Experiences won’t make you happier than possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
 * [2023-05-27, 06:23:53](https://news.ycombinator.com/item?id=36092509) - [ChatGPT-Authored Legal Filing “Replete with Citations to Non-Existent Cases&quot;](https://reason.com/volokh/2023/05/27/a-lawyers-filing-is-replete-with-citations-to-non-existent-cases-thanks-chatgpt/)
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 * [2023-05-27, 03:05:19](https://news.ycombinator.com/item?id=36091710) - [KryptEY – Android keyboard for E2EE comms via Signal protocol in any messenger](https://github.com/amnesica/KryptEY)
-* [2023-05-27, 01:58:56](https://news.ycombinator.com/item?id=36091388) - [ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 * [2023-05-26, 23:47:19](https://news.ycombinator.com/item?id=36090755) - [Dolphin on Steam Indefinitely Postponed](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
 * [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
 * [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [418 I&#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
