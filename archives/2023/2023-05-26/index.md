@@ -50,6 +50,7 @@
 * [2023-05-26, 15:34:48](https://news.ycombinator.com/item?id=36085531) - [NASA safety panel skeptical of Starliner readiness for crewed flight](https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/)
 * [2023-05-26, 15:18:15](https://news.ycombinator.com/item?id=36085310) - [Ask HN: Have any managers&#x2F;team leads been asked to layoff staff b&#x2F;c of AI?](https://news.ycombinator.com/item?id=36085310)
 * [2023-05-26, 14:45:48](https://news.ycombinator.com/item?id=36084881) - [How much of AI&#x27;s recent success is due to the Forer Effect?](https://shkspr.mobi/blog/2023/02/how-much-of-ais-recent-success-is-due-to-the-forer-effect/)
+* [2023-05-26, 14:30:24](https://news.ycombinator.com/item?id=36084650) - [Returning orca Lolita to Northwest is risky](https://abcnews.go.com/Entertainment/wireStory/bringing-lolita-home-release-long-captive-orca-98347694)
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
 * [2023-05-26, 14:18:40](https://news.ycombinator.com/item?id=36084497) - [DeSantis Signs Bill Shielding Musk’s SpaceX From ‘Spaceflight Entity Liability’](https://www.rollingstone.com/politics/politics-news/ron-desantis-signs-bill-elon-musk-spacex-spaceflight-liability-1234742632/)
 * [2023-05-26, 14:17:23](https://news.ycombinator.com/item?id=36084483) - [How the Lemon Was Invented](https://www.trueorbetter.com/2018/05/how-lemon-was-invented.html)
