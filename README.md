@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-27, 08:48:03](https://news.ycombinator.com/item?id=36093089) - [I Won $5M from the MyPillow Guy and Saved Democracy](https://www.politico.com/news/magazine/2023/05/26/my-pillow-mike-lindell-investigation-00097903)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
@@ -15,6 +14,7 @@
 * [2023-05-26, 20:19:20](https://news.ycombinator.com/item?id=36089055) - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
+* [2023-05-26, 19:06:59](https://news.ycombinator.com/item?id=36088359) - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
 * [2023-05-26, 18:47:34](https://news.ycombinator.com/item?id=36088135) - [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
