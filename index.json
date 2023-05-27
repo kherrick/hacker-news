@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-27, 18:04:56",
+      "https://news.ycombinator.com/item?id=36096811"
+    ],
+    [
+      "All the Hard Stuff Nobody Talks About When Building Products with LLMs",
+      "https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 17:46:18",
       "https://news.ycombinator.com/item?id=36096652"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-05-27, 11:17:30",
-      "https://news.ycombinator.com/item?id=36093771"
-    ],
-    [
-      "Direct air capture: our technology to capture CO₂",
-      "https://climeworks.com/direct-air-capture"
-    ]
-  ],
-  [
-    [
       "2023-05-27, 07:50:27",
       "https://news.ycombinator.com/item?id=36092852"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-05-26, 08:41:41",
-      "https://news.ycombinator.com/item?id=36081615"
-    ],
-    [
-      "Din 1450, recommended for barrier-free reading",
-      "https://www.linotype.com/6990/din-1450.html"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 07:28:28",
       "https://news.ycombinator.com/item?id=36081140"
     ],
@@ -227,6 +217,16 @@
     [
       "TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript",
       "https://github.com/tpope/timl"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 05:17:33",
+      "https://news.ycombinator.com/item?id=36080263"
+    ],
+    [
+      "Wardley Maps–illustrated through Gerstner",
+      "https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/"
     ]
   ],
   [
