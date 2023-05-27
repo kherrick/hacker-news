@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 17:25:04](https://news.ycombinator.com/item?id=36096468) - [Tesla instructed employees to only communicate verbally about complaints so](https://www.businessinsider.com/tesla-told-employees-not-to-put-complaints-in-writing-whistleblower-2023-5)
+* [2023-05-27, 17:05:04](https://news.ycombinator.com/item?id=36096305) - [Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 * [2023-05-27, 15:54:50](https://news.ycombinator.com/item?id=36095736) - [High-tech farm startups are laid low by financing drought, pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
 * [2023-05-27, 15:00:57](https://news.ycombinator.com/item?id=36095352) - [A man sued Avianca Airline – his lawyer used ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
 * [2023-05-27, 14:52:33](https://news.ycombinator.com/item?id=36095289) - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
@@ -11,7 +13,6 @@
 * [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
-* [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is an A.I. chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 * [2023-05-27, 04:10:48](https://news.ycombinator.com/item?id=36092007) - [Makefile Tricks for Python Projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
@@ -20,7 +21,6 @@
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-* [2023-05-26, 08:41:41](https://news.ycombinator.com/item?id=36081615) - [Din 1450, recommended for barrier-free reading](https://www.linotype.com/6990/din-1450.html)
 * [2023-05-26, 07:28:28](https://news.ycombinator.com/item?id=36081140) - [A Personal View of Average-Case Complexity  (1995) [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
 * [2023-05-26, 04:29:06](https://news.ycombinator.com/item?id=36079932) - [Children&#x27;s Games (Bruegel)](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel))
