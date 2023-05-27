@@ -5,7 +5,7 @@
 * [2023-05-27, 12:58:12](https://news.ycombinator.com/item?id=36094435) - [Why people reward innate talent over hard work](https://www.bbc.com/worklife/article/20230517-why-people-reward-innate-talent-over-hard-work)
 * [2023-05-27, 12:41:20](https://news.ycombinator.com/item?id=36094282) - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
 * [2023-05-27, 12:19:24](https://news.ycombinator.com/item?id=36094122) - [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)
-* [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar Tissues Make Relationships Wear Out – John Ousterhout](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
+* [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar Tissues Make Relationships Wear Out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
 * [2023-05-27, 11:15:15](https://news.ycombinator.com/item?id=36093764) - [US jury says Google owes Sonos $32.5M in smart-speaker patent case](https://www.reuters.com/legal/us-jury-says-google-owes-sonos-325-million-smart-speaker-patent-case-2023-05-26/)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
