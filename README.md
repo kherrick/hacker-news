@@ -2,6 +2,8 @@
 
 * [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
+* [2023-05-27, 19:06:05](https://news.ycombinator.com/item?id=36097300) - [Show HN: RASCII, an advanced ASCII art generator made using Rust](https://github.com/KoBruhh/RASCII)
+* [2023-05-27, 19:05:02](https://news.ycombinator.com/item?id=36097291) - [The First Social-Media Babies Are Growing Up–and They’re Horrified](https://www.theatlantic.com/technology/archive/2023/05/parents-posting-kids-online-tiktok-social-media/674137/)
 * [2023-05-27, 19:00:09](https://news.ycombinator.com/item?id=36097258) - [WebXR](https://immersiveweb.dev/)
 * [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
 * [2023-05-27, 18:48:40](https://news.ycombinator.com/item?id=36097173) - [Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
@@ -21,14 +23,12 @@
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is This Octopus Having a Nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
-* [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 07:28:28](https://news.ycombinator.com/item?id=36081140) - [A Personal View of Average-Case Complexity  (1995) [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
 * [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
 * [2023-05-26, 04:29:06](https://news.ycombinator.com/item?id=36079932) - [Children&#x27;s Games (Bruegel)](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel))
 * [2023-05-26, 03:17:34](https://news.ycombinator.com/item?id=36079380) - [Is history written by the winners?](https://www.historytoday.com/archive/head-head/history-written-winners)
 * [2023-05-25, 21:57:42](https://news.ycombinator.com/item?id=36076813) - [Curing brain tumors: blocking functions in cells with a docked molecule](https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html)
-* [2023-05-24, 11:17:31](https://news.ycombinator.com/item?id=36056419) - [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
 * [2023-05-24, 05:28:24](https://news.ycombinator.com/item?id=36054415) - [New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 
 ## [Archives](archives/index.md)
