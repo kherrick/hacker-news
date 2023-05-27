@@ -2,7 +2,7 @@
 
 * [2023-05-27, 05:06:22](https://news.ycombinator.com/item?id=36092224) - [Wine 8.9](https://www.winehq.org/announce/8.9)
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
-* [2023-05-27, 04:50:46](https://news.ycombinator.com/item?id=36092156) - [What are some of the best written papers in AI,ML,DL and its applications?](https://news.ycombinator.com/item?id=36092156)
+* [2023-05-27, 04:50:46](https://news.ycombinator.com/item?id=36092156) - [Ask HN: What are some of the best papers on AI, ML, DL and their applications?](https://news.ycombinator.com/item?id=36092156)
 * [2023-05-27, 01:58:56](https://news.ycombinator.com/item?id=36091388) - [ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 * [2023-05-27, 01:10:46](https://news.ycombinator.com/item?id=36091166) - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
 * [2023-05-26, 23:47:19](https://news.ycombinator.com/item?id=36090755) - [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
