@@ -24,11 +24,11 @@
 * [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
+* [2023-05-27, 05:27:53](https://news.ycombinator.com/item?id=36092303) - [19th century painters may have primed their canvases with beer-brewing leftovers](https://www.sciencenews.org/article/painting-beer-brew-yeast-art-canvas-denmark)
 * [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is This Octopus Having a Nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
 * [2023-05-26, 08:17:39](https://news.ycombinator.com/item?id=36081463) - [Renate Loll Blends Universes to Unlock Quantum Gravity](https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/)
 * [2023-05-26, 07:28:28](https://news.ycombinator.com/item?id=36081140) - [A Personal View of Average-Case Complexity  (1995) [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
-* [2023-05-26, 04:29:06](https://news.ycombinator.com/item?id=36079932) - [Children&#x27;s Games (Bruegel)](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel))
 * [2023-05-25, 21:57:42](https://news.ycombinator.com/item?id=36076813) - [Curing brain tumors: blocking functions in cells with a docked molecule](https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html)
 
 ## [Archives](archives/index.md)

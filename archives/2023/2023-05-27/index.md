@@ -52,6 +52,7 @@
 * [2023-05-27, 07:15:45](https://news.ycombinator.com/item?id=36092704) - [I made nodb, a RESTFful API to store and fetch JSON](https://nodb.sh)
 * [2023-05-27, 06:57:01](https://news.ycombinator.com/item?id=36092638) - [Experiences Won’t Make You Happier Than Possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
 * [2023-05-27, 06:23:53](https://news.ycombinator.com/item?id=36092509) - [ChatGPT-Authored Legal Filing “Replete with Citations to Non-Existent Cases&quot;](https://reason.com/volokh/2023/05/27/a-lawyers-filing-is-replete-with-citations-to-non-existent-cases-thanks-chatgpt/)
+* [2023-05-27, 05:27:53](https://news.ycombinator.com/item?id=36092303) - [19th century painters may have primed their canvases with beer-brewing leftovers](https://www.sciencenews.org/article/painting-beer-brew-yeast-art-canvas-denmark)
 * [2023-05-27, 05:06:22](https://news.ycombinator.com/item?id=36092224) - [Wine 8.9](https://www.winehq.org/announce/8.9)
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s Enthusiast Community Bring IRIX Back to Life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 * [2023-05-27, 04:50:46](https://news.ycombinator.com/item?id=36092156) - [What are some of the best written papers in AI,ML,DL and its applications?](https://news.ycombinator.com/item?id=36092156)
