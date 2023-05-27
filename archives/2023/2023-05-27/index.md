@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 14:28:51](https://news.ycombinator.com/item?id=36095100) - [AI Is Unlocking the Human Brain’s Secrets](https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neuroscience/674216/)
 * [2023-05-27, 13:41:35](https://news.ycombinator.com/item?id=36094760) - [Hot Pixel&#x27; Attack Steals Data from Apple, Intel, Nvidia, and AMD Chips](https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info)
 * [2023-05-27, 13:10:14](https://news.ycombinator.com/item?id=36094515) - [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
 * [2023-05-27, 12:58:12](https://news.ycombinator.com/item?id=36094435) - [Why people reward innate talent over hard work](https://www.bbc.com/worklife/article/20230517-why-people-reward-innate-talent-over-hard-work)
@@ -27,6 +28,7 @@
 * [2023-05-27, 05:06:22](https://news.ycombinator.com/item?id=36092224) - [Wine 8.9](https://www.winehq.org/announce/8.9)
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s Enthusiast Community Bring IRIX Back to Life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 * [2023-05-27, 04:50:46](https://news.ycombinator.com/item?id=36092156) - [What are some of the best written papers in AI,ML,DL and its applications?](https://news.ycombinator.com/item?id=36092156)
+* [2023-05-27, 04:10:48](https://news.ycombinator.com/item?id=36092007) - [Makefile Tricks for Python Projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 * [2023-05-27, 03:05:19](https://news.ycombinator.com/item?id=36091710) - [KryptEY – Android keyboard for E2EE comms via Signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 * [2023-05-27, 01:58:56](https://news.ycombinator.com/item?id=36091388) - [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 * [2023-05-27, 01:46:15](https://news.ycombinator.com/item?id=36091326) - [San Francisco’s Financial Crisis](https://californiapolicycenter.org/san-franciscos-financial-crisis/)
