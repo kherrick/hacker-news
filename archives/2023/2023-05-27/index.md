@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 13:10:14](https://news.ycombinator.com/item?id=36094515) - [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
 * [2023-05-27, 12:58:12](https://news.ycombinator.com/item?id=36094435) - [Why people reward innate talent over hard work](https://www.bbc.com/worklife/article/20230517-why-people-reward-innate-talent-over-hard-work)
 * [2023-05-27, 12:41:20](https://news.ycombinator.com/item?id=36094282) - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
 * [2023-05-27, 12:19:24](https://news.ycombinator.com/item?id=36094122) - [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)

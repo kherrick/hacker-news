@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 13:10:14](https://news.ycombinator.com/item?id=36094515) - [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
 * [2023-05-27, 12:58:12](https://news.ycombinator.com/item?id=36094435) - [Why people reward innate talent over hard work](https://www.bbc.com/worklife/article/20230517-why-people-reward-innate-talent-over-hard-work)
 * [2023-05-27, 12:41:20](https://news.ycombinator.com/item?id=36094282) - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
 * [2023-05-27, 12:19:24](https://news.ycombinator.com/item?id=36094122) - [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)
@@ -19,7 +20,6 @@
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-* [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
 * [2023-05-26, 08:41:41](https://news.ycombinator.com/item?id=36081615) - [Din 1450, recommended for barrier-free reading](https://www.linotype.com/6990/din-1450.html)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
 * [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML (2011) [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
