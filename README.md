@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
 * [2023-05-27, 19:00:09](https://news.ycombinator.com/item?id=36097258) - [WebXR](https://immersiveweb.dev/)
 * [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
@@ -19,7 +20,6 @@
 * [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
-* [2023-05-27, 04:10:48](https://news.ycombinator.com/item?id=36092007) - [Makefile Tricks for Python Projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 * [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is This Octopus Having a Nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 07:28:28](https://news.ycombinator.com/item?id=36081140) - [A Personal View of Average-Case Complexity  (1995) [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
 * [2023-05-27, 19:00:09](https://news.ycombinator.com/item?id=36097258) - [WebXR](https://immersiveweb.dev/)
 * [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
