@@ -8,7 +8,6 @@
 * [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s enthusiast community bring IRIX back to life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 * [2023-05-27, 03:05:19](https://news.ycombinator.com/item?id=36091710) - [KryptEY – Android keyboard for E2EE comms via Signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 * [2023-05-27, 01:58:56](https://news.ycombinator.com/item?id=36091388) - [ChatGPT conversations can be shared publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
-* [2023-05-27, 01:10:46](https://news.ycombinator.com/item?id=36091166) - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
 * [2023-05-26, 23:47:19](https://news.ycombinator.com/item?id=36090755) - [Dolphin on Steam Indefinitely Postponed](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
 * [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
 * [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [418 I&#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
@@ -30,6 +29,7 @@
 * [2023-05-25, 19:02:45](https://news.ycombinator.com/item?id=36074664) - [The Birth of the Self](https://hudsonreview.com/?p=21100#.ZG551nbMKUk)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
 * [2023-05-24, 11:17:31](https://news.ycombinator.com/item?id=36056419) - [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
+* [2023-05-24, 05:28:24](https://news.ycombinator.com/item?id=36054415) - [New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 
 ## [Archives](archives/index.md)
 

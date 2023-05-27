@@ -103,6 +103,7 @@
 * [2023-05-24, 05:46:10](https://news.ycombinator.com/item?id=36054521) - [SQLite builds for WASI since 3.41.0](https://wasmlabs.dev/articles/sqlite-wasi-support/)
 * [2023-05-24, 05:30:05](https://news.ycombinator.com/item?id=36054430) - [Nirvana Fallacy](https://en.wikipedia.org/wiki/Nirvana_fallacy)
 * [2023-05-24, 05:28:25](https://news.ycombinator.com/item?id=36054416) - [Let&#x27;s Build a Compiler (1988)](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)
+* [2023-05-24, 05:28:24](https://news.ycombinator.com/item?id=36054415) - [New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 * [2023-05-24, 05:04:45](https://news.ycombinator.com/item?id=36054269) - [Dear Ubuntu](https://hackaday.com/2023/05/22/dear-ubuntu/)
 * [2023-05-24, 04:46:05](https://news.ycombinator.com/item?id=36054182) - [A Novel the CIA Spent a Fortune to Suppress](https://www.publicbooks.org/a-novel-the-cia-spent-a-fortune-to-suppress/)
 * [2023-05-24, 03:29:51](https://news.ycombinator.com/item?id=36053736) - [SCOTUS Declines to Hear Challenge to Warrantless Pole Camera Surveillance](https://www.aclu.org/press-releases/u-s-supreme-court-declines-to-hear-challenge-to-warrantless-pole-camera-surveillance)
