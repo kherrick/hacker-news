@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-27, 20:19:41](https://news.ycombinator.com/item?id=36097900) - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
-* [2023-05-27, 20:01:04](https://news.ycombinator.com/item?id=36097710) - [IBM CEO expects AI to replace back office workers (such as human resources)](https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/)
+* [2023-05-27, 20:08:43](https://news.ycombinator.com/item?id=36097777) - [TV doctors say annual checkups save lives. Real doctors call bullshit](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
+* [2023-05-27, 19:50:58](https://news.ycombinator.com/item?id=36097635) - [Why Timothy Cain creator of Fallout left Fallout 2 during development](https://www.youtube.com/watch?v=UGfaCXEu0tE)
 * [2023-05-27, 19:12:07](https://news.ycombinator.com/item?id=36097344) - [Translating&#x2F;bridging across multiple protocols and identities (via federation)](https://snarfed.org/2023-05-26_50328)
 * [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
-* [2023-05-27, 19:05:02](https://news.ycombinator.com/item?id=36097291) - [The First Social-Media Babies Are Growing Up–and They’re Horrified](https://www.theatlantic.com/technology/archive/2023/05/parents-posting-kids-online-tiktok-social-media/674137/)
 * [2023-05-27, 19:00:09](https://news.ycombinator.com/item?id=36097258) - [WebXR](https://immersiveweb.dev/)
 * [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
 * [2023-05-27, 18:48:40](https://news.ycombinator.com/item?id=36097173) - [Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
