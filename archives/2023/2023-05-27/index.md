@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 22:20:53](https://news.ycombinator.com/item?id=36098970) - [Google account deleted after 2 hours of Aurora](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
+* [2023-05-27, 21:30:31](https://news.ycombinator.com/item?id=36098532) - [Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches](https://www.bbc.com/news/business-65717731)
 * [2023-05-27, 21:13:35](https://news.ycombinator.com/item?id=36098382) - [1 in 10 developers leaked an API-key in 2022](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
 * [2023-05-27, 20:19:41](https://news.ycombinator.com/item?id=36097900) - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 * [2023-05-27, 20:08:43](https://news.ycombinator.com/item?id=36097777) - [TV doctors say annual checkups save lives. Real doctors call bullshit](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
