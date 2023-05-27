@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
 * [2023-05-27, 12:41:20](https://news.ycombinator.com/item?id=36094282) - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
+* [2023-05-27, 12:19:24](https://news.ycombinator.com/item?id=36094122) - [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)
 * [2023-05-27, 12:01:05](https://news.ycombinator.com/item?id=36093995) - [Downtown San Francisco is at a tipping-point](https://www.economist.com/united-states/2023/05/25/downtown-san-francisco-is-at-a-tipping-point)
 * [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
+* [2023-05-27, 11:15:15](https://news.ycombinator.com/item?id=36093764) - [US jury says Google owes Sonos $32.5M in smart-speaker patent case](https://www.reuters.com/legal/us-jury-says-google-owes-sonos-325-million-smart-speaker-patent-case-2023-05-26/)
 * [2023-05-27, 11:14:07](https://news.ycombinator.com/item?id=36093756) - [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 * [2023-05-27, 08:48:03](https://news.ycombinator.com/item?id=36093089) - [I Won $5M from the MyPillow Guy and Saved Democracy](https://www.politico.com/news/magazine/2023/05/26/my-pillow-mike-lindell-investigation-00097903)

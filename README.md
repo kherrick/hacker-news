@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-27, 12:41:20](https://news.ycombinator.com/item?id=36094282) - [Since when did my SSD need water cooling?](https://www.theregister.com/2023/05/27/liquid_cooled_ssd/)
-* [2023-05-27, 12:01:05](https://news.ycombinator.com/item?id=36093995) - [Downtown San Francisco is at a tipping-point](https://www.economist.com/united-states/2023/05/25/downtown-san-francisco-is-at-a-tipping-point)
+* [2023-05-27, 12:19:24](https://news.ycombinator.com/item?id=36094122) - [Ask HN: Cause of UK e-gates outage?](https://news.ycombinator.com/item?id=36094122)
 * [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
+* [2023-05-27, 11:15:15](https://news.ycombinator.com/item?id=36093764) - [US jury says Google owes Sonos $32.5M in smart-speaker patent case](https://www.reuters.com/legal/us-jury-says-google-owes-sonos-325-million-smart-speaker-patent-case-2023-05-26/)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
@@ -18,8 +19,6 @@
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 18:47:34](https://news.ycombinator.com/item?id=36088135) - [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
-* [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
-* [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
 * [2023-05-26, 08:41:41](https://news.ycombinator.com/item?id=36081615) - [Din 1450, recommended for barrier-free reading](https://www.linotype.com/6990/din-1450.html)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
 * [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML (2011) [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
@@ -28,6 +27,7 @@
 * [2023-05-25, 21:57:42](https://news.ycombinator.com/item?id=36076813) - [Curing brain tumors: blocking functions in cells with a docked molecule](https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html)
 * [2023-05-25, 19:02:45](https://news.ycombinator.com/item?id=36074664) - [The Birth of the Self](https://hudsonreview.com/?p=21100#.ZG551nbMKUk)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
+* [2023-05-25, 15:07:22](https://news.ycombinator.com/item?id=36071674) - [C++: The Obvious Final Step](https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/)
 * [2023-05-24, 11:17:31](https://news.ycombinator.com/item?id=36056419) - [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
 * [2023-05-24, 05:28:24](https://news.ycombinator.com/item?id=36054415) - [New Xen updates on RISC-V](https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/)
 

@@ -51,6 +51,7 @@
 * [2023-05-25, 15:23:56](https://news.ycombinator.com/item?id=36071932) - [Attacked from Within (2009)](https://web.archive.org/web/20091126092028/http://www.kuro5hin.org/story/2009/3/12/33338/3000)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [Superbug killing antibiotics with the help of AI](https://www.bbc.co.uk/news/health-65709834)
 * [2023-05-25, 15:07:27](https://news.ycombinator.com/item?id=36071675) - [New superbug-killing antibiotic discovered using AI](https://www.bbc.com/news/health-65709834)
+* [2023-05-25, 15:07:22](https://news.ycombinator.com/item?id=36071674) - [C++: The Obvious Final Step](https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/)
 * [2023-05-25, 14:47:03](https://news.ycombinator.com/item?id=36071397) - [You Don&#x27;t Always Need Indexes](https://www.jefftk.com/p/you-dont-always-need-indexes)
 * [2023-05-25, 14:42:36](https://news.ycombinator.com/item?id=36071342) - [Lessons from Creating a VSCode Extension with GPT-4](https://bit.kevinslin.com/p/leveraging-gpt-4-to-automate-the)
 * [2023-05-25, 14:29:20](https://news.ycombinator.com/item?id=36071183) - [Show HN: HN Follow – Follow Your Friends on HN](https://www.val.town/v/rodrigotello.hnFollow)
