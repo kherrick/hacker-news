@@ -12,7 +12,6 @@
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 19:06:59](https://news.ycombinator.com/item?id=36088359) - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
 * [2023-05-26, 18:47:34](https://news.ycombinator.com/item?id=36088135) - [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)
-* [2023-05-26, 18:17:53](https://news.ycombinator.com/item?id=36087804) - [Ispace Announces Results of the “Hakuto-R” Mission 1 Lunar Landing](https://ispace-inc.com/news-en/?p=4691)
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
@@ -28,6 +27,7 @@
 * [2023-05-26, 05:19:11](https://news.ycombinator.com/item?id=36080275) - [On the Reign of Cleopatra](https://acoup.blog/2023/05/26/collections-on-the-reign-of-cleopatra/)
 * [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 * [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)
+* [2023-05-25, 19:02:45](https://news.ycombinator.com/item?id=36074664) - [The Birth of the Self](https://hudsonreview.com/?p=21100#.ZG551nbMKUk)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
 * [2023-05-25, 05:54:30](https://news.ycombinator.com/item?id=36067464) - [How Life (and Death) Spring from Disorder (2017)](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
 
