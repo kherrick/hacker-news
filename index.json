@@ -61,6 +61,26 @@
   ],
   [
     [
+      "2023-05-27, 01:58:56",
+      "https://news.ycombinator.com/item?id=36091388"
+    ],
+    [
+      "ChatGPT conversations can be shared publicly",
+      "https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 01:10:46",
+      "https://news.ycombinator.com/item?id=36091166"
+    ],
+    [
+      "Large Language Models Are Few-Shot Health Learners",
+      "https://arxiv.org/abs/2305.15525"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 23:47:19",
       "https://news.ycombinator.com/item?id=36090755"
     ],
@@ -91,6 +111,16 @@
   ],
   [
     [
+      "2023-05-26, 20:48:45",
+      "https://news.ycombinator.com/item?id=36089333"
+    ],
+    [
+      "Fontemon: Video Game in a Font",
+      "https://www.coderelay.io/fontemon.html"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 20:19:20",
       "https://news.ycombinator.com/item?id=36089055"
     ],
@@ -117,6 +147,16 @@
     [
       "0AD, an open source historical RTS in development for 22 years",
       "https://play0ad.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 19:06:59",
+      "https://news.ycombinator.com/item?id=36088359"
+    ],
+    [
+      "Show HN: I made an in-browser code editor with code replay and REPL",
+      "https://logicboard.com/demo"
     ]
   ],
   [
@@ -171,52 +211,12 @@
   ],
   [
     [
-      "2023-05-26, 17:14:19",
-      "https://news.ycombinator.com/item?id=36086984"
-    ],
-    [
-      "Making $10k&#x2F;m from a French learning app",
-      "https://www.highsignal.io/companies/making-10k-m-french-learning-app/"
-    ]
-  ],
-  [
-    [
       "2023-05-26, 17:04:52",
       "https://news.ycombinator.com/item?id=36086858"
     ],
     [
       "GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure",
       "https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 16:42:58",
-      "https://news.ycombinator.com/item?id=36086537"
-    ],
-    [
-      "Phishing domains tanked after Meta sued Freenom",
-      "https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 16:15:58",
-      "https://news.ycombinator.com/item?id=36086099"
-    ],
-    [
-      "Gravitational-wave detector LIGO is back",
-      "https://www.nature.com/articles/d41586-023-01732-4"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 15:34:59",
-      "https://news.ycombinator.com/item?id=36085538"
-    ],
-    [
-      "Tree of Thoughts",
-      "https://github.com/kyegomez/tree-of-thoughts"
     ]
   ],
   [
