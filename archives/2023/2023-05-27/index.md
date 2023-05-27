@@ -38,6 +38,7 @@
 * [2023-05-27, 04:10:48](https://news.ycombinator.com/item?id=36092007) - [Makefile Tricks for Python Projects](https://ricardoanderegg.com/posts/makefile-python-project-tricks/)
 * [2023-05-27, 03:05:19](https://news.ycombinator.com/item?id=36091710) - [KryptEY – Android keyboard for E2EE comms via Signal protocol in any messenger](https://github.com/amnesica/KryptEY)
 * [2023-05-27, 01:58:56](https://news.ycombinator.com/item?id=36091388) - [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
+* [2023-05-27, 01:51:17](https://news.ycombinator.com/item?id=36091356) - [First well-designed “Smart Gun” that uses biometrics to authenticate](https://www.youtube.com/watch?v=2cRm9BMxl90)
 * [2023-05-27, 01:46:15](https://news.ycombinator.com/item?id=36091326) - [San Francisco’s Financial Crisis](https://californiapolicycenter.org/san-franciscos-financial-crisis/)
 * [2023-05-27, 01:26:11](https://news.ycombinator.com/item?id=36091242) - [I Am No Longer Speaking at RustConf 2023](https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023)
 * [2023-05-27, 01:10:46](https://news.ycombinator.com/item?id=36091166) - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
