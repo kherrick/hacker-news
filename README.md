@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 04:51:12](https://news.ycombinator.com/item?id=36092159) - [Can SGI’s Enthusiast Community Bring IRIX Back to Life?](https://tedium.co/2023/05/27/sgi-irix-revival-efforts/)
 * [2023-05-27, 01:58:56](https://news.ycombinator.com/item?id=36091388) - [You can now share your ChatGPT conversations publicly](https://chat.openai.com/share/66169853-d00a-4b05-abce-8f82c6d8c868)
 * [2023-05-27, 01:10:46](https://news.ycombinator.com/item?id=36091166) - [Large Language Models Are Few-Shot Health Learners](https://arxiv.org/abs/2305.15525)
 * [2023-05-26, 23:47:19](https://news.ycombinator.com/item?id=36090755) - [Dolphin on Steam Indefinitely Postponed Due to Nintendo DMCA](https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/)
@@ -29,7 +30,6 @@
 * [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)
 * [2023-05-25, 19:02:45](https://news.ycombinator.com/item?id=36074664) - [The Birth of the Self](https://hudsonreview.com/?p=21100#.ZG551nbMKUk)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
-* [2023-05-25, 05:54:30](https://news.ycombinator.com/item?id=36067464) - [How Life (and Death) Spring from Disorder (2017)](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
 
 ## [Archives](archives/index.md)
 
