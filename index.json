@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-27, 20:01:04",
+      "https://news.ycombinator.com/item?id=36097710"
+    ],
+    [
+      "IBM CEO expects AI to replace back office workers (such as human resources)",
+      "https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 19:09:06",
       "https://news.ycombinator.com/item?id=36097321"
     ],
@@ -17,16 +27,6 @@
     [
       "Notes on Stanford Linear Accelerator Center",
       "https://charlieharrington.com/notes-on-slac/"
-    ]
-  ],
-  [
-    [
-      "2023-05-27, 19:06:05",
-      "https://news.ycombinator.com/item?id=36097300"
-    ],
-    [
-      "Show HN: RASCII, an advanced ASCII art generator made using Rust",
-      "https://github.com/KoBruhh/RASCII"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Reflections on Ten Years Past the Snowden Revelations",
       "https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 18:23:43",
+      "https://news.ycombinator.com/item?id=36096966"
+    ],
+    [
+      "Java Panama Vector API Integrated with Apache Lucene",
+      "https://github.com/apache/lucene/pull/12311"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Curing brain tumors: blocking functions in cells with a docked molecule",
       "https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-24, 05:28:24",
-      "https://news.ycombinator.com/item?id=36054415"
-    ],
-    [
-      "New Xen updates on RISC-V",
-      "https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/"
     ]
   ]
 ]
