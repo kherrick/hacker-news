@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36095736"
     ],
     [
-      "High-Tech Farm Startups Are Laid Low by Financing Drought, Pests",
+      "High-tech farm startups are laid low by financing drought, pests",
       "https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a"
     ]
   ],
@@ -15,8 +15,18 @@
       "https://news.ycombinator.com/item?id=36095352"
     ],
     [
-      "Here&#x27;s What Happens When Your Lawyer Uses ChatGPT",
+      "A man sued Avianca Airline – his lawyer used ChatGPT",
       "https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 14:52:33",
+      "https://news.ycombinator.com/item?id=36095289"
+    ],
+    [
+      "Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth",
+      "https://news.ycombinator.com/item?id=36095289"
     ]
   ],
   [
@@ -31,11 +41,21 @@
   ],
   [
     [
+      "2023-05-27, 14:17:35",
+      "https://news.ycombinator.com/item?id=36095010"
+    ],
+    [
+      "Inside a super fast CSS engine: Quantum CSS (a.k.a. Stylo)",
+      "https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 13:46:44",
       "https://news.ycombinator.com/item?id=36094799"
     ],
     [
-      "Jane Street Tech Blog – Oxidizing OCaml: Locality",
+      "Oxidizing OCaml: Locality",
       "https://blog.janestreet.com/oxidizing-ocaml-locality/"
     ]
   ],
@@ -61,11 +81,21 @@
   ],
   [
     [
+      "2023-05-27, 12:41:20",
+      "https://news.ycombinator.com/item?id=36094282"
+    ],
+    [
+      "Since when did SSDs need water cooling?",
+      "https://www.theregister.com/2023/05/27/liquid_cooled_ssd/"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 11:54:48",
       "https://news.ycombinator.com/item?id=36093954"
     ],
     [
-      "Scar Tissues Make Relationships Wear Out (2013)",
+      "Scar tissues make relationships wear out (2013)",
       "https://gist.github.com/gtallen1187/27a585fcf36d6e657db2"
     ]
   ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-05-27, 07:15:45",
-      "https://news.ycombinator.com/item?id=36092704"
-    ],
-    [
-      "I made nodb, a RESTFful API to store and fetch JSON",
-      "https://nodb.sh"
-    ]
-  ],
-  [
-    [
       "2023-05-27, 04:51:12",
       "https://news.ycombinator.com/item?id=36092159"
     ],
@@ -147,16 +167,6 @@
     [
       "KryptEY – Android keyboard for E2EE comms via Signal protocol in any messenger",
       "https://github.com/amnesica/KryptEY"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 23:47:19",
-      "https://news.ycombinator.com/item?id=36090755"
-    ],
-    [
-      "Dolphin on Steam Indefinitely Postponed",
-      "https://dolphin-emu.org/blog/2023/05/27/dolphin-steam-indefinitely-postponed/"
     ]
   ],
   [
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=36081140"
     ],
     [
-      "Impagliazzo&#x27;s Five Worlds [pdf]",
+      "A Personal View of Average-Case Complexity  (1995) [pdf]",
       "https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf"
     ]
   ],
@@ -235,18 +245,8 @@
       "https://news.ycombinator.com/item?id=36079380"
     ],
     [
-      "Is History Written by the Winners?",
+      "Is history written by the winners?",
       "https://www.historytoday.com/archive/head-head/history-written-winners"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 00:11:27",
-      "https://news.ycombinator.com/item?id=36078136"
-    ],
-    [
-      "Flowers for Turing",
-      "https://equalitytime.github.io/FlowersForTuring/"
     ]
   ],
   [
