@@ -80,6 +80,7 @@
 * [2023-05-24, 11:37:21](https://news.ycombinator.com/item?id=36056589) - [The First Deep-Sea Dive in History](https://www.smithsonianmag.com/science-nature/inside-the-first-deep-sea-dive-in-history-180982128/)
 * [2023-05-24, 11:24:38](https://news.ycombinator.com/item?id=36056488) - [Math That Goes on Forever but Never Repeats](https://www.quantamagazine.org/math-that-goes-on-forever-but-never-repeats-20230523/)
 * [2023-05-24, 11:23:58](https://news.ycombinator.com/item?id=36056480) - [Niche Museums](https://www.niche-museums.com)
+* [2023-05-24, 11:17:31](https://news.ycombinator.com/item?id=36056419) - [‘The Last of Us,’ fruit fly edition](https://news.harvard.edu/gazette/story/2023/04/how-a-mind-controlling-fungal-parasite-turns-insects-into-zombies/)
 * [2023-05-24, 11:16:00](https://news.ycombinator.com/item?id=36056408) - [Tape Storage Trundles On, Increases Yearly Volume to 128 Exabytes](https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes)
 * [2023-05-24, 11:12:40](https://news.ycombinator.com/item?id=36056376) - [You don&#x27;t need a modal window](https://youdontneedamodalwindow.dev/)
 * [2023-05-24, 11:03:35](https://news.ycombinator.com/item?id=36056320) - [The Strange Story of the Teens Behind the Mirai Botnet](https://spectrum.ieee.org/mirai-botnet)
