@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 18:36:43](https://news.ycombinator.com/item?id=36097082) - [Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
 * [2023-05-27, 18:04:56](https://news.ycombinator.com/item?id=36096811) - [All the Hard Stuff Nobody Talks About When Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-27, 17:46:18](https://news.ycombinator.com/item?id=36096652) - [Watch Tarkovsky&#x27;s Best Films Online for Free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
 * [2023-05-27, 17:25:04](https://news.ycombinator.com/item?id=36096468) - [Tesla instructed employees to only communicate verbally about complaints so](https://www.businessinsider.com/tesla-told-employees-not-to-put-complaints-in-writing-whistleblower-2023-5)
 * [2023-05-27, 17:21:45](https://news.ycombinator.com/item?id=36096445) - [Germany falls into recession as inflation hits economy](https://www.bbc.com/news/business-65707206)
+* [2023-05-27, 17:09:11](https://news.ycombinator.com/item?id=36096343) - [The HTTP QUERY Method specification](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
+* [2023-05-27, 17:09:10](https://news.ycombinator.com/item?id=36096342) - [Senators issued satellite phones, offered demos on upgraded security devices](https://www.cbsnews.com/news/senators-issued-satellite-phones-new-security-measures/)
 * [2023-05-27, 17:05:04](https://news.ycombinator.com/item?id=36096305) - [Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 * [2023-05-27, 15:54:50](https://news.ycombinator.com/item?id=36095736) - [High-Tech Farm Startups Are Laid Low by Financing Drought, Pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
 * [2023-05-27, 15:00:57](https://news.ycombinator.com/item?id=36095352) - [Here&#x27;s What Happens When Your Lawyer Uses ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
