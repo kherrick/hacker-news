@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-05-26, 17:04:52",
+      "https://news.ycombinator.com/item?id=36086858"
+    ],
+    [
+      "GCP CloudSQL Vulnerability Leads to Internal Container Access and Data Exposure",
+      "https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 14:30:24",
       "https://news.ycombinator.com/item?id=36084650"
     ],
@@ -217,16 +227,6 @@
     [
       "TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript",
       "https://github.com/tpope/timl"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 07:10:35",
-      "https://news.ycombinator.com/item?id=36081015"
-    ],
-    [
-      "Tales of the Tongue",
-      "https://www.science.org/content/article/how-tongue-shaped-life-on-earth"
     ]
   ],
   [
