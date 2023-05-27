@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-27, 18:36:43",
+      "https://news.ycombinator.com/item?id=36097082"
+    ],
+    [
+      "Reflections on Ten Years Past the Snowden Revelations",
+      "https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 18:04:56",
       "https://news.ycombinator.com/item?id=36096811"
     ],
@@ -37,6 +47,26 @@
     [
       "Germany falls into recession as inflation hits economy",
       "https://www.bbc.com/news/business-65707206"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 17:09:11",
+      "https://news.ycombinator.com/item?id=36096343"
+    ],
+    [
+      "The HTTP QUERY Method specification",
+      "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 17:09:10",
+      "https://news.ycombinator.com/item?id=36096342"
+    ],
+    [
+      "Senators issued satellite phones, offered demos on upgraded security devices",
+      "https://www.cbsnews.com/news/senators-issued-satellite-phones-new-security-measures/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-05-27, 12:41:20",
-      "https://news.ycombinator.com/item?id=36094282"
-    ],
-    [
-      "Since when did SSDs need water cooling?",
-      "https://www.theregister.com/2023/05/27/liquid_cooled_ssd/"
-    ]
-  ],
-  [
-    [
       "2023-05-27, 11:54:48",
       "https://news.ycombinator.com/item?id=36093954"
     ],
@@ -167,16 +187,6 @@
     [
       "Makefile Tricks for Python Projects",
       "https://ricardoanderegg.com/posts/makefile-python-project-tricks/"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 19:53:17",
-      "https://news.ycombinator.com/item?id=36088783"
-    ],
-    [
-      "Times New Bastard",
-      "https://github.com/weiweihuanghuang/Times-New-Bastard"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "The Birth of the Self",
       "https://hudsonreview.com/?p=21100#.ZG551nbMKUk"
-    ]
-  ],
-  [
-    [
-      "2023-05-25, 15:07:22",
-      "https://news.ycombinator.com/item?id=36071674"
-    ],
-    [
-      "The obvious final step",
-      "https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/"
     ]
   ],
   [
