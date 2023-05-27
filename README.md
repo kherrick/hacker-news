@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
@@ -15,7 +16,6 @@
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 18:47:34](https://news.ycombinator.com/item?id=36088135) - [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)
-* [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
 * [2023-05-26, 17:39:20](https://news.ycombinator.com/item?id=36087330) - [Micromouse: The Fastest Maze-Solving Competition on Earth [video]](https://www.youtube.com/watch?v=ZMQbHMgK2rw)
 * [2023-05-26, 17:33:20](https://news.ycombinator.com/item?id=36087252) - [There oughta be a bullet time video booth](https://there.oughta.be/a/bullet-time-video-booth)
