@@ -79,6 +79,7 @@
 * [2023-05-26, 08:48:20](https://news.ycombinator.com/item?id=36081655) - [Layoffs push down scores on Glassdoor: this is how companies respond](https://newsletter.pragmaticengineer.com/p/layoffs-push-down-scores-on-glassdoor)
 * [2023-05-26, 08:41:41](https://news.ycombinator.com/item?id=36081615) - [Din 1450, recommended for barrier-free reading](https://www.linotype.com/6990/din-1450.html)
 * [2023-05-26, 08:29:57](https://news.ycombinator.com/item?id=36081540) - [Ask HN: What are some good resources for learning about low level disk&#x2F;file IO?](https://news.ycombinator.com/item?id=36081540)
+* [2023-05-26, 08:17:39](https://news.ycombinator.com/item?id=36081463) - [Renate Loll Blends Universes to Unlock Quantum Gravity](https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/)
 * [2023-05-26, 07:52:45](https://news.ycombinator.com/item?id=36081297) - [PyPI will require 2FA by the end of 2023](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
 * [2023-05-26, 07:43:22](https://news.ycombinator.com/item?id=36081240) - [12 years since Saab’s bankruptcy: Secret NEVS electric cars revealed](https://www.vibilagare.se/english/12-years-saabs-bankruptcy-secret-nevs-electric-cars-revealed)
 * [2023-05-26, 07:28:43](https://news.ycombinator.com/item?id=36081142) - [The History of CMOS](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos)

@@ -24,11 +24,11 @@
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is This Octopus Having a Nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
+* [2023-05-26, 08:17:39](https://news.ycombinator.com/item?id=36081463) - [Renate Loll Blends Universes to Unlock Quantum Gravity](https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/)
 * [2023-05-26, 07:28:28](https://news.ycombinator.com/item?id=36081140) - [A Personal View of Average-Case Complexity  (1995) [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
 * [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
 * [2023-05-26, 04:29:06](https://news.ycombinator.com/item?id=36079932) - [Children&#x27;s Games (Bruegel)](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel))
-* [2023-05-26, 03:17:34](https://news.ycombinator.com/item?id=36079380) - [Is history written by the winners?](https://www.historytoday.com/archive/head-head/history-written-winners)
 * [2023-05-25, 21:57:42](https://news.ycombinator.com/item?id=36076813) - [Curing brain tumors: blocking functions in cells with a docked molecule](https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html)
 
 ## [Archives](archives/index.md)
