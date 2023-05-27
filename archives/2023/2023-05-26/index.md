@@ -82,6 +82,7 @@
 * [2023-05-26, 07:52:45](https://news.ycombinator.com/item?id=36081297) - [PyPI will require 2FA by the end of 2023](https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/)
 * [2023-05-26, 07:43:22](https://news.ycombinator.com/item?id=36081240) - [12 years since Saab’s bankruptcy: Secret NEVS electric cars revealed](https://www.vibilagare.se/english/12-years-saabs-bankruptcy-secret-nevs-electric-cars-revealed)
 * [2023-05-26, 07:28:43](https://news.ycombinator.com/item?id=36081142) - [The History of CMOS](https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos)
+* [2023-05-26, 07:10:35](https://news.ycombinator.com/item?id=36081015) - [Tales of the Tongue](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 * [2023-05-26, 06:52:03](https://news.ycombinator.com/item?id=36080886) - [Research in NLP in the Era of Large Language Models](https://arxiv.org/abs/2305.12544)
 * [2023-05-26, 06:30:43](https://news.ycombinator.com/item?id=36080754) - [HP Plus prevents printer from using non-OEM ink for the life of the printer](https://www.theverge.com/2023/5/25/23736811/hp-plus-printer-ink-drm-firmware-update-cant-cancel)
 * [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record $279M Whistleblower Award Went to a Tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
