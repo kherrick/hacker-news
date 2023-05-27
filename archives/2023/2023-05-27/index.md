@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 15:54:50](https://news.ycombinator.com/item?id=36095736) - [High-Tech Farm Startups Are Laid Low by Financing Drought, Pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
+* [2023-05-27, 15:00:57](https://news.ycombinator.com/item?id=36095352) - [Here&#x27;s What Happens When Your Lawyer Uses ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
 * [2023-05-27, 14:52:33](https://news.ycombinator.com/item?id=36095289) - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
 * [2023-05-27, 14:28:51](https://news.ycombinator.com/item?id=36095100) - [AI Is Unlocking the Human Brain’s Secrets](https://www.theatlantic.com/technology/archive/2023/05/llm-ai-chatgpt-neuroscience/674216/)
 * [2023-05-27, 14:20:29](https://news.ycombinator.com/item?id=36095032) - [Defining a new HTTP method: HTTP Search (2021)](https://httptoolkit.com/blog/http-search-method/)
+* [2023-05-27, 13:46:44](https://news.ycombinator.com/item?id=36094799) - [Jane Street Tech Blog – Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 * [2023-05-27, 13:41:35](https://news.ycombinator.com/item?id=36094760) - [Hot Pixel&#x27; Attack Steals Data from Apple, Intel, Nvidia, and AMD Chips](https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info)
 * [2023-05-27, 13:24:57](https://news.ycombinator.com/item?id=36094633) - [State Farm halts new property insurance policies in California](https://www.ocregister.com/2023/05/26/state-farm-says-no-new-property-insurance-clients-in-california/)
 * [2023-05-27, 13:10:14](https://news.ycombinator.com/item?id=36094515) - [Meteorologists face unprecedented harassment from conspiracy theorists](https://www.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html)
