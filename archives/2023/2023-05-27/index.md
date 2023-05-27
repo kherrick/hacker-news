@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
 * [2023-05-27, 11:17:30](https://news.ycombinator.com/item?id=36093771) - [Direct air capture: our technology to capture CO₂](https://climeworks.com/direct-air-capture)
+* [2023-05-27, 11:14:07](https://news.ycombinator.com/item?id=36093756) - [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 * [2023-05-27, 08:48:03](https://news.ycombinator.com/item?id=36093089) - [I Won $5M from the MyPillow Guy and Saved Democracy](https://www.politico.com/news/magazine/2023/05/26/my-pillow-mike-lindell-investigation-00097903)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
