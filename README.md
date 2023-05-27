@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-26, 23:38:32](https://news.ycombinator.com/item?id=36090698) - [Women Mapping New York City’s Halal Food](https://www.atlasobscura.com/articles/halal-restaurants-in-new-york)
 * [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
-* [2023-05-26, 23:09:46](https://news.ycombinator.com/item?id=36090512) - [I have resigned from all roles in rustlang, effective immediately](https://twitter.com/jntrnr/status/1662229886386442242)
-* [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [[418] I&#x27;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+* [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [418 I&#x27;m a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 * [2023-05-26, 20:48:45](https://news.ycombinator.com/item?id=36089333) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
+* [2023-05-26, 20:22:13](https://news.ycombinator.com/item?id=36089084) - [Cloud, Why So Difficult?](https://www.winglang.io/post/cloud-why-so-difficult)
 * [2023-05-26, 20:19:20](https://news.ycombinator.com/item?id=36089055) - [What Neeva&#x27;s quiet exit tells us about the future of AI startups](https://www.supervised.news/p/what-neevas-quiet-exit-tells-us-about)
 * [2023-05-26, 19:53:17](https://news.ycombinator.com/item?id=36088783) - [Times New Bastard](https://github.com/weiweihuanghuang/Times-New-Bastard)
 * [2023-05-26, 19:45:13](https://news.ycombinator.com/item?id=36088704) - [Show HN: Python Recursion: A Trampoline from the Mutual Head to the...](https://elc.github.io/posts/recursion-python/)
@@ -28,7 +29,6 @@
 * [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)
 * [2023-05-25, 20:16:21](https://news.ycombinator.com/item?id=36075587) - [Observable Plot 0.6.7 released: pointer interaction, tip mark](https://twitter.com/mbostock/status/1661814623962812416)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
-* [2023-05-25, 09:37:40](https://news.ycombinator.com/item?id=36068682) - [Jails on FreeBSD](https://ogris.de/howtos/freebsd-jails.html)
 * [2023-05-25, 05:54:30](https://news.ycombinator.com/item?id=36067464) - [How Life (and Death) Spring from Disorder (2017)](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-26](index.md)
 
+* [2023-05-26, 23:38:32](https://news.ycombinator.com/item?id=36090698) - [Women Mapping New York City’s Halal Food](https://www.atlasobscura.com/articles/halal-restaurants-in-new-york)
 * [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
 * [2023-05-26, 23:09:46](https://news.ycombinator.com/item?id=36090512) - [I have resigned from all roles in rustlang, effective immediately](https://twitter.com/jntrnr/status/1662229886386442242)
 * [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [[418] I&#x27;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
