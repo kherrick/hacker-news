@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 07:48:22](https://news.ycombinator.com/item?id=36092844) - [How well does your country provide for its citizens?](https://www.economist.com/graphic-detail/2023/05/24/how-well-does-your-country-provide-for-its-citizens)
+* [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
 * [2023-05-27, 07:18:04](https://news.ycombinator.com/item?id=36092718) - [Building a Personal VoIP System](https://www.sacredheartsc.com/blog/building-a-personal-voip-system/)
 * [2023-05-27, 06:57:01](https://news.ycombinator.com/item?id=36092638) - [Experiences Won’t Make You Happier Than Possessions](https://every.to/p/buying-experiences-doesn-t-make-you-happier-than-possessions)
 * [2023-05-27, 06:23:53](https://news.ycombinator.com/item?id=36092509) - [ChatGPT-Authored Legal Filing “Replete with Citations to Non-Existent Cases&quot;](https://reason.com/volokh/2023/05/27/a-lawyers-filing-is-replete-with-citations-to-non-existent-cases-thanks-chatgpt/)
