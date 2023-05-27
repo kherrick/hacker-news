@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 20:01:04](https://news.ycombinator.com/item?id=36097710) - [IBM CEO expects AI to replace back office workers (such as human resources)](https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/)
 * [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
 * [2023-05-27, 19:06:05](https://news.ycombinator.com/item?id=36097300) - [Show HN: RASCII, an advanced ASCII art generator made using Rust](https://github.com/KoBruhh/RASCII)
@@ -12,6 +13,7 @@
 * [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
 * [2023-05-27, 18:48:40](https://news.ycombinator.com/item?id=36097173) - [Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
 * [2023-05-27, 18:36:43](https://news.ycombinator.com/item?id=36097082) - [Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
+* [2023-05-27, 18:23:43](https://news.ycombinator.com/item?id=36096966) - [Java Panama Vector API Integrated with Apache Lucene](https://github.com/apache/lucene/pull/12311)
 * [2023-05-27, 18:04:56](https://news.ycombinator.com/item?id=36096811) - [All the Hard Stuff Nobody Talks About When Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-27, 17:46:18](https://news.ycombinator.com/item?id=36096652) - [Watch Tarkovsky&#x27;s Best Films Online for Free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
 * [2023-05-27, 17:34:31](https://news.ycombinator.com/item?id=36096557) - [Europe data salary benchmark 2023](https://medium.com/@mikldd/europe-data-salary-benchmark-2023-b68cea57923d)
