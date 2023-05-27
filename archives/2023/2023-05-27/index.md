@@ -6,6 +6,7 @@
 
 * [2023-05-27, 20:19:41](https://news.ycombinator.com/item?id=36097900) - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 * [2023-05-27, 20:01:04](https://news.ycombinator.com/item?id=36097710) - [IBM CEO expects AI to replace back office workers (such as human resources)](https://fortune.com/2023/05/01/ibm-ceo-ai-artificial-intelligence-back-office-jobs-pause-hiring/)
+* [2023-05-27, 19:12:07](https://news.ycombinator.com/item?id=36097344) - [Translating&#x2F;bridging across multiple protocols and identities (via federation)](https://snarfed.org/2023-05-26_50328)
 * [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
 * [2023-05-27, 19:06:05](https://news.ycombinator.com/item?id=36097300) - [Show HN: RASCII, an advanced ASCII art generator made using Rust](https://github.com/KoBruhh/RASCII)
