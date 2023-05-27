@@ -26,10 +26,10 @@
 * [2023-05-26, 14:18:58](https://news.ycombinator.com/item?id=36084503) - [Show HN: I created a game to memorize the fretboard](https://www.fretboardfly.com)
 * [2023-05-26, 13:11:50](https://news.ycombinator.com/item?id=36083620) - [Evidence that the shingles vaccine prevents a good chunk of dementia cases](https://twitter.com/PGeldsetzer1/status/1661776663074738176)
 * [2023-05-26, 05:36:05](https://news.ycombinator.com/item?id=36080389) - [Carolyn Merchant’s Vision of Nature, 40 Years Later (2021)](https://www.publicbooks.org/science-turned-upside-down-carolyn-merchants-vision-of-nature-40-year-later/)
+* [2023-05-26, 05:19:11](https://news.ycombinator.com/item?id=36080275) - [On the Reign of Cleopatra](https://acoup.blog/2023/05/26/collections-on-the-reign-of-cleopatra/)
 * [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
 * [2023-05-26, 04:40:20](https://news.ycombinator.com/item?id=36080015) - [Admiral Rickover&#x27;s &#x27;Paper Reactor&#x27; Memo (1953)](https://whatisnuclear.com/rickover.html)
 * [2023-05-25, 17:26:01](https://news.ycombinator.com/item?id=36073526) - [SRI’s radioactive contamination treatment is now in its first-in-human trial](https://www.sri.com/story/sris-radioactive-contamination-treatment-is-now-in-its-first-in-human-trial/)
-* [2023-05-25, 05:54:30](https://news.ycombinator.com/item?id=36067464) - [How Life (and Death) Spring from Disorder (2017)](https://www.quantamagazine.org/how-life-and-death-spring-from-disorder-20170126/)
 
 ## [Archives](archives/index.md)
 

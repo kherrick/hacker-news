@@ -85,6 +85,7 @@
 * [2023-05-26, 06:30:43](https://news.ycombinator.com/item?id=36080754) - [HP Plus prevents printer from using non-OEM ink for the life of the printer](https://www.theverge.com/2023/5/25/23736811/hp-plus-printer-ink-drm-firmware-update-cant-cancel)
 * [2023-05-26, 06:22:50](https://news.ycombinator.com/item?id=36080710) - [Record $279M Whistleblower Award Went to a Tipster on Ericsson](https://www.wsj.com/articles/record-279-million-whistleblower-award-went-to-a-tipster-on-ericsson-5af40b98)
 * [2023-05-26, 05:36:05](https://news.ycombinator.com/item?id=36080389) - [Carolyn Merchant’s Vision of Nature, 40 Years Later (2021)](https://www.publicbooks.org/science-turned-upside-down-carolyn-merchants-vision-of-nature-40-year-later/)
+* [2023-05-26, 05:19:11](https://news.ycombinator.com/item?id=36080275) - [On the Reign of Cleopatra](https://acoup.blog/2023/05/26/collections-on-the-reign-of-cleopatra/)
 * [2023-05-26, 05:17:33](https://news.ycombinator.com/item?id=36080263) - [Wardley Maps–illustrated through Gerstner](https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/)
 * [2023-05-26, 05:10:43](https://news.ycombinator.com/item?id=36080209) - [The Sonnet Machine](https://aeon.co/essays/sonnets-are-machines-for-thinking-through-complex-emotions)
 * [2023-05-26, 05:03:02](https://news.ycombinator.com/item?id=36080172) - [Programming in Standard ML [pdf]](http://www.cs.cmu.edu/~rwh/isml/book.pdf)
