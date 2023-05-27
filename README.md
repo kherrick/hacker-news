@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-27, 21:13:35](https://news.ycombinator.com/item?id=36098382) - [1 in 10 developers leaked an API-key in 2022](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
 * [2023-05-27, 20:19:41](https://news.ycombinator.com/item?id=36097900) - [Lawyer cites fake cases invented by ChatGPT, judge is not amused](https://simonwillison.net/2023/May/27/lawyer-chatgpt/)
 * [2023-05-27, 20:08:43](https://news.ycombinator.com/item?id=36097777) - [TV doctors say annual checkups save lives. Real doctors call bullshit](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
 * [2023-05-27, 19:50:58](https://news.ycombinator.com/item?id=36097635) - [Why Timothy Cain creator of Fallout left Fallout 2 during development](https://www.youtube.com/watch?v=UGfaCXEu0tE)
@@ -7,7 +8,6 @@
 * [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
 * [2023-05-27, 19:00:09](https://news.ycombinator.com/item?id=36097258) - [WebXR](https://immersiveweb.dev/)
-* [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
 * [2023-05-27, 18:48:40](https://news.ycombinator.com/item?id=36097173) - [Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
 * [2023-05-27, 18:36:43](https://news.ycombinator.com/item?id=36097082) - [Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
 * [2023-05-27, 18:23:43](https://news.ycombinator.com/item?id=36096966) - [Java Panama Vector API Integrated with Apache Lucene](https://github.com/apache/lucene/pull/12311)
@@ -19,7 +19,6 @@
 * [2023-05-27, 17:05:04](https://news.ycombinator.com/item?id=36096305) - [Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 * [2023-05-27, 14:52:33](https://news.ycombinator.com/item?id=36095289) - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
 * [2023-05-27, 14:20:29](https://news.ycombinator.com/item?id=36095032) - [Defining a new HTTP method: HTTP Search (2021)](https://httptoolkit.com/blog/http-search-method/)
-* [2023-05-27, 14:17:35](https://news.ycombinator.com/item?id=36095010) - [Inside a super fast CSS engine: Quantum CSS (a.k.a. Stylo)](https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/)
 * [2023-05-27, 13:46:44](https://news.ycombinator.com/item?id=36094799) - [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 * [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
@@ -29,6 +28,7 @@
 * [2023-05-26, 08:17:39](https://news.ycombinator.com/item?id=36081463) - [Renate Loll Blends Universes to Unlock Quantum Gravity](https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/)
 * [2023-05-26, 07:28:28](https://news.ycombinator.com/item?id=36081140) - [A Personal View of Average-Case Complexity  (1995) [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)
 * [2023-05-26, 07:21:20](https://news.ycombinator.com/item?id=36081091) - [TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript](https://github.com/tpope/timl)
+* [2023-05-26, 04:29:06](https://news.ycombinator.com/item?id=36079932) - [Children&#x27;s Games (Bruegel)](https://en.wikipedia.org/wiki/Children%27s_Games_(Bruegel))
 * [2023-05-25, 21:57:42](https://news.ycombinator.com/item?id=36076813) - [Curing brain tumors: blocking functions in cells with a docked molecule](https://medicalxpress.com/news/2023-05-major-brain-tumors-blocking-functions.html)
 
 ## [Archives](archives/index.md)
