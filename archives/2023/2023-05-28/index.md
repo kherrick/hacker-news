@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 06:59:19](https://news.ycombinator.com/item?id=36101784) - [A good day with Jeff Bezos](https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:46:26](https://news.ycombinator.com/item?id=36101501) - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
 * [2023-05-28, 05:31:38](https://news.ycombinator.com/item?id=36101429) - [Large Language Models Do Not Recognize Identifier Swaps in Python](https://arxiv.org/abs/2305.15507)
@@ -17,5 +18,6 @@
 * [2023-05-28, 02:37:54](https://news.ycombinator.com/item?id=36100626) - [Southern accents could cost job seekers a 20% wage penalty, study finds](https://www.foxbusiness.com/economy/southern-accents-could-cost-job-seekers-20-wage-penalty-study-finds)
 * [2023-05-28, 01:23:24](https://news.ycombinator.com/item?id=36100199) - [State Farm: California New Business Update](https://newsroom.statefarm.com/state-farm-general-insurance-company-california-new-business-update/)
 * [2023-05-28, 00:38:10](https://news.ycombinator.com/item?id=36099955) - [Could America’s Adderall shortage have harmed its productivity?](https://www.economist.com/finance-and-economics/2023/05/25/what-performance-enhancing-stimulants-mean-for-economic-growth)
+* [2023-05-28, 00:15:42](https://news.ycombinator.com/item?id=36099822) - [ChatGPT: A Mental Model](https://xorvoid.com/chatgpt_a_mental_model.html)
 * [2023-05-28, 00:15:30](https://news.ycombinator.com/item?id=36099818) - [State Farm will no longer insure new homes in California](https://abc7.com/california-state-farm-home-insurance-insure/13307693/)
 * [2023-05-28, 00:01:54](https://news.ycombinator.com/item?id=36099721) - [Couple May Need to Pay $250k to Have Banksy Mural Removed from Their Home](https://www.artnews.com/art-news/news/couple-may-pay-removal-banksy-home-1234669604/)
