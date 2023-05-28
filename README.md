@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-28, 14:20:02](https://news.ycombinator.com/item?id=36104213) - [SAR Values of Commercially Available Mobile Phones](https://www.bfs.de/SiteGlobals/Forms/Suche/BfS/EN/SARsuche_Formular.html?queryResultId=null&pageNo=0)
 * [2023-05-28, 12:58:14](https://news.ycombinator.com/item?id=36103604) - [HP printers should have EPEAT ecolabels revoked, trade group demands](https://arstechnica.com/gadgets/2023/05/hp-printers-should-have-epeat-ecolabels-revoked-trade-group-demands/)
-* [2023-05-28, 12:52:40](https://news.ycombinator.com/item?id=36103559) - [Churchill’s Famine: The killing of three million is a story waiting to be retold](https://openthemagazine.com/columns/churchills-bengal-famine/)
+* [2023-05-28, 12:05:55](https://news.ycombinator.com/item?id=36103297) - [The Never Married, a New Normal](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)
 * [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
-* [2023-05-28, 08:25:07](https://news.ycombinator.com/item?id=36102176) - [UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking](https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking)
 * [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti is shutting down](https://txti.es)
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
