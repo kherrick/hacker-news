@@ -44,6 +44,7 @@
 * [2023-05-28, 14:18:29](https://news.ycombinator.com/item?id=36104195) - [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes/)
 * [2023-05-28, 14:15:55](https://news.ycombinator.com/item?id=36104168) - [Eight Graphs That Explain Software Engineering Salaries in 2023](https://spectrum.ieee.org/software-salaries-2023)
 * [2023-05-28, 13:59:32](https://news.ycombinator.com/item?id=36104044) - [The First &#x27;Apple Silicon&#x27; – The Aquarius Processor Project](https://thechipletter.substack.com/p/the-first-apple-silicon-the-aquarius-7cb)
+* [2023-05-28, 13:44:29](https://news.ycombinator.com/item?id=36103947) - [Process and Reality](https://archive.org/details/AlfredNorthWhiteheadProcessAndReality)
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Why octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
