@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-28, 17:31:54](https://news.ycombinator.com/item?id=36106044) - [Ian Hacking, Eminent Philosopher of Science and Much Else, Dies at 87](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
+* [2023-05-28, 17:31:54](https://news.ycombinator.com/item?id=36106044) - [Ian Hacking has died](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 * [2023-05-28, 16:43:45](https://news.ycombinator.com/item?id=36105641) - [Ford Will Use Tesla EV Charging, but That&#x27;s Only Part of the Story](https://www.caranddriver.com/news/a44016347/ford-tesla-ev-charging-opinion/)
 * [2023-05-28, 16:43:27](https://news.ycombinator.com/item?id=36105637) - [JeanHeyd Meneide&#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
@@ -20,7 +20,7 @@
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
-* [2023-05-28, 13:18:49](https://news.ycombinator.com/item?id=36103728) - [The Future of Consumer SBCs: Has the Pi Bubble Burst?](https://www.youtube.com/watch?v=Hjb3bx6vxnc)
+* [2023-05-28, 13:18:49](https://news.ycombinator.com/item?id=36103728) - [The Future of Consumer SBCs: Has the Pi Bubble Burst? [video]](https://www.youtube.com/watch?v=Hjb3bx6vxnc)
 * [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
 * [2023-05-28, 08:25:07](https://news.ycombinator.com/item?id=36102176) - [UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking](https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking)
