@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-28, 17:31:40](https://news.ycombinator.com/item?id=36106040) - [12 horses die from injuries over the past month at Churchill Downs](https://apnews.com/article/churchill-downs-kentucky-derby-10907d450b3635bf73423f25f4cede0a)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The Halting Problem Is Decidable on a Set of Asymptotic Probability One (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 * [2023-05-28, 16:43:45](https://news.ycombinator.com/item?id=36105641) - [Ford Will Use Tesla EV Charging, but That&#x27;s Only Part of the Story](https://www.caranddriver.com/news/a44016347/ford-tesla-ev-charging-opinion/)
 * [2023-05-28, 16:43:27](https://news.ycombinator.com/item?id=36105637) - [JeanHeyd Meneide&#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
@@ -26,7 +27,6 @@
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:46:26](https://news.ycombinator.com/item?id=36101501) - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
-* [2023-05-28, 04:44:29](https://news.ycombinator.com/item?id=36101199) - [Intel CPU Die Topology](https://jprahman.substack.com/p/intel-cpu-die-topology)
 * [2023-05-28, 03:58:12](https://news.ycombinator.com/item?id=36100992) - [About Dolly Parton’s Imagination Library](https://imaginationlibrary.com/about-us/)
 * [2023-05-27, 17:46:18](https://news.ycombinator.com/item?id=36096652) - [Tarkovsky&#x27;s films online for free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
 * [2023-05-27, 16:45:47](https://news.ycombinator.com/item?id=36096119) - [Identity Crisis – A Tale of DevRel](https://www.dewanahmed.com/identity-crisis-devrel/)
