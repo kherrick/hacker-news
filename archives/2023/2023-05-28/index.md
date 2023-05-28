@@ -9,6 +9,7 @@
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
 * [2023-05-28, 16:35:45](https://news.ycombinator.com/item?id=36105572) - [Bayes is guaranteed to overfit, for any model, any prior, and every data point](https://www.yulingyao.com/blog/2023/overfit/)
 * [2023-05-28, 16:28:50](https://news.ycombinator.com/item?id=36105503) - [Probabilistic Cache Recompute to Defeat Cache Stampedes](https://medium.com/javarevisited/defeat-cache-stampedes-through-probabilistic-cache-recompute-algorithm-d4150f56a52b)
+* [2023-05-28, 16:06:17](https://news.ycombinator.com/item?id=36105263) - [Stuxnet (2010) [pdf]](https://www.wired.com/images_blogs/threatlevel/2010/11/w32_stuxnet_dossier.pdf)
 * [2023-05-28, 15:46:35](https://news.ycombinator.com/item?id=36105077) - [Vitamin D: Potent regulator of dopaminergic neuron differentiation and function](https://onlinelibrary.wiley.com/doi/10.1111/jnc.15829)
 * [2023-05-28, 15:46:27](https://news.ycombinator.com/item?id=36105074) - [Landmark infinite context transformer paper just dropped](https://arxiv.org/abs/2305.16300)
 * [2023-05-28, 15:17:52](https://news.ycombinator.com/item?id=36104753) - [CISA bulletin – PRC state-sponsored cyber actor techniques [pdf]](https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF)
