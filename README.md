@@ -15,7 +15,7 @@
 * [2023-05-28, 03:09:42](https://news.ycombinator.com/item?id=36100808) - [Ask HN: My GPT project has become a local hit but I can&#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
 * [2023-05-28, 03:05:11](https://news.ycombinator.com/item?id=36100786) - [Creating a sperm or egg from any cell?](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
 * [2023-05-28, 02:56:20](https://news.ycombinator.com/item?id=36100732) - [Former Dolphin team member addresses Steam&#x2F;Valve’s takedown of Dolphin emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
-* [2023-05-28, 00:01:54](https://news.ycombinator.com/item?id=36099721) - [Couple May Need to Pay $250k to Have Banksy Mural Removed from Their Home](https://www.artnews.com/art-news/news/couple-may-pay-removal-banksy-home-1234669604/)
+* [2023-05-28, 00:15:42](https://news.ycombinator.com/item?id=36099822) - [ChatGPT: A Mental Model](https://xorvoid.com/chatgpt_a_mental_model.html)
 * [2023-05-27, 22:57:01](https://news.ycombinator.com/item?id=36099242) - [A relay that changed the power industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
 * [2023-05-27, 21:25:41](https://news.ycombinator.com/item?id=36098488) - [No_color](https://no-color.org/)
 * [2023-05-27, 21:07:43](https://news.ycombinator.com/item?id=36098332) - [Superintelligence: An idea that eats smart people (2016)](https://idlewords.com/talks/superintelligence.htm)
