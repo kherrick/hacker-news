@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
-* [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
+* [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti is shutting down](https://txti.es)
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:46:26](https://news.ycombinator.com/item?id=36101501) - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
