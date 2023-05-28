@@ -6,6 +6,7 @@
 
 * [2023-05-28, 03:09:42](https://news.ycombinator.com/item?id=36100808) - [Ask HN: My GPT project has become a local hit but I can&#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
 * [2023-05-28, 03:05:11](https://news.ycombinator.com/item?id=36100786) - [Creating a sperm or egg from any cell? Reproduction revolution on the horizon](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
+* [2023-05-28, 02:56:20](https://news.ycombinator.com/item?id=36100732) - [Former Dolphin Team Member Addresses Steam&#x2F;Valve&#x27;s Takedown of Dolphin Emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
 * [2023-05-28, 02:44:05](https://news.ycombinator.com/item?id=36100662) - [Bombings of Hiroshima and Nagasaki (and Testimonials)](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
 * [2023-05-28, 02:37:54](https://news.ycombinator.com/item?id=36100626) - [Southern accents could cost job seekers a 20% wage penalty, study finds](https://www.foxbusiness.com/economy/southern-accents-could-cost-job-seekers-20-wage-penalty-study-finds)
 * [2023-05-28, 01:23:24](https://news.ycombinator.com/item?id=36100199) - [State Farm: California New Business Update](https://newsroom.statefarm.com/state-farm-general-insurance-company-california-new-business-update/)
