@@ -9,6 +9,7 @@
 * [2023-05-26, 23:13:17](https://news.ycombinator.com/item?id=36090536) - [Raspberry Pi&#x2F;PlatformIO conflict blocks support for Pico-Arduino toolchain](https://github.com/platformio/platform-raspberrypi/pull/36)
 * [2023-05-26, 23:09:46](https://news.ycombinator.com/item?id=36090512) - [I have resigned from all roles in rustlang, effective immediately](https://twitter.com/jntrnr/status/1662229886386442242)
 * [2023-05-26, 22:43:54](https://news.ycombinator.com/item?id=36090344) - [[418] I&#x27;m a Teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+* [2023-05-26, 21:24:21](https://news.ycombinator.com/item?id=36089683) - [A Novel About Video Games Became a Surprise Best Seller](https://www.nytimes.com/2023/05/26/books/gabrielle-zevin-tomorrow-and-tomorrow-and-tomorrow.html)
 * [2023-05-26, 21:03:43](https://news.ycombinator.com/item?id=36089479) - [Emily Wilson on Epictetus](https://www.lrb.co.uk/the-paper/v45/n11/emily-wilson/i-have-gorgeous-hair)
 * [2023-05-26, 20:57:02](https://news.ycombinator.com/item?id=36089422) - [GPT-4-32k does not exist](https://platform.openai.com/docs/models/gpt-4)
 * [2023-05-26, 20:48:45](https://news.ycombinator.com/item?id=36089333) - [Fontemon: Video Game in a Font](https://www.coderelay.io/fontemon.html)
