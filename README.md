@@ -2,8 +2,10 @@
 
 * [2023-05-28, 12:58:14](https://news.ycombinator.com/item?id=36103604) - [HP printers should have EPEAT ecolabels revoked, trade group demands](https://arstechnica.com/gadgets/2023/05/hp-printers-should-have-epeat-ecolabels-revoked-trade-group-demands/)
 * [2023-05-28, 12:52:40](https://news.ycombinator.com/item?id=36103559) - [Churchill’s Famine: The killing of three million is a story waiting to be retold](https://openthemagazine.com/columns/churchills-bengal-famine/)
+* [2023-05-28, 12:05:55](https://news.ycombinator.com/item?id=36103297) - [The Never Married, a New Normal](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)
 * [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
+* [2023-05-28, 08:25:07](https://news.ycombinator.com/item?id=36102176) - [UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking](https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking)
 * [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti is shutting down](https://txti.es)
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
@@ -16,7 +18,6 @@
 * [2023-05-28, 03:09:42](https://news.ycombinator.com/item?id=36100808) - [Ask HN: My GPT project has become a local hit but I can&#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
 * [2023-05-28, 03:05:11](https://news.ycombinator.com/item?id=36100786) - [Creating a sperm or egg from any cell?](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
 * [2023-05-28, 02:56:20](https://news.ycombinator.com/item?id=36100732) - [Former Dolphin team member addresses Steam&#x2F;Valve’s takedown of Dolphin emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
-* [2023-05-28, 00:15:42](https://news.ycombinator.com/item?id=36099822) - [ChatGPT: A Mental Model](https://xorvoid.com/chatgpt_a_mental_model.html)
 * [2023-05-27, 22:57:01](https://news.ycombinator.com/item?id=36099242) - [A relay that changed the power industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
 * [2023-05-27, 21:25:41](https://news.ycombinator.com/item?id=36098488) - [No_color](https://no-color.org/)
 * [2023-05-27, 21:07:43](https://news.ycombinator.com/item?id=36098332) - [Superintelligence: An idea that eats smart people (2016)](https://idlewords.com/talks/superintelligence.htm)
@@ -27,7 +28,6 @@
 * [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 04:56:01](https://news.ycombinator.com/item?id=36092179) - [Research Philosophy of Modern Cryptography](https://eprint.iacr.org/2023/715)
 * [2023-05-26, 21:24:21](https://news.ycombinator.com/item?id=36089683) - [A novel about video games became a surprise best seller](https://www.nytimes.com/2023/05/26/books/gabrielle-zevin-tomorrow-and-tomorrow-and-tomorrow.html)
-* [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Real Property Disposition: Historic lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
 * [2023-05-26, 10:04:49](https://news.ycombinator.com/item?id=36082161) - [Homebrew Hercules Graphics Card](https://www.root42.de/blog/?p=757)
 

@@ -6,8 +6,10 @@
 
 * [2023-05-28, 12:58:14](https://news.ycombinator.com/item?id=36103604) - [HP printers should have EPEAT ecolabels revoked, trade group demands](https://arstechnica.com/gadgets/2023/05/hp-printers-should-have-epeat-ecolabels-revoked-trade-group-demands/)
 * [2023-05-28, 12:52:40](https://news.ycombinator.com/item?id=36103559) - [Churchill’s Famine: The killing of three million is a story waiting to be retold](https://openthemagazine.com/columns/churchills-bengal-famine/)
+* [2023-05-28, 12:05:55](https://news.ycombinator.com/item?id=36103297) - [The Never Married, a New Normal](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)
 * [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
+* [2023-05-28, 08:25:07](https://news.ycombinator.com/item?id=36102176) - [UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking](https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking)
 * [2023-05-28, 08:16:17](https://news.ycombinator.com/item?id=36102141) - [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
 * [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
 * [2023-05-28, 06:59:19](https://news.ycombinator.com/item?id=36101784) - [A good day with Jeff Bezos](https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524)
