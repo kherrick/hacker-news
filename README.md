@@ -12,7 +12,6 @@
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
 * [2023-05-28, 16:35:45](https://news.ycombinator.com/item?id=36105572) - [Bayes is guaranteed to overfit](https://www.yulingyao.com/blog/2023/overfit/)
-* [2023-05-28, 16:06:17](https://news.ycombinator.com/item?id=36105263) - [Stuxnet (2010) [pdf]](https://www.wired.com/images_blogs/threatlevel/2010/11/w32_stuxnet_dossier.pdf)
 * [2023-05-28, 15:46:35](https://news.ycombinator.com/item?id=36105077) - [Vitamin D: Potent regulator of dopaminergic neuron differentiation and function](https://onlinelibrary.wiley.com/doi/10.1111/jnc.15829)
 * [2023-05-28, 15:16:54](https://news.ycombinator.com/item?id=36104746) - [Don Bateman, inventor of the GPWS, has died](https://avherald.com/h?article=509ac269)
 * [2023-05-28, 15:03:14](https://news.ycombinator.com/item?id=36104608) - [Retrowin32: Async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
@@ -28,6 +27,7 @@
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
 * [2023-05-28, 08:25:07](https://news.ycombinator.com/item?id=36102176) - [UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking](https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
+* [2023-05-27, 22:36:25](https://news.ycombinator.com/item?id=36099098) - [Bread Board Wristwatch (2017)](https://ingep.net/breadboardwatch/)
 * [2023-05-27, 20:08:00](https://news.ycombinator.com/item?id=36097771) - [Kings Grew Pale](https://www.lrb.co.uk/the-paper/v45/n11/neal-ascherson/kings-grew-pale)
 * [2023-05-27, 16:45:47](https://news.ycombinator.com/item?id=36096119) - [Identity Crisis – A Tale of DevRel](https://www.dewanahmed.com/identity-crisis-devrel/)
 
