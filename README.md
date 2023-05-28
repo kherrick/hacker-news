@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
 * [2023-05-28, 08:16:17](https://news.ycombinator.com/item?id=36102141) - [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
+* [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:46:26](https://news.ycombinator.com/item?id=36101501) - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
@@ -22,12 +24,10 @@
 * [2023-05-27, 18:23:43](https://news.ycombinator.com/item?id=36096966) - [Java Panama Vector API Integrated with Apache Lucene](https://github.com/apache/lucene/pull/12311)
 * [2023-05-27, 17:46:18](https://news.ycombinator.com/item?id=36096652) - [Tarkovsky&#x27;s films online for free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
 * [2023-05-27, 17:09:11](https://news.ycombinator.com/item?id=36096343) - [The HTTP QUERY Method specification](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
-* [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 04:56:01](https://news.ycombinator.com/item?id=36092179) - [Research Philosophy of Modern Cryptography](https://eprint.iacr.org/2023/715)
 * [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is this octopus having a nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
 * [2023-05-26, 21:24:21](https://news.ycombinator.com/item?id=36089683) - [A novel about video games became a surprise best seller](https://www.nytimes.com/2023/05/26/books/gabrielle-zevin-tomorrow-and-tomorrow-and-tomorrow.html)
 * [2023-05-26, 21:03:43](https://news.ycombinator.com/item?id=36089479) - [Review of Epictetus: The Complete Works](https://www.lrb.co.uk/the-paper/v45/n11/emily-wilson/i-have-gorgeous-hair)
-* [2023-05-26, 19:04:56](https://news.ycombinator.com/item?id=36088323) - [Requirements (2007)](https://ericsink.com/articles/Requirements.html)
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Real Property Disposition: Historic lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
 * [2023-05-26, 10:04:49](https://news.ycombinator.com/item?id=36082161) - [Homebrew Hercules Graphics Card](https://www.root42.de/blog/?p=757)
 
