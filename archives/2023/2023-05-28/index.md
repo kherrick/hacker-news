@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 15:04:06](https://news.ycombinator.com/item?id=36104616) - [Ask HN: What&#x27;s the Best Book on Religion](https://news.ycombinator.com/item?id=36104616)
 * [2023-05-28, 14:20:02](https://news.ycombinator.com/item?id=36104213) - [SAR Values of Commercially Available Mobile Phones](https://www.bfs.de/SiteGlobals/Forms/Suche/BfS/EN/SARsuche_Formular.html?queryResultId=null&pageNo=0)
 * [2023-05-28, 14:18:29](https://news.ycombinator.com/item?id=36104195) - [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes/)
 * [2023-05-28, 14:15:55](https://news.ycombinator.com/item?id=36104168) - [Eight Graphs That Explain Software Engineering Salaries in 2023](https://spectrum.ieee.org/software-salaries-2023)
