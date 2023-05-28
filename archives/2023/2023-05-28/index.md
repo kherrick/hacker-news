@@ -6,6 +6,7 @@
 
 * [2023-05-28, 08:16:17](https://news.ycombinator.com/item?id=36102141) - [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
 * [2023-05-28, 06:59:19](https://news.ycombinator.com/item?id=36101784) - [A good day with Jeff Bezos](https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524)
+* [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:46:26](https://news.ycombinator.com/item?id=36101501) - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
 * [2023-05-28, 05:31:38](https://news.ycombinator.com/item?id=36101429) - [Large Language Models Do Not Recognize Identifier Swaps in Python](https://arxiv.org/abs/2305.15507)

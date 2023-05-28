@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-28, 08:16:17](https://news.ycombinator.com/item?id=36102141) - [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
+* [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:46:26](https://news.ycombinator.com/item?id=36101501) - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
 * [2023-05-28, 04:44:29](https://news.ycombinator.com/item?id=36101199) - [Intel CPU Die Topology](https://jprahman.substack.com/p/intel-cpu-die-topology)
@@ -28,7 +29,6 @@
 * [2023-05-26, 21:03:43](https://news.ycombinator.com/item?id=36089479) - [Review of Epictetus: The Complete Works](https://www.lrb.co.uk/the-paper/v45/n11/emily-wilson/i-have-gorgeous-hair)
 * [2023-05-26, 19:04:56](https://news.ycombinator.com/item?id=36088323) - [Requirements (2007)](https://ericsink.com/articles/Requirements.html)
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Real Property Disposition: Historic lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
-* [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
 * [2023-05-26, 10:04:49](https://news.ycombinator.com/item?id=36082161) - [Homebrew Hercules Graphics Card](https://www.root42.de/blog/?p=757)
 
 ## [Archives](archives/index.md)
