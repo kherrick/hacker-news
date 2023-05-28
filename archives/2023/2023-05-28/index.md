@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 15:46:35](https://news.ycombinator.com/item?id=36105077) - [Vitamin D: Potent regulator of dopaminergic neuron differentiation and function](https://onlinelibrary.wiley.com/doi/10.1111/jnc.15829)
 * [2023-05-28, 15:17:52](https://news.ycombinator.com/item?id=36104753) - [CISA bulletin – PRC state-sponsored cyber actor techniques [pdf]](https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF)
 * [2023-05-28, 15:04:06](https://news.ycombinator.com/item?id=36104616) - [Ask HN: What&#x27;s the Best Book on Religion](https://news.ycombinator.com/item?id=36104616)
 * [2023-05-28, 14:57:41](https://news.ycombinator.com/item?id=36104547) - [Bcrypt at 25: A Retrospective on Password Security](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
@@ -13,6 +14,7 @@
 * [2023-05-28, 14:15:55](https://news.ycombinator.com/item?id=36104168) - [Eight Graphs That Explain Software Engineering Salaries in 2023](https://spectrum.ieee.org/software-salaries-2023)
 * [2023-05-28, 12:58:14](https://news.ycombinator.com/item?id=36103604) - [HP printers should have EPEAT ecolabels revoked, trade group demands](https://arstechnica.com/gadgets/2023/05/hp-printers-should-have-epeat-ecolabels-revoked-trade-group-demands/)
 * [2023-05-28, 12:52:40](https://news.ycombinator.com/item?id=36103559) - [Churchill’s Famine: The killing of three million is a story waiting to be retold](https://openthemagazine.com/columns/churchills-bengal-famine/)
+* [2023-05-28, 12:33:44](https://news.ycombinator.com/item?id=36103453) - [Is Cybersecurity an Unsolvable Problem?](https://arstechnica.com/features/2023/05/is-cybersecurity-an-unsolvable-problem/)
 * [2023-05-28, 12:05:55](https://news.ycombinator.com/item?id=36103297) - [The Never Married, a New Normal](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)
 * [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
