@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-28, 21:10:25](https://news.ycombinator.com/item?id=36107818) - [New KAUST tandem solar cell breaks efficiency world record](https://newatlas.com/energy/kaust-tandem-solar-cell-efficiency-world-record/)
 * [2023-05-28, 20:54:38](https://news.ycombinator.com/item?id=36107703) - [State of Space-Based Solar Radiation Management [pdf]](https://static1.squarespace.com/static/60d495bac7a14f7e7507d20b/t/640f43622e4d792d408acfee/1678721894552/PSF+-+State+of+Space+-+Print+Version.pdf)
 * [2023-05-28, 20:47:29](https://news.ycombinator.com/item?id=36107640) - [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
 * [2023-05-28, 19:51:26](https://news.ycombinator.com/item?id=36107154) - [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
@@ -26,7 +27,6 @@
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
-* [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
 * [2023-05-27, 22:36:25](https://news.ycombinator.com/item?id=36099098) - [Bread Board Wristwatch (2017)](https://ingep.net/breadboardwatch/)
 * [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
