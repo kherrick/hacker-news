@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-28, 16:35:45",
+      "https://news.ycombinator.com/item?id=36105572"
+    ],
+    [
+      "Bayes is guaranteed to overfit, for any model, any prior, and every data point",
+      "https://www.yulingyao.com/blog/2023/overfit/"
+    ]
+  ],
+  [
+    [
       "2023-05-28, 15:46:35",
       "https://news.ycombinator.com/item?id=36105077"
     ],
@@ -21,6 +31,26 @@
   ],
   [
     [
+      "2023-05-28, 15:16:54",
+      "https://news.ycombinator.com/item?id=36104746"
+    ],
+    [
+      "RIP Don Bateman, possibly saved more lives than any person in aviation history",
+      "https://avherald.com/h?article=509ac269"
+    ]
+  ],
+  [
+    [
+      "2023-05-28, 15:03:14",
+      "https://news.ycombinator.com/item?id=36104608"
+    ],
+    [
+      "Retrowin32: Async, DLL loading, tracing execution, and Zig",
+      "https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html"
+    ]
+  ],
+  [
+    [
       "2023-05-28, 14:57:41",
       "https://news.ycombinator.com/item?id=36104547"
     ],
@@ -37,6 +67,16 @@
     [
       "The Gemini protocol seen by this HTTP client person",
       "https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/"
+    ]
+  ],
+  [
+    [
+      "2023-05-28, 14:36:49",
+      "https://news.ycombinator.com/item?id=36104346"
+    ],
+    [
+      "Comparing iPhone 13 vs. iPhone 14 for Astrophotography",
+      "https://www.diyphotography.net/comparing-iphone-13-vs-iphone-14-for-astrophotography/"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Show HN: HNRelevant – Show related HN submissions in an integrated sidebar",
       "https://github.com/imdj/HNRelevant"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 09:46:44",
-      "https://news.ycombinator.com/item?id=36102576"
-    ],
-    [
-      "Show HN: A pixel art puzzle game for mobile using PixiJS",
-      "https://pixel-puzzler.playcurious.games/"
     ]
   ],
   [
@@ -177,16 +207,6 @@
     [
       "Intel CPU Die Topology",
       "https://jprahman.substack.com/p/intel-cpu-die-topology"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 04:06:50",
-      "https://news.ycombinator.com/item?id=36101029"
-    ],
-    [
-      "Inner workings revealed for “Predator,” Android malware that exploited 5 0-days",
-      "https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Scar tissues make relationships wear out (2013)",
       "https://gist.github.com/gtallen1187/27a585fcf36d6e657db2"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 21:24:21",
-      "https://news.ycombinator.com/item?id=36089683"
-    ],
-    [
-      "A novel about video games became a surprise best seller",
-      "https://www.nytimes.com/2023/05/26/books/gabrielle-zevin-tomorrow-and-tomorrow-and-tomorrow.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 18:34:14",
-      "https://news.ycombinator.com/item?id=36087982"
-    ],
-    [
-      "Real Property Disposition: Historic lighthouses",
-      "https://disposal.gsa.gov/s/lighthouseprogram"
     ]
   ]
 ]
