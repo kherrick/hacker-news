@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-28, 09:53:10",
+      "https://news.ycombinator.com/item?id=36102610"
+    ],
+    [
+      "Show HN: HNRelevant – Show related HN submissions in an integrated sidebar",
+      "https://github.com/imdj/HNRelevant"
+    ]
+  ],
+  [
+    [
       "2023-05-28, 09:12:51",
       "https://news.ycombinator.com/item?id=36102406"
     ],
@@ -287,16 +297,6 @@
     [
       "Homebrew Hercules Graphics Card",
       "https://www.root42.de/blog/?p=757"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 03:19:05",
-      "https://news.ycombinator.com/item?id=36079389"
-    ],
-    [
-      "Whose baseline (compiler) is it anyway?",
-      "https://arxiv.org/abs/2305.13241"
     ]
   ]
 ]
