@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-05-27, 19:09:06",
-      "https://news.ycombinator.com/item?id=36097321"
-    ],
-    [
-      "Integrating Zig and SwiftUI",
-      "https://mitchellh.com/writing/zig-and-swiftui"
-    ]
-  ],
-  [
-    [
       "2023-05-27, 19:00:09",
       "https://news.ycombinator.com/item?id=36097258"
     ],
@@ -207,6 +197,16 @@
     [
       "Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]",
       "https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 13:46:44",
+      "https://news.ycombinator.com/item?id=36094799"
+    ],
+    [
+      "Oxidizing OCaml: Locality",
+      "https://blog.janestreet.com/oxidizing-ocaml-locality/"
     ]
   ],
   [
