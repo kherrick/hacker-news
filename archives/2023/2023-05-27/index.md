@@ -38,6 +38,7 @@
 * [2023-05-27, 17:09:11](https://news.ycombinator.com/item?id=36096343) - [The HTTP QUERY Method specification](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
 * [2023-05-27, 17:09:10](https://news.ycombinator.com/item?id=36096342) - [Senators issued satellite phones, offered demos on upgraded security devices](https://www.cbsnews.com/news/senators-issued-satellite-phones-new-security-measures/)
 * [2023-05-27, 17:05:04](https://news.ycombinator.com/item?id=36096305) - [Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
+* [2023-05-27, 16:45:47](https://news.ycombinator.com/item?id=36096119) - [Identity Crisis – A Tale of DevRel](https://www.dewanahmed.com/identity-crisis-devrel/)
 * [2023-05-27, 15:54:50](https://news.ycombinator.com/item?id=36095736) - [High-Tech Farm Startups Are Laid Low by Financing Drought, Pests](https://www.wsj.com/articles/high-tech-farm-startups-are-laid-low-by-financing-drought-pests-1bf6a60a)
 * [2023-05-27, 15:00:57](https://news.ycombinator.com/item?id=36095352) - [Here&#x27;s What Happens When Your Lawyer Uses ChatGPT](https://www.nytimes.com/2023/05/27/nyregion/avianca-airline-lawsuit-chatgpt.html)
 * [2023-05-27, 14:52:33](https://news.ycombinator.com/item?id=36095289) - [Ask HN: Suggestions to host 10TB data with a monthly +100TB bandwidth](https://news.ycombinator.com/item?id=36095289)
