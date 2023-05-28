@@ -4,6 +4,7 @@
 * [2023-05-28, 02:44:05](https://news.ycombinator.com/item?id=36100662) - [Bombings of Hiroshima and Nagasaki (and Testimonials)](https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/)
 * [2023-05-27, 23:33:23](https://news.ycombinator.com/item?id=36099507) - [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
 * [2023-05-27, 22:57:01](https://news.ycombinator.com/item?id=36099242) - [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
+* [2023-05-27, 21:50:11](https://news.ycombinator.com/item?id=36098695) - [Show HN: Open Fire Serverless CI](https://www.open-fire.dev/)
 * [2023-05-27, 21:28:08](https://news.ycombinator.com/item?id=36098511) - [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
 * [2023-05-27, 21:25:41](https://news.ycombinator.com/item?id=36098488) - [No_color](https://no-color.org/)
 * [2023-05-27, 21:13:35](https://news.ycombinator.com/item?id=36098382) - [How to mitigate risk from secrets leaks](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
@@ -28,7 +29,6 @@
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Free Lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
 * [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
 * [2023-05-26, 10:04:49](https://news.ycombinator.com/item?id=36082161) - [The Homebrew Hercules Graphics Card](https://www.root42.de/blog/?p=757)
-* [2023-05-26, 07:28:28](https://news.ycombinator.com/item?id=36081140) - [A Personal View of Average-Case Complexity  (1995) [pdf]](https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf)
 * [2023-05-26, 03:19:05](https://news.ycombinator.com/item?id=36079389) - [Whose baseline (compiler) is it anyway?](https://arxiv.org/abs/2305.13241)
 
 ## [Archives](archives/index.md)
