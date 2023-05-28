@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-05-27](index.md)
 
+* [2023-05-27, 23:33:23](https://news.ycombinator.com/item?id=36099507) - [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
 * [2023-05-27, 22:59:42](https://news.ycombinator.com/item?id=36099262) - [State Farm to stop accepting homeowners insurance applications in California](https://www.cnbc.com/2023/05/27/state-farm-to-stop-accepting-homeowners-insurance-applications-in-california.html)
 * [2023-05-27, 22:57:01](https://news.ycombinator.com/item?id=36099242) - [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
 * [2023-05-27, 22:27:03](https://news.ycombinator.com/item?id=36099022) - [8-Bit Wolf – Remembering the NES Game Teaching Kids to Conquer Wall Street](https://www.nintendolife.com/features/8-bit-wolf-remembering-the-nes-game-teaching-kids-to-conquer-wall-street)
 * [2023-05-27, 22:20:53](https://news.ycombinator.com/item?id=36098970) - [Google account deleted after 2 hours of Aurora](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
 * [2023-05-27, 21:58:55](https://news.ycombinator.com/item?id=36098772) - [Unbounded memory usage by Linux TCP for receive buffers, and how we fixed it](https://blog.cloudflare.com/unbounded-memory-usage-by-tcp-for-receive-buffers-and-how-we-fixed-it/)
 * [2023-05-27, 21:30:31](https://news.ycombinator.com/item?id=36098532) - [Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches](https://www.bbc.com/news/business-65717731)
+* [2023-05-27, 21:28:08](https://news.ycombinator.com/item?id=36098511) - [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
 * [2023-05-27, 21:25:41](https://news.ycombinator.com/item?id=36098488) - [No_color](https://no-color.org/)
 * [2023-05-27, 21:13:35](https://news.ycombinator.com/item?id=36098382) - [1 in 10 developers leaked an API-key in 2022](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
 * [2023-05-27, 21:07:43](https://news.ycombinator.com/item?id=36098332) - [Superintelligence: The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm)
