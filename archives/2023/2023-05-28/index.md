@@ -9,6 +9,7 @@
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:46:26](https://news.ycombinator.com/item?id=36101501) - [Why I Left Rust](https://www.jntrnr.com/why-i-left-rust/)
 * [2023-05-28, 05:31:38](https://news.ycombinator.com/item?id=36101429) - [Large Language Models Do Not Recognize Identifier Swaps in Python](https://arxiv.org/abs/2305.15507)
+* [2023-05-28, 04:44:29](https://news.ycombinator.com/item?id=36101199) - [Intel CPU Die Topology](https://jprahman.substack.com/p/intel-cpu-die-topology)
 * [2023-05-28, 04:06:50](https://news.ycombinator.com/item?id=36101029) - [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
 * [2023-05-28, 03:58:56](https://news.ycombinator.com/item?id=36100994) - [Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
 * [2023-05-28, 03:58:12](https://news.ycombinator.com/item?id=36100992) - [About Dolly Parton’s Imagination Library](https://imaginationlibrary.com/about-us/)
