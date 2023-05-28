@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-28, 00:38:10](https://news.ycombinator.com/item?id=36099955) - [Could America’s Adderall shortage have harmed its productivity?](https://www.economist.com/finance-and-economics/2023/05/25/what-performance-enhancing-stimulants-mean-for-economic-growth)
 * [2023-05-27, 23:33:23](https://news.ycombinator.com/item?id=36099507) - [Show HN: No more copy-pasting – a ChatGPT plugin to read code from your computer](https://github.com/kesor/chatgpt-code-plugin)
 * [2023-05-27, 22:57:01](https://news.ycombinator.com/item?id=36099242) - [The Relay That Changed the Power Industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
 * [2023-05-27, 21:28:08](https://news.ycombinator.com/item?id=36098511) - [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
@@ -8,6 +7,7 @@
 * [2023-05-27, 21:13:35](https://news.ycombinator.com/item?id=36098382) - [How to mitigate risk from secrets leaks](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
 * [2023-05-27, 21:07:43](https://news.ycombinator.com/item?id=36098332) - [Superintelligence: An idea that eats smart people (2016)](https://idlewords.com/talks/superintelligence.htm)
 * [2023-05-27, 20:08:43](https://news.ycombinator.com/item?id=36097777) - [TV doctors say annual checkups save lives. Real doctors call bullshit (2016)](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
+* [2023-05-27, 19:50:58](https://news.ycombinator.com/item?id=36097635) - [Why Timothy Cain creator of Fallout left Fallout 2 during development](https://www.youtube.com/watch?v=UGfaCXEu0tE)
 * [2023-05-27, 19:12:07](https://news.ycombinator.com/item?id=36097344) - [Translating&#x2F;bridging across multiple protocols and identities (via federation)](https://snarfed.org/2023-05-26_50328)
 * [2023-05-27, 19:09:06](https://news.ycombinator.com/item?id=36097321) - [Integrating Zig and SwiftUI](https://mitchellh.com/writing/zig-and-swiftui)
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
