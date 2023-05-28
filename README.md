@@ -27,9 +27,9 @@
 * [2023-05-27, 04:56:01](https://news.ycombinator.com/item?id=36092179) - [Research Philosophy of Modern Cryptography](https://eprint.iacr.org/2023/715)
 * [2023-05-26, 21:24:21](https://news.ycombinator.com/item?id=36089683) - [A novel about video games became a surprise best seller](https://www.nytimes.com/2023/05/26/books/gabrielle-zevin-tomorrow-and-tomorrow-and-tomorrow.html)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
+* [2023-05-26, 19:04:56](https://news.ycombinator.com/item?id=36088323) - [Requirements (2007)](https://ericsink.com/articles/Requirements.html)
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Real Property Disposition: Historic lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
 * [2023-05-26, 10:04:49](https://news.ycombinator.com/item?id=36082161) - [Homebrew Hercules Graphics Card](https://www.root42.de/blog/?p=757)
-* [2023-05-26, 03:19:05](https://news.ycombinator.com/item?id=36079389) - [Whose baseline (compiler) is it anyway?](https://arxiv.org/abs/2305.13241)
 
 ## [Archives](archives/index.md)
 
