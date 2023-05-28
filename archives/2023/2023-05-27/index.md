@@ -27,6 +27,7 @@
 * [2023-05-27, 19:07:36](https://news.ycombinator.com/item?id=36097311) - [Notes on Stanford Linear Accelerator Center](https://charlieharrington.com/notes-on-slac/)
 * [2023-05-27, 19:06:05](https://news.ycombinator.com/item?id=36097300) - [Show HN: RASCII, an advanced ASCII art generator made using Rust](https://github.com/KoBruhh/RASCII)
 * [2023-05-27, 19:05:02](https://news.ycombinator.com/item?id=36097291) - [The First Social-Media Babies Are Growing Up–and They’re Horrified](https://www.theatlantic.com/technology/archive/2023/05/parents-posting-kids-online-tiktok-social-media/674137/)
+* [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 * [2023-05-27, 19:00:09](https://news.ycombinator.com/item?id=36097258) - [WebXR](https://immersiveweb.dev/)
 * [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
 * [2023-05-27, 18:48:40](https://news.ycombinator.com/item?id=36097173) - [Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
