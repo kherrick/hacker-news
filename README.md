@@ -4,6 +4,7 @@
 * [2023-05-28, 05:31:38](https://news.ycombinator.com/item?id=36101429) - [Large Language Models Do Not Recognize Identifier Swaps in Python](https://arxiv.org/abs/2305.15507)
 * [2023-05-28, 04:06:50](https://news.ycombinator.com/item?id=36101029) - [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
 * [2023-05-28, 03:58:56](https://news.ycombinator.com/item?id=36100994) - [Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
+* [2023-05-28, 03:58:12](https://news.ycombinator.com/item?id=36100992) - [About Dolly Parton’s Imagination Library](https://imaginationlibrary.com/about-us/)
 * [2023-05-28, 03:05:11](https://news.ycombinator.com/item?id=36100786) - [Creating a sperm or egg from any cell? Reproduction revolution on the horizon](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
 * [2023-05-28, 02:56:20](https://news.ycombinator.com/item?id=36100732) - [Former Dolphin Team Member Addresses Steam&#x2F;Valve&#x27;s Takedown of Dolphin Emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
 * [2023-05-28, 02:37:54](https://news.ycombinator.com/item?id=36100626) - [Southern accents could cost job seekers a 20% wage penalty, study finds](https://www.foxbusiness.com/economy/southern-accents-could-cost-job-seekers-20-wage-penalty-study-finds)
@@ -29,7 +30,6 @@
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Real Property Disposition: Historic lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
 * [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
 * [2023-05-26, 10:04:49](https://news.ycombinator.com/item?id=36082161) - [Homebrew Hercules Graphics Card](https://www.root42.de/blog/?p=757)
-* [2023-05-26, 03:19:05](https://news.ycombinator.com/item?id=36079389) - [Whose baseline (compiler) is it anyway?](https://arxiv.org/abs/2305.13241)
 
 ## [Archives](archives/index.md)
 
