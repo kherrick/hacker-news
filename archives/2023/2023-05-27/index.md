@@ -10,6 +10,7 @@
 * [2023-05-27, 22:27:03](https://news.ycombinator.com/item?id=36099022) - [8-Bit Wolf – Remembering the NES Game Teaching Kids to Conquer Wall Street](https://www.nintendolife.com/features/8-bit-wolf-remembering-the-nes-game-teaching-kids-to-conquer-wall-street)
 * [2023-05-27, 22:20:53](https://news.ycombinator.com/item?id=36098970) - [Google account deleted after 2 hours of Aurora](https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/)
 * [2023-05-27, 21:58:55](https://news.ycombinator.com/item?id=36098772) - [Unbounded memory usage by Linux TCP for receive buffers, and how we fixed it](https://blog.cloudflare.com/unbounded-memory-usage-by-tcp-for-receive-buffers-and-how-we-fixed-it/)
+* [2023-05-27, 21:50:11](https://news.ycombinator.com/item?id=36098695) - [Show HN: Open Fire Serverless CI](https://www.open-fire.dev/)
 * [2023-05-27, 21:30:31](https://news.ycombinator.com/item?id=36098532) - [Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches](https://www.bbc.com/news/business-65717731)
 * [2023-05-27, 21:28:08](https://news.ycombinator.com/item?id=36098511) - [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
 * [2023-05-27, 21:25:41](https://news.ycombinator.com/item?id=36098488) - [No_color](https://no-color.org/)
