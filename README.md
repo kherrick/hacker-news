@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-28, 08:16:17](https://news.ycombinator.com/item?id=36102141) - [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
 * [2023-05-28, 06:59:19](https://news.ycombinator.com/item?id=36101784) - [A good day with Jeff Bezos](https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-28, 05:31:38](https://news.ycombinator.com/item?id=36101429) - [Large language models do not recognize identifier swaps in Python](https://arxiv.org/abs/2305.15507)
@@ -9,7 +10,6 @@
 * [2023-05-28, 02:56:20](https://news.ycombinator.com/item?id=36100732) - [Former Dolphin team member addresses Steam&#x2F;Valve’s takedown of Dolphin emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
 * [2023-05-28, 00:15:42](https://news.ycombinator.com/item?id=36099822) - [ChatGPT: A Mental Model](https://xorvoid.com/chatgpt_a_mental_model.html)
 * [2023-05-27, 22:57:01](https://news.ycombinator.com/item?id=36099242) - [A relay that changed the power industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
-* [2023-05-27, 21:28:08](https://news.ycombinator.com/item?id=36098511) - [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
 * [2023-05-27, 21:25:41](https://news.ycombinator.com/item?id=36098488) - [No_color](https://no-color.org/)
 * [2023-05-27, 21:13:35](https://news.ycombinator.com/item?id=36098382) - [How to mitigate risk from secrets leaks](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
 * [2023-05-27, 20:08:43](https://news.ycombinator.com/item?id=36097777) - [TV doctors say annual checkups save lives – real doctors call bullshit (2016)](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
