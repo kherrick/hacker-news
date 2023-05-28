@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 19:51:26](https://news.ycombinator.com/item?id=36107154) - [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
+* [2023-05-28, 19:50:21](https://news.ycombinator.com/item?id=36107139) - [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
 * [2023-05-28, 19:28:29](https://news.ycombinator.com/item?id=36106942) - [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
 * [2023-05-28, 19:00:36](https://news.ycombinator.com/item?id=36106741) - [Music Company Asks Google to Delist &#x27;YouTube Downloader&#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
 * [2023-05-28, 18:57:06](https://news.ycombinator.com/item?id=36106716) - [Google Cloud Workstations managed development environment is now GA](https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga)
@@ -12,6 +14,7 @@
 * [2023-05-28, 18:06:31](https://news.ycombinator.com/item?id=36106320) - [The C Interpreter: A Tutorial for Cin (1988)](https://www.tuhs.org/cgi-bin/utree.pl?file=V10/vol2/cin/cin.m)
 * [2023-05-28, 18:00:41](https://news.ycombinator.com/item?id=36106267) - [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 * [2023-05-28, 17:51:12](https://news.ycombinator.com/item?id=36106196) - [io_uring support for libuv – 8x increase in throughput](https://github.com/libuv/libuv/pull/3952)
+* [2023-05-28, 17:50:16](https://news.ycombinator.com/item?id=36106193) - [Tom Hanks on the Rewards and “Vicious Reality” of Making Movies](https://www.newyorker.com/culture/the-new-yorker-interview/tom-hanks-on-the-rewards-and-vicious-reality-of-making-movies)
 * [2023-05-28, 17:31:54](https://news.ycombinator.com/item?id=36106044) - [Ian Hacking, Eminent Philosopher of Science and Much Else, Dies at 87](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
 * [2023-05-28, 17:31:40](https://news.ycombinator.com/item?id=36106040) - [12 horses die from injuries over the past month at Churchill Downs](https://apnews.com/article/churchill-downs-kentucky-derby-10907d450b3635bf73423f25f4cede0a)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The Halting Problem Is Decidable on a Set of Asymptotic Probability One (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)

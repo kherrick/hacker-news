@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-28, 19:51:26](https://news.ycombinator.com/item?id=36107154) - [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
+* [2023-05-28, 19:50:21](https://news.ycombinator.com/item?id=36107139) - [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
 * [2023-05-28, 19:28:29](https://news.ycombinator.com/item?id=36106942) - [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
 * [2023-05-28, 19:00:36](https://news.ycombinator.com/item?id=36106741) - [Music Company Asks Google to Delist &#x27;YouTube Downloader&#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
 * [2023-05-28, 18:57:06](https://news.ycombinator.com/item?id=36106716) - [Google Cloud Workstations managed development environment is now GA](https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga)
@@ -8,6 +10,7 @@
 * [2023-05-28, 18:06:31](https://news.ycombinator.com/item?id=36106320) - [The C Interpreter: A Tutorial for Cin (1988)](https://www.tuhs.org/cgi-bin/utree.pl?file=V10/vol2/cin/cin.m)
 * [2023-05-28, 18:00:41](https://news.ycombinator.com/item?id=36106267) - [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 * [2023-05-28, 17:51:12](https://news.ycombinator.com/item?id=36106196) - [io_uring support for libuv – 8x increase in throughput](https://github.com/libuv/libuv/pull/3952)
+* [2023-05-28, 17:50:16](https://news.ycombinator.com/item?id=36106193) - [Tom Hanks on the Rewards and “Vicious Reality” of Making Movies](https://www.newyorker.com/culture/the-new-yorker-interview/tom-hanks-on-the-rewards-and-vicious-reality-of-making-movies)
 * [2023-05-28, 17:31:54](https://news.ycombinator.com/item?id=36106044) - [Ian Hacking has died](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
@@ -23,13 +26,10 @@
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
-* [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
-* [2023-05-28, 08:25:07](https://news.ycombinator.com/item?id=36102176) - [UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking](https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
 * [2023-05-27, 22:36:25](https://news.ycombinator.com/item?id=36099098) - [Bread Board Wristwatch (2017)](https://ingep.net/breadboardwatch/)
 * [2023-05-27, 20:08:00](https://news.ycombinator.com/item?id=36097771) - [Kings Grew Pale](https://www.lrb.co.uk/the-paper/v45/n11/neal-ascherson/kings-grew-pale)
-* [2023-05-27, 16:45:47](https://news.ycombinator.com/item?id=36096119) - [Identity Crisis – A Tale of DevRel](https://www.dewanahmed.com/identity-crisis-devrel/)
 
 ## [Archives](archives/index.md)
 
