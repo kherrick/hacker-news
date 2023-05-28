@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 16:43:27](https://news.ycombinator.com/item?id=36105637) - [JeanHeyd Meneide&#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
+* [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
 * [2023-05-28, 16:35:45](https://news.ycombinator.com/item?id=36105572) - [Bayes is guaranteed to overfit, for any model, any prior, and every data point](https://www.yulingyao.com/blog/2023/overfit/)
+* [2023-05-28, 16:28:50](https://news.ycombinator.com/item?id=36105503) - [Probabilistic Cache Recompute to Defeat Cache Stampedes](https://medium.com/javarevisited/defeat-cache-stampedes-through-probabilistic-cache-recompute-algorithm-d4150f56a52b)
 * [2023-05-28, 15:46:35](https://news.ycombinator.com/item?id=36105077) - [Vitamin D: Potent regulator of dopaminergic neuron differentiation and function](https://onlinelibrary.wiley.com/doi/10.1111/jnc.15829)
+* [2023-05-28, 15:46:27](https://news.ycombinator.com/item?id=36105074) - [Landmark infinite context transformer paper just dropped](https://arxiv.org/abs/2305.16300)
 * [2023-05-28, 15:17:52](https://news.ycombinator.com/item?id=36104753) - [CISA bulletin – PRC state-sponsored cyber actor techniques [pdf]](https://media.defense.gov/2023/May/24/2003229517/-1/-1/0/CSA_Living_off_the_Land.PDF)
 * [2023-05-28, 15:16:54](https://news.ycombinator.com/item?id=36104746) - [RIP Don Bateman, possibly saved more lives than any person in aviation history](https://avherald.com/h?article=509ac269)
 * [2023-05-28, 15:04:06](https://news.ycombinator.com/item?id=36104616) - [Ask HN: What&#x27;s the Best Book on Religion](https://news.ycombinator.com/item?id=36104616)
@@ -16,7 +20,9 @@
 * [2023-05-28, 14:20:02](https://news.ycombinator.com/item?id=36104213) - [SAR Values of Commercially Available Mobile Phones](https://www.bfs.de/SiteGlobals/Forms/Suche/BfS/EN/SARsuche_Formular.html?queryResultId=null&pageNo=0)
 * [2023-05-28, 14:18:29](https://news.ycombinator.com/item?id=36104195) - [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes/)
 * [2023-05-28, 14:15:55](https://news.ycombinator.com/item?id=36104168) - [Eight Graphs That Explain Software Engineering Salaries in 2023](https://spectrum.ieee.org/software-salaries-2023)
+* [2023-05-28, 13:59:32](https://news.ycombinator.com/item?id=36104044) - [The First &#x27;Apple Silicon&#x27; – The Aquarius Processor Project](https://thechipletter.substack.com/p/the-first-apple-silicon-the-aquarius-7cb)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Why octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
+* [2023-05-28, 13:18:49](https://news.ycombinator.com/item?id=36103728) - [The Future of Consumer SBCs: Has the Pi Bubble Burst?](https://www.youtube.com/watch?v=Hjb3bx6vxnc)
 * [2023-05-28, 12:58:14](https://news.ycombinator.com/item?id=36103604) - [HP printers should have EPEAT ecolabels revoked, trade group demands](https://arstechnica.com/gadgets/2023/05/hp-printers-should-have-epeat-ecolabels-revoked-trade-group-demands/)
 * [2023-05-28, 12:52:40](https://news.ycombinator.com/item?id=36103559) - [Churchill’s Famine: The killing of three million is a story waiting to be retold](https://openthemagazine.com/columns/churchills-bengal-famine/)
 * [2023-05-28, 12:33:44](https://news.ycombinator.com/item?id=36103453) - [Is Cybersecurity an Unsolvable Problem?](https://arstechnica.com/features/2023/05/is-cybersecurity-an-unsolvable-problem/)
