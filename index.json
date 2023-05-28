@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-28, 01:23:24",
+      "https://news.ycombinator.com/item?id=36100199"
+    ],
+    [
+      "State Farm: California New Business Update",
+      "https://newsroom.statefarm.com/state-farm-general-insurance-company-california-new-business-update/"
+    ]
+  ],
+  [
+    [
+      "2023-05-28, 00:15:30",
+      "https://news.ycombinator.com/item?id=36099818"
+    ],
+    [
+      "State Farm will no longer insure new homes in California",
+      "https://abc7.com/california-state-farm-home-insurance-insure/13307693/"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 22:59:42",
       "https://news.ycombinator.com/item?id=36099262"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2023-05-27, 22:20:53",
-      "https://news.ycombinator.com/item?id=36098970"
+      "2023-05-27, 22:57:01",
+      "https://news.ycombinator.com/item?id=36099242"
     ],
     [
-      "Google account deleted after 2 hours of Aurora",
-      "https://old.reddit.com/r/degoogle/comments/13td3iq/google_account_deleted_after_2_hours_of_aurora/"
+      "The Relay That Changed the Power Industry",
+      "https://spectrum.ieee.org/relay-changed-the-power-industry"
     ]
   ],
   [
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2023-05-27, 21:30:31",
-      "https://news.ycombinator.com/item?id=36098532"
-    ],
-    [
-      "Twitter engineering boss Foad Dabiri quits day after DeSantis launch glitches",
-      "https://www.bbc.com/news/business-65717731"
-    ]
-  ],
-  [
-    [
       "2023-05-27, 21:25:41",
       "https://news.ycombinator.com/item?id=36098488"
     ],
@@ -51,22 +61,32 @@
   ],
   [
     [
-      "2023-05-27, 20:19:41",
-      "https://news.ycombinator.com/item?id=36097900"
+      "2023-05-27, 21:13:35",
+      "https://news.ycombinator.com/item?id=36098382"
     ],
     [
-      "Lawyer cites fake cases invented by ChatGPT, judge is not amused",
-      "https://simonwillison.net/2023/May/27/lawyer-chatgpt/"
+      "How to mitigate risk from secrets leaks",
+      "https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps"
     ]
   ],
   [
     [
-      "2023-05-27, 19:50:58",
-      "https://news.ycombinator.com/item?id=36097635"
+      "2023-05-27, 21:07:43",
+      "https://news.ycombinator.com/item?id=36098332"
     ],
     [
-      "Why Timothy Cain creator of Fallout left Fallout 2 during development",
-      "https://www.youtube.com/watch?v=UGfaCXEu0tE"
+      "Superintelligence: The Idea That Eats Smart People",
+      "https://idlewords.com/talks/superintelligence.htm"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 20:08:43",
+      "https://news.ycombinator.com/item?id=36097777"
+    ],
+    [
+      "TV doctors say annual checkups save lives. Real doctors call bullshit (2016)",
+      "https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2023-05-27, 18:04:56",
-      "https://news.ycombinator.com/item?id=36096811"
-    ],
-    [
-      "Hard stuff when building products with LLMs",
-      "https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm"
-    ]
-  ],
-  [
-    [
       "2023-05-27, 17:46:18",
       "https://news.ycombinator.com/item?id=36096652"
     ],
@@ -167,16 +177,6 @@
     [
       "The HTTP QUERY Method specification",
       "https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-27, 17:09:10",
-      "https://news.ycombinator.com/item?id=36096342"
-    ],
-    [
-      "Senators issued satellite phones, offered demos on upgraded security devices",
-      "https://www.cbsnews.com/news/senators-issued-satellite-phones-new-security-measures/"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36091954"
     ],
     [
-      "Is This Octopus Having a Nightmare?",
+      "Is this octopus having a nightmare?",
       "https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html"
     ]
   ],
@@ -261,32 +261,32 @@
   ],
   [
     [
+      "2023-05-26, 10:09:42",
+      "https://news.ycombinator.com/item?id=36082187"
+    ],
+    [
+      "What&#x27;s the right hash table API?",
+      "https://brevzin.github.io/c++/2023/05/23/map-api/"
+    ]
+  ],
+  [
+    [
+      "2023-05-26, 10:04:49",
+      "https://news.ycombinator.com/item?id=36082161"
+    ],
+    [
+      "The Homebrew Hercules Graphics Card",
+      "https://www.root42.de/blog/?p=757"
+    ]
+  ],
+  [
+    [
       "2023-05-26, 08:17:39",
       "https://news.ycombinator.com/item?id=36081463"
     ],
     [
       "Renate Loll Blends Universes to Unlock Quantum Gravity",
       "https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 07:28:28",
-      "https://news.ycombinator.com/item?id=36081140"
-    ],
-    [
-      "A Personal View of Average-Case Complexity  (1995) [pdf]",
-      "https://gwern.net/doc/cs/cryptography/1995-impagliazzo.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-26, 07:21:20",
-      "https://news.ycombinator.com/item?id=36081091"
-    ],
-    [
-      "TimL: Clojure-like Lisp dialect that runs on and compiles down to Vimscript",
-      "https://github.com/tpope/timl"
     ]
   ],
   [
