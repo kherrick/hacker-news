@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
-* [2023-05-28, 08:16:17](https://news.ycombinator.com/item?id=36102141) - [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
 * [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
 * [2023-05-28, 05:54:06](https://news.ycombinator.com/item?id=36101544) - [Unnatural Keys – Nature doesn’t come with identifiers](https://matt-schellhas.medium.com/unnatural-keys-425a68ee350c)
@@ -30,6 +29,7 @@
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Real Property Disposition: Historic lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
 * [2023-05-26, 12:26:44](https://news.ycombinator.com/item?id=36083155) - [A Technical Film Report on Project Deep Ops (1972) [video]](https://www.youtube.com/watch?v=isyO5tQfeqM)
 * [2023-05-26, 10:04:49](https://news.ycombinator.com/item?id=36082161) - [Homebrew Hercules Graphics Card](https://www.root42.de/blog/?p=757)
+* [2023-05-26, 03:19:05](https://news.ycombinator.com/item?id=36079389) - [Whose baseline (compiler) is it anyway?](https://arxiv.org/abs/2305.13241)
 
 ## [Archives](archives/index.md)
 
