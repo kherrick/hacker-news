@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-28, 21:55:44](https://news.ycombinator.com/item?id=36108182) - [Profit-Obsessed Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
+* [2023-05-28, 21:47:38](https://news.ycombinator.com/item?id=36108114) - [Ask HN: Did students lose interest in electronics as a hobby in the early 80s?](https://news.ycombinator.com/item?id=36108114)
 * [2023-05-28, 21:10:25](https://news.ycombinator.com/item?id=36107818) - [New KAUST tandem solar cell breaks efficiency world record](https://newatlas.com/energy/kaust-tandem-solar-cell-efficiency-world-record/)
 * [2023-05-28, 20:54:38](https://news.ycombinator.com/item?id=36107703) - [State of Space-Based Solar Radiation Management [pdf]](https://static1.squarespace.com/static/60d495bac7a14f7e7507d20b/t/640f43622e4d792d408acfee/1678721894552/PSF+-+State+of+Space+-+Print+Version.pdf)
 * [2023-05-28, 20:47:29](https://news.ycombinator.com/item?id=36107640) - [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
@@ -21,7 +22,6 @@
 * [2023-05-28, 15:03:14](https://news.ycombinator.com/item?id=36104608) - [Retrowin32: Async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 14:57:41](https://news.ycombinator.com/item?id=36104547) - [Bcrypt at 25](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
 * [2023-05-28, 14:36:49](https://news.ycombinator.com/item?id=36104346) - [Comparing iPhone 13 vs. iPhone 14 for Astrophotography](https://www.diyphotography.net/comparing-iphone-13-vs-iphone-14-for-astrophotography/)
-* [2023-05-28, 14:18:29](https://news.ycombinator.com/item?id=36104195) - [Mastering CSS blend modes](https://www.kodingkitty.com/blog/blend-modes/)
 * [2023-05-28, 13:59:32](https://news.ycombinator.com/item?id=36104044) - [The First &#x27;Apple Silicon&#x27; – The Aquarius Processor Project](https://thechipletter.substack.com/p/the-first-apple-silicon-the-aquarius-7cb)
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
