@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-28, 17:31:40](https://news.ycombinator.com/item?id=36106040) - [12 horses die from injuries over the past month at Churchill Downs](https://apnews.com/article/churchill-downs-kentucky-derby-10907d450b3635bf73423f25f4cede0a)
+* [2023-05-28, 17:31:54](https://news.ycombinator.com/item?id=36106044) - [Ian Hacking, Eminent Philosopher of Science and Much Else, Dies at 87](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 * [2023-05-28, 16:43:45](https://news.ycombinator.com/item?id=36105641) - [Ford Will Use Tesla EV Charging, but That&#x27;s Only Part of the Story](https://www.caranddriver.com/news/a44016347/ford-tesla-ev-charging-opinion/)
 * [2023-05-28, 16:43:27](https://news.ycombinator.com/item?id=36105637) - [JeanHeyd Meneide&#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
