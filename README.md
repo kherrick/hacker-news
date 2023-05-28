@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-28, 22:58:13](https://news.ycombinator.com/item?id=36108611) - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
-* [2023-05-28, 21:55:44](https://news.ycombinator.com/item?id=36108182) - [Profit-Obsessed Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
 * [2023-05-28, 20:54:38](https://news.ycombinator.com/item?id=36107703) - [State of Space-Based Solar Radiation Management [pdf]](https://static1.squarespace.com/static/60d495bac7a14f7e7507d20b/t/640f43622e4d792d408acfee/1678721894552/PSF+-+State+of+Space+-+Print+Version.pdf)
 * [2023-05-28, 20:48:32](https://news.ycombinator.com/item?id=36107651) - [A measles vaccine painlessly delivered via sticker shows promising early results](https://www.npr.org/sections/goatsandsoda/2023/05/26/1177678380/virtually-ouch-free-promising-early-data-on-a-measles-vaccine-delivered-via-stic)
 * [2023-05-28, 20:47:29](https://news.ycombinator.com/item?id=36107640) - [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
@@ -10,6 +9,7 @@
 * [2023-05-28, 19:00:36](https://news.ycombinator.com/item?id=36106741) - [Music Company Asks Google to Delist &#x27;YouTube Downloader&#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
 * [2023-05-28, 18:53:17](https://news.ycombinator.com/item?id=36106695) - [Apache Baremaps: online maps toolkit](https://baremaps.apache.org/)
 * [2023-05-28, 18:18:53](https://news.ycombinator.com/item?id=36106421) - [How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
+* [2023-05-28, 18:06:31](https://news.ycombinator.com/item?id=36106320) - [The C Interpreter: A Tutorial for Cin (1988)](https://www.tuhs.org/cgi-bin/utree.pl?file=V10/vol2/cin/cin.m)
 * [2023-05-28, 18:00:41](https://news.ycombinator.com/item?id=36106267) - [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 * [2023-05-28, 17:51:12](https://news.ycombinator.com/item?id=36106196) - [io_uring support for libuv – 8x increase in throughput](https://github.com/libuv/libuv/pull/3952)
 * [2023-05-28, 17:50:16](https://news.ycombinator.com/item?id=36106193) - [Tom Hanks on the Rewards and “Vicious Reality” of Making Movies](https://www.newyorker.com/culture/the-new-yorker-interview/tom-hanks-on-the-rewards-and-vicious-reality-of-making-movies)
