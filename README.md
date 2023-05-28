@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-28, 04:06:50](https://news.ycombinator.com/item?id=36101029) - [Inner workings revealed for “Predator,” Android malware that exploited 5 0-days](https://arstechnica.com/information-technology/2023/05/inner-workings-revealed-for-predator-the-android-malware-that-exploited-5-0-days/)
+* [2023-05-28, 03:58:56](https://news.ycombinator.com/item?id=36100994) - [Private Spies Hired by FBI and Corporations Infiltrate Discord, Reddit, WhatsApp](https://www.leefang.com/p/private-spies-hired-by-the-fbi-and)
 * [2023-05-28, 03:09:42](https://news.ycombinator.com/item?id=36100808) - [Ask HN: My GPT project has become a local hit but I can&#x27;t afford the bill](https://news.ycombinator.com/item?id=36100808)
 * [2023-05-28, 03:05:11](https://news.ycombinator.com/item?id=36100786) - [Creating a sperm or egg from any cell? Reproduction revolution on the horizon](https://www.npr.org/sections/health-shots/2023/05/27/1177191913/sperm-or-egg-in-lab-breakthrough-in-reproduction-designer-babies-ivg)
 * [2023-05-28, 02:56:20](https://news.ycombinator.com/item?id=36100732) - [Former Dolphin Team Member Addresses Steam&#x2F;Valve&#x27;s Takedown of Dolphin Emulator](https://mastodon.delroth.net/@delroth/110440301402516214)
@@ -7,7 +9,6 @@
 * [2023-05-28, 02:37:54](https://news.ycombinator.com/item?id=36100626) - [Southern accents could cost job seekers a 20% wage penalty, study finds](https://www.foxbusiness.com/economy/southern-accents-could-cost-job-seekers-20-wage-penalty-study-finds)
 * [2023-05-28, 00:01:54](https://news.ycombinator.com/item?id=36099721) - [Couple May Need to Pay $250k to Have Banksy Mural Removed from Their Home](https://www.artnews.com/art-news/news/couple-may-pay-removal-banksy-home-1234669604/)
 * [2023-05-27, 22:57:01](https://news.ycombinator.com/item?id=36099242) - [A relay that changed the power industry](https://spectrum.ieee.org/relay-changed-the-power-industry)
-* [2023-05-27, 21:28:08](https://news.ycombinator.com/item?id=36098511) - [Hacking Around ChatGPT’s Character Limits with the Code Interpreter](https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f)
 * [2023-05-27, 21:25:41](https://news.ycombinator.com/item?id=36098488) - [No_color](https://no-color.org/)
 * [2023-05-27, 21:13:35](https://news.ycombinator.com/item?id=36098382) - [How to mitigate risk from secrets leaks](https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps)
 * [2023-05-27, 20:08:43](https://news.ycombinator.com/item?id=36097777) - [TV doctors say annual checkups save lives – real doctors call bullshit (2016)](https://www.vox.com/science-and-health/2016/9/26/13029358/annual-physical-tv-doctors-america)
@@ -20,7 +21,6 @@
 * [2023-05-27, 17:09:11](https://news.ycombinator.com/item?id=36096343) - [The HTTP QUERY Method specification](https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html)
 * [2023-05-27, 17:05:04](https://news.ycombinator.com/item?id=36096305) - [Introduction to Algorithms: A Creative Approach by Udi Manber [pdf]](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf)
 * [2023-05-27, 14:20:29](https://news.ycombinator.com/item?id=36095032) - [Defining a new HTTP method: HTTP Search (2021)](https://httptoolkit.com/blog/http-search-method/)
-* [2023-05-27, 13:46:44](https://news.ycombinator.com/item?id=36094799) - [Oxidizing OCaml: Locality](https://blog.janestreet.com/oxidizing-ocaml-locality/)
 * [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 05:27:53](https://news.ycombinator.com/item?id=36092303) - [19th century painters may have primed their canvases with beer-brewing leftovers](https://www.sciencenews.org/article/painting-beer-brew-yeast-art-canvas-denmark)
 * [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is this octopus having a nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
