@@ -26,6 +26,7 @@
 * [2023-05-26, 18:49:11](https://news.ycombinator.com/item?id=36088159) - [The reality of Wayland input methods in 2022 (2022)](https://nimfsoft.art/blog/the-reality-of-wayland-input-methods-in-2022/)
 * [2023-05-26, 18:47:34](https://news.ycombinator.com/item?id=36088135) - [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)
 * [2023-05-26, 18:40:24](https://news.ycombinator.com/item?id=36088052) - [Safety of the BNT162b2 Covid-19 Vaccine in Children Aged 5 to 17 Years](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2805184)
+* [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Free Lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
 * [2023-05-26, 18:17:53](https://news.ycombinator.com/item?id=36087804) - [Ispace Announces Results of the “Hakuto-R” Mission 1 Lunar Landing](https://ispace-inc.com/news-en/?p=4691)
 * [2023-05-26, 17:50:15](https://news.ycombinator.com/item?id=36087464) - [Modern SAT solvers: fast, neat and underused (2018)](https://codingnest.com/modern-sat-solvers-fast-neat-underused-part-1-of-n/)
 * [2023-05-26, 17:48:12](https://news.ycombinator.com/item?id=36087442) - [Paper Airplane Designs](https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2)
