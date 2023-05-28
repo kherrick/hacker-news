@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-28, 19:51:26",
+      "https://news.ycombinator.com/item?id=36107154"
+    ],
+    [
+      "Steel Bank Common Lisp 2.3.5 released",
+      "https://sbcl.org/news.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-28, 19:50:21",
+      "https://news.ycombinator.com/item?id=36107139"
+    ],
+    [
+      "The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It",
+      "https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it"
+    ]
+  ],
+  [
+    [
       "2023-05-28, 19:28:29",
       "https://news.ycombinator.com/item?id=36106942"
     ],
@@ -77,6 +97,16 @@
     [
       "io_uring support for libuv – 8x increase in throughput",
       "https://github.com/libuv/libuv/pull/3952"
+    ]
+  ],
+  [
+    [
+      "2023-05-28, 17:50:16",
+      "https://news.ycombinator.com/item?id=36106193"
+    ],
+    [
+      "Tom Hanks on the Rewards and “Vicious Reality” of Making Movies",
+      "https://www.newyorker.com/culture/the-new-yorker-interview/tom-hanks-on-the-rewards-and-vicious-reality-of-making-movies"
     ]
   ],
   [
@@ -231,32 +261,12 @@
   ],
   [
     [
-      "2023-05-28, 09:53:10",
-      "https://news.ycombinator.com/item?id=36102610"
-    ],
-    [
-      "Show HN: HNRelevant – Show related HN submissions in an integrated sidebar",
-      "https://github.com/imdj/HNRelevant"
-    ]
-  ],
-  [
-    [
       "2023-05-28, 09:12:51",
       "https://news.ycombinator.com/item?id=36102406"
     ],
     [
       "ARM’s Cortex A53: Tiny but Important",
       "https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 08:25:07",
-      "https://news.ycombinator.com/item?id=36102176"
-    ],
-    [
-      "UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking",
-      "https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Kings Grew Pale",
       "https://www.lrb.co.uk/the-paper/v45/n11/neal-ascherson/kings-grew-pale"
-    ]
-  ],
-  [
-    [
-      "2023-05-27, 16:45:47",
-      "https://news.ycombinator.com/item?id=36096119"
-    ],
-    [
-      "Identity Crisis – A Tale of DevRel",
-      "https://www.dewanahmed.com/identity-crisis-devrel/"
     ]
   ]
 ]
