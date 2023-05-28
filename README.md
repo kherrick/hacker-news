@@ -5,7 +5,6 @@
 * [2023-05-28, 20:47:29](https://news.ycombinator.com/item?id=36107640) - [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
 * [2023-05-28, 19:51:26](https://news.ycombinator.com/item?id=36107154) - [Steel Bank Common Lisp 2.3.5 released](https://sbcl.org/news.html)
 * [2023-05-28, 19:50:21](https://news.ycombinator.com/item?id=36107139) - [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
-* [2023-05-28, 19:28:29](https://news.ycombinator.com/item?id=36106942) - [Rust: The wrong people are resigning](https://gist.github.com/fasterthanlime/42da9378768aebef662dd26dddf04849)
 * [2023-05-28, 19:24:51](https://news.ycombinator.com/item?id=36106925) - [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
 * [2023-05-28, 19:00:36](https://news.ycombinator.com/item?id=36106741) - [Music Company Asks Google to Delist &#x27;YouTube Downloader&#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
 * [2023-05-28, 18:53:17](https://news.ycombinator.com/item?id=36106695) - [Apache Baremaps: online maps toolkit](https://baremaps.apache.org/)
@@ -28,6 +27,7 @@
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
+* [2023-05-28, 08:02:49](https://news.ycombinator.com/item?id=36102082) - [Mirages: On Anthropomorphism in Dialogue Systems](https://arxiv.org/abs/2305.09800)
 * [2023-05-27, 22:36:25](https://news.ycombinator.com/item?id=36099098) - [Bread Board Wristwatch (2017)](https://ingep.net/breadboardwatch/)
 * [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 

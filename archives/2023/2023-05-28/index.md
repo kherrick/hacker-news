@@ -54,6 +54,7 @@
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)
 * [2023-05-28, 08:25:07](https://news.ycombinator.com/item?id=36102176) - [UMD Study Finds Brain Connectivity, Memory Improves in Adults After Walking](https://sph.umd.edu/news/umd-study-finds-brain-connectivity-memory-improves-older-adults-after-walking)
 * [2023-05-28, 08:16:17](https://news.ycombinator.com/item?id=36102141) - [US debt ceiling: Democrats and Republicans agree deal in principle](https://www.bbc.com/news/world-us-canada-65736734)
+* [2023-05-28, 08:02:49](https://news.ycombinator.com/item?id=36102082) - [Mirages: On Anthropomorphism in Dialogue Systems](https://arxiv.org/abs/2305.09800)
 * [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
 * [2023-05-28, 06:59:19](https://news.ycombinator.com/item?id=36101784) - [A good day with Jeff Bezos](https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524)
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)
