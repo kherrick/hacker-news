@@ -24,7 +24,7 @@
 * [2023-05-27, 11:54:48](https://news.ycombinator.com/item?id=36093954) - [Scar tissues make relationships wear out (2013)](https://gist.github.com/gtallen1187/27a585fcf36d6e657db2)
 * [2023-05-27, 04:56:01](https://news.ycombinator.com/item?id=36092179) - [Research Philosophy of Modern Cryptography](https://eprint.iacr.org/2023/715)
 * [2023-05-27, 03:55:26](https://news.ycombinator.com/item?id=36091954) - [Is this octopus having a nightmare?](https://www.nytimes.com/2023/05/25/science/octopus-nightmare-dream.html)
-* [2023-05-26, 21:24:21](https://news.ycombinator.com/item?id=36089683) - [A Novel About Video Games Became a Surprise Best Seller](https://www.nytimes.com/2023/05/26/books/gabrielle-zevin-tomorrow-and-tomorrow-and-tomorrow.html)
+* [2023-05-26, 21:24:21](https://news.ycombinator.com/item?id=36089683) - [A novel about video games became a surprise best seller](https://www.nytimes.com/2023/05/26/books/gabrielle-zevin-tomorrow-and-tomorrow-and-tomorrow.html)
 * [2023-05-26, 21:03:43](https://news.ycombinator.com/item?id=36089479) - [Review of Epictetus: The Complete Works](https://www.lrb.co.uk/the-paper/v45/n11/emily-wilson/i-have-gorgeous-hair)
 * [2023-05-26, 19:04:56](https://news.ycombinator.com/item?id=36088323) - [Requirements (2007)](https://ericsink.com/articles/Requirements.html)
 * [2023-05-26, 18:34:14](https://news.ycombinator.com/item?id=36087982) - [Real Property Disposition: Historic lighthouses](https://disposal.gsa.gov/s/lighthouseprogram)
