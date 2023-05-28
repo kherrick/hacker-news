@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-28, 19:00:36](https://news.ycombinator.com/item?id=36106741) - [Music Company Asks Google to Delist &#x27;YouTube Downloader&#x27; Wikipedia Article](https://torrentfreak.com/music-company-asks-google-to-delist-youtube-downloader-wikipedia-article-230528/)
+* [2023-05-28, 18:57:06](https://news.ycombinator.com/item?id=36106716) - [Google Cloud Workstations managed development environment is now GA](https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga)
 * [2023-05-28, 18:18:53](https://news.ycombinator.com/item?id=36106421) - [How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
 * [2023-05-28, 18:06:31](https://news.ycombinator.com/item?id=36106320) - [The C Interpreter: A Tutorial for Cin (1988)](https://www.tuhs.org/cgi-bin/utree.pl?file=V10/vol2/cin/cin.m)
 * [2023-05-28, 17:31:54](https://news.ycombinator.com/item?id=36106044) - [Ian Hacking has died](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
-* [2023-05-28, 16:43:45](https://news.ycombinator.com/item?id=36105641) - [Ford Will Use Tesla EV Charging, but That&#x27;s Only Part of the Story](https://www.caranddriver.com/news/a44016347/ford-tesla-ev-charging-opinion/)
 * [2023-05-28, 16:43:27](https://news.ycombinator.com/item?id=36105637) - [JeanHeyd Meneide&#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
 * [2023-05-28, 16:35:45](https://news.ycombinator.com/item?id=36105572) - [Bayes is guaranteed to overfit](https://www.yulingyao.com/blog/2023/overfit/)
