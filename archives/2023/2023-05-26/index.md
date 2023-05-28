@@ -23,6 +23,7 @@
 * [2023-05-26, 19:44:30](https://news.ycombinator.com/item?id=36088693) - [What if we set GPT-4 free in Minecraft?](https://twitter.com/DrJimFan/status/1662115266933972993)
 * [2023-05-26, 19:42:12](https://news.ycombinator.com/item?id=36088672) - [0AD, an open source historical RTS in development for 22 years](https://play0ad.com/)
 * [2023-05-26, 19:06:59](https://news.ycombinator.com/item?id=36088359) - [Show HN: I made an in-browser code editor with code replay and REPL](https://logicboard.com/demo)
+* [2023-05-26, 19:04:56](https://news.ycombinator.com/item?id=36088323) - [Requirements](https://ericsink.com/articles/Requirements.html)
 * [2023-05-26, 18:55:01](https://news.ycombinator.com/item?id=36088224) - [Can we create a thread for some of the best materials on CS available online?](https://news.ycombinator.com/item?id=36088224)
 * [2023-05-26, 18:49:11](https://news.ycombinator.com/item?id=36088159) - [The reality of Wayland input methods in 2022 (2022)](https://nimfsoft.art/blog/the-reality-of-wayland-input-methods-in-2022/)
 * [2023-05-26, 18:47:34](https://news.ycombinator.com/item?id=36088135) - [Biosphere 2](https://en.wikipedia.org/wiki/Biosphere_2)
