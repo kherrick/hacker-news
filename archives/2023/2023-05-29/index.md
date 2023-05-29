@@ -7,6 +7,7 @@
 * [2023-05-29, 21:04:34](https://news.ycombinator.com/item?id=36118093) - [Death by design patterns, or On the cognitive load of abstractions in the code](https://alentred.medium.com/cognitive-load-of-abstractions-in-the-source-code-20a889a106d4)
 * [2023-05-29, 21:01:13](https://news.ycombinator.com/item?id=36118074) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
 * [2023-05-29, 20:47:30](https://news.ycombinator.com/item?id=36117950) - [My First Superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+* [2023-05-29, 20:39:16](https://news.ycombinator.com/item?id=36117846) - [How much would it have cost if GPT-4 had written your code](https://pypi.org/project/cost-of-code/)
 * [2023-05-29, 20:10:36](https://news.ycombinator.com/item?id=36117558) - [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
 * [2023-05-29, 19:35:28](https://news.ycombinator.com/item?id=36117186) - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
 * [2023-05-29, 19:19:17](https://news.ycombinator.com/item?id=36117037) - [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
