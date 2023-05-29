@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 02:15:47](https://news.ycombinator.com/item?id=36109851) - [My startup crossed $2M&#x2F;yr and now co-founder is going for a power grab](https://news.ycombinator.com/item?id=36109851)
 * [2023-05-29, 00:24:32](https://news.ycombinator.com/item?id=36109193) - [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
 * [2023-05-28, 23:44:08](https://news.ycombinator.com/item?id=36108927) - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
 * [2023-05-28, 22:58:13](https://news.ycombinator.com/item?id=36108611) - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
@@ -22,7 +23,6 @@
 * [2023-05-28, 15:16:54](https://news.ycombinator.com/item?id=36104746) - [Don Bateman, inventor of the GPWS, has died](https://avherald.com/h?article=509ac269)
 * [2023-05-28, 14:57:41](https://news.ycombinator.com/item?id=36104547) - [Bcrypt at 25](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
 * [2023-05-28, 14:04:23](https://news.ycombinator.com/item?id=36104079) - [Requiring banks to issue long-term debt could make customers safer](https://www.reuters.com/breakingviews/how-risky-bank-debt-makes-customers-safer-2023-05-25/)
-* [2023-05-28, 13:44:29](https://news.ycombinator.com/item?id=36103947) - [Process and Reality](https://archive.org/details/AlfredNorthWhiteheadProcessAndReality)
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
 * [2023-05-28, 12:05:55](https://news.ycombinator.com/item?id=36103297) - [The Never Married, a New Normal](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)
