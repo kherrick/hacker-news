@@ -33,6 +33,7 @@
 * [2023-05-28, 16:43:45](https://news.ycombinator.com/item?id=36105641) - [Ford Will Use Tesla EV Charging, but That&#x27;s Only Part of the Story](https://www.caranddriver.com/news/a44016347/ford-tesla-ev-charging-opinion/)
 * [2023-05-28, 16:43:27](https://news.ycombinator.com/item?id=36105637) - [JeanHeyd Meneide&#x27;s response to “Why I left Rust”](https://pony.social/@thephd/110446817486174177)
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
+* [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Paper Money Diehards Refuse to Fold](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization Evolves, Not Reverses](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
 * [2023-05-28, 16:35:45](https://news.ycombinator.com/item?id=36105572) - [Bayes is guaranteed to overfit, for any model, any prior, and every data point](https://www.yulingyao.com/blog/2023/overfit/)
 * [2023-05-28, 16:28:50](https://news.ycombinator.com/item?id=36105503) - [Probabilistic Cache Recompute to Defeat Cache Stampedes](https://medium.com/javarevisited/defeat-cache-stampedes-through-probabilistic-cache-recompute-algorithm-d4150f56a52b)
