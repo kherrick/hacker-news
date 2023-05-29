@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 19:35:28](https://news.ycombinator.com/item?id=36117186) - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
 * [2023-05-29, 19:09:59](https://news.ycombinator.com/item?id=36116937) - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
 * [2023-05-29, 19:05:27](https://news.ycombinator.com/item?id=36116885) - [31 Billionaires are worth more than the US Treasury has in cash](https://www.cnn.com/2023/05/29/investing/billionaires-debt-ceiling/index.html)
 * [2023-05-29, 18:56:20](https://news.ycombinator.com/item?id=36116777) - [Why I don&#x27;t need to clean up my desktop and downloads folder](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
@@ -21,9 +22,11 @@
 * [2023-05-29, 16:07:53](https://news.ycombinator.com/item?id=36115231) - [Heavy electric trucks cheaper than diesel goods trucks](https://www.chalmers.se/en/current/news/e2-heavy-electric-trucks-cheaper-than-diesel-goods-trucks/)
 * [2023-05-29, 15:48:36](https://news.ycombinator.com/item?id=36115062) - [As rising oceans threaten NYC, study documents another risk: The city is sinking](https://apnews.com/article/new-york-sinking-sea-level-rise-77c92f3603e90d7322b54e339d085abb)
 * [2023-05-29, 15:45:42](https://news.ycombinator.com/item?id=36115034) - [‘Massive’ Tesla leak reveals data breaches, thousands of safety complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
+* [2023-05-29, 15:29:58](https://news.ycombinator.com/item?id=36114896) - [Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere](https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere)
 * [2023-05-29, 15:14:52](https://news.ycombinator.com/item?id=36114775) - [Rheinmetall pilot project for curb stone chargers for EVs](https://www.rheinmetall.com/en/media/news-watch/news/2023/mai/2023-05-16-rheinmetall-launches-first-pilot-project-for-innovative-curb-stone-chargers)
 * [2023-05-29, 15:09:44](https://news.ycombinator.com/item?id=36114723) - [ACLU demand CA cops stop sharing location data with cops in anti-abortion states](https://www.eff.org/press/releases/civil-liberties-groups-demand-california-police-stop-sharing-drivers-location-data)
 * [2023-05-29, 14:59:38](https://news.ycombinator.com/item?id=36114641) - [Software bugs that cause real-world harm](https://pointersgonewild.com/2023/05/29/software-bugs-that-cause-real-world-harm/)
+* [2023-05-29, 14:52:14](https://news.ycombinator.com/item?id=36114562) - [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 * [2023-05-29, 14:09:58](https://news.ycombinator.com/item?id=36114147) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 13:38:23](https://news.ycombinator.com/item?id=36113828) - [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
 * [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
