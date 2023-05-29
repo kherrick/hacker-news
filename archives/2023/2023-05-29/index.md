@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
 * [2023-05-29, 08:20:34](https://news.ycombinator.com/item?id=36111886) - [Microsoft has made Azure Linux generally available](https://www.theregister.com/2023/05/26/microsoft_azure_linux_container/)
+* [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
 * [2023-05-29, 08:09:47](https://news.ycombinator.com/item?id=36111823) - [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
 * [2023-05-29, 07:54:44](https://news.ycombinator.com/item?id=36111750) - [No A&#x2F;C? No problem, if buildings copy networked tunnels of termite mounds](https://arstechnica.com/science/2023/05/intricate-tunnels-of-termite-mounds-could-be-key-to-energy-efficient-buildings/)
 * [2023-05-29, 07:27:20](https://news.ycombinator.com/item?id=36111596) - [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
