@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-29, 04:35:44",
+      "https://news.ycombinator.com/item?id=36110684"
+    ],
+    [
+      "Commodore 64 Web server [video]",
+      "https://www.youtube.com/watch?v=O2cMnxShCVQ"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 04:13:45",
+      "https://news.ycombinator.com/item?id=36110576"
+    ],
+    [
+      "Everything You Want to Know About Media Queries and Responsive Design",
+      "https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/"
+    ]
+  ],
+  [
+    [
       "2023-05-29, 04:03:29",
       "https://news.ycombinator.com/item?id=36110527"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36109193"
     ],
     [
-      "WordPress Turns 20",
+      "WP20 and Audrey Scholars",
       "https://ma.tt/2023/05/wp20-audrey-scholars/"
     ]
   ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=36106196"
     ],
     [
-      "io_uring support for libuv – 8x increase in throughput",
+      "Libuv: io_uring support",
       "https://github.com/libuv/libuv/pull/3952"
     ]
   ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-05-28, 13:27:19",
-      "https://news.ycombinator.com/item?id=36103801"
-    ],
-    [
-      "Octopuses are building small “cities” off the coast of Australia (2017)",
-      "https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/"
-    ]
-  ],
-  [
-    [
       "2023-05-28, 13:18:49",
       "https://news.ycombinator.com/item?id=36103728"
     ],
@@ -277,16 +287,6 @@
     [
       "Mirages: On Anthropomorphism in Dialogue Systems",
       "https://arxiv.org/abs/2305.09800"
-    ]
-  ],
-  [
-    [
-      "2023-05-27, 22:36:25",
-      "https://news.ycombinator.com/item?id=36099098"
-    ],
-    [
-      "Bread Board Wristwatch (2017)",
-      "https://ingep.net/breadboardwatch/"
     ]
   ],
   [
