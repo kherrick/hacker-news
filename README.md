@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 12:32:58](https://news.ycombinator.com/item?id=36113331) - [Ask HN: What are the most reliable tech sites in east and south Asia?](https://news.ycombinator.com/item?id=36113331)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
 * [2023-05-29, 10:45:33](https://news.ycombinator.com/item?id=36112641) - [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles Rolling on Circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
@@ -21,7 +22,6 @@
 * [2023-05-28, 22:40:43](https://news.ycombinator.com/item?id=36108486) - [DESKTOP2 – A Graphical User Interface for DOS](http://www.mevis-research.de/~ritter/awakeideas/desktop.html)
 * [2023-05-28, 19:50:21](https://news.ycombinator.com/item?id=36107139) - [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
 * [2023-05-28, 19:24:51](https://news.ycombinator.com/item?id=36106925) - [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
-* [2023-05-28, 18:18:53](https://news.ycombinator.com/item?id=36106421) - [How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
 * [2023-05-28, 18:00:41](https://news.ycombinator.com/item?id=36106267) - [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 * [2023-05-28, 17:51:12](https://news.ycombinator.com/item?id=36106196) - [Libuv – Linux: io_uring support](https://github.com/libuv/libuv/pull/3952)
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization Evolves, Not Reverses](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)

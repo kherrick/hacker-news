@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 12:32:58](https://news.ycombinator.com/item?id=36113331) - [Ask HN: What are the most reliable tech sites in east and south Asia?](https://news.ycombinator.com/item?id=36113331)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
 * [2023-05-29, 10:45:33](https://news.ycombinator.com/item?id=36112641) - [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)
 * [2023-05-29, 09:15:30](https://news.ycombinator.com/item?id=36112176) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
