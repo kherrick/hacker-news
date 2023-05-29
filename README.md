@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 16:07:53](https://news.ycombinator.com/item?id=36115231) - [Heavy electric trucks cheaper than diesel goods trucks](https://www.chalmers.se/en/current/news/e2-heavy-electric-trucks-cheaper-than-diesel-goods-trucks/)
 * [2023-05-29, 14:09:58](https://news.ycombinator.com/item?id=36114147) - [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 13:38:23](https://news.ycombinator.com/item?id=36113828) - [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
 * [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
@@ -21,7 +22,6 @@
 * [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
 * [2023-05-29, 07:44:15](https://news.ycombinator.com/item?id=36111683) - [Cloudflare Workers Introduces Connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 07:27:20](https://news.ycombinator.com/item?id=36111596) - [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
-* [2023-05-29, 04:35:44](https://news.ycombinator.com/item?id=36110684) - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
 * [2023-05-29, 04:35:15](https://news.ycombinator.com/item?id=36110680) - [Fitting 44% More Data on a C64&#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
 * [2023-05-29, 04:26:15](https://news.ycombinator.com/item?id=36110629) - [How much does it cost to develop and manufacture an electronic product? (2022)](https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/)
 * [2023-05-29, 04:13:45](https://news.ycombinator.com/item?id=36110576) - [Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
