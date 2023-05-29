@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 09:15:30](https://news.ycombinator.com/item?id=36112176) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
 * [2023-05-29, 08:09:47](https://news.ycombinator.com/item?id=36111823) - [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
 * [2023-05-29, 07:54:44](https://news.ycombinator.com/item?id=36111750) - [No A&#x2F;C? No problem, if buildings copy networked tunnels of termite mounds](https://arstechnica.com/science/2023/05/intricate-tunnels-of-termite-mounds-could-be-key-to-energy-efficient-buildings/)
@@ -23,7 +24,6 @@
 * [2023-05-28, 18:57:06](https://news.ycombinator.com/item?id=36106716) - [Google Cloud Workstations managed development environment is now GA](https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga)
 * [2023-05-28, 18:53:17](https://news.ycombinator.com/item?id=36106695) - [Apache Baremaps: online maps toolkit](https://baremaps.apache.org/)
 * [2023-05-28, 18:18:53](https://news.ycombinator.com/item?id=36106421) - [How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
-* [2023-05-28, 18:00:41](https://news.ycombinator.com/item?id=36106267) - [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
 * [2023-05-28, 12:45:59](https://news.ycombinator.com/item?id=36103530) - [In every country people think others are less happy than they themselves say](https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png)
