@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-05-29, 07:44:15",
+      "https://news.ycombinator.com/item?id=36111683"
+    ],
+    [
+      "Cloudflare Workers Introduces Connect() API to Create TCP Sockets",
+      "https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/"
+    ]
+  ],
+  [
+    [
       "2023-05-29, 07:27:20",
       "https://news.ycombinator.com/item?id=36111596"
     ],
@@ -227,16 +237,6 @@
     [
       "Libuv – Linux: io_uring support",
       "https://github.com/libuv/libuv/pull/3952"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 17:31:54",
-      "https://news.ycombinator.com/item?id=36106044"
-    ],
-    [
-      "Ian Hacking has died",
-      "https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html"
     ]
   ],
   [
