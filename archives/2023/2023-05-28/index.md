@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-28](index.md)
 
+* [2023-05-28, 23:44:08](https://news.ycombinator.com/item?id=36108927) - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
 * [2023-05-28, 22:58:13](https://news.ycombinator.com/item?id=36108611) - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
+* [2023-05-28, 22:56:32](https://news.ycombinator.com/item?id=36108599) - [Illinois to Become First State to Ban Book Bans](https://bookriot.com/illinois-to-become-first-state-to-ban-book-bans/)
 * [2023-05-28, 21:55:44](https://news.ycombinator.com/item?id=36108182) - [Profit-Obsessed Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
 * [2023-05-28, 21:47:38](https://news.ycombinator.com/item?id=36108114) - [Ask HN: Did students lose interest in electronics as a hobby in the early 80s?](https://news.ycombinator.com/item?id=36108114)
 * [2023-05-28, 21:10:25](https://news.ycombinator.com/item?id=36107818) - [New KAUST tandem solar cell breaks efficiency world record](https://newatlas.com/energy/kaust-tandem-solar-cell-efficiency-world-record/)
+* [2023-05-28, 21:08:28](https://news.ycombinator.com/item?id=36107796) - [Functional Programming in Lean – a book on using Lean 4 to write programs](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-05-28, 20:54:38](https://news.ycombinator.com/item?id=36107703) - [State of Space-Based Solar Radiation Management [pdf]](https://static1.squarespace.com/static/60d495bac7a14f7e7507d20b/t/640f43622e4d792d408acfee/1678721894552/PSF+-+State+of+Space+-+Print+Version.pdf)
 * [2023-05-28, 20:48:32](https://news.ycombinator.com/item?id=36107651) - [A measles vaccine painlessly delivered via sticker shows promising early results](https://www.npr.org/sections/goatsandsoda/2023/05/26/1177678380/virtually-ouch-free-promising-early-data-on-a-measles-vaccine-delivered-via-stic)
 * [2023-05-28, 20:47:29](https://news.ycombinator.com/item?id=36107640) - [MediaMTX: Zero-dependency server for live video and audio streams](https://console.substack.com/i/123681644/mediamtx)
