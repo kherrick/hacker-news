@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
+* [2023-05-29, 17:47:35](https://news.ycombinator.com/item?id=36116189) - [MITx Differential Equations starts May 31](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/)
 * [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
 * [2023-05-29, 17:28:35](https://news.ycombinator.com/item?id=36116018) - [Tesla rethinks the assembly line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
 * [2023-05-29, 16:27:40](https://news.ycombinator.com/item?id=36115413) - [System76 Virgo Aims to Be the Quietest yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
 * [2023-05-29, 16:16:13](https://news.ycombinator.com/item?id=36115321) - [Joker is a small interpreted dialect of Clojure written in Go](https://joker-lang.org/)
+* [2023-05-29, 16:12:22](https://news.ycombinator.com/item?id=36115283) - [One Click Deepfake](https://github.com/s0md3v/roop)
 * [2023-05-29, 15:48:36](https://news.ycombinator.com/item?id=36115062) - [As rising oceans threaten NYC, study documents another risk: The city is sinking](https://apnews.com/article/new-york-sinking-sea-level-rise-77c92f3603e90d7322b54e339d085abb)
-* [2023-05-29, 15:14:52](https://news.ycombinator.com/item?id=36114775) - [Rheinmetall pilot project for curb stone chargers for EVs](https://www.rheinmetall.com/en/media/news-watch/news/2023/mai/2023-05-16-rheinmetall-launches-first-pilot-project-for-innovative-curb-stone-chargers)
 * [2023-05-29, 14:59:38](https://news.ycombinator.com/item?id=36114641) - [Software bugs that cause real-world harm](https://pointersgonewild.com/2023/05/29/software-bugs-that-cause-real-world-harm/)
 * [2023-05-29, 14:09:58](https://news.ycombinator.com/item?id=36114147) - [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
@@ -15,7 +17,6 @@
 * [2023-05-29, 12:49:41](https://news.ycombinator.com/item?id=36113432) - [Deus Ex – Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)
 * [2023-05-29, 12:49:11](https://news.ycombinator.com/item?id=36113430) - [300ms Faster: Reducing Wikipedia&#x27;s Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 * [2023-05-29, 12:33:19](https://news.ycombinator.com/item?id=36113335) - [Open Source provided the path to achieve our publishing goals](https://systemsapproach.substack.com/p/escape-from-big-publishing)
-* [2023-05-29, 12:31:26](https://news.ycombinator.com/item?id=36113324) - [A Coder in Courierland (2005)](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
 * [2023-05-29, 12:30:13](https://news.ycombinator.com/item?id=36113307) - [Amprius High-Density Batteries Go Aloft](https://www.eetimes.com/amprius-high-density-batteries-go-aloft/)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing the support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
@@ -29,7 +30,6 @@
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [1914 Silent Film Considered Lost Forever. A Professor Rescued It from a Vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 14:11:02](https://news.ycombinator.com/item?id=36104128) - [Architecture 4031: Introductory Coreboot](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch4031_x86-64_RV_coreboot+2021_v1/about)
 * [2023-05-28, 09:52:59](https://news.ycombinator.com/item?id=36102608) - [What deserves our attention?](https://deliberati.io/what-deserves-our-attention/)
-* [2023-05-28, 09:25:33](https://news.ycombinator.com/item?id=36102460) - [Let&#x27;s make a Teeny Tiny compiler (2020)](https://austinhenley.com/blog/teenytinycompiler1.html)
 
 ## [Archives](archives/index.md)
 
