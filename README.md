@@ -2,9 +2,8 @@
 
 * [2023-05-29, 19:35:28](https://news.ycombinator.com/item?id=36117186) - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
 * [2023-05-29, 19:09:59](https://news.ycombinator.com/item?id=36116937) - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
-* [2023-05-29, 18:56:20](https://news.ycombinator.com/item?id=36116777) - [I don&#x27;t need to clean up my desktop and downloads folders in macOS (2021)](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
 * [2023-05-29, 18:54:53](https://news.ycombinator.com/item?id=36116762) - [GDP is the wrong tool for measuring what matters (2020)](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
-* [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
+* [2023-05-29, 18:13:16](https://news.ycombinator.com/item?id=36116430) - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
 * [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
 * [2023-05-29, 16:16:13](https://news.ycombinator.com/item?id=36115321) - [Joker is a small interpreted dialect of Clojure written in Go](https://joker-lang.org/)
 * [2023-05-29, 15:29:58](https://news.ycombinator.com/item?id=36114896) - [Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere](https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere)
@@ -20,6 +19,7 @@
 * [2023-05-29, 12:31:26](https://news.ycombinator.com/item?id=36113324) - [A Coder in Courierland (2005)](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
+* [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles rolling on circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 * [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
