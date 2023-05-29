@@ -1,12 +1,92 @@
 [
   [
     [
+      "2023-05-29, 13:06:00",
+      "https://news.ycombinator.com/item?id=36113564"
+    ],
+    [
+      "Show HN: A weekly newsletter that explain tech terms in plain, everyday language",
+      "https://codictionary.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 13:04:39",
+      "https://news.ycombinator.com/item?id=36113551"
+    ],
+    [
+      "India ruling party&#x27;s IT cell used AI to show smile on arrested protesters&#x27; faces",
+      "https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 13:03:05",
+      "https://news.ycombinator.com/item?id=36113542"
+    ],
+    [
+      "Hardening Drupal with WebAssembly",
+      "https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 13:02:14",
+      "https://news.ycombinator.com/item?id=36113534"
+    ],
+    [
+      "Winning the AI Products Arms Race",
+      "https://www.reforge.com/blog/ai-products-arms-race"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 12:52:48",
+      "https://news.ycombinator.com/item?id=36113453"
+    ],
+    [
+      "India’s Olympics medalist female wrestlers detained while protesting against SA",
+      "https://twitter.com/SakshiMalik/status/1662729269532065792"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 12:50:41",
+      "https://news.ycombinator.com/item?id=36113444"
+    ],
+    [
+      "The UX Research Reckoning is Here",
+      "https://medium.com/onebigthought/the-ux-research-reckoning-is-here-c63710ea4084"
+    ]
+  ],
+  [
+    [
       "2023-05-29, 12:32:58",
       "https://news.ycombinator.com/item?id=36113331"
     ],
     [
       "Ask HN: What are the most reliable tech sites in east and south Asia?",
       "https://news.ycombinator.com/item?id=36113331"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 12:31:26",
+      "https://news.ycombinator.com/item?id=36113324"
+    ],
+    [
+      "A Coder in Courierland (2005)",
+      "https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 12:30:13",
+      "https://news.ycombinator.com/item?id=36113307"
+    ],
+    [
+      "Amprius High-Density Batteries Go Aloft",
+      "https://www.eetimes.com/amprius-high-density-batteries-go-aloft/"
     ]
   ],
   [
@@ -81,16 +161,6 @@
   ],
   [
     [
-      "2023-05-29, 06:45:28",
-      "https://news.ycombinator.com/item?id=36111392"
-    ],
-    [
-      "The coordinate system for an infinite spreadsheet",
-      "https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet"
-    ]
-  ],
-  [
-    [
       "2023-05-29, 04:35:44",
       "https://news.ycombinator.com/item?id=36110684"
     ],
@@ -151,26 +221,6 @@
   ],
   [
     [
-      "2023-05-29, 02:29:47",
-      "https://news.ycombinator.com/item?id=36109916"
-    ],
-    [
-      "New Arm cores deliver up to 40% better performance",
-      "https://www.phonescoop.com/articles/article.php?a=23023"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 00:24:32",
-      "https://news.ycombinator.com/item?id=36109193"
-    ],
-    [
-      "WP20 and Audrey Scholars",
-      "https://ma.tt/2023/05/wp20-audrey-scholars/"
-    ]
-  ],
-  [
-    [
       "2023-05-28, 23:44:08",
       "https://news.ycombinator.com/item?id=36108927"
     ],
@@ -191,52 +241,12 @@
   ],
   [
     [
-      "2023-05-28, 19:50:21",
-      "https://news.ycombinator.com/item?id=36107139"
-    ],
-    [
-      "The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)",
-      "https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it"
-    ]
-  ],
-  [
-    [
       "2023-05-28, 19:24:51",
       "https://news.ycombinator.com/item?id=36106925"
     ],
     [
       "Health officials delayed report linking fluoride to brain harm",
       "https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 18:18:53",
-      "https://news.ycombinator.com/item?id=36106421"
-    ],
-    [
-      "How to Get Started with Tree-Sitter",
-      "https://www.masteringemacs.org/article/how-to-get-started-tree-sitter"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 18:00:41",
-      "https://news.ycombinator.com/item?id=36106267"
-    ],
-    [
-      "Lua: The Little Language That Could",
-      "https://matt.blwt.io/post/lua-the-little-language-that-could/"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 17:51:12",
-      "https://news.ycombinator.com/item?id=36106196"
-    ],
-    [
-      "Libuv – Linux: io_uring support",
-      "https://github.com/libuv/libuv/pull/3952"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Head-Trapped – Descartes, Dawkins, Hobbes, Marx, Mill, Darwin",
       "https://www.medialens.org/2023/head-trapped-descartes-dawkins-hobbes-marx-mill-darwin-and-the-myth-of-western-civilisation/"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 12:45:59",
-      "https://news.ycombinator.com/item?id=36103530"
-    ],
-    [
-      "In every country people think others are less happy than they themselves say (2017)",
-      "https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png"
     ]
   ],
   [
