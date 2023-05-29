@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
 * [2023-05-29, 09:15:30](https://news.ycombinator.com/item?id=36112176) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
+* [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles Rolling on Circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
 * [2023-05-29, 08:20:34](https://news.ycombinator.com/item?id=36111886) - [Microsoft has made Azure Linux generally available](https://www.theregister.com/2023/05/26/microsoft_azure_linux_container/)
 * [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
 * [2023-05-29, 08:09:47](https://news.ycombinator.com/item?id=36111823) - [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
