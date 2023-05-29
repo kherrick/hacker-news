@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 22:50:59](https://news.ycombinator.com/item?id=36119042) - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
 * [2023-05-29, 22:29:38](https://news.ycombinator.com/item?id=36118856) - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 * [2023-05-29, 22:23:59](https://news.ycombinator.com/item?id=36118807) - [Texas Passes Ban on DEI Offices and Tenure Reform at Public Universities](https://thetexan.news/texas-legislature-passes-ban-on-dei-offices-and-tenure-reform-at-public-universities/)
 * [2023-05-29, 22:10:46](https://news.ycombinator.com/item?id=36118707) - [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
