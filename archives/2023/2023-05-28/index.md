@@ -36,6 +36,7 @@
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization Evolves, Not Reverses](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
 * [2023-05-28, 16:35:45](https://news.ycombinator.com/item?id=36105572) - [Bayes is guaranteed to overfit, for any model, any prior, and every data point](https://www.yulingyao.com/blog/2023/overfit/)
 * [2023-05-28, 16:28:50](https://news.ycombinator.com/item?id=36105503) - [Probabilistic Cache Recompute to Defeat Cache Stampedes](https://medium.com/javarevisited/defeat-cache-stampedes-through-probabilistic-cache-recompute-algorithm-d4150f56a52b)
+* [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [1914 Silent Film Considered Lost Forever. A Professor Rescued It from a Vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 16:06:17](https://news.ycombinator.com/item?id=36105263) - [Stuxnet (2010) [pdf]](https://www.wired.com/images_blogs/threatlevel/2010/11/w32_stuxnet_dossier.pdf)
 * [2023-05-28, 15:46:35](https://news.ycombinator.com/item?id=36105077) - [Vitamin D: Potent regulator of dopaminergic neuron differentiation and function](https://onlinelibrary.wiley.com/doi/10.1111/jnc.15829)
 * [2023-05-28, 15:46:27](https://news.ycombinator.com/item?id=36105074) - [Landmark infinite context transformer paper just dropped](https://arxiv.org/abs/2305.16300)

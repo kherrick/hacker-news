@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
 * [2023-05-29, 10:45:33](https://news.ycombinator.com/item?id=36112641) - [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles Rolling on Circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
 * [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
@@ -18,18 +19,17 @@
 * [2023-05-29, 00:24:32](https://news.ycombinator.com/item?id=36109193) - [WP20 and Audrey Scholars](https://ma.tt/2023/05/wp20-audrey-scholars/)
 * [2023-05-28, 23:44:08](https://news.ycombinator.com/item?id=36108927) - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
 * [2023-05-28, 22:40:43](https://news.ycombinator.com/item?id=36108486) - [DESKTOP2 – A Graphical User Interface for DOS](http://www.mevis-research.de/~ritter/awakeideas/desktop.html)
-* [2023-05-28, 21:08:28](https://news.ycombinator.com/item?id=36107796) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-05-28, 19:50:21](https://news.ycombinator.com/item?id=36107139) - [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
 * [2023-05-28, 19:24:51](https://news.ycombinator.com/item?id=36106925) - [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
+* [2023-05-28, 18:18:53](https://news.ycombinator.com/item?id=36106421) - [How to Get Started with Tree-Sitter](https://www.masteringemacs.org/article/how-to-get-started-tree-sitter)
 * [2023-05-28, 18:00:41](https://news.ycombinator.com/item?id=36106267) - [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 * [2023-05-28, 17:51:12](https://news.ycombinator.com/item?id=36106196) - [Libuv – Linux: io_uring support](https://github.com/libuv/libuv/pull/3952)
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization Evolves, Not Reverses](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
+* [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [1914 Silent Film Considered Lost Forever. A Professor Rescued It from a Vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 14:22:50](https://news.ycombinator.com/item?id=36104234) - [Head-Trapped – Descartes, Dawkins, Hobbes, Marx, Mill, Darwin](https://www.medialens.org/2023/head-trapped-descartes-dawkins-hobbes-marx-mill-darwin-and-the-myth-of-western-civilisation/)
-* [2023-05-28, 14:01:50](https://news.ycombinator.com/item?id=36104055) - [The Odd Appeal Of Absurdly Long YouTube Videos](https://www.theverge.com/2023/5/28/23738957/youtube-videos-24-hours-blank-screen)
 * [2023-05-28, 12:45:59](https://news.ycombinator.com/item?id=36103530) - [In every country people think others are less happy than they themselves say (2017)](https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png)
 * [2023-05-28, 12:44:50](https://news.ycombinator.com/item?id=36103520) - [When feedback is not a gift](https://softwaredoug.com/blog/2023/05/28/feedback-is-rarely-a-gift.html)
 * [2023-05-28, 09:25:33](https://news.ycombinator.com/item?id=36102460) - [Let&#x27;s make a Teeny Tiny compiler (2020)](https://austinhenley.com/blog/teenytinycompiler1.html)
-* [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 
 ## [Archives](archives/index.md)
 
