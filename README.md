@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-29, 19:35:28](https://news.ycombinator.com/item?id=36117186) - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
+* [2023-05-29, 19:19:17](https://news.ycombinator.com/item?id=36117037) - [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
 * [2023-05-29, 19:09:59](https://news.ycombinator.com/item?id=36116937) - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
 * [2023-05-29, 18:54:53](https://news.ycombinator.com/item?id=36116762) - [GDP is the wrong tool for measuring what matters (2020)](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
 * [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
@@ -17,7 +18,7 @@
 * [2023-05-29, 12:33:19](https://news.ycombinator.com/item?id=36113335) - [Open Source provided the path to achieve our publishing goals](https://systemsapproach.substack.com/p/escape-from-big-publishing)
 * [2023-05-29, 12:31:26](https://news.ycombinator.com/item?id=36113324) - [A Coder in Courierland (2005)](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
-* [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
+* [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely](http://akkartik.name/freewheeling)
 * [2023-05-29, 11:15:25](https://news.ycombinator.com/item?id=36112834) - [Fossil tells the &#x27;tail&#x27; of an ancient beast](https://phys.org/news/2023-05-fossil-tail-ancient-beast.html)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles rolling on circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
@@ -29,7 +30,6 @@
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization is evolving, but does not seem to be reversing](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [A 1914 silent film considered lost was rescued from a vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 09:52:59](https://news.ycombinator.com/item?id=36102608) - [What deserves our attention?](https://deliberati.io/what-deserves-our-attention/)
-* [2023-05-28, 06:59:19](https://news.ycombinator.com/item?id=36101784) - [A good day with Jeff Bezos](https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524)
 
 ## [Archives](archives/index.md)
 

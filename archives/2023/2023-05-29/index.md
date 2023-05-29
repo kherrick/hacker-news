@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
 * [2023-05-29, 19:35:28](https://news.ycombinator.com/item?id=36117186) - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
+* [2023-05-29, 19:19:17](https://news.ycombinator.com/item?id=36117037) - [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
 * [2023-05-29, 19:09:59](https://news.ycombinator.com/item?id=36116937) - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
 * [2023-05-29, 19:05:27](https://news.ycombinator.com/item?id=36116885) - [31 Billionaires are worth more than the US Treasury has in cash](https://www.cnn.com/2023/05/29/investing/billionaires-debt-ceiling/index.html)
 * [2023-05-29, 18:56:20](https://news.ycombinator.com/item?id=36116777) - [Why I don&#x27;t need to clean up my desktop and downloads folder](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
