@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 21:01:13](https://news.ycombinator.com/item?id=36118074) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
 * [2023-05-29, 19:35:28](https://news.ycombinator.com/item?id=36117186) - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
 * [2023-05-29, 19:19:17](https://news.ycombinator.com/item?id=36117037) - [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
 * [2023-05-29, 19:09:59](https://news.ycombinator.com/item?id=36116937) - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
 * [2023-05-29, 18:54:53](https://news.ycombinator.com/item?id=36116762) - [GDP is the wrong tool for measuring what matters (2020)](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
-* [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
 * [2023-05-29, 16:16:13](https://news.ycombinator.com/item?id=36115321) - [Joker is a small interpreted dialect of Clojure written in Go](https://joker-lang.org/)
 * [2023-05-29, 15:29:58](https://news.ycombinator.com/item?id=36114896) - [Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere](https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere)
 * [2023-05-29, 15:14:52](https://news.ycombinator.com/item?id=36114775) - [Rheinmetall pilot project for curb stone chargers for EVs](https://www.rheinmetall.com/en/media/news-watch/news/2023/mai/2023-05-16-rheinmetall-launches-first-pilot-project-for-innovative-curb-stone-chargers)
