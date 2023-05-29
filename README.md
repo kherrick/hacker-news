@@ -26,9 +26,9 @@
 * [2023-05-29, 04:26:15](https://news.ycombinator.com/item?id=36110629) - [How much does it cost to develop and manufacture an electronic product? (2022)](https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/)
 * [2023-05-29, 04:13:45](https://news.ycombinator.com/item?id=36110576) - [Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
 * [2023-05-29, 04:03:29](https://news.ycombinator.com/item?id=36110527) - [Let us serve you, but don&#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
-* [2023-05-29, 03:20:46](https://news.ycombinator.com/item?id=36110253) - [Container Runtimes and WasmEdge benchmarking on Arm](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [1914 Silent Film Considered Lost Forever. A Professor Rescued It from a Vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 14:11:02](https://news.ycombinator.com/item?id=36104128) - [Architecture 4031: Introductory Coreboot](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch4031_x86-64_RV_coreboot+2021_v1/about)
+* [2023-05-28, 09:52:59](https://news.ycombinator.com/item?id=36102608) - [What Deserves Our Attention?](https://deliberati.io/what-deserves-our-attention/)
 * [2023-05-28, 09:25:33](https://news.ycombinator.com/item?id=36102460) - [Let&#x27;s make a Teeny Tiny compiler (2020)](https://austinhenley.com/blog/teenytinycompiler1.html)
 
 ## [Archives](archives/index.md)
