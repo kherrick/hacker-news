@@ -72,6 +72,7 @@
 * [2023-05-28, 12:33:44](https://news.ycombinator.com/item?id=36103453) - [Is Cybersecurity an Unsolvable Problem?](https://arstechnica.com/features/2023/05/is-cybersecurity-an-unsolvable-problem/)
 * [2023-05-28, 12:23:24](https://news.ycombinator.com/item?id=36103392) - [The Art of Making Debts: Accounting for an Obsession in 19th-Century France](https://publicdomainreview.org/essay/the-art-of-making-debts)
 * [2023-05-28, 12:05:55](https://news.ycombinator.com/item?id=36103297) - [The Never Married, a New Normal](https://www.psychologytoday.com/us/blog/magnetic-partners/202305/the-never-married-a-new-normal)
+* [2023-05-28, 10:38:54](https://news.ycombinator.com/item?id=36102865) - [Why Learn Compilers](https://amasad.me/compilers)
 * [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:52:59](https://news.ycombinator.com/item?id=36102608) - [What Deserves Our Attention?](https://deliberati.io/what-deserves-our-attention/)
 * [2023-05-28, 09:46:44](https://news.ycombinator.com/item?id=36102576) - [Show HN: A pixel art puzzle game for mobile using PixiJS](https://pixel-puzzler.playcurious.games/)
