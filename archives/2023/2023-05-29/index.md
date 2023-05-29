@@ -10,6 +10,7 @@
 * [2023-05-29, 13:02:14](https://news.ycombinator.com/item?id=36113534) - [Winning the AI Products Arms Race](https://www.reforge.com/blog/ai-products-arms-race)
 * [2023-05-29, 12:52:48](https://news.ycombinator.com/item?id=36113453) - [India’s Olympics medalist female wrestlers detained while protesting against SA](https://twitter.com/SakshiMalik/status/1662729269532065792)
 * [2023-05-29, 12:50:41](https://news.ycombinator.com/item?id=36113444) - [The UX Research Reckoning is Here](https://medium.com/onebigthought/the-ux-research-reckoning-is-here-c63710ea4084)
+* [2023-05-29, 12:49:41](https://news.ycombinator.com/item?id=36113432) - [Deus Ex – Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)
 * [2023-05-29, 12:32:58](https://news.ycombinator.com/item?id=36113331) - [Ask HN: What are the most reliable tech sites in east and south Asia?](https://news.ycombinator.com/item?id=36113331)
 * [2023-05-29, 12:31:26](https://news.ycombinator.com/item?id=36113324) - [A Coder in Courierland (2005)](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
 * [2023-05-29, 12:30:13](https://news.ycombinator.com/item?id=36113307) - [Amprius High-Density Batteries Go Aloft](https://www.eetimes.com/amprius-high-density-batteries-go-aloft/)

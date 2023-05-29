@@ -51,6 +51,7 @@
 * [2023-05-28, 14:20:02](https://news.ycombinator.com/item?id=36104213) - [SAR Values of Commercially Available Mobile Phones](https://www.bfs.de/SiteGlobals/Forms/Suche/BfS/EN/SARsuche_Formular.html?queryResultId=null&pageNo=0)
 * [2023-05-28, 14:18:29](https://news.ycombinator.com/item?id=36104195) - [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes/)
 * [2023-05-28, 14:15:55](https://news.ycombinator.com/item?id=36104168) - [Eight Graphs That Explain Software Engineering Salaries in 2023](https://spectrum.ieee.org/software-salaries-2023)
+* [2023-05-28, 14:11:28](https://news.ycombinator.com/item?id=36104130) - [Why Frenemies May Be Hazardous to Your Health](https://www.nytimes.com/2023/05/28/opinion/frenemies-relationships-health.html)
 * [2023-05-28, 14:10:31](https://news.ycombinator.com/item?id=36104121) - [The Risk of Fixing Time and Scope in Non-Lean Software Projects](https://fagnerbrack.com/the-risk-of-fixing-time-and-scope-in-non-lean-software-projects-ed3293c0a1c7?gi=3b30d85ab4d6)
 * [2023-05-28, 14:04:23](https://news.ycombinator.com/item?id=36104079) - [Risky bank debt makes customers safer](https://www.reuters.com/breakingviews/how-risky-bank-debt-makes-customers-safer-2023-05-25/)
 * [2023-05-28, 14:01:50](https://news.ycombinator.com/item?id=36104055) - [The Odd Appeal Of Absurdly Long YouTube Videos](https://www.theverge.com/2023/5/28/23738957/youtube-videos-24-hours-blank-screen)
