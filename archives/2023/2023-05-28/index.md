@@ -7,6 +7,7 @@
 * [2023-05-28, 23:44:08](https://news.ycombinator.com/item?id=36108927) - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
 * [2023-05-28, 22:58:13](https://news.ycombinator.com/item?id=36108611) - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
 * [2023-05-28, 22:56:32](https://news.ycombinator.com/item?id=36108599) - [Illinois to Become First State to Ban Book Bans](https://bookriot.com/illinois-to-become-first-state-to-ban-book-bans/)
+* [2023-05-28, 22:40:43](https://news.ycombinator.com/item?id=36108486) - [DESKTOP2 – A Graphical User Interface for DOS](http://www.mevis-research.de/~ritter/awakeideas/desktop.html)
 * [2023-05-28, 21:55:44](https://news.ycombinator.com/item?id=36108182) - [Profit-Obsessed Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
 * [2023-05-28, 21:47:38](https://news.ycombinator.com/item?id=36108114) - [Ask HN: Did students lose interest in electronics as a hobby in the early 80s?](https://news.ycombinator.com/item?id=36108114)
 * [2023-05-28, 21:10:25](https://news.ycombinator.com/item?id=36107818) - [New KAUST tandem solar cell breaks efficiency world record](https://newatlas.com/energy/kaust-tandem-solar-cell-efficiency-world-record/)
