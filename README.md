@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-29, 05:30:14](https://news.ycombinator.com/item?id=36110973) - [Standardized exams measure intrinsic ability, not racial&#x2F;socioeconomic privilege](https://milkyeggs.com/society/standardized-exams-measure-intrinsic-ability-not-racial-or-socioeconomic-privilege/)
 * [2023-05-29, 04:35:44](https://news.ycombinator.com/item?id=36110684) - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
 * [2023-05-29, 04:35:15](https://news.ycombinator.com/item?id=36110680) - [Fitting 44% More Data on a C64&#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
 * [2023-05-29, 04:13:45](https://news.ycombinator.com/item?id=36110576) - [Media Queries and Responsive Design](https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/)
@@ -29,6 +28,7 @@
 * [2023-05-28, 13:36:56](https://news.ycombinator.com/item?id=36103877) - [How Scouts Find the Perfect Film Locations](https://www.ft.com/content/327f3ee4-d3d4-44d3-8027-9b4db7eb512f)
 * [2023-05-28, 13:18:49](https://news.ycombinator.com/item?id=36103728) - [The Future of Consumer SBCs: Has the Pi Bubble Burst? [video]](https://www.youtube.com/watch?v=Hjb3bx6vxnc)
 * [2023-05-28, 12:44:50](https://news.ycombinator.com/item?id=36103520) - [When feedback is not a gift](https://softwaredoug.com/blog/2023/05/28/feedback-is-rarely-a-gift.html)
+* [2023-05-28, 08:02:49](https://news.ycombinator.com/item?id=36102082) - [Mirages: On Anthropomorphism in Dialogue Systems](https://arxiv.org/abs/2305.09800)
 * [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 
 ## [Archives](archives/index.md)
