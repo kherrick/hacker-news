@@ -21,7 +21,7 @@
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
 * [2023-05-28, 15:16:54](https://news.ycombinator.com/item?id=36104746) - [Don Bateman, inventor of the GPWS, has died](https://avherald.com/h?article=509ac269)
 * [2023-05-28, 14:57:41](https://news.ycombinator.com/item?id=36104547) - [Bcrypt at 25](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
-* [2023-05-28, 14:04:23](https://news.ycombinator.com/item?id=36104079) - [Risky bank debt makes customers safer](https://www.reuters.com/breakingviews/how-risky-bank-debt-makes-customers-safer-2023-05-25/)
+* [2023-05-28, 14:04:23](https://news.ycombinator.com/item?id=36104079) - [Requiring banks to issue long-term debt could make customers safer](https://www.reuters.com/breakingviews/how-risky-bank-debt-makes-customers-safer-2023-05-25/)
 * [2023-05-28, 13:44:29](https://news.ycombinator.com/item?id=36103947) - [Process and Reality](https://archive.org/details/AlfredNorthWhiteheadProcessAndReality)
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
