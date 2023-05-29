@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
 * [2023-05-29, 13:06:00](https://news.ycombinator.com/item?id=36113564) - [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
 * [2023-05-29, 13:04:39](https://news.ycombinator.com/item?id=36113551) - [India ruling party&#x27;s IT cell used AI to show smile on arrested protesters&#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
 * [2023-05-29, 13:03:05](https://news.ycombinator.com/item?id=36113542) - [Hardening Drupal with WebAssembly](https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/)

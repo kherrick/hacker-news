@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
 * [2023-05-29, 13:06:00](https://news.ycombinator.com/item?id=36113564) - [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
 * [2023-05-29, 13:04:39](https://news.ycombinator.com/item?id=36113551) - [India ruling party&#x27;s IT cell used AI to show smile on arrested protesters&#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
 * [2023-05-29, 13:03:05](https://news.ycombinator.com/item?id=36113542) - [Hardening Drupal with WebAssembly](https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/)
@@ -23,7 +24,6 @@
 * [2023-05-29, 04:03:29](https://news.ycombinator.com/item?id=36110527) - [Let us serve you, but don&#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
 * [2023-05-29, 03:20:46](https://news.ycombinator.com/item?id=36110253) - [Container Runtimes and WasmEdge benchmarking on Arm](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
 * [2023-05-28, 23:44:08](https://news.ycombinator.com/item?id=36108927) - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
-* [2023-05-28, 19:24:51](https://news.ycombinator.com/item?id=36106925) - [Health officials delayed report linking fluoride to brain harm](https://www.salon.com/2023/03/16/health-officials-delayed-report-linking-fluoride-to-brain-harm_partner/)
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization Evolves, Not Reverses](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [1914 Silent Film Considered Lost Forever. A Professor Rescued It from a Vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 14:22:50](https://news.ycombinator.com/item?id=36104234) - [Head-Trapped – Descartes, Dawkins, Hobbes, Marx, Mill, Darwin](https://www.medialens.org/2023/head-trapped-descartes-dawkins-hobbes-marx-mill-darwin-and-the-myth-of-western-civilisation/)
