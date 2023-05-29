@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 04:03:29](https://news.ycombinator.com/item?id=36110527) - [Let us serve you, but don&#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
 * [2023-05-29, 03:20:46](https://news.ycombinator.com/item?id=36110253) - [The advantage of WASM compared with container runtimes](https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm)
 * [2023-05-29, 02:29:47](https://news.ycombinator.com/item?id=36109916) - [New Arm Cores Deliver Up to 40% Better Performance](https://www.phonescoop.com/articles/article.php?a=23023)
 * [2023-05-29, 00:24:32](https://news.ycombinator.com/item?id=36109193) - [WordPress Turns 20](https://ma.tt/2023/05/wp20-audrey-scholars/)
@@ -28,7 +29,6 @@
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
 * [2023-05-28, 13:18:49](https://news.ycombinator.com/item?id=36103728) - [The Future of Consumer SBCs: Has the Pi Bubble Burst? [video]](https://www.youtube.com/watch?v=Hjb3bx6vxnc)
 * [2023-05-28, 08:02:49](https://news.ycombinator.com/item?id=36102082) - [Mirages: On Anthropomorphism in Dialogue Systems](https://arxiv.org/abs/2305.09800)
-* [2023-05-27, 22:36:25](https://news.ycombinator.com/item?id=36099098) - [Bread Board Wristwatch (2017)](https://ingep.net/breadboardwatch/)
 * [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 
 ## [Archives](archives/index.md)
