@@ -32,6 +32,7 @@
 * [2023-05-27, 18:58:06](https://news.ycombinator.com/item?id=36097246) - [Our model suggests that global deaths remain 5% above pre-Covid forecasts](https://www.economist.com/graphic-detail/2023/05/23/our-model-suggests-that-global-deaths-remain-5-above-pre-covid-forecasts)
 * [2023-05-27, 18:48:40](https://news.ycombinator.com/item?id=36097173) - [Two-thirds of North America at risk of energy shortages during extreme demand [pdf]](https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/NERC_SRA%20Infographic_2023.pdf)
 * [2023-05-27, 18:36:43](https://news.ycombinator.com/item?id=36097082) - [Reflections on Ten Years Past the Snowden Revelations](https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html)
+* [2023-05-27, 18:27:23](https://news.ycombinator.com/item?id=36097000) - [Parfit: A Philosopher and His Mission to Save Morality](https://www.lrb.co.uk/the-paper/v45/n11/stephen-mulhall/non-identity-crisis)
 * [2023-05-27, 18:23:43](https://news.ycombinator.com/item?id=36096966) - [Java Panama Vector API Integrated with Apache Lucene](https://github.com/apache/lucene/pull/12311)
 * [2023-05-27, 18:04:56](https://news.ycombinator.com/item?id=36096811) - [All the Hard Stuff Nobody Talks About When Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-27, 17:46:18](https://news.ycombinator.com/item?id=36096652) - [Watch Tarkovsky&#x27;s Best Films Online for Free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
