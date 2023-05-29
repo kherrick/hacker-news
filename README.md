@@ -2,9 +2,8 @@
 
 * [2023-05-29, 21:04:34](https://news.ycombinator.com/item?id=36118093) - [Death by design patterns, or On the cognitive load of abstractions in the code](https://alentred.medium.com/cognitive-load-of-abstractions-in-the-source-code-20a889a106d4)
 * [2023-05-29, 21:01:13](https://news.ycombinator.com/item?id=36118074) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
-* [2023-05-29, 20:47:30](https://news.ycombinator.com/item?id=36117950) - [My First Superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+* [2023-05-29, 20:47:30](https://news.ycombinator.com/item?id=36117950) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
 * [2023-05-29, 20:10:36](https://news.ycombinator.com/item?id=36117558) - [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
-* [2023-05-29, 19:35:28](https://news.ycombinator.com/item?id=36117186) - [Three Investing Patterns That You Should Know](https://behavioralvalueinvestor.substack.com/p/3-investing-patterns-that-you-should)
 * [2023-05-29, 19:19:17](https://news.ycombinator.com/item?id=36117037) - [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
 * [2023-05-29, 19:09:59](https://news.ycombinator.com/item?id=36116937) - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
 * [2023-05-29, 18:54:53](https://news.ycombinator.com/item?id=36116762) - [GDP is the wrong tool for measuring what matters (2020)](https://www.scientificamerican.com/article/gdp-is-the-wrong-tool-for-measuring-what-matters/)
@@ -29,6 +28,7 @@
 * [2023-05-29, 07:44:15](https://news.ycombinator.com/item?id=36111683) - [Connect() – a new API for creating TCP sockets from Cloudflare Workers](https://blog.cloudflare.com/workers-tcp-socket-api-connect-databases/)
 * [2023-05-29, 07:27:20](https://news.ycombinator.com/item?id=36111596) - [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
+* [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization is evolving, but does not seem to be reversing](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [A 1914 silent film considered lost was rescued from a vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 
 ## [Archives](archives/index.md)
