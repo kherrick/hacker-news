@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 15:09:44](https://news.ycombinator.com/item?id=36114723) - [ACLU demand CA cops stop sharing location data with cops in anti-abortion states](https://www.eff.org/press/releases/civil-liberties-groups-demand-california-police-stop-sharing-drivers-location-data)
 * [2023-05-29, 14:09:58](https://news.ycombinator.com/item?id=36114147) - [C++17’s Useful Features for Embedded Systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 13:38:23](https://news.ycombinator.com/item?id=36113828) - [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
 * [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
