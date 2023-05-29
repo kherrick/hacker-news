@@ -24,12 +24,12 @@
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely](http://akkartik.name/freewheeling)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
-* [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
 * [2023-05-28, 20:45:00](https://news.ycombinator.com/item?id=36107619) - [Chocolate and the Steam Engine (2014)](https://chocolateclass.wordpress.com/2014/03/14/chocolate-and-the-steam-engine/)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization is evolving, but does not seem to be reversing](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [A 1914 silent film considered lost was rescued from a vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 10:38:54](https://news.ycombinator.com/item?id=36102865) - [Why Learn Compilers](https://amasad.me/compilers)
+* [2023-05-28, 08:10:20](https://news.ycombinator.com/item?id=36102116) - [Journey and lessons from running a mirroring service at home](https://quantum5.ca/2023/05/28/introducing-my-own-mirroring-service-mirror.quantum5.ca/)
 
 ## [Archives](archives/index.md)
 
