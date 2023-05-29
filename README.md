@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-29, 22:23:59](https://news.ycombinator.com/item?id=36118807) - [Texas Passes Ban on DEI Offices and Tenure Reform at Public Universities](https://thetexan.news/texas-legislature-passes-ban-on-dei-offices-and-tenure-reform-at-public-universities/)
+* [2023-05-29, 22:29:38](https://news.ycombinator.com/item?id=36118856) - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 * [2023-05-29, 21:04:34](https://news.ycombinator.com/item?id=36118093) - [Death by design patterns, or On the cognitive load of abstractions in the code](https://alentred.medium.com/cognitive-load-of-abstractions-in-the-source-code-20a889a106d4)
 * [2023-05-29, 21:01:13](https://news.ycombinator.com/item?id=36118074) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
 * [2023-05-29, 20:47:30](https://news.ycombinator.com/item?id=36117950) - [My first superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
@@ -16,7 +16,6 @@
 * [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
 * [2023-05-29, 12:49:41](https://news.ycombinator.com/item?id=36113432) - [Deus Ex – Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)
 * [2023-05-29, 12:49:11](https://news.ycombinator.com/item?id=36113430) - [300ms Faster: Reducing Wikipedia&#x27;s total blocking time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
-* [2023-05-29, 12:31:26](https://news.ycombinator.com/item?id=36113324) - [A Coder in Courierland (2005)](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely](http://akkartik.name/freewheeling)
 * [2023-05-29, 11:15:25](https://news.ycombinator.com/item?id=36112834) - [Fossil tells the &#x27;tail&#x27; of an ancient beast](https://phys.org/news/2023-05-fossil-tail-ancient-beast.html)
@@ -30,6 +29,7 @@
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization is evolving, but does not seem to be reversing](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [A 1914 silent film considered lost was rescued from a vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
+* [2023-05-28, 08:10:20](https://news.ycombinator.com/item?id=36102116) - [Journey and lessons from running a mirroring service at home](https://quantum5.ca/2023/05/28/introducing-my-own-mirroring-service-mirror.quantum5.ca/)
 
 ## [Archives](archives/index.md)
 
