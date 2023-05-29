@@ -52,6 +52,7 @@
 * [2023-05-28, 13:59:32](https://news.ycombinator.com/item?id=36104044) - [The First &#x27;Apple Silicon&#x27; – The Aquarius Processor Project](https://thechipletter.substack.com/p/the-first-apple-silicon-the-aquarius-7cb)
 * [2023-05-28, 13:44:29](https://news.ycombinator.com/item?id=36103947) - [Process and Reality](https://archive.org/details/AlfredNorthWhiteheadProcessAndReality)
 * [2023-05-28, 13:44:27](https://news.ycombinator.com/item?id=36103946) - [Build Your Own Lisp](https://buildyourownlisp.com/)
+* [2023-05-28, 13:36:56](https://news.ycombinator.com/item?id=36103877) - [How Scouts Find the Perfect Film Locations](https://www.ft.com/content/327f3ee4-d3d4-44d3-8027-9b4db7eb512f)
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Why octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
 * [2023-05-28, 13:18:49](https://news.ycombinator.com/item?id=36103728) - [The Future of Consumer SBCs: Has the Pi Bubble Burst?](https://www.youtube.com/watch?v=Hjb3bx6vxnc)
