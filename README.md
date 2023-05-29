@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 17:28:35](https://news.ycombinator.com/item?id=36116018) - [Tesla Rethinks the Assembly Line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
 * [2023-05-29, 16:27:40](https://news.ycombinator.com/item?id=36115413) - [System76 Virgo Aims to Be the Quietest yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
 * [2023-05-29, 15:48:36](https://news.ycombinator.com/item?id=36115062) - [As rising oceans threaten NYC, study documents another risk: The city is sinking](https://apnews.com/article/new-york-sinking-sea-level-rise-77c92f3603e90d7322b54e339d085abb)
 * [2023-05-29, 15:45:42](https://news.ycombinator.com/item?id=36115034) - [‘Massive’ Tesla leak reveals data breaches, thousands of safety complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
@@ -10,7 +11,6 @@
 * [2023-05-29, 13:06:00](https://news.ycombinator.com/item?id=36113564) - [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
 * [2023-05-29, 13:04:39](https://news.ycombinator.com/item?id=36113551) - [India ruling party&#x27;s IT cell used AI to show smile on arrested protesters&#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
 * [2023-05-29, 13:03:05](https://news.ycombinator.com/item?id=36113542) - [Hardening Drupal with WebAssembly](https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/)
-* [2023-05-29, 13:02:14](https://news.ycombinator.com/item?id=36113534) - [How to build AI products people want](https://www.reforge.com/blog/ai-products-arms-race)
 * [2023-05-29, 12:49:41](https://news.ycombinator.com/item?id=36113432) - [Deus Ex – Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)
 * [2023-05-29, 12:49:11](https://news.ycombinator.com/item?id=36113430) - [300ms Faster: Reducing Wikipedia&#x27;s Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 * [2023-05-29, 12:33:19](https://news.ycombinator.com/item?id=36113335) - [Open Source provided the path to achieve our publishing goals](https://systemsapproach.substack.com/p/escape-from-big-publishing)

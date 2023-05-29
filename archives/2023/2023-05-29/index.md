@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 17:28:35](https://news.ycombinator.com/item?id=36116018) - [Tesla Rethinks the Assembly Line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
 * [2023-05-29, 16:27:40](https://news.ycombinator.com/item?id=36115413) - [System76 Virgo Aims to Be the Quietest yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
 * [2023-05-29, 16:07:53](https://news.ycombinator.com/item?id=36115231) - [Heavy electric trucks cheaper than diesel goods trucks](https://www.chalmers.se/en/current/news/e2-heavy-electric-trucks-cheaper-than-diesel-goods-trucks/)
 * [2023-05-29, 15:48:36](https://news.ycombinator.com/item?id=36115062) - [As rising oceans threaten NYC, study documents another risk: The city is sinking](https://apnews.com/article/new-york-sinking-sea-level-rise-77c92f3603e90d7322b54e339d085abb)
