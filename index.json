@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-05-29, 08:19:46",
-      "https://news.ycombinator.com/item?id=36111878"
-    ],
-    [
-      "Donut: OCR-Free Document Understanding Transformer",
-      "https://github.com/clovaai/donut"
-    ]
-  ],
-  [
-    [
       "2023-05-28, 20:45:00",
       "https://news.ycombinator.com/item?id=36107619"
     ],
@@ -297,6 +287,16 @@
     [
       "Why Learn Compilers",
       "https://amasad.me/compilers"
+    ]
+  ],
+  [
+    [
+      "2023-05-28, 08:10:20",
+      "https://news.ycombinator.com/item?id=36102116"
+    ],
+    [
+      "Journey and lessons from running a mirroring service at home",
+      "https://quantum5.ca/2023/05/28/introducing-my-own-mirroring-service-mirror.quantum5.ca/"
     ]
   ]
 ]
