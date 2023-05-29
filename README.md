@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 06:45:28](https://news.ycombinator.com/item?id=36111392) - [The coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 04:35:44](https://news.ycombinator.com/item?id=36110684) - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
 * [2023-05-29, 04:35:15](https://news.ycombinator.com/item?id=36110680) - [Fitting 44% More Data on a C64&#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
 * [2023-05-29, 04:26:15](https://news.ycombinator.com/item?id=36110629) - [How much does it cost to develop and manufacture an electronic product? (2022)](https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/)
@@ -11,7 +12,6 @@
 * [2023-05-28, 23:44:08](https://news.ycombinator.com/item?id=36108927) - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
 * [2023-05-28, 22:58:13](https://news.ycombinator.com/item?id=36108611) - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
 * [2023-05-28, 22:40:43](https://news.ycombinator.com/item?id=36108486) - [DESKTOP2 – A Graphical User Interface for DOS](http://www.mevis-research.de/~ritter/awakeideas/desktop.html)
-* [2023-05-28, 21:55:44](https://news.ycombinator.com/item?id=36108182) - [Private Equity Is Now Dominating the US Hospice System](https://jacobin.com/2023/05/private-equity-hospice-care-profit-regulation)
 * [2023-05-28, 21:08:28](https://news.ycombinator.com/item?id=36107796) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-05-28, 20:48:32](https://news.ycombinator.com/item?id=36107651) - [A measles vaccine painlessly delivered via sticker shows promising early results](https://www.npr.org/sections/goatsandsoda/2023/05/26/1177678380/virtually-ouch-free-promising-early-data-on-a-measles-vaccine-delivered-via-stic)
 * [2023-05-28, 19:50:21](https://news.ycombinator.com/item?id=36107139) - [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
@@ -25,10 +25,10 @@
 * [2023-05-28, 17:31:54](https://news.ycombinator.com/item?id=36106044) - [Ian Hacking has died](https://www.nytimes.com/2023/05/28/science/ian-hacking-dead.html)
 * [2023-05-28, 16:52:04](https://news.ycombinator.com/item?id=36105717) - [The halting problem is decidable on a set of asymptotic probability one (2006)](https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full)
 * [2023-05-28, 16:42:30](https://news.ycombinator.com/item?id=36105629) - [YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube](https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/)
+* [2023-05-28, 14:10:31](https://news.ycombinator.com/item?id=36104121) - [The Risk of Fixing Time and Scope in Non-Lean Software Projects](https://fagnerbrack.com/the-risk-of-fixing-time-and-scope-in-non-lean-software-projects-ed3293c0a1c7?gi=3b30d85ab4d6)
 * [2023-05-28, 13:36:56](https://news.ycombinator.com/item?id=36103877) - [How scouts find the perfect film locations](https://www.ft.com/content/327f3ee4-d3d4-44d3-8027-9b4db7eb512f)
 * [2023-05-28, 12:45:59](https://news.ycombinator.com/item?id=36103530) - [In every country people think others are less happy than they themselves say](https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png)
 * [2023-05-28, 12:44:50](https://news.ycombinator.com/item?id=36103520) - [When feedback is not a gift](https://softwaredoug.com/blog/2023/05/28/feedback-is-rarely-a-gift.html)
-* [2023-05-28, 08:02:49](https://news.ycombinator.com/item?id=36102082) - [Mirages: On Anthropomorphism in Dialogue Systems](https://arxiv.org/abs/2305.09800)
 * [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 
 ## [Archives](archives/index.md)
