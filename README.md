@@ -2,6 +2,7 @@
 
 * [2023-05-29, 18:39:52](https://news.ycombinator.com/item?id=36116650) - [Tell HN: It&#x27;s 2023 and you still can&#x27;t import .ics files into iOS Calendar app](https://news.ycombinator.com/item?id=36116650)
 * [2023-05-29, 18:13:16](https://news.ycombinator.com/item?id=36116430) - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
+* [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
 * [2023-05-29, 17:47:35](https://news.ycombinator.com/item?id=36116189) - [MITx Differential Equations starts May 31](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/)
 * [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
 * [2023-05-29, 17:28:35](https://news.ycombinator.com/item?id=36116018) - [Tesla rethinks the assembly line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
@@ -12,7 +13,6 @@
 * [2023-05-29, 14:59:38](https://news.ycombinator.com/item?id=36114641) - [Software bugs that cause real-world harm](https://pointersgonewild.com/2023/05/29/software-bugs-that-cause-real-world-harm/)
 * [2023-05-29, 14:09:58](https://news.ycombinator.com/item?id=36114147) - [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
-* [2023-05-29, 13:06:00](https://news.ycombinator.com/item?id=36113564) - [Show HN: A weekly newsletter that explain tech terms in plain, everyday language](https://codictionary.com/)
 * [2023-05-29, 13:04:39](https://news.ycombinator.com/item?id=36113551) - [India ruling party&#x27;s IT cell used AI to show smile on arrested protesters&#x27; faces](https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/)
 * [2023-05-29, 12:49:41](https://news.ycombinator.com/item?id=36113432) - [Deus Ex – Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)
 * [2023-05-29, 12:49:11](https://news.ycombinator.com/item?id=36113430) - [300ms Faster: Reducing Wikipedia&#x27;s Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
