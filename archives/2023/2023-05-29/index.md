@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 10:45:33](https://news.ycombinator.com/item?id=36112641) - [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)
 * [2023-05-29, 09:15:30](https://news.ycombinator.com/item?id=36112176) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles Rolling on Circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
 * [2023-05-29, 08:20:34](https://news.ycombinator.com/item?id=36111886) - [Microsoft has made Azure Linux generally available](https://www.theregister.com/2023/05/26/microsoft_azure_linux_container/)
