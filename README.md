@@ -16,7 +16,6 @@
 * [2023-05-29, 02:29:47](https://news.ycombinator.com/item?id=36109916) - [New Arm cores deliver up to 40% better performance](https://www.phonescoop.com/articles/article.php?a=23023)
 * [2023-05-29, 00:24:32](https://news.ycombinator.com/item?id=36109193) - [WP20 and Audrey Scholars](https://ma.tt/2023/05/wp20-audrey-scholars/)
 * [2023-05-28, 23:44:08](https://news.ycombinator.com/item?id=36108927) - [Easy Effects: Audio effects for PipeWire applications](https://github.com/wwmm/easyeffects)
-* [2023-05-28, 22:58:13](https://news.ycombinator.com/item?id=36108611) - [Group accused in $225K &#x27;dice sliding&#x27; cheating scheme at Las Vegas casino](https://www.8newsnow.com/investigators/group-accused-in-225k-dice-sliding-cheating-scheme-at-las-vegas-casino/)
 * [2023-05-28, 22:40:43](https://news.ycombinator.com/item?id=36108486) - [DESKTOP2 – A Graphical User Interface for DOS](http://www.mevis-research.de/~ritter/awakeideas/desktop.html)
 * [2023-05-28, 21:08:28](https://news.ycombinator.com/item?id=36107796) - [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
 * [2023-05-28, 19:50:21](https://news.ycombinator.com/item?id=36107139) - [The Mysterious 50 Ohm Impedance: Where It Came from and Why We Use It (2021)](https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it)
@@ -30,6 +29,7 @@
 * [2023-05-28, 12:45:59](https://news.ycombinator.com/item?id=36103530) - [In every country people think others are less happy than they themselves say](https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png)
 * [2023-05-28, 12:44:50](https://news.ycombinator.com/item?id=36103520) - [When feedback is not a gift](https://softwaredoug.com/blog/2023/05/28/feedback-is-rarely-a-gift.html)
 * [2023-05-28, 09:25:33](https://news.ycombinator.com/item?id=36102460) - [Let&#x27;s make a Teeny Tiny compiler (2020)](https://austinhenley.com/blog/teenytinycompiler1.html)
+* [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 
 ## [Archives](archives/index.md)
 
