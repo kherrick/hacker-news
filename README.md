@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-29, 09:15:30](https://news.ycombinator.com/item?id=36112176) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles Rolling on Circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
 * [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
 * [2023-05-29, 08:09:47](https://news.ycombinator.com/item?id=36111823) - [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
@@ -29,6 +28,7 @@
 * [2023-05-28, 12:45:59](https://news.ycombinator.com/item?id=36103530) - [In every country people think others are less happy than they themselves say (2017)](https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png)
 * [2023-05-28, 12:44:50](https://news.ycombinator.com/item?id=36103520) - [When feedback is not a gift](https://softwaredoug.com/blog/2023/05/28/feedback-is-rarely-a-gift.html)
 * [2023-05-28, 09:25:33](https://news.ycombinator.com/item?id=36102460) - [Let&#x27;s make a Teeny Tiny compiler (2020)](https://austinhenley.com/blog/teenytinycompiler1.html)
+* [2023-05-28, 08:02:49](https://news.ycombinator.com/item?id=36102082) - [Mirages: On Anthropomorphism in Dialogue Systems](https://arxiv.org/abs/2305.09800)
 * [2023-05-27, 19:04:04](https://news.ycombinator.com/item?id=36097281) - [Landauer&#x27;s Principle](https://en.wikipedia.org/wiki/Landauer%27s_principle)
 
 ## [Archives](archives/index.md)
