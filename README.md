@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-29, 18:56:20](https://news.ycombinator.com/item?id=36116777) - [Why I don&#x27;t need to clean up my desktop and downloads folder](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
 * [2023-05-29, 18:13:16](https://news.ycombinator.com/item?id=36116430) - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
 * [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
@@ -24,7 +25,6 @@
 * [2023-05-29, 07:44:15](https://news.ycombinator.com/item?id=36111683) - [Cloudflare Workers Introduces Connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 07:27:20](https://news.ycombinator.com/item?id=36111596) - [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
 * [2023-05-29, 04:35:15](https://news.ycombinator.com/item?id=36110680) - [Fitting 44% More Data on a C64&#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)
-* [2023-05-29, 04:03:29](https://news.ycombinator.com/item?id=36110527) - [Let us serve you, but don&#x27;t bring us down](https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [1914 Silent Film Considered Lost Forever. A Professor Rescued It from a Vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
 * [2023-05-28, 14:11:02](https://news.ycombinator.com/item?id=36104128) - [Architecture 4031: Introductory Coreboot](https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch4031_x86-64_RV_coreboot+2021_v1/about)

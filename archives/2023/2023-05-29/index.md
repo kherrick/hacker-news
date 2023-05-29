@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 18:56:20](https://news.ycombinator.com/item?id=36116777) - [Why I don&#x27;t need to clean up my desktop and downloads folder](https://www.stefanjudis.com/blog/why-i-dont-need-to-clean-up-my-desktop-and-downloads-folder-in-macos/)
 * [2023-05-29, 18:39:52](https://news.ycombinator.com/item?id=36116650) - [Tell HN: It&#x27;s 2023 and you still can&#x27;t import .ics files into iOS Calendar app](https://news.ycombinator.com/item?id=36116650)
 * [2023-05-29, 18:13:16](https://news.ycombinator.com/item?id=36116430) - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
