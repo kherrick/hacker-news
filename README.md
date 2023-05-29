@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-29, 22:50:59](https://news.ycombinator.com/item?id=36119042) - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
+* [2023-05-29, 22:35:10](https://news.ycombinator.com/item?id=36118913) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 * [2023-05-29, 22:29:38](https://news.ycombinator.com/item?id=36118856) - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 * [2023-05-29, 22:10:46](https://news.ycombinator.com/item?id=36118707) - [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
 * [2023-05-29, 21:04:34](https://news.ycombinator.com/item?id=36118093) - [Death by design patterns, or On the cognitive load of abstractions in the code](https://alentred.medium.com/cognitive-load-of-abstractions-in-the-source-code-20a889a106d4)
@@ -20,7 +21,6 @@
 * [2023-05-29, 12:31:26](https://news.ycombinator.com/item?id=36113324) - [A Coder in Courierland (2005)](https://web.archive.org/web/20050322021208/http://www.kuro5hin.org/story/2005/3/19/133129/548)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely](http://akkartik.name/freewheeling)
-* [2023-05-29, 11:15:25](https://news.ycombinator.com/item?id=36112834) - [Fossil tells the &#x27;tail&#x27; of an ancient beast](https://phys.org/news/2023-05-fossil-tail-ancient-beast.html)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles rolling on circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
