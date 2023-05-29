@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
 * [2023-05-29, 08:20:34](https://news.ycombinator.com/item?id=36111886) - [Microsoft has made Azure Linux generally available](https://www.theregister.com/2023/05/26/microsoft_azure_linux_container/)
+* [2023-05-29, 08:09:47](https://news.ycombinator.com/item?id=36111823) - [AI will slightly drain the swamp of higher ed](https://betonit.substack.com/p/how-ai-will-change-higher-education)
 * [2023-05-29, 07:54:44](https://news.ycombinator.com/item?id=36111750) - [No A&#x2F;C? No problem, if buildings copy networked tunnels of termite mounds](https://arstechnica.com/science/2023/05/intricate-tunnels-of-termite-mounds-could-be-key-to-energy-efficient-buildings/)
+* [2023-05-29, 07:27:20](https://news.ycombinator.com/item?id=36111596) - [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
 * [2023-05-29, 06:45:28](https://news.ycombinator.com/item?id=36111392) - [The coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 05:30:14](https://news.ycombinator.com/item?id=36110973) - [Standardized exams measure intrinsic ability, not racial&#x2F;socioeconomic privilege](https://milkyeggs.com/society/standardized-exams-measure-intrinsic-ability-not-racial-or-socioeconomic-privilege/)
 * [2023-05-29, 04:35:44](https://news.ycombinator.com/item?id=36110684) - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
