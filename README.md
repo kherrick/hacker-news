@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-29, 16:27:40](https://news.ycombinator.com/item?id=36115413) - [System76 Virgo Aims to Be the Quietest yet Most Performant Linux Laptop](https://www.phoronix.com/news/System76-Virgo-Quiet-Perform)
-* [2023-05-29, 16:07:53](https://news.ycombinator.com/item?id=36115231) - [Heavy electric trucks cheaper than diesel goods trucks](https://www.chalmers.se/en/current/news/e2-heavy-electric-trucks-cheaper-than-diesel-goods-trucks/)
 * [2023-05-29, 15:48:36](https://news.ycombinator.com/item?id=36115062) - [As rising oceans threaten NYC, study documents another risk: The city is sinking](https://apnews.com/article/new-york-sinking-sea-level-rise-77c92f3603e90d7322b54e339d085abb)
 * [2023-05-29, 15:45:42](https://news.ycombinator.com/item?id=36115034) - [‘Massive’ Tesla leak reveals data breaches, thousands of safety complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
 * [2023-05-29, 15:14:52](https://news.ycombinator.com/item?id=36114775) - [Rheinmetall pilot project for curb stone chargers for EVs](https://www.rheinmetall.com/en/media/news-watch/news/2023/mai/2023-05-16-rheinmetall-launches-first-pilot-project-for-innovative-curb-stone-chargers)
@@ -19,6 +18,7 @@
 * [2023-05-29, 12:30:13](https://news.ycombinator.com/item?id=36113307) - [Amprius High-Density Batteries Go Aloft](https://www.eetimes.com/amprius-high-density-batteries-go-aloft/)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing the support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
+* [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A Terminal Case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 * [2023-05-29, 08:47:29](https://news.ycombinator.com/item?id=36112030) - [Arcade Authorship – High Score Table Credits](https://thehistoryofhowweplay.wordpress.com/2023/05/14/arcade-authorship-high-score-table-credits/)
 * [2023-05-29, 08:39:37](https://news.ycombinator.com/item?id=36111993) - [The Statistics Handbook (free culture LaTeX handbook)](https://github.com/carloocchiena/the_statistics_handbook)
 * [2023-05-29, 08:19:46](https://news.ycombinator.com/item?id=36111878) - [Donut: OCR-Free Document Understanding Transformer](https://github.com/clovaai/donut)
