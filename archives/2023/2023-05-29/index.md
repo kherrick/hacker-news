@@ -31,6 +31,7 @@
 * [2023-05-29, 18:13:16](https://news.ycombinator.com/item?id=36116430) - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [The metaverse was never alive in the first place](https://www.fastcompany.com/90893969/metaverse-was-never-alive-in-first-place)
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
+* [2023-05-29, 17:47:38](https://news.ycombinator.com/item?id=36116192) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs](https://arxiv.org/abs/2305.12784)
 * [2023-05-29, 17:47:35](https://news.ycombinator.com/item?id=36116189) - [MITx Differential Equations starts May 31](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/)
 * [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
 * [2023-05-29, 17:28:35](https://news.ycombinator.com/item?id=36116018) - [Tesla Rethinks the Assembly Line](https://www.assemblymag.com/articles/97788-tesla-rethinks-the-assembly-line)
