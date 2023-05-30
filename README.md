@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-30, 15:54:15](https://news.ycombinator.com/item?id=36126343) - [EU achieved independence from Russian fossil fuels](https://insightnews.media/eu-achieved-independence-from-russian-fossil-fuels/)
 * [2023-05-30, 15:44:24](https://news.ycombinator.com/item?id=36126198) - [401(k) Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)
 * [2023-05-30, 15:36:32](https://news.ycombinator.com/item?id=36126097) - [React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
 * [2023-05-30, 15:30:35](https://news.ycombinator.com/item?id=36126032) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
@@ -16,7 +17,6 @@
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 * [2023-05-30, 02:56:11](https://news.ycombinator.com/item?id=36120659) - [Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
-* [2023-05-30, 02:32:07](https://news.ycombinator.com/item?id=36120531) - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
 * [2023-05-30, 02:28:23](https://news.ycombinator.com/item?id=36120515) - [The timing of computer search warrants when it takes years to guess the password](https://reason.com/volokh/2023/05/15/the-timing-of-computer-search-warrants-when-it-takes-the-government-several-years-to-guess-the-password/)
 * [2023-05-30, 02:15:15](https://news.ycombinator.com/item?id=36120457) - [How to Stare at Your Phone Without Losing Your Soul](https://simone.org/tracking-screen-time/)
 * [2023-05-29, 22:44:09](https://news.ycombinator.com/item?id=36118990) - [An open-source alternative to QuickBooks](https://bigcapital.ly)
