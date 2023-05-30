@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2023-05-30, 14:07:43",
-      "https://news.ycombinator.com/item?id=36125048"
-    ],
-    [
-      "Nvidia is now a $1T company",
-      "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 13:30:02",
       "https://news.ycombinator.com/item?id=36124659"
     ],
     [
       "Factories in Space",
       "https://www.factoriesinspace.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 13:23:44",
+      "https://news.ycombinator.com/item?id=36124587"
+    ],
+    [
+      "AI Is an Insult Now",
+      "https://www.theatlantic.com/technology/archive/2023/05/ai-as-insult-chatgpt-jokes/674232/"
     ]
   ],
   [
@@ -51,21 +51,11 @@
   ],
   [
     [
-      "2023-05-30, 12:37:40",
-      "https://news.ycombinator.com/item?id=36124090"
-    ],
-    [
-      "North Korea to Launch Military Spy Satellite for Monitoring U.S. Drills",
-      "https://www.cnbc.com/2023/05/30/north-korea-says-it-will-launch-its-first-ever-military-spy-satellite-to-monitor-us-drills.html"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 12:30:49",
       "https://news.ycombinator.com/item?id=36124025"
     ],
     [
-      "Why is Swift so slow (timeout) in compiling this code?",
+      "Why is Swift so slow (timeout) in compiling this code? (2022)",
       "https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36123651"
     ],
     [
-      "Purely Functional Data Structure by Chris Okasaki [pdf]",
+      "Purely Functional Data Structures (1996) [pdf]",
       "https://www.cs.cmu.edu/~rwh/students/okasaki.pdf"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)",
       "https://blainehansen.me/post/macro-ts/"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 02:32:07",
+      "https://news.ycombinator.com/item?id=36120531"
+    ],
+    [
+      "HDF5eis: Storage IO solution for big multidimensional time series sensor data",
+      "https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36096604"
     ],
     [
-      "VR optics and why IPD means too many things",
+      "VR optics and why IPD means too many things (2019)",
       "https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D"
     ]
   ]
