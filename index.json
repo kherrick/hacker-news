@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-30, 12:00:07",
+      "https://news.ycombinator.com/item?id=36123766"
+    ],
+    [
+      "MindsDB (YC W20) Is Hiring a Product Designer",
+      "https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 11:46:44",
+      "https://news.ycombinator.com/item?id=36123670"
+    ],
+    [
+      "The FBI as advanced persistent threat",
+      "https://www.theregister.com/2023/05/30/column/"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 10:08:15",
       "https://news.ycombinator.com/item?id=36123082"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-05-29, 22:59:24",
-      "https://news.ycombinator.com/item?id=36119102"
-    ],
-    [
-      "You can serve static data over HTTP",
-      "https://ignore.pl/you_can_serve_static_data_over_http.html"
-    ]
-  ],
-  [
-    [
       "2023-05-29, 22:50:59",
       "https://news.ycombinator.com/item?id=36119042"
     ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2023-05-29, 21:01:13",
-      "https://news.ycombinator.com/item?id=36118074"
-    ],
-    [
-      "Ivy (YC W23) Is Hiring",
-      "https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com"
-    ]
-  ],
-  [
-    [
       "2023-05-29, 20:47:30",
       "https://news.ycombinator.com/item?id=36117950"
     ],
@@ -197,16 +197,6 @@
     [
       "LHC experiments see first evidence of a rare Higgs boson decay",
       "https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 15:29:58",
-      "https://news.ycombinator.com/item?id=36114896"
-    ],
-    [
-      "Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere",
-      "https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "1999 Game Developers Conference (GDC) Recordings Archive",
       "https://archive.org/details/1999_Game_Developers_Conference_Audio"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 17:41:06",
+      "https://news.ycombinator.com/item?id=36096604"
+    ],
+    [
+      "VR optics and why IPD means too many things",
+      "https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D"
     ]
   ]
 ]
