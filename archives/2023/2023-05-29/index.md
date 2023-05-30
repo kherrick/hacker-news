@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
 * [2023-05-29, 23:07:27](https://news.ycombinator.com/item?id=36119169) - [VanJS: Vanilla JavaScript Reactive UI Framework](https://vanjs.org/)
+* [2023-05-29, 22:59:24](https://news.ycombinator.com/item?id=36119102) - [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
 * [2023-05-29, 22:50:59](https://news.ycombinator.com/item?id=36119042) - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
 * [2023-05-29, 22:44:09](https://news.ycombinator.com/item?id=36118990) - [An open-source alternative to QuickBooks](https://bigcapital.ly)
 * [2023-05-29, 22:35:50](https://news.ycombinator.com/item?id=36118918) - [Ask HN: Tired of being a software engineer, what next?](https://news.ycombinator.com/item?id=36118918)
@@ -26,6 +27,7 @@
 * [2023-05-29, 18:39:52](https://news.ycombinator.com/item?id=36116650) - [Tell HN: It&#x27;s 2023 and you still can&#x27;t import .ics files into iOS Calendar app](https://news.ycombinator.com/item?id=36116650)
 * [2023-05-29, 18:39:49](https://news.ycombinator.com/item?id=36116648) - [Professor assigns ChatGPT-prompted essays to highlight hallucinated info](https://twitter.com/cwhowell123/status/1662501821133254656)
 * [2023-05-29, 18:13:16](https://news.ycombinator.com/item?id=36116430) - [Nvidia&#x27;s next DGX supercomputer is all about generative AI](https://www.tomshardware.com/news/nvidia-unveils-dgx-gh200-supercomputer-and-mgx-systems-grace-hopper-superchips-in-production)
+* [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [The metaverse was never alive in the first place](https://www.fastcompany.com/90893969/metaverse-was-never-alive-in-first-place)
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [Hold the postmortem: The metaverse was never alive in the first place](https://fastcompanyme.com/technology/hold-the-postmortem-the-metaverse-was-never-alive-in-the-first-place/)
 * [2023-05-29, 17:47:35](https://news.ycombinator.com/item?id=36116189) - [MITx Differential Equations starts May 31](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.03.1x/)
 * [2023-05-29, 17:36:23](https://news.ycombinator.com/item?id=36116091) - [Filial Piety in Chinese Culture (2016)](https://china-journal.org/2016/03/14/filial-piety-in-chinese-culture/)
