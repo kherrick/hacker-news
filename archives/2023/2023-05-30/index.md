@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 11:04:00](https://news.ycombinator.com/item?id=36123420) - [World Cup security guards still jailed in Qatar after dispute over unpaid wages](https://www.theguardian.com/global-development/2023/may/26/world-cup-security-guards-still-jailed-in-qatar-after-dispute-over-unpaid-wages)
 * [2023-05-30, 08:02:12](https://news.ycombinator.com/item?id=36122270) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 * [2023-05-30, 07:18:14](https://news.ycombinator.com/item?id=36122016) - [Twitter&#x27;s Algorithm: Amplifying Anger, Animosity, and Affective Polarization](https://arxiv.org/abs/2305.16941)
 * [2023-05-30, 06:52:08](https://news.ycombinator.com/item?id=36121876) - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
