@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
 * [2023-05-30, 17:00:01](https://news.ycombinator.com/item?id=36127321) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-05-30, 16:57:59](https://news.ycombinator.com/item?id=36127288) - [Show HN: If you have over 99 tabs in Firefox mobile, you will get an infinity](https://news.ycombinator.com/item?id=36127288)
 * [2023-05-30, 16:42:24](https://news.ycombinator.com/item?id=36127058) - [Lyft’s plan to take control of its maps – and its future](https://www.lyft.com/rev/posts/lyfts-secret-plan-to-take-control-of-its-maps-and-its-future)
 * [2023-05-30, 15:54:15](https://news.ycombinator.com/item?id=36126343) - [EU achieved independence from Russian fossil fuels](https://insightnews.media/eu-achieved-independence-from-russian-fossil-fuels/)
 * [2023-05-30, 15:44:24](https://news.ycombinator.com/item?id=36126198) - [401(k) Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)
@@ -12,6 +13,7 @@
 * [2023-05-30, 15:30:35](https://news.ycombinator.com/item?id=36126032) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
 * [2023-05-30, 15:04:34](https://news.ycombinator.com/item?id=36125701) - [Germany’s Solar Power Generation Hit Record High at Weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
 * [2023-05-30, 14:16:24](https://news.ycombinator.com/item?id=36125143) - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
+* [2023-05-30, 14:14:07](https://news.ycombinator.com/item?id=36125118) - [Noodl is going open source](https://www.noodl.net//open-source)
 * [2023-05-30, 14:07:43](https://news.ycombinator.com/item?id=36125048) - [Nvidia is now a $1T company](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
 * [2023-05-30, 13:30:02](https://news.ycombinator.com/item?id=36124659) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2023-05-30, 13:26:56](https://news.ycombinator.com/item?id=36124609) - [A Refugee Won over a Conservative German Town](https://www.nytimes.com/2023/05/28/world/europe/germany-refugee-elected-mayor.html)
