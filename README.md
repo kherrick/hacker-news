@@ -21,6 +21,7 @@
 * [2023-05-29, 14:52:14](https://news.ycombinator.com/item?id=36114562) - [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 * [2023-05-29, 14:09:58](https://news.ycombinator.com/item?id=36114147) - [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 13:38:23](https://news.ycombinator.com/item?id=36113828) - [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
+* [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
 * [2023-05-29, 12:49:41](https://news.ycombinator.com/item?id=36113432) - [Deus Ex – Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)
 * [2023-05-29, 12:49:11](https://news.ycombinator.com/item?id=36113430) - [300ms Faster: Reducing Wikipedia&#x27;s total blocking time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
@@ -29,7 +30,6 @@
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts: a new history of the Index of Prohibited Books](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 11:54:18](https://news.ycombinator.com/item?id=36103240) - [The First Sherpa to Climb to the Top of Mt. Everest (1954)](https://www.newyorker.com/magazine/1954/06/05/tenzing-of-everest)
-* [2023-05-28, 02:55:04](https://news.ycombinator.com/item?id=36100719) - [Quite a tail: A mouse has been hiding its armor all this time](https://www.nytimes.com/2023/05/24/science/spiny-mouse-armor-tail.html)
 
 ## [Archives](archives/index.md)
 
