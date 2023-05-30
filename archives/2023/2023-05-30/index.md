@@ -9,6 +9,7 @@
 * [2023-05-30, 12:30:49](https://news.ycombinator.com/item?id=36124025) - [Why is Swift so slow (timeout) in compiling this code?](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)
 * [2023-05-30, 12:19:52](https://news.ycombinator.com/item?id=36123924) - [Ask HN: How come YC startups offering &lt;80k$&#x2F;year?](https://news.ycombinator.com/item?id=36123924)
 * [2023-05-30, 12:00:07](https://news.ycombinator.com/item?id=36123766) - [MindsDB (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
+* [2023-05-30, 11:57:43](https://news.ycombinator.com/item?id=36123752) - [A Guide to Understanding the Hoax of the Century](https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation)
 * [2023-05-30, 11:46:44](https://news.ycombinator.com/item?id=36123670) - [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
 * [2023-05-30, 11:43:46](https://news.ycombinator.com/item?id=36123651) - [Purely Functional Data Structure by Chris Okasaki [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 * [2023-05-30, 11:34:38](https://news.ycombinator.com/item?id=36123611) - [A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn](https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html)
