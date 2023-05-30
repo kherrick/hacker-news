@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-30, 22:31:45](https://news.ycombinator.com/item?id=36131942) - [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
+* [2023-05-30, 22:24:48](https://news.ycombinator.com/item?id=36131838) - [Systemshock: Shockolate – A minimalist and cross platform System Shock source p](https://github.com/Interrupt/systemshock)
 * [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 * [2023-05-30, 21:52:56](https://news.ycombinator.com/item?id=36131450) - [Chain-of-Thought Hub: Measuring LLMs&#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
 * [2023-05-30, 21:43:23](https://news.ycombinator.com/item?id=36131319) - [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
-* [2023-05-30, 21:34:55](https://news.ycombinator.com/item?id=36131200) - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
 * [2023-05-30, 20:33:23](https://news.ycombinator.com/item?id=36130354) - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
 * [2023-05-30, 20:20:21](https://news.ycombinator.com/item?id=36130166) - [Federal judge: Border searches of cell phones require a warrant](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
 * [2023-05-30, 19:53:33](https://news.ycombinator.com/item?id=36129757) - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)

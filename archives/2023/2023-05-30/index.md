@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
 * [2023-05-30, 22:31:45](https://news.ycombinator.com/item?id=36131942) - [Federal Judge Requires &quot;Mandatory Certification Regarding Generative AI&quot;](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
+* [2023-05-30, 22:24:48](https://news.ycombinator.com/item?id=36131838) - [Systemshock: Shockolate – A minimalist and cross platform System Shock source p](https://github.com/Interrupt/systemshock)
 * [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 * [2023-05-30, 21:52:56](https://news.ycombinator.com/item?id=36131450) - [Chain-of-Thought Hub: Measuring LLMs&#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
 * [2023-05-30, 21:43:23](https://news.ycombinator.com/item?id=36131319) - [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
