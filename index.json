@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-05-30, 17:43:23",
+      "https://news.ycombinator.com/item?id=36127951"
+    ],
+    [
+      "Covid outbreak at CDC gathering infects 181 disease detectives",
+      "https://arstechnica.com/health/2023/05/covid-outbreak-at-cdc-gathering-infects-181-disease-detectives/"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 17:33:39",
       "https://news.ycombinator.com/item?id=36127800"
     ],
     [
       "I criticized Amazon’s policies in a blog. Their lawyers are trying to ruin me",
       "https://twitter.com/Molson_Hart/status/1663582588210905091"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 17:26:46",
+      "https://news.ycombinator.com/item?id=36127703"
+    ],
+    [
+      "JMAP – a much needed modern email open standard",
+      "https://jmap.io/"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 17:16:16",
+      "https://news.ycombinator.com/item?id=36127543"
+    ],
+    [
+      "Modern CPUs have a backstage cast",
+      "https://www.devever.net/~hl/backstage-cast"
     ]
   ],
   [
@@ -47,26 +77,6 @@
     [
       "WASIX, the Superset of WASI Supporting Threads, Processes and Sockets",
       "https://wasmer.io/posts/announcing-wasix"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 15:04:34",
-      "https://news.ycombinator.com/item?id=36125701"
-    ],
-    [
-      "Germany’s solar power generation hit record high at weekend",
-      "https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 14:16:24",
-      "https://news.ycombinator.com/item?id=36125143"
-    ],
-    [
-      "Halton Sequence",
-      "https://en.wikipedia.org/wiki/Halton_sequence"
     ]
   ],
   [
@@ -211,26 +221,6 @@
   ],
   [
     [
-      "2023-05-29, 20:41:51",
-      "https://news.ycombinator.com/item?id=36117879"
-    ],
-    [
-      "Are you breathing? Do you have email apnea? (2014)",
-      "https://lindastone.net/2014/11/24/are-you-breathing-do-you-have-email-apnea/"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 19:09:59",
-      "https://news.ycombinator.com/item?id=36116937"
-    ],
-    [
-      "CPR&#x27;s true survival rate is lower than many people think",
-      "https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr"
-    ]
-  ],
-  [
-    [
       "2023-05-29, 17:47:38",
       "https://news.ycombinator.com/item?id=36116192"
     ],
@@ -297,6 +287,16 @@
     [
       "Haskell Optimization Handbook",
       "https://github.com/haskellfoundation/hs-opt-handbook.github.io"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 08:16:32",
+      "https://news.ycombinator.com/item?id=36092965"
+    ],
+    [
+      "Explaining Mainframe Pricing",
+      "https://planetmainframe.com/2023/05/explaining-mainframe-pricing-to-the-cloud-guys/"
     ]
   ]
 ]
