@@ -7,6 +7,7 @@
 * [2023-05-30, 19:53:33](https://news.ycombinator.com/item?id=36129757) - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
 * [2023-05-30, 19:44:07](https://news.ycombinator.com/item?id=36129622) - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
 * [2023-05-30, 19:27:31](https://news.ycombinator.com/item?id=36129387) - [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
+* [2023-05-30, 19:26:39](https://news.ycombinator.com/item?id=36129373) - [Tackling plastic pollution: ‘We can&#x27;t recycle our way out of this’](https://www.france24.com/en/environment/20230530-tackling-plastic-pollution-we-can-t-recycle-our-way-out-of-this)
 * [2023-05-30, 19:15:49](https://news.ycombinator.com/item?id=36129227) - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
 * [2023-05-30, 19:13:11](https://news.ycombinator.com/item?id=36129199) - [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
 * [2023-05-30, 18:43:40](https://news.ycombinator.com/item?id=36128811) - [Saga Pattern Made Easy](https://temporal.io/blog/saga-pattern-made-easy)
