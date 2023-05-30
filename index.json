@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36128547"
     ],
     [
-      "Scientists warned about climate change in 1965. Nothing was done",
+      "Scientists warned about climate change in 1965",
       "https://knowablemagazine.org/article/food-environment/2023/scientists-warned-climate-change-1965-podcast"
     ]
   ],
@@ -161,6 +161,26 @@
   ],
   [
     [
+      "2023-05-30, 12:56:10",
+      "https://news.ycombinator.com/item?id=36124297"
+    ],
+    [
+      "MDN Blog",
+      "https://developer.mozilla.org/en-US/blog/"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 12:30:49",
+      "https://news.ycombinator.com/item?id=36124025"
+    ],
+    [
+      "Why is Swift so slow (timeout) in compiling this code? (2022)",
+      "https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 12:00:07",
       "https://news.ycombinator.com/item?id=36123766"
     ],
@@ -207,16 +227,6 @@
     [
       "NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed",
       "https://spectrum.ieee.org/laser-communications"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 03:55:41",
-      "https://news.ycombinator.com/item?id=36120972"
-    ],
-    [
-      "I gave commit rights to someone I didn&#x27;t know (2016)",
-      "https://tech.davis-hansson.com/p/clickbait/"
     ]
   ],
   [
@@ -271,32 +281,22 @@
   ],
   [
     [
+      "2023-05-28, 04:01:00",
+      "https://news.ycombinator.com/item?id=36101004"
+    ],
+    [
+      "1999 Game Developers Conference (GDC) Recordings Archive",
+      "https://archive.org/details/1999_Game_Developers_Conference_Audio"
+    ]
+  ],
+  [
+    [
       "2023-05-27, 17:41:06",
       "https://news.ycombinator.com/item?id=36096604"
     ],
     [
       "VR optics and why IPD means too many things (2019)",
       "https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D"
-    ]
-  ],
-  [
-    [
-      "2023-05-27, 08:54:49",
-      "https://news.ycombinator.com/item?id=36093120"
-    ],
-    [
-      "Haskell Optimization Handbook",
-      "https://github.com/haskellfoundation/hs-opt-handbook.github.io"
-    ]
-  ],
-  [
-    [
-      "2023-05-27, 08:16:32",
-      "https://news.ycombinator.com/item?id=36092965"
-    ],
-    [
-      "Explaining Mainframe Pricing",
-      "https://planetmainframe.com/2023/05/explaining-mainframe-pricing-to-the-cloud-guys/"
     ]
   ]
 ]
