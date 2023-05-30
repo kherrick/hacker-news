@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-30, 07:18:14](https://news.ycombinator.com/item?id=36122016) - [Twitter&#x27;s Algorithm: Amplifying Anger, Animosity, and Affective Polarization](https://arxiv.org/abs/2305.16941)
+* [2023-05-30, 06:16:45](https://news.ycombinator.com/item?id=36121681) - [A Chiral Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
-* [2023-05-30, 04:27:04](https://news.ycombinator.com/item?id=36121132) - [NestJS Is Now the Most Popular Node Framework](https://github.com/nestjs/nest)
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 * [2023-05-30, 02:56:11](https://news.ycombinator.com/item?id=36120659) - [Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
 * [2023-05-30, 02:32:07](https://news.ycombinator.com/item?id=36120531) - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
@@ -25,7 +26,6 @@
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 * [2023-05-29, 05:01:25](https://news.ycombinator.com/item?id=36110833) - [A peek inside Japan&#x27;s largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts: a new history of the Index of Prohibited Books](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
-* [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 14:46:34](https://news.ycombinator.com/item?id=36104432) - [New Taschen book on the history of the computer](https://www.wallpaper.com/tech/the-computer-taschen-book)
 * [2023-05-28, 14:01:50](https://news.ycombinator.com/item?id=36104055) - [The odd appeal of absurdly long YouTube videos](https://www.theverge.com/2023/5/28/23738957/youtube-videos-24-hours-blank-screen)
 * [2023-05-28, 11:54:18](https://news.ycombinator.com/item?id=36103240) - [The First Sherpa to Climb to the Top of Mt. Everest (1954)](https://www.newyorker.com/magazine/1954/06/05/tenzing-of-everest)
