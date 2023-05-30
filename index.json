@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 17:00:01",
+      "https://news.ycombinator.com/item?id=36127321"
+    ],
+    [
+      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
+      "https://jobs.lever.co/buildzoom"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 16:42:24",
       "https://news.ycombinator.com/item?id=36127058"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2023-05-30, 13:30:02",
+      "https://news.ycombinator.com/item?id=36124659"
+    ],
+    [
+      "Factories in Space",
+      "https://www.factoriesinspace.com/"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 13:06:51",
       "https://news.ycombinator.com/item?id=36124415"
     ],
@@ -87,16 +107,6 @@
     [
       "Why is Swift so slow (timeout) in compiling this code? (2022)",
       "https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 12:00:07",
-      "https://news.ycombinator.com/item?id=36123766"
-    ],
-    [
-      "MindsDB (YC W20) Is Hiring a Product Designer",
-      "https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85"
     ]
   ],
   [
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2023-05-30, 02:56:11",
-      "https://news.ycombinator.com/item?id=36120659"
-    ],
-    [
-      "Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)",
-      "https://blainehansen.me/post/macro-ts/"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 02:15:15",
       "https://news.ycombinator.com/item?id=36120457"
     ],
     [
       "How to Stare at Your Phone Without Losing Your Soul",
       "https://simone.org/tracking-screen-time/"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 22:44:09",
-      "https://news.ycombinator.com/item?id=36118990"
-    ],
-    [
-      "An open-source alternative to QuickBooks",
-      "https://bigcapital.ly"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "VR optics and why IPD means too many things (2019)",
       "https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D"
+    ]
+  ],
+  [
+    [
+      "2023-05-27, 08:54:49",
+      "https://news.ycombinator.com/item?id=36093120"
+    ],
+    [
+      "Haskell Optimization Handbook",
+      "https://github.com/haskellfoundation/hs-opt-handbook.github.io"
     ]
   ]
 ]
