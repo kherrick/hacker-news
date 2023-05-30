@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 19:27:31](https://news.ycombinator.com/item?id=36129387) - [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
+* [2023-05-30, 18:43:40](https://news.ycombinator.com/item?id=36128811) - [Saga Pattern Made Easy](https://temporal.io/blog/saga-pattern-made-easy)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 * [2023-05-30, 18:25:33](https://news.ycombinator.com/item?id=36128547) - [Scientists warned about climate change in 1965. Nothing was done](https://knowablemagazine.org/article/food-environment/2023/scientists-warned-climate-change-1965-podcast)
 * [2023-05-30, 18:21:38](https://news.ycombinator.com/item?id=36128484) - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.co.uk/article/molly-white-crypto-scams)
