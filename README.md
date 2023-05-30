@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-30, 21:34:55](https://news.ycombinator.com/item?id=36131200) - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
+* [2023-05-30, 21:14:20](https://news.ycombinator.com/item?id=36130911) - [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
 * [2023-05-30, 20:33:23](https://news.ycombinator.com/item?id=36130354) - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
 * [2023-05-30, 20:20:21](https://news.ycombinator.com/item?id=36130166) - [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
 * [2023-05-30, 20:20:17](https://news.ycombinator.com/item?id=36130164) - [I&#x27;m Not a Passionate Developer](https://koodihommia.blogspot.com/2022/06/im-not-passionate-developer.html)
-* [2023-05-30, 20:16:56](https://news.ycombinator.com/item?id=36130116) - [25 things I’ve learned about life the hard way before turning 25](https://ednevsky.substack.com/p/25-things-ive-learned-about-life)
 * [2023-05-30, 19:53:33](https://news.ycombinator.com/item?id=36129757) - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
 * [2023-05-30, 19:44:07](https://news.ycombinator.com/item?id=36129622) - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
 * [2023-05-30, 19:42:22](https://news.ycombinator.com/item?id=36129594) - [Plane: Open-Source Alternative to Atlassian&#x27;s Jira](https://github.com/makeplane/plane)
@@ -15,6 +15,7 @@
 * [2023-05-30, 18:33:17](https://news.ycombinator.com/item?id=36128648) - [Apple’s big test of data integrity](https://eclecticlight.co/2023/05/30/apples-big-test-of-data-integrity/)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking a Philips Sonicare Toothbrush](https://kuenzi.dev/toothbrush/)
+* [2023-05-30, 18:18:38](https://news.ycombinator.com/item?id=36128435) - [Purdue Pharma can protect Sackler owners in opioid bankruptcy, court rules](https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/doc/22-110_complete_opn.pdf#xml=https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/hilite/)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
 * [2023-05-30, 17:53:00](https://news.ycombinator.com/item?id=36128082) - [Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 * [2023-05-30, 17:52:18](https://news.ycombinator.com/item?id=36128067) - [Creating a Memory-Safe Workstation with CheriBSD [pdf]](https://www.bsdcan.org/events/bsdcan_2023/sessions/session/142/slides/58/20230520-memory-safe-desktop-compressed.pdf)
@@ -28,7 +29,6 @@
 * [2023-05-30, 10:08:15](https://news.ycombinator.com/item?id=36123082) - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 * [2023-05-29, 17:47:38](https://news.ycombinator.com/item?id=36116192) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs](https://arxiv.org/abs/2305.12784)
 * [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
-* [2023-05-28, 07:26:20](https://news.ycombinator.com/item?id=36101907) - [A New Era of Podcast Mergers Is Just Beginning](https://www.bloomberg.com/news/newsletters/2023-05-25/podcast-consolidation-reaches-smaller-studios-amid-advertising-downturn)
 * [2023-05-27, 17:41:06](https://news.ycombinator.com/item?id=36096604) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 
 ## [Archives](archives/index.md)
