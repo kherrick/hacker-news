@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-30, 12:59:45](https://news.ycombinator.com/item?id=36124341) - [eBay founder gives $2M to defund police – while funding private security startup](https://nypost.com/2023/05/26/ebay-founder-pierre-omidyar-gives-nearly-2m-to-defund-police/)
 * [2023-05-30, 12:37:40](https://news.ycombinator.com/item?id=36124090) - [North Korea to Launch Military Spy Satellite for Monitoring U.S. Drills](https://www.cnbc.com/2023/05/30/north-korea-says-it-will-launch-its-first-ever-military-spy-satellite-to-monitor-us-drills.html)
 * [2023-05-30, 12:30:49](https://news.ycombinator.com/item?id=36124025) - [Why is Swift so slow (timeout) in compiling this code?](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)
 * [2023-05-30, 12:00:07](https://news.ycombinator.com/item?id=36123766) - [MindsDB (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
 * [2023-05-30, 11:46:44](https://news.ycombinator.com/item?id=36123670) - [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
 * [2023-05-30, 11:43:46](https://news.ycombinator.com/item?id=36123651) - [Purely Functional Data Structure by Chris Okasaki [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 * [2023-05-30, 11:34:38](https://news.ycombinator.com/item?id=36123611) - [A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn](https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html)
+* [2023-05-30, 08:02:12](https://news.ycombinator.com/item?id=36122270) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 * [2023-05-30, 06:52:08](https://news.ycombinator.com/item?id=36121876) - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
