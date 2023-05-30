@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-30, 11:04:00](https://news.ycombinator.com/item?id=36123420) - [World Cup security guards still jailed in Qatar after dispute over unpaid wages](https://www.theguardian.com/global-development/2023/may/26/world-cup-security-guards-still-jailed-in-qatar-after-dispute-over-unpaid-wages)
 * [2023-05-30, 08:02:12](https://news.ycombinator.com/item?id=36122270) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 * [2023-05-30, 06:52:08](https://news.ycombinator.com/item?id=36121876) - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
@@ -9,6 +8,7 @@
 * [2023-05-30, 02:32:07](https://news.ycombinator.com/item?id=36120531) - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
 * [2023-05-30, 02:15:15](https://news.ycombinator.com/item?id=36120457) - [How to Stare at Your Phone Without Losing Your Soul](https://simone.org/tracking-screen-time/)
 * [2023-05-30, 00:47:32](https://news.ycombinator.com/item?id=36119920) - [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
+* [2023-05-29, 22:59:24](https://news.ycombinator.com/item?id=36119102) - [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
 * [2023-05-29, 22:50:59](https://news.ycombinator.com/item?id=36119042) - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
 * [2023-05-29, 22:44:09](https://news.ycombinator.com/item?id=36118990) - [An open-source alternative to QuickBooks](https://bigcapital.ly)
 * [2023-05-29, 22:35:10](https://news.ycombinator.com/item?id=36118913) - [Sigils are underappreciated (2022)](https://raku-advent.blog/2022/12/20/sigils/)
