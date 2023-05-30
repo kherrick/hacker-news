@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 23:01:28](https://news.ycombinator.com/item?id=36132315) - [Noncompete Clauses Violate Labor Law, NLRB Lawyer Says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
+* [2023-05-30, 22:51:51](https://news.ycombinator.com/item?id=36132198) - [IRS Can get financial Info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
 * [2023-05-30, 22:31:45](https://news.ycombinator.com/item?id=36131942) - [Federal Judge Requires &quot;Mandatory Certification Regarding Generative AI&quot;](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
 * [2023-05-30, 22:24:48](https://news.ycombinator.com/item?id=36131838) - [Systemshock: Shockolate – A minimalist and cross platform System Shock source p](https://github.com/Interrupt/systemshock)
 * [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
