@@ -2,7 +2,6 @@
 
 * [2023-05-30, 07:18:14](https://news.ycombinator.com/item?id=36122016) - [Twitter&#x27;s Algorithm: Amplifying Anger, Animosity, and Affective Polarization](https://arxiv.org/abs/2305.16941)
 * [2023-05-30, 06:52:08](https://news.ycombinator.com/item?id=36121876) - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
-* [2023-05-30, 06:16:45](https://news.ycombinator.com/item?id=36121681) - [A Chiral Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 * [2023-05-30, 02:56:11](https://news.ycombinator.com/item?id=36120659) - [Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
@@ -24,6 +23,7 @@
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [The metaverse was never alive in the first place](https://www.fastcompany.com/90893969/metaverse-was-never-alive-in-first-place)
 * [2023-05-29, 14:52:14](https://news.ycombinator.com/item?id=36114562) - [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 * [2023-05-29, 12:50:41](https://news.ycombinator.com/item?id=36113444) - [The UX Research Reckoning is Here](https://medium.com/onebigthought/the-ux-research-reckoning-is-here-c63710ea4084)
+* [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 05:01:25](https://news.ycombinator.com/item?id=36110833) - [A peek inside Japan&#x27;s largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts: a new history of the Index of Prohibited Books](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
 * [2023-05-28, 14:46:34](https://news.ycombinator.com/item?id=36104432) - [New Taschen book on the history of the computer](https://www.wallpaper.com/tech/the-computer-taschen-book)
