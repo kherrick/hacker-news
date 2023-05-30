@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 15:30:35](https://news.ycombinator.com/item?id=36126032) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
 * [2023-05-30, 15:04:34](https://news.ycombinator.com/item?id=36125701) - [Germany’s Solar Power Generation Hit Record High at Weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
 * [2023-05-30, 14:16:24](https://news.ycombinator.com/item?id=36125143) - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
 * [2023-05-30, 14:07:43](https://news.ycombinator.com/item?id=36125048) - [Nvidia is now a $1T company](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
@@ -34,6 +35,7 @@
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 * [2023-05-30, 02:56:11](https://news.ycombinator.com/item?id=36120659) - [Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
 * [2023-05-30, 02:32:07](https://news.ycombinator.com/item?id=36120531) - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
+* [2023-05-30, 02:28:23](https://news.ycombinator.com/item?id=36120515) - [FBI successfully brute forces iPhone X passcode in 3 years](https://reason.com/volokh/2023/05/15/the-timing-of-computer-search-warrants-when-it-takes-the-government-several-years-to-guess-the-password/)
 * [2023-05-30, 02:22:01](https://news.ycombinator.com/item?id=36120484) - [How to Hire a Pop Star for Your Private Party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
 * [2023-05-30, 02:15:15](https://news.ycombinator.com/item?id=36120457) - [How to Stare at Your Phone Without Losing Your Soul](https://simone.org/tracking-screen-time/)
 * [2023-05-30, 00:47:32](https://news.ycombinator.com/item?id=36119920) - [A Chiral Aperiodic Monotile](https://arxiv.org/abs/2305.17743)
