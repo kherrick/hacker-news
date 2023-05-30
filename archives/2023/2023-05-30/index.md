@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 15:04:34](https://news.ycombinator.com/item?id=36125701) - [Germany’s Solar Power Generation Hit Record High at Weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
 * [2023-05-30, 14:16:24](https://news.ycombinator.com/item?id=36125143) - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
 * [2023-05-30, 14:07:43](https://news.ycombinator.com/item?id=36125048) - [Nvidia is now a $1T company](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
 * [2023-05-30, 13:30:02](https://news.ycombinator.com/item?id=36124659) - [Factories in Space](https://www.factoriesinspace.com/)
