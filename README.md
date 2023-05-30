@@ -26,8 +26,8 @@
 * [2023-05-29, 11:38:27](https://news.ycombinator.com/item?id=36112977) - [Being a Good Unix Neighbour](https://leblancfg.com/level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour.html#level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
+* [2023-05-29, 05:01:25](https://news.ycombinator.com/item?id=36110833) - [A peek inside Japan&#x27;s largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts: a new history of the Index of Prohibited Books](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
-* [2023-05-28, 20:45:00](https://news.ycombinator.com/item?id=36107619) - [Chocolate and the Steam Engine (2014)](https://chocolateclass.wordpress.com/2014/03/14/chocolate-and-the-steam-engine/)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 11:54:18](https://news.ycombinator.com/item?id=36103240) - [The First Sherpa to Climb to the Top of Mt. Everest (1954)](https://www.newyorker.com/magazine/1954/06/05/tenzing-of-everest)
 
