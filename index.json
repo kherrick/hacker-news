@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-05-30, 11:57:43",
+      "https://news.ycombinator.com/item?id=36123752"
+    ],
+    [
+      "A Guide to Understanding the Hoax of the Century",
+      "https://www.tabletmag.com/sections/news/articles/guide-understanding-hoax-century-thirteen-ways-looking-disinformation"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 11:46:44",
       "https://news.ycombinator.com/item?id=36123670"
     ],
@@ -57,16 +67,6 @@
     [
       "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn",
       "https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 08:02:12",
-      "https://news.ycombinator.com/item?id=36122270"
-    ],
-    [
-      "Rust has been forked to the Crab Language",
-      "https://github.com/crablang/crab"
     ]
   ],
   [
@@ -161,26 +161,6 @@
   ],
   [
     [
-      "2023-05-29, 22:35:10",
-      "https://news.ycombinator.com/item?id=36118913"
-    ],
-    [
-      "Sigils are underappreciated (2022)",
-      "https://raku-advent.blog/2022/12/20/sigils/"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 22:29:38",
-      "https://news.ycombinator.com/item?id=36118856"
-    ],
-    [
-      "DNSSEC KSK rollover breaks DNS resolution for .nz domains",
-      "https://status.internetnz.nz/incidents/gq1c6slz3198"
-    ]
-  ],
-  [
-    [
       "2023-05-29, 21:44:32",
       "https://news.ycombinator.com/item?id=36118470"
     ],
@@ -201,12 +181,32 @@
   ],
   [
     [
+      "2023-05-29, 15:29:58",
+      "https://news.ycombinator.com/item?id=36114896"
+    ],
+    [
+      "Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere",
+      "https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere"
+    ]
+  ],
+  [
+    [
       "2023-05-29, 12:50:41",
       "https://news.ycombinator.com/item?id=36113444"
     ],
     [
       "The UX Research Reckoning is Here",
       "https://medium.com/onebigthought/the-ux-research-reckoning-is-here-c63710ea4084"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 12:49:11",
+      "https://news.ycombinator.com/item?id=36113430"
+    ],
+    [
+      "300ms Faster: Reducing Wikipedia&#x27;s total blocking time",
+      "https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/"
     ]
   ],
   [
