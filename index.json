@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 08:02:12",
+      "https://news.ycombinator.com/item?id=36122270"
+    ],
+    [
+      "Rust has been forked to the Crab Language",
+      "https://github.com/crablang/crab"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 07:18:14",
       "https://news.ycombinator.com/item?id=36122016"
     ],
@@ -77,16 +87,6 @@
     [
       "A chiral aperiodic monotile",
       "https://arxiv.org/abs/2305.17743"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 22:59:24",
-      "https://news.ycombinator.com/item?id=36119102"
-    ],
-    [
-      "You can serve static data over HTTP",
-      "https://ignore.pl/you_can_serve_static_data_over_http.html"
     ]
   ],
   [
