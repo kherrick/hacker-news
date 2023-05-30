@@ -7,6 +7,7 @@
 * [2023-05-30, 22:31:45](https://news.ycombinator.com/item?id=36131942) - [Federal Judge Requires &quot;Mandatory Certification Regarding Generative AI&quot;](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
 * [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 * [2023-05-30, 21:52:56](https://news.ycombinator.com/item?id=36131450) - [Chain-of-Thought Hub: Measuring LLMs&#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
+* [2023-05-30, 21:43:23](https://news.ycombinator.com/item?id=36131319) - [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
 * [2023-05-30, 21:35:57](https://news.ycombinator.com/item?id=36131215) - [Show HN: I open sourced the CLI of my API Testing Framework](https://github.com/apitrakr/apitrakr/tree/main/packages/cli)
 * [2023-05-30, 21:34:55](https://news.ycombinator.com/item?id=36131200) - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
 * [2023-05-30, 21:14:20](https://news.ycombinator.com/item?id=36130911) - [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
