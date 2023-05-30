@@ -13,6 +13,7 @@
 * [2023-05-29, 22:29:38](https://news.ycombinator.com/item?id=36118856) - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 * [2023-05-29, 22:23:59](https://news.ycombinator.com/item?id=36118807) - [Texas Passes Ban on DEI Offices and Tenure Reform at Public Universities](https://thetexan.news/texas-legislature-passes-ban-on-dei-offices-and-tenure-reform-at-public-universities/)
 * [2023-05-29, 22:10:46](https://news.ycombinator.com/item?id=36118707) - [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
+* [2023-05-29, 21:44:32](https://news.ycombinator.com/item?id=36118470) - [Setris – Tetris with Sand Physics](https://mslivo.itch.io/setris)
 * [2023-05-29, 21:04:34](https://news.ycombinator.com/item?id=36118093) - [Death by design patterns, or On the cognitive load of abstractions in the code](https://alentred.medium.com/cognitive-load-of-abstractions-in-the-source-code-20a889a106d4)
 * [2023-05-29, 21:01:13](https://news.ycombinator.com/item?id=36118074) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
 * [2023-05-29, 20:47:30](https://news.ycombinator.com/item?id=36117950) - [My First Superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
