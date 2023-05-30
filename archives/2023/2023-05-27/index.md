@@ -36,6 +36,7 @@
 * [2023-05-27, 18:23:43](https://news.ycombinator.com/item?id=36096966) - [Java Panama Vector API Integrated with Apache Lucene](https://github.com/apache/lucene/pull/12311)
 * [2023-05-27, 18:04:56](https://news.ycombinator.com/item?id=36096811) - [All the Hard Stuff Nobody Talks About When Building Products with LLMs](https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm)
 * [2023-05-27, 17:46:18](https://news.ycombinator.com/item?id=36096652) - [Watch Tarkovsky&#x27;s Best Films Online for Free](https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free)
+* [2023-05-27, 17:41:06](https://news.ycombinator.com/item?id=36096604) - [VR optics and why IPD means too many things](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 * [2023-05-27, 17:34:31](https://news.ycombinator.com/item?id=36096557) - [Europe data salary benchmark 2023](https://medium.com/@mikldd/europe-data-salary-benchmark-2023-b68cea57923d)
 * [2023-05-27, 17:25:04](https://news.ycombinator.com/item?id=36096468) - [Tesla instructed employees to only communicate verbally about complaints so](https://www.businessinsider.com/tesla-told-employees-not-to-put-complaints-in-writing-whistleblower-2023-5)
 * [2023-05-27, 17:21:45](https://news.ycombinator.com/item?id=36096445) - [Germany falls into recession as inflation hits economy](https://www.bbc.com/news/business-65707206)

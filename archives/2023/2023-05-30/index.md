@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 12:00:07](https://news.ycombinator.com/item?id=36123766) - [MindsDB (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
+* [2023-05-30, 11:46:44](https://news.ycombinator.com/item?id=36123670) - [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
 * [2023-05-30, 11:04:00](https://news.ycombinator.com/item?id=36123420) - [World Cup security guards still jailed in Qatar after dispute over unpaid wages](https://www.theguardian.com/global-development/2023/may/26/world-cup-security-guards-still-jailed-in-qatar-after-dispute-over-unpaid-wages)
 * [2023-05-30, 10:08:15](https://news.ycombinator.com/item?id=36123082) - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 * [2023-05-30, 08:02:12](https://news.ycombinator.com/item?id=36122270) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
