@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-30, 00:18:14](https://news.ycombinator.com/item?id=36119709) - [Ask HN: What challenges are you facing offshoring development to India?](https://news.ycombinator.com/item?id=36119709)
-* [2023-05-29, 23:07:27](https://news.ycombinator.com/item?id=36119169) - [VanJS: Vanilla JavaScript Reactive UI Framework](https://vanjs.org/)
+* [2023-05-30, 00:47:32](https://news.ycombinator.com/item?id=36119920) - [A Chiral Aperiodic Monotile](https://arxiv.org/abs/2305.17743)
 * [2023-05-29, 22:44:09](https://news.ycombinator.com/item?id=36118990) - [An open-source alternative to QuickBooks](https://bigcapital.ly)
-* [2023-05-29, 22:35:50](https://news.ycombinator.com/item?id=36118918) - [Ask HN: Tired of being a software engineer, what next?](https://news.ycombinator.com/item?id=36118918)
 * [2023-05-29, 22:35:10](https://news.ycombinator.com/item?id=36118913) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 * [2023-05-29, 22:29:38](https://news.ycombinator.com/item?id=36118856) - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 * [2023-05-29, 22:10:46](https://news.ycombinator.com/item?id=36118707) - [HBO Max new Captcha system](https://twitter.com/wondermeg_/status/1662454909353033730)
@@ -27,9 +25,11 @@
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 * [2023-05-28, 20:45:00](https://news.ycombinator.com/item?id=36107619) - [Chocolate and the Steam Engine (2014)](https://chocolateclass.wordpress.com/2014/03/14/chocolate-and-the-steam-engine/)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
-* [2023-05-28, 16:18:19](https://news.ycombinator.com/item?id=36105398) - [A 1914 silent film considered lost was rescued from a vault](https://www.wsj.com/articles/a-rare-1914-silent-film-was-considered-lost-forever-a-professor-rescued-it-from-a-vault-9bfdc1f0)
+* [2023-05-28, 16:37:35](https://news.ycombinator.com/item?id=36105591) - [Globalization is evolving, but does not seem to be reversing](https://conversableeconomist.com/2023/05/26/globalization-evolves-not-reverses/)
+* [2023-05-28, 11:54:18](https://news.ycombinator.com/item?id=36103240) - [The First Sherpa to Climb to the Top of Mt. Everest (1954)](https://www.newyorker.com/magazine/1954/06/05/tenzing-of-everest)
 * [2023-05-28, 10:38:54](https://news.ycombinator.com/item?id=36102865) - [Why Learn Compilers](https://amasad.me/compilers)
 * [2023-05-28, 08:10:20](https://news.ycombinator.com/item?id=36102116) - [Journey and lessons from running a mirroring service at home](https://quantum5.ca/2023/05/28/introducing-my-own-mirroring-service-mirror.quantum5.ca/)
+* [2023-05-28, 02:55:04](https://news.ycombinator.com/item?id=36100719) - [Quite a Tail: A Mouse Has Been Hiding Its Armor All This Time](https://www.nytimes.com/2023/05/24/science/spiny-mouse-armor-tail.html)
 
 ## [Archives](archives/index.md)
 
