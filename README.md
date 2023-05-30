@@ -17,7 +17,6 @@
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [The metaverse was never alive in the first place](https://www.fastcompany.com/90893969/metaverse-was-never-alive-in-first-place)
 * [2023-05-29, 15:29:58](https://news.ycombinator.com/item?id=36114896) - [Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere](https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere)
 * [2023-05-29, 15:14:52](https://news.ycombinator.com/item?id=36114775) - [Rheinmetall pilot project for curb stone chargers for EVs](https://www.rheinmetall.com/en/media/news-watch/news/2023/mai/2023-05-16-rheinmetall-launches-first-pilot-project-for-innovative-curb-stone-chargers)
-* [2023-05-29, 14:59:38](https://news.ycombinator.com/item?id=36114641) - [Software bugs that cause real-world harm](https://pointersgonewild.com/2023/05/29/software-bugs-that-cause-real-world-harm/)
 * [2023-05-29, 14:52:14](https://news.ycombinator.com/item?id=36114562) - [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 * [2023-05-29, 14:09:58](https://news.ycombinator.com/item?id=36114147) - [C++17’s useful features for embedded systems](https://interrupt.memfault.com/blog/cpp-17-for-embedded)
 * [2023-05-29, 13:38:23](https://news.ycombinator.com/item?id=36113828) - [XFS Metadata Corruption on Linux 6.3 Tracked Down to One Missing One-Line Patch](https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3)
@@ -28,6 +27,7 @@
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts: a new history of the Index of Prohibited Books](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
+* [2023-05-28, 20:45:00](https://news.ycombinator.com/item?id=36107619) - [Chocolate and the Steam Engine (2014)](https://chocolateclass.wordpress.com/2014/03/14/chocolate-and-the-steam-engine/)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 11:54:18](https://news.ycombinator.com/item?id=36103240) - [The First Sherpa to Climb to the Top of Mt. Everest (1954)](https://www.newyorker.com/magazine/1954/06/05/tenzing-of-everest)
 
