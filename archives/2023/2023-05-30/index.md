@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 * [2023-05-30, 02:56:11](https://news.ycombinator.com/item?id=36120659) - [Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
 * [2023-05-30, 02:32:07](https://news.ycombinator.com/item?id=36120531) - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
