@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 18:21:38](https://news.ycombinator.com/item?id=36128484) - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.co.uk/article/molly-white-crypto-scams)
+* [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
+* [2023-05-30, 17:52:18](https://news.ycombinator.com/item?id=36128067) - [Creating a Memory-Safe Workstation with CheriBSD [pdf]](https://www.bsdcan.org/events/bsdcan_2023/sessions/session/142/slides/58/20230520-memory-safe-desktop-compressed.pdf)
 * [2023-05-30, 17:43:23](https://news.ycombinator.com/item?id=36127951) - [Covid outbreak at CDC gathering infects 181 disease detectives](https://arstechnica.com/health/2023/05/covid-outbreak-at-cdc-gathering-infects-181-disease-detectives/)
 * [2023-05-30, 17:33:39](https://news.ycombinator.com/item?id=36127800) - [I criticized Amazon’s policies in a blog. Their lawyers are trying to ruin me](https://twitter.com/Molson_Hart/status/1663582588210905091)
 * [2023-05-30, 17:26:46](https://news.ycombinator.com/item?id=36127703) - [JMAP – a much needed modern email open standard](https://jmap.io/)
