@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 22:01:02",
+      "https://news.ycombinator.com/item?id=36131549"
+    ],
+    [
+      "Scaling Data-Constrained Language Models",
+      "https://arxiv.org/abs/2305.16264"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 21:34:55",
       "https://news.ycombinator.com/item?id=36131200"
     ],
@@ -257,16 +267,6 @@
     [
       "Statement on AI Risk",
       "https://www.safe.ai/statement-on-ai-risk"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 17:47:38",
-      "https://news.ycombinator.com/item?id=36116192"
-    ],
-    [
-      "Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs",
-      "https://arxiv.org/abs/2305.12784"
     ]
   ],
   [
