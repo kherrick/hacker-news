@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 * [2023-05-30, 21:34:55](https://news.ycombinator.com/item?id=36131200) - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
 * [2023-05-30, 21:14:20](https://news.ycombinator.com/item?id=36130911) - [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
 * [2023-05-30, 21:10:20](https://news.ycombinator.com/item?id=36130851) - [Elizabeth Holmes: Inside the Routine at the Federal Prison Camp in Bryan, Texas](https://www.bbc.com/news/world-us-canada-65625526)
