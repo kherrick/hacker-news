@@ -85,6 +85,7 @@
 * [2023-05-28, 08:10:20](https://news.ycombinator.com/item?id=36102116) - [Journey and lessons from running a mirroring service at home](https://quantum5.ca/2023/05/28/introducing-my-own-mirroring-service-mirror.quantum5.ca/)
 * [2023-05-28, 08:02:49](https://news.ycombinator.com/item?id=36102082) - [Mirages: On Anthropomorphism in Dialogue Systems](https://arxiv.org/abs/2305.09800)
 * [2023-05-28, 07:47:00](https://news.ycombinator.com/item?id=36102015) - [Txti, the page from motherfuckingwebsite.com, is shutting down](https://txti.es)
+* [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
 * [2023-05-28, 07:26:20](https://news.ycombinator.com/item?id=36101907) - [A New Era of Podcast Mergers Is Just Beginning](https://www.bloomberg.com/news/newsletters/2023-05-25/podcast-consolidation-reaches-smaller-studios-amid-advertising-downturn)
 * [2023-05-28, 06:59:19](https://news.ycombinator.com/item?id=36101784) - [A good day with Jeff Bezos](https://steve-yegge.medium.com/a-good-day-with-jeff-d28e05ed2524)
 * [2023-05-28, 06:12:13](https://news.ycombinator.com/item?id=36101616) - [Venetians are pondering raising their entire city](https://www.economist.com/science-and-technology/2023/05/24/why-venetians-are-pondering-raising-their-entire-city)

@@ -24,10 +24,10 @@
 * [2023-05-30, 11:43:46](https://news.ycombinator.com/item?id=36123651) - [Purely Functional Data Structures (1996) [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 * [2023-05-30, 10:08:15](https://news.ycombinator.com/item?id=36123082) - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 * [2023-05-30, 08:02:12](https://news.ycombinator.com/item?id=36122270) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
-* [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-29, 20:43:22](https://news.ycombinator.com/item?id=36117899) - [When we were first adding Mac OS X guest support at VMware (2022)](https://numi.st/post/2022/facepalm/)
 * [2023-05-29, 17:47:38](https://news.ycombinator.com/item?id=36116192) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs](https://arxiv.org/abs/2305.12784)
 * [2023-05-29, 11:33:49](https://news.ycombinator.com/item?id=36112951) - [Tone: Cross platform audio tagger and metadata editor](https://github.com/sandreas/tone)
+* [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
 * [2023-05-28, 07:26:20](https://news.ycombinator.com/item?id=36101907) - [A New Era of Podcast Mergers Is Just Beginning](https://www.bloomberg.com/news/newsletters/2023-05-25/podcast-consolidation-reaches-smaller-studios-amid-advertising-downturn)
 * [2023-05-27, 17:41:06](https://news.ycombinator.com/item?id=36096604) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 
