@@ -62,6 +62,7 @@
 * [2023-05-29, 12:30:13](https://news.ycombinator.com/item?id=36113307) - [Amprius High-Density Batteries Go Aloft](https://www.eetimes.com/amprius-high-density-batteries-go-aloft/)
 * [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Mullvad: Removing the Support for Forwarded Ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
 * [2023-05-29, 12:04:09](https://news.ycombinator.com/item?id=36113115) - [Using computers more freely and safely (2022)](http://akkartik.name/freewheeling)
+* [2023-05-29, 11:38:27](https://news.ycombinator.com/item?id=36112977) - [Being a Good Unix Neighbour](https://leblancfg.com/level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour.html#level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour)
 * [2023-05-29, 11:15:25](https://news.ycombinator.com/item?id=36112834) - [Fossil tells the &#x27;tail&#x27; of an ancient beast](https://phys.org/news/2023-05-fossil-tail-ancient-beast.html)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 10:45:33](https://news.ycombinator.com/item?id=36112641) - [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)

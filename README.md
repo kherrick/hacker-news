@@ -24,7 +24,7 @@
 * [2023-05-29, 13:08:04](https://news.ycombinator.com/item?id=36113586) - [Thanks, David Peter](https://duncanlock.net/blog/2023/05/28/thanks-david-peter/)
 * [2023-05-29, 12:49:41](https://news.ycombinator.com/item?id=36113432) - [Deus Ex – Alpha Terrain](https://simonschreibt.de/gat/deus-ex-alpha-terrain/)
 * [2023-05-29, 12:49:11](https://news.ycombinator.com/item?id=36113430) - [300ms Faster: Reducing Wikipedia&#x27;s total blocking time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/)
-* [2023-05-29, 12:17:54](https://news.ycombinator.com/item?id=36113215) - [Removing support for forwarded ports](https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/)
+* [2023-05-29, 11:38:27](https://news.ycombinator.com/item?id=36112977) - [Being a Good Unix Neighbour](https://leblancfg.com/level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour.html#level-up-your-command-line-skills-the-secret-to-being-a-good-unix-neighbour)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts: a new history of the Index of Prohibited Books](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
