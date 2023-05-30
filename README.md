@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
-* [2023-05-30, 18:25:33](https://news.ycombinator.com/item?id=36128547) - [Scientists warned about climate change in 1965](https://knowablemagazine.org/article/food-environment/2023/scientists-warned-climate-change-1965-podcast)
 * [2023-05-30, 18:21:38](https://news.ycombinator.com/item?id=36128484) - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.co.uk/article/molly-white-crypto-scams)
 * [2023-05-30, 18:18:38](https://news.ycombinator.com/item?id=36128435) - [Purdue Pharma can protect Sackler owners in opioid bankruptcy, court rules](https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/doc/22-110_complete_opn.pdf#xml=https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/hilite/)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
@@ -22,12 +20,14 @@
 * [2023-05-30, 11:43:46](https://news.ycombinator.com/item?id=36123651) - [Purely Functional Data Structures (1996) [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 * [2023-05-30, 10:08:15](https://news.ycombinator.com/item?id=36123082) - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 * [2023-05-30, 08:02:12](https://news.ycombinator.com/item?id=36122270) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
+* [2023-05-30, 06:52:08](https://news.ycombinator.com/item?id=36121876) - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-29, 21:44:32](https://news.ycombinator.com/item?id=36118470) - [Setris – Tetris with Sand Physics](https://mslivo.itch.io/setris)
 * [2023-05-29, 20:43:22](https://news.ycombinator.com/item?id=36117899) - [When we were first adding Mac OS X guest support at VMware (2022)](https://numi.st/post/2022/facepalm/)
 * [2023-05-29, 17:47:38](https://news.ycombinator.com/item?id=36116192) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs](https://arxiv.org/abs/2305.12784)
 * [2023-05-29, 11:33:49](https://news.ycombinator.com/item?id=36112951) - [Tone: Cross platform audio tagger and metadata editor](https://github.com/sandreas/tone)
 * [2023-05-28, 14:46:34](https://news.ycombinator.com/item?id=36104432) - [New Taschen book on the history of the computer](https://www.wallpaper.com/tech/the-computer-taschen-book)
+* [2023-05-28, 07:26:20](https://news.ycombinator.com/item?id=36101907) - [A New Era of Podcast Mergers Is Just Beginning](https://www.bloomberg.com/news/newsletters/2023-05-25/podcast-consolidation-reaches-smaller-studios-amid-advertising-downturn)
 * [2023-05-28, 04:01:00](https://news.ycombinator.com/item?id=36101004) - [1999 Game Developers Conference (GDC) Recordings Archive](https://archive.org/details/1999_Game_Developers_Conference_Audio)
 * [2023-05-27, 17:41:06](https://news.ycombinator.com/item?id=36096604) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 
