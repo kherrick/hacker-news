@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 12:37:40](https://news.ycombinator.com/item?id=36124090) - [North Korea to Launch Military Spy Satellite for Monitoring U.S. Drills](https://www.cnbc.com/2023/05/30/north-korea-says-it-will-launch-its-first-ever-military-spy-satellite-to-monitor-us-drills.html)
+* [2023-05-30, 12:30:49](https://news.ycombinator.com/item?id=36124025) - [Why is Swift so slow (timeout) in compiling this code?](https://forums.swift.org/t/why-is-swift-so-slow-timeout-in-compiling-this-code/61382)
 * [2023-05-30, 12:19:52](https://news.ycombinator.com/item?id=36123924) - [Ask HN: How come YC startups offering &lt;80k$&#x2F;year?](https://news.ycombinator.com/item?id=36123924)
 * [2023-05-30, 12:00:07](https://news.ycombinator.com/item?id=36123766) - [MindsDB (YC W20) Is Hiring a Product Designer](https://jobs.lever.co/mindsdb/accfd609-8453-42a5-a4c8-1386d954bc85)
 * [2023-05-30, 11:46:44](https://news.ycombinator.com/item?id=36123670) - [The FBI as advanced persistent threat](https://www.theregister.com/2023/05/30/column/)
