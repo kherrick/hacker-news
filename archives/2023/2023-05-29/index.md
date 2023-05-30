@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-29](index.md)
 
+* [2023-05-29, 23:07:27](https://news.ycombinator.com/item?id=36119169) - [VanJS: Vanilla JavaScript Reactive UI Framework](https://vanjs.org/)
 * [2023-05-29, 22:50:59](https://news.ycombinator.com/item?id=36119042) - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
 * [2023-05-29, 22:44:09](https://news.ycombinator.com/item?id=36118990) - [An open-source alternative to QuickBooks](https://bigcapital.ly)
+* [2023-05-29, 22:35:50](https://news.ycombinator.com/item?id=36118918) - [Ask HN: Tired of being a software engineer, what next?](https://news.ycombinator.com/item?id=36118918)
 * [2023-05-29, 22:35:10](https://news.ycombinator.com/item?id=36118913) - [Sigils are an underappreciated programming technology](https://raku-advent.blog/2022/12/20/sigils/)
 * [2023-05-29, 22:29:38](https://news.ycombinator.com/item?id=36118856) - [DNSSEC KSK rollover breaks DNS resolution for .nz domains](https://status.internetnz.nz/incidents/gq1c6slz3198)
 * [2023-05-29, 22:23:59](https://news.ycombinator.com/item?id=36118807) - [Texas Passes Ban on DEI Offices and Tenure Reform at Public Universities](https://thetexan.news/texas-legislature-passes-ban-on-dei-offices-and-tenure-reform-at-public-universities/)

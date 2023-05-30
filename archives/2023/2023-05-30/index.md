@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-05-30](index.md)
+
+* [2023-05-30, 00:18:14](https://news.ycombinator.com/item?id=36119709) - [Ask HN: What challenges are you facing offshoring development to India?](https://news.ycombinator.com/item?id=36119709)
