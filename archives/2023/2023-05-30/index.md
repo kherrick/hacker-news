@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 15:36:32](https://news.ycombinator.com/item?id=36126097) - [React is 10 years old](https://twitter.com/dan_abramov/status/1663263814333153286)
 * [2023-05-30, 15:30:35](https://news.ycombinator.com/item?id=36126032) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
 * [2023-05-30, 15:04:34](https://news.ycombinator.com/item?id=36125701) - [Germany’s Solar Power Generation Hit Record High at Weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
 * [2023-05-30, 14:16:24](https://news.ycombinator.com/item?id=36125143) - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
