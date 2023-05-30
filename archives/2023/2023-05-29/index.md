@@ -17,6 +17,7 @@
 * [2023-05-29, 21:04:34](https://news.ycombinator.com/item?id=36118093) - [Death by design patterns, or On the cognitive load of abstractions in the code](https://alentred.medium.com/cognitive-load-of-abstractions-in-the-source-code-20a889a106d4)
 * [2023-05-29, 21:01:13](https://news.ycombinator.com/item?id=36118074) - [Ivy (YC W23) Is Hiring](https://deep-ivy-ltd.breezy.hr/p/055a500d0e8701-ml-research-engineer?ref=upstract.com)
 * [2023-05-29, 20:47:30](https://news.ycombinator.com/item?id=36117950) - [My First Superoptimizer](https://austinhenley.com/blog/superoptimizer.html)
+* [2023-05-29, 20:43:22](https://news.ycombinator.com/item?id=36117899) - [When we were first adding Mac OS x guest support at VMware (2022)](https://numi.st/post/2022/facepalm/)
 * [2023-05-29, 20:41:51](https://news.ycombinator.com/item?id=36117879) - [Email apnea – are you breathing? (2014)](https://lindastone.net/2014/11/24/are-you-breathing-do-you-have-email-apnea/)
 * [2023-05-29, 20:39:16](https://news.ycombinator.com/item?id=36117846) - [How much would it have cost if GPT-4 had written your code](https://pypi.org/project/cost-of-code/)
 * [2023-05-29, 20:10:36](https://news.ycombinator.com/item?id=36117558) - [LHC experiments see first evidence of a rare Higgs boson decay](https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay)
