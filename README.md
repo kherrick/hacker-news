@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-30, 02:32:07](https://news.ycombinator.com/item?id=36120531) - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
-* [2023-05-30, 02:22:01](https://news.ycombinator.com/item?id=36120484) - [How to Hire a Pop Star for Your Private Party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
+* [2023-05-30, 02:22:01](https://news.ycombinator.com/item?id=36120484) - [How to hire a pop star for your private party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
 * [2023-05-30, 00:47:32](https://news.ycombinator.com/item?id=36119920) - [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
 * [2023-05-29, 22:59:24](https://news.ycombinator.com/item?id=36119102) - [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
 * [2023-05-29, 22:50:59](https://news.ycombinator.com/item?id=36119042) - [Most Bitcoin Inscriptions belong to a single person](https://block21m.substack.com/p/most-bitcoin-inscriptions-belong-d6d)
