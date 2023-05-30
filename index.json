@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-05-30, 14:16:24",
+      "https://news.ycombinator.com/item?id=36125143"
+    ],
+    [
+      "Halton Sequence",
+      "https://en.wikipedia.org/wiki/Halton_sequence"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 14:07:43",
+      "https://news.ycombinator.com/item?id=36125048"
+    ],
+    [
+      "Nvidia is now a $1T company",
+      "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 13:30:02",
+      "https://news.ycombinator.com/item?id=36124659"
+    ],
+    [
+      "Factories in Space",
+      "https://www.factoriesinspace.com/"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 12:56:10",
+      "https://news.ycombinator.com/item?id=36124297"
+    ],
+    [
+      "MDN Blog",
+      "https://developer.mozilla.org/en-US/blog/"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 12:37:40",
       "https://news.ycombinator.com/item?id=36124090"
     ],
@@ -47,16 +87,6 @@
     [
       "Purely Functional Data Structure by Chris Okasaki [pdf]",
       "https://www.cs.cmu.edu/~rwh/students/okasaki.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 11:34:38",
-      "https://news.ycombinator.com/item?id=36123611"
-    ],
-    [
-      "A.I. Poses ‘Risk of Extinction,’ Industry Leaders Warn",
-      "https://www.nytimes.com/2023/05/30/technology/ai-threat-warning.html"
     ]
   ],
   [
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2023-05-29, 20:10:36",
-      "https://news.ycombinator.com/item?id=36117558"
-    ],
-    [
-      "LHC experiments see first evidence of a rare Higgs boson decay",
-      "https://www.interactions.org///press-release/lhc-experiments-see-first-evidence-rare-higgs-boson-decay"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 15:29:58",
-      "https://news.ycombinator.com/item?id=36114896"
-    ],
-    [
-      "Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere",
-      "https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere"
-    ]
-  ],
-  [
-    [
       "2023-05-29, 12:50:41",
       "https://news.ycombinator.com/item?id=36113444"
     ],
     [
       "The UX Research Reckoning is Here",
       "https://medium.com/onebigthought/the-ux-research-reckoning-is-here-c63710ea4084"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 12:49:11",
-      "https://news.ycombinator.com/item?id=36113430"
-    ],
-    [
-      "300ms Faster: Reducing Wikipedia&#x27;s total blocking time",
-      "https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/"
     ]
   ],
   [
