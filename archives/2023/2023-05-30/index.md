@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 21:34:55](https://news.ycombinator.com/item?id=36131200) - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
 * [2023-05-30, 21:10:20](https://news.ycombinator.com/item?id=36130851) - [Elizabeth Holmes: Inside the Routine at the Federal Prison Camp in Bryan, Texas](https://www.bbc.com/news/world-us-canada-65625526)
 * [2023-05-30, 20:33:23](https://news.ycombinator.com/item?id=36130354) - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
 * [2023-05-30, 20:20:21](https://news.ycombinator.com/item?id=36130166) - [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
@@ -19,6 +20,7 @@
 * [2023-05-30, 18:43:40](https://news.ycombinator.com/item?id=36128811) - [Saga Pattern Made Easy](https://temporal.io/blog/saga-pattern-made-easy)
 * [2023-05-30, 18:33:17](https://news.ycombinator.com/item?id=36128648) - [Apple’s big test of data integrity](https://eclecticlight.co/2023/05/30/apples-big-test-of-data-integrity/)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
+* [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking a Philips Sonicare Toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 18:25:33](https://news.ycombinator.com/item?id=36128547) - [Scientists warned about climate change in 1965. Nothing was done](https://knowablemagazine.org/article/food-environment/2023/scientists-warned-climate-change-1965-podcast)
 * [2023-05-30, 18:21:38](https://news.ycombinator.com/item?id=36128484) - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.co.uk/article/molly-white-crypto-scams)
 * [2023-05-30, 18:18:38](https://news.ycombinator.com/item?id=36128435) - [Purdue Pharma can protect Sackler owners in opioid bankruptcy, court rules](https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/doc/22-110_complete_opn.pdf#xml=https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/hilite/)
