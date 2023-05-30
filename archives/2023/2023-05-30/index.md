@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 20:33:23](https://news.ycombinator.com/item?id=36130354) - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
 * [2023-05-30, 20:20:21](https://news.ycombinator.com/item?id=36130166) - [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
 * [2023-05-30, 19:53:33](https://news.ycombinator.com/item?id=36129757) - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
 * [2023-05-30, 19:44:07](https://news.ycombinator.com/item?id=36129622) - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
+* [2023-05-30, 19:42:22](https://news.ycombinator.com/item?id=36129594) - [Plane: Open-Source Alternative to Atlassian&#x27;s Jira](https://github.com/makeplane/plane)
 * [2023-05-30, 19:27:31](https://news.ycombinator.com/item?id=36129387) - [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
 * [2023-05-30, 19:26:39](https://news.ycombinator.com/item?id=36129373) - [Tackling plastic pollution: ‘We can&#x27;t recycle our way out of this’](https://www.france24.com/en/environment/20230530-tackling-plastic-pollution-we-can-t-recycle-our-way-out-of-this)
 * [2023-05-30, 19:15:49](https://news.ycombinator.com/item?id=36129227) - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
