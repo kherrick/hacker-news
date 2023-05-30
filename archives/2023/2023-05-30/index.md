@@ -7,6 +7,7 @@
 * [2023-05-30, 14:16:24](https://news.ycombinator.com/item?id=36125143) - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
 * [2023-05-30, 14:07:43](https://news.ycombinator.com/item?id=36125048) - [Nvidia is now a $1T company](https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value)
 * [2023-05-30, 13:30:02](https://news.ycombinator.com/item?id=36124659) - [Factories in Space](https://www.factoriesinspace.com/)
+* [2023-05-30, 13:04:05](https://news.ycombinator.com/item?id=36124383) - [Google Photos AI still can&#x27;t label gorillas after racist errors](https://www.theregister.com/2023/05/29/ai_in_brief/)
 * [2023-05-30, 12:59:45](https://news.ycombinator.com/item?id=36124341) - [eBay founder gives $2M to defund police – while funding private security startup](https://nypost.com/2023/05/26/ebay-founder-pierre-omidyar-gives-nearly-2m-to-defund-police/)
 * [2023-05-30, 12:56:10](https://news.ycombinator.com/item?id=36124297) - [MDN Blog](https://developer.mozilla.org/en-US/blog/)
 * [2023-05-30, 12:37:40](https://news.ycombinator.com/item?id=36124090) - [North Korea to Launch Military Spy Satellite for Monitoring U.S. Drills](https://www.cnbc.com/2023/05/30/north-korea-says-it-will-launch-its-first-ever-military-spy-satellite-to-monitor-us-drills.html)
