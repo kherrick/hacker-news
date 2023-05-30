@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-30, 02:32:07](https://news.ycombinator.com/item?id=36120531) - [HDF5eis: Storage IO solution for big multidimensional time series sensor data](https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext)
 * [2023-05-30, 02:22:01](https://news.ycombinator.com/item?id=36120484) - [How to Hire a Pop Star for Your Private Party](https://www.newyorker.com/magazine/2023/06/05/how-to-hire-a-pop-star-for-your-private-party)
 * [2023-05-30, 00:47:32](https://news.ycombinator.com/item?id=36119920) - [A chiral aperiodic monotile](https://arxiv.org/abs/2305.17743)
 * [2023-05-29, 22:59:24](https://news.ycombinator.com/item?id=36119102) - [You can serve static data over HTTP](https://ignore.pl/you_can_serve_static_data_over_http.html)
@@ -26,7 +27,6 @@
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A terminal case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
-* [2023-05-28, 20:45:00](https://news.ycombinator.com/item?id=36107619) - [Chocolate and the Steam Engine (2014)](https://chocolateclass.wordpress.com/2014/03/14/chocolate-and-the-steam-engine/)
 * [2023-05-28, 16:39:07](https://news.ycombinator.com/item?id=36105603) - [Pro-cash movement warns that people could be losing more than they bargained for](https://www.wsj.com/articles/cash-only-movement-apple-pay-paper-money-3814f75a)
 * [2023-05-28, 11:54:18](https://news.ycombinator.com/item?id=36103240) - [The First Sherpa to Climb to the Top of Mt. Everest (1954)](https://www.newyorker.com/magazine/1954/06/05/tenzing-of-everest)
 * [2023-05-28, 02:55:04](https://news.ycombinator.com/item?id=36100719) - [Quite a tail: A mouse has been hiding its armor all this time](https://www.nytimes.com/2023/05/24/science/spiny-mouse-armor-tail.html)
