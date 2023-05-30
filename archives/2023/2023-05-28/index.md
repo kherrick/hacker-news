@@ -48,6 +48,7 @@
 * [2023-05-28, 15:03:14](https://news.ycombinator.com/item?id=36104608) - [Retrowin32: Async, DLL loading, tracing execution, and Zig](https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html)
 * [2023-05-28, 14:57:41](https://news.ycombinator.com/item?id=36104547) - [Bcrypt at 25: A Retrospective on Password Security](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
 * [2023-05-28, 14:56:50](https://news.ycombinator.com/item?id=36104533) - [The Gemini protocol as seen by curl maintainer](https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/)
+* [2023-05-28, 14:46:34](https://news.ycombinator.com/item?id=36104432) - [New Taschen book on the history of the computer](https://www.wallpaper.com/tech/the-computer-taschen-book)
 * [2023-05-28, 14:36:49](https://news.ycombinator.com/item?id=36104346) - [Comparing iPhone 13 vs. iPhone 14 for Astrophotography](https://www.diyphotography.net/comparing-iphone-13-vs-iphone-14-for-astrophotography/)
 * [2023-05-28, 14:22:50](https://news.ycombinator.com/item?id=36104234) - [Head-Trapped – Descartes, Dawkins, Hobbes, Marx, Mill, Darwin](https://www.medialens.org/2023/head-trapped-descartes-dawkins-hobbes-marx-mill-darwin-and-the-myth-of-western-civilisation/)
 * [2023-05-28, 14:20:02](https://news.ycombinator.com/item?id=36104213) - [SAR Values of Commercially Available Mobile Phones](https://www.bfs.de/SiteGlobals/Forms/Suche/BfS/EN/SARsuche_Formular.html?queryResultId=null&pageNo=0)
