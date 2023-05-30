@@ -15,7 +15,6 @@
 * [2023-05-30, 18:33:17](https://news.ycombinator.com/item?id=36128648) - [Apple’s big test of data integrity](https://eclecticlight.co/2023/05/30/apples-big-test-of-data-integrity/)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking a Philips Sonicare Toothbrush](https://kuenzi.dev/toothbrush/)
-* [2023-05-30, 18:18:38](https://news.ycombinator.com/item?id=36128435) - [Purdue Pharma can protect Sackler owners in opioid bankruptcy, court rules](https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/doc/22-110_complete_opn.pdf#xml=https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/hilite/)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
 * [2023-05-30, 17:53:00](https://news.ycombinator.com/item?id=36128082) - [Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 * [2023-05-30, 17:52:18](https://news.ycombinator.com/item?id=36128067) - [Creating a Memory-Safe Workstation with CheriBSD [pdf]](https://www.bsdcan.org/events/bsdcan_2023/sessions/session/142/slides/58/20230520-memory-safe-desktop-compressed.pdf)
@@ -28,6 +27,7 @@
 * [2023-05-30, 11:43:46](https://news.ycombinator.com/item?id=36123651) - [Purely Functional Data Structures (1996) [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 * [2023-05-30, 10:08:15](https://news.ycombinator.com/item?id=36123082) - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 * [2023-05-29, 17:47:38](https://news.ycombinator.com/item?id=36116192) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs](https://arxiv.org/abs/2305.12784)
+* [2023-05-28, 11:14:22](https://news.ycombinator.com/item?id=36103040) - [Venetian Arsenal](https://en.wikipedia.org/wiki/Venetian_Arsenal)
 * [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
 * [2023-05-27, 17:41:06](https://news.ycombinator.com/item?id=36096604) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 
