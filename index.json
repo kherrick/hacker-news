@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-30, 15:44:24",
+      "https://news.ycombinator.com/item?id=36126198"
+    ],
+    [
+      "401(k) Hardship Withdrawals Tick Up as Inflation Stays High",
+      "https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 15:36:32",
       "https://news.ycombinator.com/item?id=36126097"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36125701"
     ],
     [
-      "Germany’s Solar Power Generation Hit Record High at Weekend",
+      "Germany’s solar power generation hit record high at weekend",
       "https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend"
     ]
   ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2023-05-30, 14:07:43",
-      "https://news.ycombinator.com/item?id=36125048"
-    ],
-    [
-      "Nvidia is now a $1T company",
-      "https://www.theverge.com/2023/5/30/23742123/nvidia-stock-ai-gpu-1-trillion-market-cap-price-value"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 13:30:02",
       "https://news.ycombinator.com/item?id=36124659"
     ],
     [
       "Factories in Space",
       "https://www.factoriesinspace.com/"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 13:23:44",
-      "https://news.ycombinator.com/item?id=36124587"
-    ],
-    [
-      "AI Is an Insult Now",
-      "https://www.theatlantic.com/technology/archive/2023/05/ai-as-insult-chatgpt-jokes/674232/"
     ]
   ],
   [
@@ -171,6 +161,16 @@
   ],
   [
     [
+      "2023-05-30, 02:32:07",
+      "https://news.ycombinator.com/item?id=36120531"
+    ],
+    [
+      "HDF5eis: Storage IO solution for big multidimensional time series sensor data",
+      "https://pubs.geoscienceworld.org/geophysics/article-abstract/88/3/F29/622154/HDF5eis-A-storage-and-input-output-solution-for?redirectedFrom=fulltext"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 02:28:23",
       "https://news.ycombinator.com/item?id=36120515"
     ],
@@ -187,16 +187,6 @@
     [
       "How to Stare at Your Phone Without Losing Your Soul",
       "https://simone.org/tracking-screen-time/"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 00:47:32",
-      "https://news.ycombinator.com/item?id=36119920"
-    ],
-    [
-      "A chiral aperiodic monotile",
-      "https://arxiv.org/abs/2305.17743"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "CPR&#x27;s true survival rate is lower than many people think",
       "https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr"
+    ]
+  ],
+  [
+    [
+      "2023-05-29, 17:47:38",
+      "https://news.ycombinator.com/item?id=36116192"
+    ],
+    [
+      "Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs",
+      "https://arxiv.org/abs/2305.12784"
     ]
   ],
   [
