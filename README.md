@@ -2,7 +2,6 @@
 
 * [2023-05-30, 08:02:12](https://news.ycombinator.com/item?id=36122270) - [Rust has been forked to the Crab Language](https://github.com/crablang/crab)
 * [2023-05-30, 06:52:08](https://news.ycombinator.com/item?id=36121876) - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
-* [2023-05-30, 05:59:42](https://news.ycombinator.com/item?id=36121571) - [Conic Finance](https://conic.finance/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 * [2023-05-30, 02:56:11](https://news.ycombinator.com/item?id=36120659) - [Macro-ts: TypeScript compiler with typesafe syntactic macros (2022)](https://blainehansen.me/post/macro-ts/)
@@ -26,6 +25,7 @@
 * [2023-05-29, 11:22:49](https://news.ycombinator.com/item?id=36112874) - [Deep-Dive into the Internals of TCP Connection Establishment Process](https://medium.com/@wrong.about/deep-dive-into-tcp-connection-establishment-process-f6cfb7b4e8e1)
 * [2023-05-29, 05:01:25](https://news.ycombinator.com/item?id=36110833) - [A peek inside Japan&#x27;s largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
 * [2023-05-29, 04:14:00](https://news.ycombinator.com/item?id=36110578) - [Unwanted Thoughts: a new history of the Index of Prohibited Books](https://www.nybooks.com/articles/2023/06/08/unwanted-thoughts-index-of-prohibited-books-vose/)
+* [2023-05-28, 20:45:00](https://news.ycombinator.com/item?id=36107619) - [Chocolate and the Steam Engine (2014)](https://chocolateclass.wordpress.com/2014/03/14/chocolate-and-the-steam-engine/)
 * [2023-05-28, 14:46:34](https://news.ycombinator.com/item?id=36104432) - [New Taschen book on the history of the computer](https://www.wallpaper.com/tech/the-computer-taschen-book)
 * [2023-05-28, 14:01:50](https://news.ycombinator.com/item?id=36104055) - [The odd appeal of absurdly long YouTube videos](https://www.theverge.com/2023/5/28/23738957/youtube-videos-24-hours-blank-screen)
 * [2023-05-28, 11:54:18](https://news.ycombinator.com/item?id=36103240) - [The First Sherpa to Climb to the Top of Mt. Everest (1954)](https://www.newyorker.com/magazine/1954/06/05/tenzing-of-everest)
