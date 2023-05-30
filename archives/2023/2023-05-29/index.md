@@ -38,6 +38,7 @@
 * [2023-05-29, 16:16:13](https://news.ycombinator.com/item?id=36115321) - [Joker is a small interpreted dialect of Clojure written in Go](https://joker-lang.org/)
 * [2023-05-29, 16:12:22](https://news.ycombinator.com/item?id=36115283) - [One Click Deepfake](https://github.com/s0md3v/roop)
 * [2023-05-29, 16:07:53](https://news.ycombinator.com/item?id=36115231) - [Heavy electric trucks cheaper than diesel goods trucks](https://www.chalmers.se/en/current/news/e2-heavy-electric-trucks-cheaper-than-diesel-goods-trucks/)
+* [2023-05-29, 16:05:44](https://news.ycombinator.com/item?id=36115208) - [A path to niche skill-sets and community](https://cendyne.dev/posts/2023-05-29-a-path-to-niche-skillsets-and-community.html)
 * [2023-05-29, 15:48:36](https://news.ycombinator.com/item?id=36115062) - [As rising oceans threaten NYC, study documents another risk: The city is sinking](https://apnews.com/article/new-york-sinking-sea-level-rise-77c92f3603e90d7322b54e339d085abb)
 * [2023-05-29, 15:45:42](https://news.ycombinator.com/item?id=36115034) - [‘Massive’ Tesla leak reveals data breaches, thousands of safety complaints](https://www.theguardian.com/technology/2023/may/26/tesla-data-leak-customers-employees-safety-complaints)
 * [2023-05-29, 15:29:58](https://news.ycombinator.com/item?id=36114896) - [Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere](https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere)
