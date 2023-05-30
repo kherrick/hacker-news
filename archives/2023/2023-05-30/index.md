@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 17:00:01](https://news.ycombinator.com/item?id=36127321) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-30, 16:42:24](https://news.ycombinator.com/item?id=36127058) - [Lyft’s plan to take control of its maps – and its future](https://www.lyft.com/rev/posts/lyfts-secret-plan-to-take-control-of-its-maps-and-its-future)
 * [2023-05-30, 15:54:15](https://news.ycombinator.com/item?id=36126343) - [EU achieved independence from Russian fossil fuels](https://insightnews.media/eu-achieved-independence-from-russian-fossil-fuels/)
 * [2023-05-30, 15:44:24](https://news.ycombinator.com/item?id=36126198) - [401(k) Hardship Withdrawals Tick Up as Inflation Stays High](https://www.nytimes.com/2023/05/27/business/401k-hardship-withdrawals-retirement.html)

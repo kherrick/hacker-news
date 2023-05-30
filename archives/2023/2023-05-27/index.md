@@ -64,6 +64,7 @@
 * [2023-05-27, 11:14:07](https://news.ycombinator.com/item?id=36093756) - [Henry Kissinger turns 100 today](https://en.wikipedia.org/wiki/Henry_Kissinger)
 * [2023-05-27, 10:37:08](https://news.ycombinator.com/item?id=36093583) - [Virginia lottery flaw lets same people win repeatedly](https://wtop.com/virginia/2023/05/virginia-lottery-for-rare-whiskey-sours-as-flaw-lets-same-people-win-repeatedly/)
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
+* [2023-05-27, 08:54:49](https://news.ycombinator.com/item?id=36093120) - [Haskell Optimization Handbook](https://github.com/haskellfoundation/hs-opt-handbook.github.io)
 * [2023-05-27, 08:48:03](https://news.ycombinator.com/item?id=36093089) - [I Won $5M from the MyPillow Guy and Saved Democracy](https://www.politico.com/news/magazine/2023/05/26/my-pillow-mike-lindell-investigation-00097903)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:48:22](https://news.ycombinator.com/item?id=36092844) - [How well does your country provide for its citizens?](https://www.economist.com/graphic-detail/2023/05/24/how-well-does-your-country-provide-for-its-citizens)
