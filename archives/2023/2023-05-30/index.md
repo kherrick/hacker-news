@@ -7,6 +7,7 @@
 * [2023-05-30, 21:10:20](https://news.ycombinator.com/item?id=36130851) - [Elizabeth Holmes: Inside the Routine at the Federal Prison Camp in Bryan, Texas](https://www.bbc.com/news/world-us-canada-65625526)
 * [2023-05-30, 20:33:23](https://news.ycombinator.com/item?id=36130354) - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
 * [2023-05-30, 20:20:21](https://news.ycombinator.com/item?id=36130166) - [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
+* [2023-05-30, 20:20:17](https://news.ycombinator.com/item?id=36130164) - [I&#x27;m Not a Passionate Developer](https://koodihommia.blogspot.com/2022/06/im-not-passionate-developer.html)
 * [2023-05-30, 20:16:56](https://news.ycombinator.com/item?id=36130116) - [25 things I’ve learned about life the hard way before turning 25](https://ednevsky.substack.com/p/25-things-ive-learned-about-life)
 * [2023-05-30, 19:53:33](https://news.ycombinator.com/item?id=36129757) - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
 * [2023-05-30, 19:44:07](https://news.ycombinator.com/item?id=36129622) - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
