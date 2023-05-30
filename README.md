@@ -19,7 +19,7 @@
 * [2023-05-29, 19:19:17](https://news.ycombinator.com/item?id=36117037) - [Show HN: Tiny – A 2D Game Engine in Kotlin Working with Lua](https://minigdx.github.io/tiny/)
 * [2023-05-29, 18:09:09](https://news.ycombinator.com/item?id=36116387) - [The metaverse was never alive in the first place](https://www.fastcompany.com/90893969/metaverse-was-never-alive-in-first-place)
 * [2023-05-29, 15:29:58](https://news.ycombinator.com/item?id=36114896) - [Wikipedia had wrong Vatican flag for years – now incorrect flags are everywhere](https://www.catholicnewsagency.com/news/254032/wikipedia-had-the-wrong-vatican-city-flag-for-years-now-incorrect-flags-are-everywhere)
-* [2023-05-29, 14:59:38](https://news.ycombinator.com/item?id=36114641) - [Software bugs that cause real-world harm](https://pointersgonewild.com/2023/05/29/software-bugs-that-cause-real-world-harm/)
+* [2023-05-29, 15:14:52](https://news.ycombinator.com/item?id=36114775) - [Rheinmetall pilot project for curb stone chargers for EVs](https://www.rheinmetall.com/en/media/news-watch/news/2023/mai/2023-05-16-rheinmetall-launches-first-pilot-project-for-innovative-curb-stone-chargers)
 * [2023-05-29, 14:52:14](https://news.ycombinator.com/item?id=36114562) - [The Johari Window](https://en.wikipedia.org/wiki/Johari_window)
 * [2023-05-29, 12:50:41](https://news.ycombinator.com/item?id=36113444) - [The UX Research Reckoning is Here](https://medium.com/onebigthought/the-ux-research-reckoning-is-here-c63710ea4084)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
