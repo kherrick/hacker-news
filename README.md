@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-30, 17:43:23](https://news.ycombinator.com/item?id=36127951) - [Covid outbreak at CDC gathering infects 181 disease detectives](https://arstechnica.com/health/2023/05/covid-outbreak-at-cdc-gathering-infects-181-disease-detectives/)
 * [2023-05-30, 17:33:39](https://news.ycombinator.com/item?id=36127800) - [I criticized Amazon’s policies in a blog. Their lawyers are trying to ruin me](https://twitter.com/Molson_Hart/status/1663582588210905091)
+* [2023-05-30, 17:26:46](https://news.ycombinator.com/item?id=36127703) - [JMAP – a much needed modern email open standard](https://jmap.io/)
+* [2023-05-30, 17:16:16](https://news.ycombinator.com/item?id=36127543) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 16:53:58](https://news.ycombinator.com/item?id=36127230) - [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
 * [2023-05-30, 16:42:24](https://news.ycombinator.com/item?id=36127058) - [Lyft’s plan to take control of its maps and its future](https://www.lyft.com/rev/posts/lyfts-secret-plan-to-take-control-of-its-maps-and-its-future)
 * [2023-05-30, 15:51:45](https://news.ycombinator.com/item?id=36126298) - [OpenAI isn’t doing enough to make ChatGPT’s limitations clear](https://www.theverge.com/2023/5/30/23741996/openai-chatgpt-false-information-misinformation-responsibility)
 * [2023-05-30, 15:30:35](https://news.ycombinator.com/item?id=36126032) - [WASIX, the Superset of WASI Supporting Threads, Processes and Sockets](https://wasmer.io/posts/announcing-wasix)
-* [2023-05-30, 15:04:34](https://news.ycombinator.com/item?id=36125701) - [Germany’s solar power generation hit record high at weekend](https://www.bloomberg.com/news/articles/2023-05-29/germany-s-solar-power-generation-hit-record-high-at-weekend)
-* [2023-05-30, 14:16:24](https://news.ycombinator.com/item?id=36125143) - [Halton Sequence](https://en.wikipedia.org/wiki/Halton_sequence)
 * [2023-05-30, 14:14:07](https://news.ycombinator.com/item?id=36125118) - [Noodl is going open source](https://www.noodl.net//open-source)
 * [2023-05-30, 13:30:02](https://news.ycombinator.com/item?id=36124659) - [Factories in Space](https://www.factoriesinspace.com/)
 * [2023-05-30, 13:06:51](https://news.ycombinator.com/item?id=36124415) - [I have gained admin access to numerous GCloud Organizations by accident](https://news.ycombinator.com/item?id=36124415)
@@ -21,8 +22,6 @@
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
 * [2023-05-29, 21:44:32](https://news.ycombinator.com/item?id=36118470) - [Setris – Tetris with Sand Physics](https://mslivo.itch.io/setris)
 * [2023-05-29, 20:43:22](https://news.ycombinator.com/item?id=36117899) - [When we were first adding Mac OS X guest support at VMware (2022)](https://numi.st/post/2022/facepalm/)
-* [2023-05-29, 20:41:51](https://news.ycombinator.com/item?id=36117879) - [Are you breathing? Do you have email apnea? (2014)](https://lindastone.net/2014/11/24/are-you-breathing-do-you-have-email-apnea/)
-* [2023-05-29, 19:09:59](https://news.ycombinator.com/item?id=36116937) - [CPR&#x27;s true survival rate is lower than many people think](https://www.npr.org/sections/health-shots/2023/05/29/1177914622/a-natural-death-may-be-preferable-for-many-than-enduring-cpr)
 * [2023-05-29, 17:47:38](https://news.ycombinator.com/item?id=36116192) - [Hot Pixels: Frequency, Power, and Temperature Attacks on GPUs and Arm SoCs](https://arxiv.org/abs/2305.12784)
 * [2023-05-29, 11:33:49](https://news.ycombinator.com/item?id=36112951) - [Tone: Cross platform audio tagger and metadata editor](https://github.com/sandreas/tone)
 * [2023-05-29, 05:01:25](https://news.ycombinator.com/item?id=36110833) - [A peek inside Japan&#x27;s largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
@@ -30,6 +29,7 @@
 * [2023-05-28, 04:01:00](https://news.ycombinator.com/item?id=36101004) - [1999 Game Developers Conference (GDC) Recordings Archive](https://archive.org/details/1999_Game_Developers_Conference_Audio)
 * [2023-05-27, 17:41:06](https://news.ycombinator.com/item?id=36096604) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 * [2023-05-27, 08:54:49](https://news.ycombinator.com/item?id=36093120) - [Haskell Optimization Handbook](https://github.com/haskellfoundation/hs-opt-handbook.github.io)
+* [2023-05-27, 08:16:32](https://news.ycombinator.com/item?id=36092965) - [Explaining Mainframe Pricing](https://planetmainframe.com/2023/05/explaining-mainframe-pricing-to-the-cloud-guys/)
 
 ## [Archives](archives/index.md)
 

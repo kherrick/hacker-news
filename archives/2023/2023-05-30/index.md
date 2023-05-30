@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 17:43:23](https://news.ycombinator.com/item?id=36127951) - [Covid outbreak at CDC gathering infects 181 disease detectives](https://arstechnica.com/health/2023/05/covid-outbreak-at-cdc-gathering-infects-181-disease-detectives/)
 * [2023-05-30, 17:33:39](https://news.ycombinator.com/item?id=36127800) - [I criticized Amazon’s policies in a blog. Their lawyers are trying to ruin me](https://twitter.com/Molson_Hart/status/1663582588210905091)
+* [2023-05-30, 17:26:46](https://news.ycombinator.com/item?id=36127703) - [JMAP – a much needed modern email open standard](https://jmap.io/)
+* [2023-05-30, 17:16:16](https://news.ycombinator.com/item?id=36127543) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 17:00:01](https://news.ycombinator.com/item?id=36127321) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-30, 16:57:59](https://news.ycombinator.com/item?id=36127288) - [Show HN: If you have over 99 tabs in Firefox mobile, you will get an infinity](https://news.ycombinator.com/item?id=36127288)
 * [2023-05-30, 16:53:58](https://news.ycombinator.com/item?id=36127230) - [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)

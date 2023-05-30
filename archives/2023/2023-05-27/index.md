@@ -66,6 +66,7 @@
 * [2023-05-27, 09:34:06](https://news.ycombinator.com/item?id=36093305) - [A free Windows-compatible Operating System](https://github.com/reactos/reactos)
 * [2023-05-27, 08:54:49](https://news.ycombinator.com/item?id=36093120) - [Haskell Optimization Handbook](https://github.com/haskellfoundation/hs-opt-handbook.github.io)
 * [2023-05-27, 08:48:03](https://news.ycombinator.com/item?id=36093089) - [I Won $5M from the MyPillow Guy and Saved Democracy](https://www.politico.com/news/magazine/2023/05/26/my-pillow-mike-lindell-investigation-00097903)
+* [2023-05-27, 08:16:32](https://news.ycombinator.com/item?id=36092965) - [Explaining Mainframe Pricing](https://planetmainframe.com/2023/05/explaining-mainframe-pricing-to-the-cloud-guys/)
 * [2023-05-27, 07:50:27](https://news.ycombinator.com/item?id=36092852) - [Servo, the parallel browser engine written in Rust](https://servo.org/)
 * [2023-05-27, 07:48:22](https://news.ycombinator.com/item?id=36092844) - [How well does your country provide for its citizens?](https://www.economist.com/graphic-detail/2023/05/24/how-well-does-your-country-provide-for-its-citizens)
 * [2023-05-27, 07:46:10](https://news.ycombinator.com/item?id=36092831) - [Ask HN: What is a AI chip and how does it work?](https://news.ycombinator.com/item?id=36092831)
