@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 19:53:33](https://news.ycombinator.com/item?id=36129757) - [New horror revealed in sargassum blob](https://caymannewsservice.com/2023/05/new-horror-revealed-in-sargassum-blob/)
+* [2023-05-30, 19:44:07](https://news.ycombinator.com/item?id=36129622) - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
 * [2023-05-30, 19:27:31](https://news.ycombinator.com/item?id=36129387) - [Turds in AI Generated Art](https://novalis.org/blog/2023-05-30-turds.html)
+* [2023-05-30, 19:15:49](https://news.ycombinator.com/item?id=36129227) - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
+* [2023-05-30, 19:13:11](https://news.ycombinator.com/item?id=36129199) - [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
 * [2023-05-30, 18:43:40](https://news.ycombinator.com/item?id=36128811) - [Saga Pattern Made Easy](https://temporal.io/blog/saga-pattern-made-easy)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 * [2023-05-30, 18:25:33](https://news.ycombinator.com/item?id=36128547) - [Scientists warned about climate change in 1965. Nothing was done](https://knowablemagazine.org/article/food-environment/2023/scientists-warned-climate-change-1965-podcast)
 * [2023-05-30, 18:21:38](https://news.ycombinator.com/item?id=36128484) - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.co.uk/article/molly-white-crypto-scams)
 * [2023-05-30, 18:18:38](https://news.ycombinator.com/item?id=36128435) - [Purdue Pharma can protect Sackler owners in opioid bankruptcy, court rules](https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/doc/22-110_complete_opn.pdf#xml=https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/hilite/)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
+* [2023-05-30, 17:53:00](https://news.ycombinator.com/item?id=36128082) - [Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 * [2023-05-30, 17:52:18](https://news.ycombinator.com/item?id=36128067) - [Creating a Memory-Safe Workstation with CheriBSD [pdf]](https://www.bsdcan.org/events/bsdcan_2023/sessions/session/142/slides/58/20230520-memory-safe-desktop-compressed.pdf)
 * [2023-05-30, 17:43:23](https://news.ycombinator.com/item?id=36127951) - [Covid outbreak at CDC gathering infects 181 disease detectives](https://arstechnica.com/health/2023/05/covid-outbreak-at-cdc-gathering-infects-181-disease-detectives/)
 * [2023-05-30, 17:33:39](https://news.ycombinator.com/item?id=36127800) - [I criticized Amazon’s policies in a blog. Their lawyers are trying to ruin me](https://twitter.com/Molson_Hart/status/1663582588210905091)
