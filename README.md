@@ -2,6 +2,7 @@
 
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
 * [2023-05-31, 00:58:13](https://news.ycombinator.com/item?id=36133226) - [Nvidia DGX GH200: The First 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
+* [2023-05-30, 23:47:25](https://news.ycombinator.com/item?id=36132744) - [Why F# evangelism isn&#x27;t working (2015)](https://ericsink.com/entries/fsharp_chasm.html)
 * [2023-05-30, 23:41:48](https://news.ycombinator.com/item?id=36132693) - [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 * [2023-05-30, 23:01:28](https://news.ycombinator.com/item?id=36132315) - [Noncompete clauses violate labor law, NLRB lawyer says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
 * [2023-05-30, 22:57:46](https://news.ycombinator.com/item?id=36132265) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
@@ -26,7 +27,6 @@
 * [2023-05-30, 17:26:46](https://news.ycombinator.com/item?id=36127703) - [JMAP – a modern email open standard](https://jmap.io/)
 * [2023-05-30, 17:16:16](https://news.ycombinator.com/item?id=36127543) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 16:53:58](https://news.ycombinator.com/item?id=36127230) - [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
-* [2023-05-30, 11:43:46](https://news.ycombinator.com/item?id=36123651) - [Purely Functional Data Structures (1996) [pdf]](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf)
 * [2023-05-29, 05:24:50](https://news.ycombinator.com/item?id=36110951) - [Kappa Architecture Is Mainstream Replacing Lambda (2021)](https://www.kai-waehner.de/blog/2021/09/23/real-time-kappa-architecture-mainstream-replacing-batch-lambda/)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
 * [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
