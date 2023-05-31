@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-31, 19:30:53](https://news.ycombinator.com/item?id=36142971) - [Old Reddit is open source](https://github.com/reddit-archive/reddit)
+* [2023-05-31, 19:30:53](https://news.ycombinator.com/item?id=36142971) - [Historical code from reddit.com](https://github.com/reddit-archive/reddit)
 * [2023-05-31, 19:15:37](https://news.ycombinator.com/item?id=36142708) - [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
 * [2023-05-31, 18:56:11](https://news.ycombinator.com/item?id=36142418) - [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
 * [2023-05-31, 18:47:59](https://news.ycombinator.com/item?id=36142285) - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
@@ -16,7 +16,6 @@
 * [2023-05-31, 16:22:48](https://news.ycombinator.com/item?id=36140177) - [Rise: Accelerate the Development of Open Source Software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
 * [2023-05-31, 15:58:38](https://news.ycombinator.com/item?id=36139852) - [The greatest risk of AI is from the people who control it, not the tech itself](https://aisnakeoil.substack.com/p/is-avoiding-extinction-from-ai-really)
 * [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
-* [2023-05-31, 15:18:04](https://news.ycombinator.com/item?id=36139349) - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
 * [2023-05-31, 14:11:49](https://news.ycombinator.com/item?id=36138642) - [When LIMIT 9 works but LIMIT 10 hangs: A short debugging story](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
 * [2023-05-31, 13:41:55](https://news.ycombinator.com/item?id=36138304) - [Slide to Unlock](https://cs.uwaterloo.ca/~csk/slide/)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Some models of Gigabyte motherboards download firmware updates insecurely](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
@@ -27,6 +26,7 @@
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 07:55:55](https://news.ycombinator.com/item?id=36135683) - [Show HN: Micro Chat – Private group chat](https://micro.mu/)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
+* [2023-05-30, 22:19:52](https://news.ycombinator.com/item?id=36131780) - [Even After Debunking, ‘Sybil’ Hasn’t Gone Away](https://www.nytimes.com/2023/05/28/books/sybil-50th-anniversary.html)
 * [2023-05-30, 21:35:45](https://news.ycombinator.com/item?id=36131210) - [Rde: A configuration framework for GNU Guix](https://www.youtube.com/watch?v=6yrYWjjuIOs)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 05:39:42](https://news.ycombinator.com/item?id=36121482) - [ES modules: A cartoon deep-dive (2018)](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
