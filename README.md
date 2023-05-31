@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-31, 19:52:54](https://news.ycombinator.com/item?id=36143308) - [Developer says Reddit will charge him $20M&#x2F;yr API fees to keep his app working](https://www.theverge.com/2023/5/31/23743993/reddit-apollo-client-api-cost)
+* [2023-05-31, 20:40:13](https://news.ycombinator.com/item?id=36144033) - [1000W 12V –&gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
 * [2023-05-31, 19:30:53](https://news.ycombinator.com/item?id=36142971) - [Historical code from reddit.com](https://github.com/reddit-archive/reddit)
 * [2023-05-31, 19:19:16](https://news.ycombinator.com/item?id=36142763) - [I decided not to commercialize nbdev](https://hamel.dev/blog/posts/nbdev/)
 * [2023-05-31, 18:05:03](https://news.ycombinator.com/item?id=36141544) - [OpenAI&#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
@@ -11,6 +11,7 @@
 * [2023-05-31, 17:15:59](https://news.ycombinator.com/item?id=36140861) - [Improving Mathematical Reasoning with Process Supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)
 * [2023-05-31, 17:00:04](https://news.ycombinator.com/item?id=36140639) - [Provision (YC S22) Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
 * [2023-05-31, 16:51:34](https://news.ycombinator.com/item?id=36140520) - [Tell HN: YouTube Download Websites Disappearing from Google Search Results](https://news.ycombinator.com/item?id=36140520)
+* [2023-05-31, 16:39:49](https://news.ycombinator.com/item?id=36140380) - [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
 * [2023-05-31, 16:22:48](https://news.ycombinator.com/item?id=36140177) - [Rise: Accelerate the Development of Open Source Software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
 * [2023-05-31, 15:58:38](https://news.ycombinator.com/item?id=36139852) - [The greatest risk of AI is from the people who control it, not the tech itself](https://aisnakeoil.substack.com/p/is-avoiding-extinction-from-ai-really)
 * [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
@@ -26,7 +27,6 @@
 * [2023-05-31, 07:55:55](https://news.ycombinator.com/item?id=36135683) - [Show HN: Micro Chat – Private group chat](https://micro.mu/)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 02:47:29](https://news.ycombinator.com/item?id=36133917) - [The Mystery of the Disappearing van Gogh](https://www.nytimes.com/2023/05/29/world/asia/van-gogh-china-buyer.html)
-* [2023-05-30, 22:19:52](https://news.ycombinator.com/item?id=36131780) - [Even After Debunking, ‘Sybil’ Hasn’t Gone Away](https://www.nytimes.com/2023/05/28/books/sybil-50th-anniversary.html)
 * [2023-05-30, 21:35:45](https://news.ycombinator.com/item?id=36131210) - [Rde: A configuration framework for GNU Guix](https://www.youtube.com/watch?v=6yrYWjjuIOs)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 05:39:42](https://news.ycombinator.com/item?id=36121482) - [ES modules: A cartoon deep-dive (2018)](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
