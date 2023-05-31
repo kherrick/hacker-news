@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-05-31, 18:06:39",
+      "https://news.ycombinator.com/item?id=36141570"
+    ],
+    [
+      "Vasectomies rose by 29% after the end of Roe",
+      "https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 17:46:22",
       "https://news.ycombinator.com/item?id=36141244"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2023-05-31, 17:30:39",
-      "https://news.ycombinator.com/item?id=36141083"
+      "2023-05-31, 17:35:51",
+      "https://news.ycombinator.com/item?id=36141107"
     ],
     [
-      "Had a call with Reddit to discuss pricing. Bad news for third-party apps",
-      "https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/"
+      "Zulip 7.0: Threaded open-source team chat",
+      "https://blog.zulip.com/2023/05/31/zulip-7-0-released/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Zeal is an offline documentation browser for software developers",
       "https://zealdocs.org/"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 08:20:24",
-      "https://news.ycombinator.com/item?id=36135844"
-    ],
-    [
-      "Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration",
-      "https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html"
     ]
   ],
   [
