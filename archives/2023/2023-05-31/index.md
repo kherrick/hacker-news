@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 07:34:49](https://news.ycombinator.com/item?id=36135556) - [Why won’t Google give an answer on whether Bard was trained on Gmail data?](https://skiff.com/blog/was-bard-trained-on-gmail-data)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
