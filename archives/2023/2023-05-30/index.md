@@ -83,6 +83,7 @@
 * [2023-05-30, 06:52:08](https://news.ycombinator.com/item?id=36121876) - [Dynamic Forms with LiveView Streams](https://fly.io/phoenix-files/dynamic-forms-with-streams/)
 * [2023-05-30, 06:16:45](https://news.ycombinator.com/item?id=36121681) - [A Chiral Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 05:59:42](https://news.ycombinator.com/item?id=36121571) - [Conic Finance](https://conic.finance/)
+* [2023-05-30, 05:57:27](https://news.ycombinator.com/item?id=36121556) - [Kafka’s Trials](https://www.firstthings.com/article/2023/06/kafkas-trials)
 * [2023-05-30, 05:49:51](https://news.ycombinator.com/item?id=36121523) - [Medieval Illustrations of Bonnacons](https://publicdomainreview.org/collection/bonnacons)
 * [2023-05-30, 05:39:42](https://news.ycombinator.com/item?id=36121482) - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
