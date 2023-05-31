@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-05-31, 00:58:13",
+      "https://news.ycombinator.com/item?id=36133226"
+    ],
+    [
+      "Nvidia DGX GH200: The First 100 Terabyte GPU Memory System",
+      "https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 23:47:25",
+      "https://news.ycombinator.com/item?id=36132744"
+    ],
+    [
+      "Why your F# evangelism isn&#x27;t working",
+      "https://ericsink.com/entries/fsharp_chasm.html"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 23:41:48",
       "https://news.ycombinator.com/item?id=36132693"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36132315"
     ],
     [
-      "Noncompete Clauses Violate Labor Law, NLRB Lawyer Says",
+      "Noncompete clauses violate labor law, NLRB lawyer says",
       "https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081"
     ]
   ],
@@ -47,16 +67,6 @@
     [
       "RGBWatermark – protect art against machine learning",
       "https://rgbwatermark.net/"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 22:39:42",
-      "https://news.ycombinator.com/item?id=36132066"
-    ],
-    [
-      "Have we lost our minds?",
-      "https://medium.com/@matthew.botvinick/have-we-lost-our-minds-86d9125bd803"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-05-30, 19:13:11",
-      "https://news.ycombinator.com/item?id=36129199"
-    ],
-    [
-      "MAS.862: The Physics of Information Technology",
-      "https://fab.cba.mit.edu/classes/862.22/index.html"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 18:30:35",
       "https://news.ycombinator.com/item?id=36128618"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-05-30, 10:08:15",
-      "https://news.ycombinator.com/item?id=36123082"
-    ],
-    [
-      "Statement on AI Risk",
-      "https://www.safe.ai/statement-on-ai-risk"
-    ]
-  ],
-  [
-    [
       "2023-05-29, 05:24:50",
       "https://news.ycombinator.com/item?id=36110951"
     ],
     [
       "Kappa Architecture Is Mainstream Replacing Lambda (2021)",
       "https://www.kai-waehner.de/blog/2021/09/23/real-time-kappa-architecture-mainstream-replacing-batch-lambda/"
+    ]
+  ],
+  [
+    [
+      "2023-05-28, 09:54:51",
+      "https://news.ycombinator.com/item?id=36102618"
+    ],
+    [
+      "Controllable Music Inpainting with Mixed-Level and Disentangled Representation",
+      "https://ieeexplore.ieee.org/abstract/document/10096446"
     ]
   ],
   [
