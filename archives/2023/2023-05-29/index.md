@@ -86,6 +86,7 @@
 * [2023-05-29, 07:27:20](https://news.ycombinator.com/item?id=36111596) - [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
 * [2023-05-29, 06:45:28](https://news.ycombinator.com/item?id=36111392) - [The coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 05:30:14](https://news.ycombinator.com/item?id=36110973) - [Standardized exams measure intrinsic ability, not racial&#x2F;socioeconomic privilege](https://milkyeggs.com/society/standardized-exams-measure-intrinsic-ability-not-racial-or-socioeconomic-privilege/)
+* [2023-05-29, 05:24:50](https://news.ycombinator.com/item?id=36110951) - [Kappa Architecture Is Mainstream Replacing Lambda (2021)](https://www.kai-waehner.de/blog/2021/09/23/real-time-kappa-architecture-mainstream-replacing-batch-lambda/)
 * [2023-05-29, 05:01:25](https://news.ycombinator.com/item?id=36110833) - [A peek inside Japan&#x27;s largest “Dagashi” store](https://one-from-nippon.ghost.io/dagashiya/)
 * [2023-05-29, 04:35:44](https://news.ycombinator.com/item?id=36110684) - [Commodore 64 Web server [video]](https://www.youtube.com/watch?v=O2cMnxShCVQ)
 * [2023-05-29, 04:35:15](https://news.ycombinator.com/item?id=36110680) - [Fitting 44% More Data on a C64&#x2F;1541 Floppy Disk](https://www.pagetable.com/?p=1107)

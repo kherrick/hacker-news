@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 23:41:48](https://news.ycombinator.com/item?id=36132693) - [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 * [2023-05-30, 23:01:28](https://news.ycombinator.com/item?id=36132315) - [Noncompete Clauses Violate Labor Law, NLRB Lawyer Says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
+* [2023-05-30, 22:57:46](https://news.ycombinator.com/item?id=36132265) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 * [2023-05-30, 22:51:51](https://news.ycombinator.com/item?id=36132198) - [IRS Can get financial Info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
+* [2023-05-30, 22:46:53](https://news.ycombinator.com/item?id=36132154) - [RGBWatermark – protect art against machine learning](https://rgbwatermark.net/)
+* [2023-05-30, 22:39:42](https://news.ycombinator.com/item?id=36132066) - [Have we lost our minds?](https://medium.com/@matthew.botvinick/have-we-lost-our-minds-86d9125bd803)
 * [2023-05-30, 22:31:45](https://news.ycombinator.com/item?id=36131942) - [Federal Judge Requires &quot;Mandatory Certification Regarding Generative AI&quot;](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
 * [2023-05-30, 22:24:48](https://news.ycombinator.com/item?id=36131838) - [Systemshock: Shockolate – A minimalist and cross platform System Shock source p](https://github.com/Interrupt/systemshock)
+* [2023-05-30, 22:06:06](https://news.ycombinator.com/item?id=36131610) - [Prince Rupert&#x27;s Drop](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop)
 * [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 * [2023-05-30, 21:52:56](https://news.ycombinator.com/item?id=36131450) - [Chain-of-Thought Hub: Measuring LLMs&#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
 * [2023-05-30, 21:43:23](https://news.ycombinator.com/item?id=36131319) - [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
