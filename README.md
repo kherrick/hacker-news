@@ -2,6 +2,7 @@
 
 * [2023-05-31, 07:34:49](https://news.ycombinator.com/item?id=36135556) - [Why won’t Google give an answer on whether Bard was trained on Gmail data?](https://skiff.com/blog/was-bard-trained-on-gmail-data)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
+* [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
 * [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
 * [2023-05-31, 05:22:04](https://news.ycombinator.com/item?id=36134740) - [Shepherd&#x27;s Oasis Statement on Rustconf and Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
@@ -13,7 +14,6 @@
 * [2023-05-30, 22:57:46](https://news.ycombinator.com/item?id=36132265) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 * [2023-05-30, 22:51:51](https://news.ycombinator.com/item?id=36132198) - [IRS can get financial info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
 * [2023-05-30, 22:06:06](https://news.ycombinator.com/item?id=36131610) - [Prince Rupert&#x27;s drop](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop)
-* [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 * [2023-05-30, 21:52:56](https://news.ycombinator.com/item?id=36131450) - [Chain-of-Thought Hub: Measuring LLMs&#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
 * [2023-05-30, 21:43:23](https://news.ycombinator.com/item?id=36131319) - [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
 * [2023-05-30, 20:21:54](https://news.ycombinator.com/item?id=36130191) - [WebRTC support being added to FFmpeg](https://github.com/ossrs/ffmpeg-webrtc/pull/1)
