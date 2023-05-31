@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-31, 18:06:39](https://news.ycombinator.com/item?id=36141570) - [Vasectomies rose by 29% after the end of Roe](https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe)
+* [2023-05-31, 18:05:03](https://news.ycombinator.com/item?id=36141544) - [OpenAI&#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
 * [2023-05-31, 17:46:22](https://news.ycombinator.com/item?id=36141244) - [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
 * [2023-05-31, 17:37:14](https://news.ycombinator.com/item?id=36141131) - [I moved from the US to Sweden after struggling with burnout](https://www.businessinsider.com/sweden-work-life-balance-american-expat-happiness-burnout-2023-5)
 * [2023-05-31, 17:35:51](https://news.ycombinator.com/item?id=36141107) - [Zulip 7.0: Threaded open-source team chat](https://blog.zulip.com/2023/05/31/zulip-7-0-released/)
@@ -8,7 +9,6 @@
 * [2023-05-31, 17:15:59](https://news.ycombinator.com/item?id=36140861) - [Improving Mathematical Reasoning with Process Supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)
 * [2023-05-31, 17:00:04](https://news.ycombinator.com/item?id=36140639) - [Provision (YC S22) Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
 * [2023-05-31, 16:51:34](https://news.ycombinator.com/item?id=36140520) - [Tell HN: YouTube Download Websites Disappearing from Google Search Results](https://news.ycombinator.com/item?id=36140520)
-* [2023-05-31, 16:49:59](https://news.ycombinator.com/item?id=36140494) - [What&#x27;s the best AWS S3 protocol alternative?](https://news.ycombinator.com/item?id=36140494)
 * [2023-05-31, 16:39:49](https://news.ycombinator.com/item?id=36140380) - [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
 * [2023-05-31, 16:22:48](https://news.ycombinator.com/item?id=36140177) - [Rise: Accelerate the Development of Open Source Software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
 * [2023-05-31, 15:58:38](https://news.ycombinator.com/item?id=36139852) - [The greatest risk of AI is from the people who control it, not the tech itself](https://aisnakeoil.substack.com/p/is-avoiding-extinction-from-ai-really)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
 * [2023-05-31, 18:06:39](https://news.ycombinator.com/item?id=36141570) - [Vasectomies rose by 29% after the end of Roe](https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe)
+* [2023-05-31, 18:05:03](https://news.ycombinator.com/item?id=36141544) - [OpenAI&#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
 * [2023-05-31, 17:46:22](https://news.ycombinator.com/item?id=36141244) - [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
 * [2023-05-31, 17:37:14](https://news.ycombinator.com/item?id=36141131) - [I moved from the US to Sweden after struggling with burnout](https://www.businessinsider.com/sweden-work-life-balance-american-expat-happiness-burnout-2023-5)
 * [2023-05-31, 17:35:51](https://news.ycombinator.com/item?id=36141107) - [Zulip 7.0: Threaded open-source team chat](https://blog.zulip.com/2023/05/31/zulip-7-0-released/)
