@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 10:36:44](https://news.ycombinator.com/item?id=36136708) - [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
+* [2023-05-31, 09:29:59](https://news.ycombinator.com/item?id=36136318) - [Train Your Own Private ChatGPT Model for the Cost of a Starbucks Coffee](https://medium.com/@ApacheDolphinScheduler/train-your-own-private-chatgpt-model-for-the-cost-of-a-starbucks-coffee-25c588f450ee)
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 07:34:49](https://news.ycombinator.com/item?id=36135556) - [Why won’t Google give an answer on whether Bard was trained on Gmail data?](https://skiff.com/blog/was-bard-trained-on-gmail-data)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
