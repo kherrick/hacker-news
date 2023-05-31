@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 11:20:15](https://news.ycombinator.com/item?id=36136979) - [Stop Being a Junior](https://kentcdodds.com/blog/stop-being-a-junior)
+* [2023-05-31, 10:56:14](https://news.ycombinator.com/item?id=36136819) - [Rarbg Is No More](https://rarbg.to/index80.php)
 * [2023-05-31, 10:38:03](https://news.ycombinator.com/item?id=36136719) - [Arm announces the Cortex X4 for 2024, plus a 14-core M2-fighter](https://arstechnica.com/gadgets/2023/05/arm-announces-the-cortex-x4-for-2024-plus-a-14-core-m2-fighter/)
 * [2023-05-31, 10:36:44](https://news.ycombinator.com/item?id=36136708) - [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
 * [2023-05-31, 09:29:59](https://news.ycombinator.com/item?id=36136318) - [Train Your Own Private ChatGPT Model for the Cost of a Starbucks Coffee](https://medium.com/@ApacheDolphinScheduler/train-your-own-private-chatgpt-model-for-the-cost-of-a-starbucks-coffee-25c588f450ee)
