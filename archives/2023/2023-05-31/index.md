@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 17:19:40](https://news.ycombinator.com/item?id=36140916) - [Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
 * [2023-05-31, 17:00:04](https://news.ycombinator.com/item?id=36140639) - [Provision (YC S22) Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
 * [2023-05-31, 16:49:59](https://news.ycombinator.com/item?id=36140494) - [What&#x27;s the best AWS S3 protocol alternative?](https://news.ycombinator.com/item?id=36140494)
 * [2023-05-31, 16:48:29](https://news.ycombinator.com/item?id=36140476) - [San Francisco: An Elitist Bubble Ignoring a Crime Epidemic?](https://dustin-godevais.medium.com/san-francisco-an-elitist-bubble-ignoring-a-crime-epidemic-12d853933a91)
 * [2023-05-31, 16:39:49](https://news.ycombinator.com/item?id=36140380) - [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
 * [2023-05-31, 16:36:22](https://news.ycombinator.com/item?id=36140338) - [Weight loss surgeries rise substantially among adolescents: research](https://thehill.com/policy/healthcare/4028398-weight-loss-surgeries-rise-substantially-among-adolescents-research/)
+* [2023-05-31, 16:22:48](https://news.ycombinator.com/item?id=36140177) - [Rise: Accelerate the Development of Open Source Software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
 * [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
 * [2023-05-31, 15:25:36](https://news.ycombinator.com/item?id=36139432) - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 * [2023-05-31, 15:18:04](https://news.ycombinator.com/item?id=36139349) - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
