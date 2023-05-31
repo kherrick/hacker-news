@@ -70,6 +70,7 @@
 * [2023-05-31, 04:21:55](https://news.ycombinator.com/item?id=36134423) - [Hardy Fox, of the avant-garde band The Residents (maybe) (2018)](https://www.nytimes.com/2018/11/03/obituaries/hardy-fox-dead.html)
 * [2023-05-31, 03:52:07](https://news.ycombinator.com/item?id=36134276) - [Remembering GitHub&#x27;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
+* [2023-05-31, 02:47:29](https://news.ycombinator.com/item?id=36133917) - [The Mystery of the Disappearing van Gogh](https://www.nytimes.com/2023/05/29/world/asia/van-gogh-china-buyer.html)
 * [2023-05-31, 02:00:44](https://news.ycombinator.com/item?id=36133643) - [Did Arthur Booth turn his life around after Judge Mindy&#x27;s revelation?](https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/500558-did-arthur-booth-turn-life-judge-mindys-revelation/)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
 * [2023-05-31, 00:58:13](https://news.ycombinator.com/item?id=36133226) - [Nvidia DGX GH200: The First 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
