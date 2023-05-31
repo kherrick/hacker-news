@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 19:15:37](https://news.ycombinator.com/item?id=36142708) - [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
 * [2023-05-31, 18:56:11](https://news.ycombinator.com/item?id=36142418) - [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
 * [2023-05-31, 18:47:59](https://news.ycombinator.com/item?id=36142285) - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
 * [2023-05-31, 18:37:12](https://news.ycombinator.com/item?id=36142088) - [macOS Like Fonts on Manjaro&#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
@@ -25,7 +26,6 @@
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 07:55:55](https://news.ycombinator.com/item?id=36135683) - [Show HN: Micro Chat – Private group chat](https://micro.mu/)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
-* [2023-05-31, 04:21:55](https://news.ycombinator.com/item?id=36134423) - [Hardy Fox, of the avant-garde band The Residents (maybe) (2018)](https://www.nytimes.com/2018/11/03/obituaries/hardy-fox-dead.html)
 * [2023-05-30, 22:39:57](https://news.ycombinator.com/item?id=36132070) - [America Has Too Much Pork](https://www.wsj.com/articles/america-has-too-much-pork-52de4159)
 * [2023-05-30, 21:35:45](https://news.ycombinator.com/item?id=36131210) - [Rde: A configuration framework for GNU Guix](https://www.youtube.com/watch?v=6yrYWjjuIOs)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
