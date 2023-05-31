@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 14:41:46](https://news.ycombinator.com/item?id=36138957) - [Show HN: Front end-Only-Authorization – A new web standard](https://foaz.io/)
 * [2023-05-31, 14:23:38](https://news.ycombinator.com/item?id=36138762) - [A Friday Email Incident](https://dev.37signals.com/a-friday-email-incident/)
+* [2023-05-31, 14:11:49](https://news.ycombinator.com/item?id=36138642) - [When LIMIT 9 works but LIMIT 10 hangs: A short debugging story](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-05-31, 13:34:38](https://news.ycombinator.com/item?id=36138224) - [Ask HN: What&#x27;s the best self hosted&#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 * [2023-05-31, 12:52:57](https://news.ycombinator.com/item?id=36137773) - [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
@@ -11,9 +13,7 @@
 * [2023-05-31, 09:56:22](https://news.ycombinator.com/item?id=36136481) - [Batten Down Fix Later](https://graydon2.dreamwidth.org/307105.html)
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 08:20:24](https://news.ycombinator.com/item?id=36135844) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
-* [2023-05-31, 08:16:08](https://news.ycombinator.com/item?id=36135810) - [Stop dumping your cast-offs on us, Ghanaian clothes traders tell EU](https://www.theguardian.com/global-development/2023/may/31/stop-dumping-your-cast-offs-on-us-ghanaian-clothes-traders-tell-eu)
 * [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
-* [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
 * [2023-05-31, 06:32:50](https://news.ycombinator.com/item?id=36135190) - [Box64 and RISC-V](https://box86.org/2023/05/box64-and-risc-v/)
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
