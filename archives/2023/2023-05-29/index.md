@@ -85,6 +85,7 @@
 * [2023-05-29, 07:44:15](https://news.ycombinator.com/item?id=36111683) - [Connect() – a new API for creating TCP sockets from Cloudflare Workers](https://blog.cloudflare.com/workers-tcp-socket-api-connect-databases/)
 * [2023-05-29, 07:44:15](https://news.ycombinator.com/item?id=36111683) - [Cloudflare Workers Introduces Connect() API to Create TCP Sockets](https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/)
 * [2023-05-29, 07:27:20](https://news.ycombinator.com/item?id=36111596) - [Production AI systems are hard](https://methexis.substack.com/p/production-ai-systems-are-really)
+* [2023-05-29, 06:59:34](https://news.ycombinator.com/item?id=36111465) - [How Iceweasel Was Born](https://www.pcworld.com/article/419749/iceweasel-will-be-renamed-firefox-as-relations-between-debian-and-mozilla-thaw.html)
 * [2023-05-29, 06:45:28](https://news.ycombinator.com/item?id=36111392) - [The coordinate system for an infinite spreadsheet](https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet)
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
 * [2023-05-29, 05:30:14](https://news.ycombinator.com/item?id=36110973) - [Standardized exams measure intrinsic ability, not racial&#x2F;socioeconomic privilege](https://milkyeggs.com/society/standardized-exams-measure-intrinsic-ability-not-racial-or-socioeconomic-privilege/)
