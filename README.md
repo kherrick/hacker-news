@@ -28,7 +28,7 @@
 * [2023-05-29, 09:22:11](https://news.ycombinator.com/item?id=36112216) - [Remembering GitHub&#x27;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
 * [2023-05-29, 06:59:34](https://news.ycombinator.com/item?id=36111465) - [How Iceweasel Was Born](https://www.pcworld.com/article/419749/iceweasel-will-be-renamed-firefox-as-relations-between-debian-and-mozilla-thaw.html)
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
-* [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
+* [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping (2012)](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
 
 ## [Archives](archives/index.md)
