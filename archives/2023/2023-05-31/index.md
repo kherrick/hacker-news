@@ -6,6 +6,7 @@
 
 * [2023-05-31, 21:38:04](https://news.ycombinator.com/item?id=36144674) - [OpenAPI v4 Proposal](https://github.com/OAI/moonwalk)
 * [2023-05-31, 21:16:58](https://news.ycombinator.com/item?id=36144450) - [[Show HN] Lance is a Rust-based alternative to Parquet for ML data](https://github.com/lancedb/lance)
+* [2023-05-31, 20:58:13](https://news.ycombinator.com/item?id=36144241) - [Japan Goes All In: Copyright Doesn’t Apply to AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 * [2023-05-31, 20:55:26](https://news.ycombinator.com/item?id=36144211) - [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
 * [2023-05-31, 20:53:45](https://news.ycombinator.com/item?id=36144188) - [Milk-V Second RISC-V SBC – Physically Compatible with the Raspberry Pi 3 Model B](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8)
 * [2023-05-31, 20:40:13](https://news.ycombinator.com/item?id=36144033) - [1000W 12V –&gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
@@ -60,6 +61,7 @@
 * [2023-05-31, 10:36:44](https://news.ycombinator.com/item?id=36136708) - [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
 * [2023-05-31, 09:56:22](https://news.ycombinator.com/item?id=36136481) - [Batten Down Fix Later](https://graydon2.dreamwidth.org/307105.html)
 * [2023-05-31, 09:29:59](https://news.ycombinator.com/item?id=36136318) - [Train Your Own Private ChatGPT Model for the Cost of a Starbucks Coffee](https://medium.com/@ApacheDolphinScheduler/train-your-own-private-chatgpt-model-for-the-cost-of-a-starbucks-coffee-25c588f450ee)
+* [2023-05-31, 09:11:37](https://news.ycombinator.com/item?id=36136179) - [Notes apps are where ideas go to die. And that’s good](https://www.reproof.app/blog/notes-apps-help-us-forget)
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 08:20:24](https://news.ycombinator.com/item?id=36135844) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-31, 08:16:08](https://news.ycombinator.com/item?id=36135810) - [Stop dumping your cast-offs on us, Ghanaian clothes traders tell EU](https://www.theguardian.com/global-development/2023/may/31/stop-dumping-your-cast-offs-on-us-ghanaian-clothes-traders-tell-eu)
