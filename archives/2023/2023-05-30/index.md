@@ -54,6 +54,7 @@
 * [2023-05-30, 17:00:01](https://news.ycombinator.com/item?id=36127321) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-05-30, 16:57:59](https://news.ycombinator.com/item?id=36127288) - [Show HN: If you have over 99 tabs in Firefox mobile, you will get an infinity](https://news.ycombinator.com/item?id=36127288)
 * [2023-05-30, 16:53:58](https://news.ycombinator.com/item?id=36127230) - [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
+* [2023-05-30, 16:51:42](https://news.ycombinator.com/item?id=36127198) - [The mystery person who spies on theme parks from the sky](https://boingboing.net/2023/05/30/the-mystery-person-who-spies-on-theme-parks-from-the-sky.html)
 * [2023-05-30, 16:42:24](https://news.ycombinator.com/item?id=36127058) - [Lyft’s plan to take control of its maps – and its future](https://www.lyft.com/rev/posts/lyfts-secret-plan-to-take-control-of-its-maps-and-its-future)
 * [2023-05-30, 15:54:15](https://news.ycombinator.com/item?id=36126343) - [EU achieved independence from Russian fossil fuels](https://insightnews.media/eu-achieved-independence-from-russian-fossil-fuels/)
 * [2023-05-30, 15:51:45](https://news.ycombinator.com/item?id=36126298) - [OpenAI isn’t doing enough to make ChatGPT’s limitations clear](https://www.theverge.com/2023/5/30/23741996/openai-chatgpt-false-information-misinformation-responsibility)
