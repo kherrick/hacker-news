@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-30](index.md)
 
+* [2023-05-30, 23:47:25](https://news.ycombinator.com/item?id=36132744) - [Why your F# evangelism isn&#x27;t working](https://ericsink.com/entries/fsharp_chasm.html)
 * [2023-05-30, 23:41:48](https://news.ycombinator.com/item?id=36132693) - [A Mechanistic Interpretability Analysis of Grokking](https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 * [2023-05-30, 23:01:28](https://news.ycombinator.com/item?id=36132315) - [Noncompete Clauses Violate Labor Law, NLRB Lawyer Says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
 * [2023-05-30, 22:57:46](https://news.ycombinator.com/item?id=36132265) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
