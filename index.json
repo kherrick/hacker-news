@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36144674"
     ],
     [
-      "OpenAPI v4 Proposal",
+      "OpenAPI v4 (aka Moonwalk) Proposal",
       "https://github.com/OAI/moonwalk"
     ]
   ],
@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2023-05-31, 20:58:13",
+      "https://news.ycombinator.com/item?id=36144241"
+    ],
+    [
+      "Japan Goes All In: Copyright Doesn’t Apply to AI Training",
+      "https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 20:55:26",
       "https://news.ycombinator.com/item?id=36144211"
     ],
     [
       "Teddit – An alternative Reddit front-end focused on privacy",
       "https://codeberg.org/teddit/teddit"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 20:53:45",
-      "https://news.ycombinator.com/item?id=36144188"
-    ],
-    [
-      "Milk-V Second RISC-V SBC – Physically Compatible with the Raspberry Pi 3 Model B",
-      "https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "You can link an OpenPGP key to a German eID",
       "https://pgp.governikus.de/?lang=EN"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 17:35:51",
-      "https://news.ycombinator.com/item?id=36141107"
-    ],
-    [
-      "Zulip 7.0: Threaded open-source team chat",
-      "https://blog.zulip.com/2023/05/31/zulip-7-0-released/"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36140520"
     ],
     [
-      "Tell HN: YouTube Download Websites Disappearing from Google Search Results",
+      "Tell HN: YouTube download websites disappearing from Google search results",
       "https://news.ycombinator.com/item?id=36140520"
     ]
   ],
@@ -161,22 +151,12 @@
   ],
   [
     [
-      "2023-05-31, 15:49:22",
-      "https://news.ycombinator.com/item?id=36139729"
+      "2023-05-31, 15:18:04",
+      "https://news.ycombinator.com/item?id=36139349"
     ],
     [
-      "AI Camera with No Lens",
-      "https://www.theprompt.io/p/ai-camera-no-lens"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 15:12:06",
-      "https://news.ycombinator.com/item?id=36139276"
-    ],
-    [
-      "AI Everywhere, All at Once",
-      "https://spectrum.ieee.org/ai-ethics-governance"
+      "AI intensifies fight against ‘paper mills’ that churn out fake research",
+      "https://www.nature.com/articles/d41586-023-01780-w"
     ]
   ],
   [
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2023-05-31, 09:11:37",
+      "https://news.ycombinator.com/item?id=36136179"
+    ],
+    [
+      "Notes apps are where ideas go to die. And that’s good",
+      "https://www.reproof.app/blog/notes-apps-help-us-forget"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 08:38:49",
       "https://news.ycombinator.com/item?id=36135955"
     ],
     [
       "Zeal is an offline documentation browser for software developers",
       "https://zealdocs.org/"
+    ]
+  ],
+  [
+    [
+      "2023-05-31, 08:20:24",
+      "https://news.ycombinator.com/item?id=36135844"
+    ],
+    [
+      "Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration",
+      "https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-05-31, 07:30:26",
-      "https://news.ycombinator.com/item?id=36135533"
+      "2023-05-31, 04:21:55",
+      "https://news.ycombinator.com/item?id=36134423"
     ],
     [
-      "AVX512 intrinsics for JDK’s Arrays.sort methods",
-      "https://github.com/openjdk/jdk/pull/14227"
+      "Hardy Fox, of the avant-garde band The Residents (maybe) (2018)",
+      "https://www.nytimes.com/2018/11/03/obituaries/hardy-fox-dead.html"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36131210"
     ],
     [
-      "Rde: A configuration framework for GNU Guix",
+      "Rde: A configuration framework for GNU Guix [video]",
       "https://www.youtube.com/watch?v=6yrYWjjuIOs"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-05-30, 05:39:42",
-      "https://news.ycombinator.com/item?id=36121482"
+      "2023-05-30, 05:57:27",
+      "https://news.ycombinator.com/item?id=36121556"
     ],
     [
-      "ES modules: A cartoon deep-dive (2018)",
-      "https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/"
+      "The Diaries of Franz Kafka",
+      "https://www.firstthings.com/article/2023/06/kafkas-trials"
     ]
   ]
 ]
