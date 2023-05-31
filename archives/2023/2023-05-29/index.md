@@ -72,6 +72,7 @@
 * [2023-05-29, 11:15:25](https://news.ycombinator.com/item?id=36112834) - [Fossil tells the &#x27;tail&#x27; of an ancient beast](https://phys.org/news/2023-05-fossil-tail-ancient-beast.html)
 * [2023-05-29, 11:12:58](https://news.ycombinator.com/item?id=36112815) - [Research on harvesting electricity from humidity in the air](https://techxplore.com/news/2023-05-harvest-abundant-energy-thin-air.html)
 * [2023-05-29, 10:45:33](https://news.ycombinator.com/item?id=36112641) - [Japan will try to beam solar power from space by 2025](https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html)
+* [2023-05-29, 09:22:11](https://news.ycombinator.com/item?id=36112216) - [Remembering GitHub&#x27;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
 * [2023-05-29, 09:15:30](https://news.ycombinator.com/item?id=36112176) - [Clever Code Considered Harmful](https://www.joshwcomeau.com/career/clever-code-considered-harmful/)
 * [2023-05-29, 08:56:01](https://news.ycombinator.com/item?id=36112080) - [Circles Rolling on Circles (2014)](https://plus.maths.org/content/circles-rolling-circles)
 * [2023-05-29, 08:51:42](https://news.ycombinator.com/item?id=36112053) - [A Terminal Case of Linux](https://fasterthanli.me/articles/a-terminal-case-of-linux)
