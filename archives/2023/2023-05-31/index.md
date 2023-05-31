@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 18:06:39](https://news.ycombinator.com/item?id=36141570) - [Vasectomies rose by 29% after the end of Roe](https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe)
 * [2023-05-31, 17:46:22](https://news.ycombinator.com/item?id=36141244) - [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
 * [2023-05-31, 17:37:14](https://news.ycombinator.com/item?id=36141131) - [I moved from the US to Sweden after struggling with burnout](https://www.businessinsider.com/sweden-work-life-balance-american-expat-happiness-burnout-2023-5)
+* [2023-05-31, 17:35:51](https://news.ycombinator.com/item?id=36141107) - [Zulip 7.0: Threaded open-source team chat](https://blog.zulip.com/2023/05/31/zulip-7-0-released/)
 * [2023-05-31, 17:30:39](https://news.ycombinator.com/item?id=36141083) - [Had a call with Reddit to discuss pricing. Bad news for third-party apps](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
 * [2023-05-31, 17:19:40](https://news.ycombinator.com/item?id=36140916) - [Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
 * [2023-05-31, 17:15:59](https://news.ycombinator.com/item?id=36140861) - [Improving Mathematical Reasoning with Process Supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)

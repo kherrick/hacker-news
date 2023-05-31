@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 18:06:39](https://news.ycombinator.com/item?id=36141570) - [Vasectomies rose by 29% after the end of Roe](https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe)
 * [2023-05-31, 17:46:22](https://news.ycombinator.com/item?id=36141244) - [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
 * [2023-05-31, 17:37:14](https://news.ycombinator.com/item?id=36141131) - [I moved from the US to Sweden after struggling with burnout](https://www.businessinsider.com/sweden-work-life-balance-american-expat-happiness-burnout-2023-5)
-* [2023-05-31, 17:30:39](https://news.ycombinator.com/item?id=36141083) - [Had a call with Reddit to discuss pricing. Bad news for third-party apps](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
+* [2023-05-31, 17:35:51](https://news.ycombinator.com/item?id=36141107) - [Zulip 7.0: Threaded open-source team chat](https://blog.zulip.com/2023/05/31/zulip-7-0-released/)
 * [2023-05-31, 17:19:40](https://news.ycombinator.com/item?id=36140916) - [Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
 * [2023-05-31, 17:15:59](https://news.ycombinator.com/item?id=36140861) - [Improving Mathematical Reasoning with Process Supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)
 * [2023-05-31, 17:00:04](https://news.ycombinator.com/item?id=36140639) - [Provision (YC S22) Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
@@ -22,7 +23,6 @@
 * [2023-05-31, 11:55:06](https://news.ycombinator.com/item?id=36137261) - [India cuts periodic table and evolution from school textbooks](https://www.nature.com/articles/d41586-023-01770-y)
 * [2023-05-31, 10:56:14](https://news.ycombinator.com/item?id=36136819) - [Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
-* [2023-05-31, 08:20:24](https://news.ycombinator.com/item?id=36135844) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 06:32:50](https://news.ycombinator.com/item?id=36135190) - [Box64 and RISC-V](https://box86.org/2023/05/box64-and-risc-v/)
 * [2023-05-31, 04:21:55](https://news.ycombinator.com/item?id=36134423) - [Hardy Fox, of the avant-garde band The Residents (maybe) (2018)](https://www.nytimes.com/2018/11/03/obituaries/hardy-fox-dead.html)
