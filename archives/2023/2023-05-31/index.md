@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 19:30:53](https://news.ycombinator.com/item?id=36142971) - [Old Reddit is open source](https://github.com/reddit-archive/reddit)
 * [2023-05-31, 19:15:37](https://news.ycombinator.com/item?id=36142708) - [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
 * [2023-05-31, 18:56:11](https://news.ycombinator.com/item?id=36142418) - [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
 * [2023-05-31, 18:47:59](https://news.ycombinator.com/item?id=36142285) - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)

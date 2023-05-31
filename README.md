@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 19:30:53](https://news.ycombinator.com/item?id=36142971) - [Old Reddit is open source](https://github.com/reddit-archive/reddit)
 * [2023-05-31, 19:15:37](https://news.ycombinator.com/item?id=36142708) - [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
 * [2023-05-31, 18:56:11](https://news.ycombinator.com/item?id=36142418) - [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
 * [2023-05-31, 18:47:59](https://news.ycombinator.com/item?id=36142285) - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
@@ -15,7 +16,6 @@
 * [2023-05-31, 16:22:48](https://news.ycombinator.com/item?id=36140177) - [Rise: Accelerate the Development of Open Source Software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
 * [2023-05-31, 15:58:38](https://news.ycombinator.com/item?id=36139852) - [The greatest risk of AI is from the people who control it, not the tech itself](https://aisnakeoil.substack.com/p/is-avoiding-extinction-from-ai-really)
 * [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
-* [2023-05-31, 15:18:04](https://news.ycombinator.com/item?id=36139349) - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
 * [2023-05-31, 14:11:49](https://news.ycombinator.com/item?id=36138642) - [When LIMIT 9 works but LIMIT 10 hangs: A short debugging story](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
 * [2023-05-31, 13:41:55](https://news.ycombinator.com/item?id=36138304) - [Slide to Unlock](https://cs.uwaterloo.ca/~csk/slide/)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Some models of Gigabyte motherboards download firmware updates insecurely](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
