@@ -66,6 +66,7 @@
 * [2023-05-28, 13:27:59](https://news.ycombinator.com/item?id=36103808) - [Neo-Desktop&#x2F;WindowsXPKg: Keygen for Windows XP](https://github.com/Neo-Desktop/WindowsXPKg)
 * [2023-05-28, 13:27:19](https://news.ycombinator.com/item?id=36103801) - [Why octopuses are building small “cities” off the coast of Australia (2017)](https://arstechnica.com/science/2017/09/why-octopuses-are-building-small-cities-off-the-coast-of-australia/)
 * [2023-05-28, 13:18:49](https://news.ycombinator.com/item?id=36103728) - [The Future of Consumer SBCs: Has the Pi Bubble Burst?](https://www.youtube.com/watch?v=Hjb3bx6vxnc)
+* [2023-05-28, 13:03:47](https://news.ycombinator.com/item?id=36103646) - [What to Do About Aggressive Moose](https://www.adfg.alaska.gov/index.cfm%3Fadfg%3Dlivewith.aggressivemoose)
 * [2023-05-28, 12:58:14](https://news.ycombinator.com/item?id=36103604) - [HP printers should have EPEAT ecolabels revoked, trade group demands](https://arstechnica.com/gadgets/2023/05/hp-printers-should-have-epeat-ecolabels-revoked-trade-group-demands/)
 * [2023-05-28, 12:52:40](https://news.ycombinator.com/item?id=36103559) - [Churchill’s Famine: The killing of three million is a story waiting to be retold](https://openthemagazine.com/columns/churchills-bengal-famine/)
 * [2023-05-28, 12:45:59](https://news.ycombinator.com/item?id=36103530) - [In every country people think others are less happy than they themselves say](https://ourworldindata.org/uploads/2017/04/Happiness-of-others.png)

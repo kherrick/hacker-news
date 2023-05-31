@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-31, 05:05:31](https://news.ycombinator.com/item?id=36134657) - [South Australia passes law to ban “disruptive” protests](https://www.theguardian.com/australia-news/2023/may/31/south-australia-passes-laws-to-crack-down-on-protest-after-disruption-of-oil-and-gas-conference)
-* [2023-05-31, 04:44:17](https://news.ycombinator.com/item?id=36134554) - [Zone of Death (Yellowstone)](https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone))
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
 * [2023-05-31, 00:58:13](https://news.ycombinator.com/item?id=36133226) - [Nvidia DGX GH200: 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
@@ -28,6 +27,7 @@
 * [2023-05-30, 17:16:16](https://news.ycombinator.com/item?id=36127543) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 16:53:58](https://news.ycombinator.com/item?id=36127230) - [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
+* [2023-05-28, 13:03:47](https://news.ycombinator.com/item?id=36103646) - [What to Do About Aggressive Moose](https://www.adfg.alaska.gov/index.cfm%3Fadfg%3Dlivewith.aggressivemoose)
 * [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
 
