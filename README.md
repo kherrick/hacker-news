@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 03:52:07](https://news.ycombinator.com/item?id=36134276) - [Remembering GitHub&#x27;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
+* [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
 * [2023-05-31, 00:58:13](https://news.ycombinator.com/item?id=36133226) - [Nvidia DGX GH200: 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
 * [2023-05-30, 23:47:25](https://news.ycombinator.com/item?id=36132744) - [Why F# evangelism isn&#x27;t working (2015)](https://ericsink.com/entries/fsharp_chasm.html)
@@ -7,7 +9,6 @@
 * [2023-05-30, 23:01:28](https://news.ycombinator.com/item?id=36132315) - [Noncompete clauses violate labor law, NLRB lawyer says](https://www.wsj.com/articles/noncompete-clauses-violate-labor-law-nlrb-lawyer-says-459fc081)
 * [2023-05-30, 22:57:46](https://news.ycombinator.com/item?id=36132265) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 * [2023-05-30, 22:51:51](https://news.ycombinator.com/item?id=36132198) - [IRS can get financial info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
-* [2023-05-30, 22:31:45](https://news.ycombinator.com/item?id=36131942) - [Mandatory Certification Regarding Generative Artificial Intelligence](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
 * [2023-05-30, 22:06:06](https://news.ycombinator.com/item?id=36131610) - [Prince Rupert&#x27;s drop](https://en.wikipedia.org/wiki/Prince_Rupert%27s_drop)
 * [2023-05-30, 22:01:02](https://news.ycombinator.com/item?id=36131549) - [Scaling Data-Constrained Language Models](https://arxiv.org/abs/2305.16264)
 * [2023-05-30, 21:52:56](https://news.ycombinator.com/item?id=36131450) - [Chain-of-Thought Hub: Measuring LLMs&#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
@@ -19,7 +20,6 @@
 * [2023-05-30, 19:42:22](https://news.ycombinator.com/item?id=36129594) - [Plane: Open-Source Alternative to Jira](https://github.com/makeplane/plane)
 * [2023-05-30, 19:15:49](https://news.ycombinator.com/item?id=36129227) - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
 * [2023-05-30, 19:13:11](https://news.ycombinator.com/item?id=36129199) - [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
-* [2023-05-30, 18:33:17](https://news.ycombinator.com/item?id=36128648) - [Apple’s big test of data integrity](https://eclecticlight.co/2023/05/30/apples-big-test-of-data-integrity/)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
