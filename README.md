@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 13:56:41](https://news.ycombinator.com/item?id=36138470) - [All Trillion Dollar companies are started by immigrants or their children](https://twitter.com/kumardexati/status/1663906895055278081)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-05-31, 13:34:38](https://news.ycombinator.com/item?id=36138224) - [Ask HN: What&#x27;s the best self hosted&#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 * [2023-05-31, 12:52:57](https://news.ycombinator.com/item?id=36137773) - [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
@@ -12,7 +13,6 @@
 * [2023-05-31, 08:20:24](https://news.ycombinator.com/item?id=36135844) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
-* [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
 * [2023-05-31, 06:32:50](https://news.ycombinator.com/item?id=36135190) - [Box64 and RISC-V](https://box86.org/2023/05/box64-and-risc-v/)
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
