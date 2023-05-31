@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 21:38:04](https://news.ycombinator.com/item?id=36144674) - [OpenAPI v4 Proposal](https://github.com/OAI/moonwalk)
 * [2023-05-31, 21:16:58](https://news.ycombinator.com/item?id=36144450) - [[Show HN] Lance is a Rust-based alternative to Parquet for ML data](https://github.com/lancedb/lance)
+* [2023-05-31, 20:55:26](https://news.ycombinator.com/item?id=36144211) - [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
 * [2023-05-31, 20:53:45](https://news.ycombinator.com/item?id=36144188) - [Milk-V Second RISC-V SBC – Physically Compatible with the Raspberry Pi 3 Model B](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8)
 * [2023-05-31, 20:40:13](https://news.ycombinator.com/item?id=36144033) - [1000W 12V –&gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
 * [2023-05-31, 19:52:54](https://news.ycombinator.com/item?id=36143308) - [Developer says Reddit will charge him $20M&#x2F;yr API fees to keep his app working](https://www.theverge.com/2023/5/31/23743993/reddit-apollo-client-api-cost)
