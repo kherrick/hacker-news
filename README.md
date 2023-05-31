@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
+* [2023-05-31, 05:22:04](https://news.ycombinator.com/item?id=36134740) - [Shepherd&#x27;s Oasis Statement on Rustconf and Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
 * [2023-05-31, 05:05:31](https://news.ycombinator.com/item?id=36134657) - [South Australia passes law to ban “disruptive” protests](https://www.theguardian.com/australia-news/2023/may/31/south-australia-passes-laws-to-crack-down-on-protest-after-disruption-of-oil-and-gas-conference)
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
@@ -17,8 +19,6 @@
 * [2023-05-30, 20:20:21](https://news.ycombinator.com/item?id=36130166) - [Federal judge: Border searches of cell phones require a warrant](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
 * [2023-05-30, 19:44:07](https://news.ycombinator.com/item?id=36129622) - [UseHooks – A Collection of Server Component Safe React Hooks](https://usehooks.com/)
 * [2023-05-30, 19:42:22](https://news.ycombinator.com/item?id=36129594) - [Plane: Open-Source Alternative to Jira](https://github.com/makeplane/plane)
-* [2023-05-30, 19:15:49](https://news.ycombinator.com/item?id=36129227) - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
-* [2023-05-30, 19:13:11](https://news.ycombinator.com/item?id=36129199) - [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
