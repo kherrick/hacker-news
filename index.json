@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-05-31, 01:04:17",
+      "https://news.ycombinator.com/item?id=36133263"
+    ],
+    [
+      "Feedback: I try to answer “how to become a systems engineer”",
+      "https://rachelbythebay.com/w/2023/05/30/eng/"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 00:58:13",
       "https://news.ycombinator.com/item?id=36133226"
     ],
     [
       "Nvidia DGX GH200: The First 100 Terabyte GPU Memory System",
       "https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 23:47:25",
-      "https://news.ycombinator.com/item?id=36132744"
-    ],
-    [
-      "Why your F# evangelism isn&#x27;t working",
-      "https://ericsink.com/entries/fsharp_chasm.html"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "IRS can get financial info of third parties without notice to third parties [pdf]",
       "https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 22:46:53",
-      "https://news.ycombinator.com/item?id=36132154"
-    ],
-    [
-      "RGBWatermark – protect art against machine learning",
-      "https://rgbwatermark.net/"
     ]
   ],
   [
@@ -181,6 +171,26 @@
   ],
   [
     [
+      "2023-05-30, 19:13:11",
+      "https://news.ycombinator.com/item?id=36129199"
+    ],
+    [
+      "MAS.862: The Physics of Information Technology",
+      "https://fab.cba.mit.edu/classes/862.22/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 18:33:17",
+      "https://news.ycombinator.com/item?id=36128648"
+    ],
+    [
+      "Apple’s big test of data integrity",
+      "https://eclecticlight.co/2023/05/30/apples-big-test-of-data-integrity/"
+    ]
+  ],
+  [
+    [
       "2023-05-30, 18:30:35",
       "https://news.ycombinator.com/item?id=36128618"
     ],
@@ -267,16 +277,6 @@
     [
       "Kappa Architecture Is Mainstream Replacing Lambda (2021)",
       "https://www.kai-waehner.de/blog/2021/09/23/real-time-kappa-architecture-mainstream-replacing-batch-lambda/"
-    ]
-  ],
-  [
-    [
-      "2023-05-28, 09:54:51",
-      "https://news.ycombinator.com/item?id=36102618"
-    ],
-    [
-      "Controllable Music Inpainting with Mixed-Level and Disentangled Representation",
-      "https://ieeexplore.ieee.org/abstract/document/10096446"
     ]
   ],
   [
