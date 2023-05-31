@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
 * [2023-05-31, 15:25:36](https://news.ycombinator.com/item?id=36139432) - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 * [2023-05-31, 15:18:04](https://news.ycombinator.com/item?id=36139349) - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
 * [2023-05-31, 15:11:39](https://news.ycombinator.com/item?id=36139272) - [Auschwitz museum criticizes use of death camp in politics](https://apnews.com/article/poland-ruling-party-tusk-march-auschwitz-e1d2e7c082dd61dedb2d7cb1c22ee4ac)
