@@ -18,6 +18,7 @@
 * [2023-05-30, 21:52:56](https://news.ycombinator.com/item?id=36131450) - [Chain-of-Thought Hub: Measuring LLMs&#x27; Reasoning Performance](https://github.com/FranxYao/chain-of-thought-hub)
 * [2023-05-30, 21:43:23](https://news.ycombinator.com/item?id=36131319) - [Who owns this camera, Nikon? Me or you? [video]](https://www.youtube.com/watch?v=TPyX1WBzxN8)
 * [2023-05-30, 21:35:57](https://news.ycombinator.com/item?id=36131215) - [Show HN: I open sourced the CLI of my API Testing Framework](https://github.com/apitrakr/apitrakr/tree/main/packages/cli)
+* [2023-05-30, 21:35:45](https://news.ycombinator.com/item?id=36131210) - [Rde: A configuration framework for GNU Guix](https://www.youtube.com/watch?v=6yrYWjjuIOs)
 * [2023-05-30, 21:34:55](https://news.ycombinator.com/item?id=36131200) - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
 * [2023-05-30, 21:14:20](https://news.ycombinator.com/item?id=36130911) - [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
 * [2023-05-30, 21:10:20](https://news.ycombinator.com/item?id=36130851) - [Elizabeth Holmes: Inside the Routine at the Federal Prison Camp in Bryan, Texas](https://www.bbc.com/news/world-us-canada-65625526)
