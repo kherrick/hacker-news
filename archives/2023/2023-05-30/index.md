@@ -84,6 +84,7 @@
 * [2023-05-30, 06:16:45](https://news.ycombinator.com/item?id=36121681) - [A Chiral Aperiodic Monotile](https://cs.uwaterloo.ca/~csk/spectre/)
 * [2023-05-30, 05:59:42](https://news.ycombinator.com/item?id=36121571) - [Conic Finance](https://conic.finance/)
 * [2023-05-30, 05:49:51](https://news.ycombinator.com/item?id=36121523) - [Medieval Illustrations of Bonnacons](https://publicdomainreview.org/collection/bonnacons)
+* [2023-05-30, 05:39:42](https://news.ycombinator.com/item?id=36121482) - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 * [2023-05-30, 04:54:21](https://news.ycombinator.com/item?id=36121253) - [NASA&#x27;s Laser Link Boasts Record-Breaking 200 Gbps Speed](https://spectrum.ieee.org/laser-communications)
 * [2023-05-30, 04:27:04](https://news.ycombinator.com/item?id=36121132) - [NestJS Is Now the Most Popular Node Framework](https://github.com/nestjs/nest)
 * [2023-05-30, 03:55:41](https://news.ycombinator.com/item?id=36120972) - [I gave commit rights to someone I didn&#x27;t know (2016)](https://tech.davis-hansson.com/p/clickbait/)
