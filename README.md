@@ -25,7 +25,7 @@
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
 * [2023-05-30, 17:53:00](https://news.ycombinator.com/item?id=36128082) - [Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 * [2023-05-30, 17:26:46](https://news.ycombinator.com/item?id=36127703) - [JMAP – a modern email open standard](https://jmap.io/)
-* [2023-05-30, 17:16:16](https://news.ycombinator.com/item?id=36127543) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
+* [2023-05-30, 05:49:51](https://news.ycombinator.com/item?id=36121523) - [Medieval Illustrations of Bonnacons](https://publicdomainreview.org/collection/bonnacons)
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
 * [2023-05-28, 13:03:47](https://news.ycombinator.com/item?id=36103646) - [What to Do About Aggressive Moose](https://www.adfg.alaska.gov/index.cfm%3Fadfg%3Dlivewith.aggressivemoose)
 * [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
