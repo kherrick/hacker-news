@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36142971"
     ],
     [
-      "Old Reddit is open source",
+      "Historical code from reddit.com",
       "https://github.com/reddit-archive/reddit"
     ]
   ],
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-05-31, 15:18:04",
-      "https://news.ycombinator.com/item?id=36139349"
-    ],
-    [
-      "AI intensifies fight against ‘paper mills’ that churn out fake research",
-      "https://www.nature.com/articles/d41586-023-01780-w"
-    ]
-  ],
-  [
-    [
       "2023-05-31, 14:11:49",
       "https://news.ycombinator.com/item?id=36138642"
     ],
@@ -267,6 +257,16 @@
     [
       "AVX512 intrinsics for JDK’s Arrays.sort methods",
       "https://github.com/openjdk/jdk/pull/14227"
+    ]
+  ],
+  [
+    [
+      "2023-05-30, 22:19:52",
+      "https://news.ycombinator.com/item?id=36131780"
+    ],
+    [
+      "Even After Debunking, ‘Sybil’ Hasn’t Gone Away",
+      "https://www.nytimes.com/2023/05/28/books/sybil-50th-anniversary.html"
     ]
   ],
   [
