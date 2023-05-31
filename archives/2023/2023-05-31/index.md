@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 17:30:39](https://news.ycombinator.com/item?id=36141083) - [Had a call with Reddit to discuss pricing. Bad news for third-party apps](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
 * [2023-05-31, 17:19:40](https://news.ycombinator.com/item?id=36140916) - [Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
+* [2023-05-31, 17:15:59](https://news.ycombinator.com/item?id=36140861) - [Improving Mathematical Reasoning with Process Supervision](https://openai.com/research/improving-mathematical-reasoning-with-process-supervision)
 * [2023-05-31, 17:00:04](https://news.ycombinator.com/item?id=36140639) - [Provision (YC S22) Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
 * [2023-05-31, 16:49:59](https://news.ycombinator.com/item?id=36140494) - [What&#x27;s the best AWS S3 protocol alternative?](https://news.ycombinator.com/item?id=36140494)
 * [2023-05-31, 16:48:29](https://news.ycombinator.com/item?id=36140476) - [San Francisco: An Elitist Bubble Ignoring a Crime Epidemic?](https://dustin-godevais.medium.com/san-francisco-an-elitist-bubble-ignoring-a-crime-epidemic-12d853933a91)
