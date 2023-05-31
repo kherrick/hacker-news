@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 05:05:31](https://news.ycombinator.com/item?id=36134657) - [South Australia passes law to ban “disruptive” protests](https://www.theguardian.com/australia-news/2023/may/31/south-australia-passes-laws-to-crack-down-on-protest-after-disruption-of-oil-and-gas-conference)
 * [2023-05-31, 04:44:17](https://news.ycombinator.com/item?id=36134554) - [Zone of death: area in the US where one can get away with murder](https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone))
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
@@ -29,7 +30,6 @@
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
 * [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
-* [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
 
 ## [Archives](archives/index.md)
 

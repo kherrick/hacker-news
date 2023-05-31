@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 05:05:31](https://news.ycombinator.com/item?id=36134657) - [South Australia passes law to ban “disruptive” protests](https://www.theguardian.com/australia-news/2023/may/31/south-australia-passes-laws-to-crack-down-on-protest-after-disruption-of-oil-and-gas-conference)
 * [2023-05-31, 04:44:17](https://news.ycombinator.com/item?id=36134554) - [Zone of death: area in the US where one can get away with murder](https://en.wikipedia.org/wiki/Zone_of_Death_(Yellowstone))
 * [2023-05-31, 03:52:07](https://news.ycombinator.com/item?id=36134276) - [Remembering GitHub&#x27;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
