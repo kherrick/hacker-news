@@ -2,6 +2,7 @@
 
 * [2023-05-31, 03:52:07](https://news.ycombinator.com/item?id=36134276) - [Remembering GitHub&#x27;s Office, a Monument to Tech Culture](https://www.wired.com/story/github-tech-values/)
 * [2023-05-31, 03:46:58](https://news.ycombinator.com/item?id=36134249) - [Ask HN: Is it just me or GPT-4&#x27;s quality has significantly deteriorated lately?](https://news.ycombinator.com/item?id=36134249)
+* [2023-05-31, 02:00:44](https://news.ycombinator.com/item?id=36133643) - [Did Arthur Booth turn his life around after Judge Mindy&#x27;s revelation?](https://www.tuko.co.ke/facts-lifehacks/celebrity-biographies/500558-did-arthur-booth-turn-life-judge-mindys-revelation/)
 * [2023-05-31, 01:04:17](https://news.ycombinator.com/item?id=36133263) - [Feedback: I try to answer “how to become a systems engineer”](https://rachelbythebay.com/w/2023/05/30/eng/)
 * [2023-05-31, 00:58:13](https://news.ycombinator.com/item?id=36133226) - [Nvidia DGX GH200: 100 Terabyte GPU Memory System](https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/)
 * [2023-05-30, 23:47:25](https://news.ycombinator.com/item?id=36132744) - [Why F# evangelism isn&#x27;t working (2015)](https://ericsink.com/entries/fsharp_chasm.html)
@@ -29,7 +30,6 @@
 * [2023-05-30, 16:53:58](https://news.ycombinator.com/item?id=36127230) - [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
-* [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
 
 ## [Archives](archives/index.md)
 
