@@ -10,6 +10,7 @@
 * [2023-05-30, 22:57:46](https://news.ycombinator.com/item?id=36132265) - [The role of cat eye narrowing movements in cat–human communication (2020)](https://www.nature.com/articles/s41598-020-73426-0)
 * [2023-05-30, 22:51:51](https://news.ycombinator.com/item?id=36132198) - [IRS Can get financial Info of third parties without notice to third parties [pdf]](https://www.supremecourt.gov/opinions/22pdf/21-1599_l5gm.pdf)
 * [2023-05-30, 22:46:53](https://news.ycombinator.com/item?id=36132154) - [RGBWatermark – protect art against machine learning](https://rgbwatermark.net/)
+* [2023-05-30, 22:39:57](https://news.ycombinator.com/item?id=36132070) - [America Has Too Much Pork](https://www.wsj.com/articles/america-has-too-much-pork-52de4159)
 * [2023-05-30, 22:39:42](https://news.ycombinator.com/item?id=36132066) - [Have we lost our minds?](https://medium.com/@matthew.botvinick/have-we-lost-our-minds-86d9125bd803)
 * [2023-05-30, 22:31:45](https://news.ycombinator.com/item?id=36131942) - [Federal Judge Requires &quot;Mandatory Certification Regarding Generative AI&quot;](https://www.txnd.uscourts.gov/judge/judge-brantley-starr)
 * [2023-05-30, 22:24:48](https://news.ycombinator.com/item?id=36131838) - [Systemshock: Shockolate – A minimalist and cross platform System Shock source p](https://github.com/Interrupt/systemshock)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 18:47:59](https://news.ycombinator.com/item?id=36142285) - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
+* [2023-05-31, 18:37:12](https://news.ycombinator.com/item?id=36142088) - [macOS Like Fonts on Manjaro&#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
 * [2023-05-31, 18:06:39](https://news.ycombinator.com/item?id=36141570) - [Vasectomies rose by 29% after the end of Roe](https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe)
 * [2023-05-31, 18:05:03](https://news.ycombinator.com/item?id=36141544) - [OpenAI&#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
 * [2023-05-31, 17:46:22](https://news.ycombinator.com/item?id=36141244) - [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
