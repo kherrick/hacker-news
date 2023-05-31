@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
+* [2023-05-31, 13:34:38](https://news.ycombinator.com/item?id=36138224) - [Ask HN: What&#x27;s the best self hosted&#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 * [2023-05-31, 12:52:57](https://news.ycombinator.com/item?id=36137773) - [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
 * [2023-05-31, 12:28:32](https://news.ycombinator.com/item?id=36137530) - [20um self-propelled robots that can zip through liquid (also blood) at 3mm&#x2F;s](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
 * [2023-05-31, 12:02:16](https://news.ycombinator.com/item?id=36137323) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
@@ -9,7 +10,6 @@
 * [2023-05-31, 09:56:22](https://news.ycombinator.com/item?id=36136481) - [Batten Down Fix Later](https://graydon2.dreamwidth.org/307105.html)
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 08:20:24](https://news.ycombinator.com/item?id=36135844) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
-* [2023-05-31, 08:16:08](https://news.ycombinator.com/item?id=36135810) - [Stop dumping your cast-offs on us, Ghanaian clothes traders tell EU](https://www.theguardian.com/global-development/2023/may/31/stop-dumping-your-cast-offs-on-us-ghanaian-clothes-traders-tell-eu)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
 * [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)

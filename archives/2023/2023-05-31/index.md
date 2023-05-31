@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
+* [2023-05-31, 13:34:38](https://news.ycombinator.com/item?id=36138224) - [Ask HN: What&#x27;s the best self hosted&#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 * [2023-05-31, 12:52:57](https://news.ycombinator.com/item?id=36137773) - [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
 * [2023-05-31, 12:28:32](https://news.ycombinator.com/item?id=36137530) - [20um self-propelled robots that can zip through liquid (also blood) at 3mm&#x2F;s](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
 * [2023-05-31, 12:02:16](https://news.ycombinator.com/item?id=36137323) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
