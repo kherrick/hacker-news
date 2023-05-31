@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-05-31, 15:25:36",
+      "https://news.ycombinator.com/item?id=36139432"
+    ],
+    [
+      "The Rise and Fall of Getting Things Done",
+      "https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done"
+    ]
+  ],
+  [
+    [
+      "2023-05-31, 15:18:04",
+      "https://news.ycombinator.com/item?id=36139349"
+    ],
+    [
+      "AI intensifies fight against ‘paper mills’ that churn out fake research",
+      "https://www.nature.com/articles/d41586-023-01780-w"
+    ]
+  ],
+  [
+    [
+      "2023-05-31, 15:11:39",
+      "https://news.ycombinator.com/item?id=36139272"
+    ],
+    [
+      "Auschwitz museum criticizes use of death camp in politics",
+      "https://apnews.com/article/poland-ruling-party-tusk-march-auschwitz-e1d2e7c082dd61dedb2d7cb1c22ee4ac"
+    ]
+  ],
+  [
+    [
       "2023-05-31, 14:41:46",
       "https://news.ycombinator.com/item?id=36138957"
     ],
     [
       "Show HN: Front end-Only-Authorization – A new web standard",
       "https://foaz.io/"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 14:23:38",
-      "https://news.ycombinator.com/item?id=36138762"
-    ],
-    [
-      "A Friday Email Incident",
-      "https://dev.37signals.com/a-friday-email-incident/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36138439"
     ],
     [
-      "Cory Doctorow: The Swivel-Eyed Loons Have a Point",
+      "The Swivel-Eyed Loons Have a Point",
       "https://locusmag.com/2023/05/commentary-cory-doctorow-the-swivel-eyed-loons-have-a-point/"
     ]
   ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-05-30, 17:53:00",
-      "https://news.ycombinator.com/item?id=36128082"
-    ],
-    [
-      "Show HN: I open sourced the QR designer from my failed startup",
-      "https://github.com/kochrt/qr-designer"
-    ]
-  ],
-  [
-    [
       "2023-05-30, 17:26:46",
       "https://news.ycombinator.com/item?id=36127703"
     ],
@@ -287,16 +297,6 @@
     [
       "How Iceweasel Was Born",
       "https://www.pcworld.com/article/419749/iceweasel-will-be-renamed-firefox-as-relations-between-debian-and-mozilla-thaw.html"
-    ]
-  ],
-  [
-    [
-      "2023-05-29, 06:37:28",
-      "https://news.ycombinator.com/item?id=36111343"
-    ],
-    [
-      "The Stanford Pascal Compiler",
-      "http://bernd-oppolzer.de/job9.htm"
     ]
   ]
 ]
