@@ -3,6 +3,7 @@
 * [2023-05-31, 10:36:44](https://news.ycombinator.com/item?id=36136708) - [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
 * [2023-05-31, 09:29:59](https://news.ycombinator.com/item?id=36136318) - [Train Your Own Private ChatGPT Model for the Cost of a Starbucks Coffee](https://medium.com/@ApacheDolphinScheduler/train-your-own-private-chatgpt-model-for-the-cost-of-a-starbucks-coffee-25c588f450ee)
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
+* [2023-05-31, 08:16:08](https://news.ycombinator.com/item?id=36135810) - [Stop dumping your cast-offs on us, Ghanaian clothes traders tell EU](https://www.theguardian.com/global-development/2023/may/31/stop-dumping-your-cast-offs-on-us-ghanaian-clothes-traders-tell-eu)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
 * [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
@@ -27,7 +28,6 @@
 * [2023-05-30, 17:26:46](https://news.ycombinator.com/item?id=36127703) - [JMAP – a modern email open standard](https://jmap.io/)
 * [2023-05-30, 05:49:51](https://news.ycombinator.com/item?id=36121523) - [Medieval Illustrations of Bonnacons](https://publicdomainreview.org/collection/bonnacons)
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
-* [2023-05-28, 13:03:47](https://news.ycombinator.com/item?id=36103646) - [What to Do About Aggressive Moose](https://www.adfg.alaska.gov/index.cfm%3Fadfg%3Dlivewith.aggressivemoose)
 * [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
 
