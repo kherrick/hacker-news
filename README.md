@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-05-31, 15:25:36](https://news.ycombinator.com/item?id=36139432) - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
+* [2023-05-31, 15:18:04](https://news.ycombinator.com/item?id=36139349) - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
+* [2023-05-31, 15:11:39](https://news.ycombinator.com/item?id=36139272) - [Auschwitz museum criticizes use of death camp in politics](https://apnews.com/article/poland-ruling-party-tusk-march-auschwitz-e1d2e7c082dd61dedb2d7cb1c22ee4ac)
 * [2023-05-31, 14:41:46](https://news.ycombinator.com/item?id=36138957) - [Show HN: Front end-Only-Authorization – A new web standard](https://foaz.io/)
-* [2023-05-31, 14:23:38](https://news.ycombinator.com/item?id=36138762) - [A Friday Email Incident](https://dev.37signals.com/a-friday-email-incident/)
 * [2023-05-31, 14:11:49](https://news.ycombinator.com/item?id=36138642) - [When LIMIT 9 works but LIMIT 10 hangs: A short debugging story](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
-* [2023-05-31, 13:53:56](https://news.ycombinator.com/item?id=36138439) - [Cory Doctorow: The Swivel-Eyed Loons Have a Point](https://locusmag.com/2023/05/commentary-cory-doctorow-the-swivel-eyed-loons-have-a-point/)
+* [2023-05-31, 13:53:56](https://news.ycombinator.com/item?id=36138439) - [The Swivel-Eyed Loons Have a Point](https://locusmag.com/2023/05/commentary-cory-doctorow-the-swivel-eyed-loons-have-a-point/)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-05-31, 13:34:38](https://news.ycombinator.com/item?id=36138224) - [Ask HN: What&#x27;s the best self hosted&#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 * [2023-05-31, 13:05:03](https://news.ycombinator.com/item?id=36137897) - [AI21 Labs concludes largest Turing Test experiment to date](https://www.ai21.com/blog/human-or-not-results)
@@ -23,13 +25,11 @@
 * [2023-05-30, 21:14:20](https://news.ycombinator.com/item?id=36130911) - [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
 * [2023-05-30, 19:42:22](https://news.ycombinator.com/item?id=36129594) - [Plane: Open-Source Alternative to Jira](https://github.com/makeplane/plane)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
-* [2023-05-30, 17:53:00](https://news.ycombinator.com/item?id=36128082) - [Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 * [2023-05-30, 17:26:46](https://news.ycombinator.com/item?id=36127703) - [JMAP – a modern email open standard](https://jmap.io/)
 * [2023-05-30, 05:57:27](https://news.ycombinator.com/item?id=36121556) - [Kafka’s Trials](https://www.firstthings.com/article/2023/06/kafkas-trials)
 * [2023-05-30, 05:49:51](https://news.ycombinator.com/item?id=36121523) - [Medieval Illustrations of Bonnacons](https://publicdomainreview.org/collection/bonnacons)
 * [2023-05-30, 05:39:42](https://news.ycombinator.com/item?id=36121482) - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 * [2023-05-29, 06:59:34](https://news.ycombinator.com/item?id=36111465) - [How Iceweasel Was Born](https://www.pcworld.com/article/419749/iceweasel-will-be-renamed-firefox-as-relations-between-debian-and-mozilla-thaw.html)
-* [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
 
 ## [Archives](archives/index.md)
 
