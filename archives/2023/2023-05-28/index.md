@@ -80,6 +80,7 @@
 * [2023-05-28, 09:53:10](https://news.ycombinator.com/item?id=36102610) - [Show HN: HNRelevant – Show related HN submissions in an integrated sidebar](https://github.com/imdj/HNRelevant)
 * [2023-05-28, 09:52:59](https://news.ycombinator.com/item?id=36102608) - [What Deserves Our Attention?](https://deliberati.io/what-deserves-our-attention/)
 * [2023-05-28, 09:46:44](https://news.ycombinator.com/item?id=36102576) - [Show HN: A pixel art puzzle game for mobile using PixiJS](https://pixel-puzzler.playcurious.games/)
+* [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
 * [2023-05-28, 09:25:33](https://news.ycombinator.com/item?id=36102460) - [Let&#x27;s make a Teeny Tiny compiler](https://austinhenley.com/blog/teenytinycompiler1.html)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
 * [2023-05-28, 09:12:51](https://news.ycombinator.com/item?id=36102406) - [ARM’s Cortex A53: Tiny but Important](https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/)

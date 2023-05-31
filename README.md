@@ -19,7 +19,6 @@
 * [2023-05-30, 19:42:22](https://news.ycombinator.com/item?id=36129594) - [Plane: Open-Source Alternative to Jira](https://github.com/makeplane/plane)
 * [2023-05-30, 19:15:49](https://news.ycombinator.com/item?id=36129227) - [A Sun-like star orbiting a boson star](https://arxiv.org/abs/2304.09140)
 * [2023-05-30, 19:13:11](https://news.ycombinator.com/item?id=36129199) - [MAS.862: The Physics of Information Technology](https://fab.cba.mit.edu/classes/862.22/index.html)
-* [2023-05-30, 18:33:17](https://news.ycombinator.com/item?id=36128648) - [Apple’s big test of data integrity](https://eclecticlight.co/2023/05/30/apples-big-test-of-data-integrity/)
 * [2023-05-30, 18:30:35](https://news.ycombinator.com/item?id=36128618) - [Ask HN: Where have you found community outside of work?](https://news.ycombinator.com/item?id=36128618)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
@@ -28,6 +27,7 @@
 * [2023-05-30, 17:16:16](https://news.ycombinator.com/item?id=36127543) - [Modern CPUs have a backstage cast](https://www.devever.net/~hl/backstage-cast)
 * [2023-05-30, 16:53:58](https://news.ycombinator.com/item?id=36127230) - [Databricks acquires serverless Postgres vendor bit.io](https://www.databricks.com/blog/welcoming-bit-io-databricks-investing-developer-experience)
 * [2023-05-29, 06:37:28](https://news.ycombinator.com/item?id=36111343) - [The Stanford Pascal Compiler](http://bernd-oppolzer.de/job9.htm)
+* [2023-05-28, 09:26:22](https://news.ycombinator.com/item?id=36102464) - [The Fear of Shipping](https://www.smileykeith.com/2012/12/12/the-fear-of-shipping/)
 * [2023-05-28, 09:15:48](https://news.ycombinator.com/item?id=36102419) - [Play DOOM in Teletext](https://github.com/lukneu/doom-teletext)
 * [2023-05-28, 07:37:03](https://news.ycombinator.com/item?id=36101962) - [Random Number Generator Recommendations for Applications](https://peteroupc.github.io/random.html)
 
