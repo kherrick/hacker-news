@@ -21,6 +21,7 @@
 * [2023-05-31, 12:52:57](https://news.ycombinator.com/item?id=36137773) - [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
 * [2023-05-31, 12:28:32](https://news.ycombinator.com/item?id=36137530) - [20um self-propelled robots that can zip through liquid (also blood) at 3mm&#x2F;s](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
 * [2023-05-31, 12:02:16](https://news.ycombinator.com/item?id=36137323) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
+* [2023-05-31, 11:55:06](https://news.ycombinator.com/item?id=36137261) - [India cuts periodic table and evolution from school textbooks](https://www.nature.com/articles/d41586-023-01770-y)
 * [2023-05-31, 11:20:15](https://news.ycombinator.com/item?id=36136979) - [Stop Being a Junior](https://kentcdodds.com/blog/stop-being-a-junior)
 * [2023-05-31, 10:56:14](https://news.ycombinator.com/item?id=36136819) - [Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
 * [2023-05-31, 10:56:14](https://news.ycombinator.com/item?id=36136819) - [Rarbg Is No More](https://rarbg.to/index80.php)
