@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
 * [2023-05-31, 16:39:49](https://news.ycombinator.com/item?id=36140380) - [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
+* [2023-05-31, 16:36:22](https://news.ycombinator.com/item?id=36140338) - [Weight loss surgeries rise substantially among adolescents: research](https://thehill.com/policy/healthcare/4028398-weight-loss-surgeries-rise-substantially-among-adolescents-research/)
 * [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
 * [2023-05-31, 15:25:36](https://news.ycombinator.com/item?id=36139432) - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
 * [2023-05-31, 15:18:04](https://news.ycombinator.com/item?id=36139349) - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
