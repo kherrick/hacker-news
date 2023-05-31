@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 14:18:42](https://news.ycombinator.com/item?id=36138707) - [Car dealers block direct electric vehicles](https://slate.com/news-and-politics/2023/05/rich-republicans-party-car-dealers-2024-desantis.html)
 * [2023-05-31, 14:06:18](https://news.ycombinator.com/item?id=36138588) - [Authoritarianism Keeps Surging in Western “Free Democracies”](https://caitlinjohnstone.substack.com/p/authoritarianism-keeps-surging-in)
 * [2023-05-31, 13:56:41](https://news.ycombinator.com/item?id=36138470) - [All Trillion Dollar companies are started by immigrants or their children](https://twitter.com/kumardexati/status/1663906895055278081)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)

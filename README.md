@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-31, 14:06:18](https://news.ycombinator.com/item?id=36138588) - [Authoritarianism Keeps Surging in Western “Free Democracies”](https://caitlinjohnstone.substack.com/p/authoritarianism-keeps-surging-in)
+* [2023-05-31, 14:18:42](https://news.ycombinator.com/item?id=36138707) - [Car dealers block direct electric vehicles](https://slate.com/news-and-politics/2023/05/rich-republicans-party-car-dealers-2024-desantis.html)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-05-31, 13:34:38](https://news.ycombinator.com/item?id=36138224) - [Ask HN: What&#x27;s the best self hosted&#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 * [2023-05-31, 12:52:57](https://news.ycombinator.com/item?id=36137773) - [Iconic Torrent Site Rarbg Shuts Down, All Content Releases Stop](https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/)
