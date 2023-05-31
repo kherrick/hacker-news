@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-05-31, 22:39:23](https://news.ycombinator.com/item?id=36145371) - [Tell HN: Anyone else happy that crypto and Bitcoin spam is over?](https://news.ycombinator.com/item?id=36145371)
 * [2023-05-31, 22:21:15](https://news.ycombinator.com/item?id=36145185) - [Falcon 40B LLM (which beats Llama) now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
 * [2023-05-31, 21:38:04](https://news.ycombinator.com/item?id=36144674) - [OpenAPI v4 (aka Moonwalk) Proposal](https://github.com/OAI/moonwalk)
 * [2023-05-31, 21:16:58](https://news.ycombinator.com/item?id=36144450) - [Show HN: Lance – Alternative to Parquet for ML data](https://github.com/lancedb/lance)
@@ -24,6 +23,7 @@
 * [2023-05-31, 09:11:37](https://news.ycombinator.com/item?id=36136179) - [Notes apps are where ideas go to die (2022)](https://www.reproof.app/blog/notes-apps-help-us-forget)
 * [2023-05-31, 08:38:49](https://news.ycombinator.com/item?id=36135955) - [Zeal is an offline documentation browser for software developers](https://zealdocs.org/)
 * [2023-05-31, 08:20:24](https://news.ycombinator.com/item?id=36135844) - [Directly compiling Scheme to WebAssembly: lambdas, recursion, iteration](https://spritely.institute/news/scheme-to-wasm-lambdas-recursion.html)
+* [2023-05-31, 07:55:55](https://news.ycombinator.com/item?id=36135683) - [Show HN: Micro Chat – Private group chat](https://micro.mu/)
 * [2023-05-31, 04:21:55](https://news.ycombinator.com/item?id=36134423) - [Hardy Fox, of the avant-garde band The Residents (maybe) (2018)](https://www.nytimes.com/2018/11/03/obituaries/hardy-fox-dead.html)
 * [2023-05-31, 02:47:29](https://news.ycombinator.com/item?id=36133917) - [The Mystery of the Disappearing van Gogh](https://www.nytimes.com/2023/05/29/world/asia/van-gogh-china-buyer.html)
 * [2023-05-30, 21:35:45](https://news.ycombinator.com/item?id=36131210) - [Rde: A configuration framework for GNU Guix [video]](https://www.youtube.com/watch?v=6yrYWjjuIOs)
