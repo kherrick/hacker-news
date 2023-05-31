@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 17:00:04](https://news.ycombinator.com/item?id=36140639) - [Provision (YC S22) Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
+* [2023-05-31, 16:49:59](https://news.ycombinator.com/item?id=36140494) - [What&#x27;s the best AWS S3 protocol alternative?](https://news.ycombinator.com/item?id=36140494)
+* [2023-05-31, 16:48:29](https://news.ycombinator.com/item?id=36140476) - [San Francisco: An Elitist Bubble Ignoring a Crime Epidemic?](https://dustin-godevais.medium.com/san-francisco-an-elitist-bubble-ignoring-a-crime-epidemic-12d853933a91)
 * [2023-05-31, 16:39:49](https://news.ycombinator.com/item?id=36140380) - [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
 * [2023-05-31, 16:36:22](https://news.ycombinator.com/item?id=36140338) - [Weight loss surgeries rise substantially among adolescents: research](https://thehill.com/policy/healthcare/4028398-weight-loss-surgeries-rise-substantially-among-adolescents-research/)
 * [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
@@ -17,6 +20,7 @@
 * [2023-05-31, 14:06:18](https://news.ycombinator.com/item?id=36138588) - [Authoritarianism Keeps Surging in Western “Free Democracies”](https://caitlinjohnstone.substack.com/p/authoritarianism-keeps-surging-in)
 * [2023-05-31, 13:56:41](https://news.ycombinator.com/item?id=36138470) - [All Trillion Dollar companies are started by immigrants or their children](https://twitter.com/kumardexati/status/1663906895055278081)
 * [2023-05-31, 13:53:56](https://news.ycombinator.com/item?id=36138439) - [Cory Doctorow: The Swivel-Eyed Loons Have a Point](https://locusmag.com/2023/05/commentary-cory-doctorow-the-swivel-eyed-loons-have-a-point/)
+* [2023-05-31, 13:41:55](https://news.ycombinator.com/item?id=36138304) - [Slide to Unlock](https://cs.uwaterloo.ca/~csk/slide/)
 * [2023-05-31, 13:35:56](https://news.ycombinator.com/item?id=36138239) - [Millions of PC Motherboards Were Sold with a Firmware Backdoor](https://www.wired.com/story/gigabyte-motherboard-firmware-backdoor/)
 * [2023-05-31, 13:34:38](https://news.ycombinator.com/item?id=36138224) - [Ask HN: What&#x27;s the best self hosted&#x2F;local alternative to GPT-4?](https://news.ycombinator.com/item?id=36138224)
 * [2023-05-31, 13:05:03](https://news.ycombinator.com/item?id=36137897) - [AI21 Labs concludes largest Turing Test experiment to date](https://www.ai21.com/blog/human-or-not-results)
