@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
 * [2023-06-01, 14:35:41](https://news.ycombinator.com/item?id=36151607) - [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
 * [2023-06-01, 14:35:29](https://news.ycombinator.com/item?id=36151606) - [Overlooked: A detail in “The Shining” that you’ve never seen](https://twitter.com/nessuno2001/status/1663917603662835714)
 * [2023-06-01, 14:24:37](https://news.ycombinator.com/item?id=36151441) - [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
@@ -16,6 +17,7 @@
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
 * [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [So, I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
 * [2023-06-01, 14:01:53](https://news.ycombinator.com/item?id=36151132) - [People living near former atomic weapon plant in WA have increased cancer rates](https://pubmed.ncbi.nlm.nih.gov/14738272/)
+* [2023-06-01, 13:55:01](https://news.ycombinator.com/item?id=36151056) - [Show HN: TodoBot is an AI coach that helps you write a better todo list](https://todobot.ai/)
 * [2023-06-01, 13:38:55](https://news.ycombinator.com/item?id=36150867) - [US banks lost $472B in deposits in the Q1 2023](https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1)
 * [2023-06-01, 13:36:57](https://news.ycombinator.com/item?id=36150845) - [Automatic emergency braking should become mandatory, feds say](https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/)
 * [2023-06-01, 13:26:49](https://news.ycombinator.com/item?id=36150735) - [On the Catastrophic Risk of AI](https://www.schneier.com/blog/archives/2023/06/on-the-catastrophic-risk-of-ai.html)
