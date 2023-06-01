@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-01, 11:33:04",
+      "https://news.ycombinator.com/item?id=36149789"
+    ],
+    [
+      "Industry docs reveal makers of &#x27;forever chemicals&#x27; covered up health dangers",
+      "https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 10:30:48",
       "https://news.ycombinator.com/item?id=36149375"
     ],
@@ -177,16 +187,6 @@
     [
       "SVG Images from Postgres",
       "https://www.crunchydata.com/blog/svg-images-from-postgis"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 14:11:49",
-      "https://news.ycombinator.com/item?id=36138642"
-    ],
-    [
-      "When LIMIT 9 works but LIMIT 10 hangs",
-      "https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs"
     ]
   ],
   [
