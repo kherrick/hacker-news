@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-05-31](index.md)
 
+* [2023-05-31, 23:51:48](https://news.ycombinator.com/item?id=36146062) - [FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
 * [2023-05-31, 22:39:23](https://news.ycombinator.com/item?id=36145371) - [Tell HN: Anyone else happy that crypto and Bitcoin spam is over?](https://news.ycombinator.com/item?id=36145371)
 * [2023-05-31, 22:21:15](https://news.ycombinator.com/item?id=36145185) - [Falcon 40B LLM (which beats Llama) now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
 * [2023-05-31, 21:38:04](https://news.ycombinator.com/item?id=36144674) - [OpenAPI v4 Proposal](https://github.com/OAI/moonwalk)
@@ -71,6 +72,7 @@
 * [2023-05-31, 07:34:49](https://news.ycombinator.com/item?id=36135556) - [Why won’t Google give an answer on whether Bard was trained on Gmail data?](https://skiff.com/blog/was-bard-trained-on-gmail-data)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
+* [2023-05-31, 06:45:05](https://news.ycombinator.com/item?id=36135247) - [What Are Shaders?](https://thatonegamedev.com/other/what-are-shaders/)
 * [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
 * [2023-05-31, 06:32:50](https://news.ycombinator.com/item?id=36135190) - [Box64 and RISC-V](https://box86.org/2023/05/box64-and-risc-v/)
 * [2023-05-31, 05:22:04](https://news.ycombinator.com/item?id=36134740) - [Shepherd&#x27;s Oasis Statement on Rustconf and Introspection](https://soasis.org/posts/statement-on-rustconf-compile-time-introspection/)
