@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-06-01, 14:01:53",
+      "https://news.ycombinator.com/item?id=36151132"
+    ],
+    [
+      "People living near former atomic weapon plant in WA have increased cancer rates",
+      "https://pubmed.ncbi.nlm.nih.gov/14738272/"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 13:38:55",
+      "https://news.ycombinator.com/item?id=36150867"
+    ],
+    [
+      "US banks lost $472B in deposits in the Q1 2023",
+      "https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 13:36:57",
+      "https://news.ycombinator.com/item?id=36150845"
+    ],
+    [
+      "Automatic emergency braking should become mandatory, feds say",
+      "https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 13:26:49",
+      "https://news.ycombinator.com/item?id=36150735"
+    ],
+    [
+      "On the Catastrophic Risk of AI",
+      "https://www.schneier.com/blog/archives/2023/06/on-the-catastrophic-risk-of-ai.html"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 13:07:57",
       "https://news.ycombinator.com/item?id=36150543"
     ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2023-06-01, 11:51:16",
-      "https://news.ycombinator.com/item?id=36149904"
+      "2023-06-01, 12:37:54",
+      "https://news.ycombinator.com/item?id=36150274"
     ],
     [
-      "Ask HN: Cyber Security folks – what are your biggest pain points?",
-      "https://news.ycombinator.com/item?id=36149904"
+      "Automate the CEOs",
+      "https://www.hamiltonnolan.com/p/automate-the-ceos"
     ]
   ],
   [
@@ -57,6 +97,16 @@
     [
       "Maryland License Plates Now Inadvertently Advertising Filipino Online Casino",
       "https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 11:08:40",
+      "https://news.ycombinator.com/item?id=36149620"
+    ],
+    [
+      "Show HN: Word2vec Algorithm in ~100sloc with NumPy",
+      "https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py"
     ]
   ],
   [
@@ -181,22 +231,12 @@
   ],
   [
     [
-      "2023-05-31, 20:12:33",
-      "https://news.ycombinator.com/item?id=36143627"
+      "2023-05-31, 16:19:28",
+      "https://news.ycombinator.com/item?id=36140128"
     ],
     [
-      "Ancient lead pollution in a Roman harbor (2017)",
-      "https://arstechnica.com/science/2017/08/plumbing-discovery-reveals-the-rise-and-fall-of-the-roman-empire/"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 17:19:40",
-      "https://news.ycombinator.com/item?id=36140916"
-    ],
-    [
-      "Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes",
-      "https://news.ycombinator.com/item?id=36140916"
+      "The unsung hero of the Apple Watch is its hidden buttons",
+      "https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month"
     ]
   ],
   [
@@ -231,16 +271,6 @@
   ],
   [
     [
-      "2023-05-31, 10:56:14",
-      "https://news.ycombinator.com/item?id=36136819"
-    ],
-    [
-      "Rarbg Is No More",
-      "https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php"
-    ]
-  ],
-  [
-    [
       "2023-05-31, 10:06:40",
       "https://news.ycombinator.com/item?id=36136552"
     ],
@@ -267,36 +297,6 @@
     [
       "Sun Remarketing Catalog Summer 1988",
       "https://archive.org/details/bitsavers_applelisasarketingCatalogSummer1988_28586791"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 20:58:36",
-      "https://news.ycombinator.com/item?id=36130699"
-    ],
-    [
-      "The Obscuritory - Odd, lesser-known games and software",
-      "https://obscuritory.com/"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 20:22:11",
-      "https://news.ycombinator.com/item?id=36130194"
-    ],
-    [
-      "Language Pragmatics Engineering",
-      "https://borretti.me/article/language-pragmatics"
-    ]
-  ],
-  [
-    [
-      "2023-05-30, 18:30:31",
-      "https://news.ycombinator.com/item?id=36128617"
-    ],
-    [
-      "Hacking my “smart” toothbrush",
-      "https://kuenzi.dev/toothbrush/"
     ]
   ]
 ]
