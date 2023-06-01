@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 17:33:19](https://news.ycombinator.com/item?id=36154531) - [What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
 * [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
 * [2023-06-01, 17:00:41](https://news.ycombinator.com/item?id=36154040) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-01, 16:58:38](https://news.ycombinator.com/item?id=36154011) - [Logic programming is overrated, at least for logic puzzles (2013)](http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html)

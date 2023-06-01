@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 17:33:19](https://news.ycombinator.com/item?id=36154531) - [What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
 * [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
 * [2023-06-01, 17:00:41](https://news.ycombinator.com/item?id=36154040) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-01, 16:58:38](https://news.ycombinator.com/item?id=36154011) - [Logic programming is overrated, at least for logic puzzles (2013)](http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html)
@@ -27,7 +28,6 @@
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [Zig is hard but worth it](http://ratfactor.com/zig/hard)
 * [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
-* [2023-06-01, 07:42:35](https://news.ycombinator.com/item?id=36148495) - [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
 * [2023-06-01, 07:37:44](https://news.ycombinator.com/item?id=36148475) - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
 * [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
 
