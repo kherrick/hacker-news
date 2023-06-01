@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 14:01:53](https://news.ycombinator.com/item?id=36151132) - [People living near former atomic weapon plant in WA have increased cancer rates](https://pubmed.ncbi.nlm.nih.gov/14738272/)
+* [2023-06-01, 13:38:55](https://news.ycombinator.com/item?id=36150867) - [US banks lost $472B in deposits in the Q1 2023](https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1)
+* [2023-06-01, 13:36:57](https://news.ycombinator.com/item?id=36150845) - [Automatic emergency braking should become mandatory, feds say](https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/)
+* [2023-06-01, 13:26:49](https://news.ycombinator.com/item?id=36150735) - [On the Catastrophic Risk of AI](https://www.schneier.com/blog/archives/2023/06/on-the-catastrophic-risk-of-ai.html)
 * [2023-06-01, 13:07:57](https://news.ycombinator.com/item?id=36150543) - [Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
 * [2023-06-01, 13:03:47](https://news.ycombinator.com/item?id=36150503) - [Explore Australian Fossils in 3D](https://sites.flinders.edu.au/vamp/fossils/)
 * [2023-06-01, 12:56:22](https://news.ycombinator.com/item?id=36150443) - [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
@@ -15,6 +19,7 @@
 * [2023-06-01, 11:43:23](https://news.ycombinator.com/item?id=36149858) - [Israeli Translator Destroys ChatGPT Hebrew Translation of the Great Gatsby](https://www.youtube.com/watch?v=ZNBjTY_mRio)
 * [2023-06-01, 11:33:04](https://news.ycombinator.com/item?id=36149789) - [Industry docs reveal makers of &#x27;forever chemicals&#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
 * [2023-06-01, 11:18:44](https://news.ycombinator.com/item?id=36149690) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
+* [2023-06-01, 11:08:40](https://news.ycombinator.com/item?id=36149620) - [Show HN: Word2vec Algorithm in ~100sloc with NumPy](https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py)
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
 * [2023-06-01, 10:30:48](https://news.ycombinator.com/item?id=36149375) - [EPYC 7002 CPUs may hang after 1042 days of uptime](https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/)
 * [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)

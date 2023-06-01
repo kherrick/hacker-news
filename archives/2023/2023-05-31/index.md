@@ -39,6 +39,7 @@
 * [2023-05-31, 16:39:49](https://news.ycombinator.com/item?id=36140380) - [Rocket Carrying North Korean Spy Satellite Crashes into Sea](https://gizmodo.com/rocket-carrying-north-korean-spy-satellite-crashes-sea-1850490896)
 * [2023-05-31, 16:36:22](https://news.ycombinator.com/item?id=36140338) - [Weight loss surgeries rise substantially among adolescents: research](https://thehill.com/policy/healthcare/4028398-weight-loss-surgeries-rise-substantially-among-adolescents-research/)
 * [2023-05-31, 16:22:48](https://news.ycombinator.com/item?id=36140177) - [Rise: Accelerate the Development of Open Source Software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
+* [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
 * [2023-05-31, 15:58:38](https://news.ycombinator.com/item?id=36139852) - [The greatest risk of AI is from the people who control it, not the tech itself](https://aisnakeoil.substack.com/p/is-avoiding-extinction-from-ai-really)
 * [2023-05-31, 15:49:22](https://news.ycombinator.com/item?id=36139729) - [AI Camera with No Lens](https://www.theprompt.io/p/ai-camera-no-lens)
 * [2023-05-31, 15:25:36](https://news.ycombinator.com/item?id=36139432) - [The Rise and Fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
