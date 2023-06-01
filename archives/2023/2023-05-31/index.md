@@ -10,6 +10,7 @@
 * [2023-05-31, 22:21:15](https://news.ycombinator.com/item?id=36145185) - [Falcon 40B LLM (which beats Llama) now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
 * [2023-05-31, 22:05:03](https://news.ycombinator.com/item?id=36145007) - [Project MF: A simulation of analog SF&#x2F;MF telephone signaling](http://www.projectmf.org/)
 * [2023-05-31, 21:38:04](https://news.ycombinator.com/item?id=36144674) - [OpenAPI v4 Proposal](https://github.com/OAI/moonwalk)
+* [2023-05-31, 21:31:05](https://news.ycombinator.com/item?id=36144608) - [The Secret History and Strange Future of Charisma](https://www.noemamag.com/the-secret-history-and-strange-future-of-charisma/)
 * [2023-05-31, 21:16:58](https://news.ycombinator.com/item?id=36144450) - [[Show HN] Lance is a Rust-based alternative to Parquet for ML data](https://github.com/lancedb/lance)
 * [2023-05-31, 20:58:13](https://news.ycombinator.com/item?id=36144241) - [Japan Goes All In: Copyright Doesn’t Apply to AI Training](https://technomancers.ai/japan-goes-all-in-copyright-doesnt-apply-to-ai-training/)
 * [2023-05-31, 20:55:26](https://news.ycombinator.com/item?id=36144211) - [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
