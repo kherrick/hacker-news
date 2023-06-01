@@ -26,6 +26,7 @@
 * [2023-05-31, 18:37:12](https://news.ycombinator.com/item?id=36142088) - [macOS Like Fonts on Manjaro&#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
 * [2023-05-31, 18:06:39](https://news.ycombinator.com/item?id=36141570) - [Vasectomies rose by 29% after the end of Roe](https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe)
 * [2023-05-31, 18:05:03](https://news.ycombinator.com/item?id=36141544) - [OpenAI&#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
+* [2023-05-31, 17:57:26](https://news.ycombinator.com/item?id=36141430) - [Judge rules Wyoming corner crossers did not trespass](https://www.hcn.org/articles/public-lands-judge-rules-wyoming-corner-crossers-did-not-trespass)
 * [2023-05-31, 17:46:22](https://news.ycombinator.com/item?id=36141244) - [NFL labor union is out almost $42M thanks to crypto collapse](https://theathletic.com/4565384/2023/05/30/nflpa-licensing-crypto-nft/)
 * [2023-05-31, 17:40:44](https://news.ycombinator.com/item?id=36141170) - [You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
 * [2023-05-31, 17:37:14](https://news.ycombinator.com/item?id=36141131) - [I moved from the US to Sweden after struggling with burnout](https://www.businessinsider.com/sweden-work-life-balance-american-expat-happiness-burnout-2023-5)
