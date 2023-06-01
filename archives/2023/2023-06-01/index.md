@@ -35,6 +35,7 @@
 * [2023-06-01, 16:32:28](https://news.ycombinator.com/item?id=36153578) - [‘Tired’, ‘lonely’ and hated by locals: the reality for the digital nomad](https://www.telegraph.co.uk/travel/destinations/tired-lonely-the-reality-for-those-sold-digital-nomad-dream/)
 * [2023-06-01, 16:31:35](https://news.ycombinator.com/item?id=36153566) - [The Birth and Death of the Orange Book (2015) [pdf]](https://www.stevelipner.org/links/resources/The%20Birth%20and%20Death%20of%20the%20Orange%20Book.pdf)
 * [2023-06-01, 16:31:31](https://news.ycombinator.com/item?id=36153565) - [Could Usenet get “revived”, to replace the soon to be unusable Reddit?](https://news.ycombinator.com/item?id=36153565)
+* [2023-06-01, 16:29:36](https://news.ycombinator.com/item?id=36153533) - [The Story of Microsleep (2012)](https://scalibq.wordpress.com/2012/03/27/the-story-of-microsleep/)
 * [2023-06-01, 16:29:17](https://news.ycombinator.com/item?id=36153527) - [The Rise and Fall of Evidence Based Medicine (1998) [pdf]](https://www.researchgate.net/publication/13574786_The_rise_and_fall_of_EBM)
 * [2023-06-01, 16:28:32](https://news.ycombinator.com/item?id=36153516) - [The film had killed me (1946)](https://diariesofnote.com/2023/06/01/the-film-had-killed-me/)
 * [2023-06-01, 16:27:34](https://news.ycombinator.com/item?id=36153496) - [The Meta Quest 3 is a $499 mixed reality headset with full-color passthrough](https://www.engadget.com/the-meta-quest-3-is-a-499-mixed-reality-headset-with-full-color-passthrough-141204527.html)
