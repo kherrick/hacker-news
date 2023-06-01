@@ -26,6 +26,7 @@
 * [2023-05-30, 21:10:20](https://news.ycombinator.com/item?id=36130851) - [Elizabeth Holmes: Inside the Routine at the Federal Prison Camp in Bryan, Texas](https://www.bbc.com/news/world-us-canada-65625526)
 * [2023-05-30, 20:42:37](https://news.ycombinator.com/item?id=36130472) - [Booz Allen Hamilton files a 10-K](https://boredreading.com/articles/10-K%2520Reports/recent/read/9571480/)
 * [2023-05-30, 20:33:23](https://news.ycombinator.com/item?id=36130354) - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
+* [2023-05-30, 20:22:11](https://news.ycombinator.com/item?id=36130194) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
 * [2023-05-30, 20:21:54](https://news.ycombinator.com/item?id=36130191) - [WebRTC support being added to FFmpeg](https://github.com/ossrs/ffmpeg-webrtc/pull/1)
 * [2023-05-30, 20:20:21](https://news.ycombinator.com/item?id=36130166) - [Federal Judge Makes History: Border Searches of Cell Phones Require Warrants](https://www.eff.org/deeplinks/2023/05/federal-judge-makes-history-holding-border-searches-cell-phones-require-warrant)
 * [2023-05-30, 20:20:17](https://news.ycombinator.com/item?id=36130164) - [I&#x27;m Not a Passionate Developer](https://koodihommia.blogspot.com/2022/06/im-not-passionate-developer.html)
