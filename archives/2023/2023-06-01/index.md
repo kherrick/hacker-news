@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 18:28:32](https://news.ycombinator.com/item?id=36155279) - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
 * [2023-06-01, 18:27:44](https://news.ycombinator.com/item?id=36155267) - [OpenAI Employee: GPT-4 hasn&#x27;t gotten worse since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+* [2023-06-01, 18:11:19](https://news.ycombinator.com/item?id=36155047) - [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
 * [2023-06-01, 18:04:54](https://news.ycombinator.com/item?id=36154962) - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 * [2023-06-01, 17:41:24](https://news.ycombinator.com/item?id=36154642) - [No Man&#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
 * [2023-06-01, 17:39:58](https://news.ycombinator.com/item?id=36154626) - [Differentiable Time-Frequency Scattering on GPU](https://github.com/cyrusvahidi/jtfs-gpu)
 * [2023-06-01, 17:39:35](https://news.ycombinator.com/item?id=36154622) - [Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
+* [2023-06-01, 17:36:01](https://news.ycombinator.com/item?id=36154562) - [Viable offspring derived from single unfertilized mammalian oocytes](https://www.pnas.org/doi/full/10.1073/pnas.2115248119)
 * [2023-06-01, 17:33:19](https://news.ycombinator.com/item?id=36154531) - [What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
 * [2023-06-01, 17:32:28](https://news.ycombinator.com/item?id=36154517) - [Show HN: Hardwary- Hacker News for Hardware](https://hardwary.com)
 * [2023-06-01, 17:27:30](https://news.ycombinator.com/item?id=36154455) - [“Clickless” iOS exploits infect Kaspersky iPhones with never-before-seen malware](https://arstechnica.com/information-technology/2023/06/clickless-ios-exploits-infect-kaspersky-iphones-with-never-before-seen-malware/)
@@ -57,6 +60,7 @@
 * [2023-06-01, 12:19:17](https://news.ycombinator.com/item?id=36150110) - [What If Friendship, Not Marriage, Was at the Center of Life?](https://www.theatlantic.com/family/archive/2020/10/people-who-prioritize-friendship-over-romance/616779/)
 * [2023-06-01, 11:59:33](https://news.ycombinator.com/item?id=36149966) - [Ask HN: Lots of AWS credits expiring soon, ideas?](https://news.ycombinator.com/item?id=36149966)
 * [2023-06-01, 11:51:16](https://news.ycombinator.com/item?id=36149904) - [Ask HN: Cyber Security folks – what are your biggest pain points?](https://news.ycombinator.com/item?id=36149904)
+* [2023-06-01, 11:46:35](https://news.ycombinator.com/item?id=36149876) - [Paragraphica is a context-to-image camera](https://bjoernkarmann.dk/project/paragraphica)
 * [2023-06-01, 11:43:23](https://news.ycombinator.com/item?id=36149858) - [Israeli Translator Destroys ChatGPT Hebrew Translation of the Great Gatsby](https://www.youtube.com/watch?v=ZNBjTY_mRio)
 * [2023-06-01, 11:33:04](https://news.ycombinator.com/item?id=36149789) - [Industry docs reveal makers of &#x27;forever chemicals&#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
 * [2023-06-01, 11:20:43](https://news.ycombinator.com/item?id=36149701) - [A Medieval Comedy Act Has Been Discovered in First-Ever Find, Researcher Says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
