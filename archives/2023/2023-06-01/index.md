@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 22:30:29](https://news.ycombinator.com/item?id=36158311) - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 * [2023-06-01, 21:22:47](https://news.ycombinator.com/item?id=36157529) - [Seven out of the nine thresholds enabling human life on Earth have been exceeded](https://www.nature.com/articles/s41586-023-06083-8)
 * [2023-06-01, 21:03:27](https://news.ycombinator.com/item?id=36157287) - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
 * [2023-06-01, 20:39:53](https://news.ycombinator.com/item?id=36157024) - [Samuel Morland, Magister Mechanicorum (2017)](https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/)

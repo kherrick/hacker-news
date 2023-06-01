@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 22:30:29](https://news.ycombinator.com/item?id=36158311) - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 * [2023-06-01, 21:03:27](https://news.ycombinator.com/item?id=36157287) - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
 * [2023-06-01, 20:23:23](https://news.ycombinator.com/item?id=36156844) - [The U.S. almost became a nation of hippo ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
-* [2023-06-01, 18:42:36](https://news.ycombinator.com/item?id=36155495) - [Software licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
 * [2023-06-01, 18:27:44](https://news.ycombinator.com/item?id=36155267) - [OpenAI Employee: GPT-4 has been static since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2023-06-01, 18:06:14](https://news.ycombinator.com/item?id=36154984) - [Do any startups still use WordPress after 20 years?](https://autopitch.ai/posts/blog/do-any-startups-use-wordpress-after-20-years)
