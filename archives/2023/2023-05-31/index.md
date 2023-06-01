@@ -79,6 +79,7 @@
 * [2023-05-31, 07:34:49](https://news.ycombinator.com/item?id=36135556) - [Why won’t Google give an answer on whether Bard was trained on Gmail data?](https://skiff.com/blog/was-bard-trained-on-gmail-data)
 * [2023-05-31, 07:30:26](https://news.ycombinator.com/item?id=36135533) - [AVX512 intrinsics for JDK’s Arrays.sort methods](https://github.com/openjdk/jdk/pull/14227)
 * [2023-05-31, 07:29:18](https://news.ycombinator.com/item?id=36135525) - [Less than 168 hours since Photoshop dropped the new “Generative Fill” feature](https://twitter.com/_Borriss_/status/1663568770408013831)
+* [2023-05-31, 06:45:27](https://news.ycombinator.com/item?id=36135250) - [Sun Remarketing Catalog Summer 1988](https://archive.org/details/bitsavers_applelisasarketingCatalogSummer1988_28586791)
 * [2023-05-31, 06:45:05](https://news.ycombinator.com/item?id=36135247) - [What Are Shaders?](https://thatonegamedev.com/other/what-are-shaders/)
 * [2023-05-31, 06:43:48](https://news.ycombinator.com/item?id=36135241) - [Paragon Graphite is a Pegasus spyware clone used in the US](https://www.gamingdeputy.com/paragon-graphite-is-a-pegasus-spyware-clone-used-in-the-us/)
 * [2023-05-31, 06:32:50](https://news.ycombinator.com/item?id=36135190) - [Box64 and RISC-V](https://box86.org/2023/05/box64-and-risc-v/)
