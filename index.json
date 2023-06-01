@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-01, 03:29:13",
+      "https://news.ycombinator.com/item?id=36147285"
+    ],
+    [
+      "DNSSEC failures are how you get people to disable DNSSEC",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 03:11:37",
       "https://news.ycombinator.com/item?id=36147196"
     ],
@@ -107,16 +117,6 @@
     [
       "1000W 12V –&gt; 220V Inverter",
       "https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 19:19:16",
-      "https://news.ycombinator.com/item?id=36142763"
-    ],
-    [
-      "I decided not to commercialize nbdev",
-      "https://hamel.dev/blog/posts/nbdev/"
     ]
   ],
   [
