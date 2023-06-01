@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 17:41:24](https://news.ycombinator.com/item?id=36154642) - [No Man&#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
+* [2023-06-01, 17:39:58](https://news.ycombinator.com/item?id=36154626) - [Differentiable Time-Frequency Scattering on GPU](https://github.com/cyrusvahidi/jtfs-gpu)
+* [2023-06-01, 17:39:35](https://news.ycombinator.com/item?id=36154622) - [Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
 * [2023-06-01, 17:33:19](https://news.ycombinator.com/item?id=36154531) - [What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
+* [2023-06-01, 17:32:28](https://news.ycombinator.com/item?id=36154517) - [Show HN: Hardwary- Hacker News for Hardware](https://hardwary.com)
 * [2023-06-01, 17:07:28](https://news.ycombinator.com/item?id=36154135) - [OpenAI Cybersecurity Grant Program](https://openai.com/blog/openai-cybersecurity-grant-program)
 * [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
 * [2023-06-01, 17:00:41](https://news.ycombinator.com/item?id=36154040) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
@@ -13,6 +17,8 @@
 * [2023-06-01, 16:52:03](https://news.ycombinator.com/item?id=36153917) - [World Capitals Voronoi (2014)](https://www.jasondavies.com/maps/voronoi/capitals/)
 * [2023-06-01, 16:32:28](https://news.ycombinator.com/item?id=36153578) - [‘Tired’, ‘lonely’ and hated by locals: the reality for the digital nomad](https://www.telegraph.co.uk/travel/destinations/tired-lonely-the-reality-for-those-sold-digital-nomad-dream/)
 * [2023-06-01, 16:31:35](https://news.ycombinator.com/item?id=36153566) - [The Birth and Death of the Orange Book (2015) [pdf]](https://www.stevelipner.org/links/resources/The%20Birth%20and%20Death%20of%20the%20Orange%20Book.pdf)
+* [2023-06-01, 16:31:31](https://news.ycombinator.com/item?id=36153565) - [Could Usenet get “revived”, to replace the soon to be unusable Reddit?](https://news.ycombinator.com/item?id=36153565)
+* [2023-06-01, 16:29:17](https://news.ycombinator.com/item?id=36153527) - [The Rise and Fall of Evidence Based Medicine (1998) [pdf]](https://www.researchgate.net/publication/13574786_The_rise_and_fall_of_EBM)
 * [2023-06-01, 16:28:32](https://news.ycombinator.com/item?id=36153516) - [The film had killed me (1946)](https://diariesofnote.com/2023/06/01/the-film-had-killed-me/)
 * [2023-06-01, 16:27:34](https://news.ycombinator.com/item?id=36153496) - [The Meta Quest 3 is a $499 mixed reality headset with full-color passthrough](https://www.engadget.com/the-meta-quest-3-is-a-499-mixed-reality-headset-with-full-color-passthrough-141204527.html)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
