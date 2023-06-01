@@ -2,7 +2,7 @@
 
 * [2023-06-01, 18:28:32](https://news.ycombinator.com/item?id=36155279) - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
 * [2023-06-01, 18:27:44](https://news.ycombinator.com/item?id=36155267) - [OpenAI Employee: GPT-4 hasn&#x27;t gotten worse since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
-* [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+* [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2023-06-01, 18:11:19](https://news.ycombinator.com/item?id=36155047) - [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
 * [2023-06-01, 18:04:54](https://news.ycombinator.com/item?id=36154962) - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 * [2023-06-01, 17:39:58](https://news.ycombinator.com/item?id=36154626) - [Differentiable Time-Frequency Scattering on GPU](https://github.com/cyrusvahidi/jtfs-gpu)
