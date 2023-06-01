@@ -15,6 +15,7 @@
 * [2023-05-31, 20:55:26](https://news.ycombinator.com/item?id=36144211) - [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
 * [2023-05-31, 20:53:45](https://news.ycombinator.com/item?id=36144188) - [Milk-V Second RISC-V SBC – Physically Compatible with the Raspberry Pi 3 Model B](https://www.hackster.io/news/milk-v-surprises-with-a-second-risc-v-sbc-physically-compatible-with-the-raspberry-pi-3-model-b-fa548a5908e8)
 * [2023-05-31, 20:40:13](https://news.ycombinator.com/item?id=36144033) - [1000W 12V –&gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
+* [2023-05-31, 20:12:33](https://news.ycombinator.com/item?id=36143627) - [Ancient lead pollution in a Roman harbor (2017)](https://arstechnica.com/science/2017/08/plumbing-discovery-reveals-the-rise-and-fall-of-the-roman-empire/)
 * [2023-05-31, 19:52:54](https://news.ycombinator.com/item?id=36143308) - [Developer says Reddit will charge him $20M&#x2F;yr API fees to keep his app working](https://www.theverge.com/2023/5/31/23743993/reddit-apollo-client-api-cost)
 * [2023-05-31, 19:30:53](https://news.ycombinator.com/item?id=36142971) - [Old Reddit is open source](https://github.com/reddit-archive/reddit)
 * [2023-05-31, 19:19:16](https://news.ycombinator.com/item?id=36142763) - [I decided not to commercialize nbdev](https://hamel.dev/blog/posts/nbdev/)
