@@ -9,7 +9,6 @@
 * [2023-06-01, 16:31:35](https://news.ycombinator.com/item?id=36153566) - [The Birth and Death of the Orange Book (2015) [pdf]](https://www.stevelipner.org/links/resources/The%20Birth%20and%20Death%20of%20the%20Orange%20Book.pdf)
 * [2023-06-01, 16:28:32](https://news.ycombinator.com/item?id=36153516) - [The film had killed me (1946)](https://diariesofnote.com/2023/06/01/the-film-had-killed-me/)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
-* [2023-06-01, 15:45:05](https://news.ycombinator.com/item?id=36152779) - [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
 * [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
 * [2023-06-01, 15:12:07](https://news.ycombinator.com/item?id=36152222) - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
 * [2023-06-01, 15:01:48](https://news.ycombinator.com/item?id=36152014) - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
@@ -28,6 +27,7 @@
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [Zig is hard but worth it](http://ratfactor.com/zig/hard)
 * [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
+* [2023-06-01, 07:42:35](https://news.ycombinator.com/item?id=36148495) - [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
 * [2023-06-01, 07:37:44](https://news.ycombinator.com/item?id=36148475) - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
 * [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
 
