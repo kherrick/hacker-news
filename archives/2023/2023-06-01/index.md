@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 20:39:53](https://news.ycombinator.com/item?id=36157024) - [Samuel Morland, Magister Mechanicorum (2017)](https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 * [2023-06-01, 19:49:48](https://news.ycombinator.com/item?id=36156423) - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
+* [2023-06-01, 18:42:36](https://news.ycombinator.com/item?id=36155495) - [Software licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
 * [2023-06-01, 18:28:32](https://news.ycombinator.com/item?id=36155279) - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
 * [2023-06-01, 18:27:44](https://news.ycombinator.com/item?id=36155267) - [OpenAI Employee: GPT-4 hasn&#x27;t gotten worse since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
@@ -35,6 +37,7 @@
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:05](https://news.ycombinator.com/item?id=36152779) - [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
 * [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
+* [2023-06-01, 15:25:30](https://news.ycombinator.com/item?id=36152475) - [All Your Licensing Are Belong to Us^W You](https://keygen.sh/blog/all-your-licensing-are-belong-to-you/)
 * [2023-06-01, 15:12:07](https://news.ycombinator.com/item?id=36152222) - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
 * [2023-06-01, 15:01:48](https://news.ycombinator.com/item?id=36152014) - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
 * [2023-06-01, 15:01:47](https://news.ycombinator.com/item?id=36152012) - [Ask HN: Who wants to be hired? (June 2023)](https://news.ycombinator.com/item?id=36152012)
