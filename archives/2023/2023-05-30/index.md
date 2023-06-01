@@ -45,6 +45,7 @@
 * [2023-05-30, 18:25:33](https://news.ycombinator.com/item?id=36128547) - [Scientists warned about climate change in 1965. Nothing was done](https://knowablemagazine.org/article/food-environment/2023/scientists-warned-climate-change-1965-podcast)
 * [2023-05-30, 18:21:38](https://news.ycombinator.com/item?id=36128484) - [Molly White Tracks Crypto Scams. It’s Going Just Great](https://www.wired.co.uk/article/molly-white-crypto-scams)
 * [2023-05-30, 18:18:38](https://news.ycombinator.com/item?id=36128435) - [Purdue Pharma can protect Sackler owners in opioid bankruptcy, court rules](https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/doc/22-110_complete_opn.pdf#xml=https://www.ca2.uscourts.gov/decisions/isysquery/a85eac6b-716b-4ff0-a61b-29cef58cce1a/1/hilite/)
+* [2023-05-30, 18:10:02](https://news.ycombinator.com/item?id=36128321) - [Pippin in My Orchard](https://www.leadedsolder.com/2023/05/30/apple-bandai-pippin-pickup-fan-repair.html)
 * [2023-05-30, 18:03:30](https://news.ycombinator.com/item?id=36128235) - [Albert Camus](https://plato.stanford.edu/entries/camus/)
 * [2023-05-30, 17:53:00](https://news.ycombinator.com/item?id=36128082) - [Show HN: I open sourced the QR designer from my failed startup](https://github.com/kochrt/qr-designer)
 * [2023-05-30, 17:52:18](https://news.ycombinator.com/item?id=36128067) - [Creating a Memory-Safe Workstation with CheriBSD [pdf]](https://www.bsdcan.org/events/bsdcan_2023/sessions/session/142/slides/58/20230520-memory-safe-desktop-compressed.pdf)
