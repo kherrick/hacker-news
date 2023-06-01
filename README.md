@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 * [2023-06-01, 08:00:09](https://news.ycombinator.com/item?id=36148588) - [June (YC W21) is hiring product engineer #3](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
 * [2023-06-01, 07:42:35](https://news.ycombinator.com/item?id=36148495) - [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
 * [2023-06-01, 07:37:44](https://news.ycombinator.com/item?id=36148475) - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
 * [2023-06-01, 06:45:11](https://news.ycombinator.com/item?id=36148217) - [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
 * [2023-06-01, 06:01:18](https://news.ycombinator.com/item?id=36148000) - [Designs for Battery Tankers to Transport Renewable Energy by 2026](https://maritime-executive.com/article/designs-for-battery-tankers-to-transport-renewable-energy-by-2026)
-* [2023-06-01, 03:29:13](https://news.ycombinator.com/item?id=36147285) - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
 * [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
 * [2023-06-01, 01:24:44](https://news.ycombinator.com/item?id=36146627) - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
 * [2023-06-01, 00:26:45](https://news.ycombinator.com/item?id=36146278) - [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
