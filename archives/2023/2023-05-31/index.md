@@ -68,6 +68,7 @@
 * [2023-05-31, 10:38:03](https://news.ycombinator.com/item?id=36136719) - [Arm announces the Cortex X4 for 2024, plus a 14-core M2-fighter](https://arstechnica.com/gadgets/2023/05/arm-announces-the-cortex-x4-for-2024-plus-a-14-core-m2-fighter/)
 * [2023-05-31, 10:36:44](https://news.ycombinator.com/item?id=36136708) - [Beating the heat: These plant-based iridescent films stay cool in the sun](https://arstechnica.com/science/2023/05/beating-the-heat-these-plant-based-iridescent-films-stay-cool-in-the-sun/)
 * [2023-05-31, 10:22:16](https://news.ycombinator.com/item?id=36136639) - [Peelian Principles](https://en.wikipedia.org/wiki/Peelian_principles)
+* [2023-05-31, 10:06:40](https://news.ycombinator.com/item?id=36136552) - [Kevin Edwards in The Micro User – article series on 6502 (1985)](https://archive.org/details/KevinEdwards6502TheMicroUser)
 * [2023-05-31, 09:56:22](https://news.ycombinator.com/item?id=36136481) - [Batten Down Fix Later](https://graydon2.dreamwidth.org/307105.html)
 * [2023-05-31, 09:29:59](https://news.ycombinator.com/item?id=36136318) - [Train Your Own Private ChatGPT Model for the Cost of a Starbucks Coffee](https://medium.com/@ApacheDolphinScheduler/train-your-own-private-chatgpt-model-for-the-cost-of-a-starbucks-coffee-25c588f450ee)
 * [2023-05-31, 09:11:37](https://news.ycombinator.com/item?id=36136179) - [Notes apps are where ideas go to die. And that’s good](https://www.reproof.app/blog/notes-apps-help-us-forget)
