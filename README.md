@@ -17,7 +17,6 @@
 * [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
 * [2023-06-01, 00:26:45](https://news.ycombinator.com/item?id=36146278) - [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
 * [2023-05-31, 23:23:19](https://news.ycombinator.com/item?id=36145823) - [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
-* [2023-05-31, 21:38:04](https://news.ycombinator.com/item?id=36144674) - [OpenAPI v4 (aka Moonwalk) Proposal](https://github.com/OAI/moonwalk)
 * [2023-05-31, 20:12:33](https://news.ycombinator.com/item?id=36143627) - [Ancient lead pollution in a Roman harbor (2017)](https://arstechnica.com/science/2017/08/plumbing-discovery-reveals-the-rise-and-fall-of-the-roman-empire/)
 * [2023-05-31, 17:19:40](https://news.ycombinator.com/item?id=36140916) - [Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
 * [2023-05-31, 14:48:53](https://news.ycombinator.com/item?id=36139042) - [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
@@ -29,6 +28,7 @@
 * [2023-05-31, 06:45:27](https://news.ycombinator.com/item?id=36135250) - [Sun Remarketing Catalog Summer 1988](https://archive.org/details/bitsavers_applelisasarketingCatalogSummer1988_28586791)
 * [2023-05-30, 20:58:36](https://news.ycombinator.com/item?id=36130699) - [The Obscuritory - Odd, lesser-known games and software](https://obscuritory.com/)
 * [2023-05-30, 20:22:11](https://news.ycombinator.com/item?id=36130194) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
+* [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 16:51:42](https://news.ycombinator.com/item?id=36127198) - [A mystery person who spies on theme parks from the sky](https://boingboing.net/2023/05/30/the-mystery-person-who-spies-on-theme-parks-from-the-sky.html)
 
 ## [Archives](archives/index.md)
