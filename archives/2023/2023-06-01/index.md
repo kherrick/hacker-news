@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
 * [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
+* [2023-06-01, 15:12:07](https://news.ycombinator.com/item?id=36152222) - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
 * [2023-06-01, 14:35:41](https://news.ycombinator.com/item?id=36151607) - [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
 * [2023-06-01, 14:35:29](https://news.ycombinator.com/item?id=36151606) - [Overlooked: A detail in “The Shining” that you’ve never seen](https://twitter.com/nessuno2001/status/1663917603662835714)
 * [2023-06-01, 14:24:37](https://news.ycombinator.com/item?id=36151441) - [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
