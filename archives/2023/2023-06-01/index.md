@@ -14,6 +14,7 @@
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2023-06-01, 18:11:19](https://news.ycombinator.com/item?id=36155047) - [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
 * [2023-06-01, 18:09:07](https://news.ycombinator.com/item?id=36155028) - [Microsoft inks deal with Nvidia-backed CoreWeave to meet A.I. computing demand](https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html)
+* [2023-06-01, 18:06:14](https://news.ycombinator.com/item?id=36154984) - [Do any startups still use WordPress after 20 years?](https://autopitch.ai/posts/blog/do-any-startups-use-wordpress-after-20-years)
 * [2023-06-01, 18:04:54](https://news.ycombinator.com/item?id=36154962) - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 * [2023-06-01, 17:44:44](https://news.ycombinator.com/item?id=36154692) - [Brave Browser introduces vertical tabs](https://brave.com/vertical-tabs/)
 * [2023-06-01, 17:41:24](https://news.ycombinator.com/item?id=36154642) - [No Man&#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
