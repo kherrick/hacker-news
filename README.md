@@ -5,7 +5,6 @@
 * [2023-06-01, 18:28:32](https://news.ycombinator.com/item?id=36155279) - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2023-06-01, 18:11:19](https://news.ycombinator.com/item?id=36155047) - [Exterminate your desk: How to remove your mouse](https://nickbusey.com/article/2023-06-01-removing-your-mouse/)
-* [2023-06-01, 18:04:54](https://news.ycombinator.com/item?id=36154962) - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 * [2023-06-01, 17:44:44](https://news.ycombinator.com/item?id=36154692) - [Brave Browser introduces vertical tabs](https://brave.com/vertical-tabs/)
 * [2023-06-01, 17:39:58](https://news.ycombinator.com/item?id=36154626) - [Differentiable Time-Frequency Scattering on GPU](https://github.com/cyrusvahidi/jtfs-gpu)
 * [2023-06-01, 17:39:35](https://news.ycombinator.com/item?id=36154622) - [Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
@@ -29,6 +28,7 @@
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [Zig is hard but worth it](http://ratfactor.com/zig/hard)
 * [2023-06-01, 10:19:04](https://news.ycombinator.com/item?id=36149313) - [You Can&#x27;t Optimize for Rest (2021)](https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
+* [2023-06-01, 07:37:44](https://news.ycombinator.com/item?id=36148475) - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
 * [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
 
 ## [Archives](archives/index.md)
