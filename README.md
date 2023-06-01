@@ -24,10 +24,10 @@
 * [2023-05-31, 10:56:14](https://news.ycombinator.com/item?id=36136819) - [Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
 * [2023-05-31, 10:22:16](https://news.ycombinator.com/item?id=36136639) - [Peelian Principles](https://en.wikipedia.org/wiki/Peelian_principles)
 * [2023-05-31, 09:11:37](https://news.ycombinator.com/item?id=36136179) - [Notes apps are where ideas go to die (2022)](https://www.reproof.app/blog/notes-apps-help-us-forget)
+* [2023-05-31, 04:21:55](https://news.ycombinator.com/item?id=36134423) - [Hardy Fox, of the avant-garde band The Residents (maybe) (2018)](https://www.nytimes.com/2018/11/03/obituaries/hardy-fox-dead.html)
 * [2023-05-30, 20:58:36](https://news.ycombinator.com/item?id=36130699) - [The Obscuritory - Odd, lesser-known games and software](https://obscuritory.com/)
 * [2023-05-30, 20:22:11](https://news.ycombinator.com/item?id=36130194) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
-* [2023-05-30, 18:10:02](https://news.ycombinator.com/item?id=36128321) - [Pippin in My Orchard](https://www.leadedsolder.com/2023/05/30/apple-bandai-pippin-pickup-fan-repair.html)
 * [2023-05-30, 16:51:42](https://news.ycombinator.com/item?id=36127198) - [A mystery person who spies on theme parks from the sky](https://boingboing.net/2023/05/30/the-mystery-person-who-spies-on-theme-parks-from-the-sky.html)
 * [2023-05-30, 05:57:27](https://news.ycombinator.com/item?id=36121556) - [The Diaries of Franz Kafka](https://www.firstthings.com/article/2023/06/kafkas-trials)
 
