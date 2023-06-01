@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 06:45:11](https://news.ycombinator.com/item?id=36148217) - [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
 * [2023-06-01, 03:55:53](https://news.ycombinator.com/item?id=36147410) - [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
 * [2023-06-01, 03:29:13](https://news.ycombinator.com/item?id=36147285) - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
 * [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
@@ -16,7 +17,6 @@
 * [2023-05-31, 17:40:44](https://news.ycombinator.com/item?id=36141170) - [You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
 * [2023-05-31, 17:30:39](https://news.ycombinator.com/item?id=36141083) - [Had a call with Reddit to discuss pricing](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
 * [2023-05-31, 17:19:40](https://news.ycombinator.com/item?id=36140916) - [Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
-* [2023-05-31, 17:00:04](https://news.ycombinator.com/item?id=36140639) - [Provision (YC S22) Is Hiring](https://provision-software.notion.site/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac)
 * [2023-05-31, 16:22:48](https://news.ycombinator.com/item?id=36140177) - [RISE: Accelerate the development of open source software for RISC-V](https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v)
 * [2023-05-31, 14:48:53](https://news.ycombinator.com/item?id=36139042) - [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
 * [2023-05-31, 14:11:49](https://news.ycombinator.com/item?id=36138642) - [When LIMIT 9 works but LIMIT 10 hangs](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)

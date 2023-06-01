@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 06:45:11](https://news.ycombinator.com/item?id=36148217) - [Show HN: Git credential helper using OAuth in browser](https://github.com/hickford/git-credential-oauth)
 * [2023-06-01, 03:55:53](https://news.ycombinator.com/item?id=36147410) - [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
 * [2023-06-01, 03:29:13](https://news.ycombinator.com/item?id=36147285) - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
 * [2023-06-01, 03:22:48](https://news.ycombinator.com/item?id=36147252) - [Reddit’s API pricing results in shocking $20M-a-year bill for Apollo](https://arstechnica.com/gadgets/2023/05/reddits-api-pricing-results-in-shocking-20-million-a-year-bill-for-apollo/)
