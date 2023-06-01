@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-06-01, 19:50:56",
+      "https://news.ycombinator.com/item?id=36156444"
+    ],
+    [
+      "Vectorization: Introduction",
+      "https://cvw.cac.cornell.edu/vector/default"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 19:49:48",
+      "https://news.ycombinator.com/item?id=36156423"
+    ],
+    [
+      "New Device Generates Electricity from Thin Air",
+      "https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 18:28:32",
       "https://news.ycombinator.com/item?id=36155279"
     ],
     [
       "WordPress.com launches paid newsletters",
       "https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 18:27:44",
-      "https://news.ycombinator.com/item?id=36155267"
-    ],
-    [
-      "OpenAI Employee: GPT-4 hasn&#x27;t gotten worse since March",
-      "https://twitter.com/OfficialLoganK/status/1663934947931897857"
     ]
   ],
   [
@@ -47,6 +57,16 @@
     [
       "How the tongue shaped life on Earth",
       "https://www.science.org/content/article/how-tongue-shaped-life-on-earth"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 17:44:44",
+      "https://news.ycombinator.com/item?id=36154692"
+    ],
+    [
+      "Brave Browser introduces vertical tabs",
+      "https://brave.com/vertical-tabs/"
     ]
   ],
   [
@@ -221,26 +241,6 @@
   ],
   [
     [
-      "2023-06-01, 14:07:54",
-      "https://news.ycombinator.com/item?id=36151220"
-    ],
-    [
-      "Operation Triangulation: iOS Security Issue",
-      "https://securelist.com/trng-2023/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 14:02:31",
-      "https://news.ycombinator.com/item?id=36151140"
-    ],
-    [
-      "I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to",
-      "https://the-guild.dev/blog/judging-open-source-by-github-stars"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 11:46:35",
       "https://news.ycombinator.com/item?id=36149876"
     ],
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2023-06-01, 10:19:04",
+      "https://news.ycombinator.com/item?id=36149313"
+    ],
+    [
+      "You Can&#x27;t Optimize for Rest (2021)",
+      "https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 08:47:40",
       "https://news.ycombinator.com/item?id=36148807"
     ],
     [
       "Show HN: I made CSS Pro, a re-imagined Devtools for web design",
       "https://csspro.com"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 07:37:44",
-      "https://news.ycombinator.com/item?id=36148475"
-    ],
-    [
-      "Distcc: A fast, free distributed C&#x2F;C++ compiler",
-      "https://www.distcc.org/"
     ]
   ],
   [
