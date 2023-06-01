@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-06-01, 17:00:41",
+      "https://news.ycombinator.com/item?id=36154040"
+    ],
+    [
+      "Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform",
+      "https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:58:38",
+      "https://news.ycombinator.com/item?id=36154011"
+    ],
+    [
+      "Logic programming is overrated, at least for logic puzzles (2013)",
+      "http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:55:59",
+      "https://news.ycombinator.com/item?id=36153970"
+    ],
+    [
+      "Own-Goal Football (2022)",
+      "https://generalist.academy/2022/06/07/own-goal-football/"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:52:03",
+      "https://news.ycombinator.com/item?id=36153917"
+    ],
+    [
+      "World Capitals Voronoi (2014)",
+      "https://www.jasondavies.com/maps/voronoi/capitals/"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 16:32:28",
       "https://news.ycombinator.com/item?id=36153578"
     ],
@@ -11,12 +51,22 @@
   ],
   [
     [
-      "2023-06-01, 16:27:34",
-      "https://news.ycombinator.com/item?id=36153496"
+      "2023-06-01, 16:31:35",
+      "https://news.ycombinator.com/item?id=36153566"
     ],
     [
-      "The Meta Quest 3 is a $499 mixed reality headset with full-color passthrough",
-      "https://www.engadget.com/the-meta-quest-3-is-a-499-mixed-reality-headset-with-full-color-passthrough-141204527.html"
+      "The Birth and Death of the Orange Book (2015) [pdf]",
+      "https://www.stevelipner.org/links/resources/The%20Birth%20and%20Death%20of%20the%20Orange%20Book.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:28:32",
+      "https://news.ycombinator.com/item?id=36153516"
+    ],
+    [
+      "The film had killed me (1946)",
+      "https://diariesofnote.com/2023/06/01/the-film-had-killed-me/"
     ]
   ],
   [
@@ -71,11 +121,21 @@
   ],
   [
     [
+      "2023-06-01, 15:01:47",
+      "https://news.ycombinator.com/item?id=36152012"
+    ],
+    [
+      "Ask HN: Who wants to be hired? (June 2023)",
+      "https://news.ycombinator.com/item?id=36152012"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 14:55:56",
       "https://news.ycombinator.com/item?id=36151917"
     ],
     [
-      "Why Scientists Need to Get High",
+      "Scientists Need to Get High",
       "https://nautil.us/why-scientists-need-to-get-high-305830/"
     ]
   ],
@@ -87,16 +147,6 @@
     [
       "Using Adapt and Beam for Effective Data Modeling",
       "https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 14:23:05",
-      "https://news.ycombinator.com/item?id=36151417"
-    ],
-    [
-      "Two Men Got Jobs at Amazon Just to Steal Copies of Zelda",
-      "https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2023-06-01, 14:01:53",
-      "https://news.ycombinator.com/item?id=36151132"
-    ],
-    [
-      "People living near former atomic weapon plant in WA have increased cancer rates",
-      "https://pubmed.ncbi.nlm.nih.gov/14738272/"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 13:55:01",
       "https://news.ycombinator.com/item?id=36151056"
     ],
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2023-06-01, 11:18:44",
-      "https://news.ycombinator.com/item?id=36149690"
-    ],
-    [
-      "Maryland License Plates Now Inadvertently Advertising Filipino Online Casino",
-      "https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 11:08:40",
       "https://news.ycombinator.com/item?id=36149620"
     ],
@@ -215,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36149462"
     ],
     [
-      "I think Zig is hard but worth it",
+      "Zig is hard but worth it",
       "http://ratfactor.com/zig/hard"
     ]
   ],
@@ -237,26 +267,6 @@
     [
       "Show HN: I made CSS Pro, a re-imagined Devtools for web design",
       "https://csspro.com"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 08:00:09",
-      "https://news.ycombinator.com/item?id=36148588"
-    ],
-    [
-      "June (YC W21) is hiring product engineer #3",
-      "https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 07:42:35",
-      "https://news.ycombinator.com/item?id=36148495"
-    ],
-    [
-      "Introduction to Open Source Laptop Project by Lukas Henkel",
-      "https://resources.altium.com/p/open-source-laptop-part-one"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The unsung hero of the Apple Watch is its hidden buttons",
       "https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 06:45:27",
-      "https://news.ycombinator.com/item?id=36135250"
-    ],
-    [
-      "Sun Remarketing Catalog Summer 1988",
-      "https://archive.org/details/bitsavers_applelisasarketingCatalogSummer1988_28586791"
     ]
   ]
 ]
