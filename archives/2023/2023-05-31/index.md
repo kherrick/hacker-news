@@ -45,6 +45,7 @@
 * [2023-05-31, 15:18:04](https://news.ycombinator.com/item?id=36139349) - [AI intensifies fight against ‘paper mills’ that churn out fake research](https://www.nature.com/articles/d41586-023-01780-w)
 * [2023-05-31, 15:12:06](https://news.ycombinator.com/item?id=36139276) - [AI Everywhere, All at Once](https://spectrum.ieee.org/ai-ethics-governance)
 * [2023-05-31, 15:11:39](https://news.ycombinator.com/item?id=36139272) - [Auschwitz museum criticizes use of death camp in politics](https://apnews.com/article/poland-ruling-party-tusk-march-auschwitz-e1d2e7c082dd61dedb2d7cb1c22ee4ac)
+* [2023-05-31, 14:48:53](https://news.ycombinator.com/item?id=36139042) - [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
 * [2023-05-31, 14:41:46](https://news.ycombinator.com/item?id=36138957) - [Show HN: Front end-Only-Authorization – A new web standard](https://foaz.io/)
 * [2023-05-31, 14:23:38](https://news.ycombinator.com/item?id=36138762) - [A Friday Email Incident](https://dev.37signals.com/a-friday-email-incident/)
 * [2023-05-31, 14:18:42](https://news.ycombinator.com/item?id=36138707) - [Car dealers block direct electric vehicles](https://slate.com/news-and-politics/2023/05/rich-republicans-party-car-dealers-2024-desantis.html)
