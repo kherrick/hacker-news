@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
 * [2023-06-01, 17:00:41](https://news.ycombinator.com/item?id=36154040) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-01, 16:58:38](https://news.ycombinator.com/item?id=36154011) - [Logic programming is overrated, at least for logic puzzles (2013)](http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html)
 * [2023-06-01, 16:55:59](https://news.ycombinator.com/item?id=36153970) - [Own-Goal Football (2022)](https://generalist.academy/2022/06/07/own-goal-football/)
@@ -28,7 +29,6 @@
 * [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 * [2023-06-01, 07:37:44](https://news.ycombinator.com/item?id=36148475) - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
-* [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
 * [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
 
 ## [Archives](archives/index.md)
