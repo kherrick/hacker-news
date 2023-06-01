@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
+* [2023-06-01, 18:04:54](https://news.ycombinator.com/item?id=36154962) - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 * [2023-06-01, 17:41:24](https://news.ycombinator.com/item?id=36154642) - [No Man&#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
 * [2023-06-01, 17:39:58](https://news.ycombinator.com/item?id=36154626) - [Differentiable Time-Frequency Scattering on GPU](https://github.com/cyrusvahidi/jtfs-gpu)
 * [2023-06-01, 17:39:35](https://news.ycombinator.com/item?id=36154622) - [Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
@@ -23,10 +25,8 @@
 * [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
 * [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
-* [2023-06-01, 13:55:01](https://news.ycombinator.com/item?id=36151056) - [Show HN: TodoBot is an AI coach that helps you write a better todo list](https://todobot.ai/)
 * [2023-06-01, 11:20:43](https://news.ycombinator.com/item?id=36149701) - [A Medieval Comedy Act Has Been Discovered in First-Ever Find, Researcher Says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [Zig is hard but worth it](http://ratfactor.com/zig/hard)
-* [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 * [2023-06-01, 07:37:44](https://news.ycombinator.com/item?id=36148475) - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
 * [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
