@@ -22,7 +22,7 @@
 * [2023-06-01, 15:12:07](https://news.ycombinator.com/item?id=36152222) - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
 * [2023-06-01, 15:01:48](https://news.ycombinator.com/item?id=36152014) - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
 * [2023-06-01, 15:01:47](https://news.ycombinator.com/item?id=36152012) - [Ask HN: Who wants to be hired? (June 2023)](https://news.ycombinator.com/item?id=36152012)
-* [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
+* [2023-06-01, 14:19:48](https://news.ycombinator.com/item?id=36151375) - [Meta announces its Quest 3 VR headset](https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details)
 * [2023-06-01, 11:46:35](https://news.ycombinator.com/item?id=36149876) - [Paragraphica is a context-to-image camera](https://bjoernkarmann.dk/project/paragraphica)
 * [2023-06-01, 11:20:43](https://news.ycombinator.com/item?id=36149701) - [A Medieval Comedy Act Has Been Discovered in First-Ever Find, Researcher Says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [Zig is hard but worth it](http://ratfactor.com/zig/hard)
