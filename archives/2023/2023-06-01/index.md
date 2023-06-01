@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 14:35:41](https://news.ycombinator.com/item?id=36151607) - [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
+* [2023-06-01, 14:18:42](https://news.ycombinator.com/item?id=36151355) - [Introducing Meta Quest 3](https://www.facebook.com/zuck/videos/introducing-meta-quest-3-the-first-mainstream-headset-with-high-res-color-mixed-/580074517583727/)
+* [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
+* [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
 * [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [So, I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
 * [2023-06-01, 14:01:53](https://news.ycombinator.com/item?id=36151132) - [People living near former atomic weapon plant in WA have increased cancer rates](https://pubmed.ncbi.nlm.nih.gov/14738272/)
 * [2023-06-01, 13:38:55](https://news.ycombinator.com/item?id=36150867) - [US banks lost $472B in deposits in the Q1 2023](https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1)
