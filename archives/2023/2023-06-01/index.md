@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 13:07:57](https://news.ycombinator.com/item?id=36150543) - [Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
+* [2023-06-01, 12:56:22](https://news.ycombinator.com/item?id=36150443) - [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
+* [2023-06-01, 12:40:15](https://news.ycombinator.com/item?id=36150300) - [Selectively Compressed Images – A Hybrid Format](https://shkspr.mobi/blog/2023/06/selectively-compressed-images-a-hybrid-format/)
+* [2023-06-01, 12:37:54](https://news.ycombinator.com/item?id=36150274) - [Automate the CEOs](https://www.hamiltonnolan.com/p/automate-the-ceos)
 * [2023-06-01, 12:19:17](https://news.ycombinator.com/item?id=36150110) - [What If Friendship, Not Marriage, Was at the Center of Life?](https://www.theatlantic.com/family/archive/2020/10/people-who-prioritize-friendship-over-romance/616779/)
 * [2023-06-01, 11:59:33](https://news.ycombinator.com/item?id=36149966) - [Ask HN: Lots of AWS credits expiring soon, ideas?](https://news.ycombinator.com/item?id=36149966)
+* [2023-06-01, 11:51:16](https://news.ycombinator.com/item?id=36149904) - [Ask HN: Cyber Security folks – what are your biggest pain points?](https://news.ycombinator.com/item?id=36149904)
 * [2023-06-01, 11:43:23](https://news.ycombinator.com/item?id=36149858) - [Israeli Translator Destroys ChatGPT Hebrew Translation of the Great Gatsby](https://www.youtube.com/watch?v=ZNBjTY_mRio)
 * [2023-06-01, 11:33:04](https://news.ycombinator.com/item?id=36149789) - [Industry docs reveal makers of &#x27;forever chemicals&#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
 * [2023-06-01, 11:18:44](https://news.ycombinator.com/item?id=36149690) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
