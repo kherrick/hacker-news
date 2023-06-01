@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-01, 20:39:53](https://news.ycombinator.com/item?id=36157024) - [Samuel Morland, Magister Mechanicorum (2017)](https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/)
-* [2023-06-01, 20:23:23](https://news.ycombinator.com/item?id=36156844) - [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 * [2023-06-01, 19:49:48](https://news.ycombinator.com/item?id=36156423) - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
 * [2023-06-01, 18:42:36](https://news.ycombinator.com/item?id=36155495) - [Software licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
@@ -17,8 +16,10 @@
 * [2023-06-01, 17:07:28](https://news.ycombinator.com/item?id=36154135) - [OpenAI Cybersecurity Grant Program](https://openai.com/blog/openai-cybersecurity-grant-program)
 * [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
 * [2023-06-01, 17:00:41](https://news.ycombinator.com/item?id=36154040) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+* [2023-06-01, 16:58:38](https://news.ycombinator.com/item?id=36154011) - [Logic programming is overrated, at least for logic puzzles (2013)](http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html)
 * [2023-06-01, 16:55:59](https://news.ycombinator.com/item?id=36153970) - [Own-goal football (2022)](https://generalist.academy/2022/06/07/own-goal-football/)
 * [2023-06-01, 16:52:03](https://news.ycombinator.com/item?id=36153917) - [World Capitals Voronoi (2014)](https://www.jasondavies.com/maps/voronoi/capitals/)
+* [2023-06-01, 16:29:17](https://news.ycombinator.com/item?id=36153527) - [The Rise and Fall of Evidence Based Medicine (1998) [pdf]](https://www.researchgate.net/publication/13574786_The_rise_and_fall_of_EBM)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:01:48](https://news.ycombinator.com/item?id=36152014) - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
 * [2023-06-01, 15:01:47](https://news.ycombinator.com/item?id=36152012) - [Ask HN: Who wants to be hired? (June 2023)](https://news.ycombinator.com/item?id=36152012)
@@ -29,7 +30,6 @@
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 * [2023-05-31, 21:31:05](https://news.ycombinator.com/item?id=36144608) - [The Secret History and Strange Future of Charisma](https://www.noemamag.com/the-secret-history-and-strange-future-of-charisma/)
 * [2023-05-31, 17:57:26](https://news.ycombinator.com/item?id=36141430) - [Judge rules Wyoming corner crossers did not trespass](https://www.hcn.org/articles/public-lands-judge-rules-wyoming-corner-crossers-did-not-trespass)
-* [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
 
 ## [Archives](archives/index.md)
 
