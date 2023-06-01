@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 15:45:05](https://news.ycombinator.com/item?id=36152779) - [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
 * [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
 * [2023-06-01, 15:12:07](https://news.ycombinator.com/item?id=36152222) - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
 * [2023-06-01, 15:01:48](https://news.ycombinator.com/item?id=36152014) - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
 * [2023-06-01, 14:55:56](https://news.ycombinator.com/item?id=36151917) - [Why Scientists Need to Get High](https://nautil.us/why-scientists-need-to-get-high-305830/)
 * [2023-06-01, 14:24:37](https://news.ycombinator.com/item?id=36151441) - [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
 * [2023-06-01, 14:23:05](https://news.ycombinator.com/item?id=36151417) - [Two Men Got Jobs at Amazon Just to Steal Copies of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
-* [2023-06-01, 14:19:48](https://news.ycombinator.com/item?id=36151375) - [Meta announces its Quest 3 VR headset, which will cost $499.99](https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details)
 * [2023-06-01, 14:12:40](https://news.ycombinator.com/item?id=36151286) - [Zuckerberg unveils Meta’s newest VR headset days before Apple reveals its own](https://www.cnbc.com/2023/06/01/meta-quest-3-unveiled-ahead-of-apples-planned-vr-headset-debut.html)
 * [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
