@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-01, 20:39:53](https://news.ycombinator.com/item?id=36157024) - [Samuel Morland, Magister Mechanicorum (2017)](https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/)
+* [2023-06-01, 21:22:47](https://news.ycombinator.com/item?id=36157529) - [Seven out of the nine thresholds enabling human life on Earth have been exceeded](https://www.nature.com/articles/s41586-023-06083-8)
+* [2023-06-01, 20:23:23](https://news.ycombinator.com/item?id=36156844) - [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 * [2023-06-01, 19:49:48](https://news.ycombinator.com/item?id=36156423) - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
 * [2023-06-01, 18:42:36](https://news.ycombinator.com/item?id=36155495) - [Software licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
@@ -9,7 +10,6 @@
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2023-06-01, 18:09:07](https://news.ycombinator.com/item?id=36155028) - [Microsoft inks deal with Nvidia-backed CoreWeave to meet A.I. computing demand](https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html)
 * [2023-06-01, 18:06:14](https://news.ycombinator.com/item?id=36154984) - [Do any startups still use WordPress after 20 years?](https://autopitch.ai/posts/blog/do-any-startups-use-wordpress-after-20-years)
-* [2023-06-01, 17:44:44](https://news.ycombinator.com/item?id=36154692) - [Brave Browser introduces vertical tabs](https://brave.com/vertical-tabs/)
 * [2023-06-01, 17:39:35](https://news.ycombinator.com/item?id=36154622) - [Most Important Papers for Quantitative Traders](https://www.qmr.ai/most-important-papers-for-quantitative-traders/)
 * [2023-06-01, 17:36:01](https://news.ycombinator.com/item?id=36154562) - [Viable offspring derived from single unfertilized mammalian oocytes](https://www.pnas.org/doi/full/10.1073/pnas.2115248119)
 * [2023-06-01, 17:33:19](https://news.ycombinator.com/item?id=36154531) - [What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
