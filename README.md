@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
 * [2023-06-01, 01:24:44](https://news.ycombinator.com/item?id=36146627) - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
 * [2023-06-01, 00:26:45](https://news.ycombinator.com/item?id=36146278) - [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
 * [2023-05-31, 23:51:48](https://news.ycombinator.com/item?id=36146062) - [FTC says Ring employees illegally surveilled customers, failed to stop hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
@@ -25,7 +26,6 @@
 * [2023-05-31, 10:22:16](https://news.ycombinator.com/item?id=36136639) - [Peelian Principles](https://en.wikipedia.org/wiki/Peelian_principles)
 * [2023-05-31, 09:11:37](https://news.ycombinator.com/item?id=36136179) - [Notes apps are where ideas go to die (2022)](https://www.reproof.app/blog/notes-apps-help-us-forget)
 * [2023-05-31, 04:21:55](https://news.ycombinator.com/item?id=36134423) - [Hardy Fox, of the avant-garde band The Residents (maybe) (2018)](https://www.nytimes.com/2018/11/03/obituaries/hardy-fox-dead.html)
-* [2023-05-31, 02:47:29](https://news.ycombinator.com/item?id=36133917) - [The Mystery of the Disappearing van Gogh](https://www.nytimes.com/2023/05/29/world/asia/van-gogh-china-buyer.html)
 * [2023-05-30, 20:22:11](https://news.ycombinator.com/item?id=36130194) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
 * [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 * [2023-05-30, 16:51:42](https://news.ycombinator.com/item?id=36127198) - [A mystery person who spies on theme parks from the sky](https://boingboing.net/2023/05/30/the-mystery-person-who-spies-on-theme-parks-from-the-sky.html)
