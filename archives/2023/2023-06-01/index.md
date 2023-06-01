@@ -72,6 +72,7 @@
 * [2023-06-01, 12:40:15](https://news.ycombinator.com/item?id=36150300) - [Selectively Compressed Images – A Hybrid Format](https://shkspr.mobi/blog/2023/06/selectively-compressed-images-a-hybrid-format/)
 * [2023-06-01, 12:37:54](https://news.ycombinator.com/item?id=36150274) - [Automate the CEOs](https://www.hamiltonnolan.com/p/automate-the-ceos)
 * [2023-06-01, 12:19:17](https://news.ycombinator.com/item?id=36150110) - [What If Friendship, Not Marriage, Was at the Center of Life?](https://www.theatlantic.com/family/archive/2020/10/people-who-prioritize-friendship-over-romance/616779/)
+* [2023-06-01, 12:18:20](https://news.ycombinator.com/item?id=36150105) - [The work is never just “the work” (2022)](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
 * [2023-06-01, 11:59:33](https://news.ycombinator.com/item?id=36149966) - [Ask HN: Lots of AWS credits expiring soon, ideas?](https://news.ycombinator.com/item?id=36149966)
 * [2023-06-01, 11:51:16](https://news.ycombinator.com/item?id=36149904) - [Ask HN: Cyber Security folks – what are your biggest pain points?](https://news.ycombinator.com/item?id=36149904)
 * [2023-06-01, 11:46:35](https://news.ycombinator.com/item?id=36149876) - [Paragraphica is a context-to-image camera](https://bjoernkarmann.dk/project/paragraphica)
