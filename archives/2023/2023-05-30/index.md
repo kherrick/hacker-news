@@ -24,6 +24,7 @@
 * [2023-05-30, 21:34:55](https://news.ycombinator.com/item?id=36131200) - [Tell HN: Makers beware, Etsy will ruin your small business](https://news.ycombinator.com/item?id=36131200)
 * [2023-05-30, 21:14:20](https://news.ycombinator.com/item?id=36130911) - [Hunting Russian Intelligence “Snake” Malware](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-129a)
 * [2023-05-30, 21:10:20](https://news.ycombinator.com/item?id=36130851) - [Elizabeth Holmes: Inside the Routine at the Federal Prison Camp in Bryan, Texas](https://www.bbc.com/news/world-us-canada-65625526)
+* [2023-05-30, 20:58:36](https://news.ycombinator.com/item?id=36130699) - [The Obscuritory - Odd, lesser-known games and software](https://obscuritory.com/)
 * [2023-05-30, 20:42:37](https://news.ycombinator.com/item?id=36130472) - [Booz Allen Hamilton files a 10-K](https://boredreading.com/articles/10-K%2520Reports/recent/read/9571480/)
 * [2023-05-30, 20:33:23](https://news.ycombinator.com/item?id=36130354) - [Lawyer cited 6 fake cases made up by ChatGPT; judge calls it “unprecedented”](https://arstechnica.com/tech-policy/2023/05/lawyer-cited-6-fake-cases-made-up-by-chatgpt-judge-calls-it-unprecedented/)
 * [2023-05-30, 20:22:11](https://news.ycombinator.com/item?id=36130194) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
