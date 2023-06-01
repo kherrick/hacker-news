@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
+* [2023-06-01, 02:14:23](https://news.ycombinator.com/item?id=36146877) - [Tell HN: The dragon compiler book (2nd edition) is a great book](https://news.ycombinator.com/item?id=36146877)
 * [2023-06-01, 01:24:44](https://news.ycombinator.com/item?id=36146627) - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
 * [2023-06-01, 00:26:45](https://news.ycombinator.com/item?id=36146278) - [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
 * [2023-05-31, 23:51:48](https://news.ycombinator.com/item?id=36146062) - [FTC says Ring employees illegally surveilled customers, failed to stop hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
@@ -21,7 +22,6 @@
 * [2023-05-31, 13:41:55](https://news.ycombinator.com/item?id=36138304) - [Slide to Unlock](https://cs.uwaterloo.ca/~csk/slide/)
 * [2023-05-31, 13:05:03](https://news.ycombinator.com/item?id=36137897) - [AI21 Labs concludes largest Turing Test experiment to date](https://www.ai21.com/blog/human-or-not-results)
 * [2023-05-31, 12:28:46](https://news.ycombinator.com/item?id=36137535) - [Iguana: fast SIMD-optimized decompression](https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/)
-* [2023-05-31, 12:28:32](https://news.ycombinator.com/item?id=36137530) - [A new class of tiny, self-propelled robots that can zip through liquid at speed](https://www.colorado.edu/today/2023/05/24/these-tiny-medical-robots-could-one-day-travel-through-your-body)
 * [2023-05-31, 10:56:14](https://news.ycombinator.com/item?id=36136819) - [Rarbg Is No More](https://web.archive.org/web/20230531105653/https://rarbg.to/index80.php)
 * [2023-05-31, 10:22:16](https://news.ycombinator.com/item?id=36136639) - [Peelian Principles](https://en.wikipedia.org/wiki/Peelian_principles)
 * [2023-05-31, 09:11:37](https://news.ycombinator.com/item?id=36136179) - [Notes apps are where ideas go to die (2022)](https://www.reproof.app/blog/notes-apps-help-us-forget)
