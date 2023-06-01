@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:05](https://news.ycombinator.com/item?id=36152779) - [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
 * [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
 * [2023-06-01, 15:12:07](https://news.ycombinator.com/item?id=36152222) - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:05](https://news.ycombinator.com/item?id=36152779) - [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
 * [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
 * [2023-06-01, 15:12:07](https://news.ycombinator.com/item?id=36152222) - [Show HN: Discipline.io – Make binding commitments to your better self](https://discipline.io/)
@@ -17,7 +18,6 @@
 * [2023-06-01, 13:03:47](https://news.ycombinator.com/item?id=36150503) - [Explore Australian Fossils in 3D](https://sites.flinders.edu.au/vamp/fossils/)
 * [2023-06-01, 12:56:22](https://news.ycombinator.com/item?id=36150443) - [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
 * [2023-06-01, 12:19:17](https://news.ycombinator.com/item?id=36150110) - [What If Friendship, Not Marriage, Was at the Center of Life?](https://www.theatlantic.com/family/archive/2020/10/people-who-prioritize-friendship-over-romance/616779/)
-* [2023-06-01, 11:59:33](https://news.ycombinator.com/item?id=36149966) - [Ask HN: Lots of AWS credits expiring soon, ideas?](https://news.ycombinator.com/item?id=36149966)
 * [2023-06-01, 11:18:44](https://news.ycombinator.com/item?id=36149690) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
 * [2023-06-01, 11:08:40](https://news.ycombinator.com/item?id=36149620) - [Show HN: Word2vec Algorithm in ~100sloc with NumPy](https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py)
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
