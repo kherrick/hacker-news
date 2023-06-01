@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-01, 14:02:31",
+      "https://news.ycombinator.com/item?id=36151140"
+    ],
+    [
+      "So, I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to",
+      "https://the-guild.dev/blog/judging-open-source-by-github-stars"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 14:01:53",
       "https://news.ycombinator.com/item?id=36151132"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2023-06-01, 13:38:55",
-      "https://news.ycombinator.com/item?id=36150867"
+      "2023-06-01, 13:36:57",
+      "https://news.ycombinator.com/item?id=36150845"
     ],
     [
-      "US banks lost $472B in deposits in the Q1 2023",
-      "https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1"
+      "Automatic emergency braking should become mandatory, feds say",
+      "https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/"
     ]
   ],
   [
     [
-      "2023-06-01, 13:26:49",
-      "https://news.ycombinator.com/item?id=36150735"
+      "2023-06-01, 13:21:21",
+      "https://news.ycombinator.com/item?id=36150680"
     ],
     [
-      "On the Catastrophic Risk of AI",
-      "https://www.schneier.com/blog/archives/2023/06/on-the-catastrophic-risk-of-ai.html"
+      "Research Finds Women Are Advantaged in Being Hired in Academic Science",
+      "https://journals.sagepub.com/doi/full/10.1177/15291006231163179"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Distcc: A fast, free distributed C&#x2F;C++ compiler",
       "https://www.distcc.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 06:53:54",
-      "https://news.ycombinator.com/item?id=36148269"
-    ],
-    [
-      "Deploy scripts using G-expressions",
-      "https://www.systemreboot.net/post/deploy-scripts-using-g-expressions"
     ]
   ],
   [
