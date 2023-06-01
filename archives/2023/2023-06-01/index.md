@@ -11,6 +11,7 @@
 * [2023-06-01, 14:19:48](https://news.ycombinator.com/item?id=36151375) - [Meta announces its Quest 3 VR headset, which will cost $499.99](https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details)
 * [2023-06-01, 14:18:42](https://news.ycombinator.com/item?id=36151355) - [Introducing Meta Quest 3](https://www.facebook.com/zuck/videos/introducing-meta-quest-3-the-first-mainstream-headset-with-high-res-color-mixed-/580074517583727/)
 * [2023-06-01, 14:12:40](https://news.ycombinator.com/item?id=36151286) - [Zuckerberg unveils Meta’s newest VR headset days before Apple reveals its own](https://www.cnbc.com/2023/06/01/meta-quest-3-unveiled-ahead-of-apples-planned-vr-headset-debut.html)
+* [2023-06-01, 14:09:25](https://news.ycombinator.com/item?id=36151234) - [Show HN: Meltano Cloud (GitLab spinout) – Managed infra for open source ELT](https://meltano.com/blog/introducing-meltano-cloud-you-build-the-pipelines-we-manage-the-infrastructure/)
 * [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
 * [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [So, I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)

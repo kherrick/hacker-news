@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-01, 14:35:41](https://news.ycombinator.com/item?id=36151607) - [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
-* [2023-06-01, 14:35:29](https://news.ycombinator.com/item?id=36151606) - [Overlooked: A detail in “The Shining” that you’ve never seen](https://twitter.com/nessuno2001/status/1663917603662835714)
 * [2023-06-01, 14:24:37](https://news.ycombinator.com/item?id=36151441) - [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
 * [2023-06-01, 14:23:05](https://news.ycombinator.com/item?id=36151417) - [Two Men Got Jobs at Amazon Just to Steal Copies of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
 * [2023-06-01, 14:19:48](https://news.ycombinator.com/item?id=36151375) - [Meta announces its Quest 3 VR headset, which will cost $499.99](https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details)
 * [2023-06-01, 14:12:40](https://news.ycombinator.com/item?id=36151286) - [Zuckerberg unveils Meta’s newest VR headset days before Apple reveals its own](https://www.cnbc.com/2023/06/01/meta-quest-3-unveiled-ahead-of-apples-planned-vr-headset-debut.html)
+* [2023-06-01, 14:09:25](https://news.ycombinator.com/item?id=36151234) - [Show HN: Meltano Cloud (GitLab spinout) – Managed infra for open source ELT](https://meltano.com/blog/introducing-meltano-cloud-you-build-the-pipelines-we-manage-the-infrastructure/)
 * [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
 * [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
