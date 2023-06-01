@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-01, 21:22:47](https://news.ycombinator.com/item?id=36157529) - [Seven out of the nine thresholds enabling human life on Earth have been exceeded](https://www.nature.com/articles/s41586-023-06083-8)
 * [2023-06-01, 20:23:23](https://news.ycombinator.com/item?id=36156844) - [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 * [2023-06-01, 19:49:48](https://news.ycombinator.com/item?id=36156423) - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
@@ -30,6 +29,7 @@
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 * [2023-05-31, 21:31:05](https://news.ycombinator.com/item?id=36144608) - [The Secret History and Strange Future of Charisma](https://www.noemamag.com/the-secret-history-and-strange-future-of-charisma/)
 * [2023-05-31, 17:57:26](https://news.ycombinator.com/item?id=36141430) - [Judge rules Wyoming corner crossers did not trespass](https://www.hcn.org/articles/public-lands-judge-rules-wyoming-corner-crossers-did-not-trespass)
+* [2023-05-31, 16:19:28](https://news.ycombinator.com/item?id=36140128) - [The unsung hero of the Apple Watch is its hidden buttons](https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month)
 
 ## [Archives](archives/index.md)
 
