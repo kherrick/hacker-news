@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
 * [2023-06-01, 13:07:57](https://news.ycombinator.com/item?id=36150543) - [Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
+* [2023-06-01, 13:03:47](https://news.ycombinator.com/item?id=36150503) - [Explore Australian Fossils in 3D](https://sites.flinders.edu.au/vamp/fossils/)
 * [2023-06-01, 12:56:22](https://news.ycombinator.com/item?id=36150443) - [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
 * [2023-06-01, 12:40:15](https://news.ycombinator.com/item?id=36150300) - [Selectively Compressed Images – A Hybrid Format](https://shkspr.mobi/blog/2023/06/selectively-compressed-images-a-hybrid-format/)
 * [2023-06-01, 12:37:54](https://news.ycombinator.com/item?id=36150274) - [Automate the CEOs](https://www.hamiltonnolan.com/p/automate-the-ceos)
