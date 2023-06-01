@@ -3,8 +3,6 @@
 * [2023-06-01, 13:07:57](https://news.ycombinator.com/item?id=36150543) - [Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
 * [2023-06-01, 13:03:47](https://news.ycombinator.com/item?id=36150503) - [Explore Australian Fossils in 3D](https://sites.flinders.edu.au/vamp/fossils/)
 * [2023-06-01, 12:56:22](https://news.ycombinator.com/item?id=36150443) - [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
-* [2023-06-01, 12:37:54](https://news.ycombinator.com/item?id=36150274) - [Automate the CEOs](https://www.hamiltonnolan.com/p/automate-the-ceos)
-* [2023-06-01, 12:19:17](https://news.ycombinator.com/item?id=36150110) - [What If Friendship, Not Marriage, Was at the Center of Life?](https://www.theatlantic.com/family/archive/2020/10/people-who-prioritize-friendship-over-romance/616779/)
 * [2023-06-01, 11:51:16](https://news.ycombinator.com/item?id=36149904) - [Ask HN: Cyber Security folks – what are your biggest pain points?](https://news.ycombinator.com/item?id=36149904)
 * [2023-06-01, 11:33:04](https://news.ycombinator.com/item?id=36149789) - [Industry docs reveal makers of &#x27;forever chemicals&#x27; covered up health dangers](https://phys.org/news/2023-05-secret-industry-documents-reveal-makers.html)
 * [2023-06-01, 11:18:44](https://news.ycombinator.com/item?id=36149690) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
@@ -20,6 +18,7 @@
 * [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
 * [2023-06-01, 00:26:45](https://news.ycombinator.com/item?id=36146278) - [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
 * [2023-05-31, 23:23:19](https://news.ycombinator.com/item?id=36145823) - [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
+* [2023-05-31, 20:12:33](https://news.ycombinator.com/item?id=36143627) - [Ancient lead pollution in a Roman harbor (2017)](https://arstechnica.com/science/2017/08/plumbing-discovery-reveals-the-rise-and-fall-of-the-roman-empire/)
 * [2023-05-31, 17:19:40](https://news.ycombinator.com/item?id=36140916) - [Launch HN: Onu (YC W23) – Turn scripts into internal tools in minutes](https://news.ycombinator.com/item?id=36140916)
 * [2023-05-31, 14:48:53](https://news.ycombinator.com/item?id=36139042) - [SVG Images from Postgres](https://www.crunchydata.com/blog/svg-images-from-postgis)
 * [2023-05-31, 13:41:55](https://news.ycombinator.com/item?id=36138304) - [Slide to Unlock](https://cs.uwaterloo.ca/~csk/slide/)
@@ -30,6 +29,7 @@
 * [2023-05-31, 06:45:27](https://news.ycombinator.com/item?id=36135250) - [Sun Remarketing Catalog Summer 1988](https://archive.org/details/bitsavers_applelisasarketingCatalogSummer1988_28586791)
 * [2023-05-30, 20:58:36](https://news.ycombinator.com/item?id=36130699) - [The Obscuritory - Odd, lesser-known games and software](https://obscuritory.com/)
 * [2023-05-30, 20:22:11](https://news.ycombinator.com/item?id=36130194) - [Language Pragmatics Engineering](https://borretti.me/article/language-pragmatics)
+* [2023-05-30, 18:30:31](https://news.ycombinator.com/item?id=36128617) - [Hacking my “smart” toothbrush](https://kuenzi.dev/toothbrush/)
 
 ## [Archives](archives/index.md)
 
