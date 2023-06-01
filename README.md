@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-01, 16:32:28](https://news.ycombinator.com/item?id=36153578) - [‘Tired’, ‘lonely’ and hated by locals: the reality for the digital nomad](https://www.telegraph.co.uk/travel/destinations/tired-lonely-the-reality-for-those-sold-digital-nomad-dream/)
 * [2023-06-01, 16:27:34](https://news.ycombinator.com/item?id=36153496) - [The Meta Quest 3 is a $499 mixed reality headset with full-color passthrough](https://www.engadget.com/the-meta-quest-3-is-a-499-mixed-reality-headset-with-full-color-passthrough-141204527.html)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:05](https://news.ycombinator.com/item?id=36152779) - [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
@@ -9,7 +10,7 @@
 * [2023-06-01, 14:55:56](https://news.ycombinator.com/item?id=36151917) - [Why Scientists Need to Get High](https://nautil.us/why-scientists-need-to-get-high-305830/)
 * [2023-06-01, 14:24:37](https://news.ycombinator.com/item?id=36151441) - [Using Adapt and Beam for Effective Data Modeling](https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools)
 * [2023-06-01, 14:23:05](https://news.ycombinator.com/item?id=36151417) - [Two Men Got Jobs at Amazon Just to Steal Copies of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
-* [2023-06-01, 14:12:40](https://news.ycombinator.com/item?id=36151286) - [Zuckerberg unveils Meta’s newest VR headset days before Apple reveals its own](https://www.cnbc.com/2023/06/01/meta-quest-3-unveiled-ahead-of-apples-planned-vr-headset-debut.html)
+* [2023-06-01, 14:19:48](https://news.ycombinator.com/item?id=36151375) - [Meta announces its Quest 3 VR headset](https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details)
 * [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
 * [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
@@ -21,7 +22,6 @@
 * [2023-06-01, 11:18:44](https://news.ycombinator.com/item?id=36149690) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
 * [2023-06-01, 11:08:40](https://news.ycombinator.com/item?id=36149620) - [Show HN: Word2vec Algorithm in ~100sloc with NumPy](https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py)
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
-* [2023-06-01, 10:30:48](https://news.ycombinator.com/item?id=36149375) - [EPYC 7002 CPUs may hang after 1042 days of uptime](https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/)
 * [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 * [2023-06-01, 08:00:09](https://news.ycombinator.com/item?id=36148588) - [June (YC W21) is hiring product engineer #3](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
