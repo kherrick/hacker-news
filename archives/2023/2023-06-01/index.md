@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 16:27:34](https://news.ycombinator.com/item?id=36153496) - [The Meta Quest 3 is a $499 mixed reality headset with full-color passthrough](https://www.engadget.com/the-meta-quest-3-is-a-499-mixed-reality-headset-with-full-color-passthrough-141204527.html)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:05](https://news.ycombinator.com/item?id=36152779) - [Blizzard CEO denies culture of harassment and blames unions for company problems](https://www.theverge.com/2023/6/1/23744109/activision-blizzard-bobby-kotick-denies-harassment-variety)
 * [2023-06-01, 15:27:13](https://news.ycombinator.com/item?id=36152510) - [Measuring the productivity impact of generative AI](https://www.nber.org/digest/measuring-productivity-impact-generative-ai)
