@@ -2,7 +2,6 @@
 
 * [2023-06-01, 03:55:53](https://news.ycombinator.com/item?id=36147410) - [AI Horde’s AGPL3 hordelib receives DMCA take-down from hlky](https://dbzer0.com/blog/ai-hordes-agpl3-hordelib-receives-dmca-take-down-from-hlky/)
 * [2023-06-01, 03:29:13](https://news.ycombinator.com/item?id=36147285) - [DNSSEC failures are how you get people to disable DNSSEC](https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement)
-* [2023-06-01, 03:22:48](https://news.ycombinator.com/item?id=36147252) - [Reddit’s API pricing results in shocking $20M-a-year bill for Apollo](https://arstechnica.com/gadgets/2023/05/reddits-api-pricing-results-in-shocking-20-million-a-year-bill-for-apollo/)
 * [2023-06-01, 02:18:09](https://news.ycombinator.com/item?id=36146905) - [Lost John Coltrane recording, from experimental phase with Eric Dolphy, emerges](https://www.npr.org/2023/05/31/1179098682/john-coltrane-eric-dolphy-village-gate-1961-lost-album)
 * [2023-06-01, 01:24:44](https://news.ycombinator.com/item?id=36146627) - [FAA seeks public input on drone operations](https://www.faa.gov/newsroom/faa-seeks-public-input-drone-operations)
 * [2023-06-01, 00:26:45](https://news.ycombinator.com/item?id=36146278) - [More malicious extensions in Chrome Web Store](https://palant.info/2023/05/31/more-malicious-extensions-in-chrome-web-store/)
@@ -13,6 +12,7 @@
 * [2023-05-31, 20:55:26](https://news.ycombinator.com/item?id=36144211) - [Teddit – An alternative Reddit front-end focused on privacy](https://codeberg.org/teddit/teddit)
 * [2023-05-31, 20:40:13](https://news.ycombinator.com/item?id=36144033) - [1000W 12V –&gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
 * [2023-05-31, 20:12:33](https://news.ycombinator.com/item?id=36143627) - [Ancient lead pollution in a Roman harbor (2017)](https://arstechnica.com/science/2017/08/plumbing-discovery-reveals-the-rise-and-fall-of-the-roman-empire/)
+* [2023-05-31, 19:19:16](https://news.ycombinator.com/item?id=36142763) - [I decided not to commercialize nbdev](https://hamel.dev/blog/posts/nbdev/)
 * [2023-05-31, 18:05:03](https://news.ycombinator.com/item?id=36141544) - [OpenAI&#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
 * [2023-05-31, 17:40:44](https://news.ycombinator.com/item?id=36141170) - [You can link an OpenPGP key to a German eID](https://pgp.governikus.de/?lang=EN)
 * [2023-05-31, 17:30:39](https://news.ycombinator.com/item?id=36141083) - [Had a call with Reddit to discuss pricing](https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/)
