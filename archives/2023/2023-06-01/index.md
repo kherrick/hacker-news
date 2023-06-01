@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
 * [2023-06-01, 14:35:41](https://news.ycombinator.com/item?id=36151607) - [Windows 11 is getting a force quit option to close apps without the Task Manager](https://www.theverge.com/2023/5/24/23736005/microsoft-windows-11-force-quit-taskbar-option-feature)
+* [2023-06-01, 14:23:05](https://news.ycombinator.com/item?id=36151417) - [Two Men Got Jobs at Amazon Just to Steal Copies of Zelda](https://kotaku.com/legend-of-zelda-tears-kingdom-tlok-steal-japan-amazon-1850493783)
+* [2023-06-01, 14:19:48](https://news.ycombinator.com/item?id=36151375) - [Meta announces its Quest 3 VR headset, which will cost $499.99](https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details)
 * [2023-06-01, 14:18:42](https://news.ycombinator.com/item?id=36151355) - [Introducing Meta Quest 3](https://www.facebook.com/zuck/videos/introducing-meta-quest-3-the-first-mainstream-headset-with-high-res-color-mixed-/580074517583727/)
 * [2023-06-01, 14:08:17](https://news.ycombinator.com/item?id=36151225) - [Show HN: StonksGPT – A Natural Language search tool for Stocks and Finance data](https://stonks.news/gpt)
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS Security Issue](https://securelist.com/trng-2023/)
