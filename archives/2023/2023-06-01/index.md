@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 18:27:44](https://news.ycombinator.com/item?id=36155267) - [OpenAI Employee: GPT-4 hasn&#x27;t gotten worse since March](https://twitter.com/OfficialLoganK/status/1663934947931897857)
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was Modern Art a CIA Psy-Op?](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2023-06-01, 18:04:54](https://news.ycombinator.com/item?id=36154962) - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
 * [2023-06-01, 17:41:24](https://news.ycombinator.com/item?id=36154642) - [No Man&#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
