@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
+* [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [So, I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
 * [2023-06-01, 14:01:53](https://news.ycombinator.com/item?id=36151132) - [People living near former atomic weapon plant in WA have increased cancer rates](https://pubmed.ncbi.nlm.nih.gov/14738272/)
 * [2023-06-01, 13:38:55](https://news.ycombinator.com/item?id=36150867) - [US banks lost $472B in deposits in the Q1 2023](https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1)
 * [2023-06-01, 13:36:57](https://news.ycombinator.com/item?id=36150845) - [Automatic emergency braking should become mandatory, feds say](https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/)
 * [2023-06-01, 13:26:49](https://news.ycombinator.com/item?id=36150735) - [On the Catastrophic Risk of AI](https://www.schneier.com/blog/archives/2023/06/on-the-catastrophic-risk-of-ai.html)
+* [2023-06-01, 13:21:21](https://news.ycombinator.com/item?id=36150680) - [Research Finds Women Are Advantaged in Being Hired in Academic Science](https://journals.sagepub.com/doi/full/10.1177/15291006231163179)
 * [2023-06-01, 13:07:57](https://news.ycombinator.com/item?id=36150543) - [Privacy: One of the Most Fundamental Human Rights, yet Constantly Under Threat](https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/)
 * [2023-06-01, 13:03:47](https://news.ycombinator.com/item?id=36150503) - [Explore Australian Fossils in 3D](https://sites.flinders.edu.au/vamp/fossils/)
 * [2023-06-01, 12:56:22](https://news.ycombinator.com/item?id=36150443) - [Autoimmune disease can attack the brain, cause psychiatric symptoms](https://www.washingtonpost.com/wellness/2023/06/01/schizophrenia-autoimmune-lupus-psychiatry/)
