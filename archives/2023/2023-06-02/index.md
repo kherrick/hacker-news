@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 21:00:46](https://news.ycombinator.com/item?id=36170689) - [OneSignal (YC S11) is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
+* [2023-06-02, 20:58:15](https://news.ycombinator.com/item?id=36170657) - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 * [2023-06-02, 20:14:06](https://news.ycombinator.com/item?id=36170143) - [Reddit effectively kills off third party apps](https://old.reddit.com/r/RedReader/comments/13ylk42/update_3_reddit_effectively_kills_off_third_party/)
 * [2023-06-02, 20:09:31](https://news.ycombinator.com/item?id=36170105) - [US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’](https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/)
 * [2023-06-02, 19:57:51](https://news.ycombinator.com/item?id=36169999) - [Moratorium on freaking out about AI](https://kyledrake.com/writings/ai)

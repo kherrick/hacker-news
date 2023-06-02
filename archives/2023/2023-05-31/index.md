@@ -26,6 +26,7 @@
 * [2023-05-31, 18:56:11](https://news.ycombinator.com/item?id=36142418) - [Popular Reddit App Apollo Would Need to Pay $20M per Year Under New API Pricing](https://www.macrumors.com/2023/05/31/reddit-api-changes-pricing-apollo/)
 * [2023-05-31, 18:47:59](https://news.ycombinator.com/item?id=36142285) - [Reddit API Pricing Would Cost Apollo Developer $20M per Year](https://daringfireball.net/linked/2023/05/31/reddit-apollo-api-pricing)
 * [2023-05-31, 18:37:12](https://news.ycombinator.com/item?id=36142088) - [macOS Like Fonts on Manjaro&#x2F;Arch Linux](https://aswinmohan.me/better-fonts-on-linux)
+* [2023-05-31, 18:13:16](https://news.ycombinator.com/item?id=36141671) - [Taking a new look at fundamental tech for quiet undersea propulsion](https://www.darpa.mil/news-events/-2023-05-18)
 * [2023-05-31, 18:06:39](https://news.ycombinator.com/item?id=36141570) - [Vasectomies rose by 29% after the end of Roe](https://www.economist.com/united-states/2023/05/25/vasectomies-rose-by-29-in-the-three-months-after-the-end-of-roe)
 * [2023-05-31, 18:05:03](https://news.ycombinator.com/item?id=36141544) - [OpenAI&#x27;s plans according to sama](https://humanloop.com/blog/open_ai_talk)
 * [2023-05-31, 17:57:26](https://news.ycombinator.com/item?id=36141430) - [Judge rules Wyoming corner crossers did not trespass](https://www.hcn.org/articles/public-lands-judge-rules-wyoming-corner-crossers-did-not-trespass)

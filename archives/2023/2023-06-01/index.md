@@ -13,6 +13,7 @@
 * [2023-06-01, 20:23:23](https://news.ycombinator.com/item?id=36156844) - [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 * [2023-06-01, 19:49:48](https://news.ycombinator.com/item?id=36156423) - [New Device Generates Electricity from Thin Air](https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/)
+* [2023-06-01, 19:47:55](https://news.ycombinator.com/item?id=36156400) - [That's Interesting (1971)](https://pages.stern.nyu.edu/~wstarbuc/Writing/Interesting.htm)
 * [2023-06-01, 19:08:50](https://news.ycombinator.com/item?id=36155892) - [Two Mice Technique](https://pubby.games/twomice.html)
 * [2023-06-01, 18:42:36](https://news.ycombinator.com/item?id=36155495) - [Software licenses masquerading as open source](http://marble.onl/posts/software-licenses-masquerading-as-open-source.html)
 * [2023-06-01, 18:28:32](https://news.ycombinator.com/item?id=36155279) - [WordPress.com launches paid newsletters](https://wordpress.com/blog/2023/06/01/newsletters-paid-subscriptions/)
