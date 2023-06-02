@@ -4,7 +4,7 @@
 * [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [An open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 14:10:18](https://news.ycombinator.com/item?id=36165322) - [California vs. social – requires ad revenues to go to journalists](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
-* [2023-06-02, 14:09:53](https://news.ycombinator.com/item?id=36165313) - [Arizona limits building as groundwater dries up](https://www.france24.com/en/live-news/20230602-arizona-limits-building-as-groundwater-dries-up)
+* [2023-06-02, 14:01:37](https://news.ycombinator.com/item?id=36165208) - [Using Google’s code history to write more code](https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
 * [2023-06-02, 13:57:49](https://news.ycombinator.com/item?id=36165152) - [Facebook to block news for some users in Canada](https://www.ft.com/content/65ae7aef-7dce-4e61-bf6d-f498bd298527)
 * [2023-06-02, 13:54:30](https://news.ycombinator.com/item?id=36165103) - [We’ve just seen solid state active cooling working on a Mini PC](https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/)
 * [2023-06-02, 13:01:37](https://news.ycombinator.com/item?id=36164503) - [Show HN: Mercury – convert Jupyter Notebooks to Web Apps without code rewriting](https://RunMercury.com)
