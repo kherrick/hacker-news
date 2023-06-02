@@ -9,6 +9,7 @@
 * [2023-06-02, 15:41:43](https://news.ycombinator.com/item?id=36166649) - [System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
 * [2023-06-02, 15:32:26](https://news.ycombinator.com/item?id=36166511) - [Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
 * [2023-06-02, 15:13:35](https://news.ycombinator.com/item?id=36166250) - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
+* [2023-06-02, 15:12:47](https://news.ycombinator.com/item?id=36166236) - [Reddit sparks outrage after it demands app developer pay $20M/yr](https://www.cnn.com/2023/06/01/tech/reddit-outrage-data-access-charge/index.html)
 * [2023-06-02, 14:56:02](https://news.ycombinator.com/item?id=36165975) - [When Markets Melt Down, These Traders Cash In](https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1)
 * [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
 * [2023-06-02, 14:30:50](https://news.ycombinator.com/item?id=36165590) - [ChatGPT took their jobs. Now they walk dogs and fix air conditioners](https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/)
