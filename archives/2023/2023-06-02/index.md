@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 12:00:11](https://news.ycombinator.com/item?id=36163970) - [Agave (YC W22) is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
 * [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 09:32:20](https://news.ycombinator.com/item?id=36163033) - [US military AI drone simulation kills operator, then takes out control tower](https://www.foxnews.com/tech/us-military-ai-drone-simulation-kills-operator-told-bad-takes-out-control-tower)
+* [2023-06-02, 09:22:00](https://news.ycombinator.com/item?id=36162968) - [On the reception and detection of pseudo-profound bullshit](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999)
 * [2023-06-02, 08:57:14](https://news.ycombinator.com/item?id=36162831) - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
 * [2023-06-02, 07:41:44](https://news.ycombinator.com/item?id=36162269) - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)

@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 12:00:11](https://news.ycombinator.com/item?id=36163970) - [Agave (YC W22) is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
 * [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
+* [2023-06-02, 09:22:00](https://news.ycombinator.com/item?id=36162968) - [On the reception and detection of pseudo-profound bullshit](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999)
 * [2023-06-02, 08:57:14](https://news.ycombinator.com/item?id=36162831) - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
 * [2023-06-02, 07:41:44](https://news.ycombinator.com/item?id=36162269) - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 07:37:45](https://news.ycombinator.com/item?id=36162235) - [Reddit Is Killing 3rd-Party Apps, the Best Way to Read the Site](https://kotaku.com/reddit-third-party-3rd-apps-pricing-crush-ios-android-1850493992)
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
-* [2023-06-02, 07:01:06](https://news.ycombinator.com/item?id=36161982) - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
 * [2023-06-02, 05:32:39](https://news.ycombinator.com/item?id=36161397) - [My Approach to Building Large Technical Projects – Mitchell Hashimoto](https://mitchellh.com/writing/building-large-technical-projects)
 * [2023-06-02, 05:31:43](https://news.ycombinator.com/item?id=36161392) - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
 * [2023-06-02, 04:50:42](https://news.ycombinator.com/item?id=36161175) - [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
@@ -29,7 +30,6 @@
 * [2023-06-01, 12:18:20](https://news.ycombinator.com/item?id=36150105) - [The work is never just “the work” (2022)](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
 * [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
 * [2023-06-01, 05:04:31](https://news.ycombinator.com/item?id=36147744) - [A Midcentury Map of New York, Packed with Weird Local Lore (2019)](https://www.atlasobscura.com/articles/wonders-of-new-york-map)
-* [2023-05-31, 22:47:35](https://news.ycombinator.com/item?id=36145458) - [Mouth gestures and their meanings around the world (2005)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/)
 
 ## [Archives](archives/index.md)
 
