@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 12:57:58](https://news.ycombinator.com/item?id=36164463) - [Air Force AI drone kills its human operator in a simulation](https://taskandpurpose.com/news/air-force-artificial-intelligence-drone/)
+* [2023-06-02, 12:57:45](https://news.ycombinator.com/item?id=36164462) - [Amazon Is in Talks to Offer Free Mobile Service to US Prime Members](https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime)
+* [2023-06-02, 12:45:39](https://news.ycombinator.com/item?id=36164340) - [Scan iPhone backups for traces of compromise by “Operation Triangulation”](https://github.com/KasperskyLab/triangle_check)
 * [2023-06-02, 12:00:11](https://news.ycombinator.com/item?id=36163970) - [Agave (YC W22) is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
 * [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 09:32:20](https://news.ycombinator.com/item?id=36163033) - [US military AI drone simulation kills operator, then takes out control tower](https://www.foxnews.com/tech/us-military-ai-drone-simulation-kills-operator-told-bad-takes-out-control-tower)
