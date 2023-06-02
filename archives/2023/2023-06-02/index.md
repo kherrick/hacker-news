@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 08:57:14](https://news.ycombinator.com/item?id=36162831) - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
+* [2023-06-02, 07:41:44](https://news.ycombinator.com/item?id=36162269) - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California Spent $17B on Homelessness. It’s Not Working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
