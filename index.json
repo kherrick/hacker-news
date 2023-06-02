@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-02, 15:41:43",
+      "https://news.ycombinator.com/item?id=36166649"
+    ],
+    [
+      "System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake",
+      "https://www.phoronix.com/news/System76-Disable-ME-RPL"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 15:13:35",
       "https://news.ycombinator.com/item?id=36166250"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2023-06-02, 14:10:18",
-      "https://news.ycombinator.com/item?id=36165322"
-    ],
-    [
-      "California Assembly votes to pass the Journalism Preservation Act",
-      "https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 14:01:37",
       "https://news.ycombinator.com/item?id=36165208"
     ],
     [
       "Using Google’s code history to write more code",
       "https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 13:54:30",
-      "https://news.ycombinator.com/item?id=36165103"
-    ],
-    [
-      "We’ve just seen solid state active cooling working on a Mini PC",
-      "https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Cakelisp: A performance-oriented Lisp-like language",
       "https://macoy.me/code/macoy/cakelisp"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 12:13:53",
+      "https://news.ycombinator.com/item?id=36150062"
+    ],
+    [
+      "New open-source datasets for music-based development",
+      "https://metabrainz.org/datasets"
     ]
   ],
   [
