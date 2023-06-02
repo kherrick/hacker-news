@@ -6,6 +6,7 @@
 
 * [2023-05-31, 23:51:48](https://news.ycombinator.com/item?id=36146062) - [FTC Says Ring Employees Illegally Surveilled Customers, Failed to Stop Hackers](https://www.ftc.gov/news-events/news/press-releases/2023/05/ftc-says-ring-employees-illegally-surveilled-customers-failed-stop-hackers-taking-control-users)
 * [2023-05-31, 23:23:19](https://news.ycombinator.com/item?id=36145823) - [DARPA hacked a science writer’s brain and turned her into a sharpshooter](https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/)
+* [2023-05-31, 22:47:35](https://news.ycombinator.com/item?id=36145458) - [Mouth gestures and their meanings around the world (2005)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/)
 * [2023-05-31, 22:39:23](https://news.ycombinator.com/item?id=36145371) - [Tell HN: Anyone else happy that crypto and Bitcoin spam is over?](https://news.ycombinator.com/item?id=36145371)
 * [2023-05-31, 22:21:15](https://news.ycombinator.com/item?id=36145185) - [Falcon 40B LLM (which beats Llama) now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
 * [2023-05-31, 22:05:03](https://news.ycombinator.com/item?id=36145007) - [Project MF: A simulation of analog SF&#x2F;MF telephone signaling](http://www.projectmf.org/)
