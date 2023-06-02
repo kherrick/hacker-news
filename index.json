@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36167948"
     ],
     [
-      "Render neural network into CUDA/HIP code",
+      "Render a neural network into CUDA/HIP code",
       "https://github.com/facebookincubator/AITemplate"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36167820"
     ],
     [
-      "Modern C",
+      "Modern C (2019)",
       "https://gustedt.gitlabpages.inria.fr/modern-c/"
     ]
   ],
@@ -57,16 +57,6 @@
     [
       "Netflix Shareholders Vote to Reject Executive Pay Packages",
       "https://www.nytimes.com/2023/06/01/business/media/netflix-executive-compensation-vote.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 15:45:41",
-      "https://news.ycombinator.com/item?id=36166715"
-    ],
-    [
-      "Woman with untreated TB finally in custody – held in “negative pressure” room",
-      "https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/"
     ]
   ],
   [
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2023-06-02, 14:44:34",
+      "https://news.ycombinator.com/item?id=36165790"
+    ],
+    [
+      "The explosive legacy of the hand sanitizer boom",
+      "https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 14:25:53",
       "https://news.ycombinator.com/item?id=36165513"
     ],
@@ -137,6 +137,16 @@
     [
       "Using Google’s code history to write more code",
       "https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 13:54:30",
+      "https://news.ycombinator.com/item?id=36165103"
+    ],
+    [
+      "Solid state active cooling on a Mini PC",
+      "https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Show HN: Mercury – convert Jupyter Notebooks to Web Apps without code rewriting",
       "https://RunMercury.com"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 12:54:43",
-      "https://news.ycombinator.com/item?id=36164439"
-    ],
-    [
-      "Show HN: Automating Daily reports, because fuck it",
-      "https://gist.github.com/yzdbg/bee9031fcaa918abf6442c2691866dda"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-06-02, 05:31:43",
-      "https://news.ycombinator.com/item?id=36161392"
+      "2023-06-01, 20:39:53",
+      "https://news.ycombinator.com/item?id=36157024"
     ],
     [
-      "Targeted attack on our management with the Triangulation Trojan",
-      "https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/"
+      "Samuel Morland, Magister Mechanicorum (2017)",
+      "https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/"
     ]
   ],
   [
