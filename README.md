@@ -19,7 +19,6 @@
 * [2023-06-02, 15:41:43](https://news.ycombinator.com/item?id=36166649) - [System76's coreboot open firmware manages to disable Intel ME for Raptor Lake](https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023)
 * [2023-06-02, 15:32:26](https://news.ycombinator.com/item?id=36166511) - [Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
 * [2023-06-02, 15:13:35](https://news.ycombinator.com/item?id=36166250) - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
-* [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The explosive legacy of the hand sanitizer boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
 * [2023-06-02, 12:54:43](https://news.ycombinator.com/item?id=36164439) - [Show HN: Automating daily reports, because fuck it](https://gist.github.com/yzdbg/bee9031fcaa918abf6442c2691866dda)
@@ -30,6 +29,7 @@
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California spent $17B on homelessness – it’s not working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
 * [2023-06-01, 12:13:53](https://news.ycombinator.com/item?id=36150062) - [New open-source datasets for music-based development](https://metabrainz.org/datasets)
+* [2023-06-01, 11:16:14](https://news.ycombinator.com/item?id=36149670) - [The World Wide Web (1994)](https://www.linuxjournal.com/article/2769)
 
 ## [Archives](archives/index.md)
 
