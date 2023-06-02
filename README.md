@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
+* [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California Spent $17B on Homelessness. It’s Not Working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
 * [2023-06-02, 07:01:06](https://news.ycombinator.com/item?id=36161982) - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
 * [2023-06-02, 05:31:43](https://news.ycombinator.com/item?id=36161392) - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
 * [2023-06-02, 04:50:42](https://news.ycombinator.com/item?id=36161175) - [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
@@ -27,7 +28,6 @@
 * [2023-06-01, 12:18:20](https://news.ycombinator.com/item?id=36150105) - [The work is never just “the work” (2022)](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
 * [2023-06-01, 11:20:43](https://news.ycombinator.com/item?id=36149701) - [A medieval comedy act has been discovered in first-ever find, researcher says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
 * [2023-06-01, 10:19:04](https://news.ycombinator.com/item?id=36149313) - [You can't optimize for rest (2021)](https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest)
-* [2023-06-01, 04:13:00](https://news.ycombinator.com/item?id=36147492) - [An Anthropologist of Filth: On Chuck Berry](https://harpers.org/archive/2023/06/chuck-berry-an-anthropologist-of-filth/)
 * [2023-05-31, 22:47:35](https://news.ycombinator.com/item?id=36145458) - [Mouth gestures and their meanings around the world (2005)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/)
 * [2023-05-31, 17:57:26](https://news.ycombinator.com/item?id=36141430) - [Judge rules Wyoming corner crossers did not trespass](https://www.hcn.org/articles/public-lands-judge-rules-wyoming-corner-crossers-did-not-trespass)
 
