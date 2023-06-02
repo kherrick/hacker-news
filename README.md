@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-02, 12:57:58](https://news.ycombinator.com/item?id=36164463) - [Air Force AI drone kills its human operator in a simulation](https://taskandpurpose.com/news/air-force-artificial-intelligence-drone/)
+* [2023-06-02, 13:09:52](https://news.ycombinator.com/item?id=36164570) - [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent)
 * [2023-06-02, 12:57:45](https://news.ycombinator.com/item?id=36164462) - [Amazon Is in Talks to Offer Free Mobile Service to US Prime Members](https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime)
 * [2023-06-02, 12:45:39](https://news.ycombinator.com/item?id=36164340) - [Scan iPhone backups for traces of compromise by “Operation Triangulation”](https://github.com/KasperskyLab/triangle_check)
+* [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
 * [2023-06-02, 12:00:11](https://news.ycombinator.com/item?id=36163970) - [Agave (YC W22) is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
 * [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 09:22:00](https://news.ycombinator.com/item?id=36162968) - [On the reception and detection of pseudo-profound bullshit](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999)
@@ -25,7 +26,6 @@
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:33](https://news.ycombinator.com/item?id=36152787) - [Show HN: Verify LLM Generated Code with a Spreadsheet](https://news.ycombinator.com/item?id=36152787)
-* [2023-06-01, 13:36:57](https://news.ycombinator.com/item?id=36150845) - [Automatic emergency braking should become mandatory, feds say](https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/)
 * [2023-06-01, 12:18:20](https://news.ycombinator.com/item?id=36150105) - [The work is never just “the work” (2022)](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
 * [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
 * [2023-06-01, 05:04:31](https://news.ycombinator.com/item?id=36147744) - [A Midcentury Map of New York, Packed with Weird Local Lore (2019)](https://www.atlasobscura.com/articles/wonders-of-new-york-map)
