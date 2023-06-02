@@ -12,6 +12,7 @@
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California Spent $17B on Homelessness. It’s Not Working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
 * [2023-06-02, 07:01:06](https://news.ycombinator.com/item?id=36161982) - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
+* [2023-06-02, 05:32:39](https://news.ycombinator.com/item?id=36161397) - [My Approach to Building Large Technical Projects – Mitchell Hashimoto](https://mitchellh.com/writing/building-large-technical-projects)
 * [2023-06-02, 05:31:43](https://news.ycombinator.com/item?id=36161392) - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
 * [2023-06-02, 05:07:12](https://news.ycombinator.com/item?id=36161257) - [Falcon 40B (potentially the most capable open-source LLM) is now open-source](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
 * [2023-06-02, 05:04:29](https://news.ycombinator.com/item?id=36161239) - [Allstate joins State Farm, stops issuing new homeowners insurance policies in CA](https://www.sfchronicle.com/california/article/insurance-allstate-fires-18130622.php)
