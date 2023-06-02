@@ -2,9 +2,8 @@
 
 * [2023-06-02, 21:00:46](https://news.ycombinator.com/item?id=36170689) - [OneSignal (YC S11) is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
 * [2023-06-02, 20:58:15](https://news.ycombinator.com/item?id=36170657) - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
-* [2023-06-02, 20:09:31](https://news.ycombinator.com/item?id=36170105) - [US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’](https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/)
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
-* [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
+* [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 * [2023-06-02, 19:16:28](https://news.ycombinator.com/item?id=36169520) - [Proven (Dot Lol)](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
 * [2023-06-02, 19:16:04](https://news.ycombinator.com/item?id=36169513) - [A new attack can unmask anonymous users on any major browser (2022)](https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/)
 * [2023-06-02, 19:13:17](https://news.ycombinator.com/item?id=36169486) - [In vitro biological system of cultured brain cells has learned to play Pong](https://www.nature.com/articles/s42256-023-00666-w)
@@ -17,6 +16,7 @@
 * [2023-06-02, 16:58:37](https://news.ycombinator.com/item?id=36167694) - [Kenneth Anger has died](https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96)
 * [2023-06-02, 15:44:07](https://news.ycombinator.com/item?id=36166685) - [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
 * [2023-06-02, 15:41:43](https://news.ycombinator.com/item?id=36166649) - [System76's coreboot open firmware manages to disable Intel ME for Raptor Lake](https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023)
+* [2023-06-02, 15:13:35](https://news.ycombinator.com/item?id=36166250) - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
 * [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su saved AMD – Now she wants Nvidia's AI crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
