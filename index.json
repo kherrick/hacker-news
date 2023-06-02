@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-06-02, 17:06:08",
-      "https://news.ycombinator.com/item?id=36167820"
-    ],
-    [
-      "Modern C (2019)",
-      "https://gustedt.gitlabpages.inria.fr/modern-c/"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 17:00:33",
       "https://news.ycombinator.com/item?id=36167727"
     ],
     [
-      "Lago – Open-Source Alternative to Stripe Billing – Hires for Developer Relations",
+      "Lago (YC S21), open-source billing, is hiring for developer relations",
       "https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer"
     ]
   ],
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2023-06-02, 16:16:26",
-      "https://news.ycombinator.com/item?id=36167068"
+      "2023-06-02, 15:44:07",
+      "https://news.ycombinator.com/item?id=36166685"
     ],
     [
-      "Netflix Shareholders Vote to Reject Executive Pay Packages",
-      "https://www.nytimes.com/2023/06/01/business/media/netflix-executive-compensation-vote.html"
+      "Workers rely on medieval era tech to reconstruct the Notre Dame",
+      "https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/"
     ]
   ],
   [
@@ -65,8 +55,8 @@
       "https://news.ycombinator.com/item?id=36166649"
     ],
     [
-      "System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake",
-      "https://www.phoronix.com/news/System76-Disable-ME-RPL"
+      "System76's coreboot open firmware manages to disable Intel ME for Raptor Lake",
+      "https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023"
     ]
   ],
   [
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2023-06-02, 14:56:02",
+      "https://news.ycombinator.com/item?id=36165975"
+    ],
+    [
+      "When markets melt down, these traders cash in",
+      "https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 14:44:34",
       "https://news.ycombinator.com/item?id=36165790"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36165513"
     ],
     [
-      "An open source, educational, low-cost modern analog computer",
+      "The Analog Thing: an open source, educational, low-cost modern analog computer",
       "https://the-analog-thing.org/"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36164503"
     ],
     [
-      "Show HN: Mercury – convert Jupyter Notebooks to Web Apps without code rewriting",
+      "Show HN: Mercury – Convert Jupyter notebooks to web apps",
       "https://RunMercury.com"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36161397"
     ],
     [
-      "My Approach to Building Large Technical Projects – Mitchell Hashimoto",
+      "My approach to building large technical projects",
       "https://mitchellh.com/writing/building-large-technical-projects"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36148515"
     ],
     [
-      "Rock Out with Your Console Out",
+      "Rock Out with Your Console Out (2012)",
       "https://www.linuxjournal.com/content/rock-out-your-console-out"
     ]
   ]
