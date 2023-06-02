@@ -24,12 +24,12 @@
 * [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
 * [2023-06-02, 12:54:43](https://news.ycombinator.com/item?id=36164439) - [Show HN: Automating daily reports, because fuck it](https://gist.github.com/yzdbg/bee9031fcaa918abf6442c2691866dda)
 * [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su saved AMD – Now she wants Nvidia's AI crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
+* [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 08:38:46](https://news.ycombinator.com/item?id=36162704) - [Phase Locked State Machines](https://onevariable.com/blog/phase-locked-state-machines/)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California spent $17B on homelessness – it’s not working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
 * [2023-06-01, 12:13:53](https://news.ycombinator.com/item?id=36150062) - [New open-source datasets for music-based development](https://metabrainz.org/datasets)
-* [2023-06-01, 11:16:14](https://news.ycombinator.com/item?id=36149670) - [The World Wide Web (1994)](https://www.linuxjournal.com/article/2769)
 
 ## [Archives](archives/index.md)
 
