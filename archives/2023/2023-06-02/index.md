@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 22:23:19](https://news.ycombinator.com/item?id=36171591) - [Supreme Court sides with Slack, putting direct listings in jeopardy](https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy)
 * [2023-06-02, 22:19:05](https://news.ycombinator.com/item?id=36171543) - [Infrastructure Should Be Boring](https://www.dragonflydb.io/blog/infrastructure-should-be-boring)
 * [2023-06-02, 22:16:33](https://news.ycombinator.com/item?id=36171514) - [2022Q4 real compensation revised downward to -4.7% from +0.7%](https://www.bls.gov/news.release/prod2.nr0.htm)
+* [2023-06-02, 21:22:13](https://news.ycombinator.com/item?id=36170910) - [Christopher Strachey and the dawn of interactive text](https://if50.substack.com/p/christopher-strachey-and-the-dawn)
 * [2023-06-02, 21:00:46](https://news.ycombinator.com/item?id=36170689) - [OneSignal (YC S11) is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
 * [2023-06-02, 20:58:15](https://news.ycombinator.com/item?id=36170657) - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 * [2023-06-02, 20:14:06](https://news.ycombinator.com/item?id=36170143) - [Reddit effectively kills off third party apps](https://old.reddit.com/r/RedReader/comments/13ylk42/update_3_reddit_effectively_kills_off_third_party/)
