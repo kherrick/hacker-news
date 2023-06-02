@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 15:45:41](https://news.ycombinator.com/item?id=36166715) - [Woman with untreated TB finally in custody – held in “negative pressure” room](https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/)
+* [2023-06-02, 15:44:07](https://news.ycombinator.com/item?id=36166685) - [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
 * [2023-06-02, 15:41:43](https://news.ycombinator.com/item?id=36166649) - [System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
+* [2023-06-02, 15:32:26](https://news.ycombinator.com/item?id=36166511) - [Skybox AI: Use AI to generate 3D worlds](https://skybox.blockadelabs.com/)
 * [2023-06-02, 15:13:35](https://news.ycombinator.com/item?id=36166250) - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
 * [2023-06-02, 14:56:02](https://news.ycombinator.com/item?id=36165975) - [When Markets Melt Down, These Traders Cash In](https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1)
 * [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
@@ -19,9 +22,7 @@
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 05:32:39](https://news.ycombinator.com/item?id=36161397) - [My Approach to Building Large Technical Projects – Mitchell Hashimoto](https://mitchellh.com/writing/building-large-technical-projects)
 * [2023-06-02, 05:31:43](https://news.ycombinator.com/item?id=36161392) - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
-* [2023-06-02, 04:50:42](https://news.ycombinator.com/item?id=36161175) - [Parachute use to prevent death, trauma when jumping from aircraft (2018) [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
 * [2023-06-02, 04:05:47](https://news.ycombinator.com/item?id=36160902) - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
-* [2023-06-02, 02:40:12](https://news.ycombinator.com/item?id=36160198) - [Ask HN: Who got hired from HN?](https://news.ycombinator.com/item?id=36160198)
 * [2023-06-02, 01:45:57](https://news.ycombinator.com/item?id=36159864) - [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
 * [2023-06-01, 17:48:23](https://news.ycombinator.com/item?id=36154739) - [On Understanding Data Abstraction, Revisited (2009) [pdf]](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
@@ -29,7 +30,6 @@
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
 * [2023-06-01, 12:13:53](https://news.ycombinator.com/item?id=36150062) - [New open-source datasets for music-based development](https://metabrainz.org/datasets)
 * [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
-* [2023-06-01, 05:04:31](https://news.ycombinator.com/item?id=36147744) - [A Midcentury Map of New York, Packed with Weird Local Lore (2019)](https://www.atlasobscura.com/articles/wonders-of-new-york-map)
 
 ## [Archives](archives/index.md)
 
