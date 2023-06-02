@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 17:52:51](https://news.ycombinator.com/item?id=36168468) - [Effect of repeated low-level red light on myopia prevention](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804215)
 * [2023-06-02, 17:14:23](https://news.ycombinator.com/item?id=36167948) - [Render neural network into CUDA/HIP code](https://github.com/facebookincubator/AITemplate)
 * [2023-06-02, 17:06:08](https://news.ycombinator.com/item?id=36167820) - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 * [2023-06-02, 17:00:33](https://news.ycombinator.com/item?id=36167727) - [Lago – Open-Source Alternative to Stripe Billing – Hires for Developer Relations](https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer)
