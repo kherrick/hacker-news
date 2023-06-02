@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail Watch brute force attacks in real time](https://brute.fail/)
 * [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 * [2023-06-02, 19:16:28](https://news.ycombinator.com/item?id=36169520) - [Proven (Dot Lol)](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
 * [2023-06-02, 18:57:02](https://news.ycombinator.com/item?id=36169250) - [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
