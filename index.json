@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-02, 12:57:58",
+      "https://news.ycombinator.com/item?id=36164463"
+    ],
+    [
+      "Air Force AI drone kills its human operator in a simulation",
+      "https://taskandpurpose.com/news/air-force-artificial-intelligence-drone/"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 12:57:45",
+      "https://news.ycombinator.com/item?id=36164462"
+    ],
+    [
+      "Amazon Is in Talks to Offer Free Mobile Service to US Prime Members",
+      "https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 12:45:39",
+      "https://news.ycombinator.com/item?id=36164340"
+    ],
+    [
+      "Scan iPhone backups for traces of compromise by “Operation Triangulation”",
+      "https://github.com/KasperskyLab/triangle_check"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 12:00:11",
       "https://news.ycombinator.com/item?id=36163970"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2023-06-02, 03:30:37",
-      "https://news.ycombinator.com/item?id=36160591"
-    ],
-    [
-      "Undetectable Watermarks for Language Models",
-      "https://eprint.iacr.org/2023/763"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 02:40:12",
       "https://news.ycombinator.com/item?id=36160198"
     ],
@@ -157,16 +177,6 @@
     [
       "It’s not wrong that \"🤦🏼‍♂️\".length == 7 (2019)",
       "https://hsivonen.fi/string-length/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 21:15:15",
-      "https://news.ycombinator.com/item?id=36157438"
-    ],
-    [
-      "Notes on training BERT from scratch on an 8GB consumer GPU",
-      "https://sidsite.com/posts/bert-from-scratch/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Automatic emergency braking should become mandatory, feds say",
       "https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 12:44:09",
-      "https://news.ycombinator.com/item?id=36150333"
-    ],
-    [
-      "Sensor Fingerprints: Camera Identification and Beyond",
-      "https://link.springer.com/chapter/10.1007/978-981-16-7621-5_4"
     ]
   ],
   [
