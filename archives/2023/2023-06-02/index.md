@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 15:13:35](https://news.ycombinator.com/item?id=36166250) - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
 * [2023-06-02, 14:56:02](https://news.ycombinator.com/item?id=36165975) - [When Markets Melt Down, These Traders Cash In](https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1)
 * [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
 * [2023-06-02, 14:30:50](https://news.ycombinator.com/item?id=36165590) - [ChatGPT took their jobs. Now they walk dogs and fix air conditioners](https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/)
@@ -17,7 +18,9 @@
 * [2023-06-02, 13:54:07](https://news.ycombinator.com/item?id=36165096) - [CEO: Raspberry Pi stock to hit 1M units monthly, starting in July](https://arstechnica.com/gadgets/2023/06/ceo-raspberry-pi-inventory-to-hit-1m-units-monthly-starting-in-july/)
 * [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
 * [2023-06-02, 13:31:06](https://news.ycombinator.com/item?id=36164803) - [The Newest College Admissions Ploy: Paying to Make Your Teen “Peer-Reviewed”](https://www.propublica.org/article/college-high-school-research-peer-review-publications)
+* [2023-06-02, 13:11:00](https://news.ycombinator.com/item?id=36164584) - [Sketch of a Post-ORM](https://borretti.me/article/sketch-post-orm)
 * [2023-06-02, 13:09:52](https://news.ycombinator.com/item?id=36164570) - [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent)
+* [2023-06-02, 13:08:58](https://news.ycombinator.com/item?id=36164564) - [VGA driver using PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/VGA/VGA.html)
 * [2023-06-02, 13:02:23](https://news.ycombinator.com/item?id=36164509) - [K0smotron: Running Kubernetes-in-Kubernetes](https://medium.com/k0sproject/introducing-k0smotron-c2ed6535ddc8)
 * [2023-06-02, 13:01:37](https://news.ycombinator.com/item?id=36164503) - [Show HN: Mercury – convert Jupyter Notebooks to Web Apps without code rewriting](https://RunMercury.com)
 * [2023-06-02, 12:57:58](https://news.ycombinator.com/item?id=36164463) - [Air Force AI drone kills its human operator in a simulation](https://taskandpurpose.com/news/air-force-artificial-intelligence-drone/)
