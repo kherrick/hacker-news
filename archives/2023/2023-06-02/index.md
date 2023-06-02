@@ -7,6 +7,7 @@
 * [2023-06-02, 18:57:02](https://news.ycombinator.com/item?id=36169250) - [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
 * [2023-06-02, 18:37:08](https://news.ycombinator.com/item?id=36169019) - [Ron Gilbert: Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
 * [2023-06-02, 18:01:30](https://news.ycombinator.com/item?id=36168591) - [Lessons from Washington State’s New Capital Gains Tax](https://www.theurbanist.org/2023/06/01/lessons-from-washington-states-new-capital-gains-tax/)
+* [2023-06-02, 17:55:35](https://news.ycombinator.com/item?id=36168515) - [What interns wrought at Jane Street (2018)](https://blog.janestreet.com/what-the-interns-have-wrought-2018/)
 * [2023-06-02, 17:52:51](https://news.ycombinator.com/item?id=36168468) - [Effect of repeated low-level red light on myopia prevention](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804215)
 * [2023-06-02, 17:33:31](https://news.ycombinator.com/item?id=36168203) - [Eventually everything will evaporate, not only black holes](https://www.ru.nl/en/research/research-news/eventually-everything-will-evaporate-not-only-black-holes)
 * [2023-06-02, 17:23:18](https://news.ycombinator.com/item?id=36168068) - [He made linear algebra fun (Gilbert Strang)](https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531)
