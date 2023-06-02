@@ -18,7 +18,6 @@
 * [2023-06-02, 15:41:43](https://news.ycombinator.com/item?id=36166649) - [System76's coreboot open firmware manages to disable Intel ME for Raptor Lake](https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023)
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
-* [2023-06-02, 12:54:43](https://news.ycombinator.com/item?id=36164439) - [Show HN: Automating daily reports, because fuck it](https://gist.github.com/yzdbg/bee9031fcaa918abf6442c2691866dda)
 * [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su saved AMD – Now she wants Nvidia's AI crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
 * [2023-06-02, 08:38:46](https://news.ycombinator.com/item?id=36162704) - [Phase Locked State Machines](https://onevariable.com/blog/phase-locked-state-machines/)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
@@ -29,6 +28,7 @@
 * [2023-06-01, 14:07:54](https://news.ycombinator.com/item?id=36151220) - [Operation Triangulation: iOS devices targeted with previously unknown malware](https://securelist.com/operation-triangulation/109842/)
 * [2023-06-01, 12:13:53](https://news.ycombinator.com/item?id=36150062) - [New open-source datasets for music-based development](https://metabrainz.org/datasets)
 * [2023-06-01, 11:16:14](https://news.ycombinator.com/item?id=36149670) - [The World Wide Web (1994)](https://www.linuxjournal.com/article/2769)
+* [2023-06-01, 02:37:00](https://news.ycombinator.com/item?id=36146988) - [Stanford launches Archive of the Military Tribunal at Nuremberg, 1945-46](https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military)
 * [2023-05-31, 18:13:16](https://news.ycombinator.com/item?id=36141671) - [Taking a new look at fundamental tech for quiet undersea propulsion](https://www.darpa.mil/news-events/-2023-05-18)
 
 ## [Archives](archives/index.md)
