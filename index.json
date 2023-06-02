@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-02, 20:14:06",
-      "https://news.ycombinator.com/item?id=36170143"
-    ],
-    [
-      "Reddit effectively kills off third party apps",
-      "https://old.reddit.com/r/RedReader/comments/13ylk42/update_3_reddit_effectively_kills_off_third_party/"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 20:09:31",
       "https://news.ycombinator.com/item?id=36170105"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2023-06-02, 19:57:07",
-      "https://news.ycombinator.com/item?id=36169992"
+      "2023-06-02, 19:57:51",
+      "https://news.ycombinator.com/item?id=36169999"
     ],
     [
-      "Oracle Cloud is having a major outage",
-      "https://news.ycombinator.com/item?id=36169992"
+      "Moratorium on freaking out about AI",
+      "https://kyledrake.com/writings/ai"
     ]
   ],
   [
@@ -61,6 +51,26 @@
   ],
   [
     [
+      "2023-06-02, 19:16:04",
+      "https://news.ycombinator.com/item?id=36169513"
+    ],
+    [
+      "A new attack can unmask anonymous users on any major browser (2022)",
+      "https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 19:13:17",
+      "https://news.ycombinator.com/item?id=36169486"
+    ],
+    [
+      "In vitro biological system of cultured brain cells has learned to play Pong",
+      "https://www.nature.com/articles/s42256-023-00666-w"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 18:37:08",
       "https://news.ycombinator.com/item?id=36169019"
     ],
@@ -77,16 +87,6 @@
     [
       "SiFive Gives Its WorldGuard Security Model to the RISC-V Community",
       "https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 17:55:35",
-      "https://news.ycombinator.com/item?id=36168515"
-    ],
-    [
-      "What interns wrought at Jane Street (2018)",
-      "https://blog.janestreet.com/what-the-interns-have-wrought-2018/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36167694"
     ],
     [
-      "Kenneth Anger Has Died",
+      "Kenneth Anger has died",
       "https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96"
     ]
   ],
@@ -167,16 +167,6 @@
     [
       "System76's coreboot open firmware manages to disable Intel ME for Raptor Lake",
       "https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 15:32:26",
-      "https://news.ycombinator.com/item?id=36166511"
-    ],
-    [
-      "Skybox AI: Use AI to generate 3D worlds",
-      "https://skybox.blockadelabs.com/"
     ]
   ],
   [
@@ -231,16 +221,6 @@
   ],
   [
     [
-      "2023-06-02, 10:56:16",
-      "https://news.ycombinator.com/item?id=36163542"
-    ],
-    [
-      "Neverflow: C macros that guard against buffer overflows",
-      "https://github.com/skullchap/neverflow"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 08:38:46",
       "https://news.ycombinator.com/item?id=36162704"
     ],
@@ -277,6 +257,26 @@
     [
       "California spent $17B on homelessness – it’s not working",
       "https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 05:30:13",
+      "https://news.ycombinator.com/item?id=36161385"
+    ],
+    [
+      "Refurb Weekend: Commodore 128DCR",
+      "http://oldvcr.blogspot.com/2023/05/refurb-weekend-commodore-128dcr.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 14:07:54",
+      "https://news.ycombinator.com/item?id=36151220"
+    ],
+    [
+      "Operation Triangulation: iOS devices targeted with previously unknown malware",
+      "https://securelist.com/operation-triangulation/109842/"
     ]
   ],
   [
