@@ -2,6 +2,7 @@
 
 * [2023-06-02, 14:25:31](https://news.ycombinator.com/item?id=36165505) - [A parallel economy is emerging](https://www.economist.com/united-states/2023/06/01/conservative-americans-are-building-a-parallel-economy)
 * [2023-06-02, 14:10:18](https://news.ycombinator.com/item?id=36165322) - [California vs. social – requires ad revenues to go to journalists](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
+* [2023-06-02, 14:09:53](https://news.ycombinator.com/item?id=36165313) - [Arizona limits building as groundwater dries up](https://www.france24.com/en/live-news/20230602-arizona-limits-building-as-groundwater-dries-up)
 * [2023-06-02, 13:57:49](https://news.ycombinator.com/item?id=36165152) - [Facebook to block news for some users in Canada](https://www.ft.com/content/65ae7aef-7dce-4e61-bf6d-f498bd298527)
 * [2023-06-02, 13:54:30](https://news.ycombinator.com/item?id=36165103) - [We’ve just seen solid state active cooling working on a Mini PC](https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/)
 * [2023-06-02, 13:54:07](https://news.ycombinator.com/item?id=36165096) - [CEO: Raspberry Pi stock to hit 1M units monthly, starting in July](https://arstechnica.com/gadgets/2023/06/ceo-raspberry-pi-inventory-to-hit-1m-units-monthly-starting-in-july/)
@@ -25,7 +26,6 @@
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
 * [2023-06-01, 17:08:49](https://news.ycombinator.com/item?id=36154157) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
-* [2023-06-01, 16:31:35](https://news.ycombinator.com/item?id=36153566) - [The Birth and Death of the Orange Book (2015) [pdf]](https://www.stevelipner.org/links/resources/The%20Birth%20and%20Death%20of%20the%20Orange%20Book.pdf)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:33](https://news.ycombinator.com/item?id=36152787) - [Show HN: Verify LLM Generated Code with a Spreadsheet](https://news.ycombinator.com/item?id=36152787)
 * [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
