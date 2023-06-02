@@ -7,6 +7,7 @@
 * [2023-06-01, 23:10:16](https://news.ycombinator.com/item?id=36158702) - [Chief executives cannot shut up about AI](https://www.economist.com/business/2023/06/01/chief-executives-cannot-shut-up-about-ai)
 * [2023-06-01, 22:30:29](https://news.ycombinator.com/item?id=36158311) - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 * [2023-06-01, 21:22:47](https://news.ycombinator.com/item?id=36157529) - [Seven out of the nine thresholds enabling human life on Earth have been exceeded](https://www.nature.com/articles/s41586-023-06083-8)
+* [2023-06-01, 21:15:15](https://news.ycombinator.com/item?id=36157438) - [Notes on training BERT from scratch on an 8GB consumer GPU](https://sidsite.com/posts/bert-from-scratch/)
 * [2023-06-01, 21:03:27](https://news.ycombinator.com/item?id=36157287) - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
 * [2023-06-01, 20:39:53](https://news.ycombinator.com/item?id=36157024) - [Samuel Morland, Magister Mechanicorum (2017)](https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/)
 * [2023-06-01, 20:23:23](https://news.ycombinator.com/item?id=36156844) - [How the U.S. Almost Became a Nation of Hippo Ranchers](https://www.smithsonianmag.com/history/how-the-us-almost-became-a-nation-of-hippo-ranchers-180982244/)
