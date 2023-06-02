@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 14:10:18](https://news.ycombinator.com/item?id=36165322) - [California vs. social – requires ad revenues to go to journalists](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
+* [2023-06-02, 13:54:30](https://news.ycombinator.com/item?id=36165103) - [We’ve just seen solid state active cooling working on a Mini PC](https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/)
 * [2023-06-02, 13:54:07](https://news.ycombinator.com/item?id=36165096) - [CEO: Raspberry Pi stock to hit 1M units monthly, starting in July](https://arstechnica.com/gadgets/2023/06/ceo-raspberry-pi-inventory-to-hit-1m-units-monthly-starting-in-july/)
+* [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
 * [2023-06-02, 13:31:06](https://news.ycombinator.com/item?id=36164803) - [The Newest College Admissions Ploy: Paying to Make Your Teen “Peer-Reviewed”](https://www.propublica.org/article/college-high-school-research-peer-review-publications)
 * [2023-06-02, 13:09:52](https://news.ycombinator.com/item?id=36164570) - [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent)
 * [2023-06-02, 13:02:23](https://news.ycombinator.com/item?id=36164509) - [K0smotron: Running Kubernetes-in-Kubernetes](https://medium.com/k0sproject/introducing-k0smotron-c2ed6535ddc8)
