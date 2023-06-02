@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 17:14:23](https://news.ycombinator.com/item?id=36167948) - [Render neural network into CUDA/HIP code](https://github.com/facebookincubator/AITemplate)
 * [2023-06-02, 17:06:08](https://news.ycombinator.com/item?id=36167820) - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 * [2023-06-02, 17:00:33](https://news.ycombinator.com/item?id=36167727) - [Lago – Open-Source Alternative to Stripe Billing – Hires for Developer Relations](https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer)
 * [2023-06-02, 16:58:37](https://news.ycombinator.com/item?id=36167694) - [Kenneth Anger Has Died](https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96)
