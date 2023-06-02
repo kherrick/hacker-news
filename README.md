@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-02, 13:09:52](https://news.ycombinator.com/item?id=36164570) - [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent)
+* [2023-06-02, 13:02:23](https://news.ycombinator.com/item?id=36164509) - [K0smotron: Running Kubernetes-in-Kubernetes](https://medium.com/k0sproject/introducing-k0smotron-c2ed6535ddc8)
 * [2023-06-02, 12:57:45](https://news.ycombinator.com/item?id=36164462) - [Amazon Is in Talks to Offer Free Mobile Service to US Prime Members](https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime)
 * [2023-06-02, 12:45:39](https://news.ycombinator.com/item?id=36164340) - [Scan iPhone backups for traces of compromise by “Operation Triangulation”](https://github.com/KasperskyLab/triangle_check)
 * [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
@@ -20,7 +21,6 @@
 * [2023-06-02, 01:45:57](https://news.ycombinator.com/item?id=36159864) - [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
 * [2023-06-02, 00:51:09](https://news.ycombinator.com/item?id=36159443) - [It’s not wrong that \"🤦🏼‍♂️\".length == 7 (2019)](https://hsivonen.fi/string-length/)
 * [2023-06-01, 21:03:27](https://news.ycombinator.com/item?id=36157287) - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
-* [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
 * [2023-06-01, 17:08:49](https://news.ycombinator.com/item?id=36154157) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
