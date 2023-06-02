@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 13:31:06](https://news.ycombinator.com/item?id=36164803) - [The Newest College Admissions Ploy: Paying to Make Your Teen “Peer-Reviewed”](https://www.propublica.org/article/college-high-school-research-peer-review-publications)
 * [2023-06-02, 13:09:52](https://news.ycombinator.com/item?id=36164570) - [Council of Trent](https://en.wikipedia.org/wiki/Council_of_Trent)
 * [2023-06-02, 13:02:23](https://news.ycombinator.com/item?id=36164509) - [K0smotron: Running Kubernetes-in-Kubernetes](https://medium.com/k0sproject/introducing-k0smotron-c2ed6535ddc8)
+* [2023-06-02, 13:01:37](https://news.ycombinator.com/item?id=36164503) - [Show HN: Mercury – convert Jupyter Notebooks to Web Apps without code rewriting](https://RunMercury.com)
 * [2023-06-02, 12:57:58](https://news.ycombinator.com/item?id=36164463) - [Air Force AI drone kills its human operator in a simulation](https://taskandpurpose.com/news/air-force-artificial-intelligence-drone/)
 * [2023-06-02, 12:57:45](https://news.ycombinator.com/item?id=36164462) - [Amazon Is in Talks to Offer Free Mobile Service to US Prime Members](https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime)
 * [2023-06-02, 12:45:39](https://news.ycombinator.com/item?id=36164340) - [Scan iPhone backups for traces of compromise by “Operation Triangulation”](https://github.com/KasperskyLab/triangle_check)
