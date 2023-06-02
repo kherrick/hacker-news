@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-06-02, 10:56:16",
+      "https://news.ycombinator.com/item?id=36163542"
+    ],
+    [
+      "Neverflow: C macros that guard against buffer overflows",
+      "https://github.com/skullchap/neverflow"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 08:38:46",
       "https://news.ycombinator.com/item?id=36162704"
     ],
@@ -287,16 +297,6 @@
     [
       "New open-source datasets for music-based development",
       "https://metabrainz.org/datasets"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 11:16:14",
-      "https://news.ycombinator.com/item?id=36149670"
-    ],
-    [
-      "The World Wide Web (1994)",
-      "https://www.linuxjournal.com/article/2769"
     ]
   ]
 ]
