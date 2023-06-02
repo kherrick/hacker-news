@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 08:57:14](https://news.ycombinator.com/item?id=36162831) - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
 * [2023-06-02, 07:41:44](https://news.ycombinator.com/item?id=36162269) - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
@@ -22,7 +23,6 @@
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:33](https://news.ycombinator.com/item?id=36152787) - [Show HN: Verify LLM Generated Code with a Spreadsheet](https://news.ycombinator.com/item?id=36152787)
-* [2023-06-01, 15:01:48](https://news.ycombinator.com/item?id=36152014) - [Ask HN: Who is hiring? (June 2023)](https://news.ycombinator.com/item?id=36152014)
 * [2023-06-01, 13:36:57](https://news.ycombinator.com/item?id=36150845) - [Automatic emergency braking should become mandatory, feds say](https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/)
 * [2023-06-01, 12:44:09](https://news.ycombinator.com/item?id=36150333) - [Sensor Fingerprints: Camera Identification and Beyond](https://link.springer.com/chapter/10.1007/978-981-16-7621-5_4)
 * [2023-06-01, 12:18:20](https://news.ycombinator.com/item?id=36150105) - [The work is never just “the work” (2022)](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)

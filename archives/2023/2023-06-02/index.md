@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 09:32:20](https://news.ycombinator.com/item?id=36163033) - [US military AI drone simulation kills operator, then takes out control tower](https://www.foxnews.com/tech/us-military-ai-drone-simulation-kills-operator-told-bad-takes-out-control-tower)
 * [2023-06-02, 08:57:14](https://news.ycombinator.com/item?id=36162831) - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
 * [2023-06-02, 07:41:44](https://news.ycombinator.com/item?id=36162269) - [PostgreSQL and SQL:2023](http://peter.eisentraut.org/blog/2023/04/18/postgresql-and-sql-2023)
