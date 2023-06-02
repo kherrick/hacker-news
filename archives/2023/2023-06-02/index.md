@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 14:56:02](https://news.ycombinator.com/item?id=36165975) - [When Markets Melt Down, These Traders Cash In](https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1)
+* [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
+* [2023-06-02, 14:30:50](https://news.ycombinator.com/item?id=36165590) - [ChatGPT took their jobs. Now they walk dogs and fix air conditioners](https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/)
+* [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [An open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 14:25:31](https://news.ycombinator.com/item?id=36165505) - [A parallel economy is emerging](https://www.economist.com/united-states/2023/06/01/conservative-americans-are-building-a-parallel-economy)
 * [2023-06-02, 14:10:18](https://news.ycombinator.com/item?id=36165322) - [California vs. social – requires ad revenues to go to journalists](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
 * [2023-06-02, 14:09:53](https://news.ycombinator.com/item?id=36165313) - [Arizona limits building as groundwater dries up](https://www.france24.com/en/live-news/20230602-arizona-limits-building-as-groundwater-dries-up)
