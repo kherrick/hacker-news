@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 04:05:47](https://news.ycombinator.com/item?id=36160902) - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 * [2023-06-02, 03:30:37](https://news.ycombinator.com/item?id=36160591) - [You can watermark GPT&#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
 * [2023-06-02, 02:54:46](https://news.ycombinator.com/item?id=36160301) - [Show HN: Pot is a cross-platform translation software](https://github.com/pot-app/pot-desktop)
 * [2023-06-02, 02:53:55](https://news.ycombinator.com/item?id=36160294) - [Profit-Price Spiral: Excess Profits Fuelling Inflation, Not Wages](https://futurework.org.au/post/profit-price-spiral-excess-profits-fuelling-inflation-interest-rates-not-wages/)
