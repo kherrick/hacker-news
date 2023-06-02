@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 07:01:06](https://news.ycombinator.com/item?id=36161982) - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
+* [2023-06-02, 05:31:43](https://news.ycombinator.com/item?id=36161392) - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
 * [2023-06-02, 04:50:42](https://news.ycombinator.com/item?id=36161175) - [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
-* [2023-06-02, 04:29:56](https://news.ycombinator.com/item?id=36161080) - [What is the nature of consciousness?](https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/)
 * [2023-06-02, 04:05:47](https://news.ycombinator.com/item?id=36160902) - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 * [2023-06-02, 03:30:37](https://news.ycombinator.com/item?id=36160591) - [Undetectable Watermarks for Language Models](https://eprint.iacr.org/2023/763)
 * [2023-06-02, 02:54:46](https://news.ycombinator.com/item?id=36160301) - [Show HN: Pot is a cross-platform translation software](https://github.com/pot-app/pot-desktop)
@@ -14,7 +15,6 @@
 * [2023-06-01, 18:23:33](https://news.ycombinator.com/item?id=36155204) - [Was modern art a CIA psy-op? (2020)](https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/)
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
 * [2023-06-01, 17:44:44](https://news.ycombinator.com/item?id=36154692) - [Brave Browser introduces vertical tabs](https://brave.com/vertical-tabs/)
-* [2023-06-01, 17:36:01](https://news.ycombinator.com/item?id=36154562) - [Viable offspring derived from single unfertilized mammalian oocytes](https://www.pnas.org/doi/full/10.1073/pnas.2115248119)
 * [2023-06-01, 17:33:19](https://news.ycombinator.com/item?id=36154531) - [What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
 * [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL:2023 has been released](https://www.iso.org/standard/76584.html)
 * [2023-06-01, 16:55:59](https://news.ycombinator.com/item?id=36153970) - [Own-goal football (2022)](https://generalist.academy/2022/06/07/own-goal-football/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 07:01:06](https://news.ycombinator.com/item?id=36161982) - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
+* [2023-06-02, 05:31:43](https://news.ycombinator.com/item?id=36161392) - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
 * [2023-06-02, 05:07:12](https://news.ycombinator.com/item?id=36161257) - [Falcon 40B (potentially the most capable open-source LLM) is now open-source](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
 * [2023-06-02, 05:04:29](https://news.ycombinator.com/item?id=36161239) - [Allstate joins State Farm, stops issuing new homeowners insurance policies in CA](https://www.sfchronicle.com/california/article/insurance-allstate-fires-18130622.php)
 * [2023-06-02, 04:50:42](https://news.ycombinator.com/item?id=36161175) - [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
