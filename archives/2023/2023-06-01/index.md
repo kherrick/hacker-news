@@ -22,6 +22,7 @@
 * [2023-06-01, 18:09:07](https://news.ycombinator.com/item?id=36155028) - [Microsoft inks deal with Nvidia-backed CoreWeave to meet A.I. computing demand](https://www.cnbc.com/2023/06/01/microsoft-inks-deal-with-coreweave-to-meet-openai-cloud-demand.html)
 * [2023-06-01, 18:06:14](https://news.ycombinator.com/item?id=36154984) - [Do any startups still use WordPress after 20 years?](https://autopitch.ai/posts/blog/do-any-startups-use-wordpress-after-20-years)
 * [2023-06-01, 18:04:54](https://news.ycombinator.com/item?id=36154962) - [How the tongue shaped life on Earth](https://www.science.org/content/article/how-tongue-shaped-life-on-earth)
+* [2023-06-01, 17:48:23](https://news.ycombinator.com/item?id=36154739) - [On Understanding Data Abstraction, Revisited (2009) [pdf]](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
 * [2023-06-01, 17:44:44](https://news.ycombinator.com/item?id=36154692) - [Brave Browser introduces vertical tabs](https://brave.com/vertical-tabs/)
 * [2023-06-01, 17:41:24](https://news.ycombinator.com/item?id=36154642) - [No Man&#x27;s Sky Now on Mac](https://www.nomanssky.com/2023/06/no-mans-sky-on-mac/)
