@@ -64,6 +64,7 @@
 * [2023-06-01, 14:02:31](https://news.ycombinator.com/item?id=36151140) - [So, I went down the rabbit hole of buying GitHub Stars, so you won&#x27;t have to](https://the-guild.dev/blog/judging-open-source-by-github-stars)
 * [2023-06-01, 14:01:53](https://news.ycombinator.com/item?id=36151132) - [People living near former atomic weapon plant in WA have increased cancer rates](https://pubmed.ncbi.nlm.nih.gov/14738272/)
 * [2023-06-01, 13:55:01](https://news.ycombinator.com/item?id=36151056) - [Show HN: TodoBot is an AI coach that helps you write a better todo list](https://todobot.ai/)
+* [2023-06-01, 13:43:17](https://news.ycombinator.com/item?id=36150916) - [The Prehistory of Glass Windows](https://www.laphamsquarterly.org/roundtable/prehistory-glass-windows)
 * [2023-06-01, 13:38:55](https://news.ycombinator.com/item?id=36150867) - [US banks lost $472B in deposits in the Q1 2023](https://www.fdic.gov/analysis/quarterly-banking-profile/qbp/2023mar/qbp.pdf#page=1)
 * [2023-06-01, 13:36:57](https://news.ycombinator.com/item?id=36150845) - [Automatic emergency braking should become mandatory, feds say](https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/)
 * [2023-06-01, 13:26:49](https://news.ycombinator.com/item?id=36150735) - [On the Catastrophic Risk of AI](https://www.schneier.com/blog/archives/2023/06/on-the-catastrophic-risk-of-ai.html)
