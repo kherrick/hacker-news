@@ -1,31 +1,11 @@
 [
   [
     [
-      "2023-06-02, 05:07:12",
-      "https://news.ycombinator.com/item?id=36161257"
-    ],
-    [
-      "Falcon 40B (potentially the most capable open-source LLM) is now open-source",
-      "https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 05:04:29",
-      "https://news.ycombinator.com/item?id=36161239"
-    ],
-    [
-      "Allstate joins State Farm, stops issuing new homeowners insurance policies in CA",
-      "https://www.sfchronicle.com/california/article/insurance-allstate-fires-18130622.php"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 04:29:56",
       "https://news.ycombinator.com/item?id=36161080"
     ],
     [
-      "What Is the Nature of Consciousness?",
+      "What is the nature of consciousness?",
       "https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/"
     ]
   ],
@@ -45,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36160591"
     ],
     [
-      "You can watermark GPT&#x27;s outputs discreetly",
+      "Undetectable Watermarks for Language Models",
       "https://eprint.iacr.org/2023/763"
     ]
   ],
@@ -61,42 +41,12 @@
   ],
   [
     [
-      "2023-06-02, 02:53:55",
-      "https://news.ycombinator.com/item?id=36160294"
-    ],
-    [
-      "Profit-Price Spiral: Excess Profits Fuelling Inflation, Not Wages",
-      "https://futurework.org.au/post/profit-price-spiral-excess-profits-fuelling-inflation-interest-rates-not-wages/"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 02:40:12",
       "https://news.ycombinator.com/item?id=36160198"
     ],
     [
-      "Ask HN: Who got hired from &quot;Who Wants to Be Hired&quot;?",
+      "Ask HN: Who got hired from HN?",
       "https://news.ycombinator.com/item?id=36160198"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 02:15:11",
-      "https://news.ycombinator.com/item?id=36160034"
-    ],
-    [
-      "Rust to Assembly: Understanding the Inner Workings of Rust",
-      "https://eventhelix.com/rust/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 02:09:55",
-      "https://news.ycombinator.com/item?id=36160005"
-    ],
-    [
-      "Presence of nicotine and antidepressants detected in Antarctic waters",
-      "https://www.bionity.com/en/news/1180593/presence-of-nicotine-and-antidepressants-detected-in-antarctic-waters.html"
     ]
   ],
   [
@@ -171,6 +121,16 @@
   ],
   [
     [
+      "2023-06-01, 17:36:01",
+      "https://news.ycombinator.com/item?id=36154562"
+    ],
+    [
+      "Viable offspring derived from single unfertilized mammalian oocytes",
+      "https://www.pnas.org/doi/full/10.1073/pnas.2115248119"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 17:33:19",
       "https://news.ycombinator.com/item?id=36154531"
     ],
@@ -207,6 +167,16 @@
     [
       "Own-goal football (2022)",
       "https://generalist.academy/2022/06/07/own-goal-football/"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:29:17",
+      "https://news.ycombinator.com/item?id=36153527"
+    ],
+    [
+      "The Rise and Fall of Evidence Based Medicine (1998) [pdf]",
+      "https://www.researchgate.net/publication/13574786_The_rise_and_fall_of_EBM"
     ]
   ],
   [
@@ -251,12 +221,32 @@
   ],
   [
     [
+      "2023-06-01, 13:36:57",
+      "https://news.ycombinator.com/item?id=36150845"
+    ],
+    [
+      "Automatic emergency braking should become mandatory, feds say",
+      "https://arstechnica.com/cars/2023/05/automatic-emergency-braking-should-become-mandatory-feds-say/"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 12:44:09",
       "https://news.ycombinator.com/item?id=36150333"
     ],
     [
       "Sensor Fingerprints: Camera Identification and Beyond",
       "https://link.springer.com/chapter/10.1007/978-981-16-7621-5_4"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 12:18:20",
+      "https://news.ycombinator.com/item?id=36150105"
+    ],
+    [
+      "The work is never just “the work” (2022)",
+      "https://davestewart.co.uk/blog/the-work-is-never-just-the-work/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Mouth gestures and their meanings around the world (2005)",
       "https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/"
+    ]
+  ],
+  [
+    [
+      "2023-05-31, 22:21:15",
+      "https://news.ycombinator.com/item?id=36145185"
+    ],
+    [
+      "Falcon 40B LLM (which beats Llama) now Apache 2.0",
+      "https://twitter.com/Thom_Wolf/status/1663986216771936263"
     ]
   ],
   [
