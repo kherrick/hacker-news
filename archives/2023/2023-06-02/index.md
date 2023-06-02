@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 17:06:08](https://news.ycombinator.com/item?id=36167820) - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
+* [2023-06-02, 17:00:33](https://news.ycombinator.com/item?id=36167727) - [Lago – Open-Source Alternative to Stripe Billing – Hires for Developer Relations](https://www.ycombinator.com/companies/lago/jobs/PxLXQzY-developer-relations-engineer)
+* [2023-06-02, 16:58:37](https://news.ycombinator.com/item?id=36167694) - [Kenneth Anger Has Died](https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96)
+* [2023-06-02, 16:51:43](https://news.ycombinator.com/item?id=36167586) - [StackOverflow petition to allow remove AI generated content](https://openletter.mousetail.nl/)
 * [2023-06-02, 16:16:26](https://news.ycombinator.com/item?id=36167068) - [Netflix Shareholders Vote to Reject Executive Pay Packages](https://www.nytimes.com/2023/06/01/business/media/netflix-executive-compensation-vote.html)
 * [2023-06-02, 15:45:41](https://news.ycombinator.com/item?id=36166715) - [Woman with untreated TB finally in custody – held in “negative pressure” room](https://arstechnica.com/health/2023/06/woman-with-untreated-tb-finally-in-custody-held-in-negative-pressure-room/)
 * [2023-06-02, 15:44:07](https://news.ycombinator.com/item?id=36166685) - [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
