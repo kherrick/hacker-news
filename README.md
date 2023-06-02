@@ -24,12 +24,12 @@
 * [2023-06-02, 07:37:45](https://news.ycombinator.com/item?id=36162235) - [Third-party Reddit apps are being crushed by price increases](https://kotaku.com/reddit-third-party-3rd-apps-pricing-crush-ios-android-1850493992)
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 05:32:39](https://news.ycombinator.com/item?id=36161397) - [My Approach to Building Large Technical Projects – Mitchell Hashimoto](https://mitchellh.com/writing/building-large-technical-projects)
-* [2023-06-02, 05:31:43](https://news.ycombinator.com/item?id=36161392) - [Targeted attack on our management with the Triangulation Trojan](https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/)
-* [2023-06-02, 01:45:57](https://news.ycombinator.com/item?id=36159864) - [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
+* [2023-06-01, 17:08:49](https://news.ycombinator.com/item?id=36154157) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
 * [2023-06-01, 12:13:53](https://news.ycombinator.com/item?id=36150062) - [New open-source datasets for music-based development](https://metabrainz.org/datasets)
 * [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
+* [2023-06-01, 07:45:45](https://news.ycombinator.com/item?id=36148515) - [Rock Out with Your Console Out](https://www.linuxjournal.com/content/rock-out-your-console-out)
 
 ## [Archives](archives/index.md)
 

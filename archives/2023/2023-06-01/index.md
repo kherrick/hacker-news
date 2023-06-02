@@ -102,6 +102,7 @@
 * [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 * [2023-06-01, 08:00:09](https://news.ycombinator.com/item?id=36148588) - [June (YC W21) is hiring product engineer #3](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
+* [2023-06-01, 07:45:45](https://news.ycombinator.com/item?id=36148515) - [Rock Out with Your Console Out](https://www.linuxjournal.com/content/rock-out-your-console-out)
 * [2023-06-01, 07:42:35](https://news.ycombinator.com/item?id=36148495) - [Introduction to Open Source Laptop Project by Lukas Henkel](https://resources.altium.com/p/open-source-laptop-part-one)
 * [2023-06-01, 07:37:44](https://news.ycombinator.com/item?id=36148475) - [Distcc: A fast, free distributed C&#x2F;C++ compiler](https://www.distcc.org/)
 * [2023-06-01, 06:56:38](https://news.ycombinator.com/item?id=36148282) - [Solar will soon eclipse other forms of energy generation](https://www.positive.news/environment/solar-will-soon-eclipse-all-forms-of-energy/)
