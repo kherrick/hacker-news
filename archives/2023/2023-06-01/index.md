@@ -91,6 +91,7 @@
 * [2023-06-01, 11:18:44](https://news.ycombinator.com/item?id=36149690) - [Maryland License Plates Now Inadvertently Advertising Filipino Online Casino](https://www.vice.com/en/article/4a3xe9/maryland-license-plates-now-inadvertently-advertising-filipino-online-casino)
 * [2023-06-01, 11:14:44](https://news.ycombinator.com/item?id=36149656) - [Ethernet at 50: Why It&#x27;s Still the Backbone of Networking](https://www.electropages.com/blog/2023/05/ethernet-turns-50-connector-ages)
 * [2023-06-01, 11:08:40](https://news.ycombinator.com/item?id=36149620) - [Show HN: Word2vec Algorithm in ~100sloc with NumPy](https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py)
+* [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
 * [2023-06-01, 10:44:44](https://news.ycombinator.com/item?id=36149462) - [I think Zig is hard but worth it](http://ratfactor.com/zig/hard)
 * [2023-06-01, 10:31:36](https://news.ycombinator.com/item?id=36149384) - [Gorongosa National Park’s Astonishing Comeback](https://worldsensorium.com/dr-marc-stalmans-on-gorongosa-national-parks-astonishing-comeback/)
 * [2023-06-01, 10:30:48](https://news.ycombinator.com/item?id=36149375) - [EPYC 7002 CPUs may hang after 1042 days of uptime](https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/)
