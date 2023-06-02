@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 05:04:29](https://news.ycombinator.com/item?id=36161239) - [Allstate joins State Farm, stops issuing new homeowners insurance policies in CA](https://www.sfchronicle.com/california/article/insurance-allstate-fires-18130622.php)
 * [2023-06-02, 04:05:47](https://news.ycombinator.com/item?id=36160902) - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 * [2023-06-02, 03:30:37](https://news.ycombinator.com/item?id=36160591) - [You can watermark GPT&#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
 * [2023-06-02, 02:54:46](https://news.ycombinator.com/item?id=36160301) - [Show HN: Pot is a cross-platform translation software](https://github.com/pot-app/pot-desktop)
@@ -26,7 +27,6 @@
 * [2023-06-01, 12:44:09](https://news.ycombinator.com/item?id=36150333) - [Sensor Fingerprints: Camera Identification and Beyond](https://link.springer.com/chapter/10.1007/978-981-16-7621-5_4)
 * [2023-06-01, 12:18:20](https://news.ycombinator.com/item?id=36150105) - [The work is never just “the work” (2022)](https://davestewart.co.uk/blog/the-work-is-never-just-the-work/)
 * [2023-06-01, 11:20:43](https://news.ycombinator.com/item?id=36149701) - [A medieval comedy act has been discovered in first-ever find, researcher says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
-* [2023-06-01, 10:31:36](https://news.ycombinator.com/item?id=36149384) - [Gorongosa National Park’s Astonishing Comeback](https://worldsensorium.com/dr-marc-stalmans-on-gorongosa-national-parks-astonishing-comeback/)
 * [2023-06-01, 10:19:04](https://news.ycombinator.com/item?id=36149313) - [You can&#x27;t optimize for rest (2021)](https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest)
 * [2023-05-31, 22:47:35](https://news.ycombinator.com/item?id=36145458) - [Mouth gestures and their meanings around the world (2005)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/)
 * [2023-05-31, 17:57:26](https://news.ycombinator.com/item?id=36141430) - [Judge rules Wyoming corner crossers did not trespass](https://www.hcn.org/articles/public-lands-judge-rules-wyoming-corner-crossers-did-not-trespass)
