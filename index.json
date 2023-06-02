@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-06-02, 14:30:50",
-      "https://news.ycombinator.com/item?id=36165590"
-    ],
-    [
-      "ChatGPT took their jobs. Now they walk dogs and fix air conditioners",
-      "https://www.washingtonpost.com/technology/2023/06/02/ai-taking-jobs/"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 14:25:53",
       "https://news.ycombinator.com/item?id=36165513"
     ],
@@ -277,6 +267,16 @@
     [
       "Cakelisp: A performance-oriented Lisp-like language",
       "https://macoy.me/code/macoy/cakelisp"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:11:07",
+      "https://news.ycombinator.com/item?id=36153237"
+    ],
+    [
+      "Learn x86-64 assembly by writing a GUI from scratch (2020)",
+      "https://gaultier.github.io/blog/x11_x64.html"
     ]
   ],
   [
