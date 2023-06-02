@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-02, 15:13:35",
+      "https://news.ycombinator.com/item?id=36166250"
+    ],
+    [
+      "North America is now the growth leader for new battery factories",
+      "https://electrek.co/2023/05/31/north-america-battery-factories/"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 14:56:02",
       "https://news.ycombinator.com/item?id=36165975"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36165322"
     ],
     [
-      "California vs. social – requires ad revenues to go to journalists",
+      "California Assembly votes to pass the Journalism Preservation Act",
       "https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html"
     ]
   ],
@@ -51,22 +61,32 @@
   ],
   [
     [
-      "2023-06-02, 13:57:49",
-      "https://news.ycombinator.com/item?id=36165152"
-    ],
-    [
-      "Facebook to block news for some users in Canada",
-      "https://www.ft.com/content/65ae7aef-7dce-4e61-bf6d-f498bd298527"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 13:54:30",
       "https://news.ycombinator.com/item?id=36165103"
     ],
     [
       "We’ve just seen solid state active cooling working on a Mini PC",
       "https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 13:11:00",
+      "https://news.ycombinator.com/item?id=36164584"
+    ],
+    [
+      "Sketch of a Post-ORM",
+      "https://borretti.me/article/sketch-post-orm"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 13:08:58",
+      "https://news.ycombinator.com/item?id=36164564"
+    ],
+    [
+      "VGA driver using PIO and DMA on the RP2040",
+      "https://vanhunteradams.com/Pico/VGA/VGA.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-06-02, 00:51:09",
-      "https://news.ycombinator.com/item?id=36159443"
-    ],
-    [
-      "It’s not wrong that \"🤦🏼‍♂️\".length == 7 (2019)",
-      "https://hsivonen.fi/string-length/"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 17:48:23",
       "https://news.ycombinator.com/item?id=36154739"
     ],
@@ -267,16 +277,6 @@
     [
       "Cakelisp: A performance-oriented Lisp-like language",
       "https://macoy.me/code/macoy/cakelisp"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 16:11:07",
-      "https://news.ycombinator.com/item?id=36153237"
-    ],
-    [
-      "Learn x86-64 assembly by writing a GUI from scratch (2020)",
-      "https://gaultier.github.io/blog/x11_x64.html"
     ]
   ],
   [
