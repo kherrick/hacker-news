@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 22:19:05](https://news.ycombinator.com/item?id=36171543) - [Infrastructure Should Be Boring](https://www.dragonflydb.io/blog/infrastructure-should-be-boring)
 * [2023-06-02, 21:00:46](https://news.ycombinator.com/item?id=36170689) - [OneSignal (YC S11) is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
 * [2023-06-02, 20:58:15](https://news.ycombinator.com/item?id=36170657) - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
@@ -19,7 +20,6 @@
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
 * [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su saved AMD – Now she wants Nvidia's AI crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
-* [2023-06-02, 08:38:46](https://news.ycombinator.com/item?id=36162704) - [Phase Locked State Machines](https://onevariable.com/blog/phase-locked-state-machines/)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California spent $17B on homelessness – it’s not working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
