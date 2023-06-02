@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 * [2023-06-02, 18:57:02](https://news.ycombinator.com/item?id=36169250) - [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
 * [2023-06-02, 18:37:08](https://news.ycombinator.com/item?id=36169019) - [Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
 * [2023-06-02, 18:19:46](https://news.ycombinator.com/item?id=36168836) - [SiFive Gives Its WorldGuard Security Model to the RISC-V Community](https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/)
@@ -27,7 +28,6 @@
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California spent $17B on homelessness – it’s not working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
-* [2023-06-01, 17:48:23](https://news.ycombinator.com/item?id=36154739) - [On understanding data abstraction, revisited (2009) [pdf]](https://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf)
 * [2023-06-01, 12:13:53](https://news.ycombinator.com/item?id=36150062) - [New open-source datasets for music-based development](https://metabrainz.org/datasets)
 * [2023-06-01, 05:04:31](https://news.ycombinator.com/item?id=36147744) - [A midcentury map of New York, packed with weird local lore (2019)](https://www.atlasobscura.com/articles/wonders-of-new-york-map)
 

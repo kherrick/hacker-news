@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 * [2023-06-02, 18:57:02](https://news.ycombinator.com/item?id=36169250) - [AI to Assist Mathematical Reasoning: A Workshop](https://terrytao.wordpress.com/2023/06/02/ai-to-assist-mathematical-reasoning-a-workshop/)
 * [2023-06-02, 18:37:08](https://news.ycombinator.com/item?id=36169019) - [Ron Gilbert: Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
 * [2023-06-02, 18:19:46](https://news.ycombinator.com/item?id=36168836) - [SiFive Gives Its WorldGuard Security Model to the RISC-V Community](https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/)
