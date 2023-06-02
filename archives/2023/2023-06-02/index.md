@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
+* [2023-06-02, 20:09:31](https://news.ycombinator.com/item?id=36170105) - [US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’](https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/)
+* [2023-06-02, 19:57:07](https://news.ycombinator.com/item?id=36169992) - [Oracle Cloud is having a major outage](https://news.ycombinator.com/item?id=36169992)
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail Watch brute force attacks in real time](https://brute.fail/)
 * [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 * [2023-06-02, 19:16:28](https://news.ycombinator.com/item?id=36169520) - [Proven (Dot Lol)](https://omglol.news/2023/04/14/introducing-proven-dot-lol)

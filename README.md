@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 20:09:31](https://news.ycombinator.com/item?id=36170105) - [US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’](https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/)
+* [2023-06-02, 19:57:07](https://news.ycombinator.com/item?id=36169992) - [Oracle Cloud is having a major outage](https://news.ycombinator.com/item?id=36169992)
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail Watch brute force attacks in real time](https://brute.fail/)
 * [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems Explained by Humberto Maturana](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 * [2023-06-02, 19:16:28](https://news.ycombinator.com/item?id=36169520) - [Proven (Dot Lol)](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
@@ -20,10 +22,8 @@
 * [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The explosive legacy of the hand sanitizer boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 13:42:52](https://news.ycombinator.com/item?id=36164938) - [Witch – macOS window switcher replacement](https://manytricks.com/witch/)
-* [2023-06-02, 13:01:37](https://news.ycombinator.com/item?id=36164503) - [Show HN: Mercury – Convert Jupyter notebooks to web apps](https://RunMercury.com)
 * [2023-06-02, 12:54:43](https://news.ycombinator.com/item?id=36164439) - [Show HN: Automating daily reports, because fuck it](https://gist.github.com/yzdbg/bee9031fcaa918abf6442c2691866dda)
 * [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su saved AMD – Now she wants Nvidia's AI crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
-* [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 08:38:46](https://news.ycombinator.com/item?id=36162704) - [Phase Locked State Machines](https://onevariable.com/blog/phase-locked-state-machines/)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine (2014)](https://github.com/mame/radiation-hardened-quine)
