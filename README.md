@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 04:50:42](https://news.ycombinator.com/item?id=36161175) - [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
 * [2023-06-02, 04:29:56](https://news.ycombinator.com/item?id=36161080) - [What is the nature of consciousness?](https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/)
 * [2023-06-02, 04:05:47](https://news.ycombinator.com/item?id=36160902) - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 * [2023-06-02, 03:30:37](https://news.ycombinator.com/item?id=36160591) - [Undetectable Watermarks for Language Models](https://eprint.iacr.org/2023/763)
@@ -7,7 +8,6 @@
 * [2023-06-02, 02:40:12](https://news.ycombinator.com/item?id=36160198) - [Ask HN: Who got hired from HN?](https://news.ycombinator.com/item?id=36160198)
 * [2023-06-02, 01:45:57](https://news.ycombinator.com/item?id=36159864) - [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
 * [2023-06-02, 00:51:09](https://news.ycombinator.com/item?id=36159443) - [It’s not wrong that \"🤦🏼‍♂️\".length == 7 (2019)](https://hsivonen.fi/string-length/)
-* [2023-06-01, 22:30:29](https://news.ycombinator.com/item?id=36158311) - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 * [2023-06-01, 21:15:15](https://news.ycombinator.com/item?id=36157438) - [Notes on training BERT from scratch on an 8GB consumer GPU](https://sidsite.com/posts/bert-from-scratch/)
 * [2023-06-01, 21:03:27](https://news.ycombinator.com/item?id=36157287) - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)

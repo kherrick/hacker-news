@@ -6,6 +6,7 @@
 
 * [2023-06-02, 05:07:12](https://news.ycombinator.com/item?id=36161257) - [Falcon 40B (potentially the most capable open-source LLM) is now open-source](https://www.tii.ae/news/uaes-falcon-40b-now-royalty-free)
 * [2023-06-02, 05:04:29](https://news.ycombinator.com/item?id=36161239) - [Allstate joins State Farm, stops issuing new homeowners insurance policies in CA](https://www.sfchronicle.com/california/article/insurance-allstate-fires-18130622.php)
+* [2023-06-02, 04:50:42](https://news.ycombinator.com/item?id=36161175) - [Parachute use to prevent death and major trauma when jumping from aircraft [pdf]](https://www.bmj.com/content/bmj/363/bmj.k5094.full.pdf)
 * [2023-06-02, 04:29:56](https://news.ycombinator.com/item?id=36161080) - [What Is the Nature of Consciousness?](https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/)
 * [2023-06-02, 04:05:47](https://news.ycombinator.com/item?id=36160902) - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 * [2023-06-02, 03:30:37](https://news.ycombinator.com/item?id=36160591) - [You can watermark GPT&#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
