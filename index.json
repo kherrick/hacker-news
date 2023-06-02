@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2023-06-02, 15:44:07",
-      "https://news.ycombinator.com/item?id=36166685"
-    ],
-    [
-      "Workers rely on medieval era tech to reconstruct the Notre Dame",
-      "https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 15:41:43",
       "https://news.ycombinator.com/item?id=36166649"
     ],
@@ -97,16 +87,6 @@
     [
       "North America is now the growth leader for new battery factories",
       "https://electrek.co/2023/05/31/north-america-battery-factories/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 14:56:02",
-      "https://news.ycombinator.com/item?id=36165975"
-    ],
-    [
-      "When Markets Melt Down, These Traders Cash In",
-      "https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2023-06-02, 13:42:52",
+      "https://news.ycombinator.com/item?id=36164938"
+    ],
+    [
+      "Witch – macOS window switcher replacement",
+      "https://manytricks.com/witch/"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 13:11:00",
       "https://news.ycombinator.com/item?id=36164584"
     ],
@@ -187,6 +177,26 @@
     [
       "Scan iPhone backups for traces of compromise by “Operation Triangulation”",
       "https://github.com/KasperskyLab/triangle_check"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 12:10:45",
+      "https://news.ycombinator.com/item?id=36164055"
+    ],
+    [
+      "Lisa Su saved AMD – Now she wants Nvidia's AI crown",
+      "https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 10:56:16",
+      "https://news.ycombinator.com/item?id=36163542"
+    ],
+    [
+      "Neverflow: C macros that guard against buffer overflows",
+      "https://github.com/skullchap/neverflow"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume",
       "https://hnresumetojobs.com"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 17:02:53",
-      "https://news.ycombinator.com/item?id=36154069"
-    ],
-    [
-      "Cakelisp: A performance-oriented Lisp-like language",
-      "https://macoy.me/code/macoy/cakelisp"
     ]
   ],
   [
