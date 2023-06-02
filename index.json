@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-02, 13:54:07",
+      "https://news.ycombinator.com/item?id=36165096"
+    ],
+    [
+      "CEO: Raspberry Pi stock to hit 1M units monthly, starting in July",
+      "https://arstechnica.com/gadgets/2023/06/ceo-raspberry-pi-inventory-to-hit-1m-units-monthly-starting-in-july/"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 13:31:06",
       "https://news.ycombinator.com/item?id=36164803"
     ],
@@ -17,16 +27,6 @@
     [
       "Council of Trent",
       "https://en.wikipedia.org/wiki/Council_of_Trent"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 13:02:23",
-      "https://news.ycombinator.com/item?id=36164509"
-    ],
-    [
-      "K0smotron: Running Kubernetes-in-Kubernetes",
-      "https://medium.com/k0sproject/introducing-k0smotron-c2ed6535ddc8"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Neverflow: Set of C macros that guard against buffer overflows",
       "https://github.com/skullchap/neverflow"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 09:22:00",
-      "https://news.ycombinator.com/item?id=36162968"
-    ],
-    [
-      "On the reception and detection of pseudo-profound bullshit",
-      "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2023-06-01, 21:03:27",
-      "https://news.ycombinator.com/item?id=36157287"
-    ],
-    [
-      "Usenet over NNCP",
-      "https://www.complete.org/usenet-over-nncp/"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 17:45:57",
       "https://news.ycombinator.com/item?id=36154705"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2023-06-01, 16:31:35",
+      "https://news.ycombinator.com/item?id=36153566"
+    ],
+    [
+      "The Birth and Death of the Orange Book (2015) [pdf]",
+      "https://www.stevelipner.org/links/resources/The%20Birth%20and%20Death%20of%20the%20Orange%20Book.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 16:11:07",
       "https://news.ycombinator.com/item?id=36153237"
     ],
     [
       "Learn x86-64 assembly by writing a GUI from scratch",
       "https://gaultier.github.io/blog/x11_x64.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 15:45:33",
+      "https://news.ycombinator.com/item?id=36152787"
+    ],
+    [
+      "Show HN: Verify LLM Generated Code with a Spreadsheet",
+      "https://news.ycombinator.com/item?id=36152787"
     ]
   ],
   [
