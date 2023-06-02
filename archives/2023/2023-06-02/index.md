@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-02](index.md)
 
 * [2023-06-02, 03:30:37](https://news.ycombinator.com/item?id=36160591) - [You can watermark GPT&#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
+* [2023-06-02, 02:54:46](https://news.ycombinator.com/item?id=36160301) - [Show HN: Pot is a cross-platform translation software](https://github.com/pot-app/pot-desktop)
 * [2023-06-02, 02:40:12](https://news.ycombinator.com/item?id=36160198) - [Ask HN: Who Got Hired?](https://news.ycombinator.com/item?id=36160198)
 * [2023-06-02, 02:15:11](https://news.ycombinator.com/item?id=36160034) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
 * [2023-06-02, 02:09:55](https://news.ycombinator.com/item?id=36160005) - [Presence of nicotine and antidepressants detected in Antarctic waters](https://www.bionity.com/en/news/1180593/presence-of-nicotine-and-antidepressants-detected-in-antarctic-waters.html)
