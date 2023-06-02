@@ -33,6 +33,7 @@
 * [2023-06-01, 17:27:30](https://news.ycombinator.com/item?id=36154455) - [“Clickless” iOS exploits infect Kaspersky iPhones with never-before-seen malware](https://arstechnica.com/information-technology/2023/06/clickless-ios-exploits-infect-kaspersky-iphones-with-never-before-seen-malware/)
 * [2023-06-01, 17:07:28](https://news.ycombinator.com/item?id=36154135) - [OpenAI Cybersecurity Grant Program](https://openai.com/blog/openai-cybersecurity-grant-program)
 * [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
+* [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
 * [2023-06-01, 17:00:41](https://news.ycombinator.com/item?id=36154040) - [Freshpaint (YC S19) Is Hiring Engineers to Build a HIPAA Compliant Data Platform](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-01, 16:58:38](https://news.ycombinator.com/item?id=36154011) - [Logic programming is overrated, at least for logic puzzles (2013)](http://programming-puzzler.blogspot.com/2013/03/logic-programming-is-overrated.html)
 * [2023-06-01, 16:55:59](https://news.ycombinator.com/item?id=36153970) - [Own-Goal Football (2022)](https://generalist.academy/2022/06/07/own-goal-football/)
