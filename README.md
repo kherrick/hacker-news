@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-02, 15:41:43](https://news.ycombinator.com/item?id=36166649) - [System76's Coreboot Open Firmware Manages to Disable Intel Me for Raptor Lake](https://www.phoronix.com/news/System76-Disable-ME-RPL)
 * [2023-06-02, 15:13:35](https://news.ycombinator.com/item?id=36166250) - [North America is now the growth leader for new battery factories](https://electrek.co/2023/05/31/north-america-battery-factories/)
 * [2023-06-02, 14:56:02](https://news.ycombinator.com/item?id=36165975) - [When Markets Melt Down, These Traders Cash In](https://www.wsj.com/articles/black-swan-debt-ceiling-mark-spitznagel-nassim-nicholas-taleb-18bb38f1)
 * [2023-06-02, 14:44:34](https://news.ycombinator.com/item?id=36165790) - [The Explosive Legacy of the Pandemic Hand Sanitizer Boom](https://www.wired.com/story/the-explosive-legacy-of-the-pandemic-hand-sanitizer-boom/)
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [An open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
-* [2023-06-02, 14:10:18](https://news.ycombinator.com/item?id=36165322) - [California Assembly votes to pass the Journalism Preservation Act](https://www.sacbee.com/news/politics-government/capitol-alert/article275992871.html)
 * [2023-06-02, 14:01:37](https://news.ycombinator.com/item?id=36165208) - [Using Google’s code history to write more code](https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html)
-* [2023-06-02, 13:54:30](https://news.ycombinator.com/item?id=36165103) - [We’ve just seen solid state active cooling working on a Mini PC](https://www.theregister.com/2023/06/01/frore_systems_airjet_cooling/)
 * [2023-06-02, 13:11:00](https://news.ycombinator.com/item?id=36164584) - [Sketch of a Post-ORM](https://borretti.me/article/sketch-post-orm)
 * [2023-06-02, 13:08:58](https://news.ycombinator.com/item?id=36164564) - [VGA driver using PIO and DMA on the RP2040](https://vanhunteradams.com/Pico/VGA/VGA.html)
 * [2023-06-02, 13:01:37](https://news.ycombinator.com/item?id=36164503) - [Show HN: Mercury – convert Jupyter Notebooks to Web Apps without code rewriting](https://RunMercury.com)
@@ -28,6 +27,7 @@
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
 * [2023-06-01, 17:08:49](https://news.ycombinator.com/item?id=36154157) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
+* [2023-06-01, 12:13:53](https://news.ycombinator.com/item?id=36150062) - [New open-source datasets for music-based development](https://metabrainz.org/datasets)
 * [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
 * [2023-06-01, 05:04:31](https://news.ycombinator.com/item?id=36147744) - [A Midcentury Map of New York, Packed with Weird Local Lore (2019)](https://www.atlasobscura.com/articles/wonders-of-new-york-map)
 
