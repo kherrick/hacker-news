@@ -20,6 +20,7 @@
 * [2023-06-01, 21:03:27](https://news.ycombinator.com/item?id=36157287) - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
 * [2023-06-01, 19:50:56](https://news.ycombinator.com/item?id=36156444) - [Vectorization: Introduction](https://cvw.cac.cornell.edu/vector/default)
 * [2023-06-01, 17:45:57](https://news.ycombinator.com/item?id=36154705) - [Show HN: HN Resume to Jobs – AI Powered Job Matching Tailored to Your Resume](https://hnresumetojobs.com)
+* [2023-06-01, 17:08:49](https://news.ycombinator.com/item?id=36154157) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 * [2023-06-01, 15:45:33](https://news.ycombinator.com/item?id=36152787) - [Show HN: Verify LLM Generated Code with a Spreadsheet](https://news.ycombinator.com/item?id=36152787)
@@ -29,7 +30,6 @@
 * [2023-06-01, 10:45:19](https://news.ycombinator.com/item?id=36149468) - [When photography “produces something other than photographs”](https://we-make-money-not-art.com/diego-trujillo-pisanty-when-photography-produces-something-other-than-photographs/)
 * [2023-06-01, 05:04:31](https://news.ycombinator.com/item?id=36147744) - [A Midcentury Map of New York, Packed with Weird Local Lore (2019)](https://www.atlasobscura.com/articles/wonders-of-new-york-map)
 * [2023-05-31, 22:47:35](https://news.ycombinator.com/item?id=36145458) - [Mouth gestures and their meanings around the world (2005)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/)
-* [2023-05-31, 22:21:15](https://news.ycombinator.com/item?id=36145185) - [Falcon 40B LLM (which beats Llama) now Apache 2.0](https://twitter.com/Thom_Wolf/status/1663986216771936263)
 
 ## [Archives](archives/index.md)
 

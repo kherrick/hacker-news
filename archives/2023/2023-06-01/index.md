@@ -31,6 +31,7 @@
 * [2023-06-01, 17:33:19](https://news.ycombinator.com/item?id=36154531) - [What are the enduring innovations of Lisp? (2022)](https://elliottslaughter.com/2022/12/lisp)
 * [2023-06-01, 17:32:28](https://news.ycombinator.com/item?id=36154517) - [Show HN: Hardwary- Hacker News for Hardware](https://hardwary.com)
 * [2023-06-01, 17:27:30](https://news.ycombinator.com/item?id=36154455) - [“Clickless” iOS exploits infect Kaspersky iPhones with never-before-seen malware](https://arstechnica.com/information-technology/2023/06/clickless-ios-exploits-infect-kaspersky-iphones-with-never-before-seen-malware/)
+* [2023-06-01, 17:08:49](https://news.ycombinator.com/item?id=36154157) - [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 * [2023-06-01, 17:07:28](https://news.ycombinator.com/item?id=36154135) - [OpenAI Cybersecurity Grant Program](https://openai.com/blog/openai-cybersecurity-grant-program)
 * [2023-06-01, 17:05:06](https://news.ycombinator.com/item?id=36154102) - [SQL: 2023 Has Been Released](https://www.iso.org/standard/76584.html)
 * [2023-06-01, 17:02:53](https://news.ycombinator.com/item?id=36154069) - [Cakelisp: A performance-oriented Lisp-like language](https://macoy.me/code/macoy/cakelisp)
