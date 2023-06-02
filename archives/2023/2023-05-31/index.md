@@ -19,6 +19,7 @@
 * [2023-05-31, 20:40:13](https://news.ycombinator.com/item?id=36144033) - [1000W 12V –&gt; 220V Inverter](https://www.instructables.com/DIY-Pure-Sine-Wave-Inverter/)
 * [2023-05-31, 20:12:33](https://news.ycombinator.com/item?id=36143627) - [Ancient lead pollution in a Roman harbor (2017)](https://arstechnica.com/science/2017/08/plumbing-discovery-reveals-the-rise-and-fall-of-the-roman-empire/)
 * [2023-05-31, 19:52:54](https://news.ycombinator.com/item?id=36143308) - [Developer says Reddit will charge him $20M&#x2F;yr API fees to keep his app working](https://www.theverge.com/2023/5/31/23743993/reddit-apollo-client-api-cost)
+* [2023-05-31, 19:48:59](https://news.ycombinator.com/item?id=36143234) - [The Lost City](https://www.historytoday.com/archive/missing-pieces/lost-city)
 * [2023-05-31, 19:30:53](https://news.ycombinator.com/item?id=36142971) - [Old Reddit is open source](https://github.com/reddit-archive/reddit)
 * [2023-05-31, 19:19:16](https://news.ycombinator.com/item?id=36142763) - [I decided not to commercialize nbdev](https://hamel.dev/blog/posts/nbdev/)
 * [2023-05-31, 19:15:37](https://news.ycombinator.com/item?id=36142708) - [Tesla Confirms Automated Driving Systems Were Engaged During Fatal Crash](https://jalopnik.com/tesla-confirm-automated-driving-engaged-fatal-crash-1850347917)
