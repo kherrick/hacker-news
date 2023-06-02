@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-02, 12:00:11",
+      "https://news.ycombinator.com/item?id=36163970"
+    ],
+    [
+      "Agave (YC W22) is hiring Founding Eng to build data infra for construction",
+      "https://news.ycombinator.com/item?id=36163970"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 10:56:16",
       "https://news.ycombinator.com/item?id=36163542"
     ],
     [
       "Neverflow: Set of C macros that guard against buffer overflows",
       "https://github.com/skullchap/neverflow"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 09:22:00",
+      "https://news.ycombinator.com/item?id=36162968"
+    ],
+    [
+      "On the reception and detection of pseudo-profound bullshit",
+      "https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Radiation-hardened Quine: A quine that works after any one character is deleted",
       "https://github.com/mame/radiation-hardened-quine"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 07:01:06",
-      "https://news.ycombinator.com/item?id=36161982"
-    ],
-    [
-      "Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware",
-      "https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Midcentury Map of New York, Packed with Weird Local Lore (2019)",
       "https://www.atlasobscura.com/articles/wonders-of-new-york-map"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 22:47:35",
-      "https://news.ycombinator.com/item?id=36145458"
-    ],
-    [
-      "Mouth gestures and their meanings around the world (2005)",
-      "https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/"
     ]
   ]
 ]
