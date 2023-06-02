@@ -5,7 +5,6 @@
 * [2023-06-02, 02:15:11](https://news.ycombinator.com/item?id=36160034) - [Rust to Assembly: Understanding the Inner Workings of Rust](https://eventhelix.com/rust/)
 * [2023-06-02, 02:09:55](https://news.ycombinator.com/item?id=36160005) - [Presence of nicotine and antidepressants detected in Antarctic waters](https://www.bionity.com/en/news/1180593/presence-of-nicotine-and-antidepressants-detected-in-antarctic-waters.html)
 * [2023-06-02, 02:08:51](https://news.ycombinator.com/item?id=36159996) - [Health System in Minnesota Cuts Off Patients with Medical Debt](https://www.nytimes.com/2023/06/01/business/allina-health-hospital-debt.html)
-* [2023-06-02, 01:57:00](https://news.ycombinator.com/item?id=36159936) - [Global fertility has collapsed, with profound economic consequences](https://www.economist.com/leaders/2023/06/01/global-fertility-has-collapsed-with-profound-economic-consequences)
 * [2023-06-02, 01:45:57](https://news.ycombinator.com/item?id=36159864) - [How to make fancy road trip maps with R and OpenStreetMap](https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/)
 * [2023-06-01, 22:30:29](https://news.ycombinator.com/item?id=36158311) - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 * [2023-06-01, 21:03:27](https://news.ycombinator.com/item?id=36157287) - [Usenet over NNCP](https://www.complete.org/usenet-over-nncp/)
@@ -29,6 +28,7 @@
 * [2023-06-01, 11:20:43](https://news.ycombinator.com/item?id=36149701) - [A medieval comedy act has been discovered in first-ever find, researcher says](https://www.vice.com/en/article/pkag99/a-medieval-comedy-act-has-been-discovered-in-first-ever-find-researcher-says)
 * [2023-06-01, 10:19:04](https://news.ycombinator.com/item?id=36149313) - [You can&#x27;t optimize for rest (2021)](https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest)
 * [2023-05-31, 22:47:35](https://news.ycombinator.com/item?id=36145458) - [Mouth gestures and their meanings around the world (2005)](https://thereader.mitpress.mit.edu/an-illustrated-guide-to-mouth-gestures-and-their-meanings-around-the-world/)
+* [2023-05-31, 21:31:05](https://news.ycombinator.com/item?id=36144608) - [The History and Future of Charisma](https://www.noemamag.com/the-secret-history-and-strange-future-of-charisma/)
 * [2023-05-31, 17:57:26](https://news.ycombinator.com/item?id=36141430) - [Judge rules Wyoming corner crossers did not trespass](https://www.hcn.org/articles/public-lands-judge-rules-wyoming-corner-crossers-did-not-trespass)
 
 ## [Archives](archives/index.md)
