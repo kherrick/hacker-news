@@ -110,6 +110,7 @@
 * [2023-06-01, 10:19:04](https://news.ycombinator.com/item?id=36149313) - [You Can&#x27;t Optimize for Rest (2021)](https://theconvivialsociety.substack.com/p/you-cant-optimize-for-rest)
 * [2023-06-01, 09:43:21](https://news.ycombinator.com/item?id=36149101) - [We spoke with 5 people who work with AI about what keeps them up at night](https://www.nytimes.com/interactive/2023/06/01/opinion/ai-technology-future.html)
 * [2023-06-01, 09:27:28](https://news.ycombinator.com/item?id=36149004) - [Security.txt file now mandatory for Dutch government websites](https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html)
+* [2023-06-01, 09:08:09](https://news.ycombinator.com/item?id=36148898) - [Torpillage neurologists of WW1, Electric therapy to send hysterics back to front](https://n.neurology.org/content/75/3/279)
 * [2023-06-01, 08:47:40](https://news.ycombinator.com/item?id=36148807) - [Show HN: I made CSS Pro, a re-imagined Devtools for web design](https://csspro.com)
 * [2023-06-01, 08:00:09](https://news.ycombinator.com/item?id=36148588) - [June (YC W21) is hiring product engineer #3](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
 * [2023-06-01, 07:45:45](https://news.ycombinator.com/item?id=36148515) - [Rock Out with Your Console Out](https://www.linuxjournal.com/content/rock-out-your-console-out)
