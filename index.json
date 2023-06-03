@@ -181,11 +181,21 @@
   ],
   [
     [
+      "2023-06-03, 14:25:24",
+      "https://news.ycombinator.com/item?id=36176947"
+    ],
+    [
+      "EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks",
+      "https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 14:09:50",
       "https://news.ycombinator.com/item?id=36176807"
     ],
     [
-      "Jean Monnet: The Guerilla Bureaucrat",
+      "Jean Monnet: The Guerilla Bureaucrat (2021)",
       "https://250bpm.com/blog:174/index.html"
     ]
   ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-06-03, 08:50:26",
-      "https://news.ycombinator.com/item?id=36174892"
-    ],
-    [
-      "Sleight-of-hand magic trick only fools monkeys with opposable thumbs",
-      "https://www.cam.ac.uk/research/news/sleight-of-hand-magic-trick-only-fools-monkeys-with-opposable-thumbs"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 08:30:45",
-      "https://news.ycombinator.com/item?id=36174801"
-    ],
-    [
-      "Red Hat dropping support for LibreOffice",
-      "https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 02:15:31",
       "https://news.ycombinator.com/item?id=36173046"
     ],
@@ -281,11 +271,21 @@
   ],
   [
     [
+      "2023-06-01, 19:18:09",
+      "https://news.ycombinator.com/item?id=36156009"
+    ],
+    [
+      "The diffusion of scientific discovery",
+      "https://tchristos.com/post/scientific-process/"
+    ]
+  ],
+  [
+    [
       "2023-06-01, 10:33:59",
       "https://news.ycombinator.com/item?id=36149404"
     ],
     [
-      "Bizarre 460-foot “battery tanker” set to ship electrons by 2026",
+      "460-foot “battery tanker” set to ship electrons by 2026",
       "https://newatlas.com/energy/powerx-battery-tanker/"
     ]
   ],
