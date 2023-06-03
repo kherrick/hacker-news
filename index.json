@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2023-06-03, 10:34:14",
-      "https://news.ycombinator.com/item?id=36175396"
+      "2023-06-03, 10:18:13",
+      "https://news.ycombinator.com/item?id=36175315"
     ],
     [
-      "School district sues Meta, Google, and TikTok over ‘mental health crisis’",
-      "https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit"
+      "Ask HN: What other news feeds do you read besides Hacker News?",
+      "https://news.ycombinator.com/item?id=36175315"
     ]
   ],
   [
@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-06-03, 08:50:37",
-      "https://news.ycombinator.com/item?id=36174893"
-    ],
-    [
-      "Mementos: System Support for Long-Running Computation on RFID-Scale Devices",
-      "https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 08:50:26",
       "https://news.ycombinator.com/item?id=36174892"
     ],
@@ -107,6 +97,16 @@
     [
       "Red Hat dropping support for LibreOffice",
       "https://lwn.net/Articles/933525/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 08:28:57",
+      "https://news.ycombinator.com/item?id=36174792"
+    ],
+    [
+      "Color Photos of Stalin-Era Soviet Union Taken by a US diplomat",
+      "https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/"
     ]
   ],
   [
@@ -151,12 +151,22 @@
   ],
   [
     [
-      "2023-06-03, 01:41:32",
-      "https://news.ycombinator.com/item?id=36172884"
+      "2023-06-03, 02:10:26",
+      "https://news.ycombinator.com/item?id=36173020"
     ],
     [
-      "Vectorious: BLAS-accelerated linear algebra for TypeScript",
-      "https://github.com/mateogianolio/vectorious"
+      "The NixOS Foundation’s Call to Action: S3 Costs Require Community Support",
+      "https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 01:49:29",
+      "https://news.ycombinator.com/item?id=36172936"
+    ],
+    [
+      "Asia Sentinel Blocked in Singapore",
+      "https://www.asiasentinel.com/p/asia-sentinel-blocked-singapore"
     ]
   ],
   [
@@ -181,22 +191,22 @@
   ],
   [
     [
+      "2023-06-02, 22:33:24",
+      "https://news.ycombinator.com/item?id=36171696"
+    ],
+    [
+      "Calling time on DNSSEC: The costs exceed the benefits",
+      "https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/"
+    ]
+  ],
+  [
+    [
       "2023-06-02, 22:23:19",
       "https://news.ycombinator.com/item?id=36171591"
     ],
     [
       "Supreme Court sides with Slack, putting direct listings in jeopardy",
       "https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 20:14:59",
-      "https://news.ycombinator.com/item?id=36170157"
-    ],
-    [
-      "Deep-brain stimulation during sleep strengthens memory: study",
-      "https://www.uclahealth.org/news/deep-brain-stimulation-during-sleep-strengthens-memory"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2023-06-02, 07:41:00",
-      "https://news.ycombinator.com/item?id=36162265"
-    ],
-    [
-      "27 years later and the Psion 3a is still wonderful (2020)",
-      "https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 05:58:18",
       "https://news.ycombinator.com/item?id=36161582"
     ],
     [
       "Keyd: Linux Key Remapper",
       "https://github.com/rvaiya/keyd"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 23:05:19",
+      "https://news.ycombinator.com/item?id=36158656"
+    ],
+    [
+      "The planning of U.S. physician shortages (2020)",
+      "https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-06-01, 10:33:51",
-      "https://news.ycombinator.com/item?id=36149400"
+      "2023-06-01, 02:37:00",
+      "https://news.ycombinator.com/item?id=36146988"
     ],
     [
-      "Pierre Menard, Author of the Quixote",
-      "https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote"
-    ]
-  ],
-  [
-    [
-      "2023-05-31, 18:13:16",
-      "https://news.ycombinator.com/item?id=36141671"
-    ],
-    [
-      "Taking a new look at fundamental tech for quiet undersea propulsion",
-      "https://www.darpa.mil/news-events/-2023-05-18"
+      "Archive of the Military Tribunal at Nuremberg, 1945-46",
+      "https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military"
     ]
   ]
 ]
