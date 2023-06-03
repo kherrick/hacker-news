@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-03, 07:00:06](https://news.ycombinator.com/item?id=36174371) - [Bitmovin (YC S15) Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
-* [2023-06-03, 05:37:22](https://news.ycombinator.com/item?id=36174029) - [YouTube will stop removing false claims of 2020 US election fraud](https://www.lemonde.fr/en/united-states/article/2023/06/03/youtube-will-stop-removing-false-claims-of-2020-us-election-fraud_6028927_133.html)
 * [2023-06-03, 03:33:33](https://news.ycombinator.com/item?id=36173441) - [How to Decode QR Code on Your Own (Without Camera Scan)](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
 * [2023-06-03, 03:08:35](https://news.ycombinator.com/item?id=36173327) - [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
 * [2023-06-03, 02:10:26](https://news.ycombinator.com/item?id=36173020) - [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
@@ -29,6 +28,7 @@
 * [2023-06-02, 04:45:53](https://news.ycombinator.com/item?id=36161156) - [When the Neighbors Don’t Like Your 10-Foot-Tall Transformer Statues](https://www.nytimes.com/2023/06/01/style/when-the-neighbors-dont-share-your-vision-and-that-vision-involves-transformers-statues.html)
 * [2023-06-02, 03:20:28](https://news.ycombinator.com/item?id=36160497) - [The Black Dandy of Buenos Aires](https://publicdomainreview.org/essay/raul-grigera-black-dandy-of-buenos-aires)
 * [2023-06-01, 23:05:19](https://news.ycombinator.com/item?id=36158656) - [The planning of U.S. physician shortages (2020)](https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/)
+* [2023-06-01, 10:33:51](https://news.ycombinator.com/item?id=36149400) - [Pierre Menard, Author of the Quixote](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote)
 * [2023-06-01, 02:37:00](https://news.ycombinator.com/item?id=36146988) - [Archive of the Military Tribunal at Nuremberg, 1945-46](https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military)
 
 ## [Archives](archives/index.md)
