@@ -47,6 +47,7 @@
 * [2023-06-01, 16:31:31](https://news.ycombinator.com/item?id=36153565) - [Could Usenet get “revived”, to replace the soon to be unusable Reddit?](https://news.ycombinator.com/item?id=36153565)
 * [2023-06-01, 16:29:36](https://news.ycombinator.com/item?id=36153533) - [The Story of Microsleep (2012)](https://scalibq.wordpress.com/2012/03/27/the-story-of-microsleep/)
 * [2023-06-01, 16:29:17](https://news.ycombinator.com/item?id=36153527) - [The Rise and Fall of Evidence Based Medicine (1998) [pdf]](https://www.researchgate.net/publication/13574786_The_rise_and_fall_of_EBM)
+* [2023-06-01, 16:29:05](https://news.ycombinator.com/item?id=36153524) - [Stanford’s Robotics Legacy (2019)](https://news.stanford.edu/2019/01/16/stanfords-robotics-legacy/)
 * [2023-06-01, 16:28:32](https://news.ycombinator.com/item?id=36153516) - [The film had killed me (1946)](https://diariesofnote.com/2023/06/01/the-film-had-killed-me/)
 * [2023-06-01, 16:27:34](https://news.ycombinator.com/item?id=36153496) - [The Meta Quest 3 is a $499 mixed reality headset with full-color passthrough](https://www.engadget.com/the-meta-quest-3-is-a-499-mixed-reality-headset-with-full-color-passthrough-141204527.html)
 * [2023-06-01, 16:11:07](https://news.ycombinator.com/item?id=36153237) - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)

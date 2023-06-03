@@ -10,6 +10,7 @@
 * [2023-06-03, 10:18:13](https://news.ycombinator.com/item?id=36175315) - [Ask HN: What other news feeds do you read besides Hacker News?](https://news.ycombinator.com/item?id=36175315)
 * [2023-06-03, 10:02:44](https://news.ycombinator.com/item?id=36175242) - [Ted Chiang: ‘The machines we have now are not conscious’](https://www.ft.com/content/c1f6d948-3dde-405f-924c-09cc0dcf8c84)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
+* [2023-06-03, 09:06:43](https://news.ycombinator.com/item?id=36174966) - [New warning messages might as well be fatal errors](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FatalWarnings)
 * [2023-06-03, 08:50:37](https://news.ycombinator.com/item?id=36174893) - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
 * [2023-06-03, 08:50:26](https://news.ycombinator.com/item?id=36174892) - [Sleight-of-hand magic trick only fools monkeys with opposable thumbs](https://www.cam.ac.uk/research/news/sleight-of-hand-magic-trick-only-fools-monkeys-with-opposable-thumbs)
 * [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/Articles/933525/)
