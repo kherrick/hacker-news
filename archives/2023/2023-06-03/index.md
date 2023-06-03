@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 20:13:02](https://news.ycombinator.com/item?id=36180101) - [Pityriasis Rosea Induced by Covid-19 Vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900555/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 19:28:27](https://news.ycombinator.com/item?id=36179747) - [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
 * [2023-06-03, 18:52:34](https://news.ycombinator.com/item?id=36179443) - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
