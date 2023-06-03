@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-03, 16:04:16",
+      "https://news.ycombinator.com/item?id=36177762"
+    ],
+    [
+      "This site is no longer solar powered for now",
+      "https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 15:18:57",
       "https://news.ycombinator.com/item?id=36177336"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36177057"
     ],
     [
-      "100% Open Source CS:Go",
+      "Leaked source – CS:GO",
       "https://lwss.github.io/Kisak-Strike/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36176954"
     ],
     [
-      "Configure a Raspberry Pi as a USB Device",
+      "Connect to your Raspberry Pi over USB using gadget mode",
       "https://howchoo.com/pi/raspberry-pi-gadget-mode"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=36176756"
     ],
     [
-      "Bytes Are All You Need: Transformers Operating Directly on File Bytes",
+      "Bytes are all you need: Transformers operating directly on file bytes",
       "https://arxiv.org/abs/2306.00238"
     ]
   ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-06-03, 10:18:13",
-      "https://news.ycombinator.com/item?id=36175315"
-    ],
-    [
-      "Ask HN: What other news feeds do you read besides Hacker News?",
-      "https://news.ycombinator.com/item?id=36175315"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 09:13:59",
       "https://news.ycombinator.com/item?id=36175000"
     ],
@@ -176,7 +176,7 @@
     ],
     [
       "Red Hat dropping support for LibreOffice",
-      "https://lwn.net/Articles/933525/"
+      "https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/"
     ]
   ],
   [
@@ -217,16 +217,6 @@
     [
       "Decoding small QR codes by hand (2012)",
       "https://blog.qartis.com/decoding-small-qr-codes-by-hand/"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 02:10:26",
-      "https://news.ycombinator.com/item?id=36173020"
-    ],
-    [
-      "The NixOS Foundation’s Call to Action: S3 Costs Require Community Support",
-      "https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2023-06-01, 19:47:55",
-      "https://news.ycombinator.com/item?id=36156400"
+      "2023-06-01, 20:18:36",
+      "https://news.ycombinator.com/item?id=36156790"
     ],
     [
-      "That's Interesting (1971)",
-      "https://pages.stern.nyu.edu/~wstarbuc/Writing/Interesting.htm"
+      "What Vale taught me about linear types, borrowing, and memory safety",
+      "https://verdagon.dev/blog/linear-types-borrowing"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 19:18:09",
+      "https://news.ycombinator.com/item?id=36156009"
+    ],
+    [
+      "The diffusion of scientific discovery",
+      "https://tchristos.com/post/scientific-process/"
     ]
   ],
   [
