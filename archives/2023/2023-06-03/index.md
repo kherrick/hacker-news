@@ -14,6 +14,7 @@
 * [2023-06-03, 17:02:13](https://news.ycombinator.com/item?id=36178332) - [Ben Eater: Running Apple 1 software on a breadboard computer (Wozmon) [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
 * [2023-06-03, 17:00:57](https://news.ycombinator.com/item?id=36178320) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
 * [2023-06-03, 16:56:39](https://news.ycombinator.com/item?id=36178265) - [Don’t store cash in Venmo and PayPal, US regulator warns](https://www.cnn.com/2023/06/02/investing/payment-apps-safety/index.html)
+* [2023-06-03, 16:45:04](https://news.ycombinator.com/item?id=36178171) - [The Original AI Doomer: Dr. Norbert Weiner](https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert)
 * [2023-06-03, 16:36:22](https://news.ycombinator.com/item?id=36178092) - [Canada's fire season linked to climate change, will be new normal: scientists](https://www.ctvnews.ca/canada/canada-s-unprecedented-fire-season-linked-to-climate-change-will-be-the-new-normal-scientists-1.6425110)
 * [2023-06-03, 16:17:56](https://news.ycombinator.com/item?id=36177895) - [OpenAI's plans according to Sam Altman removed at OpenAI's request](https://humanloop.com/blog/openai-plans)
 * [2023-06-03, 16:15:56](https://news.ycombinator.com/item?id=36177876) - [Reddit Became the Enemy – With Apollo Developer Christian Selig](https://www.youtube.com/watch?v=Ypwgu1BpaO0)
