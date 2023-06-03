@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-03, 14:54:07",
+      "https://news.ycombinator.com/item?id=36177168"
+    ],
+    [
+      "Feminisation",
+      "https://www.kvetch.au/p/feminisation"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 14:39:21",
+      "https://news.ycombinator.com/item?id=36177057"
+    ],
+    [
+      "100% Open Source CS:Go",
+      "https://lwss.github.io/Kisak-Strike/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 14:37:55",
+      "https://news.ycombinator.com/item?id=36177048"
+    ],
+    [
+      "Fallen Pizza Startup Zume Shuts Down After Raising Millions",
+      "https://www.bloomberg.com/news/articles/2023-06-03/fallen-pizza-startup-zume-shuts-down-after-raising-millions"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 14:25:51",
       "https://news.ycombinator.com/item?id=36176954"
     ],
@@ -37,6 +67,16 @@
     [
       "CodeCompose: Meta’s AI Coding Assistant",
       "https://arxiv.org/abs/2305.12050"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 13:20:53",
+      "https://news.ycombinator.com/item?id=36176461"
+    ],
+    [
+      "Hash Functions",
+      "https://papa.bretmulvey.com/post/124027987928/hash-functions"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2023-06-03, 01:49:29",
-      "https://news.ycombinator.com/item?id=36172936"
-    ],
-    [
-      "Asia Sentinel Blocked in Singapore",
-      "https://www.asiasentinel.com/p/asia-sentinel-blocked-singapore"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 00:21:35",
       "https://news.ycombinator.com/item?id=36172461"
     ],
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-06-02, 22:33:24",
-      "https://news.ycombinator.com/item?id=36171696"
-    ],
-    [
-      "Calling time on DNSSEC: The costs exceed the benefits",
-      "https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 19:49:56",
       "https://news.ycombinator.com/item?id=36169954"
     ],
@@ -227,16 +247,6 @@
     [
       "Damped Springs",
       "https://www.ryanjuckett.com/damped-springs/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 09:28:14",
-      "https://news.ycombinator.com/item?id=36163006"
-    ],
-    [
-      "A Data-Centric Introduction to Computing",
-      "https://dcic-world.org/2023-02-21/booklet_intro.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Stanford’s Robotics Legacy (2019)",
       "https://news.stanford.edu/2019/01/16/stanfords-robotics-legacy/"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 09:43:21",
-      "https://news.ycombinator.com/item?id=36149101"
-    ],
-    [
-      "We spoke with 5 people who work with AI about what keeps them up at night",
-      "https://www.nytimes.com/interactive/2023/06/01/opinion/ai-technology-future.html"
     ]
   ]
 ]
