@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-03, 22:02:01",
+      "https://news.ycombinator.com/item?id=36180944"
+    ],
+    [
+      "Science and Technogy links (June 3 2023)",
+      "https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 20:37:31",
+      "https://news.ycombinator.com/item?id=36180316"
+    ],
+    [
+      "GPS",
+      "https://ciechanow.ski/gps/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 20:07:44",
       "https://news.ycombinator.com/item?id=36180051"
     ],
@@ -47,16 +67,6 @@
     [
       "Setting time on fire and the temptation of The Button",
       "https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 18:26:41",
-      "https://news.ycombinator.com/item?id=36179196"
-    ],
-    [
-      "Ask HN: What’s the deal with random people sending me money over PayPal?",
-      "https://news.ycombinator.com/item?id=36179196"
     ]
   ],
   [
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2023-06-03, 14:25:24",
-      "https://news.ycombinator.com/item?id=36176947"
+      "2023-06-03, 14:09:50",
+      "https://news.ycombinator.com/item?id=36176807"
     ],
     [
-      "EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks",
-      "https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats"
+      "Jean Monnet: The Guerilla Bureaucrat",
+      "https://250bpm.com/blog:174/index.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Building a Lox Interpreter in Julia",
       "https://lukemerrick.com/posts/intro_to_julox.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 20:18:36",
-      "https://news.ycombinator.com/item?id=36156790"
-    ],
-    [
-      "What Vale taught me about linear types, borrowing, and memory safety",
-      "https://verdagon.dev/blog/linear-types-borrowing"
     ]
   ],
   [
