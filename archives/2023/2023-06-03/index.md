@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 17:39:25](https://news.ycombinator.com/item?id=36178720) - [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
 * [2023-06-03, 17:08:15](https://news.ycombinator.com/item?id=36178407) - [Amazon and Google fund anti-abortion lawmakers through complex shell game](https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast)
 * [2023-06-03, 17:07:29](https://news.ycombinator.com/item?id=36178392) - [What are the risks of being an older father?](https://www.bbc.com/future/article/20230602-what-are-the-risks-of-being-an-older-father)
 * [2023-06-03, 17:02:53](https://news.ycombinator.com/item?id=36178342) - [Federal judge: No AI in my courtroom unless a human verifies its accuracy](https://arstechnica.com/tech-policy/2023/05/federal-judge-no-ai-in-my-courtroom-unless-a-human-verifies-its-accuracy/)
