@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 22:02:01](https://news.ycombinator.com/item?id=36180944) - [Science and Technogy links (June 3 2023)](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
 * [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS](https://ciechanow.ski/gps/)
 * [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
 * [2023-06-03, 20:13:02](https://news.ycombinator.com/item?id=36180101) - [Pityriasis Rosea Induced by Covid-19 Vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900555/)
@@ -42,6 +43,7 @@
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:25:24](https://news.ycombinator.com/item?id=36176947) - [EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks](https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats)
 * [2023-06-03, 14:10:13](https://news.ycombinator.com/item?id=36176811) - [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)
+* [2023-06-03, 14:09:50](https://news.ycombinator.com/item?id=36176807) - [Jean Monnet: The Guerilla Bureaucrat](https://250bpm.com/blog:174/index.html)
 * [2023-06-03, 14:06:58](https://news.ycombinator.com/item?id=36176786) - [Supreme Court Rules Companies Can Sue Striking Workers for 'Sabotage'](https://www.vice.com/en/article/n7eejg/supreme-court-rules-companies-can-sue-striking-workers-for-sabotage-and-destruction-misses-entire-point-of-striking)
 * [2023-06-03, 14:06:50](https://news.ycombinator.com/item?id=36176784) - [When digital nomads come to town](https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/)
 * [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes Are All You Need: Transformers Operating Directly on File Bytes](https://arxiv.org/abs/2306.00238)
