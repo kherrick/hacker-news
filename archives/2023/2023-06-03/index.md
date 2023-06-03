@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 23:00:51](https://news.ycombinator.com/item?id=36181333) - [Thought Cloning: Learning to Think While Acting by Imitating Human Thinking](https://arxiv.org/abs/2306.00323)
+* [2023-06-03, 22:38:18](https://news.ycombinator.com/item?id=36181184) - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
 * [2023-06-03, 22:02:01](https://news.ycombinator.com/item?id=36180944) - [Science and Technogy links (June 3 2023)](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
+* [2023-06-03, 21:33:32](https://news.ycombinator.com/item?id=36180742) - [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
 * [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS](https://ciechanow.ski/gps/)
 * [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
 * [2023-06-03, 20:13:02](https://news.ycombinator.com/item?id=36180101) - [Pityriasis Rosea Induced by Covid-19 Vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900555/)
