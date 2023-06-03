@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:50:37](https://news.ycombinator.com/item?id=36174893) - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
 * [2023-06-03, 08:28:57](https://news.ycombinator.com/item?id=36174792) - [Color Photos of Stalin-Era Soviet Union Taken by a US Spy](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
 * [2023-06-03, 07:09:36](https://news.ycombinator.com/item?id=36174406) - [For the badge: Badges for badges' sake](https://forthebadge.com/)
@@ -12,6 +13,7 @@
 * [2023-06-03, 05:37:22](https://news.ycombinator.com/item?id=36174029) - [YouTube will stop removing false claims of 2020 US election fraud](https://www.lemonde.fr/en/united-states/article/2023/06/03/youtube-will-stop-removing-false-claims-of-2020-us-election-fraud_6028927_133.html)
 * [2023-06-03, 03:33:33](https://news.ycombinator.com/item?id=36173441) - [How to Decode QR Code on Your Own (Without Camera Scan)](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
 * [2023-06-03, 03:08:35](https://news.ycombinator.com/item?id=36173327) - [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
+* [2023-06-03, 02:18:55](https://news.ycombinator.com/item?id=36173067) - [This Month with Nim: April and May 2023](https://nim-lang.org/blog/2023/06/02/this-month-with-nim.html)
 * [2023-06-03, 02:10:26](https://news.ycombinator.com/item?id=36173020) - [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 * [2023-06-03, 01:49:29](https://news.ycombinator.com/item?id=36172936) - [Asia Sentinel Blocked in Singapore](https://www.asiasentinel.com/p/asia-sentinel-blocked-singapore)
 * [2023-06-03, 01:41:32](https://news.ycombinator.com/item?id=36172884) - [Vectorious: BLAS-accelerated linear algebra for TypeScript](https://github.com/mateogianolio/vectorious)
