@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
+* [2023-06-03, 19:28:27](https://news.ycombinator.com/item?id=36179747) - [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
+* [2023-06-03, 18:40:57](https://news.ycombinator.com/item?id=36179333) - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
 * [2023-06-03, 18:26:41](https://news.ycombinator.com/item?id=36179196) - [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
 * [2023-06-03, 18:18:34](https://news.ycombinator.com/item?id=36179111) - [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
-* [2023-06-03, 18:06:06](https://news.ycombinator.com/item?id=36178974) - [CIA, MKULTRA, and the Cover-Up of U.S. Germ Warfare in the Korean War (2022)](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
-* [2023-06-03, 17:02:53](https://news.ycombinator.com/item?id=36178342) - [Federal judge: No AI in my courtroom unless a human verifies its accuracy](https://arstechnica.com/tech-policy/2023/05/federal-judge-no-ai-in-my-courtroom-unless-a-human-verifies-its-accuracy/)
-* [2023-06-03, 17:02:13](https://news.ycombinator.com/item?id=36178332) - [Ben Eater: Running Apple 1 software on a breadboard computer (Wozmon) [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
+* [2023-06-03, 18:06:06](https://news.ycombinator.com/item?id=36178974) - [CIA, MKUltra, and the cover-up of U.S. germ warfare in the Korean war (2022)](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
+* [2023-06-03, 17:02:13](https://news.ycombinator.com/item?id=36178332) - [Running Apple 1 software on a breadboard computer (Wozmon) [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
 * [2023-06-03, 17:00:57](https://news.ycombinator.com/item?id=36178320) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
 * [2023-06-03, 16:56:39](https://news.ycombinator.com/item?id=36178265) - [Don’t store cash in Venmo and PayPal, US regulator warns](https://www.cnn.com/2023/06/02/investing/payment-apps-safety/index.html)
 * [2023-06-03, 16:45:04](https://news.ycombinator.com/item?id=36178171) - [The Original AI Doomer: Dr. Norbert Weiner](https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert)
-* [2023-06-03, 16:17:56](https://news.ycombinator.com/item?id=36177895) - [OpenAI's plans according to Sam Altman removed at OpenAI's request](https://humanloop.com/blog/openai-plans)
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 15:17:06](https://news.ycombinator.com/item?id=36177320) - [Framework Laptop 16 Deep Dive: Display](https://frame.work/blog/framework-laptop-16-deep-dive---display)
@@ -29,7 +30,6 @@
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
 * [2023-06-01, 20:18:36](https://news.ycombinator.com/item?id=36156790) - [What Vale taught me about linear types, borrowing, and memory safety](https://verdagon.dev/blog/linear-types-borrowing)
 * [2023-06-01, 19:18:09](https://news.ycombinator.com/item?id=36156009) - [The diffusion of scientific discovery](https://tchristos.com/post/scientific-process/)
-* [2023-06-01, 06:15:31](https://news.ycombinator.com/item?id=36148064) - [The Importance of a Name](https://joebordes.com/the-importance-of-a-name)
 
 ## [Archives](archives/index.md)
 
