@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-03, 07:09:36",
+      "https://news.ycombinator.com/item?id=36174406"
+    ],
+    [
+      "For the badge: Badges for badges' sake",
+      "https://forthebadge.com/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 07:00:06",
       "https://news.ycombinator.com/item?id=36174371"
     ],
     [
       "Bitmovin (YC S15) Is Hiring an Engineering Manager in Austria",
       "https://bitmovin.com/careers/6523970002/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 06:02:20",
+      "https://news.ycombinator.com/item?id=36174140"
+    ],
+    [
+      "Ask HN: How much of unlimited PTO do you use?",
+      "https://news.ycombinator.com/item?id=36174140"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "The NixOS Foundation’s Call to Action: S3 Costs Require Community Support",
       "https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 01:41:32",
+      "https://news.ycombinator.com/item?id=36172884"
+    ],
+    [
+      "Vectorious: BLAS-accelerated linear algebra for TypeScript",
+      "https://github.com/mateogianolio/vectorious"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2023-06-02, 15:44:07",
-      "https://news.ycombinator.com/item?id=36166685"
-    ],
-    [
-      "Workers rely on medieval era tech to reconstruct the Notre Dame",
-      "https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 11:58:29",
-      "https://news.ycombinator.com/item?id=36163955"
-    ],
-    [
-      "Turing Trains",
-      "http://www.cr31.co.uk/stagecast/trains/tt0_int.html"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 10:20:23",
       "https://news.ycombinator.com/item?id=36163326"
     ],
@@ -287,16 +297,6 @@
     [
       "Pierre Menard, Author of the Quixote",
       "https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 02:37:00",
-      "https://news.ycombinator.com/item?id=36146988"
-    ],
-    [
-      "Archive of the Military Tribunal at Nuremberg, 1945-46",
-      "https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military"
     ]
   ]
 ]
