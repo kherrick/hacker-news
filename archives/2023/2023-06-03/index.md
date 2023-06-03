@@ -6,10 +6,12 @@
 
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 19:28:27](https://news.ycombinator.com/item?id=36179747) - [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
+* [2023-06-03, 18:52:34](https://news.ycombinator.com/item?id=36179443) - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
 * [2023-06-03, 18:40:57](https://news.ycombinator.com/item?id=36179333) - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
 * [2023-06-03, 18:26:41](https://news.ycombinator.com/item?id=36179196) - [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
 * [2023-06-03, 18:18:34](https://news.ycombinator.com/item?id=36179111) - [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
 * [2023-06-03, 18:06:06](https://news.ycombinator.com/item?id=36178974) - [CIA, MKULTRA, and the Cover-Up of U.S. Germ Warfare in the Korean War (2022)](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
+* [2023-06-03, 17:57:09](https://news.ycombinator.com/item?id=36178885) - [Nvidia Started in a Denny’s. Now It’s Worth $1T](https://www.wsj.com/articles/nvidia-ai-chips-jensen-huang-dennys-d3226926)
 * [2023-06-03, 17:39:25](https://news.ycombinator.com/item?id=36178720) - [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
 * [2023-06-03, 17:08:15](https://news.ycombinator.com/item?id=36178407) - [Amazon and Google fund anti-abortion lawmakers through complex shell game](https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast)
 * [2023-06-03, 17:07:29](https://news.ycombinator.com/item?id=36178392) - [What are the risks of being an older father?](https://www.bbc.com/future/article/20230602-what-are-the-risks-of-being-an-older-father)
