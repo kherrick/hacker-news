@@ -6,6 +6,7 @@
 
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:50:37](https://news.ycombinator.com/item?id=36174893) - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
+* [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/Articles/933525/)
 * [2023-06-03, 08:28:57](https://news.ycombinator.com/item?id=36174792) - [Color Photos of Stalin-Era Soviet Union Taken by a US Spy](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
 * [2023-06-03, 07:09:36](https://news.ycombinator.com/item?id=36174406) - [For the badge: Badges for badges' sake](https://forthebadge.com/)
 * [2023-06-03, 07:00:06](https://news.ycombinator.com/item?id=36174371) - [Bitmovin (YC S15) Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
