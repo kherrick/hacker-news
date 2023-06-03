@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-03, 12:59:39](https://news.ycombinator.com/item?id=36176322) - [Show HN: Lingfo – Foreign function interface for any language](https://github.com/lingfo/lingfo)
+* [2023-06-03, 12:59:32](https://news.ycombinator.com/item?id=36176321) - [Amazon and Google fund anti-abortion lawmakers through complex shell game](https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast)
 * [2023-06-03, 12:41:53](https://news.ycombinator.com/item?id=36176198) - [A DIY business card that runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
 * [2023-06-03, 11:15:21](https://news.ycombinator.com/item?id=36175646) - [USB armory – The open source flash-drive-sized computer by WithSecure Foundry](https://github.com/usbarmory)
 * [2023-06-03, 11:03:42](https://news.ycombinator.com/item?id=36175566) - [How the CIA used Crypto AG encryption devices to spy on countries for decades (2020)](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
