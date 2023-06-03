@@ -11,7 +11,6 @@
 * [2023-06-02, 23:55:12](https://news.ycombinator.com/item?id=36172306) - [Brazil develops tropical wheat and predicts self-sufficiency in 5 years](https://ukragroconsult.com/en/news/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/)
 * [2023-06-02, 22:33:24](https://news.ycombinator.com/item?id=36171696) - [Calling time on DNSSEC: The costs exceed the benefits](https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/)
 * [2023-06-02, 22:23:19](https://news.ycombinator.com/item?id=36171591) - [Supreme Court sides with Slack, putting direct listings in jeopardy](https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy)
-* [2023-06-02, 21:22:13](https://news.ycombinator.com/item?id=36170910) - [Christopher Strachey and the dawn of interactive text](https://if50.substack.com/p/christopher-strachey-and-the-dawn)
 * [2023-06-02, 20:14:59](https://news.ycombinator.com/item?id=36170157) - [Deep-brain stimulation during sleep strengthens memory: study](https://www.uclahealth.org/news/deep-brain-stimulation-during-sleep-strengthens-memory)
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
 * [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems explained by Humberto Maturana (2021)](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
@@ -29,6 +28,7 @@
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California spent $17B on homelessness – it’s not working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
 * [2023-06-02, 05:30:13](https://news.ycombinator.com/item?id=36161385) - [Refurb weekend: Commodore 128DCR](http://oldvcr.blogspot.com/2023/05/refurb-weekend-commodore-128dcr.html)
 * [2023-06-02, 04:45:53](https://news.ycombinator.com/item?id=36161156) - [When the Neighbors Don’t Like Your 10-Foot-Tall Transformer Statues](https://www.nytimes.com/2023/06/01/style/when-the-neighbors-dont-share-your-vision-and-that-vision-involves-transformers-statues.html)
+* [2023-06-01, 23:05:19](https://news.ycombinator.com/item?id=36158656) - [The planning of U.S. physician shortages (2020)](https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/)
 * [2023-06-01, 02:37:00](https://news.ycombinator.com/item?id=36146988) - [Archive of the Military Tribunal at Nuremberg, 1945-46](https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military)
 
 ## [Archives](archives/index.md)

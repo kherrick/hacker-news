@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-01](index.md)
 
 * [2023-06-01, 23:10:16](https://news.ycombinator.com/item?id=36158702) - [Chief executives cannot shut up about AI](https://www.economist.com/business/2023/06/01/chief-executives-cannot-shut-up-about-ai)
+* [2023-06-01, 23:05:19](https://news.ycombinator.com/item?id=36158656) - [The planning of U.S. physician shortages (2020)](https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/)
 * [2023-06-01, 22:30:29](https://news.ycombinator.com/item?id=36158311) - [The last days of Berlin’s gas streetlamps](https://www.atlasobscura.com/articles/gas-streetlamps-berlin)
 * [2023-06-01, 21:22:47](https://news.ycombinator.com/item?id=36157529) - [Seven out of the nine thresholds enabling human life on Earth have been exceeded](https://www.nature.com/articles/s41586-023-06083-8)
 * [2023-06-01, 21:15:15](https://news.ycombinator.com/item?id=36157438) - [Notes on training BERT from scratch on an 8GB consumer GPU](https://sidsite.com/posts/bert-from-scratch/)
