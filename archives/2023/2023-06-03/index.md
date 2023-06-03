@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 08:50:37](https://news.ycombinator.com/item?id=36174893) - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
+* [2023-06-03, 08:28:57](https://news.ycombinator.com/item?id=36174792) - [Color Photos of Stalin-Era Soviet Union Taken by a US Spy](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
 * [2023-06-03, 07:09:36](https://news.ycombinator.com/item?id=36174406) - [For the badge: Badges for badges' sake](https://forthebadge.com/)
 * [2023-06-03, 07:00:06](https://news.ycombinator.com/item?id=36174371) - [Bitmovin (YC S15) Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
 * [2023-06-03, 06:02:20](https://news.ycombinator.com/item?id=36174140) - [Ask HN: How much of unlimited PTO do you use?](https://news.ycombinator.com/item?id=36174140)
