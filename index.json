@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-06-03, 23:00:51",
+      "https://news.ycombinator.com/item?id=36181333"
+    ],
+    [
+      "Thought Cloning: Learning to Think While Acting by Imitating Human Thinking",
+      "https://arxiv.org/abs/2306.00323"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 22:38:18",
+      "https://news.ycombinator.com/item?id=36181184"
+    ],
+    [
+      "Induction of a torpor-like state in rodents by ultrasound",
+      "https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 22:02:01",
       "https://news.ycombinator.com/item?id=36180944"
     ],
     [
       "Science and Technogy links (June 3 2023)",
       "https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 21:33:32",
+      "https://news.ycombinator.com/item?id=36180742"
+    ],
+    [
+      "The death of self-driving cars is greatly exaggerated",
+      "https://www.understandingai.org/p/the-death-of-self-driving-cars-is"
     ]
   ],
   [
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2023-06-03, 17:57:09",
-      "https://news.ycombinator.com/item?id=36178885"
-    ],
-    [
-      "Nvidia Started in a Denny’s. Now It’s Worth $1T",
-      "https://www.wsj.com/articles/nvidia-ai-chips-jensen-huang-dennys-d3226926"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 17:02:13",
       "https://news.ycombinator.com/item?id=36178332"
     ],
@@ -157,16 +177,6 @@
     [
       "Connect to your Raspberry Pi over USB using gadget mode",
       "https://howchoo.com/pi/raspberry-pi-gadget-mode"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 14:25:24",
-      "https://news.ycombinator.com/item?id=36176947"
-    ],
-    [
-      "EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks",
-      "https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Building a Lox Interpreter in Julia",
       "https://lukemerrick.com/posts/intro_to_julox.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 19:18:09",
-      "https://news.ycombinator.com/item?id=36156009"
-    ],
-    [
-      "The diffusion of scientific discovery",
-      "https://tchristos.com/post/scientific-process/"
     ]
   ],
   [
