@@ -89,6 +89,7 @@
 * [2023-06-02, 04:29:56](https://news.ycombinator.com/item?id=36161080) - [What Is the Nature of Consciousness?](https://www.quantamagazine.org/what-is-the-nature-of-consciousness-20230531/)
 * [2023-06-02, 04:05:47](https://news.ycombinator.com/item?id=36160902) - [Show HN: Local implementation of text-to-3D using Shap-E](https://github.com/kedzkiest/shap-e-local)
 * [2023-06-02, 03:30:37](https://news.ycombinator.com/item?id=36160591) - [You can watermark GPT&#x27;s outputs discreetly](https://eprint.iacr.org/2023/763)
+* [2023-06-02, 03:20:28](https://news.ycombinator.com/item?id=36160497) - [The Black Dandy of Buenos Aires](https://publicdomainreview.org/essay/raul-grigera-black-dandy-of-buenos-aires)
 * [2023-06-02, 02:54:46](https://news.ycombinator.com/item?id=36160301) - [Show HN: Pot is a cross-platform translation software](https://github.com/pot-app/pot-desktop)
 * [2023-06-02, 02:53:55](https://news.ycombinator.com/item?id=36160294) - [Profit-Price Spiral: Excess Profits Fuelling Inflation, Not Wages](https://futurework.org.au/post/profit-price-spiral-excess-profits-fuelling-inflation-interest-rates-not-wages/)
 * [2023-06-02, 02:40:12](https://news.ycombinator.com/item?id=36160198) - [Ask HN: Who Got Hired?](https://news.ycombinator.com/item?id=36160198)

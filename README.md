@@ -15,7 +15,6 @@
 * [2023-06-02, 22:23:19](https://news.ycombinator.com/item?id=36171591) - [Supreme Court sides with Slack, putting direct listings in jeopardy](https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy)
 * [2023-06-02, 20:14:59](https://news.ycombinator.com/item?id=36170157) - [Deep-brain stimulation during sleep strengthens memory: study](https://www.uclahealth.org/news/deep-brain-stimulation-during-sleep-strengthens-memory)
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
-* [2023-06-02, 19:16:44](https://news.ycombinator.com/item?id=36169523) - [Systems explained by Humberto Maturana (2021)](https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana)
 * [2023-06-02, 19:16:04](https://news.ycombinator.com/item?id=36169513) - [A new attack can unmask anonymous users on any major browser (2022)](https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/)
 * [2023-06-02, 19:13:17](https://news.ycombinator.com/item?id=36169486) - [In vitro biological system of cultured brain cells has learned to play Pong](https://www.nature.com/articles/s42256-023-00666-w)
 * [2023-06-02, 18:37:08](https://news.ycombinator.com/item?id=36169019) - [Speed running Monkey Island](https://www.grumpygamer.com/speed_running_mi)
@@ -28,6 +27,7 @@
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 11:58:29](https://news.ycombinator.com/item?id=36163955) - [Turing Trains](http://www.cr31.co.uk/stagecast/trains/tt0_int.html)
 * [2023-06-02, 04:45:53](https://news.ycombinator.com/item?id=36161156) - [When the Neighbors Don’t Like Your 10-Foot-Tall Transformer Statues](https://www.nytimes.com/2023/06/01/style/when-the-neighbors-dont-share-your-vision-and-that-vision-involves-transformers-statues.html)
+* [2023-06-02, 03:20:28](https://news.ycombinator.com/item?id=36160497) - [The Black Dandy of Buenos Aires](https://publicdomainreview.org/essay/raul-grigera-black-dandy-of-buenos-aires)
 * [2023-06-01, 23:05:19](https://news.ycombinator.com/item?id=36158656) - [The planning of U.S. physician shortages (2020)](https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/)
 * [2023-06-01, 02:37:00](https://news.ycombinator.com/item?id=36146988) - [Archive of the Military Tribunal at Nuremberg, 1945-46](https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military)
 
