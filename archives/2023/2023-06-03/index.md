@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 14:54:07](https://news.ycombinator.com/item?id=36177168) - [Feminisation](https://www.kvetch.au/p/feminisation)
+* [2023-06-03, 14:39:21](https://news.ycombinator.com/item?id=36177057) - [100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
+* [2023-06-03, 14:37:55](https://news.ycombinator.com/item?id=36177048) - [Fallen Pizza Startup Zume Shuts Down After Raising Millions](https://www.bloomberg.com/news/articles/2023-06-03/fallen-pizza-startup-zume-shuts-down-after-raising-millions)
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:10:13](https://news.ycombinator.com/item?id=36176811) - [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)
 * [2023-06-03, 14:06:50](https://news.ycombinator.com/item?id=36176784) - [When digital nomads come to town](https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/)
 * [2023-06-03, 13:42:11](https://news.ycombinator.com/item?id=36176606) - [Added Rocky Linux, Alma Linux and FreeBSD OS to Our Cloud Portal](https://yer.cloud)
 * [2023-06-03, 13:38:17](https://news.ycombinator.com/item?id=36176584) - [CodeCompose: Meta’s AI Coding Assistant](https://arxiv.org/abs/2305.12050)
+* [2023-06-03, 13:20:53](https://news.ycombinator.com/item?id=36176461) - [Hash Functions](https://papa.bretmulvey.com/post/124027987928/hash-functions)
 * [2023-06-03, 12:59:39](https://news.ycombinator.com/item?id=36176322) - [Show HN: Lingfo – Foreign function interface for any language](https://github.com/lingfo/lingfo)
 * [2023-06-03, 12:59:32](https://news.ycombinator.com/item?id=36176321) - [Amazon and Google fund anti-abortion lawmakers through complex shell game](https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast)
 * [2023-06-03, 12:41:53](https://news.ycombinator.com/item?id=36176198) - [A DIY business card that runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
