@@ -25,7 +25,7 @@
 * [2023-06-02, 15:44:07](https://news.ycombinator.com/item?id=36166685) - [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
 * [2023-06-02, 14:25:53](https://news.ycombinator.com/item?id=36165513) - [The Analog Thing: an open source, educational, low-cost modern analog computer](https://the-analog-thing.org/)
 * [2023-06-02, 11:58:29](https://news.ycombinator.com/item?id=36163955) - [Turing Trains](http://www.cr31.co.uk/stagecast/trains/tt0_int.html)
-* [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
+* [2023-06-02, 06:40:06](https://news.ycombinator.com/item?id=36161836) - [Additional recommendations for designing experiments to learn about the world [pdf]](http://www.stat.columbia.edu/~gelman/research/published/jcp.pdf)
 * [2023-06-02, 04:45:53](https://news.ycombinator.com/item?id=36161156) - [When the Neighbors Don’t Like Your 10-Foot-Tall Transformer Statues](https://www.nytimes.com/2023/06/01/style/when-the-neighbors-dont-share-your-vision-and-that-vision-involves-transformers-statues.html)
 * [2023-06-02, 03:20:28](https://news.ycombinator.com/item?id=36160497) - [The Black Dandy of Buenos Aires](https://publicdomainreview.org/essay/raul-grigera-black-dandy-of-buenos-aires)
 * [2023-06-01, 23:05:19](https://news.ycombinator.com/item?id=36158656) - [The planning of U.S. physician shortages (2020)](https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/)
