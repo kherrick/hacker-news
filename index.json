@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36175566"
     ],
     [
-      "How the CIA used Crypto AG encryption devices to spy on countries for decades",
+      "How the CIA used Crypto AG encryption devices to spy on countries for decades (2020)",
       "https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Fq: Jq for Binary Formats",
       "https://github.com/wader/fq"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 09:06:43",
+      "https://news.ycombinator.com/item?id=36174966"
+    ],
+    [
+      "New warning messages might as well be fatal errors",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FatalWarnings"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2023-06-03, 01:41:32",
+      "https://news.ycombinator.com/item?id=36172884"
+    ],
+    [
+      "Vectorious: BLAS-accelerated linear algebra for TypeScript",
+      "https://github.com/mateogianolio/vectorious"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 01:01:34",
       "https://news.ycombinator.com/item?id=36172677"
     ],
@@ -191,26 +211,6 @@
   ],
   [
     [
-      "2023-06-02, 19:16:04",
-      "https://news.ycombinator.com/item?id=36169513"
-    ],
-    [
-      "A new attack can unmask anonymous users on any major browser (2022)",
-      "https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/"
-    ]
-  ],
-  [
-    [
-      "2023-06-02, 19:13:17",
-      "https://news.ycombinator.com/item?id=36169486"
-    ],
-    [
-      "In vitro biological system of cultured brain cells has learned to play Pong",
-      "https://www.nature.com/articles/s42256-023-00666-w"
-    ]
-  ],
-  [
-    [
       "2023-06-02, 10:20:23",
       "https://news.ycombinator.com/item?id=36163326"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2023-06-01, 23:05:19",
-      "https://news.ycombinator.com/item?id=36158656"
-    ],
-    [
-      "The planning of U.S. physician shortages (2020)",
-      "https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/"
-    ]
-  ],
-  [
-    [
       "2023-06-01, 20:39:53",
       "https://news.ycombinator.com/item?id=36157024"
     ],
     [
       "Samuel Morland, Magister Mechanicorum (2017)",
       "https://headstuff.org/culture/history/terrible-people-from-history/samuel-morland-magister-mechanicorum/"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:29:05",
+      "https://news.ycombinator.com/item?id=36153524"
+    ],
+    [
+      "Stanford’s Robotics Legacy (2019)",
+      "https://news.stanford.edu/2019/01/16/stanfords-robotics-legacy/"
     ]
   ],
   [
