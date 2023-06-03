@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 15:31:51](https://news.ycombinator.com/item?id=36177453) - [Lisa: Steve Jobs’ sabotage and Apple’s burial](https://www.youtube.com/watch?v=rZjbNWgsDt8)
 * [2023-06-03, 15:18:57](https://news.ycombinator.com/item?id=36177336) - [New Security Warning Issued for Google's 1.8B Gmail Users](https://www.forbes.com/sites/gordonkelly/2023/06/03/google-gmail-problem-new-security-warning-sender-verification/)
@@ -16,6 +17,7 @@
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:25:24](https://news.ycombinator.com/item?id=36176947) - [EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks](https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats)
 * [2023-06-03, 14:10:13](https://news.ycombinator.com/item?id=36176811) - [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)
+* [2023-06-03, 14:06:58](https://news.ycombinator.com/item?id=36176786) - [Supreme Court Rules Companies Can Sue Striking Workers for 'Sabotage'](https://www.vice.com/en/article/n7eejg/supreme-court-rules-companies-can-sue-striking-workers-for-sabotage-and-destruction-misses-entire-point-of-striking)
 * [2023-06-03, 14:06:50](https://news.ycombinator.com/item?id=36176784) - [When digital nomads come to town](https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/)
 * [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes Are All You Need: Transformers Operating Directly on File Bytes](https://arxiv.org/abs/2306.00238)
 * [2023-06-03, 13:42:11](https://news.ycombinator.com/item?id=36176606) - [Added Rocky Linux, Alma Linux and FreeBSD OS to Our Cloud Portal](https://yer.cloud)
