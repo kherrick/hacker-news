@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-03, 18:26:41",
+      "https://news.ycombinator.com/item?id=36179196"
+    ],
+    [
+      "Ask HN: What’s the deal with random people sending me money over PayPal?",
+      "https://news.ycombinator.com/item?id=36179196"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 18:18:34",
+      "https://news.ycombinator.com/item?id=36179111"
+    ],
+    [
+      "Classic components could be replaced by rubber in next-gen loudspeakers",
+      "https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 17:07:29",
       "https://news.ycombinator.com/item?id=36178392"
     ],
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2023-06-03, 11:15:21",
-      "https://news.ycombinator.com/item?id=36175646"
-    ],
-    [
-      "USB armory – The open source flash-drive-sized computer by WithSecure Foundry",
-      "https://github.com/usbarmory"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 11:03:42",
-      "https://news.ycombinator.com/item?id=36175566"
-    ],
-    [
-      "How the CIA used Crypto AG encryption devices to spy on countries for decades (2020)",
-      "https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 09:13:59",
       "https://news.ycombinator.com/item?id=36175000"
     ],
@@ -217,16 +217,6 @@
     [
       "Red Hat dropping support for LibreOffice",
       "https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 07:09:36",
-      "https://news.ycombinator.com/item?id=36174406"
-    ],
-    [
-      "For the badge: Badges for badges' sake",
-      "https://forthebadge.com/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Keyd: Linux Key Remapper",
       "https://github.com/rvaiya/keyd"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 04:40:48",
+      "https://news.ycombinator.com/item?id=36161129"
+    ],
+    [
+      "Building a Lox Interpreter in Julia",
+      "https://lukemerrick.com/posts/intro_to_julox.html"
     ]
   ],
   [
