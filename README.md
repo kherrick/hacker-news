@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS](https://ciechanow.ski/gps/)
 * [2023-06-03, 20:07:44](https://news.ycombinator.com/item?id=36180051) - [The UI of Hacker News Is Perfect](https://news.ycombinator.com/item?id=36180051)
 * [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:21](https://news.ycombinator.com/item?id=36179853) - [Don't let Reddit kill 3rd party apps](https://old.reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/)
@@ -28,6 +27,7 @@
 * [2023-06-03, 02:15:31](https://news.ycombinator.com/item?id=36173046) - [John Reber: The Man Who Helped Save the Bay by Trying to Destroy It (2014)](https://www.foundsf.org/index.php?title=John_Reber:_The_Man_Who_Helped_Save_the_Bay_by_Trying_to_Destroy_It)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
+* [2023-06-01, 20:18:36](https://news.ycombinator.com/item?id=36156790) - [What Vale taught me about linear types, borrowing, and memory safety](https://verdagon.dev/blog/linear-types-borrowing)
 * [2023-06-01, 19:18:09](https://news.ycombinator.com/item?id=36156009) - [The diffusion of scientific discovery](https://tchristos.com/post/scientific-process/)
 * [2023-06-01, 10:33:59](https://news.ycombinator.com/item?id=36149404) - [Bizarre 460-foot “battery tanker” set to ship electrons by 2026](https://newatlas.com/energy/powerx-battery-tanker/)
 
