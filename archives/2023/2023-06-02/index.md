@@ -83,6 +83,7 @@
 * [2023-06-02, 07:28:49](https://news.ycombinator.com/item?id=36162164) - [Radiation-hardened Quine: A quine that works after any one character is deleted](https://github.com/mame/radiation-hardened-quine)
 * [2023-06-02, 07:27:07](https://news.ycombinator.com/item?id=36162154) - [California Spent $17B on Homelessness. It’s Not Working](https://www.wsj.com/articles/california-homeless-population-oakland-wood-street-encampment-78d42cc3)
 * [2023-06-02, 07:01:06](https://news.ycombinator.com/item?id=36161982) - [Memfault (YC W19) Is Hiring a Product Manager in Berlin – DevOps for Hardware](https://jobs.lever.co/memfault/4a93e014-cf06-4a7a-a1a4-46152324c3d2)
+* [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 06:40:06](https://news.ycombinator.com/item?id=36161836) - [Additional recommendations for designing experiments to learn about the world [pdf]](http://www.stat.columbia.edu/~gelman/research/published/jcp.pdf)
 * [2023-06-02, 05:58:18](https://news.ycombinator.com/item?id=36161582) - [Keyd: Linux Key Remapper](https://github.com/rvaiya/keyd)
 * [2023-06-02, 05:32:39](https://news.ycombinator.com/item?id=36161397) - [My Approach to Building Large Technical Projects – Mitchell Hashimoto](https://mitchellh.com/writing/building-large-technical-projects)
