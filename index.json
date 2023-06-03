@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-03, 20:37:31",
+      "https://news.ycombinator.com/item?id=36180316"
+    ],
+    [
+      "GPS",
+      "https://ciechanow.ski/gps/"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 20:07:44",
+      "https://news.ycombinator.com/item?id=36180051"
+    ],
+    [
+      "The UI of Hacker News Is Perfect",
+      "https://news.ycombinator.com/item?id=36180051"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 20:03:46",
       "https://news.ycombinator.com/item?id=36180026"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-06-03, 12:41:53",
-      "https://news.ycombinator.com/item?id=36176198"
-    ],
-    [
-      "A DIY business card that runs Linux (2019)",
-      "https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 09:13:59",
       "https://news.ycombinator.com/item?id=36175000"
     ],
@@ -267,16 +277,6 @@
     [
       "Building a Lox Interpreter in Julia",
       "https://lukemerrick.com/posts/intro_to_julox.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-01, 20:18:36",
-      "https://news.ycombinator.com/item?id=36156790"
-    ],
-    [
-      "What Vale taught me about linear types, borrowing, and memory safety",
-      "https://verdagon.dev/blog/linear-types-borrowing"
     ]
   ],
   [
