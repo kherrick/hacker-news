@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 13:42:11](https://news.ycombinator.com/item?id=36176606) - [Added Rocky Linux, Alma Linux and FreeBSD OS to Our Cloud Portal](https://yer.cloud)
 * [2023-06-03, 12:59:39](https://news.ycombinator.com/item?id=36176322) - [Show HN: Lingfo – Foreign function interface for any language](https://github.com/lingfo/lingfo)
 * [2023-06-03, 12:59:32](https://news.ycombinator.com/item?id=36176321) - [Amazon and Google fund anti-abortion lawmakers through complex shell game](https://www.theguardian.com/world/2023/jun/03/anti-abortion-lawmakers-donation-amazon-google-comcast)
 * [2023-06-03, 12:41:53](https://news.ycombinator.com/item?id=36176198) - [A DIY business card that runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
