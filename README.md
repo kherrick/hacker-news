@@ -2,7 +2,6 @@
 
 * [2023-06-03, 22:02:01](https://news.ycombinator.com/item?id=36180944) - [Science and Technogy links (June 3 2023)](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
 * [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS](https://ciechanow.ski/gps/)
-* [2023-06-03, 20:07:44](https://news.ycombinator.com/item?id=36180051) - [The UI of Hacker News Is Perfect](https://news.ycombinator.com/item?id=36180051)
 * [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:21](https://news.ycombinator.com/item?id=36179853) - [Don't let Reddit kill 3rd party apps](https://old.reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
@@ -17,6 +16,7 @@
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Connect to your Raspberry Pi over USB using gadget mode](https://howchoo.com/pi/raspberry-pi-gadget-mode)
+* [2023-06-03, 14:25:24](https://news.ycombinator.com/item?id=36176947) - [EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks](https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats)
 * [2023-06-03, 14:09:50](https://news.ycombinator.com/item?id=36176807) - [Jean Monnet: The Guerilla Bureaucrat](https://250bpm.com/blog:174/index.html)
 * [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes are all you need: Transformers operating directly on file bytes](https://arxiv.org/abs/2306.00238)
 * [2023-06-03, 13:38:17](https://news.ycombinator.com/item?id=36176584) - [CodeCompose: A large-scale industrial deployment of AI-assisted code authoring](https://arxiv.org/abs/2305.12050)
