@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
 * [2023-06-03, 20:13:02](https://news.ycombinator.com/item?id=36180101) - [Pityriasis Rosea Induced by Covid-19 Vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900555/)
+* [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 19:28:27](https://news.ycombinator.com/item?id=36179747) - [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
 * [2023-06-03, 18:52:34](https://news.ycombinator.com/item?id=36179443) - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
@@ -67,6 +68,7 @@
 * [2023-06-03, 03:33:33](https://news.ycombinator.com/item?id=36173441) - [How to Decode QR Code on Your Own (Without Camera Scan)](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
 * [2023-06-03, 03:08:35](https://news.ycombinator.com/item?id=36173327) - [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
 * [2023-06-03, 02:18:55](https://news.ycombinator.com/item?id=36173067) - [This Month with Nim: April and May 2023](https://nim-lang.org/blog/2023/06/02/this-month-with-nim.html)
+* [2023-06-03, 02:15:31](https://news.ycombinator.com/item?id=36173046) - [John Reber: The Man Who Helped Save the Bay by Trying to Destroy It (2014)](https://www.foundsf.org/index.php?title=John_Reber:_The_Man_Who_Helped_Save_the_Bay_by_Trying_to_Destroy_It)
 * [2023-06-03, 02:10:26](https://news.ycombinator.com/item?id=36173020) - [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
 * [2023-06-03, 01:49:29](https://news.ycombinator.com/item?id=36172936) - [Asia Sentinel Blocked in Singapore](https://www.asiasentinel.com/p/asia-sentinel-blocked-singapore)
 * [2023-06-03, 01:41:32](https://news.ycombinator.com/item?id=36172884) - [Vectorious: BLAS-accelerated linear algebra for TypeScript](https://github.com/mateogianolio/vectorious)
