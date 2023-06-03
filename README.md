@@ -2,7 +2,6 @@
 
 * [2023-06-03, 10:34:14](https://news.ycombinator.com/item?id=36175396) - [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
 * [2023-06-03, 10:18:13](https://news.ycombinator.com/item?id=36175315) - [Ask HN: What other news feeds do you read besides Hacker News?](https://news.ycombinator.com/item?id=36175315)
-* [2023-06-03, 10:02:44](https://news.ycombinator.com/item?id=36175242) - [Ted Chiang: ‘The machines we have now are not conscious’](https://www.ft.com/content/c1f6d948-3dde-405f-924c-09cc0dcf8c84)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:50:37](https://news.ycombinator.com/item?id=36174893) - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
 * [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/Articles/933525/)
@@ -22,6 +21,7 @@
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail: Watch brute force attacks fail in real time](https://brute.fail/)
 * [2023-06-02, 19:16:04](https://news.ycombinator.com/item?id=36169513) - [A new attack can unmask anonymous users on any major browser (2022)](https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/)
 * [2023-06-02, 19:13:17](https://news.ycombinator.com/item?id=36169486) - [In vitro biological system of cultured brain cells has learned to play Pong](https://www.nature.com/articles/s42256-023-00666-w)
+* [2023-06-02, 11:58:29](https://news.ycombinator.com/item?id=36163955) - [Turing Trains](http://www.cr31.co.uk/stagecast/trains/tt0_int.html)
 * [2023-06-02, 10:20:23](https://news.ycombinator.com/item?id=36163326) - [Damped Springs](https://www.ryanjuckett.com/damped-springs/)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 05:58:18](https://news.ycombinator.com/item?id=36161582) - [Keyd: Linux Key Remapper](https://github.com/rvaiya/keyd)
