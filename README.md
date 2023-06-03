@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-03, 20:13:02](https://news.ycombinator.com/item?id=36180101) - [Pityriasis Rosea Induced by Covid-19 Vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900555/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 18:52:34](https://news.ycombinator.com/item?id=36179443) - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
 * [2023-06-03, 18:40:57](https://news.ycombinator.com/item?id=36179333) - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
@@ -15,6 +14,7 @@
 * [2023-06-03, 16:45:04](https://news.ycombinator.com/item?id=36178171) - [The Original AI Doomer: Dr. Norbert Weiner](https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert)
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
+* [2023-06-03, 14:39:21](https://news.ycombinator.com/item?id=36177057) - [Leaked source – CS:GO](https://lwss.github.io/Kisak-Strike/)
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Connect to your Raspberry Pi over USB using gadget mode](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:25:24](https://news.ycombinator.com/item?id=36176947) - [EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks](https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats)
 * [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes are all you need: Transformers operating directly on file bytes](https://arxiv.org/abs/2306.00238)
