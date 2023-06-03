@@ -66,6 +66,7 @@
 * [2023-06-02, 12:57:45](https://news.ycombinator.com/item?id=36164462) - [Amazon Is in Talks to Offer Free Mobile Service to US Prime Members](https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime)
 * [2023-06-02, 12:54:43](https://news.ycombinator.com/item?id=36164439) - [Show HN: Automating Daily reports, because fuck it](https://gist.github.com/yzdbg/bee9031fcaa918abf6442c2691866dda)
 * [2023-06-02, 12:45:39](https://news.ycombinator.com/item?id=36164340) - [Scan iPhone backups for traces of compromise by “Operation Triangulation”](https://github.com/KasperskyLab/triangle_check)
+* [2023-06-02, 12:32:02](https://news.ycombinator.com/item?id=36164221) - [Infinite tiling pattern could end a 60-year mathematical quest](https://www.nature.com/articles/d41586-023-01801-8)
 * [2023-06-02, 12:10:45](https://news.ycombinator.com/item?id=36164055) - [Lisa Su Saved AMD. Now She Wants Nvidia's AI Crown](https://www.forbes.com/sites/iainmartin/2023/05/31/lisa-su-saved-amd-now-she-wants-nvidias-ai-crown/)
 * [2023-06-02, 12:00:11](https://news.ycombinator.com/item?id=36163970) - [Agave (YC W22) is hiring Founding Eng to build data infra for construction](https://news.ycombinator.com/item?id=36163970)
 * [2023-06-02, 11:58:29](https://news.ycombinator.com/item?id=36163955) - [Turing Trains](http://www.cr31.co.uk/stagecast/trains/tt0_int.html)
