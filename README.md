@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
 * [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 18:52:34](https://news.ycombinator.com/item?id=36179443) - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
@@ -25,7 +26,6 @@
 * [2023-06-03, 08:50:26](https://news.ycombinator.com/item?id=36174892) - [Sleight-of-hand magic trick only fools monkeys with opposable thumbs](https://www.cam.ac.uk/research/news/sleight-of-hand-magic-trick-only-fools-monkeys-with-opposable-thumbs)
 * [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/)
 * [2023-06-03, 02:15:31](https://news.ycombinator.com/item?id=36173046) - [John Reber: The Man Who Helped Save the Bay by Trying to Destroy It (2014)](https://www.foundsf.org/index.php?title=John_Reber:_The_Man_Who_Helped_Save_the_Bay_by_Trying_to_Destroy_It)
-* [2023-06-02, 12:32:02](https://news.ycombinator.com/item?id=36164221) - [Infinite tiling pattern could end a 60-year mathematical quest](https://www.nature.com/articles/d41586-023-01801-8)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
 * [2023-06-01, 20:18:36](https://news.ycombinator.com/item?id=36156790) - [What Vale taught me about linear types, borrowing, and memory safety](https://verdagon.dev/blog/linear-types-borrowing)
