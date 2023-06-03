@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS](https://ciechanow.ski/gps/)
 * [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
 * [2023-06-03, 20:13:02](https://news.ycombinator.com/item?id=36180101) - [Pityriasis Rosea Induced by Covid-19 Vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900555/)
 * [2023-06-03, 20:07:44](https://news.ycombinator.com/item?id=36180051) - [The UI of Hacker News Is Perfect](https://news.ycombinator.com/item?id=36180051)
