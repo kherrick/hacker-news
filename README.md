@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-03, 17:39:25](https://news.ycombinator.com/item?id=36178720) - [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
 * [2023-06-03, 17:07:29](https://news.ycombinator.com/item?id=36178392) - [What are the risks of being an older father?](https://www.bbc.com/future/article/20230602-what-are-the-risks-of-being-an-older-father)
 * [2023-06-03, 17:02:53](https://news.ycombinator.com/item?id=36178342) - [Federal judge: No AI in my courtroom unless a human verifies its accuracy](https://arstechnica.com/tech-policy/2023/05/federal-judge-no-ai-in-my-courtroom-unless-a-human-verifies-its-accuracy/)
 * [2023-06-03, 17:00:57](https://news.ycombinator.com/item?id=36178320) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
@@ -19,6 +18,7 @@
 * [2023-06-03, 12:56:39](https://news.ycombinator.com/item?id=36176302) - [StyleDrop: Text-to-Image Generation in Any Style](https://styledrop.github.io/)
 * [2023-06-03, 12:41:53](https://news.ycombinator.com/item?id=36176198) - [A DIY business card that runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
 * [2023-06-03, 11:15:21](https://news.ycombinator.com/item?id=36175646) - [USB armory – The open source flash-drive-sized computer by WithSecure Foundry](https://github.com/usbarmory)
+* [2023-06-03, 11:03:42](https://news.ycombinator.com/item?id=36175566) - [How the CIA used Crypto AG encryption devices to spy on countries for decades (2020)](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:50:26](https://news.ycombinator.com/item?id=36174892) - [Sleight-of-hand magic trick only fools monkeys with opposable thumbs](https://www.cam.ac.uk/research/news/sleight-of-hand-magic-trick-only-fools-monkeys-with-opposable-thumbs)
 * [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/)
