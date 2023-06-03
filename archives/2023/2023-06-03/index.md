@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 07:09:36](https://news.ycombinator.com/item?id=36174406) - [For the badge: Badges for badges' sake](https://forthebadge.com/)
 * [2023-06-03, 07:00:06](https://news.ycombinator.com/item?id=36174371) - [Bitmovin (YC S15) Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
+* [2023-06-03, 06:02:20](https://news.ycombinator.com/item?id=36174140) - [Ask HN: How much of unlimited PTO do you use?](https://news.ycombinator.com/item?id=36174140)
 * [2023-06-03, 05:37:22](https://news.ycombinator.com/item?id=36174029) - [YouTube will stop removing false claims of 2020 US election fraud](https://www.lemonde.fr/en/united-states/article/2023/06/03/youtube-will-stop-removing-false-claims-of-2020-us-election-fraud_6028927_133.html)
 * [2023-06-03, 03:33:33](https://news.ycombinator.com/item?id=36173441) - [How to Decode QR Code on Your Own (Without Camera Scan)](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
 * [2023-06-03, 03:08:35](https://news.ycombinator.com/item?id=36173327) - [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)

@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-03, 07:09:36](https://news.ycombinator.com/item?id=36174406) - [For the badge: Badges for badges' sake](https://forthebadge.com/)
 * [2023-06-03, 07:00:06](https://news.ycombinator.com/item?id=36174371) - [Bitmovin (YC S15) Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
+* [2023-06-03, 06:02:20](https://news.ycombinator.com/item?id=36174140) - [Ask HN: How much of unlimited PTO do you use?](https://news.ycombinator.com/item?id=36174140)
 * [2023-06-03, 03:33:33](https://news.ycombinator.com/item?id=36173441) - [How to Decode QR Code on Your Own (Without Camera Scan)](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
 * [2023-06-03, 03:08:35](https://news.ycombinator.com/item?id=36173327) - [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
 * [2023-06-03, 02:10:26](https://news.ycombinator.com/item?id=36173020) - [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
+* [2023-06-03, 01:41:32](https://news.ycombinator.com/item?id=36172884) - [Vectorious: BLAS-accelerated linear algebra for TypeScript](https://github.com/mateogianolio/vectorious)
 * [2023-06-03, 01:01:34](https://news.ycombinator.com/item?id=36172677) - [Teen neurostimulation of dopamine circuit reverses genetic deficits in PF cortex](https://elifesciences.org/reviewed-preprints/87414v1)
 * [2023-06-03, 00:21:35](https://news.ycombinator.com/item?id=36172461) - [Intelligent Brains Take Longer to Solve Difficult Problems](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems)
 * [2023-06-03, 00:15:14](https://news.ycombinator.com/item?id=36172426) - [Tomb Raider](https://www.filfre.net/2023/06/tomb-raider/)
@@ -21,15 +24,12 @@
 * [2023-06-02, 17:23:18](https://news.ycombinator.com/item?id=36168068) - [He made linear algebra fun](https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531)
 * [2023-06-02, 17:14:23](https://news.ycombinator.com/item?id=36167948) - [Render a neural network into CUDA/HIP code](https://github.com/facebookincubator/AITemplate)
 * [2023-06-02, 16:58:37](https://news.ycombinator.com/item?id=36167694) - [Kenneth Anger has died](https://dangerousminds.net/comments/kenneth_anger_rip_the_magus_of_american_cinema_dead_at_96)
-* [2023-06-02, 15:44:07](https://news.ycombinator.com/item?id=36166685) - [Workers rely on medieval era tech to reconstruct the Notre Dame](https://www.popsci.com/technology/notre-dame-reconstruction-medieval-tools/)
-* [2023-06-02, 11:58:29](https://news.ycombinator.com/item?id=36163955) - [Turing Trains](http://www.cr31.co.uk/stagecast/trains/tt0_int.html)
 * [2023-06-02, 10:20:23](https://news.ycombinator.com/item?id=36163326) - [Damped Springs](https://www.ryanjuckett.com/damped-springs/)
 * [2023-06-02, 07:41:00](https://news.ycombinator.com/item?id=36162265) - [27 years later and the Psion 3a is still wonderful (2020)](https://mcgst.com/2020/12/01/27-years-later-and-the-psion-3a-is-still-wonderful/)
 * [2023-06-02, 04:45:53](https://news.ycombinator.com/item?id=36161156) - [When the Neighbors Don’t Like Your 10-Foot-Tall Transformer Statues](https://www.nytimes.com/2023/06/01/style/when-the-neighbors-dont-share-your-vision-and-that-vision-involves-transformers-statues.html)
 * [2023-06-02, 03:20:28](https://news.ycombinator.com/item?id=36160497) - [The Black Dandy of Buenos Aires](https://publicdomainreview.org/essay/raul-grigera-black-dandy-of-buenos-aires)
 * [2023-06-01, 23:05:19](https://news.ycombinator.com/item?id=36158656) - [The planning of U.S. physician shortages (2020)](https://www.niskanencenter.org/the-planning-of-u-s-physician-shortages/)
 * [2023-06-01, 10:33:51](https://news.ycombinator.com/item?id=36149400) - [Pierre Menard, Author of the Quixote](https://en.wikipedia.org/wiki/Pierre_Menard,_Author_of_the_Quixote)
-* [2023-06-01, 02:37:00](https://news.ycombinator.com/item?id=36146988) - [Archive of the Military Tribunal at Nuremberg, 1945-46](https://library.stanford.edu/blogs/digital-library-blog/2023/03/stanford-libraries-launches-taube-archive-international-military)
 
 ## [Archives](archives/index.md)
 
