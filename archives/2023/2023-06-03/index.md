@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 15:10:00](https://news.ycombinator.com/item?id=36177276) - [Twitter fails to act on 99% of Twitter Blue accounts tweeting hate](https://counterhate.com/research/twitter-fails-to-act-on-twitter-blue-accounts-tweeting-hate/)
 * [2023-06-03, 14:54:07](https://news.ycombinator.com/item?id=36177168) - [Feminisation](https://www.kvetch.au/p/feminisation)
 * [2023-06-03, 14:39:21](https://news.ycombinator.com/item?id=36177057) - [100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
 * [2023-06-03, 14:37:55](https://news.ycombinator.com/item?id=36177048) - [Fallen Pizza Startup Zume Shuts Down After Raising Millions](https://www.bloomberg.com/news/articles/2023-06-03/fallen-pizza-startup-zume-shuts-down-after-raising-millions)
