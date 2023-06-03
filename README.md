@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-03, 07:00:06](https://news.ycombinator.com/item?id=36174371) - [Bitmovin (YC S15) Is Hiring an Engineering Manager in Austria](https://bitmovin.com/careers/6523970002/)
+* [2023-06-03, 05:37:22](https://news.ycombinator.com/item?id=36174029) - [YouTube will stop removing false claims of 2020 US election fraud](https://www.lemonde.fr/en/united-states/article/2023/06/03/youtube-will-stop-removing-false-claims-of-2020-us-election-fraud_6028927_133.html)
 * [2023-06-03, 03:33:33](https://news.ycombinator.com/item?id=36173441) - [How to Decode QR Code on Your Own (Without Camera Scan)](https://blog.qartis.com/decoding-small-qr-codes-by-hand/)
 * [2023-06-03, 03:08:35](https://news.ycombinator.com/item?id=36173327) - [Brainformers: Trading Simplicity for Efficiency](https://arxiv.org/abs/2306.00008)
 * [2023-06-03, 02:10:26](https://news.ycombinator.com/item?id=36173020) - [The NixOS Foundation’s Call to Action: S3 Costs Require Community Support](https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672)
-* [2023-06-03, 01:41:32](https://news.ycombinator.com/item?id=36172884) - [Vectorious: BLAS-accelerated linear algebra for TypeScript](https://github.com/mateogianolio/vectorious)
 * [2023-06-03, 01:01:34](https://news.ycombinator.com/item?id=36172677) - [Teen neurostimulation of dopamine circuit reverses genetic deficits in PF cortex](https://elifesciences.org/reviewed-preprints/87414v1)
-* [2023-06-03, 01:00:45](https://news.ycombinator.com/item?id=36172672) - [Generally Intelligent (YC S17) Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36172672)
 * [2023-06-03, 00:21:35](https://news.ycombinator.com/item?id=36172461) - [Intelligent Brains Take Longer to Solve Difficult Problems](https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems)
 * [2023-06-03, 00:15:14](https://news.ycombinator.com/item?id=36172426) - [Tomb Raider](https://www.filfre.net/2023/06/tomb-raider/)
 * [2023-06-02, 23:55:12](https://news.ycombinator.com/item?id=36172306) - [Brazil develops tropical wheat and predicts self-sufficiency in 5 years](https://ukragroconsult.com/en/news/brazil-develops-tropical-wheat-and-predicts-self-sufficiency-in-5-years/)
