@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
 * [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
+* [2023-06-03, 19:41:21](https://news.ycombinator.com/item?id=36179853) - [Don't let Reddit kill 3rd party apps](https://old.reddit.com/r/Save3rdPartyApps/comments/13yh0jf/dont_let_reddit_kill_3rd_party_apps/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
-* [2023-06-03, 18:52:34](https://news.ycombinator.com/item?id=36179443) - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)
 * [2023-06-03, 18:40:57](https://news.ycombinator.com/item?id=36179333) - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
 * [2023-06-03, 18:26:41](https://news.ycombinator.com/item?id=36179196) - [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
 * [2023-06-03, 18:18:34](https://news.ycombinator.com/item?id=36179111) - [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
@@ -20,7 +21,6 @@
 * [2023-06-03, 13:38:17](https://news.ycombinator.com/item?id=36176584) - [CodeCompose: A large-scale industrial deployment of AI-assisted code authoring](https://arxiv.org/abs/2305.12050)
 * [2023-06-03, 13:20:53](https://news.ycombinator.com/item?id=36176461) - [Hash Functions](https://papa.bretmulvey.com/post/124027987928/hash-functions)
 * [2023-06-03, 12:56:39](https://news.ycombinator.com/item?id=36176302) - [StyleDrop: Text-to-Image Generation in Any Style](https://styledrop.github.io/)
-* [2023-06-03, 12:41:53](https://news.ycombinator.com/item?id=36176198) - [A DIY business card that runs Linux (2019)](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:50:26](https://news.ycombinator.com/item?id=36174892) - [Sleight-of-hand magic trick only fools monkeys with opposable thumbs](https://www.cam.ac.uk/research/news/sleight-of-hand-magic-trick-only-fools-monkeys-with-opposable-thumbs)
 * [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/)
