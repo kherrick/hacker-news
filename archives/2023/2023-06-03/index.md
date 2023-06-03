@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 15:31:51](https://news.ycombinator.com/item?id=36177453) - [Lisa: Steve Jobs’ sabotage and Apple’s burial](https://www.youtube.com/watch?v=rZjbNWgsDt8)
 * [2023-06-03, 15:18:57](https://news.ycombinator.com/item?id=36177336) - [New Security Warning Issued for Google's 1.8B Gmail Users](https://www.forbes.com/sites/gordonkelly/2023/06/03/google-gmail-problem-new-security-warning-sender-verification/)
+* [2023-06-03, 15:17:06](https://news.ycombinator.com/item?id=36177320) - [Framework Laptop 16 Deep Dive: Display](https://frame.work/blog/framework-laptop-16-deep-dive---display)
 * [2023-06-03, 15:10:00](https://news.ycombinator.com/item?id=36177276) - [Twitter fails to act on 99% of Twitter Blue accounts tweeting hate](https://counterhate.com/research/twitter-fails-to-act-on-twitter-blue-accounts-tweeting-hate/)
 * [2023-06-03, 14:54:07](https://news.ycombinator.com/item?id=36177168) - [Feminisation](https://www.kvetch.au/p/feminisation)
 * [2023-06-03, 14:39:21](https://news.ycombinator.com/item?id=36177057) - [100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
@@ -12,6 +14,7 @@
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:10:13](https://news.ycombinator.com/item?id=36176811) - [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)
 * [2023-06-03, 14:06:50](https://news.ycombinator.com/item?id=36176784) - [When digital nomads come to town](https://restofworld.org/2023/digital-nomads-visa-pricing-out-locals/)
+* [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes Are All You Need: Transformers Operating Directly on File Bytes](https://arxiv.org/abs/2306.00238)
 * [2023-06-03, 13:42:11](https://news.ycombinator.com/item?id=36176606) - [Added Rocky Linux, Alma Linux and FreeBSD OS to Our Cloud Portal](https://yer.cloud)
 * [2023-06-03, 13:38:17](https://news.ycombinator.com/item?id=36176584) - [CodeCompose: Meta’s AI Coding Assistant](https://arxiv.org/abs/2305.12050)
 * [2023-06-03, 13:20:53](https://news.ycombinator.com/item?id=36176461) - [Hash Functions](https://papa.bretmulvey.com/post/124027987928/hash-functions)
