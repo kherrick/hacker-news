@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 12:59:39](https://news.ycombinator.com/item?id=36176322) - [Show HN: Lingfo – Foreign function interface for any language](https://github.com/lingfo/lingfo)
+* [2023-06-03, 12:41:53](https://news.ycombinator.com/item?id=36176198) - [A DIY business card that runs Linux](https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+* [2023-06-03, 11:15:21](https://news.ycombinator.com/item?id=36175646) - [USB armory – The open source flash-drive-sized computer by WithSecure Foundry](https://github.com/usbarmory)
 * [2023-06-03, 11:03:42](https://news.ycombinator.com/item?id=36175566) - [How the CIA used Crypto AG encryption devices to spy on countries for decades](https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/)
 * [2023-06-03, 10:43:02](https://news.ycombinator.com/item?id=36175437) - [Stop Eliminating Perfectly Good Candidates by Asking Them the Wrong Questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)
 * [2023-06-03, 10:34:14](https://news.ycombinator.com/item?id=36175396) - [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
