@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-06-03, 20:07:44",
-      "https://news.ycombinator.com/item?id=36180051"
-    ],
-    [
-      "The UI of Hacker News Is Perfect",
-      "https://news.ycombinator.com/item?id=36180051"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 20:03:46",
       "https://news.ycombinator.com/item?id=36180026"
     ],
@@ -167,6 +157,16 @@
     [
       "Connect to your Raspberry Pi over USB using gadget mode",
       "https://howchoo.com/pi/raspberry-pi-gadget-mode"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 14:25:24",
+      "https://news.ycombinator.com/item?id=36176947"
+    ],
+    [
+      "EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks",
+      "https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats"
     ]
   ],
   [
