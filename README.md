@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
+* [2023-06-03, 20:07:44](https://news.ycombinator.com/item?id=36180051) - [The UI of Hacker News Is Perfect](https://news.ycombinator.com/item?id=36180051)
 * [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 18:52:34](https://news.ycombinator.com/item?id=36179443) - [Why Is GPS Free?](https://old.reddit.com/r/AskHistorians/comments/13y7ee7/why_is_gps_free/)

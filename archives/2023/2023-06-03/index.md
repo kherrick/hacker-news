@@ -6,6 +6,7 @@
 
 * [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
 * [2023-06-03, 20:13:02](https://news.ycombinator.com/item?id=36180101) - [Pityriasis Rosea Induced by Covid-19 Vaccination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900555/)
+* [2023-06-03, 20:07:44](https://news.ycombinator.com/item?id=36180051) - [The UI of Hacker News Is Perfect](https://news.ycombinator.com/item?id=36180051)
 * [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 19:28:27](https://news.ycombinator.com/item?id=36179747) - [Covid-19 vaccination-related myocarditis: A Korean nationwide study](https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehad339/7188747)
