@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 16:36:22](https://news.ycombinator.com/item?id=36178092) - [Canada's fire season linked to climate change, will be new normal: scientists](https://www.ctvnews.ca/canada/canada-s-unprecedented-fire-season-linked-to-climate-change-will-be-the-new-normal-scientists-1.6425110)
+* [2023-06-03, 16:17:56](https://news.ycombinator.com/item?id=36177895) - [OpenAI's plans according to Sam Altman removed at OpenAI's request](https://humanloop.com/blog/openai-plans)
+* [2023-06-03, 16:15:56](https://news.ycombinator.com/item?id=36177876) - [Reddit Became the Enemy – With Apollo Developer Christian Selig](https://www.youtube.com/watch?v=Ypwgu1BpaO0)
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 15:31:51](https://news.ycombinator.com/item?id=36177453) - [Lisa: Steve Jobs’ sabotage and Apple’s burial](https://www.youtube.com/watch?v=rZjbNWgsDt8)
