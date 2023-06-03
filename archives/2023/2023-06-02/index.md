@@ -72,6 +72,7 @@
 * [2023-06-02, 10:56:16](https://news.ycombinator.com/item?id=36163542) - [Neverflow: Set of C macros that guard against buffer overflows](https://github.com/skullchap/neverflow)
 * [2023-06-02, 10:20:23](https://news.ycombinator.com/item?id=36163326) - [Damped Springs](https://www.ryanjuckett.com/damped-springs/)
 * [2023-06-02, 09:32:20](https://news.ycombinator.com/item?id=36163033) - [US military AI drone simulation kills operator, then takes out control tower](https://www.foxnews.com/tech/us-military-ai-drone-simulation-kills-operator-told-bad-takes-out-control-tower)
+* [2023-06-02, 09:28:14](https://news.ycombinator.com/item?id=36163006) - [A Data-Centric Introduction to Computing](https://dcic-world.org/2023-02-21/booklet_intro.html)
 * [2023-06-02, 09:22:00](https://news.ycombinator.com/item?id=36162968) - [On the reception and detection of pseudo-profound bullshit](https://www.cambridge.org/core/journals/judgment-and-decision-making/article/on-the-reception-and-detection-of-pseudoprofound-bullshit/0D3C87BCC238BCA38BC55E395BDC9999)
 * [2023-06-02, 08:57:14](https://news.ycombinator.com/item?id=36162831) - [Speeduino – Arduino based engine management](https://github.com/noisymime/speeduino)
 * [2023-06-02, 08:38:46](https://news.ycombinator.com/item?id=36162704) - [Phase Locked State Machines](https://onevariable.com/blog/phase-locked-state-machines/)
