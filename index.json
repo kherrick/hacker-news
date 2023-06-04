@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2023-06-04, 12:41:30",
-      "https://news.ycombinator.com/item?id=36185173"
-    ],
-    [
-      "Lung cancer pill cuts risk of death by half",
-      "https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study"
-    ]
-  ],
-  [
-    [
       "2023-06-04, 11:43:46",
       "https://news.ycombinator.com/item?id=36184838"
     ],
@@ -267,6 +257,16 @@
     [
       "DreamBerd is a perfect programming language",
       "https://github.com/TodePond/DreamBerd"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 18:03:24",
+      "https://news.ycombinator.com/item?id=36178942"
+    ],
+    [
+      "Reduce vs. Fold in Common Lisp",
+      "https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/"
     ]
   ],
   [
