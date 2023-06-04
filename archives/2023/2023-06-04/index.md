@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 12:41:30](https://news.ycombinator.com/item?id=36185173) - [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
 * [2023-06-04, 12:23:54](https://news.ycombinator.com/item?id=36185055) - [What Is Social Status?](https://robkhenderson.substack.com/p/what-is-social-status)
 * [2023-06-04, 12:04:24](https://news.ycombinator.com/item?id=36184948) - [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
@@ -13,6 +14,7 @@
 * [2023-06-04, 10:53:20](https://news.ycombinator.com/item?id=36184605) - [Ask HN: Struggling with Productivity and Procrastination](https://news.ycombinator.com/item?id=36184605)
 * [2023-06-04, 10:17:50](https://news.ycombinator.com/item?id=36184440) - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 * [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
+* [2023-06-04, 10:10:16](https://news.ycombinator.com/item?id=36184417) - [Rowan Atkinson on free speech (2023)](https://www.youtube.com/watch?v=xUezfuy8Qpc)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 09:43:11](https://news.ycombinator.com/item?id=36184315) - [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
 * [2023-06-04, 09:35:15](https://news.ycombinator.com/item?id=36184275) - [Exclusive: Ministers had ‘chilling’ secret unit to curb lockdown dissent](https://www.telegraph.co.uk/news/2023/06/02/counter-disinformation-unit-government-covid-lockdown/)

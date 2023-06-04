@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 12:41:30](https://news.ycombinator.com/item?id=36185173) - [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
 * [2023-06-04, 12:23:54](https://news.ycombinator.com/item?id=36185055) - [What Is Social Status?](https://robkhenderson.substack.com/p/what-is-social-status)
 * [2023-06-04, 12:04:24](https://news.ycombinator.com/item?id=36184948) - [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
@@ -9,6 +10,7 @@
 * [2023-06-04, 10:53:20](https://news.ycombinator.com/item?id=36184605) - [Ask HN: Struggling with Productivity and Procrastination](https://news.ycombinator.com/item?id=36184605)
 * [2023-06-04, 10:17:50](https://news.ycombinator.com/item?id=36184440) - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 * [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
+* [2023-06-04, 10:10:16](https://news.ycombinator.com/item?id=36184417) - [Rowan Atkinson on free speech (2023)](https://www.youtube.com/watch?v=xUezfuy8Qpc)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 09:43:11](https://news.ycombinator.com/item?id=36184315) - [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
@@ -20,7 +22,6 @@
 * [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 * [2023-06-04, 07:27:20](https://news.ycombinator.com/item?id=36183753) - [The Wembley Point Mystery](https://www.theguardian.com/lifeandstyle/2023/may/27/the-wembley-point-mystery-who-was-the-woman-who-jumped-to-her-death)
 * [2023-06-03, 22:38:18](https://news.ycombinator.com/item?id=36181184) - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
-* [2023-06-03, 22:01:58](https://news.ycombinator.com/item?id=36180942) - [Manifesto on the Teaching of Mathematics (2015)](https://intellectualmathematics.com/manifesto/)
 * [2023-06-03, 21:33:32](https://news.ycombinator.com/item?id=36180742) - [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
 * [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS (2022)](https://ciechanow.ski/gps/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
@@ -29,7 +30,6 @@
 * [2023-06-03, 09:14:33](https://news.ycombinator.com/item?id=36175003) - [Office-Tickler (1888) [pdf]](https://patentimages.storage.googleapis.com/28/0f/33/8e7a624128a068/US377335.pdf)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:33:13](https://news.ycombinator.com/item?id=36174815) - [Show HN: Google Code Jam Archive](https://zibada.guru/gcj/)
-* [2023-06-02, 21:51:34](https://news.ycombinator.com/item?id=36171257) - [Chronicler of the Flower Moon](https://www.theringer.com/movies/2023/5/18/23727763/david-grann-killers-of-the-flower-moon-cannes-film-festival)
 
 ## [Archives](archives/index.md)
 
