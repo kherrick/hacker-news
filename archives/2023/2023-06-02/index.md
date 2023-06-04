@@ -9,6 +9,7 @@
 * [2023-06-02, 22:23:19](https://news.ycombinator.com/item?id=36171591) - [Supreme Court sides with Slack, putting direct listings in jeopardy](https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy)
 * [2023-06-02, 22:19:05](https://news.ycombinator.com/item?id=36171543) - [Infrastructure Should Be Boring](https://www.dragonflydb.io/blog/infrastructure-should-be-boring)
 * [2023-06-02, 22:16:33](https://news.ycombinator.com/item?id=36171514) - [2022Q4 real compensation revised downward to -4.7% from +0.7%](https://www.bls.gov/news.release/prod2.nr0.htm)
+* [2023-06-02, 21:51:34](https://news.ycombinator.com/item?id=36171257) - [Chronicler of the Flower Moon](https://www.theringer.com/movies/2023/5/18/23727763/david-grann-killers-of-the-flower-moon-cannes-film-festival)
 * [2023-06-02, 21:22:13](https://news.ycombinator.com/item?id=36170910) - [Christopher Strachey and the dawn of interactive text](https://if50.substack.com/p/christopher-strachey-and-the-dawn)
 * [2023-06-02, 21:12:00](https://news.ycombinator.com/item?id=36170800) - [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com/)
 * [2023-06-02, 21:00:46](https://news.ycombinator.com/item?id=36170689) - [OneSignal (YC S11) is hiring a data and analytics specialist](https://onesignal.com/careers/4007708006)
