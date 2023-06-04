@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 07:48:06](https://news.ycombinator.com/item?id=36183824) - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
+* [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
 * [2023-06-04, 01:01:51](https://news.ycombinator.com/item?id=36182016) - [It could cost $21B to clean up California’s oil sites, study finds](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
 * [2023-06-03, 23:27:39](https://news.ycombinator.com/item?id=36181518) - [OpenAI's plans according to Sam Altman](https://web.archive.org/web/20230601000258/https://website-nm4keew22-humanloopml.vercel.app/blog/openai-plans)
 * [2023-06-03, 22:38:18](https://news.ycombinator.com/item?id=36181184) - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
@@ -13,7 +15,6 @@
 * [2023-06-03, 17:06:10](https://news.ycombinator.com/item?id=36178380) - [Literate Configuration of Elfeed](https://michal.sapka.me/2023/elfeed-literate-config/)
 * [2023-06-03, 17:02:13](https://news.ycombinator.com/item?id=36178332) - [Running Apple 1 software on a breadboard computer (Wozmon) [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
 * [2023-06-03, 17:00:57](https://news.ycombinator.com/item?id=36178320) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
-* [2023-06-03, 16:56:39](https://news.ycombinator.com/item?id=36178265) - [Don’t store cash in Venmo and PayPal, US regulator warns](https://www.cnn.com/2023/06/02/investing/payment-apps-safety/index.html)
 * [2023-06-03, 16:45:04](https://news.ycombinator.com/item?id=36178171) - [The Original AI Doomer: Dr. Norbert Wiener](https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert)
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
@@ -29,7 +30,6 @@
 * [2023-06-02, 20:58:15](https://news.ycombinator.com/item?id=36170657) - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
-* [2023-06-01, 16:28:44](https://news.ycombinator.com/item?id=36153520) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
 
 ## [Archives](archives/index.md)
 
