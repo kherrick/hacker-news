@@ -26,9 +26,9 @@
 * [2023-06-03, 13:20:53](https://news.ycombinator.com/item?id=36176461) - [Hash Functions](https://papa.bretmulvey.com/post/124027987928/hash-functions)
 * [2023-06-03, 09:14:33](https://news.ycombinator.com/item?id=36175003) - [Office-Tickler (1888) [pdf]](https://patentimages.storage.googleapis.com/28/0f/33/8e7a624128a068/US377335.pdf)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
-* [2023-06-03, 01:23:22](https://news.ycombinator.com/item?id=36172785) - [The Hottest New Home Amenity? Cold Plunge](https://www.wsj.com/articles/cold-plunge-for-the-home-a836fe17)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
+* [2023-06-01, 19:18:09](https://news.ycombinator.com/item?id=36156009) - [The diffusion of scientific discovery](https://tchristos.com/post/scientific-process/)
 * [2023-06-01, 09:08:09](https://news.ycombinator.com/item?id=36148898) - [Torpillage neurologists of WW1, Electric therapy to send hysterics back to front](https://n.neurology.org/content/75/3/279)
 
 ## [Archives](archives/index.md)
