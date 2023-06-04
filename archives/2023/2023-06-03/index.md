@@ -71,6 +71,7 @@
 * [2023-06-03, 09:06:43](https://news.ycombinator.com/item?id=36174966) - [New warning messages might as well be fatal errors](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/FatalWarnings)
 * [2023-06-03, 08:50:37](https://news.ycombinator.com/item?id=36174893) - [Mementos: System Support for Long-Running Computation on RFID-Scale Devices](https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off)
 * [2023-06-03, 08:50:26](https://news.ycombinator.com/item?id=36174892) - [Sleight-of-hand magic trick only fools monkeys with opposable thumbs](https://www.cam.ac.uk/research/news/sleight-of-hand-magic-trick-only-fools-monkeys-with-opposable-thumbs)
+* [2023-06-03, 08:33:13](https://news.ycombinator.com/item?id=36174815) - [Show HN: Google Code Jam Archive](https://zibada.guru/gcj/)
 * [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/ml/fedora-devel/20230601183054.12057.45907@mailman01.iad2.fedoraproject.org/)
 * [2023-06-03, 08:30:45](https://news.ycombinator.com/item?id=36174801) - [Red Hat dropping support for LibreOffice](https://lwn.net/Articles/933525/)
 * [2023-06-03, 08:28:57](https://news.ycombinator.com/item?id=36174792) - [Color Photos of Stalin-Era Soviet Union Taken by a US Spy](https://rarehistoricalphotos.com/stalin-era-soviet-union-pictures-martin-manhoff/)
