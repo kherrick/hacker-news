@@ -43,6 +43,7 @@
 * [2023-06-03, 16:14:49](https://news.ycombinator.com/item?id=36177866) - [The Perils of Niching Down](https://www.ungatedcreative.com/p/the-perils-of-niching-down)
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
+* [2023-06-03, 16:03:47](https://news.ycombinator.com/item?id=36177756) - [MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
 * [2023-06-03, 15:31:51](https://news.ycombinator.com/item?id=36177453) - [Lisa: Steve Jobs’ sabotage and Apple’s burial](https://www.youtube.com/watch?v=rZjbNWgsDt8)
 * [2023-06-03, 15:18:57](https://news.ycombinator.com/item?id=36177336) - [New Security Warning Issued for Google's 1.8B Gmail Users](https://www.forbes.com/sites/gordonkelly/2023/06/03/google-gmail-problem-new-security-warning-sender-verification/)
 * [2023-06-03, 15:17:06](https://news.ycombinator.com/item?id=36177320) - [Framework Laptop 16 Deep Dive: Display](https://frame.work/blog/framework-laptop-16-deep-dive---display)

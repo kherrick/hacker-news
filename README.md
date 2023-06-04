@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 16:33:50](https://news.ycombinator.com/item?id=36186992) - [BlackRock Is Forcing ESG Behavior on Companies (2022)](https://www.iwf.org/2022/10/05/blackrock-is-forcing-esg-behavior-on-companies/)
 * [2023-06-04, 15:40:18](https://news.ycombinator.com/item?id=36186466) - [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
 * [2023-06-04, 15:38:00](https://news.ycombinator.com/item?id=36186445) - [Child Labor Is on the Rise](https://www.newyorker.com/magazine/2023/06/12/child-labor-is-on-the-rise)
 * [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
@@ -10,13 +11,11 @@
 * [2023-06-04, 14:30:01](https://news.ycombinator.com/item?id=36185872) - [At last, the Raspberry Pi shortage is finally coming to an end](https://www.pcworld.com/article/1939160/at-last-the-raspberry-pi-shortage-is-finally-coming-to-an-end.html)
 * [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 14:11:20](https://news.ycombinator.com/item?id=36185731) - [Mastodon provides the highest (over 12%) engagement under posts](https://climatejustice.rocks/@kathhayhoe/110436657882930430)
-* [2023-06-04, 13:55:45](https://news.ycombinator.com/item?id=36185634) - [Readers reply: what are the best defunct products and overlooked innovations?](https://www.theguardian.com/lifeandstyle/2023/jun/04/readers-reply-what-are-the-best-defunct-products-and-overlooked-innovations)
 * [2023-06-04, 13:34:26](https://news.ycombinator.com/item?id=36185477) - [Uncle Sam wants DEF CON hackers to pwn this Moonlighter satellite in space](https://www.theregister.com/2023/06/03/moonlighter_satellite_hacking/)
 * [2023-06-04, 13:03:31](https://news.ycombinator.com/item?id=36185291) - [Pentagon contracting Starlink to provide satellite communications for Ukraine](https://defensescoop.com/2023/06/01/pentagon-contracting-with-spacexs-starlink-to-provide-satellite-communication-capabilities-for-ukraine/)
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 12:41:30](https://news.ycombinator.com/item?id=36185173) - [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
 * [2023-06-04, 12:31:44](https://news.ycombinator.com/item?id=36185107) - [Blood test for 50 types of cancer could speed up diagnosis, study suggests](https://www.theguardian.com/science/2023/jun/02/blood-test-50-types-cancer-could-speed-up-patient-diagnosis-study)
-* [2023-06-04, 12:23:14](https://news.ycombinator.com/item?id=36185052) - [The AI firm that conducted ‘state surveillance’ of your social media posts](https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/)
 * [2023-06-04, 12:04:24](https://news.ycombinator.com/item?id=36184948) - [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
 * [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
 * [2023-06-04, 10:10:16](https://news.ycombinator.com/item?id=36184417) - [Rowan Atkinson on free speech (2012) [video]](https://www.youtube.com/watch?v=xUezfuy8Qpc)
@@ -28,6 +27,7 @@
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
 * [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
+* [2023-06-03, 16:03:47](https://news.ycombinator.com/item?id=36177756) - [MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
 * [2023-06-03, 14:13:50](https://news.ycombinator.com/item?id=36176844) - [Atomic Tourism](https://www.wsj.com/articles/inside-atomic-tourism-c834b3f4)
 * [2023-06-02, 20:05:29](https://news.ycombinator.com/item?id=36170061) - [How Malicious extensions hide running arbitrary code](https://palant.info/2023/06/02/how-malicious-extensions-hide-running-arbitrary-code/)
 
