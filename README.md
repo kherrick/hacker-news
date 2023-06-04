@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
 * [2023-06-04, 15:06:51](https://news.ycombinator.com/item?id=36186176) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 14:56:43](https://news.ycombinator.com/item?id=36186080) - [High Prices Make Textbook ‘Piracy’ Acceptable to Most Students](https://torrentfreak.com/high-prices-make-textbook-piracy-acceptable-to-most-students-230604/)
@@ -21,7 +22,6 @@
 * [2023-06-04, 11:02:03](https://news.ycombinator.com/item?id=36184640) - [Trick Yourself into Breaking a Bad Habit](https://hbr.org/2016/01/trick-yourself-into-breaking-a-bad-habit)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
-* [2023-06-04, 08:35:07](https://news.ycombinator.com/item?id=36184039) - [Rsh: Ruby SHell](https://github.com/isene/rsh)
 * [2023-06-04, 07:48:06](https://news.ycombinator.com/item?id=36183824) - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
 * [2023-06-04, 07:36:30](https://news.ycombinator.com/item?id=36183785) - [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)

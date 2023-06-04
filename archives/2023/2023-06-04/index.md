@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
 * [2023-06-04, 15:06:51](https://news.ycombinator.com/item?id=36186176) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 14:56:43](https://news.ycombinator.com/item?id=36186080) - [High Prices Make Textbook ‘Piracy’ Acceptable to Most Students](https://torrentfreak.com/high-prices-make-textbook-piracy-acceptable-to-most-students-230604/)
