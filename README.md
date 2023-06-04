@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [2023-06-04, 20:01:46](https://news.ycombinator.com/item?id=36189027) - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
+* [2023-06-04, 19:54:00](https://news.ycombinator.com/item?id=36188948) - [More shell, less egg (2011)](https://leancrew.com/all-this/2011/12/more-shell-less-egg/)
 * [2023-06-04, 18:48:05](https://news.ycombinator.com/item?id=36188304) - [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
@@ -17,7 +19,6 @@
 * [2023-06-04, 14:56:43](https://news.ycombinator.com/item?id=36186080) - [High prices make textbook ‘piracy’ acceptable to most students](https://torrentfreak.com/high-prices-make-textbook-piracy-acceptable-to-most-students-230604/)
 * [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
-* [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
@@ -28,7 +29,6 @@
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-03, 18:03:24](https://news.ycombinator.com/item?id=36178942) - [Reduce vs. Fold in Common Lisp](https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/)
 * [2023-06-03, 16:03:47](https://news.ycombinator.com/item?id=36177756) - [MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
-* [2023-06-03, 14:13:50](https://news.ycombinator.com/item?id=36176844) - [Atomic Tourism](https://www.wsj.com/articles/inside-atomic-tourism-c834b3f4)
 * [2023-06-03, 10:15:59](https://news.ycombinator.com/item?id=36175307) - [The 10th European Tramdriver Championship [video]](https://www.youtube.com/watch?v=GMI7UaJMwWs)
 
 ## [Archives](archives/index.md)

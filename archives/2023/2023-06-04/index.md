@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [2023-06-04, 20:01:46](https://news.ycombinator.com/item?id=36189027) - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [2023-06-04, 19:54:00](https://news.ycombinator.com/item?id=36188948) - [More shell, less egg (2011)](https://leancrew.com/all-this/2011/12/more-shell-less-egg/)
