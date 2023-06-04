@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 14:11:20](https://news.ycombinator.com/item?id=36185731) - [Mastodon provides the highest (over 12%) engagement under posts](https://climatejustice.rocks/@kathhayhoe/110436657882930430)
 * [2023-06-04, 13:36:56](https://news.ycombinator.com/item?id=36185501) - [Why Venus Is So Bright Right Now](https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/)
 * [2023-06-04, 13:34:26](https://news.ycombinator.com/item?id=36185477) - [Uncle Sam wants DEF CON hackers to pwn this Moonlighter satellite in space](https://www.theregister.com/2023/06/03/moonlighter_satellite_hacking/)

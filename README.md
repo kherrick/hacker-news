@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 14:11:20](https://news.ycombinator.com/item?id=36185731) - [Mastodon provides the highest (over 12%) engagement under posts](https://climatejustice.rocks/@kathhayhoe/110436657882930430)
 * [2023-06-04, 13:36:56](https://news.ycombinator.com/item?id=36185501) - [Why Venus Is So Bright Right Now](https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/)
 * [2023-06-04, 13:34:26](https://news.ycombinator.com/item?id=36185477) - [Uncle Sam wants DEF CON hackers to pwn this Moonlighter satellite in space](https://www.theregister.com/2023/06/03/moonlighter_satellite_hacking/)
@@ -16,7 +17,6 @@
 * [2023-06-04, 11:02:03](https://news.ycombinator.com/item?id=36184640) - [Trick Yourself into Breaking a Bad Habit](https://hbr.org/2016/01/trick-yourself-into-breaking-a-bad-habit)
 * [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
-* [2023-06-04, 09:43:11](https://news.ycombinator.com/item?id=36184315) - [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2023-06-04, 08:35:07](https://news.ycombinator.com/item?id=36184039) - [Rsh: Ruby SHell](https://github.com/isene/rsh)
 * [2023-06-04, 07:48:06](https://news.ycombinator.com/item?id=36183824) - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
