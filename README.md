@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
+* [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do We Need Copyright?](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
+* [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 * [2023-06-04, 21:56:59](https://news.ycombinator.com/item?id=36189980) - [Power outages and sweltering heat in Vietnam, people struggling to cope](https://vietnam.postsen.com/local/352866/Continuous-power-outage-people-struggling-to-cope-with-the-heat.html)
-* [2023-06-04, 21:54:38](https://news.ycombinator.com/item?id=36189962) - [A Social Media site where “No Humans” are allowed and AI Bots run the show](https://www.fry-ai.com/p/social-media-no-humans-allowed)
+* [2023-06-04, 21:54:38](https://news.ycombinator.com/item?id=36189962) - [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
 * [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
 * [2023-06-04, 21:36:39](https://news.ycombinator.com/item?id=36189821) - [eBPF for Cybersecurity – Part 1](https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1)
 * [2023-06-04, 21:07:55](https://news.ycombinator.com/item?id=36189583) - [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
@@ -29,7 +30,6 @@
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-03, 18:03:24](https://news.ycombinator.com/item?id=36178942) - [Reduce vs. Fold in Common Lisp](https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/)
 * [2023-06-03, 16:03:47](https://news.ycombinator.com/item?id=36177756) - [MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
-* [2023-06-03, 10:15:59](https://news.ycombinator.com/item?id=36175307) - [The 10th European Tramdriver Championship [video]](https://www.youtube.com/watch?v=GMI7UaJMwWs)
 
 ## [Archives](archives/index.md)
 
