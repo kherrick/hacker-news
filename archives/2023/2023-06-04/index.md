@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
 * [2023-06-04, 18:56:30](https://news.ycombinator.com/item?id=36188390) - [OpenAI is getting sued for being biased with Y Combinator](https://twitter.com/short_straw/status/1655352280202313734)
+* [2023-06-04, 18:48:05](https://news.ycombinator.com/item?id=36188304) - [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-06-04, 17:55:02](https://news.ycombinator.com/item?id=36187744) - [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
