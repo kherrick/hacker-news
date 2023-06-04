@@ -74,6 +74,7 @@
 * [2023-06-03, 10:43:02](https://news.ycombinator.com/item?id=36175437) - [Stop Eliminating Perfectly Good Candidates by Asking Them the Wrong Questions](https://hbr.org/2019/03/stop-eliminating-perfectly-good-candidates-by-asking-them-the-wrong-questions)
 * [2023-06-03, 10:34:14](https://news.ycombinator.com/item?id=36175396) - [School district sues Meta, Google, and TikTok over ‘mental health crisis’](https://www.theverge.com/2023/6/2/23746904/maryland-school-meta-google-tiktok-snap-lawsuit)
 * [2023-06-03, 10:18:13](https://news.ycombinator.com/item?id=36175315) - [Ask HN: What other news feeds do you read besides Hacker News?](https://news.ycombinator.com/item?id=36175315)
+* [2023-06-03, 10:15:59](https://news.ycombinator.com/item?id=36175307) - [The 10th European Tramdriver Championship [video]](https://www.youtube.com/watch?v=GMI7UaJMwWs)
 * [2023-06-03, 10:02:44](https://news.ycombinator.com/item?id=36175242) - [Ted Chiang: ‘The machines we have now are not conscious’](https://www.ft.com/content/c1f6d948-3dde-405f-924c-09cc0dcf8c84)
 * [2023-06-03, 09:14:33](https://news.ycombinator.com/item?id=36175003) - [Office-Tickler (1888) [pdf]](https://patentimages.storage.googleapis.com/28/0f/33/8e7a624128a068/US377335.pdf)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
