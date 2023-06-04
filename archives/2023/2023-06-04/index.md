@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
 * [2023-06-04, 11:39:54](https://news.ycombinator.com/item?id=36184818) - [CEO Update: Paving the road forward with AI and community at the center](https://stackoverflow.blog/2023/05/31/ceo-update-paving-the-road-forward-with-ai-and-community-at-the-center/)
+* [2023-06-04, 11:02:03](https://news.ycombinator.com/item?id=36184640) - [Trick Yourself into Breaking a Bad Habit](https://hbr.org/2016/01/trick-yourself-into-breaking-a-bad-habit)
+* [2023-06-04, 10:53:20](https://news.ycombinator.com/item?id=36184605) - [Ask HN: Struggling with Productivity and Procrastination](https://news.ycombinator.com/item?id=36184605)
 * [2023-06-04, 10:17:50](https://news.ycombinator.com/item?id=36184440) - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 * [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
