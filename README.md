@@ -2,7 +2,6 @@
 
 * [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [Revealed: The secret push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
 * [2023-06-04, 03:37:47](https://news.ycombinator.com/item?id=36182873) - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
-* [2023-06-04, 01:41:35](https://news.ycombinator.com/item?id=36182208) - [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
 * [2023-06-04, 01:01:51](https://news.ycombinator.com/item?id=36182016) - [It Will Cost More Than Total Future Production to Clean Up California Oil Sites](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
 * [2023-06-03, 22:38:18](https://news.ycombinator.com/item?id=36181184) - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
 * [2023-06-03, 22:01:58](https://news.ycombinator.com/item?id=36180942) - [Manifesto on the Teaching of Mathematics](https://intellectualmathematics.com/manifesto/)
@@ -29,6 +28,7 @@
 * [2023-06-02, 21:51:34](https://news.ycombinator.com/item?id=36171257) - [Chronicler of the Flower Moon](https://www.theringer.com/movies/2023/5/18/23727763/david-grann-killers-of-the-flower-moon-cannes-film-festival)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
+* [2023-06-01, 16:28:44](https://news.ycombinator.com/item?id=36153520) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
 * [2023-06-01, 09:08:09](https://news.ycombinator.com/item?id=36148898) - [Torpillage neurologists of WW1, Electric therapy to send hysterics back to front](https://n.neurology.org/content/75/3/279)
 
 ## [Archives](archives/index.md)
