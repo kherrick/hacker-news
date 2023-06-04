@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 13:36:56](https://news.ycombinator.com/item?id=36185501) - [Why Venus Is So Bright Right Now](https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/)
 * [2023-06-04, 13:22:16](https://news.ycombinator.com/item?id=36185394) - [Meta Is Trying, and Failing, to Crush Unions in Kenya](https://jacobin.com/2023/06/meta-is-trying-and-failing-to-crush-unions-in-kenya)
 * [2023-06-04, 13:03:31](https://news.ycombinator.com/item?id=36185291) - [Pentagon contracting Starlink to provide satellite communications for Ukraine](https://defensescoop.com/2023/06/01/pentagon-contracting-with-spacexs-starlink-to-provide-satellite-communication-capabilities-for-ukraine/)
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
