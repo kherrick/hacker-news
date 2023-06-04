@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 17:24:17](https://news.ycombinator.com/item?id=36187466) - [Llama.cpp can do 40 tok/s on M2 Max, 0% CPU usage, using all 38 GPU cores](https://twitter.com/natfriedman/status/1665402680376987648)
 * [2023-06-04, 16:58:28](https://news.ycombinator.com/item?id=36187203) - [World’s oceans at record high temperature for 80 consecutive days](https://climatereanalyzer.org/clim/sst_daily/)
 * [2023-06-04, 16:55:01](https://news.ycombinator.com/item?id=36187174) - [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
 * [2023-06-04, 16:33:50](https://news.ycombinator.com/item?id=36186992) - [BlackRock Is Forcing ESG Behavior on Companies (2022)](https://www.iwf.org/2022/10/05/blackrock-is-forcing-esg-behavior-on-companies/)
