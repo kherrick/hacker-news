@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+* [2023-06-04, 17:50:21](https://news.ycombinator.com/item?id=36187705) - [Popular Subreddits are organizing a strike on 2023-06-12 b/c high API prices](https://old.reddit.com/r/LifeProTips/comments/140b6q6/rlifeprotips_will_be_going_dark_from_june_1214_in/)
+* [2023-06-04, 17:33:52](https://news.ycombinator.com/item?id=36187556) - [Show HN: SQL Dry Runs with SQL Simulator](https://www.tribalknowledge.tech/blog/top-6-questions-about-doing-a-sql-dry-run-with-sql-simulator)
+* [2023-06-04, 17:33:24](https://news.ycombinator.com/item?id=36187550) - [WFH – Watched from Home: Office 365 and workplace surveillance creep](https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep)
 * [2023-06-04, 17:24:17](https://news.ycombinator.com/item?id=36187466) - [Llama.cpp can do 40 tok/s on M2 Max, 0% CPU usage, using all 38 GPU cores](https://twitter.com/natfriedman/status/1665402680376987648)
 * [2023-06-04, 16:58:28](https://news.ycombinator.com/item?id=36187203) - [World’s oceans at record high temperature for 80 consecutive days](https://climatereanalyzer.org/clim/sst_daily/)
 * [2023-06-04, 16:55:01](https://news.ycombinator.com/item?id=36187174) - [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
