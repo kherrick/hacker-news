@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-04, 10:17:50",
+      "https://news.ycombinator.com/item?id=36184440"
+    ],
+    [
+      "Retiring the AWS Documentation on GitHub",
+      "https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 10:14:07",
+      "https://news.ycombinator.com/item?id=36184428"
+    ],
+    [
+      "V8 Maglev: compiler design doc",
+      "https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 10:06:59",
       "https://news.ycombinator.com/item?id=36184400"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2023-06-03, 17:00:57",
-      "https://news.ycombinator.com/item?id=36178320"
-    ],
-    [
-      "Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing",
-      "https://news.ycombinator.com/item?id=36178320"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 16:04:16",
       "https://news.ycombinator.com/item?id=36177762"
     ],
@@ -227,16 +237,6 @@
     [
       "Jean Monnet: The Guerilla Bureaucrat (2021)",
       "https://250bpm.com/blog:174/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 14:02:54",
-      "https://news.ycombinator.com/item?id=36176756"
-    ],
-    [
-      "Bytes are all you need: Transformers operating directly on file bytes",
-      "https://arxiv.org/abs/2306.00238"
     ]
   ],
   [
