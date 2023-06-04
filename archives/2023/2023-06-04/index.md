@@ -16,6 +16,7 @@
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
 * [2023-06-04, 07:36:30](https://news.ycombinator.com/item?id=36183785) - [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
+* [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 * [2023-06-04, 07:27:20](https://news.ycombinator.com/item?id=36183753) - [The Wembley Point Mystery](https://www.theguardian.com/lifeandstyle/2023/may/27/the-wembley-point-mystery-who-was-the-woman-who-jumped-to-her-death)
 * [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [Revealed: The secret push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
 * [2023-06-04, 03:37:47](https://news.ycombinator.com/item?id=36182873) - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
