@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 16:15:19](https://news.ycombinator.com/item?id=36186797) - [A woman is in custody after refusing tuberculosis treatment for more than a year](https://www.npr.org/2023/06/03/1179748072/tuberculosis-woman-arrested-tacoma-washington)
 * [2023-06-04, 15:40:18](https://news.ycombinator.com/item?id=36186466) - [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
 * [2023-06-04, 15:38:00](https://news.ycombinator.com/item?id=36186445) - [Child Labor Is on the Rise](https://www.newyorker.com/magazine/2023/06/12/child-labor-is-on-the-rise)
 * [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
@@ -15,7 +16,6 @@
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 12:41:30](https://news.ycombinator.com/item?id=36185173) - [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
 * [2023-06-04, 12:31:44](https://news.ycombinator.com/item?id=36185107) - [Blood test for 50 types of cancer could speed up diagnosis, study suggests](https://www.theguardian.com/science/2023/jun/02/blood-test-50-types-cancer-could-speed-up-patient-diagnosis-study)
-* [2023-06-04, 12:23:14](https://news.ycombinator.com/item?id=36185052) - [The AI firm that conducted ‘state surveillance’ of your social media posts](https://www.telegraph.co.uk/news/2023/06/03/logically-ai-firm-social-media-posts-covid/)
 * [2023-06-04, 12:04:24](https://news.ycombinator.com/item?id=36184948) - [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
 * [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
 * [2023-06-04, 10:10:16](https://news.ycombinator.com/item?id=36184417) - [Rowan Atkinson on free speech (2012) [video]](https://www.youtube.com/watch?v=xUezfuy8Qpc)

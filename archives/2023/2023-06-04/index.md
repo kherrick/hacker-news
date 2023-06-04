@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
 * [2023-06-04, 16:33:50](https://news.ycombinator.com/item?id=36186992) - [BlackRock Is Forcing ESG Behavior on Companies (2022)](https://www.iwf.org/2022/10/05/blackrock-is-forcing-esg-behavior-on-companies/)
+* [2023-06-04, 16:15:19](https://news.ycombinator.com/item?id=36186797) - [A woman is in custody after refusing tuberculosis treatment for more than a year](https://www.npr.org/2023/06/03/1179748072/tuberculosis-woman-arrested-tacoma-washington)
 * [2023-06-04, 15:40:18](https://news.ycombinator.com/item?id=36186466) - [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
 * [2023-06-04, 15:38:00](https://news.ycombinator.com/item?id=36186445) - [Child Labor Is on the Rise](https://www.newyorker.com/magazine/2023/06/12/child-labor-is-on-the-rise)
 * [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
