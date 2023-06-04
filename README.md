@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 14:27:55](https://news.ycombinator.com/item?id=36185856) - [Universal basic income of £1,600 a month to be trialled in England](https://www.theguardian.com/society/2023/jun/04/universal-basic-income-of-1600-pounds-a-month-to-be-trialled-in-england)
 * [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 14:11:20](https://news.ycombinator.com/item?id=36185731) - [Mastodon provides the highest (over 12%) engagement under posts](https://climatejustice.rocks/@kathhayhoe/110436657882930430)
 * [2023-06-04, 13:36:56](https://news.ycombinator.com/item?id=36185501) - [Why Venus Is So Bright Right Now](https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/)
@@ -15,7 +16,6 @@
 * [2023-06-04, 12:04:24](https://news.ycombinator.com/item?id=36184948) - [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
 * [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
 * [2023-06-04, 11:02:03](https://news.ycombinator.com/item?id=36184640) - [Trick Yourself into Breaking a Bad Habit](https://hbr.org/2016/01/trick-yourself-into-breaking-a-bad-habit)
-* [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2023-06-04, 08:35:07](https://news.ycombinator.com/item?id=36184039) - [Rsh: Ruby SHell](https://github.com/isene/rsh)
@@ -25,10 +25,10 @@
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
 * [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 * [2023-06-04, 07:27:20](https://news.ycombinator.com/item?id=36183753) - [The Wembley Point Mystery](https://www.theguardian.com/lifeandstyle/2023/may/27/the-wembley-point-mystery-who-was-the-woman-who-jumped-to-her-death)
-* [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS (2022)](https://ciechanow.ski/gps/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 17:07:58](https://news.ycombinator.com/item?id=36178401) - [Burrowing Bunnies in Wales Unearth Trove of Prehistoric Artifacts](https://www.smithsonianmag.com/smart-news/prehistoric-tools-uncovered-wales-bunnies-180977350/)
 * [2023-06-03, 08:33:13](https://news.ycombinator.com/item?id=36174815) - [Show HN: Google Code Jam Archive](https://zibada.guru/gcj/)
+* [2023-06-02, 20:05:29](https://news.ycombinator.com/item?id=36170061) - [How Malicious extensions hide running arbitrary code](https://palant.info/2023/06/02/how-malicious-extensions-hide-running-arbitrary-code/)
 * [2023-06-02, 19:16:28](https://news.ycombinator.com/item?id=36169520) - [Proven (Dot Lol)](https://omglol.news/2023/04/14/introducing-proven-dot-lol)
 
 ## [Archives](archives/index.md)

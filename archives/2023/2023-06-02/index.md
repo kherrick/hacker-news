@@ -17,6 +17,7 @@
 * [2023-06-02, 20:14:59](https://news.ycombinator.com/item?id=36170157) - [Deep-brain stimulation during sleep strengthens memory: study](https://www.uclahealth.org/news/deep-brain-stimulation-during-sleep-strengthens-memory)
 * [2023-06-02, 20:14:06](https://news.ycombinator.com/item?id=36170143) - [Reddit effectively kills off third party apps](https://old.reddit.com/r/RedReader/comments/13ylk42/update_3_reddit_effectively_kills_off_third_party/)
 * [2023-06-02, 20:09:31](https://news.ycombinator.com/item?id=36170105) - [US military has been observing ‘metallic orbs’ making extraordinary ‘maneuvers’](https://thehill.com/opinion/national-security/4030026-us-military-has-been-observing-metallic-orbs-making-extraordinary-maneuvers/)
+* [2023-06-02, 20:05:29](https://news.ycombinator.com/item?id=36170061) - [How Malicious extensions hide running arbitrary code](https://palant.info/2023/06/02/how-malicious-extensions-hide-running-arbitrary-code/)
 * [2023-06-02, 19:57:51](https://news.ycombinator.com/item?id=36169999) - [Moratorium on freaking out about AI](https://kyledrake.com/writings/ai)
 * [2023-06-02, 19:57:07](https://news.ycombinator.com/item?id=36169992) - [Oracle Cloud is having a major outage](https://news.ycombinator.com/item?id=36169992)
 * [2023-06-02, 19:49:56](https://news.ycombinator.com/item?id=36169954) - [Brute.Fail Watch brute force attacks in real time](https://brute.fail/)
