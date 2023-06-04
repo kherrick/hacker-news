@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-06-04, 01:01:51",
+      "https://news.ycombinator.com/item?id=36182016"
+    ],
+    [
+      "It could cost $21B to clean up California’s oil sites, study finds",
+      "https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 23:27:39",
       "https://news.ycombinator.com/item?id=36181518"
     ],
@@ -57,6 +67,16 @@
     [
       "Induction of a torpor-like state in rodents by ultrasound",
       "https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 22:01:58",
+      "https://news.ycombinator.com/item?id=36180942"
+    ],
+    [
+      "Manifesto on the Teaching of Mathematics (2015)",
+      "https://intellectualmathematics.com/manifesto/"
     ]
   ],
   [
@@ -191,42 +211,12 @@
   ],
   [
     [
-      "2023-06-03, 14:35:26",
-      "https://news.ycombinator.com/item?id=36177030"
-    ],
-    [
-      "How we learned that bees can tell time (2021)",
-      "https://www.popsci.com/science/how-bees-tell-time-weirdest-thing-podcast/"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 14:25:51",
-      "https://news.ycombinator.com/item?id=36176954"
-    ],
-    [
-      "Connect to your Raspberry Pi over USB using gadget mode",
-      "https://howchoo.com/pi/raspberry-pi-gadget-mode"
-    ]
-  ],
-  [
-    [
       "2023-06-03, 14:09:50",
       "https://news.ycombinator.com/item?id=36176807"
     ],
     [
       "Jean Monnet: The Guerilla Bureaucrat (2021)",
       "https://250bpm.com/blog:174/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 14:02:54",
-      "https://news.ycombinator.com/item?id=36176756"
-    ],
-    [
-      "Bytes are all you need: Transformers operating directly on file bytes",
-      "https://arxiv.org/abs/2306.00238"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "M.U.L.E. Online",
       "https://puzzud.itch.io/mule-online"
+    ]
+  ],
+  [
+    [
+      "2023-06-02, 04:40:48",
+      "https://news.ycombinator.com/item?id=36161129"
+    ],
+    [
+      "Building a Lox Interpreter in Julia",
+      "https://lukemerrick.com/posts/intro_to_julox.html"
     ]
   ]
 ]
