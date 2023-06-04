@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-03](index.md)
 
+* [2023-06-03, 23:27:39](https://news.ycombinator.com/item?id=36181518) - [OpenAI's plans according to Sam Altman](https://web.archive.org/web/20230601000258/https://website-nm4keew22-humanloopml.vercel.app/blog/openai-plans)
 * [2023-06-03, 23:00:51](https://news.ycombinator.com/item?id=36181333) - [Thought Cloning: Learning to Think While Acting by Imitating Human Thinking](https://arxiv.org/abs/2306.00323)
 * [2023-06-03, 22:38:18](https://news.ycombinator.com/item?id=36181184) - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
 * [2023-06-03, 22:02:01](https://news.ycombinator.com/item?id=36180944) - [Science and Technogy links (June 3 2023)](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
