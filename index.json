@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-06-04, 01:41:35",
-      "https://news.ycombinator.com/item?id=36182208"
-    ],
-    [
-      "Atomic Wallet exploited, users report loss of entire portfolios",
-      "https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios"
-    ]
-  ],
-  [
-    [
       "2023-06-04, 01:01:51",
       "https://news.ycombinator.com/item?id=36182016"
     ],
@@ -287,6 +277,16 @@
     [
       "Building a Lox Interpreter in Julia",
       "https://lukemerrick.com/posts/intro_to_julox.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-01, 16:28:44",
+      "https://news.ycombinator.com/item?id=36153520"
+    ],
+    [
+      "A locking war story",
+      "https://swatinem.de/blog/locking-war-story/"
     ]
   ],
   [
