@@ -25,7 +25,7 @@
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
 * [2023-06-04, 07:36:30](https://news.ycombinator.com/item?id=36183785) - [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
-* [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
+* [2023-06-04, 07:27:36](https://news.ycombinator.com/item?id=36183754) - [Chess Tournament Games and Elo Ratings (2014)](https://randalolson.com/2014/05/24/chess-tournament-matches-and-elo-ratings/?ref=thebrowser.com)
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-03, 16:03:47](https://news.ycombinator.com/item?id=36177756) - [MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
 * [2023-06-03, 14:13:50](https://news.ycombinator.com/item?id=36176844) - [Atomic Tourism](https://www.wsj.com/articles/inside-atomic-tourism-c834b3f4)

@@ -54,6 +54,7 @@
 * [2023-06-04, 07:36:30](https://news.ycombinator.com/item?id=36183785) - [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
 * [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
+* [2023-06-04, 07:27:36](https://news.ycombinator.com/item?id=36183754) - [Chess Tournament Games and Elo Ratings (2014)](https://randalolson.com/2014/05/24/chess-tournament-matches-and-elo-ratings/?ref=thebrowser.com)
 * [2023-06-04, 07:27:20](https://news.ycombinator.com/item?id=36183753) - [The Wembley Point Mystery](https://www.theguardian.com/lifeandstyle/2023/may/27/the-wembley-point-mystery-who-was-the-woman-who-jumped-to-her-death)
 * [2023-06-04, 07:25:05](https://news.ycombinator.com/item?id=36183743) - [The Madman as Painter (2016)](https://www.city-journal.org/article/the-madman-as-painter)
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
