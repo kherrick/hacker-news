@@ -9,6 +9,7 @@
 * [2023-06-04, 21:56:59](https://news.ycombinator.com/item?id=36189980) - [Power outages and sweltering heat in Vietnam, people struggling to cope](https://vietnam.postsen.com/local/352866/Continuous-power-outage-people-struggling-to-cope-with-the-heat.html)
 * [2023-06-04, 21:54:38](https://news.ycombinator.com/item?id=36189962) - [A Social Media site where “No Humans” are allowed and AI Bots run the show](https://www.fry-ai.com/p/social-media-no-humans-allowed)
 * [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
+* [2023-06-04, 21:48:56](https://news.ycombinator.com/item?id=36189920) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
 * [2023-06-04, 21:36:39](https://news.ycombinator.com/item?id=36189821) - [eBPF for Cybersecurity – Part 1](https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1)
 * [2023-06-04, 21:07:55](https://news.ycombinator.com/item?id=36189583) - [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
