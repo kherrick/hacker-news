@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [A push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
+* [2023-06-04, 01:41:35](https://news.ycombinator.com/item?id=36182208) - [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
 * [2023-06-04, 01:01:51](https://news.ycombinator.com/item?id=36182016) - [It could cost $21B to clean up California’s oil sites, study finds](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
 * [2023-06-03, 23:00:51](https://news.ycombinator.com/item?id=36181333) - [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
 * [2023-06-03, 22:38:18](https://news.ycombinator.com/item?id=36181184) - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
@@ -18,7 +19,6 @@
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 14:35:26](https://news.ycombinator.com/item?id=36177030) - [How we learned that bees can tell time (2021)](https://www.popsci.com/science/how-bees-tell-time-weirdest-thing-podcast/)
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Connect to your Raspberry Pi over USB using gadget mode](https://howchoo.com/pi/raspberry-pi-gadget-mode)
-* [2023-06-03, 14:25:24](https://news.ycombinator.com/item?id=36176947) - [EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks](https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats)
 * [2023-06-03, 14:09:50](https://news.ycombinator.com/item?id=36176807) - [Jean Monnet: The Guerilla Bureaucrat (2021)](https://250bpm.com/blog:174/index.html)
 * [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes are all you need: Transformers operating directly on file bytes](https://arxiv.org/abs/2306.00238)
 * [2023-06-03, 13:38:17](https://news.ycombinator.com/item?id=36176584) - [CodeCompose: A large-scale industrial deployment of AI-assisted code authoring](https://arxiv.org/abs/2305.12050)
