@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do We Need Copyright?](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
 * [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 * [2023-06-04, 21:56:59](https://news.ycombinator.com/item?id=36189980) - [Power outages and sweltering heat in Vietnam, people struggling to cope](https://vietnam.postsen.com/local/352866/Continuous-power-outage-people-struggling-to-cope-with-the-heat.html)
@@ -24,7 +25,6 @@
 * [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
-* [2023-06-04, 07:27:36](https://news.ycombinator.com/item?id=36183754) - [Chess Tournament Games and Elo Ratings (2014)](https://randalolson.com/2014/05/24/chess-tournament-matches-and-elo-ratings/?ref=thebrowser.com)
 * [2023-06-04, 07:22:51](https://news.ycombinator.com/item?id=36183733) - [Where the Wood-Wide Web Went Wrong](https://undark.org/2023/05/25/where-the-wood-wide-web-narrative-went-wrong/)
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-03, 18:03:24](https://news.ycombinator.com/item?id=36178942) - [Reduce vs. Fold in Common Lisp](https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/)
