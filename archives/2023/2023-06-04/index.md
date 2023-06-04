@@ -6,6 +6,8 @@
 
 * [2023-06-04, 07:48:06](https://news.ycombinator.com/item?id=36183824) - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
+* [2023-06-04, 07:36:30](https://news.ycombinator.com/item?id=36183785) - [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
+* [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
 * [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [Revealed: The secret push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
 * [2023-06-04, 03:37:47](https://news.ycombinator.com/item?id=36182873) - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
 * [2023-06-04, 01:41:35](https://news.ycombinator.com/item?id=36182208) - [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
