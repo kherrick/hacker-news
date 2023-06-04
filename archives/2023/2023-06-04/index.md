@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 13:03:31](https://news.ycombinator.com/item?id=36185291) - [Pentagon contracting Starlink to provide satellite communications for Ukraine](https://defensescoop.com/2023/06/01/pentagon-contracting-with-spacexs-starlink-to-provide-satellite-communication-capabilities-for-ukraine/)
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 12:41:30](https://news.ycombinator.com/item?id=36185173) - [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
+* [2023-06-04, 12:31:44](https://news.ycombinator.com/item?id=36185107) - [Blood test for 50 types of cancer could speed up diagnosis, study suggests](https://www.theguardian.com/science/2023/jun/02/blood-test-50-types-cancer-could-speed-up-patient-diagnosis-study)
 * [2023-06-04, 12:23:54](https://news.ycombinator.com/item?id=36185055) - [What Is Social Status?](https://robkhenderson.substack.com/p/what-is-social-status)
 * [2023-06-04, 12:04:24](https://news.ycombinator.com/item?id=36184948) - [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
 * [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)

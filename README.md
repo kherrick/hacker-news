@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 13:03:31](https://news.ycombinator.com/item?id=36185291) - [Pentagon contracting Starlink to provide satellite communications for Ukraine](https://defensescoop.com/2023/06/01/pentagon-contracting-with-spacexs-starlink-to-provide-satellite-communication-capabilities-for-ukraine/)
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 12:41:30](https://news.ycombinator.com/item?id=36185173) - [Lung cancer pill cuts risk of death by half](https://www.theguardian.com/science/2023/jun/04/lung-cancer-pill-cuts-risk-of-death-by-half-says-thrilling-study)
+* [2023-06-04, 12:31:44](https://news.ycombinator.com/item?id=36185107) - [Blood test for 50 types of cancer could speed up diagnosis, study suggests](https://www.theguardian.com/science/2023/jun/02/blood-test-50-types-cancer-could-speed-up-patient-diagnosis-study)
 * [2023-06-04, 12:23:54](https://news.ycombinator.com/item?id=36185055) - [What Is Social Status?](https://robkhenderson.substack.com/p/what-is-social-status)
 * [2023-06-04, 12:04:24](https://news.ycombinator.com/item?id=36184948) - [GitHub Private Repos Considered Private-­Ish](https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/)
 * [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
@@ -10,7 +12,6 @@
 * [2023-06-04, 10:53:20](https://news.ycombinator.com/item?id=36184605) - [Ask HN: Struggling with Productivity and Procrastination](https://news.ycombinator.com/item?id=36184605)
 * [2023-06-04, 10:17:50](https://news.ycombinator.com/item?id=36184440) - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 * [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
-* [2023-06-04, 10:10:16](https://news.ycombinator.com/item?id=36184417) - [Rowan Atkinson on free speech (2023)](https://www.youtube.com/watch?v=xUezfuy8Qpc)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 09:43:11](https://news.ycombinator.com/item?id=36184315) - [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
@@ -27,7 +28,6 @@
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 17:07:58](https://news.ycombinator.com/item?id=36178401) - [Burrowing Bunnies in Wales Unearth Trove of Prehistoric Artifacts](https://www.smithsonianmag.com/smart-news/prehistoric-tools-uncovered-wales-bunnies-180977350/)
 * [2023-06-03, 17:06:10](https://news.ycombinator.com/item?id=36178380) - [Literate Configuration of Elfeed](https://michal.sapka.me/2023/elfeed-literate-config/)
-* [2023-06-03, 09:14:33](https://news.ycombinator.com/item?id=36175003) - [Office-Tickler (1888) [pdf]](https://patentimages.storage.googleapis.com/28/0f/33/8e7a624128a068/US377335.pdf)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:33:13](https://news.ycombinator.com/item?id=36174815) - [Show HN: Google Code Jam Archive](https://zibada.guru/gcj/)
 
