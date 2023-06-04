@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 * [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
+* [2023-06-04, 21:07:55](https://news.ycombinator.com/item?id=36189583) - [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [2023-06-04, 20:01:46](https://news.ycombinator.com/item?id=36189027) - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [2023-06-04, 19:54:00](https://news.ycombinator.com/item?id=36188948) - [More shell, less egg (2011)](https://leancrew.com/all-this/2011/12/more-shell-less-egg/)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 * [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
+* [2023-06-04, 21:07:55](https://news.ycombinator.com/item?id=36189583) - [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [2023-06-04, 20:01:46](https://news.ycombinator.com/item?id=36189027) - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [2023-06-04, 19:54:00](https://news.ycombinator.com/item?id=36188948) - [More shell, less egg (2011)](https://leancrew.com/all-this/2011/12/more-shell-less-egg/)
@@ -22,8 +24,6 @@
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
-* [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
-* [2023-06-04, 07:32:22](https://news.ycombinator.com/item?id=36183767) - [Conjuring a fiction out of almost nothing](https://hedgehogreview.com/web-features/thr/posts/the-art-of-compression?ref=thebrowser.com)
 * [2023-06-04, 07:27:36](https://news.ycombinator.com/item?id=36183754) - [Chess Tournament Games and Elo Ratings (2014)](https://randalolson.com/2014/05/24/chess-tournament-matches-and-elo-ratings/?ref=thebrowser.com)
 * [2023-06-04, 07:22:51](https://news.ycombinator.com/item?id=36183733) - [Where the Wood-Wide Web Went Wrong](https://undark.org/2023/05/25/where-the-wood-wide-web-narrative-went-wrong/)
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
