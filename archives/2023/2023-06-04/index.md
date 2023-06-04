@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 10:17:50](https://news.ycombinator.com/item?id=36184440) - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
+* [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 09:43:11](https://news.ycombinator.com/item?id=36184315) - [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
 * [2023-06-04, 09:29:06](https://news.ycombinator.com/item?id=36184254) - [The end of the Silicon Valley dream](https://www.spectator.co.uk/article/the-end-of-the-silicon-valley-dream/)

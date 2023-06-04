@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 10:17:50](https://news.ycombinator.com/item?id=36184440) - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
+* [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 09:43:11](https://news.ycombinator.com/item?id=36184315) - [XB, or eXtreme Bullshitting: a less misleading name for LLMs](https://twitter.com/jawj/status/1665292410232995842)
 * [2023-06-04, 09:29:06](https://news.ycombinator.com/item?id=36184254) - [The end of the Silicon Valley dream](https://www.spectator.co.uk/article/the-end-of-the-silicon-valley-dream/)
@@ -20,10 +22,8 @@
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 18:14:37](https://news.ycombinator.com/item?id=36179073) - [The Making of a Mona Lisa Hologram](https://publishing.aip.org/publications/latest-content/the-making-of-a-mona-lisa-hologram/)
 * [2023-06-03, 17:06:10](https://news.ycombinator.com/item?id=36178380) - [Literate Configuration of Elfeed](https://michal.sapka.me/2023/elfeed-literate-config/)
-* [2023-06-03, 17:00:57](https://news.ycombinator.com/item?id=36178320) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
 * [2023-06-03, 14:09:50](https://news.ycombinator.com/item?id=36176807) - [Jean Monnet: The Guerilla Bureaucrat (2021)](https://250bpm.com/blog:174/index.html)
-* [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes are all you need: Transformers operating directly on file bytes](https://arxiv.org/abs/2306.00238)
 * [2023-06-03, 09:14:33](https://news.ycombinator.com/item?id=36175003) - [Office-Tickler (1888) [pdf]](https://patentimages.storage.googleapis.com/28/0f/33/8e7a624128a068/US377335.pdf)
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:33:13](https://news.ycombinator.com/item?id=36174815) - [Show HN: Google Code Jam Archive](https://zibada.guru/gcj/)
