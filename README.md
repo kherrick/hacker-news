@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
-* [2023-06-04, 19:38:04](https://news.ycombinator.com/item?id=36188793) - [Milk-V Duo is a $9.00 RISC-V tiny embedded computer](https://linuxgizmos.com/milk-v-duo-is-a-9-00-risc-v-tiny-embedded-computer/)
 * [2023-06-04, 18:48:05](https://news.ycombinator.com/item?id=36188304) - [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
@@ -26,6 +25,7 @@
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
 * [2023-06-04, 07:32:22](https://news.ycombinator.com/item?id=36183767) - [Conjuring a fiction out of almost nothing](https://hedgehogreview.com/web-features/thr/posts/the-art-of-compression?ref=thebrowser.com)
 * [2023-06-04, 07:27:36](https://news.ycombinator.com/item?id=36183754) - [Chess Tournament Games and Elo Ratings (2014)](https://randalolson.com/2014/05/24/chess-tournament-matches-and-elo-ratings/?ref=thebrowser.com)
+* [2023-06-04, 07:22:51](https://news.ycombinator.com/item?id=36183733) - [Where the Wood-Wide Web Went Wrong](https://undark.org/2023/05/25/where-the-wood-wide-web-narrative-went-wrong/)
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-03, 16:03:47](https://news.ycombinator.com/item?id=36177756) - [MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
 * [2023-06-03, 14:13:50](https://news.ycombinator.com/item?id=36176844) - [Atomic Tourism](https://www.wsj.com/articles/inside-atomic-tourism-c834b3f4)

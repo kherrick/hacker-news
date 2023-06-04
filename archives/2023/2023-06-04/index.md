@@ -70,6 +70,7 @@
 * [2023-06-04, 07:27:36](https://news.ycombinator.com/item?id=36183754) - [Chess Tournament Games and Elo Ratings (2014)](https://randalolson.com/2014/05/24/chess-tournament-matches-and-elo-ratings/?ref=thebrowser.com)
 * [2023-06-04, 07:27:20](https://news.ycombinator.com/item?id=36183753) - [The Wembley Point Mystery](https://www.theguardian.com/lifeandstyle/2023/may/27/the-wembley-point-mystery-who-was-the-woman-who-jumped-to-her-death)
 * [2023-06-04, 07:25:05](https://news.ycombinator.com/item?id=36183743) - [The Madman as Painter (2016)](https://www.city-journal.org/article/the-madman-as-painter)
+* [2023-06-04, 07:22:51](https://news.ycombinator.com/item?id=36183733) - [Where the Wood-Wide Web Went Wrong](https://undark.org/2023/05/25/where-the-wood-wide-web-narrative-went-wrong/)
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [Revealed: The secret push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
 * [2023-06-04, 03:37:47](https://news.ycombinator.com/item?id=36182873) - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
