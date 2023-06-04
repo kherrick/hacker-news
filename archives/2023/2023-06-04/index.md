@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
 * [2023-06-04, 14:30:01](https://news.ycombinator.com/item?id=36185872) - [At last, the Raspberry Pi shortage is finally coming to an end](https://www.pcworld.com/article/1939160/at-last-the-raspberry-pi-shortage-is-finally-coming-to-an-end.html)
 * [2023-06-04, 14:27:55](https://news.ycombinator.com/item?id=36185856) - [Universal basic income of £1,600 a month to be trialled in England](https://www.theguardian.com/society/2023/jun/04/universal-basic-income-of-1600-pounds-a-month-to-be-trialled-in-england)
 * [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
