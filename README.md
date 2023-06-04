@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 11:39:54](https://news.ycombinator.com/item?id=36184818) - [CEO Update: Paving the road forward with AI and community at the center](https://stackoverflow.blog/2023/05/31/ceo-update-paving-the-road-forward-with-ai-and-community-at-the-center/)
 * [2023-06-04, 10:17:50](https://news.ycombinator.com/item?id=36184440) - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 * [2023-06-04, 10:14:07](https://news.ycombinator.com/item?id=36184428) - [V8 Maglev: compiler design doc](https://docs.google.com/document/d/13CwgSL4yawxuYg3iNlM-4ZPCB8RgJya6b8H_E2F-Aek/edit?usp=sharing)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
@@ -18,7 +19,6 @@
 * [2023-06-03, 22:01:58](https://news.ycombinator.com/item?id=36180942) - [Manifesto on the Teaching of Mathematics (2015)](https://intellectualmathematics.com/manifesto/)
 * [2023-06-03, 21:33:32](https://news.ycombinator.com/item?id=36180742) - [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
 * [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS (2022)](https://ciechanow.ski/gps/)
-* [2023-06-03, 20:29:53](https://news.ycombinator.com/item?id=36180249) - [Git Blame-Someone-Else](https://github.com/jayphelps/git-blame-someone-else)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 18:14:37](https://news.ycombinator.com/item?id=36179073) - [The Making of a Mona Lisa Hologram](https://publishing.aip.org/publications/latest-content/the-making-of-a-mona-lisa-hologram/)
 * [2023-06-03, 17:06:10](https://news.ycombinator.com/item?id=36178380) - [Literate Configuration of Elfeed](https://michal.sapka.me/2023/elfeed-literate-config/)
