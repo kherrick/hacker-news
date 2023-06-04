@@ -46,6 +46,7 @@
 * [2023-06-03, 14:53:47](https://news.ycombinator.com/item?id=36177166) - [Ask HN: Did Anyone Else Here Simply Not Do Well at School?](https://news.ycombinator.com/item?id=36177166)
 * [2023-06-03, 14:39:21](https://news.ycombinator.com/item?id=36177057) - [100% Open Source CS:Go](https://lwss.github.io/Kisak-Strike/)
 * [2023-06-03, 14:37:55](https://news.ycombinator.com/item?id=36177048) - [Fallen Pizza Startup Zume Shuts Down After Raising Millions](https://www.bloomberg.com/news/articles/2023-06-03/fallen-pizza-startup-zume-shuts-down-after-raising-millions)
+* [2023-06-03, 14:35:26](https://news.ycombinator.com/item?id=36177030) - [What’s stranger than bees telling time? How we learned that they can (2021)](https://www.popsci.com/science/how-bees-tell-time-weirdest-thing-podcast/)
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:25:24](https://news.ycombinator.com/item?id=36176947) - [EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks](https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats)
 * [2023-06-03, 14:10:13](https://news.ycombinator.com/item?id=36176811) - [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)

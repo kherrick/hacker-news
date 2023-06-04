@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [A push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
-* [2023-06-04, 03:37:47](https://news.ycombinator.com/item?id=36182873) - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
-* [2023-06-04, 01:01:51](https://news.ycombinator.com/item?id=36182016) - [It Will Cost More Than Total Future Production to Clean Up California Oil Sites](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
+* [2023-06-04, 01:01:51](https://news.ycombinator.com/item?id=36182016) - [It could cost $21B to clean up California’s oil sites, study finds](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
+* [2023-06-03, 23:00:51](https://news.ycombinator.com/item?id=36181333) - [Thought Cloning: Learning to think while acting by imitating human thinking](https://arxiv.org/abs/2306.00323)
 * [2023-06-03, 22:38:18](https://news.ycombinator.com/item?id=36181184) - [Induction of a torpor-like state in rodents by ultrasound](https://www.livescience.com/health/consciousness/scientists-may-be-able-to-put-mars-bound-astronauts-into-suspended-animation-using-sound-waves-mouse-study-suggests)
 * [2023-06-03, 22:01:58](https://news.ycombinator.com/item?id=36180942) - [Manifesto on the Teaching of Mathematics](https://intellectualmathematics.com/manifesto/)
 * [2023-06-03, 21:33:32](https://news.ycombinator.com/item?id=36180742) - [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
@@ -17,7 +17,7 @@
 * [2023-06-03, 16:45:04](https://news.ycombinator.com/item?id=36178171) - [The Original AI Doomer: Dr. Norbert Wiener](https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert)
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
 * [2023-06-03, 16:04:16](https://news.ycombinator.com/item?id=36177762) - [This site is no longer solar powered for now](https://www.andrewjvpowell.com/articles/this-site-is-no-longer-solar-powered-for-now/)
-* [2023-06-03, 15:13:29](https://news.ycombinator.com/item?id=36177297) - [Scientists zap sleeping humans' brains with electricity to improve their memory](https://www.npr.org/sections/health-shots/2023/06/02/1179532666/electrical-pulses-that-synchronize-the-sleeping-brain-appear-to-boost-memory)
+* [2023-06-03, 14:35:26](https://news.ycombinator.com/item?id=36177030) - [What’s stranger than bees telling time? How we learned that they can (2021)](https://www.popsci.com/science/how-bees-tell-time-weirdest-thing-podcast/)
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Connect to your Raspberry Pi over USB using gadget mode](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:09:50](https://news.ycombinator.com/item?id=36176807) - [Jean Monnet: The Guerilla Bureaucrat (2021)](https://250bpm.com/blog:174/index.html)
 * [2023-06-03, 14:02:54](https://news.ycombinator.com/item?id=36176756) - [Bytes are all you need: Transformers operating directly on file bytes](https://arxiv.org/abs/2306.00238)
@@ -28,8 +28,8 @@
 * [2023-06-02, 21:51:34](https://news.ycombinator.com/item?id=36171257) - [Chronicler of the Flower Moon](https://www.theringer.com/movies/2023/5/18/23727763/david-grann-killers-of-the-flower-moon-cannes-film-festival)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
+* [2023-06-01, 19:18:09](https://news.ycombinator.com/item?id=36156009) - [The diffusion of scientific discovery](https://tchristos.com/post/scientific-process/)
 * [2023-06-01, 16:28:44](https://news.ycombinator.com/item?id=36153520) - [A locking war story](https://swatinem.de/blog/locking-war-story/)
-* [2023-06-01, 09:08:09](https://news.ycombinator.com/item?id=36148898) - [Torpillage neurologists of WW1, Electric therapy to send hysterics back to front](https://n.neurology.org/content/75/3/279)
 
 ## [Archives](archives/index.md)
 
