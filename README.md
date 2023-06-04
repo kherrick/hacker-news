@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-04, 19:38:04](https://news.ycombinator.com/item?id=36188793) - [Milk-V Duo is a $9.00 RISC-V tiny embedded computer](https://linuxgizmos.com/milk-v-duo-is-a-9-00-risc-v-tiny-embedded-computer/)
+* [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [2023-06-04, 18:48:05](https://news.ycombinator.com/item?id=36188304) - [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
