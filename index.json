@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-06-04, 01:41:35",
-      "https://news.ycombinator.com/item?id=36182208"
-    ],
-    [
-      "Atomic Wallet exploited, users report loss of entire portfolios",
-      "https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios"
-    ]
-  ],
-  [
-    [
       "2023-06-04, 01:01:51",
       "https://news.ycombinator.com/item?id=36182016"
     ],
@@ -187,6 +177,16 @@
     [
       "Connect to your Raspberry Pi over USB using gadget mode",
       "https://howchoo.com/pi/raspberry-pi-gadget-mode"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 14:25:24",
+      "https://news.ycombinator.com/item?id=36176947"
+    ],
+    [
+      "EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks",
+      "https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats"
     ]
   ],
   [
