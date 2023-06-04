@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2023-06-04, 07:48:06](https://news.ycombinator.com/item?id=36183824) - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
 * [2023-06-04, 07:36:30](https://news.ycombinator.com/item?id=36183785) - [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
@@ -26,7 +27,6 @@
 * [2023-06-03, 09:13:59](https://news.ycombinator.com/item?id=36175000) - [Fq: Jq for Binary Formats](https://github.com/wader/fq)
 * [2023-06-03, 08:33:13](https://news.ycombinator.com/item?id=36174815) - [Show HN: Google Code Jam Archive](https://zibada.guru/gcj/)
 * [2023-06-02, 21:51:34](https://news.ycombinator.com/item?id=36171257) - [Chronicler of the Flower Moon](https://www.theringer.com/movies/2023/5/18/23727763/david-grann-killers-of-the-flower-moon-cannes-film-festival)
-* [2023-06-02, 21:22:13](https://news.ycombinator.com/item?id=36170910) - [Christopher Strachey and the dawn of interactive text](https://if50.substack.com/p/christopher-strachey-and-the-dawn)
 * [2023-06-02, 20:58:15](https://news.ycombinator.com/item?id=36170657) - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
 * [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
