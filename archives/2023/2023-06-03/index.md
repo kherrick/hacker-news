@@ -55,6 +55,7 @@
 * [2023-06-03, 14:35:26](https://news.ycombinator.com/item?id=36177030) - [What’s stranger than bees telling time? How we learned that they can (2021)](https://www.popsci.com/science/how-bees-tell-time-weirdest-thing-podcast/)
 * [2023-06-03, 14:25:51](https://news.ycombinator.com/item?id=36176954) - [Configure a Raspberry Pi as a USB Device](https://howchoo.com/pi/raspberry-pi-gadget-mode)
 * [2023-06-03, 14:25:24](https://news.ycombinator.com/item?id=36176947) - [EBPFGuard: a Rust Library Mitigation of Threats Using LSM Hooks](https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats)
+* [2023-06-03, 14:13:50](https://news.ycombinator.com/item?id=36176844) - [Atomic Tourism](https://www.wsj.com/articles/inside-atomic-tourism-c834b3f4)
 * [2023-06-03, 14:10:13](https://news.ycombinator.com/item?id=36176811) - [The First Livestream from Mars](https://www.npr.org/2023/06/02/1179625793/mars-livestream)
 * [2023-06-03, 14:09:50](https://news.ycombinator.com/item?id=36176807) - [Jean Monnet: The Guerilla Bureaucrat](https://250bpm.com/blog:174/index.html)
 * [2023-06-03, 14:06:58](https://news.ycombinator.com/item?id=36176786) - [Supreme Court Rules Companies Can Sue Striking Workers for 'Sabotage'](https://www.vice.com/en/article/n7eejg/supreme-court-rules-companies-can-sue-striking-workers-for-sabotage-and-destruction-misses-entire-point-of-striking)

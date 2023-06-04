@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 15:40:18](https://news.ycombinator.com/item?id=36186466) - [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
 * [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
+* [2023-06-04, 15:26:08](https://news.ycombinator.com/item?id=36186348) - [AI Report #4: AutoGPT And Open-source lags behind Part 2](https://theaireport.substack.com/p/ai-report-4-autogpt-and-open-source)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
 * [2023-06-04, 15:06:51](https://news.ycombinator.com/item?id=36186176) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 14:56:43](https://news.ycombinator.com/item?id=36186080) - [High Prices Make Textbook ‘Piracy’ Acceptable to Most Students](https://torrentfreak.com/high-prices-make-textbook-piracy-acceptable-to-most-students-230604/)
@@ -47,6 +49,7 @@
 * [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 * [2023-06-04, 07:27:20](https://news.ycombinator.com/item?id=36183753) - [The Wembley Point Mystery](https://www.theguardian.com/lifeandstyle/2023/may/27/the-wembley-point-mystery-who-was-the-woman-who-jumped-to-her-death)
 * [2023-06-04, 07:25:05](https://news.ycombinator.com/item?id=36183743) - [The Madman as Painter (2016)](https://www.city-journal.org/article/the-madman-as-painter)
+* [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [Revealed: The secret push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
 * [2023-06-04, 03:37:47](https://news.ycombinator.com/item?id=36182873) - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
 * [2023-06-04, 01:41:35](https://news.ycombinator.com/item?id=36182208) - [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
