@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 09:29:06](https://news.ycombinator.com/item?id=36184254) - [The end of the Silicon Valley dream](https://www.spectator.co.uk/article/the-end-of-the-silicon-valley-dream/)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2023-06-04, 07:48:06](https://news.ycombinator.com/item?id=36183824) - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
@@ -15,7 +16,6 @@
 * [2023-06-03, 20:29:53](https://news.ycombinator.com/item?id=36180249) - [Git Blame-Someone-Else](https://github.com/jayphelps/git-blame-someone-else)
 * [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
-* [2023-06-03, 18:18:34](https://news.ycombinator.com/item?id=36179111) - [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
 * [2023-06-03, 18:14:37](https://news.ycombinator.com/item?id=36179073) - [The Making of a Mona Lisa Hologram](https://publishing.aip.org/publications/latest-content/the-making-of-a-mona-lisa-hologram/)
 * [2023-06-03, 17:06:10](https://news.ycombinator.com/item?id=36178380) - [Literate Configuration of Elfeed](https://michal.sapka.me/2023/elfeed-literate-config/)
 * [2023-06-03, 17:02:13](https://news.ycombinator.com/item?id=36178332) - [Running Apple 1 software on a breadboard computer (Wozmon) [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
