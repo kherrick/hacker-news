@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2023-06-03, 17:06:10",
+      "https://news.ycombinator.com/item?id=36178380"
+    ],
+    [
+      "Literate Configuration of Elfeed",
+      "https://michal.sapka.me/2023/elfeed-literate-config/"
+    ]
+  ],
+  [
+    [
       "2023-06-03, 17:02:13",
       "https://news.ycombinator.com/item?id=36178332"
     ],
@@ -207,16 +217,6 @@
     [
       "Bytes are all you need: Transformers operating directly on file bytes",
       "https://arxiv.org/abs/2306.00238"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 13:38:17",
-      "https://news.ycombinator.com/item?id=36176584"
-    ],
-    [
-      "CodeCompose: A large-scale industrial deployment of AI-assisted code authoring",
-      "https://arxiv.org/abs/2305.12050"
     ]
   ],
   [
