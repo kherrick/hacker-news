@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
+* [2023-06-04, 19:38:04](https://news.ycombinator.com/item?id=36188793) - [Milk-V Duo is a $9.00 RISC-V tiny embedded computer](https://linuxgizmos.com/milk-v-duo-is-a-9-00-risc-v-tiny-embedded-computer/)
 * [2023-06-04, 18:48:05](https://news.ycombinator.com/item?id=36188304) - [Over 70% of US household Covid spread started with a child](https://www.cidrap.umn.edu/covid-19/more-70-us-household-covid-spread-started-child-study-suggests)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
@@ -21,7 +22,6 @@
 * [2023-06-04, 11:43:46](https://news.ycombinator.com/item?id=36184838) - [Reverse Engineering Self-Supervised Learning](https://arxiv.org/abs/2305.15614)
 * [2023-06-04, 10:06:59](https://news.ycombinator.com/item?id=36184400) - [Apple Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 * [2023-06-04, 08:44:32](https://news.ycombinator.com/item?id=36184078) - [A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
-* [2023-06-04, 07:48:06](https://news.ycombinator.com/item?id=36183824) - [.ga domain names soon to return to Gabonese management (from Freenom) [pdf]](https://www.afnic.fr/wp-media/uploads/2023/05/ga-domain-names-soon-to-return-to-Gabonese-management-1.pdf)
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
 * [2023-06-04, 07:32:22](https://news.ycombinator.com/item?id=36183767) - [Conjuring a fiction out of almost nothing](https://hedgehogreview.com/web-features/thr/posts/the-art-of-compression?ref=thebrowser.com)
