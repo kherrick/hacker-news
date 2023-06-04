@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-04, 04:47:31](https://news.ycombinator.com/item?id=36183188) - [Revealed: The secret push to bury a weedkiller’s link to Parkinson’s disease](https://www.theguardian.com/us-news/2023/jun/02/paraquat-parkinsons-disease-research-syngenta-weedkiller)
 * [2023-06-04, 03:37:47](https://news.ycombinator.com/item?id=36182873) - [GNU poke: an extensible editor for structured binary data](http://www.jemarch.net/poke)
 * [2023-06-04, 01:41:35](https://news.ycombinator.com/item?id=36182208) - [Atomic Wallet exploited, users report loss of entire portfolios](https://cointelegraph.com/news/atomic-wallet-exploited-users-report-loss-of-entire-portfolios)
 * [2023-06-04, 01:01:51](https://news.ycombinator.com/item?id=36182016) - [It Will Cost More Than Total Future Production to Clean Up California Oil Sites](https://www.propublica.org/article/cost-of-california-oil-cleanup-exceeds-industry-profits)
@@ -8,7 +9,6 @@
 * [2023-06-03, 21:33:32](https://news.ycombinator.com/item?id=36180742) - [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
 * [2023-06-03, 21:31:54](https://news.ycombinator.com/item?id=36180730) - [Maglev: Chrome’s New JIT Compiler](https://blog.chromium.org/2023/06/how-chrome-achieved-high-scores-on.html)
 * [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS (2022)](https://ciechanow.ski/gps/)
-* [2023-06-03, 20:03:46](https://news.ycombinator.com/item?id=36180026) - [Sick Workers Connected to 41 Percent of Food Poisoning Outbreaks, CDC Reports](https://www.smithsonianmag.com/smart-news/sick-workers-connected-to-41-percent-of-food-poisoning-outbreaks-cdc-reports-180982283/)
 * [2023-06-03, 19:41:17](https://news.ycombinator.com/item?id=36179850) - [Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 * [2023-06-03, 18:40:57](https://news.ycombinator.com/item?id=36179333) - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
 * [2023-06-03, 18:18:34](https://news.ycombinator.com/item?id=36179111) - [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
