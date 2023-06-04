@@ -14,6 +14,7 @@
 * [2023-06-03, 18:06:06](https://news.ycombinator.com/item?id=36178974) - [CIA, MKUltra, and the cover-up of U.S. germ warfare in the Korean war (2022)](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
 * [2023-06-03, 17:06:10](https://news.ycombinator.com/item?id=36178380) - [Literate Configuration of Elfeed](https://michal.sapka.me/2023/elfeed-literate-config/)
 * [2023-06-03, 17:02:13](https://news.ycombinator.com/item?id=36178332) - [Running Apple 1 software on a breadboard computer (Wozmon) [video]](https://www.youtube.com/watch?v=HlLCtjJzHVI)
+* [2023-06-03, 17:00:57](https://news.ycombinator.com/item?id=36178320) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36178320)
 * [2023-06-03, 16:45:04](https://news.ycombinator.com/item?id=36178171) - [The Original AI Doomer: Dr. Norbert Wiener](https://newsletter.pessimistsarchive.org/p/the-original-ai-doomer-dr-norbert)
 * [2023-06-03, 16:14:49](https://news.ycombinator.com/item?id=36177866) - [The Perils of Niching Down](https://www.ungatedcreative.com/p/the-perils-of-niching-down)
 * [2023-06-03, 16:12:04](https://news.ycombinator.com/item?id=36177840) - [Efficiently Searching In-Memory Sorted Arrays: Revenge of Interpolation Search? [pdf]](https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf)
@@ -29,7 +30,6 @@
 * [2023-06-02, 21:22:13](https://news.ycombinator.com/item?id=36170910) - [Christopher Strachey and the dawn of interactive text](https://if50.substack.com/p/christopher-strachey-and-the-dawn)
 * [2023-06-02, 20:58:15](https://news.ycombinator.com/item?id=36170657) - [Photography's new bag of tricks (1984)](https://www.nytimes.com/1984/11/04/magazine/photography-s-new-bag-of-tricks.html)
 * [2023-06-02, 06:51:23](https://news.ycombinator.com/item?id=36161909) - [M.U.L.E. Online](https://puzzud.itch.io/mule-online)
-* [2023-06-02, 04:40:48](https://news.ycombinator.com/item?id=36161129) - [Building a Lox Interpreter in Julia](https://lukemerrick.com/posts/intro_to_julox.html)
 
 ## [Archives](archives/index.md)
 
