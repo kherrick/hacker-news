@@ -6,6 +6,7 @@
 
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
+* [2023-06-04, 17:55:02](https://news.ycombinator.com/item?id=36187744) - [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
 * [2023-06-04, 17:50:21](https://news.ycombinator.com/item?id=36187705) - [Popular Subreddits are organizing a strike on 2023-06-12 b/c high API prices](https://old.reddit.com/r/LifeProTips/comments/140b6q6/rlifeprotips_will_be_going_dark_from_june_1214_in/)
 * [2023-06-04, 17:33:52](https://news.ycombinator.com/item?id=36187556) - [Show HN: SQL Dry Runs with SQL Simulator](https://www.tribalknowledge.tech/blog/top-6-questions-about-doing-a-sql-dry-run-with-sql-simulator)
 * [2023-06-04, 17:33:24](https://news.ycombinator.com/item?id=36187550) - [WFH – Watched from Home: Office 365 and workplace surveillance creep](https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep)
@@ -59,6 +60,7 @@
 * [2023-06-04, 07:36:58](https://news.ycombinator.com/item?id=36183788) - [Why do railway tracks have crushed stones alongside them?](https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/)
 * [2023-06-04, 07:36:30](https://news.ycombinator.com/item?id=36183785) - [In Praise of the Park Bench](https://lithub.com/a-place-of-both-solitude-and-belonging-in-praise-of-the-park-bench/)
 * [2023-06-04, 07:34:10](https://news.ycombinator.com/item?id=36183776) - [How to use repetition (2017)](https://blog.oup.com/2017/06/repetition-linguistics/)
+* [2023-06-04, 07:32:22](https://news.ycombinator.com/item?id=36183767) - [Conjuring a fiction out of almost nothing](https://hedgehogreview.com/web-features/thr/posts/the-art-of-compression?ref=thebrowser.com)
 * [2023-06-04, 07:31:12](https://news.ycombinator.com/item?id=36183763) - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 * [2023-06-04, 07:27:36](https://news.ycombinator.com/item?id=36183754) - [Chess Tournament Games and Elo Ratings (2014)](https://randalolson.com/2014/05/24/chess-tournament-matches-and-elo-ratings/?ref=thebrowser.com)
 * [2023-06-04, 07:27:20](https://news.ycombinator.com/item?id=36183753) - [The Wembley Point Mystery](https://www.theguardian.com/lifeandstyle/2023/may/27/the-wembley-point-mystery-who-was-the-woman-who-jumped-to-her-death)
