@@ -23,6 +23,7 @@
 * [2023-06-03, 18:40:57](https://news.ycombinator.com/item?id=36179333) - [Setting time on fire and the temptation of The Button](https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation)
 * [2023-06-03, 18:26:41](https://news.ycombinator.com/item?id=36179196) - [Ask HN: What’s the deal with random people sending me money over PayPal?](https://news.ycombinator.com/item?id=36179196)
 * [2023-06-03, 18:18:34](https://news.ycombinator.com/item?id=36179111) - [Classic components could be replaced by rubber in next-gen loudspeakers](https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/)
+* [2023-06-03, 18:14:37](https://news.ycombinator.com/item?id=36179073) - [The Making of a Mona Lisa Hologram](https://publishing.aip.org/publications/latest-content/the-making-of-a-mona-lisa-hologram/)
 * [2023-06-03, 18:06:06](https://news.ycombinator.com/item?id=36178974) - [CIA, MKULTRA, and the Cover-Up of U.S. Germ Warfare in the Korean War (2022)](https://jeff-kaye.medium.com/cia-mkultra-and-the-cover-up-of-u-s-germ-warfare-in-the-korean-war-3e3cce505d35)
 * [2023-06-03, 17:57:09](https://news.ycombinator.com/item?id=36178885) - [Nvidia Started in a Denny’s. Now It’s Worth $1T](https://www.wsj.com/articles/nvidia-ai-chips-jensen-huang-dennys-d3226926)
 * [2023-06-03, 17:39:25](https://news.ycombinator.com/item?id=36178720) - [Git is simply too hard](https://changelog.com/posts/git-is-simply-too-hard)
