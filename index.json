@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-06-05, 19:58:31",
-      "https://news.ycombinator.com/item?id=36202650"
+      "2023-06-05, 19:51:50",
+      "https://news.ycombinator.com/item?id=36202543"
     ],
     [
-      "Ask HN: What Are You Working On?",
-      "https://news.ycombinator.com/item?id=36202650"
+      "AI Does Not Help Programmers",
+      "https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext"
     ]
   ],
   [
@@ -37,16 +37,6 @@
     [
       "Some Blogging Myths",
       "https://jvns.ca/blog/2023/06/05/some-blogging-myths/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 19:06:04",
-      "https://news.ycombinator.com/item?id=36201608"
-    ],
-    [
-      "Apple Vision Pro",
-      "https://www.apple.com/apple-vision-pro/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36200738"
     ],
     [
-      "Forests Around Chernobyl Aren’t Decaying Properly (2014)",
+      "Forests around Chernobyl aren’t decaying properly (2014)",
       "https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "Apple Introduces M2 Ultra",
       "https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 17:11:49",
+      "https://news.ycombinator.com/item?id=36199499"
+    ],
+    [
+      "On 'Function Coloring'",
+      "https://www.tedinski.com/2018/11/13/function-coloring.html"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-06-05, 12:44:54",
+      "https://news.ycombinator.com/item?id=36195425"
+    ],
+    [
+      "Is it time to stop using sentinel values for null / “NA” values? (2018)",
+      "https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 11:40:27",
       "https://news.ycombinator.com/item?id=36194950"
     ],
@@ -277,16 +287,6 @@
     [
       "The Rust I wanted had no future",
       "https://graydon2.dreamwidth.org/307291.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 05:41:46",
-      "https://news.ycombinator.com/item?id=36192777"
-    ],
-    [
-      "Sandstorm: Open-source platform for self-hosting web apps",
-      "https://sandstorm.io/"
     ]
   ],
   [
