@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-05, 18:23:43](https://news.ycombinator.com/item?id=36200716) - [Deprecated Bloodstained Code in the Linux Kernel](https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/)
+* [2023-06-05, 18:29:08](https://news.ycombinator.com/item?id=36200806) - [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
+* [2023-06-05, 18:27:15](https://news.ycombinator.com/item?id=36200777) - [Apple Reveals 'Vision Pro' Headset](https://www.macrumors.com/2023/06/05/apple-reveals-vision-pro-headset/)
+* [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests Around Chernobyl Aren’t Decaying Properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:23:22](https://news.ycombinator.com/item?id=36200708) - [Apple’s Vision Pro AR headset is finally here](https://techcrunch.com/2023/06/05/apple-headset/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
 * [2023-06-05, 18:05:20](https://news.ycombinator.com/item?id=36200389) - [WhatsApp Down](https://web.whatsapp.com/)
@@ -12,7 +14,6 @@
 * [2023-06-05, 17:16:10](https://news.ycombinator.com/item?id=36199558) - [Apple Announces Apple Silicon Mac Pro Powered by M2 Ultra](https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/)
 * [2023-06-05, 17:12:45](https://news.ycombinator.com/item?id=36199510) - [Mac Studio gets its first hardware update with M2 Max and the new M2 Ultra chip](https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/)
 * [2023-06-05, 17:10:36](https://news.ycombinator.com/item?id=36199483) - [Apple Announces New MacBook Air with 15.3-Inch Display and M2 Chip](https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/)
-* [2023-06-05, 16:32:48](https://news.ycombinator.com/item?id=36198807) - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 * [2023-06-05, 16:19:06](https://news.ycombinator.com/item?id=36198566) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
@@ -29,7 +30,6 @@
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
-* [2023-06-05, 02:53:47](https://news.ycombinator.com/item?id=36191713) - [Historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 18:29:08](https://news.ycombinator.com/item?id=36200806) - [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
+* [2023-06-05, 18:27:15](https://news.ycombinator.com/item?id=36200777) - [Apple Reveals 'Vision Pro' Headset](https://www.macrumors.com/2023/06/05/apple-reveals-vision-pro-headset/)
+* [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests Around Chernobyl Aren’t Decaying Properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:23:43](https://news.ycombinator.com/item?id=36200716) - [Deprecated Bloodstained Code in the Linux Kernel](https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/)
 * [2023-06-05, 18:23:22](https://news.ycombinator.com/item?id=36200708) - [Apple’s Vision Pro AR headset is finally here](https://techcrunch.com/2023/06/05/apple-headset/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
