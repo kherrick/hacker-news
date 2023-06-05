@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
+* [2023-06-05, 19:58:31](https://news.ycombinator.com/item?id=36202650) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=36202650)
 * [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:06:04](https://news.ycombinator.com/item?id=36201608) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
