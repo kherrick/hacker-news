@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 10:59:05",
+      "https://news.ycombinator.com/item?id=36194703"
+    ],
+    [
+      "Why Lisp Syntax Works",
+      "https://borretti.me/article/why-lisp-syntax-works"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 10:57:01",
       "https://news.ycombinator.com/item?id=36194690"
     ],
@@ -181,32 +191,22 @@
   ],
   [
     [
+      "2023-06-04, 21:36:39",
+      "https://news.ycombinator.com/item?id=36189821"
+    ],
+    [
+      "eBPF for Cybersecurity – Part 1",
+      "https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 21:07:55",
       "https://news.ycombinator.com/item?id=36189583"
     ],
     [
       "Wonky – An exploration of rhythm and grooves that break the rules",
       "https://pudding.cool/2023/06/groove/"
-    ]
-  ],
-  [
-    [
-      "2023-06-04, 20:09:09",
-      "https://news.ycombinator.com/item?id=36189107"
-    ],
-    [
-      "Crun: Fast and lightweight OCI runtime and C library for running containers",
-      "https://github.com/containers/crun"
-    ]
-  ],
-  [
-    [
-      "2023-06-04, 20:01:46",
-      "https://news.ycombinator.com/item?id=36189027"
-    ],
-    [
-      "Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API",
-      "https://github.com/Fictiverse/Redream"
     ]
   ],
   [
