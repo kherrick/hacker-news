@@ -4,6 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
+* [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader](https://twitter.com/joncstone/status/1665728784366960641)
+* [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the 7th Generation of Consoles Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
+* [2023-06-05, 15:04:14](https://news.ycombinator.com/item?id=36197190) - [Science Should Leave the University](https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/)
+* [2023-06-05, 14:57:55](https://news.ycombinator.com/item?id=36197073) - [Pixar lays off animator who saved Toy Story 2 with car full of hard drives](https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php)
+* [2023-06-05, 14:54:28](https://news.ycombinator.com/item?id=36197024) - [Stripe is not blocking large-scale card testing attacks for many AI companies](https://twitter.com/rameerez/status/1665680257788026880)
+* [2023-06-05, 14:45:53](https://news.ycombinator.com/item?id=36196884) - [Three companies agree to pay $1B to settle 'forever chemical' claims](https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html)
 * [2023-06-05, 14:06:10](https://news.ycombinator.com/item?id=36196343) - [Major Reddit communities will go dark to protest threat to third-party apps](https://www.theverge.com/2023/6/5/23749188/reddit-subreddit-private-protest-api-changes-apollo-charges)
 * [2023-06-05, 13:45:21](https://news.ycombinator.com/item?id=36196113) - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 * [2023-06-05, 13:42:46](https://news.ycombinator.com/item?id=36196068) - [OpenAI boss ‘heartened’ by talks with world leaders over will to contain AI risk](https://apnews.com/article/chatgpt-openai-altman-artificial-intelligence-0687c5645c191bceeb6c481deb985177)
