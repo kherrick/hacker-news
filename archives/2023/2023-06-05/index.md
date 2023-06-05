@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Random 4Chan User proves lower bound on Super permutations](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
+* [2023-06-05, 03:07:58](https://news.ycombinator.com/item?id=36191787) - [Euthanasia Is Not Healthcare](https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [How I wrote my own Smart Home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
 * [2023-06-05, 02:42:00](https://news.ycombinator.com/item?id=36191657) - [Parents in Ireland town to voluntarily ban smartphones for kids as old as 13](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
 * [2023-06-05, 02:04:59](https://news.ycombinator.com/item?id=36191444) - [Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)

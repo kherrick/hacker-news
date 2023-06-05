@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Random 4Chan User proves lower bound on Super permutations](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
+* [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
+* [2023-06-05, 03:07:58](https://news.ycombinator.com/item?id=36191787) - [Euthanasia Is Not Healthcare](https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [How I wrote my own Smart Home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
 * [2023-06-05, 02:42:00](https://news.ycombinator.com/item?id=36191657) - [Parents in Ireland town to voluntarily ban smartphones for kids as old as 13](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
 * [2023-06-05, 02:04:59](https://news.ycombinator.com/item?id=36191444) - [Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
-* [2023-06-05, 01:49:21](https://news.ycombinator.com/item?id=36191359) - [The Meltdown at CNN](https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/)
 * [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do we need copyright? (2012)](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
 * [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
