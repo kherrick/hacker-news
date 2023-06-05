@@ -42,6 +42,7 @@
 * [2023-06-04, 15:26:08](https://news.ycombinator.com/item?id=36186348) - [AI Report #4: AutoGPT And Open-source lags behind Part 2](https://theaireport.substack.com/p/ai-report-4-autogpt-and-open-source)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
 * [2023-06-04, 15:06:51](https://news.ycombinator.com/item?id=36186176) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
+* [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 * [2023-06-04, 14:56:43](https://news.ycombinator.com/item?id=36186080) - [High Prices Make Textbook ‘Piracy’ Acceptable to Most Students](https://torrentfreak.com/high-prices-make-textbook-piracy-acceptable-to-most-students-230604/)
 * [2023-06-04, 14:53:38](https://news.ycombinator.com/item?id=36186047) - [Was This the Most Dangerous Children's Toy Ever?](https://keith-mcnulty.medium.com/was-this-the-most-dangerous-childrens-toy-ever-2bb31607b9a8)
 * [2023-06-04, 14:30:01](https://news.ycombinator.com/item?id=36185872) - [At last, the Raspberry Pi shortage is finally coming to an end](https://www.pcworld.com/article/1939160/at-last-the-raspberry-pi-shortage-is-finally-coming-to-an-end.html)
