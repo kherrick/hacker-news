@@ -2,7 +2,6 @@
 
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
-* [2023-06-05, 19:51:50](https://news.ycombinator.com/item?id=36202543) - [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 * [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
@@ -28,6 +27,7 @@
 * [2023-06-05, 11:12:11](https://news.ycombinator.com/item?id=36194786) - [Implementing Cosine in C from Scratch (2020)](https://austinhenley.com/blog/cosine.html)
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
+* [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 * [2023-06-05, 02:53:47](https://news.ycombinator.com/item?id=36191713) - [Historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 
