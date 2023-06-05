@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 16:14:25](https://news.ycombinator.com/item?id=36198482) - [Morgan Stanley Expects a Shock 16% US Profit Drop to Kill Rally](https://www.bloomberg.com/news/articles/2023-06-05/morgan-stanley-sees-shock-16-us-profit-drop-killing-stock-rally)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:41:33](https://news.ycombinator.com/item?id=36197913) - [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://openlsr.org/sail-7b)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)

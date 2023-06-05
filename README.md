@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 16:14:25](https://news.ycombinator.com/item?id=36198482) - [Morgan Stanley Expects a Shock 16% US Profit Drop to Kill Rally](https://www.bloomberg.com/news/articles/2023-06-05/morgan-stanley-sees-shock-16-us-profit-drop-killing-stock-rally)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:41:33](https://news.ycombinator.com/item?id=36197913) - [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://openlsr.org/sail-7b)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
@@ -13,7 +14,6 @@
 * [2023-06-05, 14:59:33](https://news.ycombinator.com/item?id=36197103) - [Are cats really domesticated?](https://www.theguardian.com/books/2023/jun/05/the-big-idea-are-cats-really-domesticated)
 * [2023-06-05, 14:54:28](https://news.ycombinator.com/item?id=36197024) - [We've been targeted with a credit card testing fraud attack on Stripe](https://twitter.com/rameerez/status/1665680257788026880)
 * [2023-06-05, 14:45:53](https://news.ycombinator.com/item?id=36196884) - [Three companies agree to pay $1B to settle 'forever chemical' claims](https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html)
-* [2023-06-05, 14:11:05](https://news.ycombinator.com/item?id=36196410) - [eBPF for Cybersecurity – Part 2](https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-2)
 * [2023-06-05, 13:45:21](https://news.ycombinator.com/item?id=36196113) - [A prompt pattern catalog to enhance prompt engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google no longer automatically indexes websites?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 * [2023-06-05, 12:44:54](https://news.ycombinator.com/item?id=36195425) - [Is it time to stop using sentinel values for null / “NA” values? (2018)](https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/)
