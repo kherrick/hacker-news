@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
 * [2023-06-05, 22:06:59](https://news.ycombinator.com/item?id=36204653) - [Apple's Vision Pro headset deserves to be ridiculed](https://www.disconnect.blog/p/apples-vision-pro-headset-deserves)
+* [2023-06-05, 22:02:32](https://news.ycombinator.com/item?id=36204574) - [Dutch Cabinet wants minimum 15% corporate tax to cut down tax avoidance](https://nltimes.nl/2023/06/04/dutch-cabinet-wants-minimum-15-corporate-tax-cut-tax-avoidance-first-eu)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
 * [2023-06-05, 19:58:31](https://news.ycombinator.com/item?id=36202650) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=36202650)
@@ -13,6 +14,7 @@
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:06:04](https://news.ycombinator.com/item?id=36201608) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
+* [2023-06-05, 18:48:21](https://news.ycombinator.com/item?id=36201143) - [Flora Incognita – free AI-supported plant identification university project](https://floraincognita.com/)
 * [2023-06-05, 18:37:52](https://news.ycombinator.com/item?id=36200958) - [Apple reveals Vision Pro, a AR/VR headset unlike any other](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
 * [2023-06-05, 18:33:34](https://news.ycombinator.com/item?id=36200884) - [Apple Vision Pro Is Apple's New VR Headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
 * [2023-06-05, 18:29:08](https://news.ycombinator.com/item?id=36200806) - [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
