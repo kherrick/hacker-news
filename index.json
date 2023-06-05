@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-06-04, 21:48:56",
-      "https://news.ycombinator.com/item?id=36189920"
-    ],
-    [
-      "Blink 1.0",
-      "https://github.com/jart/blink/releases/tag/1.0.0"
-    ]
-  ],
-  [
-    [
       "2023-06-04, 21:36:39",
       "https://news.ycombinator.com/item?id=36189821"
     ],
@@ -267,6 +257,16 @@
     [
       "DreamBerd is a perfect programming language",
       "https://github.com/TodePond/DreamBerd"
+    ]
+  ],
+  [
+    [
+      "2023-06-03, 21:33:03",
+      "https://news.ycombinator.com/item?id=36180738"
+    ],
+    [
+      "A Close Look at a Spinlock",
+      "https://blog.regehr.org/archives/2173"
     ]
   ],
   [
