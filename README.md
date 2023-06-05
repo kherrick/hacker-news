@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 08:02:14](https://news.ycombinator.com/item?id=36193712) - [ROFL: An open-source license that promotes fun in coding](https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891)
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 * [2023-06-05, 05:00:01](https://news.ycombinator.com/item?id=36192497) - [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
@@ -19,7 +20,6 @@
 * [2023-06-04, 20:01:46](https://news.ycombinator.com/item?id=36189027) - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [2023-06-04, 19:58:47](https://news.ycombinator.com/item?id=36188996) - [Pneumatic Antenna Launching Systems](http://www.antennalaunchers.com/antlaunching.html)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
-* [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-06-04, 17:33:24](https://news.ycombinator.com/item?id=36187550) - [WFH – Watched from Home: Office 365 and workplace surveillance creep (2022)](https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep)
 * [2023-06-04, 16:55:01](https://news.ycombinator.com/item?id=36187174) - [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)

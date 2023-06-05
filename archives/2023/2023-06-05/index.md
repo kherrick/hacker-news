@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 08:02:14](https://news.ycombinator.com/item?id=36193712) - [ROFL: An open-source license that promotes fun in coding](https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891)
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 * [2023-06-05, 05:00:01](https://news.ycombinator.com/item?id=36192497) - [Moderation strike: Stack Overflow Inc cannot ignore, mistreat, malign volunteers](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
