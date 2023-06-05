@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 22:37:57](https://news.ycombinator.com/item?id=36205117) - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
 * [2023-06-05, 22:06:59](https://news.ycombinator.com/item?id=36204653) - [Apple's Vision Pro headset deserves to be ridiculed](https://www.disconnect.blog/p/apples-vision-pro-headset-deserves)
 * [2023-06-05, 22:02:32](https://news.ycombinator.com/item?id=36204574) - [Dutch Cabinet wants minimum 15% corporate tax to cut down tax avoidance](https://nltimes.nl/2023/06/04/dutch-cabinet-wants-minimum-15-corporate-tax-cut-tax-avoidance-first-eu)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
