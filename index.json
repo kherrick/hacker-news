@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36192195"
     ],
     [
-      "Google just released a 100% free learning path on Generative AI with 9 Courses",
+      "Generative AI learning path",
       "https://www.cloudskillsboost.google/paths/118"
     ]
   ],
@@ -107,6 +107,16 @@
     [
       "Live dashboard of carbon dioxide removal purchases",
       "https://www.cdr.fyi/"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 21:48:56",
+      "https://news.ycombinator.com/item?id=36189920"
+    ],
+    [
+      "Blink 1.0",
+      "https://github.com/jart/blink/releases/tag/1.0.0"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Anything can be a message queue if you use it wrongly enough",
       "https://xeiaso.net/blog/anything-message-queue"
-    ]
-  ],
-  [
-    [
-      "2023-06-04, 14:22:47",
-      "https://news.ycombinator.com/item?id=36185817"
-    ],
-    [
-      "A not-so-quick introduction to the C++ allocator model",
-      "https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/"
     ]
   ],
   [
