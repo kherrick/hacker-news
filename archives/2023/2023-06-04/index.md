@@ -6,6 +6,7 @@
 
 * [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do We Need Copyright?](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
+* [2023-06-04, 22:06:59](https://news.ycombinator.com/item?id=36190051) - [Ultralong-Range Electric Cars Are Arriving. Say Goodbye to Charging Stops](https://www.wsj.com/articles/ultralong-range-electric-cars-are-arriving-say-goodbye-to-charging-stops-a5cf4390)
 * [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 * [2023-06-04, 21:56:59](https://news.ycombinator.com/item?id=36189980) - [Power outages and sweltering heat in Vietnam, people struggling to cope](https://vietnam.postsen.com/local/352866/Continuous-power-outage-people-struggling-to-cope-with-the-heat.html)
 * [2023-06-04, 21:54:38](https://news.ycombinator.com/item?id=36189962) - [A Social Media site where “No Humans” are allowed and AI Bots run the show](https://www.fry-ai.com/p/social-media-no-humans-allowed)
