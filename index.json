@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-05, 16:03:55",
+      "https://news.ycombinator.com/item?id=36198329"
+    ],
+    [
+      "Our right to challenge junk patents is under threat",
+      "https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 15:41:33",
+      "https://news.ycombinator.com/item?id=36197913"
+    ],
+    [
+      "Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search",
+      "https://openlsr.org/sail-7b"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 15:39:09",
       "https://news.ycombinator.com/item?id=36197880"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36197738"
     ],
     [
-      "Customer Ratings Have Become Meaningless. ‘People Give 5 Stars Like It’s Candy.’",
+      "Customer ratings have become meaningless. ‘people give 5 stars like it’s candy.’",
       "https://www.wsj.com/articles/uber-airbnb-ratings-perfect-scores-customers-93686deb"
     ]
   ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36197712"
     ],
     [
-      "SEC Sues Binance and CEO Zhao for Breaking US Securities Rules",
+      "SEC sues Binance and CEO Zhao for breaking US securities rules",
       "https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule"
     ]
   ],
@@ -37,16 +57,6 @@
     [
       "SEC Accuses Binance of Mishandling Funds and Lying to Regulators",
       "https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 15:15:40",
-      "https://news.ycombinator.com/item?id=36197401"
-    ],
-    [
-      "Tell HN: Cloudflare is locking out Linux users",
-      "https://news.ycombinator.com/item?id=36197401"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36197280"
     ],
     [
-      "Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader",
+      "An Excel error led Austria's SPÖ to announce the wrong candidate as the winner",
       "https://twitter.com/joncstone/status/1665728784366960641"
     ]
   ],
@@ -75,8 +85,18 @@
       "https://news.ycombinator.com/item?id=36197266"
     ],
     [
-      "Linux on the 7th Generation of Consoles Part 1: Xbox 360",
+      "Linux on the Xbox 360",
       "https://www.lilysthings.org/blog/linux-on-xbox360/"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 15:05:34",
+      "https://news.ycombinator.com/item?id=36197206"
+    ],
+    [
+      "America has paid a steep price for devoting too much space to storing cars",
+      "https://www.theatlantic.com/magazine/archive/2023/07/cars-parking-take-up-street-space-cities/674174/"
     ]
   ],
   [
@@ -85,18 +105,8 @@
       "https://news.ycombinator.com/item?id=36197103"
     ],
     [
-      "The big idea: Are cats domesticated?",
+      "Are cats really domesticated?",
       "https://www.theguardian.com/books/2023/jun/05/the-big-idea-are-cats-really-domesticated"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 14:57:55",
-      "https://news.ycombinator.com/item?id=36197073"
-    ],
-    [
-      "Pixar lays off animator who saved Toy Story 2 with car full of hard drives",
-      "https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php"
     ]
   ],
   [
@@ -105,18 +115,8 @@
       "https://news.ycombinator.com/item?id=36197024"
     ],
     [
-      "Stripe is not blocking large-scale card testing attacks for many AI companies",
+      "We've been targeted with a credit card testing fraud attack on Stripe",
       "https://twitter.com/rameerez/status/1665680257788026880"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 14:51:49",
-      "https://news.ycombinator.com/item?id=36196980"
-    ],
-    [
-      "AI generated content should be labelled, EU Commissioner Jourova says",
-      "https://www.reuters.com/technology/ai-generated-content-should-be-labelled-eu-commissioner-jourova-says-2023-06-05/"
     ]
   ],
   [
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36196113"
     ],
     [
-      "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT",
+      "A prompt pattern catalog to enhance prompt engineering with ChatGPT",
       "https://arxiv.org/abs/2302.11382"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36195425"
     ],
     [
-      "Is it time to stop using sentinel values for null / “NA” values?",
+      "Is it time to stop using sentinel values for null / “NA” values? (2018)",
       "https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/"
     ]
   ],
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36195036"
     ],
     [
-      "New Mass. right-to-repair law now being enforced",
+      "New Massachusetts right-to-repair law now being enforced",
       "https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/"
     ]
   ],
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=36194941"
     ],
     [
-      "Why Did Usenet Fail?",
+      "Why did Usenet fail?",
       "https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/"
     ]
   ],
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-06-05, 08:34:26",
+      "https://news.ycombinator.com/item?id=36193871"
+    ],
+    [
+      "Never trust a programmer who says they know C++",
+      "http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 07:03:45",
       "https://news.ycombinator.com/item?id=36193326"
     ],
@@ -237,16 +247,6 @@
     [
       "Sandstorm: Open-source platform for self-hosting web apps",
       "https://sandstorm.io/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 04:16:41",
-      "https://news.ycombinator.com/item?id=36192195"
-    ],
-    [
-      "Generative AI learning path",
-      "https://www.cloudskillsboost.google/paths/118"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36191444"
     ],
     [
-      "Huh, Our Fake Beach Is Good for Sharks",
+      "Huh, our fake beach is good for sharks",
       "https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/"
     ]
   ],
