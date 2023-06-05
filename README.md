@@ -2,6 +2,7 @@
 
 * [2023-06-05, 14:06:10](https://news.ycombinator.com/item?id=36196343) - [Major Reddit communities will go dark to protest threat to third-party apps](https://www.theverge.com/2023/6/5/23749188/reddit-subreddit-private-protest-api-changes-apollo-charges)
 * [2023-06-05, 13:45:21](https://news.ycombinator.com/item?id=36196113) - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+* [2023-06-05, 13:42:46](https://news.ycombinator.com/item?id=36196068) - [OpenAI boss ‘heartened’ by talks with world leaders over will to contain AI risk](https://apnews.com/article/chatgpt-openai-altman-artificial-intelligence-0687c5645c191bceeb6c481deb985177)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google no longer automatically indexes websites?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 * [2023-06-05, 12:44:54](https://news.ycombinator.com/item?id=36195425) - [Is it time to stop using sentinel values for null / “NA” values?](https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/)
 * [2023-06-05, 11:53:24](https://news.ycombinator.com/item?id=36195036) - [New Mass. right-to-repair law now being enforced](https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/)
@@ -22,7 +23,6 @@
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [I wrote my own smart home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
 * [2023-06-05, 02:42:00](https://news.ycombinator.com/item?id=36191657) - [Parents in Ireland town to voluntarily ban smartphones for kids as old as 13](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
 * [2023-06-05, 02:04:59](https://news.ycombinator.com/item?id=36191444) - [Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
-* [2023-06-04, 23:16:06](https://news.ycombinator.com/item?id=36190467) - [Forward Referencing in C](https://twitter.com/walterbright/status/1665478419210199040)
 * [2023-06-04, 22:43:19](https://news.ycombinator.com/item?id=36190257) - [As the Priest Said to the Nun](https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun)
 * [2023-06-04, 19:58:47](https://news.ycombinator.com/item?id=36188996) - [Pneumatic Antenna Launching Systems](http://www.antennalaunchers.com/antlaunching.html)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)

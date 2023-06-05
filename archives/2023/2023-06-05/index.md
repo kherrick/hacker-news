@@ -6,6 +6,7 @@
 
 * [2023-06-05, 14:06:10](https://news.ycombinator.com/item?id=36196343) - [Major Reddit communities will go dark to protest threat to third-party apps](https://www.theverge.com/2023/6/5/23749188/reddit-subreddit-private-protest-api-changes-apollo-charges)
 * [2023-06-05, 13:45:21](https://news.ycombinator.com/item?id=36196113) - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+* [2023-06-05, 13:42:46](https://news.ycombinator.com/item?id=36196068) - [OpenAI boss ‘heartened’ by talks with world leaders over will to contain AI risk](https://apnews.com/article/chatgpt-openai-altman-artificial-intelligence-0687c5645c191bceeb6c481deb985177)
 * [2023-06-05, 13:16:58](https://news.ycombinator.com/item?id=36195764) - [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
 * [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
 * [2023-06-05, 13:05:47](https://news.ycombinator.com/item?id=36195629) - [Spotify lays off 200 employees, or about 2% of its workforce](https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html)
