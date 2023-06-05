@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 17:16:10](https://news.ycombinator.com/item?id=36199558) - [Apple Announces Apple Silicon Mac Pro Powered by M2 Ultra](https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/)
 * [2023-06-05, 17:12:45](https://news.ycombinator.com/item?id=36199510) - [Mac Studio gets its first hardware update with M2 Max and the new M2 Ultra chip](https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/)
 * [2023-06-05, 17:10:36](https://news.ycombinator.com/item?id=36199483) - [Apple Announces New MacBook Air with 15.3-Inch Display and M2 Chip](https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/)
 * [2023-06-05, 16:53:49](https://news.ycombinator.com/item?id=36199208) - [WWDC 2023 Livestream](https://www.apple.com/apple-events/event-stream/)
@@ -28,7 +29,6 @@
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 02:53:47](https://news.ycombinator.com/item?id=36191713) - [Historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [I wrote my own smart home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
-* [2023-06-05, 01:49:21](https://news.ycombinator.com/item?id=36191359) - [The Meltdown at CNN](https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/)
 * [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 
 ## [Archives](archives/index.md)

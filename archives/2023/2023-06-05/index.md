@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 17:16:10](https://news.ycombinator.com/item?id=36199558) - [Apple Announces Apple Silicon Mac Pro Powered by M2 Ultra](https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/)
 * [2023-06-05, 17:12:45](https://news.ycombinator.com/item?id=36199510) - [Mac Studio gets its first hardware update with M2 Max and the new M2 Ultra chip](https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/)
 * [2023-06-05, 17:10:36](https://news.ycombinator.com/item?id=36199483) - [Apple Announces New MacBook Air with 15.3-Inch Display and M2 Chip](https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/)
 * [2023-06-05, 16:53:49](https://news.ycombinator.com/item?id=36199208) - [WWDC 2023 Livestream](https://www.apple.com/apple-events/event-stream/)
