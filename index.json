@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-05, 08:34:26",
-      "https://news.ycombinator.com/item?id=36193871"
-    ],
-    [
-      "Never trust a programmer who says they know C++",
-      "http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 08:02:14",
       "https://news.ycombinator.com/item?id=36193712"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2023-06-04, 23:09:05",
+      "https://news.ycombinator.com/item?id=36190423"
+    ],
+    [
+      "Book Review: Applied Math for Security",
+      "https://dustri.org/b/book-review-applied-math-for-security.html"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 22:43:19",
       "https://news.ycombinator.com/item?id=36190257"
     ],
@@ -147,6 +147,16 @@
     [
       "Blink 1.0",
       "https://github.com/jart/blink/releases/tag/1.0.0"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 21:36:39",
+      "https://news.ycombinator.com/item?id=36189821"
+    ],
+    [
+      "eBPF for Cybersecurity – Part 1",
+      "https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Reduce vs. Fold in Common Lisp",
       "https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/"
-    ]
-  ],
-  [
-    [
-      "2023-06-03, 14:13:50",
-      "https://news.ycombinator.com/item?id=36176844"
-    ],
-    [
-      "Atomic Tourism",
-      "https://www.wsj.com/articles/inside-atomic-tourism-c834b3f4"
     ]
   ]
 ]
