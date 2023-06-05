@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 22:06:59](https://news.ycombinator.com/item?id=36204653) - [Apple's Vision Pro headset deserves to be ridiculed](https://www.disconnect.blog/p/apples-vision-pro-headset-deserves)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
 * [2023-06-05, 19:58:31](https://news.ycombinator.com/item?id=36202650) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=36202650)
