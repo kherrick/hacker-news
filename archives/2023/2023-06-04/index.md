@@ -16,6 +16,7 @@
 * [2023-06-04, 21:07:55](https://news.ycombinator.com/item?id=36189583) - [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
 * [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [2023-06-04, 20:01:46](https://news.ycombinator.com/item?id=36189027) - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
+* [2023-06-04, 19:58:47](https://news.ycombinator.com/item?id=36188996) - [Pneumatic Antenna Launching Systems](http://www.antennalaunchers.com/antlaunching.html)
 * [2023-06-04, 19:54:00](https://news.ycombinator.com/item?id=36188948) - [More shell, less egg (2011)](https://leancrew.com/all-this/2011/12/more-shell-less-egg/)
 * [2023-06-04, 19:38:04](https://news.ycombinator.com/item?id=36188793) - [Milk-V Duo is a $9.00 RISC-V tiny embedded computer](https://linuxgizmos.com/milk-v-duo-is-a-9-00-risc-v-tiny-embedded-computer/)
 * [2023-06-04, 18:56:30](https://news.ycombinator.com/item?id=36188390) - [OpenAI is getting sued for being biased with Y Combinator](https://twitter.com/short_straw/status/1655352280202313734)
