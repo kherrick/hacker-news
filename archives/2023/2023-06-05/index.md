@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 13:45:21](https://news.ycombinator.com/item?id=36196113) - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 * [2023-06-05, 13:16:58](https://news.ycombinator.com/item?id=36195764) - [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
 * [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
 * [2023-06-05, 13:05:47](https://news.ycombinator.com/item?id=36195629) - [Spotify lays off 200 employees, or about 2% of its workforce](https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html)
