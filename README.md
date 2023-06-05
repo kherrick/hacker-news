@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 17:57:39](https://news.ycombinator.com/item?id=36200260) - [Universal basic income of nearly $2000/mo to be trialed in UK for the first time](https://www.cnbc.com/2023/06/05/universal-basic-income-could-be-coming-to-england-for-the-first-time.html)
 * [2023-06-05, 17:44:21](https://news.ycombinator.com/item?id=36200043) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/uk/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
 * [2023-06-05, 17:37:35](https://news.ycombinator.com/item?id=36199911) - [Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)
 * [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
@@ -28,7 +29,6 @@
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 02:53:47](https://news.ycombinator.com/item?id=36191713) - [Historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
-* [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [I wrote my own smart home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
 * [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 
 ## [Archives](archives/index.md)

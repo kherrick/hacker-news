@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 17:57:39](https://news.ycombinator.com/item?id=36200260) - [Universal basic income of nearly $2000/mo to be trialed in UK for the first time](https://www.cnbc.com/2023/06/05/universal-basic-income-could-be-coming-to-england-for-the-first-time.html)
 * [2023-06-05, 17:44:21](https://news.ycombinator.com/item?id=36200043) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/uk/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
 * [2023-06-05, 17:37:35](https://news.ycombinator.com/item?id=36199911) - [Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)
 * [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
