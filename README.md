@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 * [2023-06-05, 05:00:01](https://news.ycombinator.com/item?id=36192497) - [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 * [2023-06-05, 04:34:54](https://news.ycombinator.com/item?id=36192312) - [Tell HN: My Reddit account was banned after adding my subs to the protest](https://news.ycombinator.com/item?id=36192312)
 * [2023-06-05, 04:16:41](https://news.ycombinator.com/item?id=36192195) - [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
@@ -19,7 +20,6 @@
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-06-04, 17:55:02](https://news.ycombinator.com/item?id=36187744) - [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
-* [2023-06-04, 17:33:24](https://news.ycombinator.com/item?id=36187550) - [WFH – Watched from Home: Office 365 and workplace surveillance creep (2022)](https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep)
 * [2023-06-04, 16:55:01](https://news.ycombinator.com/item?id=36187174) - [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
 * [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
