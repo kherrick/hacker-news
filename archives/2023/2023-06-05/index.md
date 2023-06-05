@@ -10,6 +10,7 @@
 * [2023-06-05, 22:06:59](https://news.ycombinator.com/item?id=36204653) - [Apple's Vision Pro headset deserves to be ridiculed](https://www.disconnect.blog/p/apples-vision-pro-headset-deserves)
 * [2023-06-05, 22:02:32](https://news.ycombinator.com/item?id=36204574) - [Dutch Cabinet wants minimum 15% corporate tax to cut down tax avoidance](https://nltimes.nl/2023/06/04/dutch-cabinet-wants-minimum-15-corporate-tax-cut-tax-avoidance-first-eu)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative we been workin on for 2 years](https://plebbit-test.netlify.app)
+* [2023-06-05, 20:40:12](https://news.ycombinator.com/item?id=36203277) - [iOS Reddit App Apollo's Developer Surprised by WWDC Callout](https://old.reddit.com/r/apple/comments/141kfmi/wwdc_2023_event_megathread/)
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
 * [2023-06-05, 19:58:31](https://news.ycombinator.com/item?id=36202650) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=36202650)
 * [2023-06-05, 19:51:50](https://news.ycombinator.com/item?id=36202543) - [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)

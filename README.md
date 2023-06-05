@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-05, 22:37:57](https://news.ycombinator.com/item?id=36205117) - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
-* [2023-06-05, 22:32:33](https://news.ycombinator.com/item?id=36205043) - [Stack Overflow Moderators Striking to Stop Garbage AI Content from Flooding Site](https://www.vice.com/en/article/4a33dj/stack-overflow-moderators-are-striking-to-stop-garbage-ai-content-from-flooding-the-site)
 * [2023-06-05, 22:21:06](https://news.ycombinator.com/item?id=36204868) - [Why Reverse API Gateways Are Not Popular Yet](https://getconvoy.io/blog/why-engineers-do-not-use-webhook-gateways-yet/)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
+* [2023-06-05, 20:40:12](https://news.ycombinator.com/item?id=36203277) - [iOS Reddit App Apollo's Developer Surprised by WWDC Callout](https://old.reddit.com/r/apple/comments/141kfmi/wwdc_2023_event_megathread/)
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
 * [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
@@ -11,7 +11,6 @@
 * [2023-06-05, 18:48:21](https://news.ycombinator.com/item?id=36201143) - [Flora Incognita – free AI-supported plant identification university project](https://floraincognita.com/)
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
-* [2023-06-05, 18:05:20](https://news.ycombinator.com/item?id=36200389) - [WhatsApp Down](https://web.whatsapp.com/)
 * [2023-06-05, 17:58:19](https://news.ycombinator.com/item?id=36200268) - [Why does MPEG Transport Stream still exist?](https://www.obe.tv/why-does-mpeg-ts-still-exist/)
 * [2023-06-05, 17:37:35](https://news.ycombinator.com/item?id=36199911) - [Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)
 * [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
@@ -29,6 +28,7 @@
 * [2023-06-05, 11:39:28](https://news.ycombinator.com/item?id=36194941) - [Why did Usenet fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
 * [2023-06-05, 11:12:11](https://news.ycombinator.com/item?id=36194786) - [Implementing Cosine in C from Scratch (2020)](https://austinhenley.com/blog/cosine.html)
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
+* [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 * [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 
 ## [Archives](archives/index.md)
