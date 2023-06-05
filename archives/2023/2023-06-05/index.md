@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
 * [2023-06-05, 09:58:29](https://news.ycombinator.com/item?id=36194322) - [Tech Elite’s AI Ideologies Have Racist Foundations, Say AI Ethicists](https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/)
+* [2023-06-05, 09:58:27](https://news.ycombinator.com/item?id=36194321) - [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
 * [2023-06-05, 08:34:26](https://news.ycombinator.com/item?id=36193871) - [Never trust a programmer who says they know C++](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
 * [2023-06-05, 08:02:14](https://news.ycombinator.com/item?id=36193712) - [ROFL: An open-source license that promotes fun in coding](https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891)
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
