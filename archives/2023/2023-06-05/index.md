@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
 * [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
+* [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:06:04](https://news.ycombinator.com/item?id=36201608) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 18:37:52](https://news.ycombinator.com/item?id=36200958) - [Apple reveals Vision Pro, a AR/VR headset unlike any other](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
