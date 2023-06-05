@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
+* [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google No Longer Automatically Indexes Websites – WTF?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 * [2023-06-05, 12:49:19](https://news.ycombinator.com/item?id=36195458) - [Twitter’s U.S. Ad Sales Plunge 59% as Woes Continue](https://www.nytimes.com/2023/06/05/technology/twitter-ad-sales-musk.html)
 * [2023-06-05, 11:55:08](https://news.ycombinator.com/item?id=36195045) - [Who killed the great British curry house? (2017)](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
+* [2023-06-05, 11:53:24](https://news.ycombinator.com/item?id=36195036) - [New Mass. right-to-repair law now being enforced](https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/)
 * [2023-06-05, 11:40:27](https://news.ycombinator.com/item?id=36194950) - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
 * [2023-06-05, 11:39:28](https://news.ycombinator.com/item?id=36194941) - [Why Did Usenet Fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
 * [2023-06-05, 11:12:11](https://news.ycombinator.com/item?id=36194786) - [Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
@@ -13,6 +16,7 @@
 * [2023-06-05, 10:57:01](https://news.ycombinator.com/item?id=36194690) - [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
 * [2023-06-05, 09:58:29](https://news.ycombinator.com/item?id=36194322) - [Tech Elite’s AI Ideologies Have Racist Foundations, Say AI Ethicists](https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/)
 * [2023-06-05, 09:58:27](https://news.ycombinator.com/item?id=36194321) - [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
+* [2023-06-05, 09:54:48](https://news.ycombinator.com/item?id=36194297) - [Phoronix.com Turns 19 Years Old for Covering Linux Hardware, Open-Source News](https://www.phoronix.com/news/Phoronix-Turns-19)
 * [2023-06-05, 08:34:26](https://news.ycombinator.com/item?id=36193871) - [Never trust a programmer who says they know C++](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
 * [2023-06-05, 08:02:14](https://news.ycombinator.com/item?id=36193712) - [ROFL: An open-source license that promotes fun in coding](https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891)
 * [2023-06-05, 07:46:44](https://news.ycombinator.com/item?id=36193632) - [Refactoring and Crochet](https://buttonmash.substack.com/p/refactoring)
