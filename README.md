@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 04:34:54](https://news.ycombinator.com/item?id=36192312) - [Tell HN: My Reddit account was banned after adding my subs to the protest](https://news.ycombinator.com/item?id=36192312)
 * [2023-06-05, 04:16:41](https://news.ycombinator.com/item?id=36192195) - [Google just released a 100% free learning path on Generative AI with 9 Courses](https://www.cloudskillsboost.google/paths/118)
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [How I wrote my own Smart Home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
@@ -18,7 +19,6 @@
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 17:59:18](https://news.ycombinator.com/item?id=36187786) - [Optery (YC W22) Hiring in Sales, Marketing, Customer Success, Business Ops](https://www.ycombinator.com/companies/optery/jobs)
 * [2023-06-04, 17:55:02](https://news.ycombinator.com/item?id=36187744) - [AMD’s RX 7600: Small RDNA 3 Appears](https://chipsandcheese.com/2023/06/04/amds-rx-7600-small-rdna-3-appears/)
-* [2023-06-04, 17:33:24](https://news.ycombinator.com/item?id=36187550) - [WFH – Watched from Home: Office 365 and workplace surveillance creep (2022)](https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep)
 * [2023-06-04, 16:55:01](https://news.ycombinator.com/item?id=36187174) - [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
 * [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
