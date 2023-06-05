@@ -6,6 +6,7 @@
 
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
 * [2023-06-05, 19:58:31](https://news.ycombinator.com/item?id=36202650) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=36202650)
+* [2023-06-05, 19:51:50](https://news.ycombinator.com/item?id=36202543) - [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
 * [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:06:04](https://news.ycombinator.com/item?id=36201608) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
@@ -28,6 +29,7 @@
 * [2023-06-05, 17:22:11](https://news.ycombinator.com/item?id=36199637) - [Apple Introduces M2 Ultra](https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/)
 * [2023-06-05, 17:16:10](https://news.ycombinator.com/item?id=36199558) - [Apple Announces Apple Silicon Mac Pro Powered by M2 Ultra](https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/)
 * [2023-06-05, 17:12:45](https://news.ycombinator.com/item?id=36199510) - [Mac Studio gets its first hardware update with M2 Max and the new M2 Ultra chip](https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/)
+* [2023-06-05, 17:11:49](https://news.ycombinator.com/item?id=36199499) - [On 'Function Coloring'](https://www.tedinski.com/2018/11/13/function-coloring.html)
 * [2023-06-05, 17:10:36](https://news.ycombinator.com/item?id=36199483) - [Apple Announces New MacBook Air with 15.3-Inch Display and M2 Chip](https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/)
 * [2023-06-05, 16:53:49](https://news.ycombinator.com/item?id=36199208) - [WWDC 2023 Livestream](https://www.apple.com/apple-events/event-stream/)
 * [2023-06-05, 16:32:48](https://news.ycombinator.com/item?id=36198807) - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
