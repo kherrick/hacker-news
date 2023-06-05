@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
+* [2023-06-04, 23:16:06](https://news.ycombinator.com/item?id=36190467) - [Forward Referencing in C](https://twitter.com/walterbright/status/1665478419210199040)
 * [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:43:19](https://news.ycombinator.com/item?id=36190257) - [As the Priest Said to the Nun](https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do We Need Copyright?](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
