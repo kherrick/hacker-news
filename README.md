@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 04:16:41](https://news.ycombinator.com/item?id=36192195) - [Google just released a 100% free learning path on Generative AI with 9 Courses](https://www.cloudskillsboost.google/paths/118)
 * [2023-06-05, 03:32:10](https://news.ycombinator.com/item?id=36191928) - [San Francisco Homeowners Lose $260B in Value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [How I wrote my own Smart Home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
@@ -7,7 +8,6 @@
 * [2023-06-05, 02:04:59](https://news.ycombinator.com/item?id=36191444) - [Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
 * [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do we need copyright? (2012)](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
-* [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 * [2023-06-04, 21:54:38](https://news.ycombinator.com/item?id=36189962) - [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
 * [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
 * [2023-06-04, 21:48:56](https://news.ycombinator.com/item?id=36189920) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
