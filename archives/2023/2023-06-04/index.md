@@ -34,6 +34,7 @@
 * [2023-06-04, 16:55:01](https://news.ycombinator.com/item?id=36187174) - [Dennis Ritchie’s page on Bell Labs website](https://www.bell-labs.com/usr/dmr/www/)
 * [2023-06-04, 16:46:44](https://news.ycombinator.com/item?id=36187102) - [Compress-a-Palooza: Unpacking 5B Varints in Only 4B CPU Cycles](https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/)
 * [2023-06-04, 16:33:50](https://news.ycombinator.com/item?id=36186992) - [BlackRock Is Forcing ESG Behavior on Companies (2022)](https://www.iwf.org/2022/10/05/blackrock-is-forcing-esg-behavior-on-companies/)
+* [2023-06-04, 16:17:40](https://news.ycombinator.com/item?id=36186828) - [Journal of Mechanism and Institution Design](http://www.mechanism-design.org/)
 * [2023-06-04, 16:15:19](https://news.ycombinator.com/item?id=36186797) - [A woman is in custody after refusing tuberculosis treatment for more than a year](https://www.npr.org/2023/06/03/1179748072/tuberculosis-woman-arrested-tacoma-washington)
 * [2023-06-04, 15:47:53](https://news.ycombinator.com/item?id=36186528) - [Democracy Is the Solution to Vetocracy](https://www.sambowman.co/p/democracy-is-the-solution-to-vetocracy)
 * [2023-06-04, 15:40:18](https://news.ycombinator.com/item?id=36186466) - [Atrophysics and Stale Beer](https://www.salon.com/2023/05/29/astrophysics-and-stale-beer-what-life-is-like-working-at-the-south-pole/)
