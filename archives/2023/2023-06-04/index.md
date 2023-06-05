@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-04](index.md)
 
 * [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
+* [2023-06-04, 22:43:19](https://news.ycombinator.com/item?id=36190257) - [As the Priest Said to the Nun](https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do We Need Copyright?](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
 * [2023-06-04, 22:06:59](https://news.ycombinator.com/item?id=36190051) - [Ultralong-Range Electric Cars Are Arriving. Say Goodbye to Charging Stops](https://www.wsj.com/articles/ultralong-range-electric-cars-are-arriving-say-goodbye-to-charging-stops-a5cf4390)
 * [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The Culture Map: How to Navigate Foreign Cultures in Business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
