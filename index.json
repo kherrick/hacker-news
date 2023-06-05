@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 14:06:10",
+      "https://news.ycombinator.com/item?id=36196343"
+    ],
+    [
+      "Major Reddit communities will go dark to protest threat to third-party apps",
+      "https://www.theverge.com/2023/6/5/23749188/reddit-subreddit-private-protest-api-changes-apollo-charges"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 13:45:21",
       "https://news.ycombinator.com/item?id=36196113"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2023-06-05, 13:05:47",
-      "https://news.ycombinator.com/item?id=36195629"
-    ],
-    [
-      "Spotify lays off 200 employees, or about 2% of its workforce",
-      "https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 13:01:54",
       "https://news.ycombinator.com/item?id=36195600"
     ],
@@ -41,12 +41,12 @@
   ],
   [
     [
-      "2023-06-05, 11:55:08",
-      "https://news.ycombinator.com/item?id=36195045"
+      "2023-06-05, 12:44:54",
+      "https://news.ycombinator.com/item?id=36195425"
     ],
     [
-      "Who killed the great British curry house? (2017)",
-      "https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house"
+      "Is it time to stop using sentinel values for null / “NA” values?",
+      "https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/"
     ]
   ],
   [
@@ -97,6 +97,16 @@
     [
       "Capita hack: 90 organisations report data breaches to watchdog",
       "https://www.bbc.com/news/technology-65746518"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 08:34:26",
+      "https://news.ycombinator.com/item?id=36193871"
+    ],
+    [
+      "Never trust a programmer who says they know C++",
+      "http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Pneumatic Antenna Launching Systems",
       "http://www.antennalaunchers.com/antlaunching.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-04, 18:16:40",
-      "https://news.ycombinator.com/item?id=36187994"
-    ],
-    [
-      "It’s infuriatingly hard to understand how closed models train on their input",
-      "https://simonwillison.net/2023/Jun/4/closed-model-training/"
     ]
   ],
   [
