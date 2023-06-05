@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
+* [2023-06-05, 15:41:33](https://news.ycombinator.com/item?id=36197913) - [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://openlsr.org/sail-7b)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
 * [2023-06-05, 15:32:27](https://news.ycombinator.com/item?id=36197738) - [Customer Ratings Have Become Meaningless. ‘People Give 5 Stars Like It’s Candy.’](https://www.wsj.com/articles/uber-airbnb-ratings-perfect-scores-customers-93686deb)
 * [2023-06-05, 15:31:12](https://news.ycombinator.com/item?id=36197712) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule)
@@ -12,6 +14,7 @@
 * [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader](https://twitter.com/joncstone/status/1665728784366960641)
 * [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the 7th Generation of Consoles Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
+* [2023-06-05, 15:05:34](https://news.ycombinator.com/item?id=36197206) - [America has paid a steep price for devoting too much space to storing cars](https://www.theatlantic.com/magazine/archive/2023/07/cars-parking-take-up-street-space-cities/674174/)
 * [2023-06-05, 15:04:14](https://news.ycombinator.com/item?id=36197190) - [Science Should Leave the University](https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/)
 * [2023-06-05, 14:59:33](https://news.ycombinator.com/item?id=36197103) - [The big idea: Are cats domesticated?](https://www.theguardian.com/books/2023/jun/05/the-big-idea-are-cats-really-domesticated)
 * [2023-06-05, 14:57:55](https://news.ycombinator.com/item?id=36197073) - [Pixar lays off animator who saved Toy Story 2 with car full of hard drives](https://www.sfgate.com/bayarea/article/pixar-layoffs-include-lightyear-director-18134457.php)
