@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 23:33:39](https://news.ycombinator.com/item?id=36205863) - [Nearly 30% of people under 30 support gov't surveillance cameras in every home](https://www.cato.org/blog/nearly-third-gen-z-favors-home-government-surveillance-cameras-1?s=03)
 * [2023-06-05, 22:37:57](https://news.ycombinator.com/item?id=36205117) - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
 * [2023-06-05, 22:32:33](https://news.ycombinator.com/item?id=36205043) - [Stack Overflow Moderators Striking to Stop Garbage AI Content from Flooding Site](https://www.vice.com/en/article/4a33dj/stack-overflow-moderators-are-striking-to-stop-garbage-ai-content-from-flooding-the-site)
 * [2023-06-05, 22:21:06](https://news.ycombinator.com/item?id=36204868) - [Why Reverse API Gateways Are Not Popular Yet](https://getconvoy.io/blog/why-engineers-do-not-use-webhook-gateways-yet/)

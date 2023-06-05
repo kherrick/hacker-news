@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 23:33:39](https://news.ycombinator.com/item?id=36205863) - [Nearly 30% of people under 30 support gov't surveillance cameras in every home](https://www.cato.org/blog/nearly-third-gen-z-favors-home-government-surveillance-cameras-1?s=03)
 * [2023-06-05, 22:37:57](https://news.ycombinator.com/item?id=36205117) - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
 * [2023-06-05, 22:21:06](https://news.ycombinator.com/item?id=36204868) - [Why Reverse API Gateways Are Not Popular Yet](https://getconvoy.io/blog/why-engineers-do-not-use-webhook-gateways-yet/)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
@@ -29,7 +30,6 @@
 * [2023-06-05, 11:12:11](https://news.ycombinator.com/item?id=36194786) - [Implementing Cosine in C from Scratch (2020)](https://austinhenley.com/blog/cosine.html)
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
-* [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 
 ## [Archives](archives/index.md)
 
