@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 17:12:45](https://news.ycombinator.com/item?id=36199510) - [Mac Studio gets its first hardware update with M2 Max and the new M2 Ultra chip](https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/)
+* [2023-06-05, 17:10:36](https://news.ycombinator.com/item?id=36199483) - [Apple Announces New MacBook Air with 15.3-Inch Display and M2 Chip](https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/)
+* [2023-06-05, 16:53:49](https://news.ycombinator.com/item?id=36199208) - [WWDC 2023 Livestream](https://www.apple.com/apple-events/event-stream/)
 * [2023-06-05, 16:32:48](https://news.ycombinator.com/item?id=36198807) - [The Falcon has landed in the Hugging Face ecosystem](https://huggingface.co/blog/falcon)
 * [2023-06-05, 16:19:06](https://news.ycombinator.com/item?id=36198566) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
 * [2023-06-05, 16:14:25](https://news.ycombinator.com/item?id=36198482) - [Morgan Stanley Expects a Shock 16% US Profit Drop to Kill Rally](https://www.bloomberg.com/news/articles/2023-06-05/morgan-stanley-sees-shock-16-us-profit-drop-killing-stock-rally)
