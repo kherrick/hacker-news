@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 16:19:06](https://news.ycombinator.com/item?id=36198566) - [Building a Programming Language in Twenty-Four Hours](https://ersei.net/en/blog/diy-programming-language)
 * [2023-06-05, 16:14:25](https://news.ycombinator.com/item?id=36198482) - [Morgan Stanley Expects a Shock 16% US Profit Drop to Kill Rally](https://www.bloomberg.com/news/articles/2023-06-05/morgan-stanley-sees-shock-16-us-profit-drop-killing-stock-rally)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:41:33](https://news.ycombinator.com/item?id=36197913) - [Sail 7B: New Fine Tuned LLM Outperforms ChatGPT and Vicuna with Search](https://openlsr.org/sail-7b)
@@ -11,7 +12,6 @@
 * [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 15:05:34](https://news.ycombinator.com/item?id=36197206) - [America has paid a steep price for parking](https://www.theatlantic.com/magazine/archive/2023/07/cars-parking-take-up-street-space-cities/674174/)
 * [2023-06-05, 15:04:14](https://news.ycombinator.com/item?id=36197190) - [Could science leave the university?](https://www.mindingthecampus.org/2023/06/01/science-should-leave-the-university/)
-* [2023-06-05, 14:59:33](https://news.ycombinator.com/item?id=36197103) - [Are cats really domesticated?](https://www.theguardian.com/books/2023/jun/05/the-big-idea-are-cats-really-domesticated)
 * [2023-06-05, 14:54:28](https://news.ycombinator.com/item?id=36197024) - [We've been targeted with a credit card testing fraud attack on Stripe](https://twitter.com/rameerez/status/1665680257788026880)
 * [2023-06-05, 14:45:53](https://news.ycombinator.com/item?id=36196884) - [Three companies agree to pay $1B to settle 'forever chemical' claims](https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html)
 * [2023-06-05, 13:45:21](https://news.ycombinator.com/item?id=36196113) - [A prompt pattern catalog to enhance prompt engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
