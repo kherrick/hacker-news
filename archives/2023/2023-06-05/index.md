@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 03:32:10](https://news.ycombinator.com/item?id=36191928) - [San Francisco Homeowners Lose $260B in Value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Random 4Chan User proves lower bound on Super permutations](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 03:07:58](https://news.ycombinator.com/item?id=36191787) - [Euthanasia Is Not Healthcare](https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [How I wrote my own Smart Home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
