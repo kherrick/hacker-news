@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Random 4Chan User proves lower bound on Super permutations](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 02:42:00](https://news.ycombinator.com/item?id=36191657) - [Parents in Ireland town to voluntarily ban smartphones for kids as old as 13](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
 * [2023-06-05, 01:49:21](https://news.ycombinator.com/item?id=36191359) - [The Meltdown at CNN](https://www.theatlantic.com/politics/archive/2023/06/cnn-ratings-chris-licht-trump/674255/)
-* [2023-06-05, 00:46:47](https://news.ycombinator.com/item?id=36191002) - [Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
-* [2023-06-05, 00:16:30](https://news.ycombinator.com/item?id=36190828) - [The boxes of Hock Wah Yeo (2021)](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
 * [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do we need copyright? (2012)](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
 * [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
@@ -23,6 +22,7 @@
 * [2023-06-04, 15:27:03](https://news.ycombinator.com/item?id=36186356) - [Iceland: The emerging tech-ecosystem of the Nordics](https://erikdestefanis.substack.com/p/iceland-the-emerging-tech-ecosystem)
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
 * [2023-06-04, 15:06:51](https://news.ycombinator.com/item?id=36186176) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
+* [2023-06-04, 14:56:43](https://news.ycombinator.com/item?id=36186080) - [High prices make textbook ‘piracy’ acceptable to most students](https://torrentfreak.com/high-prices-make-textbook-piracy-acceptable-to-most-students-230604/)
 * [2023-06-04, 14:22:47](https://news.ycombinator.com/item?id=36185817) - [A not-so-quick introduction to the C++ allocator model](https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/)
 * [2023-06-04, 12:50:39](https://news.ycombinator.com/item?id=36185218) - [A birder's quest to see 10k species](https://www.outsideonline.com/culture/essays-culture/peter-kaestner-birder/)
 * [2023-06-04, 07:22:51](https://news.ycombinator.com/item?id=36183733) - [Where the Wood-Wide Web Went Wrong](https://undark.org/2023/05/25/where-the-wood-wide-web-narrative-went-wrong/)
