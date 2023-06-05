@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 14:06:10](https://news.ycombinator.com/item?id=36196343) - [Major Reddit communities will go dark to protest threat to third-party apps](https://www.theverge.com/2023/6/5/23749188/reddit-subreddit-private-protest-api-changes-apollo-charges)
 * [2023-06-05, 13:45:21](https://news.ycombinator.com/item?id=36196113) - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 * [2023-06-05, 13:16:58](https://news.ycombinator.com/item?id=36195764) - [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
 * [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
 * [2023-06-05, 13:05:47](https://news.ycombinator.com/item?id=36195629) - [Spotify lays off 200 employees, or about 2% of its workforce](https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google No Longer Automatically Indexes Websites – WTF?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 * [2023-06-05, 12:49:19](https://news.ycombinator.com/item?id=36195458) - [Twitter’s U.S. Ad Sales Plunge 59% as Woes Continue](https://www.nytimes.com/2023/06/05/technology/twitter-ad-sales-musk.html)
+* [2023-06-05, 12:44:54](https://news.ycombinator.com/item?id=36195425) - [Is it time to stop using sentinel values for null / “NA” values?](https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/)
 * [2023-06-05, 11:55:08](https://news.ycombinator.com/item?id=36195045) - [Who killed the great British curry house? (2017)](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
 * [2023-06-05, 11:53:24](https://news.ycombinator.com/item?id=36195036) - [New Mass. right-to-repair law now being enforced](https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/)
 * [2023-06-05, 11:40:27](https://news.ycombinator.com/item?id=36194950) - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
