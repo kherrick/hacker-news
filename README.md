@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-05, 00:46:47](https://news.ycombinator.com/item?id=36191002) - [Response to “Developers are lazy, thus Flatpak”](https://theevilskeleton.gitlab.io/2023/06/04/response-to-developers-are-lazy-thus-flatpak.html)
+* [2023-06-05, 00:16:30](https://news.ycombinator.com/item?id=36190828) - [The boxes of Hock Wah Yeo (2021)](https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/)
 * [2023-06-04, 23:09:05](https://news.ycombinator.com/item?id=36190423) - [Book Review: Applied Math for Security](https://dustri.org/b/book-review-applied-math-for-security.html)
 * [2023-06-04, 22:28:38](https://news.ycombinator.com/item?id=36190184) - [Do we need copyright? (2012)](https://lemire.me/blog/2012/03/22/do-we-need-copyright/)
-* [2023-06-04, 22:06:59](https://news.ycombinator.com/item?id=36190051) - [Ultralong-Range Electric Cars Are Arriving. Say Goodbye to Charging Stops](https://www.wsj.com/articles/ultralong-range-electric-cars-are-arriving-say-goodbye-to-charging-stops-a5cf4390)
 * [2023-06-04, 22:02:20](https://news.ycombinator.com/item?id=36190015) - [The culture map: How to navigate foreign cultures in business](https://ahalbert.com/reviews/2023/06/04/the_culture_map.html)
 * [2023-06-04, 21:54:38](https://news.ycombinator.com/item?id=36189962) - [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
 * [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
