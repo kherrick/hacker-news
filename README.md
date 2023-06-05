@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 10:57:01](https://news.ycombinator.com/item?id=36194690) - [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
 * [2023-06-05, 09:58:27](https://news.ycombinator.com/item?id=36194321) - [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
 * [2023-06-05, 08:02:14](https://news.ycombinator.com/item?id=36193712) - [ROFL: An open-source license that promotes fun in coding](https://lmy.medium.com/rofl-an-open-source-license-that-promotes-fun-in-coding-620388502891)
@@ -18,9 +19,8 @@
 * [2023-06-04, 21:54:38](https://news.ycombinator.com/item?id=36189962) - [Social media for AI bots: “No humans allowed”](https://www.fry-ai.com/p/social-media-no-humans-allowed)
 * [2023-06-04, 21:52:17](https://news.ycombinator.com/item?id=36189942) - [Live dashboard of carbon dioxide removal purchases](https://www.cdr.fyi/)
 * [2023-06-04, 21:48:56](https://news.ycombinator.com/item?id=36189920) - [Blink 1.0](https://github.com/jart/blink/releases/tag/1.0.0)
+* [2023-06-04, 21:36:39](https://news.ycombinator.com/item?id=36189821) - [eBPF for Cybersecurity – Part 1](https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1)
 * [2023-06-04, 21:07:55](https://news.ycombinator.com/item?id=36189583) - [Wonky – An exploration of rhythm and grooves that break the rules](https://pudding.cool/2023/06/groove/)
-* [2023-06-04, 20:09:09](https://news.ycombinator.com/item?id=36189107) - [Crun: Fast and lightweight OCI runtime and C library for running containers](https://github.com/containers/crun)
-* [2023-06-04, 20:01:46](https://news.ycombinator.com/item?id=36189027) - [Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API](https://github.com/Fictiverse/Redream)
 * [2023-06-04, 19:58:47](https://news.ycombinator.com/item?id=36188996) - [Pneumatic Antenna Launching Systems](http://www.antennalaunchers.com/antlaunching.html)
 * [2023-06-04, 18:16:40](https://news.ycombinator.com/item?id=36187994) - [It’s infuriatingly hard to understand how closed models train on their input](https://simonwillison.net/2023/Jun/4/closed-model-training/)
 * [2023-06-04, 16:17:40](https://news.ycombinator.com/item?id=36186828) - [Journal of Mechanism and Institution Design](http://www.mechanism-design.org/)
