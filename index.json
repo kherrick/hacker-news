@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36192497"
     ],
     [
-      "Moderation strike: Stack Overflow Inc cannot ignore, mistreat, malign volunteers",
+      "Moderation strike",
       "https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an"
     ]
   ],
@@ -77,16 +77,6 @@
     [
       "Book Review: Applied Math for Security",
       "https://dustri.org/b/book-review-applied-math-for-security.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-04, 22:28:38",
-      "https://news.ycombinator.com/item?id=36190184"
-    ],
-    [
-      "Do we need copyright? (2012)",
-      "https://lemire.me/blog/2012/03/22/do-we-need-copyright/"
     ]
   ],
   [
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2023-06-04, 17:33:24",
+      "https://news.ycombinator.com/item?id=36187550"
+    ],
+    [
+      "WFH – Watched from Home: Office 365 and workplace surveillance creep (2022)",
+      "https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep"
+    ]
+  ],
+  [
+    [
       "2023-06-04, 16:55:01",
       "https://news.ycombinator.com/item?id=36187174"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=36180738"
     ],
     [
-      "A Close Look at a Spinlock",
+      "A Close Look at a Spinlock (2021)",
       "https://blog.regehr.org/archives/2173"
     ]
   ],
