@@ -10,6 +10,7 @@
 * [2023-06-03, 22:02:01](https://news.ycombinator.com/item?id=36180944) - [Science and Technogy links (June 3 2023)](https://lemire.me/blog/2023/06/03/science-and-technogy-links-june-3-2023/)
 * [2023-06-03, 22:01:58](https://news.ycombinator.com/item?id=36180942) - [Manifesto on the Teaching of Mathematics](https://intellectualmathematics.com/manifesto/)
 * [2023-06-03, 21:33:32](https://news.ycombinator.com/item?id=36180742) - [The death of self-driving cars is greatly exaggerated](https://www.understandingai.org/p/the-death-of-self-driving-cars-is)
+* [2023-06-03, 21:33:03](https://news.ycombinator.com/item?id=36180738) - [A Close Look at a Spinlock](https://blog.regehr.org/archives/2173)
 * [2023-06-03, 21:31:54](https://news.ycombinator.com/item?id=36180730) - [Maglev: Chrome’s New JIT Compiler](https://blog.chromium.org/2023/06/how-chrome-achieved-high-scores-on.html)
 * [2023-06-03, 20:37:31](https://news.ycombinator.com/item?id=36180316) - [GPS](https://ciechanow.ski/gps/)
 * [2023-06-03, 20:34:32](https://news.ycombinator.com/item?id=36180291) - [Golang vs. Python: The Ultimate Battle in DevOps](https://andrewodendaal.com/golang-vs-python-the-ultimate-battle-in-devops/)
