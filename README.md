@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 15:31:12](https://news.ycombinator.com/item?id=36197712) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule)
+* [2023-06-05, 15:23:58](https://news.ycombinator.com/item?id=36197569) - [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
 * [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader](https://twitter.com/joncstone/status/1665728784366960641)
 * [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the 7th Generation of Consoles Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
@@ -27,8 +29,6 @@
 * [2023-06-05, 02:49:07](https://news.ycombinator.com/item?id=36191691) - [Emulating PPC64 Inside Docker](https://blog.michael.kuron-germany.de/2023/06/emulating-ppc64-inside-docker/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [I wrote my own smart home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
 * [2023-06-05, 02:04:59](https://news.ycombinator.com/item?id=36191444) - [Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
-* [2023-06-04, 22:43:19](https://news.ycombinator.com/item?id=36190257) - [As the Priest Said to the Nun](https://www.lrb.co.uk/the-paper/v45/n11/john-gallagher/as-the-priest-said-to-the-nun)
-* [2023-06-04, 16:17:40](https://news.ycombinator.com/item?id=36186828) - [Journal of Mechanism and Institution Design](http://www.mechanism-design.org/)
 * [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 15:31:12](https://news.ycombinator.com/item?id=36197712) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule)
+* [2023-06-05, 15:23:58](https://news.ycombinator.com/item?id=36197569) - [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
 * [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [Technical error with Excel.swapped names.Andreas Babler elected SPÖ party leader](https://twitter.com/joncstone/status/1665728784366960641)
 * [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the 7th Generation of Consoles Part 1: Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
