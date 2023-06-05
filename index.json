@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 13:45:21",
+      "https://news.ycombinator.com/item?id=36196113"
+    ],
+    [
+      "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT",
+      "https://arxiv.org/abs/2302.11382"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 13:16:58",
       "https://news.ycombinator.com/item?id=36195764"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36195600"
     ],
     [
-      "Google No Longer Automatically Indexes Websites – WTF?",
+      "Google no longer automatically indexes websites?",
       "https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/"
     ]
   ],
@@ -57,16 +67,6 @@
     [
       "Thousands of early-career NIH researchers forming union for first time",
       "https://www.nature.com/articles/d41586-023-01845-w"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 11:39:28",
-      "https://news.ycombinator.com/item?id=36194941"
-    ],
-    [
-      "Why Did Usenet Fail?",
-      "https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Capita hack: 90 organisations report data breaches to watchdog",
       "https://www.bbc.com/news/technology-65746518"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 09:58:27",
-      "https://news.ycombinator.com/item?id=36194321"
-    ],
-    [
-      "Raspberry Pi production rate rising to a million a month",
-      "https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "D-Day Psyop (2014)",
       "https://psywarrior.com/DDAYPSYOP.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-04, 07:07:46",
+      "https://news.ycombinator.com/item?id=36183683"
+    ],
+    [
+      "DreamBerd is a perfect programming language",
+      "https://github.com/TodePond/DreamBerd"
     ]
   ]
 ]
