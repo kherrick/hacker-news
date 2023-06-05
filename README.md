@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 13:16:58](https://news.ycombinator.com/item?id=36195764) - [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
 * [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google No Longer Automatically Indexes Websites – WTF?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
+* [2023-06-05, 11:55:08](https://news.ycombinator.com/item?id=36195045) - [Who killed the great British curry house? (2017)](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
 * [2023-06-05, 11:53:24](https://news.ycombinator.com/item?id=36195036) - [New Mass. right-to-repair law now being enforced](https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/)
 * [2023-06-05, 11:40:27](https://news.ycombinator.com/item?id=36194950) - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
 * [2023-06-05, 11:39:28](https://news.ycombinator.com/item?id=36194941) - [Why Did Usenet Fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
@@ -14,7 +16,6 @@
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 06:20:08](https://news.ycombinator.com/item?id=36193038) - [Architect your project with Framed: effortless files and directories management](https://github.com/mactat/framed)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
-* [2023-06-05, 05:00:01](https://news.ycombinator.com/item?id=36192497) - [Moderation strike](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 * [2023-06-05, 04:16:41](https://news.ycombinator.com/item?id=36192195) - [Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 02:53:47](https://news.ycombinator.com/item?id=36191713) - [Historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
@@ -29,7 +30,6 @@
 * [2023-06-04, 15:07:29](https://news.ycombinator.com/item?id=36186185) - [Show HN: Rarbg on IPFS](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
 * [2023-06-04, 15:06:51](https://news.ycombinator.com/item?id=36186176) - [Anything can be a message queue if you use it wrongly enough](https://xeiaso.net/blog/anything-message-queue)
 * [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
-* [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 
 ## [Archives](archives/index.md)
 

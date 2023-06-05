@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 13:16:58](https://news.ycombinator.com/item?id=36195764) - [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
 * [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google No Longer Automatically Indexes Websites – WTF?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 * [2023-06-05, 12:49:19](https://news.ycombinator.com/item?id=36195458) - [Twitter’s U.S. Ad Sales Plunge 59% as Woes Continue](https://www.nytimes.com/2023/06/05/technology/twitter-ad-sales-musk.html)
