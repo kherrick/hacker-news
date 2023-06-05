@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 05:00:01](https://news.ycombinator.com/item?id=36192497) - [Moderation strike: Stack Overflow Inc cannot ignore, mistreat, malign volunteers](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
 * [2023-06-05, 04:34:54](https://news.ycombinator.com/item?id=36192312) - [Tell HN: My Reddit account was banned after adding my subs to the protest](https://news.ycombinator.com/item?id=36192312)
 * [2023-06-05, 04:16:41](https://news.ycombinator.com/item?id=36192195) - [Google just released a 100% free learning path on Generative AI with 9 Courses](https://www.cloudskillsboost.google/paths/118)
 * [2023-06-05, 03:32:10](https://news.ycombinator.com/item?id=36191928) - [San Francisco Homeowners Lose $260B in Value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
