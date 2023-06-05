@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 18:37:52](https://news.ycombinator.com/item?id=36200958) - [Apple reveals Vision Pro, a AR/VR headset unlike any other](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
+* [2023-06-05, 18:33:34](https://news.ycombinator.com/item?id=36200884) - [Apple Vision Pro Is Apple's New VR Headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
 * [2023-06-05, 18:29:08](https://news.ycombinator.com/item?id=36200806) - [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
 * [2023-06-05, 18:27:15](https://news.ycombinator.com/item?id=36200777) - [Apple Reveals 'Vision Pro' Headset](https://www.macrumors.com/2023/06/05/apple-reveals-vision-pro-headset/)
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests Around Chernobyl Aren’t Decaying Properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
