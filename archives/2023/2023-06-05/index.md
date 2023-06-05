@@ -15,6 +15,7 @@
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
 * [2023-06-05, 19:58:31](https://news.ycombinator.com/item?id=36202650) - [Ask HN: What Are You Working On?](https://news.ycombinator.com/item?id=36202650)
 * [2023-06-05, 19:51:50](https://news.ycombinator.com/item?id=36202543) - [AI Does Not Help Programmers](https://cacm.acm.org/blogs/blog-cacm/273577-ai-does-not-help-programmers/fulltext)
+* [2023-06-05, 19:33:44](https://news.ycombinator.com/item?id=36202277) - [We're joining the Reddit blackout from June 12th to 14th](https://old.reddit.com/r/formula1/comments/141jtll/were_joining_the_reddit_blackout_from_june_12th/)
 * [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:06:04](https://news.ycombinator.com/item?id=36201608) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)

@@ -6,6 +6,7 @@
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
 * [2023-06-05, 20:40:12](https://news.ycombinator.com/item?id=36203277) - [iOS Reddit App Apollo's Developer Surprised by WWDC Callout](https://old.reddit.com/r/apple/comments/141kfmi/wwdc_2023_event_megathread/)
 * [2023-06-05, 20:34:57](https://news.ycombinator.com/item?id=36203204) - [Is there a wider internet outage today?](https://www.thousandeyes.com/outages/)
+* [2023-06-05, 19:33:44](https://news.ycombinator.com/item?id=36202277) - [We're joining the Reddit blackout from June 12th to 14th](https://old.reddit.com/r/formula1/comments/141jtll/were_joining_the_reddit_blackout_from_june_12th/)
 * [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
@@ -29,7 +30,6 @@
 * [2023-06-05, 11:39:28](https://news.ycombinator.com/item?id=36194941) - [Why did Usenet fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
 * [2023-06-05, 11:12:11](https://news.ycombinator.com/item?id=36194786) - [Implementing Cosine in C from Scratch (2020)](https://austinhenley.com/blog/cosine.html)
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
-* [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 
 ## [Archives](archives/index.md)
 
