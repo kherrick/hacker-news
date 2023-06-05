@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 11:55:08](https://news.ycombinator.com/item?id=36195045) - [Who killed the great British curry house? (2017)](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
+* [2023-06-05, 11:40:27](https://news.ycombinator.com/item?id=36194950) - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
+* [2023-06-05, 11:39:28](https://news.ycombinator.com/item?id=36194941) - [Why Did Usenet Fail?](https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/)
 * [2023-06-05, 11:12:11](https://news.ycombinator.com/item?id=36194786) - [Implementing Cosine in C from Scratch](https://web.archive.org/web/20210513043002/http://web.eecs.utk.edu/~azh/blog/cosine.html)
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 10:57:01](https://news.ycombinator.com/item?id=36194690) - [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
