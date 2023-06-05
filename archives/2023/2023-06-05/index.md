@@ -6,6 +6,7 @@
 
 * [2023-06-05, 13:16:58](https://news.ycombinator.com/item?id=36195764) - [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
 * [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
+* [2023-06-05, 13:05:47](https://news.ycombinator.com/item?id=36195629) - [Spotify lays off 200 employees, or about 2% of its workforce](https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google No Longer Automatically Indexes Websites – WTF?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 * [2023-06-05, 12:49:19](https://news.ycombinator.com/item?id=36195458) - [Twitter’s U.S. Ad Sales Plunge 59% as Woes Continue](https://www.nytimes.com/2023/06/05/technology/twitter-ad-sales-musk.html)
 * [2023-06-05, 11:55:08](https://news.ycombinator.com/item?id=36195045) - [Who killed the great British curry house? (2017)](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
