@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 18:23:43](https://news.ycombinator.com/item?id=36200716) - [Deprecated Bloodstained Code in the Linux Kernel](https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/)
+* [2023-06-05, 18:23:22](https://news.ycombinator.com/item?id=36200708) - [Apple’s Vision Pro AR headset is finally here](https://techcrunch.com/2023/06/05/apple-headset/)
+* [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
 * [2023-06-05, 18:05:20](https://news.ycombinator.com/item?id=36200389) - [WhatsApp Down](https://web.whatsapp.com/)
+* [2023-06-05, 17:58:19](https://news.ycombinator.com/item?id=36200268) - [Why does MPEG Transport Stream still exist?](https://www.obe.tv/why-does-mpeg-ts-still-exist/)
 * [2023-06-05, 17:57:39](https://news.ycombinator.com/item?id=36200260) - [Universal basic income of nearly $2000/mo to be trialed in UK for the first time](https://www.cnbc.com/2023/06/05/universal-basic-income-could-be-coming-to-england-for-the-first-time.html)
 * [2023-06-05, 17:48:47](https://news.ycombinator.com/item?id=36200115) - [New DirectX 12-to-Metal translation could bring a world of Window games to macOS](https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/)
 * [2023-06-05, 17:44:21](https://news.ycombinator.com/item?id=36200043) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/uk/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)

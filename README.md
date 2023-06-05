@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-05, 18:23:43](https://news.ycombinator.com/item?id=36200716) - [Deprecated Bloodstained Code in the Linux Kernel](https://lowendbox.com/blog/the-deprecated-bloodstained-code-in-the-linux-kernel/)
+* [2023-06-05, 18:23:22](https://news.ycombinator.com/item?id=36200708) - [Apple’s Vision Pro AR headset is finally here](https://techcrunch.com/2023/06/05/apple-headset/)
+* [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
 * [2023-06-05, 18:05:20](https://news.ycombinator.com/item?id=36200389) - [WhatsApp Down](https://web.whatsapp.com/)
-* [2023-06-05, 17:57:39](https://news.ycombinator.com/item?id=36200260) - [Universal basic income of nearly $2000/mo to be trialed in UK for the first time](https://www.cnbc.com/2023/06/05/universal-basic-income-could-be-coming-to-england-for-the-first-time.html)
+* [2023-06-05, 17:58:19](https://news.ycombinator.com/item?id=36200268) - [Why does MPEG Transport Stream still exist?](https://www.obe.tv/why-does-mpeg-ts-still-exist/)
 * [2023-06-05, 17:48:47](https://news.ycombinator.com/item?id=36200115) - [New DirectX 12-to-Metal translation could bring a world of Window games to macOS](https://arstechnica.com/gaming/2023/06/new-directx-12-to-metal-translation-could-bring-a-world-of-windows-games-to-macos/)
 * [2023-06-05, 17:37:35](https://news.ycombinator.com/item?id=36199911) - [Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)
 * [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
@@ -18,7 +21,6 @@
 * [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
 * [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
-* [2023-06-05, 14:45:53](https://news.ycombinator.com/item?id=36196884) - [Three companies agree to pay $1B to settle 'forever chemical' claims](https://www.cnn.com/2023/06/03/business/pfas-chemours-dupont-corteva-settlement/index.html)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google no longer automatically indexes websites?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 * [2023-06-05, 12:44:54](https://news.ycombinator.com/item?id=36195425) - [Is it time to stop using sentinel values for null / “NA” values? (2018)](https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/)
 * [2023-06-05, 11:40:27](https://news.ycombinator.com/item?id=36194950) - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
@@ -27,9 +29,7 @@
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
-* [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
 * [2023-06-05, 02:53:47](https://news.ycombinator.com/item?id=36191713) - [Historical workstation desktop interface screenshots](http://www.typewritten.org/Media/)
-* [2023-06-04, 15:04:00](https://news.ycombinator.com/item?id=36186148) - [D-Day Psyop (2014)](https://psywarrior.com/DDAYPSYOP.html)
 
 ## [Archives](archives/index.md)
 
