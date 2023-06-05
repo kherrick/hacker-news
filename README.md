@@ -2,7 +2,6 @@
 
 * [2023-06-05, 03:32:10](https://news.ycombinator.com/item?id=36191928) - [San Francisco Homeowners Lose $260B in Value](https://www.hoover.org/research/san-francisco-homeowners-lose-260-billion-value)
 * [2023-06-05, 03:15:44](https://news.ycombinator.com/item?id=36191831) - [Mystery math whiz and novelist advance permutation problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/)
-* [2023-06-05, 03:07:58](https://news.ycombinator.com/item?id=36191787) - [Euthanasia Is Not Healthcare](https://joshanderson.me/2023/06/04/euthanasia-is-not-healthcare/)
 * [2023-06-05, 02:48:17](https://news.ycombinator.com/item?id=36191688) - [How I wrote my own Smart Home software](https://renato.athaydes.com/posts/writing-your-own-smarthome-manager.html)
 * [2023-06-05, 02:42:00](https://news.ycombinator.com/item?id=36191657) - [Parents in Ireland town to voluntarily ban smartphones for kids as old as 13](https://www.businessinsider.com/voluntary-smartphone-ban-for-kids-ireland-town-greystones-2023-6)
 * [2023-06-05, 02:04:59](https://news.ycombinator.com/item?id=36191444) - [Huh, Our Fake Beach Is Good for Sharks](https://hakaimagazine.com/features/huh-our-fake-beach-is-good-for-sharks/)
@@ -29,6 +28,7 @@
 * [2023-06-04, 07:07:46](https://news.ycombinator.com/item?id=36183683) - [DreamBerd is a perfect programming language](https://github.com/TodePond/DreamBerd)
 * [2023-06-04, 00:47:35](https://news.ycombinator.com/item?id=36181942) - [The War on Dogs](https://www.historytoday.com/archive/history-matters/war-dogs)
 * [2023-06-03, 18:03:24](https://news.ycombinator.com/item?id=36178942) - [Reduce vs. Fold in Common Lisp](https://www.n16f.net/blog/reduce-vs-fold-in-common-lisp/)
+* [2023-06-03, 16:03:47](https://news.ycombinator.com/item?id=36177756) - [MSI reveals first USB4 expansion card, delivering 100W through USB-C](https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html)
 * [2023-06-03, 14:13:50](https://news.ycombinator.com/item?id=36176844) - [Atomic Tourism](https://www.wsj.com/articles/inside-atomic-tourism-c834b3f4)
 
 ## [Archives](archives/index.md)
