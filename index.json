@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-05, 19:06:04",
+      "https://news.ycombinator.com/item?id=36201608"
+    ],
+    [
+      "Apple Vision Pro",
+      "https://www.apple.com/apple-vision-pro/"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 19:04:46",
       "https://news.ycombinator.com/item?id=36201593"
     ],
@@ -217,16 +227,6 @@
     [
       "Google no longer automatically indexes websites?",
       "https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 12:44:54",
-      "https://news.ycombinator.com/item?id=36195425"
-    ],
-    [
-      "Is it time to stop using sentinel values for null / “NA” values? (2018)",
-      "https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/"
     ]
   ],
   [
