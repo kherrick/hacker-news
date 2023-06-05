@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 17:37:35](https://news.ycombinator.com/item?id=36199911) - [Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF](https://argilla.io/blog/argilla-for-llms/)
+* [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
 * [2023-06-05, 17:16:10](https://news.ycombinator.com/item?id=36199558) - [Apple Announces Apple Silicon Mac Pro Powered by M2 Ultra](https://9to5mac.com/2023/06/05/apple-announces-apple-silicon-mac-pro-powered-by-m2-ultra/)
 * [2023-06-05, 17:12:45](https://news.ycombinator.com/item?id=36199510) - [Mac Studio gets its first hardware update with M2 Max and the new M2 Ultra chip](https://9to5mac.com/2023/06/05/new-mac-studio-m2-max-ultra/)
 * [2023-06-05, 17:10:36](https://news.ycombinator.com/item?id=36199483) - [Apple Announces New MacBook Air with 15.3-Inch Display and M2 Chip](https://www.macrumors.com/2023/06/05/apple-new-15-inch-macbook-air/)
