@@ -5,7 +5,7 @@
 * [2023-06-06, 03:52:32](https://news.ycombinator.com/item?id=36207859) - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
 * [2023-06-06, 02:22:50](https://news.ycombinator.com/item?id=36207268) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 * [2023-06-06, 02:15:21](https://news.ycombinator.com/item?id=36207211) - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
-* [2023-06-06, 02:04:53](https://news.ycombinator.com/item?id=36207142) - [Wait Until 8TH](https://www.waituntil8th.org)
+* [2023-06-06, 02:04:53](https://news.ycombinator.com/item?id=36207142) - [The Wait Until 8th pledge](https://www.waituntil8th.org)
 * [2023-06-06, 01:52:53](https://news.ycombinator.com/item?id=36207069) - [Entertainments from a Medieval Minstrel’s Repertoire Book](https://academic.oup.com/res/advance-article/doi/10.1093/res/hgad053/7187022)
 * [2023-06-06, 01:43:47](https://news.ycombinator.com/item?id=36207009) - [Vector Database in a Jupyter Notebook](https://zilliz.com/blog/exploring-magic-vector-databases-jupyter-notebooks)
 * [2023-06-06, 01:08:38](https://news.ycombinator.com/item?id=36206746) - [A confession exposes India’s hacking industry](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry)
