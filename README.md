@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 06:01:14](https://news.ycombinator.com/item?id=36208735) - [visionOS](https://developer.apple.com/visionos/)
 * [2023-06-06, 05:57:23](https://news.ycombinator.com/item?id=36208718) - [Ask HN: code we write today will be thrown out in the next 30 years](https://news.ycombinator.com/item?id=36208718)
+* [2023-06-06, 05:37:28](https://news.ycombinator.com/item?id=36208568) - [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
 * [2023-06-06, 04:00:58](https://news.ycombinator.com/item?id=36207926) - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
 * [2023-06-06, 03:52:32](https://news.ycombinator.com/item?id=36207859) - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
 * [2023-06-06, 03:31:57](https://news.ycombinator.com/item?id=36207705) - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
@@ -20,8 +22,6 @@
 * [2023-06-05, 18:47:15](https://news.ycombinator.com/item?id=36201127) - [What is so beautiful about this door? On al-Jazari as an engineer (2019)](https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/)
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
-* [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
-* [2023-06-05, 17:22:11](https://news.ycombinator.com/item?id=36199637) - [Apple Introduces M2 Ultra](https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
 * [2023-06-05, 15:13:30](https://news.ycombinator.com/item?id=36197353) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
