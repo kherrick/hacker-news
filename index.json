@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-06, 15:15:40",
+      "https://news.ycombinator.com/item?id=36214113"
+    ],
+    [
+      "Corsix – A whirlwind tour of AArch64 vector instructions",
+      "https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 15:05:03",
       "https://news.ycombinator.com/item?id=36213929"
     ],
@@ -17,6 +27,16 @@
     [
       "Counterexamples in Type Systems: programs that crash, segfault or explode (2021)",
       "https://counterexamples.org/intro.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 14:40:36",
+      "https://news.ycombinator.com/item?id=36213536"
+    ],
+    [
+      "The ingredients of our devtool rebrand",
+      "https://www.mux.com/blog/rebranding-during-a-recession"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-06-06, 11:51:00",
-      "https://news.ycombinator.com/item?id=36211255"
-    ],
-    [
-      "A better tool than jq for just extracting data, antonmedv's fx",
-      "https://github.com/antonmedv/fx"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 11:49:23",
       "https://news.ycombinator.com/item?id=36211250"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=36211219"
     ],
     [
-      "Sequoia Is Splitting into Three VC Firms",
+      "Sequoia is splitting into three VC firms",
       "https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/"
     ]
   ],
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2023-06-06, 00:39:28",
-      "https://news.ycombinator.com/item?id=36206526"
+      "2023-06-05, 18:34:08",
+      "https://news.ycombinator.com/item?id=36200895"
     ],
     [
-      "Preparing for the Incoming Computer Shopper Tsunami",
-      "http://ascii.textfiles.com/archives/5543"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 19:04:46",
-      "https://news.ycombinator.com/item?id=36201593"
-    ],
-    [
-      "Apple Vision Pro: Apple’s first spatial computer",
-      "https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/"
+      "Hierapolis Sawmill",
+      "https://en.wikipedia.org/wiki/Hierapolis_sawmill"
     ]
   ],
   [
