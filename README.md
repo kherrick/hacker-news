@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-06, 03:31:57](https://news.ycombinator.com/item?id=36207705) - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
+* [2023-06-06, 02:33:12](https://news.ycombinator.com/item?id=36207345) - [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
 * [2023-06-06, 02:22:50](https://news.ycombinator.com/item?id=36207268) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 * [2023-06-06, 02:15:21](https://news.ycombinator.com/item?id=36207211) - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
 * [2023-06-06, 02:04:53](https://news.ycombinator.com/item?id=36207142) - [Wait Until 8TH](https://www.waituntil8th.org)
 * [2023-06-06, 01:52:53](https://news.ycombinator.com/item?id=36207069) - [Entertainments from a Medieval Minstrel’s Repertoire Book](https://academic.oup.com/res/advance-article/doi/10.1093/res/hgad053/7187022)
 * [2023-06-06, 01:43:47](https://news.ycombinator.com/item?id=36207009) - [Vector Database in a Jupyter Notebook](https://zilliz.com/blog/exploring-magic-vector-databases-jupyter-notebooks)
-* [2023-06-06, 01:30:55](https://news.ycombinator.com/item?id=36206908) - [Ask HN: Rust or C or C++ in 2023?](https://news.ycombinator.com/item?id=36206908)
 * [2023-06-06, 01:08:38](https://news.ycombinator.com/item?id=36206746) - [A confession exposes India’s hacking industry](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry)
 * [2023-06-06, 00:39:28](https://news.ycombinator.com/item?id=36206526) - [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
 * [2023-06-05, 23:43:31](https://news.ycombinator.com/item?id=36205978) - [Health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
