@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-05, 23:33:39",
-      "https://news.ycombinator.com/item?id=36205863"
-    ],
-    [
-      "Nearly 30% of people under 30 support gov't surveillance cameras in every home",
-      "https://www.cato.org/blog/nearly-third-gen-z-favors-home-government-surveillance-cameras-1?s=03"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 22:37:57",
       "https://news.ycombinator.com/item?id=36205117"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2023-06-05, 22:21:06",
-      "https://news.ycombinator.com/item?id=36204868"
+      "2023-06-05, 21:55:02",
+      "https://news.ycombinator.com/item?id=36204453"
     ],
     [
-      "Why Reverse API Gateways Are Not Popular Yet",
-      "https://getconvoy.io/blog/why-engineers-do-not-use-webhook-gateways-yet/"
+      "Tutorial: Teaching and Learning Compilers Incrementally",
+      "https://iucompilercourse.github.io/tutorial-web-page/"
     ]
   ],
   [
@@ -57,16 +47,6 @@
     [
       "Is there a wider internet outage today?",
       "https://www.thousandeyes.com/outages/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 19:33:44",
-      "https://news.ycombinator.com/item?id=36202277"
-    ],
-    [
-      "We're joining the Reddit blackout from June 12th to 14th",
-      "https://old.reddit.com/r/formula1/comments/141jtll/were_joining_the_reddit_blackout_from_june_12th/"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "Flora Incognita – free AI-supported plant identification university project",
       "https://floraincognita.com/"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 18:29:08",
+      "https://news.ycombinator.com/item?id=36200806"
+    ],
+    [
+      "iOS 17 makes iPhone more personal and intuitive",
+      "https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Why Lisp Syntax Works",
       "https://borretti.me/article/why-lisp-syntax-works"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 05:41:46",
+      "https://news.ycombinator.com/item?id=36192777"
+    ],
+    [
+      "Sandstorm: Open-source platform for self-hosting web apps",
+      "https://sandstorm.io/"
     ]
   ]
 ]
