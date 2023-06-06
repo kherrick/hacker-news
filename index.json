@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-06, 21:12:03",
+      "https://news.ycombinator.com/item?id=36219181"
+    ],
+    [
+      "Swift Ownership Manifesto",
+      "https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 21:00:18",
       "https://news.ycombinator.com/item?id=36219051"
     ],
@@ -27,6 +37,16 @@
     [
       "Apple Releases New Static Linker",
       "https://twitter.com/davidecci/status/1665835119331135488"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 19:55:58",
+      "https://news.ycombinator.com/item?id=36218281"
+    ],
+    [
+      "Redditor creates working anime QR codes using Stable Diffusion",
+      "https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Passkeys now support external providers",
       "https://developer.apple.com/passkeys/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 06:46:31",
-      "https://news.ycombinator.com/item?id=36209047"
-    ],
-    [
-      "Nvidia releases new AI chip with 480GB CPU RAM, 96GB GPU RAM",
-      "https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 06:42:31",
-      "https://news.ycombinator.com/item?id=36209014"
-    ],
-    [
-      "Apple releasing segmentation/pose for humans and animals, embedding for 27 lang",
-      "https://developer.apple.com/wwdc23/topics/ml-vision/"
     ]
   ],
   [
