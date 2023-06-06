@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 13:34:31](https://news.ycombinator.com/item?id=36212480) - [Ripping Off Professional Criminals by Fermenting Onions](https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/)
+* [2023-06-06, 13:19:59](https://news.ycombinator.com/item?id=36212242) - [Deadly heart attacks are more common on a Monday](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/heart-attack-more-common-monday)
 * [2023-06-06, 13:10:56](https://news.ycombinator.com/item?id=36212120) - [US SEC sues Coinbase, one day after suing Binance](https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/)
 * [2023-06-06, 13:02:39](https://news.ycombinator.com/item?id=36212001) - [We reported an AWS security issue and then this happened](https://garden.io/blog/aws-security-issue)
 * [2023-06-06, 12:45:05](https://news.ycombinator.com/item?id=36211788) - [Apple Vision](https://stratechery.com/2023/apple-vision/)

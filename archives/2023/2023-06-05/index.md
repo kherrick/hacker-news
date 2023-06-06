@@ -53,6 +53,7 @@
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
 * [2023-06-05, 15:32:27](https://news.ycombinator.com/item?id=36197738) - [Customer Ratings Have Become Meaningless. ‘People Give 5 Stars Like It’s Candy.’](https://www.wsj.com/articles/uber-airbnb-ratings-perfect-scores-customers-93686deb)
 * [2023-06-05, 15:31:12](https://news.ycombinator.com/item?id=36197712) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rule)
+* [2023-06-05, 15:25:08](https://news.ycombinator.com/item?id=36197588) - [Scientists' report first X-ray of a single atom](https://phys.org/news/2023-05-scientists-world-x-ray-atom.html)
 * [2023-06-05, 15:23:58](https://news.ycombinator.com/item?id=36197569) - [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
 * [2023-06-05, 15:15:40](https://news.ycombinator.com/item?id=36197401) - [Tell HN: Cloudflare is locking out Linux users](https://news.ycombinator.com/item?id=36197401)
 * [2023-06-05, 15:13:30](https://news.ycombinator.com/item?id=36197353) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
