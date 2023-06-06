@@ -72,6 +72,7 @@
 * [2023-06-05, 13:42:46](https://news.ycombinator.com/item?id=36196068) - [OpenAI boss ‘heartened’ by talks with world leaders over will to contain AI risk](https://apnews.com/article/chatgpt-openai-altman-artificial-intelligence-0687c5645c191bceeb6c481deb985177)
 * [2023-06-05, 13:27:02](https://news.ycombinator.com/item?id=36195885) - [How Wittgenstein Watched Movies](https://onthearts.com/p/how-wittgenstein-watched-movies)
 * [2023-06-05, 13:16:58](https://news.ycombinator.com/item?id=36195764) - [Signs of de-dollarisation emerging, Wall Street giant JPMorgan says](https://www.reuters.com/markets/signs-de-dollarisation-emerge-dollar-top-currency-jpmorgan-2023-06-05/)
+* [2023-06-05, 13:16:48](https://news.ycombinator.com/item?id=36195762) - [Undirected SS Shortest Paths with Positive Integer Weights in O(n) (1999) [pdf]](https://www.csie.ntu.edu.tw/~r98922004/doc/SPT.pdf)
 * [2023-06-05, 13:15:27](https://news.ycombinator.com/item?id=36195745) - [Weapons firms influence the Ukraine debate](https://responsiblestatecraft.org/2023/06/01/how-weapons-firms-influence-the-ukraine-debate/)
 * [2023-06-05, 13:05:47](https://news.ycombinator.com/item?id=36195629) - [Spotify lays off 200 employees, or about 2% of its workforce](https://www.cnbc.com/2023/06/05/spotify-layoffs-200-employees-or-about-2percent-of-its-workforce-cut.html)
 * [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google No Longer Automatically Indexes Websites – WTF?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)

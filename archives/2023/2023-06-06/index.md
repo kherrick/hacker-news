@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 12:45:05](https://news.ycombinator.com/item?id=36211788) - [Apple Vision](https://stratechery.com/2023/apple-vision/)
+* [2023-06-06, 12:25:03](https://news.ycombinator.com/item?id=36211567) - [Coinbase Sued by SEC for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules)
 * [2023-06-06, 12:00:54](https://news.ycombinator.com/item?id=36211341) - [Svix (YC W21) Is Hiring an Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-06-06, 11:49:23](https://news.ycombinator.com/item?id=36211250) - [Six tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
 * [2023-06-06, 11:45:42](https://news.ycombinator.com/item?id=36211219) - [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
