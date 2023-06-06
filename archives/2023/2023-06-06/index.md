@@ -22,6 +22,7 @@
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
 * [2023-06-06, 16:33:25](https://news.ycombinator.com/item?id=36215357) - [SwiftData](https://developer.apple.com/documentation/SwiftData)
 * [2023-06-06, 16:07:25](https://news.ycombinator.com/item?id=36214901) - [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/)
+* [2023-06-06, 15:56:55](https://news.ycombinator.com/item?id=36214781) - [AI Will Save the World?](https://pmarca.substack.com/p/why-ai-will-save-the-world)
 * [2023-06-06, 15:15:40](https://news.ycombinator.com/item?id=36214113) - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-06-06, 15:05:03](https://news.ycombinator.com/item?id=36213929) - ['Guilt Tipping': Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
