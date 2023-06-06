@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 16:33:25](https://news.ycombinator.com/item?id=36215357) - [SwiftData](https://developer.apple.com/documentation/SwiftData)
 * [2023-06-06, 15:15:40](https://news.ycombinator.com/item?id=36214113) - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
-* [2023-06-06, 15:05:03](https://news.ycombinator.com/item?id=36213929) - ['Guilt Tipping': Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
 * [2023-06-06, 14:40:36](https://news.ycombinator.com/item?id=36213536) - [The ingredients of our devtool rebrand](https://www.mux.com/blog/rebranding-during-a-recession)
 * [2023-06-06, 14:27:42](https://news.ycombinator.com/item?id=36213332) - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
