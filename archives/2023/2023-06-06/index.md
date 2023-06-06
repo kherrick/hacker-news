@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 04:00:58](https://news.ycombinator.com/item?id=36207926) - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
 * [2023-06-06, 03:52:32](https://news.ycombinator.com/item?id=36207859) - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
 * [2023-06-06, 03:31:57](https://news.ycombinator.com/item?id=36207705) - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
 * [2023-06-06, 02:33:18](https://news.ycombinator.com/item?id=36207346) - [Get ready for AWS IPv6 day](https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/)

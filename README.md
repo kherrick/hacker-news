@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 04:00:58](https://news.ycombinator.com/item?id=36207926) - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
 * [2023-06-06, 03:52:32](https://news.ycombinator.com/item?id=36207859) - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
 * [2023-06-06, 03:31:57](https://news.ycombinator.com/item?id=36207705) - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
 * [2023-06-06, 02:22:50](https://news.ycombinator.com/item?id=36207268) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
@@ -12,7 +13,6 @@
 * [2023-06-05, 23:43:31](https://news.ycombinator.com/item?id=36205978) - [Health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
 * [2023-06-05, 21:55:02](https://news.ycombinator.com/item?id=36204453) - [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
-* [2023-06-05, 19:23:15](https://news.ycombinator.com/item?id=36202088) - [macOS 14 will support JPEG XL](https://twitter.com/jonsneyers/status/1665792517613256705)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 18:48:21](https://news.ycombinator.com/item?id=36201143) - [Flora Incognita – free AI-supported plant identification university project](https://floraincognita.com/)
