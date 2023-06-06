@@ -78,6 +78,7 @@
 * [2023-06-05, 12:49:19](https://news.ycombinator.com/item?id=36195458) - [Twitter’s U.S. Ad Sales Plunge 59% as Woes Continue](https://www.nytimes.com/2023/06/05/technology/twitter-ad-sales-musk.html)
 * [2023-06-05, 12:44:54](https://news.ycombinator.com/item?id=36195425) - [Is it time to stop using sentinel values for null / “NA” values?](https://wesmckinney.com/blog/bitmaps-vs-sentinel-values/)
 * [2023-06-05, 12:02:15](https://news.ycombinator.com/item?id=36195105) - [Helplessness is not learned (2022)](https://neurofrontiers.blog/helplessness-is-not-learned/)
+* [2023-06-05, 12:00:59](https://news.ycombinator.com/item?id=36195090) - [How do railway signals work?](https://www.alpharail.co.nz/how-do-railway-signals-work/)
 * [2023-06-05, 11:55:08](https://news.ycombinator.com/item?id=36195045) - [Who killed the great British curry house? (2017)](https://www.theguardian.com/lifeandstyle/2017/jan/12/who-killed-the-british-curry-house)
 * [2023-06-05, 11:53:24](https://news.ycombinator.com/item?id=36195036) - [New Mass. right-to-repair law now being enforced](https://www.boston.com/news/local-news/2023/06/01/right-to-repair-law-massachusetts-enforced/)
 * [2023-06-05, 11:40:27](https://news.ycombinator.com/item?id=36194950) - [Thousands of early-career NIH researchers forming union for first time](https://www.nature.com/articles/d41586-023-01845-w)
