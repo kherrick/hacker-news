@@ -86,6 +86,7 @@
 * [2023-06-05, 11:12:11](https://news.ycombinator.com/item?id=36194786) - [Implementing Cosine in C from Scratch (2020)](https://austinhenley.com/blog/cosine.html)
 * [2023-06-05, 10:59:05](https://news.ycombinator.com/item?id=36194703) - [Why Lisp Syntax Works](https://borretti.me/article/why-lisp-syntax-works)
 * [2023-06-05, 10:57:01](https://news.ycombinator.com/item?id=36194690) - [Capita hack: 90 organisations report data breaches to watchdog](https://www.bbc.com/news/technology-65746518)
+* [2023-06-05, 10:20:45](https://news.ycombinator.com/item?id=36194473) - [Show HN: SQLPage – Build Dynamic Websites with Just SQL Queries](https://sql.ophir.dev/)
 * [2023-06-05, 09:58:29](https://news.ycombinator.com/item?id=36194322) - [Tech Elite’s AI Ideologies Have Racist Foundations, Say AI Ethicists](https://peopleofcolorintech.com/articles/timnit-gebru-and-emile-torres-call-out-racist-roots-of-the-tech-elites-ai-ideologies/)
 * [2023-06-05, 09:58:27](https://news.ycombinator.com/item?id=36194321) - [Raspberry Pi production rate rising to a million a month](https://www.theregister.com/2023/06/05/raspberry_pi_shipments_rise/)
 * [2023-06-05, 09:54:48](https://news.ycombinator.com/item?id=36194297) - [Phoronix.com Turns 19 Years Old for Covering Linux Hardware, Open-Source News](https://www.phoronix.com/news/Phoronix-Turns-19)
