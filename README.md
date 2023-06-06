@@ -7,6 +7,7 @@
 * [2023-06-06, 19:59:31](https://news.ycombinator.com/item?id=36218330) - [Apple Releases New Static Linker](https://twitter.com/davidecci/status/1665835119331135488)
 * [2023-06-06, 19:55:58](https://news.ycombinator.com/item?id=36218281) - [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
 * [2023-06-06, 19:17:57](https://news.ycombinator.com/item?id=36217746) - [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
+* [2023-06-06, 18:29:10](https://news.ycombinator.com/item?id=36217098) - [From SVG to Canvas – A new way of building interactions](https://felt.com/blog/svg-to-canvas-part-2-building-interactions)
 * [2023-06-06, 18:19:15](https://news.ycombinator.com/item?id=36216959) - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
 * [2023-06-06, 18:04:52](https://news.ycombinator.com/item?id=36216745) - [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
@@ -28,7 +29,6 @@
 * [2023-06-06, 06:32:58](https://news.ycombinator.com/item?id=36208942) - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/)
 * [2023-06-06, 05:26:32](https://news.ycombinator.com/item?id=36208499) - [Was He Apollo’s Son?: Review of Plato of Athens](https://literaryreview.co.uk/was-he-apollos-son)
 * [2023-06-05, 18:34:08](https://news.ycombinator.com/item?id=36200895) - [Hierapolis Sawmill](https://en.wikipedia.org/wiki/Hierapolis_sawmill)
-* [2023-06-05, 15:25:08](https://news.ycombinator.com/item?id=36197588) - [Scientists' report first X-ray of a single atom](https://phys.org/news/2023-05-scientists-world-x-ray-atom.html)
 * [2023-06-05, 07:02:21](https://news.ycombinator.com/item?id=36193315) - [React, but in Python](https://github.com/reactive-python/reactpy)
 
 ## [Archives](archives/index.md)
