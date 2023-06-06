@@ -8,6 +8,7 @@
 * [2023-06-06, 18:19:15](https://news.ycombinator.com/item?id=36216959) - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:43:15](https://news.ycombinator.com/item?id=36216438) - [Twitch: New TOS bans multi-streaming/simulcasting](https://www.twitch.tv/p/en/legal/terms-of-service/#11-simulcasting)
+* [2023-06-06, 17:40:23](https://news.ycombinator.com/item?id=36216389) - [The C Standard Library Function Isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:17:56](https://news.ycombinator.com/item?id=36216056) - [RedPajama 7B (an Apache 2.0-licensed LLaMa) is now available](https://www.together.xyz/blog/redpajama-7b)
 * [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 17:06:52](https://news.ycombinator.com/item?id=36215914) - [Reddit permanently bans account of user advocating Lemmy migration](https://lemmy.ml/post/1152281)
