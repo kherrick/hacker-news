@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 * [2023-06-06, 21:00:18](https://news.ycombinator.com/item?id=36219051) - [Tesorio (YC S15) Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
 * [2023-06-06, 20:49:31](https://news.ycombinator.com/item?id=36218932) - [SEC asks for emergency order to freeze Binance US assets anywhere in the world](https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html)
 * [2023-06-06, 19:59:31](https://news.ycombinator.com/item?id=36218330) - [Apple Releases New Static Linker](https://twitter.com/davidecci/status/1665835119331135488)
+* [2023-06-06, 19:55:58](https://news.ycombinator.com/item?id=36218281) - [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
 * [2023-06-06, 19:17:57](https://news.ycombinator.com/item?id=36217746) - [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
 * [2023-06-06, 18:45:35](https://news.ycombinator.com/item?id=36217302) - [International Obfuscated Python Code Competition: Submissions Open](https://pyobfusc.com)
 * [2023-06-06, 18:26:51](https://news.ycombinator.com/item?id=36217064) - [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
