@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-06-06, 02:33:18",
+      "https://news.ycombinator.com/item?id=36207346"
+    ],
+    [
+      "Get ready for AWS IPv6 day",
+      "https://aws.amazon.com/blogs/networking-and-content-delivery/get-ready-for-aws-ipv6-day/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 02:33:12",
+      "https://news.ycombinator.com/item?id=36207345"
+    ],
+    [
+      "A 27-inch display in a briefcase",
+      "https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 02:31:37",
+      "https://news.ycombinator.com/item?id=36207331"
+    ],
+    [
+      "I wore the Apple Vision Pro. It’s the best headset demo ever",
+      "https://www.theverge.com/2023/6/5/23750003/apple-vision-pro-hands-on-the-best-headset-demo-ever"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 01:38:25",
+      "https://news.ycombinator.com/item?id=36206963"
+    ],
+    [
+      "Apple Vision Pro: I Tried the New Mixed-Reality Headset",
+      "https://www.wsj.com/articles/apple-vision-pro-i-tried-the-new-mixed-reality-headset-f49a8811"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 01:30:55",
+      "https://news.ycombinator.com/item?id=36206908"
+    ],
+    [
+      "Ask HN: Rust or C or C++ in 2023?",
+      "https://news.ycombinator.com/item?id=36206908"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 01:08:38",
+      "https://news.ycombinator.com/item?id=36206746"
+    ],
+    [
+      "A confession exposes India’s hacking industry",
+      "https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 00:39:28",
       "https://news.ycombinator.com/item?id=36206526"
     ],
@@ -15,18 +75,8 @@
       "https://news.ycombinator.com/item?id=36205978"
     ],
     [
-      "‘Shut it off immediately’: health industry responds to data privacy crackdown",
+      "Health industry responds to data privacy crackdown",
       "https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 22:37:57",
-      "https://news.ycombinator.com/item?id=36205117"
-    ],
-    [
-      "Poor people often don’t survive to become seniors who vote",
-      "https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html"
     ]
   ],
   [
@@ -47,26 +97,6 @@
     [
       "Demo: Fully P2P and open source Reddit alternative",
       "https://plebbit-test.netlify.app"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 20:40:12",
-      "https://news.ycombinator.com/item?id=36203277"
-    ],
-    [
-      "iOS Reddit App Apollo's Developer Surprised by WWDC Callout",
-      "https://old.reddit.com/r/apple/comments/141kfmi/wwdc_2023_event_megathread/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 20:34:57",
-      "https://news.ycombinator.com/item?id=36203204"
-    ],
-    [
-      "Is there a wider internet outage today?",
-      "https://www.thousandeyes.com/outages/"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-06-05, 17:37:35",
-      "https://news.ycombinator.com/item?id=36199911"
-    ],
-    [
-      "Open-Source Data Collection Platform for LLM Fine-Tuning and RLHF",
-      "https://argilla.io/blog/argilla-for-llms/"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 17:22:16",
       "https://news.ycombinator.com/item?id=36199639"
     ],
@@ -167,6 +187,16 @@
     [
       "Apple Introduces M2 Ultra",
       "https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 17:11:49",
+      "https://news.ycombinator.com/item?id=36199499"
+    ],
+    [
+      "On 'function coloring' (2018)",
+      "https://www.tedinski.com/2018/11/13/function-coloring.html"
     ]
   ],
   [
@@ -247,36 +277,6 @@
     [
       "Google no longer automatically indexes websites?",
       "https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 11:40:27",
-      "https://news.ycombinator.com/item?id=36194950"
-    ],
-    [
-      "Thousands of early-career NIH researchers forming union for first time",
-      "https://www.nature.com/articles/d41586-023-01845-w"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 11:39:28",
-      "https://news.ycombinator.com/item?id=36194941"
-    ],
-    [
-      "Why did Usenet fail?",
-      "https://shkspr.mobi/blog/2023/06/why-did-usenet-fail/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 11:12:11",
-      "https://news.ycombinator.com/item?id=36194786"
-    ],
-    [
-      "Implementing Cosine in C from Scratch (2020)",
-      "https://austinhenley.com/blog/cosine.html"
     ]
   ],
   [
