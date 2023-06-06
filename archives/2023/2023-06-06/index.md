@@ -19,3 +19,4 @@
 * [2023-06-06, 01:30:55](https://news.ycombinator.com/item?id=36206908) - [Ask HN: Rust or C or C++ in 2023?](https://news.ycombinator.com/item?id=36206908)
 * [2023-06-06, 01:08:38](https://news.ycombinator.com/item?id=36206746) - [A confession exposes India’s hacking industry](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry)
 * [2023-06-06, 00:39:28](https://news.ycombinator.com/item?id=36206526) - [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
+* [2023-06-06, 00:18:41](https://news.ycombinator.com/item?id=36206347) - [A Penalized Likelihood Estimator for Variance Parameters in Multilevel Models [pdf]](http://www.gllamm.org/Chung_etal_Pmetrika2013.pdf)
