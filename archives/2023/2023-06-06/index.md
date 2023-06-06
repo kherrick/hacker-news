@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 10:52:36](https://news.ycombinator.com/item?id=36210805) - [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
 * [2023-06-06, 10:13:47](https://news.ycombinator.com/item?id=36210548) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 * [2023-06-06, 09:09:29](https://news.ycombinator.com/item?id=36210133) - [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
 * [2023-06-06, 08:32:40](https://news.ycombinator.com/item?id=36209867) - [Reconstructing Obsidian Features in Vim and Bash](https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim/)
