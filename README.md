@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 14:27:42](https://news.ycombinator.com/item?id=36213332) - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
+* [2023-06-06, 14:27:34](https://news.ycombinator.com/item?id=36213330) - [Chrome still hasn't changed its opinion about dropping JPEG XL support](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
 * [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 13:34:31](https://news.ycombinator.com/item?id=36212480) - [Ripping off professional criminals by fermenting onions](https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/)
@@ -9,7 +11,6 @@
 * [2023-06-06, 12:45:05](https://news.ycombinator.com/item?id=36211788) - [Apple Vision](https://stratechery.com/2023/apple-vision/)
 * [2023-06-06, 12:25:03](https://news.ycombinator.com/item?id=36211567) - [Coinbase Sued by SEC for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules)
 * [2023-06-06, 12:00:54](https://news.ycombinator.com/item?id=36211341) - [Svix (YC W21) Is Hiring an Account Executive (US Remote)](https://www.svix.com/careers/)
-* [2023-06-06, 11:51:00](https://news.ycombinator.com/item?id=36211255) - [A better tool than jq for just extracting data, antonmedv's fx](https://github.com/antonmedv/fx)
 * [2023-06-06, 11:49:23](https://news.ycombinator.com/item?id=36211250) - [Tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
 * [2023-06-06, 11:45:42](https://news.ycombinator.com/item?id=36211219) - [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
 * [2023-06-06, 11:04:49](https://news.ycombinator.com/item?id=36210886) - [Absinthe for Large Elixir Applications](https://blog.appsignal.com/2023/06/06/absinthe-for-large-elixir-applications.html)
@@ -24,7 +25,6 @@
 * [2023-06-06, 05:37:28](https://news.ycombinator.com/item?id=36208568) - [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
 * [2023-06-06, 00:39:28](https://news.ycombinator.com/item?id=36206526) - [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
-* [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:25:08](https://news.ycombinator.com/item?id=36197588) - [Scientists' report first X-ray of a single atom](https://phys.org/news/2023-05-scientists-world-x-ray-atom.html)
 * [2023-06-05, 13:16:48](https://news.ycombinator.com/item?id=36195762) - [Undirected SS Shortest Paths with Positive Integer Weights in O(n) (1999) [pdf]](https://www.csie.ntu.edu.tw/~r98922004/doc/SPT.pdf)
 * [2023-06-05, 12:02:15](https://news.ycombinator.com/item?id=36195105) - [Helplessness is not learned (2022)](https://neurofrontiers.blog/helplessness-is-not-learned/)
