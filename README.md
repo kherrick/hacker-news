@@ -2,6 +2,7 @@
 
 * [2023-06-06, 09:09:29](https://news.ycombinator.com/item?id=36210133) - [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
 * [2023-06-06, 08:32:40](https://news.ycombinator.com/item?id=36209867) - [Reconstructing Obsidian Features in Vim and Bash](https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim/)
+* [2023-06-06, 07:50:46](https://news.ycombinator.com/item?id=36209574) - [GitHub Copilot and the Methods of Rationality](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality)
 * [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
 * [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
 * [2023-06-06, 06:46:31](https://news.ycombinator.com/item?id=36209047) - [Nvidia releases new AI chip with 480GB CPU RAM, 96GB GPU RAM](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/)
@@ -21,7 +22,6 @@
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 18:47:15](https://news.ycombinator.com/item?id=36201127) - [What is so beautiful about this door? On al-Jazari as an engineer (2019)](https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/)
-* [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC S22) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
