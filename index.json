@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-06-06, 08:32:40",
+      "https://news.ycombinator.com/item?id=36209867"
+    ],
+    [
+      "Reconstructing Obsidian Features in Vim and Bash",
+      "https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim/"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 07:50:46",
       "https://news.ycombinator.com/item?id=36209574"
     ],
@@ -37,6 +47,16 @@
     [
       "The Linux kernel will fix some peculiar argv usage in execve(2)",
       "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 06:46:31",
+      "https://news.ycombinator.com/item?id=36209047"
+    ],
+    [
+      "Nvidia releases new AI chip with 480GB CPU RAM, 96GB GPU RAM",
+      "https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "What is so beautiful about this door? On al-Jazari as an engineer (2019)",
       "https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 18:24:47",
-      "https://news.ycombinator.com/item?id=36200738"
-    ],
-    [
-      "Forests around Chernobyl aren’t decaying properly (2014)",
-      "https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 18:10:49",
-      "https://news.ycombinator.com/item?id=36200480"
-    ],
-    [
-      "How Photoshop solved working with files larger than can fit into memory",
-      "https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/"
     ]
   ],
   [
