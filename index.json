@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-06-06, 17:43:15",
-      "https://news.ycombinator.com/item?id=36216438"
+      "2023-06-06, 17:49:06",
+      "https://news.ycombinator.com/item?id=36216532"
     ],
     [
-      "Twitch: New TOS bans multi-streaming/simulcasting",
-      "https://www.twitch.tv/p/en/legal/terms-of-service/#11-simulcasting"
+      "MeZO: Fine-Tuning Language Models with Just Forward Passes",
+      "https://github.com/princeton-nlp/MeZO"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "SwiftData",
       "https://developer.apple.com/documentation/SwiftData"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 15:15:40",
-      "https://news.ycombinator.com/item?id=36214113"
-    ],
-    [
-      "Corsix – A whirlwind tour of AArch64 vector instructions",
-      "https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "React, but in Python",
       "https://github.com/reactive-python/reactpy"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 06:42:30",
+      "https://news.ycombinator.com/item?id=36193170"
+    ],
+    [
+      "The history and role of fashion in the software industry",
+      "https://deprogrammaticaipsum.com/tenue-correcte-exigee/"
     ]
   ],
   [
