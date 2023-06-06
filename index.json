@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-06, 21:55:05",
+      "https://news.ycombinator.com/item?id=36219585"
+    ],
+    [
+      "Notes on Vision Pro",
+      "https://notes.andymatuschak.org/Vision%20Pro"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 21:12:03",
       "https://news.ycombinator.com/item?id=36219181"
     ],
@@ -37,16 +47,6 @@
     [
       "Apple Releases New Static Linker",
       "https://twitter.com/davidecci/status/1665835119331135488"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 19:55:58",
-      "https://news.ycombinator.com/item?id=36218281"
-    ],
-    [
-      "Redditor creates working anime QR codes using Stable Diffusion",
-      "https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2023-06-06, 10:13:47",
-      "https://news.ycombinator.com/item?id=36210548"
-    ],
-    [
-      "Digg's v4 launch: an optimism born of necessity (2018)",
-      "https://lethain.com/digg-v4/"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 09:09:29",
       "https://news.ycombinator.com/item?id=36210133"
     ],
     [
       "Apple Vision predictive bio-feedback",
       "https://twitter.com/sterlingcrispin/status/1665792422914453506"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 08:46:22",
+      "https://news.ycombinator.com/item?id=36209955"
+    ],
+    [
+      "Scripts for Btrfs Maintenance",
+      "https://github.com/kdave/btrfsmaintenance"
     ]
   ],
   [
