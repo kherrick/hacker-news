@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-06, 17:43:15](https://news.ycombinator.com/item?id=36216438) - [Twitch: New TOS bans multi-streaming/simulcasting](https://www.twitch.tv/p/en/legal/terms-of-service/#11-simulcasting)
+* [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:17:56](https://news.ycombinator.com/item?id=36216056) - [RedPajama 7B (an Apache 2.0-licensed LLaMa) is now available](https://www.together.xyz/blog/redpajama-7b)
 * [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 17:06:52](https://news.ycombinator.com/item?id=36215914) - [Reddit permanently bans account of user advocating Lemmy migration](https://lemmy.ml/post/1152281)
 * [2023-06-06, 17:00:18](https://news.ycombinator.com/item?id=36215816) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
 * [2023-06-06, 16:33:25](https://news.ycombinator.com/item?id=36215357) - [SwiftData](https://developer.apple.com/documentation/SwiftData)
-* [2023-06-06, 15:15:40](https://news.ycombinator.com/item?id=36214113) - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
 * [2023-06-06, 14:27:42](https://news.ycombinator.com/item?id=36213332) - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
 * [2023-06-06, 14:27:34](https://news.ycombinator.com/item?id=36213330) - [Chrome still hasn't changed its opinion about dropping JPEG XL support](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406)
@@ -29,6 +28,7 @@
 * [2023-06-05, 13:16:48](https://news.ycombinator.com/item?id=36195762) - [Undirected SS Shortest Paths with Positive Integer Weights in O(n) (1999) [pdf]](https://www.csie.ntu.edu.tw/~r98922004/doc/SPT.pdf)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 * [2023-06-05, 07:02:21](https://news.ycombinator.com/item?id=36193315) - [React, but in Python](https://github.com/reactive-python/reactpy)
+* [2023-06-05, 06:42:30](https://news.ycombinator.com/item?id=36193170) - [The history and role of fashion in the software industry](https://deprogrammaticaipsum.com/tenue-correcte-exigee/)
 * [2023-06-05, 06:22:43](https://news.ycombinator.com/item?id=36193054) - [Show HN: Codespelunker – A command line search tool with TUI and HTTP modes](https://github.com/boyter/cs)
 
 ## [Archives](archives/index.md)

@@ -102,6 +102,7 @@
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
 * [2023-06-05, 07:02:21](https://news.ycombinator.com/item?id=36193315) - [React, but in Python](https://github.com/reactive-python/reactpy)
 * [2023-06-05, 06:45:18](https://news.ycombinator.com/item?id=36193196) - [Teardown and review of a new 386 system: Hand386](https://yeokhengmeng.com/2023/06/teardown-and-review-of-hand386/)
+* [2023-06-05, 06:42:30](https://news.ycombinator.com/item?id=36193170) - [The history and role of fashion in the software industry](https://deprogrammaticaipsum.com/tenue-correcte-exigee/)
 * [2023-06-05, 06:22:43](https://news.ycombinator.com/item?id=36193054) - [Show HN: Codespelunker a command line search tool with TUI and HTTP modes](https://github.com/boyter/cs)
 * [2023-06-05, 06:20:08](https://news.ycombinator.com/item?id=36193038) - [Architect your project with Framed: effortless files and directories management](https://github.com/mactat/framed)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)

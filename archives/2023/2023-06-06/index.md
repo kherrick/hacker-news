@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:43:15](https://news.ycombinator.com/item?id=36216438) - [Twitch: New TOS bans multi-streaming/simulcasting](https://www.twitch.tv/p/en/legal/terms-of-service/#11-simulcasting)
 * [2023-06-06, 17:17:56](https://news.ycombinator.com/item?id=36216056) - [RedPajama 7B (an Apache 2.0-licensed LLaMa) is now available](https://www.together.xyz/blog/redpajama-7b)
 * [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
