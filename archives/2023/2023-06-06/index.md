@@ -55,6 +55,7 @@
 * [2023-06-06, 06:01:14](https://news.ycombinator.com/item?id=36208735) - [visionOS](https://developer.apple.com/visionos/)
 * [2023-06-06, 05:57:23](https://news.ycombinator.com/item?id=36208718) - [Ask HN: code we write today will be thrown out in the next 30 years](https://news.ycombinator.com/item?id=36208718)
 * [2023-06-06, 05:37:28](https://news.ycombinator.com/item?id=36208568) - [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
+* [2023-06-06, 05:26:32](https://news.ycombinator.com/item?id=36208499) - [Was He Apollo’s Son?: Review of Plato of Athens](https://literaryreview.co.uk/was-he-apollos-son)
 * [2023-06-06, 04:00:58](https://news.ycombinator.com/item?id=36207926) - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
 * [2023-06-06, 03:52:32](https://news.ycombinator.com/item?id=36207859) - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
 * [2023-06-06, 03:31:57](https://news.ycombinator.com/item?id=36207705) - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
