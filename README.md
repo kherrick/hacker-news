@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-06, 10:52:36](https://news.ycombinator.com/item?id=36210805) - [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
+* [2023-06-06, 10:43:12](https://news.ycombinator.com/item?id=36210727) - [Hyperparameter Optimization for LLMs via Scaling Laws](https://arxiv.org/abs/2302.00441)
 * [2023-06-06, 10:13:47](https://news.ycombinator.com/item?id=36210548) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 * [2023-06-06, 09:09:29](https://news.ycombinator.com/item?id=36210133) - [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
 * [2023-06-06, 08:32:40](https://news.ycombinator.com/item?id=36209867) - [Reconstructing Obsidian Features in Vim and Bash](https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim/)
@@ -23,7 +24,6 @@
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 18:47:15](https://news.ycombinator.com/item?id=36201127) - [What is so beautiful about this door? On al-Jazari as an engineer (2019)](https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
-* [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC S22) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
 * [2023-06-05, 13:27:02](https://news.ycombinator.com/item?id=36195885) - [How Wittgenstein Watched Movies](https://onthearts.com/p/how-wittgenstein-watched-movies)
 * [2023-06-05, 12:02:15](https://news.ycombinator.com/item?id=36195105) - [Helplessness is not learned (2022)](https://neurofrontiers.blog/helplessness-is-not-learned/)
 * [2023-06-05, 12:00:59](https://news.ycombinator.com/item?id=36195090) - [How do railway signals work?](https://www.alpharail.co.nz/how-do-railway-signals-work/)
