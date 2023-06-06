@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-06, 07:29:19",
+      "https://news.ycombinator.com/item?id=36209408"
+    ],
+    [
+      "Passkeys now support external providers",
+      "https://developer.apple.com/passkeys/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 06:49:07",
+      "https://news.ycombinator.com/item?id=36209078"
+    ],
+    [
+      "The Linux kernel will fix some peculiar argv usage in execve(2)",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 06:01:14",
       "https://news.ycombinator.com/item?id=36208735"
     ],
@@ -67,16 +87,6 @@
     [
       "The Wait Until 8th pledge",
       "https://www.waituntil8th.org"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 01:52:53",
-      "https://news.ycombinator.com/item?id=36207069"
-    ],
-    [
-      "Entertainments from a Medieval Minstrel’s Repertoire Book",
-      "https://academic.oup.com/res/advance-article/doi/10.1093/res/hgad053/7187022"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-06-05, 18:48:21",
-      "https://news.ycombinator.com/item?id=36201143"
-    ],
-    [
-      "Flora Incognita – free AI-supported plant identification university project",
-      "https://floraincognita.com/"
-    ]
-  ],
-  [
-    [
       "2023-06-05, 18:47:15",
       "https://news.ycombinator.com/item?id=36201127"
     ],
@@ -207,16 +207,6 @@
     [
       "How Photoshop solved working with files larger than can fit into memory",
       "https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 17:22:16",
-      "https://news.ycombinator.com/item?id=36199639"
-    ],
-    [
-      "Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro",
-      "https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Messages that can only be understood under the influence of psychedelics",
       "https://qri.org/blog/psycrypto-contest"
+    ]
+  ],
+  [
+    [
+      "2023-06-05, 06:45:18",
+      "https://news.ycombinator.com/item?id=36193196"
+    ],
+    [
+      "Teardown and review of a new 386 system: Hand386",
+      "https://yeokhengmeng.com/2023/06/teardown-and-review-of-hand386/"
     ]
   ]
 ]
