@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 05:57:23](https://news.ycombinator.com/item?id=36208718) - [Ask HN: code we write today will be thrown out in the next 30 years](https://news.ycombinator.com/item?id=36208718)
 * [2023-06-06, 04:00:58](https://news.ycombinator.com/item?id=36207926) - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
 * [2023-06-06, 03:52:32](https://news.ycombinator.com/item?id=36207859) - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
 * [2023-06-06, 02:22:50](https://news.ycombinator.com/item?id=36207268) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
@@ -19,7 +20,6 @@
 * [2023-06-05, 18:47:15](https://news.ycombinator.com/item?id=36201127) - [What is so beautiful about this door? On al-Jazari as an engineer (2019)](https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/)
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
-* [2023-06-05, 17:58:19](https://news.ycombinator.com/item?id=36200268) - [Why does MPEG Transport Stream still exist?](https://www.obe.tv/why-does-mpeg-ts-still-exist/)
 * [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
 * [2023-06-05, 17:22:11](https://news.ycombinator.com/item?id=36199637) - [Apple Introduces M2 Ultra](https://www.apple.com/newsroom/2023/06/apple-introduces-m2-ultra/)
 * [2023-06-05, 17:11:49](https://news.ycombinator.com/item?id=36199499) - [On 'function coloring' (2018)](https://www.tedinski.com/2018/11/13/function-coloring.html)
