@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 09:09:29](https://news.ycombinator.com/item?id=36210133) - [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
 * [2023-06-06, 07:50:46](https://news.ycombinator.com/item?id=36209574) - [GitHub Copilot and the Methods of Rationality](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality)
 * [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
 * [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
@@ -14,7 +15,6 @@
 * [2023-06-06, 01:08:38](https://news.ycombinator.com/item?id=36206746) - [A confession exposes India’s hacking industry](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry)
 * [2023-06-06, 00:39:28](https://news.ycombinator.com/item?id=36206526) - [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
 * [2023-06-06, 00:18:41](https://news.ycombinator.com/item?id=36206347) - [A Penalized Likelihood Estimator for Variance Parameters in Multilevel Models [pdf]](http://www.gllamm.org/Chung_etal_Pmetrika2013.pdf)
-* [2023-06-05, 23:43:31](https://news.ycombinator.com/item?id=36205978) - [Health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
 * [2023-06-05, 21:55:02](https://news.ycombinator.com/item?id=36204453) - [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
