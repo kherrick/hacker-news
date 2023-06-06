@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-06-06, 00:18:41",
+      "https://news.ycombinator.com/item?id=36206347"
+    ],
+    [
+      "A Penalized Likelihood Estimator for Variance Parameters in Multilevel Models [pdf]",
+      "http://www.gllamm.org/Chung_etal_Pmetrika2013.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-05, 23:43:31",
       "https://news.ycombinator.com/item?id=36205978"
     ],
@@ -187,16 +197,6 @@
     [
       "How Photoshop solved working with files larger than can fit into memory",
       "https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 17:58:19",
-      "https://news.ycombinator.com/item?id=36200268"
-    ],
-    [
-      "Why does MPEG Transport Stream still exist?",
-      "https://www.obe.tv/why-does-mpeg-ts-still-exist/"
     ]
   ],
   [
