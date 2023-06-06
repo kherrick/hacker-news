@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 07:50:46](https://news.ycombinator.com/item?id=36209574) - [GitHub Copilot and the Methods of Rationality](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality)
 * [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
 * [2023-06-06, 07:19:40](https://news.ycombinator.com/item?id=36209328) - [Homesepot $44K pre-fab house](https://www.homedepot.com/p/Getaway-Pad-540-sq-ft-1-Bed-and-Roof-Deck-Tiny-Home-Steel-Frame-Building-Kit-ADU-Cabin-Guest-house-GPRD540/320746688)
 * [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)

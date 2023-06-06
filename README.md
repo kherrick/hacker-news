@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 07:50:46](https://news.ycombinator.com/item?id=36209574) - [GitHub Copilot and the Methods of Rationality](https://www.freshpaint.io/blog/github-copilot-and-the-methods-of-rationality)
 * [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
-* [2023-06-06, 07:19:40](https://news.ycombinator.com/item?id=36209328) - [Homesepot $44K pre-fab house](https://www.homedepot.com/p/Getaway-Pad-540-sq-ft-1-Bed-and-Roof-Deck-Tiny-Home-Steel-Frame-Building-Kit-ADU-Cabin-Guest-house-GPRD540/320746688)
 * [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
 * [2023-06-06, 06:42:31](https://news.ycombinator.com/item?id=36209014) - [Apple releasing segmentation/pose for humans and animals, embedding for 27 lang](https://developer.apple.com/wwdc23/topics/ml-vision/)
 * [2023-06-06, 05:37:28](https://news.ycombinator.com/item?id=36208568) - [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
