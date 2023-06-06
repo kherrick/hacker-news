@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 03:52:32](https://news.ycombinator.com/item?id=36207859) - [The Nova Kakhovka Hydroelectric dam in Ukraine has been blown open](https://twitter.com/IntelCrab/status/1665904696429518849)
 * [2023-06-06, 03:31:57](https://news.ycombinator.com/item?id=36207705) - [First impressions: Yes, Apple Vision Pro works and yes, it’s good](https://techcrunch.com/2023/06/05/first-impressions-yes-apple-vision-pro-works-and-yes-its-good/)
-* [2023-06-06, 02:33:12](https://news.ycombinator.com/item?id=36207345) - [A 27-inch display in a briefcase](https://liliputing.com/lg-stanbyme-go-is-a-27-inch-portable-adjustable-display-in-a-briefacase/)
 * [2023-06-06, 02:22:50](https://news.ycombinator.com/item?id=36207268) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 * [2023-06-06, 02:15:21](https://news.ycombinator.com/item?id=36207211) - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
 * [2023-06-06, 02:04:53](https://news.ycombinator.com/item?id=36207142) - [Wait Until 8TH](https://www.waituntil8th.org)
@@ -16,6 +16,7 @@
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 18:48:21](https://news.ycombinator.com/item?id=36201143) - [Flora Incognita – free AI-supported plant identification university project](https://floraincognita.com/)
+* [2023-06-05, 18:47:15](https://news.ycombinator.com/item?id=36201127) - [What is so beautiful about this door? On al-Jazari as an engineer (2019)](https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/)
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
 * [2023-06-05, 17:58:19](https://news.ycombinator.com/item?id=36200268) - [Why does MPEG Transport Stream still exist?](https://www.obe.tv/why-does-mpeg-ts-still-exist/)
@@ -29,7 +30,6 @@
 * [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
 * [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
-* [2023-06-05, 13:01:54](https://news.ycombinator.com/item?id=36195600) - [Google no longer automatically indexes websites?](https://natehoffelder.com/blog/google-no-longer-automatically-indexes-websites-wtf/)
 
 ## [Archives](archives/index.md)
 

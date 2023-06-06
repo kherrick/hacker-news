@@ -23,6 +23,7 @@
 * [2023-06-05, 19:06:04](https://news.ycombinator.com/item?id=36201608) - [Apple Vision Pro](https://www.apple.com/apple-vision-pro/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 18:48:21](https://news.ycombinator.com/item?id=36201143) - [Flora Incognita – free AI-supported plant identification university project](https://floraincognita.com/)
+* [2023-06-05, 18:47:15](https://news.ycombinator.com/item?id=36201127) - [What is so beautiful about this door? On al-Jazari as an engineer (2019)](https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/)
 * [2023-06-05, 18:37:52](https://news.ycombinator.com/item?id=36200958) - [Apple reveals Vision Pro, a AR/VR headset unlike any other](https://arstechnica.com/gadgets/2023/06/apple-reveals-reality-pro-a-ar-vr-headset-unlike-any-other/)
 * [2023-06-05, 18:33:34](https://news.ycombinator.com/item?id=36200884) - [Apple Vision Pro Is Apple's New VR Headset](https://www.theverge.com/2023/6/5/23738968/apple-vision-pro-ar-headset-features-specs-price-release-date-wwdc-2023)
 * [2023-06-05, 18:29:08](https://news.ycombinator.com/item?id=36200806) - [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
