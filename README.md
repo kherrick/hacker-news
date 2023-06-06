@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 21:00:18](https://news.ycombinator.com/item?id=36219051) - [Tesorio (YC S15) Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
+* [2023-06-06, 19:59:31](https://news.ycombinator.com/item?id=36218330) - [Apple Releases New Static Linker](https://twitter.com/davidecci/status/1665835119331135488)
 * [2023-06-06, 19:17:57](https://news.ycombinator.com/item?id=36217746) - [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
 * [2023-06-06, 18:45:35](https://news.ycombinator.com/item?id=36217302) - [International Obfuscated Python Code Competition: Submissions Open](https://pyobfusc.com)
 * [2023-06-06, 18:26:51](https://news.ycombinator.com/item?id=36217064) - [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
@@ -7,7 +9,6 @@
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:40:23](https://news.ycombinator.com/item?id=36216389) - [The C Standard Library Function Isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
-* [2023-06-06, 17:00:18](https://news.ycombinator.com/item?id=36215816) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
 * [2023-06-06, 16:33:25](https://news.ycombinator.com/item?id=36215357) - [SwiftData](https://developer.apple.com/documentation/SwiftData)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
@@ -26,7 +27,6 @@
 * [2023-06-06, 05:26:32](https://news.ycombinator.com/item?id=36208499) - [Was He Apollo’s Son?: Review of Plato of Athens](https://literaryreview.co.uk/was-he-apollos-son)
 * [2023-06-05, 18:34:08](https://news.ycombinator.com/item?id=36200895) - [Hierapolis Sawmill](https://en.wikipedia.org/wiki/Hierapolis_sawmill)
 * [2023-06-05, 15:25:08](https://news.ycombinator.com/item?id=36197588) - [Scientists' report first X-ray of a single atom](https://phys.org/news/2023-05-scientists-world-x-ray-atom.html)
-* [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 * [2023-06-05, 07:02:21](https://news.ycombinator.com/item?id=36193315) - [React, but in Python](https://github.com/reactive-python/reactpy)
 * [2023-06-05, 06:42:30](https://news.ycombinator.com/item?id=36193170) - [The history and role of fashion in the software industry](https://deprogrammaticaipsum.com/tenue-correcte-exigee/)
 * [2023-06-05, 06:22:43](https://news.ycombinator.com/item?id=36193054) - [Show HN: Codespelunker – A command line search tool with TUI and HTTP modes](https://github.com/boyter/cs)
