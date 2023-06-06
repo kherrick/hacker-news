@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
 * [2023-06-06, 13:10:56](https://news.ycombinator.com/item?id=36212120) - [US SEC sues Coinbase, one day after suing Binance](https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/)
+* [2023-06-06, 13:02:39](https://news.ycombinator.com/item?id=36212001) - [We reported an AWS security issue and then this happened](https://garden.io/blog/aws-security-issue)
 * [2023-06-06, 12:45:05](https://news.ycombinator.com/item?id=36211788) - [Apple Vision](https://stratechery.com/2023/apple-vision/)
 * [2023-06-06, 12:25:03](https://news.ycombinator.com/item?id=36211567) - [Coinbase Sued by SEC for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-06/coinbase-sued-by-sec-for-breaking-us-securities-rules)
 * [2023-06-06, 12:00:54](https://news.ycombinator.com/item?id=36211341) - [Svix (YC W21) Is Hiring an Account Executive (US Remote)](https://www.svix.com/careers/)
