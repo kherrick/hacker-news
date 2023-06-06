@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
 * [2023-06-06, 21:00:18](https://news.ycombinator.com/item?id=36219051) - [Tesorio (YC S15) Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
+* [2023-06-06, 20:49:31](https://news.ycombinator.com/item?id=36218932) - [SEC asks for emergency order to freeze Binance US assets anywhere in the world](https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html)
 * [2023-06-06, 19:59:31](https://news.ycombinator.com/item?id=36218330) - [Apple Releases New Static Linker](https://twitter.com/davidecci/status/1665835119331135488)
 * [2023-06-06, 19:17:57](https://news.ycombinator.com/item?id=36217746) - [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
 * [2023-06-06, 18:45:35](https://news.ycombinator.com/item?id=36217302) - [International Obfuscated Python Code Competition: Submissions Open](https://pyobfusc.com)
@@ -58,6 +59,7 @@
 * [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
 * [2023-06-06, 06:46:31](https://news.ycombinator.com/item?id=36209047) - [Nvidia releases new AI chip with 480GB CPU RAM, 96GB GPU RAM](https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/)
 * [2023-06-06, 06:42:31](https://news.ycombinator.com/item?id=36209014) - [Apple releasing segmentation/pose for humans and animals, embedding for 27 lang](https://developer.apple.com/wwdc23/topics/ml-vision/)
+* [2023-06-06, 06:32:58](https://news.ycombinator.com/item?id=36208942) - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/)
 * [2023-06-06, 06:06:26](https://news.ycombinator.com/item?id=36208772) - [Show HN: Dockerless, Elixir Web Application Using Podman and Plug](https://spacedimp.com/blog/dockerless-setting-up-an-elixir-webapp-using-podman-and-plug/)
 * [2023-06-06, 06:01:14](https://news.ycombinator.com/item?id=36208735) - [visionOS](https://developer.apple.com/visionos/)
 * [2023-06-06, 05:57:23](https://news.ycombinator.com/item?id=36208718) - [Ask HN: code we write today will be thrown out in the next 30 years](https://news.ycombinator.com/item?id=36208718)
