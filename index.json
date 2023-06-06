@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2023-06-06, 18:45:35",
-      "https://news.ycombinator.com/item?id=36217302"
-    ],
-    [
-      "International Obfuscated Python Code Competition: Submissions Open",
-      "https://pyobfusc.com"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 18:19:15",
       "https://news.ycombinator.com/item?id=36216959"
     ],
     [
       "Octopuses, crabs and lobsters to be recognised as sentient beings under UK law",
       "https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 18:04:52",
+      "https://news.ycombinator.com/item?id=36216745"
+    ],
+    [
+      "US urged to reveal UFO evidence after claim that it has intact alien vehicles",
+      "https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft"
     ]
   ],
   [
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36214781"
     ],
     [
-      "AI Will Save the World?",
+      "AI will save the world?",
       "https://pmarca.substack.com/p/why-ai-will-save-the-world"
     ]
   ],
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2023-06-06, 10:13:47",
+      "https://news.ycombinator.com/item?id=36210548"
+    ],
+    [
+      "Digg's v4 launch: an optimism born of necessity (2018)",
+      "https://lethain.com/digg-v4/"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 09:09:29",
       "https://news.ycombinator.com/item?id=36210133"
     ],
@@ -227,6 +237,16 @@
     [
       "Nvidia releases new AI chip with 480GB CPU RAM, 96GB GPU RAM",
       "https://www.nvidia.com/en-us/data-center/grace-hopper-superchip/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 06:42:31",
+      "https://news.ycombinator.com/item?id=36209014"
+    ],
+    [
+      "Apple releasing segmentation/pose for humans and animals, embedding for 27 lang",
+      "https://developer.apple.com/wwdc23/topics/ml-vision/"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "React, but in Python",
       "https://github.com/reactive-python/reactpy"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 06:42:30",
-      "https://news.ycombinator.com/item?id=36193170"
-    ],
-    [
-      "The history and role of fashion in the software industry",
-      "https://deprogrammaticaipsum.com/tenue-correcte-exigee/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 06:22:43",
-      "https://news.ycombinator.com/item?id=36193054"
-    ],
-    [
-      "Show HN: Codespelunker – A command line search tool with TUI and HTTP modes",
-      "https://github.com/boyter/cs"
     ]
   ]
 ]
