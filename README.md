@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 19:17:57](https://news.ycombinator.com/item?id=36217746) - [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
+* [2023-06-06, 18:45:35](https://news.ycombinator.com/item?id=36217302) - [International Obfuscated Python Code Competition: Submissions Open](https://pyobfusc.com)
 * [2023-06-06, 18:26:51](https://news.ycombinator.com/item?id=36217064) - [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
 * [2023-06-06, 18:19:15](https://news.ycombinator.com/item?id=36216959) - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
-* [2023-06-06, 18:04:52](https://news.ycombinator.com/item?id=36216745) - [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:40:23](https://news.ycombinator.com/item?id=36216389) - [The C Standard Library Function Isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
@@ -25,7 +26,6 @@
 * [2023-06-06, 05:26:32](https://news.ycombinator.com/item?id=36208499) - [Was He Apollo’s Son?: Review of Plato of Athens](https://literaryreview.co.uk/was-he-apollos-son)
 * [2023-06-05, 18:34:08](https://news.ycombinator.com/item?id=36200895) - [Hierapolis Sawmill](https://en.wikipedia.org/wiki/Hierapolis_sawmill)
 * [2023-06-05, 15:25:08](https://news.ycombinator.com/item?id=36197588) - [Scientists' report first X-ray of a single atom](https://phys.org/news/2023-05-scientists-world-x-ray-atom.html)
-* [2023-06-05, 13:16:48](https://news.ycombinator.com/item?id=36195762) - [Undirected SS Shortest Paths with Positive Integer Weights in O(n) (1999) [pdf]](https://www.csie.ntu.edu.tw/~r98922004/doc/SPT.pdf)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 * [2023-06-05, 07:02:21](https://news.ycombinator.com/item?id=36193315) - [React, but in Python](https://github.com/reactive-python/reactpy)
 * [2023-06-05, 06:42:30](https://news.ycombinator.com/item?id=36193170) - [The history and role of fashion in the software industry](https://deprogrammaticaipsum.com/tenue-correcte-exigee/)
