@@ -29,7 +29,7 @@
 * [2023-06-05, 12:02:15](https://news.ycombinator.com/item?id=36195105) - [Helplessness is not learned (2022)](https://neurofrontiers.blog/helplessness-is-not-learned/)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 * [2023-06-05, 06:45:18](https://news.ycombinator.com/item?id=36193196) - [Teardown and review of a new 386 system: Hand386](https://yeokhengmeng.com/2023/06/teardown-and-review-of-hand386/)
-* [2023-06-05, 06:22:43](https://news.ycombinator.com/item?id=36193054) - [Show HN: Codespelunker a command line search tool with TUI and HTTP modes](https://github.com/boyter/cs)
+* [2023-06-05, 06:22:43](https://news.ycombinator.com/item?id=36193054) - [Show HN: Codespelunker – A command line search tool with TUI and HTTP modes](https://github.com/boyter/cs)
 
 ## [Archives](archives/index.md)
 
