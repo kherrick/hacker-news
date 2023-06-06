@@ -40,6 +40,7 @@
 * [2023-06-06, 11:49:23](https://news.ycombinator.com/item?id=36211250) - [Six tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
 * [2023-06-06, 11:45:42](https://news.ycombinator.com/item?id=36211219) - [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
 * [2023-06-06, 11:20:21](https://news.ycombinator.com/item?id=36211017) - [LiquidPiston – The Future of the Combustion Engine](https://invest.liquidpiston.com/)
+* [2023-06-06, 11:17:07](https://news.ycombinator.com/item?id=36210986) - [Introduction to the ZX-Calculus](https://pennylane.ai/qml/demos/tutorial_zx_calculus.html)
 * [2023-06-06, 11:04:49](https://news.ycombinator.com/item?id=36210886) - [Absinthe for Large Elixir Applications](https://blog.appsignal.com/2023/06/06/absinthe-for-large-elixir-applications.html)
 * [2023-06-06, 10:52:36](https://news.ycombinator.com/item?id=36210805) - [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
 * [2023-06-06, 10:47:57](https://news.ycombinator.com/item?id=36210765) - [Is React Having an Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
