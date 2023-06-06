@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 12:00:54](https://news.ycombinator.com/item?id=36211341) - [Svix (YC W21) Is Hiring an Account Executive (US Remote)](https://www.svix.com/careers/)
+* [2023-06-06, 11:49:23](https://news.ycombinator.com/item?id=36211250) - [Six tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
+* [2023-06-06, 11:45:42](https://news.ycombinator.com/item?id=36211219) - [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
+* [2023-06-06, 11:20:21](https://news.ycombinator.com/item?id=36211017) - [LiquidPiston – The Future of the Combustion Engine](https://invest.liquidpiston.com/)
 * [2023-06-06, 10:52:36](https://news.ycombinator.com/item?id=36210805) - [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
 * [2023-06-06, 10:43:12](https://news.ycombinator.com/item?id=36210727) - [Hyperparameter Optimization for LLMs via Scaling Laws](https://arxiv.org/abs/2302.00441)
 * [2023-06-06, 10:13:47](https://news.ycombinator.com/item?id=36210548) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
