@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
+* [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
 * [2023-06-06, 06:01:14](https://news.ycombinator.com/item?id=36208735) - [visionOS](https://developer.apple.com/visionos/)
 * [2023-06-06, 05:37:28](https://news.ycombinator.com/item?id=36208568) - [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
 * [2023-06-06, 04:00:58](https://news.ycombinator.com/item?id=36207926) - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
@@ -7,7 +9,6 @@
 * [2023-06-06, 02:22:50](https://news.ycombinator.com/item?id=36207268) - [What Hallucinogens Will Make You See](https://nautil.us/what-hallucinogens-will-make-you-see-308247/)
 * [2023-06-06, 02:15:21](https://news.ycombinator.com/item?id=36207211) - [Grail wrongly told hundreds of people they might have cancer](https://www.cbsnews.com/news/grail-cancer-test-mistake-letter/)
 * [2023-06-06, 02:04:53](https://news.ycombinator.com/item?id=36207142) - [The Wait Until 8th pledge](https://www.waituntil8th.org)
-* [2023-06-06, 01:52:53](https://news.ycombinator.com/item?id=36207069) - [Entertainments from a Medieval Minstrel’s Repertoire Book](https://academic.oup.com/res/advance-article/doi/10.1093/res/hgad053/7187022)
 * [2023-06-06, 01:43:47](https://news.ycombinator.com/item?id=36207009) - [Vector Database in a Jupyter Notebook](https://zilliz.com/blog/exploring-magic-vector-databases-jupyter-notebooks)
 * [2023-06-06, 01:08:38](https://news.ycombinator.com/item?id=36206746) - [A confession exposes India’s hacking industry](https://www.newyorker.com/news/annals-of-crime/a-confession-exposes-indias-secret-hacking-industry)
 * [2023-06-06, 00:39:28](https://news.ycombinator.com/item?id=36206526) - [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
@@ -17,11 +18,9 @@
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
-* [2023-06-05, 18:48:21](https://news.ycombinator.com/item?id=36201143) - [Flora Incognita – free AI-supported plant identification university project](https://floraincognita.com/)
 * [2023-06-05, 18:47:15](https://news.ycombinator.com/item?id=36201127) - [What is so beautiful about this door? On al-Jazari as an engineer (2019)](https://aljazaribook.com/en/2019/06/09/cast-brass-door-en/)
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
-* [2023-06-05, 17:22:16](https://news.ycombinator.com/item?id=36199639) - [Apple unveils new Mac Studio and brings Apple Silicon to Mac Pro](https://www.apple.com/newsroom/2023/06/apple-unveils-new-mac-studio-and-brings-apple-silicon-to-mac-pro/)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
 * [2023-06-05, 15:13:30](https://news.ycombinator.com/item?id=36197353) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
@@ -30,6 +29,7 @@
 * [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 13:27:02](https://news.ycombinator.com/item?id=36195885) - [How Wittgenstein Watched Movies](https://onthearts.com/p/how-wittgenstein-watched-movies)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
+* [2023-06-05, 06:45:18](https://news.ycombinator.com/item?id=36193196) - [Teardown and review of a new 386 system: Hand386](https://yeokhengmeng.com/2023/06/teardown-and-review-of-hand386/)
 
 ## [Archives](archives/index.md)
 

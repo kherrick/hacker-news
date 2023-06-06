@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
+* [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
 * [2023-06-06, 06:01:14](https://news.ycombinator.com/item?id=36208735) - [visionOS](https://developer.apple.com/visionos/)
 * [2023-06-06, 05:57:23](https://news.ycombinator.com/item?id=36208718) - [Ask HN: code we write today will be thrown out in the next 30 years](https://news.ycombinator.com/item?id=36208718)
 * [2023-06-06, 05:37:28](https://news.ycombinator.com/item?id=36208568) - [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)

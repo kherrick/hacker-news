@@ -93,6 +93,7 @@
 * [2023-06-05, 07:46:44](https://news.ycombinator.com/item?id=36193632) - [Refactoring and Crochet](https://buttonmash.substack.com/p/refactoring)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 * [2023-06-05, 07:03:45](https://news.ycombinator.com/item?id=36193326) - [The Rust I wanted had no future](https://graydon2.dreamwidth.org/307291.html)
+* [2023-06-05, 06:45:18](https://news.ycombinator.com/item?id=36193196) - [Teardown and review of a new 386 system: Hand386](https://yeokhengmeng.com/2023/06/teardown-and-review-of-hand386/)
 * [2023-06-05, 06:20:08](https://news.ycombinator.com/item?id=36193038) - [Architect your project with Framed: effortless files and directories management](https://github.com/mactat/framed)
 * [2023-06-05, 05:41:46](https://news.ycombinator.com/item?id=36192777) - [Sandstorm: Open-source platform for self-hosting web apps](https://sandstorm.io/)
 * [2023-06-05, 05:00:01](https://news.ycombinator.com/item?id=36192497) - [Moderation strike: Stack Overflow Inc cannot ignore, mistreat, malign volunteers](https://meta.stackexchange.com/questions/389811/moderation-strike-stack-overflow-inc-cannot-consistently-ignore-mistreat-an)
