@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-06, 16:07:25](https://news.ycombinator.com/item?id=36214901) - [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * [2023-06-06, 15:15:40](https://news.ycombinator.com/item?id=36214113) - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-06-06, 15:05:03](https://news.ycombinator.com/item?id=36213929) - ['Guilt Tipping': Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
@@ -28,6 +27,7 @@
 * [2023-06-05, 18:34:08](https://news.ycombinator.com/item?id=36200895) - [Hierapolis Sawmill](https://en.wikipedia.org/wiki/Hierapolis_sawmill)
 * [2023-06-05, 15:25:08](https://news.ycombinator.com/item?id=36197588) - [Scientists' report first X-ray of a single atom](https://phys.org/news/2023-05-scientists-world-x-ray-atom.html)
 * [2023-06-05, 13:16:48](https://news.ycombinator.com/item?id=36195762) - [Undirected SS Shortest Paths with Positive Integer Weights in O(n) (1999) [pdf]](https://www.csie.ntu.edu.tw/~r98922004/doc/SPT.pdf)
+* [2023-06-05, 12:02:15](https://news.ycombinator.com/item?id=36195105) - [Helplessness is not learned (2022)](https://neurofrontiers.blog/helplessness-is-not-learned/)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 * [2023-06-05, 06:22:43](https://news.ycombinator.com/item?id=36193054) - [Show HN: Codespelunker – A command line search tool with TUI and HTTP modes](https://github.com/boyter/cs)
 
