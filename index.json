@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-06, 13:10:56",
+      "https://news.ycombinator.com/item?id=36212120"
+    ],
+    [
+      "US SEC sues Coinbase, one day after suing Binance",
+      "https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 12:45:05",
       "https://news.ycombinator.com/item?id=36211788"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36211250"
     ],
     [
-      "Six tips for better coding with ChatGPT",
+      "Tips for better coding with ChatGPT",
       "https://www.nature.com/articles/d41586-023-01833-0"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Passkeys now support external providers",
       "https://developer.apple.com/passkeys/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 06:49:07",
-      "https://news.ycombinator.com/item?id=36209078"
-    ],
-    [
-      "The Linux kernel will fix some peculiar argv usage in execve(2)",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup"
     ]
   ],
   [
