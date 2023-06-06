@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-05](index.md)
 
+* [2023-06-05, 23:43:31](https://news.ycombinator.com/item?id=36205978) - [‘Shut it off immediately’: health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
 * [2023-06-05, 23:33:39](https://news.ycombinator.com/item?id=36205863) - [Nearly 30% of people under 30 support gov't surveillance cameras in every home](https://www.cato.org/blog/nearly-third-gen-z-favors-home-government-surveillance-cameras-1?s=03)
 * [2023-06-05, 22:37:57](https://news.ycombinator.com/item?id=36205117) - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
 * [2023-06-05, 22:32:33](https://news.ycombinator.com/item?id=36205043) - [Stack Overflow Moderators Striking to Stop Garbage AI Content from Flooding Site](https://www.vice.com/en/article/4a33dj/stack-overflow-moderators-are-striking-to-stop-garbage-ai-content-from-flooding-the-site)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-06, 00:39:28](https://news.ycombinator.com/item?id=36206526) - [Preparing for the Incoming Computer Shopper Tsunami](http://ascii.textfiles.com/archives/5543)
+* [2023-06-05, 23:43:31](https://news.ycombinator.com/item?id=36205978) - [‘Shut it off immediately’: health industry responds to data privacy crackdown](https://www.politico.com/news/2023/04/17/health-industry-data-privacy-00092447)
 * [2023-06-05, 22:37:57](https://news.ycombinator.com/item?id=36205117) - [Poor people often don’t survive to become seniors who vote](https://nymag.com/intelligencer/2018/05/poor-people-often-dont-survive-to-become-seniors-who-vote.html)
 * [2023-06-05, 21:55:02](https://news.ycombinator.com/item?id=36204453) - [Tutorial: Teaching and Learning Compilers Incrementally](https://iucompilercourse.github.io/tutorial-web-page/)
 * [2023-06-05, 21:09:26](https://news.ycombinator.com/item?id=36203610) - [Demo: Fully P2P and open source Reddit alternative](https://plebbit-test.netlify.app)
@@ -9,7 +11,6 @@
 * [2023-06-05, 19:12:44](https://news.ycombinator.com/item?id=36201821) - [Some blogging myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 * [2023-06-05, 19:04:46](https://news.ycombinator.com/item?id=36201593) - [Apple Vision Pro: Apple’s first spatial computer](https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/)
 * [2023-06-05, 18:48:21](https://news.ycombinator.com/item?id=36201143) - [Flora Incognita – free AI-supported plant identification university project](https://floraincognita.com/)
-* [2023-06-05, 18:29:08](https://news.ycombinator.com/item?id=36200806) - [iOS 17 makes iPhone more personal and intuitive](https://www.apple.com/newsroom/2023/06/ios-17-makes-iphone-more-personal-and-intuitive/)
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
 * [2023-06-05, 17:58:19](https://news.ycombinator.com/item?id=36200268) - [Why does MPEG Transport Stream still exist?](https://www.obe.tv/why-does-mpeg-ts-still-exist/)
@@ -19,7 +20,6 @@
 * [2023-06-05, 16:19:06](https://news.ycombinator.com/item?id=36198566) - [Building a programming language in twenty-four hours](https://ersei.net/en/blog/diy-programming-language)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
 * [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
-* [2023-06-05, 15:23:58](https://news.ycombinator.com/item?id=36197569) - [SEC Accuses Binance of Mishandling Funds and Lying to Regulators](https://www.nytimes.com/2023/06/05/business/sec-binance-charges.html)
 * [2023-06-05, 15:13:30](https://news.ycombinator.com/item?id=36197353) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
 * [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
