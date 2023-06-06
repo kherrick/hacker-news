@@ -25,7 +25,7 @@
 * [2023-06-05, 18:24:47](https://news.ycombinator.com/item?id=36200738) - [Forests around Chernobyl aren’t decaying properly (2014)](https://www.smithsonianmag.com/science-nature/forests-around-chernobyl-arent-decaying-properly-180950075/)
 * [2023-06-05, 18:10:49](https://news.ycombinator.com/item?id=36200480) - [How Photoshop solved working with files larger than can fit into memory](https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/)
 * [2023-06-05, 16:03:55](https://news.ycombinator.com/item?id=36198329) - [Our right to challenge junk patents is under threat](https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat)
-* [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC W23) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
+* [2023-06-05, 15:39:09](https://news.ycombinator.com/item?id=36197880) - [Launch HN: Nucleus (YC S22) – Kubernetes platform for both devs and ops](https://news.ycombinator.com/item?id=36197880)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
 * [2023-06-05, 13:27:02](https://news.ycombinator.com/item?id=36195885) - [How Wittgenstein Watched Movies](https://onthearts.com/p/how-wittgenstein-watched-movies)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
