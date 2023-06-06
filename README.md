@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-06, 17:17:56](https://news.ycombinator.com/item?id=36216056) - [RedPajama 7B (an Apache 2.0-licensed LLaMa) is now available](https://www.together.xyz/blog/redpajama-7b)
+* [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 17:06:52](https://news.ycombinator.com/item?id=36215914) - [Reddit permanently bans account of user advocating Lemmy migration](https://lemmy.ml/post/1152281)
 * [2023-06-06, 17:00:18](https://news.ycombinator.com/item?id=36215816) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
@@ -17,7 +18,6 @@
 * [2023-06-06, 11:45:42](https://news.ycombinator.com/item?id=36211219) - [Sequoia is splitting into three VC firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
 * [2023-06-06, 11:04:49](https://news.ycombinator.com/item?id=36210886) - [Absinthe for Large Elixir Applications](https://blog.appsignal.com/2023/06/06/absinthe-for-large-elixir-applications.html)
 * [2023-06-06, 10:52:36](https://news.ycombinator.com/item?id=36210805) - [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
-* [2023-06-06, 10:43:12](https://news.ycombinator.com/item?id=36210727) - [Hyperparameter Optimization for LLMs via Scaling Laws](https://arxiv.org/abs/2302.00441)
 * [2023-06-06, 10:13:47](https://news.ycombinator.com/item?id=36210548) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 * [2023-06-06, 09:09:29](https://news.ycombinator.com/item?id=36210133) - [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
 * [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
