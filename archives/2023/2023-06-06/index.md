@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
 * [2023-06-06, 14:27:42](https://news.ycombinator.com/item?id=36213332) - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
 * [2023-06-06, 14:27:34](https://news.ycombinator.com/item?id=36213330) - [Chrome still hasn't changed its opinion about dropping JPEG XL support](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
+* [2023-06-06, 13:57:56](https://news.ycombinator.com/item?id=36212865) - [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/)
 * [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 13:34:31](https://news.ycombinator.com/item?id=36212480) - [Ripping Off Professional Criminals by Fermenting Onions](https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/)
 * [2023-06-06, 13:30:16](https://news.ycombinator.com/item?id=36212421) - [Drone cops are coming for small-town America](https://www.economist.com/1843/2023/06/01/drone-cops-are-coming-for-small-town-america)
