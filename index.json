@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-06, 18:26:51",
+      "https://news.ycombinator.com/item?id=36217064"
+    ],
+    [
+      "Ruff: A Fast Python Linter",
+      "https://lwn.net/Articles/930487/"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 18:19:15",
       "https://news.ycombinator.com/item?id=36216959"
     ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2023-06-06, 17:17:56",
-      "https://news.ycombinator.com/item?id=36216056"
-    ],
-    [
-      "RedPajama 7B (an Apache 2.0-licensed LLaMa) is now available",
-      "https://www.together.xyz/blog/redpajama-7b"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 17:07:43",
       "https://news.ycombinator.com/item?id=36215924"
     ],
     [
       "Modern Image Processing Algorithms Implementation in C",
       "https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 17:06:52",
-      "https://news.ycombinator.com/item?id=36215914"
-    ],
-    [
-      "Reddit permanently bans account of user advocating Lemmy migration",
-      "https://lemmy.ml/post/1152281"
     ]
   ],
   [
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2023-06-06, 16:07:25",
+      "https://news.ycombinator.com/item?id=36214901"
+    ],
+    [
+      "Why AI Will Save the World",
+      "https://a16z.com/2023/06/06/ai-will-save-the-world/"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 14:51:15",
       "https://news.ycombinator.com/item?id=36213704"
     ],
@@ -97,16 +97,6 @@
     [
       "We reported a security issue in AWS CDK’s eks.Cluster component",
       "https://garden.io/blog/aws-security-issue"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 14:27:34",
-      "https://news.ycombinator.com/item?id=36213330"
-    ],
-    [
-      "Chrome still hasn't changed its opinion about dropping JPEG XL support",
-      "https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "US SEC sues Coinbase, one day after suing Binance",
       "https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 11:45:42",
+      "https://news.ycombinator.com/item?id=36211219"
+    ],
+    [
+      "Sequoia is splitting into three VC firms",
+      "https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/"
     ]
   ],
   [
