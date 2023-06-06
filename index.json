@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-06, 14:27:42",
+      "https://news.ycombinator.com/item?id=36213332"
+    ],
+    [
+      "We reported a security issue in AWS CDK’s eks.Cluster component",
+      "https://garden.io/blog/aws-security-issue"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 14:27:34",
+      "https://news.ycombinator.com/item?id=36213330"
+    ],
+    [
+      "Chrome still hasn't changed its opinion about dropping JPEG XL support",
+      "https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 14:00:21",
       "https://news.ycombinator.com/item?id=36212903"
     ],
@@ -87,16 +107,6 @@
     [
       "Svix (YC W21) Is Hiring an Account Executive (US Remote)",
       "https://www.svix.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 11:51:00",
-      "https://news.ycombinator.com/item?id=36211255"
-    ],
-    [
-      "A better tool than jq for just extracting data, antonmedv's fx",
-      "https://github.com/antonmedv/fx"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Apple Vision Pro: Apple’s first spatial computer",
       "https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/"
-    ]
-  ],
-  [
-    [
-      "2023-06-05, 16:03:55",
-      "https://news.ycombinator.com/item?id=36198329"
-    ],
-    [
-      "Our right to challenge junk patents is under threat",
-      "https://www.eff.org/deeplinks/2023/06/our-right-challenge-junk-patents-under-threat"
     ]
   ],
   [
