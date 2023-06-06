@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
+* [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 13:34:31](https://news.ycombinator.com/item?id=36212480) - [Ripping Off Professional Criminals by Fermenting Onions](https://shufflingbytes.com/posts/ripping-off-professional-criminals-by-fermenting-onions-phishing-darknet-users-for-bitcoins/)
+* [2023-06-06, 13:30:16](https://news.ycombinator.com/item?id=36212421) - [Drone cops are coming for small-town America](https://www.economist.com/1843/2023/06/01/drone-cops-are-coming-for-small-town-america)
 * [2023-06-06, 13:19:59](https://news.ycombinator.com/item?id=36212242) - [Deadly heart attacks are more common on a Monday](https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/heart-attack-more-common-monday)
 * [2023-06-06, 13:10:56](https://news.ycombinator.com/item?id=36212120) - [US SEC sues Coinbase, one day after suing Binance](https://www.reuters.com/legal/us-sec-sues-coinbase-over-failure-register-2023-06-06/)
 * [2023-06-06, 13:02:39](https://news.ycombinator.com/item?id=36212001) - [We reported an AWS security issue and then this happened](https://garden.io/blog/aws-security-issue)
