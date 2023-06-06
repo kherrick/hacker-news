@@ -2,6 +2,7 @@
 
 * [2023-06-06, 07:29:19](https://news.ycombinator.com/item?id=36209408) - [Passkeys now support external providers](https://developer.apple.com/passkeys/)
 * [2023-06-06, 06:49:07](https://news.ycombinator.com/item?id=36209078) - [The Linux kernel will fix some peculiar argv usage in execve(2)](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelArgvFixup)
+* [2023-06-06, 06:42:31](https://news.ycombinator.com/item?id=36209014) - [Apple releasing segmentation/pose for humans and animals, embedding for 27 lang](https://developer.apple.com/wwdc23/topics/ml-vision/)
 * [2023-06-06, 06:01:14](https://news.ycombinator.com/item?id=36208735) - [visionOS](https://developer.apple.com/visionos/)
 * [2023-06-06, 05:37:28](https://news.ycombinator.com/item?id=36208568) - [Why SQLite is so great for the edge](https://blog.turso.tech/why-sqlite-is-so-great-for-the-edge-ee00a3a9a55f)
 * [2023-06-06, 04:00:58](https://news.ycombinator.com/item?id=36207926) - [HeadSculpt: Crafting 3D Head Avatars with Text](https://brandonhan.uk/HeadSculpt/)
@@ -26,7 +27,6 @@
 * [2023-06-05, 15:13:30](https://news.ycombinator.com/item?id=36197353) - [SEC Sues Binance and CEO Zhao for Breaking US Securities Rules](https://www.bloomberg.com/news/articles/2023-06-05/sec-sues-binance-and-ceo-zhao-for-breaking-us-securities-rules)
 * [2023-06-05, 15:10:05](https://news.ycombinator.com/item?id=36197291) - [GPT Best Practices](https://platform.openai.com/docs/guides/gpt-best-practices)
 * [2023-06-05, 15:09:37](https://news.ycombinator.com/item?id=36197280) - [An Excel error led Austria's SPÖ to announce the wrong candidate as the winner](https://twitter.com/joncstone/status/1665728784366960641)
-* [2023-06-05, 15:08:55](https://news.ycombinator.com/item?id=36197266) - [Linux on the Xbox 360](https://www.lilysthings.org/blog/linux-on-xbox360/)
 * [2023-06-05, 13:27:02](https://news.ycombinator.com/item?id=36195885) - [How Wittgenstein Watched Movies](https://onthearts.com/p/how-wittgenstein-watched-movies)
 * [2023-06-05, 07:27:35](https://news.ycombinator.com/item?id=36193495) - [Messages that can only be understood under the influence of psychedelics](https://qri.org/blog/psycrypto-contest)
 * [2023-06-05, 06:45:18](https://news.ycombinator.com/item?id=36193196) - [Teardown and review of a new 386 system: Hand386](https://yeokhengmeng.com/2023/06/teardown-and-review-of-hand386/)
