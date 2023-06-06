@@ -2,6 +2,7 @@
 
 * [2023-06-06, 18:26:51](https://news.ycombinator.com/item?id=36217064) - [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
 * [2023-06-06, 18:19:15](https://news.ycombinator.com/item?id=36216959) - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
+* [2023-06-06, 18:04:52](https://news.ycombinator.com/item?id=36216745) - [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:40:23](https://news.ycombinator.com/item?id=36216389) - [The C Standard Library Function Isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
@@ -9,7 +10,6 @@
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
 * [2023-06-06, 16:33:25](https://news.ycombinator.com/item?id=36215357) - [SwiftData](https://developer.apple.com/documentation/SwiftData)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
-* [2023-06-06, 14:27:42](https://news.ycombinator.com/item?id=36213332) - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
 * [2023-06-06, 13:57:56](https://news.ycombinator.com/item?id=36212865) - [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/)
 * [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
