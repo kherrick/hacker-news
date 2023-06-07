@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-07, 18:03:25",
+      "https://news.ycombinator.com/item?id=36230750"
+    ],
+    [
+      "I'm Afraid I Can't Do That: Prompt Refusal in Generative Language Models",
+      "https://arxiv.org/abs/2306.03423"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 17:58:17",
+      "https://news.ycombinator.com/item?id=36230649"
+    ],
+    [
+      "Hacker News evading criticism by selectively adding noreferrer to certain links",
+      "https://social.treehouse.systems/@marcan/110503050993279759"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 17:39:09",
       "https://news.ycombinator.com/item?id=36230285"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2023-06-07, 17:21:07",
-      "https://news.ycombinator.com/item?id=36229962"
+      "2023-06-07, 17:24:55",
+      "https://news.ycombinator.com/item?id=36230016"
     ],
     [
-      "Vision Pro’s Big Reveal",
-      "https://www.roughtype.com/?p=9237"
+      "Val Town Pro - $10/month for more compute, storage, private vals",
+      "https://www.val.town/pricing"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Using Redundant Conditions to Unlock Indexes in MySQL",
       "https://planetscale.com/blog/redundant-and-approximate-conditions"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 15:51:55",
-      "https://news.ycombinator.com/item?id=36228477"
-    ],
-    [
-      "Show HN: I built an AI language teacher to get you speaking",
-      "https://gliglish.com/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Texas Instruments Explorer Computer System (1984) [pdf]",
       "http://www.typewritten.org/Articles/TI/deeb025.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 05:17:19",
-      "https://news.ycombinator.com/item?id=36208420"
-    ],
-    [
-      "The growing pains of database architecture",
-      "https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/"
     ]
   ],
   [
