@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 17:21:07](https://news.ycombinator.com/item?id=36229962) - [Vision Pro’s Big Reveal](https://www.roughtype.com/?p=9237)
 * [2023-06-07, 17:11:30](https://news.ycombinator.com/item?id=36229811) - [Canada will reach 40M population by the end of this year](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
-* [2023-06-07, 17:10:22](https://news.ycombinator.com/item?id=36229791) - [What If We’re Thinking About Inflation All Wrong?](https://www.newyorker.com/news/persons-of-interest/what-if-were-thinking-about-inflation-all-wrong)
 * [2023-06-07, 17:09:14](https://news.ycombinator.com/item?id=36229782) - [Bard is getting better at logic and reasoning](https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/)
 * [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-07, 16:55:29](https://news.ycombinator.com/item?id=36229557) - [NL national security law to grant automatic permission for targeted surveillance](https://aboutintel.eu/nl-government-wants-to-abandon-key-safeguards-for-hacking-of-non-targets/)
