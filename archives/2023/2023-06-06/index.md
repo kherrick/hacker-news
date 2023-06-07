@@ -60,6 +60,7 @@
 * [2023-06-06, 10:52:36](https://news.ycombinator.com/item?id=36210805) - [Reddit’s plan to kill third-party apps sparks widespread protests](https://arstechnica.com/gadgets/2023/06/reddits-plan-to-kill-third-party-apps-sparks-widespread-protests/)
 * [2023-06-06, 10:47:57](https://news.ycombinator.com/item?id=36210765) - [Is React Having an Angular.js Moment?](https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html)
 * [2023-06-06, 10:43:12](https://news.ycombinator.com/item?id=36210727) - [Hyperparameter Optimization for LLMs via Scaling Laws](https://arxiv.org/abs/2302.00441)
+* [2023-06-06, 10:23:51](https://news.ycombinator.com/item?id=36210599) - [The History of CUDA](https://www.youtube.com/watch?v=Cmh1EHXjJsk)
 * [2023-06-06, 10:13:47](https://news.ycombinator.com/item?id=36210548) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 * [2023-06-06, 09:47:51](https://news.ycombinator.com/item?id=36210386) - [Demusked: How to Protect Social Media from Billionaire Tech Bros](https://www.bylinesupplement.com/p/unmusked-how-to-protect-social-media)
 * [2023-06-06, 09:46:53](https://news.ycombinator.com/item?id=36210375) - [Jdupes: A powerful duplicate file finder](https://github.com/jbruchon/jdupes)
