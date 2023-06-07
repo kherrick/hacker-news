@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-07, 20:27:17](https://news.ycombinator.com/item?id=36233068) - [Tell HN: \"I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
+* [2023-06-07, 20:07:10](https://news.ycombinator.com/item?id=36232776) - [Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
 * [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Tracking a single person through wastewater DNA](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:15:31](https://news.ycombinator.com/item?id=36232002) - [Kami home camera app suddenly started displaying ads in the app](https://forum.yitechnology.com/t/ads-in-kami-home-yi-home-is-this-true/13127)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
@@ -22,7 +23,6 @@
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 10:52:47](https://news.ycombinator.com/item?id=36225239) - [Show HN: Homelab Monitoring Setup with Grafana](https://blog.randombits.host/monitoring-self-hosted-services/)
 * [2023-06-07, 10:20:50](https://news.ycombinator.com/item?id=36225016) - [Open Source Business Challenges and Reality](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
-* [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 01:58:50](https://news.ycombinator.com/item?id=36221873) - [For an Inch of Blue Sea](https://www.versobooks.com/blogs/news/oh-for-an-inch-of-blue-sea)
 * [2023-06-06, 17:34:29](https://news.ycombinator.com/item?id=36216296) - [Scent back in time: how ancient odours can bring the past to life](https://the-past.com/feature/scent-back-in-time-how-ancient-odours-can-bring-the-past-to-life/)
 * [2023-06-06, 17:25:27](https://news.ycombinator.com/item?id=36216157) - [Is That a Compiler Bug?](https://blog.regehr.org/archives/26)
