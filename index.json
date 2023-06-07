@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-07, 16:09:23",
-      "https://news.ycombinator.com/item?id=36228767"
-    ],
-    [
-      "A New CEO Says Employees Can’t Work Remotely After All, and They Revolt",
-      "https://www.wsj.com/articles/a-new-ceo-says-employees-cant-work-remotely-after-all-and-they-revolt-81135399"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 15:51:55",
       "https://news.ycombinator.com/item?id=36228477"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-06-07, 14:44:15",
+      "https://news.ycombinator.com/item?id=36227416"
+    ],
+    [
+      "Hydroflow: Dataflow Runtime in Rust",
+      "https://github.com/hydro-project/hydroflow"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 14:43:56",
       "https://news.ycombinator.com/item?id=36227411"
     ],
@@ -77,16 +77,6 @@
     [
       "How many sensors for autonomous driving?",
       "https://semiengineering.com/how-many-sensors-for-autonomous-driving/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 14:01:33",
-      "https://news.ycombinator.com/item?id=36226883"
-    ],
-    [
-      "Show HN: Castled Data – Customer engagement software on top of data warehouses",
-      "https://news.ycombinator.com/item?id=36226883"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The growing pains of database architecture",
       "https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 04:29:01",
+      "https://news.ycombinator.com/item?id=36208081"
+    ],
+    [
+      "Proving My Compiler Code Incorrect with Alloy",
+      "https://danilafe.com/blog/dyno_alloy/"
     ]
   ]
 ]
