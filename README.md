@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 10:51:38](https://news.ycombinator.com/item?id=36225227) - [FF4J – Feature Flags for Java](https://ff4j.github.io/)
+* [2023-06-07, 10:20:50](https://news.ycombinator.com/item?id=36225016) - [Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
 * [2023-06-07, 09:59:46](https://news.ycombinator.com/item?id=36224893) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 * [2023-06-07, 09:31:08](https://news.ycombinator.com/item?id=36224727) - [Why Was Benjamin Franklin’s Basement Filled with Skeletons?](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
 * [2023-06-07, 09:28:05](https://news.ycombinator.com/item?id=36224703) - [Ask HN: Code review as part of the peer review process?](https://news.ycombinator.com/item?id=36224703)
@@ -11,7 +13,6 @@
 * [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
 * [2023-06-07, 01:20:08](https://news.ycombinator.com/item?id=36221534) - [DeepFilterNet: Noise supression using deep filtering](https://github.com/Rikorose/DeepFilterNet)
-* [2023-06-07, 00:19:19](https://news.ycombinator.com/item?id=36221010) - [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
 * [2023-06-06, 21:55:05](https://news.ycombinator.com/item?id=36219585) - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
 * [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Ownership in Swift: Manifesto and meta-proposal (2017)](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 * [2023-06-06, 18:29:10](https://news.ycombinator.com/item?id=36217098) - [From SVG to Canvas – A new way of building interactions](https://felt.com/blog/svg-to-canvas-part-2-building-interactions)
@@ -24,7 +25,6 @@
 * [2023-06-06, 15:31:28](https://news.ycombinator.com/item?id=36214393) - [Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
 * [2023-06-06, 15:14:24](https://news.ycombinator.com/item?id=36214084) - [When First Principles Thinking Fails](https://commoncog.com/how-first-principles-thinking-fails/)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
-* [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 11:18:47](https://news.ycombinator.com/item?id=36211004) - [How to Grow a Three Sisters Garden (2016)](https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden)
 * [2023-06-06, 10:23:51](https://news.ycombinator.com/item?id=36210599) - [The History of CUDA](https://www.youtube.com/watch?v=Cmh1EHXjJsk)
 * [2023-06-06, 08:46:22](https://news.ycombinator.com/item?id=36209955) - [Scripts for Btrfs Maintenance](https://github.com/kdave/btrfsmaintenance)

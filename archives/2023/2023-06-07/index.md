@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 10:51:38](https://news.ycombinator.com/item?id=36225227) - [FF4J – Feature Flags for Java](https://ff4j.github.io/)
+* [2023-06-07, 10:20:50](https://news.ycombinator.com/item?id=36225016) - [Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
 * [2023-06-07, 09:59:46](https://news.ycombinator.com/item?id=36224893) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 * [2023-06-07, 09:31:08](https://news.ycombinator.com/item?id=36224727) - [Why Was Benjamin Franklin’s Basement Filled with Skeletons?](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
 * [2023-06-07, 09:28:05](https://news.ycombinator.com/item?id=36224703) - [Ask HN: Code review as part of the peer review process?](https://news.ycombinator.com/item?id=36224703)
