@@ -6,7 +6,7 @@
 * [2023-06-07, 01:00:19](https://news.ycombinator.com/item?id=36221367) - [Santé (YC S23) Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
 * [2023-06-07, 00:19:19](https://news.ycombinator.com/item?id=36221010) - [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
 * [2023-06-06, 21:55:05](https://news.ycombinator.com/item?id=36219585) - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
-* [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Ownership in Swift: Manifesto and meta-proposal](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
+* [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Ownership in Swift: Manifesto and meta-proposal (2017)](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 * [2023-06-06, 19:55:58](https://news.ycombinator.com/item?id=36218281) - [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
 * [2023-06-06, 19:17:57](https://news.ycombinator.com/item?id=36217746) - [Early dispersal of domestic horses into the Great Plains and northern Rockies](https://fermatslibrary.com/s/early-dispersal-of-domestic-horses-into-the-great-plains-and-northern-rockies)
 * [2023-06-06, 18:29:10](https://news.ycombinator.com/item?id=36217098) - [From SVG to Canvas – A new way of building interactions](https://felt.com/blog/svg-to-canvas-part-2-building-interactions)
