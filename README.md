@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 18:03:25](https://news.ycombinator.com/item?id=36230750) - [I'm Afraid I Can't Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
+* [2023-06-07, 17:58:17](https://news.ycombinator.com/item?id=36230649) - [Hacker News evading criticism by selectively adding noreferrer to certain links](https://social.treehouse.systems/@marcan/110503050993279759)
 * [2023-06-07, 17:39:09](https://news.ycombinator.com/item?id=36230285) - [Global Solar Power Investment Will Top $1B per Day This Year](https://singularityhub.com/2023/06/07/global-solar-power-investment-will-top-1-billion-per-day-this-year/)
-* [2023-06-07, 17:21:07](https://news.ycombinator.com/item?id=36229962) - [Vision Pro’s Big Reveal](https://www.roughtype.com/?p=9237)
+* [2023-06-07, 17:24:55](https://news.ycombinator.com/item?id=36230016) - [Val Town Pro - $10/month for more compute, storage, private vals](https://www.val.town/pricing)
 * [2023-06-07, 17:09:14](https://news.ycombinator.com/item?id=36229782) - [Bard is getting better at logic and reasoning](https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/)
 * [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-07, 16:55:29](https://news.ycombinator.com/item?id=36229557) - [NL national security law to grant automatic permission for targeted surveillance](https://aboutintel.eu/nl-government-wants-to-abandon-key-safeguards-for-hacking-of-non-targets/)
 * [2023-06-07, 16:41:57](https://news.ycombinator.com/item?id=36229387) - [Using Redundant Conditions to Unlock Indexes in MySQL](https://planetscale.com/blog/redundant-and-approximate-conditions)
-* [2023-06-07, 15:51:55](https://news.ycombinator.com/item?id=36228477) - [Show HN: I built an AI language teacher to get you speaking](https://gliglish.com/)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 14:48:18](https://news.ycombinator.com/item?id=36227470) - [Painful Lesson: Always 'Show and Tell' Your Product Before You Develop It](https://news.ycombinator.com/item?id=36227470)
 * [2023-06-07, 14:44:15](https://news.ycombinator.com/item?id=36227416) - [Hydroflow: Dataflow Runtime in Rust](https://github.com/hydro-project/hydroflow)
@@ -28,7 +29,6 @@
 * [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
 * [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
 * [2023-06-06, 13:43:50](https://news.ycombinator.com/item?id=36212632) - [Texas Instruments Explorer Computer System (1984) [pdf]](http://www.typewritten.org/Articles/TI/deeb025.pdf)
-* [2023-06-06, 05:17:19](https://news.ycombinator.com/item?id=36208420) - [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 * [2023-06-06, 04:29:01](https://news.ycombinator.com/item?id=36208081) - [Proving My Compiler Code Incorrect with Alloy](https://danilafe.com/blog/dyno_alloy/)
 
 ## [Archives](archives/index.md)
