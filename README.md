@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-07, 07:56:27](https://news.ycombinator.com/item?id=36224145) - [Ancient Carthaginians did sacrifice their children](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
+* [2023-06-07, 07:56:27](https://news.ycombinator.com/item?id=36224145) - [Ancient Carthaginians did sacrifice their children (2014)](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
 * [2023-06-07, 07:27:39](https://news.ycombinator.com/item?id=36223927) - [Apple's game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
 * [2023-06-07, 07:01:03](https://news.ycombinator.com/item?id=36223766) - [Aptible (YC S14) is hiring a security engineer](https://news.ycombinator.com/item?id=36223766)
 * [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
