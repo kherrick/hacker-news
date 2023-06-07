@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 21:32:49](https://news.ycombinator.com/item?id=36233862) - [Rust Module System Encourages Bad Practices](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass Makes Better Ethanol Than Corn Does](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
 * [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
