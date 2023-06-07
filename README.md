@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass Makes Better Ethanol Than Corn Does](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
 * [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 * [2023-06-07, 20:27:17](https://news.ycombinator.com/item?id=36233068) - [Tell HN: \"I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
@@ -12,8 +13,7 @@
 * [2023-06-07, 18:26:40](https://news.ycombinator.com/item?id=36231170) - [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
 * [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
 * [2023-06-07, 18:09:17](https://news.ycombinator.com/item?id=36230839) - [Apple removes $99 dev account requirement for first iOS 17 and macOS 14 betas](https://arstechnica.com/gadgets/2023/06/how-to-install-ios-17-and-macos-14-developer-betas-now-that-anyone-can-do-it/)
-* [2023-06-07, 18:03:25](https://news.ycombinator.com/item?id=36230750) - [I'm Afraid I Can't Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
-* [2023-06-07, 17:24:55](https://news.ycombinator.com/item?id=36230016) - [Val Town Pro - $10/month for more compute, storage, private vals](https://www.val.town/pricing)
+* [2023-06-07, 18:03:25](https://news.ycombinator.com/item?id=36230750) - [I'm afraid I can't do that: Prompt refusal in generative language models](https://arxiv.org/abs/2306.03423)
 * [2023-06-07, 17:09:14](https://news.ycombinator.com/item?id=36229782) - [Bard is getting better at logic and reasoning](https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/)
 * [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-07, 16:55:29](https://news.ycombinator.com/item?id=36229557) - [NL national security law to grant automatic permission for targeted surveillance](https://aboutintel.eu/nl-government-wants-to-abandon-key-safeguards-for-hacking-of-non-targets/)
@@ -27,7 +27,7 @@
 * [2023-06-06, 17:25:27](https://news.ycombinator.com/item?id=36216157) - [Is That a Compiler Bug?](https://blog.regehr.org/archives/26)
 * [2023-06-06, 16:23:31](https://news.ycombinator.com/item?id=36215180) - [Quantum visualization technique gives insight into photosynthesis](https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html)
 * [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
-* [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto: The Girl from Ipanema singer dies at 83](https://www.bbc.com/news/entertainment-arts-65818566)
+* [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 * [2023-06-06, 13:43:50](https://news.ycombinator.com/item?id=36212632) - [Texas Instruments Explorer Computer System (1984) [pdf]](http://www.typewritten.org/Articles/TI/deeb025.pdf)
 * [2023-06-06, 04:29:01](https://news.ycombinator.com/item?id=36208081) - [Proving My Compiler Code Incorrect with Alloy](https://danilafe.com/blog/dyno_alloy/)
 
