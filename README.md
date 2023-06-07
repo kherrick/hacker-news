@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass Makes Better Ethanol Than Corn Does](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
+* [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass Makes Better Ethanol Than Corn Does (2008)](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
 * [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 * [2023-06-07, 20:27:17](https://news.ycombinator.com/item?id=36233068) - [Tell HN: \"I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
@@ -9,6 +9,7 @@
 * [2023-06-07, 20:07:10](https://news.ycombinator.com/item?id=36232776) - [Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
 * [2023-06-07, 19:38:56](https://news.ycombinator.com/item?id=36232348) - [Show HN: Ezno, a TypeScript checker written in Rust, is now open source](https://github.com/kaleidawave/ezno/discussions/21)
 * [2023-06-07, 19:15:31](https://news.ycombinator.com/item?id=36232002) - [Kami home camera app suddenly started displaying ads in the app](https://forum.yitechnology.com/t/ads-in-kami-home-yi-home-is-this-true/13127)
+* [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 * [2023-06-07, 18:26:40](https://news.ycombinator.com/item?id=36231170) - [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
 * [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
@@ -23,7 +24,6 @@
 * [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How many sensors for autonomous driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
-* [2023-06-07, 01:58:50](https://news.ycombinator.com/item?id=36221873) - [For an Inch of Blue Sea](https://www.versobooks.com/blogs/news/oh-for-an-inch-of-blue-sea)
 * [2023-06-06, 17:25:27](https://news.ycombinator.com/item?id=36216157) - [Is That a Compiler Bug?](https://blog.regehr.org/archives/26)
 * [2023-06-06, 16:23:31](https://news.ycombinator.com/item?id=36215180) - [Quantum visualization technique gives insight into photosynthesis](https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html)
 * [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
