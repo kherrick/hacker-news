@@ -42,6 +42,7 @@
 * [2023-06-06, 14:40:36](https://news.ycombinator.com/item?id=36213536) - [The ingredients of our devtool rebrand](https://www.mux.com/blog/rebranding-during-a-recession)
 * [2023-06-06, 14:27:42](https://news.ycombinator.com/item?id=36213332) - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
 * [2023-06-06, 14:27:34](https://news.ycombinator.com/item?id=36213330) - [Chrome still hasn't changed its opinion about dropping JPEG XL support](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406)
+* [2023-06-06, 14:22:20](https://news.ycombinator.com/item?id=36213242) - [Next-Generation CAMM, Mr-DIMM Memory Modules Show Up at Computex](https://www.anandtech.com/show/18893/next-generation-camm-mr-dimm-modules-at-computex)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
 * [2023-06-06, 13:57:56](https://news.ycombinator.com/item?id=36212865) - [In New Paradox, Black Holes Appear to Evade Heat Death](https://www.quantamagazine.org/in-new-paradox-black-holes-appear-to-evade-heat-death-20230606/)
 * [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
