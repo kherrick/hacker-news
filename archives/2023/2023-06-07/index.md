@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 * [2023-06-07, 18:26:40](https://news.ycombinator.com/item?id=36231170) - [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
 * [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 * [2023-06-07, 18:26:40](https://news.ycombinator.com/item?id=36231170) - [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
 * [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
@@ -23,7 +24,6 @@
 * [2023-06-07, 10:52:47](https://news.ycombinator.com/item?id=36225239) - [Show HN: Homelab Monitoring Setup with Grafana](https://blog.randombits.host/monitoring-self-hosted-services/)
 * [2023-06-07, 10:20:50](https://news.ycombinator.com/item?id=36225016) - [Open Source Business Challenges and Reality](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
 * [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
-* [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 01:58:50](https://news.ycombinator.com/item?id=36221873) - [For an Inch of Blue Sea](https://www.versobooks.com/blogs/news/oh-for-an-inch-of-blue-sea)
 * [2023-06-06, 17:34:29](https://news.ycombinator.com/item?id=36216296) - [Scent back in time: how ancient odours can bring the past to life](https://the-past.com/feature/scent-back-in-time-how-ancient-odours-can-bring-the-past-to-life/)
 * [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
