@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-06-07, 09:28:05",
-      "https://news.ycombinator.com/item?id=36224703"
-    ],
-    [
-      "Ask HN: Code review as part of the peer review process?",
-      "https://news.ycombinator.com/item?id=36224703"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 07:33:26",
       "https://news.ycombinator.com/item?id=36223972"
     ],
@@ -137,6 +127,16 @@
     [
       "Notes on Vision Pro",
       "https://notes.andymatuschak.org/Vision%20Pro"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 21:12:03",
+      "https://news.ycombinator.com/item?id=36219181"
+    ],
+    [
+      "Ownership in Swift: Manifesto and meta-proposal (2017)",
+      "https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=36214084"
     ],
     [
-      "When First Principles Thinking Fails",
+      "When First Principles Thinking Fails (2020)",
       "https://commoncog.com/how-first-principles-thinking-fails/"
     ]
   ],
