@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-07, 07:56:27",
+      "https://news.ycombinator.com/item?id=36224145"
+    ],
+    [
+      "Ancient Carthaginians did sacrifice their children",
+      "https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 07:27:39",
       "https://news.ycombinator.com/item?id=36223927"
     ],
@@ -27,16 +37,6 @@
     [
       "“csinc”, the AArch64 instruction you didn’t know you wanted",
       "https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 05:41:10",
-      "https://news.ycombinator.com/item?id=36223278"
-    ],
-    [
-      "The Hindu supremacist movement is a growing threat in the U.S.",
-      "https://prismreports.org/2023/05/30/hindu-supremacist-movement-growing-threat/"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Point Estimation of Covariance Matrices in Hierarchical Models (2015) [pdf]",
       "http://www.stat.columbia.edu/~gelman/research/published/chung_cov_matrices.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 17:07:43",
-      "https://news.ycombinator.com/item?id=36215924"
-    ],
-    [
-      "Modern Image Processing Algorithms Implementation in C",
-      "https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields",
       "https://jonbarron.info/zipnerf/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 05:17:19",
+      "https://news.ycombinator.com/item?id=36208420"
+    ],
+    [
+      "The growing pains of database architecture",
+      "https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/"
     ]
   ]
 ]
