@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 17:39:09](https://news.ycombinator.com/item?id=36230285) - [Global Solar Power Investment Will Top $1B per Day This Year](https://singularityhub.com/2023/06/07/global-solar-power-investment-will-top-1-billion-per-day-this-year/)
 * [2023-06-07, 17:21:07](https://news.ycombinator.com/item?id=36229962) - [Vision Pro’s Big Reveal](https://www.roughtype.com/?p=9237)
 * [2023-06-07, 17:11:30](https://news.ycombinator.com/item?id=36229811) - [Canada will reach 40M population by the end of this year](https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm)
 * [2023-06-07, 17:10:22](https://news.ycombinator.com/item?id=36229791) - [What If We’re Thinking About Inflation All Wrong?](https://www.newyorker.com/news/persons-of-interest/what-if-were-thinking-about-inflation-all-wrong)
