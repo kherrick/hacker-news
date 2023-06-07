@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
+* [2023-06-07, 18:26:40](https://news.ycombinator.com/item?id=36231170) - [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
+* [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
 * [2023-06-07, 18:09:17](https://news.ycombinator.com/item?id=36230839) - [Apple removes $99 dev account requirement for first iOS 17 and macOS 14 betas](https://arstechnica.com/gadgets/2023/06/how-to-install-ios-17-and-macos-14-developer-betas-now-that-anyone-can-do-it/)
 * [2023-06-07, 18:03:25](https://news.ycombinator.com/item?id=36230750) - [I'm Afraid I Can't Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
 * [2023-06-07, 17:58:17](https://news.ycombinator.com/item?id=36230649) - [Hacker News evading criticism by selectively adding noreferrer to certain links](https://social.treehouse.systems/@marcan/110503050993279759)
