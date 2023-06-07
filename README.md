@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-07, 16:09:23](https://news.ycombinator.com/item?id=36228767) - [A New CEO Says Employees Can’t Work Remotely After All, and They Revolt](https://www.wsj.com/articles/a-new-ceo-says-employees-cant-work-remotely-after-all-and-they-revolt-81135399)
-* [2023-06-07, 16:02:03](https://news.ycombinator.com/item?id=36228643) - [Classic movie censored and re-edited for “modern sensitivities”](https://twitter.com/TheFIREorg/status/1666457570171666432)
 * [2023-06-07, 15:51:55](https://news.ycombinator.com/item?id=36228477) - [Show HN: I built an AI language teacher to get you speaking](https://gliglish.com/)
-* [2023-06-07, 15:39:36](https://news.ycombinator.com/item?id=36228269) - [Addressing the distribution of illicit sexual content by minors online](https://cyber.fsi.stanford.edu/news/addressing-distribution-illicit-sexual-content-minors-online)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 15:28:42](https://news.ycombinator.com/item?id=36228084) - [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
 * [2023-06-07, 14:48:18](https://news.ycombinator.com/item?id=36227470) - [Painful Lesson: Always 'Show and Tell' Your Product Before You Develop It](https://news.ycombinator.com/item?id=36227470)
@@ -29,6 +27,8 @@
 * [2023-06-06, 18:14:44](https://news.ycombinator.com/item?id=36216901) - [Function Back Deployment](https://github.com/apple/swift-evolution/blob/main/proposals/0376-function-back-deployment.md)
 * [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
 * [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
+* [2023-06-06, 15:31:28](https://news.ycombinator.com/item?id=36214393) - [Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
+* [2023-06-06, 11:18:47](https://news.ycombinator.com/item?id=36211004) - [How to Grow a Three Sisters Garden (2016)](https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden)
 * [2023-06-06, 05:17:19](https://news.ycombinator.com/item?id=36208420) - [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 
 ## [Archives](archives/index.md)
