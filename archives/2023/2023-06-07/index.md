@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 * [2023-06-07, 20:27:17](https://news.ycombinator.com/item?id=36233068) - [Tell HN: \"I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
+* [2023-06-07, 20:16:19](https://news.ycombinator.com/item?id=36232900) - [A monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
 * [2023-06-07, 20:13:05](https://news.ycombinator.com/item?id=36232861) - [Apple's new library format combines the best of dynamic and static](https://developer.apple.com/videos/play/wwdc2023/10268)
 * [2023-06-07, 20:07:10](https://news.ycombinator.com/item?id=36232776) - [Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
 * [2023-06-07, 19:53:04](https://news.ycombinator.com/item?id=36232556) - [Google tells employees along the East Coast to work from home due to smoke](https://www.cnbc.com/2023/06/07/google-tells-east-coast-employees-to-work-from-home-due-to-smoke.html)
