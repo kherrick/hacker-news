@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 05:45:07](https://news.ycombinator.com/item?id=36223307) - [AI images outperforming photos on Adobe Stock (17 cent RPI/m VS 3.75 cent)](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
 * [2023-06-07, 04:18:42](https://news.ycombinator.com/item?id=36222769) - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
 * [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy Says Quantum Navigation Test a Success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
@@ -22,7 +23,6 @@
 * [2023-06-06, 15:37:54](https://news.ycombinator.com/item?id=36214490) - [Bees can learn, remember, think and make decisions](https://worldsensorium.com/bees-can-learn-remember-think-and-make-decisions/)
 * [2023-06-06, 15:37:09](https://news.ycombinator.com/item?id=36214478) - [The Mystery of the Largest Light in the Sea](https://nautil.us/the-mystery-of-the-largest-light-in-the-sea-308189/)
 * [2023-06-06, 15:14:24](https://news.ycombinator.com/item?id=36214084) - [When First Principles Thinking Fails](https://commoncog.com/how-first-principles-thinking-fails/)
-* [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
 * [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
 * [2023-06-06, 12:04:41](https://news.ycombinator.com/item?id=36211381) - [First-Year Graduate Student Finds Paradoxical Set](https://www.quantamagazine.org/first-year-graduate-finds-paradoxical-number-set-20230605/)
