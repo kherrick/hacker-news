@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
+* [2023-06-06, 23:59:45](https://news.ycombinator.com/item?id=36220836) - [We should not let the Earth overheat](https://caseyhandmer.wordpress.com/2023/06/06/we-should-not-let-the-earth-overheat/)
 * [2023-06-06, 21:55:05](https://news.ycombinator.com/item?id=36219585) - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
 * [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 * [2023-06-06, 21:00:18](https://news.ycombinator.com/item?id=36219051) - [Tesorio (YC S15) Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
@@ -59,6 +60,7 @@
 * [2023-06-06, 10:43:12](https://news.ycombinator.com/item?id=36210727) - [Hyperparameter Optimization for LLMs via Scaling Laws](https://arxiv.org/abs/2302.00441)
 * [2023-06-06, 10:13:47](https://news.ycombinator.com/item?id=36210548) - [Digg's v4 launch: an optimism born of necessity (2018)](https://lethain.com/digg-v4/)
 * [2023-06-06, 09:47:51](https://news.ycombinator.com/item?id=36210386) - [Demusked: How to Protect Social Media from Billionaire Tech Bros](https://www.bylinesupplement.com/p/unmusked-how-to-protect-social-media)
+* [2023-06-06, 09:46:53](https://news.ycombinator.com/item?id=36210375) - [Jdupes: A powerful duplicate file finder](https://github.com/jbruchon/jdupes)
 * [2023-06-06, 09:09:29](https://news.ycombinator.com/item?id=36210133) - [Apple Vision predictive bio-feedback](https://twitter.com/sterlingcrispin/status/1665792422914453506)
 * [2023-06-06, 08:46:22](https://news.ycombinator.com/item?id=36209955) - [Scripts for Btrfs Maintenance](https://github.com/kdave/btrfsmaintenance)
 * [2023-06-06, 08:32:40](https://news.ycombinator.com/item?id=36209867) - [Reconstructing Obsidian Features in Vim and Bash](https://erikjohannes.no/posts/20230108-reconstructing-obsidian-features-in-vim/)
