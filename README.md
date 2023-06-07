@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-07, 19:53:04](https://news.ycombinator.com/item?id=36232556) - [Google tells employees along the East Coast to work from home due to smoke](https://www.cnbc.com/2023/06/07/google-tells-east-coast-employees-to-work-from-home-due-to-smoke.html)
 * [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Tracking a single person through wastewater DNA](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:15:31](https://news.ycombinator.com/item?id=36232002) - [Kami home camera app suddenly started displaying ads in the app](https://forum.yitechnology.com/t/ads-in-kami-home-yi-home-is-this-true/13127)
 * [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
@@ -27,6 +26,7 @@
 * [2023-06-07, 01:58:50](https://news.ycombinator.com/item?id=36221873) - [For an Inch of Blue Sea](https://www.versobooks.com/blogs/news/oh-for-an-inch-of-blue-sea)
 * [2023-06-06, 17:34:29](https://news.ycombinator.com/item?id=36216296) - [Scent back in time: how ancient odours can bring the past to life](https://the-past.com/feature/scent-back-in-time-how-ancient-odours-can-bring-the-past-to-life/)
 * [2023-06-06, 17:25:27](https://news.ycombinator.com/item?id=36216157) - [Is That a Compiler Bug?](https://blog.regehr.org/archives/26)
+* [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
 * [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
 * [2023-06-06, 13:43:50](https://news.ycombinator.com/item?id=36212632) - [Texas Instruments Explorer Computer System (1984) [pdf]](http://www.typewritten.org/Articles/TI/deeb025.pdf)
 * [2023-06-06, 04:29:01](https://news.ycombinator.com/item?id=36208081) - [Proving My Compiler Code Incorrect with Alloy](https://danilafe.com/blog/dyno_alloy/)
