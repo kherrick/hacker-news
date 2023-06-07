@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 18:09:17](https://news.ycombinator.com/item?id=36230839) - [Apple removes $99 dev account requirement for first iOS 17 and macOS 14 betas](https://arstechnica.com/gadgets/2023/06/how-to-install-ios-17-and-macos-14-developer-betas-now-that-anyone-can-do-it/)
 * [2023-06-07, 18:03:25](https://news.ycombinator.com/item?id=36230750) - [I'm Afraid I Can't Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
 * [2023-06-07, 17:58:17](https://news.ycombinator.com/item?id=36230649) - [Hacker News evading criticism by selectively adding noreferrer to certain links](https://social.treehouse.systems/@marcan/110503050993279759)
 * [2023-06-07, 17:39:09](https://news.ycombinator.com/item?id=36230285) - [Global Solar Power Investment Will Top $1B per Day This Year](https://singularityhub.com/2023/06/07/global-solar-power-investment-will-top-1-billion-per-day-this-year/)
