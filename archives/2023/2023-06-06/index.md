@@ -39,6 +39,7 @@
 * [2023-06-06, 15:14:24](https://news.ycombinator.com/item?id=36214084) - [When First Principles Thinking Fails](https://commoncog.com/how-first-principles-thinking-fails/)
 * [2023-06-06, 15:05:03](https://news.ycombinator.com/item?id=36213929) - ['Guilt Tipping': Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
+* [2023-06-06, 14:50:54](https://news.ycombinator.com/item?id=36213699) - [Is frying food possible in space?](https://phys.org/news/2023-06-frying-food-space.html)
 * [2023-06-06, 14:40:36](https://news.ycombinator.com/item?id=36213536) - [The ingredients of our devtool rebrand](https://www.mux.com/blog/rebranding-during-a-recession)
 * [2023-06-06, 14:27:42](https://news.ycombinator.com/item?id=36213332) - [We reported a security issue in AWS CDK’s eks.Cluster component](https://garden.io/blog/aws-security-issue)
 * [2023-06-06, 14:27:34](https://news.ycombinator.com/item?id=36213330) - [Chrome still hasn't changed its opinion about dropping JPEG XL support](https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c406)
