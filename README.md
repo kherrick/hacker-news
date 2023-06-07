@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
 * [2023-06-07, 21:32:49](https://news.ycombinator.com/item?id=36233862) - [Rust Module System Encourages Bad Practices](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass Makes Better Ethanol Than Corn Does (2008)](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
 * [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
@@ -21,15 +22,14 @@
 * [2023-06-07, 16:41:57](https://news.ycombinator.com/item?id=36229387) - [Using Redundant Conditions to Unlock Indexes in MySQL](https://planetscale.com/blog/redundant-and-approximate-conditions)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 14:44:15](https://news.ycombinator.com/item?id=36227416) - [Hydroflow: Dataflow Runtime in Rust](https://github.com/hydro-project/hydroflow)
-* [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How many sensors for autonomous driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-06, 17:25:27](https://news.ycombinator.com/item?id=36216157) - [Is That a Compiler Bug?](https://blog.regehr.org/archives/26)
 * [2023-06-06, 16:23:31](https://news.ycombinator.com/item?id=36215180) - [Quantum visualization technique gives insight into photosynthesis](https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html)
+* [2023-06-06, 16:18:44](https://news.ycombinator.com/item?id=36215088) - [Show HN: Serverless OLAP with Seafowl and GCP](https://github.com/splitgraph/seafowl-gcsfuse)
 * [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 * [2023-06-06, 13:43:50](https://news.ycombinator.com/item?id=36212632) - [Texas Instruments Explorer Computer System (1984) [pdf]](http://www.typewritten.org/Articles/TI/deeb025.pdf)
-* [2023-06-06, 04:29:01](https://news.ycombinator.com/item?id=36208081) - [Proving My Compiler Code Incorrect with Alloy](https://danilafe.com/blog/dyno_alloy/)
 
 ## [Archives](archives/index.md)
 
