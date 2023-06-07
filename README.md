@@ -21,6 +21,7 @@
 * [2023-06-06, 15:56:55](https://news.ycombinator.com/item?id=36214781) - [AI will save the world?](https://pmarca.substack.com/p/why-ai-will-save-the-world)
 * [2023-06-06, 15:37:54](https://news.ycombinator.com/item?id=36214490) - [Bees can learn, remember, think and make decisions](https://worldsensorium.com/bees-can-learn-remember-think-and-make-decisions/)
 * [2023-06-06, 15:37:09](https://news.ycombinator.com/item?id=36214478) - [A species of deep-sea squid has the world’s biggest light-producing organs](https://nautil.us/the-mystery-of-the-largest-light-in-the-sea-308189/)
+* [2023-06-06, 15:31:28](https://news.ycombinator.com/item?id=36214393) - [Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
 * [2023-06-06, 15:14:24](https://news.ycombinator.com/item?id=36214084) - [When First Principles Thinking Fails](https://commoncog.com/how-first-principles-thinking-fails/)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
 * [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
@@ -29,7 +30,6 @@
 * [2023-06-06, 10:23:51](https://news.ycombinator.com/item?id=36210599) - [The History of CUDA](https://www.youtube.com/watch?v=Cmh1EHXjJsk)
 * [2023-06-06, 08:46:22](https://news.ycombinator.com/item?id=36209955) - [Scripts for Btrfs Maintenance](https://github.com/kdave/btrfsmaintenance)
 * [2023-06-06, 06:32:58](https://news.ycombinator.com/item?id=36208942) - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/)
-* [2023-06-05, 07:02:21](https://news.ycombinator.com/item?id=36193315) - [React, but in Python](https://github.com/reactive-python/reactpy)
 
 ## [Archives](archives/index.md)
 

@@ -31,6 +31,7 @@
 * [2023-06-06, 15:56:55](https://news.ycombinator.com/item?id=36214781) - [AI Will Save the World?](https://pmarca.substack.com/p/why-ai-will-save-the-world)
 * [2023-06-06, 15:37:54](https://news.ycombinator.com/item?id=36214490) - [Bees Can Learn, Remember, Think and Make Decisions](https://worldsensorium.com/bees-can-learn-remember-think-and-make-decisions/)
 * [2023-06-06, 15:37:09](https://news.ycombinator.com/item?id=36214478) - [The Mystery of the Largest Light in the Sea](https://nautil.us/the-mystery-of-the-largest-light-in-the-sea-308189/)
+* [2023-06-06, 15:31:28](https://news.ycombinator.com/item?id=36214393) - [Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
 * [2023-06-06, 15:15:40](https://news.ycombinator.com/item?id=36214113) - [Corsix – A whirlwind tour of AArch64 vector instructions](https://www.corsix.org/content/whirlwind-tour-aarch64-vector-instructions)
 * [2023-06-06, 15:14:24](https://news.ycombinator.com/item?id=36214084) - [When First Principles Thinking Fails](https://commoncog.com/how-first-principles-thinking-fails/)
 * [2023-06-06, 15:05:03](https://news.ycombinator.com/item?id=36213929) - ['Guilt Tipping': Pressure to tip has gotten out of control](https://nypost.com/2022/04/08/guilt-tipping-pressure-to-tip-has-gotten-out-of-control/)
