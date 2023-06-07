@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
+* [2023-06-07, 13:56:14](https://news.ycombinator.com/item?id=36226842) - [SVG vs. Canvas: Which technology to choose and why?](https://www.jointjs.com/blog/svg-versus-canvas)
 * [2023-06-07, 13:12:45](https://news.ycombinator.com/item?id=36226376) - [CNN Chairman and CEO Chris Licht Is Out](https://www.cnn.com/2023/06/07/media/chris-licht-cnn/index.html)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 12:07:07](https://news.ycombinator.com/item?id=36225770) - [Discussion on Frustrations of Linux Kernel Development Process](https://lwn.net/Articles/932215/)
