@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 09:59:46](https://news.ycombinator.com/item?id=36224893) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+* [2023-06-07, 09:31:08](https://news.ycombinator.com/item?id=36224727) - [Why Was Benjamin Franklin’s Basement Filled with Skeletons?](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
 * [2023-06-07, 07:56:27](https://news.ycombinator.com/item?id=36224145) - [Ancient Carthaginians did sacrifice their children](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
 * [2023-06-07, 07:43:11](https://news.ycombinator.com/item?id=36224041) - [Russia’s population nightmare is going to get even worse](https://www.economist.com/europe/2023/03/04/russias-population-nightmare-is-going-to-get-even-worse)
 * [2023-06-07, 07:33:26](https://news.ycombinator.com/item?id=36223972) - [Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)

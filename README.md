@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 09:59:46](https://news.ycombinator.com/item?id=36224893) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
+* [2023-06-07, 09:31:08](https://news.ycombinator.com/item?id=36224727) - [Why Was Benjamin Franklin’s Basement Filled with Skeletons?](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
 * [2023-06-07, 07:43:11](https://news.ycombinator.com/item?id=36224041) - [Russia’s population nightmare is going to get even worse](https://www.economist.com/europe/2023/03/04/russias-population-nightmare-is-going-to-get-even-worse)
 * [2023-06-07, 07:33:26](https://news.ycombinator.com/item?id=36223972) - [Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
 * [2023-06-07, 07:27:39](https://news.ycombinator.com/item?id=36223927) - [Apple's game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
@@ -14,8 +16,6 @@
 * [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Ownership in Swift: Manifesto and meta-proposal (2017)](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 * [2023-06-06, 19:55:58](https://news.ycombinator.com/item?id=36218281) - [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
 * [2023-06-06, 18:29:10](https://news.ycombinator.com/item?id=36217098) - [From SVG to Canvas – A new way of building interactions](https://felt.com/blog/svg-to-canvas-part-2-building-interactions)
-* [2023-06-06, 18:04:52](https://news.ycombinator.com/item?id=36216745) - [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)
-* [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
 * [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
 * [2023-06-06, 16:18:44](https://news.ycombinator.com/item?id=36215088) - [Show HN: Serverless OLAP with Seafowl and GCP](https://github.com/splitgraph/seafowl-gcsfuse)
