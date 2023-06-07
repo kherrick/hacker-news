@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 07:56:27](https://news.ycombinator.com/item?id=36224145) - [Ancient Carthaginians did sacrifice their children](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
 * [2023-06-07, 07:27:39](https://news.ycombinator.com/item?id=36223927) - [Apple's game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
 * [2023-06-07, 07:01:03](https://news.ycombinator.com/item?id=36223766) - [Aptible (YC S14) is hiring a security engineer](https://news.ycombinator.com/item?id=36223766)
 * [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
-* [2023-06-07, 05:41:10](https://news.ycombinator.com/item?id=36223278) - [The Hindu supremacist movement is a growing threat in the U.S.](https://prismreports.org/2023/05/30/hindu-supremacist-movement-growing-threat/)
 * [2023-06-07, 04:18:42](https://news.ycombinator.com/item?id=36222769) - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
 * [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
@@ -16,7 +16,6 @@
 * [2023-06-06, 18:04:52](https://news.ycombinator.com/item?id=36216745) - [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:21:46](https://news.ycombinator.com/item?id=36216103) - [Point Estimation of Covariance Matrices in Hierarchical Models (2015) [pdf]](http://www.stat.columbia.edu/~gelman/research/published/chung_cov_matrices.pdf)
-* [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
 * [2023-06-06, 16:18:44](https://news.ycombinator.com/item?id=36215088) - [Show HN: Serverless OLAP with Seafowl and GCP](https://github.com/splitgraph/seafowl-gcsfuse)
 * [2023-06-06, 15:56:55](https://news.ycombinator.com/item?id=36214781) - [AI will save the world?](https://pmarca.substack.com/p/why-ai-will-save-the-world)
@@ -30,6 +29,7 @@
 * [2023-06-06, 10:23:51](https://news.ycombinator.com/item?id=36210599) - [The History of CUDA](https://www.youtube.com/watch?v=Cmh1EHXjJsk)
 * [2023-06-06, 08:46:22](https://news.ycombinator.com/item?id=36209955) - [Scripts for Btrfs Maintenance](https://github.com/kdave/btrfsmaintenance)
 * [2023-06-06, 06:32:58](https://news.ycombinator.com/item?id=36208942) - [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://jonbarron.info/zipnerf/)
+* [2023-06-06, 05:17:19](https://news.ycombinator.com/item?id=36208420) - [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 
 ## [Archives](archives/index.md)
 
