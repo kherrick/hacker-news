@@ -22,6 +22,7 @@
 * [2023-06-06, 17:43:15](https://news.ycombinator.com/item?id=36216438) - [Twitch: New TOS bans multi-streaming/simulcasting](https://www.twitch.tv/p/en/legal/terms-of-service/#11-simulcasting)
 * [2023-06-06, 17:40:23](https://news.ycombinator.com/item?id=36216389) - [The C Standard Library Function Isspace() Depends on Locale](https://www.evanjones.ca/isspace_locale.html)
 * [2023-06-06, 17:34:29](https://news.ycombinator.com/item?id=36216296) - [Scent back in time: how ancient odours can bring the past to life](https://the-past.com/feature/scent-back-in-time-how-ancient-odours-can-bring-the-past-to-life/)
+* [2023-06-06, 17:25:27](https://news.ycombinator.com/item?id=36216157) - [Is That a Compiler Bug?](https://blog.regehr.org/archives/26)
 * [2023-06-06, 17:21:46](https://news.ycombinator.com/item?id=36216103) - [Point Estimation of Covariance Matrices in Hierarchical Models (2015) [pdf]](http://www.stat.columbia.edu/~gelman/research/published/chung_cov_matrices.pdf)
 * [2023-06-06, 17:17:56](https://news.ycombinator.com/item?id=36216056) - [RedPajama 7B (an Apache 2.0-licensed LLaMa) is now available](https://www.together.xyz/blog/redpajama-7b)
 * [2023-06-06, 17:07:43](https://news.ycombinator.com/item?id=36215924) - [Modern Image Processing Algorithms Implementation in C](https://sod.pixlab.io/articles/modern-image-processing-algorithms-implementation.html)
