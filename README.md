@@ -2,7 +2,6 @@
 
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
 * [2023-06-07, 02:15:57](https://news.ycombinator.com/item?id=36222006) - [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
-* [2023-06-07, 01:21:53](https://news.ycombinator.com/item?id=36221552) - [Antarctica gained 600 Gt of ice during '09-'19 vs. a prediction of a 20k Gt loss](https://tc.copernicus.org/articles/17/2059/2023/)
 * [2023-06-07, 01:20:08](https://news.ycombinator.com/item?id=36221534) - [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
 * [2023-06-07, 01:00:19](https://news.ycombinator.com/item?id=36221367) - [Santé (YC S23) Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
 * [2023-06-07, 00:19:19](https://news.ycombinator.com/item?id=36221010) - [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
@@ -20,6 +19,7 @@
 * [2023-06-06, 15:56:55](https://news.ycombinator.com/item?id=36214781) - [AI will save the world?](https://pmarca.substack.com/p/why-ai-will-save-the-world)
 * [2023-06-06, 15:37:54](https://news.ycombinator.com/item?id=36214490) - [Bees can learn, remember, think and make decisions](https://worldsensorium.com/bees-can-learn-remember-think-and-make-decisions/)
 * [2023-06-06, 15:37:09](https://news.ycombinator.com/item?id=36214478) - [The Mystery of the Largest Light in the Sea](https://nautil.us/the-mystery-of-the-largest-light-in-the-sea-308189/)
+* [2023-06-06, 15:14:24](https://news.ycombinator.com/item?id=36214084) - [When First Principles Thinking Fails](https://commoncog.com/how-first-principles-thinking-fails/)
 * [2023-06-06, 14:51:15](https://news.ycombinator.com/item?id=36213704) - [Counterexamples in Type Systems: programs that crash, segfault or explode (2021)](https://counterexamples.org/intro.html)
 * [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
 * [2023-06-06, 13:46:13](https://news.ycombinator.com/item?id=36212674) - [OpenGL 3.1 on Asahi Linux](https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/)
