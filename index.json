@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-06-07, 14:44:15",
-      "https://news.ycombinator.com/item?id=36227416"
-    ],
-    [
-      "Hydroflow: Dataflow Runtime in Rust",
-      "https://github.com/hydro-project/hydroflow"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 12:53:17",
       "https://news.ycombinator.com/item?id=36226155"
     ],
@@ -247,6 +237,16 @@
     [
       "Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder",
       "https://news.ycombinator.com/item?id=36225520"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 18:34:38",
+      "https://news.ycombinator.com/item?id=36217163"
+    ],
+    [
+      "Float Compression 9: Lzsse and Lizard",
+      "https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/"
     ]
   ],
   [
