@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 07:01:03](https://news.ycombinator.com/item?id=36223766) - [Aptible (YC S14) Is Hiring: Security Engineer](https://news.ycombinator.com/item?id=36223766)
 * [2023-06-07, 05:45:07](https://news.ycombinator.com/item?id=36223307) - [Is AI killing the stock photo industry? A data perspective](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
 * [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 04:18:42](https://news.ycombinator.com/item?id=36222769) - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
 * [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy says quantum navigation test a success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
 * [2023-06-07, 01:20:08](https://news.ycombinator.com/item?id=36221534) - [DeepFilterNet: Noise supression using deep filtering](https://github.com/Rikorose/DeepFilterNet)
-* [2023-06-07, 01:00:19](https://news.ycombinator.com/item?id=36221367) - [Santé (YC S23) Is Hiring – Build a Modern POS](https://www.ycombinator.com/companies/sante/jobs/Q1i7Iz0-founding-engineer-full-stack)
 * [2023-06-07, 00:19:19](https://news.ycombinator.com/item?id=36221010) - [TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators](https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html)
 * [2023-06-06, 21:55:05](https://news.ycombinator.com/item?id=36219585) - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
 * [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Ownership in Swift: Manifesto and meta-proposal (2017)](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
