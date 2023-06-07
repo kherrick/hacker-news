@@ -61,6 +61,7 @@
 * [2023-06-06, 11:51:00](https://news.ycombinator.com/item?id=36211255) - [A better tool than jq for just extracting data, antonmedv's fx](https://github.com/antonmedv/fx)
 * [2023-06-06, 11:49:23](https://news.ycombinator.com/item?id=36211250) - [Six tips for better coding with ChatGPT](https://www.nature.com/articles/d41586-023-01833-0)
 * [2023-06-06, 11:45:42](https://news.ycombinator.com/item?id=36211219) - [Sequoia Is Splitting into Three VC Firms](https://www.forbes.com/sites/alexkonrad/2023/06/06/sequoia-splits-into-three-firms/)
+* [2023-06-06, 11:42:10](https://news.ycombinator.com/item?id=36211193) - [A Gallop Through a Horse’s Pedigree](https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html)
 * [2023-06-06, 11:20:21](https://news.ycombinator.com/item?id=36211017) - [LiquidPiston – The Future of the Combustion Engine](https://invest.liquidpiston.com/)
 * [2023-06-06, 11:18:47](https://news.ycombinator.com/item?id=36211004) - [How to Grow a Three Sisters Garden – Native-Seeds-Search](https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden)
 * [2023-06-06, 11:17:07](https://news.ycombinator.com/item?id=36210986) - [Introduction to the ZX-Calculus](https://pennylane.ai/qml/demos/tutorial_zx_calculus.html)
