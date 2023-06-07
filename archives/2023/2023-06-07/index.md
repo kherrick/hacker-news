@@ -12,6 +12,7 @@
 * [2023-06-07, 15:28:42](https://news.ycombinator.com/item?id=36228084) - [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
 * [2023-06-07, 14:53:47](https://news.ycombinator.com/item?id=36227537) - [Apple’s Vision Pro Is a $3,500 Ticket to Nowhere](https://www.vice.com/en/article/m7bbga/apples-vision-pro-augmented-virtual-reality-h)
 * [2023-06-07, 14:48:18](https://news.ycombinator.com/item?id=36227470) - [Painful Lesson: Always 'Show and Tell' Your Product Before You Develop It](https://news.ycombinator.com/item?id=36227470)
+* [2023-06-07, 14:44:15](https://news.ycombinator.com/item?id=36227416) - [Hydroflow: Dataflow Runtime in Rust](https://github.com/hydro-project/hydroflow)
 * [2023-06-07, 14:43:56](https://news.ycombinator.com/item?id=36227411) - [uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)
 * [2023-06-07, 14:24:33](https://news.ycombinator.com/item?id=36227166) - [10 years after Snowden's first leak, what have we learned?](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
 * [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)

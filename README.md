@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-07, 16:09:23](https://news.ycombinator.com/item?id=36228767) - [A New CEO Says Employees Can’t Work Remotely After All, and They Revolt](https://www.wsj.com/articles/a-new-ceo-says-employees-cant-work-remotely-after-all-and-they-revolt-81135399)
 * [2023-06-07, 15:51:55](https://news.ycombinator.com/item?id=36228477) - [Show HN: I built an AI language teacher to get you speaking](https://gliglish.com/)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 15:28:42](https://news.ycombinator.com/item?id=36228084) - [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
 * [2023-06-07, 14:48:18](https://news.ycombinator.com/item?id=36227470) - [Painful Lesson: Always 'Show and Tell' Your Product Before You Develop It](https://news.ycombinator.com/item?id=36227470)
+* [2023-06-07, 14:44:15](https://news.ycombinator.com/item?id=36227416) - [Hydroflow: Dataflow Runtime in Rust](https://github.com/hydro-project/hydroflow)
 * [2023-06-07, 14:43:56](https://news.ycombinator.com/item?id=36227411) - [uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)
 * [2023-06-07, 14:24:33](https://news.ycombinator.com/item?id=36227166) - [10 years after Snowden's first leak, what have we learned?](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
 * [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How many sensors for autonomous driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
-* [2023-06-07, 14:01:33](https://news.ycombinator.com/item?id=36226883) - [Show HN: Castled Data – Customer engagement software on top of data warehouses](https://news.ycombinator.com/item?id=36226883)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 12:07:07](https://news.ycombinator.com/item?id=36225770) - [An LSFMM development-process discussion](https://lwn.net/Articles/932215/)
 * [2023-06-07, 11:56:37](https://news.ycombinator.com/item?id=36225694) - [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
@@ -30,6 +29,7 @@
 * [2023-06-06, 15:31:28](https://news.ycombinator.com/item?id=36214393) - [Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
 * [2023-06-06, 11:18:47](https://news.ycombinator.com/item?id=36211004) - [How to Grow a Three Sisters Garden (2016)](https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden)
 * [2023-06-06, 05:17:19](https://news.ycombinator.com/item?id=36208420) - [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+* [2023-06-06, 04:29:01](https://news.ycombinator.com/item?id=36208081) - [Proving My Compiler Code Incorrect with Alloy](https://danilafe.com/blog/dyno_alloy/)
 
 ## [Archives](archives/index.md)
 
