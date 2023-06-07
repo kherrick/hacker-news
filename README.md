@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Tracking a single person through wastewater DNA](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on Goes East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 * [2023-06-07, 18:26:40](https://news.ycombinator.com/item?id=36231170) - [Convert Shapefile to Vector Tiles with FileTiler](https://www.clockworkmicro.com/help/filetiler)
 * [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
 * [2023-06-07, 18:09:17](https://news.ycombinator.com/item?id=36230839) - [Apple removes $99 dev account requirement for first iOS 17 and macOS 14 betas](https://arstechnica.com/gadgets/2023/06/how-to-install-ios-17-and-macos-14-developer-betas-now-that-anyone-can-do-it/)
 * [2023-06-07, 18:03:25](https://news.ycombinator.com/item?id=36230750) - [I'm Afraid I Can't Do That: Prompt Refusal in Generative Language Models](https://arxiv.org/abs/2306.03423)
-* [2023-06-07, 17:39:09](https://news.ycombinator.com/item?id=36230285) - [Global Solar Power Investment Will Top $1B per Day This Year](https://singularityhub.com/2023/06/07/global-solar-power-investment-will-top-1-billion-per-day-this-year/)
 * [2023-06-07, 17:24:55](https://news.ycombinator.com/item?id=36230016) - [Val Town Pro - $10/month for more compute, storage, private vals](https://www.val.town/pricing)
 * [2023-06-07, 17:09:14](https://news.ycombinator.com/item?id=36229782) - [Bard is getting better at logic and reasoning](https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/)
 * [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
