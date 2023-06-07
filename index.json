@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-06-07, 17:11:30",
-      "https://news.ycombinator.com/item?id=36229811"
-    ],
-    [
-      "Canada will reach 40M population by the end of this year",
-      "https://www150.statcan.gc.ca/n1/pub/71-607-x/71-607-x2018005-eng.htm"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 17:09:14",
       "https://news.ycombinator.com/item?id=36229782"
     ],
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2023-06-07, 14:43:56",
+      "https://news.ycombinator.com/item?id=36227411"
+    ],
+    [
+      "uBlock Origin 1.50.0",
+      "https://github.com/gorhill/uBlock/releases/tag/1.50.0"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 14:24:33",
       "https://news.ycombinator.com/item?id=36227166"
     ],
@@ -177,26 +177,6 @@
     [
       "Show HN: Homelab Monitoring Setup with Grafana",
       "https://blog.randombits.host/monitoring-self-hosted-services/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 10:51:38",
-      "https://news.ycombinator.com/item?id=36225227"
-    ],
-    [
-      "FF4J – Feature Flags for Java",
-      "https://ff4j.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 10:33:19",
-      "https://news.ycombinator.com/item?id=36225100"
-    ],
-    [
-      "Service Rents Email Addresses for Account Signups",
-      "https://krebsonsecurity.com/2023/06/service-rents-email-addresses-for-account-signups/"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Why the Dvorak keyboard didn't take over the world (2014) [video]",
       "https://www.youtube.com/watch?v=ZnUBl90tayI"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 13:43:50",
+      "https://news.ycombinator.com/item?id=36212632"
+    ],
+    [
+      "Texas Instruments Explorer Computer System (1984) [pdf]",
+      "http://www.typewritten.org/Articles/TI/deeb025.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 05:17:19",
+      "https://news.ycombinator.com/item?id=36208420"
+    ],
+    [
+      "The growing pains of database architecture",
+      "https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/"
     ]
   ],
   [
