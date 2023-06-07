@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 13:12:45](https://news.ycombinator.com/item?id=36226376) - [CNN Chairman and CEO Chris Licht Is Out](https://www.cnn.com/2023/06/07/media/chris-licht-cnn/index.html)
+* [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 12:07:07](https://news.ycombinator.com/item?id=36225770) - [Discussion on Frustrations of Linux Kernel Development Process](https://lwn.net/Articles/932215/)
 * [2023-06-07, 11:56:37](https://news.ycombinator.com/item?id=36225694) - [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
 * [2023-06-07, 11:54:16](https://news.ycombinator.com/item?id=36225679) - [The entire finance industry will repeat this quote for a thousand years](https://twitter.com/patio11/status/1665759607153893381)
