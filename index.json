@@ -1,22 +1,52 @@
 [
   [
     [
+      "2023-06-07, 12:07:07",
+      "https://news.ycombinator.com/item?id=36225770"
+    ],
+    [
+      "Discussion on Frustrations of Linux Kernel Development Process",
+      "https://lwn.net/Articles/932215/"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 11:56:37",
+      "https://news.ycombinator.com/item?id=36225694"
+    ],
+    [
+      "Daft: A High-Performance Distributed Dataframe Library for Multimodal Data",
+      "https://blog.getdaft.io/p/introducing-daft-a-high-performance"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 11:42:55",
+      "https://news.ycombinator.com/item?id=36225583"
+    ],
+    [
+      "Ask HN: Anyone Building a Competitor to Reddit?",
+      "https://news.ycombinator.com/item?id=36225583"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 11:36:54",
+      "https://news.ycombinator.com/item?id=36225550"
+    ],
+    [
+      "Dell in hot water for making shoppers think overpriced monitors were discounted",
+      "https://arstechnica.com/gadgets/2023/06/dell-in-hot-water-for-making-shoppers-think-overpriced-monitors-were-discounted/"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 11:30:53",
       "https://news.ycombinator.com/item?id=36225520"
     ],
     [
       "Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder",
       "https://news.ycombinator.com/item?id=36225520"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 11:18:36",
-      "https://news.ycombinator.com/item?id=36225444"
-    ],
-    [
-      "How Landlords Became Monsters",
-      "https://unherd.com/2023/06/how-landlords-became-monsters/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-06-06, 21:12:03",
-      "https://news.ycombinator.com/item?id=36219181"
-    ],
-    [
-      "Ownership in Swift: Manifesto and meta-proposal (2017)",
-      "https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 18:29:10",
       "https://news.ycombinator.com/item?id=36217098"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-06-06, 15:14:24",
-      "https://news.ycombinator.com/item?id=36214084"
-    ],
-    [
-      "When First Principles Thinking Fails (2020)",
-      "https://commoncog.com/how-first-principles-thinking-fails/"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 14:22:20",
       "https://news.ycombinator.com/item?id=36213242"
     ],
@@ -267,16 +277,6 @@
     [
       "The History of CUDA",
       "https://www.youtube.com/watch?v=Cmh1EHXjJsk"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 08:46:22",
-      "https://news.ycombinator.com/item?id=36209955"
-    ],
-    [
-      "Scripts for Btrfs Maintenance",
-      "https://github.com/kdave/btrfsmaintenance"
     ]
   ],
   [
