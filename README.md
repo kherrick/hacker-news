@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-07, 05:45:07](https://news.ycombinator.com/item?id=36223307) - [AI images outperforming photos on Adobe Stock (17 cent RPI/m VS 3.75 cent)](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
+* [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 04:18:42](https://news.ycombinator.com/item?id=36222769) - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
 * [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy Says Quantum Navigation Test a Success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
@@ -11,7 +12,6 @@
 * [2023-06-06, 23:59:45](https://news.ycombinator.com/item?id=36220836) - [We should not let the Earth overheat](https://caseyhandmer.wordpress.com/2023/06/06/we-should-not-let-the-earth-overheat/)
 * [2023-06-06, 21:55:05](https://news.ycombinator.com/item?id=36219585) - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
 * [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Ownership in Swift: Manifesto and meta-proposal (2017)](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
-* [2023-06-06, 19:55:58](https://news.ycombinator.com/item?id=36218281) - [Redditor creates working anime QR codes using Stable Diffusion](https://arstechnica.com/information-technology/2023/06/redditor-creates-working-anime-qr-codes-using-stable-diffusion/)
 * [2023-06-06, 18:29:10](https://news.ycombinator.com/item?id=36217098) - [From SVG to Canvas – A new way of building interactions](https://felt.com/blog/svg-to-canvas-part-2-building-interactions)
 * [2023-06-06, 18:04:52](https://news.ycombinator.com/item?id=36216745) - [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
