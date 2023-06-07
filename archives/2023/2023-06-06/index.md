@@ -16,6 +16,7 @@
 * [2023-06-06, 18:29:10](https://news.ycombinator.com/item?id=36217098) - [From SVG to Canvas – A new way of building interactions](https://felt.com/blog/svg-to-canvas-part-2-building-interactions)
 * [2023-06-06, 18:26:51](https://news.ycombinator.com/item?id=36217064) - [Ruff: A Fast Python Linter](https://lwn.net/Articles/930487/)
 * [2023-06-06, 18:19:15](https://news.ycombinator.com/item?id=36216959) - [Octopuses, crabs and lobsters to be recognised as sentient beings under UK law](https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection)
+* [2023-06-06, 18:14:44](https://news.ycombinator.com/item?id=36216901) - [Function Back Deployment](https://github.com/apple/swift-evolution/blob/main/proposals/0376-function-back-deployment.md)
 * [2023-06-06, 18:04:52](https://news.ycombinator.com/item?id=36216745) - [US urged to reveal UFO evidence after claim that it has intact alien vehicles](https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft)
 * [2023-06-06, 17:49:06](https://news.ycombinator.com/item?id=36216532) - [MeZO: Fine-Tuning Language Models with Just Forward Passes](https://github.com/princeton-nlp/MeZO)
 * [2023-06-06, 17:43:15](https://news.ycombinator.com/item?id=36216438) - [Twitch: New TOS bans multi-streaming/simulcasting](https://www.twitch.tv/p/en/legal/terms-of-service/#11-simulcasting)
