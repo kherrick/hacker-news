@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 20:27:17](https://news.ycombinator.com/item?id=36233068) - [Tell HN: \"I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
 * [2023-06-07, 19:53:04](https://news.ycombinator.com/item?id=36232556) - [Google tells employees along the East Coast to work from home due to smoke](https://www.cnbc.com/2023/06/07/google-tells-east-coast-employees-to-work-from-home-due-to-smoke.html)
 * [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Tracking a single person through wastewater DNA](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:15:31](https://news.ycombinator.com/item?id=36232002) - [Kami home camera app suddenly started displaying ads in the app](https://forum.yitechnology.com/t/ads-in-kami-home-yi-home-is-this-true/13127)
