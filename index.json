@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-06-07, 07:43:11",
-      "https://news.ycombinator.com/item?id=36224041"
-    ],
-    [
-      "Russia’s population nightmare is going to get even worse",
-      "https://www.economist.com/europe/2023/03/04/russias-population-nightmare-is-going-to-get-even-worse"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 07:33:26",
       "https://news.ycombinator.com/item?id=36223972"
     ],
@@ -117,6 +107,16 @@
     [
       "DeepFilterNet: Noise supression using deep filtering",
       "https://github.com/Rikorose/DeepFilterNet"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 00:19:19",
+      "https://news.ycombinator.com/item?id=36221010"
+    ],
+    [
+      "TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators",
+      "https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html"
     ]
   ],
   [
