@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
-* [2023-06-07, 13:56:14](https://news.ycombinator.com/item?id=36226842) - [SVG vs. Canvas: Which technology to choose and why?](https://www.jointjs.com/blog/svg-versus-canvas)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 12:07:07](https://news.ycombinator.com/item?id=36225770) - [An LSFMM development-process discussion](https://lwn.net/Articles/932215/)
 * [2023-06-07, 11:56:37](https://news.ycombinator.com/item?id=36225694) - [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
@@ -24,6 +23,7 @@
 * [2023-06-06, 18:14:44](https://news.ycombinator.com/item?id=36216901) - [Function Back Deployment](https://github.com/apple/swift-evolution/blob/main/proposals/0376-function-back-deployment.md)
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
 * [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
+* [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
 * [2023-06-06, 15:38:16](https://news.ycombinator.com/item?id=36214497) - [Thinking of games as databases](https://ajmmertens.medium.com/why-it-is-time-to-start-thinking-of-games-as-databases-e7971da33ac3)
 * [2023-06-06, 15:31:28](https://news.ycombinator.com/item?id=36214393) - [Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
 * [2023-06-06, 14:22:20](https://news.ycombinator.com/item?id=36213242) - [Next-Generation CAMM, Mr-DIMM Memory Modules Show Up at Computex](https://www.anandtech.com/show/18893/next-generation-camm-mr-dimm-modules-at-computex)

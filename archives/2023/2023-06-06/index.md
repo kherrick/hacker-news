@@ -32,6 +32,7 @@
 * [2023-06-06, 16:18:44](https://news.ycombinator.com/item?id=36215088) - [Show HN: Serverless OLAP with Seafowl and GCP](https://github.com/splitgraph/seafowl-gcsfuse)
 * [2023-06-06, 16:07:25](https://news.ycombinator.com/item?id=36214901) - [Why AI Will Save the World](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 * [2023-06-06, 15:56:55](https://news.ycombinator.com/item?id=36214781) - [AI Will Save the World?](https://pmarca.substack.com/p/why-ai-will-save-the-world)
+* [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
 * [2023-06-06, 15:38:16](https://news.ycombinator.com/item?id=36214497) - [Why it is time to start thinking of games as databases](https://ajmmertens.medium.com/why-it-is-time-to-start-thinking-of-games-as-databases-e7971da33ac3)
 * [2023-06-06, 15:37:54](https://news.ycombinator.com/item?id=36214490) - [Bees Can Learn, Remember, Think and Make Decisions](https://worldsensorium.com/bees-can-learn-remember-think-and-make-decisions/)
 * [2023-06-06, 15:37:09](https://news.ycombinator.com/item?id=36214478) - [The Mystery of the Largest Light in the Sea](https://nautil.us/the-mystery-of-the-largest-light-in-the-sea-308189/)
