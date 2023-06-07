@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36221534"
     ],
     [
-      "Linux Audio Noise suppression using deep filtering in Rust",
+      "DeepFilterNet: Noise supression using deep filtering",
       "https://github.com/Rikorose/DeepFilterNet"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators",
       "https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 23:59:45",
+      "https://news.ycombinator.com/item?id=36220836"
+    ],
+    [
+      "We should not let the Earth overheat",
+      "https://caseyhandmer.wordpress.com/2023/06/06/we-should-not-let-the-earth-overheat/"
     ]
   ],
   [
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36216959"
     ],
     [
-      "Octopuses, crabs and lobsters to be recognised as sentient beings under UK law",
+      "Octopuses, crabs and lobsters recognised as sentient beings under UK law (2021)",
       "https://www.lse.ac.uk/News/Latest-news-from-LSE/2021/k-November-21/Octopuses-crabs-and-lobsters-welfare-protection"
     ]
   ],
@@ -231,21 +241,11 @@
   ],
   [
     [
-      "2023-06-06, 13:19:59",
-      "https://news.ycombinator.com/item?id=36212242"
-    ],
-    [
-      "Deadly heart attacks are more common on a Monday",
-      "https://www.bhf.org.uk/what-we-do/news-from-the-bhf/news-archive/2023/june/heart-attack-more-common-monday"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 11:18:47",
       "https://news.ycombinator.com/item?id=36211004"
     ],
     [
-      "How to Grow a Three Sisters Garden – Native-Seeds-Search",
+      "How to grow a three sisters garden (2016)",
       "https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden"
     ]
   ],
@@ -257,6 +257,16 @@
     [
       "Introduction to the ZX-Calculus",
       "https://pennylane.ai/qml/demos/tutorial_zx_calculus.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 09:46:53",
+      "https://news.ycombinator.com/item?id=36210375"
+    ],
+    [
+      "Jdupes: A powerful duplicate file finder",
+      "https://github.com/jbruchon/jdupes"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields",
       "https://jonbarron.info/zipnerf/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 05:26:32",
-      "https://news.ycombinator.com/item?id=36208499"
-    ],
-    [
-      "Was He Apollo’s Son?: Review of Plato of Athens",
-      "https://literaryreview.co.uk/was-he-apollos-son"
     ]
   ],
   [
