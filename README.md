@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-07, 23:21:33](https://news.ycombinator.com/item?id=36235055) - [This is fine.](https://www.thoughtmerchants.com/output/this-is-fine)
 * [2023-06-07, 22:26:36](https://news.ycombinator.com/item?id=36234510) - [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“fractureiser” malware in many popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
@@ -22,6 +21,7 @@
 * [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-07, 16:55:29](https://news.ycombinator.com/item?id=36229557) - [NL national security law to grant automatic permission for targeted surveillance](https://aboutintel.eu/nl-government-wants-to-abandon-key-safeguards-for-hacking-of-non-targets/)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
+* [2023-06-07, 14:44:15](https://news.ycombinator.com/item?id=36227416) - [Hydroflow: Dataflow Runtime in Rust](https://github.com/hydro-project/hydroflow)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-06, 18:34:38](https://news.ycombinator.com/item?id=36217163) - [Float Compression 9: Lzsse and Lizard](https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/)
