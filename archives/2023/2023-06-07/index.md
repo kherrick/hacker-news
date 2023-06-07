@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
 * [2023-06-07, 07:56:27](https://news.ycombinator.com/item?id=36224145) - [Ancient Carthaginians did sacrifice their children](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
+* [2023-06-07, 07:43:11](https://news.ycombinator.com/item?id=36224041) - [Russia’s population nightmare is going to get even worse](https://www.economist.com/europe/2023/03/04/russias-population-nightmare-is-going-to-get-even-worse)
 * [2023-06-07, 07:33:26](https://news.ycombinator.com/item?id=36223972) - [Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
 * [2023-06-07, 07:27:39](https://news.ycombinator.com/item?id=36223927) - [Apple's game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
 * [2023-06-07, 07:01:03](https://news.ycombinator.com/item?id=36223766) - [Aptible (YC S14) Is Hiring: Security Engineer](https://news.ycombinator.com/item?id=36223766)
