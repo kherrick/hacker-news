@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 11:18:36](https://news.ycombinator.com/item?id=36225444) - [How Landlords Became Monsters](https://unherd.com/2023/06/how-landlords-became-monsters/)
 * [2023-06-07, 10:51:38](https://news.ycombinator.com/item?id=36225227) - [FF4J – Feature Flags for Java](https://ff4j.github.io/)
 * [2023-06-07, 10:20:50](https://news.ycombinator.com/item?id=36225016) - [Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
 * [2023-06-07, 09:59:46](https://news.ycombinator.com/item?id=36224893) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
