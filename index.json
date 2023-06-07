@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-07, 10:51:38",
+      "https://news.ycombinator.com/item?id=36225227"
+    ],
+    [
+      "FF4J – Feature Flags for Java",
+      "https://ff4j.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 10:20:50",
+      "https://news.ycombinator.com/item?id=36225016"
+    ],
+    [
+      "Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)",
+      "https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 09:59:46",
       "https://news.ycombinator.com/item?id=36224893"
     ],
@@ -107,16 +127,6 @@
     [
       "DeepFilterNet: Noise supression using deep filtering",
       "https://github.com/Rikorose/DeepFilterNet"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 00:19:19",
-      "https://news.ycombinator.com/item?id=36221010"
-    ],
-    [
-      "TelaMalloc: Efficient On-Chip Memory Allocation for Production ML Accelerators",
-      "https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Launch HN: Seam (YC S20) – API for IoT Devices",
       "https://news.ycombinator.com/item?id=36212903"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 13:46:13",
-      "https://news.ycombinator.com/item?id=36212674"
-    ],
-    [
-      "OpenGL 3.1 on Asahi Linux",
-      "https://asahilinux.org/2023/06/opengl-3-1-on-asahi-linux/"
     ]
   ],
   [
