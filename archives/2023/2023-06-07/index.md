@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 12:07:07](https://news.ycombinator.com/item?id=36225770) - [Discussion on Frustrations of Linux Kernel Development Process](https://lwn.net/Articles/932215/)
+* [2023-06-07, 11:56:37](https://news.ycombinator.com/item?id=36225694) - [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
+* [2023-06-07, 11:42:55](https://news.ycombinator.com/item?id=36225583) - [Ask HN: Anyone Building a Competitor to Reddit?](https://news.ycombinator.com/item?id=36225583)
+* [2023-06-07, 11:36:54](https://news.ycombinator.com/item?id=36225550) - [Dell in hot water for making shoppers think overpriced monitors were discounted](https://arstechnica.com/gadgets/2023/06/dell-in-hot-water-for-making-shoppers-think-overpriced-monitors-were-discounted/)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 11:18:36](https://news.ycombinator.com/item?id=36225444) - [How Landlords Became Monsters](https://unherd.com/2023/06/how-landlords-became-monsters/)
 * [2023-06-07, 10:51:38](https://news.ycombinator.com/item?id=36225227) - [FF4J – Feature Flags for Java](https://ff4j.github.io/)
