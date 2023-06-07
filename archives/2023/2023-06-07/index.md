@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
+* [2023-06-07, 15:28:42](https://news.ycombinator.com/item?id=36228084) - [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
 * [2023-06-07, 14:53:47](https://news.ycombinator.com/item?id=36227537) - [Apple’s Vision Pro Is a $3,500 Ticket to Nowhere](https://www.vice.com/en/article/m7bbga/apples-vision-pro-augmented-virtual-reality-h)
 * [2023-06-07, 14:48:18](https://news.ycombinator.com/item?id=36227470) - [Painful Lesson: Always 'Show and Tell' Your Product Before You Develop It](https://news.ycombinator.com/item?id=36227470)
 * [2023-06-07, 14:43:56](https://news.ycombinator.com/item?id=36227411) - [uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)

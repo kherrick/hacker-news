@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
+* [2023-06-07, 15:28:42](https://news.ycombinator.com/item?id=36228084) - [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
 * [2023-06-07, 14:48:18](https://news.ycombinator.com/item?id=36227470) - [Painful Lesson: Always 'Show and Tell' Your Product Before You Develop It](https://news.ycombinator.com/item?id=36227470)
 * [2023-06-07, 14:43:56](https://news.ycombinator.com/item?id=36227411) - [uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)
-* [2023-06-07, 14:24:33](https://news.ycombinator.com/item?id=36227166) - [10 years after Snowden's first leak, what have we learned?](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
 * [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
 * [2023-06-07, 12:07:07](https://news.ycombinator.com/item?id=36225770) - [An LSFMM development-process discussion](https://lwn.net/Articles/932215/)
 * [2023-06-07, 11:56:37](https://news.ycombinator.com/item?id=36225694) - [Daft: A High-Performance Distributed Dataframe Library for Multimodal Data](https://blog.getdaft.io/p/introducing-daft-a-high-performance)
@@ -25,9 +25,9 @@
 * [2023-06-07, 01:20:08](https://news.ycombinator.com/item?id=36221534) - [DeepFilterNet: Noise supression using deep filtering](https://github.com/Rikorose/DeepFilterNet)
 * [2023-06-06, 18:14:44](https://news.ycombinator.com/item?id=36216901) - [Function Back Deployment](https://github.com/apple/swift-evolution/blob/main/proposals/0376-function-back-deployment.md)
 * [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
-* [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
-* [2023-06-06, 15:38:16](https://news.ycombinator.com/item?id=36214497) - [Thinking of games as databases](https://ajmmertens.medium.com/why-it-is-time-to-start-thinking-of-games-as-databases-e7971da33ac3)
 * [2023-06-06, 15:31:28](https://news.ycombinator.com/item?id=36214393) - [Show HN: Arroyo – Write SQL on streaming data](https://github.com/ArroyoSystems/arroyo)
+* [2023-06-06, 14:22:20](https://news.ycombinator.com/item?id=36213242) - [Next-Generation CAMM, Mr-DIMM Memory Modules Show Up at Computex](https://www.anandtech.com/show/18893/next-generation-camm-mr-dimm-modules-at-computex)
+* [2023-06-06, 14:00:21](https://news.ycombinator.com/item?id=36212903) - [Launch HN: Seam (YC S20) – API for IoT Devices](https://news.ycombinator.com/item?id=36212903)
 * [2023-06-06, 11:18:47](https://news.ycombinator.com/item?id=36211004) - [How to Grow a Three Sisters Garden (2016)](https://www.nativeseeds.org/blogs/blog-news/how-to-grow-a-three-sisters-garden)
 * [2023-06-06, 05:17:19](https://news.ycombinator.com/item?id=36208420) - [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
 
