@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-07, 23:21:33](https://news.ycombinator.com/item?id=36235055) - [This is fine.](https://www.thoughtmerchants.com/output/this-is-fine)
 * [2023-06-07, 22:26:36](https://news.ycombinator.com/item?id=36234510) - [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“fractureiser” malware in many popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
 * [2023-06-07, 21:32:49](https://news.ycombinator.com/item?id=36233862) - [Rust Module System Encourages Bad Practices](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
-* [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass Makes Better Ethanol Than Corn Does (2008)](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
-* [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan](https://dynomight.net/better-DIY-air-purifier.html)
+* [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan (2021)](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 * [2023-06-07, 20:27:17](https://news.ycombinator.com/item?id=36233068) - [Tell HN: \"I don't care about cookies” extension bought by Avast, users jump ship](https://addons.mozilla.org/en-US/firefox/addon/i-dont-care-about-cookies/reviews/?score=1&utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
 * [2023-06-07, 20:16:19](https://news.ycombinator.com/item?id=36232900) - [A monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)

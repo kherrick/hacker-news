@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 23:21:33](https://news.ycombinator.com/item?id=36235055) - [This is fine.](https://www.thoughtmerchants.com/output/this-is-fine)
 * [2023-06-07, 22:26:36](https://news.ycombinator.com/item?id=36234510) - [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“fractureiser” malware in many popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
