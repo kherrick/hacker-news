@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-06-07, 16:41:57",
+      "https://news.ycombinator.com/item?id=36229387"
+    ],
+    [
+      "Using Redundant Conditions to Unlock Indexes in MySQL",
+      "https://planetscale.com/blog/redundant-and-approximate-conditions"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 15:51:55",
       "https://news.ycombinator.com/item?id=36228477"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: Homelab Monitoring Setup with Grafana",
       "https://blog.randombits.host/monitoring-self-hosted-services/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 10:51:38",
-      "https://news.ycombinator.com/item?id=36225227"
-    ],
-    [
-      "FF4J – Feature Flags for Java",
-      "https://ff4j.github.io/"
     ]
   ],
   [
