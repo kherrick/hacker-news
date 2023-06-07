@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-07, 16:09:23](https://news.ycombinator.com/item?id=36228767) - [A New CEO Says Employees Can’t Work Remotely After All, and They Revolt](https://www.wsj.com/articles/a-new-ceo-says-employees-cant-work-remotely-after-all-and-they-revolt-81135399)
 * [2023-06-07, 16:02:03](https://news.ycombinator.com/item?id=36228643) - [Classic movie censored and re-edited for “modern sensitivities”](https://twitter.com/TheFIREorg/status/1666457570171666432)
 * [2023-06-07, 15:51:55](https://news.ycombinator.com/item?id=36228477) - [Show HN: I built an AI language teacher to get you SPEAKING](https://gliglish.com/)
@@ -46,6 +47,7 @@
 * [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy Says Quantum Navigation Test a Success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)
 * [2023-06-07, 02:15:57](https://news.ycombinator.com/item?id=36222006) - [Microsoft has no shame: Bing spit on my ‘Chrome’ search with a fake AI answer](https://www.theverge.com/2023/6/6/23736289/microsoft-bing-chrome-search-fake-ai-chatbot)
+* [2023-06-07, 01:58:50](https://news.ycombinator.com/item?id=36221873) - [For an Inch of Blue Sea](https://www.versobooks.com/blogs/news/oh-for-an-inch-of-blue-sea)
 * [2023-06-07, 01:21:53](https://news.ycombinator.com/item?id=36221552) - [Antarctica gained 600 Gt of ice during '09-'19 vs. a prediction of a 20k Gt loss](https://tc.copernicus.org/articles/17/2059/2023/)
 * [2023-06-07, 01:21:53](https://news.ycombinator.com/item?id=36221551) - [I will never participate in weird internet caste systems](https://j3s.sh/thought/i-will-never-participate-in-weird-internet-caste-systems.html)
 * [2023-06-07, 01:20:08](https://news.ycombinator.com/item?id=36221534) - [Linux Audio Noise suppression using deep filtering in Rust](https://github.com/Rikorose/DeepFilterNet)
