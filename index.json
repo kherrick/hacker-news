@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-07, 21:34:06",
+      "https://news.ycombinator.com/item?id=36233881"
+    ],
+    [
+      "CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM",
+      "https://arxiv.org/abs/2306.00029"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 21:32:49",
       "https://news.ycombinator.com/item?id=36233862"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-06-07, 14:10:01",
-      "https://news.ycombinator.com/item?id=36226986"
-    ],
-    [
-      "How many sensors for autonomous driving?",
-      "https://semiengineering.com/how-many-sensors-for-autonomous-driving/"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 12:53:17",
       "https://news.ycombinator.com/item?id=36226155"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-06-06, 16:18:44",
+      "https://news.ycombinator.com/item?id=36215088"
+    ],
+    [
+      "Show HN: Serverless OLAP with Seafowl and GCP",
+      "https://github.com/splitgraph/seafowl-gcsfuse"
+    ]
+  ],
+  [
+    [
       "2023-06-06, 15:47:53",
       "https://news.ycombinator.com/item?id=36214654"
     ],
@@ -287,16 +297,6 @@
     [
       "Texas Instruments Explorer Computer System (1984) [pdf]",
       "http://www.typewritten.org/Articles/TI/deeb025.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 04:29:01",
-      "https://news.ycombinator.com/item?id=36208081"
-    ],
-    [
-      "Proving My Compiler Code Incorrect with Alloy",
-      "https://danilafe.com/blog/dyno_alloy/"
     ]
   ]
 ]
