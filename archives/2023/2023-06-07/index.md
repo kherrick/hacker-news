@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 14:24:33](https://news.ycombinator.com/item?id=36227166) - [10 years after Snowden's first leak, what have we learned?](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
 * [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
 * [2023-06-07, 13:56:14](https://news.ycombinator.com/item?id=36226842) - [SVG vs. Canvas: Which technology to choose and why?](https://www.jointjs.com/blog/svg-versus-canvas)
 * [2023-06-07, 13:12:45](https://news.ycombinator.com/item?id=36226376) - [CNN Chairman and CEO Chris Licht Is Out](https://www.cnn.com/2023/06/07/media/chris-licht-cnn/index.html)
