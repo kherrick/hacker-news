@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
+* [2023-06-07, 16:09:23](https://news.ycombinator.com/item?id=36228767) - [A New CEO Says Employees Can’t Work Remotely After All, and They Revolt](https://www.wsj.com/articles/a-new-ceo-says-employees-cant-work-remotely-after-all-and-they-revolt-81135399)
+* [2023-06-07, 16:02:03](https://news.ycombinator.com/item?id=36228643) - [Classic movie censored and re-edited for “modern sensitivities”](https://twitter.com/TheFIREorg/status/1666457570171666432)
+* [2023-06-07, 15:51:55](https://news.ycombinator.com/item?id=36228477) - [Show HN: I built an AI language teacher to get you SPEAKING](https://gliglish.com/)
 * [2023-06-07, 15:39:36](https://news.ycombinator.com/item?id=36228269) - [Addressing the distribution of illicit sexual content by minors online](https://cyber.fsi.stanford.edu/news/addressing-distribution-illicit-sexual-content-minors-online)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 15:28:42](https://news.ycombinator.com/item?id=36228084) - [Apple Safari 17 beta release notes: JPEG XL support added](https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes)
@@ -12,6 +15,7 @@
 * [2023-06-07, 14:43:56](https://news.ycombinator.com/item?id=36227411) - [uBlock Origin 1.50.0](https://github.com/gorhill/uBlock/releases/tag/1.50.0)
 * [2023-06-07, 14:24:33](https://news.ycombinator.com/item?id=36227166) - [10 years after Snowden's first leak, what have we learned?](https://www.theregister.com/2023/06/07/10_years_after_snowden/)
 * [2023-06-07, 14:10:01](https://news.ycombinator.com/item?id=36226986) - [How Many Sensors for Autonomous Driving?](https://semiengineering.com/how-many-sensors-for-autonomous-driving/)
+* [2023-06-07, 14:01:33](https://news.ycombinator.com/item?id=36226883) - [Show HN: Castled Data – Customer engagement software on top of data warehouses](https://news.ycombinator.com/item?id=36226883)
 * [2023-06-07, 13:56:14](https://news.ycombinator.com/item?id=36226842) - [SVG vs. Canvas: Which technology to choose and why?](https://www.jointjs.com/blog/svg-versus-canvas)
 * [2023-06-07, 13:12:45](https://news.ycombinator.com/item?id=36226376) - [CNN Chairman and CEO Chris Licht Is Out](https://www.cnn.com/2023/06/07/media/chris-licht-cnn/index.html)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
