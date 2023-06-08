@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 13:41:20](https://news.ycombinator.com/item?id=36241735) - [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
 * [2023-06-08, 12:55:54](https://news.ycombinator.com/item?id=36241089) - [Scientists claim >99 percent identification rate of ChatGPT content](https://www.theregister.com/2023/06/08/scientists_ai_recognition/)
 * [2023-06-08, 12:29:51](https://news.ycombinator.com/item?id=36240769) - [Supabase Vector, the Open Source Vector Toolkit for Postgres](https://supabase.com/vector)
 * [2023-06-08, 12:20:04](https://news.ycombinator.com/item?id=36240652) - [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
@@ -9,7 +10,6 @@
 * [2023-06-08, 09:23:36](https://news.ycombinator.com/item?id=36239212) - [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
-* [2023-06-08, 08:51:08](https://news.ycombinator.com/item?id=36238986) - [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
 * [2023-06-08, 08:46:54](https://news.ycombinator.com/item?id=36238958) - [US CDC sets first federal target for ventilation of indoor air to lower risk](https://www.cnn.com/2023/05/12/health/cdc-new-ventilation-target/index.html)
 * [2023-06-08, 08:04:44](https://news.ycombinator.com/item?id=36238679) - [Ex-ByteDance exec: Communist Party had ‘God credential’](https://www.businessinsider.com/communist-party-god-credential-data-bytedance-tiktok-former-executive-alleges-2023-6)
 * [2023-06-08, 07:12:23](https://news.ycombinator.com/item?id=36238345) - [FOSSY 2023, Portland: Free and Open Source Software Yearly conference](https://2023.fossy.us/)
