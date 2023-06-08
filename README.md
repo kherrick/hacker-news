@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-08, 19:04:10](https://news.ycombinator.com/item?id=36246952) - [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
+* [2023-06-08, 19:03:02](https://news.ycombinator.com/item?id=36246937) - [Join our CEO to discuss the API](https://old.reddit.com/r/reddit/comments/144ho2x/join_our_ceo_tomorrow_to_discuss_the_api/)
 * [2023-06-08, 18:54:57](https://news.ycombinator.com/item?id=36246816) - [Ask HN: How many of you have been laid of twice this year already?](https://news.ycombinator.com/item?id=36246816)
 * [2023-06-08, 18:50:36](https://news.ycombinator.com/item?id=36246750) - [Taurine Deficiency as a Driver of Aging](https://www.science.org/doi/10.1126/science.abn9257)
 * [2023-06-08, 18:36:55](https://news.ycombinator.com/item?id=36246550) - [Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
