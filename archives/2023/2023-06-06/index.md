@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-06](index.md)
 
 * [2023-06-06, 23:59:45](https://news.ycombinator.com/item?id=36220836) - [We should not let the Earth overheat](https://caseyhandmer.wordpress.com/2023/06/06/we-should-not-let-the-earth-overheat/)
+* [2023-06-06, 23:55:58](https://news.ycombinator.com/item?id=36220809) - [Trespassing on Edith Wharton](https://www.theparisreview.org/blog/2023/06/05/trespassing-on-edith-wharton/)
 * [2023-06-06, 21:55:05](https://news.ycombinator.com/item?id=36219585) - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
 * [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming Culture in the Late Aughts](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
