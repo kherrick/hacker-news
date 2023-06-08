@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
 * [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
+* [2023-06-08, 17:21:17](https://news.ycombinator.com/item?id=36245408) - [Cracking Open and Controlling a 747 Fuel Gauge](https://bikerglen.com/blog/fuel-gauge-ac-motor-pid-loop/)
 * [2023-06-08, 17:00:41](https://news.ycombinator.com/item?id=36245102) - [Aviator (YC S21) is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2023-06-08, 16:48:00](https://news.ycombinator.com/item?id=36244886) - [Show HN: Tremor 3.0 – The open-source library to build dashboards fast](https://www.tremor.so/changelog)
 * [2023-06-08, 16:18:25](https://news.ycombinator.com/item?id=36244399) - [Travel across Germany with the 49 Euro ticket](https://49travel.vercel.app/)
@@ -58,6 +59,7 @@
 * [2023-06-08, 06:56:04](https://news.ycombinator.com/item?id=36238222) - [Knight vs. Snail (2013)](https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html)
 * [2023-06-08, 06:22:12](https://news.ycombinator.com/item?id=36237979) - [Official Apple Design Resources for Figma – iOS 17 and iPadOS 17](https://www.figma.com/community/file/1248375255495415511/Apple-Design-Resources-–-iOS-17-and-iPadOS-17)
 * [2023-06-08, 05:58:51](https://news.ycombinator.com/item?id=36237800) - [Wildfire Smoke Engulfs New York City, Breaking Pollution Records](https://atlasalpha.serenebase.com/post?recordId=rec5YRAg4rgw5iBGR)
+* [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc](http://www.bricklin.com/visicalc.htm)
 * [2023-06-08, 04:47:27](https://news.ycombinator.com/item?id=36237332) - [Web Apps on macOS Sonoma 14 Beta](https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/)
 * [2023-06-08, 04:38:39](https://news.ycombinator.com/item?id=36237285) - [Reddit announces plan to lay off 90 workers as subreddits plan mass protest](https://www.sfgate.com/tech/article/reddit-layoffs-90-protest-plan-18140277.php)
 * [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
