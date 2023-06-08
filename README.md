@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 * [2023-06-08, 02:51:08](https://news.ycombinator.com/item?id=36236569) - [Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
 * [2023-06-08, 00:56:17](https://news.ycombinator.com/item?id=36235779) - [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 * [2023-06-07, 23:57:16](https://news.ycombinator.com/item?id=36235338) - [C++ Implementation of StableDiffusion](https://github.com/axodox/axodox-machinelearning)
@@ -8,7 +9,6 @@
 * [2023-06-07, 22:26:36](https://news.ycombinator.com/item?id=36234510) - [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“Fractureiser” malware in popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
-* [2023-06-07, 21:32:49](https://news.ycombinator.com/item?id=36233862) - [Rust module system encourages bad practices](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass makes better ethanol than corn does (2008)](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
 * [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan (2021)](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
