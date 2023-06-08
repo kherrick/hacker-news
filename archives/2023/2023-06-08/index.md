@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 14:57:58](https://news.ycombinator.com/item?id=36242944) - [Ask HN: How can a junior dev maximize their income?](https://news.ycombinator.com/item?id=36242944)
+* [2023-06-08, 14:30:39](https://news.ycombinator.com/item?id=36242462) - [Lawyer Who Used ChatGPT Faces Penalty for Made Up Citations](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html)
 * [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [How to Clear 500k Feral Cats from New York’s Streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 14:19:38](https://news.ycombinator.com/item?id=36242293) - [Ask HN: What is the most cost effective way to do backups?](https://news.ycombinator.com/item?id=36242293)
+* [2023-06-08, 14:13:58](https://news.ycombinator.com/item?id=36242207) - [Senators send letter questioning Mark Zuckerberg over Meta’s LLaMA leak](https://venturebeat.com/ai/senators-send-letter-questioning-mark-zuckerberg-over-metas-llama-leak/)
 * [2023-06-08, 13:41:20](https://news.ycombinator.com/item?id=36241735) - [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
 * [2023-06-08, 13:36:58](https://news.ycombinator.com/item?id=36241666) - [Show HN: 10xjobs.net, High paying tech jobs directory](https://10xjobs.net/)
 * [2023-06-08, 13:36:32](https://news.ycombinator.com/item?id=36241657) - [TikTok Sans: TikTok's new bespoke typeface](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
