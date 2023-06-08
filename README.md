@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 15:24:54](https://news.ycombinator.com/item?id=36243455) - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
 * [2023-06-08, 15:19:39](https://news.ycombinator.com/item?id=36243360) - [Tesla plans for 375,000 Cybertrucks per year](https://electrek.co/2023/06/08/tesla-plans-375000-cybertrucks-per-year-release-candidates-late-august/)
 * [2023-06-08, 14:56:22](https://news.ycombinator.com/item?id=36242914) - [Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
 * [2023-06-08, 14:30:39](https://news.ycombinator.com/item?id=36242462) - [Lawyer Who Used ChatGPT Faces Penalty for Made Up Citations](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html)
@@ -15,7 +16,6 @@
 * [2023-06-08, 09:23:36](https://news.ycombinator.com/item?id=36239212) - [Patterns of mean-level change in personality traits across life course (2006)](https://pubmed.ncbi.nlm.nih.gov/16435954/)
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
-* [2023-06-08, 07:58:50](https://news.ycombinator.com/item?id=36238630) - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
 * [2023-06-08, 07:12:23](https://news.ycombinator.com/item?id=36238345) - [FOSSY 2023, Portland: Free and Open Source Software Yearly conference](https://2023.fossy.us/)
 * [2023-06-08, 07:12:14](https://news.ycombinator.com/item?id=36238342) - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
 * [2023-06-08, 06:22:12](https://news.ycombinator.com/item?id=36237979) - [Official Apple Design Resources for Figma – iOS 17 and iPadOS 17](https://www.figma.com/community/file/1248375255495415511/Apple-Design-Resources-–-iOS-17-and-iPadOS-17)
@@ -24,11 +24,11 @@
 * [2023-06-08, 00:56:17](https://news.ycombinator.com/item?id=36235779) - [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 * [2023-06-07, 23:42:40](https://news.ycombinator.com/item?id=36235232) - [The Oldest Maps in the World](https://www.laphamsquarterly.org/roundtable/oldest-maps-world)
 * [2023-06-07, 22:53:30](https://news.ycombinator.com/item?id=36234790) - [Air quality monitors: paying more does not get you more accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
-* [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 10:43:02](https://news.ycombinator.com/item?id=36225161) - [Work Distribution with Jump Consistent Hashing](https://zacksiri.dev/posts/work-distribution-with-jump-consistent-hashing)
 * [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
 * [2023-06-07, 05:36:37](https://news.ycombinator.com/item?id=36223257) - [The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
+* [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming culture in the late aughts (2022)](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2023-06-06, 14:06:23](https://news.ycombinator.com/item?id=36212992) - [Xilem Vector Graphics [video]](https://www.youtube.com/watch?v=XjbVnwBtVEk)
 
 ## [Archives](archives/index.md)

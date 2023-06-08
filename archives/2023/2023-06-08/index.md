@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 15:24:54](https://news.ycombinator.com/item?id=36243455) - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
 * [2023-06-08, 15:19:39](https://news.ycombinator.com/item?id=36243360) - [Tesla plans for 375,000 Cybertrucks per year](https://electrek.co/2023/06/08/tesla-plans-375000-cybertrucks-per-year-release-candidates-late-august/)
 * [2023-06-08, 14:57:58](https://news.ycombinator.com/item?id=36242944) - [Ask HN: How can a junior dev maximize their income?](https://news.ycombinator.com/item?id=36242944)
 * [2023-06-08, 14:56:22](https://news.ycombinator.com/item?id=36242914) - [Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
