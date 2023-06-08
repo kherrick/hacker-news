@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
+* [2023-06-08, 21:29:34](https://news.ycombinator.com/item?id=36249414) - [HN manually circumvents block from Asahi Linux devs](https://social.treehouse.systems/@endrift/110503088955835842)
 * [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 * [2023-06-08, 21:00:41](https://news.ycombinator.com/item?id=36248970) - [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
 * [2023-06-08, 20:51:56](https://news.ycombinator.com/item?id=36248815) - [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
@@ -23,7 +24,6 @@
 * [2023-06-08, 13:43:54](https://news.ycombinator.com/item?id=36241768) - [The Last Egg](https://brr.fyi/posts/the-last-egg)
 * [2023-06-08, 11:52:11](https://news.ycombinator.com/item?id=36240325) - [Nanoplastic Ingestion Causes Neurological Deficits](https://www.the-scientist.com/news-opinion/nanoplastic-ingestion-causes-neurological-deficits-71152)
 * [2023-06-08, 10:43:57](https://news.ycombinator.com/item?id=36239735) - [Helikite – A Modern Improvement on the 'Kytoon' (2012)](http://best-breezes.squarespace.com/journal/2012/5/22/helikite-a-modern-improvement-on-the-kytoon.html)
-* [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
 * [2023-06-08, 06:56:04](https://news.ycombinator.com/item?id=36238222) - [Knight vs. Snail (2013)](https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html)
 * [2023-06-08, 06:49:48](https://news.ycombinator.com/item?id=36238170) - [The Case of the Missing SIMD Code](https://optidash.ai/blog/the-case-of-the-missing-simd-code)
