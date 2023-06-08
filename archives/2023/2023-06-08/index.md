@@ -65,6 +65,7 @@
 * [2023-06-08, 11:42:19](https://news.ycombinator.com/item?id=36240222) - [New version of Monica, codename Chandler, is available in beta](https://www.monicahq.com/blog/chandler-is-in-beta)
 * [2023-06-08, 11:24:29](https://news.ycombinator.com/item?id=36240053) - [My Little Pony: Friendship Is Optimal (2012)](https://fimfetch.net/story/62074/friendship-is-optimal/0)
 * [2023-06-08, 11:10:42](https://news.ycombinator.com/item?id=36239936) - [I ditched my car – and improved my fitness, sleep and bank balance](https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance)
+* [2023-06-08, 10:43:57](https://news.ycombinator.com/item?id=36239735) - [Helikite – A Modern Improvement on the 'Kytoon' (2012)](http://best-breezes.squarespace.com/journal/2012/5/22/helikite-a-modern-improvement-on-the-kytoon.html)
 * [2023-06-08, 10:15:14](https://news.ycombinator.com/item?id=36239534) - [Rust Criticism from a Rustacean](https://jeang3nie.codeberg.page/rust-criticism-from-rustacean/)
 * [2023-06-08, 10:13:49](https://news.ycombinator.com/item?id=36239524) - [GNS Theory](https://en.wikipedia.org/wiki/GNS_theory)
 * [2023-06-08, 09:23:36](https://news.ycombinator.com/item?id=36239212) - [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
