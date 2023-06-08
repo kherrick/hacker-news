@@ -75,6 +75,7 @@
 * [2023-06-07, 07:33:26](https://news.ycombinator.com/item?id=36223972) - [Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
 * [2023-06-07, 07:27:39](https://news.ycombinator.com/item?id=36223927) - [Apple's game porting toolkit is fantastic. Cyberpunk 2077 at Ultra on an M1 MBP](https://twitter.com/isaacmarovitz/status/1666209780031971341)
 * [2023-06-07, 07:01:03](https://news.ycombinator.com/item?id=36223766) - [Aptible (YC S14) Is Hiring: Security Engineer](https://news.ycombinator.com/item?id=36223766)
+* [2023-06-07, 06:25:48](https://news.ycombinator.com/item?id=36223543) - [Show HN: Keep – Create production alerts from plain English](https://github.com/keephq/keep)
 * [2023-06-07, 05:45:07](https://news.ycombinator.com/item?id=36223307) - [AI images outperforming photos on Adobe Stock (17 cent RPI/m VS 3.75 cent)](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
 * [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 05:41:10](https://news.ycombinator.com/item?id=36223278) - [The Hindu supremacist movement is a growing threat in the U.S.](https://prismreports.org/2023/05/30/hindu-supremacist-movement-growing-threat/)
