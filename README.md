@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 02:51:08](https://news.ycombinator.com/item?id=36236569) - [Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
 * [2023-06-07, 23:57:16](https://news.ycombinator.com/item?id=36235338) - [C++ Implementation of StableDiffusion](https://github.com/axodox/axodox-machinelearning)
 * [2023-06-07, 23:31:44](https://news.ycombinator.com/item?id=36235143) - [SEC granted emergency restraining order to freeze, repatriate Binance.US assets](https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html)
 * [2023-06-07, 22:53:30](https://news.ycombinator.com/item?id=36234790) - [Air quality monitors: paying more does not get you more accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
@@ -27,7 +28,6 @@
 * [2023-06-07, 05:36:37](https://news.ycombinator.com/item?id=36223257) - [The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
 * [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming Culture in the Late Aughts](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2023-06-06, 18:34:38](https://news.ycombinator.com/item?id=36217163) - [Float Compression 9: Lzsse and Lizard](https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/)
-* [2023-06-06, 17:38:10](https://news.ycombinator.com/item?id=36216356) - [C++ Object Lifetime](https://www.kdab.com/object-lifetime/)
 * [2023-06-06, 16:23:31](https://news.ycombinator.com/item?id=36215180) - [Quantum visualization technique gives insight into photosynthesis](https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 
