@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 20:28:07](https://news.ycombinator.com/item?id=36248446) - [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
+* [2023-06-08, 20:14:26](https://news.ycombinator.com/item?id=36248202) - [Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?](https://hackaday.com/2023/06/08/bye-bye-ubuntu-hello-manjaro-how-did-we-get-here/)
+* [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:04:10](https://news.ycombinator.com/item?id=36246952) - [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
 * [2023-06-08, 19:03:02](https://news.ycombinator.com/item?id=36246937) - [Join our CEO to discuss the API](https://old.reddit.com/r/reddit/comments/144ho2x/join_our_ceo_tomorrow_to_discuss_the_api/)
 * [2023-06-08, 18:54:57](https://news.ycombinator.com/item?id=36246816) - [Ask HN: How many of you have been laid of twice this year already?](https://news.ycombinator.com/item?id=36246816)

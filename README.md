@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 20:28:07](https://news.ycombinator.com/item?id=36248446) - [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
+* [2023-06-08, 20:14:26](https://news.ycombinator.com/item?id=36248202) - [Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?](https://hackaday.com/2023/06/08/bye-bye-ubuntu-hello-manjaro-how-did-we-get-here/)
+* [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:03:02](https://news.ycombinator.com/item?id=36246937) - [Join our CEO to discuss the API](https://old.reddit.com/r/reddit/comments/144ho2x/join_our_ceo_tomorrow_to_discuss_the_api/)
 * [2023-06-08, 18:50:36](https://news.ycombinator.com/item?id=36246750) - [Taurine Deficiency as a Driver of Aging](https://www.science.org/doi/10.1126/science.abn9257)
 * [2023-06-08, 18:36:55](https://news.ycombinator.com/item?id=36246550) - [Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
@@ -21,15 +24,12 @@
 * [2023-06-08, 10:13:49](https://news.ycombinator.com/item?id=36239524) - [GNS Theory](https://en.wikipedia.org/wiki/GNS_theory)
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
-* [2023-06-08, 07:12:14](https://news.ycombinator.com/item?id=36238342) - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
 * [2023-06-08, 06:56:04](https://news.ycombinator.com/item?id=36238222) - [Knight vs. Snail (2013)](https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html)
 * [2023-06-08, 06:49:48](https://news.ycombinator.com/item?id=36238170) - [The Case of the Missing SIMD Code](https://optidash.ai/blog/the-case-of-the-missing-simd-code)
 * [2023-06-08, 06:22:12](https://news.ycombinator.com/item?id=36237979) - [Official Apple Design Resources for Figma – iOS 17 and iPadOS 17](https://www.figma.com/community/file/1248375255495415511/Apple-Design-Resources-–-iOS-17-and-iPadOS-17)
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc](http://www.bricklin.com/visicalc.htm)
 * [2023-06-07, 23:42:40](https://news.ycombinator.com/item?id=36235232) - [The Oldest Maps in the World](https://www.laphamsquarterly.org/roundtable/oldest-maps-world)
 * [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
-* [2023-06-07, 12:28:57](https://news.ycombinator.com/item?id=36225945) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
-* [2023-06-07, 05:36:37](https://news.ycombinator.com/item?id=36223257) - [The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
 
 ## [Archives](archives/index.md)
 
