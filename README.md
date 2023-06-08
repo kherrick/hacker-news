@@ -8,7 +8,6 @@
 * [2023-06-07, 22:26:36](https://news.ycombinator.com/item?id=36234510) - [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“Fractureiser” malware in popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
-* [2023-06-07, 21:32:49](https://news.ycombinator.com/item?id=36233862) - [Rust module system encourages bad practices](https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices)
 * [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass makes better ethanol than corn does (2008)](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
 * [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan (2021)](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
@@ -30,6 +29,7 @@
 * [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming culture in the late aughts (2022)](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2023-06-06, 18:34:38](https://news.ycombinator.com/item?id=36217163) - [Float Compression 9: Lzsse and Lizard](https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
+* [2023-06-06, 14:06:23](https://news.ycombinator.com/item?id=36212992) - [Xilem Vector Graphics](https://www.youtube.com/watch?v=XjbVnwBtVEk)
 
 ## [Archives](archives/index.md)
 
