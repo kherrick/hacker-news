@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 18:01:47](https://news.ycombinator.com/item?id=36246018) - [Mayo Clinic medical college to doctor: Sit down and shut up](https://www.thefire.org/news/mayo-clinic-medical-college-doctor-sit-down-and-shut)
+* [2023-06-08, 17:46:48](https://news.ycombinator.com/item?id=36245786) - [Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 17:21:17](https://news.ycombinator.com/item?id=36245408) - [Cracking Open and Controlling a 747 Fuel Gauge](https://bikerglen.com/blog/fuel-gauge-ac-motor-pid-loop/)
 * [2023-06-08, 17:00:41](https://news.ycombinator.com/item?id=36245102) - [Aviator (YC S21) is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
@@ -7,9 +9,10 @@
 * [2023-06-08, 16:18:25](https://news.ycombinator.com/item?id=36244399) - [Travel across Germany with the 49 Euro ticket](https://49travel.vercel.app/)
 * [2023-06-08, 16:10:49](https://news.ycombinator.com/item?id=36244269) - [Presence of airborne microplastics in human lung tissue](https://www.sciencedirect.com/science/article/abs/pii/S0304389421010888)
 * [2023-06-08, 15:51:29](https://news.ycombinator.com/item?id=36243955) - [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
-* [2023-06-08, 15:51:22](https://news.ycombinator.com/item?id=36243951) - [AI Browser Extensions Are a Security Nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
+* [2023-06-08, 15:51:22](https://news.ycombinator.com/item?id=36243951) - [AI browser extensions are a security nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
 * [2023-06-08, 15:49:06](https://news.ycombinator.com/item?id=36243926) - [Show HN: Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://databasediagram.com)
 * [2023-06-08, 15:47:41](https://news.ycombinator.com/item?id=36243889) - [FFmpeg Adds Support for Animated JPEG-XL](https://www.phoronix.com/news/FFmpeg-Animated-JPEG-XL)
+* [2023-06-08, 15:39:47](https://news.ycombinator.com/item?id=36243738) - [The paper that came up with Apple Vision Pro's outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
 * [2023-06-08, 15:24:54](https://news.ycombinator.com/item?id=36243455) - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
 * [2023-06-08, 14:56:22](https://news.ycombinator.com/item?id=36242914) - [Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
 * [2023-06-08, 14:07:49](https://news.ycombinator.com/item?id=36242125) - [Launch HN: Infield (YC W20) – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
@@ -26,10 +29,7 @@
 * [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
 * [2023-06-07, 12:28:57](https://news.ycombinator.com/item?id=36225945) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
-* [2023-06-07, 10:43:02](https://news.ycombinator.com/item?id=36225161) - [Work Distribution with Jump Consistent Hashing](https://zacksiri.dev/posts/work-distribution-with-jump-consistent-hashing)
-* [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
 * [2023-06-07, 05:36:37](https://news.ycombinator.com/item?id=36223257) - [The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
-* [2023-06-06, 14:06:23](https://news.ycombinator.com/item?id=36212992) - [Xilem Vector Graphics [video]](https://www.youtube.com/watch?v=XjbVnwBtVEk)
 
 ## [Archives](archives/index.md)
 

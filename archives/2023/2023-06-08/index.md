@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 18:01:47](https://news.ycombinator.com/item?id=36246018) - [Mayo Clinic medical college to doctor: Sit down and shut up](https://www.thefire.org/news/mayo-clinic-medical-college-doctor-sit-down-and-shut)
+* [2023-06-08, 17:46:48](https://news.ycombinator.com/item?id=36245786) - [Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 17:21:17](https://news.ycombinator.com/item?id=36245408) - [Cracking Open and Controlling a 747 Fuel Gauge](https://bikerglen.com/blog/fuel-gauge-ac-motor-pid-loop/)
 * [2023-06-08, 17:00:41](https://news.ycombinator.com/item?id=36245102) - [Aviator (YC S21) is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
