@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 22:37:23](https://news.ycombinator.com/item?id=36250201) - [“GM Will Join Tesla's EV Charging Network” (Bloomberg)](https://www.bloomberg.com/news/articles/2023-06-08/gm-s-mary-barra-will-join-tesla-s-elon-musk-to-talk-ev-charging)
 * [2023-06-08, 22:14:12](https://news.ycombinator.com/item?id=36249958) - [r/ProgrammerHumor will be shutting down to protest Reddit's API changes](https://old.reddit.com/r/ProgrammerHumor/comments/141qwy8/programmer_humor_will_be_shutting_down/)
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
 * [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
@@ -9,7 +10,6 @@
 * [2023-06-08, 20:16:26](https://news.ycombinator.com/item?id=36248234) - [Sync will shut down on June 30, 2023](https://old.reddit.com/r/redditsync/comments/144jp3w/sync_will_shut_down_on_june_30_2023/)
 * [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 18:36:55](https://news.ycombinator.com/item?id=36246550) - [Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
-* [2023-06-08, 18:19:53](https://news.ycombinator.com/item?id=36246309) - [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-08, 17:46:48](https://news.ycombinator.com/item?id=36245786) - [Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 17:21:17](https://news.ycombinator.com/item?id=36245408) - [Cracking Open and Controlling a 747 Fuel Gauge](https://bikerglen.com/blog/fuel-gauge-ac-motor-pid-loop/)

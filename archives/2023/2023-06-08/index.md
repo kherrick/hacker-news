@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 22:37:23](https://news.ycombinator.com/item?id=36250201) - [“GM Will Join Tesla's EV Charging Network” (Bloomberg)](https://www.bloomberg.com/news/articles/2023-06-08/gm-s-mary-barra-will-join-tesla-s-elon-musk-to-talk-ev-charging)
 * [2023-06-08, 22:14:12](https://news.ycombinator.com/item?id=36249958) - [r/ProgrammerHumor will be shutting down to protest Reddit's API changes](https://old.reddit.com/r/ProgrammerHumor/comments/141qwy8/programmer_humor_will_be_shutting_down/)
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
 * [2023-06-08, 21:29:34](https://news.ycombinator.com/item?id=36249414) - [HN manually circumvents block from Asahi Linux devs](https://social.treehouse.systems/@endrift/110503088955835842)
