@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 12:39:00",
+      "https://news.ycombinator.com/item?id=36240885"
+    ],
+    [
+      "France legalizes remote camera and microphone activation in smartphones",
+      "https://www.francetvinfo.fr/societe/justice/le-senat-donne-son-feu-vert-a-l-activation-a-distance-des-cameras-ou-micros-des-telephones_5875187.html"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 12:20:04",
       "https://news.ycombinator.com/item?id=36240652"
     ],
@@ -37,16 +47,6 @@
     [
       "New version of Monica, codename Chandler, is available in beta",
       "https://www.monicahq.com/blog/chandler-is-in-beta"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 11:10:42",
-      "https://news.ycombinator.com/item?id=36239936"
-    ],
-    [
-      "I ditched my car – and improved my fitness, sleep and bank balance",
-      "https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2023-06-08, 01:09:02",
+      "https://news.ycombinator.com/item?id=36235879"
+    ],
+    [
+      "New data transmission record",
+      "https://www.dtu.dk/english/newsarchive/2022/10/new-data-transmission-record"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 00:56:17",
       "https://news.ycombinator.com/item?id=36235779"
     ],
@@ -211,22 +221,12 @@
   ],
   [
     [
-      "2023-06-07, 21:34:06",
-      "https://news.ycombinator.com/item?id=36233881"
+      "2023-06-07, 20:16:19",
+      "https://news.ycombinator.com/item?id=36232900"
     ],
     [
-      "CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM",
-      "https://arxiv.org/abs/2306.00029"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 21:31:00",
-      "https://news.ycombinator.com/item?id=36233828"
-    ],
-    [
-      "Grass makes better ethanol than corn does (2008)",
-      "https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/"
+      "A monolithic operating system in 512 bytes of x86 machine code",
+      "https://github.com/nanochess/bootOS"
     ]
   ],
   [
