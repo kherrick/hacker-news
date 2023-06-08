@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 07:58:50](https://news.ycombinator.com/item?id=36238630) - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
+* [2023-06-08, 07:48:37](https://news.ycombinator.com/item?id=36238560) - [Scientists Discover Ancient 'Lost World' That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
 * [2023-06-08, 07:12:14](https://news.ycombinator.com/item?id=36238342) - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
 * [2023-06-08, 07:00:37](https://news.ycombinator.com/item?id=36238254) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
@@ -21,8 +23,6 @@
 * [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Ohio cryptic lineage update](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on GOES East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
-* [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
-* [2023-06-07, 17:09:14](https://news.ycombinator.com/item?id=36229782) - [Bard is getting better at logic and reasoning](https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
