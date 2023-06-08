@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 18:19:53](https://news.ycombinator.com/item?id=36246309) - [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
+* [2023-06-08, 18:17:49](https://news.ycombinator.com/item?id=36246274) - [Docsis 4.0 Certification Available](https://www.cablelabs.com/news/docsis-4-0-certification-available)
+* [2023-06-08, 18:06:55](https://news.ycombinator.com/item?id=36246106) - [Could seaweed be the 'fastest and least expensive' tool to fight climate change?](https://www.nationalgeographic.com/environment/article/seaweed-fastest-least-expensive-tool-climate-change)
 * [2023-06-08, 18:01:47](https://news.ycombinator.com/item?id=36246018) - [Mayo Clinic medical college to doctor: Sit down and shut up](https://www.thefire.org/news/mayo-clinic-medical-college-doctor-sit-down-and-shut)
 * [2023-06-08, 17:46:48](https://news.ycombinator.com/item?id=36245786) - [Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
