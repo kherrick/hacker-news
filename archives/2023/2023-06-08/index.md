@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 08:51:08](https://news.ycombinator.com/item?id=36238986) - [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
 * [2023-06-08, 08:15:43](https://news.ycombinator.com/item?id=36238761) - [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 * [2023-06-08, 07:58:50](https://news.ycombinator.com/item?id=36238630) - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
 * [2023-06-08, 07:48:37](https://news.ycombinator.com/item?id=36238560) - [Scientists Discover Ancient 'Lost World' That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)

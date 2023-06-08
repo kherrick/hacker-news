@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 08:51:08](https://news.ycombinator.com/item?id=36238986) - [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
 * [2023-06-08, 08:15:43](https://news.ycombinator.com/item?id=36238761) - [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 * [2023-06-08, 07:58:50](https://news.ycombinator.com/item?id=36238630) - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
 * [2023-06-08, 07:48:37](https://news.ycombinator.com/item?id=36238560) - [Scientists Discover Ancient 'Lost World' That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
@@ -7,7 +8,6 @@
 * [2023-06-08, 07:00:37](https://news.ycombinator.com/item?id=36238254) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 * [2023-06-08, 02:51:08](https://news.ycombinator.com/item?id=36236569) - [Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
-* [2023-06-08, 01:09:02](https://news.ycombinator.com/item?id=36235879) - [New data transmission record](https://www.dtu.dk/english/newsarchive/2022/10/new-data-transmission-record)
 * [2023-06-08, 00:56:17](https://news.ycombinator.com/item?id=36235779) - [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 * [2023-06-07, 23:31:44](https://news.ycombinator.com/item?id=36235143) - [SEC granted emergency restraining order to freeze, repatriate Binance.US assets](https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html)
 * [2023-06-07, 22:53:30](https://news.ycombinator.com/item?id=36234790) - [Air quality monitors: paying more does not get you more accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
