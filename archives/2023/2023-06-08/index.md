@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 17:00:41](https://news.ycombinator.com/item?id=36245102) - [Aviator (YC S21) is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
+* [2023-06-08, 16:48:00](https://news.ycombinator.com/item?id=36244886) - [Show HN: Tremor 3.0 – The open-source library to build dashboards fast](https://www.tremor.so/changelog)
 * [2023-06-08, 16:18:25](https://news.ycombinator.com/item?id=36244399) - [Travel across Germany with the 49 Euro ticket](https://49travel.vercel.app/)
 * [2023-06-08, 16:10:49](https://news.ycombinator.com/item?id=36244269) - [Presence of airborne microplastics in human lung tissue](https://www.sciencedirect.com/science/article/abs/pii/S0304389421010888)
 * [2023-06-08, 16:10:00](https://news.ycombinator.com/item?id=36244254) - [Google gets stricter about employees time in office](https://www.wsj.com/articles/google-gets-stricter-about-employees-time-in-office-9a20f2e)
