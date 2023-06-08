@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 12:39:00](https://news.ycombinator.com/item?id=36240885) - [France legalizes remote camera and microphone activation in smartphones](https://www.francetvinfo.fr/societe/justice/le-senat-donne-son-feu-vert-a-l-activation-a-distance-des-cameras-ou-micros-des-telephones_5875187.html)
 * [2023-06-08, 12:20:04](https://news.ycombinator.com/item?id=36240652) - [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
 * [2023-06-08, 12:02:55](https://news.ycombinator.com/item?id=36240445) - [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
 * [2023-06-08, 12:00:57](https://news.ycombinator.com/item?id=36240425) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
