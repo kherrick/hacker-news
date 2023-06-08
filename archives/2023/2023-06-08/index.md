@@ -10,6 +10,7 @@
 * [2023-06-08, 15:51:29](https://news.ycombinator.com/item?id=36243955) - [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
 * [2023-06-08, 15:51:22](https://news.ycombinator.com/item?id=36243951) - [AI Browser Extensions Are a Security Nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
 * [2023-06-08, 15:49:06](https://news.ycombinator.com/item?id=36243926) - [Show HN: Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://databasediagram.com)
+* [2023-06-08, 15:47:41](https://news.ycombinator.com/item?id=36243889) - [FFmpeg Adds Support for Animated JPEG-XL](https://www.phoronix.com/news/FFmpeg-Animated-JPEG-XL)
 * [2023-06-08, 15:39:47](https://news.ycombinator.com/item?id=36243738) - [The paper that came up with Apple Vision Pro's outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
 * [2023-06-08, 15:24:54](https://news.ycombinator.com/item?id=36243455) - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
 * [2023-06-08, 15:19:39](https://news.ycombinator.com/item?id=36243360) - [Tesla plans for 375,000 Cybertrucks per year](https://electrek.co/2023/06/08/tesla-plans-375000-cybertrucks-per-year-release-candidates-late-august/)
