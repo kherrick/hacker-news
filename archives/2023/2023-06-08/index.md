@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 12:20:04](https://news.ycombinator.com/item?id=36240652) - [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
+* [2023-06-08, 12:02:55](https://news.ycombinator.com/item?id=36240445) - [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
 * [2023-06-08, 12:00:57](https://news.ycombinator.com/item?id=36240425) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-08, 11:52:18](https://news.ycombinator.com/item?id=36240328) - [Facial masculinity and beardedness determine ratings of men's attractiveness](https://onlinelibrary.wiley.com/doi/10.1111/jeb.12958)
 * [2023-06-08, 11:42:19](https://news.ycombinator.com/item?id=36240222) - [New version of Monica, codename Chandler, is available in beta](https://www.monicahq.com/blog/chandler-is-in-beta)
@@ -14,6 +16,7 @@
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
 * [2023-06-08, 08:51:08](https://news.ycombinator.com/item?id=36238986) - [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
+* [2023-06-08, 08:46:54](https://news.ycombinator.com/item?id=36238958) - [US CDC sets first federal target for ventilation of indoor air to lower risk](https://www.cnn.com/2023/05/12/health/cdc-new-ventilation-target/index.html)
 * [2023-06-08, 08:15:43](https://news.ycombinator.com/item?id=36238761) - [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 * [2023-06-08, 07:58:50](https://news.ycombinator.com/item?id=36238630) - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
 * [2023-06-08, 07:48:37](https://news.ycombinator.com/item?id=36238560) - [Scientists Discover Ancient 'Lost World' That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
