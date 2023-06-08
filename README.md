@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 08:15:43](https://news.ycombinator.com/item?id=36238761) - [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 * [2023-06-08, 07:58:50](https://news.ycombinator.com/item?id=36238630) - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
 * [2023-06-08, 07:48:37](https://news.ycombinator.com/item?id=36238560) - [Scientists Discover Ancient 'Lost World' That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
 * [2023-06-08, 07:12:14](https://news.ycombinator.com/item?id=36238342) - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
@@ -26,7 +27,6 @@
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
 * [2023-06-06, 23:55:58](https://news.ycombinator.com/item?id=36220809) - [Trespassing on Edith Wharton](https://www.theparisreview.org/blog/2023/06/05/trespassing-on-edith-wharton/)
-* [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming culture in the late aughts (2022)](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2023-06-06, 16:46:31](https://news.ycombinator.com/item?id=36215595) - [Why It Costs Up to $30M to Convert a Passenger Plane to Cargo](https://www.youtube.com/watch?v=9FDznXX-F7w)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 * [2023-06-06, 14:06:23](https://news.ycombinator.com/item?id=36212992) - [Xilem Vector Graphics [video]](https://www.youtube.com/watch?v=XjbVnwBtVEk)
