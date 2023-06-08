@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 11:10:42](https://news.ycombinator.com/item?id=36239936) - [I ditched my car – and improved my fitness, sleep and bank balance](https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance)
 * [2023-06-08, 09:23:36](https://news.ycombinator.com/item?id=36239212) - [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
@@ -17,7 +18,6 @@
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“Fractureiser” malware in popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
 * [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass makes better ethanol than corn does (2008)](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
-* [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan (2021)](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 * [2023-06-07, 20:16:19](https://news.ycombinator.com/item?id=36232900) - [A monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
 * [2023-06-07, 20:13:05](https://news.ycombinator.com/item?id=36232861) - [Mergeable libraries [video]](https://developer.apple.com/videos/play/wwdc2023/10268)
