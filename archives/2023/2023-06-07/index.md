@@ -70,6 +70,7 @@
 * [2023-06-07, 09:46:29](https://news.ycombinator.com/item?id=36224809) - [Motorbike crashes: highside and lowside crashes explained](https://www.driverknowledgetests.com/resources/motorbike-crashes-highside-and-lowside-crashes-explained/)
 * [2023-06-07, 09:31:08](https://news.ycombinator.com/item?id=36224727) - [Why Was Benjamin Franklin’s Basement Filled with Skeletons?](https://www.smithsonianmag.com/smart-news/why-was-benjamin-franklins-basement-filled-with-skeletons-524521/)
 * [2023-06-07, 09:28:05](https://news.ycombinator.com/item?id=36224703) - [Ask HN: Code review as part of the peer review process?](https://news.ycombinator.com/item?id=36224703)
+* [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
 * [2023-06-07, 07:56:27](https://news.ycombinator.com/item?id=36224145) - [Ancient Carthaginians did sacrifice their children](https://www.ox.ac.uk/news/2014-01-23-ancient-carthaginians-really-did-sacrifice-their-children)
 * [2023-06-07, 07:43:11](https://news.ycombinator.com/item?id=36224041) - [Russia’s population nightmare is going to get even worse](https://www.economist.com/europe/2023/03/04/russias-population-nightmare-is-going-to-get-even-worse)
 * [2023-06-07, 07:33:26](https://news.ycombinator.com/item?id=36223972) - [Run and create custom ChatGPT-like bots with OpenChat](https://github.com/openchatai/OpenChat)
