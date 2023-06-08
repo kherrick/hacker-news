@@ -1,5 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 00:12:10](https://news.ycombinator.com/item?id=36235444) - [Hashicorp lays off 8% of staff](https://twitter.com/GergelyOrosz/status/1666569977300647938)
+* [2023-06-07, 23:57:16](https://news.ycombinator.com/item?id=36235338) - [C++ Implementation of StableDiffusion](https://github.com/axodox/axodox-machinelearning)
+* [2023-06-07, 23:31:44](https://news.ycombinator.com/item?id=36235143) - [SEC granted emergency restraining order to freeze, repatriate Binance.US assets](https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html)
+* [2023-06-07, 22:53:30](https://news.ycombinator.com/item?id=36234790) - [Air Quality Monitors: When Paying More Does Not Get You More Accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
 * [2023-06-07, 22:26:36](https://news.ycombinator.com/item?id=36234510) - [Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?](https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/)
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“fractureiser” malware in many popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
@@ -21,15 +25,11 @@
 * [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-07, 16:55:29](https://news.ycombinator.com/item?id=36229557) - [NL national security law to grant automatic permission for targeted surveillance](https://aboutintel.eu/nl-government-wants-to-abandon-key-safeguards-for-hacking-of-non-targets/)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
-* [2023-06-07, 14:44:15](https://news.ycombinator.com/item?id=36227416) - [Hydroflow: Dataflow Runtime in Rust](https://github.com/hydro-project/hydroflow)
 * [2023-06-07, 12:53:17](https://news.ycombinator.com/item?id=36226155) - [Amount of work that once bought an hour of light now buys 51 years of it (2017)](https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
-* [2023-06-06, 18:34:38](https://news.ycombinator.com/item?id=36217163) - [Float Compression 9: Lzsse and Lizard](https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/)
+* [2023-06-06, 17:38:10](https://news.ycombinator.com/item?id=36216356) - [C++ Object Lifetime](https://www.kdab.com/object-lifetime/)
 * [2023-06-06, 16:23:31](https://news.ycombinator.com/item?id=36215180) - [Quantum visualization technique gives insight into photosynthesis](https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html)
-* [2023-06-06, 16:18:44](https://news.ycombinator.com/item?id=36215088) - [Show HN: Serverless OLAP with Seafowl and GCP](https://github.com/splitgraph/seafowl-gcsfuse)
-* [2023-06-06, 15:47:53](https://news.ycombinator.com/item?id=36214654) - [Why the Dvorak keyboard didn't take over the world (2014) [video]](https://www.youtube.com/watch?v=ZnUBl90tayI)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
-* [2023-06-06, 13:43:50](https://news.ycombinator.com/item?id=36212632) - [Texas Instruments Explorer Computer System (1984) [pdf]](http://www.typewritten.org/Articles/TI/deeb025.pdf)
 
 ## [Archives](archives/index.md)
 
