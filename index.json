@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36239212"
     ],
     [
-      "Patterns of mean-level change in personality traits across the life course",
+      "Patterns of mean-level change in personality traits across life course (2006)",
       "https://pubmed.ncbi.nlm.nih.gov/16435954/"
     ]
   ],
@@ -97,6 +97,16 @@
     [
       "fe: A tiny, embeddable language implemented in ANSI C",
       "https://github.com/rxi/fe"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 08:51:08",
+      "https://news.ycombinator.com/item?id=36238986"
+    ],
+    [
+      "HashiCorp just let go 8%",
+      "https://twitter.com/GergelyOrosz/status/1666566948509843456"
     ]
   ],
   [
@@ -211,22 +221,22 @@
   ],
   [
     [
-      "2023-06-07, 22:26:36",
-      "https://news.ycombinator.com/item?id=36234510"
-    ],
-    [
-      "Air Purifier vs. Positive Pressure Fresh Air System – An Unfair Battle?",
-      "https://www.airgradient.com/open-airgradient/blog/air-purifier-vs-positive-pressure-fresh-air-system-an-unfair-battle/"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 22:05:49",
       "https://news.ycombinator.com/item?id=36234286"
     ],
     [
       "“Fractureiser” malware in popular Minecraft mods and modpacks",
       "https://prismlauncher.org/news/cf-compromised-alert/"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 20:16:19",
+      "https://news.ycombinator.com/item?id=36232900"
+    ],
+    [
+      "A monolithic operating system in 512 bytes of x86 machine code",
+      "https://github.com/nanochess/bootOS"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Farewell American Computer Magazines",
       "https://hackaday.com/2023/06/01/farewell-american-computer-magazines/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 18:34:38",
-      "https://news.ycombinator.com/item?id=36217163"
-    ],
-    [
-      "Float Compression 9: Lzsse and Lizard",
-      "https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/"
     ]
   ],
   [
