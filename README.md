@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-08, 14:19:38](https://news.ycombinator.com/item?id=36242293) - [Ask HN: What is the most cost effective way to do backups?](https://news.ycombinator.com/item?id=36242293)
+* [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [How to Clear 500k Feral Cats from New York’s Streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 13:41:20](https://news.ycombinator.com/item?id=36241735) - [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
-* [2023-06-08, 13:36:58](https://news.ycombinator.com/item?id=36241666) - [Show HN: 10xjobs.net, High paying tech jobs directory](https://10xjobs.net/)
 * [2023-06-08, 12:29:51](https://news.ycombinator.com/item?id=36240769) - [Supabase Vector, the Open Source Vector Toolkit for Postgres](https://supabase.com/vector)
 * [2023-06-08, 12:20:04](https://news.ycombinator.com/item?id=36240652) - [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
 * [2023-06-08, 12:02:55](https://news.ycombinator.com/item?id=36240445) - [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
@@ -20,6 +19,7 @@
 * [2023-06-08, 06:22:12](https://news.ycombinator.com/item?id=36237979) - [Official Apple Design Resources for Figma – iOS 17 and iPadOS 17](https://www.figma.com/community/file/1248375255495415511/Apple-Design-Resources-–-iOS-17-and-iPadOS-17)
 * [2023-06-08, 04:47:27](https://news.ycombinator.com/item?id=36237332) - [Web Apps on macOS Sonoma 14 Beta](https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/)
 * [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – A JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
+* [2023-06-08, 02:51:08](https://news.ycombinator.com/item?id=36236569) - [Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
 * [2023-06-08, 00:56:17](https://news.ycombinator.com/item?id=36235779) - [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
 * [2023-06-07, 23:31:44](https://news.ycombinator.com/item?id=36235143) - [SEC granted emergency restraining order to freeze, repatriate Binance.US assets](https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html)
 * [2023-06-07, 22:53:30](https://news.ycombinator.com/item?id=36234790) - [Air quality monitors: paying more does not get you more accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)

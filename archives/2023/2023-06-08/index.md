@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [How to Clear 500k Feral Cats from New York’s Streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 14:19:38](https://news.ycombinator.com/item?id=36242293) - [Ask HN: What is the most cost effective way to do backups?](https://news.ycombinator.com/item?id=36242293)
 * [2023-06-08, 13:41:20](https://news.ycombinator.com/item?id=36241735) - [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
 * [2023-06-08, 13:36:58](https://news.ycombinator.com/item?id=36241666) - [Show HN: 10xjobs.net, High paying tech jobs directory](https://10xjobs.net/)
