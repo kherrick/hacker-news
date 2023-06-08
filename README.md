@@ -17,6 +17,7 @@
 * [2023-06-07, 22:05:49](https://news.ycombinator.com/item?id=36234286) - [“Fractureiser” malware in popular Minecraft mods and modpacks](https://prismlauncher.org/news/cf-compromised-alert/)
 * [2023-06-07, 21:34:06](https://news.ycombinator.com/item?id=36233881) - [CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM](https://arxiv.org/abs/2306.00029)
 * [2023-06-07, 21:31:00](https://news.ycombinator.com/item?id=36233828) - [Grass makes better ethanol than corn does (2008)](https://www.scientificamerican.com/article/grass-makes-better-ethanol-than-corn/)
+* [2023-06-07, 21:08:59](https://news.ycombinator.com/item?id=36233613) - [The Cuboid: A DIY air purifier that's better than a box-fan (2021)](https://dynomight.net/better-DIY-air-purifier.html)
 * [2023-06-07, 20:37:25](https://news.ycombinator.com/item?id=36233187) - [Quick VPN Setup with AWS Lightsail and WireGuard](https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail)
 * [2023-06-07, 20:16:19](https://news.ycombinator.com/item?id=36232900) - [A monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
 * [2023-06-07, 20:13:05](https://news.ycombinator.com/item?id=36232861) - [Mergeable libraries [video]](https://developer.apple.com/videos/play/wwdc2023/10268)
@@ -27,7 +28,6 @@
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 10:51:59](https://news.ycombinator.com/item?id=36225230) - [Math Has Changed the Shape of Gerrymandering](https://www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/)
 * [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
-* [2023-06-06, 16:46:31](https://news.ycombinator.com/item?id=36215595) - [Why It Costs Up to $30M to Convert a Passenger Plane to Cargo](https://www.youtube.com/watch?v=9FDznXX-F7w)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 * [2023-06-06, 14:06:23](https://news.ycombinator.com/item?id=36212992) - [Xilem Vector Graphics [video]](https://www.youtube.com/watch?v=XjbVnwBtVEk)
 
