@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 04:38:39](https://news.ycombinator.com/item?id=36237285) - [Reddit announces plan to lay off 90 workers as subreddits plan mass protest](https://www.sfgate.com/tech/article/reddit-layoffs-90-protest-plan-18140277.php)
 * [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 * [2023-06-08, 02:51:08](https://news.ycombinator.com/item?id=36236569) - [Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
 * [2023-06-08, 00:56:17](https://news.ycombinator.com/item?id=36235779) - [Google doesn’t want employees working remotely anymore](https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore)
@@ -21,7 +22,6 @@
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 * [2023-06-07, 18:19:15](https://news.ycombinator.com/item?id=36231016) - [Reddit's Recently Announced API Changes, and the future of /r/blind](https://old.reddit.com/r/Blind/comments/13zr8h2/reddits_recently_announced_api_changes_and_the/)
 * [2023-06-07, 17:09:14](https://news.ycombinator.com/item?id=36229782) - [Bard is getting better at logic and reasoning](https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/)
-* [2023-06-07, 17:00:37](https://news.ycombinator.com/item?id=36229632) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 09:46:29](https://news.ycombinator.com/item?id=36224809) - [Motorbike crashes: highside and lowside crashes explained](https://www.driverknowledgetests.com/resources/motorbike-crashes-highside-and-lowside-crashes-explained/)
