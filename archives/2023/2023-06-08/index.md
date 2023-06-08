@@ -55,6 +55,7 @@
 * [2023-06-08, 11:24:29](https://news.ycombinator.com/item?id=36240053) - [My Little Pony: Friendship Is Optimal (2012)](https://fimfetch.net/story/62074/friendship-is-optimal/0)
 * [2023-06-08, 11:10:42](https://news.ycombinator.com/item?id=36239936) - [I ditched my car – and improved my fitness, sleep and bank balance](https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance)
 * [2023-06-08, 10:15:14](https://news.ycombinator.com/item?id=36239534) - [Rust Criticism from a Rustacean](https://jeang3nie.codeberg.page/rust-criticism-from-rustacean/)
+* [2023-06-08, 10:13:49](https://news.ycombinator.com/item?id=36239524) - [GNS Theory](https://en.wikipedia.org/wiki/GNS_theory)
 * [2023-06-08, 09:23:36](https://news.ycombinator.com/item?id=36239212) - [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
