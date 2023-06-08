@@ -8,6 +8,7 @@
 * [2023-06-08, 14:19:38](https://news.ycombinator.com/item?id=36242293) - [Ask HN: What is the most cost effective way to do backups?](https://news.ycombinator.com/item?id=36242293)
 * [2023-06-08, 13:41:20](https://news.ycombinator.com/item?id=36241735) - [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
 * [2023-06-08, 13:36:58](https://news.ycombinator.com/item?id=36241666) - [Show HN: 10xjobs.net, High paying tech jobs directory](https://10xjobs.net/)
+* [2023-06-08, 13:36:32](https://news.ycombinator.com/item?id=36241657) - [TikTok Sans: TikTok's new bespoke typeface](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
 * [2023-06-08, 12:55:54](https://news.ycombinator.com/item?id=36241089) - [Scientists claim >99 percent identification rate of ChatGPT content](https://www.theregister.com/2023/06/08/scientists_ai_recognition/)
 * [2023-06-08, 12:39:00](https://news.ycombinator.com/item?id=36240885) - [France legalizes remote camera and microphone activation in smartphones](https://www.francetvinfo.fr/societe/justice/le-senat-donne-son-feu-vert-a-l-activation-a-distance-des-cameras-ou-micros-des-telephones_5875187.html)
 * [2023-06-08, 12:29:51](https://news.ycombinator.com/item?id=36240769) - [Supabase Vector, the Open Source Vector Toolkit for Postgres](https://supabase.com/vector)

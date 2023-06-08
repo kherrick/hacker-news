@@ -2,12 +2,12 @@
 
 * [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [How to Clear 500k Feral Cats from New York’s Streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 13:41:20](https://news.ycombinator.com/item?id=36241735) - [I was rejected by Codecademy 3 times, so I built my own](https://codeamigo.dev/?hn=true)
+* [2023-06-08, 13:36:32](https://news.ycombinator.com/item?id=36241657) - [TikTok Sans: TikTok's new bespoke typeface](https://newsroom.tiktok.com/en-us/introducing-tiktok-sans)
 * [2023-06-08, 12:29:51](https://news.ycombinator.com/item?id=36240769) - [Supabase Vector, the Open Source Vector Toolkit for Postgres](https://supabase.com/vector)
 * [2023-06-08, 12:20:04](https://news.ycombinator.com/item?id=36240652) - [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
 * [2023-06-08, 12:02:55](https://news.ycombinator.com/item?id=36240445) - [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
 * [2023-06-08, 12:00:57](https://news.ycombinator.com/item?id=36240425) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-08, 11:52:11](https://news.ycombinator.com/item?id=36240325) - [Nanoplastic Ingestion Causes Neurological Deficits](https://www.the-scientist.com/news-opinion/nanoplastic-ingestion-causes-neurological-deficits-71152)
-* [2023-06-08, 11:42:19](https://news.ycombinator.com/item?id=36240222) - [New version of Monica, codename Chandler, is available in beta](https://www.monicahq.com/blog/chandler-is-in-beta)
 * [2023-06-08, 09:23:36](https://news.ycombinator.com/item?id=36239212) - [Patterns of mean-level change in personality traits across life course (2006)](https://pubmed.ncbi.nlm.nih.gov/16435954/)
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
 * [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
