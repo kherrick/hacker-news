@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-08, 21:39:33",
+      "https://news.ycombinator.com/item?id=36249546"
+    ],
+    [
+      "The TI (Lisp) Explorer Project",
+      "https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 21:04:37",
+      "https://news.ycombinator.com/item?id=36249036"
+    ],
+    [
+      "Manjaro is a free and open source Linux operating system that emphasizes privacy",
+      "https://manjaro.org/"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 21:00:41",
       "https://news.ycombinator.com/item?id=36248970"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2023-06-08, 20:44:29",
-      "https://news.ycombinator.com/item?id=36248695"
-    ],
-    [
-      "Reddit’s CEO edited comments that criticized him (2016)",
-      "https://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments"
-    ]
-  ],
-  [
-    [
       "2023-06-08, 20:40:30",
       "https://news.ycombinator.com/item?id=36248633"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36248446"
     ],
     [
-      "Millions of dollars in time wasted making papers fit journal guidelines",
+      "Cost of ‘reformatting’ prompts a call for journals to change their requirements",
       "https://www.nature.com/articles/d41586-023-01846-9"
     ]
   ],
@@ -227,16 +237,6 @@
     [
       "GNS Theory",
       "https://en.wikipedia.org/wiki/GNS_theory"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 09:20:36",
-      "https://news.ycombinator.com/item?id=36239195"
-    ],
-    [
-      "The guide to software development with Guix",
-      "https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/"
     ]
   ],
   [
