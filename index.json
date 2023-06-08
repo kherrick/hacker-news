@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-08, 00:56:17",
-      "https://news.ycombinator.com/item?id=36235779"
-    ],
-    [
-      "Google doesn’t want employees working remotely anymore",
-      "https://www.theverge.com/2023/6/7/23753323/google-doesnt-want-employees-working-remotely-anymore"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 23:57:16",
       "https://news.ycombinator.com/item?id=36235338"
     ],
@@ -67,16 +57,6 @@
     [
       "CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM",
       "https://arxiv.org/abs/2306.00029"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 21:32:49",
-      "https://news.ycombinator.com/item?id=36233862"
-    ],
-    [
-      "Rust module system encourages bad practices",
-      "https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-06-07, 12:53:17",
+      "https://news.ycombinator.com/item?id=36226155"
+    ],
+    [
+      "Amount of work that once bought an hour of light now buys 51 years of it (2017)",
+      "https://www.washingtonpost.com/news/wonk/wp/2017/06/26/the-amount-of-work-that-once-bought-an-hour-of-light-now-buys-51-years-of-it/"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 11:30:53",
       "https://news.ycombinator.com/item?id=36225520"
     ],
@@ -277,6 +267,16 @@
     [
       "Float Compression 9: Lzsse and Lizard",
       "https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 17:38:10",
+      "https://news.ycombinator.com/item?id=36216356"
+    ],
+    [
+      "C++ Object Lifetime",
+      "https://www.kdab.com/object-lifetime/"
     ]
   ],
   [
