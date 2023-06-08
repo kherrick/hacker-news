@@ -14,6 +14,7 @@
 * [2023-06-08, 12:02:55](https://news.ycombinator.com/item?id=36240445) - [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
 * [2023-06-08, 12:00:57](https://news.ycombinator.com/item?id=36240425) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-08, 11:52:18](https://news.ycombinator.com/item?id=36240328) - [Facial masculinity and beardedness determine ratings of men's attractiveness](https://onlinelibrary.wiley.com/doi/10.1111/jeb.12958)
+* [2023-06-08, 11:52:11](https://news.ycombinator.com/item?id=36240325) - [Nanoplastic Ingestion Causes Neurological Deficits](https://www.the-scientist.com/news-opinion/nanoplastic-ingestion-causes-neurological-deficits-71152)
 * [2023-06-08, 11:42:19](https://news.ycombinator.com/item?id=36240222) - [New version of Monica, codename Chandler, is available in beta](https://www.monicahq.com/blog/chandler-is-in-beta)
 * [2023-06-08, 11:24:29](https://news.ycombinator.com/item?id=36240053) - [My Little Pony: Friendship Is Optimal (2012)](https://fimfetch.net/story/62074/friendship-is-optimal/0)
 * [2023-06-08, 11:10:42](https://news.ycombinator.com/item?id=36239936) - [I ditched my car – and improved my fitness, sleep and bank balance](https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance)

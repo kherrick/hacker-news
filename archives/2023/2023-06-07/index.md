@@ -65,6 +65,7 @@
 * [2023-06-07, 10:52:47](https://news.ycombinator.com/item?id=36225239) - [Show HN: Homelab Monitoring Setup with Grafana](https://blog.randombits.host/monitoring-self-hosted-services/)
 * [2023-06-07, 10:51:59](https://news.ycombinator.com/item?id=36225230) - [Math Has Changed the Shape of Gerrymandering](https://www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/)
 * [2023-06-07, 10:51:38](https://news.ycombinator.com/item?id=36225227) - [FF4J – Feature Flags for Java](https://ff4j.github.io/)
+* [2023-06-07, 10:43:02](https://news.ycombinator.com/item?id=36225161) - [Work Distribution with Jump Consistent Hashing](https://zacksiri.dev/posts/work-distribution-with-jump-consistent-hashing)
 * [2023-06-07, 10:33:19](https://news.ycombinator.com/item?id=36225100) - [Service Rents Email Addresses for Account Signups](https://krebsonsecurity.com/2023/06/service-rents-email-addresses-for-account-signups/)
 * [2023-06-07, 10:20:50](https://news.ycombinator.com/item?id=36225016) - [Open Source Business Challenges and Reality, Rui Ueyama (Creator of Mold Linker)](https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6)
 * [2023-06-07, 09:59:46](https://news.ycombinator.com/item?id=36224893) - [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
