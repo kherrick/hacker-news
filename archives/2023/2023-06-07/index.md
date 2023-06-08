@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-07](index.md)
 
 * [2023-06-07, 23:57:16](https://news.ycombinator.com/item?id=36235338) - [C++ Implementation of StableDiffusion](https://github.com/axodox/axodox-machinelearning)
+* [2023-06-07, 23:42:40](https://news.ycombinator.com/item?id=36235232) - [The Oldest Maps in the World](https://www.laphamsquarterly.org/roundtable/oldest-maps-world)
 * [2023-06-07, 23:31:44](https://news.ycombinator.com/item?id=36235143) - [SEC granted emergency restraining order to freeze, repatriate Binance.US assets](https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html)
 * [2023-06-07, 23:21:33](https://news.ycombinator.com/item?id=36235055) - [This is fine.](https://www.thoughtmerchants.com/output/this-is-fine)
 * [2023-06-07, 22:53:30](https://news.ycombinator.com/item?id=36234790) - [Air Quality Monitors: When Paying More Does Not Get You More Accuracy](https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/)
