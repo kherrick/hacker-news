@@ -1,12 +1,62 @@
 [
   [
     [
+      "2023-06-08, 12:00:57",
+      "https://news.ycombinator.com/item?id=36240425"
+    ],
+    [
+      "GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education",
+      "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 11:52:18",
+      "https://news.ycombinator.com/item?id=36240328"
+    ],
+    [
+      "Facial masculinity and beardedness determine ratings of men's attractiveness",
+      "https://onlinelibrary.wiley.com/doi/10.1111/jeb.12958"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 11:42:19",
+      "https://news.ycombinator.com/item?id=36240222"
+    ],
+    [
+      "New version of Monica, codename Chandler, is available in beta",
+      "https://www.monicahq.com/blog/chandler-is-in-beta"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 11:24:29",
+      "https://news.ycombinator.com/item?id=36240053"
+    ],
+    [
+      "My Little Pony: Friendship Is Optimal (2012)",
+      "https://fimfetch.net/story/62074/friendship-is-optimal/0"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 11:10:42",
       "https://news.ycombinator.com/item?id=36239936"
     ],
     [
       "I ditched my car – and improved my fitness, sleep and bank balance",
       "https://www.theguardian.com/lifeandstyle/2023/jun/07/a-moment-that-changed-me-i-ditched-my-car-and-improved-my-fitness-sleep-and-bank-balance"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 10:15:14",
+      "https://news.ycombinator.com/item?id=36239534"
+    ],
+    [
+      "Rust Criticism from a Rustacean",
+      "https://jeang3nie.codeberg.page/rust-criticism-from-rustacean/"
     ]
   ],
   [
@@ -51,22 +101,22 @@
   ],
   [
     [
-      "2023-06-08, 08:15:43",
-      "https://news.ycombinator.com/item?id=36238761"
-    ],
-    [
-      "US solar market is projected to triple in size by 2028",
-      "https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/"
-    ]
-  ],
-  [
-    [
       "2023-06-08, 07:58:50",
       "https://news.ycombinator.com/item?id=36238630"
     ],
     [
       "Reddit will exempt accessibility-focused apps from unpopular API pricing changes",
       "https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 07:12:23",
+      "https://news.ycombinator.com/item?id=36238345"
+    ],
+    [
+      "FOSSY 2023 (Portland): The First Free and Open Source Software Yearly Conference",
+      "https://2023.fossy.us/"
     ]
   ],
   [
@@ -81,12 +131,12 @@
   ],
   [
     [
-      "2023-06-08, 07:00:37",
-      "https://news.ycombinator.com/item?id=36238254"
+      "2023-06-08, 04:47:27",
+      "https://news.ycombinator.com/item?id=36237332"
     ],
     [
-      "SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Product Designers",
-      "https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer"
+      "Web Apps on macOS Sonoma 14 Beta",
+      "https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/"
     ]
   ],
   [
@@ -181,52 +231,12 @@
   ],
   [
     [
-      "2023-06-07, 20:37:25",
-      "https://news.ycombinator.com/item?id=36233187"
+      "2023-06-07, 21:08:59",
+      "https://news.ycombinator.com/item?id=36233613"
     ],
     [
-      "Quick VPN Setup with AWS Lightsail and WireGuard",
-      "https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 20:16:19",
-      "https://news.ycombinator.com/item?id=36232900"
-    ],
-    [
-      "A monolithic operating system in 512 bytes of x86 machine code",
-      "https://github.com/nanochess/bootOS"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 20:13:05",
-      "https://news.ycombinator.com/item?id=36232861"
-    ],
-    [
-      "Mergeable libraries [video]",
-      "https://developer.apple.com/videos/play/wwdc2023/10268"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 20:07:10",
-      "https://news.ycombinator.com/item?id=36232776"
-    ],
-    [
-      "Scientists Guide Lightning Bolts with Lasers for the First Time",
-      "https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 19:15:40",
-      "https://news.ycombinator.com/item?id=36232006"
-    ],
-    [
-      "Ohio cryptic lineage update",
-      "https://twitter.com/SolidEvidence/status/1665444603829407746"
+      "The Cuboid: A DIY air purifier that's better than a box-fan (2021)",
+      "https://dynomight.net/better-DIY-air-purifier.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Farewell American Computer Magazines",
       "https://hackaday.com/2023/06/01/farewell-american-computer-magazines/"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 15:19:50",
-      "https://news.ycombinator.com/item?id=36214199"
-    ],
-    [
-      "Astrud Gilberto has died",
-      "https://www.bbc.com/news/entertainment-arts-65818566"
     ]
   ],
   [
