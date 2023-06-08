@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 07:00:37](https://news.ycombinator.com/item?id=36238254) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2023-06-08, 04:38:39](https://news.ycombinator.com/item?id=36237285) - [Reddit announces plan to lay off 90 workers as subreddits plan mass protest](https://www.sfgate.com/tech/article/reddit-layoffs-90-protest-plan-18140277.php)
 * [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 * [2023-06-08, 02:51:08](https://news.ycombinator.com/item?id=36236569) - [Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
@@ -21,13 +22,12 @@
 * [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Ohio cryptic lineage update](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on GOES East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
+* [2023-06-07, 17:09:14](https://news.ycombinator.com/item?id=36229782) - [Bard is getting better at logic and reasoning](https://blog.google/technology/ai/bard-improved-reasoning-google-sheets-export/)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 09:46:29](https://news.ycombinator.com/item?id=36224809) - [Motorbike crashes: highside and lowside crashes explained](https://www.driverknowledgetests.com/resources/motorbike-crashes-highside-and-lowside-crashes-explained/)
 * [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
-* [2023-06-07, 06:25:48](https://news.ycombinator.com/item?id=36223543) - [Show HN: Keep – Create production alerts from plain English](https://github.com/keephq/keep)
 * [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming culture in the late aughts (2022)](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
-* [2023-06-06, 18:34:38](https://news.ycombinator.com/item?id=36217163) - [Float Compression 9: Lzsse and Lizard](https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 * [2023-06-06, 14:06:23](https://news.ycombinator.com/item?id=36212992) - [Xilem Vector Graphics](https://www.youtube.com/watch?v=XjbVnwBtVEk)
 
