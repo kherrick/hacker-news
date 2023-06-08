@@ -1,6 +1,46 @@
 [
   [
     [
+      "2023-06-08, 00:12:10",
+      "https://news.ycombinator.com/item?id=36235444"
+    ],
+    [
+      "Hashicorp lays off 8% of staff",
+      "https://twitter.com/GergelyOrosz/status/1666569977300647938"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 23:57:16",
+      "https://news.ycombinator.com/item?id=36235338"
+    ],
+    [
+      "C++ Implementation of StableDiffusion",
+      "https://github.com/axodox/axodox-machinelearning"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 23:31:44",
+      "https://news.ycombinator.com/item?id=36235143"
+    ],
+    [
+      "SEC granted emergency restraining order to freeze, repatriate Binance.US assets",
+      "https://www.kitco.com/news/2023-06-07/SEC-granted-emergency-restraining-order-to-freeze-repatriate-Binance-US-assets.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-07, 22:53:30",
+      "https://news.ycombinator.com/item?id=36234790"
+    ],
+    [
+      "Air Quality Monitors: When Paying More Does Not Get You More Accuracy",
+      "https://www.airgradient.com/open-airgradient/blog/expensive-air-quality-monitors-not-more-accurate/"
+    ]
+  ],
+  [
+    [
       "2023-06-07, 22:26:36",
       "https://news.ycombinator.com/item?id=36234510"
     ],
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2023-06-07, 14:44:15",
-      "https://news.ycombinator.com/item?id=36227416"
-    ],
-    [
-      "Hydroflow: Dataflow Runtime in Rust",
-      "https://github.com/hydro-project/hydroflow"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 12:53:17",
       "https://news.ycombinator.com/item?id=36226155"
     ],
@@ -241,12 +271,12 @@
   ],
   [
     [
-      "2023-06-06, 18:34:38",
-      "https://news.ycombinator.com/item?id=36217163"
+      "2023-06-06, 17:38:10",
+      "https://news.ycombinator.com/item?id=36216356"
     ],
     [
-      "Float Compression 9: Lzsse and Lizard",
-      "https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/"
+      "C++ Object Lifetime",
+      "https://www.kdab.com/object-lifetime/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-06-06, 16:18:44",
-      "https://news.ycombinator.com/item?id=36215088"
-    ],
-    [
-      "Show HN: Serverless OLAP with Seafowl and GCP",
-      "https://github.com/splitgraph/seafowl-gcsfuse"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 15:47:53",
-      "https://news.ycombinator.com/item?id=36214654"
-    ],
-    [
-      "Why the Dvorak keyboard didn't take over the world (2014) [video]",
-      "https://www.youtube.com/watch?v=ZnUBl90tayI"
-    ]
-  ],
-  [
-    [
       "2023-06-06, 15:19:50",
       "https://news.ycombinator.com/item?id=36214199"
     ],
     [
       "Astrud Gilberto has died",
       "https://www.bbc.com/news/entertainment-arts-65818566"
-    ]
-  ],
-  [
-    [
-      "2023-06-06, 13:43:50",
-      "https://news.ycombinator.com/item?id=36212632"
-    ],
-    [
-      "Texas Instruments Explorer Computer System (1984) [pdf]",
-      "http://www.typewritten.org/Articles/TI/deeb025.pdf"
     ]
   ]
 ]
