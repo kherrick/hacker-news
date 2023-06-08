@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 12:55:54",
+      "https://news.ycombinator.com/item?id=36241089"
+    ],
+    [
+      "Scientists claim >99 percent identification rate of ChatGPT content",
+      "https://www.theregister.com/2023/06/08/scientists_ai_recognition/"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 12:39:00",
       "https://news.ycombinator.com/item?id=36240885"
     ],
@@ -47,16 +57,6 @@
     [
       "New version of Monica, codename Chandler, is available in beta",
       "https://www.monicahq.com/blog/chandler-is-in-beta"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 10:15:14",
-      "https://news.ycombinator.com/item?id=36239534"
-    ],
-    [
-      "Rust Criticism from a Rustacean",
-      "https://jeang3nie.codeberg.page/rust-criticism-from-rustacean/"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Vivaldi on Android bypasses restrictions to let users access Bing Chat",
       "https://vivaldi.com/blog/vivaldi-on-android-6-1/"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 06:22:12",
+      "https://news.ycombinator.com/item?id=36237979"
+    ],
+    [
+      "Official Apple Design Resources for Figma – iOS 17 and iPadOS 17",
+      "https://www.figma.com/community/file/1248375255495415511/Apple-Design-Resources-–-iOS-17-and-iPadOS-17"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "“Fractureiser” malware in popular Minecraft mods and modpacks",
       "https://prismlauncher.org/news/cf-compromised-alert/"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 20:16:19",
-      "https://news.ycombinator.com/item?id=36232900"
-    ],
-    [
-      "A monolithic operating system in 512 bytes of x86 machine code",
-      "https://github.com/nanochess/bootOS"
     ]
   ],
   [
