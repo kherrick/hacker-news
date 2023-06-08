@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
+* [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 * [2023-06-08, 21:00:41](https://news.ycombinator.com/item?id=36248970) - [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
 * [2023-06-08, 20:51:56](https://news.ycombinator.com/item?id=36248815) - [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
 * [2023-06-08, 20:44:29](https://news.ycombinator.com/item?id=36248695) - [Reddit’s CEO edited comments that criticized him (2016)](https://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments)
