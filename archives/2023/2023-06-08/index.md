@@ -7,6 +7,7 @@
 * [2023-06-08, 21:00:41](https://news.ycombinator.com/item?id=36248970) - [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 20:28:07](https://news.ycombinator.com/item?id=36248446) - [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
+* [2023-06-08, 20:16:26](https://news.ycombinator.com/item?id=36248234) - [Sync will shut down on June 30, 2023](https://old.reddit.com/r/redditsync/comments/144jp3w/sync_will_shut_down_on_june_30_2023/)
 * [2023-06-08, 20:14:26](https://news.ycombinator.com/item?id=36248202) - [Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?](https://hackaday.com/2023/06/08/bye-bye-ubuntu-hello-manjaro-how-did-we-get-here/)
 * [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:04:10](https://news.ycombinator.com/item?id=36246952) - [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
