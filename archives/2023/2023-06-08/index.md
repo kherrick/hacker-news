@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 16:18:25](https://news.ycombinator.com/item?id=36244399) - [Travel across Germany with the 49 Euro ticket](https://49travel.vercel.app/)
+* [2023-06-08, 16:10:49](https://news.ycombinator.com/item?id=36244269) - [Presence of airborne microplastics in human lung tissue](https://www.sciencedirect.com/science/article/abs/pii/S0304389421010888)
+* [2023-06-08, 16:10:00](https://news.ycombinator.com/item?id=36244254) - [Google gets stricter about employees time in office](https://www.wsj.com/articles/google-gets-stricter-about-employees-time-in-office-9a20f2e)
 * [2023-06-08, 15:51:29](https://news.ycombinator.com/item?id=36243955) - [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
+* [2023-06-08, 15:51:22](https://news.ycombinator.com/item?id=36243951) - [AI Browser Extensions Are a Security Nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
 * [2023-06-08, 15:49:06](https://news.ycombinator.com/item?id=36243926) - [Show HN: Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://databasediagram.com)
 * [2023-06-08, 15:39:47](https://news.ycombinator.com/item?id=36243738) - [The paper that came up with Apple Vision Pro's outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
 * [2023-06-08, 15:24:54](https://news.ycombinator.com/item?id=36243455) - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
