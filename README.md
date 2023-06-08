@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-08, 21:00:41](https://news.ycombinator.com/item?id=36248970) - [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
+* [2023-06-08, 20:51:56](https://news.ycombinator.com/item?id=36248815) - [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
 * [2023-06-08, 20:44:29](https://news.ycombinator.com/item?id=36248695) - [Reddit’s CEO edited comments that criticized him (2016)](https://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 20:28:07](https://news.ycombinator.com/item?id=36248446) - [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
@@ -27,7 +28,6 @@
 * [2023-06-08, 06:56:04](https://news.ycombinator.com/item?id=36238222) - [Knight vs. Snail (2013)](https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html)
 * [2023-06-08, 06:49:48](https://news.ycombinator.com/item?id=36238170) - [The Case of the Missing SIMD Code](https://optidash.ai/blog/the-case-of-the-missing-simd-code)
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc](http://www.bricklin.com/visicalc.htm)
-* [2023-06-07, 23:42:40](https://news.ycombinator.com/item?id=36235232) - [The Oldest Maps in the World](https://www.laphamsquarterly.org/roundtable/oldest-maps-world)
 * [2023-06-07, 20:49:35](https://news.ycombinator.com/item?id=36233345) - [‘Elixir’ Review: Perfume and Science in Paris](https://www.wsj.com/articles/elixir-review-perfume-and-science-in-paris-f04486b4)
 * [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
 
