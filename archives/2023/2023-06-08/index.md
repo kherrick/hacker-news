@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 15:51:29](https://news.ycombinator.com/item?id=36243955) - [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
+* [2023-06-08, 15:49:06](https://news.ycombinator.com/item?id=36243926) - [Show HN: Databasediagram.com – Private, Text to Entity-Relationship Diagram Tool](https://databasediagram.com)
+* [2023-06-08, 15:39:47](https://news.ycombinator.com/item?id=36243738) - [The paper that came up with Apple Vision Pro's outward-facing display [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
 * [2023-06-08, 15:24:54](https://news.ycombinator.com/item?id=36243455) - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
 * [2023-06-08, 15:19:39](https://news.ycombinator.com/item?id=36243360) - [Tesla plans for 375,000 Cybertrucks per year](https://electrek.co/2023/06/08/tesla-plans-375000-cybertrucks-per-year-release-candidates-late-august/)
 * [2023-06-08, 14:57:58](https://news.ycombinator.com/item?id=36242944) - [Ask HN: How can a junior dev maximize their income?](https://news.ycombinator.com/item?id=36242944)
