@@ -33,6 +33,7 @@
 * [2023-06-06, 17:06:52](https://news.ycombinator.com/item?id=36215914) - [Reddit permanently bans account of user advocating Lemmy migration](https://lemmy.ml/post/1152281)
 * [2023-06-06, 17:00:18](https://news.ycombinator.com/item?id=36215816) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-06, 16:50:34](https://news.ycombinator.com/item?id=36215651) - [GGML – AI at the Edge](http://ggml.ai)
+* [2023-06-06, 16:46:31](https://news.ycombinator.com/item?id=36215595) - [Why It Costs Up to $30M to Convert a Passenger Plane to Cargo](https://www.youtube.com/watch?v=9FDznXX-F7w)
 * [2023-06-06, 16:33:25](https://news.ycombinator.com/item?id=36215357) - [SwiftData](https://developer.apple.com/documentation/SwiftData)
 * [2023-06-06, 16:26:13](https://news.ycombinator.com/item?id=36215222) - [Beware the Man of Many Studies](https://cremieux.substack.com/p/beware-the-man-of-many-studies)
 * [2023-06-06, 16:23:31](https://news.ycombinator.com/item?id=36215180) - [Quantum visualization technique gives insight into photosynthesis](https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html)

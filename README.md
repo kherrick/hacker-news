@@ -19,7 +19,6 @@
 * [2023-06-07, 20:16:19](https://news.ycombinator.com/item?id=36232900) - [A monolithic operating system in 512 bytes of x86 machine code](https://github.com/nanochess/bootOS)
 * [2023-06-07, 20:13:05](https://news.ycombinator.com/item?id=36232861) - [Mergeable libraries [video]](https://developer.apple.com/videos/play/wwdc2023/10268)
 * [2023-06-07, 20:07:10](https://news.ycombinator.com/item?id=36232776) - [Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
-* [2023-06-07, 19:38:56](https://news.ycombinator.com/item?id=36232348) - [Show HN: Ezno, a TypeScript checker written in Rust, is now open source](https://github.com/kaleidawave/ezno/discussions/21)
 * [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Ohio cryptic lineage update](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on GOES East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
 * [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
@@ -28,6 +27,7 @@
 * [2023-06-07, 08:29:55](https://news.ycombinator.com/item?id=36224356) - [Farewell American Computer Magazines](https://hackaday.com/2023/06/01/farewell-american-computer-magazines/)
 * [2023-06-06, 23:55:58](https://news.ycombinator.com/item?id=36220809) - [Trespassing on Edith Wharton](https://www.theparisreview.org/blog/2023/06/05/trespassing-on-edith-wharton/)
 * [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming culture in the late aughts (2022)](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
+* [2023-06-06, 16:46:31](https://news.ycombinator.com/item?id=36215595) - [Why It Costs Up to $30M to Convert a Passenger Plane to Cargo](https://www.youtube.com/watch?v=9FDznXX-F7w)
 * [2023-06-06, 15:19:50](https://news.ycombinator.com/item?id=36214199) - [Astrud Gilberto has died](https://www.bbc.com/news/entertainment-arts-65818566)
 * [2023-06-06, 14:06:23](https://news.ycombinator.com/item?id=36212992) - [Xilem Vector Graphics [video]](https://www.youtube.com/watch?v=XjbVnwBtVEk)
 
