@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-08, 02:51:50",
+      "https://news.ycombinator.com/item?id=36236578"
+    ],
+    [
+      "Autocomplete – a JavaScript library for building autocomplete experiences",
+      "https://github.com/algolia/autocomplete"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 02:51:08",
       "https://news.ycombinator.com/item?id=36236569"
     ],
@@ -77,16 +87,6 @@
     [
       "CodeTF: One-Stop Transformer Library for State-of-the-Art Code LLM",
       "https://arxiv.org/abs/2306.00029"
-    ]
-  ],
-  [
-    [
-      "2023-06-07, 21:32:49",
-      "https://news.ycombinator.com/item?id=36233862"
-    ],
-    [
-      "Rust module system encourages bad practices",
-      "https://dmitryfrank.com/articles/rust_module_system_encourages_bad_practices"
     ]
   ],
   [
