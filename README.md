@@ -2,6 +2,7 @@
 
 * [2023-06-08, 09:23:36](https://news.ycombinator.com/item?id=36239212) - [Patterns of mean-level change in personality traits across the life course](https://pubmed.ncbi.nlm.nih.gov/16435954/)
 * [2023-06-08, 09:20:36](https://news.ycombinator.com/item?id=36239195) - [The guide to software development with Guix](https://guix.gnu.org/blog/2023/from-development-environments-to-continuous-integrationthe-ultimate-guide-to-software-development-with-guix/)
+* [2023-06-08, 09:17:43](https://news.ycombinator.com/item?id=36239175) - [fe: A tiny, embeddable language implemented in ANSI C](https://github.com/rxi/fe)
 * [2023-06-08, 08:51:08](https://news.ycombinator.com/item?id=36238986) - [HashiCorp just let go 8%](https://twitter.com/GergelyOrosz/status/1666566948509843456)
 * [2023-06-08, 08:15:43](https://news.ycombinator.com/item?id=36238761) - [the US solar market is projected to triple in size by 2028](https://electrek.co/2023/06/07/us-solar-market-projected-to-triple-in-size-over-the-next-5-years/)
 * [2023-06-08, 07:12:14](https://news.ycombinator.com/item?id=36238342) - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
@@ -22,7 +23,6 @@
 * [2023-06-07, 20:07:10](https://news.ycombinator.com/item?id=36232776) - [Scientists Guide Lightning Bolts with Lasers for the First Time](https://www.smithsonianmag.com/smart-news/scientists-guide-lightning-bolts-with-lasers-for-the-first-time-180981462/)
 * [2023-06-07, 19:15:40](https://news.ycombinator.com/item?id=36232006) - [Ohio cryptic lineage update](https://twitter.com/SolidEvidence/status/1665444603829407746)
 * [2023-06-07, 19:11:36](https://news.ycombinator.com/item?id=36231941) - [Wildfire Smoke in Northeastern US Visible on GOES East Images](https://www.star.nesdis.noaa.gov/GOES/sector.php?sat=G16&sector=ne)
-* [2023-06-07, 18:33:48](https://news.ycombinator.com/item?id=36231313) - [Windows 11 calls a zip file a 'postcode file' in UK English](https://twitter.com/JymFox/status/1665799627377975300)
 * [2023-06-07, 15:31:27](https://news.ycombinator.com/item?id=36228125) - [Deepmind Alphadev: Faster sorting algorithms discovered using deep RL](https://www.nature.com/articles/s41586-023-06004-9)
 * [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 10:51:59](https://news.ycombinator.com/item?id=36225230) - [Math Has Changed the Shape of Gerrymandering](https://www.quantamagazine.org/how-math-has-changed-the-shape-of-gerrymandering-20230601/)
