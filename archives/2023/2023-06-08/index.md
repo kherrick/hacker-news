@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 15:19:39](https://news.ycombinator.com/item?id=36243360) - [Tesla plans for 375,000 Cybertrucks per year](https://electrek.co/2023/06/08/tesla-plans-375000-cybertrucks-per-year-release-candidates-late-august/)
 * [2023-06-08, 14:57:58](https://news.ycombinator.com/item?id=36242944) - [Ask HN: How can a junior dev maximize their income?](https://news.ycombinator.com/item?id=36242944)
 * [2023-06-08, 14:30:39](https://news.ycombinator.com/item?id=36242462) - [Lawyer Who Used ChatGPT Faces Penalty for Made Up Citations](https://www.nytimes.com/2023/06/08/nyregion/lawyer-chatgpt-sanctions.html)
 * [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [How to Clear 500k Feral Cats from New York’s Streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
