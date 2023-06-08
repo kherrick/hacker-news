@@ -77,6 +77,7 @@
 * [2023-06-07, 05:45:07](https://news.ycombinator.com/item?id=36223307) - [AI images outperforming photos on Adobe Stock (17 cent RPI/m VS 3.75 cent)](https://www.stockperformer.com/blog/is-ai-killing-the-stock-industry-a-data-perspective/)
 * [2023-06-07, 05:41:59](https://news.ycombinator.com/item?id=36223283) - [“csinc”, the AArch64 instruction you didn’t know you wanted](https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/)
 * [2023-06-07, 05:41:10](https://news.ycombinator.com/item?id=36223278) - [The Hindu supremacist movement is a growing threat in the U.S.](https://prismreports.org/2023/05/30/hindu-supremacist-movement-growing-threat/)
+* [2023-06-07, 05:36:37](https://news.ycombinator.com/item?id=36223257) - [The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
 * [2023-06-07, 04:18:42](https://news.ycombinator.com/item?id=36222769) - [The Birth of the Grid](https://www.construction-physics.com/p/the-birth-of-the-grid)
 * [2023-06-07, 03:52:48](https://news.ycombinator.com/item?id=36222625) - [Royal Navy Says Quantum Navigation Test a Success](https://thequantuminsider.com/2023/06/06/royal-navy-says-quantum-navigation-test-a-success/)
 * [2023-06-07, 02:49:26](https://news.ycombinator.com/item?id=36222266) - [DirectX 12 Support on macOS](https://twitter.com/andytizer/status/1666131239575728130)

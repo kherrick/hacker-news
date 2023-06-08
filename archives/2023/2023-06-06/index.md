@@ -6,6 +6,7 @@
 
 * [2023-06-06, 23:59:45](https://news.ycombinator.com/item?id=36220836) - [We should not let the Earth overheat](https://caseyhandmer.wordpress.com/2023/06/06/we-should-not-let-the-earth-overheat/)
 * [2023-06-06, 21:55:05](https://news.ycombinator.com/item?id=36219585) - [Notes on Vision Pro](https://notes.andymatuschak.org/Vision%20Pro)
+* [2023-06-06, 21:20:11](https://news.ycombinator.com/item?id=36219260) - [Programming Culture in the Late Aughts](https://morepablo.com/2022/11/programming-culture-in-the-late-aughts.html)
 * [2023-06-06, 21:12:03](https://news.ycombinator.com/item?id=36219181) - [Swift Ownership Manifesto](https://github.com/apple/swift/blob/main/docs/OwnershipManifesto.md)
 * [2023-06-06, 21:00:18](https://news.ycombinator.com/item?id=36219051) - [Tesorio (YC S15) Is Hiring Back End Engineers, DevOps and Head of Marketing](https://www.tesorio.com/careers#job-openings)
 * [2023-06-06, 20:49:31](https://news.ycombinator.com/item?id=36218932) - [SEC asks for emergency order to freeze Binance US assets anywhere in the world](https://www.cnbc.com/2023/06/06/sec-asks-for-emergency-order-to-freeze-binance-us-assets-anywhere-in-the-world.html)
