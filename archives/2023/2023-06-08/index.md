@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 18:26:02](https://news.ycombinator.com/item?id=36246398) - [Reddit is Fun will shut down on June 30th in response to Reddit API changes](https://old.reddit.com/r/redditisfun/comments/144gmfq/rif_will_shut_down_on_june_30_2023_in_response_to/)
 * [2023-06-08, 18:19:53](https://news.ycombinator.com/item?id=36246309) - [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-08, 18:17:49](https://news.ycombinator.com/item?id=36246274) - [Docsis 4.0 Certification Available](https://www.cablelabs.com/news/docsis-4-0-certification-available)
 * [2023-06-08, 18:06:55](https://news.ycombinator.com/item?id=36246106) - [Could seaweed be the 'fastest and least expensive' tool to fight climate change?](https://www.nationalgeographic.com/environment/article/seaweed-fastest-least-expensive-tool-climate-change)

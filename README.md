@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-08, 18:26:02](https://news.ycombinator.com/item?id=36246398) - [Reddit is Fun will shut down on June 30th in response to Reddit API changes](https://old.reddit.com/r/redditisfun/comments/144gmfq/rif_will_shut_down_on_june_30_2023_in_response_to/)
 * [2023-06-08, 18:19:53](https://news.ycombinator.com/item?id=36246309) - [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-08, 18:17:49](https://news.ycombinator.com/item?id=36246274) - [Docsis 4.0 Certification Available](https://www.cablelabs.com/news/docsis-4-0-certification-available)
 * [2023-06-08, 18:06:55](https://news.ycombinator.com/item?id=36246106) - [Could seaweed be the 'fastest and least expensive' tool to fight climate change?](https://www.nationalgeographic.com/environment/article/seaweed-fastest-least-expensive-tool-climate-change)
@@ -28,7 +29,6 @@
 * [2023-06-07, 23:42:40](https://news.ycombinator.com/item?id=36235232) - [The Oldest Maps in the World](https://www.laphamsquarterly.org/roundtable/oldest-maps-world)
 * [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
 * [2023-06-07, 12:28:57](https://news.ycombinator.com/item?id=36225945) - [Languages Zoo](https://blog.fogus.me/2023/06/02/languages-zoo/)
-* [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 * [2023-06-07, 05:36:37](https://news.ycombinator.com/item?id=36223257) - [The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
 
 ## [Archives](archives/index.md)
