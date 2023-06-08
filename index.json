@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-08, 12:20:04",
+      "https://news.ycombinator.com/item?id=36240652"
+    ],
+    [
+      "Another cluster of potentially malicious Chrome extensions",
+      "https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 12:02:55",
+      "https://news.ycombinator.com/item?id=36240445"
+    ],
+    [
+      "We can ID people from DNA that shows up in environmental studies",
+      "https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/"
+    ]
+  ],
+  [
+    [
       "2023-06-08, 12:00:57",
       "https://news.ycombinator.com/item?id=36240425"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2023-06-08, 11:52:18",
-      "https://news.ycombinator.com/item?id=36240328"
-    ],
-    [
-      "Facial masculinity and beardedness determine ratings of men's attractiveness",
-      "https://onlinelibrary.wiley.com/doi/10.1111/jeb.12958"
-    ]
-  ],
-  [
-    [
       "2023-06-08, 11:42:19",
       "https://news.ycombinator.com/item?id=36240222"
     ],
     [
       "New version of Monica, codename Chandler, is available in beta",
       "https://www.monicahq.com/blog/chandler-is-in-beta"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 11:24:29",
-      "https://news.ycombinator.com/item?id=36240053"
-    ],
-    [
-      "My Little Pony: Friendship Is Optimal (2012)",
-      "https://fimfetch.net/story/62074/friendship-is-optimal/0"
     ]
   ],
   [
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2023-06-08, 07:58:50",
-      "https://news.ycombinator.com/item?id=36238630"
+      "2023-06-08, 08:46:54",
+      "https://news.ycombinator.com/item?id=36238958"
     ],
     [
-      "Reddit will exempt accessibility-focused apps from unpopular API pricing changes",
-      "https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes"
+      "US CDC sets first federal target for ventilation of indoor air to lower risk",
+      "https://www.cnn.com/2023/05/12/health/cdc-new-ventilation-target/index.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-06-07, 21:08:59",
-      "https://news.ycombinator.com/item?id=36233613"
-    ],
-    [
-      "The Cuboid: A DIY air purifier that's better than a box-fan (2021)",
-      "https://dynomight.net/better-DIY-air-purifier.html"
-    ]
-  ],
-  [
-    [
       "2023-06-07, 19:11:36",
       "https://news.ycombinator.com/item?id=36231941"
     ],
@@ -287,6 +277,16 @@
     [
       "Farewell American Computer Magazines",
       "https://hackaday.com/2023/06/01/farewell-american-computer-magazines/"
+    ]
+  ],
+  [
+    [
+      "2023-06-06, 18:34:38",
+      "https://news.ycombinator.com/item?id=36217163"
+    ],
+    [
+      "Float Compression 9: Lzsse and Lizard",
+      "https://aras-p.info/blog/2023/04/18/Float-Compression-9-LZSSE-and-Lizard/"
     ]
   ],
   [
