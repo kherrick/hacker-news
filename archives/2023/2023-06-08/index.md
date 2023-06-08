@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 05:58:51](https://news.ycombinator.com/item?id=36237800) - [Wildfire Smoke Engulfs New York City, Breaking Pollution Records](https://atlasalpha.serenebase.com/post?recordId=rec5YRAg4rgw5iBGR)
 * [2023-06-08, 04:38:39](https://news.ycombinator.com/item?id=36237285) - [Reddit announces plan to lay off 90 workers as subreddits plan mass protest](https://www.sfgate.com/tech/article/reddit-layoffs-90-protest-plan-18140277.php)
 * [2023-06-08, 02:51:50](https://news.ycombinator.com/item?id=36236578) - [Autocomplete – a JavaScript library for building autocomplete experiences](https://github.com/algolia/autocomplete)
 * [2023-06-08, 02:51:08](https://news.ycombinator.com/item?id=36236569) - [Tailscale doesn't want your password](https://tailscale.com/blog/passkeys/)
