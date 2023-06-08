@@ -7,7 +7,6 @@
 * [2023-06-08, 18:36:55](https://news.ycombinator.com/item?id=36246550) - [Synthesis Tutor – Your child’s own superhuman math tutor](https://www.synthesis.com/tutor)
 * [2023-06-08, 18:28:54](https://news.ycombinator.com/item?id=36246440) - [The US is building factories at a wildly fast rate](https://www.businessinsider.com/us-building-factories-census-data-chips-act-inflation-reduction-act-2023-6)
 * [2023-06-08, 18:19:53](https://news.ycombinator.com/item?id=36246309) - [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
-* [2023-06-08, 18:17:49](https://news.ycombinator.com/item?id=36246274) - [Docsis 4.0 Certification Available](https://www.cablelabs.com/news/docsis-4-0-certification-available)
 * [2023-06-08, 18:06:55](https://news.ycombinator.com/item?id=36246106) - [Could seaweed be the 'fastest and least expensive' tool to fight climate change?](https://www.nationalgeographic.com/environment/article/seaweed-fastest-least-expensive-tool-climate-change)
 * [2023-06-08, 17:46:48](https://news.ycombinator.com/item?id=36245786) - [Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
@@ -30,6 +29,7 @@
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc](http://www.bricklin.com/visicalc.htm)
 * [2023-06-07, 23:42:40](https://news.ycombinator.com/item?id=36235232) - [The Oldest Maps in the World](https://www.laphamsquarterly.org/roundtable/oldest-maps-world)
 * [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
+* [2023-06-07, 05:36:37](https://news.ycombinator.com/item?id=36223257) - [The culprit behind the 1871 vandalism of the Paleozoic Museum](https://arstechnica.com/science/2023/06/the-real-culprit-behind-the-1871-vandalism-of-the-paleozoic-museum-in-central-park/)
 
 ## [Archives](archives/index.md)
 
