@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-08](index.md)
 
+* [2023-06-08, 18:28:54](https://news.ycombinator.com/item?id=36246440) - [The US is building factories at a wildly fast rate](https://www.businessinsider.com/us-building-factories-census-data-chips-act-inflation-reduction-act-2023-6)
 * [2023-06-08, 18:26:02](https://news.ycombinator.com/item?id=36246398) - [Reddit is Fun will shut down on June 30th in response to Reddit API changes](https://old.reddit.com/r/redditisfun/comments/144gmfq/rif_will_shut_down_on_june_30_2023_in_response_to/)
 * [2023-06-08, 18:19:53](https://news.ycombinator.com/item?id=36246309) - [Framework Laptop 16 Deep Dive: 180W Power Adapter](https://frame.work/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-08, 18:17:49](https://news.ycombinator.com/item?id=36246274) - [Docsis 4.0 Certification Available](https://www.cablelabs.com/news/docsis-4-0-certification-available)
@@ -63,6 +64,7 @@
 * [2023-06-08, 07:12:14](https://news.ycombinator.com/item?id=36238342) - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)
 * [2023-06-08, 07:00:37](https://news.ycombinator.com/item?id=36238254) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Product Designers](https://www.ycombinator.com/companies/signoz/jobs/hnlEENe-product-designer)
 * [2023-06-08, 06:56:04](https://news.ycombinator.com/item?id=36238222) - [Knight vs. Snail (2013)](https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html)
+* [2023-06-08, 06:49:48](https://news.ycombinator.com/item?id=36238170) - [The Case of the Missing SIMD Code](https://optidash.ai/blog/the-case-of-the-missing-simd-code)
 * [2023-06-08, 06:22:12](https://news.ycombinator.com/item?id=36237979) - [Official Apple Design Resources for Figma – iOS 17 and iPadOS 17](https://www.figma.com/community/file/1248375255495415511/Apple-Design-Resources-–-iOS-17-and-iPadOS-17)
 * [2023-06-08, 05:58:51](https://news.ycombinator.com/item?id=36237800) - [Wildfire Smoke Engulfs New York City, Breaking Pollution Records](https://atlasalpha.serenebase.com/post?recordId=rec5YRAg4rgw5iBGR)
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc](http://www.bricklin.com/visicalc.htm)
