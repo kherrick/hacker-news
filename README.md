@@ -22,12 +22,12 @@
 * [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 * [2023-06-08, 16:30:03](https://news.ycombinator.com/item?id=36244591) - [Why you’re going about recovering from perfectionism all wrong (2021)](https://candrews.medium.com/why-youre-going-about-recovering-from-perfectionism-all-wrong-b747dea3981f)
 * [2023-06-08, 16:28:24](https://news.ycombinator.com/item?id=36244565) - [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
-* [2023-06-08, 15:51:22](https://news.ycombinator.com/item?id=36243951) - [AI browser extensions are a security nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
 * [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [Clearing 500k feral cats from New York’s streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 14:07:49](https://news.ycombinator.com/item?id=36242125) - [Launch HN: Infield (YC W20) – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
 * [2023-06-08, 13:43:54](https://news.ycombinator.com/item?id=36241768) - [The Last Egg](https://brr.fyi/posts/the-last-egg)
 * [2023-06-08, 12:25:15](https://news.ycombinator.com/item?id=36240712) - [Show HN: Spaik Lisp Version 0.3](https://github.com/snyball/spaik)
 * [2023-06-08, 12:11:28](https://news.ycombinator.com/item?id=36240547) - [The Icelandic Saga Database](https://www.sagadb.org/)
+* [2023-06-08, 08:13:35](https://news.ycombinator.com/item?id=36238736) - [Making a Single Bolt for an F1 Car Takes an Insane Amount of Work](https://www.thedrive.com/news/making-a-single-bolt-for-an-f1-car-takes-an-insane-amount-of-work)
 * [2023-06-08, 07:27:01](https://news.ycombinator.com/item?id=36238438) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)
 * [2023-06-08, 06:21:15](https://news.ycombinator.com/item?id=36237969) - [The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
 
