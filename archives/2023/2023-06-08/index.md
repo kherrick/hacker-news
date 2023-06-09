@@ -25,6 +25,7 @@
 * [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:30:08](https://news.ycombinator.com/item?id=36247404) - [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 * [2023-06-08, 19:04:10](https://news.ycombinator.com/item?id=36246952) - [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
+* [2023-06-08, 19:03:27](https://news.ycombinator.com/item?id=36246943) - [Build your own lazy operation evaluator in Elixir](https://www.germanvelasco.com/blog/build-your-own-lazy-operation-evaluator-in-elixir)
 * [2023-06-08, 19:03:02](https://news.ycombinator.com/item?id=36246937) - [Join our CEO to discuss the API](https://old.reddit.com/r/reddit/comments/144ho2x/join_our_ceo_tomorrow_to_discuss_the_api/)
 * [2023-06-08, 18:54:57](https://news.ycombinator.com/item?id=36246816) - [Ask HN: How many of you have been laid of twice this year already?](https://news.ycombinator.com/item?id=36246816)
 * [2023-06-08, 18:50:36](https://news.ycombinator.com/item?id=36246750) - [Taurine Deficiency as a Driver of Aging](https://www.science.org/doi/10.1126/science.abn9257)
