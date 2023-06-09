@@ -39,6 +39,7 @@
 * [2023-06-08, 17:21:17](https://news.ycombinator.com/item?id=36245408) - [Cracking Open and Controlling a 747 Fuel Gauge](https://bikerglen.com/blog/fuel-gauge-ac-motor-pid-loop/)
 * [2023-06-08, 17:00:41](https://news.ycombinator.com/item?id=36245102) - [Aviator (YC S21) is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2023-06-08, 16:48:00](https://news.ycombinator.com/item?id=36244886) - [Show HN: Tremor 3.0 – The open-source library to build dashboards fast](https://www.tremor.so/changelog)
+* [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 * [2023-06-08, 16:28:24](https://news.ycombinator.com/item?id=36244565) - [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
 * [2023-06-08, 16:18:25](https://news.ycombinator.com/item?id=36244399) - [Travel across Germany with the 49 Euro ticket](https://49travel.vercel.app/)
 * [2023-06-08, 16:10:49](https://news.ycombinator.com/item?id=36244269) - [Presence of airborne microplastics in human lung tissue](https://www.sciencedirect.com/science/article/abs/pii/S0304389421010888)
