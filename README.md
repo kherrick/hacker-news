@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-09, 19:06:57](https://news.ycombinator.com/item?id=36262548) - [Reddit won’t budge on the API changes that are shutting down apps like Apollo](https://www.theverge.com/2023/6/9/23755640/reddit-api-changes-apps-apollo-shut-down-ama-spez-steve-huffman)
 * [2023-06-09, 17:56:08](https://news.ycombinator.com/item?id=36261492) - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 16:56:23](https://news.ycombinator.com/item?id=36260663) - [Store your epoch times as 64-bit floats](https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html)
@@ -21,6 +20,7 @@
 * [2023-06-09, 12:40:27](https://news.ycombinator.com/item?id=36256987) - [Functional Python Programming](https://docs.python.org/3/howto/functional.html)
 * [2023-06-09, 12:40:16](https://news.ycombinator.com/item?id=36256985) - [I bought the only physical encyclopedia still in print](https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/)
 * [2023-06-09, 12:31:37](https://news.ycombinator.com/item?id=36256869) - [U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning](https://dl.acm.org/doi/10.1145/3589246.3595371)
+* [2023-06-09, 12:03:21](https://news.ycombinator.com/item?id=36256538) - [Show HN: Governments on GitHub](https://ui.rilldata.com/danthelion/governments-on-github-dashboard/repos_with_orgs_model_dashboard)
 * [2023-06-09, 09:46:40](https://news.ycombinator.com/item?id=36255524) - [Army tested 'germ warfare' on NYC subway (2015)](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
 * [2023-06-09, 06:37:03](https://news.ycombinator.com/item?id=36254135) - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
 * [2023-06-09, 02:21:43](https://news.ycombinator.com/item?id=36252310) - [Acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
