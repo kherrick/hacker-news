@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 16:20:54](https://news.ycombinator.com/item?id=36260140) - [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)
 * [2023-06-09, 16:18:37](https://news.ycombinator.com/item?id=36260116) - [Royal Mail issues Warhammer stamps celebrating 40 year anniversary](https://shop.royalmail.com/special-stamp-issues/warhammer)
 * [2023-06-09, 16:06:33](https://news.ycombinator.com/item?id=36259930) - [Archive Your Reddit Data Before It's Too Late](https://xavd.id/blog/post/archive-your-reddit-data/)
 * [2023-06-09, 15:54:23](https://news.ycombinator.com/item?id=36259745) - [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
@@ -7,7 +8,6 @@
 * [2023-06-09, 15:04:14](https://news.ycombinator.com/item?id=36258905) - [How the DEA Scrubbed Thomas Jefferson's Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
 * [2023-06-09, 15:02:56](https://news.ycombinator.com/item?id=36258882) - [Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
 * [2023-06-09, 14:58:08](https://news.ycombinator.com/item?id=36258801) - [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
-* [2023-06-09, 14:31:17](https://news.ycombinator.com/item?id=36258373) - [More Startups Throw in the Towel, Unable to Raise Money for Their Ideas](https://www.wsj.com/articles/more-startups-throw-in-the-towel-unable-to-raise-money-for-their-ideas-eff8305b)
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:04:59](https://news.ycombinator.com/item?id=36257981) - [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
