@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
 * [2023-06-09, 20:00:04](https://news.ycombinator.com/item?id=36263349) - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
+* [2023-06-09, 19:54:52](https://news.ycombinator.com/item?id=36263283) - [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
 * [2023-06-09, 19:43:25](https://news.ycombinator.com/item?id=36263105) - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
 * [2023-06-09, 19:24:52](https://news.ycombinator.com/item?id=36262821) - [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
 * [2023-06-09, 19:20:54](https://news.ycombinator.com/item?id=36262765) - [Have you noticed how much shit the internet has become now? (2007)](https://old.sage.moe/g/thread/721239)

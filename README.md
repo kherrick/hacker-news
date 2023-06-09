@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-09, 20:00:04](https://news.ycombinator.com/item?id=36263349) - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
+* [2023-06-09, 19:54:52](https://news.ycombinator.com/item?id=36263283) - [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
 * [2023-06-09, 19:43:25](https://news.ycombinator.com/item?id=36263105) - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
 * [2023-06-09, 19:24:52](https://news.ycombinator.com/item?id=36262821) - [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
 * [2023-06-09, 19:20:54](https://news.ycombinator.com/item?id=36262765) - [Have you noticed how much shit the internet has become now? (2007)](https://old.sage.moe/g/thread/721239)
@@ -17,7 +18,6 @@
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
 * [2023-06-09, 13:29:54](https://news.ycombinator.com/item?id=36257545) - [Lawyers blame ChatGPT for tricking them into citing bogus case law](https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b)
-* [2023-06-09, 13:28:26](https://news.ycombinator.com/item?id=36257523) - [The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
 * [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Gravitational Machines](https://arxiv.org/abs/2305.10470)
 * [2023-06-09, 12:40:27](https://news.ycombinator.com/item?id=36256987) - [Functional Python Programming](https://docs.python.org/3/howto/functional.html)
 * [2023-06-09, 12:40:16](https://news.ycombinator.com/item?id=36256985) - [I bought the only physical encyclopedia still in print](https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/)
