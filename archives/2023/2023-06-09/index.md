@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 19:06:57](https://news.ycombinator.com/item?id=36262548) - [Reddit won’t budge on the API changes that are shutting down apps like Apollo](https://www.theverge.com/2023/6/9/23755640/reddit-api-changes-apps-apollo-shut-down-ama-spez-steve-huffman)
 * [2023-06-09, 18:25:11](https://news.ycombinator.com/item?id=36261950) - [JPMorgan’s Jamie Dimon sought for second interview in Jeffrey Epstein lawsuit](https://www.ft.com/content/fd62842c-5a01-4c7f-9a39-bf0677fc3222)
 * [2023-06-09, 18:23:23](https://news.ycombinator.com/item?id=36261909) - [Re: I Don't Use Copilot](https://vivekhaldar.com/articles/re--why-i-don-t-use-copilot/)
 * [2023-06-09, 17:59:03](https://news.ycombinator.com/item?id=36261537) - [Microsoft officially supports running Windows 11 on M1 and M2 Macs](https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/)
@@ -11,6 +12,7 @@
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens’ data (including Erdogan) are online after govt site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
 * [2023-06-09, 17:28:12](https://news.ycombinator.com/item?id=36261069) - [OpenAI faces defamation suit after ChatGPT fabricated another lawsuit](https://arstechnica.com/tech-policy/2023/06/openai-sued-for-defamation-after-chatgpt-fabricated-yet-another-lawsuit/)
+* [2023-06-09, 16:56:23](https://news.ycombinator.com/item?id=36260663) - [Store your epoch times as 64-bit floats](https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html)
 * [2023-06-09, 16:54:03](https://news.ycombinator.com/item?id=36260626) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 * [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
 * [2023-06-09, 16:36:27](https://news.ycombinator.com/item?id=36260365) - [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
