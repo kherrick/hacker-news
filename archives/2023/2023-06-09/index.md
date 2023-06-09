@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
 * [2023-06-09, 06:42:12](https://news.ycombinator.com/item?id=36254172) - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
+* [2023-06-09, 06:31:28](https://news.ycombinator.com/item?id=36254086) - [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
 * [2023-06-09, 05:45:46](https://news.ycombinator.com/item?id=36253769) - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
 * [2023-06-09, 05:22:29](https://news.ycombinator.com/item?id=36253591) - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 * [2023-06-09, 05:01:14](https://news.ycombinator.com/item?id=36253422) - [How's the Stack Overflow strike going?](https://jlericson.com/2023/06/07/strike_progress.html)

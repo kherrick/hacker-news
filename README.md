@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-09, 06:42:12](https://news.ycombinator.com/item?id=36254172) - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
+* [2023-06-09, 06:31:28](https://news.ycombinator.com/item?id=36254086) - [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
 * [2023-06-09, 05:45:46](https://news.ycombinator.com/item?id=36253769) - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
 * [2023-06-09, 05:22:29](https://news.ycombinator.com/item?id=36253591) - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 * [2023-06-09, 04:17:15](https://news.ycombinator.com/item?id=36253067) - [Adventures in Debian's Qt Land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
@@ -29,7 +30,6 @@
 * [2023-06-08, 07:27:01](https://news.ycombinator.com/item?id=36238438) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)
 * [2023-06-08, 06:21:15](https://news.ycombinator.com/item?id=36237969) - [The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc (1999-2018)](http://www.bricklin.com/visicalc.htm)
-* [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
 
 ## [Archives](archives/index.md)
 
