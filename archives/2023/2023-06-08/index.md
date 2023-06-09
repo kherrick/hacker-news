@@ -71,6 +71,7 @@
 * [2023-06-08, 12:29:51](https://news.ycombinator.com/item?id=36240769) - [Supabase Vector, the Open Source Vector Toolkit for Postgres](https://supabase.com/vector)
 * [2023-06-08, 12:25:15](https://news.ycombinator.com/item?id=36240712) - [Show HN: Spaik Lisp Version 0.3](https://github.com/snyball/spaik)
 * [2023-06-08, 12:20:04](https://news.ycombinator.com/item?id=36240652) - [Another cluster of potentially malicious Chrome extensions](https://palant.info/2023/06/08/another-cluster-of-potentially-malicious-chrome-extensions/)
+* [2023-06-08, 12:11:28](https://news.ycombinator.com/item?id=36240547) - [The Icelandic Saga Database](https://www.sagadb.org/)
 * [2023-06-08, 12:02:55](https://news.ycombinator.com/item?id=36240445) - [We can ID people from DNA that shows up in environmental studies](https://arstechnica.com/science/2023/05/human-genomic-bycatch-our-dna-shows-up-in-environmental-samples/)
 * [2023-06-08, 12:00:57](https://news.ycombinator.com/item?id=36240425) - [GiveCampus (YC S15) Is Hiring Senior Software Engineers for Education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-08, 11:52:18](https://news.ycombinator.com/item?id=36240328) - [Facial masculinity and beardedness determine ratings of men's attractiveness](https://onlinelibrary.wiley.com/doi/10.1111/jeb.12958)
