@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 15:04:14](https://news.ycombinator.com/item?id=36258905) - [How the DEA Scrubbed Thomas Jefferson's Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
 * [2023-06-09, 14:58:08](https://news.ycombinator.com/item?id=36258801) - [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:04:59](https://news.ycombinator.com/item?id=36257981) - [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
