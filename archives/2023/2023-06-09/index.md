@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
 * [2023-06-09, 20:26:33](https://news.ycombinator.com/item?id=36263691) - [Apple should pull the plug on the iPhone (2007)](https://www.marketwatch.com/story/apple-should-pull-the-plug-on-the-iphone)
+* [2023-06-09, 20:23:11](https://news.ycombinator.com/item?id=36263654) - [The Opt Out Project](https://www.optoutproject.net/)
 * [2023-06-09, 20:06:43](https://news.ycombinator.com/item?id=36263438) - [Shingles vaccination may reduce dementia risk](https://www.nature.com/articles/d41586-023-01824-1)
 * [2023-06-09, 20:00:04](https://news.ycombinator.com/item?id=36263349) - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
 * [2023-06-09, 19:54:52](https://news.ycombinator.com/item?id=36263283) - [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
