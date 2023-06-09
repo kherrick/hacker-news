@@ -96,6 +96,7 @@
 * [2023-06-08, 06:56:04](https://news.ycombinator.com/item?id=36238222) - [Knight vs. Snail (2013)](https://blogs.bl.uk/digitisedmanuscripts/2013/09/knight-v-snail.html)
 * [2023-06-08, 06:49:48](https://news.ycombinator.com/item?id=36238170) - [The Case of the Missing SIMD Code](https://optidash.ai/blog/the-case-of-the-missing-simd-code)
 * [2023-06-08, 06:22:12](https://news.ycombinator.com/item?id=36237979) - [Official Apple Design Resources for Figma – iOS 17 and iPadOS 17](https://www.figma.com/community/file/1248375255495415511/Apple-Design-Resources-–-iOS-17-and-iPadOS-17)
+* [2023-06-08, 06:21:15](https://news.ycombinator.com/item?id=36237969) - [The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
 * [2023-06-08, 05:58:51](https://news.ycombinator.com/item?id=36237800) - [Wildfire Smoke Engulfs New York City, Breaking Pollution Records](https://atlasalpha.serenebase.com/post?recordId=rec5YRAg4rgw5iBGR)
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc](http://www.bricklin.com/visicalc.htm)
 * [2023-06-08, 04:47:27](https://news.ycombinator.com/item?id=36237332) - [Web Apps on macOS Sonoma 14 Beta](https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/)

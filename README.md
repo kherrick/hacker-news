@@ -10,6 +10,7 @@
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
 * [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
+* [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:30:08](https://news.ycombinator.com/item?id=36247404) - [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 * [2023-06-08, 18:50:36](https://news.ycombinator.com/item?id=36246750) - [Taurine deficiency as a driver of aging](https://www.science.org/doi/10.1126/science.abn9257)
 * [2023-06-08, 17:46:48](https://news.ycombinator.com/item?id=36245786) - [Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
@@ -25,9 +26,8 @@
 * [2023-06-08, 15:39:47](https://news.ycombinator.com/item?id=36243738) - [TransparentHMD: Revealing the HMD User’s Face to Bystanders (2017) [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
 * [2023-06-08, 14:56:22](https://news.ycombinator.com/item?id=36242914) - [Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
 * [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [Clearing 500k feral cats from New York’s streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
-* [2023-06-08, 14:07:49](https://news.ycombinator.com/item?id=36242125) - [Launch HN: Infield (YC W20) – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
-* [2023-06-08, 13:43:54](https://news.ycombinator.com/item?id=36241768) - [The Last Egg](https://brr.fyi/posts/the-last-egg)
 * [2023-06-08, 07:27:01](https://news.ycombinator.com/item?id=36238438) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)
+* [2023-06-08, 06:21:15](https://news.ycombinator.com/item?id=36237969) - [The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc (1999-2018)](http://www.bricklin.com/visicalc.htm)
 * [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
 
