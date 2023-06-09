@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [How the Computer Graphics Industry Got Started at the University of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 21:32:52](https://news.ycombinator.com/item?id=36264429) - [An unknown Swedish startup’s €3B bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
+* [2023-06-09, 21:14:43](https://news.ycombinator.com/item?id=36264253) - [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
 * [2023-06-09, 21:12:46](https://news.ycombinator.com/item?id=36264232) - [Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/)
 * [2023-06-09, 20:48:40](https://news.ycombinator.com/item?id=36263975) - [Show HN: Poser (Posix SERvices C framework)](https://zirias.github.io/poser/)
 * [2023-06-09, 20:26:33](https://news.ycombinator.com/item?id=36263691) - [Apple should pull the plug on the iPhone (2007)](https://www.marketwatch.com/story/apple-should-pull-the-plug-on-the-iphone)
