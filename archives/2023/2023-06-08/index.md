@@ -18,6 +18,7 @@
 * [2023-06-08, 20:44:29](https://news.ycombinator.com/item?id=36248695) - [Reddit’s CEO edited comments that criticized him (2016)](https://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 20:28:07](https://news.ycombinator.com/item?id=36248446) - [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
+* [2023-06-08, 20:17:20](https://news.ycombinator.com/item?id=36248249) - [How the Internet Gets Inside Us (2011)](https://www.newyorker.com/magazine/2011/02/14/the-information)
 * [2023-06-08, 20:16:26](https://news.ycombinator.com/item?id=36248234) - [Sync will shut down on June 30, 2023](https://old.reddit.com/r/redditsync/comments/144jp3w/sync_will_shut_down_on_june_30_2023/)
 * [2023-06-08, 20:14:26](https://news.ycombinator.com/item?id=36248202) - [Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?](https://hackaday.com/2023/06/08/bye-bye-ubuntu-hello-manjaro-how-did-we-get-here/)
 * [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
