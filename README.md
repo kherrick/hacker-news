@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 15:54:23](https://news.ycombinator.com/item?id=36259745) - [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
+* [2023-06-09, 15:20:11](https://news.ycombinator.com/item?id=36259163) - [3M Heads to Trial in ‘Existential’ $143B Forever-Chemicals Litigation](https://www.bloomberg.com/news/articles/2023-06-02/3m-heads-to-trial-in-existential-143-billion-pfas-litigation)
 * [2023-06-09, 15:04:14](https://news.ycombinator.com/item?id=36258905) - [How the DEA Scrubbed Thomas Jefferson's Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
 * [2023-06-09, 15:02:56](https://news.ycombinator.com/item?id=36258882) - [Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
 * [2023-06-09, 14:58:08](https://news.ycombinator.com/item?id=36258801) - [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
@@ -13,7 +15,6 @@
 * [2023-06-09, 13:04:15](https://news.ycombinator.com/item?id=36257233) - [Do no harm petition: Don't give big tech access to our medical records](https://act.wemove.eu/campaigns/medical-records)
 * [2023-06-09, 12:40:16](https://news.ycombinator.com/item?id=36256985) - [I bought the only physical encyclopedia still in print, and I regret nothing](https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/)
 * [2023-06-09, 12:31:37](https://news.ycombinator.com/item?id=36256869) - [U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning](https://dl.acm.org/doi/10.1145/3589246.3595371)
-* [2023-06-09, 12:30:47](https://news.ycombinator.com/item?id=36256858) - [France plans to close tax loophole benefiting Airbnb](https://www.reuters.com/business/france-plans-close-tax-loophole-benefiting-airbnb-2023-06-09/)
 * [2023-06-09, 12:03:21](https://news.ycombinator.com/item?id=36256538) - [Show HN: Governments on GitHub](https://ui.rilldata.com/danthelion/governments-on-github-dashboard/repos_with_orgs_model_dashboard)
 * [2023-06-09, 08:04:21](https://news.ycombinator.com/item?id=36254764) - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
 * [2023-06-09, 06:37:03](https://news.ycombinator.com/item?id=36254135) - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
@@ -25,7 +26,6 @@
 * [2023-06-08, 18:36:47](https://news.ycombinator.com/item?id=36246547) - [Average color of the NYC sky every 5 minutes](https://nskyc.com/)
 * [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 * [2023-06-08, 16:30:03](https://news.ycombinator.com/item?id=36244591) - [Why you’re going about recovering from perfectionism all wrong (2021)](https://candrews.medium.com/why-youre-going-about-recovering-from-perfectionism-all-wrong-b747dea3981f)
-* [2023-06-08, 16:28:24](https://news.ycombinator.com/item?id=36244565) - [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
 * [2023-06-08, 12:25:15](https://news.ycombinator.com/item?id=36240712) - [Show HN: Spaik Lisp Version 0.3](https://github.com/snyball/spaik)
 * [2023-06-08, 12:11:28](https://news.ycombinator.com/item?id=36240547) - [The Icelandic Saga Database](https://www.sagadb.org/)
 * [2023-06-08, 11:46:26](https://news.ycombinator.com/item?id=36240264) - [NYC Subwaysheds](https://subwaysheds.com/)
