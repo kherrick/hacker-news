@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-09, 14:58:08",
+      "https://news.ycombinator.com/item?id=36258801"
+    ],
+    [
+      "Self-hosting the Tor Project users forum",
+      "https://blog.torproject.org/tor-project-forum-migration/"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 14:23:16",
       "https://news.ycombinator.com/item?id=36258234"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-06-09, 12:31:37",
+      "https://news.ycombinator.com/item?id=36256869"
+    ],
+    [
+      "U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning",
+      "https://dl.acm.org/doi/10.1145/3589246.3595371"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 12:30:47",
       "https://news.ycombinator.com/item?id=36256858"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-06-09, 10:43:50",
-      "https://news.ycombinator.com/item?id=36255910"
-    ],
-    [
-      "Ask HN: I want to create a personal health dashboard, what should I use?",
-      "https://news.ycombinator.com/item?id=36255910"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 08:04:21",
       "https://news.ycombinator.com/item?id=36254764"
     ],
@@ -157,16 +167,6 @@
     [
       "Microsoft DeviceScript – TypeScript for Tiny IoT Devices",
       "https://github.com/microsoft/devicescript"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 06:31:28",
-      "https://news.ycombinator.com/item?id=36254086"
-    ],
-    [
-      "Reddark: Website to watch subreddits going dark",
-      "https://reddark.netlify.app/"
     ]
   ],
   [
