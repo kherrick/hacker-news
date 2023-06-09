@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
+* [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
 * [2023-06-09, 23:24:25](https://news.ycombinator.com/item?id=36265705) - [A Gallop Through a Horse’s Pedigree](https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html)
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [The First Reactionary](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
 * [2023-06-09, 22:45:24](https://news.ycombinator.com/item?id=36265316) - [Wow, Is Apple’s Vision Pro Loaded with Pixels](https://spectrum.ieee.org/apple-vision-pro)
@@ -34,6 +36,7 @@
 * [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
 * [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
 * [2023-06-09, 17:28:12](https://news.ycombinator.com/item?id=36261069) - [OpenAI faces defamation suit after ChatGPT fabricated another lawsuit](https://arstechnica.com/tech-policy/2023/06/openai-sued-for-defamation-after-chatgpt-fabricated-yet-another-lawsuit/)
+* [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
 * [2023-06-09, 16:56:23](https://news.ycombinator.com/item?id=36260663) - [Store your epoch times as 64-bit floats](https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html)
 * [2023-06-09, 16:54:03](https://news.ycombinator.com/item?id=36260626) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 * [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
