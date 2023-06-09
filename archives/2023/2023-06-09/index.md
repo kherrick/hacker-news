@@ -32,6 +32,7 @@
 * [2023-06-09, 16:56:23](https://news.ycombinator.com/item?id=36260663) - [Store your epoch times as 64-bit floats](https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html)
 * [2023-06-09, 16:54:03](https://news.ycombinator.com/item?id=36260626) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 * [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
+* [2023-06-09, 16:51:49](https://news.ycombinator.com/item?id=36260586) - [Eastern philosophy says there is no “self” – science agrees](https://bigthink.com/the-well/eastern-philosophy-neuroscience-no-self/)
 * [2023-06-09, 16:36:27](https://news.ycombinator.com/item?id=36260365) - [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
 * [2023-06-09, 16:35:47](https://news.ycombinator.com/item?id=36260361) - [‘The Force has left Lucasfilm’: how Disney can salvage its $4B investment](https://fortune.com/2023/06/03/indiana-jones-dial-of-destiny-lucasfilm-star-wars-worry-for-disney-bob-iger/)
 * [2023-06-09, 16:20:54](https://news.ycombinator.com/item?id=36260140) - [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)

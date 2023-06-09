@@ -15,6 +15,7 @@
 * [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 * [2023-06-08, 21:00:41](https://news.ycombinator.com/item?id=36248970) - [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
 * [2023-06-08, 20:51:56](https://news.ycombinator.com/item?id=36248815) - [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
+* [2023-06-08, 20:50:04](https://news.ycombinator.com/item?id=36248786) - [Searching for Meg White](https://www.elle.com/culture/music/a43846386/meg-white-interview-2023/)
 * [2023-06-08, 20:44:29](https://news.ycombinator.com/item?id=36248695) - [Reddit’s CEO edited comments that criticized him (2016)](https://www.theverge.com/2016/11/23/13739026/reddit-ceo-steve-huffman-edit-comments)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT Tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 20:28:07](https://news.ycombinator.com/item?id=36248446) - [Millions of dollars in time wasted making papers fit journal guidelines](https://www.nature.com/articles/d41586-023-01846-9)
