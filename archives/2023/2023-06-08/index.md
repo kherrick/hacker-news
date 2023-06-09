@@ -21,6 +21,7 @@
 * [2023-06-08, 20:17:20](https://news.ycombinator.com/item?id=36248249) - [How the Internet Gets Inside Us (2011)](https://www.newyorker.com/magazine/2011/02/14/the-information)
 * [2023-06-08, 20:16:26](https://news.ycombinator.com/item?id=36248234) - [Sync will shut down on June 30, 2023](https://old.reddit.com/r/redditsync/comments/144jp3w/sync_will_shut_down_on_june_30_2023/)
 * [2023-06-08, 20:14:26](https://news.ycombinator.com/item?id=36248202) - [Bye Bye Ubuntu, Hello Manjaro. How Did We Get Here?](https://hackaday.com/2023/06/08/bye-bye-ubuntu-hello-manjaro-how-did-we-get-here/)
+* [2023-06-08, 20:08:18](https://news.ycombinator.com/item?id=36248071) - [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 * [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:30:08](https://news.ycombinator.com/item?id=36247404) - [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 * [2023-06-08, 19:04:10](https://news.ycombinator.com/item?id=36246952) - [From simp to soldier: How the military is using e-girls to recruit Gen Z](https://mronline.org/2023/06/08/from-simp-to-soldier/)
