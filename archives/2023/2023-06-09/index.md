@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 09:46:40](https://news.ycombinator.com/item?id=36255524) - [Army tested 'germ warfare' on NYC subway by smashing lightbulbs full of bacteria](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
 * [2023-06-09, 08:06:01](https://news.ycombinator.com/item?id=36254774) - [To Build a Top Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort)
 * [2023-06-09, 08:04:21](https://news.ycombinator.com/item?id=36254764) - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
 * [2023-06-09, 06:48:21](https://news.ycombinator.com/item?id=36254217) - [Ask HN: What's your opinion on weekly 1:1s?](https://news.ycombinator.com/item?id=36254217)
