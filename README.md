@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 05:45:46](https://news.ycombinator.com/item?id=36253769) - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
+* [2023-06-09, 05:22:29](https://news.ycombinator.com/item?id=36253591) - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 * [2023-06-09, 05:01:14](https://news.ycombinator.com/item?id=36253422) - [How's the Stack Overflow strike going?](https://jlericson.com/2023/06/07/strike_progress.html)
-* [2023-06-09, 04:13:31](https://news.ycombinator.com/item?id=36253040) - [Google cuts office space in Bay Area by more than a million square feet](https://www.mv-voice.com/news/2023/06/05/google-reportedly-cuts-office-space-in-mountain-view-sunnyvale-by-more-than-a-million-square-feet)
 * [2023-06-09, 00:52:40](https://news.ycombinator.com/item?id=36251643) - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
 * [2023-06-08, 23:18:44](https://news.ycombinator.com/item?id=36250689) - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
 * [2023-06-08, 22:50:52](https://news.ycombinator.com/item?id=36250350) - [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
@@ -22,7 +23,6 @@
 * [2023-06-08, 15:51:22](https://news.ycombinator.com/item?id=36243951) - [AI browser extensions are a security nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
 * [2023-06-08, 15:49:06](https://news.ycombinator.com/item?id=36243926) - [Show HN: Private, text to entity-relationship diagram tool](https://databasediagram.com)
 * [2023-06-08, 15:39:47](https://news.ycombinator.com/item?id=36243738) - [TransparentHMD: Revealing the HMD User’s Face to Bystanders (2017) [pdf]](https://www.medien.ifi.lmu.de/pubdb/publications/pub/mai2017mum/mai2017mum.pdf)
-* [2023-06-08, 15:24:54](https://news.ycombinator.com/item?id=36243455) - [Intravenous Caffeine](https://www.sexdrugsandsuicide.com/p/intravenous-caffeine)
 * [2023-06-08, 14:56:22](https://news.ycombinator.com/item?id=36242914) - [Weird GPT-4 behavior for the specific string “ davidjl”](https://twitter.com/goodside/status/1666598580319035392)
 * [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [Clearing 500k feral cats from New York’s streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 14:07:49](https://news.ycombinator.com/item?id=36242125) - [Launch HN: Infield (YC W20) – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
