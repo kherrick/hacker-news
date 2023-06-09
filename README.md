@@ -12,13 +12,12 @@
 * [2023-06-08, 22:50:52](https://news.ycombinator.com/item?id=36250350) - [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
 * [2023-06-08, 21:48:20](https://news.ycombinator.com/item?id=36249671) - [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
-* [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
-* [2023-06-08, 20:17:20](https://news.ycombinator.com/item?id=36248249) - [How the Internet Gets Inside Us (2011)](https://www.newyorker.com/magazine/2011/02/14/the-information)
 * [2023-06-08, 20:08:18](https://news.ycombinator.com/item?id=36248071) - [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 * [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:30:08](https://news.ycombinator.com/item?id=36247404) - [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 * [2023-06-08, 18:50:36](https://news.ycombinator.com/item?id=36246750) - [Taurine deficiency as a driver of aging](https://www.science.org/doi/10.1126/science.abn9257)
+* [2023-06-08, 18:36:47](https://news.ycombinator.com/item?id=36246547) - [Average color of the NYC sky every 5 minutes](https://nskyc.com/)
 * [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 * [2023-06-08, 16:30:03](https://news.ycombinator.com/item?id=36244591) - [Why you’re going about recovering from perfectionism all wrong (2021)](https://candrews.medium.com/why-youre-going-about-recovering-from-perfectionism-all-wrong-b747dea3981f)
 * [2023-06-08, 16:28:24](https://news.ycombinator.com/item?id=36244565) - [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
@@ -30,6 +29,7 @@
 * [2023-06-08, 08:13:35](https://news.ycombinator.com/item?id=36238736) - [Making a Single Bolt for an F1 Car Takes an Insane Amount of Work](https://www.thedrive.com/news/making-a-single-bolt-for-an-f1-car-takes-an-insane-amount-of-work)
 * [2023-06-08, 07:27:01](https://news.ycombinator.com/item?id=36238438) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)
 * [2023-06-08, 06:21:15](https://news.ycombinator.com/item?id=36237969) - [The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
+* [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
 
 ## [Archives](archives/index.md)
 
