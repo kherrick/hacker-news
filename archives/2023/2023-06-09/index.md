@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 18:25:11](https://news.ycombinator.com/item?id=36261950) - [JPMorgan’s Jamie Dimon sought for second interview in Jeffrey Epstein lawsuit](https://www.ft.com/content/fd62842c-5a01-4c7f-9a39-bf0677fc3222)
 * [2023-06-09, 17:59:03](https://news.ycombinator.com/item?id=36261537) - [Microsoft officially supports running Windows 11 on M1 and M2 Macs](https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/)
 * [2023-06-09, 17:56:08](https://news.ycombinator.com/item?id=36261492) - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens’ data (including Erdogan) are online after govt site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
