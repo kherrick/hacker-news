@@ -1,14 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 13:28:26](https://news.ycombinator.com/item?id=36257523) - [The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
 * [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Freeman Dyson: Gravitational Machines](https://arxiv.org/abs/2305.10470)
 * [2023-06-09, 12:40:27](https://news.ycombinator.com/item?id=36256987) - [Functional Python Programming](https://docs.python.org/3/howto/functional.html)
+* [2023-06-09, 12:30:47](https://news.ycombinator.com/item?id=36256858) - [France plans to close tax loophole benefiting Airbnb](https://www.reuters.com/business/france-plans-close-tax-loophole-benefiting-airbnb-2023-06-09/)
 * [2023-06-09, 11:19:58](https://news.ycombinator.com/item?id=36256167) - [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
+* [2023-06-09, 10:43:50](https://news.ycombinator.com/item?id=36255910) - [Ask HN: I want to create a personal health dashboard, what should I use?](https://news.ycombinator.com/item?id=36255910)
 * [2023-06-09, 10:29:35](https://news.ycombinator.com/item?id=36255798) - [Laugh Along with GNU – GNU Humor](https://www.gnu.org/fun/humor.html)
 * [2023-06-09, 08:04:21](https://news.ycombinator.com/item?id=36254764) - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
 * [2023-06-09, 06:42:12](https://news.ycombinator.com/item?id=36254172) - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
 * [2023-06-09, 06:37:03](https://news.ycombinator.com/item?id=36254135) - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
 * [2023-06-09, 06:31:28](https://news.ycombinator.com/item?id=36254086) - [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
-* [2023-06-09, 05:22:29](https://news.ycombinator.com/item?id=36253591) - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 * [2023-06-09, 04:17:15](https://news.ycombinator.com/item?id=36253067) - [Adventures in Debian's Qt Land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 * [2023-06-08, 23:18:44](https://news.ycombinator.com/item?id=36250689) - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
 * [2023-06-08, 22:50:52](https://news.ycombinator.com/item?id=36250350) - [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
@@ -28,8 +30,6 @@
 * [2023-06-08, 12:25:15](https://news.ycombinator.com/item?id=36240712) - [Show HN: Spaik Lisp Version 0.3](https://github.com/snyball/spaik)
 * [2023-06-08, 12:11:28](https://news.ycombinator.com/item?id=36240547) - [The Icelandic Saga Database](https://www.sagadb.org/)
 * [2023-06-08, 06:21:15](https://news.ycombinator.com/item?id=36237969) - [The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
-* [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
-* [2023-06-07, 11:30:53](https://news.ycombinator.com/item?id=36225520) - [Launch HN: Fastgen (YC W23) – Visual Low-Code Backend Builder](https://news.ycombinator.com/item?id=36225520)
 
 ## [Archives](archives/index.md)
 
