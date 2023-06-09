@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2023-06-09, 08:04:21",
-      "https://news.ycombinator.com/item?id=36254764"
-    ],
-    [
-      "Google un-bans Downloader app, but developer still mad about “broken” DMCA",
-      "https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 06:37:03",
       "https://news.ycombinator.com/item?id=36254135"
     ],
     [
       "Microsoft DeviceScript – TypeScript for Tiny IoT Devices",
       "https://github.com/microsoft/devicescript"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 02:21:43",
+      "https://news.ycombinator.com/item?id=36252310"
+    ],
+    [
+      "Acme.sh runs arbitrary commands from a remote server",
+      "https://github.com/acmesh-official/acme.sh/issues/4659"
     ]
   ],
   [
