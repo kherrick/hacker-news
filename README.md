@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 21:32:52](https://news.ycombinator.com/item?id=36264429) - [An unknown Swedish startup’s €3B bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
 * [2023-06-09, 20:26:33](https://news.ycombinator.com/item?id=36263691) - [Apple should pull the plug on the iPhone (2007)](https://www.marketwatch.com/story/apple-should-pull-the-plug-on-the-iphone)
 * [2023-06-09, 20:25:58](https://news.ycombinator.com/item?id=36263686) - [Jared Diamond: A Reply to His Critics](https://blog.daviskedrosky.com/p/jared-diamond-a-reply-to-his-critics)
-* [2023-06-09, 20:06:43](https://news.ycombinator.com/item?id=36263438) - [Shingles vaccination may reduce dementia risk](https://www.nature.com/articles/d41586-023-01824-1)
+* [2023-06-09, 20:23:11](https://news.ycombinator.com/item?id=36263654) - [The Opt Out Project](https://www.optoutproject.net/)
 * [2023-06-09, 20:00:04](https://news.ycombinator.com/item?id=36263349) - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
 * [2023-06-09, 19:54:52](https://news.ycombinator.com/item?id=36263283) - [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
 * [2023-06-09, 19:43:25](https://news.ycombinator.com/item?id=36263105) - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
@@ -23,7 +24,6 @@
 * [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Gravitational Machines](https://arxiv.org/abs/2305.10470)
 * [2023-06-09, 12:31:37](https://news.ycombinator.com/item?id=36256869) - [U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning](https://dl.acm.org/doi/10.1145/3589246.3595371)
 * [2023-06-09, 09:46:40](https://news.ycombinator.com/item?id=36255524) - [Army tested 'germ warfare' on NYC subway (2015)](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
-* [2023-06-09, 06:37:03](https://news.ycombinator.com/item?id=36254135) - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
 * [2023-06-09, 02:21:43](https://news.ycombinator.com/item?id=36252310) - [Acme.sh runs arbitrary commands from a remote server](https://github.com/acmesh-official/acme.sh/issues/4659)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [Data Compression Drives the Internet. Here’s How It Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 20:08:57](https://news.ycombinator.com/item?id=36248081) - [Why do cats knead?](https://www.livescience.com/animals/cats/why-do-cats-knead)
