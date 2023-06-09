@@ -47,6 +47,7 @@
 * [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 * [2023-06-08, 16:30:03](https://news.ycombinator.com/item?id=36244591) - [Why you’re going about recovering from perfectionism all wrong (2021)](https://candrews.medium.com/why-youre-going-about-recovering-from-perfectionism-all-wrong-b747dea3981f)
 * [2023-06-08, 16:28:24](https://news.ycombinator.com/item?id=36244565) - [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
+* [2023-06-08, 16:24:54](https://news.ycombinator.com/item?id=36244509) - [You can't reach the brain through the ears](https://www.experimental-history.com/p/you-cant-reach-the-brain-through)
 * [2023-06-08, 16:18:25](https://news.ycombinator.com/item?id=36244399) - [Travel across Germany with the 49 Euro ticket](https://49travel.vercel.app/)
 * [2023-06-08, 16:10:49](https://news.ycombinator.com/item?id=36244269) - [Presence of airborne microplastics in human lung tissue](https://www.sciencedirect.com/science/article/abs/pii/S0304389421010888)
 * [2023-06-08, 16:10:00](https://news.ycombinator.com/item?id=36244254) - [Google gets stricter about employees time in office](https://www.wsj.com/articles/google-gets-stricter-about-employees-time-in-office-9a20f2e)

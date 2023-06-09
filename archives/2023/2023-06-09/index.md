@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 16:18:37](https://news.ycombinator.com/item?id=36260116) - [Royal Mail issues Warhammer stamps celebrating 40 year anniversary](https://shop.royalmail.com/special-stamp-issues/warhammer)
+* [2023-06-09, 16:06:33](https://news.ycombinator.com/item?id=36259930) - [Archive Your Reddit Data Before It's Too Late](https://xavd.id/blog/post/archive-your-reddit-data/)
 * [2023-06-09, 15:54:23](https://news.ycombinator.com/item?id=36259745) - [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
 * [2023-06-09, 15:20:11](https://news.ycombinator.com/item?id=36259163) - [3M Heads to Trial in ‘Existential’ $143B Forever-Chemicals Litigation](https://www.bloomberg.com/news/articles/2023-06-02/3m-heads-to-trial-in-existential-143-billion-pfas-litigation)
 * [2023-06-09, 15:04:14](https://news.ycombinator.com/item?id=36258905) - [How the DEA Scrubbed Thomas Jefferson's Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
