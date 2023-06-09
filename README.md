@@ -3,7 +3,7 @@
 * [2023-06-09, 20:00:04](https://news.ycombinator.com/item?id=36263349) - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
 * [2023-06-09, 19:43:25](https://news.ycombinator.com/item?id=36263105) - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
 * [2023-06-09, 19:24:52](https://news.ycombinator.com/item?id=36262821) - [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
-* [2023-06-09, 18:06:32](https://news.ycombinator.com/item?id=36261650) - [Swedish PM: we are now changing our migration policy to the EU's strictest](https://www.aftonbladet.se/debatt/a/wA5gkd/kristersson-tre-saker-kravs-for-att-satta-ihop-sverige-igen)
+* [2023-06-09, 19:20:54](https://news.ycombinator.com/item?id=36262765) - [Have you noticed how much shit the internet has become now? (2007)](https://old.sage.moe/g/thread/721239)
 * [2023-06-09, 17:56:08](https://news.ycombinator.com/item?id=36261492) - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 16:56:23](https://news.ycombinator.com/item?id=36260663) - [Store your epoch times as 64-bit floats](https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html)
