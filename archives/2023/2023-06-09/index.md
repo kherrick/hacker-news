@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 14:58:08](https://news.ycombinator.com/item?id=36258801) - [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:04:59](https://news.ycombinator.com/item?id=36257981) - [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
@@ -15,6 +16,7 @@
 * [2023-06-09, 13:04:15](https://news.ycombinator.com/item?id=36257233) - [Do No Harm petition: Don't give Big Tech access to our medical records](https://act.wemove.eu/campaigns/medical-records)
 * [2023-06-09, 12:40:27](https://news.ycombinator.com/item?id=36256987) - [Functional Python Programming](https://docs.python.org/3/howto/functional.html)
 * [2023-06-09, 12:40:16](https://news.ycombinator.com/item?id=36256985) - [I bought the only physical encyclopedia still in print, and I regret nothing](https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/)
+* [2023-06-09, 12:31:37](https://news.ycombinator.com/item?id=36256869) - [U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning](https://dl.acm.org/doi/10.1145/3589246.3595371)
 * [2023-06-09, 12:30:47](https://news.ycombinator.com/item?id=36256858) - [France plans to close tax loophole benefiting Airbnb](https://www.reuters.com/business/france-plans-close-tax-loophole-benefiting-airbnb-2023-06-09/)
 * [2023-06-09, 12:03:21](https://news.ycombinator.com/item?id=36256538) - [Show HN: Governments on GitHub](https://ui.rilldata.com/danthelion/governments-on-github-dashboard/repos_with_orgs_model_dashboard)
 * [2023-06-09, 11:19:58](https://news.ycombinator.com/item?id=36256167) - [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
