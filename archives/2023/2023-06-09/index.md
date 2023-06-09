@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
 * [2023-06-09, 15:04:14](https://news.ycombinator.com/item?id=36258905) - [How the DEA Scrubbed Thomas Jefferson's Poppy Garden from Public Memory](https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory)
+* [2023-06-09, 15:02:56](https://news.ycombinator.com/item?id=36258882) - [Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
 * [2023-06-09, 14:58:08](https://news.ycombinator.com/item?id=36258801) - [Self-hosting the Tor Project users forum](https://blog.torproject.org/tor-project-forum-migration/)
+* [2023-06-09, 14:31:17](https://news.ycombinator.com/item?id=36258373) - [More Startups Throw in the Towel, Unable to Raise Money for Their Ideas](https://www.wsj.com/articles/more-startups-throw-in-the-towel-unable-to-raise-money-for-their-ideas-eff8305b)
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [Thoughts about the impact of long peace](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:04:59](https://news.ycombinator.com/item?id=36257981) - [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
