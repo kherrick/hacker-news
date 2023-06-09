@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Freeman Dyson: Gravitational Machines](https://arxiv.org/abs/2305.10470)
+* [2023-06-09, 12:40:27](https://news.ycombinator.com/item?id=36256987) - [Functional Python Programming](https://docs.python.org/3/howto/functional.html)
 * [2023-06-09, 11:19:58](https://news.ycombinator.com/item?id=36256167) - [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
 * [2023-06-09, 10:29:35](https://news.ycombinator.com/item?id=36255798) - [Laugh Along with GNU – GNU Humor](https://www.gnu.org/fun/humor.html)
 * [2023-06-09, 09:46:40](https://news.ycombinator.com/item?id=36255524) - [Army tested 'germ warfare' on NYC subway by smashing lightbulbs full of bacteria](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)

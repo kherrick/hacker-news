@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Freeman Dyson: Gravitational Machines](https://arxiv.org/abs/2305.10470)
+* [2023-06-09, 12:40:27](https://news.ycombinator.com/item?id=36256987) - [Functional Python Programming](https://docs.python.org/3/howto/functional.html)
 * [2023-06-09, 11:19:58](https://news.ycombinator.com/item?id=36256167) - [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
 * [2023-06-09, 10:29:35](https://news.ycombinator.com/item?id=36255798) - [Laugh Along with GNU – GNU Humor](https://www.gnu.org/fun/humor.html)
 * [2023-06-09, 08:04:21](https://news.ycombinator.com/item?id=36254764) - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
@@ -14,7 +16,6 @@
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 20:08:18](https://news.ycombinator.com/item?id=36248071) - [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
-* [2023-06-08, 19:37:48](https://news.ycombinator.com/item?id=36247549) - [GPT-4 “discovered” the same sorting algorithm as AlphaDev by removing “mov S P”](https://twitter.com/DimitrisPapail/status/1666843952824168465)
 * [2023-06-08, 19:30:08](https://news.ycombinator.com/item?id=36247404) - [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 * [2023-06-08, 19:03:27](https://news.ycombinator.com/item?id=36246943) - [Build your own lazy operation evaluator in Elixir](https://www.germanvelasco.com/blog/build-your-own-lazy-operation-evaluator-in-elixir)
 * [2023-06-08, 18:50:36](https://news.ycombinator.com/item?id=36246750) - [Taurine deficiency as a driver of aging](https://www.science.org/doi/10.1126/science.abn9257)
@@ -22,7 +23,6 @@
 * [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 * [2023-06-08, 16:30:03](https://news.ycombinator.com/item?id=36244591) - [Why you’re going about recovering from perfectionism all wrong (2021)](https://candrews.medium.com/why-youre-going-about-recovering-from-perfectionism-all-wrong-b747dea3981f)
 * [2023-06-08, 16:28:24](https://news.ycombinator.com/item?id=36244565) - [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
-* [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [Clearing 500k feral cats from New York’s streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 14:07:49](https://news.ycombinator.com/item?id=36242125) - [Launch HN: Infield (YC W20) – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
 * [2023-06-08, 13:43:54](https://news.ycombinator.com/item?id=36241768) - [The Last Egg](https://brr.fyi/posts/the-last-egg)
 * [2023-06-08, 12:25:15](https://news.ycombinator.com/item?id=36240712) - [Show HN: Spaik Lisp Version 0.3](https://github.com/snyball/spaik)
