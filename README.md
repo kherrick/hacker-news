@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens’ data (including Erdogan) are online after govt site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
+* [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
+* [2023-06-09, 17:28:12](https://news.ycombinator.com/item?id=36261069) - [OpenAI faces defamation suit after ChatGPT fabricated another lawsuit](https://arstechnica.com/tech-policy/2023/06/openai-sued-for-defamation-after-chatgpt-fabricated-yet-another-lawsuit/)
 * [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
 * [2023-06-09, 16:36:27](https://news.ycombinator.com/item?id=36260365) - [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
-* [2023-06-09, 16:35:47](https://news.ycombinator.com/item?id=36260361) - [‘The Force has left Lucasfilm’: how Disney can salvage its $4B investment](https://fortune.com/2023/06/03/indiana-jones-dial-of-destiny-lucasfilm-star-wars-worry-for-disney-bob-iger/)
 * [2023-06-09, 16:20:54](https://news.ycombinator.com/item?id=36260140) - [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)
 * [2023-06-09, 16:18:37](https://news.ycombinator.com/item?id=36260116) - [Royal Mail issues Warhammer stamps celebrating 40 year anniversary](https://shop.royalmail.com/special-stamp-issues/warhammer)
 * [2023-06-09, 16:06:33](https://news.ycombinator.com/item?id=36259930) - [Archive Your Reddit Data Before It's Too Late](https://xavd.id/blog/post/archive-your-reddit-data/)
@@ -24,12 +26,10 @@
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [Data Compression Drives the Internet. Here’s How It Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 20:08:57](https://news.ycombinator.com/item?id=36248081) - [Why do cats knead?](https://www.livescience.com/animals/cats/why-do-cats-knead)
 * [2023-06-08, 20:08:18](https://news.ycombinator.com/item?id=36248071) - [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
-* [2023-06-08, 19:03:27](https://news.ycombinator.com/item?id=36246943) - [Build your own lazy operation evaluator in Elixir](https://www.germanvelasco.com/blog/build-your-own-lazy-operation-evaluator-in-elixir)
 * [2023-06-08, 18:36:47](https://news.ycombinator.com/item?id=36246547) - [Average color of the NYC sky every 5 minutes](https://nskyc.com/)
 * [2023-06-08, 16:24:54](https://news.ycombinator.com/item?id=36244509) - [You can't reach the brain through the ears](https://www.experimental-history.com/p/you-cant-reach-the-brain-through)
 * [2023-06-08, 12:11:28](https://news.ycombinator.com/item?id=36240547) - [The Icelandic Saga Database](https://www.sagadb.org/)
 * [2023-06-08, 11:46:26](https://news.ycombinator.com/item?id=36240264) - [NYC Subwaysheds](https://subwaysheds.com/)
-* [2023-06-08, 06:21:15](https://news.ycombinator.com/item?id=36237969) - [The Making of the First Ever Fully Painted Feature Film “Loving Vincent”](https://www.artpublikamag.com/post/the-making-of-the-worlds-first-ever-fully-painted-feature-film-loving-vincent)
 
 ## [Archives](archives/index.md)
 
