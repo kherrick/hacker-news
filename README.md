@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 05:01:14](https://news.ycombinator.com/item?id=36253422) - [How's the Stack Overflow strike going?](https://jlericson.com/2023/06/07/strike_progress.html)
 * [2023-06-09, 04:13:31](https://news.ycombinator.com/item?id=36253040) - [Google cuts office space in Bay Area by more than a million square feet](https://www.mv-voice.com/news/2023/06/05/google-reportedly-cuts-office-space-in-mountain-view-sunnyvale-by-more-than-a-million-square-feet)
 * [2023-06-09, 00:52:40](https://news.ycombinator.com/item?id=36251643) - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
 * [2023-06-08, 23:18:44](https://news.ycombinator.com/item?id=36250689) - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
@@ -7,11 +8,9 @@
 * [2023-06-08, 21:48:20](https://news.ycombinator.com/item?id=36249671) - [Mechanical Apple Watch from real e-waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
 * [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
-* [2023-06-08, 20:51:56](https://news.ycombinator.com/item?id=36248815) - [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)
 * [2023-06-08, 20:40:30](https://news.ycombinator.com/item?id=36248633) - [Understanding GPT tokenizers](https://simonwillison.net/2023/Jun/8/gpt-tokenizers/)
 * [2023-06-08, 19:30:08](https://news.ycombinator.com/item?id=36247404) - [Mark Zuckerberg on Apple’s Vision Pro headset](https://www.theverge.com/2023/6/8/23754239/mark-zuckerberg-meta-apple-vision-pro-headset)
 * [2023-06-08, 18:50:36](https://news.ycombinator.com/item?id=36246750) - [Taurine deficiency as a driver of aging](https://www.science.org/doi/10.1126/science.abn9257)
-* [2023-06-08, 18:28:54](https://news.ycombinator.com/item?id=36246440) - [The US is building factories at a fast rate](https://www.businessinsider.com/us-building-factories-census-data-chips-act-inflation-reduction-act-2023-6)
 * [2023-06-08, 17:46:48](https://news.ycombinator.com/item?id=36245786) - [Desmos uses Pratt Parsers (2018)](https://engineering.desmos.com/articles/pratt-parser/)
 * [2023-06-08, 17:22:27](https://news.ycombinator.com/item?id=36245435) - [Apollo will close down on June 30th](https://old.reddit.com/r/apolloapp/comments/144f6xm/apollo_will_close_down_on_june_30th_reddits/)
 * [2023-06-08, 17:00:41](https://news.ycombinator.com/item?id=36245102) - [Aviator (YC S21) is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
@@ -28,6 +27,7 @@
 * [2023-06-08, 14:30:33](https://news.ycombinator.com/item?id=36242459) - [Clearing 500k feral cats from New York’s streets](https://www.nytimes.com/2023/06/08/nyregion/feral-cats-nyc.html)
 * [2023-06-08, 14:07:49](https://news.ycombinator.com/item?id=36242125) - [Launch HN: Infield (YC W20) – Safer, faster dependency upgrades](https://news.ycombinator.com/item?id=36242125)
 * [2023-06-08, 13:43:54](https://news.ycombinator.com/item?id=36241768) - [The Last Egg](https://brr.fyi/posts/the-last-egg)
+* [2023-06-08, 07:27:01](https://news.ycombinator.com/item?id=36238438) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)
 * [2023-06-08, 05:48:58](https://news.ycombinator.com/item?id=36237731) - [The History of VisiCalc](http://www.bricklin.com/visicalc.htm)
 * [2023-06-07, 16:52:52](https://news.ycombinator.com/item?id=36229524) - [Startup Incorporation for Founders: A new handbook](https://handbooks.clerky.com/startup-incorporation)
 

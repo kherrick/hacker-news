@@ -88,6 +88,7 @@
 * [2023-06-08, 08:04:44](https://news.ycombinator.com/item?id=36238679) - [Ex-exec at TikTok's parent company-Communist Party members had 'god credential'](https://www.businessinsider.com/communist-party-god-credential-data-bytedance-tiktok-former-executive-alleges-2023-6)
 * [2023-06-08, 07:58:50](https://news.ycombinator.com/item?id=36238630) - [Reddit will exempt accessibility-focused apps from unpopular API pricing changes](https://www.theverge.com/2023/6/7/23752804/reddit-exempt-accessibility-apps-api-pricing-changes)
 * [2023-06-08, 07:48:37](https://news.ycombinator.com/item?id=36238560) - [Scientists Discover Ancient 'Lost World' That Rewrites History of Life on Earth](https://www.vice.com/en/article/z3mmme/scientists-discover-ancient-lost-world-that-rewrites-history-of-life-on-earth)
+* [2023-06-08, 07:27:01](https://news.ycombinator.com/item?id=36238438) - [The American Fotoplayer](https://www.silentcinemasociety.org/the-american-fotoplayer/)
 * [2023-06-08, 07:26:43](https://news.ycombinator.com/item?id=36238435) - [Notion powered website builder sold for $300K](https://acquirehunt.substack.com/p/notion-powered-website-builder-sold)
 * [2023-06-08, 07:12:23](https://news.ycombinator.com/item?id=36238345) - [FOSSY 2023 (Portland): The First Free and Open Source Software Yearly Conference](https://2023.fossy.us/)
 * [2023-06-08, 07:12:14](https://news.ycombinator.com/item?id=36238342) - [Vivaldi on Android bypasses restrictions to let users access Bing Chat](https://vivaldi.com/blog/vivaldi-on-android-6-1/)

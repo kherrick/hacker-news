@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 05:01:14](https://news.ycombinator.com/item?id=36253422) - [How's the Stack Overflow strike going?](https://jlericson.com/2023/06/07/strike_progress.html)
 * [2023-06-09, 04:13:31](https://news.ycombinator.com/item?id=36253040) - [Google cuts office space in Bay Area by more than a million square feet](https://www.mv-voice.com/news/2023/06/05/google-reportedly-cuts-office-space-in-mountain-view-sunnyvale-by-more-than-a-million-square-feet)
 * [2023-06-09, 02:28:25](https://news.ycombinator.com/item?id=36252351) - [How Rural America Steals Girls’ Futures](https://www.theatlantic.com/ideas/archive/2023/04/the-forgotten-girls-monica-potts-book-excerpt/673581/)
 * [2023-06-09, 01:41:32](https://news.ycombinator.com/item?id=36252061) - [Using unmodified third-party Reddit apps with a custom server](https://gist.github.com/tech234a/ddfd51a1775deadee4b8a264f6d0d29e)
