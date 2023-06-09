@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 19:43:25](https://news.ycombinator.com/item?id=36263105) - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
+* [2023-06-09, 19:24:52](https://news.ycombinator.com/item?id=36262821) - [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
 * [2023-06-09, 19:19:02](https://news.ycombinator.com/item?id=36262737) - [Reddit appears to be filtering the CEO AMA about API pricing from Apollo](https://fosstodon.org/@dale/110515864033722134)
 * [2023-06-09, 19:06:57](https://news.ycombinator.com/item?id=36262548) - [Reddit won’t budge on the API changes that are shutting down apps like Apollo](https://www.theverge.com/2023/6/9/23755640/reddit-api-changes-apps-apollo-shut-down-ama-spez-steve-huffman)
 * [2023-06-09, 18:25:11](https://news.ycombinator.com/item?id=36261950) - [JPMorgan’s Jamie Dimon sought for second interview in Jeffrey Epstein lawsuit](https://www.ft.com/content/fd62842c-5a01-4c7f-9a39-bf0677fc3222)
