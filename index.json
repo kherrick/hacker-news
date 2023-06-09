@@ -1,11 +1,31 @@
 [
   [
     [
+      "2023-06-09, 17:59:03",
+      "https://news.ycombinator.com/item?id=36261537"
+    ],
+    [
+      "Microsoft officially supports running Windows 11 on M1 and M2 Macs",
+      "https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 17:56:08",
+      "https://news.ycombinator.com/item?id=36261492"
+    ],
+    [
+      "Nix/NixOS S3 Update and Recap of Community Call",
+      "https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 17:51:12",
       "https://news.ycombinator.com/item?id=36261411"
     ],
     [
-      "Turkish citizens’ data (including Erdogan) are online after govt site hacked",
+      "Turkish citizens' personal data offered online after government site hacked",
       "https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/"
     ]
   ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2023-06-09, 17:28:12",
-      "https://news.ycombinator.com/item?id=36261069"
-    ],
-    [
-      "OpenAI faces defamation suit after ChatGPT fabricated another lawsuit",
-      "https://arstechnica.com/tech-policy/2023/06/openai-sued-for-defamation-after-chatgpt-fabricated-yet-another-lawsuit/"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 16:52:04",
       "https://news.ycombinator.com/item?id=36260589"
     ],
     [
       "Kera Desktop: open-source, cross-platform, web-based desktop environment",
       "https://desktop.kerahq.com/"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 16:36:27",
-      "https://news.ycombinator.com/item?id=36260365"
-    ],
-    [
-      "Their Crypto Company Collapsed. They Went to Bali",
-      "https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36259930"
     ],
     [
-      "Archive Your Reddit Data Before It's Too Late",
+      "Archive your Reddit data before it's too late",
       "https://xavd.id/blog/post/archive-your-reddit-data/"
     ]
   ],
@@ -95,18 +95,8 @@
       "https://news.ycombinator.com/item?id=36259163"
     ],
     [
-      "3M Heads to Trial in ‘Existential’ $143B Forever-Chemicals Litigation",
+      "3M heads to trial in ‘existential’ $143B forever-chemicals litigation",
       "https://www.bloomberg.com/news/articles/2023-06-02/3m-heads-to-trial-in-existential-143-billion-pfas-litigation"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 15:04:14",
-      "https://news.ycombinator.com/item?id=36258905"
-    ],
-    [
-      "How the DEA Scrubbed Thomas Jefferson's Poppy Garden from Public Memory",
-      "https://www.alternet.org/2010/03/how_the_dea_scrubbed_thomas_jeffersons_monticello_poppy_garden_from_public_memory"
     ]
   ],
   [
@@ -131,12 +121,22 @@
   ],
   [
     [
-      "2023-06-09, 14:04:59",
-      "https://news.ycombinator.com/item?id=36257981"
+      "2023-06-09, 14:31:17",
+      "https://news.ycombinator.com/item?id=36258373"
     ],
     [
-      "Shreddit is a Python program to remove all your Reddit comments",
-      "https://github.com/x89/Shreddit"
+      "More startups throw in the towel, unable to raise money for their ideas",
+      "https://www.wsj.com/articles/more-startups-throw-in-the-towel-unable-to-raise-money-for-their-ideas-eff8305b"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 14:23:16",
+      "https://news.ycombinator.com/item?id=36258234"
+    ],
+    [
+      "Thoughts about the impact of long peace",
+      "https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/"
     ]
   ],
   [
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2023-06-09, 13:58:23",
-      "https://news.ycombinator.com/item?id=36257892"
+      "2023-06-09, 13:29:54",
+      "https://news.ycombinator.com/item?id=36257545"
     ],
     [
-      "240W USB-C PD chargers are nearly here, says Framework CEO",
-      "https://www.theverge.com/2023/6/8/23754836/180w-240w-framework-usb-c-pd-charger"
+      "Lawyers blame ChatGPT for tricking them into citing bogus case law",
+      "https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b"
     ]
   ],
   [
@@ -181,11 +181,21 @@
   ],
   [
     [
+      "2023-06-09, 12:40:27",
+      "https://news.ycombinator.com/item?id=36256987"
+    ],
+    [
+      "Functional Python Programming",
+      "https://docs.python.org/3/howto/functional.html"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 12:40:16",
       "https://news.ycombinator.com/item?id=36256985"
     ],
     [
-      "I bought the only physical encyclopedia still in print, and I regret nothing",
+      "I bought the only physical encyclopedia still in print",
       "https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/"
     ]
   ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2023-06-09, 12:03:21",
-      "https://news.ycombinator.com/item?id=36256538"
+      "2023-06-09, 09:46:40",
+      "https://news.ycombinator.com/item?id=36255524"
     ],
     [
-      "Show HN: Governments on GitHub",
-      "https://ui.rilldata.com/danthelion/governments-on-github-dashboard/repos_with_orgs_model_dashboard"
+      "Army tested 'germ warfare' on NYC subway (2015)",
+      "https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Why do cats knead?",
       "https://www.livescience.com/animals/cats/why-do-cats-knead"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 20:08:18",
-      "https://news.ycombinator.com/item?id=36248071"
-    ],
-    [
-      "Writing a C Compiler (2017)",
-      "https://norasandler.com/2017/11/29/Write-a-Compiler.html"
     ]
   ],
   [
