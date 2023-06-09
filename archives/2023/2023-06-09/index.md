@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 19:19:02](https://news.ycombinator.com/item?id=36262737) - [Reddit appears to be filtering the CEO AMA about API pricing from Apollo](https://fosstodon.org/@dale/110515864033722134)
 * [2023-06-09, 19:06:57](https://news.ycombinator.com/item?id=36262548) - [Reddit won’t budge on the API changes that are shutting down apps like Apollo](https://www.theverge.com/2023/6/9/23755640/reddit-api-changes-apps-apollo-shut-down-ama-spez-steve-huffman)
 * [2023-06-09, 18:25:11](https://news.ycombinator.com/item?id=36261950) - [JPMorgan’s Jamie Dimon sought for second interview in Jeffrey Epstein lawsuit](https://www.ft.com/content/fd62842c-5a01-4c7f-9a39-bf0677fc3222)
 * [2023-06-09, 18:23:23](https://news.ycombinator.com/item?id=36261909) - [Re: I Don't Use Copilot](https://vivekhaldar.com/articles/re--why-i-don-t-use-copilot/)
