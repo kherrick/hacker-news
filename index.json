@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36263975"
     ],
     [
-      "Show HN: Poser (Posix SERvices C framework)",
+      "Show HN: Poser – Posix SERvices C framework",
       "https://zirias.github.io/poser/"
     ]
   ],
@@ -111,32 +111,12 @@
   ],
   [
     [
-      "2023-06-09, 17:56:08",
-      "https://news.ycombinator.com/item?id=36261492"
-    ],
-    [
-      "Nix/NixOS S3 Update and Recap of Community Call",
-      "https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 17:51:12",
       "https://news.ycombinator.com/item?id=36261411"
     ],
     [
       "Turkish citizens' personal data offered online after government site hacked",
       "https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 16:56:23",
-      "https://news.ycombinator.com/item?id=36260663"
-    ],
-    [
-      "Store epoch times as 64-bit floats",
-      "https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html"
     ]
   ],
   [
@@ -157,6 +137,16 @@
     [
       "Kera Desktop: open-source, cross-platform, web-based desktop environment",
       "https://desktop.kerahq.com/"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 16:51:49",
+      "https://news.ycombinator.com/item?id=36260586"
+    ],
+    [
+      "Eastern philosophy says there is no “self” – science agrees",
+      "https://bigthink.com/the-well/eastern-philosophy-neuroscience-no-self/"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36258234"
     ],
     [
-      "Thoughts about the impact of long peace",
+      "The impact of the ‘long peace’ on modern military capabilities",
       "https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/"
     ]
   ],
@@ -201,12 +191,12 @@
   ],
   [
     [
-      "2023-06-09, 13:29:54",
-      "https://news.ycombinator.com/item?id=36257545"
+      "2023-06-09, 13:28:26",
+      "https://news.ycombinator.com/item?id=36257523"
     ],
     [
-      "Lawyers blame ChatGPT for tricking them into citing bogus case law",
-      "https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b"
+      "June 2023 Data Dump is missing",
+      "https://meta.stackexchange.com/a/390023/6212"
     ]
   ],
   [
@@ -217,6 +207,16 @@
     [
       "Gravitational Machines",
       "https://arxiv.org/abs/2305.10470"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 12:40:27",
+      "https://news.ycombinator.com/item?id=36256987"
+    ],
+    [
+      "Functional Python Programming",
+      "https://docs.python.org/3/howto/functional.html"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-06-09, 02:21:43",
-      "https://news.ycombinator.com/item?id=36252310"
-    ],
-    [
-      "Acme.sh runs arbitrary commands from a remote server",
-      "https://github.com/acmesh-official/acme.sh/issues/4659"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 00:36:08",
       "https://news.ycombinator.com/item?id=36251471"
     ],
     [
       "Data Compression Drives the Internet. Here’s How It Works",
       "https://www.quantamagazine.org/how-lossless-data-compression-works-20230531"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 20:50:04",
+      "https://news.ycombinator.com/item?id=36248786"
+    ],
+    [
+      "Searching for Meg White",
+      "https://www.elle.com/culture/music/a43846386/meg-white-interview-2023/"
     ]
   ],
   [
