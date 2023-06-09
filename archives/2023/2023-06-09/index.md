@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 14:04:59](https://news.ycombinator.com/item?id=36257981) - [Shreddit is a Python program to remove all your Reddit comments](https://github.com/x89/Shreddit)
 * [2023-06-09, 13:29:54](https://news.ycombinator.com/item?id=36257545) - [Lawyers blame ChatGPT for tricking them into citing bogus case law](https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b)
 * [2023-06-09, 13:28:26](https://news.ycombinator.com/item?id=36257523) - [The Stack Overflow Creative Commons Data Dump has been turned off](https://meta.stackexchange.com/a/390023/6212)
+* [2023-06-09, 13:20:29](https://news.ycombinator.com/item?id=36257424) - [NYC Bailing Out Hotels Paying Premium Rates for Budget Rooms to House Migrants](https://www.bloomberg.com/news/articles/2023-06-09/nyc-migrants-how-nyc-is-finding-housing-and-what-it-costs)
 * [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Freeman Dyson: Gravitational Machines](https://arxiv.org/abs/2305.10470)
+* [2023-06-09, 13:04:15](https://news.ycombinator.com/item?id=36257233) - [Do No Harm petition: Don't give Big Tech access to our medical records](https://act.wemove.eu/campaigns/medical-records)
 * [2023-06-09, 12:40:27](https://news.ycombinator.com/item?id=36256987) - [Functional Python Programming](https://docs.python.org/3/howto/functional.html)
 * [2023-06-09, 12:40:16](https://news.ycombinator.com/item?id=36256985) - [I bought the only physical encyclopedia still in print, and I regret nothing](https://arstechnica.com/culture/2023/06/rejoice-its-2023-and-you-can-still-buy-a-22-volume-paper-encyclopedia/)
 * [2023-06-09, 12:30:47](https://news.ycombinator.com/item?id=36256858) - [France plans to close tax loophole benefiting Airbnb](https://www.reuters.com/business/france-plans-close-tax-loophole-benefiting-airbnb-2023-06-09/)
