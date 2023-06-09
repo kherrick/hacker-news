@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-09, 02:28:25](https://news.ycombinator.com/item?id=36252351) - [How Rural America Steals Girls’ Futures](https://www.theatlantic.com/ideas/archive/2023/04/the-forgotten-girls-monica-potts-book-excerpt/673581/)
 * [2023-06-09, 00:52:40](https://news.ycombinator.com/item?id=36251643) - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
 * [2023-06-08, 23:18:44](https://news.ycombinator.com/item?id=36250689) - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
 * [2023-06-08, 22:50:52](https://news.ycombinator.com/item?id=36250350) - [The dog cull of 1760 divided London](https://www.historytoday.com/archive/history-matters/war-dogs)
@@ -18,6 +17,7 @@
 * [2023-06-08, 17:00:41](https://news.ycombinator.com/item?id=36245102) - [Aviator (YC S21) is hiring senior engineers who are passionate about DX](https://www.ycombinator.com/companies/aviator/jobs/svf18r9-senior-software-engineer-founding-team)
 * [2023-06-08, 16:48:00](https://news.ycombinator.com/item?id=36244886) - [Show HN: Tremor 3.0 – Open-source library to build dashboards fast](https://www.tremor.so/changelog)
 * [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
+* [2023-06-08, 16:30:03](https://news.ycombinator.com/item?id=36244591) - [Why you’re going about recovering from perfectionism all wrong (2021)](https://candrews.medium.com/why-youre-going-about-recovering-from-perfectionism-all-wrong-b747dea3981f)
 * [2023-06-08, 16:28:24](https://news.ycombinator.com/item?id=36244565) - [Infinite Mac: Classic Macintosh system releases and software on a web browser](https://infinitemac.org/)
 * [2023-06-08, 15:51:29](https://news.ycombinator.com/item?id=36243955) - [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
 * [2023-06-08, 15:51:22](https://news.ycombinator.com/item?id=36243951) - [AI browser extensions are a security nightmare](https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare)
