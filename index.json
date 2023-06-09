@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-06-09, 13:29:54",
-      "https://news.ycombinator.com/item?id=36257545"
-    ],
-    [
-      "Lawyers blame ChatGPT for tricking them into citing bogus case law",
-      "https://apnews.com/article/artificial-intelligence-chatgpt-courts-e15023d7e6fdf4f099aa122437dbb59b"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 13:28:26",
       "https://news.ycombinator.com/item?id=36257523"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36257255"
     ],
     [
-      "Freeman Dyson: Gravitational Machines",
+      "Gravitational Machines",
       "https://arxiv.org/abs/2305.10470"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36257233"
     ],
     [
-      "Do No Harm petition: Don't give Big Tech access to our medical records",
+      "Do no harm petition: Don't give big tech access to our medical records",
       "https://act.wemove.eu/campaigns/medical-records"
     ]
   ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36254172"
     ],
     [
-      "ArchiveTeam has saved over 11.2B Reddit links so far. We need your help",
+      "ArchiveTeam has saved over 11.2B Reddit links",
       "https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/"
     ]
   ],
@@ -177,6 +167,16 @@
     [
       "Reddark: Website to watch subreddits going dark",
       "https://reddark.netlify.app/"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 04:17:15",
+      "https://news.ycombinator.com/item?id=36253067"
+    ],
+    [
+      "Adventures in Debian's Qt Land",
+      "https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/"
     ]
   ],
   [
@@ -205,7 +205,7 @@
       "https://news.ycombinator.com/item?id=36248081"
     ],
     [
-      "Why Do Cats Knead?",
+      "Why do cats knead?",
       "https://www.livescience.com/animals/cats/why-do-cats-knead"
     ]
   ],
