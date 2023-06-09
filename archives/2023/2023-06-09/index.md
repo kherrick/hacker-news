@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
 * [2023-06-09, 16:36:27](https://news.ycombinator.com/item?id=36260365) - [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
 * [2023-06-09, 16:35:47](https://news.ycombinator.com/item?id=36260361) - [‘The Force has left Lucasfilm’: how Disney can salvage its $4B investment](https://fortune.com/2023/06/03/indiana-jones-dial-of-destiny-lucasfilm-star-wars-worry-for-disney-bob-iger/)
 * [2023-06-09, 16:20:54](https://news.ycombinator.com/item?id=36260140) - [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)
@@ -47,3 +48,4 @@
 * [2023-06-09, 02:28:25](https://news.ycombinator.com/item?id=36252351) - [How Rural America Steals Girls’ Futures](https://www.theatlantic.com/ideas/archive/2023/04/the-forgotten-girls-monica-potts-book-excerpt/673581/)
 * [2023-06-09, 01:41:32](https://news.ycombinator.com/item?id=36252061) - [Using unmodified third-party Reddit apps with a custom server](https://gist.github.com/tech234a/ddfd51a1775deadee4b8a264f6d0d29e)
 * [2023-06-09, 00:52:40](https://news.ycombinator.com/item?id=36251643) - [The US is getting its first new nuclear reactor in 40 years](https://grist.org/energy/first-us-nuclear-reactor-40-years-online-georgia/)
+* [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [Data Compression Drives the Internet. Here’s How It Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
