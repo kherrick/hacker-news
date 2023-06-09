@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 16:36:27](https://news.ycombinator.com/item?id=36260365) - [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
 * [2023-06-09, 16:20:54](https://news.ycombinator.com/item?id=36260140) - [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)
 * [2023-06-09, 16:18:37](https://news.ycombinator.com/item?id=36260116) - [Royal Mail issues Warhammer stamps celebrating 40 year anniversary](https://shop.royalmail.com/special-stamp-issues/warhammer)
 * [2023-06-09, 16:06:33](https://news.ycombinator.com/item?id=36259930) - [Archive Your Reddit Data Before It's Too Late](https://xavd.id/blog/post/archive-your-reddit-data/)

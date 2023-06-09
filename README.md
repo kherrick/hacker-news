@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 16:36:27](https://news.ycombinator.com/item?id=36260365) - [Their Crypto Company Collapsed. They Went to Bali](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html)
 * [2023-06-09, 16:20:54](https://news.ycombinator.com/item?id=36260140) - [Show HN: Hacker News Summary – Let ChatGPT Summarize Hacker News for You](https://hackernews.betacat.io/)
 * [2023-06-09, 16:18:37](https://news.ycombinator.com/item?id=36260116) - [Royal Mail issues Warhammer stamps celebrating 40 year anniversary](https://shop.royalmail.com/special-stamp-issues/warhammer)
 * [2023-06-09, 16:06:33](https://news.ycombinator.com/item?id=36259930) - [Archive Your Reddit Data Before It's Too Late](https://xavd.id/blog/post/archive-your-reddit-data/)
@@ -24,7 +25,6 @@
 * [2023-06-08, 20:08:18](https://news.ycombinator.com/item?id=36248071) - [Writing a C Compiler (2017)](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 * [2023-06-08, 19:03:27](https://news.ycombinator.com/item?id=36246943) - [Build your own lazy operation evaluator in Elixir](https://www.germanvelasco.com/blog/build-your-own-lazy-operation-evaluator-in-elixir)
 * [2023-06-08, 18:36:47](https://news.ycombinator.com/item?id=36246547) - [Average color of the NYC sky every 5 minutes](https://nskyc.com/)
-* [2023-06-08, 16:34:10](https://news.ycombinator.com/item?id=36244647) - [Startups drive commercialization of high-impact innovations](https://www.nber.org/be/20231/startups-drive-commercialization-high-impact-innovations)
 * [2023-06-08, 16:30:03](https://news.ycombinator.com/item?id=36244591) - [Why you’re going about recovering from perfectionism all wrong (2021)](https://candrews.medium.com/why-youre-going-about-recovering-from-perfectionism-all-wrong-b747dea3981f)
 * [2023-06-08, 16:24:54](https://news.ycombinator.com/item?id=36244509) - [You can't reach the brain through the ears](https://www.experimental-history.com/p/you-cant-reach-the-brain-through)
 * [2023-06-08, 12:11:28](https://news.ycombinator.com/item?id=36240547) - [The Icelandic Saga Database](https://www.sagadb.org/)
