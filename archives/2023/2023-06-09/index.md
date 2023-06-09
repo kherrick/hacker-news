@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [The First Reactionary](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
+* [2023-06-09, 22:39:06](https://news.ycombinator.com/item?id=36265245) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [How the Computer Graphics Industry Got Started at the University of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 21:32:52](https://news.ycombinator.com/item?id=36264429) - [An unknown Swedish startup’s €3B bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
 * [2023-06-09, 21:14:43](https://news.ycombinator.com/item?id=36264253) - [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
@@ -25,6 +27,7 @@
 * [2023-06-09, 18:06:32](https://news.ycombinator.com/item?id=36261650) - [Swedish PM: we are now changing our migration policy to the EU's strictest](https://www.aftonbladet.se/debatt/a/wA5gkd/kristersson-tre-saker-kravs-for-att-satta-ihop-sverige-igen)
 * [2023-06-09, 17:59:03](https://news.ycombinator.com/item?id=36261537) - [Microsoft officially supports running Windows 11 on M1 and M2 Macs](https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/)
 * [2023-06-09, 17:56:08](https://news.ycombinator.com/item?id=36261492) - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
+* [2023-06-09, 17:52:56](https://news.ycombinator.com/item?id=36261439) - [A 19th century family portrait of comets](https://bigthink.com/strange-maps/comet-portraits/)
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens’ data (including Erdogan) are online after govt site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
 * [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
