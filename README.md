@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-09, 11:19:58](https://news.ycombinator.com/item?id=36256167) - [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
 * [2023-06-09, 09:46:40](https://news.ycombinator.com/item?id=36255524) - [Army tested 'germ warfare' on NYC subway by smashing lightbulbs full of bacteria](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
 * [2023-06-09, 08:04:21](https://news.ycombinator.com/item?id=36254764) - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
 * [2023-06-09, 06:42:12](https://news.ycombinator.com/item?id=36254172) - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
 * [2023-06-09, 06:37:03](https://news.ycombinator.com/item?id=36254135) - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
 * [2023-06-09, 06:31:28](https://news.ycombinator.com/item?id=36254086) - [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
-* [2023-06-09, 05:45:46](https://news.ycombinator.com/item?id=36253769) - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
 * [2023-06-09, 05:22:29](https://news.ycombinator.com/item?id=36253591) - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 * [2023-06-09, 04:17:15](https://news.ycombinator.com/item?id=36253067) - [Adventures in Debian's Qt Land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
 * [2023-06-08, 23:18:44](https://news.ycombinator.com/item?id=36250689) - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
