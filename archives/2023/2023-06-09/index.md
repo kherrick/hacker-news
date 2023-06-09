@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 17:59:03](https://news.ycombinator.com/item?id=36261537) - [Microsoft officially supports running Windows 11 on M1 and M2 Macs](https://www.techrepublic.com/article/microsoft-supports-windows-11-m1-m2-macs/)
+* [2023-06-09, 17:56:08](https://news.ycombinator.com/item?id=36261492) - [Nix/NixOS S3 Update and Recap of Community Call](https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942)
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens’ data (including Erdogan) are online after govt site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
 * [2023-06-09, 17:28:12](https://news.ycombinator.com/item?id=36261069) - [OpenAI faces defamation suit after ChatGPT fabricated another lawsuit](https://arstechnica.com/tech-policy/2023/06/openai-sued-for-defamation-after-chatgpt-fabricated-yet-another-lawsuit/)
