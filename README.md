@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 19:08:15](https://news.ycombinator.com/item?id=36273890) - [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-06-10, 18:07:23](https://news.ycombinator.com/item?id=36273075) - [OBS merges WebRTC support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
@@ -21,8 +22,7 @@
 * [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the MUMPS (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig language server and cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
-* [2023-06-10, 04:31:39](https://news.ycombinator.com/item?id=36267611) - [The Ritual of Capitalization (2021)](https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/)
-* [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
+* [2023-06-09, 23:32:24](https://news.ycombinator.com/item?id=36265777) - [How Folklore Goes Digital](https://www.return.life/p/how-folklore-goes-digital)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)

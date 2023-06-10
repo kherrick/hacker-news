@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-09](index.md)
 
+* [2023-06-09, 23:32:24](https://news.ycombinator.com/item?id=36265777) - [How Folklore Goes Digital](https://www.return.life/p/how-folklore-goes-digital)
 * [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
 * [2023-06-09, 23:27:56](https://news.ycombinator.com/item?id=36265739) - [Beamer, Dressman, Bodybag](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en?ref=thebrowser.com)
