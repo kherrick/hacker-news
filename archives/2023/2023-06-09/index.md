@@ -81,6 +81,7 @@
 * [2023-06-09, 10:43:50](https://news.ycombinator.com/item?id=36255910) - [Ask HN: I want to create a personal health dashboard, what should I use?](https://news.ycombinator.com/item?id=36255910)
 * [2023-06-09, 10:29:35](https://news.ycombinator.com/item?id=36255798) - [Laugh Along with GNU – GNU Humor](https://www.gnu.org/fun/humor.html)
 * [2023-06-09, 10:15:12](https://news.ycombinator.com/item?id=36255709) - [A wave of sleep laws for teens?](https://dylancollins.com/2023/06/09/a-wave-of-sleep-laws-for-teens/)
+* [2023-06-09, 09:49:50](https://news.ycombinator.com/item?id=36255546) - [Why Do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [2023-06-09, 09:46:40](https://news.ycombinator.com/item?id=36255524) - [Army tested 'germ warfare' on NYC subway by smashing lightbulbs full of bacteria](https://www.businessinsider.com/biological-agents-were-tested-on-the-new-york-city-subway-2015-11)
 * [2023-06-09, 09:43:14](https://news.ycombinator.com/item?id=36255493) - [Peter Singer on utilitarianism, influence, and controversial ideas](https://conversationswithtyler.com/episodes/peter-singer/)
 * [2023-06-09, 08:31:35](https://news.ycombinator.com/item?id=36254959) - [Seam Carving](https://www.alanzucconi.com/2023/05/29/seam-carving/)
