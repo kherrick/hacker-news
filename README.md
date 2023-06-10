@@ -4,7 +4,6 @@
 * [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
 * [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)
 * [2023-06-10, 14:15:20](https://news.ycombinator.com/item?id=36270647) - [UK hobbyist stuns math world with 'amazing' new shapes](https://phys.org/news/2023-06-uk-hobbyist-stuns-math-world.html)
-* [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown. Other cities may be next](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 * [2023-06-10, 14:06:38](https://news.ycombinator.com/item?id=36270565) - [The Embeddable Common Lisp (2005) [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
 * [2023-06-10, 14:05:46](https://news.ycombinator.com/item?id=36270554) - [FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
 * [2023-06-10, 13:46:56](https://news.ycombinator.com/item?id=36270427) - [GitHub accused of varying Copilot output to avoid copyright allegations](https://www.theregister.com/2023/06/09/github_copilot_lawsuit/)
@@ -28,6 +27,7 @@
 * [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy well, buy once](https://fellow.ventures/buy-well-buy-once/)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
 * [2023-06-09, 10:55:53](https://news.ycombinator.com/item?id=36255989) - [All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
+* [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 21:19:51](https://news.ycombinator.com/item?id=36249253) - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 
