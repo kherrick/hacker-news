@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 12:05:44](https://news.ycombinator.com/item?id=36269782) - [Facts Don’t Change Minds: A Case for the Virtues of Propaganda](https://psyche.co/ideas/facts-dont-change-minds-a-case-for-the-virtues-of-propaganda)
 * [2023-06-10, 09:36:17](https://news.ycombinator.com/item?id=36269041) - [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 09:06:37](https://news.ycombinator.com/item?id=36268907) - [AI detects 20k hidden taxable swimming pools in France, netting €10M](https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools)

@@ -6,6 +6,7 @@
 
 * [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
+* [2023-06-09, 23:27:18](https://news.ycombinator.com/item?id=36265734) - [In the dead of night, a deafening war](https://atmos.earth/exploring-evolution-of-bats-and-moths/)
 * [2023-06-09, 23:26:45](https://news.ycombinator.com/item?id=36265730) - [The baddest lawyer in the history of Jersey](https://nymag.com/news/features/paul-bergrin-2011-6/)
 * [2023-06-09, 23:24:25](https://news.ycombinator.com/item?id=36265705) - [A Gallop Through a Horse’s Pedigree](https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html)
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [The First Reactionary](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
