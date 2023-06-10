@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
+* [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 19:08:15](https://news.ycombinator.com/item?id=36273890) - [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
@@ -14,7 +15,6 @@
 * [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra SoC isn’t faster than AMD and Intel last year desktop CPUs](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
 * [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
 * [2023-06-10, 15:03:01](https://news.ycombinator.com/item?id=36271112) - [LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)](https://arxiv.org/abs/2208.07339)
-* [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-hydrogen production reaches deep water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
 * [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Executable Examples in Go](https://bitfieldconsulting.com/golang/examples)
 * [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
