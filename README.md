@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-10, 03:27:35](https://news.ycombinator.com/item?id=36267302) - [“All other options and bullshit aside, THIS is why I hate Apple.”](https://twitter.com/mikecodemonkey/status/1666553456474337282)
 * [2023-06-10, 02:47:36](https://news.ycombinator.com/item?id=36267087) - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 * [2023-06-10, 02:47:04](https://news.ycombinator.com/item?id=36267083) - [A comment about Christian Queinnec's book Lisp in Small Pieces (1996)](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
 * [2023-06-10, 01:47:36](https://news.ycombinator.com/item?id=36266734) - [Teenage Engineering OP-1: How a Micro Synth Made a Massive Impact in Music Tech](https://www.betterbydesign.cc/p/teenage-engineering-op-1-the-micro)
@@ -18,6 +17,7 @@
 * [2023-06-09, 20:00:04](https://news.ycombinator.com/item?id=36263349) - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
 * [2023-06-09, 19:54:52](https://news.ycombinator.com/item?id=36263283) - [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
 * [2023-06-09, 19:43:25](https://news.ycombinator.com/item?id=36263105) - [Artificial brains help understand real brains](https://www.economist.com/science-and-technology/2023/05/24/artificial-brains-are-helping-scientists-study-the-real-thing)
+* [2023-06-09, 19:24:52](https://news.ycombinator.com/item?id=36262821) - [Ask HN: Is it time to resurrect a Usenet clone?](https://news.ycombinator.com/item?id=36262821)
 * [2023-06-09, 19:18:11](https://news.ycombinator.com/item?id=36262722) - [I'm Not Invidious](https://blog.thefrenchghosty.me/posts/im-not-invidious/)
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 16:54:03](https://news.ycombinator.com/item?id=36260626) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
@@ -25,7 +25,7 @@
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [The impact of the ‘long peace’ on modern military capabilities](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
 * [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Gravitational Machines](https://arxiv.org/abs/2305.10470)
-* [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy Well, Buy Once](https://fellow.ventures/buy-well-buy-once/)
+* [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy well, buy once](https://fellow.ventures/buy-well-buy-once/)
 * [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [Data Compression Drives the Internet. Here’s How It Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 20:50:04](https://news.ycombinator.com/item?id=36248786) - [Searching for Meg White](https://www.elle.com/culture/music/a43846386/meg-white-interview-2023/)
