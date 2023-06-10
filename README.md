@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 04:18:43](https://news.ycombinator.com/item?id=36267557) - [Desktop Linux is insecure – 2023](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
 * [2023-06-10, 02:47:36](https://news.ycombinator.com/item?id=36267087) - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 * [2023-06-10, 02:47:04](https://news.ycombinator.com/item?id=36267083) - [A comment about Christian Queinnec's book Lisp in Small Pieces (1996)](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
 * [2023-06-10, 01:47:36](https://news.ycombinator.com/item?id=36266734) - [Teenage Engineering OP-1: How a Micro Synth Made a Massive Impact in Music Tech](https://www.betterbydesign.cc/p/teenage-engineering-op-1-the-micro)
@@ -25,7 +26,6 @@
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [The impact of the ‘long peace’ on modern military capabilities](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
 * [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy well, buy once](https://fellow.ventures/buy-well-buy-once/)
-* [2023-06-09, 05:40:30](https://news.ycombinator.com/item?id=36253726) - [All this unmobilized love](https://erinkissane.com/all-this-unmobilized-love)
 * [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [Data Compression Drives the Internet. Here’s How It Works](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 20:50:04](https://news.ycombinator.com/item?id=36248786) - [Searching for Meg White](https://www.elle.com/culture/music/a43846386/meg-white-interview-2023/)
