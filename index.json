@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-10, 02:37:36",
-      "https://news.ycombinator.com/item?id=36267035"
-    ],
-    [
-      "Scientists Now Know Why Psychedelics Conquer Depression Even Without a High",
-      "https://singularityhub.com/2023/06/06/psychedelic-inspired-drugs-could-beat-depression-without-the-trip/"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 01:47:36",
       "https://news.ycombinator.com/item?id=36266734"
     ],
@@ -207,6 +197,16 @@
     [
       "Kera Desktop: open-source, cross-platform, web-based desktop environment",
       "https://desktop.kerahq.com/"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 15:02:56",
+      "https://news.ycombinator.com/item?id=36258882"
+    ],
+    [
+      "Who is working on forward and backward compatibility for LLMs?",
+      "https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility"
     ]
   ],
   [
