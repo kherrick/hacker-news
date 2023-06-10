@@ -81,6 +81,7 @@
 * [2023-06-09, 06:37:03](https://news.ycombinator.com/item?id=36254135) - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)
 * [2023-06-09, 06:31:28](https://news.ycombinator.com/item?id=36254086) - [Reddark: Website to watch subreddits going dark](https://reddark.netlify.app/)
 * [2023-06-09, 05:45:46](https://news.ycombinator.com/item?id=36253769) - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
+* [2023-06-09, 05:40:30](https://news.ycombinator.com/item?id=36253726) - [All this unmobilized love](https://erinkissane.com/all-this-unmobilized-love)
 * [2023-06-09, 05:22:29](https://news.ycombinator.com/item?id=36253591) - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 * [2023-06-09, 05:01:14](https://news.ycombinator.com/item?id=36253422) - [How's the Stack Overflow strike going?](https://jlericson.com/2023/06/07/strike_progress.html)
 * [2023-06-09, 04:17:15](https://news.ycombinator.com/item?id=36253067) - [Adventures in Debian's Qt Land](https://perezmeyer.com.ar/blog/2023/06/08/adventures_in_debian_s_qt_land/)
