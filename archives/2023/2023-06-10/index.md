@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski, ‘Unabomber’ Who Attacked Modern Life, Dies at 81](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
+* [2023-06-10, 17:05:47](https://news.ycombinator.com/item?id=36272365) - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027)
+* [2023-06-10, 17:00:34](https://news.ycombinator.com/item?id=36272310) - [Ted Kaczynski Has Died](https://www.sfgate.com/news/article/alert-bureau-of-prisons-tells-ap-that-ted-18145818.php)
 * [2023-06-10, 16:29:03](https://news.ycombinator.com/item?id=36271926) - [Meta releases New SOTA Text to Music generator better than MusicLM](https://ai.honu.io/papers/musicgen/)
 * [2023-06-10, 16:27:00](https://news.ycombinator.com/item?id=36271910) - [What Should You Build?](https://exponentially.substack.com/p/what-should-you-build)
 * [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra Isn't Faster Than Last Gen AMD&Intel Desktop CPUs, 50% Slower GPU](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
