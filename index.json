@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 18:42:00",
+      "https://news.ycombinator.com/item?id=36273544"
+    ],
+    [
+      "10~17x faster than what? A performance analysis of Intel x86-SIMD-sort (AVX-512)",
+      "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 18:07:23",
       "https://news.ycombinator.com/item?id=36273075"
     ],
@@ -57,6 +67,16 @@
     [
       "Meta releases New SOTA Text to Music generator better than MusicLM",
       "https://ai.honu.io/papers/musicgen/"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 16:27:00",
+      "https://news.ycombinator.com/item?id=36271910"
+    ],
+    [
+      "What Should You Build?",
+      "https://exponentially.substack.com/p/what-should-you-build"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-06-10, 03:43:58",
-      "https://news.ycombinator.com/item?id=36267382"
-    ],
-    [
-      "Emoji Kitchen",
-      "https://emojikitchen.dev/"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 23:31:56",
       "https://news.ycombinator.com/item?id=36265771"
     ],
@@ -287,16 +297,6 @@
     [
       "List one task, do it, cross it out",
       "https://www.oliverburkeman.com/onething"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 05:19:34",
-      "https://news.ycombinator.com/item?id=36253565"
-    ],
-    [
-      "Ask HN: Advice on Starting a YouTube Channel?",
-      "https://news.ycombinator.com/item?id=36253565"
     ]
   ]
 ]
