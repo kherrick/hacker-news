@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 12:32:48](https://news.ycombinator.com/item?id=36269934) - [Debian 12 “Bookworm” Released](https://www.debian.org/News/2023/20230610)
 * [2023-06-10, 12:05:44](https://news.ycombinator.com/item?id=36269782) - [Facts Don’t Change Minds: A Case for the Virtues of Propaganda](https://psyche.co/ideas/facts-dont-change-minds-a-case-for-the-virtues-of-propaganda)
 * [2023-06-10, 09:36:17](https://news.ycombinator.com/item?id=36269041) - [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
