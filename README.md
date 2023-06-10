@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 12:46:40](https://news.ycombinator.com/item?id=36270011) - [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.co.uk/news/world-latin-america-65864158)
 * [2023-06-10, 12:32:48](https://news.ycombinator.com/item?id=36269934) - [Debian 12 “Bookworm” Released](https://www.debian.org/News/2023/20230610)
 * [2023-06-10, 09:36:17](https://news.ycombinator.com/item?id=36269041) - [The Accidental HFT Firm (2018)](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
@@ -25,7 +26,6 @@
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 17:15:31](https://news.ycombinator.com/item?id=36260906) - [My experience of the Chrome Extension submission process](https://meetingdolphin.com/blog/chrome-extension-submission)
 * [2023-06-09, 15:50:09](https://news.ycombinator.com/item?id=36259679) - [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
-* [2023-06-09, 12:31:37](https://news.ycombinator.com/item?id=36256869) - [U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning](https://dl.acm.org/doi/10.1145/3589246.3595371)
 * [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy well, buy once](https://fellow.ventures/buy-well-buy-once/)
 * [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
