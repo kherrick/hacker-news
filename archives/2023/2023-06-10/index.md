@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 17:42:28](https://news.ycombinator.com/item?id=36272747) - [“GCP automatically LOWERED our quota, causing an incident“](https://twitter.com/JustJake/status/1667478906591666176)
 * [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski, ‘Unabomber’ Who Attacked Modern Life, Dies at 81](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
 * [2023-06-10, 17:05:47](https://news.ycombinator.com/item?id=36272365) - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027)
 * [2023-06-10, 17:00:34](https://news.ycombinator.com/item?id=36272310) - [Ted Kaczynski Has Died](https://www.sfgate.com/news/article/alert-bureau-of-prisons-tells-ap-that-ted-18145818.php)
