@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 22:40:50](https://news.ycombinator.com/item?id=36275972) - [VP of Bitwarden fired for using ‘Assigned By God’ as pronoun sues employer](https://techstartups.com/2023/06/10/vp-of-cybersecurity-startup-bitwarden-fired-for-using-assigned-by-god-as-preferred-pronoun-sues-employer/)
+* [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:55:25](https://news.ycombinator.com/item?id=36275565) - [Ask HN: Why did major desktop OSes settle on a macOS-like taskbar?](https://news.ycombinator.com/item?id=36275565)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
 * [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
@@ -12,7 +14,6 @@
 * [2023-06-10, 17:42:28](https://news.ycombinator.com/item?id=36272747) - [GCP automatically lowered our quota, caused an incident, and refused to upgrade](https://twitter.com/JustJake/status/1667478906591666176)
 * [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski has died](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
 * [2023-06-10, 16:29:03](https://news.ycombinator.com/item?id=36271926) - [MusicGen: Simple and controllable music generation](https://ai.honu.io/papers/musicgen/)
-* [2023-06-10, 16:27:00](https://news.ycombinator.com/item?id=36271910) - [What Should You Build?](https://exponentially.substack.com/p/what-should-you-build)
 * [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra SoC isn’t faster than AMD and Intel last year desktop CPUs](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
 * [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
 * [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Executable Examples in Go](https://bitfieldconsulting.com/golang/examples)
@@ -23,7 +24,6 @@
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the MUMPS (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 03:30:41](https://news.ycombinator.com/item?id=36267318) - [Deep dive: how Big Ambitions hit it big on Steam](https://newsletter.gamediscover.co/p/deep-dive-how-big-ambitions-hit-it)
 * [2023-06-09, 23:32:24](https://news.ycombinator.com/item?id=36265777) - [How Folklore Goes Digital](https://www.return.life/p/how-folklore-goes-digital)
-* [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 17:52:56](https://news.ycombinator.com/item?id=36261439) - [A 19th century family portrait of comets](https://bigthink.com/strange-maps/comet-portraits/)
 * [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
