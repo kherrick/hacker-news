@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 03:27:35](https://news.ycombinator.com/item?id=36267302) - [“All other options and bullshit aside, THIS is why I hate Apple.”](https://twitter.com/mikecodemonkey/status/1666553456474337282)
 * [2023-06-10, 02:47:36](https://news.ycombinator.com/item?id=36267087) - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 * [2023-06-10, 02:47:04](https://news.ycombinator.com/item?id=36267083) - [A comment about Christian Queinnec's book Lisp in Small Pieces (1996)](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
 * [2023-06-10, 02:37:36](https://news.ycombinator.com/item?id=36267035) - [Scientists Now Know Why Psychedelics Conquer Depression Even Without a High](https://singularityhub.com/2023/06/06/psychedelic-inspired-drugs-could-beat-depression-without-the-trip/)
