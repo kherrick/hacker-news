@@ -10,7 +10,6 @@
 * [2023-06-10, 14:06:38](https://news.ycombinator.com/item?id=36270565) - [The Embeddable Common Lisp (2005) [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
 * [2023-06-10, 14:05:46](https://news.ycombinator.com/item?id=36270554) - [FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
 * [2023-06-10, 13:46:56](https://news.ycombinator.com/item?id=36270427) - [GitHub accused of varying Copilot output to avoid copyright allegations](https://www.theregister.com/2023/06/09/github_copilot_lawsuit/)
-* [2023-06-10, 13:36:32](https://news.ycombinator.com/item?id=36270348) - [DDoS Protection](https://docs.digitalocean.com/products/networking/ddos/)
 * [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
 * [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
 * [2023-06-10, 12:46:40](https://news.ycombinator.com/item?id=36270011) - [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.com/news/world-latin-america-65864158)
@@ -28,6 +27,7 @@
 * [2023-06-09, 17:15:31](https://news.ycombinator.com/item?id=36260906) - [My experience of the Chrome Extension submission process](https://meetingdolphin.com/blog/chrome-extension-submission)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
 * [2023-06-09, 10:55:53](https://news.ycombinator.com/item?id=36255989) - [All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
+* [2023-06-09, 06:02:24](https://news.ycombinator.com/item?id=36253882) - [List one task, do it, cross it out](https://www.oliverburkeman.com/onething)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 21:19:51](https://news.ycombinator.com/item?id=36249253) - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 
