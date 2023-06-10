@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-10, 22:40:50](https://news.ycombinator.com/item?id=36275972) - [VP of Bitwarden fired for using ‘Assigned By God’ as pronoun sues employer](https://techstartups.com/2023/06/10/vp-of-cybersecurity-startup-bitwarden-fired-for-using-assigned-by-god-as-preferred-pronoun-sues-employer/)
 * [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:55:25](https://news.ycombinator.com/item?id=36275565) - [Ask HN: Why did major desktop OSes settle on a macOS-like taskbar?](https://news.ycombinator.com/item?id=36275565)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
@@ -24,6 +23,7 @@
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the MUMPS (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 03:30:41](https://news.ycombinator.com/item?id=36267318) - [Deep dive: how Big Ambitions hit it big on Steam](https://newsletter.gamediscover.co/p/deep-dive-how-big-ambitions-hit-it)
 * [2023-06-09, 23:32:24](https://news.ycombinator.com/item?id=36265777) - [How Folklore Goes Digital](https://www.return.life/p/how-folklore-goes-digital)
+* [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 17:52:56](https://news.ycombinator.com/item?id=36261439) - [A 19th century family portrait of comets](https://bigthink.com/strange-maps/comet-portraits/)
 * [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
