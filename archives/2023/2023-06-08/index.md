@@ -14,6 +14,7 @@
 * [2023-06-08, 21:48:20](https://news.ycombinator.com/item?id=36249671) - [Mechanical Apple Watch from Real E-Waste Apple Watch](https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/)
 * [2023-06-08, 21:39:33](https://news.ycombinator.com/item?id=36249546) - [The TI (Lisp) Explorer Project](https://shanen.medium.com/the-ti-lisp-explorer-project-5fc53a90fb11)
 * [2023-06-08, 21:29:34](https://news.ycombinator.com/item?id=36249414) - [HN manually circumvents block from Asahi Linux devs](https://social.treehouse.systems/@endrift/110503088955835842)
+* [2023-06-08, 21:19:51](https://news.ycombinator.com/item?id=36249253) - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 * [2023-06-08, 21:04:37](https://news.ycombinator.com/item?id=36249036) - [Manjaro is a free and open source Linux operating system that emphasizes privacy](https://manjaro.org/)
 * [2023-06-08, 21:00:41](https://news.ycombinator.com/item?id=36248970) - [Atoms Is Hiring Marketng Lead](https://news.ycombinator.com/item?id=36248970)
 * [2023-06-08, 20:51:56](https://news.ycombinator.com/item?id=36248815) - [GM to use Tesla charging network, joining Ford](https://www.cnbc.com/2023/06/08/gm-tesla-partner-on-ev-charging-network.html)

@@ -14,7 +14,6 @@
 * [2023-06-10, 01:33:51](https://news.ycombinator.com/item?id=36266656) - [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
 * [2023-06-10, 00:45:51](https://news.ycombinator.com/item?id=36266360) - [Cosmic luck: NASA’s Apollo 11 moon quarantine broke down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
 * [2023-06-10, 00:43:59](https://news.ycombinator.com/item?id=36266342) - [All Those Naked Greeks](https://aeon.co/essays/why-are-men-seemingly-always-naked-in-ancient-greek-art)
-* [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We don’t trade with ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
 * [2023-06-09, 23:27:18](https://news.ycombinator.com/item?id=36265734) - [In the dead of night, a deafening war](https://atmos.earth/exploring-evolution-of-bats-and-moths/)
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
@@ -30,6 +29,7 @@
 * [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 22:34:15](https://news.ycombinator.com/item?id=36250179) - [Building a brand identity with code](https://zchry.org/words/building-a-brand-identity-with-code)
+* [2023-06-08, 21:19:51](https://news.ycombinator.com/item?id=36249253) - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 
 ## [Archives](archives/index.md)
 
