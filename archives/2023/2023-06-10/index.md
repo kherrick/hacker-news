@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 21:55:25](https://news.ycombinator.com/item?id=36275565) - [Ask HN: Why did major desktop OSes settle on a macOS-like taskbar?](https://news.ycombinator.com/item?id=36275565)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
 * [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
