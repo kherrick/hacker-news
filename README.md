@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-10, 04:19:23](https://news.ycombinator.com/item?id=36267563) - [Ask HN: Dev productivity tools you would pay for](https://news.ycombinator.com/item?id=36267563)
+* [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 03:43:58](https://news.ycombinator.com/item?id=36267382) - [Emoji Kitchen](https://emojikitchen.dev/)
 * [2023-06-10, 02:47:36](https://news.ycombinator.com/item?id=36267087) - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 * [2023-06-10, 02:47:04](https://news.ycombinator.com/item?id=36267083) - [A comment about Christian Queinnec's book Lisp in Small Pieces (1996)](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
 * [2023-06-10, 01:33:51](https://news.ycombinator.com/item?id=36266656) - [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
-* [2023-06-10, 01:00:29](https://news.ycombinator.com/item?id=36266461) - [Doctor Droid (YC W23) is hiring a technical content writer](https://www.ycombinator.com/companies/doctor-droid/jobs/XPNy2Yp-technical-content-writer)
 * [2023-06-10, 00:45:51](https://news.ycombinator.com/item?id=36266360) - [Cosmic luck: NASA’s Apollo 11 moon quarantine broke down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
 * [2023-06-10, 00:43:59](https://news.ycombinator.com/item?id=36266342) - [All Those Naked Greeks](https://aeon.co/essays/why-are-men-seemingly-always-naked-in-ancient-greek-art)
 * [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We don’t trade with ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
@@ -30,6 +29,7 @@
 * [2023-06-09, 09:43:14](https://news.ycombinator.com/item?id=36255493) - [Peter Singer on utilitarianism, influence, and controversial ideas](https://conversationswithtyler.com/episodes/peter-singer/)
 * [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
+* [2023-06-08, 20:50:04](https://news.ycombinator.com/item?id=36248786) - [Searching for Meg White](https://www.elle.com/culture/music/a43846386/meg-white-interview-2023/)
 
 ## [Archives](archives/index.md)
 

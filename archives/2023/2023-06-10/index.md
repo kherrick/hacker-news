@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 04:19:23](https://news.ycombinator.com/item?id=36267563) - [Ask HN: Dev productivity tools you would pay for](https://news.ycombinator.com/item?id=36267563)
 * [2023-06-10, 04:18:43](https://news.ycombinator.com/item?id=36267557) - [Desktop Linux is insecure – 2023](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
 * [2023-06-10, 03:43:58](https://news.ycombinator.com/item?id=36267382) - [Emoji Kitchen](https://emojikitchen.dev/)
