@@ -9,6 +9,7 @@
 * [2023-06-09, 23:26:45](https://news.ycombinator.com/item?id=36265730) - [The baddest lawyer in the history of Jersey](https://nymag.com/news/features/paul-bergrin-2011-6/)
 * [2023-06-09, 23:24:25](https://news.ycombinator.com/item?id=36265705) - [A Gallop Through a Horse’s Pedigree](https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html)
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [The First Reactionary](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
+* [2023-06-09, 23:18:56](https://news.ycombinator.com/item?id=36265658) - [LLMs are better than you think at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-09, 22:45:24](https://news.ycombinator.com/item?id=36265316) - [Wow, Is Apple’s Vision Pro Loaded with Pixels](https://spectrum.ieee.org/apple-vision-pro)
 * [2023-06-09, 22:39:06](https://news.ycombinator.com/item?id=36265245) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [How the Computer Graphics Industry Got Started at the University of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
