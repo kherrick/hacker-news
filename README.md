@@ -2,6 +2,7 @@
 
 * [2023-06-10, 09:36:17](https://news.ycombinator.com/item?id=36269041) - [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
+* [2023-06-10, 07:27:34](https://news.ycombinator.com/item?id=36268458) - [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
 * [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 * [2023-06-10, 04:31:39](https://news.ycombinator.com/item?id=36267611) - [The Ritual of Capitalization (2021)](https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/)
@@ -11,7 +12,6 @@
 * [2023-06-10, 01:33:51](https://news.ycombinator.com/item?id=36266656) - [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
 * [2023-06-10, 00:45:51](https://news.ycombinator.com/item?id=36266360) - [Cosmic luck: NASA’s Apollo 11 moon quarantine broke down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
 * [2023-06-10, 00:43:59](https://news.ycombinator.com/item?id=36266342) - [All Those Naked Greeks](https://aeon.co/essays/why-are-men-seemingly-always-naked-in-ancient-greek-art)
-* [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We don’t trade with ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
 * [2023-06-09, 23:24:25](https://news.ycombinator.com/item?id=36265705) - [A Gallop Through a Horse’s Pedigree](https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html)
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
