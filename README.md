@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-10, 02:37:36](https://news.ycombinator.com/item?id=36267035) - [Scientists Now Know Why Psychedelics Conquer Depression Even Without a High](https://singularityhub.com/2023/06/06/psychedelic-inspired-drugs-could-beat-depression-without-the-trip/)
 * [2023-06-10, 01:47:36](https://news.ycombinator.com/item?id=36266734) - [Teenage Engineering OP-1: How a Micro Synth Made a Massive Impact in Music Tech](https://www.betterbydesign.cc/p/teenage-engineering-op-1-the-micro)
 * [2023-06-10, 01:45:10](https://news.ycombinator.com/item?id=36266724) - [Messing with the Beepberry](https://www.jeffgeerling.com/blog/2023/messing-beepberry)
 * [2023-06-10, 01:33:51](https://news.ycombinator.com/item?id=36266656) - [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
@@ -21,6 +20,7 @@
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 16:54:03](https://news.ycombinator.com/item?id=36260626) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 * [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
+* [2023-06-09, 15:02:56](https://news.ycombinator.com/item?id=36258882) - [Who is working on forward and backward compatibility for LLMs?](https://huyenchip.com/2023/04/11/llm-engineering.html#backward_and_forward_compatibility)
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [The impact of the ‘long peace’ on modern military capabilities](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
 * [2023-06-09, 13:06:20](https://news.ycombinator.com/item?id=36257255) - [Gravitational Machines](https://arxiv.org/abs/2305.10470)
