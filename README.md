@@ -14,7 +14,6 @@
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 21:32:52](https://news.ycombinator.com/item?id=36264429) - [A Swedish startup’s bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
-* [2023-06-09, 21:14:43](https://news.ycombinator.com/item?id=36264253) - [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
 * [2023-06-09, 20:23:11](https://news.ycombinator.com/item?id=36263654) - [The Opt Out Project](https://www.optoutproject.net/)
 * [2023-06-09, 20:00:04](https://news.ycombinator.com/item?id=36263349) - [Chat Notebooks](https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/)
 * [2023-06-09, 19:54:52](https://news.ycombinator.com/item?id=36263283) - [Bad waitress: Dying on your feet](https://dirt.fyi/article/2023/06/bad-waitress)
@@ -27,8 +26,9 @@
 * [2023-06-09, 14:23:16](https://news.ycombinator.com/item?id=36258234) - [The impact of the ‘long peace’ on modern military capabilities](https://acoup.blog/2023/06/09/fireside-friday-june-9-2023/)
 * [2023-06-09, 14:03:31](https://news.ycombinator.com/item?id=36257963) - [OpenMW: Open-source TES3: Morrowind reimplementation](https://gitlab.com/OpenMW/openmw)
 * [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy well, buy once](https://fellow.ventures/buy-well-buy-once/)
+* [2023-06-09, 09:43:14](https://news.ycombinator.com/item?id=36255493) - [Peter Singer on utilitarianism, influence, and controversial ideas](https://conversationswithtyler.com/episodes/peter-singer/)
 * [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
-* [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [Data compression drives the internet](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
+* [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 20:50:04](https://news.ycombinator.com/item?id=36248786) - [Searching for Meg White](https://www.elle.com/culture/music/a43846386/meg-white-interview-2023/)
 
 ## [Archives](archives/index.md)
