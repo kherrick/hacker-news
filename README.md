@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra Isn't Faster Than Last Gen AMD&Intel Desktop CPUs, 50% Slower GPU](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
+* [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
 * [2023-06-10, 15:04:05](https://news.ycombinator.com/item?id=36271120) - [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
 * [2023-06-10, 15:03:01](https://news.ycombinator.com/item?id=36271112) - [LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)](https://arxiv.org/abs/2208.07339)
 * [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
@@ -24,10 +26,8 @@
 * [2023-06-09, 23:27:18](https://news.ycombinator.com/item?id=36265734) - [In the dead of night, a deafening war](https://atmos.earth/exploring-evolution-of-bats-and-moths/)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 17:15:31](https://news.ycombinator.com/item?id=36260906) - [My experience of the Chrome Extension submission process](https://meetingdolphin.com/blog/chrome-extension-submission)
-* [2023-06-09, 15:50:09](https://news.ycombinator.com/item?id=36259679) - [Onboarding Antipatterns](https://www.dcaulfield.com/onboarding-antipatterns)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
 * [2023-06-09, 10:55:53](https://news.ycombinator.com/item?id=36255989) - [All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
-* [2023-06-09, 08:31:35](https://news.ycombinator.com/item?id=36254959) - [Seam Carving](https://www.alanzucconi.com/2023/05/29/seam-carving/)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 21:19:51](https://news.ycombinator.com/item?id=36249253) - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 

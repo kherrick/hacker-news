@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra Isn't Faster Than Last Gen AMD&Intel Desktop CPUs, 50% Slower GPU](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
+* [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
 * [2023-06-10, 15:04:05](https://news.ycombinator.com/item?id=36271120) - [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
 * [2023-06-10, 15:03:01](https://news.ycombinator.com/item?id=36271112) - [LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 * [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
