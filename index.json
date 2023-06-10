@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 09:11:56",
+      "https://news.ycombinator.com/item?id=36268931"
+    ],
+    [
+      "A Case of the Mumps (2007)",
+      "https://thedailywtf.com/articles/A_Case_of_the_MUMPS"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 09:06:37",
       "https://news.ycombinator.com/item?id=36268907"
     ],
@@ -117,16 +127,6 @@
     [
       "The Mao-Kissinger Meeting of 1973",
       "https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 23:24:25",
-      "https://news.ycombinator.com/item?id=36265705"
-    ],
-    [
-      "A Gallop Through a Horse’s Pedigree",
-      "https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-06-09, 12:31:37",
-      "https://news.ycombinator.com/item?id=36256869"
-    ],
-    [
-      "U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning",
-      "https://dl.acm.org/doi/10.1145/3589246.3595371"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 12:00:47",
       "https://news.ycombinator.com/item?id=36256517"
     ],
@@ -297,6 +287,16 @@
     [
       "A student’s desire to get out of a exam led to a compression algorithm",
       "https://www.quantamagazine.org/how-lossless-data-compression-works-20230531"
+    ]
+  ],
+  [
+    [
+      "2023-06-08, 22:34:15",
+      "https://news.ycombinator.com/item?id=36250179"
+    ],
+    [
+      "Building a brand identity with code",
+      "https://zchry.org/words/building-a-brand-identity-with-code"
     ]
   ]
 ]
