@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [10~17x faster than what? A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
-* [2023-06-10, 18:30:03](https://news.ycombinator.com/item?id=36273406) - [I've talked to founders recently who have changed their minds about remote work](https://twitter.com/paulg/status/1667580108247277570)
 * [2023-06-10, 18:07:23](https://news.ycombinator.com/item?id=36273075) - [OBS Merges WebRTC Support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
 * [2023-06-10, 17:57:28](https://news.ycombinator.com/item?id=36272935) - [The case for the decentralization of online forums](https://viksit.com/blog/case-for-decentralization-online-forums)
 * [2023-06-10, 17:42:28](https://news.ycombinator.com/item?id=36272747) - [“GCP automatically LOWERED our quota, causing an incident“](https://twitter.com/JustJake/status/1667478906591666176)
@@ -17,6 +16,7 @@
 * [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 * [2023-06-10, 14:06:38](https://news.ycombinator.com/item?id=36270565) - [The Embeddable Common Lisp (2005) [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
 * [2023-06-10, 14:05:46](https://news.ycombinator.com/item?id=36270554) - [FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
+* [2023-06-10, 13:46:56](https://news.ycombinator.com/item?id=36270427) - [GitHub accused of varying Copilot output to avoid copyright allegations](https://www.theregister.com/2023/06/09/github_copilot_lawsuit/)
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
 * [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
 * [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
