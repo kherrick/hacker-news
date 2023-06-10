@@ -15,12 +15,11 @@
 * [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-hydrogen production reaches deep water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
 * [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Executable Examples in Go](https://bitfieldconsulting.com/golang/examples)
 * [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
-* [2023-06-10, 14:06:38](https://news.ycombinator.com/item?id=36270565) - [The Embeddable Common Lisp (2005) [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
-* [2023-06-10, 14:05:46](https://news.ycombinator.com/item?id=36270554) - [FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
 * [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
 * [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the MUMPS (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
+* [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig language server and cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 * [2023-06-09, 23:32:24](https://news.ycombinator.com/item?id=36265777) - [How Folklore Goes Digital](https://www.return.life/p/how-folklore-goes-digital)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
@@ -30,6 +29,7 @@
 * [2023-06-09, 08:21:18](https://news.ycombinator.com/item?id=36254887) - [Top Talent, Elite Colleges, and Migration: The IITs](https://www.nber.org/papers/w31308)
 * [2023-06-09, 08:06:22](https://news.ycombinator.com/item?id=36254776) - [What is Technicolor? (2021)](https://www.studiobinder.com/blog/what-is-technicolor-definition/)
 * [2023-06-09, 06:02:24](https://news.ycombinator.com/item?id=36253882) - [List one task, do it, cross it out](https://www.oliverburkeman.com/onething)
+* [2023-06-09, 05:19:34](https://news.ycombinator.com/item?id=36253565) - [Ask HN: Advice on starting a YouTube channel?](https://news.ycombinator.com/item?id=36253565)
 
 ## [Archives](archives/index.md)
 
