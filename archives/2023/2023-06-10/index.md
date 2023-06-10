@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 04:19:23](https://news.ycombinator.com/item?id=36267563) - [Ask HN: Dev productivity tools you would pay for](https://news.ycombinator.com/item?id=36267563)
 * [2023-06-10, 04:18:43](https://news.ycombinator.com/item?id=36267557) - [Desktop Linux is insecure – 2023](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
+* [2023-06-10, 03:43:58](https://news.ycombinator.com/item?id=36267382) - [Emoji Kitchen](https://emojikitchen.dev/)
 * [2023-06-10, 03:27:35](https://news.ycombinator.com/item?id=36267302) - [“All other options and bullshit aside, THIS is why I hate Apple.”](https://twitter.com/mikecodemonkey/status/1666553456474337282)
 * [2023-06-10, 02:47:36](https://news.ycombinator.com/item?id=36267087) - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 * [2023-06-10, 02:47:04](https://news.ycombinator.com/item?id=36267083) - [A comment about Christian Queinnec's book Lisp in Small Pieces (1996)](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
