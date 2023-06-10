@@ -7,6 +7,7 @@
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
 * [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
+* [2023-06-10, 19:08:25](https://news.ycombinator.com/item?id=36273892) - [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
 * [2023-06-10, 19:08:15](https://news.ycombinator.com/item?id=36273890) - [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [10~17x faster than what? A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-06-10, 18:41:00](https://news.ycombinator.com/item?id=36273532) - [In Defense of Merit](https://indefenseofmerit.org/)
