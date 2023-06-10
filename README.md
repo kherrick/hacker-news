@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [10~17x faster than what? A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-06-10, 18:07:23](https://news.ycombinator.com/item?id=36273075) - [OBS Merges WebRTC Support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
 * [2023-06-10, 17:57:28](https://news.ycombinator.com/item?id=36272935) - [The case for the decentralization of online forums](https://viksit.com/blog/case-for-decentralization-online-forums)
 * [2023-06-10, 17:42:28](https://news.ycombinator.com/item?id=36272747) - [“GCP automatically LOWERED our quota, causing an incident“](https://twitter.com/JustJake/status/1667478906591666176)
 * [2023-06-10, 17:37:22](https://news.ycombinator.com/item?id=36272692) - [Why I'm Leaving Elm (2020)](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/)
 * [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski has died](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
 * [2023-06-10, 16:29:03](https://news.ycombinator.com/item?id=36271926) - [Meta releases New SOTA Text to Music generator better than MusicLM](https://ai.honu.io/papers/musicgen/)
+* [2023-06-10, 16:27:00](https://news.ycombinator.com/item?id=36271910) - [What Should You Build?](https://exponentially.substack.com/p/what-should-you-build)
 * [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra SoC isn’t faster than AMD and Intel last year desktop CPUs](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
 * [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
 * [2023-06-10, 15:03:01](https://news.ycombinator.com/item?id=36271112) - [LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)](https://arxiv.org/abs/2208.07339)
@@ -22,14 +24,12 @@
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the MUMPS (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig language server and cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
-* [2023-06-10, 03:43:58](https://news.ycombinator.com/item?id=36267382) - [Emoji Kitchen](https://emojikitchen.dev/)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
 * [2023-06-09, 10:55:53](https://news.ycombinator.com/item?id=36255989) - [All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
 * [2023-06-09, 08:21:18](https://news.ycombinator.com/item?id=36254887) - [Top Talent, Elite Colleges, and Migration: The IITs](https://www.nber.org/papers/w31308)
 * [2023-06-09, 06:02:24](https://news.ycombinator.com/item?id=36253882) - [List one task, do it, cross it out](https://www.oliverburkeman.com/onething)
-* [2023-06-09, 05:19:34](https://news.ycombinator.com/item?id=36253565) - [Ask HN: Advice on Starting a YouTube Channel?](https://news.ycombinator.com/item?id=36253565)
 
 ## [Archives](archives/index.md)
 
