@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-06-10, 15:03:01",
-      "https://news.ycombinator.com/item?id=36271112"
-    ],
-    [
-      "LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)",
-      "https://arxiv.org/abs/2208.07339"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 14:41:30",
       "https://news.ycombinator.com/item?id=36270884"
     ],
@@ -227,6 +217,16 @@
     [
       "Zig language server and cancellation",
       "https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 03:30:41",
+      "https://news.ycombinator.com/item?id=36267318"
+    ],
+    [
+      "Deep dive: how Big Ambitions hit it big on Steam",
+      "https://newsletter.gamediscover.co/p/deep-dive-how-big-ambitions-hit-it"
     ]
   ],
   [
