@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-06-10, 19:08:15",
+      "https://news.ycombinator.com/item?id=36273890"
+    ],
+    [
+      "DeArrow: Crowdsourcing better titles and thumbnails on YouTube",
+      "https://github.com/ajayyy/DeArrow"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 18:42:00",
       "https://news.ycombinator.com/item?id=36273544"
     ],
     [
-      "10~17x faster than what? A performance analysis of Intel x86-SIMD-sort (AVX-512)",
+      "A performance analysis of Intel x86-SIMD-sort (AVX-512)",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36273075"
     ],
     [
-      "OBS Merges WebRTC Support",
+      "OBS merges WebRTC support",
       "https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141"
     ]
   ],
@@ -35,28 +45,8 @@
       "https://news.ycombinator.com/item?id=36272747"
     ],
     [
-      "“GCP automatically LOWERED our quota, causing an incident“",
+      "GCP automatically lowered our quota, caused an incident, and refused to upgrade",
       "https://twitter.com/JustJake/status/1667478906591666176"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 17:37:22",
-      "https://news.ycombinator.com/item?id=36272692"
-    ],
-    [
-      "Why I'm Leaving Elm (2020)",
-      "https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 17:12:05",
-      "https://news.ycombinator.com/item?id=36272409"
-    ],
-    [
-      "Ted Kaczynski has died",
-      "https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html"
     ]
   ],
   [
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36271926"
     ],
     [
-      "Meta releases New SOTA Text to Music generator better than MusicLM",
+      "MusicGen: Simple and controllable music generation",
       "https://ai.honu.io/papers/musicgen/"
     ]
   ],
@@ -157,6 +147,16 @@
     [
       "FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans",
       "https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 13:46:56",
+      "https://news.ycombinator.com/item?id=36270427"
+    ],
+    [
+      "GitHub accused of varying Copilot output to avoid copyright allegations",
+      "https://www.theregister.com/2023/06/09/github_copilot_lawsuit/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36254776"
     ],
     [
-      "What Is Technicolor? Definition and History Explained",
+      "What is Technicolor? (2021)",
       "https://www.studiobinder.com/blog/what-is-technicolor-definition/"
     ]
   ],
