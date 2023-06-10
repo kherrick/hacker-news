@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-06-10, 18:07:23",
+      "https://news.ycombinator.com/item?id=36273075"
+    ],
+    [
+      "OBS Merges WebRTC Support",
+      "https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 17:57:28",
+      "https://news.ycombinator.com/item?id=36272935"
+    ],
+    [
+      "The case for the decentralization of online forums",
+      "https://viksit.com/blog/case-for-decentralization-online-forums"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 17:42:28",
       "https://news.ycombinator.com/item?id=36272747"
     ],
     [
       "“GCP automatically LOWERED our quota, causing an incident“",
       "https://twitter.com/JustJake/status/1667478906591666176"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 17:37:22",
+      "https://news.ycombinator.com/item?id=36272692"
+    ],
+    [
+      "Why I'm Leaving Elm",
+      "https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2023-06-10, 14:15:20",
-      "https://news.ycombinator.com/item?id=36270647"
-    ],
-    [
-      "UK hobbyist stuns math world with 'amazing' new shapes",
-      "https://phys.org/news/2023-06-uk-hobbyist-stuns-math-world.html"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 14:09:17",
       "https://news.ycombinator.com/item?id=36270597"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-06-10, 09:36:17",
-      "https://news.ycombinator.com/item?id=36269041"
-    ],
-    [
-      "The Accidental HFT Firm (2018)",
-      "https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 09:11:56",
       "https://news.ycombinator.com/item?id=36268931"
     ],
@@ -207,16 +217,6 @@
     [
       "Zig language server and cancellation",
       "https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 04:31:39",
-      "https://news.ycombinator.com/item?id=36267611"
-    ],
-    [
-      "The Ritual of Capitalization (2021)",
-      "https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-06-09, 08:21:18",
+      "https://news.ycombinator.com/item?id=36254887"
+    ],
+    [
+      "Top Talent, Elite Colleges, and Migration: The IITs",
+      "https://www.nber.org/papers/w31308"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 06:02:24",
       "https://news.ycombinator.com/item?id=36253882"
     ],
@@ -287,16 +297,6 @@
     [
       "Ask HN: Advice on Starting a YouTube Channel?",
       "https://news.ycombinator.com/item?id=36253565"
-    ]
-  ],
-  [
-    [
-      "2023-06-08, 21:19:51",
-      "https://news.ycombinator.com/item?id=36249253"
-    ],
-    [
-      "To Save C, We Must Save ABI (2022)",
-      "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi"
     ]
   ]
 ]
