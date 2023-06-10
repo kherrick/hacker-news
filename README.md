@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski, ‘Unabomber’ Who Attacked Modern Life, Dies at 81](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
+* [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski has died](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
 * [2023-06-10, 17:05:47](https://news.ycombinator.com/item?id=36272365) - [The Pile: An 800GB Dataset of Diverse Text for Language Modeling](https://arxiv.org/abs/2101.00027)
-* [2023-06-10, 17:00:34](https://news.ycombinator.com/item?id=36272310) - [Ted Kaczynski Has Died](https://www.sfgate.com/news/article/alert-bureau-of-prisons-tells-ap-that-ted-18145818.php)
 * [2023-06-10, 16:29:03](https://news.ycombinator.com/item?id=36271926) - [Meta releases New SOTA Text to Music generator better than MusicLM](https://ai.honu.io/papers/musicgen/)
 * [2023-06-10, 16:27:00](https://news.ycombinator.com/item?id=36271910) - [What Should You Build?](https://exponentially.substack.com/p/what-should-you-build)
 * [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
@@ -24,6 +23,7 @@
 * [2023-06-10, 04:31:39](https://news.ycombinator.com/item?id=36267611) - [The Ritual of Capitalization (2021)](https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/)
 * [2023-06-10, 03:43:58](https://news.ycombinator.com/item?id=36267382) - [Emoji Kitchen](https://emojikitchen.dev/)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
+* [2023-06-09, 23:27:18](https://news.ycombinator.com/item?id=36265734) - [In the dead of night, a deafening war](https://atmos.earth/exploring-evolution-of-bats-and-moths/)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
 * [2023-06-09, 10:55:53](https://news.ycombinator.com/item?id=36255989) - [All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
