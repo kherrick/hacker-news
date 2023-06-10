@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2023-06-10, 15:03:01",
+      "https://news.ycombinator.com/item?id=36271112"
+    ],
+    [
+      "LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)",
+      "https://arxiv.org/abs/2208.07339"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 14:41:30",
       "https://news.ycombinator.com/item?id=36270884"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2023-06-10, 06:40:10",
-      "https://news.ycombinator.com/item?id=36268247"
-    ],
-    [
-      "Zig language server and cancellation",
-      "https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 03:30:41",
       "https://news.ycombinator.com/item?id=36267318"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2023-06-09, 10:55:53",
-      "https://news.ycombinator.com/item?id=36255989"
-    ],
-    [
-      "All About Skimmers",
-      "https://krebsonsecurity.com/all-about-skimmers/"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 08:06:22",
       "https://news.ycombinator.com/item?id=36254776"
     ],
@@ -297,6 +287,16 @@
     [
       "List one task, do it, cross it out",
       "https://www.oliverburkeman.com/onething"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 05:19:34",
+      "https://news.ycombinator.com/item?id=36253565"
+    ],
+    [
+      "Ask HN: Advice on starting a YouTube channel?",
+      "https://news.ycombinator.com/item?id=36253565"
     ]
   ]
 ]
