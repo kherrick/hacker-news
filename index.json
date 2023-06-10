@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-06-10, 19:08:25",
+      "https://news.ycombinator.com/item?id=36273892"
+    ],
+    [
+      "Django Views – The Right Way",
+      "https://spookylukey.github.io/django-views-the-right-way/index.html"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 19:08:15",
       "https://news.ycombinator.com/item?id=36273890"
     ],
@@ -47,16 +57,6 @@
     [
       "A performance analysis of Intel x86-SIMD-sort (AVX-512)",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 18:41:00",
-      "https://news.ycombinator.com/item?id=36273532"
-    ],
-    [
-      "In Defense of Merit",
-      "https://indefenseofmerit.org/"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)",
       "https://arxiv.org/abs/2208.07339"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 14:41:30",
+      "https://news.ycombinator.com/item?id=36270884"
+    ],
+    [
+      "Wind-to-hydrogen production reaches deep water",
+      "https://spectrum.ieee.org/green-hydrogen-offshore-wind"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "All About Skimmers",
       "https://krebsonsecurity.com/all-about-skimmers/"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 08:21:18",
-      "https://news.ycombinator.com/item?id=36254887"
-    ],
-    [
-      "Top Talent, Elite Colleges, and Migration: The IITs",
-      "https://www.nber.org/papers/w31308"
     ]
   ],
   [
