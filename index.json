@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 15:03:01",
+      "https://news.ycombinator.com/item?id=36271112"
+    ],
+    [
+      "LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale",
+      "https://arxiv.org/abs/2208.07339"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 14:41:30",
       "https://news.ycombinator.com/item?id=36270884"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36270565"
     ],
     [
-      "The Embeddable Common Lisp [pdf]",
+      "The Embeddable Common Lisp (2005) [pdf]",
       "https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36270348"
     ],
     [
-      "DigitalOcean Announces DDoS Protection in Beta",
+      "DDoS Protection",
       "https://docs.digitalocean.com/products/networking/ddos/"
     ]
   ],
@@ -197,16 +207,6 @@
     [
       "In the dead of night, a deafening war",
       "https://atmos.earth/exploring-evolution-of-bats-and-moths/"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 23:18:56",
-      "https://news.ycombinator.com/item?id=36265658"
-    ],
-    [
-      "LLMs are good at playing you",
-      "https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at"
     ]
   ],
   [
