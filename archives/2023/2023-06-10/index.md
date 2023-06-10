@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 13:36:32](https://news.ycombinator.com/item?id=36270348) - [DigitalOcean Announces DDoS Protection in Beta](https://docs.digitalocean.com/products/networking/ddos/)
+* [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
 * [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
 * [2023-06-10, 12:46:40](https://news.ycombinator.com/item?id=36270011) - [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.com/news/world-latin-america-65864158)
 * [2023-06-10, 12:46:40](https://news.ycombinator.com/item?id=36270011) - [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.co.uk/news/world-latin-america-65864158)
