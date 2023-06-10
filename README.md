@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 09:06:37](https://news.ycombinator.com/item?id=36268907) - [AI detects 20k hidden taxable swimming pools in France, netting €10M](https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools)
 * [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
@@ -12,7 +13,6 @@
 * [2023-06-10, 00:43:59](https://news.ycombinator.com/item?id=36266342) - [All Those Naked Greeks](https://aeon.co/essays/why-are-men-seemingly-always-naked-in-ancient-greek-art)
 * [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We don’t trade with ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
-* [2023-06-09, 23:24:25](https://news.ycombinator.com/item?id=36265705) - [A Gallop Through a Horse’s Pedigree](https://3quarksdaily.com/3quarksdaily/2023/06/a-gallup-through-a-horses-pedigree.html)
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
 * [2023-06-09, 23:18:56](https://news.ycombinator.com/item?id=36265658) - [LLMs are better than you think at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
@@ -25,11 +25,11 @@
 * [2023-06-09, 19:18:11](https://news.ycombinator.com/item?id=36262722) - [I'm Not Invidious](https://blog.thefrenchghosty.me/posts/im-not-invidious/)
 * [2023-06-09, 17:51:12](https://news.ycombinator.com/item?id=36261411) - [Turkish citizens' personal data offered online after government site hacked](https://balkaninsight.com/2023/06/09/turkish-citizens-personal-data-offered-online-after-govt-site-hacked/)
 * [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
-* [2023-06-09, 12:31:37](https://news.ycombinator.com/item?id=36256869) - [U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning](https://dl.acm.org/doi/10.1145/3589246.3595371)
 * [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy well, buy once](https://fellow.ventures/buy-well-buy-once/)
 * [2023-06-09, 09:43:14](https://news.ycombinator.com/item?id=36255493) - [Peter Singer on utilitarianism, influence, and controversial ideas](https://conversationswithtyler.com/episodes/peter-singer/)
 * [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
+* [2023-06-08, 22:34:15](https://news.ycombinator.com/item?id=36250179) - [Building a brand identity with code](https://zchry.org/words/building-a-brand-identity-with-code)
 
 ## [Archives](archives/index.md)
 

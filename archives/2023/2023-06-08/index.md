@@ -7,6 +7,7 @@
 * [2023-06-08, 23:18:44](https://news.ycombinator.com/item?id=36250689) - [Google uses in-person office attendance as part of employee performance reviews](https://fortune.com/2023/06/08/google-remote-work-office-attendance-performance-review/)
 * [2023-06-08, 22:50:52](https://news.ycombinator.com/item?id=36250350) - [The War on Dogs](https://www.historytoday.com/archive/history-matters/war-dogs)
 * [2023-06-08, 22:37:23](https://news.ycombinator.com/item?id=36250201) - [“GM Will Join Tesla's EV Charging Network” (Bloomberg)](https://www.bloomberg.com/news/articles/2023-06-08/gm-s-mary-barra-will-join-tesla-s-elon-musk-to-talk-ev-charging)
+* [2023-06-08, 22:34:15](https://news.ycombinator.com/item?id=36250179) - [Building a brand identity with code](https://zchry.org/words/building-a-brand-identity-with-code)
 * [2023-06-08, 22:14:12](https://news.ycombinator.com/item?id=36249958) - [r/ProgrammerHumor will be shutting down to protest Reddit's API changes](https://reddit.com/r/ProgrammerHumor/comments/141qwy8/programmer_humor_will_be_shutting_down/)
 * [2023-06-08, 22:14:12](https://news.ycombinator.com/item?id=36249958) - [r/ProgrammerHumor will be shutting down to protest Reddit's API changes](https://old.reddit.com/r/ProgrammerHumor/comments/141qwy8/programmer_humor_will_be_shutting_down/)
 * [2023-06-08, 21:51:26](https://news.ycombinator.com/item?id=36249695) - [Domain Matching 2FA](https://joskvw.com/2faconcept.html)

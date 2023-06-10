@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 09:06:37](https://news.ycombinator.com/item?id=36268907) - [AI detects 20k hidden taxable swimming pools in France, netting €10M](https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools)
 * [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
