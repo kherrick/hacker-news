@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 23:21:14](https://news.ycombinator.com/item?id=36276335) - [At what point should MO recognise it needs to leave Stack Exchange Inc?](https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc)
 * [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
-* [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
+* [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [Gren – an Elm fork](https://gren-lang.org/)
 * [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 19:08:25](https://news.ycombinator.com/item?id=36273892) - [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
@@ -15,7 +16,6 @@
 * [2023-06-10, 16:29:03](https://news.ycombinator.com/item?id=36271926) - [MusicGen: Simple and controllable music generation](https://ai.honu.io/papers/musicgen/)
 * [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra SoC isn’t faster than AMD and Intel last year desktop CPUs](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
 * [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
-* [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Executable Examples in Go](https://bitfieldconsulting.com/golang/examples)
 * [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
 * [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
