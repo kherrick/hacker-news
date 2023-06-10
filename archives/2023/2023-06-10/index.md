@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
+* [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown. Other cities may be next](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
+* [2023-06-10, 14:06:38](https://news.ycombinator.com/item?id=36270565) - [The Embeddable Common Lisp [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
 * [2023-06-10, 14:05:46](https://news.ycombinator.com/item?id=36270554) - [FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
 * [2023-06-10, 13:46:56](https://news.ycombinator.com/item?id=36270427) - [GitHub accused of varying Copilot output to avoid copyright allegations](https://www.theregister.com/2023/06/09/github_copilot_lawsuit/)
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Germans beat Tesla to autonomous L3 driving in the Golden State](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
