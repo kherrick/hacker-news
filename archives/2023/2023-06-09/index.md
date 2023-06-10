@@ -40,6 +40,7 @@
 * [2023-06-09, 17:48:47](https://news.ycombinator.com/item?id=36261369) - [Addressing the community about changes to our API](https://old.reddit.com/r/reddit/comments/145bram/addressing_the_community_about_changes_to_our_api/)
 * [2023-06-09, 17:28:12](https://news.ycombinator.com/item?id=36261069) - [OpenAI faces defamation suit after ChatGPT fabricated another lawsuit](https://arstechnica.com/tech-policy/2023/06/openai-sued-for-defamation-after-chatgpt-fabricated-yet-another-lawsuit/)
 * [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
+* [2023-06-09, 17:15:31](https://news.ycombinator.com/item?id=36260906) - [My experience of the Chrome Extension submission process](https://meetingdolphin.com/blog/chrome-extension-submission)
 * [2023-06-09, 16:56:23](https://news.ycombinator.com/item?id=36260663) - [Store your epoch times as 64-bit floats](https://www.leebutterman.com/2021/02/01/store-your-unix-epoch-times-as-float64.html)
 * [2023-06-09, 16:54:03](https://news.ycombinator.com/item?id=36260626) - [NixOS for the Impatient](https://borretti.me/article/nixos-for-the-impatient)
 * [2023-06-09, 16:52:04](https://news.ycombinator.com/item?id=36260589) - [Kera Desktop: open-source, cross-platform, web-based desktop environment](https://desktop.kerahq.com/)
