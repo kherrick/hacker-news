@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-06-09, 20:00:04",
-      "https://news.ycombinator.com/item?id=36263349"
-    ],
-    [
-      "Chat Notebooks",
-      "https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 19:54:52",
       "https://news.ycombinator.com/item?id=36263283"
     ],
@@ -257,6 +247,16 @@
     [
       "Onboarding Antipatterns",
       "https://www.dcaulfield.com/onboarding-antipatterns"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 12:31:37",
+      "https://news.ycombinator.com/item?id=36256869"
+    ],
+    [
+      "U-Net CNN in APL: Exploring Zero-Framework, Zero-Library Machine Learning",
+      "https://dl.acm.org/doi/10.1145/3589246.3595371"
     ]
   ],
   [
