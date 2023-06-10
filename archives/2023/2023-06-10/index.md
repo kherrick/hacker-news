@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 14:05:46](https://news.ycombinator.com/item?id=36270554) - [FBI: FISA Section 702 'absolutely critical' to spy on, err, protect Americans](https://www.theregister.com/2023/06/09/fbi_fisa_section_702_absolutely/)
+* [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Germans beat Tesla to autonomous L3 driving in the Golden State](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
 * [2023-06-10, 13:36:32](https://news.ycombinator.com/item?id=36270348) - [DigitalOcean Announces DDoS Protection in Beta](https://docs.digitalocean.com/products/networking/ddos/)
 * [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
 * [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
