@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-10, 16:29:03",
+      "https://news.ycombinator.com/item?id=36271926"
+    ],
+    [
+      "Meta releases New SOTA Text to Music generator better than MusicLM",
+      "https://ai.honu.io/papers/musicgen/"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 16:16:37",
       "https://news.ycombinator.com/item?id=36271804"
     ],
@@ -37,6 +47,16 @@
     [
       "LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale (2022)",
       "https://arxiv.org/abs/2208.07339"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 14:57:52",
+      "https://news.ycombinator.com/item?id=36271061"
+    ],
+    [
+      "Debunking the Myth of Dollar Cost Averaging",
+      "https://www.alexmolas.com/blog/dca-is-suboptimal/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-06-09, 23:27:56",
-      "https://news.ycombinator.com/item?id=36265739"
-    ],
-    [
-      "Beamer, Dressman, Bodybag",
-      "https://europeanreviewofbooks.com/beamer-dressman-bodybag/en?ref=thebrowser.com"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 23:27:18",
       "https://news.ycombinator.com/item?id=36265734"
     ],
@@ -277,16 +287,6 @@
     [
       "List one task, do it, cross it out",
       "https://www.oliverburkeman.com/onething"
-    ]
-  ],
-  [
-    [
-      "2023-06-09, 00:36:08",
-      "https://news.ycombinator.com/item?id=36251471"
-    ],
-    [
-      "A student’s desire to get out of a exam led to a compression algorithm",
-      "https://www.quantamagazine.org/how-lossless-data-compression-works-20230531"
     ]
   ],
   [
