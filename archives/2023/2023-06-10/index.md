@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
+* [2023-06-10, 15:04:05](https://news.ycombinator.com/item?id=36271120) - [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
 * [2023-06-10, 15:03:01](https://news.ycombinator.com/item?id=36271112) - [LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 * [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
 * [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)

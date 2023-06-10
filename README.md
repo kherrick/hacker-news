@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-10, 15:04:05](https://news.ycombinator.com/item?id=36271120) - [Palantir CEO Rejects Calls to Pause AI Development](https://newsnotfound.com/palantir-ceo-rejects-calls-to-pause-ai-development-amid-global-debate/)
 * [2023-06-10, 15:03:01](https://news.ycombinator.com/item?id=36271112) - [LLM.int8(): 8-Bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 * [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
 * [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)
@@ -27,7 +28,6 @@
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
 * [2023-06-09, 10:55:53](https://news.ycombinator.com/item?id=36255989) - [All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
 * [2023-06-09, 08:31:35](https://news.ycombinator.com/item?id=36254959) - [Seam Carving](https://www.alanzucconi.com/2023/05/29/seam-carving/)
-* [2023-06-09, 02:51:05](https://news.ycombinator.com/item?id=36252501) - [1970s campus librarians foresaw our world of distributed knowledge and research](https://aeon.co/essays/the-1970s-librarians-who-revolutionised-the-challenge-of-search)
 * [2023-06-09, 00:36:08](https://news.ycombinator.com/item?id=36251471) - [A student’s desire to get out of a exam led to a compression algorithm](https://www.quantamagazine.org/how-lossless-data-compression-works-20230531)
 * [2023-06-08, 21:19:51](https://news.ycombinator.com/item?id=36249253) - [To Save C, We Must Save ABI (2022)](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 
