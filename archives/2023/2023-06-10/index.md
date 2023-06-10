@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [10~17x faster than what? A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
+* [2023-06-10, 18:30:03](https://news.ycombinator.com/item?id=36273406) - [I've talked to founders recently who have changed their minds about remote work](https://twitter.com/paulg/status/1667580108247277570)
 * [2023-06-10, 18:07:23](https://news.ycombinator.com/item?id=36273075) - [OBS Merges WebRTC Support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
 * [2023-06-10, 17:57:28](https://news.ycombinator.com/item?id=36272935) - [The case for the decentralization of online forums](https://viksit.com/blog/case-for-decentralization-online-forums)
 * [2023-06-10, 17:42:28](https://news.ycombinator.com/item?id=36272747) - [“GCP automatically LOWERED our quota, causing an incident“](https://twitter.com/JustJake/status/1667478906591666176)

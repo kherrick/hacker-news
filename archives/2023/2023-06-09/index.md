@@ -84,6 +84,7 @@
 * [2023-06-09, 09:43:14](https://news.ycombinator.com/item?id=36255493) - [Peter Singer on utilitarianism, influence, and controversial ideas](https://conversationswithtyler.com/episodes/peter-singer/)
 * [2023-06-09, 08:31:35](https://news.ycombinator.com/item?id=36254959) - [Seam Carving](https://www.alanzucconi.com/2023/05/29/seam-carving/)
 * [2023-06-09, 08:21:18](https://news.ycombinator.com/item?id=36254887) - [Top Talent, Elite Colleges, and Migration: The IITs](https://www.nber.org/papers/w31308)
+* [2023-06-09, 08:06:22](https://news.ycombinator.com/item?id=36254776) - [What Is Technicolor? Definition and History Explained](https://www.studiobinder.com/blog/what-is-technicolor-definition/)
 * [2023-06-09, 08:06:01](https://news.ycombinator.com/item?id=36254774) - [To Build a Top Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort)
 * [2023-06-09, 08:04:21](https://news.ycombinator.com/item?id=36254764) - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
 * [2023-06-09, 06:48:21](https://news.ycombinator.com/item?id=36254217) - [Ask HN: What's your opinion on weekly 1:1s?](https://news.ycombinator.com/item?id=36254217)
