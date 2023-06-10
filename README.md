@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-10, 12:46:40](https://news.ycombinator.com/item?id=36270011) - [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.co.uk/news/world-latin-america-65864158)
-* [2023-06-10, 12:32:48](https://news.ycombinator.com/item?id=36269934) - [Debian 12 “Bookworm” Released](https://www.debian.org/News/2023/20230610)
+* [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
+* [2023-06-10, 12:46:40](https://news.ycombinator.com/item?id=36270011) - [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.com/news/world-latin-america-65864158)
+* [2023-06-10, 12:32:48](https://news.ycombinator.com/item?id=36269934) - [Debian 12 “Bookworm”](https://www.debian.org/News/2023/20230610)
 * [2023-06-10, 09:36:17](https://news.ycombinator.com/item?id=36269041) - [The Accidental HFT Firm (2018)](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 07:27:34](https://news.ycombinator.com/item?id=36268458) - [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
@@ -14,7 +15,6 @@
 * [2023-06-10, 01:33:51](https://news.ycombinator.com/item?id=36266656) - [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
 * [2023-06-10, 00:45:51](https://news.ycombinator.com/item?id=36266360) - [Cosmic luck: NASA’s Apollo 11 moon quarantine broke down](https://www.nytimes.com/2023/06/09/science/nasa-moon-quarantine.html)
 * [2023-06-10, 00:43:59](https://news.ycombinator.com/item?id=36266342) - [All Those Naked Greeks](https://aeon.co/essays/why-are-men-seemingly-always-naked-in-ancient-greek-art)
-* [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We don’t trade with ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
 * [2023-06-09, 23:27:18](https://news.ycombinator.com/item?id=36265734) - [In the dead of night, a deafening war](https://atmos.earth/exploring-evolution-of-bats-and-moths/)
 * [2023-06-09, 23:21:55](https://news.ycombinator.com/item?id=36265685) - [Edmund Burke was a more complicated thinker than realized](https://www.newstatesman.com/ideas/2023/06/influence-edmund-burke-national-conservatism-intellectual-jewish)
