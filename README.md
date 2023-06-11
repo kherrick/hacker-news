@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 10:17:05](https://news.ycombinator.com/item?id=36279927) - [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
 * [2023-06-11, 09:22:09](https://news.ycombinator.com/item?id=36279639) - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
-* [2023-06-11, 08:51:55](https://news.ycombinator.com/item?id=36279496) - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
 * [2023-06-11, 08:28:53](https://news.ycombinator.com/item?id=36279403) - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 * [2023-06-11, 08:22:48](https://news.ycombinator.com/item?id=36279375) - [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
 * [2023-06-11, 08:17:03](https://news.ycombinator.com/item?id=36279341) - [5.5M Spore users have uploaded some 191M creations and counting](http://www.spore.com/rest/stats)
