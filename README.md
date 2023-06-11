@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-11, 02:30:32](https://news.ycombinator.com/item?id=36277381) - [How to Escape Tutorial Hell and Start Building Your Own Projects](https://www.codewell.cc/blog/how-to-escape-tutorial-hell-and-start-building-your-own-projects)
-* [2023-06-11, 02:21:15](https://news.ycombinator.com/item?id=36277328) - [Google $23M settlement: How to apply, how much you could get](https://www.wbir.com/article/news/nation-world/google-class-action-settlement-how-to-submit-a-claim/507-cfcd459c-0b5f-4a56-9da0-8918c55d0d4f)
 * [2023-06-11, 00:29:05](https://news.ycombinator.com/item?id=36276791) - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
 * [2023-06-10, 22:41:03](https://news.ycombinator.com/item?id=36275974) - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 * [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [Gren – an Elm fork](https://gren-lang.org/)
+* [2023-06-10, 20:26:17](https://news.ycombinator.com/item?id=36274739) - [A boat with refugees vanished – a phone call untangled the mystery](https://apnews.com/article/rohingya-investigation-missing-boat-refugees-bangladesh-myanmar-migration-1b94b4472a42b26eb066bef47b7bcf7e)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 19:08:25](https://news.ycombinator.com/item?id=36273892) - [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
 * [2023-06-10, 19:08:15](https://news.ycombinator.com/item?id=36273890) - [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
@@ -19,6 +18,8 @@
 * [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
 * [2023-06-10, 13:08:09](https://news.ycombinator.com/item?id=36270150) - [Show HN: RISC-V core written in 600 lines of C89](https://github.com/mnurzia/rv)
 * [2023-06-10, 03:30:41](https://news.ycombinator.com/item?id=36267318) - [Deep dive: how Big Ambitions hit it big on Steam](https://newsletter.gamediscover.co/p/deep-dive-how-big-ambitions-hit-it)
+* [2023-06-09, 23:32:24](https://news.ycombinator.com/item?id=36265777) - [How Folklore Goes Digital](https://www.return.life/p/how-folklore-goes-digital)
+* [2023-06-09, 22:56:04](https://news.ycombinator.com/item?id=36265429) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
 * [2023-06-09, 12:36:18](https://news.ycombinator.com/item?id=36256931) - [Play (1) Linux manual page](https://linux.die.net/man/1/play)
@@ -27,9 +28,8 @@
 * [2023-06-09, 09:49:50](https://news.ycombinator.com/item?id=36255546) - [Why Do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [2023-06-09, 08:06:22](https://news.ycombinator.com/item?id=36254776) - [What is Technicolor? (2021)](https://www.studiobinder.com/blog/what-is-technicolor-definition/)
 * [2023-06-09, 06:02:24](https://news.ycombinator.com/item?id=36253882) - [List one task, do it, cross it out](https://www.oliverburkeman.com/onething)
-* [2023-06-09, 05:38:58](https://news.ycombinator.com/item?id=36253717) - [Water Resilience Portfolio Review](https://onthepublicrecord.org/2020/01/04/water-resilience-portfolio-review/)
 * [2023-06-09, 05:19:34](https://news.ycombinator.com/item?id=36253565) - [Ask HN: Advice on starting a YouTube channel?](https://news.ycombinator.com/item?id=36253565)
-* [2023-06-09, 05:11:28](https://news.ycombinator.com/item?id=36253499) - [Big Leap for Hard Drive Capacities: 32 TB HAMR Drives Due Soon, 40TB on Horizon](https://www.anandtech.com/show/18901/big-leap-for-hdds-32-tb-hamr-drive-is-coming-40tb-on-horizon)
+* [2023-06-09, 05:11:28](https://news.ycombinator.com/item?id=36253499) - [Big leap for hard drive capacities: 32 TB HAMR drives due soon, 40tb on horizon](https://www.anandtech.com/show/18901/big-leap-for-hdds-32-tb-hamr-drive-is-coming-40tb-on-horizon)
 
 ## [Archives](archives/index.md)
 
