@@ -59,6 +59,7 @@
 * [2023-06-10, 04:19:23](https://news.ycombinator.com/item?id=36267563) - [Ask HN: Dev productivity tools you would pay for](https://news.ycombinator.com/item?id=36267563)
 * [2023-06-10, 04:18:43](https://news.ycombinator.com/item?id=36267557) - [Desktop Linux is insecure – 2023](https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure)
 * [2023-06-10, 03:43:58](https://news.ycombinator.com/item?id=36267382) - [Emoji Kitchen](https://emojikitchen.dev/)
+* [2023-06-10, 03:39:19](https://news.ycombinator.com/item?id=36267362) - [Tiny Awards for Small Websites](https://tinyawards.net/)
 * [2023-06-10, 03:30:41](https://news.ycombinator.com/item?id=36267318) - [Deep dive: how Big Ambitions hit it big on Steam](https://newsletter.gamediscover.co/p/deep-dive-how-big-ambitions-hit-it)
 * [2023-06-10, 03:27:35](https://news.ycombinator.com/item?id=36267302) - [“All other options and bullshit aside, THIS is why I hate Apple.”](https://twitter.com/mikecodemonkey/status/1666553456474337282)
 * [2023-06-10, 02:47:36](https://news.ycombinator.com/item?id=36267087) - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)

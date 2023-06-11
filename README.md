@@ -18,7 +18,7 @@
 * [2023-06-10, 16:29:03](https://news.ycombinator.com/item?id=36271926) - [MusicGen: Simple and controllable music generation](https://ai.honu.io/papers/musicgen/)
 * [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
-* [2023-06-10, 13:30:12](https://news.ycombinator.com/item?id=36270303) - [Licensing is neither feasible nor effective for addressing AI risks](https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor)
+* [2023-06-10, 03:39:19](https://news.ycombinator.com/item?id=36267362) - [Tiny Awards for Small Websites](https://tinyawards.net/)
 * [2023-06-09, 22:56:04](https://news.ycombinator.com/item?id=36265429) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
