@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-11, 09:22:09](https://news.ycombinator.com/item?id=36279639) - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
+* [2023-06-11, 08:51:55](https://news.ycombinator.com/item?id=36279496) - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
 * [2023-06-11, 08:28:53](https://news.ycombinator.com/item?id=36279403) - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 * [2023-06-11, 08:22:48](https://news.ycombinator.com/item?id=36279375) - [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
 * [2023-06-11, 08:17:03](https://news.ycombinator.com/item?id=36279341) - [5.5M Spore users have uploaded some 191M creations and counting](http://www.spore.com/rest/stats)
@@ -10,7 +11,6 @@
 * [2023-06-11, 03:27:52](https://news.ycombinator.com/item?id=36277706) - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
 * [2023-06-11, 03:25:56](https://news.ycombinator.com/item?id=36277696) - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
 * [2023-06-11, 00:29:05](https://news.ycombinator.com/item?id=36276791) - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
-* [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 22:41:03](https://news.ycombinator.com/item?id=36275974) - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 * [2023-06-10, 22:38:14](https://news.ycombinator.com/item?id=36275943) - [Total recall: the people who never forget (2017)](https://www.theguardian.com/science/2017/feb/08/total-recall-the-people-who-never-forget)
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
