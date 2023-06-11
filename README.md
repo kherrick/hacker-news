@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-11, 04:17:00](https://news.ycombinator.com/item?id=36277962) - [A peek into Japan's convenience stores](https://one-from-nippon.ghost.io/combini-part-1/)
 * [2023-06-11, 03:48:10](https://news.ycombinator.com/item?id=36277814) - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
 * [2023-06-11, 03:27:52](https://news.ycombinator.com/item?id=36277706) - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
 * [2023-06-11, 03:25:56](https://news.ycombinator.com/item?id=36277696) - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
@@ -20,6 +19,7 @@
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
 * [2023-06-10, 03:39:19](https://news.ycombinator.com/item?id=36267362) - [Tiny Awards for Small Websites](https://tinyawards.net/)
 * [2023-06-09, 23:33:36](https://news.ycombinator.com/item?id=36265786) - [Cheese, Rats, and Giffen Goods](https://timharford.com/2023/06/the-cheese-the-rats-and-why-some-of-us-are-poorer-than-others/)
+* [2023-06-09, 23:30:12](https://news.ycombinator.com/item?id=36265759) - [Modern Life Is Rubbish: Tao Lin’s Taipei (2013)](https://themillions.com/2013/06/modern-life-is-rubbish-tao-lins-taipei.html)
 * [2023-06-09, 22:56:04](https://news.ycombinator.com/item?id=36265429) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 21:55:51](https://news.ycombinator.com/item?id=36264717) - [Grocery Mergers? Not So Good](https://waterwrights.net/grocery-mergers-not-so-good-january-16-2023/)

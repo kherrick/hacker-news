@@ -8,6 +8,7 @@
 * [2023-06-09, 23:32:24](https://news.ycombinator.com/item?id=36265777) - [How Folklore Goes Digital](https://www.return.life/p/how-folklore-goes-digital)
 * [2023-06-09, 23:32:09](https://news.ycombinator.com/item?id=36265774) - [We Don’t Trade with Ants](https://worldspiritsockpuppet.com/2023/01/10/we-dont-trade-with-ants.html)
 * [2023-06-09, 23:31:56](https://news.ycombinator.com/item?id=36265771) - [The Mao-Kissinger Meeting of 1973](https://gaodawei.wordpress.com/2023/06/08/1973-prc-notes-on-mao-kissinger-meeting-of-february-17-1973/)
+* [2023-06-09, 23:30:12](https://news.ycombinator.com/item?id=36265759) - [Modern Life Is Rubbish: Tao Lin’s Taipei (2013)](https://themillions.com/2013/06/modern-life-is-rubbish-tao-lins-taipei.html)
 * [2023-06-09, 23:27:56](https://news.ycombinator.com/item?id=36265739) - [Beamer, Dressman, Bodybag](https://europeanreviewofbooks.com/beamer-dressman-bodybag/en?ref=thebrowser.com)
 * [2023-06-09, 23:27:18](https://news.ycombinator.com/item?id=36265734) - [In the dead of night, a deafening war](https://atmos.earth/exploring-evolution-of-bats-and-moths/)
 * [2023-06-09, 23:26:45](https://news.ycombinator.com/item?id=36265730) - [The baddest lawyer in the history of Jersey](https://nymag.com/news/features/paul-bergrin-2011-6/)
