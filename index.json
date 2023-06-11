@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-11, 10:45:11",
+      "https://news.ycombinator.com/item?id=36280091"
+    ],
+    [
+      "Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?",
+      "https://www.afar.com/magazine/how-black-boxes-changed-air-travel"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 10:17:02",
       "https://news.ycombinator.com/item?id=36279925"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2023-06-11, 09:54:07",
-      "https://news.ycombinator.com/item?id=36279784"
-    ],
-    [
-      "Call for Germany to scrap English lessons in primary schools",
-      "https://www.dw.com/en/call-for-germany-to-scrap-english-lessons-in-primary-schools/a-65876721"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 09:22:09",
       "https://news.ycombinator.com/item?id=36279639"
     ],
     [
       "Before he was the Unabomber, Ted Kaczynski was a mind-control test subject",
       "https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 08:51:55",
+      "https://news.ycombinator.com/item?id=36279496"
+    ],
+    [
+      "Can you trust ChatGPT’s package recommendations?",
+      "https://vulcan.io/blog/ai-hallucinations-package-risk"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "A performance analysis of Intel x86-SIMD-sort (AVX-512)",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 18:07:23",
-      "https://news.ycombinator.com/item?id=36273075"
-    ],
-    [
-      "OBS merges WebRTC support",
-      "https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141"
     ]
   ],
   [
