@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 16:40:17](https://news.ycombinator.com/item?id=36282910) - [Tell HN: My Reddit account was suspended b/c I discussed building an alternative](https://news.ycombinator.com/item?id=36282910)
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
 * [2023-06-11, 15:45:02](https://news.ycombinator.com/item?id=36282456) - [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
 * [2023-06-11, 15:44:00](https://news.ycombinator.com/item?id=36282445) - [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)

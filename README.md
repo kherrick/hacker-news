@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 16:40:17](https://news.ycombinator.com/item?id=36282910) - [Tell HN: My Reddit account was suspended b/c I discussed building an alternative](https://news.ycombinator.com/item?id=36282910)
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
-* [2023-06-11, 15:44:00](https://news.ycombinator.com/item?id=36282445) - [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)
 * [2023-06-11, 15:29:44](https://news.ycombinator.com/item?id=36282294) - [Add $4 WiFi Logging to IKEA’s $12 Air Quality Sensor (Wemos and Vindriktning)](https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:51:31](https://news.ycombinator.com/item?id=36281945) - [A Tradecraft Primer (2009)](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
@@ -9,6 +9,7 @@
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 11:35:40](https://news.ycombinator.com/item?id=36280393) - [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
 * [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
+* [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Why aren't black box flight recorders better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:39:20](https://news.ycombinator.com/item?id=36280055) - [Powers of a 2×2 matrix in closed form](https://www.johndcook.com/blog/2023/06/03/matrix-powers/)
 * [2023-06-11, 10:35:30](https://news.ycombinator.com/item?id=36280028) - [Show HN: OpenObserve – Elasticsearch/Datadog alternative](https://github.com/openobserve/openobserve)
 * [2023-06-11, 09:22:09](https://news.ycombinator.com/item?id=36279639) - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
@@ -27,7 +28,6 @@
 * [2023-06-10, 02:18:16](https://news.ycombinator.com/item?id=36266895) - [Farming technologies tackle climate-change threats](https://www.wsj.com/articles/climate-change-will-upend-agriculture-here-are-five-technologies-that-could-help-b854770f)
 * [2023-06-09, 23:30:12](https://news.ycombinator.com/item?id=36265759) - [Modern Life Is Rubbish: Tao Lin’s Taipei (2013)](https://themillions.com/2013/06/modern-life-is-rubbish-tao-lins-taipei.html)
 * [2023-06-09, 22:56:04](https://news.ycombinator.com/item?id=36265429) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
-* [2023-06-09, 21:55:51](https://news.ycombinator.com/item?id=36264717) - [Grocery Mergers? Not So Good](https://waterwrights.net/grocery-mergers-not-so-good-january-16-2023/)
 * [2023-06-09, 14:01:32](https://news.ycombinator.com/item?id=36257935) - [I created Clippy [video]](https://www.youtube.com/watch?v=3kcQzCzSDvc)
 * [2023-06-09, 06:30:00](https://news.ycombinator.com/item?id=36254073) - [Robot can rip the data out of RAM chips](https://www.theregister.com/2023/06/09/cold_boot_ram_theft/)
 
