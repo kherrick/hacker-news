@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 05:04:14](https://news.ycombinator.com/item?id=36278280) - [UK universities accused of helping to develop Iran's 'suicide drones'](https://www.telegraph.co.uk/news/2023/06/08/drones-cambridge-iran-raf-ukraine-suicide-universities/)
 * [2023-06-11, 03:48:10](https://news.ycombinator.com/item?id=36277814) - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
 * [2023-06-11, 03:44:07](https://news.ycombinator.com/item?id=36277789) - [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
 * [2023-06-11, 03:23:00](https://news.ycombinator.com/item?id=36277684) - [ICDStories: Unraveling Medical Mysteries Through the Lens of ICD-10 Codes](https://icdstories.substack.com/)
