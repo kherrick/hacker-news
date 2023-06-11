@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-11, 00:16:01",
+      "https://news.ycombinator.com/item?id=36276710"
+    ],
+    [
+      "How to password protect a static HTML page with no JavaScript",
+      "https://shkspr.mobi/blog/2023/02/how-to-password-protect-a-static-html-page-with-no-js/"
+    ]
+  ],
+  [
+    [
       "2023-06-10, 23:21:14",
       "https://news.ycombinator.com/item?id=36276335"
     ],
     [
       "At what point should MO recognise it needs to leave Stack Exchange Inc?",
       "https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 22:41:03",
+      "https://news.ycombinator.com/item?id=36275974"
+    ],
+    [
+      "Turn dumb tweets into cuneiform tablets",
+      "https://dumbcuneiform.com/"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "Gren – an Elm fork",
       "https://gren-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 20:31:43",
-      "https://news.ycombinator.com/item?id=36274789"
-    ],
-    [
-      "Generative AI support on Vertex AI is now generally available",
-      "https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2023-06-10, 15:51:50",
-      "https://news.ycombinator.com/item?id=36271583"
-    ],
-    [
-      "Why Nature will not allow the use of generative AI in images and video",
-      "https://www.nature.com/articles/d41586-023-01546-4"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 14:09:17",
       "https://news.ycombinator.com/item?id=36270597"
     ],
@@ -187,16 +187,6 @@
     [
       "Show HN: RISC-V core written in 600 lines of C89",
       "https://github.com/mnurzia/rv"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 09:11:56",
-      "https://news.ycombinator.com/item?id=36268931"
-    ],
-    [
-      "A Case of the MUMPS (2007)",
-      "https://thedailywtf.com/articles/A_Case_of_the_MUMPS"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "List one task, do it, cross it out",
       "https://www.oliverburkeman.com/onething"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 05:38:58",
+      "https://news.ycombinator.com/item?id=36253717"
+    ],
+    [
+      "Water Resilience Portfolio Review",
+      "https://onthepublicrecord.org/2020/01/04/water-resilience-portfolio-review/"
     ]
   ],
   [
