@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-11, 17:35:36](https://news.ycombinator.com/item?id=36283501) - [Sama: I feel so bad about advice I gave while running YC I might delete my blog](https://twitter.com/morqon/status/1667717155234758657)
+* [2023-06-11, 18:27:30](https://news.ycombinator.com/item?id=36284172) - [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
+* [2023-06-11, 17:46:09](https://news.ycombinator.com/item?id=36283638) - [A Brief History of the Corporation: 1600 to 2100 (2011)](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/)
 * [2023-06-11, 17:26:07](https://news.ycombinator.com/item?id=36283395) - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
 * [2023-06-11, 17:21:09](https://news.ycombinator.com/item?id=36283351) - [Show HN: Java REST without annotations, DI nor reactive streams](https://github.com/MartinGeisse/grumpyrest)
 * [2023-06-11, 17:10:10](https://news.ycombinator.com/item?id=36283249) - [Reddit Strike Has Started](https://reddark.untone.uk/)
@@ -17,7 +18,6 @@
 * [2023-06-11, 13:04:34](https://news.ycombinator.com/item?id=36281001) - [HSTS preload adoption and challenges](https://alexsci.com/blog/hsts-adoption/)
 * [2023-06-11, 13:01:39](https://news.ycombinator.com/item?id=36280980) - [A peek into Japan's convenience stores (Part 2)](https://one-from-nippon.ghost.io/combini-part-2/)
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
-* [2023-06-11, 11:35:40](https://news.ycombinator.com/item?id=36280393) - [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
 * [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Why aren't black box flight recorders better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:35:30](https://news.ycombinator.com/item?id=36280028) - [Show HN: OpenObserve – Elasticsearch/Datadog alternative](https://github.com/openobserve/openobserve)
