@@ -9,6 +9,7 @@
 * [2023-06-11, 21:46:08](https://news.ycombinator.com/item?id=36286058) - [Code and Programming Projects](https://www.chrisgregory.me/code)
 * [2023-06-11, 21:12:29](https://news.ycombinator.com/item?id=36285736) - [Ask HN: How to Find an Accountant / CPA?](https://news.ycombinator.com/item?id=36285736)
 * [2023-06-11, 21:02:56](https://news.ycombinator.com/item?id=36285640) - [Apple Execs on Facebook (2011)](https://www.techemails.com/p/apple-execs-on-facebook)
+* [2023-06-11, 20:59:44](https://news.ycombinator.com/item?id=36285607) - [Hiltonhotels.jp SSL key publicly available](https://www.hezmatt.org/~mpalmer/blog/2023/06/12/private-key-redaction-redux.html)
 * [2023-06-11, 20:41:35](https://news.ycombinator.com/item?id=36285440) - [Reddit founders made hundreds of fake profiles so site looked popular (2012)](https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/)
 * [2023-06-11, 20:38:19](https://news.ycombinator.com/item?id=36285406) - [20 Books on Starting a Profitable SaaS Business](https://stratoflow.com/best-books-on-starting-a-profitable-saas/)
 * [2023-06-11, 20:09:26](https://news.ycombinator.com/item?id=36285097) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
