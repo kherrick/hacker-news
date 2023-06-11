@@ -7,6 +7,7 @@
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
 * [2023-06-11, 15:45:02](https://news.ycombinator.com/item?id=36282456) - [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
 * [2023-06-11, 15:44:00](https://news.ycombinator.com/item?id=36282445) - [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)
+* [2023-06-11, 15:29:44](https://news.ycombinator.com/item?id=36282294) - [Add $4 WiFi Logging to IKEA’s $12 Air Quality Sensor (Wemos and Vindriktning)](https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/)
 * [2023-06-11, 15:17:25](https://news.ycombinator.com/item?id=36282180) - [Panama Canal in face of ‘unprecedented drought’](https://www.seatrade-maritime.com/panama/panama-canal-takes-water-saving-measures-face-unprecedented-drought)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [The compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:51:31](https://news.ycombinator.com/item?id=36281945) - [A Tradecraft Primer – CIA](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
