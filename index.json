@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-11, 12:31:34",
+      "https://news.ycombinator.com/item?id=36280772"
+    ],
+    [
+      "Mental Liquidity",
+      "https://collabfund.com/blog/mental-liquidity/"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 12:07:36",
       "https://news.ycombinator.com/item?id=36280603"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2023-06-11, 10:35:19",
+      "https://news.ycombinator.com/item?id=36280026"
+    ],
+    [
+      "How to Cite ChatGPT",
+      "https://apastyle.apa.org/blog/how-to-cite-chatgpt"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 09:22:09",
       "https://news.ycombinator.com/item?id=36279639"
     ],
     [
       "Before he was the Unabomber, Ted Kaczynski was a mind-control test subject",
       "https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 08:51:55",
-      "https://news.ycombinator.com/item?id=36279496"
-    ],
-    [
-      "Can you trust ChatGPT’s package recommendations?",
-      "https://vulcan.io/blog/ai-hallucinations-package-risk"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "5.5M Spore users have uploaded some 191M creations and counting",
       "http://www.spore.com/rest/stats"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 08:13:20",
-      "https://news.ycombinator.com/item?id=36279323"
-    ],
-    [
-      "Growing from Engineer to Manager",
-      "https://newsletter.eng-leadership.com/p/growing-from-engineer-to-manager"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-06-09, 21:57:03",
-      "https://news.ycombinator.com/item?id=36264744"
-    ],
-    [
-      "The computer graphics industry got started at the university of Utah",
-      "https://spectrum.ieee.org/history-of-computer-graphics-industry"
-    ]
-  ],
-  [
-    [
       "2023-06-09, 21:55:51",
       "https://news.ycombinator.com/item?id=36264717"
     ],
@@ -287,6 +277,16 @@
     [
       "Why Do ML on the Erlang VM?",
       "https://underjord.io/why-ml-on-erlang.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 06:30:00",
+      "https://news.ycombinator.com/item?id=36254073"
+    ],
+    [
+      "Robot can rip the data out of RAM chips",
+      "https://www.theregister.com/2023/06/09/cold_boot_ram_theft/"
     ]
   ],
   [
