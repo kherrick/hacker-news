@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-10, 23:21:14](https://news.ycombinator.com/item?id=36276335) - [At what point should MO recognise it needs to leave Stack Exchange Inc?](https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc)
-* [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
+* [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [Gren – an Elm fork](https://gren-lang.org/)
 * [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
-* [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
+* [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 19:08:25](https://news.ycombinator.com/item?id=36273892) - [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
 * [2023-06-10, 19:08:15](https://news.ycombinator.com/item?id=36273890) - [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
@@ -14,7 +14,6 @@
 * [2023-06-10, 17:42:28](https://news.ycombinator.com/item?id=36272747) - [GCP automatically lowered our quota, caused an incident, and refused to upgrade](https://twitter.com/JustJake/status/1667478906591666176)
 * [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski has died](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
 * [2023-06-10, 16:29:03](https://news.ycombinator.com/item?id=36271926) - [MusicGen: Simple and controllable music generation](https://ai.honu.io/papers/musicgen/)
-* [2023-06-10, 16:16:37](https://news.ycombinator.com/item?id=36271804) - [Apple M2 Ultra SoC isn’t faster than AMD and Intel last year desktop CPUs](https://wccftech.com/apple-m2-ultra-soc-isnt-faster-than-amd-intel-last-year-desktop-cpus-50-slower-than-nvidia-rtx-4080/)
 * [2023-06-10, 15:51:50](https://news.ycombinator.com/item?id=36271583) - [Why Nature will not allow the use of generative AI in images and video](https://www.nature.com/articles/d41586-023-01546-4)
 * [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 * [2023-06-10, 13:45:45](https://news.ycombinator.com/item?id=36270413) - [Mercedes beats Tesla to autonomous driving in California](https://www.theregister.com/2023/06/09/mercedes_california_tesla/)
@@ -30,6 +29,7 @@
 * [2023-06-09, 08:06:22](https://news.ycombinator.com/item?id=36254776) - [What is Technicolor? (2021)](https://www.studiobinder.com/blog/what-is-technicolor-definition/)
 * [2023-06-09, 06:02:24](https://news.ycombinator.com/item?id=36253882) - [List one task, do it, cross it out](https://www.oliverburkeman.com/onething)
 * [2023-06-09, 05:19:34](https://news.ycombinator.com/item?id=36253565) - [Ask HN: Advice on starting a YouTube channel?](https://news.ycombinator.com/item?id=36253565)
+* [2023-06-09, 05:11:28](https://news.ycombinator.com/item?id=36253499) - [Big Leap for Hard Drive Capacities: 32 TB HAMR Drives Due Soon, 40TB on Horizon](https://www.anandtech.com/show/18901/big-leap-for-hdds-32-tb-hamr-drive-is-coming-40tb-on-horizon)
 
 ## [Archives](archives/index.md)
 
