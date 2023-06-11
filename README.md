@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 22:48:32](https://news.ycombinator.com/item?id=36286513) - [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
 * [2023-06-11, 22:27:24](https://news.ycombinator.com/item?id=36286370) - [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
 * [2023-06-11, 21:46:08](https://news.ycombinator.com/item?id=36286058) - [Code and Programming Projects](https://www.chrisgregory.me/code)
 * [2023-06-11, 20:09:26](https://news.ycombinator.com/item?id=36285097) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
@@ -26,7 +27,6 @@
 * [2023-06-10, 21:21:26](https://news.ycombinator.com/item?id=36275237) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 20:18:05](https://news.ycombinator.com/item?id=36274647) - [WebObjects Overview (2001) [pdf]](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
 * [2023-06-10, 19:10:11](https://news.ycombinator.com/item?id=36273917) - [The curse of scalable technology](https://lukeplant.me.uk/blog/posts/the-curse-of-scalable-technology/)
-* [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
 * [2023-06-10, 08:12:48](https://news.ycombinator.com/item?id=36268671) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-10, 06:57:10](https://news.ycombinator.com/item?id=36268339) - [Domain knowledge or a lack thereof (2013)](https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/)
 * [2023-06-09, 06:30:00](https://news.ycombinator.com/item?id=36254073) - [Robot can rip the data out of RAM chips](https://www.theregister.com/2023/06/09/cold_boot_ram_theft/)

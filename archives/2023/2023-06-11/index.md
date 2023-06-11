@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 22:48:32](https://news.ycombinator.com/item?id=36286513) - [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
 * [2023-06-11, 22:27:24](https://news.ycombinator.com/item?id=36286370) - [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
 * [2023-06-11, 21:46:08](https://news.ycombinator.com/item?id=36286058) - [Code and Programming Projects](https://www.chrisgregory.me/code)
 * [2023-06-11, 21:12:29](https://news.ycombinator.com/item?id=36285736) - [Ask HN: How to Find an Accountant / CPA?](https://news.ycombinator.com/item?id=36285736)
