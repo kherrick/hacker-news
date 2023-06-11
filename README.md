@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-11, 05:04:14](https://news.ycombinator.com/item?id=36278280) - [UK universities accused of helping to develop Iran's 'suicide drones'](https://www.telegraph.co.uk/news/2023/06/08/drones-cambridge-iran-raf-ukraine-suicide-universities/)
 * [2023-06-11, 03:48:10](https://news.ycombinator.com/item?id=36277814) - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
 * [2023-06-11, 03:44:07](https://news.ycombinator.com/item?id=36277789) - [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
+* [2023-06-11, 03:25:56](https://news.ycombinator.com/item?id=36277696) - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
 * [2023-06-11, 03:23:00](https://news.ycombinator.com/item?id=36277684) - [ICDStories: Unraveling Medical Mysteries Through the Lens of ICD-10 Codes](https://icdstories.substack.com/)
 * [2023-06-11, 00:29:05](https://news.ycombinator.com/item?id=36276791) - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
