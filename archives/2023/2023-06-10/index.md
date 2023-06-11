@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-10](index.md)
 
 * [2023-06-10, 23:21:14](https://news.ycombinator.com/item?id=36276335) - [At what point should MO recognise it needs to leave Stack Exchange Inc?](https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc)
+* [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 22:41:03](https://news.ycombinator.com/item?id=36275974) - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 * [2023-06-10, 22:40:50](https://news.ycombinator.com/item?id=36275972) - [VP of Bitwarden fired for using ‘Assigned By God’ as pronoun sues employer](https://techstartups.com/2023/06/10/vp-of-cybersecurity-startup-bitwarden-fired-for-using-assigned-by-god-as-preferred-pronoun-sues-employer/)
 * [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
