@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 21:46:08](https://news.ycombinator.com/item?id=36286058) - [Code and Programming Projects](https://www.chrisgregory.me/code)
 * [2023-06-11, 21:12:29](https://news.ycombinator.com/item?id=36285736) - [Ask HN: How to Find an Accountant / CPA?](https://news.ycombinator.com/item?id=36285736)
 * [2023-06-11, 21:02:56](https://news.ycombinator.com/item?id=36285640) - [Apple Execs on Facebook (2011)](https://www.techemails.com/p/apple-execs-on-facebook)
 * [2023-06-11, 20:41:35](https://news.ycombinator.com/item?id=36285440) - [Reddit founders made hundreds of fake profiles so site looked popular (2012)](https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/)
@@ -27,6 +28,7 @@
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s nearly 40-year, 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 * [2023-06-11, 16:40:17](https://news.ycombinator.com/item?id=36282910) - [Tell HN: My Reddit account was suspended b/c I discussed building an alternative](https://news.ycombinator.com/item?id=36282910)
 * [2023-06-11, 16:28:01](https://news.ycombinator.com/item?id=36282798) - [Csexp: S-Expressions over the Network](https://docs.racket-lang.org/csexp/index.html)
+* [2023-06-11, 16:22:10](https://news.ycombinator.com/item?id=36282748) - [Treebomination: Convert a scikit-learn decision tree into a Keras model](https://github.com/Dobiasd/treebomination)
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
 * [2023-06-11, 15:45:02](https://news.ycombinator.com/item?id=36282456) - [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
 * [2023-06-11, 15:44:00](https://news.ycombinator.com/item?id=36282445) - [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)

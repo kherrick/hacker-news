@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-11, 21:12:29](https://news.ycombinator.com/item?id=36285736) - [Ask HN: How to Find an Accountant / CPA?](https://news.ycombinator.com/item?id=36285736)
+* [2023-06-11, 21:46:08](https://news.ycombinator.com/item?id=36286058) - [Code and Programming Projects](https://www.chrisgregory.me/code)
 * [2023-06-11, 21:02:56](https://news.ycombinator.com/item?id=36285640) - [Apple Execs on Facebook (2011)](https://www.techemails.com/p/apple-execs-on-facebook)
-* [2023-06-11, 20:41:35](https://news.ycombinator.com/item?id=36285440) - [Reddit founders made hundreds of fake profiles so site looked popular (2012)](https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/)
 * [2023-06-11, 20:38:19](https://news.ycombinator.com/item?id=36285406) - [20 Books on Starting a Profitable SaaS Business](https://stratoflow.com/best-books-on-starting-a-profitable-saas/)
 * [2023-06-11, 20:03:03](https://news.ycombinator.com/item?id=36285049) - [Logistics challenges of saving Air India’s diverted 777 in Russia](https://www.flightradar24.com/blog/air-india-russia-diversion/)
 * [2023-06-11, 18:27:30](https://news.ycombinator.com/item?id=36284172) - [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
@@ -13,6 +12,7 @@
 * [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 * [2023-06-11, 16:28:01](https://news.ycombinator.com/item?id=36282798) - [Csexp: S-Expressions over the Network](https://docs.racket-lang.org/csexp/index.html)
+* [2023-06-11, 16:22:10](https://news.ycombinator.com/item?id=36282748) - [Treebomination: Convert a scikit-learn decision tree into a Keras model](https://github.com/Dobiasd/treebomination)
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:51:31](https://news.ycombinator.com/item?id=36281945) - [A Tradecraft Primer (2009)](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
