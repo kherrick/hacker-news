@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
+* [2023-06-11, 16:55:57](https://news.ycombinator.com/item?id=36283090) - [Guide to Finding Lemmy Communities (Subreddits)](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/)
+* [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s nearly 40-year, 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 * [2023-06-11, 16:40:17](https://news.ycombinator.com/item?id=36282910) - [Tell HN: My Reddit account was suspended b/c I discussed building an alternative](https://news.ycombinator.com/item?id=36282910)
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
 * [2023-06-11, 15:45:02](https://news.ycombinator.com/item?id=36282456) - [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
@@ -15,6 +18,7 @@
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [Dutch government wants automatically gain permission to target victims of hacks](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
 * [2023-06-11, 13:46:46](https://news.ycombinator.com/item?id=36281321) - [Hate Baggage Fees? Wear a Fishing Vest on the Plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
 * [2023-06-11, 13:33:24](https://news.ycombinator.com/item?id=36281208) - [Europe: Is compulsory military service coming back?](https://www.dw.com/en/europe-is-compulsory-military-service-coming-back/a-65880469)
+* [2023-06-11, 13:04:34](https://news.ycombinator.com/item?id=36281001) - [HSTS preload adoption and challenges](https://alexsci.com/blog/hsts-adoption/)
 * [2023-06-11, 13:01:39](https://news.ycombinator.com/item?id=36280980) - [A peek into Japan's convenience stores (Part 2)](https://one-from-nippon.ghost.io/combini-part-2/)
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 12:07:36](https://news.ycombinator.com/item?id=36280603) - [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
