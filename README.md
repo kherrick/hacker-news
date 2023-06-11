@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-11, 08:22:48](https://news.ycombinator.com/item?id=36279375) - [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
+* [2023-06-11, 08:13:20](https://news.ycombinator.com/item?id=36279323) - [Growing from Engineer to Manager](https://newsletter.eng-leadership.com/p/growing-from-engineer-to-manager)
 * [2023-06-11, 04:17:00](https://news.ycombinator.com/item?id=36277962) - [A peek into Japan's convenience stores](https://one-from-nippon.ghost.io/combini-part-1/)
 * [2023-06-11, 03:48:10](https://news.ycombinator.com/item?id=36277814) - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
 * [2023-06-11, 03:27:52](https://news.ycombinator.com/item?id=36277706) - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
@@ -11,7 +12,6 @@
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [Gren – an Elm fork](https://gren-lang.org/)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
-* [2023-06-10, 19:08:25](https://news.ycombinator.com/item?id=36273892) - [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
 * [2023-06-10, 18:07:23](https://news.ycombinator.com/item?id=36273075) - [OBS merges WebRTC support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
 * [2023-06-10, 17:12:05](https://news.ycombinator.com/item?id=36272409) - [Ted Kaczynski has died](https://www.nytimes.com/2023/06/10/us/ted-kaczynski-dead.html)
