@@ -15,6 +15,7 @@
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
 * [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 * [2023-06-10, 20:26:17](https://news.ycombinator.com/item?id=36274739) - [A boat with refugees vanished – a phone call untangled the mystery](https://apnews.com/article/rohingya-investigation-missing-boat-refugees-bangladesh-myanmar-migration-1b94b4472a42b26eb066bef47b7bcf7e)
+* [2023-06-10, 20:18:00](https://news.ycombinator.com/item?id=36274644) - [Buying an entire Egghead Software store (2005)](https://devblogs.microsoft.com/oldnewthing/20050824-11/?p=34463)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda Urges Replacing – Not Patching – Its Email Security Gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 19:08:25](https://news.ycombinator.com/item?id=36273892) - [Django Views – The Right Way](https://spookylukey.github.io/django-views-the-right-way/index.html)
 * [2023-06-10, 19:08:15](https://news.ycombinator.com/item?id=36273890) - [DeArrow: Crowdsourcing better titles and thumbnails on YouTube](https://github.com/ajayyy/DeArrow)
