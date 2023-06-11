@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 20:08:25](https://news.ycombinator.com/item?id=36285086) - [Algeria cuts internet nationwide during the baccalaureat exams](https://www.tsa-algerie.com/linternet-fortement-perturbee-durant-le-1er-jour-du-bac-en-algerie/)
+* [2023-06-11, 20:04:44](https://news.ycombinator.com/item?id=36285060) - [Tesla’s Autopilot involved in far more crashes than previously known](https://www.seattletimes.com/nation-world/teslas-autopilot-involved-in-far-more-crashes-than-previously-known/)
+* [2023-06-11, 20:03:03](https://news.ycombinator.com/item?id=36285049) - [Logistics challenges of saving Air India’s diverted 777 in Russia](https://www.flightradar24.com/blog/air-india-russia-diversion/)
 * [2023-06-11, 19:15:52](https://news.ycombinator.com/item?id=36284614) - [Why are blocks on Bluesky public?](https://atproto.com/blog/block-implementation)
 * [2023-06-11, 19:08:51](https://news.ycombinator.com/item?id=36284561) - [Should Adults Be Consuming Breast Milk?](https://www.shape.com/lifestyle/mind-and-body/breast-milk-supplements-adults)
 * [2023-06-11, 18:27:30](https://news.ycombinator.com/item?id=36284172) - [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
