@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 12:07:36](https://news.ycombinator.com/item?id=36280603) - [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
 * [2023-06-11, 11:19:52](https://news.ycombinator.com/item?id=36280273) - [Twitter is refusing to pay its Google Cloud bills](https://tech.seposts.com/2023/06/twitter-is-refusing-to-pay-its-google.html)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
+* [2023-06-11, 10:35:19](https://news.ycombinator.com/item?id=36280026) - [How to Cite ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
 * [2023-06-11, 10:17:05](https://news.ycombinator.com/item?id=36279927) - [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
 * [2023-06-11, 10:17:02](https://news.ycombinator.com/item?id=36279925) - [Electric cars are better for the environment, no matter the power source](https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/)
 * [2023-06-11, 09:54:07](https://news.ycombinator.com/item?id=36279784) - [Call for Germany to scrap English lessons in primary schools](https://www.dw.com/en/call-for-germany-to-scrap-english-lessons-in-primary-schools/a-65876721)
