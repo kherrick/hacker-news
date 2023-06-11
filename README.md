@@ -21,6 +21,7 @@
 * [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Why aren't black box flight recorders better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:35:30](https://news.ycombinator.com/item?id=36280028) - [Show HN: OpenObserve – Elasticsearch/Datadog alternative](https://github.com/openobserve/openobserve)
+* [2023-06-11, 06:09:26](https://news.ycombinator.com/item?id=36278661) - [She Measures the Heavens and Outlines the Earth](https://www.laphamsquarterly.org/roundtable/she-measures-heavens-and-outlines-earth)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 21:21:26](https://news.ycombinator.com/item?id=36275237) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 20:18:05](https://news.ycombinator.com/item?id=36274647) - [WebObjects Overview (2001) [pdf]](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
@@ -28,7 +29,6 @@
 * [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
 * [2023-06-10, 08:12:48](https://news.ycombinator.com/item?id=36268671) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-10, 06:57:10](https://news.ycombinator.com/item?id=36268339) - [Domain knowledge or a lack thereof (2013)](https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/)
-* [2023-06-09, 14:01:32](https://news.ycombinator.com/item?id=36257935) - [I created Clippy [video]](https://www.youtube.com/watch?v=3kcQzCzSDvc)
 * [2023-06-09, 06:30:00](https://news.ycombinator.com/item?id=36254073) - [Robot can rip the data out of RAM chips](https://www.theregister.com/2023/06/09/cold_boot_ram_theft/)
 
 ## [Archives](archives/index.md)

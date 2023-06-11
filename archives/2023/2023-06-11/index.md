@@ -66,6 +66,7 @@
 * [2023-06-11, 08:13:20](https://news.ycombinator.com/item?id=36279323) - [Growing from Engineer to Manager](https://newsletter.eng-leadership.com/p/growing-from-engineer-to-manager)
 * [2023-06-11, 07:36:14](https://news.ycombinator.com/item?id=36279129) - [CS:GO: From Zero to 0-Day](https://neodyme.io/blog/csgo_from_zero_to_0day/)
 * [2023-06-11, 06:49:57](https://news.ycombinator.com/item?id=36278874) - [What did I learn from OpenSnitch this summer?](https://people.skolelinux.org/pere/blog/What_did_I_learn_from_OpenSnitch_this_summer_.html)
+* [2023-06-11, 06:09:26](https://news.ycombinator.com/item?id=36278661) - [She Measures the Heavens and Outlines the Earth](https://www.laphamsquarterly.org/roundtable/she-measures-heavens-and-outlines-earth)
 * [2023-06-11, 05:04:14](https://news.ycombinator.com/item?id=36278280) - [UK universities accused of helping to develop Iran's 'suicide drones'](https://www.telegraph.co.uk/news/2023/06/08/drones-cambridge-iran-raf-ukraine-suicide-universities/)
 * [2023-06-11, 04:17:00](https://news.ycombinator.com/item?id=36277962) - [A peek into Japan's convenience stores](https://one-from-nippon.ghost.io/combini-part-1/)
 * [2023-06-11, 03:48:10](https://news.ycombinator.com/item?id=36277814) - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
