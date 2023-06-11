@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-06-11, 10:17:02",
+      "https://news.ycombinator.com/item?id=36279925"
+    ],
+    [
+      "Electric cars are better for the environment, no matter the power source",
+      "https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 09:54:07",
       "https://news.ycombinator.com/item?id=36279784"
     ],
@@ -177,16 +187,6 @@
     [
       "A performance analysis of Intel x86-SIMD-sort (AVX-512)",
       "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 18:07:23",
-      "https://news.ycombinator.com/item?id=36273075"
-    ],
-    [
-      "OBS merges WebRTC support",
-      "https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141"
     ]
   ],
   [
