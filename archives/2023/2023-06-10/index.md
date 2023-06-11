@@ -61,6 +61,7 @@
 * [2023-06-10, 08:12:48](https://news.ycombinator.com/item?id=36268671) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-10, 07:27:34](https://news.ycombinator.com/item?id=36268458) - [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
 * [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
+* [2023-06-10, 06:57:10](https://news.ycombinator.com/item?id=36268339) - [Domain Knowledge or a Lack Thereof](https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
 * [2023-06-10, 04:31:39](https://news.ycombinator.com/item?id=36267611) - [The Ritual of Capitalization (2021)](https://economicsfromthetopdown.com/2021/06/02/the-ritual-of-capitalization/)
 * [2023-06-10, 04:19:23](https://news.ycombinator.com/item?id=36267563) - [Ask HN: Dev productivity tools you would pay for](https://news.ycombinator.com/item?id=36267563)
