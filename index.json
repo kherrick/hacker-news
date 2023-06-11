@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-11, 20:41:35",
+      "https://news.ycombinator.com/item?id=36285440"
+    ],
+    [
+      "Reddit founders made hundreds of fake profiles so site looked popular (2012)",
+      "https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 20:08:25",
       "https://news.ycombinator.com/item?id=36285086"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-06-11, 15:29:44",
-      "https://news.ycombinator.com/item?id=36282294"
-    ],
-    [
-      "Add $4 WiFi Logging to IKEA’s $12 Air Quality Sensor (Wemos and Vindriktning)",
-      "https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 15:07:18",
       "https://news.ycombinator.com/item?id=36282076"
     ],
@@ -187,16 +187,6 @@
     [
       "Mental Liquidity",
       "https://collabfund.com/blog/mental-liquidity/"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 11:10:14",
-      "https://news.ycombinator.com/item?id=36280214"
-    ],
-    [
-      "This is valid Python syntax",
-      "https://www.bitecode.dev/p/this-is-valid-python-syntax"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "From Stacks to Trees: A new aliasing model for Rust",
       "https://www.ralfj.de/blog/2023/06/02/tree-borrows.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 06:57:10",
+      "https://news.ycombinator.com/item?id=36268339"
+    ],
+    [
+      "Domain Knowledge or a Lack Thereof",
+      "https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/"
     ]
   ],
   [
