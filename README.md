@@ -2,6 +2,8 @@
 
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 12:07:36](https://news.ycombinator.com/item?id=36280603) - [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
+* [2023-06-11, 11:35:40](https://news.ycombinator.com/item?id=36280393) - [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
+* [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [Valid Python syntax – by Nobody has time for Python](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Why aren't black boxes better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:35:19](https://news.ycombinator.com/item?id=36280026) - [How to Cite ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
 * [2023-06-11, 09:22:09](https://news.ycombinator.com/item?id=36279639) - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
@@ -12,10 +14,9 @@
 * [2023-06-11, 03:27:52](https://news.ycombinator.com/item?id=36277706) - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
 * [2023-06-11, 03:25:56](https://news.ycombinator.com/item?id=36277696) - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
 * [2023-06-11, 00:29:05](https://news.ycombinator.com/item?id=36276791) - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
+* [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 22:41:03](https://news.ycombinator.com/item?id=36275974) - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 * [2023-06-10, 22:38:14](https://news.ycombinator.com/item?id=36275943) - [Total recall: the people who never forget (2017)](https://www.theguardian.com/science/2017/feb/08/total-recall-the-people-who-never-forget)
-* [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
-* [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [Gren – an Elm fork](https://gren-lang.org/)
 * [2023-06-10, 20:18:00](https://news.ycombinator.com/item?id=36274644) - [Buying an entire Egghead Software store (2005)](https://devblogs.microsoft.com/oldnewthing/20050824-11/?p=34463)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
@@ -29,7 +30,6 @@
 * [2023-06-09, 11:14:08](https://news.ycombinator.com/item?id=36256133) - [An incomplete history of London’s television studios](https://www.tvstudiohistory.co.uk/)
 * [2023-06-09, 09:49:50](https://news.ycombinator.com/item?id=36255546) - [Why Do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [2023-06-09, 06:30:00](https://news.ycombinator.com/item?id=36254073) - [Robot can rip the data out of RAM chips](https://www.theregister.com/2023/06/09/cold_boot_ram_theft/)
-* [2023-06-09, 05:11:28](https://news.ycombinator.com/item?id=36253499) - [Big leap for hard drive capacities: 32 TB HAMR drives due soon, 40tb on horizon](https://www.anandtech.com/show/18901/big-leap-for-hdds-32-tb-hamr-drive-is-coming-40tb-on-horizon)
 
 ## [Archives](archives/index.md)
 

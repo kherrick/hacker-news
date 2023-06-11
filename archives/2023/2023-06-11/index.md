@@ -6,7 +6,9 @@
 
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 12:07:36](https://news.ycombinator.com/item?id=36280603) - [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
+* [2023-06-11, 11:35:40](https://news.ycombinator.com/item?id=36280393) - [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
 * [2023-06-11, 11:19:52](https://news.ycombinator.com/item?id=36280273) - [Twitter is refusing to pay its Google Cloud bills](https://tech.seposts.com/2023/06/twitter-is-refusing-to-pay-its-google.html)
+* [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [Valid Python syntax – by Nobody has time for Python](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:35:19](https://news.ycombinator.com/item?id=36280026) - [How to Cite ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
 * [2023-06-11, 10:17:05](https://news.ycombinator.com/item?id=36279927) - [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
