@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
 * [2023-06-11, 19:15:52](https://news.ycombinator.com/item?id=36284614) - [Why are blocks on Bluesky public?](https://atproto.com/blog/block-implementation)
+* [2023-06-11, 19:08:51](https://news.ycombinator.com/item?id=36284561) - [Should Adults Be Consuming Breast Milk?](https://www.shape.com/lifestyle/mind-and-body/breast-milk-supplements-adults)
 * [2023-06-11, 18:27:30](https://news.ycombinator.com/item?id=36284172) - [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
 * [2023-06-11, 17:46:09](https://news.ycombinator.com/item?id=36283638) - [A Brief History of the Corporation: 1600 to 2100 (2011)](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/)
 * [2023-06-11, 17:35:36](https://news.ycombinator.com/item?id=36283501) - [Sama: I feel so bad about advice I gave while running YC I might delete my blog](https://twitter.com/morqon/status/1667717155234758657)

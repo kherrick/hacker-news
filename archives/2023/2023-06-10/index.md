@@ -58,6 +58,7 @@
 * [2023-06-10, 09:36:17](https://news.ycombinator.com/item?id=36269041) - [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 09:06:37](https://news.ycombinator.com/item?id=36268907) - [AI detects 20k hidden taxable swimming pools in France, netting €10M](https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools)
+* [2023-06-10, 08:12:48](https://news.ycombinator.com/item?id=36268671) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-10, 07:27:34](https://news.ycombinator.com/item?id=36268458) - [Reddit bans subreddit detailing how to move to competitor Kbin](https://old.reddit.com/r/KbinMigration)
 * [2023-06-10, 07:01:13](https://news.ycombinator.com/item?id=36268356) - [PlayHT (YC W23) Is Hiring a Senior ML Engineer (LLMs/Generative Models)](https://www.ycombinator.com/companies/playht/jobs/G6vI660-senior-ml-engineer-large-language-models)
 * [2023-06-10, 06:40:10](https://news.ycombinator.com/item?id=36268247) - [Zig Language Server and Cancellation](https://matklad.github.io/2023/05/06/zig-language-server-and-cancellation.html)
