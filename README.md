@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 22:27:24](https://news.ycombinator.com/item?id=36286370) - [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
 * [2023-06-11, 21:46:08](https://news.ycombinator.com/item?id=36286058) - [Code and Programming Projects](https://www.chrisgregory.me/code)
 * [2023-06-11, 21:02:56](https://news.ycombinator.com/item?id=36285640) - [Apple Execs on Facebook (2011)](https://www.techemails.com/p/apple-execs-on-facebook)
 * [2023-06-11, 20:38:19](https://news.ycombinator.com/item?id=36285406) - [20 Books on Starting a Profitable SaaS Business](https://stratoflow.com/best-books-on-starting-a-profitable-saas/)
@@ -19,7 +20,6 @@
 * [2023-06-11, 14:34:24](https://news.ycombinator.com/item?id=36281807) - [Hacking the Philips Sonicare NFC Password](https://twitter.com/atc1441/status/1667252413051424773)
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [The Dutch government wants automatic permission to target victims of hackers](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
-* [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Why aren't black box flight recorders better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:35:30](https://news.ycombinator.com/item?id=36280028) - [Show HN: OpenObserve – Elasticsearch/Datadog alternative](https://github.com/openobserve/openobserve)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
@@ -28,7 +28,7 @@
 * [2023-06-10, 19:10:11](https://news.ycombinator.com/item?id=36273917) - [The Curse of Scalable Technology](https://lukeplant.me.uk/blog/posts/the-curse-of-scalable-technology/)
 * [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
 * [2023-06-10, 08:12:48](https://news.ycombinator.com/item?id=36268671) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
-* [2023-06-10, 06:57:10](https://news.ycombinator.com/item?id=36268339) - [Domain Knowledge or a Lack Thereof](https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/)
+* [2023-06-10, 06:57:10](https://news.ycombinator.com/item?id=36268339) - [Domain Knowledge or a Lack Thereof (2013)](https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/)
 * [2023-06-09, 06:30:00](https://news.ycombinator.com/item?id=36254073) - [Robot can rip the data out of RAM chips](https://www.theregister.com/2023/06/09/cold_boot_ram_theft/)
 
 ## [Archives](archives/index.md)
