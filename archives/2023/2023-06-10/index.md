@@ -12,6 +12,7 @@
 * [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:55:25](https://news.ycombinator.com/item?id=36275565) - [Ask HN: Why did major desktop OSes settle on a macOS-like taskbar?](https://news.ycombinator.com/item?id=36275565)
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
+* [2023-06-10, 21:21:26](https://news.ycombinator.com/item?id=36275237) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [An Elm Fork](https://gren-lang.org/)
 * [2023-06-10, 20:31:43](https://news.ycombinator.com/item?id=36274789) - [Generative AI support on Vertex AI is now generally available](https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai)
 * [2023-06-10, 20:26:17](https://news.ycombinator.com/item?id=36274739) - [A boat with refugees vanished – a phone call untangled the mystery](https://apnews.com/article/rohingya-investigation-missing-boat-refugees-bangladesh-myanmar-migration-1b94b4472a42b26eb066bef47b7bcf7e)

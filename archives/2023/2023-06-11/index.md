@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 17:26:07](https://news.ycombinator.com/item?id=36283395) - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
+* [2023-06-11, 17:21:09](https://news.ycombinator.com/item?id=36283351) - [Show HN: Java REST without annotations, DI nor reactive streams](https://github.com/MartinGeisse/grumpyrest)
 * [2023-06-11, 17:18:05](https://news.ycombinator.com/item?id=36283317) - [Reddit pays an SF startup millions to analyse all shopping-related Reddit data](https://old.reddit.com/r/BuyItForLife/comments/146lls7/reddit_has_a_partnership_with_a_san_francisco/)
 * [2023-06-11, 17:10:10](https://news.ycombinator.com/item?id=36283249) - [Reddit Strike Has Started](https://reddark.untone.uk/)
 * [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
@@ -19,6 +21,7 @@
 * [2023-06-11, 15:17:25](https://news.ycombinator.com/item?id=36282180) - [Panama Canal in face of ‘unprecedented drought’](https://www.seatrade-maritime.com/panama/panama-canal-takes-water-saving-measures-face-unprecedented-drought)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [The compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:51:31](https://news.ycombinator.com/item?id=36281945) - [A Tradecraft Primer – CIA](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
+* [2023-06-11, 14:34:24](https://news.ycombinator.com/item?id=36281807) - [Hacking the Philips Sonicare NFC Password](https://twitter.com/atc1441/status/1667252413051424773)
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [Dutch government wants automatically gain permission to target victims of hacks](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
 * [2023-06-11, 13:46:46](https://news.ycombinator.com/item?id=36281321) - [Hate Baggage Fees? Wear a Fishing Vest on the Plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
 * [2023-06-11, 13:33:24](https://news.ycombinator.com/item?id=36281208) - [Europe: Is compulsory military service coming back?](https://www.dw.com/en/europe-is-compulsory-military-service-coming-back/a-65880469)
