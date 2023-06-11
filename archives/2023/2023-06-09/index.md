@@ -17,6 +17,7 @@
 * [2023-06-09, 22:45:24](https://news.ycombinator.com/item?id=36265316) - [Wow, Is Apple’s Vision Pro Loaded with Pixels](https://spectrum.ieee.org/apple-vision-pro)
 * [2023-06-09, 22:39:06](https://news.ycombinator.com/item?id=36265245) - [A thread on the deterioration of accessibility in GTK4 and Wayland](https://tech.lgbt/@xogium/110507457689374019)
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [How the Computer Graphics Industry Got Started at the University of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
+* [2023-06-09, 21:55:51](https://news.ycombinator.com/item?id=36264717) - [Grocery Mergers? Not So Good](https://waterwrights.net/grocery-mergers-not-so-good-january-16-2023/)
 * [2023-06-09, 21:32:52](https://news.ycombinator.com/item?id=36264429) - [An unknown Swedish startup’s €3B bid to build a green rival to AWS](https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news)
 * [2023-06-09, 21:14:43](https://news.ycombinator.com/item?id=36264253) - [Beyond Liquid Crystal: DARPA Seeks Novel Tunable Optical Materials](https://www.darpa.mil/news-events/2023-06-07)
 * [2023-06-09, 21:12:46](https://news.ycombinator.com/item?id=36264232) - [Reddit CEO doubles down on attack on Apollo developer in drama-filled AMA](https://techcrunch.com/2023/06/09/reddit-ceo-doubles-down-on-attack-on-apollo-developer-in-drama-filled-ama/)
