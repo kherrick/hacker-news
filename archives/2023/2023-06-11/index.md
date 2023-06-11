@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 13:46:46](https://news.ycombinator.com/item?id=36281321) - [Hate Baggage Fees? Wear a Fishing Vest on the Plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
 * [2023-06-11, 13:33:24](https://news.ycombinator.com/item?id=36281208) - [Europe: Is compulsory military service coming back?](https://www.dw.com/en/europe-is-compulsory-military-service-coming-back/a-65880469)
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 12:07:36](https://news.ycombinator.com/item?id=36280603) - [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 13:46:46](https://news.ycombinator.com/item?id=36281321) - [Hate Baggage Fees? Wear a Fishing Vest on the Plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
 * [2023-06-11, 13:33:24](https://news.ycombinator.com/item?id=36281208) - [Europe: Is compulsory military service coming back?](https://www.dw.com/en/europe-is-compulsory-military-service-coming-back/a-65880469)
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 12:07:36](https://news.ycombinator.com/item?id=36280603) - [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
@@ -16,7 +17,6 @@
 * [2023-06-11, 03:25:56](https://news.ycombinator.com/item?id=36277696) - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
 * [2023-06-11, 00:29:05](https://news.ycombinator.com/item?id=36276791) - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
-* [2023-06-10, 22:41:03](https://news.ycombinator.com/item?id=36275974) - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 * [2023-06-10, 20:18:00](https://news.ycombinator.com/item?id=36274644) - [Buying an entire Egghead Software store (2005)](https://devblogs.microsoft.com/oldnewthing/20050824-11/?p=34463)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
