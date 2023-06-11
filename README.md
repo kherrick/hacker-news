@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-11, 16:40:17](https://news.ycombinator.com/item?id=36282910) - [Tell HN: My Reddit account was suspended b/c I discussed building an alternative](https://news.ycombinator.com/item?id=36282910)
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
 * [2023-06-11, 15:29:44](https://news.ycombinator.com/item?id=36282294) - [Add $4 WiFi Logging to IKEA’s $12 Air Quality Sensor (Wemos and Vindriktning)](https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:51:31](https://news.ycombinator.com/item?id=36281945) - [A Tradecraft Primer (2009)](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [The Dutch government wants automatic permission to target victims of hackers](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
+* [2023-06-11, 13:01:39](https://news.ycombinator.com/item?id=36280980) - [A peek into Japan's convenience stores (Part 2)](https://one-from-nippon.ghost.io/combini-part-2/)
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
 * [2023-06-11, 11:35:40](https://news.ycombinator.com/item?id=36280393) - [A trip to the internet in 1996 with The Rough Guide 2.0](https://www.planetjones.net/blog/10-06-2023/a-trip-to-the-internet-in-1996-with-the-rough-guide-2.0.html)
 * [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [This is valid Python syntax](https://www.bitecode.dev/p/this-is-valid-python-syntax)
