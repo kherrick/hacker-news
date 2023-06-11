@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
 * [2023-06-11, 15:17:25](https://news.ycombinator.com/item?id=36282180) - [Panama Canal in face of ‘unprecedented drought’](https://www.seatrade-maritime.com/panama/panama-canal-takes-water-saving-measures-face-unprecedented-drought)
+* [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [The compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:51:31](https://news.ycombinator.com/item?id=36281945) - [A Tradecraft Primer – CIA](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [Dutch government wants automatically gain permission to target victims of hacks](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
 * [2023-06-11, 13:46:46](https://news.ycombinator.com/item?id=36281321) - [Hate Baggage Fees? Wear a Fishing Vest on the Plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
@@ -16,6 +17,7 @@
 * [2023-06-11, 11:10:14](https://news.ycombinator.com/item?id=36280214) - [Valid Python syntax – by Nobody has time for Python](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:39:20](https://news.ycombinator.com/item?id=36280055) - [Powers of a 2×2 matrix in closed form](https://www.johndcook.com/blog/2023/06/03/matrix-powers/)
+* [2023-06-11, 10:35:30](https://news.ycombinator.com/item?id=36280028) - [Show HN: OpenObserve – Elasticsearch/Datadog alternative](https://github.com/openobserve/openobserve)
 * [2023-06-11, 10:35:19](https://news.ycombinator.com/item?id=36280026) - [How to Cite ChatGPT](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
 * [2023-06-11, 10:17:05](https://news.ycombinator.com/item?id=36279927) - [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
 * [2023-06-11, 10:17:02](https://news.ycombinator.com/item?id=36279925) - [Electric cars are better for the environment, no matter the power source](https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/)
