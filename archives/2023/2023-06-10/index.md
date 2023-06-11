@@ -66,6 +66,7 @@
 * [2023-06-10, 02:47:36](https://news.ycombinator.com/item?id=36267087) - [Microsoft Edge removes ability to delete Sync Data from Cloud](https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html)
 * [2023-06-10, 02:47:04](https://news.ycombinator.com/item?id=36267083) - [A comment about Christian Queinnec's book Lisp in Small Pieces (1996)](https://pages.lip6.fr/Christian.Queinnec/WWW/newsAboutLiSP.html)
 * [2023-06-10, 02:37:36](https://news.ycombinator.com/item?id=36267035) - [Scientists Now Know Why Psychedelics Conquer Depression Even Without a High](https://singularityhub.com/2023/06/06/psychedelic-inspired-drugs-could-beat-depression-without-the-trip/)
+* [2023-06-10, 02:18:16](https://news.ycombinator.com/item?id=36266895) - [Five Farming Technologies Tackle Climate-Change Threats](https://www.wsj.com/articles/climate-change-will-upend-agriculture-here-are-five-technologies-that-could-help-b854770f)
 * [2023-06-10, 01:47:36](https://news.ycombinator.com/item?id=36266734) - [Teenage Engineering OP-1: How a Micro Synth Made a Massive Impact in Music Tech](https://www.betterbydesign.cc/p/teenage-engineering-op-1-the-micro)
 * [2023-06-10, 01:45:10](https://news.ycombinator.com/item?id=36266724) - [Messing with the Beepberry](https://www.jeffgeerling.com/blog/2023/messing-beepberry)
 * [2023-06-10, 01:33:51](https://news.ycombinator.com/item?id=36266656) - [International Civil Aviation Organization Public Key Directory](https://www.icao.int:443/Security/FAL/PKD/Pages/default.aspx)
