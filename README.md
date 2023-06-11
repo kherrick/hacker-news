@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:17:02](https://news.ycombinator.com/item?id=36279925) - [Electric cars are better for the environment, no matter the power source](https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/)
-* [2023-06-11, 09:54:07](https://news.ycombinator.com/item?id=36279784) - [Call for Germany to scrap English lessons in primary schools](https://www.dw.com/en/call-for-germany-to-scrap-english-lessons-in-primary-schools/a-65876721)
 * [2023-06-11, 09:22:09](https://news.ycombinator.com/item?id=36279639) - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
+* [2023-06-11, 08:51:55](https://news.ycombinator.com/item?id=36279496) - [Can you trust ChatGPT’s package recommendations?](https://vulcan.io/blog/ai-hallucinations-package-risk)
 * [2023-06-11, 08:28:53](https://news.ycombinator.com/item?id=36279403) - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 * [2023-06-11, 08:22:48](https://news.ycombinator.com/item?id=36279375) - [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
 * [2023-06-11, 08:17:03](https://news.ycombinator.com/item?id=36279341) - [5.5M Spore users have uploaded some 191M creations and counting](http://www.spore.com/rest/stats)
@@ -18,7 +19,6 @@
 * [2023-06-10, 20:18:00](https://news.ycombinator.com/item?id=36274644) - [Buying an entire Egghead Software store (2005)](https://devblogs.microsoft.com/oldnewthing/20050824-11/?p=34463)
 * [2023-06-10, 20:06:32](https://news.ycombinator.com/item?id=36274525) - [Barracuda urges replacing, not patching, its email security gateways](https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/)
 * [2023-06-10, 18:42:00](https://news.ycombinator.com/item?id=36273544) - [A performance analysis of Intel x86-SIMD-sort (AVX-512)](https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md)
-* [2023-06-10, 18:07:23](https://news.ycombinator.com/item?id=36273075) - [OBS merges WebRTC support](https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141)
 * [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
 * [2023-06-10, 03:39:19](https://news.ycombinator.com/item?id=36267362) - [Tiny Awards for Small Websites](https://tinyawards.net/)
 * [2023-06-10, 02:18:16](https://news.ycombinator.com/item?id=36266895) - [Five Farming Technologies Tackle Climate-Change Threats](https://www.wsj.com/articles/climate-change-will-upend-agriculture-here-are-five-technologies-that-could-help-b854770f)
