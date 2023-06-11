@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 17:18:05](https://news.ycombinator.com/item?id=36283317) - [Reddit pays an SF startup millions to analyse all shopping-related Reddit data](https://old.reddit.com/r/BuyItForLife/comments/146lls7/reddit_has_a_partnership_with_a_san_francisco/)
 * [2023-06-11, 17:10:10](https://news.ycombinator.com/item?id=36283249) - [Reddit Strike Has Started](https://reddark.untone.uk/)
 * [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
 * [2023-06-11, 16:55:57](https://news.ycombinator.com/item?id=36283090) - [Guide to Finding Lemmy Communities (Subreddits)](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/)
