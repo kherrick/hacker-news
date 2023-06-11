@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 11:19:52](https://news.ycombinator.com/item?id=36280273) - [Twitter is refusing to pay its Google Cloud bills](https://tech.seposts.com/2023/06/twitter-is-refusing-to-pay-its-google.html)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:17:02](https://news.ycombinator.com/item?id=36279925) - [Electric cars are better for the environment, no matter the power source](https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/)
 * [2023-06-11, 09:22:09](https://news.ycombinator.com/item?id=36279639) - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
@@ -25,7 +26,6 @@
 * [2023-06-09, 23:33:36](https://news.ycombinator.com/item?id=36265786) - [Cheese, Rats, and Giffen Goods](https://timharford.com/2023/06/the-cheese-the-rats-and-why-some-of-us-are-poorer-than-others/)
 * [2023-06-09, 23:30:12](https://news.ycombinator.com/item?id=36265759) - [Modern Life Is Rubbish: Tao Lin’s Taipei (2013)](https://themillions.com/2013/06/modern-life-is-rubbish-tao-lins-taipei.html)
 * [2023-06-09, 22:56:04](https://news.ycombinator.com/item?id=36265429) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
-* [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 21:55:51](https://news.ycombinator.com/item?id=36264717) - [Grocery Mergers? Not So Good](https://waterwrights.net/grocery-mergers-not-so-good-january-16-2023/)
 * [2023-06-09, 11:14:08](https://news.ycombinator.com/item?id=36256133) - [An incomplete history of London’s television studios](https://www.tvstudiohistory.co.uk/)
 * [2023-06-09, 09:49:50](https://news.ycombinator.com/item?id=36255546) - [Why Do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
