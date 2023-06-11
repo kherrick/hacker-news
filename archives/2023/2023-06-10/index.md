@@ -8,6 +8,7 @@
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 22:41:03](https://news.ycombinator.com/item?id=36275974) - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
 * [2023-06-10, 22:40:50](https://news.ycombinator.com/item?id=36275972) - [VP of Bitwarden fired for using ‘Assigned By God’ as pronoun sues employer](https://techstartups.com/2023/06/10/vp-of-cybersecurity-startup-bitwarden-fired-for-using-assigned-by-god-as-preferred-pronoun-sues-employer/)
+* [2023-06-10, 22:38:14](https://news.ycombinator.com/item?id=36275943) - [Total recall: the people who never forget (2017)](https://www.theguardian.com/science/2017/feb/08/total-recall-the-people-who-never-forget)
 * [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:55:25](https://news.ycombinator.com/item?id=36275565) - [Ask HN: Why did major desktop OSes settle on a macOS-like taskbar?](https://news.ycombinator.com/item?id=36275565)
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
