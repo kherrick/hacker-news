@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 17:35:36](https://news.ycombinator.com/item?id=36283501) - [Sama: I feel so bad about advice I gave while running YC I might delete my blog](https://twitter.com/morqon/status/1667717155234758657)
 * [2023-06-11, 17:26:07](https://news.ycombinator.com/item?id=36283395) - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
 * [2023-06-11, 17:21:09](https://news.ycombinator.com/item?id=36283351) - [Show HN: Java REST without annotations, DI nor reactive streams](https://github.com/MartinGeisse/grumpyrest)
 * [2023-06-11, 17:18:05](https://news.ycombinator.com/item?id=36283317) - [Reddit pays an SF startup millions to analyse all shopping-related Reddit data](https://old.reddit.com/r/BuyItForLife/comments/146lls7/reddit_has_a_partnership_with_a_san_francisco/)
