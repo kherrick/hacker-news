@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-11, 17:10:10](https://news.ycombinator.com/item?id=36283249) - [Reddit Strike Has Started](https://reddark.untone.uk/)
 * [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
 * [2023-06-11, 16:55:57](https://news.ycombinator.com/item?id=36283090) - [Guide to Finding Lemmy Communities (Subreddits)](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/)
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s nearly 40-year, 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
@@ -25,7 +26,6 @@
 * [2023-06-11, 03:25:56](https://news.ycombinator.com/item?id=36277696) - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
 * [2023-06-10, 22:38:14](https://news.ycombinator.com/item?id=36275943) - [Total recall: the people who never forget (2017)](https://www.theguardian.com/science/2017/feb/08/total-recall-the-people-who-never-forget)
 * [2023-06-10, 20:18:05](https://news.ycombinator.com/item?id=36274647) - [WebObjects Overview (2001) [pdf]](https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf)
-* [2023-06-10, 20:18:00](https://news.ycombinator.com/item?id=36274644) - [Buying an entire Egghead Software store (2005)](https://devblogs.microsoft.com/oldnewthing/20050824-11/?p=34463)
 * [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
 * [2023-06-10, 03:39:19](https://news.ycombinator.com/item?id=36267362) - [Tiny Awards for Small Websites](https://tinyawards.net/)
 * [2023-06-09, 14:01:32](https://news.ycombinator.com/item?id=36257935) - [I created Clippy [video]](https://www.youtube.com/watch?v=3kcQzCzSDvc)

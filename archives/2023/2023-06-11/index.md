@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 17:10:10](https://news.ycombinator.com/item?id=36283249) - [Reddit Strike Has Started](https://reddark.untone.uk/)
 * [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
 * [2023-06-11, 16:55:57](https://news.ycombinator.com/item?id=36283090) - [Guide to Finding Lemmy Communities (Subreddits)](https://tech.michaelaltfield.net/2023/06/11/lemmy-migration-find-subreddits-communities/)
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s nearly 40-year, 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
