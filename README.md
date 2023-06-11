@@ -2,6 +2,7 @@
 
 * [2023-06-11, 03:48:10](https://news.ycombinator.com/item?id=36277814) - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
 * [2023-06-11, 03:44:07](https://news.ycombinator.com/item?id=36277789) - [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
+* [2023-06-11, 03:27:52](https://news.ycombinator.com/item?id=36277706) - [Searchable and sortable H1B salary database](https://jobsort.com/h1b)
 * [2023-06-11, 03:25:56](https://news.ycombinator.com/item?id=36277696) - [The curious death of Oppenheimer’s mistress (2015)](https://blog.nuclearsecrecy.com/2015/12/11/the-curious-death-of-oppenheimers-mistress/)
 * [2023-06-11, 03:23:00](https://news.ycombinator.com/item?id=36277684) - [ICDStories: Unraveling Medical Mysteries Through the Lens of ICD-10 Codes](https://icdstories.substack.com/)
 * [2023-06-11, 00:29:05](https://news.ycombinator.com/item?id=36276791) - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
@@ -23,7 +24,6 @@
 * [2023-06-09, 21:57:03](https://news.ycombinator.com/item?id=36264744) - [The computer graphics industry got started at the university of Utah](https://spectrum.ieee.org/history-of-computer-graphics-industry)
 * [2023-06-09, 21:55:51](https://news.ycombinator.com/item?id=36264717) - [Grocery Mergers? Not So Good](https://waterwrights.net/grocery-mergers-not-so-good-january-16-2023/)
 * [2023-06-09, 17:19:12](https://news.ycombinator.com/item?id=36260961) - [Show HN: Bloop – Answer questions about your code with an LLM agent](https://github.com/BloopAI/bloop)
-* [2023-06-09, 12:36:18](https://news.ycombinator.com/item?id=36256931) - [Play (1) Linux manual page](https://linux.die.net/man/1/play)
 * [2023-06-09, 11:14:08](https://news.ycombinator.com/item?id=36256133) - [An incomplete history of London’s television studios](https://www.tvstudiohistory.co.uk/)
 * [2023-06-09, 09:49:50](https://news.ycombinator.com/item?id=36255546) - [Why Do ML on the Erlang VM?](https://underjord.io/why-ml-on-erlang.html)
 * [2023-06-09, 08:06:22](https://news.ycombinator.com/item?id=36254776) - [What is Technicolor? (2021)](https://www.studiobinder.com/blog/what-is-technicolor-definition/)
