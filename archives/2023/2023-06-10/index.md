@@ -38,6 +38,7 @@
 * [2023-06-10, 14:57:52](https://news.ycombinator.com/item?id=36271061) - [Debunking the Myth of Dollar Cost Averaging](https://www.alexmolas.com/blog/dca-is-suboptimal/)
 * [2023-06-10, 14:41:30](https://news.ycombinator.com/item?id=36270884) - [Wind-to-Hydrogen Production Reaches Deep Water](https://spectrum.ieee.org/green-hydrogen-offshore-wind)
 * [2023-06-10, 14:37:44](https://news.ycombinator.com/item?id=36270851) - [Golang’s best-kept secret: ‘executable examples’](https://bitfieldconsulting.com/golang/examples)
+* [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
 * [2023-06-10, 14:15:20](https://news.ycombinator.com/item?id=36270647) - [UK hobbyist stuns math world with 'amazing' new shapes](https://phys.org/news/2023-06-uk-hobbyist-stuns-math-world.html)
 * [2023-06-10, 14:09:17](https://news.ycombinator.com/item?id=36270597) - [New York City will charge drivers going downtown. Other cities may be next](https://www.cnn.com/2023/06/10/business/congestion-pricing-new-york-city-transportation/index.html)
 * [2023-06-10, 14:06:38](https://news.ycombinator.com/item?id=36270565) - [The Embeddable Common Lisp [pdf]](https://ecl.common-lisp.dev/static/files/papers/ecl-1995-attardi.pdf)
