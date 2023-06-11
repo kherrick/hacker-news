@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 09:22:09](https://news.ycombinator.com/item?id=36279639) - [Before he was the Unabomber, Ted Kaczynski was a mind-control test subject](https://www.washingtonpost.com/history/2023/06/11/unabomber-ted-kaczynski-harvard-experiment/)
 * [2023-06-11, 08:56:02](https://news.ycombinator.com/item?id=36279509) - [Ask HN: As a developer, do you consider the carbon footprint of your apps?](https://news.ycombinator.com/item?id=36279509)
 * [2023-06-11, 08:28:53](https://news.ycombinator.com/item?id=36279403) - [The Asymmetry of Open Source](https://matt.life/writing/the-asymmetry-of-open-source)
 * [2023-06-11, 08:22:48](https://news.ycombinator.com/item?id=36279375) - [CIA 2010 covert communication websites](https://cirosantilli.com/cia-2010-covert-communication-websites)
