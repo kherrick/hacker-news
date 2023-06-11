@@ -96,6 +96,7 @@
 * [2023-06-09, 06:02:24](https://news.ycombinator.com/item?id=36253882) - [List one task, do it, cross it out](https://www.oliverburkeman.com/onething)
 * [2023-06-09, 05:45:46](https://news.ycombinator.com/item?id=36253769) - [Free-types: Higher kinded types in TypeScript](https://github.com/geoffreytools/free-types)
 * [2023-06-09, 05:40:30](https://news.ycombinator.com/item?id=36253726) - [All this unmobilized love](https://erinkissane.com/all-this-unmobilized-love)
+* [2023-06-09, 05:38:58](https://news.ycombinator.com/item?id=36253717) - [Water Resilience Portfolio Review](https://onthepublicrecord.org/2020/01/04/water-resilience-portfolio-review/)
 * [2023-06-09, 05:22:29](https://news.ycombinator.com/item?id=36253591) - [Flipper Zero Self Destructs an Electricity Smart Meter](https://www.rtl-sdr.com/flipper-zero-self-destructs-an-electricity-smart-meter/)
 * [2023-06-09, 05:19:34](https://news.ycombinator.com/item?id=36253565) - [Ask HN: Advice on Starting a YouTube Channel?](https://news.ycombinator.com/item?id=36253565)
 * [2023-06-09, 05:11:28](https://news.ycombinator.com/item?id=36253499) - [Big Leap for Hard Drive Capacities: 32 TB HAMR Drives Due Soon, 40TB on Horizon](https://www.anandtech.com/show/18901/big-leap-for-hdds-32-tb-hamr-drive-is-coming-40tb-on-horizon)
