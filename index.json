@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-06-11, 11:19:52",
-      "https://news.ycombinator.com/item?id=36280273"
+      "2023-06-11, 12:07:36",
+      "https://news.ycombinator.com/item?id=36280603"
     ],
     [
-      "Twitter is refusing to pay its Google Cloud bills",
-      "https://tech.seposts.com/2023/06/twitter-is-refusing-to-pay-its-google.html"
+      "The AI Hype Wall of Shame",
+      "https://criticalai.org/the-ai-hype-wall-of-shame/"
     ]
   ],
   [
@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=36280091"
     ],
     [
-      "Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?",
+      "Why aren't black boxes better?",
       "https://www.afar.com/magazine/how-black-boxes-changed-air-travel"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 10:17:02",
-      "https://news.ycombinator.com/item?id=36279925"
-    ],
-    [
-      "Electric cars are better for the environment, no matter the power source",
-      "https://www.popsci.com/technology/are-electric-cars-better-for-the-environment/"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "5.5M Spore users have uploaded some 191M creations and counting",
       "http://www.spore.com/rest/stats"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 08:13:20",
+      "https://news.ycombinator.com/item?id=36279323"
+    ],
+    [
+      "Growing from Engineer to Manager",
+      "https://newsletter.eng-leadership.com/p/growing-from-engineer-to-manager"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-06-10, 18:42:00",
-      "https://news.ycombinator.com/item?id=36273544"
-    ],
-    [
-      "A performance analysis of Intel x86-SIMD-sort (AVX-512)",
-      "https://github.com/Voultapher/sort-research-rs/blob/main/writeup/intel_avx512/text.md"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 14:32:54",
       "https://news.ycombinator.com/item?id=36270802"
     ],
@@ -247,6 +237,16 @@
     [
       "Merklizing the key/value store for fun and profit",
       "https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 21:57:03",
+      "https://news.ycombinator.com/item?id=36264744"
+    ],
+    [
+      "The computer graphics industry got started at the university of Utah",
+      "https://spectrum.ieee.org/history-of-computer-graphics-industry"
     ]
   ],
   [
