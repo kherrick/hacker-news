@@ -78,6 +78,7 @@
 * [2023-06-09, 12:00:47](https://news.ycombinator.com/item?id=36256517) - [Buy Well, Buy Once](https://fellow.ventures/buy-well-buy-once/)
 * [2023-06-09, 11:38:15](https://news.ycombinator.com/item?id=36256325) - [Do open source licences cover the Ship of Theseus?](https://shkspr.mobi/blog/2023/06/do-open-source-licences-cover-the-ship-of-theseus/)
 * [2023-06-09, 11:19:58](https://news.ycombinator.com/item?id=36256167) - [Apollo Back end just made public](https://old.reddit.com/r/apolloapp/comments/144l6se/apollo_backend_just_made_public_the_goal_of/)
+* [2023-06-09, 11:14:08](https://news.ycombinator.com/item?id=36256133) - [An incomplete history of London’s television studios](https://www.tvstudiohistory.co.uk/)
 * [2023-06-09, 10:55:53](https://news.ycombinator.com/item?id=36255989) - [All About Skimmers](https://krebsonsecurity.com/all-about-skimmers/)
 * [2023-06-09, 10:43:50](https://news.ycombinator.com/item?id=36255910) - [Ask HN: I want to create a personal health dashboard, what should I use?](https://news.ycombinator.com/item?id=36255910)
 * [2023-06-09, 10:29:35](https://news.ycombinator.com/item?id=36255798) - [Laugh Along with GNU – GNU Humor](https://www.gnu.org/fun/humor.html)
