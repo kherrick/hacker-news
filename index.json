@@ -1,22 +1,32 @@
 [
   [
     [
+      "2023-06-11, 02:45:41",
+      "https://news.ycombinator.com/item?id=36277482"
+    ],
+    [
+      "How much money can you get with the Inflation Reduction Act?",
+      "https://www.rewiringamerica.org/app/ira-calculator"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 00:29:05",
+      "https://news.ycombinator.com/item?id=36276791"
+    ],
+    [
+      "Fluent – A localization system for natural-sounding translations",
+      "https://projectfluent.org/"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 00:16:01",
       "https://news.ycombinator.com/item?id=36276710"
     ],
     [
       "How to password protect a static HTML page with no JavaScript",
       "https://shkspr.mobi/blog/2023/02/how-to-password-protect-a-static-html-page-with-no-js/"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 23:21:14",
-      "https://news.ycombinator.com/item?id=36276335"
-    ],
-    [
-      "At what point should MO recognise it needs to leave Stack Exchange Inc?",
-      "https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc"
     ]
   ],
   [
@@ -107,26 +117,6 @@
     [
       "OBS merges WebRTC support",
       "https://github.com/obsproject/obs-studio/commit/851a8c216e14617fb523951839f3bdb240e85141"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 17:57:28",
-      "https://news.ycombinator.com/item?id=36272935"
-    ],
-    [
-      "The case for the decentralization of online forums",
-      "https://viksit.com/blog/case-for-decentralization-online-forums"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 17:42:28",
-      "https://news.ycombinator.com/item?id=36272747"
-    ],
-    [
-      "GCP automatically lowered our quota, caused an incident, and refused to upgrade",
-      "https://twitter.com/JustJake/status/1667478906591666176"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Show HN: Bloop – Answer questions about your code with an LLM agent",
       "https://github.com/BloopAI/bloop"
+    ]
+  ],
+  [
+    [
+      "2023-06-09, 12:36:18",
+      "https://news.ycombinator.com/item?id=36256931"
+    ],
+    [
+      "Play (1) Linux manual page",
+      "https://linux.die.net/man/1/play"
     ]
   ],
   [
