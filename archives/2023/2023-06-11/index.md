@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 21:12:29](https://news.ycombinator.com/item?id=36285736) - [Ask HN: How to Find an Accountant / CPA?](https://news.ycombinator.com/item?id=36285736)
+* [2023-06-11, 21:02:56](https://news.ycombinator.com/item?id=36285640) - [Apple Execs on Facebook (2011)](https://www.techemails.com/p/apple-execs-on-facebook)
 * [2023-06-11, 20:41:35](https://news.ycombinator.com/item?id=36285440) - [Reddit founders made hundreds of fake profiles so site looked popular (2012)](https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/)
 * [2023-06-11, 20:38:19](https://news.ycombinator.com/item?id=36285406) - [20 Books on Starting a Profitable SaaS Business](https://stratoflow.com/best-books-on-starting-a-profitable-saas/)
 * [2023-06-11, 20:08:25](https://news.ycombinator.com/item?id=36285086) - [Algeria cuts internet nationwide during the baccalaureat exams](https://www.tsa-algerie.com/linternet-fortement-perturbee-durant-le-1er-jour-du-bac-en-algerie/)
