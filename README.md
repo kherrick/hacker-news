@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
-* [2023-06-11, 15:45:02](https://news.ycombinator.com/item?id=36282456) - [ChatGPT Changed How I Write Software](https://www.readysetcloud.io/blog/allen.helton/chatgpt-changed-how-i-write-software/)
 * [2023-06-11, 15:44:00](https://news.ycombinator.com/item?id=36282445) - [If We’re Not Careful, the AI Revolution Could Become the ‘Great Homogenization’](https://www.nasdaq.com/articles/if-were-not-careful-the-ai-revolution-could-become-the-great-homogenization)
 * [2023-06-11, 15:29:44](https://news.ycombinator.com/item?id=36282294) - [Add $4 WiFi Logging to IKEA’s $12 Air Quality Sensor (Wemos and Vindriktning)](https://hackaday.com/2021/07/24/esp8266-adds-wifi-logging-to-ikeas-air-quality-sensor/)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
@@ -26,6 +25,7 @@
 * [2023-06-10, 14:32:54](https://news.ycombinator.com/item?id=36270802) - [The Bay Area German bar that brought down Apple’s famed iPhone security](https://www.sfgate.com/tech/article/bay-area-german-bar-iphone-security-breach-18130468.php)
 * [2023-06-10, 03:39:19](https://news.ycombinator.com/item?id=36267362) - [Tiny Awards for Small Websites](https://tinyawards.net/)
 * [2023-06-10, 02:18:16](https://news.ycombinator.com/item?id=36266895) - [Farming technologies tackle climate-change threats](https://www.wsj.com/articles/climate-change-will-upend-agriculture-here-are-five-technologies-that-could-help-b854770f)
+* [2023-06-09, 23:30:12](https://news.ycombinator.com/item?id=36265759) - [Modern Life Is Rubbish: Tao Lin’s Taipei (2013)](https://themillions.com/2013/06/modern-life-is-rubbish-tao-lins-taipei.html)
 * [2023-06-09, 22:56:04](https://news.ycombinator.com/item?id=36265429) - [Merklizing the key/value store for fun and profit](https://joelgustafson.com/posts/2023-05-04/merklizing-the-key-value-store-for-fun-and-profit)
 * [2023-06-09, 21:55:51](https://news.ycombinator.com/item?id=36264717) - [Grocery Mergers? Not So Good](https://waterwrights.net/grocery-mergers-not-so-good-january-16-2023/)
 * [2023-06-09, 14:01:32](https://news.ycombinator.com/item?id=36257935) - [I created Clippy [video]](https://www.youtube.com/watch?v=3kcQzCzSDvc)
