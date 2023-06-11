@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-11, 03:48:10](https://news.ycombinator.com/item?id=36277814) - [Thousands of subreddits pledge to go dark after the Reddit CEO’s recent remarks](https://www.theverge.com/2023/6/10/23756476/reddit-protest-api-changes-apollo-third-party-apps)
+* [2023-06-11, 03:44:07](https://news.ycombinator.com/item?id=36277789) - [SlimPajama: A 627B token cleaned and deduplicated version of RedPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama)
 * [2023-06-11, 03:23:00](https://news.ycombinator.com/item?id=36277684) - [ICDStories: Unraveling Medical Mysteries Through the Lens of ICD-10 Codes](https://icdstories.substack.com/)
 * [2023-06-11, 00:29:05](https://news.ycombinator.com/item?id=36276791) - [Fluent – A localization system for natural-sounding translations](https://projectfluent.org/)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 22:41:03](https://news.ycombinator.com/item?id=36275974) - [Turn dumb tweets into cuneiform tablets](https://dumbcuneiform.com/)
-* [2023-06-10, 22:21:35](https://news.ycombinator.com/item?id=36275795) - [Arrested for using Linux and encryption in France [video]](https://www.youtube.com/watch?v=cyFL7KJGcC0)
 * [2023-06-10, 21:34:47](https://news.ycombinator.com/item?id=36275377) - [Peanut Butter Jellyfin Time](https://gebir.ge/blog/peanut-butter-jellyfin-time/)
 * [2023-06-10, 20:34:41](https://news.ycombinator.com/item?id=36274813) - [Gren – an Elm fork](https://gren-lang.org/)
 * [2023-06-10, 20:26:17](https://news.ycombinator.com/item?id=36274739) - [A boat with refugees vanished – a phone call untangled the mystery](https://apnews.com/article/rohingya-investigation-missing-boat-refugees-bangladesh-myanmar-migration-1b94b4472a42b26eb066bef47b7bcf7e)
