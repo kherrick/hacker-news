@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-11](index.md)
 
+* [2023-06-11, 12:07:36](https://news.ycombinator.com/item?id=36280603) - [The AI Hype Wall of Shame](https://criticalai.org/the-ai-hype-wall-of-shame/)
 * [2023-06-11, 11:19:52](https://news.ycombinator.com/item?id=36280273) - [Twitter is refusing to pay its Google Cloud bills](https://tech.seposts.com/2023/06/twitter-is-refusing-to-pay-its-google.html)
 * [2023-06-11, 10:45:11](https://news.ycombinator.com/item?id=36280091) - [Black Boxes Are Key to Solving Plane Crashes–Why Aren't They Better?](https://www.afar.com/magazine/how-black-boxes-changed-air-travel)
 * [2023-06-11, 10:17:05](https://news.ycombinator.com/item?id=36279927) - [Secure your startup’s future by watching the big corporations](https://techcrunch.com/2023/06/10/secure-your-startups-future-by-watching-the-big-corporations/)
