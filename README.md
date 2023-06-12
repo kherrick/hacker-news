@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:28:51](https://news.ycombinator.com/item?id=36296185) - [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
 * [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
 * [2023-06-12, 15:46:48](https://news.ycombinator.com/item?id=36295460) - [Launch HN: DevCycle (YC W14) – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
@@ -29,7 +30,6 @@
 * [2023-06-12, 01:06:55](https://news.ycombinator.com/item?id=36287392) - [Who needs the Metaverse? Meet the people still living on Second Life](https://www.theguardian.com/technology/2023/jun/10/who-needs-the-metaverse-meet-the-people-still-living-on-second-life)
 * [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
 * [2023-06-11, 13:37:39](https://news.ycombinator.com/item?id=36281245) - [Mojo is a much better “Objective-C without the C” than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
-* [2023-06-11, 13:28:21](https://news.ycombinator.com/item?id=36281178) - [Dev vs. Ops (2017)](https://www.bassi.io/articles/2017/08/10/dev-v-ops/)
 
 ## [Archives](archives/index.md)
 
