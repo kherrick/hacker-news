@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 22:12:39](https://news.ycombinator.com/item?id=36302002) - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
 * [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
 * [2023-06-12, 20:46:17](https://news.ycombinator.com/item?id=36300822) - [Billionaire Jeff Bezos Just Bought One Share of Amazon and No One Knows Why](https://www.bloomberg.com/news/articles/2023-06-09/billionaire-jeff-bezos-just-bought-one-share-of-amazon-and-no-one-knows-why)

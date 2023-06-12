@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 22:12:39](https://news.ycombinator.com/item?id=36302002) - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
 * [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
-* [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US Is Openly Stockpiling Dirt on All Its Citizens](https://www.wired.com/story/odni-commercially-available-information-report/)
+* [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US government is buying troves of data about Americans](https://www.wired.com/story/odni-commercially-available-information-report/)
 * [2023-06-12, 20:09:07](https://news.ycombinator.com/item?id=36300215) - [Lingering effects of Neanderthal DNA found in modern humans](https://phys.org/news/2023-06-lingering-effects-neanderthal-dna-modern.html)
 * [2023-06-12, 20:08:42](https://news.ycombinator.com/item?id=36300209) - [A profit-price spiral in Germany](https://think.ing.com/articles/never-waste-a-good-crisis-a-profit-price-spiral-germany/)
 * [2023-06-12, 19:50:09](https://news.ycombinator.com/item?id=36299904) - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
@@ -25,7 +26,6 @@
 * [2023-06-12, 13:24:38](https://news.ycombinator.com/item?id=36293026) - [Block Adware and Malware with /etc/hosts](https://github.com/StevenBlack/hosts)
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
 * [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening (2022)](https://privsec.dev/posts/linux/desktop-linux-hardening/)
-* [2023-06-12, 07:36:57](https://news.ycombinator.com/item?id=36289729) - [How is Apache APISIX Fast?](https://api7.ai/blog/how-is-apisix-fast)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
