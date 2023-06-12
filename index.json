@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-12, 13:13:13",
-      "https://news.ycombinator.com/item?id=36292877"
-    ],
-    [
-      "Reddit Blackout Tracker",
-      "http://blackout.photon-reddit.com/"
-    ]
-  ],
-  [
-    [
       "2023-06-12, 13:08:41",
       "https://news.ycombinator.com/item?id=36292831"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2023-06-12, 11:59:22",
+      "https://news.ycombinator.com/item?id=36292078"
+    ],
+    [
+      "The “smolnet”, build for friends and friends of friends",
+      "https://communitywiki.org/wiki/SmolNet"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 10:23:35",
       "https://news.ycombinator.com/item?id=36291169"
     ],
@@ -67,16 +67,6 @@
     [
       "Debian GNU/Hurd 2023 released",
       "https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 05:44:15",
-      "https://news.ycombinator.com/item?id=36288886"
-    ],
-    [
-      "Fark redesign is now live (2007)",
-      "https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2023-06-11, 17:26:07",
+      "https://news.ycombinator.com/item?id=36283395"
+    ],
+    [
+      "JPEG XL against AVIF tested on ImageEngine",
+      "https://mastodon.online/@jonarnes/110514451857948151"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 17:12:16",
       "https://news.ycombinator.com/item?id=36283262"
     ],
@@ -207,6 +207,16 @@
     [
       "Juggling Lab GIF Server",
       "http://jugglinglab.org/anim?915"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 14:10:36",
+      "https://news.ycombinator.com/item?id=36281543"
+    ],
+    [
+      "The Dutch government wants automatic permission to target victims of hackers",
+      "https://berthub.eu/articles/posts/dutch-intel-law-about-intel/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Hacking the PHR-803T (2014)",
       "http://www.diyouware.com/node/161"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 08:12:48",
-      "https://news.ycombinator.com/item?id=36268671"
-    ],
-    [
-      "From Stacks to Trees: A new aliasing model for Rust",
-      "https://www.ralfj.de/blog/2023/06/02/tree-borrows.html"
     ]
   ],
   [
