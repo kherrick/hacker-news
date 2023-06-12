@@ -2,7 +2,6 @@
 
 * [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-06-12, 16:28:51](https://news.ycombinator.com/item?id=36296185) - [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
-* [2023-06-12, 16:16:52](https://news.ycombinator.com/item?id=36295958) - [7245/7806 subreddits are currently dark](https://reddark.nextflow.cloud/)
 * [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
 * [2023-06-12, 15:46:48](https://news.ycombinator.com/item?id=36295460) - [Launch HN: DevCycle (YC W14) – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
 * [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
@@ -24,6 +23,7 @@
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:07:22](https://news.ycombinator.com/item?id=36290467) - [Douglas Crockford on JavaScript](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
+* [2023-06-12, 05:35:36](https://news.ycombinator.com/item?id=36288834) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
 * [2023-06-12, 03:59:15](https://news.ycombinator.com/item?id=36288294) - [Video to video with Stable Diffusion](https://stable-diffusion-art.com/video-to-video/)
 * [2023-06-12, 02:30:22](https://news.ycombinator.com/item?id=36287809) - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 * [2023-06-12, 01:06:55](https://news.ycombinator.com/item?id=36287392) - [Who needs the Metaverse? Meet the people still living on Second Life](https://www.theguardian.com/technology/2023/jun/10/who-needs-the-metaverse-meet-the-people-still-living-on-second-life)
