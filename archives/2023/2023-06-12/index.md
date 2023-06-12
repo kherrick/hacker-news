@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 10:07:41](https://news.ycombinator.com/item?id=36291012) - [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 09:55:13](https://news.ycombinator.com/item?id=36290875) - [Find out where you can afford to buy or rent in Great Britain](https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain)
 * [2023-06-12, 09:37:53](https://news.ycombinator.com/item?id=36290721) - [Debian GNU/Hurd 2023 released](https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html)
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
