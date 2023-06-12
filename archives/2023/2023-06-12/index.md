@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
+* [2023-06-12, 09:11:44](https://news.ycombinator.com/item?id=36290494) - [Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture Dies at 86](https://www.nytimes.com/2023/06/12/world/europe/silvio-berlusconi-dead.html)
+* [2023-06-12, 08:58:05](https://news.ycombinator.com/item?id=36290370) - [Amazon's First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
 * [2023-06-12, 08:57:44](https://news.ycombinator.com/item?id=36290364) - [Silvio Berlusconi, Italy’s former prime minister, dies at 86](https://www.aljazeera.com/news/2023/6/12/silvio-berlusconi-italys-former-prime-minister-dies-at-86)
 * [2023-06-12, 06:44:31](https://news.ycombinator.com/item?id=36289290) - [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
 * [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
