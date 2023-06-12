@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-12, 10:07:41](https://news.ycombinator.com/item?id=36291012) - [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
-* [2023-06-12, 09:55:13](https://news.ycombinator.com/item?id=36290875) - [Find out where you can afford to buy or rent in Great Britain](https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain)
 * [2023-06-12, 09:37:53](https://news.ycombinator.com/item?id=36290721) - [Debian GNU/Hurd 2023 released](https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html)
 * [2023-06-12, 08:58:05](https://news.ycombinator.com/item?id=36290370) - [Amazon's First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
 * [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
@@ -17,6 +16,7 @@
 * [2023-06-11, 20:59:44](https://news.ycombinator.com/item?id=36285607) - [Private key redaction: Ur doin it rong (2020)](https://www.hezmatt.org/~mpalmer/blog/2020/05/17/private-key-redaction-ur-doin-it-rong.html)
 * [2023-06-11, 20:33:44](https://news.ycombinator.com/item?id=36285363) - [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
 * [2023-06-11, 20:09:26](https://news.ycombinator.com/item?id=36285097) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
+* [2023-06-11, 20:03:03](https://news.ycombinator.com/item?id=36285049) - [Logistics challenges of saving Air India’s diverted 777 in Russia](https://www.flightradar24.com/blog/air-india-russia-diversion/)
 * [2023-06-11, 17:26:07](https://news.ycombinator.com/item?id=36283395) - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
 * [2023-06-11, 17:10:04](https://news.ycombinator.com/item?id=36283246) - [Overview of C++ language support in Apple Clang](https://developer.apple.com/xcode/cpp/)
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
