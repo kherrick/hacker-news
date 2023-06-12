@@ -20,7 +20,7 @@
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 * [2023-06-11, 16:28:01](https://news.ycombinator.com/item?id=36282798) - [Csexp: S-Expressions over the Network](https://docs.racket-lang.org/csexp/index.html)
 * [2023-06-11, 16:22:10](https://news.ycombinator.com/item?id=36282748) - [Treebomination: Convert a scikit-learn decision tree into a Keras model](https://github.com/Dobiasd/treebomination)
-* [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
+* [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [The Dutch government wants automatic permission to target victims of hackers](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
 * [2023-06-11, 06:24:38](https://news.ycombinator.com/item?id=36278739) - [Temperature-dependent RNA editing in octopus recodes the neural proteome](https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8)
 * [2023-06-11, 01:32:13](https://news.ycombinator.com/item?id=36277067) - [In the Mind of Marie: A Haunting Encounter in the Gardens of Versailles (1913)](https://publicdomainreview.org/collection/an-adventure)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
