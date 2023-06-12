@@ -1,15 +1,17 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
+* [2023-06-12, 15:26:09](https://news.ycombinator.com/item?id=36295136) - [WTF is Happening?: The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
+* [2023-06-12, 15:22:59](https://news.ycombinator.com/item?id=36295093) - [Reddit goes down fully as thousands of subreddits protest API changes](https://9to5mac.com/2023/06/12/reddit-goes-down-fully/)
 * [2023-06-12, 14:59:30](https://news.ycombinator.com/item?id=36294750) - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
 * [2023-06-12, 14:59:24](https://news.ycombinator.com/item?id=36294748) - [Amazon accuses customer of racism and shuts down their smart home](https://www.youtube.com/watch?v=NfiIXooD77s)
 * [2023-06-12, 14:37:59](https://news.ycombinator.com/item?id=36294244) - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
 * [2023-06-12, 14:25:47](https://news.ycombinator.com/item?id=36293986) - [Canada’s Big Flex in Space](https://thewalrus.ca/canadarm/)
 * [2023-06-12, 14:15:21](https://news.ycombinator.com/item?id=36293789) - [Ask HN: Alternatives to Reddit](https://news.ycombinator.com/item?id=36293789)
 * [2023-06-12, 14:13:09](https://news.ycombinator.com/item?id=36293752) - [The power of keeping a coding journal (2014)](http://thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)
-* [2023-06-12, 14:06:42](https://news.ycombinator.com/item?id=36293636) - [SoftBank-backed pizza startup shuts down after raising $445M](https://www.axios.com/2023/06/12/softbank-pizza-robot-shuts-down-zume-445-million)
-* [2023-06-12, 13:55:08](https://news.ycombinator.com/item?id=36293462) - [Cities: Skylines II [video]](https://www.youtube.com/watch?v=MX9YWu5wkGg)
 * [2023-06-12, 13:38:26](https://news.ycombinator.com/item?id=36293225) - [How to buy a social network, with Tumblr CEO Matt Mullenweg](https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk)
+* [2023-06-12, 13:24:38](https://news.ycombinator.com/item?id=36293026) - [Block Adware and Malware with /etc/hosts](https://github.com/StevenBlack/hosts)
 * [2023-06-12, 13:08:41](https://news.ycombinator.com/item?id=36292831) - [Penguin T4 GNU/Linux Laptop](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
 * [2023-06-12, 12:44:09](https://news.ycombinator.com/item?id=36292522) - [US Supreme Court's dog toy ruling puts parody products on notice](https://www.reuters.com/legal/us-supreme-courts-dog-toy-ruling-puts-parody-products-notice-2023-06-12/)
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
@@ -28,8 +30,6 @@
 * [2023-06-11, 13:37:39](https://news.ycombinator.com/item?id=36281245) - [Mojo is a much better “Objective-C without the C” than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-11, 13:28:21](https://news.ycombinator.com/item?id=36281178) - [Dev vs. Ops (2017)](https://www.bassi.io/articles/2017/08/10/dev-v-ops/)
 * [2023-06-11, 06:24:38](https://news.ycombinator.com/item?id=36278739) - [Temperature-dependent RNA editing in octopus recodes the neural proteome](https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8)
-* [2023-06-11, 06:22:02](https://news.ycombinator.com/item?id=36278725) - [The Spy Who Called Me](https://www.nytimes.com/2023/06/10/magazine/spanish-spy-villarejo.html)
-* [2023-06-10, 10:38:11](https://news.ycombinator.com/item?id=36269343) - [UTF-21, a toy character encoding](https://evanhahn.com/utf-21/)
 
 ## [Archives](archives/index.md)
 
