@@ -49,6 +49,7 @@
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [Dutch government wants automatically gain permission to target victims of hacks](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
 * [2023-06-11, 13:46:46](https://news.ycombinator.com/item?id=36281321) - [Hate Baggage Fees? Wear a Fishing Vest on the Plane](https://www.wsj.com/articles/hate-baggage-fees-wear-a-fishing-vest-on-the-plane-70c993bb)
 * [2023-06-11, 13:33:24](https://news.ycombinator.com/item?id=36281208) - [Europe: Is compulsory military service coming back?](https://www.dw.com/en/europe-is-compulsory-military-service-coming-back/a-65880469)
+* [2023-06-11, 13:14:13](https://news.ycombinator.com/item?id=36281074) - [Forget the influencers. Here come the ‘deinfluencers’](https://www.cnn.com/2023/06/11/us/deinfluencing-tiktok-trend-explained-cec/index.html)
 * [2023-06-11, 13:04:34](https://news.ycombinator.com/item?id=36281001) - [HSTS preload adoption and challenges](https://alexsci.com/blog/hsts-adoption/)
 * [2023-06-11, 13:01:39](https://news.ycombinator.com/item?id=36280980) - [A peek into Japan's convenience stores (Part 2)](https://one-from-nippon.ghost.io/combini-part-2/)
 * [2023-06-11, 12:31:34](https://news.ycombinator.com/item?id=36280772) - [Mental Liquidity](https://collabfund.com/blog/mental-liquidity/)
