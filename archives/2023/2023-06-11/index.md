@@ -36,6 +36,7 @@
 * [2023-06-11, 16:55:10](https://news.ycombinator.com/item?id=36283077) - [It’s Not the Chemicals, It’s the Cages](https://dancesafe.org/its-not-the-chemicals-that-cause-addiction-its-the-cages/)
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s nearly 40-year, 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 * [2023-06-11, 16:40:17](https://news.ycombinator.com/item?id=36282910) - [Tell HN: My Reddit account was suspended b/c I discussed building an alternative](https://news.ycombinator.com/item?id=36282910)
+* [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
 * [2023-06-11, 16:28:01](https://news.ycombinator.com/item?id=36282798) - [Csexp: S-Expressions over the Network](https://docs.racket-lang.org/csexp/index.html)
 * [2023-06-11, 16:22:10](https://news.ycombinator.com/item?id=36282748) - [Treebomination: Convert a scikit-learn decision tree into a Keras model](https://github.com/Dobiasd/treebomination)
 * [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
