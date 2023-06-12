@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
 * [2023-06-12, 14:37:59](https://news.ycombinator.com/item?id=36294244) - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
+* [2023-06-12, 14:25:47](https://news.ycombinator.com/item?id=36293986) - [Canada’s Big Flex in Space](https://thewalrus.ca/canadarm/)
 * [2023-06-12, 14:23:35](https://news.ycombinator.com/item?id=36293937) - [The UFO craze was created by government nepotism and incompetent journalism](https://www.theintrinsicperspective.com/p/the-ufo-craze-was-created-by-government)
 * [2023-06-12, 14:21:08](https://news.ycombinator.com/item?id=36293895) - [Time-series forecasting is becoming a lost art](https://twitter.com/marktenenholtz/status/1668245348433948673)
 * [2023-06-12, 14:13:09](https://news.ycombinator.com/item?id=36293752) - [The power of keeping a coding journal (2014)](http://thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)
