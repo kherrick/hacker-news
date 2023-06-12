@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
+* [2023-06-12, 20:46:17](https://news.ycombinator.com/item?id=36300822) - [Billionaire Jeff Bezos Just Bought One Share of Amazon and No One Knows Why](https://www.bloomberg.com/news/articles/2023-06-09/billionaire-jeff-bezos-just-bought-one-share-of-amazon-and-no-one-knows-why)
 * [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US Is Openly Stockpiling Dirt on All Its Citizens](https://www.wired.com/story/odni-commercially-available-information-report/)
-* [2023-06-12, 20:08:42](https://news.ycombinator.com/item?id=36300209) - [Never waste a good crisis – a profit-price spiral in Germany](https://think.ing.com/articles/never-waste-a-good-crisis-a-profit-price-spiral-germany/)
+* [2023-06-12, 20:08:42](https://news.ycombinator.com/item?id=36300209) - [A profit-price spiral in Germany](https://think.ing.com/articles/never-waste-a-good-crisis-a-profit-price-spiral-germany/)
 * [2023-06-12, 19:50:09](https://news.ycombinator.com/item?id=36299904) - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
-* [2023-06-12, 19:37:59](https://news.ycombinator.com/item?id=36299723) - [Reddit crashed because of the growing subreddit blackout](https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark)
 * [2023-06-12, 19:10:10](https://news.ycombinator.com/item?id=36299325) - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
-* [2023-06-12, 18:44:50](https://news.ycombinator.com/item?id=36298891) - [A New Antitrust Doctrine](https://www.platformonomics.com/2023/04/a-new-antitrust-doctrine/)
 * [2023-06-12, 18:32:38](https://news.ycombinator.com/item?id=36298655) - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
 * [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A developer's view of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's sorting algorithm](https://justine.lol/sorting/)
@@ -29,7 +29,7 @@
 * [2023-06-12, 07:36:57](https://news.ycombinator.com/item?id=36289729) - [How is Apache APISIX Fast?](https://api7.ai/blog/how-is-apisix-fast)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
-* [2023-06-12, 04:24:19](https://news.ycombinator.com/item?id=36288433) - [Did This Writer Know Tennessee Williams?](https://www.newyorker.com/magazine/2023/06/12/james-grissom-tennessee-williams-follies-book)
+* [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
 
 ## [Archives](archives/index.md)
 
