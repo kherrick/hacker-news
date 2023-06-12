@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 14:37:59](https://news.ycombinator.com/item?id=36294244) - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
+* [2023-06-12, 14:23:35](https://news.ycombinator.com/item?id=36293937) - [The UFO craze was created by government nepotism and incompetent journalism](https://www.theintrinsicperspective.com/p/the-ufo-craze-was-created-by-government)
 * [2023-06-12, 14:21:08](https://news.ycombinator.com/item?id=36293895) - [Time-series forecasting is becoming a lost art](https://twitter.com/marktenenholtz/status/1668245348433948673)
+* [2023-06-12, 14:13:09](https://news.ycombinator.com/item?id=36293752) - [The power of keeping a coding journal (2014)](http://thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)
+* [2023-06-12, 14:06:42](https://news.ycombinator.com/item?id=36293636) - [SoftBank-backed pizza startup shuts down after raising $445M](https://www.axios.com/2023/06/12/softbank-pizza-robot-shuts-down-zume-445-million)
 * [2023-06-12, 13:55:08](https://news.ycombinator.com/item?id=36293462) - [Cities: Skylines II Official Gameplay Trailer](https://www.youtube.com/watch?v=MX9YWu5wkGg)
+* [2023-06-12, 13:47:23](https://news.ycombinator.com/item?id=36293360) - [The effect of deplatforming hate organizations on their online audience](https://www.pnas.org/doi/10.1073/pnas.2214080120)
 * [2023-06-12, 13:42:30](https://news.ycombinator.com/item?id=36293286) - [The moral hazards of being beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
 * [2023-06-12, 13:39:49](https://news.ycombinator.com/item?id=36293250) - [Apple Vision Pro: The MVP for AR](https://soraven.com/apple-vision-pro-the-mvp-for-ar-42273a11dbe?gi=77bd7aa8cc0a)
 * [2023-06-12, 13:38:26](https://news.ycombinator.com/item?id=36293225) - [How to buy a social network, with Tumblr CEO Matt Mullenweg](https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk)
@@ -29,6 +34,7 @@
 * [2023-06-12, 08:58:05](https://news.ycombinator.com/item?id=36290370) - [Amazon's First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
 * [2023-06-12, 08:57:44](https://news.ycombinator.com/item?id=36290364) - [Silvio Berlusconi, Italy’s former prime minister, dies at 86](https://www.aljazeera.com/news/2023/6/12/silvio-berlusconi-italys-former-prime-minister-dies-at-86)
 * [2023-06-12, 08:49:47](https://news.ycombinator.com/item?id=36290304) - [The Unabomber Was an AI Doomer](https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously)
+* [2023-06-12, 08:06:57](https://news.ycombinator.com/item?id=36289952) - [Expectation vs. Reality: The Hard Hand Dealt Young People in 2023](https://bylinetimes.com/2023/06/09/expectation-vs-reality-the-hard-hand-dealt-young-people-in-2023/)
 * [2023-06-12, 06:44:31](https://news.ycombinator.com/item?id=36289290) - [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
 * [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 * [2023-06-12, 04:05:49](https://news.ycombinator.com/item?id=36288328) - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
