@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
 * [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US Is Openly Stockpiling Dirt on All Its Citizens](https://www.wired.com/story/odni-commercially-available-information-report/)
+* [2023-06-12, 20:08:42](https://news.ycombinator.com/item?id=36300209) - [Never waste a good crisis – a profit-price spiral in Germany](https://think.ing.com/articles/never-waste-a-good-crisis-a-profit-price-spiral-germany/)
 * [2023-06-12, 19:50:09](https://news.ycombinator.com/item?id=36299904) - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
 * [2023-06-12, 19:37:59](https://news.ycombinator.com/item?id=36299723) - [Reddit crashed because of the growing subreddit blackout](https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark)
 * [2023-06-12, 19:10:10](https://news.ycombinator.com/item?id=36299325) - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
