@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-06-12, 09:13:01",
-      "https://news.ycombinator.com/item?id=36290505"
+      "2023-06-12, 09:37:53",
+      "https://news.ycombinator.com/item?id=36290721"
     ],
     [
-      "Why Perl?",
-      "https://two-wrongs.com/why-perl.html"
+      "Debian GNU/Hurd 2023 released",
+      "https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-06-11, 19:34:56",
-      "https://news.ycombinator.com/item?id=36284805"
-    ],
-    [
-      "The Guide to Sleeping in Airports",
-      "https://www.sleepinginairports.net/"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 17:26:07",
       "https://news.ycombinator.com/item?id=36283395"
     ],
@@ -267,6 +257,16 @@
     [
       "Hacking the PHR-803T (2014)",
       "http://www.diyouware.com/node/161"
+    ]
+  ],
+  [
+    [
+      "2023-06-10, 08:12:48",
+      "https://news.ycombinator.com/item?id=36268671"
+    ],
+    [
+      "From Stacks to Trees: A new aliasing model for Rust",
+      "https://www.ralfj.de/blog/2023/06/02/tree-borrows.html"
     ]
   ],
   [
