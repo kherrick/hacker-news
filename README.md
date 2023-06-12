@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
-* [2023-06-12, 18:07:52](https://news.ycombinator.com/item?id=36298193) - [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
 * [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A developer's view of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
@@ -22,14 +21,15 @@
 * [2023-06-12, 13:24:38](https://news.ycombinator.com/item?id=36293026) - [Block Adware and Malware with /etc/hosts](https://github.com/StevenBlack/hosts)
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
 * [2023-06-12, 11:59:22](https://news.ycombinator.com/item?id=36292078) - [The “smolnet”, build for friends and friends of friends](https://communitywiki.org/wiki/SmolNet)
+* [2023-06-12, 10:37:28](https://news.ycombinator.com/item?id=36291304) - [Life Is So Terrible and Beautiful at the Same Time](https://johnpweiss.com/blog/187270/life-is-so-terrible-and-beautiful-at-the-same-time)
 * [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening (2022)](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:07:22](https://news.ycombinator.com/item?id=36290467) - [Douglas Crockford on JavaScript](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
 * [2023-06-12, 05:35:36](https://news.ycombinator.com/item?id=36288834) - [Self-healing code is the future of software development](https://stackoverflow.blog/2023/06/07/self-healing-code-is-the-future-of-software-development/)
 * [2023-06-12, 04:24:19](https://news.ycombinator.com/item?id=36288433) - [Did This Writer Know Tennessee Williams?](https://www.newyorker.com/magazine/2023/06/12/james-grissom-tennessee-williams-follies-book)
-* [2023-06-12, 03:59:15](https://news.ycombinator.com/item?id=36288294) - [Video to video with Stable Diffusion](https://stable-diffusion-art.com/video-to-video/)
 * [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
+* [2023-06-11, 13:37:39](https://news.ycombinator.com/item?id=36281245) - [Mojo is a much better “Objective-C without the C” than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 
 ## [Archives](archives/index.md)
 
