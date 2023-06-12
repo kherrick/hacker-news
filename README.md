@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-12, 18:07:52](https://news.ycombinator.com/item?id=36298193) - [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
-* [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The Continuing Tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
-* [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A Developer's View of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
+* [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
+* [2023-06-12, 18:21:15](https://news.ycombinator.com/item?id=36298441) - [Phison is the largest SSD supplier you’ve never heard of](https://blocksandfiles.com/2023/06/12/phison-largest-ssd-supplier-no-one-knows-about/)
+* [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
+* [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A developer's view of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
 * [2023-06-12, 17:28:39](https://news.ycombinator.com/item?id=36297413) - [21st-century editors should keep their hands off of 20th-century books](https://www.washingtonpost.com/opinions/2023/06/12/books-editing-retouching-free-expression/)
+* [2023-06-12, 17:02:59](https://news.ycombinator.com/item?id=36296882) - [Killing Community](https://www.marginalia.nu/log/82_killing_community)
 * [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:35:04](https://news.ycombinator.com/item?id=36296282) - [Pixelfed Introduces Import from Instagram](https://pixelfed.blog/p/2023/feature/introducing-import-from-instagram)
@@ -20,7 +22,6 @@
 * [2023-06-12, 13:24:38](https://news.ycombinator.com/item?id=36293026) - [Block Adware and Malware with /etc/hosts](https://github.com/StevenBlack/hosts)
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
 * [2023-06-12, 11:59:22](https://news.ycombinator.com/item?id=36292078) - [The “smolnet”, build for friends and friends of friends](https://communitywiki.org/wiki/SmolNet)
-* [2023-06-12, 10:37:28](https://news.ycombinator.com/item?id=36291304) - [Life Is So Terrible and Beautiful at the Same Time](https://johnpweiss.com/blog/187270/life-is-so-terrible-and-beautiful-at-the-same-time)
 * [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening (2022)](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:07:22](https://news.ycombinator.com/item?id=36290467) - [Douglas Crockford on JavaScript](https://digest.browsertech.com/archive/browsertech-digest-9801/)
@@ -29,7 +30,6 @@
 * [2023-06-12, 04:24:19](https://news.ycombinator.com/item?id=36288433) - [Did This Writer Know Tennessee Williams?](https://www.newyorker.com/magazine/2023/06/12/james-grissom-tennessee-williams-follies-book)
 * [2023-06-12, 03:59:15](https://news.ycombinator.com/item?id=36288294) - [Video to video with Stable Diffusion](https://stable-diffusion-art.com/video-to-video/)
 * [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
-* [2023-06-11, 13:37:39](https://news.ycombinator.com/item?id=36281245) - [Mojo is a much better “Objective-C without the C” than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 
 ## [Archives](archives/index.md)
 

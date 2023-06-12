@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
+* [2023-06-12, 18:21:15](https://news.ycombinator.com/item?id=36298441) - [Phison is the largest SSD supplier you’ve never heard of](https://blocksandfiles.com/2023/06/12/phison-largest-ssd-supplier-no-one-knows-about/)
 * [2023-06-12, 18:07:52](https://news.ycombinator.com/item?id=36298193) - [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
 * [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The Continuing Tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A Developer's View of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
 * [2023-06-12, 17:28:39](https://news.ycombinator.com/item?id=36297413) - [21st-century editors should keep their hands off of 20th-century books](https://www.washingtonpost.com/opinions/2023/06/12/books-editing-retouching-free-expression/)
+* [2023-06-12, 17:02:59](https://news.ycombinator.com/item?id=36296882) - [Killing Community](https://www.marginalia.nu/log/82_killing_community)
 * [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:35:04](https://news.ycombinator.com/item?id=36296282) - [Pixelfed Introduces Import from Instagram](https://pixelfed.blog/p/2023/feature/introducing-import-from-instagram)
