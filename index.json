@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-12, 17:00:43",
+      "https://news.ycombinator.com/item?id=36296826"
+    ],
+    [
+      "EasyPost (YC S13) Is Hiring",
+      "https://www.easypost.com/careers"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 16:28:51",
+      "https://news.ycombinator.com/item?id=36296185"
+    ],
+    [
+      "Melange 1.0: Compile OCaml / ReasonML to JavaScript",
+      "https://buttondown.email/anmonteiro/archive/melange-hits-v10/"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 16:16:52",
       "https://news.ycombinator.com/item?id=36295958"
     ],
@@ -17,6 +37,16 @@
     [
       "Going NoPhone",
       "https://libreplanet.org/wiki/Going_NoPhone"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 15:46:48",
+      "https://news.ycombinator.com/item?id=36295460"
+    ],
+    [
+      "Launch HN: DevCycle (YC W14) – a feature flag platform built for developers",
+      "https://news.ycombinator.com/item?id=36295460"
     ]
   ],
   [
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2023-06-12, 14:15:21",
-      "https://news.ycombinator.com/item?id=36293789"
-    ],
-    [
-      "Ask HN: Alternatives to Reddit",
-      "https://news.ycombinator.com/item?id=36293789"
-    ]
-  ],
-  [
-    [
       "2023-06-12, 14:13:09",
       "https://news.ycombinator.com/item?id=36293752"
     ],
     [
       "The power of keeping a coding journal (2014)",
       "http://thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 13:38:26",
-      "https://news.ycombinator.com/item?id=36293225"
-    ],
-    [
-      "How to buy a social network, with Tumblr CEO Matt Mullenweg",
-      "https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Desktop Linux Hardening (2022)",
       "https://privsec.dev/posts/linux/desktop-linux-hardening/"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 09:37:53",
-      "https://news.ycombinator.com/item?id=36290721"
-    ],
-    [
-      "Debian GNU/Hurd 2023",
-      "https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html"
     ]
   ],
   [
