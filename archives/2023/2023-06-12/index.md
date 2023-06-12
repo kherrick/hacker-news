@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A Developer's View of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:28:51](https://news.ycombinator.com/item?id=36296185) - [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
@@ -12,6 +13,7 @@
 * [2023-06-12, 15:46:48](https://news.ycombinator.com/item?id=36295460) - [Launch HN: DevCycle (YC W14) – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
 * [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
+* [2023-06-12, 15:35:59](https://news.ycombinator.com/item?id=36295291) - [An UPS strike could devastate the economy. It could be just 8 weeks away](https://www.cnn.com/2023/06/12/business/teamsters-ups-strike-possibility/index.html)
 * [2023-06-12, 15:31:55](https://news.ycombinator.com/item?id=36295227) - [Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
 * [2023-06-12, 15:26:09](https://news.ycombinator.com/item?id=36295136) - [WTF is Happening?: The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
 * [2023-06-12, 15:22:59](https://news.ycombinator.com/item?id=36295093) - [Reddit goes down fully as thousands of subreddits protest API changes](https://9to5mac.com/2023/06/12/reddit-goes-down-fully/)
