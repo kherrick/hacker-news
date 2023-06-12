@@ -2,6 +2,7 @@
 
 * [2023-06-12, 19:10:10](https://news.ycombinator.com/item?id=36299325) - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
 * [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
+* [2023-06-12, 18:32:38](https://news.ycombinator.com/item?id=36298655) - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
 * [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A developer's view of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
@@ -14,7 +15,6 @@
 * [2023-06-12, 15:46:48](https://news.ycombinator.com/item?id=36295460) - [Launch HN: DevCycle (YC W14) – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
 * [2023-06-12, 15:31:55](https://news.ycombinator.com/item?id=36295227) - [Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
-* [2023-06-12, 15:26:09](https://news.ycombinator.com/item?id=36295136) - [The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
 * [2023-06-12, 14:59:30](https://news.ycombinator.com/item?id=36294750) - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
 * [2023-06-12, 14:37:59](https://news.ycombinator.com/item?id=36294244) - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
 * [2023-06-12, 14:13:09](https://news.ycombinator.com/item?id=36293752) - [The power of keeping a coding journal (2014)](http://thomasburette.com/blog/2014/06/25/the-power-of-keeping-a-coding-journal/)

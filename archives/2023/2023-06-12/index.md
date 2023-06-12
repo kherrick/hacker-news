@@ -6,6 +6,7 @@
 
 * [2023-06-12, 19:10:10](https://news.ycombinator.com/item?id=36299325) - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
 * [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
+* [2023-06-12, 18:32:38](https://news.ycombinator.com/item?id=36298655) - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
 * [2023-06-12, 18:21:15](https://news.ycombinator.com/item?id=36298441) - [Phison is the largest SSD supplier you’ve never heard of](https://blocksandfiles.com/2023/06/12/phison-largest-ssd-supplier-no-one-knows-about/)
 * [2023-06-12, 18:07:52](https://news.ycombinator.com/item?id=36298193) - [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
 * [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The Continuing Tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
