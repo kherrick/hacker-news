@@ -29,7 +29,7 @@
 * [2023-06-12, 07:36:57](https://news.ycombinator.com/item?id=36289729) - [How is Apache APISIX Fast?](https://api7.ai/blog/how-is-apisix-fast)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
-* [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
+* [2023-06-12, 04:59:06](https://news.ycombinator.com/item?id=36288618) - [The Art of Leadership: Lessons from Art Blakey](https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from)
 
 ## [Archives](archives/index.md)
 
