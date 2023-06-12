@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
+* [2023-06-12, 12:32:29](https://news.ycombinator.com/item?id=36292384) - [That's a *huge* amount of energy being transferred to the atmosphere](https://twitter.com/drtels/status/1650562388377174020)
 * [2023-06-12, 11:49:26](https://news.ycombinator.com/item?id=36291977) - [Why millions of usable hard drives are being destroyed](https://www.bbc.com/news/business-65669537)
 * [2023-06-12, 10:36:58](https://news.ycombinator.com/item?id=36291299) - [Show HN: Open-Source vs. OpenAI. 8 Best Open-Source Alternatives to GPT](https://neoteric.eu/blog/open-source-vs-openai-8-best-open-source-alternatives-to-gpt/)
+* [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 * [2023-06-12, 10:07:41](https://news.ycombinator.com/item?id=36291012) - [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 09:55:13](https://news.ycombinator.com/item?id=36290875) - [Find out where you can afford to buy or rent in Great Britain](https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain)
 * [2023-06-12, 09:37:53](https://news.ycombinator.com/item?id=36290721) - [Debian GNU/Hurd 2023 released](https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html)

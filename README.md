@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
+* [2023-06-12, 12:32:29](https://news.ycombinator.com/item?id=36292384) - [That's a *huge* amount of energy being transferred to the atmosphere](https://twitter.com/drtels/status/1650562388377174020)
 * [2023-06-12, 11:49:26](https://news.ycombinator.com/item?id=36291977) - [Why millions of usable hard drives are being destroyed](https://www.bbc.com/news/business-65669537)
+* [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 * [2023-06-12, 09:37:53](https://news.ycombinator.com/item?id=36290721) - [Debian GNU/Hurd 2023 released](https://www.gnu.org/software/hurd/news/2023-06-11-debian_gnu_hurd_2023.html)
 * [2023-06-12, 08:58:05](https://news.ycombinator.com/item?id=36290370) - [Amazon's First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
 * [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Fark redesign is now live (2007)](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
@@ -17,8 +19,6 @@
 * [2023-06-11, 20:09:26](https://news.ycombinator.com/item?id=36285097) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2023-06-11, 17:26:07](https://news.ycombinator.com/item?id=36283395) - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
 * [2023-06-11, 17:10:04](https://news.ycombinator.com/item?id=36283246) - [Overview of C++ language support in Apple Clang](https://developer.apple.com/xcode/cpp/)
-* [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
-* [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 * [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [The Dutch government wants automatic permission to target victims of hackers](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
 * [2023-06-11, 13:37:39](https://news.ycombinator.com/item?id=36281245) - [Mojo is a much better “Objective-C without the C” than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
