@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-12, 02:59:20](https://news.ycombinator.com/item?id=36287963) - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
+* [2023-06-12, 02:30:22](https://news.ycombinator.com/item?id=36287809) - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 * [2023-06-12, 01:16:00](https://news.ycombinator.com/item?id=36287439) - [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
 * [2023-06-12, 01:11:23](https://news.ycombinator.com/item?id=36287411) - [Reddit experiments on users, forcing them to install app or else not use Reddit](https://old.reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
 * [2023-06-11, 22:27:24](https://news.ycombinator.com/item?id=36286370) - [Intel is all-in on backside power delivery](https://spectrum.ieee.org/backside-power-delivery)
@@ -24,7 +25,6 @@
 * [2023-06-11, 07:07:52](https://news.ycombinator.com/item?id=36278970) - [The role of eyebrows in face recognition [pdf]](https://web.mit.edu/sinhalab/Papers/sinha_eyebrows.pdf)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 21:21:26](https://news.ycombinator.com/item?id=36275237) - [Handoff Waste and Taylorism](https://two-wrongs.com/handoff-waste-and-taylorism.html)
-* [2023-06-10, 19:10:11](https://news.ycombinator.com/item?id=36273917) - [The curse of scalable technology](https://lukeplant.me.uk/blog/posts/the-curse-of-scalable-technology/)
 * [2023-06-10, 10:38:11](https://news.ycombinator.com/item?id=36269343) - [UTF-21, a toy character encoding](https://evanhahn.com/utf-21/)
 * [2023-06-10, 08:12:48](https://news.ycombinator.com/item?id=36268671) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-10, 06:57:10](https://news.ycombinator.com/item?id=36268339) - [Domain knowledge or a lack thereof (2013)](https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/)
