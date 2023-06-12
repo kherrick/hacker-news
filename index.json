@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-12, 09:55:13",
+      "https://news.ycombinator.com/item?id=36290875"
+    ],
+    [
+      "Find out where you can afford to buy or rent in Great Britain",
+      "https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 09:13:01",
       "https://news.ycombinator.com/item?id=36290505"
     ],
@@ -17,16 +27,6 @@
     [
       "Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture Dies at 86",
       "https://www.nytimes.com/2023/06/12/world/europe/silvio-berlusconi-dead.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 09:07:22",
-      "https://news.ycombinator.com/item?id=36290467"
-    ],
-    [
-      "Douglas Crockford: “We should stop using JavaScript”",
-      "https://digest.browsertech.com/archive/browsertech-digest-9801/"
     ]
   ],
   [
@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2023-06-11, 19:15:52",
-      "https://news.ycombinator.com/item?id=36284614"
-    ],
-    [
-      "Why are blocks on Bluesky public?",
-      "https://atproto.com/blog/block-implementation"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 17:26:07",
       "https://news.ycombinator.com/item?id=36283395"
     ],
     [
       "JPEG XL against AVIF tested on ImageEngine",
       "https://mastodon.online/@jonarnes/110514451857948151"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 17:10:04",
+      "https://news.ycombinator.com/item?id=36283246"
+    ],
+    [
+      "Overview of C++ language support in Apple Clang",
+      "https://developer.apple.com/xcode/cpp/"
     ]
   ],
   [
