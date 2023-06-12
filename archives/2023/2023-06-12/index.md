@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 13:13:13](https://news.ycombinator.com/item?id=36292877) - [Reddit Blackout Tracker](http://blackout.photon-reddit.com/)
+* [2023-06-12, 13:08:41](https://news.ycombinator.com/item?id=36292831) - [Penguin T4 GNU/Linux Laptop (New Model)](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
+* [2023-06-12, 12:44:09](https://news.ycombinator.com/item?id=36292522) - [US Supreme Court's dog toy ruling puts parody products on notice](https://www.reuters.com/legal/us-supreme-courts-dog-toy-ruling-puts-parody-products-notice-2023-06-12/)
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
 * [2023-06-12, 12:32:29](https://news.ycombinator.com/item?id=36292384) - [That's a *huge* amount of energy being transferred to the atmosphere](https://twitter.com/drtels/status/1650562388377174020)
 * [2023-06-12, 11:49:26](https://news.ycombinator.com/item?id=36291977) - [Why millions of usable hard drives are being destroyed](https://www.bbc.com/news/business-65669537)

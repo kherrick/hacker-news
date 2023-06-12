@@ -29,6 +29,7 @@
 * [2023-06-11, 17:26:07](https://news.ycombinator.com/item?id=36283395) - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
 * [2023-06-11, 17:21:09](https://news.ycombinator.com/item?id=36283351) - [Show HN: Java REST without annotations, DI nor reactive streams](https://github.com/MartinGeisse/grumpyrest)
 * [2023-06-11, 17:18:05](https://news.ycombinator.com/item?id=36283317) - [Reddit pays an SF startup millions to analyse all shopping-related Reddit data](https://old.reddit.com/r/BuyItForLife/comments/146lls7/reddit_has_a_partnership_with_a_san_francisco/)
+* [2023-06-11, 17:12:16](https://news.ycombinator.com/item?id=36283262) - [A. G. Sulzberger on the Battles Within and Against the New York Times](https://www.newyorker.com/culture/the-new-yorker-interview/a-g-sulzberger-on-the-battles-within-and-against-the-new-york-times)
 * [2023-06-11, 17:10:10](https://news.ycombinator.com/item?id=36283249) - [Reddit Strike Has Started](https://reddark.untone.uk/)
 * [2023-06-11, 17:10:04](https://news.ycombinator.com/item?id=36283246) - [Overview of C++ language support in Apple Clang](https://developer.apple.com/xcode/cpp/)
 * [2023-06-11, 17:01:05](https://news.ycombinator.com/item?id=36283140) - [Writesonic (YC S21) Is Hiring a Digital Marketing Manager](https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager)
