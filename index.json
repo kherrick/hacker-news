@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-06-12, 12:34:57",
+      "https://news.ycombinator.com/item?id=36292413"
+    ],
+    [
+      "Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures",
+      "https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 11:49:26",
       "https://news.ycombinator.com/item?id=36291977"
     ],
     [
       "Why millions of usable hard drives are being destroyed",
       "https://www.bbc.com/news/business-65669537"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 10:07:41",
-      "https://news.ycombinator.com/item?id=36291012"
-    ],
-    [
-      "An America-Less Internet",
-      "https://www.nthbrock.com/posts/americaless-internet/"
     ]
   ],
   [
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-06-11, 21:02:56",
-      "https://news.ycombinator.com/item?id=36285640"
-    ],
-    [
-      "Apple Execs on Facebook (2011)",
-      "https://www.techemails.com/p/apple-execs-on-facebook"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 21:02:03",
       "https://news.ycombinator.com/item?id=36285630"
     ],
@@ -181,22 +171,32 @@
   ],
   [
     [
+      "2023-06-11, 17:01:05",
+      "https://news.ycombinator.com/item?id=36283140"
+    ],
+    [
+      "Writesonic (YC S21) Is Hiring a Digital Marketing Manager",
+      "https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 16:48:50",
+      "https://news.ycombinator.com/item?id=36283003"
+    ],
+    [
+      "One man’s 8-bit quest to finish his teenage Commodore 64 RPG",
+      "https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 16:32:49",
       "https://news.ycombinator.com/item?id=36282843"
     ],
     [
       "Juggling Lab GIF Server",
       "http://jugglinglab.org/anim?915"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 16:22:10",
-      "https://news.ycombinator.com/item?id=36282748"
-    ],
-    [
-      "Treebomination: Convert a scikit-learn decision tree into a Keras model",
-      "https://github.com/Dobiasd/treebomination"
     ]
   ],
   [
