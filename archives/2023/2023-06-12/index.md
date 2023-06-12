@@ -6,6 +6,7 @@
 
 * [2023-06-12, 04:05:49](https://news.ycombinator.com/item?id=36288328) - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
 * [2023-06-12, 03:59:15](https://news.ycombinator.com/item?id=36288294) - [Video to Video with Stable Diffusion (Step-by-Step) – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
+* [2023-06-12, 03:34:21](https://news.ycombinator.com/item?id=36288159) - [Livestream of Reddit subreddits going private in protest](https://www.twitch.tv/reddark_247)
 * [2023-06-12, 03:20:52](https://news.ycombinator.com/item?id=36288078) - [The Diversity Myth](https://newcriterion.com/issues/2023/6/the-diversity-myth)
 * [2023-06-12, 02:59:20](https://news.ycombinator.com/item?id=36287963) - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
 * [2023-06-12, 02:30:22](https://news.ycombinator.com/item?id=36287809) - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
