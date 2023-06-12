@@ -16,6 +16,7 @@
 * [2023-06-12, 15:22:59](https://news.ycombinator.com/item?id=36295093) - [Reddit goes down fully as thousands of subreddits protest API changes](https://9to5mac.com/2023/06/12/reddit-goes-down-fully/)
 * [2023-06-12, 14:59:30](https://news.ycombinator.com/item?id=36294750) - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
 * [2023-06-12, 14:59:24](https://news.ycombinator.com/item?id=36294748) - [Amazon accuses customer of racism and shuts down their smart home](https://www.youtube.com/watch?v=NfiIXooD77s)
+* [2023-06-12, 14:43:50](https://news.ycombinator.com/item?id=36294373) - [Ask HN: Dang, what do HN's traffic numbers look like today?](https://news.ycombinator.com/item?id=36294373)
 * [2023-06-12, 14:37:59](https://news.ycombinator.com/item?id=36294244) - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
 * [2023-06-12, 14:25:47](https://news.ycombinator.com/item?id=36293986) - [Canada’s Big Flex in Space](https://thewalrus.ca/canadarm/)
 * [2023-06-12, 14:23:35](https://news.ycombinator.com/item?id=36293937) - [The UFO craze was created by government nepotism and incompetent journalism](https://www.theintrinsicperspective.com/p/the-ufo-craze-was-created-by-government)
