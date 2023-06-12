@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
-* [2023-06-12, 18:21:15](https://news.ycombinator.com/item?id=36298441) - [Phison is the largest SSD supplier you’ve never heard of](https://blocksandfiles.com/2023/06/12/phison-largest-ssd-supplier-no-one-knows-about/)
+* [2023-06-12, 18:07:52](https://news.ycombinator.com/item?id=36298193) - [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
 * [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A developer's view of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
