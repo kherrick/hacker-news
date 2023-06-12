@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 * [2023-06-12, 04:05:49](https://news.ycombinator.com/item?id=36288328) - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
 * [2023-06-12, 03:59:15](https://news.ycombinator.com/item?id=36288294) - [Video to Video with Stable Diffusion (Step-by-Step) – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
 * [2023-06-12, 03:34:21](https://news.ycombinator.com/item?id=36288159) - [Livestream of Reddit subreddits going private in protest](https://www.twitch.tv/reddark_247)
