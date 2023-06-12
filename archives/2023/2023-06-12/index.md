@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 09:55:13](https://news.ycombinator.com/item?id=36290875) - [Find out where you can afford to buy or rent in Great Britain](https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain)
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:11:44](https://news.ycombinator.com/item?id=36290494) - [Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture Dies at 86](https://www.nytimes.com/2023/06/12/world/europe/silvio-berlusconi-dead.html)
 * [2023-06-12, 09:07:22](https://news.ycombinator.com/item?id=36290467) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
