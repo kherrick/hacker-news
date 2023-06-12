@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 14:21:08](https://news.ycombinator.com/item?id=36293895) - [Time-series forecasting is becoming a lost art](https://twitter.com/marktenenholtz/status/1668245348433948673)
 * [2023-06-12, 13:55:08](https://news.ycombinator.com/item?id=36293462) - [Cities: Skylines II Official Gameplay Trailer](https://www.youtube.com/watch?v=MX9YWu5wkGg)
 * [2023-06-12, 13:42:30](https://news.ycombinator.com/item?id=36293286) - [The moral hazards of being beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
 * [2023-06-12, 13:39:49](https://news.ycombinator.com/item?id=36293250) - [Apple Vision Pro: The MVP for AR](https://soraven.com/apple-vision-pro-the-mvp-for-ar-42273a11dbe?gi=77bd7aa8cc0a)

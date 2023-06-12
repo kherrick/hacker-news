@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 14:21:08](https://news.ycombinator.com/item?id=36293895) - [Time-series forecasting is becoming a lost art](https://twitter.com/marktenenholtz/status/1668245348433948673)
 * [2023-06-12, 13:55:08](https://news.ycombinator.com/item?id=36293462) - [Cities: Skylines II [video]](https://www.youtube.com/watch?v=MX9YWu5wkGg)
 * [2023-06-12, 13:42:30](https://news.ycombinator.com/item?id=36293286) - [The moral hazards of being beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
 * [2023-06-12, 13:39:49](https://news.ycombinator.com/item?id=36293250) - [Apple Vision Pro: The MVP for AR](https://soraven.com/apple-vision-pro-the-mvp-for-ar-42273a11dbe?gi=77bd7aa8cc0a)
 * [2023-06-12, 13:38:26](https://news.ycombinator.com/item?id=36293225) - [How to buy a social network, with Tumblr CEO Matt Mullenweg](https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk)
-* [2023-06-12, 13:23:30](https://news.ycombinator.com/item?id=36293006) - [Is liberalism digging its own demographic grave? (2022)](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
 * [2023-06-12, 13:08:41](https://news.ycombinator.com/item?id=36292831) - [Penguin T4 GNU/Linux Laptop](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
 * [2023-06-12, 12:44:09](https://news.ycombinator.com/item?id=36292522) - [US Supreme Court's dog toy ruling puts parody products on notice](https://www.reuters.com/legal/us-supreme-courts-dog-toy-ruling-puts-parody-products-notice-2023-06-12/)
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
