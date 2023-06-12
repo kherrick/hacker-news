@@ -2,7 +2,6 @@
 
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:11:44](https://news.ycombinator.com/item?id=36290494) - [Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture Dies at 86](https://www.nytimes.com/2023/06/12/world/europe/silvio-berlusconi-dead.html)
-* [2023-06-12, 08:58:05](https://news.ycombinator.com/item?id=36290370) - [Amazon's First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
 * [2023-06-12, 08:57:44](https://news.ycombinator.com/item?id=36290364) - [Silvio Berlusconi, Italy’s former prime minister, dies at 86](https://www.aljazeera.com/news/2023/6/12/silvio-berlusconi-italys-former-prime-minister-dies-at-86)
 * [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 * [2023-06-12, 04:05:49](https://news.ycombinator.com/item?id=36288328) - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
@@ -22,6 +21,7 @@
 * [2023-06-11, 19:15:52](https://news.ycombinator.com/item?id=36284614) - [Why are blocks on Bluesky public?](https://atproto.com/blog/block-implementation)
 * [2023-06-11, 17:26:07](https://news.ycombinator.com/item?id=36283395) - [JPEG XL against AVIF tested on ImageEngine](https://mastodon.online/@jonarnes/110514451857948151)
 * [2023-06-11, 16:22:10](https://news.ycombinator.com/item?id=36282748) - [Treebomination: Convert a scikit-learn decision tree into a Keras model](https://github.com/Dobiasd/treebomination)
+* [2023-06-11, 13:37:39](https://news.ycombinator.com/item?id=36281245) - [Mojo is a much better “Objective-C without the C” than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-11, 13:14:13](https://news.ycombinator.com/item?id=36281074) - [Forget the influencers. Here come the ‘deinfluencers’](https://www.cnn.com/2023/06/11/us/deinfluencing-tiktok-trend-explained-cec/index.html)
 * [2023-06-11, 06:24:38](https://news.ycombinator.com/item?id=36278739) - [Temperature-dependent RNA editing in octopus recodes the neural proteome](https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8)
 * [2023-06-11, 01:32:13](https://news.ycombinator.com/item?id=36277067) - [In the Mind of Marie: A Haunting Encounter in the Gardens of Versailles (1913)](https://publicdomainreview.org/collection/an-adventure)
