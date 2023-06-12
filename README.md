@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
 * [2023-06-12, 22:12:39](https://news.ycombinator.com/item?id=36302002) - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
@@ -7,7 +8,6 @@
 * [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US government is buying troves of data about Americans](https://www.wired.com/story/odni-commercially-available-information-report/)
 * [2023-06-12, 20:09:07](https://news.ycombinator.com/item?id=36300215) - [Lingering effects of Neanderthal DNA found in modern humans](https://phys.org/news/2023-06-lingering-effects-neanderthal-dna-modern.html)
 * [2023-06-12, 19:50:09](https://news.ycombinator.com/item?id=36299904) - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
-* [2023-06-12, 19:30:46](https://news.ycombinator.com/item?id=36299629) - [I built and launched 9 startups in 1 year](https://tzvc.me/projects)
 * [2023-06-12, 19:10:10](https://news.ycombinator.com/item?id=36299325) - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
 * [2023-06-12, 18:44:50](https://news.ycombinator.com/item?id=36298891) - [A New Antitrust Doctrine](https://www.platformonomics.com/2023/04/a-new-antitrust-doctrine/)
 * [2023-06-12, 18:32:38](https://news.ycombinator.com/item?id=36298655) - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
