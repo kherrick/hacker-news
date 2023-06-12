@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
 * [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
 * [2023-06-12, 15:26:09](https://news.ycombinator.com/item?id=36295136) - [WTF is Happening?: The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
 * [2023-06-12, 15:22:59](https://news.ycombinator.com/item?id=36295093) - [Reddit goes down fully as thousands of subreddits protest API changes](https://9to5mac.com/2023/06/12/reddit-goes-down-fully/)
 * [2023-06-12, 14:59:30](https://news.ycombinator.com/item?id=36294750) - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
-* [2023-06-12, 14:59:24](https://news.ycombinator.com/item?id=36294748) - [Amazon accuses customer of racism and shuts down their smart home](https://www.youtube.com/watch?v=NfiIXooD77s)
 * [2023-06-12, 14:37:59](https://news.ycombinator.com/item?id=36294244) - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
 * [2023-06-12, 14:25:47](https://news.ycombinator.com/item?id=36293986) - [Canada’s Big Flex in Space](https://thewalrus.ca/canadarm/)
 * [2023-06-12, 14:15:21](https://news.ycombinator.com/item?id=36293789) - [Ask HN: Alternatives to Reddit](https://news.ycombinator.com/item?id=36293789)
@@ -22,6 +22,7 @@
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:07:22](https://news.ycombinator.com/item?id=36290467) - [Douglas Crockford on JavaScript](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-12, 08:06:57](https://news.ycombinator.com/item?id=36289952) - [Expectation vs. Reality: The Hard Hand Dealt Young People in 2023](https://bylinetimes.com/2023/06/09/expectation-vs-reality-the-hard-hand-dealt-young-people-in-2023/)
+* [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
 * [2023-06-12, 03:59:15](https://news.ycombinator.com/item?id=36288294) - [Video to video with Stable Diffusion](https://stable-diffusion-art.com/video-to-video/)
 * [2023-06-12, 02:30:22](https://news.ycombinator.com/item?id=36287809) - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 * [2023-06-12, 01:11:23](https://news.ycombinator.com/item?id=36287411) - [Did Reddit just destroy mobile browser access?](https://reddit.com/r/help/comments/135tly1/helpdid_reddit_just_destroy_mobile_browser_access/)
@@ -29,7 +30,6 @@
 * [2023-06-11, 16:32:49](https://news.ycombinator.com/item?id=36282843) - [Juggling Lab GIF Server](http://jugglinglab.org/anim?915)
 * [2023-06-11, 13:37:39](https://news.ycombinator.com/item?id=36281245) - [Mojo is a much better “Objective-C without the C” than Swift ever was](https://blog.metaobject.com/2023/06/mojo-is-much-better-without-c-than.html)
 * [2023-06-11, 13:28:21](https://news.ycombinator.com/item?id=36281178) - [Dev vs. Ops (2017)](https://www.bassi.io/articles/2017/08/10/dev-v-ops/)
-* [2023-06-11, 06:24:38](https://news.ycombinator.com/item?id=36278739) - [Temperature-dependent RNA editing in octopus recodes the neural proteome](https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8)
 
 ## [Archives](archives/index.md)
 

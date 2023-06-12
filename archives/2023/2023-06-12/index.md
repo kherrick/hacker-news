@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
 * [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
 * [2023-06-12, 15:26:09](https://news.ycombinator.com/item?id=36295136) - [WTF is Happening?: The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
@@ -44,6 +45,7 @@
 * [2023-06-12, 08:57:44](https://news.ycombinator.com/item?id=36290364) - [Silvio Berlusconi, Italy’s former prime minister, dies at 86](https://www.aljazeera.com/news/2023/6/12/silvio-berlusconi-italys-former-prime-minister-dies-at-86)
 * [2023-06-12, 08:49:47](https://news.ycombinator.com/item?id=36290304) - [The Unabomber Was an AI Doomer](https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously)
 * [2023-06-12, 08:06:57](https://news.ycombinator.com/item?id=36289952) - [Expectation vs. Reality: The Hard Hand Dealt Young People in 2023](https://bylinetimes.com/2023/06/09/expectation-vs-reality-the-hard-hand-dealt-young-people-in-2023/)
+* [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
 * [2023-06-12, 06:44:31](https://news.ycombinator.com/item?id=36289290) - [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
 * [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
 * [2023-06-12, 04:05:49](https://news.ycombinator.com/item?id=36288328) - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
