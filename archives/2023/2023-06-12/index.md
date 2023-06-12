@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 19:50:09](https://news.ycombinator.com/item?id=36299904) - [Show HN: FlingUp, a Reddit-like platform Ive been building for the last 2 years](https://flingup.com)
+* [2023-06-12, 19:37:59](https://news.ycombinator.com/item?id=36299723) - [Reddit crashed because of the growing subreddit blackout](https://www.theverge.com/2023/6/12/23758002/reddit-crashing-api-protest-subreddit-private-going-dark)
 * [2023-06-12, 19:10:10](https://news.ycombinator.com/item?id=36299325) - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
 * [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
 * [2023-06-12, 18:32:38](https://news.ycombinator.com/item?id=36298655) - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
@@ -17,6 +19,7 @@
 * [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:35:04](https://news.ycombinator.com/item?id=36296282) - [Pixelfed Introduces Import from Instagram](https://pixelfed.blog/p/2023/feature/introducing-import-from-instagram)
+* [2023-06-12, 16:33:27](https://news.ycombinator.com/item?id=36296250) - [A Tale of Unwanted Disruption: My Week Without Amazon](https://medium.com/@bjax_/a-tale-of-unwanted-disruption-my-week-without-amazon-df1074e3818b)
 * [2023-06-12, 16:28:51](https://news.ycombinator.com/item?id=36296185) - [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
 * [2023-06-12, 16:16:52](https://news.ycombinator.com/item?id=36295958) - [7245/7806 subreddits are currently dark](https://reddark.nextflow.cloud/)
 * [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
