@@ -96,6 +96,7 @@
 * [2023-06-09, 08:06:22](https://news.ycombinator.com/item?id=36254776) - [What Is Technicolor? Definition and History Explained](https://www.studiobinder.com/blog/what-is-technicolor-definition/)
 * [2023-06-09, 08:06:01](https://news.ycombinator.com/item?id=36254774) - [To Build a Top Performing Team, Ask for 85% Effort](https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort)
 * [2023-06-09, 08:04:21](https://news.ycombinator.com/item?id=36254764) - [Google un-bans Downloader app, but developer still mad about “broken” DMCA](https://arstechnica.com/tech-policy/2023/06/google-un-bans-downloader-app-but-developer-still-mad-about-broken-dmca/)
+* [2023-06-09, 07:50:02](https://news.ycombinator.com/item?id=36254672) - [MIDI 2.0 Driver Support Coming with Linux 6.5](https://www.phoronix.com/news/MIDI-2.0-Support-Linux-6.5)
 * [2023-06-09, 06:48:21](https://news.ycombinator.com/item?id=36254217) - [Ask HN: What's your opinion on weekly 1:1s?](https://news.ycombinator.com/item?id=36254217)
 * [2023-06-09, 06:42:12](https://news.ycombinator.com/item?id=36254172) - [ArchiveTeam has saved over 11.2B Reddit links so far. We need your help](https://old.reddit.com/r/DataHoarder/comments/142l1i0/archiveteam_has_saved_over_108_billion_reddit/)
 * [2023-06-09, 06:37:03](https://news.ycombinator.com/item?id=36254135) - [Microsoft DeviceScript – TypeScript for Tiny IoT Devices](https://github.com/microsoft/devicescript)

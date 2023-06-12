@@ -3,7 +3,8 @@
 * [2023-06-11, 22:48:32](https://news.ycombinator.com/item?id=36286513) - [Surging stockmarkets are powered by artificial intelligence](https://www.economist.com/finance-and-economics/2023/06/07/surging-stockmarkets-are-powered-by-artificial-intelligence)
 * [2023-06-11, 22:27:24](https://news.ycombinator.com/item?id=36286370) - [Intel Is All-In on Backside Power Delivery](https://spectrum.ieee.org/backside-power-delivery)
 * [2023-06-11, 21:46:08](https://news.ycombinator.com/item?id=36286058) - [Code and Programming Projects](https://www.chrisgregory.me/code)
-* [2023-06-11, 20:59:44](https://news.ycombinator.com/item?id=36285607) - [Hiltonhotels.jp SSL key publicly available](https://www.hezmatt.org/~mpalmer/blog/2023/06/12/private-key-redaction-redux.html)
+* [2023-06-11, 21:28:31](https://news.ycombinator.com/item?id=36285902) - [The Value of Personal Data in Internet Commerce](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962157)
+* [2023-06-11, 20:33:44](https://news.ycombinator.com/item?id=36285363) - [El Paquete Semanal](https://en.wikipedia.org/wiki/El_Paquete_Semanal)
 * [2023-06-11, 20:09:26](https://news.ycombinator.com/item?id=36285097) - [The Tyranny of Structurelessness (1970)](https://www.jofreeman.com/joreen/tyranny.htm)
 * [2023-06-11, 18:27:30](https://news.ycombinator.com/item?id=36284172) - [GrayC: Greybox Fuzzing of Compilers and Analysers for C [pdf]](https://srg.doc.ic.ac.uk/files/papers/grayc-issta-23.pdf)
 * [2023-06-11, 17:46:09](https://news.ycombinator.com/item?id=36283638) - [A Brief History of the Corporation: 1600 to 2100 (2011)](https://www.ribbonfarm.com/2011/06/08/a-brief-history-of-the-corporation-1600-to-2100/)
@@ -13,7 +14,6 @@
 * [2023-06-11, 16:48:50](https://news.ycombinator.com/item?id=36283003) - [One man’s 8-bit quest to finish his teenage Commodore 64 RPG](https://arstechnica.com/gaming/2023/06/one-mans-40-year-8-bit-quest-to-finish-the-c64-rpg-he-started-in-1984/)
 * [2023-06-11, 16:28:01](https://news.ycombinator.com/item?id=36282798) - [Csexp: S-Expressions over the Network](https://docs.racket-lang.org/csexp/index.html)
 * [2023-06-11, 16:22:10](https://news.ycombinator.com/item?id=36282748) - [Treebomination: Convert a scikit-learn decision tree into a Keras model](https://github.com/Dobiasd/treebomination)
-* [2023-06-11, 15:53:42](https://news.ycombinator.com/item?id=36282526) - [“Blue Mind Theory”](https://www.insidehook.com/daily_brief/health-and-fitness/blue-mind-theory-water-relaxation)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:51:31](https://news.ycombinator.com/item?id=36281945) - [A Tradecraft Primer (2009)](https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/)
 * [2023-06-11, 14:34:24](https://news.ycombinator.com/item?id=36281807) - [Hacking the Philips Sonicare NFC Password](https://twitter.com/atc1441/status/1667252413051424773)
@@ -29,7 +29,7 @@
 * [2023-06-10, 19:10:11](https://news.ycombinator.com/item?id=36273917) - [The curse of scalable technology](https://lukeplant.me.uk/blog/posts/the-curse-of-scalable-technology/)
 * [2023-06-10, 08:12:48](https://news.ycombinator.com/item?id=36268671) - [From Stacks to Trees: A new aliasing model for Rust](https://www.ralfj.de/blog/2023/06/02/tree-borrows.html)
 * [2023-06-10, 06:57:10](https://news.ycombinator.com/item?id=36268339) - [Domain knowledge or a lack thereof (2013)](https://jacquesmattheij.com/domain-knowledge-or-a-lack-thereof/)
-* [2023-06-09, 06:30:00](https://news.ycombinator.com/item?id=36254073) - [Robot can rip the data out of RAM chips](https://www.theregister.com/2023/06/09/cold_boot_ram_theft/)
+* [2023-06-09, 07:50:02](https://news.ycombinator.com/item?id=36254672) - [MIDI 2.0 Driver Support Coming with Linux 6.5](https://www.phoronix.com/news/MIDI-2.0-Support-Linux-6.5)
 
 ## [Archives](archives/index.md)
 
