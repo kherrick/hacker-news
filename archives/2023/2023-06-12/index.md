@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 11:49:26](https://news.ycombinator.com/item?id=36291977) - [Why millions of usable hard drives are being destroyed](https://www.bbc.com/news/business-65669537)
 * [2023-06-12, 10:36:58](https://news.ycombinator.com/item?id=36291299) - [Show HN: Open-Source vs. OpenAI. 8 Best Open-Source Alternatives to GPT](https://neoteric.eu/blog/open-source-vs-openai-8-best-open-source-alternatives-to-gpt/)
 * [2023-06-12, 10:07:41](https://news.ycombinator.com/item?id=36291012) - [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
 * [2023-06-12, 09:55:13](https://news.ycombinator.com/item?id=36290875) - [Find out where you can afford to buy or rent in Great Britain](https://www.theguardian.com/society/ng-interactive/2023/jun/12/interactive-tool-that-shows-where-you-can-afford-to-buy-or-rent-home-great-britain)
