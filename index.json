@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36286370"
     ],
     [
-      "Intel Is All-In on Backside Power Delivery",
+      "Intel is all-in on backside power delivery",
       "https://spectrum.ieee.org/backside-power-delivery"
     ]
   ],
@@ -31,12 +31,22 @@
   ],
   [
     [
-      "2023-06-11, 21:28:31",
-      "https://news.ycombinator.com/item?id=36285902"
+      "2023-06-11, 21:02:56",
+      "https://news.ycombinator.com/item?id=36285640"
     ],
     [
-      "The Value of Personal Data in Internet Commerce",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3962157"
+      "Apple Execs on Facebook (2011)",
+      "https://www.techemails.com/p/apple-execs-on-facebook"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 21:02:03",
+      "https://news.ycombinator.com/item?id=36285630"
+    ],
+    [
+      "How to make a QR code with Stable Diffusion",
+      "https://stable-diffusion-art.com/qr-code/"
     ]
   ],
   [
@@ -57,6 +67,26 @@
     [
       "The Tyranny of Structurelessness (1970)",
       "https://www.jofreeman.com/joreen/tyranny.htm"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 20:03:03",
+      "https://news.ycombinator.com/item?id=36285049"
+    ],
+    [
+      "Logistics challenges of saving Air India’s diverted 777 in Russia",
+      "https://www.flightradar24.com/blog/air-india-russia-diversion/"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 19:15:52",
+      "https://news.ycombinator.com/item?id=36284614"
+    ],
+    [
+      "Why are blocks on Bluesky public?",
+      "https://atproto.com/blog/block-implementation"
     ]
   ],
   [
@@ -91,6 +121,16 @@
   ],
   [
     [
+      "2023-06-11, 17:21:09",
+      "https://news.ycombinator.com/item?id=36283351"
+    ],
+    [
+      "Show HN: Java REST without annotations, DI nor reactive streams",
+      "https://github.com/MartinGeisse/grumpyrest"
+    ]
+  ],
+  [
+    [
       "2023-06-11, 17:10:10",
       "https://news.ycombinator.com/item?id=36283249"
     ],
@@ -107,6 +147,16 @@
     [
       "Writesonic (YC S21) Is Hiring a Digital Marketing Manager",
       "https://www.ycombinator.com/companies/writesonic/jobs/PL99uk8-digital-marketing-manager"
+    ]
+  ],
+  [
+    [
+      "2023-06-11, 16:55:10",
+      "https://news.ycombinator.com/item?id=36283077"
+    ],
+    [
+      "It’s not the chemicals that cause addiction (2017)",
+      "https://dancesafe.org/its-not-the-chemicals-that-cause-addiction-its-the-cages/"
     ]
   ],
   [
@@ -151,26 +201,6 @@
   ],
   [
     [
-      "2023-06-11, 14:51:31",
-      "https://news.ycombinator.com/item?id=36281945"
-    ],
-    [
-      "A Tradecraft Primer (2009)",
-      "https://www.cia.gov/resources/csi/books-monographs/a-tradecraft-primer/"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 14:34:24",
-      "https://news.ycombinator.com/item?id=36281807"
-    ],
-    [
-      "Hacking the Philips Sonicare NFC Password",
-      "https://twitter.com/atc1441/status/1667252413051424773"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 14:10:36",
       "https://news.ycombinator.com/item?id=36281543"
     ],
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-06-11, 10:45:11",
-      "https://news.ycombinator.com/item?id=36280091"
-    ],
-    [
-      "Why aren't black box flight recorders better?",
-      "https://www.afar.com/magazine/how-black-boxes-changed-air-travel"
-    ]
-  ],
-  [
-    [
       "2023-06-11, 10:35:30",
       "https://news.ycombinator.com/item?id=36280028"
     ],
     [
       "Show HN: OpenObserve – Elasticsearch/Datadog alternative",
       "https://github.com/openobserve/openobserve"
-    ]
-  ],
-  [
-    [
-      "2023-06-11, 06:09:26",
-      "https://news.ycombinator.com/item?id=36278661"
-    ],
-    [
-      "She Measures the Heavens and Outlines the Earth",
-      "https://www.laphamsquarterly.org/roundtable/she-measures-heavens-and-outlines-earth"
     ]
   ],
   [
@@ -251,26 +261,6 @@
   ],
   [
     [
-      "2023-06-10, 20:18:05",
-      "https://news.ycombinator.com/item?id=36274647"
-    ],
-    [
-      "WebObjects Overview (2001) [pdf]",
-      "https://developer.apple.com/library/archive/documentation/LegacyTechnologies/WebObjects/WebObjects_5/WebObjectsOverview/WebObjectsOverview.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-10, 19:10:11",
-      "https://news.ycombinator.com/item?id=36273917"
-    ],
-    [
-      "The curse of scalable technology",
-      "https://lukeplant.me.uk/blog/posts/the-curse-of-scalable-technology/"
-    ]
-  ],
-  [
-    [
       "2023-06-10, 08:12:48",
       "https://news.ycombinator.com/item?id=36268671"
     ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2023-06-10, 06:53:54",
+      "https://news.ycombinator.com/item?id=36268320"
+    ],
+    [
+      "Convex Optimization – Boyd and Vandenberghe [pdf]",
+      "https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-09, 07:50:02",
       "https://news.ycombinator.com/item?id=36254672"
     ],
     [
-      "MIDI 2.0 Driver Support Coming with Linux 6.5",
+      "MIDI 2.0 driver support coming with Linux 6.5",
       "https://www.phoronix.com/news/MIDI-2.0-Support-Linux-6.5"
     ]
   ]
