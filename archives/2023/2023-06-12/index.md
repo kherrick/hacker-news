@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
 * [2023-06-12, 14:59:30](https://news.ycombinator.com/item?id=36294750) - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
+* [2023-06-12, 14:59:24](https://news.ycombinator.com/item?id=36294748) - [Amazon accuses customer of racism and shuts down their smart home](https://www.youtube.com/watch?v=NfiIXooD77s)
 * [2023-06-12, 14:37:59](https://news.ycombinator.com/item?id=36294244) - [Reddit.com appears to be having an outage](https://news.ycombinator.com/item?id=36294244)
 * [2023-06-12, 14:25:47](https://news.ycombinator.com/item?id=36293986) - [Canada’s Big Flex in Space](https://thewalrus.ca/canadarm/)
 * [2023-06-12, 14:23:35](https://news.ycombinator.com/item?id=36293937) - [The UFO craze was created by government nepotism and incompetent journalism](https://www.theintrinsicperspective.com/p/the-ufo-craze-was-created-by-government)
