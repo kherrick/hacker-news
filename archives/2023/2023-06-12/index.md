@@ -6,6 +6,7 @@
 
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:11:44](https://news.ycombinator.com/item?id=36290494) - [Silvio Berlusconi, a Showman Who Upended Italian Politics and Culture Dies at 86](https://www.nytimes.com/2023/06/12/world/europe/silvio-berlusconi-dead.html)
+* [2023-06-12, 09:07:22](https://news.ycombinator.com/item?id=36290467) - [Douglas Crockford: “We should stop using JavaScript”](https://digest.browsertech.com/archive/browsertech-digest-9801/)
 * [2023-06-12, 08:58:05](https://news.ycombinator.com/item?id=36290370) - [Amazon's First Job Listing](https://groups.google.com/g/ba.jobs.offered/c/-rvJUMBbZ18)
 * [2023-06-12, 08:57:44](https://news.ycombinator.com/item?id=36290364) - [Silvio Berlusconi, Italy’s former prime minister, dies at 86](https://www.aljazeera.com/news/2023/6/12/silvio-berlusconi-italys-former-prime-minister-dies-at-86)
 * [2023-06-12, 08:49:47](https://news.ycombinator.com/item?id=36290304) - [The Unabomber Was an AI Doomer](https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously)
