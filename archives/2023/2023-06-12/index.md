@@ -11,6 +11,7 @@
 * [2023-06-12, 12:32:29](https://news.ycombinator.com/item?id=36292384) - [That's a *huge* amount of energy being transferred to the atmosphere](https://twitter.com/drtels/status/1650562388377174020)
 * [2023-06-12, 11:59:22](https://news.ycombinator.com/item?id=36292078) - [The “smolnet”, build for friends and friends of friends](https://communitywiki.org/wiki/SmolNet)
 * [2023-06-12, 11:49:26](https://news.ycombinator.com/item?id=36291977) - [Why millions of usable hard drives are being destroyed](https://www.bbc.com/news/business-65669537)
+* [2023-06-12, 10:37:28](https://news.ycombinator.com/item?id=36291304) - [Life Is So Terrible and Beautiful at the Same Time](https://johnpweiss.com/blog/187270/life-is-so-terrible-and-beautiful-at-the-same-time)
 * [2023-06-12, 10:36:58](https://news.ycombinator.com/item?id=36291299) - [Show HN: Open-Source vs. OpenAI. 8 Best Open-Source Alternatives to GPT](https://neoteric.eu/blog/open-source-vs-openai-8-best-open-source-alternatives-to-gpt/)
 * [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 * [2023-06-12, 10:07:41](https://news.ycombinator.com/item?id=36291012) - [An America-Less Internet](https://www.nthbrock.com/posts/americaless-internet/)
