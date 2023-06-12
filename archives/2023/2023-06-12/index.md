@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
 * [2023-06-12, 22:12:39](https://news.ycombinator.com/item?id=36302002) - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 * [2023-06-12, 21:54:16](https://news.ycombinator.com/item?id=36301758) - [In praise of blowing up your life](https://sashachapin.substack.com/p/in-praise-of-blowing-up-your-life)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
 * [2023-06-12, 22:12:39](https://news.ycombinator.com/item?id=36302002) - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 * [2023-06-12, 21:54:16](https://news.ycombinator.com/item?id=36301758) - [In praise of blowing up your life](https://sashachapin.substack.com/p/in-praise-of-blowing-up-your-life)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
@@ -28,7 +29,6 @@
 * [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening (2022)](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
-* [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
 * [2023-06-12, 04:59:06](https://news.ycombinator.com/item?id=36288618) - [The Art of Leadership: Lessons from Art Blakey](https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from)
 
 ## [Archives](archives/index.md)
