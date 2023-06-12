@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2023-06-12, 16:28:51](https://news.ycombinator.com/item?id=36296185) - [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
 * [2023-06-12, 16:16:52](https://news.ycombinator.com/item?id=36295958) - [7245/7806 subreddits are currently dark](https://reddark.nextflow.cloud/)
 * [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
+* [2023-06-12, 15:46:48](https://news.ycombinator.com/item?id=36295460) - [Launch HN: DevCycle (YC W14) – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
 * [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
 * [2023-06-12, 15:31:55](https://news.ycombinator.com/item?id=36295227) - [Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
