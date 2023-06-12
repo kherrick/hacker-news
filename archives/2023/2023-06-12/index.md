@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 18:07:52](https://news.ycombinator.com/item?id=36298193) - [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
+* [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The Continuing Tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A Developer's View of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
 * [2023-06-12, 17:28:39](https://news.ycombinator.com/item?id=36297413) - [21st-century editors should keep their hands off of 20th-century books](https://www.washingtonpost.com/opinions/2023/06/12/books-editing-retouching-free-expression/)

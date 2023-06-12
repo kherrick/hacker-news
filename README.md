@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 18:07:52](https://news.ycombinator.com/item?id=36298193) - [Ask HN: Best way to play old games that require Windows 98/XP?](https://news.ycombinator.com/item?id=36298193)
+* [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The Continuing Tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:31:02](https://news.ycombinator.com/item?id=36297477) - [A Developer's View of Vision Pro](https://www.david-smith.org/blog/2023/06/12/new-post/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's Sorting Algorithm](https://justine.lol/sorting/)
 * [2023-06-12, 17:28:39](https://news.ycombinator.com/item?id=36297413) - [21st-century editors should keep their hands off of 20th-century books](https://www.washingtonpost.com/opinions/2023/06/12/books-editing-retouching-free-expression/)
@@ -7,7 +9,6 @@
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:35:04](https://news.ycombinator.com/item?id=36296282) - [Pixelfed Introduces Import from Instagram](https://pixelfed.blog/p/2023/feature/introducing-import-from-instagram)
 * [2023-06-12, 16:28:51](https://news.ycombinator.com/item?id=36296185) - [Melange 1.0: Compile OCaml / ReasonML to JavaScript](https://buttondown.email/anmonteiro/archive/melange-hits-v10/)
-* [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
 * [2023-06-12, 15:46:48](https://news.ycombinator.com/item?id=36295460) - [Launch HN: DevCycle (YC W14) – a feature flag platform built for developers](https://news.ycombinator.com/item?id=36295460)
 * [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
@@ -20,7 +21,6 @@
 * [2023-06-12, 13:24:38](https://news.ycombinator.com/item?id=36293026) - [Block Adware and Malware with /etc/hosts](https://github.com/StevenBlack/hosts)
 * [2023-06-12, 12:34:57](https://news.ycombinator.com/item?id=36292413) - [Every Signature Is Broken: Insecurity of Microsoft Office’s Ooxml Signatures](https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann)
 * [2023-06-12, 11:59:22](https://news.ycombinator.com/item?id=36292078) - [The “smolnet”, build for friends and friends of friends](https://communitywiki.org/wiki/SmolNet)
-* [2023-06-12, 10:37:28](https://news.ycombinator.com/item?id=36291304) - [Life Is So Terrible and Beautiful at the Same Time](https://johnpweiss.com/blog/187270/life-is-so-terrible-and-beautiful-at-the-same-time)
 * [2023-06-12, 10:23:35](https://news.ycombinator.com/item?id=36291169) - [Desktop Linux Hardening (2022)](https://privsec.dev/posts/linux/desktop-linux-hardening/)
 * [2023-06-12, 09:13:01](https://news.ycombinator.com/item?id=36290505) - [Why Perl?](https://two-wrongs.com/why-perl.html)
 * [2023-06-12, 09:07:22](https://news.ycombinator.com/item?id=36290467) - [Douglas Crockford on JavaScript](https://digest.browsertech.com/archive/browsertech-digest-9801/)
