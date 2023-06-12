@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 04:05:49](https://news.ycombinator.com/item?id=36288328) - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
 * [2023-06-12, 02:59:20](https://news.ycombinator.com/item?id=36287963) - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
 * [2023-06-12, 02:30:22](https://news.ycombinator.com/item?id=36287809) - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
 * [2023-06-12, 01:16:00](https://news.ycombinator.com/item?id=36287439) - [Stack Overflow Moderation Strike Update](https://meta.stackexchange.com/questions/390106/moderation-strike-update-data-dumps-choosing-representatives-gpt-data-and-wh)
