@@ -8,6 +8,7 @@
 * [2023-06-12, 13:42:30](https://news.ycombinator.com/item?id=36293286) - [The moral hazards of being beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
 * [2023-06-12, 13:39:49](https://news.ycombinator.com/item?id=36293250) - [Apple Vision Pro: The MVP for AR](https://soraven.com/apple-vision-pro-the-mvp-for-ar-42273a11dbe?gi=77bd7aa8cc0a)
 * [2023-06-12, 13:38:26](https://news.ycombinator.com/item?id=36293225) - [How to buy a social network, with Tumblr CEO Matt Mullenweg](https://www.theverge.com/23506085/wordpress-twitter-tumblr-ceo-matt-mullenweg-elon-musk)
+* [2023-06-12, 13:23:30](https://news.ycombinator.com/item?id=36293006) - [Is liberalism digging its own demographic grave? (2022)](https://www.thearticle.com/is-liberalism-digging-its-own-demographic-grave)
 * [2023-06-12, 13:13:13](https://news.ycombinator.com/item?id=36292877) - [Reddit Blackout Tracker](http://blackout.photon-reddit.com/)
 * [2023-06-12, 13:08:41](https://news.ycombinator.com/item?id=36292831) - [Penguin T4 GNU/Linux Laptop (New Model)](https://www.thinkpenguin.com/gnu-linux/penguin-t4-gnulinux-laptop)
 * [2023-06-12, 12:44:09](https://news.ycombinator.com/item?id=36292522) - [US Supreme Court's dog toy ruling puts parody products on notice](https://www.reuters.com/legal/us-supreme-courts-dog-toy-ruling-puts-parody-products-notice-2023-06-12/)
