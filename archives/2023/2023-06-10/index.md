@@ -55,6 +55,7 @@
 * [2023-06-10, 12:46:40](https://news.ycombinator.com/item?id=36270011) - [Four children found alive in Amazon 40 days after plane crash](https://www.bbc.co.uk/news/world-latin-america-65864158)
 * [2023-06-10, 12:32:48](https://news.ycombinator.com/item?id=36269934) - [Debian 12 “Bookworm” Released](https://www.debian.org/News/2023/20230610)
 * [2023-06-10, 12:05:44](https://news.ycombinator.com/item?id=36269782) - [Facts Don’t Change Minds: A Case for the Virtues of Propaganda](https://psyche.co/ideas/facts-dont-change-minds-a-case-for-the-virtues-of-propaganda)
+* [2023-06-10, 10:38:11](https://news.ycombinator.com/item?id=36269343) - [UTF-21, a toy character encoding](https://evanhahn.com/utf-21/)
 * [2023-06-10, 09:36:17](https://news.ycombinator.com/item?id=36269041) - [The Accidental HFT Firm](https://web.archive.org/web/20210205014443/https://meanderful.blogspot.com/2018/01/the-accidental-hft-firm.html)
 * [2023-06-10, 09:11:56](https://news.ycombinator.com/item?id=36268931) - [A Case of the Mumps (2007)](https://thedailywtf.com/articles/A_Case_of_the_MUMPS)
 * [2023-06-10, 09:06:37](https://news.ycombinator.com/item?id=36268907) - [AI detects 20k hidden taxable swimming pools in France, netting €10M](https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools)
