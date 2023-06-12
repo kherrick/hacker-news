@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 16:16:52](https://news.ycombinator.com/item?id=36295958) - [7245/7806 subreddits are currently dark](https://reddark.nextflow.cloud/)
 * [2023-06-12, 15:52:26](https://news.ycombinator.com/item?id=36295557) - [Going NoPhone](https://libreplanet.org/wiki/Going_NoPhone)
 * [2023-06-12, 15:45:15](https://news.ycombinator.com/item?id=36295427) - [WHO advises against use of artificial sweeteners](https://news.un.org/en/story/2023/05/1136667)
 * [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
+* [2023-06-12, 15:31:55](https://news.ycombinator.com/item?id=36295227) - [Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
 * [2023-06-12, 15:26:09](https://news.ycombinator.com/item?id=36295136) - [WTF is Happening?: The concurrence of three climatic events](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
 * [2023-06-12, 15:22:59](https://news.ycombinator.com/item?id=36295093) - [Reddit goes down fully as thousands of subreddits protest API changes](https://9to5mac.com/2023/06/12/reddit-goes-down-fully/)
 * [2023-06-12, 14:59:30](https://news.ycombinator.com/item?id=36294750) - [Cloudflare Is Having Issues](https://www.cloudflarestatus.com)
