@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-12, 04:05:49](https://news.ycombinator.com/item?id=36288328) - [Judge denies Amazon’s, Apple’s motions to dismiss class action price-fixing suit](https://arstechnica.com/tech-policy/2023/06/judge-allows-apple-and-amazon-price-fixing-lawsuit-to-move-forward/)
+* [2023-06-12, 03:59:15](https://news.ycombinator.com/item?id=36288294) - [Video to Video with Stable Diffusion (Step-by-Step) – Stable Diffusion Art](https://stable-diffusion-art.com/video-to-video/)
 * [2023-06-12, 03:20:52](https://news.ycombinator.com/item?id=36288078) - [The Diversity Myth](https://newcriterion.com/issues/2023/6/the-diversity-myth)
 * [2023-06-12, 02:59:20](https://news.ycombinator.com/item?id=36287963) - [Upgrading my Chumby 8 kernel part 5: graphics](https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/)
 * [2023-06-12, 02:30:22](https://news.ycombinator.com/item?id=36287809) - [The Surprising Power of Documentation](https://vadimkravcenko.com/shorts/proper-documentation/)
@@ -22,7 +23,6 @@
 * [2023-06-11, 16:22:10](https://news.ycombinator.com/item?id=36282748) - [Treebomination: Convert a scikit-learn decision tree into a Keras model](https://github.com/Dobiasd/treebomination)
 * [2023-06-11, 15:07:18](https://news.ycombinator.com/item?id=36282076) - [A compact overview of JDK 21’s “frozen” feature list](https://vived.io/a-compact-overview-of-jdk-21s-frozen-feature-list-jvm-weekly-vol-138/)
 * [2023-06-11, 14:10:36](https://news.ycombinator.com/item?id=36281543) - [The Dutch government wants automatic permission to target victims of hackers](https://berthub.eu/articles/posts/dutch-intel-law-about-intel/)
-* [2023-06-11, 07:07:52](https://news.ycombinator.com/item?id=36278970) - [The role of eyebrows in face recognition [pdf]](https://web.mit.edu/sinhalab/Papers/sinha_eyebrows.pdf)
 * [2023-06-11, 01:32:13](https://news.ycombinator.com/item?id=36277067) - [In the Mind of Marie: A Haunting Encounter in the Gardens of Versailles (1913)](https://publicdomainreview.org/collection/an-adventure)
 * [2023-06-10, 23:13:13](https://news.ycombinator.com/item?id=36276268) - [Inside the Wuhan lab weeks before Covid](https://www.thetimes.co.uk/article/inside-wuhan-lab-covid-pandemic-china-america-qhjwwwvm0)
 * [2023-06-10, 10:38:11](https://news.ycombinator.com/item?id=36269343) - [UTF-21, a toy character encoding](https://evanhahn.com/utf-21/)
