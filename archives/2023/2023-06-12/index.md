@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
 * [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
 * [2023-06-12, 20:46:17](https://news.ycombinator.com/item?id=36300822) - [Billionaire Jeff Bezos Just Bought One Share of Amazon and No One Knows Why](https://www.bloomberg.com/news/articles/2023-06-09/billionaire-jeff-bezos-just-bought-one-share-of-amazon-and-no-one-knows-why)
 * [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US Is Openly Stockpiling Dirt on All Its Citizens](https://www.wired.com/story/odni-commercially-available-information-report/)
@@ -74,6 +75,7 @@
 * [2023-06-12, 08:49:47](https://news.ycombinator.com/item?id=36290304) - [The Unabomber Was an AI Doomer](https://newsletter.pessimistsarchive.org/p/the-unabomber-was-an-ai-doomer-obviously)
 * [2023-06-12, 08:06:57](https://news.ycombinator.com/item?id=36289952) - [Expectation vs. Reality: The Hard Hand Dealt Young People in 2023](https://bylinetimes.com/2023/06/09/expectation-vs-reality-the-hard-hand-dealt-young-people-in-2023/)
 * [2023-06-12, 07:36:57](https://news.ycombinator.com/item?id=36289729) - [How is Apache APISIX Fast?](https://api7.ai/blog/how-is-apisix-fast)
+* [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
 * [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
 * [2023-06-12, 06:44:31](https://news.ycombinator.com/item?id=36289290) - [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
