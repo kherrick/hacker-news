@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
-* [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
 * [2023-06-12, 22:12:39](https://news.ycombinator.com/item?id=36302002) - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
 * [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
