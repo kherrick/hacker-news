@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 03:11:00](https://news.ycombinator.com/item?id=36304685) - [Xerox scanners randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
+* [2023-06-13, 03:01:21](https://news.ycombinator.com/item?id=36304623) - [Meta to Buy Almost 7M Carbon Credits](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304143) - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304142) - [Wall Street scooped up a third of Texas single family homes sold last year](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
 * [2023-06-13, 01:30:22](https://news.ycombinator.com/item?id=36303955) - [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
