@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 12:59:24](https://news.ycombinator.com/item?id=36309620) - [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
 * [2023-06-13, 12:31:03](https://news.ycombinator.com/item?id=36309291) - [NVD Damage Continued](https://daniel.haxx.se/blog/2023/06/12/nvd-damage-continued/)
+* [2023-06-13, 12:24:32](https://news.ycombinator.com/item?id=36309211) - [Damus to be removed from App Store as zaps could be used to sell digital content](https://twitter.com/damusapp/status/1668529709867495424)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for Developers Using React](https://resend.com)
 * [2023-06-13, 12:03:59](https://news.ycombinator.com/item?id=36308993) - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
 * [2023-06-13, 11:21:24](https://news.ycombinator.com/item?id=36308489) - [Opinion: Geoengineering Is Shockingly Inexpensive](https://phys.org/news/2023-06-opinion-geoengineering-inexpensive.html)
