@@ -6,6 +6,7 @@
 
 * [2023-06-13, 04:22:46](https://news.ycombinator.com/item?id=36305271) - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
+* [2023-06-13, 03:37:03](https://news.ycombinator.com/item?id=36304880) - [Spezless – A Reddit clone without u/Spez](https://www.spezless.com/)
 * [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 * [2023-06-13, 03:11:00](https://news.ycombinator.com/item?id=36304685) - [Xerox scanners randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 * [2023-06-13, 03:01:21](https://news.ycombinator.com/item?id=36304623) - [Meta to Buy Almost 7M Carbon Credits](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)

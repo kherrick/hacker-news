@@ -2,6 +2,7 @@
 
 * [2023-06-13, 04:22:46](https://news.ycombinator.com/item?id=36305271) - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
+* [2023-06-13, 03:37:03](https://news.ycombinator.com/item?id=36304880) - [Spezless – A Reddit clone without u/Spez](https://www.spezless.com/)
 * [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 * [2023-06-13, 03:11:00](https://news.ycombinator.com/item?id=36304685) - [Xerox scanners randomly alter numbers in scanned documents (2013)](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 * [2023-06-13, 03:01:21](https://news.ycombinator.com/item?id=36304623) - [Meta to Buy Almost 7M Carbon Credits](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)
@@ -29,7 +30,6 @@
 * [2023-06-12, 15:31:55](https://news.ycombinator.com/item?id=36295227) - [Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
-* [2023-06-12, 07:10:41](https://news.ycombinator.com/item?id=36289493) - [The Mobian Bookworm has landed](https://blog.mobian.org/posts/2023/06/10/bookworm/)
 
 ## [Archives](archives/index.md)
 
