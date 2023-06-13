@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
 * [2023-06-13, 04:22:46](https://news.ycombinator.com/item?id=36305271) - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
 * [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
@@ -8,7 +9,6 @@
 * [2023-06-13, 01:30:22](https://news.ycombinator.com/item?id=36303955) - [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
 * [2023-06-13, 00:32:37](https://news.ycombinator.com/item?id=36303447) - [MrBeast has become a viral sensation for his acts of altruism](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
 * [2023-06-13, 00:23:14](https://news.ycombinator.com/item?id=36303371) - [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
-* [2023-06-12, 23:47:37](https://news.ycombinator.com/item?id=36303074) - [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A new experiment casts doubt on the leading theory of the nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
