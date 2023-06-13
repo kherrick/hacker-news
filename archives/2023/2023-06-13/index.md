@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 17:34:47](https://news.ycombinator.com/item?id=36313694) - [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
+* [2023-06-13, 17:34:42](https://news.ycombinator.com/item?id=36313690) - [Sources Tell Me Some Messed Up Stuff Is Happening in Commercial Real Estate](https://innovationnation.blog/p/sources-tell-me-some-messed-up-stuff)
 * [2023-06-13, 17:33:46](https://news.ycombinator.com/item?id=36313677) - [Reddit CEO tells employees that subreddit blackout ‘will pass’](https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman)
 * [2023-06-13, 17:32:39](https://news.ycombinator.com/item?id=36313664) - [All the Single Ladies – Men floundering, women most affected](https://www.robkhenderson.com/p/all-the-single-ladies)
 * [2023-06-13, 17:10:26](https://news.ycombinator.com/item?id=36313348) - [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
