@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
 * [2023-06-13, 04:22:46](https://news.ycombinator.com/item?id=36305271) - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
 * [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
@@ -23,6 +22,7 @@
 * [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US government is buying troves of data about Americans](https://www.wired.com/story/odni-commercially-available-information-report/)
 * [2023-06-12, 19:25:01](https://news.ycombinator.com/item?id=36299543) - [Lisp Game Jam – “Wireworld” in WebAssembly Using Spritely's Hoot Project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:04:59](https://news.ycombinator.com/item?id=36299246) - [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
+* [2023-06-12, 18:52:52](https://news.ycombinator.com/item?id=36299029) - [Remains of an extinct world of organisms discovered](https://phys.org/news/2023-06-extinct-world.html)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
 * [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's sorting algorithm](https://justine.lol/sorting/)
