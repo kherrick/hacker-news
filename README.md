@@ -3,6 +3,7 @@
 * [2023-06-13, 14:30:16](https://news.ycombinator.com/item?id=36310733) - [Instant Brands, maker of Instant Pot and Pyrex cookware, files for bankruptcy](https://www.cbc.ca/news/business/instant-brands-bankruptcy-1.6874487)
 * [2023-06-13, 14:27:35](https://news.ycombinator.com/item?id=36310689) - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
 * [2023-06-13, 14:22:36](https://news.ycombinator.com/item?id=36310619) - [Microsoft is bringing GPT-4 to US Government agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
+* [2023-06-13, 14:21:02](https://news.ycombinator.com/item?id=36310594) - [Hackers can steal cryptographic keys by video-recording power LEDs 60 feet away](https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/)
 * [2023-06-13, 14:14:54](https://news.ycombinator.com/item?id=36310518) - [Microsoft Office security signatures are 'practically worthless'](https://www.theregister.com/2023/06/13/office_open_xml_signatures/)
 * [2023-06-13, 14:07:59](https://news.ycombinator.com/item?id=36310427) - [Westfield Walks Away from Downtown San Francisco Mall Property](https://www.bloomberg.com/news/articles/2023-06-12/westfield-giving-up-san-francisco-mall-in-mounting-pain-for-city)
 * [2023-06-13, 13:44:11](https://news.ycombinator.com/item?id=36310145) - [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
@@ -27,7 +28,6 @@
 * [2023-06-12, 21:17:25](https://news.ycombinator.com/item?id=36301276) - [What is Social Status?](https://www.robkhenderson.com/p/what-is-social-status)
 * [2023-06-12, 19:25:01](https://news.ycombinator.com/item?id=36299543) - [Lisp Game Jam – “Wireworld” in WebAssembly Using Spritely's Hoot Project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:04:59](https://news.ycombinator.com/item?id=36299246) - [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
-* [2023-06-12, 18:52:52](https://news.ycombinator.com/item?id=36299029) - [Remains of an extinct world of organisms discovered](https://phys.org/news/2023-06-extinct-world.html)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 
