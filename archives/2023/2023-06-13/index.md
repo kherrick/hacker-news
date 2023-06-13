@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
+* [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy, Novelist of a Darker America, Is Dead at 89](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
+* [2023-06-13, 19:53:45](https://news.ycombinator.com/item?id=36315989) - [A microblog powered by The Onion Router (Tor)](https://play.google.com/store/apps/details?id=app.Blackpage.Blackpage&hl=en_US)
+* [2023-06-13, 19:44:37](https://news.ycombinator.com/item?id=36315863) - [Reddit subs with millions of followers plan to extend the blackout indefinitely](https://www.theverge.com/2023/6/13/23759674/reddit-mods-blackout-protest-extended-indefinitely)
 * [2023-06-13, 19:39:56](https://news.ycombinator.com/item?id=36315796) - [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 * [2023-06-13, 19:08:43](https://news.ycombinator.com/item?id=36315300) - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
 * [2023-06-13, 18:54:18](https://news.ycombinator.com/item?id=36315043) - [If you want people to show up, data shows these are the best meeting times](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
