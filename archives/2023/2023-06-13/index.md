@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [The Photographer Who Forced the U.S. to Confront Its Child Labor Problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 20:45:18](https://news.ycombinator.com/item?id=36316950) - [Reddit stripping moderators of rights and forcing subreddits to go public](https://famichiki.jp/@Tsutsuku/110537730270070245)
 * [2023-06-13, 20:41:18](https://news.ycombinator.com/item?id=36316883) - [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
 * [2023-06-13, 20:22:18](https://news.ycombinator.com/item?id=36316489) - [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)
