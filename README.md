@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 18:35:17](https://news.ycombinator.com/item?id=36314744) - [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
 * [2023-06-13, 18:08:16](https://news.ycombinator.com/item?id=36314225) - [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 * [2023-06-13, 17:34:47](https://news.ycombinator.com/item?id=36313694) - [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
@@ -27,7 +28,6 @@
 * [2023-06-12, 23:04:50](https://news.ycombinator.com/item?id=36302629) - [A Baking Soda Solution for Clean Hydrogen Storage](https://www.pnnl.gov/news-media/baking-soda-solution-clean-hydrogen-storage)
 * [2023-06-12, 22:37:31](https://news.ycombinator.com/item?id=36302303) - [Mapping pedestrian traffic light timing in Sydney, Australia](https://jakecoppinger.com/2023/06/mapping-pedestrian-traffic-light-timing-in-sydney-australia/)
 * [2023-06-12, 22:31:10](https://news.ycombinator.com/item?id=36302222) - [The Semiconductor Industry’s Most Important Tool Goes Green](https://spectrum.ieee.org/euv-lithography)
-* [2023-06-12, 21:36:07](https://news.ycombinator.com/item?id=36301524) - [The Cargo Cult of the Ennui Engine](https://medium.com/@max.p.schlienger/the-cargo-cult-of-the-ennui-engine-890c541cebcb)
 * [2023-06-12, 21:20:54](https://news.ycombinator.com/item?id=36301326) - [How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
 
