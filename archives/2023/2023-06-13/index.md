@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
 * [2023-06-13, 11:00:42](https://news.ycombinator.com/item?id=36308346) - [Ask HN: Legality of archiving/re-hosting Reddit content](https://news.ycombinator.com/item?id=36308346)
+* [2023-06-13, 10:59:09](https://news.ycombinator.com/item?id=36308333) - [Scientists beam solar power to Earth from space for first time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
+* [2023-06-13, 10:46:47](https://news.ycombinator.com/item?id=36308241) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)
 * [2023-06-13, 10:41:59](https://news.ycombinator.com/item?id=36308196) - [The duck in the room – the end of baseload](https://jeromeaparis.substack.com/p/the-duck-in-the-room-the-end-of-baseload)
 * [2023-06-13, 09:45:04](https://news.ycombinator.com/item?id=36307810) - [Ask HN: Is there a good camping chair that is comfortable for programming?](https://news.ycombinator.com/item?id=36307810)
 * [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
