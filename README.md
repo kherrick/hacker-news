@@ -2,7 +2,6 @@
 
 * [2023-06-13, 12:59:24](https://news.ycombinator.com/item?id=36309620) - [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
 * [2023-06-13, 12:31:03](https://news.ycombinator.com/item?id=36309291) - [NVD Damage Continued](https://daniel.haxx.se/blog/2023/06/12/nvd-damage-continued/)
-* [2023-06-13, 12:24:32](https://news.ycombinator.com/item?id=36309211) - [Damus to be removed from App Store as zaps could be used to sell digital content](https://twitter.com/damusapp/status/1668529709867495424)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for Developers Using React](https://resend.com)
 * [2023-06-13, 12:03:59](https://news.ycombinator.com/item?id=36308993) - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
@@ -17,6 +16,7 @@
 * [2023-06-13, 00:23:14](https://news.ycombinator.com/item?id=36303371) - [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h#L56-L75)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A new experiment casts doubt on the leading theory of the nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
+* [2023-06-12, 22:38:31](https://news.ycombinator.com/item?id=36302316) - [Radio on the TV](https://computer.rip/2023-06-12-radio-on-the-tv.html)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
 * [2023-06-12, 22:31:10](https://news.ycombinator.com/item?id=36302222) - [The Semiconductor Industry’s Most Important Tool Goes Green](https://spectrum.ieee.org/euv-lithography)
 * [2023-06-12, 22:12:39](https://news.ycombinator.com/item?id=36302002) - [Don't use custom CSS scrollbars](https://ericwbailey.website/published/dont-use-custom-css-scrollbars/)
