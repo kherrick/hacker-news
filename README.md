@@ -8,6 +8,7 @@
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304143) - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
 * [2023-06-13, 01:30:22](https://news.ycombinator.com/item?id=36303955) - [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
 * [2023-06-13, 00:23:14](https://news.ycombinator.com/item?id=36303371) - [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
+* [2023-06-12, 23:47:37](https://news.ycombinator.com/item?id=36303074) - [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A new experiment casts doubt on the leading theory of the nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
@@ -18,7 +19,6 @@
 * [2023-06-12, 21:17:25](https://news.ycombinator.com/item?id=36301276) - [What is Social Status?](https://www.robkhenderson.com/p/what-is-social-status)
 * [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
 * [2023-06-12, 20:28:50](https://news.ycombinator.com/item?id=36300539) - [The Adventures of Writing a CHIP8 Emulator](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/)
-* [2023-06-12, 20:22:40](https://news.ycombinator.com/item?id=36300439) - [MDMA moves from club drug to real therapy](https://www.scientificamerican.com/podcast/episode/mdma-moves-from-club-drug-to-real-therapy/)
 * [2023-06-12, 20:21:08](https://news.ycombinator.com/item?id=36300410) - [The US government is buying troves of data about Americans](https://www.wired.com/story/odni-commercially-available-information-report/)
 * [2023-06-12, 19:25:01](https://news.ycombinator.com/item?id=36299543) - [Lisp Game Jam – “Wireworld” in WebAssembly Using Spritely's Hoot Project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:04:59](https://news.ycombinator.com/item?id=36299246) - [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
@@ -29,7 +29,7 @@
 * [2023-06-12, 17:02:59](https://news.ycombinator.com/item?id=36296882) - [Killing Community](https://www.marginalia.nu/log/82_killing_community)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
-* [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
+* [2023-06-12, 07:10:41](https://news.ycombinator.com/item?id=36289493) - [The Mobian Bookworm has landed](https://blog.mobian.org/posts/2023/06/10/bookworm/)
 
 ## [Archives](archives/index.md)
 
