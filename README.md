@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 20:13:35](https://news.ycombinator.com/item?id=36316311) - [ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
 * [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
 * [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy, Novelist of a Darker America, Is Dead at 89](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
 * [2023-06-13, 19:53:45](https://news.ycombinator.com/item?id=36315989) - [A microblog powered by The Onion Router (Tor)](https://play.google.com/store/apps/details?id=app.Blackpage.Blackpage&hl=en_US)
@@ -28,7 +29,6 @@
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby is decadent and depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 * [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
-* [2023-06-13, 00:50:55](https://news.ycombinator.com/item?id=36303626) - [The Perilous Life of the Solitary Pangolin](https://nautil.us/the-perilous-life-of-the-solitary-pangolin-310091/)
 * [2023-06-12, 22:37:31](https://news.ycombinator.com/item?id=36302303) - [Mapping pedestrian traffic light timing in Sydney, Australia](https://jakecoppinger.com/2023/06/mapping-pedestrian-traffic-light-timing-in-sydney-australia/)
 
 ## [Archives](archives/index.md)
