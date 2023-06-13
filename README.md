@@ -25,9 +25,9 @@
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby Is Decadent and Depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
+* [2023-06-13, 00:50:55](https://news.ycombinator.com/item?id=36303626) - [The Perilous Life of the Solitary Pangolin](https://nautil.us/the-perilous-life-of-the-solitary-pangolin-310091/)
 * [2023-06-12, 23:04:50](https://news.ycombinator.com/item?id=36302629) - [A Baking Soda Solution for Clean Hydrogen Storage](https://www.pnnl.gov/news-media/baking-soda-solution-clean-hydrogen-storage)
 * [2023-06-12, 22:37:31](https://news.ycombinator.com/item?id=36302303) - [Mapping pedestrian traffic light timing in Sydney, Australia](https://jakecoppinger.com/2023/06/mapping-pedestrian-traffic-light-timing-in-sydney-australia/)
-* [2023-06-12, 21:36:07](https://news.ycombinator.com/item?id=36301524) - [The Cargo Cult of the Ennui Engine](https://medium.com/@max.p.schlienger/the-cargo-cult-of-the-ennui-engine-890c541cebcb)
 * [2023-06-12, 21:20:54](https://news.ycombinator.com/item?id=36301326) - [How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
 

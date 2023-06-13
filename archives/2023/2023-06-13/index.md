@@ -58,6 +58,7 @@
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304143) - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304142) - [Wall Street scooped up a third of Texas single family homes sold last year](https://therealdeal.com/texas/2022/06/14/wall-street-scooped-up-almost-a-third-of-all-texas-single-family-homes-sold-last-year/)
 * [2023-06-13, 01:30:22](https://news.ycombinator.com/item?id=36303955) - [Vintage National Geographic Photos](https://vintagenatgeographic.tumblr.com/)
+* [2023-06-13, 00:50:55](https://news.ycombinator.com/item?id=36303626) - [The Perilous Life of the Solitary Pangolin](https://nautil.us/the-perilous-life-of-the-solitary-pangolin-310091/)
 * [2023-06-13, 00:32:37](https://news.ycombinator.com/item?id=36303447) - [MrBeast has become a viral sensation for his acts of altruism](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
 * [2023-06-13, 00:23:14](https://news.ycombinator.com/item?id=36303371) - [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
 * [2023-06-13, 00:20:59](https://news.ycombinator.com/item?id=36303355) - [Making a less crappy web app](https://www.usebracket.com/post/announcing-brackets-new-web-app)
