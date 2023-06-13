@@ -9,6 +9,7 @@
 * [2023-06-12, 23:32:29](https://news.ycombinator.com/item?id=36302937) - [US Rural Hospital Closures Since 2005](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h#L56-L75)
+* [2023-06-12, 23:04:50](https://news.ycombinator.com/item?id=36302629) - [A Baking Soda Solution for Clean Hydrogen Storage](https://www.pnnl.gov/news-media/baking-soda-solution-clean-hydrogen-storage)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 * [2023-06-12, 22:45:12](https://news.ycombinator.com/item?id=36302399) - [The Case Against Denormalization](https://datademythed.com/posts/the-case-against-denormalization/)
 * [2023-06-12, 22:38:31](https://news.ycombinator.com/item?id=36302316) - [Radio on the TV](https://computer.rip/2023-06-12-radio-on-the-tv.html)
