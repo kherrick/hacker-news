@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-13, 19:08:43](https://news.ycombinator.com/item?id=36315300) - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
+* [2023-06-13, 18:54:18](https://news.ycombinator.com/item?id=36315043) - [If you want people to show up, data shows these are the best meeting times](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
 * [2023-06-13, 18:35:17](https://news.ycombinator.com/item?id=36314744) - [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
 * [2023-06-13, 18:08:16](https://news.ycombinator.com/item?id=36314225) - [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
@@ -23,13 +24,12 @@
 * [2023-06-13, 12:03:59](https://news.ycombinator.com/item?id=36308993) - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby Is Decadent and Depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
+* [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
 * [2023-06-13, 00:50:55](https://news.ycombinator.com/item?id=36303626) - [The Perilous Life of the Solitary Pangolin](https://nautil.us/the-perilous-life-of-the-solitary-pangolin-310091/)
 * [2023-06-12, 23:04:50](https://news.ycombinator.com/item?id=36302629) - [A Baking Soda Solution for Clean Hydrogen Storage](https://www.pnnl.gov/news-media/baking-soda-solution-clean-hydrogen-storage)
 * [2023-06-12, 22:37:31](https://news.ycombinator.com/item?id=36302303) - [Mapping pedestrian traffic light timing in Sydney, Australia](https://jakecoppinger.com/2023/06/mapping-pedestrian-traffic-light-timing-in-sydney-australia/)
-* [2023-06-12, 22:31:10](https://news.ycombinator.com/item?id=36302222) - [The Semiconductor Industry’s Most Important Tool Goes Green](https://spectrum.ieee.org/euv-lithography)
 * [2023-06-12, 21:20:54](https://news.ycombinator.com/item?id=36301326) - [How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
-* [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
 
 ## [Archives](archives/index.md)
 

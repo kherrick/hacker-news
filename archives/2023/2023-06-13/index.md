@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
 * [2023-06-13, 19:08:43](https://news.ycombinator.com/item?id=36315300) - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
+* [2023-06-13, 18:54:18](https://news.ycombinator.com/item?id=36315043) - [If you want people to show up, data shows these are the best meeting times](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
 * [2023-06-13, 18:35:17](https://news.ycombinator.com/item?id=36314744) - [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
 * [2023-06-13, 18:08:16](https://news.ycombinator.com/item?id=36314225) - [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
@@ -49,6 +50,7 @@
 * [2023-06-13, 10:41:59](https://news.ycombinator.com/item?id=36308196) - [The duck in the room – the end of baseload](https://jeromeaparis.substack.com/p/the-duck-in-the-room-the-end-of-baseload)
 * [2023-06-13, 09:45:04](https://news.ycombinator.com/item?id=36307810) - [Ask HN: Is there a good camping chair that is comfortable for programming?](https://news.ycombinator.com/item?id=36307810)
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby Is Decadent and Depraved [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
+* [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
 * [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
 * [2023-06-13, 04:22:46](https://news.ycombinator.com/item?id=36305271) - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
