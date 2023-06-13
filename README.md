@@ -13,7 +13,7 @@
 * [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-06-13, 16:25:16](https://news.ycombinator.com/item?id=36312603) - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
 * [2023-06-13, 16:19:56](https://news.ycombinator.com/item?id=36312488) - [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
-* [2023-06-13, 16:13:37](https://news.ycombinator.com/item?id=36312385) - [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
+* [2023-06-13, 16:13:37](https://news.ycombinator.com/item?id=36312385) - [Andromeda Cluster: 10 exaflops* for startups](https://andromedacluster.com/)
 * [2023-06-13, 16:08:12](https://news.ycombinator.com/item?id=36312295) - [Working quickly is more important than it seems (2015)](http://jsomers.net/blog/speed-matters)
 * [2023-06-13, 16:01:39](https://news.ycombinator.com/item?id=36312200) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2023-06-13, 14:27:35](https://news.ycombinator.com/item?id=36310689) - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
