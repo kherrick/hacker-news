@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 14:01:30](https://news.ycombinator.com/item?id=36310354) - [Money, the Unit of Caring (2009)](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring)
+* [2023-06-13, 13:50:34](https://news.ycombinator.com/item?id=36310218) - [GameStop Terminates CEO Amidst Declining Revenue](https://www.animenewsnetwork.com/news/2023-06-12/gamestop-terminates-ceo-amidst-declining-revenue/.199025)
 * [2023-06-13, 13:44:11](https://news.ycombinator.com/item?id=36310145) - [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
+* [2023-06-13, 13:43:05](https://news.ycombinator.com/item?id=36310130) - [Rewriting the Ruby Parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
+* [2023-06-13, 13:27:49](https://news.ycombinator.com/item?id=36309928) - [Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
 * [2023-06-13, 12:59:24](https://news.ycombinator.com/item?id=36309620) - [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
 * [2023-06-13, 12:33:04](https://news.ycombinator.com/item?id=36309309) - [Is map-reading a lost art? In era of GPS, here's what map fans say we're losing](https://www.cbc.ca/news/canada/maps-cartography-skill-1.6871726)
 * [2023-06-13, 12:31:03](https://news.ycombinator.com/item?id=36309291) - [NVD Damage Continued](https://daniel.haxx.se/blog/2023/06/12/nvd-damage-continued/)
