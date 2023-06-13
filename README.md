@@ -29,7 +29,7 @@
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby is decadent and depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 * [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
-* [2023-06-12, 22:37:31](https://news.ycombinator.com/item?id=36302303) - [Mapping pedestrian traffic light timing in Sydney, Australia](https://jakecoppinger.com/2023/06/mapping-pedestrian-traffic-light-timing-in-sydney-australia/)
+* [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
 ## [Archives](archives/index.md)
 

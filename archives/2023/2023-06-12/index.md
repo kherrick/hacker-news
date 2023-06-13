@@ -41,6 +41,7 @@
 * [2023-06-12, 18:48:53](https://news.ycombinator.com/item?id=36298962) - [Apple Silicon Mac Pro uses PCIe switches to support all slots](https://social.treehouse.systems/@marcan/110494017883893557)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
 * [2023-06-12, 18:44:50](https://news.ycombinator.com/item?id=36298891) - [A New Antitrust Doctrine](https://www.platformonomics.com/2023/04/a-new-antitrust-doctrine/)
+* [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 * [2023-06-12, 18:32:58](https://news.ycombinator.com/item?id=36298658) - [How Dowries Are Fuelling a Femicide Epidemic](https://www.newyorker.com/magazine/2023/06/19/how-dowries-are-fuelling-a-femicide-epidemic)
 * [2023-06-12, 18:32:38](https://news.ycombinator.com/item?id=36298655) - [Escape from Silicon Valley (alternative visions of computation)](https://monroelab.net/escape-from-silicon-valley-alternative-visions-of-computation)
 * [2023-06-12, 18:21:15](https://news.ycombinator.com/item?id=36298441) - [Phison is the largest SSD supplier you’ve never heard of](https://blocksandfiles.com/2023/06/12/phison-largest-ssd-supplier-no-one-knows-about/)
