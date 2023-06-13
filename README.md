@@ -5,7 +5,7 @@
 * [2023-06-13, 20:41:18](https://news.ycombinator.com/item?id=36316883) - [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
 * [2023-06-13, 20:22:18](https://news.ycombinator.com/item?id=36316489) - [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)
 * [2023-06-13, 20:13:35](https://news.ycombinator.com/item?id=36316311) - [ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
-* [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
+* [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's just dropped a brand new Game Boy game](https://retrododo.com/mcdonalds-grimaces-birthday/)
 * [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy has died](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
 * [2023-06-13, 19:39:56](https://news.ycombinator.com/item?id=36315796) - [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 * [2023-06-13, 19:08:43](https://news.ycombinator.com/item?id=36315300) - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
