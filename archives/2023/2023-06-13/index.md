@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for Developers Using React](https://resend.com)
 * [2023-06-13, 12:03:59](https://news.ycombinator.com/item?id=36308993) - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
 * [2023-06-13, 11:21:24](https://news.ycombinator.com/item?id=36308489) - [Opinion: Geoengineering Is Shockingly Inexpensive](https://phys.org/news/2023-06-opinion-geoengineering-inexpensive.html)
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
@@ -12,6 +13,7 @@
 * [2023-06-13, 10:46:47](https://news.ycombinator.com/item?id=36308241) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)
 * [2023-06-13, 10:41:59](https://news.ycombinator.com/item?id=36308196) - [The duck in the room – the end of baseload](https://jeromeaparis.substack.com/p/the-duck-in-the-room-the-end-of-baseload)
 * [2023-06-13, 09:45:04](https://news.ycombinator.com/item?id=36307810) - [Ask HN: Is there a good camping chair that is comfortable for programming?](https://news.ycombinator.com/item?id=36307810)
+* [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby Is Decadent and Depraved [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 * [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
 * [2023-06-13, 04:22:46](https://news.ycombinator.com/item?id=36305271) - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
