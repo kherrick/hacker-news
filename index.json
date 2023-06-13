@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-13, 11:00:42",
+      "https://news.ycombinator.com/item?id=36308346"
+    ],
+    [
+      "Ask HN: Legality of archiving/re-hosting Reddit content",
+      "https://news.ycombinator.com/item?id=36308346"
+    ]
+  ],
+  [
+    [
+      "2023-06-13, 10:41:59",
+      "https://news.ycombinator.com/item?id=36308196"
+    ],
+    [
+      "The duck in the room – the end of baseload",
+      "https://jeromeaparis.substack.com/p/the-duck-in-the-room-the-end-of-baseload"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 09:45:04",
       "https://news.ycombinator.com/item?id=36307810"
     ],
@@ -86,7 +106,7 @@
     ],
     [
       "Why sqlite3 temp files were renamed 'etilqs_*' (2006)",
-      "https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h"
+      "https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h#L56-L75"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-12, 20:22:40",
-      "https://news.ycombinator.com/item?id=36300439"
-    ],
-    [
-      "MDMA moves from club drug to real therapy",
-      "https://www.scientificamerican.com/podcast/episode/mdma-moves-from-club-drug-to-real-therapy/"
-    ]
-  ],
-  [
-    [
       "2023-06-12, 20:21:08",
       "https://news.ycombinator.com/item?id=36300410"
     ],
@@ -237,16 +247,6 @@
     [
       "Remains of an extinct world of organisms discovered",
       "https://phys.org/news/2023-06-extinct-world.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 18:48:53",
-      "https://news.ycombinator.com/item?id=36298962"
-    ],
-    [
-      "Apple Silicon Mac Pro uses PCIe switches to support all slots",
-      "https://social.treehouse.systems/@marcan/110494017883893557"
     ]
   ],
   [
