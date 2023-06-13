@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2023-06-12, 23:47:37",
+      "https://news.ycombinator.com/item?id=36303074"
+    ],
+    [
+      "Converting Full Terraform Programs to Pulumi",
+      "https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 23:20:28",
       "https://news.ycombinator.com/item?id=36302805"
     ],
@@ -177,16 +187,6 @@
     [
       "The Adventures of Writing a CHIP8 Emulator",
       "https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 20:22:40",
-      "https://news.ycombinator.com/item?id=36300439"
-    ],
-    [
-      "MDMA moves from club drug to real therapy",
-      "https://www.scientificamerican.com/podcast/episode/mdma-moves-from-club-drug-to-real-therapy/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-06-12, 07:20:18",
-      "https://news.ycombinator.com/item?id=36289580"
+      "2023-06-12, 07:10:41",
+      "https://news.ycombinator.com/item?id=36289493"
     ],
     [
-      "Scripting with Elixir",
-      "https://underjord.io/scripting-with-elixir.html"
+      "The Mobian Bookworm has landed",
+      "https://blog.mobian.org/posts/2023/06/10/bookworm/"
     ]
   ]
 ]
