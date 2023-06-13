@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [Lewis Hine’s early 20th-century “photo stories”](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 20:52:32](https://news.ycombinator.com/item?id=36317086) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:41:18](https://news.ycombinator.com/item?id=36316883) - [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
@@ -24,7 +25,6 @@
 * [2023-06-13, 13:43:05](https://news.ycombinator.com/item?id=36310130) - [Rewriting the Ruby parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
-* [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby is decadent and depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 * [2023-06-13, 07:48:03](https://news.ycombinator.com/item?id=36306948) - [Screwing up my page tables](https://axleos.com/screwing-up-my-page-tables/)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
 * [2023-06-13, 05:04:40](https://news.ycombinator.com/item?id=36305640) - [A Good Fountain Pen Lets You Enjoy the Finer Things in Life (2022)](https://www.wired.com/story/lamy-2000-fountain-pen-rave/)

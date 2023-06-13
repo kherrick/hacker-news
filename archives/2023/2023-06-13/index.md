@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [The Photographer Who Forced the U.S. to Confront Its Child Labor Problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 20:52:32](https://news.ycombinator.com/item?id=36317086) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:45:18](https://news.ycombinator.com/item?id=36316950) - [Reddit stripping moderators of rights and forcing subreddits to go public](https://famichiki.jp/@Tsutsuku/110537730270070245)
