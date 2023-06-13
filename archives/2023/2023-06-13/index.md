@@ -6,6 +6,7 @@
 
 * [2023-06-13, 14:27:35](https://news.ycombinator.com/item?id=36310689) - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
 * [2023-06-13, 14:22:36](https://news.ycombinator.com/item?id=36310619) - [Microsoft Bringing OpenAI’s GPT-4 AI Model to US Government Agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)
+* [2023-06-13, 14:07:59](https://news.ycombinator.com/item?id=36310427) - [Westfield Walks Away from Downtown San Francisco Mall Property](https://www.bloomberg.com/news/articles/2023-06-12/westfield-giving-up-san-francisco-mall-in-mounting-pain-for-city)
 * [2023-06-13, 14:01:30](https://news.ycombinator.com/item?id=36310354) - [Money, the Unit of Caring (2009)](https://www.lesswrong.com/posts/ZpDnRCeef2CLEFeKM/money-the-unit-of-caring)
 * [2023-06-13, 13:50:34](https://news.ycombinator.com/item?id=36310218) - [GameStop Terminates CEO Amidst Declining Revenue](https://www.animenewsnetwork.com/news/2023-06-12/gamestop-terminates-ceo-amidst-declining-revenue/.199025)
 * [2023-06-13, 13:44:11](https://news.ycombinator.com/item?id=36310145) - [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
