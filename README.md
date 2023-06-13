@@ -9,7 +9,6 @@
 * [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy has died](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
 * [2023-06-13, 19:39:56](https://news.ycombinator.com/item?id=36315796) - [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 * [2023-06-13, 19:08:43](https://news.ycombinator.com/item?id=36315300) - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
-* [2023-06-13, 18:54:18](https://news.ycombinator.com/item?id=36315043) - [If you want people to show up, data shows these are the best meeting times](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity is buying everything from vet offices to tech conglomerates](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 * [2023-06-13, 17:33:10](https://news.ycombinator.com/item?id=36313671) - [Finish your projects](https://github.com/readme/guides/finish-your-projects)
 * [2023-06-13, 17:25:34](https://news.ycombinator.com/item?id=36313562) - [Track HN: Survival Rate of Show HN Stories](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
@@ -28,6 +27,7 @@
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby is decadent and depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 * [2023-06-13, 07:48:03](https://news.ycombinator.com/item?id=36306948) - [Screwing up my page tables](https://axleos.com/screwing-up-my-page-tables/)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
+* [2023-06-13, 05:04:40](https://news.ycombinator.com/item?id=36305640) - [A Good Fountain Pen Lets You Enjoy the Finer Things in Life (2022)](https://www.wired.com/story/lamy-2000-fountain-pen-rave/)
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 

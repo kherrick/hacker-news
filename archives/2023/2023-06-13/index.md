@@ -67,6 +67,7 @@
 * [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
 * [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
+* [2023-06-13, 05:04:40](https://news.ycombinator.com/item?id=36305640) - [A Good Fountain Pen Lets You Enjoy the Finer Things in Life (2022)](https://www.wired.com/story/lamy-2000-fountain-pen-rave/)
 * [2023-06-13, 04:22:46](https://news.ycombinator.com/item?id=36305271) - [Hacking root EPP servers to take control of zones](https://hackcompute.com/hacking-epp-servers/)
 * [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
 * [2023-06-13, 03:37:03](https://news.ycombinator.com/item?id=36304880) - [Spezless – A Reddit clone without u/Spez](https://www.spezless.com/)
