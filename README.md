@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 17:10:26](https://news.ycombinator.com/item?id=36313348) - [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
 * [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-06-13, 16:25:16](https://news.ycombinator.com/item?id=36312603) - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
 * [2023-06-13, 16:19:56](https://news.ycombinator.com/item?id=36312488) - [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
+* [2023-06-13, 16:13:37](https://news.ycombinator.com/item?id=36312385) - [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
 * [2023-06-13, 16:08:12](https://news.ycombinator.com/item?id=36312295) - [Speed matters: Why working quickly is more important than it seems](http://jsomers.net/blog/speed-matters)
 * [2023-06-13, 16:01:39](https://news.ycombinator.com/item?id=36312200) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2023-06-13, 15:55:32](https://news.ycombinator.com/item?id=36312122) - [Apollo’s Christian Selig explains his fight with Reddit – and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)
@@ -11,7 +13,6 @@
 * [2023-06-13, 14:21:02](https://news.ycombinator.com/item?id=36310594) - [Hackers can steal cryptographic keys by video-recording power LEDs 60 feet away](https://arstechnica.com/information-technology/2023/06/hackers-can-steal-cryptographic-keys-by-video-recording-connected-power-leds-60-feet-away/)
 * [2023-06-13, 13:44:11](https://news.ycombinator.com/item?id=36310145) - [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
 * [2023-06-13, 13:43:05](https://news.ycombinator.com/item?id=36310130) - [Rewriting the Ruby Parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
-* [2023-06-13, 13:27:49](https://news.ycombinator.com/item?id=36309928) - [Stochastic Parrot](https://en.wikipedia.org/wiki/Stochastic_parrot)
 * [2023-06-13, 12:59:24](https://news.ycombinator.com/item?id=36309620) - [U.S. Spy Agencies Buy Vast Quantities of Americans’ Personal Data](https://www.wsj.com/articles/u-s-spy-agencies-buy-vast-quantities-of-americans-personal-data-report-says-f47ec3ad)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for Developers Using React](https://resend.com)
 * [2023-06-13, 12:03:59](https://news.ycombinator.com/item?id=36308993) - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
@@ -27,7 +28,6 @@
 * [2023-06-12, 22:31:10](https://news.ycombinator.com/item?id=36302222) - [The Semiconductor Industry’s Most Important Tool Goes Green](https://spectrum.ieee.org/euv-lithography)
 * [2023-06-12, 21:36:07](https://news.ycombinator.com/item?id=36301524) - [The Cargo Cult of the Ennui Engine](https://medium.com/@max.p.schlienger/the-cargo-cult-of-the-ennui-engine-890c541cebcb)
 * [2023-06-12, 21:20:54](https://news.ycombinator.com/item?id=36301326) - [How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
-* [2023-06-12, 19:25:01](https://news.ycombinator.com/item?id=36299543) - [Lisp Game Jam – “Wireworld” in WebAssembly Using Spritely's Hoot Project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 
