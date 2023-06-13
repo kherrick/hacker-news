@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
-* [2023-06-13, 11:00:42](https://news.ycombinator.com/item?id=36308346) - [Ask HN: Legality of archiving/re-hosting Reddit content](https://news.ycombinator.com/item?id=36308346)
 * [2023-06-13, 10:59:09](https://news.ycombinator.com/item?id=36308333) - [Scientists beam solar power to Earth from space for first time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
 * [2023-06-13, 10:46:47](https://news.ycombinator.com/item?id=36308241) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)
 * [2023-06-13, 10:41:59](https://news.ycombinator.com/item?id=36308196) - [The duck in the room – the end of baseload](https://jeromeaparis.substack.com/p/the-duck-in-the-room-the-end-of-baseload)
@@ -21,6 +20,7 @@
 * [2023-06-12, 21:54:16](https://news.ycombinator.com/item?id=36301758) - [In praise of blowing up your life](https://sashachapin.substack.com/p/in-praise-of-blowing-up-your-life)
 * [2023-06-12, 21:36:07](https://news.ycombinator.com/item?id=36301524) - [The Cargo Cult of the Ennui Engine](https://medium.com/@max.p.schlienger/the-cargo-cult-of-the-ennui-engine-890c541cebcb)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
+* [2023-06-12, 21:20:54](https://news.ycombinator.com/item?id=36301326) - [How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
 * [2023-06-12, 21:17:25](https://news.ycombinator.com/item?id=36301276) - [What is Social Status?](https://www.robkhenderson.com/p/what-is-social-status)
 * [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
 * [2023-06-12, 20:28:50](https://news.ycombinator.com/item?id=36300539) - [The Adventures of Writing a CHIP8 Emulator](https://benjcal.space/posts/the-adventures-of-writing-a-chip8-emulator-part-1/)

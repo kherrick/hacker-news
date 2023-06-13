@@ -17,6 +17,7 @@
 * [2023-06-12, 21:54:16](https://news.ycombinator.com/item?id=36301758) - [In praise of blowing up your life](https://sashachapin.substack.com/p/in-praise-of-blowing-up-your-life)
 * [2023-06-12, 21:36:07](https://news.ycombinator.com/item?id=36301524) - [The Cargo Cult of the Ennui Engine](https://medium.com/@max.p.schlienger/the-cargo-cult-of-the-ennui-engine-890c541cebcb)
 * [2023-06-12, 21:21:33](https://news.ycombinator.com/item?id=36301337) - [Show HN: Zsync, a Reddit Alternative with the Goal to Reward Quality Comments](https://zsync.xyz/)
+* [2023-06-12, 21:20:54](https://news.ycombinator.com/item?id=36301326) - [How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
 * [2023-06-12, 21:17:25](https://news.ycombinator.com/item?id=36301276) - [What is Social Status? Understanding dominance, prestige, and power](https://www.robkhenderson.com/p/what-is-social-status)
 * [2023-06-12, 20:55:03](https://news.ycombinator.com/item?id=36300958) - [US Patent Office proposes rule to make it much harder to kill bad patents](https://www.techdirt.com/2023/06/08/us-patent-office-proposes-rule-to-make-it-much-harder-to-kill-bad-patents/)
 * [2023-06-12, 20:46:17](https://news.ycombinator.com/item?id=36300822) - [Billionaire Jeff Bezos Just Bought One Share of Amazon and No One Knows Why](https://www.bloomberg.com/news/articles/2023-06-09/billionaire-jeff-bezos-just-bought-one-share-of-amazon-and-no-one-knows-why)
