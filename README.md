@@ -24,12 +24,12 @@
 * [2023-06-12, 18:52:52](https://news.ycombinator.com/item?id=36299029) - [Remains of an extinct world of organisms discovered](https://phys.org/news/2023-06-extinct-world.html)
 * [2023-06-12, 18:48:53](https://news.ycombinator.com/item?id=36298962) - [Apple Silicon Mac Pro uses PCIe switches to support all slots](https://social.treehouse.systems/@marcan/110494017883893557)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
-* [2023-06-12, 17:59:34](https://news.ycombinator.com/item?id=36298038) - [The continuing tragedy of CSS](https://paulrobertlloyd.com/2023/162/a1/css_day/)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's sorting algorithm](https://justine.lol/sorting/)
 * [2023-06-12, 17:02:59](https://news.ycombinator.com/item?id=36296882) - [Killing Community](https://www.marginalia.nu/log/82_killing_community)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
+* [2023-06-12, 07:10:41](https://news.ycombinator.com/item?id=36289493) - [The Mobian Bookworm has landed](https://blog.mobian.org/posts/2023/06/10/bookworm/)
 
 ## [Archives](archives/index.md)
 
