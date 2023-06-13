@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 17:33:46](https://news.ycombinator.com/item?id=36313677) - [Reddit CEO tells employees that subreddit blackout ‘will pass’](https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman)
 * [2023-06-13, 17:32:39](https://news.ycombinator.com/item?id=36313664) - [All the Single Ladies – Men floundering, women most affected](https://www.robkhenderson.com/p/all-the-single-ladies)
 * [2023-06-13, 17:10:26](https://news.ycombinator.com/item?id=36313348) - [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
 * [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -20,7 +21,6 @@
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby Is Decadent and Depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
-* [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
 * [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304143) - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
 * [2023-06-12, 23:04:50](https://news.ycombinator.com/item?id=36302629) - [A Baking Soda Solution for Clean Hydrogen Storage](https://www.pnnl.gov/news-media/baking-soda-solution-clean-hydrogen-storage)
