@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 17:32:39](https://news.ycombinator.com/item?id=36313664) - [All the Single Ladies – Men floundering, women most affected](https://www.robkhenderson.com/p/all-the-single-ladies)
 * [2023-06-13, 17:10:26](https://news.ycombinator.com/item?id=36313348) - [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
 * [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-06-13, 16:47:34](https://news.ycombinator.com/item?id=36313004) - [Tipping in the United States has gotten out of control](https://www.cnbc.com/2023/04/01/how-tipping-in-the-united-states-got-out-of-control.html)
 * [2023-06-13, 16:25:16](https://news.ycombinator.com/item?id=36312603) - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
 * [2023-06-13, 16:19:56](https://news.ycombinator.com/item?id=36312488) - [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
 * [2023-06-13, 16:13:37](https://news.ycombinator.com/item?id=36312385) - [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
@@ -22,14 +24,12 @@
 * [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304143) - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
 * [2023-06-12, 23:04:50](https://news.ycombinator.com/item?id=36302629) - [A Baking Soda Solution for Clean Hydrogen Storage](https://www.pnnl.gov/news-media/baking-soda-solution-clean-hydrogen-storage)
-* [2023-06-12, 22:45:12](https://news.ycombinator.com/item?id=36302399) - [The Case Against Denormalization](https://datademythed.com/posts/the-case-against-denormalization/)
 * [2023-06-12, 22:38:31](https://news.ycombinator.com/item?id=36302316) - [Radio on the TV](https://computer.rip/2023-06-12-radio-on-the-tv.html)
 * [2023-06-12, 22:37:31](https://news.ycombinator.com/item?id=36302303) - [Mapping pedestrian traffic light timing in Sydney, Australia](https://jakecoppinger.com/2023/06/mapping-pedestrian-traffic-light-timing-in-sydney-australia/)
 * [2023-06-12, 22:31:10](https://news.ycombinator.com/item?id=36302222) - [The Semiconductor Industry’s Most Important Tool Goes Green](https://spectrum.ieee.org/euv-lithography)
 * [2023-06-12, 21:36:07](https://news.ycombinator.com/item?id=36301524) - [The Cargo Cult of the Ennui Engine](https://medium.com/@max.p.schlienger/the-cargo-cult-of-the-ennui-engine-890c541cebcb)
 * [2023-06-12, 21:20:54](https://news.ycombinator.com/item?id=36301326) - [How some common material imbalances affect your win-rate](https://lichess.org/@/marcusbuffett/blog/how-some-common-material-imbalances-affect-your-win-rate/kxVKLBTj)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
-* [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 
 ## [Archives](archives/index.md)
 

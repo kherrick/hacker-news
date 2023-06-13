@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 17:32:39](https://news.ycombinator.com/item?id=36313664) - [All the Single Ladies – Men floundering, women most affected](https://www.robkhenderson.com/p/all-the-single-ladies)
 * [2023-06-13, 17:10:26](https://news.ycombinator.com/item?id=36313348) - [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
 * [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2023-06-13, 16:47:34](https://news.ycombinator.com/item?id=36313004) - [Tipping in the United States has gotten out of control](https://www.cnbc.com/2023/04/01/how-tipping-in-the-united-states-got-out-of-control.html)
 * [2023-06-13, 16:25:16](https://news.ycombinator.com/item?id=36312603) - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
 * [2023-06-13, 16:19:56](https://news.ycombinator.com/item?id=36312488) - [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
 * [2023-06-13, 16:13:37](https://news.ycombinator.com/item?id=36312385) - [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
