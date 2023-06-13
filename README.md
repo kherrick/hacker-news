@@ -24,12 +24,12 @@
 * [2023-06-12, 19:04:59](https://news.ycombinator.com/item?id=36299246) - [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
 * [2023-06-12, 17:30:54](https://news.ycombinator.com/item?id=36297476) - [Understanding DeepMind's sorting algorithm](https://justine.lol/sorting/)
 * [2023-06-12, 17:02:59](https://news.ycombinator.com/item?id=36296882) - [Killing Community](https://www.marginalia.nu/log/82_killing_community)
+* [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:35:04](https://news.ycombinator.com/item?id=36296282) - [Pixelfed Introduces Import from Instagram](https://pixelfed.blog/p/2023/feature/introducing-import-from-instagram)
 * [2023-06-12, 15:31:55](https://news.ycombinator.com/item?id=36295227) - [Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
-* [2023-06-12, 07:10:41](https://news.ycombinator.com/item?id=36289493) - [The Mobian Bookworm has landed](https://blog.mobian.org/posts/2023/06/10/bookworm/)
 
 ## [Archives](archives/index.md)
 
