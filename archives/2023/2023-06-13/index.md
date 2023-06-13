@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 20:22:18](https://news.ycombinator.com/item?id=36316489) - [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)
 * [2023-06-13, 20:13:35](https://news.ycombinator.com/item?id=36316311) - [ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
 * [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
 * [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy, Novelist of a Darker America, Is Dead at 89](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 20:22:18](https://news.ycombinator.com/item?id=36316489) - [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)
 * [2023-06-13, 20:13:35](https://news.ycombinator.com/item?id=36316311) - [ZX81 Mechanical Keyboard](https://github.com/swetland/zx81-keyboard)
 * [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's Just Dropped a Brand New Game Boy Game in 2023](https://retrododo.com/mcdonalds-grimaces-birthday/)
 * [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy, Novelist of a Darker America, Is Dead at 89](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
@@ -11,7 +12,6 @@
 * [2023-06-13, 18:35:17](https://news.ycombinator.com/item?id=36314744) - [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity is buying everything from vet offices to tech conglomerates](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 * [2023-06-13, 17:33:10](https://news.ycombinator.com/item?id=36313671) - [Finish your projects](https://github.com/readme/guides/finish-your-projects)
-* [2023-06-13, 17:32:39](https://news.ycombinator.com/item?id=36313664) - [Dating, education, and sex ratios](https://www.robkhenderson.com/p/all-the-single-ladies)
 * [2023-06-13, 17:25:34](https://news.ycombinator.com/item?id=36313562) - [Track HN: Survival Rate of Show HN Stories](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
 * [2023-06-13, 17:10:26](https://news.ycombinator.com/item?id=36313348) - [Function calling and other API updates](https://openai.com/blog/function-calling-and-other-api-updates)
 * [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
@@ -27,8 +27,8 @@
 * [2023-06-13, 12:03:59](https://news.ycombinator.com/item?id=36308993) - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby is decadent and depraved (1970) [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
-* [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
+* [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
 ## [Archives](archives/index.md)
