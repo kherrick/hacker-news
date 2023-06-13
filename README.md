@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
+* [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 * [2023-06-13, 03:11:00](https://news.ycombinator.com/item?id=36304685) - [Xerox scanners randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 * [2023-06-13, 03:01:21](https://news.ycombinator.com/item?id=36304623) - [Meta to Buy Almost 7M Carbon Credits](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304143) - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
@@ -7,7 +9,6 @@
 * [2023-06-13, 00:32:37](https://news.ycombinator.com/item?id=36303447) - [MrBeast has become a viral sensation for his acts of altruism](https://www.nytimes.com/2023/06/12/magazine/mrbeast-youtube.html)
 * [2023-06-13, 00:23:14](https://news.ycombinator.com/item?id=36303371) - [BBEdit: Where Respect Is Due](https://apps.apple.com/us/story/id1435835881)
 * [2023-06-12, 23:47:37](https://news.ycombinator.com/item?id=36303074) - [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
-* [2023-06-12, 23:32:29](https://news.ycombinator.com/item?id=36302937) - [US Rural Hospital Closures Since 2005](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A new experiment casts doubt on the leading theory of the nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
@@ -25,7 +26,6 @@
 * [2023-06-12, 17:00:43](https://news.ycombinator.com/item?id=36296826) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 16:35:04](https://news.ycombinator.com/item?id=36296282) - [Pixelfed Introduces Import from Instagram](https://pixelfed.blog/p/2023/feature/introducing-import-from-instagram)
-* [2023-06-12, 15:40:47](https://news.ycombinator.com/item?id=36295364) - [Edge sends images you view online to Microsoft](https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/)
 * [2023-06-12, 15:31:55](https://news.ycombinator.com/item?id=36295227) - [Show HN: Stable Diffusion powered level editor for a 2D game](https://generalrobots.substack.com/p/dimension-hopper-part-1)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)

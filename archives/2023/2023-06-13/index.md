@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 03:48:31](https://news.ycombinator.com/item?id=36304979) - [Oyster: Towards Unsupervised Object Detection from Lidar Point Clouds](https://waabi.ai/oyster/)
+* [2023-06-13, 03:16:07](https://news.ycombinator.com/item?id=36304716) - [SnapFusion: Text-to-Image Diffusion Model on Mobile Devices Within Two Seconds](https://snap-research.github.io/SnapFusion/)
 * [2023-06-13, 03:11:00](https://news.ycombinator.com/item?id=36304685) - [Xerox scanners randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 * [2023-06-13, 03:01:21](https://news.ycombinator.com/item?id=36304623) - [Meta to Buy Almost 7M Carbon Credits](https://carboncredits.com/meta-to-buy-almost-7-million-carbon-credits-from-aspiration/)
 * [2023-06-13, 01:55:08](https://news.ycombinator.com/item?id=36304143) - [Llama.cpp: Full CUDA GPU Acceleration](https://github.com/ggerganov/llama.cpp/pull/1827)
