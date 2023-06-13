@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 * [2023-06-13, 11:00:42](https://news.ycombinator.com/item?id=36308346) - [Ask HN: Legality of archiving/re-hosting Reddit content](https://news.ycombinator.com/item?id=36308346)
 * [2023-06-13, 10:59:09](https://news.ycombinator.com/item?id=36308333) - [Scientists beam solar power to Earth from space for first time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
 * [2023-06-13, 10:46:47](https://news.ycombinator.com/item?id=36308241) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)

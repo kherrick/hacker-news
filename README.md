@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
 * [2023-06-13, 11:00:42](https://news.ycombinator.com/item?id=36308346) - [Ask HN: Legality of archiving/re-hosting Reddit content](https://news.ycombinator.com/item?id=36308346)
 * [2023-06-13, 10:59:09](https://news.ycombinator.com/item?id=36308333) - [Scientists beam solar power to Earth from space for first time ever](https://www.space.com/space-solar-power-satellite-beams-energy-1st-time)
 * [2023-06-13, 10:46:47](https://news.ycombinator.com/item?id=36308241) - [Why not tell people to “simply” use pyenv, poetry or anaconda](https://www.bitecode.dev/p/why-not-tell-people-to-simply-use)
@@ -27,7 +28,6 @@
 * [2023-06-12, 19:04:59](https://news.ycombinator.com/item?id=36299246) - [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
 * [2023-06-12, 18:52:52](https://news.ycombinator.com/item?id=36299029) - [Remains of an extinct world of organisms discovered](https://phys.org/news/2023-06-extinct-world.html)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
-* [2023-06-12, 17:02:59](https://news.ycombinator.com/item?id=36296882) - [Killing Community](https://www.marginalia.nu/log/82_killing_community)
 * [2023-06-12, 16:54:38](https://news.ycombinator.com/item?id=36296695) - [Show HN: Non.io, a Reddit-like platform Ive been working on for the last 4 years](https://non.io)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 
