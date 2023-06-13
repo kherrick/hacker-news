@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 04:22:46",
+      "https://news.ycombinator.com/item?id=36305271"
+    ],
+    [
+      "Hacking root EPP servers to take control of zones",
+      "https://hackcompute.com/hacking-epp-servers/"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 03:48:31",
       "https://news.ycombinator.com/item?id=36304979"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36304685"
     ],
     [
-      "Xerox scanners randomly alter numbers in scanned documents",
+      "Xerox scanners randomly alter numbers in scanned documents (2013)",
       "https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning"
     ]
   ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2023-06-12, 22:16:45",
-      "https://news.ycombinator.com/item?id=36302048"
-    ],
-    [
-      "Why are LLMs general learners?",
-      "https://intuitiveai.substack.com/p/why-are-large-language-models-general"
-    ]
-  ],
-  [
-    [
       "2023-06-12, 22:12:39",
       "https://news.ycombinator.com/item?id=36302002"
     ],
@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2023-06-12, 20:21:08",
-      "https://news.ycombinator.com/item?id=36300410"
-    ],
-    [
-      "The US government is buying troves of data about Americans",
-      "https://www.wired.com/story/odni-commercially-available-information-report/"
-    ]
-  ],
-  [
-    [
       "2023-06-12, 19:25:01",
       "https://news.ycombinator.com/item?id=36299543"
     ],
     [
       "Lisp Game Jam – “Wireworld” in WebAssembly Using Spritely's Hoot Project",
       "https://spritely.institute/news/hoot-wireworld-live-in-browser.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 19:04:59",
+      "https://news.ycombinator.com/item?id=36299246"
+    ],
+    [
+      "Orca: Progressive Learning from Complex Explanation Traces of GPT-4",
+      "https://arxiv.org/abs/2306.02707"
     ]
   ],
   [
