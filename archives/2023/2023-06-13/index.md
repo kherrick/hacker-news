@@ -61,6 +61,7 @@
 * [2023-06-13, 10:41:59](https://news.ycombinator.com/item?id=36308196) - [The duck in the room – the end of baseload](https://jeromeaparis.substack.com/p/the-duck-in-the-room-the-end-of-baseload)
 * [2023-06-13, 09:45:04](https://news.ycombinator.com/item?id=36307810) - [Ask HN: Is there a good camping chair that is comfortable for programming?](https://news.ycombinator.com/item?id=36307810)
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby Is Decadent and Depraved [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
+* [2023-06-13, 07:48:03](https://news.ycombinator.com/item?id=36306948) - [Screwing up my page tables](https://axleos.com/screwing-up-my-page-tables/)
 * [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
 * [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
