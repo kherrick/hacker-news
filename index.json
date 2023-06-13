@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 20:22:18",
+      "https://news.ycombinator.com/item?id=36316489"
+    ],
+    [
+      "Show HN: LLaMA tokenizer that runs in browser",
+      "https://github.com/belladoreai/llama-tokenizer-js"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 20:13:35",
       "https://news.ycombinator.com/item?id=36316311"
     ],
@@ -107,16 +117,6 @@
     [
       "Finish your projects",
       "https://github.com/readme/guides/finish-your-projects"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 17:32:39",
-      "https://news.ycombinator.com/item?id=36313664"
-    ],
-    [
-      "Dating, education, and sex ratios",
-      "https://www.robkhenderson.com/p/all-the-single-ladies"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-06-13, 07:12:15",
-      "https://news.ycombinator.com/item?id=36306662"
-    ],
-    [
-      "There are two levels of isolation when building Linux packages",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels"
-    ]
-  ],
-  [
-    [
       "2023-06-13, 07:06:31",
       "https://news.ycombinator.com/item?id=36306621"
     ],
     [
       "CudaText: Cross-platform, open source code editor written in Object Pascal",
       "https://cudatext.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 22:58:55",
+      "https://news.ycombinator.com/item?id=36302552"
+    ],
+    [
+      "A simple hash table in C",
+      "https://theleo.zone/posts/hashmap-in-c/"
     ]
   ],
   [
