@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-06-13](index.md)
 
+* [2023-06-13, 18:08:16](https://news.ycombinator.com/item?id=36314225) - [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
+* [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 * [2023-06-13, 17:34:47](https://news.ycombinator.com/item?id=36313694) - [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
 * [2023-06-13, 17:34:42](https://news.ycombinator.com/item?id=36313690) - [Sources Tell Me Some Messed Up Stuff Is Happening in Commercial Real Estate](https://innovationnation.blog/p/sources-tell-me-some-messed-up-stuff)
 * [2023-06-13, 17:33:46](https://news.ycombinator.com/item?id=36313677) - [Reddit CEO tells employees that subreddit blackout ‘will pass’](https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman)
 * [2023-06-13, 17:32:39](https://news.ycombinator.com/item?id=36313664) - [All the Single Ladies – Men floundering, women most affected](https://www.robkhenderson.com/p/all-the-single-ladies)
+* [2023-06-13, 17:25:34](https://news.ycombinator.com/item?id=36313562) - [Track HN: Survival Rate of 120,396 Show HN Stories (June 2023)](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
 * [2023-06-13, 17:10:26](https://news.ycombinator.com/item?id=36313348) - [OpenAI Function calling and API updates](https://openai.com/blog/function-calling-and-other-api-updates)
+* [2023-06-13, 17:05:32](https://news.ycombinator.com/item?id=36313278) - [Modern language models refute Chomsky’s approach to language](https://scholar.google.com/citations?view_op=view_citation&hl=de&user=zykJTC4AAAAJ&sortby=pubdate&citation_for_view=zykJTC4AAAAJ:gnsKu8c89wgC)
 * [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-06-13, 16:47:34](https://news.ycombinator.com/item?id=36313004) - [Tipping in the United States has gotten out of control](https://www.cnbc.com/2023/04/01/how-tipping-in-the-united-states-got-out-of-control.html)
 * [2023-06-13, 16:25:16](https://news.ycombinator.com/item?id=36312603) - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
