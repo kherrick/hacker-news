@@ -1,22 +1,12 @@
 [
   [
     [
-      "2023-06-13, 20:45:18",
-      "https://news.ycombinator.com/item?id=36316950"
+      "2023-06-13, 20:41:18",
+      "https://news.ycombinator.com/item?id=36316883"
     ],
     [
-      "Reddit stripping moderators of rights and forcing subreddits to go public",
-      "https://famichiki.jp/@Tsutsuku/110537730270070245"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 20:22:18",
-      "https://news.ycombinator.com/item?id=36316489"
-    ],
-    [
-      "Show HN: LLaMA tokenizer that runs in browser",
-      "https://github.com/belladoreai/llama-tokenizer-js"
+      "Open source hospital price database",
+      "https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "If you want people to show up, data shows these are the best meeting times",
       "https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/"
+    ]
+  ],
+  [
+    [
+      "2023-06-13, 18:35:17",
+      "https://news.ycombinator.com/item?id=36314744"
+    ],
+    [
+      "AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory",
+      "https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-06-13, 12:03:59",
-      "https://news.ycombinator.com/item?id=36308993"
-    ],
-    [
-      "Show HN: A smarter Unix shell and scripting environment",
-      "https://github.com/lmorg/murex"
-    ]
-  ],
-  [
-    [
       "2023-06-13, 11:03:14",
       "https://news.ycombinator.com/item?id=36308366"
     ],
@@ -267,6 +257,16 @@
     [
       "The Kentucky Derby is decadent and depraved (1970) [pdf]",
       "http://brianb.freeshell.org/a/kddd.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-13, 07:12:15",
+      "https://news.ycombinator.com/item?id=36306662"
+    ],
+    [
+      "There are two levels of isolation when building Linux packages",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels"
     ]
   ],
   [
