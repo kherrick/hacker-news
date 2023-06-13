@@ -1,0 +1,3 @@
+# [Published on 2023-06-12](index.md)
+
+* [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h#L56-L75)

@@ -8,6 +8,7 @@
 * [2023-06-12, 23:47:37](https://news.ycombinator.com/item?id=36303074) - [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
 * [2023-06-12, 23:32:29](https://news.ycombinator.com/item?id=36302937) - [US Rural Hospital Closures Since 2005](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
+* [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h#L56-L75)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
 * [2023-06-12, 22:16:45](https://news.ycombinator.com/item?id=36302048) - [Why are LLMs general learners?](https://intuitiveai.substack.com/p/why-are-large-language-models-general)
