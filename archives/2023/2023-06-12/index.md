@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-12](index.md)
 
+* [2023-06-12, 23:54:12](https://news.ycombinator.com/item?id=36303140) - [Westfield Gives Up Downtown San Francisco Mall](https://sfstandard.com/business/westfield-gives-up-downtown-san-francisco-mall/)
+* [2023-06-12, 23:47:37](https://news.ycombinator.com/item?id=36303074) - [Converting Full Terraform Programs to Pulumi](https://www.pulumi.com/blog/converting-full-terraform-programs-to-pulumi/)
+* [2023-06-12, 23:32:29](https://news.ycombinator.com/item?id=36302937) - [US Rural Hospital Closures Since 2005](https://www.shepscenter.unc.edu/programs-projects/rural-health/rural-hospital-closures/)
 * [2023-06-12, 23:20:28](https://news.ycombinator.com/item?id=36302805) - [Why sqlite3 temp files were renamed 'etilqs_*' (2006)](https://github.com/mackyle/sqlite/blob/18cf47156abe94255ae1495ba2da84517dce6081/src/os.h)
 * [2023-06-12, 22:49:35](https://news.ycombinator.com/item?id=36302448) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://www.quantamagazine.org/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-20230612/)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
@@ -85,6 +88,7 @@
 * [2023-06-12, 07:36:57](https://news.ycombinator.com/item?id=36289729) - [How is Apache APISIX Fast?](https://api7.ai/blog/how-is-apisix-fast)
 * [2023-06-12, 07:31:50](https://news.ycombinator.com/item?id=36289682) - [Miniature Macintosh with Raspberry Pi](https://www.hackster.io/news/miniature-macintosh-with-raspberry-pi-cbff147ed047)
 * [2023-06-12, 07:20:18](https://news.ycombinator.com/item?id=36289580) - [Scripting with Elixir](https://underjord.io/scripting-with-elixir.html)
+* [2023-06-12, 07:10:41](https://news.ycombinator.com/item?id=36289493) - [The Mobian Bookworm has landed](https://blog.mobian.org/posts/2023/06/10/bookworm/)
 * [2023-06-12, 07:02:54](https://news.ycombinator.com/item?id=36289424) - [Early 1980s Datsun/Nissan Voice Alert phonograph unit [video]](https://www.youtube.com/watch?v=6hJBko3-oV4)
 * [2023-06-12, 06:44:31](https://news.ycombinator.com/item?id=36289290) - [Ask HN: Anyone at Reddit can confirm a traffic dip?](https://news.ycombinator.com/item?id=36289290)
 * [2023-06-12, 05:44:15](https://news.ycombinator.com/item?id=36288886) - [Before Reddit and Digg, there was Fark. Then a user-hostile redesign killed it](https://www.fark.com/comments/2762299/Fark-site-redesign-is-now-live-Hope-nothing-breaks-were-all-out-drinking)
