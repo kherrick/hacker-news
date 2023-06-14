@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-13, 23:30:30",
+      "https://news.ycombinator.com/item?id=36319137"
+    ],
+    [
+      "Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE",
+      "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 23:25:05",
       "https://news.ycombinator.com/item?id=36319076"
     ],
@@ -97,16 +107,6 @@
     [
       "Do high interest rates fix high inflation?",
       "https://www.lynalden.com/inflation-vs-interest-rates/"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 19:08:43",
-      "https://news.ycombinator.com/item?id=36315300"
-    ],
-    [
-      "AWS us-east-1 down",
-      "https://news.ycombinator.com/item?id=36315300"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-06-13, 07:06:31",
-      "https://news.ycombinator.com/item?id=36306621"
-    ],
-    [
-      "CudaText: Cross-platform, open source code editor written in Object Pascal",
-      "https://cudatext.github.io/"
-    ]
-  ],
-  [
-    [
       "2023-06-13, 05:04:40",
       "https://news.ycombinator.com/item?id=36305640"
     ],
@@ -287,6 +277,16 @@
     [
       "A simple hash table in C",
       "https://theleo.zone/posts/hashmap-in-c/"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 19:02:42",
+      "https://news.ycombinator.com/item?id=36299214"
+    ],
+    [
+      "Elixir's “Set Theoretical Type System” prototype/demo/showcase",
+      "https://typex.fly.dev"
     ]
   ],
   [
