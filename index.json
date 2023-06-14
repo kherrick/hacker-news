@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 16:32:52",
+      "https://news.ycombinator.com/item?id=36328433"
+    ],
+    [
+      "Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted",
+      "https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 16:21:14",
       "https://news.ycombinator.com/item?id=36328245"
     ],
@@ -37,16 +47,6 @@
     [
       "Karl Guttag on Apple Vision Pro (Part 1)",
       "https://kguttag.com/2023/06/13/apple-vision-pro-part-1-what-apple-got-right-compared-to-the-meta-quest-pro/"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 15:34:24",
-      "https://news.ycombinator.com/item?id=36327522"
-    ],
-    [
-      "Show HN: Replay for Test Suites – Time travel debugging for browser tests",
-      "https://blog.replay.io/changelog-53:-replay-for-test-suites"
     ]
   ],
   [
@@ -137,16 +137,6 @@
     [
       "Bringing emulation into the 21st century (2021)",
       "https://blog.davetcode.co.uk/post/21st-century-emulator/"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 13:56:16",
-      "https://news.ycombinator.com/item?id=36326015"
-    ],
-    [
-      "RadioReference Complete Frequency Database",
-      "https://www.radioreference.com/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Serotonin booster leads to increased functional brain connectivity",
       "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406"
+    ]
+  ],
+  [
+    [
+      "2023-06-13, 20:55:50",
+      "https://news.ycombinator.com/item?id=36317153"
+    ],
+    [
+      "Proposing a Struct Syntax for Python",
+      "https://snarky.ca/proposing-a-struct-syntax/"
     ]
   ],
   [
