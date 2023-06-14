@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
+* [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
 * [2023-06-14, 05:37:14](https://news.ycombinator.com/item?id=36321843) - [Serotonin booster leads to increased functional brain connectivity](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406)
 * [2023-06-14, 05:27:58](https://news.ycombinator.com/item?id=36321783) - [Gandi.net – Pricing Update](https://cloudflare-ipfs.com/ipfs/QmcCUA7Q58rKFka7Gfz8aaspeqg5iKNB6BvABrUfpMXeue)
@@ -29,7 +30,6 @@
 * [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
-* [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
 ## [Archives](archives/index.md)
 
