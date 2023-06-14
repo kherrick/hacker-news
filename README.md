@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 02:40:22](https://news.ycombinator.com/item?id=36320746) - [Gamification, life, and the pursuit of a gold badge](https://austinhenley.com/blog/gamification.html)
 * [2023-06-14, 01:46:23](https://news.ycombinator.com/item?id=36320316) - [The microarchitectures that I saw and the ones that I hope to one day see [pdf]](https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf)
-* [2023-06-14, 01:15:19](https://news.ycombinator.com/item?id=36320028) - [Suicide Hotlines Promise Anonymity. Dozens of Websites Send Sensitive Data to FB](https://themarkup.org/pixel-hunt/2023/06/13/suicide-hotlines-promise-anonymity-dozens-of-their-websites-send-sensitive-data-to-facebook)
 * [2023-06-14, 00:37:57](https://news.ycombinator.com/item?id=36319691) - [Aleister Crowley and William Butler Yeats get into an occult battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
@@ -26,10 +26,10 @@
 * [2023-06-13, 13:44:11](https://news.ycombinator.com/item?id=36310145) - [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
 * [2023-06-13, 13:43:05](https://news.ycombinator.com/item?id=36310130) - [Rewriting the Ruby parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
+* [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 22:35:09](https://news.ycombinator.com/item?id=36302271) - [Fishfuzz: Catch Deeper Bugs by Throwing Larger Nets [pdf]](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
-* [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
 ## [Archives](archives/index.md)
 
