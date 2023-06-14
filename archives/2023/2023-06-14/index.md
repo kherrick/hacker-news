@@ -8,6 +8,7 @@
 * [2023-06-14, 18:08:19](https://news.ycombinator.com/item?id=36330012) - [Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC](https://github.com/JonLatane/jonline)
 * [2023-06-14, 17:58:00](https://news.ycombinator.com/item?id=36329853) - [Want to Get Stuff Done? Build Yourself a “Friction Tunnel”](https://tedium.co/2023/06/10/productivity-friction-theory/)
 * [2023-06-14, 17:47:29](https://news.ycombinator.com/item?id=36329645) - [Brain fog after Covid-19 has similarities to ‘chemo brain,’ Stanford-led study](https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html)
+* [2023-06-14, 17:38:27](https://news.ycombinator.com/item?id=36329507) - [Python GUIs](https://www.pythonguis.com)
 * [2023-06-14, 17:36:52](https://news.ycombinator.com/item?id=36329483) - [New York State Senate passes prohibitions on non-competes](https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/)
 * [2023-06-14, 16:41:20](https://news.ycombinator.com/item?id=36328580) - [What Reddit Got Wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
 * [2023-06-14, 16:39:55](https://news.ycombinator.com/item?id=36328558) - [Building an Instagram Clone for Puppies Using Courier Inbox, Next.js and Inngest](https://www.courier.com/blog/introducing-puppygram-powered-by-courier-inbox-next-js-and-inngest/)
