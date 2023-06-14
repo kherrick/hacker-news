@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
+* [2023-06-14, 08:47:37](https://news.ycombinator.com/item?id=36323192) - [SimilarWeb: Fetching Data in PHP, .NET C#, Python, Ruby, and JavaScript](https://letsscrape.medium.com/similarweb-effortlessly-fetching-data-in-php-net-c-python-ruby-and-javascript-969b45a643c5)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
 * [2023-06-14, 05:37:14](https://news.ycombinator.com/item?id=36321843) - [Serotonin booster leads to increased functional brain connectivity](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406)
 * [2023-06-14, 05:27:58](https://news.ycombinator.com/item?id=36321783) - [Gandi.net – Pricing Update](https://cloudflare-ipfs.com/ipfs/QmcCUA7Q58rKFka7Gfz8aaspeqg5iKNB6BvABrUfpMXeue)
-* [2023-06-14, 05:27:05](https://news.ycombinator.com/item?id=36321780) - [The Reddit blackout will continue](https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/)
 * [2023-06-14, 05:24:53](https://news.ycombinator.com/item?id=36321763) - [Toward a More Useful Keyboard](https://github.com/jasonrudolph/keyboard)
 * [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
 * [2023-06-14, 03:05:28](https://news.ycombinator.com/item?id=36320914) - [Making a RISC-V Operating System Using Rust](https://osblog.stephenmarz.com/)
