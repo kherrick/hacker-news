@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-06-12, 22:35:09",
-      "https://news.ycombinator.com/item?id=36302271"
-    ],
-    [
-      "Fishfuzz: Catch Deeper Bugs by Throwing Larger Nets [pdf]",
-      "https://nebelwelt.net/publications/files/23SEC5.pdf"
-    ]
-  ],
-  [
-    [
       "2023-06-12, 19:02:42",
       "https://news.ycombinator.com/item?id=36299214"
     ],
     [
       "Elixir's “Set Theoretical Type System” prototype/demo/showcase",
       "https://typex.fly.dev"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 18:40:13",
+      "https://news.ycombinator.com/item?id=36298798"
+    ],
+    [
+      "Metal shader converter and the missing device-scoped barrier",
+      "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
     ]
   ]
 ]
