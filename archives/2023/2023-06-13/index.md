@@ -23,6 +23,7 @@
 * [2023-06-13, 18:54:18](https://news.ycombinator.com/item?id=36315043) - [If you want people to show up, data shows these are the best meeting times](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
 * [2023-06-13, 18:35:17](https://news.ycombinator.com/item?id=36314744) - [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
 * [2023-06-13, 18:08:16](https://news.ycombinator.com/item?id=36314225) - [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
+* [2023-06-13, 18:04:08](https://news.ycombinator.com/item?id=36314136) - [Set your pricing too low and you risk loosing customers](https://twitter.com/dqmonn/status/1663236262730534912)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 * [2023-06-13, 17:34:47](https://news.ycombinator.com/item?id=36313694) - [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
 * [2023-06-13, 17:34:42](https://news.ycombinator.com/item?id=36313690) - [Sources Tell Me Some Messed Up Stuff Is Happening in Commercial Real Estate](https://innovationnation.blog/p/sources-tell-me-some-messed-up-stuff)
