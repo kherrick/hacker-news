@@ -2,6 +2,7 @@
 
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 14:24:49](https://news.ycombinator.com/item?id=36326495) - [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
+* [2023-06-14, 13:56:16](https://news.ycombinator.com/item?id=36326015) - [RadioReference Complete Frequency Database](https://www.radioreference.com/)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 13:52:56](https://news.ycombinator.com/item?id=36325958) - [Reddit Is OpenAI’s Moat?](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
 * [2023-06-14, 13:43:22](https://news.ycombinator.com/item?id=36325812) - [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
@@ -21,8 +22,6 @@
 * [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
 * [2023-06-14, 03:05:28](https://news.ycombinator.com/item?id=36320914) - [Making a RISC-V Operating System Using Rust (2019)](https://osblog.stephenmarz.com/)
 * [2023-06-14, 02:40:22](https://news.ycombinator.com/item?id=36320746) - [Gamification, life, and the pursuit of a gold badge (2021)](https://austinhenley.com/blog/gamification.html)
-* [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
-* [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is parallel programming hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's just dropped a brand new Game Boy game](https://retrododo.com/mcdonalds-grimaces-birthday/)
 * [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy has died](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
@@ -30,6 +29,7 @@
 * [2023-06-13, 19:19:18](https://news.ycombinator.com/item?id=36315475) - [Tips for Building SSR/HDA Applications](https://htmx.org/essays/10-tips-for-ssr-hda-apps/)
 * [2023-06-13, 15:40:17](https://news.ycombinator.com/item?id=36311875) - [The Design Principles of the Elixir Type System [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
+* [2023-06-13, 04:58:15](https://news.ycombinator.com/item?id=36305568) - [Doas Mastery (2019)](https://flak.tedunangst.com/post/doas-mastery)
 
 ## [Archives](archives/index.md)
 

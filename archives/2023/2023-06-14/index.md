@@ -6,6 +6,7 @@
 
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 14:24:49](https://news.ycombinator.com/item?id=36326495) - [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
+* [2023-06-14, 13:56:16](https://news.ycombinator.com/item?id=36326015) - [RadioReference Complete Frequency Database](https://www.radioreference.com/)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 292,612 times](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 13:52:56](https://news.ycombinator.com/item?id=36325958) - [Reddit Is OpenAI's Moat](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
 * [2023-06-14, 13:43:22](https://news.ycombinator.com/item?id=36325812) - [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
