@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 21:21:14](https://news.ycombinator.com/item?id=36332870) - [Hundreds of subreddits plan to go dark indefinitely after Reddit CEO's memo](https://techcrunch.com/2023/06/14/hundreds-of-subreddits-plan-to-go-dark-indefinitely-after-reddit-ceos-internal-memo/)
 * [2023-06-14, 20:46:28](https://news.ycombinator.com/item?id=36332393) - [NY Senate Introduces Bill to Mandate Open API Access for Social Media Platforms](https://www.news.upveda.in/2023/06/14/new-york-introduces-bill-requiring-social-media-platforms-to-provide-open-api-access-for-third-party-applications/)
 * [2023-06-14, 20:32:01](https://news.ycombinator.com/item?id=36332174) - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
 * [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
