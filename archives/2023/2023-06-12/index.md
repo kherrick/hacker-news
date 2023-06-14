@@ -38,6 +38,7 @@
 * [2023-06-12, 19:25:01](https://news.ycombinator.com/item?id=36299543) - [Lisp Game Jam – “Wireworld” in WebAssembly Using Spritely's Hoot Project](https://spritely.institute/news/hoot-wireworld-live-in-browser.html)
 * [2023-06-12, 19:10:10](https://news.ycombinator.com/item?id=36299325) - [Earth's rotation, with the camera locked to the sky instead of the ground](https://mastodon.social/@coreyspowell/110531182569820738)
 * [2023-06-12, 19:04:59](https://news.ycombinator.com/item?id=36299246) - [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
+* [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
 * [2023-06-12, 18:52:52](https://news.ycombinator.com/item?id=36299029) - [Remains of an extinct world of organisms discovered](https://phys.org/news/2023-06-extinct-world.html)
 * [2023-06-12, 18:48:53](https://news.ycombinator.com/item?id=36298962) - [Apple Silicon Mac Pro uses PCIe switches to support all slots](https://social.treehouse.systems/@marcan/110494017883893557)
 * [2023-06-12, 18:48:26](https://news.ycombinator.com/item?id=36298953) - [New exoplanet found orbiting twin suns](https://www.space.com/tatooine-exoplanet-binary-systeim-twin-suns)
