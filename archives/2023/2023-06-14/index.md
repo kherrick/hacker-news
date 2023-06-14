@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 13:22:33](https://news.ycombinator.com/item?id=36325523) - [NPM won't publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
 * [2023-06-14, 11:32:21](https://news.ycombinator.com/item?id=36324281) - [Show HN: I’m building open-source headless CMS for technical content](https://vrite.io/)
 * [2023-06-14, 11:19:06](https://news.ycombinator.com/item?id=36324174) - [New Functionality: Bluetooth for Raspberry Pi Pico W](https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/)
 * [2023-06-14, 11:12:28](https://news.ycombinator.com/item?id=36324118) - [EU suggests breaking up Google's ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
 * [2023-06-14, 09:56:38](https://news.ycombinator.com/item?id=36323634) - [Hotel Owners Start to Write Off San Francisco as Business Nosedives](https://www.wsj.com/articles/hotel-owners-start-to-write-off-san-francisco-as-business-nosedives-e84c64ef)
+* [2023-06-14, 09:20:59](https://news.ycombinator.com/item?id=36323405) - [Heat pumps, heat pumps, heat pumps](https://www.noahpinion.blog/p/heat-pumps-heat-pumps-heat-pumps)
 * [2023-06-14, 09:17:31](https://news.ycombinator.com/item?id=36323387) - [A Sudanese teen posts on Reddit as she fights for her life being held captive](https://old.reddit.com/r/Sudan/comments/148x73h/probably_gonna_be_my_last_post_ever_but_if_i_die/)
 * [2023-06-14, 09:13:22](https://news.ycombinator.com/item?id=36323369) - [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3)
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)

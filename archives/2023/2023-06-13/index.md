@@ -21,6 +21,7 @@
 * [2023-06-13, 19:39:56](https://news.ycombinator.com/item?id=36315796) - [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 * [2023-06-13, 19:27:45](https://news.ycombinator.com/item?id=36315608) - [Do High Interest Rates Fix High Inflation?](https://www.lynalden.com/inflation-vs-interest-rates/)
 * [2023-06-13, 19:23:52](https://news.ycombinator.com/item?id=36315547) - [Conjugate Acids and Bases](https://en.wikipedia.org/wiki/Conjugate_(acid-base_theory))
+* [2023-06-13, 19:19:18](https://news.ycombinator.com/item?id=36315475) - [Tips for Building SSR/HDA Applications](https://htmx.org/essays/10-tips-for-ssr-hda-apps/)
 * [2023-06-13, 19:08:43](https://news.ycombinator.com/item?id=36315300) - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
 * [2023-06-13, 18:54:18](https://news.ycombinator.com/item?id=36315043) - [If you want people to show up, data shows these are the best meeting times](https://blog.boomerangapp.com/2023/06/4-myths-and-1-truth-about-scheduling-meetings/)
 * [2023-06-13, 18:35:17](https://news.ycombinator.com/item?id=36314744) - [AMD Expands AI Product Lineup with GPU-Only Instinct Mi300X with 192GB Memory](https://www.anandtech.com/show/18915/amd-expands-mi300-family-with-mi300x-gpu-only-192gb-memory)
