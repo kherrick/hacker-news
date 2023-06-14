@@ -20,7 +20,6 @@
 * [2023-06-14, 14:19:20](https://news.ycombinator.com/item?id=36326384) - [Bringing emulation into the 21st century (2021)](https://blog.davetcode.co.uk/post/21st-century-emulator/)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 13:43:22](https://news.ycombinator.com/item?id=36325812) - [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
-* [2023-06-14, 13:22:33](https://news.ycombinator.com/item?id=36325523) - [NPM won't publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
 * [2023-06-14, 13:09:58](https://news.ycombinator.com/item?id=36325349) - [Always the Same Warning Signs](https://www.science.org/content/blog-post/always-same-warning-signs)
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
@@ -30,6 +29,7 @@
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2023-06-13, 20:55:50](https://news.ycombinator.com/item?id=36317153) - [Proposing a Struct Syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
 * [2023-06-13, 20:22:46](https://news.ycombinator.com/item?id=36316502) - [TypeCell, open source TypeScript notebooks live programming environment](https://www.typecell.org/)
+* [2023-06-13, 15:18:00](https://news.ycombinator.com/item?id=36311508) - [Leveraging the power of Lua scripting with Dragonfly](https://www.dragonflydb.io/blog/leveraging-power-of-lua-scripting)
 
 ## [Archives](archives/index.md)
 
