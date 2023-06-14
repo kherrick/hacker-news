@@ -15,6 +15,7 @@
 * [2023-06-12, 22:45:12](https://news.ycombinator.com/item?id=36302399) - [The Case Against Denormalization](https://datademythed.com/posts/the-case-against-denormalization/)
 * [2023-06-12, 22:38:31](https://news.ycombinator.com/item?id=36302316) - [Radio on the TV](https://computer.rip/2023-06-12-radio-on-the-tv.html)
 * [2023-06-12, 22:37:31](https://news.ycombinator.com/item?id=36302303) - [Mapping pedestrian traffic light timing in Sydney, Australia](https://jakecoppinger.com/2023/06/mapping-pedestrian-traffic-light-timing-in-sydney-australia/)
+* [2023-06-12, 22:35:09](https://news.ycombinator.com/item?id=36302271) - [Fishfuzz: Catch Deeper Bugs by Throwing Larger Nets [pdf]](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-12, 22:32:12](https://news.ycombinator.com/item?id=36302231) - [“But the SEC let us go public” and other flawed arguments in Coinbase's defense](https://newsletter.mollywhite.net/p/but-the-sec-let-us-go-public-and)
 * [2023-06-12, 22:31:10](https://news.ycombinator.com/item?id=36302222) - [The Semiconductor Industry’s Most Important Tool Goes Green](https://spectrum.ieee.org/euv-lithography)
 * [2023-06-12, 22:16:45](https://news.ycombinator.com/item?id=36302048) - [Why are LLMs general learners?](https://intuitiveai.substack.com/p/why-are-large-language-models-general)
