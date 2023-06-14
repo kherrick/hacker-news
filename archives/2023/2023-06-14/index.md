@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/abs/2306.07695)
 * [2023-06-14, 16:14:57](https://news.ycombinator.com/item?id=36328148) - [Why PostgreSQL High Availability Matters and How to Achieve It](https://www.yugabyte.com/postgresql/postgresql-high-availability/)
 * [2023-06-14, 15:57:53](https://news.ycombinator.com/item?id=36327877) - [Faster Sorting Algorithm Discovered by Speaking in Tongues](https://sebastiancarlos.com/faster-sorting-algorithm-discovered-by-speaking-in-tongues-ade441bb2796)
 * [2023-06-14, 15:49:38](https://news.ycombinator.com/item?id=36327770) - [NYC food delivery gig workers score a big minimum wage victory](https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates)
+* [2023-06-14, 15:40:28](https://news.ycombinator.com/item?id=36327624) - [Karl Guttag on Apple Vision Pro (Part 1)](https://kguttag.com/2023/06/13/apple-vision-pro-part-1-what-apple-got-right-compared-to-the-meta-quest-pro/)
+* [2023-06-14, 15:34:24](https://news.ycombinator.com/item?id=36327522) - [Show HN: Replay for Test Suites – Time travel debugging for browser tests](https://blog.replay.io/changelog-53:-replay-for-test-suites)
+* [2023-06-14, 15:22:01](https://news.ycombinator.com/item?id=36327347) - [Migrating from Heroku to EKS](https://blog.hellolanding.tech/move-fast-avoid-sharp-edges-5d3a07f19a59)
 * [2023-06-14, 15:13:48](https://news.ycombinator.com/item?id=36327210) - [The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
 * [2023-06-14, 15:02:10](https://news.ycombinator.com/item?id=36327036) - [Anker’s Solix home solar battery system is its answer to Tesla’s Powerwall](https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce)
+* [2023-06-14, 14:56:25](https://news.ycombinator.com/item?id=36326956) - [33-46% of workers on MTurk used LLMs in a text production task](https://arxiv.org/abs/2306.07899)
 * [2023-06-14, 14:54:21](https://news.ycombinator.com/item?id=36326926) - [The end of Reddit? Why the blackout is still going – and what happens next](https://www.techradar.com/news/the-end-of-reddit-heres-why-most-of-the-site-is-down-and-what-happens-next)
 * [2023-06-14, 14:38:50](https://news.ycombinator.com/item?id=36326706) - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
 * [2023-06-14, 14:36:30](https://news.ycombinator.com/item?id=36326677) - [SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
