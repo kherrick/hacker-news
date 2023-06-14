@@ -10,7 +10,7 @@
 * [2023-06-14, 00:37:57](https://news.ycombinator.com/item?id=36319691) - [Aleister Crowley and William Butler Yeats get into an occult battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
-* [2023-06-13, 22:58:11](https://news.ycombinator.com/item?id=36318805) - [OnBoard – A New Grants Program to Fund $100 in PCB Costs for Teenagers](https://hackclub.com/onboard/)
+* [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is Parallel Programming Hard, and, If So, What Can You Do About It? v2023.06.11a](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [Lewis Hine’s early 20th-century “photo stories”](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 20:41:18](https://news.ycombinator.com/item?id=36316883) - [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
 * [2023-06-13, 20:22:18](https://news.ycombinator.com/item?id=36316489) - [Show HN: LLaMA tokenizer that runs in browser](https://github.com/belladoreai/llama-tokenizer-js)

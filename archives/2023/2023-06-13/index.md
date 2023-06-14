@@ -7,6 +7,7 @@
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2023-06-13, 22:58:11](https://news.ycombinator.com/item?id=36318805) - [OnBoard – A New Grants Program to Fund $100 in PCB Costs for Teenagers](https://hackclub.com/onboard/)
+* [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is Parallel Programming Hard, and, If So, What Can You Do About It? v2023.06.11a](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [The Photographer Who Forced the U.S. to Confront Its Child Labor Problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 20:52:32](https://news.ycombinator.com/item?id=36317086) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:45:18](https://news.ycombinator.com/item?id=36316950) - [Reddit stripping moderators of rights and forcing subreddits to go public](https://famichiki.jp/@Tsutsuku/110537730270070245)
