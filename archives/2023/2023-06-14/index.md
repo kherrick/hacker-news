@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 * [2023-06-14, 19:42:49](https://news.ycombinator.com/item?id=36331481) - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
+* [2023-06-14, 19:40:35](https://news.ycombinator.com/item?id=36331446) - [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 19:37:13](https://news.ycombinator.com/item?id=36331394) - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 * [2023-06-14, 18:55:06](https://news.ycombinator.com/item?id=36330812) - [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
