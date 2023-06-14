@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-06-14, 08:24:27",
+      "https://news.ycombinator.com/item?id=36323058"
+    ],
+    [
+      "How to Listen to Database Changes Using Postgres Triggers in Elixir",
+      "https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 06:57:59",
       "https://news.ycombinator.com/item?id=36322395"
     ],
@@ -287,16 +297,6 @@
     [
       "Elixir's “Set Theoretical Type System” prototype/demo/showcase",
       "https://typex.fly.dev"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 18:40:13",
-      "https://news.ycombinator.com/item?id=36298798"
-    ],
-    [
-      "Metal shader converter and the missing device-scoped barrier",
-      "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
     ]
   ]
 ]
