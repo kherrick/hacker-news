@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2023-06-14, 16:14:57",
-      "https://news.ycombinator.com/item?id=36328148"
-    ],
-    [
-      "Why PostgreSQL High Availability Matters and How to Achieve It",
-      "https://www.yugabyte.com/postgresql/postgresql-high-availability/"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 16:00:03",
       "https://news.ycombinator.com/item?id=36327911"
     ],
@@ -147,16 +137,6 @@
     [
       "Migrating from Heroku to EKS",
       "https://blog.hellolanding.tech/move-fast-avoid-sharp-edges-5d3a07f19a59"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 14:56:25",
-      "https://news.ycombinator.com/item?id=36326956"
-    ],
-    [
-      "33-46% of workers on MTurk used LLMs in a text production task",
-      "https://arxiv.org/abs/2306.07899"
     ]
   ],
   [
@@ -185,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36326495"
     ],
     [
-      "Dumb and Gets Things Done",
+      "Dumb and Gets Things Done (2010)",
       "https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/"
     ]
   ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2023-06-14, 08:24:27",
+      "https://news.ycombinator.com/item?id=36323058"
+    ],
+    [
+      "How to Listen to Database Changes Using Postgres Triggers in Elixir",
+      "https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 06:57:59",
       "https://news.ycombinator.com/item?id=36322395"
     ],
     [
       "A 5.7 Terapixel Mosaic of the Surface of Mars",
-      "https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars"
+      "https://murray-lab.caltech.edu/CTX/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 05:37:14",
+      "https://news.ycombinator.com/item?id=36321843"
+    ],
+    [
+      "Serotonin booster leads to increased functional brain connectivity",
+      "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406"
     ]
   ],
   [
