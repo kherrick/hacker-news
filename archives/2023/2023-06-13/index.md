@@ -52,6 +52,7 @@
 * [2023-06-13, 15:55:32](https://news.ycombinator.com/item?id=36312122) - [Apollo’s Christian Selig explains his fight with Reddit – and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)
 * [2023-06-13, 15:40:17](https://news.ycombinator.com/item?id=36311875) - [The Design Principles of the Elixir Type System [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-06-13, 15:18:00](https://news.ycombinator.com/item?id=36311508) - [Leveraging the power of Lua scripting with Dragonfly](https://www.dragonflydb.io/blog/leveraging-power-of-lua-scripting)
+* [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
 * [2023-06-13, 14:30:16](https://news.ycombinator.com/item?id=36310733) - [Instant Brands, maker of Instant Pot and Pyrex cookware, files for bankruptcy](https://www.cbc.ca/news/business/instant-brands-bankruptcy-1.6874487)
 * [2023-06-13, 14:27:35](https://news.ycombinator.com/item?id=36310689) - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
 * [2023-06-13, 14:22:36](https://news.ycombinator.com/item?id=36310619) - [Microsoft Bringing OpenAI’s GPT-4 AI Model to US Government Agencies](https://www.bloomberg.com/news/articles/2023-06-07/microsoft-offers-powerful-openai-technology-to-us-government-cloud-customers)

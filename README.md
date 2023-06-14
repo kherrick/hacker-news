@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 20:46:28](https://news.ycombinator.com/item?id=36332393) - [NY Senate Introduces Bill to Mandate Open API Access for Social Media Platforms](https://www.news.upveda.in/2023/06/14/new-york-introduces-bill-requiring-social-media-platforms-to-provide-open-api-access-for-third-party-applications/)
 * [2023-06-14, 20:32:01](https://news.ycombinator.com/item?id=36332174) - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
 * [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
+* [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 * [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 * [2023-06-14, 20:09:24](https://news.ycombinator.com/item?id=36331849) - [San Francisco library turning off WiFi at night to keep homeless from using it](https://www.theverge.com/2023/6/14/23760787/san-francisco-public-library-wifi-homeless-castro-district-8)
 * [2023-06-14, 19:42:49](https://news.ycombinator.com/item?id=36331481) - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
@@ -23,13 +25,11 @@
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 13:09:58](https://news.ycombinator.com/item?id=36325349) - [Always the same warning signs](https://www.science.org/content/blog-post/always-same-warning-signs)
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
-* [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide (2021)](https://fs.blog/deliberate-practice-guide/)
-* [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://murray-lab.caltech.edu/CTX/)
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
-* [2023-06-13, 20:55:50](https://news.ycombinator.com/item?id=36317153) - [Proposing a struct syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
 * [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
 * [2023-06-13, 20:22:46](https://news.ycombinator.com/item?id=36316502) - [TypeCell, open source TypeScript notebooks live programming environment](https://www.typecell.org/)
 * [2023-06-13, 15:18:00](https://news.ycombinator.com/item?id=36311508) - [Leveraging the power of Lua scripting with Dragonfly](https://www.dragonflydb.io/blog/leveraging-power-of-lua-scripting)
+* [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
 
 ## [Archives](archives/index.md)
 
