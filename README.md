@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-14, 02:45:26](https://news.ycombinator.com/item?id=36320785) - [Microsoft's CEO Satya Nadella: All-In on AI for Future Success](https://atlasalpha.serenebase.com/post?recordId=rec3BKQxylhLE3fqD)
+* [2023-06-14, 01:46:23](https://news.ycombinator.com/item?id=36320316) - [The microarchitectures that I saw and the ones that I hope to one day see [pdf]](https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf)
 * [2023-06-14, 01:12:03](https://news.ycombinator.com/item?id=36319987) - [OpenAI Releases Function Calling for GPT-3.5 & GPT-4](https://platform.openai.com/docs/guides/gpt/function-calling)
 * [2023-06-14, 00:37:57](https://news.ycombinator.com/item?id=36319691) - [Aleister Crowley and William Butler Yeats Get into an Occult Battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
@@ -29,7 +30,6 @@
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 22:35:09](https://news.ycombinator.com/item?id=36302271) - [Fishfuzz: Catch Deeper Bugs by Throwing Larger Nets [pdf]](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
-* [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
 ## [Archives](archives/index.md)
 
