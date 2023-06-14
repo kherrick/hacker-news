@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 11:12:28](https://news.ycombinator.com/item?id=36324118) - [EU suggests breaking up Google's ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
 * [2023-06-14, 09:56:38](https://news.ycombinator.com/item?id=36323634) - [Hotel Owners Start to Write Off San Francisco as Business Nosedives](https://www.wsj.com/articles/hotel-owners-start-to-write-off-san-francisco-as-business-nosedives-e84c64ef)
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
@@ -25,7 +26,6 @@
 * [2023-06-13, 16:52:56](https://news.ycombinator.com/item?id=36313096) - [Two-Stage Contrastive Whole Output Explaination (CWOX-2s)](https://github.com/vaynexie/CWOX)
 * [2023-06-13, 15:40:17](https://news.ycombinator.com/item?id=36311875) - [The Design Principles of the Elixir Type System [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
-* [2023-06-13, 11:46:47](https://news.ycombinator.com/item?id=36308806) - [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
 * [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
 * [2023-06-13, 05:03:22](https://news.ycombinator.com/item?id=36305627) - [National Treasure: tea utensils used by early modern practitioners of chanoyu](https://www.laphamsquarterly.org/roundtable/national-treasure)
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)

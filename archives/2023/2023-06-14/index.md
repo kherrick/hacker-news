@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 11:12:28](https://news.ycombinator.com/item?id=36324118) - [EU suggests breaking up Google's ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
 * [2023-06-14, 09:56:38](https://news.ycombinator.com/item?id=36323634) - [Hotel Owners Start to Write Off San Francisco as Business Nosedives](https://www.wsj.com/articles/hotel-owners-start-to-write-off-san-francisco-as-business-nosedives-e84c64ef)
 * [2023-06-14, 09:17:31](https://news.ycombinator.com/item?id=36323387) - [A Sudanese teen posts on Reddit as she fights for her life being held captive](https://old.reddit.com/r/Sudan/comments/148x73h/probably_gonna_be_my_last_post_ever_but_if_i_die/)
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
