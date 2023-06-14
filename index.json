@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 16:21:14",
+      "https://news.ycombinator.com/item?id=36328245"
+    ],
+    [
+      "Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings",
+      "https://arxiv.org/abs/2306.07695"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 16:14:57",
       "https://news.ycombinator.com/item?id=36328148"
     ],
@@ -11,22 +21,42 @@
   ],
   [
     [
-      "2023-06-14, 15:57:53",
-      "https://news.ycombinator.com/item?id=36327877"
-    ],
-    [
-      "Faster Sorting Algorithm Discovered by Speaking in Tongues",
-      "https://sebastiancarlos.com/faster-sorting-algorithm-discovered-by-speaking-in-tongues-ade441bb2796"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 15:49:38",
       "https://news.ycombinator.com/item?id=36327770"
     ],
     [
       "NYC food delivery gig workers score a big minimum wage victory",
       "https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 15:40:28",
+      "https://news.ycombinator.com/item?id=36327624"
+    ],
+    [
+      "Karl Guttag on Apple Vision Pro (Part 1)",
+      "https://kguttag.com/2023/06/13/apple-vision-pro-part-1-what-apple-got-right-compared-to-the-meta-quest-pro/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 15:34:24",
+      "https://news.ycombinator.com/item?id=36327522"
+    ],
+    [
+      "Show HN: Replay for Test Suites – Time travel debugging for browser tests",
+      "https://blog.replay.io/changelog-53:-replay-for-test-suites"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 15:22:01",
+      "https://news.ycombinator.com/item?id=36327347"
+    ],
+    [
+      "Migrating from Heroku to EKS",
+      "https://blog.hellolanding.tech/move-fast-avoid-sharp-edges-5d3a07f19a59"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "Anker’s Solix home solar battery system is its answer to Tesla’s Powerwall",
       "https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 14:56:25",
+      "https://news.ycombinator.com/item?id=36326956"
+    ],
+    [
+      "33-46% of workers on MTurk used LLMs in a text production task",
+      "https://arxiv.org/abs/2306.07899"
     ]
   ],
   [
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2023-06-14, 11:19:06",
-      "https://news.ycombinator.com/item?id=36324174"
-    ],
-    [
-      "New Functionality: Bluetooth for Raspberry Pi Pico W",
-      "https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 09:00:15",
       "https://news.ycombinator.com/item?id=36323275"
     ],
@@ -237,36 +267,6 @@
     [
       "Serotonin booster leads to increased functional brain connectivity",
       "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 05:27:58",
-      "https://news.ycombinator.com/item?id=36321783"
-    ],
-    [
-      "Gandi.net – Pricing Update",
-      "https://cloudflare-ipfs.com/ipfs/QmcCUA7Q58rKFka7Gfz8aaspeqg5iKNB6BvABrUfpMXeue"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 05:24:53",
-      "https://news.ycombinator.com/item?id=36321763"
-    ],
-    [
-      "Toward a more useful keyboard",
-      "https://github.com/jasonrudolph/keyboard"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 22:09:59",
-      "https://news.ycombinator.com/item?id=36318280"
-    ],
-    [
-      "Is parallel programming hard, and, if so, what can you do about it?",
-      "https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html"
     ]
   ],
   [
