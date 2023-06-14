@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 01:12:03",
+      "https://news.ycombinator.com/item?id=36319987"
+    ],
+    [
+      "OpenAI Releases Function Calling for GPT-3.5 & GPT-4",
+      "https://platform.openai.com/docs/guides/gpt/function-calling"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 00:37:57",
       "https://news.ycombinator.com/item?id=36319691"
     ],
@@ -247,16 +257,6 @@
     [
       "Launch HN: Resend (YC W23) – Email API for developers using React",
       "https://resend.com"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 11:03:14",
-      "https://news.ycombinator.com/item?id=36308366"
-    ],
-    [
-      "Johnny Decimal",
-      "https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/"
     ]
   ],
   [
