@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 02:45:26](https://news.ycombinator.com/item?id=36320785) - [Microsoft's CEO Satya Nadella: All-In on AI for Future Success](https://atlasalpha.serenebase.com/post?recordId=rec3BKQxylhLE3fqD)
 * [2023-06-14, 01:12:03](https://news.ycombinator.com/item?id=36319987) - [OpenAI Releases Function Calling for GPT-3.5 & GPT-4](https://platform.openai.com/docs/guides/gpt/function-calling)
 * [2023-06-14, 00:37:57](https://news.ycombinator.com/item?id=36319691) - [Aleister Crowley and William Butler Yeats Get into an Occult Battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
-* [2023-06-14, 00:32:09](https://news.ycombinator.com/item?id=36319652) - [Reddit Doubles Down](https://www.platformer.news/p/reddit-doubles-down)
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [Lewis Hine’s early 20th-century “photo stories”](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
