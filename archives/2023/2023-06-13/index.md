@@ -82,6 +82,7 @@
 * [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
 * [2023-06-13, 09:45:04](https://news.ycombinator.com/item?id=36307810) - [Ask HN: Is there a good camping chair that is comfortable for programming?](https://news.ycombinator.com/item?id=36307810)
 * [2023-06-13, 08:45:53](https://news.ycombinator.com/item?id=36307418) - [The Kentucky Derby Is Decadent and Depraved [pdf]](http://brianb.freeshell.org/a/kddd.pdf)
+* [2023-06-13, 08:35:45](https://news.ycombinator.com/item?id=36307341) - [Evolution of the Scrollbar](https://scrollbars.matoseb.com/)
 * [2023-06-13, 07:48:03](https://news.ycombinator.com/item?id=36306948) - [Screwing up my page tables](https://axleos.com/screwing-up-my-page-tables/)
 * [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)

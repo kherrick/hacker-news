@@ -10,7 +10,6 @@
 * [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 * [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete (2021) [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 * [2023-06-14, 20:06:37](https://news.ycombinator.com/item?id=36331811) - [The danger of delegating education to journalists (2012)](https://radicalscholarship.com/2014/11/03/guest-post-the-danger-of-delegating-education-to-journalists-k-anders-ericsson/)
-* [2023-06-14, 19:42:49](https://news.ycombinator.com/item?id=36331481) - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
 * [2023-06-14, 19:40:35](https://news.ycombinator.com/item?id=36331446) - [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 19:37:13](https://news.ycombinator.com/item?id=36331394) - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
@@ -30,6 +29,7 @@
 * [2023-06-13, 20:22:46](https://news.ycombinator.com/item?id=36316502) - [TypeCell, open source TypeScript notebooks live programming environment](https://www.typecell.org/)
 * [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving fast with the core Vim motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 * [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
+* [2023-06-13, 08:35:45](https://news.ycombinator.com/item?id=36307341) - [Evolution of the Scrollbar](https://scrollbars.matoseb.com/)
 
 ## [Archives](archives/index.md)
 
