@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
 * [2023-06-14, 02:45:26](https://news.ycombinator.com/item?id=36320785) - [Microsoft's CEO Satya Nadella: All-In on AI for Future Success](https://atlasalpha.serenebase.com/post?recordId=rec3BKQxylhLE3fqD)
 * [2023-06-14, 02:40:22](https://news.ycombinator.com/item?id=36320746) - [Gamification, life, and the pursuit of a gold badge](https://austinhenley.com/blog/gamification.html)
 * [2023-06-14, 01:46:23](https://news.ycombinator.com/item?id=36320316) - [The microarchitectures that I saw and the ones that I hope to one day see [pdf]](https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf)

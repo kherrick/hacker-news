@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
 * [2023-06-14, 02:40:22](https://news.ycombinator.com/item?id=36320746) - [Gamification, life, and the pursuit of a gold badge](https://austinhenley.com/blog/gamification.html)
 * [2023-06-14, 01:46:23](https://news.ycombinator.com/item?id=36320316) - [The microarchitectures that I saw and the ones that I hope to one day see [pdf]](https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf)
 * [2023-06-14, 00:37:57](https://news.ycombinator.com/item?id=36319691) - [Aleister Crowley and William Butler Yeats get into an occult battle](https://www.openculture.com/2016/10/aleister-crowley-william-butler-yeats-get-into-an-occult-battle.html)
@@ -23,11 +24,10 @@
 * [2023-06-13, 16:01:39](https://news.ycombinator.com/item?id=36312200) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2023-06-13, 14:30:16](https://news.ycombinator.com/item?id=36310733) - [Instant Brands, maker of Instant Pot and Pyrex cookware, files for bankruptcy](https://www.cbc.ca/news/business/instant-brands-bankruptcy-1.6874487)
 * [2023-06-13, 14:27:35](https://news.ycombinator.com/item?id=36310689) - [Obsidian-Copilot: A Prototype Assistant for Writing and Thinking](https://eugeneyan.com/writing/obsidian-copilot/)
-* [2023-06-13, 13:44:11](https://news.ycombinator.com/item?id=36310145) - [Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP](https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/)
-* [2023-06-13, 13:43:05](https://news.ycombinator.com/item?id=36310130) - [Rewriting the Ruby parser](https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
 * [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
+* [2023-06-12, 22:35:09](https://news.ycombinator.com/item?id=36302271) - [Fishfuzz: Catch Deeper Bugs by Throwing Larger Nets [pdf]](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
 * [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
