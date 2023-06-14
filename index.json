@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 19:07:43",
+      "https://news.ycombinator.com/item?id=36330972"
+    ],
+    [
+      "Native JSON Output from GPT-4",
+      "https://yonom.substack.com/p/native-json-output-from-gpt-4"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 18:55:06",
       "https://news.ycombinator.com/item?id=36330812"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36330116"
     ],
     [
-      "I may be the only evil (bit) user on the internet",
+      "I may be the only evil (bit) user on the internet (2015)",
       "https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage"
     ]
   ],
@@ -41,21 +51,11 @@
   ],
   [
     [
-      "2023-06-14, 17:58:00",
-      "https://news.ycombinator.com/item?id=36329853"
-    ],
-    [
-      "Want to Get Stuff Done? Build Yourself a “Friction Tunnel”",
-      "https://tedium.co/2023/06/10/productivity-friction-theory/"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 17:47:29",
       "https://news.ycombinator.com/item?id=36329645"
     ],
     [
-      "Brain fog after Covid-19 has similarities to ‘chemo brain,’ Stanford-led study",
+      "Brain fog after Covid-19 has similarities to ‘chemo brain’ in mice: study",
       "https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36328245"
     ],
     [
-      "Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings",
+      "Freaky Leaky SMS: Extracting user locations by analyzing SMS timings",
       "https://arxiv.org/abs/2306.07695"
     ]
   ],
@@ -151,22 +151,22 @@
   ],
   [
     [
-      "2023-06-14, 15:13:48",
-      "https://news.ycombinator.com/item?id=36327210"
-    ],
-    [
-      "The Reddit blackout has left Google barren and full of holes – TechRadar",
-      "https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 14:56:25",
       "https://news.ycombinator.com/item?id=36326956"
     ],
     [
       "33-46% of workers on MTurk used LLMs in a text production task",
       "https://arxiv.org/abs/2306.07899"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 14:38:50",
+      "https://news.ycombinator.com/item?id=36326706"
+    ],
+    [
+      "France’s Mistral AI raises a $113M seed round to take on OpenAI",
+      "https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=36325349"
     ],
     [
-      "Always the Same Warning Signs",
+      "Always the same warning signs",
       "https://www.science.org/content/blog-post/always-same-warning-signs"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=36324546"
     ],
     [
-      "The Deliberate Practice Guide",
+      "The Deliberate Practice Guide (2021)",
       "https://fs.blog/deliberate-practice-guide/"
     ]
   ],
