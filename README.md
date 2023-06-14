@@ -2,6 +2,7 @@
 
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
+* [2023-06-14, 11:32:21](https://news.ycombinator.com/item?id=36324281) - [Show HN: I’m building open-source headless CMS for technical content](https://vrite.io/)
 * [2023-06-14, 11:19:06](https://news.ycombinator.com/item?id=36324174) - [New Functionality: Bluetooth for Raspberry Pi Pico W](https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/)
 * [2023-06-14, 11:12:28](https://news.ycombinator.com/item?id=36324118) - [EU suggests breaking up Google's ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
 * [2023-06-14, 09:13:22](https://news.ycombinator.com/item?id=36323369) - [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3)
@@ -22,7 +23,6 @@
 * [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is parallel programming hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's just dropped a brand new Game Boy game](https://retrododo.com/mcdonalds-grimaces-birthday/)
 * [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy has died](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
-* [2023-06-13, 19:39:56](https://news.ycombinator.com/item?id=36315796) - [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 * [2023-06-13, 19:23:52](https://news.ycombinator.com/item?id=36315547) - [Conjugate Acids and Bases](https://en.wikipedia.org/wiki/Conjugate_(acid-base_theory))
 * [2023-06-13, 15:40:17](https://news.ycombinator.com/item?id=36311875) - [The Design Principles of the Elixir Type System [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
