@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-06-13, 17:00:54",
-      "https://news.ycombinator.com/item?id=36313201"
-    ],
-    [
-      "BuildZoom (YC W13) is hiring a growth associate",
-      "https://jobs.lever.co/buildzoom"
-    ]
-  ],
-  [
-    [
       "2023-06-13, 16:25:16",
       "https://news.ycombinator.com/item?id=36312603"
     ],
@@ -297,6 +287,16 @@
     [
       "Elixir's “Set Theoretical Type System” prototype/demo/showcase",
       "https://typex.fly.dev"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 18:40:13",
+      "https://news.ycombinator.com/item?id=36298798"
+    ],
+    [
+      "Metal shader converter and the missing device-scoped barrier",
+      "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
     ]
   ]
 ]
