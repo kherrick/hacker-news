@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 09:56:38](https://news.ycombinator.com/item?id=36323634) - [Hotel Owners Start to Write Off San Francisco as Business Nosedives](https://www.wsj.com/articles/hotel-owners-start-to-write-off-san-francisco-as-business-nosedives-e84c64ef)
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
 * [2023-06-14, 08:47:37](https://news.ycombinator.com/item?id=36323192) - [SimilarWeb: Fetching Data in PHP, .NET C#, Python, Ruby, and JavaScript](https://letsscrape.medium.com/similarweb-effortlessly-fetching-data-in-php-net-c-python-ruby-and-javascript-969b45a643c5)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
