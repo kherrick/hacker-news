@@ -10,6 +10,7 @@
 * [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 * [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 * [2023-06-14, 20:09:24](https://news.ycombinator.com/item?id=36331849) - [San Francisco library turning off WiFi at night to keep homeless from using it](https://www.theverge.com/2023/6/14/23760787/san-francisco-public-library-wifi-homeless-castro-district-8)
+* [2023-06-14, 20:06:37](https://news.ycombinator.com/item?id=36331811) - [The Danger of Delegating Education to Journalists (2012)](https://radicalscholarship.com/2014/11/03/guest-post-the-danger-of-delegating-education-to-journalists-k-anders-ericsson/)
 * [2023-06-14, 19:42:49](https://news.ycombinator.com/item?id=36331481) - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
 * [2023-06-14, 19:40:35](https://news.ycombinator.com/item?id=36331446) - [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 19:37:13](https://news.ycombinator.com/item?id=36331394) - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
