@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 22:35:28](https://news.ycombinator.com/item?id=36333762) - [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
 * [2023-06-14, 22:17:01](https://news.ycombinator.com/item?id=36333552) - [1,626 Books Were Banned Across America Last Year We Reviewed All of Them](https://yarn.joinstatecraft.com/books)
 * [2023-06-14, 21:56:21](https://news.ycombinator.com/item?id=36333321) - [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
 * [2023-06-14, 21:53:28](https://news.ycombinator.com/item?id=36333290) - [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
@@ -80,6 +81,7 @@
 * [2023-06-14, 05:27:58](https://news.ycombinator.com/item?id=36321783) - [Gandi.net – Pricing Update](https://cloudflare-ipfs.com/ipfs/QmcCUA7Q58rKFka7Gfz8aaspeqg5iKNB6BvABrUfpMXeue)
 * [2023-06-14, 05:27:05](https://news.ycombinator.com/item?id=36321780) - [The Reddit blackout will continue](https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/)
 * [2023-06-14, 05:24:53](https://news.ycombinator.com/item?id=36321763) - [Toward a More Useful Keyboard](https://github.com/jasonrudolph/keyboard)
+* [2023-06-14, 04:12:58](https://news.ycombinator.com/item?id=36321361) - [How to implement dependent type theory I (2012)](https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 * [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
 * [2023-06-14, 03:05:28](https://news.ycombinator.com/item?id=36320914) - [Making a RISC-V Operating System Using Rust](https://osblog.stephenmarz.com/)
 * [2023-06-14, 02:45:26](https://news.ycombinator.com/item?id=36320785) - [Microsoft's CEO Satya Nadella: All-In on AI for Future Success](https://atlasalpha.serenebase.com/post?recordId=rec3BKQxylhLE3fqD)

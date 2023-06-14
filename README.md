@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 22:35:28](https://news.ycombinator.com/item?id=36333762) - [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
 * [2023-06-14, 21:56:21](https://news.ycombinator.com/item?id=36333321) - [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
 * [2023-06-14, 21:53:28](https://news.ycombinator.com/item?id=36333290) - [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
 * [2023-06-14, 21:52:32](https://news.ycombinator.com/item?id=36333273) - [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
-* [2023-06-14, 20:32:01](https://news.ycombinator.com/item?id=36332174) - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
 * [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
 * [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 * [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete (2021) [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
@@ -24,11 +24,11 @@
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 13:09:58](https://news.ycombinator.com/item?id=36325349) - [Always the same warning signs](https://www.science.org/content/blog-post/always-same-warning-signs)
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations](https://skio.com/careers/)
+* [2023-06-14, 04:12:58](https://news.ycombinator.com/item?id=36321361) - [How to implement dependent type theory I (2012)](https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
 * [2023-06-13, 20:22:46](https://news.ycombinator.com/item?id=36316502) - [TypeCell, open source TypeScript notebooks live programming environment](https://www.typecell.org/)
 * [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving fast with the core Vim motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
-* [2023-06-13, 15:18:00](https://news.ycombinator.com/item?id=36311508) - [Leveraging the power of Lua scripting with Dragonfly](https://www.dragonflydb.io/blog/leveraging-power-of-lua-scripting)
 * [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
 
 ## [Archives](archives/index.md)
