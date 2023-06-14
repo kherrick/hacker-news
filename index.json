@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-06-14, 01:46:23",
+      "https://news.ycombinator.com/item?id=36320316"
+    ],
+    [
+      "The microarchitectures that I saw and the ones that I hope to one day see [pdf]",
+      "https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 01:12:03",
       "https://news.ycombinator.com/item?id=36319987"
     ],
@@ -287,16 +297,6 @@
     [
       "Elixir's “Set Theoretical Type System” prototype/demo/showcase",
       "https://typex.fly.dev"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 18:40:13",
-      "https://news.ycombinator.com/item?id=36298798"
-    ],
-    [
-      "Metal shader converter and the missing device-scoped barrier",
-      "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
     ]
   ]
 ]
