@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 13:52:56](https://news.ycombinator.com/item?id=36325958) - [Reddit Is OpenAI's Moat](https://www.cyberdemon.org/2023/06/14/reddit-moat.html)
+* [2023-06-14, 13:43:22](https://news.ycombinator.com/item?id=36325812) - [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
+* [2023-06-14, 13:23:38](https://news.ycombinator.com/item?id=36325540) - [Ask HN: Is everyone becoming a Product Manager these days?](https://news.ycombinator.com/item?id=36325540)
 * [2023-06-14, 13:22:33](https://news.ycombinator.com/item?id=36325523) - [NPM won't publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
 * [2023-06-14, 11:32:21](https://news.ycombinator.com/item?id=36324281) - [Show HN: I’m building open-source headless CMS for technical content](https://vrite.io/)
 * [2023-06-14, 11:19:06](https://news.ycombinator.com/item?id=36324174) - [New Functionality: Bluetooth for Raspberry Pi Pico W](https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/)
 * [2023-06-14, 11:12:28](https://news.ycombinator.com/item?id=36324118) - [EU suggests breaking up Google's ad business in preliminary antitrust ruling](https://www.theverge.com/2023/6/14/23759094/european-commission-google-antitrust-advertising-market-antitrust)
-* [2023-06-14, 09:20:59](https://news.ycombinator.com/item?id=36323405) - [Heat pumps, heat pumps, heat pumps](https://www.noahpinion.blog/p/heat-pumps-heat-pumps-heat-pumps)
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 * [2023-06-14, 08:05:58](https://news.ycombinator.com/item?id=36322922) - [MacOS X 10.1 (2001)](http://toastytech.com/guis/osx.html)
@@ -17,7 +19,6 @@
 * [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
 * [2023-06-14, 03:05:28](https://news.ycombinator.com/item?id=36320914) - [Making a RISC-V Operating System Using Rust (2019)](https://osblog.stephenmarz.com/)
 * [2023-06-14, 02:40:22](https://news.ycombinator.com/item?id=36320746) - [Gamification, life, and the pursuit of a gold badge (2021)](https://austinhenley.com/blog/gamification.html)
-* [2023-06-14, 01:46:23](https://news.ycombinator.com/item?id=36320316) - [The microarchitectures that I saw and the ones that I hope to one day see [pdf]](https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf)
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is parallel programming hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
@@ -29,7 +30,6 @@
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
 * [2023-06-13, 11:46:47](https://news.ycombinator.com/item?id=36308806) - [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
 * [2023-06-13, 05:03:22](https://news.ycombinator.com/item?id=36305627) - [National Treasure: tea utensils used by early modern practitioners of chanoyu](https://www.laphamsquarterly.org/roundtable/national-treasure)
-* [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
 
 ## [Archives](archives/index.md)
 
