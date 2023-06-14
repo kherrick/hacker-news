@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36330429"
     ],
     [
-      "Zap – Blazingly fast backends in Zig",
+      "Zap – Fast backends in Zig",
       "https://github.com/zigzap/zap"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "Brain fog after Covid-19 has similarities to ‘chemo brain’ in mice: study",
       "https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 17:38:27",
-      "https://news.ycombinator.com/item?id=36329507"
-    ],
-    [
-      "Python GUIs",
-      "https://www.pythonguis.com"
     ]
   ],
   [
@@ -151,22 +141,22 @@
   ],
   [
     [
-      "2023-06-14, 16:00:03",
-      "https://news.ycombinator.com/item?id=36327911"
-    ],
-    [
-      "Vercel's AI Accelerator",
-      "https://vercel.com/blog/vercel-ai-accelerator"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 15:22:01",
       "https://news.ycombinator.com/item?id=36327347"
     ],
     [
       "Migrating from Heroku to EKS",
       "https://blog.hellolanding.tech/move-fast-avoid-sharp-edges-5d3a07f19a59"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 14:38:50",
+      "https://news.ycombinator.com/item?id=36326706"
+    ],
+    [
+      "France’s Mistral AI raises a $113M seed round to take on OpenAI",
+      "https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/"
     ]
   ],
   [
@@ -187,16 +177,6 @@
     [
       "Dumb and Gets Things Done (2010)",
       "https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 14:19:20",
-      "https://news.ycombinator.com/item?id=36326384"
-    ],
-    [
-      "Bringing emulation into the 21st century (2021)",
-      "https://blog.davetcode.co.uk/post/21st-century-emulator/"
     ]
   ],
   [
@@ -225,7 +205,7 @@
       "https://news.ycombinator.com/item?id=36324571"
     ],
     [
-      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
+      "Skio (YC S20) Is Hiring – Subscriptions for Shopify, ReCharge Migrations",
       "https://skio.com/careers/"
     ]
   ],
@@ -237,6 +217,26 @@
     [
       "The Deliberate Practice Guide (2021)",
       "https://fs.blog/deliberate-practice-guide/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 09:00:15",
+      "https://news.ycombinator.com/item?id=36323275"
+    ],
+    [
+      "Consciousness and Anaesthesia (2009)",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 08:24:27",
+      "https://news.ycombinator.com/item?id=36323058"
+    ],
+    [
+      "How to listen to database changes using Postgres triggers in elixir",
+      "https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=36317153"
     ],
     [
-      "Proposing a Struct Syntax for Python",
+      "Proposing a struct syntax for Python",
       "https://snarky.ca/proposing-a-struct-syntax/"
     ]
   ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36316848"
     ],
     [
-      "Repairing Electronics: A Circular Economy Solution",
+      "Repairing Electronics: A circular economy solution",
       "https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/"
     ]
   ],
