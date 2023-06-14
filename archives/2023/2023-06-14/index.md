@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 * [2023-06-14, 18:55:06](https://news.ycombinator.com/item?id=36330812) - [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
 * [2023-06-14, 18:31:14](https://news.ycombinator.com/item?id=36330429) - [Zap – Blazingly fast backends in Zig](https://github.com/zigzap/zap)
 * [2023-06-14, 18:17:29](https://news.ycombinator.com/item?id=36330167) - [AWS US-East-1 Goes Down Again, and People Scream “Multi-Region ” – A Rant](https://blog.verta.ai/aws-us-east-1-goes-down-again-0623-0)
