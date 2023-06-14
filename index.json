@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-14, 20:22:33",
+      "https://news.ycombinator.com/item?id=36332033"
+    ],
+    [
+      "Attention is Turing complete [pdf]",
+      "https://www.jmlr.org/papers/volume22/20-302/20-302.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 19:42:49",
       "https://news.ycombinator.com/item?id=36331481"
     ],
     [
       "Enforced bounds checking for frozen C function interfaces",
       "https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 19:40:35",
+      "https://news.ycombinator.com/item?id=36331446"
+    ],
+    [
+      "Recovering secret keys from devices using video footage of their power LED",
+      "https://www.nassiben.com/video-based-crypta"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Native JSON Output from GPT-4",
       "https://yonom.substack.com/p/native-json-output-from-gpt-4"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 18:55:06",
-      "https://news.ycombinator.com/item?id=36330812"
-    ],
-    [
-      "Twitter is being evicted from its Boulder office over unpaid rent",
-      "https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Migrating from Heroku to EKS",
       "https://blog.hellolanding.tech/move-fast-avoid-sharp-edges-5d3a07f19a59"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 14:38:50",
-      "https://news.ycombinator.com/item?id=36326706"
-    ],
-    [
-      "France’s Mistral AI raises a $113M seed round to take on OpenAI",
-      "https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/"
     ]
   ],
   [
