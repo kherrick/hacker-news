@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-14, 16:14:57",
+      "https://news.ycombinator.com/item?id=36328148"
+    ],
+    [
+      "Why PostgreSQL High Availability Matters and How to Achieve It",
+      "https://www.yugabyte.com/postgresql/postgresql-high-availability/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 15:57:53",
+      "https://news.ycombinator.com/item?id=36327877"
+    ],
+    [
+      "Faster Sorting Algorithm Discovered by Speaking in Tongues",
+      "https://sebastiancarlos.com/faster-sorting-algorithm-discovered-by-speaking-in-tongues-ade441bb2796"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 15:49:38",
+      "https://news.ycombinator.com/item?id=36327770"
+    ],
+    [
+      "NYC food delivery gig workers score a big minimum wage victory",
+      "https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 15:13:48",
       "https://news.ycombinator.com/item?id=36327210"
     ],
@@ -87,16 +117,6 @@
     [
       "I booted Linux 292,612 times",
       "https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 13:52:56",
-      "https://news.ycombinator.com/item?id=36325958"
-    ],
-    [
-      "Reddit Is OpenAI’s Moat?",
-      "https://www.cyberdemon.org/2023/06/14/reddit-moat.html"
     ]
   ],
   [
@@ -237,26 +257,6 @@
     [
       "Toward a more useful keyboard",
       "https://github.com/jasonrudolph/keyboard"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 04:06:51",
-      "https://news.ycombinator.com/item?id=36321310"
-    ],
-    [
-      "New RAM card, prototype Mac Portable, demo System 7",
-      "http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 03:05:28",
-      "https://news.ycombinator.com/item?id=36320914"
-    ],
-    [
-      "Making a RISC-V Operating System Using Rust (2019)",
-      "https://osblog.stephenmarz.com/"
     ]
   ],
   [
