@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-14, 16:32:52](https://news.ycombinator.com/item?id=36328433) - [Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php)
+* [2023-06-14, 16:25:41](https://news.ycombinator.com/item?id=36328320) - [APIs for content sites must be free](https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html)
 * [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/abs/2306.07695)
 * [2023-06-14, 16:14:57](https://news.ycombinator.com/item?id=36328148) - [Why PostgreSQL High Availability Matters and How to Achieve It](https://www.yugabyte.com/postgresql/postgresql-high-availability/)
 * [2023-06-14, 15:49:38](https://news.ycombinator.com/item?id=36327770) - [NYC food delivery gig workers score a big minimum wage victory](https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates)
@@ -10,7 +11,6 @@
 * [2023-06-14, 15:02:10](https://news.ycombinator.com/item?id=36327036) - [Anker’s Solix home solar battery system is its answer to Tesla’s Powerwall](https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce)
 * [2023-06-14, 14:56:25](https://news.ycombinator.com/item?id=36326956) - [33-46% of workers on MTurk used LLMs in a text production task](https://arxiv.org/abs/2306.07899)
 * [2023-06-14, 14:38:50](https://news.ycombinator.com/item?id=36326706) - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
-* [2023-06-14, 14:36:30](https://news.ycombinator.com/item?id=36326677) - [SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 14:24:49](https://news.ycombinator.com/item?id=36326495) - [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
 * [2023-06-14, 14:19:20](https://news.ycombinator.com/item?id=36326384) - [Bringing emulation into the 21st century (2021)](https://blog.davetcode.co.uk/post/21st-century-emulator/)

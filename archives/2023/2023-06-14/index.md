@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
 * [2023-06-14, 16:32:52](https://news.ycombinator.com/item?id=36328433) - [Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php)
+* [2023-06-14, 16:25:41](https://news.ycombinator.com/item?id=36328320) - [APIs for content sites must be free](https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html)
 * [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/abs/2306.07695)
 * [2023-06-14, 16:14:57](https://news.ycombinator.com/item?id=36328148) - [Why PostgreSQL High Availability Matters and How to Achieve It](https://www.yugabyte.com/postgresql/postgresql-high-availability/)
 * [2023-06-14, 15:57:53](https://news.ycombinator.com/item?id=36327877) - [Faster Sorting Algorithm Discovered by Speaking in Tongues](https://sebastiancarlos.com/faster-sorting-algorithm-discovered-by-speaking-in-tongues-ade441bb2796)
