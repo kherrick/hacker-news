@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 04:06:51",
+      "https://news.ycombinator.com/item?id=36321310"
+    ],
+    [
+      "New RAM card, prototype Mac Portable, demo System 7",
+      "http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 02:40:22",
       "https://news.ycombinator.com/item?id=36320746"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-06-13, 13:44:11",
-      "https://news.ycombinator.com/item?id=36310145"
-    ],
-    [
-      "Jim Keller on AI, RISC-V, Tenstorrent’s Move to Edge IP",
-      "https://www.eetimes.com/jim-keller-on-ai-risc-v-tenstorrents-move-to-edge-ip/"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 13:43:05",
-      "https://news.ycombinator.com/item?id=36310130"
-    ],
-    [
-      "Rewriting the Ruby parser",
-      "https://railsatscale.com//2023-06-12-rewriting-the-ruby-parser/"
-    ]
-  ],
-  [
-    [
       "2023-06-13, 12:16:25",
       "https://news.ycombinator.com/item?id=36309120"
     ],
@@ -277,6 +267,16 @@
     [
       "A simple hash table in C",
       "https://theleo.zone/posts/hashmap-in-c/"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 22:35:09",
+      "https://news.ycombinator.com/item?id=36302271"
+    ],
+    [
+      "Fishfuzz: Catch Deeper Bugs by Throwing Larger Nets [pdf]",
+      "https://nebelwelt.net/publications/files/23SEC5.pdf"
     ]
   ],
   [
