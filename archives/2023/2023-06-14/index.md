@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 16:41:20](https://news.ycombinator.com/item?id=36328580) - [What Reddit Got Wrong](https://www.eff.org/deeplinks/2023/06/what-reddit-got-wrong)
+* [2023-06-14, 16:39:55](https://news.ycombinator.com/item?id=36328558) - [Building an Instagram Clone for Puppies Using Courier Inbox, Next.js and Inngest](https://www.courier.com/blog/introducing-puppygram-powered-by-courier-inbox-next-js-and-inngest/)
 * [2023-06-14, 16:32:52](https://news.ycombinator.com/item?id=36328433) - [Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php)
 * [2023-06-14, 16:25:41](https://news.ycombinator.com/item?id=36328320) - [APIs for content sites must be free](https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html)
 * [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/abs/2306.07695)
