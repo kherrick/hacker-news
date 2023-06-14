@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-14, 22:35:28",
+      "https://news.ycombinator.com/item?id=36333762"
+    ],
+    [
+      "Scientists Discover Phosphorus on Enceladus",
+      "https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 21:56:21",
       "https://news.ycombinator.com/item?id=36333321"
     ],
@@ -27,16 +37,6 @@
     [
       "Why does nuclear power plant construction cost so much?",
       "https://progress.institute/nuclear-power-plant-construction-costs/"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 20:32:01",
-      "https://news.ycombinator.com/item?id=36332174"
-    ],
-    [
-      "Apollo Remastered",
-      "https://kottke.org/23/06/apollo-remastered"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-06-14, 04:12:58",
+      "https://news.ycombinator.com/item?id=36321361"
+    ],
+    [
+      "How to implement dependent type theory I (2012)",
+      "https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 21:09:26",
       "https://news.ycombinator.com/item?id=36317385"
     ],
@@ -277,16 +287,6 @@
     [
       "Moving fast with the core Vim motions",
       "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 15:18:00",
-      "https://news.ycombinator.com/item?id=36311508"
-    ],
-    [
-      "Leveraging the power of Lua scripting with Dragonfly",
-      "https://www.dragonflydb.io/blog/leveraging-power-of-lua-scripting"
     ]
   ],
   [
