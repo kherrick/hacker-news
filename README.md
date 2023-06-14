@@ -20,7 +20,6 @@
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity is buying everything from vet offices to tech conglomerates](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 * [2023-06-13, 17:33:10](https://news.ycombinator.com/item?id=36313671) - [Finish your projects](https://github.com/readme/guides/finish-your-projects)
 * [2023-06-13, 17:25:34](https://news.ycombinator.com/item?id=36313562) - [Track HN: Survival Rate of Show HN Stories](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
-* [2023-06-13, 17:00:54](https://news.ycombinator.com/item?id=36313201) - [BuildZoom (YC W13) is hiring a growth associate](https://jobs.lever.co/buildzoom)
 * [2023-06-13, 16:25:16](https://news.ycombinator.com/item?id=36312603) - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
 * [2023-06-13, 16:19:56](https://news.ycombinator.com/item?id=36312488) - [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
 * [2023-06-13, 16:08:12](https://news.ycombinator.com/item?id=36312295) - [Working quickly is more important than it seems (2015)](http://jsomers.net/blog/speed-matters)
@@ -30,6 +29,7 @@
 * [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
 * [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
+* [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
 ## [Archives](archives/index.md)
 
