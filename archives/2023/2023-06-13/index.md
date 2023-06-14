@@ -56,6 +56,7 @@
 * [2023-06-13, 12:24:32](https://news.ycombinator.com/item?id=36309211) - [Damus to be removed from App Store as zaps could be used to sell digital content](https://twitter.com/damusapp/status/1668529709867495424)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for Developers Using React](https://resend.com)
 * [2023-06-13, 12:03:59](https://news.ycombinator.com/item?id=36308993) - [Show HN: A smarter Unix shell and scripting environment](https://github.com/lmorg/murex)
+* [2023-06-13, 11:46:47](https://news.ycombinator.com/item?id=36308806) - [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
 * [2023-06-13, 11:30:41](https://news.ycombinator.com/item?id=36308596) - [Hard Boiled Eggs](https://mastodon.social/@sarambsimon/110526727179719620)
 * [2023-06-13, 11:21:24](https://news.ycombinator.com/item?id=36308489) - [Opinion: Geoengineering Is Shockingly Inexpensive](https://phys.org/news/2023-06-opinion-geoengineering-inexpensive.html)
 * [2023-06-13, 11:03:14](https://news.ycombinator.com/item?id=36308366) - [Johnny Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/)
