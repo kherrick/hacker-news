@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
+* [2023-06-14, 22:17:01](https://news.ycombinator.com/item?id=36333552) - [1,626 Books Were Banned Across America Last Year We Reviewed All of Them](https://yarn.joinstatecraft.com/books)
+* [2023-06-14, 21:53:28](https://news.ycombinator.com/item?id=36333290) - [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
+* [2023-06-14, 21:52:32](https://news.ycombinator.com/item?id=36333273) - [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
 * [2023-06-14, 21:21:14](https://news.ycombinator.com/item?id=36332870) - [Hundreds of subreddits plan to go dark indefinitely after Reddit CEO's memo](https://techcrunch.com/2023/06/14/hundreds-of-subreddits-plan-to-go-dark-indefinitely-after-reddit-ceos-internal-memo/)
 * [2023-06-14, 20:46:28](https://news.ycombinator.com/item?id=36332393) - [NY Senate Introduces Bill to Mandate Open API Access for Social Media Platforms](https://www.news.upveda.in/2023/06/14/new-york-introduces-bill-requiring-social-media-platforms-to-provide-open-api-access-for-third-party-applications/)
 * [2023-06-14, 20:32:01](https://news.ycombinator.com/item?id=36332174) - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
