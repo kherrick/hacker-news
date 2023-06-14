@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
 * [2023-06-14, 05:37:14](https://news.ycombinator.com/item?id=36321843) - [Serotonin booster leads to increased functional brain connectivity](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406)
+* [2023-06-14, 05:27:58](https://news.ycombinator.com/item?id=36321783) - [Gandi.net – Pricing Update](https://cloudflare-ipfs.com/ipfs/QmcCUA7Q58rKFka7Gfz8aaspeqg5iKNB6BvABrUfpMXeue)
 * [2023-06-14, 05:27:05](https://news.ycombinator.com/item?id=36321780) - [The Reddit blackout will continue](https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/)
 * [2023-06-14, 05:24:53](https://news.ycombinator.com/item?id=36321763) - [Toward a More Useful Keyboard](https://github.com/jasonrudolph/keyboard)
 * [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
@@ -21,9 +23,7 @@
 * [2023-06-13, 19:27:45](https://news.ycombinator.com/item?id=36315608) - [Do high interest rates fix high inflation?](https://www.lynalden.com/inflation-vs-interest-rates/)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity is buying everything from vet offices to tech conglomerates](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
 * [2023-06-13, 17:33:10](https://news.ycombinator.com/item?id=36313671) - [Finish your projects](https://github.com/readme/guides/finish-your-projects)
-* [2023-06-13, 17:25:34](https://news.ycombinator.com/item?id=36313562) - [Track HN: Survival Rate of Show HN Stories](https://nami.land/2023/06/11/track-hn-analyze-survival-rate-of-120-396-show-hn-posts-june-2023.html)
 * [2023-06-13, 16:52:56](https://news.ycombinator.com/item?id=36313096) - [Two-Stage Contrastive Whole Output Explaination (CWOX-2s)](https://github.com/vaynexie/CWOX)
-* [2023-06-13, 16:08:12](https://news.ycombinator.com/item?id=36312295) - [Working quickly is more important than it seems (2015)](http://jsomers.net/blog/speed-matters)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
 * [2023-06-13, 11:46:47](https://news.ycombinator.com/item?id=36308806) - [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
 * [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
