@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-14, 20:32:01](https://news.ycombinator.com/item?id=36332174) - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
+* [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
 * [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 * [2023-06-14, 20:09:24](https://news.ycombinator.com/item?id=36331849) - [San Francisco library turning off WiFi at night to keep homeless from using it](https://www.theverge.com/2023/6/14/23760787/san-francisco-public-library-wifi-homeless-castro-district-8)
 * [2023-06-14, 19:42:49](https://news.ycombinator.com/item?id=36331481) - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
@@ -11,7 +12,6 @@
 * [2023-06-14, 18:31:14](https://news.ycombinator.com/item?id=36330429) - [Zap – Fast backends in Zig](https://github.com/zigzap/zap)
 * [2023-06-14, 18:14:27](https://news.ycombinator.com/item?id=36330116) - [I may be the only evil (bit) user on the internet (2015)](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
 * [2023-06-14, 18:08:19](https://news.ycombinator.com/item?id=36330012) - [Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC](https://github.com/JonLatane/jonline)
-* [2023-06-14, 17:47:29](https://news.ycombinator.com/item?id=36329645) - [Brain fog after Covid-19 has similarities to ‘chemo brain’ in humans and mice](https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html)
 * [2023-06-14, 17:36:52](https://news.ycombinator.com/item?id=36329483) - [New York State Senate passes prohibitions on non-competes](https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/)
 * [2023-06-14, 16:32:52](https://news.ycombinator.com/item?id=36328433) - [Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php)
 * [2023-06-14, 16:28:00](https://news.ycombinator.com/item?id=36328352) - [First people sickened by Covid-19 were scientists at WIV: US government sources](https://public.substack.com/p/first-people-sickened-by-covid-19)

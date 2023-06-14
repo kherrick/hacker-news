@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
 * [2023-06-14, 20:32:01](https://news.ycombinator.com/item?id=36332174) - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
+* [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
 * [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 * [2023-06-14, 20:09:24](https://news.ycombinator.com/item?id=36331849) - [San Francisco library turning off WiFi at night to keep homeless from using it](https://www.theverge.com/2023/6/14/23760787/san-francisco-public-library-wifi-homeless-castro-district-8)
 * [2023-06-14, 19:42:49](https://news.ycombinator.com/item?id=36331481) - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
