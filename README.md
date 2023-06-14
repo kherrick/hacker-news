@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 15:13:48](https://news.ycombinator.com/item?id=36327210) - [The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
 * [2023-06-14, 14:38:50](https://news.ycombinator.com/item?id=36326706) - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
 * [2023-06-14, 14:36:30](https://news.ycombinator.com/item?id=36326677) - [SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
@@ -25,8 +26,7 @@
 * [2023-06-14, 04:06:51](https://news.ycombinator.com/item?id=36321310) - [New RAM card, prototype Mac Portable, demo System 7](http://oldvcr.blogspot.com/2023/06/new-ram-card-prototype-mac-portable.html)
 * [2023-06-14, 03:05:28](https://news.ycombinator.com/item?id=36320914) - [Making a RISC-V Operating System Using Rust (2019)](https://osblog.stephenmarz.com/)
 * [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is parallel programming hard, and, if so, what can you do about it?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
-* [2023-06-13, 20:03:19](https://news.ycombinator.com/item?id=36316134) - [McDonald's just dropped a brand new Game Boy game](https://retrododo.com/mcdonalds-grimaces-birthday/)
-* [2023-06-13, 20:00:06](https://news.ycombinator.com/item?id=36316079) - [Cormac McCarthy has died](https://www.nytimes.com/2023/06/13/books/cormac-mccarthy-dead.html)
+* [2023-06-13, 20:22:46](https://news.ycombinator.com/item?id=36316502) - [TypeCell, open source TypeScript notebooks live programming environment](https://www.typecell.org/)
 * [2023-06-13, 15:40:17](https://news.ycombinator.com/item?id=36311875) - [The Design Principles of the Elixir Type System [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
 * [2023-06-13, 04:58:15](https://news.ycombinator.com/item?id=36305568) - [Doas Mastery (2019)](https://flak.tedunangst.com/post/doas-mastery)
