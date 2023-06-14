@@ -8,6 +8,8 @@
 * [2023-06-14, 13:43:22](https://news.ycombinator.com/item?id=36325812) - [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
 * [2023-06-14, 13:23:38](https://news.ycombinator.com/item?id=36325540) - [Ask HN: Is everyone becoming a Product Manager these days?](https://news.ycombinator.com/item?id=36325540)
 * [2023-06-14, 13:22:33](https://news.ycombinator.com/item?id=36325523) - [NPM won't publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
+* [2023-06-14, 13:09:58](https://news.ycombinator.com/item?id=36325349) - [Always the Same Warning Signs](https://www.science.org/content/blog-post/always-same-warning-signs)
+* [2023-06-14, 12:52:27](https://news.ycombinator.com/item?id=36325127) - [Reddit just auto removed my comment with a link to Lemmy.ml](https://programming.dev/post/34008)
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
 * [2023-06-14, 11:32:21](https://news.ycombinator.com/item?id=36324281) - [Show HN: I’m building open-source headless CMS for technical content](https://vrite.io/)

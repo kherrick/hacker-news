@@ -4,6 +4,8 @@
 * [2023-06-14, 13:43:22](https://news.ycombinator.com/item?id=36325812) - [Show HN: Scribbler – Podcast Summaries Using GPT](https://app.scribbler.so)
 * [2023-06-14, 13:23:38](https://news.ycombinator.com/item?id=36325540) - [Ask HN: Is everyone becoming a Product Manager these days?](https://news.ycombinator.com/item?id=36325540)
 * [2023-06-14, 13:22:33](https://news.ycombinator.com/item?id=36325523) - [NPM won't publish packages containing the word keygen](https://mamot.fr/@Franky47/110542776481020618)
+* [2023-06-14, 13:09:58](https://news.ycombinator.com/item?id=36325349) - [Always the Same Warning Signs](https://www.science.org/content/blog-post/always-same-warning-signs)
+* [2023-06-14, 12:52:27](https://news.ycombinator.com/item?id=36325127) - [Reddit just auto removed my comment with a link to Lemmy.ml](https://programming.dev/post/34008)
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
 * [2023-06-14, 11:32:21](https://news.ycombinator.com/item?id=36324281) - [Show HN: I’m building open-source headless CMS for technical content](https://vrite.io/)
@@ -28,8 +30,6 @@
 * [2023-06-13, 19:19:18](https://news.ycombinator.com/item?id=36315475) - [Tips for Building SSR/HDA Applications](https://htmx.org/essays/10-tips-for-ssr-hda-apps/)
 * [2023-06-13, 15:40:17](https://news.ycombinator.com/item?id=36311875) - [The Design Principles of the Elixir Type System [pdf]](https://www.irif.fr/_media/users/gduboc/elixir-types.pdf)
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
-* [2023-06-13, 11:46:47](https://news.ycombinator.com/item?id=36308806) - [Aspect-Oriented Programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)
-* [2023-06-13, 05:03:22](https://news.ycombinator.com/item?id=36305627) - [National Treasure: tea utensils used by early modern practitioners of chanoyu](https://www.laphamsquarterly.org/roundtable/national-treasure)
 
 ## [Archives](archives/index.md)
 
