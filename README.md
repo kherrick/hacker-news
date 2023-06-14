@@ -2,6 +2,7 @@
 
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 * [2023-06-14, 18:55:06](https://news.ycombinator.com/item?id=36330812) - [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
+* [2023-06-14, 18:37:49](https://news.ycombinator.com/item?id=36330541) - [Phoenix LiveView: Async Assign Pattern](http://blog.andyglassman.com/2023/06/phoenix-liveview-async-assign-pattern.html)
 * [2023-06-14, 18:31:14](https://news.ycombinator.com/item?id=36330429) - [Zap – Blazingly fast backends in Zig](https://github.com/zigzap/zap)
 * [2023-06-14, 18:14:27](https://news.ycombinator.com/item?id=36330116) - [I may be the only evil (bit) user on the internet (2015)](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
 * [2023-06-14, 18:08:19](https://news.ycombinator.com/item?id=36330012) - [Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC](https://github.com/JonLatane/jonline)
@@ -14,7 +15,6 @@
 * [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting user locations by analyzing SMS timings](https://arxiv.org/abs/2306.07695)
 * [2023-06-14, 16:00:03](https://news.ycombinator.com/item?id=36327911) - [Vercel's AI Accelerator](https://vercel.com/blog/vercel-ai-accelerator)
 * [2023-06-14, 15:22:01](https://news.ycombinator.com/item?id=36327347) - [Migrating from Heroku to EKS](https://blog.hellolanding.tech/move-fast-avoid-sharp-edges-5d3a07f19a59)
-* [2023-06-14, 14:38:50](https://news.ycombinator.com/item?id=36326706) - [France’s Mistral AI raises a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 14:24:49](https://news.ycombinator.com/item?id=36326495) - [Dumb and Gets Things Done (2010)](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
 * [2023-06-14, 14:19:20](https://news.ycombinator.com/item?id=36326384) - [Bringing emulation into the 21st century (2021)](https://blog.davetcode.co.uk/post/21st-century-emulator/)
@@ -25,9 +25,9 @@
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://murray-lab.caltech.edu/CTX/)
-* [2023-06-14, 05:37:14](https://news.ycombinator.com/item?id=36321843) - [Serotonin booster leads to increased functional brain connectivity](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406)
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2023-06-13, 20:55:50](https://news.ycombinator.com/item?id=36317153) - [Proposing a Struct Syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
+* [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A Circular Economy Solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
 * [2023-06-13, 20:22:46](https://news.ycombinator.com/item?id=36316502) - [TypeCell, open source TypeScript notebooks live programming environment](https://www.typecell.org/)
 * [2023-06-13, 15:18:00](https://news.ycombinator.com/item?id=36311508) - [Leveraging the power of Lua scripting with Dragonfly](https://www.dragonflydb.io/blog/leveraging-power-of-lua-scripting)
 
