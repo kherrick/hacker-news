@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-14, 09:56:38](https://news.ycombinator.com/item?id=36323634) - [Hotel Owners Start to Write Off San Francisco as Business Nosedives](https://www.wsj.com/articles/hotel-owners-start-to-write-off-san-francisco-as-business-nosedives-e84c64ef)
-* [2023-06-14, 09:17:31](https://news.ycombinator.com/item?id=36323387) - [A Sudanese teen posts on Reddit as she fights for her life being held captive](https://old.reddit.com/r/Sudan/comments/148x73h/probably_gonna_be_my_last_post_ever_but_if_i_die/)
-* [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
+* [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 * [2023-06-14, 08:05:58](https://news.ycombinator.com/item?id=36322922) - [Mac OS X Review from 2001](http://toastytech.com/guis/osx.html)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
@@ -13,6 +12,7 @@
 * [2023-06-14, 01:46:23](https://news.ycombinator.com/item?id=36320316) - [The microarchitectures that I saw and the ones that I hope to one day see [pdf]](https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf)
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
+* [2023-06-13, 22:58:11](https://news.ycombinator.com/item?id=36318805) - [OnBoard – A New Grants Program to Fund $100 in PCB Costs for Teenagers](https://hackclub.com/onboard/)
 * [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is Parallel Programming Hard, and, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [Lewis Hine’s early 20th-century “photo stories”](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 20:41:18](https://news.ycombinator.com/item?id=36316883) - [Open source hospital price database](https://www.dolthub.com/repositories/dolthub/transparency-in-pricing/data/main/rate)
