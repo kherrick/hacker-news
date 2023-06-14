@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-14, 21:21:14](https://news.ycombinator.com/item?id=36332870) - [Hundreds of subreddits plan to go dark indefinitely after Reddit CEO's memo](https://techcrunch.com/2023/06/14/hundreds-of-subreddits-plan-to-go-dark-indefinitely-after-reddit-ceos-internal-memo/)
 * [2023-06-14, 20:32:01](https://news.ycombinator.com/item?id=36332174) - [Apollo Remastered](https://kottke.org/23/06/apollo-remastered)
 * [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
-* [2023-06-14, 20:25:36](https://news.ycombinator.com/item?id=36332087) - [Why Nobody Will Do Anything Until It's Too Late](http://charleshughsmith.blogspot.com/2023/06/this-is-why-nobody-will-do-anything.html)
 * [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 * [2023-06-14, 20:22:33](https://news.ycombinator.com/item?id=36332033) - [Attention is Turing complete (2021) [pdf]](https://www.jmlr.org/papers/volume22/20-302/20-302.pdf)
 * [2023-06-14, 20:06:37](https://news.ycombinator.com/item?id=36331811) - [The Danger of Delegating Education to Journalists (2012)](https://radicalscholarship.com/2014/11/03/guest-post-the-danger-of-delegating-education-to-journalists-k-anders-ericsson/)
@@ -14,6 +12,7 @@
 * [2023-06-14, 18:37:49](https://news.ycombinator.com/item?id=36330541) - [Phoenix LiveView: Async Assign Pattern](http://blog.andyglassman.com/2023/06/phoenix-liveview-async-assign-pattern.html)
 * [2023-06-14, 18:31:14](https://news.ycombinator.com/item?id=36330429) - [Zap – Fast backends in Zig](https://github.com/zigzap/zap)
 * [2023-06-14, 18:14:27](https://news.ycombinator.com/item?id=36330116) - [I may be the only evil (bit) user on the internet (2015)](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
+* [2023-06-14, 18:08:19](https://news.ycombinator.com/item?id=36330012) - [Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC](https://github.com/JonLatane/jonline)
 * [2023-06-14, 17:36:52](https://news.ycombinator.com/item?id=36329483) - [New York State Senate passes prohibitions on non-competes](https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/)
 * [2023-06-14, 16:32:52](https://news.ycombinator.com/item?id=36328433) - [Bay Area woman is on a crusade to prove Yelp reviews can’t be trusted](https://www.sfgate.com/tech/article/yel-review-fraud-kay-dean-18150617.php)
 * [2023-06-14, 16:28:00](https://news.ycombinator.com/item?id=36328352) - [First people sickened by Covid-19 were scientists at WIV: US government sources](https://public.substack.com/p/first-people-sickened-by-covid-19)
@@ -28,6 +27,7 @@
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
 * [2023-06-13, 20:22:46](https://news.ycombinator.com/item?id=36316502) - [TypeCell, open source TypeScript notebooks live programming environment](https://www.typecell.org/)
+* [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving Fast with the Core Vim Motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 * [2023-06-13, 15:18:00](https://news.ycombinator.com/item?id=36311508) - [Leveraging the power of Lua scripting with Dragonfly](https://www.dragonflydb.io/blog/leveraging-power-of-lua-scripting)
 * [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
 
