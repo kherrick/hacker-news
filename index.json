@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-06-13, 22:58:11",
+      "https://news.ycombinator.com/item?id=36318805"
+    ],
+    [
+      "OnBoard – A New Grants Program to Fund $100 in PCB Costs for Teenagers",
+      "https://hackclub.com/onboard/"
+    ]
+  ],
+  [
+    [
       "2023-06-13, 21:22:49",
       "https://news.ycombinator.com/item?id=36317587"
     ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-06-13, 16:08:12",
-      "https://news.ycombinator.com/item?id=36312295"
-    ],
-    [
-      "Working quickly is more important than it seems (2015)",
-      "http://jsomers.net/blog/speed-matters"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 16:01:39",
-      "https://news.ycombinator.com/item?id=36312200"
-    ],
-    [
-      "Comic Mono",
-      "https://dtinth.github.io/comic-mono-font/"
-    ]
-  ],
-  [
-    [
       "2023-06-13, 12:16:25",
       "https://news.ycombinator.com/item?id=36309120"
     ],
@@ -297,6 +287,16 @@
     [
       "Elixir's “Set Theoretical Type System” prototype/demo/showcase",
       "https://typex.fly.dev"
+    ]
+  ],
+  [
+    [
+      "2023-06-12, 18:40:13",
+      "https://news.ycombinator.com/item?id=36298798"
+    ],
+    [
+      "Metal shader converter and the missing device-scoped barrier",
+      "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
     ]
   ]
 ]
