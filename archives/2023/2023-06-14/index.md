@@ -10,6 +10,7 @@
 * [2023-06-14, 16:25:41](https://news.ycombinator.com/item?id=36328320) - [APIs for content sites must be free](https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html)
 * [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting User Locations by Analyzing SMS Timings](https://arxiv.org/abs/2306.07695)
 * [2023-06-14, 16:14:57](https://news.ycombinator.com/item?id=36328148) - [Why PostgreSQL High Availability Matters and How to Achieve It](https://www.yugabyte.com/postgresql/postgresql-high-availability/)
+* [2023-06-14, 16:00:03](https://news.ycombinator.com/item?id=36327911) - [Vercel's AI Accelerator](https://vercel.com/blog/vercel-ai-accelerator)
 * [2023-06-14, 15:57:53](https://news.ycombinator.com/item?id=36327877) - [Faster Sorting Algorithm Discovered by Speaking in Tongues](https://sebastiancarlos.com/faster-sorting-algorithm-discovered-by-speaking-in-tongues-ade441bb2796)
 * [2023-06-14, 15:49:38](https://news.ycombinator.com/item?id=36327770) - [NYC food delivery gig workers score a big minimum wage victory](https://www.theverge.com/2023/6/12/23757900/nyc-food-delivery-minimum-wage-uber-eats-doordash-postmates)
 * [2023-06-14, 15:40:28](https://news.ycombinator.com/item?id=36327624) - [Karl Guttag on Apple Vision Pro (Part 1)](https://kguttag.com/2023/06/13/apple-vision-pro-part-1-what-apple-got-right-compared-to-the-meta-quest-pro/)
