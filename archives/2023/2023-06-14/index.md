@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-14](index.md)
 
 * [2023-06-14, 15:13:48](https://news.ycombinator.com/item?id=36327210) - [The Reddit blackout has left Google barren and full of holes – TechRadar](https://www.techradar.com/opinion/the-reddit-blackout-has-left-google-barren-and-full-of-holes)
+* [2023-06-14, 15:02:10](https://news.ycombinator.com/item?id=36327036) - [Anker’s Solix home solar battery system is its answer to Tesla’s Powerwall](https://www.theverge.com/2023/6/14/23760241/anker-solix-home-energy-solution-system-announce)
 * [2023-06-14, 14:54:21](https://news.ycombinator.com/item?id=36326926) - [The end of Reddit? Why the blackout is still going – and what happens next](https://www.techradar.com/news/the-end-of-reddit-heres-why-most-of-the-site-is-down-and-what-happens-next)
 * [2023-06-14, 14:38:50](https://news.ycombinator.com/item?id=36326706) - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
 * [2023-06-14, 14:36:30](https://news.ycombinator.com/item?id=36326677) - [SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
