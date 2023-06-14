@@ -28,8 +28,8 @@
 * [2023-06-13, 12:16:25](https://news.ycombinator.com/item?id=36309120) - [Launch HN: Resend (YC W23) – Email API for developers using React](https://resend.com)
 * [2023-06-13, 09:54:58](https://news.ycombinator.com/item?id=36307883) - [Night of the Runbooks: a DevOps horror story](https://bitfieldconsulting.com/blog/night-of-the-runbooks)
 * [2023-06-12, 22:58:55](https://news.ycombinator.com/item?id=36302552) - [A simple hash table in C](https://theleo.zone/posts/hashmap-in-c/)
-* [2023-06-12, 22:35:09](https://news.ycombinator.com/item?id=36302271) - [Fishfuzz: Catch Deeper Bugs by Throwing Larger Nets [pdf]](https://nebelwelt.net/publications/files/23SEC5.pdf)
 * [2023-06-12, 19:02:42](https://news.ycombinator.com/item?id=36299214) - [Elixir's “Set Theoretical Type System” prototype/demo/showcase](https://typex.fly.dev)
+* [2023-06-12, 18:40:13](https://news.ycombinator.com/item?id=36298798) - [Metal shader converter and the missing device-scoped barrier](https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html)
 
 ## [Archives](archives/index.md)
 
