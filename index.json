@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-06-14, 02:40:22",
+      "https://news.ycombinator.com/item?id=36320746"
+    ],
+    [
+      "Gamification, life, and the pursuit of a gold badge",
+      "https://austinhenley.com/blog/gamification.html"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 01:46:23",
       "https://news.ycombinator.com/item?id=36320316"
     ],
     [
       "The microarchitectures that I saw and the ones that I hope to one day see [pdf]",
       "https://hardwear.io/usa-2023/presentation/the-microarchitectures-that-I-saw-and-the-ones-that-I-hope-to-one-day-see.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 01:15:19",
-      "https://news.ycombinator.com/item?id=36320028"
-    ],
-    [
-      "Suicide Hotlines Promise Anonymity. Dozens of Websites Send Sensitive Data to FB",
-      "https://themarkup.org/pixel-hunt/2023/06/13/suicide-hotlines-promise-anonymity-dozens-of-their-websites-send-sensitive-data-to-facebook"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-06-13, 09:54:58",
+      "https://news.ycombinator.com/item?id=36307883"
+    ],
+    [
+      "Night of the Runbooks: a DevOps horror story",
+      "https://bitfieldconsulting.com/blog/night-of-the-runbooks"
+    ]
+  ],
+  [
+    [
       "2023-06-12, 22:58:55",
       "https://news.ycombinator.com/item?id=36302552"
     ],
@@ -287,16 +297,6 @@
     [
       "Elixir's “Set Theoretical Type System” prototype/demo/showcase",
       "https://typex.fly.dev"
-    ]
-  ],
-  [
-    [
-      "2023-06-12, 18:40:13",
-      "https://news.ycombinator.com/item?id=36298798"
-    ],
-    [
-      "Metal shader converter and the missing device-scoped barrier",
-      "https://raphlinus.github.io/gpu/2023/06/12/shader-converter.html"
     ]
   ]
 ]
