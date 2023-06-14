@@ -39,6 +39,7 @@
 * [2023-06-13, 16:47:34](https://news.ycombinator.com/item?id=36313004) - [Tipping in the United States has gotten out of control](https://www.cnbc.com/2023/04/01/how-tipping-in-the-united-states-got-out-of-control.html)
 * [2023-06-13, 16:25:16](https://news.ycombinator.com/item?id=36312603) - [Teach yourself Computer Science functionally](https://functionalcs.github.io/curriculum/)
 * [2023-06-13, 16:19:56](https://news.ycombinator.com/item?id=36312488) - [Text Editor Data Structures](https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/)
+* [2023-06-13, 16:17:38](https://news.ycombinator.com/item?id=36312459) - [Just Use jQuery](https://twitter.com/NariBuildsStuff/status/1668653425033195543)
 * [2023-06-13, 16:13:37](https://news.ycombinator.com/item?id=36312385) - [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
 * [2023-06-13, 16:08:12](https://news.ycombinator.com/item?id=36312295) - [Speed matters: Why working quickly is more important than it seems](http://jsomers.net/blog/speed-matters)
 * [2023-06-13, 16:01:39](https://news.ycombinator.com/item?id=36312200) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
