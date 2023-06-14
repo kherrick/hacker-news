@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-14, 18:14:27](https://news.ycombinator.com/item?id=36330116) - [I may be the only evil (bit) user on the internet](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
 * [2023-06-14, 18:08:19](https://news.ycombinator.com/item?id=36330012) - [Show HN: Jonline, AGPLv3 Social Network Built with Rust, Flutter, React, gRPC](https://github.com/JonLatane/jonline)
 * [2023-06-14, 17:58:00](https://news.ycombinator.com/item?id=36329853) - [Want to Get Stuff Done? Build Yourself a “Friction Tunnel”](https://tedium.co/2023/06/10/productivity-friction-theory/)
 * [2023-06-14, 17:47:29](https://news.ycombinator.com/item?id=36329645) - [Brain fog after Covid-19 has similarities to ‘chemo brain,’ Stanford-led study](https://med.stanford.edu/news/all-news/2022/06/brain-fog-covid-chemo-brain.html)
@@ -24,7 +25,6 @@
 * [2023-06-14, 12:02:28](https://news.ycombinator.com/item?id=36324571) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-14, 12:00:13](https://news.ycombinator.com/item?id=36324546) - [The Deliberate Practice Guide](https://fs.blog/deliberate-practice-guide/)
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia (2009)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
-* [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [2023-06-13, 20:55:50](https://news.ycombinator.com/item?id=36317153) - [Proposing a Struct Syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
