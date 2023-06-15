@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-15, 22:16:02](https://news.ycombinator.com/item?id=36347400) - [Reddit CEO slams protesters, calls them “landed gentry”](https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544)
-* [2023-06-15, 21:56:17](https://news.ycombinator.com/item?id=36347176) - [Reddit CEO Steve Huffman: It's time we grow up and behave like an adult company](https://www.npr.org/2023/06/15/1182457366/reddit-ceo-steve-huffman-its-time-we-grow-up-and-behave-like-an-adult-company)
+* [2023-06-15, 21:59:51](https://news.ycombinator.com/item?id=36347222) - [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
+* [2023-06-15, 20:59:35](https://news.ycombinator.com/item?id=36346454) - [Alphabet selling Google Domains assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace)
 * [2023-06-15, 20:47:16](https://news.ycombinator.com/item?id=36346308) - [uTox – Lightweight Tox Client](https://github.com/uTox/uTox)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:15:05](https://news.ycombinator.com/item?id=36345870) - [The Era of Brain Chips (2005) [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
