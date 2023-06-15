@@ -53,6 +53,7 @@
 * [2023-06-14, 14:54:21](https://news.ycombinator.com/item?id=36326926) - [The end of Reddit? Why the blackout is still going – and what happens next](https://www.techradar.com/news/the-end-of-reddit-heres-why-most-of-the-site-is-down-and-what-happens-next)
 * [2023-06-14, 14:38:50](https://news.ycombinator.com/item?id=36326706) - [France’s Mistral AI blows in with a $113M seed round to take on OpenAI](https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/)
 * [2023-06-14, 14:36:30](https://news.ycombinator.com/item?id=36326677) - [SimulaVR's Reaction to Apple](https://simulavr.com/blog/seeking-investment/)
+* [2023-06-14, 14:30:33](https://news.ycombinator.com/item?id=36326587) - [Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 14:24:49](https://news.ycombinator.com/item?id=36326495) - [Dumb and Gets Things Done](https://www.johndcook.com/blog/2010/12/27/dumb-and-gets-things-done/)
 * [2023-06-14, 14:19:20](https://news.ycombinator.com/item?id=36326384) - [Bringing emulation into the 21st century (2021)](https://blog.davetcode.co.uk/post/21st-century-emulator/)

@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 14:46:24](https://news.ycombinator.com/item?id=36341257) - [/r/startrek/ migrates to lemmy](https://old.reddit.com/r/startrek/)
+* [2023-06-15, 14:42:49](https://news.ycombinator.com/item?id=36341211) - [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
 * [2023-06-15, 14:21:49](https://news.ycombinator.com/item?id=36340930) - [The Matrix Cookbook [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [2023-06-15, 14:09:56](https://news.ycombinator.com/item?id=36340755) - [Stack Overflow Is Down](https://www.stackstatus.net/?)
+* [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
 * [2023-06-15, 13:51:22](https://news.ycombinator.com/item?id=36340504) - [TropeTwist: Trope-Based Narrative Structure Generation](https://arxiv.org/abs/2204.09672)
 * [2023-06-15, 13:49:47](https://news.ycombinator.com/item?id=36340482) - [What Motorcycles Teach About Maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4)
 * [2023-06-15, 13:46:38](https://news.ycombinator.com/item?id=36340439) - [DeSantis signs car dealership bill banning most direct-to-consumer auto sales](https://floridapolitics.com/archives/618230-gov-desantis-signs-car-dealership-protection-bill-banning-most-direct-to-consumer-auto-sales/)
