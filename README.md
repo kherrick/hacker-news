@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 15:40:10](https://news.ycombinator.com/item?id=36342085) - [Hacker News needs a Dark Mode](https://news.ycombinator.com/item?id=36342085)
 * [2023-06-15, 15:29:49](https://news.ycombinator.com/item?id=36341941) - [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
 * [2023-06-15, 15:17:46](https://news.ycombinator.com/item?id=36341750) - [W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
 * [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
@@ -22,7 +23,6 @@
 * [2023-06-15, 07:37:28](https://news.ycombinator.com/item?id=36337500) - [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
 * [2023-06-15, 07:33:37](https://news.ycombinator.com/item?id=36337473) - [Crawling a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
-* [2023-06-15, 00:38:20](https://news.ycombinator.com/item?id=36334912) - [SETI scientists to devise plan for lunar listening station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
 * [2023-06-14, 16:34:39](https://news.ycombinator.com/item?id=36328466) - [The PostgreSQL Documentation and the Limitations of Community](http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html)
 * [2023-06-14, 14:30:33](https://news.ycombinator.com/item?id=36326587) - [Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
 * [2023-06-13, 23:58:06](https://news.ycombinator.com/item?id=36319380) - [Automatically bisecting the Linux kernel to find a bug (2020)](https://paulgraydon.co.uk/posts/2020-12-27-automated-kernel-bisection/)
