@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
+* [2023-06-15, 18:03:27](https://news.ycombinator.com/item?id=36344313) - [Gently Down the Stream – A gentle introduction to Apache Kafka (2021)](https://www.gentlydownthe.stream/)
+* [2023-06-15, 17:54:09](https://news.ycombinator.com/item?id=36344205) - [North Koreans speak secretly to BBC from inside closed country](https://www.bbc.co.uk/news/extra/bskbb4rmae/inside-north-korea)
 * [2023-06-15, 17:51:41](https://news.ycombinator.com/item?id=36344172) - [Show HN: My first full stack project](https://www.plotnotes.ai/)
 * [2023-06-15, 17:22:20](https://news.ycombinator.com/item?id=36343779) - [US Government agencies hit in global cyberattack](https://www.cnn.com/2023/06/15/politics/us-government-hit-cybeattack/index.html)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
