@@ -35,6 +35,7 @@
 * [2023-06-13, 18:08:16](https://news.ycombinator.com/item?id=36314225) - [The Icelandic Art of Swim Lessons](https://www.fatherly.com/health/iceland-swim-lessons)
 * [2023-06-13, 18:04:08](https://news.ycombinator.com/item?id=36314136) - [Set your pricing too low and you risk loosing customers](https://twitter.com/dqmonn/status/1663236262730534912)
 * [2023-06-13, 17:54:44](https://news.ycombinator.com/item?id=36313967) - [Private equity bought out your doctor and bankrupted Toys“R”Us](https://www.theverge.com/23758492/private-equity-brendan-ballou-plunder-finance-doj)
+* [2023-06-13, 17:35:47](https://news.ycombinator.com/item?id=36313709) - [Nikon Z9 Update Turns It into an Intelligent Camera Trap](https://petapixel.com/2023/06/12/huge-nikon-z9-update-turns-it-into-an-intelligent-camera-trap/)
 * [2023-06-13, 17:34:47](https://news.ycombinator.com/item?id=36313694) - [NuShell: A New Type of Shell](https://github.com/nushell/nushell)
 * [2023-06-13, 17:34:42](https://news.ycombinator.com/item?id=36313690) - [Sources Tell Me Some Messed Up Stuff Is Happening in Commercial Real Estate](https://innovationnation.blog/p/sources-tell-me-some-messed-up-stuff)
 * [2023-06-13, 17:33:46](https://news.ycombinator.com/item?id=36313677) - [Reddit CEO tells employees that subreddit blackout ‘will pass’](https://www.theverge.com/2023/6/13/23759559/reddit-internal-memo-api-pricing-changes-steve-huffman)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 04:48:35](https://news.ycombinator.com/item?id=36336509) - [Google earns $10M from ads directing abortion seekers to pregnancy crisis center](https://www.theguardian.com/technology/2023/jun/15/google-misleading-abortion-ads-pregnancy-crisis-centers)
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 * [2023-06-15, 03:11:35](https://news.ycombinator.com/item?id=36335975) - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
 * [2023-06-15, 02:31:58](https://news.ycombinator.com/item?id=36335730) - [Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort](https://www.science.org/doi/10.1126/sciadv.add4165)
@@ -24,10 +25,9 @@
 * [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting user locations by analyzing SMS timings](https://arxiv.org/abs/2306.07695)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
-* [2023-06-14, 04:12:58](https://news.ycombinator.com/item?id=36321361) - [How to implement dependent type theory I (2012)](https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 * [2023-06-14, 03:39:59](https://news.ycombinator.com/item?id=36321139) - [Rich Kilmer on the Power of Ruby (2007)](https://www.infoq.com/news/2007/06/infoq-interview-rich-kilmer/)
-* [2023-06-13, 21:05:14](https://news.ycombinator.com/item?id=36317324) - [An Atlas for the Blind (2012)](https://www.davidrumsey.com/blog/2012/5/21/atlas-for-the-blind-1837)
 * [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
+* [2023-06-13, 17:35:47](https://news.ycombinator.com/item?id=36313709) - [Nikon Z9 Update Turns It into an Intelligent Camera Trap](https://petapixel.com/2023/06/12/huge-nikon-z9-update-turns-it-into-an-intelligent-camera-trap/)
 * [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving fast with the core Vim motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 * [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
 
