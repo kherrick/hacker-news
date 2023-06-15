@@ -7,6 +7,7 @@
 * [2023-06-15, 23:17:12](https://news.ycombinator.com/item?id=36348251) - [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
 * [2023-06-15, 23:04:18](https://news.ycombinator.com/item?id=36348040) - [The highest funded plagiarist may be an AI ethicist](https://rwincblog9.wordpress.com/2023/06/15/11/)
 * [2023-06-15, 22:55:41](https://news.ycombinator.com/item?id=36347915) - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
+* [2023-06-15, 22:50:19](https://news.ycombinator.com/item?id=36347849) - [Reddit says it won’t overrule mods and force subreddits back open](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities)
 * [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
 * [2023-06-15, 22:16:02](https://news.ycombinator.com/item?id=36347400) - [Reddit CEO slams protesters, calls them “landed gentry”](https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544)
 * [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
