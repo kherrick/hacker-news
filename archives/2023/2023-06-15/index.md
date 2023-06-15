@@ -9,6 +9,7 @@
 * [2023-06-15, 11:33:22](https://news.ycombinator.com/item?id=36338979) - [Men who helped run Megaupload sentenced to prison in New Zealand](https://abcnews.go.com/Technology/wireStory/2-men-helped-run-popular-pirating-website-megaupload-100099005)
 * [2023-06-15, 11:23:45](https://news.ycombinator.com/item?id=36338902) - [Network of channels tried to saturate YouTube with pro-Bolsonaro content](https://phys.org/news/2023-06-network-channels-saturate-youtube-pro-bolsonaro.html)
 * [2023-06-15, 11:20:54](https://news.ycombinator.com/item?id=36338875) - [The Instant Pot Failed Because It Was a Good Product](https://www.theatlantic.com/technology/archive/2023/06/instant-pot-bankrupt-private-equity/674414/)
+* [2023-06-15, 11:20:15](https://news.ycombinator.com/item?id=36338873) - [The Stupid Programmer Manifesto](https://hasen.substack.com/p/the-stupid-programmer-manifesto)
 * [2023-06-15, 11:20:01](https://news.ycombinator.com/item?id=36338870) - [Germany wants to legalize quality control of illegal drugs](https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f)
 * [2023-06-15, 11:08:39](https://news.ycombinator.com/item?id=36338784) - [The Guardian bans all gambling advertising](https://www.theguardian.com/society/2023/jun/15/guardian-bans-all-gambling-advertising)
 * [2023-06-15, 10:29:16](https://news.ycombinator.com/item?id=36338529) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
