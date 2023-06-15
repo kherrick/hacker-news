@@ -10,6 +10,7 @@
 * [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is Parallel Programming Hard, and, If So, What Can You Do About It? v2023.06.11a](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [The Photographer Who Forced the U.S. to Confront Its Child Labor Problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+* [2023-06-13, 21:05:14](https://news.ycombinator.com/item?id=36317324) - [An Atlas for the Blind (2012)](https://www.davidrumsey.com/blog/2012/5/21/atlas-for-the-blind-1837)
 * [2023-06-13, 20:55:50](https://news.ycombinator.com/item?id=36317153) - [Proposing a Struct Syntax for Python](https://snarky.ca/proposing-a-struct-syntax/)
 * [2023-06-13, 20:52:32](https://news.ycombinator.com/item?id=36317086) - [Anti-Personas](http://ignorethecode.net/blog/2023/06/13/anti_personas/)
 * [2023-06-13, 20:45:18](https://news.ycombinator.com/item?id=36316950) - [Reddit stripping moderators of rights and forcing subreddits to go public](https://famichiki.jp/@Tsutsuku/110537730270070245)
