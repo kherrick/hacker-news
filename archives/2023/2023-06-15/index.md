@@ -8,6 +8,7 @@
 * [2023-06-15, 10:21:37](https://news.ycombinator.com/item?id=36338484) - [Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
 * [2023-06-15, 10:08:46](https://news.ycombinator.com/item?id=36338395) - [Is the US trying to kill crypto?](https://www.bbc.com/news/business-65861096)
 * [2023-06-15, 10:04:43](https://news.ycombinator.com/item?id=36338365) - [FANN: Vector Search in 200 Lines of Rust](https://fennel.ai/blog/vector-search-in-200-lines-of-rust/)
+* [2023-06-15, 08:36:07](https://news.ycombinator.com/item?id=36337828) - [Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
 * [2023-06-15, 08:09:56](https://news.ycombinator.com/item?id=36337687) - [Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
 * [2023-06-15, 08:00:27](https://news.ycombinator.com/item?id=36337632) - [June (YC W21) Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
 * [2023-06-15, 07:57:42](https://news.ycombinator.com/item?id=36337615) - [How Russia Went from Ally to Adversary](https://www.newyorker.com/magazine/2023/06/19/how-the-west-lost-the-peace-philipp-ther-book-review)
