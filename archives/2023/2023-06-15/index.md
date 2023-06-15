@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 21:18:56](https://news.ycombinator.com/item?id=36346636) - [Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll](https://cryptonews.net/news/bitcoin/21159021/)
 * [2023-06-15, 20:59:35](https://news.ycombinator.com/item?id=36346454) - [Alphabet Selling Google Domains Assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace)
 * [2023-06-15, 20:47:16](https://news.ycombinator.com/item?id=36346308) - [uTox – The Lightweight Tox Client](https://github.com/uTox/uTox)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
