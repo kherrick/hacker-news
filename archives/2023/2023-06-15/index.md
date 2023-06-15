@@ -8,6 +8,7 @@
 * [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 16:20:03](https://news.ycombinator.com/item?id=36342808) - [Let's Encrypt Acme API Outage](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/648b36899c7c1405303ea8c4)
+* [2023-06-15, 16:18:36](https://news.ycombinator.com/item?id=36342785) - [Scientific Colour Maps](https://www.fabiocrameri.ch/colourmaps/)
 * [2023-06-15, 15:59:45](https://news.ycombinator.com/item?id=36342426) - [Radiation Biology Can Help Reduce Crippling Fear of Low-Level Radiation](https://journals.lww.com/health-physics/fulltext/2023/05000/how_the_science_of_radiation_biology_can_help.6.aspx)
 * [2023-06-15, 15:40:10](https://news.ycombinator.com/item?id=36342085) - [Hacker News needs a Dark Mode](https://news.ycombinator.com/item?id=36342085)
 * [2023-06-15, 15:29:49](https://news.ycombinator.com/item?id=36341941) - [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
