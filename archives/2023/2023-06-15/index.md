@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
 * [2023-06-15, 22:16:02](https://news.ycombinator.com/item?id=36347400) - [Reddit CEO slams protesters, calls them “landed gentry”](https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544)
+* [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [2023-06-15, 21:59:51](https://news.ycombinator.com/item?id=36347222) - [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
 * [2023-06-15, 21:56:17](https://news.ycombinator.com/item?id=36347176) - [Reddit CEO Steve Huffman: It's time we grow up and behave like an adult company](https://www.npr.org/2023/06/15/1182457366/reddit-ceo-steve-huffman-its-time-we-grow-up-and-behave-like-an-adult-company)
 * [2023-06-15, 21:18:56](https://news.ycombinator.com/item?id=36346636) - [Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll](https://cryptonews.net/news/bitcoin/21159021/)
 * [2023-06-15, 20:59:35](https://news.ycombinator.com/item?id=36346454) - [Alphabet Selling Google Domains Assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace)
+* [2023-06-15, 20:54:18](https://news.ycombinator.com/item?id=36346396) - [Board Changes at Signal](https://mastodon.world/@signalapp/110549355267860258)
 * [2023-06-15, 20:47:16](https://news.ycombinator.com/item?id=36346308) - [uTox – The Lightweight Tox Client](https://github.com/uTox/uTox)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:25:07](https://news.ycombinator.com/item?id=36346012) - [Ask HN: Any software engineers here that switched to a business/sales role?](https://news.ycombinator.com/item?id=36346012)
