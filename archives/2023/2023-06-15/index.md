@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 * [2023-06-15, 03:11:35](https://news.ycombinator.com/item?id=36335975) - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
 * [2023-06-15, 03:07:35](https://news.ycombinator.com/item?id=36335958) - [Renters Are About to Get the Upper Hand](https://www.wsj.com/articles/renters-are-about-to-get-the-upper-hand-f6387df4)
 * [2023-06-15, 01:39:52](https://news.ycombinator.com/item?id=36335374) - [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
