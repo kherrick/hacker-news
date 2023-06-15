@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-15, 19:56:05](https://news.ycombinator.com/item?id=36345645) - [WebStudio: Open visual development for the open web](https://webstudio.is/)
+* [2023-06-15, 20:25:07](https://news.ycombinator.com/item?id=36346012) - [Ask HN: Any software engineers here that switched to a business/sales role?](https://news.ycombinator.com/item?id=36346012)
 * [2023-06-15, 19:31:21](https://news.ycombinator.com/item?id=36345345) - [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
+* [2023-06-15, 19:28:08](https://news.ycombinator.com/item?id=36345312) - [JPMorgan Says Ex-First Lady of U.S. Virgin Islands Helped Epstein Traffic Women](https://www.wsj.com/articles/jpmorgan-says-ex-first-lady-of-u-s-virgin-islands-helped-epstein-traffic-women-509dd39d)
 * [2023-06-15, 19:26:02](https://news.ycombinator.com/item?id=36345288) - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
 * [2023-06-15, 18:40:40](https://news.ycombinator.com/item?id=36344809) - [r/startrek has just launched its own Lemmy instance](https://old.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/)
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
@@ -29,7 +30,6 @@
 * [2023-06-14, 14:30:33](https://news.ycombinator.com/item?id=36326587) - [Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
-* [2023-06-13, 15:40:13](https://news.ycombinator.com/item?id=36311871) - [Thinking Like Transformers (2021) [pdf]](https://arxiv.org/abs/2106.06981)
 
 ## [Archives](archives/index.md)
 

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 20:25:07](https://news.ycombinator.com/item?id=36346012) - [Ask HN: Any software engineers here that switched to a business/sales role?](https://news.ycombinator.com/item?id=36346012)
 * [2023-06-15, 19:56:05](https://news.ycombinator.com/item?id=36345645) - [WebStudio: Open visual development for the open web](https://webstudio.is/)
 * [2023-06-15, 19:31:21](https://news.ycombinator.com/item?id=36345345) - [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
+* [2023-06-15, 19:28:08](https://news.ycombinator.com/item?id=36345312) - [JPMorgan Says Ex-First Lady of U.S. Virgin Islands Helped Epstein Traffic Women](https://www.wsj.com/articles/jpmorgan-says-ex-first-lady-of-u-s-virgin-islands-helped-epstein-traffic-women-509dd39d)
 * [2023-06-15, 19:26:02](https://news.ycombinator.com/item?id=36345288) - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
 * [2023-06-15, 18:40:40](https://news.ycombinator.com/item?id=36344809) - [r/startrek has just launched its own Lemmy instance](https://old.reddit.com/r/startrek/comments/14a5t8w/looking_for_an_alternative_to_reddit_to_talk_trek/)
 * [2023-06-15, 18:24:20](https://news.ycombinator.com/item?id=36344587) - [How I Helped to Make Fischer Black Wealthier (1996) [pdf]](https://site.warrington.ufl.edu/ritter/files/2015/04/How-I-Helped-to-Make-Fischer-Black-Wealthier-1996.pdf)
