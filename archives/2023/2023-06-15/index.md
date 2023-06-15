@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 19:31:21](https://news.ycombinator.com/item?id=36345345) - [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
 * [2023-06-15, 19:26:02](https://news.ycombinator.com/item?id=36345288) - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
 * [2023-06-15, 18:24:20](https://news.ycombinator.com/item?id=36344587) - [How I Helped to Make Fischer Black Wealthier (1996) [pdf]](https://site.warrington.ufl.edu/ritter/files/2015/04/How-I-Helped-to-Make-Fischer-Black-Wealthier-1996.pdf)
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
