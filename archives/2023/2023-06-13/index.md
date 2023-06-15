@@ -7,6 +7,7 @@
 * [2023-06-13, 23:57:22](https://news.ycombinator.com/item?id=36319374) - [Up from the Kitchen Floor (1973)](https://www.nytimes.com/1973/03/04/archives/up-from-the-kitchen-floor-kitchen-floor.html)
 * [2023-06-13, 23:30:30](https://news.ycombinator.com/item?id=36319137) - [Effective June 7, 2026, Autodesk will no longer sell nor support EAGLE](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Autodesk-EAGLE-Announcement-Next-steps-and-FAQ.html)
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
+* [2023-06-13, 23:19:33](https://news.ycombinator.com/item?id=36319025) - [Conflict-Driven Synthesis for Layout Engines](https://dl.acm.org/doi/pdf/10.1145/3591246)
 * [2023-06-13, 22:58:11](https://news.ycombinator.com/item?id=36318805) - [OnBoard – A New Grants Program to Fund $100 in PCB Costs for Teenagers](https://hackclub.com/onboard/)
 * [2023-06-13, 22:55:42](https://news.ycombinator.com/item?id=36318780) - [Infantilism as a Norm (2018)](https://iq.hse.ru/en/news/219491658.html)
 * [2023-06-13, 22:10:06](https://news.ycombinator.com/item?id=36318281) - [Behaviour Driven Development with 6502 code](https://github.com/martinpiper/BDD6502)

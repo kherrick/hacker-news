@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 12:55:55](https://news.ycombinator.com/item?id=36339777) - [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
 * [2023-06-15, 12:02:11](https://news.ycombinator.com/item?id=36339253) - [Cement's future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
 * [2023-06-15, 12:00:30](https://news.ycombinator.com/item?id=36339236) - [JetPack Aviation (YC W19) Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
 * [2023-06-15, 11:33:22](https://news.ycombinator.com/item?id=36338979) - [Men who helped run Megaupload sentenced to prison in New Zealand](https://abcnews.go.com/Technology/wireStory/2-men-helped-run-popular-pirating-website-megaupload-100099005)
