@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-15, 19:26:02](https://news.ycombinator.com/item?id=36345288) - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
+* [2023-06-15, 18:24:20](https://news.ycombinator.com/item?id=36344587) - [How I Helped to Make Fischer Black Wealthier (1996) [pdf]](https://site.warrington.ufl.edu/ritter/files/2015/04/How-I-Helped-to-Make-Fischer-Black-Wealthier-1996.pdf)
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 * [2023-06-15, 18:03:27](https://news.ycombinator.com/item?id=36344313) - [Gently Down the Stream – A gentle introduction to Apache Kafka (2021)](https://www.gentlydownthe.stream/)
-* [2023-06-15, 17:54:09](https://news.ycombinator.com/item?id=36344205) - [North Koreans speak secretly to BBC from inside closed country](https://www.bbc.co.uk/news/extra/bskbb4rmae/inside-north-korea)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 * [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-15, 16:34:35](https://news.ycombinator.com/item?id=36343036) - [Wasmer Edge: WebAssembly on the Edge](https://wasmer.io/posts/announcing-wasmer-edge)
