@@ -78,6 +78,7 @@
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
 * [2023-06-14, 08:47:37](https://news.ycombinator.com/item?id=36323192) - [SimilarWeb: Fetching Data in PHP, .NET C#, Python, Ruby, and JavaScript](https://letsscrape.medium.com/similarweb-effortlessly-fetching-data-in-php-net-c-python-ruby-and-javascript-969b45a643c5)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
+* [2023-06-14, 08:23:10](https://news.ycombinator.com/item?id=36323044) - [Career Progression](https://www.neversaw.us/2020/07/04/career-progression/)
 * [2023-06-14, 08:05:58](https://news.ycombinator.com/item?id=36322922) - [Mac OS X Review from 2001](http://toastytech.com/guis/osx.html)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://murray-lab.caltech.edu/CTX/)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
