@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2023-06-15, 01:39:52",
+      "https://news.ycombinator.com/item?id=36335374"
+    ],
+    [
+      "The NVIDIA AI Red Team",
+      "https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 01:04:46",
       "https://news.ycombinator.com/item?id=36335104"
     ],
@@ -191,32 +201,22 @@
   ],
   [
     [
-      "2023-06-14, 19:40:35",
-      "https://news.ycombinator.com/item?id=36331446"
-    ],
-    [
-      "Recovering secret keys from devices using video footage of their power LED",
-      "https://www.nassiben.com/video-based-crypta"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 19:37:13",
-      "https://news.ycombinator.com/item?id=36331394"
-    ],
-    [
-      "AMD openSIL open source firmware proof of concept",
-      "https://github.com/openSIL/openSIL"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 19:07:43",
       "https://news.ycombinator.com/item?id=36330972"
     ],
     [
       "Native JSON Output from GPT-4",
       "https://yonom.substack.com/p/native-json-output-from-gpt-4"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 18:14:27",
+      "https://news.ycombinator.com/item?id=36330116"
+    ],
+    [
+      "I may be the only evil (bit) user on the internet (2015)",
+      "https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36311871"
     ],
     [
-      "Thinking Like Transformers (pdf) (2021)",
+      "Thinking Like Transformers (2021) [pdf]",
       "https://arxiv.org/abs/2106.06981"
     ]
   ],
