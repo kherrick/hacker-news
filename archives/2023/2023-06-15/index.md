@@ -26,6 +26,7 @@
 * [2023-06-15, 13:51:22](https://news.ycombinator.com/item?id=36340504) - [TropeTwist: Trope-Based Narrative Structure Generation](https://arxiv.org/abs/2204.09672)
 * [2023-06-15, 13:49:47](https://news.ycombinator.com/item?id=36340482) - [What Motorcycles Teach About Maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4)
 * [2023-06-15, 13:46:38](https://news.ycombinator.com/item?id=36340439) - [DeSantis signs car dealership bill banning most direct-to-consumer auto sales](https://floridapolitics.com/archives/618230-gov-desantis-signs-car-dealership-protection-bill-banning-most-direct-to-consumer-auto-sales/)
+* [2023-06-15, 13:26:25](https://news.ycombinator.com/item?id=36340135) - [Show HN: Procoto – Self-Service RFP Management](https://procoto.com/)
 * [2023-06-15, 13:23:24](https://news.ycombinator.com/item?id=36340095) - [Man locked out of smart home for a week after driver accuses him of being racist](https://www.independent.co.uk/tech/smart-home-lock-out-amazon-b2358107.html)
 * [2023-06-15, 12:55:55](https://news.ycombinator.com/item?id=36339777) - [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
 * [2023-06-15, 12:02:11](https://news.ycombinator.com/item?id=36339253) - [Cement's future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
