@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 19:56:05](https://news.ycombinator.com/item?id=36345645) - [WebStudio: Open visual development for the open web](https://webstudio.is/)
 * [2023-06-15, 19:31:21](https://news.ycombinator.com/item?id=36345345) - [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
 * [2023-06-15, 19:26:02](https://news.ycombinator.com/item?id=36345288) - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
@@ -27,7 +28,6 @@
 * [2023-06-14, 16:34:39](https://news.ycombinator.com/item?id=36328466) - [The PostgreSQL documentation and the limitations of community](http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html)
 * [2023-06-14, 14:30:33](https://news.ycombinator.com/item?id=36326587) - [Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
-* [2023-06-14, 10:11:39](https://news.ycombinator.com/item?id=36323721) - [The Associationist Mindset](http://edwardfeser.blogspot.com/2023/06/the-associationist-mindset.html)
 * [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
 * [2023-06-13, 15:40:13](https://news.ycombinator.com/item?id=36311871) - [Thinking Like Transformers (2021) [pdf]](https://arxiv.org/abs/2106.06981)
 
