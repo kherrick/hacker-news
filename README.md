@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-15, 21:18:56](https://news.ycombinator.com/item?id=36346636) - [Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll](https://cryptonews.net/news/bitcoin/21159021/)
+* [2023-06-15, 22:16:02](https://news.ycombinator.com/item?id=36347400) - [Reddit CEO slams protesters, calls them “landed gentry”](https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544)
+* [2023-06-15, 21:56:17](https://news.ycombinator.com/item?id=36347176) - [Reddit CEO Steve Huffman: It's time we grow up and behave like an adult company](https://www.npr.org/2023/06/15/1182457366/reddit-ceo-steve-huffman-its-time-we-grow-up-and-behave-like-an-adult-company)
 * [2023-06-15, 20:47:16](https://news.ycombinator.com/item?id=36346308) - [uTox – Lightweight Tox Client](https://github.com/uTox/uTox)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:15:05](https://news.ycombinator.com/item?id=36345870) - [The Era of Brain Chips (2005) [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
@@ -25,7 +26,6 @@
 * [2023-06-15, 07:33:37](https://news.ycombinator.com/item?id=36337473) - [Crawling a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 * [2023-06-15, 04:05:34](https://news.ycombinator.com/item?id=36336260) - [Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)
 * [2023-06-14, 16:34:39](https://news.ycombinator.com/item?id=36328466) - [The PostgreSQL documentation and the limitations of community](http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html)
-* [2023-06-14, 14:30:33](https://news.ycombinator.com/item?id=36326587) - [Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
 * [2023-06-14, 05:21:33](https://news.ycombinator.com/item?id=36321742) - [Foundational Anxieties, Modern Mathematics, and the Political Imagination](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
