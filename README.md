@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 15:29:49](https://news.ycombinator.com/item?id=36341941) - [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
 * [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
 * [2023-06-15, 14:42:49](https://news.ycombinator.com/item?id=36341211) - [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
@@ -29,7 +30,6 @@
 * [2023-06-13, 22:10:06](https://news.ycombinator.com/item?id=36318281) - [Behaviour Driven Development with 6502 code](https://github.com/martinpiper/BDD6502)
 * [2023-06-13, 19:22:24](https://news.ycombinator.com/item?id=36315529) - [Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)
 * [2023-06-13, 15:40:13](https://news.ycombinator.com/item?id=36311871) - [Thinking Like Transformers (2021) [pdf]](https://arxiv.org/abs/2106.06981)
-* [2023-06-13, 06:32:41](https://news.ycombinator.com/item?id=36306337) - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/)
 
 ## [Archives](archives/index.md)
 
