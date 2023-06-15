@@ -15,6 +15,7 @@
 * [2023-06-15, 14:21:49](https://news.ycombinator.com/item?id=36340930) - [The Matrix Cookbook [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [2023-06-15, 14:09:56](https://news.ycombinator.com/item?id=36340755) - [Stack Overflow Is Down](https://www.stackstatus.net/?)
 * [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
+* [2023-06-15, 13:57:24](https://news.ycombinator.com/item?id=36340591) - [Abrupt expansion of climate change risks for species globally](https://www.nature.com/articles/s41559-023-02070-4)
 * [2023-06-15, 13:54:19](https://news.ycombinator.com/item?id=36340548) - [Have You Been to the Library Lately?](https://thewalrus.ca/future-of-libraries/)
 * [2023-06-15, 13:51:22](https://news.ycombinator.com/item?id=36340504) - [TropeTwist: Trope-Based Narrative Structure Generation](https://arxiv.org/abs/2204.09672)
 * [2023-06-15, 13:49:47](https://news.ycombinator.com/item?id=36340482) - [What Motorcycles Teach About Maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4)
