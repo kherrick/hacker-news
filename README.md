@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-15, 21:18:56](https://news.ycombinator.com/item?id=36346636) - [Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll](https://cryptonews.net/news/bitcoin/21159021/)
-* [2023-06-15, 20:59:35](https://news.ycombinator.com/item?id=36346454) - [Alphabet selling Google Domains assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace)
 * [2023-06-15, 20:47:16](https://news.ycombinator.com/item?id=36346308) - [uTox – Lightweight Tox Client](https://github.com/uTox/uTox)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:15:05](https://news.ycombinator.com/item?id=36345870) - [The Era of Brain Chips (2005) [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
@@ -29,6 +28,7 @@
 * [2023-06-14, 14:30:33](https://news.ycombinator.com/item?id=36326587) - [Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
+* [2023-06-14, 05:21:33](https://news.ycombinator.com/item?id=36321742) - [Foundational Anxieties, Modern Mathematics, and the Political Imagination](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 * [2023-06-13, 22:55:42](https://news.ycombinator.com/item?id=36318780) - [Infantilism as a norm (2018)](https://iq.hse.ru/en/news/219491658.html)
 
 ## [Archives](archives/index.md)
