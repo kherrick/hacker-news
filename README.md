@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 05:24:48](https://news.ycombinator.com/item?id=36336748) - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 * [2023-06-15, 03:11:35](https://news.ycombinator.com/item?id=36335975) - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
-* [2023-06-15, 02:31:58](https://news.ycombinator.com/item?id=36335730) - [Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort](https://www.science.org/doi/10.1126/sciadv.add4165)
 * [2023-06-15, 02:23:56](https://news.ycombinator.com/item?id=36335674) - [Show HN: FFmpeg UI](https://ybouane.com/ffmpeg-ui)
 * [2023-06-15, 01:39:52](https://news.ycombinator.com/item?id=36335374) - [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
 * [2023-06-15, 01:04:46](https://news.ycombinator.com/item?id=36335104) - [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
@@ -15,6 +15,7 @@
 * [2023-06-14, 21:29:17](https://news.ycombinator.com/item?id=36332999) - [I’m an ER doctor. Here’s how I’m already using ChatGPT to help treat patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-how-i-m-already-using-chatgpt-to-help-treat-patients-a023615c65b6)
 * [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
 * [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
+* [2023-06-14, 20:06:37](https://news.ycombinator.com/item?id=36331811) - [The danger of delegating education to journalists (2012)](https://radicalscholarship.com/2014/11/03/guest-post-the-danger-of-delegating-education-to-journalists-k-anders-ericsson/)
 * [2023-06-14, 19:40:35](https://news.ycombinator.com/item?id=36331446) - [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 19:37:13](https://news.ycombinator.com/item?id=36331394) - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
@@ -27,7 +28,6 @@
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-14, 03:39:59](https://news.ycombinator.com/item?id=36321139) - [Rich Kilmer on the Power of Ruby (2007)](https://www.infoq.com/news/2007/06/infoq-interview-rich-kilmer/)
 * [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
-* [2023-06-13, 17:35:47](https://news.ycombinator.com/item?id=36313709) - [Nikon Z9 Update Turns It into an Intelligent Camera Trap](https://petapixel.com/2023/06/12/huge-nikon-z9-update-turns-it-into-an-intelligent-camera-trap/)
 * [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving fast with the core Vim motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 * [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
 
