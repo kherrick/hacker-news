@@ -27,6 +27,7 @@
 * [2023-06-13, 19:39:56](https://news.ycombinator.com/item?id=36315796) - [JupyterLab 4.0](https://blog.jupyter.org/jupyterlab-4-0-is-here-388d05e03442?gi=692635ec8178)
 * [2023-06-13, 19:27:45](https://news.ycombinator.com/item?id=36315608) - [Do High Interest Rates Fix High Inflation?](https://www.lynalden.com/inflation-vs-interest-rates/)
 * [2023-06-13, 19:23:52](https://news.ycombinator.com/item?id=36315547) - [Conjugate Acids and Bases](https://en.wikipedia.org/wiki/Conjugate_(acid-base_theory))
+* [2023-06-13, 19:22:24](https://news.ycombinator.com/item?id=36315529) - [Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)
 * [2023-06-13, 19:19:18](https://news.ycombinator.com/item?id=36315475) - [Tips for Building SSR/HDA Applications](https://htmx.org/essays/10-tips-for-ssr-hda-apps/)
 * [2023-06-13, 19:08:43](https://news.ycombinator.com/item?id=36315300) - [AWS us-east-1 down](https://news.ycombinator.com/item?id=36315300)
 * [2023-06-13, 19:04:23](https://news.ycombinator.com/item?id=36315223) - [I Wrote My First Software Design Doc to Win New Project](https://www.idaszak.com/posts/first-software-design-doc/)
