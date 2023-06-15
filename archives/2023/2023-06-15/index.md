@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 12:02:11](https://news.ycombinator.com/item?id=36339253) - [Cement's future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
+* [2023-06-15, 12:00:30](https://news.ycombinator.com/item?id=36339236) - [JetPack Aviation (YC W19) Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
+* [2023-06-15, 11:33:22](https://news.ycombinator.com/item?id=36338979) - [Men who helped run Megaupload sentenced to prison in New Zealand](https://abcnews.go.com/Technology/wireStory/2-men-helped-run-popular-pirating-website-megaupload-100099005)
+* [2023-06-15, 11:23:45](https://news.ycombinator.com/item?id=36338902) - [Network of channels tried to saturate YouTube with pro-Bolsonaro content](https://phys.org/news/2023-06-network-channels-saturate-youtube-pro-bolsonaro.html)
 * [2023-06-15, 11:20:54](https://news.ycombinator.com/item?id=36338875) - [The Instant Pot Failed Because It Was a Good Product](https://www.theatlantic.com/technology/archive/2023/06/instant-pot-bankrupt-private-equity/674414/)
 * [2023-06-15, 11:20:01](https://news.ycombinator.com/item?id=36338870) - [Germany wants to legalize quality control of illegal drugs](https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f)
+* [2023-06-15, 11:08:39](https://news.ycombinator.com/item?id=36338784) - [The Guardian bans all gambling advertising](https://www.theguardian.com/society/2023/jun/15/guardian-bans-all-gambling-advertising)
 * [2023-06-15, 10:29:16](https://news.ycombinator.com/item?id=36338529) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-15, 10:21:37](https://news.ycombinator.com/item?id=36338484) - [Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
 * [2023-06-15, 10:08:46](https://news.ycombinator.com/item?id=36338395) - [Is the US trying to kill crypto?](https://www.bbc.com/news/business-65861096)

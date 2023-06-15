@@ -9,6 +9,7 @@
 * [2023-06-13, 23:25:05](https://news.ycombinator.com/item?id=36319076) - [The Curse of Recursion: Training on Generated Data Makes Models Forget](https://arxiv.org/abs/2305.17493)
 * [2023-06-13, 22:58:11](https://news.ycombinator.com/item?id=36318805) - [OnBoard – A New Grants Program to Fund $100 in PCB Costs for Teenagers](https://hackclub.com/onboard/)
 * [2023-06-13, 22:55:42](https://news.ycombinator.com/item?id=36318780) - [Infantilism as a Norm (2018)](https://iq.hse.ru/en/news/219491658.html)
+* [2023-06-13, 22:10:06](https://news.ycombinator.com/item?id=36318281) - [Behaviour Driven Development with 6502 code](https://github.com/martinpiper/BDD6502)
 * [2023-06-13, 22:09:59](https://news.ycombinator.com/item?id=36318280) - [Is Parallel Programming Hard, and, If So, What Can You Do About It? v2023.06.11a](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 * [2023-06-13, 21:22:49](https://news.ycombinator.com/item?id=36317587) - [The Photographer Who Forced the U.S. to Confront Its Child Labor Problem](https://www.smithsonianmag.com/history/the-photographer-who-forced-the-us-to-confront-its-child-labor-problem-180982355/)
 * [2023-06-13, 21:09:26](https://news.ycombinator.com/item?id=36317385) - [Writing a Linux Debugger (2017)](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
