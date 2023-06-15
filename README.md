@@ -25,11 +25,11 @@
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-13, 22:55:42](https://news.ycombinator.com/item?id=36318780) - [Infantilism as a Norm (2018)](https://iq.hse.ru/en/news/219491658.html)
-* [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
 * [2023-06-13, 19:53:05](https://news.ycombinator.com/item?id=36315978) - [Eyewitness Accounts of the 1906 San Francisco Earthquake](https://publicdomainreview.org/collection/san-francisco-calamity)
 * [2023-06-13, 19:22:24](https://news.ycombinator.com/item?id=36315529) - [Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)
 * [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving fast with the core Vim motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 * [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
+* [2023-06-13, 06:32:41](https://news.ycombinator.com/item?id=36306337) - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/)
 
 ## [Archives](archives/index.md)
 

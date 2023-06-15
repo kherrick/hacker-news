@@ -93,6 +93,7 @@
 * [2023-06-13, 07:48:03](https://news.ycombinator.com/item?id=36306948) - [Screwing up my page tables](https://axleos.com/screwing-up-my-page-tables/)
 * [2023-06-13, 07:12:15](https://news.ycombinator.com/item?id=36306662) - [There are two levels of isolation when building Linux packages](https://utcc.utoronto.ca/~cks/space/blog/linux/PackageBuildingTwoIsolationLevels)
 * [2023-06-13, 07:06:31](https://news.ycombinator.com/item?id=36306621) - [CudaText: Cross-platform, open source code editor written in Object Pascal](https://cudatext.github.io/)
+* [2023-06-13, 06:32:41](https://news.ycombinator.com/item?id=36306337) - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/)
 * [2023-06-13, 05:57:14](https://news.ycombinator.com/item?id=36306070) - [My Day Away from Reddit](https://unsupervision.com/my-day-away-from-reddit/)
 * [2023-06-13, 05:04:40](https://news.ycombinator.com/item?id=36305640) - [A Good Fountain Pen Lets You Enjoy the Finer Things in Life (2022)](https://www.wired.com/story/lamy-2000-fountain-pen-rave/)
 * [2023-06-13, 05:03:22](https://news.ycombinator.com/item?id=36305627) - [National Treasure: tea utensils used by early modern practitioners of chanoyu](https://www.laphamsquarterly.org/roundtable/national-treasure)
