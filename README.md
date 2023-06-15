@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 23:17:12](https://news.ycombinator.com/item?id=36348251) - [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
 * [2023-06-15, 22:55:41](https://news.ycombinator.com/item?id=36347915) - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
 * [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
 * [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
@@ -17,7 +18,6 @@
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 16:18:36](https://news.ycombinator.com/item?id=36342785) - [Scientific colour maps](https://www.fabiocrameri.ch/colourmaps/)
 * [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
-* [2023-06-15, 14:42:49](https://news.ycombinator.com/item?id=36341211) - [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)
 * [2023-06-15, 14:37:42](https://news.ycombinator.com/item?id=36341160) - [Getting 10TB of GitHub logs and extracting details of all users and repositories](https://trickest.com/blog/parsing-github-logs-with-trickest/)
 * [2023-06-15, 14:21:49](https://news.ycombinator.com/item?id=36340930) - [The Matrix Cookbook (2012) [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
