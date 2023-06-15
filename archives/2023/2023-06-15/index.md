@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 11:20:54](https://news.ycombinator.com/item?id=36338875) - [The Instant Pot Failed Because It Was a Good Product](https://www.theatlantic.com/technology/archive/2023/06/instant-pot-bankrupt-private-equity/674414/)
 * [2023-06-15, 10:29:16](https://news.ycombinator.com/item?id=36338529) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-15, 10:21:37](https://news.ycombinator.com/item?id=36338484) - [Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
 * [2023-06-15, 10:08:46](https://news.ycombinator.com/item?id=36338395) - [Is the US trying to kill crypto?](https://www.bbc.com/news/business-65861096)
