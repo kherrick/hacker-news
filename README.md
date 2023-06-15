@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 19:26:02](https://news.ycombinator.com/item?id=36345288) - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 * [2023-06-15, 18:03:27](https://news.ycombinator.com/item?id=36344313) - [Gently Down the Stream – A gentle introduction to Apache Kafka (2021)](https://www.gentlydownthe.stream/)
 * [2023-06-15, 17:54:09](https://news.ycombinator.com/item?id=36344205) - [North Koreans speak secretly to BBC from inside closed country](https://www.bbc.co.uk/news/extra/bskbb4rmae/inside-north-korea)
@@ -9,7 +10,6 @@
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 16:20:03](https://news.ycombinator.com/item?id=36342808) - [Let's Encrypt Acme API Outage](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/648b36899c7c1405303ea8c4)
 * [2023-06-15, 16:18:36](https://news.ycombinator.com/item?id=36342785) - [Scientific colour maps](https://www.fabiocrameri.ch/colourmaps/)
-* [2023-06-15, 15:29:49](https://news.ycombinator.com/item?id=36341941) - [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
 * [2023-06-15, 15:17:46](https://news.ycombinator.com/item?id=36341750) - [W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
 * [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
 * [2023-06-15, 14:42:49](https://news.ycombinator.com/item?id=36341211) - [Zluda: Run CUDA code on Intel GPUs, unmodified](https://github.com/vosen/ZLUDA)

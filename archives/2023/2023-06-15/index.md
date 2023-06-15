@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 19:26:02](https://news.ycombinator.com/item?id=36345288) - [Ask HN: What are some of the best Reddit alternatives?](https://news.ycombinator.com/item?id=36345288)
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 * [2023-06-15, 18:03:27](https://news.ycombinator.com/item?id=36344313) - [Gently Down the Stream – A gentle introduction to Apache Kafka (2021)](https://www.gentlydownthe.stream/)
 * [2023-06-15, 17:54:09](https://news.ycombinator.com/item?id=36344205) - [North Koreans speak secretly to BBC from inside closed country](https://www.bbc.co.uk/news/extra/bskbb4rmae/inside-north-korea)
