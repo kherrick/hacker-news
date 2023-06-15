@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-15, 11:20:54](https://news.ycombinator.com/item?id=36338875) - [The Instant Pot Failed Because It Was a Good Product](https://www.theatlantic.com/technology/archive/2023/06/instant-pot-bankrupt-private-equity/674414/)
+* [2023-06-15, 11:20:01](https://news.ycombinator.com/item?id=36338870) - [Germany wants to legalize quality control of illegal drugs](https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f)
 * [2023-06-15, 10:29:16](https://news.ycombinator.com/item?id=36338529) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-15, 10:21:37](https://news.ycombinator.com/item?id=36338484) - [Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
 * [2023-06-15, 10:04:43](https://news.ycombinator.com/item?id=36338365) - [FANN: Vector Search in 200 Lines of Rust](https://fennel.ai/blog/vector-search-in-200-lines-of-rust/)
@@ -16,9 +17,8 @@
 * [2023-06-15, 00:38:20](https://news.ycombinator.com/item?id=36334912) - [SETI scientists to devise plan for lunar listening station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
 * [2023-06-14, 22:35:28](https://news.ycombinator.com/item?id=36333762) - [Scientists Discover Phosphorus on Enceladus](https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus)
 * [2023-06-14, 21:56:21](https://news.ycombinator.com/item?id=36333321) - [Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers](https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers)
-* [2023-06-14, 21:53:28](https://news.ycombinator.com/item?id=36333290) - [Gorilla: Large Language Model Connected with APIs](https://shishirpatil.github.io/gorilla/)
 * [2023-06-14, 21:52:32](https://news.ycombinator.com/item?id=36333273) - [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
-* [2023-06-14, 21:31:59](https://news.ycombinator.com/item?id=36333034) - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+* [2023-06-14, 21:31:59](https://news.ycombinator.com/item?id=36333034) - [Myths Programmers Believe about CPU Caches (2018)](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 * [2023-06-14, 21:29:17](https://news.ycombinator.com/item?id=36332999) - [I’m an ER doctor. Here’s how I’m already using ChatGPT to help treat patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-how-i-m-already-using-chatgpt-to-help-treat-patients-a023615c65b6)
 * [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
