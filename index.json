@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-15, 12:55:55",
+      "https://news.ycombinator.com/item?id=36339777"
+    ],
+    [
+      "Our Plan for Python 3.13",
+      "https://github.com/faster-cpython/ideas/blob/main/3.13/README.md"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 12:02:11",
       "https://news.ycombinator.com/item?id=36339253"
     ],
@@ -27,6 +37,16 @@
     [
       "Men who helped run Megaupload sentenced to prison in New Zealand",
       "https://abcnews.go.com/Technology/wireStory/2-men-helped-run-popular-pirating-website-megaupload-100099005"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 11:23:45",
+      "https://news.ycombinator.com/item?id=36338902"
+    ],
+    [
+      "Network of channels tried to saturate YouTube with pro-Bolsonaro content",
+      "https://phys.org/news/2023-06-network-channels-saturate-youtube-pro-bolsonaro.html"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2023-06-14, 21:56:21",
-      "https://news.ycombinator.com/item?id=36333321"
-    ],
-    [
-      "Nvidia H100 and A100 GPUs – comparing available capacity at GPU cloud providers",
-      "https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 21:52:32",
-      "https://news.ycombinator.com/item?id=36333273"
-    ],
-    [
-      "Why does nuclear power plant construction cost so much?",
-      "https://progress.institute/nuclear-power-plant-construction-costs/"
-    ]
-  ],
-  [
-    [
       "2023-06-14, 19:07:43",
       "https://news.ycombinator.com/item?id=36330972"
     ],
@@ -227,6 +227,16 @@
     [
       "I booted Linux 293k times in 21 hours",
       "https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/"
+    ]
+  ],
+  [
+    [
+      "2023-06-13, 23:19:33",
+      "https://news.ycombinator.com/item?id=36319025"
+    ],
+    [
+      "Conflict-Driven Synthesis for Layout Engines",
+      "https://dl.acm.org/doi/pdf/10.1145/3591246"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "To Understand the Past, Pick Up an Old Magazine",
       "https://www.nytimes.com/2023/06/13/magazine/old-magazines.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 15:49:17",
-      "https://news.ycombinator.com/item?id=36312027"
-    ],
-    [
-      "Moving fast with the core Vim motions",
-      "https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/"
     ]
   ],
   [
