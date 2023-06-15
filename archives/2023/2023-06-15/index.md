@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Engravings Made by Non-Human Hominids ~300K Years Ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 * [2023-06-15, 17:51:41](https://news.ycombinator.com/item?id=36344172) - [Show HN: My first full stack project](https://www.plotnotes.ai/)
 * [2023-06-15, 17:22:20](https://news.ycombinator.com/item?id=36343779) - [US Government agencies hit in global cyberattack](https://www.cnn.com/2023/06/15/politics/us-government-hit-cybeattack/index.html)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 * [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+* [2023-06-15, 16:34:35](https://news.ycombinator.com/item?id=36343036) - [Wasmer Edge: WebAssembly on the Edge](https://wasmer.io/posts/announcing-wasmer-edge)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 16:20:03](https://news.ycombinator.com/item?id=36342808) - [Let's Encrypt Acme API Outage](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/648b36899c7c1405303ea8c4)
 * [2023-06-15, 16:18:36](https://news.ycombinator.com/item?id=36342785) - [Scientific Colour Maps](https://www.fabiocrameri.ch/colourmaps/)
