@@ -77,6 +77,7 @@
 * [2023-06-14, 09:17:31](https://news.ycombinator.com/item?id=36323387) - [A Sudanese teen posts on Reddit as she fights for her life being held captive](https://old.reddit.com/r/Sudan/comments/148x73h/probably_gonna_be_my_last_post_ever_but_if_i_die/)
 * [2023-06-14, 09:13:22](https://news.ycombinator.com/item?id=36323369) - [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3)
 * [2023-06-14, 09:00:15](https://news.ycombinator.com/item?id=36323275) - [Consciousness and Anaesthesia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2743249/)
+* [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
 * [2023-06-14, 08:47:37](https://news.ycombinator.com/item?id=36323192) - [SimilarWeb: Fetching Data in PHP, .NET C#, Python, Ruby, and JavaScript](https://letsscrape.medium.com/similarweb-effortlessly-fetching-data-in-php-net-c-python-ruby-and-javascript-969b45a643c5)
 * [2023-06-14, 08:24:27](https://news.ycombinator.com/item?id=36323058) - [How to Listen to Database Changes Using Postgres Triggers in Elixir](https://www.peterullrich.com/listen-to-database-changes-with-postgres-triggers-and-elixir)
 * [2023-06-14, 08:23:10](https://news.ycombinator.com/item?id=36323044) - [Career Progression](https://www.neversaw.us/2020/07/04/career-progression/)

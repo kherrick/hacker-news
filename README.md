@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 17:51:41](https://news.ycombinator.com/item?id=36344172) - [Show HN: My first full stack project](https://www.plotnotes.ai/)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 * [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
@@ -14,7 +15,6 @@
 * [2023-06-15, 14:21:49](https://news.ycombinator.com/item?id=36340930) - [The Matrix Cookbook (2012) [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [2023-06-15, 14:09:56](https://news.ycombinator.com/item?id=36340755) - [Stack Overflow Is Down](https://www.stackstatus.net/?)
 * [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
-* [2023-06-15, 13:57:24](https://news.ycombinator.com/item?id=36340591) - [Abrupt expansion of climate change risks for species globally](https://www.nature.com/articles/s41559-023-02070-4)
 * [2023-06-15, 13:51:22](https://news.ycombinator.com/item?id=36340504) - [TropeTwist: Trope-Based Narrative Structure Generation](https://arxiv.org/abs/2204.09672)
 * [2023-06-15, 13:26:25](https://news.ycombinator.com/item?id=36340135) - [Show HN: Procoto – Self-Service RFP Management](https://procoto.com/)
 * [2023-06-15, 12:55:55](https://news.ycombinator.com/item?id=36339777) - [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
@@ -26,8 +26,8 @@
 * [2023-06-14, 16:34:39](https://news.ycombinator.com/item?id=36328466) - [The PostgreSQL Documentation and the Limitations of Community](http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html)
 * [2023-06-14, 14:30:33](https://news.ycombinator.com/item?id=36326587) - [Show HN: Agency – Unifying human, AI, and other computing systems, in Python](https://github.com/operand/agency)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to Know the Right People](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
+* [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
 * [2023-06-14, 08:23:10](https://news.ycombinator.com/item?id=36323044) - [Career Progression](https://www.neversaw.us/2020/07/04/career-progression/)
-* [2023-06-13, 22:10:06](https://news.ycombinator.com/item?id=36318281) - [Behaviour Driven Development with 6502 code](https://github.com/martinpiper/BDD6502)
 * [2023-06-13, 19:22:24](https://news.ycombinator.com/item?id=36315529) - [Quake's lightning gun bug explained](https://www.youtube.com/watch?v=4gNYTqn3qRc)
 * [2023-06-13, 15:40:13](https://news.ycombinator.com/item?id=36311871) - [Thinking Like Transformers (2021) [pdf]](https://arxiv.org/abs/2106.06981)
 
