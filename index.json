@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-15, 01:39:52",
-      "https://news.ycombinator.com/item?id=36335374"
-    ],
-    [
-      "The NVIDIA AI Red Team",
-      "https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 01:04:46",
       "https://news.ycombinator.com/item?id=36335104"
     ],
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=36321139"
     ],
     [
-      "InfoQ Interview: Rich Kilmer on the Power of Ruby",
+      "Rich Kilmer on the Power of Ruby (2007)",
       "https://www.infoq.com/news/2007/06/infoq-interview-rich-kilmer/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Repairing Electronics: A circular economy solution",
       "https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/"
+    ]
+  ],
+  [
+    [
+      "2023-06-13, 20:22:46",
+      "https://news.ycombinator.com/item?id=36316502"
+    ],
+    [
+      "TypeCell, open source TypeScript notebooks live programming environment",
+      "https://www.typecell.org/"
     ]
   ],
   [
