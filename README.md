@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-15, 23:17:12](https://news.ycombinator.com/item?id=36348251) - [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
+* [2023-06-15, 23:04:18](https://news.ycombinator.com/item?id=36348040) - [The highest funded plagiarist may be an AI ethicist](https://rwincblog9.wordpress.com/2023/06/15/11/)
 * [2023-06-15, 22:55:41](https://news.ycombinator.com/item?id=36347915) - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
 * [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
 * [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
