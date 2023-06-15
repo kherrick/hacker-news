@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-06-15, 17:51:41",
-      "https://news.ycombinator.com/item?id=36344172"
-    ],
-    [
-      "Show HN: My first full stack project",
-      "https://www.plotnotes.ai/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 17:06:02",
       "https://news.ycombinator.com/item?id=36343544"
     ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36342785"
     ],
     [
-      "Scientific Colour Maps",
+      "Scientific colour maps",
       "https://www.fabiocrameri.ch/colourmaps/"
     ]
   ],
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36341160"
     ],
     [
-      "Getting 10TB of GitHub Logs and Extracting Details of All Users and Repositories",
+      "Getting 10TB of GitHub logs and extracting details of all users and repositories",
       "https://trickest.com/blog/parsing-github-logs-with-trickest/"
     ]
   ],
@@ -167,6 +157,16 @@
     [
       "TropeTwist: Trope-Based Narrative Structure Generation",
       "https://arxiv.org/abs/2204.09672"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 13:26:25",
+      "https://news.ycombinator.com/item?id=36340135"
+    ],
+    [
+      "Show HN: Procoto – Self-Service RFP Management",
+      "https://procoto.com/"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=36328466"
     ],
     [
-      "The PostgreSQL Documentation and the Limitations of Community",
+      "The PostgreSQL documentation and the limitations of community",
       "http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36315529"
     ],
     [
-      "Quake's lightning gun bug explained",
+      "Quake's lightning gun bug explained [video]",
       "https://www.youtube.com/watch?v=4gNYTqn3qRc"
     ]
   ],
