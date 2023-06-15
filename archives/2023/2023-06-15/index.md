@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 08:09:56](https://news.ycombinator.com/item?id=36337687) - [Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
 * [2023-06-15, 08:00:27](https://news.ycombinator.com/item?id=36337632) - [June (YC W21) Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
 * [2023-06-15, 07:57:42](https://news.ycombinator.com/item?id=36337615) - [How Russia Went from Ally to Adversary](https://www.newyorker.com/magazine/2023/06/19/how-the-west-lost-the-peace-philipp-ther-book-review)
 * [2023-06-15, 07:37:28](https://news.ycombinator.com/item?id=36337500) - [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
+* [2023-06-15, 07:33:37](https://news.ycombinator.com/item?id=36337473) - [How to crawl a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 * [2023-06-15, 06:38:24](https://news.ycombinator.com/item?id=36337151) - [Theorem of the Day: Bibliography](https://www.theoremoftheday.org/Resources/Bibliography.htm)
 * [2023-06-15, 05:24:48](https://news.ycombinator.com/item?id=36336748) - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 04:48:35](https://news.ycombinator.com/item?id=36336509) - [Google earns $10M from ads directing abortion seekers to pregnancy crisis center](https://www.theguardian.com/technology/2023/jun/15/google-misleading-abortion-ads-pregnancy-crisis-centers)

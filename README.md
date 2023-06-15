@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 08:09:56](https://news.ycombinator.com/item?id=36337687) - [Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
 * [2023-06-15, 08:00:27](https://news.ycombinator.com/item?id=36337632) - [June (YC W21) Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
-* [2023-06-15, 07:57:42](https://news.ycombinator.com/item?id=36337615) - [How Russia Went from Ally to Adversary](https://www.newyorker.com/magazine/2023/06/19/how-the-west-lost-the-peace-philipp-ther-book-review)
 * [2023-06-15, 07:37:28](https://news.ycombinator.com/item?id=36337500) - [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
+* [2023-06-15, 07:33:37](https://news.ycombinator.com/item?id=36337473) - [How to crawl a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 * [2023-06-15, 06:38:24](https://news.ycombinator.com/item?id=36337151) - [Theorem of the Day: Bibliography](https://www.theoremoftheday.org/Resources/Bibliography.htm)
 * [2023-06-15, 05:24:48](https://news.ycombinator.com/item?id=36336748) - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
@@ -21,7 +22,6 @@
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 * [2023-06-14, 18:37:49](https://news.ycombinator.com/item?id=36330541) - [Phoenix LiveView: Async Assign Pattern](http://blog.andyglassman.com/2023/06/phoenix-liveview-async-assign-pattern.html)
 * [2023-06-14, 18:14:27](https://news.ycombinator.com/item?id=36330116) - [I may be the only evil (bit) user on the internet (2015)](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
-* [2023-06-14, 17:36:52](https://news.ycombinator.com/item?id=36329483) - [New York State Senate passes prohibitions on non-competes](https://ogletree.com/insights/new-york-state-senate-passes-prohibitions-on-non-competes/)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-13, 22:55:42](https://news.ycombinator.com/item?id=36318780) - [Infantilism as a Norm (2018)](https://iq.hse.ru/en/news/219491658.html)
