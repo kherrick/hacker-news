@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 22:55:41](https://news.ycombinator.com/item?id=36347915) - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
 * [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
 * [2023-06-15, 22:16:02](https://news.ycombinator.com/item?id=36347400) - [Reddit CEO slams protesters, calls them “landed gentry”](https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544)
 * [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
@@ -76,6 +77,7 @@
 * [2023-06-15, 06:38:24](https://news.ycombinator.com/item?id=36337151) - [Theorem of the Day: Bibliography](https://www.theoremoftheday.org/Resources/Bibliography.htm)
 * [2023-06-15, 05:24:48](https://news.ycombinator.com/item?id=36336748) - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 04:48:35](https://news.ycombinator.com/item?id=36336509) - [Google earns $10M from ads directing abortion seekers to pregnancy crisis center](https://www.theguardian.com/technology/2023/jun/15/google-misleading-abortion-ads-pregnancy-crisis-centers)
+* [2023-06-15, 04:06:39](https://news.ycombinator.com/item?id=36336272) - [Ancient Egyptian followers of a deity called Bes may have used hallucinogens](https://arstechnica.com/science/2023/06/ancient-egyptian-followers-of-a-deity-called-bes-may-have-used-hallucinogens/)
 * [2023-06-15, 04:05:34](https://news.ycombinator.com/item?id=36336260) - [Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 * [2023-06-15, 03:11:35](https://news.ycombinator.com/item?id=36335975) - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)

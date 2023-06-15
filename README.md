@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 22:55:41](https://news.ycombinator.com/item?id=36347915) - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
 * [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
 * [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [2023-06-15, 21:59:51](https://news.ycombinator.com/item?id=36347222) - [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
@@ -13,7 +14,6 @@
 * [2023-06-15, 18:03:27](https://news.ycombinator.com/item?id=36344313) - [Gently Down the Stream – A gentle introduction to Apache Kafka (2021)](https://www.gentlydownthe.stream/)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 * [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
-* [2023-06-15, 16:34:35](https://news.ycombinator.com/item?id=36343036) - [Wasmer Edge: WebAssembly on the Edge](https://wasmer.io/posts/announcing-wasmer-edge)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 16:18:36](https://news.ycombinator.com/item?id=36342785) - [Scientific colour maps](https://www.fabiocrameri.ch/colourmaps/)
 * [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
@@ -23,7 +23,7 @@
 * [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
 * [2023-06-15, 13:49:47](https://news.ycombinator.com/item?id=36340482) - [What motorcycles teach about maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4)
 * [2023-06-15, 12:55:55](https://news.ycombinator.com/item?id=36339777) - [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
-* [2023-06-15, 07:33:37](https://news.ycombinator.com/item?id=36337473) - [Crawling a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+* [2023-06-15, 04:06:39](https://news.ycombinator.com/item?id=36336272) - [Ancient Egyptian followers of a deity called Bes may have used hallucinogens](https://arstechnica.com/science/2023/06/ancient-egyptian-followers-of-a-deity-called-bes-may-have-used-hallucinogens/)
 * [2023-06-15, 04:05:34](https://news.ycombinator.com/item?id=36336260) - [Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)
 * [2023-06-14, 16:34:39](https://news.ycombinator.com/item?id=36328466) - [The PostgreSQL documentation and the limitations of community](http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
