@@ -55,6 +55,7 @@
 * [2023-06-15, 06:38:24](https://news.ycombinator.com/item?id=36337151) - [Theorem of the Day: Bibliography](https://www.theoremoftheday.org/Resources/Bibliography.htm)
 * [2023-06-15, 05:24:48](https://news.ycombinator.com/item?id=36336748) - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 04:48:35](https://news.ycombinator.com/item?id=36336509) - [Google earns $10M from ads directing abortion seekers to pregnancy crisis center](https://www.theguardian.com/technology/2023/jun/15/google-misleading-abortion-ads-pregnancy-crisis-centers)
+* [2023-06-15, 04:05:34](https://news.ycombinator.com/item?id=36336260) - [Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 * [2023-06-15, 03:11:35](https://news.ycombinator.com/item?id=36335975) - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
 * [2023-06-15, 03:07:35](https://news.ycombinator.com/item?id=36335958) - [Renters Are About to Get the Upper Hand](https://www.wsj.com/articles/renters-are-about-to-get-the-upper-hand-f6387df4)
