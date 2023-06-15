@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-06-15, 22:50:19",
-      "https://news.ycombinator.com/item?id=36347849"
-    ],
-    [
-      "Reddit says it won’t overrule mods and force subreddits back open",
-      "https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 22:38:33",
       "https://news.ycombinator.com/item?id=36347711"
     ],
@@ -177,6 +167,16 @@
     [
       "Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35",
       "https://www.unihiker.com/"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 14:42:49",
+      "https://news.ycombinator.com/item?id=36341211"
+    ],
+    [
+      "Zluda: Run CUDA code on Intel GPUs, unmodified",
+      "https://github.com/vosen/ZLUDA"
     ]
   ],
   [
