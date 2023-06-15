@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 07:37:28](https://news.ycombinator.com/item?id=36337500) - [This Week in Rust 499](https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/)
 * [2023-06-15, 05:24:48](https://news.ycombinator.com/item?id=36336748) - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
 * [2023-06-15, 04:48:35](https://news.ycombinator.com/item?id=36336509) - [Google earns $10M from ads directing abortion seekers to pregnancy crisis center](https://www.theguardian.com/technology/2023/jun/15/google-misleading-abortion-ads-pregnancy-crisis-centers)
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
