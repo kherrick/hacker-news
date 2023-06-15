@@ -2,7 +2,6 @@
 
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 * [2023-06-15, 03:11:35](https://news.ycombinator.com/item?id=36335975) - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
-* [2023-06-15, 03:07:35](https://news.ycombinator.com/item?id=36335958) - [Apartment rent growth is declining, shifting the market to the tenant’s favor](https://www.wsj.com/articles/renters-are-about-to-get-the-upper-hand-f6387df4)
 * [2023-06-15, 02:31:58](https://news.ycombinator.com/item?id=36335730) - [Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort](https://www.science.org/doi/10.1126/sciadv.add4165)
 * [2023-06-15, 01:39:52](https://news.ycombinator.com/item?id=36335374) - [The NVIDIA AI Red Team](https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/)
 * [2023-06-15, 01:04:46](https://news.ycombinator.com/item?id=36335104) - [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
@@ -13,6 +12,7 @@
 * [2023-06-14, 21:52:32](https://news.ycombinator.com/item?id=36333273) - [Why does nuclear power plant construction cost so much?](https://progress.institute/nuclear-power-plant-construction-costs/)
 * [2023-06-14, 21:31:59](https://news.ycombinator.com/item?id=36333034) - [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 * [2023-06-14, 21:29:17](https://news.ycombinator.com/item?id=36332999) - [I’m an ER doctor. Here’s how I’m already using ChatGPT to help treat patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-how-i-m-already-using-chatgpt-to-help-treat-patients-a023615c65b6)
+* [2023-06-14, 20:28:59](https://news.ycombinator.com/item?id=36332136) - [The Overhang Problem (2007) [pdf]](https://math.dartmouth.edu/~pw/papers/maxover.pdf)
 * [2023-06-14, 20:25:33](https://news.ycombinator.com/item?id=36332086) - [Trapped Under Trucks](https://www.propublica.org/article/underride-crashes-nhtsa-dot-iihs-safety-cars-trucks)
 * [2023-06-14, 19:40:35](https://news.ycombinator.com/item?id=36331446) - [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 19:37:13](https://news.ycombinator.com/item?id=36331394) - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
@@ -24,10 +24,10 @@
 * [2023-06-14, 16:21:14](https://news.ycombinator.com/item?id=36328245) - [Freaky Leaky SMS: Extracting user locations by analyzing SMS timings](https://arxiv.org/abs/2306.07695)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
+* [2023-06-14, 04:12:58](https://news.ycombinator.com/item?id=36321361) - [How to implement dependent type theory I (2012)](https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/)
 * [2023-06-14, 03:39:59](https://news.ycombinator.com/item?id=36321139) - [Rich Kilmer on the Power of Ruby (2007)](https://www.infoq.com/news/2007/06/infoq-interview-rich-kilmer/)
 * [2023-06-13, 21:05:14](https://news.ycombinator.com/item?id=36317324) - [An Atlas for the Blind (2012)](https://www.davidrumsey.com/blog/2012/5/21/atlas-for-the-blind-1837)
 * [2023-06-13, 20:39:48](https://news.ycombinator.com/item?id=36316848) - [Repairing Electronics: A circular economy solution](https://nextbillion.net/repairing-electronics-circular-economy-solution-ewaste-rural-africa/)
-* [2023-06-13, 19:04:23](https://news.ycombinator.com/item?id=36315223) - [I Wrote My First Software Design Doc to Win New Project](https://www.idaszak.com/posts/first-software-design-doc/)
 * [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving fast with the core Vim motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 * [2023-06-13, 14:45:08](https://news.ycombinator.com/item?id=36310967) - [Where did the long tail go? (2022)](https://www.honest-broker.com/p/where-did-the-long-tail-go)
 
