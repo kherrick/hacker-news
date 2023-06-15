@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 20:47:16](https://news.ycombinator.com/item?id=36346308) - [uTox – The Lightweight Tox Client](https://github.com/uTox/uTox)
+* [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:25:07](https://news.ycombinator.com/item?id=36346012) - [Ask HN: Any software engineers here that switched to a business/sales role?](https://news.ycombinator.com/item?id=36346012)
 * [2023-06-15, 19:56:05](https://news.ycombinator.com/item?id=36345645) - [WebStudio: Open visual development for the open web](https://webstudio.is/)
 * [2023-06-15, 19:31:21](https://news.ycombinator.com/item?id=36345345) - [Tell HN: Google search sucks even more during Reddit blackout](https://news.ycombinator.com/item?id=36345345)
@@ -68,6 +70,7 @@
 * [2023-06-15, 03:42:26](https://news.ycombinator.com/item?id=36336112) - [ESP32-C3 Wireless Adventure: A Comprehensive Guide to IoT [pdf]](https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf)
 * [2023-06-15, 03:11:35](https://news.ycombinator.com/item?id=36335975) - [Tell HN: Locked Google account reopened after two years](https://news.ycombinator.com/item?id=36335975)
 * [2023-06-15, 03:07:35](https://news.ycombinator.com/item?id=36335958) - [Renters Are About to Get the Upper Hand](https://www.wsj.com/articles/renters-are-about-to-get-the-upper-hand-f6387df4)
+* [2023-06-15, 02:35:42](https://news.ycombinator.com/item?id=36335757) - [Wonder and Pleasure in the Oude Doolhof of Amsterdam](https://publicdomainreview.org/essay/wonder-and-pleasure-in-the-oude-doolhof-of-amsterdam)
 * [2023-06-15, 02:31:58](https://news.ycombinator.com/item?id=36335730) - [Drugs like ritalin, dexamphetamine decrease the quality of cognitive effort](https://www.science.org/doi/10.1126/sciadv.add4165)
 * [2023-06-15, 02:23:56](https://news.ycombinator.com/item?id=36335674) - [Show HN: FFmpeg UI](https://ybouane.com/ffmpeg-ui)
 * [2023-06-15, 02:11:17](https://news.ycombinator.com/item?id=36335581) - [Man found UC Berkeley skeleton in 2021](https://www.berkeleyscanner.com/2023/06/12/uc-berkeley-crime/uc-berkeley-skeleton-found-2021-clark-kerr-human-remains/)
