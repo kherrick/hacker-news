@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
 * [2023-06-15, 14:09:56](https://news.ycombinator.com/item?id=36340755) - [Stack Overflow Is Down](https://www.stackstatus.net/?)
+* [2023-06-15, 13:51:22](https://news.ycombinator.com/item?id=36340504) - [TropeTwist: Trope-Based Narrative Structure Generation](https://arxiv.org/abs/2204.09672)
 * [2023-06-15, 13:49:47](https://news.ycombinator.com/item?id=36340482) - [What Motorcycles Teach About Maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4)
 * [2023-06-15, 13:46:38](https://news.ycombinator.com/item?id=36340439) - [DeSantis signs car dealership bill banning most direct-to-consumer auto sales](https://floridapolitics.com/archives/618230-gov-desantis-signs-car-dealership-protection-bill-banning-most-direct-to-consumer-auto-sales/)
 * [2023-06-15, 13:23:24](https://news.ycombinator.com/item?id=36340095) - [Man locked out of smart home for a week after driver accuses him of being racist](https://www.independent.co.uk/tech/smart-home-lock-out-amazon-b2358107.html)
