@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 14:21:49](https://news.ycombinator.com/item?id=36340930) - [The Matrix Cookbook [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 * [2023-06-15, 14:09:56](https://news.ycombinator.com/item?id=36340755) - [Stack Overflow Is Down](https://www.stackstatus.net/?)
 * [2023-06-15, 13:51:22](https://news.ycombinator.com/item?id=36340504) - [TropeTwist: Trope-Based Narrative Structure Generation](https://arxiv.org/abs/2204.09672)
 * [2023-06-15, 13:49:47](https://news.ycombinator.com/item?id=36340482) - [What Motorcycles Teach About Maintenance](https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4)
@@ -21,7 +22,6 @@
 * [2023-06-15, 02:11:17](https://news.ycombinator.com/item?id=36335581) - [Man found UC Berkeley skeleton in 2021](https://www.berkeleyscanner.com/2023/06/12/uc-berkeley-crime/uc-berkeley-skeleton-found-2021-clark-kerr-human-remains/)
 * [2023-06-15, 01:04:46](https://news.ycombinator.com/item?id=36335104) - [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
 * [2023-06-15, 00:38:20](https://news.ycombinator.com/item?id=36334912) - [SETI scientists to devise plan for lunar listening station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
-* [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 * [2023-06-13, 23:58:06](https://news.ycombinator.com/item?id=36319380) - [Automatically bisecting the Linux kernel to find a bug (2020)](https://paulgraydon.co.uk/posts/2020-12-27-automated-kernel-bisection/)
 * [2023-06-13, 23:19:33](https://news.ycombinator.com/item?id=36319025) - [Conflict-Driven Synthesis for Layout Engines](https://dl.acm.org/doi/pdf/10.1145/3591246)
 * [2023-06-13, 22:10:06](https://news.ycombinator.com/item?id=36318281) - [Behaviour Driven Development with 6502 code](https://github.com/martinpiper/BDD6502)
