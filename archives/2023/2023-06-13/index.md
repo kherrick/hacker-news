@@ -55,6 +55,7 @@
 * [2023-06-13, 16:17:38](https://news.ycombinator.com/item?id=36312459) - [Just Use jQuery](https://twitter.com/NariBuildsStuff/status/1668653425033195543)
 * [2023-06-13, 16:13:37](https://news.ycombinator.com/item?id=36312385) - [Andromeda Cluster: 10 Exaflops* for Startups from Nat Friedman and Daniel Gross](https://andromedacluster.com/)
 * [2023-06-13, 16:08:12](https://news.ycombinator.com/item?id=36312295) - [Speed matters: Why working quickly is more important than it seems](http://jsomers.net/blog/speed-matters)
+* [2023-06-13, 16:03:59](https://news.ycombinator.com/item?id=36312232) - [To Understand the Past, Pick Up an Old Magazine](https://www.nytimes.com/2023/06/13/magazine/old-magazines.html)
 * [2023-06-13, 16:01:39](https://news.ycombinator.com/item?id=36312200) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2023-06-13, 15:55:32](https://news.ycombinator.com/item?id=36312122) - [Apollo’s Christian Selig explains his fight with Reddit – and why users revolted](https://www.theverge.com/2023/6/13/23759180/reddit-protest-private-apollo-christian-selig-subreddit)
 * [2023-06-13, 15:49:17](https://news.ycombinator.com/item?id=36312027) - [Moving Fast with the Core Vim Motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
