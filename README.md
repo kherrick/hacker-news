@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-15, 10:29:16](https://news.ycombinator.com/item?id=36338529) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-15, 10:08:46](https://news.ycombinator.com/item?id=36338395) - [Is the US trying to kill crypto?](https://www.bbc.com/news/business-65861096)
 * [2023-06-15, 08:09:56](https://news.ycombinator.com/item?id=36337687) - [Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
 * [2023-06-15, 08:00:27](https://news.ycombinator.com/item?id=36337632) - [June (YC W21) Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
@@ -21,7 +22,6 @@
 * [2023-06-14, 19:40:35](https://news.ycombinator.com/item?id=36331446) - [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 19:37:13](https://news.ycombinator.com/item?id=36331394) - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
-* [2023-06-14, 18:14:27](https://news.ycombinator.com/item?id=36330116) - [I may be the only evil (bit) user on the internet (2015)](https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage)
 * [2023-06-14, 14:26:55](https://news.ycombinator.com/item?id=36326525) - [Launch HN: Credal.ai (YC W23) – Data Safety for Enterprise AI](https://news.ycombinator.com/item?id=36326525)
 * [2023-06-14, 13:54:33](https://news.ycombinator.com/item?id=36325986) - [I booted Linux 293k times in 21 hours](https://rwmj.wordpress.com/2023/06/14/i-booted-linux-292612-times/)
 * [2023-06-13, 19:53:05](https://news.ycombinator.com/item?id=36315978) - [Eyewitness Accounts of the 1906 San Francisco Earthquake](https://publicdomainreview.org/collection/san-francisco-calamity)
