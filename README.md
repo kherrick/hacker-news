@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-15, 17:51:41](https://news.ycombinator.com/item?id=36344172) - [Show HN: My first full stack project](https://www.plotnotes.ai/)
+* [2023-06-15, 17:22:20](https://news.ycombinator.com/item?id=36343779) - [US Government agencies hit in global cyberattack](https://www.cnn.com/2023/06/15/politics/us-government-hit-cybeattack/index.html)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 * [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
@@ -13,7 +14,6 @@
 * [2023-06-15, 14:40:17](https://news.ycombinator.com/item?id=36341188) - [Google warns own staff about entering data into, using code from, chatbots](https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/)
 * [2023-06-15, 14:37:42](https://news.ycombinator.com/item?id=36341160) - [Getting 10TB of GitHub Logs and Extracting Details of All Users and Repositories](https://trickest.com/blog/parsing-github-logs-with-trickest/)
 * [2023-06-15, 14:21:49](https://news.ycombinator.com/item?id=36340930) - [The Matrix Cookbook (2012) [pdf]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-* [2023-06-15, 14:09:56](https://news.ycombinator.com/item?id=36340755) - [Stack Overflow Is Down](https://www.stackstatus.net/?)
 * [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
 * [2023-06-15, 13:51:22](https://news.ycombinator.com/item?id=36340504) - [TropeTwist: Trope-Based Narrative Structure Generation](https://arxiv.org/abs/2204.09672)
 * [2023-06-15, 13:26:25](https://news.ycombinator.com/item?id=36340135) - [Show HN: Procoto – Self-Service RFP Management](https://procoto.com/)
