@@ -11,22 +11,32 @@
   ],
   [
     [
-      "2023-06-15, 14:46:24",
-      "https://news.ycombinator.com/item?id=36341257"
-    ],
-    [
-      "/r/startrek/ migrates to lemmy",
-      "https://old.reddit.com/r/startrek/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 14:42:49",
       "https://news.ycombinator.com/item?id=36341211"
     ],
     [
       "Zluda: Run CUDA code on Intel GPUs, unmodified",
       "https://github.com/vosen/ZLUDA"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 14:40:17",
+      "https://news.ycombinator.com/item?id=36341188"
+    ],
+    [
+      "Google warns own staff about entering data into, using code from, chatbots",
+      "https://www.reuters.com/technology/google-one-ais-biggest-backers-warns-own-staff-about-chatbots-2023-06-15/"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 14:37:42",
+      "https://news.ycombinator.com/item?id=36341160"
+    ],
+    [
+      "Getting 10TB of GitHub Logs and Extracting Details of All Users and Repositories",
+      "https://trickest.com/blog/parsing-github-logs-with-trickest/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-06-15, 11:20:01",
-      "https://news.ycombinator.com/item?id=36338870"
-    ],
-    [
-      "Germany wants to legalize quality control of illegal drugs",
-      "https://www.spiegel.de/politik/deutschland/arzneimittel-reform-karl-lauterbach-will-drugchecking-bundesweit-einfuehren-a-b642b609-9149-47bc-a013-11476d54e96f"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 10:29:16",
       "https://news.ycombinator.com/item?id=36338529"
     ],
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-06-15, 05:24:48",
-      "https://news.ycombinator.com/item?id=36336748"
-    ],
-    [
-      "Lessons Learned from 11 Years of Hosting a SaaS",
-      "https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 03:42:26",
       "https://news.ycombinator.com/item?id=36336112"
     ],
@@ -227,6 +217,16 @@
     [
       "SETI scientists to devise plan for lunar listening station",
       "https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 16:34:39",
+      "https://news.ycombinator.com/item?id=36328466"
+    ],
+    [
+      "The PostgreSQL Documentation and the Limitations of Community",
+      "http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html"
     ]
   ],
   [
