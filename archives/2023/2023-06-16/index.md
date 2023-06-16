@@ -6,6 +6,7 @@
 
 * [2023-06-16, 18:13:03](https://news.ycombinator.com/item?id=36361162) - [Statistical correlation between earthquakes and cosmic radiation](https://press.ifj.edu.pl/en/news/2023/06/14/)
 * [2023-06-16, 18:02:31](https://news.ycombinator.com/item?id=36360980) - [John Carmack on shorter work weeks (2016)](https://news.ycombinator.com/item?id=10845832)
+* [2023-06-16, 17:26:18](https://news.ycombinator.com/item?id=36360452) - [Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
 * [2023-06-16, 17:12:00](https://news.ycombinator.com/item?id=36360189) - [Dechlorinating the Moderator](http://www.antipope.org/charlie/fiction/moderator.html)
 * [2023-06-16, 17:02:59](https://news.ycombinator.com/item?id=36360035) - [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
 * [2023-06-16, 17:01:36](https://news.ycombinator.com/item?id=36360018) - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
