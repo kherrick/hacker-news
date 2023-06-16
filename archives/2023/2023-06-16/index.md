@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 16:43:26](https://news.ycombinator.com/item?id=36359652) - [100 Days of Swift – Hacking with Swift](https://www.hackingwithswift.com/100)
+* [2023-06-16, 16:35:57](https://news.ycombinator.com/item?id=36359508) - [Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp](https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp)
 * [2023-06-16, 16:24:20](https://news.ycombinator.com/item?id=36359296) - [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
 * [2023-06-16, 16:22:31](https://news.ycombinator.com/item?id=36359259) - [The note Reddit sent to moderators threatening them if they don’t reopen](https://www.theverge.com/2023/6/16/23763538/reddit-blackout-api-protest-mod-replacement-threat)
 * [2023-06-16, 16:15:15](https://news.ycombinator.com/item?id=36359119) - [Product Lessons from Dan Robinson (Ex-CTO of Heap)](https://johnjianwang.medium.com/product-lessons-from-dan-robinson-ex-cto-of-heap-329a00cd6248)
