@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 18:32:06](https://news.ycombinator.com/item?id=36361510) - [European Union votes to bring back replaceable phone batteries](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
 * [2023-06-16, 18:13:03](https://news.ycombinator.com/item?id=36361162) - [Statistical correlation between earthquakes and cosmic radiation](https://press.ifj.edu.pl/en/news/2023/06/14/)
 * [2023-06-16, 18:02:31](https://news.ycombinator.com/item?id=36360980) - [John Carmack on shorter work weeks (2016)](https://news.ycombinator.com/item?id=10845832)
 * [2023-06-16, 17:26:18](https://news.ycombinator.com/item?id=36360452) - [Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
