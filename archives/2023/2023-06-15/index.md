@@ -87,6 +87,7 @@
 * [2023-06-15, 09:34:16](https://news.ycombinator.com/item?id=36338187) - [Ask HN: GPT4 Broke Me](https://news.ycombinator.com/item?id=36338187)
 * [2023-06-15, 08:40:41](https://news.ycombinator.com/item?id=36337851) - [Petition of the Candlemakers](https://sites.middlebury.edu/econ0450f10/files/2010/08/bastiat.pdf)
 * [2023-06-15, 08:36:07](https://news.ycombinator.com/item?id=36337828) - [Building a platform that open sources itself](https://zed.dev/blog/open-sourcing-zed-on-zed)
+* [2023-06-15, 08:24:27](https://news.ycombinator.com/item?id=36337764) - [ASRock Brings 56-Core Xeon W3400 to Deep MicroATX](https://www.tomshardware.com/news/asrock-puts-56-core-xeon-into-deep-microatx)
 * [2023-06-15, 08:09:56](https://news.ycombinator.com/item?id=36337687) - [Hardware Hacking to Bypass Bios Passwords](https://blog.cybercx.co.nz/bypassing-bios-password)
 * [2023-06-15, 08:00:27](https://news.ycombinator.com/item?id=36337632) - [June (YC W21) Is Hiring Engineer #3 – Remote CET](https://www.ycombinator.com/companies/june/jobs/SHd7fFLYG-product-engineer-3)
 * [2023-06-15, 07:57:42](https://news.ycombinator.com/item?id=36337615) - [How Russia Went from Ally to Adversary](https://www.newyorker.com/magazine/2023/06/19/how-the-west-lost-the-peace-philipp-ther-book-review)
