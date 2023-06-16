@@ -7,6 +7,7 @@
 * [2023-06-16, 10:30:41](https://news.ycombinator.com/item?id=36354280) - [Annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
 * [2023-06-16, 10:00:42](https://news.ycombinator.com/item?id=36354049) - [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
 * [2023-06-16, 09:48:08](https://news.ycombinator.com/item?id=36353960) - [Throwing in the Towel on Mobile Linux](https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html)
+* [2023-06-16, 09:35:37](https://news.ycombinator.com/item?id=36353845) - [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 08:38:14](https://news.ycombinator.com/item?id=36353351) - [The workers already replaced by artificial intelligence](https://www.bbc.com/news/business-65906521)
 * [2023-06-16, 08:14:23](https://news.ycombinator.com/item?id=36353147) - [MD5 (Algorithm) in SQL](https://modern-sql.com/caniuse/MD5-algorithm)
 * [2023-06-16, 07:15:58](https://news.ycombinator.com/item?id=36352686) - [Keys for unattended decryption of LUKS volumes are exposed during race condition](https://census-labs.com/news/2023/06/15/race-tang/)
