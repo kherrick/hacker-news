@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 04:48:08](https://news.ycombinator.com/item?id=36351426) - [The Illusion of Moral Decline](https://www.nature.com/articles/s41586-023-06137-x)
 * [2023-06-16, 04:20:26](https://news.ycombinator.com/item?id=36351185) - [Major Louisiana DMV Hack](https://gov.louisiana.gov/index.cfm/newsroom/detail/4158)
 * [2023-06-16, 04:03:24](https://news.ycombinator.com/item?id=36351065) - [Subreddit Migration Directory](https://redditmigration.com)
 * [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)
