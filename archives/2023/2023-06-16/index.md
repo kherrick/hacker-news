@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 18:02:31](https://news.ycombinator.com/item?id=36360980) - [John Carmack on shorter work weeks (2016)](https://news.ycombinator.com/item?id=10845832)
 * [2023-06-16, 17:12:00](https://news.ycombinator.com/item?id=36360189) - [Dechlorinating the Moderator](http://www.antipope.org/charlie/fiction/moderator.html)
 * [2023-06-16, 17:02:59](https://news.ycombinator.com/item?id=36360035) - [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
 * [2023-06-16, 17:01:36](https://news.ycombinator.com/item?id=36360018) - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
@@ -11,6 +12,7 @@
 * [2023-06-16, 16:56:21](https://news.ycombinator.com/item?id=36359925) - [Hexyl: A command-line hex viewer with colorized output](https://github.com/sharkdp/hexyl)
 * [2023-06-16, 16:51:01](https://news.ycombinator.com/item?id=36359817) - [How to go to war with your employer](https://drewdevault.com/2023/06/12/How-to-go-to-war.html)
 * [2023-06-16, 16:49:56](https://news.ycombinator.com/item?id=36359798) - [Bits about Money Requiem for a bank loan](https://www.bitsaboutmoney.com/archive/requiem-for-a-bank-loan/)
+* [2023-06-16, 16:43:26](https://news.ycombinator.com/item?id=36359652) - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 * [2023-06-16, 16:43:26](https://news.ycombinator.com/item?id=36359652) - [100 Days of Swift – Hacking with Swift](https://www.hackingwithswift.com/100)
 * [2023-06-16, 16:35:57](https://news.ycombinator.com/item?id=36359508) - [Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp](https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp)
 * [2023-06-16, 16:28:40](https://news.ycombinator.com/item?id=36359376) - [Writing a chat application in Django 4.2 using async StreamingHttpResponse](https://valberg.dk/django-sse-postgresql-listen-notify.html)
