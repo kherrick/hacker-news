@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)
 * [2023-06-16, 03:49:30](https://news.ycombinator.com/item?id=36350938) - [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
 * [2023-06-16, 03:31:58](https://news.ycombinator.com/item?id=36350789) - [Trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
 * [2023-06-16, 03:16:32](https://news.ycombinator.com/item?id=36350693) - [io_uring disabled across Google platforms](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
