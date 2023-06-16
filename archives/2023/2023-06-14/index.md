@@ -77,6 +77,7 @@
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to Know the Right People](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 10:11:39](https://news.ycombinator.com/item?id=36323721) - [The Associationist Mindset](http://edwardfeser.blogspot.com/2023/06/the-associationist-mindset.html)
 * [2023-06-14, 09:56:38](https://news.ycombinator.com/item?id=36323634) - [Hotel Owners Start to Write Off San Francisco as Business Nosedives](https://www.wsj.com/articles/hotel-owners-start-to-write-off-san-francisco-as-business-nosedives-e84c64ef)
+* [2023-06-14, 09:27:36](https://news.ycombinator.com/item?id=36323457) - [Rash – The Reckless Racket Shell](https://rash-lang.org)
 * [2023-06-14, 09:20:59](https://news.ycombinator.com/item?id=36323405) - [Heat pumps, heat pumps, heat pumps](https://www.noahpinion.blog/p/heat-pumps-heat-pumps-heat-pumps)
 * [2023-06-14, 09:17:31](https://news.ycombinator.com/item?id=36323387) - [A Sudanese teen posts on Reddit as she fights for her life being held captive](https://old.reddit.com/r/Sudan/comments/148x73h/probably_gonna_be_my_last_post_ever_but_if_i_die/)
 * [2023-06-14, 09:13:22](https://news.ycombinator.com/item?id=36323369) - [ES Modules Are Terrible](https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3)
