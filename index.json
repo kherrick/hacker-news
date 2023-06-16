@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2023-06-16, 16:51:01",
-      "https://news.ycombinator.com/item?id=36359817"
+      "2023-06-16, 16:49:56",
+      "https://news.ycombinator.com/item?id=36359798"
     ],
     [
-      "How to go to war with your employer",
-      "https://drewdevault.com/2023/06/12/How-to-go-to-war.html"
+      "Bits about Money Requiem for a bank loan",
+      "https://www.bitsaboutmoney.com/archive/requiem-for-a-bank-loan/"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp",
       "https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 16:28:40",
+      "https://news.ycombinator.com/item?id=36359376"
+    ],
+    [
+      "Writing a chat application in Django 4.2 using async StreamingHttpResponse",
+      "https://valberg.dk/django-sse-postgresql-listen-notify.html"
     ]
   ],
   [
@@ -241,26 +251,6 @@
   ],
   [
     [
-      "2023-06-16, 03:16:32",
-      "https://news.ycombinator.com/item?id=36350693"
-    ],
-    [
-      "Learnings from kCTF VRP's 42 Linux kernel exploits submissions",
-      "https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 20:42:34",
-      "https://news.ycombinator.com/item?id=36346254"
-    ],
-    [
-      "My 24 year old HP Jornada can do things an iPhone still can't do",
-      "https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 13:15:37",
       "https://news.ycombinator.com/item?id=36339995"
     ],
@@ -297,6 +287,16 @@
     [
       "Does dream inception work?",
       "https://nautil.us/does-dream-inception-work-311117/"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 08:24:27",
+      "https://news.ycombinator.com/item?id=36337764"
+    ],
+    [
+      "ASRock Brings 56-Core Xeon W3400 to Deep MicroATX",
+      "https://www.tomshardware.com/news/asrock-puts-56-core-xeon-into-deep-microatx"
     ]
   ]
 ]
