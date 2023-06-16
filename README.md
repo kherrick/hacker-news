@@ -16,6 +16,7 @@
 * [2023-06-15, 23:32:25](https://news.ycombinator.com/item?id=36348483) - [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
 * [2023-06-15, 23:24:03](https://news.ycombinator.com/item?id=36348356) - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
 * [2023-06-15, 23:02:08](https://news.ycombinator.com/item?id=36348007) - [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
+* [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [2023-06-15, 21:59:51](https://news.ycombinator.com/item?id=36347222) - [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:13:18](https://news.ycombinator.com/item?id=36345851) - [Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
@@ -27,7 +28,6 @@
 * [2023-06-15, 08:40:41](https://news.ycombinator.com/item?id=36337851) - [Petition of the Candlemakers](https://sites.middlebury.edu/econ0450f10/files/2010/08/bastiat.pdf)
 * [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, Editor Extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 * [2023-06-14, 22:04:01](https://news.ycombinator.com/item?id=36333409) - [Unison Language and Platform Roadmap](https://www.unison-lang.org/roadmap/)
-* [2023-06-14, 13:41:09](https://news.ycombinator.com/item?id=36325774) - [The 4-Bit Eight Bit Processor – AMI S2000 and Iskra EMZ1001](https://www.cpushack.com/2023/06/13/the-4-bit-eight-bit-processor-ami-s2000-and-iskra-emz1001/)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
 
