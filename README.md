@@ -15,6 +15,7 @@
 * [2023-06-16, 09:35:37](https://news.ycombinator.com/item?id=36353845) - [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 07:47:56](https://news.ycombinator.com/item?id=36352945) - [The SSL Certificate Issuer Field Is a Lie](https://www.agwa.name/blog/post/the_certificate_issuer_field_is_a_lie)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
+* [2023-06-16, 06:06:10](https://news.ycombinator.com/item?id=36352103) - [The next generation of serverless](https://www.fermyon.com/blog/next-generation-of-serverless-is-happening)
 * [2023-06-16, 04:47:26](https://news.ycombinator.com/item?id=36351415) - [Memory Safety Without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
 * [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)
 * [2023-06-16, 03:49:30](https://news.ycombinator.com/item?id=36350938) - [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
@@ -29,7 +30,6 @@
 * [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
 * [2023-06-15, 10:19:43](https://news.ycombinator.com/item?id=36338474) - [Does dream inception work?](https://nautil.us/does-dream-inception-work-311117/)
 * [2023-06-14, 09:27:36](https://news.ycombinator.com/item?id=36323457) - [Rash – The Reckless Racket Shell](https://rash-lang.org)
-* [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
 
 ## [Archives](archives/index.md)
 
