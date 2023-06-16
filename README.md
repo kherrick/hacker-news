@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-16, 12:30:10](https://news.ycombinator.com/item?id=36355483) - [Reddit has a terrible plan to end blackout: ask you to vote out protesting mods](https://www.techradar.com/news/reddit-has-a-terrible-plan-to-end-blackout-ask-you-to-vote-out-protesting-mods)
+* [2023-06-16, 12:37:02](https://news.ycombinator.com/item?id=36355551) - [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
 * [2023-06-16, 12:06:30](https://news.ycombinator.com/item?id=36355172) - [What I Learned from Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
 * [2023-06-16, 12:00:34](https://news.ycombinator.com/item?id=36355103) - [Provision (YC S22) Is Hiring a Founding Engineer (Front End)](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 * [2023-06-16, 11:50:50](https://news.ycombinator.com/item?id=36354981) - [Building a New Database Management System in Academia](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
@@ -11,7 +11,6 @@
 * [2023-06-16, 10:00:42](https://news.ycombinator.com/item?id=36354049) - [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
 * [2023-06-16, 09:35:37](https://news.ycombinator.com/item?id=36353845) - [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
-* [2023-06-16, 05:34:49](https://news.ycombinator.com/item?id=36351830) - [Louis Rossmann calls community to leave Reddit](https://www.youtube.com/watch?v=ZOm_UKGyrZg)
 * [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)
 * [2023-06-16, 03:49:30](https://news.ycombinator.com/item?id=36350938) - [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
 * [2023-06-16, 03:31:58](https://news.ycombinator.com/item?id=36350789) - [Trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
@@ -23,6 +22,7 @@
 * [2023-06-15, 23:24:03](https://news.ycombinator.com/item?id=36348356) - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
 * [2023-06-15, 23:02:08](https://news.ycombinator.com/item?id=36348007) - [Software effort estimation is mostly fake research (2021)](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
+* [2023-06-15, 16:49:47](https://news.ycombinator.com/item?id=36343270) - [Hey Dad, can you help me return the Picasso I stole?](https://www.nytimes.com/2023/06/15/arts/design/stolen-picasso-boston.html)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
 * [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
