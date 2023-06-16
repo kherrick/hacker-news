@@ -25,11 +25,11 @@
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
+* [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
 * [2023-06-15, 08:40:41](https://news.ycombinator.com/item?id=36337851) - [Petition of the Candlemakers (1845)](https://sites.middlebury.edu/econ0450f10/files/2010/08/bastiat.pdf)
 * [2023-06-15, 04:49:40](https://news.ycombinator.com/item?id=36336519) - [Playing Atari Games in OCaml](https://www.janestreet.com/tech-talks/playing-atari-games-in-ocaml/)
 * [2023-06-14, 09:27:36](https://news.ycombinator.com/item?id=36323457) - [Rash – The Reckless Racket Shell](https://rash-lang.org)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
-* [2023-06-14, 05:52:52](https://news.ycombinator.com/item?id=36321938) - [In Praise of Slowness (2017)](https://lareviewofbooks.org/article/in-praise-of-slowness/)
 
 ## [Archives](archives/index.md)
 
