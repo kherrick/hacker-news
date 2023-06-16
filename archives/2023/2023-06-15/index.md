@@ -98,3 +98,4 @@
 * [2023-06-15, 01:04:46](https://news.ycombinator.com/item?id=36335104) - [On the slow productivity of John Wick](https://calnewport.com/on-the-slow-productivity-of-john-wick/)
 * [2023-06-15, 00:38:20](https://news.ycombinator.com/item?id=36334912) - [SETI Scientists to Devise Plan for Lunar Listening Station](https://www.supercluster.com/editorial/seti-scientists-to-devise-plan-for-lunar-listening-station/)
 * [2023-06-15, 00:23:16](https://news.ycombinator.com/item?id=36334811) - [I am Steve Huffman, the new CEO of Reddit. AMA. (2015)](https://old.reddit.com/r/IAmA/comments/3cxedn/i_am_steve_huffman_the_new_ceo_of_reddit_ama/)
+* [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, Editor Extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
