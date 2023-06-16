@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
 * [2023-06-16, 13:43:23](https://news.ycombinator.com/item?id=36356476) - [Ask HN: Which substacks do you read as soon as it hits your inbox?](https://news.ycombinator.com/item?id=36356476)
+* [2023-06-16, 13:31:13](https://news.ycombinator.com/item?id=36356288) - [Finland's plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
 * [2023-06-16, 12:59:54](https://news.ycombinator.com/item?id=36355820) - [The Riddle of the Well-Paying, Pointless Job (2019)](https://moretothat.com/pointless-job/)
 * [2023-06-16, 12:37:02](https://news.ycombinator.com/item?id=36355551) - [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
 * [2023-06-16, 12:30:10](https://news.ycombinator.com/item?id=36355483) - [Reddit has a terrible plan to end blackout: ask you to vote out protesting mods](https://www.techradar.com/news/reddit-has-a-terrible-plan-to-end-blackout-ask-you-to-vote-out-protesting-mods)
