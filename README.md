@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 09:48:08](https://news.ycombinator.com/item?id=36353960) - [Throwing in the Towel on Mobile Linux](https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html)
 * [2023-06-16, 07:00:13](https://news.ycombinator.com/item?id=36352549) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
 * [2023-06-16, 06:34:54](https://news.ycombinator.com/item?id=36352347) - [Ask HN: Why would Google sell Google domains to Squarespace?](https://news.ycombinator.com/item?id=36352347)
@@ -21,7 +22,6 @@
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:13:18](https://news.ycombinator.com/item?id=36345851) - [Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
-* [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
 * [2023-06-15, 11:48:22](https://news.ycombinator.com/item?id=36339102) - [Smash hits: How viral memes conquered piñata design](https://restofworld.org/2023/pinata-memes-mexico/)
 * [2023-06-15, 11:30:36](https://news.ycombinator.com/item?id=36338962) - [Everything Must Be Paid for Twice (2022)](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
 * [2023-06-15, 11:28:15](https://news.ycombinator.com/item?id=36338941) - [Estimation isn’t for everyone](https://open.nytimes.com/estimation-isnt-for-everyone-a72484f88b27?gi=b14783206ae3)
