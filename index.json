@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-06-16, 00:34:03",
+      "https://news.ycombinator.com/item?id=36349208"
+    ],
+    [
+      "Generating Income from Open Source",
+      "https://vadimdemedes.com/posts/generating-income-from-open-source"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 00:22:59",
+      "https://news.ycombinator.com/item?id=36349110"
+    ],
+    [
+      "The Distributed Tensor Algebra Compiler (2022)",
+      "https://arxiv.org/abs/2203.08069"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 23:33:59",
+      "https://news.ycombinator.com/item?id=36348507"
+    ],
+    [
+      "Vision Pro",
+      "https://www.ben-evans.com/benedictevans/2023/6/15/vision-pro"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 23:32:25",
+      "https://news.ycombinator.com/item?id=36348483"
+    ],
+    [
+      "Localrf – Nerf from casual shaky videos",
+      "https://localrf.github.io/"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 23:24:03",
+      "https://news.ycombinator.com/item?id=36348356"
+    ],
+    [
+      "Diablo Pitch Document (1994) [pdf]",
+      "http://www.graybeardgames.com/download/diablo_pitch.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 23:02:08",
+      "https://news.ycombinator.com/item?id=36348007"
+    ],
+    [
+      "Software effort estimation is mostly fake research",
+      "https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/"
+    ]
+  ],
+  [
+    [
       "2023-06-15, 22:55:41",
       "https://news.ycombinator.com/item?id=36347915"
     ],
@@ -41,16 +101,6 @@
   ],
   [
     [
-      "2023-06-15, 20:54:18",
-      "https://news.ycombinator.com/item?id=36346396"
-    ],
-    [
-      "Board Changes at Signal",
-      "https://mastodon.world/@signalapp/110549355267860258"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 20:47:16",
       "https://news.ycombinator.com/item?id=36346308"
     ],
@@ -67,16 +117,6 @@
     [
       "My 24 year old HP Jornada can do things an iPhone still can't do",
       "https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 20:15:05",
-      "https://news.ycombinator.com/item?id=36345870"
-    ],
-    [
-      "The Era of Brain Chips (2005) [pdf]",
-      "https://www.wireheading.com/delgado/brainchips.pdf"
     ]
   ],
   [
@@ -151,42 +191,12 @@
   ],
   [
     [
-      "2023-06-15, 16:18:36",
-      "https://news.ycombinator.com/item?id=36342785"
-    ],
-    [
-      "Scientific colour maps",
-      "https://www.fabiocrameri.ch/colourmaps/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 14:48:33",
       "https://news.ycombinator.com/item?id=36341287"
     ],
     [
       "Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35",
       "https://www.unihiker.com/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 14:42:49",
-      "https://news.ycombinator.com/item?id=36341211"
-    ],
-    [
-      "Zluda: Run CUDA code on Intel GPUs, unmodified",
-      "https://github.com/vosen/ZLUDA"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 14:37:42",
-      "https://news.ycombinator.com/item?id=36341160"
-    ],
-    [
-      "Getting 10TB of GitHub logs and extracting details of all users and repositories",
-      "https://trickest.com/blog/parsing-github-logs-with-trickest/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Archaeologists find 3000-year-old sword, exceptionally well preserved",
       "https://newsingermany.com/archaeologists-find-3000-year-old-sword/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 13:49:47",
-      "https://news.ycombinator.com/item?id=36340482"
-    ],
-    [
-      "What motorcycles teach about maintenance",
-      "https://books.worksinprogress.co/book/maintenance-of-everything/vehicles/what-motorcycles-teach-about-maintenance/4"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-06-14, 16:34:39",
-      "https://news.ycombinator.com/item?id=36328466"
+      "2023-06-14, 13:41:09",
+      "https://news.ycombinator.com/item?id=36325774"
     ],
     [
-      "The PostgreSQL documentation and the limitations of community",
-      "http://rhaas.blogspot.com/2023/06/the-postgresql-documentation-and.html"
+      "The 4-Bit Eight Bit Processor – AMI S2000 and Iskra EMZ1001",
+      "https://www.cpushack.com/2023/06/13/the-4-bit-eight-bit-processor-ami-s2000-and-iskra-emz1001/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-06-14, 06:36:32",
+      "https://news.ycombinator.com/item?id=36322233"
+    ],
+    [
+      "WinFsp · Windows File System Proxy",
+      "https://github.com/winfsp/winfsp"
+    ]
+  ],
+  [
+    [
       "2023-06-14, 05:21:33",
       "https://news.ycombinator.com/item?id=36321742"
     ],
     [
       "Foundational Anxieties, Modern Mathematics, and the Political Imagination",
       "https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/"
-    ]
-  ],
-  [
-    [
-      "2023-06-13, 22:55:42",
-      "https://news.ycombinator.com/item?id=36318780"
-    ],
-    [
-      "Infantilism as a norm (2018)",
-      "https://iq.hse.ru/en/news/219491658.html"
     ]
   ]
 ]
