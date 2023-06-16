@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 16:24:20](https://news.ycombinator.com/item?id=36359296) - [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
 * [2023-06-16, 15:49:34](https://news.ycombinator.com/item?id=36358672) - [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
+* [2023-06-16, 15:46:15](https://news.ycombinator.com/item?id=36358601) - [Charles Schwab facing internal meltdown after C-level abruptly reverses on RTO](https://old.reddit.com/r/Schwab/comments/14add4y/rto/)
 * [2023-06-16, 15:35:50](https://news.ycombinator.com/item?id=36358408) - [Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
 * [2023-06-16, 15:08:36](https://news.ycombinator.com/item?id=36357882) - [Why Does Google Kill So Many Products?](https://matt-rickard.com/why-does-google-kill-so-many-products)
 * [2023-06-16, 15:04:48](https://news.ycombinator.com/item?id=36357804) - [The new US border wall is an app](https://www.technologyreview.com/2023/06/16/1074039/border-wall-app/)

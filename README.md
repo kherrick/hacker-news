@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 16:24:20](https://news.ycombinator.com/item?id=36359296) - [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
 * [2023-06-16, 15:49:34](https://news.ycombinator.com/item?id=36358672) - [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
+* [2023-06-16, 15:46:15](https://news.ycombinator.com/item?id=36358601) - [Charles Schwab facing internal meltdown after C-level abruptly reverses on RTO](https://old.reddit.com/r/Schwab/comments/14add4y/rto/)
 * [2023-06-16, 15:35:50](https://news.ycombinator.com/item?id=36358408) - [Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
-* [2023-06-16, 15:08:36](https://news.ycombinator.com/item?id=36357882) - [Why Does Google Kill So Many Products?](https://matt-rickard.com/why-does-google-kill-so-many-products)
 * [2023-06-16, 15:04:48](https://news.ycombinator.com/item?id=36357804) - [The new US border wall is an app](https://www.technologyreview.com/2023/06/16/1074039/border-wall-app/)
 * [2023-06-16, 14:49:10](https://news.ycombinator.com/item?id=36357466) - [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
 * [2023-06-16, 14:46:40](https://news.ycombinator.com/item?id=36357415) - [NHTSA tells automakers not to comply with Massachusetts right-to-repair law](https://www.autoblog.com/2023/06/14/u-s-tells-automakers-not-to-comply-with-massachusetts-independent-repairs-law/)
@@ -23,7 +24,6 @@
 * [2023-06-16, 03:16:32](https://news.ycombinator.com/item?id=36350693) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
 * [2023-06-16, 02:28:41](https://news.ycombinator.com/item?id=36350280) - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
-* [2023-06-15, 20:15:05](https://news.ycombinator.com/item?id=36345870) - [The Era of Brain Chips (2005) [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
 * [2023-06-15, 13:38:27](https://news.ycombinator.com/item?id=36340305) - [Rick Rubin’s creative genius](https://www.latimes.com/entertainment-arts/books/story/2023-02-06/can-rick-rubins-creative-genius-rub-off-on-you)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
 * [2023-06-15, 11:30:36](https://news.ycombinator.com/item?id=36338962) - [Everything Must Be Paid for Twice (2022)](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
