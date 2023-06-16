@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-16, 22:42:26](https://news.ycombinator.com/item?id=36364967) - [De-Dollarization Facts](https://www.de-dollarization.org)
 * [2023-06-16, 22:40:39](https://news.ycombinator.com/item?id=36364941) - [FBI Groomed a 16-Year-Old with “Brain Development Issues” to Become a Terrorist](https://theintercept.com/2023/06/15/fbi-undercover-isis-teenager-terrorist/)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 * [2023-06-16, 19:33:17](https://news.ycombinator.com/item?id=36362547) - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
@@ -27,6 +26,7 @@
 * [2023-06-15, 16:17:11](https://news.ycombinator.com/item?id=36342762) - [Generative AI is also a revolution for computer interfaces](https://www.axios.com/2023/05/26/generative-ai-revolution-computer-interfaces-chatgpt)
 * [2023-06-15, 13:38:27](https://news.ycombinator.com/item?id=36340305) - [Rick Rubin’s creative genius](https://www.latimes.com/entertainment-arts/books/story/2023-02-06/can-rick-rubins-creative-genius-rub-off-on-you)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
+* [2023-06-15, 12:13:25](https://news.ycombinator.com/item?id=36339350) - [Psychedelic scientist sends brains back to childhood](https://www.wired.com/story/the-psychedelic-scientist-who-sends-brains-back-to-childhood/)
 * [2023-06-15, 11:54:29](https://news.ycombinator.com/item?id=36339172) - [Aristotelian Philosophy of Mathematics Workshop](https://philevents.org/event/show/111450)
 * [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
 * [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
