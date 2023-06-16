@@ -2,6 +2,7 @@
 
 * [2023-06-16, 17:02:59](https://news.ycombinator.com/item?id=36360035) - [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
 * [2023-06-16, 17:01:36](https://news.ycombinator.com/item?id=36360018) - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
+* [2023-06-16, 16:51:01](https://news.ycombinator.com/item?id=36359817) - [How to go to war with your employer](https://drewdevault.com/2023/06/12/How-to-go-to-war.html)
 * [2023-06-16, 16:43:26](https://news.ycombinator.com/item?id=36359652) - [100 Days of Swift – Hacking with Swift](https://www.hackingwithswift.com/100)
 * [2023-06-16, 16:35:57](https://news.ycombinator.com/item?id=36359508) - [Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp](https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp)
 * [2023-06-16, 16:24:20](https://news.ycombinator.com/item?id=36359296) - [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
@@ -24,7 +25,6 @@
 * [2023-06-16, 04:47:26](https://news.ycombinator.com/item?id=36351415) - [Memory Safety Without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
 * [2023-06-16, 03:16:32](https://news.ycombinator.com/item?id=36350693) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
-* [2023-06-15, 13:38:27](https://news.ycombinator.com/item?id=36340305) - [Rick Rubin’s creative genius](https://www.latimes.com/entertainment-arts/books/story/2023-02-06/can-rick-rubins-creative-genius-rub-off-on-you)
 * [2023-06-15, 13:15:37](https://news.ycombinator.com/item?id=36339995) - [The Mystery of Australia’s Paralyzed Parrots](https://www.scientificamerican.com/article/the-mystery-of-australias-paralyzed-parrots/)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
 * [2023-06-15, 11:30:36](https://news.ycombinator.com/item?id=36338962) - [Everything Must Be Paid for Twice (2022)](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
