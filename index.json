@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 17:12:00",
+      "https://news.ycombinator.com/item?id=36360189"
+    ],
+    [
+      "Dechlorinating the Moderator",
+      "http://www.antipope.org/charlie/fiction/moderator.html"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 17:02:59",
       "https://news.ycombinator.com/item?id=36360035"
     ],
@@ -17,6 +27,26 @@
     [
       "Gyroflow: An open source advanced gyro-based video stabilization tool",
       "http://gyroflow.xyz/"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 16:57:26",
+      "https://news.ycombinator.com/item?id=36359946"
+    ],
+    [
+      "Mercedes-Benz takes in-car voice control to a new level with ChatGPT",
+      "https://media.mbusa.com/releases/mercedes-benz-takes-in-car-voice-control-to-a-new-level-with-chatgpt"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 16:56:21",
+      "https://news.ycombinator.com/item?id=36359925"
+    ],
+    [
+      "Hexyl: A command-line hex viewer with colorized output",
+      "https://github.com/sharkdp/hexyl"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-06-16, 07:47:56",
-      "https://news.ycombinator.com/item?id=36352945"
-    ],
-    [
-      "The SSL Certificate Issuer Field Is a Lie",
-      "https://www.agwa.name/blog/post/the_certificate_issuer_field_is_a_lie"
-    ]
-  ],
-  [
-    [
       "2023-06-16, 07:00:02",
       "https://news.ycombinator.com/item?id=36352547"
     ],
     [
       "OpenSSL 1.1.1 End of Life Approaching",
       "https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 04:47:26",
-      "https://news.ycombinator.com/item?id=36351415"
-    ],
-    [
-      "Memory Safety Without Borrow Checking, Reference Counting, or Garbage Collection",
-      "https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Does dream inception work?",
       "https://nautil.us/does-dream-inception-work-311117/"
-    ]
-  ],
-  [
-    [
-      "2023-06-14, 09:27:36",
-      "https://news.ycombinator.com/item?id=36323457"
-    ],
-    [
-      "Rash – The Reckless Racket Shell",
-      "https://rash-lang.org"
     ]
   ]
 ]
