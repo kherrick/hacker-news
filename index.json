@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-16, 03:49:30",
+      "https://news.ycombinator.com/item?id=36350938"
+    ],
+    [
+      "Reddit is removing moderators that protest by taking their communities private",
+      "https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 03:16:32",
       "https://news.ycombinator.com/item?id=36350693"
     ],
     [
       "io_uring disabled across Google platforms",
       "https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 03:12:29",
+      "https://news.ycombinator.com/item?id=36350668"
+    ],
+    [
+      "Guidance for Scaling – Reversible vs. Irreversible Decisions",
+      "https://www.craigkerstiens.com/2021/12/29/guidance-for-scaling-reversible-vs.-irreversible-decisions/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Metformin shown to prevent long Covid",
       "https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 02:12:00",
-      "https://news.ycombinator.com/item?id=36350137"
-    ],
-    [
-      "Falcon LLM: The Most Powerful Open Source LLM Released to Date",
-      "https://thesequence.substack.com/p/edge-300-meet-falcon-llm-the-most"
     ]
   ],
   [
@@ -111,22 +121,22 @@
   ],
   [
     [
-      "2023-06-15, 22:04:30",
-      "https://news.ycombinator.com/item?id=36347272"
-    ],
-    [
-      "The Online Books Page",
-      "https://onlinebooks.library.upenn.edu/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 21:59:51",
       "https://news.ycombinator.com/item?id=36347222"
     ],
     [
       "How the brain processes German and Arabic",
       "https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 20:47:16",
+      "https://news.ycombinator.com/item?id=36346308"
+    ],
+    [
+      "uTox – Lightweight Tox Client",
+      "https://github.com/uTox/uTox"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Archaeologists find 3000-year-old sword, exceptionally well preserved",
       "https://newsingermany.com/archaeologists-find-3000-year-old-sword/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 12:55:55",
-      "https://news.ycombinator.com/item?id=36339777"
-    ],
-    [
-      "Our Plan for Python 3.13",
-      "https://github.com/faster-cpython/ideas/blob/main/3.13/README.md"
     ]
   ],
   [
