@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 12:59:54](https://news.ycombinator.com/item?id=36355820) - [The Riddle of the Well-Paying, Pointless Job (2019)](https://moretothat.com/pointless-job/)
 * [2023-06-16, 12:37:02](https://news.ycombinator.com/item?id=36355551) - [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
 * [2023-06-16, 12:06:30](https://news.ycombinator.com/item?id=36355172) - [What I Learned from Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
 * [2023-06-16, 12:00:34](https://news.ycombinator.com/item?id=36355103) - [Provision (YC S22) Is Hiring a Founding Engineer (Front End)](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
@@ -22,7 +23,6 @@
 * [2023-06-15, 23:24:03](https://news.ycombinator.com/item?id=36348356) - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
 * [2023-06-15, 23:02:08](https://news.ycombinator.com/item?id=36348007) - [Software effort estimation is mostly fake research (2021)](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
-* [2023-06-15, 16:49:47](https://news.ycombinator.com/item?id=36343270) - [Hey Dad, can you help me return the Picasso I stole?](https://www.nytimes.com/2023/06/15/arts/design/stolen-picasso-boston.html)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
 * [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
