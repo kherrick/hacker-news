@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 18:33:14](https://news.ycombinator.com/item?id=36361527) - [Show HN: Discuit – A Reddit alternative with a clean UI and a sensible vision](https://discuit.net/)
 * [2023-06-16, 18:32:06](https://news.ycombinator.com/item?id=36361510) - [European Union votes to bring back replaceable phone batteries](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
 * [2023-06-16, 18:13:03](https://news.ycombinator.com/item?id=36361162) - [Statistical correlation between earthquakes and cosmic radiation](https://press.ifj.edu.pl/en/news/2023/06/14/)
 * [2023-06-16, 18:02:31](https://news.ycombinator.com/item?id=36360980) - [John Carmack on shorter work weeks (2016)](https://news.ycombinator.com/item?id=10845832)

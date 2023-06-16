@@ -67,6 +67,7 @@
 * [2023-06-15, 13:15:37](https://news.ycombinator.com/item?id=36339995) - [The Mystery of Australia’s Paralyzed Parrots](https://www.scientificamerican.com/article/the-mystery-of-australias-paralyzed-parrots/)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
 * [2023-06-15, 12:55:55](https://news.ycombinator.com/item?id=36339777) - [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
+* [2023-06-15, 12:13:25](https://news.ycombinator.com/item?id=36339350) - [Psychedelic scientist sends brains back to childhood](https://www.wired.com/story/the-psychedelic-scientist-who-sends-brains-back-to-childhood/)
 * [2023-06-15, 12:02:11](https://news.ycombinator.com/item?id=36339253) - [Cement's future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
 * [2023-06-15, 12:00:30](https://news.ycombinator.com/item?id=36339236) - [JetPack Aviation (YC W19) Is Hiring](https://www.ycombinator.com/companies/jetpack-aviation/jobs/vZY8DUc-chief-engineer-turbine-powered-vtol-aircraft)
 * [2023-06-15, 11:48:22](https://news.ycombinator.com/item?id=36339102) - [Smash hits: How viral memes conquered piñata design](https://restofworld.org/2023/pinata-memes-mexico/)
