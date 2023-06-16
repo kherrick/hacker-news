@@ -23,6 +23,7 @@
 * [2023-06-14, 19:42:49](https://news.ycombinator.com/item?id=36331481) - [Enforced bounds checking for frozen C function interfaces](https://gustedt.wordpress.com/2023/06/10/enforced-bounds-checking-for-frozen-function-interfaces/)
 * [2023-06-14, 19:40:35](https://news.ycombinator.com/item?id=36331446) - [Recovering secret keys from devices using video footage of their power LED](https://www.nassiben.com/video-based-crypta)
 * [2023-06-14, 19:37:13](https://news.ycombinator.com/item?id=36331394) - [AMD openSIL open source firmware proof of concept](https://github.com/openSIL/openSIL)
+* [2023-06-14, 19:22:36](https://news.ycombinator.com/item?id=36331178) - [When Talent Is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
 * [2023-06-14, 19:07:43](https://news.ycombinator.com/item?id=36330972) - [Native JSON Output from GPT-4](https://yonom.substack.com/p/native-json-output-from-gpt-4)
 * [2023-06-14, 18:55:06](https://news.ycombinator.com/item?id=36330812) - [Twitter is being evicted from its Boulder office over unpaid rent](https://techcrunch.com/2023/06/14/twitter-is-being-evicted-from-its-boulder-office-over-unpaid-rent/)
 * [2023-06-14, 18:37:49](https://news.ycombinator.com/item?id=36330541) - [Phoenix LiveView: Async Assign Pattern](http://blog.andyglassman.com/2023/06/phoenix-liveview-async-assign-pattern.html)
