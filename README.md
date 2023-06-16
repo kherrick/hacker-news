@@ -25,10 +25,10 @@
 * [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, escape, and meta tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-15, 20:15:05](https://news.ycombinator.com/item?id=36345870) - [Jose Delgado and the forgotten era of brain chips (2005) [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
 * [2023-06-15, 16:23:56](https://news.ycombinator.com/item?id=36342865) - [On the value of not reaching your goals](https://every.to/p/on-the-value-of-not-reaching-your-goals)
+* [2023-06-15, 16:17:11](https://news.ycombinator.com/item?id=36342762) - [Generative AI is also a revolution for computer interfaces](https://www.axios.com/2023/05/26/generative-ai-revolution-computer-interfaces-chatgpt)
 * [2023-06-15, 13:38:27](https://news.ycombinator.com/item?id=36340305) - [Rick Rubin’s creative genius](https://www.latimes.com/entertainment-arts/books/story/2023-02-06/can-rick-rubins-creative-genius-rub-off-on-you)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
 * [2023-06-15, 12:13:25](https://news.ycombinator.com/item?id=36339350) - [Psychedelic scientist sends brains back to childhood](https://www.wired.com/story/the-psychedelic-scientist-who-sends-brains-back-to-childhood/)
-* [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
 * [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 
 ## [Archives](archives/index.md)
