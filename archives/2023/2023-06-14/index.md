@@ -89,6 +89,7 @@
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://murray-lab.caltech.edu/CTX/)
 * [2023-06-14, 06:57:59](https://news.ycombinator.com/item?id=36322395) - [A 5.7 Terapixel Mosaic of the Surface of Mars](https://kottke.org/23/06/a-massive-57-terapixel-mosaic-of-the-surface-of-mars)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
+* [2023-06-14, 05:52:52](https://news.ycombinator.com/item?id=36321938) - [In Praise of Slowness (2017)](https://lareviewofbooks.org/article/in-praise-of-slowness/)
 * [2023-06-14, 05:37:14](https://news.ycombinator.com/item?id=36321843) - [Serotonin booster leads to increased functional brain connectivity](https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/234406)
 * [2023-06-14, 05:27:58](https://news.ycombinator.com/item?id=36321783) - [Gandi.net – Pricing Update](https://cloudflare-ipfs.com/ipfs/QmcCUA7Q58rKFka7Gfz8aaspeqg5iKNB6BvABrUfpMXeue)
 * [2023-06-14, 05:27:05](https://news.ycombinator.com/item?id=36321780) - [The Reddit blackout will continue](https://old.reddit.com/r/ModCoord/comments/148ks6u/indefinite_blackout_next_steps_polling_your/)
