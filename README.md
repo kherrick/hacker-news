@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 20:15:15](https://news.ycombinator.com/item?id=36363192) - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in colossal cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 * [2023-06-16, 20:00:25](https://news.ycombinator.com/item?id=36362987) - [GPT-4 Can Use Tools Now–That’s a Big Deal](https://every.to/chain-of-thought/gpt-4-can-use-tools-now-that-s-a-big-deal)
 * [2023-06-16, 19:33:17](https://news.ycombinator.com/item?id=36362547) - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
@@ -21,7 +22,6 @@
 * [2023-06-16, 11:50:50](https://news.ycombinator.com/item?id=36354981) - [Building a new database management system in academia (2017)](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
 * [2023-06-16, 10:30:41](https://news.ycombinator.com/item?id=36354280) - [Annoying A/B testing mistakes](https://posthog.com/blog/ab-testing-mistakes)
 * [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
-* [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
 * [2023-06-15, 20:15:05](https://news.ycombinator.com/item?id=36345870) - [Jose Delgado and the forgotten era of brain chips (2005) [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)
 * [2023-06-15, 16:23:56](https://news.ycombinator.com/item?id=36342865) - [On the value of not reaching your goals](https://every.to/p/on-the-value-of-not-reaching-your-goals)
 * [2023-06-15, 13:15:37](https://news.ycombinator.com/item?id=36339995) - [The Mystery of Australia’s Paralyzed Parrots](https://www.scientificamerican.com/article/the-mystery-of-australias-paralyzed-parrots/)
