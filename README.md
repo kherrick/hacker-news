@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-16, 01:47:13](https://news.ycombinator.com/item?id=36349893) - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
+* [2023-06-16, 01:43:17](https://news.ycombinator.com/item?id=36349855) - [UN chief says fossil fuels 'incompatible with human survival,'](https://apnews.com/article/climate-talks-un-uae-guterres-fossil-fuel-9cadf724c9545c7032522b10eaf33d22)
 * [2023-06-16, 01:12:59](https://news.ycombinator.com/item?id=36349559) - [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)
 * [2023-06-16, 00:34:03](https://news.ycombinator.com/item?id=36349208) - [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
 * [2023-06-16, 00:22:59](https://news.ycombinator.com/item?id=36349110) - [The Distributed Tensor Algebra Compiler (2022)](https://arxiv.org/abs/2203.08069)
@@ -29,7 +30,6 @@
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
-* [2023-06-14, 05:21:33](https://news.ycombinator.com/item?id=36321742) - [Foundational Anxieties, Modern Mathematics, and the Political Imagination](https://lareviewofbooks.org/article/foundational-anxieties-modern-mathematics-and-the-political-imagination/)
 
 ## [Archives](archives/index.md)
 

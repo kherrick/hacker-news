@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
 * [2023-06-16, 01:47:13](https://news.ycombinator.com/item?id=36349893) - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
+* [2023-06-16, 01:43:17](https://news.ycombinator.com/item?id=36349855) - [UN chief says fossil fuels 'incompatible with human survival,'](https://apnews.com/article/climate-talks-un-uae-guterres-fossil-fuel-9cadf724c9545c7032522b10eaf33d22)
 * [2023-06-16, 01:12:59](https://news.ycombinator.com/item?id=36349559) - [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)
 * [2023-06-16, 00:34:03](https://news.ycombinator.com/item?id=36349208) - [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
 * [2023-06-16, 00:22:59](https://news.ycombinator.com/item?id=36349110) - [The Distributed Tensor Algebra Compiler (2022)](https://arxiv.org/abs/2203.08069)
