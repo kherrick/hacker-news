@@ -86,6 +86,7 @@
 * [2023-06-15, 07:33:37](https://news.ycombinator.com/item?id=36337473) - [How to crawl a quarter billion webpages in 40 hours (2012)](https://michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 * [2023-06-15, 06:38:24](https://news.ycombinator.com/item?id=36337151) - [Theorem of the Day: Bibliography](https://www.theoremoftheday.org/Resources/Bibliography.htm)
 * [2023-06-15, 05:24:48](https://news.ycombinator.com/item?id=36336748) - [Lessons Learned from 11 Years of Hosting a SaaS](https://ghiculescu.substack.com/p/11-years-of-hosting-a-saas)
+* [2023-06-15, 04:49:40](https://news.ycombinator.com/item?id=36336519) - [Playing Atari Games in OCaml](https://www.janestreet.com/tech-talks/playing-atari-games-in-ocaml/)
 * [2023-06-15, 04:48:35](https://news.ycombinator.com/item?id=36336509) - [Google earns $10M from ads directing abortion seekers to pregnancy crisis center](https://www.theguardian.com/technology/2023/jun/15/google-misleading-abortion-ads-pregnancy-crisis-centers)
 * [2023-06-15, 04:06:39](https://news.ycombinator.com/item?id=36336272) - [Ancient Egyptian followers of a deity called Bes may have used hallucinogens](https://arstechnica.com/science/2023/06/ancient-egyptian-followers-of-a-deity-called-bes-may-have-used-hallucinogens/)
 * [2023-06-15, 04:05:34](https://news.ycombinator.com/item?id=36336260) - [Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)
