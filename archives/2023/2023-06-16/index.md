@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 19:33:17](https://news.ycombinator.com/item?id=36362547) - [Miraheze to Shut Down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
 * [2023-06-16, 19:12:14](https://news.ycombinator.com/item?id=36362225) - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 * [2023-06-16, 18:33:14](https://news.ycombinator.com/item?id=36361527) - [Show HN: Discuit – A Reddit alternative with a clean UI and a sensible vision](https://discuit.net/)
 * [2023-06-16, 18:32:06](https://news.ycombinator.com/item?id=36361510) - [European Union votes to bring back replaceable phone batteries](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
+* [2023-06-16, 18:20:17](https://news.ycombinator.com/item?id=36361283) - [Techmeme now links to Hacker News threads and other “Forums” under its headlines](https://techmeme.com/)
 * [2023-06-16, 18:13:03](https://news.ycombinator.com/item?id=36361162) - [Statistical correlation between earthquakes and cosmic radiation](https://press.ifj.edu.pl/en/news/2023/06/14/)
 * [2023-06-16, 18:02:31](https://news.ycombinator.com/item?id=36360980) - [John Carmack on shorter work weeks (2016)](https://news.ycombinator.com/item?id=10845832)
 * [2023-06-16, 17:26:18](https://news.ycombinator.com/item?id=36360452) - [Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
@@ -54,6 +56,7 @@
 * [2023-06-16, 10:27:10](https://news.ycombinator.com/item?id=36354259) - [Probability and Markets by Jane Street [pdf]](https://www.janestreet.com/static/pdfs/trading-interview.pdf)
 * [2023-06-16, 10:00:42](https://news.ycombinator.com/item?id=36354049) - [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
 * [2023-06-16, 09:48:08](https://news.ycombinator.com/item?id=36353960) - [Throwing in the Towel on Mobile Linux](https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html)
+* [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 09:35:37](https://news.ycombinator.com/item?id=36353845) - [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 08:38:14](https://news.ycombinator.com/item?id=36353351) - [The workers already replaced by artificial intelligence](https://www.bbc.com/news/business-65906521)
 * [2023-06-16, 08:14:23](https://news.ycombinator.com/item?id=36353147) - [MD5 (Algorithm) in SQL](https://modern-sql.com/caniuse/MD5-algorithm)
