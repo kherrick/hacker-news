@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 15:08:36](https://news.ycombinator.com/item?id=36357882) - [Why Does Google Kill So Many Products?](https://matt-rickard.com/why-does-google-kill-so-many-products)
 * [2023-06-16, 14:49:10](https://news.ycombinator.com/item?id=36357466) - [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
+* [2023-06-16, 14:32:56](https://news.ycombinator.com/item?id=36357164) - [Reddit is undeleting years worth of comments and posts](https://tane.codes/@tanepiper/110553809293213303)
 * [2023-06-16, 14:19:14](https://news.ycombinator.com/item?id=36356957) - [Reddit CEO Says Mods Too Powerful, Plans to Weaken After Blackout](https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6)
 * [2023-06-16, 14:13:03](https://news.ycombinator.com/item?id=36356876) - [Full Time](https://www.marginalia.nu/log/83_full_time/)
 * [2023-06-16, 13:49:13](https://news.ycombinator.com/item?id=36356547) - [AI is going to eat itself: Experiment shows people training bots are using bots](https://www.theregister.com/2023/06/16/crowd_workers_bots_ai_training/)
