@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 13:43:23](https://news.ycombinator.com/item?id=36356476) - [Ask HN: Which substacks do you read as soon as it hits your inbox?](https://news.ycombinator.com/item?id=36356476)
 * [2023-06-16, 12:59:54](https://news.ycombinator.com/item?id=36355820) - [The Riddle of the Well-Paying, Pointless Job (2019)](https://moretothat.com/pointless-job/)
 * [2023-06-16, 12:37:02](https://news.ycombinator.com/item?id=36355551) - [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
 * [2023-06-16, 12:06:30](https://news.ycombinator.com/item?id=36355172) - [What I Learned from Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
@@ -17,7 +18,6 @@
 * [2023-06-16, 03:31:58](https://news.ycombinator.com/item?id=36350789) - [Trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
 * [2023-06-16, 03:16:32](https://news.ycombinator.com/item?id=36350693) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
 * [2023-06-16, 02:28:41](https://news.ycombinator.com/item?id=36350280) - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
-* [2023-06-16, 01:47:13](https://news.ycombinator.com/item?id=36349893) - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
 * [2023-06-16, 00:34:03](https://news.ycombinator.com/item?id=36349208) - [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
 * [2023-06-15, 23:32:25](https://news.ycombinator.com/item?id=36348483) - [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
 * [2023-06-15, 23:24:03](https://news.ycombinator.com/item?id=36348356) - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
