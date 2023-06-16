@@ -6,6 +6,7 @@
 
 * [2023-06-16, 16:24:20](https://news.ycombinator.com/item?id=36359296) - [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
 * [2023-06-16, 16:22:31](https://news.ycombinator.com/item?id=36359259) - [The note Reddit sent to moderators threatening them if they don’t reopen](https://www.theverge.com/2023/6/16/23763538/reddit-blackout-api-protest-mod-replacement-threat)
+* [2023-06-16, 16:15:15](https://news.ycombinator.com/item?id=36359119) - [Product Lessons from Dan Robinson (Ex-CTO of Heap)](https://johnjianwang.medium.com/product-lessons-from-dan-robinson-ex-cto-of-heap-329a00cd6248)
 * [2023-06-16, 15:49:34](https://news.ycombinator.com/item?id=36358672) - [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
 * [2023-06-16, 15:46:15](https://news.ycombinator.com/item?id=36358601) - [Charles Schwab facing internal meltdown after C-level abruptly reverses on RTO](https://old.reddit.com/r/Schwab/comments/14add4y/rto/)
 * [2023-06-16, 15:35:50](https://news.ycombinator.com/item?id=36358408) - [Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
