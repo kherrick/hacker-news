@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 04:20:26](https://news.ycombinator.com/item?id=36351185) - [Major Louisiana DMV Hack](https://gov.louisiana.gov/index.cfm/newsroom/detail/4158)
 * [2023-06-16, 04:03:24](https://news.ycombinator.com/item?id=36351065) - [Subreddit Migration Directory](https://redditmigration.com)
 * [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)
 * [2023-06-16, 03:49:30](https://news.ycombinator.com/item?id=36350938) - [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
@@ -20,14 +21,13 @@
 * [2023-06-15, 19:56:05](https://news.ycombinator.com/item?id=36345645) - [WebStudio: Open visual development for the open web](https://webstudio.is/)
 * [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Rock engravings made by Homo Naledi ~300k years ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
-* [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
 * [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
+* [2023-06-15, 11:28:15](https://news.ycombinator.com/item?id=36338941) - [Estimation Isn’t for Everyone. The Evolution of Agility in Software](https://open.nytimes.com/estimation-isnt-for-everyone-a72484f88b27?gi=b14783206ae3)
 * [2023-06-15, 08:40:41](https://news.ycombinator.com/item?id=36337851) - [Petition of the Candlemakers](https://sites.middlebury.edu/econ0450f10/files/2010/08/bastiat.pdf)
 * [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, Editor Extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 * [2023-06-14, 22:04:01](https://news.ycombinator.com/item?id=36333409) - [Unison Language and Platform Roadmap](https://www.unison-lang.org/roadmap/)
-* [2023-06-14, 19:22:36](https://news.ycombinator.com/item?id=36331178) - [When Talent Is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
 
