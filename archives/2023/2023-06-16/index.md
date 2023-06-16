@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 14:19:14](https://news.ycombinator.com/item?id=36356957) - [Reddit CEO Says Mods Too Powerful, Plans to Weaken After Blackout](https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6)
 * [2023-06-16, 14:13:03](https://news.ycombinator.com/item?id=36356876) - [Full Time](https://www.marginalia.nu/log/83_full_time/)
 * [2023-06-16, 13:49:13](https://news.ycombinator.com/item?id=36356547) - [AI is going to eat itself: Experiment shows people training bots are using bots](https://www.theregister.com/2023/06/16/crowd_workers_bots_ai_training/)
 * [2023-06-16, 13:43:23](https://news.ycombinator.com/item?id=36356476) - [Ask HN: Which substacks do you read as soon as it hits your inbox?](https://news.ycombinator.com/item?id=36356476)
