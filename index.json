@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 07:15:58",
+      "https://news.ycombinator.com/item?id=36352686"
+    ],
+    [
+      "Keys for unattended decryption of LUKS volumes are exposed during race condition",
+      "https://census-labs.com/news/2023/06/15/race-tang/"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 07:00:13",
       "https://news.ycombinator.com/item?id=36352549"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2023-06-16, 06:27:20",
-      "https://news.ycombinator.com/item?id=36352281"
+      "2023-06-16, 07:00:02",
+      "https://news.ycombinator.com/item?id=36352547"
     ],
     [
-      "Revenge Served Ice Cold?",
-      "https://www.latimes.com/california/story/2023-06-07/revenge-delivered-ice-cold-top-l-a-law-firm-outs-former-partners-racist-sexist-emails"
+      "OpenSSL 1.1.1 End of Life Approaching",
+      "https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Generating Income from Open Source",
       "https://vadimdemedes.com/posts/generating-income-from-open-source"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 00:22:59",
-      "https://news.ycombinator.com/item?id=36349110"
-    ],
-    [
-      "The Distributed Tensor Algebra Compiler (2022)",
-      "https://arxiv.org/abs/2203.08069"
     ]
   ],
   [
