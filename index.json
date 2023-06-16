@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 18:02:31",
+      "https://news.ycombinator.com/item?id=36360980"
+    ],
+    [
+      "John Carmack on shorter work weeks (2016)",
+      "https://news.ycombinator.com/item?id=10845832"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 17:12:00",
       "https://news.ycombinator.com/item?id=36360189"
     ],
@@ -65,8 +75,8 @@
       "https://news.ycombinator.com/item?id=36359652"
     ],
     [
-      "100 Days of Swift – Hacking with Swift",
-      "https://www.hackingwithswift.com/100"
+      "100 Days of SwiftUI",
+      "https://www.hackingwithswift.com/100/swiftui"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Surges of cosmic radiation from space directly linked to earthquakes",
       "https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 15:35:50",
-      "https://news.ycombinator.com/item?id=36358408"
-    ],
-    [
-      "Reddit App – Suspicious high number of recent 5 star, one word reviews",
-      "https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-06-16, 09:35:37",
-      "https://news.ycombinator.com/item?id=36353845"
-    ],
-    [
-      "Put an io_uring on it – Exploiting the Linux Kernel",
-      "https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel"
-    ]
-  ],
-  [
-    [
       "2023-06-16, 07:00:02",
       "https://news.ycombinator.com/item?id=36352547"
     ],
     [
       "OpenSSL 1.1.1 End of Life Approaching",
       "https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 03:16:32",
+      "https://news.ycombinator.com/item?id=36350693"
+    ],
+    [
+      "Learnings from kCTF VRP's 42 Linux kernel exploits submissions",
+      "https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html"
     ]
   ],
   [
