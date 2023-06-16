@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 12:30:10](https://news.ycombinator.com/item?id=36355483) - [Reddit has a terrible plan to end blackout: ask you to vote out protesting mods](https://www.techradar.com/news/reddit-has-a-terrible-plan-to-end-blackout-ask-you-to-vote-out-protesting-mods)
+* [2023-06-16, 12:06:30](https://news.ycombinator.com/item?id=36355172) - [What I Learned from Two Years of Teaching High School CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
 * [2023-06-16, 12:00:34](https://news.ycombinator.com/item?id=36355103) - [Provision (YC S22) Is Hiring a Founding Engineer (Front End)](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
 * [2023-06-16, 11:50:50](https://news.ycombinator.com/item?id=36354981) - [Building a New Database Management System in Academia](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
 * [2023-06-16, 11:36:40](https://news.ycombinator.com/item?id=36354850) - [Reddit appears to be restoring edited/deleted comments](https://kbin.social/m/RedditMigration/t/34112/Heads-up-Reddit-is-quietly-restoring-deleted-AND-overwritten-posts-and)
