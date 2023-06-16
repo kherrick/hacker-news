@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 22:42:26](https://news.ycombinator.com/item?id=36364967) - [De-Dollarization Facts](https://www.de-dollarization.org)
 * [2023-06-16, 22:40:39](https://news.ycombinator.com/item?id=36364941) - [FBI Groomed a 16-Year-Old with “Brain Development Issues” to Become a Terrorist](https://theintercept.com/2023/06/15/fbi-undercover-isis-teenager-terrorist/)
 * [2023-06-16, 21:28:05](https://news.ycombinator.com/item?id=36364151) - [Sacrifice the first 13 years of your life to Google for 2M](https://gigatexal.blog/pages/what-i-wish-i-did-financially-in-my-20s/what-i-wish-i-did-financially-in-my-20s.html)
 * [2023-06-16, 21:02:35](https://news.ycombinator.com/item?id=36363818) - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://twitter.com/lmsysorg/status/1669779889275408385)
