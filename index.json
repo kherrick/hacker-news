@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 03:16:32",
+      "https://news.ycombinator.com/item?id=36350693"
+    ],
+    [
+      "io_uring disabled across Google platforms",
+      "https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 02:47:11",
       "https://news.ycombinator.com/item?id=36350439"
     ],
@@ -37,16 +47,6 @@
     [
       "CUDA Accelerated Raytracer",
       "https://github.com/maxilevi/raytracer"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 01:43:17",
-      "https://news.ycombinator.com/item?id=36349855"
-    ],
-    [
-      "UN chief says fossil fuels 'incompatible with human survival,'",
-      "https://apnews.com/article/climate-talks-un-uae-guterres-fossil-fuel-9cadf724c9545c7032522b10eaf33d22"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-06-15, 20:47:16",
-      "https://news.ycombinator.com/item?id=36346308"
-    ],
-    [
-      "uTox – Lightweight Tox Client",
-      "https://github.com/uTox/uTox"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 20:42:34",
       "https://news.ycombinator.com/item?id=36346254"
     ],
@@ -177,16 +167,6 @@
     [
       "Rock engravings made by Homo Naledi ~300k years ago",
       "https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 18:03:27",
-      "https://news.ycombinator.com/item?id=36344313"
-    ],
-    [
-      "Gently Down the Stream – A gentle introduction to Apache Kafka (2021)",
-      "https://www.gentlydownthe.stream/"
     ]
   ],
   [
@@ -257,6 +237,26 @@
     [
       "Our Plan for Python 3.13",
       "https://github.com/faster-cpython/ideas/blob/main/3.13/README.md"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 00:06:07",
+      "https://news.ycombinator.com/item?id=36334675"
+    ],
+    [
+      "Remembering Robert Gottlieb, Editor Extraordinaire",
+      "https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire"
+    ]
+  ],
+  [
+    [
+      "2023-06-14, 22:04:01",
+      "https://news.ycombinator.com/item?id=36333409"
+    ],
+    [
+      "Unison Language and Platform Roadmap",
+      "https://www.unison-lang.org/roadmap/"
     ]
   ],
   [
