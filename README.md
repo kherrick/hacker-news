@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 04:03:24](https://news.ycombinator.com/item?id=36351065) - [Subreddit Migration Directory](https://redditmigration.com)
 * [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)
 * [2023-06-16, 03:49:30](https://news.ycombinator.com/item?id=36350938) - [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
 * [2023-06-16, 03:31:58](https://news.ycombinator.com/item?id=36350789) - [Trsvid, a video player for TRS-80 Model 1, 3 and 4](http://48k.ca/trsvid.html)
-* [2023-06-16, 03:16:32](https://news.ycombinator.com/item?id=36350693) - [io_uring disabled across Google platforms](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
+* [2023-06-16, 03:16:32](https://news.ycombinator.com/item?id=36350693) - [Learnings from kCTF VRP's 42 Linux kernel exploits submissions](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
 * [2023-06-16, 03:12:29](https://news.ycombinator.com/item?id=36350668) - [Guidance for Scaling – Reversible vs. Irreversible Decisions](https://www.craigkerstiens.com/2021/12/29/guidance-for-scaling-reversible-vs.-irreversible-decisions/)
 * [2023-06-16, 02:28:41](https://news.ycombinator.com/item?id=36350280) - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
 * [2023-06-16, 01:47:13](https://news.ycombinator.com/item?id=36349893) - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
@@ -13,7 +14,6 @@
 * [2023-06-15, 23:32:25](https://news.ycombinator.com/item?id=36348483) - [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
 * [2023-06-15, 23:24:03](https://news.ycombinator.com/item?id=36348356) - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
 * [2023-06-15, 23:02:08](https://news.ycombinator.com/item?id=36348007) - [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
-* [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
 * [2023-06-15, 21:59:51](https://news.ycombinator.com/item?id=36347222) - [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:13:18](https://news.ycombinator.com/item?id=36345851) - [Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
@@ -27,7 +27,7 @@
 * [2023-06-15, 08:40:41](https://news.ycombinator.com/item?id=36337851) - [Petition of the Candlemakers](https://sites.middlebury.edu/econ0450f10/files/2010/08/bastiat.pdf)
 * [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, Editor Extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 * [2023-06-14, 22:04:01](https://news.ycombinator.com/item?id=36333409) - [Unison Language and Platform Roadmap](https://www.unison-lang.org/roadmap/)
-* [2023-06-14, 13:41:09](https://news.ycombinator.com/item?id=36325774) - [The 4-Bit Eight Bit Processor – AMI S2000 and Iskra EMZ1001](https://www.cpushack.com/2023/06/13/the-4-bit-eight-bit-processor-ami-s2000-and-iskra-emz1001/)
+* [2023-06-14, 19:22:36](https://news.ycombinator.com/item?id=36331178) - [When Talent Is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
 
