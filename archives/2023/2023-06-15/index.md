@@ -39,6 +39,7 @@
 * [2023-06-15, 17:22:20](https://news.ycombinator.com/item?id=36343779) - [US Government agencies hit in global cyberattack](https://www.cnn.com/2023/06/15/politics/us-government-hit-cybeattack/index.html)
 * [2023-06-15, 17:06:02](https://news.ycombinator.com/item?id=36343544) - [UnsuckJS: Progressively enhance HTML with lightweight JavaScript libraries](https://unsuckjs.com/)
 * [2023-06-15, 17:00:51](https://news.ycombinator.com/item?id=36343474) - [Freshpaint (YC S19) Is Hiring Software Engineers to Solve HIPAA Compliance](https://www.freshpaint.io/about?ashby_jid=bfe56523-bff4-4ca3-936b-0ba15fb4e572)
+* [2023-06-15, 16:49:47](https://news.ycombinator.com/item?id=36343270) - [Hey Dad, can you help me return the Picasso I stole?](https://www.nytimes.com/2023/06/15/arts/design/stolen-picasso-boston.html)
 * [2023-06-15, 16:34:35](https://news.ycombinator.com/item?id=36343036) - [Wasmer Edge: WebAssembly on the Edge](https://wasmer.io/posts/announcing-wasmer-edge)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 16:20:03](https://news.ycombinator.com/item?id=36342808) - [Let's Encrypt Acme API Outage](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/648b36899c7c1405303ea8c4)
