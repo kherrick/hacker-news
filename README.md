@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 20:26:57](https://news.ycombinator.com/item?id=36363332) - [Reddit CEO slams moderators amid blackout, compares them to aristocracy](https://www.washingtonpost.com/technology/2023/06/16/reddit-ceo-blackout-moderators-steve-huffman/)
+* [2023-06-16, 20:26:33](https://news.ycombinator.com/item?id=36363327) - [GMP servers are under DoS attack from Microsoft[-owned IP addresses]](https://gmplib.org/list-archives/gmp-devel/2023-June/006161.html)
 * [2023-06-16, 20:15:15](https://news.ycombinator.com/item?id=36363192) - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in colossal cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 * [2023-06-16, 20:00:25](https://news.ycombinator.com/item?id=36362987) - [GPT-4 Can Use Tools Now–That’s a Big Deal](https://every.to/chain-of-thought/gpt-4-can-use-tools-now-that-s-a-big-deal)
@@ -7,7 +9,6 @@
 * [2023-06-16, 19:12:14](https://news.ycombinator.com/item?id=36362225) - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 * [2023-06-16, 19:01:47](https://news.ycombinator.com/item?id=36362042) - [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 * [2023-06-16, 18:54:44](https://news.ycombinator.com/item?id=36361906) - [Deep Learning’s Diminishing Returns (2021)](https://spectrum.ieee.org/deep-learning-computational-cost)
-* [2023-06-16, 17:26:18](https://news.ycombinator.com/item?id=36360452) - [Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
 * [2023-06-16, 17:01:36](https://news.ycombinator.com/item?id=36360018) - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
 * [2023-06-16, 16:56:21](https://news.ycombinator.com/item?id=36359925) - [Hexyl: A command-line hex viewer with colorized output](https://github.com/sharkdp/hexyl)
 * [2023-06-16, 16:49:56](https://news.ycombinator.com/item?id=36359798) - [Requiem for a bank loan](https://www.bitsaboutmoney.com/archive/requiem-for-a-bank-loan/)
@@ -29,7 +30,6 @@
 * [2023-06-15, 12:13:25](https://news.ycombinator.com/item?id=36339350) - [Psychedelic scientist sends brains back to childhood](https://www.wired.com/story/the-psychedelic-scientist-who-sends-brains-back-to-childhood/)
 * [2023-06-15, 11:30:36](https://news.ycombinator.com/item?id=36338962) - [Everything must be paid for twice (2022)](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
 * [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
-* [2023-06-15, 10:19:43](https://news.ycombinator.com/item?id=36338474) - [Dreamfall: An experiment in hypnagogic dreaming](https://nautil.us/does-dream-inception-work-311117/)
 
 ## [Archives](archives/index.md)
 

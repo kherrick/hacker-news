@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 20:26:57](https://news.ycombinator.com/item?id=36363332) - [Reddit CEO slams moderators amid blackout, compares them to aristocracy](https://www.washingtonpost.com/technology/2023/06/16/reddit-ceo-blackout-moderators-steve-huffman/)
+* [2023-06-16, 20:26:33](https://news.ycombinator.com/item?id=36363327) - [GMP servers are under DoS attack from Microsoft[-owned IP addresses]](https://gmplib.org/list-archives/gmp-devel/2023-June/006161.html)
 * [2023-06-16, 20:15:15](https://news.ycombinator.com/item?id=36363192) - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in colossal cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 * [2023-06-16, 20:00:25](https://news.ycombinator.com/item?id=36362987) - [GPT-4 Can Use Tools Now–That’s a Big Deal](https://every.to/chain-of-thought/gpt-4-can-use-tools-now-that-s-a-big-deal)
