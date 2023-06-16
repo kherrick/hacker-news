@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-16, 15:08:36",
+      "https://news.ycombinator.com/item?id=36357882"
+    ],
+    [
+      "Why Does Google Kill So Many Products?",
+      "https://matt-rickard.com/why-does-google-kill-so-many-products"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 14:49:10",
       "https://news.ycombinator.com/item?id=36357466"
     ],
     [
       "Free unlimited storage, store your files in pi – pi File System",
       "https://github.com/philipl/pifs"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 14:32:56",
+      "https://news.ycombinator.com/item?id=36357164"
+    ],
+    [
+      "Reddit is undeleting years worth of comments and posts",
+      "https://tane.codes/@tanepiper/110553809293213303"
     ]
   ],
   [
@@ -37,16 +57,6 @@
     [
       "AI is going to eat itself: Experiment shows people training bots are using bots",
       "https://www.theregister.com/2023/06/16/crowd_workers_bots_ai_training/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 12:45:08",
-      "https://news.ycombinator.com/item?id=36355660"
-    ],
-    [
-      "Reddit may be bringing back deleted comments",
-      "https://kbin.social/m/reddit@lemmy.ml/t/34207/Reddit-may-be-bringing-back-deleted-comments"
     ]
   ],
   [
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-06-16, 10:00:42",
-      "https://news.ycombinator.com/item?id=36354049"
-    ],
-    [
-      "DevOps Is Bullshit (2022)",
-      "https://blog.massdriver.cloud/posts/devops-is-bullshit/"
-    ]
-  ],
-  [
-    [
       "2023-06-16, 09:35:37",
       "https://news.ycombinator.com/item?id=36353845"
     ],
@@ -147,6 +147,16 @@
     [
       "OpenSSL 1.1.1 End of Life Approaching",
       "https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 04:47:26",
+      "https://news.ycombinator.com/item?id=36351415"
+    ],
+    [
+      "Memory Safety Without Borrow Checking, Reference Counting, or Garbage Collection",
+      "https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2023-06-15, 16:27:43",
-      "https://news.ycombinator.com/item?id=36342931"
-    ],
-    [
-      "Sequence diagrams, the only good thing UML brought to software development",
-      "https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 13:06:09",
       "https://news.ycombinator.com/item?id=36339891"
     ],
     [
       "A LiveView Is a Process",
       "https://fly.io/phoenix-files/a-liveview-is-a-process/"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 11:30:36",
+      "https://news.ycombinator.com/item?id=36338962"
+    ],
+    [
+      "Everything Must Be Paid for Twice (2022)",
+      "https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Does dream inception work?",
       "https://nautil.us/does-dream-inception-work-311117/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 04:49:40",
-      "https://news.ycombinator.com/item?id=36336519"
-    ],
-    [
-      "Playing Atari Games in OCaml",
-      "https://www.janestreet.com/tech-talks/playing-atari-games-in-ocaml/"
     ]
   ],
   [
