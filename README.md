@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 07:15:58](https://news.ycombinator.com/item?id=36352686) - [Keys for unattended decryption of LUKS volumes are exposed during race condition](https://census-labs.com/news/2023/06/15/race-tang/)
 * [2023-06-16, 07:00:13](https://news.ycombinator.com/item?id=36352549) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
-* [2023-06-16, 06:27:20](https://news.ycombinator.com/item?id=36352281) - [Revenge Served Ice Cold?](https://www.latimes.com/california/story/2023-06-07/revenge-delivered-ice-cold-top-l-a-law-firm-outs-former-partners-racist-sexist-emails)
+* [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
 * [2023-06-16, 06:21:28](https://news.ycombinator.com/item?id=36352224) - [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
 * [2023-06-16, 06:10:21](https://news.ycombinator.com/item?id=36352137) - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 * [2023-06-16, 06:06:10](https://news.ycombinator.com/item?id=36352103) - [The next generation of serverless](https://www.fermyon.com/blog/next-generation-of-serverless-is-happening)
@@ -13,7 +14,6 @@
 * [2023-06-16, 02:28:41](https://news.ycombinator.com/item?id=36350280) - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
 * [2023-06-16, 01:47:13](https://news.ycombinator.com/item?id=36349893) - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
 * [2023-06-16, 00:34:03](https://news.ycombinator.com/item?id=36349208) - [Generating Income from Open Source](https://vadimdemedes.com/posts/generating-income-from-open-source)
-* [2023-06-16, 00:22:59](https://news.ycombinator.com/item?id=36349110) - [The Distributed Tensor Algebra Compiler (2022)](https://arxiv.org/abs/2203.08069)
 * [2023-06-15, 23:32:25](https://news.ycombinator.com/item?id=36348483) - [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
 * [2023-06-15, 23:24:03](https://news.ycombinator.com/item?id=36348356) - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
 * [2023-06-15, 23:02:08](https://news.ycombinator.com/item?id=36348007) - [Software effort estimation is mostly fake research (2021)](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
