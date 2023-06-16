@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 08:14:23](https://news.ycombinator.com/item?id=36353147) - [MD5 (Algorithm) in SQL](https://modern-sql.com/caniuse/MD5-algorithm)
 * [2023-06-16, 07:00:13](https://news.ycombinator.com/item?id=36352549) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
 * [2023-06-16, 06:21:28](https://news.ycombinator.com/item?id=36352224) - [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
@@ -20,7 +21,6 @@
 * [2023-06-15, 20:59:35](https://news.ycombinator.com/item?id=36346454) - [Alphabet selling Google Domains assets to Squarespace](https://www.bloomberg.com/news/articles/2023-06-15/alphabet-selling-google-domains-assets-to-squarespace)
 * [2023-06-15, 20:42:34](https://news.ycombinator.com/item?id=36346254) - [My 24 year old HP Jornada can do things an iPhone still can't do](https://raymii.org/s/blog/My_24_year_old_HP_Jornada_can_do_things_your_modern_iPhone_still_cant_do.html)
 * [2023-06-15, 20:13:18](https://news.ycombinator.com/item?id=36345851) - [Tilt Five – Bring holograms home – Play your favorite games in 3D](https://www.tiltfive.com/)
-* [2023-06-15, 18:09:44](https://news.ycombinator.com/item?id=36344397) - [Rock engravings made by Homo Naledi ~300k years ago](https://www.biorxiv.org/content/10.1101/2023.06.01.543133v1)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
 * [2023-06-15, 11:48:22](https://news.ycombinator.com/item?id=36339102) - [Smash hits: How viral memes conquered piñata design](https://restofworld.org/2023/pinata-memes-mexico/)
 * [2023-06-15, 11:30:36](https://news.ycombinator.com/item?id=36338962) - [Everything Must Be Paid for Twice](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
