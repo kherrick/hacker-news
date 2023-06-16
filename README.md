@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 21:02:35](https://news.ycombinator.com/item?id=36363818) - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://twitter.com/lmsysorg/status/1669779889275408385)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 * [2023-06-16, 19:33:17](https://news.ycombinator.com/item?id=36362547) - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
 * [2023-06-16, 19:12:14](https://news.ycombinator.com/item?id=36362225) - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
@@ -20,7 +21,6 @@
 * [2023-06-16, 13:31:13](https://news.ycombinator.com/item?id=36356288) - [Finland's plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
 * [2023-06-16, 12:06:30](https://news.ycombinator.com/item?id=36355172) - [Two years of teaching high school CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
 * [2023-06-16, 12:00:34](https://news.ycombinator.com/item?id=36355103) - [Provision (YC S22) Is Hiring a Founding Engineer (Front End)](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
-* [2023-06-16, 11:50:50](https://news.ycombinator.com/item?id=36354981) - [Building a new database management system in academia (2017)](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
 * [2023-06-16, 10:30:41](https://news.ycombinator.com/item?id=36354280) - [Annoying A/B testing mistakes](https://posthog.com/blog/ab-testing-mistakes)
 * [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, escape, and meta tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-15, 20:15:05](https://news.ycombinator.com/item?id=36345870) - [Jose Delgado and the forgotten era of brain chips (2005) [pdf]](https://www.wireheading.com/delgado/brainchips.pdf)

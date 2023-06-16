@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 21:02:35](https://news.ycombinator.com/item?id=36363818) - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://twitter.com/lmsysorg/status/1669779889275408385)
 * [2023-06-16, 20:26:57](https://news.ycombinator.com/item?id=36363332) - [Reddit CEO slams moderators amid blackout, compares them to aristocracy](https://www.washingtonpost.com/technology/2023/06/16/reddit-ceo-blackout-moderators-steve-huffman/)
 * [2023-06-16, 20:26:33](https://news.ycombinator.com/item?id=36363327) - [GMP servers are under DoS attack from Microsoft[-owned IP addresses]](https://gmplib.org/list-archives/gmp-devel/2023-June/006161.html)
 * [2023-06-16, 20:15:15](https://news.ycombinator.com/item?id=36363192) - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal)
