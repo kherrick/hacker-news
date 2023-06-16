@@ -2,9 +2,9 @@
 
 * [2023-06-16, 07:00:13](https://news.ycombinator.com/item?id=36352549) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
+* [2023-06-16, 06:34:54](https://news.ycombinator.com/item?id=36352347) - [Ask HN: Why would Google sell Google domains to Squarespace?](https://news.ycombinator.com/item?id=36352347)
 * [2023-06-16, 06:21:28](https://news.ycombinator.com/item?id=36352224) - [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
 * [2023-06-16, 06:10:21](https://news.ycombinator.com/item?id=36352137) - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
-* [2023-06-16, 06:06:10](https://news.ycombinator.com/item?id=36352103) - [The next generation of serverless](https://www.fermyon.com/blog/next-generation-of-serverless-is-happening)
 * [2023-06-16, 05:34:49](https://news.ycombinator.com/item?id=36351830) - [Louis Rossmann calls community to leave Reddit](https://www.youtube.com/watch?v=ZOm_UKGyrZg)
 * [2023-06-16, 04:47:26](https://news.ycombinator.com/item?id=36351415) - [Memory Safety Without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
 * [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)

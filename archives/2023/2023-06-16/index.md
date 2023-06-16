@@ -7,6 +7,7 @@
 * [2023-06-16, 07:15:58](https://news.ycombinator.com/item?id=36352686) - [Keys for unattended decryption of LUKS volumes are exposed during race condition](https://census-labs.com/news/2023/06/15/race-tang/)
 * [2023-06-16, 07:00:13](https://news.ycombinator.com/item?id=36352549) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
+* [2023-06-16, 06:34:54](https://news.ycombinator.com/item?id=36352347) - [Ask HN: Why would Google sell Google domains to Squarespace?](https://news.ycombinator.com/item?id=36352347)
 * [2023-06-16, 06:27:20](https://news.ycombinator.com/item?id=36352281) - [Revenge Served Ice Cold?](https://www.latimes.com/california/story/2023-06-07/revenge-delivered-ice-cold-top-l-a-law-firm-outs-former-partners-racist-sexist-emails)
 * [2023-06-16, 06:21:28](https://news.ycombinator.com/item?id=36352224) - [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
 * [2023-06-16, 06:10:21](https://news.ycombinator.com/item?id=36352137) - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
