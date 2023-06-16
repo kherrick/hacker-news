@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 03:49:30](https://news.ycombinator.com/item?id=36350938) - [Reddit is removing moderators that protest by taking their communities private](https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/)
 * [2023-06-16, 03:16:32](https://news.ycombinator.com/item?id=36350693) - [io_uring disabled across Google platforms](https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html)
+* [2023-06-16, 03:12:29](https://news.ycombinator.com/item?id=36350668) - [Guidance for Scaling – Reversible vs. Irreversible Decisions](https://www.craigkerstiens.com/2021/12/29/guidance-for-scaling-reversible-vs.-irreversible-decisions/)
 * [2023-06-16, 02:47:11](https://news.ycombinator.com/item?id=36350439) - [Show HN: Chronological List of All the James Webb Telescope Discoveries](https://www.jameswebbdiscovery.com)
 * [2023-06-16, 02:28:41](https://news.ycombinator.com/item?id=36350280) - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
 * [2023-06-16, 02:12:00](https://news.ycombinator.com/item?id=36350137) - [Falcon LLM: The Most Powerful Open Source LLM Released to Date](https://thesequence.substack.com/p/edge-300-meet-falcon-llm-the-most)
