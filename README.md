@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in colossal cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
+* [2023-06-16, 20:00:25](https://news.ycombinator.com/item?id=36362987) - [GPT-4 Can Use Tools Now–That’s a Big Deal](https://every.to/chain-of-thought/gpt-4-can-use-tools-now-that-s-a-big-deal)
 * [2023-06-16, 19:33:17](https://news.ycombinator.com/item?id=36362547) - [Miraheze to shut down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
-* [2023-06-16, 19:20:10](https://news.ycombinator.com/item?id=36362343) - [Canada's population reaches 40M](https://www.statcan.gc.ca/en/subjects-start/population_and_demography/40-million)
 * [2023-06-16, 19:12:14](https://news.ycombinator.com/item?id=36362225) - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 * [2023-06-16, 19:01:47](https://news.ycombinator.com/item?id=36362042) - [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 * [2023-06-16, 18:54:44](https://news.ycombinator.com/item?id=36361906) - [Deep Learning’s Diminishing Returns (2021)](https://spectrum.ieee.org/deep-learning-computational-cost)
@@ -29,7 +30,6 @@
 * [2023-06-15, 11:30:36](https://news.ycombinator.com/item?id=36338962) - [Everything must be paid for twice (2022)](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
 * [2023-06-15, 11:17:45](https://news.ycombinator.com/item?id=36338853) - [Prison chess clubs helping rehabilitate inmates](https://www.bbc.com/news/uk-england-hereford-worcester-65889955)
 * [2023-06-15, 10:19:43](https://news.ycombinator.com/item?id=36338474) - [Dreamfall: An experiment in hypnagogic dreaming](https://nautil.us/does-dream-inception-work-311117/)
-* [2023-06-15, 08:24:27](https://news.ycombinator.com/item?id=36337764) - [ASRock Brings 56-Core Xeon W3400 to Deep MicroATX](https://www.tomshardware.com/news/asrock-puts-56-core-xeon-into-deep-microatx)
 
 ## [Archives](archives/index.md)
 
