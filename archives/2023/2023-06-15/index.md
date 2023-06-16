@@ -42,6 +42,7 @@
 * [2023-06-15, 16:49:47](https://news.ycombinator.com/item?id=36343270) - [Hey Dad, can you help me return the Picasso I stole?](https://www.nytimes.com/2023/06/15/arts/design/stolen-picasso-boston.html)
 * [2023-06-15, 16:34:35](https://news.ycombinator.com/item?id=36343036) - [Wasmer Edge: WebAssembly on the Edge](https://wasmer.io/posts/announcing-wasmer-edge)
 * [2023-06-15, 16:27:43](https://news.ycombinator.com/item?id=36342931) - [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development)
+* [2023-06-15, 16:23:56](https://news.ycombinator.com/item?id=36342865) - [On the Value of Not Reaching Your Goals](https://every.to/p/on-the-value-of-not-reaching-your-goals)
 * [2023-06-15, 16:20:03](https://news.ycombinator.com/item?id=36342808) - [Let's Encrypt Acme API Outage](https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/648b36899c7c1405303ea8c4)
 * [2023-06-15, 16:18:36](https://news.ycombinator.com/item?id=36342785) - [Scientific Colour Maps](https://www.fabiocrameri.ch/colourmaps/)
 * [2023-06-15, 15:59:45](https://news.ycombinator.com/item?id=36342426) - [Radiation Biology Can Help Reduce Crippling Fear of Low-Level Radiation](https://journals.lww.com/health-physics/fulltext/2023/05000/how_the_science_of_radiation_biology_can_help.6.aspx)
