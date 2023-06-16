@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 13:49:13](https://news.ycombinator.com/item?id=36356547) - [AI is going to eat itself: Experiment shows people training bots are using bots](https://www.theregister.com/2023/06/16/crowd_workers_bots_ai_training/)
 * [2023-06-16, 13:43:23](https://news.ycombinator.com/item?id=36356476) - [Ask HN: Which substacks do you read as soon as it hits your inbox?](https://news.ycombinator.com/item?id=36356476)
 * [2023-06-16, 13:31:13](https://news.ycombinator.com/item?id=36356288) - [Finland's plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
 * [2023-06-16, 12:59:54](https://news.ycombinator.com/item?id=36355820) - [The Riddle of the Well-Paying, Pointless Job (2019)](https://moretothat.com/pointless-job/)
