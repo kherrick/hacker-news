@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-06-16, 17:12:00",
-      "https://news.ycombinator.com/item?id=36360189"
+      "2023-06-16, 17:26:18",
+      "https://news.ycombinator.com/item?id=36360452"
     ],
     [
-      "Dechlorinating the Moderator",
-      "http://www.antipope.org/charlie/fiction/moderator.html"
+      "Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI",
+      "https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Gyroflow: An open source advanced gyro-based video stabilization tool",
       "http://gyroflow.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 16:57:26",
-      "https://news.ycombinator.com/item?id=36359946"
-    ],
-    [
-      "Mercedes-Benz takes in-car voice control to a new level with ChatGPT",
-      "https://media.mbusa.com/releases/mercedes-benz-takes-in-car-voice-control-to-a-new-level-with-chatgpt"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "OpenSSL 1.1.1 End of Life Approaching",
       "https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 03:16:32",
+      "https://news.ycombinator.com/item?id=36350693"
+    ],
+    [
+      "Learnings from kCTF VRP's 42 Linux kernel exploits submissions",
+      "https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html"
     ]
   ],
   [
