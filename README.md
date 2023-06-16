@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 11:36:40](https://news.ycombinator.com/item?id=36354850) - [Reddit appears to be restoring edited/deleted comments](https://kbin.social/m/RedditMigration/t/34112/Heads-up-Reddit-is-quietly-restoring-deleted-AND-overwritten-posts-and)
 * [2023-06-16, 10:39:45](https://news.ycombinator.com/item?id=36354358) - [Stop Calling Each New Disaster “The New Normal”](https://thewalrus.ca/stop-calling-each-new-disaster-the-new-normal/)
 * [2023-06-16, 10:30:41](https://news.ycombinator.com/item?id=36354280) - [Annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
 * [2023-06-16, 10:00:42](https://news.ycombinator.com/item?id=36354049) - [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
@@ -26,7 +27,6 @@
 * [2023-06-15, 11:30:36](https://news.ycombinator.com/item?id=36338962) - [Everything Must Be Paid for Twice (2022)](https://www.raptitude.com/2022/01/everything-must-be-paid-for-twice/)
 * [2023-06-15, 08:40:41](https://news.ycombinator.com/item?id=36337851) - [Petition of the Candlemakers (1845)](https://sites.middlebury.edu/econ0450f10/files/2010/08/bastiat.pdf)
 * [2023-06-15, 04:49:40](https://news.ycombinator.com/item?id=36336519) - [Playing Atari Games in OCaml](https://www.janestreet.com/tech-talks/playing-atari-games-in-ocaml/)
-* [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 * [2023-06-14, 09:27:36](https://news.ycombinator.com/item?id=36323457) - [Rash – The Reckless Racket Shell](https://rash-lang.org)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
 * [2023-06-14, 05:52:52](https://news.ycombinator.com/item?id=36321938) - [In Praise of Slowness (2017)](https://lareviewofbooks.org/article/in-praise-of-slowness/)
