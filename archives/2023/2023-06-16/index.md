@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 14:49:10](https://news.ycombinator.com/item?id=36357466) - [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
 * [2023-06-16, 14:19:14](https://news.ycombinator.com/item?id=36356957) - [Reddit CEO Says Mods Too Powerful, Plans to Weaken After Blackout](https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6)
 * [2023-06-16, 14:13:03](https://news.ycombinator.com/item?id=36356876) - [Full Time](https://www.marginalia.nu/log/83_full_time/)
 * [2023-06-16, 13:49:13](https://news.ycombinator.com/item?id=36356547) - [AI is going to eat itself: Experiment shows people training bots are using bots](https://www.theregister.com/2023/06/16/crowd_workers_bots_ai_training/)
@@ -11,6 +12,7 @@
 * [2023-06-16, 13:31:13](https://news.ycombinator.com/item?id=36356288) - [Finland's plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
 * [2023-06-16, 12:59:54](https://news.ycombinator.com/item?id=36355820) - [The Riddle of the Well-Paying, Pointless Job (2019)](https://moretothat.com/pointless-job/)
 * [2023-06-16, 12:50:50](https://news.ycombinator.com/item?id=36355724) - [Reddit Threatens to Remove Moderators from Subreddits Continuing the Blackouts](https://old.reddit.com/r/ModSupport/comments/14a5lz5/mod_code_of_conduct_rule_4_2_and_subs_taken/)
+* [2023-06-16, 12:45:08](https://news.ycombinator.com/item?id=36355660) - [Reddit may be bringing back deleted comments](https://kbin.social/m/reddit@lemmy.ml/t/34207/Reddit-may-be-bringing-back-deleted-comments)
 * [2023-06-16, 12:37:02](https://news.ycombinator.com/item?id=36355551) - [Illinois Hospital First to Shut Down After Ransomware Attack](https://www.techdirt.com/2023/06/16/illinois-hospital-first-to-shut-down-completely-after-ransomware-attack/)
 * [2023-06-16, 12:32:40](https://news.ycombinator.com/item?id=36355506) - [Stop Telling Kids They’ll Die from Climate Change (2021)](https://www.wired.co.uk/article/climate-crisis-doom)
 * [2023-06-16, 12:30:10](https://news.ycombinator.com/item?id=36355483) - [Reddit has a terrible plan to end blackout: ask you to vote out protesting mods](https://www.techradar.com/news/reddit-has-a-terrible-plan-to-end-blackout-ask-you-to-vote-out-protesting-mods)
@@ -27,6 +29,7 @@
 * [2023-06-16, 09:35:37](https://news.ycombinator.com/item?id=36353845) - [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 08:38:14](https://news.ycombinator.com/item?id=36353351) - [The workers already replaced by artificial intelligence](https://www.bbc.com/news/business-65906521)
 * [2023-06-16, 08:14:23](https://news.ycombinator.com/item?id=36353147) - [MD5 (Algorithm) in SQL](https://modern-sql.com/caniuse/MD5-algorithm)
+* [2023-06-16, 07:47:56](https://news.ycombinator.com/item?id=36352945) - [The SSL Certificate Issuer Field Is a Lie](https://www.agwa.name/blog/post/the_certificate_issuer_field_is_a_lie)
 * [2023-06-16, 07:15:58](https://news.ycombinator.com/item?id=36352686) - [Keys for unattended decryption of LUKS volumes are exposed during race condition](https://census-labs.com/news/2023/06/15/race-tang/)
 * [2023-06-16, 07:00:13](https://news.ycombinator.com/item?id=36352549) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)

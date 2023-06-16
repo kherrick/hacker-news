@@ -79,6 +79,7 @@
 * [2023-06-15, 11:08:39](https://news.ycombinator.com/item?id=36338784) - [The Guardian bans all gambling advertising](https://www.theguardian.com/society/2023/jun/15/guardian-bans-all-gambling-advertising)
 * [2023-06-15, 10:29:16](https://news.ycombinator.com/item?id=36338529) - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 * [2023-06-15, 10:21:37](https://news.ycombinator.com/item?id=36338484) - [Bioacoustics: Finding the Voices of Other Species](https://worldsensorium.com/bioacoustics-finding-the-voices-of-other-species/)
+* [2023-06-15, 10:19:43](https://news.ycombinator.com/item?id=36338474) - [Does dream inception work?](https://nautil.us/does-dream-inception-work-311117/)
 * [2023-06-15, 10:08:46](https://news.ycombinator.com/item?id=36338395) - [Is the US trying to kill crypto?](https://www.bbc.com/news/business-65861096)
 * [2023-06-15, 10:04:43](https://news.ycombinator.com/item?id=36338365) - [FANN: Vector Search in 200 Lines of Rust](https://fennel.ai/blog/vector-search-in-200-lines-of-rust/)
 * [2023-06-15, 09:34:16](https://news.ycombinator.com/item?id=36338187) - [Ask HN: GPT4 Broke Me](https://news.ycombinator.com/item?id=36338187)
