@@ -7,6 +7,8 @@
 * [2023-06-16, 19:33:17](https://news.ycombinator.com/item?id=36362547) - [Miraheze to Shut Down](https://meta.miraheze.org/wiki/Board/Policies/20230615-Statement)
 * [2023-06-16, 19:20:10](https://news.ycombinator.com/item?id=36362343) - [Canada's Population Reaches 40M](https://www.statcan.gc.ca/en/subjects-start/population_and_demography/40-million)
 * [2023-06-16, 19:12:14](https://news.ycombinator.com/item?id=36362225) - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
+* [2023-06-16, 19:01:47](https://news.ycombinator.com/item?id=36362042) - [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
+* [2023-06-16, 18:54:44](https://news.ycombinator.com/item?id=36361906) - [Deep Learning’s Diminishing Returns (2021)](https://spectrum.ieee.org/deep-learning-computational-cost)
 * [2023-06-16, 18:33:14](https://news.ycombinator.com/item?id=36361527) - [Show HN: Discuit – A Reddit alternative with a clean UI and a sensible vision](https://discuit.net/)
 * [2023-06-16, 18:32:06](https://news.ycombinator.com/item?id=36361510) - [European Union votes to bring back replaceable phone batteries](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)
 * [2023-06-16, 18:20:17](https://news.ycombinator.com/item?id=36361283) - [Techmeme now links to Hacker News threads and other “Forums” under its headlines](https://techmeme.com/)
