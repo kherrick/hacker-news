@@ -7,6 +7,7 @@
 * [2023-06-16, 15:35:50](https://news.ycombinator.com/item?id=36358408) - [Reddit App – Suspicious high number of recent 5 star, one word reviews](https://old.reddit.com/r/Save3rdPartyApps/comments/14at885/the_reddit_app_has_a_suspiciously_high_number_of/)
 * [2023-06-16, 15:08:36](https://news.ycombinator.com/item?id=36357882) - [Why Does Google Kill So Many Products?](https://matt-rickard.com/why-does-google-kill-so-many-products)
 * [2023-06-16, 14:49:10](https://news.ycombinator.com/item?id=36357466) - [Free unlimited storage, store your files in pi – pi File System](https://github.com/philipl/pifs)
+* [2023-06-16, 14:46:40](https://news.ycombinator.com/item?id=36357415) - [NHTSA tells automakers not to comply with Massachusetts right-to-repair law](https://www.autoblog.com/2023/06/14/u-s-tells-automakers-not-to-comply-with-massachusetts-independent-repairs-law/)
 * [2023-06-16, 14:32:56](https://news.ycombinator.com/item?id=36357164) - [Reddit is undeleting years worth of comments and posts](https://tane.codes/@tanepiper/110553809293213303)
 * [2023-06-16, 14:19:14](https://news.ycombinator.com/item?id=36356957) - [Reddit CEO Says Mods Too Powerful, Plans to Weaken After Blackout](https://www.businessinsider.com/reddit-ceo-will-change-rules-to-make-mods-less-powerful-2023-6)
 * [2023-06-16, 14:13:03](https://news.ycombinator.com/item?id=36356876) - [Full Time](https://www.marginalia.nu/log/83_full_time/)
