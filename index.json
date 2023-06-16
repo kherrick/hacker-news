@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-16, 06:06:10",
+      "https://news.ycombinator.com/item?id=36352103"
+    ],
+    [
+      "The Next Generation of Serverless Is Happening",
+      "https://www.fermyon.com/blog/next-generation-of-serverless-is-happening"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 04:20:26",
       "https://news.ycombinator.com/item?id=36351185"
     ],
@@ -27,16 +37,6 @@
     [
       "Detailed miniature models of historic computer",
       "https://www.miniatua.com/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 03:49:30",
-      "https://news.ycombinator.com/item?id=36350938"
-    ],
-    [
-      "Reddit is removing moderators that protest by taking their communities private",
-      "https://old.reddit.com/r/ModCoord/comments/14aeq5j/new_admin_post_if_a_moderator_team_unanimously/"
     ]
   ],
   [
@@ -151,22 +151,22 @@
   ],
   [
     [
-      "2023-06-15, 22:04:30",
-      "https://news.ycombinator.com/item?id=36347272"
-    ],
-    [
-      "The Online Books Page",
-      "https://onlinebooks.library.upenn.edu/"
-    ]
-  ],
-  [
-    [
       "2023-06-15, 21:59:51",
       "https://news.ycombinator.com/item?id=36347222"
     ],
     [
       "How the brain processes German and Arabic",
       "https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 20:47:16",
+      "https://news.ycombinator.com/item?id=36346308"
+    ],
+    [
+      "uTox – Lightweight Tox Client",
+      "https://github.com/uTox/uTox"
     ]
   ],
   [
@@ -187,16 +187,6 @@
     [
       "Tilt Five – Bring holograms home – Play your favorite games in 3D",
       "https://www.tiltfive.com/"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 19:56:05",
-      "https://news.ycombinator.com/item?id=36345645"
-    ],
-    [
-      "WebStudio: Open visual development for the open web",
-      "https://webstudio.is/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Petition of the Candlemakers",
       "https://sites.middlebury.edu/econ0450f10/files/2010/08/bastiat.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 04:49:40",
+      "https://news.ycombinator.com/item?id=36336519"
+    ],
+    [
+      "Playing Atari Games in OCaml",
+      "https://www.janestreet.com/tech-talks/playing-atari-games-in-ocaml/"
     ]
   ],
   [
