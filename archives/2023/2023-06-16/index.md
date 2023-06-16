@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 02:47:11](https://news.ycombinator.com/item?id=36350439) - [Show HN: Chronological List of All the James Webb Telescope Discoveries](https://www.jameswebbdiscovery.com)
+* [2023-06-16, 02:28:41](https://news.ycombinator.com/item?id=36350280) - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
+* [2023-06-16, 02:12:00](https://news.ycombinator.com/item?id=36350137) - [Falcon LLM: The Most Powerful Open Source LLM Released to Date](https://thesequence.substack.com/p/edge-300-meet-falcon-llm-the-most)
 * [2023-06-16, 01:47:13](https://news.ycombinator.com/item?id=36349893) - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
 * [2023-06-16, 01:43:17](https://news.ycombinator.com/item?id=36349855) - [UN chief says fossil fuels 'incompatible with human survival,'](https://apnews.com/article/climate-talks-un-uae-guterres-fossil-fuel-9cadf724c9545c7032522b10eaf33d22)
 * [2023-06-16, 01:12:59](https://news.ycombinator.com/item?id=36349559) - [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)

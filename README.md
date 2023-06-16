@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-16, 02:47:11](https://news.ycombinator.com/item?id=36350439) - [Show HN: Chronological List of All the James Webb Telescope Discoveries](https://www.jameswebbdiscovery.com)
+* [2023-06-16, 02:28:41](https://news.ycombinator.com/item?id=36350280) - [Metformin shown to prevent long Covid](https://www.cidrap.umn.edu/covid-19/common-diabetes-drug-shown-prevent-long-covid)
+* [2023-06-16, 02:12:00](https://news.ycombinator.com/item?id=36350137) - [Falcon LLM: The Most Powerful Open Source LLM Released to Date](https://thesequence.substack.com/p/edge-300-meet-falcon-llm-the-most)
 * [2023-06-16, 01:47:13](https://news.ycombinator.com/item?id=36349893) - [CUDA Accelerated Raytracer](https://github.com/maxilevi/raytracer)
 * [2023-06-16, 01:43:17](https://news.ycombinator.com/item?id=36349855) - [UN chief says fossil fuels 'incompatible with human survival,'](https://apnews.com/article/climate-talks-un-uae-guterres-fossil-fuel-9cadf724c9545c7032522b10eaf33d22)
 * [2023-06-16, 01:12:59](https://news.ycombinator.com/item?id=36349559) - [FAA Requires Secondary Flight Deck Barrier](https://www.faa.gov/newsroom/faa-requires-secondary-flight-deck-barrier)
@@ -23,12 +26,9 @@
 * [2023-06-15, 14:48:33](https://news.ycombinator.com/item?id=36341287) - [Unihiker, an $80 single-board PC with 2.8“ touchscreen, quad-core ARM Cortex-A35](https://www.unihiker.com/)
 * [2023-06-15, 14:04:18](https://news.ycombinator.com/item?id=36340671) - [Archaeologists find 3000-year-old sword, exceptionally well preserved](https://newsingermany.com/archaeologists-find-3000-year-old-sword/)
 * [2023-06-15, 12:55:55](https://news.ycombinator.com/item?id=36339777) - [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
-* [2023-06-15, 04:06:39](https://news.ycombinator.com/item?id=36336272) - [Ancient Egyptian followers of a deity called Bes may have used hallucinogens](https://arstechnica.com/science/2023/06/ancient-egyptian-followers-of-a-deity-called-bes-may-have-used-hallucinogens/)
-* [2023-06-15, 04:05:34](https://news.ycombinator.com/item?id=36336260) - [Ethiopian quest to re-create ancient manuscripts](https://www.aljazeera.com/gallery/2023/6/1/ethiopian-quest-to-re-create-ancient-manuscripts)
 * [2023-06-14, 19:22:36](https://news.ycombinator.com/item?id=36331178) - [When Talent Is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
 * [2023-06-14, 13:41:09](https://news.ycombinator.com/item?id=36325774) - [The 4-Bit Eight Bit Processor – AMI S2000 and Iskra EMZ1001](https://www.cpushack.com/2023/06/13/the-4-bit-eight-bit-processor-ami-s2000-and-iskra-emz1001/)
 * [2023-06-14, 10:37:06](https://news.ycombinator.com/item?id=36323888) - [Getting to know the right people (2022)](https://notebook.drmaciver.com/posts/2022-06-05-14:53.html)
-* [2023-06-14, 08:59:10](https://news.ycombinator.com/item?id=36323266) - [The Complete ZX Spectrum ROM disassembly (1983) [pdf]](http://www.primrosebank.net/computers/zxspectrum/docs/CompleteSpectrumROMDisassemblyThe.pdf)
 * [2023-06-14, 06:36:32](https://news.ycombinator.com/item?id=36322233) - [WinFsp · Windows File System Proxy](https://github.com/winfsp/winfsp)
 
 ## [Archives](archives/index.md)
