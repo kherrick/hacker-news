@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 12:00:34](https://news.ycombinator.com/item?id=36355103) - [Provision (YC S22) Is Hiring a Founding Engineer (Front End)](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
+* [2023-06-16, 11:50:50](https://news.ycombinator.com/item?id=36354981) - [Building a New Database Management System in Academia](http://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html)
 * [2023-06-16, 11:36:40](https://news.ycombinator.com/item?id=36354850) - [Reddit appears to be restoring edited/deleted comments](https://kbin.social/m/RedditMigration/t/34112/Heads-up-Reddit-is-quietly-restoring-deleted-AND-overwritten-posts-and)
 * [2023-06-16, 10:39:45](https://news.ycombinator.com/item?id=36354358) - [Stop Calling Each New Disaster “The New Normal”](https://thewalrus.ca/stop-calling-each-new-disaster-the-new-normal/)
 * [2023-06-16, 10:30:41](https://news.ycombinator.com/item?id=36354280) - [Annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
+* [2023-06-16, 10:27:10](https://news.ycombinator.com/item?id=36354259) - [Probability and Markets by Jane Street [pdf]](https://www.janestreet.com/static/pdfs/trading-interview.pdf)
 * [2023-06-16, 10:00:42](https://news.ycombinator.com/item?id=36354049) - [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
 * [2023-06-16, 09:48:08](https://news.ycombinator.com/item?id=36353960) - [Throwing in the Towel on Mobile Linux](https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html)
 * [2023-06-16, 09:35:37](https://news.ycombinator.com/item?id=36353845) - [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
