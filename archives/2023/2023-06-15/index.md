@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-15](index.md)
 
+* [2023-06-15, 23:33:59](https://news.ycombinator.com/item?id=36348507) - [Vision Pro](https://www.ben-evans.com/benedictevans/2023/6/15/vision-pro)
+* [2023-06-15, 23:32:25](https://news.ycombinator.com/item?id=36348483) - [Localrf – Nerf from casual shaky videos](https://localrf.github.io/)
+* [2023-06-15, 23:24:03](https://news.ycombinator.com/item?id=36348356) - [Diablo Pitch Document (1994) [pdf]](http://www.graybeardgames.com/download/diablo_pitch.pdf)
 * [2023-06-15, 23:17:12](https://news.ycombinator.com/item?id=36348251) - [Squarespace Enters Definitive Agreement to Acquire Google Domains Assets](https://newsroom.squarespace.com/blog/googledomains)
 * [2023-06-15, 23:04:18](https://news.ycombinator.com/item?id=36348040) - [The highest funded plagiarist may be an AI ethicist](https://rwincblog9.wordpress.com/2023/06/15/11/)
+* [2023-06-15, 23:02:08](https://news.ycombinator.com/item?id=36348007) - [Software effort estimation is mostly fake research](https://shape-of-code.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/)
 * [2023-06-15, 22:55:41](https://news.ycombinator.com/item?id=36347915) - [Tell HN: Messages from Another Azure Customer Are Appearing in My Queue](https://news.ycombinator.com/item?id=36347915)
 * [2023-06-15, 22:50:19](https://news.ycombinator.com/item?id=36347849) - [Reddit says it won’t overrule mods and force subreddits back open](https://www.theverge.com/2023/6/15/23762792/reddit-subreddit-closed-unilaterally-reopen-communities)
 * [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
