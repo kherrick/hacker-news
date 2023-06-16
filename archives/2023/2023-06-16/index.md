@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 17:02:59](https://news.ycombinator.com/item?id=36360035) - [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
+* [2023-06-16, 17:01:36](https://news.ycombinator.com/item?id=36360018) - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
 * [2023-06-16, 16:43:26](https://news.ycombinator.com/item?id=36359652) - [100 Days of Swift – Hacking with Swift](https://www.hackingwithswift.com/100)
 * [2023-06-16, 16:35:57](https://news.ycombinator.com/item?id=36359508) - [Victims speak out over ‘tsunami’ of fraud on Instagram, Facebook and WhatsApp](https://www.theguardian.com/technology/2023/jun/16/victims-speak-out-over-fraud-on-instagram-facebook-and-whatsapp)
 * [2023-06-16, 16:24:20](https://news.ycombinator.com/item?id=36359296) - [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)

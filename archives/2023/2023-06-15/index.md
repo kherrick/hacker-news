@@ -64,6 +64,7 @@
 * [2023-06-15, 13:38:27](https://news.ycombinator.com/item?id=36340305) - [Rick Rubin’s creative genius](https://www.latimes.com/entertainment-arts/books/story/2023-02-06/can-rick-rubins-creative-genius-rub-off-on-you)
 * [2023-06-15, 13:26:25](https://news.ycombinator.com/item?id=36340135) - [Show HN: Procoto – Self-Service RFP Management](https://procoto.com/)
 * [2023-06-15, 13:23:24](https://news.ycombinator.com/item?id=36340095) - [Man locked out of smart home for a week after driver accuses him of being racist](https://www.independent.co.uk/tech/smart-home-lock-out-amazon-b2358107.html)
+* [2023-06-15, 13:15:37](https://news.ycombinator.com/item?id=36339995) - [The Mystery of Australia’s Paralyzed Parrots](https://www.scientificamerican.com/article/the-mystery-of-australias-paralyzed-parrots/)
 * [2023-06-15, 13:06:09](https://news.ycombinator.com/item?id=36339891) - [A LiveView Is a Process](https://fly.io/phoenix-files/a-liveview-is-a-process/)
 * [2023-06-15, 12:55:55](https://news.ycombinator.com/item?id=36339777) - [Our Plan for Python 3.13](https://github.com/faster-cpython/ideas/blob/main/3.13/README.md)
 * [2023-06-15, 12:02:11](https://news.ycombinator.com/item?id=36339253) - [Cement's future could be a combination of Carbon Capture and Electrification](https://industrydecarbonization.com/news/cements-future-could-be-a-combination-of-carbon-capture-and-electrification.html)
