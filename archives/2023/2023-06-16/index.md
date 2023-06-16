@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 06:27:20](https://news.ycombinator.com/item?id=36352281) - [Revenge Served Ice Cold?](https://www.latimes.com/california/story/2023-06-07/revenge-delivered-ice-cold-top-l-a-law-firm-outs-former-partners-racist-sexist-emails)
 * [2023-06-16, 06:21:28](https://news.ycombinator.com/item?id=36352224) - [CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a)
 * [2023-06-16, 06:10:21](https://news.ycombinator.com/item?id=36352137) - [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 * [2023-06-16, 06:06:10](https://news.ycombinator.com/item?id=36352103) - [The Next Generation of Serverless Is Happening](https://www.fermyon.com/blog/next-generation-of-serverless-is-happening)
