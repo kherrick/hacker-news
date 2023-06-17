@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-17, 21:40:33",
+      "https://news.ycombinator.com/item?id=36374936"
+    ],
+    [
+      "The Secret Sauce behind 100K context window in LLMs: all tricks in one place",
+      "https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 21:28:17",
+      "https://news.ycombinator.com/item?id=36374818"
+    ],
+    [
+      "Google Limiting IO_uring Use Due to Security Vulnerabilities",
+      "https://www.phoronix.com/news/Google-Restricting-IO_uring"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 20:59:51",
       "https://news.ycombinator.com/item?id=36374528"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-06-17, 15:59:59",
-      "https://news.ycombinator.com/item?id=36371378"
-    ],
-    [
-      "Firefox 116 Should Have Experimental PipeWire Camera Support",
-      "https://www.phoronix.com/news/Firefox-116-PipeWire-Camera"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 15:41:12",
       "https://news.ycombinator.com/item?id=36371168"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: State Trooper – Tiny, no frills state machine for Go",
       "https://github.com/hishamk/statetrooper"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 14:04:54",
-      "https://news.ycombinator.com/item?id=36370257"
-    ],
-    [
-      "They just pirated my open source 8088 BIOS",
-      "https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267"
     ]
   ],
   [
