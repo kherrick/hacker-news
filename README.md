@@ -2,6 +2,7 @@
 
 * [2023-06-17, 11:09:29](https://news.ycombinator.com/item?id=36369109) - [The Guardian will now use generative AI](https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai)
 * [2023-06-17, 10:52:06](https://news.ycombinator.com/item?id=36369018) - [I don't need your query language](https://antonz.org/fancy-ql/)
+* [2023-06-17, 10:24:40](https://news.ycombinator.com/item?id=36368891) - [Recurring Revenue: Engineers](https://news.ycombinator.com/item?id=36368891)
 * [2023-06-17, 09:51:20](https://news.ycombinator.com/item?id=36368748) - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
@@ -28,7 +29,6 @@
 * [2023-06-16, 04:31:37](https://news.ycombinator.com/item?id=36351277) - [Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
 * [2023-06-16, 03:10:24](https://news.ycombinator.com/item?id=36350655) - [Hello, Perceptron: An introduction to artificial neural networks](https://matt.might.net/articles/hello-perceptron/)
 * [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
-* [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a positive lab culture (2020)](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
 * [2023-06-15, 12:10:14](https://news.ycombinator.com/item?id=36339322) - [Decentralization and centralization in sociocratic organizations [pdf]](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni)
 
 ## [Archives](archives/index.md)

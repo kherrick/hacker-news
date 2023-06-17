@@ -7,6 +7,7 @@
 * [2023-06-17, 11:09:29](https://news.ycombinator.com/item?id=36369109) - [The Guardian will now use generative AI](https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai)
 * [2023-06-17, 10:52:06](https://news.ycombinator.com/item?id=36369018) - [I don't need your query language](https://antonz.org/fancy-ql/)
 * [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
+* [2023-06-17, 10:24:40](https://news.ycombinator.com/item?id=36368891) - [Recurring Revenue: Engineers](https://news.ycombinator.com/item?id=36368891)
 * [2023-06-17, 09:51:20](https://news.ycombinator.com/item?id=36368748) - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
