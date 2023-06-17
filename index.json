@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-17, 08:02:14",
+      "https://news.ycombinator.com/item?id=36368246"
+    ],
+    [
+      "Iterating on Testing in Rust",
+      "https://epage.github.io/blog/2023/06/iterating-on-test/"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 07:01:11",
       "https://news.ycombinator.com/item?id=36367987"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2023-06-16, 19:12:14",
+      "https://news.ycombinator.com/item?id=36362225"
+    ],
+    [
+      "Why did Nix adopt Flakes?",
+      "https://www.jetpack.io/blog/why-did-nix-adopt-flakes/"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 19:01:47",
       "https://news.ycombinator.com/item?id=36362042"
     ],
@@ -177,36 +197,6 @@
     [
       "Gyroflow: An open source advanced gyro-based video stabilization tool",
       "http://gyroflow.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 16:56:21",
-      "https://news.ycombinator.com/item?id=36359925"
-    ],
-    [
-      "Hexyl: A command-line hex viewer with colorized output",
-      "https://github.com/sharkdp/hexyl"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 16:49:56",
-      "https://news.ycombinator.com/item?id=36359798"
-    ],
-    [
-      "Requiem for a bank loan",
-      "https://www.bitsaboutmoney.com/archive/requiem-for-a-bank-loan/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 16:43:26",
-      "https://news.ycombinator.com/item?id=36359652"
-    ],
-    [
-      "100 Days of SwiftUI",
-      "https://www.hackingwithswift.com/100/swiftui"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Decentralization and centralization in sociocratic organizations [pdf]",
       "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni"
+    ]
+  ],
+  [
+    [
+      "2023-06-15, 00:06:07",
+      "https://news.ycombinator.com/item?id=36334675"
+    ],
+    [
+      "Remembering Robert Gottlieb, editor extraordinaire",
+      "https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire"
     ]
   ]
 ]
