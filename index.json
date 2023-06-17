@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-17, 20:59:51",
+      "https://news.ycombinator.com/item?id=36374528"
+    ],
+    [
+      "Data-Driven Science and Engineering 2nd Edition [pdf]",
+      "https://faculty.washington.edu/sbrunton/DataBookV2.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 20:52:09",
+      "https://news.ycombinator.com/item?id=36374467"
+    ],
+    [
+      "Why Your Roses Smell Nice",
+      "https://worldsensorium.com/why-your-roses-smell-nice/"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 19:20:42",
+      "https://news.ycombinator.com/item?id=36373593"
+    ],
+    [
+      "A barista fought to unionize her Starbucks. Now she’s out of a job",
+      "https://www.washingtonpost.com/business/interactive/2023/starbucks-union-fired-worker/"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 19:01:31",
       "https://news.ycombinator.com/item?id=36373364"
     ],
@@ -67,26 +97,6 @@
     [
       "Firefox 116 Should Have Experimental PipeWire Camera Support",
       "https://www.phoronix.com/news/Firefox-116-PipeWire-Camera"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 15:48:48",
-      "https://news.ycombinator.com/item?id=36371237"
-    ],
-    [
-      "Don’t Talk to Police (2012) [video]",
-      "https://www.youtube.com/watch?v=d-7o9xYp7eE"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 15:41:12",
-      "https://news.ycombinator.com/item?id=36371168"
-    ],
-    [
-      "Show HN: Text a photo to send as a postcard",
-      "https://postcardbot.com/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-06-17, 13:17:37",
-      "https://news.ycombinator.com/item?id=36369934"
-    ],
-    [
-      "Show HN: Explore large language models with 512MB of RAM",
-      "https://github.com/jncraton/languagemodels"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 12:13:22",
       "https://news.ycombinator.com/item?id=36369553"
     ],
@@ -217,16 +217,6 @@
     [
       "HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters",
       "https://github.com/PostHog/HouseWatch"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 10:52:06",
-      "https://news.ycombinator.com/item?id=36369018"
-    ],
-    [
-      "I don't need your query language",
-      "https://antonz.org/fancy-ql/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "London Underground Dot Matrix Typeface",
       "https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 22:59:10",
+      "https://news.ycombinator.com/item?id=36365131"
+    ],
+    [
+      "The Price of Correctness",
+      "http://databasearchitects.blogspot.com/2015/12/the-price-of-correctness.html"
     ]
   ],
   [
