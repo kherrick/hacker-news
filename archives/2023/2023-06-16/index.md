@@ -80,6 +80,7 @@
 * [2023-06-16, 09:35:37](https://news.ycombinator.com/item?id=36353845) - [Put an io_uring on it – Exploiting the Linux Kernel](https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel)
 * [2023-06-16, 08:38:14](https://news.ycombinator.com/item?id=36353351) - [The workers already replaced by artificial intelligence](https://www.bbc.com/news/business-65906521)
 * [2023-06-16, 08:34:52](https://news.ycombinator.com/item?id=36353322) - [Basics of Proofs [pdf]](https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf)
+* [2023-06-16, 08:19:04](https://news.ycombinator.com/item?id=36353172) - [Flow Proof Helps Mathematicians Find Stability in Chaos](https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/)
 * [2023-06-16, 08:14:23](https://news.ycombinator.com/item?id=36353147) - [MD5 (Algorithm) in SQL](https://modern-sql.com/caniuse/MD5-algorithm)
 * [2023-06-16, 07:47:56](https://news.ycombinator.com/item?id=36352945) - [The SSL Certificate Issuer Field Is a Lie](https://www.agwa.name/blog/post/the_certificate_issuer_field_is_a_lie)
 * [2023-06-16, 07:15:58](https://news.ycombinator.com/item?id=36352686) - [Keys for unattended decryption of LUKS volumes are exposed during race condition](https://census-labs.com/news/2023/06/15/race-tang/)
