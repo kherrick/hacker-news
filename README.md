@@ -2,7 +2,6 @@
 
 * [2023-06-17, 22:55:35](https://news.ycombinator.com/item?id=36375589) - [It's Companies' Fault we don't want to Return to the Office](https://innovationnation.blog/p/its-companies-fault-we-dont-want)
 * [2023-06-17, 22:54:08](https://news.ycombinator.com/item?id=36375582) - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
-* [2023-06-17, 22:49:26](https://news.ycombinator.com/item?id=36375541) - [Self-checkout machines now ask for tips in latest squeeze on customers](https://www.foxbusiness.com/retail/self-checkout-machines-ask-tips-latest-squeeze-customers)
 * [2023-06-17, 22:06:38](https://news.ycombinator.com/item?id=36375179) - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
 * [2023-06-17, 21:48:10](https://news.ycombinator.com/item?id=36375002) - [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
@@ -22,6 +21,7 @@
 * [2023-06-17, 14:01:06](https://news.ycombinator.com/item?id=36370225) - [Gitless: A simple VCS built on top of Git](https://gitless.com/)
 * [2023-06-17, 13:47:17](https://news.ycombinator.com/item?id=36370108) - [What character was removed from the alphabet? (2020)](https://www.dictionary.com/e/ampersand/)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
+* [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
 * [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 servers and experience of WebP cloud services on them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 05:46:41](https://news.ycombinator.com/item?id=36367638) - [How Do Nuclear Submarines Make Oxygen [video]](https://www.youtube.com/watch?v=g3Ud6mHdhlQ)
