@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 01:55:33](https://news.ycombinator.com/item?id=36366416) - [Louis Rossmann - Reddit forcibly breaks strike; this is an UNINVESTABLE company!](https://www.youtube.com/watch?v=JPLbnNDjo5Y)
+* [2023-06-17, 01:10:53](https://news.ycombinator.com/item?id=36366137) - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 * [2023-06-17, 01:10:53](https://news.ycombinator.com/item?id=36366137) - [Humans Have Pumped Enough Groundwater to Change the Tilt of the Earth](http://68k.news/article.php?loc=US&a=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZTM2MC55YWxlLmVkdS9kaWdlc3QvZ3JvdW5kd2F0ZXItZGVwbGV0aW9uLWVhcnRocy1heGlz0gEA?oc=5)
 * [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
 * [2023-06-17, 01:06:50](https://news.ycombinator.com/item?id=36366105) - [Google Is Shutting Down Album Archive](https://cordcuttersnews.com/google-is-shutting-down-album-archive/)
