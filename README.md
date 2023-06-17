@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-17, 03:50:29](https://news.ycombinator.com/item?id=36367087) - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
-* [2023-06-17, 03:25:58](https://news.ycombinator.com/item?id=36366957) - [We Changed Our Lives Because of Our Remote Jobs. Now It’s All Crumbling](https://slate.com/business/2023/06/remote-work-layoff-personal-finance-advice.html)
 * [2023-06-17, 01:17:12](https://news.ycombinator.com/item?id=36366179) - [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
 * [2023-06-17, 01:10:53](https://news.ycombinator.com/item?id=36366137) - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 * [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
@@ -30,6 +29,7 @@
 * [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
 * [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a positive lab culture (2020)](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
 * [2023-06-15, 12:10:14](https://news.ycombinator.com/item?id=36339322) - [Decentralization and centralization in sociocratic organizations [pdf]](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni)
+* [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 
 ## [Archives](archives/index.md)
 
