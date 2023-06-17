@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
 * [2023-06-17, 14:04:54](https://news.ycombinator.com/item?id=36370257) - [They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
+* [2023-06-17, 14:01:06](https://news.ycombinator.com/item?id=36370225) - [Gitless a simple VCS built on top of Git](https://gitless.com/)
+* [2023-06-17, 13:57:53](https://news.ycombinator.com/item?id=36370191) - [Flying the F-35 stealth fighter can leave pilots looking aged](https://www.businessinsider.com/f-35-test-pilots-intense-flying-top-us-fighter-jet-2023-6)
 * [2023-06-17, 13:47:17](https://news.ycombinator.com/item?id=36370108) - [What Character Was Removed from the Alphabet?](https://www.dictionary.com/e/ampersand/)
 * [2023-06-17, 13:23:39](https://news.ycombinator.com/item?id=36369966) - [Running Linux on the Asus ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
 * [2023-06-17, 13:01:32](https://news.ycombinator.com/item?id=36369840) - [15” MacBook Air Teardown](https://www.youtube.com/watch?v=nW7b0DmmKvQ)
