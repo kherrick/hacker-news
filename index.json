@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-06-17, 21:48:10",
+      "https://news.ycombinator.com/item?id=36375002"
+    ],
+    [
+      "Rust vs Zig Benchmarks",
+      "https://programming-language-benchmarks.vercel.app/rust-vs-zig"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 21:40:33",
       "https://news.ycombinator.com/item?id=36374936"
     ],
     [
       "The Secret Sauce behind 100K context window in LLMs: all tricks in one place",
       "https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 21:28:17",
-      "https://news.ycombinator.com/item?id=36374818"
-    ],
-    [
-      "Google Limiting IO_uring Use Due to Security Vulnerabilities",
-      "https://www.phoronix.com/news/Google-Restricting-IO_uring"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-06-17, 16:25:32",
-      "https://news.ycombinator.com/item?id=36371651"
-    ],
-    [
-      "Are chiplets enough to save Moore’s Law?",
-      "https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 16:20:18",
       "https://news.ycombinator.com/item?id=36371596"
     ],
@@ -157,6 +147,16 @@
     [
       "GPT4 Can’t Ace MIT",
       "https://flower-nutria-41d.notion.site/No-GPT4-can-t-ace-MIT-b27e6796ab5a48368127a98216c76864"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 14:51:26",
+      "https://news.ycombinator.com/item?id=36370684"
+    ],
+    [
+      "Ask HN: What are some of the most elegant codebases in your favorite language?",
+      "https://news.ycombinator.com/item?id=36370684"
     ]
   ],
   [
