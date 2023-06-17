@@ -7,6 +7,7 @@
 * [2023-06-16, 23:45:25](https://news.ycombinator.com/item?id=36365511) - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
 * [2023-06-16, 23:36:57](https://news.ycombinator.com/item?id=36365455) - [When a Huawei Bid Turned into a Hunt for a Corporate Mole](https://www.bloomberg.com/news/features/2023-06-15/how-huawei-got-caught-spying-and-lost-a-200-million-5g-contract)
 * [2023-06-16, 23:33:21](https://news.ycombinator.com/item?id=36365420) - [Castle Game Engine Roadmap](https://castle-engine.io/wp/2023/06/16/engine-roadmap-see-whats-coming-in-the-future/)
+* [2023-06-16, 22:59:10](https://news.ycombinator.com/item?id=36365131) - [The Price of Correctness](http://databasearchitects.blogspot.com/2015/12/the-price-of-correctness.html)
 * [2023-06-16, 22:43:15](https://news.ycombinator.com/item?id=36364975) - [Testosterone Therapy and Your Heart: New Research Finds No Increased Risk](https://www.wsj.com/articles/testosterone-therapy-can-be-safe-but-there-are-heart-risks-a544b8b5)
 * [2023-06-16, 22:42:26](https://news.ycombinator.com/item?id=36364967) - [De-Dollarization Facts](https://www.de-dollarization.org)
 * [2023-06-16, 22:40:39](https://news.ycombinator.com/item?id=36364941) - [FBI Groomed a 16-Year-Old with “Brain Development Issues” to Become a Terrorist](https://theintercept.com/2023/06/15/fbi-undercover-isis-teenager-terrorist/)

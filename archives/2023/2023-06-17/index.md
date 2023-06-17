@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
+* [2023-06-17, 20:52:09](https://news.ycombinator.com/item?id=36374467) - [Why Your Roses Smell Nice](https://worldsensorium.com/why-your-roses-smell-nice/)
+* [2023-06-17, 19:20:42](https://news.ycombinator.com/item?id=36373593) - [A barista fought to unionize her Starbucks. Now she’s out of a job](https://www.washingtonpost.com/business/interactive/2023/starbucks-union-fired-worker/)
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 19:01:11](https://news.ycombinator.com/item?id=36373361) - [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
