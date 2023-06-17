@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
+* [2023-06-17, 19:01:11](https://news.ycombinator.com/item?id=36373361) - [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
 * [2023-06-17, 18:13:16](https://news.ycombinator.com/item?id=36372808) - [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
 * [2023-06-17, 17:26:37](https://news.ycombinator.com/item?id=36372284) - [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
@@ -21,7 +22,6 @@
 * [2023-06-17, 13:17:37](https://news.ycombinator.com/item?id=36369934) - [Show HN: Explore large language models with 512MB of RAM](https://github.com/jncraton/languagemodels)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 * [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
-* [2023-06-17, 10:52:06](https://news.ycombinator.com/item?id=36369018) - [I don't need your query language](https://antonz.org/fancy-ql/)
 * [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 servers and experience of WebP cloud services on them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
