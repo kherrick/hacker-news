@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+* [2023-06-17, 21:28:17](https://news.ycombinator.com/item?id=36374818) - [Google Limiting IO_uring Use Due to Security Vulnerabilities](https://www.phoronix.com/news/Google-Restricting-IO_uring)
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 20:52:09](https://news.ycombinator.com/item?id=36374467) - [Why Your Roses Smell Nice](https://worldsensorium.com/why-your-roses-smell-nice/)
 * [2023-06-17, 19:20:42](https://news.ycombinator.com/item?id=36373593) - [A barista fought to unionize her Starbucks. Now she’s out of a job](https://www.washingtonpost.com/business/interactive/2023/starbucks-union-fired-worker/)

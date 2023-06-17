@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+* [2023-06-17, 21:28:17](https://news.ycombinator.com/item?id=36374818) - [Google Limiting IO_uring Use Due to Security Vulnerabilities](https://www.phoronix.com/news/Google-Restricting-IO_uring)
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 20:52:09](https://news.ycombinator.com/item?id=36374467) - [Why Your Roses Smell Nice](https://worldsensorium.com/why-your-roses-smell-nice/)
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
@@ -8,7 +10,6 @@
 * [2023-06-17, 17:01:51](https://news.ycombinator.com/item?id=36372044) - [Meticulous (YC S21) is hiring a founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36372044)
 * [2023-06-17, 16:25:32](https://news.ycombinator.com/item?id=36371651) - [Are chiplets enough to save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
 * [2023-06-17, 16:20:18](https://news.ycombinator.com/item?id=36371596) - [How to raise a Roman army: The dilectus](https://acoup.blog/2023/06/16/collections-how-to-raise-a-roman-army-the-dilectus/)
-* [2023-06-17, 15:59:59](https://news.ycombinator.com/item?id=36371378) - [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
 * [2023-06-17, 15:41:12](https://news.ycombinator.com/item?id=36371168) - [Show HN: Text a photo to send as a postcard](https://postcardbot.com/)
 * [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
 * [2023-06-17, 14:56:12](https://news.ycombinator.com/item?id=36370725) - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
@@ -17,7 +18,6 @@
 * [2023-06-17, 14:44:43](https://news.ycombinator.com/item?id=36370617) - [James Gosling talks about virtual machines, security, and Java (2004)](https://queue.acm.org/detail.cfm?id=1017013)
 * [2023-06-17, 14:22:57](https://news.ycombinator.com/item?id=36370409) - [KC archbishop clarifies wine validity norms](https://www.pillarcatholic.com/p/kc-archbishop-clarifies-wine-validity)
 * [2023-06-17, 14:21:59](https://news.ycombinator.com/item?id=36370396) - [Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
-* [2023-06-17, 14:04:54](https://news.ycombinator.com/item?id=36370257) - [They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
 * [2023-06-17, 14:01:06](https://news.ycombinator.com/item?id=36370225) - [Gitless: A simple VCS built on top of Git](https://gitless.com/)
 * [2023-06-17, 13:47:17](https://news.ycombinator.com/item?id=36370108) - [What character was removed from the alphabet? (2020)](https://www.dictionary.com/e/ampersand/)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
