@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
 * [2023-06-17, 18:13:16](https://news.ycombinator.com/item?id=36372808) - [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
 * [2023-06-17, 17:55:24](https://news.ycombinator.com/item?id=36372600) - [San Francisco's Pain Worsens as Workers, Visitors, and Shoppers Leave](https://www.businessinsider.com/san-francisco-pain-worsens-workers-visitors-shoppers-leave-2023-6)

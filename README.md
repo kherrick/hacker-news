@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
 * [2023-06-17, 18:13:16](https://news.ycombinator.com/item?id=36372808) - [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
 * [2023-06-17, 17:26:37](https://news.ycombinator.com/item?id=36372284) - [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
@@ -24,7 +25,6 @@
 * [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 servers and experience of WebP cloud services on them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
-* [2023-06-17, 04:19:23](https://news.ycombinator.com/item?id=36367241) - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
 * [2023-06-16, 20:55:24](https://news.ycombinator.com/item?id=36363718) - [How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
 * [2023-06-16, 18:52:08](https://news.ycombinator.com/item?id=36361858) - [Porting Python and Pwnlib Code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)
 * [2023-06-16, 17:46:19](https://news.ycombinator.com/item?id=36360740) - [‘The Whiskey Rebellion’ Review: A Young Nation, Suddenly Tested](https://www.wsj.com/articles/the-whiskey-rebellion-review-a-young-nation-suddenly-tested-3a2a692b)
