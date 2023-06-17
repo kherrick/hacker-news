@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 15:59:52](https://news.ycombinator.com/item?id=36371376) - [Starlink v2 reached the brightness reduction target recommended by astronomers](https://arxiv.org/abs/2306.06657)
+* [2023-06-17, 15:58:34](https://news.ycombinator.com/item?id=36371358) - [Tell HN: Comcast/Xfinity is having a widespread DNS outage](https://news.ycombinator.com/item?id=36371358)
 * [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
 * [2023-06-17, 14:56:12](https://news.ycombinator.com/item?id=36370725) - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
+* [2023-06-17, 14:54:01](https://news.ycombinator.com/item?id=36370709) - [White supremacist changes beliefs after taking MDMA for a study](https://www.insider.com/white-supremacist-took-mdma-renounces-beliefs-study-2023-6)
 * [2023-06-17, 14:51:26](https://news.ycombinator.com/item?id=36370684) - [Ask HN: What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
 * [2023-06-17, 14:38:12](https://news.ycombinator.com/item?id=36370555) - [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
 * [2023-06-17, 14:27:52](https://news.ycombinator.com/item?id=36370460) - [Four alarming charts that show just how extreme the climate is](https://www.cnn.com/2023/06/17/world/four-climate-charts-extreme-weather-heat-oceans/index.html)
