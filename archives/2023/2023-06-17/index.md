@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
 * [2023-06-17, 17:01:51](https://news.ycombinator.com/item?id=36372044) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36372044)
+* [2023-06-17, 16:50:22](https://news.ycombinator.com/item?id=36371936) - [Florida has banned direct-to-consumer auto sales, but Tesla and co get a pass](https://www.theverge.com/2023/6/17/23764510/florida-has-banned-direct-to-consumer-auto-sales-but-electric-only-automakers-get-a-pass)
+* [2023-06-17, 16:25:32](https://news.ycombinator.com/item?id=36371651) - [Are Chiplets Enough to Save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
+* [2023-06-17, 16:20:18](https://news.ycombinator.com/item?id=36371596) - [How to Raise a Roman Army: The Dilectus](https://acoup.blog/2023/06/16/collections-how-to-raise-a-roman-army-the-dilectus/)
 * [2023-06-17, 16:08:23](https://news.ycombinator.com/item?id=36371476) - [Google gets go-ahead to build 153-acre Bay Area neighborhood by headquarters](https://www.sfgate.com/tech/article/google-mountain-view-development-headquarters-18156676.php)
 * [2023-06-17, 15:59:59](https://news.ycombinator.com/item?id=36371378) - [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
 * [2023-06-17, 15:59:52](https://news.ycombinator.com/item?id=36371376) - [Starlink v2 reached the brightness reduction target recommended by astronomers](https://arxiv.org/abs/2306.06657)
