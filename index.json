@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-17, 17:17:27",
+      "https://news.ycombinator.com/item?id=36372194"
+    ],
+    [
+      "An Anomalous Wire at the Site of the First Interstellar Meteor",
+      "https://avi-loeb.medium.com/an-anomalous-wire-made-of-manganese-and-platinum-in-the-pacific-ocean-site-of-the-first-3ccb7076dfc0"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 17:01:51",
       "https://news.ycombinator.com/item?id=36372044"
     ],
@@ -11,21 +21,11 @@
   ],
   [
     [
-      "2023-06-17, 16:50:22",
-      "https://news.ycombinator.com/item?id=36371936"
-    ],
-    [
-      "Florida has banned direct-to-consumer auto sales, but Tesla and co get a pass",
-      "https://www.theverge.com/2023/6/17/23764510/florida-has-banned-direct-to-consumer-auto-sales-but-electric-only-automakers-get-a-pass"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 16:25:32",
       "https://news.ycombinator.com/item?id=36371651"
     ],
     [
-      "Are Chiplets Enough to Save Moore’s Law?",
+      "Are chiplets enough to save Moore’s Law?",
       "https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36371596"
     ],
     [
-      "How to raise a Roman army: The Dilectus",
+      "How to raise a Roman army: The dilectus",
       "https://acoup.blog/2023/06/16/collections-how-to-raise-a-roman-army-the-dilectus/"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36371237"
     ],
     [
-      "Don’t Talk to Police",
+      "Don’t Talk to Police (2012) [video]",
       "https://www.youtube.com/watch?v=d-7o9xYp7eE"
     ]
   ],
@@ -87,6 +87,26 @@
     [
       "Japanese biomass venture using microorganisms to tackle waste disposal",
       "https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 14:56:12",
+      "https://news.ycombinator.com/item?id=36370725"
+    ],
+    [
+      "Ask HN: Has Google search switched to infinite scrolling for you too now?",
+      "https://news.ycombinator.com/item?id=36370725"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 14:51:26",
+      "https://news.ycombinator.com/item?id=36370684"
+    ],
+    [
+      "Ask HN: What are some of the most elegant codebases in your favorite language?",
+      "https://news.ycombinator.com/item?id=36370684"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "They just pirated my open source 8088 BIOS",
       "https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 14:01:45",
-      "https://news.ycombinator.com/item?id=36370232"
-    ],
-    [
-      "Are ChatGPT and Other Similar Systems the Modern Lernaean Hydras of AI?",
-      "https://arxiv.org/abs/2306.09267"
     ]
   ],
   [
@@ -201,22 +211,22 @@
   ],
   [
     [
+      "2023-06-17, 10:44:36",
+      "https://news.ycombinator.com/item?id=36368990"
+    ],
+    [
+      "Ask HN: Why does Apple refuse to add window snapping to macOS?",
+      "https://news.ycombinator.com/item?id=36368990"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 09:14:22",
       "https://news.ycombinator.com/item?id=36368586"
     ],
     [
       "Review of Hetzner ARM64 servers and experience of WebP cloud services on them",
       "https://blog.webp.se/hetzner-arm64-en/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 08:02:14",
-      "https://news.ycombinator.com/item?id=36368246"
-    ],
-    [
-      "Iterating on Testing in Rust",
-      "https://epage.github.io/blog/2023/06/iterating-on-test/"
     ]
   ],
   [
@@ -251,6 +261,16 @@
   ],
   [
     [
+      "2023-06-16, 20:55:24",
+      "https://news.ycombinator.com/item?id=36363718"
+    ],
+    [
+      "How A Supernova Explodes (1985) [pdf]",
+      "https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 17:46:19",
       "https://news.ycombinator.com/item?id=36360740"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-06-16, 08:19:04",
-      "https://news.ycombinator.com/item?id=36353172"
-    ],
-    [
-      "Flow Proof Helps Mathematicians Find Stability in Chaos",
-      "https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/"
-    ]
-  ],
-  [
-    [
       "2023-06-16, 04:31:37",
       "https://news.ycombinator.com/item?id=36351277"
     ],
     [
       "Planescape: Torment pitch document (1997) [pdf]",
       "https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 03:10:24",
-      "https://news.ycombinator.com/item?id=36350655"
-    ],
-    [
-      "Hello, Perceptron: An introduction to artificial neural networks",
-      "https://matt.might.net/articles/hello-perceptron/"
     ]
   ]
 ]
