@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 17:26:53](https://news.ycombinator.com/item?id=36372287) - [EU planning more legislation to make the internet more expensive and crappier](https://www.eff.org/deeplinks/2023/06/there-nothing-fair-about-european-commissions-fair-share-proposal)
 * [2023-06-17, 17:01:51](https://news.ycombinator.com/item?id=36372044) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36372044)
 * [2023-06-17, 16:50:22](https://news.ycombinator.com/item?id=36371936) - [Florida has banned direct-to-consumer auto sales, but Tesla and co get a pass](https://www.theverge.com/2023/6/17/23764510/florida-has-banned-direct-to-consumer-auto-sales-but-electric-only-automakers-get-a-pass)
 * [2023-06-17, 16:25:32](https://news.ycombinator.com/item?id=36371651) - [Are Chiplets Enough to Save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
@@ -28,7 +29,6 @@
 * [2023-06-17, 04:01:48](https://news.ycombinator.com/item?id=36367147) - [People Can Be Convinced They Committed a Crime That Never Happened](https://www.psychologicalscience.org/news/releases/people-can-be-convinced-they-committed-a-crime-they-dont-remember.html)
 * [2023-06-16, 17:46:19](https://news.ycombinator.com/item?id=36360740) - [‘The Whiskey Rebellion’ Review: A Young Nation, Suddenly Tested](https://www.wsj.com/articles/the-whiskey-rebellion-review-a-young-nation-suddenly-tested-3a2a692b)
 * [2023-06-16, 08:34:52](https://news.ycombinator.com/item?id=36353322) - [Basics of Proofs [pdf]](https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf)
-* [2023-06-16, 07:02:16](https://news.ycombinator.com/item?id=36352565) - [Failing to Fail](http://www.os2museum.com/wp/failing-to-fail/)
 * [2023-06-16, 04:31:37](https://news.ycombinator.com/item?id=36351277) - [Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
 
 ## [Archives](archives/index.md)
