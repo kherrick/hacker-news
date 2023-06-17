@@ -26,10 +26,10 @@
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 * [2023-06-17, 04:19:23](https://news.ycombinator.com/item?id=36367241) - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
 * [2023-06-16, 20:55:24](https://news.ycombinator.com/item?id=36363718) - [How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
+* [2023-06-16, 18:52:08](https://news.ycombinator.com/item?id=36361858) - [Porting Python and Pwnlib Code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)
 * [2023-06-16, 17:46:19](https://news.ycombinator.com/item?id=36360740) - [‘The Whiskey Rebellion’ Review: A Young Nation, Suddenly Tested](https://www.wsj.com/articles/the-whiskey-rebellion-review-a-young-nation-suddenly-tested-3a2a692b)
 * [2023-06-16, 08:34:52](https://news.ycombinator.com/item?id=36353322) - [Basics of Proofs (2017) [pdf]](https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf)
 * [2023-06-16, 04:31:37](https://news.ycombinator.com/item?id=36351277) - [Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
-* [2023-06-16, 03:10:24](https://news.ycombinator.com/item?id=36350655) - [Hello, Perceptron: An introduction to artificial neural networks](https://matt.might.net/articles/hello-perceptron/)
 
 ## [Archives](archives/index.md)
 
