@@ -46,6 +46,7 @@
 * [2023-06-17, 12:45:48](https://news.ycombinator.com/item?id=36369742) - [Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 * [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
+* [2023-06-17, 12:07:29](https://news.ycombinator.com/item?id=36369518) - [Tech is facing a reckoning, not a recession](https://wheresyoured.at/p/techs-reckoning)
 * [2023-06-17, 12:00:14](https://news.ycombinator.com/item?id=36369468) - [MindsDB (YC W20) Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
 * [2023-06-17, 11:09:29](https://news.ycombinator.com/item?id=36369109) - [The Guardian will now use generative AI](https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai)
 * [2023-06-17, 10:52:06](https://news.ycombinator.com/item?id=36369018) - [I don't need your query language](https://antonz.org/fancy-ql/)
