@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-17, 03:50:29](https://news.ycombinator.com/item?id=36367087) - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
+* [2023-06-17, 03:25:58](https://news.ycombinator.com/item?id=36366957) - [We Changed Our Lives Because of Our Remote Jobs. Now It’s All Crumbling](https://slate.com/business/2023/06/remote-work-layoff-personal-finance-advice.html)
 * [2023-06-17, 01:17:12](https://news.ycombinator.com/item?id=36366179) - [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
 * [2023-06-17, 01:10:53](https://news.ycombinator.com/item?id=36366137) - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 * [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
@@ -9,7 +10,6 @@
 * [2023-06-16, 23:45:25](https://news.ycombinator.com/item?id=36365511) - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
 * [2023-06-16, 21:30:27](https://news.ycombinator.com/item?id=36364182) - [Ask HN: What do you put in a “in case of death” file?](https://news.ycombinator.com/item?id=36364182)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
-* [2023-06-16, 19:12:14](https://news.ycombinator.com/item?id=36362225) - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 * [2023-06-16, 19:01:47](https://news.ycombinator.com/item?id=36362042) - [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 * [2023-06-16, 18:54:44](https://news.ycombinator.com/item?id=36361906) - [Deep Learning’s Diminishing Returns (2021)](https://spectrum.ieee.org/deep-learning-computational-cost)
 * [2023-06-16, 18:52:06](https://news.ycombinator.com/item?id=36361857) - [Limits of Programmer Productivity: A lesson from Fred Brooks](https://pboyd.io/posts/productivity-limit/)
