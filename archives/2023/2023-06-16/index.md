@@ -92,6 +92,7 @@
 * [2023-06-16, 05:34:49](https://news.ycombinator.com/item?id=36351830) - [Louis Rossmann calls community to leave Reddit](https://www.youtube.com/watch?v=ZOm_UKGyrZg)
 * [2023-06-16, 04:48:08](https://news.ycombinator.com/item?id=36351426) - [The Illusion of Moral Decline](https://www.nature.com/articles/s41586-023-06137-x)
 * [2023-06-16, 04:47:26](https://news.ycombinator.com/item?id=36351415) - [Memory Safety Without Borrow Checking, Reference Counting, or Garbage Collection](https://verdagon.dev/blog/single-ownership-without-borrow-checking-rc-gc)
+* [2023-06-16, 04:31:37](https://news.ycombinator.com/item?id=36351277) - [Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
 * [2023-06-16, 04:20:26](https://news.ycombinator.com/item?id=36351185) - [Major Louisiana DMV Hack](https://gov.louisiana.gov/index.cfm/newsroom/detail/4158)
 * [2023-06-16, 04:03:24](https://news.ycombinator.com/item?id=36351065) - [Subreddit Migration Directory](https://redditmigration.com)
 * [2023-06-16, 04:00:12](https://news.ycombinator.com/item?id=36351041) - [Detailed miniature models of historic computer](https://www.miniatua.com/)
