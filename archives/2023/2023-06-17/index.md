@@ -15,6 +15,7 @@
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 * [2023-06-17, 04:50:29](https://news.ycombinator.com/item?id=36367391) - [I wish JSON5 was more popular](https://evertpot.com/json5/)
 * [2023-06-17, 04:19:23](https://news.ycombinator.com/item?id=36367241) - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
+* [2023-06-17, 04:01:48](https://news.ycombinator.com/item?id=36367147) - [People Can Be Convinced They Committed a Crime That Never Happened](https://www.psychologicalscience.org/news/releases/people-can-be-convinced-they-committed-a-crime-they-dont-remember.html)
 * [2023-06-17, 03:50:29](https://news.ycombinator.com/item?id=36367087) - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 * [2023-06-17, 03:26:32](https://news.ycombinator.com/item?id=36366961) - [Crypto startup Wyre, once valued at $1.5B, officially shuts down](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/06/16/crypto-startup-wyre-officially-shuts-down.html?page=all)
 * [2023-06-17, 03:25:58](https://news.ycombinator.com/item?id=36366957) - [We Changed Our Lives Because of Our Remote Jobs. Now It’s All Crumbling](https://slate.com/business/2023/06/remote-work-layoff-personal-finance-advice.html)
