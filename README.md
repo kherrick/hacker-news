@@ -9,6 +9,7 @@
 * [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
 * [2023-06-17, 00:53:19](https://news.ycombinator.com/item?id=36366002) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 * [2023-06-16, 23:45:25](https://news.ycombinator.com/item?id=36365511) - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
+* [2023-06-16, 23:33:21](https://news.ycombinator.com/item?id=36365420) - [Castle Game Engine Roadmap](https://castle-engine.io/wp/2023/06/16/engine-roadmap-see-whats-coming-in-the-future/)
 * [2023-06-16, 22:38:53](https://news.ycombinator.com/item?id=36364920) - [The Great When? A London-through-time quiz](https://www.monkeon.co.uk/the-great-when/)
 * [2023-06-16, 21:30:27](https://news.ycombinator.com/item?id=36364182) - [Ask HN: What do you put in a “in case of death” file?](https://news.ycombinator.com/item?id=36364182)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
@@ -29,7 +30,6 @@
 * [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
 * [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a positive lab culture (2020)](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
 * [2023-06-15, 12:10:14](https://news.ycombinator.com/item?id=36339322) - [Decentralization and centralization in sociocratic organizations [pdf]](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni)
-* [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 
 ## [Archives](archives/index.md)
 
