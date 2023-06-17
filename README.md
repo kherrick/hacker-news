@@ -1,5 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 01:10:53](https://news.ycombinator.com/item?id=36366137) - [Humans Have Pumped Enough Groundwater to Change the Tilt of the Earth](http://68k.news/article.php?loc=US&a=https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vZTM2MC55YWxlLmVkdS9kaWdlc3QvZ3JvdW5kd2F0ZXItZGVwbGV0aW9uLWVhcnRocy1heGlz0gEA?oc=5)
+* [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls](https://waivek.github.io/website/tooltip.html)
+* [2023-06-17, 01:06:50](https://news.ycombinator.com/item?id=36366105) - [Google Is Shutting Down Album Archive](https://cordcuttersnews.com/google-is-shutting-down-album-archive/)
+* [2023-06-17, 01:01:48](https://news.ycombinator.com/item?id=36366062) - [Generally Intelligent (YC S17) Is Hiring Chief of Staff](https://news.ycombinator.com/item?id=36366062)
+* [2023-06-17, 00:53:19](https://news.ycombinator.com/item?id=36366002) - [Merging Bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
+* [2023-06-17, 00:29:11](https://news.ycombinator.com/item?id=36365819) - [How Ancient Astronaut Theorists Faked a Hindu Nuclear Explosion](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
 * [2023-06-16, 23:45:25](https://news.ycombinator.com/item?id=36365511) - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
 * [2023-06-16, 23:36:57](https://news.ycombinator.com/item?id=36365455) - [When a Huawei Bid Turned into a Hunt for a Corporate Mole](https://www.bloomberg.com/news/features/2023-06-15/how-huawei-got-caught-spying-and-lost-a-200-million-5g-contract)
 * [2023-06-16, 22:43:15](https://news.ycombinator.com/item?id=36364975) - [Testosterone Therapy and Your Heart: New Research Finds No Increased Risk](https://www.wsj.com/articles/testosterone-therapy-can-be-safe-but-there-are-heart-risks-a544b8b5)
@@ -21,15 +27,9 @@
 * [2023-06-16, 14:13:03](https://news.ycombinator.com/item?id=36356876) - [Full Time](https://www.marginalia.nu/log/83_full_time/)
 * [2023-06-16, 13:31:13](https://news.ycombinator.com/item?id=36356288) - [Finland's plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
 * [2023-06-16, 12:06:30](https://news.ycombinator.com/item?id=36355172) - [Two years of teaching high school CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
-* [2023-06-16, 12:00:34](https://news.ycombinator.com/item?id=36355103) - [Provision (YC S22) Is Hiring a Founding Engineer (Front End)](https://www.notion.so/provision-software/Provision-is-Hiring-8b53cc10bbd04af39bf3d3c7ab181cac?pvs=4)
-* [2023-06-16, 10:30:41](https://news.ycombinator.com/item?id=36354280) - [Annoying A/B testing mistakes](https://posthog.com/blog/ab-testing-mistakes)
 * [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, escape, and meta tricks](https://susam.net/blog/control-escape-meta-tricks.html)
-* [2023-06-16, 03:12:29](https://news.ycombinator.com/item?id=36350668) - [Guidance for Scaling – Reversible vs. Irreversible Decisions](https://www.craigkerstiens.com/2021/12/29/guidance-for-scaling-reversible-vs.-irreversible-decisions/)
-* [2023-06-15, 16:17:11](https://news.ycombinator.com/item?id=36342762) - [Generative AI is also a revolution for computer interfaces](https://www.axios.com/2023/05/26/generative-ai-revolution-computer-interfaces-chatgpt)
-* [2023-06-15, 13:38:27](https://news.ycombinator.com/item?id=36340305) - [Rick Rubin’s creative genius](https://www.latimes.com/entertainment-arts/books/story/2023-02-06/can-rick-rubins-creative-genius-rub-off-on-you)
+* [2023-06-15, 15:48:40](https://news.ycombinator.com/item?id=36342214) - [Rondel Dagger](https://en.wikipedia.org/wiki/Rondel_dagger)
 * [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a Positive Lab Culture](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
-* [2023-06-15, 11:54:29](https://news.ycombinator.com/item?id=36339172) - [Aristotelian Philosophy of Mathematics Workshop](https://philevents.org/event/show/111450)
-* [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 
 ## [Archives](archives/index.md)
 

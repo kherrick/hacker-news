@@ -47,6 +47,7 @@
 * [2023-06-15, 16:18:36](https://news.ycombinator.com/item?id=36342785) - [Scientific Colour Maps](https://www.fabiocrameri.ch/colourmaps/)
 * [2023-06-15, 16:17:11](https://news.ycombinator.com/item?id=36342762) - [Generative AI is also a revolution for computer interfaces](https://www.axios.com/2023/05/26/generative-ai-revolution-computer-interfaces-chatgpt)
 * [2023-06-15, 15:59:45](https://news.ycombinator.com/item?id=36342426) - [Radiation Biology Can Help Reduce Crippling Fear of Low-Level Radiation](https://journals.lww.com/health-physics/fulltext/2023/05000/how_the_science_of_radiation_biology_can_help.6.aspx)
+* [2023-06-15, 15:48:40](https://news.ycombinator.com/item?id=36342214) - [Rondel Dagger](https://en.wikipedia.org/wiki/Rondel_dagger)
 * [2023-06-15, 15:40:10](https://news.ycombinator.com/item?id=36342085) - [Hacker News needs a Dark Mode](https://news.ycombinator.com/item?id=36342085)
 * [2023-06-15, 15:29:49](https://news.ycombinator.com/item?id=36341941) - [Reddit’s blackout protest is set to continue indefinitely](https://old.reddit.com/r/technology/comments/149zmar/reddits_blackout_protest_is_set_to_continue/)
 * [2023-06-15, 15:17:46](https://news.ycombinator.com/item?id=36341750) - [W3C announces new Web standard for online payments](https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/)
