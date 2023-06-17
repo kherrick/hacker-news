@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 03:50:29](https://news.ycombinator.com/item?id=36367087) - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
 * [2023-06-17, 03:26:32](https://news.ycombinator.com/item?id=36366961) - [Crypto startup Wyre, once valued at $1.5B, officially shuts down](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/06/16/crypto-startup-wyre-officially-shuts-down.html?page=all)
 * [2023-06-17, 01:55:33](https://news.ycombinator.com/item?id=36366416) - [Louis Rossmann - Reddit forcibly breaks strike; this is an UNINVESTABLE company!](https://www.youtube.com/watch?v=JPLbnNDjo5Y)
 * [2023-06-17, 01:17:12](https://news.ycombinator.com/item?id=36366179) - [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
