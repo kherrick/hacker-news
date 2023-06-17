@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 10:52:06](https://news.ycombinator.com/item?id=36369018) - [I don't need your query language](https://antonz.org/fancy-ql/)
+* [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
 * [2023-06-17, 09:51:20](https://news.ycombinator.com/item?id=36368748) - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
@@ -11,7 +13,6 @@
 * [2023-06-17, 01:10:53](https://news.ycombinator.com/item?id=36366137) - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 * [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
 * [2023-06-17, 00:53:19](https://news.ycombinator.com/item?id=36366002) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
-* [2023-06-17, 00:32:57](https://news.ycombinator.com/item?id=36365844) - [Yeovil's Virtual Museum](http://www.yeovilhistory.info/index.htm)
 * [2023-06-16, 23:45:25](https://news.ycombinator.com/item?id=36365511) - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
 * [2023-06-16, 22:38:53](https://news.ycombinator.com/item?id=36364920) - [The Great When? A London-through-time quiz](https://www.monkeon.co.uk/the-great-when/)
 * [2023-06-16, 21:30:27](https://news.ycombinator.com/item?id=36364182) - [Ask HN: What do you put in a “in case of death” file?](https://news.ycombinator.com/item?id=36364182)
@@ -28,7 +29,6 @@
 * [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, escape, and meta tricks](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 03:10:24](https://news.ycombinator.com/item?id=36350655) - [Hello, Perceptron: An introduction to artificial neural networks](https://matt.might.net/articles/hello-perceptron/)
 * [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
-* [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a positive lab culture (2020)](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
 * [2023-06-15, 12:10:14](https://news.ycombinator.com/item?id=36339322) - [Decentralization and centralization in sociocratic organizations [pdf]](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni)
 
 ## [Archives](archives/index.md)
