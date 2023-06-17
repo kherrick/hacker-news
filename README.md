@@ -28,7 +28,7 @@
 * [2023-06-16, 13:31:13](https://news.ycombinator.com/item?id=36356288) - [Finland's plan to bury spent nuclear fuel for 100k years](https://www.bbc.com/future/article/20230613-onkalo-has-finland-found-the-answer-to-spent-nuclear-fuel-waste-by-burying-it)
 * [2023-06-16, 12:06:30](https://news.ycombinator.com/item?id=36355172) - [Two years of teaching high school CS](https://blog.charliemeyer.co/what-i-learned-from-two-years-of-teaching-high-school-cs/)
 * [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, escape, and meta tricks](https://susam.net/blog/control-escape-meta-tricks.html)
-* [2023-06-15, 15:48:40](https://news.ycombinator.com/item?id=36342214) - [Rondel Dagger](https://en.wikipedia.org/wiki/Rondel_dagger)
+* [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
 * [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a Positive Lab Culture](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
 
 ## [Archives](archives/index.md)

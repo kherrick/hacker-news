@@ -15,6 +15,7 @@
 * [2023-06-15, 22:38:33](https://news.ycombinator.com/item?id=36347711) - [Reddit Threatens to Remove Moderators from Subreddits Continuing Blackouts](https://www.macrumors.com/2023/06/15/reddit-threatens-to-remove-subreddit-moderators/)
 * [2023-06-15, 22:16:02](https://news.ycombinator.com/item?id=36347400) - [Reddit CEO slams protesters, calls them “landed gentry”](https://www.nbcnews.com/tech/tech-news/reddit-protest-blackout-ceo-steve-huffman-moderators-rcna89544)
 * [2023-06-15, 22:04:30](https://news.ycombinator.com/item?id=36347272) - [The Online Books Page](https://onlinebooks.library.upenn.edu/)
+* [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
 * [2023-06-15, 21:59:51](https://news.ycombinator.com/item?id=36347222) - [How the brain processes German and Arabic](https://en.qantara.de/content/language-and-language-acquisition-how-the-brain-processes-german-and-arabic)
 * [2023-06-15, 21:56:17](https://news.ycombinator.com/item?id=36347176) - [Reddit CEO Steve Huffman: It's time we grow up and behave like an adult company](https://www.npr.org/2023/06/15/1182457366/reddit-ceo-steve-huffman-its-time-we-grow-up-and-behave-like-an-adult-company)
 * [2023-06-15, 21:18:56](https://news.ycombinator.com/item?id=36346636) - [Bitcoin correlation with stocks at 5-year low as regulatory crackdown takes toll](https://cryptonews.net/news/bitcoin/21159021/)
