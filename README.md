@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 17:26:37](https://news.ycombinator.com/item?id=36372284) - [GB Studio: Drag and drop retro game creator for GameBoy](https://www.gbstudio.dev/)
 * [2023-06-17, 17:17:27](https://news.ycombinator.com/item?id=36372194) - [An Anomalous Wire at the Site of the First Interstellar Meteor](https://avi-loeb.medium.com/an-anomalous-wire-made-of-manganese-and-platinum-in-the-pacific-ocean-site-of-the-first-3ccb7076dfc0)
 * [2023-06-17, 17:01:51](https://news.ycombinator.com/item?id=36372044) - [Meticulous (YC S21) is hiring a founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36372044)
 * [2023-06-17, 16:25:32](https://news.ycombinator.com/item?id=36371651) - [Are chiplets enough to save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
@@ -20,7 +21,6 @@
 * [2023-06-17, 13:17:37](https://news.ycombinator.com/item?id=36369934) - [Show HN: Explore large language models with 512MB of RAM](https://github.com/jncraton/languagemodels)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 * [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
-* [2023-06-17, 10:52:06](https://news.ycombinator.com/item?id=36369018) - [I don't need your query language](https://antonz.org/fancy-ql/)
 * [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 servers and experience of WebP cloud services on them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
