@@ -19,7 +19,6 @@
 * [2023-06-16, 16:56:21](https://news.ycombinator.com/item?id=36359925) - [Hexyl: A command-line hex viewer with colorized output](https://github.com/sharkdp/hexyl)
 * [2023-06-16, 16:49:56](https://news.ycombinator.com/item?id=36359798) - [Requiem for a bank loan](https://www.bitsaboutmoney.com/archive/requiem-for-a-bank-loan/)
 * [2023-06-16, 16:43:26](https://news.ycombinator.com/item?id=36359652) - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
-* [2023-06-16, 16:28:40](https://news.ycombinator.com/item?id=36359376) - [Writing a chat application in Django 4.2 using async StreamingHttpResponse](https://valberg.dk/django-sse-postgresql-listen-notify.html)
 * [2023-06-16, 16:24:20](https://news.ycombinator.com/item?id=36359296) - [Illinois prohibits weapons, facial recognition on police drones](https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=)
 * [2023-06-16, 15:54:25](https://news.ycombinator.com/item?id=36358754) - [Pricing Money: A beginner's guide to money, bonds, futures and swaps](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 * [2023-06-16, 15:49:34](https://news.ycombinator.com/item?id=36358672) - [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
@@ -29,6 +28,7 @@
 * [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
 * [2023-06-15, 13:38:27](https://news.ycombinator.com/item?id=36340305) - [Rick Rubin’s creative genius](https://www.latimes.com/entertainment-arts/books/story/2023-02-06/can-rick-rubins-creative-genius-rub-off-on-you)
 * [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a positive lab culture (2020)](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
+* [2023-06-15, 12:10:14](https://news.ycombinator.com/item?id=36339322) - [Decentralization and Centralization in Sociocratic Organizations [pdf]](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni)
 * [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 
 ## [Archives](archives/index.md)
