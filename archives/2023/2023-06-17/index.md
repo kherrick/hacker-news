@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 22:54:08](https://news.ycombinator.com/item?id=36375582) - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
+* [2023-06-17, 22:06:38](https://news.ycombinator.com/item?id=36375179) - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
 * [2023-06-17, 21:48:10](https://news.ycombinator.com/item?id=36375002) - [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 * [2023-06-17, 21:28:17](https://news.ycombinator.com/item?id=36374818) - [Google Limiting IO_uring Use Due to Security Vulnerabilities](https://www.phoronix.com/news/Google-Restricting-IO_uring)
