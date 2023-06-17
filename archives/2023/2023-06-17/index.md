@@ -13,6 +13,7 @@
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 19:01:11](https://news.ycombinator.com/item?id=36373361) - [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
+* [2023-06-17, 18:28:58](https://news.ycombinator.com/item?id=36372987) - [2D Solar Cells Poised to Set Power-per-Weight Record](https://spectrum.ieee.org/solar-cells)
 * [2023-06-17, 18:13:16](https://news.ycombinator.com/item?id=36372808) - [GPT-4 Outperforms Humans in Pitch Deck Effectiveness](https://clarifycapital.com/the-future-of-investment-pitching)
 * [2023-06-17, 17:55:24](https://news.ycombinator.com/item?id=36372600) - [San Francisco's Pain Worsens as Workers, Visitors, and Shoppers Leave](https://www.businessinsider.com/san-francisco-pain-worsens-workers-visitors-shoppers-leave-2023-6)
 * [2023-06-17, 17:26:53](https://news.ycombinator.com/item?id=36372287) - [EU planning more legislation to make the internet more expensive and crappier](https://www.eff.org/deeplinks/2023/06/there-nothing-fair-about-european-commissions-fair-share-proposal)
