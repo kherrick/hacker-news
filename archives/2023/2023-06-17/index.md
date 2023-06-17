@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
 * [2023-06-17, 14:56:12](https://news.ycombinator.com/item?id=36370725) - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
 * [2023-06-17, 14:38:12](https://news.ycombinator.com/item?id=36370555) - [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
+* [2023-06-17, 14:27:52](https://news.ycombinator.com/item?id=36370460) - [Four alarming charts that show just how extreme the climate is](https://www.cnn.com/2023/06/17/world/four-climate-charts-extreme-weather-heat-oceans/index.html)
+* [2023-06-17, 14:22:57](https://news.ycombinator.com/item?id=36370409) - [KC archbishop clarifies wine validity norms](https://www.pillarcatholic.com/p/kc-archbishop-clarifies-wine-validity)
 * [2023-06-17, 14:21:59](https://news.ycombinator.com/item?id=36370396) - [Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
 * [2023-06-17, 14:04:54](https://news.ycombinator.com/item?id=36370257) - [They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
 * [2023-06-17, 14:01:06](https://news.ycombinator.com/item?id=36370225) - [Gitless a simple VCS built on top of Git](https://gitless.com/)

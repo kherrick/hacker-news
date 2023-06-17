@@ -85,6 +85,7 @@
 * [2023-06-16, 08:14:23](https://news.ycombinator.com/item?id=36353147) - [MD5 (Algorithm) in SQL](https://modern-sql.com/caniuse/MD5-algorithm)
 * [2023-06-16, 07:47:56](https://news.ycombinator.com/item?id=36352945) - [The SSL Certificate Issuer Field Is a Lie](https://www.agwa.name/blog/post/the_certificate_issuer_field_is_a_lie)
 * [2023-06-16, 07:15:58](https://news.ycombinator.com/item?id=36352686) - [Keys for unattended decryption of LUKS volumes are exposed during race condition](https://census-labs.com/news/2023/06/15/race-tang/)
+* [2023-06-16, 07:02:16](https://news.ycombinator.com/item?id=36352565) - [Failing to Fail](http://www.os2museum.com/wp/failing-to-fail/)
 * [2023-06-16, 07:00:13](https://news.ycombinator.com/item?id=36352549) - [MixRank (YC S11) Is Hiring Global Remote Software Engineers](https://news.ycombinator.com/item?id=36352549)
 * [2023-06-16, 07:00:02](https://news.ycombinator.com/item?id=36352547) - [OpenSSL 1.1.1 End of Life Approaching](https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/)
 * [2023-06-16, 06:34:54](https://news.ycombinator.com/item?id=36352347) - [Ask HN: Why would Google sell Google domains to Squarespace?](https://news.ycombinator.com/item?id=36352347)
