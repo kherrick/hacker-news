@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 13:23:39](https://news.ycombinator.com/item?id=36369966) - [Running Linux on the Asus ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 * [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
 * [2023-06-17, 12:00:14](https://news.ycombinator.com/item?id=36369468) - [MindsDB (YC W20) Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
@@ -16,7 +17,6 @@
 * [2023-06-17, 00:53:19](https://news.ycombinator.com/item?id=36366002) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 * [2023-06-16, 23:45:25](https://news.ycombinator.com/item?id=36365511) - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
 * [2023-06-16, 22:38:53](https://news.ycombinator.com/item?id=36364920) - [The Great When? A London-through-time quiz](https://www.monkeon.co.uk/the-great-when/)
-* [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
 * [2023-06-16, 19:01:47](https://news.ycombinator.com/item?id=36362042) - [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 * [2023-06-16, 18:52:06](https://news.ycombinator.com/item?id=36361857) - [Limits of Programmer Productivity: A lesson from Fred Brooks](https://pboyd.io/posts/productivity-limit/)
 * [2023-06-16, 17:49:38](https://news.ycombinator.com/item?id=36360789) - [Show HN: I made an open-source Notion-style WYSYWIG editor](https://novel.sh/)
