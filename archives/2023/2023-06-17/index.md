@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
+* [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
+* [2023-06-17, 12:00:14](https://news.ycombinator.com/item?id=36369468) - [MindsDB (YC W20) Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)
 * [2023-06-17, 11:09:29](https://news.ycombinator.com/item?id=36369109) - [The Guardian will now use generative AI](https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai)
 * [2023-06-17, 10:52:06](https://news.ycombinator.com/item?id=36369018) - [I don't need your query language](https://antonz.org/fancy-ql/)
 * [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
