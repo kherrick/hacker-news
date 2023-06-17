@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-06-17, 14:04:54",
+      "https://news.ycombinator.com/item?id=36370257"
+    ],
+    [
+      "They just pirated my open source 8088 BIOS",
+      "https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 13:47:17",
+      "https://news.ycombinator.com/item?id=36370108"
+    ],
+    [
+      "What Character Was Removed from the Alphabet?",
+      "https://www.dictionary.com/e/ampersand/"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 13:23:39",
       "https://news.ycombinator.com/item?id=36369966"
     ],
     [
       "Running Linux on the Asus ROG Ally Gaming Handheld",
       "https://www.phoronix.com/review/asus-rog-ally-linux"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 13:01:32",
+      "https://news.ycombinator.com/item?id=36369840"
+    ],
+    [
+      "15” MacBook Air Teardown",
+      "https://www.youtube.com/watch?v=nW7b0DmmKvQ"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 12:45:48",
+      "https://news.ycombinator.com/item?id=36369742"
+    ],
+    [
+      "Book of Proof by Richard Hammack",
+      "https://www.people.vcu.edu/~rhammack/BookOfProof/"
     ]
   ],
   [
@@ -61,16 +101,6 @@
   ],
   [
     [
-      "2023-06-17, 09:51:20",
-      "https://news.ycombinator.com/item?id=36368748"
-    ],
-    [
-      "Astronomy Picture of the Day is is 28 years old today",
-      "https://mastodon.social/@mcnees/110554495980083260"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 09:14:22",
       "https://news.ycombinator.com/item?id=36368586"
     ],
@@ -101,22 +131,22 @@
   ],
   [
     [
+      "2023-06-17, 04:19:23",
+      "https://news.ycombinator.com/item?id=36367241"
+    ],
+    [
+      "Reddit 1.0 was written in Lisp",
+      "https://github.com/reddit-archive/reddit1.0"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 04:01:48",
       "https://news.ycombinator.com/item?id=36367147"
     ],
     [
       "People Can Be Convinced They Committed a Crime That Never Happened",
       "https://www.psychologicalscience.org/news/releases/people-can-be-convinced-they-committed-a-crime-they-dont-remember.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 03:50:29",
-      "https://news.ycombinator.com/item?id=36367087"
-    ],
-    [
-      "What Kind of Asynchronous Is Right for You?",
-      "https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html"
     ]
   ],
   [
@@ -131,12 +161,12 @@
   ],
   [
     [
-      "2023-06-17, 01:10:53",
-      "https://news.ycombinator.com/item?id=36366137"
+      "2023-06-17, 01:07:00",
+      "https://news.ycombinator.com/item?id=36366106"
     ],
     [
-      "Humans have pumped enough groundwater to change the tilt of the Earth",
-      "https://e360.yale.edu/digest/groundwater-depletion-earths-axis"
+      "Smart Guy Productivity Pitfalls (2013)",
+      "https://waivek.github.io/website/tooltip.html"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2023-06-16, 17:49:38",
-      "https://news.ycombinator.com/item?id=36360789"
-    ],
-    [
-      "Show HN: I made an open-source Notion-style WYSYWIG editor",
-      "https://novel.sh/"
-    ]
-  ],
-  [
-    [
       "2023-06-16, 15:54:25",
       "https://news.ycombinator.com/item?id=36358754"
     ],
     [
       "Pricing Money: A beginner's guide to money, bonds, futures and swaps",
       "http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 15:49:34",
-      "https://news.ycombinator.com/item?id=36358672"
-    ],
-    [
-      "Surges of cosmic radiation from space directly linked to earthquakes",
-      "https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/"
     ]
   ],
   [
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2023-06-16, 09:37:26",
-      "https://news.ycombinator.com/item?id=36353865"
+      "2023-06-16, 10:20:46",
+      "https://news.ycombinator.com/item?id=36354213"
     ],
     [
-      "Control, escape, and meta tricks",
-      "https://susam.net/blog/control-escape-meta-tricks.html"
+      "Lingua Latina per se illustrata (2012)",
+      "https://arltblog.wordpress.com/lingua-latina-per-se-illustrata-hans-orberg/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The long story of how neural nets got to where they are [video]",
       "https://www.youtube.com/watch?v=XKC-4Tosdd8"
-    ]
-  ],
-  [
-    [
-      "2023-06-15, 12:10:14",
-      "https://news.ycombinator.com/item?id=36339322"
-    ],
-    [
-      "Decentralization and centralization in sociocratic organizations [pdf]",
-      "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni"
     ]
   ]
 ]
