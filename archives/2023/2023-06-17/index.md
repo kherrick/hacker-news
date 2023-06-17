@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 14:04:54](https://news.ycombinator.com/item?id=36370257) - [They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
+* [2023-06-17, 13:47:17](https://news.ycombinator.com/item?id=36370108) - [What Character Was Removed from the Alphabet?](https://www.dictionary.com/e/ampersand/)
 * [2023-06-17, 13:23:39](https://news.ycombinator.com/item?id=36369966) - [Running Linux on the Asus ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
+* [2023-06-17, 13:01:32](https://news.ycombinator.com/item?id=36369840) - [15” MacBook Air Teardown](https://www.youtube.com/watch?v=nW7b0DmmKvQ)
+* [2023-06-17, 12:45:48](https://news.ycombinator.com/item?id=36369742) - [Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 * [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
 * [2023-06-17, 12:00:14](https://news.ycombinator.com/item?id=36369468) - [MindsDB (YC W20) Is Hiring a Content Marketing Specialist](https://www.ycombinator.com/companies/mindsdb/jobs/xiHw6uY-content-marketing-specialist-developers-ai-field)

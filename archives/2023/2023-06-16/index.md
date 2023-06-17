@@ -74,6 +74,7 @@
 * [2023-06-16, 10:39:45](https://news.ycombinator.com/item?id=36354358) - [Stop Calling Each New Disaster “The New Normal”](https://thewalrus.ca/stop-calling-each-new-disaster-the-new-normal/)
 * [2023-06-16, 10:30:41](https://news.ycombinator.com/item?id=36354280) - [Annoying A/B testing mistakes every engineer should know](https://posthog.com/blog/ab-testing-mistakes)
 * [2023-06-16, 10:27:10](https://news.ycombinator.com/item?id=36354259) - [Probability and Markets by Jane Street [pdf]](https://www.janestreet.com/static/pdfs/trading-interview.pdf)
+* [2023-06-16, 10:20:46](https://news.ycombinator.com/item?id=36354213) - [Lingua Latina per se illustrata (2012)](https://arltblog.wordpress.com/lingua-latina-per-se-illustrata-hans-orberg/)
 * [2023-06-16, 10:00:42](https://news.ycombinator.com/item?id=36354049) - [DevOps Is Bullshit (2022)](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
 * [2023-06-16, 09:48:08](https://news.ycombinator.com/item?id=36353960) - [Throwing in the Towel on Mobile Linux](https://drewdevault.com/2023/06/16/Mobile-linux-retrospective.html)
 * [2023-06-16, 09:37:26](https://news.ycombinator.com/item?id=36353865) - [Control, Escape, and Meta Tricks](https://susam.net/blog/control-escape-meta-tricks.html)
