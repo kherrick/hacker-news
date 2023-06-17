@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 16:08:23](https://news.ycombinator.com/item?id=36371476) - [Google gets go-ahead to build 153-acre Bay Area neighborhood by headquarters](https://www.sfgate.com/tech/article/google-mountain-view-development-headquarters-18156676.php)
+* [2023-06-17, 15:59:59](https://news.ycombinator.com/item?id=36371378) - [Firefox 116 Should Have Experimental PipeWire Camera Support](https://www.phoronix.com/news/Firefox-116-PipeWire-Camera)
 * [2023-06-17, 15:59:52](https://news.ycombinator.com/item?id=36371376) - [Starlink v2 reached the brightness reduction target recommended by astronomers](https://arxiv.org/abs/2306.06657)
 * [2023-06-17, 15:58:34](https://news.ycombinator.com/item?id=36371358) - [Tell HN: Comcast/Xfinity is having a widespread DNS outage](https://news.ycombinator.com/item?id=36371358)
 * [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
@@ -15,6 +17,7 @@
 * [2023-06-17, 14:22:57](https://news.ycombinator.com/item?id=36370409) - [KC archbishop clarifies wine validity norms](https://www.pillarcatholic.com/p/kc-archbishop-clarifies-wine-validity)
 * [2023-06-17, 14:21:59](https://news.ycombinator.com/item?id=36370396) - [Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
 * [2023-06-17, 14:04:54](https://news.ycombinator.com/item?id=36370257) - [They just pirated my open source 8088 BIOS](https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267)
+* [2023-06-17, 14:01:45](https://news.ycombinator.com/item?id=36370232) - [Are ChatGPT and Other Similar Systems the Modern Lernaean Hydras of AI?](https://arxiv.org/abs/2306.09267)
 * [2023-06-17, 14:01:06](https://news.ycombinator.com/item?id=36370225) - [Gitless a simple VCS built on top of Git](https://gitless.com/)
 * [2023-06-17, 13:57:53](https://news.ycombinator.com/item?id=36370191) - [Flying the F-35 stealth fighter can leave pilots looking aged](https://www.businessinsider.com/f-35-test-pilots-intense-flying-top-us-fighter-jet-2023-6)
 * [2023-06-17, 13:47:17](https://news.ycombinator.com/item?id=36370108) - [What Character Was Removed from the Alphabet?](https://www.dictionary.com/e/ampersand/)
