@@ -2,9 +2,9 @@
 
 * [2023-06-17, 21:48:10](https://news.ycombinator.com/item?id=36375002) - [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+* [2023-06-17, 21:28:17](https://news.ycombinator.com/item?id=36374818) - [Google Limiting IO_uring Use Due to Security Vulnerabilities](https://www.phoronix.com/news/Google-Restricting-IO_uring)
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 20:52:09](https://news.ycombinator.com/item?id=36374467) - [Why Your Roses Smell Nice](https://worldsensorium.com/why-your-roses-smell-nice/)
-* [2023-06-17, 20:31:22](https://news.ycombinator.com/item?id=36374255) - [Data Falsificada (Part 1): “Clusterfake” – Data Colada](https://datacolada.org/109)
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
 * [2023-06-17, 18:28:58](https://news.ycombinator.com/item?id=36372987) - [2D Solar Cells Poised to Set Power-per-Weight Record](https://spectrum.ieee.org/solar-cells)
