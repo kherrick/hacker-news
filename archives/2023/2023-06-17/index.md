@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
 * [2023-06-17, 17:26:53](https://news.ycombinator.com/item?id=36372287) - [EU planning more legislation to make the internet more expensive and crappier](https://www.eff.org/deeplinks/2023/06/there-nothing-fair-about-european-commissions-fair-share-proposal)
+* [2023-06-17, 17:17:27](https://news.ycombinator.com/item?id=36372194) - [An Anomalous Wire at the Site of the First Interstellar Meteor](https://avi-loeb.medium.com/an-anomalous-wire-made-of-manganese-and-platinum-in-the-pacific-ocean-site-of-the-first-3ccb7076dfc0)
 * [2023-06-17, 17:01:51](https://news.ycombinator.com/item?id=36372044) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36372044)
 * [2023-06-17, 16:50:22](https://news.ycombinator.com/item?id=36371936) - [Florida has banned direct-to-consumer auto sales, but Tesla and co get a pass](https://www.theverge.com/2023/6/17/23764510/florida-has-banned-direct-to-consumer-auto-sales-but-electric-only-automakers-get-a-pass)
 * [2023-06-17, 16:25:32](https://news.ycombinator.com/item?id=36371651) - [Are Chiplets Enough to Save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)

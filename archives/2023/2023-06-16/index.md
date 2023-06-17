@@ -14,6 +14,7 @@
 * [2023-06-16, 21:30:27](https://news.ycombinator.com/item?id=36364182) - [Ask HN: What do you put in a “in case of death” file?](https://news.ycombinator.com/item?id=36364182)
 * [2023-06-16, 21:28:05](https://news.ycombinator.com/item?id=36364151) - [Sacrifice the first 13 years of your life to Google for 2M](https://gigatexal.blog/pages/what-i-wish-i-did-financially-in-my-20s/what-i-wish-i-did-financially-in-my-20s.html)
 * [2023-06-16, 21:02:35](https://news.ycombinator.com/item?id=36363818) - [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena](https://twitter.com/lmsysorg/status/1669779889275408385)
+* [2023-06-16, 20:55:24](https://news.ycombinator.com/item?id=36363718) - [How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
 * [2023-06-16, 20:26:57](https://news.ycombinator.com/item?id=36363332) - [Reddit CEO slams moderators amid blackout, compares them to aristocracy](https://www.washingtonpost.com/technology/2023/06/16/reddit-ceo-blackout-moderators-steve-huffman/)
 * [2023-06-16, 20:26:33](https://news.ycombinator.com/item?id=36363327) - [GMP servers are under DoS attack from Microsoft[-owned IP addresses]](https://gmplib.org/list-archives/gmp-devel/2023-June/006161.html)
 * [2023-06-16, 20:15:15](https://news.ycombinator.com/item?id=36363192) - [Apple subreddit reopens after moderation team threatened with removal](https://appleinsider.com/articles/23/06/16/apple-subreddit-reopens-after-entire-moderation-team-was-threatened-with-removal)
