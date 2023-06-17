@@ -5,7 +5,6 @@
 * [2023-06-17, 15:59:52](https://news.ycombinator.com/item?id=36371376) - [Starlink v2 reached the brightness reduction target recommended by astronomers](https://arxiv.org/abs/2306.06657)
 * [2023-06-17, 15:58:34](https://news.ycombinator.com/item?id=36371358) - [Tell HN: Comcast/Xfinity is having a widespread DNS outage](https://news.ycombinator.com/item?id=36371358)
 * [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
-* [2023-06-17, 14:56:12](https://news.ycombinator.com/item?id=36370725) - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
 * [2023-06-17, 14:51:26](https://news.ycombinator.com/item?id=36370684) - [Ask HN: What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
 * [2023-06-17, 14:38:12](https://news.ycombinator.com/item?id=36370555) - [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
 * [2023-06-17, 14:22:57](https://news.ycombinator.com/item?id=36370409) - [KC archbishop clarifies wine validity norms](https://www.pillarcatholic.com/p/kc-archbishop-clarifies-wine-validity)
@@ -30,6 +29,7 @@
 * [2023-06-16, 07:02:16](https://news.ycombinator.com/item?id=36352565) - [Failing to Fail](http://www.os2museum.com/wp/failing-to-fail/)
 * [2023-06-16, 04:31:37](https://news.ycombinator.com/item?id=36351277) - [Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
 * [2023-06-16, 03:10:24](https://news.ycombinator.com/item?id=36350655) - [Hello, Perceptron: An introduction to artificial neural networks](https://matt.might.net/articles/hello-perceptron/)
+* [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
 
 ## [Archives](archives/index.md)
 
