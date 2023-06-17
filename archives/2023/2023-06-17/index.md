@@ -8,6 +8,7 @@
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
 * [2023-06-17, 07:01:11](https://news.ycombinator.com/item?id=36367987) - [Bitmovin (YC S15) Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
+* [2023-06-17, 05:57:17](https://news.ycombinator.com/item?id=36367685) - [All 'The Office' Filming Locations Addresses](https://whimsysoul.com/all-the-office-filming-locations-we-found-dunder-mifflin-it-was-the-best-day-of-my-life/)
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 * [2023-06-17, 04:50:29](https://news.ycombinator.com/item?id=36367391) - [I wish JSON5 was more popular](https://evertpot.com/json5/)
 * [2023-06-17, 04:19:23](https://news.ycombinator.com/item?id=36367241) - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
