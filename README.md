@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
 * [2023-06-17, 07:01:11](https://news.ycombinator.com/item?id=36367987) - [Bitmovin (YC S15) Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
 * [2023-06-17, 04:19:23](https://news.ycombinator.com/item?id=36367241) - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
 * [2023-06-17, 03:50:29](https://news.ycombinator.com/item?id=36367087) - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
@@ -11,6 +12,7 @@
 * [2023-06-16, 22:38:53](https://news.ycombinator.com/item?id=36364920) - [The Great When? A London-through-time quiz](https://www.monkeon.co.uk/the-great-when/)
 * [2023-06-16, 21:30:27](https://news.ycombinator.com/item?id=36364182) - [Ask HN: What do you put in a “in case of death” file?](https://news.ycombinator.com/item?id=36364182)
 * [2023-06-16, 20:09:46](https://news.ycombinator.com/item?id=36363110) - [Every Louisiana driver's license holder exposed in cyberattack](https://www.theguardian.com/us-news/2023/jun/16/louisiana-drivers-license-hack-cyber-attack)
+* [2023-06-16, 19:12:14](https://news.ycombinator.com/item?id=36362225) - [Why did Nix adopt Flakes?](https://www.jetpack.io/blog/why-did-nix-adopt-flakes/)
 * [2023-06-16, 19:01:47](https://news.ycombinator.com/item?id=36362042) - [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 * [2023-06-16, 18:54:44](https://news.ycombinator.com/item?id=36361906) - [Deep Learning’s Diminishing Returns (2021)](https://spectrum.ieee.org/deep-learning-computational-cost)
 * [2023-06-16, 18:52:06](https://news.ycombinator.com/item?id=36361857) - [Limits of Programmer Productivity: A lesson from Fred Brooks](https://pboyd.io/posts/productivity-limit/)
@@ -18,9 +20,6 @@
 * [2023-06-16, 18:02:31](https://news.ycombinator.com/item?id=36360980) - [John Carmack on shorter work weeks (2016)](https://news.ycombinator.com/item?id=10845832)
 * [2023-06-16, 17:49:38](https://news.ycombinator.com/item?id=36360789) - [Show HN: I made an open-source Notion-style WYSYWIG editor](https://novel.sh/)
 * [2023-06-16, 17:01:36](https://news.ycombinator.com/item?id=36360018) - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
-* [2023-06-16, 16:56:21](https://news.ycombinator.com/item?id=36359925) - [Hexyl: A command-line hex viewer with colorized output](https://github.com/sharkdp/hexyl)
-* [2023-06-16, 16:49:56](https://news.ycombinator.com/item?id=36359798) - [Requiem for a bank loan](https://www.bitsaboutmoney.com/archive/requiem-for-a-bank-loan/)
-* [2023-06-16, 16:43:26](https://news.ycombinator.com/item?id=36359652) - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 * [2023-06-16, 15:54:25](https://news.ycombinator.com/item?id=36358754) - [Pricing Money: A beginner's guide to money, bonds, futures and swaps](http://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html)
 * [2023-06-16, 15:49:34](https://news.ycombinator.com/item?id=36358672) - [Surges of cosmic radiation from space directly linked to earthquakes](https://www.earth.com/news/breakthrough-surges-of-cosmic-radiation-from-space-directly-linked-to-earthquakes/)
 * [2023-06-16, 14:13:03](https://news.ycombinator.com/item?id=36356876) - [Full Time](https://www.marginalia.nu/log/83_full_time/)
@@ -30,6 +29,7 @@
 * [2023-06-15, 22:00:20](https://news.ycombinator.com/item?id=36347229) - [The long story of how neural nets got to where they are [video]](https://www.youtube.com/watch?v=XKC-4Tosdd8)
 * [2023-06-15, 12:58:00](https://news.ycombinator.com/item?id=36339800) - [Creating a positive lab culture (2020)](http://mis-misinformation.blogspot.com/2020/06/creating-positive-lab-culture.html)
 * [2023-06-15, 12:10:14](https://news.ycombinator.com/item?id=36339322) - [Decentralization and centralization in sociocratic organizations [pdf]](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1038&context=joni)
+* [2023-06-15, 00:06:07](https://news.ycombinator.com/item?id=36334675) - [Remembering Robert Gottlieb, editor extraordinaire](https://www.newyorker.com/magazine/2023/06/26/remembering-robert-gottlieb-editor-extraordinaire)
 
 ## [Archives](archives/index.md)
 
