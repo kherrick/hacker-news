@@ -6,6 +6,7 @@
 
 * [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
 * [2023-06-17, 14:56:12](https://news.ycombinator.com/item?id=36370725) - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
+* [2023-06-17, 14:51:26](https://news.ycombinator.com/item?id=36370684) - [Ask HN: What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
 * [2023-06-17, 14:38:12](https://news.ycombinator.com/item?id=36370555) - [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
 * [2023-06-17, 14:27:52](https://news.ycombinator.com/item?id=36370460) - [Four alarming charts that show just how extreme the climate is](https://www.cnn.com/2023/06/17/world/four-climate-charts-extreme-weather-heat-oceans/index.html)
 * [2023-06-17, 14:22:57](https://news.ycombinator.com/item?id=36370409) - [KC archbishop clarifies wine validity norms](https://www.pillarcatholic.com/p/kc-archbishop-clarifies-wine-validity)

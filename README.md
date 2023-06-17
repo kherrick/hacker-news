@@ -2,6 +2,7 @@
 
 * [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
 * [2023-06-17, 14:56:12](https://news.ycombinator.com/item?id=36370725) - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
+* [2023-06-17, 14:51:26](https://news.ycombinator.com/item?id=36370684) - [Ask HN: What are some of the most elegant codebases in your favorite language?](https://news.ycombinator.com/item?id=36370684)
 * [2023-06-17, 14:38:12](https://news.ycombinator.com/item?id=36370555) - [Open Source-Based Over-the-Air 5G New Radio Sidelink Testbed](https://arxiv.org/abs/2306.09286)
 * [2023-06-17, 14:22:57](https://news.ycombinator.com/item?id=36370409) - [KC archbishop clarifies wine validity norms](https://www.pillarcatholic.com/p/kc-archbishop-clarifies-wine-validity)
 * [2023-06-17, 14:21:59](https://news.ycombinator.com/item?id=36370396) - [Show HN: State Trooper – Tiny, no frills state machine for Go](https://github.com/hishamk/statetrooper)
@@ -21,7 +22,6 @@
 * [2023-06-17, 04:01:48](https://news.ycombinator.com/item?id=36367147) - [People Can Be Convinced They Committed a Crime That Never Happened](https://www.psychologicalscience.org/news/releases/people-can-be-convinced-they-committed-a-crime-they-dont-remember.html)
 * [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
 * [2023-06-17, 00:53:19](https://news.ycombinator.com/item?id=36366002) - [Merging bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
-* [2023-06-16, 22:38:53](https://news.ycombinator.com/item?id=36364920) - [The Great When? A London-through-time quiz](https://www.monkeon.co.uk/the-great-when/)
 * [2023-06-16, 19:01:47](https://news.ycombinator.com/item?id=36362042) - [Daniel Ellsberg has died](https://www.nytimes.com/2023/06/16/us/daniel-ellsberg-dead.html)
 * [2023-06-16, 18:52:06](https://news.ycombinator.com/item?id=36361857) - [Limits of Programmer Productivity: A lesson from Fred Brooks](https://pboyd.io/posts/productivity-limit/)
 * [2023-06-16, 08:34:52](https://news.ycombinator.com/item?id=36353322) - [Basics of Proofs [pdf]](https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf)
