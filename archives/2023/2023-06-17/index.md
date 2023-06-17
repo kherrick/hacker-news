@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-17](index.md)
 
+* [2023-06-17, 07:01:11](https://news.ycombinator.com/item?id=36367987) - [Bitmovin (YC S15) Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
 * [2023-06-17, 04:50:29](https://news.ycombinator.com/item?id=36367391) - [I wish JSON5 was more popular](https://evertpot.com/json5/)
 * [2023-06-17, 04:19:23](https://news.ycombinator.com/item?id=36367241) - [Reddit 1.0 was written in Lisp](https://github.com/reddit-archive/reddit1.0)
 * [2023-06-17, 03:50:29](https://news.ycombinator.com/item?id=36367087) - [What Kind of Asynchronous Is Right for You?](https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html)
