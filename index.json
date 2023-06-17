@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-06-16, 18:52:08",
+      "https://news.ycombinator.com/item?id=36361858"
+    ],
+    [
+      "Porting Python and Pwnlib Code to Ronin Quick Refs",
+      "https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html"
+    ]
+  ],
+  [
+    [
       "2023-06-16, 17:46:19",
       "https://news.ycombinator.com/item?id=36360740"
     ],
@@ -287,16 +297,6 @@
     [
       "Planescape: Torment pitch document (1997) [pdf]",
       "https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 03:10:24",
-      "https://news.ycombinator.com/item?id=36350655"
-    ],
-    [
-      "Hello, Perceptron: An introduction to artificial neural networks",
-      "https://matt.might.net/articles/hello-perceptron/"
     ]
   ]
 ]
