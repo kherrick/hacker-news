@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-17, 03:26:32](https://news.ycombinator.com/item?id=36366961) - [Crypto startup Wyre, once valued at $1.5B, officially shuts down](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/06/16/crypto-startup-wyre-officially-shuts-down.html?page=all)
+* [2023-06-17, 01:17:12](https://news.ycombinator.com/item?id=36366179) - [Poop: Performance Optimizer Observation Platform](https://github.com/andrewrk/poop)
 * [2023-06-17, 01:10:53](https://news.ycombinator.com/item?id=36366137) - [Humans have pumped enough groundwater to change the tilt of the Earth](https://e360.yale.edu/digest/groundwater-depletion-earths-axis)
 * [2023-06-17, 01:07:00](https://news.ycombinator.com/item?id=36366106) - [Smart Guy Productivity Pitfalls (2013)](https://waivek.github.io/website/tooltip.html)
 * [2023-06-17, 01:01:48](https://news.ycombinator.com/item?id=36366062) - [Generally Intelligent (YC S17) Is Hiring a Chief of Staff](https://news.ycombinator.com/item?id=36366062)
