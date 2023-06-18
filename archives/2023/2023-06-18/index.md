@@ -8,6 +8,7 @@
 * [2023-06-18, 15:35:33](https://news.ycombinator.com/item?id=36381189) - [Gas Stoves Emit Benzene and Increases Indoor Air Pollution](https://pubs.acs.org/doi/10.1021/acs.est.2c09289#)
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [AzireVPN now supports port-forwarding (WireGuard)](https://blog.azirevpn.com/port-forwarding/)
 * [2023-06-18, 15:34:32](https://news.ycombinator.com/item?id=36381177) - [Hexa Lift: Single person drone](https://www.liftaircraft.com)
+* [2023-06-18, 15:29:02](https://news.ycombinator.com/item?id=36381136) - [OpenLLaMA 13B Released](https://huggingface.co/openlm-research/open_llama_13b)
 * [2023-06-18, 14:43:52](https://news.ycombinator.com/item?id=36380726) - [In a surprising twist, I just received a second $100k sponsorship for Ladybird](https://twitter.com/awesomekling/status/1670440822129532928)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [2023-06-18, 14:41:05](https://news.ycombinator.com/item?id=36380690) - [Political Polarization Comes for Marriage Prospects](https://www.theatlantic.com/ideas/archive/2023/06/us-marriage-rate-different-political-views/674358/)
