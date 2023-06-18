@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 14:31:42](https://news.ycombinator.com/item?id=36380592) - [Time-Lock Puzzles in the Random Oracle Model (2011)](https://people.seas.harvard.edu/~salil/research/timelock-abs.html)
 * [2023-06-18, 13:53:33](https://news.ycombinator.com/item?id=36380325) - [The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
 * [2023-06-18, 13:43:49](https://news.ycombinator.com/item?id=36380240) - [Poor Man's Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
@@ -28,7 +29,6 @@
 * [2023-06-17, 10:04:33](https://news.ycombinator.com/item?id=36368812) - [Implementing a Personal Transportation Hierarchy](https://collindonnell.com/implementing-a-personal-transportation-hierarchy)
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
 * [2023-06-16, 23:54:58](https://news.ycombinator.com/item?id=36365595) - [Arduino reads punched cards for cloud computing](https://blog.arduino.cc/2023/06/16/this-arduino-reads-punch-cards-for-cloud-computing/)
-* [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
 * [2023-06-16, 17:25:51](https://news.ycombinator.com/item?id=36360446) - [Scenarios versus OO Requirements](https://bertrandmeyer.com/2023/06/15/new-article-scenarios-versus-oo-requirements/)
 
 ## [Archives](archives/index.md)
