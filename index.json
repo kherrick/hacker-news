@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2023-06-18, 07:00:20",
-      "https://news.ycombinator.com/item?id=36377979"
+      "2023-06-18, 06:55:27",
+      "https://news.ycombinator.com/item?id=36377954"
     ],
     [
-      "Color Space Experiments",
-      "https://jlongster.com/color-space-experiments"
+      "Apple Vision Pro – Hardware Issues",
+      "https://kguttag.com/2023/06/16/apple-vision-pro-part-2-hardware-issues/"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "A History Of Nvidia Stream Multiprocessor",
       "https://fabiensanglard.net/cuda/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 02:11:30",
-      "https://news.ycombinator.com/item?id=36376687"
-    ],
-    [
-      "Show HN: Follow every MLB game. Real time. New score alerts",
-      "https://mlb.watchbotapp.com"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Measuring blood pressure for less than a dollar using a phone",
       "https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 17:15:44",
+      "https://news.ycombinator.com/item?id=36360247"
+    ],
+    [
+      "When are containers or serverless a red flag?",
+      "https://www.infoworld.com/article/3698289/when-are-containers-or-serverless-a-red-flag-for-a-cloud-project.html"
     ]
   ]
 ]
