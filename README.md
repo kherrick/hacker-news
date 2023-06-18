@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
+* [2023-06-18, 16:14:52](https://news.ycombinator.com/item?id=36381556) - [Texas rules requiring water breaks for construction workers will be nullified](https://www.texastribune.org/2023/06/16/texas-heat-wave-water-break-construction-workers/)
 * [2023-06-18, 15:53:55](https://news.ycombinator.com/item?id=36381358) - [The Israeli weapons and spyware falling into the hands of despots](https://www.ft.com/content/a70a4460-0267-4a8a-8612-a6f6c187a3c6)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Archives.design: curated graphic design from Internet Archive](https://archives.design)
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [Port forwarding](https://blog.azirevpn.com/port-forwarding/)
@@ -19,7 +21,6 @@
 * [2023-06-18, 10:10:59](https://news.ycombinator.com/item?id=36378829) - [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
 * [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
 * [2023-06-18, 07:42:02](https://news.ycombinator.com/item?id=36378137) - [Keygen Library Player (4504 tracks)](https://cable.ayra.ch/webxmp/)
-* [2023-06-18, 07:04:08](https://news.ycombinator.com/item?id=36377995) - [How to Read and Organize Online Articles (Without Driving Yourself Crazy) (2013)](https://www.gregoryciotti.com/reading-organization/)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
@@ -28,7 +29,6 @@
 * [2023-06-17, 10:04:33](https://news.ycombinator.com/item?id=36368812) - [Implementing a Personal Transportation Hierarchy](https://collindonnell.com/implementing-a-personal-transportation-hierarchy)
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
 * [2023-06-17, 05:08:58](https://news.ycombinator.com/item?id=36367491) - [Neural networks need data to learn, even if it’s fake](https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/)
-* [2023-06-16, 23:54:58](https://news.ycombinator.com/item?id=36365595) - [Arduino reads punched cards for cloud computing](https://blog.arduino.cc/2023/06/16/this-arduino-reads-punch-cards-for-cloud-computing/)
 * [2023-06-16, 17:25:51](https://news.ycombinator.com/item?id=36360446) - [Scenarios versus OO Requirements](https://bertrandmeyer.com/2023/06/15/new-article-scenarios-versus-oo-requirements/)
 
 ## [Archives](archives/index.md)
