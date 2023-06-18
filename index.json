@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-18, 13:03:19",
+      "https://news.ycombinator.com/item?id=36379930"
+    ],
+    [
+      "Bugs – opinionated Jira CLI for those of us who hate Jira",
+      "https://github.com/reddit/bugs"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 12:42:40",
+      "https://news.ycombinator.com/item?id=36379767"
+    ],
+    [
+      "Police got called to an overcrowded presentation on “rejuvenation” technology",
+      "https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 12:26:09",
       "https://news.ycombinator.com/item?id=36379615"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-06-18, 02:49:17",
-      "https://news.ycombinator.com/item?id=36376872"
-    ],
-    [
-      "A History Of Nvidia Stream Multiprocessor",
-      "https://fabiensanglard.net/cuda/index.html"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 02:08:10",
       "https://news.ycombinator.com/item?id=36376669"
     ],
@@ -287,16 +297,6 @@
     [
       "Measuring blood pressure for less than a dollar using a phone",
       "https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 17:27:52",
-      "https://news.ycombinator.com/item?id=36360482"
-    ],
-    [
-      "Peplum: F/OSS Parallel Computing and Supercomputing with Ruby Infrastructure",
-      "https://news.slashdot.org/story/23/05/27/067247/peplum-foss-distributed-parallel-computing-and-supercomputing-at-home-with-ruby-infrastructure"
     ]
   ]
 ]
