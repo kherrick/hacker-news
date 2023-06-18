@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 13:16:37",
+      "https://news.ycombinator.com/item?id=36380024"
+    ],
+    [
+      "Most tech content is bullshit",
+      "https://www.aleksandra.codes/tech-content-consumer"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 13:03:19",
       "https://news.ycombinator.com/item?id=36379930"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36379615"
     ],
     [
-      "Follow up to “I booted Linux 292,612 times”",
+      "Follow up to “I booted Linux 293k times”",
       "https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/"
     ]
   ],
@@ -117,16 +127,6 @@
     [
       "How to Read and Organize Online Articles (Without Driving Yourself Crazy) (2013)",
       "https://www.gregoryciotti.com/reading-organization/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 06:55:27",
-      "https://news.ycombinator.com/item?id=36377954"
-    ],
-    [
-      "Apple Vision Pro – Hardware Issues",
-      "https://kguttag.com/2023/06/16/apple-vision-pro-part-2-hardware-issues/"
     ]
   ],
   [
@@ -231,22 +231,22 @@
   ],
   [
     [
-      "2023-06-17, 22:35:53",
-      "https://news.ycombinator.com/item?id=36375409"
-    ],
-    [
-      "The Rot Economy",
-      "https://wheresyoured.at/p/the-rot-economy"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 21:40:33",
       "https://news.ycombinator.com/item?id=36374936"
     ],
     [
       "The Secret Sauce behind 100K context window in LLMs: all tricks in one place",
       "https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 16:26:38",
+      "https://news.ycombinator.com/item?id=36371661"
+    ],
+    [
+      "How to Create a UTF-16 Surrogate Pair by Hand, with Python",
+      "https://www.oilshell.org/blog/2023/06/surrogate-pair.html"
     ]
   ],
   [
