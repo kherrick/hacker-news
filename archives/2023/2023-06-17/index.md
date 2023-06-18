@@ -6,6 +6,7 @@
 
 * [2023-06-17, 23:58:20](https://news.ycombinator.com/item?id=36375992) - [Congress is racing to regulate AI. Silicon Valley is eager to teach them how](https://www.washingtonpost.com/technology/2023/06/17/congress-regulating-ai-schumer/)
 * [2023-06-17, 23:57:10](https://news.ycombinator.com/item?id=36375984) - [Bernoulli Family](https://en.wikipedia.org/wiki/Bernoulli_family)
+* [2023-06-17, 23:13:31](https://news.ycombinator.com/item?id=36375690) - [Noam Chomsky on Language, Left Libertarianism, and Progress](https://conversationswithtyler.com/episodes/noam-chomsky/)
 * [2023-06-17, 23:09:02](https://news.ycombinator.com/item?id=36375660) - [The Risks of Staying Put](https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/)
 * [2023-06-17, 22:55:35](https://news.ycombinator.com/item?id=36375589) - [It's Companies' Fault we don't want to Return to the Office](https://innovationnation.blog/p/its-companies-fault-we-dont-want)
 * [2023-06-17, 22:54:08](https://news.ycombinator.com/item?id=36375582) - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
