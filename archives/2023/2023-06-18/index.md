@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 11:03:42](https://news.ycombinator.com/item?id=36379094) - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
 * [2023-06-18, 10:10:59](https://news.ycombinator.com/item?id=36378829) - [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
 * [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
 * [2023-06-18, 07:49:45](https://news.ycombinator.com/item?id=36378167) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
