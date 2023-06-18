@@ -12,6 +12,7 @@
 * [2023-06-18, 07:00:20](https://news.ycombinator.com/item?id=36377979) - [Color Space Experiments](https://jlongster.com/color-space-experiments)
 * [2023-06-18, 06:55:27](https://news.ycombinator.com/item?id=36377954) - [Apple Vision Pro – Hardware Issues](https://kguttag.com/2023/06/16/apple-vision-pro-part-2-hardware-issues/)
 * [2023-06-18, 06:54:48](https://news.ycombinator.com/item?id=36377953) - [W3C and My RSS Spec](http://scripting.com/2023/06/17/193133.html)
+* [2023-06-18, 06:46:34](https://news.ycombinator.com/item?id=36377920) - [Show HN: Dots and Boxes in Elm](https://www.martincapodici.com/elm/dotsandboxes/)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 * [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [Andreas Kling – “I have received a $100k sponsorship for Ladybird browser”](https://twitter.com/awesomekling/status/1670298370550779905)
 * [2023-06-18, 06:14:08](https://news.ycombinator.com/item?id=36377778) - [Complex Systems Won’t Survive the Competence Crisis](https://www.palladiummag.com/2023/06/01/complex-systems-wont-survive-the-competence-crisis/)
