@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 17:55:23](https://news.ycombinator.com/item?id=36382578) - [I left the startup I founded. This is how I feel](https://www.aquiles.me/how-it-feels-quitting-your-own-startup/)
+* [2023-06-18, 17:49:56](https://news.ycombinator.com/item?id=36382514) - [Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks [pdf]](https://www.usenix.org/system/files/sec22-feng.pdf)
+* [2023-06-18, 17:44:34](https://news.ycombinator.com/item?id=36382462) - [Examples of Post-Growth Practices](https://postgrowthguide.notion.site/20-cases-of-Post-Growth-Practices-dd67efd4c7304df7b6a5ed59cab4ac8e)
+* [2023-06-18, 17:34:01](https://news.ycombinator.com/item?id=36382361) - [Goodbye, Twilio](https://blog.miguelgrinberg.com/post/goodbye-twilio)
+* [2023-06-18, 17:20:32](https://news.ycombinator.com/item?id=36382244) - [Apple Earthquake Survival Kit 1986](https://archive.org/details/apple-earthquake-survival-kit-1986)
 * [2023-06-18, 16:40:39](https://news.ycombinator.com/item?id=36381823) - [Ask HN: If Google Workspace/Gsuite disappeared tomorrow, where would you go?](https://news.ycombinator.com/item?id=36381823)
 * [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
 * [2023-06-18, 16:14:52](https://news.ycombinator.com/item?id=36381556) - [Texas rules requiring water breaks for construction workers will be nullified](https://www.texastribune.org/2023/06/16/texas-heat-wave-water-break-construction-workers/)
@@ -14,6 +19,7 @@
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [AzireVPN now supports port-forwarding (WireGuard)](https://blog.azirevpn.com/port-forwarding/)
 * [2023-06-18, 15:34:32](https://news.ycombinator.com/item?id=36381177) - [Hexa Lift: Single person drone](https://www.liftaircraft.com)
 * [2023-06-18, 15:29:02](https://news.ycombinator.com/item?id=36381136) - [OpenLLaMA 13B Released](https://huggingface.co/openlm-research/open_llama_13b)
+* [2023-06-18, 15:19:12](https://news.ycombinator.com/item?id=36381054) - [JavaScript modifying cut and paste can sometimes be a good thing in browsers](https://utcc.utoronto.ca/~cks/space/blog/web/BrowserSmartCutPasteCanBeGood)
 * [2023-06-18, 14:43:52](https://news.ycombinator.com/item?id=36380726) - [In a surprising twist, I just received a second $100k sponsorship for Ladybird](https://twitter.com/awesomekling/status/1670440822129532928)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [2023-06-18, 14:41:05](https://news.ycombinator.com/item?id=36380690) - [Political Polarization Comes for Marriage Prospects](https://www.theatlantic.com/ideas/archive/2023/06/us-marriage-rate-different-political-views/674358/)
