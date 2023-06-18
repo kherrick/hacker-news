@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [AzireVPN now supports port-forwarding (WireGuard)](https://blog.azirevpn.com/port-forwarding/)
 * [2023-06-18, 14:43:52](https://news.ycombinator.com/item?id=36380726) - [In a surprising twist, I just received a second $100k sponsorship for Ladybird](https://twitter.com/awesomekling/status/1670440822129532928)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [2023-06-18, 14:41:05](https://news.ycombinator.com/item?id=36380690) - [Political Polarization Comes for Marriage Prospects](https://www.theatlantic.com/ideas/archive/2023/06/us-marriage-rate-different-political-views/674358/)
