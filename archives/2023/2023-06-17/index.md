@@ -43,6 +43,7 @@
 * [2023-06-17, 15:58:34](https://news.ycombinator.com/item?id=36371358) - [Tell HN: Comcast/Xfinity is having a widespread DNS outage](https://news.ycombinator.com/item?id=36371358)
 * [2023-06-17, 15:48:48](https://news.ycombinator.com/item?id=36371237) - [Don’t Talk to Police](https://www.youtube.com/watch?v=d-7o9xYp7eE)
 * [2023-06-17, 15:41:12](https://news.ycombinator.com/item?id=36371168) - [Show HN: Text a Photo to Send as a Postcard Anywhere on Earth for $3](https://postcardbot.com/)
+* [2023-06-17, 15:16:39](https://news.ycombinator.com/item?id=36370926) - [Three Reviews of J. Weizenbaum’s Computer Power and Human Reason (1976) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA044713.pdf)
 * [2023-06-17, 15:06:12](https://news.ycombinator.com/item?id=36370817) - [Japanese biomass venture using microorganisms to tackle waste disposal](https://mainichi.jp/english/articles/20230428/p2g/00m/0bu/057000c)
 * [2023-06-17, 14:56:12](https://news.ycombinator.com/item?id=36370725) - [Ask HN: Has Google search switched to infinite scrolling for you too now?](https://news.ycombinator.com/item?id=36370725)
 * [2023-06-17, 14:54:01](https://news.ycombinator.com/item?id=36370709) - [White supremacist changes beliefs after taking MDMA for a study](https://www.insider.com/white-supremacist-took-mdma-renounces-beliefs-study-2023-6)
