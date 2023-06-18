@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 22:25:10",
+      "https://news.ycombinator.com/item?id=36385163"
+    ],
+    [
+      "The Linux Kernel has jiffies",
+      "https://github.com/torvalds/linux/blob/45a3e24f65e90a047bef86f927ebdc4c710edaa1/kernel/time/jiffies.c"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 22:07:39",
       "https://news.ycombinator.com/item?id=36385032"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-06-18, 14:35:47",
-      "https://news.ycombinator.com/item?id=36380636"
-    ],
-    [
-      "Moldable Live Programming for Clojure",
-      "https://github.com/nextjournal/clerk"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 13:44:10",
       "https://news.ycombinator.com/item?id=36380247"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-06-17, 20:39:26",
+      "https://news.ycombinator.com/item?id=36374334"
+    ],
+    [
+      "You're neither in control nor responsible for their failures",
+      "https://www.sudarkoff.blog/p/youre-neither-in-control-nor-responsible"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 17:15:06",
       "https://news.ycombinator.com/item?id=36372176"
     ],
@@ -277,16 +287,6 @@
     [
       "Rewilding the planet: An archipelago constructed of sand is bringing new life",
       "https://www.nature.com/immersive/d41586-023-01370-w/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 05:08:58",
-      "https://news.ycombinator.com/item?id=36367491"
-    ],
-    [
-      "Neural networks need data to learn, even if it’s fake",
-      "https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/"
     ]
   ],
   [
