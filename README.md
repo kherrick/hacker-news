@@ -26,8 +26,8 @@
 * [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: Free software media system](https://github.com/jellyfin/jellyfin)
 * [2023-06-18, 07:42:02](https://news.ycombinator.com/item?id=36378137) - [Keygen Library Player (4504 tracks)](https://cable.ayra.ch/webxmp/)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
+* [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
-* [2023-06-17, 17:15:06](https://news.ycombinator.com/item?id=36372176) - [Can you just move into an abandoned house?](https://www.quora.com/Is-it-okay-to-go-into-abandoned-houses)
 * [2023-06-17, 07:10:59](https://news.ycombinator.com/item?id=36368027) - [Rewilding the planet: An archipelago constructed of sand is bringing new life](https://www.nature.com/immersive/d41586-023-01370-w/index.html)
 * [2023-06-17, 05:08:58](https://news.ycombinator.com/item?id=36367491) - [Neural networks need data to learn, even if it’s fake](https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/)
 
