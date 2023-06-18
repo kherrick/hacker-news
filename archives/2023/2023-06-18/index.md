@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 12:26:09](https://news.ycombinator.com/item?id=36379615) - [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 * [2023-06-18, 11:42:16](https://news.ycombinator.com/item?id=36379265) - [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 * [2023-06-18, 11:04:52](https://news.ycombinator.com/item?id=36379099) - [Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
 * [2023-06-18, 11:03:42](https://news.ycombinator.com/item?id=36379094) - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
