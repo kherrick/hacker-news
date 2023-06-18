@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-18, 15:51:18",
+      "https://news.ycombinator.com/item?id=36381330"
+    ],
+    [
+      "Archives.design: curated graphic design from Internet Archive",
+      "https://archives.design"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 15:35:33",
+      "https://news.ycombinator.com/item?id=36381189"
+    ],
+    [
+      "Gas Stoves Emit Benzene and Increases Indoor Air Pollution",
+      "https://pubs.acs.org/doi/10.1021/acs.est.2c09289#"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 15:34:47",
       "https://news.ycombinator.com/item?id=36381181"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2023-06-18, 14:43:52",
-      "https://news.ycombinator.com/item?id=36380726"
+      "2023-06-18, 15:34:32",
+      "https://news.ycombinator.com/item?id=36381177"
     ],
     [
-      "In a surprising twist, I just received a second $100k sponsorship for Ladybird",
-      "https://twitter.com/awesomekling/status/1670440822129532928"
+      "Hexa Lift: Single person drone",
+      "https://www.liftaircraft.com"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Imaginary Problems Are the Root of Bad Software",
       "https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 14:35:47",
+      "https://news.ycombinator.com/item?id=36380636"
+    ],
+    [
+      "Moldable Live Programming for Clojure",
+      "https://github.com/nextjournal/clerk"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "Most tech content is bullshit (2020)",
       "https://www.aleksandra.codes/tech-content-consumer"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 13:03:19",
-      "https://news.ycombinator.com/item?id=36379930"
-    ],
-    [
-      "Bugs – opinionated Jira CLI for those of us who hate Jira",
-      "https://github.com/reddit/bugs"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-06-18, 04:19:32",
-      "https://news.ycombinator.com/item?id=36377280"
-    ],
-    [
-      "Squeezing a Little More Performance Out of Bytecode Interpreters",
-      "https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 02:49:28",
       "https://news.ycombinator.com/item?id=36376875"
     ],
@@ -247,16 +257,6 @@
     [
       "A single line of code made a 24-core server slower than a laptop (2021)",
       "https://pkolaczk.github.io/server-slower-than-a-laptop/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 16:12:10",
-      "https://news.ycombinator.com/item?id=36371512"
-    ],
-    [
-      "A comparison of text-based browsers (2011)",
-      "https://kmandla.wordpress.com/2011/01/13/a-comparison-of-text-based-browsers/"
     ]
   ],
   [
