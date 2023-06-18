@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 04:54:06",
+      "https://news.ycombinator.com/item?id=36377439"
+    ],
+    [
+      "Milk-V Duo: A $9 RISC-V COMPUTER",
+      "https://milkv.io/duo"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 03:16:42",
       "https://news.ycombinator.com/item?id=36376982"
     ],
@@ -17,6 +27,16 @@
     [
       "Scientists create contained ball of turbulence in a tank",
       "https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 02:49:17",
+      "https://news.ycombinator.com/item?id=36376872"
+    ],
+    [
+      "A History Of Nvidia Stream Multiprocessor",
+      "https://fabiensanglard.net/cuda/index.html"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-06-17, 14:01:06",
-      "https://news.ycombinator.com/item?id=36370225"
+      "2023-06-17, 13:20:28",
+      "https://news.ycombinator.com/item?id=36369951"
     ],
     [
-      "Gitless: A simple VCS built on top of Git",
-      "https://gitless.com/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 13:47:17",
-      "https://news.ycombinator.com/item?id=36370108"
-    ],
-    [
-      "What character was removed from the alphabet? (2020)",
-      "https://www.dictionary.com/e/ampersand/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 13:13:00",
-      "https://news.ycombinator.com/item?id=36369903"
-    ],
-    [
-      "Dlprimitives: Deep Learning Primitives and Mini-Framework for OpenCL",
-      "https://github.com/artyom-beilis/dlprimitives"
+      "Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device",
+      "https://boschko.ca/qemu-emulating-firmware/"
     ]
   ],
   [
