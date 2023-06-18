@@ -10,6 +10,7 @@
 * [2023-06-18, 21:02:26](https://news.ycombinator.com/item?id=36384418) - [Workers sue secretive elite club Bohemian Grove for wage theft](https://www.theguardian.com/us-news/2023/jun/18/bohemian-grove-elite-club-wage-theft)
 * [2023-06-18, 20:53:48](https://news.ycombinator.com/item?id=36384348) - [Anti-Meta Fedi Pact – instance admins/mods that agreed to block Meta instance](https://fedipact.online/)
 * [2023-06-18, 20:38:01](https://news.ycombinator.com/item?id=36384207) - [Meta/Facebook is inviting Fediverse admins under NDA for “meetings”](https://mstdn.social/@rysiek/110548129223290575)
+* [2023-06-18, 20:35:23](https://news.ycombinator.com/item?id=36384185) - [Scalene: A high-performance, CPU, GPU, and memory profiler for Python](https://github.com/plasma-umass/scalene)
 * [2023-06-18, 20:16:13](https://news.ycombinator.com/item?id=36384015) - [LLMs can label data as well as human annotators, but 20 times faster](https://www.refuel.ai/blog-posts/llm-labeling-technical-report)
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:50:46](https://news.ycombinator.com/item?id=36383773) - [Show HN: Indexing Discord content into the web – Answer Overflow](https://www.answeroverflow.com/)
