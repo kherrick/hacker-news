@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 11:04:52](https://news.ycombinator.com/item?id=36379099) - [Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
 * [2023-06-18, 11:03:42](https://news.ycombinator.com/item?id=36379094) - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
 * [2023-06-18, 10:10:59](https://news.ycombinator.com/item?id=36378829) - [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
 * [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
