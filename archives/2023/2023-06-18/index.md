@@ -6,6 +6,8 @@
 
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
 * [2023-06-18, 13:43:49](https://news.ycombinator.com/item?id=36380240) - [Poor Man's Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
+* [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (Foundations of Information Theory: Part 3)](https://mbernste.github.io/posts/sourcecoding/)
+* [2023-06-18, 13:33:10](https://news.ycombinator.com/item?id=36380149) - [The legend of “x86 CPUs decode instructions into RISC form internally”](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 13:16:37](https://news.ycombinator.com/item?id=36380024) - [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)
 * [2023-06-18, 13:03:19](https://news.ycombinator.com/item?id=36379930) - [Bugs – opinionated Jira CLI for those of us who hate Jira](https://github.com/reddit/bugs)
 * [2023-06-18, 12:42:40](https://news.ycombinator.com/item?id=36379767) - [Police got called to an overcrowded presentation on “rejuvenation” technology](https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/)
