@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 22:07:39](https://news.ycombinator.com/item?id=36385032) - [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
 * [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 * [2023-06-18, 21:16:15](https://news.ycombinator.com/item?id=36384570) - [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
 * [2023-06-18, 21:13:42](https://news.ycombinator.com/item?id=36384548) - [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
@@ -7,7 +8,6 @@
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:50:46](https://news.ycombinator.com/item?id=36383773) - [Show HN: Answer Overflow  – Indexing Discord content into the web](https://www.answeroverflow.com/)
 * [2023-06-18, 19:32:57](https://news.ycombinator.com/item?id=36383571) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
-* [2023-06-18, 19:28:37](https://news.ycombinator.com/item?id=36383521) - [Linguists have identified a new English dialect that’s emerging in South Florida](https://theconversation.com/linguists-have-identified-a-new-english-dialect-thats-emerging-in-south-florida-205620)
 * [2023-06-18, 19:10:24](https://news.ycombinator.com/item?id=36383322) - [Get It Done](https://boz.com/articles/get-it-done)
 * [2023-06-18, 19:07:47](https://news.ycombinator.com/item?id=36383298) - [LLM Fine Tuning Guide for Enterprises in 2023](https://research.aimultiple.com/llm-fine-tuning/)
 * [2023-06-18, 18:09:37](https://news.ycombinator.com/item?id=36382700) - [Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
