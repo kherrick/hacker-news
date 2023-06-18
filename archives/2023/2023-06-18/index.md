@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 13:16:37](https://news.ycombinator.com/item?id=36380024) - [Most tech content is bullshit](https://www.aleksandra.codes/tech-content-consumer)
 * [2023-06-18, 13:03:19](https://news.ycombinator.com/item?id=36379930) - [Bugs – opinionated Jira CLI for those of us who hate Jira](https://github.com/reddit/bugs)
 * [2023-06-18, 12:42:40](https://news.ycombinator.com/item?id=36379767) - [Police got called to an overcrowded presentation on “rejuvenation” technology](https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/)
 * [2023-06-18, 12:26:09](https://news.ycombinator.com/item?id=36379615) - [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
