@@ -15,7 +15,6 @@
 * [2023-06-17, 22:54:08](https://news.ycombinator.com/item?id=36375582) - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
 * [2023-06-17, 22:35:53](https://news.ycombinator.com/item?id=36375409) - [The Rot Economy](https://wheresyoured.at/p/the-rot-economy)
 * [2023-06-17, 22:06:38](https://news.ycombinator.com/item?id=36375179) - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
-* [2023-06-17, 21:48:10](https://news.ycombinator.com/item?id=36375002) - [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 20:07:57](https://news.ycombinator.com/item?id=36374067) - [Daniel Ellsberg: The Pentagon Papers](https://archive.org/details/pentagonpapersde00beac)
@@ -28,6 +27,7 @@
 * [2023-06-17, 13:20:28](https://news.ycombinator.com/item?id=36369951) - [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
+* [2023-06-17, 06:20:03](https://news.ycombinator.com/item?id=36367794) - [Python Dict – An Explorable Explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
 * [2023-06-16, 17:15:44](https://news.ycombinator.com/item?id=36360247) - [When are containers or serverless a red flag?](https://www.infoworld.com/article/3698289/when-are-containers-or-serverless-a-red-flag-for-a-cloud-project.html)
 

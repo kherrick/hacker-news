@@ -80,6 +80,7 @@
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 07:01:11](https://news.ycombinator.com/item?id=36367987) - [Bitmovin (YC S15) Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
+* [2023-06-17, 06:20:03](https://news.ycombinator.com/item?id=36367794) - [Python Dict – An Explorable Explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 * [2023-06-17, 05:57:17](https://news.ycombinator.com/item?id=36367685) - [All 'The Office' Filming Locations Addresses](https://whimsysoul.com/all-the-office-filming-locations-we-found-dunder-mifflin-it-was-the-best-day-of-my-life/)
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
 * [2023-06-17, 05:46:41](https://news.ycombinator.com/item?id=36367638) - [How Do Nuclear Submarines Make Oxygen [video]](https://www.youtube.com/watch?v=g3Ud6mHdhlQ)
