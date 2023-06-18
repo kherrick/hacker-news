@@ -60,6 +60,7 @@
 * [2023-06-17, 13:23:39](https://news.ycombinator.com/item?id=36369966) - [Running Linux on the Asus ROG Ally Gaming Handheld](https://www.phoronix.com/review/asus-rog-ally-linux)
 * [2023-06-17, 13:20:28](https://news.ycombinator.com/item?id=36369951) - [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
 * [2023-06-17, 13:17:37](https://news.ycombinator.com/item?id=36369934) - [Show HN: Explore large language models on any computer with 512MB of RAM](https://github.com/jncraton/languagemodels)
+* [2023-06-17, 13:13:00](https://news.ycombinator.com/item?id=36369903) - [Dlprimitives: Deep Learning Primitives and Mini-Framework for OpenCL](https://github.com/artyom-beilis/dlprimitives)
 * [2023-06-17, 13:01:32](https://news.ycombinator.com/item?id=36369840) - [15” MacBook Air Teardown](https://www.youtube.com/watch?v=nW7b0DmmKvQ)
 * [2023-06-17, 12:45:48](https://news.ycombinator.com/item?id=36369742) - [Book of Proof by Richard Hammack](https://www.people.vcu.edu/~rhammack/BookOfProof/)
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
