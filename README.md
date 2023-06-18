@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
-* [2023-06-18, 06:14:08](https://news.ycombinator.com/item?id=36377778) - [Complex Systems Won’t Survive the Competence Crisis](https://www.palladiummag.com/2023/06/01/complex-systems-wont-survive-the-competence-crisis/)
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 * [2023-06-18, 04:19:32](https://news.ycombinator.com/item?id=36377280) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 03:16:42](https://news.ycombinator.com/item?id=36376982) - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
@@ -30,6 +29,7 @@
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
+* [2023-06-16, 17:15:44](https://news.ycombinator.com/item?id=36360247) - [When are containers or serverless a red flag?](https://www.infoworld.com/article/3698289/when-are-containers-or-serverless-a-red-flag-for-a-cloud-project.html)
 
 ## [Archives](archives/index.md)
 

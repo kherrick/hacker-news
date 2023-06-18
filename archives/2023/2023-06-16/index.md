@@ -39,6 +39,7 @@
 * [2023-06-16, 17:49:38](https://news.ycombinator.com/item?id=36360789) - [Show HN: I made an open-source Notion-style WYSYWIG editor](https://novel.sh/)
 * [2023-06-16, 17:46:19](https://news.ycombinator.com/item?id=36360740) - [‘The Whiskey Rebellion’ Review: A Young Nation, Suddenly Tested](https://www.wsj.com/articles/the-whiskey-rebellion-review-a-young-nation-suddenly-tested-3a2a692b)
 * [2023-06-16, 17:26:18](https://news.ycombinator.com/item?id=36360452) - [Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
+* [2023-06-16, 17:15:44](https://news.ycombinator.com/item?id=36360247) - [When are containers or serverless a red flag?](https://www.infoworld.com/article/3698289/when-are-containers-or-serverless-a-red-flag-for-a-cloud-project.html)
 * [2023-06-16, 17:12:00](https://news.ycombinator.com/item?id=36360189) - [Dechlorinating the Moderator](http://www.antipope.org/charlie/fiction/moderator.html)
 * [2023-06-16, 17:02:59](https://news.ycombinator.com/item?id=36360035) - [Tech vendors have been hiking prices by up to 24% amid inflation](https://www.theregister.com/2023/06/16/tech_vendor_price_hikes/)
 * [2023-06-16, 17:01:36](https://news.ycombinator.com/item?id=36360018) - [Gyroflow: An open source advanced gyro-based video stabilization tool](http://gyroflow.xyz/)
