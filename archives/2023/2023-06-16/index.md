@@ -38,6 +38,7 @@
 * [2023-06-16, 18:02:31](https://news.ycombinator.com/item?id=36360980) - [John Carmack on shorter work weeks (2016)](https://news.ycombinator.com/item?id=10845832)
 * [2023-06-16, 17:49:38](https://news.ycombinator.com/item?id=36360789) - [Show HN: I made an open-source Notion-style WYSYWIG editor](https://novel.sh/)
 * [2023-06-16, 17:46:19](https://news.ycombinator.com/item?id=36360740) - [‘The Whiskey Rebellion’ Review: A Young Nation, Suddenly Tested](https://www.wsj.com/articles/the-whiskey-rebellion-review-a-young-nation-suddenly-tested-3a2a692b)
+* [2023-06-16, 17:27:52](https://news.ycombinator.com/item?id=36360482) - [Peplum: F/OSS Parallel Computing and Supercomputing with Ruby Infrastructure](https://news.slashdot.org/story/23/05/27/067247/peplum-foss-distributed-parallel-computing-and-supercomputing-at-home-with-ruby-infrastructure)
 * [2023-06-16, 17:26:18](https://news.ycombinator.com/item?id=36360452) - [Meta's plan to offer free commercial AI models puts pressure on Google, OpenAI](https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and)
 * [2023-06-16, 17:15:44](https://news.ycombinator.com/item?id=36360247) - [When are containers or serverless a red flag?](https://www.infoworld.com/article/3698289/when-are-containers-or-serverless-a-red-flag-for-a-cloud-project.html)
 * [2023-06-16, 17:12:00](https://news.ycombinator.com/item?id=36360189) - [Dechlorinating the Moderator](http://www.antipope.org/charlie/fiction/moderator.html)
