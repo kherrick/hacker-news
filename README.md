@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 14:41:05](https://news.ycombinator.com/item?id=36380690) - [Political Polarization Comes for Marriage Prospects](https://www.theatlantic.com/ideas/archive/2023/06/us-marriage-rate-different-political-views/674358/)
 * [2023-06-18, 14:31:42](https://news.ycombinator.com/item?id=36380592) - [Time-Lock Puzzles in the Random Oracle Model (2011)](https://people.seas.harvard.edu/~salil/research/timelock-abs.html)
 * [2023-06-18, 13:53:33](https://news.ycombinator.com/item?id=36380325) - [The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
@@ -23,7 +24,6 @@
 * [2023-06-18, 04:19:32](https://news.ycombinator.com/item?id=36377280) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [A single line of code made a 24-core server slower than a laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-* [2023-06-18, 00:19:41](https://news.ycombinator.com/item?id=36376111) - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
 * [2023-06-18, 00:11:38](https://news.ycombinator.com/item?id=36376071) - [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
 * [2023-06-17, 16:26:38](https://news.ycombinator.com/item?id=36371661) - [How to Create a UTF-16 Surrogate Pair by Hand, with Python](https://www.oilshell.org/blog/2023/06/surrogate-pair.html)
 * [2023-06-17, 10:04:33](https://news.ycombinator.com/item?id=36368812) - [Implementing a Personal Transportation Hierarchy](https://collindonnell.com/implementing-a-personal-transportation-hierarchy)
