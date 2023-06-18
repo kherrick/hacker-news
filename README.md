@@ -28,7 +28,7 @@
 * [2023-06-17, 13:20:28](https://news.ycombinator.com/item?id=36369951) - [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 05:46:41](https://news.ycombinator.com/item?id=36367638) - [How Do Nuclear Submarines Make Oxygen [video]](https://www.youtube.com/watch?v=g3Ud6mHdhlQ)
-* [2023-06-16, 20:55:24](https://news.ycombinator.com/item?id=36363718) - [How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
+* [2023-06-16, 23:43:51](https://news.ycombinator.com/item?id=36365498) - [Tips for Building Resilient Payment Systems (2022)](https://shopify.engineering/building-resilient-payment-systems)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
 
 ## [Archives](archives/index.md)
