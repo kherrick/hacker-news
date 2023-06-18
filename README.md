@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 11:42:16](https://news.ycombinator.com/item?id=36379265) - [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 * [2023-06-18, 11:04:52](https://news.ycombinator.com/item?id=36379099) - [Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
 * [2023-06-18, 11:03:42](https://news.ycombinator.com/item?id=36379094) - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
 * [2023-06-18, 10:23:31](https://news.ycombinator.com/item?id=36378896) - [A complete guide to getting what you want](https://www.raptitude.com/2018/06/getting-what-you-want/)
@@ -22,14 +23,13 @@
 * [2023-06-18, 00:11:38](https://news.ycombinator.com/item?id=36376071) - [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
 * [2023-06-17, 22:54:08](https://news.ycombinator.com/item?id=36375582) - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
 * [2023-06-17, 22:35:53](https://news.ycombinator.com/item?id=36375409) - [The Rot Economy](https://wheresyoured.at/p/the-rot-economy)
+* [2023-06-17, 22:06:38](https://news.ycombinator.com/item?id=36375179) - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
-* [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 16:12:10](https://news.ycombinator.com/item?id=36371512) - [A comparison of text-based browsers (2011)](https://kmandla.wordpress.com/2011/01/13/a-comparison-of-text-based-browsers/)
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
 * [2023-06-17, 06:20:03](https://news.ycombinator.com/item?id=36367794) - [Python Dict – An Explorable Explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 * [2023-06-16, 23:54:58](https://news.ycombinator.com/item?id=36365595) - [Arduino reads punched cards for cloud computing](https://blog.arduino.cc/2023/06/16/this-arduino-reads-punch-cards-for-cloud-computing/)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
-* [2023-06-16, 17:27:52](https://news.ycombinator.com/item?id=36360482) - [Peplum: F/OSS Parallel Computing and Supercomputing with Ruby Infrastructure](https://news.slashdot.org/story/23/05/27/067247/peplum-foss-distributed-parallel-computing-and-supercomputing-at-home-with-ruby-infrastructure)
 
 ## [Archives](archives/index.md)
 
