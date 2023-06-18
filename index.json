@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 09:43:24",
+      "https://news.ycombinator.com/item?id=36378689"
+    ],
+    [
+      "Jellyfin: The Free Software Media System",
+      "https://github.com/jellyfin/jellyfin"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 07:49:45",
       "https://news.ycombinator.com/item?id=36378167"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36377995"
     ],
     [
-      "How to Read and Organize Online Articles (Without Driving Yourself Crazy)",
+      "How to Read and Organize Online Articles (Without Driving Yourself Crazy) (2013)",
       "https://www.gregoryciotti.com/reading-organization/"
     ]
   ],
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2023-06-17, 23:09:02",
-      "https://news.ycombinator.com/item?id=36375660"
-    ],
-    [
-      "The Risks of Staying Put",
-      "https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 22:54:08",
       "https://news.ycombinator.com/item?id=36375582"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-06-17, 07:45:39",
-      "https://news.ycombinator.com/item?id=36368177"
-    ],
-    [
-      "Using Git-annex for Data Archiving",
-      "https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 06:31:55",
       "https://news.ycombinator.com/item?id=36367854"
     ],
@@ -277,6 +267,16 @@
     [
       "Python Dict – An Explorable Explanation",
       "https://just-taking-a-ride.com/inside_python_dict/chapter1.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 23:54:58",
+      "https://news.ycombinator.com/item?id=36365595"
+    ],
+    [
+      "Arduino reads punched cards for cloud computing",
+      "https://blog.arduino.cc/2023/06/16/this-arduino-reads-punch-cards-for-cloud-computing/"
     ]
   ],
   [
