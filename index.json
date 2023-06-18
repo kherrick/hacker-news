@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2023-06-17, 17:01:51",
+      "https://news.ycombinator.com/item?id=36372044"
+    ],
+    [
+      "Meticulous (YC S21) is hiring a founding engineer to build AI for UI testing",
+      "https://news.ycombinator.com/item?id=36372044"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 16:20:18",
       "https://news.ycombinator.com/item?id=36371596"
     ],
@@ -257,16 +267,6 @@
     [
       "Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device",
       "https://boschko.ca/qemu-emulating-firmware/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 13:13:00",
-      "https://news.ycombinator.com/item?id=36369903"
-    ],
-    [
-      "Dlprimitives: Deep Learning Primitives and Mini-Framework for OpenCL",
-      "https://github.com/artyom-beilis/dlprimitives"
     ]
   ],
   [
