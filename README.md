@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 20:16:13](https://news.ycombinator.com/item?id=36384015) - [LLMs can label data as well as human annotators, but 20 times faster](https://www.refuel.ai/blog-posts/llm-labeling-technical-report)
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:32:57](https://news.ycombinator.com/item?id=36383571) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
 * [2023-06-18, 19:28:37](https://news.ycombinator.com/item?id=36383521) - [Linguists have identified a new English dialect that’s emerging in South Florida](https://theconversation.com/linguists-have-identified-a-new-english-dialect-thats-emerging-in-south-florida-205620)
 * [2023-06-18, 19:10:24](https://news.ycombinator.com/item?id=36383322) - [Get It Done](https://boz.com/articles/get-it-done)
-* [2023-06-18, 18:38:16](https://news.ycombinator.com/item?id=36382994) - [The WFH future is destroying bosses' brains (2021)](https://wheresyoured.at/p/the-work-from-home-future-is-destroying)
 * [2023-06-18, 18:09:37](https://news.ycombinator.com/item?id=36382700) - [Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
 * [2023-06-18, 17:55:23](https://news.ycombinator.com/item?id=36382578) - [How I feel quitting my own startup](https://www.aquiles.me/how-it-feels-quitting-your-own-startup/)
 * [2023-06-18, 17:49:56](https://news.ycombinator.com/item?id=36382514) - [Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks [pdf]](https://www.usenix.org/system/files/sec22-feng.pdf)
