@@ -73,6 +73,7 @@
 * [2023-06-17, 09:51:20](https://news.ycombinator.com/item?id=36368748) - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
+* [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 07:01:11](https://news.ycombinator.com/item?id=36367987) - [Bitmovin (YC S15) Is Hiring an Engineering Manager for Encoding in Berlin](https://bitmovin.com/careers/engineering-manager-encoding-6787621002/)
 * [2023-06-17, 05:57:17](https://news.ycombinator.com/item?id=36367685) - [All 'The Office' Filming Locations Addresses](https://whimsysoul.com/all-the-office-filming-locations-we-found-dunder-mifflin-it-was-the-best-day-of-my-life/)
 * [2023-06-17, 05:52:08](https://news.ycombinator.com/item?id=36367667) - [London Underground Dot Matrix Typeface](https://github.com/petykowski/London-Underground-Dot-Matrix-Typeface)
