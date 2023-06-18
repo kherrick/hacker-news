@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 13:03:19](https://news.ycombinator.com/item?id=36379930) - [Bugs – opinionated Jira CLI for those of us who hate Jira](https://github.com/reddit/bugs)
+* [2023-06-18, 12:42:40](https://news.ycombinator.com/item?id=36379767) - [Police got called to an overcrowded presentation on “rejuvenation” technology](https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/)
 * [2023-06-18, 12:26:09](https://news.ycombinator.com/item?id=36379615) - [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 * [2023-06-18, 11:42:16](https://news.ycombinator.com/item?id=36379265) - [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 * [2023-06-18, 10:23:31](https://news.ycombinator.com/item?id=36378896) - [A complete guide to getting what you want (2018)](https://www.raptitude.com/2018/06/getting-what-you-want/)
@@ -17,7 +19,6 @@
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 * [2023-06-18, 04:19:32](https://news.ycombinator.com/item?id=36377280) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
-* [2023-06-18, 02:49:17](https://news.ycombinator.com/item?id=36376872) - [A History Of Nvidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 * [2023-06-18, 00:19:41](https://news.ycombinator.com/item?id=36376111) - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
 * [2023-06-18, 00:11:38](https://news.ycombinator.com/item?id=36376071) - [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
@@ -29,7 +30,6 @@
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
 * [2023-06-16, 23:54:58](https://news.ycombinator.com/item?id=36365595) - [Arduino reads punched cards for cloud computing](https://blog.arduino.cc/2023/06/16/this-arduino-reads-punch-cards-for-cloud-computing/)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
-* [2023-06-16, 17:27:52](https://news.ycombinator.com/item?id=36360482) - [Peplum: F/OSS Parallel Computing and Supercomputing with Ruby Infrastructure](https://news.slashdot.org/story/23/05/27/067247/peplum-foss-distributed-parallel-computing-and-supercomputing-at-home-with-ruby-infrastructure)
 
 ## [Archives](archives/index.md)
 
