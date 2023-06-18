@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-18, 06:54:48](https://news.ycombinator.com/item?id=36377953) - [W3C and My RSS Spec](http://scripting.com/2023/06/17/193133.html)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 * [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
@@ -16,6 +15,7 @@
 * [2023-06-17, 22:54:08](https://news.ycombinator.com/item?id=36375582) - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
 * [2023-06-17, 22:35:53](https://news.ycombinator.com/item?id=36375409) - [The Rot Economy](https://wheresyoured.at/p/the-rot-economy)
 * [2023-06-17, 22:06:38](https://news.ycombinator.com/item?id=36375179) - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
+* [2023-06-17, 21:48:10](https://news.ycombinator.com/item?id=36375002) - [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 20:07:57](https://news.ycombinator.com/item?id=36374067) - [Daniel Ellsberg: The Pentagon Papers](https://archive.org/details/pentagonpapersde00beac)
