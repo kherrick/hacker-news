@@ -37,6 +37,7 @@
 * [2023-06-17, 17:17:27](https://news.ycombinator.com/item?id=36372194) - [An Anomalous Wire at the Site of the First Interstellar Meteor](https://avi-loeb.medium.com/an-anomalous-wire-made-of-manganese-and-platinum-in-the-pacific-ocean-site-of-the-first-3ccb7076dfc0)
 * [2023-06-17, 17:15:06](https://news.ycombinator.com/item?id=36372176) - [Can you just move into an abandoned house?](https://www.quora.com/Is-it-okay-to-go-into-abandoned-houses)
 * [2023-06-17, 17:01:51](https://news.ycombinator.com/item?id=36372044) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36372044)
+* [2023-06-17, 16:53:41](https://news.ycombinator.com/item?id=36371970) - [MiniMit – Bringing Minitel back to life](https://xn--multipli-i1a.fr/en/5-21/objects/minimit)
 * [2023-06-17, 16:50:22](https://news.ycombinator.com/item?id=36371936) - [Florida has banned direct-to-consumer auto sales, but Tesla and co get a pass](https://www.theverge.com/2023/6/17/23764510/florida-has-banned-direct-to-consumer-auto-sales-but-electric-only-automakers-get-a-pass)
 * [2023-06-17, 16:26:38](https://news.ycombinator.com/item?id=36371661) - [How to Create a UTF-16 Surrogate Pair by Hand, with Python](https://www.oilshell.org/blog/2023/06/surrogate-pair.html)
 * [2023-06-17, 16:25:32](https://news.ycombinator.com/item?id=36371651) - [Are Chiplets Enough to Save Moore’s Law?](https://www.eetimes.com/are-chiplets-enough-to-save-moores-law/)
