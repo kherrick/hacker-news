@@ -6,6 +6,7 @@
 
 * [2023-06-18, 03:16:42](https://news.ycombinator.com/item?id=36376982) - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
+* [2023-06-18, 02:49:17](https://news.ycombinator.com/item?id=36376872) - [A History Of Nvidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 02:11:30](https://news.ycombinator.com/item?id=36376687) - [Show HN: Follow every MLB game. Real time. New score alerts](https://mlb.watchbotapp.com)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 * [2023-06-18, 01:13:13](https://news.ycombinator.com/item?id=36376373) - [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
