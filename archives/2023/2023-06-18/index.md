@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
+* [2023-06-18, 19:32:57](https://news.ycombinator.com/item?id=36383571) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
 * [2023-06-18, 19:28:37](https://news.ycombinator.com/item?id=36383521) - [Linguists have identified a new English dialect that’s emerging in South Florida](https://theconversation.com/linguists-have-identified-a-new-english-dialect-thats-emerging-in-south-florida-205620)
 * [2023-06-18, 19:10:24](https://news.ycombinator.com/item?id=36383322) - [Get It Done](https://boz.com/articles/get-it-done)
 * [2023-06-18, 18:48:51](https://news.ycombinator.com/item?id=36383120) - [Does Lemmy benefit from Rust? Is code execution speed the bottleneck?](https://programming.dev/post/50696)
