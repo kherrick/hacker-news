@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 13:53:33](https://news.ycombinator.com/item?id=36380325) - [The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
 * [2023-06-18, 13:43:49](https://news.ycombinator.com/item?id=36380240) - [Poor Man's Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (Foundations of Information Theory: Part 3)](https://mbernste.github.io/posts/sourcecoding/)
@@ -15,7 +16,6 @@
 * [2023-06-18, 07:42:02](https://news.ycombinator.com/item?id=36378137) - [Keygen Library Player (4504 tracks)](https://cable.ayra.ch/webxmp/)
 * [2023-06-18, 07:15:28](https://news.ycombinator.com/item?id=36378032) - [Finite and Infinite Games (1986) [pdf]](https://wtf.tw/ref/carse.pdf)
 * [2023-06-18, 07:04:08](https://news.ycombinator.com/item?id=36377995) - [How to Read and Organize Online Articles (Without Driving Yourself Crazy) (2013)](https://www.gregoryciotti.com/reading-organization/)
-* [2023-06-18, 06:46:34](https://news.ycombinator.com/item?id=36377920) - [Show HN: Dots and Boxes in Elm](https://www.martincapodici.com/elm/dotsandboxes/)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 * [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)

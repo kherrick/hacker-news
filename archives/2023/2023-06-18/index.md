@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 13:53:33](https://news.ycombinator.com/item?id=36380325) - [The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
 * [2023-06-18, 13:43:49](https://news.ycombinator.com/item?id=36380240) - [Poor Man's Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (Foundations of Information Theory: Part 3)](https://mbernste.github.io/posts/sourcecoding/)
