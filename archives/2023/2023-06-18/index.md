@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 16:40:39](https://news.ycombinator.com/item?id=36381823) - [Ask HN: If Google Workspace/Gsuite disappeared tomorrow, where would you go?](https://news.ycombinator.com/item?id=36381823)
 * [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL Safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
 * [2023-06-18, 16:14:52](https://news.ycombinator.com/item?id=36381556) - [Texas rules requiring water breaks for construction workers will be nullified](https://www.texastribune.org/2023/06/16/texas-heat-wave-water-break-construction-workers/)
 * [2023-06-18, 15:53:55](https://news.ycombinator.com/item?id=36381358) - [The Israeli weapons and spyware falling into the hands of despots](https://www.ft.com/content/a70a4460-0267-4a8a-8612-a6f6c187a3c6)
