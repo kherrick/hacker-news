@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-18, 21:02:26](https://news.ycombinator.com/item?id=36384418) - [Workers sue secretive elite club Bohemian Grove for wage theft](https://www.theguardian.com/us-news/2023/jun/18/bohemian-grove-elite-club-wage-theft)
+* [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:50:46](https://news.ycombinator.com/item?id=36383773) - [Show HN: Answer Overflow  – Indexing Discord content into the web](https://www.answeroverflow.com/)
 * [2023-06-18, 19:32:57](https://news.ycombinator.com/item?id=36383571) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
@@ -15,7 +15,6 @@
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Graphic design items from Internet Archive](https://archives.design)
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [Port forwarding](https://blog.azirevpn.com/port-forwarding/)
 * [2023-06-18, 15:34:32](https://news.ycombinator.com/item?id=36381177) - [Hexa Lift: Single person drone](https://www.liftaircraft.com)
-* [2023-06-18, 15:29:02](https://news.ycombinator.com/item?id=36381136) - [OpenLLaMA 13B Released](https://huggingface.co/openlm-research/open_llama_13b)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [2023-06-18, 14:35:47](https://news.ycombinator.com/item?id=36380636) - [Moldable Live Programming for Clojure](https://github.com/nextjournal/clerk)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
@@ -23,13 +22,14 @@
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (2020)](https://mbernste.github.io/posts/sourcecoding/)
 * [2023-06-18, 13:33:10](https://news.ycombinator.com/item?id=36380149) - [The legend of “x86 CPUs decode instructions into RISC form internally” (2020)](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 13:16:37](https://news.ycombinator.com/item?id=36380024) - [Most tech content is bullshit (2020)](https://www.aleksandra.codes/tech-content-consumer)
+* [2023-06-18, 12:26:09](https://news.ycombinator.com/item?id=36379615) - [Follow up to “I booted Linux 293k times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 * [2023-06-18, 10:23:31](https://news.ycombinator.com/item?id=36378896) - [A complete guide to getting what you want (2018)](https://www.raptitude.com/2018/06/getting-what-you-want/)
 * [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: Free software media system](https://github.com/jellyfin/jellyfin)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 * [2023-06-17, 17:15:06](https://news.ycombinator.com/item?id=36372176) - [Can you just move into an abandoned house?](https://www.quora.com/Is-it-okay-to-go-into-abandoned-houses)
-* [2023-06-17, 07:28:44](https://news.ycombinator.com/item?id=36368108) - [Dingo: A Low-Cost Open-Source Robot Quadruped](https://github.com/Yerbert/DingoQuadruped)
 * [2023-06-17, 07:10:59](https://news.ycombinator.com/item?id=36368027) - [Rewilding the planet: An archipelago constructed of sand is bringing new life](https://www.nature.com/immersive/d41586-023-01370-w/index.html)
 * [2023-06-17, 05:08:58](https://news.ycombinator.com/item?id=36367491) - [Neural networks need data to learn, even if it’s fake](https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/)
+* [2023-06-14, 17:59:45](https://news.ycombinator.com/item?id=36329876) - [Dingo, an open source robot dog](https://github.com/Yerbert/DingoQuadruped)
 
 ## [Archives](archives/index.md)
 
