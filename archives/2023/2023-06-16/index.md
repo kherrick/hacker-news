@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-16](index.md)
 
+* [2023-06-16, 23:54:58](https://news.ycombinator.com/item?id=36365595) - [Arduino reads punched cards for cloud computing](https://blog.arduino.cc/2023/06/16/this-arduino-reads-punch-cards-for-cloud-computing/)
 * [2023-06-16, 23:45:25](https://news.ycombinator.com/item?id=36365511) - [Show HN: 77 Year old launches SaaS platform today. Seeks feedback](https://propbox.co)
 * [2023-06-16, 23:43:51](https://news.ycombinator.com/item?id=36365498) - [Tips for Building Resilient Payment Systems (2022)](https://shopify.engineering/building-resilient-payment-systems)
 * [2023-06-16, 23:36:57](https://news.ycombinator.com/item?id=36365455) - [When a Huawei Bid Turned into a Hunt for a Corporate Mole](https://www.bloomberg.com/news/features/2023-06-15/how-huawei-got-caught-spying-and-lost-a-200-million-5g-contract)

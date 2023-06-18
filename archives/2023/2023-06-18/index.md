@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
 * [2023-06-18, 07:49:45](https://news.ycombinator.com/item?id=36378167) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
 * [2023-06-18, 07:42:02](https://news.ycombinator.com/item?id=36378137) - [Keygen Library Player (4504 tracks)](https://cable.ayra.ch/webxmp/)
 * [2023-06-18, 07:15:28](https://news.ycombinator.com/item?id=36378032) - [Finite and Infinite Games [pdf]](https://wtf.tw/ref/carse.pdf)
