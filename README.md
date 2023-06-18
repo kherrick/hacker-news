@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 18:09:37](https://news.ycombinator.com/item?id=36382700) - [Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
 * [2023-06-18, 17:55:23](https://news.ycombinator.com/item?id=36382578) - [I left the startup I founded. This is how I feel](https://www.aquiles.me/how-it-feels-quitting-your-own-startup/)
 * [2023-06-18, 17:49:56](https://news.ycombinator.com/item?id=36382514) - [Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks [pdf]](https://www.usenix.org/system/files/sec22-feng.pdf)
 * [2023-06-18, 17:44:34](https://news.ycombinator.com/item?id=36382462) - [Examples of Post-Growth Practices](https://postgrowthguide.notion.site/20-cases-of-Post-Growth-Practices-dd67efd4c7304df7b6a5ed59cab4ac8e)
 * [2023-06-18, 17:34:01](https://news.ycombinator.com/item?id=36382361) - [Goodbye, Twilio](https://blog.miguelgrinberg.com/post/goodbye-twilio)
-* [2023-06-18, 17:20:32](https://news.ycombinator.com/item?id=36382244) - [Apple Earthquake Survival Kit 1986](https://archive.org/details/apple-earthquake-survival-kit-1986)
 * [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
-* [2023-06-18, 16:14:52](https://news.ycombinator.com/item?id=36381556) - [Texas rules requiring water breaks for construction workers will be nullified](https://www.texastribune.org/2023/06/16/texas-heat-wave-water-break-construction-workers/)
 * [2023-06-18, 15:53:55](https://news.ycombinator.com/item?id=36381358) - [The Israeli weapons and spyware falling into the hands of despots](https://www.ft.com/content/a70a4460-0267-4a8a-8612-a6f6c187a3c6)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Archives.design: curated graphic design from Internet Archive](https://archives.design)
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [Port forwarding](https://blog.azirevpn.com/port-forwarding/)
@@ -29,6 +28,7 @@
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
 * [2023-06-17, 17:15:06](https://news.ycombinator.com/item?id=36372176) - [Can you just move into an abandoned house?](https://www.quora.com/Is-it-okay-to-go-into-abandoned-houses)
+* [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
 * [2023-06-17, 05:08:58](https://news.ycombinator.com/item?id=36367491) - [Neural networks need data to learn, even if it’s fake](https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/)
 
 ## [Archives](archives/index.md)
