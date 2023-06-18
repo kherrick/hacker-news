@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 20:53:48](https://news.ycombinator.com/item?id=36384348) - [Anti-Meta Fedi Pact – instance admins/mods that agreed to block Meta instance](https://fedipact.online/)
 * [2023-06-18, 20:38:01](https://news.ycombinator.com/item?id=36384207) - [Meta/Facebook is inviting Fediverse admins under NDA for “meetings”](https://mstdn.social/@rysiek/110548129223290575)
 * [2023-06-18, 20:16:13](https://news.ycombinator.com/item?id=36384015) - [LLMs can label data as well as human annotators, but 20 times faster](https://www.refuel.ai/blog-posts/llm-labeling-technical-report)
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
