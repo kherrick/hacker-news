@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 11:42:16",
+      "https://news.ycombinator.com/item?id=36379265"
+    ],
+    [
+      "The Difference Between Root Certificate Authorities, Intermediates and Resellers",
+      "https://www.agwa.name/blog/post/roots_intermediates_and_resellers"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 11:04:52",
       "https://news.ycombinator.com/item?id=36379099"
     ],
@@ -221,22 +231,22 @@
   ],
   [
     [
+      "2023-06-17, 22:06:38",
+      "https://news.ycombinator.com/item?id=36375179"
+    ],
+    [
+      "The Staggering Frontiers of CSS",
+      "https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 21:40:33",
       "https://news.ycombinator.com/item?id=36374936"
     ],
     [
       "The Secret Sauce behind 100K context window in LLMs: all tricks in one place",
       "https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 20:59:51",
-      "https://news.ycombinator.com/item?id=36374528"
-    ],
-    [
-      "Data-Driven Science and Engineering 2nd Edition [pdf]",
-      "https://faculty.washington.edu/sbrunton/DataBookV2.pdf"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Measuring blood pressure for less than a dollar using a phone",
       "https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 17:27:52",
-      "https://news.ycombinator.com/item?id=36360482"
-    ],
-    [
-      "Peplum: F/OSS Parallel Computing and Supercomputing with Ruby Infrastructure",
-      "https://news.slashdot.org/story/23/05/27/067247/peplum-foss-distributed-parallel-computing-and-supercomputing-at-home-with-ruby-infrastructure"
     ]
   ]
 ]
