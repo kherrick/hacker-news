@@ -2,7 +2,6 @@
 
 * [2023-06-18, 12:26:09](https://news.ycombinator.com/item?id=36379615) - [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 * [2023-06-18, 11:42:16](https://news.ycombinator.com/item?id=36379265) - [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
-* [2023-06-18, 11:03:42](https://news.ycombinator.com/item?id=36379094) - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
 * [2023-06-18, 10:23:31](https://news.ycombinator.com/item?id=36378896) - [A complete guide to getting what you want (2018)](https://www.raptitude.com/2018/06/getting-what-you-want/)
 * [2023-06-18, 10:10:59](https://news.ycombinator.com/item?id=36378829) - [Fruit-Bat/Pico-Zxspectrum: ZX Spectrum for Raspberry Pico Pi RP2040](https://github.com/fruit-bat/pico-zxspectrum)
 * [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: The Free Software Media System](https://github.com/jellyfin/jellyfin)
@@ -18,6 +17,7 @@
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 * [2023-06-18, 04:19:32](https://news.ycombinator.com/item?id=36377280) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
+* [2023-06-18, 02:49:17](https://news.ycombinator.com/item?id=36376872) - [A History Of Nvidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 * [2023-06-18, 00:19:41](https://news.ycombinator.com/item?id=36376111) - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
 * [2023-06-18, 00:11:38](https://news.ycombinator.com/item?id=36376071) - [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
