@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 15:53:55](https://news.ycombinator.com/item?id=36381358) - [The Israeli weapons and spyware falling into the hands of despots](https://www.ft.com/content/a70a4460-0267-4a8a-8612-a6f6c187a3c6)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Archives.design: curated graphic design from Internet Archive](https://archives.design)
 * [2023-06-18, 15:35:33](https://news.ycombinator.com/item?id=36381189) - [Gas Stoves Emit Benzene and Increases Indoor Air Pollution](https://pubs.acs.org/doi/10.1021/acs.est.2c09289#)
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [AzireVPN now supports port-forwarding (WireGuard)](https://blog.azirevpn.com/port-forwarding/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 15:53:55](https://news.ycombinator.com/item?id=36381358) - [The Israeli weapons and spyware falling into the hands of despots](https://www.ft.com/content/a70a4460-0267-4a8a-8612-a6f6c187a3c6)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Archives.design: curated graphic design from Internet Archive](https://archives.design)
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [Port forwarding](https://blog.azirevpn.com/port-forwarding/)
 * [2023-06-18, 15:34:32](https://news.ycombinator.com/item?id=36381177) - [Hexa Lift: Single person drone](https://www.liftaircraft.com)
@@ -20,7 +21,6 @@
 * [2023-06-18, 07:42:02](https://news.ycombinator.com/item?id=36378137) - [Keygen Library Player (4504 tracks)](https://cable.ayra.ch/webxmp/)
 * [2023-06-18, 07:04:08](https://news.ycombinator.com/item?id=36377995) - [How to Read and Organize Online Articles (Without Driving Yourself Crazy) (2013)](https://www.gregoryciotti.com/reading-organization/)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
-* [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [A single line of code made a 24-core server slower than a laptop (2021)](https://pkolaczk.github.io/server-slower-than-a-laptop/)
