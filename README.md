@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [Andreas Kling – “I have received a $100k sponsorship for Ladybird browser”](https://twitter.com/awesomekling/status/1670298370550779905)
+* [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [I have received a $100k sponsorship for Ladybird browser](https://twitter.com/awesomekling/status/1670298370550779905)
 * [2023-06-18, 06:14:08](https://news.ycombinator.com/item?id=36377778) - [Complex Systems Won’t Survive the Competence Crisis](https://www.palladiummag.com/2023/06/01/complex-systems-wont-survive-the-competence-crisis/)
-* [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V COMPUTER](https://milkv.io/duo)
+* [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V Computer](https://milkv.io/duo)
 * [2023-06-18, 04:19:32](https://news.ycombinator.com/item?id=36377280) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 03:16:42](https://news.ycombinator.com/item?id=36376982) - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
