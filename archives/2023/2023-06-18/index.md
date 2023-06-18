@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
 * [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
+* [2023-06-18, 21:16:15](https://news.ycombinator.com/item?id=36384570) - [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
+* [2023-06-18, 21:13:42](https://news.ycombinator.com/item?id=36384548) - [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
 * [2023-06-18, 21:02:26](https://news.ycombinator.com/item?id=36384418) - [Workers sue secretive elite club Bohemian Grove for wage theft](https://www.theguardian.com/us-news/2023/jun/18/bohemian-grove-elite-club-wage-theft)
 * [2023-06-18, 20:53:48](https://news.ycombinator.com/item?id=36384348) - [Anti-Meta Fedi Pact – instance admins/mods that agreed to block Meta instance](https://fedipact.online/)
 * [2023-06-18, 20:38:01](https://news.ycombinator.com/item?id=36384207) - [Meta/Facebook is inviting Fediverse admins under NDA for “meetings”](https://mstdn.social/@rysiek/110548129223290575)
