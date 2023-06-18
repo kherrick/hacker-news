@@ -2,7 +2,6 @@
 
 * [2023-06-18, 03:16:42](https://news.ycombinator.com/item?id=36376982) - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
-* [2023-06-18, 02:49:17](https://news.ycombinator.com/item?id=36376872) - [A History Of Nvidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)
 * [2023-06-18, 02:11:30](https://news.ycombinator.com/item?id=36376687) - [Show HN: Follow every MLB game. Real time. New score alerts](https://mlb.watchbotapp.com)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 * [2023-06-18, 00:19:41](https://news.ycombinator.com/item?id=36376111) - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
@@ -12,6 +11,7 @@
 * [2023-06-17, 22:35:53](https://news.ycombinator.com/item?id=36375409) - [The Rot Economy](https://wheresyoured.at/p/the-rot-economy)
 * [2023-06-17, 22:06:38](https://news.ycombinator.com/item?id=36375179) - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+* [2023-06-17, 21:22:07](https://news.ycombinator.com/item?id=36374756) - [Good Vibrations](https://fabiensanglard.net/happy/index.html)
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 20:07:57](https://news.ycombinator.com/item?id=36374067) - [Daniel Ellsberg: The Pentagon Papers](https://archive.org/details/pentagonpapersde00beac)
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
