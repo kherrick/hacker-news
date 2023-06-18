@@ -1,22 +1,52 @@
 [
   [
     [
-      "2023-06-17, 23:58:20",
-      "https://news.ycombinator.com/item?id=36375992"
+      "2023-06-18, 01:13:13",
+      "https://news.ycombinator.com/item?id=36376373"
     ],
     [
-      "Congress is racing to regulate AI. Silicon Valley is eager to teach them how",
-      "https://www.washingtonpost.com/technology/2023/06/17/congress-regulating-ai-schumer/"
+      "Update from Lemmy after the Reddit blackout",
+      "https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout"
     ]
   ],
   [
     [
-      "2023-06-17, 22:55:35",
-      "https://news.ycombinator.com/item?id=36375589"
+      "2023-06-18, 00:19:41",
+      "https://news.ycombinator.com/item?id=36376111"
     ],
     [
-      "It's Companies' Fault we don't want to Return to the Office",
-      "https://innovationnation.blog/p/its-companies-fault-we-dont-want"
+      "Falcon LLM – A 40B Model",
+      "https://falconllm.tii.ae/"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 00:11:38",
+      "https://news.ycombinator.com/item?id=36376071"
+    ],
+    [
+      "Infinite Photorealistic Worlds Using Procedural Generation",
+      "https://arxiv.org/abs/2306.09310"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 23:57:10",
+      "https://news.ycombinator.com/item?id=36375984"
+    ],
+    [
+      "Bernoulli Family",
+      "https://en.wikipedia.org/wiki/Bernoulli_family"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 23:09:02",
+      "https://news.ycombinator.com/item?id=36375660"
+    ],
+    [
+      "The Risks of Staying Put",
+      "https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/"
     ]
   ],
   [
@@ -31,12 +61,12 @@
   ],
   [
     [
-      "2023-06-17, 22:24:51",
-      "https://news.ycombinator.com/item?id=36375321"
+      "2023-06-17, 22:35:53",
+      "https://news.ycombinator.com/item?id=36375409"
     ],
     [
-      "Accountable Capitalism: Remaking Corporate Law Through Stakeholder Governance",
-      "https://corpgov.law.harvard.edu/2019/02/11/towards-accountable-capitalism-remaking-corporate-law-through-stakeholder-governance/"
+      "The Rot Economy",
+      "https://wheresyoured.at/p/the-rot-economy"
     ]
   ],
   [
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2023-06-17, 21:22:07",
+      "https://news.ycombinator.com/item?id=36374756"
+    ],
+    [
+      "Good Vibrations",
+      "https://fabiensanglard.net/happy/index.html"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 20:59:51",
       "https://news.ycombinator.com/item?id=36374528"
     ],
@@ -81,32 +121,22 @@
   ],
   [
     [
-      "2023-06-17, 20:52:09",
-      "https://news.ycombinator.com/item?id=36374467"
-    ],
-    [
-      "Why Your Roses Smell Nice",
-      "https://worldsensorium.com/why-your-roses-smell-nice/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 20:48:14",
-      "https://news.ycombinator.com/item?id=36374429"
-    ],
-    [
-      "GPT-4 apparently can't recite the litany against fear from Dune",
-      "https://twitter.com/michael_nielsen/status/1670150729422757888"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 20:31:22",
       "https://news.ycombinator.com/item?id=36374255"
     ],
     [
       "Data Falsificada (Part 1): “Clusterfake” – Data Colada",
       "https://datacolada.org/109"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 20:07:57",
+      "https://news.ycombinator.com/item?id=36374067"
+    ],
+    [
+      "Daniel Ellsberg: The Pentagon Papers",
+      "https://archive.org/details/pentagonpapersde00beac"
     ]
   ],
   [
@@ -231,32 +261,22 @@
   ],
   [
     [
-      "2023-06-17, 12:09:32",
-      "https://news.ycombinator.com/item?id=36369530"
-    ],
-    [
-      "HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters",
-      "https://github.com/PostHog/HouseWatch"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 10:44:36",
-      "https://news.ycombinator.com/item?id=36368990"
-    ],
-    [
-      "Ask HN: Why does Apple refuse to add window snapping to macOS?",
-      "https://news.ycombinator.com/item?id=36368990"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 05:46:41",
       "https://news.ycombinator.com/item?id=36367638"
     ],
     [
       "How Do Nuclear Submarines Make Oxygen [video]",
       "https://www.youtube.com/watch?v=g3Ud6mHdhlQ"
+    ]
+  ],
+  [
+    [
+      "2023-06-16, 23:43:51",
+      "https://news.ycombinator.com/item?id=36365498"
+    ],
+    [
+      "Tips for Building Resilient Payment Systems (2022)",
+      "https://shopify.engineering/building-resilient-payment-systems"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Measuring blood pressure for less than a dollar using a phone",
       "https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 08:34:52",
-      "https://news.ycombinator.com/item?id=36353322"
-    ],
-    [
-      "Basics of Proofs (2017) [pdf]",
-      "https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 04:31:37",
-      "https://news.ycombinator.com/item?id=36351277"
-    ],
-    [
-      "Planescape: Torment pitch document (1997) [pdf]",
-      "https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf"
     ]
   ]
 ]
