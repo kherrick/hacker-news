@@ -1,11 +1,61 @@
 [
   [
     [
+      "2023-06-18, 17:55:23",
+      "https://news.ycombinator.com/item?id=36382578"
+    ],
+    [
+      "I left the startup I founded. This is how I feel",
+      "https://www.aquiles.me/how-it-feels-quitting-your-own-startup/"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 17:49:56",
+      "https://news.ycombinator.com/item?id=36382514"
+    ],
+    [
+      "Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks [pdf]",
+      "https://www.usenix.org/system/files/sec22-feng.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 17:44:34",
+      "https://news.ycombinator.com/item?id=36382462"
+    ],
+    [
+      "Examples of Post-Growth Practices",
+      "https://postgrowthguide.notion.site/20-cases-of-Post-Growth-Practices-dd67efd4c7304df7b6a5ed59cab4ac8e"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 17:34:01",
+      "https://news.ycombinator.com/item?id=36382361"
+    ],
+    [
+      "Goodbye, Twilio",
+      "https://blog.miguelgrinberg.com/post/goodbye-twilio"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 17:20:32",
+      "https://news.ycombinator.com/item?id=36382244"
+    ],
+    [
+      "Apple Earthquake Survival Kit 1986",
+      "https://archive.org/details/apple-earthquake-survival-kit-1986"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 16:33:22",
       "https://news.ycombinator.com/item?id=36381764"
     ],
     [
-      "Migrating Netflix to GraphQL Safely",
+      "Migrating Netflix to GraphQL safely",
       "https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c"
     ]
   ],
@@ -51,22 +101,22 @@
   ],
   [
     [
-      "2023-06-18, 15:34:32",
-      "https://news.ycombinator.com/item?id=36381177"
-    ],
-    [
-      "Hexa Lift: Single person drone",
-      "https://www.liftaircraft.com"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 15:29:02",
       "https://news.ycombinator.com/item?id=36381136"
     ],
     [
       "OpenLLaMA 13B Released",
       "https://huggingface.co/openlm-research/open_llama_13b"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 15:19:12",
+      "https://news.ycombinator.com/item?id=36381054"
+    ],
+    [
+      "JavaScript modifying cut and paste can sometimes be a good thing in browsers",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/BrowserSmartCutPasteCanBeGood"
     ]
   ],
   [
@@ -221,26 +271,6 @@
   ],
   [
     [
-      "2023-06-18, 04:54:06",
-      "https://news.ycombinator.com/item?id=36377439"
-    ],
-    [
-      "Milk-V Duo: A $9 RISC-V Computer",
-      "https://milkv.io/duo"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 02:49:28",
-      "https://news.ycombinator.com/item?id=36376875"
-    ],
-    [
-      "Scientists create contained ball of turbulence in a tank",
-      "https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 17:26:33",
       "https://news.ycombinator.com/item?id=36372283"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-06-17, 10:04:33",
-      "https://news.ycombinator.com/item?id=36368812"
-    ],
-    [
-      "Implementing a Personal Transportation Hierarchy",
-      "https://collindonnell.com/implementing-a-personal-transportation-hierarchy"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 06:31:55",
-      "https://news.ycombinator.com/item?id=36367854"
-    ],
-    [
-      "Brain Waves Synchronize When People Interact",
-      "https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 05:08:58",
       "https://news.ycombinator.com/item?id=36367491"
     ],
     [
       "Neural networks need data to learn, even if it’s fake",
       "https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 17:25:51",
-      "https://news.ycombinator.com/item?id=36360446"
-    ],
-    [
-      "Scenarios versus OO Requirements",
-      "https://bertrandmeyer.com/2023/06/15/new-article-scenarios-versus-oo-requirements/"
     ]
   ]
 ]
