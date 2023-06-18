@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 03:16:42](https://news.ycombinator.com/item?id=36376982) - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
+* [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
+* [2023-06-18, 02:11:30](https://news.ycombinator.com/item?id=36376687) - [Show HN: Follow every MLB game. Real time. New score alerts](https://mlb.watchbotapp.com)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 * [2023-06-18, 01:13:13](https://news.ycombinator.com/item?id=36376373) - [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
 * [2023-06-18, 00:19:41](https://news.ycombinator.com/item?id=36376111) - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
@@ -12,7 +15,6 @@
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
 * [2023-06-17, 21:22:07](https://news.ycombinator.com/item?id=36374756) - [Good Vibrations](https://fabiensanglard.net/happy/index.html)
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
-* [2023-06-17, 20:31:22](https://news.ycombinator.com/item?id=36374255) - [Data Falsificada (Part 1): “Clusterfake” – Data Colada](https://datacolada.org/109)
 * [2023-06-17, 20:07:57](https://news.ycombinator.com/item?id=36374067) - [Daniel Ellsberg: The Pentagon Papers](https://archive.org/details/pentagonpapersde00beac)
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
@@ -27,8 +29,6 @@
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 05:46:41](https://news.ycombinator.com/item?id=36367638) - [How Do Nuclear Submarines Make Oxygen [video]](https://www.youtube.com/watch?v=g3Ud6mHdhlQ)
-* [2023-06-16, 23:43:51](https://news.ycombinator.com/item?id=36365498) - [Tips for Building Resilient Payment Systems (2022)](https://shopify.engineering/building-resilient-payment-systems)
-* [2023-06-16, 20:55:24](https://news.ycombinator.com/item?id=36363718) - [How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
 
 ## [Archives](archives/index.md)
