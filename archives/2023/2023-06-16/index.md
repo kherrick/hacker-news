@@ -28,6 +28,7 @@
 * [2023-06-16, 18:54:44](https://news.ycombinator.com/item?id=36361906) - [Deep Learning’s Diminishing Returns (2021)](https://spectrum.ieee.org/deep-learning-computational-cost)
 * [2023-06-16, 18:52:08](https://news.ycombinator.com/item?id=36361858) - [Porting Python and Pwnlib Code to Ronin Quick Refs](https://ronin-rb.dev/blog/2023/06/16/new-guides-porting-python-and-pwnlib-to-ronin.html)
 * [2023-06-16, 18:52:06](https://news.ycombinator.com/item?id=36361857) - [Limits of Programmer Productivity: A lesson from Fred Brooks](https://pboyd.io/posts/productivity-limit/)
+* [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
 * [2023-06-16, 18:40:00](https://news.ycombinator.com/item?id=36361652) - [Control, Escape, and Meta Tricks in the Terminal](https://susam.net/blog/control-escape-meta-tricks.html)
 * [2023-06-16, 18:33:14](https://news.ycombinator.com/item?id=36361527) - [Show HN: Discuit – A Reddit alternative with a clean UI and a sensible vision](https://discuit.net/)
 * [2023-06-16, 18:32:06](https://news.ycombinator.com/item?id=36361510) - [European Union votes to bring back replaceable phone batteries](https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html)

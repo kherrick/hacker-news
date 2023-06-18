@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-17, 23:58:20](https://news.ycombinator.com/item?id=36375992) - [Congress is racing to regulate AI. Silicon Valley is eager to teach them how](https://www.washingtonpost.com/technology/2023/06/17/congress-regulating-ai-schumer/)
 * [2023-06-17, 22:55:35](https://news.ycombinator.com/item?id=36375589) - [It's Companies' Fault we don't want to Return to the Office](https://innovationnation.blog/p/its-companies-fault-we-dont-want)
 * [2023-06-17, 22:54:08](https://news.ycombinator.com/item?id=36375582) - [Modern CSS for Dynamic Component-Based Architecture](https://moderncss.dev/modern-css-for-dynamic-component-based-architecture/)
+* [2023-06-17, 22:24:51](https://news.ycombinator.com/item?id=36375321) - [Accountable Capitalism: Remaking Corporate Law Through Stakeholder Governance](https://corpgov.law.harvard.edu/2019/02/11/towards-accountable-capitalism-remaking-corporate-law-through-stakeholder-governance/)
 * [2023-06-17, 22:06:38](https://news.ycombinator.com/item?id=36375179) - [The Staggering Frontiers of CSS](https://buttondown.email/robinrendle/archive/the-many-frontiers-of-css/)
 * [2023-06-17, 21:48:10](https://news.ycombinator.com/item?id=36375002) - [Rust vs Zig Benchmarks](https://programming-language-benchmarks.vercel.app/rust-vs-zig)
 * [2023-06-17, 21:40:33](https://news.ycombinator.com/item?id=36374936) - [The Secret Sauce behind 100K context window in LLMs: all tricks in one place](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
@@ -23,11 +25,9 @@
 * [2023-06-17, 12:13:22](https://news.ycombinator.com/item?id=36369553) - [Update: U+237C ⍼ &Angzarr;](https://ionathan.ch/2023/06/06/angarr.html)
 * [2023-06-17, 12:09:32](https://news.ycombinator.com/item?id=36369530) - [HouseWatch: Open-source tool for monitoring and managing ClickHouse clusters](https://github.com/PostHog/HouseWatch)
 * [2023-06-17, 10:44:36](https://news.ycombinator.com/item?id=36368990) - [Ask HN: Why does Apple refuse to add window snapping to macOS?](https://news.ycombinator.com/item?id=36368990)
-* [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 servers and experience of WebP cloud services on them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 05:46:41](https://news.ycombinator.com/item?id=36367638) - [How Do Nuclear Submarines Make Oxygen [video]](https://www.youtube.com/watch?v=g3Ud6mHdhlQ)
-* [2023-06-16, 22:59:10](https://news.ycombinator.com/item?id=36365131) - [The Price of Correctness](http://databasearchitects.blogspot.com/2015/12/the-price-of-correctness.html)
 * [2023-06-16, 20:55:24](https://news.ycombinator.com/item?id=36363718) - [How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
-* [2023-06-16, 18:40:00](https://news.ycombinator.com/item?id=36361652) - [Control, Escape, and Meta Tricks in the Terminal](https://susam.net/blog/control-escape-meta-tricks.html)
+* [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
 * [2023-06-16, 08:34:52](https://news.ycombinator.com/item?id=36353322) - [Basics of Proofs (2017) [pdf]](https://theory.stanford.edu/~jvondrak/MATH108-2017/Proofs.pdf)
 * [2023-06-16, 04:31:37](https://news.ycombinator.com/item?id=36351277) - [Planescape: Torment pitch document (1997) [pdf]](https://rpgwatch.com/files/Files/00-0208/Torment_Vision_Statement_1997.pdf)
 
