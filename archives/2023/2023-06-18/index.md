@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 07:49:45](https://news.ycombinator.com/item?id=36378167) - [Go: Execution Tracer Overhaul](https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md)
+* [2023-06-18, 07:42:02](https://news.ycombinator.com/item?id=36378137) - [Keygen Library Player (4504 tracks)](https://cable.ayra.ch/webxmp/)
+* [2023-06-18, 07:15:28](https://news.ycombinator.com/item?id=36378032) - [Finite and Infinite Games [pdf]](https://wtf.tw/ref/carse.pdf)
+* [2023-06-18, 07:06:36](https://news.ycombinator.com/item?id=36378003) - [What I’ve learned from 35 years of wearing computerized eyewear](https://spectrum.ieee.org/steve-mann-my-augmediated-life)
+* [2023-06-18, 07:04:08](https://news.ycombinator.com/item?id=36377995) - [How to Read and Organize Online Articles (Without Driving Yourself Crazy)](https://www.gregoryciotti.com/reading-organization/)
+* [2023-06-18, 07:00:20](https://news.ycombinator.com/item?id=36377979) - [Color Space Experiments](https://jlongster.com/color-space-experiments)
 * [2023-06-18, 06:54:48](https://news.ycombinator.com/item?id=36377953) - [W3C and My RSS Spec](http://scripting.com/2023/06/17/193133.html)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
 * [2023-06-18, 06:21:24](https://news.ycombinator.com/item?id=36377805) - [Andreas Kling – “I have received a $100k sponsorship for Ladybird browser”](https://twitter.com/awesomekling/status/1670298370550779905)
