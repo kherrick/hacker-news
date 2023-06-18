@@ -4,7 +4,6 @@
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
 * [2023-06-18, 02:11:30](https://news.ycombinator.com/item?id=36376687) - [Show HN: Follow every MLB game. Real time. New score alerts](https://mlb.watchbotapp.com)
 * [2023-06-18, 02:08:10](https://news.ycombinator.com/item?id=36376669) - [How a Single Line of Code Made a 24-Core Server Slower Than a Laptop](https://pkolaczk.github.io/server-slower-than-a-laptop/)
-* [2023-06-18, 01:13:13](https://news.ycombinator.com/item?id=36376373) - [Update from Lemmy after the Reddit blackout](https://join-lemmy.org/news/2023-06-17_-_Update_from_Lemmy_after_the_Reddit_blackout)
 * [2023-06-18, 00:19:41](https://news.ycombinator.com/item?id=36376111) - [Falcon LLM – A 40B Model](https://falconllm.tii.ae/)
 * [2023-06-18, 00:11:38](https://news.ycombinator.com/item?id=36376071) - [Infinite Photorealistic Worlds Using Procedural Generation](https://arxiv.org/abs/2306.09310)
 * [2023-06-17, 23:09:02](https://news.ycombinator.com/item?id=36375660) - [The Risks of Staying Put](https://buttondown.email/robinrendle/archive/the-risks-of-staying-put/)
@@ -29,6 +28,7 @@
 * [2023-06-17, 13:20:28](https://news.ycombinator.com/item?id=36369951) - [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 05:46:41](https://news.ycombinator.com/item?id=36367638) - [How Do Nuclear Submarines Make Oxygen [video]](https://www.youtube.com/watch?v=g3Ud6mHdhlQ)
+* [2023-06-16, 20:55:24](https://news.ycombinator.com/item?id=36363718) - [How A Supernova Explodes (1985) [pdf]](https://astro.uconn.edu/wp-content/uploads/sites/2830/2020/10/Bethe_Brown_How-a-Supernova-Explodes.pdf)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
 
 ## [Archives](archives/index.md)
