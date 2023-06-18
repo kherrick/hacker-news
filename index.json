@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-18, 02:08:10",
+      "https://news.ycombinator.com/item?id=36376669"
+    ],
+    [
+      "How a Single Line of Code Made a 24-Core Server Slower Than a Laptop",
+      "https://pkolaczk.github.io/server-slower-than-a-laptop/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 01:13:13",
       "https://news.ycombinator.com/item?id=36376373"
     ],
@@ -27,16 +37,6 @@
     [
       "Infinite Photorealistic Worlds Using Procedural Generation",
       "https://arxiv.org/abs/2306.09310"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 23:57:10",
-      "https://news.ycombinator.com/item?id=36375984"
-    ],
-    [
-      "Bernoulli Family",
-      "https://en.wikipedia.org/wiki/Bernoulli_family"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-06-17, 18:28:58",
-      "https://news.ycombinator.com/item?id=36372987"
-    ],
-    [
-      "2D Solar Cells Poised to Set Power-per-Weight Record",
-      "https://spectrum.ieee.org/solar-cells"
-    ]
-  ],
-  [
-    [
       "2023-06-17, 17:26:37",
       "https://news.ycombinator.com/item?id=36372284"
     ],
@@ -257,6 +247,16 @@
     [
       "Update: U+237C ⍼ &Angzarr;",
       "https://ionathan.ch/2023/06/06/angarr.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 07:45:39",
+      "https://news.ycombinator.com/item?id=36368177"
+    ],
+    [
+      "Using Git-annex for Data Archiving",
+      "https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving"
     ]
   ],
   [
