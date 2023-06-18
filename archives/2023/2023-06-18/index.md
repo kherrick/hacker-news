@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
 * [2023-06-18, 04:54:06](https://news.ycombinator.com/item?id=36377439) - [Milk-V Duo: A $9 RISC-V COMPUTER](https://milkv.io/duo)
+* [2023-06-18, 04:19:32](https://news.ycombinator.com/item?id=36377280) - [Squeezing a Little More Performance Out of Bytecode Interpreters](https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/)
 * [2023-06-18, 03:16:42](https://news.ycombinator.com/item?id=36376982) - [Hybrid SDF-Voxel Traversal](https://www.shadertoy.com/view/dtVSzw)
 * [2023-06-18, 02:49:28](https://news.ycombinator.com/item?id=36376875) - [Scientists create contained ball of turbulence in a tank](https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence)
 * [2023-06-18, 02:49:17](https://news.ycombinator.com/item?id=36376872) - [A History Of Nvidia Stream Multiprocessor](https://fabiensanglard.net/cuda/index.html)
