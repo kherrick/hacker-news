@@ -1,22 +1,22 @@
 [
   [
     [
-      "2023-06-18, 20:16:13",
-      "https://news.ycombinator.com/item?id=36384015"
-    ],
-    [
-      "LLMs can label data as well as human annotators, but 20 times faster",
-      "https://www.refuel.ai/blog-posts/llm-labeling-technical-report"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 20:02:54",
       "https://news.ycombinator.com/item?id=36383875"
     ],
     [
       "Redbean Systems",
       "https://redbean.systems/"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 19:50:46",
+      "https://news.ycombinator.com/item?id=36383773"
+    ],
+    [
+      "Show HN: Indexing Discord content into the web – Answer Overflow",
+      "https://www.answeroverflow.com/"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks [pdf]",
       "https://www.usenix.org/system/files/sec22-feng.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 17:44:34",
-      "https://news.ycombinator.com/item?id=36382462"
-    ],
-    [
-      "Examples of Post-Growth Practices",
-      "https://postgrowthguide.notion.site/20-cases-of-Post-Growth-Practices-dd67efd4c7304df7b6a5ed59cab4ac8e"
     ]
   ],
   [
@@ -221,16 +211,6 @@
   ],
   [
     [
-      "2023-06-18, 12:26:09",
-      "https://news.ycombinator.com/item?id=36379615"
-    ],
-    [
-      "Follow up to “I booted Linux 293k times”",
-      "https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 10:23:31",
       "https://news.ycombinator.com/item?id=36378896"
     ],
@@ -277,6 +257,26 @@
     [
       "Make microservices look like monoliths",
       "https://github.com/crufters/actio"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 17:15:06",
+      "https://news.ycombinator.com/item?id=36372176"
+    ],
+    [
+      "Can you just move into an abandoned house?",
+      "https://www.quora.com/Is-it-okay-to-go-into-abandoned-houses"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 07:28:44",
+      "https://news.ycombinator.com/item?id=36368108"
+    ],
+    [
+      "Dingo: A Low-Cost Open-Source Robot Quadruped",
+      "https://github.com/Yerbert/DingoQuadruped"
     ]
   ],
   [
