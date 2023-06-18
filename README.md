@@ -6,7 +6,6 @@
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (Foundations of Information Theory: Part 3)](https://mbernste.github.io/posts/sourcecoding/)
 * [2023-06-18, 13:33:10](https://news.ycombinator.com/item?id=36380149) - [The legend of “x86 CPUs decode instructions into RISC form internally”](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 13:03:19](https://news.ycombinator.com/item?id=36379930) - [Bugs – opinionated Jira CLI for those of us who hate Jira](https://github.com/reddit/bugs)
-* [2023-06-18, 12:42:40](https://news.ycombinator.com/item?id=36379767) - [Police got called to an overcrowded presentation on “rejuvenation” technology](https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/)
 * [2023-06-18, 12:26:09](https://news.ycombinator.com/item?id=36379615) - [Follow up to “I booted Linux 293k times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
 * [2023-06-18, 11:42:16](https://news.ycombinator.com/item?id=36379265) - [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 * [2023-06-18, 10:23:31](https://news.ycombinator.com/item?id=36378896) - [A complete guide to getting what you want (2018)](https://www.raptitude.com/2018/06/getting-what-you-want/)
@@ -30,6 +29,7 @@
 * [2023-06-17, 06:31:55](https://news.ycombinator.com/item?id=36367854) - [Brain Waves Synchronize When People Interact](https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/)
 * [2023-06-16, 23:54:58](https://news.ycombinator.com/item?id=36365595) - [Arduino reads punched cards for cloud computing](https://blog.arduino.cc/2023/06/16/this-arduino-reads-punch-cards-for-cloud-computing/)
 * [2023-06-16, 18:42:06](https://news.ycombinator.com/item?id=36361687) - [Measuring blood pressure for less than a dollar using a phone](https://arstechnica.com/science/2023/06/ultra-low-cost-smartphone-attachment-measures-blood-pressure-at-home/)
+* [2023-06-16, 17:25:51](https://news.ycombinator.com/item?id=36360446) - [Scenarios versus OO Requirements](https://bertrandmeyer.com/2023/06/15/new-article-scenarios-versus-oo-requirements/)
 
 ## [Archives](archives/index.md)
 
