@@ -8,6 +8,7 @@
 * [2023-06-18, 17:55:23](https://news.ycombinator.com/item?id=36382578) - [I left the startup I founded. This is how I feel](https://www.aquiles.me/how-it-feels-quitting-your-own-startup/)
 * [2023-06-18, 17:49:56](https://news.ycombinator.com/item?id=36382514) - [Off-Path Network Traffic Manipulation via Revitalized ICMP Redirect Attacks [pdf]](https://www.usenix.org/system/files/sec22-feng.pdf)
 * [2023-06-18, 17:44:34](https://news.ycombinator.com/item?id=36382462) - [Examples of Post-Growth Practices](https://postgrowthguide.notion.site/20-cases-of-Post-Growth-Practices-dd67efd4c7304df7b6a5ed59cab4ac8e)
+* [2023-06-18, 17:44:11](https://news.ycombinator.com/item?id=36382456) - [Our security auditor is an idiot. How do I give him the info he wants? (2011)](https://serverfault.com/questions/293217/our-security-auditor-is-an-idiot-how-do-i-give-him-the-information-he-wants)
 * [2023-06-18, 17:34:01](https://news.ycombinator.com/item?id=36382361) - [Goodbye, Twilio](https://blog.miguelgrinberg.com/post/goodbye-twilio)
 * [2023-06-18, 17:20:32](https://news.ycombinator.com/item?id=36382244) - [Apple Earthquake Survival Kit 1986](https://archive.org/details/apple-earthquake-survival-kit-1986)
 * [2023-06-18, 16:40:39](https://news.ycombinator.com/item?id=36381823) - [Ask HN: If Google Workspace/Gsuite disappeared tomorrow, where would you go?](https://news.ycombinator.com/item?id=36381823)
