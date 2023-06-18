@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 20:38:01](https://news.ycombinator.com/item?id=36384207) - [Meta/Facebook is inviting Fediverse admins under NDA for “meetings”](https://mstdn.social/@rysiek/110548129223290575)
 * [2023-06-18, 20:16:13](https://news.ycombinator.com/item?id=36384015) - [LLMs can label data as well as human annotators, but 20 times faster](https://www.refuel.ai/blog-posts/llm-labeling-technical-report)
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:50:46](https://news.ycombinator.com/item?id=36383773) - [Show HN: Indexing Discord content into the web – Answer Overflow](https://www.answeroverflow.com/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-18, 20:38:01](https://news.ycombinator.com/item?id=36384207) - [Meta/Facebook is inviting Fediverse admins under NDA for “meetings”](https://mstdn.social/@rysiek/110548129223290575)
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:50:46](https://news.ycombinator.com/item?id=36383773) - [Show HN: Indexing Discord content into the web – Answer Overflow](https://www.answeroverflow.com/)
 * [2023-06-18, 19:32:57](https://news.ycombinator.com/item?id=36383571) - [Spectral Contexts in Go](https://hypirion.com/musings/spectral-contexts-in-go)
@@ -13,7 +14,7 @@
 * [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Graphic design items from Internet Archive](https://archives.design)
 * [2023-06-18, 15:34:47](https://news.ycombinator.com/item?id=36381181) - [Port forwarding](https://blog.azirevpn.com/port-forwarding/)
-* [2023-06-18, 15:29:02](https://news.ycombinator.com/item?id=36381136) - [OpenLLaMA 13B Released](https://huggingface.co/openlm-research/open_llama_13b)
+* [2023-06-18, 15:34:32](https://news.ycombinator.com/item?id=36381177) - [Hexa Lift: Single person drone](https://www.liftaircraft.com)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [2023-06-18, 14:35:47](https://news.ycombinator.com/item?id=36380636) - [Moldable Live Programming for Clojure](https://github.com/nextjournal/clerk)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
@@ -24,7 +25,6 @@
 * [2023-06-18, 10:23:31](https://news.ycombinator.com/item?id=36378896) - [A complete guide to getting what you want (2018)](https://www.raptitude.com/2018/06/getting-what-you-want/)
 * [2023-06-18, 09:43:24](https://news.ycombinator.com/item?id=36378689) - [Jellyfin: Free software media system](https://github.com/jellyfin/jellyfin)
 * [2023-06-18, 06:35:51](https://news.ycombinator.com/item?id=36377875) - [Sennheiser HD 555 to HD 595 Mod](http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/)
-* [2023-06-17, 18:07:42](https://news.ycombinator.com/item?id=36372748) - [A coupon-crazy Brazilian app figured out how to beat Uber Eats](https://restofworld.org/2023/ifood-brazil-delivery-app/)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
 * [2023-06-17, 17:15:06](https://news.ycombinator.com/item?id=36372176) - [Can you just move into an abandoned house?](https://www.quora.com/Is-it-okay-to-go-into-abandoned-houses)
 * [2023-06-17, 07:28:44](https://news.ycombinator.com/item?id=36368108) - [Dingo: A Low-Cost Open-Source Robot Quadruped](https://github.com/Yerbert/DingoQuadruped)
