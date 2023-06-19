@@ -21,6 +21,7 @@
 * [2023-06-17, 20:59:51](https://news.ycombinator.com/item?id=36374528) - [Data-Driven Science and Engineering 2nd Edition [pdf]](https://faculty.washington.edu/sbrunton/DataBookV2.pdf)
 * [2023-06-17, 20:52:09](https://news.ycombinator.com/item?id=36374467) - [Why Your Roses Smell Nice](https://worldsensorium.com/why-your-roses-smell-nice/)
 * [2023-06-17, 20:48:14](https://news.ycombinator.com/item?id=36374429) - [GPT-4 apparently can't recite the litany against fear from Dune](https://twitter.com/michael_nielsen/status/1670150729422757888)
+* [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
 * [2023-06-17, 20:39:26](https://news.ycombinator.com/item?id=36374334) - [You're neither in control nor responsible for their failures](https://www.sudarkoff.blog/p/youre-neither-in-control-nor-responsible)
 * [2023-06-17, 20:31:22](https://news.ycombinator.com/item?id=36374255) - [Data Falsificada (Part 1): “Clusterfake” – Data Colada](https://datacolada.org/109)
 * [2023-06-17, 20:07:57](https://news.ycombinator.com/item?id=36374067) - [Daniel Ellsberg: The Pentagon Papers](https://archive.org/details/pentagonpapersde00beac)
