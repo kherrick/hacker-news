@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 15:26:09](https://news.ycombinator.com/item?id=36392150) - [Tourist submarine goes missing on dive to wreck of Titanic](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
 * [2023-06-19, 14:34:08](https://news.ycombinator.com/item?id=36391492) - [KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”](https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable)
 * [2023-06-19, 14:18:02](https://news.ycombinator.com/item?id=36391360) - [Reforming the free software message](https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html)
 * [2023-06-19, 13:48:24](https://news.ycombinator.com/item?id=36391053) - [Titanic tourist sub goes missing sparking search](https://www.bbc.com/news/world-us-canada-65953872)
