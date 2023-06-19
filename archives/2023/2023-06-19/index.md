@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 07:53:03](https://news.ycombinator.com/item?id=36388433) - [DreamWorks Animation's open source reandering engine – MoonRay](https://openmoonray.org/download)
 * [2023-06-19, 07:17:05](https://news.ycombinator.com/item?id=36388219) - [OpenLLM](https://github.com/bentoml/OpenLLM)
 * [2023-06-19, 07:10:30](https://news.ycombinator.com/item?id=36388178) - [Canva saves millions annually in Amazon S3 costs](https://www.canva.dev/blog/engineering/optimising-s3-savings/)
 * [2023-06-19, 06:29:50](https://news.ycombinator.com/item?id=36387939) - [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances)
