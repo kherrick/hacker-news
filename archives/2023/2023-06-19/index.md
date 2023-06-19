@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
 * [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
+* [2023-06-19, 21:52:35](https://news.ycombinator.com/item?id=36396932) - [SVB Customers Who Lost Their Deposits Remain on the Hook for Loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
+* [2023-06-19, 21:48:00](https://news.ycombinator.com/item?id=36396891) - [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
 * [2023-06-19, 21:25:17](https://news.ycombinator.com/item?id=36396675) - [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
 * [2023-06-19, 20:55:45](https://news.ycombinator.com/item?id=36396338) - [Thousands of Azure Websites Are Still Vulnerable to Subdomain Takeovers](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
 * [2023-06-19, 20:27:18](https://news.ycombinator.com/item?id=36396069) - [Texas governor signs law shutting diversity offices at public universities](https://www.reuters.com/world/us/texas-governor-signs-law-shutting-diversity-offices-public-universities-2023-06-15/)
