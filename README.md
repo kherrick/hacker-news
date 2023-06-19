@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 11:32:31](https://news.ycombinator.com/item?id=36389805) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 10:32:37](https://news.ycombinator.com/item?id=36389443) - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
@@ -11,7 +12,6 @@
 * [2023-06-19, 06:19:47](https://news.ycombinator.com/item?id=36387874) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-19, 05:03:00](https://news.ycombinator.com/item?id=36387477) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:34:37](https://news.ycombinator.com/item?id=36387371) - [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
-* [2023-06-19, 04:00:45](https://news.ycombinator.com/item?id=36387197) - [WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore and Linux Kernel](https://www.phoronix.com/news/Microsoft-WSL-1.3.10)
 * [2023-06-19, 03:53:10](https://news.ycombinator.com/item?id=36387141) - [Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
 * [2023-06-19, 03:34:05](https://news.ycombinator.com/item?id=36387030) - [Releasing an indie game on 3 consoles at once and failing financially (2016)](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 * [2023-06-19, 01:01:59](https://news.ycombinator.com/item?id=36386112) - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)

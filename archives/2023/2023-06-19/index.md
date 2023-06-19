@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 11:32:31](https://news.ycombinator.com/item?id=36389805) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 10:32:37](https://news.ycombinator.com/item?id=36389443) - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
