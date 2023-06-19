@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
