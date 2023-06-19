@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36395296"
     ],
     [
-      "Metaprogramming in Zig and Parsing CSS",
+      "Metaprogramming in Zig and parsing CSS",
       "https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36394832"
     ],
     [
-      "Sea Change",
+      "Sea Change (2022)",
       "https://www.oaktreecapital.com/insights/memo/sea-change"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36394569"
     ],
     [
-      "AI: First New UI Paradigm in 60 Years, Jakob Nielsen",
+      "AI: First New UI Paradigm in 60 Years",
       "https://www.nngroup.com/articles/ai-paradigm/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36393262"
     ],
     [
-      "Meta introduces Voicebox: state-of-the-art generative AI model for speech",
+      "Voicebox: Generative AI model for speech that generalizes across tasks",
       "https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36390405"
     ],
     [
-      "Plain Text Journaling in Vim",
+      "Plain text journaling in Vim",
       "https://peppe.rs/posts/plain_text_journaling/"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-06-18, 14:22:44",
-      "https://news.ycombinator.com/item?id=36380533"
-    ],
-    [
-      "A Closer Look at LightSolver’s Laser-Based Processing Unit (LPU)",
-      "https://www.allaboutcircuits.com/news/a-closer-look-at-lightsolvers-laser-based-processing-unit-lpu/"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 14:09:31",
       "https://news.ycombinator.com/item?id=36380434"
     ],
@@ -297,6 +287,16 @@
     [
       "IKEA-Oriented Development",
       "https://taylor.town/ikea-oriented-development"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 08:17:18",
+      "https://news.ycombinator.com/item?id=36368309"
+    ],
+    [
+      "Platform Hopping",
+      "http://www.linusakesson.net/music/platform-hopping/index.php"
     ]
   ]
 ]
