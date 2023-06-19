@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 20:27:18](https://news.ycombinator.com/item?id=36396069) - [Texas governor signs law shutting diversity offices at public universities](https://www.reuters.com/world/us/texas-governor-signs-law-shutting-diversity-offices-public-universities-2023-06-15/)
 * [2023-06-19, 20:04:23](https://news.ycombinator.com/item?id=36395856) - [Dunning–Kruger effect and flat-earthers: An exploratory analysis](https://journals.sagepub.com/doi/10.1177/09636625231166255)
 * [2023-06-19, 19:09:15](https://news.ycombinator.com/item?id=36395296) - [Metaprogramming in Zig and Parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 18:29:30](https://news.ycombinator.com/item?id=36394832) - [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
