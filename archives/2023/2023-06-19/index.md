@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 10:32:37](https://news.ycombinator.com/item?id=36389443) - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+* [2023-06-19, 08:58:17](https://news.ycombinator.com/item?id=36388828) - [We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
 * [2023-06-19, 07:53:03](https://news.ycombinator.com/item?id=36388433) - [DreamWorks Animation's open source reandering engine – MoonRay](https://openmoonray.org/download)
 * [2023-06-19, 07:17:05](https://news.ycombinator.com/item?id=36388219) - [OpenLLM](https://github.com/bentoml/OpenLLM)

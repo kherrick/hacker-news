@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 10:32:37](https://news.ycombinator.com/item?id=36389443) - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
+* [2023-06-19, 08:58:17](https://news.ycombinator.com/item?id=36388828) - [We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
 * [2023-06-19, 07:53:03](https://news.ycombinator.com/item?id=36388433) - [MoonRay – DreamWorks’ open-source MCRT renderer](https://openmoonray.org/download)
 * [2023-06-19, 07:17:05](https://news.ycombinator.com/item?id=36388219) - [OpenLLM](https://github.com/bentoml/OpenLLM)
@@ -9,13 +11,11 @@
 * [2023-06-19, 06:19:47](https://news.ycombinator.com/item?id=36387874) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-19, 05:03:00](https://news.ycombinator.com/item?id=36387477) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:34:37](https://news.ycombinator.com/item?id=36387371) - [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
-* [2023-06-19, 04:00:45](https://news.ycombinator.com/item?id=36387197) - [WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore and Linux Kernel](https://www.phoronix.com/news/Microsoft-WSL-1.3.10)
 * [2023-06-19, 03:53:10](https://news.ycombinator.com/item?id=36387141) - [Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
 * [2023-06-19, 03:34:05](https://news.ycombinator.com/item?id=36387030) - [Releasing an indie game on 3 consoles at once and failing financially (2016)](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 * [2023-06-19, 01:01:59](https://news.ycombinator.com/item?id=36386112) - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
 * [2023-06-19, 00:27:21](https://news.ycombinator.com/item?id=36385938) - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
 * [2023-06-19, 00:04:30](https://news.ycombinator.com/item?id=36385809) - [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
-* [2023-06-18, 23:30:14](https://news.ycombinator.com/item?id=36385617) - [Why you can't Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
 * [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 * [2023-06-18, 21:21:48](https://news.ycombinator.com/item?id=36384625) - [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
 * [2023-06-18, 21:13:42](https://news.ycombinator.com/item?id=36384548) - [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
@@ -28,8 +28,8 @@
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:00:13](https://news.ycombinator.com/item?id=36375118) - [Invisibility Training for Motorcyclists [video]](https://www.youtube.com/watch?v=x94PGgYKHQ0)
 * [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
+* [2023-06-17, 19:59:28](https://news.ycombinator.com/item?id=36373976) - [WingetUI – A better UI for your package managers](http://www.marticliment.com/wingetui/)
 * [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
-* [2023-06-16, 03:43:43](https://news.ycombinator.com/item?id=36350894) - [The Fultograph – Early Wireless Fax Machine from 1927](https://historictech.com/the-fultograph-the-worlds-1st-fax-machine-from-1927/)
 
 ## [Archives](archives/index.md)
 
