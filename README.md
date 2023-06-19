@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 23:34:10](https://news.ycombinator.com/item?id=36397785) - [SFO United Staff Accused of Stealing Marijuana from Checked Bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
 * [2023-06-19, 23:11:06](https://news.ycombinator.com/item?id=36397591) - [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
 * [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
 * [2023-06-19, 22:45:52](https://news.ycombinator.com/item?id=36397380) - [Gopher Wrangling. Effective error handling in Go](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
@@ -22,7 +23,6 @@
 * [2023-06-19, 11:41:22](https://news.ycombinator.com/item?id=36389862) - [Are you a late bloomer in work or love? Maybe you’re right on time](https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7)
 * [2023-06-19, 11:08:23](https://news.ycombinator.com/item?id=36389660) - [Ken Thompson on the bug that exposed his compiler trojan (2021)](https://www.tuhs.org/pipermail/tuhs/2021-September/024486.html)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
-* [2023-06-19, 09:45:08](https://news.ycombinator.com/item?id=36389140) - [Fibers, Oh My (2020)](https://graphitemaster.github.io/fibers/)
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's new keyword: 'Using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint – A declarative UI toolkit for embedded and desktop](https://slint.dev)
 * [2023-06-18, 21:17:10](https://news.ycombinator.com/item?id=36384581) - [A paradigm for developer productivity (2022)](https://ktheory.com/paradigm-for-developer-productivity/)

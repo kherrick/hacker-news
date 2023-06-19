@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 23:34:10](https://news.ycombinator.com/item?id=36397785) - [SFO United Staff Accused of Stealing Marijuana from Checked Bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
 * [2023-06-19, 23:11:06](https://news.ycombinator.com/item?id=36397591) - [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
 * [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
 * [2023-06-19, 22:45:52](https://news.ycombinator.com/item?id=36397380) - [Gopher Wrangling. Effective error handling in Go](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
