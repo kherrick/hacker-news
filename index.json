@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2023-06-19, 17:22:38",
+      "https://news.ycombinator.com/item?id=36393809"
+    ],
+    [
+      "Japan pushes for Apple and Google to allow sideloading",
+      "https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 17:20:43",
+      "https://news.ycombinator.com/item?id=36393782"
+    ],
+    [
+      "Show HN: Python package for interfacing with ChatGPT with minimized complexity",
+      "https://github.com/minimaxir/simpleaichat"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 17:13:00",
       "https://news.ycombinator.com/item?id=36393673"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2023-06-19, 16:54:05",
-      "https://news.ycombinator.com/item?id=36393357"
+      "2023-06-19, 16:52:36",
+      "https://news.ycombinator.com/item?id=36393327"
     ],
     [
-      "Open LLAMA 13B released, trained on 1T tokens",
-      "https://huggingface.co/openlm-research/open_llama_13b_easylm"
+      "When dying patients want unproven drugs",
+      "https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval"
     ]
   ],
   [
@@ -71,12 +91,12 @@
   ],
   [
     [
-      "2023-06-19, 15:26:09",
-      "https://news.ycombinator.com/item?id=36392150"
+      "2023-06-19, 15:53:25",
+      "https://news.ycombinator.com/item?id=36392510"
     ],
     [
-      "Tourist submarine goes missing on dive to wreck of Titanic",
-      "https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic"
+      "How to ramp up a factory consuming a lot of energy?",
+      "https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Show HN: My recommendation engine for Hacker News",
       "https://hn-recommend.julienc.me"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 14:34:08",
-      "https://news.ycombinator.com/item?id=36391492"
-    ],
-    [
-      "KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”",
-      "https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2023-06-19, 11:41:22",
+      "https://news.ycombinator.com/item?id=36389862"
+    ],
+    [
+      "Are you a late bloomer in work or love? Maybe you’re right on time",
+      "https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 10:07:25",
       "https://news.ycombinator.com/item?id=36389285"
     ],
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36388894"
     ],
     [
-      "TypeScript 5.2's New Keyword: 'using'",
+      "TypeScript 5.2's new keyword: 'Using'",
       "https://www.totaltypescript.com/typescript-5-2-new-keyword-using"
     ]
   ],
@@ -165,28 +185,8 @@
       "https://news.ycombinator.com/item?id=36388821"
     ],
     [
-      "Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop",
+      "Show HN: Slint – A declarative UI toolkit for embedded and desktop",
       "https://slint.dev"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 07:10:30",
-      "https://news.ycombinator.com/item?id=36388178"
-    ],
-    [
-      "How Canva saves Amazon S3 costs",
-      "https://www.canva.dev/blog/engineering/optimising-s3-savings/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 06:29:50",
-      "https://news.ycombinator.com/item?id=36387939"
-    ],
-    [
-      "Comparison of different Lemmy Instances",
-      "https://github.com/maltfield/awesome-lemmy-instances"
     ]
   ],
   [
