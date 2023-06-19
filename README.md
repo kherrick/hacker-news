@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
+* [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
 * [2023-06-19, 07:53:03](https://news.ycombinator.com/item?id=36388433) - [MoonRay – DreamWorks’ open-source MCRT renderer](https://openmoonray.org/download)
 * [2023-06-19, 07:17:05](https://news.ycombinator.com/item?id=36388219) - [OpenLLM](https://github.com/bentoml/OpenLLM)
@@ -29,7 +30,6 @@
 * [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
 * [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
-* [2023-06-16, 03:43:43](https://news.ycombinator.com/item?id=36350894) - [The Fultograph – Early Wireless Fax Machine from 1927](https://historictech.com/the-fultograph-the-worlds-1st-fax-machine-from-1927/)
 
 ## [Archives](archives/index.md)
 
