@@ -117,3 +117,4 @@
 * [2023-06-17, 00:53:19](https://news.ycombinator.com/item?id=36366002) - [Merging Bcachefs](https://lwn.net/SubscriberLink/934692/5046d466490d9220/)
 * [2023-06-17, 00:32:57](https://news.ycombinator.com/item?id=36365844) - [Yeovil's Virtual Museum](http://www.yeovilhistory.info/index.htm)
 * [2023-06-17, 00:29:11](https://news.ycombinator.com/item?id=36365819) - [How Ancient Astronaut Theorists Faked a Hindu Nuclear Explosion](https://www.jasoncolavito.com/the-case-of-the-false-quotes.html)
+* [2023-06-17, 00:07:26](https://news.ycombinator.com/item?id=36365680) - [The Diagrammer (1970) [video]](https://vimeo.com/75532300)
