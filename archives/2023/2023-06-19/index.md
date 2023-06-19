@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 13:17:39](https://news.ycombinator.com/item?id=36390737) - [Biggest Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)
+* [2023-06-19, 13:04:23](https://news.ycombinator.com/item?id=36390600) - [Apple Is Taking on Apples in a Weird Trademark Battle](https://www.wired.com/story/apple-vs-apples-trademark-battle/)
 * [2023-06-19, 12:30:54](https://news.ycombinator.com/item?id=36390308) - [Twitter’s Lawyers Admit They’re Overwhelmed; 2000 Laid Off Employees File Claims](https://www.techdirt.com/2023/06/16/twitters-lawyers-admit-theyre-overwhelmed-as-nearly-2000-laid-off-employees-file-arbitration-claims/)
 * [2023-06-19, 11:41:22](https://news.ycombinator.com/item?id=36389862) - [Are You a Late Bloomer in Work or Love? Maybe You’re Right on Time](https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7)
 * [2023-06-19, 11:32:31](https://news.ycombinator.com/item?id=36389805) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
