@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
-* [2023-06-19, 21:52:35](https://news.ycombinator.com/item?id=36396932) - [SVB Customers Who Lost Their Deposits Remain on the Hook for Loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
+* [2023-06-19, 21:52:35](https://news.ycombinator.com/item?id=36396932) - [SVB customers who lost their deposits remain on the hook for loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
 * [2023-06-19, 21:48:00](https://news.ycombinator.com/item?id=36396891) - [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
 * [2023-06-19, 21:25:17](https://news.ycombinator.com/item?id=36396675) - [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
-* [2023-06-19, 20:55:45](https://news.ycombinator.com/item?id=36396338) - [Thousands of Azure Websites Are Still Vulnerable to Subdomain Takeovers](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
+* [2023-06-19, 20:55:45](https://news.ycombinator.com/item?id=36396338) - [Microsoft Azure vulnerability affecting thousands of new subdomains each month](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
 * [2023-06-19, 20:06:11](https://news.ycombinator.com/item?id=36395866) - [Eight days later: Kbin, Lemmy, the landed gentry, and the rise of “threadiverse”](https://privacy.thenexus.today/8-days-later-draft-kbin-lemmy-landed-gentry/)
 * [2023-06-19, 19:09:15](https://news.ycombinator.com/item?id=36395296) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 18:11:09](https://news.ycombinator.com/item?id=36394569) - [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
@@ -12,6 +12,7 @@
 * [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:49:19](https://news.ycombinator.com/item?id=36393262) - [Voicebox: Generative AI model for speech that generalizes across tasks](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 * [2023-06-19, 16:33:04](https://news.ycombinator.com/item?id=36393030) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
+* [2023-06-19, 15:59:38](https://news.ycombinator.com/item?id=36392577) - [Power companies fight Maine’s proposed non-profit utility](https://www.theguardian.com/us-news/2023/jun/18/maine-state-run-utility-power-companies)
 * [2023-06-19, 15:53:25](https://news.ycombinator.com/item?id=36392510) - [How to ramp up a factory consuming a lot of energy?](https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy)
 * [2023-06-19, 14:45:57](https://news.ycombinator.com/item?id=36391655) - [Show HN: My recommendation engine for Hacker News](https://hn-recommend.julienc.me)
 * [2023-06-19, 13:48:24](https://news.ycombinator.com/item?id=36391053) - [Titanic tourist submersible goes missing with search under way](https://www.bbc.com/news/world-us-canada-65953872)
@@ -29,7 +30,6 @@
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
 * [2023-06-17, 15:41:11](https://news.ycombinator.com/item?id=36371167) - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development)
 * [2023-06-17, 11:02:25](https://news.ycombinator.com/item?id=36369060) - [BetaWiki – An open encyclopedia of software history](https://betawiki.net/wiki/Main_Page)
-* [2023-06-17, 08:17:18](https://news.ycombinator.com/item?id=36368309) - [Platform Hopping](http://www.linusakesson.net/music/platform-hopping/index.php)
 
 ## [Archives](archives/index.md)
 
