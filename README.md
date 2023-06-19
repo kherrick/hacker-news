@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 23:11:06](https://news.ycombinator.com/item?id=36397591) - [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
 * [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
+* [2023-06-19, 22:45:52](https://news.ycombinator.com/item?id=36397380) - [Gopher Wrangling. Effective error handling in Go](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
 * [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
 * [2023-06-19, 21:52:35](https://news.ycombinator.com/item?id=36396932) - [SVB customers who lost their deposits remain on the hook for loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
 * [2023-06-19, 21:48:00](https://news.ycombinator.com/item?id=36396891) - [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
@@ -24,11 +26,9 @@
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's new keyword: 'Using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint – A declarative UI toolkit for embedded and desktop](https://slint.dev)
 * [2023-06-18, 21:17:10](https://news.ycombinator.com/item?id=36384581) - [A paradigm for developer productivity (2022)](https://ktheory.com/paradigm-for-developer-productivity/)
-* [2023-06-18, 20:37:51](https://news.ycombinator.com/item?id=36384206) - [The Last Place on Earth (2013)](http://codex99.com/cartography/the-last-place-on-earth.html)
 * [2023-06-18, 15:09:59](https://news.ycombinator.com/item?id=36380967) - [Chemists introduce a two-step process for making phosphorus compounds](https://phys.org/news/2023-06-two-step-phosphorus-containing-chemicals.html)
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
-* [2023-06-17, 15:41:11](https://news.ycombinator.com/item?id=36371167) - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development)
 * [2023-06-17, 11:02:25](https://news.ycombinator.com/item?id=36369060) - [BetaWiki – An open encyclopedia of software history](https://betawiki.net/wiki/Main_Page)
 
 ## [Archives](archives/index.md)
