@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 16:57:03](https://news.ycombinator.com/item?id=36393406) - [ELO Everything](https://eloeverything.co/)
 * [2023-06-19, 16:52:36](https://news.ycombinator.com/item?id=36393327) - [When Dying Patients Want Unproven Drugs](https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval)
+* [2023-06-19, 16:49:19](https://news.ycombinator.com/item?id=36393262) - [Meta introduces Voicebox: state-of-the-art generative AI model for speech](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 * [2023-06-19, 16:33:04](https://news.ycombinator.com/item?id=36393030) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 16:29:36](https://news.ycombinator.com/item?id=36392976) - [‘His ideas resonate’: how the Unabomber’s dangerous anti-tech manifesto lives on](https://www.theguardian.com/us-news/2023/jun/19/unabomber-ted-kaczynski-dangerous-anti-tech-manifesto-lives-on)
 * [2023-06-19, 15:59:38](https://news.ycombinator.com/item?id=36392577) - [Power companies spend millions to fight Maine’s proposed not for profit utility](https://www.theguardian.com/us-news/2023/jun/18/maine-state-run-utility-power-companies)
@@ -27,8 +29,6 @@
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
-* [2023-06-17, 22:00:13](https://news.ycombinator.com/item?id=36375118) - [Invisibility Training for Motorcyclists [video]](https://www.youtube.com/watch?v=x94PGgYKHQ0)
-* [2023-06-17, 19:59:28](https://news.ycombinator.com/item?id=36373976) - [WingetUI – A better UI for your package managers](http://www.marticliment.com/wingetui/)
 * [2023-06-17, 00:07:26](https://news.ycombinator.com/item?id=36365680) - [The Diagrammer (1970) [video]](https://vimeo.com/75532300)
 
 ## [Archives](archives/index.md)

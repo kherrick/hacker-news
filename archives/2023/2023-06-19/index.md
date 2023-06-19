@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 16:57:03](https://news.ycombinator.com/item?id=36393406) - [ELO Everything](https://eloeverything.co/)
 * [2023-06-19, 16:52:36](https://news.ycombinator.com/item?id=36393327) - [When Dying Patients Want Unproven Drugs](https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval)
+* [2023-06-19, 16:49:19](https://news.ycombinator.com/item?id=36393262) - [Meta introduces Voicebox: state-of-the-art generative AI model for speech](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 * [2023-06-19, 16:33:04](https://news.ycombinator.com/item?id=36393030) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 16:29:36](https://news.ycombinator.com/item?id=36392976) - [‘His ideas resonate’: how the Unabomber’s dangerous anti-tech manifesto lives on](https://www.theguardian.com/us-news/2023/jun/19/unabomber-ted-kaczynski-dangerous-anti-tech-manifesto-lives-on)
 * [2023-06-19, 16:08:18](https://news.ycombinator.com/item?id=36392689) - [Paris air show takes off with biggest ever plane order](https://www.reuters.com/business/aerospace-defense/paris-air-show-returns-with-jets-missiles-demand-2023-06-19/)
