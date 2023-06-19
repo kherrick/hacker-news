@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 10:32:37",
+      "https://news.ycombinator.com/item?id=36389443"
+    ],
+    [
+      "Compromise Creates Values",
+      "https://blog.briankitano.com/compromise-values/"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 10:07:25",
       "https://news.ycombinator.com/item?id=36389285"
     ],
@@ -17,6 +27,16 @@
     [
       "MusicGen-Looper: Generate fixed-bpm loops from text prompts",
       "https://replicate.com/andreasjansson/musicgen-looper"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 08:58:17",
+      "https://news.ycombinator.com/item?id=36388828"
+    ],
+    [
+      "We tried to book a train ticket and ended up with a 245,000 records data breach",
+      "https://zerforschung.org/posts/freundschaftspass-en/"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2023-06-19, 04:00:45",
-      "https://news.ycombinator.com/item?id=36387197"
-    ],
-    [
-      "WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore and Linux Kernel",
-      "https://www.phoronix.com/news/Microsoft-WSL-1.3.10"
-    ]
-  ],
-  [
-    [
       "2023-06-19, 03:53:10",
       "https://news.ycombinator.com/item?id=36387141"
     ],
@@ -147,16 +157,6 @@
     [
       "Neural networks in the 1990s",
       "https://twitter.com/id_aa_carmack/status/1670558589746905090"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 23:30:14",
-      "https://news.ycombinator.com/item?id=36385617"
-    ],
-    [
-      "Why you can't Kickstart a conference",
-      "https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-06-17, 19:59:28",
+      "https://news.ycombinator.com/item?id=36373976"
+    ],
+    [
+      "WingetUI – A better UI for your package managers",
+      "http://www.marticliment.com/wingetui/"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 19:58:47",
       "https://news.ycombinator.com/item?id=36373972"
     ],
     [
       "Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria",
       "https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/"
-    ]
-  ],
-  [
-    [
-      "2023-06-16, 03:43:43",
-      "https://news.ycombinator.com/item?id=36350894"
-    ],
-    [
-      "The Fultograph – Early Wireless Fax Machine from 1927",
-      "https://historictech.com/the-fultograph-the-worlds-1st-fax-machine-from-1927/"
     ]
   ]
 ]
