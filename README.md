@@ -19,6 +19,7 @@
 * [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Graphic design items from Internet Archive](https://archives.design)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
+* [2023-06-18, 14:30:59](https://news.ycombinator.com/item?id=36380587) - [Dependency managers don't manage your dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (2020)](https://mbernste.github.io/posts/sourcecoding/)
 * [2023-06-18, 13:33:10](https://news.ycombinator.com/item?id=36380149) - [The legend of “x86 CPUs decode instructions into RISC form internally” (2020)](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-18, 13:16:37](https://news.ycombinator.com/item?id=36380024) - [Most tech content is bullshit (2020)](https://www.aleksandra.codes/tech-content-consumer)
@@ -29,7 +30,6 @@
 * [2023-06-17, 16:53:41](https://news.ycombinator.com/item?id=36371970) - [MiniMit – Bringing Minitel back to life](https://xn--multipli-i1a.fr/en/5-21/objects/minimit)
 * [2023-06-17, 07:10:59](https://news.ycombinator.com/item?id=36368027) - [Rewilding the planet: An archipelago constructed of sand is bringing new life](https://www.nature.com/immersive/d41586-023-01370-w/index.html)
 * [2023-06-16, 03:43:43](https://news.ycombinator.com/item?id=36350894) - [The Fultograph – Early Wireless Fax Machine from 1927](https://historictech.com/the-fultograph-the-worlds-1st-fax-machine-from-1927/)
-* [2023-06-14, 17:59:45](https://news.ycombinator.com/item?id=36329876) - [Dingo, an open source robot dog](https://github.com/Yerbert/DingoQuadruped)
 
 ## [Archives](archives/index.md)
 

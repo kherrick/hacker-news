@@ -48,6 +48,7 @@
 * [2023-06-18, 14:41:05](https://news.ycombinator.com/item?id=36380690) - [Political Polarization Comes for Marriage Prospects](https://www.theatlantic.com/ideas/archive/2023/06/us-marriage-rate-different-political-views/674358/)
 * [2023-06-18, 14:35:47](https://news.ycombinator.com/item?id=36380636) - [Moldable Live Programming for Clojure](https://github.com/nextjournal/clerk)
 * [2023-06-18, 14:31:42](https://news.ycombinator.com/item?id=36380592) - [Time-Lock Puzzles in the Random Oracle Model (2011)](https://people.seas.harvard.edu/~salil/research/timelock-abs.html)
+* [2023-06-18, 14:30:59](https://news.ycombinator.com/item?id=36380587) - [Dependency managers don't manage your dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 * [2023-06-18, 13:53:33](https://news.ycombinator.com/item?id=36380325) - [The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 * [2023-06-18, 13:51:07](https://news.ycombinator.com/item?id=36380306) - [Arcnet – It Was a Contender](https://www.youtube.com/watch?v=Gx0v0CyIps8)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
