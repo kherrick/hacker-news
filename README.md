@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 18:29:30](https://news.ycombinator.com/item?id=36394832) - [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
 * [2023-06-19, 18:29:17](https://news.ycombinator.com/item?id=36394829) - [How to Delete Your Reddit Account and All Data Under GDPR/CCPA](https://thomashunter.name/posts/2023-06-19-how-to-delete-reddit-account-gdpr-ccpa)
 * [2023-06-19, 18:24:07](https://news.ycombinator.com/item?id=36394755) - [Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-19, 17:22:38](https://news.ycombinator.com/item?id=36393809) - [Japan pushes for Apple and Google to allow sideloading](https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores)
 * [2023-06-19, 17:20:43](https://news.ycombinator.com/item?id=36393782) - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
 * [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
-* [2023-06-19, 16:57:03](https://news.ycombinator.com/item?id=36393406) - [ELO Everything](https://eloeverything.co/)
 * [2023-06-19, 16:52:36](https://news.ycombinator.com/item?id=36393327) - [When dying patients want unproven drugs](https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval)
 * [2023-06-19, 16:49:19](https://news.ycombinator.com/item?id=36393262) - [Meta introduces Voicebox: state-of-the-art generative AI model for speech](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 * [2023-06-19, 16:33:04](https://news.ycombinator.com/item?id=36393030) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
@@ -17,6 +17,7 @@
 * [2023-06-19, 12:41:24](https://news.ycombinator.com/item?id=36390405) - [Plain Text Journaling in Vim](https://peppe.rs/posts/plain_text_journaling/)
 * [2023-06-19, 12:36:17](https://news.ycombinator.com/item?id=36390357) - [Debugger Ghidra Class](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger)
 * [2023-06-19, 11:41:22](https://news.ycombinator.com/item?id=36389862) - [Are you a late bloomer in work or love? Maybe you’re right on time](https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7)
+* [2023-06-19, 11:08:23](https://news.ycombinator.com/item?id=36389660) - [Ken Thompson on the bug that exposed his compiler trojan (2021)](https://www.tuhs.org/pipermail/tuhs/2021-September/024486.html)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:45:08](https://news.ycombinator.com/item?id=36389140) - [Fibers, Oh My (2020)](https://graphitemaster.github.io/fibers/)
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's new keyword: 'Using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
@@ -29,7 +30,6 @@
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
 * [2023-06-17, 15:41:11](https://news.ycombinator.com/item?id=36371167) - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development)
-* [2023-06-17, 00:07:26](https://news.ycombinator.com/item?id=36365680) - [The Diagrammer (1970) [video]](https://vimeo.com/75532300)
 
 ## [Archives](archives/index.md)
 
