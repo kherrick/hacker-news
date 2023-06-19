@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 20:04:23](https://news.ycombinator.com/item?id=36395856) - [Dunning–Kruger effect and flat-earthers: An exploratory analysis](https://journals.sagepub.com/doi/10.1177/09636625231166255)
 * [2023-06-19, 19:09:15](https://news.ycombinator.com/item?id=36395296) - [Metaprogramming in Zig and Parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 18:29:30](https://news.ycombinator.com/item?id=36394832) - [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
 * [2023-06-19, 18:29:17](https://news.ycombinator.com/item?id=36394829) - [How to Delete Your Reddit Account and All Data Under GDPR/CCPA](https://thomashunter.name/posts/2023-06-19-how-to-delete-reddit-account-gdpr-ccpa)
