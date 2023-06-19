@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 06:19:47](https://news.ycombinator.com/item?id=36387874) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-19, 05:03:00](https://news.ycombinator.com/item?id=36387477) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:34:37](https://news.ycombinator.com/item?id=36387371) - [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
 * [2023-06-19, 04:00:45](https://news.ycombinator.com/item?id=36387197) - [WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore and Linux Kernel](https://www.phoronix.com/news/Microsoft-WSL-1.3.10)
@@ -11,7 +12,6 @@
 * [2023-06-18, 23:30:14](https://news.ycombinator.com/item?id=36385617) - [Why you can't Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
 * [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 * [2023-06-18, 21:21:48](https://news.ycombinator.com/item?id=36384625) - [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
-* [2023-06-18, 21:16:15](https://news.ycombinator.com/item?id=36384570) - [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
 * [2023-06-18, 21:13:42](https://news.ycombinator.com/item?id=36384548) - [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
 * [2023-06-18, 20:02:54](https://news.ycombinator.com/item?id=36383875) - [Redbean Systems](https://redbean.systems/)
 * [2023-06-18, 19:50:46](https://news.ycombinator.com/item?id=36383773) - [Show HN: Answer Overflow  – Indexing Discord content into the web](https://www.answeroverflow.com/)
