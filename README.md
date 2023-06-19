@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-19, 03:05:27](https://news.ycombinator.com/item?id=36386884) - [I don't trust Signal](https://blog.dijit.sh//i-don-t-trust-signal)
-* [2023-06-19, 02:40:43](https://news.ycombinator.com/item?id=36386748) - [Ant Group's automated chaos engineering ChaosMeta is officially open source](https://news.ycombinator.com/item?id=36386748)
 * [2023-06-19, 01:01:59](https://news.ycombinator.com/item?id=36386112) - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
 * [2023-06-19, 00:27:21](https://news.ycombinator.com/item?id=36385938) - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
 * [2023-06-19, 00:04:30](https://news.ycombinator.com/item?id=36385809) - [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
@@ -21,6 +20,7 @@
 * [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Graphic design items from Internet Archive](https://archives.design)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
+* [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (2020)](https://mbernste.github.io/posts/sourcecoding/)
 * [2023-06-18, 13:33:10](https://news.ycombinator.com/item?id=36380149) - [The legend of “x86 CPUs decode instructions into RISC form internally” (2020)](https://fanael.github.io/is-x86-risc-internally.html)
 * [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
