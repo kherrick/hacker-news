@@ -44,6 +44,7 @@
 * [2023-06-18, 15:29:54](https://news.ycombinator.com/item?id=36381141) - [Popeye the Sailor Meets Ali Baba's Forty Thieves (1937)](https://video.nstr.no/videos/watch/4ba21e69-2813-4242-b792-1f0301b2350c)
 * [2023-06-18, 15:29:02](https://news.ycombinator.com/item?id=36381136) - [OpenLLaMA 13B Released](https://huggingface.co/openlm-research/open_llama_13b)
 * [2023-06-18, 15:19:12](https://news.ycombinator.com/item?id=36381054) - [JavaScript modifying cut and paste can sometimes be a good thing in browsers](https://utcc.utoronto.ca/~cks/space/blog/web/BrowserSmartCutPasteCanBeGood)
+* [2023-06-18, 15:09:59](https://news.ycombinator.com/item?id=36380967) - [Chemists introduce a two-step process for making phosphorus compounds](https://phys.org/news/2023-06-two-step-phosphorus-containing-chemicals.html)
 * [2023-06-18, 15:00:17](https://news.ycombinator.com/item?id=36380892) - [The Coolest Library on Earth](https://hakaimagazine.com/features/the-coolest-library-on-earth/)
 * [2023-06-18, 14:43:52](https://news.ycombinator.com/item?id=36380726) - [In a surprising twist, I just received a second $100k sponsorship for Ladybird](https://twitter.com/awesomekling/status/1670440822129532928)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary Problems Are the Root of Bad Software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
