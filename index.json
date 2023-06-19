@@ -111,12 +111,12 @@
   ],
   [
     [
-      "2023-06-19, 13:04:23",
-      "https://news.ycombinator.com/item?id=36390600"
+      "2023-06-19, 13:48:24",
+      "https://news.ycombinator.com/item?id=36391053"
     ],
     [
-      "Apple wants rights to the image of apples in Switzerland",
-      "https://www.wired.com/story/apple-vs-apples-trademark-battle/"
+      "Titanic tourist submersible goes missing with search under way",
+      "https://www.bbc.com/news/world-us-canada-65953872"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-06-19, 11:24:32",
+      "https://news.ycombinator.com/item?id=36389763"
+    ],
+    [
+      "Write Free Software",
+      "https://writefreesoftware.org/"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 10:07:25",
       "https://news.ycombinator.com/item?id=36389285"
     ],
@@ -161,12 +171,12 @@
   ],
   [
     [
-      "2023-06-19, 09:10:01",
-      "https://news.ycombinator.com/item?id=36388919"
+      "2023-06-19, 09:45:08",
+      "https://news.ycombinator.com/item?id=36389140"
     ],
     [
-      "MusicGen-Looper: Generate fixed-bpm loops from text prompts",
-      "https://replicate.com/andreasjansson/musicgen-looper"
+      "Fibers, Oh My (2020)",
+      "https://graphitemaster.github.io/fibers/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "My First Impressions of Nix",
       "https://mtlynch.io/notes/nix-first-impressions/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 05:03:00",
-      "https://news.ycombinator.com/item?id=36387477"
-    ],
-    [
-      "Building a Networked Key-Value-Store on an FPGA",
-      "https://adamwalker.github.io/Building-FPGA-KVS/"
     ]
   ],
   [
