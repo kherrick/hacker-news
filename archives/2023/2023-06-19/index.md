@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 13:48:24](https://news.ycombinator.com/item?id=36391053) - [Titanic tourist sub goes missing sparking search](https://www.bbc.com/news/world-us-canada-65953872)
 * [2023-06-19, 13:31:21](https://news.ycombinator.com/item?id=36390884) - [GCC Lands AVX-512 Fully-Masked Vectorization](https://www.phoronix.com/news/GCC-AVX-512-Fully-Masked-Vector)
 * [2023-06-19, 13:17:39](https://news.ycombinator.com/item?id=36390737) - [Biggest Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)
 * [2023-06-19, 13:04:23](https://news.ycombinator.com/item?id=36390600) - [Apple Is Taking on Apples in a Weird Trademark Battle](https://www.wired.com/story/apple-vs-apples-trademark-battle/)
 * [2023-06-19, 12:30:54](https://news.ycombinator.com/item?id=36390308) - [Twitter’s Lawyers Admit They’re Overwhelmed; 2000 Laid Off Employees File Claims](https://www.techdirt.com/2023/06/16/twitters-lawyers-admit-theyre-overwhelmed-as-nearly-2000-laid-off-employees-file-arbitration-claims/)
 * [2023-06-19, 11:41:22](https://news.ycombinator.com/item?id=36389862) - [Are You a Late Bloomer in Work or Love? Maybe You’re Right on Time](https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7)
 * [2023-06-19, 11:32:31](https://news.ycombinator.com/item?id=36389805) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
+* [2023-06-19, 11:24:32](https://news.ycombinator.com/item?id=36389763) - [Write Free Software](https://writefreesoftware.org/)
 * [2023-06-19, 10:32:37](https://news.ycombinator.com/item?id=36389443) - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
