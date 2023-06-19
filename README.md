@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
 * [2023-06-19, 21:25:17](https://news.ycombinator.com/item?id=36396675) - [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
 * [2023-06-19, 20:55:45](https://news.ycombinator.com/item?id=36396338) - [Thousands of Azure Websites Are Still Vulnerable to Subdomain Takeovers](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
 * [2023-06-19, 20:06:11](https://news.ycombinator.com/item?id=36395866) - [Eight days later: Kbin, Lemmy, the landed gentry, and the rise of “threadiverse”](https://privacy.thenexus.today/8-days-later-draft-kbin-lemmy-landed-gentry/)
 * [2023-06-19, 19:09:15](https://news.ycombinator.com/item?id=36395296) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 18:11:09](https://news.ycombinator.com/item?id=36394569) - [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
-* [2023-06-19, 17:20:43](https://news.ycombinator.com/item?id=36393782) - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
 * [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:49:19](https://news.ycombinator.com/item?id=36393262) - [Voicebox: Generative AI model for speech that generalizes across tasks](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 * [2023-06-19, 16:33:04](https://news.ycombinator.com/item?id=36393030) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
