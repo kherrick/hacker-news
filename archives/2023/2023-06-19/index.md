@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 03:53:10](https://news.ycombinator.com/item?id=36387141) - [Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
 * [2023-06-19, 03:34:05](https://news.ycombinator.com/item?id=36387030) - [Releasing an indie game on 3 consoles at once and failing financially](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 * [2023-06-19, 03:05:27](https://news.ycombinator.com/item?id=36386884) - [I don't trust Signal](https://blog.dijit.sh//i-don-t-trust-signal)
 * [2023-06-19, 02:40:43](https://news.ycombinator.com/item?id=36386748) - [Ant Group's automated chaos engineering ChaosMeta is officially open source](https://news.ycombinator.com/item?id=36386748)
