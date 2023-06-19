@@ -7,6 +7,7 @@
 * [2023-06-19, 15:26:09](https://news.ycombinator.com/item?id=36392150) - [Tourist submarine goes missing on dive to wreck of Titanic](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
 * [2023-06-19, 14:34:08](https://news.ycombinator.com/item?id=36391492) - [KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”](https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable)
 * [2023-06-19, 14:18:02](https://news.ycombinator.com/item?id=36391360) - [Reforming the free software message](https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html)
+* [2023-06-19, 14:15:02](https://news.ycombinator.com/item?id=36391330) - [Iridium: Open-source customer identity and access management](https://github.com/IridiumIdentity/iridium)
 * [2023-06-19, 13:48:24](https://news.ycombinator.com/item?id=36391053) - [Titanic tourist sub goes missing sparking search](https://www.bbc.com/news/world-us-canada-65953872)
 * [2023-06-19, 13:31:21](https://news.ycombinator.com/item?id=36390884) - [GCC Lands AVX-512 Fully-Masked Vectorization](https://www.phoronix.com/news/GCC-AVX-512-Fully-Masked-Vector)
 * [2023-06-19, 13:17:39](https://news.ycombinator.com/item?id=36390737) - [Biggest Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)
