@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 19:09:15](https://news.ycombinator.com/item?id=36395296) - [Metaprogramming in Zig and Parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 18:29:30](https://news.ycombinator.com/item?id=36394832) - [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
 * [2023-06-19, 18:24:07](https://news.ycombinator.com/item?id=36394755) - [Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
 * [2023-06-19, 18:11:09](https://news.ycombinator.com/item?id=36394569) - [AI: First New UI Paradigm in 60 Years, Jakob Nielsen](https://www.nngroup.com/articles/ai-paradigm/)
@@ -24,7 +25,6 @@
 * [2023-06-19, 06:19:47](https://news.ycombinator.com/item?id=36387874) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-18, 15:09:59](https://news.ycombinator.com/item?id=36380967) - [Chemists introduce a two-step process for making phosphorus compounds](https://phys.org/news/2023-06-two-step-phosphorus-containing-chemicals.html)
 * [2023-06-18, 14:24:20](https://news.ycombinator.com/item?id=36380548) - [A ‘lost world’ of early microbes thrived one billion years ago](https://www.nature.com/articles/d41586-023-01847-8)
-* [2023-06-18, 14:22:44](https://news.ycombinator.com/item?id=36380533) - [A Closer Look at LightSolver’s Laser-Based Processing Unit (LPU)](https://www.allaboutcircuits.com/news/a-closer-look-at-lightsolvers-laser-based-processing-unit-lpu/)
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
