@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 13:31:21](https://news.ycombinator.com/item?id=36390884) - [GCC Lands AVX-512 Fully-Masked Vectorization](https://www.phoronix.com/news/GCC-AVX-512-Fully-Masked-Vector)
 * [2023-06-19, 13:17:39](https://news.ycombinator.com/item?id=36390737) - [Biggest Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)
 * [2023-06-19, 13:04:23](https://news.ycombinator.com/item?id=36390600) - [Apple Is Taking on Apples in a Weird Trademark Battle](https://www.wired.com/story/apple-vs-apples-trademark-battle/)
 * [2023-06-19, 12:30:54](https://news.ycombinator.com/item?id=36390308) - [Twitter’s Lawyers Admit They’re Overwhelmed; 2000 Laid Off Employees File Claims](https://www.techdirt.com/2023/06/16/twitters-lawyers-admit-theyre-overwhelmed-as-nearly-2000-laid-off-employees-file-arbitration-claims/)

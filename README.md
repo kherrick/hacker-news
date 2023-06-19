@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 13:31:21](https://news.ycombinator.com/item?id=36390884) - [GCC Lands AVX-512 Fully-Masked Vectorization](https://www.phoronix.com/news/GCC-AVX-512-Fully-Masked-Vector)
 * [2023-06-19, 13:17:39](https://news.ycombinator.com/item?id=36390737) - [Biggest Y Combinator Failed Startups](https://www.failory.com/blog/y-combinator-failures)
 * [2023-06-19, 13:04:23](https://news.ycombinator.com/item?id=36390600) - [Apple Is Taking on Apples in a Weird Trademark Battle](https://www.wired.com/story/apple-vs-apples-trademark-battle/)
 * [2023-06-19, 12:30:54](https://news.ycombinator.com/item?id=36390308) - [Twitter’s Lawyers Admit They’re Overwhelmed; 2000 Laid Off Employees File Claims](https://www.techdirt.com/2023/06/16/twitters-lawyers-admit-theyre-overwhelmed-as-nearly-2000-laid-off-employees-file-arbitration-claims/)
@@ -18,10 +19,9 @@
 * [2023-06-19, 00:27:21](https://news.ycombinator.com/item?id=36385938) - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
 * [2023-06-19, 00:04:30](https://news.ycombinator.com/item?id=36385809) - [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
 * [2023-06-18, 23:30:14](https://news.ycombinator.com/item?id=36385617) - [Why you can't Kickstart a conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
-* [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-source identity and access management interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
-* [2023-06-18, 21:21:48](https://news.ycombinator.com/item?id=36384625) - [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
 * [2023-06-18, 18:09:37](https://news.ycombinator.com/item?id=36382700) - [Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
 * [2023-06-18, 15:29:54](https://news.ycombinator.com/item?id=36381141) - [Popeye the Sailor Meets Ali Baba's Forty Thieves (1937)](https://video.nstr.no/videos/watch/4ba21e69-2813-4242-b792-1f0301b2350c)
+* [2023-06-18, 15:00:17](https://news.ycombinator.com/item?id=36380892) - [The Coolest Library on Earth](https://hakaimagazine.com/features/the-coolest-library-on-earth/)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [2023-06-18, 14:24:20](https://news.ycombinator.com/item?id=36380548) - [Evidence of Billion-Year-Old Lost World of Microbes Found in Australian Outback](https://www.nature.com/articles/d41586-023-01847-8)
 * [2023-06-18, 11:57:34](https://news.ycombinator.com/item?id=36379376) - [Merged magnetic resonance and light sheet microscopy of the whole mouse brain](https://www.pnas.org/doi/10.1073/pnas.2218617120)
