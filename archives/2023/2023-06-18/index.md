@@ -59,6 +59,7 @@
 * [2023-06-18, 13:03:19](https://news.ycombinator.com/item?id=36379930) - [Bugs – opinionated Jira CLI for those of us who hate Jira](https://github.com/reddit/bugs)
 * [2023-06-18, 12:42:40](https://news.ycombinator.com/item?id=36379767) - [Police got called to an overcrowded presentation on “rejuvenation” technology](https://www.technologyreview.com/2023/06/17/1075097/got-rejuvenation-better-call-security/)
 * [2023-06-18, 12:26:09](https://news.ycombinator.com/item?id=36379615) - [Follow up to “I booted Linux 292,612 times”](https://rwmj.wordpress.com/2023/06/18/follow-up-to-i-booted-linux-292612-times/)
+* [2023-06-18, 11:57:34](https://news.ycombinator.com/item?id=36379376) - [Merged magnetic resonance and light sheet microscopy of the whole mouse brain](https://www.pnas.org/doi/10.1073/pnas.2218617120)
 * [2023-06-18, 11:42:16](https://news.ycombinator.com/item?id=36379265) - [The Difference Between Root Certificate Authorities, Intermediates and Resellers](https://www.agwa.name/blog/post/roots_intermediates_and_resellers)
 * [2023-06-18, 11:04:52](https://news.ycombinator.com/item?id=36379099) - [Stopping MDNSResponder from Sneakily Using DoH for DNS Lookups on macOS Ventura](https://fincham.dreamwidth.org/669.html)
 * [2023-06-18, 11:03:42](https://news.ycombinator.com/item?id=36379094) - [BlackCat claims they hacked Reddit and will leak the data](https://www.databreaches.net/blackcat-claims-they-hacked-reddit-and-will-leak-the-data/)
