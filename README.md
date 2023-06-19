@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 06:29:50](https://news.ycombinator.com/item?id=36387939) - [Awesome Lemmy Instances](https://github.com/maltfield/awesome-lemmy-instances)
 * [2023-06-19, 06:19:47](https://news.ycombinator.com/item?id=36387874) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-19, 05:03:00](https://news.ycombinator.com/item?id=36387477) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:34:37](https://news.ycombinator.com/item?id=36387371) - [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
@@ -19,8 +20,6 @@
 * [2023-06-18, 19:10:24](https://news.ycombinator.com/item?id=36383322) - [Get It Done](https://boz.com/articles/get-it-done)
 * [2023-06-18, 18:09:37](https://news.ycombinator.com/item?id=36382700) - [Swing VPN app is a DDoS botnet](https://lecromee.github.io/posts/swing_vpn_ddosing_sites/)
 * [2023-06-18, 17:34:01](https://news.ycombinator.com/item?id=36382361) - [Goodbye, Twilio](https://blog.miguelgrinberg.com/post/goodbye-twilio)
-* [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
-* [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Graphic design items from Internet Archive](https://archives.design)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
 * [2023-06-18, 14:30:59](https://news.ycombinator.com/item?id=36380587) - [Dependency managers don't manage your dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
@@ -28,6 +27,7 @@
 * [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
 * [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
+* [2023-06-17, 16:53:41](https://news.ycombinator.com/item?id=36371970) - [MiniMit – Bringing Minitel back to life](https://xn--multipli-i1a.fr/en/5-21/objects/minimit)
 * [2023-06-17, 07:10:59](https://news.ycombinator.com/item?id=36368027) - [Rewilding the planet: An archipelago constructed of sand is bringing new life](https://www.nature.com/immersive/d41586-023-01370-w/index.html)
 * [2023-06-16, 03:43:43](https://news.ycombinator.com/item?id=36350894) - [The Fultograph – Early Wireless Fax Machine from 1927](https://historictech.com/the-fultograph-the-worlds-1st-fax-machine-from-1927/)
 
