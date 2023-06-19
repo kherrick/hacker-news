@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
 * [2023-06-19, 21:25:17](https://news.ycombinator.com/item?id=36396675) - [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
+* [2023-06-19, 20:55:45](https://news.ycombinator.com/item?id=36396338) - [Thousands of Azure Websites Are Still Vulnerable to Subdomain Takeovers](https://www.keytos.io/blog/2023/05/23/azure-domains-still-vulnerable-to-subdomain-takeover.html)
 * [2023-06-19, 20:27:18](https://news.ycombinator.com/item?id=36396069) - [Texas governor signs law shutting diversity offices at public universities](https://www.reuters.com/world/us/texas-governor-signs-law-shutting-diversity-offices-public-universities-2023-06-15/)
 * [2023-06-19, 20:06:11](https://news.ycombinator.com/item?id=36395866) - [Eight days later: Kbin, Lemmy, the landed gentry, and the rise of “threadiverse”](https://privacy.thenexus.today/8-days-later-draft-kbin-lemmy-landed-gentry/)
 * [2023-06-19, 20:04:23](https://news.ycombinator.com/item?id=36395856) - [Dunning–Kruger effect and flat-earthers: An exploratory analysis](https://journals.sagepub.com/doi/10.1177/09636625231166255)

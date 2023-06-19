@@ -9,6 +9,7 @@
 * [2023-06-18, 22:07:39](https://news.ycombinator.com/item?id=36385032) - [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
 * [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 * [2023-06-18, 21:21:48](https://news.ycombinator.com/item?id=36384625) - [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
+* [2023-06-18, 21:17:10](https://news.ycombinator.com/item?id=36384581) - [A paradigm for developer productivity (2022)](https://ktheory.com/paradigm-for-developer-productivity/)
 * [2023-06-18, 21:16:15](https://news.ycombinator.com/item?id=36384570) - [Sponge spicule](https://en.wikipedia.org/wiki/Sponge_spicule)
 * [2023-06-18, 21:13:42](https://news.ycombinator.com/item?id=36384548) - [Soviet Union sold titanium to US believing they needed it for pizza ovens](https://theaviationgeekclub.com/in-the-early-1960s-soviet-union-sold-titanium-to-the-us-believing-they-needed-it-for-pizza-ovens-but-instead-they-used-it-to-build-the-iconic-sr-71-blackbird-mach-3-spy-plane/)
 * [2023-06-18, 21:02:42](https://news.ycombinator.com/item?id=36384421) - [Companies in Japan opting for select offices to work in English](https://www.asahi.com/ajw/articles/14922639)
