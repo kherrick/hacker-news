@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 18:29:17](https://news.ycombinator.com/item?id=36394829) - [How to Delete Your Reddit Account and All Data Under GDPR/CCPA](https://thomashunter.name/posts/2023-06-19-how-to-delete-reddit-account-gdpr-ccpa)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-19, 17:22:38](https://news.ycombinator.com/item?id=36393809) - [Japan pushes for Apple and Google to allow sideloading](https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores)
 * [2023-06-19, 17:20:43](https://news.ycombinator.com/item?id=36393782) - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
@@ -15,7 +16,6 @@
 * [2023-06-19, 12:41:24](https://news.ycombinator.com/item?id=36390405) - [Plain Text Journaling in Vim](https://peppe.rs/posts/plain_text_journaling/)
 * [2023-06-19, 12:36:17](https://news.ycombinator.com/item?id=36390357) - [Debugger Ghidra Class](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger)
 * [2023-06-19, 11:41:22](https://news.ycombinator.com/item?id=36389862) - [Are you a late bloomer in work or love? Maybe you’re right on time](https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7)
-* [2023-06-19, 11:24:32](https://news.ycombinator.com/item?id=36389763) - [Write Free Software](https://writefreesoftware.org/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:45:08](https://news.ycombinator.com/item?id=36389140) - [Fibers, Oh My (2020)](https://graphitemaster.github.io/fibers/)
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's new keyword: 'Using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
