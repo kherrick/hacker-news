@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
+* [2023-06-19, 17:22:38](https://news.ycombinator.com/item?id=36393809) - [Japan pushes for Apple and Google to allow sideloading](https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores)
+* [2023-06-19, 17:20:43](https://news.ycombinator.com/item?id=36393782) - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
 * [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:57:03](https://news.ycombinator.com/item?id=36393406) - [ELO Everything](https://eloeverything.co/)
 * [2023-06-19, 16:54:05](https://news.ycombinator.com/item?id=36393357) - [Open LLAMA 13B released, trained on 1T tokens](https://huggingface.co/openlm-research/open_llama_13b_easylm)
