@@ -25,11 +25,11 @@
 * [2023-06-18, 14:30:59](https://news.ycombinator.com/item?id=36380587) - [Dependency managers don't manage your dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 * [2023-06-18, 11:57:34](https://news.ycombinator.com/item?id=36379376) - [Merged magnetic resonance and light sheet microscopy of the whole mouse brain](https://www.pnas.org/doi/10.1073/pnas.2218617120)
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
+* [2023-06-18, 05:34:04](https://news.ycombinator.com/item?id=36377602) - [Analogical Diagram from Tobias Cohen’s Ma’aseh Tuviyah (1708)](https://publicdomainreview.org/collection/body-as-house-diagram)
 * [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
 * [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
 * [2023-06-17, 07:10:59](https://news.ycombinator.com/item?id=36368027) - [Rewilding the planet: An archipelago constructed of sand is bringing new life](https://www.nature.com/immersive/d41586-023-01370-w/index.html)
-* [2023-06-16, 03:43:43](https://news.ycombinator.com/item?id=36350894) - [The Fultograph – Early Wireless Fax Machine from 1927](https://historictech.com/the-fultograph-the-worlds-1st-fax-machine-from-1927/)
 
 ## [Archives](archives/index.md)
 
