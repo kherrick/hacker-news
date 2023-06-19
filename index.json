@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-06-19, 03:53:10",
+      "https://news.ycombinator.com/item?id=36387141"
+    ],
+    [
+      "Openjob: best distributed task scheduling framework",
+      "https://habr.com/en/articles/742470/"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 03:34:05",
       "https://news.ycombinator.com/item?id=36387030"
     ],
     [
-      "Releasing an indie game on 3 consoles at once and failing financially",
+      "Releasing an indie game on 3 consoles at once and failing financially (2016)",
       "https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years"
     ]
   ],
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2023-06-18, 17:55:23",
+      "https://news.ycombinator.com/item?id=36382578"
+    ],
+    [
+      "How I feel quitting my own startup",
+      "https://www.aquiles.me/how-it-feels-quitting-your-own-startup/"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 17:34:01",
       "https://news.ycombinator.com/item?id=36382361"
     ],
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2023-06-18, 15:34:32",
+      "https://news.ycombinator.com/item?id=36381177"
+    ],
+    [
+      "Hexa Lift: Single person drone",
+      "https://www.liftaircraft.com"
+    ]
+  ],
+  [
+    [
       "2023-06-18, 14:42:47",
       "https://news.ycombinator.com/item?id=36380711"
     ],
@@ -197,36 +227,6 @@
     [
       "Dependency managers don't manage your dependencies (2021)",
       "https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 13:38:47",
-      "https://news.ycombinator.com/item?id=36380198"
-    ],
-    [
-      "Shannon’s Source Coding Theorem (2020)",
-      "https://mbernste.github.io/posts/sourcecoding/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 13:33:10",
-      "https://news.ycombinator.com/item?id=36380149"
-    ],
-    [
-      "The legend of “x86 CPUs decode instructions into RISC form internally” (2020)",
-      "https://fanael.github.io/is-x86-risc-internally.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 13:16:37",
-      "https://news.ycombinator.com/item?id=36380024"
-    ],
-    [
-      "Most tech content is bullshit (2020)",
-      "https://www.aleksandra.codes/tech-content-consumer"
     ]
   ],
   [
