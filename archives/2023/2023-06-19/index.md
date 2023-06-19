@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
+* [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
 * [2023-06-19, 07:53:03](https://news.ycombinator.com/item?id=36388433) - [DreamWorks Animation's open source reandering engine – MoonRay](https://openmoonray.org/download)
 * [2023-06-19, 07:17:05](https://news.ycombinator.com/item?id=36388219) - [OpenLLM](https://github.com/bentoml/OpenLLM)
 * [2023-06-19, 07:10:30](https://news.ycombinator.com/item?id=36388178) - [Canva saves millions annually in Amazon S3 costs](https://www.canva.dev/blog/engineering/optimising-s3-savings/)
