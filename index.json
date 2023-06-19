@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-06-19, 12:41:24",
+      "https://news.ycombinator.com/item?id=36390405"
+    ],
+    [
+      "Plain Text Journaling in Vim",
+      "https://peppe.rs/posts/plain_text_journaling/"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 12:30:54",
       "https://news.ycombinator.com/item?id=36390308"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2023-06-19, 09:06:44",
+      "https://news.ycombinator.com/item?id=36388894"
+    ],
+    [
+      "TypeScript 5.2's New Keyword: 'using'",
+      "https://www.totaltypescript.com/typescript-5-2-new-keyword-using"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 08:58:17",
       "https://news.ycombinator.com/item?id=36388828"
     ],
@@ -117,6 +137,26 @@
     [
       "OpenLLM",
       "https://github.com/bentoml/OpenLLM"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 07:10:30",
+      "https://news.ycombinator.com/item?id=36388178"
+    ],
+    [
+      "How Canva saves Amazon S3 costs",
+      "https://www.canva.dev/blog/engineering/optimising-s3-savings/"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 06:29:50",
+      "https://news.ycombinator.com/item?id=36387939"
+    ],
+    [
+      "Comparison of different Lemmy Instances",
+      "https://github.com/maltfield/awesome-lemmy-instances"
     ]
   ],
   [
@@ -181,52 +221,12 @@
   ],
   [
     [
-      "2023-06-19, 00:04:30",
-      "https://news.ycombinator.com/item?id=36385809"
-    ],
-    [
-      "Neural networks in the 1990s",
-      "https://twitter.com/id_aa_carmack/status/1670558589746905090"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 18:09:37",
-      "https://news.ycombinator.com/item?id=36382700"
-    ],
-    [
-      "Swing VPN app is a DDoS botnet",
-      "https://lecromee.github.io/posts/swing_vpn_ddosing_sites/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 15:29:54",
-      "https://news.ycombinator.com/item?id=36381141"
-    ],
-    [
-      "Popeye the Sailor Meets Ali Baba's Forty Thieves (1937)",
-      "https://video.nstr.no/videos/watch/4ba21e69-2813-4242-b792-1f0301b2350c"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 15:00:17",
       "https://news.ycombinator.com/item?id=36380892"
     ],
     [
       "The Coolest Library on Earth",
       "https://hakaimagazine.com/features/the-coolest-library-on-earth/"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 14:42:47",
-      "https://news.ycombinator.com/item?id=36380711"
-    ],
-    [
-      "Imaginary problems are the root of bad software",
-      "https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software"
     ]
   ],
   [
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2023-06-17, 22:00:13",
+      "https://news.ycombinator.com/item?id=36375118"
+    ],
+    [
+      "Invisibility Training for Motorcyclists [video]",
+      "https://www.youtube.com/watch?v=x94PGgYKHQ0"
+    ]
+  ],
+  [
+    [
       "2023-06-17, 20:42:40",
       "https://news.ycombinator.com/item?id=36374370"
     ],
@@ -287,16 +297,6 @@
     [
       "WingetUI – A better UI for your package managers",
       "http://www.marticliment.com/wingetui/"
-    ]
-  ],
-  [
-    [
-      "2023-06-17, 19:58:47",
-      "https://news.ycombinator.com/item?id=36373972"
-    ],
-    [
-      "Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria",
-      "https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/"
     ]
   ]
 ]
