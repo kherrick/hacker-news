@@ -25,11 +25,11 @@
 * [2023-06-19, 06:19:47](https://news.ycombinator.com/item?id=36387874) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
 * [2023-06-18, 15:09:59](https://news.ycombinator.com/item?id=36380967) - [Chemists introduce a two-step process for making phosphorus compounds](https://phys.org/news/2023-06-two-step-phosphorus-containing-chemicals.html)
 * [2023-06-18, 14:24:20](https://news.ycombinator.com/item?id=36380548) - [A ‘lost world’ of early microbes thrived one billion years ago](https://www.nature.com/articles/d41586-023-01847-8)
+* [2023-06-18, 14:22:44](https://news.ycombinator.com/item?id=36380533) - [A Closer Look at LightSolver’s Laser-Based Processing Unit (LPU)](https://www.allaboutcircuits.com/news/a-closer-look-at-lightsolvers-laser-based-processing-unit-lpu/)
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
 * [2023-06-17, 15:41:11](https://news.ycombinator.com/item?id=36371167) - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development)
-* [2023-06-17, 09:47:48](https://news.ycombinator.com/item?id=36368735) - [Japan to open up Apple and Google app stores to competition](https://www.japantimes.co.jp/news/2023/06/16/business/japan-apple-google-apps-stores/)
 
 ## [Archives](archives/index.md)
 
