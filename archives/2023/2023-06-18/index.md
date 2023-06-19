@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-18](index.md)
 
+* [2023-06-18, 23:30:14](https://news.ycombinator.com/item?id=36385617) - [You Can't Kickstart a Conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
 * [2023-06-18, 22:25:10](https://news.ycombinator.com/item?id=36385163) - [The Linux Kernel has jiffies](https://github.com/torvalds/linux/blob/45a3e24f65e90a047bef86f927ebdc4c710edaa1/kernel/time/jiffies.c)
 * [2023-06-18, 22:07:39](https://news.ycombinator.com/item?id=36385032) - [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
 * [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
