@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-06-19, 14:15:02",
+      "https://news.ycombinator.com/item?id=36391330"
+    ],
+    [
+      "Iridium: Open-source customer identity and access management",
+      "https://github.com/IridiumIdentity/iridium"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 13:31:21",
       "https://news.ycombinator.com/item?id=36390884"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-06-19, 04:34:37",
-      "https://news.ycombinator.com/item?id=36387371"
-    ],
-    [
-      "How to compute a 256 bit elliptic curve key with 50M Toffoli gates",
-      "https://arxiv.org/abs/2306.08585"
-    ]
-  ],
-  [
-    [
       "2023-06-19, 03:34:05",
       "https://news.ycombinator.com/item?id=36387030"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-06-18, 11:57:34",
-      "https://news.ycombinator.com/item?id=36379376"
-    ],
-    [
-      "Merged magnetic resonance and light sheet microscopy of the whole mouse brain",
-      "https://www.pnas.org/doi/10.1073/pnas.2218617120"
-    ]
-  ],
-  [
-    [
       "2023-06-18, 09:51:59",
       "https://news.ycombinator.com/item?id=36378731"
     ],
@@ -297,6 +287,16 @@
     [
       "WingetUI – A better UI for your package managers",
       "http://www.marticliment.com/wingetui/"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 00:07:26",
+      "https://news.ycombinator.com/item?id=36365680"
+    ],
+    [
+      "The Diagrammer (1970) [video]",
+      "https://vimeo.com/75532300"
     ]
   ]
 ]
