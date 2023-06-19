@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-19, 22:58:06",
+      "https://news.ycombinator.com/item?id=36397485"
+    ],
+    [
+      "Scaling Memcache at Facebook",
+      "https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 22:06:43",
       "https://news.ycombinator.com/item?id=36397058"
     ],
@@ -97,16 +107,6 @@
     [
       "Hurl: A terrible but cute idea for a language",
       "https://ntietz.com/blog/introducing-hurl/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 16:49:19",
-      "https://news.ycombinator.com/item?id=36393262"
-    ],
-    [
-      "Voicebox: Generative AI model for speech that generalizes across tasks",
-      "https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/"
     ]
   ],
   [
