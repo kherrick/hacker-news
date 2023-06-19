@@ -92,6 +92,7 @@
 * [2023-06-17, 09:51:20](https://news.ycombinator.com/item?id=36368748) - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
 * [2023-06-17, 09:47:48](https://news.ycombinator.com/item?id=36368735) - [Japan to open up Apple and Google app stores to competition](https://www.japantimes.co.jp/news/2023/06/16/business/japan-apple-google-apps-stores/)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
+* [2023-06-17, 08:17:18](https://news.ycombinator.com/item?id=36368309) - [Platform Hopping](http://www.linusakesson.net/music/platform-hopping/index.php)
 * [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
 * [2023-06-17, 07:28:44](https://news.ycombinator.com/item?id=36368108) - [Dingo: A Low-Cost Open-Source Robot Quadruped](https://github.com/Yerbert/DingoQuadruped)
