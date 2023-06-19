@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-19, 18:29:17](https://news.ycombinator.com/item?id=36394829) - [How to Delete Your Reddit Account and All Data Under GDPR/CCPA](https://thomashunter.name/posts/2023-06-19-how-to-delete-reddit-account-gdpr-ccpa)
+* [2023-06-19, 18:24:07](https://news.ycombinator.com/item?id=36394755) - [Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-19, 17:22:38](https://news.ycombinator.com/item?id=36393809) - [Japan pushes for Apple and Google to allow sideloading](https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores)
 * [2023-06-19, 17:20:43](https://news.ycombinator.com/item?id=36393782) - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
@@ -21,7 +22,6 @@
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's new keyword: 'Using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint – A declarative UI toolkit for embedded and desktop](https://slint.dev)
 * [2023-06-19, 06:19:47](https://news.ycombinator.com/item?id=36387874) - [My First Impressions of Nix](https://mtlynch.io/notes/nix-first-impressions/)
-* [2023-06-19, 03:34:05](https://news.ycombinator.com/item?id=36387030) - [Releasing an indie game on 3 consoles at once and failing financially (2016)](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 * [2023-06-18, 15:09:59](https://news.ycombinator.com/item?id=36380967) - [Chemists introduce a two-step process for making phosphorus compounds](https://phys.org/news/2023-06-two-step-phosphorus-containing-chemicals.html)
 * [2023-06-18, 14:24:20](https://news.ycombinator.com/item?id=36380548) - [A ‘lost world’ of early microbes thrived one billion years ago](https://www.nature.com/articles/d41586-023-01847-8)
 * [2023-06-18, 14:22:44](https://news.ycombinator.com/item?id=36380533) - [A Closer Look at LightSolver’s Laser-Based Processing Unit (LPU)](https://www.allaboutcircuits.com/news/a-closer-look-at-lightsolvers-laser-based-processing-unit-lpu/)
