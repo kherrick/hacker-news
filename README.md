@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-19, 18:29:30](https://news.ycombinator.com/item?id=36394832) - [Sea Change](https://www.oaktreecapital.com/insights/memo/sea-change)
-* [2023-06-19, 18:29:17](https://news.ycombinator.com/item?id=36394829) - [How to Delete Your Reddit Account and All Data Under GDPR/CCPA](https://thomashunter.name/posts/2023-06-19-how-to-delete-reddit-account-gdpr-ccpa)
 * [2023-06-19, 18:24:07](https://news.ycombinator.com/item?id=36394755) - [Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]](https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf)
+* [2023-06-19, 18:11:09](https://news.ycombinator.com/item?id=36394569) - [AI: First New UI Paradigm in 60 Years, Jakob Nielsen](https://www.nngroup.com/articles/ai-paradigm/)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
-* [2023-06-19, 17:22:38](https://news.ycombinator.com/item?id=36393809) - [Japan pushes for Apple and Google to allow sideloading](https://appleinsider.com/articles/23/06/16/japan-law-will-require-apple-to-allow-alternate-iphone-app-stores)
 * [2023-06-19, 17:20:43](https://news.ycombinator.com/item?id=36393782) - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
 * [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:52:36](https://news.ycombinator.com/item?id=36393327) - [When dying patients want unproven drugs](https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval)
@@ -30,6 +29,7 @@
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
 * [2023-06-17, 15:41:11](https://news.ycombinator.com/item?id=36371167) - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development)
+* [2023-06-17, 09:47:48](https://news.ycombinator.com/item?id=36368735) - [Japan to open up Apple and Google app stores to competition](https://www.japantimes.co.jp/news/2023/06/16/business/japan-apple-google-apps-stores/)
 
 ## [Archives](archives/index.md)
 

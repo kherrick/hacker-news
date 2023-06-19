@@ -90,6 +90,7 @@
 * [2023-06-17, 10:14:09](https://news.ycombinator.com/item?id=36368848) - [Researchers warn of ‘model collapse’ as AI trains on AI-generated content](https://venturebeat.com/ai/the-ai-feedback-loop-researchers-warn-of-model-collapse-as-ai-trains-on-ai-generated-content/)
 * [2023-06-17, 10:04:33](https://news.ycombinator.com/item?id=36368812) - [Implementing a Personal Transportation Hierarchy](https://collindonnell.com/implementing-a-personal-transportation-hierarchy)
 * [2023-06-17, 09:51:20](https://news.ycombinator.com/item?id=36368748) - [Astronomy Picture of the Day is is 28 years old today](https://mastodon.social/@mcnees/110554495980083260)
+* [2023-06-17, 09:47:48](https://news.ycombinator.com/item?id=36368735) - [Japan to open up Apple and Google app stores to competition](https://www.japantimes.co.jp/news/2023/06/16/business/japan-apple-google-apps-stores/)
 * [2023-06-17, 09:14:22](https://news.ycombinator.com/item?id=36368586) - [Review of Hetzner ARM64 Servers and Experience of WebP Cloud Services on Them](https://blog.webp.se/hetzner-arm64-en/)
 * [2023-06-17, 08:02:14](https://news.ycombinator.com/item?id=36368246) - [Iterating on Testing in Rust](https://epage.github.io/blog/2023/06/iterating-on-test/)
 * [2023-06-17, 07:45:39](https://news.ycombinator.com/item?id=36368177) - [Using Git-annex for Data Archiving](https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving)
