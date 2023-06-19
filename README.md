@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 05:03:00](https://news.ycombinator.com/item?id=36387477) - [Building a Networked Key-Value-Store on an FPGA](https://adamwalker.github.io/Building-FPGA-KVS/)
 * [2023-06-19, 04:34:37](https://news.ycombinator.com/item?id=36387371) - [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
 * [2023-06-19, 04:00:45](https://news.ycombinator.com/item?id=36387197) - [WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore and Linux Kernel](https://www.phoronix.com/news/Microsoft-WSL-1.3.10)
 * [2023-06-19, 03:53:10](https://news.ycombinator.com/item?id=36387141) - [Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
@@ -26,7 +27,6 @@
 * [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
 * [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
-* [2023-06-17, 17:15:06](https://news.ycombinator.com/item?id=36372176) - [Can you just move into an abandoned house?](https://www.quora.com/Is-it-okay-to-go-into-abandoned-houses)
 * [2023-06-17, 16:53:41](https://news.ycombinator.com/item?id=36371970) - [MiniMit – Bringing Minitel back to life](https://xn--multipli-i1a.fr/en/5-21/objects/minimit)
 * [2023-06-17, 07:10:59](https://news.ycombinator.com/item?id=36368027) - [Rewilding the planet: An archipelago constructed of sand is bringing new life](https://www.nature.com/immersive/d41586-023-01370-w/index.html)
 * [2023-06-16, 03:43:43](https://news.ycombinator.com/item?id=36350894) - [The Fultograph – Early Wireless Fax Machine from 1927](https://historictech.com/the-fultograph-the-worlds-1st-fax-machine-from-1927/)
