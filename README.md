@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-19, 23:34:10](https://news.ycombinator.com/item?id=36397785) - [SFO United Staff Accused of Stealing Marijuana from Checked Bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
+* [2023-06-19, 23:27:42](https://news.ycombinator.com/item?id=36397740) - [The Federated App Problem](https://plug-world.com/posts/the-federated-app-problem/)
 * [2023-06-19, 23:11:06](https://news.ycombinator.com/item?id=36397591) - [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
 * [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
 * [2023-06-19, 22:45:52](https://news.ycombinator.com/item?id=36397380) - [Gopher Wrangling. Effective error handling in Go](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
@@ -10,7 +11,6 @@
 * [2023-06-19, 21:25:17](https://news.ycombinator.com/item?id=36396675) - [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
 * [2023-06-19, 21:12:06](https://news.ycombinator.com/item?id=36396523) - [Show HN: Debian Based Home Router](https://github.com/tonusoo/koduinternet-cpe)
 * [2023-06-19, 20:06:11](https://news.ycombinator.com/item?id=36395866) - [Eight days later: Kbin, Lemmy, the landed gentry, and the rise of “threadiverse”](https://privacy.thenexus.today/8-days-later-draft-kbin-lemmy-landed-gentry/)
-* [2023-06-19, 19:09:15](https://news.ycombinator.com/item?id=36395296) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
 * [2023-06-19, 18:11:09](https://news.ycombinator.com/item?id=36394569) - [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
