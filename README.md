@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-19, 03:05:27](https://news.ycombinator.com/item?id=36386884) - [I don't trust Signal](https://blog.dijit.sh//i-don-t-trust-signal)
+* [2023-06-19, 03:34:05](https://news.ycombinator.com/item?id=36387030) - [Releasing an indie game on 3 consoles at once and failing financially](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 * [2023-06-19, 01:01:59](https://news.ycombinator.com/item?id=36386112) - [Miraheze is not shutting down](https://meta.miraheze.org/wiki/Miraheze_is_Not_Shutting_Down)
 * [2023-06-19, 00:27:21](https://news.ycombinator.com/item?id=36385938) - [GPU Programming: When, Why and How?](https://enccs.github.io/gpu-programming/)
 * [2023-06-19, 00:04:30](https://news.ycombinator.com/item?id=36385809) - [Neural networks in the 1990s](https://twitter.com/id_aa_carmack/status/1670558589746905090)
@@ -19,9 +19,9 @@
 * [2023-06-18, 16:33:22](https://news.ycombinator.com/item?id=36381764) - [Migrating Netflix to GraphQL safely](https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72?gi=4217a3fd9c5c)
 * [2023-06-18, 15:51:18](https://news.ycombinator.com/item?id=36381330) - [Graphic design items from Internet Archive](https://archives.design)
 * [2023-06-18, 14:42:47](https://news.ycombinator.com/item?id=36380711) - [Imaginary problems are the root of bad software](https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software)
-* [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (2020)](https://mbernste.github.io/posts/sourcecoding/)
 * [2023-06-18, 13:33:10](https://news.ycombinator.com/item?id=36380149) - [The legend of “x86 CPUs decode instructions into RISC form internally” (2020)](https://fanael.github.io/is-x86-risc-internally.html)
+* [2023-06-18, 13:16:37](https://news.ycombinator.com/item?id=36380024) - [Most tech content is bullshit (2020)](https://www.aleksandra.codes/tech-content-consumer)
 * [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
 * [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
 * [2023-06-17, 17:26:33](https://news.ycombinator.com/item?id=36372283) - [Make microservices look like monoliths](https://github.com/crufters/actio)
