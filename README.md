@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
 * [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
 * [2023-06-19, 21:52:35](https://news.ycombinator.com/item?id=36396932) - [SVB customers who lost their deposits remain on the hook for loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
 * [2023-06-19, 21:48:00](https://news.ycombinator.com/item?id=36396891) - [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
@@ -10,7 +11,6 @@
 * [2023-06-19, 18:11:09](https://news.ycombinator.com/item?id=36394569) - [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
-* [2023-06-19, 16:49:19](https://news.ycombinator.com/item?id=36393262) - [Voicebox: Generative AI model for speech that generalizes across tasks](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 * [2023-06-19, 16:33:04](https://news.ycombinator.com/item?id=36393030) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
 * [2023-06-19, 15:53:25](https://news.ycombinator.com/item?id=36392510) - [How to ramp up a factory consuming a lot of energy?](https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy)
 * [2023-06-19, 14:45:57](https://news.ycombinator.com/item?id=36391655) - [Show HN: My recommendation engine for Hacker News](https://hn-recommend.julienc.me)

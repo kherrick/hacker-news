@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
 * [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
 * [2023-06-19, 21:52:35](https://news.ycombinator.com/item?id=36396932) - [SVB Customers Who Lost Their Deposits Remain on the Hook for Loans](https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b)
 * [2023-06-19, 21:48:00](https://news.ycombinator.com/item?id=36396891) - [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
