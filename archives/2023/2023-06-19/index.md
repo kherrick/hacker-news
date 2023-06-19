@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
+* [2023-06-19, 17:13:00](https://news.ycombinator.com/item?id=36393673) - [Hurl: A terrible but cute idea for a language](https://ntietz.com/blog/introducing-hurl/)
 * [2023-06-19, 16:57:03](https://news.ycombinator.com/item?id=36393406) - [ELO Everything](https://eloeverything.co/)
+* [2023-06-19, 16:54:05](https://news.ycombinator.com/item?id=36393357) - [Open LLAMA 13B released, trained on 1T tokens](https://huggingface.co/openlm-research/open_llama_13b_easylm)
 * [2023-06-19, 16:52:36](https://news.ycombinator.com/item?id=36393327) - [When Dying Patients Want Unproven Drugs](https://www.newyorker.com/magazine/2023/06/26/relyvrio-als-fda-approval)
 * [2023-06-19, 16:49:19](https://news.ycombinator.com/item?id=36393262) - [Meta introduces Voicebox: state-of-the-art generative AI model for speech](https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/)
 * [2023-06-19, 16:33:04](https://news.ycombinator.com/item?id=36393030) - [PostgreSQL reconsiders its process-based model](https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/)
