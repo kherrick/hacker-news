@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-19](index.md)
 
+* [2023-06-19, 04:34:37](https://news.ycombinator.com/item?id=36387371) - [How to compute a 256 bit elliptic curve key with 50M Toffoli gates](https://arxiv.org/abs/2306.08585)
+* [2023-06-19, 04:00:45](https://news.ycombinator.com/item?id=36387197) - [WSL 1.3.10 Brings Experimental Memory Reclaim, Updated DXCore and Linux Kernel](https://www.phoronix.com/news/Microsoft-WSL-1.3.10)
 * [2023-06-19, 03:53:10](https://news.ycombinator.com/item?id=36387141) - [Openjob: best distributed task scheduling framework](https://habr.com/en/articles/742470/)
 * [2023-06-19, 03:34:05](https://news.ycombinator.com/item?id=36387030) - [Releasing an indie game on 3 consoles at once and failing financially](https://juicybeast.com/2016/01/11/releasing-an-indie-game-on-3-consoles-at-once-and-failing-financially/#2-years)
 * [2023-06-19, 03:05:27](https://news.ycombinator.com/item?id=36386884) - [I don't trust Signal](https://blog.dijit.sh//i-don-t-trust-signal)
