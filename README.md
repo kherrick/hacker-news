@@ -2,6 +2,7 @@
 
 * [2023-06-19, 20:04:23](https://news.ycombinator.com/item?id=36395856) - [Dunning–Kruger effect and flat-earthers: An exploratory analysis](https://journals.sagepub.com/doi/10.1177/09636625231166255)
 * [2023-06-19, 19:09:15](https://news.ycombinator.com/item?id=36395296) - [Metaprogramming in Zig and parsing CSS](https://notes.eatonphil.com/2023-06-19-metaprogramming-in-zig-and-parsing-css.html)
+* [2023-06-19, 18:29:30](https://news.ycombinator.com/item?id=36394832) - [Sea Change (2022)](https://www.oaktreecapital.com/insights/memo/sea-change)
 * [2023-06-19, 18:11:09](https://news.ycombinator.com/item?id=36394569) - [AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
 * [2023-06-19, 17:46:04](https://news.ycombinator.com/item?id=36394247) - [Theseus DHT Protocol](https://wootfish.github.io/theseus.dht/)
 * [2023-06-19, 17:20:43](https://news.ycombinator.com/item?id=36393782) - [Show HN: Python package for interfacing with ChatGPT with minimized complexity](https://github.com/minimaxir/simpleaichat)
@@ -26,7 +27,6 @@
 * [2023-06-18, 14:24:20](https://news.ycombinator.com/item?id=36380548) - [A ‘lost world’ of early microbes thrived one billion years ago](https://science.anu.edu.au/news-events/news/scientists-discover-lost-world-early-ancestors-billion-year-old-rocks)
 * [2023-06-18, 14:22:44](https://news.ycombinator.com/item?id=36380533) - [A Closer Look at LightSolver’s Laser-Based Processing Unit (LPU)](https://www.allaboutcircuits.com/news/a-closer-look-at-lightsolvers-laser-based-processing-unit-lpu/)
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
-* [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
 * [2023-06-17, 15:41:11](https://news.ycombinator.com/item?id=36371167) - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development)
 * [2023-06-17, 08:17:18](https://news.ycombinator.com/item?id=36368309) - [Platform Hopping](http://www.linusakesson.net/music/platform-hopping/index.php)
