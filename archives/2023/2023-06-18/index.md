@@ -52,6 +52,7 @@
 * [2023-06-18, 14:31:42](https://news.ycombinator.com/item?id=36380592) - [Time-Lock Puzzles in the Random Oracle Model (2011)](https://people.seas.harvard.edu/~salil/research/timelock-abs.html)
 * [2023-06-18, 14:30:59](https://news.ycombinator.com/item?id=36380587) - [Dependency managers don't manage your dependencies (2021)](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 * [2023-06-18, 14:24:20](https://news.ycombinator.com/item?id=36380548) - [Evidence of Billion-Year-Old Lost World of Microbes Found in Australian Outback](https://www.nature.com/articles/d41586-023-01847-8)
+* [2023-06-18, 14:22:44](https://news.ycombinator.com/item?id=36380533) - [A Closer Look at LightSolver’s Laser-Based Processing Unit (LPU)](https://www.allaboutcircuits.com/news/a-closer-look-at-lightsolvers-laser-based-processing-unit-lpu/)
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-18, 13:53:33](https://news.ycombinator.com/item?id=36380325) - [The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 * [2023-06-18, 13:51:07](https://news.ycombinator.com/item?id=36380306) - [Arcnet – It Was a Contender](https://www.youtube.com/watch?v=Gx0v0CyIps8)
