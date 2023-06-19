@@ -10,7 +10,6 @@
 * [2023-06-19, 12:36:17](https://news.ycombinator.com/item?id=36390357) - [Debugger Ghidra Class](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Debugger)
 * [2023-06-19, 12:30:54](https://news.ycombinator.com/item?id=36390308) - [Twitter lawyers overwhelmed as laid off employees file arbitration claims](https://www.techdirt.com/2023/06/16/twitters-lawyers-admit-theyre-overwhelmed-as-nearly-2000-laid-off-employees-file-arbitration-claims/)
 * [2023-06-19, 11:24:32](https://news.ycombinator.com/item?id=36389763) - [Write Free Software](https://writefreesoftware.org/)
-* [2023-06-19, 10:32:37](https://news.ycombinator.com/item?id=36389443) - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
@@ -29,6 +28,7 @@
 * [2023-06-18, 09:51:59](https://news.ycombinator.com/item?id=36378731) - [Sketch.systems](https://sketch.systems)
 * [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
 * [2023-06-17, 22:00:13](https://news.ycombinator.com/item?id=36375118) - [Invisibility Training for Motorcyclists [video]](https://www.youtube.com/watch?v=x94PGgYKHQ0)
+* [2023-06-17, 20:42:40](https://news.ycombinator.com/item?id=36374370) - [How many shipwrecks are there in the world's oceans?](https://www.bbc.com/future/article/20230609-how-many-shipwrecks-are-there-in-the-worlds-oceans)
 * [2023-06-17, 19:59:28](https://news.ycombinator.com/item?id=36373976) - [WingetUI – A better UI for your package managers](http://www.marticliment.com/wingetui/)
 
 ## [Archives](archives/index.md)
