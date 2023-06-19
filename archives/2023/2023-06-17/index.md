@@ -25,6 +25,7 @@
 * [2023-06-17, 20:39:26](https://news.ycombinator.com/item?id=36374334) - [You're neither in control nor responsible for their failures](https://www.sudarkoff.blog/p/youre-neither-in-control-nor-responsible)
 * [2023-06-17, 20:31:22](https://news.ycombinator.com/item?id=36374255) - [Data Falsificada (Part 1): “Clusterfake” – Data Colada](https://datacolada.org/109)
 * [2023-06-17, 20:07:57](https://news.ycombinator.com/item?id=36374067) - [Daniel Ellsberg: The Pentagon Papers](https://archive.org/details/pentagonpapersde00beac)
+* [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
 * [2023-06-17, 19:20:42](https://news.ycombinator.com/item?id=36373593) - [A barista fought to unionize her Starbucks. Now she’s out of a job](https://www.washingtonpost.com/business/interactive/2023/starbucks-union-fired-worker/)
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 19:01:11](https://news.ycombinator.com/item?id=36373361) - [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
