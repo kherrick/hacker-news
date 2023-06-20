@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-06-20, 11:34:37",
+      "https://news.ycombinator.com/item?id=36402565"
+    ],
+    [
+      "XEmacs 21.5.35 “kohlrabi” is released",
+      "https://www.xemacs.org/Releases/21.5.35.html"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 10:48:39",
       "https://news.ycombinator.com/item?id=36402162"
     ],
     [
       "Mullvad Leta: A search engine used in the Mullvad Browser",
       "https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 10:39:53",
-      "https://news.ycombinator.com/item?id=36402086"
-    ],
-    [
-      "GPS alternative taps cosmic rays for underground or underwater navigation",
-      "https://newatlas.com/technology/gps-alternative-muon-cosmic-rays-underground-underwater-navigation/"
     ]
   ],
   [
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-06-20, 06:07:48",
-      "https://news.ycombinator.com/item?id=36400321"
-    ],
-    [
-      "Should you standardise tools in your company? Case of Miro vs. MS Whiteboard",
-      "https://engineering.telia.no/blog/should-you-standardise-tools-in-your-company/"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 03:53:09",
       "https://news.ycombinator.com/item?id=36399503"
     ],
@@ -187,6 +177,16 @@
     [
       "The Federated App Problem",
       "https://plug-world.com/posts/the-federated-app-problem/"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 22:45:52",
+      "https://news.ycombinator.com/item?id=36397380"
+    ],
+    [
+      "Gopher Wrangling: Effective error handling in Go",
+      "https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/"
     ]
   ],
   [
