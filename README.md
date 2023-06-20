@@ -5,7 +5,7 @@
 * [2023-06-20, 19:46:06](https://news.ycombinator.com/item?id=36409475) - [Missing Titanic Sub Faced Lawsuit over Depths It Could Safely Travel To](https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate)
 * [2023-06-20, 19:30:35](https://news.ycombinator.com/item?id=36409262) - [A Bayesian View of Amazon Resellers](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
-* [2023-06-20, 19:11:20](https://news.ycombinator.com/item?id=36408996) - [Investor social networking website (Patent)](https://patents.google.com/patent/US8458084B2/en)
+* [2023-06-20, 19:17:32](https://news.ycombinator.com/item?id=36409082) - [vLLM: 24x faster LLM serving than HuggingFace Transformers](https://vllm.ai/)
 * [2023-06-20, 18:45:02](https://news.ycombinator.com/item?id=36408633) - [Building a Slack alternative with Rust/Tauri](https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust)
 * [2023-06-20, 18:27:40](https://news.ycombinator.com/item?id=36408367) - [Former US SEC attorney: 'Get out of crypto platforms now'](https://twitter.com/johnreedstark/status/1666780985189433347)
 * [2023-06-20, 18:19:12](https://news.ycombinator.com/item?id=36408248) - [Compiling Typed Python](https://bernsteinbear.com/blog/typed-python/)
