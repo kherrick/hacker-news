@@ -11,6 +11,7 @@
 * [2023-06-20, 13:16:17](https://news.ycombinator.com/item?id=36403494) - [Rivian Joins Forces with Tesla, Embracing Their Charging Standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
 * [2023-06-20, 13:09:06](https://news.ycombinator.com/item?id=36403430) - [Lemmy stats (users, posts, nodes, comments)](https://the-federation.info/platform/73)
 * [2023-06-20, 13:01:31](https://news.ycombinator.com/item?id=36403355) - [Why Tcl?](https://gist.github.com/nat-418/bdccb2428cde750c9f42bf9bbc1a50d3)
+* [2023-06-20, 12:59:57](https://news.ycombinator.com/item?id=36403345) - [Benzene Exposure Alters Endocrine Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326257/)
 * [2023-06-20, 12:58:28](https://news.ycombinator.com/item?id=36403334) - [Predicting hit songs with 97% accuracy](https://www.frontiersin.org/articles/10.3389/frai.2023.1154663/full)
 * [2023-06-20, 12:53:15](https://news.ycombinator.com/item?id=36403280) - [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
 * [2023-06-20, 12:31:44](https://news.ycombinator.com/item?id=36403087) - [Representing Enums in PostgreSQL](https://making.close.com/posts/native-enums-or-check-constraints-in-postgresql)
