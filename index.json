@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36402162"
     ],
     [
-      "Introducing Mullvad Leta: a search engine used in the Mullvad Browser",
+      "Mullvad Leta: A search engine used in the Mullvad Browser",
       "https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "Style Your RSS Feed",
       "https://darekkay.com/blog/rss-styling/"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 09:48:26",
+      "https://news.ycombinator.com/item?id=36401747"
+    ],
+    [
+      "Hashing",
+      "https://samwho.dev/hashing/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "The Federated App Problem",
       "https://plug-world.com/posts/the-federated-app-problem/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 22:45:52",
-      "https://news.ycombinator.com/item?id=36397380"
-    ],
-    [
-      "Gopher Wrangling: Effective error handling in Go",
-      "https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/"
     ]
   ],
   [
