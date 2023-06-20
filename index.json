@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-06-19, 18:24:07",
+      "https://news.ycombinator.com/item?id=36394755"
+    ],
+    [
+      "Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]",
+      "https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-19, 18:11:09",
       "https://news.ycombinator.com/item?id=36394569"
     ],
@@ -227,16 +237,6 @@
     [
       "Fhtagn – A tiny CLI programs tester written in Awk",
       "https://maximullaris.com/fhtagn.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 11:08:23",
-      "https://news.ycombinator.com/item?id=36389660"
-    ],
-    [
-      "Ken Thompson on the bug that exposed his compiler trojan (2021)",
-      "https://www.tuhs.org/pipermail/tuhs/2021-September/024486.html"
     ]
   ],
   [
