@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
+* [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:14:43](https://news.ycombinator.com/item?id=36400368) - [Adobe’s $20B deal to acquire Figma under threat from EU investigation](https://www.ft.com/content/d041351e-0974-4a27-ada2-7c026f67e765)
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://web.archive.org/web/20230620052350/https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
-* [2023-06-20, 04:13:32](https://news.ycombinator.com/item?id=36399620) - [Removed as moderator of /r/Celebrities after over 14 years](https://old.reddit.com/r/ModCoord/comments/14dt9ly/removed_as_moderator_of_rcelebrities_after_over/)
 * [2023-06-20, 03:53:09](https://news.ycombinator.com/item?id=36399503) - [A daytime nap is good for the brain](https://www.bbc.com/news/health-65950168)
 * [2023-06-20, 03:30:41](https://news.ycombinator.com/item?id=36399388) - [Iron nitrides: powerful magnets without the rare earth elements](https://hackaday.com/2022/09/01/iron-nitrides-powerful-magnets-without-the-rare-earth-elements/)
 * [2023-06-20, 02:56:34](https://news.ycombinator.com/item?id=36399194) - [Security analysis of the Dominion ImageCast X](https://freedom-to-tinker.com/2023/06/14/security-analysis-of-the-dominion-imagecast-x/)
