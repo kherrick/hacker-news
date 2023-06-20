@@ -21,7 +21,6 @@
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
 * [2023-06-20, 13:16:17](https://news.ycombinator.com/item?id=36403494) - [Rivian embraces Tesla's charging standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
-* [2023-06-20, 12:59:57](https://news.ycombinator.com/item?id=36403345) - [Benzene Exposure Alters Endocrine Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326257/)
 * [2023-06-20, 12:53:15](https://news.ycombinator.com/item?id=36403280) - [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
 * [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Mullvad Leta: A search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
@@ -30,6 +29,7 @@
 * [2023-06-20, 08:46:25](https://news.ycombinator.com/item?id=36401311) - [Do you want your children to be like you? A programmer's perspective](https://fhur.me/posts/2023/do-you-want-your-children-to-be-like-you)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/)
 * [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
+* [2023-06-19, 07:39:46](https://news.ycombinator.com/item?id=36388353) - [Rock and Roll Drums: All You Need to Know](https://www.schoolofrock.com/resources/drums/rock-and-roll-drums-all-you-need-to-know)
 
 ## [Archives](archives/index.md)
 
