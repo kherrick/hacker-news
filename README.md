@@ -14,7 +14,6 @@
 * [2023-06-20, 17:50:10](https://news.ycombinator.com/item?id=36407781) - [Submarine missing near Titanic used a $30 Logitech gamepad for steering](https://arstechnica.com/gaming/2023/06/submarine-missing-near-titanic-used-a-30-logitech-gamepad-for-steering/)
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
 * [2023-06-20, 17:16:36](https://news.ycombinator.com/item?id=36407272) - [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
-* [2023-06-20, 17:16:24](https://news.ycombinator.com/item?id=36407269) - [Petaflops to the People: From Personal Compute Cluster to Person of Compute](https://www.latent.space/p/geohot)
 * [2023-06-20, 17:08:48](https://news.ycombinator.com/item?id=36407152) - [Things I wish I’d known before fulltime RVing (2017)](https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/)
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
 * [2023-06-20, 16:07:32](https://news.ycombinator.com/item?id=36406139) - [RoboCat – A Self-Improving Robotic Agent](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
@@ -29,6 +28,7 @@
 * [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I give up on free software phones (2019)](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/)
 * [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
+* [2023-06-20, 04:52:58](https://news.ycombinator.com/item?id=36399874) - [Underage Enlistment in the United States and the Confederacy](http://commonplace.online/article/underage-enlistment-in-the-united-states-and-the-confederacy/)
 * [2023-06-19, 07:39:46](https://news.ycombinator.com/item?id=36388353) - [Rock and Roll Drums: All You Need to Know](https://www.schoolofrock.com/resources/drums/rock-and-roll-drums-all-you-need-to-know)
 
 ## [Archives](archives/index.md)
