@@ -139,11 +139,11 @@
             <h4>
               <span>2023-06-20 @ 13:24:28</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403609"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
             <div class="text">
@@ -184,13 +184,99 @@
             <h4>
               <span>2023-06-20 @ 13:24:27</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403608"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="36403607">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36403607"
+              >Tell HN: Stripe killed my music locker service, so I'm open
+              sourcing it</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-06-20 @ 13:24:24</span
+              ><span class="points-container"
+                >Points: <span class="points">58</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36403607"
+                  >Comments</a
+                ><span class="descendants">: 19</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I run a small website at inter.tube. It lets you upload your
+                music collection and stores it in Backblaze B2. It provides a
+                simple web interface to listen to your collection, and support
+                for the Subsonic API (allowing native apps to use it).
+                Fundamentally it is not very different from something like
+                Dropbox or Backblaze: it is a "dumb" backup that simply stores
+                what you give it. It doesn't perform "matching" against other
+                files, it doesn't allow you to access music you didn't
+                explicitly upload, and it doesn't even deduplicate files between
+                different users. It doesn't allow "sharing" of music either,
+                download links are tied to a short access token for a specific
+                user's login session. The only difference between other backup
+                services is that we use the metadata tags in your uploads to
+                organize things better. According to Capitol Records, Inc. v.
+                MP3Tunes, LLC, this is absolutely OK in the eyes of the law
+                (thank you to a fellow HN user for telling me about this court
+                case). Note that we don't even perform deduplication, which was
+                the main controversy in that case.
+              </p>
+              <p>
+                I have been using Stripe happily for a couple years now, but
+                suddenly (less than 10 minutes after a subscription payment went
+                through), Stripe decided that I violated their Restricted
+                Business policy, in particular "Products and services that
+                infringe intellectual property rights: Sales or distribution of
+                music, movies, software, or any other licensed materials without
+                appropriate authorization". I thought this was a
+                misunderstanding so I clarified that we don't sell music, just
+                storage space (see paragraph above), but they denied my appeal
+                with a short template response.
+              </p>
+              <p>
+                This saddens me because my reasons for starting the site are the
+                exact opposite of piracy! I was sick of artists getting paid
+                virtually nothing for streaming service plays, so I decided to
+                buy full albums directly from the artist as much as I could.
+                inter.tube just allows you to keep your collection safe and
+                easily accessible.
+              </p>
+              <p>
+                I'm posting this mostly to warn other Stripe users that
+                essentially any backup service could "violate" these terms, so
+                be careful about the marketing blurbs on your website. Probably
+                any mention of "music" whatsoever is enough to get your account
+                nuked. I really liked Stripe, always recommended it because of
+                its nice API, but I won't be doing that anymore.
+              </p>
+              <p>
+                inter.tube will likely die. I'm going to refund my few paying
+                users and disable account registration later, I guess.
+              </p>
+              <p>
+                As a bonus, I've open-sourced inter.tube. However, it is
+                difficult to run because it relies on a bunch of random cloud
+                services (Backblaze B2 + Cloudflare Workers + Lambda) and
+                there's some hard-coded stuff in there, so it's probably not
+                very useful beyond curiosity. If anyone would like to help me
+                with the open sourcing, let me know, and I'll get back to you
+                whenever I have time. Of course, feel free to fork it as well. I
+                am also on GitHub sponsors if anyone would like to sponsor me to
+                help make it easier to self-host (or at least self-deploy).
+              </p>
+              <p>Source code: https://github.com/guregu/intertube</p>
+            </div>
           </section>
         </section>
         <section id="36403572">
@@ -205,11 +291,11 @@
             <h4>
               <span>2023-06-20 @ 13:21:47</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403572"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -227,11 +313,11 @@
             <h4>
               <span>2023-06-20 @ 13:16:17</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403494"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 51</span></span
               >
             </h4>
           </section>
@@ -246,11 +332,11 @@
             <h4>
               <span>2023-06-20 @ 13:09:06</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403430"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -267,32 +353,11 @@
             <h4>
               <span>2023-06-20 @ 13:01:31</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403355"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36403334">
-          <h3>
-            <a
-              class="item"
-              href="https://www.frontiersin.org/articles/10.3389/frai.2023.1154663/full"
-              >Predicting hit songs with 97% accuracy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-06-20 @ 12:58:28</span
-              ><span class="points-container"
-                >Points: <span class="points">53</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36403334"
-                  >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -307,11 +372,11 @@
             <h4>
               <span>2023-06-20 @ 12:53:15</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">145</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403280"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -328,11 +393,11 @@
             <h4>
               <span>2023-06-20 @ 12:31:44</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403087"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -348,7 +413,7 @@
             <h4>
               <span>2023-06-20 @ 12:24:08</span
               ><span class="points-container"
-                >Points: <span class="points">48</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36403014"
                   >Comments</a
@@ -439,11 +504,11 @@
             <h4>
               <span>2023-06-20 @ 12:18:27</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36402968"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -458,11 +523,11 @@
             <h4>
               <span>2023-06-20 @ 11:34:37</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36402565"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -479,11 +544,11 @@
             <h4>
               <span>2023-06-20 @ 11:15:21</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36402390"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -500,11 +565,11 @@
             <h4>
               <span>2023-06-20 @ 10:48:39</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36402162"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -519,11 +584,11 @@
             <h4>
               <span>2023-06-20 @ 10:26:37</span
               ><span class="points-container"
-                >Points: <span class="points">279</span></span
+                >Points: <span class="points">285</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36401999"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 136</span></span
               >
             </h4>
           </section>
@@ -539,11 +604,11 @@
             <h4>
               <span>2023-06-20 @ 10:16:14</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">41</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36401928"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
             <div class="text">
@@ -564,11 +629,11 @@
             <h4>
               <span>2023-06-20 @ 10:05:54</span
               ><span class="points-container"
-                >Points: <span class="points">63</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36401863"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -583,11 +648,11 @@
             <h4>
               <span>2023-06-20 @ 10:04:29</span
               ><span class="points-container"
-                >Points: <span class="points">179</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36401854"
                   >Comments</a
-                ><span class="descendants">: 67</span></span
+                ><span class="descendants">: 68</span></span
               >
             </h4>
           </section>
@@ -600,7 +665,7 @@
             <h4>
               <span>2023-06-20 @ 09:48:26</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36401747"
                   >Comments</a
@@ -619,7 +684,7 @@
             <h4>
               <span>2023-06-20 @ 09:38:31</span
               ><span class="points-container"
-                >Points: <span class="points">119</span></span
+                >Points: <span class="points">122</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36401676"
                   >Comments</a
@@ -658,11 +723,30 @@
             <h4>
               <span>2023-06-20 @ 06:43:32</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36400524"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36400283">
+          <h3>
+            <a class="item" href="https://www.cpushack.com/CPU/cpu.html"
+              >Great Microprocessors of the Past and Present (2003)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-06-20 @ 06:01:08</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36400283"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -679,11 +763,11 @@
             <h4>
               <span>2023-06-20 @ 01:21:23</span
               ><span class="points-container"
-                >Points: <span class="points">193</span></span
+                >Points: <span class="points">196</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36398596"
                   >Comments</a
-                ><span class="descendants">: 383</span></span
+                ><span class="descendants">: 386</span></span
               >
             </h4>
           </section>
@@ -698,7 +782,7 @@
             <h4>
               <span>2023-06-20 @ 00:41:12</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36398292"
                   >Comments</a
@@ -717,11 +801,11 @@
             <h4>
               <span>2023-06-20 @ 00:10:55</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36398081"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -745,28 +829,6 @@
             </h4>
           </section>
         </section>
-        <section id="36388825">
-          <h3>
-            <a
-              class="item"
-              href="https://dwheeler.com/essays/filenames-in-shell.html"
-              >Filenames and pathnames in shell: How to do it correctly
-              (2020)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-06-19 @ 08:58:03</span
-              ><span class="points-container"
-                >Points: <span class="points">193</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36388825"
-                  >Comments</a
-                ><span class="descendants">: 101</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="36387292">
           <h3>
             <a
@@ -779,11 +841,11 @@
             <h4>
               <span>2023-06-19 @ 04:18:33</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36387292"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -800,7 +862,7 @@
             <h4>
               <span>2023-06-18 @ 23:51:57</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36385729"
                   >Comments</a
@@ -821,7 +883,7 @@
             <h4>
               <span>2023-06-18 @ 21:26:28</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36384674"
                   >Comments</a
