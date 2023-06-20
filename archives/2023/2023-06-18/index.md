@@ -6,6 +6,7 @@
 
 * [2023-06-18, 23:51:57](https://news.ycombinator.com/item?id=36385729) - [Processing medical images at scale on the cloud](https://www.tweag.io/blog/2023-04-20-medical-computing-at-scale/)
 * [2023-06-18, 23:30:14](https://news.ycombinator.com/item?id=36385617) - [You Can't Kickstart a Conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
+* [2023-06-18, 22:30:04](https://news.ycombinator.com/item?id=36385198) - [Shannon's Mind-Reading Machine](https://literateprograms.org/mind_reading_machine__awk_.html)
 * [2023-06-18, 22:25:10](https://news.ycombinator.com/item?id=36385163) - [The Linux Kernel has jiffies](https://github.com/torvalds/linux/blob/45a3e24f65e90a047bef86f927ebdc4c710edaa1/kernel/time/jiffies.c)
 * [2023-06-18, 22:07:39](https://news.ycombinator.com/item?id=36385032) - [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
 * [2023-06-18, 21:26:28](https://news.ycombinator.com/item?id=36384674) - [I made a mechanical keyboard with 3D-printed switches (2020)](https://incoherency.co.uk/blog/stories/jesboard.html)

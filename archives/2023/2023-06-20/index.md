@@ -6,6 +6,7 @@
 
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 15:35:54](https://news.ycombinator.com/item?id=36405560) - [Ask HN: Does having a good memory aid or hinder creativity?](https://news.ycombinator.com/item?id=36405560)
+* [2023-06-20, 15:16:39](https://news.ycombinator.com/item?id=36405218) - [53% of parents say climate change affects their decision to have more kids](https://www.cnbc.com/2023/06/20/climate-change-affects-53percent-of-parents-decision-to-have-more-kids.html)
 * [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
 * [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
 * [2023-06-20, 14:35:50](https://news.ycombinator.com/item?id=36404656) - [Longcat](https://en.wikipedia.org/wiki/Longcat)
