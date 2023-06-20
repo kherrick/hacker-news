@@ -7,6 +7,7 @@
 * [2023-06-18, 23:30:14](https://news.ycombinator.com/item?id=36385617) - [You Can't Kickstart a Conference](https://abnercoimbre.com/post/why-you-cant-kickstart-a-conference/)
 * [2023-06-18, 22:25:10](https://news.ycombinator.com/item?id=36385163) - [The Linux Kernel has jiffies](https://github.com/torvalds/linux/blob/45a3e24f65e90a047bef86f927ebdc4c710edaa1/kernel/time/jiffies.c)
 * [2023-06-18, 22:07:39](https://news.ycombinator.com/item?id=36385032) - [ChatGPT, Google Bard Generates Generic Windows 11, Windows 10 Pro Keys](https://www.tomshardware.com/news/chatgpt-generates-windows-11-pro-keys)
+* [2023-06-18, 21:26:28](https://news.ycombinator.com/item?id=36384674) - [I made a mechanical keyboard with 3D-printed switches (2020)](https://incoherency.co.uk/blog/stories/jesboard.html)
 * [2023-06-18, 21:23:02](https://news.ycombinator.com/item?id=36384636) - [Keycloak – Open-Source Identity and Access Management Interview](https://console.substack.com/i/128451029/interview-with-michal-of-keycloak-open-source-identity-and-access-management-for-modern-applications)
 * [2023-06-18, 21:21:48](https://news.ycombinator.com/item?id=36384625) - [HDR QR Code](https://notes.dt.in.th/HDRQRCode)
 * [2023-06-18, 21:17:10](https://news.ycombinator.com/item?id=36384581) - [A paradigm for developer productivity (2022)](https://ktheory.com/paradigm-for-developer-productivity/)
