@@ -60,6 +60,7 @@
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-18, 13:53:33](https://news.ycombinator.com/item?id=36380325) - [The GMP library's repository is under attack by a single GitHub user](https://gmplib.org/)
 * [2023-06-18, 13:51:07](https://news.ycombinator.com/item?id=36380306) - [Arcnet – It Was a Contender](https://www.youtube.com/watch?v=Gx0v0CyIps8)
+* [2023-06-18, 13:49:13](https://news.ycombinator.com/item?id=36380291) - [Dynamic programming in Haskell: automatic memoization](https://byorgey.wordpress.com/2023/06/06/dynamic-programming-in-haskell-automatic-memoization/)
 * [2023-06-18, 13:44:10](https://news.ycombinator.com/item?id=36380247) - [DIY-Audio-Heaven](https://diyaudioheaven.wordpress.com/)
 * [2023-06-18, 13:43:49](https://news.ycombinator.com/item?id=36380240) - [Poor Man's Computer Science Bootcamp – Basics](https://github.com/Lesabotsy/bootcamp)
 * [2023-06-18, 13:38:47](https://news.ycombinator.com/item?id=36380198) - [Shannon’s Source Coding Theorem (Foundations of Information Theory: Part 3)](https://mbernste.github.io/posts/sourcecoding/)

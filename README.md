@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 01:41:40](https://news.ycombinator.com/item?id=36398721) - [Why Are There Still So Many Jobs? The History and Future of Workplace Automation](https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3)
 * [2023-06-20, 00:56:21](https://news.ycombinator.com/item?id=36398418) - [OpenWrt Project: a Linux operating system targeting embedded devices](https://openwrt.org/)
 * [2023-06-20, 00:41:12](https://news.ycombinator.com/item?id=36398292) - [The Matasano crypto challenges (2014)](https://cryptopals.com/)
 * [2023-06-20, 00:10:55](https://news.ycombinator.com/item?id=36398081) - [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
 * [2023-06-19, 23:34:10](https://news.ycombinator.com/item?id=36397785) - [SFO United staff accused of stealing marijuana from checked bags](https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/)
 * [2023-06-19, 23:11:06](https://news.ycombinator.com/item?id=36397591) - [Mum’s microbes might boost brain development of C-section babies](https://www.nature.com/articles/d41586-023-01972-4)
 * [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook (2021)](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
-* [2023-06-19, 22:45:52](https://news.ycombinator.com/item?id=36397380) - [Gopher Wrangling: Effective error handling in Go](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
 * [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
 * [2023-06-19, 21:48:00](https://news.ycombinator.com/item?id=36396891) - [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
 * [2023-06-19, 21:25:17](https://news.ycombinator.com/item?id=36396675) - [Apple co-founder sells Carmel Valley ranch, will become nature preserve](https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/)
@@ -27,7 +27,7 @@
 * [2023-06-18, 20:37:51](https://news.ycombinator.com/item?id=36384206) - [The Last Place on Earth (2013)](http://codex99.com/cartography/the-last-place-on-earth.html)
 * [2023-06-18, 15:09:59](https://news.ycombinator.com/item?id=36380967) - [Chemists introduce a two-step process for making phosphorus compounds](https://phys.org/news/2023-06-two-step-phosphorus-containing-chemicals.html)
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
-* [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
+* [2023-06-18, 13:49:13](https://news.ycombinator.com/item?id=36380291) - [Dynamic programming in Haskell: automatic memoization](https://byorgey.wordpress.com/2023/06/06/dynamic-programming-in-haskell-automatic-memoization/)
 * [2023-06-17, 19:05:42](https://news.ycombinator.com/item?id=36373410) - [A Survey of Modern Compiler Fuzzing](https://arxiv.org/abs/2306.06884)
 * [2023-06-17, 11:02:25](https://news.ycombinator.com/item?id=36369060) - [BetaWiki – An open encyclopedia of software history](https://betawiki.net/wiki/Main_Page)
 
