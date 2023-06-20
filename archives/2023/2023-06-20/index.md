@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 18:27:40](https://news.ycombinator.com/item?id=36408367) - [Former US SEC attorney: 'Get out of crypto platforms now'](https://finbold.com/former-us-sec-attorney-get-out-of-crypto-platforms-now/)
 * [2023-06-20, 17:53:56](https://news.ycombinator.com/item?id=36407850) - [Milk-V Mars: RISC-V credit card size SBC](https://milkv.io/mars)
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
 * [2023-06-20, 17:16:36](https://news.ycombinator.com/item?id=36407272) - [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
@@ -12,6 +13,7 @@
 * [2023-06-20, 17:12:03](https://news.ycombinator.com/item?id=36407208) - [3 Men Convicted of Harassing Family on Behalf of China’s Government](https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html)
 * [2023-06-20, 17:08:48](https://news.ycombinator.com/item?id=36407152) - [Things I Wish I’d Known Before Fulltime RVing (2017)](https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/)
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
+* [2023-06-20, 16:07:32](https://news.ycombinator.com/item?id=36406139) - [RoboCat – A Self-Improving Robotic Agent](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
 * [2023-06-20, 15:55:22](https://news.ycombinator.com/item?id=36405934) - [One thousand balls dropped on a double well curve (~ x^4 – x^2) [video]](https://www.youtube.com/watch?v=LQmyR-sC6GA)
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 15:35:54](https://news.ycombinator.com/item?id=36405560) - [Ask HN: Does having a good memory aid or hinder creativity?](https://news.ycombinator.com/item?id=36405560)
