@@ -6,7 +6,9 @@
 
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
 * [2023-06-20, 17:16:36](https://news.ycombinator.com/item?id=36407272) - [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
+* [2023-06-20, 17:16:24](https://news.ycombinator.com/item?id=36407269) - [Petaflops to the People: From Personal Compute Cluster to Person of Compute](https://www.latent.space/p/geohot)
 * [2023-06-20, 17:14:32](https://news.ycombinator.com/item?id=36407245) - [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
+* [2023-06-20, 17:12:03](https://news.ycombinator.com/item?id=36407208) - [3 Men Convicted of Harassing Family on Behalf of China’s Government](https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html)
 * [2023-06-20, 17:08:48](https://news.ycombinator.com/item?id=36407152) - [Things I Wish I’d Known Before Fulltime RVing (2017)](https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/)
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
 * [2023-06-20, 15:55:22](https://news.ycombinator.com/item?id=36405934) - [One thousand balls dropped on a double well curve (~ x^4 – x^2) [video]](https://www.youtube.com/watch?v=LQmyR-sC6GA)
