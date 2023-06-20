@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
 * [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – open-source airtable alternative](https://github.com/undb-xyz/undb)
 * [2023-06-20, 14:31:43](https://news.ycombinator.com/item?id=36404574) - [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)
 * [2023-06-20, 13:24:28](https://news.ycombinator.com/item?id=36403609) - [Tell HN: Hulu does not allow subscription cancellation](https://news.ycombinator.com/item?id=36403609)
@@ -32,6 +33,7 @@
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style Your RSS Feed](https://darekkay.com/blog/rss-styling/)
 * [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
 * [2023-06-20, 09:38:31](https://news.ycombinator.com/item?id=36401676) - [I made a smooth shadows generator](https://smoothshadows.com/)
+* [2023-06-20, 08:14:37](https://news.ycombinator.com/item?id=36401064) - [Failing to draw lines between 'script' and 'program'](https://utcc.utoronto.ca/~cks/space/blog/programming/ScriptVersusProgram)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:14:43](https://news.ycombinator.com/item?id=36400368) - [Adobe’s $20B deal to acquire Figma under threat from EU investigation](https://www.ft.com/content/d041351e-0974-4a27-ada2-7c026f67e765)
