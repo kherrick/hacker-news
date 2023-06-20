@@ -2,6 +2,7 @@
 
 * [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
 * [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
+* [2023-06-20, 14:35:50](https://news.ycombinator.com/item?id=36404656) - [Longcat](https://en.wikipedia.org/wiki/Longcat)
 * [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
 * [2023-06-20, 14:31:43](https://news.ycombinator.com/item?id=36404574) - [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)
 * [2023-06-20, 13:24:27](https://news.ycombinator.com/item?id=36403608) - [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
@@ -13,7 +14,6 @@
 * [2023-06-20, 12:53:15](https://news.ycombinator.com/item?id=36403280) - [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
 * [2023-06-20, 12:31:44](https://news.ycombinator.com/item?id=36403087) - [Representing Enums in PostgreSQL](https://making.close.com/posts/native-enums-or-check-constraints-in-postgresql)
 * [2023-06-20, 12:18:27](https://news.ycombinator.com/item?id=36402968) - [Square where Julius Caesar was killed opens to the public in Rome](https://www.cnn.com/travel/article/rome-open-square-julius-caesar-scli-intl/index.html)
-* [2023-06-20, 11:34:37](https://news.ycombinator.com/item?id=36402565) - [XEmacs 21.5.35 “kohlrabi” is released](https://www.xemacs.org/Releases/21.5.35.html)
 * [2023-06-20, 11:15:21](https://news.ycombinator.com/item?id=36402390) - [Compilers for the Future](https://adam-mcdaniel-blog.github.io/compilers-for-the-future/)
 * [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Mullvad Leta: A search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
 * [2023-06-20, 10:26:37](https://news.ycombinator.com/item?id=36401999) - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
