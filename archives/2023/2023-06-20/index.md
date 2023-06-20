@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
+* [2023-06-20, 19:11:20](https://news.ycombinator.com/item?id=36408996) - [Investor social networking website (Patent)](https://patents.google.com/patent/US8458084B2/en)
 * [2023-06-20, 18:49:30](https://news.ycombinator.com/item?id=36408700) - [My total comp for creating GitHub Copilot](https://twitter.com/alexgraveley/status/1671213996735594503)
 * [2023-06-20, 18:45:02](https://news.ycombinator.com/item?id=36408633) - [Building a Slack alternative with Rust/Tauri](https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust)
 * [2023-06-20, 18:27:40](https://news.ycombinator.com/item?id=36408367) - [Former US SEC attorney: 'Get out of crypto platforms now'](https://twitter.com/johnreedstark/status/1666780985189433347)
@@ -14,6 +16,7 @@
 * [2023-06-20, 17:16:36](https://news.ycombinator.com/item?id=36407272) - [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
 * [2023-06-20, 17:16:24](https://news.ycombinator.com/item?id=36407269) - [Petaflops to the People: From Personal Compute Cluster to Person of Compute](https://www.latent.space/p/geohot)
 * [2023-06-20, 17:14:32](https://news.ycombinator.com/item?id=36407245) - [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
+* [2023-06-20, 17:12:59](https://news.ycombinator.com/item?id=36407218) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 17:12:03](https://news.ycombinator.com/item?id=36407208) - [3 Men Convicted of Harassing Family on Behalf of China’s Government](https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html)
 * [2023-06-20, 17:08:48](https://news.ycombinator.com/item?id=36407152) - [Things I Wish I’d Known Before Fulltime RVing (2017)](https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/)
 * [2023-06-20, 16:44:15](https://news.ycombinator.com/item?id=36406763) - [Stanford Alumni 5x More Likely to Secure VC Funding Than Carnegie Mellon](https://goldenpineapple.substack.com/p/stanford-alumni-5x-more-likely-to)
