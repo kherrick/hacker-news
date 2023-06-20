@@ -28,7 +28,7 @@
 * [2023-06-18, 15:09:59](https://news.ycombinator.com/item?id=36380967) - [Chemists introduce a two-step process for making phosphorus compounds](https://phys.org/news/2023-06-two-step-phosphorus-containing-chemicals.html)
 * [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-18, 13:49:13](https://news.ycombinator.com/item?id=36380291) - [Dynamic programming in Haskell: automatic memoization](https://byorgey.wordpress.com/2023/06/06/dynamic-programming-in-haskell-automatic-memoization/)
-* [2023-06-17, 22:17:55](https://news.ycombinator.com/item?id=36375271) - [My father may be gone, but ‘our’ radio is still going](https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories)
+* [2023-06-17, 19:05:42](https://news.ycombinator.com/item?id=36373410) - [A Survey of Modern Compiler Fuzzing](https://arxiv.org/abs/2306.06884)
 * [2023-06-17, 11:02:25](https://news.ycombinator.com/item?id=36369060) - [BetaWiki – An open encyclopedia of software history](https://betawiki.net/wiki/Main_Page)
 
 ## [Archives](archives/index.md)
