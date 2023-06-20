@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 18:49:30](https://news.ycombinator.com/item?id=36408700) - [My total comp for creating GitHub Copilot](https://twitter.com/alexgraveley/status/1671213996735594503)
 * [2023-06-20, 18:27:40](https://news.ycombinator.com/item?id=36408367) - [Former US SEC attorney: 'Get out of crypto platforms now'](https://twitter.com/johnreedstark/status/1666780985189433347)
 * [2023-06-20, 18:27:40](https://news.ycombinator.com/item?id=36408367) - [Former US SEC attorney: 'Get out of crypto platforms now'](https://finbold.com/former-us-sec-attorney-get-out-of-crypto-platforms-now/)
 * [2023-06-20, 17:53:56](https://news.ycombinator.com/item?id=36407850) - [Milk-V Mars: RISC-V credit card size SBC](https://milkv.io/mars)
