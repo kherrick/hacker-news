@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 21:17:35](https://news.ycombinator.com/item?id=36410777) - [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
+* [2023-06-20, 21:01:52](https://news.ycombinator.com/item?id=36410547) - [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
 * [2023-06-20, 19:53:26](https://news.ycombinator.com/item?id=36409566) - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 * [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)

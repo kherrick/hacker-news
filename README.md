@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 21:17:35](https://news.ycombinator.com/item?id=36410777) - [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
+* [2023-06-20, 21:01:52](https://news.ycombinator.com/item?id=36410547) - [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
 * [2023-06-20, 19:53:26](https://news.ycombinator.com/item?id=36409566) - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 * [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
@@ -27,8 +29,6 @@
 * [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
 * [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I give up on free software phones (2019)](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/)
-* [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
-* [2023-06-20, 04:52:58](https://news.ycombinator.com/item?id=36399874) - [Underage Enlistment in the United States and the Confederacy](http://commonplace.online/article/underage-enlistment-in-the-united-states-and-the-confederacy/)
 * [2023-06-19, 07:39:46](https://news.ycombinator.com/item?id=36388353) - [Rock and Roll Drums: All You Need to Know](https://www.schoolofrock.com/resources/drums/rock-and-roll-drums-all-you-need-to-know)
 
 ## [Archives](archives/index.md)
