@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 10:37:55](https://news.ycombinator.com/item?id=36402076) - [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)
+* [2023-06-20, 10:26:37](https://news.ycombinator.com/item?id=36401999) - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
+* [2023-06-20, 10:05:54](https://news.ycombinator.com/item?id=36401863) - [Cities turn to ‘extreme’ water recycling](https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling)
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style Your RSS Feed](https://darekkay.com/blog/rss-styling/)
 * [2023-06-20, 09:38:31](https://news.ycombinator.com/item?id=36401676) - [I made a smooth shadows generator](https://smoothshadows.com/)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
