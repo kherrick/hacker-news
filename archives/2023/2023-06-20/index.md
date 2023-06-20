@@ -70,6 +70,7 @@
 * [2023-06-20, 08:14:37](https://news.ycombinator.com/item?id=36401064) - [Failing to draw lines between 'script' and 'program'](https://utcc.utoronto.ca/~cks/space/blog/programming/ScriptVersusProgram)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
+* [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/)
 * [2023-06-20, 06:14:43](https://news.ycombinator.com/item?id=36400368) - [Adobe’s $20B deal to acquire Figma under threat from EU investigation](https://www.ft.com/content/d041351e-0974-4a27-ada2-7c026f67e765)
 * [2023-06-20, 06:07:48](https://news.ycombinator.com/item?id=36400321) - [Should you standardise tools in your company? Case of Miro vs. MS Whiteboard](https://engineering.telia.no/blog/should-you-standardise-tools-in-your-company/)
 * [2023-06-20, 06:01:08](https://news.ycombinator.com/item?id=36400283) - [Great Microprocessors of the Past and Present (2003)](https://www.cpushack.com/CPU/cpu.html)
