@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 12:24:08](https://news.ycombinator.com/item?id=36403014) - [Show HN: Inngest – Developer platform for background jobs and workflows](https://www.inngest.com)
+* [2023-06-20, 11:54:42](https://news.ycombinator.com/item?id=36402761) - [Mastercard submits fresh trademark application for crypto tech](https://crypto.news/mastercard-submits-fresh-trademark-application-for-crypto-tech/)
 * [2023-06-20, 11:34:37](https://news.ycombinator.com/item?id=36402565) - [XEmacs 21.5.35 “kohlrabi” is released](https://www.xemacs.org/Releases/21.5.35.html)
+* [2023-06-20, 11:15:21](https://news.ycombinator.com/item?id=36402390) - [Compilers for the Future](https://adam-mcdaniel-blog.github.io/compilers-for-the-future/)
 * [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Introducing Mullvad Leta: a search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
 * [2023-06-20, 10:39:53](https://news.ycombinator.com/item?id=36402086) - [GPS alternative taps cosmic rays for underground or underwater navigation](https://newatlas.com/technology/gps-alternative-muon-cosmic-rays-underground-underwater-navigation/)
 * [2023-06-20, 10:37:55](https://news.ycombinator.com/item?id=36402076) - [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)
 * [2023-06-20, 10:26:37](https://news.ycombinator.com/item?id=36401999) - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
+* [2023-06-20, 10:16:14](https://news.ycombinator.com/item?id=36401928) - [Show HN: Lissom.CSS - A classless, minimalist, and themeable CSS library](https://lissomware.github.io/css/)
 * [2023-06-20, 10:05:54](https://news.ycombinator.com/item?id=36401863) - [Cities turn to ‘extreme’ water recycling](https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling)
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style Your RSS Feed](https://darekkay.com/blog/rss-styling/)
 * [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
