@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
 * [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
 * [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – open-source airtable alternative](https://github.com/undb-xyz/undb)
 * [2023-06-20, 14:31:43](https://news.ycombinator.com/item?id=36404574) - [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)

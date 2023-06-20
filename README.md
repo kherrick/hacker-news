@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
 * [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
 * [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – open-source airtable alternative](https://github.com/undb-xyz/undb)
 * [2023-06-20, 14:31:43](https://news.ycombinator.com/item?id=36404574) - [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)
 * [2023-06-20, 13:24:27](https://news.ycombinator.com/item?id=36403608) - [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
 * [2023-06-20, 13:24:24](https://news.ycombinator.com/item?id=36403607) - [Tell HN: Stripe killed my music locker service, so I'm open sourcing it](https://news.ycombinator.com/item?id=36403607)
-* [2023-06-20, 13:21:47](https://news.ycombinator.com/item?id=36403572) - [ASUS Chromebox 5](https://www.asus.com/displays-desktops/mini-pcs/chrome-os-devices/asus-chromebox-5/)
 * [2023-06-20, 13:16:17](https://news.ycombinator.com/item?id=36403494) - [Rivian Joins Forces with Tesla, Embracing Their Charging Standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
 * [2023-06-20, 13:09:06](https://news.ycombinator.com/item?id=36403430) - [Lemmy stats (users, posts, nodes, comments)](https://the-federation.info/platform/73)
 * [2023-06-20, 13:01:31](https://news.ycombinator.com/item?id=36403355) - [Why Tcl?](https://gist.github.com/nat-418/bdccb2428cde750c9f42bf9bbc1a50d3)
