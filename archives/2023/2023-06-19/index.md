@@ -59,6 +59,7 @@
 * [2023-06-19, 09:45:08](https://news.ycombinator.com/item?id=36389140) - [Fibers, Oh My (2020)](https://graphitemaster.github.io/fibers/)
 * [2023-06-19, 09:10:01](https://news.ycombinator.com/item?id=36388919) - [MusicGen-Looper: Generate fixed-bpm loops from text prompts](https://replicate.com/andreasjansson/musicgen-looper)
 * [2023-06-19, 09:06:44](https://news.ycombinator.com/item?id=36388894) - [TypeScript 5.2's New Keyword: 'using'](https://www.totaltypescript.com/typescript-5-2-new-keyword-using)
+* [2023-06-19, 09:06:29](https://news.ycombinator.com/item?id=36388892) - [Bit Hacking with Golang](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
 * [2023-06-19, 08:58:17](https://news.ycombinator.com/item?id=36388828) - [We tried to book a train ticket and ended up with a 245,000 records data breach](https://zerforschung.org/posts/freundschaftspass-en/)
 * [2023-06-19, 08:58:03](https://news.ycombinator.com/item?id=36388825) - [Filenames and pathnames in shell: How to do it correctly (2020)](https://dwheeler.com/essays/filenames-in-shell.html)
 * [2023-06-19, 08:57:22](https://news.ycombinator.com/item?id=36388821) - [Show HN: Slint - A Declarative UI Toolkit Written in Rust for Embedded & Desktop](https://slint.dev)
