@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 22:21:11](https://news.ycombinator.com/item?id=36411519) - [My total comp for creating GitHub Copilot: +20k bonus and a title bump](https://twitter.com/alexgraveley/status/1671219402480418816)
 * [2023-06-20, 21:17:35](https://news.ycombinator.com/item?id=36410777) - [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
 * [2023-06-20, 21:01:52](https://news.ycombinator.com/item?id=36410547) - [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
 * [2023-06-20, 19:53:26](https://news.ycombinator.com/item?id=36409566) - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 * [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-* [2023-06-20, 19:46:06](https://news.ycombinator.com/item?id=36409475) - [Missing Titanic Sub Faced Lawsuit over Depths It Could Safely Travel To](https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate)
 * [2023-06-20, 19:30:35](https://news.ycombinator.com/item?id=36409262) - [A Bayesian View of Amazon Resellers](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
 * [2023-06-20, 19:17:32](https://news.ycombinator.com/item?id=36409082) - [vLLM: 24x faster LLM serving than HuggingFace Transformers](https://vllm.ai/)
