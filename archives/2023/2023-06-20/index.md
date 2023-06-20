@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
+* [2023-06-20, 15:35:54](https://news.ycombinator.com/item?id=36405560) - [Ask HN: Does having a good memory aid or hinder creativity?](https://news.ycombinator.com/item?id=36405560)
 * [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
 * [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
 * [2023-06-20, 14:35:50](https://news.ycombinator.com/item?id=36404656) - [Longcat](https://en.wikipedia.org/wiki/Longcat)
@@ -44,6 +46,7 @@
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://web.archive.org/web/20230620052350/https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
 * [2023-06-20, 04:59:21](https://news.ycombinator.com/item?id=36399910) - [Show HN: I made a landing page am I doing this right?](https://dj.exchange)
+* [2023-06-20, 04:52:58](https://news.ycombinator.com/item?id=36399874) - [Underage Enlistment in the United States and the Confederacy](http://commonplace.online/article/underage-enlistment-in-the-united-states-and-the-confederacy/)
 * [2023-06-20, 04:13:32](https://news.ycombinator.com/item?id=36399620) - [Removed as moderator of /r/Celebrities after over 14 years](https://old.reddit.com/r/ModCoord/comments/14dt9ly/removed_as_moderator_of_rcelebrities_after_over/)
 * [2023-06-20, 03:55:35](https://news.ycombinator.com/item?id=36399514) - [TerraUSD: South Korea 'cryptocrash king’ Do Kwon jailed](https://www.bbc.co.uk/news/business-65957999)
 * [2023-06-20, 03:53:09](https://news.ycombinator.com/item?id=36399503) - [A daytime nap is good for the brain](https://www.bbc.com/news/health-65950168)
