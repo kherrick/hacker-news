@@ -30,6 +30,7 @@
 * [2023-06-17, 19:59:28](https://news.ycombinator.com/item?id=36373976) - [WingetUI – A better UI for your package managers](http://www.marticliment.com/wingetui/)
 * [2023-06-17, 19:58:47](https://news.ycombinator.com/item?id=36373972) - [Trip report: Summer ISO C++ standards meeting in Varna, Bulgaria](https://herbsutter.com/2023/06/16/trip-report-summer-iso-c-standards-meeting-varna-bulgaria/)
 * [2023-06-17, 19:20:42](https://news.ycombinator.com/item?id=36373593) - [A barista fought to unionize her Starbucks. Now she’s out of a job](https://www.washingtonpost.com/business/interactive/2023/starbucks-union-fired-worker/)
+* [2023-06-17, 19:05:42](https://news.ycombinator.com/item?id=36373410) - [A Survey of Modern Compiler Fuzzing](https://arxiv.org/abs/2306.06884)
 * [2023-06-17, 19:01:31](https://news.ycombinator.com/item?id=36373364) - [Open source Diablo 1 engine – DevilutionX 1.5.0 released](https://github.com/diasurgical/devilutionX/releases/tag/1.5.0)
 * [2023-06-17, 19:01:11](https://news.ycombinator.com/item?id=36373361) - [Westfield’s San Francisco Centre Mall Lost 46% of Its Stores Since 2020](https://sfstandard.com/business/westfield-mall-san-francisco-centre-union-square-stores-closing/)
 * [2023-06-17, 18:46:05](https://news.ycombinator.com/item?id=36373190) - [Bullshit Jobs by David Graeber (2018)](https://theanarchistlibrary.org/library/david-graeber-bullshit-jobs)
