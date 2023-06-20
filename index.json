@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-20, 19:26:02",
+      "https://news.ycombinator.com/item?id=36409201"
+    ],
+    [
+      "Show HN: Autolabel, a Python library to label and enrich text data with LLMs",
+      "https://github.com/refuel-ai/autolabel"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 18:49:30",
       "https://news.ycombinator.com/item?id=36408700"
     ],
     [
       "My total comp for creating GitHub Copilot",
       "https://twitter.com/alexgraveley/status/1671213996735594503"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 18:45:02",
+      "https://news.ycombinator.com/item?id=36408633"
+    ],
+    [
+      "Building a Slack alternative with Rust/Tauri",
+      "https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Petaflops to the People: From Personal Compute Cluster to Person of Compute",
       "https://www.latent.space/p/geohot"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 17:14:32",
-      "https://news.ycombinator.com/item?id=36407245"
-    ],
-    [
-      "Gitlab has introduced a five-user limit for free groups",
-      "https://docs.gitlab.com/ee/user/free_user_limit.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Mullvad Leta: A search engine used in the Mullvad Browser",
       "https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 10:26:37",
-      "https://news.ycombinator.com/item?id=36401999"
-    ],
-    [
-      "Sub.Rehab – See where Reddit communities have relocated",
-      "https://sub.rehab/"
     ]
   ],
   [
