@@ -11,6 +11,7 @@
 * [2023-06-20, 00:41:12](https://news.ycombinator.com/item?id=36398292) - [The Matasano crypto challenges (2014)](https://cryptopals.com/)
 * [2023-06-20, 00:10:55](https://news.ycombinator.com/item?id=36398081) - [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
 * [2023-06-19, 23:27:42](https://news.ycombinator.com/item?id=36397740) - [The Federated App Problem](https://plug-world.com/posts/the-federated-app-problem/)
+* [2023-06-19, 22:58:06](https://news.ycombinator.com/item?id=36397485) - [Scaling Memcache at Facebook (2021)](https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html)
 * [2023-06-19, 22:45:52](https://news.ycombinator.com/item?id=36397380) - [Gopher Wrangling: Effective error handling in Go](https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/)
 * [2023-06-19, 22:06:43](https://news.ycombinator.com/item?id=36397058) - [MVC Isn’t MVC](https://collindonnell.com/mvc-isnt-mvc)
 * [2023-06-19, 21:48:00](https://news.ycombinator.com/item?id=36396891) - [The least interesting part about AVX-512 is the 512 bits vector width](https://mastodon.gamedev.place/@rygorous/110572829749524388)
@@ -27,7 +28,6 @@
 * [2023-06-19, 11:08:23](https://news.ycombinator.com/item?id=36389660) - [Ken Thompson on the bug that exposed his compiler trojan (2021)](https://www.tuhs.org/pipermail/tuhs/2021-September/024486.html)
 * [2023-06-19, 09:06:29](https://news.ycombinator.com/item?id=36388892) - [Bit Hacking (with Go code)](https://lemire.me/blog/2023/02/07/bit-hacking-with-go-code/)
 * [2023-06-19, 08:58:03](https://news.ycombinator.com/item?id=36388825) - [Filenames and pathnames in shell: How to do it correctly (2020)](https://dwheeler.com/essays/filenames-in-shell.html)
-* [2023-06-18, 14:09:31](https://news.ycombinator.com/item?id=36380434) - [Database Gyms [pdf]](https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf)
 * [2023-06-18, 13:49:13](https://news.ycombinator.com/item?id=36380291) - [Dynamic programming in Haskell: automatic memoization](https://byorgey.wordpress.com/2023/06/06/dynamic-programming-in-haskell-automatic-memoization/)
 * [2023-06-17, 11:02:25](https://news.ycombinator.com/item?id=36369060) - [BetaWiki – An open encyclopedia of software history](https://betawiki.net/wiki/Main_Page)
 
