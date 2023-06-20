@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-06-20, 19:46:06",
+      "https://news.ycombinator.com/item?id=36409475"
+    ],
+    [
+      "Missing Titanic sub faced lawsuit over depths it could safely travel to",
+      "https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 19:30:35",
       "https://news.ycombinator.com/item?id=36409262"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36409082"
     ],
     [
-      "vLLM: 24x faster LLM serving than HuggingFace Transformers",
+      "vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention",
       "https://vllm.ai/"
     ]
   ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2023-06-20, 12:53:15",
-      "https://news.ycombinator.com/item?id=36403280"
-    ],
-    [
-      "Loneliness is stronger when not alone",
-      "https://pubmed.ncbi.nlm.nih.gov/37293324/"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 10:48:39",
       "https://news.ycombinator.com/item?id=36402162"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36400465"
     ],
     [
-      "“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable",
+      "“Exit traps” can make your Bash scripts way more robust and reliable",
       "http://redsymbol.net/articles/bash-exit-traps/"
     ]
   ],
