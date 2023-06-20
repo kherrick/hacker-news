@@ -1,22 +1,42 @@
 [
   [
     [
-      "2023-06-19, 23:34:10",
-      "https://news.ycombinator.com/item?id=36397785"
+      "2023-06-20, 00:56:21",
+      "https://news.ycombinator.com/item?id=36398418"
     ],
     [
-      "SFO United Staff Accused of Stealing Marijuana from Checked Bags",
-      "https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/"
+      "OpenWrt Project: a Linux operating system targeting embedded devices",
+      "https://openwrt.org/"
     ]
   ],
   [
     [
-      "2023-06-19, 23:27:42",
-      "https://news.ycombinator.com/item?id=36397740"
+      "2023-06-20, 00:41:12",
+      "https://news.ycombinator.com/item?id=36398292"
     ],
     [
-      "The Federated App Problem",
-      "https://plug-world.com/posts/the-federated-app-problem/"
+      "The Matasano crypto challenges (2014)",
+      "https://cryptopals.com/"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 00:10:55",
+      "https://news.ycombinator.com/item?id=36398081"
+    ],
+    [
+      "Cloud Appreciation Society",
+      "https://cloudappreciationsociety.org/"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 23:34:10",
+      "https://news.ycombinator.com/item?id=36397785"
+    ],
+    [
+      "SFO United staff accused of stealing marijuana from checked bags",
+      "https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/"
     ]
   ],
   [
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36397485"
     ],
     [
-      "Scaling Memcache at Facebook",
+      "Scaling Memcache at Facebook (2021)",
       "https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html"
     ]
   ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36397380"
     ],
     [
-      "Gopher Wrangling. Effective error handling in Go",
+      "Gopher Wrangling: Effective error handling in Go",
       "https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/"
     ]
   ],
@@ -57,16 +77,6 @@
     [
       "MVC Isn’t MVC",
       "https://collindonnell.com/mvc-isnt-mvc"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 21:52:35",
-      "https://news.ycombinator.com/item?id=36396932"
-    ],
-    [
-      "SVB customers who lost their deposits remain on the hook for loans",
-      "https://www.wsj.com/articles/svb-customers-who-lost-their-deposits-remain-on-the-hook-for-loans-5df7963b"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36396523"
     ],
     [
-      "Show HN: Debian Based Home Router",
+      "Show HN: Debian-based home router",
       "https://github.com/tonusoo/koduinternet-cpe"
     ]
   ],
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36394247"
     ],
     [
-      "Theseus DHT Protocol",
+      "Theseus DHT Protocol (2018)",
       "https://wootfish.github.io/theseus.dht/"
     ]
   ],
@@ -221,42 +231,22 @@
   ],
   [
     [
-      "2023-06-19, 10:07:25",
-      "https://news.ycombinator.com/item?id=36389285"
+      "2023-06-19, 08:58:03",
+      "https://news.ycombinator.com/item?id=36388825"
     ],
     [
-      "Display brighter-than-white color on Apple devices",
-      "https://github.com/dtinth/superwhite"
+      "Filenames and pathnames in shell: How to do it correctly (2020)",
+      "https://dwheeler.com/essays/filenames-in-shell.html"
     ]
   ],
   [
     [
-      "2023-06-19, 09:06:44",
-      "https://news.ycombinator.com/item?id=36388894"
+      "2023-06-18, 20:37:51",
+      "https://news.ycombinator.com/item?id=36384206"
     ],
     [
-      "TypeScript 5.2's new keyword: 'Using'",
-      "https://www.totaltypescript.com/typescript-5-2-new-keyword-using"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 08:57:22",
-      "https://news.ycombinator.com/item?id=36388821"
-    ],
-    [
-      "Show HN: Slint – A declarative UI toolkit for embedded and desktop",
-      "https://slint.dev"
-    ]
-  ],
-  [
-    [
-      "2023-06-18, 21:17:10",
-      "https://news.ycombinator.com/item?id=36384581"
-    ],
-    [
-      "A paradigm for developer productivity (2022)",
-      "https://ktheory.com/paradigm-for-developer-productivity/"
+      "The Last Place on Earth (2013)",
+      "http://codex99.com/cartography/the-last-place-on-earth.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "My father may be gone, but ‘our’ radio is still going",
       "https://www.latimes.com/opinion/story/2023-06-17/fathers-day-radio-memories"
+    ]
+  ],
+  [
+    [
+      "2023-06-17, 19:05:42",
+      "https://news.ycombinator.com/item?id=36373410"
+    ],
+    [
+      "A Survey of Modern Compiler Fuzzing",
+      "https://arxiv.org/abs/2306.06884"
     ]
   ],
   [
