@@ -54,6 +54,7 @@
 * [2023-06-19, 11:41:22](https://news.ycombinator.com/item?id=36389862) - [Are You a Late Bloomer in Work or Love? Maybe You’re Right on Time](https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7)
 * [2023-06-19, 11:32:31](https://news.ycombinator.com/item?id=36389805) - [We need more of Richard Stallman, not less](https://ploum.net/2023-06-19-more-rms.html)
 * [2023-06-19, 11:24:32](https://news.ycombinator.com/item?id=36389763) - [Write Free Software](https://writefreesoftware.org/)
+* [2023-06-19, 11:23:00](https://news.ycombinator.com/item?id=36389755) - [Fhtagn – A tiny CLI programs tester written in Awk](https://maximullaris.com/fhtagn.html)
 * [2023-06-19, 11:08:23](https://news.ycombinator.com/item?id=36389660) - [Ken Thompson on the bug that exposed his compiler trojan (2021)](https://www.tuhs.org/pipermail/tuhs/2021-September/024486.html)
 * [2023-06-19, 10:32:37](https://news.ycombinator.com/item?id=36389443) - [Compromise Creates Values](https://blog.briankitano.com/compromise-values/)
 * [2023-06-19, 10:07:25](https://news.ycombinator.com/item?id=36389285) - [Display brighter-than-white color on Apple devices](https://github.com/dtinth/superwhite)
