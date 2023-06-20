@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 17:14:32](https://news.ycombinator.com/item?id=36407245) - [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
 * [2023-06-20, 15:55:22](https://news.ycombinator.com/item?id=36405934) - [One thousand balls dropped on a double well curve (~ x^4 – x^2) [video]](https://www.youtube.com/watch?v=LQmyR-sC6GA)
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)

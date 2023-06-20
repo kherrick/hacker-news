@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 17:14:32](https://news.ycombinator.com/item?id=36407245) - [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
@@ -22,7 +23,6 @@
 * [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
 * [2023-06-20, 09:38:31](https://news.ycombinator.com/item?id=36401676) - [I made a smooth shadows generator](https://smoothshadows.com/)
 * [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I Give Up on Free Software Phones](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
-* [2023-06-20, 08:14:37](https://news.ycombinator.com/item?id=36401064) - [Failing to draw lines between ‘script’ and ‘program’](https://utcc.utoronto.ca/~cks/space/blog/programming/ScriptVersusProgram)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:01:08](https://news.ycombinator.com/item?id=36400283) - [Great Microprocessors of the Past and Present (2003)](https://www.cpushack.com/CPU/cpu.html)
