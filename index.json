@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-06-20, 12:24:08",
+      "https://news.ycombinator.com/item?id=36403014"
+    ],
+    [
+      "Show HN: Inngest – Developer platform for background jobs and workflows",
+      "https://www.inngest.com"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 11:54:42",
+      "https://news.ycombinator.com/item?id=36402761"
+    ],
+    [
+      "Mastercard submits fresh trademark application for crypto tech",
+      "https://crypto.news/mastercard-submits-fresh-trademark-application-for-crypto-tech/"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 11:34:37",
       "https://news.ycombinator.com/item?id=36402565"
     ],
     [
       "XEmacs 21.5.35 “kohlrabi” is released",
       "https://www.xemacs.org/Releases/21.5.35.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 11:15:21",
+      "https://news.ycombinator.com/item?id=36402390"
+    ],
+    [
+      "Compilers for the Future",
+      "https://adam-mcdaniel-blog.github.io/compilers-for-the-future/"
     ]
   ],
   [
@@ -41,12 +71,12 @@
   ],
   [
     [
-      "2023-06-20, 10:05:54",
-      "https://news.ycombinator.com/item?id=36401863"
+      "2023-06-20, 10:16:14",
+      "https://news.ycombinator.com/item?id=36401928"
     ],
     [
-      "Cities turn to ‘extreme’ water recycling",
-      "https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling"
+      "Show HN: Lissom.CSS - A classless, minimalist, and themeable CSS library",
+      "https://lissomware.github.io/css/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-06-19, 22:45:52",
-      "https://news.ycombinator.com/item?id=36397380"
-    ],
-    [
-      "Gopher Wrangling: Effective error handling in Go",
-      "https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/"
-    ]
-  ],
-  [
-    [
       "2023-06-19, 22:06:43",
       "https://news.ycombinator.com/item?id=36397058"
     ],
@@ -201,42 +221,12 @@
   ],
   [
     [
-      "2023-06-19, 21:25:17",
-      "https://news.ycombinator.com/item?id=36396675"
-    ],
-    [
-      "Apple co-founder sells Carmel Valley ranch, will become nature preserve",
-      "https://www.mercurynews.com/2023/06/18/apple-co-founder-to-sell-huge-carmel-valley-ranch-for-35-million-to-become-public-nature-preserve/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 18:24:07",
-      "https://news.ycombinator.com/item?id=36394755"
-    ],
-    [
-      "Effekt: Lightweight Effect Polymorphism for Handlers (2020) [pdf]",
-      "https://se.cs.uni-tuebingen.de/publications/brachthaeuser20effekt.pdf"
-    ]
-  ],
-  [
-    [
       "2023-06-19, 16:33:04",
       "https://news.ycombinator.com/item?id=36393030"
     ],
     [
       "PostgreSQL reconsiders its process-based model",
       "https://lwn.net/SubscriberLink/934940/3abb2d4086680b78/"
-    ]
-  ],
-  [
-    [
-      "2023-06-19, 13:48:24",
-      "https://news.ycombinator.com/item?id=36391053"
-    ],
-    [
-      "Titanic tourist submersible goes missing with search under way",
-      "https://www.bbc.com/news/world-us-canada-65953872"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Filenames and pathnames in shell: How to do it correctly (2020)",
       "https://dwheeler.com/essays/filenames-in-shell.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 23:51:57",
+      "https://news.ycombinator.com/item?id=36385729"
+    ],
+    [
+      "Processing medical images at scale on the cloud",
+      "https://www.tweag.io/blog/2023-04-20-medical-computing-at-scale/"
     ]
   ],
   [
