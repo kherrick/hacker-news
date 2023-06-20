@@ -27,7 +27,7 @@
 * [2023-06-20, 09:38:31](https://news.ycombinator.com/item?id=36401676) - [I made a smooth shadows generator](https://smoothshadows.com/)
 * [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I give up on free software phones (2019)](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
-* [2023-06-20, 06:01:08](https://news.ycombinator.com/item?id=36400283) - [Great Microprocessors of the Past and Present (2003)](https://www.cpushack.com/CPU/cpu.html)
+* [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
 * [2023-06-18, 23:51:57](https://news.ycombinator.com/item?id=36385729) - [Processing medical images at scale on the cloud](https://www.tweag.io/blog/2023-04-20-medical-computing-at-scale/)
 * [2023-06-18, 22:30:04](https://news.ycombinator.com/item?id=36385198) - [Shannon's Mind-Reading Machine](https://literateprograms.org/mind_reading_machine__awk_.html)
 

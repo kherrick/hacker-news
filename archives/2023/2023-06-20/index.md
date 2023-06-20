@@ -61,6 +61,7 @@
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://web.archive.org/web/20230620052350/https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
 * [2023-06-20, 04:59:21](https://news.ycombinator.com/item?id=36399910) - [Show HN: I made a landing page am I doing this right?](https://dj.exchange)
+* [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
 * [2023-06-20, 04:52:58](https://news.ycombinator.com/item?id=36399874) - [Underage Enlistment in the United States and the Confederacy](http://commonplace.online/article/underage-enlistment-in-the-united-states-and-the-confederacy/)
 * [2023-06-20, 04:13:32](https://news.ycombinator.com/item?id=36399620) - [Removed as moderator of /r/Celebrities after over 14 years](https://old.reddit.com/r/ModCoord/comments/14dt9ly/removed_as_moderator_of_rcelebrities_after_over/)
 * [2023-06-20, 03:55:35](https://news.ycombinator.com/item?id=36399514) - [TerraUSD: South Korea 'cryptocrash king’ Do Kwon jailed](https://www.bbc.co.uk/news/business-65957999)
