@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
 * [2023-06-20, 19:53:26](https://news.ycombinator.com/item?id=36409566) - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 * [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 * [2023-06-20, 19:46:06](https://news.ycombinator.com/item?id=36409475) - [Missing Titanic Sub Faced Lawsuit over Depths It Could Safely Travel To](https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate)
@@ -29,7 +30,6 @@
 * [2023-06-20, 08:46:25](https://news.ycombinator.com/item?id=36401311) - [Do you want your children to be like you? A programmer's perspective](https://fhur.me/posts/2023/do-you-want-your-children-to-be-like-you)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/)
 * [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
-* [2023-06-20, 04:52:58](https://news.ycombinator.com/item?id=36399874) - [Underage Enlistment in the United States and the Confederacy](http://commonplace.online/article/underage-enlistment-in-the-united-states-and-the-confederacy/)
 
 ## [Archives](archives/index.md)
 
