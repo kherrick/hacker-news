@@ -10,6 +10,7 @@
 * [2023-06-20, 10:26:37](https://news.ycombinator.com/item?id=36401999) - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
 * [2023-06-20, 10:05:54](https://news.ycombinator.com/item?id=36401863) - [Cities turn to ‘extreme’ water recycling](https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling)
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style Your RSS Feed](https://darekkay.com/blog/rss-styling/)
+* [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
 * [2023-06-20, 09:38:31](https://news.ycombinator.com/item?id=36401676) - [I made a smooth shadows generator](https://smoothshadows.com/)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
