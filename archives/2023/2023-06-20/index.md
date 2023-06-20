@@ -15,6 +15,7 @@
 * [2023-06-20, 03:55:35](https://news.ycombinator.com/item?id=36399514) - [TerraUSD: South Korea 'cryptocrash king’ Do Kwon jailed](https://www.bbc.co.uk/news/business-65957999)
 * [2023-06-20, 03:53:09](https://news.ycombinator.com/item?id=36399503) - [A daytime nap is good for the brain](https://www.bbc.com/news/health-65950168)
 * [2023-06-20, 03:30:41](https://news.ycombinator.com/item?id=36399388) - [Iron nitrides: powerful magnets without the rare earth elements](https://hackaday.com/2022/09/01/iron-nitrides-powerful-magnets-without-the-rare-earth-elements/)
+* [2023-06-20, 03:19:58](https://news.ycombinator.com/item?id=36399324) - [Don't Use Mocks](https://joeblu.com/blog/2023_06_mocks/)
 * [2023-06-20, 02:58:51](https://news.ycombinator.com/item?id=36399208) - [uBlock (via EasyList) now blocks domains that resolve to localhost](https://github.com/easylist/easylist/commit/68d7a669e6cdc270d7ef67c6f13faa3f2deca207)
 * [2023-06-20, 02:58:51](https://news.ycombinator.com/item?id=36399208) - [Document reasoning to block DNS to 127.0.0.1](https://github.com/easylist/easylist/issues/16372)
 * [2023-06-20, 02:56:34](https://news.ycombinator.com/item?id=36399194) - [Security Analysis of the Dominion Voting Equipment](https://freedom-to-tinker.com/2023/06/14/security-analysis-of-the-dominion-imagecast-x/)
