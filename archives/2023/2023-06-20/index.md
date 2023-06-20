@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style Your RSS Feed](https://darekkay.com/blog/rss-styling/)
+* [2023-06-20, 09:38:31](https://news.ycombinator.com/item?id=36401676) - [I made a smooth shadows generator](https://smoothshadows.com/)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:14:43](https://news.ycombinator.com/item?id=36400368) - [Adobe’s $20B deal to acquire Figma under threat from EU investigation](https://www.ft.com/content/d041351e-0974-4a27-ada2-7c026f67e765)
