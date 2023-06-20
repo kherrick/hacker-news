@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
 * [2023-06-20, 17:14:32](https://news.ycombinator.com/item?id=36407245) - [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
 * [2023-06-20, 15:55:22](https://news.ycombinator.com/item?id=36405934) - [One thousand balls dropped on a double well curve (~ x^4 – x^2) [video]](https://www.youtube.com/watch?v=LQmyR-sC6GA)
@@ -31,6 +32,7 @@
 * [2023-06-20, 12:53:15](https://news.ycombinator.com/item?id=36403280) - [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
 * [2023-06-20, 12:31:44](https://news.ycombinator.com/item?id=36403087) - [Representing Enums in PostgreSQL](https://making.close.com/posts/native-enums-or-check-constraints-in-postgresql)
 * [2023-06-20, 12:24:08](https://news.ycombinator.com/item?id=36403014) - [Show HN: Inngest – Developer platform for background jobs and workflows](https://www.inngest.com)
+* [2023-06-20, 12:20:05](https://news.ycombinator.com/item?id=36402987) - [Show HN: Automated resume writing with AI](https://news.ycombinator.com/item?id=36402987)
 * [2023-06-20, 12:18:27](https://news.ycombinator.com/item?id=36402968) - [Square where Julius Caesar was killed opens to the public in Rome](https://www.cnn.com/travel/article/rome-open-square-julius-caesar-scli-intl/index.html)
 * [2023-06-20, 11:54:42](https://news.ycombinator.com/item?id=36402761) - [Mastercard submits fresh trademark application for crypto tech](https://crypto.news/mastercard-submits-fresh-trademark-application-for-crypto-tech/)
 * [2023-06-20, 11:41:02](https://news.ycombinator.com/item?id=36402624) - [Return to Office Enters the Desperation Phase](https://www.nytimes.com/2023/06/20/business/return-to-office-remote-work.html)
