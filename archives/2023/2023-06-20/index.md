@@ -6,6 +6,7 @@
 
 * [2023-06-20, 13:24:28](https://news.ycombinator.com/item?id=36403609) - [Tell HN: Hulu does not allow subscription cancellation](https://news.ycombinator.com/item?id=36403609)
 * [2023-06-20, 13:24:27](https://news.ycombinator.com/item?id=36403608) - [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
+* [2023-06-20, 13:24:24](https://news.ycombinator.com/item?id=36403607) - [Tell HN: Stripe killed my music locker service, so I'm open sourcing it](https://news.ycombinator.com/item?id=36403607)
 * [2023-06-20, 13:21:47](https://news.ycombinator.com/item?id=36403572) - [Asus Chromebox 5](https://www.asus.com/displays-desktops/mini-pcs/chrome-os-devices/asus-chromebox-5/)
 * [2023-06-20, 13:16:17](https://news.ycombinator.com/item?id=36403494) - [Rivian Joins Forces with Tesla, Embracing Their Charging Standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
 * [2023-06-20, 13:09:06](https://news.ycombinator.com/item?id=36403430) - [Lemmy stats (users, posts, nodes, comments)](https://the-federation.info/platform/73)
@@ -31,6 +32,7 @@
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:14:43](https://news.ycombinator.com/item?id=36400368) - [Adobe’s $20B deal to acquire Figma under threat from EU investigation](https://www.ft.com/content/d041351e-0974-4a27-ada2-7c026f67e765)
 * [2023-06-20, 06:07:48](https://news.ycombinator.com/item?id=36400321) - [Should you standardise tools in your company? Case of Miro vs. MS Whiteboard](https://engineering.telia.no/blog/should-you-standardise-tools-in-your-company/)
+* [2023-06-20, 06:01:08](https://news.ycombinator.com/item?id=36400283) - [Great Microprocessors of the Past and Present (2003)](https://www.cpushack.com/CPU/cpu.html)
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://web.archive.org/web/20230620052350/https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
 * [2023-06-20, 04:59:21](https://news.ycombinator.com/item?id=36399910) - [Show HN: I made a landing page am I doing this right?](https://dj.exchange)
