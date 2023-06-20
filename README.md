@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 14:31:43](https://news.ycombinator.com/item?id=36404574) - [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)
 * [2023-06-20, 13:24:27](https://news.ycombinator.com/item?id=36403608) - [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
 * [2023-06-20, 13:24:24](https://news.ycombinator.com/item?id=36403607) - [Tell HN: Stripe killed my music locker service, so I'm open sourcing it](https://news.ycombinator.com/item?id=36403607)
 * [2023-06-20, 13:21:47](https://news.ycombinator.com/item?id=36403572) - [ASUS Chromebox 5](https://www.asus.com/displays-desktops/mini-pcs/chrome-os-devices/asus-chromebox-5/)
@@ -24,7 +25,6 @@
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:01:08](https://news.ycombinator.com/item?id=36400283) - [Great Microprocessors of the Past and Present (2003)](https://www.cpushack.com/CPU/cpu.html)
 * [2023-06-20, 01:21:23](https://news.ycombinator.com/item?id=36398596) - [LCD TVs won’t see any further development](https://www.tomsguide.com/news/its-official-lcd-tvs-wont-see-any-further-development)
-* [2023-06-20, 00:41:12](https://news.ycombinator.com/item?id=36398292) - [The Matasano crypto challenges (2014)](https://cryptopals.com/)
 * [2023-06-20, 00:10:55](https://news.ycombinator.com/item?id=36398081) - [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
 * [2023-06-19, 15:05:26](https://news.ycombinator.com/item?id=36391892) - [The Matt Curve (2019)](https://matt.sh/matt-curve)
 * [2023-06-19, 04:18:33](https://news.ycombinator.com/item?id=36387292) - [A Love Letter to Driving Alone](https://www.afar.com/magazine/a-love-letter-to-driving-alone)
