@@ -38,6 +38,7 @@
 * [2023-06-19, 15:59:38](https://news.ycombinator.com/item?id=36392577) - [Power companies spend millions to fight Maine’s proposed not for profit utility](https://www.theguardian.com/us-news/2023/jun/18/maine-state-run-utility-power-companies)
 * [2023-06-19, 15:53:25](https://news.ycombinator.com/item?id=36392510) - [How to ramp up a factory consuming a lot of energy?](https://electronics.stackexchange.com/questions/670763/how-to-ramp-up-a-factory-consuming-a-lot-of-energy)
 * [2023-06-19, 15:26:09](https://news.ycombinator.com/item?id=36392150) - [Tourist submarine goes missing on dive to wreck of Titanic](https://www.theguardian.com/uk-news/2023/jun/19/titanic-tourist-submarine-missing-north-atlantic)
+* [2023-06-19, 15:05:26](https://news.ycombinator.com/item?id=36391892) - [The Matt Curve (2019)](https://matt.sh/matt-curve)
 * [2023-06-19, 14:53:25](https://news.ycombinator.com/item?id=36391756) - [Google Store gave me a locked device as warranty replacement](https://news.ycombinator.com/item?id=36391756)
 * [2023-06-19, 14:45:57](https://news.ycombinator.com/item?id=36391655) - [Show HN: My recommendation engine for Hacker News](https://hn-recommend.julienc.me)
 * [2023-06-19, 14:34:08](https://news.ycombinator.com/item?id=36391492) - [KDE Plasma 6 Has Reached the Point of Being “Fairly Livable”](https://www.phoronix.com/news/KDE-Plasma-6-Fairly-Livable)

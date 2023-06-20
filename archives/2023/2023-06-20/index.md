@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 13:09:06](https://news.ycombinator.com/item?id=36403430) - [Lemmy stats (users, posts, nodes, comments)](https://the-federation.info/platform/73)
 * [2023-06-20, 13:01:31](https://news.ycombinator.com/item?id=36403355) - [Why Tcl?](https://gist.github.com/nat-418/bdccb2428cde750c9f42bf9bbc1a50d3)
+* [2023-06-20, 12:58:28](https://news.ycombinator.com/item?id=36403334) - [Predicting hit songs with 97% accuracy](https://www.frontiersin.org/articles/10.3389/frai.2023.1154663/full)
 * [2023-06-20, 12:53:15](https://news.ycombinator.com/item?id=36403280) - [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
 * [2023-06-20, 12:24:08](https://news.ycombinator.com/item?id=36403014) - [Show HN: Inngest – Developer platform for background jobs and workflows](https://www.inngest.com)
 * [2023-06-20, 11:54:42](https://news.ycombinator.com/item?id=36402761) - [Mastercard submits fresh trademark application for crypto tech](https://crypto.news/mastercard-submits-fresh-trademark-application-for-crypto-tech/)
