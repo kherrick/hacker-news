@@ -11,6 +11,7 @@
 * [2023-06-20, 11:34:37](https://news.ycombinator.com/item?id=36402565) - [XEmacs 21.5.35 “kohlrabi” is released](https://www.xemacs.org/Releases/21.5.35.html)
 * [2023-06-20, 11:15:21](https://news.ycombinator.com/item?id=36402390) - [Compilers for the Future](https://adam-mcdaniel-blog.github.io/compilers-for-the-future/)
 * [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Mullvad Leta: A search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
+* [2023-06-20, 10:37:55](https://news.ycombinator.com/item?id=36402076) - [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)
 * [2023-06-20, 10:26:37](https://news.ycombinator.com/item?id=36401999) - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
 * [2023-06-20, 10:16:14](https://news.ycombinator.com/item?id=36401928) - [Show HN: Lissom.CSS - A classless, minimalist, and themeable CSS library](https://lissomware.github.io/css/)
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
@@ -29,7 +30,6 @@
 * [2023-06-19, 07:39:02](https://news.ycombinator.com/item?id=36388348) - [Why I started (and stopped) making games](https://austinhenley.com/blog/makinggames.html)
 * [2023-06-18, 23:51:57](https://news.ycombinator.com/item?id=36385729) - [Processing medical images at scale on the cloud](https://www.tweag.io/blog/2023-04-20-medical-computing-at-scale/)
 * [2023-06-18, 21:26:28](https://news.ycombinator.com/item?id=36384674) - [I made a mechanical keyboard with 3D-printed switches (2020)](https://incoherency.co.uk/blog/stories/jesboard.html)
-* [2023-06-18, 13:49:13](https://news.ycombinator.com/item?id=36380291) - [Dynamic programming in Haskell: automatic memoization](https://byorgey.wordpress.com/2023/06/06/dynamic-programming-in-haskell-automatic-memoization/)
 
 ## [Archives](archives/index.md)
 
