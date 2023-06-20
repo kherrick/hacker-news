@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-20, 03:55:35",
-      "https://news.ycombinator.com/item?id=36399514"
-    ],
-    [
-      "TerraUSD: South Korea 'cryptocrash king’ Do Kwon jailed",
-      "https://www.bbc.co.uk/news/business-65957999"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 03:53:09",
       "https://news.ycombinator.com/item?id=36399503"
     ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36399194"
     ],
     [
-      "Security Analysis of the Dominion Voting Equipment",
+      "Security analysis of the Dominion ImageCast X",
       "https://freedom-to-tinker.com/2023/06/14/security-analysis-of-the-dominion-imagecast-x/"
     ]
   ],
@@ -61,22 +51,22 @@
   ],
   [
     [
-      "2023-06-20, 01:41:40",
-      "https://news.ycombinator.com/item?id=36398721"
-    ],
-    [
-      "The history and future of workplace automation (2015)",
-      "https://www.aeaweb.org/articles?id=10.1257/jep.29.3.3"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 01:21:23",
       "https://news.ycombinator.com/item?id=36398596"
     ],
     [
       "LCD TVs won’t see any further development",
       "https://www.tomsguide.com/news/its-official-lcd-tvs-wont-see-any-further-development"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 00:56:21",
+      "https://news.ycombinator.com/item?id=36398418"
+    ],
+    [
+      "OpenWrt Project: a Linux operating system targeting embedded devices",
+      "https://openwrt.org/"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "The Federated App Problem",
       "https://plug-world.com/posts/the-federated-app-problem/"
+    ]
+  ],
+  [
+    [
+      "2023-06-19, 22:58:06",
+      "https://news.ycombinator.com/item?id=36397485"
+    ],
+    [
+      "Scaling Memcache at Facebook (2021)",
+      "https://www.micahlerner.com/2021/05/31/scaling-memcache-at-facebook.html"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://news.ycombinator.com/item?id=36393673"
     ],
     [
-      "Hurl: A terrible but cute idea for a language",
+      "Hurl, a terrible (but cute) idea for a language",
       "https://ntietz.com/blog/introducing-hurl/"
     ]
   ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-06-19, 11:41:22",
-      "https://news.ycombinator.com/item?id=36389862"
-    ],
-    [
-      "Are you a late bloomer in work or love? Maybe you’re right on time",
-      "https://www.wsj.com/articles/age-marry-kids-graduation-milestones-800ffec7"
-    ]
-  ],
-  [
-    [
       "2023-06-19, 11:08:23",
       "https://news.ycombinator.com/item?id=36389660"
     ],
@@ -277,6 +267,16 @@
     [
       "Filenames and pathnames in shell: How to do it correctly (2020)",
       "https://dwheeler.com/essays/filenames-in-shell.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-18, 14:09:31",
+      "https://news.ycombinator.com/item?id=36380434"
+    ],
+    [
+      "Database Gyms [pdf]",
+      "https://www.cidrdb.org/cidr2023/papers/p27-lim.pdf"
     ]
   ],
   [
