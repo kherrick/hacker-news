@@ -2,7 +2,7 @@
 
 * [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
 * [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
-* [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – open-source airtable alternative](https://github.com/undb-xyz/undb)
+* [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
 * [2023-06-20, 14:31:43](https://news.ycombinator.com/item?id=36404574) - [Crypto Exchange Backed by Citadel Securities, Fidelity, Schwab Starts Operations](https://www.wsj.com/articles/crypto-exchange-backed-by-citadel-securities-fidelity-schwab-starts-operations-597f6d46)
 * [2023-06-20, 13:24:27](https://news.ycombinator.com/item?id=36403608) - [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
 * [2023-06-20, 13:24:24](https://news.ycombinator.com/item?id=36403607) - [Tell HN: Stripe killed my music locker service, so I'm open sourcing it](https://news.ycombinator.com/item?id=36403607)
@@ -26,8 +26,8 @@
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:01:08](https://news.ycombinator.com/item?id=36400283) - [Great Microprocessors of the Past and Present (2003)](https://www.cpushack.com/CPU/cpu.html)
 * [2023-06-20, 01:21:23](https://news.ycombinator.com/item?id=36398596) - [LCD TVs won’t see any further development](https://www.tomsguide.com/news/its-official-lcd-tvs-wont-see-any-further-development)
-* [2023-06-20, 00:10:55](https://news.ycombinator.com/item?id=36398081) - [Cloud Appreciation Society](https://cloudappreciationsociety.org/)
 * [2023-06-19, 15:05:26](https://news.ycombinator.com/item?id=36391892) - [The Matt Curve (2019)](https://matt.sh/matt-curve)
+* [2023-06-19, 04:18:33](https://news.ycombinator.com/item?id=36387292) - [A Love Letter to Driving Alone](https://www.afar.com/magazine/a-love-letter-to-driving-alone)
 * [2023-06-18, 23:51:57](https://news.ycombinator.com/item?id=36385729) - [Processing medical images at scale on the cloud](https://www.tweag.io/blog/2023-04-20-medical-computing-at-scale/)
 * [2023-06-18, 21:26:28](https://news.ycombinator.com/item?id=36384674) - [I made a mechanical keyboard with 3D-printed switches (2020)](https://incoherency.co.uk/blog/stories/jesboard.html)
 
