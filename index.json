@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-20, 07:21:00",
+      "https://news.ycombinator.com/item?id=36400744"
+    ],
+    [
+      "Slauth.io (YC S22) Is Hiring a CTO",
+      "https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 06:14:43",
       "https://news.ycombinator.com/item?id=36400368"
     ],
@@ -47,16 +57,6 @@
     [
       "Iron nitrides: powerful magnets without the rare earth elements",
       "https://hackaday.com/2022/09/01/iron-nitrides-powerful-magnets-without-the-rare-earth-elements/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 02:58:51",
-      "https://news.ycombinator.com/item?id=36399208"
-    ],
-    [
-      "Document reasoning to block DNS to 127.0.0.1",
-      "https://github.com/easylist/easylist/issues/16372"
     ]
   ],
   [
