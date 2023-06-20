@@ -5,7 +5,6 @@
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
 * [2023-06-20, 19:53:26](https://news.ycombinator.com/item?id=36409566) - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 * [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-* [2023-06-20, 19:46:06](https://news.ycombinator.com/item?id=36409475) - [Missing Titanic sub faced lawsuit over depths it could safely travel to](https://newrepublic.com/post/173802/missing-titanic-sub-faced-lawsuit-depths-safely-travel-oceangate)
 * [2023-06-20, 19:30:35](https://news.ycombinator.com/item?id=36409262) - [A Bayesian View of Amazon Resellers](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
 * [2023-06-20, 19:17:32](https://news.ycombinator.com/item?id=36409082) - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
@@ -28,7 +27,8 @@
 * [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
 * [2023-06-20, 09:20:33](https://news.ycombinator.com/item?id=36401547) - [The World's Largest \"Radio\" Station [pdf]](https://pages.hep.wisc.edu/~prepost/ELF.pdf)
 * [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I give up on free software phones (2019)](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
-* [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit traps” can make your Bash scripts way more robust and reliable](http://redsymbol.net/articles/bash-exit-traps/)
+* [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit traps” can make your Bash scripts more robust and reliable](http://redsymbol.net/articles/bash-exit-traps/)
+* [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
 * [2023-06-19, 07:39:46](https://news.ycombinator.com/item?id=36388353) - [Rock and Roll Drums: All You Need to Know](https://www.schoolofrock.com/resources/drums/rock-and-roll-drums-all-you-need-to-know)
 
 ## [Archives](archives/index.md)
