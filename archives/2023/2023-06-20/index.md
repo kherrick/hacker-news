@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 13:24:27](https://news.ycombinator.com/item?id=36403608) - [Rivian Adopts NACS and Access to Tesla’s Supercharger Network for Rivian Drivers](https://www.businesswire.com/news/home/20230620267452/en/Rivian-Accelerates-Electrification-through-Adoption-of-North-American-Charging-Standard-and-Access-to-Tesla%E2%80%99s-Supercharger-Network-for-Rivian-Drivers)
+* [2023-06-20, 13:21:47](https://news.ycombinator.com/item?id=36403572) - [Asus Chromebox 5](https://www.asus.com/displays-desktops/mini-pcs/chrome-os-devices/asus-chromebox-5/)
 * [2023-06-20, 13:09:06](https://news.ycombinator.com/item?id=36403430) - [Lemmy stats (users, posts, nodes, comments)](https://the-federation.info/platform/73)
 * [2023-06-20, 13:01:31](https://news.ycombinator.com/item?id=36403355) - [Why Tcl?](https://gist.github.com/nat-418/bdccb2428cde750c9f42bf9bbc1a50d3)
 * [2023-06-20, 12:58:28](https://news.ycombinator.com/item?id=36403334) - [Predicting hit songs with 97% accuracy](https://www.frontiersin.org/articles/10.3389/frai.2023.1154663/full)
