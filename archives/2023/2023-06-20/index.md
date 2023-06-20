@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
+* [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Introducing Mullvad Leta: a search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
 * [2023-06-20, 10:37:55](https://news.ycombinator.com/item?id=36402076) - [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)
 * [2023-06-20, 10:26:37](https://news.ycombinator.com/item?id=36401999) - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
 * [2023-06-20, 10:05:54](https://news.ycombinator.com/item?id=36401863) - [Cities turn to ‘extreme’ water recycling](https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling)

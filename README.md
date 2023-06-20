@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Introducing Mullvad Leta: a search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
 * [2023-06-20, 10:37:55](https://news.ycombinator.com/item?id=36402076) - [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)
 * [2023-06-20, 10:26:37](https://news.ycombinator.com/item?id=36401999) - [Sub.Rehab – See where Reddit communities have relocated](https://sub.rehab/)
 * [2023-06-20, 10:05:54](https://news.ycombinator.com/item?id=36401863) - [Cities turn to ‘extreme’ water recycling](https://e360.yale.edu/features/on-site-distributed-premise-graywater-blackwater-recycling)
@@ -8,7 +9,6 @@
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
 * [2023-06-20, 06:07:48](https://news.ycombinator.com/item?id=36400321) - [Should you standardise tools in your company? Case of Miro vs. MS Whiteboard](https://engineering.telia.no/blog/should-you-standardise-tools-in-your-company/)
-* [2023-06-20, 04:13:32](https://news.ycombinator.com/item?id=36399620) - [Removed as moderator of /r/Celebrities after over 14 years](https://old.reddit.com/r/ModCoord/comments/14dt9ly/removed_as_moderator_of_rcelebrities_after_over/)
 * [2023-06-20, 03:53:09](https://news.ycombinator.com/item?id=36399503) - [A daytime nap is good for the brain](https://www.bbc.com/news/health-65950168)
 * [2023-06-20, 03:19:58](https://news.ycombinator.com/item?id=36399324) - [Don't Use Mocks](https://joeblu.com/blog/2023_06_mocks/)
 * [2023-06-20, 02:56:34](https://news.ycombinator.com/item?id=36399194) - [Security analysis of the Dominion ImageCast X](https://freedom-to-tinker.com/2023/06/14/security-analysis-of-the-dominion-imagecast-x/)
