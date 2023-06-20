@@ -3,7 +3,7 @@
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 14:59:14](https://news.ycombinator.com/item?id=36405024) - [Gannett CEO: Here's why we are suing Google for deceptive business practices](https://www.usatoday.com/story/opinion/2023/06/20/gannett-ceo-why-we-are-suing-google-for-its-business-practices/70336910007/)
-* [2023-06-20, 14:51:49](https://news.ycombinator.com/item?id=36404895) - [Water so pure it will kill you](https://nuscimagazine.com/water-so-pure-it-will-kill-you-2615d5ca116e/)
+* [2023-06-20, 14:58:08](https://news.ycombinator.com/item?id=36405004) - [Render Raises $50M Series B](https://render.com/blog/render-series-b)
 * [2023-06-20, 14:42:16](https://news.ycombinator.com/item?id=36404758) - [Warning: Geomagnetic K-index of 4 expected; electron 2MeV Integral Flux >1000pfu](https://www.swpc.noaa.gov/products/alerts-watches-and-warnings)
 * [2023-06-20, 14:41:12](https://news.ycombinator.com/item?id=36404743) - [Stackoverflow is investing into baking GenAI](https://stackoverflow.co/labs/)
 * [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
@@ -21,6 +21,7 @@
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
 * [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
 * [2023-06-20, 09:38:31](https://news.ycombinator.com/item?id=36401676) - [I made a smooth shadows generator](https://smoothshadows.com/)
+* [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I Give Up on Free Software Phones](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
 * [2023-06-20, 08:14:37](https://news.ycombinator.com/item?id=36401064) - [Failing to draw lines between ‘script’ and ‘program’](https://utcc.utoronto.ca/~cks/space/blog/programming/ScriptVersusProgram)
 * [2023-06-20, 07:21:00](https://news.ycombinator.com/item?id=36400744) - [Slauth.io (YC S22) Is Hiring a CTO](https://www.ycombinator.com/companies/slauth-io/jobs/5MlboDb-cto)
 * [2023-06-20, 06:43:32](https://news.ycombinator.com/item?id=36400524) - [OpenBSD: Shutdown/reboot now require membership of group _shutdown](https://www.undeadly.org/cgi?action=article;sid=20230620064255)
@@ -29,7 +30,6 @@
 * [2023-06-19, 04:18:33](https://news.ycombinator.com/item?id=36387292) - [A Love Letter to Driving Alone](https://www.afar.com/magazine/a-love-letter-to-driving-alone)
 * [2023-06-18, 23:51:57](https://news.ycombinator.com/item?id=36385729) - [Processing medical images at scale on the cloud](https://www.tweag.io/blog/2023-04-20-medical-computing-at-scale/)
 * [2023-06-18, 22:30:04](https://news.ycombinator.com/item?id=36385198) - [Shannon's Mind-Reading Machine](https://literateprograms.org/mind_reading_machine__awk_.html)
-* [2023-06-18, 21:26:28](https://news.ycombinator.com/item?id=36384674) - [I made a mechanical keyboard with 3D-printed switches (2020)](https://incoherency.co.uk/blog/stories/jesboard.html)
 
 ## [Archives](archives/index.md)
 
