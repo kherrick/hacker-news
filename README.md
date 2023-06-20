@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-20, 22:21:11](https://news.ycombinator.com/item?id=36411519) - [My total comp for creating GitHub Copilot: +20k bonus and a title bump](https://twitter.com/alexgraveley/status/1671219402480418816)
 * [2023-06-20, 21:17:35](https://news.ycombinator.com/item?id=36410777) - [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
 * [2023-06-20, 21:01:52](https://news.ycombinator.com/item?id=36410547) - [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
@@ -23,6 +22,7 @@
 * [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
 * [2023-06-20, 13:16:17](https://news.ycombinator.com/item?id=36403494) - [Rivian embraces Tesla's charging standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
 * [2023-06-20, 12:59:57](https://news.ycombinator.com/item?id=36403345) - [Benzene Exposure Alters Endocrine Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326257/)
+* [2023-06-20, 12:53:15](https://news.ycombinator.com/item?id=36403280) - [Loneliness is stronger when not alone](https://pubmed.ncbi.nlm.nih.gov/37293324/)
 * [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Mullvad Leta: A search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
 * [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
 * [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
