@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
 * [2023-06-20, 05:23:24](https://news.ycombinator.com/item?id=36400053) - [ChatGPT: Fear Litany](https://chat.openai.com/share/312e82f0-cc5e-47f3-b368-b2c0c0f4ad3f)
+* [2023-06-20, 04:59:21](https://news.ycombinator.com/item?id=36399910) - [Show HN: I made a landing page am I doing this right?](https://dj.exchange)
 * [2023-06-20, 03:55:35](https://news.ycombinator.com/item?id=36399514) - [TerraUSD: South Korea 'cryptocrash king’ Do Kwon jailed](https://www.bbc.co.uk/news/business-65957999)
 * [2023-06-20, 03:53:09](https://news.ycombinator.com/item?id=36399503) - [A daytime nap is good for the brain](https://www.bbc.com/news/health-65950168)
 * [2023-06-20, 03:30:41](https://news.ycombinator.com/item?id=36399388) - [Iron nitrides: powerful magnets without the rare earth elements](https://hackaday.com/2022/09/01/iron-nitrides-powerful-magnets-without-the-rare-earth-elements/)
