@@ -13,6 +13,7 @@
 * [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21](https://go.dev/blog/go1.21rc)
 * [2023-06-21, 20:02:23](https://news.ycombinator.com/item?id=36423590) - [A site to share LLMs APIs via Tor](https://www.neuroengine.ai/)
 * [2023-06-21, 19:53:09](https://news.ycombinator.com/item?id=36423465) - [Google IS selling all my personal information in Google Domains to Squarespace?](https://twitter.com/GergelyOrosz/status/1671603045640151041)
+* [2023-06-21, 19:27:02](https://news.ycombinator.com/item?id=36423148) - [Delaware bill (HB 121) to allow corporations to vote in elections](https://legis.delaware.gov/BillDetail/130205)
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 * [2023-06-21, 19:09:59](https://news.ycombinator.com/item?id=36422945) - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
 * [2023-06-21, 18:54:09](https://news.ycombinator.com/item?id=36422730) - [Show HN: gpt-engineer – platform for devs to tinker with AI programming tools](https://news.ycombinator.com/item?id=36422730)
