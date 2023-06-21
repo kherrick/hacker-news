@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
+* [2023-06-21, 09:14:37](https://news.ycombinator.com/item?id=36416234) - [Increasing pressure on US men for income in order to find a spouse](https://www.tandfonline.com/doi/full/10.1080/19485565.2023.2220950)
 * [2023-06-21, 09:06:06](https://news.ycombinator.com/item?id=36416176) - [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
 * [2023-06-21, 09:00:33](https://news.ycombinator.com/item?id=36416131) - [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
 * [2023-06-21, 08:38:22](https://news.ycombinator.com/item?id=36415981) - [The Lesson of the Truman Show](https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/)
