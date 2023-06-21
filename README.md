@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 06:33:33](https://news.ycombinator.com/item?id=36415124) - [I won't pay on your website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
 * [2023-06-21, 06:10:55](https://news.ycombinator.com/item?id=36414998) - [Ask HN: Is it feasible to launch crowdfunding for a dog shelter in Central Asia?](https://news.ycombinator.com/item?id=36414998)
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
 * [2023-06-21, 05:51:11](https://news.ycombinator.com/item?id=36414867) - [Study drugs make people worse at problem solving, not better](https://www.economist.com/science-and-technology/2023/06/20/study-drugs-make-people-worse-at-problem-solving-not-better)
@@ -18,7 +19,6 @@
 * [2023-06-20, 23:19:21](https://news.ycombinator.com/item?id=36412105) - [Defer for Shell (2020)](https://cedwards.xyz/defer-for-shell/)
 * [2023-06-20, 23:15:21](https://news.ycombinator.com/item?id=36412072) - [I post when browser makers announce their intent to ship features in web engines](https://botsin.space/@intenttoship)
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
-* [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
 * [2023-06-20, 19:17:32](https://news.ycombinator.com/item?id=36409082) - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
 * [2023-06-20, 18:45:02](https://news.ycombinator.com/item?id=36408633) - [Building a Slack/Discord alternative with Tauri/Rust](https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust)
 * [2023-06-20, 17:53:56](https://news.ycombinator.com/item?id=36407850) - [Milk-V Mars: RISC-V credit card size SBC](https://milkv.io/mars)
