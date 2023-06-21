@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 14:49:18](https://news.ycombinator.com/item?id=36419200) - [Justice Samuel Alito Took Luxury Fishing Vacation with GOP Billionaire](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
+* [2023-06-21, 14:37:28](https://news.ycombinator.com/item?id=36419001) - [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 * [2023-06-21, 14:20:08](https://news.ycombinator.com/item?id=36418785) - [Guilty Until Proven Innocent in Ireland](https://www.persuasion.community/p/guilty-until-proven-innocent-in-ireland)
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
