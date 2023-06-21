@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-21, 08:38:22",
+      "https://news.ycombinator.com/item?id=36415981"
+    ],
+    [
+      "The Lesson of the Truman Show",
+      "https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 08:04:52",
+      "https://news.ycombinator.com/item?id=36415745"
+    ],
+    [
+      "You're doing two-factor authentication wrong",
+      "https://theorangeone.net/posts/youre-doing-2fa-wrong/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 06:33:33",
       "https://news.ycombinator.com/item?id=36415124"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-06-20, 19:48:12",
-      "https://news.ycombinator.com/item?id=36409489"
-    ],
-    [
-      "Emerging architectures for LLM applications",
-      "https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 19:30:35",
       "https://news.ycombinator.com/item?id=36409262"
     ],
@@ -267,16 +277,6 @@
     [
       "RoboCat – A Self-Improving Robotic Agent",
       "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 15:46:23",
-      "https://news.ycombinator.com/item?id=36405761"
-    ],
-    [
-      "Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate",
-      "https://github.com/shayonj/pg_easy_replicate"
     ]
   ],
   [
