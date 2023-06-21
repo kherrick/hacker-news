@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 16:02:58](https://news.ycombinator.com/item?id=36420295) - [Show HN: I created Units Converter that contains 5000 units across 78 categories](https://www.kodytools.com/units)
+* [2023-06-21, 16:00:14](https://news.ycombinator.com/item?id=36420259) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 15:56:31](https://news.ycombinator.com/item?id=36420207) - [US approves chicken made from cultivated cells](https://apnews.com/article/cultivated-meat-lab-grown-cell-based-a88ab8e0241712b501aa191cdbf6b39a)
 * [2023-06-21, 15:28:41](https://news.ycombinator.com/item?id=36419793) - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
 * [2023-06-21, 15:25:20](https://news.ycombinator.com/item?id=36419739) - [Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
@@ -19,6 +21,7 @@
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
 * [2023-06-21, 14:09:28](https://news.ycombinator.com/item?id=36418661) - [AI is coming for your children](https://shatterzone.substack.com/p/ai-is-coming-for-your-children)
 * [2023-06-21, 14:08:18](https://news.ycombinator.com/item?id=36418648) - [Show HN: Image Upscaler AI](https://imageupscalerai.com/)
+* [2023-06-21, 14:07:08](https://news.ycombinator.com/item?id=36418633) - [Show HN: Datadog QA – TUI for Jira users to perform QA of future GitHub releases](https://github.com/DataDog/ddqa)
 * [2023-06-21, 13:54:15](https://news.ycombinator.com/item?id=36418493) - [Let Me Go Back](https://www.joelonsoftware.com/2000/06/03/strategy-letter-iii-let-me-go-back/)
 * [2023-06-21, 13:36:29](https://news.ycombinator.com/item?id=36418275) - [12,000 Comments](https://shkspr.mobi/blog/2023/06/12000-comments/)
 * [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
