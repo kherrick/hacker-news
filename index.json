@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-21, 09:00:33",
+      "https://news.ycombinator.com/item?id=36416131"
+    ],
+    [
+      "Apple could force a 111-year-old fruit company to change its Apple logo",
+      "https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 08:38:22",
       "https://news.ycombinator.com/item?id=36415981"
     ],
@@ -217,16 +227,6 @@
     [
       "Building a Slack/Discord alternative with Tauri/Rust",
       "https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 18:19:12",
-      "https://news.ycombinator.com/item?id=36408248"
-    ],
-    [
-      "Compiling Typed Python",
-      "https://bernsteinbear.com/blog/typed-python/"
     ]
   ],
   [
