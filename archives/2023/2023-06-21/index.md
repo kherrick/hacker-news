@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
 * [2023-06-21, 15:28:41](https://news.ycombinator.com/item?id=36419793) - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
+* [2023-06-21, 15:25:20](https://news.ycombinator.com/item?id=36419739) - [Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-06-21, 15:17:06](https://news.ycombinator.com/item?id=36419602) - [Amazon Allegedly Tricked Users into Prime and Sabotaged Their Attempts to Cancel](https://gizmodo.com/amazon-prime-subscription-cancel-ftc-sues-tricks-1850559742)
 * [2023-06-21, 15:13:24](https://news.ycombinator.com/item?id=36419537) - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 * [2023-06-21, 15:09:07](https://news.ycombinator.com/item?id=36419461) - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
