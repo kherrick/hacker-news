@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 19:53:09](https://news.ycombinator.com/item?id=36423465) - [Google IS selling all my personal information in Google Domains to Squarespace?](https://twitter.com/GergelyOrosz/status/1671603045640151041)
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 * [2023-06-21, 19:09:59](https://news.ycombinator.com/item?id=36422945) - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
+* [2023-06-21, 18:54:09](https://news.ycombinator.com/item?id=36422730) - [Show HN: gpt-engineer – platform for devs to tinker with AI programming tools](https://news.ycombinator.com/item?id=36422730)
 * [2023-06-21, 18:50:09](https://news.ycombinator.com/item?id=36422670) - [Microsoft rewrote Q# compiler in Rust](https://github.com/microsoft/qsharp)
 * [2023-06-21, 18:10:38](https://news.ycombinator.com/item?id=36422116) - [Object-oriented Programming with ANSI-C (1993) [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
 * [2023-06-21, 17:47:34](https://news.ycombinator.com/item?id=36421874) - [Cloud seeding catching on amid Rocky Mountain drought](https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html)
@@ -25,9 +27,7 @@
 * [2023-06-21, 11:00:35](https://news.ycombinator.com/item?id=36416938) - [A case for toe socks](https://herman.bearblog.dev/a-case-for-toe-socks/)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [2023-06-21, 09:28:35](https://news.ycombinator.com/item?id=36416325) - [MyNOR – The yet minor computer. No CPU, no ALU, one NOR-gate is enough](http://www.mynor.org/)
-* [2023-06-21, 08:13:18](https://news.ycombinator.com/item?id=36415803) - [The man who tried to redeem the world with logic (2015)](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)
-* [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
-* [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
+* [2023-06-20, 20:58:56](https://news.ycombinator.com/item?id=36410490) - [Stronger Magic: Harry Fainlight was an overshadowed Beat visionary](https://www.poetryfoundation.org/articles/160457/stronger-magic)
 * [2023-06-20, 17:15:48](https://news.ycombinator.com/item?id=36407259) - [Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
 * [2023-06-20, 04:33:49](https://news.ycombinator.com/item?id=36399754) - [The Charles Dickens Illustrated Gallery](https://www.charlesdickensillustration.org)
 
