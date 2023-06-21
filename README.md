@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 15:28:41](https://news.ycombinator.com/item?id=36419793) - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
+* [2023-06-21, 15:17:06](https://news.ycombinator.com/item?id=36419602) - [Amazon Allegedly Tricked Users into Prime and Sabotaged Their Attempts to Cancel](https://gizmodo.com/amazon-prime-subscription-cancel-ftc-sues-tricks-1850559742)
+* [2023-06-21, 15:13:24](https://news.ycombinator.com/item?id=36419537) - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 * [2023-06-21, 15:09:07](https://news.ycombinator.com/item?id=36419461) - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
-* [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 14:37:28](https://news.ycombinator.com/item?id=36419001) - [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
 * [2023-06-21, 14:08:18](https://news.ycombinator.com/item?id=36418648) - [Show HN: Image Upscaler AI](https://imageupscalerai.com/)
-* [2023-06-21, 13:54:15](https://news.ycombinator.com/item?id=36418493) - [Let Me Go Back (2000)](https://www.joelonsoftware.com/2000/06/03/strategy-letter-iii-let-me-go-back/)
 * [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
 * [2023-06-21, 13:13:43](https://news.ycombinator.com/item?id=36418034) - [Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 * [2023-06-21, 13:07:42](https://news.ycombinator.com/item?id=36417968) - [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
@@ -27,7 +28,6 @@
 * [2023-06-21, 07:33:33](https://news.ycombinator.com/item?id=36415528) - [Blue Ocean Strategy](https://fermatslibrary.com/s/blue-ocean-strategy)
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
-* [2023-06-21, 01:59:37](https://news.ycombinator.com/item?id=36413433) - [What to do if your house is overflowing with books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
 * [2023-06-21, 01:33:41](https://news.ycombinator.com/item?id=36413260) - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 * [2023-06-20, 17:15:48](https://news.ycombinator.com/item?id=36407259) - [Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
 
