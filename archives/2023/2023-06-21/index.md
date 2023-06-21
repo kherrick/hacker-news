@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
+* [2023-06-21, 14:09:28](https://news.ycombinator.com/item?id=36418661) - [AI is coming for your children](https://shatterzone.substack.com/p/ai-is-coming-for-your-children)
 * [2023-06-21, 14:08:18](https://news.ycombinator.com/item?id=36418648) - [Show HN: Image Upscaler AI](https://imageupscalerai.com/)
 * [2023-06-21, 13:36:29](https://news.ycombinator.com/item?id=36418275) - [12,000 Comments](https://shkspr.mobi/blog/2023/06/12000-comments/)
 * [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)

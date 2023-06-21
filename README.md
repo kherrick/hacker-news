@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
+* [2023-06-21, 14:09:28](https://news.ycombinator.com/item?id=36418661) - [AI is coming for your children](https://shatterzone.substack.com/p/ai-is-coming-for-your-children)
 * [2023-06-21, 14:08:18](https://news.ycombinator.com/item?id=36418648) - [Show HN: Image Upscaler AI](https://imageupscalerai.com/)
-* [2023-06-21, 13:36:29](https://news.ycombinator.com/item?id=36418275) - [12,000 Comments](https://shkspr.mobi/blog/2023/06/12000-comments/)
 * [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
 * [2023-06-21, 13:13:43](https://news.ycombinator.com/item?id=36418034) - [Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 * [2023-06-21, 13:07:42](https://news.ycombinator.com/item?id=36417968) - [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
