@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 17:01:29](https://news.ycombinator.com/item?id=36421194) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:02:58](https://news.ycombinator.com/item?id=36420295) - [Show HN: I created Units Converter that contains 5000 units across 78 categories](https://www.kodytools.com/units)
 * [2023-06-21, 16:00:14](https://news.ycombinator.com/item?id=36420259) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 15:56:31](https://news.ycombinator.com/item?id=36420207) - [US approves chicken made from cultivated cells](https://apnews.com/article/cultivated-meat-lab-grown-cell-based-a88ab8e0241712b501aa191cdbf6b39a)
+* [2023-06-21, 15:50:28](https://news.ycombinator.com/item?id=36420109) - [If you can’t tell a story about it, it isn’t real](https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-isnt-real/)
 * [2023-06-21, 15:28:41](https://news.ycombinator.com/item?id=36419793) - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
 * [2023-06-21, 15:25:20](https://news.ycombinator.com/item?id=36419739) - [Handles Are the Better Pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-06-21, 15:17:06](https://news.ycombinator.com/item?id=36419602) - [Amazon Allegedly Tricked Users into Prime and Sabotaged Their Attempts to Cancel](https://gizmodo.com/amazon-prime-subscription-cancel-ftc-sues-tricks-1850559742)
