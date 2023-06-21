@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-21, 19:09:59",
+      "https://news.ycombinator.com/item?id=36422945"
+    ],
+    [
+      "How I installed TrueNAS on my new ASUSTOR NAS",
+      "https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 18:50:09",
+      "https://news.ycombinator.com/item?id=36422670"
+    ],
+    [
+      "Microsoft rewrote Q# compiler in Rust",
+      "https://github.com/microsoft/qsharp"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 18:10:38",
       "https://news.ycombinator.com/item?id=36422116"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-06-21, 14:14:11",
-      "https://news.ycombinator.com/item?id=36418713"
-    ],
-    [
-      "FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process",
-      "https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html"
-    ]
-  ],
-  [
-    [
       "2023-06-21, 13:07:42",
       "https://news.ycombinator.com/item?id=36417968"
     ],
@@ -197,16 +207,6 @@
     [
       "Humans aren’t mentally ready for an AI-saturated ‘post-truth world’",
       "https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 11:23:54",
-      "https://news.ycombinator.com/item?id=36417095"
-    ],
-    [
-      "Leaking secrets through caching with Bunny CDN",
-      "https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/"
     ]
   ],
   [
