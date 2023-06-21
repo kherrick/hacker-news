@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 03:28:35](https://news.ycombinator.com/item?id=36414037) - [React to LiveView for Performance](https://podcast.thinkingelixir.com/156)
+* [2023-06-21, 03:07:39](https://news.ycombinator.com/item?id=36413900) - [Document AdoptNode() Method](https://developer.mozilla.org/en-US/docs/Web/API/Document/adoptNode)
 * [2023-06-21, 02:48:17](https://news.ycombinator.com/item?id=36413768) - [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
 * [2023-06-21, 01:59:37](https://news.ycombinator.com/item?id=36413433) - [What to Do If Your House Is Overflowing with Books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
 * [2023-06-21, 01:38:35](https://news.ycombinator.com/item?id=36413296) - [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
 * [2023-06-21, 01:33:41](https://news.ycombinator.com/item?id=36413260) - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 * [2023-06-21, 01:04:46](https://news.ycombinator.com/item?id=36413022) - [Dietrich Bonhoeffer on stupidity (1943)](https://www.platoscave.org/2021/10/bonhoeffer-on-stupidity-entire-quote.html)
 * [2023-06-21, 01:02:09](https://news.ycombinator.com/item?id=36412997) - [Gergely Orosz: on the risk of Google shutting down Google Cloud Platform](https://twitter.com/GergelyOrosz/status/1670796482188910592)
-* [2023-06-21, 00:28:20](https://news.ycombinator.com/item?id=36412733) - [JetBrains Noria](https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/)
 * [2023-06-20, 23:39:10](https://news.ycombinator.com/item?id=36412300) - [How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
 * [2023-06-20, 23:26:51](https://news.ycombinator.com/item?id=36412191) - [ASU: The New American University (2021)](https://nadia.xyz/asu)
 * [2023-06-20, 23:19:21](https://news.ycombinator.com/item?id=36412105) - [Defer for Shell (2020)](https://cedwards.xyz/defer-for-shell/)
@@ -28,7 +29,6 @@
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 12:59:57](https://news.ycombinator.com/item?id=36403345) - [Benzene Exposure Alters Endocrine Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326257/)
 * [2023-06-20, 09:20:33](https://news.ycombinator.com/item?id=36401547) - [The World's Largest \"Radio\" Station [pdf]](https://pages.hep.wisc.edu/~prepost/ELF.pdf)
-* [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I give up on free software phones (2019)](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit traps” can make your Bash scripts more robust and reliable](http://redsymbol.net/articles/bash-exit-traps/)
 
 ## [Archives](archives/index.md)
