@@ -6,6 +6,7 @@
 
 * [2023-06-21, 03:28:35](https://news.ycombinator.com/item?id=36414037) - [React to LiveView for Performance](https://podcast.thinkingelixir.com/156)
 * [2023-06-21, 03:07:39](https://news.ycombinator.com/item?id=36413900) - [Document AdoptNode() Method](https://developer.mozilla.org/en-US/docs/Web/API/Document/adoptNode)
+* [2023-06-21, 03:06:47](https://news.ycombinator.com/item?id=36413897) - [Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
 * [2023-06-21, 02:48:17](https://news.ycombinator.com/item?id=36413768) - [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
 * [2023-06-21, 01:59:37](https://news.ycombinator.com/item?id=36413433) - [What to Do If Your House Is Overflowing with Books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
 * [2023-06-21, 01:38:35](https://news.ycombinator.com/item?id=36413296) - [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
