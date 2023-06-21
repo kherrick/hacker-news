@@ -46,6 +46,7 @@
 * [2023-06-21, 12:00:16](https://news.ycombinator.com/item?id=36417347) - [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
 * [2023-06-21, 11:46:10](https://news.ycombinator.com/item?id=36417252) - [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
 * [2023-06-21, 11:23:54](https://news.ycombinator.com/item?id=36417095) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
+* [2023-06-21, 11:00:35](https://news.ycombinator.com/item?id=36416938) - [A Case for Toe Socks](https://herman.bearblog.dev/a-case-for-toe-socks/)
 * [2023-06-21, 10:45:30](https://news.ycombinator.com/item?id=36416854) - [Show HN: Browsernaut App Picker Update](https://news.ycombinator.com/from?site=github.com/billyjacoby)
 * [2023-06-21, 10:24:59](https://news.ycombinator.com/item?id=36416727) - [Ask HN: Best Practices Guides You're Aware Of](https://news.ycombinator.com/item?id=36416727)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
