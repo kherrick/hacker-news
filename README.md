@@ -5,6 +5,7 @@
 * [2023-06-21, 21:56:23](https://news.ycombinator.com/item?id=36425214) - [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
 * [2023-06-21, 21:38:36](https://news.ycombinator.com/item?id=36425006) - [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
 * [2023-06-21, 21:18:03](https://news.ycombinator.com/item?id=36424695) - [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
+* [2023-06-21, 20:56:16](https://news.ycombinator.com/item?id=36424339) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-21, 20:50:48](https://news.ycombinator.com/item?id=36424256) - [Why Kakoune – The quest for a better code editor (2016)](https://kakoune.org/why-kakoune/why-kakoune.html)
 * [2023-06-21, 20:39:57](https://news.ycombinator.com/item?id=36424090) - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
 * [2023-06-21, 20:38:22](https://news.ycombinator.com/item?id=36424069) - [Notice of Intent to Amend the Prescription Drug List: Vitamin D (2020)](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
@@ -29,7 +30,6 @@
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [2023-06-21, 09:28:35](https://news.ycombinator.com/item?id=36416325) - [MyNOR – The yet minor computer. No CPU, no ALU, one NOR-gate is enough](http://www.mynor.org/)
-* [2023-06-20, 22:05:17](https://news.ycombinator.com/item?id=36411343) - [A Book About Owls, in Which Each Species Is a Marvel](https://www.nytimes.com/2023/06/14/books/review/what-an-owl-knows-jennifer-ackerman.html)
 
 ## [Archives](archives/index.md)
 

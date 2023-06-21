@@ -9,6 +9,7 @@
 * [2023-06-21, 21:56:23](https://news.ycombinator.com/item?id=36425214) - [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
 * [2023-06-21, 21:38:36](https://news.ycombinator.com/item?id=36425006) - [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
 * [2023-06-21, 21:18:03](https://news.ycombinator.com/item?id=36424695) - [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
+* [2023-06-21, 20:56:16](https://news.ycombinator.com/item?id=36424339) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-21, 20:50:48](https://news.ycombinator.com/item?id=36424256) - [Why Kakoune – The Quest For a Better Code Editor](https://kakoune.org/why-kakoune/why-kakoune.html)
 * [2023-06-21, 20:42:18](https://news.ycombinator.com/item?id=36424118) - [Ford CEO: Tesla's Cybertruck Is Only for 'Silicon Valley People'](https://www.businessinsider.com/ford-ceo-disses-tesla-cybertruck-for-silicon-valley-people-2023-6)
 * [2023-06-21, 20:39:57](https://news.ycombinator.com/item?id=36424090) - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
