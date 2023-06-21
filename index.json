@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-21, 16:02:58",
+      "https://news.ycombinator.com/item?id=36420295"
+    ],
+    [
+      "Show HN: I created Units Converter that contains 5000 units across 78 categories",
+      "https://www.kodytools.com/units"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 16:00:14",
+      "https://news.ycombinator.com/item?id=36420259"
+    ],
+    [
+      "Red Hat cutting back RHEL source availability",
+      "https://lwn.net/Articles/935592/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 15:56:31",
       "https://news.ycombinator.com/item?id=36420207"
     ],
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2023-06-21, 13:30:45",
-      "https://news.ycombinator.com/item?id=36418204"
+      "2023-06-21, 14:07:08",
+      "https://news.ycombinator.com/item?id=36418633"
     ],
     [
-      "Ransomware gang preys on cancer centers, triggers alert",
-      "https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert"
+      "Show HN: Datadog QA – TUI for Jira users to perform QA of future GitHub releases",
+      "https://github.com/DataDog/ddqa"
     ]
   ],
   [
@@ -147,26 +167,6 @@
     [
       "Facebook almost acquired Waze, but we ended up with Google",
       "https://post.news/@/noam/2RTRvTNNxSCQb3yNjqa0DPfr1Yk"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 12:39:42",
-      "https://news.ycombinator.com/item?id=36417699"
-    ],
-    [
-      "Ask HN: Refusing all cookies, still targeted by ads. How?",
-      "https://news.ycombinator.com/item?id=36417699"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 12:30:30",
-      "https://news.ycombinator.com/item?id=36417628"
-    ],
-    [
-      "The FCC wants to regulate broadband data caps again",
-      "https://www.theverge.com/2023/6/20/23767094/fcc-investigation-internet-data-caps-net-neutrality"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-06-21, 07:33:33",
-      "https://news.ycombinator.com/item?id=36415528"
-    ],
-    [
-      "Blue Ocean Strategy",
-      "https://fermatslibrary.com/s/blue-ocean-strategy"
-    ]
-  ],
-  [
-    [
       "2023-06-21, 05:57:24",
       "https://news.ycombinator.com/item?id=36414915"
     ],
@@ -297,6 +287,16 @@
     [
       "Jamsocket: Back Ends for Realtime Apps",
       "https://jamsocket.com/"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 04:33:49",
+      "https://news.ycombinator.com/item?id=36399754"
+    ],
+    [
+      "The Charles Dickens Illustrated Gallery",
+      "https://www.charlesdickensillustration.org"
     ]
   ]
 ]
