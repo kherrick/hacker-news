@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-06-20, 19:48:12",
+      "https://news.ycombinator.com/item?id=36409489"
+    ],
+    [
+      "Emerging architectures for LLM applications",
+      "https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 19:30:35",
       "https://news.ycombinator.com/item?id=36409262"
     ],
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2023-06-20, 17:16:36",
-      "https://news.ycombinator.com/item?id=36407272"
-    ],
-    [
-      "Comparing Adobe Firefly, Dalle-2, and OpenJourney",
-      "https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 17:08:48",
-      "https://news.ycombinator.com/item?id=36407152"
-    ],
-    [
-      "Things I wish I’d known before fulltime RVing (2017)",
-      "https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 16:07:32",
       "https://news.ycombinator.com/item?id=36406139"
     ],
     [
       "RoboCat – A Self-Improving Robotic Agent",
       "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 15:46:23",
+      "https://news.ycombinator.com/item?id=36405761"
+    ],
+    [
+      "Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate",
+      "https://github.com/shayonj/pg_easy_replicate"
     ]
   ],
   [
