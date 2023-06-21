@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-21, 13:24:26",
+      "https://news.ycombinator.com/item?id=36418138"
+    ],
+    [
+      "Company to pay fine after hiring fake priest to extract confessions of workers",
+      "https://www.cnn.com/2023/06/20/business/california-restaurant-fake-priest-fine/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 13:13:43",
+      "https://news.ycombinator.com/item?id=36418034"
+    ],
+    [
+      "Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)",
+      "https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 13:07:42",
+      "https://news.ycombinator.com/item?id=36417968"
+    ],
+    [
+      "NASA secures contract with Rocky Enterprise Linux",
+      "https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 13:01:04",
       "https://news.ycombinator.com/item?id=36417908"
     ],
@@ -17,6 +47,16 @@
     [
       "Apple's union-busting practices violated employee rights at NYC store",
       "https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 12:30:30",
+      "https://news.ycombinator.com/item?id=36417628"
+    ],
+    [
+      "The FCC wants to regulate broadband data caps again",
+      "https://www.theverge.com/2023/6/20/23767094/fcc-investigation-internet-data-caps-net-neutrality"
     ]
   ],
   [
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=36416490"
     ],
     [
-      "Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]",
+      "Ego and Math [video]",
       "https://www.youtube.com/watch?v=z7GVHB2wiyg"
     ]
   ],
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2023-06-21, 04:55:09",
-      "https://news.ycombinator.com/item?id=36414538"
-    ],
-    [
-      "50% on HumanEval with just 1.3B model",
-      "https://twitter.com/sytelus/status/1671333552204693504"
-    ]
-  ],
-  [
-    [
       "2023-06-21, 04:45:57",
       "https://news.ycombinator.com/item?id=36414493"
     ],
@@ -167,16 +197,6 @@
     [
       "A regular expression to check for prime numbers (2007)",
       "https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 00:28:20",
-      "https://news.ycombinator.com/item?id=36412733"
-    ],
-    [
-      "JetBrains Noria",
-      "https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-06-20, 16:18:29",
-      "https://news.ycombinator.com/item?id=36406352"
-    ],
-    [
-      "How to make your own Selectric Typeballs",
-      "https://github.com/settinger/selectric_typeballs"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 16:07:32",
       "https://news.ycombinator.com/item?id=36406139"
     ],
@@ -277,16 +287,6 @@
     [
       "Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate",
       "https://github.com/shayonj/pg_easy_replicate"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 10:04:29",
-      "https://news.ycombinator.com/item?id=36401854"
-    ],
-    [
-      "Style your RSS feed",
-      "https://darekkay.com/blog/rss-styling/"
     ]
   ],
   [
