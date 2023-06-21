@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 09:00:33](https://news.ycombinator.com/item?id=36416131) - [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
 * [2023-06-21, 08:38:22](https://news.ycombinator.com/item?id=36415981) - [The Lesson of the Truman Show](https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/)
 * [2023-06-21, 08:04:52](https://news.ycombinator.com/item?id=36415745) - [You're doing two-factor authentication wrong](https://theorangeone.net/posts/youre-doing-2fa-wrong/)
 * [2023-06-21, 07:45:22](https://news.ycombinator.com/item?id=36415616) - [Having non-x86 machines makes your life harder](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NonX86MakesLifeHarder)

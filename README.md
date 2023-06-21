@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 09:00:33](https://news.ycombinator.com/item?id=36416131) - [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
 * [2023-06-21, 08:38:22](https://news.ycombinator.com/item?id=36415981) - [The Real Lesson of The Truman Show](https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/)
 * [2023-06-21, 08:04:52](https://news.ycombinator.com/item?id=36415745) - [You're doing two-factor authentication wrong](https://theorangeone.net/posts/youre-doing-2fa-wrong/)
 * [2023-06-21, 07:45:22](https://news.ycombinator.com/item?id=36415616) - [Having non-x86 machines makes your life harder](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NonX86MakesLifeHarder)
@@ -22,7 +23,6 @@
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
 * [2023-06-20, 19:17:32](https://news.ycombinator.com/item?id=36409082) - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
 * [2023-06-20, 18:45:02](https://news.ycombinator.com/item?id=36408633) - [Building a Slack/Discord alternative with Tauri/Rust](https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust)
-* [2023-06-20, 18:19:12](https://news.ycombinator.com/item?id=36408248) - [Compiling Typed Python](https://bernsteinbear.com/blog/typed-python/)
 * [2023-06-20, 17:50:10](https://news.ycombinator.com/item?id=36407781) - [Submarine missing near Titanic used a $30 Logitech gamepad for steering](https://arstechnica.com/gaming/2023/06/submarine-missing-near-titanic-used-a-30-logitech-gamepad-for-steering/)
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
 * [2023-06-20, 17:08:48](https://news.ycombinator.com/item?id=36407152) - [Things I wish I’d known before fulltime RVing (2017)](https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/)
