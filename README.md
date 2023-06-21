@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 22:14:45](https://news.ycombinator.com/item?id=36425433) - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
 * [2023-06-21, 21:56:23](https://news.ycombinator.com/item?id=36425214) - [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
 * [2023-06-21, 21:38:36](https://news.ycombinator.com/item?id=36425006) - [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
 * [2023-06-21, 21:18:03](https://news.ycombinator.com/item?id=36424695) - [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
@@ -10,7 +11,6 @@
 * [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21](https://go.dev/blog/go1.21rc)
 * [2023-06-21, 19:27:02](https://news.ycombinator.com/item?id=36423148) - [Delaware bill (HB 121) to allow corporations to vote in elections](https://legis.delaware.gov/BillDetail/130205)
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
-* [2023-06-21, 19:09:59](https://news.ycombinator.com/item?id=36422945) - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
 * [2023-06-21, 18:54:09](https://news.ycombinator.com/item?id=36422730) - [Show HN: gpt-engineer – platform for devs to tinker with AI programming tools](https://news.ycombinator.com/item?id=36422730)
 * [2023-06-21, 18:10:38](https://news.ycombinator.com/item?id=36422116) - [Object-oriented Programming with ANSI-C (1993) [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
 * [2023-06-21, 17:47:34](https://news.ycombinator.com/item?id=36421874) - [Cloud seeding catching on amid Rocky Mountain drought](https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html)

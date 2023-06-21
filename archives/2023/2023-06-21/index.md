@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 22:14:45](https://news.ycombinator.com/item?id=36425433) - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
 * [2023-06-21, 21:56:23](https://news.ycombinator.com/item?id=36425214) - [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
 * [2023-06-21, 21:38:36](https://news.ycombinator.com/item?id=36425006) - [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
 * [2023-06-21, 21:18:03](https://news.ycombinator.com/item?id=36424695) - [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
