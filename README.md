@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 18:10:38](https://news.ycombinator.com/item?id=36422116) - [Object-oriented Programming with ANSI-C (1993) [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
 * [2023-06-21, 17:47:34](https://news.ycombinator.com/item?id=36421874) - [Cloud seeding catching on amid Rocky Mountain drought](https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html)
 * [2023-06-21, 17:20:23](https://news.ycombinator.com/item?id=36421483) - [Ask HN: What is the morale like inside Reddit, as an employee?](https://news.ycombinator.com/item?id=36421483)
 * [2023-06-21, 17:19:47](https://news.ycombinator.com/item?id=36421473) - [Some were meant for C [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
@@ -16,7 +17,6 @@
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
 * [2023-06-21, 14:07:08](https://news.ycombinator.com/item?id=36418633) - [Show HN: Datadog QA – TUI for Jira users to perform QA of future GitHub releases](https://github.com/DataDog/ddqa)
-* [2023-06-21, 13:13:43](https://news.ycombinator.com/item?id=36418034) - [Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 * [2023-06-21, 13:07:42](https://news.ycombinator.com/item?id=36417968) - [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
 * [2023-06-21, 13:03:19](https://news.ycombinator.com/item?id=36417932) - [Platinum Photography](https://whyisthisinteresting.substack.com/p/the-platinum-photography-edition)
 * [2023-06-21, 13:01:04](https://news.ycombinator.com/item?id=36417908) - [Research papers on ML in Compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers)

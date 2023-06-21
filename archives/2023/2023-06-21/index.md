@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 18:10:38](https://news.ycombinator.com/item?id=36422116) - [Object-oriented Programming with ANSI-C (1993) [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
 * [2023-06-21, 17:47:34](https://news.ycombinator.com/item?id=36421874) - [Cloud seeding catching on amid Rocky Mountain drought](https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html)
 * [2023-06-21, 17:21:14](https://news.ycombinator.com/item?id=36421495) - [Scores decline again for 13-year-old students in reading and mathematics](https://www.nationsreportcard.gov/highlights/ltt/2023/)
 * [2023-06-21, 17:20:23](https://news.ycombinator.com/item?id=36421483) - [Ask HN: What is the morale like inside Reddit, as an employee?](https://news.ycombinator.com/item?id=36421483)
