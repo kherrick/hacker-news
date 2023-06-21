@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 13:01:04](https://news.ycombinator.com/item?id=36417908) - [Awesome research papers on ML in Compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers)
 * [2023-06-21, 12:44:41](https://news.ycombinator.com/item?id=36417747) - [Apple's union-busting practices violated employee rights at NYC store](https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html)
 * [2023-06-21, 12:12:18](https://news.ycombinator.com/item?id=36417460) - [Some Chinese Canadians embrace ‘white people food’ movement, others are baffled](https://www.theglobeandmail.com/life/food-and-wine/article-some-chinese-canadians-embrace-white-people-food-movement-others-are/)
 * [2023-06-21, 12:01:09](https://news.ycombinator.com/item?id=36417359) - [Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
+* [2023-06-21, 12:00:16](https://news.ycombinator.com/item?id=36417347) - [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
 * [2023-06-21, 11:46:10](https://news.ycombinator.com/item?id=36417252) - [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
+* [2023-06-21, 11:23:54](https://news.ycombinator.com/item?id=36417095) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 * [2023-06-21, 10:24:59](https://news.ycombinator.com/item?id=36416727) - [Ask HN: Best Practices Guides You're Aware Of](https://news.ycombinator.com/item?id=36416727)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [2023-06-21, 09:14:37](https://news.ycombinator.com/item?id=36416234) - [Increasing pressure on US men for income in order to find a spouse](https://www.tandfonline.com/doi/full/10.1080/19485565.2023.2220950)
