@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 05:45:52](https://news.ycombinator.com/item?id=36414826) - [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
 * [2023-06-21, 04:55:09](https://news.ycombinator.com/item?id=36414538) - [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 * [2023-06-21, 03:28:35](https://news.ycombinator.com/item?id=36414037) - [React to LiveView for Performance [audio]](https://podcast.thinkingelixir.com/156)
@@ -18,7 +19,6 @@
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
 * [2023-06-20, 19:17:32](https://news.ycombinator.com/item?id=36409082) - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
 * [2023-06-20, 18:45:02](https://news.ycombinator.com/item?id=36408633) - [Building a Slack/Discord alternative with Tauri/Rust](https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust)
-* [2023-06-20, 18:19:12](https://news.ycombinator.com/item?id=36408248) - [Compiling Typed Python](https://bernsteinbear.com/blog/typed-python/)
 * [2023-06-20, 17:53:56](https://news.ycombinator.com/item?id=36407850) - [Milk-V Mars: RISC-V credit card size SBC](https://milkv.io/mars)
 * [2023-06-20, 17:50:10](https://news.ycombinator.com/item?id=36407781) - [Submarine missing near Titanic used a $30 Logitech gamepad for steering](https://arstechnica.com/gaming/2023/06/submarine-missing-near-titanic-used-a-30-logitech-gamepad-for-steering/)
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
