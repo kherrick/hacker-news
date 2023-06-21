@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 09:06:06](https://news.ycombinator.com/item?id=36416176) - [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
 * [2023-06-21, 09:00:33](https://news.ycombinator.com/item?id=36416131) - [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
 * [2023-06-21, 08:38:22](https://news.ycombinator.com/item?id=36415981) - [The Real Lesson of The Truman Show](https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/)
+* [2023-06-21, 08:18:48](https://news.ycombinator.com/item?id=36415839) - [Show HN: GitHub Stats Dashboard Powered by GraphQL API and GitHub Action](https://github.com/pingcap/ossinsight-lite)
 * [2023-06-21, 08:04:52](https://news.ycombinator.com/item?id=36415745) - [You're doing two-factor authentication wrong](https://theorangeone.net/posts/youre-doing-2fa-wrong/)
 * [2023-06-21, 07:45:22](https://news.ycombinator.com/item?id=36415616) - [Having non-x86 machines makes your life harder](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NonX86MakesLifeHarder)
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
@@ -25,8 +27,6 @@
 * [2023-06-20, 18:45:02](https://news.ycombinator.com/item?id=36408633) - [Building a Slack/Discord alternative with Tauri/Rust](https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust)
 * [2023-06-20, 17:50:10](https://news.ycombinator.com/item?id=36407781) - [Submarine missing near Titanic used a $30 Logitech gamepad for steering](https://arstechnica.com/gaming/2023/06/submarine-missing-near-titanic-used-a-30-logitech-gamepad-for-steering/)
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
-* [2023-06-20, 17:08:48](https://news.ycombinator.com/item?id=36407152) - [Things I wish I’d known before fulltime RVing (2017)](https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/)
-* [2023-06-20, 16:07:32](https://news.ycombinator.com/item?id=36406139) - [RoboCat – A Self-Improving Robotic Agent](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 09:20:33](https://news.ycombinator.com/item?id=36401547) - [The world's largest \"radio\" station [pdf]](https://pages.hep.wisc.edu/~prepost/ELF.pdf)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit traps” can make your Bash scripts more robust and reliable (2013)](http://redsymbol.net/articles/bash-exit-traps/)
