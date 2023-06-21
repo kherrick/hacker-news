@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 04:55:09](https://news.ycombinator.com/item?id=36414538) - [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
+* [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 * [2023-06-21, 03:28:35](https://news.ycombinator.com/item?id=36414037) - [React to LiveView for Performance](https://podcast.thinkingelixir.com/156)
+* [2023-06-21, 03:24:07](https://news.ycombinator.com/item?id=36414004) - [You Deserve a Tech Union](https://ethanmarcotte.com/wrote/you-deserve-a-tech-union-book/)
 * [2023-06-21, 03:07:39](https://news.ycombinator.com/item?id=36413900) - [Document AdoptNode() Method](https://developer.mozilla.org/en-US/docs/Web/API/Document/adoptNode)
 * [2023-06-21, 03:06:47](https://news.ycombinator.com/item?id=36413897) - [Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
 * [2023-06-21, 02:48:17](https://news.ycombinator.com/item?id=36413768) - [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
