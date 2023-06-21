@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 21:18:03](https://news.ycombinator.com/item?id=36424695) - [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
+* [2023-06-21, 20:50:48](https://news.ycombinator.com/item?id=36424256) - [Why Kakoune – The Quest For a Better Code Editor](https://kakoune.org/why-kakoune/why-kakoune.html)
 * [2023-06-21, 20:42:18](https://news.ycombinator.com/item?id=36424118) - [Ford CEO: Tesla's Cybertruck Is Only for 'Silicon Valley People'](https://www.businessinsider.com/ford-ceo-disses-tesla-cybertruck-for-silicon-valley-people-2023-6)
 * [2023-06-21, 20:39:57](https://news.ycombinator.com/item?id=36424090) - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
 * [2023-06-21, 20:38:22](https://news.ycombinator.com/item?id=36424069) - [Notice of Intent to Amend the Prescription Drug List: Vitamin D (2020)](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
