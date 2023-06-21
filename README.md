@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21](https://go.dev/blog/go1.21rc)
 * [2023-06-21, 19:53:09](https://news.ycombinator.com/item?id=36423465) - [Google IS selling all my personal information in Google Domains to Squarespace?](https://twitter.com/GergelyOrosz/status/1671603045640151041)
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 * [2023-06-21, 19:09:59](https://news.ycombinator.com/item?id=36422945) - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
@@ -15,7 +16,6 @@
 * [2023-06-21, 16:18:35](https://news.ycombinator.com/item?id=36420502) - [What every programmer should know about memory (2007) [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [2023-06-21, 16:02:58](https://news.ycombinator.com/item?id=36420295) - [Show HN: I created Units Converter that contains 5000 units across 78 categories](https://www.kodytools.com/units)
 * [2023-06-21, 16:00:14](https://news.ycombinator.com/item?id=36420259) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
-* [2023-06-21, 15:50:28](https://news.ycombinator.com/item?id=36420109) - [If you can’t tell a story about it, it isn’t real](https://surfingcomplexity.blog/2023/06/15/if-you-cant-tell-a-story-about-it-it-isnt-real/)
 * [2023-06-21, 15:28:41](https://news.ycombinator.com/item?id=36419793) - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
 * [2023-06-21, 15:25:20](https://news.ycombinator.com/item?id=36419739) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-06-21, 15:13:24](https://news.ycombinator.com/item?id=36419537) - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)

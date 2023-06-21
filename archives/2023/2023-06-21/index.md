@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21](https://go.dev/blog/go1.21rc)
 * [2023-06-21, 19:53:09](https://news.ycombinator.com/item?id=36423465) - [Google IS selling all my personal information in Google Domains to Squarespace?](https://twitter.com/GergelyOrosz/status/1671603045640151041)
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 * [2023-06-21, 19:09:59](https://news.ycombinator.com/item?id=36422945) - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
