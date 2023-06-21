@@ -26,9 +26,9 @@
 * [2023-06-20, 16:18:29](https://news.ycombinator.com/item?id=36406352) - [How to make your own Selectric Typeballs](https://github.com/settinger/selectric_typeballs)
 * [2023-06-20, 16:07:32](https://news.ycombinator.com/item?id=36406139) - [RoboCat – A Self-Improving Robotic Agent](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
 * [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
-* [2023-06-20, 14:34:13](https://news.ycombinator.com/item?id=36404622) - [Undb – Private first, unified, self-hosted no code database](https://github.com/undb-xyz/undb)
 * [2023-06-20, 12:59:57](https://news.ycombinator.com/item?id=36403345) - [Benzene Exposure Alters Endocrine Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326257/)
 * [2023-06-20, 09:20:33](https://news.ycombinator.com/item?id=36401547) - [The World's Largest \"Radio\" Station [pdf]](https://pages.hep.wisc.edu/~prepost/ELF.pdf)
+* [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I give up on free software phones (2019)](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit traps” can make your Bash scripts more robust and reliable](http://redsymbol.net/articles/bash-exit-traps/)
 
 ## [Archives](archives/index.md)
