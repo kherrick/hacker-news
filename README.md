@@ -1,9 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 01:02:09](https://news.ycombinator.com/item?id=36412997) - [Gergely Orosz: on the risk of Google shutting down Google Cloud Platform](https://twitter.com/GergelyOrosz/status/1670796482188910592)
+* [2023-06-21, 00:28:20](https://news.ycombinator.com/item?id=36412733) - [JetBrains Noria](https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/)
+* [2023-06-20, 23:39:10](https://news.ycombinator.com/item?id=36412300) - [How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
+* [2023-06-20, 23:19:21](https://news.ycombinator.com/item?id=36412105) - [Defer for Shell](https://cedwards.xyz/defer-for-shell/)
+* [2023-06-20, 23:15:21](https://news.ycombinator.com/item?id=36412072) - [I post when browser makers announce their intent to ship features in web engines](https://botsin.space/@intenttoship)
 * [2023-06-20, 21:17:35](https://news.ycombinator.com/item?id=36410777) - [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
 * [2023-06-20, 21:01:52](https://news.ycombinator.com/item?id=36410547) - [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
-* [2023-06-20, 19:53:26](https://news.ycombinator.com/item?id=36409566) - [Gear Patrol has acquired DPReview](https://www.dpreview.com/site-news/8298318614/dpreview-com-looks-forward-to-a-new-chapter-with-gear-patrol)
 * [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 * [2023-06-20, 19:30:35](https://news.ycombinator.com/item?id=36409262) - [A Bayesian View of Amazon Resellers](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
@@ -23,13 +27,9 @@
 * [2023-06-20, 13:16:17](https://news.ycombinator.com/item?id=36403494) - [Rivian embraces Tesla's charging standard for EVs](https://ev-edition.com/2023/06/rivian-joins-forces-with-tesla-embracing-their-charging-standard-for-electric-vehicles/)
 * [2023-06-20, 12:59:57](https://news.ycombinator.com/item?id=36403345) - [Benzene Exposure Alters Endocrine Activity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9326257/)
 * [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Mullvad Leta: A search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
-* [2023-06-20, 10:04:29](https://news.ycombinator.com/item?id=36401854) - [Style your RSS feed](https://darekkay.com/blog/rss-styling/)
-* [2023-06-20, 09:48:26](https://news.ycombinator.com/item?id=36401747) - [Hashing](https://samwho.dev/hashing/)
 * [2023-06-20, 09:20:33](https://news.ycombinator.com/item?id=36401547) - [The World's Largest \"Radio\" Station [pdf]](https://pages.hep.wisc.edu/~prepost/ELF.pdf)
 * [2023-06-20, 08:53:07](https://news.ycombinator.com/item?id=36401359) - [I give up on free software phones (2019)](https://yotam.net/posts/why-i-give-up-on-free-software-phones/)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit traps” can make your Bash scripts more robust and reliable](http://redsymbol.net/articles/bash-exit-traps/)
-* [2023-06-20, 04:54:52](https://news.ycombinator.com/item?id=36399884) - [Three thousand years of river channel engineering in the Nile Valley](https://onlinelibrary.wiley.com/doi/full/10.1002/gea.21965)
-* [2023-06-19, 07:39:46](https://news.ycombinator.com/item?id=36388353) - [Rock and Roll Drums: All You Need to Know](https://www.schoolofrock.com/resources/drums/rock-and-roll-drums-all-you-need-to-know)
 
 ## [Archives](archives/index.md)
 
