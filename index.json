@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36415981"
     ],
     [
-      "The Lesson of the Truman Show",
+      "The Real Lesson of The Truman Show",
       "https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/"
     ]
   ],
@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2023-06-21, 06:33:33",
-      "https://news.ycombinator.com/item?id=36415124"
+      "2023-06-21, 07:45:22",
+      "https://news.ycombinator.com/item?id=36415616"
     ],
     [
-      "I won't pay on your website",
-      "https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website"
+      "Having non-x86 machines makes your life harder",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NonX86MakesLifeHarder"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-06-20, 19:48:12",
+      "https://news.ycombinator.com/item?id=36409489"
+    ],
+    [
+      "Emerging architectures for LLM applications",
+      "https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/"
+    ]
+  ],
+  [
+    [
       "2023-06-20, 19:30:35",
       "https://news.ycombinator.com/item?id=36409262"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-06-20, 17:53:56",
-      "https://news.ycombinator.com/item?id=36407850"
-    ],
-    [
-      "Milk-V Mars: RISC-V credit card size SBC",
-      "https://milkv.io/mars"
-    ]
-  ],
-  [
-    [
       "2023-06-20, 17:50:10",
       "https://news.ycombinator.com/item?id=36407781"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-06-20, 16:07:32",
-      "https://news.ycombinator.com/item?id=36406139"
+      "2023-06-20, 15:46:23",
+      "https://news.ycombinator.com/item?id=36405761"
     ],
     [
-      "RoboCat – A Self-Improving Robotic Agent",
-      "https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent"
+      "Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate",
+      "https://github.com/shayonj/pg_easy_replicate"
     ]
   ],
   [
