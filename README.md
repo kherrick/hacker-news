@@ -3,7 +3,7 @@
 * [2023-06-21, 03:28:35](https://news.ycombinator.com/item?id=36414037) - [React to LiveView for Performance](https://podcast.thinkingelixir.com/156)
 * [2023-06-21, 03:06:47](https://news.ycombinator.com/item?id=36413897) - [Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
 * [2023-06-21, 02:48:17](https://news.ycombinator.com/item?id=36413768) - [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
-* [2023-06-21, 01:59:37](https://news.ycombinator.com/item?id=36413433) - [What to Do If Your House Is Overflowing with Books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
+* [2023-06-21, 01:59:37](https://news.ycombinator.com/item?id=36413433) - [What to do if your house is overflowing with books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
 * [2023-06-21, 01:38:35](https://news.ycombinator.com/item?id=36413296) - [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
 * [2023-06-21, 01:33:41](https://news.ycombinator.com/item?id=36413260) - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 * [2023-06-21, 01:04:46](https://news.ycombinator.com/item?id=36413022) - [Dietrich Bonhoeffer on stupidity (1943)](https://www.platoscave.org/2021/10/bonhoeffer-on-stupidity-entire-quote.html)
