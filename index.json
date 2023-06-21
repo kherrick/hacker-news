@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-06-21, 18:50:09",
-      "https://news.ycombinator.com/item?id=36422670"
-    ],
-    [
-      "Microsoft rewrote Q# compiler in Rust",
-      "https://github.com/microsoft/qsharp"
-    ]
-  ],
-  [
-    [
       "2023-06-21, 18:10:38",
       "https://news.ycombinator.com/item?id=36422116"
     ],
@@ -207,6 +197,16 @@
     [
       "Red Hat cutting back RHEL source availability",
       "https://lwn.net/Articles/935592/"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 15:28:41",
+      "https://news.ycombinator.com/item?id=36419793"
+    ],
+    [
+      "AI Workbooks – A notebook interface for LLMs, image and audio models",
+      "https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9"
     ]
   ],
   [
