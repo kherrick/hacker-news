@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 20:06:14](https://news.ycombinator.com/item?id=36423648) - [Developer tools to create spatial experiences for Apple Vision Pro now availabl](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
 * [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21](https://go.dev/blog/go1.21rc)
+* [2023-06-21, 20:02:23](https://news.ycombinator.com/item?id=36423590) - [A site to share LLMs APIs via Tor](https://www.neuroengine.ai/)
 * [2023-06-21, 19:53:09](https://news.ycombinator.com/item?id=36423465) - [Google IS selling all my personal information in Google Domains to Squarespace?](https://twitter.com/GergelyOrosz/status/1671603045640151041)
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 * [2023-06-21, 19:09:59](https://news.ycombinator.com/item?id=36422945) - [How I installed TrueNAS on my new ASUSTOR NAS](https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas)
@@ -18,7 +20,6 @@
 * [2023-06-21, 16:00:14](https://news.ycombinator.com/item?id=36420259) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 15:28:41](https://news.ycombinator.com/item?id=36419793) - [AI Workbooks – A notebook interface for LLMs, image and audio models](https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9)
 * [2023-06-21, 15:25:20](https://news.ycombinator.com/item?id=36419739) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-* [2023-06-21, 15:13:24](https://news.ycombinator.com/item?id=36419537) - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 * [2023-06-21, 15:03:29](https://news.ycombinator.com/item?id=36419389) - [How my children (n=2) acquired absolute pitch](https://furiouslyrotatingshapes.substack.com/p/how-my-children-n2-acquired-absolute)
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 * [2023-06-21, 13:07:42](https://news.ycombinator.com/item?id=36417968) - [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
@@ -29,7 +30,6 @@
 * [2023-06-21, 09:28:35](https://news.ycombinator.com/item?id=36416325) - [MyNOR – The yet minor computer. No CPU, no ALU, one NOR-gate is enough](http://www.mynor.org/)
 * [2023-06-20, 20:58:56](https://news.ycombinator.com/item?id=36410490) - [Stronger Magic: Harry Fainlight was an overshadowed Beat visionary](https://www.poetryfoundation.org/articles/160457/stronger-magic)
 * [2023-06-20, 17:15:48](https://news.ycombinator.com/item?id=36407259) - [Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
-* [2023-06-20, 04:33:49](https://news.ycombinator.com/item?id=36399754) - [The Charles Dickens Illustrated Gallery](https://www.charlesdickensillustration.org)
 
 ## [Archives](archives/index.md)
 
