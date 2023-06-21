@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 10:24:59](https://news.ycombinator.com/item?id=36416727) - [Ask HN: Best Practices Guides You're Aware Of](https://news.ycombinator.com/item?id=36416727)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [2023-06-21, 09:14:37](https://news.ycombinator.com/item?id=36416234) - [Increasing pressure on US men for income in order to find a spouse](https://www.tandfonline.com/doi/full/10.1080/19485565.2023.2220950)
 * [2023-06-21, 09:06:06](https://news.ycombinator.com/item?id=36416176) - [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
@@ -11,7 +12,6 @@
 * [2023-06-21, 05:45:52](https://news.ycombinator.com/item?id=36414826) - [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
 * [2023-06-21, 04:55:09](https://news.ycombinator.com/item?id=36414538) - [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
-* [2023-06-21, 03:28:35](https://news.ycombinator.com/item?id=36414037) - [React to LiveView for Performance [audio]](https://podcast.thinkingelixir.com/156)
 * [2023-06-21, 03:06:47](https://news.ycombinator.com/item?id=36413897) - [Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
 * [2023-06-21, 02:48:17](https://news.ycombinator.com/item?id=36413768) - [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
 * [2023-06-21, 01:38:35](https://news.ycombinator.com/item?id=36413296) - [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)

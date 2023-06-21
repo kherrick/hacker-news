@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 10:24:59](https://news.ycombinator.com/item?id=36416727) - [Ask HN: Best Practices Guides You're Aware Of](https://news.ycombinator.com/item?id=36416727)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [2023-06-21, 09:14:37](https://news.ycombinator.com/item?id=36416234) - [Increasing pressure on US men for income in order to find a spouse](https://www.tandfonline.com/doi/full/10.1080/19485565.2023.2220950)
 * [2023-06-21, 09:06:06](https://news.ycombinator.com/item?id=36416176) - [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
