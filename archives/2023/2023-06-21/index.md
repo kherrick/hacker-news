@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
 * [2023-06-21, 06:10:55](https://news.ycombinator.com/item?id=36414998) - [Ask HN: Is it feasible to launch crowdfunding for a dog shelter in Central Asia?](https://news.ycombinator.com/item?id=36414998)
+* [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
+* [2023-06-21, 05:51:11](https://news.ycombinator.com/item?id=36414867) - [Study drugs make people worse at problem solving, not better](https://www.economist.com/science-and-technology/2023/06/20/study-drugs-make-people-worse-at-problem-solving-not-better)
 * [2023-06-21, 05:45:52](https://news.ycombinator.com/item?id=36414826) - [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
 * [2023-06-21, 04:55:09](https://news.ycombinator.com/item?id=36414538) - [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
 * [2023-06-21, 04:52:03](https://news.ycombinator.com/item?id=36414521) - [One third of Canadians fine with prescribing assisted suicide for homelessness](https://nationalpost.com/news/canada/canada-maid-assisted-suicide-homeless)
