@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 13:24:26](https://news.ycombinator.com/item?id=36418138) - [Company to pay fine after hiring fake priest to extract confessions of workers](https://www.cnn.com/2023/06/20/business/california-restaurant-fake-priest-fine/index.html)
+* [2023-06-21, 13:13:43](https://news.ycombinator.com/item?id=36418034) - [Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
+* [2023-06-21, 13:07:42](https://news.ycombinator.com/item?id=36417968) - [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
 * [2023-06-21, 13:01:04](https://news.ycombinator.com/item?id=36417908) - [Awesome research papers on ML in Compilers](https://github.com/zwang4/awesome-machine-learning-in-compilers)
 * [2023-06-21, 12:44:41](https://news.ycombinator.com/item?id=36417747) - [Apple's union-busting practices violated employee rights at NYC store](https://www.engadget.com/apples-union-busting-practices-violated-employee-rights-at-nyc-store-judge-rules-115036323.html)
+* [2023-06-21, 12:30:30](https://news.ycombinator.com/item?id=36417628) - [The FCC wants to regulate broadband data caps again](https://www.theverge.com/2023/6/20/23767094/fcc-investigation-internet-data-caps-net-neutrality)
 * [2023-06-21, 12:12:18](https://news.ycombinator.com/item?id=36417460) - [Some Chinese Canadians embrace ‘white people food’ movement, others are baffled](https://www.theglobeandmail.com/life/food-and-wine/article-some-chinese-canadians-embrace-white-people-food-movement-others-are/)
 * [2023-06-21, 12:01:09](https://news.ycombinator.com/item?id=36417359) - [Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
 * [2023-06-21, 12:00:16](https://news.ycombinator.com/item?id=36417347) - [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
