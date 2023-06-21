@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:02:58](https://news.ycombinator.com/item?id=36420295) - [Show HN: I created Units Converter that contains 5000 units across 78 categories](https://www.kodytools.com/units)
 * [2023-06-21, 16:00:14](https://news.ycombinator.com/item?id=36420259) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 15:56:31](https://news.ycombinator.com/item?id=36420207) - [US approves chicken made from cultivated cells](https://apnews.com/article/cultivated-meat-lab-grown-cell-based-a88ab8e0241712b501aa191cdbf6b39a)
@@ -13,6 +14,7 @@
 * [2023-06-21, 15:14:58](https://news.ycombinator.com/item?id=36419571) - [Africa’s Richest City Is Crumbling Under Chaos and Corruption](https://www.bloomberg.com/news/features/2023-06-16/south-africa-s-crime-chaos-and-corruption-make-it-look-like-a-failed-state)
 * [2023-06-21, 15:13:24](https://news.ycombinator.com/item?id=36419537) - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 * [2023-06-21, 15:09:07](https://news.ycombinator.com/item?id=36419461) - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+* [2023-06-21, 15:03:29](https://news.ycombinator.com/item?id=36419389) - [How My Children (N=2) Acquired Absolute Pitch](https://furiouslyrotatingshapes.substack.com/p/how-my-children-n2-acquired-absolute)
 * [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 14:49:18](https://news.ycombinator.com/item?id=36419200) - [Justice Samuel Alito Took Luxury Fishing Vacation with GOP Billionaire](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
 * [2023-06-21, 14:37:28](https://news.ycombinator.com/item?id=36419001) - [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)

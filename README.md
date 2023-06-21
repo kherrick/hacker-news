@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:02:58](https://news.ycombinator.com/item?id=36420295) - [Show HN: I created Units Converter that contains 5000 units across 78 categories](https://www.kodytools.com/units)
 * [2023-06-21, 16:00:14](https://news.ycombinator.com/item?id=36420259) - [Red Hat cutting back RHEL source availability](https://lwn.net/Articles/935592/)
 * [2023-06-21, 15:56:31](https://news.ycombinator.com/item?id=36420207) - [US approves chicken made from cultivated cells](https://apnews.com/article/cultivated-meat-lab-grown-cell-based-a88ab8e0241712b501aa191cdbf6b39a)
@@ -8,6 +9,7 @@
 * [2023-06-21, 15:14:58](https://news.ycombinator.com/item?id=36419571) - [Africa’s Richest City Is Crumbling Under Chaos and Corruption](https://www.bloomberg.com/news/features/2023-06-16/south-africa-s-crime-chaos-and-corruption-make-it-look-like-a-failed-state)
 * [2023-06-21, 15:13:24](https://news.ycombinator.com/item?id=36419537) - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 * [2023-06-21, 15:09:07](https://news.ycombinator.com/item?id=36419461) - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+* [2023-06-21, 15:03:29](https://news.ycombinator.com/item?id=36419389) - [How My Children (N=2) Acquired Absolute Pitch](https://furiouslyrotatingshapes.substack.com/p/how-my-children-n2-acquired-absolute)
 * [2023-06-21, 14:37:28](https://news.ycombinator.com/item?id=36419001) - [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
@@ -23,11 +25,9 @@
 * [2023-06-21, 11:46:10](https://news.ycombinator.com/item?id=36417252) - [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
 * [2023-06-21, 11:23:54](https://news.ycombinator.com/item?id=36417095) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
-* [2023-06-21, 08:18:48](https://news.ycombinator.com/item?id=36415839) - [Show HN: GitHub Stats Dashboard Powered by GraphQL API and GitHub Action](https://github.com/pingcap/ossinsight-lite)
 * [2023-06-21, 08:13:18](https://news.ycombinator.com/item?id=36415803) - [The man who tried to redeem the world with logic (2015)](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
-* [2023-06-21, 01:33:41](https://news.ycombinator.com/item?id=36413260) - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 * [2023-06-20, 17:15:48](https://news.ycombinator.com/item?id=36407259) - [Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
 * [2023-06-20, 04:33:49](https://news.ycombinator.com/item?id=36399754) - [The Charles Dickens Illustrated Gallery](https://www.charlesdickensillustration.org)
 
