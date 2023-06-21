@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
 * [2023-06-21, 04:55:09](https://news.ycombinator.com/item?id=36414538) - [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
+* [2023-06-21, 04:52:03](https://news.ycombinator.com/item?id=36414521) - [One third of Canadians fine with prescribing assisted suicide for homelessness](https://nationalpost.com/news/canada/canada-maid-assisted-suicide-homeless)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 * [2023-06-21, 03:28:35](https://news.ycombinator.com/item?id=36414037) - [React to LiveView for Performance](https://podcast.thinkingelixir.com/156)
 * [2023-06-21, 03:24:07](https://news.ycombinator.com/item?id=36414004) - [You Deserve a Tech Union](https://ethanmarcotte.com/wrote/you-deserve-a-tech-union-book/)
