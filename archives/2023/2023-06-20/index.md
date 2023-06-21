@@ -9,6 +9,7 @@
 * [2023-06-20, 23:19:21](https://news.ycombinator.com/item?id=36412105) - [Defer for Shell](https://cedwards.xyz/defer-for-shell/)
 * [2023-06-20, 23:15:21](https://news.ycombinator.com/item?id=36412072) - [I post when browser makers announce their intent to ship features in web engines](https://botsin.space/@intenttoship)
 * [2023-06-20, 22:21:11](https://news.ycombinator.com/item?id=36411519) - [My total comp for creating GitHub Copilot: +20k bonus and a title bump](https://twitter.com/alexgraveley/status/1671219402480418816)
+* [2023-06-20, 22:05:17](https://news.ycombinator.com/item?id=36411343) - [A Book About Owls, in Which Each Species Is a Marvel](https://www.nytimes.com/2023/06/14/books/review/what-an-owl-knows-jennifer-ackerman.html)
 * [2023-06-20, 21:21:48](https://news.ycombinator.com/item?id=36410829) - [The Decade of Sock Hops, Poodle Skirts, and Climate Change Awareness](https://hakaimagazine.com/features/the-decade-of-sock-hops-poodle-skirts-and-climate-change-awareness/)
 * [2023-06-20, 21:17:35](https://news.ycombinator.com/item?id=36410777) - [YouTube: Sort by oldest is back baby](https://news.ycombinator.com/item?id=36410777)
 * [2023-06-20, 21:01:52](https://news.ycombinator.com/item?id=36410547) - [Welcome Lemmy.world](https://blog.mastodon.world/welcome-lemmy-world)

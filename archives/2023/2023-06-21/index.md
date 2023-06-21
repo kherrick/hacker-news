@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 20:42:18](https://news.ycombinator.com/item?id=36424118) - [Ford CEO: Tesla's Cybertruck Is Only for 'Silicon Valley People'](https://www.businessinsider.com/ford-ceo-disses-tesla-cybertruck-for-silicon-valley-people-2023-6)
+* [2023-06-21, 20:39:57](https://news.ycombinator.com/item?id=36424090) - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
 * [2023-06-21, 20:38:22](https://news.ycombinator.com/item?id=36424069) - [Notice of Intent to Amend the Prescription Drug List: Vitamin D (2020)](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
 * [2023-06-21, 20:06:14](https://news.ycombinator.com/item?id=36423648) - [Developer tools to create spatial experiences for Apple Vision Pro now availabl](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
 * [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21](https://go.dev/blog/go1.21rc)
