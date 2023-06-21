@@ -17,6 +17,7 @@
 * [2023-06-20, 23:19:21](https://news.ycombinator.com/item?id=36412105) - [Defer for Shell (2020)](https://cedwards.xyz/defer-for-shell/)
 * [2023-06-20, 23:15:21](https://news.ycombinator.com/item?id=36412072) - [I post when browser makers announce their intent to ship features in web engines](https://botsin.space/@intenttoship)
 * [2023-06-20, 21:01:00](https://news.ycombinator.com/item?id=36410522) - [Finley (YC W21) is hiring to reimagine business credit (US remote)](https://news.ycombinator.com/item?id=36410522)
+* [2023-06-20, 19:48:12](https://news.ycombinator.com/item?id=36409489) - [Emerging architectures for LLM applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 * [2023-06-20, 19:30:35](https://news.ycombinator.com/item?id=36409262) - [A Bayesian view of Amazon resellers (2011)](https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/)
 * [2023-06-20, 19:26:02](https://news.ycombinator.com/item?id=36409201) - [Show HN: Autolabel, a Python library to label and enrich text data with LLMs](https://github.com/refuel-ai/autolabel)
 * [2023-06-20, 19:17:32](https://news.ycombinator.com/item?id=36409082) - [vLLM: Easy, Fast, and Cheap LLM Serving with PagedAttention](https://vllm.ai/)
@@ -25,9 +26,8 @@
 * [2023-06-20, 17:53:56](https://news.ycombinator.com/item?id=36407850) - [Milk-V Mars: RISC-V credit card size SBC](https://milkv.io/mars)
 * [2023-06-20, 17:50:10](https://news.ycombinator.com/item?id=36407781) - [Submarine missing near Titanic used a $30 Logitech gamepad for steering](https://arstechnica.com/gaming/2023/06/submarine-missing-near-titanic-used-a-30-logitech-gamepad-for-steering/)
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
-* [2023-06-20, 17:16:36](https://news.ycombinator.com/item?id=36407272) - [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
-* [2023-06-20, 17:08:48](https://news.ycombinator.com/item?id=36407152) - [Things I wish I’d known before fulltime RVing (2017)](https://www.wheelingit.us/2011/09/22/10-things-i-wished-id-known-before-fulltime-rving/)
 * [2023-06-20, 16:07:32](https://news.ycombinator.com/item?id=36406139) - [RoboCat – A Self-Improving Robotic Agent](https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent)
+* [2023-06-20, 15:46:23](https://news.ycombinator.com/item?id=36405761) - [Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate)
 * [2023-06-20, 09:20:33](https://news.ycombinator.com/item?id=36401547) - [The world's largest \"radio\" station [pdf]](https://pages.hep.wisc.edu/~prepost/ELF.pdf)
 * [2023-06-20, 06:34:29](https://news.ycombinator.com/item?id=36400465) - [“Exit traps” can make your Bash scripts more robust and reliable (2013)](http://redsymbol.net/articles/bash-exit-traps/)
 
