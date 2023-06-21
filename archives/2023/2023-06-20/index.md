@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-20](index.md)
 
 * [2023-06-20, 23:39:10](https://news.ycombinator.com/item?id=36412300) - [How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
+* [2023-06-20, 23:26:51](https://news.ycombinator.com/item?id=36412191) - [ASU: The New American University](https://nadia.xyz/asu)
 * [2023-06-20, 23:19:21](https://news.ycombinator.com/item?id=36412105) - [Defer for Shell](https://cedwards.xyz/defer-for-shell/)
 * [2023-06-20, 23:15:21](https://news.ycombinator.com/item?id=36412072) - [I post when browser makers announce their intent to ship features in web engines](https://botsin.space/@intenttoship)
 * [2023-06-20, 22:21:11](https://news.ycombinator.com/item?id=36411519) - [My total comp for creating GitHub Copilot: +20k bonus and a title bump](https://twitter.com/alexgraveley/status/1671219402480418816)
