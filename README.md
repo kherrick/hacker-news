@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 20:38:22](https://news.ycombinator.com/item?id=36424069) - [Notice of Intent to Amend the Prescription Drug List: Vitamin D (2020)](https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html)
 * [2023-06-21, 20:06:14](https://news.ycombinator.com/item?id=36423648) - [Developer tools to create spatial experiences for Apple Vision Pro now availabl](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
 * [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21](https://go.dev/blog/go1.21rc)
 * [2023-06-21, 20:02:23](https://news.ycombinator.com/item?id=36423590) - [A site to share LLMs APIs via Tor](https://www.neuroengine.ai/)
@@ -29,7 +30,6 @@
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [2023-06-21, 09:28:35](https://news.ycombinator.com/item?id=36416325) - [MyNOR – The yet minor computer. No CPU, no ALU, one NOR-gate is enough](http://www.mynor.org/)
 * [2023-06-20, 20:58:56](https://news.ycombinator.com/item?id=36410490) - [Stronger Magic: Harry Fainlight was an overshadowed Beat visionary](https://www.poetryfoundation.org/articles/160457/stronger-magic)
-* [2023-06-20, 17:15:48](https://news.ycombinator.com/item?id=36407259) - [Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
 
 ## [Archives](archives/index.md)
 
