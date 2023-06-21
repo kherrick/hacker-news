@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36414037"
     ],
     [
-      "React to LiveView for Performance",
+      "React to LiveView for Performance [audio]",
       "https://podcast.thinkingelixir.com/156"
     ]
   ],
@@ -71,12 +71,12 @@
   ],
   [
     [
-      "2023-06-21, 01:02:09",
-      "https://news.ycombinator.com/item?id=36412997"
+      "2023-06-21, 00:28:20",
+      "https://news.ycombinator.com/item?id=36412733"
     ],
     [
-      "Gergely Orosz: on the risk of Google shutting down Google Cloud Platform",
-      "https://twitter.com/GergelyOrosz/status/1670796482188910592"
+      "JetBrains Noria",
+      "https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36409489"
     ],
     [
-      "Emerging Architectures for LLM Applications",
+      "Emerging architectures for LLM applications",
       "https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/"
     ]
   ],
@@ -145,8 +145,18 @@
       "https://news.ycombinator.com/item?id=36409262"
     ],
     [
-      "A Bayesian View of Amazon Resellers",
+      "A Bayesian view of Amazon resellers (2011)",
       "https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 19:26:02",
+      "https://news.ycombinator.com/item?id=36409201"
+    ],
+    [
+      "Show HN: Autolabel, a Python library to label and enrich text data with LLMs",
+      "https://github.com/refuel-ai/autolabel"
     ]
   ],
   [
@@ -165,18 +175,8 @@
       "https://news.ycombinator.com/item?id=36408633"
     ],
     [
-      "Building a Slack alternative with Rust/Tauri",
+      "Building a Slack/Discord alternative with Tauri/Rust",
       "https://www.linen.dev/s/linen/t/12647025/building-a-slack-discord-alternative-with-tauri-rust"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 18:27:40",
-      "https://news.ycombinator.com/item?id=36408367"
-    ],
-    [
-      "Former US SEC attorney: 'Get out of crypto platforms now'",
-      "https://twitter.com/johnreedstark/status/1666780985189433347"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36401547"
     ],
     [
-      "The World's Largest \"Radio\" Station [pdf]",
+      "The world's largest \"radio\" station [pdf]",
       "https://pages.hep.wisc.edu/~prepost/ELF.pdf"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36400465"
     ],
     [
-      "“Exit traps” can make your Bash scripts more robust and reliable",
+      "“Exit traps” can make your Bash scripts more robust and reliable (2013)",
       "http://redsymbol.net/articles/bash-exit-traps/"
     ]
   ]
