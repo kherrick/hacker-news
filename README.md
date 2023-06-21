@@ -4,7 +4,7 @@
 * [2023-06-21, 17:47:34](https://news.ycombinator.com/item?id=36421874) - [Cloud seeding catching on amid Rocky Mountain drought](https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html)
 * [2023-06-21, 17:20:23](https://news.ycombinator.com/item?id=36421483) - [Ask HN: What is the morale like inside Reddit, as an employee?](https://news.ycombinator.com/item?id=36421483)
 * [2023-06-21, 17:19:47](https://news.ycombinator.com/item?id=36421473) - [Some were meant for C [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
-* [2023-06-21, 17:08:55](https://news.ycombinator.com/item?id=36421315) - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
+* [2023-06-21, 17:08:55](https://news.ycombinator.com/item?id=36421315) - [Maps distort how we see the world](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 * [2023-06-21, 17:01:29](https://news.ycombinator.com/item?id=36421194) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:18:35](https://news.ycombinator.com/item?id=36420502) - [What every programmer should know about memory [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
