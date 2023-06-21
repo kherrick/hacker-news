@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 15:09:07](https://news.ycombinator.com/item?id=36419461) - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+* [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 14:37:28](https://news.ycombinator.com/item?id=36419001) - [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 * [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
@@ -17,7 +19,6 @@
 * [2023-06-21, 12:27:35](https://news.ycombinator.com/item?id=36417597) - [Show HN: Kysely, a type-safe SQL query builder for TypeScript](https://kysely.dev/)
 * [2023-06-21, 12:26:08](https://news.ycombinator.com/item?id=36417585) - [We Have Discovered Spherules from the Path of the First Interstellar Meteor, IM1](https://avi-loeb.medium.com/we-have-discovered-spherules-from-the-path-of-the-first-recognized-interstellar-meteor-im1-d6cd94946b53)
 * [2023-06-21, 12:01:09](https://news.ycombinator.com/item?id=36417359) - [Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
-* [2023-06-21, 12:00:16](https://news.ycombinator.com/item?id=36417347) - [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
 * [2023-06-21, 11:46:10](https://news.ycombinator.com/item?id=36417252) - [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
 * [2023-06-21, 11:23:54](https://news.ycombinator.com/item?id=36417095) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
@@ -26,7 +27,6 @@
 * [2023-06-21, 07:33:33](https://news.ycombinator.com/item?id=36415528) - [Blue Ocean Strategy](https://fermatslibrary.com/s/blue-ocean-strategy)
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
-* [2023-06-21, 03:06:47](https://news.ycombinator.com/item?id=36413897) - [Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
 * [2023-06-21, 01:59:37](https://news.ycombinator.com/item?id=36413433) - [What to do if your house is overflowing with books](https://lithub.com/what-to-do-if-your-house-is-overflowing-with-books/)
 * [2023-06-21, 01:33:41](https://news.ycombinator.com/item?id=36413260) - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 * [2023-06-20, 17:15:48](https://news.ycombinator.com/item?id=36407259) - [Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)

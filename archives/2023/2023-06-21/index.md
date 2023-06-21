@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 15:09:07](https://news.ycombinator.com/item?id=36419461) - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+* [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 14:49:18](https://news.ycombinator.com/item?id=36419200) - [Justice Samuel Alito Took Luxury Fishing Vacation with GOP Billionaire](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
 * [2023-06-21, 14:37:28](https://news.ycombinator.com/item?id=36419001) - [Over 100k ChatGPT Account Credentials Made Available on the Dark Web](https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web)
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
