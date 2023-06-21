@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-21, 22:14:45](https://news.ycombinator.com/item?id=36425433) - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
+* [2023-06-21, 22:10:35](https://news.ycombinator.com/item?id=36425375) - [Giving LLM’s a <Backspace> Token](https://arxiv.org/abs/2306.05426)
 * [2023-06-21, 21:56:23](https://news.ycombinator.com/item?id=36425214) - [Functional Programming in Coq](https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html)
 * [2023-06-21, 21:38:36](https://news.ycombinator.com/item?id=36425006) - [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
 * [2023-06-21, 21:18:03](https://news.ycombinator.com/item?id=36424695) - [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
@@ -24,7 +25,6 @@
 * [2023-06-21, 15:03:29](https://news.ycombinator.com/item?id=36419389) - [How my children (n=2) acquired absolute pitch](https://furiouslyrotatingshapes.substack.com/p/how-my-children-n2-acquired-absolute)
 * [2023-06-21, 14:21:38](https://news.ycombinator.com/item?id=36418807) - [How RLHF Works](https://www.interconnects.ai/p/how-rlhf-works)
 * [2023-06-21, 13:03:19](https://news.ycombinator.com/item?id=36417932) - [Platinum Photography](https://whyisthisinteresting.substack.com/p/the-platinum-photography-edition)
-* [2023-06-21, 11:46:10](https://news.ycombinator.com/item?id=36417252) - [Humans aren’t mentally ready for an AI-saturated ‘post-truth world’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
 * [2023-06-21, 11:00:35](https://news.ycombinator.com/item?id=36416938) - [A case for toe socks](https://herman.bearblog.dev/a-case-for-toe-socks/)
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
 * [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
