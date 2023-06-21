@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 09:51:22](https://news.ycombinator.com/item?id=36416490) - [Ego and Math – 3B1B 2023 Stanford Math Department Commencement Speech [video]](https://www.youtube.com/watch?v=z7GVHB2wiyg)
 * [2023-06-21, 09:06:06](https://news.ycombinator.com/item?id=36416176) - [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
 * [2023-06-21, 09:00:33](https://news.ycombinator.com/item?id=36416131) - [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
 * [2023-06-21, 08:38:22](https://news.ycombinator.com/item?id=36415981) - [The Lesson of the Truman Show](https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/)
 * [2023-06-21, 08:18:48](https://news.ycombinator.com/item?id=36415839) - [Show HN: GitHub Stats Dashboard Powered by GraphQL API and GitHub Action](https://github.com/pingcap/ossinsight-lite)
+* [2023-06-21, 08:13:18](https://news.ycombinator.com/item?id=36415803) - [The man who tried to redeem the world with logic](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)
 * [2023-06-21, 08:04:52](https://news.ycombinator.com/item?id=36415745) - [You're doing two-factor authentication wrong](https://theorangeone.net/posts/youre-doing-2fa-wrong/)
 * [2023-06-21, 07:45:22](https://news.ycombinator.com/item?id=36415616) - [Having non-x86 machines makes your life harder](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NonX86MakesLifeHarder)
 * [2023-06-21, 06:33:33](https://news.ycombinator.com/item?id=36415124) - [I won't pay on your website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
