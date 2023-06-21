@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
 * [2023-06-21, 13:24:26](https://news.ycombinator.com/item?id=36418138) - [Company to pay fine after hiring fake priest to extract confessions of workers](https://www.cnn.com/2023/06/20/business/california-restaurant-fake-priest-fine/index.html)
 * [2023-06-21, 13:13:43](https://news.ycombinator.com/item?id=36418034) - [Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 * [2023-06-21, 13:07:42](https://news.ycombinator.com/item?id=36417968) - [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)

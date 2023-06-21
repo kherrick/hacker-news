@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
 * [2023-06-21, 13:24:26](https://news.ycombinator.com/item?id=36418138) - [Company to pay fine after hiring fake priest to extract confessions of workers](https://www.cnn.com/2023/06/20/business/california-restaurant-fake-priest-fine/index.html)
 * [2023-06-21, 13:13:43](https://news.ycombinator.com/item?id=36418034) - [Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
 * [2023-06-21, 13:07:42](https://news.ycombinator.com/item?id=36417968) - [NASA secures contract with Rocky Enterprise Linux](https://sam.gov/opp/2e0365ce1e3c4c179b50fb15573d68e4/view)
@@ -20,7 +21,6 @@
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)
 * [2023-06-21, 03:06:47](https://news.ycombinator.com/item?id=36413897) - [Fallen Flag Railroad Photos](https://www.rr-fallenflags.org/)
-* [2023-06-21, 02:48:17](https://news.ycombinator.com/item?id=36413768) - [Textbooks are all you need](https://arxiv.org/abs/2306.11644)
 * [2023-06-21, 01:38:35](https://news.ycombinator.com/item?id=36413296) - [GPT4 is 8 x 220B params = 1.7T params](https://twitter.com/swyx/status/1671272883379908608)
 * [2023-06-21, 01:33:41](https://news.ycombinator.com/item?id=36413260) - [A regular expression to check for prime numbers (2007)](https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/)
 * [2023-06-20, 23:39:10](https://news.ycombinator.com/item?id=36412300) - [How scientists are hacking the genetic code to give proteins new powers](https://www.nature.com/articles/d41586-023-01980-4)
