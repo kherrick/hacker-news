@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-21](index.md)
 
+* [2023-06-21, 14:14:11](https://news.ycombinator.com/item?id=36418713) - [FTC sues Amazon over ‘deceptive’ Prime sign-up and cancellation process](https://www.cnbc.com/2023/06/21/ftc-sues-amazon-over-deceptive-prime-sign-up-and-cancellation-process.html)
+* [2023-06-21, 14:08:18](https://news.ycombinator.com/item?id=36418648) - [Show HN: Image Upscaler AI](https://imageupscalerai.com/)
+* [2023-06-21, 13:36:29](https://news.ycombinator.com/item?id=36418275) - [12,000 Comments](https://shkspr.mobi/blog/2023/06/12000-comments/)
 * [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
 * [2023-06-21, 13:24:26](https://news.ycombinator.com/item?id=36418138) - [Company to pay fine after hiring fake priest to extract confessions of workers](https://www.cnn.com/2023/06/20/business/california-restaurant-fake-priest-fine/index.html)
 * [2023-06-21, 13:13:43](https://news.ycombinator.com/item?id=36418034) - [Top Mental Health and Prayer Apps Fail at Privacy, Security (2022)](https://foundation.mozilla.org/en/blog/top-mental-health-and-prayer-apps-fail-spectacularly-at-privacy-security/)
@@ -14,6 +17,7 @@
 * [2023-06-21, 12:43:53](https://news.ycombinator.com/item?id=36417738) - [Facebook almost acquired Waze, but we ended up with Google](https://post.news/@/noam/2RTRvTNNxSCQb3yNjqa0DPfr1Yk)
 * [2023-06-21, 12:39:42](https://news.ycombinator.com/item?id=36417699) - [Ask HN: Refusing all cookies, still targeted by ads. How?](https://news.ycombinator.com/item?id=36417699)
 * [2023-06-21, 12:30:30](https://news.ycombinator.com/item?id=36417628) - [The FCC wants to regulate broadband data caps again](https://www.theverge.com/2023/6/20/23767094/fcc-investigation-internet-data-caps-net-neutrality)
+* [2023-06-21, 12:27:35](https://news.ycombinator.com/item?id=36417597) - [Show HN: Kysely, a type-safe SQL query builder for TypeScript](https://kysely.dev/)
 * [2023-06-21, 12:12:18](https://news.ycombinator.com/item?id=36417460) - [Some Chinese Canadians embrace ‘white people food’ movement, others are baffled](https://www.theglobeandmail.com/life/food-and-wine/article-some-chinese-canadians-embrace-white-people-food-movement-others-are/)
 * [2023-06-21, 12:01:09](https://news.ycombinator.com/item?id=36417359) - [Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
 * [2023-06-21, 12:00:16](https://news.ycombinator.com/item?id=36417347) - [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
