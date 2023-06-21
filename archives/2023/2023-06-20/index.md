@@ -29,6 +29,7 @@
 * [2023-06-20, 17:30:50](https://news.ycombinator.com/item?id=36407477) - [Codespaces but open-source, client-only, and unopinionated](https://devpod.sh/)
 * [2023-06-20, 17:16:36](https://news.ycombinator.com/item?id=36407272) - [Comparing Adobe Firefly, Dalle-2, and OpenJourney](https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/)
 * [2023-06-20, 17:16:24](https://news.ycombinator.com/item?id=36407269) - [Petaflops to the People: From Personal Compute Cluster to Person of Compute](https://www.latent.space/p/geohot)
+* [2023-06-20, 17:15:48](https://news.ycombinator.com/item?id=36407259) - [Jamsocket: Back Ends for Realtime Apps](https://jamsocket.com/)
 * [2023-06-20, 17:14:32](https://news.ycombinator.com/item?id=36407245) - [Gitlab has introduced a five-user limit for free groups](https://docs.gitlab.com/ee/user/free_user_limit.html)
 * [2023-06-20, 17:12:59](https://news.ycombinator.com/item?id=36407218) - [Introduction to Defensive CSS](https://defensivecss.dev/articles/intro-defensive-css/)
 * [2023-06-20, 17:12:03](https://news.ycombinator.com/item?id=36407208) - [3 Men Convicted of Harassing Family on Behalf of China’s Government](https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html)
