@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 12:46:19](https://news.ycombinator.com/item?id=36431302) - [The hottest new perk in tech is freedom](https://www.vox.com/technology/2023/6/20/23762655/tech-perk-remote-work-freedom-airbnb-yelp)
 * [2023-06-22, 12:43:26](https://news.ycombinator.com/item?id=36431268) - [Biggest mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
 * [2023-06-22, 12:37:33](https://news.ycombinator.com/item?id=36431210) - [IRS confirms Stanford study of racial bias in audits](https://siepr.stanford.edu/news/irs-confirms-stanford-study-racial-bias-audits)
 * [2023-06-22, 12:32:36](https://news.ycombinator.com/item?id=36431154) - [Loops Across Space](https://www.gregegan.net/DIDICOSM/Loops/Loops.html)
