@@ -25,11 +25,11 @@
 * [2023-06-22, 12:43:26](https://news.ycombinator.com/item?id=36431268) - [Mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
 * [2023-06-22, 12:32:36](https://news.ycombinator.com/item?id=36431154) - [Loops Across Space](https://www.gregegan.net/DIDICOSM/Loops/Loops.html)
 * [2023-06-22, 12:19:44](https://news.ycombinator.com/item?id=36431004) - [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
-* [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord monetization: microtransaction stores and paid 'exclusive memes'](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-21, 20:29:47](https://news.ycombinator.com/item?id=36423955) - [Money is the megaphone of identity (2020)](https://moretothat.com/money/)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
 * [2023-06-21, 08:24:51](https://news.ycombinator.com/item?id=36415891) - [The Almost Romance Languages](https://dannybate.com/2022/11/21/the-almost-romance-languages/)
+* [2023-06-21, 07:32:11](https://news.ycombinator.com/item?id=36415518) - [A Few Scanning Tips](https://www.scantips.com/)
 
 ## [Archives](archives/index.md)
 

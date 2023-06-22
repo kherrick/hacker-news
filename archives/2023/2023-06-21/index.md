@@ -99,6 +99,7 @@
 * [2023-06-21, 08:04:52](https://news.ycombinator.com/item?id=36415745) - [You're doing two-factor authentication wrong](https://theorangeone.net/posts/youre-doing-2fa-wrong/)
 * [2023-06-21, 07:45:22](https://news.ycombinator.com/item?id=36415616) - [Having non-x86 machines makes your life harder](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NonX86MakesLifeHarder)
 * [2023-06-21, 07:33:33](https://news.ycombinator.com/item?id=36415528) - [Blue Ocean Strategy](https://fermatslibrary.com/s/blue-ocean-strategy)
+* [2023-06-21, 07:32:11](https://news.ycombinator.com/item?id=36415518) - [A Few Scanning Tips](https://www.scantips.com/)
 * [2023-06-21, 06:33:33](https://news.ycombinator.com/item?id=36415124) - [I won't pay on your website](https://github.com/juspay/hyperswitch/wiki/Why-I-won%27t-pay-on-your-website)
 * [2023-06-21, 06:10:55](https://news.ycombinator.com/item?id=36414998) - [Ask HN: Is it feasible to launch crowdfunding for a dog shelter in Central Asia?](https://news.ycombinator.com/item?id=36414998)
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
