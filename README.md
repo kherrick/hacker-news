@@ -8,7 +8,7 @@
 * [2023-06-22, 14:08:38](https://news.ycombinator.com/item?id=36432414) - [Warp is a modern, Rust-based terminal with AI built in](https://www.warp.dev/)
 * [2023-06-22, 14:05:03](https://news.ycombinator.com/item?id=36432369) - [Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
 * [2023-06-22, 13:59:07](https://news.ycombinator.com/item?id=36432279) - [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
-* [2023-06-22, 13:58:40](https://news.ycombinator.com/item?id=36432272) - [Svelte 4 Released](https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0)
+* [2023-06-22, 13:58:40](https://news.ycombinator.com/item?id=36432272) - [Svelte 4](https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0)
 * [2023-06-22, 13:55:52](https://news.ycombinator.com/item?id=36432225) - [The hustle never ends and I'm so over it](https://pratik.is/writing/essays/neverending-hustle)
 * [2023-06-22, 13:42:57](https://news.ycombinator.com/item?id=36432042) - [Turning Joe Rogan down was the right thing to do](https://www.vox.com/2023/6/22/23768539/rogan-rfk-hotez-debate-vaccine-deniers-better)
 * [2023-06-22, 13:33:27](https://news.ycombinator.com/item?id=36431917) - [Video Chess disassembled and commented](https://nanochess.org/video_chess.html)
