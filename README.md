@@ -19,7 +19,7 @@
 * [2023-06-22, 15:03:00](https://news.ycombinator.com/item?id=36433212) - [Writing prettier Haskell with Unicode syntax and Vim](https://alt-romes.github.io/posts/2023-06-21-haskell-unicode-syntax-vim.html)
 * [2023-06-22, 14:42:20](https://news.ycombinator.com/item?id=36432885) - [Last week's Let's Encrypt downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-22, 14:21:21](https://news.ycombinator.com/item?id=36432595) - [RSS Autodiscovery (2006)](https://www.rssboard.org/rss-autodiscovery)
-* [2023-06-22, 14:05:03](https://news.ycombinator.com/item?id=36432369) - [Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
+* [2023-06-22, 13:59:07](https://news.ycombinator.com/item?id=36432279) - [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
 * [2023-06-22, 13:58:40](https://news.ycombinator.com/item?id=36432272) - [Svelte 4](https://svelte.dev/blog/svelte-4)
 * [2023-06-22, 13:33:27](https://news.ycombinator.com/item?id=36431917) - [Video Chess disassembled and commented](https://nanochess.org/video_chess.html)
 * [2023-06-22, 13:26:54](https://news.ycombinator.com/item?id=36431826) - [VisionOS developer docs and Vision Pro SDK](https://developer.apple.com/documentation/visionOS)
