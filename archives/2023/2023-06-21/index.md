@@ -48,6 +48,7 @@
 * [2023-06-21, 15:13:55](https://news.ycombinator.com/item?id=36419550) - [An Introduction to NDVI: Agriculture's Most Used Remote Sensing Index](https://www.streambatch.io/knowledge/ndvi-from-first-principles)
 * [2023-06-21, 15:13:24](https://news.ycombinator.com/item?id=36419537) - [System Initiative: Second Wave DevOps](https://www.systeminit.com/blog-second-wave-devops/)
 * [2023-06-21, 15:09:07](https://news.ycombinator.com/item?id=36419461) - [Email proves Microsoft's Activision bid is designed to eliminate Playstation](https://www.axios.com/2023/06/20/exhibit-k-microsoft-activision)
+* [2023-06-21, 15:04:35](https://news.ycombinator.com/item?id=36419401) - [New lick of paint: Twentieth-century illustrators reimagined Victorian classics](https://www.the-tls.co.uk/articles/the-art-of-the-reprint-rosalind-parry-book-review-dinah-birch/)
 * [2023-06-21, 15:03:29](https://news.ycombinator.com/item?id=36419389) - [How My Children (N=2) Acquired Absolute Pitch](https://furiouslyrotatingshapes.substack.com/p/how-my-children-n2-acquired-absolute)
 * [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 14:49:18](https://news.ycombinator.com/item?id=36419200) - [Justice Samuel Alito Took Luxury Fishing Vacation with GOP Billionaire](https://www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court)
