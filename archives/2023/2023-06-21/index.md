@@ -102,6 +102,7 @@
 * [2023-06-21, 05:57:24](https://news.ycombinator.com/item?id=36414915) - [Moog sells its business to InMusic](https://ra.co/news/79174)
 * [2023-06-21, 05:51:11](https://news.ycombinator.com/item?id=36414867) - [Study drugs make people worse at problem solving, not better](https://www.economist.com/science-and-technology/2023/06/20/study-drugs-make-people-worse-at-problem-solving-not-better)
 * [2023-06-21, 05:45:52](https://news.ycombinator.com/item?id=36414826) - [Strong Solar Flare Erupts from Sun on Jun 20, 2023](https://blogs.nasa.gov/solarcycle25/2023/06/20/271/)
+* [2023-06-21, 05:24:09](https://news.ycombinator.com/item?id=36414683) - [Attested Audio with ZKP](https://ddkang.github.io/blog/2023/06/13/fighting/)
 * [2023-06-21, 04:55:09](https://news.ycombinator.com/item?id=36414538) - [50% on HumanEval with just 1.3B model](https://twitter.com/sytelus/status/1671333552204693504)
 * [2023-06-21, 04:52:03](https://news.ycombinator.com/item?id=36414521) - [One third of Canadians fine with prescribing assisted suicide for homelessness](https://nationalpost.com/news/canada/canada-maid-assisted-suicide-homeless)
 * [2023-06-21, 04:45:57](https://news.ycombinator.com/item?id=36414493) - [Linux Namespaces Are a Poor Man's Plan 9 Namespaces](https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 15:05:23](https://news.ycombinator.com/item?id=36433246) - [San Francisco fire chief fed up with robotaxis that mess with her firetrucks](https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next)
 * [2023-06-22, 14:32:06](https://news.ycombinator.com/item?id=36432743) - [Show HN: Launching Struct – Knowledge-Rich, AI-Powered Chat Platform](https://www.struct.ai/blog/launching-struct-chat-platform)
 * [2023-06-22, 14:23:57](https://news.ycombinator.com/item?id=36432637) - [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
 * [2023-06-22, 14:21:24](https://news.ycombinator.com/item?id=36432598) - [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
@@ -13,6 +14,7 @@
 * [2023-06-22, 14:08:38](https://news.ycombinator.com/item?id=36432414) - [Warp is a modern, Rust-based terminal with AI built in](https://www.warp.dev/)
 * [2023-06-22, 14:05:03](https://news.ycombinator.com/item?id=36432369) - [Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
 * [2023-06-22, 13:59:07](https://news.ycombinator.com/item?id=36432279) - [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
+* [2023-06-22, 13:58:40](https://news.ycombinator.com/item?id=36432272) - [Svelte 4](https://svelte.dev/blog/svelte-4)
 * [2023-06-22, 13:58:40](https://news.ycombinator.com/item?id=36432272) - [Svelte 4 Released](https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0)
 * [2023-06-22, 13:55:52](https://news.ycombinator.com/item?id=36432225) - [The hustle never ends and I'm so over it](https://pratik.is/writing/essays/neverending-hustle)
 * [2023-06-22, 13:49:55](https://news.ycombinator.com/item?id=36432145) - [Camera review site DPReview finds a buyer, avoids shutdown by Amazon](https://arstechnica.com/gadgets/2023/06/camera-review-site-dpreview-finds-a-buyer-avoids-shutdown-by-amazon/)
