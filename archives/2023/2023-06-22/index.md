@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 16:41:45](https://news.ycombinator.com/item?id=36434885) - [Now Reddit are coming for the individual personal subreddits](https://toot.cat/@dredmorbius/110588848407336816)
 * [2023-06-22, 16:25:10](https://news.ycombinator.com/item?id=36434578) - [Intelligent people take longer to solve hard problems](https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/)
 * [2023-06-22, 16:15:25](https://news.ycombinator.com/item?id=36434441) - [USCG says ‘debris field’ discovered within search area for missing submersible](https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html)
 * [2023-06-22, 16:05:59](https://news.ycombinator.com/item?id=36434308) - [Deceptive example for malicious usage of .zip domain](https://fosstodon.org/@suprjami/110381691990708727)
@@ -15,6 +16,7 @@
 * [2023-06-22, 15:33:01](https://news.ycombinator.com/item?id=36433736) - [Reflections on Ten Years Past the Snowden Revelations](https://datatracker.ietf.org/doc/html/draft-farrell-tenyearsafter-00)
 * [2023-06-22, 15:06:13](https://news.ycombinator.com/item?id=36433262) - [How VSCode made bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 * [2023-06-22, 15:05:23](https://news.ycombinator.com/item?id=36433246) - [San Francisco fire chief fed up with robotaxis that mess with her firetrucks](https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next)
+* [2023-06-22, 15:03:00](https://news.ycombinator.com/item?id=36433212) - [Writing Prettier Haskell with Unicode Syntax and Vim](https://alt-romes.github.io/posts/2023-06-21-haskell-unicode-syntax-vim.html)
 * [2023-06-22, 14:42:20](https://news.ycombinator.com/item?id=36432885) - [Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-22, 14:32:06](https://news.ycombinator.com/item?id=36432743) - [Show HN: Launching Struct – Knowledge-Rich, AI-Powered Chat Platform](https://www.struct.ai/blog/launching-struct-chat-platform)
 * [2023-06-22, 14:23:57](https://news.ycombinator.com/item?id=36432637) - [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
@@ -34,6 +36,7 @@
 * [2023-06-22, 13:27:27](https://news.ycombinator.com/item?id=36431841) - [Cloudflare's VPN Warp Is Switching from WireGuard to Masque](https://blog.cloudflare.com/masque-building-a-new-protocol-into-cloudflare-warp/)
 * [2023-06-22, 13:26:54](https://news.ycombinator.com/item?id=36431826) - [VisionOS developer docs and Vision Pro SDK now available](https://developer.apple.com/documentation/visionOS)
 * [2023-06-22, 13:01:37](https://news.ycombinator.com/item?id=36431494) - [Arduino Joins Zephyr Project](https://zephyrproject.org/zephyr-project-welcomes-analog-devices-arduino-and-technology-innovation-institute-as-new-members/)
+* [2023-06-22, 13:01:36](https://news.ycombinator.com/item?id=36431493) - [Ancient Maya city discovered in Mexican jungle](https://www.reuters.com/world/americas/ancient-maya-city-discovered-mexican-jungle-2023-06-21/)
 * [2023-06-22, 12:46:19](https://news.ycombinator.com/item?id=36431302) - [The hottest new perk in tech is freedom](https://www.vox.com/technology/2023/6/20/23762655/tech-perk-remote-work-freedom-airbnb-yelp)
 * [2023-06-22, 12:43:26](https://news.ycombinator.com/item?id=36431268) - [Biggest mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
 * [2023-06-22, 12:37:33](https://news.ycombinator.com/item?id=36431210) - [IRS confirms Stanford study of racial bias in audits](https://siepr.stanford.edu/news/irs-confirms-stanford-study-racial-bias-audits)
