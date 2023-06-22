@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-06-22, 16:15:25",
+      "https://news.ycombinator.com/item?id=36434441"
+    ],
+    [
+      "USCG says ‘debris field’ discovered within search area for missing submersible",
+      "https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 16:05:59",
       "https://news.ycombinator.com/item?id=36434308"
     ],
@@ -27,16 +37,6 @@
     [
       "Generative AI Could Add $4.4T a Year to the Global Economy, McKinsey Finds",
       "https://singularityhub.com/2023/06/22/generative-ai-could-add-4-4-trillion-a-year-to-the-global-economy-mckinsey-finds/"
-    ]
-  ],
-  [
-    [
-      "2023-06-22, 15:57:11",
-      "https://news.ycombinator.com/item?id=36434173"
-    ],
-    [
-      "Debris field found in search for missing submersible",
-      "https://twitter.com/USCGNortheast/status/1671907901542211584"
     ]
   ],
   [
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36433262"
     ],
     [
-      "How VSCode made bracket pair colorization 10,000x faster",
+      "How VSCode made bracket pair colorization faster (2021)",
       "https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization"
     ]
   ],
