@@ -7,6 +7,7 @@
 * [2023-06-22, 10:54:17](https://news.ycombinator.com/item?id=36430272) - [Baby cried in his sleep and made movements as if he had a tablet in his hand](https://twitter.com/tansuyegen/status/1671497609377116160)
 * [2023-06-22, 10:30:09](https://news.ycombinator.com/item?id=36430105) - [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
 * [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
+* [2023-06-22, 10:10:10](https://news.ycombinator.com/item?id=36429986) - [Unexpected downsides of UUID keys in PostgreSQL](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/)
 * [2023-06-22, 08:01:38](https://news.ycombinator.com/item?id=36429253) - [Schumer launches ‘all hands on deck’ push to regulate AI](https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/)
 * [2023-06-22, 08:00:07](https://news.ycombinator.com/item?id=36429243) - [Google Threatens to Kill Open Source YouTube Front-End Invidious](https://tutanota.com/blog/google-youtube-invidious-privacy-alternative)
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
