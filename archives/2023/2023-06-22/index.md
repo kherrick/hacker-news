@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
 * [2023-06-22, 18:18:48](https://news.ycombinator.com/item?id=36436474) - [Notes on Text Editing: Why Modality and Chording?](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
 * [2023-06-22, 18:13:36](https://news.ycombinator.com/item?id=36436375) - [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
