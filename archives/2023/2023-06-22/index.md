@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
 * [2023-06-22, 08:01:38](https://news.ycombinator.com/item?id=36429253) - [Schumer launches ‘all hands on deck’ push to regulate AI](https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/)
 * [2023-06-22, 08:00:07](https://news.ycombinator.com/item?id=36429243) - [Google Threatens to Kill Open Source YouTube Front-End Invidious](https://tutanota.com/blog/google-youtube-invidious-privacy-alternative)
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
+* [2023-06-22, 06:51:51](https://news.ycombinator.com/item?id=36428797) - [Ask HN: I Think I Need a New Calendar App](https://news.ycombinator.com/item?id=36428797)
 * [2023-06-22, 05:13:43](https://news.ycombinator.com/item?id=36428220) - [Show HN: Why Google Analytics May Not Be the Best Option for Your Website (2023)](https://metricswave.com/blog/why-google-analytics-may-no-longer-be-enough-for-your-website-in-2023)
+* [2023-06-22, 04:51:30](https://news.ycombinator.com/item?id=36428121) - [OpenAI Lobbied the E.U. To Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
 * [2023-06-22, 03:54:19](https://news.ycombinator.com/item?id=36427849) - [How to Do the Thing You've Been Avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
