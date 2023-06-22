@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 19:06:45](https://news.ycombinator.com/item?id=36437120) - [Titan Submersible Suffered Catastrophic Failure: Debris Field Confirmed as Titan](https://www.independent.co.uk/news/world/americas/submarine-titantic-missing-submersible-tourists-latest-b2360568.html)
+* [2023-06-22, 18:39:53](https://news.ycombinator.com/item?id=36436786) - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
 * [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
 * [2023-06-22, 18:18:48](https://news.ycombinator.com/item?id=36436474) - [Notes on Text Editing: Why Modality and Chording?](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
 * [2023-06-22, 18:13:36](https://news.ycombinator.com/item?id=36436375) - [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)

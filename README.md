@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-22, 19:06:45](https://news.ycombinator.com/item?id=36437120) - [Titan Submersible Suffered Catastrophic Failure: Debris Field Confirmed as Titan](https://www.independent.co.uk/news/world/americas/submarine-titantic-missing-submersible-tourists-latest-b2360568.html)
+* [2023-06-22, 18:39:53](https://news.ycombinator.com/item?id=36436786) - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
 * [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
 * [2023-06-22, 18:13:36](https://news.ycombinator.com/item?id=36436375) - [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
@@ -10,7 +12,6 @@
 * [2023-06-22, 16:25:10](https://news.ycombinator.com/item?id=36434578) - [Intelligent people take longer to solve hard problems: study](https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/)
 * [2023-06-22, 15:57:11](https://news.ycombinator.com/item?id=36434173) - [Debris found came from missing Titan sub, says friend of passengers](https://www.bbc.com/news/live/world-us-canada-65967464)
 * [2023-06-22, 15:38:47](https://news.ycombinator.com/item?id=36433842) - [Revolt: FOSS Discord Alternative](https://revolt.chat/)
-* [2023-06-22, 15:06:13](https://news.ycombinator.com/item?id=36433262) - [How VSCode made bracket pair colorization faster (2021)](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 * [2023-06-22, 15:03:00](https://news.ycombinator.com/item?id=36433212) - [Writing prettier Haskell with Unicode syntax and Vim](https://alt-romes.github.io/posts/2023-06-21-haskell-unicode-syntax-vim.html)
 * [2023-06-22, 14:42:20](https://news.ycombinator.com/item?id=36432885) - [Last week's Let's Encrypt downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-22, 14:21:21](https://news.ycombinator.com/item?id=36432595) - [RSS Autodiscovery (2006)](https://www.rssboard.org/rss-autodiscovery)
@@ -29,7 +30,6 @@
 * [2023-06-21, 20:29:47](https://news.ycombinator.com/item?id=36423955) - [Money is the megaphone of identity (2020)](https://moretothat.com/money/)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
 * [2023-06-21, 08:24:51](https://news.ycombinator.com/item?id=36415891) - [The Almost Romance Languages](https://dannybate.com/2022/11/21/the-almost-romance-languages/)
-* [2023-06-20, 11:09:15](https://news.ycombinator.com/item?id=36402341) - [Nigerian engineering students’ favorite teachers are Indian YouTubers](https://restofworld.org/2023/nigerian-engineering-students-indian-youtubers/)
 
 ## [Archives](archives/index.md)
 
