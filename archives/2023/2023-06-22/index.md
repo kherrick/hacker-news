@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 14:23:57](https://news.ycombinator.com/item?id=36432637) - [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
 * [2023-06-22, 14:21:24](https://news.ycombinator.com/item?id=36432598) - [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
+* [2023-06-22, 14:21:13](https://news.ycombinator.com/item?id=36432591) - [Sunken boat killing hundreds overshadowed by Titan submersible coverage](https://www.nbcnews.com/news/world/syria-migrants-boat-sinking-titanic-submersive-missing-rcna90336)
 * [2023-06-22, 14:05:03](https://news.ycombinator.com/item?id=36432369) - [Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
 * [2023-06-22, 13:59:07](https://news.ycombinator.com/item?id=36432279) - [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
 * [2023-06-22, 13:55:52](https://news.ycombinator.com/item?id=36432225) - [The hustle never ends and I'm so over it](https://pratik.is/writing/essays/neverending-hustle)
 * [2023-06-22, 13:49:55](https://news.ycombinator.com/item?id=36432145) - [Camera review site DPReview finds a buyer, avoids shutdown by Amazon](https://arstechnica.com/gadgets/2023/06/camera-review-site-dpreview-finds-a-buyer-avoids-shutdown-by-amazon/)
 * [2023-06-22, 13:33:27](https://news.ycombinator.com/item?id=36431917) - [Atari 2600 Video Chess disassembled and commented at last](https://nanochess.org/video_chess.html)
+* [2023-06-22, 13:26:54](https://news.ycombinator.com/item?id=36431826) - [VisionOS developer docs and Vision Pro SDK now available](https://developer.apple.com/documentation/visionOS)
 * [2023-06-22, 12:46:19](https://news.ycombinator.com/item?id=36431302) - [The hottest new perk in tech is freedom](https://www.vox.com/technology/2023/6/20/23762655/tech-perk-remote-work-freedom-airbnb-yelp)
 * [2023-06-22, 12:43:26](https://news.ycombinator.com/item?id=36431268) - [Biggest mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
 * [2023-06-22, 12:37:33](https://news.ycombinator.com/item?id=36431210) - [IRS confirms Stanford study of racial bias in audits](https://siepr.stanford.edu/news/irs-confirms-stanford-study-racial-bias-audits)
