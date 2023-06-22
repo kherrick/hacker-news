@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 12:00:14](https://news.ycombinator.com/item?id=36430796) - [UpCodes (YC S17) is doubling engineering and hiring other roles too](https://up.codes/careers)
+* [2023-06-22, 11:57:39](https://news.ycombinator.com/item?id=36430767) - [Googling 'abortion clinic near me'? The top result often an anti-abortion clinic](https://www.npr.org/2023/06/22/1182865322/google-abortion-clinic-search-results-anti-abortion)
+* [2023-06-22, 11:00:57](https://news.ycombinator.com/item?id=36430320) - [Different Scripts Descended from Egyptian Hieroglyphs, by Starkey Comics](https://www.thearchaeologist.org/blog/the-abcd-family-tree-by-starkey-comics)
 * [2023-06-22, 10:55:52](https://news.ycombinator.com/item?id=36430280) - [Google's reCAPTCHA likely illegal in Europe?](https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr)
 * [2023-06-22, 10:54:17](https://news.ycombinator.com/item?id=36430272) - [Baby cried in his sleep and made movements as if he had a tablet in his hand](https://twitter.com/tansuyegen/status/1671497609377116160)
 * [2023-06-22, 10:39:45](https://news.ycombinator.com/item?id=36430172) - [Apple Vision Pro – Why It May Be Lousy for Watching Movies on a Plane](https://kguttag.com/2023/06/21/apple-vision-pro-part-3-why-it-may-be-lousy-for-watching-movies-on-a-plane/)
