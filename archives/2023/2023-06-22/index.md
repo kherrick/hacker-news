@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
 * [2023-06-22, 08:01:38](https://news.ycombinator.com/item?id=36429253) - [Schumer launches ‘all hands on deck’ push to regulate AI](https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/)
+* [2023-06-22, 08:00:07](https://news.ycombinator.com/item?id=36429243) - [Google Threatens to Kill Open Source YouTube Front-End Invidious](https://tutanota.com/blog/google-youtube-invidious-privacy-alternative)
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
 * [2023-06-22, 05:13:43](https://news.ycombinator.com/item?id=36428220) - [Show HN: Why Google Analytics May Not Be the Best Option for Your Website (2023)](https://metricswave.com/blog/why-google-analytics-may-no-longer-be-enough-for-your-website-in-2023)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
