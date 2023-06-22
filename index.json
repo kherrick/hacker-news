@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-22, 15:05:23",
+      "https://news.ycombinator.com/item?id=36433246"
+    ],
+    [
+      "San Francisco fire chief fed up with robotaxis that mess with her firetrucks",
+      "https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 14:32:06",
       "https://news.ycombinator.com/item?id=36432743"
     ],
@@ -41,16 +51,6 @@
   ],
   [
     [
-      "2023-06-22, 14:11:03",
-      "https://news.ycombinator.com/item?id=36432447"
-    ],
-    [
-      "Svelte 4",
-      "https://svelte.dev/blog/svelte-4"
-    ]
-  ],
-  [
-    [
       "2023-06-22, 14:08:38",
       "https://news.ycombinator.com/item?id=36432414"
     ],
@@ -86,7 +86,7 @@
     ],
     [
       "Svelte 4",
-      "https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0"
+      "https://svelte.dev/blog/svelte-4"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "The hustle never ends and I'm so over it",
       "https://pratik.is/writing/essays/neverending-hustle"
-    ]
-  ],
-  [
-    [
-      "2023-06-22, 13:42:57",
-      "https://news.ycombinator.com/item?id=36432042"
-    ],
-    [
-      "Turning Joe Rogan down was the right thing to do",
-      "https://www.vox.com/2023/6/22/23768539/rogan-rfk-hotez-debate-vaccine-deniers-better"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Brains on Drugs: How tinkering with consciousness became a societal sin",
       "https://thebaffler.com/latest/brains-on-drugs-semley"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 05:24:09",
+      "https://news.ycombinator.com/item?id=36414683"
+    ],
+    [
+      "Attested Audio with ZKP",
+      "https://ddkang.github.io/blog/2023/06/13/fighting/"
     ]
   ]
 ]
