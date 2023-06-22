@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-22, 02:33:56](https://news.ycombinator.com/item?id=36427374) - [Science and Statistics (1976) [pdf]](https://www-sop.inria.fr/members/Ian.Jermyn/philosophy/writings/Boxonmaths.pdf)
 * [2023-06-22, 02:22:24](https://news.ycombinator.com/item?id=36427299) - [1Password rolling out “privacy-preserving” telemetry system](https://blog.1password.com/telemetry-system-roll-out/)
 * [2023-06-22, 02:16:51](https://news.ycombinator.com/item?id=36427267) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-06-21, 23:35:09](https://news.ycombinator.com/item?id=36426239) - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
@@ -11,7 +12,6 @@
 * [2023-06-21, 21:38:36](https://news.ycombinator.com/item?id=36425006) - [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
 * [2023-06-21, 20:50:48](https://news.ycombinator.com/item?id=36424256) - [Why Kakoune – The quest for a better code editor (2016)](https://kakoune.org/why-kakoune/why-kakoune.html)
 * [2023-06-21, 20:39:57](https://news.ycombinator.com/item?id=36424090) - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
-* [2023-06-21, 20:04:15](https://news.ycombinator.com/item?id=36423622) - [Go 1.21 Release Candidate](https://go.dev/blog/go1.21rc)
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 * [2023-06-21, 18:54:09](https://news.ycombinator.com/item?id=36422730) - [Show HN: gpt-engineer – platform for devs to tinker with AI programming tools](https://news.ycombinator.com/item?id=36422730)
 * [2023-06-21, 18:10:38](https://news.ycombinator.com/item?id=36422116) - [Object-oriented Programming with ANSI-C (1993) [pdf]](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf)
