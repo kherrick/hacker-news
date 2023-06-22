@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
-* [2023-06-22, 05:13:43](https://news.ycombinator.com/item?id=36428220) - [Show HN: Why Google Analytics May Not Be the Best Option for Your Website (2023)](https://metricswave.com/blog/why-google-analytics-may-no-longer-be-enough-for-your-website-in-2023)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
 * [2023-06-22, 03:54:19](https://news.ycombinator.com/item?id=36427849) - [How to do the thing you've been avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
@@ -22,6 +21,7 @@
 * [2023-06-21, 17:08:55](https://news.ycombinator.com/item?id=36421315) - [Maps distort how we see the world](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:18:35](https://news.ycombinator.com/item?id=36420502) - [What every programmer should know about memory (2007) [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [2023-06-21, 15:04:35](https://news.ycombinator.com/item?id=36419401) - [New lick of paint: Twentieth-century illustrators reimagined Victorian classics](https://www.the-tls.co.uk/articles/the-art-of-the-reprint-rosalind-parry-book-review-dinah-birch/)
 * [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 11:21:51](https://news.ycombinator.com/item?id=36417075) - [Reading Log for Effective C: An Introduction to Professional C Programming](https://yongjie.codes/reading-logs/effective-c/)
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
