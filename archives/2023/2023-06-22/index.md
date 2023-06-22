@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 05:13:43](https://news.ycombinator.com/item?id=36428220) - [Show HN: Why Google Analytics May Not Be the Best Option for Your Website (2023)](https://metricswave.com/blog/why-google-analytics-may-no-longer-be-enough-for-your-website-in-2023)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
 * [2023-06-22, 03:54:19](https://news.ycombinator.com/item?id=36427849) - [How to Do the Thing You've Been Avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
