@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-22, 08:01:38](https://news.ycombinator.com/item?id=36429253) - [Schumer launches ‘all hands on deck’ push to regulate AI](https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/)
-* [2023-06-22, 08:00:07](https://news.ycombinator.com/item?id=36429243) - [Google Threatens to Kill Open Source YouTube Front-End Invidious](https://tutanota.com/blog/google-youtube-invidious-privacy-alternative)
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
@@ -14,6 +13,7 @@
 * [2023-06-21, 23:24:25](https://news.ycombinator.com/item?id=36426136) - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
 * [2023-06-21, 22:57:14](https://news.ycombinator.com/item?id=36425858) - [Ruby Hacking Guide (2004)](https://ruby-hacking-guide.github.io)
 * [2023-06-21, 22:14:45](https://news.ycombinator.com/item?id=36425433) - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
+* [2023-06-21, 21:41:49](https://news.ycombinator.com/item?id=36425038) - [Show HN: Dependency Hell (Short Story)](https://github.com/jaronilan/stories/blob/main/dependency-hell.md)
 * [2023-06-21, 20:50:48](https://news.ycombinator.com/item?id=36424256) - [Why Kakoune – The quest for a better code editor (2016)](https://kakoune.org/why-kakoune/why-kakoune.html)
 * [2023-06-21, 20:39:57](https://news.ycombinator.com/item?id=36424090) - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
 * [2023-06-21, 20:06:14](https://news.ycombinator.com/item?id=36423648) - [Developer tools to create spatial experiences for Apple Vision Pro](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
