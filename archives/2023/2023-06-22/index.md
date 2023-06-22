@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 10:55:52](https://news.ycombinator.com/item?id=36430280) - [Google's reCAPTCHA likely illegal in Europe?](https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr)
 * [2023-06-22, 10:54:17](https://news.ycombinator.com/item?id=36430272) - [Baby cried in his sleep and made movements as if he had a tablet in his hand](https://twitter.com/tansuyegen/status/1671497609377116160)
 * [2023-06-22, 10:39:45](https://news.ycombinator.com/item?id=36430172) - [Apple Vision Pro – Why It May Be Lousy for Watching Movies on a Plane](https://kguttag.com/2023/06/21/apple-vision-pro-part-3-why-it-may-be-lousy-for-watching-movies-on-a-plane/)
 * [2023-06-22, 10:30:09](https://news.ycombinator.com/item?id=36430105) - [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
+* [2023-06-22, 10:29:18](https://news.ycombinator.com/item?id=36430098) - [Spotify’s podcast plan went off the rails](https://www.theverge.com/23768886/spotify-podcast-strategy-mistakes-joe-rogan-exclusives-trevor-noah)
 * [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
 * [2023-06-22, 10:10:10](https://news.ycombinator.com/item?id=36429986) - [Unexpected downsides of UUID keys in PostgreSQL](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/)
 * [2023-06-22, 08:01:38](https://news.ycombinator.com/item?id=36429253) - [Schumer launches ‘all hands on deck’ push to regulate AI](https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/)
