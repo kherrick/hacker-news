@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-22, 19:17:36](https://news.ycombinator.com/item?id=36437271) - [Oceangate Statement, “We now believe that [all crew] have sadly been lost.”](https://twitter.com/GioBenitez/status/1671954007261151237)
-* [2023-06-22, 19:06:45](https://news.ycombinator.com/item?id=36437120) - [Titan Submersible Suffered Catastrophic Failure: Debris Field Confirmed as Titan](https://www.independent.co.uk/news/world/americas/submarine-titantic-missing-submersible-tourists-latest-b2360568.html)
 * [2023-06-22, 18:50:35](https://news.ycombinator.com/item?id=36436931) - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
 * [2023-06-22, 18:39:53](https://news.ycombinator.com/item?id=36436786) - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
 * [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
@@ -26,6 +25,7 @@
 * [2023-06-22, 12:43:26](https://news.ycombinator.com/item?id=36431268) - [Mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
 * [2023-06-22, 12:32:36](https://news.ycombinator.com/item?id=36431154) - [Loops Across Space](https://www.gregegan.net/DIDICOSM/Loops/Loops.html)
 * [2023-06-22, 12:19:44](https://news.ycombinator.com/item?id=36431004) - [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
+* [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord monetization: microtransaction stores and paid 'exclusive memes'](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-21, 20:29:47](https://news.ycombinator.com/item?id=36423955) - [Money is the megaphone of identity (2020)](https://moretothat.com/money/)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
