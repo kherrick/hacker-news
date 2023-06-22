@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 18:18:48](https://news.ycombinator.com/item?id=36436474) - [Notes on Text Editing: Why Modality and Chording?](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
+* [2023-06-22, 18:13:36](https://news.ycombinator.com/item?id=36436375) - [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
+* [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 * [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [NIST: Future Ultra-Precise Timing Links to Geosynchronous Satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
 * [2023-06-22, 17:21:06](https://news.ycombinator.com/item?id=36435559) - [Stability AI Launches Stable Diffusion XL 0.9](https://stability.ai/blog/sdxl-09-stable-diffusion)
 * [2023-06-22, 17:16:28](https://news.ycombinator.com/item?id=36435498) - [LexisNexis is selling your personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
@@ -17,6 +20,7 @@
 * [2023-06-22, 15:57:11](https://news.ycombinator.com/item?id=36434173) - [Debris field found in search for missing submersible](https://twitter.com/USCGNortheast/status/1671907901542211584)
 * [2023-06-22, 15:48:22](https://news.ycombinator.com/item?id=36434011) - ['Incredibly noticeable': alcohol ban cut family violence, crime in Alice Springs](https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say)
 * [2023-06-22, 15:43:27](https://news.ycombinator.com/item?id=36433927) - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
+* [2023-06-22, 15:38:47](https://news.ycombinator.com/item?id=36433842) - [Revolt: FOSS Discord Alternative](https://revolt.chat/)
 * [2023-06-22, 15:33:02](https://news.ycombinator.com/item?id=36433737) - [New record anomaly for North Atlantic sea surface temperatures](https://twitter.com/EliotJacobson/status/1671603838770626563)
 * [2023-06-22, 15:33:01](https://news.ycombinator.com/item?id=36433736) - [Reflections on Ten Years Past the Snowden Revelations](https://datatracker.ietf.org/doc/html/draft-farrell-tenyearsafter-00)
 * [2023-06-22, 15:06:13](https://news.ycombinator.com/item?id=36433262) - [How VSCode made bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
