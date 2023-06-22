@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-21, 23:35:09",
+      "https://news.ycombinator.com/item?id=36426239"
+    ],
+    [
+      "Amazon duped millions of consumers into enrolling in Prime, US FTC says",
+      "https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 23:24:25",
       "https://news.ycombinator.com/item?id=36426136"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36425858"
     ],
     [
-      "Ruby Hacking Guide",
+      "Ruby Hacking Guide (2004)",
       "https://ruby-hacking-guide.github.io"
     ]
   ],
@@ -51,32 +61,22 @@
   ],
   [
     [
+      "2023-06-21, 21:41:49",
+      "https://news.ycombinator.com/item?id=36425038"
+    ],
+    [
+      "Show HN: Dependency Hell (Short Story)",
+      "https://github.com/jaronilan/stories/blob/main/dependency-hell.md"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 21:38:36",
       "https://news.ycombinator.com/item?id=36425006"
     ],
     [
       "An app can transform smartphones into thermometers that accurately detect fevers",
       "https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 21:18:03",
-      "https://news.ycombinator.com/item?id=36424695"
-    ],
-    [
-      "Cosmic Harmonies: Sonifications from NASA Telescopes",
-      "https://chandra.si.edu/photo/2023/sonify7/"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 20:56:16",
-      "https://news.ycombinator.com/item?id=36424339"
-    ],
-    [
-      "Agile is people, the rest is commentary",
-      "https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Notice of Intent to Amend the Prescription Drug List: Vitamin D (2020)",
       "https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/notices-changes/notice-intent-vitamin-d.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 20:06:14",
-      "https://news.ycombinator.com/item?id=36423648"
-    ],
-    [
-      "Developer tools to create spatial experiences for Apple Vision Pro",
-      "https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/"
     ]
   ],
   [
@@ -167,26 +157,6 @@
     [
       "Object-oriented Programming with ANSI-C (1993) [pdf]",
       "https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 17:47:34",
-      "https://news.ycombinator.com/item?id=36421874"
-    ],
-    [
-      "Cloud seeding catching on amid Rocky Mountain drought",
-      "https://www.hjnews.com/tremonton/cloud-seeding-catching-on-amid-rocky-mountain-drought/article_b0e08aac-e2bf-11ed-8583-632389f0bdf3.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 17:19:47",
-      "https://news.ycombinator.com/item?id=36421473"
-    ],
-    [
-      "Some were meant for C [pdf]",
-      "https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf"
     ]
   ],
   [
@@ -261,6 +231,26 @@
   ],
   [
     [
+      "2023-06-21, 13:03:19",
+      "https://news.ycombinator.com/item?id=36417932"
+    ],
+    [
+      "Platinum Photography",
+      "https://whyisthisinteresting.substack.com/p/the-platinum-photography-edition"
+    ]
+  ],
+  [
+    [
+      "2023-06-21, 11:21:51",
+      "https://news.ycombinator.com/item?id=36417075"
+    ],
+    [
+      "Reading Log for Effective C: An Introduction to Professional C Programming",
+      "https://yongjie.codes/reading-logs/effective-c/"
+    ]
+  ],
+  [
+    [
       "2023-06-21, 11:00:35",
       "https://news.ycombinator.com/item?id=36416938"
     ],
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2023-06-21, 09:51:22",
-      "https://news.ycombinator.com/item?id=36416490"
+      "2023-06-21, 10:50:41",
+      "https://news.ycombinator.com/item?id=36416887"
     ],
     [
-      "Ego and Math [video]",
-      "https://www.youtube.com/watch?v=z7GVHB2wiyg"
+      "The art of refurbing old computers",
+      "https://www.theregister.com/2023/06/21/pc_officina_positive_trashware/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "MyNOR – The yet minor computer. No CPU, no ALU, one NOR-gate is enough",
       "http://www.mynor.org/"
+    ]
+  ],
+  [
+    [
+      "2023-06-20, 04:46:56",
+      "https://news.ycombinator.com/item?id=36399832"
+    ],
+    [
+      "Blowing up my compile times for dubious benefits",
+      "https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html"
     ]
   ]
 ]
