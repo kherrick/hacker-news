@@ -76,6 +76,7 @@
 * [2023-06-21, 12:01:09](https://news.ycombinator.com/item?id=36417359) - [Tesorio (YC S15) Is a Head of Marketing – join our 100% distributed team](https://www.tesorio.com/careers#job-openings)
 * [2023-06-21, 12:00:16](https://news.ycombinator.com/item?id=36417347) - [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
 * [2023-06-21, 11:46:10](https://news.ycombinator.com/item?id=36417252) - [Humans Aren’t Mentally Ready for an AI-Saturated ‘Post-Truth World’](https://www.wired.com/story/generative-ai-deepfakes-disinformation-psychology/)
+* [2023-06-21, 11:41:02](https://news.ycombinator.com/item?id=36417224) - [Bob Kahn on the Birth of “Inter-Networking”](https://spectrum.ieee.org/bob-kahn)
 * [2023-06-21, 11:23:54](https://news.ycombinator.com/item?id=36417095) - [Leaking secrets through caching with Bunny CDN](https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/)
 * [2023-06-21, 11:21:51](https://news.ycombinator.com/item?id=36417075) - [Reading Log for Effective C: An Introduction to Professional C Programming](https://yongjie.codes/reading-logs/effective-c/)
 * [2023-06-21, 11:00:35](https://news.ycombinator.com/item?id=36416938) - [A Case for Toe Socks](https://herman.bearblog.dev/a-case-for-toe-socks/)
