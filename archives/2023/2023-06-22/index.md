@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 16:25:10](https://news.ycombinator.com/item?id=36434578) - [Intelligent people take longer to solve hard problems](https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/)
 * [2023-06-22, 16:15:25](https://news.ycombinator.com/item?id=36434441) - [USCG says ‘debris field’ discovered within search area for missing submersible](https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html)
 * [2023-06-22, 16:05:59](https://news.ycombinator.com/item?id=36434308) - [Deceptive example for malicious usage of .zip domain](https://fosstodon.org/@suprjami/110381691990708727)
 * [2023-06-22, 15:58:02](https://news.ycombinator.com/item?id=36434185) - [Generative AI Could Add $4.4T a Year to the Global Economy, McKinsey Finds](https://singularityhub.com/2023/06/22/generative-ai-could-add-4-4-trillion-a-year-to-the-global-economy-mckinsey-finds/)
