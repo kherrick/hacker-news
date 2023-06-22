@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-22, 21:58:59](https://news.ycombinator.com/item?id=36439661) - [Top Secret U.S. Navy System Heard Titan Implosion Days Ago](https://www.wsj.com/articles/u-s-navy-detected-titan-sub-implosion-days-ago-6844cb12)
+* [2023-06-22, 20:54:38](https://news.ycombinator.com/item?id=36438831) - [eBPF Verification Is Untenable](https://twitter.com/tianyin_xu/status/1671857283263868930)
 * [2023-06-22, 20:39:26](https://news.ycombinator.com/item?id=36438620) - [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
 * [2023-06-22, 20:29:51](https://news.ycombinator.com/item?id=36438477) - [Ask HN: What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
 * [2023-06-22, 20:16:07](https://news.ycombinator.com/item?id=36438240) - [Clojure is a product design tool (2015)](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
-* [2023-06-22, 20:00:26](https://news.ycombinator.com/item?id=36437950) - [DeArrow – Solving clickbait on YouTube](https://dearrow.ajay.app/)
 * [2023-06-22, 19:16:18](https://news.ycombinator.com/item?id=36437254) - [SMS phishers harvested phone numbers, shipment data from UPS tracking tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
 * [2023-06-22, 18:50:35](https://news.ycombinator.com/item?id=36436931) - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
 * [2023-06-22, 18:39:53](https://news.ycombinator.com/item?id=36436786) - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
