@@ -71,6 +71,7 @@
 * [2023-06-20, 11:41:02](https://news.ycombinator.com/item?id=36402624) - [Return to Office Enters the Desperation Phase](https://www.nytimes.com/2023/06/20/business/return-to-office-remote-work.html)
 * [2023-06-20, 11:34:37](https://news.ycombinator.com/item?id=36402565) - [XEmacs 21.5.35 “kohlrabi” is released](https://www.xemacs.org/Releases/21.5.35.html)
 * [2023-06-20, 11:15:21](https://news.ycombinator.com/item?id=36402390) - [Compilers for the Future](https://adam-mcdaniel-blog.github.io/compilers-for-the-future/)
+* [2023-06-20, 11:09:15](https://news.ycombinator.com/item?id=36402341) - [Nigerian engineering students’ favorite teachers are Indian YouTubers](https://restofworld.org/2023/nigerian-engineering-students-indian-youtubers/)
 * [2023-06-20, 10:48:39](https://news.ycombinator.com/item?id=36402162) - [Introducing Mullvad Leta: a search engine used in the Mullvad Browser](https://mullvad.net/en/blog/2023/6/20/introducing-mullvad-leta-a-search-engine-used-in-the-mullvad-browser/)
 * [2023-06-20, 10:39:53](https://news.ycombinator.com/item?id=36402086) - [GPS alternative taps cosmic rays for underground or underwater navigation](https://newatlas.com/technology/gps-alternative-muon-cosmic-rays-underground-underwater-navigation/)
 * [2023-06-20, 10:37:55](https://news.ycombinator.com/item?id=36402076) - [The barely believable after-work activities of young people in 2002](https://slate.com/human-interest/2023/06/life-before-cell-phones-internet-after-work.html)

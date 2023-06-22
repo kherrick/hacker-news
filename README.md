@@ -1,17 +1,16 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-22, 16:15:25](https://news.ycombinator.com/item?id=36434441) - [USCG says ‘debris field’ discovered within search area for missing submersible](https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html)
 * [2023-06-22, 16:05:59](https://news.ycombinator.com/item?id=36434308) - [Deceptive example for malicious usage of .zip domain](https://fosstodon.org/@suprjami/110381691990708727)
 * [2023-06-22, 15:58:02](https://news.ycombinator.com/item?id=36434185) - [Generative AI Could Add $4.4T a Year to the Global Economy, McKinsey Finds](https://singularityhub.com/2023/06/22/generative-ai-could-add-4-4-trillion-a-year-to-the-global-economy-mckinsey-finds/)
 * [2023-06-22, 15:57:11](https://news.ycombinator.com/item?id=36434173) - [Debris field found in search for missing submersible](https://twitter.com/USCGNortheast/status/1671907901542211584)
 * [2023-06-22, 15:48:22](https://news.ycombinator.com/item?id=36434011) - ['Incredibly noticeable': alcohol ban cut family violence, crime in Alice Springs](https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say)
 * [2023-06-22, 15:43:27](https://news.ycombinator.com/item?id=36433927) - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
 * [2023-06-22, 15:33:02](https://news.ycombinator.com/item?id=36433737) - [New record anomaly for North Atlantic sea surface temperatures](https://twitter.com/EliotJacobson/status/1671603838770626563)
+* [2023-06-22, 15:33:01](https://news.ycombinator.com/item?id=36433736) - [Reflections on Ten Years Past the Snowden Revelations](https://datatracker.ietf.org/doc/html/draft-farrell-tenyearsafter-00)
 * [2023-06-22, 15:06:13](https://news.ycombinator.com/item?id=36433262) - [How VSCode made bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 * [2023-06-22, 15:05:23](https://news.ycombinator.com/item?id=36433246) - [San Francisco fire chief fed up with robotaxis that mess with her firetrucks](https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next)
 * [2023-06-22, 14:42:20](https://news.ycombinator.com/item?id=36432885) - [Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-22, 14:32:06](https://news.ycombinator.com/item?id=36432743) - [Show HN: Launching Struct – Knowledge-Rich, AI-Powered Chat Platform](https://www.struct.ai/blog/launching-struct-chat-platform)
-* [2023-06-22, 14:21:24](https://news.ycombinator.com/item?id=36432598) - [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
 * [2023-06-22, 14:21:21](https://news.ycombinator.com/item?id=36432595) - [RSS Autodiscovery (2006)](https://www.rssboard.org/rss-autodiscovery)
 * [2023-06-22, 14:05:03](https://news.ycombinator.com/item?id=36432369) - [Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
 * [2023-06-22, 13:59:07](https://news.ycombinator.com/item?id=36432279) - [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
@@ -30,6 +29,7 @@
 * [2023-06-22, 03:09:59](https://news.ycombinator.com/item?id=36427583) - [Thoughts on Svelte(Kit), one year and 3B requests later](https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/)
 * [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 05:24:09](https://news.ycombinator.com/item?id=36414683) - [Attested Audio with ZKP](https://ddkang.github.io/blog/2023/06/13/fighting/)
+* [2023-06-20, 11:09:15](https://news.ycombinator.com/item?id=36402341) - [Nigerian engineering students’ favorite teachers are Indian YouTubers](https://restofworld.org/2023/nigerian-engineering-students-indian-youtubers/)
 
 ## [Archives](archives/index.md)
 
