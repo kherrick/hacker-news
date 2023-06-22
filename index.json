@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-06-22, 14:11:03",
+      "https://news.ycombinator.com/item?id=36432447"
+    ],
+    [
+      "Svelte 4",
+      "https://svelte.dev/blog/svelte-4"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 14:08:38",
       "https://news.ycombinator.com/item?id=36432414"
     ],
@@ -71,12 +81,32 @@
   ],
   [
     [
+      "2023-06-22, 13:58:40",
+      "https://news.ycombinator.com/item?id=36432272"
+    ],
+    [
+      "Svelte 4 Released",
+      "https://github.com/sveltejs/svelte/releases/tag/svelte%404.0.0"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 13:55:52",
       "https://news.ycombinator.com/item?id=36432225"
     ],
     [
       "The hustle never ends and I'm so over it",
       "https://pratik.is/writing/essays/neverending-hustle"
+    ]
+  ],
+  [
+    [
+      "2023-06-22, 13:42:57",
+      "https://news.ycombinator.com/item?id=36432042"
+    ],
+    [
+      "Turning Joe Rogan down was the right thing to do",
+      "https://www.vox.com/2023/6/22/23768539/rogan-rfk-hotez-debate-vaccine-deniers-better"
     ]
   ],
   [
@@ -107,6 +137,16 @@
     [
       "VisionOS developer docs and Vision Pro SDK now available",
       "https://developer.apple.com/documentation/visionOS"
+    ]
+  ],
+  [
+    [
+      "2023-06-22, 13:01:37",
+      "https://news.ycombinator.com/item?id=36431494"
+    ],
+    [
+      "Arduino Joins Zephyr Project",
+      "https://zephyrproject.org/zephyr-project-welcomes-analog-devices-arduino-and-technology-innovation-institute-as-new-members/"
     ]
   ],
   [
@@ -157,16 +197,6 @@
     [
       "UpCodes (YC S17) is doubling engineering and hiring other roles too",
       "https://up.codes/careers"
-    ]
-  ],
-  [
-    [
-      "2023-06-22, 11:00:57",
-      "https://news.ycombinator.com/item?id=36430320"
-    ],
-    [
-      "Scripts descended from Egyptian hieroglyphs",
-      "https://www.thearchaeologist.org/blog/the-abcd-family-tree-by-starkey-comics"
     ]
   ],
   [
@@ -267,36 +297,6 @@
     [
       "Brains on Drugs: How tinkering with consciousness became a societal sin",
       "https://thebaffler.com/latest/brains-on-drugs-semley"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 08:24:51",
-      "https://news.ycombinator.com/item?id=36415891"
-    ],
-    [
-      "The Almost Romance Languages",
-      "https://dannybate.com/2022/11/21/the-almost-romance-languages/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 04:47:28",
-      "https://news.ycombinator.com/item?id=36399842"
-    ],
-    [
-      "Mass Support: Dutch architect saw the potential of industrialized building",
-      "https://placesjournal.org/article/reconsidering-housing-theorist-john-habraken/"
-    ]
-  ],
-  [
-    [
-      "2023-06-20, 04:46:56",
-      "https://news.ycombinator.com/item?id=36399832"
-    ],
-    [
-      "Blowing up my compile times for dubious benefits",
-      "https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html"
     ]
   ]
 ]
