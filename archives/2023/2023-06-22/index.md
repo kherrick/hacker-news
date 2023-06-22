@@ -20,6 +20,7 @@
 * [2023-06-22, 18:27:14](https://news.ycombinator.com/item?id=36436598) - [Do You Know How Much Your Computer Can Do in a Second?](https://computers-are-fast.github.io)
 * [2023-06-22, 18:18:48](https://news.ycombinator.com/item?id=36436474) - [Notes on Text Editing: Why Modality and Chording?](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
 * [2023-06-22, 18:13:36](https://news.ycombinator.com/item?id=36436375) - [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
+* [2023-06-22, 17:55:39](https://news.ycombinator.com/item?id=36436113) - [Microsoft uses Bitcoin as part of MSVC validation test suite](https://github.com/bitcoin/bitcoin/pull/27930)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 * [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [NIST: Future Ultra-Precise Timing Links to Geosynchronous Satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
 * [2023-06-22, 17:21:06](https://news.ycombinator.com/item?id=36435559) - [Stability AI Launches Stable Diffusion XL 0.9](https://stability.ai/blog/sdxl-09-stable-diffusion)
