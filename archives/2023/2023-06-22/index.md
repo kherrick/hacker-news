@@ -20,3 +20,4 @@
 * [2023-06-22, 02:19:54](https://news.ycombinator.com/item?id=36427282) - [The world’s most liveable cities in 2023](https://www.economist.com/graphic-detail/2023/06/21/the-worlds-most-liveable-cities-in-2023)
 * [2023-06-22, 02:16:51](https://news.ycombinator.com/item?id=36427267) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-06-22, 01:52:00](https://news.ycombinator.com/item?id=36427116) - [Security Advisory: Update encrypted USB drives and replace short passphrases](https://securedrop.org/news/security-advisory-update-encrypted-usb-drives-and-replace-short-passphrases/)
+* [2023-06-22, 00:54:03](https://news.ycombinator.com/item?id=36426793) - [Meta now officially outsources support to the legal system](https://imgur.com/a/PbKak2F)
