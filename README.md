@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-22, 03:54:19](https://news.ycombinator.com/item?id=36427849) - [How to Do the Thing You've Been Avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
+* [2023-06-22, 03:09:59](https://news.ycombinator.com/item?id=36427583) - [Thoughts on Svelte(Kit), one year and 3B requests later](https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/)
 * [2023-06-22, 02:33:56](https://news.ycombinator.com/item?id=36427374) - [Science and Statistics (1976) [pdf]](https://www-sop.inria.fr/members/Ian.Jermyn/philosophy/writings/Boxonmaths.pdf)
-* [2023-06-22, 02:19:54](https://news.ycombinator.com/item?id=36427282) - [The world’s most liveable cities in 2023](https://www.economist.com/graphic-detail/2023/06/21/the-worlds-most-liveable-cities-in-2023)
 * [2023-06-22, 02:16:51](https://news.ycombinator.com/item?id=36427267) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-06-21, 23:35:09](https://news.ycombinator.com/item?id=36426239) - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
 * [2023-06-21, 23:24:25](https://news.ycombinator.com/item?id=36426136) - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
