@@ -20,7 +20,6 @@
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:18:35](https://news.ycombinator.com/item?id=36420502) - [What every programmer should know about memory (2007) [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [2023-06-21, 15:25:20](https://news.ycombinator.com/item?id=36419739) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
-* [2023-06-21, 15:04:35](https://news.ycombinator.com/item?id=36419401) - [New lick of paint: Twentieth-century illustrators reimagined Victorian classics](https://www.the-tls.co.uk/articles/the-art-of-the-reprint-rosalind-parry-book-review-dinah-birch/)
 * [2023-06-21, 15:03:29](https://news.ycombinator.com/item?id=36419389) - [How my children (n=2) acquired absolute pitch](https://furiouslyrotatingshapes.substack.com/p/how-my-children-n2-acquired-absolute)
 * [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
 * [2023-06-21, 11:41:02](https://news.ycombinator.com/item?id=36417224) - [Bob Kahn on the Birth of “Inter-Networking”](https://spectrum.ieee.org/bob-kahn)
@@ -28,6 +27,7 @@
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
 * [2023-06-21, 10:50:41](https://news.ycombinator.com/item?id=36416887) - [The art of refurbing old computers](https://www.theregister.com/2023/06/21/pc_officina_positive_trashware/)
 * [2023-06-21, 09:28:35](https://news.ycombinator.com/item?id=36416325) - [MyNOR – The yet minor computer. No CPU, no ALU, one NOR-gate is enough](http://www.mynor.org/)
+* [2023-06-21, 08:24:51](https://news.ycombinator.com/item?id=36415891) - [The Almost Romance Languages](https://dannybate.com/2022/11/21/the-almost-romance-languages/)
 * [2023-06-20, 04:47:28](https://news.ycombinator.com/item?id=36399842) - [Mass Support: Dutch architect saw the potential of industrialized building](https://placesjournal.org/article/reconsidering-housing-theorist-john-habraken/)
 * [2023-06-20, 04:46:56](https://news.ycombinator.com/item?id=36399832) - [Blowing up my compile times for dubious benefits](https://claytonwramsey.github.io/2023/06/20/fiddler-const-magic.html)
 

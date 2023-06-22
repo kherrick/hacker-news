@@ -91,6 +91,7 @@
 * [2023-06-21, 09:06:06](https://news.ycombinator.com/item?id=36416176) - [See the pitch memo that raised €105M for four-week-old startup Mistral](https://sifted.eu/articles/pitch-deck-mistral)
 * [2023-06-21, 09:00:33](https://news.ycombinator.com/item?id=36416131) - [Apple could force a 111-year-old fruit company to change its Apple logo](https://www.androidauthority.com/apple-swiss-fruit-company-change-logo-3336622/)
 * [2023-06-21, 08:38:22](https://news.ycombinator.com/item?id=36415981) - [The Lesson of the Truman Show](https://www.theatlantic.com/culture/archive/2023/06/the-truman-show-25-years-later/674456/)
+* [2023-06-21, 08:24:51](https://news.ycombinator.com/item?id=36415891) - [The Almost Romance Languages](https://dannybate.com/2022/11/21/the-almost-romance-languages/)
 * [2023-06-21, 08:18:48](https://news.ycombinator.com/item?id=36415839) - [Show HN: GitHub Stats Dashboard Powered by GraphQL API and GitHub Action](https://github.com/pingcap/ossinsight-lite)
 * [2023-06-21, 08:13:18](https://news.ycombinator.com/item?id=36415803) - [The man who tried to redeem the world with logic](https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/)
 * [2023-06-21, 08:04:52](https://news.ycombinator.com/item?id=36415745) - [You're doing two-factor authentication wrong](https://theorangeone.net/posts/youre-doing-2fa-wrong/)
