@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-22, 20:39:26](https://news.ycombinator.com/item?id=36438620) - [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
+* [2023-06-22, 20:29:51](https://news.ycombinator.com/item?id=36438477) - [What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
 * [2023-06-22, 20:16:07](https://news.ycombinator.com/item?id=36438240) - [Clojure is a product design tool (2015)](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 * [2023-06-22, 20:00:26](https://news.ycombinator.com/item?id=36437950) - [DeArrow – Solving Clickbait on YouTube](https://dearrow.ajay.app/)
 * [2023-06-22, 19:16:18](https://news.ycombinator.com/item?id=36437254) - [SMS Phishers Harvested Phone Numbers, Shipment Data from Ups Tracking Tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
@@ -17,7 +19,6 @@
 * [2023-06-22, 14:42:20](https://news.ycombinator.com/item?id=36432885) - [Last week's Let's Encrypt downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-22, 14:21:21](https://news.ycombinator.com/item?id=36432595) - [RSS Autodiscovery (2006)](https://www.rssboard.org/rss-autodiscovery)
 * [2023-06-22, 14:05:03](https://news.ycombinator.com/item?id=36432369) - [Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
-* [2023-06-22, 13:59:07](https://news.ycombinator.com/item?id=36432279) - [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
 * [2023-06-22, 13:58:40](https://news.ycombinator.com/item?id=36432272) - [Svelte 4](https://svelte.dev/blog/svelte-4)
 * [2023-06-22, 13:33:27](https://news.ycombinator.com/item?id=36431917) - [Video Chess disassembled and commented](https://nanochess.org/video_chess.html)
 * [2023-06-22, 13:26:54](https://news.ycombinator.com/item?id=36431826) - [VisionOS developer docs and Vision Pro SDK](https://developer.apple.com/documentation/visionOS)
@@ -29,7 +30,6 @@
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy](https://bvisness.me/coroutines/)
 * [2023-06-21, 20:29:47](https://news.ycombinator.com/item?id=36423955) - [Money is the megaphone of identity (2020)](https://moretothat.com/money/)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
-* [2023-06-21, 07:32:11](https://news.ycombinator.com/item?id=36415518) - [A Few Scanning Tips](https://www.scantips.com/)
 
 ## [Archives](archives/index.md)
 
