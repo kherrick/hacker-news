@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36438240"
     ],
     [
-      "Clojure is a product design tool",
+      "Clojure is a product design tool (2015)",
       "https://precursorapp.com/blog/clojure-is-a-product-design-tool"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "DeArrow – Solving Clickbait on YouTube",
       "https://dearrow.ajay.app/"
+    ]
+  ],
+  [
+    [
+      "2023-06-22, 19:16:18",
+      "https://news.ycombinator.com/item?id=36437254"
+    ],
+    [
+      "SMS Phishers Harvested Phone Numbers, Shipment Data from Ups Tracking Tool",
+      "https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/"
     ]
   ],
   [
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-06-22, 18:13:36",
-      "https://news.ycombinator.com/item?id=36436375"
-    ],
-    [
-      "Impact of RHEL Changes to AlmaLinux",
-      "https://almalinux.org/blog/impact-of-rhel-changes/"
-    ]
-  ],
-  [
-    [
       "2023-06-22, 17:54:26",
       "https://news.ycombinator.com/item?id=36436088"
     ],
@@ -87,16 +87,6 @@
     [
       "Future ultra-precise timing links to geosynchronous satellites",
       "https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous"
-    ]
-  ],
-  [
-    [
-      "2023-06-22, 17:21:06",
-      "https://news.ycombinator.com/item?id=36435559"
-    ],
-    [
-      "Stability AI Launches Stable Diffusion XL 0.9",
-      "https://stability.ai/blog/sdxl-09-stable-diffusion"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering",
       "https://news.ycombinator.com/item?id=36431004"
+    ]
+  ],
+  [
+    [
+      "2023-06-22, 04:36:26",
+      "https://news.ycombinator.com/item?id=36428046"
+    ],
+    [
+      "French govt. says users of uBlock Origin, Signal etc. are potential terrorists",
+      "https://www.laquadrature.net/en/2023/06/05/criminalization-of-encryption-the-8-december-case/"
     ]
   ],
   [
