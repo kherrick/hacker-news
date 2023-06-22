@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 21:58:59](https://news.ycombinator.com/item?id=36439661) - [Top Secret U.S. Navy System Heard Titan Implosion Days Ago](https://www.wsj.com/articles/u-s-navy-detected-titan-sub-implosion-days-ago-6844cb12)
 * [2023-06-22, 20:39:26](https://news.ycombinator.com/item?id=36438620) - [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
 * [2023-06-22, 20:29:51](https://news.ycombinator.com/item?id=36438477) - [What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
 * [2023-06-22, 20:16:07](https://news.ycombinator.com/item?id=36438240) - [Clojure is a product design tool](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
