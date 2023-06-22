@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-22, 08:01:38](https://news.ycombinator.com/item?id=36429253) - [Schumer launches ‘all hands on deck’ push to regulate AI](https://www.washingtonpost.com/technology/2023/06/21/ai-regulation-us-senate-chuck-schumer/)
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
@@ -13,7 +12,7 @@
 * [2023-06-21, 23:24:25](https://news.ycombinator.com/item?id=36426136) - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
 * [2023-06-21, 22:57:14](https://news.ycombinator.com/item?id=36425858) - [Ruby Hacking Guide (2004)](https://ruby-hacking-guide.github.io)
 * [2023-06-21, 22:14:45](https://news.ycombinator.com/item?id=36425433) - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
-* [2023-06-21, 21:41:49](https://news.ycombinator.com/item?id=36425038) - [Show HN: Dependency Hell (Short Story)](https://github.com/jaronilan/stories/blob/main/dependency-hell.md)
+* [2023-06-21, 20:56:16](https://news.ycombinator.com/item?id=36424339) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-21, 20:50:48](https://news.ycombinator.com/item?id=36424256) - [Why Kakoune – The quest for a better code editor (2016)](https://kakoune.org/why-kakoune/why-kakoune.html)
 * [2023-06-21, 20:39:57](https://news.ycombinator.com/item?id=36424090) - [Harvard dishonesty expert accused of dishonesty](https://www.ft.com/content/a8c07365-f85d-47a0-98a4-b6f71da697ef)
 * [2023-06-21, 20:06:14](https://news.ycombinator.com/item?id=36423648) - [Developer tools to create spatial experiences for Apple Vision Pro](https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/)
@@ -23,6 +22,7 @@
 * [2023-06-21, 17:08:55](https://news.ycombinator.com/item?id=36421315) - [Maps distort how we see the world](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:18:35](https://news.ycombinator.com/item?id=36420502) - [What every programmer should know about memory (2007) [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+* [2023-06-21, 15:04:35](https://news.ycombinator.com/item?id=36419401) - [New lick of paint: Twentieth-century illustrators reimagined Victorian classics](https://www.the-tls.co.uk/articles/the-art-of-the-reprint-rosalind-parry-book-review-dinah-birch/)
 * [2023-06-21, 11:21:51](https://news.ycombinator.com/item?id=36417075) - [Reading Log for Effective C: An Introduction to Professional C Programming](https://yongjie.codes/reading-logs/effective-c/)
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
 * [2023-06-21, 10:50:41](https://news.ycombinator.com/item?id=36416887) - [The art of refurbing old computers](https://www.theregister.com/2023/06/21/pc_officina_positive_trashware/)
