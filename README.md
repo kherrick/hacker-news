@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
 * [2023-06-22, 05:13:43](https://news.ycombinator.com/item?id=36428220) - [Show HN: Why Google Analytics May Not Be the Best Option for Your Website (2023)](https://metricswave.com/blog/why-google-analytics-may-no-longer-be-enough-for-your-website-in-2023)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
@@ -9,7 +10,6 @@
 * [2023-06-22, 02:19:54](https://news.ycombinator.com/item?id=36427282) - [The world’s most liveable cities in 2023](https://www.economist.com/graphic-detail/2023/06/21/the-worlds-most-liveable-cities-in-2023)
 * [2023-06-22, 02:16:51](https://news.ycombinator.com/item?id=36427267) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-06-22, 01:52:00](https://news.ycombinator.com/item?id=36427116) - [Security Advisory: Update encrypted USB drives and replace short passphrases](https://securedrop.org/news/security-advisory-update-encrypted-usb-drives-and-replace-short-passphrases/)
-* [2023-06-21, 23:35:09](https://news.ycombinator.com/item?id=36426239) - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
 * [2023-06-21, 23:24:25](https://news.ycombinator.com/item?id=36426136) - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
 * [2023-06-21, 22:57:14](https://news.ycombinator.com/item?id=36425858) - [Ruby Hacking Guide (2004)](https://ruby-hacking-guide.github.io)
 * [2023-06-21, 22:14:45](https://news.ycombinator.com/item?id=36425433) - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
