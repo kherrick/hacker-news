@@ -5,7 +5,7 @@
 * [2023-06-22, 16:15:25](https://news.ycombinator.com/item?id=36434441) - [USCG says ‘debris field’ discovered within search area for missing submersible](https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html)
 * [2023-06-22, 16:05:59](https://news.ycombinator.com/item?id=36434308) - [Deceptive example for malicious usage of .zip domain](https://fosstodon.org/@suprjami/110381691990708727)
 * [2023-06-22, 15:58:02](https://news.ycombinator.com/item?id=36434185) - [Generative AI Could Add $4.4T a Year to the Global Economy, McKinsey Finds](https://singularityhub.com/2023/06/22/generative-ai-could-add-4-4-trillion-a-year-to-the-global-economy-mckinsey-finds/)
-* [2023-06-22, 15:43:27](https://news.ycombinator.com/item?id=36433927) - [Military AI’s Next Frontier: Your Work Computer](https://www.wired.com/story/military-ais-next-frontier-your-work-computer/)
+* [2023-06-22, 15:57:11](https://news.ycombinator.com/item?id=36434173) - [Debris field found in search for missing submersible](https://twitter.com/USCGNortheast/status/1671907901542211584)
 * [2023-06-22, 15:06:13](https://news.ycombinator.com/item?id=36433262) - [How VSCode made bracket pair colorization faster (2021)](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 * [2023-06-22, 15:03:00](https://news.ycombinator.com/item?id=36433212) - [Writing Prettier Haskell with Unicode Syntax and Vim](https://alt-romes.github.io/posts/2023-06-21-haskell-unicode-syntax-vim.html)
 * [2023-06-22, 14:42:20](https://news.ycombinator.com/item?id=36432885) - [Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
@@ -28,7 +28,7 @@
 * [2023-06-22, 03:54:19](https://news.ycombinator.com/item?id=36427849) - [How to do the thing you've been avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
 * [2023-06-22, 03:09:59](https://news.ycombinator.com/item?id=36427583) - [Thoughts on Svelte(Kit), one year and 3B requests later](https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/)
 * [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
-* [2023-06-21, 05:24:09](https://news.ycombinator.com/item?id=36414683) - [Attested Audio with ZKP](https://ddkang.github.io/blog/2023/06/13/fighting/)
+* [2023-06-21, 08:24:51](https://news.ycombinator.com/item?id=36415891) - [The Almost Romance Languages](https://dannybate.com/2022/11/21/the-almost-romance-languages/)
 * [2023-06-20, 11:09:15](https://news.ycombinator.com/item?id=36402341) - [Nigerian engineering students’ favorite teachers are Indian YouTubers](https://restofworld.org/2023/nigerian-engineering-students-indian-youtubers/)
 
 ## [Archives](archives/index.md)
