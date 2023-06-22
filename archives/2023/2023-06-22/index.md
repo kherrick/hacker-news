@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 12:43:26](https://news.ycombinator.com/item?id=36431268) - [Biggest mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
+* [2023-06-22, 12:37:33](https://news.ycombinator.com/item?id=36431210) - [IRS confirms Stanford study of racial bias in audits](https://siepr.stanford.edu/news/irs-confirms-stanford-study-racial-bias-audits)
 * [2023-06-22, 12:32:36](https://news.ycombinator.com/item?id=36431154) - [Loops Across Space](https://www.gregegan.net/DIDICOSM/Loops/Loops.html)
+* [2023-06-22, 12:19:44](https://news.ycombinator.com/item?id=36431004) - [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
 * [2023-06-22, 12:00:14](https://news.ycombinator.com/item?id=36430796) - [UpCodes (YC S17) is doubling engineering and hiring other roles too](https://up.codes/careers)
 * [2023-06-22, 11:57:39](https://news.ycombinator.com/item?id=36430767) - [Googling 'abortion clinic near me'? The top result often an anti-abortion clinic](https://www.npr.org/2023/06/22/1182865322/google-abortion-clinic-search-results-anti-abortion)
 * [2023-06-22, 11:39:29](https://news.ycombinator.com/item?id=36430596) - [Bitcoin as a Nonviolent Tool Against State Financial Censorship](https://www.doria.fi/handle/10024/187407)
