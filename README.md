@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-22, 19:17:36](https://news.ycombinator.com/item?id=36437271) - [Oceangate Statement, “We now believe that [all crew] have sadly been lost.”](https://twitter.com/GioBenitez/status/1671954007261151237)
+* [2023-06-22, 20:16:07](https://news.ycombinator.com/item?id=36438240) - [Clojure is a product design tool](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
+* [2023-06-22, 20:00:26](https://news.ycombinator.com/item?id=36437950) - [DeArrow – Solving Clickbait on YouTube](https://dearrow.ajay.app/)
 * [2023-06-22, 18:50:35](https://news.ycombinator.com/item?id=36436931) - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
 * [2023-06-22, 18:39:53](https://news.ycombinator.com/item?id=36436786) - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
 * [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
@@ -8,7 +9,6 @@
 * [2023-06-22, 18:13:36](https://news.ycombinator.com/item?id=36436375) - [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 * [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [Future ultra-precise timing links to geosynchronous satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
-* [2023-06-22, 17:21:06](https://news.ycombinator.com/item?id=36435559) - [Stability AI Launches Stable Diffusion XL 0.9](https://stability.ai/blog/sdxl-09-stable-diffusion)
 * [2023-06-22, 17:16:28](https://news.ycombinator.com/item?id=36435498) - [LexisNexis is selling personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
 * [2023-06-22, 16:25:10](https://news.ycombinator.com/item?id=36434578) - [Intelligent people take longer to solve hard problems: study](https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/)
 * [2023-06-22, 15:57:11](https://news.ycombinator.com/item?id=36434173) - [Debris found came from missing Titan sub, says friend of passengers](https://www.bbc.com/news/live/world-us-canada-65967464)
