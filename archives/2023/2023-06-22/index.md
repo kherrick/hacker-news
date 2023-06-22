@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 15:48:22](https://news.ycombinator.com/item?id=36434011) - ['Incredibly noticeable': alcohol ban cut family violence, crime in Alice Springs](https://www.theguardian.com/australia-news/2023/jun/23/incredibly-noticeable-alcohol-bans-have-cut-family-violence-and-in-alice-springs-advocates-say)
 * [2023-06-22, 15:06:13](https://news.ycombinator.com/item?id=36433262) - [How VSCode made bracket pair colorization 10,000x faster](https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization)
 * [2023-06-22, 15:05:23](https://news.ycombinator.com/item?id=36433246) - [San Francisco fire chief fed up with robotaxis that mess with her firetrucks](https://www.latimes.com/business/story/2023-06-22/san-francisco-robotaxis-interfere-with-firetrucks-los-angeles-is-next)
+* [2023-06-22, 14:42:20](https://news.ycombinator.com/item?id=36432885) - [Last Week's Let's Encrypt Downtime](https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime)
 * [2023-06-22, 14:32:06](https://news.ycombinator.com/item?id=36432743) - [Show HN: Launching Struct – Knowledge-Rich, AI-Powered Chat Platform](https://www.struct.ai/blog/launching-struct-chat-platform)
 * [2023-06-22, 14:23:57](https://news.ycombinator.com/item?id=36432637) - [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
 * [2023-06-22, 14:21:24](https://news.ycombinator.com/item?id=36432598) - [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
