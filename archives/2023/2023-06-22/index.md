@@ -6,7 +6,9 @@
 
 * [2023-06-22, 14:23:57](https://news.ycombinator.com/item?id=36432637) - [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
 * [2023-06-22, 14:21:24](https://news.ycombinator.com/item?id=36432598) - [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
+* [2023-06-22, 14:21:21](https://news.ycombinator.com/item?id=36432595) - [RSS Autodiscovery (2006)](https://www.rssboard.org/rss-autodiscovery)
 * [2023-06-22, 14:21:13](https://news.ycombinator.com/item?id=36432591) - [Sunken boat killing hundreds overshadowed by Titan submersible coverage](https://www.nbcnews.com/news/world/syria-migrants-boat-sinking-titanic-submersive-missing-rcna90336)
+* [2023-06-22, 14:08:38](https://news.ycombinator.com/item?id=36432414) - [Warp is a modern, Rust-based terminal with AI built in](https://www.warp.dev/)
 * [2023-06-22, 14:05:03](https://news.ycombinator.com/item?id=36432369) - [Aeon: A unified framework for machine learning with time series](https://github.com/aeon-toolkit/aeon)
 * [2023-06-22, 13:59:07](https://news.ycombinator.com/item?id=36432279) - [People paid to train AI are outsourcing their work to AI](https://www.technologyreview.com/2023/06/22/1075405/the-people-paid-to-train-ai-are-outsourcing-their-work-to-ai/)
 * [2023-06-22, 13:55:52](https://news.ycombinator.com/item?id=36432225) - [The hustle never ends and I'm so over it](https://pratik.is/writing/essays/neverending-hustle)
