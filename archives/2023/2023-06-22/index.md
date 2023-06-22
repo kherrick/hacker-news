@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 17:16:28](https://news.ycombinator.com/item?id=36435498) - [LexisNexis is selling your personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
 * [2023-06-22, 16:41:45](https://news.ycombinator.com/item?id=36434885) - [Now Reddit are coming for the individual personal subreddits](https://toot.cat/@dredmorbius/110588848407336816)
 * [2023-06-22, 16:25:10](https://news.ycombinator.com/item?id=36434578) - [Intelligent people take longer to solve hard problems](https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/)
 * [2023-06-22, 16:15:25](https://news.ycombinator.com/item?id=36434441) - [USCG says ‘debris field’ discovered within search area for missing submersible](https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html)
