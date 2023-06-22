@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
+* [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
 * [2023-06-22, 03:54:19](https://news.ycombinator.com/item?id=36427849) - [How to do the thing you've been avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
 * [2023-06-22, 03:09:59](https://news.ycombinator.com/item?id=36427583) - [Thoughts on Svelte(Kit), one year and 3B requests later](https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/)
 * [2023-06-22, 02:33:56](https://news.ycombinator.com/item?id=36427374) - [Science and Statistics (1976) [pdf]](https://www-sop.inria.fr/members/Ian.Jermyn/philosophy/writings/Boxonmaths.pdf)
@@ -22,7 +23,6 @@
 * [2023-06-21, 15:25:20](https://news.ycombinator.com/item?id=36419739) - [Handles are the better pointers (2018)](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 * [2023-06-21, 15:04:35](https://news.ycombinator.com/item?id=36419401) - [New lick of paint: Twentieth-century illustrators reimagined Victorian classics](https://www.the-tls.co.uk/articles/the-art-of-the-reprint-rosalind-parry-book-review-dinah-birch/)
 * [2023-06-21, 15:00:34](https://news.ycombinator.com/item?id=36419352) - [Brains on Drugs: How tinkering with consciousness became a societal sin](https://thebaffler.com/latest/brains-on-drugs-semley)
-* [2023-06-21, 11:41:02](https://news.ycombinator.com/item?id=36417224) - [Bob Kahn on the Birth of “Inter-Networking”](https://spectrum.ieee.org/bob-kahn)
 * [2023-06-21, 11:21:51](https://news.ycombinator.com/item?id=36417075) - [Reading Log for Effective C: An Introduction to Professional C Programming](https://yongjie.codes/reading-logs/effective-c/)
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
 * [2023-06-21, 10:50:41](https://news.ycombinator.com/item?id=36416887) - [The art of refurbing old computers](https://www.theregister.com/2023/06/21/pc_officina_positive_trashware/)
