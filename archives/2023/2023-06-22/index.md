@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 17:21:06](https://news.ycombinator.com/item?id=36435559) - [Stability AI Launches Stable Diffusion XL 0.9](https://stability.ai/blog/sdxl-09-stable-diffusion)
 * [2023-06-22, 17:16:28](https://news.ycombinator.com/item?id=36435498) - [LexisNexis is selling your personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
+* [2023-06-22, 17:13:45](https://news.ycombinator.com/item?id=36435467) - [Why it's so hard to fix the information ecosystem](https://www.noahpinion.blog/p/why-its-so-hard-to-fix-the-information)
 * [2023-06-22, 16:41:45](https://news.ycombinator.com/item?id=36434885) - [Now Reddit are coming for the individual personal subreddits](https://toot.cat/@dredmorbius/110588848407336816)
+* [2023-06-22, 16:40:13](https://news.ycombinator.com/item?id=36434852) - [WebAssembly runtimes will replace container-based runtimes by 2030](https://changelog.com/posts/webassembly-runtimes-will-replace-container-runtimes-by-2030)
 * [2023-06-22, 16:25:10](https://news.ycombinator.com/item?id=36434578) - [Intelligent people take longer to solve hard problems](https://bigthink.com/neuropsych/intelligent-people-slower-solve-hard-problems/)
 * [2023-06-22, 16:15:25](https://news.ycombinator.com/item?id=36434441) - [USCG says ‘debris field’ discovered within search area for missing submersible](https://www.cnn.com/2023/06/22/us/submersible-titanic-oceangate-search-thursday/index.html)
 * [2023-06-22, 16:05:59](https://news.ycombinator.com/item?id=36434308) - [Deceptive example for malicious usage of .zip domain](https://fosstodon.org/@suprjami/110381691990708727)
