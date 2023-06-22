@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [NIST: Future Ultra-Precise Timing Links to Geosynchronous Satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
 * [2023-06-22, 17:21:06](https://news.ycombinator.com/item?id=36435559) - [Stability AI Launches Stable Diffusion XL 0.9](https://stability.ai/blog/sdxl-09-stable-diffusion)
 * [2023-06-22, 17:16:28](https://news.ycombinator.com/item?id=36435498) - [LexisNexis is selling your personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
 * [2023-06-22, 17:13:45](https://news.ycombinator.com/item?id=36435467) - [Why it's so hard to fix the information ecosystem](https://www.noahpinion.blog/p/why-its-so-hard-to-fix-the-information)

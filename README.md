@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [NIST: Future Ultra-Precise Timing Links to Geosynchronous Satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
 * [2023-06-22, 17:21:06](https://news.ycombinator.com/item?id=36435559) - [Stability AI Launches Stable Diffusion XL 0.9](https://stability.ai/blog/sdxl-09-stable-diffusion)
 * [2023-06-22, 17:16:28](https://news.ycombinator.com/item?id=36435498) - [LexisNexis is selling your personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
 * [2023-06-22, 17:13:45](https://news.ycombinator.com/item?id=36435467) - [Why it's so hard to fix the information ecosystem](https://www.noahpinion.blog/p/why-its-so-hard-to-fix-the-information)
@@ -24,7 +25,6 @@
 * [2023-06-22, 12:19:44](https://news.ycombinator.com/item?id=36431004) - [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
 * [2023-06-22, 12:00:14](https://news.ycombinator.com/item?id=36430796) - [UpCodes (YC S17) is doubling engineering and hiring other roles too](https://up.codes/careers)
 * [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
-* [2023-06-22, 10:10:10](https://news.ycombinator.com/item?id=36429986) - [Unexpected downsides of UUID keys in PostgreSQL](https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/)
 * [2023-06-22, 03:54:19](https://news.ycombinator.com/item?id=36427849) - [How to do the thing you've been avoiding](https://jasonfeifer.beehiiv.com/p/the-thing-that-seems-like-a-bad-idea-maybe-try-it)
 * [2023-06-22, 03:09:59](https://news.ycombinator.com/item?id=36427583) - [Thoughts on Svelte(Kit), one year and 3B requests later](https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/)
 * [2023-06-21, 20:29:47](https://news.ycombinator.com/item?id=36423955) - [Money Is the Megaphone of Identity (2020)](https://moretothat.com/money/)
