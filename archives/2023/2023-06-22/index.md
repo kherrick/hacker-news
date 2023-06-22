@@ -9,6 +9,7 @@
 * [2023-06-22, 18:50:35](https://news.ycombinator.com/item?id=36436931) - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
 * [2023-06-22, 18:39:53](https://news.ycombinator.com/item?id=36436786) - [Dear Red Hat: Are you dumb?](https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb)
 * [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
+* [2023-06-22, 18:27:14](https://news.ycombinator.com/item?id=36436598) - [Do You Know How Much Your Computer Can Do in a Second?](https://computers-are-fast.github.io)
 * [2023-06-22, 18:18:48](https://news.ycombinator.com/item?id=36436474) - [Notes on Text Editing: Why Modality and Chording?](https://github.com/noctuid/dotfiles/blob/master/emacs/editing.org)
 * [2023-06-22, 18:13:36](https://news.ycombinator.com/item?id=36436375) - [Impact of RHEL Changes to AlmaLinux](https://almalinux.org/blog/impact-of-rhel-changes/)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
