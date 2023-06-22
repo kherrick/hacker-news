@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 14:32:06](https://news.ycombinator.com/item?id=36432743) - [Show HN: Launching Struct – Knowledge-Rich, AI-Powered Chat Platform](https://www.struct.ai/blog/launching-struct-chat-platform)
 * [2023-06-22, 14:23:57](https://news.ycombinator.com/item?id=36432637) - [Roadmap to Vulkan for KDE window manager KWin](https://invent.kde.org/plasma/kwin/-/issues/169)
 * [2023-06-22, 14:21:24](https://news.ycombinator.com/item?id=36432598) - [Ask HN: How to Break into AI Engineering](https://news.ycombinator.com/item?id=36432598)
 * [2023-06-22, 14:21:21](https://news.ycombinator.com/item?id=36432595) - [RSS Autodiscovery (2006)](https://www.rssboard.org/rss-autodiscovery)
@@ -14,6 +15,7 @@
 * [2023-06-22, 13:55:52](https://news.ycombinator.com/item?id=36432225) - [The hustle never ends and I'm so over it](https://pratik.is/writing/essays/neverending-hustle)
 * [2023-06-22, 13:49:55](https://news.ycombinator.com/item?id=36432145) - [Camera review site DPReview finds a buyer, avoids shutdown by Amazon](https://arstechnica.com/gadgets/2023/06/camera-review-site-dpreview-finds-a-buyer-avoids-shutdown-by-amazon/)
 * [2023-06-22, 13:33:27](https://news.ycombinator.com/item?id=36431917) - [Atari 2600 Video Chess disassembled and commented at last](https://nanochess.org/video_chess.html)
+* [2023-06-22, 13:27:27](https://news.ycombinator.com/item?id=36431841) - [Cloudflare's VPN Warp Is Switching from WireGuard to Masque](https://blog.cloudflare.com/masque-building-a-new-protocol-into-cloudflare-warp/)
 * [2023-06-22, 13:26:54](https://news.ycombinator.com/item?id=36431826) - [VisionOS developer docs and Vision Pro SDK now available](https://developer.apple.com/documentation/visionOS)
 * [2023-06-22, 12:46:19](https://news.ycombinator.com/item?id=36431302) - [The hottest new perk in tech is freedom](https://www.vox.com/technology/2023/6/20/23762655/tech-perk-remote-work-freedom-airbnb-yelp)
 * [2023-06-22, 12:43:26](https://news.ycombinator.com/item?id=36431268) - [Biggest mistakes to avoid to build a better 1-person business](https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better)
