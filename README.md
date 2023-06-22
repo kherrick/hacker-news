@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-22, 21:31:03](https://news.ycombinator.com/item?id=36439311) - [Canadians will no longer have access to news content on Facebook and Instagram](https://www.cbc.ca/news/politics/online-news-act-meta-facebook-1.6885634)
+* [2023-06-22, 21:27:02](https://news.ycombinator.com/item?id=36439253) - [Rocky Linux Expresses Confidence Despite Red Hat's Announcement](https://rockylinux.org/news/2023-06-22-press-release/)
 * [2023-06-22, 20:54:38](https://news.ycombinator.com/item?id=36438831) - [eBPF Verification Is Untenable](https://twitter.com/tianyin_xu/status/1671857283263868930)
 * [2023-06-22, 20:39:26](https://news.ycombinator.com/item?id=36438620) - [My ranking of every Shakespeare play](https://nullprogram.com/blog/2023/06/22/)
 * [2023-06-22, 20:29:51](https://news.ycombinator.com/item?id=36438477) - [Ask HN: What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
@@ -9,7 +10,6 @@
 * [2023-06-22, 18:50:35](https://news.ycombinator.com/item?id=36436931) - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
 * [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
 * [2023-06-22, 18:27:14](https://news.ycombinator.com/item?id=36436598) - [Do you know how much your computer can do in a second? (2015)](https://computers-are-fast.github.io)
-* [2023-06-22, 17:55:39](https://news.ycombinator.com/item?id=36436113) - [Microsoft uses Bitcoin as part of MSVC validation test suite](https://github.com/bitcoin/bitcoin/pull/27930)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 * [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [Future ultra-precise timing links to geosynchronous satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
 * [2023-06-22, 17:16:28](https://news.ycombinator.com/item?id=36435498) - [LexisNexis is selling personal data to ICE so it can try to predict crimes](https://theintercept.com/2023/06/20/lexisnexis-ice-surveillance-license-plates/)
