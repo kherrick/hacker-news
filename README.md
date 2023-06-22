@@ -2,7 +2,6 @@
 
 * [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
-* [2023-06-22, 06:51:51](https://news.ycombinator.com/item?id=36428797) - [Ask HN: I Think I Need a New Calendar App](https://news.ycombinator.com/item?id=36428797)
 * [2023-06-22, 04:51:30](https://news.ycombinator.com/item?id=36428121) - [OpenAI Lobbied the E.U. To Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
 * [2023-06-22, 04:36:26](https://news.ycombinator.com/item?id=36428046) - [French govt. says users of uBlock Origin, Signal etc. are potential terrorists](https://www.laquadrature.net/2023/06/05/affaire-du-8-decembre-le-chiffrement-des-communications-assimile-a-un-comportement-terroriste/)
 * [2023-06-22, 04:35:31](https://news.ycombinator.com/item?id=36428044) - [Coroutines make robot code easy for high schoolers](https://bvisness.me/coroutines/)
@@ -23,6 +22,7 @@
 * [2023-06-21, 17:08:55](https://news.ycombinator.com/item?id=36421315) - [Maps distort how we see the world](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 15:04:35](https://news.ycombinator.com/item?id=36419401) - [New lick of paint: Twentieth-century illustrators reimagined Victorian classics](https://www.the-tls.co.uk/articles/the-art-of-the-reprint-rosalind-parry-book-review-dinah-birch/)
+* [2023-06-21, 11:41:02](https://news.ycombinator.com/item?id=36417224) - [Bob Kahn on the Birth of “Inter-Networking”](https://spectrum.ieee.org/bob-kahn)
 * [2023-06-21, 11:21:51](https://news.ycombinator.com/item?id=36417075) - [Reading Log for Effective C: An Introduction to Professional C Programming](https://yongjie.codes/reading-logs/effective-c/)
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
 * [2023-06-21, 10:50:41](https://news.ycombinator.com/item?id=36416887) - [The art of refurbing old computers](https://www.theregister.com/2023/06/21/pc_officina_positive_trashware/)
