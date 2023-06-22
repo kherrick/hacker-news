@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 12:32:36](https://news.ycombinator.com/item?id=36431154) - [Loops Across Space](https://www.gregegan.net/DIDICOSM/Loops/Loops.html)
 * [2023-06-22, 12:00:14](https://news.ycombinator.com/item?id=36430796) - [UpCodes (YC S17) is doubling engineering and hiring other roles too](https://up.codes/careers)
 * [2023-06-22, 11:57:39](https://news.ycombinator.com/item?id=36430767) - [Googling 'abortion clinic near me'? The top result often an anti-abortion clinic](https://www.npr.org/2023/06/22/1182865322/google-abortion-clinic-search-results-anti-abortion)
 * [2023-06-22, 11:00:57](https://news.ycombinator.com/item?id=36430320) - [Different Scripts Descended from Egyptian Hieroglyphs, by Starkey Comics](https://www.thearchaeologist.org/blog/the-abcd-family-tree-by-starkey-comics)
