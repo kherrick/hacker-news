@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-22, 10:54:17](https://news.ycombinator.com/item?id=36430272) - [Baby cried in his sleep and made movements as if he had a tablet in his hand](https://twitter.com/tansuyegen/status/1671497609377116160)
+* [2023-06-22, 10:30:09](https://news.ycombinator.com/item?id=36430105) - [GCC Adopts a Code of Conduct](https://www.phoronix.com/news/GCC-Code-of-Conduct)
 * [2023-06-22, 10:10:11](https://news.ycombinator.com/item?id=36429988) - [Discord is opening the monetization floodgates with microtransaction stores](https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/)
 * [2023-06-22, 07:01:12](https://news.ycombinator.com/item?id=36428859) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Senior Front End Dev](https://www.ycombinator.com/companies/signoz/jobs/OQNtxYk-senior-frontend-engineer-remote)
 * [2023-06-22, 04:51:30](https://news.ycombinator.com/item?id=36428121) - [OpenAI Lobbied the E.U. To Water Down AI Regulation](https://time.com/6288245/openai-eu-lobbying-ai-act/)
@@ -10,7 +12,6 @@
 * [2023-06-22, 02:33:56](https://news.ycombinator.com/item?id=36427374) - [Science and Statistics (1976) [pdf]](https://www-sop.inria.fr/members/Ian.Jermyn/philosophy/writings/Boxonmaths.pdf)
 * [2023-06-22, 02:16:51](https://news.ycombinator.com/item?id=36427267) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-06-22, 01:52:00](https://news.ycombinator.com/item?id=36427116) - [Security Advisory: Update encrypted USB drives and replace short passphrases](https://securedrop.org/news/security-advisory-update-encrypted-usb-drives-and-replace-short-passphrases/)
-* [2023-06-22, 00:54:03](https://news.ycombinator.com/item?id=36426793) - [Meta now officially outsources support to the legal system](https://imgur.com/a/PbKak2F)
 * [2023-06-21, 23:35:09](https://news.ycombinator.com/item?id=36426239) - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
 * [2023-06-21, 23:24:25](https://news.ycombinator.com/item?id=36426136) - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
 * [2023-06-21, 22:57:14](https://news.ycombinator.com/item?id=36425858) - [Ruby Hacking Guide (2004)](https://ruby-hacking-guide.github.io)
@@ -22,7 +23,6 @@
 * [2023-06-21, 19:18:43](https://news.ycombinator.com/item?id=36423047) - [Free Organ](https://www.organclearinghouse.com/organs-for-sale#/3141-austin-san-francisco)
 * [2023-06-21, 17:08:55](https://news.ycombinator.com/item?id=36421315) - [Maps distort how we see the world](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
-* [2023-06-21, 11:41:02](https://news.ycombinator.com/item?id=36417224) - [Bob Kahn on the Birth of “Inter-Networking”](https://spectrum.ieee.org/bob-kahn)
 * [2023-06-21, 11:21:51](https://news.ycombinator.com/item?id=36417075) - [Reading Log for Effective C: An Introduction to Professional C Programming](https://yongjie.codes/reading-logs/effective-c/)
 * [2023-06-21, 10:51:33](https://news.ycombinator.com/item?id=36416895) - [The Neural Net Tank Urban Legend](https://gwern.net/tank)
 * [2023-06-21, 10:50:41](https://news.ycombinator.com/item?id=36416887) - [The art of refurbing old computers](https://www.theregister.com/2023/06/21/pc_officina_positive_trashware/)
