@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 16:00:09](https://news.ycombinator.com/item?id=36448689) - [Removing Official Support for Red Hat Enterprise Linux](https://www.jeffgeerling.com/blog/2023/removing-official-support-red-hat-enterprise-linux)
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
 * [2023-06-23, 15:31:37](https://news.ycombinator.com/item?id=36448270) - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
 * [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
@@ -31,6 +32,7 @@
 * [2023-06-23, 12:04:44](https://news.ycombinator.com/item?id=36445693) - [The Pentagon’s $52,000 trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
 * [2023-06-23, 12:01:16](https://news.ycombinator.com/item?id=36445656) - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)
+* [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 11:10:05](https://news.ycombinator.com/item?id=36445278) - [Big VC, Tech Got Backstop for Billions in Uninsured SVB Deposits](https://www.bloomberg.com/news/articles/2023-06-23/fdic-insured-billions-in-deposits-for-sequoia-other-top-svb-customers)
 * [2023-06-23, 11:06:42](https://news.ycombinator.com/item?id=36445254) - [Titanic director James Cameron accuses OceanGate of cutting corners](https://www.bbc.co.uk/news/world-us-canada-65994707)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
