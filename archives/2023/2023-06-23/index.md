@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston](http://www.paulgraham.com/jessica.html)
+* [2023-06-23, 17:28:19](https://news.ycombinator.com/item?id=36449837) - [Show HN: Factiverse AI editor – Fact-checking text made smarter and simpler](https://editor.factiverse.ai/)
 * [2023-06-23, 17:24:44](https://news.ycombinator.com/item?id=36449794) - [Blackrock recruiter says ‘war is good for business’, spills info on asset giant](https://okeefemediagroup.com/breaking-blackrock-recruiter-who-decides-peoples-fate-says-war-is-good-for-business-while-spilling-info-on-asset-giant/)
 * [2023-06-23, 16:15:24](https://news.ycombinator.com/item?id=36448916) - [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)
 * [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
