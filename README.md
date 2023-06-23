@@ -7,7 +7,7 @@
 * [2023-06-23, 12:01:16](https://news.ycombinator.com/item?id=36445656) - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)
 * [2023-06-23, 11:10:05](https://news.ycombinator.com/item?id=36445278) - [Big VC, Tech Got Backstop for Billions in Uninsured SVB Deposits](https://www.bloomberg.com/news/articles/2023-06-23/fdic-insured-billions-in-deposits-for-sequoia-other-top-svb-customers)
-* [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
+* [2023-06-23, 10:44:13](https://news.ycombinator.com/item?id=36445093) - [Byte Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
 * [2023-06-23, 10:04:44](https://news.ycombinator.com/item?id=36444839) - [About GitHub’s use of your data](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
 * [2023-06-23, 07:42:42](https://news.ycombinator.com/item?id=36443977) - [Proceedings of the 19th Workshop on Hot Topics in Operating Systems](https://dl.acm.org/doi/proceedings/10.1145/3593856)
 * [2023-06-23, 07:06:41](https://news.ycombinator.com/item?id=36443747) - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
@@ -27,8 +27,8 @@
 * [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 * [2023-06-21, 16:47:55](https://news.ycombinator.com/item?id=36420995) - [Tom MacWright's Projects](https://macwright.com/projects/)
 * [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
-* [2023-06-21, 16:16:02](https://news.ycombinator.com/item?id=36420460) - [Scientists conduct first test of a wireless cosmic ray navigation system](https://arstechnica.com/science/2023/06/scientists-conduct-first-test-of-a-wireless-cosmic-ray-navigation-system/)
 * [2023-06-21, 16:02:24](https://news.ycombinator.com/item?id=36420287) - [Magvit: Masked Generative Video Transformer](https://magvit.cs.cmu.edu/)
+* [2023-06-21, 13:58:10](https://news.ycombinator.com/item?id=36418539) - [Mostly Automated Proof Repair for Verified Libraries [pdf]](https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf)
 * [2023-06-21, 13:45:06](https://news.ycombinator.com/item?id=36418364) - [Controlling the Bounce of a Bottle](https://physics.aps.org/articles/v16/102)
 
 ## [Archives](archives/index.md)

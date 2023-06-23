@@ -15,6 +15,7 @@
 * [2023-06-23, 11:06:42](https://news.ycombinator.com/item?id=36445254) - [Titanic director James Cameron accuses OceanGate of cutting corners](https://www.bbc.co.uk/news/world-us-canada-65994707)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
 * [2023-06-23, 10:56:49](https://news.ycombinator.com/item?id=36445195) - [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
+* [2023-06-23, 10:44:13](https://news.ycombinator.com/item?id=36445093) - [Byte Interview with the Creators of the Macintosh from 1984](https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators)
 * [2023-06-23, 10:42:54](https://news.ycombinator.com/item?id=36445085) - [Why is it so rare to hear about Western cyber-attacks?](https://www.bbc.com/news/technology-65977742)
 * [2023-06-23, 10:04:44](https://news.ycombinator.com/item?id=36444839) - [GitHub: “Human eyes” will never see the contents of your private repositories](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
 * [2023-06-23, 07:42:42](https://news.ycombinator.com/item?id=36443977) - [Proceedings of the 19th Workshop on Hot Topics in Operating Systems](https://dl.acm.org/doi/proceedings/10.1145/3593856)
