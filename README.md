@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 13:05:16](https://news.ycombinator.com/item?id=36446289) - [Groundbreaking AI project translates 5k-year-old cuneiform](https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/)
 * [2023-06-23, 12:40:12](https://news.ycombinator.com/item?id=36446045) - [Show HN: I've built open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
+* [2023-06-23, 12:24:47](https://news.ycombinator.com/item?id=36445875) - [The Most Mysterious Song on the Internet](https://en.wikipedia.org/wiki/The_Most_Mysterious_Song_on_the_Internet)
 * [2023-06-23, 12:23:22](https://news.ycombinator.com/item?id=36445855) - [Titanic director James Cameron accuses OceanGate of cutting corners](https://www.bbc.com/news/world-us-canada-65994707)
 * [2023-06-23, 12:04:44](https://news.ycombinator.com/item?id=36445693) - [The Pentagon’s $52k trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
 * [2023-06-23, 12:01:16](https://news.ycombinator.com/item?id=36445656) - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
@@ -26,9 +28,7 @@
 * [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 * [2023-06-21, 16:47:55](https://news.ycombinator.com/item?id=36420995) - [Tom MacWright's Projects](https://macwright.com/projects/)
 * [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
-* [2023-06-21, 16:16:02](https://news.ycombinator.com/item?id=36420460) - [Scientists conduct first test of a wireless cosmic ray navigation system](https://arstechnica.com/science/2023/06/scientists-conduct-first-test-of-a-wireless-cosmic-ray-navigation-system/)
 * [2023-06-21, 16:02:24](https://news.ycombinator.com/item?id=36420287) - [Magvit: Masked Generative Video Transformer](https://magvit.cs.cmu.edu/)
-* [2023-06-21, 13:58:10](https://news.ycombinator.com/item?id=36418539) - [Mostly Automated Proof Repair for Verified Libraries [pdf]](https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf)
 * [2023-06-21, 13:45:06](https://news.ycombinator.com/item?id=36418364) - [Controlling the Bounce of a Bottle](https://physics.aps.org/articles/v16/102)
 
 ## [Archives](archives/index.md)
