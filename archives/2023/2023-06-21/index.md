@@ -41,6 +41,7 @@
 * [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee](https://www.ncausa.org/about-coffee/history-of-coffee)
 * [2023-06-21, 16:50:00](https://news.ycombinator.com/item?id=36421022) - [Creating and Playing Games (2022)](https://whoo.ps/2022/12/07/creating-and-playing-games)
 * [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
+* [2023-06-21, 16:47:55](https://news.ycombinator.com/item?id=36420995) - [Tom MacWright's Projects](https://macwright.com/projects/)
 * [2023-06-21, 16:43:34](https://news.ycombinator.com/item?id=36420924) - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://finance.yahoo.com/news/amazon-duped-millions-consumers-enrolling-141223359.html)
 * [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
