@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
 * [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
 * [2023-06-23, 14:29:59](https://news.ycombinator.com/item?id=36447284) - [Lunduke Declares War on A.I](https://lunduke.locals.com/post/4173404/lunduke-declares-war-on-a-i)

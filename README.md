@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
 * [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
 * [2023-06-23, 14:21:20](https://news.ycombinator.com/item?id=36447176) - [Diabetes projected to affect 1.3B people by 2050 as waistlines keep growing](https://studyfinds.org/diabetes-billion-people-globally/)
@@ -29,7 +30,6 @@
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
 * [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 * [2023-06-21, 16:47:55](https://news.ycombinator.com/item?id=36420995) - [Tom MacWright's Projects](https://macwright.com/projects/)
-* [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
 
 ## [Archives](archives/index.md)
 
