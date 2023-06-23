@@ -23,13 +23,13 @@
 * [2023-06-23, 12:40:12](https://news.ycombinator.com/item?id=36446045) - [Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
 * [2023-06-23, 12:01:16](https://news.ycombinator.com/item?id=36445656) - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)
-* [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
 * [2023-06-22, 20:41:57](https://news.ycombinator.com/item?id=36438654) - [Specimens of Fancy Turning (1869)](https://publicdomainreview.org/collection/fancy-turning)
 * [2023-06-22, 20:00:31](https://news.ycombinator.com/item?id=36437952) - [The Sounds of Invisible Worlds](https://www.noemamag.com/the-sounds-of-invisible-worlds/)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
+* [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee (2015)](https://www.ncausa.org/about-coffee/history-of-coffee)
 
 ## [Archives](archives/index.md)
 
