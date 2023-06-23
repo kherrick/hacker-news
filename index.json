@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-23, 17:50:26",
+      "https://news.ycombinator.com/item?id=36450106"
+    ],
+    [
+      "Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript",
+      "https://wirfs-brock.com/allen/posts/166"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 17:33:11",
       "https://news.ycombinator.com/item?id=36449894"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2023-06-23, 14:02:12",
-      "https://news.ycombinator.com/item?id=36446933"
-    ],
-    [
-      "Windows NT on 600MHz machine opens apps instantly. What happened?",
-      "https://twitter.com/jmmv/status/1671670996921896960"
-    ]
-  ],
-  [
-    [
       "2023-06-23, 13:48:30",
       "https://news.ycombinator.com/item?id=36446787"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2023-06-22, 20:41:57",
+      "https://news.ycombinator.com/item?id=36438654"
+    ],
+    [
+      "Specimens of Fancy Turning (1869)",
+      "https://publicdomainreview.org/collection/fancy-turning"
+    ]
+  ],
+  [
+    [
       "2023-06-22, 20:00:31",
       "https://news.ycombinator.com/item?id=36437952"
     ],
@@ -287,16 +297,6 @@
     [
       "Diaphora, the most advanced Free and Open Source program diffing tool",
       "https://github.com/joxeankoret/diaphora"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 16:58:19",
-      "https://news.ycombinator.com/item?id=36421143"
-    ],
-    [
-      "The History of Coffee (2015)",
-      "https://www.ncausa.org/about-coffee/history-of-coffee"
     ]
   ]
 ]
