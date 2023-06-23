@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
 * [2023-06-23, 14:29:59](https://news.ycombinator.com/item?id=36447284) - [Lunduke Declares War on A.I](https://lunduke.locals.com/post/4173404/lunduke-declares-war-on-a-i)
 * [2023-06-23, 14:17:39](https://news.ycombinator.com/item?id=36447132) - [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
 * [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
 * [2023-06-23, 14:29:59](https://news.ycombinator.com/item?id=36447284) - [Lunduke Declares War on A.I](https://lunduke.locals.com/post/4173404/lunduke-declares-war-on-a-i)
 * [2023-06-23, 14:17:39](https://news.ycombinator.com/item?id=36447132) - [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
 * [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
@@ -29,7 +30,6 @@
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
 * [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 * [2023-06-21, 16:47:55](https://news.ycombinator.com/item?id=36420995) - [Tom MacWright's Projects](https://macwright.com/projects/)
-* [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
 
 ## [Archives](archives/index.md)
 
