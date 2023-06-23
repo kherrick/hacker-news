@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-23, 06:07:47](https://news.ycombinator.com/item?id=36443398) - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
+* [2023-06-23, 07:06:41](https://news.ycombinator.com/item?id=36443747) - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
 * [2023-06-23, 05:34:26](https://news.ycombinator.com/item?id=36443189) - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 * [2023-06-23, 02:46:13](https://news.ycombinator.com/item?id=36442209) - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
