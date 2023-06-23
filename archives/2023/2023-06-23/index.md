@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 14:29:59](https://news.ycombinator.com/item?id=36447284) - [Lunduke Declares War on A.I](https://lunduke.locals.com/post/4173404/lunduke-declares-war-on-a-i)
+* [2023-06-23, 14:17:39](https://news.ycombinator.com/item?id=36447132) - [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
 * [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
 * [2023-06-23, 14:08:15](https://news.ycombinator.com/item?id=36447024) - [Ask HN: IP cameras that don't require an app or internet](https://news.ycombinator.com/item?id=36447024)
 * [2023-06-23, 14:02:12](https://news.ycombinator.com/item?id=36446933) - [Windows NT on 600MHz machine opens apps instantly. What happened?](https://twitter.com/jmmv/status/1671670996921896960)
 * [2023-06-23, 13:55:01](https://news.ycombinator.com/item?id=36446846) - [New study suggests that lab-grown meat produces up to 25 times more CO2](https://interestingengineering.com/science/lab-grown-meat-25-times-co2)
 * [2023-06-23, 13:54:37](https://news.ycombinator.com/item?id=36446840) - [React Native 0.72 – Symlink Support, Better Errors, and more](https://reactnative.dev/blog/2023/06/21/0.72-metro-package-exports-symlinks)
+* [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
 * [2023-06-23, 13:05:16](https://news.ycombinator.com/item?id=36446289) - [Groundbreaking AI project translates 5k-year-old cuneiform](https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/)
 * [2023-06-23, 12:53:06](https://news.ycombinator.com/item?id=36446158) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
 * [2023-06-23, 12:40:12](https://news.ycombinator.com/item?id=36446045) - [Show HN: I've built open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)

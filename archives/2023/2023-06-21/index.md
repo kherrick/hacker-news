@@ -15,6 +15,7 @@
 * [2023-06-21, 21:41:49](https://news.ycombinator.com/item?id=36425038) - [Show HN: Dependency Hell (Short Story)](https://github.com/jaronilan/stories/blob/main/dependency-hell.md)
 * [2023-06-21, 21:38:36](https://news.ycombinator.com/item?id=36425006) - [An app can transform smartphones into thermometers that accurately detect fevers](https://www.washington.edu/news/2023/06/21/an-app-can-transform-smartphones-into-thermometers-that-accurately-detect-fevers/)
 * [2023-06-21, 21:18:03](https://news.ycombinator.com/item?id=36424695) - [Cosmic Harmonies: Sonifications from NASA Telescopes](https://chandra.si.edu/photo/2023/sonify7/)
+* [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
 * [2023-06-21, 20:57:30](https://news.ycombinator.com/item?id=36424362) - [Things I Learned as a Field Biologist (2013)](https://evopropinquitous.tumblr.com/post/46357460007/things-i-learned-as-a-field-biologist-609)
 * [2023-06-21, 20:56:16](https://news.ycombinator.com/item?id=36424339) - [Agile is people, the rest is commentary](https://buttondown.email/hillelwayne/archive/agile-is-people-the-rest-is-commentary/)
 * [2023-06-21, 20:50:48](https://news.ycombinator.com/item?id=36424256) - [Why Kakoune – The Quest For a Better Code Editor](https://kakoune.org/why-kakoune/why-kakoune.html)
