@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
 * [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
+* [2023-06-23, 15:07:43](https://news.ycombinator.com/item?id=36447871) - [Show HN: I made a gallery of graphs built with React and D3.js](https://www.react-graph-gallery.com)
+* [2023-06-23, 14:56:22](https://news.ycombinator.com/item?id=36447683) - [Show HN: I built a package manager for AI plugins](https://openpm.ai/)
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
 * [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
 * [2023-06-23, 14:29:59](https://news.ycombinator.com/item?id=36447284) - [Lunduke Declares War on A.I](https://lunduke.locals.com/post/4173404/lunduke-declares-war-on-a-i)
@@ -18,6 +20,7 @@
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 13:46:48](https://news.ycombinator.com/item?id=36446766) - [Computer Scientists Inch Closer to Major Algorithmic Goal](https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/)
 * [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
+* [2023-06-23, 13:13:13](https://news.ycombinator.com/item?id=36446381) - [Enter Hatman: Exploring the World of Benadryl-Induced Delirium](https://meghanboilard.substack.com/p/enter-hatman-exploring-the-world)
 * [2023-06-23, 13:05:16](https://news.ycombinator.com/item?id=36446289) - [Groundbreaking AI project translates 5k-year-old cuneiform](https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/)
 * [2023-06-23, 12:53:06](https://news.ycombinator.com/item?id=36446158) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
 * [2023-06-23, 12:40:12](https://news.ycombinator.com/item?id=36446045) - [Show HN: I've built open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
