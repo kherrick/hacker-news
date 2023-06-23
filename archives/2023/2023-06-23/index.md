@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 16:04:30](https://news.ycombinator.com/item?id=36448759) - [Making C++ Safe Without Borrow Checking, Reference Counting, or Tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 16:00:09](https://news.ycombinator.com/item?id=36448689) - [Removing Official Support for Red Hat Enterprise Linux](https://www.jeffgeerling.com/blog/2023/removing-official-support-red-hat-enterprise-linux)
+* [2023-06-23, 15:48:07](https://news.ycombinator.com/item?id=36448526) - [Toronto police are squatting on land meant for affordable housing](https://breachmedia.ca/toronto-police-block-affordable-housing/)
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
 * [2023-06-23, 15:31:37](https://news.ycombinator.com/item?id=36448270) - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
 * [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
