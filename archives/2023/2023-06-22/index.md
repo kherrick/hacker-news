@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-22](index.md)
 
+* [2023-06-22, 23:39:46](https://news.ycombinator.com/item?id=36440760) - [Generating SQL with LLMs for fun and profit](https://iamnotarobot.substack.com/p/generating-sql-with-llms-for-fun)
 * [2023-06-22, 21:58:59](https://news.ycombinator.com/item?id=36439661) - [Top Secret U.S. Navy System Heard Titan Implosion Days Ago](https://www.wsj.com/articles/u-s-navy-detected-titan-sub-implosion-days-ago-6844cb12)
 * [2023-06-22, 21:31:03](https://news.ycombinator.com/item?id=36439311) - [Canadians will no longer have access to news content on Facebook and Instagram](https://www.cbc.ca/news/politics/online-news-act-meta-facebook-1.6885634)
 * [2023-06-22, 21:27:02](https://news.ycombinator.com/item?id=36439253) - [Rocky Linux Expresses Confidence Despite Red Hat's Announcement](https://rockylinux.org/news/2023-06-22-press-release/)
