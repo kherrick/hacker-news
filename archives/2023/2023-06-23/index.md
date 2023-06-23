@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 12:04:44](https://news.ycombinator.com/item?id=36445693) - [The Pentagon’s $52,000 trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
+* [2023-06-23, 12:01:16](https://news.ycombinator.com/item?id=36445656) - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2023-06-23, 11:10:05](https://news.ycombinator.com/item?id=36445278) - [Big VC, Tech Got Backstop for Billions in Uninsured SVB Deposits](https://www.bloomberg.com/news/articles/2023-06-23/fdic-insured-billions-in-deposits-for-sequoia-other-top-svb-customers)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
 * [2023-06-23, 10:56:49](https://news.ycombinator.com/item?id=36445195) - [Update All Your Apple Devices ASAP](https://lifehacker.com/update-all-your-apple-devices-asap-1850565238)
 * [2023-06-23, 10:42:54](https://news.ycombinator.com/item?id=36445085) - [Why is it so rare to hear about Western cyber-attacks?](https://www.bbc.com/news/technology-65977742)
