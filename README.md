@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 06:07:47](https://news.ycombinator.com/item?id=36443398) - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
 * [2023-06-23, 05:34:26](https://news.ycombinator.com/item?id=36443189) - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 * [2023-06-23, 02:46:13](https://news.ycombinator.com/item?id=36442209) - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
 * [2023-06-23, 01:15:25](https://news.ycombinator.com/item?id=36441537) - [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
 * [2023-06-23, 00:44:58](https://news.ycombinator.com/item?id=36441266) - [So you want to write a GUI framework (2021)](http://www.cmyr.net/blog/gui-framework-ingredients.html)
-* [2023-06-23, 00:16:58](https://news.ycombinator.com/item?id=36441054) - [Quality of new vehicles in US declining on more tech use: study](https://www.reuters.com/business/autos-transportation/quality-new-vehicles-us-declining-more-tech-use-study-shows-2023-06-22/)
 * [2023-06-23, 00:05:06](https://news.ycombinator.com/item?id=36440980) - [FDA approves first gene therapy treatment of Duchenne muscular dystrophy](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-certain-patients-duchenne-muscular-dystrophy)
 * [2023-06-22, 23:56:42](https://news.ycombinator.com/item?id=36440911) - [Eating microwave popcorn increases the level of PFAS in body (2022)](https://www.uclahealth.org/news/eating-microwave-popcorn-increases-the-level-of-pfas-in-body)
 * [2023-06-22, 20:54:38](https://news.ycombinator.com/item?id=36438831) - [eBPF Verification Is Untenable](https://twitter.com/tianyin_xu/status/1671857283263868930)

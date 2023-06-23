@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 06:07:47](https://news.ycombinator.com/item?id=36443398) - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
 * [2023-06-23, 05:34:26](https://news.ycombinator.com/item?id=36443189) - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 * [2023-06-23, 03:39:15](https://news.ycombinator.com/item?id=36442499) - [Framework Laptop feature requests – RISC-V Mainboard](https://community.frame.work/t/risc-v-mainboard/9197)
 * [2023-06-23, 03:18:11](https://news.ycombinator.com/item?id=36442385) - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
