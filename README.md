@@ -23,11 +23,11 @@
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee](https://www.ncausa.org/about-coffee/history-of-coffee)
 * [2023-06-21, 16:50:00](https://news.ycombinator.com/item?id=36421022) - [Creating and Playing Games (2022)](https://whoo.ps/2022/12/07/creating-and-playing-games)
+* [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 * [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
 * [2023-06-21, 16:16:02](https://news.ycombinator.com/item?id=36420460) - [Scientists conduct first test of a wireless cosmic ray navigation system](https://arstechnica.com/science/2023/06/scientists-conduct-first-test-of-a-wireless-cosmic-ray-navigation-system/)
 * [2023-06-21, 16:02:24](https://news.ycombinator.com/item?id=36420287) - [Magvit: Masked Generative Video Transformer](https://magvit.cs.cmu.edu/)
 * [2023-06-21, 13:58:10](https://news.ycombinator.com/item?id=36418539) - [Mostly Automated Proof Repair for Verified Libraries [pdf]](https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf)
-* [2023-06-21, 13:35:22](https://news.ycombinator.com/item?id=36418259) - [Typography 2024: For America’s Best](https://practicaltypography.com/typography-2024.html)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
 * [2023-06-21, 07:32:11](https://news.ycombinator.com/item?id=36415518) - [A few scanning tips](https://www.scantips.com/)
 
