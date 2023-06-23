@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-06-23, 22:09:40",
-      "https://news.ycombinator.com/item?id=36452832"
+      "2023-06-23, 21:36:13",
+      "https://news.ycombinator.com/item?id=36452464"
     ],
     [
-      "Moderation in a public commons",
-      "https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals"
+      "'Scary moment' as orcas disrupt ocean boat race",
+      "https://www.cbc.ca/sports/orcas-ramming-boats-spain-portugal-1.6886891"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 20:44:06",
+      "https://news.ycombinator.com/item?id=36451961"
+    ],
+    [
+      "How I landed a model rocket [video]",
+      "https://www.youtube.com/watch?v=1GanrexRyVY"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "Jessica Livingston (2015)",
       "http://www.paulgraham.com/jessica.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 17:28:19",
+      "https://news.ycombinator.com/item?id=36449837"
+    ],
+    [
+      "Show HN: Factiverse AI editor – Fact-checking text made smarter and simpler",
+      "https://editor.factiverse.ai/"
     ]
   ],
   [
@@ -141,6 +161,16 @@
   ],
   [
     [
+      "2023-06-23, 14:48:21",
+      "https://news.ycombinator.com/item?id=36447555"
+    ],
+    [
+      "Building a Custom Mach-O Memory Loader for macOS",
+      "https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 14:08:15",
       "https://news.ycombinator.com/item?id=36447024"
     ],
@@ -151,12 +181,32 @@
   ],
   [
     [
+      "2023-06-23, 14:02:12",
+      "https://news.ycombinator.com/item?id=36446933"
+    ],
+    [
+      "Windows NT on 600MHz machine opens apps instantly. What happened?",
+      "https://twitter.com/jmmv/status/1671670996921896960"
+    ]
+  ],
+  [
+    [
       "2023-06-23, 13:48:30",
       "https://news.ycombinator.com/item?id=36446787"
     ],
     [
       "Putting out the hardware dumpster fire",
       "https://dl.acm.org/doi/pdf/10.1145/3593856.3595903"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 13:47:02",
+      "https://news.ycombinator.com/item?id=36446770"
+    ],
+    [
+      "Tell HN: Interview take home assessments without feedback are frustrating",
+      "https://news.ycombinator.com/item?id=36446770"
     ]
   ],
   [
@@ -181,16 +231,6 @@
   ],
   [
     [
-      "2023-06-23, 12:53:06",
-      "https://news.ycombinator.com/item?id=36446158"
-    ],
-    [
-      "Shrinking a shared library",
-      "https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html"
-    ]
-  ],
-  [
-    [
       "2023-06-23, 12:40:12",
       "https://news.ycombinator.com/item?id=36446045"
     ],
@@ -207,36 +247,6 @@
     [
       "GiveCampus (YC S15) is hiring Rails engineers passionate about education",
       "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 11:57:05",
-      "https://news.ycombinator.com/item?id=36445625"
-    ],
-    [
-      "White Rabbit Project (2020)",
-      "https://ohwr.org/project/white-rabbit/wikis/home"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 11:41:41",
-      "https://news.ycombinator.com/item?id=36445513"
-    ],
-    [
-      "Twilight of the programmers?",
-      "https://danielbmarkham.com/twilight-of-the-programmers/"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 10:57:26",
-      "https://news.ycombinator.com/item?id=36445197"
-    ],
-    [
-      "From word models to world models",
-      "https://arxiv.org/abs/2306.12672"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Diaphora: an open-source program diffing IDA plugin",
       "https://github.com/joxeankoret/diaphora"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 16:58:19",
-      "https://news.ycombinator.com/item?id=36421143"
-    ],
-    [
-      "The History of Coffee (2015)",
-      "https://www.ncausa.org/about-coffee/history-of-coffee"
     ]
   ],
   [
