@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 10:04:44](https://news.ycombinator.com/item?id=36444839) - [GitHub: “Human eyes” will never see the contents of your private repositories](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
 * [2023-06-23, 07:42:42](https://news.ycombinator.com/item?id=36443977) - [Proceedings of the 19th Workshop on Hot Topics in Operating Systems](https://dl.acm.org/doi/proceedings/10.1145/3593856)
 * [2023-06-23, 07:06:41](https://news.ycombinator.com/item?id=36443747) - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
 * [2023-06-23, 06:40:43](https://news.ycombinator.com/item?id=36443596) - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
@@ -16,10 +17,8 @@
 * [2023-06-22, 20:16:07](https://news.ycombinator.com/item?id=36438240) - [Clojure is a product design tool (2015)](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 * [2023-06-22, 20:00:26](https://news.ycombinator.com/item?id=36437950) - [DeArrow – Solving clickbait on YouTube](https://dearrow.ajay.app/)
 * [2023-06-22, 19:16:18](https://news.ycombinator.com/item?id=36437254) - [SMS phishers harvested phone numbers, shipment data from UPS tracking tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
-* [2023-06-22, 18:50:35](https://news.ycombinator.com/item?id=36436931) - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
-* [2023-06-22, 18:27:14](https://news.ycombinator.com/item?id=36436598) - [Do you know how much your computer can do in a second? (2015)](https://computers-are-fast.github.io)
-* [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
-* [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [Future ultra-precise timing links to geosynchronous satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
+* [2023-06-22, 16:09:42](https://news.ycombinator.com/item?id=36434358) - [FIFO can be Better than LRU [pdf]](https://jasony.me/publication/hotos23-qdlp.pdf)
+* [2023-06-22, 15:38:47](https://news.ycombinator.com/item?id=36433842) - [Revolt: FOSS Discord Alternative](https://revolt.chat/)
 * [2023-06-22, 12:19:44](https://news.ycombinator.com/item?id=36431004) - [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee](https://www.ncausa.org/about-coffee/history-of-coffee)
@@ -28,6 +27,7 @@
 * [2023-06-21, 16:16:02](https://news.ycombinator.com/item?id=36420460) - [Scientists conduct first test of a wireless cosmic ray navigation system](https://arstechnica.com/science/2023/06/scientists-conduct-first-test-of-a-wireless-cosmic-ray-navigation-system/)
 * [2023-06-21, 16:02:24](https://news.ycombinator.com/item?id=36420287) - [Magvit: Masked Generative Video Transformer](https://magvit.cs.cmu.edu/)
 * [2023-06-21, 13:58:10](https://news.ycombinator.com/item?id=36418539) - [Mostly Automated Proof Repair for Verified Libraries [pdf]](https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf)
+* [2023-06-21, 13:35:22](https://news.ycombinator.com/item?id=36418259) - [Typography 2024: For America’s Best](https://practicaltypography.com/typography-2024.html)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
 * [2023-06-21, 07:32:11](https://news.ycombinator.com/item?id=36415518) - [A few scanning tips](https://www.scantips.com/)
 
