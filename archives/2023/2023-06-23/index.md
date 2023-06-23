@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 21:19:49](https://news.ycombinator.com/item?id=36452290) - [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
+* [2023-06-23, 21:14:07](https://news.ycombinator.com/item?id=36452226) - [The Elite War on Free Thought](https://www.racket.news/p/the-elite-war-on-free-thought)
 * [2023-06-23, 21:09:12](https://news.ycombinator.com/item?id=36452182) - [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
 * [2023-06-23, 20:41:10](https://news.ycombinator.com/item?id=36451936) - [Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-Time Messaging](https://slack.engineering/real-time-messaging/)

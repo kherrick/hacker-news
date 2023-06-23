@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 21:19:49](https://news.ycombinator.com/item?id=36452290) - [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
+* [2023-06-23, 21:14:07](https://news.ycombinator.com/item?id=36452226) - [The Elite War on Free Thought](https://www.racket.news/p/the-elite-war-on-free-thought)
 * [2023-06-23, 21:09:12](https://news.ycombinator.com/item?id=36452182) - [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
 * [2023-06-23, 20:41:10](https://news.ycombinator.com/item?id=36451936) - [Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-Time Messaging](https://slack.engineering/real-time-messaging/)
@@ -14,8 +16,6 @@
 * [2023-06-23, 15:07:43](https://news.ycombinator.com/item?id=36447871) - [Show HN: A gallery of graphs built with React and D3.js](https://www.react-graph-gallery.com)
 * [2023-06-23, 14:56:22](https://news.ycombinator.com/item?id=36447683) - [Show HN: A package manager for AI plugins](https://openpm.ai/)
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron fuel shows its mettle](https://spectrum.ieee.org/iron-fuel)
-* [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
-* [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
 * [2023-06-23, 14:08:15](https://news.ycombinator.com/item?id=36447024) - [Ask HN: IP cameras that don't require an app or internet?](https://news.ycombinator.com/item?id=36447024)
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 13:46:48](https://news.ycombinator.com/item?id=36446766) - [A new, faster algorithm for the group isomorphism problem](https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/)
