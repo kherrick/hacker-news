@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 10:42:54](https://news.ycombinator.com/item?id=36445085) - [Why is it so rare to hear about Western cyber-attacks?](https://www.bbc.com/news/technology-65977742)
 * [2023-06-23, 10:04:44](https://news.ycombinator.com/item?id=36444839) - [GitHub: “Human eyes” will never see the contents of your private repositories](https://docs.github.com/en/get-started/privacy-on-github/about-githubs-use-of-your-data)
 * [2023-06-23, 07:42:42](https://news.ycombinator.com/item?id=36443977) - [Proceedings of the 19th Workshop on Hot Topics in Operating Systems](https://dl.acm.org/doi/proceedings/10.1145/3593856)
 * [2023-06-23, 07:06:41](https://news.ycombinator.com/item?id=36443747) - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
