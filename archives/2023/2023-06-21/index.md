@@ -71,6 +71,7 @@
 * [2023-06-21, 14:07:08](https://news.ycombinator.com/item?id=36418633) - [Show HN: Datadog QA – TUI for Jira users to perform QA of future GitHub releases](https://github.com/DataDog/ddqa)
 * [2023-06-21, 13:58:10](https://news.ycombinator.com/item?id=36418539) - [Mostly Automated Proof Repair for Verified Libraries [pdf]](https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf)
 * [2023-06-21, 13:54:15](https://news.ycombinator.com/item?id=36418493) - [Let Me Go Back](https://www.joelonsoftware.com/2000/06/03/strategy-letter-iii-let-me-go-back/)
+* [2023-06-21, 13:45:06](https://news.ycombinator.com/item?id=36418364) - [Controlling the Bounce of a Bottle](https://physics.aps.org/articles/v16/102)
 * [2023-06-21, 13:36:29](https://news.ycombinator.com/item?id=36418275) - [12,000 Comments](https://shkspr.mobi/blog/2023/06/12000-comments/)
 * [2023-06-21, 13:35:22](https://news.ycombinator.com/item?id=36418259) - [Typography 2024: For America’s Best](https://practicaltypography.com/typography-2024.html)
 * [2023-06-21, 13:30:45](https://news.ycombinator.com/item?id=36418204) - [Ransomware gang preys on cancer centers, triggers alert](https://www.scmagazine.com/news/ransomware/ransomware-cancer-center-alert)
