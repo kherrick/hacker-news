@@ -101,3 +101,4 @@
 * [2023-06-22, 02:16:51](https://news.ycombinator.com/item?id=36427267) - [Even more hindsight on Vim, Helix and Kakoune](https://phaazon.net/blog/more-hindsight-vim-helix-kakoune)
 * [2023-06-22, 01:52:00](https://news.ycombinator.com/item?id=36427116) - [Security Advisory: Update encrypted USB drives and replace short passphrases](https://securedrop.org/news/security-advisory-update-encrypted-usb-drives-and-replace-short-passphrases/)
 * [2023-06-22, 00:54:03](https://news.ycombinator.com/item?id=36426793) - [Meta now officially outsources support to the legal system](https://imgur.com/a/PbKak2F)
+* [2023-06-22, 00:05:01](https://news.ycombinator.com/item?id=36426484) - [De Beauvoir on the art of aging](https://www.themarginalian.org/2022/07/31/simone-de-beauvoir-coming-of-age/)
