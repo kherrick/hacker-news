@@ -7,6 +7,7 @@
 * [2023-06-21, 23:35:09](https://news.ycombinator.com/item?id=36426239) - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://www.reuters.com/legal/amazon-duped-millions-consumers-into-enrolling-prime-ftc-2023-06-21/)
 * [2023-06-21, 23:24:25](https://news.ycombinator.com/item?id=36426136) - [Tree-Ring Watermark: Invisible Robust Fingerprints of Diffusion Images](https://arxiv.org/abs/2305.20030)
 * [2023-06-21, 22:57:14](https://news.ycombinator.com/item?id=36425858) - [Ruby Hacking Guide](https://ruby-hacking-guide.github.io)
+* [2023-06-21, 22:47:53](https://news.ycombinator.com/item?id=36425758) - [Oscillating Engine Simulator](https://incoherency.co.uk/blog/stories/oscillating-engine-simulator.html)
 * [2023-06-21, 22:43:32](https://news.ycombinator.com/item?id=36425709) - [The PCG64 DXSM random number generator](https://dotat.at/@/2023-06-21-pcg64-dxsm.html)
 * [2023-06-21, 22:14:45](https://news.ycombinator.com/item?id=36425433) - [Did I receive fraudulent DMCA takedowns?](https://incoherency.co.uk/blog/stories/hardbin-fake-takedowns.html)
 * [2023-06-21, 22:10:35](https://news.ycombinator.com/item?id=36425375) - [Giving LLM’s a <Backspace> Token](https://arxiv.org/abs/2306.05426)

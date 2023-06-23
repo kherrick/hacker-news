@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
+* [2023-06-23, 02:46:13](https://news.ycombinator.com/item?id=36442209) - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
 * [2023-06-23, 01:15:25](https://news.ycombinator.com/item?id=36441537) - [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
 * [2023-06-23, 00:44:58](https://news.ycombinator.com/item?id=36441266) - [So you want to write a GUI framework (2021)](http://www.cmyr.net/blog/gui-framework-ingredients.html)
 * [2023-06-23, 00:16:58](https://news.ycombinator.com/item?id=36441054) - [Quality of new vehicles in US declining on more tech use](https://www.reuters.com/business/autos-transportation/quality-new-vehicles-us-declining-more-tech-use-study-shows-2023-06-22/)
