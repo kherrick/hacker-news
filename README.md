@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 17:24:44](https://news.ycombinator.com/item?id=36449794) - [Blackrock recruiter says ‘war is good for business’, spills info on asset giant](https://okeefemediagroup.com/breaking-blackrock-recruiter-who-decides-peoples-fate-says-war-is-good-for-business-while-spilling-info-on-asset-giant/)
 * [2023-06-23, 16:15:24](https://news.ycombinator.com/item?id=36448916) - [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)
 * [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
 * [2023-06-23, 16:06:21](https://news.ycombinator.com/item?id=36448789) - [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
@@ -24,12 +25,11 @@
 * [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
-* [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A Bejeweled Prayer Book Has Been Identified as Belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
+* [2023-06-22, 20:00:31](https://news.ycombinator.com/item?id=36437952) - [The Sounds of Invisible Worlds](https://www.noemamag.com/the-sounds-of-invisible-worlds/)
+* [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
 * [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee (2015)](https://www.ncausa.org/about-coffee/history-of-coffee)
-* [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
-* [2023-06-21, 16:47:55](https://news.ycombinator.com/item?id=36420995) - [Tom MacWright's Projects](https://macwright.com/projects/)
 
 ## [Archives](archives/index.md)
 

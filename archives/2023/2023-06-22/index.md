@@ -14,6 +14,7 @@
 * [2023-06-22, 20:29:51](https://news.ycombinator.com/item?id=36438477) - [What are some educational resources for more senior engineers?](https://news.ycombinator.com/item?id=36438477)
 * [2023-06-22, 20:24:29](https://news.ycombinator.com/item?id=36438367) - [Analyzing New Unique Identifier Formats (UUIDv6, UUIDv7, and UUIDv8) (2022)](https://blog.devgenius.io/analyzing-new-unique-identifier-formats-uuidv6-uuidv7-and-uuidv8-d6cc5cd7391a)
 * [2023-06-22, 20:16:07](https://news.ycombinator.com/item?id=36438240) - [Clojure is a product design tool](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
+* [2023-06-22, 20:00:31](https://news.ycombinator.com/item?id=36437952) - [The Sounds of Invisible Worlds](https://www.noemamag.com/the-sounds-of-invisible-worlds/)
 * [2023-06-22, 20:00:26](https://news.ycombinator.com/item?id=36437950) - [DeArrow – Solving Clickbait on YouTube](https://dearrow.ajay.app/)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A Bejeweled Prayer Book Has Been Identified as Belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-22, 19:17:36](https://news.ycombinator.com/item?id=36437271) - [Oceangate Statement, “We now believe that [all crew] have sadly been lost.”](https://twitter.com/GioBenitez/status/1671954007261151237)
