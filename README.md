@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 22:09:40](https://news.ycombinator.com/item?id=36452832) - [Moderation in a Public Commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
 * [2023-06-23, 21:59:03](https://news.ycombinator.com/item?id=36452696) - [AlmaLinux's response to Red Hat's policy change](https://lwn.net/Articles/935918/)
+* [2023-06-23, 21:50:10](https://news.ycombinator.com/item?id=36452620) - [U.S. Seeks 70-Month Prison Sentence for YouTube Content ID Scammer](https://torrentfreak.com/u-s-seeks-70-month-prison-sentence-for-youtube-content-id-scammer-230623/)
 * [2023-06-23, 21:27:28](https://news.ycombinator.com/item?id=36452367) - [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
-* [2023-06-23, 21:19:49](https://news.ycombinator.com/item?id=36452290) - [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
 * [2023-06-23, 21:09:12](https://news.ycombinator.com/item?id=36452182) - [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
 * [2023-06-23, 20:41:10](https://news.ycombinator.com/item?id=36451936) - [Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-Time Messaging](https://slack.engineering/real-time-messaging/)
@@ -21,7 +22,6 @@
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 13:46:48](https://news.ycombinator.com/item?id=36446766) - [A new, faster algorithm for the group isomorphism problem](https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/)
 * [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
-* [2023-06-23, 12:53:06](https://news.ycombinator.com/item?id=36446158) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
 * [2023-06-23, 12:40:12](https://news.ycombinator.com/item?id=36446045) - [Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
 * [2023-06-23, 12:01:16](https://news.ycombinator.com/item?id=36445656) - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)

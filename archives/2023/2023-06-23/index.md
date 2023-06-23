@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 22:09:40](https://news.ycombinator.com/item?id=36452832) - [Moderation in a Public Commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
 * [2023-06-23, 21:59:03](https://news.ycombinator.com/item?id=36452696) - [AlmaLinux's response to Red Hat's policy change](https://lwn.net/Articles/935918/)
+* [2023-06-23, 21:50:10](https://news.ycombinator.com/item?id=36452620) - [U.S. Seeks 70-Month Prison Sentence for YouTube Content ID Scammer](https://torrentfreak.com/u-s-seeks-70-month-prison-sentence-for-youtube-content-id-scammer-230623/)
 * [2023-06-23, 21:27:28](https://news.ycombinator.com/item?id=36452367) - [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
 * [2023-06-23, 21:19:49](https://news.ycombinator.com/item?id=36452290) - [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
 * [2023-06-23, 21:14:07](https://news.ycombinator.com/item?id=36452226) - [The Elite War on Free Thought](https://www.racket.news/p/the-elite-war-on-free-thought)
