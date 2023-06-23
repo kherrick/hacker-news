@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 20:41:10](https://news.ycombinator.com/item?id=36451936) - [Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 * [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
 * [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
+* [2023-06-23, 18:49:12](https://news.ycombinator.com/item?id=36450771) - [Titan sub CEO dismissed safety warnings as 'baseless cries', emails show](https://www.bbc.com/news/world-us-canada-65998914)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston (2015)](http://www.paulgraham.com/jessica.html)
 * [2023-06-23, 17:24:02](https://news.ycombinator.com/item?id=36449788) - [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
 * [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
@@ -24,11 +26,9 @@
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
 * [2023-06-22, 20:41:57](https://news.ycombinator.com/item?id=36438654) - [Specimens of Fancy Turning (1869)](https://publicdomainreview.org/collection/fancy-turning)
-* [2023-06-22, 20:00:31](https://news.ycombinator.com/item?id=36437952) - [The Sounds of Invisible Worlds](https://www.noemamag.com/the-sounds-of-invisible-worlds/)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
-* [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee (2015)](https://www.ncausa.org/about-coffee/history-of-coffee)
 * [2023-06-21, 16:51:01](https://news.ycombinator.com/item?id=36421029) - [Musicogenic Seizure](https://en.wikipedia.org/wiki/Musicogenic_seizure)
 
 ## [Archives](archives/index.md)

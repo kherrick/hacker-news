@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 20:41:10](https://news.ycombinator.com/item?id=36451936) - [Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 * [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
 * [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
+* [2023-06-23, 18:49:12](https://news.ycombinator.com/item?id=36450771) - [Titan sub CEO dismissed safety warnings as 'baseless cries', emails show](https://www.bbc.com/news/world-us-canada-65998914)
 * [2023-06-23, 18:25:07](https://news.ycombinator.com/item?id=36450505) - [Lactoferrin alleviates Western diet-induced cognitive impairment](https://linkinghub.elsevier.com/retrieve/pii/S2665927123001016)
 * [2023-06-23, 17:50:26](https://news.ycombinator.com/item?id=36450106) - [Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript](https://wirfs-brock.com/allen/posts/166)
 * [2023-06-23, 17:50:13](https://news.ycombinator.com/item?id=36450104) - [What is driving the high suicide rate among farmers?(2022)](https://news.illinois.edu/view/6367/1856210606)
