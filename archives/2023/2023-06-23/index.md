@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
+* [2023-06-23, 16:06:21](https://news.ycombinator.com/item?id=36448789) - [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
 * [2023-06-23, 16:04:30](https://news.ycombinator.com/item?id=36448759) - [Making C++ Safe Without Borrow Checking, Reference Counting, or Tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 16:00:09](https://news.ycombinator.com/item?id=36448689) - [Removing Official Support for Red Hat Enterprise Linux](https://www.jeffgeerling.com/blog/2023/removing-official-support-red-hat-enterprise-linux)
 * [2023-06-23, 15:48:07](https://news.ycombinator.com/item?id=36448526) - [Toronto police are squatting on land meant for affordable housing](https://breachmedia.ca/toronto-police-block-affordable-housing/)
+* [2023-06-23, 15:47:51](https://news.ycombinator.com/item?id=36448523) - [Introduction to (C++) Class Normalization](https://agiledata.org/essays/classNormalization.html)
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
 * [2023-06-23, 15:31:37](https://news.ycombinator.com/item?id=36448270) - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
 * [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
