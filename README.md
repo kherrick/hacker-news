@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 16:15:24](https://news.ycombinator.com/item?id=36448916) - [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)
 * [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
 * [2023-06-23, 16:06:21](https://news.ycombinator.com/item?id=36448789) - [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
 * [2023-06-23, 16:04:30](https://news.ycombinator.com/item?id=36448759) - [Making C++ safe without borrow checking, reference counting, or tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
@@ -22,7 +23,6 @@
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)
 * [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
-* [2023-06-23, 06:40:43](https://news.ycombinator.com/item?id=36443596) - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A Bejeweled Prayer Book Has Been Identified as Belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
