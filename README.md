@@ -18,7 +18,6 @@
 * [2023-06-22, 20:00:26](https://news.ycombinator.com/item?id=36437950) - [DeArrow – Solving clickbait on YouTube](https://dearrow.ajay.app/)
 * [2023-06-22, 19:16:18](https://news.ycombinator.com/item?id=36437254) - [SMS phishers harvested phone numbers, shipment data from UPS tracking tool](https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/)
 * [2023-06-22, 18:50:35](https://news.ycombinator.com/item?id=36436931) - [Framework Laptop 16 Deep Dive – Enclosure](https://frame.work/ca/en/blog/framework-laptop-16-deep-dive---enclosure)
-* [2023-06-22, 18:38:13](https://news.ycombinator.com/item?id=36436759) - [OneSignal (YC S11) Is Hiring a Data and Analytics Lead](https://onesignal.com/careers/4007708006)
 * [2023-06-22, 18:27:14](https://news.ycombinator.com/item?id=36436598) - [Do you know how much your computer can do in a second? (2015)](https://computers-are-fast.github.io)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 * [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [Future ultra-precise timing links to geosynchronous satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
@@ -30,6 +29,7 @@
 * [2023-06-21, 16:02:24](https://news.ycombinator.com/item?id=36420287) - [Magvit: Masked Generative Video Transformer](https://magvit.cs.cmu.edu/)
 * [2023-06-21, 13:58:10](https://news.ycombinator.com/item?id=36418539) - [Mostly Automated Proof Repair for Verified Libraries [pdf]](https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
+* [2023-06-21, 07:32:11](https://news.ycombinator.com/item?id=36415518) - [A few scanning tips](https://www.scantips.com/)
 
 ## [Archives](archives/index.md)
 
