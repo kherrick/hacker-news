@@ -13,7 +13,7 @@
 * [2023-06-23, 07:06:41](https://news.ycombinator.com/item?id=36443747) - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
 * [2023-06-23, 06:54:10](https://news.ycombinator.com/item?id=36443676) - [AudioPaLM: A Large Language Model That Can Speak and Listen](https://google-research.github.io/seanet/audiopalm/examples/)
 * [2023-06-23, 06:40:43](https://news.ycombinator.com/item?id=36443596) - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
-* [2023-06-23, 06:07:47](https://news.ycombinator.com/item?id=36443398) - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
+* [2023-06-23, 06:07:47](https://news.ycombinator.com/item?id=36443398) - [Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 * [2023-06-23, 02:46:13](https://news.ycombinator.com/item?id=36442209) - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
 * [2023-06-23, 01:15:25](https://news.ycombinator.com/item?id=36441537) - [Scientists unfroze rat organs and transplanted them](https://www.statnews.com/2023/06/21/cryogenic-organ-preservation-transplants/)
