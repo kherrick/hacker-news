@@ -19,7 +19,6 @@
 * [2023-06-22, 18:27:14](https://news.ycombinator.com/item?id=36436598) - [Do you know how much your computer can do in a second? (2015)](https://computers-are-fast.github.io)
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 * [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [Future ultra-precise timing links to geosynchronous satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
-* [2023-06-22, 15:57:11](https://news.ycombinator.com/item?id=36434173) - [Debris found came from missing Titan sub, says friend of passengers](https://www.bbc.com/news/live/world-us-canada-65967464)
 * [2023-06-22, 15:38:47](https://news.ycombinator.com/item?id=36433842) - [Revolt: FOSS Discord Alternative](https://revolt.chat/)
 * [2023-06-22, 12:19:44](https://news.ycombinator.com/item?id=36431004) - [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
 * [2023-06-22, 00:05:01](https://news.ycombinator.com/item?id=36426484) - [De Beauvoir on the art of aging](https://www.themarginalian.org/2022/07/31/simone-de-beauvoir-coming-of-age/)
@@ -28,6 +27,7 @@
 * [2023-06-21, 20:29:47](https://news.ycombinator.com/item?id=36423955) - [Money is the megaphone of identity (2020)](https://moretothat.com/money/)
 * [2023-06-21, 16:16:02](https://news.ycombinator.com/item?id=36420460) - [Scientists conduct first test of a wireless cosmic ray navigation system](https://arstechnica.com/science/2023/06/scientists-conduct-first-test-of-a-wireless-cosmic-ray-navigation-system/)
 * [2023-06-21, 16:02:24](https://news.ycombinator.com/item?id=36420287) - [Magvit: Masked Generative Video Transformer](https://magvit.cs.cmu.edu/)
+* [2023-06-21, 13:58:10](https://news.ycombinator.com/item?id=36418539) - [Mostly Automated Proof Repair for Verified Libraries [pdf]](https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf)
 * [2023-06-21, 12:11:13](https://news.ycombinator.com/item?id=36417450) - [Cookie Clicker saved my PhD](https://advaitsarkar.wordpress.com/2021/12/17/how-my-online-gaming-addiction-saved-my-phd/)
 * [2023-06-21, 07:32:11](https://news.ycombinator.com/item?id=36415518) - [A few scanning tips](https://www.scantips.com/)
 
