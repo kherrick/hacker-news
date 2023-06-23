@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
-* [2023-06-23, 17:50:13](https://news.ycombinator.com/item?id=36450104) - [What is driving the high suicide rate among farmers?(2022)](https://news.illinois.edu/view/6367/1856210606)
+* [2023-06-23, 18:25:07](https://news.ycombinator.com/item?id=36450505) - [Lactoferrin alleviates Western diet-induced cognitive impairment](https://linkinghub.elsevier.com/retrieve/pii/S2665927123001016)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston (2015)](http://www.paulgraham.com/jessica.html)
 * [2023-06-23, 17:24:02](https://news.ycombinator.com/item?id=36449788) - [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
-* [2023-06-23, 16:15:24](https://news.ycombinator.com/item?id=36448916) - [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)
 * [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
 * [2023-06-23, 16:06:21](https://news.ycombinator.com/item?id=36448789) - [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
 * [2023-06-23, 16:04:30](https://news.ycombinator.com/item?id=36448759) - [Making C++ safe without borrow checking, reference counting, or tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
@@ -30,6 +29,7 @@
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
 * [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee (2015)](https://www.ncausa.org/about-coffee/history-of-coffee)
+* [2023-06-21, 16:51:01](https://news.ycombinator.com/item?id=36421029) - [Musicogenic Seizure](https://en.wikipedia.org/wiki/Musicogenic_seizure)
 
 ## [Archives](archives/index.md)
 
