@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
+* [2023-06-23, 15:31:37](https://news.ycombinator.com/item?id=36448270) - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
 * [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-23, 15:07:43](https://news.ycombinator.com/item?id=36447871) - [Show HN: I made a gallery of graphs built with React and D3.js](https://www.react-graph-gallery.com)
 * [2023-06-23, 14:56:22](https://news.ycombinator.com/item?id=36447683) - [Show HN: I built a package manager for AI plugins](https://openpm.ai/)
@@ -7,8 +9,6 @@
 * [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
 * [2023-06-23, 14:17:39](https://news.ycombinator.com/item?id=36447132) - [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
 * [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
-* [2023-06-23, 14:02:12](https://news.ycombinator.com/item?id=36446933) - [Windows NT on 600MHz machine opens apps instantly. What happened?](https://twitter.com/jmmv/status/1671670996921896960)
-* [2023-06-23, 13:55:01](https://news.ycombinator.com/item?id=36446846) - [New study suggests that lab-grown meat produces up to 25 times more CO2](https://interestingengineering.com/science/lab-grown-meat-25-times-co2)
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 13:46:48](https://news.ycombinator.com/item?id=36446766) - [Computer Scientists Inch Closer to Major Algorithmic Goal](https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/)
 * [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
