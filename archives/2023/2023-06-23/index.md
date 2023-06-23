@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
 * [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
 * [2023-06-23, 18:25:07](https://news.ycombinator.com/item?id=36450505) - [Lactoferrin alleviates Western diet-induced cognitive impairment](https://linkinghub.elsevier.com/retrieve/pii/S2665927123001016)
 * [2023-06-23, 17:50:26](https://news.ycombinator.com/item?id=36450106) - [Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript](https://wirfs-brock.com/allen/posts/166)
