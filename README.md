@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 17:50:26](https://news.ycombinator.com/item?id=36450106) - [Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript](https://wirfs-brock.com/allen/posts/166)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston (2015)](http://www.paulgraham.com/jessica.html)
 * [2023-06-23, 17:28:19](https://news.ycombinator.com/item?id=36449837) - [Show HN: Factiverse AI editor – Fact-checking text made smarter and simpler](https://editor.factiverse.ai/)
 * [2023-06-23, 17:24:02](https://news.ycombinator.com/item?id=36449788) - [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
@@ -15,7 +16,6 @@
 * [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
 * [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
 * [2023-06-23, 14:08:15](https://news.ycombinator.com/item?id=36447024) - [Ask HN: IP cameras that don't require an app or internet?](https://news.ycombinator.com/item?id=36447024)
-* [2023-06-23, 14:02:12](https://news.ycombinator.com/item?id=36446933) - [Windows NT on 600MHz machine opens apps instantly. What happened?](https://twitter.com/jmmv/status/1671670996921896960)
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 13:46:48](https://news.ycombinator.com/item?id=36446766) - [A new, faster algorithm for the group isomorphism problem](https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/)
 * [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
@@ -25,11 +25,11 @@
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)
 * [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
+* [2023-06-22, 20:41:57](https://news.ycombinator.com/item?id=36438654) - [Specimens of Fancy Turning (1869)](https://publicdomainreview.org/collection/fancy-turning)
 * [2023-06-22, 20:00:31](https://news.ycombinator.com/item?id=36437952) - [The Sounds of Invisible Worlds](https://www.noemamag.com/the-sounds-of-invisible-worlds/)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
-* [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee (2015)](https://www.ncausa.org/about-coffee/history-of-coffee)
 
 ## [Archives](archives/index.md)
 
