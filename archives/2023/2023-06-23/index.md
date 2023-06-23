@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 03:39:15](https://news.ycombinator.com/item?id=36442499) - [Framework Laptop feature requests – RISC-V Mainboard](https://community.frame.work/t/risc-v-mainboard/9197)
 * [2023-06-23, 03:18:11](https://news.ycombinator.com/item?id=36442385) - [Open and Closed, Omission and Collapse](https://brooker.co.za/blog/2023/05/10/open-closed.html)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 * [2023-06-23, 02:46:13](https://news.ycombinator.com/item?id=36442209) - [UW CSE 391 – System and Software Tools](https://courses.cs.washington.edu/courses/cse391/23sp/)
