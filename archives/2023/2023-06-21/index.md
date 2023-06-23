@@ -38,6 +38,7 @@
 * [2023-06-21, 17:19:47](https://news.ycombinator.com/item?id=36421473) - [Some were meant for C [pdf]](https://www.humprog.org/~stephen/research/papers/kell17some-preprint.pdf)
 * [2023-06-21, 17:08:55](https://news.ycombinator.com/item?id=36421315) - [Maps Distort How We See the World](https://unchartedterritories.tomaspueyo.com/p/maps-distort-how-we-see-the-world)
 * [2023-06-21, 17:01:29](https://news.ycombinator.com/item?id=36421194) - [Ashby (YC W19) Hiring Engineers Who Make Product Decisions](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=f99c1c4a-07f5-42fa-987e-de9a93f945dd)
+* [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee](https://www.ncausa.org/about-coffee/history-of-coffee)
 * [2023-06-21, 16:43:34](https://news.ycombinator.com/item?id=36420924) - [Amazon duped millions of consumers into enrolling in Prime, US FTC says](https://finance.yahoo.com/news/amazon-duped-millions-consumers-enrolling-141223359.html)
 * [2023-06-21, 16:31:42](https://news.ycombinator.com/item?id=36420712) - [Making Figma better for developers with Dev Mode](https://www.figma.com/blog/introducing-dev-mode/)
 * [2023-06-21, 16:18:35](https://news.ycombinator.com/item?id=36420502) - [What every programmer should know about memory [pdf]](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
