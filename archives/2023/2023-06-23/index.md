@@ -11,6 +11,8 @@
 * [2023-06-23, 14:02:12](https://news.ycombinator.com/item?id=36446933) - [Windows NT on 600MHz machine opens apps instantly. What happened?](https://twitter.com/jmmv/status/1671670996921896960)
 * [2023-06-23, 13:55:01](https://news.ycombinator.com/item?id=36446846) - [New study suggests that lab-grown meat produces up to 25 times more CO2](https://interestingengineering.com/science/lab-grown-meat-25-times-co2)
 * [2023-06-23, 13:54:37](https://news.ycombinator.com/item?id=36446840) - [React Native 0.72 – Symlink Support, Better Errors, and more](https://reactnative.dev/blog/2023/06/21/0.72-metro-package-exports-symlinks)
+* [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
+* [2023-06-23, 13:46:48](https://news.ycombinator.com/item?id=36446766) - [Computer Scientists Inch Closer to Major Algorithmic Goal](https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/)
 * [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
 * [2023-06-23, 13:05:16](https://news.ycombinator.com/item?id=36446289) - [Groundbreaking AI project translates 5k-year-old cuneiform](https://www.timesofisrael.com/groundbreaking-ai-project-translates-5000-year-old-cuneiform-at-push-of-a-button/)
 * [2023-06-23, 12:53:06](https://news.ycombinator.com/item?id=36446158) - [Shrinking a Shared Library](https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html)
