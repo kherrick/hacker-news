@@ -33,6 +33,7 @@
 * [2023-06-23, 15:48:07](https://news.ycombinator.com/item?id=36448526) - [Toronto police are squatting on land meant for affordable housing](https://breachmedia.ca/toronto-police-block-affordable-housing/)
 * [2023-06-23, 15:47:51](https://news.ycombinator.com/item?id=36448523) - [Introduction to (C++) Class Normalization](https://agiledata.org/essays/classNormalization.html)
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
+* [2023-06-23, 15:33:07](https://news.ycombinator.com/item?id=36448293) - [Tour of our 250k line Clojure codebase (2021)](https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
 * [2023-06-23, 15:31:37](https://news.ycombinator.com/item?id=36448270) - [How to create a game using hyperbolic geometry?](http://roguetemple.com/z/hyper/dev.php)
 * [2023-06-23, 15:16:05](https://news.ycombinator.com/item?id=36448005) - [Framework Laptop 16 Deep Dive – 180W Power Adapter](https://frame.work/gb/en/blog/framework-laptop-16-deep-dive---180w-power-adapter)
 * [2023-06-23, 15:07:43](https://news.ycombinator.com/item?id=36447871) - [Show HN: I made a gallery of graphs built with React and D3.js](https://www.react-graph-gallery.com)
