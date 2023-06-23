@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-23, 07:06:41](https://news.ycombinator.com/item?id=36443747) - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
+* [2023-06-23, 06:40:43](https://news.ycombinator.com/item?id=36443596) - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
 * [2023-06-23, 06:07:47](https://news.ycombinator.com/item?id=36443398) - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
 * [2023-06-23, 05:34:26](https://news.ycombinator.com/item?id=36443189) - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
@@ -21,7 +22,6 @@
 * [2023-06-22, 17:54:26](https://news.ycombinator.com/item?id=36436088) - [The Mellotron, an electronic keyboard of recorded samples, changed pop music](https://daily.jstor.org/tape-heads/)
 * [2023-06-22, 17:29:29](https://news.ycombinator.com/item?id=36435698) - [Future ultra-precise timing links to geosynchronous satellites](https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous)
 * [2023-06-22, 12:19:44](https://news.ycombinator.com/item?id=36431004) - [Launch HN: OpenMeter (YC W23) – Real-Time, Open Source Usage Metering](https://news.ycombinator.com/item?id=36431004)
-* [2023-06-21, 22:47:53](https://news.ycombinator.com/item?id=36425758) - [Oscillating Engine Simulator](https://incoherency.co.uk/blog/stories/oscillating-engine-simulator.html)
 * [2023-06-21, 22:43:32](https://news.ycombinator.com/item?id=36425709) - [The PCG64 DXSM random number generator](https://dotat.at/@/2023-06-21-pcg64-dxsm.html)
 * [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee](https://www.ncausa.org/about-coffee/history-of-coffee)
 * [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)

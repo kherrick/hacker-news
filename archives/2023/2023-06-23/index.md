@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
 * [2023-06-23, 07:06:41](https://news.ycombinator.com/item?id=36443747) - [Amazon cancels my account after exposing account lockout for “racist doorbell” [video]](https://www.youtube.com/watch?v=Kcohq313q00)
+* [2023-06-23, 06:40:43](https://news.ycombinator.com/item?id=36443596) - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
 * [2023-06-23, 06:07:47](https://news.ycombinator.com/item?id=36443398) - [OpenSUSE – Closing the Leap Gap (2021)](https://www.suse.com/c/closing-the-leap-gap-src/)
 * [2023-06-23, 05:34:26](https://news.ycombinator.com/item?id=36443189) - [How AI can distort human beliefs](https://www.science.org/doi/10.1126/science.adi0248)
 * [2023-06-23, 03:39:15](https://news.ycombinator.com/item?id=36442499) - [Framework Laptop feature requests – RISC-V Mainboard](https://community.frame.work/t/risc-v-mainboard/9197)
