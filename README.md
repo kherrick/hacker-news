@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 21:59:03](https://news.ycombinator.com/item?id=36452696) - [AlmaLinux's response to Red Hat's policy change](https://lwn.net/Articles/935918/)
+* [2023-06-23, 21:27:28](https://news.ycombinator.com/item?id=36452367) - [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
 * [2023-06-23, 21:19:49](https://news.ycombinator.com/item?id=36452290) - [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
-* [2023-06-23, 21:14:07](https://news.ycombinator.com/item?id=36452226) - [The Elite War on Free Thought](https://www.racket.news/p/the-elite-war-on-free-thought)
 * [2023-06-23, 21:09:12](https://news.ycombinator.com/item?id=36452182) - [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
 * [2023-06-23, 20:41:10](https://news.ycombinator.com/item?id=36451936) - [Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-Time Messaging](https://slack.engineering/real-time-messaging/)
@@ -27,7 +28,6 @@
 * [2023-06-23, 10:57:26](https://news.ycombinator.com/item?id=36445197) - [From Word Models to World Models](https://arxiv.org/abs/2306.12672)
 * [2023-06-22, 20:41:57](https://news.ycombinator.com/item?id=36438654) - [Specimens of Fancy Turning (1869)](https://publicdomainreview.org/collection/fancy-turning)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
-* [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
 * [2023-06-21, 16:51:01](https://news.ycombinator.com/item?id=36421029) - [Musicogenic Seizure](https://en.wikipedia.org/wiki/Musicogenic_seizure)
 
