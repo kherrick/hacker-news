@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-23, 21:09:12](https://news.ycombinator.com/item?id=36452182) - [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
 * [2023-06-23, 20:41:10](https://news.ycombinator.com/item?id=36451936) - [Why Isn't Titan Classed?](http://web.archive.org/web/20200807162348/https://oceangate.com/news-and-media/blog/2019-0221-why-titan-is-not-classed.html)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-Time Messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
@@ -28,7 +29,6 @@
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
-* [2023-06-21, 16:58:19](https://news.ycombinator.com/item?id=36421143) - [The History of Coffee (2015)](https://www.ncausa.org/about-coffee/history-of-coffee)
 * [2023-06-21, 16:51:01](https://news.ycombinator.com/item?id=36421029) - [Musicogenic Seizure](https://en.wikipedia.org/wiki/Musicogenic_seizure)
 
 ## [Archives](archives/index.md)
