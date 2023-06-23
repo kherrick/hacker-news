@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-23, 17:50:26](https://news.ycombinator.com/item?id=36450106) - [Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript (2011)](https://wirfs-brock.com/allen/posts/166)
+* [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
 * [2023-06-23, 17:50:13](https://news.ycombinator.com/item?id=36450104) - [What is driving the high suicide rate among farmers?(2022)](https://news.illinois.edu/view/6367/1856210606)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston (2015)](http://www.paulgraham.com/jessica.html)
 * [2023-06-23, 17:24:02](https://news.ycombinator.com/item?id=36449788) - [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)

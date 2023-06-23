@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
 * [2023-06-23, 17:50:26](https://news.ycombinator.com/item?id=36450106) - [Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript](https://wirfs-brock.com/allen/posts/166)
 * [2023-06-23, 17:50:13](https://news.ycombinator.com/item?id=36450104) - [What is driving the high suicide rate among farmers?(2022)](https://news.illinois.edu/view/6367/1856210606)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston](http://www.paulgraham.com/jessica.html)
