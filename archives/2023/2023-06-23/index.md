@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
+* [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
 * [2023-06-23, 14:29:59](https://news.ycombinator.com/item?id=36447284) - [Lunduke Declares War on A.I](https://lunduke.locals.com/post/4173404/lunduke-declares-war-on-a-i)
+* [2023-06-23, 14:21:20](https://news.ycombinator.com/item?id=36447176) - [Diabetes projected to affect 1.3B people by 2050 as waistlines keep growing](https://studyfinds.org/diabetes-billion-people-globally/)
 * [2023-06-23, 14:17:39](https://news.ycombinator.com/item?id=36447132) - [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
 * [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
 * [2023-06-23, 14:08:15](https://news.ycombinator.com/item?id=36447024) - [Ask HN: IP cameras that don't require an app or internet](https://news.ycombinator.com/item?id=36447024)

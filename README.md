@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron Fuel Shows Its Mettle](https://spectrum.ieee.org/iron-fuel)
-* [2023-06-23, 14:29:59](https://news.ycombinator.com/item?id=36447284) - [Lunduke Declares War on A.I](https://lunduke.locals.com/post/4173404/lunduke-declares-war-on-a-i)
+* [2023-06-23, 14:40:41](https://news.ycombinator.com/item?id=36447433) - [Two US lawyers fined for submitting fake court citations from ChatGPT](https://www.theguardian.com/technology/2023/jun/23/two-us-lawyers-fined-submitting-fake-court-citations-chatgpt)
+* [2023-06-23, 14:21:20](https://news.ycombinator.com/item?id=36447176) - [Diabetes projected to affect 1.3B people by 2050 as waistlines keep growing](https://studyfinds.org/diabetes-billion-people-globally/)
 * [2023-06-23, 14:17:39](https://news.ycombinator.com/item?id=36447132) - [Lab-Grown Chicken Is Now Legal for Sale in the US](https://singularityhub.com/2023/06/23/lab-grown-chicken-is-now-legal-for-sale-in-the-us/)
 * [2023-06-23, 14:12:33](https://news.ycombinator.com/item?id=36447077) - [California will begin backing intentional burns to control wildfire](https://www.freethink.com/science/prescribed-and-cultural-burns)
 * [2023-06-23, 14:02:12](https://news.ycombinator.com/item?id=36446933) - [Windows NT on 600MHz machine opens apps instantly. What happened?](https://twitter.com/jmmv/status/1671670996921896960)
@@ -23,13 +24,12 @@
 * [2023-06-23, 06:40:43](https://news.ycombinator.com/item?id=36443596) - [Around the World with SQLite3 and Rsync](https://fly.io/ruby-dispatch/smooth-fly-dev/)
 * [2023-06-23, 02:56:19](https://news.ycombinator.com/item?id=36442274) - [Anime.js – A lightweight JavaScript animation library](https://animejs.com/)
 * [2023-06-23, 00:44:58](https://news.ycombinator.com/item?id=36441266) - [So you want to write a GUI framework (2021)](http://www.cmyr.net/blog/gui-framework-ingredients.html)
-* [2023-06-23, 00:05:06](https://news.ycombinator.com/item?id=36440980) - [FDA approves first gene therapy treatment of Duchenne muscular dystrophy](https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-treatment-certain-patients-duchenne-muscular-dystrophy)
-* [2023-06-22, 23:56:42](https://news.ycombinator.com/item?id=36440911) - [Eating microwave popcorn increases the level of PFAS in body (2022)](https://www.uclahealth.org/news/eating-microwave-popcorn-increases-the-level-of-pfas-in-body)
 * [2023-06-22, 03:03:48](https://news.ycombinator.com/item?id=36427546) - [Mathematicians Have Found a Shape with a Pattern That Never Repeats](https://www.smithsonianmag.com/smart-news/at-long-last-mathematicians-have-found-a-shape-with-a-pattern-that-never-repeats-180981899/)
 * [2023-06-22, 02:36:49](https://news.ycombinator.com/item?id=36427385) - [EVE Online: Add-in for MS Excel](https://www.eveonline.com/news/view/information-is-power-excel-release)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora, the most advanced Free and Open Source program diffing tool](https://github.com/joxeankoret/diaphora)
 * [2023-06-21, 16:49:31](https://news.ycombinator.com/item?id=36421014) - [Using GPT-4 to measure the passage of time in fiction](https://tedunderwood.com/2023/03/19/using-gpt-4-to-measure-the-passage-of-time-in-fiction/)
 * [2023-06-21, 16:47:55](https://news.ycombinator.com/item?id=36420995) - [Tom MacWright's Projects](https://macwright.com/projects/)
+* [2023-06-21, 16:41:14](https://news.ycombinator.com/item?id=36420890) - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
 
 ## [Archives](archives/index.md)
 
