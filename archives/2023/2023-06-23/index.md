@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 23:28:23](https://news.ycombinator.com/item?id=36453633) - [Tesla FSD Beta ignores stop sign in live test with Ross Gerber and Dan O’Dowd [video]](https://vimeo.com/839020406/838815ed15)
+* [2023-06-23, 23:03:13](https://news.ycombinator.com/item?id=36453404) - [“Car owners are arseholes” is not transport policy](https://blog.bloonface.com/2023/05/11/car-owners-are-arseholes-is-not-transport-policy/)
 * [2023-06-23, 22:41:15](https://news.ycombinator.com/item?id=36453181) - [5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug](https://www.nytimes.com/2023/06/23/world/europe/titan-sub-greek-migrant-boat.html)
 * [2023-06-23, 22:09:40](https://news.ycombinator.com/item?id=36452832) - [Moderation in a Public Commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
 * [2023-06-23, 21:59:03](https://news.ycombinator.com/item?id=36452696) - [AlmaLinux's response to Red Hat's policy change](https://lwn.net/Articles/935918/)
@@ -11,6 +13,7 @@
 * [2023-06-23, 21:48:31](https://news.ycombinator.com/item?id=36452597) - [James Cameron slams OceanGate safety, regrets not speaking up more](https://www.npr.org/2023/06/23/1183975136/james-cameron-titanic-titan-sub)
 * [2023-06-23, 21:36:13](https://news.ycombinator.com/item?id=36452464) - ['Scary moment' as orcas disrupt ocean boat race](https://www.cbc.ca/sports/orcas-ramming-boats-spain-portugal-1.6886891)
 * [2023-06-23, 21:27:28](https://news.ycombinator.com/item?id=36452367) - [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
+* [2023-06-23, 21:22:09](https://news.ycombinator.com/item?id=36452322) - [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
 * [2023-06-23, 21:19:49](https://news.ycombinator.com/item?id=36452290) - [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
 * [2023-06-23, 21:14:07](https://news.ycombinator.com/item?id=36452226) - [The Elite War on Free Thought](https://www.racket.news/p/the-elite-war-on-free-thought)
 * [2023-06-23, 21:09:12](https://news.ycombinator.com/item?id=36452182) - [How to escape meeting hell as an engineer?](https://news.ycombinator.com/item?id=36452182)
