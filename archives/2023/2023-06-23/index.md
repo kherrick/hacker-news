@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
 * [2023-06-23, 23:57:49](https://news.ycombinator.com/item?id=36453856) - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
+* [2023-06-23, 23:53:04](https://news.ycombinator.com/item?id=36453810) - [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
+* [2023-06-23, 23:50:36](https://news.ycombinator.com/item?id=36453790) - [Make your programs run faster by better using the data cache (2020)](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 * [2023-06-23, 23:28:23](https://news.ycombinator.com/item?id=36453633) - [Tesla FSD Beta ignores stop sign in live test with Ross Gerber and Dan O’Dowd [video]](https://vimeo.com/839020406/838815ed15)
 * [2023-06-23, 23:03:13](https://news.ycombinator.com/item?id=36453404) - [“Car owners are arseholes” is not transport policy](https://blog.bloonface.com/2023/05/11/car-owners-are-arseholes-is-not-transport-policy/)
 * [2023-06-23, 22:41:15](https://news.ycombinator.com/item?id=36453181) - [5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug](https://www.nytimes.com/2023/06/23/world/europe/titan-sub-greek-migrant-boat.html)
@@ -31,6 +33,7 @@
 * [2023-06-23, 17:28:19](https://news.ycombinator.com/item?id=36449837) - [Show HN: Factiverse AI editor – Fact-checking text made smarter and simpler](https://editor.factiverse.ai/)
 * [2023-06-23, 17:24:44](https://news.ycombinator.com/item?id=36449794) - [Blackrock recruiter says ‘war is good for business’, spills info on asset giant](https://okeefemediagroup.com/breaking-blackrock-recruiter-who-decides-peoples-fate-says-war-is-good-for-business-while-spilling-info-on-asset-giant/)
 * [2023-06-23, 17:24:02](https://news.ycombinator.com/item?id=36449788) - [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
+* [2023-06-23, 16:25:28](https://news.ycombinator.com/item?id=36449072) - [An interactive guide to color and contrast](https://colorandcontrast.com/)
 * [2023-06-23, 16:15:24](https://news.ycombinator.com/item?id=36448916) - [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)
 * [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
 * [2023-06-23, 16:06:21](https://news.ycombinator.com/item?id=36448789) - [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
