@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 02:33:08](https://news.ycombinator.com/item?id=36454895) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 02:20:25](https://news.ycombinator.com/item?id=36454824) - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
 * [2023-06-24, 02:12:09](https://news.ycombinator.com/item?id=36454783) - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
 * [2023-06-24, 01:34:35](https://news.ycombinator.com/item?id=36454556) - [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
