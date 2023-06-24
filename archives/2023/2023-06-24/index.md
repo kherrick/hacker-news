@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 12:07:43](https://news.ycombinator.com/item?id=36457976) - [It's Dragon Boat Festival Here in Taiwan (With Pictures)](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
 * [2023-06-24, 11:26:15](https://news.ycombinator.com/item?id=36457720) - [And you, Red Hat?](https://hackaday.com/2023/06/23/et-tu-red-hat/)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
+* [2023-06-24, 11:05:02](https://news.ycombinator.com/item?id=36457546) - [Fully Open Public Licence](https://github.com/pjakma/fopl)
+* [2023-06-24, 10:43:58](https://news.ycombinator.com/item?id=36457435) - [Your keyboard layout is broken](https://www.snprajwal.com/blog/keyboards-are-broken/)
 * [2023-06-24, 10:42:43](https://news.ycombinator.com/item?id=36457433) - [The Prigozhin Coup seems pretty damn well organized](https://phillipspobrien.substack.com/p/the-prigozhin-coup-seems-pretty-damn)
 * [2023-06-24, 10:41:40](https://news.ycombinator.com/item?id=36457427) - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
 * [2023-06-24, 10:27:37](https://news.ycombinator.com/item?id=36457347) - [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)

@@ -8,6 +8,7 @@
 * [2023-06-23, 23:53:04](https://news.ycombinator.com/item?id=36453810) - [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
 * [2023-06-23, 23:50:36](https://news.ycombinator.com/item?id=36453790) - [Make your programs run faster by better using the data cache (2020)](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 * [2023-06-23, 23:28:23](https://news.ycombinator.com/item?id=36453633) - [Tesla FSD Beta ignores stop sign in live test with Ross Gerber and Dan O’Dowd [video]](https://vimeo.com/839020406/838815ed15)
+* [2023-06-23, 23:22:38](https://news.ycombinator.com/item?id=36453592) - [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
 * [2023-06-23, 23:03:13](https://news.ycombinator.com/item?id=36453404) - [“Car owners are arseholes” is not transport policy](https://blog.bloonface.com/2023/05/11/car-owners-are-arseholes-is-not-transport-policy/)
 * [2023-06-23, 22:41:15](https://news.ycombinator.com/item?id=36453181) - [5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug](https://www.nytimes.com/2023/06/23/world/europe/titan-sub-greek-migrant-boat.html)
 * [2023-06-23, 22:09:40](https://news.ycombinator.com/item?id=36452832) - [Moderation in a Public Commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
