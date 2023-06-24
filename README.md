@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 22:06:11](https://news.ycombinator.com/item?id=36463078) - [Why Outback Steakhouse is the most popular restaurant in Brazil](https://www.washingtonpost.com/world/2023/06/20/brazil-outback-steakhouse-popular/)
 * [2023-06-24, 21:52:54](https://news.ycombinator.com/item?id=36462973) - [Did studying proof based math topics e.g. analysis make you a better programmer?](https://news.ycombinator.com/item?id=36462973)
 * [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
@@ -19,7 +20,6 @@
 * [2023-06-24, 14:18:42](https://news.ycombinator.com/item?id=36458882) - [Yunohost](https://yunohost.org/en/howtohostyourself)
 * [2023-06-24, 14:14:47](https://news.ycombinator.com/item?id=36458849) - [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
 * [2023-06-24, 13:42:57](https://news.ycombinator.com/item?id=36458625) - [Pi.ai LLM Outperforms Palm/GPT3.5](https://inflection.ai/inflection-1)
-* [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing (2021)](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [2023-06-24, 02:01:47](https://news.ycombinator.com/item?id=36454715) - [Berkshire Before Buffett (2015)](https://globalfinancialdata.com/berkshire-before-buffett)
