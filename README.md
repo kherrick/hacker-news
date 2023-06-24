@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-24, 12:07:43](https://news.ycombinator.com/item?id=36457976) - [It's Dragon Boat Festival Here in Taiwan (With Pictures)](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 * [2023-06-24, 11:05:02](https://news.ycombinator.com/item?id=36457546) - [Fully Open Public Licence](https://github.com/pjakma/fopl)
 * [2023-06-24, 10:43:58](https://news.ycombinator.com/item?id=36457435) - [Your keyboard layout is broken](https://www.snprajwal.com/blog/keyboards-are-broken/)
@@ -26,6 +25,7 @@
 * [2023-06-23, 20:38:46](https://news.ycombinator.com/item?id=36451907) - [Finally getting two's complement](https://neugierig.org/software/blog/2023/06/twos-complement.html)
 * [2023-06-23, 18:34:19](https://news.ycombinator.com/item?id=36450605) - [There’s an exact replica of San Francisco in Japan](https://thebolditalic.com/theres-an-exact-replica-of-san-francisco-in-japan-and-it-s-weird-b8566a747150)
 * [2023-06-23, 17:38:39](https://news.ycombinator.com/item?id=36449957) - [Ferengi Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition)
+* [2023-06-23, 16:25:28](https://news.ycombinator.com/item?id=36449072) - [An interactive guide to color and contrast](https://colorandcontrast.com/)
 * [2023-06-23, 15:59:56](https://news.ycombinator.com/item?id=36448686) - [Mailpit – An email and SMTP testing tool with API](https://github.com/axllent/mailpit)
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron fuel shows its mettle](https://spectrum.ieee.org/iron-fuel)
 * [2023-06-23, 12:04:31](https://news.ycombinator.com/item?id=36445690) - [Sturddlefish](https://en.wikipedia.org/wiki/Sturddlefish)
