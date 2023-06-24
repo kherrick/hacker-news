@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 21:52:54](https://news.ycombinator.com/item?id=36462973) - [Did studying proof based math topics e.g. analysis make you a better programmer?](https://news.ycombinator.com/item?id=36462973)
 * [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
 * [2023-06-24, 20:30:40](https://news.ycombinator.com/item?id=36462414) - [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
@@ -14,7 +15,6 @@
 * [2023-06-24, 17:49:07](https://news.ycombinator.com/item?id=36460937) - [Russian paramilitary chief says his forces will turn around](https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news)
 * [2023-06-24, 16:44:09](https://news.ycombinator.com/item?id=36460243) - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
 * [2023-06-24, 16:09:37](https://news.ycombinator.com/item?id=36459881) - [Creating an autonomous system for fun and profit (2017)](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
-* [2023-06-24, 15:29:41](https://news.ycombinator.com/item?id=36459519) - [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
 * [2023-06-24, 14:49:53](https://news.ycombinator.com/item?id=36459137) - [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
 * [2023-06-24, 14:18:42](https://news.ycombinator.com/item?id=36458882) - [Yunohost](https://yunohost.org/en/howtohostyourself)
 * [2023-06-24, 14:14:47](https://news.ycombinator.com/item?id=36458849) - [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)

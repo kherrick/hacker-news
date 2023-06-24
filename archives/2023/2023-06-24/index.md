@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 21:52:54](https://news.ycombinator.com/item?id=36462973) - [Did studying proof based math topics e.g. analysis make you a better programmer?](https://news.ycombinator.com/item?id=36462973)
 * [2023-06-24, 21:37:04](https://news.ycombinator.com/item?id=36462874) - [What Is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 * [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
