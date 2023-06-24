@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-23](index.md)
 
+* [2023-06-23, 23:57:49](https://news.ycombinator.com/item?id=36453856) - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
 * [2023-06-23, 23:28:23](https://news.ycombinator.com/item?id=36453633) - [Tesla FSD Beta ignores stop sign in live test with Ross Gerber and Dan O’Dowd [video]](https://vimeo.com/839020406/838815ed15)
 * [2023-06-23, 23:03:13](https://news.ycombinator.com/item?id=36453404) - [“Car owners are arseholes” is not transport policy](https://blog.bloonface.com/2023/05/11/car-owners-are-arseholes-is-not-transport-policy/)
 * [2023-06-23, 22:41:15](https://news.ycombinator.com/item?id=36453181) - [5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug](https://www.nytimes.com/2023/06/23/world/europe/titan-sub-greek-migrant-boat.html)
@@ -35,6 +36,7 @@
 * [2023-06-23, 16:06:21](https://news.ycombinator.com/item?id=36448789) - [EU Advocate General: Technical Standards must be freely available without charge](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-06/cp230110en.pdf)
 * [2023-06-23, 16:04:30](https://news.ycombinator.com/item?id=36448759) - [Making C++ Safe Without Borrow Checking, Reference Counting, or Tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 16:00:09](https://news.ycombinator.com/item?id=36448689) - [Removing Official Support for Red Hat Enterprise Linux](https://www.jeffgeerling.com/blog/2023/removing-official-support-red-hat-enterprise-linux)
+* [2023-06-23, 15:59:56](https://news.ycombinator.com/item?id=36448686) - [Mailpit – An email and SMTP testing tool with API](https://github.com/axllent/mailpit)
 * [2023-06-23, 15:48:07](https://news.ycombinator.com/item?id=36448526) - [Toronto police are squatting on land meant for affordable housing](https://breachmedia.ca/toronto-police-block-affordable-housing/)
 * [2023-06-23, 15:47:51](https://news.ycombinator.com/item?id=36448523) - [Introduction to (C++) Class Normalization](https://agiledata.org/essays/classNormalization.html)
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An Open Source Mouse and Trackpad Utility for Mac](https://linearmouse.app/)
