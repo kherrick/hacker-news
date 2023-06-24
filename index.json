@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-24, 14:40:03",
+      "https://news.ycombinator.com/item?id=36459055"
+    ],
+    [
+      "Take action, Protect end-to-end encryption",
+      "https://www.fsf.org/blogs/community/take-action-protect-end-to-end-encryption"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 14:35:31",
       "https://news.ycombinator.com/item?id=36459023"
     ],
@@ -17,16 +27,6 @@
     [
       "FDIC accidentally reveals details about Silicon Valley Bank’s biggest customers",
       "https://www.cnn.com/2023/06/23/investing/svb-bank-fdic/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 14:19:33",
-      "https://news.ycombinator.com/item?id=36458885"
-    ],
-    [
-      "Ask HN: Are you tired of being fully remote?",
-      "https://news.ycombinator.com/item?id=36458885"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now",
       "https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 13:04:39",
-      "https://news.ycombinator.com/item?id=36458366"
-    ],
-    [
-      "Meta says its new speech-generating AI tool is too dangerous to release",
-      "https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release"
     ]
   ],
   [
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2023-06-24, 02:33:08",
+      "https://news.ycombinator.com/item?id=36454895"
+    ],
+    [
+      "Go 1.21 will (probably) download newer toolchains on demand by default",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 02:20:25",
       "https://news.ycombinator.com/item?id=36454824"
     ],
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-06-24, 01:34:35",
+      "https://news.ycombinator.com/item?id=36454556"
+    ],
+    [
+      "PDF Subpage Navigation",
+      "https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 01:00:40",
       "https://news.ycombinator.com/item?id=36454327"
     ],
@@ -187,16 +197,6 @@
     [
       "The rule says, “No vehicles in the park”",
       "https://novehiclesinthepark.com/"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 23:53:04",
-      "https://news.ycombinator.com/item?id=36453810"
-    ],
-    [
-      "64-Bit RISC-V with Apache NuttX Real-Time Operating System",
-      "https://lupyuen.codeberg.page/articles/riscv.html"
     ]
   ],
   [
