@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 16:58:50](https://news.ycombinator.com/item?id=36460434) - [Men are dropping out of the labor force because upset about their social status](https://fortune.com/2022/12/07/men-dropping-out-work-force-status-study/)
+* [2023-06-24, 16:27:57](https://news.ycombinator.com/item?id=36460082) - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
 * [2023-06-24, 16:23:37](https://news.ycombinator.com/item?id=36460036) - [Ask HN: Why does HN require tiny baby fingers to operate on a phone?](https://news.ycombinator.com/item?id=36460036)
 * [2023-06-24, 16:19:51](https://news.ycombinator.com/item?id=36459990) - [Titan sub vs. refugee trawler: how much is a human life worth?](https://www.marxist.com/titan-sub-vs-refugee-trawler-how-much-is-a-human-life-worth.htm)
 * [2023-06-24, 16:09:37](https://news.ycombinator.com/item?id=36459881) - [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
