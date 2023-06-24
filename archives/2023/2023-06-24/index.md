@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 10:12:37](https://news.ycombinator.com/item?id=36457286) - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
+* [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [2023-06-24, 09:09:35](https://news.ycombinator.com/item?id=36456956) - [AI Killed VC](https://ainiro.io/blog/ai-killed-venture-capitalism)
+* [2023-06-24, 09:00:49](https://news.ycombinator.com/item?id=36456887) - [OpenBSD: Game of Trees 0.90 Released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 * [2023-06-24, 08:26:52](https://news.ycombinator.com/item?id=36456694) - [Russia 'Coup' Live Forecast](https://www.swiftcentre.org/russia-liveblog/)
 * [2023-06-24, 07:46:33](https://news.ycombinator.com/item?id=36456513) - [CSS Only dark mode](https://simondalvai.com/blog/css-only-darkmode/)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)

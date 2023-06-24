@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 10:12:37](https://news.ycombinator.com/item?id=36457286) - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
+* [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
-* [2023-06-24, 07:46:33](https://news.ycombinator.com/item?id=36456513) - [CSS Only dark mode without JS](https://simondalvai.com/blog/css-only-darkmode/)
+* [2023-06-24, 09:00:49](https://news.ycombinator.com/item?id=36456887) - [OpenBSD: Game of Trees 0.90 Released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
 * [2023-06-24, 05:16:09](https://news.ycombinator.com/item?id=36455794) - [How to write good code easily with semantic compression](https://caseymuratori.com/blog_0015)
 * [2023-06-24, 04:56:24](https://news.ycombinator.com/item?id=36455697) - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
@@ -19,7 +21,6 @@
 * [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
 * [2023-06-23, 18:34:19](https://news.ycombinator.com/item?id=36450605) - [There’s an exact replica of San Francisco in Japan](https://thebolditalic.com/theres-an-exact-replica-of-san-francisco-in-japan-and-it-s-weird-b8566a747150)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston (2015)](http://www.paulgraham.com/jessica.html)
-* [2023-06-23, 16:25:28](https://news.ycombinator.com/item?id=36449072) - [An interactive guide to color and contrast](https://colorandcontrast.com/)
 * [2023-06-23, 16:06:28](https://news.ycombinator.com/item?id=36448791) - [Full ignition for ESA’s reusable rocket engine](https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine)
 * [2023-06-23, 16:04:30](https://news.ycombinator.com/item?id=36448759) - [Making C++ safe without borrow checking, reference counting, or tracing GC](https://verdagon.dev/blog/vale-memory-safe-cpp)
 * [2023-06-23, 15:59:56](https://news.ycombinator.com/item?id=36448686) - [Mailpit – An email and SMTP testing tool with API](https://github.com/axllent/mailpit)
@@ -28,7 +29,6 @@
 * [2023-06-23, 14:48:21](https://news.ycombinator.com/item?id=36447555) - [Building a Custom Mach-O Memory Loader for macOS](https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/)
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 12:04:31](https://news.ycombinator.com/item?id=36445690) - [Sturddlefish](https://en.wikipedia.org/wiki/Sturddlefish)
-* [2023-06-23, 10:09:18](https://news.ycombinator.com/item?id=36444854) - [Open source licenses need to leave the 1980s and evolve to deal with AI](https://www.theregister.com/2023/06/23/open_source_licenses_ai/)
 * [2023-06-23, 05:07:44](https://news.ycombinator.com/item?id=36443020) - [The Diary of Virginia Woolf review – a book for the ages](https://www.theguardian.com/books/2023/jun/22/the-diary-of-virginia-woolf-review-a-book-for-the-ages)
 
 ## [Archives](archives/index.md)
