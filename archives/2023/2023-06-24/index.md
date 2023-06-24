@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 20:25:41](https://news.ycombinator.com/item?id=36462379) - [Hannah Arendt and the Loss of a Common World: Thinking in Concert Against Theory](https://hedgehogreview.com/issues/by-theory-possessed/articles/hannah-arendt-and-the-loss-of-a-common-world)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 * [2023-06-24, 20:19:16](https://news.ycombinator.com/item?id=36462331) - [Mineverse](https://evanw.github.io/mineverse/)
+* [2023-06-24, 20:13:55](https://news.ycombinator.com/item?id=36462298) - [The Free Soloist Who Fell to Earth](https://www.outsideonline.com/outdoor-adventure/climbing/austin-howell-fallen-soloist/)
 * [2023-06-24, 20:12:18](https://news.ycombinator.com/item?id=36462282) - [The bigger-is-better approach to AI is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
 * [2023-06-24, 19:51:02](https://news.ycombinator.com/item?id=36462117) - [Show HN: HN comments sidebar bookmarklet](https://gist.github.com/postmalloc/e2602752d46c5b9dee24462356f96cca)
 * [2023-06-24, 19:23:39](https://news.ycombinator.com/item?id=36461866) - [Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
