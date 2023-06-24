@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 13:48:23](https://news.ycombinator.com/item?id=36458678) - [AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
 * [2023-06-24, 13:04:39](https://news.ycombinator.com/item?id=36458366) - [Meta says its new speech-generating AI tool is too dangerous to release](https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release)
 * [2023-06-24, 12:40:29](https://news.ycombinator.com/item?id=36458211) - [Putin’s Rewriting of History Draws on a Long Soviet Myth-Making Tradition (2022)](https://www.smithsonianmag.com/history/vladimir-putins-rewriting-of-history-draws-on-a-long-tradition-of-soviet-myth-making-180979724/)
 * [2023-06-24, 12:07:43](https://news.ycombinator.com/item?id=36457976) - [It's Dragon Boat Festival Here in Taiwan (With Pictures)](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
