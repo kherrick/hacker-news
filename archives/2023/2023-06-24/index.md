@@ -26,6 +26,7 @@
 * [2023-06-24, 14:23:44](https://news.ycombinator.com/item?id=36458926) - [Open AI: Imagine if the best AI models were open and free](https://open.ai/)
 * [2023-06-24, 14:21:29](https://news.ycombinator.com/item?id=36458910) - [FDIC accidentally reveals details about Silicon Valley Bank’s biggest customers](https://www.cnn.com/2023/06/23/investing/svb-bank-fdic/index.html)
 * [2023-06-24, 14:19:33](https://news.ycombinator.com/item?id=36458885) - [Ask HN: Are you tired of being fully remote?](https://news.ycombinator.com/item?id=36458885)
+* [2023-06-24, 14:18:42](https://news.ycombinator.com/item?id=36458882) - [Yunohost](https://yunohost.org/en/howtohostyourself)
 * [2023-06-24, 14:14:47](https://news.ycombinator.com/item?id=36458849) - [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
 * [2023-06-24, 14:12:43](https://news.ycombinator.com/item?id=36458833) - [NASA’s Mars Sample Return has a new price tag–and it’s colossal](https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/)
 * [2023-06-24, 14:04:25](https://news.ycombinator.com/item?id=36458780) - [Why Home Manager on NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
