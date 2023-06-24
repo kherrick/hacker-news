@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-24, 19:03:02](https://news.ycombinator.com/item?id=36461701) - [Every Mastodon User Has an RSS Feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
-* [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Do, or do not. There is no try](https://github.com/binpash/try)
 * [2023-06-24, 16:44:09](https://news.ycombinator.com/item?id=36460243) - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
 * [2023-06-24, 16:27:57](https://news.ycombinator.com/item?id=36460082) - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
@@ -18,6 +17,7 @@
 * [2023-06-24, 13:48:23](https://news.ycombinator.com/item?id=36458678) - [AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
 * [2023-06-24, 13:42:57](https://news.ycombinator.com/item?id=36458625) - [Pi.ai LLM Outperforms Palm/GPT3.5](https://inflection.ai/inflection-1)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
+* [2023-06-24, 11:05:02](https://news.ycombinator.com/item?id=36457546) - [Fully Open Public Licence](https://github.com/pjakma/fopl)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing (2021)](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
