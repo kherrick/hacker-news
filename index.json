@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-24, 21:37:04",
-      "https://news.ycombinator.com/item?id=36462874"
-    ],
-    [
-      "What Is Semantic Kernel?",
-      "https://learn.microsoft.com/en-us/semantic-kernel/overview/"
-    ]
-  ],
-  [
-    [
       "2023-06-24, 20:46:28",
       "https://news.ycombinator.com/item?id=36462510"
     ],
@@ -21,12 +11,22 @@
   ],
   [
     [
-      "2023-06-24, 20:25:41",
-      "https://news.ycombinator.com/item?id=36462379"
+      "2023-06-24, 20:46:08",
+      "https://news.ycombinator.com/item?id=36462508"
     ],
     [
-      "Hannah Arendt and the Loss of a Common World: Thinking in Concert Against Theory",
-      "https://hedgehogreview.com/issues/by-theory-possessed/articles/hannah-arendt-and-the-loss-of-a-common-world"
+      "RunInSandbox: Run/extract files in Windows Sandbox with a right-click",
+      "https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 20:30:40",
+      "https://news.ycombinator.com/item?id=36462414"
+    ],
+    [
+      "Fast and free multi-language code editor for Android",
+      "https://github.com/massivemadness/Squircle-CE"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Every Mastodon User Has an RSS Feed",
       "https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 18:58:18",
-      "https://news.ycombinator.com/item?id=36461660"
-    ],
-    [
-      "Leptos, a cutting-edge full-stack Rust framework",
-      "https://leptos.dev/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Anti-Mimetic Tactics for Living a Counter-Cultural Life",
       "https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 16:58:34",
+      "https://news.ycombinator.com/item?id=36449483"
+    ],
+    [
+      "Atari VCS Myst “Demake”",
+      "http://deater.net/weave/vmwprod/myst_vcs/"
     ]
   ],
   [
