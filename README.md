@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 14:12:43](https://news.ycombinator.com/item?id=36458833) - [NASA’s Mars Sample Return has a new price tag–and it’s colossal](https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/)
 * [2023-06-24, 13:48:23](https://news.ycombinator.com/item?id=36458678) - [AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
+* [2023-06-24, 13:13:57](https://news.ycombinator.com/item?id=36458436) - [Apple Maps shows the dark line crawling north past Tula. getting suburban rn](https://twitter.com/_MikeGottschalk/status/1672564006165569536)
 * [2023-06-24, 13:04:39](https://news.ycombinator.com/item?id=36458366) - [Meta says its new speech-generating AI tool is too dangerous to release](https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release)
-* [2023-06-24, 12:07:43](https://news.ycombinator.com/item?id=36457976) - [It's Dragon Boat Festival Here in Taiwan (With Pictures)](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 * [2023-06-24, 11:05:02](https://news.ycombinator.com/item?id=36457546) - [Fully Open Public Licence](https://github.com/pjakma/fopl)
-* [2023-06-24, 10:12:37](https://news.ycombinator.com/item?id=36457286) - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
 * [2023-06-24, 10:06:36](https://news.ycombinator.com/item?id=36457266) - [Wearable device that records your voice for legal defense](https://news.ycombinator.com/item?id=36457266)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
