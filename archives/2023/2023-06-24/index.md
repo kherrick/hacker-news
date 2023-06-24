@@ -6,6 +6,7 @@
 
 * [2023-06-24, 16:23:37](https://news.ycombinator.com/item?id=36460036) - [Ask HN: Why does HN require tiny baby fingers to operate on a phone?](https://news.ycombinator.com/item?id=36460036)
 * [2023-06-24, 16:19:51](https://news.ycombinator.com/item?id=36459990) - [Titan sub vs. refugee trawler: how much is a human life worth?](https://www.marxist.com/titan-sub-vs-refugee-trawler-how-much-is-a-human-life-worth.htm)
+* [2023-06-24, 16:09:37](https://news.ycombinator.com/item?id=36459881) - [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2023-06-24, 16:03:24](https://news.ycombinator.com/item?id=36459827) - [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/)
 * [2023-06-24, 15:29:41](https://news.ycombinator.com/item?id=36459519) - [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
 * [2023-06-24, 15:29:34](https://news.ycombinator.com/item?id=36459517) - [North Korean Market Prices Suggest Serious Food Shortages](https://www.38north.org/2023/06/north-korean-market-prices-suggest-serious-food-shortages/)
