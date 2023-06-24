@@ -11,6 +11,7 @@
 * [2023-06-23, 20:44:06](https://news.ycombinator.com/item?id=36451961) - [How I landed a model rocket [video]](https://www.youtube.com/watch?v=1GanrexRyVY)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-time messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
+* [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston (2015)](http://www.paulgraham.com/jessica.html)
 * [2023-06-23, 17:24:02](https://news.ycombinator.com/item?id=36449788) - [What is a transformer model? (2022)](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
 * [2023-06-23, 16:25:28](https://news.ycombinator.com/item?id=36449072) - [An interactive guide to color and contrast](https://colorandcontrast.com/)
@@ -27,7 +28,6 @@
 * [2023-06-23, 13:47:02](https://news.ycombinator.com/item?id=36446770) - [Tell HN: Interview take home assessments without feedback are frustrating](https://news.ycombinator.com/item?id=36446770)
 * [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
 * [2023-06-23, 12:40:12](https://news.ycombinator.com/item?id=36446045) - [Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
-* [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the programmers?](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora: an open-source program diffing IDA plugin](https://github.com/joxeankoret/diaphora)
 
