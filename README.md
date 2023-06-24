@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-24, 04:37:39](https://news.ycombinator.com/item?id=36455627) - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
+* [2023-06-24, 04:16:20](https://news.ycombinator.com/item?id=36455510) - [OpenSuse Tumbleweed: State-of-the-art desktop and server operating system](https://get.opensuse.org/tumbleweed/)
 * [2023-06-24, 02:33:08](https://news.ycombinator.com/item?id=36454895) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 02:20:25](https://news.ycombinator.com/item?id=36454824) - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
 * [2023-06-24, 02:12:09](https://news.ycombinator.com/item?id=36454783) - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
@@ -10,7 +11,6 @@
 * [2023-06-23, 23:53:04](https://news.ycombinator.com/item?id=36453810) - [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
 * [2023-06-23, 23:50:36](https://news.ycombinator.com/item?id=36453790) - [Make your programs run faster by better using the data cache (2020)](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
 * [2023-06-23, 21:22:09](https://news.ycombinator.com/item?id=36452322) - [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
-* [2023-06-23, 20:44:06](https://news.ycombinator.com/item?id=36451961) - [How I landed a model rocket [video]](https://www.youtube.com/watch?v=1GanrexRyVY)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-time messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston (2015)](http://www.paulgraham.com/jessica.html)
