@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
 * [2023-06-24, 15:29:41](https://news.ycombinator.com/item?id=36459519) - [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
+* [2023-06-24, 15:29:34](https://news.ycombinator.com/item?id=36459517) - [North Korean Market Prices Suggest Serious Food Shortages](https://www.38north.org/2023/06/north-korean-market-prices-suggest-serious-food-shortages/)
 * [2023-06-24, 15:06:22](https://news.ycombinator.com/item?id=36459310) - [Behind the Curtains of Wikipedia Redesign](https://www.smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/)
 * [2023-06-24, 15:02:01](https://news.ycombinator.com/item?id=36459260) - [Inflation is as corrosive to investing as it is to the real economy](https://www.economist.com/briefing/2023/06/21/inflation-is-as-corrosive-to-investing-as-it-is-to-the-real-economy)
 * [2023-06-24, 14:49:53](https://news.ycombinator.com/item?id=36459137) - [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
