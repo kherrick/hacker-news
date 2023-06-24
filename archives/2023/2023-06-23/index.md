@@ -29,6 +29,7 @@
 * [2023-06-23, 20:38:46](https://news.ycombinator.com/item?id=36451907) - [Finally Getting Two's Complement](https://neugierig.org/software/blog/2023/06/twos-complement.html)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-Time Messaging](https://slack.engineering/real-time-messaging/)
 * [2023-06-23, 19:25:43](https://news.ycombinator.com/item?id=36451149) - [Any Deep ReLU Network Is Shallow](https://arxiv.org/abs/2306.11827)
+* [2023-06-23, 18:54:07](https://news.ycombinator.com/item?id=36450824) - [Playing sounds of healthy coral on reefs makes fish return (2019)](https://www.abc.net.au/news/science/2019-12-03/great-barrier-reef-coral-fish-acoustics/11760016)
 * [2023-06-23, 18:54:02](https://news.ycombinator.com/item?id=36450822) - [China solar module prices keep diving](https://www.pv-magazine.com/2023/06/23/china-solar-module-prices-keep-diving/)
 * [2023-06-23, 18:49:12](https://news.ycombinator.com/item?id=36450771) - [Titan sub CEO dismissed safety warnings as 'baseless cries', emails show](https://www.bbc.com/news/world-us-canada-65998914)
 * [2023-06-23, 18:34:19](https://news.ycombinator.com/item?id=36450605) - [There’s an exact replica of San Francisco in Japan](https://thebolditalic.com/theres-an-exact-replica-of-san-francisco-in-japan-and-it-s-weird-b8566a747150)
