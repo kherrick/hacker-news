@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-24, 09:09:35](https://news.ycombinator.com/item?id=36456956) - [AI Killed VC](https://ainiro.io/blog/ai-killed-venture-capitalism)
-* [2023-06-24, 08:26:52](https://news.ycombinator.com/item?id=36456694) - [Russia 'Coup' Live Forecast](https://www.swiftcentre.org/russia-liveblog/)
 * [2023-06-24, 07:46:33](https://news.ycombinator.com/item?id=36456513) - [CSS Only dark mode without JS](https://simondalvai.com/blog/css-only-darkmode/)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
 * [2023-06-24, 04:56:24](https://news.ycombinator.com/item?id=36455697) - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
@@ -27,6 +26,7 @@
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An open-source mouse and trackpad utility for Mac](https://linearmouse.app/)
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron fuel shows its mettle](https://spectrum.ieee.org/iron-fuel)
 * [2023-06-23, 14:48:21](https://news.ycombinator.com/item?id=36447555) - [Building a Custom Mach-O Memory Loader for macOS](https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/)
+* [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 10:09:18](https://news.ycombinator.com/item?id=36444854) - [Open source licenses need to leave the 1980s and evolve to deal with AI](https://www.theregister.com/2023/06/23/open_source_licenses_ai/)
 * [2023-06-23, 05:07:44](https://news.ycombinator.com/item?id=36443020) - [The Diary of Virginia Woolf review – a book for the ages](https://www.theguardian.com/books/2023/jun/22/the-diary-of-virginia-woolf-review-a-book-for-the-ages)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
