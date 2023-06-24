@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 23:12:40](https://news.ycombinator.com/item?id=36463534) - [All EU Members are committed to achieving full climate neutrality by 2050](https://www.ff55.info/about/)
 * [2023-06-24, 22:25:21](https://news.ycombinator.com/item?id=36463188) - [Nhtsa: Car crashes cost Americans $340B, or $1,035 per person](https://www.thecarconnection.com/news/1138400_nhtsa-car-crashes-cost-americans-340b-or-1-035-per-person)
-* [2023-06-24, 22:06:11](https://news.ycombinator.com/item?id=36463078) - [Why Outback Steakhouse is the most popular restaurant in Brazil](https://www.washingtonpost.com/world/2023/06/20/brazil-outback-steakhouse-popular/)
 * [2023-06-24, 21:52:54](https://news.ycombinator.com/item?id=36462973) - [Did studying proof based math topics e.g. analysis make you a better programmer?](https://news.ycombinator.com/item?id=36462973)
 * [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
