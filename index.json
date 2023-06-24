@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-06-24, 15:02:38",
-      "https://news.ycombinator.com/item?id=36459267"
-    ],
-    [
-      "Vitrification enables long-term kidney cryopreservation transplantation in rats",
-      "https://www.nature.com/articles/s41467-023-38824-8"
-    ]
-  ],
-  [
-    [
       "2023-06-24, 14:49:53",
       "https://news.ycombinator.com/item?id=36459137"
     ],
@@ -167,6 +157,16 @@
     [
       "Why doesn't TypeScript properly type Object.keys?",
       "https://alexharri.com/blog/typescript-structural-typing"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 11:05:02",
+      "https://news.ycombinator.com/item?id=36457546"
+    ],
+    [
+      "Fully Open Public Licence",
+      "https://github.com/pjakma/fopl"
     ]
   ],
   [
