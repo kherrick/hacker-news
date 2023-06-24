@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Do, or do not. There is no try](https://github.com/binpash/try)
 * [2023-06-24, 17:49:07](https://news.ycombinator.com/item?id=36460937) - [Russian paramilitary chief says his forces will turn around](https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news)
 * [2023-06-24, 16:58:50](https://news.ycombinator.com/item?id=36460434) - [Men are dropping out of the labor force because upset about their social status](https://fortune.com/2022/12/07/men-dropping-out-work-force-status-study/)

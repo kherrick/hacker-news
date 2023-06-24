@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Do, or do not. There is no try](https://github.com/binpash/try)
 * [2023-06-24, 16:44:09](https://news.ycombinator.com/item?id=36460243) - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
-* [2023-06-24, 16:27:57](https://news.ycombinator.com/item?id=36460082) - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
 * [2023-06-24, 16:16:00](https://news.ycombinator.com/item?id=36459949) - [Flying taxi at the Paris air show is quiet – too quiet](https://www.wsj.com/articles/this-flying-taxi-at-the-paris-air-show-is-quiet-too-quiet-d3042497)
 * [2023-06-24, 16:09:37](https://news.ycombinator.com/item?id=36459881) - [Creating an autonomous system for fun and profit (2017)](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2023-06-24, 16:03:24](https://news.ycombinator.com/item?id=36459827) - [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/)
