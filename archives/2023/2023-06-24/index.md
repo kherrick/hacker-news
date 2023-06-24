@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 21:37:04](https://news.ycombinator.com/item?id=36462874) - [What Is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+* [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
 * [2023-06-24, 20:25:41](https://news.ycombinator.com/item?id=36462379) - [Hannah Arendt and the Loss of a Common World: Thinking in Concert Against Theory](https://hedgehogreview.com/issues/by-theory-possessed/articles/hannah-arendt-and-the-loss-of-a-common-world)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 * [2023-06-24, 20:19:16](https://news.ycombinator.com/item?id=36462331) - [Mineverse](https://evanw.github.io/mineverse/)

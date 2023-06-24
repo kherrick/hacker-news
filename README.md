@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 21:37:04](https://news.ycombinator.com/item?id=36462874) - [What Is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+* [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
 * [2023-06-24, 20:25:41](https://news.ycombinator.com/item?id=36462379) - [Hannah Arendt and the Loss of a Common World: Thinking in Concert Against Theory](https://hedgehogreview.com/issues/by-theory-possessed/articles/hannah-arendt-and-the-loss-of-a-common-world)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 * [2023-06-24, 20:19:16](https://news.ycombinator.com/item?id=36462331) - [Mineverse](https://evanw.github.io/mineverse/)
@@ -15,10 +17,8 @@
 * [2023-06-24, 16:09:37](https://news.ycombinator.com/item?id=36459881) - [Creating an autonomous system for fun and profit (2017)](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2023-06-24, 15:29:41](https://news.ycombinator.com/item?id=36459519) - [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
 * [2023-06-24, 14:49:53](https://news.ycombinator.com/item?id=36459137) - [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
-* [2023-06-24, 14:40:03](https://news.ycombinator.com/item?id=36459055) - [Take action, Protect end-to-end encryption](https://www.fsf.org/blogs/community/take-action-protect-end-to-end-encryption)
 * [2023-06-24, 14:18:42](https://news.ycombinator.com/item?id=36458882) - [Yunohost](https://yunohost.org/en/howtohostyourself)
 * [2023-06-24, 14:14:47](https://news.ycombinator.com/item?id=36458849) - [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
-* [2023-06-24, 14:04:25](https://news.ycombinator.com/item?id=36458780) - [Why and how to add Home Manager to NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
 * [2023-06-24, 13:42:57](https://news.ycombinator.com/item?id=36458625) - [Pi.ai LLM Outperforms Palm/GPT3.5](https://inflection.ai/inflection-1)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
