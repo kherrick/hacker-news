@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-24, 16:58:50](https://news.ycombinator.com/item?id=36460434) - [Men are dropping out of the labor force because upset about their social status](https://fortune.com/2022/12/07/men-dropping-out-work-force-status-study/)
+* [2023-06-24, 16:44:09](https://news.ycombinator.com/item?id=36460243) - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
 * [2023-06-24, 16:27:57](https://news.ycombinator.com/item?id=36460082) - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
 * [2023-06-24, 16:09:37](https://news.ycombinator.com/item?id=36459881) - [Creating an Autonomous System for Fun and Profit](https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2023-06-24, 16:03:24](https://news.ycombinator.com/item?id=36459827) - [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/)
