@@ -32,6 +32,7 @@
 * [2023-06-23, 18:49:12](https://news.ycombinator.com/item?id=36450771) - [Titan sub CEO dismissed safety warnings as 'baseless cries', emails show](https://www.bbc.com/news/world-us-canada-65998914)
 * [2023-06-23, 18:34:19](https://news.ycombinator.com/item?id=36450605) - [There’s an exact replica of San Francisco in Japan](https://thebolditalic.com/theres-an-exact-replica-of-san-francisco-in-japan-and-it-s-weird-b8566a747150)
 * [2023-06-23, 18:25:07](https://news.ycombinator.com/item?id=36450505) - [Lactoferrin alleviates Western diet-induced cognitive impairment](https://linkinghub.elsevier.com/retrieve/pii/S2665927123001016)
+* [2023-06-23, 18:23:17](https://news.ycombinator.com/item?id=36450483) - [Exploring CoAP with Packet Captures](https://github.com/hasheddan/coap-pcap)
 * [2023-06-23, 17:50:26](https://news.ycombinator.com/item?id=36450106) - [Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript](https://wirfs-brock.com/allen/posts/166)
 * [2023-06-23, 17:50:13](https://news.ycombinator.com/item?id=36450104) - [What is driving the high suicide rate among farmers?(2022)](https://news.illinois.edu/view/6367/1856210606)
 * [2023-06-23, 17:38:39](https://news.ycombinator.com/item?id=36449957) - [Ferengi Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 14:21:29](https://news.ycombinator.com/item?id=36458910) - [FDIC accidentally reveals details about Silicon Valley Bank’s biggest customers](https://www.cnn.com/2023/06/23/investing/svb-bank-fdic/index.html)
 * [2023-06-24, 14:14:47](https://news.ycombinator.com/item?id=36458849) - [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
 * [2023-06-24, 14:12:43](https://news.ycombinator.com/item?id=36458833) - [NASA’s Mars Sample Return has a new price tag–and it’s colossal](https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/)
 * [2023-06-24, 13:48:23](https://news.ycombinator.com/item?id=36458678) - [AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
