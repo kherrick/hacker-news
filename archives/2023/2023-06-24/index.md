@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 16:23:37](https://news.ycombinator.com/item?id=36460036) - [Ask HN: Why does HN require tiny baby fingers to operate on a phone?](https://news.ycombinator.com/item?id=36460036)
+* [2023-06-24, 16:19:51](https://news.ycombinator.com/item?id=36459990) - [Titan sub vs. refugee trawler: how much is a human life worth?](https://www.marxist.com/titan-sub-vs-refugee-trawler-how-much-is-a-human-life-worth.htm)
+* [2023-06-24, 16:03:24](https://news.ycombinator.com/item?id=36459827) - [Visual Studio’s IntelliSense list can now steer GitHub Copilot code completions](https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/)
 * [2023-06-24, 15:29:41](https://news.ycombinator.com/item?id=36459519) - [New rule would give electric utilities incentives for investing in cybersecurity](https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment)
 * [2023-06-24, 15:29:34](https://news.ycombinator.com/item?id=36459517) - [North Korean Market Prices Suggest Serious Food Shortages](https://www.38north.org/2023/06/north-korean-market-prices-suggest-serious-food-shortages/)
 * [2023-06-24, 15:06:22](https://news.ycombinator.com/item?id=36459310) - [Behind the Curtains of Wikipedia Redesign](https://www.smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/)
+* [2023-06-24, 15:02:38](https://news.ycombinator.com/item?id=36459267) - [Vitrification enables long-term kidney cryopreservation transplantation in rats](https://www.nature.com/articles/s41467-023-38824-8)
 * [2023-06-24, 15:02:01](https://news.ycombinator.com/item?id=36459260) - [Inflation is as corrosive to investing as it is to the real economy](https://www.economist.com/briefing/2023/06/21/inflation-is-as-corrosive-to-investing-as-it-is-to-the-real-economy)
 * [2023-06-24, 14:49:53](https://news.ycombinator.com/item?id=36459137) - [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
 * [2023-06-24, 14:40:03](https://news.ycombinator.com/item?id=36459055) - [Take action, Protect end-to-end encryption](https://www.fsf.org/blogs/community/take-action-protect-end-to-end-encryption)
@@ -19,6 +23,7 @@
 * [2023-06-24, 14:04:25](https://news.ycombinator.com/item?id=36458780) - [Why Home Manager on NixOS](https://drakerossman.com/blog/how-to-add-home-manager-to-nixos)
 * [2023-06-24, 13:48:23](https://news.ycombinator.com/item?id=36458678) - [AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
 * [2023-06-24, 13:42:57](https://news.ycombinator.com/item?id=36458625) - [Pi.ai LLM Outperforms Palm/GPT3.5](https://inflection.ai/inflection-1)
+* [2023-06-24, 13:27:09](https://news.ycombinator.com/item?id=36458515) - [Suddenly, It Looks Like We’re in a Golden Age for Medicine](https://www.nytimes.com/2023/06/23/magazine/golden-age-medicine-biomedical-innovation.html)
 * [2023-06-24, 13:13:57](https://news.ycombinator.com/item?id=36458436) - [Apple Maps shows the dark line crawling north past Tula. getting suburban rn](https://twitter.com/_MikeGottschalk/status/1672564006165569536)
 * [2023-06-24, 13:04:39](https://news.ycombinator.com/item?id=36458366) - [Meta says its new speech-generating AI tool is too dangerous to release](https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release)
 * [2023-06-24, 12:40:29](https://news.ycombinator.com/item?id=36458211) - [Putin’s Rewriting of History Draws on a Long Soviet Myth-Making Tradition (2022)](https://www.smithsonianmag.com/history/vladimir-putins-rewriting-of-history-draws-on-a-long-tradition-of-soviet-myth-making-180979724/)
