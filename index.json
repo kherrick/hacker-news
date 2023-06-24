@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-24, 23:51:00",
+      "https://news.ycombinator.com/item?id=36463810"
+    ],
+    [
+      "MIT Responds to “ Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]",
+      "https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 23:24:10",
+      "https://news.ycombinator.com/item?id=36463625"
+    ],
+    [
+      "Interactive CommonMark Tutorial",
+      "https://commonmark.org/help/tutorial/index.html"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 23:12:40",
       "https://news.ycombinator.com/item?id=36463534"
     ],
@@ -47,16 +67,6 @@
     [
       "RunInSandbox: Run/extract files in Windows Sandbox with a right-click",
       "https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 20:30:40",
-      "https://news.ycombinator.com/item?id=36462414"
-    ],
-    [
-      "Fast and free multi-language code editor for Android",
-      "https://github.com/massivemadness/Squircle-CE"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2023-06-24, 09:25:33",
-      "https://news.ycombinator.com/item?id=36457051"
-    ],
-    [
-      "Common Bugs in Writing (2021)",
-      "https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html"
-    ]
-  ],
-  [
-    [
       "2023-06-24, 02:01:47",
       "https://news.ycombinator.com/item?id=36454715"
     ],
     [
       "Berkshire Before Buffett (2015)",
       "https://globalfinancialdata.com/berkshire-before-buffett"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 01:26:05",
-      "https://news.ycombinator.com/item?id=36454494"
-    ],
-    [
-      "The Magic of Embeddings",
-      "https://stack.convex.dev/the-magic-of-embeddings"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Intel Releases x86-SIMD-sort 2.0 With Faster AVX-512 Sorting, New Algorithms",
       "https://www.phoronix.com/news/Intel-x86-simd-sort-2.0"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 18:54:07",
+      "https://news.ycombinator.com/item?id=36450824"
+    ],
+    [
+      "Playing sounds of healthy coral on reefs makes fish return (2019)",
+      "https://www.abc.net.au/news/science/2019-12-03/great-barrier-reef-coral-fish-acoustics/11760016"
     ]
   ],
   [
