@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-24, 07:46:33",
+      "https://news.ycombinator.com/item?id=36456513"
+    ],
+    [
+      "CSS Only dark mode",
+      "https://simondalvai.com/blog/css-only-darkmode/"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 05:30:47",
       "https://news.ycombinator.com/item?id=36455843"
     ],
@@ -287,16 +297,6 @@
     [
       "A bejeweled prayer book has been identified as belonging to Thomas Cromwell",
       "https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174"
-    ]
-  ],
-  [
-    [
-      "2023-06-21, 20:58:39",
-      "https://news.ycombinator.com/item?id=36424375"
-    ],
-    [
-      "Diaphora: an open-source program diffing IDA plugin",
-      "https://github.com/joxeankoret/diaphora"
     ]
   ]
 ]
