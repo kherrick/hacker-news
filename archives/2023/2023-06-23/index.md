@@ -43,6 +43,7 @@
 * [2023-06-23, 17:24:44](https://news.ycombinator.com/item?id=36449794) - [Blackrock recruiter says ‘war is good for business’, spills info on asset giant](https://okeefemediagroup.com/breaking-blackrock-recruiter-who-decides-peoples-fate-says-war-is-good-for-business-while-spilling-info-on-asset-giant/)
 * [2023-06-23, 17:24:02](https://news.ycombinator.com/item?id=36449788) - [What Is a Transformer Model?](https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/)
 * [2023-06-23, 17:09:06](https://news.ycombinator.com/item?id=36449619) - [Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
+* [2023-06-23, 16:58:34](https://news.ycombinator.com/item?id=36449483) - [Atari VCS Myst “Demake”](http://deater.net/weave/vmwprod/myst_vcs/)
 * [2023-06-23, 16:56:20](https://news.ycombinator.com/item?id=36449460) - [The Imperial Daquiri: A Brief History of American Empire in One Cocktail](https://www.historians.org/research-and-publications/perspectives-on-history/summer-2023/the-imperial-daiquiri-a-brief-history-of-american-empire-in-one-cocktail)
 * [2023-06-23, 16:25:28](https://news.ycombinator.com/item?id=36449072) - [An interactive guide to color and contrast](https://colorandcontrast.com/)
 * [2023-06-23, 16:15:24](https://news.ycombinator.com/item?id=36448916) - [Building an ML Training Pipeline with MinIO and Kubeflow v2.0](https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/)

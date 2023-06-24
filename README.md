@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-24, 21:37:04](https://news.ycombinator.com/item?id=36462874) - [What Is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 * [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
-* [2023-06-24, 20:25:41](https://news.ycombinator.com/item?id=36462379) - [Hannah Arendt and the Loss of a Common World: Thinking in Concert Against Theory](https://hedgehogreview.com/issues/by-theory-possessed/articles/hannah-arendt-and-the-loss-of-a-common-world)
+* [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
+* [2023-06-24, 20:30:40](https://news.ycombinator.com/item?id=36462414) - [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 * [2023-06-24, 20:19:16](https://news.ycombinator.com/item?id=36462331) - [Mineverse](https://evanw.github.io/mineverse/)
 * [2023-06-24, 20:13:55](https://news.ycombinator.com/item?id=36462298) - [The Free Soloist Who Fell to Earth](https://www.outsideonline.com/outdoor-adventure/climbing/austin-howell-fallen-soloist/)
@@ -10,7 +10,6 @@
 * [2023-06-24, 19:51:02](https://news.ycombinator.com/item?id=36462117) - [Show HN: HN comments sidebar bookmarklet](https://gist.github.com/postmalloc/e2602752d46c5b9dee24462356f96cca)
 * [2023-06-24, 19:23:39](https://news.ycombinator.com/item?id=36461866) - [Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
 * [2023-06-24, 19:03:02](https://news.ycombinator.com/item?id=36461701) - [Every Mastodon User Has an RSS Feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
-* [2023-06-24, 18:58:18](https://news.ycombinator.com/item?id=36461660) - [Leptos, a cutting-edge full-stack Rust framework](https://leptos.dev/)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Do, or do not. There is no try](https://github.com/binpash/try)
 * [2023-06-24, 17:49:07](https://news.ycombinator.com/item?id=36460937) - [Russian paramilitary chief says his forces will turn around](https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news)
 * [2023-06-24, 16:44:09](https://news.ycombinator.com/item?id=36460243) - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
@@ -29,6 +28,7 @@
 * [2023-06-23, 21:48:29](https://news.ycombinator.com/item?id=36452596) - [Intel Releases x86-SIMD-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
 * [2023-06-23, 18:23:40](https://news.ycombinator.com/item?id=36450490) - [What Alan Turing means to us](https://www.turing.ac.uk/blog/what-alan-turing-means-us)
 * [2023-06-23, 17:09:06](https://news.ycombinator.com/item?id=36449619) - [Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
+* [2023-06-23, 16:58:34](https://news.ycombinator.com/item?id=36449483) - [Atari VCS Myst “Demake”](http://deater.net/weave/vmwprod/myst_vcs/)
 * [2023-06-23, 15:45:04](https://news.ycombinator.com/item?id=36448466) - [Culture eats policy](https://www.niskanencenter.org/culture-eats-policy/)
 
 ## [Archives](archives/index.md)
