@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
+* [2023-06-24, 20:19:16](https://news.ycombinator.com/item?id=36462331) - [Mineverse](https://evanw.github.io/mineverse/)
+* [2023-06-24, 20:12:18](https://news.ycombinator.com/item?id=36462282) - [The bigger-is-better approach to AI is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
 * [2023-06-24, 19:51:02](https://news.ycombinator.com/item?id=36462117) - [Show HN: HN comments sidebar bookmarklet](https://gist.github.com/postmalloc/e2602752d46c5b9dee24462356f96cca)
 * [2023-06-24, 19:23:39](https://news.ycombinator.com/item?id=36461866) - [Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
 * [2023-06-24, 19:03:02](https://news.ycombinator.com/item?id=36461701) - [Every Mastodon User Has an RSS Feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
@@ -65,6 +68,7 @@
 * [2023-06-24, 02:33:08](https://news.ycombinator.com/item?id=36454895) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 02:20:25](https://news.ycombinator.com/item?id=36454824) - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
 * [2023-06-24, 02:12:09](https://news.ycombinator.com/item?id=36454783) - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
+* [2023-06-24, 02:01:47](https://news.ycombinator.com/item?id=36454715) - [Berkshire Before Buffett (2015)](https://globalfinancialdata.com/berkshire-before-buffett)
 * [2023-06-24, 01:34:35](https://news.ycombinator.com/item?id=36454556) - [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
 * [2023-06-24, 01:26:05](https://news.ycombinator.com/item?id=36454494) - [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
 * [2023-06-24, 01:05:30](https://news.ycombinator.com/item?id=36454362) - [Declassified U.S. report on origins of Covid-19 virus [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origins-of-COVID-19-20230623.pdf)
