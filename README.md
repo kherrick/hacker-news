@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
-* [2023-06-24, 10:42:43](https://news.ycombinator.com/item?id=36457433) - [The Prigozhin Coup seems pretty damn well organized](https://phillipspobrien.substack.com/p/the-prigozhin-coup-seems-pretty-damn)
 * [2023-06-24, 10:41:40](https://news.ycombinator.com/item?id=36457427) - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
 * [2023-06-24, 10:27:37](https://news.ycombinator.com/item?id=36457347) - [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
 * [2023-06-24, 10:12:37](https://news.ycombinator.com/item?id=36457286) - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
@@ -13,6 +12,7 @@
 * [2023-06-24, 05:16:09](https://news.ycombinator.com/item?id=36455794) - [How to write good code easily with semantic compression](https://caseymuratori.com/blog_0015)
 * [2023-06-24, 04:56:24](https://news.ycombinator.com/item?id=36455697) - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
 * [2023-06-24, 04:37:39](https://news.ycombinator.com/item?id=36455627) - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
+* [2023-06-24, 04:16:20](https://news.ycombinator.com/item?id=36455510) - [OpenSuse Tumbleweed: State-of-the-art desktop and server operating system](https://get.opensuse.org/tumbleweed/)
 * [2023-06-24, 02:33:08](https://news.ycombinator.com/item?id=36454895) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 02:20:25](https://news.ycombinator.com/item?id=36454824) - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
 * [2023-06-24, 02:12:09](https://news.ycombinator.com/item?id=36454783) - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
