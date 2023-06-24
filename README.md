@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 07:46:33](https://news.ycombinator.com/item?id=36456513) - [CSS Only dark mode](https://simondalvai.com/blog/css-only-darkmode/)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
 * [2023-06-24, 04:56:24](https://news.ycombinator.com/item?id=36455697) - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
 * [2023-06-24, 04:37:39](https://news.ycombinator.com/item?id=36455627) - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
@@ -29,7 +30,6 @@
 * [2023-06-23, 10:09:18](https://news.ycombinator.com/item?id=36444854) - [Open source licenses need to leave the 1980s and evolve to deal with AI](https://www.theregister.com/2023/06/23/open_source_licenses_ai/)
 * [2023-06-23, 05:07:44](https://news.ycombinator.com/item?id=36443020) - [The Diary of Virginia Woolf review – a book for the ages](https://www.theguardian.com/books/2023/jun/22/the-diary-of-virginia-woolf-review-a-book-for-the-ages)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
-* [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora: an open-source program diffing IDA plugin](https://github.com/joxeankoret/diaphora)
 
 ## [Archives](archives/index.md)
 
