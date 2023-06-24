@@ -7,7 +7,6 @@
 * [2023-06-23, 23:57:49](https://news.ycombinator.com/item?id=36453856) - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
 * [2023-06-23, 23:53:04](https://news.ycombinator.com/item?id=36453810) - [64-Bit RISC-V with Apache NuttX Real-Time Operating System](https://lupyuen.codeberg.page/articles/riscv.html)
 * [2023-06-23, 23:50:36](https://news.ycombinator.com/item?id=36453790) - [Make your programs run faster by better using the data cache (2020)](https://johnnysswlab.com/make-your-programs-run-faster-by-better-using-the-data-cache/)
-* [2023-06-23, 21:36:13](https://news.ycombinator.com/item?id=36452464) - ['Scary moment' as orcas disrupt ocean boat race](https://www.cbc.ca/sports/orcas-ramming-boats-spain-portugal-1.6886891)
 * [2023-06-23, 21:22:09](https://news.ycombinator.com/item?id=36452322) - [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
 * [2023-06-23, 20:44:06](https://news.ycombinator.com/item?id=36451961) - [How I landed a model rocket [video]](https://www.youtube.com/watch?v=1GanrexRyVY)
 * [2023-06-23, 20:04:01](https://news.ycombinator.com/item?id=36451572) - [Real-time messaging](https://slack.engineering/real-time-messaging/)
@@ -28,6 +27,7 @@
 * [2023-06-23, 13:47:02](https://news.ycombinator.com/item?id=36446770) - [Tell HN: Interview take home assessments without feedback are frustrating](https://news.ycombinator.com/item?id=36446770)
 * [2023-06-23, 13:34:13](https://news.ycombinator.com/item?id=36446637) - [Arwes: Futuristic Sci-Fi UI Web Framework](https://github.com/arwes/arwes)
 * [2023-06-23, 12:40:12](https://news.ycombinator.com/item?id=36446045) - [Show HN: An open-source, collaborative, WYSIWYG Markdown editor](https://editor.vrite.io/)
+* [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the programmers?](https://danielbmarkham.com/twilight-of-the-programmers/)
 * [2023-06-22, 19:49:05](https://news.ycombinator.com/item?id=36437767) - [A bejeweled prayer book has been identified as belonging to Thomas Cromwell](https://news.artnet.com/art-world/thomas-cromwell-prayer-book-trinity-college-cambridge-2319174)
 * [2023-06-21, 20:58:39](https://news.ycombinator.com/item?id=36424375) - [Diaphora: an open-source program diffing IDA plugin](https://github.com/joxeankoret/diaphora)
 
