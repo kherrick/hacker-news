@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 11:26:15](https://news.ycombinator.com/item?id=36457720) - [And you, Red Hat?](https://hackaday.com/2023/06/23/et-tu-red-hat/)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 * [2023-06-24, 10:42:43](https://news.ycombinator.com/item?id=36457433) - [The Prigozhin Coup seems pretty damn well organized](https://phillipspobrien.substack.com/p/the-prigozhin-coup-seems-pretty-damn)
 * [2023-06-24, 10:41:40](https://news.ycombinator.com/item?id=36457427) - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
