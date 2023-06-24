@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 04:37:39](https://news.ycombinator.com/item?id=36455627) - [A large crash spike affecting Firefox users on Linux](https://fosstodon.org/@gabrielesvelto/110592904713090347)
 * [2023-06-24, 02:33:08](https://news.ycombinator.com/item?id=36454895) - [Go 1.21 will (probably) download newer toolchains on demand by default](https://utcc.utoronto.ca/~cks/space/blog/programming/Go121ToolchainDownloads)
 * [2023-06-24, 02:20:25](https://news.ycombinator.com/item?id=36454824) - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
 * [2023-06-24, 02:12:09](https://news.ycombinator.com/item?id=36454783) - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
@@ -22,7 +23,6 @@
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An open-source mouse and trackpad utility for Mac](https://linearmouse.app/)
 * [2023-06-23, 15:33:07](https://news.ycombinator.com/item?id=36448293) - [Tour of our 250k line Clojure codebase (2021)](https://blog.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/)
 * [2023-06-23, 15:31:37](https://news.ycombinator.com/item?id=36448270) - [How to create a game using hyperbolic geometry? (2020)](http://roguetemple.com/z/hyper/dev.php)
-* [2023-06-23, 15:07:43](https://news.ycombinator.com/item?id=36447871) - [Show HN: A gallery of graphs built with React and D3.js](https://www.react-graph-gallery.com)
 * [2023-06-23, 14:48:21](https://news.ycombinator.com/item?id=36447555) - [Building a Custom Mach-O Memory Loader for macOS](https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/)
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 13:47:02](https://news.ycombinator.com/item?id=36446770) - [Tell HN: Interview take home assessments without feedback are frustrating](https://news.ycombinator.com/item?id=36446770)
