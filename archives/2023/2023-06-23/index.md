@@ -73,6 +73,7 @@
 * [2023-06-23, 12:24:47](https://news.ycombinator.com/item?id=36445875) - [The Most Mysterious Song on the Internet](https://en.wikipedia.org/wiki/The_Most_Mysterious_Song_on_the_Internet)
 * [2023-06-23, 12:23:22](https://news.ycombinator.com/item?id=36445855) - [Titanic director James Cameron accuses OceanGate of cutting corners](https://www.bbc.com/news/world-us-canada-65994707)
 * [2023-06-23, 12:04:44](https://news.ycombinator.com/item?id=36445693) - [The Pentagon’s $52,000 trash can](https://responsiblestatecraft.org/2023/06/20/the-pentagons-52000-trash-can/)
+* [2023-06-23, 12:04:31](https://news.ycombinator.com/item?id=36445690) - [Sturddlefish](https://en.wikipedia.org/wiki/Sturddlefish)
 * [2023-06-23, 12:01:16](https://news.ycombinator.com/item?id=36445656) - [GiveCampus (YC S15) hiring rails engineers passionate about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-06-23, 11:57:05](https://news.ycombinator.com/item?id=36445625) - [White Rabbit Project (2020)](https://ohwr.org/project/white-rabbit/wikis/home)
 * [2023-06-23, 11:41:41](https://news.ycombinator.com/item?id=36445513) - [Twilight of the Programmers](https://danielbmarkham.com/twilight-of-the-programmers/)
