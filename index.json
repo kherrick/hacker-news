@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-06-24, 15:29:41",
+      "https://news.ycombinator.com/item?id=36459519"
+    ],
+    [
+      "New rule would give electric utilities incentives for investing in cybersecurity",
+      "https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 15:02:01",
+      "https://news.ycombinator.com/item?id=36459260"
+    ],
+    [
+      "Inflation is as corrosive to investing as it is to the real economy",
+      "https://www.economist.com/briefing/2023/06/21/inflation-is-as-corrosive-to-investing-as-it-is-to-the-real-economy"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 14:49:53",
+      "https://news.ycombinator.com/item?id=36459137"
+    ],
+    [
+      "Simple Statistics: Statistical methods in JavaScript for browsers and servers",
+      "https://simple-statistics.github.io/"
+    ]
+  ],
+  [
+    [
       "2023-06-24, 14:40:03",
       "https://news.ycombinator.com/item?id=36459055"
     ],
@@ -17,6 +47,16 @@
     [
       "Now on the menu at Toast: A new 99 cent fee",
       "https://www.boston.com/news/the-boston-globe/2023/06/24/new-toast-fee/"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 14:23:44",
+      "https://news.ycombinator.com/item?id=36458926"
+    ],
+    [
+      "Open AI: Imagine if the best AI models were open and free",
+      "https://open.ai/"
     ]
   ],
   [
@@ -41,12 +81,12 @@
   ],
   [
     [
-      "2023-06-24, 14:12:43",
-      "https://news.ycombinator.com/item?id=36458833"
+      "2023-06-24, 14:04:25",
+      "https://news.ycombinator.com/item?id=36458780"
     ],
     [
-      "NASA’s Mars Sample Return has a new price tag–and it’s colossal",
-      "https://arstechnica.com/space/2023/06/the-mars-sample-return-mission-is-starting-to-give-nasa-sticker-shock/"
+      "Why Home Manager on NixOS",
+      "https://drakerossman.com/blog/how-to-add-home-manager-to-nixos"
     ]
   ],
   [
@@ -57,6 +97,16 @@
     [
       "AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now",
       "https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 13:42:57",
+      "https://news.ycombinator.com/item?id=36458625"
+    ],
+    [
+      "Pi.ai LLM Outperforms Palm/GPT3.5",
+      "https://inflection.ai/inflection-1"
     ]
   ],
   [
@@ -95,18 +145,8 @@
       "https://news.ycombinator.com/item?id=36457051"
     ],
     [
-      "Common Bugs in Writing",
+      "Common Bugs in Writing (2021)",
       "https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 09:00:49",
-      "https://news.ycombinator.com/item?id=36456887"
-    ],
-    [
-      "OpenBSD: Game of Trees 0.90 Released",
-      "https://undeadly.org/cgi?action=article;sid=20230624054334"
     ]
   ],
   [
@@ -125,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36455794"
     ],
     [
-      "How to write good code easily with semantic compression",
+      "Semantic compression (2014)",
       "https://caseymuratori.com/blog_0015"
     ]
   ],
@@ -137,16 +177,6 @@
     [
       "History is just one damn thing after another",
       "https://collabfund.com/blog/how-this-all-happened/"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 04:37:39",
-      "https://news.ycombinator.com/item?id=36455627"
-    ],
-    [
-      "A large crash spike affecting Firefox users on Linux",
-      "https://fosstodon.org/@gabrielesvelto/110592904713090347"
     ]
   ],
   [
@@ -171,12 +201,12 @@
   ],
   [
     [
-      "2023-06-24, 01:34:35",
-      "https://news.ycombinator.com/item?id=36454556"
+      "2023-06-24, 01:26:05",
+      "https://news.ycombinator.com/item?id=36454494"
     ],
     [
-      "PDF Subpage Navigation",
-      "https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html"
+      "The Magic of Embeddings",
+      "https://stack.convex.dev/the-magic-of-embeddings"
     ]
   ],
   [
@@ -225,7 +255,7 @@
       "https://news.ycombinator.com/item?id=36452498"
     ],
     [
-      "Humble Object",
+      "HumbleObject (2020)",
       "https://martinfowler.com/bliki/HumbleObject.html"
     ]
   ],
@@ -267,36 +297,6 @@
     [
       "Ferengi Rules of Acquisition",
       "https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 14:48:54",
-      "https://news.ycombinator.com/item?id=36447566"
-    ],
-    [
-      "Iron fuel shows its mettle",
-      "https://spectrum.ieee.org/iron-fuel"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 12:04:31",
-      "https://news.ycombinator.com/item?id=36445690"
-    ],
-    [
-      "Sturddlefish",
-      "https://en.wikipedia.org/wiki/Sturddlefish"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 05:07:44",
-      "https://news.ycombinator.com/item?id=36443020"
-    ],
-    [
-      "The Diary of Virginia Woolf review – a book for the ages",
-      "https://www.theguardian.com/books/2023/jun/22/the-diary-of-virginia-woolf-review-a-book-for-the-ages"
     ]
   ]
 ]
