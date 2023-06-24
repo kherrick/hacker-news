@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Do, or do not. There is no try](https://github.com/binpash/try)
-* [2023-06-24, 17:49:07](https://news.ycombinator.com/item?id=36460937) - [Russian paramilitary chief says his forces will turn around](https://www.nytimes.com/live/2023/06/24/world/russia-ukraine-news)
 * [2023-06-24, 16:44:09](https://news.ycombinator.com/item?id=36460243) - [US vendor accused of violating GDPR by reputation-scoring EU citizens](https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/)
 * [2023-06-24, 16:27:57](https://news.ycombinator.com/item?id=36460082) - [$900k Median Package for Engineers at OpenAI](https://www.levels.fyi/companies/openai/salaries/software-engineer)
 * [2023-06-24, 16:16:00](https://news.ycombinator.com/item?id=36459949) - [Flying taxi at the Paris air show is quiet – too quiet](https://www.wsj.com/articles/this-flying-taxi-at-the-paris-air-show-is-quiet-too-quiet-d3042497)
@@ -21,6 +20,7 @@
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing (2021)](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
+* [2023-06-24, 04:56:24](https://news.ycombinator.com/item?id=36455697) - [History is just one damn thing after another](https://collabfund.com/blog/how-this-all-happened/)
 * [2023-06-24, 01:26:05](https://news.ycombinator.com/item?id=36454494) - [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
 * [2023-06-23, 23:57:49](https://news.ycombinator.com/item?id=36453856) - [The rule says, “No vehicles in the park”](https://novehiclesinthepark.com/)
 * [2023-06-23, 23:22:38](https://news.ycombinator.com/item?id=36453592) - [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
