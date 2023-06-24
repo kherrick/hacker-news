@@ -32,6 +32,7 @@
 * [2023-06-23, 18:25:07](https://news.ycombinator.com/item?id=36450505) - [Lactoferrin alleviates Western diet-induced cognitive impairment](https://linkinghub.elsevier.com/retrieve/pii/S2665927123001016)
 * [2023-06-23, 17:50:26](https://news.ycombinator.com/item?id=36450106) - [Why [“1”,“2”,“3”].map(parseInt) yields [1, NaN, NaN] in JavaScript](https://wirfs-brock.com/allen/posts/166)
 * [2023-06-23, 17:50:13](https://news.ycombinator.com/item?id=36450104) - [What is driving the high suicide rate among farmers?(2022)](https://news.illinois.edu/view/6367/1856210606)
+* [2023-06-23, 17:38:39](https://news.ycombinator.com/item?id=36449957) - [Ferengi Rules of Acquisition](https://memory-alpha.fandom.com/wiki/Rules_of_Acquisition)
 * [2023-06-23, 17:33:11](https://news.ycombinator.com/item?id=36449894) - [Jessica Livingston](http://www.paulgraham.com/jessica.html)
 * [2023-06-23, 17:28:19](https://news.ycombinator.com/item?id=36449837) - [Show HN: Factiverse AI editor – Fact-checking text made smarter and simpler](https://editor.factiverse.ai/)
 * [2023-06-23, 17:24:44](https://news.ycombinator.com/item?id=36449794) - [Blackrock recruiter says ‘war is good for business’, spills info on asset giant](https://okeefemediagroup.com/breaking-blackrock-recruiter-who-decides-peoples-fate-says-war-is-good-for-business-while-spilling-info-on-asset-giant/)
