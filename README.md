@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-24, 10:41:40](https://news.ycombinator.com/item?id=36457427) - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
 * [2023-06-24, 10:12:37](https://news.ycombinator.com/item?id=36457286) - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
@@ -26,7 +27,6 @@
 * [2023-06-23, 15:59:56](https://news.ycombinator.com/item?id=36448686) - [Mailpit – An email and SMTP testing tool with API](https://github.com/axllent/mailpit)
 * [2023-06-23, 15:38:22](https://news.ycombinator.com/item?id=36448367) - [An open-source mouse and trackpad utility for Mac](https://linearmouse.app/)
 * [2023-06-23, 14:48:54](https://news.ycombinator.com/item?id=36447566) - [Iron fuel shows its mettle](https://spectrum.ieee.org/iron-fuel)
-* [2023-06-23, 14:48:21](https://news.ycombinator.com/item?id=36447555) - [Building a Custom Mach-O Memory Loader for macOS](https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/)
 * [2023-06-23, 13:48:30](https://news.ycombinator.com/item?id=36446787) - [Putting out the hardware dumpster fire](https://dl.acm.org/doi/pdf/10.1145/3593856.3595903)
 * [2023-06-23, 12:04:31](https://news.ycombinator.com/item?id=36445690) - [Sturddlefish](https://en.wikipedia.org/wiki/Sturddlefish)
 * [2023-06-23, 05:07:44](https://news.ycombinator.com/item?id=36443020) - [The Diary of Virginia Woolf review – a book for the ages](https://www.theguardian.com/books/2023/jun/22/the-diary-of-virginia-woolf-review-a-book-for-the-ages)

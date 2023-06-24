@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 10:41:40](https://news.ycombinator.com/item?id=36457427) - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
 * [2023-06-24, 10:12:37](https://news.ycombinator.com/item?id=36457286) - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
