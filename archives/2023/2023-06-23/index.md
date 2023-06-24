@@ -15,6 +15,7 @@
 * [2023-06-23, 21:59:03](https://news.ycombinator.com/item?id=36452696) - [AlmaLinux's response to Red Hat's policy change](https://lwn.net/Articles/935918/)
 * [2023-06-23, 21:50:10](https://news.ycombinator.com/item?id=36452620) - [U.S. Seeks 70-Month Prison Sentence for YouTube Content ID Scammer](https://torrentfreak.com/u-s-seeks-70-month-prison-sentence-for-youtube-content-id-scammer-230623/)
 * [2023-06-23, 21:48:31](https://news.ycombinator.com/item?id=36452597) - [James Cameron slams OceanGate safety, regrets not speaking up more](https://www.npr.org/2023/06/23/1183975136/james-cameron-titanic-titan-sub)
+* [2023-06-23, 21:39:40](https://news.ycombinator.com/item?id=36452498) - [Humble Object](https://martinfowler.com/bliki/HumbleObject.html)
 * [2023-06-23, 21:36:13](https://news.ycombinator.com/item?id=36452464) - ['Scary moment' as orcas disrupt ocean boat race](https://www.cbc.ca/sports/orcas-ramming-boats-spain-portugal-1.6886891)
 * [2023-06-23, 21:27:28](https://news.ycombinator.com/item?id=36452367) - [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
 * [2023-06-23, 21:22:09](https://news.ycombinator.com/item?id=36452322) - [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
