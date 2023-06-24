@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 14:40:03](https://news.ycombinator.com/item?id=36459055) - [Take action, Protect end-to-end encryption](https://www.fsf.org/blogs/community/take-action-protect-end-to-end-encryption)
 * [2023-06-24, 14:35:31](https://news.ycombinator.com/item?id=36459023) - [Now on the menu at Toast: A new 99 cent fee](https://www.boston.com/news/the-boston-globe/2023/06/24/new-toast-fee/)
 * [2023-06-24, 14:21:29](https://news.ycombinator.com/item?id=36458910) - [FDIC accidentally reveals details about Silicon Valley Bank’s biggest customers](https://www.cnn.com/2023/06/23/investing/svb-bank-fdic/index.html)
 * [2023-06-24, 14:19:33](https://news.ycombinator.com/item?id=36458885) - [Ask HN: Are you tired of being fully remote?](https://news.ycombinator.com/item?id=36458885)
