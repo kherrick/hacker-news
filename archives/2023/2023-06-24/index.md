@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-24](index.md)
 
+* [2023-06-24, 19:51:02](https://news.ycombinator.com/item?id=36462117) - [Show HN: HN comments sidebar bookmarklet](https://gist.github.com/postmalloc/e2602752d46c5b9dee24462356f96cca)
+* [2023-06-24, 19:23:39](https://news.ycombinator.com/item?id=36461866) - [Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
 * [2023-06-24, 19:03:02](https://news.ycombinator.com/item?id=36461701) - [Every Mastodon User Has an RSS Feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
 * [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Do, or do not. There is no try](https://github.com/binpash/try)
