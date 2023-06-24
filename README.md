@@ -17,7 +17,6 @@
 * [2023-06-24, 13:48:23](https://news.ycombinator.com/item?id=36458678) - [AMD EPYC 97x4 “Bergamo” CPUs: 128 Zen 4c CPU Cores for Servers, Shipping Now](https://www.anandtech.com/show/18913/amd-intros-epyc-97x4-bergamo-cpus-128-zen-4c-cpu-cores-shipping-now)
 * [2023-06-24, 13:42:57](https://news.ycombinator.com/item?id=36458625) - [Pi.ai LLM Outperforms Palm/GPT3.5](https://inflection.ai/inflection-1)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
-* [2023-06-24, 11:05:02](https://news.ycombinator.com/item?id=36457546) - [Fully Open Public Licence](https://github.com/pjakma/fopl)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing (2021)](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
@@ -28,6 +27,7 @@
 * [2023-06-23, 20:40:03](https://news.ycombinator.com/item?id=36451924) - [The evolution of honey bee brains](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00289.html)
 * [2023-06-23, 20:38:46](https://news.ycombinator.com/item?id=36451907) - [Finally getting two's complement](https://neugierig.org/software/blog/2023/06/twos-complement.html)
 * [2023-06-23, 18:23:40](https://news.ycombinator.com/item?id=36450490) - [What Alan Turing means to us](https://www.turing.ac.uk/blog/what-alan-turing-means-us)
+* [2023-06-23, 17:09:06](https://news.ycombinator.com/item?id=36449619) - [Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
 * [2023-06-23, 15:45:04](https://news.ycombinator.com/item?id=36448466) - [Culture eats policy](https://www.niskanencenter.org/culture-eats-policy/)
 * [2023-06-23, 10:09:18](https://news.ycombinator.com/item?id=36444854) - [Open source licenses need to leave the 1980s and evolve to deal with AI](https://www.theregister.com/2023/06/23/open_source_licenses_ai/)
 
