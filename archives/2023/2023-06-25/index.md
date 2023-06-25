@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 * [2023-06-25, 14:16:47](https://news.ycombinator.com/item?id=36468383) - [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
 * [2023-06-25, 14:09:57](https://news.ycombinator.com/item?id=36468335) - [Ask HN: How do you find high quality mobile games?](https://news.ycombinator.com/item?id=36468335)
 * [2023-06-25, 13:56:21](https://news.ycombinator.com/item?id=36468226) - [Study: Aging population could be a drag on economic growth](https://around.uoregon.edu/content/study-aging-population-could-be-drag-economic-growth)
@@ -12,6 +13,7 @@
 * [2023-06-25, 13:22:54](https://news.ycombinator.com/item?id=36467955) - [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
 * [2023-06-25, 13:21:32](https://news.ycombinator.com/item?id=36467942) - [Adobe Account Expiration. Michael Tsai](https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/)
 * [2023-06-25, 13:19:35](https://news.ycombinator.com/item?id=36467927) - [The Little Book of Deep Learning](https://fleuret.org/francois/#lbdl)
+* [2023-06-25, 13:16:33](https://news.ycombinator.com/item?id=36467904) - [Car quality is suffering as automakers shift focus to technology](https://www.techspot.com/news/99183-new-car-quality-suffers-automakers-shift-focus-technology.html)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
 * [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
