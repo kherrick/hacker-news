@@ -6,6 +6,7 @@
 
 * [2023-06-25, 15:33:08](https://news.ycombinator.com/item?id=36469277) - [Don't expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
 * [2023-06-25, 15:04:12](https://news.ycombinator.com/item?id=36468933) - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
+* [2023-06-25, 14:58:02](https://news.ycombinator.com/item?id=36468839) - [Left my job to go full time on Meetme and refused a 500k/year job](https://www.indiehackers.com/product/meetme/left-my-job-to-go-full-time-on-meetme-and-refused-a-500k-year-job--NYhiov3St_0q137yw_6)
 * [2023-06-25, 14:40:43](https://news.ycombinator.com/item?id=36468632) - [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
 * [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 * [2023-06-25, 14:25:48](https://news.ycombinator.com/item?id=36468466) - [Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)](https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/)
@@ -19,6 +20,7 @@
 * [2023-06-25, 13:19:35](https://news.ycombinator.com/item?id=36467927) - [The Little Book of Deep Learning](https://fleuret.org/francois/#lbdl)
 * [2023-06-25, 13:16:33](https://news.ycombinator.com/item?id=36467904) - [Car quality is suffering as automakers shift focus to technology](https://www.techspot.com/news/99183-new-car-quality-suffers-automakers-shift-focus-technology.html)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
+* [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain Axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
 * [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
