@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management solution inside Zotero](https://github.com/windingwind/zotero-better-notes)
+* [2023-06-25, 04:50:20](https://news.ycombinator.com/item?id=36465220) - [How Platform Engineering Works](https://chadxz.dev/platform/)
 * [2023-06-25, 04:40:56](https://news.ycombinator.com/item?id=36465185) - [Tilia – fully licensed, regulation compliant money transmitter for gaming](https://www.tilia.io/about)
 * [2023-06-25, 04:27:09](https://news.ycombinator.com/item?id=36465138) - [Show HN: Instant access to ChatGPT on any Mac app](https://atua.app)
 * [2023-06-25, 04:19:16](https://news.ycombinator.com/item?id=36465107) - [Genetic Mutation Makes People Feel Full – All the Time](https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html)
