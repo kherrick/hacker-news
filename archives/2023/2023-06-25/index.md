@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:09:04](https://news.ycombinator.com/item?id=36465489) - [Do life hacks work? The truth is, we’ll never know](https://www.theguardian.com/science/2023/jun/24/do-life-hacks-work-the-truth-is-well-never-know)
 * [2023-06-25, 05:19:02](https://news.ycombinator.com/item?id=36465313) - [Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management solution inside Zotero](https://github.com/windingwind/zotero-better-notes)

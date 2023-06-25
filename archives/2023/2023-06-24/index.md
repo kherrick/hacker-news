@@ -83,6 +83,7 @@
 * [2023-06-24, 02:20:25](https://news.ycombinator.com/item?id=36454824) - [Why thousands of board games are buried beneath Mankato](https://www.startribune.com/anti-monopoly-mankato-landfill-board-game-history/600279625/)
 * [2023-06-24, 02:12:09](https://news.ycombinator.com/item?id=36454783) - [An open source web-based flashcard studying system](https://github.com/hwgilbert16/scholarsome)
 * [2023-06-24, 02:01:47](https://news.ycombinator.com/item?id=36454715) - [Berkshire Before Buffett (2015)](https://globalfinancialdata.com/berkshire-before-buffett)
+* [2023-06-24, 01:53:38](https://news.ycombinator.com/item?id=36454681) - [How to Be an Engineer That PMs Don't Hate](https://staysaasy.com/engineering/2023/06/18/how-to-be-an-engineer-pms-down-hate.html)
 * [2023-06-24, 01:34:35](https://news.ycombinator.com/item?id=36454556) - [PDF Subpage Navigation](https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html)
 * [2023-06-24, 01:26:05](https://news.ycombinator.com/item?id=36454494) - [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
 * [2023-06-24, 01:05:30](https://news.ycombinator.com/item?id=36454362) - [Declassified U.S. report on origins of Covid-19 virus [pdf]](https://www.dni.gov/files/ODNI/documents/assessments/Report-on-Potential-Links-Between-the-Wuhan-Institute-of-Virology-and-the-Origins-of-COVID-19-20230623.pdf)
