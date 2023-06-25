@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 13:21:32](https://news.ycombinator.com/item?id=36467942) - [Adobe Account Expiration. Michael Tsai](https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
-* [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
 * [2023-06-25, 11:34:27](https://news.ycombinator.com/item?id=36467135) - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
