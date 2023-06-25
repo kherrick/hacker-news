@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 20:35:11](https://news.ycombinator.com/item?id=36472327) - [Microsoft's ruthless employee ranking system annihilated team collaboration](https://tryingtruly.substack.com/p/the-shitty-stack-system)
 * [2023-06-25, 20:05:35](https://news.ycombinator.com/item?id=36472055) - [Recovering Steely Dan’s Second Arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
 * [2023-06-25, 20:04:14](https://news.ycombinator.com/item?id=36472041) - [Ignoring Boys' Emotional Needs Fuels Public Health Risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
 * [2023-06-25, 19:20:31](https://news.ycombinator.com/item?id=36471666) - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
@@ -19,7 +20,6 @@
 * [2023-06-25, 16:23:52](https://news.ycombinator.com/item?id=36469875) - [DragGAN source code release: Interactive Point-Based Manipulation of Images](https://github.com/XingangPan/DragGAN)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
-* [2023-06-25, 12:58:52](https://news.ycombinator.com/item?id=36467760) - [Tapping Morse Code on a Wall](https://mra-raycom.com/tapping-morse-code-on-a-wall/)
 * [2023-06-25, 11:50:01](https://news.ycombinator.com/item?id=36467236) - [Btop++: Resource monitor for processor, memory, disks, network and processes](https://github.com/aristocratos/btop)
 * [2023-06-25, 11:48:36](https://news.ycombinator.com/item?id=36467224) - [The 'fuck you' pattern](https://cedwards.xyz/the-fuck-you-pattern/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air quality reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
