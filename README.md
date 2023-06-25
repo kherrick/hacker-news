@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
+* [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
 * [2023-06-25, 11:34:27](https://news.ycombinator.com/item?id=36467135) - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
@@ -16,8 +18,6 @@
 * [2023-06-25, 03:13:02](https://news.ycombinator.com/item?id=36464846) - [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
-* [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
-* [2023-06-24, 20:12:18](https://news.ycombinator.com/item?id=36462282) - [Many in the AI field think the bigger-is-better approach is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
 * [2023-06-24, 19:00:45](https://news.ycombinator.com/item?id=36461674) - [Oscilloscope/AWG/Logic Analyzer: Analog Discovery 3](https://digilent.com/blog/whats-different-with-the-analog-discovery-3/)
 * [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
