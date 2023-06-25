@@ -28,7 +28,7 @@
 * [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient Cart Marking ceremony takes place next month](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
-* [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and Me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
+* [2023-06-23, 22:52:28](https://news.ycombinator.com/item?id=36453305) - [Btreefs generates executable code at runtime to unpack btree nodes](https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727)
 * [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
 
 ## [Archives](archives/index.md)
