@@ -21,6 +21,7 @@
 * [2023-06-25, 13:16:33](https://news.ycombinator.com/item?id=36467904) - [Car quality is suffering as automakers shift focus to technology](https://www.techspot.com/news/99183-new-car-quality-suffers-automakers-shift-focus-technology.html)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain Axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
+* [2023-06-25, 12:54:19](https://news.ycombinator.com/item?id=36467717) - [NetBSD hier(7)](https://man.netbsd.org/NetBSD-9.3-STABLE/hier.7)
 * [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
