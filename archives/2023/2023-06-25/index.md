@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 14:40:43](https://news.ycombinator.com/item?id=36468632) - [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
 * [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 * [2023-06-25, 14:16:47](https://news.ycombinator.com/item?id=36468383) - [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
 * [2023-06-25, 14:09:57](https://news.ycombinator.com/item?id=36468335) - [Ask HN: How do you find high quality mobile games?](https://news.ycombinator.com/item?id=36468335)
@@ -18,6 +19,7 @@
 * [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
+* [2023-06-25, 11:48:36](https://news.ycombinator.com/item?id=36467224) - [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
 * [2023-06-25, 11:34:27](https://news.ycombinator.com/item?id=36467135) - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
 * [2023-06-25, 11:14:21](https://news.ycombinator.com/item?id=36467000) - [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)
