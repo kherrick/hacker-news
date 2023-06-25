@@ -8,6 +8,7 @@
 * [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
 * [2023-06-24, 23:12:40](https://news.ycombinator.com/item?id=36463534) - [All EU Members are committed to achieving full climate neutrality by 2050](https://www.ff55.info/about/)
 * [2023-06-24, 22:25:21](https://news.ycombinator.com/item?id=36463188) - [Nhtsa: Car crashes cost Americans $340B, or $1,035 per person](https://www.thecarconnection.com/news/1138400_nhtsa-car-crashes-cost-americans-340b-or-1-035-per-person)
+* [2023-06-24, 22:25:21](https://news.ycombinator.com/item?id=36463188) - [NHTSA: Car crashes cost Americans $340B](https://www.nhtsa.gov/press-releases/traffic-crashes-cost-america-billions-2019)
 * [2023-06-24, 22:06:11](https://news.ycombinator.com/item?id=36463078) - [Why Outback Steakhouse is the most popular restaurant in Brazil](https://www.washingtonpost.com/world/2023/06/20/brazil-outback-steakhouse-popular/)
 * [2023-06-24, 21:52:54](https://news.ycombinator.com/item?id=36462973) - [Did studying proof based math topics e.g. analysis make you a better programmer?](https://news.ycombinator.com/item?id=36462973)
 * [2023-06-24, 21:37:04](https://news.ycombinator.com/item?id=36462874) - [What Is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
