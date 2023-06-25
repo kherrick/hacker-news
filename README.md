@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-25, 19:20:31](https://news.ycombinator.com/item?id=36471666) - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
+* [2023-06-25, 19:13:27](https://news.ycombinator.com/item?id=36471601) - [The Cost of Gasoline](https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
-* [2023-06-25, 18:15:48](https://news.ycombinator.com/item?id=36471105) - [How the Military Is Using E-Girls to Recruit Gen Z into Service](https://www.mintpressnews.com/simp-to-soldier-e-girls-military-recuitment-gen-z/284897/)
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 * [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: A candid conversation (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
 * [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
@@ -27,7 +27,7 @@
 * [2023-06-25, 01:03:37](https://news.ycombinator.com/item?id=36464231) - [Everything you never wanted to know about CMake (redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
 * [2023-06-24, 21:18:30](https://news.ycombinator.com/item?id=36462733) - [Decker Fantasy Camp 2023](https://itch.io/jam/decker-fantasy-camp-2023)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient cart marking ceremony](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
-* [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
+* [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP Addresses Are Equal? “Dot-Zero” Addresses Are Less Equal](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
 * [2023-06-24, 04:58:51](https://news.ycombinator.com/item?id=36455708) - [Understanding the functional building blocks of social media (2011)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2519365)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 

@@ -76,6 +76,7 @@
 * [2023-06-24, 09:00:49](https://news.ycombinator.com/item?id=36456887) - [OpenBSD: Game of Trees 0.90 Released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 * [2023-06-24, 08:26:52](https://news.ycombinator.com/item?id=36456694) - [Russia 'Coup' Live Forecast](https://www.swiftcentre.org/russia-liveblog/)
 * [2023-06-24, 07:46:33](https://news.ycombinator.com/item?id=36456513) - [CSS Only dark mode](https://simondalvai.com/blog/css-only-darkmode/)
+* [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP Addresses Are Equal? “Dot-Zero” Addresses Are Less Equal](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
 * [2023-06-24, 06:50:10](https://news.ycombinator.com/item?id=36456233) - [How to Kill a Decentralised Network](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
 * [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and Me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
 * [2023-06-24, 05:30:47](https://news.ycombinator.com/item?id=36455843) - [Maker's schedule, Manager's schedule (2009)](http://www.paulgraham.com/makersschedule.html)
