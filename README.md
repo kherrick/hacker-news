@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
 * [2023-06-25, 16:56:28](https://news.ycombinator.com/item?id=36470246) - [Publishers carpet-bomb IPFS gateway operators with DMCA notices](https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/)
 * [2023-06-25, 16:40:36](https://news.ycombinator.com/item?id=36470058) - [Eight-mile frieze of Ice Age beasts found in Amazon rainforest](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
@@ -8,7 +9,6 @@
 * [2023-06-25, 15:04:12](https://news.ycombinator.com/item?id=36468933) - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
 * [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 * [2023-06-25, 14:25:48](https://news.ycombinator.com/item?id=36468466) - [Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)](https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/)
-* [2023-06-25, 14:16:47](https://news.ycombinator.com/item?id=36468383) - [Principles of Imperative Computation](https://www.cs.cmu.edu/~15122/about.shtml)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:22:54](https://news.ycombinator.com/item?id=36467955) - [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to say no with grace and style (2021)](https://fs.blog/saying-no/)
@@ -26,9 +26,9 @@
 * [2023-06-25, 04:12:58](https://news.ycombinator.com/item?id=36465085) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 * [2023-06-25, 03:13:02](https://news.ycombinator.com/item?id=36464846) - [INTERCAL: Practically impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 01:03:37](https://news.ycombinator.com/item?id=36464231) - [Everything you never wanted to know about CMake (redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
+* [2023-06-24, 21:18:30](https://news.ycombinator.com/item?id=36462733) - [Decker Fantasy Camp 2023](https://itch.io/jam/decker-fantasy-camp-2023)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient cart marking ceremony](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
-* [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 
 ## [Archives](archives/index.md)
