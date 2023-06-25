@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:01:28](https://news.ycombinator.com/item?id=36470971) - [Texas airport worker dies after being sucked into Delta jet engine](https://www.theguardian.com/us-news/2023/jun/25/texas-airport-worker-dies-after-being-sucked-into-delta-jet-engine)
+* [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Understanding Google Zanzibar and Why it Shines at Building Permissions](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 * [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
 * [2023-06-25, 16:56:28](https://news.ycombinator.com/item?id=36470246) - [Publishers carpet-bomb IPFS gateway operators with DMCA notices](https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/)
