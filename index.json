@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-25, 20:04:14",
+      "https://news.ycombinator.com/item?id=36472041"
+    ],
+    [
+      "Ignoring Boys' Emotional Needs Fuels Public Health Risks",
+      "https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 19:20:31",
       "https://news.ycombinator.com/item?id=36471666"
     ],
@@ -21,12 +31,42 @@
   ],
   [
     [
+      "2023-06-25, 19:11:50",
+      "https://news.ycombinator.com/item?id=36471591"
+    ],
+    [
+      "Microsoft Research: Fully In-Place Functional Programming [pdf]",
+      "https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 19:07:20",
+      "https://news.ycombinator.com/item?id=36471541"
+    ],
+    [
+      "Show HN: Fossfox – paid opportunities for open-source devs",
+      "https://fossfox.com"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 18:40:00",
       "https://news.ycombinator.com/item?id=36471315"
     ],
     [
       "Adversarial Collaboration Project",
       "https://web.sas.upenn.edu/adcollabproject/"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 18:33:55",
+      "https://news.ycombinator.com/item?id=36471262"
+    ],
+    [
+      "Flunct: Well-typed, fluent APIs in SML",
+      "https://github.com/OriRoth/flunct"
     ]
   ],
   [
@@ -111,26 +151,6 @@
   ],
   [
     [
-      "2023-06-25, 14:31:55",
-      "https://news.ycombinator.com/item?id=36468535"
-    ],
-    [
-      "Ask HN: What topics are good for a UI/UX Primer?",
-      "https://news.ycombinator.com/item?id=36468535"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 14:25:48",
-      "https://news.ycombinator.com/item?id=36468466"
-    ],
-    [
-      "Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)",
-      "https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 13:33:45",
       "https://news.ycombinator.com/item?id=36468028"
     ],
@@ -167,16 +187,6 @@
     [
       "NetBSD hier(7)",
       "https://man.netbsd.org/NetBSD-9.3-STABLE/hier.7"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 12:48:02",
-      "https://news.ycombinator.com/item?id=36467663"
-    ],
-    [
-      "Theory to systems: A grounded approach to programming language education (2019)",
-      "https://arxiv.org/abs/1904.06750"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]",
       "https://www.youtube.com/watch?v=NX7GHqq28uU"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 01:03:37",
-      "https://news.ycombinator.com/item?id=36464231"
-    ],
-    [
-      "Everything you never wanted to know about CMake (redux)",
-      "https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/"
     ]
   ],
   [
