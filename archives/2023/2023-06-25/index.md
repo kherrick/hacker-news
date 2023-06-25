@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 15:33:08](https://news.ycombinator.com/item?id=36469277) - [Don't expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
 * [2023-06-25, 15:04:12](https://news.ycombinator.com/item?id=36468933) - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
 * [2023-06-25, 14:40:43](https://news.ycombinator.com/item?id=36468632) - [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
 * [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
+* [2023-06-25, 14:25:48](https://news.ycombinator.com/item?id=36468466) - [Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)](https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/)
 * [2023-06-25, 14:16:47](https://news.ycombinator.com/item?id=36468383) - [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
 * [2023-06-25, 14:09:57](https://news.ycombinator.com/item?id=36468335) - [Ask HN: How do you find high quality mobile games?](https://news.ycombinator.com/item?id=36468335)
 * [2023-06-25, 13:56:21](https://news.ycombinator.com/item?id=36468226) - [Study: Aging population could be a drag on economic growth](https://around.uoregon.edu/content/study-aging-population-could-be-drag-economic-growth)
