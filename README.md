@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang – A Friendship That Changed the World](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:21:32](https://news.ycombinator.com/item?id=36467942) - [Adobe Account Expiration. Michael Tsai](https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
@@ -22,7 +23,6 @@
 * [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
 * [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and Me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
-* [2023-06-24, 01:53:38](https://news.ycombinator.com/item?id=36454681) - [How to Be an Engineer That PMs Don't Hate](https://staysaasy.com/engineering/2023/06/18/how-to-be-an-engineer-pms-down-hate.html)
 * [2023-06-23, 22:52:28](https://news.ycombinator.com/item?id=36453305) - [Btreefs generates executable code at runtime to unpack btree nodes](https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727)
 * [2023-06-23, 22:24:17](https://news.ycombinator.com/item?id=36452982) - [When Silence is Power (2013)](https://thefrailestthing.com/2013/12/21/silence-is-power/)
 * [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
