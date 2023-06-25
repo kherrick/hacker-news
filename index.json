@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-25, 14:09:57",
+      "https://news.ycombinator.com/item?id=36468335"
+    ],
+    [
+      "Ask HN: How do you find high quality mobile games?",
+      "https://news.ycombinator.com/item?id=36468335"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 13:56:21",
+      "https://news.ycombinator.com/item?id=36468226"
+    ],
+    [
+      "Study: Aging population could be a drag on economic growth",
+      "https://around.uoregon.edu/content/study-aging-population-could-be-drag-economic-growth"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 13:50:13",
       "https://news.ycombinator.com/item?id=36468162"
     ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2023-06-25, 13:19:35",
+      "https://news.ycombinator.com/item?id=36467927"
+    ],
+    [
+      "The Little Book of Deep Learning",
+      "https://fleuret.org/francois/#lbdl"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 13:07:10",
       "https://news.ycombinator.com/item?id=36467826"
     ],
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2023-06-25, 12:39:02",
-      "https://news.ycombinator.com/item?id=36467588"
-    ],
-    [
-      "The iPad was meant to revolutionize accessibility. What happened?",
-      "https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 12:15:21",
       "https://news.ycombinator.com/item?id=36467400"
     ],
     [
-      "LastPass users locked out (again) with infinite 2FA loop",
+      "LastPass users locked out due to MFA resets",
       "https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 11:34:27",
-      "https://news.ycombinator.com/item?id=36467135"
-    ],
-    [
-      "Delhi man gets AliExpress order after four years",
-      "https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "Air Quality Reporting on iOS",
       "https://intergalactic.systems/posts/post-1965946732.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 11:14:21",
+      "https://news.ycombinator.com/item?id=36467000"
+    ],
+    [
+      "Office real estate crash will be so sharp, values unlikely to recover by 2040",
+      "https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/"
     ]
   ],
   [
@@ -117,6 +137,26 @@
     [
       "Upload a Godot HTML5 Game to Itch.io with GitHub Actions",
       "https://simondalvai.com/blog/godot-itchio-upload/"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 09:35:53",
+      "https://news.ycombinator.com/item?id=36466406"
+    ],
+    [
+      "No Markdown support in Google Drive after all these years",
+      "https://news.ycombinator.com/item?id=36466406"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 08:44:54",
+      "https://news.ycombinator.com/item?id=36466153"
+    ],
+    [
+      "Making sense of the EU’s fight for user-replaceable smartphone batteries",
+      "https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries"
     ]
   ],
   [
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2023-06-24, 19:00:45",
-      "https://news.ycombinator.com/item?id=36461674"
-    ],
-    [
-      "Oscilloscope/AWG/Logic Analyzer: Analog Discovery 3",
-      "https://digilent.com/blog/whats-different-with-the-analog-discovery-3/"
-    ]
-  ],
-  [
-    [
       "2023-06-24, 18:17:58",
       "https://news.ycombinator.com/item?id=36461224"
     ],
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-06-23, 22:24:17",
-      "https://news.ycombinator.com/item?id=36452982"
+      "2023-06-23, 21:35:38",
+      "https://news.ycombinator.com/item?id=36452457"
     ],
     [
-      "When Silence is Power (2013)",
-      "https://thefrailestthing.com/2013/12/21/silence-is-power/"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 20:54:25",
-      "https://news.ycombinator.com/item?id=36452046"
-    ],
-    [
-      "Spontaneous and deliberate creative cognition during and after psilocybin (2021)",
-      "https://www.nature.com/articles/s41398-021-01335-5"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 17:05:33",
-      "https://news.ycombinator.com/item?id=36449581"
-    ],
-    [
-      "How a Frenchman stole two billion dollars’ worth of art",
-      "https://www.newyorker.com/magazine/2023/06/26/the-art-thief-a-true-story-of-love-crime-and-a-dangerous-obsession-michael-finkel-book-review"
-    ]
-  ],
-  [
-    [
-      "2023-06-23, 17:04:31",
-      "https://news.ycombinator.com/item?id=36449564"
-    ],
-    [
-      "AMD's 128-core Epycs could spell trouble for Ampere Computing",
-      "https://www.theregister.com/2023/06/21/amd_ampere_cloud_core_competition/"
+      "Harvard’s new computer science teacher is a chatbot",
+      "https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html"
     ]
   ]
 ]
