@@ -29,6 +29,7 @@
 * [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What Are Embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-25, 16:23:52](https://news.ycombinator.com/item?id=36469875) - [DragGAN source code release: Interactive Point-Based Manipulation of Images](https://github.com/XingangPan/DragGAN)
 * [2023-06-25, 16:14:49](https://news.ycombinator.com/item?id=36469783) - [Ask HN: Why doesn't Netflix produce much more of its most popular shows?](https://news.ycombinator.com/item?id=36469783)
+* [2023-06-25, 15:34:42](https://news.ycombinator.com/item?id=36469297) - [Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones](https://github.com/TeamHypersomnia/Hypersomnia)
 * [2023-06-25, 15:33:08](https://news.ycombinator.com/item?id=36469277) - [Don't expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
 * [2023-06-25, 15:04:12](https://news.ycombinator.com/item?id=36468933) - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
 * [2023-06-25, 14:58:02](https://news.ycombinator.com/item?id=36468839) - [Left my job to go full time on Meetme and refused a 500k/year job](https://www.indiehackers.com/product/meetme/left-my-job-to-go-full-time-on-meetme-and-refused-a-500k-year-job--NYhiov3St_0q137yw_6)

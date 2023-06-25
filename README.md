@@ -18,6 +18,7 @@
 * [2023-06-25, 16:40:36](https://news.ycombinator.com/item?id=36470058) - [Eight-mile frieze of Ice Age beasts found in Amazon rainforest (2020)](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 * [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-25, 16:23:52](https://news.ycombinator.com/item?id=36469875) - [DragGAN source code release: Interactive Point-Based Manipulation of Images](https://github.com/XingangPan/DragGAN)
+* [2023-06-25, 15:34:42](https://news.ycombinator.com/item?id=36469297) - [Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones](https://github.com/TeamHypersomnia/Hypersomnia)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
 * [2023-06-25, 11:50:01](https://news.ycombinator.com/item?id=36467236) - [Btop++: Resource monitor for processor, memory, disks, network and processes](https://github.com/aristocratos/btop)
@@ -27,7 +28,6 @@
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
 * [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science](https://plato.stanford.edu/entries/einstein-philscience/)
-* [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient cart marking ceremony](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP Addresses Are Equal? “Dot-Zero” Addresses Are Less Equal](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 
