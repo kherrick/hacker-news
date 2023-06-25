@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 08:44:54](https://news.ycombinator.com/item?id=36466153) - [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
 * [2023-06-25, 08:39:38](https://news.ycombinator.com/item?id=36466133) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:09:04](https://news.ycombinator.com/item?id=36465489) - [Do life hacks work? The truth is, we’ll never know](https://www.theguardian.com/science/2023/jun/24/do-life-hacks-work-the-truth-is-well-never-know)

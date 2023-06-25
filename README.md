@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 08:44:54](https://news.ycombinator.com/item?id=36466153) - [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
 * [2023-06-25, 08:39:38](https://news.ycombinator.com/item?id=36466133) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
@@ -16,9 +17,9 @@
 * [2023-06-24, 20:13:55](https://news.ycombinator.com/item?id=36462298) - [The free soloist who fell to earth](https://www.outsideonline.com/outdoor-adventure/climbing/austin-howell-fallen-soloist/)
 * [2023-06-24, 20:12:18](https://news.ycombinator.com/item?id=36462282) - [Many in the AI field think the bigger-is-better approach is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
 * [2023-06-24, 19:23:39](https://news.ycombinator.com/item?id=36461866) - [Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
-* [2023-06-24, 19:03:02](https://news.ycombinator.com/item?id=36461701) - [Every Mastodon user has an RSS feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
 * [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
+* [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and Me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
 * [2023-06-24, 01:53:38](https://news.ycombinator.com/item?id=36454681) - [How to Be an Engineer That PMs Don't Hate](https://staysaasy.com/engineering/2023/06/18/how-to-be-an-engineer-pms-down-hate.html)
 * [2023-06-23, 23:17:29](https://news.ycombinator.com/item?id=36453552) - [Second Life by Linden Lab, the company I've worked for since 2004, turn 20 today [video]](https://www.youtube.com/watch?v=f_chDTHpDl4)
 * [2023-06-23, 22:52:28](https://news.ycombinator.com/item?id=36453305) - [Btreefs generates executable code at runtime to unpack btree nodes](https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727)
@@ -29,7 +30,6 @@
 * [2023-06-23, 17:05:33](https://news.ycombinator.com/item?id=36449581) - [How a Frenchman stole two billion dollars’ worth of art](https://www.newyorker.com/magazine/2023/06/26/the-art-thief-a-true-story-of-love-crime-and-a-dangerous-obsession-michael-finkel-book-review)
 * [2023-06-23, 17:04:31](https://news.ycombinator.com/item?id=36449564) - [AMD's 128-core Epycs could spell trouble for Ampere Computing](https://www.theregister.com/2023/06/21/amd_ampere_cloud_core_competition/)
 * [2023-06-23, 16:58:34](https://news.ycombinator.com/item?id=36449483) - [Atari VCS Myst “Demake”](http://deater.net/weave/vmwprod/myst_vcs/)
-* [2023-06-23, 15:45:04](https://news.ycombinator.com/item?id=36448466) - [Culture eats policy](https://www.niskanencenter.org/culture-eats-policy/)
 
 ## [Archives](archives/index.md)
 
