@@ -28,7 +28,7 @@
 * [2023-06-24, 21:18:30](https://news.ycombinator.com/item?id=36462733) - [Decker Fantasy Camp 2023](https://itch.io/jam/decker-fantasy-camp-2023)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient cart marking ceremony](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
-* [2023-06-24, 04:58:51](https://news.ycombinator.com/item?id=36455708) - [Understanding the Functional Building Blocks of Social Media (2011)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2519365)
+* [2023-06-24, 04:58:51](https://news.ycombinator.com/item?id=36455708) - [Understanding the functional building blocks of social media (2011)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2519365)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 
 ## [Archives](archives/index.md)
