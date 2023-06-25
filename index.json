@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-06-25, 04:56:34",
+      "https://news.ycombinator.com/item?id=36465243"
+    ],
+    [
+      "Zotero Better Notes – Knowledge management solution inside Zotero",
+      "https://github.com/windingwind/zotero-better-notes"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 04:40:56",
       "https://news.ycombinator.com/item?id=36465185"
     ],
     [
       "Tilia – fully licensed, regulation compliant money transmitter for gaming",
       "https://www.tilia.io/about"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 04:27:09",
+      "https://news.ycombinator.com/item?id=36465138"
+    ],
+    [
+      "Show HN: Instant access to ChatGPT on any Mac app",
+      "https://atua.app"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 04:12:58",
+      "https://news.ycombinator.com/item?id=36465085"
+    ],
+    [
+      "Time is not a synchronization primitive",
+      "https://xeiaso.net/blog/nosleep"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 03:13:02",
+      "https://news.ycombinator.com/item?id=36464846"
+    ],
+    [
+      "Intercal: Practically Impossible",
+      "https://www.muppetlabs.com/~breadbox/intercal/pgpi.html"
     ]
   ],
   [
@@ -27,16 +67,6 @@
     [
       "Zoom In: An Introduction to Circuits",
       "https://distill.pub/2020/circuits/zoom-in/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 02:05:01",
-      "https://news.ycombinator.com/item?id=36464531"
-    ],
-    [
-      "Ask HN: Is GNU pass and Yubikey (via NFC) supported on iPhone?",
-      "https://news.ycombinator.com/item?id=36464531"
     ]
   ],
   [
@@ -137,36 +167,6 @@
     [
       "Try: run a command and inspect its effects before changing your live system",
       "https://github.com/binpash/try"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 16:09:37",
-      "https://news.ycombinator.com/item?id=36459881"
-    ],
-    [
-      "Creating an autonomous system for fun and profit (2017)",
-      "https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 14:49:53",
-      "https://news.ycombinator.com/item?id=36459137"
-    ],
-    [
-      "Simple Statistics: Statistical methods in JavaScript for browsers and servers",
-      "https://simple-statistics.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 14:18:42",
-      "https://news.ycombinator.com/item?id=36458882"
-    ],
-    [
-      "Yunohost",
-      "https://yunohost.org/en/howtohostyourself"
     ]
   ],
   [
