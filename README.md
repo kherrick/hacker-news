@@ -19,6 +19,7 @@
 * [2023-06-25, 16:23:52](https://news.ycombinator.com/item?id=36469875) - [DragGAN source code release: Interactive Point-Based Manipulation of Images](https://github.com/XingangPan/DragGAN)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
+* [2023-06-25, 12:58:52](https://news.ycombinator.com/item?id=36467760) - [Tapping Morse Code on a Wall](https://mra-raycom.com/tapping-morse-code-on-a-wall/)
 * [2023-06-25, 11:50:01](https://news.ycombinator.com/item?id=36467236) - [Btop++: Resource monitor for processor, memory, disks, network and processes](https://github.com/aristocratos/btop)
 * [2023-06-25, 11:48:36](https://news.ycombinator.com/item?id=36467224) - [The 'fuck you' pattern](https://cedwards.xyz/the-fuck-you-pattern/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air quality reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
@@ -28,7 +29,6 @@
 * [2023-06-24, 21:18:30](https://news.ycombinator.com/item?id=36462733) - [Decker Fantasy Camp 2023](https://itch.io/jam/decker-fantasy-camp-2023)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient cart marking ceremony](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP Addresses Are Equal? “Dot-Zero” Addresses Are Less Equal](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
-* [2023-06-24, 04:58:51](https://news.ycombinator.com/item?id=36455708) - [Understanding the functional building blocks of social media (2011)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2519365)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 
 ## [Archives](archives/index.md)
