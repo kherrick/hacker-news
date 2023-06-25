@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
+* [2023-06-25, 16:56:28](https://news.ycombinator.com/item?id=36470246) - [Publishers carpet-bomb IPFS gateway operators with DMCA notices](https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/)
 * [2023-06-25, 16:49:12](https://news.ycombinator.com/item?id=36470170) - [With world’s lowest fertility, doubts creep in about wisdom of ‘no-kids zones’](https://www.cnn.com/2023/06/24/asia/south-korea-no-kids-zone-intl-hnk-dst/index.html)
+* [2023-06-25, 16:40:36](https://news.ycombinator.com/item?id=36470058) - [Eight-mile frieze of Ice Age beasts found in Amazon rainforest](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 * [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What Are Embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-25, 16:14:49](https://news.ycombinator.com/item?id=36469783) - [Ask HN: Why doesn't Netflix produce much more of its most popular shows?](https://news.ycombinator.com/item?id=36469783)
 * [2023-06-25, 15:33:08](https://news.ycombinator.com/item?id=36469277) - [Don't expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
@@ -25,6 +27,7 @@
 * [2023-06-25, 13:16:33](https://news.ycombinator.com/item?id=36467904) - [Car quality is suffering as automakers shift focus to technology](https://www.techspot.com/news/99183-new-car-quality-suffers-automakers-shift-focus-technology.html)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No – With Grace and Style](https://fs.blog/saying-no/)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain Axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
+* [2023-06-25, 12:58:52](https://news.ycombinator.com/item?id=36467760) - [Tapping Morse Code on a Wall](https://mra-raycom.com/tapping-morse-code-on-a-wall/)
 * [2023-06-25, 12:54:19](https://news.ycombinator.com/item?id=36467717) - [NetBSD hier(7)](https://man.netbsd.org/NetBSD-9.3-STABLE/hier.7)
 * [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
