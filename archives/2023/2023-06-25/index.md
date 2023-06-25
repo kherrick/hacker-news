@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 22:19:16](https://news.ycombinator.com/item?id=36473217) - [How the most popular cars in the US track drivers](https://www.wired.com/story/car-data-privacy-toyota-honda-ford/)
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Esoteric Base Number Systems](https://rupertmckay.com/blog/counting-to-ten/)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT, AI Assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-25, 21:35:06](https://news.ycombinator.com/item?id=36472823) - [Show HN: projectable - a TUI file manager built for projects](https://github.com/dzfrias/projectable)
