@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 04:19:16](https://news.ycombinator.com/item?id=36465107) - [Genetic Mutation Makes People Feel Full – All the Time](https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-25, 02:16:07](https://news.ycombinator.com/item?id=36464582) - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
 * [2023-06-25, 02:05:01](https://news.ycombinator.com/item?id=36464531) - [Ask HN: Is GNU pass and Yubikey (via NFC) supported on iPhone?](https://news.ycombinator.com/item?id=36464531)

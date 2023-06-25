@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 04:19:16](https://news.ycombinator.com/item?id=36465107) - [Genetic Mutation Makes People Feel Full – All the Time](https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-25, 02:16:07](https://news.ycombinator.com/item?id=36464582) - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
 * [2023-06-25, 02:05:01](https://news.ycombinator.com/item?id=36464531) - [Ask HN: Is GNU pass and Yubikey (via NFC) supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
 * [2023-06-25, 00:02:58](https://news.ycombinator.com/item?id=36463877) - [WeeChat 4](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
 * [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
-* [2023-06-24, 20:46:28](https://news.ycombinator.com/item?id=36462510) - [Dry Fractionation](https://lipidlibrary.aocs.org/edible-oil-processing/dry-fractionation)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
 * [2023-06-24, 20:30:40](https://news.ycombinator.com/item?id=36462414) - [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
