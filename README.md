@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 08:39:38](https://news.ycombinator.com/item?id=36466133) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
 * [2023-06-25, 04:50:20](https://news.ycombinator.com/item?id=36465220) - [How platform engineering works](https://chadxz.dev/platform/)
@@ -8,7 +9,6 @@
 * [2023-06-25, 03:13:02](https://news.ycombinator.com/item?id=36464846) - [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-25, 02:16:07](https://news.ycombinator.com/item?id=36464582) - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
-* [2023-06-25, 00:02:58](https://news.ycombinator.com/item?id=36463877) - [WeeChat 4](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
