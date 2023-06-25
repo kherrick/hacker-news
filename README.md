@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 15:04:12](https://news.ycombinator.com/item?id=36468933) - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
 * [2023-06-25, 14:40:43](https://news.ycombinator.com/item?id=36468632) - [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
 * [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 * [2023-06-25, 14:16:47](https://news.ycombinator.com/item?id=36468383) - [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
@@ -25,10 +26,9 @@
 * [2023-06-25, 04:12:58](https://news.ycombinator.com/item?id=36465085) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 * [2023-06-25, 03:13:02](https://news.ycombinator.com/item?id=36464846) - [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
-* [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient Cart Marking ceremony takes place next month](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
-* [2023-06-23, 22:52:28](https://news.ycombinator.com/item?id=36453305) - [Btreefs generates executable code at runtime to unpack btree nodes](https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727)
+* [2023-06-24, 09:11:15](https://news.ycombinator.com/item?id=36456965) - [Staying Alive](https://www.philosophyexperiments.com/stayingalive/)
 * [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
 
 ## [Archives](archives/index.md)

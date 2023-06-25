@@ -70,6 +70,7 @@
 * [2023-06-24, 10:06:36](https://news.ycombinator.com/item?id=36457266) - [Wearable device that records your voice for legal defense](https://news.ycombinator.com/item?id=36457266)
 * [2023-06-24, 09:54:36](https://news.ycombinator.com/item?id=36457205) - [Australian Government Style Manual](https://www.stylemanual.gov.au/)
 * [2023-06-24, 09:25:33](https://news.ycombinator.com/item?id=36457051) - [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+* [2023-06-24, 09:11:15](https://news.ycombinator.com/item?id=36456965) - [Staying Alive](https://www.philosophyexperiments.com/stayingalive/)
 * [2023-06-24, 09:09:35](https://news.ycombinator.com/item?id=36456956) - [AI Killed VC](https://ainiro.io/blog/ai-killed-venture-capitalism)
 * [2023-06-24, 09:00:49](https://news.ycombinator.com/item?id=36456887) - [OpenBSD: Game of Trees 0.90 Released](https://undeadly.org/cgi?action=article;sid=20230624054334)
 * [2023-06-24, 08:26:52](https://news.ycombinator.com/item?id=36456694) - [Russia 'Coup' Live Forecast](https://www.swiftcentre.org/russia-liveblog/)
