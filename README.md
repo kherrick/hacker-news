@@ -8,7 +8,6 @@
 * [2023-06-25, 13:22:54](https://news.ycombinator.com/item?id=36467955) - [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
 * [2023-06-25, 13:21:32](https://news.ycombinator.com/item?id=36467942) - [Adobe Account Expiration. Michael Tsai](https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/)
 * [2023-06-25, 13:19:35](https://news.ycombinator.com/item?id=36467927) - [The Little Book of Deep Learning](https://fleuret.org/francois/#lbdl)
-* [2023-06-25, 13:16:33](https://news.ycombinator.com/item?id=36467904) - [Car quality is suffering as automakers shift focus to technology](https://www.techspot.com/news/99183-new-car-quality-suffers-automakers-shift-focus-technology.html)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No With Grace and Style](https://fs.blog/saying-no/)
 * [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
@@ -29,6 +28,7 @@
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient Cart Marking ceremony takes place next month](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 09:11:15](https://news.ycombinator.com/item?id=36456965) - [Staying Alive](https://www.philosophyexperiments.com/stayingalive/)
+* [2023-06-23, 22:52:28](https://news.ycombinator.com/item?id=36453305) - [Btreefs generates executable code at runtime to unpack btree nodes](https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727)
 * [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
 
 ## [Archives](archives/index.md)
