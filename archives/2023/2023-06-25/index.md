@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 11:14:21](https://news.ycombinator.com/item?id=36467000) - [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)
 * [2023-06-25, 10:29:39](https://news.ycombinator.com/item?id=36466728) - [Son Doong Cave Is So Big It Has Its Own Rainforest (2019)](https://www.discovery.com/exploration/Son-Doong-Cave)
 * [2023-06-25, 10:25:56](https://news.ycombinator.com/item?id=36466698) - [Upload a Godot HTML5 Game to Itch.io with GitHub Actions](https://simondalvai.com/blog/godot-itchio-upload/)
 * [2023-06-25, 09:35:53](https://news.ycombinator.com/item?id=36466406) - [No Markdown support in Google Drive after all these years](https://news.ycombinator.com/item?id=36466406)

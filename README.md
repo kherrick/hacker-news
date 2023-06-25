@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 11:14:21](https://news.ycombinator.com/item?id=36467000) - [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)
 * [2023-06-25, 10:29:39](https://news.ycombinator.com/item?id=36466728) - [Son Doong Cave Is So Big It Has Its Own Rainforest (2019)](https://www.discovery.com/exploration/Son-Doong-Cave)
 * [2023-06-25, 10:25:56](https://news.ycombinator.com/item?id=36466698) - [Upload a Godot HTML5 Game to Itch.io with GitHub Actions](https://simondalvai.com/blog/godot-itchio-upload/)
 * [2023-06-25, 09:35:53](https://news.ycombinator.com/item?id=36466406) - [No Markdown support in Google Drive after all these years](https://news.ycombinator.com/item?id=36466406)
@@ -11,7 +12,6 @@
 * [2023-06-25, 04:12:58](https://news.ycombinator.com/item?id=36465085) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 * [2023-06-25, 03:13:02](https://news.ycombinator.com/item?id=36464846) - [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
-* [2023-06-25, 00:02:58](https://news.ycombinator.com/item?id=36463877) - [WeeChat 4](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
 * [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
