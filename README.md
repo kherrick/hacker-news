@@ -2,7 +2,6 @@
 
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-25, 02:05:01](https://news.ycombinator.com/item?id=36464531) - [Ask HN: Is GNU pass and Yubikey (via NFC) supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
-* [2023-06-25, 00:55:15](https://news.ycombinator.com/item?id=36464183) - [Netflix Canada just got rid of its cheapest ad-free plan without even a heads up](https://www.narcity.com/netflix-canada-got-rid-of-cheapest-ad-free-subscription)
 * [2023-06-25, 00:02:58](https://news.ycombinator.com/item?id=36463877) - [WeeChat Version 4.0.0](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
 * [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
@@ -20,6 +19,7 @@
 * [2023-06-24, 14:49:53](https://news.ycombinator.com/item?id=36459137) - [Simple Statistics: Statistical methods in JavaScript for browsers and servers](https://simple-statistics.github.io/)
 * [2023-06-24, 14:18:42](https://news.ycombinator.com/item?id=36458882) - [Yunohost](https://yunohost.org/en/howtohostyourself)
 * [2023-06-24, 14:14:47](https://news.ycombinator.com/item?id=36458849) - [Building a new ZX Spectrum from all new parts](https://www.lostretrotapes.com/building-a-new-zx-spectrum-from-all-new-parts-mostly-part-1/)
+* [2023-06-24, 01:26:05](https://news.ycombinator.com/item?id=36454494) - [The Magic of Embeddings](https://stack.convex.dev/the-magic-of-embeddings)
 * [2023-06-23, 23:17:29](https://news.ycombinator.com/item?id=36453552) - [Second Life by Linden Lab, the company I've worked for since 2004, turn 20 today [video]](https://www.youtube.com/watch?v=f_chDTHpDl4)
 * [2023-06-23, 21:48:29](https://news.ycombinator.com/item?id=36452596) - [Intel Releases x86-SIMD-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
 * [2023-06-23, 20:54:25](https://news.ycombinator.com/item?id=36452046) - [Spontaneous and deliberate creative cognition during and after psilocybin (2021)](https://www.nature.com/articles/s41398-021-01335-5)
