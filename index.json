@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-25, 21:35:06",
+      "https://news.ycombinator.com/item?id=36472823"
+    ],
+    [
+      "Show HN: projectable - a TUI file manager built for projects",
+      "https://github.com/dzfrias/projectable"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 21:08:31",
+      "https://news.ycombinator.com/item?id=36472613"
+    ],
+    [
+      "The .meta Directory: Let's Tidy Things Up",
+      "https://dotmeta.org/"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 20:59:31",
       "https://news.ycombinator.com/item?id=36472534"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36472370"
     ],
     [
-      "What Type of Exercise Is Best for Mental Health?",
+      "A new study looks at how exercise can help alleviate anxiety and depression",
       "https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36471591"
     ],
     [
-      "Microsoft Research: Fully In-Place Functional Programming [pdf]",
+      "FP2: Fully In-Place Functional Programming [pdf]",
       "https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf"
     ]
   ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-06-25, 18:26:48",
-      "https://news.ycombinator.com/item?id=36471186"
-    ],
-    [
-      "You Don’t Need a Vision",
-      "https://austinkleon.com/2023/06/21/you-dont-need-a-vision/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 17:59:10",
       "https://news.ycombinator.com/item?id=36470943"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=36470660"
     ],
     [
-      "Breadbee: Build your own (tiny) single board computer",
+      "Breadbee: Build your own (tiny) single board computer (2020)",
       "http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html"
     ]
   ],
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2023-06-25, 11:50:01",
-      "https://news.ycombinator.com/item?id=36467236"
-    ],
-    [
-      "Btop++: Resource monitor for processor, memory, disks, network and processes",
-      "https://github.com/aristocratos/btop"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 11:20:07",
-      "https://news.ycombinator.com/item?id=36467043"
-    ],
-    [
-      "Air quality reporting on iOS",
-      "https://intergalactic.systems/posts/post-1965946732.html"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 08:44:54",
       "https://news.ycombinator.com/item?id=36466153"
     ],
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=36464385"
     ],
     [
-      "Einstein's Philosophy of Science",
+      "Einstein's Philosophy of Science (2019)",
       "https://plato.stanford.edu/entries/einstein-philscience/"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 15:26:47",
+      "https://news.ycombinator.com/item?id=36448176"
+    ],
+    [
+      "How to Build an Ecosystem",
+      "https://sciencing.com/build-ecosystem-5507650.html"
     ]
   ],
   [
