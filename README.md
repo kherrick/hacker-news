@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 20:05:35](https://news.ycombinator.com/item?id=36472055) - [Recovering Steely Dan’s Second Arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
 * [2023-06-25, 20:04:14](https://news.ycombinator.com/item?id=36472041) - [Ignoring Boys' Emotional Needs Fuels Public Health Risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
 * [2023-06-25, 19:20:31](https://news.ycombinator.com/item?id=36471666) - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
 * [2023-06-25, 19:13:27](https://news.ycombinator.com/item?id=36471601) - [The Cost of Gasoline](https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/)
@@ -7,6 +8,7 @@
 * [2023-06-25, 19:07:20](https://news.ycombinator.com/item?id=36471541) - [Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:33:55](https://news.ycombinator.com/item?id=36471262) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
+* [2023-06-25, 18:26:48](https://news.ycombinator.com/item?id=36471186) - [You Don’t Need a Vision](https://austinkleon.com/2023/06/21/you-dont-need-a-vision/)
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 * [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: A candid conversation (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
 * [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
@@ -17,8 +19,6 @@
 * [2023-06-25, 16:23:52](https://news.ycombinator.com/item?id=36469875) - [DragGAN source code release: Interactive Point-Based Manipulation of Images](https://github.com/XingangPan/DragGAN)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
-* [2023-06-25, 12:58:52](https://news.ycombinator.com/item?id=36467760) - [Tapping Morse Code on a Wall](https://mra-raycom.com/tapping-morse-code-on-a-wall/)
-* [2023-06-25, 12:54:19](https://news.ycombinator.com/item?id=36467717) - [NetBSD hier(7)](https://man.netbsd.org/NetBSD-9.3-STABLE/hier.7)
 * [2023-06-25, 11:50:01](https://news.ycombinator.com/item?id=36467236) - [Btop++: Resource monitor for processor, memory, disks, network and processes](https://github.com/aristocratos/btop)
 * [2023-06-25, 11:48:36](https://news.ycombinator.com/item?id=36467224) - [The 'fuck you' pattern](https://cedwards.xyz/the-fuck-you-pattern/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air quality reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
