@@ -19,6 +19,7 @@
 * [2023-06-23, 21:48:29](https://news.ycombinator.com/item?id=36452596) - [Intel Releases x86-SIMD-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
 * [2023-06-23, 21:39:40](https://news.ycombinator.com/item?id=36452498) - [Humble Object](https://martinfowler.com/bliki/HumbleObject.html)
 * [2023-06-23, 21:36:13](https://news.ycombinator.com/item?id=36452464) - ['Scary moment' as orcas disrupt ocean boat race](https://www.cbc.ca/sports/orcas-ramming-boats-spain-portugal-1.6886891)
+* [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
 * [2023-06-23, 21:27:28](https://news.ycombinator.com/item?id=36452367) - [A software engineer’s guide to understanding neural networks and transformers](https://sebinsua.com/bridging-the-gap)
 * [2023-06-23, 21:22:09](https://news.ycombinator.com/item?id=36452322) - [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
 * [2023-06-23, 21:19:49](https://news.ycombinator.com/item?id=36452290) - [Wagner coup in Russia? Wagner declared war on the Russian army](https://www.worldbulletin.net/asia-pacific/wagner-coup-in-russia-wagner-declared-war-on-the-russian-army-h215840.html)
