@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Esoteric Base Number Systems](https://rupertmckay.com/blog/counting-to-ten/)
+* [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT, AI Assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-25, 21:08:31](https://news.ycombinator.com/item?id=36472613) - [The .meta Directory: Let's Tidy Things Up](https://dotmeta.org/)
 * [2023-06-25, 20:59:31](https://news.ycombinator.com/item?id=36472534) - [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 * [2023-06-25, 20:41:49](https://news.ycombinator.com/item?id=36472381) - [Kill Siri (2022)](https://term7.info/kill-siri/)
@@ -24,12 +25,11 @@
 * [2023-06-25, 15:34:42](https://news.ycombinator.com/item?id=36469297) - [Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones](https://github.com/TeamHypersomnia/Hypersomnia)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
-* [2023-06-25, 08:44:54](https://news.ycombinator.com/item?id=36466153) - [The EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
 * [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science (2019)](https://plato.stanford.edu/entries/einstein-philscience/)
+* [2023-06-24, 10:29:16](https://news.ycombinator.com/item?id=36457363) - [How Outback Steakhouse Went from Down Under, All the Way to the Top](https://www.entrepreneurship.org/articles/2001/10/steaking-acclaim-how-outback-steakhouse-went-from-down-under-all-the-way-to-the-top)
 * [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP addresses are equal? “Dot-zero” addresses are less equal (2013)](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
-* [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 
 ## [Archives](archives/index.md)
 

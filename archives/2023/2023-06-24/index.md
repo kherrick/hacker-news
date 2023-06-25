@@ -66,6 +66,7 @@
 * [2023-06-24, 10:43:58](https://news.ycombinator.com/item?id=36457435) - [Your keyboard layout is broken](https://www.snprajwal.com/blog/keyboards-are-broken/)
 * [2023-06-24, 10:42:43](https://news.ycombinator.com/item?id=36457433) - [The Prigozhin Coup seems pretty damn well organized](https://phillipspobrien.substack.com/p/the-prigozhin-coup-seems-pretty-damn)
 * [2023-06-24, 10:41:40](https://news.ycombinator.com/item?id=36457427) - [The Case Against Travel](https://www.newyorker.com/culture/the-weekend-essay/the-case-against-travel)
+* [2023-06-24, 10:29:16](https://news.ycombinator.com/item?id=36457363) - [How Outback Steakhouse Went from Down Under, All the Way to the Top](https://www.entrepreneurship.org/articles/2001/10/steaking-acclaim-how-outback-steakhouse-went-from-down-under-all-the-way-to-the-top)
 * [2023-06-24, 10:27:37](https://news.ycombinator.com/item?id=36457347) - [GCC 14 Adds Initial “-std=C++26” Plumbing](https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26)
 * [2023-06-24, 10:12:37](https://news.ycombinator.com/item?id=36457286) - [Decades-long bet on consciousness ends – it’s philosopher 1, neuroscientist 0](https://www.nature.com/articles/d41586-023-02120-8)
 * [2023-06-24, 10:06:36](https://news.ycombinator.com/item?id=36457266) - [Wearable device that records your voice for legal defense](https://news.ycombinator.com/item?id=36457266)

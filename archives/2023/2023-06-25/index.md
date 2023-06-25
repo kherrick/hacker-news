@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Esoteric Base Number Systems](https://rupertmckay.com/blog/counting-to-ten/)
+* [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT, AI Assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-25, 21:35:06](https://news.ycombinator.com/item?id=36472823) - [Show HN: projectable - a TUI file manager built for projects](https://github.com/dzfrias/projectable)
 * [2023-06-25, 21:08:31](https://news.ycombinator.com/item?id=36472613) - [The .meta Directory: Let's Tidy Things Up](https://dotmeta.org/)
 * [2023-06-25, 20:59:31](https://news.ycombinator.com/item?id=36472534) - [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
