@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
 * [2023-06-25, 16:49:12](https://news.ycombinator.com/item?id=36470170) - [With world’s lowest fertility, doubts creep in about wisdom of ‘no-kids zones’](https://www.cnn.com/2023/06/24/asia/south-korea-no-kids-zone-intl-hnk-dst/index.html)
 * [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What Are Embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-25, 16:14:49](https://news.ycombinator.com/item?id=36469783) - [Ask HN: Why doesn't Netflix produce much more of its most popular shows?](https://news.ycombinator.com/item?id=36469783)
@@ -28,6 +29,7 @@
 * [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
+* [2023-06-25, 11:50:01](https://news.ycombinator.com/item?id=36467236) - [Btop++: Resource monitor for processor, memory, disks, network and processes](https://github.com/aristocratos/btop)
 * [2023-06-25, 11:48:36](https://news.ycombinator.com/item?id=36467224) - [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
 * [2023-06-25, 11:34:27](https://news.ycombinator.com/item?id=36467135) - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
