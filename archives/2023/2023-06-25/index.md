@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What Are Embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-25, 15:33:08](https://news.ycombinator.com/item?id=36469277) - [Don't expect to see competitive RISC-V servers any time soon](https://utcc.utoronto.ca/~cks/space/blog/tech/RISCVServersNotSoon)
 * [2023-06-25, 15:04:12](https://news.ycombinator.com/item?id=36468933) - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
 * [2023-06-25, 14:58:02](https://news.ycombinator.com/item?id=36468839) - [Left my job to go full time on Meetme and refused a 500k/year job](https://www.indiehackers.com/product/meetme/left-my-job-to-go-full-time-on-meetme-and-refused-a-500k-year-job--NYhiov3St_0q137yw_6)
@@ -36,6 +37,7 @@
 * [2023-06-25, 08:44:54](https://news.ycombinator.com/item?id=36466153) - [Making sense of the EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
 * [2023-06-25, 08:39:38](https://news.ycombinator.com/item?id=36466133) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
+* [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
 * [2023-06-25, 06:09:04](https://news.ycombinator.com/item?id=36465489) - [Do life hacks work? The truth is, we’ll never know](https://www.theguardian.com/science/2023/jun/24/do-life-hacks-work-the-truth-is-well-never-know)
 * [2023-06-25, 05:19:02](https://news.ycombinator.com/item?id=36465313) - [Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management solution inside Zotero](https://github.com/windingwind/zotero-better-notes)
