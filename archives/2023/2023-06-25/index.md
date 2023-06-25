@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 19:20:31](https://news.ycombinator.com/item?id=36471666) - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:27:14](https://news.ycombinator.com/item?id=36471192) - [I Shouldn’t Have to Accept Being in Deepfake Porn](https://www.theatlantic.com/ideas/archive/2023/06/deepfake-porn-ai-misinformation/674475/)
 * [2023-06-25, 18:15:48](https://news.ycombinator.com/item?id=36471105) - [How the Military Is Using E-Girls to Recruit Gen Z into Service](https://www.mintpressnews.com/simp-to-soldier-e-girls-military-recuitment-gen-z/284897/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 19:20:31](https://news.ycombinator.com/item?id=36471666) - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:15:48](https://news.ycombinator.com/item?id=36471105) - [How the Military Is Using E-Girls to Recruit Gen Z into Service](https://www.mintpressnews.com/simp-to-soldier-e-girls-military-recuitment-gen-z/284897/)
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
@@ -10,7 +11,6 @@
 * [2023-06-25, 16:40:36](https://news.ycombinator.com/item?id=36470058) - [Eight-mile frieze of Ice Age beasts found in Amazon rainforest (2020)](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 * [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-25, 16:23:52](https://news.ycombinator.com/item?id=36469875) - [DragGAN source code release: Interactive Point-Based Manipulation of Images](https://github.com/XingangPan/DragGAN)
-* [2023-06-25, 15:04:12](https://news.ycombinator.com/item?id=36468933) - [Formula E team caught using RFID scanner that got live tire data from other cars](https://www.theverge.com/2023/6/24/23772725/formula-e-ds-penske-rfid-tire-data-wireless-scanner)
 * [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 * [2023-06-25, 14:25:48](https://news.ycombinator.com/item?id=36468466) - [Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)](https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
