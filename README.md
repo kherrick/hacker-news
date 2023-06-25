@@ -2,7 +2,6 @@
 
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management solution inside Zotero](https://github.com/windingwind/zotero-better-notes)
 * [2023-06-25, 04:40:56](https://news.ycombinator.com/item?id=36465185) - [Tilia – fully licensed, regulation compliant money transmitter for gaming](https://www.tilia.io/about)
-* [2023-06-25, 04:27:09](https://news.ycombinator.com/item?id=36465138) - [Show HN: Instant access to ChatGPT on any Mac app](https://atua.app)
 * [2023-06-25, 04:19:16](https://news.ycombinator.com/item?id=36465107) - [Genetic Mutation Makes People Feel Full – All the Time](https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html)
 * [2023-06-25, 04:12:58](https://news.ycombinator.com/item?id=36465085) - [Time is not a synchronization primitive](https://xeiaso.net/blog/nosleep)
 * [2023-06-25, 03:13:02](https://news.ycombinator.com/item?id=36464846) - [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
@@ -12,6 +11,7 @@
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
 * [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
+* [2023-06-24, 20:30:40](https://news.ycombinator.com/item?id=36462414) - [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 * [2023-06-24, 20:19:16](https://news.ycombinator.com/item?id=36462331) - [Mineverse](https://evanw.github.io/mineverse/)
 * [2023-06-24, 20:12:18](https://news.ycombinator.com/item?id=36462282) - [Many in the AI field think the bigger-is-better approach is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
