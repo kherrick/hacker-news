@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-06-25, 17:00:36",
+      "https://news.ycombinator.com/item?id=36470297"
+    ],
+    [
+      "Show HN: Open-source resume builder and parser",
+      "https://www.open-resume.com/"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 16:49:12",
       "https://news.ycombinator.com/item?id=36470170"
     ],
     [
-      "With world’s lowest fertility, doubts creep in about wisdom of ‘no-kids zones’",
+      "Doubts creep in about wisdom of ‘no-kids zones’ in South Korea",
       "https://www.cnn.com/2023/06/24/asia/south-korea-no-kids-zone-intl-hnk-dst/index.html"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36469783"
     ],
     [
-      "Ask HN: Why doesn't Netflix produce much more of its most popular shows?",
+      "Ask HN: Why doesn't Netflix produce more of its most popular shows?",
       "https://news.ycombinator.com/item?id=36469783"
     ]
   ],
@@ -51,22 +61,22 @@
   ],
   [
     [
-      "2023-06-25, 14:40:43",
-      "https://news.ycombinator.com/item?id=36468632"
-    ],
-    [
-      "Remote work appears to be here to stay, especially for women",
-      "https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 14:31:55",
       "https://news.ycombinator.com/item?id=36468535"
     ],
     [
       "Ask HN: What topics are good for a UI/UX Primer?",
       "https://news.ycombinator.com/item?id=36468535"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 14:25:48",
+      "https://news.ycombinator.com/item?id=36468466"
+    ],
+    [
+      "Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)",
+      "https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/"
     ]
   ],
   [
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=36468028"
     ],
     [
-      "Tintin, Hergé and Chang – A Friendship That Changed the World",
+      "Tintin, Hergé and Chang",
       "https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world"
     ]
   ],
@@ -101,21 +111,11 @@
   ],
   [
     [
-      "2023-06-25, 13:21:32",
-      "https://news.ycombinator.com/item?id=36467942"
-    ],
-    [
-      "Adobe Account Expiration. Michael Tsai",
-      "https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 13:07:10",
       "https://news.ycombinator.com/item?id=36467826"
     ],
     [
-      "Ways to Say No With Grace and Style",
+      "Ways to say no with grace and style (2021)",
       "https://fs.blog/saying-no/"
     ]
   ],
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36467802"
     ],
     [
-      "Gut–Brain Axis",
+      "Gut–Brain axis",
       "https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis"
     ]
   ],
@@ -145,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36467663"
     ],
     [
-      "Theory to Systems: A Grounded Approach to Programming Language Education (2019)",
+      "Theory to systems: A grounded approach to programming language education (2019)",
       "https://arxiv.org/abs/1904.06750"
     ]
   ],
@@ -161,12 +161,22 @@
   ],
   [
     [
-      "2023-06-25, 12:15:21",
-      "https://news.ycombinator.com/item?id=36467400"
+      "2023-06-25, 11:50:01",
+      "https://news.ycombinator.com/item?id=36467236"
     ],
     [
-      "LastPass users locked out due to MFA resets",
-      "https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/"
+      "Btop++: Resource monitor for processor, memory, disks, network and processes",
+      "https://github.com/aristocratos/btop"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 11:48:36",
+      "https://news.ycombinator.com/item?id=36467224"
+    ],
+    [
+      "The 'Fuck You' Pattern",
+      "https://cedwards.xyz/the-fuck-you-pattern/"
     ]
   ],
   [
@@ -191,21 +201,11 @@
   ],
   [
     [
-      "2023-06-25, 09:35:53",
-      "https://news.ycombinator.com/item?id=36466406"
-    ],
-    [
-      "No Markdown support in Google Drive after all these years",
-      "https://news.ycombinator.com/item?id=36466406"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 08:44:54",
       "https://news.ycombinator.com/item?id=36466153"
     ],
     [
-      "Making sense of the EU’s fight for user-replaceable smartphone batteries",
+      "The EU’s fight for user-replaceable smartphone batteries",
       "https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-06-25, 04:56:34",
+      "https://news.ycombinator.com/item?id=36465243"
+    ],
+    [
+      "Zotero Better Notes – Knowledge management inside Zotero",
+      "https://github.com/windingwind/zotero-better-notes"
+    ]
+  ],
+  [
+    [
       "2023-06-25, 04:12:58",
       "https://news.ycombinator.com/item?id=36465085"
     ],
@@ -245,7 +255,7 @@
       "https://news.ycombinator.com/item?id=36464846"
     ],
     [
-      "Intercal: Practically Impossible",
+      "INTERCAL: Practically impossible",
       "https://www.muppetlabs.com/~breadbox/intercal/pgpi.html"
     ]
   ],
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2023-06-24, 18:06:33",
-      "https://news.ycombinator.com/item?id=36461102"
-    ],
-    [
-      "Try: run a command and inspect its effects before changing your live system",
-      "https://github.com/binpash/try"
-    ]
-  ],
-  [
-    [
       "2023-06-24, 11:42:49",
       "https://news.ycombinator.com/item?id=36457832"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-06-24, 09:11:15",
-      "https://news.ycombinator.com/item?id=36456965"
-    ],
-    [
-      "Staying Alive",
-      "https://www.philosophyexperiments.com/stayingalive/"
-    ]
-  ],
-  [
-    [
       "2023-06-23, 21:35:38",
       "https://news.ycombinator.com/item?id=36452457"
     ],
     [
       "Harvard’s new computer science teacher is a chatbot",
       "https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-23, 15:26:42",
+      "https://news.ycombinator.com/item?id=36448174"
+    ],
+    [
+      "Patterns of data flow in words",
+      "https://okmij.org/ftp/Computation/ARPL.html"
     ]
   ]
 ]
