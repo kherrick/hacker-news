@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-25, 04:19:16](https://news.ycombinator.com/item?id=36465107) - [Genetic Mutation Makes People Feel Full – All the Time](https://www.nytimes.com/2019/04/18/health/genetics-weight-obesity.html)
+* [2023-06-25, 04:40:56](https://news.ycombinator.com/item?id=36465185) - [Tilia – fully licensed, regulation compliant money transmitter for gaming](https://www.tilia.io/about)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-25, 02:16:07](https://news.ycombinator.com/item?id=36464582) - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
 * [2023-06-25, 02:05:01](https://news.ycombinator.com/item?id=36464531) - [Ask HN: Is GNU pass and Yubikey (via NFC) supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
@@ -8,7 +8,6 @@
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
 * [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
-* [2023-06-24, 20:30:40](https://news.ycombinator.com/item?id=36462414) - [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
 * [2023-06-24, 20:19:16](https://news.ycombinator.com/item?id=36462331) - [Mineverse](https://evanw.github.io/mineverse/)
 * [2023-06-24, 20:12:18](https://news.ycombinator.com/item?id=36462282) - [Many in the AI field think the bigger-is-better approach is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
@@ -22,6 +21,7 @@
 * [2023-06-23, 23:17:29](https://news.ycombinator.com/item?id=36453552) - [Second Life by Linden Lab, the company I've worked for since 2004, turn 20 today [video]](https://www.youtube.com/watch?v=f_chDTHpDl4)
 * [2023-06-23, 21:48:29](https://news.ycombinator.com/item?id=36452596) - [Intel Releases x86-SIMD-sort 2.0 With Faster AVX-512 Sorting, New Algorithms](https://www.phoronix.com/news/Intel-x86-simd-sort-2.0)
 * [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
+* [2023-06-23, 20:56:33](https://news.ycombinator.com/item?id=36452067) - [It Wasn't for Me (2016)](https://austinkleon.com/2016/10/18/it-wasnt-for-me/)
 * [2023-06-23, 20:54:25](https://news.ycombinator.com/item?id=36452046) - [Spontaneous and deliberate creative cognition during and after psilocybin (2021)](https://www.nature.com/articles/s41398-021-01335-5)
 * [2023-06-23, 18:54:07](https://news.ycombinator.com/item?id=36450824) - [Playing sounds of healthy coral on reefs makes fish return (2019)](https://www.abc.net.au/news/science/2019-12-03/great-barrier-reef-coral-fish-acoustics/11760016)
 * [2023-06-23, 18:23:40](https://news.ycombinator.com/item?id=36450490) - [What Alan Turing means to us](https://www.turing.ac.uk/blog/what-alan-turing-means-us)
