@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-25, 20:40:52](https://news.ycombinator.com/item?id=36472370) - [What Type of Exercise Is Best for Mental Health?](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
-* [2023-06-25, 20:35:11](https://news.ycombinator.com/item?id=36472327) - [Microsoft's ruthless employee ranking system annihilated team collaboration](https://tryingtruly.substack.com/p/the-shitty-stack-system)
+* [2023-06-25, 20:35:11](https://news.ycombinator.com/item?id=36472327) - [The Shitty Stack System](https://tryingtruly.substack.com/p/the-shitty-stack-system)
+* [2023-06-25, 20:24:56](https://news.ycombinator.com/item?id=36472235) - [MTuner: C/C++ memory profiler and memory leak finder](https://github.com/milostosic/MTuner)
 * [2023-06-25, 20:05:35](https://news.ycombinator.com/item?id=36472055) - [Recovering Steely Dan’s Second Arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
-* [2023-06-25, 19:20:31](https://news.ycombinator.com/item?id=36471666) - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
+* [2023-06-25, 20:04:14](https://news.ycombinator.com/item?id=36472041) - [Ignoring boys' emotional needs fuels public health risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
 * [2023-06-25, 19:11:50](https://news.ycombinator.com/item?id=36471591) - [Microsoft Research: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
 * [2023-06-25, 19:07:20](https://news.ycombinator.com/item?id=36471541) - [Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
@@ -28,7 +29,6 @@
 * [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science](https://plato.stanford.edu/entries/einstein-philscience/)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient cart marking ceremony](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP Addresses Are Equal? “Dot-Zero” Addresses Are Less Equal](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
-* [2023-06-24, 04:58:51](https://news.ycombinator.com/item?id=36455708) - [Understanding the functional building blocks of social media (2011)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2519365)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 
 ## [Archives](archives/index.md)
