@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-25, 06:09:04](https://news.ycombinator.com/item?id=36465489) - [Do life hacks work? We’ll never know](https://www.theguardian.com/science/2023/jun/24/do-life-hacks-work-the-truth-is-well-never-know)
 * [2023-06-25, 05:19:02](https://news.ycombinator.com/item?id=36465313) - [Sweden adopts new fossil-free target, making way for nuclear](https://www.power-technology.com/news/sweden-adopts-new-fossil-free-target-making-way-for-nuclear/)
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
 * [2023-06-25, 04:50:20](https://news.ycombinator.com/item?id=36465220) - [How platform engineering works](https://chadxz.dev/platform/)
@@ -16,6 +15,7 @@
 * [2023-06-24, 20:13:55](https://news.ycombinator.com/item?id=36462298) - [The free soloist who fell to earth](https://www.outsideonline.com/outdoor-adventure/climbing/austin-howell-fallen-soloist/)
 * [2023-06-24, 20:12:18](https://news.ycombinator.com/item?id=36462282) - [Many in the AI field think the bigger-is-better approach is running out of road](https://www.economist.com/science-and-technology/2023/06/21/the-bigger-is-better-approach-to-ai-is-running-out-of-road)
 * [2023-06-24, 19:23:39](https://news.ycombinator.com/item?id=36461866) - [Show HN: Writedown - Open Source Markdown Diary](https://writedown.app/)
+* [2023-06-24, 19:03:02](https://news.ycombinator.com/item?id=36461701) - [Every Mastodon user has an RSS feed](https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed)
 * [2023-06-24, 18:17:58](https://news.ycombinator.com/item?id=36461224) - [Has Xbox lost the console wars?](https://www.theverge.com/2023/6/24/23772314/ftc-microsoft-day-two-hearing-summary-xbox-console-wars-sony-playstation-call-of-duty)
 * [2023-06-24, 18:06:33](https://news.ycombinator.com/item?id=36461102) - [Try: run a command and inspect its effects before changing your live system](https://github.com/binpash/try)
 * [2023-06-23, 23:17:29](https://news.ycombinator.com/item?id=36453552) - [Second Life by Linden Lab, the company I've worked for since 2004, turn 20 today [video]](https://www.youtube.com/watch?v=f_chDTHpDl4)
