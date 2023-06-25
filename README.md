@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
-* [2023-06-25, 18:27:14](https://news.ycombinator.com/item?id=36471192) - [I Shouldn’t Have to Accept Being in Deepfake Porn](https://www.theatlantic.com/ideas/archive/2023/06/deepfake-porn-ai-misinformation/674475/)
-* [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Understanding Google Zanzibar and Why it Shines at Building Permissions](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
-* [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: candid conversation with the jazz world's premier iconoclast (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
+* [2023-06-25, 18:15:48](https://news.ycombinator.com/item?id=36471105) - [How the Military Is Using E-Girls to Recruit Gen Z into Service](https://www.mintpressnews.com/simp-to-soldier-e-girls-military-recuitment-gen-z/284897/)
+* [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
+* [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: A candid conversation (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
 * [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
 * [2023-06-25, 16:56:28](https://news.ycombinator.com/item?id=36470246) - [Publishers carpet-bomb IPFS gateway operators with DMCA notices](https://torrentfreak.com/publishers-carpet-bomb-ipfs-gateway-operators-with-dmca-notices-230625/)

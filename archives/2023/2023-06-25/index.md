@@ -6,6 +6,7 @@
 
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:27:14](https://news.ycombinator.com/item?id=36471192) - [I Shouldn’t Have to Accept Being in Deepfake Porn](https://www.theatlantic.com/ideas/archive/2023/06/deepfake-porn-ai-misinformation/674475/)
+* [2023-06-25, 18:15:48](https://news.ycombinator.com/item?id=36471105) - [How the Military Is Using E-Girls to Recruit Gen Z into Service](https://www.mintpressnews.com/simp-to-soldier-e-girls-military-recuitment-gen-z/284897/)
 * [2023-06-25, 18:01:28](https://news.ycombinator.com/item?id=36470971) - [Texas airport worker dies after being sucked into Delta jet engine](https://www.theguardian.com/us-news/2023/jun/25/texas-airport-worker-dies-after-being-sucked-into-delta-jet-engine)
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Understanding Google Zanzibar and Why it Shines at Building Permissions](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 * [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: candid conversation with the jazz world's premier iconoclast (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
