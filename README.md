@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 23:19:31](https://news.ycombinator.com/item?id=36473676) - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
 * [2023-06-25, 22:19:16](https://news.ycombinator.com/item?id=36473217) - [How the most popular cars in the US track drivers](https://www.wired.com/story/car-data-privacy-toyota-honda-ford/)
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
@@ -8,7 +9,6 @@
 * [2023-06-25, 20:41:49](https://news.ycombinator.com/item?id=36472381) - [Kill Siri (2022)](https://term7.info/kill-siri/)
 * [2023-06-25, 20:40:52](https://news.ycombinator.com/item?id=36472370) - [A new study looks at how exercise can help alleviate anxiety and depression](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 * [2023-06-25, 20:24:56](https://news.ycombinator.com/item?id=36472235) - [MTuner: C/C++ memory profiler and memory leak finder](https://github.com/milostosic/MTuner)
-* [2023-06-25, 20:05:35](https://news.ycombinator.com/item?id=36472055) - [Recovering Steely Dan’s second arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
 * [2023-06-25, 20:04:14](https://news.ycombinator.com/item?id=36472041) - [Ignoring boys' emotional needs fuels public health risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
 * [2023-06-25, 19:26:31](https://news.ycombinator.com/item?id=36471718) - [SQLite Journal Modes [video]](https://www.youtube.com/watch?v=86jnwSU1F6Q)
 * [2023-06-25, 19:13:27](https://news.ycombinator.com/item?id=36471601) - [The hidden cost of gasoline](https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/)

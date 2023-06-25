@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 23:19:31](https://news.ycombinator.com/item?id=36473676) - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
 * [2023-06-25, 22:19:16](https://news.ycombinator.com/item?id=36473217) - [How the most popular cars in the US track drivers](https://www.wired.com/story/car-data-privacy-toyota-honda-ford/)
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Esoteric Base Number Systems](https://rupertmckay.com/blog/counting-to-ten/)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT, AI Assistant for Windows 3.1](https://www.dialup.net/wingpt/)
