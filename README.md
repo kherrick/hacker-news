@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-25, 10:25:56](https://news.ycombinator.com/item?id=36466698) - [Upload a Godot HTML5 Game to Itch.io with GitHub Actions](https://simondalvai.com/blog/godot-itchio-upload/)
+* [2023-06-25, 09:35:53](https://news.ycombinator.com/item?id=36466406) - [No Markdown support in Google Drive after all these years](https://news.ycombinator.com/item?id=36466406)
 * [2023-06-25, 08:39:38](https://news.ycombinator.com/item?id=36466133) - [Web-based cryptography is always snake oil](https://www.devever.net/~hl/webcrypto)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 04:56:34](https://news.ycombinator.com/item?id=36465243) - [Zotero Better Notes – Knowledge management inside Zotero](https://github.com/windingwind/zotero-better-notes)
@@ -11,7 +12,6 @@
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-25, 00:02:58](https://news.ycombinator.com/item?id=36463877) - [WeeChat 4](https://blog.weechat.org/post/2023/06/24/Version-4.0.0)
 * [2023-06-24, 23:51:00](https://news.ycombinator.com/item?id=36463810) - [On the paper “Exploring the MIT Mathematics and EECS Curriculum Using LLMs” [pdf]](https://people.csail.mit.edu/asolar/CoursesPaperStatement.pdf)
-* [2023-06-24, 23:24:10](https://news.ycombinator.com/item?id=36463625) - [Interactive CommonMark Tutorial](https://commonmark.org/help/tutorial/index.html)
 * [2023-06-24, 20:46:08](https://news.ycombinator.com/item?id=36462508) - [RunInSandbox: Run/extract files in Windows Sandbox with a right-click](https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html)
 * [2023-06-24, 20:30:40](https://news.ycombinator.com/item?id=36462414) - [Fast and free multi-language code editor for Android](https://github.com/massivemadness/Squircle-CE)
 * [2023-06-24, 20:22:24](https://news.ycombinator.com/item?id=36462354) - [Semantic MediaWiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
