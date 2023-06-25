@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 20:59:31](https://news.ycombinator.com/item?id=36472534) - [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 * [2023-06-25, 20:40:52](https://news.ycombinator.com/item?id=36472370) - [What Type of Exercise Is Best for Mental Health?](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 * [2023-06-25, 20:35:11](https://news.ycombinator.com/item?id=36472327) - [The Shitty Stack System](https://tryingtruly.substack.com/p/the-shitty-stack-system)
 * [2023-06-25, 20:24:56](https://news.ycombinator.com/item?id=36472235) - [MTuner: C/C++ memory profiler and memory leak finder](https://github.com/milostosic/MTuner)
@@ -7,6 +8,7 @@
 * [2023-06-25, 20:04:14](https://news.ycombinator.com/item?id=36472041) - [Ignoring boys' emotional needs fuels public health risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
 * [2023-06-25, 19:11:50](https://news.ycombinator.com/item?id=36471591) - [Microsoft Research: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
 * [2023-06-25, 19:07:20](https://news.ycombinator.com/item?id=36471541) - [Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
+* [2023-06-25, 18:59:41](https://news.ycombinator.com/item?id=36471473) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:33:55](https://news.ycombinator.com/item?id=36471262) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 18:26:48](https://news.ycombinator.com/item?id=36471186) - [You Don’t Need a Vision](https://austinkleon.com/2023/06/21/you-dont-need-a-vision/)
@@ -22,13 +24,11 @@
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:04:51](https://news.ycombinator.com/item?id=36467802) - [Gut–Brain axis](https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis)
 * [2023-06-25, 11:50:01](https://news.ycombinator.com/item?id=36467236) - [Btop++: Resource monitor for processor, memory, disks, network and processes](https://github.com/aristocratos/btop)
-* [2023-06-25, 11:48:36](https://news.ycombinator.com/item?id=36467224) - [The 'fuck you' pattern](https://cedwards.xyz/the-fuck-you-pattern/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air quality reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
 * [2023-06-25, 08:44:54](https://news.ycombinator.com/item?id=36466153) - [The EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
 * [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science](https://plato.stanford.edu/entries/einstein-philscience/)
-* [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP Addresses Are Equal? “Dot-Zero” Addresses Are Less Equal](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
 
 ## [Archives](archives/index.md)

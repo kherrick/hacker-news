@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
+* [2023-06-25, 20:59:31](https://news.ycombinator.com/item?id=36472534) - [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 * [2023-06-25, 20:40:52](https://news.ycombinator.com/item?id=36472370) - [What Type of Exercise Is Best for Mental Health?](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 * [2023-06-25, 20:35:11](https://news.ycombinator.com/item?id=36472327) - [Microsoft's ruthless employee ranking system annihilated team collaboration](https://tryingtruly.substack.com/p/the-shitty-stack-system)
 * [2023-06-25, 20:24:56](https://news.ycombinator.com/item?id=36472235) - [MTuner: C/C++ memory profiler and memory leak finder](https://github.com/milostosic/MTuner)
@@ -13,6 +14,7 @@
 * [2023-06-25, 19:13:27](https://news.ycombinator.com/item?id=36471601) - [The Cost of Gasoline](https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/)
 * [2023-06-25, 19:11:50](https://news.ycombinator.com/item?id=36471591) - [Microsoft Research: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
 * [2023-06-25, 19:07:20](https://news.ycombinator.com/item?id=36471541) - [Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
+* [2023-06-25, 18:59:41](https://news.ycombinator.com/item?id=36471473) - [Epicycle Clock](https://sophiehoulden.com/randomstuff/epitime/)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:33:55](https://news.ycombinator.com/item?id=36471262) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 18:27:14](https://news.ycombinator.com/item?id=36471192) - [I Shouldn’t Have to Accept Being in Deepfake Porn](https://www.theatlantic.com/ideas/archive/2023/06/deepfake-porn-ai-misinformation/674475/)
