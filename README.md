@@ -26,7 +26,7 @@
 * [2023-06-25, 08:44:54](https://news.ycombinator.com/item?id=36466153) - [The EU’s fight for user-replaceable smartphone batteries](https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
-* [2023-06-24, 21:18:30](https://news.ycombinator.com/item?id=36462733) - [Decker Fantasy Camp 2023](https://itch.io/jam/decker-fantasy-camp-2023)
+* [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science](https://plato.stanford.edu/entries/einstein-philscience/)
 * [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient cart marking ceremony](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP Addresses Are Equal? “Dot-Zero” Addresses Are Less Equal](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
 * [2023-06-23, 15:26:42](https://news.ycombinator.com/item?id=36448174) - [Patterns of data flow in words](https://okmij.org/ftp/Computation/ARPL.html)
