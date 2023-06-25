@@ -58,6 +58,7 @@
 * [2023-06-24, 13:04:39](https://news.ycombinator.com/item?id=36458366) - [Meta says its new speech-generating AI tool is too dangerous to release](https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release)
 * [2023-06-24, 12:40:29](https://news.ycombinator.com/item?id=36458211) - [Putin’s Rewriting of History Draws on a Long Soviet Myth-Making Tradition (2022)](https://www.smithsonianmag.com/history/vladimir-putins-rewriting-of-history-draws-on-a-long-tradition-of-soviet-myth-making-180979724/)
 * [2023-06-24, 12:07:43](https://news.ycombinator.com/item?id=36457976) - [It's Dragon Boat Festival Here in Taiwan (With Pictures)](https://jjpryor.substack.com/p/dragon-boat-festival-taiwan)
+* [2023-06-24, 11:42:49](https://news.ycombinator.com/item?id=36457832) - [London’s ancient Cart Marking ceremony takes place next month](https://www.ianvisits.co.uk/articles/londons-ancient-cart-marking-ceremony-takes-place-next-month-60602/)
 * [2023-06-24, 11:26:15](https://news.ycombinator.com/item?id=36457720) - [And you, Red Hat?](https://hackaday.com/2023/06/23/et-tu-red-hat/)
 * [2023-06-24, 11:06:37](https://news.ycombinator.com/item?id=36457557) - [Why doesn't TypeScript properly type Object.keys?](https://alexharri.com/blog/typescript-structural-typing)
 * [2023-06-24, 11:05:02](https://news.ycombinator.com/item?id=36457546) - [Fully Open Public Licence](https://github.com/pjakma/fopl)
