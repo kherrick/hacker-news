@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-25, 13:50:13](https://news.ycombinator.com/item?id=36468162) - [When wealthy adventurers take risks,who foots the bill for rescue attempts?](https://apnews.com/article/titanic-tourist-sub-passengers-cost-ee2a6358b36e48326b3977090fd9311b)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang – A Friendship That Changed the World](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:22:54](https://news.ycombinator.com/item?id=36467955) - [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
 * [2023-06-25, 13:21:32](https://news.ycombinator.com/item?id=36467942) - [Adobe Account Expiration. Michael Tsai](https://mjtsai.com/blog/2023/06/23/adobe-account-expiration/)
 * [2023-06-25, 13:07:10](https://news.ycombinator.com/item?id=36467826) - [Ways to Say No With Grace and Style](https://fs.blog/saying-no/)
+* [2023-06-25, 12:48:02](https://news.ycombinator.com/item?id=36467663) - [Theory to Systems: A Grounded Approach to Programming Language Education (2019)](https://arxiv.org/abs/1904.06750)
 * [2023-06-25, 12:39:02](https://news.ycombinator.com/item?id=36467588) - [The iPad was meant to revolutionize accessibility. What happened?](https://www.technologyreview.com/2023/06/21/1074249/ipad-accessibility-fail/)
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
 * [2023-06-25, 11:34:27](https://news.ycombinator.com/item?id=36467135) - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
@@ -25,9 +27,7 @@
 * [2023-06-24, 06:14:47](https://news.ycombinator.com/item?id=36456071) - [Pink Floyd, 'The Wizard of Oz,' and Me](https://www.nytimes.com/interactive/2023/06/21/magazine/dark-side-of-the-rainbow-pink-floyd-wizard-of-oz.html)
 * [2023-06-23, 22:52:28](https://news.ycombinator.com/item?id=36453305) - [Btreefs generates executable code at runtime to unpack btree nodes](https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727)
 * [2023-06-23, 22:24:17](https://news.ycombinator.com/item?id=36452982) - [When Silence is Power (2013)](https://thefrailestthing.com/2013/12/21/silence-is-power/)
-* [2023-06-23, 21:35:38](https://news.ycombinator.com/item?id=36452457) - [Harvard’s new computer science teacher is a chatbot](https://www.independent.co.uk/tech/harvard-chatbot-teacher-computer-science-b2363114.html)
 * [2023-06-23, 20:54:25](https://news.ycombinator.com/item?id=36452046) - [Spontaneous and deliberate creative cognition during and after psilocybin (2021)](https://www.nature.com/articles/s41398-021-01335-5)
-* [2023-06-23, 18:54:07](https://news.ycombinator.com/item?id=36450824) - [Playing sounds of healthy coral on reefs makes fish return (2019)](https://www.abc.net.au/news/science/2019-12-03/great-barrier-reef-coral-fish-acoustics/11760016)
 * [2023-06-23, 17:05:33](https://news.ycombinator.com/item?id=36449581) - [How a Frenchman stole two billion dollars’ worth of art](https://www.newyorker.com/magazine/2023/06/26/the-art-thief-a-true-story-of-love-crime-and-a-dangerous-obsession-michael-finkel-book-review)
 * [2023-06-23, 17:04:31](https://news.ycombinator.com/item?id=36449564) - [AMD's 128-core Epycs could spell trouble for Ampere Computing](https://www.theregister.com/2023/06/21/amd_ampere_cloud_core_competition/)
 
