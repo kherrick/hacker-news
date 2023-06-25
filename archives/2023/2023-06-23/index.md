@@ -11,6 +11,7 @@
 * [2023-06-23, 23:22:38](https://news.ycombinator.com/item?id=36453592) - [The E-graph extraction problem is NP-complete](https://effect.systems/blog/egraph-extraction.html)
 * [2023-06-23, 23:17:29](https://news.ycombinator.com/item?id=36453552) - [Second Life by Linden Lab, the company I've worked for since 2004, turn 20 today [video]](https://www.youtube.com/watch?v=f_chDTHpDl4)
 * [2023-06-23, 23:03:13](https://news.ycombinator.com/item?id=36453404) - [“Car owners are arseholes” is not transport policy](https://blog.bloonface.com/2023/05/11/car-owners-are-arseholes-is-not-transport-policy/)
+* [2023-06-23, 22:52:28](https://news.ycombinator.com/item?id=36453305) - [Btreefs generates executable code at runtime to unpack btree nodes](https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727)
 * [2023-06-23, 22:41:15](https://news.ycombinator.com/item?id=36453181) - [5 Deaths at Sea Gripped the World. Hundreds of Others Got a Shrug](https://www.nytimes.com/2023/06/23/world/europe/titan-sub-greek-migrant-boat.html)
 * [2023-06-23, 22:09:40](https://news.ycombinator.com/item?id=36452832) - [Moderation in a Public Commons](https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals)
 * [2023-06-23, 21:59:03](https://news.ycombinator.com/item?id=36452696) - [AlmaLinux's response to Red Hat's policy change](https://lwn.net/Articles/935918/)
