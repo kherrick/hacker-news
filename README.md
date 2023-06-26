@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
 * [2023-06-26, 18:00:15](https://news.ycombinator.com/item?id=36483328) - [Extreme heat means 2/3 of North America could suffer blackouts this summer](https://www.cnn.com/2023/06/26/business/heat-wave-power-blackout/index.html)
 * [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [IMF: Largest driver of EU inflation is corporate profits](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
 * [2023-06-26, 17:33:58](https://news.ycombinator.com/item?id=36482961) - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
@@ -15,7 +16,6 @@
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:06:26](https://news.ycombinator.com/item?id=36480570) - [ChatHN: Chat with Hacker News using OpenAI function calling](https://github.com/steven-tey/chathn)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
-* [2023-06-26, 14:24:55](https://news.ycombinator.com/item?id=36480007) - [Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature](https://twitter.com/damusapp/status/1673326463297392640)
 * [2023-06-26, 14:21:42](https://news.ycombinator.com/item?id=36479976) - [Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
 * [2023-06-26, 14:12:27](https://news.ycombinator.com/item?id=36479882) - [I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
 * [2023-06-26, 14:02:57](https://news.ycombinator.com/item?id=36479776) - [Physicists discover a new switch for superconductivity](https://phys.org/news/2023-06-physicists-superconductivity.html)
