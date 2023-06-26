@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [Goodenough, Nobel laureate who gave the world Li-ion batteries, passes away](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
-* [2023-06-26, 03:50:34](https://news.ycombinator.com/item?id=36475563) - [AudioPaLM: A large language model that can speak and listen](https://arxiv.org/abs/2306.12925)
+* [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 03:44:14](https://news.ycombinator.com/item?id=36475523) - [America aims for nuclear-power renaissance](https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
@@ -18,6 +17,7 @@
 * [2023-06-25, 18:32:17](https://news.ycombinator.com/item?id=36471241) - [PED81C: A video system for AGA Amigas that provides pseudo-native chunky screens](https://retream.itch.io/ped81c)
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 * [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: A candid conversation (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
+* [2023-06-25, 17:36:52](https://news.ycombinator.com/item?id=36470739) - [Immutable Data (2015)](https://kevinmahoney.co.uk/articles/immutable-data/)
 * [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer (2020)](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
 * [2023-06-25, 16:40:36](https://news.ycombinator.com/item?id=36470058) - [Eight-mile frieze of Ice Age beasts found in Amazon rainforest (2020)](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)

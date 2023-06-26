@@ -34,6 +34,7 @@
 * [2023-06-25, 18:01:28](https://news.ycombinator.com/item?id=36470971) - [Texas airport worker dies after being sucked into Delta jet engine](https://www.theguardian.com/us-news/2023/jun/25/texas-airport-worker-dies-after-being-sucked-into-delta-jet-engine)
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Understanding Google Zanzibar and Why it Shines at Building Permissions](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 * [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: candid conversation with the jazz world's premier iconoclast (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
+* [2023-06-25, 17:36:52](https://news.ycombinator.com/item?id=36470739) - [Immutable Data (2015)](https://kevinmahoney.co.uk/articles/immutable-data/)
 * [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
 * [2023-06-25, 17:11:56](https://news.ycombinator.com/item?id=36470438) - [A Brief History of Insults](https://www.nytimes.com/2023/06/06/crosswords/insults.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
