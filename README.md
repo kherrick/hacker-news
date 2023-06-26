@@ -2,7 +2,6 @@
 
 * [2023-06-26, 06:56:25](https://news.ycombinator.com/item?id=36476565) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
-* [2023-06-26, 04:32:08](https://news.ycombinator.com/item?id=36475744) - [Ask HN: Why did Nim not catch-on like wild fire as Rust did?](https://news.ycombinator.com/item?id=36475744)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
 * [2023-06-26, 01:14:16](https://news.ycombinator.com/item?id=36474512) - [Scientists report world’s first X-ray of a single atom in Nature](https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature)
@@ -16,6 +15,7 @@
 * [2023-06-25, 19:11:50](https://news.ycombinator.com/item?id=36471591) - [FP2: Fully In-Place Functional Programming [pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf)
 * [2023-06-25, 19:07:20](https://news.ycombinator.com/item?id=36471541) - [Show HN: Fossfox – paid opportunities for open-source devs](https://fossfox.com)
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
+* [2023-06-25, 18:33:55](https://news.ycombinator.com/item?id=36471262) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 18:32:17](https://news.ycombinator.com/item?id=36471241) - [PED81C: A video system for AGA Amigas that provides pseudo-native chunky screens](https://retream.itch.io/ped81c)
 * [2023-06-25, 18:30:08](https://news.ycombinator.com/item?id=36471221) - [The dangers of tea drinking in nineteenth century Ireland](https://daily.jstor.org/the-dangers-of-tea-drinking/)
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
