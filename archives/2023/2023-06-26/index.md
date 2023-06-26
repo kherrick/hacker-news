@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 14:33:45](https://news.ycombinator.com/item?id=36480122) - [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
 * [2023-06-26, 14:12:27](https://news.ycombinator.com/item?id=36479882) - [I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
+* [2023-06-26, 14:09:16](https://news.ycombinator.com/item?id=36479840) - [What my violin taught me about awe, purpose and the power in taking a chance](https://www.washingtonpost.com/opinions/2023/06/26/maya-shankar-juilliard-commencement-address/)
+* [2023-06-26, 13:54:05](https://news.ycombinator.com/item?id=36479683) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips [pdf]](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
 * [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
 * [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 * [2023-06-26, 13:17:16](https://news.ycombinator.com/item?id=36479317) - [On Sociopaths and Progress](https://www.zdziarski.com/blog/?p=12298)
