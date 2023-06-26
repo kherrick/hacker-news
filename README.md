@@ -28,7 +28,7 @@
 * [2023-06-26, 09:15:09](https://news.ycombinator.com/item?id=36477481) - [Why Britain doesn’t build](https://worksinprogress.co/issue/why-britain-doesnt-build)
 * [2023-06-26, 04:58:09](https://news.ycombinator.com/item?id=36475887) - [The Last Day of Constantinople](https://blogs.bl.uk/digitisedmanuscripts/2023/05/the-last-day-of-constantinople.html)
 * [2023-06-25, 20:00:21](https://news.ycombinator.com/item?id=36471999) - [A brief, incomplete, and mostly wrong history of programming languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
-* [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like Diffusion but Faster: The Paella Model for Fast Image Generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
+* [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like diffusion but faster: The Paella model for fast image generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
 * [2023-06-24, 08:18:20](https://news.ycombinator.com/item?id=36456662) - [Bolwoningen: Living in Spherical Homes](https://parametric-architecture.com/bolwoningen-living-in-spherical-homes/)
 
 ## [Archives](archives/index.md)
