@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [IMF: Largest driver of EU inflation is corporate profits](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
 * [2023-06-26, 17:00:47](https://news.ycombinator.com/item?id=36482486) - [Two Dots (YC S22) Is Hiring a Senior Engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 * [2023-06-26, 16:40:02](https://news.ycombinator.com/item?id=36482126) - [Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)
 * [2023-06-26, 16:24:30](https://news.ycombinator.com/item?id=36481885) - [Louisiana porn ID: how Act 440 is wrecking perfectly normal adult sex lives](https://slate.com/human-interest/2023/06/louisiana-porn-id-age-verification-act-440.html)
@@ -13,6 +14,7 @@
 * [2023-06-26, 15:45:11](https://news.ycombinator.com/item?id=36481279) - [Suit Alleges Recreation.Gov Cluttered with Junk Fees, Seeks Millions in Refunds](https://www.nationalparkstraveler.org/2023/02/update-lawsuit-alleges-recreationgov-cluttered-junk-fees-seeks-refunds)
 * [2023-06-26, 15:43:54](https://news.ycombinator.com/item?id=36481263) - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
 * [2023-06-26, 15:41:24](https://news.ycombinator.com/item?id=36481219) - [Question the W3C's advice re RSS](http://scripting.com/2023/06/24/134722.html)
+* [2023-06-26, 15:39:29](https://news.ycombinator.com/item?id=36481186) - [Linen.dev – Adding Elixir to our Nextjs app](https://www.linen.dev/s/linen/t/8008310/building-a-chat-app-with-nextjs-and-elixir-table-of-content-)
 * [2023-06-26, 15:17:39](https://news.ycombinator.com/item?id=36480779) - [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:06:29](https://news.ycombinator.com/item?id=36480571) - [The World’s Empty Office Buildings Have Become a Debt Time Bomb](https://www.bloomberg.com/news/articles/2023-06-23/commercial-real-estate-reset-is-causing-distress-from-san-francisco-to-hong-kong)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [IMF: Largest driver of EU inflation is corporate profits](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
 * [2023-06-26, 17:00:47](https://news.ycombinator.com/item?id=36482486) - [Two Dots (YC S22) Is Hiring a Senior Engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 * [2023-06-26, 16:40:02](https://news.ycombinator.com/item?id=36482126) - [Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)
 * [2023-06-26, 16:12:22](https://news.ycombinator.com/item?id=36481693) - [Turmeric’s unexpected link to lead poisoning in Bangladesh](https://stanmed.stanford.edu/turmeric-lead-risk-detect/)
@@ -7,7 +8,7 @@
 * [2023-06-26, 15:53:15](https://news.ycombinator.com/item?id=36481404) - [Demystifying Burnout – A Deep Dive into Its Symptoms and Remedies](https://leadership.garden/demystifying-burnout/)
 * [2023-06-26, 15:45:11](https://news.ycombinator.com/item?id=36481279) - [Suit Alleges Recreation.Gov Cluttered with Junk Fees, Seeks Millions in Refunds](https://www.nationalparkstraveler.org/2023/02/update-lawsuit-alleges-recreationgov-cluttered-junk-fees-seeks-refunds)
 * [2023-06-26, 15:43:54](https://news.ycombinator.com/item?id=36481263) - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
-* [2023-06-26, 15:41:24](https://news.ycombinator.com/item?id=36481219) - [Question the W3C's advice re RSS](http://scripting.com/2023/06/24/134722.html)
+* [2023-06-26, 15:39:29](https://news.ycombinator.com/item?id=36481186) - [Linen.dev – Adding Elixir to our Nextjs app](https://www.linen.dev/s/linen/t/8008310/building-a-chat-app-with-nextjs-and-elixir-table-of-content-)
 * [2023-06-26, 15:17:39](https://news.ycombinator.com/item?id=36480779) - [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:06:26](https://news.ycombinator.com/item?id=36480570) - [ChatHN: Chat with Hacker News using OpenAI function calling](https://github.com/steven-tey/chathn)
@@ -27,7 +28,6 @@
 * [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive (2022)](https://bitsavers.org/)
 * [2023-06-26, 04:58:09](https://news.ycombinator.com/item?id=36475887) - [The Last Day of Constantinople](https://blogs.bl.uk/digitisedmanuscripts/2023/05/the-last-day-of-constantinople.html)
 * [2023-06-26, 03:21:44](https://news.ycombinator.com/item?id=36475376) - [A messaging app startup that raised $200M shuts down afters users were 95% fake](https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/)
-* [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
 * [2023-06-25, 20:00:21](https://news.ycombinator.com/item?id=36471999) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [2023-06-25, 06:19:43](https://news.ycombinator.com/item?id=36465528) - [The Paradoxes of Nostalgia](https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/)
 
