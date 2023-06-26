@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
 * [2023-06-26, 14:33:45](https://news.ycombinator.com/item?id=36480122) - [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
+* [2023-06-26, 14:24:55](https://news.ycombinator.com/item?id=36480007) - [Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature](https://twitter.com/damusapp/status/1673326463297392640)
+* [2023-06-26, 14:21:42](https://news.ycombinator.com/item?id=36479976) - [Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
+* [2023-06-26, 14:21:33](https://news.ycombinator.com/item?id=36479974) - [Oregon Finally Legalizes Pumping Your Own Gas After 72 Years](https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years)
 * [2023-06-26, 14:12:27](https://news.ycombinator.com/item?id=36479882) - [I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
 * [2023-06-26, 14:09:16](https://news.ycombinator.com/item?id=36479840) - [What my violin taught me about awe, purpose and the power in taking a chance](https://www.washingtonpost.com/opinions/2023/06/26/maya-shankar-juilliard-commencement-address/)
+* [2023-06-26, 13:57:58](https://news.ycombinator.com/item?id=36479716) - [Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
 * [2023-06-26, 13:54:05](https://news.ycombinator.com/item?id=36479683) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips [pdf]](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
 * [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
 * [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
