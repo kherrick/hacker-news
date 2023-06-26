@@ -3,6 +3,7 @@
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 10:31:03](https://news.ycombinator.com/item?id=36477936) - [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
 * [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive (2022)](https://bitsavers.org/)
+* [2023-06-26, 06:04:04](https://news.ycombinator.com/item?id=36476243) - [Using Nginx to block Meta, Twitter and ChatGPT access to your sites](https://gist.github.com/dangovorenefekt/b187b30e59ed1b827515cdbc833bc1bf)
 * [2023-06-26, 05:14:12](https://news.ycombinator.com/item?id=36475974) - [How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 04:52:27](https://news.ycombinator.com/item?id=36475852) - [The Structure and Interpretation of Computer Programs (Python, Scheme) Berkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
@@ -29,7 +30,6 @@
 * [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
 * [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science (2019)](https://plato.stanford.edu/entries/einstein-philscience/)
 * [2023-06-24, 23:29:10](https://news.ycombinator.com/item?id=36463662) - [Born in Babylon: The spread of Rastafari](https://www.historytoday.com/archive/feature/born-babylon)
-* [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP addresses are equal? “Dot-zero” addresses are less equal (2013)](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
 
 ## [Archives](archives/index.md)
 
