@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 22:02:26](https://news.ycombinator.com/item?id=36486490) - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
 * [2023-06-26, 21:15:28](https://news.ycombinator.com/item?id=36485962) - [Amendment introduced to limit remote working in Ohio](https://www.wdtn.com/news/ohio/amendment-introduced-to-limit-remote-working-in-ohio/)
 * [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 * [2023-06-26, 19:54:11](https://news.ycombinator.com/item?id=36484932) - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
@@ -7,7 +8,6 @@
 * [2023-06-26, 19:23:20](https://news.ycombinator.com/item?id=36484502) - [Hunter-gatherer lifestyle fosters thriving gut microbiome](https://www.nature.com/articles/d41586-023-02065-y)
 * [2023-06-26, 19:05:41](https://news.ycombinator.com/item?id=36484308) - [Kor: a half-baked prototype that \"helps\" you extract structured data using LLMs](https://github.com/eyurtsev/kor)
 * [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
-* [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [Corporate profits account for almost half the increase in Europe’s inflation](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
 * [2023-06-26, 17:00:47](https://news.ycombinator.com/item?id=36482486) - [Two Dots (YC S22) is hiring a senior engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 * [2023-06-26, 16:12:22](https://news.ycombinator.com/item?id=36481693) - [Turmeric’s unexpected link to lead poisoning in Bangladesh](https://stanmed.stanford.edu/turmeric-lead-risk-detect/)
 * [2023-06-26, 16:07:39](https://news.ycombinator.com/item?id=36481627) - [Ancient Maya city was hidden in the jungle for more than 1k years](https://www.smithsonianmag.com/smart-news/this-ancient-maya-city-was-hidden-in-the-jungle-for-over-1000-years-180982427/)
