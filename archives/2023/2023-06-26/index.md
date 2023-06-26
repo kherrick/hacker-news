@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 14:12:27](https://news.ycombinator.com/item?id=36479882) - [I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
+* [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
 * [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 * [2023-06-26, 13:17:16](https://news.ycombinator.com/item?id=36479317) - [On Sociopaths and Progress](https://www.zdziarski.com/blog/?p=12298)
 * [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)
 * [2023-06-26, 12:18:04](https://news.ycombinator.com/item?id=36478734) - [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
 * [2023-06-26, 11:54:08](https://news.ycombinator.com/item?id=36478528) - [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
+* [2023-06-26, 11:47:46](https://news.ycombinator.com/item?id=36478487) - [Ayb: A multi-tenant database that helps you own your data](https://blog.marcua.net/2023/06/25/ayb-a-multi-tenant-database-that-helps-you-own-your-data.html)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 11:08:42](https://news.ycombinator.com/item?id=36478179) - [The tech flaw that lets hackers control surveillance cameras](https://www.bbc.co.uk/news/technology-65975446)
 * [2023-06-26, 10:31:03](https://news.ycombinator.com/item?id=36477936) - [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
