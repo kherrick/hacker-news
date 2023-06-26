@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
 * [2023-06-26, 02:14:41](https://news.ycombinator.com/item?id=36474938) - [Tokens, the secret language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
 * [2023-06-26, 01:58:44](https://news.ycombinator.com/item?id=36474832) - [Estimated U.S. deer population, 1450 to 2016](https://www.researchgate.net/figure/Estimated-US-Deer-Population-1450-to-2016-Year-2000-to-2016-estimated-from-combined_fig3_344865578)
@@ -16,7 +17,6 @@
 * [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
 * [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: A candid conversation (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
 * [2023-06-25, 17:29:51](https://news.ycombinator.com/item?id=36470660) - [Breadbee: Build your own (tiny) single board computer (2020)](http://wtarreau.blogspot.com/2020/09/breadbee-build-your-own-single-board.html)
-* [2023-06-25, 17:11:56](https://news.ycombinator.com/item?id=36470438) - [A brief history of insults](https://www.nytimes.com/2023/06/06/crosswords/insults.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
 * [2023-06-25, 16:40:36](https://news.ycombinator.com/item?id=36470058) - [Eight-mile frieze of Ice Age beasts found in Amazon rainforest (2020)](https://www.cnn.com/style/article/amazon-rainforest-ice-age-paintings-scli-intl/index.html)
 * [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
