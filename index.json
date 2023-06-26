@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 19:54:11",
+      "https://news.ycombinator.com/item?id=36484932"
+    ],
+    [
+      "Exposing Floating Point (2019)",
+      "https://ciechanow.ski/exposing-floating-point/"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 19:23:20",
       "https://news.ycombinator.com/item?id=36484502"
     ],
@@ -47,16 +57,6 @@
     [
       "Corporate profits account for almost half the increase in Europe’s inflation",
       "https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 17:53:30",
-      "https://news.ycombinator.com/item?id=36483251"
-    ],
-    [
-      "Engineering assessment of the OceanGate Titan failure",
-      "https://www.captainsjournal.com/2023/06/25/engineering-assessment-of-the-oceangate-titan-failure/"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Arduino Uno R4 WiFi",
       "https://store.arduino.cc/products/uno-r4-wifi"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 15:17:39",
-      "https://news.ycombinator.com/item?id=36480779"
-    ],
-    [
-      "Show HN: Clang-uml – C++ to UML diagram generator based on Clang",
-      "https://github.com/bkryza/clang-uml"
     ]
   ],
   [
@@ -215,7 +205,7 @@
       "https://news.ycombinator.com/item?id=36479387"
     ],
     [
-      "Every factorial is a power",
+      "Every factorial approximates a power",
       "https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Like diffusion but faster: The Paella model for fast image generation",
       "https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 06:10:35",
+      "https://news.ycombinator.com/item?id=36465493"
+    ],
+    [
+      "Argos Catalogue Kettle Pages, 1976/1985 (2017)",
+      "https://wearethemutants.com/2017/08/01/argos-catalogue-kettle-pages-19761985/"
     ]
   ],
   [
