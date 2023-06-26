@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-26, 06:56:25",
-      "https://news.ycombinator.com/item?id=36476565"
-    ],
-    [
-      "A love letter to Objective-C",
-      "https://thoughtbot.com/blog/a-love-letter-to-objective-c"
-    ]
-  ],
-  [
-    [
       "2023-06-26, 05:10:23",
       "https://news.ycombinator.com/item?id=36475949"
     ],
@@ -267,6 +257,16 @@
     [
       "Everything that uses configuration files should report where they're located",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 06:30:23",
+      "https://news.ycombinator.com/item?id=36465572"
+    ],
+    [
+      "Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]",
+      "https://www.youtube.com/watch?v=NX7GHqq28uU"
     ]
   ],
   [
