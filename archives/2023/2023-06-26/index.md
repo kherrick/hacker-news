@@ -8,6 +8,7 @@
 * [2023-06-26, 09:15:09](https://news.ycombinator.com/item?id=36477481) - [Why Britain Doesn’t Build](https://worksinprogress.co/issue/why-britain-doesnt-build)
 * [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive](https://bitsavers.org/)
 * [2023-06-26, 06:56:25](https://news.ycombinator.com/item?id=36476565) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
+* [2023-06-26, 05:19:36](https://news.ycombinator.com/item?id=36475997) - [Irish Gov Makes Critizising Big Tech and Irish DPC a Crime](https://noyb.eu/en/irish-gov-makes-critizising-big-tech-and-irish-dpc-crime)
 * [2023-06-26, 05:14:12](https://news.ycombinator.com/item?id=36475974) - [Julia Evans: How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [Goodenough, Nobel laureate who gave the world Li-ion batteries, passes away](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 04:52:27](https://news.ycombinator.com/item?id=36475852) - [The Structure and Interpretation of Computer Programs (Python, Scheme) Berkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
