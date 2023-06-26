@@ -2,7 +2,7 @@
 
 * [2023-06-26, 14:12:27](https://news.ycombinator.com/item?id=36479882) - [I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
 * [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
-* [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
+* [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every factorial is a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 * [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text Rendering Hates You (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2023-06-26, 12:18:04](https://news.ycombinator.com/item?id=36478734) - [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
 * [2023-06-26, 11:54:08](https://news.ycombinator.com/item?id=36478528) - [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
@@ -20,6 +20,7 @@
 * [2023-06-26, 01:14:16](https://news.ycombinator.com/item?id=36474512) - [Scientists report world’s first X-ray of a single atom in Nature](https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-25, 20:41:44](https://news.ycombinator.com/item?id=36472378) - [Generate invoices from the command line](https://github.com/maaslalani/invoice)
+* [2023-06-25, 18:32:17](https://news.ycombinator.com/item?id=36471241) - [PED81C: A video system for AGA Amigas that provides pseudo-native chunky screens](https://retream.itch.io/ped81c)
 * [2023-06-25, 17:36:52](https://news.ycombinator.com/item?id=36470739) - [Immutable Data (2015)](https://kevinmahoney.co.uk/articles/immutable-data/)
 * [2023-06-25, 17:11:56](https://news.ycombinator.com/item?id=36470438) - [A brief history of insults](https://www.nytimes.com/2023/06/06/crosswords/insults.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
@@ -29,7 +30,6 @@
 * [2023-06-25, 09:05:09](https://news.ycombinator.com/item?id=36466248) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
-* [2023-06-24, 23:29:10](https://news.ycombinator.com/item?id=36463662) - [Born in Babylon: The spread of Rastafari](https://www.historytoday.com/archive/feature/born-babylon)
 
 ## [Archives](archives/index.md)
 
