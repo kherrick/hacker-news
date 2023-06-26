@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 11:08:42](https://news.ycombinator.com/item?id=36478179) - [The tech flaw that lets hackers control surveillance cameras](https://www.bbc.co.uk/news/technology-65975446)
 * [2023-06-26, 10:31:03](https://news.ycombinator.com/item?id=36477936) - [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
 * [2023-06-26, 09:15:09](https://news.ycombinator.com/item?id=36477481) - [Why Britain Doesn’t Build](https://worksinprogress.co/issue/why-britain-doesnt-build)
