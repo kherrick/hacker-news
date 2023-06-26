@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 15:06:26",
+      "https://news.ycombinator.com/item?id=36480570"
+    ],
+    [
+      "ChatHN: Chat with Hacker News Using OpenAI Function Calling",
+      "https://github.com/steven-tey/chathn"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 14:41:47",
       "https://news.ycombinator.com/item?id=36480230"
     ],
@@ -67,6 +77,26 @@
     [
       "What my violin taught me about awe, purpose and the power in taking a chance",
       "https://www.washingtonpost.com/opinions/2023/06/26/maya-shankar-juilliard-commencement-address/"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 14:06:39",
+      "https://news.ycombinator.com/item?id=36479809"
+    ],
+    [
+      "Ex-FBI employee jailed for mishandling classified material",
+      "https://www.theregister.com/2023/06/26/infosec_in_brief/"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 14:02:57",
+      "https://news.ycombinator.com/item?id=36479776"
+    ],
+    [
+      "Physicists discover a new switch for superconductivity",
+      "https://phys.org/news/2023-06-physicists-superconductivity.html"
     ]
   ],
   [
@@ -165,7 +195,7 @@
       "https://news.ycombinator.com/item?id=36477936"
     ],
     [
-      "JP Morgan fined by the SEC for deleting email records",
+      "JP Morgan fined by SEC for deleting email records",
       "https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/"
     ]
   ],
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2023-06-26, 02:45:34",
-      "https://news.ycombinator.com/item?id=36475144"
+      "2023-06-26, 03:21:44",
+      "https://news.ycombinator.com/item?id=36475376"
     ],
     [
-      "NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects",
-      "https://github.com/makerdiary/nrf52840-connectkit"
+      "A messaging app startup that raised $200M shuts down afters users were 95% fake",
+      "https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/"
     ]
   ],
   [
@@ -241,16 +271,6 @@
   ],
   [
     [
-      "2023-06-26, 01:14:16",
-      "https://news.ycombinator.com/item?id=36474512"
-    ],
-    [
-      "Scientists report world’s first X-ray of a single atom in Nature",
-      "https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 20:41:44",
       "https://news.ycombinator.com/item?id=36472378"
     ],
@@ -261,42 +281,22 @@
   ],
   [
     [
-      "2023-06-25, 17:36:52",
-      "https://news.ycombinator.com/item?id=36470739"
-    ],
-    [
-      "Immutable Data (2015)",
-      "https://kevinmahoney.co.uk/articles/immutable-data/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 17:11:56",
-      "https://news.ycombinator.com/item?id=36470438"
-    ],
-    [
-      "A brief history of insults",
-      "https://www.nytimes.com/2023/06/06/crosswords/insults.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 13:57:34",
-      "https://news.ycombinator.com/item?id=36468238"
-    ],
-    [
-      "Le Paper Globe (2012)",
-      "https://professeurjoachim.com/globe/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 07:50:11",
       "https://news.ycombinator.com/item?id=36465886"
     ],
     [
       "Everything that uses configuration files should report where they're located",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 06:19:43",
+      "https://news.ycombinator.com/item?id=36465528"
+    ],
+    [
+      "The Paradoxes of Nostalgia",
+      "https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/"
     ]
   ]
 ]
