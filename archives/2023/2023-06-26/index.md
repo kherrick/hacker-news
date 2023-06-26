@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 18:00:15](https://news.ycombinator.com/item?id=36483328) - [Extreme heat means 2/3 of North America could suffer blackouts this summer](https://www.cnn.com/2023/06/26/business/heat-wave-power-blackout/index.html)
 * [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [IMF: Largest driver of EU inflation is corporate profits](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
+* [2023-06-26, 17:33:58](https://news.ycombinator.com/item?id=36482961) - [EmacsConf 2023 Call for Participation](https://emacsconf.org/2023/cfp/)
 * [2023-06-26, 17:00:47](https://news.ycombinator.com/item?id=36482486) - [Two Dots (YC S22) Is Hiring a Senior Engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 * [2023-06-26, 16:40:02](https://news.ycombinator.com/item?id=36482126) - [Recurrent Vision Transformers for Object Detection with Event Cameras](https://arxiv.org/abs/2212.05598)
 * [2023-06-26, 16:24:30](https://news.ycombinator.com/item?id=36481885) - [Louisiana porn ID: how Act 440 is wrecking perfectly normal adult sex lives](https://slate.com/human-interest/2023/06/louisiana-porn-id-age-verification-act-440.html)
