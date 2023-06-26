@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-06-26, 14:21:33",
-      "https://news.ycombinator.com/item?id=36479974"
-    ],
-    [
-      "Oregon Finally Legalizes Pumping Your Own Gas After 72 Years",
-      "https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years"
-    ]
-  ],
-  [
-    [
       "2023-06-26, 14:12:27",
       "https://news.ycombinator.com/item?id=36479882"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2023-06-26, 04:52:27",
-      "https://news.ycombinator.com/item?id=36475852"
-    ],
-    [
-      "CS61A: The Structure and Interpretation of Computer Programs",
-      "https://inst.eecs.berkeley.edu/~cs61a/archives.html"
-    ]
-  ],
-  [
-    [
       "2023-06-26, 03:21:44",
       "https://news.ycombinator.com/item?id=36475376"
     ],
@@ -287,6 +267,26 @@
     [
       "Mycelite: SQLite extension to synchronize changes across SQLite instances",
       "https://github.com/mycelial/mycelite"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 20:00:21",
+      "https://news.ycombinator.com/item?id=36471999"
+    ],
+    [
+      "A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",
+      "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 07:50:11",
+      "https://news.ycombinator.com/item?id=36465886"
+    ],
+    [
+      "Everything that uses configuration files should report where they're located",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations"
     ]
   ],
   [
