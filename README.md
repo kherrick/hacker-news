@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-26, 03:50:34](https://news.ycombinator.com/item?id=36475563) - [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
+* [2023-06-26, 03:44:14](https://news.ycombinator.com/item?id=36475523) - [America aims for nuclear-power Renaissance](https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
-* [2023-06-26, 01:58:44](https://news.ycombinator.com/item?id=36474832) - [Estimated U.S. deer population, 1450 to 2016](https://www.researchgate.net/figure/Estimated-US-Deer-Population-1450-to-2016-Year-2000-to-2016-estimated-from-combined_fig3_344865578)
 * [2023-06-25, 23:19:31](https://news.ycombinator.com/item?id=36473676) - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
