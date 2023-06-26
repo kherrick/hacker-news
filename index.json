@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 15:43:54",
+      "https://news.ycombinator.com/item?id=36481263"
+    ],
+    [
+      "Arduino Uno R4 WiFi",
+      "https://store.arduino.cc/products/uno-r4-wifi"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 15:41:24",
       "https://news.ycombinator.com/item?id=36481219"
     ],
@@ -47,16 +57,6 @@
     [
       "ChatHN: Chat with Hacker News Using OpenAI Function Calling",
       "https://github.com/steven-tey/chathn"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 14:57:17",
-      "https://news.ycombinator.com/item?id=36480424"
-    ],
-    [
-      "An Open Letter to Vitalik Buterin about MIRI/LessWrong",
-      "https://fredwynne.medium.com/an-open-letter-to-vitalik-buterin-ce4681a7dbe"
     ]
   ],
   [
@@ -151,32 +151,12 @@
   ],
   [
     [
-      "2023-06-26, 13:57:58",
-      "https://news.ycombinator.com/item?id=36479716"
-    ],
-    [
-      "Lasers enable satellite internet backbone, might remove need for deep-sea cables",
-      "https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html"
-    ]
-  ],
-  [
-    [
       "2023-06-26, 13:54:05",
       "https://news.ycombinator.com/item?id=36479683"
     ],
     [
       "RowPress: Amplifying Read Disturbance in Modern DRAM Chips [pdf]",
       "https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 13:30:23",
-      "https://news.ycombinator.com/item?id=36479440"
-    ],
-    [
-      "Android’s emergency call shortcut is flooding dispatchers with false calls",
-      "https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/"
     ]
   ],
   [
@@ -271,12 +251,32 @@
   ],
   [
     [
+      "2023-06-26, 05:10:23",
+      "https://news.ycombinator.com/item?id=36475949"
+    ],
+    [
+      "John Goodenough has died",
+      "https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 04:52:27",
       "https://news.ycombinator.com/item?id=36475852"
     ],
     [
       "CS61A: The Structure and Interpretation of Computer Programs",
       "https://inst.eecs.berkeley.edu/~cs61a/archives.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 03:21:44",
+      "https://news.ycombinator.com/item?id=36475376"
+    ],
+    [
+      "A messaging app startup that raised $200M shuts down afters users were 95% fake",
+      "https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/"
     ]
   ],
   [
