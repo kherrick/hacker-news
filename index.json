@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36484385"
     ],
     [
-      "Red Hat’s commitment to open source: A response to the git.centos.org changes",
+      "A response to the git.centos.org changes",
       "https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Kor: Extract structured data using LLMs",
       "https://github.com/eyurtsev/kor"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 18:39:33",
+      "https://news.ycombinator.com/item?id=36483879"
+    ],
+    [
+      "Magit",
+      "https://magit.vc"
     ]
   ],
   [
@@ -37,26 +47,6 @@
     [
       "Corporate profits account for almost half the increase in Europe’s inflation",
       "https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 17:53:30",
-      "https://news.ycombinator.com/item?id=36483251"
-    ],
-    [
-      "Engineering Assessment of the OceanGate Titan Failure",
-      "https://www.captainsjournal.com/2023/06/25/engineering-assessment-of-the-oceangate-titan-failure/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 17:33:58",
-      "https://news.ycombinator.com/item?id=36482961"
-    ],
-    [
-      "EmacsConf 2023 Call for Participation",
-      "https://emacsconf.org/2023/cfp/"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "Why use OpenID Connect instead of plain OAuth2?",
       "https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2/260519#260519"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 15:45:11",
-      "https://news.ycombinator.com/item?id=36481279"
-    ],
-    [
-      "Suit alleges recreation.gov cluttered with junk fees, seeks millions in refunds",
-      "https://www.nationalparkstraveler.org/2023/02/update-lawsuit-alleges-recreationgov-cluttered-junk-fees-seeks-refunds"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2023-06-26, 13:30:23",
+      "https://news.ycombinator.com/item?id=36479440"
+    ],
+    [
+      "Android’s emergency call shortcut is flooding dispatchers with false calls",
+      "https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 13:24:53",
       "https://news.ycombinator.com/item?id=36479387"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2023-06-26, 09:15:09",
+      "https://news.ycombinator.com/item?id=36477481"
+    ],
+    [
+      "Why Britain doesn’t build",
+      "https://worksinprogress.co/issue/why-britain-doesnt-build"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 04:58:09",
       "https://news.ycombinator.com/item?id=36475887"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36471999"
     ],
     [
-      "A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",
+      "A brief, incomplete, and mostly wrong history of programming languages (2009)",
       "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html"
     ]
   ],
