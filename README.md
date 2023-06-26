@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 10:31:03](https://news.ycombinator.com/item?id=36477936) - [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
 * [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive](https://bitsavers.org/)
 * [2023-06-26, 05:14:12](https://news.ycombinator.com/item?id=36475974) - [Julia Evans: How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
@@ -7,7 +8,6 @@
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
 * [2023-06-26, 01:14:16](https://news.ycombinator.com/item?id=36474512) - [Scientists report world’s first X-ray of a single atom in Nature](https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature)
-* [2023-06-25, 23:19:31](https://news.ycombinator.com/item?id=36473676) - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-25, 20:59:31](https://news.ycombinator.com/item?id=36472534) - [ThinMachine – A $25 thin client macOS Time Machine appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
