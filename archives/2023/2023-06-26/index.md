@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 22:50:56](https://news.ycombinator.com/item?id=36486918) - [Learn Stimulus in Ruby on Rails by Building a Toggle)](https://railsnotes.xyz/blog/your-first-stimulus-controller-learn-stimulus-ruby-on-rails-by-building-a-toggle-beginners-guide)
 * [2023-06-26, 22:02:26](https://news.ycombinator.com/item?id=36486490) - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
 * [2023-06-26, 21:15:28](https://news.ycombinator.com/item?id=36485962) - [Amendment introduced to limit remote working in Ohio](https://www.wdtn.com/news/ohio/amendment-introduced-to-limit-remote-working-in-ohio/)
 * [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
