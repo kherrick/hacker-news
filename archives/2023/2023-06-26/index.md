@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 15:06:29](https://news.ycombinator.com/item?id=36480571) - [The World’s Empty Office Buildings Have Become a Debt Time Bomb](https://www.bloomberg.com/news/articles/2023-06-23/commercial-real-estate-reset-is-causing-distress-from-san-francisco-to-hong-kong)
 * [2023-06-26, 15:06:26](https://news.ycombinator.com/item?id=36480570) - [ChatHN: Chat with Hacker News Using OpenAI Function Calling](https://github.com/steven-tey/chathn)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
 * [2023-06-26, 14:33:45](https://news.ycombinator.com/item?id=36480122) - [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)

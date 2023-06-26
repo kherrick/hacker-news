@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 15:06:29](https://news.ycombinator.com/item?id=36480571) - [The World’s Empty Office Buildings Have Become a Debt Time Bomb](https://www.bloomberg.com/news/articles/2023-06-23/commercial-real-estate-reset-is-causing-distress-from-san-francisco-to-hong-kong)
 * [2023-06-26, 15:06:26](https://news.ycombinator.com/item?id=36480570) - [ChatHN: Chat with Hacker News Using OpenAI Function Calling](https://github.com/steven-tey/chathn)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
 * [2023-06-26, 14:33:45](https://news.ycombinator.com/item?id=36480122) - [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
@@ -27,7 +28,6 @@
 * [2023-06-26, 04:52:27](https://news.ycombinator.com/item?id=36475852) - [CS61A: The Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
 * [2023-06-26, 03:21:44](https://news.ycombinator.com/item?id=36475376) - [A messaging app startup that raised $200M shuts down afters users were 95% fake](https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
-* [2023-06-25, 20:41:44](https://news.ycombinator.com/item?id=36472378) - [Generate invoices from the command line](https://github.com/maaslalani/invoice)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:19:43](https://news.ycombinator.com/item?id=36465528) - [The Paradoxes of Nostalgia](https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/)
 
