@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [Goodenough, Nobel laureate who gave the world Li-ion batteries, passes away](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 03:50:34](https://news.ycombinator.com/item?id=36475563) - [AudioPaLM: A large language model that can speak and listen](https://arxiv.org/abs/2306.12925)
 * [2023-06-26, 03:44:14](https://news.ycombinator.com/item?id=36475523) - [America aims for nuclear-power renaissance](https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
@@ -22,7 +23,6 @@
 * [2023-06-25, 16:27:06](https://news.ycombinator.com/item?id=36469910) - [What are embeddings?](https://vickiboykis.com/what_are_embeddings/)
 * [2023-06-25, 16:23:52](https://news.ycombinator.com/item?id=36469875) - [DragGAN source code release: Interactive Point-Based Manipulation of Images](https://github.com/XingangPan/DragGAN)
 * [2023-06-25, 15:34:42](https://news.ycombinator.com/item?id=36469297) - [Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones](https://github.com/TeamHypersomnia/Hypersomnia)
-* [2023-06-25, 12:58:52](https://news.ycombinator.com/item?id=36467760) - [Tapping Morse code on a wall](https://mra-raycom.com/tapping-morse-code-on-a-wall/)
 * [2023-06-25, 09:05:09](https://news.ycombinator.com/item?id=36466248) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
