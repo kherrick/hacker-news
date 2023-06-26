@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
+* [2023-06-26, 13:17:16](https://news.ycombinator.com/item?id=36479317) - [On Sociopaths and Progress](https://www.zdziarski.com/blog/?p=12298)
 * [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text Rendering Hates You (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2023-06-26, 12:18:04](https://news.ycombinator.com/item?id=36478734) - [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
 * [2023-06-26, 11:54:08](https://news.ycombinator.com/item?id=36478528) - [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
@@ -17,9 +19,7 @@
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-25, 20:41:44](https://news.ycombinator.com/item?id=36472378) - [Generate invoices from the command line](https://github.com/maaslalani/invoice)
-* [2023-06-25, 20:05:35](https://news.ycombinator.com/item?id=36472055) - [Recovering Steely Dan’s second arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
 * [2023-06-25, 18:33:55](https://news.ycombinator.com/item?id=36471262) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
-* [2023-06-25, 18:32:17](https://news.ycombinator.com/item?id=36471241) - [PED81C: A video system for AGA Amigas that provides pseudo-native chunky screens](https://retream.itch.io/ped81c)
 * [2023-06-25, 17:36:52](https://news.ycombinator.com/item?id=36470739) - [Immutable Data (2015)](https://kevinmahoney.co.uk/articles/immutable-data/)
 * [2023-06-25, 17:11:56](https://news.ycombinator.com/item?id=36470438) - [A brief history of insults](https://www.nytimes.com/2023/06/06/crosswords/insults.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)
