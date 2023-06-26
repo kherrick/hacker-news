@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 16:24:30](https://news.ycombinator.com/item?id=36481885) - [Louisiana porn ID: how Act 440 is wrecking perfectly normal adult sex lives](https://slate.com/human-interest/2023/06/louisiana-porn-id-age-verification-act-440.html)
 * [2023-06-26, 15:43:54](https://news.ycombinator.com/item?id=36481263) - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
 * [2023-06-26, 15:41:24](https://news.ycombinator.com/item?id=36481219) - [Question the W3C's advice re RSS](http://scripting.com/2023/06/24/134722.html)
 * [2023-06-26, 15:17:39](https://news.ycombinator.com/item?id=36480779) - [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
@@ -28,7 +29,6 @@
 * [2023-06-26, 03:21:44](https://news.ycombinator.com/item?id=36475376) - [A messaging app startup that raised $200M shuts down afters users were 95% fake](https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
 * [2023-06-25, 20:00:21](https://news.ycombinator.com/item?id=36471999) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
-* [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
 * [2023-06-25, 06:19:43](https://news.ycombinator.com/item?id=36465528) - [The Paradoxes of Nostalgia](https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/)
 
 ## [Archives](archives/index.md)

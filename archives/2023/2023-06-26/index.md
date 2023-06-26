@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 16:24:30](https://news.ycombinator.com/item?id=36481885) - [Louisiana porn ID: how Act 440 is wrecking perfectly normal adult sex lives](https://slate.com/human-interest/2023/06/louisiana-porn-id-age-verification-act-440.html)
 * [2023-06-26, 15:43:54](https://news.ycombinator.com/item?id=36481263) - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
 * [2023-06-26, 15:41:24](https://news.ycombinator.com/item?id=36481219) - [Question the W3C's advice re RSS](http://scripting.com/2023/06/24/134722.html)
 * [2023-06-26, 15:17:39](https://news.ycombinator.com/item?id=36480779) - [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
