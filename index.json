@@ -1,12 +1,52 @@
 [
   [
     [
+      "2023-06-26, 14:41:47",
+      "https://news.ycombinator.com/item?id=36480230"
+    ],
+    [
+      "Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP",
+      "https://news.ycombinator.com/item?id=36480230"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 14:33:45",
       "https://news.ycombinator.com/item?id=36480122"
     ],
     [
       "U.S. pedestrian deaths reach a 40-year high",
       "https://text.npr.org/1184034017"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 14:24:55",
+      "https://news.ycombinator.com/item?id=36480007"
+    ],
+    [
+      "Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature",
+      "https://twitter.com/damusapp/status/1673326463297392640"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 14:21:42",
+      "https://news.ycombinator.com/item?id=36479976"
+    ],
+    [
+      "Authlib: Python Authentication",
+      "https://docs.authlib.org/en/latest/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 14:21:33",
+      "https://news.ycombinator.com/item?id=36479974"
+    ],
+    [
+      "Oregon Finally Legalizes Pumping Your Own Gas After 72 Years",
+      "https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years"
     ]
   ],
   [
@@ -27,6 +67,16 @@
     [
       "What my violin taught me about awe, purpose and the power in taking a chance",
       "https://www.washingtonpost.com/opinions/2023/06/26/maya-shankar-juilliard-commencement-address/"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 13:57:58",
+      "https://news.ycombinator.com/item?id=36479716"
+    ],
+    [
+      "Lasers enable satellite internet backbone, might remove need for deep-sea cables",
+      "https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html"
     ]
   ],
   [
@@ -115,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36477936"
     ],
     [
-      "JP Morgan accidentally deletes evidence in record retention screwup",
+      "JP Morgan fined by the SEC for deleting email records",
       "https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/"
     ]
   ],
@@ -137,16 +187,6 @@
     [
       "Show HN: I built a website to buy and sell used clothes in Indonesia",
       "https://preloved.co.id/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 06:04:04",
-      "https://news.ycombinator.com/item?id=36476243"
-    ],
-    [
-      "Using Nginx to block Meta, Twitter and ChatGPT access to your sites",
-      "https://gist.github.com/dangovorenefekt/b187b30e59ed1b827515cdbc833bc1bf"
     ]
   ],
   [
@@ -175,7 +215,7 @@
       "https://news.ycombinator.com/item?id=36475852"
     ],
     [
-      "The Structure and Interpretation of Computer Programs (Python, Scheme) Berkeley",
+      "CS61A: The Structure and Interpretation of Computer Programs",
       "https://inst.eecs.berkeley.edu/~cs61a/archives.html"
     ]
   ],
@@ -211,16 +251,6 @@
   ],
   [
     [
-      "2023-06-25, 21:38:36",
-      "https://news.ycombinator.com/item?id=36472854"
-    ],
-    [
-      "Show HN: WinGPT – AI assistant for Windows 3.1",
-      "https://www.dialup.net/wingpt/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 20:41:44",
       "https://news.ycombinator.com/item?id=36472378"
     ],
@@ -251,42 +281,12 @@
   ],
   [
     [
-      "2023-06-25, 17:00:36",
-      "https://news.ycombinator.com/item?id=36470297"
-    ],
-    [
-      "Show HN: Open-source resume builder and parser",
-      "https://www.open-resume.com/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 15:34:42",
-      "https://news.ycombinator.com/item?id=36469297"
-    ],
-    [
-      "Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones",
-      "https://github.com/TeamHypersomnia/Hypersomnia"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 13:57:34",
       "https://news.ycombinator.com/item?id=36468238"
     ],
     [
       "Le Paper Globe (2012)",
       "https://professeurjoachim.com/globe/"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 09:05:09",
-      "https://news.ycombinator.com/item?id=36466248"
-    ],
-    [
-      "XML is the future",
-      "https://www.bitecode.dev/p/hype-cycles"
     ]
   ],
   [
