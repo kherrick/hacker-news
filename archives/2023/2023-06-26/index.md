@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 19:54:11](https://news.ycombinator.com/item?id=36484932) - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
 * [2023-06-26, 19:23:20](https://news.ycombinator.com/item?id=36484502) - [Modern Hunter-Gatherers Have Thriving Gut Microbiome, Compared with Californians](https://www.nature.com/articles/d41586-023-02065-y)
 * [2023-06-26, 19:12:18](https://news.ycombinator.com/item?id=36484385) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
 * [2023-06-26, 19:05:41](https://news.ycombinator.com/item?id=36484308) - [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
