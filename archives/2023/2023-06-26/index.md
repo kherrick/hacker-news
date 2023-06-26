@@ -6,6 +6,7 @@
 
 * [2023-06-26, 17:00:47](https://news.ycombinator.com/item?id=36482486) - [Two Dots (YC S22) Is Hiring a Senior Engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 * [2023-06-26, 16:24:30](https://news.ycombinator.com/item?id=36481885) - [Louisiana porn ID: how Act 440 is wrecking perfectly normal adult sex lives](https://slate.com/human-interest/2023/06/louisiana-porn-id-age-verification-act-440.html)
+* [2023-06-26, 16:12:22](https://news.ycombinator.com/item?id=36481693) - [Turmeric’s unexpected link to lead poisoning in Bangladesh](https://stanmed.stanford.edu/turmeric-lead-risk-detect/)
 * [2023-06-26, 15:45:11](https://news.ycombinator.com/item?id=36481279) - [Suit Alleges Recreation.Gov Cluttered with Junk Fees, Seeks Millions in Refunds](https://www.nationalparkstraveler.org/2023/02/update-lawsuit-alleges-recreationgov-cluttered-junk-fees-seeks-refunds)
 * [2023-06-26, 15:43:54](https://news.ycombinator.com/item?id=36481263) - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
 * [2023-06-26, 15:41:24](https://news.ycombinator.com/item?id=36481219) - [Question the W3C's advice re RSS](http://scripting.com/2023/06/24/134722.html)
@@ -43,6 +44,7 @@
 * [2023-06-26, 05:19:36](https://news.ycombinator.com/item?id=36475997) - [Irish Gov Makes Critizising Big Tech and Irish DPC a Crime](https://noyb.eu/en/irish-gov-makes-critizising-big-tech-and-irish-dpc-crime)
 * [2023-06-26, 05:14:12](https://news.ycombinator.com/item?id=36475974) - [Julia Evans: How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [Goodenough, Nobel laureate who gave the world Li-ion batteries, passes away](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
+* [2023-06-26, 04:58:09](https://news.ycombinator.com/item?id=36475887) - [The Last Day of Constantinople](https://blogs.bl.uk/digitisedmanuscripts/2023/05/the-last-day-of-constantinople.html)
 * [2023-06-26, 04:52:27](https://news.ycombinator.com/item?id=36475852) - [The Structure and Interpretation of Computer Programs (Python, Scheme) Berkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
 * [2023-06-26, 04:32:08](https://news.ycombinator.com/item?id=36475744) - [Ask HN: Why did Nim not catch-on like wild fire as Rust did?](https://news.ycombinator.com/item?id=36475744)
 * [2023-06-26, 03:50:34](https://news.ycombinator.com/item?id=36475563) - [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
