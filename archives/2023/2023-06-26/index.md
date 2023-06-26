@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 21:15:28](https://news.ycombinator.com/item?id=36485962) - [Amendment introduced to limit remote working in Ohio](https://www.wdtn.com/news/ohio/amendment-introduced-to-limit-remote-working-in-ohio/)
 * [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 * [2023-06-26, 19:54:11](https://news.ycombinator.com/item?id=36484932) - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
 * [2023-06-26, 19:32:38](https://news.ycombinator.com/item?id=36484609) - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
