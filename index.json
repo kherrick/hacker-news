@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 17:55:06",
+      "https://news.ycombinator.com/item?id=36483276"
+    ],
+    [
+      "IMF: Largest driver of EU inflation is corporate profits",
+      "https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 17:00:47",
       "https://news.ycombinator.com/item?id=36482486"
     ],
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2023-06-26, 15:41:24",
-      "https://news.ycombinator.com/item?id=36481219"
+      "2023-06-26, 15:39:29",
+      "https://news.ycombinator.com/item?id=36481186"
     ],
     [
-      "Question the W3C's advice re RSS",
-      "http://scripting.com/2023/06/24/134722.html"
+      "Linen.dev – Adding Elixir to our Nextjs app",
+      "https://www.linen.dev/s/linen/t/8008310/building-a-chat-app-with-nextjs-and-elixir-table-of-content-"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "A messaging app startup that raised $200M shuts down afters users were 95% fake",
       "https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 02:36:26",
-      "https://news.ycombinator.com/item?id=36475081"
-    ],
-    [
-      "Mycelite: SQLite extension to synchronize changes across SQLite instances",
-      "https://github.com/mycelial/mycelite"
     ]
   ],
   [
