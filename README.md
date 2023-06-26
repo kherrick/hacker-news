@@ -2,7 +2,7 @@
 
 * [2023-06-26, 22:50:56](https://news.ycombinator.com/item?id=36486918) - [Learn Stimulus in Ruby on Rails by Building a Toggle)](https://railsnotes.xyz/blog/your-first-stimulus-controller-learn-stimulus-ruby-on-rails-by-building-a-toggle-beginners-guide)
 * [2023-06-26, 22:02:26](https://news.ycombinator.com/item?id=36486490) - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
-* [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
+* [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 * [2023-06-26, 19:54:11](https://news.ycombinator.com/item?id=36484932) - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
 * [2023-06-26, 19:32:38](https://news.ycombinator.com/item?id=36484609) - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 19:05:41](https://news.ycombinator.com/item?id=36484308) - [Kor: a half-baked prototype that \"helps\" you extract structured data using LLMs](https://github.com/eyurtsev/kor)
@@ -15,7 +15,6 @@
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:06:26](https://news.ycombinator.com/item?id=36480570) - [ChatHN: Chat with Hacker News using OpenAI function calling](https://github.com/steven-tey/chathn)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
-* [2023-06-26, 14:21:42](https://news.ycombinator.com/item?id=36479976) - [Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
 * [2023-06-26, 14:21:33](https://news.ycombinator.com/item?id=36479974) - [Oregon finally legalizes pumping your own gas](https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years)
 * [2023-06-26, 13:57:58](https://news.ycombinator.com/item?id=36479716) - [Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
 * [2023-06-26, 13:43:01](https://news.ycombinator.com/item?id=36479574) - [Weaker bonds can make polymers stronger](https://news.mit.edu/2023/weaker-bonds-can-make-polymers-stronger-0622)
@@ -30,6 +29,7 @@
 * [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like diffusion but faster: The Paella model for fast image generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
 * [2023-06-25, 06:10:35](https://news.ycombinator.com/item?id=36465493) - [Argos Catalogue Kettle Pages, 1976/1985 (2017)](https://wearethemutants.com/2017/08/01/argos-catalogue-kettle-pages-19761985/)
 * [2023-06-24, 08:18:20](https://news.ycombinator.com/item?id=36456662) - [Bolwoningen: Living in spherical homes](https://parametric-architecture.com/bolwoningen-living-in-spherical-homes/)
+* [2023-06-24, 08:05:19](https://news.ycombinator.com/item?id=36456600) - [From Lunar Phases to Yank-Pop](https://susam.net/maze/from-lunar-phases-to-yank-pop.html)
 
 ## [Archives](archives/index.md)
 
