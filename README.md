@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 19:05:41](https://news.ycombinator.com/item?id=36484308) - [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
 * [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
 * [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [Corporate profits account for almost half the increase in Europe’s inflation](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
 * [2023-06-26, 17:53:30](https://news.ycombinator.com/item?id=36483251) - [Engineering Assessment of the OceanGate Titan Failure](https://www.captainsjournal.com/2023/06/25/engineering-assessment-of-the-oceangate-titan-failure/)
@@ -23,7 +24,6 @@
 * [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every factorial is a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 * [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text Rendering Hates You (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2023-06-26, 11:54:08](https://news.ycombinator.com/item?id=36478528) - [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
-* [2023-06-26, 11:47:46](https://news.ycombinator.com/item?id=36478487) - [Ayb: A multi-tenant database that helps you own your data](https://blog.marcua.net/2023/06/25/ayb-a-multi-tenant-database-that-helps-you-own-your-data.html)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive (2022)](https://bitsavers.org/)
 * [2023-06-26, 04:58:09](https://news.ycombinator.com/item?id=36475887) - [The Last Day of Constantinople](https://blogs.bl.uk/digitisedmanuscripts/2023/05/the-last-day-of-constantinople.html)

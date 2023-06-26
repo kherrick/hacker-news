@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 19:05:41](https://news.ycombinator.com/item?id=36484308) - [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
 * [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
 * [2023-06-26, 18:00:15](https://news.ycombinator.com/item?id=36483328) - [Extreme heat means 2/3 of North America could suffer blackouts this summer](https://www.cnn.com/2023/06/26/business/heat-wave-power-blackout/index.html)
 * [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [IMF: Largest driver of EU inflation is corporate profits](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
