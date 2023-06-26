@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)
+* [2023-06-26, 12:18:04](https://news.ycombinator.com/item?id=36478734) - [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
+* [2023-06-26, 11:54:08](https://news.ycombinator.com/item?id=36478528) - [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 11:08:42](https://news.ycombinator.com/item?id=36478179) - [The tech flaw that lets hackers control surveillance cameras](https://www.bbc.co.uk/news/technology-65975446)
 * [2023-06-26, 10:31:03](https://news.ycombinator.com/item?id=36477936) - [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
 * [2023-06-26, 09:15:09](https://news.ycombinator.com/item?id=36477481) - [Why Britain Doesn’t Build](https://worksinprogress.co/issue/why-britain-doesnt-build)
 * [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive](https://bitsavers.org/)
+* [2023-06-26, 08:29:49](https://news.ycombinator.com/item?id=36477185) - [Show HN: I built a website to buy and sell used clothes in Indonesia](https://preloved.co.id/)
 * [2023-06-26, 06:56:25](https://news.ycombinator.com/item?id=36476565) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 * [2023-06-26, 06:04:04](https://news.ycombinator.com/item?id=36476243) - [Using Nginx to block Meta, Twitter and ChatGPT access to your sites](https://gist.github.com/dangovorenefekt/b187b30e59ed1b827515cdbc833bc1bf)
 * [2023-06-26, 05:19:36](https://news.ycombinator.com/item?id=36475997) - [Irish Gov Makes Critizising Big Tech and Irish DPC a Crime](https://noyb.eu/en/irish-gov-makes-critizising-big-tech-and-irish-dpc-crime)
