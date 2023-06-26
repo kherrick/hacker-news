@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-25](index.md)
 
 * [2023-06-25, 23:59:00](https://news.ycombinator.com/item?id=36473979) - [How the Y chromosome makes some cancers more deadly for men](https://www.nature.com/articles/d41586-023-01987-x)
+* [2023-06-25, 23:27:32](https://news.ycombinator.com/item?id=36473733) - [UC San Francisco apologizes for prisoner experiments](https://www.abc10.com/article/news/local/california/california-university-apologizes-prisoner-experiments/103-655cd5bb-e80f-40d7-ba2c-b7cf17b9c84b)
 * [2023-06-25, 23:19:31](https://news.ycombinator.com/item?id=36473676) - [FAA issues ground stop for all DC-area airports due to equipment fire](https://www.fox5dc.com/news/faa-issues-ground-stop-for-all-dc-area-airports-due-to-equipment-fire-federal-avaiation-administration-dca-iad-bwi-ric)
 * [2023-06-25, 22:19:16](https://news.ycombinator.com/item?id=36473217) - [How the most popular cars in the US track drivers](https://www.wired.com/story/car-data-privacy-toyota-honda-ford/)
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Esoteric Base Number Systems](https://rupertmckay.com/blog/counting-to-ten/)
