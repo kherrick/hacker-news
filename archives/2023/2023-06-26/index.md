@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [A popular Bluetooth car battery monitor that siphons up all your location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 * [2023-06-26, 19:54:11](https://news.ycombinator.com/item?id=36484932) - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
 * [2023-06-26, 19:32:38](https://news.ycombinator.com/item?id=36484609) - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
 * [2023-06-26, 19:23:20](https://news.ycombinator.com/item?id=36484502) - [Modern Hunter-Gatherers Have Thriving Gut Microbiome, Compared with Californians](https://www.nature.com/articles/d41586-023-02065-y)
@@ -43,6 +44,7 @@
 * [2023-06-26, 14:02:57](https://news.ycombinator.com/item?id=36479776) - [Physicists discover a new switch for superconductivity](https://phys.org/news/2023-06-physicists-superconductivity.html)
 * [2023-06-26, 13:57:58](https://news.ycombinator.com/item?id=36479716) - [Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
 * [2023-06-26, 13:54:05](https://news.ycombinator.com/item?id=36479683) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips [pdf]](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
+* [2023-06-26, 13:43:01](https://news.ycombinator.com/item?id=36479574) - [Weaker bonds can make polymers stronger](https://news.mit.edu/2023/weaker-bonds-can-make-polymers-stronger-0622)
 * [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
 * [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every Factorial Is a Power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 * [2023-06-26, 13:17:16](https://news.ycombinator.com/item?id=36479317) - [On Sociopaths and Progress](https://www.zdziarski.com/blog/?p=12298)
