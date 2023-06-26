@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-26, 11:08:42",
+      "https://news.ycombinator.com/item?id=36478179"
+    ],
+    [
+      "The tech flaw that lets hackers control surveillance cameras",
+      "https://www.bbc.co.uk/news/technology-65975446"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 10:31:03",
       "https://news.ycombinator.com/item?id=36477936"
     ],
@@ -17,16 +27,6 @@
     [
       "Bitsavers Software Archive (2022)",
       "https://bitsavers.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 05:19:36",
-      "https://news.ycombinator.com/item?id=36475997"
-    ],
-    [
-      "Irish Gov Makes Critizising Big Tech and Irish DPC a Crime",
-      "https://noyb.eu/en/irish-gov-makes-critizising-big-tech-and-irish-dpc-crime"
     ]
   ],
   [
@@ -161,26 +161,6 @@
   ],
   [
     [
-      "2023-06-25, 19:11:50",
-      "https://news.ycombinator.com/item?id=36471591"
-    ],
-    [
-      "FP2: Fully In-Place Functional Programming [pdf]",
-      "https://www.microsoft.com/en-us/research/uploads/prod/2023/05/fbip.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 18:40:00",
-      "https://news.ycombinator.com/item?id=36471315"
-    ],
-    [
-      "Adversarial Collaboration Project",
-      "https://web.sas.upenn.edu/adcollabproject/"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 18:33:55",
       "https://news.ycombinator.com/item?id=36471262"
     ],
@@ -207,6 +187,16 @@
     [
       "Immutable Data (2015)",
       "https://kevinmahoney.co.uk/articles/immutable-data/"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 17:11:56",
+      "https://news.ycombinator.com/item?id=36470438"
+    ],
+    [
+      "A brief history of insults",
+      "https://www.nytimes.com/2023/06/06/crosswords/insults.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Everything that uses configuration files should report where they're located",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations"
+    ]
+  ],
+  [
+    [
+      "2023-06-25, 06:30:23",
+      "https://news.ycombinator.com/item?id=36465572"
+    ],
+    [
+      "Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]",
+      "https://www.youtube.com/watch?v=NX7GHqq28uU"
     ]
   ],
   [
