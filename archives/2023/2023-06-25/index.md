@@ -28,6 +28,7 @@
 * [2023-06-25, 18:40:00](https://news.ycombinator.com/item?id=36471315) - [Adversarial Collaboration Project](https://web.sas.upenn.edu/adcollabproject/)
 * [2023-06-25, 18:33:55](https://news.ycombinator.com/item?id=36471262) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 18:32:17](https://news.ycombinator.com/item?id=36471241) - [PED81C: A video system for AGA Amigas that provides pseudo-native chunky screens](https://retream.itch.io/ped81c)
+* [2023-06-25, 18:30:08](https://news.ycombinator.com/item?id=36471221) - [The dangers of tea drinking in nineteenth century Ireland](https://daily.jstor.org/the-dangers-of-tea-drinking/)
 * [2023-06-25, 18:27:14](https://news.ycombinator.com/item?id=36471192) - [I Shouldn’t Have to Accept Being in Deepfake Porn](https://www.theatlantic.com/ideas/archive/2023/06/deepfake-porn-ai-misinformation/674475/)
 * [2023-06-25, 18:26:48](https://news.ycombinator.com/item?id=36471186) - [You Don’t Need a Vision](https://austinkleon.com/2023/06/21/you-dont-need-a-vision/)
 * [2023-06-25, 18:15:48](https://news.ycombinator.com/item?id=36471105) - [How the Military Is Using E-Girls to Recruit Gen Z into Service](https://www.mintpressnews.com/simp-to-soldier-e-girls-military-recuitment-gen-z/284897/)
