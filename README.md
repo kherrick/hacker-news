@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 19:12:18](https://news.ycombinator.com/item?id=36484385) - [Red Hat’s commitment to open source: A response to the git.centos.org changes](https://www.redhat.com/en/blog/red-hats-commitment-open-source-response-gitcentosorg-changes)
 * [2023-06-26, 19:05:41](https://news.ycombinator.com/item?id=36484308) - [Kor: Extract structured data using LLMs](https://github.com/eyurtsev/kor)
 * [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
 * [2023-06-26, 17:55:06](https://news.ycombinator.com/item?id=36483276) - [Corporate profits account for almost half the increase in Europe’s inflation](https://www.imf.org/en/Blogs/Articles/2023/06/26/europes-inflation-outlook-depends-on-how-corporate-profits-absorb-wage-gains)
@@ -25,10 +26,9 @@
 * [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text Rendering Hates You (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2023-06-26, 11:54:08](https://news.ycombinator.com/item?id=36478528) - [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
-* [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive (2022)](https://bitsavers.org/)
 * [2023-06-26, 04:58:09](https://news.ycombinator.com/item?id=36475887) - [The Last Day of Constantinople](https://blogs.bl.uk/digitisedmanuscripts/2023/05/the-last-day-of-constantinople.html)
 * [2023-06-25, 20:00:21](https://news.ycombinator.com/item?id=36471999) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
-* [2023-06-25, 06:19:43](https://news.ycombinator.com/item?id=36465528) - [The Paradoxes of Nostalgia](https://ravenmagazine.org/magazine/the-paradoxes-of-nostalgia/)
+* [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like Diffusion but Faster: The Paella Model for Fast Image Generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
 * [2023-06-25, 06:10:35](https://news.ycombinator.com/item?id=36465493) - [Argos Catalogue Kettle Pages, 1976/1985](https://wearethemutants.com/2017/08/01/argos-catalogue-kettle-pages-19761985/)
 
 ## [Archives](archives/index.md)
