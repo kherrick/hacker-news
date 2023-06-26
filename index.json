@@ -1,22 +1,22 @@
 [
   [
     [
+      "2023-06-26, 22:50:56",
+      "https://news.ycombinator.com/item?id=36486918"
+    ],
+    [
+      "Learn Stimulus in Ruby on Rails by Building a Toggle)",
+      "https://railsnotes.xyz/blog/your-first-stimulus-controller-learn-stimulus-ruby-on-rails-by-building-a-toggle-beginners-guide"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 22:02:26",
       "https://news.ycombinator.com/item?id=36486490"
     ],
     [
       "Through a Glass Darkly",
       "https://asteriskmag.com/issues/03/through-a-glass-darkly"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 21:15:28",
-      "https://news.ycombinator.com/item?id=36485962"
-    ],
-    [
-      "Amendment introduced to limit remote working in Ohio",
-      "https://www.wdtn.com/news/ohio/amendment-introduced-to-limit-remote-working-in-ohio/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows",
       "https://determinate.systems/posts/magic-nix-cache"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 19:23:20",
-      "https://news.ycombinator.com/item?id=36484502"
-    ],
-    [
-      "Hunter-gatherer lifestyle fosters thriving gut microbiome",
-      "https://www.nature.com/articles/d41586-023-02065-y"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP",
       "https://news.ycombinator.com/item?id=36480230"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 14:21:42",
+      "https://news.ycombinator.com/item?id=36479976"
+    ],
+    [
+      "Authlib: Python Authentication",
+      "https://docs.authlib.org/en/latest/index.html"
     ]
   ],
   [
