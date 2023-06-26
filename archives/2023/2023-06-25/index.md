@@ -89,6 +89,7 @@
 * [2023-06-25, 03:13:02](https://news.ycombinator.com/item?id=36464846) - [Intercal: Practically Impossible](https://www.muppetlabs.com/~breadbox/intercal/pgpi.html)
 * [2023-06-25, 02:30:27](https://news.ycombinator.com/item?id=36464653) - [BrowserBox Pro goes open-source](https://github.com/dosyago/BrowserBoxPro)
 * [2023-06-25, 02:16:07](https://news.ycombinator.com/item?id=36464582) - [Zoom In: An Introduction to Circuits](https://distill.pub/2020/circuits/zoom-in/)
+* [2023-06-25, 02:15:42](https://news.ycombinator.com/item?id=36464579) - [Neglected Wittgensteinian critique of the computer model of the mind](https://twitter.com/FeserEdward/status/1672674727998140416)
 * [2023-06-25, 02:05:01](https://news.ycombinator.com/item?id=36464531) - [Ask HN: Is GNU pass and Yubikey (via NFC) supported on iPhone?](https://news.ycombinator.com/item?id=36464531)
 * [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science](https://plato.stanford.edu/entries/einstein-philscience/)
 * [2023-06-25, 01:03:37](https://news.ycombinator.com/item?id=36464231) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
