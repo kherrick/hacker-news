@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-26, 06:56:25](https://news.ycombinator.com/item?id=36476565) - [A love letter to Objective-C](https://thoughtbot.com/blog/a-love-letter-to-objective-c)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
@@ -27,6 +26,7 @@
 * [2023-06-25, 15:34:42](https://news.ycombinator.com/item?id=36469297) - [Show HN: Open-source shooter which made it to AC: Valhalla and Skydio drones](https://github.com/TeamHypersomnia/Hypersomnia)
 * [2023-06-25, 09:05:09](https://news.ycombinator.com/item?id=36466248) - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
 * [2023-06-25, 07:50:11](https://news.ycombinator.com/item?id=36465886) - [Everything that uses configuration files should report where they're located](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations)
+* [2023-06-25, 06:30:23](https://news.ycombinator.com/item?id=36465572) - [Towards a “PCB Drone” – Making a PCB Motor which reaches 30k RPM [video]](https://www.youtube.com/watch?v=NX7GHqq28uU)
 * [2023-06-25, 01:34:26](https://news.ycombinator.com/item?id=36464385) - [Einstein's Philosophy of Science (2019)](https://plato.stanford.edu/entries/einstein-philscience/)
 * [2023-06-24, 23:29:10](https://news.ycombinator.com/item?id=36463662) - [Born in Babylon: The spread of Rastafari](https://www.historytoday.com/archive/feature/born-babylon)
 * [2023-06-24, 07:33:19](https://news.ycombinator.com/item?id=36456447) - [All IP addresses are equal? “Dot-zero” addresses are less equal (2013)](https://labs.ripe.net/author/stephane_bortzmeyer/all-ip-addresses-are-equal-dot-zero-addresses-are-less-equal/)
