@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive](https://bitsavers.org/)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
@@ -8,6 +9,7 @@
 * [2023-06-25, 21:39:56](https://news.ycombinator.com/item?id=36472882) - [Counting the Hard Way](https://rupertmckay.com/blog/counting-to-ten/)
 * [2023-06-25, 21:38:36](https://news.ycombinator.com/item?id=36472854) - [Show HN: WinGPT – AI assistant for Windows 3.1](https://www.dialup.net/wingpt/)
 * [2023-06-25, 20:59:31](https://news.ycombinator.com/item?id=36472534) - [ThinMachine – A $25 thin client macOS Time Machine appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
+* [2023-06-25, 20:41:44](https://news.ycombinator.com/item?id=36472378) - [Generate invoices from the command line](https://github.com/maaslalani/invoice)
 * [2023-06-25, 20:40:52](https://news.ycombinator.com/item?id=36472370) - [A new study looks at how exercise can help alleviate anxiety and depression](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 * [2023-06-25, 20:04:14](https://news.ycombinator.com/item?id=36472041) - [Ignoring boys' emotional needs fuels public health risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
 * [2023-06-25, 19:26:31](https://news.ycombinator.com/item?id=36471718) - [SQLite Journal Modes [video]](https://www.youtube.com/watch?v=86jnwSU1F6Q)
@@ -17,8 +19,6 @@
 * [2023-06-25, 18:33:55](https://news.ycombinator.com/item?id=36471262) - [Flunct: Well-typed, fluent APIs in SML](https://github.com/OriRoth/flunct)
 * [2023-06-25, 18:32:17](https://news.ycombinator.com/item?id=36471241) - [PED81C: A video system for AGA Amigas that provides pseudo-native chunky screens](https://retream.itch.io/ped81c)
 * [2023-06-25, 18:30:08](https://news.ycombinator.com/item?id=36471221) - [The dangers of tea drinking in nineteenth century Ireland](https://daily.jstor.org/the-dangers-of-tea-drinking/)
-* [2023-06-25, 17:59:10](https://news.ycombinator.com/item?id=36470943) - [Why Google Zanzibar shines at building authorization](https://blog.warrant.dev/why-zanzibar-shines-at-building-authorization/)
-* [2023-06-25, 17:51:38](https://news.ycombinator.com/item?id=36470879) - [Miles Davis: A candid conversation (1962)](https://www.erenkrantz.com/Music/MilesDavisInterview.shtml)
 * [2023-06-25, 17:36:52](https://news.ycombinator.com/item?id=36470739) - [Immutable Data (2015)](https://kevinmahoney.co.uk/articles/immutable-data/)
 * [2023-06-25, 17:11:56](https://news.ycombinator.com/item?id=36470438) - [A brief history of insults](https://www.nytimes.com/2023/06/06/crosswords/insults.html)
 * [2023-06-25, 17:00:36](https://news.ycombinator.com/item?id=36470297) - [Show HN: Open-source resume builder and parser](https://www.open-resume.com/)

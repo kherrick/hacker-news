@@ -14,6 +14,7 @@
 * [2023-06-25, 21:08:31](https://news.ycombinator.com/item?id=36472613) - [The .meta Directory: Let's Tidy Things Up](https://dotmeta.org/)
 * [2023-06-25, 20:59:31](https://news.ycombinator.com/item?id=36472534) - [ThinMachine – A $25 Thin Client macOS Time Machine Appliance](https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html)
 * [2023-06-25, 20:41:49](https://news.ycombinator.com/item?id=36472381) - [Kill Siri (2022)](https://term7.info/kill-siri/)
+* [2023-06-25, 20:41:44](https://news.ycombinator.com/item?id=36472378) - [Generate invoices from the command line](https://github.com/maaslalani/invoice)
 * [2023-06-25, 20:40:52](https://news.ycombinator.com/item?id=36472370) - [What Type of Exercise Is Best for Mental Health?](https://greatergood.berkeley.edu/article/item/what_type_of_exercise_is_best_for_mental_health)
 * [2023-06-25, 20:35:11](https://news.ycombinator.com/item?id=36472327) - [Microsoft's ruthless employee ranking system annihilated team collaboration](https://tryingtruly.substack.com/p/the-shitty-stack-system)
 * [2023-06-25, 20:24:56](https://news.ycombinator.com/item?id=36472235) - [MTuner: C/C++ memory profiler and memory leak finder](https://github.com/milostosic/MTuner)
