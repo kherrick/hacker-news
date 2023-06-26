@@ -2,7 +2,7 @@
 
 * [2023-06-26, 10:31:03](https://news.ycombinator.com/item?id=36477936) - [JP Morgan accidentally deletes evidence in record retention screwup](https://www.theregister.com/2023/06/26/jp_morgan_fined_for_deleting/)
 * [2023-06-26, 08:37:55](https://news.ycombinator.com/item?id=36477233) - [Bitsavers Software Archive](https://bitsavers.org/)
-* [2023-06-26, 05:14:12](https://news.ycombinator.com/item?id=36475974) - [Julia Evans: How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
+* [2023-06-26, 05:14:12](https://news.ycombinator.com/item?id=36475974) - [How Integers and Floats Work](https://jvns.ca/blog/2023/06/23/new-zine--how-integers-and-floats-work/)
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [John Goodenough has died](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 04:52:27](https://news.ycombinator.com/item?id=36475852) - [The Structure and Interpretation of Computer Programs (Python, Scheme) Berkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
