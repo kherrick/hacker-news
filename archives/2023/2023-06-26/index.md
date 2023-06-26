@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 15:41:24](https://news.ycombinator.com/item?id=36481219) - [Question the W3C's advice re RSS](http://scripting.com/2023/06/24/134722.html)
+* [2023-06-26, 15:17:39](https://news.ycombinator.com/item?id=36480779) - [Show HN: Clang-uml – C++ to UML diagram generator based on Clang](https://github.com/bkryza/clang-uml)
+* [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:06:29](https://news.ycombinator.com/item?id=36480571) - [The World’s Empty Office Buildings Have Become a Debt Time Bomb](https://www.bloomberg.com/news/articles/2023-06-23/commercial-real-estate-reset-is-causing-distress-from-san-francisco-to-hong-kong)
 * [2023-06-26, 15:06:26](https://news.ycombinator.com/item?id=36480570) - [ChatHN: Chat with Hacker News Using OpenAI Function Calling](https://github.com/steven-tey/chathn)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
