@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36475563"
     ],
     [
-      "AudioPaLM: A Large Language Model That Can Speak and Listen",
+      "AudioPaLM: A large language model that can speak and listen",
       "https://arxiv.org/abs/2306.12925"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36475523"
     ],
     [
-      "America aims for nuclear-power Renaissance",
+      "America aims for nuclear-power renaissance",
       "https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Mycelite: SQLite extension to synchronize changes across SQLite instances",
       "https://github.com/mycelial/mycelite"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 01:14:16",
+      "https://news.ycombinator.com/item?id=36474512"
+    ],
+    [
+      "Scientists report world’s first X-ray of a single atom in Nature",
+      "https://www.ohio.edu/news/2023/05/scientists-report-worlds-first-x-ray-single-atom-nature"
     ]
   ],
   [
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36472534"
     ],
     [
-      "ThinMachine – A $25 Thin Client macOS Time Machine Appliance",
+      "ThinMachine – A $25 thin client macOS Time Machine appliance",
       "https://tomverbeure.github.io/2023/06/25/ThinMachine-a-Thin-Client-MacOS-Time-Machine-Appliance.html"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Ignoring boys' emotional needs fuels public health risks",
       "https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner"
-    ]
-  ],
-  [
-    [
-      "2023-06-25, 19:26:31",
-      "https://news.ycombinator.com/item?id=36471718"
-    ],
-    [
-      "SQLite Journal Modes [video]",
-      "https://www.youtube.com/watch?v=86jnwSU1F6Q"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=36467760"
     ],
     [
-      "Tapping Morse Code on a Wall",
+      "Tapping Morse code on a wall",
       "https://mra-raycom.com/tapping-morse-code-on-a-wall/"
     ]
   ],
