@@ -55,6 +55,7 @@
 * [2023-06-25, 14:25:48](https://news.ycombinator.com/item?id=36468466) - [Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)](https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/)
 * [2023-06-25, 14:16:47](https://news.ycombinator.com/item?id=36468383) - [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
 * [2023-06-25, 14:09:57](https://news.ycombinator.com/item?id=36468335) - [Ask HN: How do you find high quality mobile games?](https://news.ycombinator.com/item?id=36468335)
+* [2023-06-25, 13:57:34](https://news.ycombinator.com/item?id=36468238) - [Le Paper Globe (2012)](https://professeurjoachim.com/globe/)
 * [2023-06-25, 13:56:21](https://news.ycombinator.com/item?id=36468226) - [Study: Aging population could be a drag on economic growth](https://around.uoregon.edu/content/study-aging-population-could-be-drag-economic-growth)
 * [2023-06-25, 13:50:13](https://news.ycombinator.com/item?id=36468162) - [When wealthy adventurers take risks,who foots the bill for rescue attempts?](https://apnews.com/article/titanic-tourist-sub-passengers-cost-ee2a6358b36e48326b3977090fd9311b)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang – A Friendship That Changed the World](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
