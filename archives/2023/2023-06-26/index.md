@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 15:06:26](https://news.ycombinator.com/item?id=36480570) - [ChatHN: Chat with Hacker News Using OpenAI Function Calling](https://github.com/steven-tey/chathn)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
 * [2023-06-26, 14:33:45](https://news.ycombinator.com/item?id=36480122) - [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
 * [2023-06-26, 14:24:55](https://news.ycombinator.com/item?id=36480007) - [Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature](https://twitter.com/damusapp/status/1673326463297392640)
@@ -11,6 +12,8 @@
 * [2023-06-26, 14:21:33](https://news.ycombinator.com/item?id=36479974) - [Oregon Finally Legalizes Pumping Your Own Gas After 72 Years](https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years)
 * [2023-06-26, 14:12:27](https://news.ycombinator.com/item?id=36479882) - [I'm Done with Red Hat (Enterprise Linux)](https://www.jeffgeerling.com/blog/2023/im-done-red-hat-enterprise-linux)
 * [2023-06-26, 14:09:16](https://news.ycombinator.com/item?id=36479840) - [What my violin taught me about awe, purpose and the power in taking a chance](https://www.washingtonpost.com/opinions/2023/06/26/maya-shankar-juilliard-commencement-address/)
+* [2023-06-26, 14:06:39](https://news.ycombinator.com/item?id=36479809) - [Ex-FBI employee jailed for mishandling classified material](https://www.theregister.com/2023/06/26/infosec_in_brief/)
+* [2023-06-26, 14:02:57](https://news.ycombinator.com/item?id=36479776) - [Physicists discover a new switch for superconductivity](https://phys.org/news/2023-06-physicists-superconductivity.html)
 * [2023-06-26, 13:57:58](https://news.ycombinator.com/item?id=36479716) - [Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
 * [2023-06-26, 13:54:05](https://news.ycombinator.com/item?id=36479683) - [RowPress: Amplifying Read Disturbance in Modern DRAM Chips [pdf]](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
 * [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
@@ -35,6 +38,7 @@
 * [2023-06-26, 04:32:08](https://news.ycombinator.com/item?id=36475744) - [Ask HN: Why did Nim not catch-on like wild fire as Rust did?](https://news.ycombinator.com/item?id=36475744)
 * [2023-06-26, 03:50:34](https://news.ycombinator.com/item?id=36475563) - [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
 * [2023-06-26, 03:44:14](https://news.ycombinator.com/item?id=36475523) - [America aims for nuclear-power Renaissance](https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance)
+* [2023-06-26, 03:21:44](https://news.ycombinator.com/item?id=36475376) - [A messaging app startup that raised $200M shuts down afters users were 95% fake](https://fortune.com/2023/06/25/irl-shutting-down-startup-admits-95-percent-of-messaging-app-users-were-fake/)
 * [2023-06-26, 02:45:34](https://news.ycombinator.com/item?id=36475144) - [NRF52840 Connect Kit – Rapid prototyping kit for your next connected projects](https://github.com/makerdiary/nrf52840-connectkit)
 * [2023-06-26, 02:36:26](https://news.ycombinator.com/item?id=36475081) - [Mycelite: SQLite extension to synchronize changes across SQLite instances](https://github.com/mycelial/mycelite)
 * [2023-06-26, 02:14:41](https://news.ycombinator.com/item?id=36474938) - [Tokens, the secret language of AI](https://omarkama.li/blog/tokens-the-secret-language-of-ai)
