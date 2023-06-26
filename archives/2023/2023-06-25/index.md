@@ -20,6 +20,7 @@
 * [2023-06-25, 20:24:56](https://news.ycombinator.com/item?id=36472235) - [MTuner: C/C++ memory profiler and memory leak finder](https://github.com/milostosic/MTuner)
 * [2023-06-25, 20:05:35](https://news.ycombinator.com/item?id=36472055) - [Recovering Steely Dan’s Second Arrangement](https://expandingdan.substack.com/p/second-arrangement-steely-dan-roger-nichols-tape)
 * [2023-06-25, 20:04:14](https://news.ycombinator.com/item?id=36472041) - [Ignoring Boys' Emotional Needs Fuels Public Health Risks](https://www.wbur.org/cognoscenti/2023/06/15/boys-in-crisis-masculinity-andrew-reiner)
+* [2023-06-25, 20:00:21](https://news.ycombinator.com/item?id=36471999) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [2023-06-25, 19:26:31](https://news.ycombinator.com/item?id=36471718) - [SQLite Journal Modes [video]](https://www.youtube.com/watch?v=86jnwSU1F6Q)
 * [2023-06-25, 19:20:31](https://news.ycombinator.com/item?id=36471666) - [Battle.net, WoW, Diablo IV affected by DDoS attack](https://twitter.com/BlizzardCS/status/1673017834455154688)
 * [2023-06-25, 19:13:27](https://news.ycombinator.com/item?id=36471601) - [The Cost of Gasoline](https://grist.org/accountability/gas-stations-underground-storage-tank-leaks-environmental-disaster/)
