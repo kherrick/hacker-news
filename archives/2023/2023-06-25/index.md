@@ -58,6 +58,7 @@
 * [2023-06-25, 14:09:57](https://news.ycombinator.com/item?id=36468335) - [Ask HN: How do you find high quality mobile games?](https://news.ycombinator.com/item?id=36468335)
 * [2023-06-25, 13:57:34](https://news.ycombinator.com/item?id=36468238) - [Le Paper Globe (2012)](https://professeurjoachim.com/globe/)
 * [2023-06-25, 13:56:21](https://news.ycombinator.com/item?id=36468226) - [Study: Aging population could be a drag on economic growth](https://around.uoregon.edu/content/study-aging-population-could-be-drag-economic-growth)
+* [2023-06-25, 13:52:58](https://news.ycombinator.com/item?id=36468193) - [Fanon versus Canon](http://www.whitehound.co.uk/Fanfic/fanonvscanon.htm)
 * [2023-06-25, 13:50:13](https://news.ycombinator.com/item?id=36468162) - [When wealthy adventurers take risks,who foots the bill for rescue attempts?](https://apnews.com/article/titanic-tourist-sub-passengers-cost-ee2a6358b36e48326b3977090fd9311b)
 * [2023-06-25, 13:33:45](https://news.ycombinator.com/item?id=36468028) - [Tintin, Hergé and Chang – A Friendship That Changed the World](https://thewire.in/books/tintin-herge-and-chang-a-friendship-that-changed-the-world)
 * [2023-06-25, 13:22:54](https://news.ycombinator.com/item?id=36467955) - [Repairing a $25K HP Workstation from 1981 to Run Pac-Man](https://hackaday.com/2023/06/20/repairing-a-25000-hp-workstation-to-run-pac-man/)
