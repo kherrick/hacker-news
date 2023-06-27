@@ -5,7 +5,6 @@
 * [2023-06-27, 20:42:35](https://news.ycombinator.com/item?id=36498365) - [Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
 * [2023-06-27, 20:18:32](https://news.ycombinator.com/item?id=36498107) - [Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
 * [2023-06-27, 19:52:03](https://news.ycombinator.com/item?id=36497798) - [Sears offered complete houses in large DIY kits](https://twitter.com/historyinmemes/status/1673569802022010880)
-* [2023-06-27, 19:46:08](https://news.ycombinator.com/item?id=36497732) - [Pre-Digital Font Tech: Formatt](https://www.marksimonson.com/notebook/view/pre-digital-font-tech-no-1-formatt)
 * [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 * [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
@@ -29,6 +28,7 @@
 * [2023-06-26, 22:54:34](https://news.ycombinator.com/item?id=36486948) - [Ernst Jünger’s narratives of complicity](https://www.newyorker.com/magazine/2023/07/03/on-the-marble-cliffs-ernst-junger-book-review)
 * [2023-06-26, 22:49:39](https://news.ycombinator.com/item?id=36486907) - [Undoing the Alhambra Decree](https://www.thedial.world/issue-5/spain-sephardic-ancestry-citizenship-program)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
+* [2023-06-26, 04:51:43](https://news.ycombinator.com/item?id=36475846) - [Bloomsday: The library’s one-of-a-kind copy of “Ulysses”](https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/)
 * [2023-06-25, 15:20:13](https://news.ycombinator.com/item?id=36469147) - [Monitoring Is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
 ## [Archives](archives/index.md)
