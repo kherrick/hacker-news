@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 22:54:34](https://news.ycombinator.com/item?id=36486948) - [Ernst Jünger’s Narratives of Complicity](https://www.newyorker.com/magazine/2023/07/03/on-the-marble-cliffs-ernst-junger-book-review)
 * [2023-06-26, 22:53:21](https://news.ycombinator.com/item?id=36486940) - [Nathan: Language Lessons with an Extraordinary Ape](https://longreads.com/2023/05/09/nathan/)
 * [2023-06-26, 22:50:56](https://news.ycombinator.com/item?id=36486918) - [Learn Stimulus in Ruby on Rails by Building a Toggle)](https://railsnotes.xyz/blog/your-first-stimulus-controller-learn-stimulus-ruby-on-rails-by-building-a-toggle-beginners-guide)
 * [2023-06-26, 22:49:39](https://news.ycombinator.com/item?id=36486907) - [Undoing the Alhambra Decree](https://www.thedial.world/issue-5/spain-sephardic-ancestry-citizenship-program)
