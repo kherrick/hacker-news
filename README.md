@@ -2,7 +2,6 @@
 
 * [2023-06-27, 23:02:21](https://news.ycombinator.com/item?id=36499905) - [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
 * [2023-06-27, 22:21:27](https://news.ycombinator.com/item?id=36499498) - [Open Source AI Is Critical – Hugging Face CEO Before US Congress](https://venturebeat.com/ai/hugging-face-ceo-tells-us-house-open-source-ai-is-extremely-aligned-with-american-interests/)
-* [2023-06-27, 21:52:33](https://news.ycombinator.com/item?id=36499167) - [The forced return to the office is the definition of insanity](https://fortune.com/2023/06/26/forced-return-to-office-is-the-definition-of-insanity-remote-hybrid-work-careers-gleb-tsipursky/)
 * [2023-06-27, 21:43:09](https://news.ycombinator.com/item?id=36499073) - [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
 * [2023-06-27, 21:27:25](https://news.ycombinator.com/item?id=36498897) - [LetMeSpy, a stalkerware app spying on thousands, says it was hacked](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
 * [2023-06-27, 21:10:29](https://news.ycombinator.com/item?id=36498724) - [SnarkOS: A Decentralized Operating System for Zero-Knowledge Applications](https://github.com/AleoHQ/snarkOS)
@@ -25,6 +24,7 @@
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:33:25](https://news.ycombinator.com/item?id=36493422) - [I Built Linux from Scratch](https://thesloth.me/posts/5/)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
+* [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
 * [2023-06-27, 12:46:01](https://news.ycombinator.com/item?id=36491975) - [Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing](https://github.com/billabear/billabear)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 * [2023-06-27, 11:15:28](https://news.ycombinator.com/item?id=36491338) - [Tinc, a GPLv2 mesh routing VPN](https://www.tinc-vpn.org/)
