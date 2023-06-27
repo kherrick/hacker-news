@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
 * [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
@@ -17,7 +18,6 @@
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:33:25](https://news.ycombinator.com/item?id=36493422) - [I Built Linux from Scratch](https://thesloth.me/posts/5/)
 * [2023-06-27, 14:06:24](https://news.ycombinator.com/item?id=36492975) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
-* [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
 * [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
 * [2023-06-27, 12:46:01](https://news.ycombinator.com/item?id=36491975) - [Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing](https://github.com/billabear/billabear)
@@ -25,7 +25,7 @@
 * [2023-06-27, 11:15:28](https://news.ycombinator.com/item?id=36491338) - [Tinc, a GPLv2 mesh routing VPN](https://www.tinc-vpn.org/)
 * [2023-06-27, 05:33:34](https://news.ycombinator.com/item?id=36489249) - [What Medieval Manuscripts Reveal About the Hidden History of Whales](https://www.smithsonianmag.com/science-nature/medieval-manuscripts-reveal-hidden-history-whales-180982348/)
 * [2023-06-27, 00:24:54](https://news.ycombinator.com/item?id=36487610) - [Physicists develop a novel quantum theory of light-induced matter](https://phys.org/news/2023-06-physicists-quantum-theory-light-induced.html)
-* [2023-06-26, 22:54:34](https://news.ycombinator.com/item?id=36486948) - [Ernst Jünger’s Narratives of Complicity](https://www.newyorker.com/magazine/2023/07/03/on-the-marble-cliffs-ernst-junger-book-review)
+* [2023-06-26, 22:54:34](https://news.ycombinator.com/item?id=36486948) - [Ernst Jünger’s narratives of complicity](https://www.newyorker.com/magazine/2023/07/03/on-the-marble-cliffs-ernst-junger-book-review)
 * [2023-06-26, 22:49:39](https://news.ycombinator.com/item?id=36486907) - [Undoing the Alhambra Decree](https://www.thedial.world/issue-5/spain-sephardic-ancestry-citizenship-program)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
 * [2023-06-26, 04:51:43](https://news.ycombinator.com/item?id=36475846) - [Bloomsday: The library’s one-of-a-kind copy of “Ulysses”](https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/)
