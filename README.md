@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-27, 08:21:10](https://news.ycombinator.com/item?id=36490283) - [U.S. pedestrian deaths reach a 40-year high](https://www.npr.org/2023/06/26/1184034017/us-pedestrian-deaths-high-traffic-car)
 * [2023-06-27, 07:19:37](https://news.ycombinator.com/item?id=36489847) - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 * [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [2023-06-27, 04:01:10](https://news.ycombinator.com/item?id=36488735) - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 * [2023-06-27, 03:13:53](https://news.ycombinator.com/item?id=36488461) - [Testing a 1,000 player Minecraft server with Folia](https://cubxity.dev/blog/folia-test-june-2023)
 * [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
+* [2023-06-27, 02:00:58](https://news.ycombinator.com/item?id=36488127) - [Domain-Oriented Microservice Architecture (2020)](https://www.uber.com/blog/microservice-architecture/)
 * [2023-06-27, 01:14:01](https://news.ycombinator.com/item?id=36487883) - [OPNsense: Open-source security platform](https://opnsense.org/)
 * [2023-06-27, 00:18:19](https://news.ycombinator.com/item?id=36487574) - [Detect Food Adulteration with Easy Home Tests](https://eatrightindia.gov.in/dart/)
 * [2023-06-26, 22:03:59](https://news.ycombinator.com/item?id=36486512) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
