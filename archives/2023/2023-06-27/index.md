@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 22:03:52](https://news.ycombinator.com/item?id=36499294) - [Rubio Says He’s Heard Shocking ‘Firsthand’ Accounts of UFOs](https://nymag.com/intelligencer/2023/06/rubio-says-hes-heard-shocking-first-hand-accounts-of-ufos.html)
+* [2023-06-27, 21:45:48](https://news.ycombinator.com/item?id=36499102) - [Half of US wetlands lost federal protection. Their fate is up to the states](https://www.pilotonline.com/2023/06/19/half-the-nations-wetlands-just-lost-federal-protection-their-fate-is-up-to-the-states/)
+* [2023-06-27, 21:43:09](https://news.ycombinator.com/item?id=36499073) - [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
 * [2023-06-27, 21:34:36](https://news.ycombinator.com/item?id=36498978) - [Ford to lay off workers as it focuses on electric vehicles](https://www.cnn.com/2023/06/27/business/ford-layoffs/index.html)
 * [2023-06-27, 21:27:25](https://news.ycombinator.com/item?id=36498897) - [LetMeSpy, a stalkerware app spying on thousands, says it was hacked](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
 * [2023-06-27, 21:10:29](https://news.ycombinator.com/item?id=36498724) - [SnarkOS: A Decentralized Operating System for Zero-Knowledge Applications](https://github.com/AleoHQ/snarkOS)
