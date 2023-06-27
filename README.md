@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-27, 12:01:08](https://news.ycombinator.com/item?id=36491647) - [Text Blaze (YC W21) Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies](https://news.ycombinator.com/item?id=36491647)
+* [2023-06-27, 11:39:56](https://news.ycombinator.com/item?id=36491514) - [The Deep Sea](https://neal.fun/deep-sea/)
 * [2023-06-27, 07:19:37](https://news.ycombinator.com/item?id=36489847) - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 * [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
@@ -14,7 +16,6 @@
 * [2023-06-26, 19:23:20](https://news.ycombinator.com/item?id=36484502) - [Hunter-gatherer lifestyle fosters thriving gut microbiome](https://www.nature.com/articles/d41586-023-02065-y)
 * [2023-06-26, 19:05:41](https://news.ycombinator.com/item?id=36484308) - [Kor: a half-baked prototype that \"helps\" you extract structured data using LLMs](https://github.com/eyurtsev/kor)
 * [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
-* [2023-06-26, 16:12:22](https://news.ycombinator.com/item?id=36481693) - [Turmeric’s unexpected link to lead poisoning in Bangladesh](https://stanmed.stanford.edu/turmeric-lead-risk-detect/)
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:00:55](https://news.ycombinator.com/item?id=36480470) - [A simple guide to pessimistic locking in Rails](https://www.visuality.pl/posts/a-simple-guide-to-pessimistic-locking-in-rails)
 * [2023-06-26, 15:00:11](https://news.ycombinator.com/item?id=36480460) - [Why a browser and mail combination is worth it](https://vivaldi.com/blog/how-to/5-reasons-why-a-browser-and-mail-combination-is-worth-it/)
@@ -28,7 +29,6 @@
 * [2023-06-26, 02:36:51](https://news.ycombinator.com/item?id=36475083) - [Things That Count](http://meta-studies.net/pmwiki/pmwiki.php?n=Site.Introduction)
 * [2023-06-25, 15:15:38](https://news.ycombinator.com/item?id=36469086) - [4D Toys Update 8: Rotating the 3D Slice, 2D Faces Projections, Marble Scenes](https://marctenbosch.com/news/2023/03/4d-toys-update-v-1-8-rotating-the-3d-slice-2d-faces-projections-marble-scenes-and-many-more/)
 * [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like diffusion but faster: The Paella model for fast image generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
-* [2023-06-25, 11:41:45](https://news.ycombinator.com/item?id=36467187) - [Vector ALU Patterns](https://moonbaseotago.github.io/2023/06/19/vector-patterns.html)
 * [2023-06-24, 08:18:20](https://news.ycombinator.com/item?id=36456662) - [Bolwoningen: Living in spherical homes](https://parametric-architecture.com/bolwoningen-living-in-spherical-homes/)
 
 ## [Archives](archives/index.md)
