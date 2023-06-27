@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 20:42:35](https://news.ycombinator.com/item?id=36498365) - [Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
+* [2023-06-27, 20:18:32](https://news.ycombinator.com/item?id=36498107) - [Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
+* [2023-06-27, 19:52:03](https://news.ycombinator.com/item?id=36497798) - [Sears offered complete houses in large DIY kits](https://twitter.com/historyinmemes/status/1673569802022010880)
 * [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 19:01:40](https://news.ycombinator.com/item?id=36497240) - [Sharing the seed deck we used to raise $6M from David Sacks at Craft Ventures](https://wraptext.equals.com/equals-seed-deck/)
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
