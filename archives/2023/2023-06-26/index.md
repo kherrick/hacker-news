@@ -70,6 +70,7 @@
 * [2023-06-26, 05:10:23](https://news.ycombinator.com/item?id=36475949) - [Goodenough, Nobel laureate who gave the world Li-ion batteries, passes away](https://www.thehindubusinessline.com/news/goodenough-nobel-laureate-who-gave-the-world-li-ion-batteries-passes-away/article67010369.ece)
 * [2023-06-26, 04:58:09](https://news.ycombinator.com/item?id=36475887) - [The Last Day of Constantinople](https://blogs.bl.uk/digitisedmanuscripts/2023/05/the-last-day-of-constantinople.html)
 * [2023-06-26, 04:52:27](https://news.ycombinator.com/item?id=36475852) - [The Structure and Interpretation of Computer Programs (Python, Scheme) Berkeley](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
+* [2023-06-26, 04:34:21](https://news.ycombinator.com/item?id=36475755) - [How to Steal a Masterpiece: Advice from the World’s Greatest Art Thief](https://time.com/6286931/how-to-steal-a-masterpiece-advice-from-the-worlds-greatest-art-thief/)
 * [2023-06-26, 04:32:08](https://news.ycombinator.com/item?id=36475744) - [Ask HN: Why did Nim not catch-on like wild fire as Rust did?](https://news.ycombinator.com/item?id=36475744)
 * [2023-06-26, 03:50:34](https://news.ycombinator.com/item?id=36475563) - [AudioPaLM: A Large Language Model That Can Speak and Listen](https://arxiv.org/abs/2306.12925)
 * [2023-06-26, 03:44:14](https://news.ycombinator.com/item?id=36475523) - [America aims for nuclear-power Renaissance](https://www.economist.com/united-states/2023/06/25/america-aims-for-nuclear-power-renaissance)
