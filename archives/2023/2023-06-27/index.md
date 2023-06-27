@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
 * [2023-06-27, 21:34:36](https://news.ycombinator.com/item?id=36498978) - [Ford to lay off workers as it focuses on electric vehicles](https://www.cnn.com/2023/06/27/business/ford-layoffs/index.html)
+* [2023-06-27, 21:27:25](https://news.ycombinator.com/item?id=36498897) - [LetMeSpy, a stalkerware app spying on thousands, says it was hacked](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
+* [2023-06-27, 21:10:29](https://news.ycombinator.com/item?id=36498724) - [SnarkOS: A Decentralized Operating System for Zero-Knowledge Applications](https://github.com/AleoHQ/snarkOS)
 * [2023-06-27, 21:01:30](https://news.ycombinator.com/item?id=36498605) - [Sam Bankman-Fried fails to dismiss criminal charges related to FTX](https://www.ft.com/content/935ec2fc-ce52-424c-a615-a7d49c26c397)
 * [2023-06-27, 21:00:36](https://news.ycombinator.com/item?id=36498592) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-06-27, 20:53:45](https://news.ycombinator.com/item?id=36498484) - [Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
@@ -16,6 +18,7 @@
 * [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 19:01:40](https://news.ycombinator.com/item?id=36497240) - [Sharing the seed deck we used to raise $6M from David Sacks at Craft Ventures](https://wraptext.equals.com/equals-seed-deck/)
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
+* [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
