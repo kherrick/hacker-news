@@ -55,6 +55,7 @@
 * [2023-06-25, 14:40:43](https://news.ycombinator.com/item?id=36468632) - [Remote work appears to be here to stay, especially for women](https://www.washingtonpost.com/wellness/2023/06/22/remote-work-family-socialization-time-use/)
 * [2023-06-25, 14:31:55](https://news.ycombinator.com/item?id=36468535) - [Ask HN: What topics are good for a UI/UX Primer?](https://news.ycombinator.com/item?id=36468535)
 * [2023-06-25, 14:25:48](https://news.ycombinator.com/item?id=36468466) - [Slashdot founder Rob Malda on why there won’t be another Hacker News (2013)](https://www.washingtonpost.com/news/the-switch/wp/2013/08/07/slashdot-founder-rob-malda-on-why-there-wont-be-another-hacker-news/)
+* [2023-06-25, 14:17:06](https://news.ycombinator.com/item?id=36468386) - [Sweden wants to build an entire city from wood](https://www.economist.com/science-and-technology/2023/06/21/sweden-wants-to-build-an-entire-city-from-wood)
 * [2023-06-25, 14:16:47](https://news.ycombinator.com/item?id=36468383) - [Principles of Imperative Programming](https://www.cs.cmu.edu/~15122/about.shtml)
 * [2023-06-25, 14:09:57](https://news.ycombinator.com/item?id=36468335) - [Ask HN: How do you find high quality mobile games?](https://news.ycombinator.com/item?id=36468335)
 * [2023-06-25, 13:57:34](https://news.ycombinator.com/item?id=36468238) - [Le Paper Globe (2012)](https://professeurjoachim.com/globe/)
