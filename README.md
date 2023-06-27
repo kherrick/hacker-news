@@ -9,6 +9,7 @@
 * [2023-06-27, 01:14:01](https://news.ycombinator.com/item?id=36487883) - [OPNsense: Open-source security platform](https://opnsense.org/)
 * [2023-06-27, 00:18:19](https://news.ycombinator.com/item?id=36487574) - [Detect Food Adulteration with Easy Home Tests](https://eatrightindia.gov.in/dart/)
 * [2023-06-26, 22:03:59](https://news.ycombinator.com/item?id=36486512) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
+* [2023-06-26, 22:02:26](https://news.ycombinator.com/item?id=36486490) - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
 * [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 * [2023-06-26, 19:54:11](https://news.ycombinator.com/item?id=36484932) - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
 * [2023-06-26, 19:32:38](https://news.ycombinator.com/item?id=36484609) - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
@@ -29,7 +30,6 @@
 * [2023-06-25, 15:15:38](https://news.ycombinator.com/item?id=36469086) - [4D Toys Update 8: Rotating the 3D Slice, 2D Faces Projections, Marble Scenes](https://marctenbosch.com/news/2023/03/4d-toys-update-v-1-8-rotating-the-3d-slice-2d-faces-projections-marble-scenes-and-many-more/)
 * [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like diffusion but faster: The Paella model for fast image generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
 * [2023-06-25, 11:41:45](https://news.ycombinator.com/item?id=36467187) - [Vector ALU Patterns](https://moonbaseotago.github.io/2023/06/19/vector-patterns.html)
-* [2023-06-25, 11:13:16](https://news.ycombinator.com/item?id=36466996) - [Happiness is a reward from our ancestors](https://woodfromeden.substack.com/p/happiness-is-a-reward-from-our-ancestors)
 
 ## [Archives](archives/index.md)
 
