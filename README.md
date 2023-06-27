@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-27, 17:00:31](https://news.ycombinator.com/item?id=36495680) - [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
 * [2023-06-27, 17:00:18](https://news.ycombinator.com/item?id=36495676) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-06-27, 16:25:42](https://news.ycombinator.com/item?id=36495059) - [The Wild (and Slightly Terrifying) Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
 * [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
@@ -12,7 +13,6 @@
 * [2023-06-27, 14:06:24](https://news.ycombinator.com/item?id=36492975) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
-* [2023-06-27, 13:20:53](https://news.ycombinator.com/item?id=36492321) - [False 911 Calls Increase During Festival as iOS Mistakes Dancing for Car Crashes](https://gizmodo.com/iphones-false-911-calls-bonnaroo-android-uk-999-1850576151)
 * [2023-06-27, 13:18:42](https://news.ycombinator.com/item?id=36492291) - [When the facts change, I change my mind. What do you do?](https://quoteinvestigator.com/2011/07/22/keynes-change-mind/)
 * [2023-06-27, 12:51:12](https://news.ycombinator.com/item?id=36492033) - [A Syntax for Self-Tracking (2020)](https://www.gibney.org/a_syntax_for_self-tracking)
 * [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)

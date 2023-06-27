@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 17:00:31](https://news.ycombinator.com/item?id=36495680) - [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
 * [2023-06-27, 17:00:18](https://news.ycombinator.com/item?id=36495676) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-06-27, 16:33:45](https://news.ycombinator.com/item?id=36495191) - [Volvo Cars Adopts Tesla's NACS Port in the United States, Canada and Mexico](https://www.media.volvocars.com/global/en-gb/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can)
 * [2023-06-27, 16:25:42](https://news.ycombinator.com/item?id=36495059) - [The Wild (and Slightly Terrifying) Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
