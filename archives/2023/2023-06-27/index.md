@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 16:33:45](https://news.ycombinator.com/item?id=36495191) - [Volvo Cars Adopts Tesla's NACS Port in the United States, Canada and Mexico](https://www.media.volvocars.com/global/en-gb/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can)
+* [2023-06-27, 16:25:42](https://news.ycombinator.com/item?id=36495059) - [The Wild (and Slightly Terrifying) Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
+* [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
+* [2023-06-27, 16:17:40](https://news.ycombinator.com/item?id=36494935) - [Zellij New WASM Plugin System](https://zellij.dev/news/new-plugin-system/)
 * [2023-06-27, 16:07:05](https://news.ycombinator.com/item?id=36494776) - [Pompeii archaeologists discover 'pizza' painting](https://www.bbc.co.uk/news/world-europe-66031341)
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
 * [2023-06-27, 15:30:47](https://news.ycombinator.com/item?id=36494308) - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
