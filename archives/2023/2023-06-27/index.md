@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 08:21:10](https://news.ycombinator.com/item?id=36490283) - [U.S. pedestrian deaths reach a 40-year high](https://www.npr.org/2023/06/26/1184034017/us-pedestrian-deaths-high-traffic-car)
+* [2023-06-27, 07:19:37](https://news.ycombinator.com/item?id=36489847) - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 * [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a Ring Buffer for Throughput](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [2023-06-27, 04:01:10](https://news.ycombinator.com/item?id=36488735) - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
