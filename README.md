@@ -10,7 +10,6 @@
 * [2023-06-27, 20:53:45](https://news.ycombinator.com/item?id=36498484) - [Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
 * [2023-06-27, 20:42:35](https://news.ycombinator.com/item?id=36498365) - [Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
 * [2023-06-27, 20:18:32](https://news.ycombinator.com/item?id=36498107) - [Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
-* [2023-06-27, 20:11:47](https://news.ycombinator.com/item?id=36498049) - [Let's welcome Meta, not block them](https://www.manton.org/2023/06/27/lets-welcome-meta.html)
 * [2023-06-27, 19:46:08](https://news.ycombinator.com/item?id=36497732) - [Pre-Digital Font Tech: Formatt](https://www.marksimonson.com/notebook/view/pre-digital-font-tech-no-1-formatt)
 * [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
@@ -28,6 +27,7 @@
 * [2023-06-27, 12:46:01](https://news.ycombinator.com/item?id=36491975) - [Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing](https://github.com/billabear/billabear)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 * [2023-06-27, 11:15:28](https://news.ycombinator.com/item?id=36491338) - [Tinc, a GPLv2 mesh routing VPN](https://www.tinc-vpn.org/)
+* [2023-06-27, 00:24:54](https://news.ycombinator.com/item?id=36487610) - [Physicists develop a novel quantum theory of light-induced matter](https://phys.org/news/2023-06-physicists-quantum-theory-light-induced.html)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
 * [2023-06-25, 15:20:13](https://news.ycombinator.com/item?id=36469147) - [Monitoring Is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
