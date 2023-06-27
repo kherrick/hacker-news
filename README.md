@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-27, 03:13:53](https://news.ycombinator.com/item?id=36488461) - [Breaking the Limits: How Folia Made 1,000 Player Minecraft Server a Reality](https://cubxity.dev/blog/folia-test-june-2023)
 * [2023-06-27, 03:03:01](https://news.ycombinator.com/item?id=36488410) - [It’s Time To Subsidize E-bikes](https://clivethompson.medium.com/its-time-to-subsidize-e-bikes-900a862b8e76)
 * [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build Your Own Docker with Linux Namespaces, Cgroups, and Chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 * [2023-06-27, 02:00:58](https://news.ycombinator.com/item?id=36488127) - [Domain-Oriented Microservice Architecture (2020)](https://www.uber.com/blog/microservice-architecture/)
@@ -21,7 +22,6 @@
 * [2023-06-26, 13:57:58](https://news.ycombinator.com/item?id=36479716) - [Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
 * [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
 * [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every factorial approximates a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
-* [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text rendering hates you (2019)](https://faultlore.com/blah/text-hates-you/)
 * [2023-06-26, 12:29:04](https://news.ycombinator.com/item?id=36478854) - [Working with Docker Containers Made Easy with the Dexec Bash Script](https://spin.atomicobject.com/2023/06/26/dexec-docker/)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 09:15:09](https://news.ycombinator.com/item?id=36477481) - [Why Britain doesn’t build](https://worksinprogress.co/issue/why-britain-doesnt-build)

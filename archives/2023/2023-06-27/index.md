@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 03:13:53](https://news.ycombinator.com/item?id=36488461) - [Breaking the Limits: How Folia Made 1,000 Player Minecraft Server a Reality](https://cubxity.dev/blog/folia-test-june-2023)
 * [2023-06-27, 03:03:01](https://news.ycombinator.com/item?id=36488410) - [It’s Time To Subsidize E-bikes](https://clivethompson.medium.com/its-time-to-subsidize-e-bikes-900a862b8e76)
 * [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build Your Own Docker with Linux Namespaces, Cgroups, and Chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 * [2023-06-27, 02:00:58](https://news.ycombinator.com/item?id=36488127) - [Domain-Oriented Microservice Architecture (2020)](https://www.uber.com/blog/microservice-architecture/)
