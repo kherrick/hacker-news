@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 23:02:21](https://news.ycombinator.com/item?id=36499905) - [The Hidden Cost of Air Quality Monitors](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
 * [2023-06-27, 22:03:52](https://news.ycombinator.com/item?id=36499294) - [Rubio Says He’s Heard Shocking ‘Firsthand’ Accounts of UFOs](https://nymag.com/intelligencer/2023/06/rubio-says-hes-heard-shocking-first-hand-accounts-of-ufos.html)
 * [2023-06-27, 21:52:33](https://news.ycombinator.com/item?id=36499167) - [The forced return to the office is the definition of insanity](https://fortune.com/2023/06/26/forced-return-to-office-is-the-definition-of-insanity-remote-hybrid-work-careers-gleb-tsipursky/)
 * [2023-06-27, 21:45:48](https://news.ycombinator.com/item?id=36499102) - [Half of US wetlands lost federal protection. Their fate is up to the states](https://www.pilotonline.com/2023/06/19/half-the-nations-wetlands-just-lost-federal-protection-their-fate-is-up-to-the-states/)
