@@ -25,7 +25,7 @@
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:33:25](https://news.ycombinator.com/item?id=36493422) - [I Built Linux from Scratch](https://thesloth.me/posts/5/)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
-* [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
+* [2023-06-27, 12:46:01](https://news.ycombinator.com/item?id=36491975) - [Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing](https://github.com/billabear/billabear)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 * [2023-06-27, 11:15:28](https://news.ycombinator.com/item?id=36491338) - [Tinc, a GPLv2 mesh routing VPN](https://www.tinc-vpn.org/)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
