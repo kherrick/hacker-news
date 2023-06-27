@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a Ring Buffer for Throughput](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [2023-06-27, 04:01:10](https://news.ycombinator.com/item?id=36488735) - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 * [2023-06-27, 04:01:04](https://news.ycombinator.com/item?id=36488733) - [Cloud, Why So Difficult?](https://www.winglang.io/blog/2022/11/23/manifesto)
