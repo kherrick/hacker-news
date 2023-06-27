@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 * [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
 * [2023-06-27, 17:07:48](https://news.ycombinator.com/item?id=36495782) - [TSMC Expected to Charge $25,000 per 2nm Wafer](https://www.tomshardware.com/news/tsmc-expected-to-charge-25000usd-per-2nm-wafer)
 * [2023-06-27, 17:04:54](https://news.ycombinator.com/item?id=36495740) - [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
 * [2023-06-27, 17:00:31](https://news.ycombinator.com/item?id=36495680) - [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
 * [2023-06-27, 17:00:18](https://news.ycombinator.com/item?id=36495676) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
+* [2023-06-27, 17:00:05](https://news.ycombinator.com/item?id=36495667) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 * [2023-06-27, 16:33:45](https://news.ycombinator.com/item?id=36495191) - [Volvo Cars Adopts Tesla's NACS Port in the United States, Canada and Mexico](https://www.media.volvocars.com/global/en-gb/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can)
 * [2023-06-27, 16:25:42](https://news.ycombinator.com/item?id=36495059) - [The Wild (and Slightly Terrifying) Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
 * [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
