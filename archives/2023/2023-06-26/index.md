@@ -6,6 +6,7 @@
 
 * [2023-06-26, 22:53:21](https://news.ycombinator.com/item?id=36486940) - [Nathan: Language Lessons with an Extraordinary Ape](https://longreads.com/2023/05/09/nathan/)
 * [2023-06-26, 22:50:56](https://news.ycombinator.com/item?id=36486918) - [Learn Stimulus in Ruby on Rails by Building a Toggle)](https://railsnotes.xyz/blog/your-first-stimulus-controller-learn-stimulus-ruby-on-rails-by-building-a-toggle-beginners-guide)
+* [2023-06-26, 22:49:39](https://news.ycombinator.com/item?id=36486907) - [Undoing the Alhambra Decree](https://www.thedial.world/issue-5/spain-sephardic-ancestry-citizenship-program)
 * [2023-06-26, 22:03:59](https://news.ycombinator.com/item?id=36486512) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
 * [2023-06-26, 22:02:26](https://news.ycombinator.com/item?id=36486490) - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)

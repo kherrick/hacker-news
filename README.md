@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
+* [2023-06-27, 17:07:48](https://news.ycombinator.com/item?id=36495782) - [TSMC Expected to Charge $25,000 per 2nm Wafer](https://www.tomshardware.com/news/tsmc-expected-to-charge-25000usd-per-2nm-wafer)
+* [2023-06-27, 17:04:54](https://news.ycombinator.com/item?id=36495740) - [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
 * [2023-06-27, 17:00:31](https://news.ycombinator.com/item?id=36495680) - [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
 * [2023-06-27, 17:00:18](https://news.ycombinator.com/item?id=36495676) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
@@ -23,11 +26,8 @@
 * [2023-06-27, 07:19:37](https://news.ycombinator.com/item?id=36489847) - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 * [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 05:33:34](https://news.ycombinator.com/item?id=36489249) - [What Medieval Manuscripts Reveal About the Hidden History of Whales](https://www.smithsonianmag.com/science-nature/medieval-manuscripts-reveal-hidden-history-whales-180982348/)
-* [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
-* [2023-06-26, 22:53:21](https://news.ycombinator.com/item?id=36486940) - [Nathan: Language Lessons with an Extraordinary Ape](https://longreads.com/2023/05/09/nathan/)
+* [2023-06-26, 22:49:39](https://news.ycombinator.com/item?id=36486907) - [Undoing the Alhambra Decree](https://www.thedial.world/issue-5/spain-sephardic-ancestry-citizenship-program)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
-* [2023-06-26, 15:00:55](https://news.ycombinator.com/item?id=36480470) - [A simple guide to pessimistic locking in Rails](https://www.visuality.pl/posts/a-simple-guide-to-pessimistic-locking-in-rails)
-* [2023-06-26, 12:21:23](https://news.ycombinator.com/item?id=36478772) - [The best place to drink is the emptiest bar in the city](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
 * [2023-06-26, 04:51:43](https://news.ycombinator.com/item?id=36475846) - [Bloomsday: The library’s one-of-a-kind copy of “Ulysses”](https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/)
 * [2023-06-25, 15:20:13](https://news.ycombinator.com/item?id=36469147) - [Monitoring Is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
