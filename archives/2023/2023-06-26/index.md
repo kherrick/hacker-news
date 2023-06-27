@@ -54,6 +54,7 @@
 * [2023-06-26, 13:17:16](https://news.ycombinator.com/item?id=36479317) - [On Sociopaths and Progress](https://www.zdziarski.com/blog/?p=12298)
 * [2023-06-26, 12:32:55](https://news.ycombinator.com/item?id=36478892) - [Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)
 * [2023-06-26, 12:29:04](https://news.ycombinator.com/item?id=36478854) - [Working with Docker Containers Made Easy with the Dexec Bash Script](https://spin.atomicobject.com/2023/06/26/dexec-docker/)
+* [2023-06-26, 12:21:23](https://news.ycombinator.com/item?id=36478772) - [The Best Place to Drink Is the Emptiest Bar in the City](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
 * [2023-06-26, 12:18:04](https://news.ycombinator.com/item?id=36478734) - [Databricks Strikes $1.3B Deal for Generative AI Startup MosaicML](https://www.wsj.com/articles/databricks-strikes-1-3-billion-deal-for-generative-ai-startup-mosaicml-fdcefc06)
 * [2023-06-26, 11:54:08](https://news.ycombinator.com/item?id=36478528) - [Devtools for Mobile Browsers](https://eruda.liriliri.io/)
 * [2023-06-26, 11:47:46](https://news.ycombinator.com/item?id=36478487) - [Ayb: A multi-tenant database that helps you own your data](https://blog.marcua.net/2023/06/25/ayb-a-multi-tenant-database-that-helps-you-own-your-data.html)
