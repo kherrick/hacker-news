@@ -13,3 +13,4 @@
 * [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build Your Own Docker with Linux Namespaces, Cgroups, and Chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 * [2023-06-27, 02:00:58](https://news.ycombinator.com/item?id=36488127) - [Domain-Oriented Microservice Architecture (2020)](https://www.uber.com/blog/microservice-architecture/)
 * [2023-06-27, 01:14:01](https://news.ycombinator.com/item?id=36487883) - [OPNsense a true open-source security platform and more](https://opnsense.org/)
+* [2023-06-27, 00:18:19](https://news.ycombinator.com/item?id=36487574) - [Detect Food Adulteration with Easy Home Tests](https://eatrightindia.gov.in/dart/)
