@@ -2,7 +2,6 @@
 
 * [2023-06-27, 04:01:04](https://news.ycombinator.com/item?id=36488733) - [Cloud, Why So Difficult?](https://www.winglang.io/blog/2022/11/23/manifesto)
 * [2023-06-27, 03:13:53](https://news.ycombinator.com/item?id=36488461) - [Breaking the Limits: How Folia Made 1,000 Player Minecraft Server a Reality](https://cubxity.dev/blog/folia-test-june-2023)
-* [2023-06-27, 03:03:01](https://news.ycombinator.com/item?id=36488410) - [Time to subsidize e-bikes?](https://clivethompson.medium.com/its-time-to-subsidize-e-bikes-900a862b8e76)
 * [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 * [2023-06-27, 02:00:58](https://news.ycombinator.com/item?id=36488127) - [Domain-Oriented Microservice Architecture (2020)](https://www.uber.com/blog/microservice-architecture/)
 * [2023-06-27, 01:14:01](https://news.ycombinator.com/item?id=36487883) - [OPNsense: Open-source security platform](https://opnsense.org/)
@@ -13,6 +12,7 @@
 * [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
 * [2023-06-26, 17:00:47](https://news.ycombinator.com/item?id=36482486) - [Two Dots (YC S22) is hiring a senior engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 * [2023-06-26, 16:12:22](https://news.ycombinator.com/item?id=36481693) - [Turmeric’s unexpected link to lead poisoning in Bangladesh](https://stanmed.stanford.edu/turmeric-lead-risk-detect/)
+* [2023-06-26, 16:07:39](https://news.ycombinator.com/item?id=36481627) - [Ancient Maya city was hidden in the jungle for more than 1k years](https://www.smithsonianmag.com/smart-news/this-ancient-maya-city-was-hidden-in-the-jungle-for-over-1000-years-180982427/)
 * [2023-06-26, 15:57:13](https://news.ycombinator.com/item?id=36481470) - [Why use OpenID Connect instead of plain OAuth2?](https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2/260519#260519)
 * [2023-06-26, 15:43:54](https://news.ycombinator.com/item?id=36481263) - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
