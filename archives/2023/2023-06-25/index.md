@@ -79,6 +79,7 @@
 * [2023-06-25, 11:34:27](https://news.ycombinator.com/item?id=36467135) - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
 * [2023-06-25, 11:14:21](https://news.ycombinator.com/item?id=36467000) - [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)
+* [2023-06-25, 11:13:16](https://news.ycombinator.com/item?id=36466996) - [Happiness is a reward from our ancestors](https://woodfromeden.substack.com/p/happiness-is-a-reward-from-our-ancestors)
 * [2023-06-25, 11:08:31](https://news.ycombinator.com/item?id=36466958) - [Everything You Never Wanted to Know About CMake (Redux)](https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/)
 * [2023-06-25, 10:29:39](https://news.ycombinator.com/item?id=36466728) - [Son Doong Cave Is So Big It Has Its Own Rainforest (2019)](https://www.discovery.com/exploration/Son-Doong-Cave)
 * [2023-06-25, 10:25:56](https://news.ycombinator.com/item?id=36466698) - [Upload a Godot HTML5 Game to Itch.io with GitHub Actions](https://simondalvai.com/blog/godot-itchio-upload/)
