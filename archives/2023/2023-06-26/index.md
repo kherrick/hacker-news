@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-26](index.md)
 
+* [2023-06-26, 22:53:21](https://news.ycombinator.com/item?id=36486940) - [Nathan: Language Lessons with an Extraordinary Ape](https://longreads.com/2023/05/09/nathan/)
 * [2023-06-26, 22:50:56](https://news.ycombinator.com/item?id=36486918) - [Learn Stimulus in Ruby on Rails by Building a Toggle)](https://railsnotes.xyz/blog/your-first-stimulus-controller-learn-stimulus-ruby-on-rails-by-building-a-toggle-beginners-guide)
 * [2023-06-26, 22:03:59](https://news.ycombinator.com/item?id=36486512) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
 * [2023-06-26, 22:02:26](https://news.ycombinator.com/item?id=36486490) - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)

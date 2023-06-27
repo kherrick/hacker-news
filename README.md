@@ -24,7 +24,7 @@
 * [2023-06-27, 07:19:37](https://news.ycombinator.com/item?id=36489847) - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 * [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 05:33:34](https://news.ycombinator.com/item?id=36489249) - [What Medieval Manuscripts Reveal About the Hidden History of Whales](https://www.smithsonianmag.com/science-nature/medieval-manuscripts-reveal-hidden-history-whales-180982348/)
-* [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
+* [2023-06-26, 22:53:21](https://news.ycombinator.com/item?id=36486940) - [Nathan: Language Lessons with an Extraordinary Ape](https://longreads.com/2023/05/09/nathan/)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
 * [2023-06-26, 15:00:55](https://news.ycombinator.com/item?id=36480470) - [A simple guide to pessimistic locking in Rails](https://www.visuality.pl/posts/a-simple-guide-to-pessimistic-locking-in-rails)
 * [2023-06-26, 12:21:23](https://news.ycombinator.com/item?id=36478772) - [The best place to drink is the emptiest bar in the city](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
