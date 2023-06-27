@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
+* [2023-06-27, 13:20:38](https://news.ycombinator.com/item?id=36492317) - [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
+* [2023-06-27, 13:19:42](https://news.ycombinator.com/item?id=36492305) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/?ck_subscriber_id=512838448)
 * [2023-06-27, 13:11:05](https://news.ycombinator.com/item?id=36492201) - [Profits are driving inflation. When will politicians and the BoE admit it?](https://www.taxresearch.org.uk/Blog/)
 * [2023-06-27, 12:51:12](https://news.ycombinator.com/item?id=36492033) - [A Syntax for Self-Tracking (2020)](https://www.gibney.org/a_syntax_for_self-tracking)
 * [2023-06-27, 12:49:26](https://news.ycombinator.com/item?id=36492011) - [Google asks websites to kindly not break its shiny new targeted-advertising API](https://www.theregister.com/2023/06/27/google_tweaks_topics_api_ahead/)
 * [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
+* [2023-06-27, 12:46:01](https://news.ycombinator.com/item?id=36491975) - [Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing](https://github.com/billabear/billabear)
 * [2023-06-27, 12:13:43](https://news.ycombinator.com/item?id=36491735) - [It's weird that people get mocked for changing their minds](https://twitter.com/paulg/status/1673622294227308546)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 * [2023-06-27, 12:04:48](https://news.ycombinator.com/item?id=36491677) - [Ninth Dedekind number discovered: long-known problem in mathematics solved](https://phys.org/news/2023-06-ninth-dedekind-scientists-long-known-problem.html)
