@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-27, 18:43:47",
+      "https://news.ycombinator.com/item?id=36497019"
+    ],
+    [
+      "Show HN: Flux Copilot – Generative AI for hardware design",
+      "https://www.flux.ai/p/blog/generative-ai-for-hardware-design"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 18:10:38",
       "https://news.ycombinator.com/item?id=36496583"
     ],
@@ -27,6 +37,16 @@
     [
       "OpenRC is a dependency-based init system for Unix-like systems",
       "https://wiki.gentoo.org/wiki/OpenRC"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 17:17:37",
+      "https://news.ycombinator.com/item?id=36495931"
+    ],
+    [
+      "InfluxDB 3.0 System Architecture",
+      "https://www.influxdata.com/blog/influxdb-3-0-system-architecture/"
     ]
   ],
   [
@@ -81,6 +101,16 @@
   ],
   [
     [
+      "2023-06-27, 16:43:12",
+      "https://news.ycombinator.com/item?id=36495335"
+    ],
+    [
+      "Patterns of Distributed Systems",
+      "https://martinfowler.com/articles/patterns-of-distributed-systems/"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 16:19:58",
       "https://news.ycombinator.com/item?id=36494966"
     ],
@@ -121,12 +151,12 @@
   ],
   [
     [
-      "2023-06-27, 14:57:20",
-      "https://news.ycombinator.com/item?id=36493821"
+      "2023-06-27, 15:13:38",
+      "https://news.ycombinator.com/item?id=36494046"
     ],
     [
-      "AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation",
-      "https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc"
+      "The future of AI according to thousands of forecasters",
+      "https://www.metaculus.com/ai/"
     ]
   ],
   [
@@ -231,26 +261,6 @@
   ],
   [
     [
-      "2023-06-27, 07:19:37",
-      "https://news.ycombinator.com/item?id=36489847"
-    ],
-    [
-      "Wolfi: A community Linux OS designed for the container and cloud-native era",
-      "https://github.com/wolfi-dev"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 05:33:34",
-      "https://news.ycombinator.com/item?id=36489249"
-    ],
-    [
-      "What Medieval Manuscripts Reveal About the Hidden History of Whales",
-      "https://www.smithsonianmag.com/science-nature/medieval-manuscripts-reveal-hidden-history-whales-180982348/"
-    ]
-  ],
-  [
-    [
       "2023-06-26, 22:54:34",
       "https://news.ycombinator.com/item?id=36486948"
     ],
@@ -277,16 +287,6 @@
     [
       "A one-person oral history of Geocities HTML Chat (2022)",
       "https://cohost.org/mcc/post/325362-a-one-person-oral-hi"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 04:51:43",
-      "https://news.ycombinator.com/item?id=36475846"
-    ],
-    [
-      "Bloomsday: The library’s one-of-a-kind copy of “Ulysses”",
-      "https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/"
     ]
   ],
   [
