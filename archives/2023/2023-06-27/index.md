@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 * [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
 * [2023-06-27, 17:07:48](https://news.ycombinator.com/item?id=36495782) - [TSMC Expected to Charge $25,000 per 2nm Wafer](https://www.tomshardware.com/news/tsmc-expected-to-charge-25000usd-per-2nm-wafer)
