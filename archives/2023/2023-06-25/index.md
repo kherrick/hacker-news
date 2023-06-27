@@ -75,6 +75,7 @@
 * [2023-06-25, 12:15:21](https://news.ycombinator.com/item?id=36467400) - [LastPass users locked out (again) with infinite 2FA loop](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
 * [2023-06-25, 11:50:01](https://news.ycombinator.com/item?id=36467236) - [Btop++: Resource monitor for processor, memory, disks, network and processes](https://github.com/aristocratos/btop)
 * [2023-06-25, 11:48:36](https://news.ycombinator.com/item?id=36467224) - [The 'Fuck You' Pattern](https://cedwards.xyz/the-fuck-you-pattern/)
+* [2023-06-25, 11:41:45](https://news.ycombinator.com/item?id=36467187) - [Vector ALU Patterns](https://moonbaseotago.github.io/2023/06/19/vector-patterns.html)
 * [2023-06-25, 11:34:27](https://news.ycombinator.com/item?id=36467135) - [Delhi man gets AliExpress order after four years](https://indianexpress.com/article/trending/trending-in-india/delhi-man-gets-aliexpress-order-after-four-years-8684225/)
 * [2023-06-25, 11:20:07](https://news.ycombinator.com/item?id=36467043) - [Air Quality Reporting on iOS](https://intergalactic.systems/posts/post-1965946732.html)
 * [2023-06-25, 11:14:21](https://news.ycombinator.com/item?id=36467000) - [Office real estate crash will be so sharp, values unlikely to recover by 2040](https://fortune.com/2023/06/23/commercial-real-estate-crash-office-values-unlikely-to-recover-by-2040-says-capital-economics/)

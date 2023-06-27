@@ -9,6 +9,7 @@
 * [2023-06-26, 18:10:23](https://news.ycombinator.com/item?id=36483445) - [P1030680: Unbroken Enigma message (U534, 01 May 1945)](https://enigma.hoerenberg.com/index.php?cat=Unbroken&page=P1030680)
 * [2023-06-26, 17:00:47](https://news.ycombinator.com/item?id=36482486) - [Two Dots (YC S22) is hiring a senior engineer](https://www.ycombinator.com/companies/two-dots/jobs/jjpjJeY-software-engineer)
 * [2023-06-26, 16:12:22](https://news.ycombinator.com/item?id=36481693) - [Turmeric’s unexpected link to lead poisoning in Bangladesh](https://stanmed.stanford.edu/turmeric-lead-risk-detect/)
+* [2023-06-26, 16:07:39](https://news.ycombinator.com/item?id=36481627) - [Ancient Maya city was hidden in the jungle for more than 1k years](https://www.smithsonianmag.com/smart-news/this-ancient-maya-city-was-hidden-in-the-jungle-for-over-1000-years-180982427/)
 * [2023-06-26, 15:57:13](https://news.ycombinator.com/item?id=36481470) - [Why use OpenID Connect instead of plain OAuth2?](https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2/260519#260519)
 * [2023-06-26, 15:43:54](https://news.ycombinator.com/item?id=36481263) - [Arduino Uno R4 WiFi](https://store.arduino.cc/products/uno-r4-wifi)
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
@@ -27,9 +28,8 @@
 * [2023-06-25, 20:00:21](https://news.ycombinator.com/item?id=36471999) - [A brief, incomplete, and mostly wrong history of programming languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [2023-06-25, 13:52:58](https://news.ycombinator.com/item?id=36468193) - [Fanon versus Canon](http://www.whitehound.co.uk/Fanfic/fanonvscanon.htm)
 * [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like diffusion but faster: The Paella model for fast image generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
-* [2023-06-25, 06:10:35](https://news.ycombinator.com/item?id=36465493) - [Argos Catalogue Kettle Pages, 1976/1985 (2017)](https://wearethemutants.com/2017/08/01/argos-catalogue-kettle-pages-19761985/)
+* [2023-06-25, 11:41:45](https://news.ycombinator.com/item?id=36467187) - [Vector ALU Patterns](https://moonbaseotago.github.io/2023/06/19/vector-patterns.html)
 * [2023-06-24, 08:18:20](https://news.ycombinator.com/item?id=36456662) - [Bolwoningen: Living in spherical homes](https://parametric-architecture.com/bolwoningen-living-in-spherical-homes/)
-* [2023-06-24, 08:05:19](https://news.ycombinator.com/item?id=36456600) - [From Lunar Phases to Yank-Pop](https://susam.net/maze/from-lunar-phases-to-yank-pop.html)
 
 ## [Archives](archives/index.md)
 
