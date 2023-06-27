@@ -21,7 +21,6 @@
 * [2023-06-26, 14:21:33](https://news.ycombinator.com/item?id=36479974) - [Oregon finally legalizes pumping your own gas](https://www.thedrive.com/news/oregon-finally-legalizes-pumping-your-own-gas-after-72-years)
 * [2023-06-26, 13:57:58](https://news.ycombinator.com/item?id=36479716) - [Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
 * [2023-06-26, 13:30:23](https://news.ycombinator.com/item?id=36479440) - [Android’s emergency call shortcut is flooding dispatchers with false calls](https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/)
-* [2023-06-26, 13:24:53](https://news.ycombinator.com/item?id=36479387) - [Every factorial approximates a power](https://www.johndcook.com/blog/2023/06/23/every-factorial-is-a-power/)
 * [2023-06-26, 12:29:04](https://news.ycombinator.com/item?id=36478854) - [Working with Docker Containers Made Easy with the Dexec Bash Script](https://spin.atomicobject.com/2023/06/26/dexec-docker/)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 09:15:09](https://news.ycombinator.com/item?id=36477481) - [Why Britain doesn’t build](https://worksinprogress.co/issue/why-britain-doesnt-build)
@@ -29,6 +28,7 @@
 * [2023-06-25, 20:00:21](https://news.ycombinator.com/item?id=36471999) - [A brief, incomplete, and mostly wrong history of programming languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [2023-06-25, 15:15:38](https://news.ycombinator.com/item?id=36469086) - [4D Toys Update 8: Rotating the 3D Slice, 2D Faces Projections, Marble Scenes](https://marctenbosch.com/news/2023/03/4d-toys-update-v-1-8-rotating-the-3d-slice-2d-faces-projections-marble-scenes-and-many-more/)
 * [2023-06-25, 13:10:30](https://news.ycombinator.com/item?id=36467855) - [Like diffusion but faster: The Paella model for fast image generation](https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/)
+* [2023-06-25, 11:41:45](https://news.ycombinator.com/item?id=36467187) - [Vector ALU Patterns](https://moonbaseotago.github.io/2023/06/19/vector-patterns.html)
 * [2023-06-25, 11:13:16](https://news.ycombinator.com/item?id=36466996) - [Happiness is a reward from our ancestors](https://woodfromeden.substack.com/p/happiness-is-a-reward-from-our-ancestors)
 
 ## [Archives](archives/index.md)
