@@ -21,7 +21,7 @@
 * [2023-06-26, 15:00:11](https://news.ycombinator.com/item?id=36480460) - [Why a browser and mail combination is worth it](https://vivaldi.com/blog/how-to/5-reasons-why-a-browser-and-mail-combination-is-worth-it/)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
 * [2023-06-26, 14:39:03](https://news.ycombinator.com/item?id=36480200) - [Unexpected Interaction of Features](http://www.solipsys.co.uk/new/UnexpectedInteractionOfFeatures.html?wf26hn)
-* [2023-06-26, 12:29:04](https://news.ycombinator.com/item?id=36478854) - [Working with Docker Containers Made Easy with the Dexec Bash Script](https://spin.atomicobject.com/2023/06/26/dexec-docker/)
+* [2023-06-26, 12:29:04](https://news.ycombinator.com/item?id=36478854) - [Working with Docker containers with the dexec bash script](https://spin.atomicobject.com/2023/06/26/dexec-docker/)
 * [2023-06-26, 12:21:23](https://news.ycombinator.com/item?id=36478772) - [The best place to drink is the emptiest bar in the city](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)
 * [2023-06-26, 04:34:21](https://news.ycombinator.com/item?id=36475755) - [How to steal a masterpiece: Advice from the world’s greatest art thief](https://time.com/6286931/how-to-steal-a-masterpiece-advice-from-the-worlds-greatest-art-thief/)
