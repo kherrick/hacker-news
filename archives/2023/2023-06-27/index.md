@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 21:34:36](https://news.ycombinator.com/item?id=36498978) - [Ford to lay off workers as it focuses on electric vehicles](https://www.cnn.com/2023/06/27/business/ford-layoffs/index.html)
 * [2023-06-27, 21:01:30](https://news.ycombinator.com/item?id=36498605) - [Sam Bankman-Fried fails to dismiss criminal charges related to FTX](https://www.ft.com/content/935ec2fc-ce52-424c-a615-a7d49c26c397)
 * [2023-06-27, 21:00:36](https://news.ycombinator.com/item?id=36498592) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-06-27, 20:53:45](https://news.ycombinator.com/item?id=36498484) - [Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
