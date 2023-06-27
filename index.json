@@ -91,12 +91,32 @@
   ],
   [
     [
+      "2023-06-26, 22:02:26",
+      "https://news.ycombinator.com/item?id=36486490"
+    ],
+    [
+      "Through a Glass Darkly",
+      "https://asteriskmag.com/issues/03/through-a-glass-darkly"
+    ]
+  ],
+  [
+    [
       "2023-06-26, 20:45:47",
       "https://news.ycombinator.com/item?id=36485597"
     ],
     [
       "Discovering that a Bluetooth car battery monitor is siphoning location data",
       "https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 19:54:11",
+      "https://news.ycombinator.com/item?id=36484932"
+    ],
+    [
+      "Exposing Floating Point (2019)",
+      "https://ciechanow.ski/exposing-floating-point/"
     ]
   ],
   [
@@ -147,26 +167,6 @@
     [
       "Turmeric’s unexpected link to lead poisoning in Bangladesh",
       "https://stanmed.stanford.edu/turmeric-lead-risk-detect/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 16:07:39",
-      "https://news.ycombinator.com/item?id=36481627"
-    ],
-    [
-      "Ancient Maya city was hidden in the jungle for more than 1k years",
-      "https://www.smithsonianmag.com/smart-news/this-ancient-maya-city-was-hidden-in-the-jungle-for-over-1000-years-180982427/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 15:57:13",
-      "https://news.ycombinator.com/item?id=36481470"
-    ],
-    [
-      "Why use OpenID Connect instead of plain OAuth2?",
-      "https://security.stackexchange.com/questions/37818/why-use-openid-connect-instead-of-plain-oauth2/260519#260519"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-06-26, 09:15:09",
-      "https://news.ycombinator.com/item?id=36477481"
-    ],
-    [
-      "Why Britain doesn’t build",
-      "https://worksinprogress.co/issue/why-britain-doesnt-build"
-    ]
-  ],
-  [
-    [
       "2023-06-26, 04:34:21",
       "https://news.ycombinator.com/item?id=36475755"
     ],
@@ -297,6 +287,16 @@
     [
       "Vector ALU Patterns",
       "https://moonbaseotago.github.io/2023/06/19/vector-patterns.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-24, 08:18:20",
+      "https://news.ycombinator.com/item?id=36456662"
+    ],
+    [
+      "Bolwoningen: Living in spherical homes",
+      "https://parametric-architecture.com/bolwoningen-living-in-spherical-homes/"
     ]
   ]
 ]
