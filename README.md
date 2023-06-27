@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-27, 19:01:40](https://news.ycombinator.com/item?id=36497240) - [Sharing the seed deck we used to raise $6M from David Sacks at Craft Ventures](https://wraptext.equals.com/equals-seed-deck/)
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
 * [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
@@ -29,6 +28,7 @@
 * [2023-06-26, 22:54:34](https://news.ycombinator.com/item?id=36486948) - [Ernst Jünger’s Narratives of Complicity](https://www.newyorker.com/magazine/2023/07/03/on-the-marble-cliffs-ernst-junger-book-review)
 * [2023-06-26, 22:49:39](https://news.ycombinator.com/item?id=36486907) - [Undoing the Alhambra Decree](https://www.thedial.world/issue-5/spain-sephardic-ancestry-citizenship-program)
 * [2023-06-26, 21:28:44](https://news.ycombinator.com/item?id=36486109) - [A one-person oral history of Geocities HTML Chat (2022)](https://cohost.org/mcc/post/325362-a-one-person-oral-hi)
+* [2023-06-26, 04:51:43](https://news.ycombinator.com/item?id=36475846) - [Bloomsday: The library’s one-of-a-kind copy of “Ulysses”](https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/)
 * [2023-06-25, 15:20:13](https://news.ycombinator.com/item?id=36469147) - [Monitoring Is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
 
 ## [Archives](archives/index.md)
