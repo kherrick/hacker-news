@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a Ring Buffer for Throughput](https://rigtorp.se/ringbuffer/)
+* [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [2023-06-27, 04:01:10](https://news.ycombinator.com/item?id=36488735) - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 * [2023-06-27, 03:13:53](https://news.ycombinator.com/item?id=36488461) - [Testing a 1,000 player Minecraft server with Folia](https://cubxity.dev/blog/folia-test-june-2023)
