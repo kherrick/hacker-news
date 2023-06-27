@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [2023-06-27, 04:01:04](https://news.ycombinator.com/item?id=36488733) - [Cloud, Why So Difficult?](https://www.winglang.io/blog/2022/11/23/manifesto)
 * [2023-06-27, 03:13:53](https://news.ycombinator.com/item?id=36488461) - [Breaking the Limits: How Folia Made 1,000 Player Minecraft Server a Reality](https://cubxity.dev/blog/folia-test-june-2023)
 * [2023-06-27, 03:03:01](https://news.ycombinator.com/item?id=36488410) - [It’s Time To Subsidize E-bikes](https://clivethompson.medium.com/its-time-to-subsidize-e-bikes-900a862b8e76)
