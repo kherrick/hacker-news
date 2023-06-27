@@ -1,12 +1,42 @@
 [
   [
     [
-      "2023-06-27, 12:13:43",
-      "https://news.ycombinator.com/item?id=36491735"
+      "2023-06-27, 13:11:05",
+      "https://news.ycombinator.com/item?id=36492201"
     ],
     [
-      "It's weird that people get mocked for changing their minds",
-      "https://twitter.com/paulg/status/1673622294227308546"
+      "Profits are driving inflation. When will politicians and the BoE admit it?",
+      "https://www.taxresearch.org.uk/Blog/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 12:51:12",
+      "https://news.ycombinator.com/item?id=36492033"
+    ],
+    [
+      "A Syntax for Self-Tracking (2020)",
+      "https://www.gibney.org/a_syntax_for_self-tracking"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 12:49:26",
+      "https://news.ycombinator.com/item?id=36492011"
+    ],
+    [
+      "Google asks websites to kindly not break its shiny new targeted-advertising API",
+      "https://www.theregister.com/2023/06/27/google_tweaks_topics_api_ahead/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 12:49:17",
+      "https://news.ycombinator.com/item?id=36492010"
+    ],
+    [
+      "FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans",
+      "https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans"
     ]
   ],
   [
@@ -47,6 +77,16 @@
     [
       "The Deep Sea (2019)",
       "https://neal.fun/deep-sea/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 11:15:28",
+      "https://news.ycombinator.com/item?id=36491338"
+    ],
+    [
+      "Tinc, a GPLv2 mesh routing VPN",
+      "https://www.tinc-vpn.org/"
     ]
   ],
   [
@@ -107,16 +147,6 @@
     [
       "Build your own Docker with Linux namespaces, cgroups, and chroot",
       "https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 01:14:01",
-      "https://news.ycombinator.com/item?id=36487883"
-    ],
-    [
-      "OPNsense: Open-source security platform",
-      "https://opnsense.org/"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2023-06-26, 04:34:21",
-      "https://news.ycombinator.com/item?id=36475755"
-    ],
-    [
-      "How to steal a masterpiece: Advice from the world’s greatest art thief",
-      "https://time.com/6286931/how-to-steal-a-masterpiece-advice-from-the-worlds-greatest-art-thief/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 02:36:51",
-      "https://news.ycombinator.com/item?id=36475083"
-    ],
-    [
-      "Things That Count",
-      "http://meta-studies.net/pmwiki/pmwiki.php?n=Site.Introduction"
-    ]
-  ],
-  [
-    [
       "2023-06-25, 15:15:38",
       "https://news.ycombinator.com/item?id=36469086"
     ],
     [
       "4D Toys Update 8: Rotating the 3D Slice, 2D Faces Projections, Marble Scenes",
       "https://marctenbosch.com/news/2023/03/4d-toys-update-v-1-8-rotating-the-3d-slice-2d-faces-projections-marble-scenes-and-many-more/"
-    ]
-  ],
-  [
-    [
-      "2023-06-24, 08:18:20",
-      "https://news.ycombinator.com/item?id=36456662"
-    ],
-    [
-      "Bolwoningen: Living in spherical homes",
-      "https://parametric-architecture.com/bolwoningen-living-in-spherical-homes/"
     ]
   ]
 ]
