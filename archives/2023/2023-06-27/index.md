@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
 * [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 * [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
+* [2023-06-27, 17:17:37](https://news.ycombinator.com/item?id=36495931) - [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
 * [2023-06-27, 17:07:48](https://news.ycombinator.com/item?id=36495782) - [TSMC Expected to Charge $25,000 per 2nm Wafer](https://www.tomshardware.com/news/tsmc-expected-to-charge-25000usd-per-2nm-wafer)
 * [2023-06-27, 17:04:54](https://news.ycombinator.com/item?id=36495740) - [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
 * [2023-06-27, 17:00:31](https://news.ycombinator.com/item?id=36495680) - [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
@@ -21,6 +23,7 @@
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
 * [2023-06-27, 15:32:26](https://news.ycombinator.com/item?id=36494334) - [Intermittent fasting is as effective as counting calories, new study finds](https://www.npr.org/sections/health-shots/2023/06/26/1184390543/intermittent-fasting-effective-weight-loss)
 * [2023-06-27, 15:30:47](https://news.ycombinator.com/item?id=36494308) - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
+* [2023-06-27, 15:13:38](https://news.ycombinator.com/item?id=36494046) - [The future of AI according to thousands of forecasters](https://www.metaculus.com/ai/)
 * [2023-06-27, 15:04:12](https://news.ycombinator.com/item?id=36493907) - [Ask HN: Why Delaware and Not Dubai?](https://news.ycombinator.com/item?id=36493907)
 * [2023-06-27, 14:57:20](https://news.ycombinator.com/item?id=36493821) - [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
