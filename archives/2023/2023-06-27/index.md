@@ -4,11 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 13:11:05](https://news.ycombinator.com/item?id=36492201) - [Profits are driving inflation. When will politicians and the BoE admit it?](https://www.taxresearch.org.uk/Blog/)
+* [2023-06-27, 12:51:12](https://news.ycombinator.com/item?id=36492033) - [A Syntax for Self-Tracking (2020)](https://www.gibney.org/a_syntax_for_self-tracking)
+* [2023-06-27, 12:49:26](https://news.ycombinator.com/item?id=36492011) - [Google asks websites to kindly not break its shiny new targeted-advertising API](https://www.theregister.com/2023/06/27/google_tweaks_topics_api_ahead/)
+* [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
 * [2023-06-27, 12:13:43](https://news.ycombinator.com/item?id=36491735) - [It's weird that people get mocked for changing their minds](https://twitter.com/paulg/status/1673622294227308546)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 * [2023-06-27, 12:04:48](https://news.ycombinator.com/item?id=36491677) - [Ninth Dedekind number discovered: long-known problem in mathematics solved](https://phys.org/news/2023-06-ninth-dedekind-scientists-long-known-problem.html)
 * [2023-06-27, 12:01:08](https://news.ycombinator.com/item?id=36491647) - [Text Blaze (YC W21) Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies](https://news.ycombinator.com/item?id=36491647)
 * [2023-06-27, 11:39:56](https://news.ycombinator.com/item?id=36491514) - [The Deep Sea](https://neal.fun/deep-sea/)
+* [2023-06-27, 11:15:28](https://news.ycombinator.com/item?id=36491338) - [Tinc, a GPLv2 mesh routing VPN](https://www.tinc-vpn.org/)
 * [2023-06-27, 10:30:14](https://news.ycombinator.com/item?id=36491079) - [How to Imagine 52 Factorial](https://boingboing.net/2017/03/02/how-to-imagine-52-factorial.html)
 * [2023-06-27, 09:37:37](https://news.ycombinator.com/item?id=36490784) - [How Network Processors Work](https://barrgroup.com/embedded-systems/how-to/network-processors)
 * [2023-06-27, 08:21:10](https://news.ycombinator.com/item?id=36490283) - [U.S. pedestrian deaths reach a 40-year high](https://www.npr.org/2023/06/26/1184034017/us-pedestrian-deaths-high-traffic-car)
