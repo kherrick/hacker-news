@@ -20,7 +20,7 @@
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:00:11](https://news.ycombinator.com/item?id=36480460) - [Why a browser and mail combination is worth it](https://vivaldi.com/blog/how-to/5-reasons-why-a-browser-and-mail-combination-is-worth-it/)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
-* [2023-06-26, 13:57:58](https://news.ycombinator.com/item?id=36479716) - [Lasers enable satellite internet backbone, might remove need for deep-sea cables](https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html)
+* [2023-06-26, 14:39:03](https://news.ycombinator.com/item?id=36480200) - [Unexpected Interaction of Features](http://www.solipsys.co.uk/new/UnexpectedInteractionOfFeatures.html?wf26hn)
 * [2023-06-26, 12:29:04](https://news.ycombinator.com/item?id=36478854) - [Working with Docker Containers Made Easy with the Dexec Bash Script](https://spin.atomicobject.com/2023/06/26/dexec-docker/)
 * [2023-06-26, 12:21:23](https://news.ycombinator.com/item?id=36478772) - [The best place to drink is the emptiest bar in the city](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
 * [2023-06-26, 11:13:03](https://news.ycombinator.com/item?id=36478206) - [Google has a secret browser hidden inside the settings](https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/)

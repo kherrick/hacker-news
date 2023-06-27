@@ -39,6 +39,7 @@
 * [2023-06-26, 15:00:11](https://news.ycombinator.com/item?id=36480460) - [Why a browser and mail combination is worth it](https://vivaldi.com/blog/how-to/5-reasons-why-a-browser-and-mail-combination-is-worth-it/)
 * [2023-06-26, 14:57:17](https://news.ycombinator.com/item?id=36480424) - [An Open Letter to Vitalik Buterin about MIRI/LessWrong](https://fredwynne.medium.com/an-open-letter-to-vitalik-buterin-ce4681a7dbe)
 * [2023-06-26, 14:41:47](https://news.ycombinator.com/item?id=36480230) - [Launch HN: Argonaut (YC S21) – Easily Deploy Apps and Infra to AWS and GCP](https://news.ycombinator.com/item?id=36480230)
+* [2023-06-26, 14:39:03](https://news.ycombinator.com/item?id=36480200) - [Unexpected Interaction of Features](http://www.solipsys.co.uk/new/UnexpectedInteractionOfFeatures.html?wf26hn)
 * [2023-06-26, 14:33:45](https://news.ycombinator.com/item?id=36480122) - [U.S. pedestrian deaths reach a 40-year high](https://text.npr.org/1184034017)
 * [2023-06-26, 14:24:55](https://news.ycombinator.com/item?id=36480007) - [Apple to Remove Nostr Damus from App Store for Bitcoin Tipping Feature](https://twitter.com/damusapp/status/1673326463297392640)
 * [2023-06-26, 14:21:42](https://news.ycombinator.com/item?id=36479976) - [Authlib: Python Authentication](https://docs.authlib.org/en/latest/index.html)
