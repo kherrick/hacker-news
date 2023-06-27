@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-27, 03:03:01](https://news.ycombinator.com/item?id=36488410) - [It’s Time To Subsidize E-bikes](https://clivethompson.medium.com/its-time-to-subsidize-e-bikes-900a862b8e76)
+* [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build Your Own Docker with Linux Namespaces, Cgroups, and Chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 * [2023-06-27, 02:00:58](https://news.ycombinator.com/item?id=36488127) - [Domain-Oriented Microservice Architecture (2020)](https://www.uber.com/blog/microservice-architecture/)
 * [2023-06-27, 01:14:01](https://news.ycombinator.com/item?id=36487883) - [OPNsense a true open-source security platform and more](https://opnsense.org/)
 * [2023-06-26, 22:03:59](https://news.ycombinator.com/item?id=36486512) - [Modern TLS/SSL on 16-bit Windows](https://www.dialup.net/wingpt/tls.html)
-* [2023-06-26, 22:02:26](https://news.ycombinator.com/item?id=36486490) - [Through a Glass Darkly](https://asteriskmag.com/issues/03/through-a-glass-darkly)
 * [2023-06-26, 20:45:47](https://news.ycombinator.com/item?id=36485597) - [Discovering that a Bluetooth car battery monitor is siphoning location data](https://doubleagent.net/2023/05/21/a-car-battery-monitor-tracking-your-location)
 * [2023-06-26, 19:54:11](https://news.ycombinator.com/item?id=36484932) - [Exposing Floating Point (2019)](https://ciechanow.ski/exposing-floating-point/)
 * [2023-06-26, 19:32:38](https://news.ycombinator.com/item?id=36484609) - [The Magic Nix Cache, a GitHub Action for speeding up your Nix workflows](https://determinate.systems/posts/magic-nix-cache)
