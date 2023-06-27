@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-27, 14:34:53](https://news.ycombinator.com/item?id=36493441) - [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
+* [2023-06-27, 14:20:19](https://news.ycombinator.com/item?id=36493183) - [Nvidia AX800 High-End Arm Server on a PCIe Card](https://www.servethehome.com/nvidia-ax800-high-end-arm-server-on-a-pcie-card-ampere-ai-dpu/)
 * [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
 * [2023-06-27, 13:20:53](https://news.ycombinator.com/item?id=36492321) - [False 911 Calls Increase During Festival as iOS Mistakes Dancing for Car Crashes](https://gizmodo.com/iphones-false-911-calls-bonnaroo-android-uk-999-1850576151)
@@ -17,7 +18,6 @@
 * [2023-06-27, 07:19:37](https://news.ycombinator.com/item?id=36489847) - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 * [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a ring buffer for throughput (2021)](https://rigtorp.se/ringbuffer/)
 * [2023-06-27, 05:33:34](https://news.ycombinator.com/item?id=36489249) - [What Medieval Manuscripts Reveal About the Hidden History of Whales](https://www.smithsonianmag.com/science-nature/medieval-manuscripts-reveal-hidden-history-whales-180982348/)
-* [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [2023-06-27, 04:01:10](https://news.ycombinator.com/item?id=36488735) - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 * [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
 * [2023-06-27, 00:18:19](https://news.ycombinator.com/item?id=36487574) - [Detect Food Adulteration with Easy Home Tests](https://eatrightindia.gov.in/dart/)

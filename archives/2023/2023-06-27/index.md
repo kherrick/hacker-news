@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
 * [2023-06-27, 14:34:53](https://news.ycombinator.com/item?id=36493441) - [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
+* [2023-06-27, 14:20:19](https://news.ycombinator.com/item?id=36493183) - [Nvidia AX800 High-End Arm Server on a PCIe Card](https://www.servethehome.com/nvidia-ax800-high-end-arm-server-on-a-pcie-card-ampere-ai-dpu/)
 * [2023-06-27, 13:51:39](https://news.ycombinator.com/item?id=36492762) - [The only acceptable rating to leave an Uber driver is 5 stars](https://oversharing.substack.com/p/five-stars-or-bust)
 * [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 * [2023-06-27, 13:22:50](https://news.ycombinator.com/item?id=36492347) - [More than 100 U.S. political elites have family links to slavery](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers/)
