@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 13:51:39](https://news.ycombinator.com/item?id=36492762) - [The only acceptable rating to leave an Uber driver is 5 stars](https://oversharing.substack.com/p/five-stars-or-bust)
 * [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
+* [2023-06-27, 13:22:50](https://news.ycombinator.com/item?id=36492347) - [More than 100 U.S. political elites have family links to slavery](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers/)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
 * [2023-06-27, 13:20:38](https://news.ycombinator.com/item?id=36492317) - [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
 * [2023-06-27, 13:19:42](https://news.ycombinator.com/item?id=36492305) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/?ck_subscriber_id=512838448)
