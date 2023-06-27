@@ -10,6 +10,7 @@
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
 * [2023-06-27, 13:20:38](https://news.ycombinator.com/item?id=36492317) - [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
 * [2023-06-27, 13:19:42](https://news.ycombinator.com/item?id=36492305) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/?ck_subscriber_id=512838448)
+* [2023-06-27, 13:18:42](https://news.ycombinator.com/item?id=36492291) - [When the Facts Change, I Change My Mind. What Do You Do, Sir?](https://quoteinvestigator.com/2011/07/22/keynes-change-mind/)
 * [2023-06-27, 13:15:24](https://news.ycombinator.com/item?id=36492251) - [Why are ships always female?](https://english.stackexchange.com/a/345755)
 * [2023-06-27, 13:11:05](https://news.ycombinator.com/item?id=36492201) - [Profits are driving inflation. When will politicians and the BoE admit it?](https://www.taxresearch.org.uk/Blog/)
 * [2023-06-27, 13:04:08](https://news.ycombinator.com/item?id=36492149) - [Show HN: Cape API – Keep your sensitive data private while using GPT-4](https://capeprivacy.com)

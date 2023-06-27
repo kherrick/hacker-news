@@ -2,15 +2,16 @@
 
 * [2023-06-27, 13:51:39](https://news.ycombinator.com/item?id=36492762) - [The only acceptable rating to leave an Uber driver is 5 stars](https://oversharing.substack.com/p/five-stars-or-bust)
 * [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
-* [2023-06-27, 13:22:50](https://news.ycombinator.com/item?id=36492347) - [More than 100 U.S. political elites have family links to slavery](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers/)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
-* [2023-06-27, 13:20:38](https://news.ycombinator.com/item?id=36492317) - [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
+* [2023-06-27, 13:19:42](https://news.ycombinator.com/item?id=36492305) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/?ck_subscriber_id=512838448)
+* [2023-06-27, 13:18:42](https://news.ycombinator.com/item?id=36492291) - [When the Facts Change, I Change My Mind. What Do You Do, Sir?](https://quoteinvestigator.com/2011/07/22/keynes-change-mind/)
 * [2023-06-27, 13:15:24](https://news.ycombinator.com/item?id=36492251) - [Why are ships always female?](https://english.stackexchange.com/a/345755)
 * [2023-06-27, 13:11:05](https://news.ycombinator.com/item?id=36492201) - [Profits are driving inflation. When will politicians and the BoE admit it?](https://www.taxresearch.org.uk/Blog/)
 * [2023-06-27, 13:04:08](https://news.ycombinator.com/item?id=36492149) - [Show HN: Cape API – Keep your sensitive data private while using GPT-4](https://capeprivacy.com)
 * [2023-06-27, 12:51:12](https://news.ycombinator.com/item?id=36492033) - [A Syntax for Self-Tracking (2020)](https://www.gibney.org/a_syntax_for_self-tracking)
 * [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)
 * [2023-06-27, 12:46:01](https://news.ycombinator.com/item?id=36491975) - [Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing](https://github.com/billabear/billabear)
+* [2023-06-27, 12:13:43](https://news.ycombinator.com/item?id=36491735) - [It's weird that people get mocked for changing their minds](https://twitter.com/paulg/status/1673622294227308546)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 * [2023-06-27, 12:04:48](https://news.ycombinator.com/item?id=36491677) - [Ninth Dedekind number discovered: long-known problem in mathematics solved](https://phys.org/news/2023-06-ninth-dedekind-scientists-long-known-problem.html)
 * [2023-06-27, 12:01:08](https://news.ycombinator.com/item?id=36491647) - [Text Blaze (YC W21) is hiring a growth engineer to pioneer LLM driven strategies](https://news.ycombinator.com/item?id=36491647)
@@ -29,7 +30,6 @@
 * [2023-06-26, 12:21:23](https://news.ycombinator.com/item?id=36478772) - [The best place to drink is the emptiest bar in the city](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
 * [2023-06-26, 04:51:43](https://news.ycombinator.com/item?id=36475846) - [Bloomsday: The library’s one-of-a-kind copy of “Ulysses”](https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/)
 * [2023-06-25, 15:20:13](https://news.ycombinator.com/item?id=36469147) - [Monitoring Is a Pain](https://matduggan.com/were-all-doing-metrics-wrong/)
-* [2023-06-25, 15:15:38](https://news.ycombinator.com/item?id=36469086) - [4D Toys Update 8: Rotating the 3D Slice, 2D Faces Projections, Marble Scenes](https://marctenbosch.com/news/2023/03/4d-toys-update-v-1-8-rotating-the-3d-slice-2d-faces-projections-marble-scenes-and-many-more/)
 
 ## [Archives](archives/index.md)
 
