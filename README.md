@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-27, 15:04:12](https://news.ycombinator.com/item?id=36493907) - [Ask HN: Why Delaware and Not Dubai?](https://news.ycombinator.com/item?id=36493907)
 * [2023-06-27, 14:57:20](https://news.ycombinator.com/item?id=36493821) - [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:34:53](https://news.ycombinator.com/item?id=36493441) - [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
@@ -22,10 +23,9 @@
 * [2023-06-27, 05:33:34](https://news.ycombinator.com/item?id=36489249) - [What Medieval Manuscripts Reveal About the Hidden History of Whales](https://www.smithsonianmag.com/science-nature/medieval-manuscripts-reveal-hidden-history-whales-180982348/)
 * [2023-06-27, 04:01:10](https://news.ycombinator.com/item?id=36488735) - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 * [2023-06-27, 02:50:55](https://news.ycombinator.com/item?id=36488356) - [Build your own Docker with Linux namespaces, cgroups, and chroot](https://akashrajpurohit.com/blog/build-your-own-docker-with-linux-namespaces-cgroups-and-chroot-handson-guide/)
-* [2023-06-27, 00:18:19](https://news.ycombinator.com/item?id=36487574) - [Detect Food Adulteration with Easy Home Tests](https://eatrightindia.gov.in/dart/)
 * [2023-06-26, 15:12:53](https://news.ycombinator.com/item?id=36480687) - [Show HN: Mofi – Content-aware fill for audio to change a song to any duration](https://mofi.loud.red/)
 * [2023-06-26, 15:00:55](https://news.ycombinator.com/item?id=36480470) - [A simple guide to pessimistic locking in Rails](https://www.visuality.pl/posts/a-simple-guide-to-pessimistic-locking-in-rails)
-* [2023-06-26, 14:39:03](https://news.ycombinator.com/item?id=36480200) - [Unexpected Interaction of Features](http://www.solipsys.co.uk/new/UnexpectedInteractionOfFeatures.html?wf26hn)
+* [2023-06-26, 13:54:05](https://news.ycombinator.com/item?id=36479683) - [RowPress: Amplifying read disturbance in modern DRAM chips [pdf]](https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf)
 * [2023-06-26, 12:29:04](https://news.ycombinator.com/item?id=36478854) - [Working with Docker containers with the dexec bash script](https://spin.atomicobject.com/2023/06/26/dexec-docker/)
 * [2023-06-26, 12:21:23](https://news.ycombinator.com/item?id=36478772) - [The best place to drink is the emptiest bar in the city](https://www.nytimes.com/2023/06/20/magazine/hotel-bars.html)
 * [2023-06-26, 04:51:43](https://news.ycombinator.com/item?id=36475846) - [Bloomsday: The library’s one-of-a-kind copy of “Ulysses”](https://blogs.loc.gov/loc/2023/06/bloomsday-the-librarys-one-of-a-kind-copy-of-ulysses/)
