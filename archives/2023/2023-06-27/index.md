@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
+* [2023-06-27, 14:34:53](https://news.ycombinator.com/item?id=36493441) - [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
 * [2023-06-27, 13:51:39](https://news.ycombinator.com/item?id=36492762) - [The only acceptable rating to leave an Uber driver is 5 stars](https://oversharing.substack.com/p/five-stars-or-bust)
 * [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 * [2023-06-27, 13:22:50](https://news.ycombinator.com/item?id=36492347) - [More than 100 U.S. political elites have family links to slavery](https://www.reuters.com/investigates/special-report/usa-slavery-lawmakers/)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
+* [2023-06-27, 13:20:53](https://news.ycombinator.com/item?id=36492321) - [False 911 Calls Increase During Festival as iOS Mistakes Dancing for Car Crashes](https://gizmodo.com/iphones-false-911-calls-bonnaroo-android-uk-999-1850576151)
 * [2023-06-27, 13:20:38](https://news.ycombinator.com/item?id=36492317) - [Bootstrapping Atlassian: $10k In Credit Card Debt To $20M In Revenue In 5 years](https://thedisruptors.beehiiv.com/p/bootstrapping-atlassian-from-10-000-in-credit-card-debt-to-over-20m-in-revenue-in-5-years)
 * [2023-06-27, 13:19:42](https://news.ycombinator.com/item?id=36492305) - [“Exit Traps” Can Make Your Bash Scripts Way More Robust and Reliable](http://redsymbol.net/articles/bash-exit-traps/?ck_subscriber_id=512838448)
 * [2023-06-27, 13:18:42](https://news.ycombinator.com/item?id=36492291) - [When the Facts Change, I Change My Mind. What Do You Do, Sir?](https://quoteinvestigator.com/2011/07/22/keynes-change-mind/)
@@ -29,6 +31,7 @@
 * [2023-06-27, 08:21:10](https://news.ycombinator.com/item?id=36490283) - [U.S. pedestrian deaths reach a 40-year high](https://www.npr.org/2023/06/26/1184034017/us-pedestrian-deaths-high-traffic-car)
 * [2023-06-27, 07:19:37](https://news.ycombinator.com/item?id=36489847) - [Wolfi: A community Linux OS designed for the container and cloud-native era](https://github.com/wolfi-dev)
 * [2023-06-27, 05:42:05](https://news.ycombinator.com/item?id=36489288) - [Optimizing a Ring Buffer for Throughput](https://rigtorp.se/ringbuffer/)
+* [2023-06-27, 05:33:34](https://news.ycombinator.com/item?id=36489249) - [What Medieval Manuscripts Reveal About the Hidden History of Whales](https://www.smithsonianmag.com/science-nature/medieval-manuscripts-reveal-hidden-history-whales-180982348/)
 * [2023-06-27, 04:22:32](https://news.ycombinator.com/item?id=36488871) - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
 * [2023-06-27, 04:01:10](https://news.ycombinator.com/item?id=36488735) - [Show HN: An Interactive Guide to Teach Derivatives and Backpropagation](https://x0axz.com/blog/autograd.html)
 * [2023-06-27, 04:01:04](https://news.ycombinator.com/item?id=36488733) - [Cloud, Why So Difficult?](https://www.winglang.io/blog/2022/11/23/manifesto)
