@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-06-27, 16:43:12",
+      "https://news.ycombinator.com/item?id=36495335"
+    ],
+    [
+      "Patterns of Distributed Systems",
+      "https://martinfowler.com/articles/patterns-of-distributed-systems/"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 16:19:58",
       "https://news.ycombinator.com/item?id=36494966"
     ],
@@ -237,16 +247,6 @@
     [
       "Tinc, a GPLv2 mesh routing VPN",
       "https://www.tinc-vpn.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 07:19:37",
-      "https://news.ycombinator.com/item?id=36489847"
-    ],
-    [
-      "Wolfi: A community Linux OS designed for the container and cloud-native era",
-      "https://github.com/wolfi-dev"
     ]
   ],
   [
