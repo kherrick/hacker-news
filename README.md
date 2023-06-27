@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
+* [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 * [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
@@ -18,7 +19,6 @@
 * [2023-06-27, 15:13:38](https://news.ycombinator.com/item?id=36494046) - [The future of AI according to thousands of forecasters](https://www.metaculus.com/ai/)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:33:25](https://news.ycombinator.com/item?id=36493422) - [I Built Linux from Scratch](https://thesloth.me/posts/5/)
-* [2023-06-27, 14:06:24](https://news.ycombinator.com/item?id=36492975) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-06-27, 13:25:59](https://news.ycombinator.com/item?id=36492384) - [Distributed Systems for Fun and Profit](http://book.mixu.net/distsys/single-page.html)
 * [2023-06-27, 13:21:30](https://news.ycombinator.com/item?id=36492329) - [Outlook now ignores Windows' Default Browser and opens links in Edge by default](https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0)
 * [2023-06-27, 12:49:17](https://news.ycombinator.com/item?id=36492010) - [FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans](https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans)

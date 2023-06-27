@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-27](index.md)
 
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
+* [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 * [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
