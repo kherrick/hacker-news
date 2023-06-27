@@ -25,6 +25,7 @@
 * [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
+* [2023-06-27, 18:06:56](https://news.ycombinator.com/item?id=36496529) - [Every South Korean turns a year younger](https://www.independent.co.uk/asia/east-asia/south-korea-new-age-system-2023-b2364809.html)
 * [2023-06-27, 17:31:52](https://news.ycombinator.com/item?id=36496102) - [Docker Acquires Mutagen](https://www.docker.com/blog/mutagen-acquisition/)
 * [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
 * [2023-06-27, 17:17:37](https://news.ycombinator.com/item?id=36495931) - [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
