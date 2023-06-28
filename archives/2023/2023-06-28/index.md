@@ -4,10 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on explosive claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
+* [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 * [2023-06-28, 12:31:01](https://news.ycombinator.com/item?id=36505436) - [MS Teams Are Down](https://teams.microsoft.com)
+* [2023-06-28, 12:17:53](https://news.ycombinator.com/item?id=36505318) - [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
+* [2023-06-28, 12:13:46](https://news.ycombinator.com/item?id=36505285) - [Ironies of Automation (1983) [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
 * [2023-06-28, 12:03:14](https://news.ycombinator.com/item?id=36505197) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-06-28, 11:56:55](https://news.ycombinator.com/item?id=36505152) - [Canada plans brain drain of H-1B visa holders, with no-job, no-worries permits](https://www.theregister.com/2023/06/28/canada_tech_talent_h1b_plan/)
 * [2023-06-28, 11:53:33](https://news.ycombinator.com/item?id=36505122) - [Ask HN: How to navigate the world as a brain-damaged 17 year old?](https://news.ycombinator.com/item?id=36505122)
+* [2023-06-28, 11:41:21](https://news.ycombinator.com/item?id=36505035) - [Making Games](https://etodd.io/2023/06/27/making-games/)
 * [2023-06-28, 10:52:26](https://news.ycombinator.com/item?id=36504727) - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
 * [2023-06-28, 10:43:06](https://news.ycombinator.com/item?id=36504667) - [Five billion phones are dead in drawers – carriers want to mine them](https://www.theregister.com/2023/06/28/gsma_smartphone_recycling_plan/)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
