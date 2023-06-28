@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 12:31:01",
+      "https://news.ycombinator.com/item?id=36505436"
+    ],
+    [
+      "MS Teams Are Down",
+      "https://teams.microsoft.com"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 12:03:14",
       "https://news.ycombinator.com/item?id=36505197"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2023-06-28, 11:53:33",
-      "https://news.ycombinator.com/item?id=36505122"
+      "2023-06-28, 11:56:55",
+      "https://news.ycombinator.com/item?id=36505152"
     ],
     [
-      "Ask HN: How to navigate the world as a brain-damaged 17 year old?",
-      "https://news.ycombinator.com/item?id=36505122"
+      "Canada plans brain drain of H-1B visa holders, with no-job, no-worries permits",
+      "https://www.theregister.com/2023/06/28/canada_tech_talent_h1b_plan/"
     ]
   ],
   [
     [
-      "2023-06-28, 10:52:26",
-      "https://news.ycombinator.com/item?id=36504727"
+      "2023-06-28, 10:43:06",
+      "https://news.ycombinator.com/item?id=36504667"
     ],
     [
-      "Electrifying everything at the rate required to meet our climate goals",
-      "https://www.rewiringamerica.org/pace"
+      "Five billion phones are dead in drawers – carriers want to mine them",
+      "https://www.theregister.com/2023/06/28/gsma_smartphone_recycling_plan/"
     ]
   ],
   [
@@ -37,6 +47,16 @@
     [
       "Vincent van Gogh's paintings and drawings",
       "https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 10:24:38",
+      "https://news.ycombinator.com/item?id=36504554"
+    ],
+    [
+      "Meta developer tools: Working at scale",
+      "https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2023-06-28, 04:23:21",
-      "https://news.ycombinator.com/item?id=36502267"
-    ],
-    [
-      "Glass dresses, a fairytale fashion trend that never quite took off (2018)",
-      "https://www.atlasobscura.com/articles/who-wears-glass-dresses"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 03:00:48",
       "https://news.ycombinator.com/item?id=36501742"
     ],
     [
       "Computerraria: A fully compliant RISC-V computer inside Terraria",
       "https://github.com/misprit7/computerraria"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 02:46:45",
-      "https://news.ycombinator.com/item?id=36501657"
-    ],
-    [
-      "Flashing elements alienate users",
-      "https://astralcodexten.substack.com/p/every-flashing-element-on-your-site"
     ]
   ],
   [
@@ -141,22 +141,22 @@
   ],
   [
     [
-      "2023-06-28, 01:38:12",
-      "https://news.ycombinator.com/item?id=36501209"
-    ],
-    [
-      "Trinity Desktop Environment – a modern KDE3 fork",
-      "https://www.trinitydesktop.org/"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 01:04:38",
       "https://news.ycombinator.com/item?id=36500945"
     ],
     [
       "Natural language is an unnatural interface",
       "https://varunshenoy.substack.com/p/natural-language-is-an-unnatural"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 01:03:53",
+      "https://news.ycombinator.com/item?id=36500935"
+    ],
+    [
+      "Apple joins opposition to encrypted message app scanning",
+      "https://www.bbc.com/news/technology-66028773"
     ]
   ],
   [
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2023-06-27, 18:20:02",
-      "https://news.ycombinator.com/item?id=36496693"
-    ],
-    [
-      "Cisco to buy network-monitoring firm SamKnows for better last-mile visibility",
-      "https://www.networkworld.com/article/3700616/cisco-to-buy-network-monitoring-firm-samknows-for-better-last-mile-visibility.html"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 18:06:56",
       "https://news.ycombinator.com/item?id=36496529"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2023-06-27, 16:25:07",
-      "https://news.ycombinator.com/item?id=36495048"
-    ],
-    [
-      "Drugmakers are abandoning cheap generics",
-      "https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 15:56:41",
       "https://news.ycombinator.com/item?id=36494639"
     ],
@@ -297,6 +277,26 @@
     [
       "macOS command-line tools you might not know about",
       "https://saurabhs.org/advanced-macos-commands"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 11:11:59",
+      "https://news.ycombinator.com/item?id=36491321"
+    ],
+    [
+      "What if your Pods need to trust self-signed certificates?",
+      "https://blog.alexellis.io/what-if-your-pods-need-to-trust-self-signed-certificates/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 11:11:00",
+      "https://news.ycombinator.com/item?id=36491313"
+    ],
+    [
+      "Abusing Ahrefs backlink checker",
+      "https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/"
     ]
   ]
 ]
