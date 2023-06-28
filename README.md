@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-28, 03:00:48](https://news.ycombinator.com/item?id=36501742) - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
-* [2023-06-28, 02:46:45](https://news.ycombinator.com/item?id=36501657) - [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
+* [2023-06-28, 02:46:45](https://news.ycombinator.com/item?id=36501657) - [Every flashing element on your site alienates and enrages users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
 * [2023-06-28, 02:37:17](https://news.ycombinator.com/item?id=36501603) - [Inaugural YC Top Companies List by Revenue](https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue)
 * [2023-06-28, 02:24:00](https://news.ycombinator.com/item?id=36501548) - [How not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
 * [2023-06-28, 01:58:33](https://news.ycombinator.com/item?id=36501364) - [Working with CSV files on shell/terminal](https://muhammadraza.me/2022/data-oneliners/)
