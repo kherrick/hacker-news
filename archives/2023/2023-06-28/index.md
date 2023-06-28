@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 23:02:36](https://news.ycombinator.com/item?id=36513892) - [To Save Money on Insurance, Drivers Agree to Intrusive Monitoring Technology](https://money.com/usage-based-car-insurance-gaining-customers/)
+* [2023-06-28, 23:02:33](https://news.ycombinator.com/item?id=36513889) - [“Support for System V scripts now deprecated; will be removed in future release”](https://github.com/systemd/systemd/blob/08423f6d30f5db045b8a25307857f111f45ff292/NEWS)
+* [2023-06-28, 23:01:26](https://news.ycombinator.com/item?id=36513881) - [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
 * [2023-06-28, 22:14:24](https://news.ycombinator.com/item?id=36513391) - [US public debt projected to reach 181% of economic activity in 30 years](https://apnews.com/article/debt-deficit-congress-spending-budget-biden-d3ec1e9bdbdd2089f31f09a1a8ca80ca)
 * [2023-06-28, 21:51:49](https://news.ycombinator.com/item?id=36513135) - [Visa to acquire Brazilian startup Pismo for $1bi](https://www.pismo.io/blog/visa-to-acquire-pismo/)
 * [2023-06-28, 20:57:20](https://news.ycombinator.com/item?id=36512476) - [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
