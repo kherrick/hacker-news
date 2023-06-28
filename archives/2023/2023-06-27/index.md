@@ -40,6 +40,7 @@
 * [2023-06-27, 17:17:37](https://news.ycombinator.com/item?id=36495931) - [InfluxDB 3.0 System Architecture](https://www.influxdata.com/blog/influxdb-3-0-system-architecture/)
 * [2023-06-27, 17:07:48](https://news.ycombinator.com/item?id=36495782) - [TSMC Expected to Charge $25,000 per 2nm Wafer](https://www.tomshardware.com/news/tsmc-expected-to-charge-25000usd-per-2nm-wafer)
 * [2023-06-27, 17:04:54](https://news.ycombinator.com/item?id=36495740) - [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
+* [2023-06-27, 17:00:47](https://news.ycombinator.com/item?id=36495684) - [Pixar Was Never a Masterpiece Factory](https://freddiedeboer.substack.com/p/pixar-was-never-a-masterpiece-factory)
 * [2023-06-27, 17:00:31](https://news.ycombinator.com/item?id=36495680) - [Show HN: Superblocks AI – AI coding assistant for internal apps](https://www.superblocks.com/blog/introducing-superblocks-ai)
 * [2023-06-27, 17:00:18](https://news.ycombinator.com/item?id=36495676) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-06-27, 17:00:05](https://news.ycombinator.com/item?id=36495667) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
