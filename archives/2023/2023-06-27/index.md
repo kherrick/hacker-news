@@ -46,6 +46,7 @@
 * [2023-06-27, 16:59:19](https://news.ycombinator.com/item?id=36495656) - [GripTape Challenge – Learn What and How You Want](https://www.griptape.org/)
 * [2023-06-27, 16:43:12](https://news.ycombinator.com/item?id=36495335) - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [2023-06-27, 16:33:45](https://news.ycombinator.com/item?id=36495191) - [Volvo Cars Adopts Tesla's NACS Port in the United States, Canada and Mexico](https://www.media.volvocars.com/global/en-gb/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can)
+* [2023-06-27, 16:29:51](https://news.ycombinator.com/item?id=36495119) - [Way out in deep space, astronomers spot precursor of carbon based life](https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/)
 * [2023-06-27, 16:25:42](https://news.ycombinator.com/item?id=36495059) - [The Wild (and Slightly Terrifying) Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
 * [2023-06-27, 16:25:07](https://news.ycombinator.com/item?id=36495048) - [There’s a Severe Shortage of Cancer Drugs](https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/)
 * [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
