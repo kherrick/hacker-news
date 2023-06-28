@@ -24,7 +24,7 @@
 * [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 18:20:02](https://news.ycombinator.com/item?id=36496693) - [Cisco to buy network-monitoring firm SamKnows for better last-mile visibility](https://www.networkworld.com/article/3700616/cisco-to-buy-network-monitoring-firm-samknows-for-better-last-mile-visibility.html)
 * [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
-* [2023-06-27, 16:43:12](https://news.ycombinator.com/item?id=36495335) - [Patterns of Distributed Systems (2022)](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+* [2023-06-27, 16:29:54](https://news.ycombinator.com/item?id=36495120) - [Liquid metal could turn everyday things like paper into smart objects](https://arstechnica.com/science/2023/06/liquid-metal-could-turn-everyday-things-like-paper-into-smart-objects/)
 * [2023-06-27, 16:29:51](https://news.ycombinator.com/item?id=36495119) - [In deep space, astronomers spot precursor of carbon based life](https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/)
 * [2023-06-27, 16:25:07](https://news.ycombinator.com/item?id=36495048) - [Drugmakers are abandoning cheap generics](https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/)
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
