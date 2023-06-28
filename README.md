@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-28, 20:57:20](https://news.ycombinator.com/item?id=36512476) - [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
 * [2023-06-28, 20:14:53](https://news.ycombinator.com/item?id=36511948) - [Stability AI Head of Research Resigns from Startup](https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup)
 * [2023-06-28, 19:40:22](https://news.ycombinator.com/item?id=36511545) - [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
 * [2023-06-28, 19:09:54](https://news.ycombinator.com/item?id=36511111) - [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
@@ -9,7 +10,6 @@
 * [2023-06-28, 17:32:52](https://news.ycombinator.com/item?id=36509752) - [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
 * [2023-06-28, 17:01:01](https://news.ycombinator.com/item?id=36509275) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-28, 16:28:25](https://news.ycombinator.com/item?id=36508811) - [Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
-* [2023-06-28, 16:16:13](https://news.ycombinator.com/item?id=36508624) - [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
 * [2023-06-28, 16:05:21](https://news.ycombinator.com/item?id=36508477) - [A trick to eliminate 2π (sometimes)](https://marci.gunyho.com/theta.html)
 * [2023-06-28, 15:12:45](https://news.ycombinator.com/item?id=36507648) - [Construct's New WebGPU Renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
