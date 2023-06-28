@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-06-28, 14:18:12",
+      "https://news.ycombinator.com/item?id=36506865"
+    ],
+    [
+      "We raised a bunch of money",
+      "https://fly.io/blog/we-raised-a-bunch-of-money/"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 14:12:23",
+      "https://news.ycombinator.com/item?id=36506782"
+    ],
+    [
+      "Fintech Engineering Mistakes",
+      "https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 13:31:02",
       "https://news.ycombinator.com/item?id=36506188"
     ],
     [
       "Pixel fucked: Inside Hollywood's VFX crisis",
       "https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 13:11:28",
+      "https://news.ycombinator.com/item?id=36505918"
+    ],
+    [
+      "Show HN: Litnerd (YC S21) – Kids Book Club Meets Gaming",
+      "https://news.ycombinator.com/item?id=36505918"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2023-06-28, 10:43:06",
-      "https://news.ycombinator.com/item?id=36504667"
-    ],
-    [
-      "Five billion phones are dead in drawers – carriers want to mine them",
-      "https://www.theregister.com/2023/06/28/gsma_smartphone_recycling_plan/"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 10:42:10",
       "https://news.ycombinator.com/item?id=36504661"
     ],
@@ -97,6 +117,16 @@
     [
       "Meta developer tools: Working at scale",
       "https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 09:59:08",
+      "https://news.ycombinator.com/item?id=36504393"
+    ],
+    [
+      "Show HN: Playground for OpenAI Function Calling",
+      "https://langtale.ai/playground"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2023-06-28, 01:04:38",
-      "https://news.ycombinator.com/item?id=36500945"
-    ],
-    [
-      "Natural language is an unnatural interface",
-      "https://varunshenoy.substack.com/p/natural-language-is-an-unnatural"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 01:03:53",
       "https://news.ycombinator.com/item?id=36500935"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-06-27, 17:00:47",
-      "https://news.ycombinator.com/item?id=36495684"
-    ],
-    [
-      "Pixar was never a masterpiece factory",
-      "https://freddiedeboer.substack.com/p/pixar-was-never-a-masterpiece-factory"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 16:29:51",
       "https://news.ycombinator.com/item?id=36495119"
     ],
@@ -287,16 +297,6 @@
     [
       "What if your Pods need to trust self-signed certificates?",
       "https://blog.alexellis.io/what-if-your-pods-need-to-trust-self-signed-certificates/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 11:11:00",
-      "https://news.ycombinator.com/item?id=36491313"
-    ],
-    [
-      "Abusing Ahrefs backlink checker",
-      "https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/"
     ]
   ]
 ]
