@@ -2,7 +2,6 @@
 
 * [2023-06-28, 16:17:57](https://news.ycombinator.com/item?id=36508641) - [Titanic tourist sub photos show wreckage being brought ashore](https://www.bbc.com/news/world-us-canada-66045554)
 * [2023-06-28, 16:16:13](https://news.ycombinator.com/item?id=36508624) - [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
-* [2023-06-28, 16:15:58](https://news.ycombinator.com/item?id=36508618) - [PHP packages for Ubuntu EOL releases put under paywall](https://github.com/oerdnj/deb.sury.org/issues/1922)
 * [2023-06-28, 16:05:21](https://news.ycombinator.com/item?id=36508477) - [A trick to eliminate 2π (sometimes)](https://marci.gunyho.com/theta.html)
 * [2023-06-28, 15:16:19](https://news.ycombinator.com/item?id=36507707) - [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
 * [2023-06-28, 14:30:39](https://news.ycombinator.com/item?id=36507031) - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
@@ -24,6 +23,7 @@
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
 * [2023-06-28, 03:00:48](https://news.ycombinator.com/item?id=36501742) - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
 * [2023-06-28, 01:58:33](https://news.ycombinator.com/item?id=36501364) - [Using command line to process CSV files (2022)](https://muhammadraza.me/2022/data-oneliners/)
+* [2023-06-27, 23:02:21](https://news.ycombinator.com/item?id=36499905) - [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
 * [2023-06-27, 16:29:51](https://news.ycombinator.com/item?id=36495119) - [In deep space, astronomers spot precursor of carbon based life](https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/)
 * [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
