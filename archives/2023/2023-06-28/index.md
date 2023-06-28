@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 13:31:02](https://news.ycombinator.com/item?id=36506188) - [Pixel fucked: Inside Hollywood's VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on explosive claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
+* [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
 * [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 * [2023-06-28, 12:31:01](https://news.ycombinator.com/item?id=36505436) - [MS Teams Are Down](https://teams.microsoft.com)
 * [2023-06-28, 12:17:53](https://news.ycombinator.com/item?id=36505318) - [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
