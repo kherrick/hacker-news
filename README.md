@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-28, 02:46:45](https://news.ycombinator.com/item?id=36501657) - [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
-* [2023-06-28, 02:24:00](https://news.ycombinator.com/item?id=36501548) - [(Not) to Write a Pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
+* [2023-06-28, 02:24:00](https://news.ycombinator.com/item?id=36501548) - [How not to write a pipeline](https://cohost.org/tef/post/1764930-how-not-to-write-a)
 * [2023-06-28, 01:58:33](https://news.ycombinator.com/item?id=36501364) - [Working with CSV files on shell/terminal](https://muhammadraza.me/2022/data-oneliners/)
 * [2023-06-28, 01:38:12](https://news.ycombinator.com/item?id=36501209) - [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
 * [2023-06-28, 01:36:31](https://news.ycombinator.com/item?id=36501194) - [The False Dawn: Reevaluating Google's RL for Chip Macro Placement](https://arxiv.org/abs/2306.09633)
@@ -22,13 +22,13 @@
 * [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 18:20:02](https://news.ycombinator.com/item?id=36496693) - [Cisco to buy network-monitoring firm SamKnows for better last-mile visibility](https://www.networkworld.com/article/3700616/cisco-to-buy-network-monitoring-firm-samknows-for-better-last-mile-visibility.html)
 * [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
-* [2023-06-27, 17:18:37](https://news.ycombinator.com/item?id=36495943) - [OpenRC is a dependency-based init system for Unix-like systems](https://wiki.gentoo.org/wiki/OpenRC)
 * [2023-06-27, 17:04:54](https://news.ycombinator.com/item?id=36495740) - [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
 * [2023-06-27, 16:43:12](https://news.ycombinator.com/item?id=36495335) - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
 * [2023-06-27, 16:17:40](https://news.ycombinator.com/item?id=36494935) - [Zellij New WASM Plugin System](https://zellij.dev/news/new-plugin-system/)
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
+* [2023-06-27, 14:33:25](https://news.ycombinator.com/item?id=36493422) - [I Built Linux from Scratch](https://thesloth.me/posts/5/)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
 
 ## [Archives](archives/index.md)
