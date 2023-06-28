@@ -9,6 +9,7 @@
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:23:18](https://news.ycombinator.com/item?id=36506939) - [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
 * [2023-06-28, 14:18:12](https://news.ycombinator.com/item?id=36506865) - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
+* [2023-06-28, 14:17:25](https://news.ycombinator.com/item?id=36506854) - [Canada's new tech talent strategy](https://twitter.com/balajis/status/1673942301188706305)
 * [2023-06-28, 14:12:23](https://news.ycombinator.com/item?id=36506782) - [Fintech Engineering Mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 * [2023-06-28, 13:58:21](https://news.ycombinator.com/item?id=36506577) - [Experiments with olivine crystals in the ocean to increase CO2 absorption](https://www.nature.com/articles/d41586-023-02032-7)
 * [2023-06-28, 13:31:02](https://news.ycombinator.com/item?id=36506188) - [Pixel fucked: Inside Hollywood's VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
