@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-28, 20:11:54](https://news.ycombinator.com/item?id=36511914) - [Microsoft's GitHub under fire for DDoSing crucial open source project website](https://www.theregister.com/2023/06/28/microsofts_github_gmp_project/)
 * [2023-06-28, 19:40:22](https://news.ycombinator.com/item?id=36511545) - [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
 * [2023-06-28, 19:32:59](https://news.ycombinator.com/item?id=36511444) - [Sony just spilled confidential Playstation information because of a Sharpie](https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops)
 * [2023-06-28, 19:08:53](https://news.ycombinator.com/item?id=36511096) - [Show HN: Gitopia: Decentralized GitHub Alternative for Open Source Collaboration](https://gitopia.com)
@@ -15,7 +16,6 @@
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:18:12](https://news.ycombinator.com/item?id=36506865) - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
 * [2023-06-28, 13:49:31](https://news.ycombinator.com/item?id=36506444) - [Honda Monkey Breaks World Record Covering 4,183 Km on Single Tank](https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/)
-* [2023-06-28, 13:18:38](https://news.ycombinator.com/item?id=36506013) - [The Power of 10: Rules for Developing Safety-Critical Code [pdf]](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
 * [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
 * [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
