@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-28, 17:01:01](https://news.ycombinator.com/item?id=36509275) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-28, 16:17:57](https://news.ycombinator.com/item?id=36508641) - [Titanic tourist sub photos show wreckage being brought ashore](https://www.bbc.com/news/world-us-canada-66045554)
 * [2023-06-28, 16:16:13](https://news.ycombinator.com/item?id=36508624) - [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
 * [2023-06-28, 16:05:21](https://news.ycombinator.com/item?id=36508477) - [A trick to eliminate 2π (sometimes)](https://marci.gunyho.com/theta.html)
@@ -14,7 +15,7 @@
 * [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 * [2023-06-28, 12:17:53](https://news.ycombinator.com/item?id=36505318) - [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
 * [2023-06-28, 12:13:46](https://news.ycombinator.com/item?id=36505285) - [Ironies of Automation (1983) [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
-* [2023-06-28, 12:03:14](https://news.ycombinator.com/item?id=36505197) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-06-28, 11:56:55](https://news.ycombinator.com/item?id=36505152) - [Canada plans brain drain of H-1B visa holders, with no-job, no-worries permits](https://www.theregister.com/2023/06/28/canada_tech_talent_h1b_plan/)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
 * [2023-06-28, 10:24:38](https://news.ycombinator.com/item?id=36504554) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 09:59:08](https://news.ycombinator.com/item?id=36504393) - [Show HN: Playground for OpenAI Function Calling](https://langtale.ai/playground)
@@ -22,7 +23,6 @@
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
 * [2023-06-28, 03:00:48](https://news.ycombinator.com/item?id=36501742) - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
-* [2023-06-28, 01:58:33](https://news.ycombinator.com/item?id=36501364) - [Using command line to process CSV files (2022)](https://muhammadraza.me/2022/data-oneliners/)
 * [2023-06-27, 23:02:21](https://news.ycombinator.com/item?id=36499905) - [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
 * [2023-06-27, 16:29:51](https://news.ycombinator.com/item?id=36495119) - [In deep space, astronomers spot precursor of carbon based life](https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/)
 * [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)

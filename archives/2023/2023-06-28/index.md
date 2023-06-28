@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 17:01:01](https://news.ycombinator.com/item?id=36509275) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-28, 16:17:57](https://news.ycombinator.com/item?id=36508641) - [Titanic tourist sub photos show wreckage being brought ashore](https://www.bbc.com/news/world-us-canada-66045554)
 * [2023-06-28, 16:16:13](https://news.ycombinator.com/item?id=36508624) - [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
 * [2023-06-28, 16:15:58](https://news.ycombinator.com/item?id=36508618) - [PHP packages for Ubuntu EOL releases put under paywall](https://github.com/oerdnj/deb.sury.org/issues/1922)
