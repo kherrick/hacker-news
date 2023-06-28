@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-28](index.md)
+
+* [2023-06-28, 00:01:23](https://news.ycombinator.com/item?id=36500448) - [Damaging Results of Mandated Return to Office – It's Worse Than We Thought](https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043)
