@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
+* [2023-06-28, 18:34:10](https://news.ycombinator.com/item?id=36510594) - [Goodbye, Ozempic](https://www.theatlantic.com/health/archive/2023/06/ozempic-pills-obesity-drugs-semaglutide/674541/)
 * [2023-06-28, 18:21:47](https://news.ycombinator.com/item?id=36510439) - [“But lawyers know nothing about tech ”](https://decoded.legal/blog/2023/06/but-lawyers-know-nothing-about-tech)
 * [2023-06-28, 18:07:58](https://news.ycombinator.com/item?id=36510273) - [I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:32:52](https://news.ycombinator.com/item?id=36509752) - [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
@@ -12,7 +13,6 @@
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:18:12](https://news.ycombinator.com/item?id=36506865) - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
 * [2023-06-28, 14:12:23](https://news.ycombinator.com/item?id=36506782) - [Fintech engineering mistakes (2022)](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
-* [2023-06-28, 13:31:02](https://news.ycombinator.com/item?id=36506188) - [Pixel fucked: Inside Hollywood's VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
 * [2023-06-28, 13:18:38](https://news.ycombinator.com/item?id=36506013) - [The Power of 10: Rules for Developing Safety-Critical Code [pdf]](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
 * [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
