@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-06-28, 07:00:19",
+      "https://news.ycombinator.com/item?id=36503255"
+    ],
+    [
+      "Supabase (YC S20) Is Hiring a Rust Developer",
+      "https://boards.greenhouse.io/supabase/jobs/4917893004"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 04:48:03",
       "https://news.ycombinator.com/item?id=36502433"
     ],
     [
-      "Welcoming Shopify as a Ladybird Sponsor",
+      "Welcoming Shopify as a Ladybird sponsor",
       "https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36502398"
     ],
     [
-      "A Proto-Pizza Emerges from a Fresco on a Pompeii Wall",
+      "A proto-pizza emerges from a fresco on a Pompeii wall",
       "http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Plastics are poisoning us",
       "https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 04:31:22",
+      "https://news.ycombinator.com/item?id=36502319"
+    ],
+    [
+      "What AMD Learned from Its Big Chiplet Push",
+      "https://spectrum.ieee.org/chiplet"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36501657"
     ],
     [
-      "Every flashing element on your site alienates and enrages users",
+      "Flashing elements alienate users",
       "https://astralcodexten.substack.com/p/every-flashing-element-on-your-site"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36501364"
     ],
     [
-      "Working with CSV files on shell/terminal",
+      "Using command line to process CSV files",
       "https://muhammadraza.me/2022/data-oneliners/"
     ]
   ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36500448"
     ],
     [
-      "Damaging Results of Mandated Return to Office – It's Worse Than We Thought",
+      "The damaging results of mandated return to office",
       "https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043"
     ]
   ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36500138"
     ],
     [
-      "Google does little to reduce advertisers costs",
+      "Google does little to reduce advertisers' costs",
       "https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/"
     ]
   ],
@@ -125,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36499498"
     ],
     [
-      "Open Source AI Is Critical – Hugging Face CEO Before US Congress",
+      "Open source AI is critical – Hugging Face CEO before US Congress",
       "https://venturebeat.com/ai/hugging-face-ceo-tells-us-house-open-source-ai-is-extremely-aligned-with-american-interests/"
     ]
   ],
@@ -137,16 +157,6 @@
     [
       "H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark",
       "https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 21:00:36",
-      "https://news.ycombinator.com/item?id=36498592"
-    ],
-    [
-      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
-      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
@@ -211,21 +221,11 @@
   ],
   [
     [
-      "2023-06-27, 17:04:54",
-      "https://news.ycombinator.com/item?id=36495740"
-    ],
-    [
-      "Arduino Uno R4",
-      "https://store.arduino.cc/pages/uno-r4"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 16:43:12",
       "https://news.ycombinator.com/item?id=36495335"
     ],
     [
-      "Patterns of Distributed Systems",
+      "Patterns of Distributed Systems (2022)",
       "https://martinfowler.com/articles/patterns-of-distributed-systems/"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=36495119"
     ],
     [
-      "Way out in deep space, astronomers spot precursor of carbon based life",
+      "In deep space, astronomers spot precursor of carbon based life",
       "https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36495048"
     ],
     [
-      "There’s a severe shortage of cancer drugs",
+      "Drugmakers are abandoning cheap generics",
       "https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=36494966"
     ],
     [
-      "Caltech M4 Robot Flies, Rolls, Walks, and More",
+      "New bioinspired robot flies, rolls, walks, and more",
       "https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more"
     ]
   ],
