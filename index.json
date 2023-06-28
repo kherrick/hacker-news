@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 10:42:10",
+      "https://news.ycombinator.com/item?id=36504661"
+    ],
+    [
+      "Vincent van Gogh's paintings and drawings",
+      "https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 08:53:14",
       "https://news.ycombinator.com/item?id=36503983"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36503255"
     ],
     [
-      "Supabase (YC S20) Is Hiring a Rust Developer",
+      "Supabase (YC S20) is hiring a Rust developer",
       "https://boards.greenhouse.io/supabase/jobs/4917893004"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Trinity Desktop Environment – a modern KDE3 fork",
       "https://www.trinitydesktop.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 01:36:31",
-      "https://news.ycombinator.com/item?id=36501194"
-    ],
-    [
-      "The False Dawn: Reevaluating Google's RL for Chip Macro Placement",
-      "https://arxiv.org/abs/2306.09633"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36491313"
     ],
     [
-      "Abusing Ahrefs Backlink Checker",
+      "Abusing Ahrefs backlink checker",
       "https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/"
     ]
   ]
