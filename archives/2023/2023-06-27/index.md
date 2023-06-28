@@ -57,6 +57,7 @@
 * [2023-06-27, 16:17:40](https://news.ycombinator.com/item?id=36494935) - [Zellij New WASM Plugin System](https://zellij.dev/news/new-plugin-system/)
 * [2023-06-27, 16:07:05](https://news.ycombinator.com/item?id=36494776) - [Pompeii archaeologists discover 'pizza' painting](https://www.bbc.co.uk/news/world-europe-66031341)
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
+* [2023-06-27, 15:39:39](https://news.ycombinator.com/item?id=36494430) - [How to make your scientific data accessible, discoverable and useful](https://www.nature.com/articles/d41586-023-01929-7)
 * [2023-06-27, 15:32:26](https://news.ycombinator.com/item?id=36494334) - [Intermittent fasting is as effective as counting calories, new study finds](https://www.npr.org/sections/health-shots/2023/06/26/1184390543/intermittent-fasting-effective-weight-loss)
 * [2023-06-27, 15:30:47](https://news.ycombinator.com/item?id=36494308) - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
 * [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)
