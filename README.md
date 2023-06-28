@@ -13,7 +13,6 @@
 * [2023-06-28, 16:05:21](https://news.ycombinator.com/item?id=36508477) - [A trick to eliminate 2π (sometimes)](https://marci.gunyho.com/theta.html)
 * [2023-06-28, 15:12:45](https://news.ycombinator.com/item?id=36507648) - [Construct's New WebGPU Renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
-* [2023-06-28, 14:18:12](https://news.ycombinator.com/item?id=36506865) - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
 * [2023-06-28, 13:49:31](https://news.ycombinator.com/item?id=36506444) - [Honda Monkey Breaks World Record Covering 4,183 Km on Single Tank](https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
 * [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
@@ -29,6 +28,7 @@
 * [2023-06-27, 15:14:40](https://news.ycombinator.com/item?id=36494059) - [100 years of Le Corbusier: what does he mean to today’s architects?](https://www.theguardian.com/artanddesign/2023/jun/25/100-years-of-le-corbusier-what-does-he-mean-to-todays-architects)
 * [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
+* [2023-06-27, 14:42:24](https://news.ycombinator.com/item?id=36493562) - [Zygomys: Embedded Scripting Language for Go](https://github.com/glycerine/zygomys)
 * [2023-06-27, 14:26:07](https://news.ycombinator.com/item?id=36493296) - [Integrated Information Theory](http://www.scholarpedia.org/article/Integrated_information_theory)
 
 ## [Archives](archives/index.md)
