@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
 * [2023-06-28, 04:48:03](https://news.ycombinator.com/item?id=36502433) - [Welcoming Shopify as a Ladybird Sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A Proto-Pizza Emerges from a Fresco on a Pompeii Wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [How Plastics Are Poisoning Us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
+* [2023-06-28, 04:31:22](https://news.ycombinator.com/item?id=36502319) - [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
 * [2023-06-28, 03:38:17](https://news.ycombinator.com/item?id=36501967) - [Mouse driver asking for firewall exemption to accept incoming connections (2019)](https://twitter.com/Foone/status/1146136479573299200)
 * [2023-06-28, 03:00:48](https://news.ycombinator.com/item?id=36501742) - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
 * [2023-06-28, 02:46:45](https://news.ycombinator.com/item?id=36501657) - [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
