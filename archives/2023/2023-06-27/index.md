@@ -61,6 +61,7 @@
 * [2023-06-27, 15:32:26](https://news.ycombinator.com/item?id=36494334) - [Intermittent fasting is as effective as counting calories, new study finds](https://www.npr.org/sections/health-shots/2023/06/26/1184390543/intermittent-fasting-effective-weight-loss)
 * [2023-06-27, 15:30:47](https://news.ycombinator.com/item?id=36494308) - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
 * [2023-06-27, 15:29:20](https://news.ycombinator.com/item?id=36494283) - [Xerox PARC's NoteCards in a Nutshell (1987) [pdf]](https://dl.acm.org/doi/pdf/10.1145/29933.30859)
+* [2023-06-27, 15:14:40](https://news.ycombinator.com/item?id=36494059) - [100 years of Le Corbusier: what does he mean to today’s architects?](https://www.theguardian.com/artanddesign/2023/jun/25/100-years-of-le-corbusier-what-does-he-mean-to-todays-architects)
 * [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)
 * [2023-06-27, 15:13:38](https://news.ycombinator.com/item?id=36494046) - [The future of AI according to thousands of forecasters](https://www.metaculus.com/ai/)
 * [2023-06-27, 15:04:12](https://news.ycombinator.com/item?id=36493907) - [Ask HN: Why Delaware and Not Dubai?](https://news.ycombinator.com/item?id=36493907)
