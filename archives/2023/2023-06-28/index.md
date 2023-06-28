@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 14:30:39](https://news.ycombinator.com/item?id=36507031) - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
+* [2023-06-28, 14:23:18](https://news.ycombinator.com/item?id=36506939) - [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
 * [2023-06-28, 14:18:12](https://news.ycombinator.com/item?id=36506865) - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
 * [2023-06-28, 14:12:23](https://news.ycombinator.com/item?id=36506782) - [Fintech Engineering Mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
+* [2023-06-28, 13:58:21](https://news.ycombinator.com/item?id=36506577) - [Experiments with olivine crystals in the ocean to increase CO2 absorption](https://www.nature.com/articles/d41586-023-02032-7)
 * [2023-06-28, 13:31:02](https://news.ycombinator.com/item?id=36506188) - [Pixel fucked: Inside Hollywood's VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
 * [2023-06-28, 13:11:28](https://news.ycombinator.com/item?id=36505918) - [Show HN: Litnerd (YC S21) – Kids Book Club Meets Gaming](https://news.ycombinator.com/item?id=36505918)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on explosive claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
