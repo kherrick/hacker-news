@@ -1,6 +1,56 @@
 [
   [
     [
+      "2023-06-28, 00:01:23",
+      "https://news.ycombinator.com/item?id=36500448"
+    ],
+    [
+      "Damaging Results of Mandated Return to Office – It's Worse Than We Thought",
+      "https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 23:44:02",
+      "https://news.ycombinator.com/item?id=36500294"
+    ],
+    [
+      "FreeBSD Jails Containers",
+      "https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 23:32:46",
+      "https://news.ycombinator.com/item?id=36500182"
+    ],
+    [
+      "Cooklang – Recipe Markup Language",
+      "https://cooklang.org"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 23:27:42",
+      "https://news.ycombinator.com/item?id=36500138"
+    ],
+    [
+      "Google does little to reduce advertisers costs",
+      "https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 23:03:43",
+      "https://news.ycombinator.com/item?id=36499920"
+    ],
+    [
+      "Human Or Not: Guess if you're chatting with an AI or a Human",
+      "https://app.humanornot.ai/"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 23:02:21",
       "https://news.ycombinator.com/item?id=36499905"
     ],
@@ -27,16 +77,6 @@
     [
       "H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark",
       "https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 21:27:25",
-      "https://news.ycombinator.com/item?id=36498897"
-    ],
-    [
-      "LetMeSpy, a stalkerware app spying on thousands, says it was hacked",
-      "https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/"
     ]
   ],
   [
@@ -101,6 +141,16 @@
   ],
   [
     [
+      "2023-06-27, 19:51:56",
+      "https://news.ycombinator.com/item?id=36497795"
+    ],
+    [
+      "Anatomy of an ACH Transaction",
+      "https://www.synctera.com/post/anatomy-of-an-ach-transaction-for-fintechs"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 19:36:07",
       "https://news.ycombinator.com/item?id=36497613"
     ],
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2023-06-27, 18:06:56",
-      "https://news.ycombinator.com/item?id=36496529"
-    ],
-    [
-      "Every South Korean turns a year younger",
-      "https://www.independent.co.uk/asia/east-asia/south-korea-new-age-system-2023-b2364809.html"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 17:18:37",
       "https://news.ycombinator.com/item?id=36495943"
     ],
@@ -167,6 +207,16 @@
     [
       "Show HN: Superblocks AI – AI coding assistant for internal apps",
       "https://www.superblocks.com/blog/introducing-superblocks-ai"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 16:59:19",
+      "https://news.ycombinator.com/item?id=36495656"
+    ],
+    [
+      "GripTape Challenge – Learn What and How You Want",
+      "https://www.griptape.org/"
     ]
   ],
   [
@@ -231,62 +281,12 @@
   ],
   [
     [
-      "2023-06-27, 13:21:30",
-      "https://news.ycombinator.com/item?id=36492329"
-    ],
-    [
-      "Outlook now ignores Windows' Default Browser and opens links in Edge by default",
-      "https://support.microsoft.com/en-us/topic/outlook-emails-open-next-to-web-links-in-microsoft-edge-b0e1a1c1-bd62-462c-9ed5-5938b9c649f0"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 12:49:17",
-      "https://news.ycombinator.com/item?id=36492010"
-    ],
-    [
-      "FedEx Accused of Largest Odometer Rollback Fraud in History with Used Vans",
-      "https://www.thedrive.com/news/fedex-accused-of-largest-odometer-rollback-fraud-in-history-with-used-vans"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 12:46:01",
-      "https://news.ycombinator.com/item?id=36491975"
-    ],
-    [
-      "Show HN: BillaBear – Self-Hosted SaaS Subscription Management and Billing",
-      "https://github.com/billabear/billabear"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 12:08:38",
       "https://news.ycombinator.com/item?id=36491704"
     ],
     [
       "macOS command-line tools you might not know about",
       "https://saurabhs.org/advanced-macos-commands"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 11:15:28",
-      "https://news.ycombinator.com/item?id=36491338"
-    ],
-    [
-      "Tinc, a GPLv2 mesh routing VPN",
-      "https://www.tinc-vpn.org/"
-    ]
-  ],
-  [
-    [
-      "2023-06-26, 21:28:44",
-      "https://news.ycombinator.com/item?id=36486109"
-    ],
-    [
-      "A one-person oral history of Geocities HTML Chat (2022)",
-      "https://cohost.org/mcc/post/325362-a-one-person-oral-hi"
     ]
   ],
   [
