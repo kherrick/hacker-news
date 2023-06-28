@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast Machines, Slow Machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
-* [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
+* [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) is hiring a Rust developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
 * [2023-06-28, 04:48:03](https://news.ycombinator.com/item?id=36502433) - [Welcoming Shopify as a Ladybird sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
@@ -10,7 +11,6 @@
 * [2023-06-28, 02:46:45](https://news.ycombinator.com/item?id=36501657) - [Flashing elements alienate users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
 * [2023-06-28, 01:58:33](https://news.ycombinator.com/item?id=36501364) - [Using command line to process CSV files (2022)](https://muhammadraza.me/2022/data-oneliners/)
 * [2023-06-28, 01:38:12](https://news.ycombinator.com/item?id=36501209) - [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
-* [2023-06-28, 01:36:31](https://news.ycombinator.com/item?id=36501194) - [The False Dawn: Reevaluating Google's RL for Chip Macro Placement](https://arxiv.org/abs/2306.09633)
 * [2023-06-28, 01:04:38](https://news.ycombinator.com/item?id=36500945) - [Natural language is an unnatural interface](https://varunshenoy.substack.com/p/natural-language-is-an-unnatural)
 * [2023-06-27, 23:44:02](https://news.ycombinator.com/item?id=36500294) - [FreeBSD Jails Containers](https://vermaden.wordpress.com/2023/06/28/freebsd-jails-containers/)
 * [2023-06-27, 23:27:42](https://news.ycombinator.com/item?id=36500138) - [Google does little to reduce advertisers' costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
@@ -29,7 +29,7 @@
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
-* [2023-06-27, 11:11:00](https://news.ycombinator.com/item?id=36491313) - [Abusing Ahrefs Backlink Checker](https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/)
+* [2023-06-27, 11:11:00](https://news.ycombinator.com/item?id=36491313) - [Abusing Ahrefs backlink checker](https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/)
 
 ## [Archives](archives/index.md)
 
