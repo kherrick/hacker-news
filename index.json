@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 20:57:20",
+      "https://news.ycombinator.com/item?id=36512476"
+    ],
+    [
+      "Plex lays off more than 20 percent of its staff",
+      "https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 20:14:53",
       "https://news.ycombinator.com/item?id=36511948"
     ],
@@ -87,16 +97,6 @@
     [
       "Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
       "https://github.com/jetpack-io/typeid"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 16:16:13",
-      "https://news.ycombinator.com/item?id=36508624"
-    ],
-    [
-      "Microsoft opens MIDI 2.0 repo",
-      "https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/"
     ]
   ],
   [
