@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 17:02:08](https://news.ycombinator.com/item?id=36509288) - [Gathering the Streams](https://cr.openjdk.org/~vklang/Gatherers.html)
 * [2023-06-28, 17:01:01](https://news.ycombinator.com/item?id=36509275) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-28, 16:28:25](https://news.ycombinator.com/item?id=36508811) - [Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
 * [2023-06-28, 16:22:48](https://news.ycombinator.com/item?id=36508711) - [Apple Shuts Down “My Photo Stream”](https://support.apple.com/en-us/HT210705)
