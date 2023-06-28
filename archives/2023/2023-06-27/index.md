@@ -88,6 +88,7 @@
 * [2023-06-27, 12:01:08](https://news.ycombinator.com/item?id=36491647) - [Text Blaze (YC W21) Is Hiring a Growth Engineer to Pioneer LLM Driven Strategies](https://news.ycombinator.com/item?id=36491647)
 * [2023-06-27, 11:39:56](https://news.ycombinator.com/item?id=36491514) - [The Deep Sea](https://neal.fun/deep-sea/)
 * [2023-06-27, 11:15:28](https://news.ycombinator.com/item?id=36491338) - [Tinc, a GPLv2 mesh routing VPN](https://www.tinc-vpn.org/)
+* [2023-06-27, 11:11:59](https://news.ycombinator.com/item?id=36491321) - [What if your Pods need to trust self-signed certificates?](https://blog.alexellis.io/what-if-your-pods-need-to-trust-self-signed-certificates/)
 * [2023-06-27, 11:11:00](https://news.ycombinator.com/item?id=36491313) - [Abusing Ahrefs Backlink Checker](https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/)
 * [2023-06-27, 10:30:14](https://news.ycombinator.com/item?id=36491079) - [How to Imagine 52 Factorial](https://boingboing.net/2017/03/02/how-to-imagine-52-factorial.html)
 * [2023-06-27, 09:37:37](https://news.ycombinator.com/item?id=36490784) - [How Network Processors Work](https://barrgroup.com/embedded-systems/how-to/network-processors)

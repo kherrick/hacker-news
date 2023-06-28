@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 12:31:01](https://news.ycombinator.com/item?id=36505436) - [MS Teams Are Down](https://teams.microsoft.com)
 * [2023-06-28, 12:03:14](https://news.ycombinator.com/item?id=36505197) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-06-28, 11:56:55](https://news.ycombinator.com/item?id=36505152) - [Canada plans brain drain of H-1B visa holders, with no-job, no-worries permits](https://www.theregister.com/2023/06/28/canada_tech_talent_h1b_plan/)
 * [2023-06-28, 11:53:33](https://news.ycombinator.com/item?id=36505122) - [Ask HN: How to navigate the world as a brain-damaged 17 year old?](https://news.ycombinator.com/item?id=36505122)
 * [2023-06-28, 10:52:26](https://news.ycombinator.com/item?id=36504727) - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
+* [2023-06-28, 10:43:06](https://news.ycombinator.com/item?id=36504667) - [Five billion phones are dead in drawers – carriers want to mine them](https://www.theregister.com/2023/06/28/gsma_smartphone_recycling_plan/)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
+* [2023-06-28, 10:24:38](https://news.ycombinator.com/item?id=36504554) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast Machines, Slow Machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-28, 08:05:29](https://news.ycombinator.com/item?id=36503687) - [Irregularities found during FDA inspection of Intas Pharmaceuticals](https://www.fda.gov/media/164602/download)
 * [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
@@ -25,4 +29,5 @@
 * [2023-06-28, 01:38:12](https://news.ycombinator.com/item?id=36501209) - [Trinity Desktop Environment – a modern KDE3 fork](https://www.trinitydesktop.org/)
 * [2023-06-28, 01:36:31](https://news.ycombinator.com/item?id=36501194) - [The False Dawn: Reevaluating Google's RL for Chip Macro Placement](https://arxiv.org/abs/2306.09633)
 * [2023-06-28, 01:04:38](https://news.ycombinator.com/item?id=36500945) - [Natural language is an unnatural interface](https://varunshenoy.substack.com/p/natural-language-is-an-unnatural)
+* [2023-06-28, 01:03:53](https://news.ycombinator.com/item?id=36500935) - [Apple joins opposition to encrypted message app scanning](https://www.bbc.com/news/technology-66028773)
 * [2023-06-28, 00:01:23](https://news.ycombinator.com/item?id=36500448) - [Damaging Results of Mandated Return to Office – It's Worse Than We Thought](https://www.entrepreneur.com/growing-a-business/the-damaging-results-of-the-mandated-return-to-office-is/454043)
