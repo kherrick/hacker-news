@@ -11,6 +11,7 @@
 * [2023-06-28, 14:12:23](https://news.ycombinator.com/item?id=36506782) - [Fintech Engineering Mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 * [2023-06-28, 13:58:21](https://news.ycombinator.com/item?id=36506577) - [Experiments with olivine crystals in the ocean to increase CO2 absorption](https://www.nature.com/articles/d41586-023-02032-7)
 * [2023-06-28, 13:31:02](https://news.ycombinator.com/item?id=36506188) - [Pixel fucked: Inside Hollywood's VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
+* [2023-06-28, 13:18:38](https://news.ycombinator.com/item?id=36506013) - [The Power of 10: Rules for Developing Safety-Critical Code [pdf]](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
 * [2023-06-28, 13:11:28](https://news.ycombinator.com/item?id=36505918) - [Show HN: Litnerd (YC S21) – Kids Book Club Meets Gaming](https://news.ycombinator.com/item?id=36505918)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on explosive claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
 * [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
