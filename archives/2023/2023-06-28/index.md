@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 19:40:22](https://news.ycombinator.com/item?id=36511545) - [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
 * [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 * [2023-06-28, 18:43:03](https://news.ycombinator.com/item?id=36510701) - [Show HN: Serverless VPN, pay as you go, unlimited devices, no subscriptions](https://upvpn.app)
 * [2023-06-28, 18:34:10](https://news.ycombinator.com/item?id=36510594) - [Goodbye, Ozempic](https://www.theatlantic.com/health/archive/2023/06/ozempic-pills-obesity-drugs-semaglutide/674541/)
