@@ -54,6 +54,7 @@
 * [2023-06-27, 16:25:42](https://news.ycombinator.com/item?id=36495059) - [The Wild (and Slightly Terrifying) Future of Inescapable AR Ads](https://beyondthescreen.substack.com/p/the-wild-and-slightly-terrifying)
 * [2023-06-27, 16:25:07](https://news.ycombinator.com/item?id=36495048) - [There’s a Severe Shortage of Cancer Drugs](https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/)
 * [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
+* [2023-06-27, 16:19:03](https://news.ycombinator.com/item?id=36494952) - [With Great Observation Comes Great Insight (2020)](https://jack-vanlightly.com/blog/2020/5/26/with-great-observation-comes-great-insight)
 * [2023-06-27, 16:17:40](https://news.ycombinator.com/item?id=36494935) - [Zellij New WASM Plugin System](https://zellij.dev/news/new-plugin-system/)
 * [2023-06-27, 16:07:05](https://news.ycombinator.com/item?id=36494776) - [Pompeii archaeologists discover 'pizza' painting](https://www.bbc.co.uk/news/world-europe-66031341)
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
