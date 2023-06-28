@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 15:16:19](https://news.ycombinator.com/item?id=36507707) - [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
 * [2023-06-28, 14:30:39](https://news.ycombinator.com/item?id=36507031) - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:23:18](https://news.ycombinator.com/item?id=36506939) - [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)

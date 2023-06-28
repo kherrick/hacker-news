@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-28, 15:16:19](https://news.ycombinator.com/item?id=36507707) - [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
 * [2023-06-28, 14:30:39](https://news.ycombinator.com/item?id=36507031) - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:23:18](https://news.ycombinator.com/item?id=36506939) - [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
@@ -12,7 +13,6 @@
 * [2023-06-28, 12:17:53](https://news.ycombinator.com/item?id=36505318) - [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
 * [2023-06-28, 12:13:46](https://news.ycombinator.com/item?id=36505285) - [Ironies of Automation (1983) [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
 * [2023-06-28, 12:03:14](https://news.ycombinator.com/item?id=36505197) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2023-06-28, 11:41:21](https://news.ycombinator.com/item?id=36505035) - [Making Games](https://etodd.io/2023/06/27/making-games/)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
 * [2023-06-28, 10:24:38](https://news.ycombinator.com/item?id=36504554) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 09:59:08](https://news.ycombinator.com/item?id=36504393) - [Show HN: Playground for OpenAI Function Calling](https://langtale.ai/playground)
