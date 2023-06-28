@@ -59,6 +59,7 @@
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
 * [2023-06-27, 15:32:26](https://news.ycombinator.com/item?id=36494334) - [Intermittent fasting is as effective as counting calories, new study finds](https://www.npr.org/sections/health-shots/2023/06/26/1184390543/intermittent-fasting-effective-weight-loss)
 * [2023-06-27, 15:30:47](https://news.ycombinator.com/item?id=36494308) - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
+* [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)
 * [2023-06-27, 15:13:38](https://news.ycombinator.com/item?id=36494046) - [The future of AI according to thousands of forecasters](https://www.metaculus.com/ai/)
 * [2023-06-27, 15:04:12](https://news.ycombinator.com/item?id=36493907) - [Ask HN: Why Delaware and Not Dubai?](https://news.ycombinator.com/item?id=36493907)
 * [2023-06-27, 14:57:20](https://news.ycombinator.com/item?id=36493821) - [AMD Introduces World’s Largest FPGA-Based Adaptive SoC for Emulation](https://ir.amd.com/news-events/press-releases/detail/1141/amd-introduces-worlds-largest-fpga-based-adaptive-soc)
