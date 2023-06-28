@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 * [2023-06-28, 18:21:47](https://news.ycombinator.com/item?id=36510439) - [“But lawyers know nothing about tech ”](https://decoded.legal/blog/2023/06/but-lawyers-know-nothing-about-tech)
 * [2023-06-28, 18:07:58](https://news.ycombinator.com/item?id=36510273) - [I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:32:52](https://news.ycombinator.com/item?id=36509752) - [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
