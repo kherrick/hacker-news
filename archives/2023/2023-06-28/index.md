@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 16:17:57](https://news.ycombinator.com/item?id=36508641) - [Titanic tourist sub photos show wreckage being brought ashore](https://www.bbc.com/news/world-us-canada-66045554)
+* [2023-06-28, 16:16:13](https://news.ycombinator.com/item?id=36508624) - [Microsoft opens MIDI 2.0 repo](https://devblogs.microsoft.com/windows-music-dev/hello-midi-2-0-were-opening-the-repo/)
+* [2023-06-28, 16:15:58](https://news.ycombinator.com/item?id=36508618) - [PHP packages for Ubuntu EOL releases put under paywall](https://github.com/oerdnj/deb.sury.org/issues/1922)
 * [2023-06-28, 15:16:19](https://news.ycombinator.com/item?id=36507707) - [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
 * [2023-06-28, 14:30:39](https://news.ycombinator.com/item?id=36507031) - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
