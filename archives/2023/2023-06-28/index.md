@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 17:32:52](https://news.ycombinator.com/item?id=36509752) - [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
 * [2023-06-28, 17:02:08](https://news.ycombinator.com/item?id=36509288) - [Gathering the Streams](https://cr.openjdk.org/~vklang/Gatherers.html)
 * [2023-06-28, 17:01:01](https://news.ycombinator.com/item?id=36509275) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2023-06-28, 16:28:25](https://news.ycombinator.com/item?id=36508811) - [Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs](https://github.com/jetpack-io/typeid)
@@ -13,6 +14,7 @@
 * [2023-06-28, 16:15:58](https://news.ycombinator.com/item?id=36508618) - [PHP packages for Ubuntu EOL releases put under paywall](https://github.com/oerdnj/deb.sury.org/issues/1922)
 * [2023-06-28, 16:05:21](https://news.ycombinator.com/item?id=36508477) - [A trick to eliminate 2π (sometimes)](https://marci.gunyho.com/theta.html)
 * [2023-06-28, 15:16:19](https://news.ycombinator.com/item?id=36507707) - [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
+* [2023-06-28, 15:12:45](https://news.ycombinator.com/item?id=36507648) - [Construct's New WebGPU Renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
 * [2023-06-28, 14:30:39](https://news.ycombinator.com/item?id=36507031) - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:23:18](https://news.ycombinator.com/item?id=36506939) - [Testing the memory safe Rust implementation of Sudo/Su](https://ferrous-systems.com/blog/testing-sudo-rs/)
@@ -20,6 +22,7 @@
 * [2023-06-28, 14:17:25](https://news.ycombinator.com/item?id=36506854) - [Canada's new tech talent strategy](https://twitter.com/balajis/status/1673942301188706305)
 * [2023-06-28, 14:12:23](https://news.ycombinator.com/item?id=36506782) - [Fintech Engineering Mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 * [2023-06-28, 13:58:21](https://news.ycombinator.com/item?id=36506577) - [Experiments with olivine crystals in the ocean to increase CO2 absorption](https://www.nature.com/articles/d41586-023-02032-7)
+* [2023-06-28, 13:49:31](https://news.ycombinator.com/item?id=36506444) - [Honda Monkey Breaks World Record Covering 4,183 Km on Single Tank](https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/)
 * [2023-06-28, 13:31:02](https://news.ycombinator.com/item?id=36506188) - [Pixel fucked: Inside Hollywood's VFX crisis](https://www.gq-magazine.co.uk/culture/article/hollywood-vfx-industry-breaking-point)
 * [2023-06-28, 13:18:38](https://news.ycombinator.com/item?id=36506013) - [The Power of 10: Rules for Developing Safety-Critical Code [pdf]](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
 * [2023-06-28, 13:11:28](https://news.ycombinator.com/item?id=36505918) - [Show HN: Litnerd (YC S21) – Kids Book Club Meets Gaming](https://news.ycombinator.com/item?id=36505918)
