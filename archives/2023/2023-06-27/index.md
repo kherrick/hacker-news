@@ -29,6 +29,7 @@
 * [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 19:01:40](https://news.ycombinator.com/item?id=36497240) - [Sharing the seed deck we used to raise $6M from David Sacks at Craft Ventures](https://wraptext.equals.com/equals-seed-deck/)
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
+* [2023-06-27, 18:20:02](https://news.ycombinator.com/item?id=36496693) - [Cisco to buy network-monitoring firm SamKnows for better last-mile visibility](https://www.networkworld.com/article/3700616/cisco-to-buy-network-monitoring-firm-samknows-for-better-last-mile-visibility.html)
 * [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 18:15:52](https://news.ycombinator.com/item?id=36496644) - [Show HN: Endless – An attempt to unify the social media experience](https://github.com/kaangiray26/endless)
 * [2023-06-27, 18:10:38](https://news.ycombinator.com/item?id=36496583) - [Silicon Valley Is on Drugs](https://www.bloomberg.com/opinion/articles/2023-06-27/silicon-valley-is-on-drugs)
