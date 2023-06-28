@@ -66,6 +66,7 @@
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:34:53](https://news.ycombinator.com/item?id=36493441) - [The Precipitation Problem](https://firststreet.org/research-lab/published-research/article-highlights-from-the-precipitation-problem/)
 * [2023-06-27, 14:33:25](https://news.ycombinator.com/item?id=36493422) - [I Built Linux from Scratch](https://thesloth.me/posts/5/)
+* [2023-06-27, 14:26:07](https://news.ycombinator.com/item?id=36493296) - [Integrated Information Theory](http://www.scholarpedia.org/article/Integrated_information_theory)
 * [2023-06-27, 14:20:19](https://news.ycombinator.com/item?id=36493183) - [Nvidia AX800 High-End Arm Server on a PCIe Card](https://www.servethehome.com/nvidia-ax800-high-end-arm-server-on-a-pcie-card-ampere-ai-dpu/)
 * [2023-06-27, 14:06:24](https://news.ycombinator.com/item?id=36492975) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-06-27, 14:06:15](https://news.ycombinator.com/item?id=36492972) - [Build distributed RocksDB with OmniPaxos in 8 minutes](https://omnipaxos.com/blog/building-distributed-rocksdb-with-omnipaxos-in-8-minutes/)
