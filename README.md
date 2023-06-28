@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-28, 20:11:54](https://news.ycombinator.com/item?id=36511914) - [Microsoft's GitHub under fire for DDoSing crucial open source project website](https://www.theregister.com/2023/06/28/microsofts_github_gmp_project/)
 * [2023-06-28, 19:40:22](https://news.ycombinator.com/item?id=36511545) - [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
 * [2023-06-28, 19:32:59](https://news.ycombinator.com/item?id=36511444) - [Sony just spilled confidential Playstation information because of a Sharpie](https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops)
-* [2023-06-28, 19:08:53](https://news.ycombinator.com/item?id=36511096) - [Show HN: Gitopia: Decentralized GitHub Alternative for Open Source Collaboration](https://gitopia.com)
+* [2023-06-28, 19:09:54](https://news.ycombinator.com/item?id=36511111) - [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
 * [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 * [2023-06-28, 18:43:03](https://news.ycombinator.com/item?id=36510701) - [Show HN: Serverless VPN, pay as you go, unlimited devices, no subscriptions](https://upvpn.app)
 * [2023-06-28, 18:07:58](https://news.ycombinator.com/item?id=36510273) - [I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
@@ -23,6 +22,7 @@
 * [2023-06-28, 12:13:46](https://news.ycombinator.com/item?id=36505285) - [Ironies of Automation (1983) [pdf]](https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf)
 * [2023-06-28, 11:41:21](https://news.ycombinator.com/item?id=36505035) - [Making Games](https://etodd.io/2023/06/27/making-games/)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
+* [2023-06-28, 10:24:38](https://news.ycombinator.com/item?id=36504554) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-27, 15:39:39](https://news.ycombinator.com/item?id=36494430) - [How to make your scientific data accessible, discoverable and useful](https://www.nature.com/articles/d41586-023-01929-7)
 * [2023-06-27, 15:29:20](https://news.ycombinator.com/item?id=36494283) - [Xerox PARC's NoteCards in a Nutshell (1987) [pdf]](https://dl.acm.org/doi/pdf/10.1145/29933.30859)
