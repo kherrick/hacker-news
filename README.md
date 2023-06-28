@@ -2,7 +2,6 @@
 
 * [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 * [2023-06-28, 18:43:03](https://news.ycombinator.com/item?id=36510701) - [Show HN: Serverless VPN, pay as you go, unlimited devices, no subscriptions](https://upvpn.app)
-* [2023-06-28, 18:34:10](https://news.ycombinator.com/item?id=36510594) - [Goodbye, Ozempic](https://www.theatlantic.com/health/archive/2023/06/ozempic-pills-obesity-drugs-semaglutide/674541/)
 * [2023-06-28, 18:07:58](https://news.ycombinator.com/item?id=36510273) - [I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:32:52](https://news.ycombinator.com/item?id=36509752) - [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
 * [2023-06-28, 17:01:01](https://news.ycombinator.com/item?id=36509275) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -12,6 +11,7 @@
 * [2023-06-28, 15:12:45](https://news.ycombinator.com/item?id=36507648) - [Construct's New WebGPU Renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:18:12](https://news.ycombinator.com/item?id=36506865) - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
+* [2023-06-28, 14:12:23](https://news.ycombinator.com/item?id=36506782) - [Fintech engineering mistakes (2022)](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 * [2023-06-28, 13:49:31](https://news.ycombinator.com/item?id=36506444) - [Honda Monkey Breaks World Record Covering 4,183 Km on Single Tank](https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/)
 * [2023-06-28, 13:18:38](https://news.ycombinator.com/item?id=36506013) - [The Power of 10: Rules for Developing Safety-Critical Code [pdf]](http://web.eecs.umich.edu/~imarkov/10rules.pdf)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
