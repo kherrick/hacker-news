@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-28, 03:00:48",
+      "https://news.ycombinator.com/item?id=36501742"
+    ],
+    [
+      "Computerraria: A fully compliant RISC-V computer inside Terraria",
+      "https://github.com/misprit7/computerraria"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 02:46:45",
       "https://news.ycombinator.com/item?id=36501657"
     ],
     [
       "Every Flashing Element on Your Site Alienates and Enrages Users",
       "https://astralcodexten.substack.com/p/every-flashing-element-on-your-site"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 02:37:17",
+      "https://news.ycombinator.com/item?id=36501603"
+    ],
+    [
+      "Inaugural YC Top Companies List by Revenue",
+      "https://www.ycombinator.com/blog/yc-top-companies-list-by-revenue"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-06-27, 21:10:29",
-      "https://news.ycombinator.com/item?id=36498724"
-    ],
-    [
-      "SnarkOS: A Decentralized Operating System for Zero-Knowledge Applications",
-      "https://github.com/AleoHQ/snarkOS"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 21:00:36",
       "https://news.ycombinator.com/item?id=36498592"
     ],
@@ -157,6 +167,16 @@
     [
       "Tinyx – resurrected Xvesa from the depths of Git history",
       "https://github.com/tinycorelinux/tinyx"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 20:38:39",
+      "https://news.ycombinator.com/item?id=36498321"
+    ],
+    [
+      "EasyAQI – API Wrapper over Nominatim and OpenAQ",
+      "https://www.val.town/v/stevekrouse.easyAQI"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2023-06-27, 17:04:54",
-      "https://news.ycombinator.com/item?id=36495740"
-    ],
-    [
-      "Arduino Uno R4",
-      "https://store.arduino.cc/pages/uno-r4"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 16:43:12",
       "https://news.ycombinator.com/item?id=36495335"
     ],
@@ -277,16 +287,6 @@
     [
       "The Password Game",
       "https://neal.fun/password-game/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 14:33:25",
-      "https://news.ycombinator.com/item?id=36493422"
-    ],
-    [
-      "I Built Linux from Scratch",
-      "https://thesloth.me/posts/5/"
     ]
   ],
   [
