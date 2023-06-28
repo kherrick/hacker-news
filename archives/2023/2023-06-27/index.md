@@ -21,6 +21,7 @@
 * [2023-06-27, 21:00:36](https://news.ycombinator.com/item?id=36498592) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-06-27, 20:53:45](https://news.ycombinator.com/item?id=36498484) - [Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
 * [2023-06-27, 20:42:35](https://news.ycombinator.com/item?id=36498365) - [Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
+* [2023-06-27, 20:38:39](https://news.ycombinator.com/item?id=36498321) - [EasyAQI – API Wrapper over Nominatim and OpenAQ](https://www.val.town/v/stevekrouse.easyAQI)
 * [2023-06-27, 20:18:32](https://news.ycombinator.com/item?id=36498107) - [Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
 * [2023-06-27, 20:11:47](https://news.ycombinator.com/item?id=36498049) - [Let's welcome Meta, not block them](https://www.manton.org/2023/06/27/lets-welcome-meta.html)
 * [2023-06-27, 19:52:03](https://news.ycombinator.com/item?id=36497798) - [Sears offered complete houses in large DIY kits](https://twitter.com/historyinmemes/status/1673569802022010880)
