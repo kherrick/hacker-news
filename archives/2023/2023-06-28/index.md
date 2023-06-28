@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 20:57:20](https://news.ycombinator.com/item?id=36512476) - [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
 * [2023-06-28, 20:14:53](https://news.ycombinator.com/item?id=36511948) - [Stability AI Head of Research Resigns from Startup](https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup)
 * [2023-06-28, 20:11:54](https://news.ycombinator.com/item?id=36511914) - [Microsoft's GitHub under fire for DDoSing crucial open source project website](https://www.theregister.com/2023/06/28/microsofts_github_gmp_project/)
 * [2023-06-28, 19:40:22](https://news.ycombinator.com/item?id=36511545) - [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)

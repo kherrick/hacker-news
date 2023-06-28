@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-28, 20:57:20](https://news.ycombinator.com/item?id=36512476) - [Plex lays off more than 20 percent of its staff](https://www.theverge.com/2023/6/28/23777418/plex-layoffs-20-percent-staff)
 * [2023-06-28, 20:14:53](https://news.ycombinator.com/item?id=36511948) - [Stability AI Head of Research Resigns from Startup](https://www.bloomberg.com/news/articles/2023-06-26/stability-ai-head-of-research-resigns-from-startup)
 * [2023-06-28, 19:40:22](https://news.ycombinator.com/item?id=36511545) - [The bathyscaph Trieste: technological and operational aspects, 1958-1961](https://archive.org/details/bathyscaphtriest00wals)
 * [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
@@ -13,7 +14,6 @@
 * [2023-06-28, 15:12:45](https://news.ycombinator.com/item?id=36507648) - [Construct's New WebGPU Renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:18:12](https://news.ycombinator.com/item?id=36506865) - [We raised a bunch of money](https://fly.io/blog/we-raised-a-bunch-of-money/)
-* [2023-06-28, 14:12:23](https://news.ycombinator.com/item?id=36506782) - [Fintech engineering mistakes (2022)](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 * [2023-06-28, 13:49:31](https://news.ycombinator.com/item?id=36506444) - [Honda Monkey Breaks World Record Covering 4,183 Km on Single Tank](https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/)
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
 * [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
