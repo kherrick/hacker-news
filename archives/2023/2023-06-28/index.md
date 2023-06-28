@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 18:21:47](https://news.ycombinator.com/item?id=36510439) - [“But lawyers know nothing about tech ”](https://decoded.legal/blog/2023/06/but-lawyers-know-nothing-about-tech)
+* [2023-06-28, 18:07:58](https://news.ycombinator.com/item?id=36510273) - [I made a command-line tool to assist me with writing polyrhythmic drum parts](https://github.com/dredozubov/polyrhythmix)
 * [2023-06-28, 17:32:52](https://news.ycombinator.com/item?id=36509752) - [Show HN: PFAS.report – Measure the forever chemicals in your blood via Quest](https://pfas.report/)
 * [2023-06-28, 17:02:08](https://news.ycombinator.com/item?id=36509288) - [Gathering the Streams](https://cr.openjdk.org/~vklang/Gatherers.html)
 * [2023-06-28, 17:01:01](https://news.ycombinator.com/item?id=36509275) - [Motion (YC W20) Is Hiring Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
