@@ -20,7 +20,7 @@
 * [2023-06-27, 23:32:46](https://news.ycombinator.com/item?id=36500182) - [Cooklang – Recipe Markup Language](https://cooklang.org)
 * [2023-06-27, 23:27:42](https://news.ycombinator.com/item?id=36500138) - [Google does little to reduce advertisers' costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
 * [2023-06-27, 23:02:21](https://news.ycombinator.com/item?id=36499905) - [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
-* [2023-06-27, 21:43:09](https://news.ycombinator.com/item?id=36499073) - [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
+* [2023-06-27, 22:14:07](https://news.ycombinator.com/item?id=36499403) - [Microsoft BASIC for the Dragon 64](https://github.com/davidlinsley/DragonBasic)
 * [2023-06-27, 18:06:56](https://news.ycombinator.com/item?id=36496529) - [South Korea adopts new law to join the international standard of age counting](https://www.independent.co.uk/asia/east-asia/south-korea-new-age-system-2023-b2364809.html)
 * [2023-06-27, 17:00:47](https://news.ycombinator.com/item?id=36495684) - [Pixar was never a masterpiece factory](https://freddiedeboer.substack.com/p/pixar-was-never-a-masterpiece-factory)
 * [2023-06-27, 16:50:30](https://news.ycombinator.com/item?id=36495492) - [The Data Trust Deficit [pdf]](https://dl.acm.org/doi/pdf/10.1145/3605240)
