@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-28, 08:53:14",
+      "https://news.ycombinator.com/item?id=36503983"
+    ],
+    [
+      "Fast Machines, Slow Machines",
+      "https://jmmv.dev/2023/06/fast-machines-slow-machines.html"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 07:00:19",
       "https://news.ycombinator.com/item?id=36503255"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36501364"
     ],
     [
-      "Using command line to process CSV files",
+      "Using command line to process CSV files (2022)",
       "https://muhammadraza.me/2022/data-oneliners/"
     ]
   ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36498484"
     ],
     [
-      "Tinyx – resurrected Xvesa from the depths of Git history",
+      "Tinyx – Resurrected Xvesa from the depths of Git history",
       "https://github.com/tinycorelinux/tinyx"
     ]
   ],
@@ -177,26 +187,6 @@
     [
       "Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming",
       "https://github.com/susam/emacs4cl"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 19:52:03",
-      "https://news.ycombinator.com/item?id=36497798"
-    ],
-    [
-      "Sears offered complete houses in large DIY kits",
-      "https://twitter.com/historyinmemes/status/1673569802022010880"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 19:36:07",
-      "https://news.ycombinator.com/item?id=36497613"
-    ],
-    [
-      "Is ORM still an anti-pattern?",
-      "https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "macOS command-line tools you might not know about",
       "https://saurabhs.org/advanced-macos-commands"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 11:11:00",
+      "https://news.ycombinator.com/item?id=36491313"
+    ],
+    [
+      "Abusing Ahrefs Backlink Checker",
+      "https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/"
     ]
   ]
 ]
