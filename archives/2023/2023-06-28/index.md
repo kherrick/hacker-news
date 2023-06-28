@@ -9,6 +9,7 @@
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A Proto-Pizza Emerges from a Fresco on a Pompeii Wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [How Plastics Are Poisoning Us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
 * [2023-06-28, 04:31:22](https://news.ycombinator.com/item?id=36502319) - [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
+* [2023-06-28, 04:23:21](https://news.ycombinator.com/item?id=36502267) - [Glass Dresses, the Fairytale Fashion Trend That Never Quite Took Off](https://www.atlasobscura.com/articles/who-wears-glass-dresses)
 * [2023-06-28, 03:38:17](https://news.ycombinator.com/item?id=36501967) - [Mouse driver asking for firewall exemption to accept incoming connections (2019)](https://twitter.com/Foone/status/1146136479573299200)
 * [2023-06-28, 03:00:48](https://news.ycombinator.com/item?id=36501742) - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
 * [2023-06-28, 02:46:45](https://news.ycombinator.com/item?id=36501657) - [Every Flashing Element on Your Site Alienates and Enrages Users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)

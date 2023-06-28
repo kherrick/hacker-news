@@ -4,7 +4,7 @@
 * [2023-06-28, 04:48:03](https://news.ycombinator.com/item?id=36502433) - [Welcoming Shopify as a Ladybird sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
-* [2023-06-28, 04:31:22](https://news.ycombinator.com/item?id=36502319) - [What AMD Learned from Its Big Chiplet Push](https://spectrum.ieee.org/chiplet)
+* [2023-06-28, 04:23:21](https://news.ycombinator.com/item?id=36502267) - [Glass Dresses, the Fairytale Fashion Trend That Never Quite Took Off](https://www.atlasobscura.com/articles/who-wears-glass-dresses)
 * [2023-06-28, 03:00:48](https://news.ycombinator.com/item?id=36501742) - [Computerraria: A fully compliant RISC-V computer inside Terraria](https://github.com/misprit7/computerraria)
 * [2023-06-28, 02:46:45](https://news.ycombinator.com/item?id=36501657) - [Flashing elements alienate users](https://astralcodexten.substack.com/p/every-flashing-element-on-your-site)
 * [2023-06-28, 01:58:33](https://news.ycombinator.com/item?id=36501364) - [Using command line to process CSV files](https://muhammadraza.me/2022/data-oneliners/)
