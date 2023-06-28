@@ -1,8 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-28, 12:03:14](https://news.ycombinator.com/item?id=36505197) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-06-28, 11:53:33](https://news.ycombinator.com/item?id=36505122) - [Ask HN: How to navigate the world as a brain-damaged 17 year old?](https://news.ycombinator.com/item?id=36505122)
+* [2023-06-28, 10:52:26](https://news.ycombinator.com/item?id=36504727) - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast machines, slow machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
-* [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) is hiring a Rust developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
+* [2023-06-28, 08:05:29](https://news.ycombinator.com/item?id=36503687) - [Irregularities found during FDA inspection of Intas Pharmaceuticals](https://www.fda.gov/media/164602/download)
 * [2023-06-28, 04:48:03](https://news.ycombinator.com/item?id=36502433) - [Welcoming Shopify as a Ladybird sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A proto-pizza emerges from a fresco on a Pompeii wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [Plastics are poisoning us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
@@ -18,9 +21,7 @@
 * [2023-06-27, 23:27:42](https://news.ycombinator.com/item?id=36500138) - [Google does little to reduce advertisers' costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
 * [2023-06-27, 23:02:21](https://news.ycombinator.com/item?id=36499905) - [The hidden cost of air quality monitoring](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
 * [2023-06-27, 21:43:09](https://news.ycombinator.com/item?id=36499073) - [H100 GPUs Set Standard for Gen AI in Debut MLPerf Benchmark](https://blogs.nvidia.com/blog/2023/06/27/generative-ai-debut-mlperf/)
-* [2023-06-27, 20:53:45](https://news.ycombinator.com/item?id=36498484) - [Tinyx – Resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
 * [2023-06-27, 18:20:02](https://news.ycombinator.com/item?id=36496693) - [Cisco to buy network-monitoring firm SamKnows for better last-mile visibility](https://www.networkworld.com/article/3700616/cisco-to-buy-network-monitoring-firm-samknows-for-better-last-mile-visibility.html)
-* [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
 * [2023-06-27, 18:06:56](https://news.ycombinator.com/item?id=36496529) - [South Korea adopts new law to join the international standard of age counting](https://www.independent.co.uk/asia/east-asia/south-korea-new-age-system-2023-b2364809.html)
 * [2023-06-27, 17:00:47](https://news.ycombinator.com/item?id=36495684) - [Pixar was never a masterpiece factory](https://freddiedeboer.substack.com/p/pixar-was-never-a-masterpiece-factory)
 * [2023-06-27, 16:50:30](https://news.ycombinator.com/item?id=36495492) - [The Data Trust Deficit [pdf]](https://dl.acm.org/doi/pdf/10.1145/3605240)
@@ -29,7 +30,6 @@
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 12:08:38](https://news.ycombinator.com/item?id=36491704) - [macOS command-line tools you might not know about](https://saurabhs.org/advanced-macos-commands)
-* [2023-06-27, 11:11:00](https://news.ycombinator.com/item?id=36491313) - [Abusing Ahrefs backlink checker](https://www.trickster.dev/post/abusing-ahrefs-backlink-checker/)
 
 ## [Archives](archives/index.md)
 

@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 12:03:14](https://news.ycombinator.com/item?id=36505197) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2023-06-28, 11:53:33](https://news.ycombinator.com/item?id=36505122) - [Ask HN: How to navigate the world as a brain-damaged 17 year old?](https://news.ycombinator.com/item?id=36505122)
+* [2023-06-28, 10:52:26](https://news.ycombinator.com/item?id=36504727) - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast Machines, Slow Machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
+* [2023-06-28, 08:05:29](https://news.ycombinator.com/item?id=36503687) - [Irregularities found during FDA inspection of Intas Pharmaceuticals](https://www.fda.gov/media/164602/download)
 * [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
 * [2023-06-28, 04:48:03](https://news.ycombinator.com/item?id=36502433) - [Welcoming Shopify as a Ladybird Sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A Proto-Pizza Emerges from a Fresco on a Pompeii Wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
