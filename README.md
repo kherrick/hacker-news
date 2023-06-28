@@ -24,7 +24,7 @@
 * [2023-06-27, 17:04:54](https://news.ycombinator.com/item?id=36495740) - [Arduino Uno R4](https://store.arduino.cc/pages/uno-r4)
 * [2023-06-27, 16:43:12](https://news.ycombinator.com/item?id=36495335) - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [2023-06-27, 16:29:51](https://news.ycombinator.com/item?id=36495119) - [Way out in deep space, astronomers spot precursor of carbon based life](https://www.theregister.com/2023/06/27/jwst_carbon_molecule_discovery/)
-* [2023-06-27, 16:25:07](https://news.ycombinator.com/item?id=36495048) - [There’s a Severe Shortage of Cancer Drugs](https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/)
+* [2023-06-27, 16:25:07](https://news.ycombinator.com/item?id=36495048) - [There’s a severe shortage of cancer drugs](https://kffhealthnews.org/news/article/drugmakers-are-abandoning-cheap-generics-and-now-us-cancer-patients-cant-get-meds/)
 * [2023-06-27, 16:19:58](https://news.ycombinator.com/item?id=36494966) - [Caltech M4 Robot Flies, Rolls, Walks, and More](https://www.caltech.edu/about/news/new-bioinspired-robot-flies-rolls-walks-and-more)
 * [2023-06-27, 16:17:40](https://news.ycombinator.com/item?id=36494935) - [Zellij New WASM Plugin System](https://zellij.dev/news/new-plugin-system/)
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
