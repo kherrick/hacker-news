@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-29, 01:28:55",
+      "https://news.ycombinator.com/item?id=36515187"
+    ],
+    [
+      "OpenOrca: open source dataset and instruct-tuned LLMs",
+      "https://erichartford.com/openorca"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 00:52:21",
+      "https://news.ycombinator.com/item?id=36514936"
+    ],
+    [
+      "XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens",
+      "https://blog.salesforceairesearch.com/xgen/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 00:03:28",
       "https://news.ycombinator.com/item?id=36514521"
     ],
@@ -37,6 +57,16 @@
     [
       "National Geographic lays off its last remaining staff writers",
       "https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 22:14:49",
+      "https://news.ycombinator.com/item?id=36513396"
+    ],
+    [
+      "Larry Ellison: Oracle Database 1,000x Faster Than AWS Aurora",
+      "https://accelerationeconomy.com/cloud-wars/larry-ellison-oracle-database-1000x-faster-than-aws-aurora/"
     ]
   ],
   [
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2023-06-28, 16:05:21",
-      "https://news.ycombinator.com/item?id=36508477"
-    ],
-    [
-      "A trick to eliminate 2π (sometimes)",
-      "https://marci.gunyho.com/theta.html"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 15:12:45",
       "https://news.ycombinator.com/item?id=36507648"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-28, 12:13:46",
-      "https://news.ycombinator.com/item?id=36505285"
-    ],
-    [
-      "Ironies of Automation (1983) [pdf]",
-      "https://web.archive.org/web/20200717054958if_/https://www.ise.ncsu.edu/wp-content/uploads/2017/02/Bainbridge_1983_Automatica.pdf"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 11:41:21",
       "https://news.ycombinator.com/item?id=36505035"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2023-06-28, 10:42:10",
-      "https://news.ycombinator.com/item?id=36504661"
+      "2023-06-27, 21:01:52",
+      "https://news.ycombinator.com/item?id=36498614"
     ],
     [
-      "Vincent van Gogh's paintings and drawings",
-      "https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh"
+      "The Spilhaus World Ocean Map in a Square (2020)",
+      "https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2023-06-27, 15:35:31",
+      "https://news.ycombinator.com/item?id=36494378"
+    ],
+    [
+      "The Mac Pro’s biggest problem is the MacBook",
+      "https://www.theverge.com/23770770/apple-mac-pro-m2-ultra-2023-review"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 15:29:20",
       "https://news.ycombinator.com/item?id=36494283"
     ],
     [
       "Xerox PARC's NoteCards in a Nutshell (1987) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/29933.30859"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 15:13:50",
-      "https://news.ycombinator.com/item?id=36494049"
-    ],
-    [
-      "Lilos: A wee async RTOS for Cortex-M",
-      "https://github.com/cbiffle/lilos"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Zygomys: Embedded Scripting Language for Go",
       "https://github.com/glycerine/zygomys"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 14:26:07",
-      "https://news.ycombinator.com/item?id=36493296"
-    ],
-    [
-      "Integrated Information Theory",
-      "http://www.scholarpedia.org/article/Integrated_information_theory"
     ]
   ]
 ]
