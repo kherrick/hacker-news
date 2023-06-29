@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
 * [2023-06-29, 11:05:55](https://news.ycombinator.com/item?id=36518867) - [Data decisions create dark day for Irish democracy](https://www.irishtimes.com/technology/2023/06/29/data-decisions-create-dark-day-for-irish-democracy/)
 * [2023-06-29, 10:19:13](https://news.ycombinator.com/item?id=36518568) - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
 * [2023-06-29, 08:56:08](https://news.ycombinator.com/item?id=36518026) - [Fun with Char in SQL](http://databasearchitects.blogspot.com/2015/01/fun-with-char.html)
@@ -18,7 +19,6 @@
 * [2023-06-28, 19:03:04](https://news.ycombinator.com/item?id=36511012) - [Noticing when an app is only hosted in us-east-1](https://blog.jonlu.ca/posts/us-east-1-latency)
 * [2023-06-28, 17:38:38](https://news.ycombinator.com/item?id=36509844) - [Show HN: Webhooks for platforms that do not natively support them](https://nohooks.io)
 * [2023-06-28, 16:30:28](https://news.ycombinator.com/item?id=36508842) - [Ed Fredkin has died](https://twitter.com/dag_spicer/status/1673799376437927936)
-* [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 * [2023-06-27, 21:23:46](https://news.ycombinator.com/item?id=36498860) - [The Alphametics Page](https://www.math.uni-bielefeld.de/~sillke/PUZZLES/ALPHAMETIC/alphametic-mike-keith.html)
 * [2023-06-27, 21:03:24](https://news.ycombinator.com/item?id=36498632) - [The quest for a simple smartwatch](https://www.binarymoon.co.uk/writing/the-quest-for-a-simple-smartwatch/)
 * [2023-06-27, 20:53:16](https://news.ycombinator.com/item?id=36498477) - [Solving “Two Sum” in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
