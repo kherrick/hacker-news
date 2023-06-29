@@ -8,6 +8,7 @@
 * [2023-06-29, 23:08:23](https://news.ycombinator.com/item?id=36528077) - [Google's Epic Multi-Billion Dollar Ad Scam Makes Sense to Us](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
 * [2023-06-29, 23:06:24](https://news.ycombinator.com/item?id=36528057) - [Concord bank offers a 100-year CD](https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578)
 * [2023-06-29, 22:52:54](https://news.ycombinator.com/item?id=36527962) - [BART ridership is still down nearly 70% from pre-Covid levels](https://statecraft.beehiiv.com/p/public-transit-recovery)
+* [2023-06-29, 22:15:06](https://news.ycombinator.com/item?id=36527555) - [Self-published Ansible book – 87k copies, 300k revenue, 41 revisions](https://www.jeffgeerling.com/blog/2023/self-publishing-technical-book-10-years)
 * [2023-06-29, 22:05:01](https://news.ycombinator.com/item?id=36527423) - [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
 * [2023-06-29, 22:01:56](https://news.ycombinator.com/item?id=36527376) - [Twitter removed API endpoints without any prior communication](https://twittercommunity.com/t/get-2-users-id-following-is-now-broken/197526)
 * [2023-06-29, 21:50:47](https://news.ycombinator.com/item?id=36527247) - [Tell HN: 1Password 8.10.8 update corrupted data](https://news.ycombinator.com/item?id=36527247)
