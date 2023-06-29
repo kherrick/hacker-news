@@ -21,6 +21,7 @@
 * [2023-06-28, 19:32:59](https://news.ycombinator.com/item?id=36511444) - [Sony just spilled confidential Playstation information because of a Sharpie](https://www.theverge.com/2023/6/28/23777298/sony-ftc-microsoft-confidential-documents-marker-pen-scanner-oops)
 * [2023-06-28, 19:09:54](https://news.ycombinator.com/item?id=36511111) - [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
 * [2023-06-28, 19:08:53](https://news.ycombinator.com/item?id=36511096) - [Show HN: Gitopia: Decentralized GitHub Alternative for Open Source Collaboration](https://gitopia.com)
+* [2023-06-28, 19:03:04](https://news.ycombinator.com/item?id=36511012) - [Noticing when an app is only hosted in us-east-1](https://blog.jonlu.ca/posts/us-east-1-latency)
 * [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 * [2023-06-28, 18:43:03](https://news.ycombinator.com/item?id=36510701) - [Show HN: Serverless VPN, pay as you go, unlimited devices, no subscriptions](https://upvpn.app)
 * [2023-06-28, 18:34:10](https://news.ycombinator.com/item?id=36510594) - [Goodbye, Ozempic](https://www.theatlantic.com/health/archive/2023/06/ozempic-pills-obesity-drugs-semaglutide/674541/)
