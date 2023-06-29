@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-06-29, 22:01:56",
-      "https://news.ycombinator.com/item?id=36527376"
-    ],
-    [
-      "Twitter removed API endpoints without any prior communication",
-      "https://twittercommunity.com/t/get-2-users-id-following-is-now-broken/197526"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 21:34:00",
       "https://news.ycombinator.com/item?id=36527045"
     ],
@@ -37,6 +27,16 @@
     [
       "A PyTorch Approach to ML Infrastructure",
       "https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 21:24:46",
+      "https://news.ycombinator.com/item?id=36526944"
+    ],
+    [
+      "HyenaDNA: Long-Range Genomic Sequence Modeling (context length of 1M tokens)",
+      "https://arxiv.org/abs/2306.15794"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-06-27, 14:20:48",
-      "https://news.ycombinator.com/item?id=36493191"
+      "2023-06-27, 19:04:11",
+      "https://news.ycombinator.com/item?id=36497285"
     ],
     [
-      "Why write?",
-      "https://bastian.rieck.me/blog/posts/2023/writing_why/"
+      "Accelerating the discovery of new Nasca geoglyphs using deep learning",
+      "https://www.sciencedirect.com/science/article/pii/S0305440323000559"
     ]
   ]
 ]
