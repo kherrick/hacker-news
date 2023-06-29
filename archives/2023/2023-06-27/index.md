@@ -33,6 +33,7 @@
 * [2023-06-27, 19:46:08](https://news.ycombinator.com/item?id=36497732) - [Pre-Digital Font Tech: Formatt](https://www.marksimonson.com/notebook/view/pre-digital-font-tech-no-1-formatt)
 * [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 19:26:44](https://news.ycombinator.com/item?id=36497508) - [Writing Python Like Rust](https://oatzy.github.io/2020/05/10/writing-python-like-rust.html)
+* [2023-06-27, 19:22:16](https://news.ycombinator.com/item?id=36497470) - [Don’t emotionally Bootstrap your Startup](https://www.danielstillman.com/blog/dont-emotionally-bootstrap-your-startup)
 * [2023-06-27, 19:17:00](https://news.ycombinator.com/item?id=36497414) - [Show HN: Tweak your chord progressions for practice or composition](https://chord-alt.vercel.app/)
 * [2023-06-27, 19:01:40](https://news.ycombinator.com/item?id=36497240) - [Sharing the seed deck we used to raise $6M from David Sacks at Craft Ventures](https://wraptext.equals.com/equals-seed-deck/)
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
