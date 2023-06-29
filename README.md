@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 23:08:23](https://news.ycombinator.com/item?id=36528077) - [Google's Epic Multi-Billion Dollar Ad Scam Makes Sense to Us](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
+* [2023-06-29, 22:52:54](https://news.ycombinator.com/item?id=36527962) - [BART ridership is still down nearly 70% from pre-Covid levels](https://statecraft.beehiiv.com/p/public-transit-recovery)
 * [2023-06-29, 22:05:01](https://news.ycombinator.com/item?id=36527423) - [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
 * [2023-06-29, 21:34:00](https://news.ycombinator.com/item?id=36527045) - [Wayland is pretty good](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 21:28:51](https://news.ycombinator.com/item?id=36526992) - [A PyTorch Approach to ML Infrastructure](https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure)
-* [2023-06-29, 21:24:46](https://news.ycombinator.com/item?id=36526944) - [HyenaDNA: Long-Range Genomic Sequence Modeling (context length of 1M tokens)](https://arxiv.org/abs/2306.15794)
 * [2023-06-29, 21:08:31](https://news.ycombinator.com/item?id=36526726) - [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 * [2023-06-29, 20:44:50](https://news.ycombinator.com/item?id=36526453) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 * [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
@@ -29,7 +30,6 @@
 * [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
 * [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 * [2023-06-27, 20:49:16](https://news.ycombinator.com/item?id=36498432) - [A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
-* [2023-06-27, 19:04:11](https://news.ycombinator.com/item?id=36497285) - [Accelerating the discovery of new Nasca geoglyphs using deep learning](https://www.sciencedirect.com/science/article/pii/S0305440323000559)
 
 ## [Archives](archives/index.md)
 
