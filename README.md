@@ -7,6 +7,7 @@
 * [2023-06-29, 12:05:04](https://news.ycombinator.com/item?id=36519311) - [Last-minute Government amendment seeks to muzzle DPC critics (Ireland)](https://www.iccl.ie/news/last-minute-government-amendment-seeks-to-muzzle-dpc-critics/)
 * [2023-06-29, 10:42:26](https://news.ycombinator.com/item?id=36518714) - [Every new DMD version breaks some of my code](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
 * [2023-06-29, 10:19:13](https://news.ycombinator.com/item?id=36518568) - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
+* [2023-06-29, 09:30:47](https://news.ycombinator.com/item?id=36518256) - [Find a B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/)
 * [2023-06-29, 08:56:08](https://news.ycombinator.com/item?id=36518026) - [Fun with Char in SQL](http://databasearchitects.blogspot.com/2015/01/fun-with-char.html)
 * [2023-06-29, 08:25:51](https://news.ycombinator.com/item?id=36517832) - [Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
 * [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
@@ -27,7 +28,6 @@
 * [2023-06-27, 19:26:44](https://news.ycombinator.com/item?id=36497508) - [Writing Python like Rust (2020)](https://oatzy.github.io/2020/05/10/writing-python-like-rust.html)
 * [2023-06-27, 19:17:00](https://news.ycombinator.com/item?id=36497414) - [Show HN: Tweak your chord progressions for practice or composition](https://chord-alt.vercel.app/)
 * [2023-06-27, 15:43:33](https://news.ycombinator.com/item?id=36494484) - [Giant 'Gravity Hole' in the Ocean May Be the Ghost of an Ancient Sea](https://www.scientificamerican.com/article/giant-gravity-hole-in-the-ocean-may-be-the-ghost-of-an-ancient-sea1/)
-* [2023-06-27, 15:35:37](https://news.ycombinator.com/item?id=36494381) - [Vaporwave and Unicode Analysis](https://yaytext.com/blog/vaporwave-unicode-analysis/)
 * [2023-06-27, 14:20:48](https://news.ycombinator.com/item?id=36493191) - [Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
 * [2023-06-26, 09:57:30](https://news.ycombinator.com/item?id=36477710) - [Code the shortest path first](https://evanlh.com/posts/shortest_path_first_sdlc/)
 
