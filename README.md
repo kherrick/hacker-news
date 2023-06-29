@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 * [2023-06-29, 07:34:55](https://news.ycombinator.com/item?id=36517525) - [The Awk Programming Language, Second Edition](https://awk.dev/)
 * [2023-06-29, 06:38:10](https://news.ycombinator.com/item?id=36517149) - [Kagi raises $670k](https://blog.kagi.com/safe-round)
 * [2023-06-29, 04:32:33](https://news.ycombinator.com/item?id=36516315) - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
-* [2023-06-29, 04:17:31](https://news.ycombinator.com/item?id=36516237) - [Canada’s new tech talent strategy](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
 * [2023-06-29, 03:30:27](https://news.ycombinator.com/item?id=36515986) - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
 * [2023-06-29, 02:15:16](https://news.ycombinator.com/item?id=36515531) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 * [2023-06-29, 01:28:55](https://news.ycombinator.com/item?id=36515187) - [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)

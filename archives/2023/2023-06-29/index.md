@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 * [2023-06-29, 07:34:55](https://news.ycombinator.com/item?id=36517525) - [The Awk Programming Language, Second Edition](https://awk.dev/)
 * [2023-06-29, 06:38:10](https://news.ycombinator.com/item?id=36517149) - [Kagi Raises $670K](https://blog.kagi.com/safe-round)
 * [2023-06-29, 04:32:33](https://news.ycombinator.com/item?id=36516315) - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
