@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
+* [2023-06-29, 17:58:54](https://news.ycombinator.com/item?id=36524201) - [Gitlab AI is going head to head with GitHub Copilot](https://about.gitlab.com/solutions/code-suggestions/)
 * [2023-06-29, 17:54:02](https://news.ycombinator.com/item?id=36524106) - [Journalists should invest in journalism startups, particularly now](https://www.businessside.co/p/editorial-investing)
 * [2023-06-29, 17:52:45](https://news.ycombinator.com/item?id=36524078) - [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
 * [2023-06-29, 17:42:02](https://news.ycombinator.com/item?id=36523878) - [Ask HN: Is GitHub down?](https://news.ycombinator.com/item?id=36523878)
@@ -13,7 +14,6 @@
 * [2023-06-29, 17:12:49](https://news.ycombinator.com/item?id=36523378) - [An Interview with Marc Andreessen about AI and How You Change the World](https://stratechery.com/2023/an-interview-with-marc-andreessen-about-ai-and-how-you-change-the-world/)
 * [2023-06-29, 17:06:36](https://news.ycombinator.com/item?id=36523300) - [Freshpaint (YC S19) Is Hiring Software Engineers to Build a HIPAA Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-06-29, 16:27:38](https://news.ycombinator.com/item?id=36522665) - [Valve bans games using AI generated graphics or text from Steam](https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/)
-* [2023-06-29, 16:14:59](https://news.ycombinator.com/item?id=36522471) - [Aspartame is set to be declared a possible carcinogen](https://twitter.com/Reuters/status/1674309239974576128)
 * [2023-06-29, 15:55:56](https://news.ycombinator.com/item?id=36522182) - [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
 * [2023-06-29, 15:05:58](https://news.ycombinator.com/item?id=36521388) - [FTC reportedly plans major antitrust lawsuit against Amazon](https://nypost.com/2023/06/29/ftc-plans-major-antitrust-lawsuit-against-amazon-report/)
 * [2023-06-29, 14:40:17](https://news.ycombinator.com/item?id=36520985) - [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
