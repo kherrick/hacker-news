@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 16:27:38](https://news.ycombinator.com/item?id=36522665) - [Valve bans games using AI generated graphics or text from Steam](https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/)
+* [2023-06-29, 16:14:59](https://news.ycombinator.com/item?id=36522471) - [Aspartame is set to be declared a possible carcinogen](https://twitter.com/Reuters/status/1674309239974576128)
 * [2023-06-29, 15:58:55](https://news.ycombinator.com/item?id=36522232) - [Airbnb rental revenues have plunged in some parts of the US, this chart suggests](https://www.marketwatch.com/story/the-airbnb-collapse-is-real-rental-revenue-has-halved-in-some-parts-of-the-u-s-says-this-chart-83d72bbd)
+* [2023-06-29, 15:55:56](https://news.ycombinator.com/item?id=36522182) - [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
+* [2023-06-29, 15:05:58](https://news.ycombinator.com/item?id=36521388) - [FTC reportedly plans major antitrust lawsuit against Amazon](https://nypost.com/2023/06/29/ftc-plans-major-antitrust-lawsuit-against-amazon-report/)
 * [2023-06-29, 14:45:23](https://news.ycombinator.com/item?id=36521077) - [The Left’s Campaign to Destroy the Supreme Court](https://www.politico.com/news/magazine/2023/06/29/fake-crisis-supreme-court-00104106)
 * [2023-06-29, 14:40:17](https://news.ycombinator.com/item?id=36520985) - [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
