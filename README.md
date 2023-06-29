@@ -15,7 +15,6 @@
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Bill C-18: Google to remove news links in Canada over online news law](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:52:45](https://news.ycombinator.com/item?id=36524078) - [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
 * [2023-06-29, 17:40:15](https://news.ycombinator.com/item?id=36523843) - [Github.com is down](https://github.com/status)
-* [2023-06-29, 17:35:47](https://news.ycombinator.com/item?id=36523762) - [Towards an adaptable systems architecture for memory tiering at warehouse-scale](https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html)
 * [2023-06-29, 17:28:34](https://news.ycombinator.com/item?id=36523647) - [Beware of Unreliable Data in Model Evaluation: A LLM Prompt Selection Case Study](https://cleanlab.ai/blog/prompt-selection/)
 * [2023-06-29, 17:23:48](https://news.ycombinator.com/item?id=36523571) - [Being “rockstars”: when software was a talents/creatives industry](https://morepablo.com/2023/06/creatives-industries.html)
 * [2023-06-29, 17:19:01](https://news.ycombinator.com/item?id=36523480) - [Building Boba AI: Lessons learnt in building an LLM-powered application](https://martinfowler.com/articles/building-boba.html)
@@ -29,6 +28,7 @@
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming languages going above and beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
 * [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
+* [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 * [2023-06-27, 20:49:16](https://news.ycombinator.com/item?id=36498432) - [A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
 
 ## [Archives](archives/index.md)
