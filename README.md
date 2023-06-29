@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-29, 20:38:59](https://news.ycombinator.com/item?id=36526389) - [Fort Lauderdale saves nearly $350K after repurposing seaweed into planting soil](https://www.local10.com/news/local/2023/06/28/fort-lauderdale-saves-nearly-350k-after-repurposing-seaweed-into-planting-soil/)
+* [2023-06-29, 21:08:31](https://news.ycombinator.com/item?id=36526726) - [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
+* [2023-06-29, 20:04:15](https://news.ycombinator.com/item?id=36525950) - [Now you can search on Google for free: Solution with API](https://github.com/karust/openserp)
 * [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
 * [2023-06-29, 19:22:56](https://news.ycombinator.com/item?id=36525455) - [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
 * [2023-06-29, 18:52:01](https://news.ycombinator.com/item?id=36525015) - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
@@ -24,7 +25,6 @@
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
 * [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 * [2023-06-29, 07:34:55](https://news.ycombinator.com/item?id=36517525) - [The Awk Programming Language, Second Edition](https://awk.dev/)
-* [2023-06-28, 04:54:31](https://news.ycombinator.com/item?id=36502474) - [‘The World’ Review: History Branched Out](https://www.wsj.com/articles/the-world-review-history-branched-out-4d18193a)
 * [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
 * [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 * [2023-06-27, 20:49:16](https://news.ycombinator.com/item?id=36498432) - [A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
