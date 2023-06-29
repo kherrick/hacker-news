@@ -25,6 +25,7 @@
 * [2023-06-27, 21:00:36](https://news.ycombinator.com/item?id=36498592) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-06-27, 20:53:45](https://news.ycombinator.com/item?id=36498484) - [Tinyx – resurrected Xvesa from the depths of Git history](https://github.com/tinycorelinux/tinyx)
 * [2023-06-27, 20:53:16](https://news.ycombinator.com/item?id=36498477) - [Solving “Two Sum” in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
+* [2023-06-27, 20:49:16](https://news.ycombinator.com/item?id=36498432) - [A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
 * [2023-06-27, 20:42:35](https://news.ycombinator.com/item?id=36498365) - [Plane Crash Rates by Model](http://www.airsafe.com/events/models/rate_mod.htm)
 * [2023-06-27, 20:38:39](https://news.ycombinator.com/item?id=36498321) - [EasyAQI – API Wrapper over Nominatim and OpenAQ](https://www.val.town/v/stevekrouse.easyAQI)
 * [2023-06-27, 20:18:32](https://news.ycombinator.com/item?id=36498107) - [Emacs4CL: A DIY kit to set up vanilla Emacs for Common Lisp programming](https://github.com/susam/emacs4cl)
