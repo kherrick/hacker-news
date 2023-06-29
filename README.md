@@ -3,7 +3,6 @@
 * [2023-06-29, 12:44:50](https://news.ycombinator.com/item?id=36519633) - [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-29, 12:23:34](https://news.ycombinator.com/item?id=36519448) - [Scaling Linear's Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
-* [2023-06-29, 12:22:58](https://news.ycombinator.com/item?id=36519442) - [Submarine expert tried to dissuade OceanGate CEO, from taking customers in Titan](https://www.insider.com/submersible-expert-oceangate-ceo-hull-defect-will-only-get-worse-2023-6)
 * [2023-06-29, 12:10:09](https://news.ycombinator.com/item?id=36519359) - [Racket: The Lisp for the Modern Day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
 * [2023-06-29, 12:05:04](https://news.ycombinator.com/item?id=36519311) - [Last-minute Government amendment seeks to muzzle DPC critics (Ireland)](https://www.iccl.ie/news/last-minute-government-amendment-seeks-to-muzzle-dpc-critics/)
 * [2023-06-29, 10:42:26](https://news.ycombinator.com/item?id=36518714) - [Every new DMD version breaks some of my code](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
@@ -29,6 +28,7 @@
 * [2023-06-27, 19:17:00](https://news.ycombinator.com/item?id=36497414) - [Show HN: Tweak your chord progressions for practice or composition](https://chord-alt.vercel.app/)
 * [2023-06-27, 15:43:33](https://news.ycombinator.com/item?id=36494484) - [Giant 'Gravity Hole' in the Ocean May Be the Ghost of an Ancient Sea](https://www.scientificamerican.com/article/giant-gravity-hole-in-the-ocean-may-be-the-ghost-of-an-ancient-sea1/)
 * [2023-06-27, 15:35:37](https://news.ycombinator.com/item?id=36494381) - [Vaporwave and Unicode Analysis](https://yaytext.com/blog/vaporwave-unicode-analysis/)
+* [2023-06-27, 14:20:48](https://news.ycombinator.com/item?id=36493191) - [Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
 * [2023-06-26, 09:57:30](https://news.ycombinator.com/item?id=36477710) - [Code the shortest path first](https://evanlh.com/posts/shortest_path_first_sdlc/)
 
 ## [Archives](archives/index.md)

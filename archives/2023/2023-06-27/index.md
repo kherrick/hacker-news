@@ -86,6 +86,7 @@
 * [2023-06-27, 14:33:25](https://news.ycombinator.com/item?id=36493422) - [I Built Linux from Scratch](https://thesloth.me/posts/5/)
 * [2023-06-27, 14:26:07](https://news.ycombinator.com/item?id=36493296) - [Integrated Information Theory](http://www.scholarpedia.org/article/Integrated_information_theory)
 * [2023-06-27, 14:25:53](https://news.ycombinator.com/item?id=36493291) - [Margaret Cavendish’s brilliant writing was largely neglected in the 1600s](https://www.washingtonpost.com/books/2023/06/25/margaret-cavendish-reading-guide-400th-birthday/)
+* [2023-06-27, 14:20:48](https://news.ycombinator.com/item?id=36493191) - [Why Write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
 * [2023-06-27, 14:20:19](https://news.ycombinator.com/item?id=36493183) - [Nvidia AX800 High-End Arm Server on a PCIe Card](https://www.servethehome.com/nvidia-ax800-high-end-arm-server-on-a-pcie-card-ampere-ai-dpu/)
 * [2023-06-27, 14:06:24](https://news.ycombinator.com/item?id=36492975) - [There's still no silver bullet](https://changelog.com/posts/still-no-silver-bullet)
 * [2023-06-27, 14:06:15](https://news.ycombinator.com/item?id=36492972) - [Build distributed RocksDB with OmniPaxos in 8 minutes](https://omnipaxos.com/blog/building-distributed-rocksdb-with-omnipaxos-in-8-minutes/)
