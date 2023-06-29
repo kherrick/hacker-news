@@ -4,7 +4,7 @@
 * [2023-06-29, 19:22:56](https://news.ycombinator.com/item?id=36525455) - [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
 * [2023-06-29, 18:52:01](https://news.ycombinator.com/item?id=36525015) - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
 * [2023-06-29, 18:44:27](https://news.ycombinator.com/item?id=36524895) - [Ask HN: How to switch software engineering domains](https://news.ycombinator.com/item?id=36524895)
-* [2023-06-29, 18:41:17](https://news.ycombinator.com/item?id=36524840) - [Canada’s Bill C-18 and Our Search and News Products](https://blog.google/canada-news-en/)
+* [2023-06-29, 18:39:06](https://news.ycombinator.com/item?id=36524823) - [Mac Commands – Master your Mac with ease with this command reference](https://www.maccommands.com/)
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:58:54](https://news.ycombinator.com/item?id=36524201) - [Gitlab AI is going head to head with GitHub Copilot](https://about.gitlab.com/solutions/code-suggestions/)
 * [2023-06-29, 17:52:45](https://news.ycombinator.com/item?id=36524078) - [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
