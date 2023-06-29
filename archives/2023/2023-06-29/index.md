@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 15:58:55](https://news.ycombinator.com/item?id=36522232) - [Airbnb rental revenues have plunged in some parts of the US, this chart suggests](https://www.marketwatch.com/story/the-airbnb-collapse-is-real-rental-revenue-has-halved-in-some-parts-of-the-u-s-says-this-chart-83d72bbd)
 * [2023-06-29, 14:45:23](https://news.ycombinator.com/item?id=36521077) - [The Left’s Campaign to Destroy the Supreme Court](https://www.politico.com/news/magazine/2023/06/29/fake-crisis-supreme-court-00104106)
 * [2023-06-29, 14:40:17](https://news.ycombinator.com/item?id=36520985) - [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
@@ -13,6 +14,7 @@
 * [2023-06-29, 14:13:25](https://news.ycombinator.com/item?id=36520610) - [Water heavily polluted with PFAS in 15 km radius around Dordrecht chemical plant](https://nltimes.nl/2023/06/29/water-heavily-polluted-pfas-15-km-radius-around-dordrecht-chemical-plant-report)
 * [2023-06-29, 14:11:27](https://news.ycombinator.com/item?id=36520580) - [The new desktop Outlook is a bad idea. Here's why](https://www.windowscentral.com/software-apps/office-365/new-desktop-outlook-is-a-bad-idea-heres-why)
 * [2023-06-29, 13:55:30](https://news.ycombinator.com/item?id=36520423) - [Oral History of Ed Fredkin (2006) [pdf]](https://archive.computerhistory.org/resources/access/text/2013/05/102630504-05-01-acc.pdf)
+* [2023-06-29, 13:54:14](https://news.ycombinator.com/item?id=36520410) - [Show HN: Build a discord/Slack bot to answer questions with your docs and GPT4](https://www.windmill.dev/blog/knowledge-base-discord-bot)
 * [2023-06-29, 13:43:36](https://news.ycombinator.com/item?id=36520287) - [No code payments automation is a lie](https://hyperswitch.io/blog/no-code-payments-automation-is-a-lie)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-29, 12:44:50](https://news.ycombinator.com/item?id=36519633) - [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
