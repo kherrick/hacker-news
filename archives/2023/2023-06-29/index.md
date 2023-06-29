@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 23:27:09](https://news.ycombinator.com/item?id=36528230) - [We Analyzed 1,626 Banned Books Here's What We Found](https://statecraft.beehiiv.com/p/analyzed-1626-banned-booksheres-found)
 * [2023-06-29, 23:08:23](https://news.ycombinator.com/item?id=36528077) - [Google's Epic Multi-Billion Dollar Ad Scam Makes Sense to Us](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
+* [2023-06-29, 23:06:24](https://news.ycombinator.com/item?id=36528057) - [Concord bank offers a 100-year CD](https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578)
 * [2023-06-29, 22:52:54](https://news.ycombinator.com/item?id=36527962) - [BART ridership is still down nearly 70% from pre-Covid levels](https://statecraft.beehiiv.com/p/public-transit-recovery)
 * [2023-06-29, 22:05:01](https://news.ycombinator.com/item?id=36527423) - [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
 * [2023-06-29, 22:01:56](https://news.ycombinator.com/item?id=36527376) - [Twitter removed API endpoints without any prior communication](https://twittercommunity.com/t/get-2-users-id-following-is-now-broken/197526)

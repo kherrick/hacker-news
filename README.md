@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 23:27:09](https://news.ycombinator.com/item?id=36528230) - [We Analyzed 1,626 Banned Books Here's What We Found](https://statecraft.beehiiv.com/p/analyzed-1626-banned-booksheres-found)
 * [2023-06-29, 23:08:23](https://news.ycombinator.com/item?id=36528077) - [Google's Epic Multi-Billion Dollar Ad Scam Makes Sense to Us](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
+* [2023-06-29, 23:06:24](https://news.ycombinator.com/item?id=36528057) - [Concord bank offers a 100-year CD](https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578)
 * [2023-06-29, 22:52:54](https://news.ycombinator.com/item?id=36527962) - [BART ridership is still down nearly 70% from pre-Covid levels](https://statecraft.beehiiv.com/p/public-transit-recovery)
 * [2023-06-29, 22:05:01](https://news.ycombinator.com/item?id=36527423) - [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
 * [2023-06-29, 21:34:00](https://news.ycombinator.com/item?id=36527045) - [Wayland is pretty good](https://serebit.com/posts/wayland-is-pretty-good/)
@@ -26,9 +28,7 @@
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming languages going above and beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
-* [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 * [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
-* [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 * [2023-06-27, 20:49:16](https://news.ycombinator.com/item?id=36498432) - [A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
 
 ## [Archives](archives/index.md)
