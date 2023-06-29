@@ -4,6 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 17:54:02](https://news.ycombinator.com/item?id=36524106) - [Journalists should invest in journalism startups, particularly now](https://www.businessside.co/p/editorial-investing)
+* [2023-06-29, 17:52:45](https://news.ycombinator.com/item?id=36524078) - [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
+* [2023-06-29, 17:42:02](https://news.ycombinator.com/item?id=36523878) - [Ask HN: Is GitHub down?](https://news.ycombinator.com/item?id=36523878)
+* [2023-06-29, 17:40:15](https://news.ycombinator.com/item?id=36523843) - [Github.com is down](https://github.com/status)
+* [2023-06-29, 17:35:47](https://news.ycombinator.com/item?id=36523762) - [Towards an Adaptable Systems Architecture for Memory Tiering at Warehouse-Scale](https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html)
+* [2023-06-29, 17:28:34](https://news.ycombinator.com/item?id=36523647) - [Beware of Unreliable Data in Model Evaluation: A LLM Prompt Selection Case Study](https://cleanlab.ai/blog/prompt-selection/)
+* [2023-06-29, 17:23:48](https://news.ycombinator.com/item?id=36523571) - [Being “rockstars”: when software was a talents/creatives industry](https://morepablo.com/2023/06/creatives-industries.html)
+* [2023-06-29, 17:19:01](https://news.ycombinator.com/item?id=36523480) - [Building Boba AI: Lessons learnt in building an LLM-powered application](https://martinfowler.com/articles/building-boba.html)
+* [2023-06-29, 17:12:52](https://news.ycombinator.com/item?id=36523379) - [An Emoji-based Guide for Speaking Distributed Systems and Temporal](https://temporal.io/blog/25-key-terms-for-speaking-distributed-systems-and-temporal)
+* [2023-06-29, 17:12:49](https://news.ycombinator.com/item?id=36523378) - [An Interview with Marc Andreessen about AI and How You Change the World](https://stratechery.com/2023/an-interview-with-marc-andreessen-about-ai-and-how-you-change-the-world/)
 * [2023-06-29, 17:06:36](https://news.ycombinator.com/item?id=36523300) - [Freshpaint (YC S19) Is Hiring Software Engineers to Build a HIPAA Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-06-29, 16:27:38](https://news.ycombinator.com/item?id=36522665) - [Valve bans games using AI generated graphics or text from Steam](https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/)
 * [2023-06-29, 16:21:08](https://news.ycombinator.com/item?id=36522561) - [Vassalization: How Russia’s War on Ukraine Transformed Transatlantic Relations](https://warontherocks.com/2023/06/the-art-of-vassalization-how-russias-war-on-ukraine-has-transformed-transatlantic-relations/)
