@@ -70,6 +70,7 @@
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast Machines, Slow Machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
 * [2023-06-28, 08:05:29](https://news.ycombinator.com/item?id=36503687) - [Irregularities found during FDA inspection of Intas Pharmaceuticals](https://www.fda.gov/media/164602/download)
 * [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
+* [2023-06-28, 04:54:31](https://news.ycombinator.com/item?id=36502474) - [‘The World’ Review: History Branched Out](https://www.wsj.com/articles/the-world-review-history-branched-out-4d18193a)
 * [2023-06-28, 04:48:03](https://news.ycombinator.com/item?id=36502433) - [Welcoming Shopify as a Ladybird Sponsor](https://awesomekling.substack.com/p/welcoming-shopify-as-a-ladybird-sponsor)
 * [2023-06-28, 04:41:51](https://news.ycombinator.com/item?id=36502398) - [A Proto-Pizza Emerges from a Fresco on a Pompeii Wall](http://pompeiisites.org/en/comunicati/pompeii-a-still-life-discovered-by-the-new-excavations-of-regio-ix/)
 * [2023-06-28, 04:36:33](https://news.ycombinator.com/item?id=36502366) - [How Plastics Are Poisoning Us](https://www.newyorker.com/magazine/2023/07/03/book-reviews-plastic-waste)
