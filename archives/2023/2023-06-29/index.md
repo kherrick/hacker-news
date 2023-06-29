@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 20:38:59](https://news.ycombinator.com/item?id=36526389) - [Fort Lauderdale saves nearly $350K after repurposing seaweed into planting soil](https://www.local10.com/news/local/2023/06/28/fort-lauderdale-saves-nearly-350k-after-repurposing-seaweed-into-planting-soil/)
 * [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
 * [2023-06-29, 19:22:56](https://news.ycombinator.com/item?id=36525455) - [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
 * [2023-06-29, 18:52:01](https://news.ycombinator.com/item?id=36525015) - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
