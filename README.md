@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 02:54:53](https://news.ycombinator.com/item?id=36515787) - [The working-from-home delusion fades](https://www.economist.com/finance-and-economics/2023/06/28/the-working-from-home-delusion-fades)
 * [2023-06-29, 01:28:55](https://news.ycombinator.com/item?id=36515187) - [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
 * [2023-06-29, 00:52:21](https://news.ycombinator.com/item?id=36514936) - [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
 * [2023-06-29, 00:03:28](https://news.ycombinator.com/item?id=36514521) - [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)
@@ -17,7 +18,7 @@
 * [2023-06-28, 15:12:45](https://news.ycombinator.com/item?id=36507648) - [Construct's New WebGPU Renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 13:49:31](https://news.ycombinator.com/item?id=36506444) - [Honda Monkey Breaks World Record Covering 4,183 Km on Single Tank](https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/)
-* [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
+* [2023-06-28, 13:11:28](https://news.ycombinator.com/item?id=36505918) - [Show HN: Litnerd (YC S21) – Kids Book Club Meets Gaming](https://news.ycombinator.com/item?id=36505918)
 * [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
 * [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 * [2023-06-27, 21:01:52](https://news.ycombinator.com/item?id=36498614) - [The Spilhaus World Ocean Map in a Square (2020)](https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d)
@@ -25,11 +26,10 @@
 * [2023-06-27, 16:19:03](https://news.ycombinator.com/item?id=36494952) - [With Great Observation Comes Great Insight (2020)](https://jack-vanlightly.com/blog/2020/5/26/with-great-observation-comes-great-insight)
 * [2023-06-27, 15:46:57](https://news.ycombinator.com/item?id=36494520) - [The Comprehensive Guide to Elixir's List Comprehension (2022)](https://www.mitchellhanberg.com/the-comprehensive-guide-to-elixirs-for-comprehension/)
 * [2023-06-27, 15:39:39](https://news.ycombinator.com/item?id=36494430) - [How to make your scientific data accessible, discoverable and useful](https://www.nature.com/articles/d41586-023-01929-7)
+* [2023-06-27, 15:35:37](https://news.ycombinator.com/item?id=36494381) - [Vaporwave and Unicode Analysis](https://yaytext.com/blog/vaporwave-unicode-analysis/)
 * [2023-06-27, 15:29:20](https://news.ycombinator.com/item?id=36494283) - [Xerox PARC's NoteCards in a Nutshell (1987) [pdf]](https://dl.acm.org/doi/pdf/10.1145/29933.30859)
-* [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:42:24](https://news.ycombinator.com/item?id=36493562) - [Zygomys: Embedded Scripting Language for Go](https://github.com/glycerine/zygomys)
-* [2023-06-27, 14:26:07](https://news.ycombinator.com/item?id=36493296) - [Integrated Information Theory](http://www.scholarpedia.org/article/Integrated_information_theory)
 
 ## [Archives](archives/index.md)
 

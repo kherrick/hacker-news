@@ -62,6 +62,7 @@
 * [2023-06-27, 15:56:41](https://news.ycombinator.com/item?id=36494639) - [Launch HN: Fuse (YC W19) – Unified API for financial data aggregators](https://news.ycombinator.com/item?id=36494639)
 * [2023-06-27, 15:46:57](https://news.ycombinator.com/item?id=36494520) - [The Comprehensive Guide to Elixir's List Comprehension (2022)](https://www.mitchellhanberg.com/the-comprehensive-guide-to-elixirs-for-comprehension/)
 * [2023-06-27, 15:39:39](https://news.ycombinator.com/item?id=36494430) - [How to make your scientific data accessible, discoverable and useful](https://www.nature.com/articles/d41586-023-01929-7)
+* [2023-06-27, 15:35:37](https://news.ycombinator.com/item?id=36494381) - [Vaporwave and Unicode Analysis](https://yaytext.com/blog/vaporwave-unicode-analysis/)
 * [2023-06-27, 15:35:31](https://news.ycombinator.com/item?id=36494378) - [The Mac Pro’s biggest problem is the MacBook](https://www.theverge.com/23770770/apple-mac-pro-m2-ultra-2023-review)
 * [2023-06-27, 15:32:26](https://news.ycombinator.com/item?id=36494334) - [Intermittent fasting is as effective as counting calories, new study finds](https://www.npr.org/sections/health-shots/2023/06/26/1184390543/intermittent-fasting-effective-weight-loss)
 * [2023-06-27, 15:30:47](https://news.ycombinator.com/item?id=36494308) - [Blender 3.6 LTS Released](https://www.blender.org/download/releases/3-6/)
