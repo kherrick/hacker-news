@@ -2,6 +2,7 @@
 
 * [2023-06-29, 04:17:31](https://news.ycombinator.com/item?id=36516237) - [Canada announces open work-permit for tech workers and digital nomads](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
 * [2023-06-29, 03:30:27](https://news.ycombinator.com/item?id=36515986) - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
+* [2023-06-29, 02:08:06](https://news.ycombinator.com/item?id=36515484) - [Isaac Asimov's Foundation and the Limits of Liberalism](https://zacharydcarter.substack.com/p/isaac-asimovs-foundation-and-the)
 * [2023-06-29, 01:28:55](https://news.ycombinator.com/item?id=36515187) - [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
 * [2023-06-29, 00:52:21](https://news.ycombinator.com/item?id=36514936) - [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
 * [2023-06-29, 00:03:28](https://news.ycombinator.com/item?id=36514521) - [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)
@@ -20,7 +21,6 @@
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 13:49:31](https://news.ycombinator.com/item?id=36506444) - [Honda Monkey Breaks World Record Covering 4,183 Km on Single Tank](https://www.advpulse.com/adv-news/honda-monkey-breaks-world-record-covering-4183-km-on-single-tank/)
 * [2023-06-28, 13:11:28](https://news.ycombinator.com/item?id=36505918) - [Show HN: Litnerd (YC S21) – Kids Book Club Meets Gaming](https://news.ycombinator.com/item?id=36505918)
-* [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
 * [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 * [2023-06-27, 21:01:52](https://news.ycombinator.com/item?id=36498614) - [The Spilhaus World Ocean Map in a Square (2020)](https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d)
 * [2023-06-27, 19:26:44](https://news.ycombinator.com/item?id=36497508) - [Writing Python Like Rust](https://oatzy.github.io/2020/05/10/writing-python-like-rust.html)
