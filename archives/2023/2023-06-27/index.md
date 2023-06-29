@@ -18,6 +18,7 @@
 * [2023-06-27, 21:34:36](https://news.ycombinator.com/item?id=36498978) - [Ford to lay off workers as it focuses on electric vehicles](https://www.cnn.com/2023/06/27/business/ford-layoffs/index.html)
 * [2023-06-27, 21:27:25](https://news.ycombinator.com/item?id=36498897) - [LetMeSpy, a stalkerware app spying on thousands, says it was hacked](https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/)
 * [2023-06-27, 21:10:29](https://news.ycombinator.com/item?id=36498724) - [SnarkOS: A Decentralized Operating System for Zero-Knowledge Applications](https://github.com/AleoHQ/snarkOS)
+* [2023-06-27, 21:03:24](https://news.ycombinator.com/item?id=36498632) - [The Quest for a Simple Smartwatch](https://www.binarymoon.co.uk/writing/the-quest-for-a-simple-smartwatch/)
 * [2023-06-27, 21:01:52](https://news.ycombinator.com/item?id=36498614) - [The Spilhaus World Ocean Map in a Square (2020)](https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d)
 * [2023-06-27, 21:01:30](https://news.ycombinator.com/item?id=36498605) - [Sam Bankman-Fried fails to dismiss criminal charges related to FTX](https://www.ft.com/content/935ec2fc-ce52-424c-a615-a7d49c26c397)
 * [2023-06-27, 21:00:36](https://news.ycombinator.com/item?id=36498592) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
