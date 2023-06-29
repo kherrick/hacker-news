@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:54:02](https://news.ycombinator.com/item?id=36524106) - [Journalists should invest in journalism startups, particularly now](https://www.businessside.co/p/editorial-investing)
 * [2023-06-29, 17:52:45](https://news.ycombinator.com/item?id=36524078) - [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
 * [2023-06-29, 17:42:02](https://news.ycombinator.com/item?id=36523878) - [Ask HN: Is GitHub down?](https://news.ycombinator.com/item?id=36523878)
@@ -22,7 +23,6 @@
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming languages going above and beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-29, 12:10:09](https://news.ycombinator.com/item?id=36519359) - [Racket: Lisp for the modern day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
-* [2023-06-29, 09:30:47](https://news.ycombinator.com/item?id=36518256) - [Find a B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/)
 * [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 * [2023-06-29, 07:34:55](https://news.ycombinator.com/item?id=36517525) - [The Awk Programming Language, Second Edition](https://awk.dev/)
 * [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
