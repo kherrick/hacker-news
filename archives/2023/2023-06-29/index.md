@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
 * [2023-06-29, 14:45:23](https://news.ycombinator.com/item?id=36521077) - [The Left’s Campaign to Destroy the Supreme Court](https://www.politico.com/news/magazine/2023/06/29/fake-crisis-supreme-court-00104106)
+* [2023-06-29, 14:40:17](https://news.ycombinator.com/item?id=36520985) - [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 14:32:42](https://news.ycombinator.com/item?id=36520869) - [U.S. Supreme Court curbs affirmative action in university admissions](https://www.reuters.com/legal/us-supreme-court-strikes-down-university-race-conscious-admissions-policies-2023-06-29/)
 * [2023-06-29, 14:24:51](https://news.ycombinator.com/item?id=36520765) - [Supreme Court restricts use of affirmative action for college admission](https://www.washingtonpost.com/politics/2023/06/29/affirmative-action-supreme-court-ruling/)
