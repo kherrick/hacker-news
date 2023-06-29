@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
 * [2023-06-29, 22:05:01](https://news.ycombinator.com/item?id=36527423) - [English as the new programming language for Apache spark](https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark)
+* [2023-06-29, 22:01:56](https://news.ycombinator.com/item?id=36527376) - [Twitter removed API endpoints without any prior communication](https://twittercommunity.com/t/get-2-users-id-following-is-now-broken/197526)
 * [2023-06-29, 21:50:47](https://news.ycombinator.com/item?id=36527247) - [Tell HN: 1Password 8.10.8 update corrupted data](https://news.ycombinator.com/item?id=36527247)
 * [2023-06-29, 21:34:00](https://news.ycombinator.com/item?id=36527045) - [Wayland Is Pretty Good](https://serebit.com/posts/wayland-is-pretty-good/)
 * [2023-06-29, 21:28:51](https://news.ycombinator.com/item?id=36526992) - [A PyTorch Approach to ML Infrastructure](https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure)
@@ -12,6 +13,7 @@
 * [2023-06-29, 21:16:38](https://news.ycombinator.com/item?id=36526827) - [The Gentleperson's Guide to Forum Spies](https://web.archive.org/web/20221215015113/https://pastebin.com/raw/irj4Fyd5)
 * [2023-06-29, 21:08:31](https://news.ycombinator.com/item?id=36526726) - [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 * [2023-06-29, 21:01:22](https://news.ycombinator.com/item?id=36526645) - [Why Do Men Stupefy Themselves? Leo Tolstoy on Why We Drink (2014)](https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/)
+* [2023-06-29, 20:44:50](https://news.ycombinator.com/item?id=36526453) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 * [2023-06-29, 20:38:59](https://news.ycombinator.com/item?id=36526389) - [Fort Lauderdale saves nearly $350K after repurposing seaweed into planting soil](https://www.local10.com/news/local/2023/06/28/fort-lauderdale-saves-nearly-350k-after-repurposing-seaweed-into-planting-soil/)
 * [2023-06-29, 20:04:15](https://news.ycombinator.com/item?id=36525950) - [Now you can search on Google for free: Solution with API](https://github.com/karust/openserp)
 * [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
