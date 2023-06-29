@@ -51,6 +51,7 @@
 * [2023-06-27, 17:00:18](https://news.ycombinator.com/item?id=36495676) - [QuestDB (YC S20) Is Hiring a Technical Content Lead](https://questdb.io/careers/technical-content-lead/)
 * [2023-06-27, 17:00:05](https://news.ycombinator.com/item?id=36495667) - [Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022](https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html)
 * [2023-06-27, 16:59:19](https://news.ycombinator.com/item?id=36495656) - [GripTape Challenge – Learn What and How You Want](https://www.griptape.org/)
+* [2023-06-27, 16:58:59](https://news.ycombinator.com/item?id=36495651) - [What Is a Time-Series Plot, and How Can You Create One?](https://www.timescale.com/blog/what-is-a-time-series-plot-and-how-can-you-create-one/)
 * [2023-06-27, 16:50:30](https://news.ycombinator.com/item?id=36495492) - [The Data Trust Deficit [pdf]](https://dl.acm.org/doi/pdf/10.1145/3605240)
 * [2023-06-27, 16:43:12](https://news.ycombinator.com/item?id=36495335) - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [2023-06-27, 16:33:45](https://news.ycombinator.com/item?id=36495191) - [Volvo Cars Adopts Tesla's NACS Port in the United States, Canada and Mexico](https://www.media.volvocars.com/global/en-gb/media/pressreleases/316416/electric-volvo-car-drivers-will-get-access-to-12000-tesla-superchargers-across-the-united-states-can)

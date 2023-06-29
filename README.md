@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 06:38:10](https://news.ycombinator.com/item?id=36517149) - [Kagi Raises $670K](https://blog.kagi.com/safe-round)
 * [2023-06-29, 04:32:33](https://news.ycombinator.com/item?id=36516315) - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
 * [2023-06-29, 04:17:31](https://news.ycombinator.com/item?id=36516237) - [Canada’s new tech talent strategy](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
 * [2023-06-29, 03:30:27](https://news.ycombinator.com/item?id=36515986) - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
@@ -22,9 +23,8 @@
 * [2023-06-28, 13:11:28](https://news.ycombinator.com/item?id=36505918) - [Show HN: Litnerd (YC S21) – Kids Book Club Meets Gaming](https://news.ycombinator.com/item?id=36505918)
 * [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
 * [2023-06-27, 21:23:46](https://news.ycombinator.com/item?id=36498860) - [The Alphametics Page](https://www.math.uni-bielefeld.de/~sillke/PUZZLES/ALPHAMETIC/alphametic-mike-keith.html)
-* [2023-06-27, 21:03:24](https://news.ycombinator.com/item?id=36498632) - [The Quest for a Simple Smartwatch](https://www.binarymoon.co.uk/writing/the-quest-for-a-simple-smartwatch/)
-* [2023-06-27, 19:26:44](https://news.ycombinator.com/item?id=36497508) - [Writing Python Like Rust](https://oatzy.github.io/2020/05/10/writing-python-like-rust.html)
 * [2023-06-27, 19:17:00](https://news.ycombinator.com/item?id=36497414) - [Show HN: Tweak your chord progressions for practice or composition](https://chord-alt.vercel.app/)
+* [2023-06-27, 16:58:59](https://news.ycombinator.com/item?id=36495651) - [What Is a Time-Series Plot, and How Can You Create One?](https://www.timescale.com/blog/what-is-a-time-series-plot-and-how-can-you-create-one/)
 * [2023-06-27, 15:46:57](https://news.ycombinator.com/item?id=36494520) - [The Comprehensive Guide to Elixir's List Comprehension (2022)](https://www.mitchellhanberg.com/the-comprehensive-guide-to-elixirs-for-comprehension/)
 * [2023-06-27, 15:39:39](https://news.ycombinator.com/item?id=36494430) - [How to make your scientific data accessible, discoverable and useful](https://www.nature.com/articles/d41586-023-01929-7)
 * [2023-06-27, 15:35:37](https://news.ycombinator.com/item?id=36494381) - [Vaporwave and Unicode Analysis](https://yaytext.com/blog/vaporwave-unicode-analysis/)
