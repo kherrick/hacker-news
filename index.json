@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-06-28, 18:46:14",
-      "https://news.ycombinator.com/item?id=36510745"
-    ],
-    [
-      "Future CSS: State Container Queries",
-      "https://ishadeed.com/article/css-state-queries/"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 17:38:38",
       "https://news.ycombinator.com/item?id=36509844"
     ],
@@ -177,6 +167,16 @@
     [
       "Ed Fredkin has died",
       "https://twitter.com/dag_spicer/status/1673799376437927936"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 16:28:25",
+      "https://news.ycombinator.com/item?id=36508811"
+    ],
+    [
+      "Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
+      "https://github.com/jetpack-io/typeid"
     ]
   ],
   [
