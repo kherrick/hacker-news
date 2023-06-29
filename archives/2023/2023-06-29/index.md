@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 14:16:31](https://news.ycombinator.com/item?id=36520658) - [Affirmative action at US colleges has been banned](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)
+* [2023-06-29, 14:13:25](https://news.ycombinator.com/item?id=36520610) - [Water heavily polluted with PFAS in 15 km radius around Dordrecht chemical plant](https://nltimes.nl/2023/06/29/water-heavily-polluted-pfas-15-km-radius-around-dordrecht-chemical-plant-report)
 * [2023-06-29, 12:44:50](https://news.ycombinator.com/item?id=36519633) - [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-29, 12:23:34](https://news.ycombinator.com/item?id=36519448) - [Scaling Linear's Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
