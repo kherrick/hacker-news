@@ -20,7 +20,6 @@
 * [2023-06-28, 13:08:08](https://news.ycombinator.com/item?id=36505876) - [US Congress doubles down on claims of illegal UFO retrieval programs](https://thehill.com/opinion/technology/4067865-congress-doubles-down-on-explosive-claims-of-illegal-ufo-retrieval-programs/)
 * [2023-06-28, 13:07:07](https://news.ycombinator.com/item?id=36505859) - [Show HN: Open-source background removal in the browser](https://github.com/imgly/background-removal-js)
 * [2023-06-28, 12:57:11](https://news.ycombinator.com/item?id=36505743) - [Launch HN: June (YC W21) – Product Analytics for B2B SaaS Companies](https://news.ycombinator.com/item?id=36505743)
-* [2023-06-28, 12:17:53](https://news.ycombinator.com/item?id=36505318) - [BlockSuite: An open-source Notion-like editor with multiplayer support](https://blocksuite.affine.pro/blocksuite-overview.html)
 * [2023-06-27, 21:01:52](https://news.ycombinator.com/item?id=36498614) - [The Spilhaus World Ocean Map in a Square (2020)](https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d)
 * [2023-06-27, 19:26:44](https://news.ycombinator.com/item?id=36497508) - [Writing Python Like Rust](https://oatzy.github.io/2020/05/10/writing-python-like-rust.html)
 * [2023-06-27, 16:19:03](https://news.ycombinator.com/item?id=36494952) - [With Great Observation Comes Great Insight (2020)](https://jack-vanlightly.com/blog/2020/5/26/with-great-observation-comes-great-insight)
@@ -30,6 +29,7 @@
 * [2023-06-27, 15:13:50](https://news.ycombinator.com/item?id=36494049) - [Lilos: A wee async RTOS for Cortex-M](https://github.com/cbiffle/lilos)
 * [2023-06-27, 14:51:22](https://news.ycombinator.com/item?id=36493715) - [The Password Game](https://neal.fun/password-game/)
 * [2023-06-27, 14:42:24](https://news.ycombinator.com/item?id=36493562) - [Zygomys: Embedded Scripting Language for Go](https://github.com/glycerine/zygomys)
+* [2023-06-27, 14:26:07](https://news.ycombinator.com/item?id=36493296) - [Integrated Information Theory](http://www.scholarpedia.org/article/Integrated_information_theory)
 
 ## [Archives](archives/index.md)
 
