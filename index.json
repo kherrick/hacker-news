@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-06-29, 00:03:28",
-      "https://news.ycombinator.com/item?id=36514521"
-    ],
-    [
-      "In a major discovery, scientists say space-time churns like a choppy sea",
-      "https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 23:40:31",
       "https://news.ycombinator.com/item?id=36514297"
     ],
@@ -107,6 +97,16 @@
     [
       "The Bathyscaph Trieste: Technological and Operational Aspects (1962)",
       "https://archive.org/details/bathyscaphtriest00wals"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 19:03:04",
+      "https://news.ycombinator.com/item?id=36511012"
+    ],
+    [
+      "Noticing when an app is only hosted in us-east-1",
+      "https://blog.jonlu.ca/posts/us-east-1-latency"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2023-06-27, 21:01:52",
-      "https://news.ycombinator.com/item?id=36498614"
-    ],
-    [
-      "The Spilhaus World Ocean Map in a Square (2020)",
-      "https://storymaps.arcgis.com/stories/756bcae18d304a1eac140f19f4d5cb3d"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 19:26:44",
       "https://news.ycombinator.com/item?id=36497508"
     ],
     [
       "Writing Python Like Rust",
       "https://oatzy.github.io/2020/05/10/writing-python-like-rust.html"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 19:17:00",
+      "https://news.ycombinator.com/item?id=36497414"
+    ],
+    [
+      "Show HN: Tweak your chord progressions for practice or composition",
+      "https://chord-alt.vercel.app/"
     ]
   ],
   [
