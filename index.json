@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-29, 22:05:01",
+      "https://news.ycombinator.com/item?id=36527423"
+    ],
+    [
+      "English as the new programming language for Apache spark",
+      "https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 21:50:47",
       "https://news.ycombinator.com/item?id=36527247"
     ],
@@ -15,8 +25,18 @@
       "https://news.ycombinator.com/item?id=36527045"
     ],
     [
-      "Wayland Is Pretty Good",
+      "Wayland is pretty good",
       "https://serebit.com/posts/wayland-is-pretty-good/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 21:28:51",
+      "https://news.ycombinator.com/item?id=36526992"
+    ],
+    [
+      "A PyTorch Approach to ML Infrastructure",
+      "https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "HyenaDNA: Long-Range Genomic Sequence Modeling (context length of 1M tokens)",
       "https://arxiv.org/abs/2306.15794"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 21:16:38",
-      "https://news.ycombinator.com/item?id=36526827"
-    ],
-    [
-      "The Gentleperson's Guide to Forum Spies",
-      "https://web.archive.org/web/20221215015113/https://pastebin.com/raw/irj4Fyd5"
     ]
   ],
   [
@@ -61,26 +71,6 @@
   ],
   [
     [
-      "2023-06-29, 20:38:59",
-      "https://news.ycombinator.com/item?id=36526389"
-    ],
-    [
-      "Fort Lauderdale saves nearly $350K after repurposing seaweed into planting soil",
-      "https://www.local10.com/news/local/2023/06/28/fort-lauderdale-saves-nearly-350k-after-repurposing-seaweed-into-planting-soil/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 20:04:15",
-      "https://news.ycombinator.com/item?id=36525950"
-    ],
-    [
-      "Now you can search on Google for free: Solution with API",
-      "https://github.com/karust/openserp"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 20:03:25",
       "https://news.ycombinator.com/item?id=36525940"
     ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36525455"
     ],
     [
-      "Physicists Produce Neutrino Images of Milky Way Galaxy",
+      "Physicists produce neutrino images of Milky Way galaxy",
       "https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy"
     ]
   ],
@@ -137,6 +127,16 @@
     [
       "Github.com is down",
       "https://github.com/status"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 17:35:47",
+      "https://news.ycombinator.com/item?id=36523762"
+    ],
+    [
+      "Towards an adaptable systems architecture for memory tiering at warehouse-scale",
+      "https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html"
     ]
   ],
   [
