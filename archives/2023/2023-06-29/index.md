@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 17:06:36](https://news.ycombinator.com/item?id=36523300) - [Freshpaint (YC S19) Is Hiring Software Engineers to Build a HIPAA Data Platform](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-06-29, 16:27:38](https://news.ycombinator.com/item?id=36522665) - [Valve bans games using AI generated graphics or text from Steam](https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/)
 * [2023-06-29, 16:21:08](https://news.ycombinator.com/item?id=36522561) - [Vassalization: How Russia’s War on Ukraine Transformed Transatlantic Relations](https://warontherocks.com/2023/06/the-art-of-vassalization-how-russias-war-on-ukraine-has-transformed-transatlantic-relations/)
 * [2023-06-29, 16:14:59](https://news.ycombinator.com/item?id=36522471) - [Aspartame is set to be declared a possible carcinogen](https://twitter.com/Reuters/status/1674309239974576128)

@@ -9,6 +9,7 @@
 * [2023-06-27, 23:27:42](https://news.ycombinator.com/item?id=36500138) - [Google does little to reduce advertisers costs](https://simpleblog.ai/blog/google-ads-can-do-more-for-customers/)
 * [2023-06-27, 23:03:43](https://news.ycombinator.com/item?id=36499920) - [Human Or Not: Guess if you're chatting with an AI or a Human](https://app.humanornot.ai/)
 * [2023-06-27, 23:02:21](https://news.ycombinator.com/item?id=36499905) - [The Hidden Cost of Air Quality Monitors](https://www.airgradient.com/blog/hidden-costs-of-air-quality-monitoring/)
+* [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
 * [2023-06-27, 22:21:27](https://news.ycombinator.com/item?id=36499498) - [Open Source AI Is Critical – Hugging Face CEO Before US Congress](https://venturebeat.com/ai/hugging-face-ceo-tells-us-house-open-source-ai-is-extremely-aligned-with-american-interests/)
 * [2023-06-27, 22:14:07](https://news.ycombinator.com/item?id=36499403) - [Microsoft BASIC for the Dragon 64](https://github.com/davidlinsley/DragonBasic)
 * [2023-06-27, 22:03:52](https://news.ycombinator.com/item?id=36499294) - [Rubio Says He’s Heard Shocking ‘Firsthand’ Accounts of UFOs](https://nymag.com/intelligencer/2023/06/rubio-says-hes-heard-shocking-first-hand-accounts-of-ufos.html)
