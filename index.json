@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-06-29, 12:44:50",
+      "https://news.ycombinator.com/item?id=36519633"
+    ],
+    [
+      "OpenAI sued for $3B after allegedly trampling privacy with ChatGPT",
+      "https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 12:29:19",
       "https://news.ycombinator.com/item?id=36519497"
     ],
     [
       "Programming Languages Going Above and Beyond",
       "https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 12:23:34",
+      "https://news.ycombinator.com/item?id=36519448"
+    ],
+    [
+      "Scaling Linear's Sync Engine",
+      "https://linear.app/blog/scaling-the-linear-sync-engine"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Practical Procedural Macros in Rust",
       "https://xy2.dev/blog/simple-proc-macro/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 09:30:47",
-      "https://news.ycombinator.com/item?id=36518256"
-    ],
-    [
-      "Find a B Corp",
-      "https://www.bcorporation.net/en-us/find-a-b-corp/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Noticing when an app is only hosted in us-east-1",
       "https://blog.jonlu.ca/posts/us-east-1-latency"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 17:38:38",
-      "https://news.ycombinator.com/item?id=36509844"
-    ],
-    [
-      "Show HN: Webhooks for platforms that do not natively support them",
-      "https://nohooks.io"
     ]
   ],
   [
