@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
+* [2023-06-29, 11:27:54](https://news.ycombinator.com/item?id=36519006) - [Baseball-Sized Hail Smashing into Panels at 150 MPH Destroys Solar Farm](https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/)
 * [2023-06-29, 11:05:55](https://news.ycombinator.com/item?id=36518867) - [Data decisions create dark day for Irish democracy](https://www.irishtimes.com/technology/2023/06/29/data-decisions-create-dark-day-for-irish-democracy/)
 * [2023-06-29, 10:42:26](https://news.ycombinator.com/item?id=36518714) - [D has become unbearable and it needs to stop](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
 * [2023-06-29, 10:19:13](https://news.ycombinator.com/item?id=36518568) - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)

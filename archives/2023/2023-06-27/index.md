@@ -37,6 +37,7 @@
 * [2023-06-27, 19:22:16](https://news.ycombinator.com/item?id=36497470) - [Don’t emotionally Bootstrap your Startup](https://www.danielstillman.com/blog/dont-emotionally-bootstrap-your-startup)
 * [2023-06-27, 19:17:00](https://news.ycombinator.com/item?id=36497414) - [Show HN: Tweak your chord progressions for practice or composition](https://chord-alt.vercel.app/)
 * [2023-06-27, 19:01:40](https://news.ycombinator.com/item?id=36497240) - [Sharing the seed deck we used to raise $6M from David Sacks at Craft Ventures](https://wraptext.equals.com/equals-seed-deck/)
+* [2023-06-27, 18:52:30](https://news.ycombinator.com/item?id=36497136) - [The Huang Yanqiu Incident](https://old.reddit.com/r/UnresolvedMysteries/comments/128icbl/the_huang_yanqiu_incident_a_rural_villager_would/)
 * [2023-06-27, 18:43:47](https://news.ycombinator.com/item?id=36497019) - [Show HN: Flux Copilot – Generative AI for hardware design](https://www.flux.ai/p/blog/generative-ai-for-hardware-design)
 * [2023-06-27, 18:20:02](https://news.ycombinator.com/item?id=36496693) - [Cisco to buy network-monitoring firm SamKnows for better last-mile visibility](https://www.networkworld.com/article/3700616/cisco-to-buy-network-monitoring-firm-samknows-for-better-last-mile-visibility.html)
 * [2023-06-27, 18:20:01](https://news.ycombinator.com/item?id=36496691) - [Finding the best sine function for Nintendo 64 [video]](https://www.youtube.com/watch?v=xFKFoGiGlXQ)
