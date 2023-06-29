@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 14:45:23](https://news.ycombinator.com/item?id=36521077) - [The Left’s Campaign to Destroy the Supreme Court](https://www.politico.com/news/magazine/2023/06/29/fake-crisis-supreme-court-00104106)
 * [2023-06-29, 14:16:31](https://news.ycombinator.com/item?id=36520658) - [Affirmative action at US colleges has been banned](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)
 * [2023-06-29, 14:13:25](https://news.ycombinator.com/item?id=36520610) - [Water heavily polluted with PFAS in 15 km radius around Dordrecht chemical plant](https://nltimes.nl/2023/06/29/water-heavily-polluted-pfas-15-km-radius-around-dordrecht-chemical-plant-report)
 * [2023-06-29, 14:11:27](https://news.ycombinator.com/item?id=36520580) - [The new desktop Outlook is a bad idea. Here's why](https://www.windowscentral.com/software-apps/office-365/new-desktop-outlook-is-a-bad-idea-heres-why)
+* [2023-06-29, 13:43:36](https://news.ycombinator.com/item?id=36520287) - [No code payments automation is a lie](https://hyperswitch.io/blog/no-code-payments-automation-is-a-lie)
+* [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-29, 12:44:50](https://news.ycombinator.com/item?id=36519633) - [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
 * [2023-06-29, 12:23:34](https://news.ycombinator.com/item?id=36519448) - [Scaling Linear's Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
