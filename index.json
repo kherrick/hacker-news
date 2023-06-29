@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-06-28, 18:07:58",
-      "https://news.ycombinator.com/item?id=36510273"
-    ],
-    [
-      "I made a command-line tool to assist me with writing polyrhythmic drum parts",
-      "https://github.com/dredozubov/polyrhythmix"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 17:38:38",
       "https://news.ycombinator.com/item?id=36509844"
     ],
@@ -187,6 +177,16 @@
     [
       "Ed Fredkin has died",
       "https://twitter.com/dag_spicer/status/1673799376437927936"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 16:28:25",
+      "https://news.ycombinator.com/item?id=36508811"
+    ],
+    [
+      "Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs",
+      "https://github.com/jetpack-io/typeid"
     ]
   ],
   [
