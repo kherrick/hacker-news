@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
 * [2023-06-29, 16:27:38](https://news.ycombinator.com/item?id=36522665) - [Valve bans games using AI generated graphics or text from Steam](https://old.reddit.com/r/aigamedev/comments/142j3yt/valve_is_not_willing_to_publish_games_with_ai/)
+* [2023-06-29, 16:21:08](https://news.ycombinator.com/item?id=36522561) - [Vassalization: How Russia’s War on Ukraine Transformed Transatlantic Relations](https://warontherocks.com/2023/06/the-art-of-vassalization-how-russias-war-on-ukraine-has-transformed-transatlantic-relations/)
 * [2023-06-29, 16:14:59](https://news.ycombinator.com/item?id=36522471) - [Aspartame is set to be declared a possible carcinogen](https://twitter.com/Reuters/status/1674309239974576128)
 * [2023-06-29, 15:58:55](https://news.ycombinator.com/item?id=36522232) - [Airbnb rental revenues have plunged in some parts of the US, this chart suggests](https://www.marketwatch.com/story/the-airbnb-collapse-is-real-rental-revenue-has-halved-in-some-parts-of-the-u-s-says-this-chart-83d72bbd)
 * [2023-06-29, 15:55:56](https://news.ycombinator.com/item?id=36522182) - [Vickrey Auction](https://en.wikipedia.org/wiki/Vickrey_auction)
