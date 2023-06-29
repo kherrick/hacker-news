@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-06-29, 07:34:55",
+      "https://news.ycombinator.com/item?id=36517525"
+    ],
+    [
+      "The Awk Programming Language, Second Edition",
+      "https://awk.dev/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 06:38:10",
       "https://news.ycombinator.com/item?id=36517149"
     ],
     [
-      "Kagi Raises $670K",
+      "Kagi raises $670k",
       "https://blog.kagi.com/safe-round"
     ]
   ],
@@ -17,6 +27,16 @@
     [
       "Google is about to make life more difficult for custom ROM fans",
       "https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 04:17:31",
+      "https://news.ycombinator.com/item?id=36516237"
+    ],
+    [
+      "Canada’s new tech talent strategy",
+      "https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html"
     ]
   ],
   [
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-06-29, 01:55:31",
-      "https://news.ycombinator.com/item?id=36515388"
-    ],
-    [
-      "NANOGrav pulsar timing array detects cosmic background of gravitational waves",
-      "https://nanograv.org/news/2023Announcement"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 01:28:55",
       "https://news.ycombinator.com/item?id=36515187"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2023-06-29, 00:03:28",
-      "https://news.ycombinator.com/item?id=36514521"
-    ],
-    [
-      "In a major discovery, scientists say space-time churns like a choppy sea",
-      "https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 23:40:31",
       "https://news.ycombinator.com/item?id=36514297"
     ],
@@ -97,6 +97,16 @@
     [
       "Junk websites filled w AI-generated text pulling in money from programmatic ads",
       "https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 23:02:36",
+      "https://news.ycombinator.com/item?id=36513892"
+    ],
+    [
+      "To save money on insurance, drivers agree to intrusive monitoring technology",
+      "https://money.com/usage-based-car-insurance-gaining-customers/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "The Bathyscaph Trieste: Technological and Operational Aspects (1962)",
       "https://archive.org/details/bathyscaphtriest00wals"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 19:09:54",
-      "https://news.ycombinator.com/item?id=36511111"
-    ],
-    [
-      "Behind the Pretty Frames: Diablo IV",
-      "https://mamoniem.com/behind-the-pretty-frames-diablo-iv/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-06-28, 13:07:07",
-      "https://news.ycombinator.com/item?id=36505859"
-    ],
-    [
-      "Show HN: Open-source background removal in the browser",
-      "https://github.com/imgly/background-removal-js"
-    ]
-  ],
-  [
-    [
       "2023-06-28, 12:57:11",
       "https://news.ycombinator.com/item?id=36505743"
     ],
@@ -231,22 +221,32 @@
   ],
   [
     [
+      "2023-06-27, 21:03:24",
+      "https://news.ycombinator.com/item?id=36498632"
+    ],
+    [
+      "The quest for a simple smartwatch",
+      "https://www.binarymoon.co.uk/writing/the-quest-for-a-simple-smartwatch/"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 19:26:44",
+      "https://news.ycombinator.com/item?id=36497508"
+    ],
+    [
+      "Writing Python like Rust (2020)",
+      "https://oatzy.github.io/2020/05/10/writing-python-like-rust.html"
+    ]
+  ],
+  [
+    [
       "2023-06-27, 19:17:00",
       "https://news.ycombinator.com/item?id=36497414"
     ],
     [
       "Show HN: Tweak your chord progressions for practice or composition",
       "https://chord-alt.vercel.app/"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 16:58:59",
-      "https://news.ycombinator.com/item?id=36495651"
-    ],
-    [
-      "What Is a Time-Series Plot, and How Can You Create One?",
-      "https://www.timescale.com/blog/what-is-a-time-series-plot-and-how-can-you-create-one/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-06-27, 15:39:39",
-      "https://news.ycombinator.com/item?id=36494430"
-    ],
-    [
-      "How to make your scientific data accessible, discoverable and useful",
-      "https://www.nature.com/articles/d41586-023-01929-7"
-    ]
-  ],
-  [
-    [
       "2023-06-27, 15:35:37",
       "https://news.ycombinator.com/item?id=36494381"
     ],
@@ -281,12 +271,12 @@
   ],
   [
     [
-      "2023-06-27, 15:29:20",
-      "https://news.ycombinator.com/item?id=36494283"
+      "2023-06-27, 15:35:31",
+      "https://news.ycombinator.com/item?id=36494378"
     ],
     [
-      "Xerox PARC's NoteCards in a Nutshell (1987) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/29933.30859"
+      "The Mac Pro’s biggest problem is the MacBook",
+      "https://www.theverge.com/23770770/apple-mac-pro-m2-ultra-2023-review"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Zygomys: Embedded Scripting Language for Go",
       "https://github.com/glycerine/zygomys"
+    ]
+  ],
+  [
+    [
+      "2023-06-26, 09:57:30",
+      "https://news.ycombinator.com/item?id=36477710"
+    ],
+    [
+      "Code the shortest path first",
+      "https://evanlh.com/posts/shortest_path_first_sdlc/"
     ]
   ]
 ]
