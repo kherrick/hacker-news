@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-06-29](index.md)
+
+* [2023-06-29, 00:03:28](https://news.ycombinator.com/item?id=36514521) - [In a major discovery, scientists say space-time churns like a choppy sea](https://www.washingtonpost.com/science/2023/06/28/gravitational-wave-background-nanograv/)

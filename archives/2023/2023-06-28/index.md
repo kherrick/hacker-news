@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-28](index.md)
 
+* [2023-06-28, 23:40:31](https://news.ycombinator.com/item?id=36514297) - [Deep Learning Digs Deep: AI Unveils New Large-Scale Images in Peruvian Desert](https://blogs.nvidia.com/blog/2023/06/23/geoglyphs-in-peru/)
 * [2023-06-28, 23:20:19](https://news.ycombinator.com/item?id=36514063) - [Junk websites filled w AI-generated text pulling in money from programmatic ads](https://www.technologyreview.com/2023/06/26/1075504/junk-websites-filled-with-ai-generated-text-are-pulling-in-money-from-programmatic-ads/)
 * [2023-06-28, 23:02:36](https://news.ycombinator.com/item?id=36513892) - [To Save Money on Insurance, Drivers Agree to Intrusive Monitoring Technology](https://money.com/usage-based-car-insurance-gaining-customers/)
 * [2023-06-28, 23:02:33](https://news.ycombinator.com/item?id=36513889) - [“Support for System V scripts now deprecated; will be removed in future release”](https://github.com/systemd/systemd/blob/08423f6d30f5db045b8a25307857f111f45ff292/NEWS)
