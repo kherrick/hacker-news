@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 21:50:47](https://news.ycombinator.com/item?id=36527247) - [Tell HN: 1Password 8.10.8 update corrupted data](https://news.ycombinator.com/item?id=36527247)
+* [2023-06-29, 21:34:00](https://news.ycombinator.com/item?id=36527045) - [Wayland Is Pretty Good](https://serebit.com/posts/wayland-is-pretty-good/)
+* [2023-06-29, 21:24:46](https://news.ycombinator.com/item?id=36526944) - [HyenaDNA: Long-Range Genomic Sequence Modeling (context length of 1M tokens)](https://arxiv.org/abs/2306.15794)
 * [2023-06-29, 21:16:38](https://news.ycombinator.com/item?id=36526827) - [The Gentleperson's Guide to Forum Spies](https://web.archive.org/web/20221215015113/https://pastebin.com/raw/irj4Fyd5)
 * [2023-06-29, 21:08:31](https://news.ycombinator.com/item?id=36526726) - [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 * [2023-06-29, 21:01:22](https://news.ycombinator.com/item?id=36526645) - [Why Do Men Stupefy Themselves? Leo Tolstoy on Why We Drink (2014)](https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/)
