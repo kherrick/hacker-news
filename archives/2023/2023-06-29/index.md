@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 19:22:56](https://news.ycombinator.com/item?id=36525455) - [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
 * [2023-06-29, 18:52:01](https://news.ycombinator.com/item?id=36525015) - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
 * [2023-06-29, 18:44:27](https://news.ycombinator.com/item?id=36524895) - [Ask HN: How to switch software engineering domains](https://news.ycombinator.com/item?id=36524895)
 * [2023-06-29, 18:41:17](https://news.ycombinator.com/item?id=36524840) - [Canada’s Bill C-18 and Our Search and News Products](https://blog.google/canada-news-en/)

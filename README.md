@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-29, 19:22:56](https://news.ycombinator.com/item?id=36525455) - [Physicists Produce Neutrino Images of Milky Way Galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
 * [2023-06-29, 18:52:01](https://news.ycombinator.com/item?id=36525015) - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
 * [2023-06-29, 18:44:27](https://news.ycombinator.com/item?id=36524895) - [Ask HN: How to switch software engineering domains](https://news.ycombinator.com/item?id=36524895)
 * [2023-06-29, 18:41:17](https://news.ycombinator.com/item?id=36524840) - [Canada’s Bill C-18 and Our Search and News Products](https://blog.google/canada-news-en/)
@@ -21,7 +22,6 @@
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 13:54:14](https://news.ycombinator.com/item?id=36520410) - [Show HN: Build a discord/Slack bot to answer questions with your docs and GPT4](https://www.windmill.dev/blog/knowledge-base-discord-bot)
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming languages going above and beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
-* [2023-06-29, 12:10:09](https://news.ycombinator.com/item?id=36519359) - [Racket: Lisp for the modern day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
 * [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 * [2023-06-29, 07:34:55](https://news.ycombinator.com/item?id=36517525) - [The Awk Programming Language, Second Edition](https://awk.dev/)
