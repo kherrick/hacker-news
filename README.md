@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-29, 18:52:01](https://news.ycombinator.com/item?id=36525015) - [The KDE Free Qt Foundation: 25 Years of Celebration](https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration)
+* [2023-06-29, 18:44:27](https://news.ycombinator.com/item?id=36524895) - [Ask HN: How to switch software engineering domains](https://news.ycombinator.com/item?id=36524895)
 * [2023-06-29, 18:41:17](https://news.ycombinator.com/item?id=36524840) - [Canada’s Bill C-18 and Our Search and News Products](https://blog.google/canada-news-en/)
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:58:54](https://news.ycombinator.com/item?id=36524201) - [Gitlab AI is going head to head with GitHub Copilot](https://about.gitlab.com/solutions/code-suggestions/)
@@ -26,7 +27,6 @@
 * [2023-06-29, 07:34:55](https://news.ycombinator.com/item?id=36517525) - [The Awk Programming Language, Second Edition](https://awk.dev/)
 * [2023-06-28, 04:54:31](https://news.ycombinator.com/item?id=36502474) - [‘The World’ Review: History Branched Out](https://www.wsj.com/articles/the-world-review-history-branched-out-4d18193a)
 * [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
-* [2023-06-27, 20:53:16](https://news.ycombinator.com/item?id=36498477) - [Solving “Two Sum” in C with a tiny hash table](https://nullprogram.com/blog/2023/06/26/)
 * [2023-06-27, 20:49:16](https://news.ycombinator.com/item?id=36498432) - [A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
 * [2023-06-27, 19:04:11](https://news.ycombinator.com/item?id=36497285) - [Accelerating the discovery of new Nasca geoglyphs using deep learning](https://www.sciencedirect.com/science/article/pii/S0305440323000559)
 * [2023-06-27, 14:20:48](https://news.ycombinator.com/item?id=36493191) - [Why write?](https://bastian.rieck.me/blog/posts/2023/writing_why/)
