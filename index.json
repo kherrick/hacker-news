@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-29, 23:27:09",
-      "https://news.ycombinator.com/item?id=36528230"
-    ],
-    [
-      "We Analyzed 1,626 Banned Books Here's What We Found",
-      "https://statecraft.beehiiv.com/p/analyzed-1626-banned-booksheres-found"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 23:08:23",
       "https://news.ycombinator.com/item?id=36528077"
     ],
@@ -37,6 +27,16 @@
     [
       "BART ridership is still down nearly 70% from pre-Covid levels",
       "https://statecraft.beehiiv.com/p/public-transit-recovery"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 22:15:06",
+      "https://news.ycombinator.com/item?id=36527555"
+    ],
+    [
+      "Self-published Ansible book – 87k copies, 300k revenue, 41 revisions",
+      "https://www.jeffgeerling.com/blog/2023/self-publishing-technical-book-10-years"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-06-29, 17:35:47",
+      "https://news.ycombinator.com/item?id=36523762"
+    ],
+    [
+      "Towards an adaptable systems architecture for memory tiering at warehouse-scale",
+      "https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 17:28:34",
       "https://news.ycombinator.com/item?id=36523647"
     ],
@@ -187,16 +197,6 @@
     [
       "Freshpaint (YC S19) is hiring software engineers to build a HIPAA data platform",
       "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 15:25:31",
-      "https://news.ycombinator.com/item?id=36521699"
-    ],
-    [
-      "Show HN: Open-source code search with OpenAI's function calling",
-      "https://github.com/wolfia-app/gpt-code-search"
     ]
   ],
   [
