@@ -2,6 +2,7 @@
 
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
 * [2023-06-29, 11:05:55](https://news.ycombinator.com/item?id=36518867) - [Data decisions create dark day for Irish democracy](https://www.irishtimes.com/technology/2023/06/29/data-decisions-create-dark-day-for-irish-democracy/)
+* [2023-06-29, 10:42:26](https://news.ycombinator.com/item?id=36518714) - [D has become unbearable and it needs to stop](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
 * [2023-06-29, 10:19:13](https://news.ycombinator.com/item?id=36518568) - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
 * [2023-06-29, 08:56:08](https://news.ycombinator.com/item?id=36518026) - [Fun with Char in SQL](http://databasearchitects.blogspot.com/2015/01/fun-with-char.html)
 * [2023-06-29, 08:25:51](https://news.ycombinator.com/item?id=36517832) - [Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
@@ -12,7 +13,6 @@
 * [2023-06-29, 02:15:16](https://news.ycombinator.com/item?id=36515531) - [CLI tools hidden in the Python standard library](https://til.simonwillison.net/python/stdlib-cli-tools)
 * [2023-06-29, 01:28:55](https://news.ycombinator.com/item?id=36515187) - [OpenOrca: open source dataset and instruct-tuned LLMs](https://erichartford.com/openorca)
 * [2023-06-29, 00:52:21](https://news.ycombinator.com/item?id=36514936) - [XGen-7B, a new 7B foundational model trained on up to 8K length for 1.5T tokens](https://blog.salesforceairesearch.com/xgen/)
-* [2023-06-28, 23:40:31](https://news.ycombinator.com/item?id=36514297) - [Deep Learning Digs Deep: AI Unveils New Large-Scale Images in Peruvian Desert](https://blogs.nvidia.com/blog/2023/06/23/geoglyphs-in-peru/)
 * [2023-06-28, 23:02:36](https://news.ycombinator.com/item?id=36513892) - [To save money on insurance, drivers agree to intrusive monitoring technology](https://money.com/usage-based-car-insurance-gaining-customers/)
 * [2023-06-28, 23:01:26](https://news.ycombinator.com/item?id=36513881) - [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
 * [2023-06-28, 21:51:49](https://news.ycombinator.com/item?id=36513135) - [Visa to acquire Brazilian startup Pismo for $1B](https://www.pismo.io/blog/visa-to-acquire-pismo/)
