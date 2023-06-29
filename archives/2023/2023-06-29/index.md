@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
+* [2023-06-29, 12:10:09](https://news.ycombinator.com/item?id=36519359) - [Racket: The Lisp for the Modern Day](https://www.deusinmachina.net/p/racket-the-scheme-you-should-try)
+* [2023-06-29, 12:05:04](https://news.ycombinator.com/item?id=36519311) - [Last-minute Government amendment seeks to muzzle DPC critics (Ireland)](https://www.iccl.ie/news/last-minute-government-amendment-seeks-to-muzzle-dpc-critics/)
 * [2023-06-29, 11:31:20](https://news.ycombinator.com/item?id=36519030) - [Delta flight lands in Charlotte without front landing gear](https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/)
 * [2023-06-29, 11:27:54](https://news.ycombinator.com/item?id=36519006) - [Baseball-Sized Hail Smashing into Panels at 150 MPH Destroys Solar Farm](https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/)
 * [2023-06-29, 11:05:55](https://news.ycombinator.com/item?id=36518867) - [Data decisions create dark day for Irish democracy](https://www.irishtimes.com/technology/2023/06/29/data-decisions-create-dark-day-for-irish-democracy/)
+* [2023-06-29, 10:45:35](https://news.ycombinator.com/item?id=36518737) - [NXP has messed up their password form validation](https://peterme.net/scraps/nxp-has-messed-up-their-password-form-validation.html)
 * [2023-06-29, 10:42:26](https://news.ycombinator.com/item?id=36518714) - [D has become unbearable and it needs to stop](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
 * [2023-06-29, 10:19:13](https://news.ycombinator.com/item?id=36518568) - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
 * [2023-06-29, 08:56:08](https://news.ycombinator.com/item?id=36518026) - [Fun with Char in SQL](http://databasearchitects.blogspot.com/2015/01/fun-with-char.html)
