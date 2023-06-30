@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 09:05:48](https://news.ycombinator.com/item?id=36532238) - [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [The Atom Feed Format Was Born 20 Years Ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
 * [2023-06-30, 08:18:36](https://news.ycombinator.com/item?id=36531988) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 * [2023-06-30, 07:03:50](https://news.ycombinator.com/item?id=36531485) - [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)

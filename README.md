@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 09:05:48](https://news.ycombinator.com/item?id=36532238) - [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [The Atom Feed Format Was Born 20 Years Ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
 * [2023-06-30, 08:18:36](https://news.ycombinator.com/item?id=36531988) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 * [2023-06-30, 07:03:50](https://news.ycombinator.com/item?id=36531485) - [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
@@ -19,7 +20,6 @@
 * [2023-06-29, 21:08:31](https://news.ycombinator.com/item?id=36526726) - [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 * [2023-06-29, 21:01:22](https://news.ycombinator.com/item?id=36526645) - [Leo Tolstoy on why people drink (2014)](https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/)
 * [2023-06-29, 20:44:50](https://news.ycombinator.com/item?id=36526453) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
-* [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Bill C-18: Google to remove news links in Canada over online news law](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:58:54](https://news.ycombinator.com/item?id=36524201) - [Gitlab’s AI-assisted code suggestions](https://about.gitlab.com/solutions/code-suggestions/)
 * [2023-06-29, 17:28:34](https://news.ycombinator.com/item?id=36523647) - [Beware of Unreliable Data in Model Evaluation: A LLM Prompt Selection Case Study](https://cleanlab.ai/blog/prompt-selection/)
