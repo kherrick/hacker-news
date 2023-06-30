@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-30, 15:05:36](https://news.ycombinator.com/item?id=36536190) - [Supreme Court Rejects Student Loan Forgiveness Plan](https://www.nytimes.com/live/2023/06/30/us/student-loans-supreme-court-biden)
 * [2023-06-30, 14:53:38](https://news.ycombinator.com/item?id=36535949) - [Legacy and Athlete Preferences at Harvard (2020) [pdf]](http://public.econ.duke.edu/~psarcidi/legacyathlete.pdf)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
+* [2023-06-30, 13:09:04](https://news.ycombinator.com/item?id=36534179) - [Nineteen new Wolf-Rayet stars discovered in the Andromeda galaxy](https://phys.org/news/2023-06-nineteen-wolf-rayet-stars-andromeda-galaxy.html)
 * [2023-06-30, 12:29:59](https://news.ycombinator.com/item?id=36533712) - [TSMC faces $70M ransom demand following lockbit cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
 * [2023-06-30, 12:21:57](https://news.ycombinator.com/item?id=36533604) - [Rocky Linux shares how they may continue to obtain the RHEL source code](https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access)
 * [2023-06-30, 12:11:08](https://news.ycombinator.com/item?id=36533465) - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
