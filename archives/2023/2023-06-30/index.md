@@ -9,6 +9,7 @@
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 14:39:42](https://news.ycombinator.com/item?id=36535710) - [Firefighters in Canada: ‘Gigantic blazes will burn all summer’](https://english.elpais.com/international/2023-06-29/firefighters-in-canada-they-are-gigantic-blazes-and-they-will-burn-all-summer.html)
+* [2023-06-30, 14:32:45](https://news.ycombinator.com/item?id=36535609) - [Rise of pill-popping tech execs](https://www.axios.com/2023/06/30/pill-popping-tech-execs)
 * [2023-06-30, 14:21:04](https://news.ycombinator.com/item?id=36535417) - [YouTube confirms three-strikes test for ad blocking](https://www.androidauthority.com/youtube-confirm-three-strikes-policy-ad-blocking-test-3340826/)
 * [2023-06-30, 13:56:35](https://news.ycombinator.com/item?id=36534979) - [You can buy upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
 * [2023-06-30, 13:41:17](https://news.ycombinator.com/item?id=36534725) - [McMansion Hell](https://mcmansionhell.com)
