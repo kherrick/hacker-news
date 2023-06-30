@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
+* [2023-06-30, 16:09:29](https://news.ycombinator.com/item?id=36537533) - [CommonJS Is Hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
 * [2023-06-30, 15:34:26](https://news.ycombinator.com/item?id=36536859) - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
@@ -14,7 +15,6 @@
 * [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
 * [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
 * [2023-06-30, 11:39:38](https://news.ycombinator.com/item?id=36533153) - [Goodreads has no incentive to be good](https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be)
-* [2023-06-30, 11:26:22](https://news.ycombinator.com/item?id=36533048) - [Fastmail Is Down](https://fastmailstatus.com/)
 * [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
 * [2023-06-30, 10:56:37](https://news.ycombinator.com/item?id=36532811) - [UK competition regulator finds Adobe’s purchase of Figma could reduce innovation](https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy)
 * [2023-06-30, 10:18:44](https://news.ycombinator.com/item?id=36532601) - [The dangers of conditional consistency guarantees](http://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
