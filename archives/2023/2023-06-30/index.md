@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 18:48:21](https://news.ycombinator.com/item?id=36540208) - [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
 * [2023-06-30, 18:43:25](https://news.ycombinator.com/item?id=36540133) - [YouTube Removes R.F. Kennedy Presidential Candidate Interview](https://www.cnn.com/2023/06/20/tech/youtube-robert-f-kennedy-jr-video-removed/index.html)
 * [2023-06-30, 18:14:40](https://news.ycombinator.com/item?id=36539634) - [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
 * [2023-06-30, 18:08:54](https://news.ycombinator.com/item?id=36539551) - [Supreme Court Opinion on Student Loan Forgiveness [pdf]](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
 * [2023-06-30, 17:53:25](https://news.ycombinator.com/item?id=36539306) - [Invidious Instance Yewtu.be Censored](https://yewtu.be/)
 * [2023-06-30, 17:50:59](https://news.ycombinator.com/item?id=36539253) - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
+* [2023-06-30, 17:45:20](https://news.ycombinator.com/item?id=36539159) - [Crypto for the Homeless (501(C)(3))](https://cryptoforthehomeless.com/)
 * [2023-06-30, 17:44:15](https://news.ycombinator.com/item?id=36539144) - [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 * [2023-06-30, 17:43:19](https://news.ycombinator.com/item?id=36539124) - [Barred from Grocery Stores by Facial Recognition](https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html)
 * [2023-06-30, 17:24:34](https://news.ycombinator.com/item?id=36538795) - [Linux's Slab Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)

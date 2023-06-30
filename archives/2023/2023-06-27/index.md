@@ -35,6 +35,7 @@
 * [2023-06-27, 19:52:03](https://news.ycombinator.com/item?id=36497798) - [Sears offered complete houses in large DIY kits](https://twitter.com/historyinmemes/status/1673569802022010880)
 * [2023-06-27, 19:51:56](https://news.ycombinator.com/item?id=36497795) - [Anatomy of an ACH Transaction](https://www.synctera.com/post/anatomy-of-an-ach-transaction-for-fintechs)
 * [2023-06-27, 19:46:08](https://news.ycombinator.com/item?id=36497732) - [Pre-Digital Font Tech: Formatt](https://www.marksimonson.com/notebook/view/pre-digital-font-tech-no-1-formatt)
+* [2023-06-27, 19:36:40](https://news.ycombinator.com/item?id=36497619) - [Alamut (Bartol Novel)](https://en.wikipedia.org/wiki/Alamut_(Bartol_novel))
 * [2023-06-27, 19:36:07](https://news.ycombinator.com/item?id=36497613) - [Is ORM still an anti-pattern?](https://github.com/getlago/lago/wiki/Is-ORM-still-an-%27anti-pattern%27%3F)
 * [2023-06-27, 19:26:44](https://news.ycombinator.com/item?id=36497508) - [Writing Python Like Rust](https://oatzy.github.io/2020/05/10/writing-python-like-rust.html)
 * [2023-06-27, 19:22:16](https://news.ycombinator.com/item?id=36497470) - [Don’t emotionally Bootstrap your Startup](https://www.danielstillman.com/blog/dont-emotionally-bootstrap-your-startup)

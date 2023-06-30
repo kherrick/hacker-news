@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-30, 18:43:25](https://news.ycombinator.com/item?id=36540133) - [YouTube Removes R.F. Kennedy Presidential Candidate Interview](https://www.cnn.com/2023/06/20/tech/youtube-robert-f-kennedy-jr-video-removed/index.html)
+* [2023-06-30, 18:48:21](https://news.ycombinator.com/item?id=36540208) - [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
 * [2023-06-30, 18:14:40](https://news.ycombinator.com/item?id=36539634) - [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
 * [2023-06-30, 17:50:59](https://news.ycombinator.com/item?id=36539253) - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
+* [2023-06-30, 17:45:20](https://news.ycombinator.com/item?id=36539159) - [Crypto for the Homeless (501(C)(3))](https://cryptoforthehomeless.com/)
 * [2023-06-30, 17:44:15](https://news.ycombinator.com/item?id=36539144) - [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 * [2023-06-30, 17:24:34](https://news.ycombinator.com/item?id=36538795) - [Linux's Slab Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
@@ -13,13 +14,11 @@
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-06-30, 13:09:04](https://news.ycombinator.com/item?id=36534179) - [Nineteen new Wolf-Rayet stars discovered in the Andromeda galaxy](https://phys.org/news/2023-06-nineteen-wolf-rayet-stars-andromeda-galaxy.html)
-* [2023-06-30, 12:29:59](https://news.ycombinator.com/item?id=36533712) - [TSMC faces $70M ransom demand following lockbit cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
 * [2023-06-30, 12:11:08](https://news.ycombinator.com/item?id=36533465) - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
 * [2023-06-30, 12:04:18](https://news.ycombinator.com/item?id=36533396) - [The Darwinian argument for worrying about AI](https://time.com/6283958/darwinian-argument-for-worrying-about-ai/)
 * [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
 * [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
 * [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
-* [2023-06-30, 10:56:37](https://news.ycombinator.com/item?id=36532811) - [UK competition regulator finds Adobe’s purchase of Figma could reduce innovation](https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy)
 * [2023-06-30, 10:18:44](https://news.ycombinator.com/item?id=36532601) - [The dangers of conditional consistency guarantees](http://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [Atom feed format was born 20 years ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
 * [2023-06-30, 08:18:36](https://news.ycombinator.com/item?id=36531988) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
@@ -30,6 +29,7 @@
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Back In Time: Vintage Maps of Akihabara (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 * [2023-06-28, 11:27:08](https://news.ycombinator.com/item?id=36504925) - [Will Computers Redefine the Roots of Math?](https://www.quantamagazine.org/will-computers-redefine-the-roots-of-math-20150519/)
 * [2023-06-28, 10:34:25](https://news.ycombinator.com/item?id=36504609) - [Policy as Code vs. Policy as Graph Comparison](https://www.permit.io/blog/zanzibar-vs-opa)
+* [2023-06-27, 19:36:40](https://news.ycombinator.com/item?id=36497619) - [Alamut (Bartol Novel)](https://en.wikipedia.org/wiki/Alamut_(Bartol_novel))
 
 ## [Archives](archives/index.md)
 
