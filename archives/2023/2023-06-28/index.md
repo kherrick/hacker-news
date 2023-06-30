@@ -64,6 +64,7 @@
 * [2023-06-28, 11:56:55](https://news.ycombinator.com/item?id=36505152) - [Canada plans brain drain of H-1B visa holders, with no-job, no-worries permits](https://www.theregister.com/2023/06/28/canada_tech_talent_h1b_plan/)
 * [2023-06-28, 11:53:33](https://news.ycombinator.com/item?id=36505122) - [Ask HN: How to navigate the world as a brain-damaged 17 year old?](https://news.ycombinator.com/item?id=36505122)
 * [2023-06-28, 11:41:21](https://news.ycombinator.com/item?id=36505035) - [Making Games](https://etodd.io/2023/06/27/making-games/)
+* [2023-06-28, 11:27:08](https://news.ycombinator.com/item?id=36504925) - [Will Computers Redefine the Roots of Math?](https://www.quantamagazine.org/will-computers-redefine-the-roots-of-math-20150519/)
 * [2023-06-28, 10:52:26](https://news.ycombinator.com/item?id=36504727) - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
 * [2023-06-28, 10:43:06](https://news.ycombinator.com/item?id=36504667) - [Five billion phones are dead in drawers – carriers want to mine them](https://www.theregister.com/2023/06/28/gsma_smartphone_recycling_plan/)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)

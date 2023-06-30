@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 15:41:10](https://news.ycombinator.com/item?id=36536982) - [France to Suspend All Bus and Tram Services Amid Riots](https://news.sky.com/story/france-suspends-all-bus-and-tram-services-amid-riots-over-police-shooting-12912490)
+* [2023-06-30, 15:34:26](https://news.ycombinator.com/item?id=36536859) - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 14:32:45](https://news.ycombinator.com/item?id=36535609) - [Rise of pill-popping tech execs](https://www.axios.com/2023/06/30/pill-popping-tech-execs)
@@ -20,16 +22,14 @@
 * [2023-06-30, 08:18:36](https://news.ycombinator.com/item?id=36531988) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 * [2023-06-30, 07:03:50](https://news.ycombinator.com/item?id=36531485) - [How the great firewall of China detects and blocks fully encrypted traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
-* [2023-06-30, 04:51:00](https://news.ycombinator.com/item?id=36530631) - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 * [2023-06-30, 04:46:01](https://news.ycombinator.com/item?id=36530607) - [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
 * [2023-06-30, 04:02:54](https://news.ycombinator.com/item?id=36530379) - [Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 * [2023-06-30, 03:02:53](https://news.ycombinator.com/item?id=36530036) - [Ask HN: Stock Android phone free of bloatware?](https://news.ycombinator.com/item?id=36530036)
 * [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
-* [2023-06-29, 15:47:11](https://news.ycombinator.com/item?id=36522048) - [What if California's dams fail?](https://www.nytimes.com/2023/06/22/magazine/california-dams.html)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Back In Time: Vintage Maps of Akihabara (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
-* [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
+* [2023-06-28, 11:27:08](https://news.ycombinator.com/item?id=36504925) - [Will Computers Redefine the Roots of Math?](https://www.quantamagazine.org/will-computers-redefine-the-roots-of-math-20150519/)
 
 ## [Archives](archives/index.md)
 

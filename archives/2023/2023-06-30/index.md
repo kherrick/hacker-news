@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 15:41:10](https://news.ycombinator.com/item?id=36536982) - [France to Suspend All Bus and Tram Services Amid Riots](https://news.sky.com/story/france-suspends-all-bus-and-tram-services-amid-riots-over-police-shooting-12912490)
+* [2023-06-30, 15:34:26](https://news.ycombinator.com/item?id=36536859) - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 * [2023-06-30, 15:05:36](https://news.ycombinator.com/item?id=36536190) - [Supreme Court Rejects Student Loan Forgiveness Plan](https://www.nytimes.com/live/2023/06/30/us/student-loans-supreme-court-biden)
 * [2023-06-30, 14:53:38](https://news.ycombinator.com/item?id=36535949) - [75% of Harvard legacy students would be rejected otherwise [pdf]](http://public.econ.duke.edu/~psarcidi/legacyathlete.pdf)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
