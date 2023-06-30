@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-30, 15:41:10](https://news.ycombinator.com/item?id=36536982) - [France to Suspend All Bus and Tram Services Amid Riots](https://news.sky.com/story/france-suspends-all-bus-and-tram-services-amid-riots-over-police-shooting-12912490)
+* [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
 * [2023-06-30, 15:34:26](https://news.ycombinator.com/item?id=36536859) - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
