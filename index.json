@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-06-30, 22:46:52",
+      "https://news.ycombinator.com/item?id=36543557"
+    ],
+    [
+      "Maximum size of a PDF, version 7: 381 km × 381 km",
+      "https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 22:22:56",
+      "https://news.ycombinator.com/item?id=36543284"
+    ],
+    [
+      "Necessary Illusions: Thought Control in Democratic Societies [pdf]",
+      "https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 22:02:30",
       "https://news.ycombinator.com/item?id=36543018"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2023-06-30, 21:05:32",
-      "https://news.ycombinator.com/item?id=36542267"
-    ],
-    [
-      "MDN can now automatically lie to people seeking technical information",
-      "https://github.com/mdn/yari/issues/9208"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 21:04:15",
       "https://news.ycombinator.com/item?id=36542252"
     ],
@@ -111,12 +121,12 @@
   ],
   [
     [
-      "2023-06-30, 19:39:09",
-      "https://news.ycombinator.com/item?id=36540991"
+      "2023-06-30, 19:36:33",
+      "https://news.ycombinator.com/item?id=36540957"
     ],
     [
-      "Dolphin mothers modify signature whistles in the presence of their own calves",
-      "https://www.pnas.org/doi/abs/10.1073/pnas.2300262120"
+      "Twitter now requires an account to view tweets",
+      "https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36539235"
     ],
     [
-      "Case Study: Algorithmic Trading With Go",
+      "Case study: Algorithmic trading with Go",
       "https://polygon.io/blog/case-study-algorithmict-trading-with-go/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "BGP.Tools: Browse the Internet Ecosystem",
       "https://bgp.tools/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 17:51:32",
-      "https://news.ycombinator.com/item?id=36524055"
-    ],
-    [
-      "ToneMatrix",
-      "https://www.maxlaumeister.com/tonematrix/"
     ]
   ],
   [
