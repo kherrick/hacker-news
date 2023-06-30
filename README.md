@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 18:14:40](https://news.ycombinator.com/item?id=36539634) - [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
 * [2023-06-30, 17:53:25](https://news.ycombinator.com/item?id=36539306) - [Invidious Instance Yewtu.be Censored](https://yewtu.be/)
 * [2023-06-30, 17:50:59](https://news.ycombinator.com/item?id=36539253) - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
@@ -22,7 +23,6 @@
 * [2023-06-30, 10:18:44](https://news.ycombinator.com/item?id=36532601) - [The dangers of conditional consistency guarantees](http://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [Atom feed format was born 20 years ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
 * [2023-06-30, 08:18:36](https://news.ycombinator.com/item?id=36531988) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
-* [2023-06-30, 07:03:50](https://news.ycombinator.com/item?id=36531485) - [How the great firewall of China detects and blocks fully encrypted traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
 * [2023-06-29, 11:02:01](https://news.ycombinator.com/item?id=36518840) - [JavaScript Macros in Bun](https://bun.sh/blog/bun-macros)

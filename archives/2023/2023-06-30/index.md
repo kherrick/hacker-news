@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 18:14:40](https://news.ycombinator.com/item?id=36539634) - [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
 * [2023-06-30, 18:08:54](https://news.ycombinator.com/item?id=36539551) - [Supreme Court Opinion on Student Loan Forgiveness [pdf]](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
 * [2023-06-30, 17:53:25](https://news.ycombinator.com/item?id=36539306) - [Invidious Instance Yewtu.be Censored](https://yewtu.be/)
 * [2023-06-30, 17:50:59](https://news.ycombinator.com/item?id=36539253) - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
