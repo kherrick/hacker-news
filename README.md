@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
 * [2023-06-30, 16:09:29](https://news.ycombinator.com/item?id=36537533) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
 * [2023-06-30, 15:54:49](https://news.ycombinator.com/item?id=36537250) - [AMD AI Software Solved – MI300X Pricing, Perf, PyTorch, FlashAttention, Triton](https://www.semianalysis.com/p/amd-ai-software-solved-mi300x-pricing)
-* [2023-06-30, 15:34:26](https://news.ycombinator.com/item?id=36536859) - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
