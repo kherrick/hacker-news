@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-30, 17:49:52",
+      "https://news.ycombinator.com/item?id=36539235"
+    ],
+    [
+      "Algorithmic Trading with Go",
+      "https://polygon.io/blog/case-study-algorithmict-trading-with-go/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 17:43:19",
       "https://news.ycombinator.com/item?id=36539124"
     ],
@@ -31,22 +41,22 @@
   ],
   [
     [
+      "2023-06-30, 17:01:04",
+      "https://news.ycombinator.com/item?id=36538423"
+    ],
+    [
+      "The Rise of the AI Engineer",
+      "https://www.latent.space/p/ai-engineer"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 16:12:55",
       "https://news.ycombinator.com/item?id=36537598"
     ],
     [
       "Lawsuit claims OpenAI stole 'massive amounts of personal data'",
       "https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 16:09:29",
-      "https://news.ycombinator.com/item?id=36537533"
-    ],
-    [
-      "CommonJS is hurting JavaScript",
-      "https://deno.com/blog/commonjs-is-hurting-javascript"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Ask HN: Stock Android phone free of bloatware?",
       "https://news.ycombinator.com/item?id=36530036"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 00:45:20",
-      "https://news.ycombinator.com/item?id=36528984"
-    ],
-    [
-      "MdBook – A command line tool to create books with Markdown",
-      "https://rust-lang.github.io/mdBook/"
     ]
   ],
   [
