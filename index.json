@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-30, 22:02:30",
+      "https://news.ycombinator.com/item?id=36543018"
+    ],
+    [
+      "The Liberty Phone",
+      "https://puri.sm/posts/introducing-the-liberty-phone/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 21:36:59",
       "https://news.ycombinator.com/item?id=36542673"
     ],
@@ -61,32 +71,12 @@
   ],
   [
     [
-      "2023-06-30, 21:05:32",
-      "https://news.ycombinator.com/item?id=36542267"
-    ],
-    [
-      "MDN can now automatically lie to people seeking technical information",
-      "https://github.com/mdn/yari/issues/9208"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 21:04:15",
       "https://news.ycombinator.com/item?id=36542252"
     ],
     [
       "FBI finally tracks “swatting” incidents as attacks increase nationwide",
       "https://arstechnica.com/tech-policy/2023/06/fbi-finally-tracks-swatting-incidents-as-attacks-increase-nationwide/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 20:58:09",
-      "https://news.ycombinator.com/item?id=36542179"
-    ],
-    [
-      "RIP Nitter",
-      "https://github.com/zedeus/nitter/issues/919"
     ]
   ],
   [
@@ -131,11 +121,21 @@
   ],
   [
     [
+      "2023-06-30, 19:36:33",
+      "https://news.ycombinator.com/item?id=36540957"
+    ],
+    [
+      "Twitter now requires an account to view tweets",
+      "https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 17:49:52",
       "https://news.ycombinator.com/item?id=36539235"
     ],
     [
-      "Algorithmic Trading with Go",
+      "Case Study: Algorithmic Trading With Go",
       "https://polygon.io/blog/case-study-algorithmict-trading-with-go/"
     ]
   ],
@@ -177,6 +177,16 @@
     [
       "The Rise of the AI Engineer",
       "https://www.latent.space/p/ai-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 16:56:46",
+      "https://news.ycombinator.com/item?id=36538344"
+    ],
+    [
+      "Ask HN: LLVM vs. C?",
+      "https://news.ycombinator.com/item?id=36538344"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "YouTube is testing a more aggressive approach against ad blockers",
       "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 06:15:09",
-      "https://news.ycombinator.com/item?id=36516978"
-    ],
-    [
-      "Review: The AYANEO 2S is my new favourite handheld",
-      "https://overkill.wtf/ayaneo-2s-review/"
     ]
   ],
   [
