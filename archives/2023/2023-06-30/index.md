@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 22:02:30](https://news.ycombinator.com/item?id=36543018) - [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
 * [2023-06-30, 21:36:59](https://news.ycombinator.com/item?id=36542673) - [Time lapse of this week's large sunspot](https://www.astrobin.com/full/qti3dk/0/)
 * [2023-06-30, 21:36:29](https://news.ycombinator.com/item?id=36542664) - [FFE Games](https://farfuture.net/)
 * [2023-06-30, 21:33:52](https://news.ycombinator.com/item?id=36542634) - [Brazil's Jair Bolsonaro is barred from office until 2030](https://www.washingtonpost.com/politics/2023/06/30/brazil-bolsonaro-ineligible-court-ruling-vote/465d30ea-175d-11ee-9de3-ba1fa29e9bec_story.html)
@@ -19,6 +20,7 @@
 * [2023-06-30, 20:27:54](https://news.ycombinator.com/item?id=36541758) - [Racket Frustrates Me](https://blog.winny.tech/posts/racket-frustrates-me/)
 * [2023-06-30, 20:13:00](https://news.ycombinator.com/item?id=36541534) - [They Won't Play a Lady-O on Country Radio](https://pudding.cool/2023/05/country-radio/)
 * [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
+* [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
 * [2023-06-30, 19:29:08](https://news.ycombinator.com/item?id=36540849) - [US Supreme Court rules website designer can refuse to serve same-sex couples](https://www.bbc.com/news/world-us-canada-66070534)
 * [2023-06-30, 19:25:02](https://news.ycombinator.com/item?id=36540787) - [Why is there a drink called 手打柠檬鸭屎香 = “hand-made lemon duck-feces fragrance”?](https://chinese.stackexchange.com/questions/54741/why-is-there-a-drink-called-%e6%89%8b%e6%89%93%e6%9f%a0%e6%aa%ac%e9%b8%ad%e5%b1%8e%e9%a6%99-hand-made-lemon-duck-feces-fragrance)
 * [2023-06-30, 18:58:10](https://news.ycombinator.com/item?id=36540355) - [All Pocket accounts will be converted to Firefox accounts](https://blog.mozilla.org/en/products/pocket/signing-in-to-pocket-just-got-even-more-secure/)
@@ -36,6 +38,7 @@
 * [2023-06-30, 17:24:34](https://news.ycombinator.com/item?id=36538795) - [Linux's Slab Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-30, 17:01:04](https://news.ycombinator.com/item?id=36538423) - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
+* [2023-06-30, 16:56:46](https://news.ycombinator.com/item?id=36538344) - [Ask HN: LLVM vs. C?](https://news.ycombinator.com/item?id=36538344)
 * [2023-06-30, 16:32:50](https://news.ycombinator.com/item?id=36537962) - [About the gun that killed a boy at Seattle’s Ingraham High School](https://kuow.org/stories/about-the-gun-that-killed-a-boy-at-seattle-s-ingraham-high-school)
 * [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
 * [2023-06-30, 16:09:29](https://news.ycombinator.com/item?id=36537533) - [CommonJS Is Hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
