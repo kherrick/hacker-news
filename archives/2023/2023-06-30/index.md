@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 13:56:35](https://news.ycombinator.com/item?id=36534979) - [You can buy upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
+* [2023-06-30, 13:41:17](https://news.ycombinator.com/item?id=36534725) - [McMansion Hell](https://mcmansionhell.com)
+* [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-06-30, 12:53:47](https://news.ycombinator.com/item?id=36533978) - [May inflation (PCE) falls to 1.2% (3.6% Core) / 3.8% YoY (4.6% Core YoY)](https://www.bea.gov/news/2023/personal-income-and-outlays-may-2023)
 * [2023-06-30, 12:49:02](https://news.ycombinator.com/item?id=36533916) - [Gen Z are turning to delusional thinking to cope](https://fortune.com/2023/06/27/gen-zers-turning-to-radical-rest-delusional-thinking-self-indulgence-late-stage-capitalism-molly-barth/)
 * [2023-06-30, 12:29:59](https://news.ycombinator.com/item?id=36533712) - [TSMC Faces $70M Ransom Demand Following LockBit Cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
