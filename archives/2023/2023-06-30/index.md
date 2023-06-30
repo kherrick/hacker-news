@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 15:05:36](https://news.ycombinator.com/item?id=36536190) - [Supreme Court Rejects Student Loan Forgiveness Plan](https://www.nytimes.com/live/2023/06/30/us/student-loans-supreme-court-biden)
+* [2023-06-30, 14:53:38](https://news.ycombinator.com/item?id=36535949) - [75% of Harvard legacy students would be rejected otherwise [pdf]](http://public.econ.duke.edu/~psarcidi/legacyathlete.pdf)
+* [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
+* [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 14:39:42](https://news.ycombinator.com/item?id=36535710) - [Firefighters in Canada: ‘Gigantic blazes will burn all summer’](https://english.elpais.com/international/2023-06-29/firefighters-in-canada-they-are-gigantic-blazes-and-they-will-burn-all-summer.html)
 * [2023-06-30, 14:21:04](https://news.ycombinator.com/item?id=36535417) - [YouTube confirms three-strikes test for ad blocking](https://www.androidauthority.com/youtube-confirm-three-strikes-policy-ad-blocking-test-3340826/)
 * [2023-06-30, 13:56:35](https://news.ycombinator.com/item?id=36534979) - [You can buy upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
@@ -26,6 +30,7 @@
 * [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
 * [2023-06-30, 10:56:50](https://news.ycombinator.com/item?id=36532812) - [Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
 * [2023-06-30, 10:56:37](https://news.ycombinator.com/item?id=36532811) - [UK competition regulator finds concern with Adobe's purchase of Figma](https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy)
+* [2023-06-30, 10:18:44](https://news.ycombinator.com/item?id=36532601) - [The dangers of conditional consistency guarantees](http://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
 * [2023-06-30, 09:35:26](https://news.ycombinator.com/item?id=36532400) - [The Darkness Ahead: Where the Ukraine War Is Headed](https://mearsheimer.substack.com/p/the-darkness-ahead-where-the-ukraine)
 * [2023-06-30, 09:33:35](https://news.ycombinator.com/item?id=36532385) - [French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
 * [2023-06-30, 09:05:48](https://news.ycombinator.com/item?id=36532238) - [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
