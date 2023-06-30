@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-30, 22:46:52](https://news.ycombinator.com/item?id=36543557) - [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
+* [2023-06-30, 22:33:19](https://news.ycombinator.com/item?id=36543398) - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 * [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 * [2023-06-30, 22:02:30](https://news.ycombinator.com/item?id=36543018) - [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
@@ -11,8 +12,8 @@
 * [2023-06-30, 21:22:31](https://news.ycombinator.com/item?id=36542487) - [To unlock drink verification can](https://gamefaqs.gamespot.com/boards/632877-halo-4/66477630)
 * [2023-06-30, 21:08:14](https://news.ycombinator.com/item?id=36542298) - [SEC notifies SolarWinds CISO and CFO of possible action in cyber investigation](https://www.cybersecuritydive.com/news/sec-solarwinds-ciso-cfo-orion/653864/)
 * [2023-06-30, 21:04:15](https://news.ycombinator.com/item?id=36542252) - [FBI finally tracks swatting incidents](https://arstechnica.com/tech-policy/2023/06/fbi-finally-tracks-swatting-incidents-as-attacks-increase-nationwide/)
-* [2023-06-30, 20:52:05](https://news.ycombinator.com/item?id=36542101) - [Australia legalises psychedelics for mental health](https://www.bbc.co.uk/news/world-australia-66072427)
 * [2023-06-30, 20:30:50](https://news.ycombinator.com/item?id=36541798) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
+* [2023-06-30, 20:23:59](https://news.ycombinator.com/item?id=36541699) - [Samsung Foundry Tracking 2nm In 2025](https://semiwiki.com/semiconductor-manufacturers/samsung-foundry/331141-samsung-foundry-on-track-for-2nm-in-2025/)
 * [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Case study: Algorithmic trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
 * [2023-06-30, 17:44:15](https://news.ycombinator.com/item?id=36539144) - [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
@@ -27,7 +28,6 @@
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-29, 06:15:09](https://news.ycombinator.com/item?id=36516978) - [Review: The AYANEO 2S is my new favourite handheld](https://overkill.wtf/ayaneo-2s-review/)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
-* [2023-06-28, 10:34:25](https://news.ycombinator.com/item?id=36504609) - [Policy as Code vs. Policy as Graph Comparison](https://www.permit.io/blog/zanzibar-vs-opa)
 * [2023-06-28, 08:44:02](https://news.ycombinator.com/item?id=36503924) - [Adding weak references to CHICKEN](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-27, 19:36:40](https://news.ycombinator.com/item?id=36497619) - [Alamut (Bartol Novel)](https://en.wikipedia.org/wiki/Alamut_(Bartol_novel))
 

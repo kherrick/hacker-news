@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
 * [2023-06-30, 22:46:52](https://news.ycombinator.com/item?id=36543557) - [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
+* [2023-06-30, 22:33:19](https://news.ycombinator.com/item?id=36543398) - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 * [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 * [2023-06-30, 22:02:30](https://news.ycombinator.com/item?id=36543018) - [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
@@ -22,6 +23,7 @@
 * [2023-06-30, 20:34:27](https://news.ycombinator.com/item?id=36541836) - [Goldman Is Looking for a Way Out of Its Partnership with Apple](https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91)
 * [2023-06-30, 20:30:50](https://news.ycombinator.com/item?id=36541798) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 * [2023-06-30, 20:27:54](https://news.ycombinator.com/item?id=36541758) - [Racket Frustrates Me](https://blog.winny.tech/posts/racket-frustrates-me/)
+* [2023-06-30, 20:23:59](https://news.ycombinator.com/item?id=36541699) - [Samsung Foundry Tracking 2nm In 2025](https://semiwiki.com/semiconductor-manufacturers/samsung-foundry/331141-samsung-foundry-on-track-for-2nm-in-2025/)
 * [2023-06-30, 20:13:00](https://news.ycombinator.com/item?id=36541534) - [They Won't Play a Lady-O on Country Radio](https://pudding.cool/2023/05/country-radio/)
 * [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
 * [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
