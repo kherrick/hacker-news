@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 10:56:50](https://news.ycombinator.com/item?id=36532812) - [Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
 * [2023-06-30, 09:33:35](https://news.ycombinator.com/item?id=36532385) - [French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
 * [2023-06-30, 09:05:48](https://news.ycombinator.com/item?id=36532238) - [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [The Atom Feed Format Was Born 20 Years Ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
@@ -13,7 +14,6 @@
 * [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
 * [2023-06-30, 03:02:53](https://news.ycombinator.com/item?id=36530036) - [Ask HN: Stock Android phone free of bloatware?](https://news.ycombinator.com/item?id=36530036)
 * [2023-06-30, 02:54:49](https://news.ycombinator.com/item?id=36529973) - [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
-* [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
 * [2023-06-30, 01:57:54](https://news.ycombinator.com/item?id=36529610) - [LLM tech comes to Wolfram Language](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/)
 * [2023-06-30, 01:34:58](https://news.ycombinator.com/item?id=36529456) - [File for divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
