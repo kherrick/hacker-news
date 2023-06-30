@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-06-30, 21:56:42",
+      "https://news.ycombinator.com/item?id=36542937"
+    ],
+    [
+      "Boxed types in OCaml, and other thoughts",
+      "https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 21:36:59",
       "https://news.ycombinator.com/item?id=36542673"
     ],
@@ -31,21 +41,11 @@
   ],
   [
     [
-      "2023-06-30, 21:33:52",
-      "https://news.ycombinator.com/item?id=36542634"
-    ],
-    [
-      "Brazil's Jair Bolsonaro is barred from office until 2030",
-      "https://www.washingtonpost.com/politics/2023/06/30/brazil-bolsonaro-ineligible-court-ruling-vote/465d30ea-175d-11ee-9de3-ba1fa29e9bec_story.html"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 21:23:14",
       "https://news.ycombinator.com/item?id=36542500"
     ],
     [
-      "FTC Announces Proposed Rule Banning Fake Reviews and Testimonials",
+      "FTC announces proposed rule banning fake reviews and testimonials",
       "https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials"
     ]
   ],
@@ -71,11 +71,21 @@
   ],
   [
     [
+      "2023-06-30, 21:05:32",
+      "https://news.ycombinator.com/item?id=36542267"
+    ],
+    [
+      "MDN can now automatically lie to people seeking technical information",
+      "https://github.com/mdn/yari/issues/9208"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 21:04:15",
       "https://news.ycombinator.com/item?id=36542252"
     ],
     [
-      "FBI finally tracks “swatting” incidents as attacks increase nationwide",
+      "FBI finally tracks swatting incidents",
       "https://arstechnica.com/tech-policy/2023/06/fbi-finally-tracks-swatting-incidents-as-attacks-increase-nationwide/"
     ]
   ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2023-06-30, 20:27:54",
-      "https://news.ycombinator.com/item?id=36541758"
-    ],
-    [
-      "Racket Frustrates Me",
-      "https://blog.winny.tech/posts/racket-frustrates-me/"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 19:39:09",
       "https://news.ycombinator.com/item?id=36540991"
     ],
     [
-      "Dolphins use “baby talk” too",
+      "Dolphin mothers modify signature whistles in the presence of their own calves",
       "https://www.pnas.org/doi/abs/10.1073/pnas.2300262120"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 19:36:33",
-      "https://news.ycombinator.com/item?id=36540957"
-    ],
-    [
-      "Twitter now requires an account to view tweets",
-      "https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/"
     ]
   ],
   [
@@ -137,16 +127,6 @@
     [
       "Case Study: Algorithmic Trading With Go",
       "https://polygon.io/blog/case-study-algorithmict-trading-with-go/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 17:45:20",
-      "https://news.ycombinator.com/item?id=36539159"
-    ],
-    [
-      "Crypto for the Homeless (501(C)(3))",
-      "https://cryptoforthehomeless.com/"
     ]
   ],
   [
@@ -187,16 +167,6 @@
     [
       "Ask HN: LLVM vs. C?",
       "https://news.ycombinator.com/item?id=36538344"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 13:09:04",
-      "https://news.ycombinator.com/item?id=36534179"
-    ],
-    [
-      "Nineteen new Wolf-Rayet stars discovered in the Andromeda galaxy",
-      "https://phys.org/news/2023-06-nineteen-wolf-rayet-stars-andromeda-galaxy.html"
     ]
   ],
   [
@@ -251,11 +221,21 @@
   ],
   [
     [
+      "2023-06-29, 17:51:32",
+      "https://news.ycombinator.com/item?id=36524055"
+    ],
+    [
+      "ToneMatrix",
+      "https://www.maxlaumeister.com/tonematrix/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 11:02:01",
       "https://news.ycombinator.com/item?id=36518840"
     ],
     [
-      "JavaScript Macros in Bun",
+      "JavaScript macros in Bun",
       "https://bun.sh/blog/bun-macros"
     ]
   ],
@@ -281,11 +261,31 @@
   ],
   [
     [
+      "2023-06-29, 06:15:09",
+      "https://news.ycombinator.com/item?id=36516978"
+    ],
+    [
+      "Review: The AYANEO 2S is my new favourite handheld",
+      "https://overkill.wtf/ayaneo-2s-review/"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 10:34:25",
+      "https://news.ycombinator.com/item?id=36504609"
+    ],
+    [
+      "Policy as Code vs. Policy as Graph Comparison",
+      "https://www.permit.io/blog/zanzibar-vs-opa"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 08:44:02",
       "https://news.ycombinator.com/item?id=36503924"
     ],
     [
-      "Adding Weak References to Chicken",
+      "Adding weak references to CHICKEN",
       "https://www.more-magic.net/posts/weak-references.html"
     ]
   ],
