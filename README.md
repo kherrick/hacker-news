@@ -7,7 +7,6 @@
 * [2023-06-30, 04:22:36](https://news.ycombinator.com/item?id=36530472) - [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
 * [2023-06-30, 04:02:54](https://news.ycombinator.com/item?id=36530379) - [Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 * [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
-* [2023-06-30, 03:12:40](https://news.ycombinator.com/item?id=36530096) - [Crossword Builder](https://dawnofthe.dad/crossword)
 * [2023-06-30, 02:54:49](https://news.ycombinator.com/item?id=36529973) - [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
 * [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
 * [2023-06-30, 01:57:54](https://news.ycombinator.com/item?id=36529610) - [LLM tech comes to Wolfram Language](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/)
@@ -30,6 +29,7 @@
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Vintage Maps of Akihabara “Electric Town”, Tokyo, Japan (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
+* [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
 
 ## [Archives](archives/index.md)
 
