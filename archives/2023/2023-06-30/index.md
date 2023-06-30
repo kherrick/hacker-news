@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
 * [2023-06-30, 11:20:55](https://news.ycombinator.com/item?id=36532990) - [The Tragic Downfall of National Geographic](https://jjpryor.substack.com/p/the-tragic-downfall-of-national-geographic)
+* [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
 * [2023-06-30, 10:56:50](https://news.ycombinator.com/item?id=36532812) - [Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
 * [2023-06-30, 10:56:37](https://news.ycombinator.com/item?id=36532811) - [UK competition regulator finds concern with Adobe's purchase of Figma](https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy)
 * [2023-06-30, 09:35:26](https://news.ycombinator.com/item?id=36532400) - [The Darkness Ahead: Where the Ukraine War Is Headed](https://mearsheimer.substack.com/p/the-darkness-ahead-where-the-ukraine)
