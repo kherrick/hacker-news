@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
-* [2023-06-30, 02:23:53](https://news.ycombinator.com/item?id=36529795) - [Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita](https://github.com/mdwalters/lemonade)
+* [2023-06-30, 01:57:54](https://news.ycombinator.com/item?id=36529610) - [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language)
 * [2023-06-30, 01:34:58](https://news.ycombinator.com/item?id=36529456) - [File for Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
-* [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust](https://rust-lang.github.io/mdBook/)
+* [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2023-06-29, 23:40:50](https://news.ycombinator.com/item?id=36528362) - [The False Promise of Open-sourced LLMs context length](https://lmsys.org/blog/2023-06-29-longchat/)
 * [2023-06-29, 23:08:23](https://news.ycombinator.com/item?id=36528077) - [Reverse-engineering Google’s \"Skip Button Guarantee\"](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
 * [2023-06-29, 22:15:06](https://news.ycombinator.com/item?id=36527555) - [Self-published Ansible book – 87k copies, 300k revenue, 41 revisions](https://www.jeffgeerling.com/blog/2023/self-publishing-technical-book-10-years)
