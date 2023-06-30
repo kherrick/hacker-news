@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
+* [2023-06-30, 02:23:53](https://news.ycombinator.com/item?id=36529795) - [Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita](https://github.com/mdwalters/lemonade)
 * [2023-06-30, 01:34:58](https://news.ycombinator.com/item?id=36529456) - [File for Divorce from LLVM](https://github.com/ziglang/zig/issues/16270)
 * [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust](https://rust-lang.github.io/mdBook/)
 * [2023-06-30, 00:08:26](https://news.ycombinator.com/item?id=36528671) - [Disbarment Is Rare in Cases of Attorney-Client Sexual Contact](https://www.law360.com/articles/1693111/disbarment-is-rare-in-cases-of-atty-client-sexual-contact)
