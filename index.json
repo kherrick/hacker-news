@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-06-30, 04:02:54",
+      "https://news.ycombinator.com/item?id=36530379"
+    ],
+    [
+      "The complete guide to publishing free software video games",
+      "https://writefreesoftware.org/blog/free-software-games/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 03:16:05",
       "https://news.ycombinator.com/item?id=36530110"
     ],
@@ -17,6 +27,16 @@
     [
       "Crossword Builder",
       "https://dawnofthe.dad/crossword"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 03:02:53",
+      "https://news.ycombinator.com/item?id=36530036"
+    ],
+    [
+      "Ask HN: Stock Android phone free of bloatware?",
+      "https://news.ycombinator.com/item?id=36530036"
     ]
   ],
   [
@@ -45,8 +65,8 @@
       "https://news.ycombinator.com/item?id=36529610"
     ],
     [
-      "LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica",
-      "https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language"
+      "LLM tech comes to Wolfram Language",
+      "https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2023-06-29, 18:52:01",
-      "https://news.ycombinator.com/item?id=36525015"
-    ],
-    [
-      "The KDE Free Qt Foundation: 25 Years of Celebration",
-      "https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 18:27:54",
       "https://news.ycombinator.com/item?id=36524662"
     ],
     [
       "Bill C-18: Google to remove news links in Canada over online news law",
       "https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 17:52:45",
-      "https://news.ycombinator.com/item?id=36524078"
-    ],
-    [
-      "Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs",
-      "https://github.com/gorilla-llm/gorilla-cli"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=36522048"
     ],
     [
-      "What If California's Dams Fail?",
+      "What if California's dams fail?",
       "https://www.nytimes.com/2023/06/22/magazine/california-dams.html"
     ]
   ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2023-06-29, 13:54:14",
-      "https://news.ycombinator.com/item?id=36520410"
-    ],
-    [
-      "Show HN: Build a discord/Slack bot to answer questions with your docs and GPT4",
-      "https://www.windmill.dev/blog/knowledge-base-discord-bot"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 13:16:22",
       "https://news.ycombinator.com/item?id=36519942"
     ],
     [
       "Aspartame sweetener to be declared possible cancer risk by WHO, say reports",
       "https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 06:52:53",
+      "https://news.ycombinator.com/item?id=36517238"
+    ],
+    [
+      "YouTube is testing a more aggressive approach against ad blockers",
+      "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
     ]
   ],
   [
