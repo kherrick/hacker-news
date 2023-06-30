@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-30, 09:35:26](https://news.ycombinator.com/item?id=36532400) - [The Darkness Ahead: Where the Ukraine War Is Headed](https://mearsheimer.substack.com/p/the-darkness-ahead-where-the-ukraine)
 * [2023-06-30, 09:33:35](https://news.ycombinator.com/item?id=36532385) - [French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
 * [2023-06-30, 09:05:48](https://news.ycombinator.com/item?id=36532238) - [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [The Atom Feed Format Was Born 20 Years Ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
@@ -28,6 +27,7 @@
 * [2023-06-29, 15:47:11](https://news.ycombinator.com/item?id=36522048) - [What if California's dams fail?](https://www.nytimes.com/2023/06/22/magazine/california-dams.html)
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 13:18:31](https://news.ycombinator.com/item?id=36519963) - [Focus on NANOGrav's 15yr Data Set and the Gravitational Wave Background](https://iopscience.iop.org/collections/apjl-230623-245-Focus-on-NANOGrav-15-year)
+* [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-29, 12:40:00](https://news.ycombinator.com/item?id=36519579) - [Show HN: Scrapscript “Guide”, Proposals, and Community Chat](https://scrapscript.org/guide)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Vintage Maps of Akihabara “Electric Town”, Tokyo, Japan (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 
