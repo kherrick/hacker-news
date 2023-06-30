@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 17:43:19](https://news.ycombinator.com/item?id=36539124) - [Barred from Grocery Stores by Facial Recognition](https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html)
+* [2023-06-30, 17:24:34](https://news.ycombinator.com/item?id=36538795) - [Linux's Slab Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-30, 16:32:50](https://news.ycombinator.com/item?id=36537962) - [About the gun that killed a boy at Seattle’s Ingraham High School](https://kuow.org/stories/about-the-gun-that-killed-a-boy-at-seattle-s-ingraham-high-school)
 * [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)

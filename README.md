@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 17:43:19](https://news.ycombinator.com/item?id=36539124) - [Barred from Grocery Stores by Facial Recognition](https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html)
+* [2023-06-30, 17:24:34](https://news.ycombinator.com/item?id=36538795) - [Linux's Slab Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
 * [2023-06-30, 16:09:29](https://news.ycombinator.com/item?id=36537533) - [CommonJS is hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
@@ -13,7 +15,6 @@
 * [2023-06-30, 12:04:18](https://news.ycombinator.com/item?id=36533396) - [The Darwinian argument for worrying about AI](https://time.com/6283958/darwinian-argument-for-worrying-about-ai/)
 * [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
 * [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
-* [2023-06-30, 11:39:38](https://news.ycombinator.com/item?id=36533153) - [Goodreads has no incentive to be good](https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be)
 * [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
 * [2023-06-30, 10:56:37](https://news.ycombinator.com/item?id=36532811) - [UK competition regulator finds Adobe’s purchase of Figma could reduce innovation](https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy)
 * [2023-06-30, 10:18:44](https://news.ycombinator.com/item?id=36532601) - [The dangers of conditional consistency guarantees](http://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
@@ -22,7 +23,6 @@
 * [2023-06-30, 07:03:50](https://news.ycombinator.com/item?id=36531485) - [How the great firewall of China detects and blocks fully encrypted traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 * [2023-06-30, 04:46:01](https://news.ycombinator.com/item?id=36530607) - [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
-* [2023-06-30, 04:02:54](https://news.ycombinator.com/item?id=36530379) - [Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 * [2023-06-30, 03:02:53](https://news.ycombinator.com/item?id=36530036) - [Ask HN: Stock Android phone free of bloatware?](https://news.ycombinator.com/item?id=36530036)
 * [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
