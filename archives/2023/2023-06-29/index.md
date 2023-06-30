@@ -79,6 +79,7 @@
 * [2023-06-29, 10:45:35](https://news.ycombinator.com/item?id=36518737) - [NXP has messed up their password form validation](https://peterme.net/scraps/nxp-has-messed-up-their-password-form-validation.html)
 * [2023-06-29, 10:42:26](https://news.ycombinator.com/item?id=36518714) - [D has become unbearable and it needs to stop](https://forum.dlang.org/thread/ijbtgciijtxmlfzganpd@forum.dlang.org)
 * [2023-06-29, 10:19:13](https://news.ycombinator.com/item?id=36518568) - [Practical Procedural Macros in Rust](https://xy2.dev/blog/simple-proc-macro/)
+* [2023-06-29, 09:54:59](https://news.ycombinator.com/item?id=36518400) - [The Abstraction and Reasoning Challenge (Arc)](https://pgpbpadilla.github.io/chollet-arc-challenge)
 * [2023-06-29, 09:30:47](https://news.ycombinator.com/item?id=36518256) - [Find a B Corp](https://www.bcorporation.net/en-us/find-a-b-corp/)
 * [2023-06-29, 08:56:08](https://news.ycombinator.com/item?id=36518026) - [Fun with Char in SQL](http://databasearchitects.blogspot.com/2015/01/fun-with-char.html)
 * [2023-06-29, 08:25:51](https://news.ycombinator.com/item?id=36517832) - [Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
