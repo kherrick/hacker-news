@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-29](index.md)
 
+* [2023-06-29, 23:40:50](https://news.ycombinator.com/item?id=36528362) - [The False Promise of Open-sourced LLMs context length](https://lmsys.org/blog/2023-06-29-longchat/)
 * [2023-06-29, 23:27:09](https://news.ycombinator.com/item?id=36528230) - [We Analyzed 1,626 Banned Books Here's What We Found](https://statecraft.beehiiv.com/p/analyzed-1626-banned-booksheres-found)
 * [2023-06-29, 23:08:23](https://news.ycombinator.com/item?id=36528077) - [Google's Epic Multi-Billion Dollar Ad Scam Makes Sense to Us](https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/)
 * [2023-06-29, 23:06:24](https://news.ycombinator.com/item?id=36528057) - [Concord bank offers a 100-year CD](https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578)
