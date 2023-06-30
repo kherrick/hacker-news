@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
 * [2023-06-30, 19:25:02](https://news.ycombinator.com/item?id=36540787) - [Why is there a drink called 手打柠檬鸭屎香 = “hand-made lemon duck-feces fragrance”?](https://chinese.stackexchange.com/questions/54741/why-is-there-a-drink-called-%e6%89%8b%e6%89%93%e6%9f%a0%e6%aa%ac%e9%b8%ad%e5%b1%8e%e9%a6%99-hand-made-lemon-duck-feces-fragrance)
 * [2023-06-30, 18:58:10](https://news.ycombinator.com/item?id=36540355) - [All Pocket accounts will be converted to Firefox accounts](https://blog.mozilla.org/en/products/pocket/signing-in-to-pocket-just-got-even-more-secure/)
 * [2023-06-30, 18:53:25](https://news.ycombinator.com/item?id=36540289) - [Ask HN: How much do you work, what's your salary and how experienced are you?](https://news.ycombinator.com/item?id=36540289)
 * [2023-06-30, 18:48:21](https://news.ycombinator.com/item?id=36540208) - [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
-* [2023-06-30, 18:14:40](https://news.ycombinator.com/item?id=36539634) - [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
 * [2023-06-30, 17:50:59](https://news.ycombinator.com/item?id=36539253) - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
 * [2023-06-30, 17:45:20](https://news.ycombinator.com/item?id=36539159) - [Crypto for the Homeless (501(C)(3))](https://cryptoforthehomeless.com/)
