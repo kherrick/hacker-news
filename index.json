@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-06-30, 04:05:14",
-      "https://news.ycombinator.com/item?id=36530393"
-    ],
-    [
-      "YouTube tests restricting ad blocker users to 3 video views",
-      "https://www.bleepingcomputer.com/news/technology/youtube-tests-restricting-ad-blocker-users-to-3-video-views/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 03:58:01",
-      "https://news.ycombinator.com/item?id=36530357"
-    ],
-    [
-      "Ross Ulbricht Threatens LowEndBox. It's Weird",
-      "https://lowendbox.com/blog/ross-ulbricht-threatens-lowendbox-its-weird/"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 03:16:05",
       "https://news.ycombinator.com/item?id=36530110"
     ],
@@ -95,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36528362"
     ],
     [
-      "The False Promise of Open-sourced LLMs context length",
+      "How long can open-source LLMs truly promise on context length?",
       "https://lmsys.org/blog/2023-06-29-longchat/"
     ]
   ],
@@ -135,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36526645"
     ],
     [
-      "Leo Tolstoy on why we drink (2014)",
+      "Leo Tolstoy on why people drink (2014)",
       "https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/"
     ]
   ],
@@ -171,12 +151,32 @@
   ],
   [
     [
+      "2023-06-29, 18:52:01",
+      "https://news.ycombinator.com/item?id=36525015"
+    ],
+    [
+      "The KDE Free Qt Foundation: 25 Years of Celebration",
+      "https://www.qt.io/blog/the-kde-free-qt-foundation-25-years-of-celebration"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 18:27:54",
       "https://news.ycombinator.com/item?id=36524662"
     ],
     [
       "Bill C-18: Google to remove news links in Canada over online news law",
       "https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 17:52:45",
+      "https://news.ycombinator.com/item?id=36524078"
+    ],
+    [
+      "Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs",
+      "https://github.com/gorilla-llm/gorilla-cli"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2023-06-29, 14:16:31",
-      "https://news.ycombinator.com/item?id=36520658"
+      "2023-06-29, 13:54:14",
+      "https://news.ycombinator.com/item?id=36520410"
     ],
     [
-      "Supreme Court strikes down affirmative action in college admissions",
-      "https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions"
+      "Show HN: Build a discord/Slack bot to answer questions with your docs and GPT4",
+      "https://www.windmill.dev/blog/knowledge-base-discord-bot"
     ]
   ],
   [
