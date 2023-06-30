@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
 * [2023-06-30, 04:05:14](https://news.ycombinator.com/item?id=36530393) - [YouTube tests restricting ad blocker users to 3 video views](https://www.bleepingcomputer.com/news/technology/youtube-tests-restricting-ad-blocker-users-to-3-video-views/)
+* [2023-06-30, 03:58:01](https://news.ycombinator.com/item?id=36530357) - [Ross Ulbricht Threatens LowEndBox. It's Weird](https://lowendbox.com/blog/ross-ulbricht-threatens-lowendbox-its-weird/)
 * [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
+* [2023-06-30, 03:12:40](https://news.ycombinator.com/item?id=36530096) - [Crossword Builder](https://dawnofthe.dad/crossword)
 * [2023-06-30, 02:54:49](https://news.ycombinator.com/item?id=36529973) - [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
 * [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
 * [2023-06-30, 02:23:53](https://news.ycombinator.com/item?id=36529795) - [Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita](https://github.com/mdwalters/lemonade)
