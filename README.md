@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 14:39:42](https://news.ycombinator.com/item?id=36535710) - [Firefighters in Canada: ‘Gigantic blazes will burn all summer’](https://english.elpais.com/international/2023-06-29/firefighters-in-canada-they-are-gigantic-blazes-and-they-will-burn-all-summer.html)
 * [2023-06-30, 14:21:04](https://news.ycombinator.com/item?id=36535417) - [YouTube confirms three-strikes test for ad blocking](https://www.androidauthority.com/youtube-confirm-three-strikes-policy-ad-blocking-test-3340826/)
 * [2023-06-30, 13:56:35](https://news.ycombinator.com/item?id=36534979) - [Site claims to sell upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
 * [2023-06-30, 13:41:17](https://news.ycombinator.com/item?id=36534725) - [McMansion Hell](https://mcmansionhell.com)
@@ -21,7 +22,6 @@
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 * [2023-06-30, 04:51:00](https://news.ycombinator.com/item?id=36530631) - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 * [2023-06-30, 04:46:01](https://news.ycombinator.com/item?id=36530607) - [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
-* [2023-06-30, 04:22:36](https://news.ycombinator.com/item?id=36530472) - [The man who broke bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
 * [2023-06-30, 04:02:54](https://news.ycombinator.com/item?id=36530379) - [Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 * [2023-06-30, 03:02:53](https://news.ycombinator.com/item?id=36530036) - [Ask HN: Stock Android phone free of bloatware?](https://news.ycombinator.com/item?id=36530036)
 * [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
