@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 11:34:21](https://news.ycombinator.com/item?id=36533108) - [Fidelity has cut Reddit valuation to $4.5B from $10B](https://techcrunch.com/2023/06/30/fidelity-deepens-valuation-cut-for-reddit-and-discord/)
 * [2023-06-30, 11:20:55](https://news.ycombinator.com/item?id=36532990) - [The Tragic Downfall of National Geographic](https://jjpryor.substack.com/p/the-tragic-downfall-of-national-geographic)
 * [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
 * [2023-06-30, 10:56:50](https://news.ycombinator.com/item?id=36532812) - [Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
