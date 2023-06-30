@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-30, 22:46:52](https://news.ycombinator.com/item?id=36543557) - [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
+* [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 * [2023-06-30, 22:02:30](https://news.ycombinator.com/item?id=36543018) - [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
 * [2023-06-30, 21:56:42](https://news.ycombinator.com/item?id=36542937) - [Boxed types in OCaml, and other thoughts](https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/)
@@ -21,7 +22,6 @@
 * [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
 * [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [Atom feed format was born 20 years ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
-* [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
 * [2023-06-29, 11:02:01](https://news.ycombinator.com/item?id=36518840) - [JavaScript macros in Bun](https://bun.sh/blog/bun-macros)
 * [2023-06-29, 09:54:59](https://news.ycombinator.com/item?id=36518400) - [The Abstraction and Reasoning Challenge (Arc)](https://pgpbpadilla.github.io/chollet-arc-challenge)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
