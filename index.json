@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2023-06-30, 02:23:53",
-      "https://news.ycombinator.com/item?id=36529795"
+      "2023-06-30, 01:57:54",
+      "https://news.ycombinator.com/item?id=36529610"
     ],
     [
-      "Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita",
-      "https://github.com/mdwalters/lemonade"
+      "LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica",
+      "https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language"
     ]
   ],
   [
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36528984"
     ],
     [
-      "MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust",
+      "MdBook – A command line tool to create books with Markdown",
       "https://rust-lang.github.io/mdBook/"
     ]
   ],
