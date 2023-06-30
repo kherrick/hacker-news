@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36530662"
     ],
     [
-      "Anna’s Archive: The world’s largest open-source open-data library",
+      "Anna’s Archive: Open-source data library",
       "https://annas-archive.org/"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36530379"
     ],
     [
-      "The complete guide to publishing free software video games",
+      "Publishing free software video games",
       "https://writefreesoftware.org/blog/free-software-games/"
     ]
   ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36529456"
     ],
     [
-      "File for Divorce from LLVM",
+      "File for divorce from LLVM",
       "https://github.com/ziglang/zig/issues/16270"
     ]
   ],
@@ -127,6 +127,16 @@
     [
       "How long can open-source LLMs truly promise on context length?",
       "https://lmsys.org/blog/2023-06-29-longchat/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 23:06:24",
+      "https://news.ycombinator.com/item?id=36528057"
+    ],
+    [
+      "Concord bank offers a 100-year CD",
+      "https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578"
     ]
   ],
   [
@@ -181,22 +191,22 @@
   ],
   [
     [
-      "2023-06-29, 19:22:56",
-      "https://news.ycombinator.com/item?id=36525455"
-    ],
-    [
-      "Physicists produce neutrino images of Milky Way galaxy",
-      "https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 18:27:54",
       "https://news.ycombinator.com/item?id=36524662"
     ],
     [
       "Bill C-18: Google to remove news links in Canada over online news law",
       "https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 17:58:54",
+      "https://news.ycombinator.com/item?id=36524201"
+    ],
+    [
+      "Gitlab’s AI-assisted code suggestions",
+      "https://about.gitlab.com/solutions/code-suggestions/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Building Boba AI: Lessons learnt in building an LLM-powered application",
       "https://martinfowler.com/articles/building-boba.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 17:06:36",
-      "https://news.ycombinator.com/item?id=36523300"
-    ],
-    [
-      "Freshpaint (YC S19) is hiring software engineers to build a HIPAA data platform",
-      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
     ]
   ],
   [
