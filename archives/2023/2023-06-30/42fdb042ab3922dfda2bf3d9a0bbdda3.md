@@ -1,0 +1,3 @@
+# [Published on 2023-06-30](index.md)
+
+* [2023-06-30, 17:53:25](https://news.ycombinator.com/item?id=36539306) - [Invidious Instance Yewtu.be Censored](https://yewtu.be/)
