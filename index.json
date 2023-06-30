@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-06-30, 16:32:50",
-      "https://news.ycombinator.com/item?id=36537962"
-    ],
-    [
-      "About the gun that killed a boy at Seattle’s Ingraham High School",
-      "https://kuow.org/stories/about-the-gun-that-killed-a-boy-at-seattle-s-ingraham-high-school"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 16:12:55",
       "https://news.ycombinator.com/item?id=36537598"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36537533"
     ],
     [
-      "CommonJS Is Hurting JavaScript",
+      "CommonJS is hurting JavaScript",
       "https://deno.com/blog/commonjs-is-hurting-javascript"
     ]
   ],
@@ -101,16 +91,6 @@
   ],
   [
     [
-      "2023-06-30, 12:21:57",
-      "https://news.ycombinator.com/item?id=36533604"
-    ],
-    [
-      "Rocky Linux shares how they may continue to obtain the RHEL source code",
-      "https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 12:11:08",
       "https://news.ycombinator.com/item?id=36533465"
     ],
@@ -147,6 +127,16 @@
     [
       "Terrible real estate agent photographs",
       "https://terriblerealestateagentphotos.com"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 11:39:38",
+      "https://news.ycombinator.com/item?id=36533153"
+    ],
+    [
+      "Goodreads has no incentive to be good",
+      "https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Will Computers Redefine the Roots of Math?",
       "https://www.quantamagazine.org/will-computers-redefine-the-roots-of-math-20150519/"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 10:34:25",
+      "https://news.ycombinator.com/item?id=36504609"
+    ],
+    [
+      "Policy as Code vs. Policy as Graph Comparison",
+      "https://www.permit.io/blog/zanzibar-vs-opa"
     ]
   ]
 ]
