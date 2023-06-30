@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 20:58:09](https://news.ycombinator.com/item?id=36542179) - [RIP Nitter](https://github.com/zedeus/nitter/issues/919)
+* [2023-06-30, 20:52:05](https://news.ycombinator.com/item?id=36542101) - [Australia legalises psychedelics for mental health](https://www.bbc.co.uk/news/world-australia-66072427)
 * [2023-06-30, 20:34:27](https://news.ycombinator.com/item?id=36541836) - [Goldman Is Looking for a Way Out of Its Partnership with Apple](https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91)
+* [2023-06-30, 20:27:54](https://news.ycombinator.com/item?id=36541758) - [Racket Frustrates Me](https://blog.winny.tech/posts/racket-frustrates-me/)
 * [2023-06-30, 20:13:00](https://news.ycombinator.com/item?id=36541534) - [They Won't Play a Lady-O on Country Radio](https://pudding.cool/2023/05/country-radio/)
 * [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
 * [2023-06-30, 19:29:08](https://news.ycombinator.com/item?id=36540849) - [US Supreme Court rules website designer can refuse to serve same-sex couples](https://www.bbc.com/news/world-us-canada-66070534)
