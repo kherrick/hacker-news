@@ -3,7 +3,6 @@
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: The world’s largest open-source open-data library](https://annas-archive.org/)
 * [2023-06-30, 04:51:00](https://news.ycombinator.com/item?id=36530631) - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 * [2023-06-30, 04:46:01](https://news.ycombinator.com/item?id=36530607) - [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
-* [2023-06-30, 04:22:36](https://news.ycombinator.com/item?id=36530472) - [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
 * [2023-06-30, 04:02:54](https://news.ycombinator.com/item?id=36530379) - [The complete guide to publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 * [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
 * [2023-06-30, 03:12:40](https://news.ycombinator.com/item?id=36530096) - [Crossword Builder](https://dawnofthe.dad/crossword)
@@ -30,6 +29,7 @@
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
+* [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 
 ## [Archives](archives/index.md)
 
