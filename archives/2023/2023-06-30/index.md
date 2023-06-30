@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 14:21:04](https://news.ycombinator.com/item?id=36535417) - [YouTube confirms three-strikes test for ad blocking](https://www.androidauthority.com/youtube-confirm-three-strikes-policy-ad-blocking-test-3340826/)
 * [2023-06-30, 13:56:35](https://news.ycombinator.com/item?id=36534979) - [You can buy upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
 * [2023-06-30, 13:41:17](https://news.ycombinator.com/item?id=36534725) - [McMansion Hell](https://mcmansionhell.com)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
