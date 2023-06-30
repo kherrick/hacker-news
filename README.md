@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-06-30, 12:53:47](https://news.ycombinator.com/item?id=36533978) - [May inflation (PCE) falls to 1.2% (3.6% Core) / 3.8% YoY (4.6% Core YoY)](https://www.bea.gov/news/2023/personal-income-and-outlays-may-2023)
-* [2023-06-30, 12:49:02](https://news.ycombinator.com/item?id=36533916) - [Gen Z are turning to delusional thinking to cope](https://fortune.com/2023/06/27/gen-zers-turning-to-radical-rest-delusional-thinking-self-indulgence-late-stage-capitalism-molly-barth/)
 * [2023-06-30, 12:29:59](https://news.ycombinator.com/item?id=36533712) - [TSMC Faces $70M Ransom Demand Following LockBit Cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
+* [2023-06-30, 12:21:57](https://news.ycombinator.com/item?id=36533604) - [Rocky Linux Shares How They May Continue to Obtain the RHEL Source Code](https://www.phoronix.com/news/Rocky-Linux-RHEL-Source-Access)
 * [2023-06-30, 12:11:08](https://news.ycombinator.com/item?id=36533465) - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
 * [2023-06-30, 12:04:18](https://news.ycombinator.com/item?id=36533396) - [The Darwinian argument for worrying about AI](https://time.com/6283958/darwinian-argument-for-worrying-about-ai/)
 * [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
+* [2023-06-30, 11:44:47](https://news.ycombinator.com/item?id=36533198) - [Women Interviewing for Gates’s Office Were Asked Sexually Explicit Questions](https://www.wsj.com/articles/bill-gates-office-sexually-explicit-questions-7dc240f5)
 * [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
 * [2023-06-30, 11:39:38](https://news.ycombinator.com/item?id=36533153) - [Goodreads Has No Incentive to Be Good](https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be)
 * [2023-06-30, 11:34:21](https://news.ycombinator.com/item?id=36533108) - [Fidelity deepens valuation cut for Reddit and Discord](https://techcrunch.com/2023/06/30/fidelity-deepens-valuation-cut-for-reddit-and-discord/)
@@ -27,7 +28,6 @@
 * [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2023-06-29, 23:40:50](https://news.ycombinator.com/item?id=36528362) - [How long can open-source LLMs truly promise on context length?](https://lmsys.org/blog/2023-06-29-longchat/)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
-* [2023-06-29, 15:47:11](https://news.ycombinator.com/item?id=36522048) - [What if California's dams fail?](https://www.nytimes.com/2023/06/22/magazine/california-dams.html)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Back In Time: Vintage Maps of Akihabara (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 * [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
 
