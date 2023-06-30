@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 21:23:14](https://news.ycombinator.com/item?id=36542500) - [FTC Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials)
 * [2023-06-30, 20:58:09](https://news.ycombinator.com/item?id=36542179) - [RIP Nitter](https://github.com/zedeus/nitter/issues/919)
 * [2023-06-30, 20:52:05](https://news.ycombinator.com/item?id=36542101) - [Australia legalises psychedelics for mental health](https://www.bbc.co.uk/news/world-australia-66072427)
 * [2023-06-30, 20:34:27](https://news.ycombinator.com/item?id=36541836) - [Goldman Is Looking for a Way Out of Its Partnership with Apple](https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91)

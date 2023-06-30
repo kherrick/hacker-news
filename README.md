@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 21:23:14](https://news.ycombinator.com/item?id=36542500) - [FTC Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials)
 * [2023-06-30, 20:58:09](https://news.ycombinator.com/item?id=36542179) - [RIP Nitter](https://github.com/zedeus/nitter/issues/919)
 * [2023-06-30, 20:52:05](https://news.ycombinator.com/item?id=36542101) - [Australia legalises psychedelics for mental health](https://www.bbc.co.uk/news/world-australia-66072427)
 * [2023-06-30, 20:34:27](https://news.ycombinator.com/item?id=36541836) - [Goldman Is Looking for a Way Out of Its Partnership with Apple](https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91)
@@ -13,7 +14,6 @@
 * [2023-06-30, 17:44:15](https://news.ycombinator.com/item?id=36539144) - [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-30, 17:01:04](https://news.ycombinator.com/item?id=36538423) - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
-* [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-06-30, 13:09:04](https://news.ycombinator.com/item?id=36534179) - [Nineteen new Wolf-Rayet stars discovered in the Andromeda galaxy](https://phys.org/news/2023-06-nineteen-wolf-rayet-stars-andromeda-galaxy.html)
 * [2023-06-30, 12:11:08](https://news.ycombinator.com/item?id=36533465) - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
