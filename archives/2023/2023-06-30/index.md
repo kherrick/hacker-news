@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 12:14:27](https://news.ycombinator.com/item?id=36533493) - [APPL $3T valuation isn’t far off – but no thanks to Vision Pro, argues Bloomberg](https://9to5mac.com/2023/06/30/appl-3t-valuation-isnt-far-off/)
+* [2023-06-30, 12:11:08](https://news.ycombinator.com/item?id=36533465) - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
+* [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
+* [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
+* [2023-06-30, 11:39:38](https://news.ycombinator.com/item?id=36533153) - [Goodreads Has No Incentive to Be Good](https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be)
 * [2023-06-30, 11:34:21](https://news.ycombinator.com/item?id=36533108) - [Fidelity has cut Reddit valuation to $4.5B from $10B](https://techcrunch.com/2023/06/30/fidelity-deepens-valuation-cut-for-reddit-and-discord/)
+* [2023-06-30, 11:26:22](https://news.ycombinator.com/item?id=36533048) - [Fastmail Is Down](https://fastmailstatus.com/)
 * [2023-06-30, 11:20:55](https://news.ycombinator.com/item?id=36532990) - [The Tragic Downfall of National Geographic](https://jjpryor.substack.com/p/the-tragic-downfall-of-national-geographic)
 * [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
 * [2023-06-30, 10:56:50](https://news.ycombinator.com/item?id=36532812) - [Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
