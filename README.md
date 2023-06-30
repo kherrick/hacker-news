@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 20:34:27](https://news.ycombinator.com/item?id=36541836) - [Goldman Is Looking for a Way Out of Its Partnership with Apple](https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91)
+* [2023-06-30, 20:13:00](https://news.ycombinator.com/item?id=36541534) - [They Won't Play a Lady-O on Country Radio](https://pudding.cool/2023/05/country-radio/)
 * [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
-* [2023-06-30, 19:25:02](https://news.ycombinator.com/item?id=36540787) - [Why is there a drink called 手打柠檬鸭屎香 = “hand-made lemon duck-feces fragrance”?](https://chinese.stackexchange.com/questions/54741/why-is-there-a-drink-called-%e6%89%8b%e6%89%93%e6%9f%a0%e6%aa%ac%e9%b8%ad%e5%b1%8e%e9%a6%99-hand-made-lemon-duck-feces-fragrance)
 * [2023-06-30, 18:58:10](https://news.ycombinator.com/item?id=36540355) - [All Pocket accounts will be converted to Firefox accounts](https://blog.mozilla.org/en/products/pocket/signing-in-to-pocket-just-got-even-more-secure/)
 * [2023-06-30, 18:48:21](https://news.ycombinator.com/item?id=36540208) - [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
@@ -20,7 +21,6 @@
 * [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
 * [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
 * [2023-06-30, 11:14:39](https://news.ycombinator.com/item?id=36532949) - [Dynamic bit shuffle using AVX-512](https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/)
-* [2023-06-30, 10:18:44](https://news.ycombinator.com/item?id=36532601) - [The dangers of conditional consistency guarantees](http://dbmsmusings.blogspot.com/2019/07/the-dangers-of-conditional-consistency.html)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [Atom feed format was born 20 years ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
 * [2023-06-30, 08:18:36](https://news.ycombinator.com/item?id=36531988) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)

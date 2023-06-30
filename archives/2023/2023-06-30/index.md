@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 20:34:27](https://news.ycombinator.com/item?id=36541836) - [Goldman Is Looking for a Way Out of Its Partnership with Apple](https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91)
+* [2023-06-30, 20:13:00](https://news.ycombinator.com/item?id=36541534) - [They Won't Play a Lady-O on Country Radio](https://pudding.cool/2023/05/country-radio/)
 * [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphins use “baby talk” too](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
 * [2023-06-30, 19:29:08](https://news.ycombinator.com/item?id=36540849) - [US Supreme Court rules website designer can refuse to serve same-sex couples](https://www.bbc.com/news/world-us-canada-66070534)
 * [2023-06-30, 19:25:02](https://news.ycombinator.com/item?id=36540787) - [Why is there a drink called 手打柠檬鸭屎香 = “hand-made lemon duck-feces fragrance”?](https://chinese.stackexchange.com/questions/54741/why-is-there-a-drink-called-%e6%89%8b%e6%89%93%e6%9f%a0%e6%aa%ac%e9%b8%ad%e5%b1%8e%e9%a6%99-hand-made-lemon-duck-feces-fragrance)
