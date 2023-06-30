@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 09:35:26](https://news.ycombinator.com/item?id=36532400) - [The Darkness Ahead: Where the Ukraine War Is Headed](https://mearsheimer.substack.com/p/the-darkness-ahead-where-the-ukraine)
+* [2023-06-30, 09:33:35](https://news.ycombinator.com/item?id=36532385) - [French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
 * [2023-06-30, 09:05:48](https://news.ycombinator.com/item?id=36532238) - [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
 * [2023-06-30, 08:44:41](https://news.ycombinator.com/item?id=36532136) - [The Atom Feed Format Was Born 20 Years Ago](https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago)
 * [2023-06-30, 08:18:36](https://news.ycombinator.com/item?id=36531988) - [BGP.Tools: Browse the Internet Ecosystem](https://bgp.tools/)
