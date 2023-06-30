@@ -2,6 +2,7 @@
 
 * [2023-06-30, 12:14:27](https://news.ycombinator.com/item?id=36533493) - [APPL $3T valuation isn’t far off – but no thanks to Vision Pro, argues Bloomberg](https://9to5mac.com/2023/06/30/appl-3t-valuation-isnt-far-off/)
 * [2023-06-30, 12:11:08](https://news.ycombinator.com/item?id=36533465) - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
+* [2023-06-30, 12:04:18](https://news.ycombinator.com/item?id=36533396) - [The Darwinian argument for worrying about AI](https://time.com/6283958/darwinian-argument-for-worrying-about-ai/)
 * [2023-06-30, 12:01:03](https://news.ycombinator.com/item?id=36533355) - [Roboflow (YC S20) Is Hiring Engineers to Democratize Computer Vision](https://roboflow.com/careers?ref=hn723)
 * [2023-06-30, 11:44:31](https://news.ycombinator.com/item?id=36533193) - [Terrible real estate agent photographs](https://terriblerealestateagentphotos.com)
 * [2023-06-30, 11:39:38](https://news.ycombinator.com/item?id=36533153) - [Goodreads Has No Incentive to Be Good](https://countercraft.substack.com/p/goodreads-has-no-incentive-to-be)
@@ -27,7 +28,6 @@
 * [2023-06-29, 23:06:24](https://news.ycombinator.com/item?id=36528057) - [Concord bank offers a 100-year CD](https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
 * [2023-06-29, 15:47:11](https://news.ycombinator.com/item?id=36522048) - [What if California's dams fail?](https://www.nytimes.com/2023/06/22/magazine/california-dams.html)
-* [2023-06-29, 13:18:31](https://news.ycombinator.com/item?id=36519963) - [Focus on NANOGrav's 15yr Data Set and the Gravitational Wave Background](https://iopscience.iop.org/collections/apjl-230623-245-Focus-on-NANOGrav-15-year)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Back In Time: Vintage Maps of Akihabara (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 * [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
 
