@@ -2,7 +2,7 @@
 
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 * [2023-06-30, 04:51:00](https://news.ycombinator.com/item?id=36530631) - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
-* [2023-06-30, 04:46:01](https://news.ycombinator.com/item?id=36530607) - [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
+* [2023-06-30, 04:22:36](https://news.ycombinator.com/item?id=36530472) - [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
 * [2023-06-30, 04:02:54](https://news.ycombinator.com/item?id=36530379) - [Publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
 * [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
 * [2023-06-30, 03:12:40](https://news.ycombinator.com/item?id=36530096) - [Crossword Builder](https://dawnofthe.dad/crossword)
