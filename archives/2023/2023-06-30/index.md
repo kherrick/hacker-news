@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
 * [2023-06-30, 21:36:59](https://news.ycombinator.com/item?id=36542673) - [Time lapse of this week's large sunspot](https://www.astrobin.com/full/qti3dk/0/)
+* [2023-06-30, 21:36:29](https://news.ycombinator.com/item?id=36542664) - [FFE Games](https://farfuture.net/)
 * [2023-06-30, 21:33:52](https://news.ycombinator.com/item?id=36542634) - [Brazil's Jair Bolsonaro is barred from office until 2030](https://www.washingtonpost.com/politics/2023/06/30/brazil-bolsonaro-ineligible-court-ruling-vote/465d30ea-175d-11ee-9de3-ba1fa29e9bec_story.html)
 * [2023-06-30, 21:23:14](https://news.ycombinator.com/item?id=36542500) - [FTC Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials)
 * [2023-06-30, 21:22:31](https://news.ycombinator.com/item?id=36542487) - [To unlock drink verification can](https://gamefaqs.gamespot.com/boards/632877-halo-4/66477630)

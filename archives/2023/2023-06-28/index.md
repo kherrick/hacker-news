@@ -72,6 +72,7 @@
 * [2023-06-28, 10:24:38](https://news.ycombinator.com/item?id=36504554) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 09:59:08](https://news.ycombinator.com/item?id=36504393) - [Show HN: Playground for OpenAI Function Calling](https://langtale.ai/playground)
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast Machines, Slow Machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
+* [2023-06-28, 08:44:02](https://news.ycombinator.com/item?id=36503924) - [Adding Weak References to Chicken](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-28, 08:05:29](https://news.ycombinator.com/item?id=36503687) - [Irregularities found during FDA inspection of Intas Pharmaceuticals](https://www.fda.gov/media/164602/download)
 * [2023-06-28, 07:00:19](https://news.ycombinator.com/item?id=36503255) - [Supabase (YC S20) Is Hiring a Rust Developer](https://boards.greenhouse.io/supabase/jobs/4917893004)
 * [2023-06-28, 04:54:31](https://news.ycombinator.com/item?id=36502474) - [‘The World’ Review: History Branched Out](https://www.wsj.com/articles/the-world-review-history-branched-out-4d18193a)
