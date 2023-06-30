@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 04:05:14](https://news.ycombinator.com/item?id=36530393) - [YouTube tests restricting ad blocker users to 3 video views](https://www.bleepingcomputer.com/news/technology/youtube-tests-restricting-ad-blocker-users-to-3-video-views/)
 * [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
 * [2023-06-30, 02:54:49](https://news.ycombinator.com/item?id=36529973) - [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
 * [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)

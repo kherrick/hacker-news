@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 04:05:14](https://news.ycombinator.com/item?id=36530393) - [YouTube tests restricting ad blocker users to 3 video views](https://www.bleepingcomputer.com/news/technology/youtube-tests-restricting-ad-blocker-users-to-3-video-views/)
 * [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
 * [2023-06-30, 02:54:49](https://news.ycombinator.com/item?id=36529973) - [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
 * [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
@@ -27,7 +28,6 @@
 * [2023-06-29, 14:16:31](https://news.ycombinator.com/item?id=36520658) - [Supreme Court strikes down affirmative action in college admissions](https://www.latimes.com/politics/story/2023-06-29/supreme-court-strikes-down-affirmative-action-in-college-admissions)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
-* [2023-06-27, 23:00:07](https://news.ycombinator.com/item?id=36499884) - [A new approach to controlling the properties of turbulence](https://phys.org/news/2023-06-approach-properties-turbulence.html)
 * [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 * [2023-06-27, 20:49:16](https://news.ycombinator.com/item?id=36498432) - [A 32-Bit Computer Inside Terraria [video]](https://www.youtube.com/watch?v=zXPiqk0-zDY)
 
