@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 03:16:05](https://news.ycombinator.com/item?id=36530110) - [RF Spectrum Mapping](https://www.he360.com/products/rfgeo-radio-frequency-signal-mapping/)
+* [2023-06-30, 02:54:49](https://news.ycombinator.com/item?id=36529973) - [Flea market find is medieval hand cannon](http://www.thehistoryblog.com/archives/67580)
 * [2023-06-30, 02:34:07](https://news.ycombinator.com/item?id=36529847) - [Hipólito Mora, vigilante crusader against Mexico’s cartels, killed in ambush](https://www.theguardian.com/world/2023/jun/29/hipolito-mora-killed-mexico-drug-cartel-foe)
 * [2023-06-30, 02:23:53](https://news.ycombinator.com/item?id=36529795) - [Show HN: Lemonade – A Lemmy client using GTK 4 and libadwaita](https://github.com/mdwalters/lemonade)
 * [2023-06-30, 01:57:54](https://news.ycombinator.com/item?id=36529610) - [LLM Tech and a Lot More: Version 13.3 of Wolfram Language and Mathematica](https://writings.stephenwolfram.com/2023/06/llm-tech-and-a-lot-more-version-13-3-of-wolfram-language-and-mathematica/#llm-tech-comes-to-wolfram-language)
