@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 22:46:52](https://news.ycombinator.com/item?id=36543557) - [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
+* [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 * [2023-06-30, 22:02:30](https://news.ycombinator.com/item?id=36543018) - [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
 * [2023-06-30, 21:56:42](https://news.ycombinator.com/item?id=36542937) - [Boxed types in OCaml, and other thoughts](https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/)
 * [2023-06-30, 21:36:59](https://news.ycombinator.com/item?id=36542673) - [Time lapse of this week's large sunspot](https://www.astrobin.com/full/qti3dk/0/)
