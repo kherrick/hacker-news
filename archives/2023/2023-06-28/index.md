@@ -22,6 +22,7 @@
 * [2023-06-28, 19:09:54](https://news.ycombinator.com/item?id=36511111) - [Behind the Pretty Frames: Diablo IV](https://mamoniem.com/behind-the-pretty-frames-diablo-iv/)
 * [2023-06-28, 19:08:53](https://news.ycombinator.com/item?id=36511096) - [Show HN: Gitopia: Decentralized GitHub Alternative for Open Source Collaboration](https://gitopia.com)
 * [2023-06-28, 19:03:04](https://news.ycombinator.com/item?id=36511012) - [Noticing when an app is only hosted in us-east-1](https://blog.jonlu.ca/posts/us-east-1-latency)
+* [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Vintage Maps of Akihabara “Electric Town”, Tokyo, Japan (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 * [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
 * [2023-06-28, 18:46:14](https://news.ycombinator.com/item?id=36510745) - [Future CSS: State Container Queries](https://ishadeed.com/article/css-state-queries/)
 * [2023-06-28, 18:43:03](https://news.ycombinator.com/item?id=36510701) - [Show HN: Serverless VPN, pay as you go, unlimited devices, no subscriptions](https://upvpn.app)

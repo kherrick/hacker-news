@@ -28,7 +28,7 @@
 * [2023-06-29, 14:40:17](https://news.ycombinator.com/item?id=36520985) - [Clog – The Common Lisp Omnificent GUI](https://github.com/rabbibotton/clog)
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
-* [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
+* [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Vintage Maps of Akihabara “Electric Town”, Tokyo, Japan (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 * [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 
 ## [Archives](archives/index.md)
