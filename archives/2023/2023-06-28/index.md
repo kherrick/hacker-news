@@ -68,6 +68,7 @@
 * [2023-06-28, 10:52:26](https://news.ycombinator.com/item?id=36504727) - [Electrifying everything at the rate required to meet our climate goals](https://www.rewiringamerica.org/pace)
 * [2023-06-28, 10:43:06](https://news.ycombinator.com/item?id=36504667) - [Five billion phones are dead in drawers – carriers want to mine them](https://www.theregister.com/2023/06/28/gsma_smartphone_recycling_plan/)
 * [2023-06-28, 10:42:10](https://news.ycombinator.com/item?id=36504661) - [Vincent van Gogh's paintings and drawings](https://www.vangoghmuseum.nl/en/collection?q=&artist=Vincent+van+Gogh)
+* [2023-06-28, 10:34:25](https://news.ycombinator.com/item?id=36504609) - [Policy as Code vs. Policy as Graph Comparison](https://www.permit.io/blog/zanzibar-vs-opa)
 * [2023-06-28, 10:24:38](https://news.ycombinator.com/item?id=36504554) - [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
 * [2023-06-28, 09:59:08](https://news.ycombinator.com/item?id=36504393) - [Show HN: Playground for OpenAI Function Calling](https://langtale.ai/playground)
 * [2023-06-28, 08:53:14](https://news.ycombinator.com/item?id=36503983) - [Fast Machines, Slow Machines](https://jmmv.dev/2023/06/fast-machines-slow-machines.html)
