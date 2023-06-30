@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 18:08:54](https://news.ycombinator.com/item?id=36539551) - [Supreme Court Opinion on Student Loan Forgiveness [pdf]](https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf)
+* [2023-06-30, 17:50:59](https://news.ycombinator.com/item?id=36539253) - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Algorithmic Trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
+* [2023-06-30, 17:44:15](https://news.ycombinator.com/item?id=36539144) - [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 * [2023-06-30, 17:43:19](https://news.ycombinator.com/item?id=36539124) - [Barred from Grocery Stores by Facial Recognition](https://www.nytimes.com/2023/06/28/technology/facial-recognition-shoplifters-britain.html)
 * [2023-06-30, 17:24:34](https://news.ycombinator.com/item?id=36538795) - [Linux's Slab Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
