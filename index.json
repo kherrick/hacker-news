@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-06-30, 18:43:25",
-      "https://news.ycombinator.com/item?id=36540133"
+      "2023-06-30, 18:48:21",
+      "https://news.ycombinator.com/item?id=36540208"
     ],
     [
-      "YouTube Removes R.F. Kennedy Presidential Candidate Interview",
-      "https://www.cnn.com/2023/06/20/tech/youtube-robert-f-kennedy-jr-video-removed/index.html"
+      "The One Ring card, Magic: The Gathering’s coveted collectible, has been found",
+      "https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Algorithmic Trading with Go",
       "https://polygon.io/blog/case-study-algorithmict-trading-with-go/"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 17:45:20",
+      "https://news.ycombinator.com/item?id=36539159"
+    ],
+    [
+      "Crypto for the Homeless (501(C)(3))",
+      "https://cryptoforthehomeless.com/"
     ]
   ],
   [
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2023-06-30, 12:29:59",
-      "https://news.ycombinator.com/item?id=36533712"
-    ],
-    [
-      "TSMC faces $70M ransom demand following lockbit cyberattack",
-      "https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 12:11:08",
       "https://news.ycombinator.com/item?id=36533465"
     ],
@@ -187,16 +187,6 @@
     [
       "Dynamic bit shuffle using AVX-512",
       "https://lemire.me/blog/2023/06/29/dynamic-bit-shuffle-using-avx-512/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 10:56:37",
-      "https://news.ycombinator.com/item?id=36532811"
-    ],
-    [
-      "UK competition regulator finds Adobe’s purchase of Figma could reduce innovation",
-      "https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Policy as Code vs. Policy as Graph Comparison",
       "https://www.permit.io/blog/zanzibar-vs-opa"
+    ]
+  ],
+  [
+    [
+      "2023-06-27, 19:36:40",
+      "https://news.ycombinator.com/item?id=36497619"
+    ],
+    [
+      "Alamut (Bartol Novel)",
+      "https://en.wikipedia.org/wiki/Alamut_(Bartol_novel)"
     ]
   ]
 ]
