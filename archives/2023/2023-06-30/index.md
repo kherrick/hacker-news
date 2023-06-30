@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 16:32:50](https://news.ycombinator.com/item?id=36537962) - [About the gun that killed a boy at Seattle’s Ingraham High School](https://kuow.org/stories/about-the-gun-that-killed-a-boy-at-seattle-s-ingraham-high-school)
 * [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
 * [2023-06-30, 16:09:29](https://news.ycombinator.com/item?id=36537533) - [CommonJS Is Hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
+* [2023-06-30, 15:54:49](https://news.ycombinator.com/item?id=36537250) - [AMD AI Software Solved – MI300X Pricing, Perf, PyTorch, FlashAttention, Triton](https://www.semianalysis.com/p/amd-ai-software-solved-mi300x-pricing)
 * [2023-06-30, 15:41:10](https://news.ycombinator.com/item?id=36536982) - [France to Suspend All Bus and Tram Services Amid Riots](https://news.sky.com/story/france-suspends-all-bus-and-tram-services-amid-riots-over-police-shooting-12912490)
 * [2023-06-30, 15:34:26](https://news.ycombinator.com/item?id=36536859) - [Niantic lays off 230 employees, cancels NBA and Marvel games](https://techcrunch.com/2023/06/29/niantic-lays-off-230-employees-cancels-nba-and-marvel-games/)
 * [2023-06-30, 15:05:36](https://news.ycombinator.com/item?id=36536190) - [Supreme Court Rejects Student Loan Forgiveness Plan](https://www.nytimes.com/live/2023/06/30/us/student-loans-supreme-court-biden)
