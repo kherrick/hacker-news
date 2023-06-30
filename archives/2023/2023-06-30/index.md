@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 21:33:52](https://news.ycombinator.com/item?id=36542634) - [Brazil's Jair Bolsonaro is barred from office until 2030](https://www.washingtonpost.com/politics/2023/06/30/brazil-bolsonaro-ineligible-court-ruling-vote/465d30ea-175d-11ee-9de3-ba1fa29e9bec_story.html)
 * [2023-06-30, 21:23:14](https://news.ycombinator.com/item?id=36542500) - [FTC Announces Proposed Rule Banning Fake Reviews and Testimonials](https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials)
+* [2023-06-30, 21:08:14](https://news.ycombinator.com/item?id=36542298) - [SEC notifies SolarWinds CISO and CFO of possible action in cyber investigation](https://www.cybersecuritydive.com/news/sec-solarwinds-ciso-cfo-orion/653864/)
+* [2023-06-30, 21:05:32](https://news.ycombinator.com/item?id=36542267) - [MDN can now automatically lie to people seeking technical information](https://github.com/mdn/yari/issues/9208)
 * [2023-06-30, 20:58:09](https://news.ycombinator.com/item?id=36542179) - [RIP Nitter](https://github.com/zedeus/nitter/issues/919)
 * [2023-06-30, 20:52:05](https://news.ycombinator.com/item?id=36542101) - [Australia legalises psychedelics for mental health](https://www.bbc.co.uk/news/world-australia-66072427)
 * [2023-06-30, 20:34:27](https://news.ycombinator.com/item?id=36541836) - [Goldman Is Looking for a Way Out of Its Partnership with Apple](https://www.wsj.com/articles/goldman-is-looking-for-a-way-out-of-its-partnership-with-apple-79849a91)
