@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-06-30, 18:08:54",
+      "https://news.ycombinator.com/item?id=36539551"
+    ],
+    [
+      "Supreme Court Opinion on Student Loan Forgiveness [pdf]",
+      "https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 17:50:59",
+      "https://news.ycombinator.com/item?id=36539253"
+    ],
+    [
+      "Static electricity attracts ticks to hosts",
+      "https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 17:49:52",
       "https://news.ycombinator.com/item?id=36539235"
     ],
     [
       "Algorithmic Trading with Go",
       "https://polygon.io/blog/case-study-algorithmict-trading-with-go/"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 17:44:15",
+      "https://news.ycombinator.com/item?id=36539144"
+    ],
+    [
+      "Hurl 4.0.0",
+      "https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Lawsuit claims OpenAI stole 'massive amounts of personal data'",
       "https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 15:54:49",
-      "https://news.ycombinator.com/item?id=36537250"
-    ],
-    [
-      "AMD AI Software Solved – MI300X Pricing, Perf, PyTorch, FlashAttention, Triton",
-      "https://www.semianalysis.com/p/amd-ai-software-solved-mi300x-pricing"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2023-06-30, 10:56:37",
-      "https://news.ycombinator.com/item?id=36532811"
-    ],
-    [
-      "UK competition regulator finds Adobe’s purchase of Figma could reduce innovation",
-      "https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 10:18:44",
       "https://news.ycombinator.com/item?id=36532601"
     ],
@@ -231,32 +241,22 @@
   ],
   [
     [
-      "2023-06-30, 04:46:01",
-      "https://news.ycombinator.com/item?id=36530607"
-    ],
-    [
-      "Buying an iPad Pro for coding was a mistake",
-      "https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 03:02:53",
-      "https://news.ycombinator.com/item?id=36530036"
-    ],
-    [
-      "Ask HN: Stock Android phone free of bloatware?",
-      "https://news.ycombinator.com/item?id=36530036"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 17:51:32",
       "https://news.ycombinator.com/item?id=36524055"
     ],
     [
       "ToneMatrix",
       "https://www.maxlaumeister.com/tonematrix/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 11:02:01",
+      "https://news.ycombinator.com/item?id=36518840"
+    ],
+    [
+      "JavaScript Macros in Bun",
+      "https://bun.sh/blog/bun-macros"
     ]
   ],
   [
