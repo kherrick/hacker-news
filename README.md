@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 07:03:50](https://news.ycombinator.com/item?id=36531485) - [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
+* [2023-06-30, 07:02:46](https://news.ycombinator.com/item?id=36531477) - [All Twitter content seems to be behind a login wall today](https://masto.ai/@mg/110631881391528778)
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: Open-source data library](https://annas-archive.org/)
 * [2023-06-30, 04:51:00](https://news.ycombinator.com/item?id=36530631) - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 * [2023-06-30, 04:22:36](https://news.ycombinator.com/item?id=36530472) - [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
@@ -18,7 +20,6 @@
 * [2023-06-29, 21:01:22](https://news.ycombinator.com/item?id=36526645) - [Leo Tolstoy on why people drink (2014)](https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/)
 * [2023-06-29, 20:44:50](https://news.ycombinator.com/item?id=36526453) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 * [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
-* [2023-06-29, 19:22:56](https://news.ycombinator.com/item?id=36525455) - [Physicists produce neutrino images of Milky Way galaxy](https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy)
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Bill C-18: Google to remove news links in Canada over online news law](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:58:54](https://news.ycombinator.com/item?id=36524201) - [Gitlab’s AI-assisted code suggestions](https://about.gitlab.com/solutions/code-suggestions/)
 * [2023-06-29, 17:28:34](https://news.ycombinator.com/item?id=36523647) - [Beware of Unreliable Data in Model Evaluation: A LLM Prompt Selection Case Study](https://cleanlab.ai/blog/prompt-selection/)
@@ -29,7 +30,6 @@
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Vintage Maps of Akihabara “Electric Town”, Tokyo, Japan (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
-* [2023-06-27, 22:59:17](https://news.ycombinator.com/item?id=36499875) - [Researcher discovers new isotope of astatine](https://phys.org/news/2023-06-atomic-nucleus.html)
 
 ## [Archives](archives/index.md)
 

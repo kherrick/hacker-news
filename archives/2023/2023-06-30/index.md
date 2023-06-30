@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 07:03:50](https://news.ycombinator.com/item?id=36531485) - [How the Great Firewall of China Detects and Blocks Fully Encrypted Traffic [pdf]](https://gfw.report/publications/usenixsecurity23/data/paper/paper.pdf)
+* [2023-06-30, 07:02:46](https://news.ycombinator.com/item?id=36531477) - [All Twitter content seems to be behind a login wall today](https://masto.ai/@mg/110631881391528778)
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: The world’s largest open-source open-data library](https://annas-archive.org/)
 * [2023-06-30, 04:51:00](https://news.ycombinator.com/item?id=36530631) - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 * [2023-06-30, 04:46:01](https://news.ycombinator.com/item?id=36530607) - [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
