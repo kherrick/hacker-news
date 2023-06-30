@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 12:53:47](https://news.ycombinator.com/item?id=36533978) - [May inflation (PCE) falls to 1.2% (3.6% Core) / 3.8% YoY (4.6% Core YoY)](https://www.bea.gov/news/2023/personal-income-and-outlays-may-2023)
+* [2023-06-30, 12:49:02](https://news.ycombinator.com/item?id=36533916) - [Gen Z are turning to delusional thinking to cope](https://fortune.com/2023/06/27/gen-zers-turning-to-radical-rest-delusional-thinking-self-indulgence-late-stage-capitalism-molly-barth/)
+* [2023-06-30, 12:29:59](https://news.ycombinator.com/item?id=36533712) - [TSMC Faces $70M Ransom Demand Following LockBit Cyberattack](https://www.thefinalhop.com/tsmc-faces-70m-ransom-demand-following-lockbit-cyberattack-could-this-impact-gpu-prices-80e1d9f90ef3?gi=367614525a9f)
 * [2023-06-30, 12:14:27](https://news.ycombinator.com/item?id=36533493) - [APPL $3T valuation isn’t far off – but no thanks to Vision Pro, argues Bloomberg](https://9to5mac.com/2023/06/30/appl-3t-valuation-isnt-far-off/)
 * [2023-06-30, 12:11:08](https://news.ycombinator.com/item?id=36533465) - [Show HN: Gamebody, a full-body game controller](https://github.com/everythingishacked/Gamebody)
 * [2023-06-30, 12:04:18](https://news.ycombinator.com/item?id=36533396) - [The Darwinian argument for worrying about AI](https://time.com/6283958/darwinian-argument-for-worrying-about-ai/)
