@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-06-30, 14:53:38](https://news.ycombinator.com/item?id=36535949) - [Legacy and Athlete Preferences at Harvard (2020) [pdf]](http://public.econ.duke.edu/~psarcidi/legacyathlete.pdf)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
@@ -27,6 +26,7 @@
 * [2023-06-30, 03:02:53](https://news.ycombinator.com/item?id=36530036) - [Ask HN: Stock Android phone free of bloatware?](https://news.ycombinator.com/item?id=36530036)
 * [2023-06-30, 00:45:20](https://news.ycombinator.com/item?id=36528984) - [MdBook – A command line tool to create books with Markdown](https://rust-lang.github.io/mdBook/)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
+* [2023-06-29, 15:47:11](https://news.ycombinator.com/item?id=36522048) - [What if California's dams fail?](https://www.nytimes.com/2023/06/22/magazine/california-dams.html)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Back In Time: Vintage Maps of Akihabara (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 * [2023-06-28, 18:50:04](https://news.ycombinator.com/item?id=36510810) - [The Letter Circle](https://lostgarden.home.blog/2023/02/26/the-letter-circle/)
