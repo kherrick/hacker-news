@@ -27,7 +27,7 @@
 * [2023-06-29, 09:54:59](https://news.ycombinator.com/item?id=36518400) - [The Abstraction and Reasoning Challenge (Arc)](https://pgpbpadilla.github.io/chollet-arc-challenge)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-29, 06:15:09](https://news.ycombinator.com/item?id=36516978) - [Review: The AYANEO 2S is my new favourite handheld](https://overkill.wtf/ayaneo-2s-review/)
-* [2023-06-28, 10:34:25](https://news.ycombinator.com/item?id=36504609) - [Policy as Code vs. Policy as Graph Comparison](https://www.permit.io/blog/zanzibar-vs-opa)
+* [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
 * [2023-06-28, 08:44:02](https://news.ycombinator.com/item?id=36503924) - [Adding weak references to CHICKEN](https://www.more-magic.net/posts/weak-references.html)
 * [2023-06-27, 19:36:40](https://news.ycombinator.com/item?id=36497619) - [Alamut (Bartol Novel)](https://en.wikipedia.org/wiki/Alamut_(Bartol_novel))
 
