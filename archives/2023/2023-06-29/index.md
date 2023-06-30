@@ -61,6 +61,7 @@
 * [2023-06-29, 13:55:30](https://news.ycombinator.com/item?id=36520423) - [Oral History of Ed Fredkin (2006) [pdf]](https://archive.computerhistory.org/resources/access/text/2013/05/102630504-05-01-acc.pdf)
 * [2023-06-29, 13:54:14](https://news.ycombinator.com/item?id=36520410) - [Show HN: Build a discord/Slack bot to answer questions with your docs and GPT4](https://www.windmill.dev/blog/knowledge-base-discord-bot)
 * [2023-06-29, 13:43:36](https://news.ycombinator.com/item?id=36520287) - [No code payments automation is a lie](https://hyperswitch.io/blog/no-code-payments-automation-is-a-lie)
+* [2023-06-29, 13:18:31](https://news.ycombinator.com/item?id=36519963) - [Focus on NANOGrav's 15yr Data Set and the Gravitational Wave Background](https://iopscience.iop.org/collections/apjl-230623-245-Focus-on-NANOGrav-15-year)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
 * [2023-06-29, 12:44:50](https://news.ycombinator.com/item?id=36519633) - [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
