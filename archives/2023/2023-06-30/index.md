@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 11:20:55](https://news.ycombinator.com/item?id=36532990) - [The Tragic Downfall of National Geographic](https://jjpryor.substack.com/p/the-tragic-downfall-of-national-geographic)
 * [2023-06-30, 10:56:50](https://news.ycombinator.com/item?id=36532812) - [Microwaved plastic containers release microplastics into food](https://pubs.acs.org/doi/10.1021/acs.est.3c01942)
+* [2023-06-30, 10:56:37](https://news.ycombinator.com/item?id=36532811) - [UK competition regulator finds concern with Adobe's purchase of Figma](https://www.gov.uk/government/news/design-software-deal-could-harm-uk-digital-economy)
 * [2023-06-30, 09:35:26](https://news.ycombinator.com/item?id=36532400) - [The Darkness Ahead: Where the Ukraine War Is Headed](https://mearsheimer.substack.com/p/the-darkness-ahead-where-the-ukraine)
 * [2023-06-30, 09:33:35](https://news.ycombinator.com/item?id=36532385) - [French Gov Wants to Inject Domain Blocking Lists Directly into Web Browsers](https://torrentfreak.com/french-govt-wants-to-inject-domain-blocking-lists-directly-into-web-browsers-230630/)
 * [2023-06-30, 09:05:48](https://news.ycombinator.com/item?id=36532238) - [Cheapest Source of x86 Cores?](https://news.ycombinator.com/item?id=36532238)
