@@ -1,32 +1,42 @@
 [
   [
     [
+      "2023-06-30, 00:45:20",
+      "https://news.ycombinator.com/item?id=36528984"
+    ],
+    [
+      "MdBook – Create book from Markdown files. Like Gitbook but implemented in Rust",
+      "https://rust-lang.github.io/mdBook/"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 00:08:26",
+      "https://news.ycombinator.com/item?id=36528671"
+    ],
+    [
+      "Disbarment Is Rare in Cases of Attorney-Client Sexual Contact",
+      "https://www.law360.com/articles/1693111/disbarment-is-rare-in-cases-of-atty-client-sexual-contact"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 23:40:50",
+      "https://news.ycombinator.com/item?id=36528362"
+    ],
+    [
+      "The False Promise of Open-sourced LLMs context length",
+      "https://lmsys.org/blog/2023-06-29-longchat/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 23:08:23",
       "https://news.ycombinator.com/item?id=36528077"
     ],
     [
-      "Google's Epic Multi-Billion Dollar Ad Scam Makes Sense to Us",
+      "Reverse-engineering Google’s \"Skip Button Guarantee\"",
       "https://checkmyads.org/branded/googles-epic-multi-billion-dollar-ad-scam-makes-sense-to-us/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 23:06:24",
-      "https://news.ycombinator.com/item?id=36528057"
-    ],
-    [
-      "Concord bank offers a 100-year CD",
-      "https://www.concordmonitor.com/100-year-CD-walden-mutual-bank-new-hampshire-51306578"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 22:52:54",
-      "https://news.ycombinator.com/item?id=36527962"
-    ],
-    [
-      "BART ridership is still down nearly 70% from pre-Covid levels",
-      "https://statecraft.beehiiv.com/p/public-transit-recovery"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "English as the new programming language for Apache spark",
       "https://www.databricks.com/blog/introducing-english-new-programming-language-apache-spark"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 21:34:00",
-      "https://news.ycombinator.com/item?id=36527045"
-    ],
-    [
-      "Wayland is pretty good",
-      "https://serebit.com/posts/wayland-is-pretty-good/"
     ]
   ],
   [
@@ -147,16 +147,6 @@
     [
       "Github.com is down",
       "https://github.com/status"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 17:35:47",
-      "https://news.ycombinator.com/item?id=36523762"
-    ],
-    [
-      "Towards an adaptable systems architecture for memory tiering at warehouse-scale",
-      "https://www.micahlerner.com/2023/06/29/towards-an-adaptable-systems-architecture-for-memory-tiering-at-warehouse-scale.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Delta flight lands in Charlotte without front landing gear",
       "https://www.wbtv.com/2023/06/28/plane-lands-charlotte-douglas-international-airport-after-dealing-with-mechanical-issues/"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 18:50:04",
+      "https://news.ycombinator.com/item?id=36510810"
+    ],
+    [
+      "The Letter Circle",
+      "https://lostgarden.home.blog/2023/02/26/the-letter-circle/"
     ]
   ],
   [
