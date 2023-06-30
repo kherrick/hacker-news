@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 19:29:08](https://news.ycombinator.com/item?id=36540849) - [US Supreme Court rules website designer can refuse to serve same-sex couples](https://www.bbc.com/news/world-us-canada-66070534)
 * [2023-06-30, 18:48:21](https://news.ycombinator.com/item?id=36540208) - [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
 * [2023-06-30, 18:43:25](https://news.ycombinator.com/item?id=36540133) - [YouTube Removes R.F. Kennedy Presidential Candidate Interview](https://www.cnn.com/2023/06/20/tech/youtube-robert-f-kennedy-jr-video-removed/index.html)
 * [2023-06-30, 18:14:40](https://news.ycombinator.com/item?id=36539634) - [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)

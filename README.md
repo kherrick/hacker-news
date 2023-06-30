@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-06-30, 19:29:08](https://news.ycombinator.com/item?id=36540849) - [US Supreme Court rules website designer can refuse to serve same-sex couples](https://www.bbc.com/news/world-us-canada-66070534)
 * [2023-06-30, 18:48:21](https://news.ycombinator.com/item?id=36540208) - [The One Ring card, Magic: The Gathering’s coveted collectible, has been found](https://www.polygon.com/23779892/mtg-the-one-ring-found-how-much-price-spain)
 * [2023-06-30, 18:14:40](https://news.ycombinator.com/item?id=36539634) - [DMT, Derealization, and Depersonalization](https://www.ecstaticintegration.org/p/dmt-derealization-and-depersonalization)
 * [2023-06-30, 17:50:59](https://news.ycombinator.com/item?id=36539253) - [Static electricity attracts ticks to hosts](https://www.bristol.ac.uk/news/2023/june/static-electricity-attracts-ticks-to-hosts.html)
@@ -9,7 +10,6 @@
 * [2023-06-30, 17:24:34](https://news.ycombinator.com/item?id=36538795) - [Linux's Slab Allocator Is Officially Deprecated](https://www.phoronix.com/news/SLAB-Officially-Deprecated)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-30, 17:01:04](https://news.ycombinator.com/item?id=36538423) - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
-* [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
 * [2023-06-30, 14:51:13](https://news.ycombinator.com/item?id=36535901) - [AlmaLinux – Our Value Is Our Values](https://almalinux.org/blog/our-value-is-our-values/)
 * [2023-06-30, 14:43:50](https://news.ycombinator.com/item?id=36535772) - [Show HN: Halloy – A GUI Application in Rust for IRC](https://github.com/squidowl/halloy)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
