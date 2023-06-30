@@ -18,7 +18,6 @@
 * [2023-06-29, 21:08:31](https://news.ycombinator.com/item?id=36526726) - [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 * [2023-06-29, 21:01:22](https://news.ycombinator.com/item?id=36526645) - [Leo Tolstoy on why people drink (2014)](https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/)
 * [2023-06-29, 20:44:50](https://news.ycombinator.com/item?id=36526453) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
-* [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Bill C-18: Google to remove news links in Canada over online news law](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:58:54](https://news.ycombinator.com/item?id=36524201) - [Gitlab’s AI-assisted code suggestions](https://about.gitlab.com/solutions/code-suggestions/)
 * [2023-06-29, 17:28:34](https://news.ycombinator.com/item?id=36523647) - [Beware of Unreliable Data in Model Evaluation: A LLM Prompt Selection Case Study](https://cleanlab.ai/blog/prompt-selection/)
@@ -29,6 +28,7 @@
 * [2023-06-29, 14:36:21](https://news.ycombinator.com/item?id=36520925) - [Monster gravitational waves spotted for first time](https://www.nature.com/articles/d41586-023-02167-7)
 * [2023-06-29, 13:18:31](https://news.ycombinator.com/item?id=36519963) - [Focus on NANOGrav's 15yr Data Set and the Gravitational Wave Background](https://iopscience.iop.org/collections/apjl-230623-245-Focus-on-NANOGrav-15-year)
 * [2023-06-29, 13:16:22](https://news.ycombinator.com/item?id=36519942) - [Aspartame sweetener to be declared possible cancer risk by WHO, say reports](https://www.theguardian.com/society/2023/jun/29/aspartame-artificial-sweetener-possible-cancer-risk-carcinogenic)
+* [2023-06-29, 12:40:00](https://news.ycombinator.com/item?id=36519579) - [Show HN: Scrapscript “Guide”, Proposals, and Community Chat](https://scrapscript.org/guide)
 * [2023-06-28, 18:59:25](https://news.ycombinator.com/item?id=36510951) - [Vintage Maps of Akihabara “Electric Town”, Tokyo, Japan (1976–2001)](https://blog.gingerbeardman.com/2019/05/11/back-in-time-akihabara-1983-to-2001/)
 
 ## [Archives](archives/index.md)
