@@ -15,6 +15,7 @@
 * [2023-06-30, 22:33:19](https://news.ycombinator.com/item?id=36543398) - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 * [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
+* [2023-06-30, 22:02:30](https://news.ycombinator.com/item?id=36543018) - [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
 * [2023-06-30, 21:56:42](https://news.ycombinator.com/item?id=36542937) - [Boxed types in OCaml, and other thoughts](https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/)
 * [2023-06-30, 20:30:50](https://news.ycombinator.com/item?id=36541798) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 * [2023-06-30, 20:23:59](https://news.ycombinator.com/item?id=36541699) - [Samsung Foundry Tracking 2nm In 2025](https://semiwiki.com/semiconductor-manufacturers/samsung-foundry/331141-samsung-foundry-on-track-for-2nm-in-2025/)
@@ -29,7 +30,6 @@
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
 * [2023-06-28, 12:37:56](https://news.ycombinator.com/item?id=36505502) - [How the data center site selection process works at Dropbox](https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox)
 * [2023-06-28, 11:42:13](https://news.ycombinator.com/item?id=36505044) - [The one-shot drug that keeps on dosing](https://www.wired.com/story/the-one-shot-drug-that-keeps-on-dosing/)
-* [2023-06-28, 10:27:10](https://news.ycombinator.com/item?id=36504570) - [What are your favorite methodologies for organizing digital life](https://news.ycombinator.com/item?id=36504570)
 
 ## [Archives](archives/index.md)
 
