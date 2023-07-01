@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 21:02:30](https://news.ycombinator.com/item?id=36555180) - [How to Become a Prompt Engineer](https://llm-utils.org/How+to+become+a+prompt+engineer)
 * [2023-07-01, 20:03:31](https://news.ycombinator.com/item?id=36554484) - [Serverless to Monolith – Should Serverless Lovers Be Worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
 * [2023-07-01, 19:54:16](https://news.ycombinator.com/item?id=36554362) - [Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
 * [2023-07-01, 19:26:46](https://news.ycombinator.com/item?id=36554053) - [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
@@ -29,7 +30,6 @@
 * [2023-06-30, 09:30:56](https://news.ycombinator.com/item?id=36532366) - [The Rashomon Moment: Bob Dylan at the 1965 Newport Folk Festival](https://cinemasojourns.com/2023/06/29/the-rashomon-moment-bob-dylan-at-the-1965-newport-folk-festival/)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
 * [2023-06-29, 12:26:19](https://news.ycombinator.com/item?id=36519467) - [A Compressed Indexable Bitset](https://quickwit.io/blog/compressed-indexable-bitset/)
-* [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)
 
 ## [Archives](archives/index.md)
 
