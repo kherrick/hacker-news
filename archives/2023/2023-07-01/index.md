@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 05:14:14](https://news.ycombinator.com/item?id=36546838) - [Rocky strikes back at Red Hat](https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/)
 * [2023-07-01, 04:13:53](https://news.ycombinator.com/item?id=36546505) - [The FBI Has Formed a National Database to Track and Prevent “Swatting”](https://www.nbcnews.com/news/us-news/fbi-formed-national-database-track-prevent-swatting-rcna91722)
 * [2023-07-01, 04:11:28](https://news.ycombinator.com/item?id=36546484) - [Highly radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
 * [2023-07-01, 04:02:12](https://news.ycombinator.com/item?id=36546425) - [Lemmy now has over 2M users across 915 instances](https://lemmymap.feddit.de)
+* [2023-07-01, 03:43:11](https://news.ycombinator.com/item?id=36546273) - [The most famous NYT crossword: 1996 presidential election day (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 * [2023-07-01, 02:49:41](https://news.ycombinator.com/item?id=36545894) - [In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
 * [2023-07-01, 02:13:46](https://news.ycombinator.com/item?id=36545643) - [Maine becomes first state to decriminalize selling sex](https://www.seattletimes.com/nation-world/maine-becomes-first-state-to-decriminalize-selling-sex/)
 * [2023-07-01, 02:07:18](https://news.ycombinator.com/item?id=36545595) - [Don Lancaster Has Died](https://gilaherald.com/obituary-for-don-lancaster/)
