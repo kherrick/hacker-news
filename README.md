@@ -3,6 +3,7 @@
 * [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 * [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
 * [2023-07-01, 04:11:28](https://news.ycombinator.com/item?id=36546484) - [Radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
+* [2023-07-01, 04:02:12](https://news.ycombinator.com/item?id=36546425) - [Lemmy now has over 2M users across 915 instances](https://lemmymap.feddit.de)
 * [2023-07-01, 03:43:11](https://news.ycombinator.com/item?id=36546273) - [New York Times Election Day Crossword (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 * [2023-07-01, 02:49:41](https://news.ycombinator.com/item?id=36545894) - [In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
 * [2023-07-01, 02:07:18](https://news.ycombinator.com/item?id=36545595) - [Don Lancaster has died](https://gilaherald.com/obituary-for-don-lancaster/)
@@ -27,7 +28,6 @@
 * [2023-06-29, 06:20:37](https://news.ycombinator.com/item?id=36517019) - [The Lava Layer Anti-Pattern (2014)](http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)
 * [2023-06-29, 04:57:04](https://news.ycombinator.com/item?id=36516475) - [“Those Disturbers of My Rest”: The First Treatise on Bedbugs (1730)](https://publicdomainreview.org/collection/treatise-of-buggs)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
-* [2023-06-29, 04:53:48](https://news.ycombinator.com/item?id=36516444) - [Old Weird America: The Dark Comedies of Charles Portis](https://thepointmag.com/criticism/old-weird-america/)
 * [2023-06-28, 12:37:56](https://news.ycombinator.com/item?id=36505502) - [How the data center site selection process works at Dropbox](https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox)
 * [2023-06-28, 11:42:13](https://news.ycombinator.com/item?id=36505044) - [The one-shot drug that keeps on dosing](https://www.wired.com/story/the-one-shot-drug-that-keeps-on-dosing/)
 
