@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
 * [2023-07-01, 13:59:25](https://news.ycombinator.com/item?id=36550184) - [Lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
@@ -13,7 +14,6 @@
 * [2023-07-01, 10:39:36](https://news.ycombinator.com/item?id=36548676) - [gping – ping, but with a graph](https://github.com/orf/gping)
 * [2023-07-01, 10:35:11](https://news.ycombinator.com/item?id=36548657) - [YouTube's copyright system isn't broken, the world's is (2020) [video]](https://www.youtube.com/watch?v=1Jwo5qc78QU)
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
-* [2023-07-01, 08:34:50](https://news.ycombinator.com/item?id=36548052) - [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
 * [2023-07-01, 08:06:15](https://news.ycombinator.com/item?id=36547864) - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Far Cry 1.34 source code (2006)](https://archive.org/details/far-cry-1.34-complete)
 * [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
