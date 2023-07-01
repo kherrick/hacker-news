@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 21:17:06](https://news.ycombinator.com/item?id=36555330) - [A brief example of tailoring words for listeners: engineers and managers](https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda)
 * [2023-07-01, 21:08:29](https://news.ycombinator.com/item?id=36555246) - [Jef Raskin's writings: “Holes in the Histories” (1994)](https://digibarn.com/friends/jef-raskin/writings/holes.html)
 * [2023-07-01, 21:02:30](https://news.ycombinator.com/item?id=36555180) - [How to Become a Prompt Engineer](https://llm-utils.org/How+to+become+a+prompt+engineer)
 * [2023-07-01, 20:41:24](https://news.ycombinator.com/item?id=36554958) - [Moving data from iCloud may need to be made easier, by EU law](https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/)
@@ -13,6 +14,7 @@
 * [2023-07-01, 19:20:03](https://news.ycombinator.com/item?id=36553987) - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 * [2023-07-01, 18:58:56](https://news.ycombinator.com/item?id=36553762) - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
 * [2023-07-01, 18:36:05](https://news.ycombinator.com/item?id=36553489) - [FBI obtains Kolektiva.social database while executing warrant on administrator](https://kolektiva.social/@admin/110637031574056150)
+* [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-01, 17:14:08](https://news.ycombinator.com/item?id=36552324) - [Confirmed: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
 * [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36552170)
