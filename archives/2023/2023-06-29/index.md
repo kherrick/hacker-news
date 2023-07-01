@@ -90,6 +90,7 @@
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-29, 06:38:10](https://news.ycombinator.com/item?id=36517149) - [Kagi Raises $670K](https://blog.kagi.com/safe-round)
 * [2023-06-29, 06:29:37](https://news.ycombinator.com/item?id=36517089) - [A Day in the Life of an Audio Describer (2011)](https://dcmp.org/learn/277-a-day-in-the-life-of-an-audio-describer)
+* [2023-06-29, 06:20:37](https://news.ycombinator.com/item?id=36517019) - [The Lava Layer Anti-Pattern (2014)](http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)
 * [2023-06-29, 06:15:09](https://news.ycombinator.com/item?id=36516978) - [Review: The AYANEO 2S is my new favourite handheld](https://overkill.wtf/ayaneo-2s-review/)
 * [2023-06-29, 04:57:04](https://news.ycombinator.com/item?id=36516475) - [“Those Disturbers of My Rest”: The First Treatise on Bedbugs (1730)](https://publicdomainreview.org/collection/treatise-of-buggs)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
