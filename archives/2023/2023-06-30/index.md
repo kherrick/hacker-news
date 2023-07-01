@@ -92,6 +92,7 @@
 * [2023-06-30, 04:55:38](https://news.ycombinator.com/item?id=36530662) - [Anna’s Archive: The world’s largest open-source open-data library](https://annas-archive.org/)
 * [2023-06-30, 04:51:00](https://news.ycombinator.com/item?id=36530631) - [NJ Supreme Court says cops need a wiretap to eavesdrop on your Facebook posts](https://newjerseymonitor.com/2023/06/29/n-j-supreme-court-says-cops-need-a-wiretap-to-eavesdrop-on-your-facebook-posts/)
 * [2023-06-30, 04:46:01](https://news.ycombinator.com/item?id=36530607) - [Buying an iPad Pro for coding was a mistake](https://technicallychallenged.substack.com/p/buying-an-ipad-pro-for-coding-was)
+* [2023-06-30, 04:41:42](https://news.ycombinator.com/item?id=36530569) - [Preserving Bach’s Manuscripts](https://blogs.bl.uk/collectioncare/2023/04/preserving-bachs-manuscripts.html)
 * [2023-06-30, 04:22:36](https://news.ycombinator.com/item?id=36530472) - [The Man Who Broke Bowling](https://www.gq.com/story/jason-belmonte-bowling-profile)
 * [2023-06-30, 04:05:14](https://news.ycombinator.com/item?id=36530393) - [YouTube tests restricting ad blocker users to 3 video views](https://www.bleepingcomputer.com/news/technology/youtube-tests-restricting-ad-blocker-users-to-3-video-views/)
 * [2023-06-30, 04:02:54](https://news.ycombinator.com/item?id=36530379) - [The complete guide to publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
