@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 15:45:39](https://news.ycombinator.com/item?id=36551320) - [Man designs ChatGPT bot subscription service to annoy, waste telemarketers' time](https://www.techspot.com/news/99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html)
 * [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
@@ -29,7 +30,6 @@
 * [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)
 * [2023-06-29, 04:53:48](https://news.ycombinator.com/item?id=36516444) - [Old Weird America: The Dark Comedies of Charles Portis](https://thepointmag.com/criticism/old-weird-america/)
 * [2023-06-29, 00:33:11](https://news.ycombinator.com/item?id=36514772) - [Cydra 5 supercomputer: design philosophies, decisions, tradeoffs (1989) [pdf]](https://www.ece.rutgers.edu/~yyzhang/fall10/reading/cydra-5-vliw.pdf)
-* [2023-06-28, 22:26:13](https://news.ycombinator.com/item?id=36513496) - [The giant world Halla should have been swallowed by its star long ago](https://www.nytimes.com/2023/06/28/science/planet-star-halla-beakdu.html)
 
 ## [Archives](archives/index.md)
 
