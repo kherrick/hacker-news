@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-07-01, 20:41:24",
-      "https://news.ycombinator.com/item?id=36554958"
-    ],
-    [
-      "Moving data from iCloud may need to be made easier, by EU law",
-      "https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 20:03:31",
       "https://news.ycombinator.com/item?id=36554484"
     ],
@@ -217,6 +207,16 @@
     [
       "The problem with federated web apps",
       "https://www.devever.net/~hl/webappcoupling"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 11:44:53",
+      "https://news.ycombinator.com/item?id=36549077"
+    ],
+    [
+      "June 25th, 2023 Deno Deploy Postmortem",
+      "https://deno.com/blog/2023-06-25-outage-post-mortem"
     ]
   ],
   [
