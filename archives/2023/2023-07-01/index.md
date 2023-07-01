@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 12:28:13](https://news.ycombinator.com/item?id=36549376) - [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
+* [2023-07-01, 12:19:13](https://news.ycombinator.com/item?id=36549299) - [ChatGPT is now a brilliant tool for winding up telemarketers and scammers](https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers)
 * [2023-07-01, 11:44:53](https://news.ycombinator.com/item?id=36549077) - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
 * [2023-07-01, 11:12:53](https://news.ycombinator.com/item?id=36548879) - [The Current Challenges with Using Linux on Airplanes](https://www.phoronix.com/news/Linux-On-Airplanes-Challenges)
 * [2023-07-01, 10:54:23](https://news.ycombinator.com/item?id=36548753) - [Psilocybin Decelerates Cellular Senescence](https://assets.researchsquare.com/files/rs-2921423/v1/3b645823-4eee-4717-8d80-f17baf2c56c9.pdf?c=1687887547)
 * [2023-07-01, 10:39:36](https://news.ycombinator.com/item?id=36548676) - [gping – ping, but with a graph](https://github.com/orf/gping)
 * [2023-07-01, 10:35:11](https://news.ycombinator.com/item?id=36548657) - [YouTube's copyright system isn't broken. The world's is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
+* [2023-07-01, 08:36:28](https://news.ycombinator.com/item?id=36548056) - [Why the Champions of Affirmative Action Had to Leave Asian Americans Behind](https://www.newyorker.com/news/our-columnists/why-the-champions-of-affirmative-action-had-to-leave-asian-americans-behind)
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 * [2023-07-01, 08:34:50](https://news.ycombinator.com/item?id=36548052) - [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
 * [2023-07-01, 08:06:15](https://news.ycombinator.com/item?id=36547864) - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)

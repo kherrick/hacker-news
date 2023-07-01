@@ -10,6 +10,7 @@
 * [2023-06-28, 23:02:36](https://news.ycombinator.com/item?id=36513892) - [To Save Money on Insurance, Drivers Agree to Intrusive Monitoring Technology](https://money.com/usage-based-car-insurance-gaining-customers/)
 * [2023-06-28, 23:02:33](https://news.ycombinator.com/item?id=36513889) - [“Support for System V scripts now deprecated; will be removed in future release”](https://github.com/systemd/systemd/blob/08423f6d30f5db045b8a25307857f111f45ff292/NEWS)
 * [2023-06-28, 23:01:26](https://news.ycombinator.com/item?id=36513881) - [National Geographic lays off its last remaining staff writers](https://www.washingtonpost.com/media/2023/06/28/national-geographic-staff-writers-laid-off/)
+* [2023-06-28, 22:28:50](https://news.ycombinator.com/item?id=36513520) - [Buried History](https://hakaimagazine.com/features/buried-history/)
 * [2023-06-28, 22:26:13](https://news.ycombinator.com/item?id=36513496) - [The giant world Halla should have been swallowed by its star long ago](https://www.nytimes.com/2023/06/28/science/planet-star-halla-beakdu.html)
 * [2023-06-28, 22:14:49](https://news.ycombinator.com/item?id=36513396) - [Larry Ellison: Oracle Database 1,000x Faster Than AWS Aurora](https://accelerationeconomy.com/cloud-wars/larry-ellison-oracle-database-1000x-faster-than-aws-aurora/)
 * [2023-06-28, 22:14:24](https://news.ycombinator.com/item?id=36513391) - [US public debt projected to reach 181% of economic activity in 30 years](https://apnews.com/article/debt-deficit-congress-spending-budget-biden-d3ec1e9bdbdd2089f31f09a1a8ca80ca)
