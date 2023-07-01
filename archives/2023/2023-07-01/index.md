@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 * [2023-07-01, 05:34:02](https://news.ycombinator.com/item?id=36546954) - [The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
 * [2023-07-01, 05:14:14](https://news.ycombinator.com/item?id=36546838) - [Rocky strikes back at Red Hat](https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/)
 * [2023-07-01, 04:13:53](https://news.ycombinator.com/item?id=36546505) - [The FBI Has Formed a National Database to Track and Prevent “Swatting”](https://www.nbcnews.com/news/us-news/fbi-formed-national-database-track-prevent-swatting-rcna91722)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 * [2023-07-01, 05:34:02](https://news.ycombinator.com/item?id=36546954) - [The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
 * [2023-07-01, 05:14:14](https://news.ycombinator.com/item?id=36546838) - [Rocky strikes back at Red Hat](https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/)
 * [2023-07-01, 04:13:53](https://news.ycombinator.com/item?id=36546505) - [The FBI Has Formed a National Database to Track and Prevent “Swatting”](https://www.nbcnews.com/news/us-news/fbi-formed-national-database-track-prevent-swatting-rcna91722)
@@ -15,7 +16,6 @@
 * [2023-07-01, 00:31:16](https://news.ycombinator.com/item?id=36544698) - [Should you use Jest as a testing library? (2022)](https://backend.cafe/should-you-use-jest-as-a-testing-library)
 * [2023-07-01, 00:24:08](https://news.ycombinator.com/item?id=36544627) - [The Condiment Packet Gallery](https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312)
 * [2023-07-01, 00:18:37](https://news.ycombinator.com/item?id=36544573) - [Steel Bank Common Lisp](https://www.sbcl.org)
-* [2023-06-30, 22:33:19](https://news.ycombinator.com/item?id=36543398) - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 * [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 * [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
