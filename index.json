@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-07-01, 05:34:02",
-      "https://news.ycombinator.com/item?id=36546954"
-    ],
-    [
-      "The Rise and Fall of CORBA (2006)",
-      "https://queue.acm.org/detail.cfm?id=1142044"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 05:27:16",
       "https://news.ycombinator.com/item?id=36546917"
     ],
     [
-      "Leveling Up in Job Interviews for Software Engineers (2022)",
+      "Leveling up in job interviews for software engineers (2022)",
       "https://phauer.com/2022/leveling-up-job-interviews/"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36546273"
     ],
     [
-      "The most famous NYT crossword: 1996 presidential election day (2009)",
+      "New York Times Election Day Crossword (2009)",
       "https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html"
     ]
   ],
@@ -107,16 +97,6 @@
     [
       "Kaboom.js 3000",
       "https://kaboomjs.com/blog/3000"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 00:31:16",
-      "https://news.ycombinator.com/item?id=36544698"
-    ],
-    [
-      "Should you use Jest as a testing library? (2022)",
-      "https://backend.cafe/should-you-use-jest-as-a-testing-library"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2023-06-29, 06:52:53",
+      "https://news.ycombinator.com/item?id=36517238"
+    ],
+    [
+      "YouTube is testing a more aggressive approach against ad blockers",
+      "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 06:29:37",
       "https://news.ycombinator.com/item?id=36517089"
     ],
@@ -297,6 +287,16 @@
     [
       "How the data center site selection process works at Dropbox",
       "https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 11:42:13",
+      "https://news.ycombinator.com/item?id=36505044"
+    ],
+    [
+      "The one-shot drug that keeps on dosing",
+      "https://www.wired.com/story/the-one-shot-drug-that-keeps-on-dosing/"
     ]
   ]
 ]
