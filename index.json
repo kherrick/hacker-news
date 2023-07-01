@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-01, 16:47:15",
+      "https://news.ycombinator.com/item?id=36552015"
+    ],
+    [
+      "The first Oxide rack being prepared for customer shipment",
+      "https://hachyderm.io/@oxidecomputer/110635621269494973"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 16:09:25",
       "https://news.ycombinator.com/item?id=36551617"
     ],
@@ -17,6 +27,16 @@
     [
       "Man designs ChatGPT bot subscription service to annoy, waste telemarketers' time",
       "https://www.techspot.com/news/99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 15:39:30",
+      "https://news.ycombinator.com/item?id=36551255"
+    ],
+    [
+      "Espressif advances with Rust – 30-06-2023",
+      "https://mabez.dev/blog/posts/esp-rust-30-06-2023/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-07-01, 05:34:02",
-      "https://news.ycombinator.com/item?id=36546954"
-    ],
-    [
-      "The Rise and Fall of CORBA (2006)",
-      "https://queue.acm.org/detail.cfm?id=1142044"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 05:27:16",
       "https://news.ycombinator.com/item?id=36546917"
     ],
@@ -231,12 +241,12 @@
   ],
   [
     [
-      "2023-07-01, 00:24:08",
-      "https://news.ycombinator.com/item?id=36544627"
+      "2023-06-30, 13:07:10",
+      "https://news.ycombinator.com/item?id=36534157"
     ],
     [
-      "The Condiment Packet Gallery",
-      "https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312"
+      "Clamor of gravitational waves from merging black holes 'heard' for first time",
+      "https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Old Weird America: The Dark Comedies of Charles Portis",
       "https://thepointmag.com/criticism/old-weird-america/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 00:33:11",
-      "https://news.ycombinator.com/item?id=36514772"
-    ],
-    [
-      "Cydra 5 supercomputer: design philosophies, decisions, tradeoffs (1989) [pdf]",
-      "https://www.ece.rutgers.edu/~yyzhang/fall10/reading/cydra-5-vliw.pdf"
     ]
   ]
 ]
