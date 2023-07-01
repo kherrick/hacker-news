@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-01, 21:02:30",
-      "https://news.ycombinator.com/item?id=36555180"
-    ],
-    [
-      "How to Become a Prompt Engineer",
-      "https://llm-utils.org/How+to+become+a+prompt+engineer"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 20:03:31",
       "https://news.ycombinator.com/item?id=36554484"
     ],
@@ -297,6 +287,16 @@
     [
       "A Compressed Indexable Bitset",
       "https://quickwit.io/blog/compressed-indexable-bitset/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 06:58:44",
+      "https://news.ycombinator.com/item?id=36517280"
+    ],
+    [
+      "Yahoo 1995: First-Round Financing [pdf]",
+      "https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf"
     ]
   ]
 ]
