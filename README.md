@@ -20,7 +20,7 @@
 * [2023-06-30, 22:33:19](https://news.ycombinator.com/item?id=36543398) - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 * [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [CSS-Only Chat](https://github.com/kkuchta/css-only-chat)
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
-* [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphin mothers modify signature whistles in the presence of their own calves](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
+* [2023-06-30, 21:04:15](https://news.ycombinator.com/item?id=36542252) - [The FBI has formed a national database to track swatting incidents](https://arstechnica.com/tech-policy/2023/06/fbi-finally-tracks-swatting-incidents-as-attacks-increase-nationwide/)
 * [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
 * [2023-06-29, 09:05:10](https://news.ycombinator.com/item?id=36518085) - [A modern and open-source cross-platform software for chips reverse engineering](https://github.com/DegateCommunity/Degate)
 * [2023-06-29, 08:26:36](https://news.ycombinator.com/item?id=36517835) - [Is it possible to write games like Pac-Man in a functional language?](https://prog21.dadgum.com/23.html)
