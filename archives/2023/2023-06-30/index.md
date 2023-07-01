@@ -12,6 +12,7 @@
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 * [2023-06-30, 22:02:30](https://news.ycombinator.com/item?id=36543018) - [The Liberty Phone](https://puri.sm/posts/introducing-the-liberty-phone/)
 * [2023-06-30, 21:56:42](https://news.ycombinator.com/item?id=36542937) - [Boxed types in OCaml, and other thoughts](https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/)
+* [2023-06-30, 21:41:29](https://news.ycombinator.com/item?id=36542742) - [Review of Going the Distance: The Rise of the Business Corporation, 1400-1700](https://notevenpast.org/review-of-going-the-distance-eurasian-trade-and-the-rise-of-the-business-corporation-1400-1700-2020-by-ron-harris/)
 * [2023-06-30, 21:36:59](https://news.ycombinator.com/item?id=36542673) - [Time lapse of this week's large sunspot](https://www.astrobin.com/full/qti3dk/0/)
 * [2023-06-30, 21:36:29](https://news.ycombinator.com/item?id=36542664) - [FFE Games](https://farfuture.net/)
 * [2023-06-30, 21:33:52](https://news.ycombinator.com/item?id=36542634) - [Brazil's Jair Bolsonaro is barred from office until 2030](https://www.washingtonpost.com/politics/2023/06/30/brazil-bolsonaro-ineligible-court-ruling-vote/465d30ea-175d-11ee-9de3-ba1fa29e9bec_story.html)

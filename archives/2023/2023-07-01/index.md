@@ -10,6 +10,7 @@
 * [2023-07-01, 20:41:24](https://news.ycombinator.com/item?id=36554958) - [Moving data from iCloud may need to be made easier, by EU law](https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/)
 * [2023-07-01, 20:03:31](https://news.ycombinator.com/item?id=36554484) - [Serverless to Monolith – Should Serverless Lovers Be Worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
 * [2023-07-01, 19:54:16](https://news.ycombinator.com/item?id=36554362) - [Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
+* [2023-07-01, 19:36:09](https://news.ycombinator.com/item?id=36554172) - [Jak 2 Playable with OpenGOAL](https://opengoal.dev/blog/progress-report-june-2023/)
 * [2023-07-01, 19:26:46](https://news.ycombinator.com/item?id=36554053) - [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
 * [2023-07-01, 19:20:03](https://news.ycombinator.com/item?id=36553987) - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 * [2023-07-01, 18:58:56](https://news.ycombinator.com/item?id=36553762) - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
