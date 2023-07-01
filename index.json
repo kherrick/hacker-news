@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2023-07-01, 14:38:04",
+      "https://news.ycombinator.com/item?id=36550582"
+    ],
+    [
+      "A child’s privacy is worth more than likes (2022)",
+      "https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 13:59:25",
       "https://news.ycombinator.com/item?id=36550184"
     ],
     [
-      "Few lesser known tricks, quirks and features of C",
+      "Lesser known tricks, quirks and features of C",
       "https://jorengarenar.github.io/blog/less-known-c"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "A record-high share of 40-year-olds in the U.S. have never been married",
       "https://www.pewresearch.org/short-reads/2023/06/28/a-record-high-share-of-40-year-olds-in-the-us-have-never-been-married/"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 13:21:06",
+      "https://news.ycombinator.com/item?id=36549808"
+    ],
+    [
+      "Sqlpkg – SQLite Package Registry",
+      "https://sqlpkg.org/"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36549466"
     ],
     [
-      "To Make More Stingers, US Needs to Revive Production Technology from Scratch",
+      "To make more Stingers, US needs to revive production technology from scratch",
       "https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/"
     ]
   ],
@@ -61,22 +81,32 @@
   ],
   [
     [
+      "2023-07-01, 12:22:43",
+      "https://news.ycombinator.com/item?id=36549324"
+    ],
+    [
+      "Show HN: Timechief – My Smartclock Project",
+      "https://jmorrice.dev/post/timechief-july-2023-device-update/"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 12:06:29",
+      "https://news.ycombinator.com/item?id=36549218"
+    ],
+    [
+      "The problem with federated web apps",
+      "https://www.devever.net/~hl/webappcoupling"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 11:44:53",
       "https://news.ycombinator.com/item?id=36549077"
     ],
     [
       "June 25th, 2023 Deno Deploy Postmortem",
       "https://deno.com/blog/2023-06-25-outage-post-mortem"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 11:12:53",
-      "https://news.ycombinator.com/item?id=36548879"
-    ],
-    [
-      "The Current Challenges with Using Linux on Airplanes",
-      "https://www.phoronix.com/news/Linux-On-Airplanes-Challenges"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "TabDB: Using browser tabs as a database like only a maniac would",
       "https://github.com/kkuchta/tabdb"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 08:34:50",
-      "https://news.ycombinator.com/item?id=36548052"
-    ],
-    [
-      "Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub",
-      "https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-06-29, 09:05:10",
-      "https://news.ycombinator.com/item?id=36518085"
-    ],
-    [
-      "A modern and open-source cross-platform software for chips reverse engineering",
-      "https://github.com/DegateCommunity/Degate"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 08:26:36",
       "https://news.ycombinator.com/item?id=36517835"
     ],
@@ -257,16 +267,6 @@
     [
       "Yahoo 1995: First-Round Financing [pdf]",
       "https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 06:20:37",
-      "https://news.ycombinator.com/item?id=36517019"
-    ],
-    [
-      "The Lava Layer Anti-Pattern (2014)",
-      "http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html"
     ]
   ],
   [
