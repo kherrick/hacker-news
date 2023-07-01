@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 13:00:17](https://news.ycombinator.com/item?id=36549637) - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
+* [2023-07-01, 12:38:00](https://news.ycombinator.com/item?id=36549466) - [To Make More Stingers, US Needs to Revive Production Technology from Scratch](https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/)
 * [2023-07-01, 12:28:13](https://news.ycombinator.com/item?id=36549376) - [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
 * [2023-07-01, 12:19:13](https://news.ycombinator.com/item?id=36549299) - [ChatGPT is now a brilliant tool for winding up telemarketers and scammers](https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers)
 * [2023-07-01, 11:44:53](https://news.ycombinator.com/item?id=36549077) - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
@@ -13,7 +15,6 @@
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Someone dropped the source code for Far Cry 1 on archive.org](https://archive.org/details/far-cry-1.34-complete)
 * [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 * [2023-07-01, 05:34:02](https://news.ycombinator.com/item?id=36546954) - [The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
-* [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
 * [2023-07-01, 04:11:28](https://news.ycombinator.com/item?id=36546484) - [Radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
 * [2023-07-01, 03:43:11](https://news.ycombinator.com/item?id=36546273) - [New York Times Election Day Crossword (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 * [2023-07-01, 02:49:41](https://news.ycombinator.com/item?id=36545894) - [In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
@@ -25,7 +26,6 @@
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
 * [2023-06-30, 04:41:42](https://news.ycombinator.com/item?id=36530569) - [Preserving Bach’s Manuscripts](https://blogs.bl.uk/collectioncare/2023/04/preserving-bachs-manuscripts.html)
 * [2023-06-29, 09:05:10](https://news.ycombinator.com/item?id=36518085) - [A modern and open-source cross-platform software for chips reverse engineering](https://github.com/DegateCommunity/Degate)
-* [2023-06-29, 08:26:36](https://news.ycombinator.com/item?id=36517835) - [Is it possible to write games like Pac-Man in a functional language? (2008)](https://prog21.dadgum.com/23.html)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
 * [2023-06-28, 22:28:50](https://news.ycombinator.com/item?id=36513520) - [Buried History](https://hakaimagazine.com/features/buried-history/)
