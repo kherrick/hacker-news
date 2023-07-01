@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 05:34:02](https://news.ycombinator.com/item?id=36546954) - [The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
 * [2023-07-01, 05:14:14](https://news.ycombinator.com/item?id=36546838) - [Rocky strikes back at Red Hat](https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/)
 * [2023-07-01, 04:13:53](https://news.ycombinator.com/item?id=36546505) - [The FBI Has Formed a National Database to Track and Prevent “Swatting”](https://www.nbcnews.com/news/us-news/fbi-formed-national-database-track-prevent-swatting-rcna91722)
 * [2023-07-01, 04:11:28](https://news.ycombinator.com/item?id=36546484) - [Highly radioactive spill near Richland WA worse than expected](https://www.tri-cityherald.com/news/local/hanford/article276863128.html)
@@ -17,7 +18,6 @@
 * [2023-06-30, 22:33:19](https://news.ycombinator.com/item?id=36543398) - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 * [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
 * [2023-06-30, 22:22:56](https://news.ycombinator.com/item?id=36543284) - [Necessary Illusions: Thought Control in Democratic Societies [pdf]](https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf)
-* [2023-06-30, 20:30:50](https://news.ycombinator.com/item?id=36541798) - [Briar Mailbox released to improve connectivity](https://briarproject.org/news/2023-briar-mailbox-released/)
 * [2023-06-30, 20:23:59](https://news.ycombinator.com/item?id=36541699) - [Samsung Foundry Tracking 2nm In 2025](https://semiwiki.com/semiconductor-manufacturers/samsung-foundry/331141-samsung-foundry-on-track-for-2nm-in-2025/)
 * [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
 * [2023-06-30, 17:49:52](https://news.ycombinator.com/item?id=36539235) - [Case study: Algorithmic trading with Go](https://polygon.io/blog/case-study-algorithmict-trading-with-go/)
