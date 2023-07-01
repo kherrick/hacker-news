@@ -6,6 +6,7 @@
 
 * [2023-07-01, 13:27:30](https://news.ycombinator.com/item?id=36549877) - [Tell HN: Happy Canada Day!](https://news.ycombinator.com/item?id=36549877)
 * [2023-07-01, 13:00:17](https://news.ycombinator.com/item?id=36549637) - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
+* [2023-07-01, 12:46:05](https://news.ycombinator.com/item?id=36549527) - [It’s not corruption. It’s a patch for gross underpayment](https://twitter.com/david_kasten/status/1674974488864104453)
 * [2023-07-01, 12:38:00](https://news.ycombinator.com/item?id=36549466) - [To Make More Stingers, US Needs to Revive Production Technology from Scratch](https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/)
 * [2023-07-01, 12:28:13](https://news.ycombinator.com/item?id=36549376) - [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
 * [2023-07-01, 12:19:13](https://news.ycombinator.com/item?id=36549299) - [ChatGPT is now a brilliant tool for winding up telemarketers and scammers](https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers)

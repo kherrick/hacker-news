@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-01, 13:00:17](https://news.ycombinator.com/item?id=36549637) - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
+* [2023-07-01, 12:46:05](https://news.ycombinator.com/item?id=36549527) - [It’s not corruption. It’s a patch for gross underpayment](https://twitter.com/david_kasten/status/1674974488864104453)
 * [2023-07-01, 12:38:00](https://news.ycombinator.com/item?id=36549466) - [To Make More Stingers, US Needs to Revive Production Technology from Scratch](https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/)
 * [2023-07-01, 12:28:13](https://news.ycombinator.com/item?id=36549376) - [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
 * [2023-07-01, 12:19:13](https://news.ycombinator.com/item?id=36549299) - [ChatGPT is now a brilliant tool for winding up telemarketers and scammers](https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers)
@@ -25,7 +26,6 @@
 * [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
 * [2023-06-30, 04:41:42](https://news.ycombinator.com/item?id=36530569) - [Preserving Bach’s Manuscripts](https://blogs.bl.uk/collectioncare/2023/04/preserving-bachs-manuscripts.html)
 * [2023-06-29, 09:05:10](https://news.ycombinator.com/item?id=36518085) - [A modern and open-source cross-platform software for chips reverse engineering](https://github.com/DegateCommunity/Degate)
-* [2023-06-29, 08:26:36](https://news.ycombinator.com/item?id=36517835) - [Is it possible to write games like Pac-Man in a functional language? (2008)](https://prog21.dadgum.com/23.html)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-29, 00:33:11](https://news.ycombinator.com/item?id=36514772) - [Cydra 5 supercomputer: design philosophies, decisions, tradeoffs (1989) [pdf]](https://www.ece.rutgers.edu/~yyzhang/fall10/reading/cydra-5-vliw.pdf)
 * [2023-06-28, 22:28:50](https://news.ycombinator.com/item?id=36513520) - [Buried History](https://hakaimagazine.com/features/buried-history/)
