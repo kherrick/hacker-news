@@ -21,7 +21,7 @@
 * [2023-07-01, 13:59:25](https://news.ycombinator.com/item?id=36550184) - [Lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
 * [2023-07-01, 13:21:06](https://news.ycombinator.com/item?id=36549808) - [Sqlpkg – SQLite Package Registry](https://sqlpkg.org/)
 * [2023-07-01, 13:00:17](https://news.ycombinator.com/item?id=36549637) - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
-* [2023-07-01, 12:28:13](https://news.ycombinator.com/item?id=36549376) - [Get a personal teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
+* [2023-07-01, 12:06:48](https://news.ycombinator.com/item?id=36549221) - [Ball und Panzer Golf: making a Playdate game in a week](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
 * [2023-07-01, 12:06:29](https://news.ycombinator.com/item?id=36549218) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:39:36](https://news.ycombinator.com/item?id=36548676) - [Gping – ping, but with a graph](https://github.com/orf/gping)
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
