@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 19:20:03](https://news.ycombinator.com/item?id=36553987) - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 * [2023-07-01, 18:58:56](https://news.ycombinator.com/item?id=36553762) - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
 * [2023-07-01, 18:36:05](https://news.ycombinator.com/item?id=36553489) - [FBI obtains Kolektiva.social database while executing warrant on administrator](https://kolektiva.social/@admin/110637031574056150)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
@@ -25,7 +26,6 @@
 * [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
 * [2023-06-30, 13:07:10](https://news.ycombinator.com/item?id=36534157) - [Clamor of gravitational waves from merging black holes 'heard' for first time](https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html)
 * [2023-06-30, 12:51:08](https://news.ycombinator.com/item?id=36533947) - [Systems Programming with Racket](https://docs.racket-lang.org/more/index.html)
-* [2023-06-30, 04:41:42](https://news.ycombinator.com/item?id=36530569) - [Preserving Bach’s Manuscripts](https://blogs.bl.uk/collectioncare/2023/04/preserving-bachs-manuscripts.html)
 * [2023-06-29, 19:58:28](https://news.ycombinator.com/item?id=36525876) - [From fossils to mind](https://www.nature.com/articles/s42003-023-04803-4)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
 * [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)

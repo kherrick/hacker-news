@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 19:20:03](https://news.ycombinator.com/item?id=36553987) - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 * [2023-07-01, 18:58:56](https://news.ycombinator.com/item?id=36553762) - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
 * [2023-07-01, 18:36:05](https://news.ycombinator.com/item?id=36553489) - [FBI obtains Kolektiva.social database while executing warrant on administrator](https://kolektiva.social/@admin/110637031574056150)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
