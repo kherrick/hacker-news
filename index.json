@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2023-07-01, 01:44:40",
+      "https://news.ycombinator.com/item?id=36545415"
+    ],
+    [
+      "You Might Not Own the Data of Your Air Quality Monitor",
+      "https://www.airgradient.com/blog/when-you-own-a-monitor-but-not-its-data/"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 01:44:16",
+      "https://news.ycombinator.com/item?id=36545410"
+    ],
+    [
+      "Supreme Court Opinion on Compelled Speech and Protected Class [pdf]",
+      "https://www.supremecourt.gov/opinions/22pdf/21-476_c185.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 01:40:51",
       "https://news.ycombinator.com/item?id=36545383"
     ],
@@ -37,6 +57,16 @@
     [
       "Kaboom.js 3000",
       "https://kaboomjs.com/blog/3000"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 01:37:44",
+      "https://news.ycombinator.com/item?id=36545350"
+    ],
+    [
+      "Programming on an iPad",
+      "https://juliette.page/blog/ipad.html"
     ]
   ],
   [
@@ -141,26 +171,6 @@
   ],
   [
     [
-      "2023-06-30, 21:22:31",
-      "https://news.ycombinator.com/item?id=36542487"
-    ],
-    [
-      "To unlock drink verification can",
-      "https://gamefaqs.gamespot.com/boards/632877-halo-4/66477630"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 21:08:14",
-      "https://news.ycombinator.com/item?id=36542298"
-    ],
-    [
-      "SEC notifies SolarWinds CISO and CFO of possible action in cyber investigation",
-      "https://www.cybersecuritydive.com/news/sec-solarwinds-ciso-cfo-orion/653864/"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 20:30:50",
       "https://news.ycombinator.com/item?id=36541798"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-06-29, 09:54:59",
-      "https://news.ycombinator.com/item?id=36518400"
-    ],
-    [
-      "The Abstraction and Reasoning Challenge (Arc)",
-      "https://pgpbpadilla.github.io/chollet-arc-challenge"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 09:05:10",
       "https://news.ycombinator.com/item?id=36518085"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-06-28, 11:42:13",
+      "https://news.ycombinator.com/item?id=36505044"
+    ],
+    [
+      "The one-shot drug that keeps on dosing",
+      "https://www.wired.com/story/the-one-shot-drug-that-keeps-on-dosing/"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 10:27:10",
       "https://news.ycombinator.com/item?id=36504570"
     ],
     [
       "What are your favorite methodologies for organizing digital life",
       "https://news.ycombinator.com/item?id=36504570"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 08:44:02",
-      "https://news.ycombinator.com/item?id=36503924"
-    ],
-    [
-      "Adding weak references to CHICKEN",
-      "https://www.more-magic.net/posts/weak-references.html"
     ]
   ]
 ]
