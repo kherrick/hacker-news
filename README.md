@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-01, 21:17:06](https://news.ycombinator.com/item?id=36555330) - [A brief example of tailoring words for listeners: engineers and managers](https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda)
+* [2023-07-01, 23:02:28](https://news.ycombinator.com/item?id=36556228) - [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
+* [2023-07-01, 21:35:32](https://news.ycombinator.com/item?id=36555507) - [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
 * [2023-07-01, 21:08:29](https://news.ycombinator.com/item?id=36555246) - [Jef Raskin's writings: “Holes in the Histories” (1994)](https://digibarn.com/friends/jef-raskin/writings/holes.html)
 * [2023-07-01, 20:03:31](https://news.ycombinator.com/item?id=36554484) - [Serverless to monolith – Should serverless lovers be worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
 * [2023-07-01, 19:36:09](https://news.ycombinator.com/item?id=36554172) - [Jak 2 Playable with OpenGOAL](https://opengoal.dev/blog/progress-report-june-2023/)
@@ -27,7 +28,6 @@
 * [2023-06-30, 21:41:29](https://news.ycombinator.com/item?id=36542742) - [Review of Going the Distance: The Rise of the Business Corporation, 1400-1700](https://notevenpast.org/review-of-going-the-distance-eurasian-trade-and-the-rise-of-the-business-corporation-1400-1700-2020-by-ron-harris/)
 * [2023-06-30, 13:07:10](https://news.ycombinator.com/item?id=36534157) - [Clamor of gravitational waves from merging black holes 'heard' for first time](https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html)
 * [2023-06-30, 12:51:08](https://news.ycombinator.com/item?id=36533947) - [Systems Programming with Racket](https://docs.racket-lang.org/more/index.html)
-* [2023-06-30, 09:30:56](https://news.ycombinator.com/item?id=36532366) - [The Rashomon Moment: Bob Dylan at the 1965 Newport Folk Festival](https://cinemasojourns.com/2023/06/29/the-rashomon-moment-bob-dylan-at-the-1965-newport-folk-festival/)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
 * [2023-06-29, 12:26:19](https://news.ycombinator.com/item?id=36519467) - [A Compressed Indexable Bitset](https://quickwit.io/blog/compressed-indexable-bitset/)
 
