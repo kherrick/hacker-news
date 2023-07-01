@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-06-30](index.md)
 
+* [2023-06-30, 23:29:47](https://news.ycombinator.com/item?id=36544045) - [Be worried about what’s going on at Turner Classic Movies](https://www.npr.org/2023/06/28/1184544944/tcm-turner-classic-movies-david-zaslav)
+* [2023-06-30, 23:15:25](https://news.ycombinator.com/item?id=36543894) - [Apollo is dead. Long live Apollo](https://news.ycombinator.com/item?id=36543894)
 * [2023-06-30, 22:46:52](https://news.ycombinator.com/item?id=36543557) - [Maximum size of a PDF, version 7: 381 km × 381 km](https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg)
 * [2023-06-30, 22:33:19](https://news.ycombinator.com/item?id=36543398) - [Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker](https://tabserve.dev)
 * [2023-06-30, 22:30:08](https://news.ycombinator.com/item?id=36543372) - [GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript](https://github.com/kkuchta/css-only-chat)
