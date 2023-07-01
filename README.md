@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 19:54:16](https://news.ycombinator.com/item?id=36554362) - [Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
 * [2023-07-01, 19:26:46](https://news.ycombinator.com/item?id=36554053) - [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
 * [2023-07-01, 19:20:03](https://news.ycombinator.com/item?id=36553987) - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 * [2023-07-01, 18:58:56](https://news.ycombinator.com/item?id=36553762) - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
@@ -23,7 +24,6 @@
 * [2023-07-01, 10:39:36](https://news.ycombinator.com/item?id=36548676) - [Gping – ping, but with a graph](https://github.com/orf/gping)
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Far Cry 1.34 source code (2006)](https://archive.org/details/far-cry-1.34-complete)
-* [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
 * [2023-06-30, 13:07:10](https://news.ycombinator.com/item?id=36534157) - [Clamor of gravitational waves from merging black holes 'heard' for first time](https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html)
 * [2023-06-30, 12:51:08](https://news.ycombinator.com/item?id=36533947) - [Systems Programming with Racket](https://docs.racket-lang.org/more/index.html)
 * [2023-06-30, 09:30:56](https://news.ycombinator.com/item?id=36532366) - [The Rashomon Moment: Bob Dylan at the 1965 Newport Folk Festival](https://cinemasojourns.com/2023/06/29/the-rashomon-moment-bob-dylan-at-the-1965-newport-folk-festival/)
