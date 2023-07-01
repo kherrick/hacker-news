@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-06-29, 11:02:01",
+      "https://news.ycombinator.com/item?id=36518840"
+    ],
+    [
+      "JavaScript macros in Bun",
+      "https://bun.sh/blog/bun-macros"
+    ]
+  ],
+  [
+    [
       "2023-06-29, 09:05:10",
       "https://news.ycombinator.com/item?id=36518085"
     ],
@@ -287,16 +297,6 @@
     [
       "How the data center site selection process works at Dropbox",
       "https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 11:42:13",
-      "https://news.ycombinator.com/item?id=36505044"
-    ],
-    [
-      "The one-shot drug that keeps on dosing",
-      "https://www.wired.com/story/the-one-shot-drug-that-keeps-on-dosing/"
     ]
   ]
 ]
