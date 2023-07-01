@@ -28,8 +28,8 @@
 * [2023-06-29, 06:20:37](https://news.ycombinator.com/item?id=36517019) - [The Lava Layer Anti-Pattern (2014)](http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)
 * [2023-06-29, 04:57:04](https://news.ycombinator.com/item?id=36516475) - [“Those Disturbers of My Rest”: The First Treatise on Bedbugs (1730)](https://publicdomainreview.org/collection/treatise-of-buggs)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
+* [2023-06-28, 22:26:13](https://news.ycombinator.com/item?id=36513496) - [The giant world Halla should have been swallowed by its star long ago](https://www.nytimes.com/2023/06/28/science/planet-star-halla-beakdu.html)
 * [2023-06-28, 12:37:56](https://news.ycombinator.com/item?id=36505502) - [How the data center site selection process works at Dropbox](https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox)
-* [2023-06-28, 11:42:13](https://news.ycombinator.com/item?id=36505044) - [The one-shot drug that keeps on dosing](https://www.wired.com/story/the-one-shot-drug-that-keeps-on-dosing/)
 
 ## [Archives](archives/index.md)
 
