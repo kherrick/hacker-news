@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 10:35:11](https://news.ycombinator.com/item?id=36548657) - [YouTube's copyright system isn't broken. The world's is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 * [2023-07-01, 08:34:50](https://news.ycombinator.com/item?id=36548052) - [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
 * [2023-07-01, 08:06:15](https://news.ycombinator.com/item?id=36547864) - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
@@ -26,7 +27,6 @@
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-29, 06:29:37](https://news.ycombinator.com/item?id=36517089) - [A Day in the Life of an Audio Describer (2011)](https://dcmp.org/learn/277-a-day-in-the-life-of-an-audio-describer)
 * [2023-06-29, 06:20:37](https://news.ycombinator.com/item?id=36517019) - [The Lava Layer Anti-Pattern (2014)](http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)
-* [2023-06-29, 04:57:04](https://news.ycombinator.com/item?id=36516475) - [“Those Disturbers of My Rest”: The First Treatise on Bedbugs (1730)](https://publicdomainreview.org/collection/treatise-of-buggs)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
 * [2023-06-28, 22:26:13](https://news.ycombinator.com/item?id=36513496) - [The giant world Halla should have been swallowed by its star long ago](https://www.nytimes.com/2023/06/28/science/planet-star-halla-beakdu.html)
 * [2023-06-28, 12:37:56](https://news.ycombinator.com/item?id=36505502) - [How the data center site selection process works at Dropbox](https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox)
