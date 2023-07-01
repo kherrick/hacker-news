@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 21:08:29](https://news.ycombinator.com/item?id=36555246) - [Jef Raskin's writings: “Holes in the Histories” (1994)](https://digibarn.com/friends/jef-raskin/writings/holes.html)
 * [2023-07-01, 21:02:30](https://news.ycombinator.com/item?id=36555180) - [How to Become a Prompt Engineer](https://llm-utils.org/How+to+become+a+prompt+engineer)
 * [2023-07-01, 20:41:24](https://news.ycombinator.com/item?id=36554958) - [Moving data from iCloud may need to be made easier, by EU law](https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/)
 * [2023-07-01, 20:03:31](https://news.ycombinator.com/item?id=36554484) - [Serverless to Monolith – Should Serverless Lovers Be Worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
@@ -25,6 +26,7 @@
 * [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
+* [2023-07-01, 14:29:11](https://news.ycombinator.com/item?id=36550493) - [The Mystery of Crime-Scene Dust](https://daily.jstor.org/the-mystery-of-crime-scene-dust/)
 * [2023-07-01, 13:59:25](https://news.ycombinator.com/item?id=36550184) - [Few lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
 * [2023-07-01, 13:59:00](https://news.ycombinator.com/item?id=36550180) - [Share of 40-year-olds in US who have never married reaches new high](https://www.pewresearch.org/short-reads/2023/06/28/a-record-high-share-of-40-year-olds-in-the-us-have-never-been-married/)
 * [2023-07-01, 13:58:37](https://news.ycombinator.com/item?id=36550174) - [What's up in the Python community? – June 2023](https://www.bitecode.dev/p/whats-up-in-the-python-community-98e)
