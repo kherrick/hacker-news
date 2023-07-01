@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-01, 13:00:17",
+      "https://news.ycombinator.com/item?id=36549637"
+    ],
+    [
+      "VUDA: A Vulkan Implementation of CUDA",
+      "https://github.com/jgbit/vuda"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 12:38:00",
+      "https://news.ycombinator.com/item?id=36549466"
+    ],
+    [
+      "To Make More Stingers, US Needs to Revive Production Technology from Scratch",
+      "https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 12:28:13",
       "https://news.ycombinator.com/item?id=36549376"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2023-07-01, 05:27:16",
-      "https://news.ycombinator.com/item?id=36546917"
-    ],
-    [
-      "Leveling up in job interviews for software engineers (2022)",
-      "https://phauer.com/2022/leveling-up-job-interviews/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 04:11:28",
       "https://news.ycombinator.com/item?id=36546484"
     ],
@@ -247,16 +257,6 @@
     [
       "A modern and open-source cross-platform software for chips reverse engineering",
       "https://github.com/DegateCommunity/Degate"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 08:26:36",
-      "https://news.ycombinator.com/item?id=36517835"
-    ],
-    [
-      "Is it possible to write games like Pac-Man in a functional language? (2008)",
-      "https://prog21.dadgum.com/23.html"
     ]
   ],
   [
