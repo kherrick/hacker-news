@@ -2,7 +2,6 @@
 
 * [2023-07-01, 21:17:06](https://news.ycombinator.com/item?id=36555330) - [A brief example of tailoring words for listeners: engineers and managers](https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda)
 * [2023-07-01, 21:08:29](https://news.ycombinator.com/item?id=36555246) - [Jef Raskin's writings: “Holes in the Histories” (1994)](https://digibarn.com/friends/jef-raskin/writings/holes.html)
-* [2023-07-01, 20:41:24](https://news.ycombinator.com/item?id=36554958) - [Moving data from iCloud may need to be made easier, by EU law](https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/)
 * [2023-07-01, 20:03:31](https://news.ycombinator.com/item?id=36554484) - [Serverless to monolith – Should serverless lovers be worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
 * [2023-07-01, 19:20:03](https://news.ycombinator.com/item?id=36553987) - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
@@ -22,6 +21,7 @@
 * [2023-07-01, 13:00:17](https://news.ycombinator.com/item?id=36549637) - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
 * [2023-07-01, 12:28:13](https://news.ycombinator.com/item?id=36549376) - [Get a personal teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
 * [2023-07-01, 12:06:29](https://news.ycombinator.com/item?id=36549218) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
+* [2023-07-01, 11:44:53](https://news.ycombinator.com/item?id=36549077) - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
 * [2023-07-01, 10:39:36](https://news.ycombinator.com/item?id=36548676) - [Gping – ping, but with a graph](https://github.com/orf/gping)
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Far Cry 1.34 source code (2006)](https://archive.org/details/far-cry-1.34-complete)
