@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 20:03:31](https://news.ycombinator.com/item?id=36554484) - [Serverless to Monolith – Should Serverless Lovers Be Worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
 * [2023-07-01, 19:54:16](https://news.ycombinator.com/item?id=36554362) - [Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
 * [2023-07-01, 19:26:46](https://news.ycombinator.com/item?id=36554053) - [Bluesky facing degraded performance due to record high traffic](https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h)
 * [2023-07-01, 19:20:03](https://news.ycombinator.com/item?id=36553987) - [Workers with less experience gain the most from generative AI](https://mitsloan.mit.edu/ideas-made-to-matter/workers-less-experience-gain-most-generative-ai)
@@ -12,7 +13,6 @@
 * [2023-07-01, 16:39:19](https://news.ycombinator.com/item?id=36551936) - [Vector support in PostgreSQL services to power AI-enabled applications](https://cloud.google.com/blog/products/databases/announcing-vector-support-in-postgresql-services-to-power-ai-enabled-applications)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
-* [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca rams into yacht near Scotland, suggesting the behavior may be spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
 * [2023-07-01, 13:59:25](https://news.ycombinator.com/item?id=36550184) - [Lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
