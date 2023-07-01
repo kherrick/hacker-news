@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 11:44:53](https://news.ycombinator.com/item?id=36549077) - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
+* [2023-07-01, 11:12:53](https://news.ycombinator.com/item?id=36548879) - [The Current Challenges with Using Linux on Airplanes](https://www.phoronix.com/news/Linux-On-Airplanes-Challenges)
 * [2023-07-01, 10:54:23](https://news.ycombinator.com/item?id=36548753) - [Psilocybin Decelerates Cellular Senescence](https://assets.researchsquare.com/files/rs-2921423/v1/3b645823-4eee-4717-8d80-f17baf2c56c9.pdf?c=1687887547)
 * [2023-07-01, 10:39:36](https://news.ycombinator.com/item?id=36548676) - [gping – ping, but with a graph](https://github.com/orf/gping)
 * [2023-07-01, 10:35:11](https://news.ycombinator.com/item?id=36548657) - [YouTube's copyright system isn't broken. The world's is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
