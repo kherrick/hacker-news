@@ -93,6 +93,7 @@
 * [2023-06-29, 06:15:09](https://news.ycombinator.com/item?id=36516978) - [Review: The AYANEO 2S is my new favourite handheld](https://overkill.wtf/ayaneo-2s-review/)
 * [2023-06-29, 04:57:04](https://news.ycombinator.com/item?id=36516475) - [“Those Disturbers of My Rest”: The First Treatise on Bedbugs (1730)](https://publicdomainreview.org/collection/treatise-of-buggs)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
+* [2023-06-29, 04:53:48](https://news.ycombinator.com/item?id=36516444) - [Old Weird America: The Dark Comedies of Charles Portis](https://thepointmag.com/criticism/old-weird-america/)
 * [2023-06-29, 04:32:33](https://news.ycombinator.com/item?id=36516315) - [Google is about to make life more difficult for custom ROM fans](https://www.androidauthority.com/google-kill-android-aosp-dialer-messages-app-3334980/)
 * [2023-06-29, 04:17:31](https://news.ycombinator.com/item?id=36516237) - [Canada announces open work-permit for tech workers and digital nomads](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/06/minister-fraser-launches-canadas-first-ever-tech-talent-strategy-at-collision-2023.html)
 * [2023-06-29, 03:30:27](https://news.ycombinator.com/item?id=36515986) - [Use pygwalker to build visual analysis app in streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)

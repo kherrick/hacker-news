@@ -23,11 +23,11 @@
 * [2023-06-30, 17:44:15](https://news.ycombinator.com/item?id=36539144) - [Hurl 4.0.0](https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html)
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-29, 22:48:25](https://news.ycombinator.com/item?id=36527922) - [The Life Aquatic: Hong Kong in the 1950s had a nomadic floating population](https://www.historytoday.com/archive/history-matters/life-aquatic)
-* [2023-06-29, 11:02:01](https://news.ycombinator.com/item?id=36518840) - [JavaScript macros in Bun](https://bun.sh/blog/bun-macros)
 * [2023-06-29, 09:05:10](https://news.ycombinator.com/item?id=36518085) - [A modern and open-source cross-platform software for chips reverse engineering](https://github.com/DegateCommunity/Degate)
 * [2023-06-29, 06:29:37](https://news.ycombinator.com/item?id=36517089) - [A Day in the Life of an Audio Describer (2011)](https://dcmp.org/learn/277-a-day-in-the-life-of-an-audio-describer)
 * [2023-06-29, 04:57:04](https://news.ycombinator.com/item?id=36516475) - [“Those Disturbers of My Rest”: The First Treatise on Bedbugs (1730)](https://publicdomainreview.org/collection/treatise-of-buggs)
 * [2023-06-29, 04:55:14](https://news.ycombinator.com/item?id=36516461) - [Aristotle’s Rules for Living Well](https://www.newyorker.com/magazine/2023/07/03/how-to-flourish-an-ancient-guide-to-living-well-aristotle-susan-sauve-meyer-book-review)
+* [2023-06-29, 04:53:48](https://news.ycombinator.com/item?id=36516444) - [Old Weird America: The Dark Comedies of Charles Portis](https://thepointmag.com/criticism/old-weird-america/)
 * [2023-06-28, 12:37:56](https://news.ycombinator.com/item?id=36505502) - [How the data center site selection process works at Dropbox](https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox)
 * [2023-06-28, 11:42:13](https://news.ycombinator.com/item?id=36505044) - [The one-shot drug that keeps on dosing](https://www.wired.com/story/the-one-shot-drug-that-keeps-on-dosing/)
 
