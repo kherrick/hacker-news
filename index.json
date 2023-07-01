@@ -1,12 +1,52 @@
 [
   [
     [
-      "2023-06-30, 22:46:52",
-      "https://news.ycombinator.com/item?id=36543557"
+      "2023-07-01, 00:31:16",
+      "https://news.ycombinator.com/item?id=36544698"
     ],
     [
-      "Maximum size of a PDF, version 7: 381 km × 381 km",
-      "https://commons.wikimedia.org/wiki/File:Seitengr%C3%B6%C3%9Fe_PDF_7.svg"
+      "Jest not recommended to be used in Node.js due to instanceOf operator issues",
+      "https://backend.cafe/should-you-use-jest-as-a-testing-library"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 00:24:08",
+      "https://news.ycombinator.com/item?id=36544627"
+    ],
+    [
+      "The Condiment Packet Gallery",
+      "https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 00:18:37",
+      "https://news.ycombinator.com/item?id=36544573"
+    ],
+    [
+      "Steel Bank Common Lisp",
+      "https://www.sbcl.org"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 23:29:47",
+      "https://news.ycombinator.com/item?id=36544045"
+    ],
+    [
+      "Be worried about what’s going on at Turner Classic Movies",
+      "https://www.npr.org/2023/06/28/1184544944/tcm-turner-classic-movies-david-zaslav"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 23:15:25",
+      "https://news.ycombinator.com/item?id=36543894"
+    ],
+    [
+      "Apollo is dead. Long live Apollo",
+      "https://news.ycombinator.com/item?id=36543894"
     ]
   ],
   [
@@ -67,26 +107,6 @@
     [
       "Time lapse of this week's large sunspot",
       "https://www.astrobin.com/full/qti3dk/0/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 21:36:29",
-      "https://news.ycombinator.com/item?id=36542664"
-    ],
-    [
-      "FFE Games",
-      "https://farfuture.net/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 21:23:14",
-      "https://news.ycombinator.com/item?id=36542500"
-    ],
-    [
-      "FTC announces proposed rule banning fake reviews and testimonials",
-      "https://www.ftc.gov/news-events/news/press-releases/2023/06/federal-trade-commission-announces-proposed-rule-banning-fake-reviews-testimonials"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-06-30, 12:04:18",
-      "https://news.ycombinator.com/item?id=36533396"
-    ],
-    [
-      "The Darwinian argument for worrying about AI",
-      "https://time.com/6283958/darwinian-argument-for-worrying-about-ai/"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 12:01:03",
       "https://news.ycombinator.com/item?id=36533355"
     ],
@@ -217,16 +227,6 @@
     [
       "Terrible real estate agent photographs",
       "https://terriblerealestateagentphotos.com"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 08:44:41",
-      "https://news.ycombinator.com/item?id=36532136"
-    ],
-    [
-      "Atom feed format was born 20 years ago",
-      "https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2023-06-29, 06:15:09",
-      "https://news.ycombinator.com/item?id=36516978"
-    ],
-    [
-      "Review: The AYANEO 2S is my new favourite handheld",
-      "https://overkill.wtf/ayaneo-2s-review/"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 04:55:14",
       "https://news.ycombinator.com/item?id=36516461"
     ],
@@ -281,22 +271,32 @@
   ],
   [
     [
+      "2023-06-28, 12:37:56",
+      "https://news.ycombinator.com/item?id=36505502"
+    ],
+    [
+      "How the data center site selection process works at Dropbox",
+      "https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox"
+    ]
+  ],
+  [
+    [
+      "2023-06-28, 10:27:10",
+      "https://news.ycombinator.com/item?id=36504570"
+    ],
+    [
+      "What are your favorite methodologies for organizing digital life",
+      "https://news.ycombinator.com/item?id=36504570"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 08:44:02",
       "https://news.ycombinator.com/item?id=36503924"
     ],
     [
       "Adding weak references to CHICKEN",
       "https://www.more-magic.net/posts/weak-references.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-27, 19:36:40",
-      "https://news.ycombinator.com/item?id=36497619"
-    ],
-    [
-      "Alamut (Bartol Novel)",
-      "https://en.wikipedia.org/wiki/Alamut_(Bartol_novel)"
     ]
   ]
 ]
