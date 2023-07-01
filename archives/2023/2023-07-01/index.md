@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 18:36:05](https://news.ycombinator.com/item?id=36553489) - [FBI obtains Kolektiva.social database while executing warrant on administrator](https://kolektiva.social/@admin/110637031574056150)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-01, 17:14:08](https://news.ycombinator.com/item?id=36552324) - [Confirmed: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
 * [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36552170)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 18:36:05](https://news.ycombinator.com/item?id=36553489) - [FBI obtains Kolektiva.social database while executing warrant on administrator](https://kolektiva.social/@admin/110637031574056150)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-01, 17:14:08](https://news.ycombinator.com/item?id=36552324) - [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
 * [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) is hiring #3 founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36552170)
@@ -7,7 +8,6 @@
 * [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
-* [2023-07-01, 15:37:47](https://news.ycombinator.com/item?id=36551231) - [Higher- than-recommended doses of Vitamin D reduced risk of atrial fibrillation](https://www.uef.fi/en/article/taking-higher-than-recommended-doses-of-vitamin-d-for-five-years-reduced-the-risk-of-atrial)
 * [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca rams into yacht near Scotland, suggesting the behavior may be spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
@@ -24,10 +24,10 @@
 * [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
 * [2023-07-01, 03:43:11](https://news.ycombinator.com/item?id=36546273) - [New York Times Election Day Crossword (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 * [2023-06-30, 13:07:10](https://news.ycombinator.com/item?id=36534157) - [Clamor of gravitational waves from merging black holes 'heard' for first time](https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html)
+* [2023-06-30, 12:51:08](https://news.ycombinator.com/item?id=36533947) - [Systems Programming with Racket](https://docs.racket-lang.org/more/index.html)
 * [2023-06-30, 04:41:42](https://news.ycombinator.com/item?id=36530569) - [Preserving Bach’s Manuscripts](https://blogs.bl.uk/collectioncare/2023/04/preserving-bachs-manuscripts.html)
 * [2023-06-29, 19:58:28](https://news.ycombinator.com/item?id=36525876) - [From fossils to mind](https://www.nature.com/articles/s42003-023-04803-4)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
-* [2023-06-29, 08:26:36](https://news.ycombinator.com/item?id=36517835) - [Is it possible to write games like Pac-Man in a functional language? (2008)](https://prog21.dadgum.com/23.html)
 * [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)
 * [2023-06-29, 04:53:48](https://news.ycombinator.com/item?id=36516444) - [Old Weird America: The Dark Comedies of Charles Portis](https://thepointmag.com/criticism/old-weird-america/)
 
