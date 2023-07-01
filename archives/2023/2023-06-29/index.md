@@ -32,6 +32,7 @@
 * [2023-06-29, 18:39:06](https://news.ycombinator.com/item?id=36524823) - [Mac Commands – Master your Mac with ease with this command reference](https://www.maccommands.com/)
 * [2023-06-29, 18:27:54](https://news.ycombinator.com/item?id=36524662) - [Google and Meta will stop showing Canadian sourced news](https://www.ctvnews.ca/politics/google-set-to-remove-news-links-in-canada-meta-ends-contract-for-journalism-fellowship-as-bill-c-18-fallout-continues-1.6461557)
 * [2023-06-29, 17:58:54](https://news.ycombinator.com/item?id=36524201) - [Gitlab AI is going head to head with GitHub Copilot](https://about.gitlab.com/solutions/code-suggestions/)
+* [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
 * [2023-06-29, 17:54:02](https://news.ycombinator.com/item?id=36524106) - [Journalists should invest in journalism startups, particularly now](https://www.businessside.co/p/editorial-investing)
 * [2023-06-29, 17:52:45](https://news.ycombinator.com/item?id=36524078) - [Gorilla-CLI: LLMs for CLI including K8s/AWS/GCP/Azure/sed and 1500 APIs](https://github.com/gorilla-llm/gorilla-cli)
 * [2023-06-29, 17:51:32](https://news.ycombinator.com/item?id=36524055) - [ToneMatrix](https://www.maxlaumeister.com/tonematrix/)
