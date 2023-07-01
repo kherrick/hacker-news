@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-01, 21:17:06",
+      "https://news.ycombinator.com/item?id=36555330"
+    ],
+    [
+      "A brief example of tailoring words for listeners: engineers and managers",
+      "https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 21:08:29",
       "https://news.ycombinator.com/item?id=36555246"
     ],
@@ -25,28 +35,8 @@
       "https://news.ycombinator.com/item?id=36554484"
     ],
     [
-      "Serverless to Monolith – Should Serverless Lovers Be Worried?",
+      "Serverless to monolith – Should serverless lovers be worried?",
       "https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 19:54:16",
-      "https://news.ycombinator.com/item?id=36554362"
-    ],
-    [
-      "Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits",
-      "https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 19:26:46",
-      "https://news.ycombinator.com/item?id=36554053"
-    ],
-    [
-      "Bluesky facing degraded performance due to record high traffic",
-      "https://bsky.app/profile/bsky.app/post/3jzi4yw3nqu2h"
     ]
   ],
   [
@@ -61,12 +51,12 @@
   ],
   [
     [
-      "2023-07-01, 18:58:56",
-      "https://news.ycombinator.com/item?id=36553762"
+      "2023-07-01, 18:17:21",
+      "https://news.ycombinator.com/item?id=36553236"
     ],
     [
-      "“It appears that Twitter is DDoSing itself”",
-      "https://sfba.social/@sysop408/110639474671754723"
+      "Twitter Is DDOSing Itself",
+      "https://sfba.social/@sysop408/110639435788921057"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "VUDA: A Vulkan Implementation of CUDA",
       "https://github.com/jgbit/vuda"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 12:28:13",
+      "https://news.ycombinator.com/item?id=36549376"
+    ],
+    [
+      "Get a personal teacher",
+      "https://sebastian.bearblog.dev/get-a-personal-teacher/"
     ]
   ],
   [
