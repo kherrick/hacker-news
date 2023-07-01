@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-07-01, 04:02:12",
-      "https://news.ycombinator.com/item?id=36546425"
-    ],
-    [
-      "Lemmy now has over 2M users across 915 instances",
-      "https://lemmymap.feddit.de"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 03:43:11",
       "https://news.ycombinator.com/item?id=36546273"
     ],
@@ -121,11 +111,21 @@
   ],
   [
     [
+      "2023-06-30, 22:33:19",
+      "https://news.ycombinator.com/item?id=36543398"
+    ],
+    [
+      "Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker",
+      "https://tabserve.dev"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 22:30:08",
       "https://news.ycombinator.com/item?id=36543372"
     ],
     [
-      "GitHub – kkuchta/CSS-only-chat: A monstrous async web chat using no JavaScript",
+      "CSS-Only Chat",
       "https://github.com/kkuchta/css-only-chat"
     ]
   ],
