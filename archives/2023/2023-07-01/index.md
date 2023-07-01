@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36552170)
 * [2023-07-01, 16:47:15](https://news.ycombinator.com/item?id=36552015) - [The first Oxide rack being prepared for customer shipment](https://hachyderm.io/@oxidecomputer/110635621269494973)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 15:45:39](https://news.ycombinator.com/item?id=36551320) - [Man designs ChatGPT bot subscription service to annoy, waste telemarketers' time](https://www.techspot.com/news/99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html)
