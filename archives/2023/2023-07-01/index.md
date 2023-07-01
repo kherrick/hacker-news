@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 13:59:25](https://news.ycombinator.com/item?id=36550184) - [Few lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
+* [2023-07-01, 13:59:00](https://news.ycombinator.com/item?id=36550180) - [Share of 40-year-olds in US who have never married reaches new high](https://www.pewresearch.org/short-reads/2023/06/28/a-record-high-share-of-40-year-olds-in-the-us-have-never-been-married/)
+* [2023-07-01, 13:58:37](https://news.ycombinator.com/item?id=36550174) - [What's up in the Python community? – June 2023](https://www.bitecode.dev/p/whats-up-in-the-python-community-98e)
 * [2023-07-01, 13:27:30](https://news.ycombinator.com/item?id=36549877) - [Tell HN: Happy Canada Day!](https://news.ycombinator.com/item?id=36549877)
 * [2023-07-01, 13:00:17](https://news.ycombinator.com/item?id=36549637) - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
 * [2023-07-01, 12:46:05](https://news.ycombinator.com/item?id=36549527) - [It’s not corruption. It’s a patch for gross underpayment](https://twitter.com/david_kasten/status/1674974488864104453)
