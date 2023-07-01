@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 04:02:12](https://news.ycombinator.com/item?id=36546425) - [Lemmy now has over 2M users across 915 instances](https://lemmymap.feddit.de)
+* [2023-07-01, 02:49:41](https://news.ycombinator.com/item?id=36545894) - [In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
 * [2023-07-01, 02:13:46](https://news.ycombinator.com/item?id=36545643) - [Maine becomes first state to decriminalize selling sex](https://www.seattletimes.com/nation-world/maine-becomes-first-state-to-decriminalize-selling-sex/)
 * [2023-07-01, 02:07:18](https://news.ycombinator.com/item?id=36545595) - [Don Lancaster Has Died](https://gilaherald.com/obituary-for-don-lancaster/)
 * [2023-07-01, 01:44:40](https://news.ycombinator.com/item?id=36545415) - [You Might Not Own the Data of Your Air Quality Monitor](https://www.airgradient.com/blog/when-you-own-a-monitor-but-not-its-data/)
