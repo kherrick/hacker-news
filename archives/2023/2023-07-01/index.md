@@ -6,9 +6,11 @@
 
 * [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36552170)
 * [2023-07-01, 16:47:15](https://news.ycombinator.com/item?id=36552015) - [The first Oxide rack being prepared for customer shipment](https://hachyderm.io/@oxidecomputer/110635621269494973)
+* [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 15:45:39](https://news.ycombinator.com/item?id=36551320) - [Man designs ChatGPT bot subscription service to annoy, waste telemarketers' time](https://www.techspot.com/news/99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html)
 * [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Espressif advances with Rust – 30-06-2023](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
+* [2023-07-01, 15:37:47](https://news.ycombinator.com/item?id=36551231) - [Higher- than-recommended doses of Vitamin D reduced risk of atrial fibrillation](https://www.uef.fi/en/article/taking-higher-than-recommended-doses-of-vitamin-d-for-five-years-reduced-the-risk-of-atrial)
 * [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
