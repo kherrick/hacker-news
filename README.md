@@ -2,6 +2,7 @@
 
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 * [2023-07-01, 08:34:50](https://news.ycombinator.com/item?id=36548052) - [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
+* [2023-07-01, 08:06:15](https://news.ycombinator.com/item?id=36547864) - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Someone dropped the source code for Far Cry 1 on archive.org](https://archive.org/details/far-cry-1.34-complete)
 * [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 * [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
@@ -20,7 +21,6 @@
 * [2023-06-30, 20:23:59](https://news.ycombinator.com/item?id=36541699) - [Samsung Foundry Tracking 2nm In 2025](https://semiwiki.com/semiconductor-manufacturers/samsung-foundry/331141-samsung-foundry-on-track-for-2nm-in-2025/)
 * [2023-06-30, 19:39:09](https://news.ycombinator.com/item?id=36540991) - [Dolphin mothers modify signature whistles in the presence of their own calves](https://www.pnas.org/doi/abs/10.1073/pnas.2300262120)
 * [2023-06-30, 19:36:33](https://news.ycombinator.com/item?id=36540957) - [Twitter now requires an account to view tweets](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/)
-* [2023-06-29, 22:48:25](https://news.ycombinator.com/item?id=36527922) - [The Life Aquatic: Hong Kong in the 1950s had a nomadic floating population](https://www.historytoday.com/archive/history-matters/life-aquatic)
 * [2023-06-29, 09:05:10](https://news.ycombinator.com/item?id=36518085) - [A modern and open-source cross-platform software for chips reverse engineering](https://github.com/DegateCommunity/Degate)
 * [2023-06-29, 08:26:36](https://news.ycombinator.com/item?id=36517835) - [Is it possible to write games like Pac-Man in a functional language?](https://prog21.dadgum.com/23.html)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
