@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-07-01, 05:14:14",
-      "https://news.ycombinator.com/item?id=36546838"
-    ],
-    [
-      "Rocky strikes back at Red Hat",
-      "https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 04:11:28",
       "https://news.ycombinator.com/item?id=36546484"
     ],
@@ -87,6 +77,16 @@
     [
       "Kaboom.js 3000",
       "https://kaboomjs.com/blog/3000"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 00:31:16",
+      "https://news.ycombinator.com/item?id=36544698"
+    ],
+    [
+      "Should you use Jest as a testing library? (2022)",
+      "https://backend.cafe/should-you-use-jest-as-a-testing-library"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2023-06-30, 20:23:59",
+      "https://news.ycombinator.com/item?id=36541699"
+    ],
+    [
+      "Samsung Foundry Tracking 2nm In 2025",
+      "https://semiwiki.com/semiconductor-manufacturers/samsung-foundry/331141-samsung-foundry-on-track-for-2nm-in-2025/"
+    ]
+  ],
+  [
+    [
       "2023-06-30, 19:39:09",
       "https://news.ycombinator.com/item?id=36540991"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2023-06-30, 17:10:31",
-      "https://news.ycombinator.com/item?id=36538579"
-    ],
-    [
-      "A look inside the SNES, PS5, and Xbox controllers with CT scans",
-      "https://www.scanofthemonth.com/scans/gamepads"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 22:48:25",
       "https://news.ycombinator.com/item?id=36527922"
     ],
     [
       "The Life Aquatic: Hong Kong in the 1950s had a nomadic floating population",
       "https://www.historytoday.com/archive/history-matters/life-aquatic"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 11:02:01",
-      "https://news.ycombinator.com/item?id=36518840"
-    ],
-    [
-      "JavaScript macros in Bun",
-      "https://bun.sh/blog/bun-macros"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "A Day in the Life of an Audio Describer (2011)",
       "https://dcmp.org/learn/277-a-day-in-the-life-of-an-audio-describer"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 06:20:37",
+      "https://news.ycombinator.com/item?id=36517019"
+    ],
+    [
+      "The Lava Layer Anti-Pattern (2014)",
+      "http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html"
     ]
   ],
   [
