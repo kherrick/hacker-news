@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 16:47:15](https://news.ycombinator.com/item?id=36552015) - [The first Oxide rack being prepared for customer shipment](https://hachyderm.io/@oxidecomputer/110635621269494973)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 15:45:39](https://news.ycombinator.com/item?id=36551320) - [Man designs ChatGPT bot subscription service to annoy, waste telemarketers' time](https://www.techspot.com/news/99264-man-opens-chatgpt-bot-subscription-service-annoy-waste.html)
+* [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Espressif advances with Rust – 30-06-2023](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
 * [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
@@ -19,17 +21,15 @@
 * [2023-07-01, 08:06:15](https://news.ycombinator.com/item?id=36547864) - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Far Cry 1.34 source code (2006)](https://archive.org/details/far-cry-1.34-complete)
 * [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
-* [2023-07-01, 05:34:02](https://news.ycombinator.com/item?id=36546954) - [The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
 * [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
 * [2023-07-01, 03:43:11](https://news.ycombinator.com/item?id=36546273) - [New York Times Election Day Crossword (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 * [2023-07-01, 02:49:41](https://news.ycombinator.com/item?id=36545894) - [In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
-* [2023-07-01, 00:24:08](https://news.ycombinator.com/item?id=36544627) - [The Condiment Packet Gallery](https://www.condimentpacket.com/index.html?mc_cid=316bfc2409&mc_eid=03a6564312)
+* [2023-06-30, 13:07:10](https://news.ycombinator.com/item?id=36534157) - [Clamor of gravitational waves from merging black holes 'heard' for first time](https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html)
 * [2023-06-30, 04:41:42](https://news.ycombinator.com/item?id=36530569) - [Preserving Bach’s Manuscripts](https://blogs.bl.uk/collectioncare/2023/04/preserving-bachs-manuscripts.html)
 * [2023-06-29, 19:58:28](https://news.ycombinator.com/item?id=36525876) - [From Fossils to Mind](https://www.nature.com/articles/s42003-023-04803-4)
 * [2023-06-29, 08:26:36](https://news.ycombinator.com/item?id=36517835) - [Is it possible to write games like Pac-Man in a functional language? (2008)](https://prog21.dadgum.com/23.html)
 * [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)
 * [2023-06-29, 04:53:48](https://news.ycombinator.com/item?id=36516444) - [Old Weird America: The Dark Comedies of Charles Portis](https://thepointmag.com/criticism/old-weird-america/)
-* [2023-06-29, 00:33:11](https://news.ycombinator.com/item?id=36514772) - [Cydra 5 supercomputer: design philosophies, decisions, tradeoffs (1989) [pdf]](https://www.ece.rutgers.edu/~yyzhang/fall10/reading/cydra-5-vliw.pdf)
 
 ## [Archives](archives/index.md)
 
