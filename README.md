@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-01, 23:06:29](https://news.ycombinator.com/item?id=36556261) - [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html)
 * [2023-07-01, 23:02:28](https://news.ycombinator.com/item?id=36556228) - [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
 * [2023-07-01, 21:35:32](https://news.ycombinator.com/item?id=36555507) - [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
 * [2023-07-01, 21:17:06](https://news.ycombinator.com/item?id=36555330) - [A brief example of tailoring words for listeners: engineers and managers](https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda)
@@ -8,7 +9,6 @@
 * [2023-07-01, 19:36:09](https://news.ycombinator.com/item?id=36554172) - [Jak 2 Playable with OpenGOAL](https://opengoal.dev/blog/progress-report-june-2023/)
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
-* [2023-07-01, 17:14:08](https://news.ycombinator.com/item?id=36552324) - [Tell HN: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
 * [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) is hiring #3 founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36552170)
 * [2023-07-01, 16:47:15](https://news.ycombinator.com/item?id=36552015) - [The first Oxide rack being prepared for customer shipment](https://hachyderm.io/@oxidecomputer/110635621269494973)
 * [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)

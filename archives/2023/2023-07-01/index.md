@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 23:06:29](https://news.ycombinator.com/item?id=36556261) - [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html)
 * [2023-07-01, 23:02:28](https://news.ycombinator.com/item?id=36556228) - [Fake reviews are illegal and subject to big fines under new FTC rules](https://www.washingtonpost.com/technology/2023/06/30/fake-reviews-online-ftc/)
 * [2023-07-01, 21:35:32](https://news.ycombinator.com/item?id=36555507) - [How I changed my D-Link camera from cloud camera to a locally managed IP camera](https://github.com/bmork/defogger)
 * [2023-07-01, 21:17:06](https://news.ycombinator.com/item?id=36555330) - [A brief example of tailoring words for listeners: engineers and managers](https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda)
