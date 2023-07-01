@@ -70,6 +70,7 @@
 * [2023-06-29, 12:44:50](https://news.ycombinator.com/item?id=36519633) - [OpenAI sued for $3B after allegedly trampling privacy with ChatGPT](https://www.theregister.com/2023/06/28/microsoft_openai_sued_privacy/)
 * [2023-06-29, 12:40:00](https://news.ycombinator.com/item?id=36519579) - [Show HN: Scrapscript “Guide”, Proposals, and Community Chat](https://scrapscript.org/guide)
 * [2023-06-29, 12:29:19](https://news.ycombinator.com/item?id=36519497) - [Programming Languages Going Above and Beyond](https://whileydave.com/2023/06/27/programming-languages-going-above-and-beyond/)
+* [2023-06-29, 12:26:19](https://news.ycombinator.com/item?id=36519467) - [A Compressed Indexable Bitset](https://quickwit.io/blog/compressed-indexable-bitset/)
 * [2023-06-29, 12:23:34](https://news.ycombinator.com/item?id=36519448) - [Scaling Linear's Sync Engine](https://linear.app/blog/scaling-the-linear-sync-engine)
 * [2023-06-29, 12:22:58](https://news.ycombinator.com/item?id=36519442) - [Submarine expert tried to dissuade OceanGate CEO, from taking customers in Titan](https://www.insider.com/submersible-expert-oceangate-ceo-hull-defect-will-only-get-worse-2023-6)
 * [2023-06-29, 12:13:56](https://news.ycombinator.com/item?id=36519393) - [Show HN: Hivekit – Geospatial app platform](https://hivekit.io/)

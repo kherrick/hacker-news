@@ -27,8 +27,8 @@
 * [2023-06-30, 13:07:10](https://news.ycombinator.com/item?id=36534157) - [Clamor of gravitational waves from merging black holes 'heard' for first time](https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html)
 * [2023-06-30, 12:51:08](https://news.ycombinator.com/item?id=36533947) - [Systems Programming with Racket](https://docs.racket-lang.org/more/index.html)
 * [2023-06-30, 09:30:56](https://news.ycombinator.com/item?id=36532366) - [The Rashomon Moment: Bob Dylan at the 1965 Newport Folk Festival](https://cinemasojourns.com/2023/06/29/the-rashomon-moment-bob-dylan-at-the-1965-newport-folk-festival/)
-* [2023-06-29, 19:58:28](https://news.ycombinator.com/item?id=36525876) - [From fossils to mind](https://www.nature.com/articles/s42003-023-04803-4)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
+* [2023-06-29, 12:26:19](https://news.ycombinator.com/item?id=36519467) - [A Compressed Indexable Bitset](https://quickwit.io/blog/compressed-indexable-bitset/)
 * [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)
 
 ## [Archives](archives/index.md)
