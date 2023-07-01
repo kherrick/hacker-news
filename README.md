@@ -19,6 +19,7 @@
 * [2023-07-01, 08:06:15](https://news.ycombinator.com/item?id=36547864) - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Far Cry 1.34 source code (2006)](https://archive.org/details/far-cry-1.34-complete)
 * [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
+* [2023-07-01, 05:34:02](https://news.ycombinator.com/item?id=36546954) - [The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
 * [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling up in job interviews for software engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)
 * [2023-07-01, 03:43:11](https://news.ycombinator.com/item?id=36546273) - [New York Times Election Day Crossword (2009)](https://www.crosswordunclued.com/2009/01/nyt-election-day-crossword.html)
 * [2023-07-01, 02:49:41](https://news.ycombinator.com/item?id=36545894) - [In practice, cool URLs can become inaccessible even if they don't change](https://utcc.utoronto.ca/~cks/space/blog/web/CoolUrlsGoInaccessible)
@@ -29,7 +30,6 @@
 * [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)
 * [2023-06-29, 04:53:48](https://news.ycombinator.com/item?id=36516444) - [Old Weird America: The Dark Comedies of Charles Portis](https://thepointmag.com/criticism/old-weird-america/)
 * [2023-06-29, 00:33:11](https://news.ycombinator.com/item?id=36514772) - [Cydra 5 supercomputer: design philosophies, decisions, tradeoffs (1989) [pdf]](https://www.ece.rutgers.edu/~yyzhang/fall10/reading/cydra-5-vliw.pdf)
-* [2023-06-28, 22:26:13](https://news.ycombinator.com/item?id=36513496) - [The giant world Halla should have been swallowed by its star long ago](https://www.nytimes.com/2023/06/28/science/planet-star-halla-beakdu.html)
 
 ## [Archives](archives/index.md)
 
