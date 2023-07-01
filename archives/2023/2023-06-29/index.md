@@ -88,6 +88,7 @@
 * [2023-06-29, 08:25:51](https://news.ycombinator.com/item?id=36517832) - [Happy 50th Birthday, Ethernet](https://blog.apnic.net/2023/06/29/happy-50th-birthday-ethernet/)
 * [2023-06-29, 07:55:33](https://news.ycombinator.com/item?id=36517651) - [Tkinter Designer: Quickly Turn Figma Design to Python Tkinter GUI](https://github.com/ParthJadhav/Tkinter-Designer)
 * [2023-06-29, 07:34:55](https://news.ycombinator.com/item?id=36517525) - [The Awk Programming Language, Second Edition](https://awk.dev/)
+* [2023-06-29, 06:58:44](https://news.ycombinator.com/item?id=36517280) - [Yahoo 1995: First-Round Financing [pdf]](https://web.stanford.edu/class/e145/2007_fall/materials/Yahoo_1995_STVPCase.pdf)
 * [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 * [2023-06-29, 06:38:10](https://news.ycombinator.com/item?id=36517149) - [Kagi Raises $670K](https://blog.kagi.com/safe-round)
 * [2023-06-29, 06:29:37](https://news.ycombinator.com/item?id=36517089) - [A Day in the Life of an Audio Describer (2011)](https://dcmp.org/learn/277-a-day-in-the-life-of-an-audio-describer)
