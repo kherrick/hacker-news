@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-01, 12:28:13",
+      "https://news.ycombinator.com/item?id=36549376"
+    ],
+    [
+      "Get a Personal Teacher",
+      "https://sebastian.bearblog.dev/get-a-personal-teacher/"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 12:19:13",
+      "https://news.ycombinator.com/item?id=36549299"
+    ],
+    [
+      "ChatGPT is now a brilliant tool for winding up telemarketers and scammers",
+      "https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 11:44:53",
       "https://news.ycombinator.com/item?id=36549077"
     ],
@@ -35,8 +55,18 @@
       "https://news.ycombinator.com/item?id=36548657"
     ],
     [
-      "YouTube's copyright system isn't broken. The world's is",
+      "YouTube's copyright system isn't broken. The world's is (2020)",
       "https://www.youtube.com/watch?v=1Jwo5qc78QU"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 08:36:28",
+      "https://news.ycombinator.com/item?id=36548056"
+    ],
+    [
+      "Why the Champions of Affirmative Action Had to Leave Asian Americans Behind",
+      "https://www.newyorker.com/news/our-columnists/why-the-champions-of-affirmative-action-had-to-leave-asian-americans-behind"
     ]
   ],
   [
@@ -87,6 +117,16 @@
     [
       "Terra (YC W21) Is Hiring AI Engineers in London",
       "https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 05:34:02",
+      "https://news.ycombinator.com/item?id=36546954"
+    ],
+    [
+      "The Rise and Fall of CORBA (2006)",
+      "https://queue.acm.org/detail.cfm?id=1142044"
     ]
   ],
   [
@@ -171,16 +211,6 @@
   ],
   [
     [
-      "2023-06-30, 22:33:19",
-      "https://news.ycombinator.com/item?id=36543398"
-    ],
-    [
-      "Show HN: Tabserve.dev. HTTPS proxy using Web Workers and a Cloudflare Worker",
-      "https://tabserve.dev"
-    ]
-  ],
-  [
-    [
       "2023-06-30, 22:30:08",
       "https://news.ycombinator.com/item?id=36543372"
     ],
@@ -197,16 +227,6 @@
     [
       "Necessary Illusions: Thought Control in Democratic Societies [pdf]",
       "https://www.cia.gov/library/abbottabad-compound/52/526D2E781AC9EBBB13346BDF7693E1BB_CHOMSKY_Noam_-_Necessary_Illusions.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 19:36:33",
-      "https://news.ycombinator.com/item?id=36540957"
-    ],
-    [
-      "Twitter now requires an account to view tweets",
-      "https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/"
     ]
   ],
   [
@@ -251,26 +271,6 @@
   ],
   [
     [
-      "2023-06-29, 06:29:37",
-      "https://news.ycombinator.com/item?id=36517089"
-    ],
-    [
-      "A Day in the Life of an Audio Describer (2011)",
-      "https://dcmp.org/learn/277-a-day-in-the-life-of-an-audio-describer"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 06:20:37",
-      "https://news.ycombinator.com/item?id=36517019"
-    ],
-    [
-      "The Lava Layer Anti-Pattern (2014)",
-      "http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html"
-    ]
-  ],
-  [
-    [
       "2023-06-29, 04:55:14",
       "https://news.ycombinator.com/item?id=36516461"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2023-06-28, 22:28:50",
+      "https://news.ycombinator.com/item?id=36513520"
+    ],
+    [
+      "Buried History",
+      "https://hakaimagazine.com/features/buried-history/"
+    ]
+  ],
+  [
+    [
       "2023-06-28, 22:26:13",
       "https://news.ycombinator.com/item?id=36513496"
     ],
     [
       "The giant world Halla should have been swallowed by its star long ago",
       "https://www.nytimes.com/2023/06/28/science/planet-star-halla-beakdu.html"
-    ]
-  ],
-  [
-    [
-      "2023-06-28, 12:37:56",
-      "https://news.ycombinator.com/item?id=36505502"
-    ],
-    [
-      "How the data center site selection process works at Dropbox",
-      "https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox"
     ]
   ]
 ]
