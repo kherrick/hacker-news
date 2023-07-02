@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-07-02, 10:36:18",
-      "https://news.ycombinator.com/item?id=36560162"
+      "2023-07-02, 11:07:36",
+      "https://news.ycombinator.com/item?id=36560310"
     ],
     [
-      "SoundCloud has begun blocking Datacenter IPs",
-      "https://twitter.com/sickcodes/status/1675315768236576769"
+      "Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035",
+      "https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 10:54:46",
+      "https://news.ycombinator.com/item?id=36560242"
+    ],
+    [
+      "Windows 10 on the Xiaomi PocoPhone F1",
+      "https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "GPT-Migrate converts repos from one lang/framework to another",
       "https://github.com/0xpayne/gpt-migrate"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 03:01:24",
-      "https://news.ycombinator.com/item?id=36557790"
-    ],
-    [
-      "The moral behavior of ethics professors: A replication-extension (2018)",
-      "https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-07-01, 20:03:31",
-      "https://news.ycombinator.com/item?id=36554484"
-    ],
-    [
-      "Serverless to monolith – Should serverless lovers be worried?",
-      "https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 19:50:05",
       "https://news.ycombinator.com/item?id=36554321"
     ],
@@ -297,6 +287,16 @@
     [
       "Shifting views about psychedelic drugs require a new category for them",
       "https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 06:52:53",
+      "https://news.ycombinator.com/item?id=36517238"
+    ],
+    [
+      "YouTube is testing a more aggressive approach against ad blockers",
+      "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
     ]
   ]
 ]
