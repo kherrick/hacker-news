@@ -9,7 +9,6 @@
 * [2023-07-02, 18:12:09](https://news.ycombinator.com/item?id=36564010) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 * [2023-07-02, 18:09:29](https://news.ycombinator.com/item?id=36563979) - [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)
 * [2023-07-02, 18:06:47](https://news.ycombinator.com/item?id=36563956) - [Chinese Tech Terms Explained in English](https://16x.engineer/2022/10/18/chinese-tech-terms.html)
-* [2023-07-02, 17:53:44](https://news.ycombinator.com/item?id=36563815) - [Economic inequality cannot be explained by individual bad choices, study finds](https://phys.org/news/2023-06-economic-inequality-individual-bad-choices.html)
 * [2023-07-02, 17:50:52](https://news.ycombinator.com/item?id=36563780) - [AMIGAlive – Play Amiga games online with people across the world](https://www.amigalive.com/)
 * [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 * [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
@@ -29,6 +28,7 @@
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-01, 15:19:27](https://news.ycombinator.com/item?id=36551052) - [Lev Landau's “Theoretical Minimum”](https://physics.stackexchange.com/questions/13861/lev-landaus-theoretical-minimum)
 * [2023-07-01, 13:00:48](https://news.ycombinator.com/item?id=36549640) - [Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)
+* [2023-07-01, 08:14:25](https://news.ycombinator.com/item?id=36547928) - [Working Ternary ALU (2019)](https://louis-dr.github.io/ternalu3.html)
 * [2023-06-28, 14:58:48](https://news.ycombinator.com/item?id=36507423) - [2,200 forgotten vintage computers from a barn in Massachusetts](https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts)
 
 ## [Archives](archives/index.md)
