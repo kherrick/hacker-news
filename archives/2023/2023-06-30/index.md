@@ -66,6 +66,7 @@
 * [2023-06-30, 13:44:18](https://news.ycombinator.com/item?id=36534778) - [Scientists find key evidence for existence of nanohertz gravitational waves](https://phys.org/news/2023-06-scientists-key-evidence-nanohertz-gravitational.html)
 * [2023-06-30, 13:41:17](https://news.ycombinator.com/item?id=36534725) - [McMansion Hell](https://mcmansionhell.com)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
+* [2023-06-30, 13:11:14](https://news.ycombinator.com/item?id=36534210) - ['ghost particle' image of Milky Way captured: Neutrinos detected by IceCube](https://phys.org/news/2023-06-ghost-particle-image-milky-galaxy.html)
 * [2023-06-30, 13:09:04](https://news.ycombinator.com/item?id=36534179) - [Nineteen new Wolf-Rayet stars discovered in the Andromeda galaxy](https://phys.org/news/2023-06-nineteen-wolf-rayet-stars-andromeda-galaxy.html)
 * [2023-06-30, 13:07:10](https://news.ycombinator.com/item?id=36534157) - [Clamor of gravitational waves from merging black holes 'heard' for first time](https://phys.org/news/2023-06-clamor-gravitational-universe-merging-supermassive.html)
 * [2023-06-30, 12:53:47](https://news.ycombinator.com/item?id=36533978) - [May inflation (PCE) falls to 1.2% (3.6% Core) / 3.8% YoY (4.6% Core YoY)](https://www.bea.gov/news/2023/personal-income-and-outlays-may-2023)

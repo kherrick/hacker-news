@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 03:32:57](https://news.ycombinator.com/item?id=36557974) - [The Titan Submersible Was “An Accident Waiting to Happen”](https://www.newyorker.com/news/a-reporter-at-large/the-titan-submersible-was-an-accident-waiting-to-happen)
+* [2023-07-02, 03:05:19](https://news.ycombinator.com/item?id=36557819) - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
 * [2023-07-02, 03:01:24](https://news.ycombinator.com/item?id=36557790) - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 * [2023-07-02, 01:50:34](https://news.ycombinator.com/item?id=36557378) - [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
 * [2023-07-02, 01:34:55](https://news.ycombinator.com/item?id=36557287) - [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
