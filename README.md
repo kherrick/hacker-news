@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 15:36:09](https://news.ycombinator.com/item?id=36562433) - [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
 * [2023-07-02, 15:01:54](https://news.ycombinator.com/item?id=36562056) - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 14:41:32](https://news.ycombinator.com/item?id=36561897) - [A curated list of Emacs Lisp development resources](https://github.com/p3r7/awesome-elisp)
@@ -12,7 +13,6 @@
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 08:07:15](https://news.ycombinator.com/item?id=36559370) - [Neuronal wiring diagram of an adult brain](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-* [2023-07-02, 07:45:04](https://news.ycombinator.com/item?id=36559254) - [Breaking Up with SVG-in-JS in 2023](https://kurtextrem.de/posts/svg-in-js)
 * [2023-07-02, 07:06:21](https://news.ycombinator.com/item?id=36559037) - [The Mickey Mouse Copyright Runs Out in 2024](https://globaltoynews.com/2023/01/11/the-mickey-mouse-copyright-runs-out-in-2024-what-that-means-for-all-of-us/)
 * [2023-07-02, 07:04:25](https://news.ycombinator.com/item?id=36559030) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)

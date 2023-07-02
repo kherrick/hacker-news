@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 15:36:09](https://news.ycombinator.com/item?id=36562433) - [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
 * [2023-07-02, 15:01:54](https://news.ycombinator.com/item?id=36562056) - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 14:41:32](https://news.ycombinator.com/item?id=36561897) - [A curated list of Emacs Lisp development resources](https://github.com/p3r7/awesome-elisp)
