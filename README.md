@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 20:32:25](https://news.ycombinator.com/item?id=36565378) - [43% of white Harvard students are legacy, athletes, related to donors or staff](https://www.nbcnews.com/news/us-news/study-harvard-finds-43-percent-white-students-are-legacy-athletes-n1060361)
 * [2023-07-02, 20:16:35](https://news.ycombinator.com/item?id=36565225) - [Googling for answers costs you time](https://prashanth.world/seo-ruining-programming-help/)
 * [2023-07-02, 19:30:07](https://news.ycombinator.com/item?id=36564810) - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
 * [2023-07-02, 19:26:46](https://news.ycombinator.com/item?id=36564782) - [Forgotten Tragedy of Italian War Detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
@@ -29,7 +30,6 @@
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-01, 15:19:27](https://news.ycombinator.com/item?id=36551052) - [Lev Landau's “Theoretical Minimum”](https://physics.stackexchange.com/questions/13861/lev-landaus-theoretical-minimum)
 * [2023-07-01, 13:00:48](https://news.ycombinator.com/item?id=36549640) - [Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)
-* [2023-07-01, 08:14:25](https://news.ycombinator.com/item?id=36547928) - [Working Ternary ALU (2019)](https://louis-dr.github.io/ternalu3.html)
 
 ## [Archives](archives/index.md)
 
