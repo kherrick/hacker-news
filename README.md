@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 21:15:48](https://news.ycombinator.com/item?id=36565842) - [GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
 * [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
-* [2023-07-02, 19:30:07](https://news.ycombinator.com/item?id=36564810) - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
 * [2023-07-02, 19:26:46](https://news.ycombinator.com/item?id=36564782) - [Forgotten tragedy of Italian war detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
 * [2023-07-02, 19:07:21](https://news.ycombinator.com/item?id=36564608) - [Why commuters prefer origin to destination transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
+* [2023-07-02, 19:00:22](https://news.ycombinator.com/item?id=36564535) - [C’s Biggest Mistake](https://www.digitalmars.com/articles/C-biggest-mistake.html)
 * [2023-07-02, 18:41:41](https://news.ycombinator.com/item?id=36564350) - [Relay Mining: Verifiable Multi-Tenant Distributed Rate Limiting](https://arxiv.org/abs/2305.10672)
 * [2023-07-02, 18:12:09](https://news.ycombinator.com/item?id=36564010) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 * [2023-07-02, 18:09:29](https://news.ycombinator.com/item?id=36563979) - [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)
@@ -28,7 +29,6 @@
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-01, 15:19:27](https://news.ycombinator.com/item?id=36551052) - [Lev Landau's “Theoretical Minimum”](https://physics.stackexchange.com/questions/13861/lev-landaus-theoretical-minimum)
 * [2023-07-01, 13:00:48](https://news.ycombinator.com/item?id=36549640) - [Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)
-* [2023-07-01, 08:14:25](https://news.ycombinator.com/item?id=36547928) - [Working Ternary ALU (2019)](https://louis-dr.github.io/ternalu3.html)
 * [2023-06-28, 14:58:48](https://news.ycombinator.com/item?id=36507423) - [2,200 forgotten vintage computers from a barn in Massachusetts](https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts)
 
 ## [Archives](archives/index.md)
