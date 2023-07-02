@@ -13,6 +13,7 @@
 * [2023-07-01, 21:08:29](https://news.ycombinator.com/item?id=36555246) - [Jef Raskin's writings: “Holes in the Histories” (1994)](https://digibarn.com/friends/jef-raskin/writings/holes.html)
 * [2023-07-01, 21:02:30](https://news.ycombinator.com/item?id=36555180) - [How to Become a Prompt Engineer](https://llm-utils.org/How+to+become+a+prompt+engineer)
 * [2023-07-01, 20:41:24](https://news.ycombinator.com/item?id=36554958) - [Moving data from iCloud may need to be made easier, by EU law](https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/)
+* [2023-07-01, 20:37:06](https://news.ycombinator.com/item?id=36554909) - [How to 1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
 * [2023-07-01, 20:03:31](https://news.ycombinator.com/item?id=36554484) - [Serverless to Monolith – Should Serverless Lovers Be Worried?](https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/)
 * [2023-07-01, 19:54:16](https://news.ycombinator.com/item?id=36554362) - [Twitter bug causes self-DDoS, related to Musk’s emergency blocks, rate limits](https://waxy.org/2023/07/twitter-bug-causes-self-ddos-possibly-causing-elon-musks-emergency-blocks-and-rate-limits-its-amateur-hour/)
 * [2023-07-01, 19:36:09](https://news.ycombinator.com/item?id=36554172) - [Jak 2 Playable with OpenGOAL](https://opengoal.dev/blog/progress-report-june-2023/)

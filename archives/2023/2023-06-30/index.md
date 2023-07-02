@@ -48,6 +48,7 @@
 * [2023-06-30, 17:10:31](https://news.ycombinator.com/item?id=36538579) - [A look inside the SNES, PS5, and Xbox controllers with CT scans](https://www.scanofthemonth.com/scans/gamepads)
 * [2023-06-30, 17:01:04](https://news.ycombinator.com/item?id=36538423) - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
 * [2023-06-30, 16:56:46](https://news.ycombinator.com/item?id=36538344) - [Ask HN: LLVM vs. C?](https://news.ycombinator.com/item?id=36538344)
+* [2023-06-30, 16:43:33](https://news.ycombinator.com/item?id=36538126) - [Confessions of a Book Reviewer (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/confessions-of-a-book-reviewer/)
 * [2023-06-30, 16:32:50](https://news.ycombinator.com/item?id=36537962) - [About the gun that killed a boy at Seattle’s Ingraham High School](https://kuow.org/stories/about-the-gun-that-killed-a-boy-at-seattle-s-ingraham-high-school)
 * [2023-06-30, 16:12:55](https://news.ycombinator.com/item?id=36537598) - [Lawsuit claims OpenAI stole 'massive amounts of personal data'](https://www.businessinsider.com/openai-chatgpt-generative-ai-stole-personal-data-lawsuit-children-medical-2023-6)
 * [2023-06-30, 16:09:29](https://news.ycombinator.com/item?id=36537533) - [CommonJS Is Hurting JavaScript](https://deno.com/blog/commonjs-is-hurting-javascript)
