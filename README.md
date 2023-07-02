@@ -2,9 +2,9 @@
 
 * [2023-07-02, 15:36:09](https://news.ycombinator.com/item?id=36562433) - [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
 * [2023-07-02, 15:01:54](https://news.ycombinator.com/item?id=36562056) - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
+* [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 14:41:32](https://news.ycombinator.com/item?id=36561897) - [A curated list of Emacs Lisp development resources](https://github.com/p3r7/awesome-elisp)
-* [2023-07-02, 14:40:00](https://news.ycombinator.com/item?id=36561888) - [Will Texas become too hot for humans?](https://www.bbc.com/future/article/20230630-will-texas-become-too-hot-for-humans)
 * [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 * [2023-07-02, 12:41:27](https://news.ycombinator.com/item?id=36560937) - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
 * [2023-07-02, 10:56:43](https://news.ycombinator.com/item?id=36560254) - [Writing as a form of thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
@@ -13,7 +13,7 @@
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 08:07:15](https://news.ycombinator.com/item?id=36559370) - [Neuronal wiring diagram of an adult brain](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-* [2023-07-02, 07:06:21](https://news.ycombinator.com/item?id=36559037) - [The Mickey Mouse Copyright Runs Out in 2024](https://globaltoynews.com/2023/01/11/the-mickey-mouse-copyright-runs-out-in-2024-what-that-means-for-all-of-us/)
+* [2023-07-02, 07:45:04](https://news.ycombinator.com/item?id=36559254) - [Breaking Up with SVG-in-JS in 2023](https://kurtextrem.de/posts/svg-in-js)
 * [2023-07-02, 07:04:25](https://news.ycombinator.com/item?id=36559030) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 * [2023-07-02, 03:46:33](https://news.ycombinator.com/item?id=36558032) - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
@@ -24,12 +24,12 @@
 * [2023-07-01, 21:35:32](https://news.ycombinator.com/item?id=36555507) - [How I changed my D-Link camera to a locally managed IP camera](https://github.com/bmork/defogger)
 * [2023-07-01, 19:50:05](https://news.ycombinator.com/item?id=36554321) - [GPU accelerated SMT constraint solving (2021)](https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/)
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
-* [2023-07-01, 18:04:17](https://news.ycombinator.com/item?id=36553057) - [Worldwide survey kills the myth of ‘Man the Hunter’](https://www.science.org/content/article/worldwide-survey-kills-myth-man-hunter)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 12:16:05](https://news.ycombinator.com/item?id=36549277) - [Pixel-Perfect retro gaming on LCD 480p EDTVs](https://blog.gingerbeardman.com/2021/05/06/pixel-perfect-retro-gaming-in-480p/)
 * [2023-07-01, 10:41:43](https://news.ycombinator.com/item?id=36548684) - [Why is the volume of a cone one third of the volume of a cylinder? (2010)](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
 * [2023-06-29, 20:10:23](https://news.ycombinator.com/item?id=36526023) - [Video: Power LED Attack [video]](https://www.youtube.com/watch?v=vXe8pe18MNk)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
+* [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 
 ## [Archives](archives/index.md)
 
