@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-01, 23:28:47",
+      "https://news.ycombinator.com/item?id=36556436"
+    ],
+    [
+      "git-landmine – create local malicious Git repo",
+      "https://github.com/jwilk/git-landmine"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 23:11:14",
+      "https://news.ycombinator.com/item?id=36556293"
+    ],
+    [
+      "C++ GPT-2 inference engine",
+      "https://github.com/a1k0n/a1gpt"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 23:06:29",
       "https://news.ycombinator.com/item?id=36556261"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2023-07-01, 21:17:06",
-      "https://news.ycombinator.com/item?id=36555330"
-    ],
-    [
-      "A brief example of tailoring words for listeners: engineers and managers",
-      "https://lmy.medium.com/a-brief-example-of-tailoring-words-for-different-listeners-engineers-and-managers-1d9610666cda"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 21:08:29",
       "https://news.ycombinator.com/item?id=36555246"
     ],
     [
       "Jef Raskin's writings: “Holes in the Histories” (1994)",
       "https://digibarn.com/friends/jef-raskin/writings/holes.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 20:03:31",
-      "https://news.ycombinator.com/item?id=36554484"
-    ],
-    [
-      "Serverless to monolith – Should serverless lovers be worried?",
-      "https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-07-01, 08:36:20",
-      "https://news.ycombinator.com/item?id=36548055"
-    ],
-    [
-      "TabDB: Using browser tabs as a database like only a maniac would",
-      "https://github.com/kkuchta/tabdb"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 07:54:36",
       "https://news.ycombinator.com/item?id=36547801"
     ],
@@ -267,6 +257,16 @@
     [
       "Review of Going the Distance: The Rise of the Business Corporation, 1400-1700",
       "https://notevenpast.org/review-of-going-the-distance-eurasian-trade-and-the-rise-of-the-business-corporation-1400-1700-2020-by-ron-harris/"
+    ]
+  ],
+  [
+    [
+      "2023-06-30, 13:44:18",
+      "https://news.ycombinator.com/item?id=36534778"
+    ],
+    [
+      "Scientists find key evidence for existence of nanohertz gravitational waves",
+      "https://phys.org/news/2023-06-scientists-key-evidence-nanohertz-gravitational.html"
     ]
   ],
   [
