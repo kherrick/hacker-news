@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-02, 10:29:55",
+      "https://news.ycombinator.com/item?id=36560136"
+    ],
+    [
+      "Drastic increase in Tor clients from Germany",
+      "https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 10:23:50",
       "https://news.ycombinator.com/item?id=36560104"
     ],
@@ -287,16 +297,6 @@
     [
       "Shifting views about psychedelic drugs require a new category for them",
       "https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 06:52:53",
-      "https://news.ycombinator.com/item?id=36517238"
-    ],
-    [
-      "YouTube is testing a more aggressive approach against ad blockers",
-      "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
     ]
   ]
 ]
