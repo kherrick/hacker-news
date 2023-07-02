@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 07:31:55](https://news.ycombinator.com/item?id=36559165) - [UK retail electricity prices hit -19p/kWh today](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 * [2023-07-02, 03:46:33](https://news.ycombinator.com/item?id=36558032) - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
@@ -18,10 +19,9 @@
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-01, 17:43:20](https://news.ycombinator.com/item?id=36552748) - [Nadezhda Khvoshchinskaya, a great Russian writer of the nineteenth century](https://www.full-stop.net/2023/06/27/interviews/annaberman/noraseligmanfavorov/)
-* [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) is hiring #3 founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36552170)
 * [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
+* [2023-07-01, 16:39:19](https://news.ycombinator.com/item?id=36551936) - [Vector support in PostgreSQL services to power AI-enabled applications](https://cloud.google.com/blog/products/databases/announcing-vector-support-in-postgresql-services-to-power-ai-enabled-applications)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
-* [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 12:06:48](https://news.ycombinator.com/item?id=36549221) - [Ball und Panzer Golf: making a Playdate game in a week](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
 * [2023-07-01, 12:06:29](https://news.ycombinator.com/item?id=36549218) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
