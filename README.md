@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 19:30:07](https://news.ycombinator.com/item?id=36564810) - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
 * [2023-07-02, 19:07:21](https://news.ycombinator.com/item?id=36564608) - [Why Commuters Prefer Origin to Destination Transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
 * [2023-07-02, 18:41:41](https://news.ycombinator.com/item?id=36564350) - [Relay Mining: Verifiable Multi-Tenant Distributed Rate Limiting](https://arxiv.org/abs/2305.10672)
 * [2023-07-02, 18:14:13](https://news.ycombinator.com/item?id=36564042) - [Google Search's Death by a Thousand Cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
@@ -21,7 +22,6 @@
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 14:41:32](https://news.ycombinator.com/item?id=36561897) - [A curated list of Emacs Lisp development resources](https://github.com/p3r7/awesome-elisp)
 * [2023-07-02, 14:34:58](https://news.ycombinator.com/item?id=36561847) - [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
-* [2023-07-02, 12:24:15](https://news.ycombinator.com/item?id=36560815) - [Delve: A Solo Map Drawing Game](https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game)
 * [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [64bit computing on a budget](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
 * [2023-07-02, 10:25:14](https://news.ycombinator.com/item?id=36560114) - [Kokuhaku: Japan’s Love Confessing Culture (2013)](https://www.tofugu.com/japan/kokuhaku-love-confessing-japan/)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
