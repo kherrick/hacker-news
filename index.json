@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-07-02, 07:31:55",
+      "https://news.ycombinator.com/item?id=36559165"
+    ],
+    [
+      "UK retail electricity prices hit -19p/kWh today",
+      "https://github.com/jonatron/randomstuff/blob/main/agile_prices.png"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 06:14:31",
       "https://news.ycombinator.com/item?id=36558759"
     ],
     [
-      "Course Notes: A Functional Introduction to Computer Science (UWaterloo)",
+      "A Functional Introduction To Computer Science",
       "https://cs.uwaterloo.ca/~plragde/flaneries/FICS/"
     ]
   ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2023-07-02, 01:07:32",
-      "https://news.ycombinator.com/item?id=36557122"
-    ],
-    [
-      "China Has $3T of ‘Hidden’ Currency Reserves, Setser Says",
-      "https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says"
-    ]
-  ],
-  [
-    [
       "2023-07-02, 01:02:00",
       "https://news.ycombinator.com/item?id=36557077"
     ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36556436"
     ],
     [
-      "git-landmine – create local malicious Git repo",
+      "Git-landmine – Create local malicious Git repo",
       "https://github.com/jwilk/git-landmine"
     ]
   ],
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2023-07-01, 17:43:20",
+      "https://news.ycombinator.com/item?id=36552748"
+    ],
+    [
+      "Nadezhda Khvoshchinskaya, a great Russian writer of the nineteenth century",
+      "https://www.full-stop.net/2023/06/27/interviews/annaberman/noraseligmanfavorov/"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 16:39:58",
       "https://news.ycombinator.com/item?id=36551941"
     ],
@@ -207,16 +217,6 @@
     [
       "Wazero: Zero dependency WebAssembly runtime written in Go",
       "https://wazero.io/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 15:39:30",
-      "https://news.ycombinator.com/item?id=36551255"
-    ],
-    [
-      "Rust on Espressif chips",
-      "https://mabez.dev/blog/posts/esp-rust-30-06-2023/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36519467"
     ],
     [
-      "A Compressed Indexable Bitset",
+      "A compressed indexable bitset",
       "https://quickwit.io/blog/compressed-indexable-bitset/"
     ]
   ]
