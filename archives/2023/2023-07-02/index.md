@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
 * [2023-07-02, 10:36:18](https://news.ycombinator.com/item?id=36560162) - [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
+* [2023-07-02, 10:29:55](https://news.ycombinator.com/item?id=36560136) - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 07:45:23](https://news.ycombinator.com/item?id=36559258) - [Ask HN: Could an oxygen concentrator increase my productivity?](https://news.ycombinator.com/item?id=36559258)

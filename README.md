@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-02, 10:36:18](https://news.ycombinator.com/item?id=36560162) - [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
+* [2023-07-02, 10:29:55](https://news.ycombinator.com/item?id=36560136) - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [A Functional Introduction To Computer Science](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
@@ -29,7 +30,6 @@
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Far Cry 1.34 source code (2006)](https://archive.org/details/far-cry-1.34-complete)
 * [2023-06-29, 20:10:23](https://news.ycombinator.com/item?id=36526023) - [Video: Power LED Attack [video]](https://www.youtube.com/watch?v=vXe8pe18MNk)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
-* [2023-06-29, 06:52:53](https://news.ycombinator.com/item?id=36517238) - [YouTube is testing a more aggressive approach against ad blockers](https://www.androidpolice.com/youtube-ad-blockers-three-strikes/)
 
 ## [Archives](archives/index.md)
 
