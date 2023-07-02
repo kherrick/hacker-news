@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 15:36:09",
+      "https://news.ycombinator.com/item?id=36562433"
+    ],
+    [
+      "Embattled physicist files patent for unprecedented ambient superconductor",
+      "https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 15:01:54",
       "https://news.ycombinator.com/item?id=36562056"
     ],
@@ -117,16 +127,6 @@
     [
       "Flattening ASTs and other compiler data structures",
       "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 07:45:04",
-      "https://news.ycombinator.com/item?id=36559254"
-    ],
-    [
-      "Breaking Up with SVG-in-JS in 2023",
-      "https://kurtextrem.de/posts/svg-in-js"
     ]
   ],
   [
