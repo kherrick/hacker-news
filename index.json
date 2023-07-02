@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-02, 06:21:05",
+      "https://news.ycombinator.com/item?id=36558794"
+    ],
+    [
+      "Ask HN: Why aren't modern programming languages, like Rust, more legible?",
+      "https://news.ycombinator.com/item?id=36558794"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 06:14:31",
       "https://news.ycombinator.com/item?id=36558759"
     ],
@@ -151,6 +161,26 @@
   ],
   [
     [
+      "2023-07-01, 20:03:31",
+      "https://news.ycombinator.com/item?id=36554484"
+    ],
+    [
+      "Serverless to monolith – Should serverless lovers be worried?",
+      "https://beabetterdev.com/2023/05/20/serverless-to-monolith-should-serverless-lovers-be-worried/"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 19:50:05",
+      "https://news.ycombinator.com/item?id=36554321"
+    ],
+    [
+      "GPU accelerated SMT constraint solving (2021)",
+      "https://blog.osiris.cyber.nyu.edu/2021/01/11/gpu-accelerated-smt-constraint-solving/"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 19:36:09",
       "https://news.ycombinator.com/item?id=36554172"
     ],
@@ -167,16 +197,6 @@
     [
       "Twitter Is DDOSing Itself",
       "https://sfba.social/@sysop408/110639435788921057"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 17:49:52",
-      "https://news.ycombinator.com/item?id=36552844"
-    ],
-    [
-      "The complex history of the Intel i960 RISC processor",
-      "http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html"
     ]
   ],
   [
@@ -201,32 +221,22 @@
   ],
   [
     [
-      "2023-07-01, 16:39:58",
-      "https://news.ycombinator.com/item?id=36551941"
-    ],
-    [
-      "SpaceX rocket launches Euclid space telescope to map the 'dark universe'",
-      "https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 16:09:25",
-      "https://news.ycombinator.com/item?id=36551617"
-    ],
-    [
-      "Wazero: Zero dependency WebAssembly runtime written in Go",
-      "https://wazero.io/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 14:41:56",
       "https://news.ycombinator.com/item?id=36550615"
     ],
     [
       "How to Do Great Work",
       "http://paulgraham.com/greatwork.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 13:00:17",
+      "https://news.ycombinator.com/item?id=36549637"
+    ],
+    [
+      "VUDA: A Vulkan Implementation of CUDA",
+      "https://github.com/jgbit/vuda"
     ]
   ],
   [
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-07-01, 12:06:29",
-      "https://news.ycombinator.com/item?id=36549218"
-    ],
-    [
-      "The problem with federated web apps",
-      "https://www.devever.net/~hl/webappcoupling"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 10:41:43",
       "https://news.ycombinator.com/item?id=36548684"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2023-06-30, 12:51:08",
-      "https://news.ycombinator.com/item?id=36533947"
+      "2023-07-01, 07:54:36",
+      "https://news.ycombinator.com/item?id=36547801"
     ],
     [
-      "Systems Programming with Racket",
-      "https://docs.racket-lang.org/more/index.html"
+      "Far Cry 1.34 source code (2006)",
+      "https://archive.org/details/far-cry-1.34-complete"
     ]
   ],
   [
