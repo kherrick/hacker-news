@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-02, 16:01:41",
+      "https://news.ycombinator.com/item?id=36562727"
+    ],
+    [
+      "It's 2023 and memory overwrite bugs are not just a thing theyre still number one",
+      "https://www.theregister.com/2023/06/29/cwe_top_25_2023/"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 15:45:57",
+      "https://news.ycombinator.com/item?id=36562558"
+    ],
+    [
+      "San Francisco may soon get 24/7 driverless cabs. City leaders are fuming",
+      "https://www.washingtonpost.com/technology/2023/07/01/san-francisco-self-driving-taxi-waymo-cruise/"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 15:40:53",
+      "https://news.ycombinator.com/item?id=36562502"
+    ],
+    [
+      "Stanford A.I. Courses",
+      "https://ai.stanford.edu/courses/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 15:36:09",
       "https://news.ycombinator.com/item?id=36562433"
     ],
@@ -51,12 +81,12 @@
   ],
   [
     [
-      "2023-07-02, 13:11:26",
-      "https://news.ycombinator.com/item?id=36561166"
+      "2023-07-02, 14:34:58",
+      "https://news.ycombinator.com/item?id=36561847"
     ],
     [
-      "/u/spez is right about feudalism and that's why Reddit is doomed",
-      "https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html"
+      "Alt-F4 #65 – Factorio visualizer in Unreal Engine 5",
+      "https://alt-f4.blog/ALTF4-65/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "Google Sidewiki",
       "https://en.wikipedia.org/wiki/Google_Sidewiki"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 12:24:15",
+      "https://news.ycombinator.com/item?id=36560815"
+    ],
+    [
+      "Delve: A Solo Map Drawing Game",
+      "https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2023-07-02, 07:45:04",
-      "https://news.ycombinator.com/item?id=36559254"
-    ],
-    [
-      "Breaking Up with SVG-in-JS in 2023",
-      "https://kurtextrem.de/posts/svg-in-js"
-    ]
-  ],
-  [
-    [
       "2023-07-02, 07:04:25",
       "https://news.ycombinator.com/item?id=36559030"
     ],
@@ -187,16 +217,6 @@
     [
       "A Look at Bluesky",
       "https://juliette.page/blog/bluesky.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 01:34:55",
-      "https://news.ycombinator.com/item?id=36557287"
-    ],
-    [
-      "After September 1, 2023, all Gfycat content and data will be deleted",
-      "https://gfycat.com/"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-07-01, 12:16:05",
-      "https://news.ycombinator.com/item?id=36549277"
-    ],
-    [
-      "Pixel-Perfect retro gaming on LCD 480p EDTVs",
-      "https://blog.gingerbeardman.com/2021/05/06/pixel-perfect-retro-gaming-in-480p/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 10:41:43",
       "https://news.ycombinator.com/item?id=36548684"
     ],
@@ -287,16 +297,6 @@
     [
       "Shifting views about psychedelic drugs require a new category for them",
       "https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 06:52:53",
-      "https://news.ycombinator.com/item?id=36517238"
-    ],
-    [
-      "YouTube is testing a more aggressive approach against ad blockers",
-      "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
     ]
   ]
 ]
