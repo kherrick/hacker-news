@@ -20,6 +20,7 @@
 * [2023-07-02, 07:45:23](https://news.ycombinator.com/item?id=36559258) - [Ask HN: Could an oxygen concentrator increase my productivity?](https://news.ycombinator.com/item?id=36559258)
 * [2023-07-02, 07:45:04](https://news.ycombinator.com/item?id=36559254) - [Breaking Up with SVG-in-JS in 2023](https://kurtextrem.de/posts/svg-in-js)
 * [2023-07-02, 07:31:55](https://news.ycombinator.com/item?id=36559165) - [UK retail electricity prices hit -19p/kWh today](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
+* [2023-07-02, 07:06:21](https://news.ycombinator.com/item?id=36559037) - [The Mickey Mouse Copyright Runs Out in 2024 – What That Means for All of Us](https://globaltoynews.com/2023/01/11/the-mickey-mouse-copyright-runs-out-in-2024-what-that-means-for-all-of-us/)
 * [2023-07-02, 07:04:25](https://news.ycombinator.com/item?id=36559030) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 06:21:05](https://news.ycombinator.com/item?id=36558794) - [Ask HN: Why aren't modern programming languages, like Rust, more legible?](https://news.ycombinator.com/item?id=36558794)
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [Course Notes: A Functional Introduction to Computer Science (UWaterloo)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
