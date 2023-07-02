@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-02, 19:07:21",
+      "https://news.ycombinator.com/item?id=36564608"
+    ],
+    [
+      "Why Commuters Prefer Origin to Destination Transfers",
+      "https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 18:41:41",
       "https://news.ycombinator.com/item?id=36564350"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2023-07-02, 12:26:08",
-      "https://news.ycombinator.com/item?id=36560830"
-    ],
-    [
-      "Scope-based resource management for the Linux kernel",
-      "https://lwn.net/Articles/934679/"
-    ]
-  ],
-  [
-    [
       "2023-07-02, 12:24:15",
       "https://news.ycombinator.com/item?id=36560815"
     ],
@@ -227,16 +227,6 @@
     [
       "64bit computing on a budget",
       "https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 10:29:55",
-      "https://news.ycombinator.com/item?id=36560136"
-    ],
-    [
-      "Drastic increase in Tor clients from Germany",
-      "https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Flattening ASTs and other compiler data structures",
       "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 15:19:27",
+      "https://news.ycombinator.com/item?id=36551052"
+    ],
+    [
+      "Lev Landau's “Theoretical Minimum”",
+      "https://physics.stackexchange.com/questions/13861/lev-landaus-theoretical-minimum"
     ]
   ],
   [
