@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
 * [2023-07-02, 18:14:13](https://news.ycombinator.com/item?id=36564042) - [Google Search's Death by a Thousand Cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
+* [2023-07-02, 18:09:29](https://news.ycombinator.com/item?id=36563979) - [AMD CPU Use Among Linux Gamers Approaching 70% Marketshare](https://www.phoronix.com/news/AMD-CPU-Linux-Gaming-67p)
+* [2023-07-02, 18:06:47](https://news.ycombinator.com/item?id=36563956) - [Chinese Tech Terms Explained in English](https://16x.engineer/2022/10/18/chinese-tech-terms.html)
 * [2023-07-02, 17:53:44](https://news.ycombinator.com/item?id=36563815) - [Economic inequality cannot be explained by individual bad choices, study finds](https://phys.org/news/2023-06-economic-inequality-individual-bad-choices.html)
 * [2023-07-02, 17:52:13](https://news.ycombinator.com/item?id=36563796) - [Nim Succession Plan](https://forum.nim-lang.org/t/10312)
 * [2023-07-02, 17:50:30](https://news.ycombinator.com/item?id=36563774) - [Help Request: Laptop, Work, Assistance](https://news.ycombinator.com/item?id=36563774)
