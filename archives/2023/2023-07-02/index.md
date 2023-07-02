@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 10:36:18](https://news.ycombinator.com/item?id=36560162) - [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
+* [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
+* [2023-07-02, 07:45:23](https://news.ycombinator.com/item?id=36559258) - [Ask HN: Could an oxygen concentrator increase my productivity?](https://news.ycombinator.com/item?id=36559258)
 * [2023-07-02, 07:31:55](https://news.ycombinator.com/item?id=36559165) - [UK retail electricity prices hit -19p/kWh today](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
 * [2023-07-02, 06:21:05](https://news.ycombinator.com/item?id=36558794) - [Ask HN: Why aren't modern programming languages, like Rust, more legible?](https://news.ycombinator.com/item?id=36558794)
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [Course Notes: A Functional Introduction to Computer Science (UWaterloo)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
