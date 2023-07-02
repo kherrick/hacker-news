@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36557790"
     ],
     [
-      "The moral behavior of ethics professors: A replication-extension",
+      "The moral behavior of ethics professors: A replication-extension (2018)",
       "https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912"
     ]
   ],
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2023-07-02, 01:07:32",
+      "https://news.ycombinator.com/item?id=36557122"
+    ],
+    [
+      "China Has $3T of ‘Hidden’ Currency Reserves, Setser Says",
+      "https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 01:02:00",
       "https://news.ycombinator.com/item?id=36557077"
     ],
@@ -87,16 +97,6 @@
     [
       "Oregon County Sues BP, Chevron, Shell, Exxon for $51B Climate Damages",
       "https://carboncredits.com/oregon-county-sues-oil-companies-shell-bp-exxon-chevron-for-51b-climate-damages/"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 00:03:53",
-      "https://news.ycombinator.com/item?id=36556668"
-    ],
-    [
-      "Using WebAssembly to turn Rust crates into fast TypeScript libraries",
-      "https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html"
     ]
   ],
   [
@@ -145,18 +145,18 @@
       "https://news.ycombinator.com/item?id=36555507"
     ],
     [
-      "How I changed my D-Link camera from cloud camera to a locally managed IP camera",
+      "How I changed my D-Link camera to a locally managed IP camera",
       "https://github.com/bmork/defogger"
     ]
   ],
   [
     [
-      "2023-07-01, 20:37:06",
-      "https://news.ycombinator.com/item?id=36554909"
+      "2023-07-01, 19:36:09",
+      "https://news.ycombinator.com/item?id=36554172"
     ],
     [
-      "How to 1.5x your salary through negotiation",
-      "https://careercutler.substack.com/p/how-you-can-15x-your-salary-through"
+      "Jak 2 Playable with OpenGOAL",
+      "https://opengoal.dev/blog/progress-report-june-2023/"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2023-07-01, 17:07:50",
+      "https://news.ycombinator.com/item?id=36552242"
+    ],
+    [
+      "Patent medicines and the history of cocaine (2020)",
+      "https://histmed.collegeofphysicians.org/patent-medicines/"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 16:39:58",
       "https://news.ycombinator.com/item?id=36551941"
     ],
@@ -197,6 +207,16 @@
     [
       "Wazero: Zero dependency WebAssembly runtime written in Go",
       "https://wazero.io/"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 15:39:30",
+      "https://news.ycombinator.com/item?id=36551255"
+    ],
+    [
+      "Rust on Espressif chips",
+      "https://mabez.dev/blog/posts/esp-rust-30-06-2023/"
     ]
   ],
   [
@@ -235,28 +255,8 @@
       "https://news.ycombinator.com/item?id=36548684"
     ],
     [
-      "It’s hard to give a good intuitive explanation for the volume of a cone",
+      "Why is the volume of a cone one third of the volume of a cylinder? (2010)",
       "https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 07:53:58",
-      "https://news.ycombinator.com/item?id=36547798"
-    ],
-    [
-      "The unsolved mystery of the Brinks jewelry heist",
-      "https://www.bloomberg.com/features/2023-brinks-jewelry-heist/"
-    ]
-  ],
-  [
-    [
-      "2023-06-30, 13:11:14",
-      "https://news.ycombinator.com/item?id=36534210"
-    ],
-    [
-      "'ghost particle' image of Milky Way captured: Neutrinos detected by IceCube",
-      "https://phys.org/news/2023-06-ghost-particle-image-milky-galaxy.html"
     ]
   ],
   [
