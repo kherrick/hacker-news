@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
 * [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+* [2023-07-02, 16:57:37](https://news.ycombinator.com/item?id=36563284) - [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
 * [2023-07-02, 16:48:00](https://news.ycombinator.com/item?id=36563187) - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/)
+* [2023-07-02, 16:43:00](https://news.ycombinator.com/item?id=36563130) - [Tesla Gives New UK Owners a ‘Reacher’ Stick to Deal with Left-Hand Drive Cars](https://www.carscoops.com/2023/06/tesla-seriously-gives-uk-owners-reacher-stick-after-cancelling-right-hand-drive-cars/)
 * [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
 * [2023-07-02, 16:03:59](https://news.ycombinator.com/item?id=36562757) - [Make Your Renders Unnecessarily Complicated by Modeling a Film Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
 * [2023-07-02, 16:02:36](https://news.ycombinator.com/item?id=36562739) - [Aspartame: Once More Unto the Breach](https://dynomight.net/aspartame/)
@@ -19,6 +21,7 @@
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 14:41:32](https://news.ycombinator.com/item?id=36561897) - [A curated list of Emacs Lisp development resources](https://github.com/p3r7/awesome-elisp)
 * [2023-07-02, 14:40:00](https://news.ycombinator.com/item?id=36561888) - [Will Texas become too hot for humans?](https://www.bbc.com/future/article/20230630-will-texas-become-too-hot-for-humans)
+* [2023-07-02, 14:37:29](https://news.ycombinator.com/item?id=36561867) - [Show HN: bigwav.app – Transcription and Annotation using just a web browser](https://bigwav.app)
 * [2023-07-02, 14:34:58](https://news.ycombinator.com/item?id=36561847) - [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
 * [2023-07-02, 14:32:04](https://news.ycombinator.com/item?id=36561827) - [Before Xerox, there was Addressograph](https://pncnmnp.github.io/blogs/addressograph.html)
 * [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
