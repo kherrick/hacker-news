@@ -42,6 +42,7 @@
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
 * [2023-07-01, 14:29:11](https://news.ycombinator.com/item?id=36550493) - [The Mystery of Crime-Scene Dust](https://daily.jstor.org/the-mystery-of-crime-scene-dust/)
+* [2023-07-01, 14:17:58](https://news.ycombinator.com/item?id=36550379) - [Multimodal Interaction: A Review [pdf]](https://sites.cs.ucsb.edu/~mturk/Papers/TurkPRL2013.pdf)
 * [2023-07-01, 13:59:25](https://news.ycombinator.com/item?id=36550184) - [Few lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
 * [2023-07-01, 13:59:00](https://news.ycombinator.com/item?id=36550180) - [Share of 40-year-olds in US who have never married reaches new high](https://www.pewresearch.org/short-reads/2023/06/28/a-record-high-share-of-40-year-olds-in-the-us-have-never-been-married/)
 * [2023-07-01, 13:58:37](https://news.ycombinator.com/item?id=36550174) - [What's up in the Python community? – June 2023](https://www.bitecode.dev/p/whats-up-in-the-python-community-98e)

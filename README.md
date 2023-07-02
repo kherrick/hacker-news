@@ -16,7 +16,6 @@
 * [2023-07-02, 16:57:37](https://news.ycombinator.com/item?id=36563284) - [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
 * [2023-07-02, 16:25:47](https://news.ycombinator.com/item?id=36562958) - [Designing the First Apple Macintosh: The Engineers’ Story (1984)](https://spectrum.ieee.org/apple-macintosh)
 * [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
-* [2023-07-02, 15:46:13](https://news.ycombinator.com/item?id=36562561) - [The Mysterious Airships of 1896-97 (2014)](https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97)
 * [2023-07-02, 15:40:53](https://news.ycombinator.com/item?id=36562502) - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
 * [2023-07-02, 15:36:04](https://news.ycombinator.com/item?id=36562432) - [A toy programming language in 137 lines of Python code](https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python)
 * [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
@@ -28,6 +27,7 @@
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-01, 15:19:27](https://news.ycombinator.com/item?id=36551052) - [Lev Landau's “Theoretical Minimum”](https://physics.stackexchange.com/questions/13861/lev-landaus-theoretical-minimum)
+* [2023-07-01, 14:17:58](https://news.ycombinator.com/item?id=36550379) - [Multimodal Interaction: A Review [pdf]](https://sites.cs.ucsb.edu/~mturk/Papers/TurkPRL2013.pdf)
 * [2023-07-01, 13:00:48](https://news.ycombinator.com/item?id=36549640) - [Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)
 * [2023-06-28, 14:58:48](https://news.ycombinator.com/item?id=36507423) - [2,200 forgotten vintage computers from a barn in Massachusetts](https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts)
 
