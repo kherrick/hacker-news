@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-02, 06:21:05",
-      "https://news.ycombinator.com/item?id=36558794"
-    ],
-    [
-      "Ask HN: Why aren't modern programming languages, like Rust, more legible?",
-      "https://news.ycombinator.com/item?id=36558794"
-    ]
-  ],
-  [
-    [
       "2023-07-02, 06:14:31",
       "https://news.ycombinator.com/item?id=36558759"
     ],
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2023-07-01, 19:36:09",
-      "https://news.ycombinator.com/item?id=36554172"
-    ],
-    [
-      "Jak 2 Playable with OpenGOAL",
-      "https://opengoal.dev/blog/progress-report-june-2023/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 18:17:21",
       "https://news.ycombinator.com/item?id=36553236"
     ],
@@ -237,6 +217,16 @@
     [
       "VUDA: A Vulkan Implementation of CUDA",
       "https://github.com/jgbit/vuda"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 12:16:05",
+      "https://news.ycombinator.com/item?id=36549277"
+    ],
+    [
+      "Pixel-Perfect retro gaming on LCD 480p EDTVs",
+      "https://blog.gingerbeardman.com/2021/05/06/pixel-perfect-retro-gaming-in-480p/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "A compressed indexable bitset",
       "https://quickwit.io/blog/compressed-indexable-bitset/"
+    ]
+  ],
+  [
+    [
+      "2023-06-29, 06:52:53",
+      "https://news.ycombinator.com/item?id=36517238"
+    ],
+    [
+      "YouTube is testing a more aggressive approach against ad blockers",
+      "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
     ]
   ]
 ]
