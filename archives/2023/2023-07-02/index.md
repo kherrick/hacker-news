@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 16:01:41](https://news.ycombinator.com/item?id=36562727) - [It's 2023 and memory overwrite bugs are not just a thing theyre still number one](https://www.theregister.com/2023/06/29/cwe_top_25_2023/)
+* [2023-07-02, 15:45:57](https://news.ycombinator.com/item?id=36562558) - [San Francisco may soon get 24/7 driverless cabs. City leaders are fuming](https://www.washingtonpost.com/technology/2023/07/01/san-francisco-self-driving-taxi-waymo-cruise/)
+* [2023-07-02, 15:40:53](https://news.ycombinator.com/item?id=36562502) - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
 * [2023-07-02, 15:36:09](https://news.ycombinator.com/item?id=36562433) - [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
 * [2023-07-02, 15:01:54](https://news.ycombinator.com/item?id=36562056) - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
 * [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
@@ -14,6 +17,7 @@
 * [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 * [2023-07-02, 12:49:35](https://news.ycombinator.com/item?id=36561004) - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
 * [2023-07-02, 12:41:27](https://news.ycombinator.com/item?id=36560937) - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
+* [2023-07-02, 12:24:15](https://news.ycombinator.com/item?id=36560815) - [Delve: A Solo Map Drawing Game](https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game)
 * [2023-07-02, 12:19:22](https://news.ycombinator.com/item?id=36560769) - [Tackling America's weirdly short life expectancy should be a priority](https://www.slowboring.com/p/tackling-americas-weirdly-short-life)
 * [2023-07-02, 11:07:36](https://news.ycombinator.com/item?id=36560310) - [Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035](https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html)
 * [2023-07-02, 10:56:43](https://news.ycombinator.com/item?id=36560254) - [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
