@@ -24,6 +24,7 @@
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-01, 17:14:08](https://news.ycombinator.com/item?id=36552324) - [Confirmed: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)
+* [2023-07-01, 17:07:50](https://news.ycombinator.com/item?id=36552242) - [Patent medicines and the history of cocaine (2020)](https://histmed.collegeofphysicians.org/patent-medicines/)
 * [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) Is Hiring #3 Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36552170)
 * [2023-07-01, 16:47:15](https://news.ycombinator.com/item?id=36552015) - [The first Oxide rack being prepared for customer shipment](https://hachyderm.io/@oxidecomputer/110635621269494973)
 * [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
