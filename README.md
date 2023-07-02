@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 * [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
 * [2023-07-02, 16:57:37](https://news.ycombinator.com/item?id=36563284) - [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
 * [2023-07-02, 16:48:00](https://news.ycombinator.com/item?id=36563187) - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/)
@@ -26,7 +27,6 @@
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 07:04:25](https://news.ycombinator.com/item?id=36559030) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
-* [2023-07-02, 02:44:18](https://news.ycombinator.com/item?id=36557679) - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [2023-07-01, 11:35:10](https://news.ycombinator.com/item?id=36549018) - [Origin Stories: Plantations, Computers, and Industrial Control](https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/)
 * [2023-07-01, 10:41:43](https://news.ycombinator.com/item?id=36548684) - [Why is the volume of a cone one third of the volume of a cylinder? (2010)](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
 * [2023-07-01, 08:14:25](https://news.ycombinator.com/item?id=36547928) - [Working Ternary ALU (2019)](https://louis-dr.github.io/ternalu3.html)
