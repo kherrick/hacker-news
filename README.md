@@ -2,7 +2,6 @@
 
 * [2023-07-02, 05:10:03](https://news.ycombinator.com/item?id=36558428) - [Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
 * [2023-07-02, 03:46:33](https://news.ycombinator.com/item?id=36558032) - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
-* [2023-07-02, 03:32:57](https://news.ycombinator.com/item?id=36557974) - [The Titan Submersible Was “An Accident Waiting to Happen”](https://www.newyorker.com/news/a-reporter-at-large/the-titan-submersible-was-an-accident-waiting-to-happen)
 * [2023-07-02, 03:05:19](https://news.ycombinator.com/item?id=36557819) - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
 * [2023-07-02, 03:01:24](https://news.ycombinator.com/item?id=36557790) - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 * [2023-07-02, 01:50:34](https://news.ycombinator.com/item?id=36557378) - [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
@@ -26,6 +25,7 @@
 * [2023-07-01, 12:06:29](https://news.ycombinator.com/item?id=36549218) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 10:41:43](https://news.ycombinator.com/item?id=36548684) - [It’s hard to give a good intuitive explanation for the volume of a cone](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
 * [2023-07-01, 07:53:58](https://news.ycombinator.com/item?id=36547798) - [The unsolved mystery of the Brinks jewelry heist](https://www.bloomberg.com/features/2023-brinks-jewelry-heist/)
+* [2023-06-30, 16:43:33](https://news.ycombinator.com/item?id=36538126) - [Confessions of a Book Reviewer (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/confessions-of-a-book-reviewer/)
 * [2023-06-30, 13:11:14](https://news.ycombinator.com/item?id=36534210) - ['ghost particle' image of Milky Way captured: Neutrinos detected by IceCube](https://phys.org/news/2023-06-ghost-particle-image-milky-galaxy.html)
 * [2023-06-30, 12:51:08](https://news.ycombinator.com/item?id=36533947) - [Systems Programming with Racket](https://docs.racket-lang.org/more/index.html)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
