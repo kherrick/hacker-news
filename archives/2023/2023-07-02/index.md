@@ -13,6 +13,7 @@
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 09:48:02](https://news.ycombinator.com/item?id=36559929) - [Wayland on NixOS: Confusion, Conquest, Triumph](https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph)
 * [2023-07-02, 08:53:29](https://news.ycombinator.com/item?id=36559630) - [Moneyball for Software Teams: Quantifying Dev Performance](https://software.rajivprab.com/2023/07/01/moneyball-for-software-teams/)
+* [2023-07-02, 08:07:15](https://news.ycombinator.com/item?id=36559370) - [Neuronal wiring diagram of an adult brain](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 07:45:23](https://news.ycombinator.com/item?id=36559258) - [Ask HN: Could an oxygen concentrator increase my productivity?](https://news.ycombinator.com/item?id=36559258)
 * [2023-07-02, 07:45:04](https://news.ycombinator.com/item?id=36559254) - [Breaking Up with SVG-in-JS in 2023](https://kurtextrem.de/posts/svg-in-js)
