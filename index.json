@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-07-02, 10:36:18",
+      "https://news.ycombinator.com/item?id=36560162"
+    ],
+    [
+      "SoundCloud has begun blocking Datacenter IPs",
+      "https://twitter.com/sickcodes/status/1675315768236576769"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 10:23:50",
+      "https://news.ycombinator.com/item?id=36560104"
+    ],
+    [
+      "Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]",
+      "https://www.youtube.com/watch?v=DxL2HoqLbyA"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 08:03:13",
       "https://news.ycombinator.com/item?id=36559346"
     ],
     [
       "Flattening ASTs (and Other Compiler Data Structures)",
       "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 07:45:23",
+      "https://news.ycombinator.com/item?id=36559258"
+    ],
+    [
+      "Ask HN: Could an oxygen concentrator increase my productivity?",
+      "https://news.ycombinator.com/item?id=36559258"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2023-07-01, 21:08:29",
-      "https://news.ycombinator.com/item?id=36555246"
-    ],
-    [
-      "Jef Raskin's writings: “Holes in the Histories” (1994)",
-      "https://digibarn.com/friends/jef-raskin/writings/holes.html"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 20:03:31",
       "https://news.ycombinator.com/item?id=36554484"
     ],
@@ -187,16 +207,6 @@
     [
       "Nadezhda Khvoshchinskaya, a great Russian writer of the nineteenth century",
       "https://www.full-stop.net/2023/06/27/interviews/annaberman/noraseligmanfavorov/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 16:47:15",
-      "https://news.ycombinator.com/item?id=36552015"
-    ],
-    [
-      "The first Oxide rack being prepared for customer shipment",
-      "https://hachyderm.io/@oxidecomputer/110635621269494973"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Shifting views about psychedelic drugs require a new category for them",
       "https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 12:26:19",
-      "https://news.ycombinator.com/item?id=36519467"
-    ],
-    [
-      "A compressed indexable bitset",
-      "https://quickwit.io/blog/compressed-indexable-bitset/"
     ]
   ],
   [
