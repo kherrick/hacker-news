@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-01](index.md)
 
+* [2023-07-01, 23:50:42](https://news.ycombinator.com/item?id=36556575) - [Regional Handwriting Variation](https://en.wikipedia.org/wiki/Regional_handwriting_variation)
 * [2023-07-01, 23:28:47](https://news.ycombinator.com/item?id=36556436) - [git-landmine – create local malicious Git repo](https://github.com/jwilk/git-landmine)
 * [2023-07-01, 23:11:14](https://news.ycombinator.com/item?id=36556293) - [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
 * [2023-07-01, 23:06:29](https://news.ycombinator.com/item?id=36556261) - [Beyond Markdown](https://johnmacfarlane.net/beyond-markdown.html)
