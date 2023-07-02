@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
+* [2023-07-02, 14:40:00](https://news.ycombinator.com/item?id=36561888) - [Will Texas become too hot for humans?](https://www.bbc.com/future/article/20230630-will-texas-become-too-hot-for-humans)
 * [2023-07-02, 14:34:58](https://news.ycombinator.com/item?id=36561847) - [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
 * [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 * [2023-07-02, 12:49:35](https://news.ycombinator.com/item?id=36561004) - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
