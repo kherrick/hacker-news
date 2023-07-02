@@ -6,6 +6,7 @@
 
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 07:31:55](https://news.ycombinator.com/item?id=36559165) - [UK retail electricity prices hit -19p/kWh today](https://github.com/jonatron/randomstuff/blob/main/agile_prices.png)
+* [2023-07-02, 06:21:05](https://news.ycombinator.com/item?id=36558794) - [Ask HN: Why aren't modern programming languages, like Rust, more legible?](https://news.ycombinator.com/item?id=36558794)
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [Course Notes: A Functional Introduction to Computer Science (UWaterloo)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 * [2023-07-02, 05:10:03](https://news.ycombinator.com/item?id=36558428) - [Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
 * [2023-07-02, 05:08:40](https://news.ycombinator.com/item?id=36558414) - [Decoy Defenses: How Honeypots Sweeten Cybersecurity Strategies](https://www.thefinalhop.com/decoy-defenses-how-honeypots-sweeten-cybersecurity-strategies/)
