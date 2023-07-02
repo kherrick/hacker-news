@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-02, 17:00:08",
+      "https://news.ycombinator.com/item?id=36563303"
+    ],
+    [
+      "HockeyStack (YC S23) Is Hiring Founding Engineers",
+      "https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 16:48:00",
+      "https://news.ycombinator.com/item?id=36563187"
+    ],
+    [
+      "Are You Sure You Want to Use MMAP in Your Database Management System?",
+      "https://db.cs.cmu.edu/mmap-cidr2022/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 16:15:54",
       "https://news.ycombinator.com/item?id=36562868"
     ],
@@ -47,16 +67,6 @@
     [
       "Stanford A.I. Courses",
       "https://ai.stanford.edu/courses/"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 15:36:09",
-      "https://news.ycombinator.com/item?id=36562433"
-    ],
-    [
-      "Embattled physicist files patent for unprecedented ambient superconductor",
-      "https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor"
     ]
   ],
   [
@@ -137,6 +147,16 @@
     [
       "Google Sidewiki",
       "https://en.wikipedia.org/wiki/Google_Sidewiki"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 12:26:08",
+      "https://news.ycombinator.com/item?id=36560830"
+    ],
+    [
+      "Scope-based resource management for the Linux kernel",
+      "https://lwn.net/Articles/934679/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2023-07-02, 01:50:34",
-      "https://news.ycombinator.com/item?id=36557378"
-    ],
-    [
-      "A Look at Bluesky",
-      "https://juliette.page/blog/bluesky.html"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 19:50:05",
       "https://news.ycombinator.com/item?id=36554321"
     ],
@@ -287,16 +297,6 @@
     [
       "Video: Power LED Attack [video]",
       "https://www.youtube.com/watch?v=vXe8pe18MNk"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 17:54:46",
-      "https://news.ycombinator.com/item?id=36524122"
-    ],
-    [
-      "Shifting views about psychedelic drugs require a new category for them",
-      "https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/"
     ]
   ]
 ]
