@@ -9,6 +9,7 @@
 * [2023-07-02, 16:57:37](https://news.ycombinator.com/item?id=36563284) - [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
 * [2023-07-02, 16:48:00](https://news.ycombinator.com/item?id=36563187) - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/)
 * [2023-07-02, 16:43:00](https://news.ycombinator.com/item?id=36563130) - [Tesla Gives New UK Owners a ‘Reacher’ Stick to Deal with Left-Hand Drive Cars](https://www.carscoops.com/2023/06/tesla-seriously-gives-uk-owners-reacher-stick-after-cancelling-right-hand-drive-cars/)
+* [2023-07-02, 16:25:47](https://news.ycombinator.com/item?id=36562958) - [Designing the First Apple Macintosh: The Engineers’ Story](https://spectrum.ieee.org/apple-macintosh)
 * [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
 * [2023-07-02, 16:03:59](https://news.ycombinator.com/item?id=36562757) - [Make Your Renders Unnecessarily Complicated by Modeling a Film Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
 * [2023-07-02, 16:02:36](https://news.ycombinator.com/item?id=36562739) - [Aspartame: Once More Unto the Breach](https://dynomight.net/aspartame/)
