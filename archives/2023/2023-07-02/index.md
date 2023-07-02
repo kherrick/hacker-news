@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+* [2023-07-02, 16:48:00](https://news.ycombinator.com/item?id=36563187) - [Are You Sure You Want to Use MMAP in Your Database Management System?](https://db.cs.cmu.edu/mmap-cidr2022/)
 * [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
 * [2023-07-02, 16:03:59](https://news.ycombinator.com/item?id=36562757) - [Make Your Renders Unnecessarily Complicated by Modeling a Film Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
 * [2023-07-02, 16:02:36](https://news.ycombinator.com/item?id=36562739) - [Aspartame: Once More Unto the Breach](https://dynomight.net/aspartame/)
@@ -22,6 +24,7 @@
 * [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 * [2023-07-02, 12:49:35](https://news.ycombinator.com/item?id=36561004) - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
 * [2023-07-02, 12:41:27](https://news.ycombinator.com/item?id=36560937) - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
+* [2023-07-02, 12:26:08](https://news.ycombinator.com/item?id=36560830) - [Scope-based resource management for the Linux kernel](https://lwn.net/Articles/934679/)
 * [2023-07-02, 12:24:15](https://news.ycombinator.com/item?id=36560815) - [Delve: A Solo Map Drawing Game](https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game)
 * [2023-07-02, 12:19:22](https://news.ycombinator.com/item?id=36560769) - [Tackling America's weirdly short life expectancy should be a priority](https://www.slowboring.com/p/tackling-americas-weirdly-short-life)
 * [2023-07-02, 11:07:36](https://news.ycombinator.com/item?id=36560310) - [Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035](https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html)
