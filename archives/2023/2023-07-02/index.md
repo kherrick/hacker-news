@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 * [2023-07-02, 12:49:35](https://news.ycombinator.com/item?id=36561004) - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
 * [2023-07-02, 12:41:27](https://news.ycombinator.com/item?id=36560937) - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
 * [2023-07-02, 11:07:36](https://news.ycombinator.com/item?id=36560310) - [Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035](https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 * [2023-07-02, 12:49:35](https://news.ycombinator.com/item?id=36561004) - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
 * [2023-07-02, 12:41:27](https://news.ycombinator.com/item?id=36560937) - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
 * [2023-07-02, 10:56:43](https://news.ycombinator.com/item?id=36560254) - [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
@@ -7,7 +8,6 @@
 * [2023-07-02, 10:29:55](https://news.ycombinator.com/item?id=36560136) - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 09:48:02](https://news.ycombinator.com/item?id=36559929) - [Wayland on NixOS: Confusion, Conquest, Triumph](https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph)
-* [2023-07-02, 08:53:29](https://news.ycombinator.com/item?id=36559630) - [Moneyball for Software Teams: Quantifying Dev Performance](https://software.rajivprab.com/2023/07/01/moneyball-for-software-teams/)
 * [2023-07-02, 08:07:15](https://news.ycombinator.com/item?id=36559370) - [Neuronal wiring diagram of an adult brain](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 07:45:04](https://news.ycombinator.com/item?id=36559254) - [Breaking Up with SVG-in-JS in 2023](https://kurtextrem.de/posts/svg-in-js)
