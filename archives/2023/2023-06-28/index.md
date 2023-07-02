@@ -44,6 +44,7 @@
 * [2023-06-28, 16:05:21](https://news.ycombinator.com/item?id=36508477) - [A trick to eliminate 2π (sometimes)](https://marci.gunyho.com/theta.html)
 * [2023-06-28, 15:16:19](https://news.ycombinator.com/item?id=36507707) - [Proton Pass end-to-end encrypted password manager is here and free for everyone](https://9to5mac.com/2023/06/28/proton-pass-encrypted-password-manager-free/)
 * [2023-06-28, 15:12:45](https://news.ycombinator.com/item?id=36507648) - [Construct's New WebGPU Renderer](https://www.construct.net/en/blogs/construct-official-blog-1/introducing-constructs-new-1768)
+* [2023-06-28, 14:58:48](https://news.ycombinator.com/item?id=36507423) - [2,200 forgotten vintage computers from a barn in Massachusetts](https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts)
 * [2023-06-28, 14:30:39](https://news.ycombinator.com/item?id=36507031) - [The Secretive Surveillance Wizards Helping ICE Wiretap Facebook and Google Users](https://www.forbes.com/sites/thomasbrewster/2022/02/23/meet-the-secretive-surveillance-wizards-helping-the-fbi-and-ice-wiretap-facebook-and-google-users/)
 * [2023-06-28, 14:28:43](https://news.ycombinator.com/item?id=36507010) - [The idea maze for AI startups (2015)](https://cdixon.org/2015/02/01/the-ai-startup-idea-maze/)
 * [2023-06-28, 14:23:36](https://news.ycombinator.com/item?id=36506944) - [Do Warmer Temperatures Make Turtles Better Mothers?](https://today.duke.edu/2023/06/do-warmer-temperatures-make-turtles-better-mothers)

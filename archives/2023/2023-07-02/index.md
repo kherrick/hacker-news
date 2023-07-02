@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
 * [2023-07-02, 20:32:25](https://news.ycombinator.com/item?id=36565378) - [43% of white Harvard students are legacy, athletes, related to donors or staff](https://www.nbcnews.com/news/us-news/study-harvard-finds-43-percent-white-students-are-legacy-athletes-n1060361)
 * [2023-07-02, 20:16:35](https://news.ycombinator.com/item?id=36565225) - [Googling for answers costs you time](https://prashanth.world/seo-ruining-programming-help/)
 * [2023-07-02, 19:30:07](https://news.ycombinator.com/item?id=36564810) - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
