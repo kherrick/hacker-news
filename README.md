@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 12:49:35](https://news.ycombinator.com/item?id=36561004) - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
 * [2023-07-02, 12:41:27](https://news.ycombinator.com/item?id=36560937) - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
 * [2023-07-02, 10:56:43](https://news.ycombinator.com/item?id=36560254) - [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
 * [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [64bit computing on a budget](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
@@ -16,7 +17,6 @@
 * [2023-07-02, 01:50:34](https://news.ycombinator.com/item?id=36557378) - [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
 * [2023-07-02, 01:34:55](https://news.ycombinator.com/item?id=36557287) - [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
 * [2023-07-02, 01:02:00](https://news.ycombinator.com/item?id=36557077) - [Intro to Cryptography [pdf] (2011)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
-* [2023-07-02, 00:28:03](https://news.ycombinator.com/item?id=36556844) - [Oregon County Sues BP, Chevron, Shell, Exxon for $51B Climate Damages](https://carboncredits.com/oregon-county-sues-oil-companies-shell-bp-exxon-chevron-for-51b-climate-damages/)
 * [2023-07-01, 23:28:47](https://news.ycombinator.com/item?id=36556436) - [Git-landmine – Create local malicious Git repo](https://github.com/jwilk/git-landmine)
 * [2023-07-01, 23:11:14](https://news.ycombinator.com/item?id=36556293) - [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
 * [2023-07-01, 23:06:29](https://news.ycombinator.com/item?id=36556261) - [Beyond Markdown (2018)](https://johnmacfarlane.net/beyond-markdown.html)
