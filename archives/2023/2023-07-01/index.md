@@ -50,6 +50,7 @@
 * [2023-07-01, 12:28:13](https://news.ycombinator.com/item?id=36549376) - [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
 * [2023-07-01, 12:22:43](https://news.ycombinator.com/item?id=36549324) - [Show HN: Timechief – My Smartclock Project](https://jmorrice.dev/post/timechief-july-2023-device-update/)
 * [2023-07-01, 12:19:13](https://news.ycombinator.com/item?id=36549299) - [ChatGPT is now a brilliant tool for winding up telemarketers and scammers](https://www.techradar.com/computing/software/chatgpt-is-now-a-brilliant-tool-for-winding-up-telemarketers-and-scammers)
+* [2023-07-01, 12:16:05](https://news.ycombinator.com/item?id=36549277) - [Pixel-Perfect retro gaming on LCD 480p EDTVs](https://blog.gingerbeardman.com/2021/05/06/pixel-perfect-retro-gaming-in-480p/)
 * [2023-07-01, 12:06:48](https://news.ycombinator.com/item?id=36549221) - [Ball und Panzer Golf: making a Playdate game in a week](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
 * [2023-07-01, 12:06:29](https://news.ycombinator.com/item?id=36549218) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 11:44:53](https://news.ycombinator.com/item?id=36549077) - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
