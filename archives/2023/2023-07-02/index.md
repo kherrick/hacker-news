@@ -44,6 +44,7 @@
 * [2023-07-02, 14:32:04](https://news.ycombinator.com/item?id=36561827) - [Before Xerox, there was Addressograph](https://pncnmnp.github.io/blogs/addressograph.html)
 * [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
 * [2023-07-02, 12:49:35](https://news.ycombinator.com/item?id=36561004) - [Bluesky temporarily halts sign-ups](https://www.theverge.com/2023/7/1/23781417/bluesky-halted-sign-ups-joining-twitter)
+* [2023-07-02, 12:43:18](https://news.ycombinator.com/item?id=36560950) - [Ask HN: Best value computer science book?](https://news.ycombinator.com/item?id=36560950)
 * [2023-07-02, 12:41:27](https://news.ycombinator.com/item?id=36560937) - [Google Sidewiki](https://en.wikipedia.org/wiki/Google_Sidewiki)
 * [2023-07-02, 12:26:08](https://news.ycombinator.com/item?id=36560830) - [Scope-based resource management for the Linux kernel](https://lwn.net/Articles/934679/)
 * [2023-07-02, 12:24:15](https://news.ycombinator.com/item?id=36560815) - [Delve: A Solo Map Drawing Game](https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game)

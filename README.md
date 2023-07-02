@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
-* [2023-07-02, 20:32:25](https://news.ycombinator.com/item?id=36565378) - [43% of white Harvard students are legacy, athlete, or donor/staff related (2019)](https://www.nbcnews.com/news/us-news/study-harvard-finds-43-percent-white-students-are-legacy-athletes-n1060361)
 * [2023-07-02, 19:30:07](https://news.ycombinator.com/item?id=36564810) - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
 * [2023-07-02, 19:26:46](https://news.ycombinator.com/item?id=36564782) - [Forgotten tragedy of Italian war detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
 * [2023-07-02, 19:07:21](https://news.ycombinator.com/item?id=36564608) - [Why commuters prefer origin to destination transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
@@ -22,6 +21,7 @@
 * [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
 * [2023-07-02, 14:34:58](https://news.ycombinator.com/item?id=36561847) - [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
+* [2023-07-02, 12:43:18](https://news.ycombinator.com/item?id=36560950) - [Ask HN: Best value computer science book?](https://news.ycombinator.com/item?id=36560950)
 * [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [64bit computing on a budget](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
 * [2023-07-02, 10:25:14](https://news.ycombinator.com/item?id=36560114) - [Kokuhaku: Japan’s Love Confessing Culture (2013)](https://www.tofugu.com/japan/kokuhaku-love-confessing-japan/)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
