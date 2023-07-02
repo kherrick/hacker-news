@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 03:01:24](https://news.ycombinator.com/item?id=36557790) - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
 * [2023-07-02, 01:34:55](https://news.ycombinator.com/item?id=36557287) - [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
 * [2023-07-02, 01:07:32](https://news.ycombinator.com/item?id=36557122) - [China Has $3T of ‘Hidden’ Currency Reserves, Setser Says](https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says)
-* [2023-07-02, 01:02:00](https://news.ycombinator.com/item?id=36557077) - [Intro to Cryptography [pdf]](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
+* [2023-07-02, 01:02:00](https://news.ycombinator.com/item?id=36557077) - [Intro to Cryptography [pdf] (2011)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf)
 * [2023-07-02, 00:03:53](https://news.ycombinator.com/item?id=36556668) - [Using WebAssembly to turn Rust crates into fast TypeScript libraries](https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html)
 * [2023-07-01, 23:28:47](https://news.ycombinator.com/item?id=36556436) - [git-landmine – create local malicious Git repo](https://github.com/jwilk/git-landmine)
 * [2023-07-01, 23:11:14](https://news.ycombinator.com/item?id=36556293) - [C++ GPT-2 inference engine](https://github.com/a1k0n/a1gpt)
@@ -15,7 +16,6 @@
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-01, 17:02:24](https://news.ycombinator.com/item?id=36552170) - [Meticulous (YC S21) is hiring #3 founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36552170)
-* [2023-07-01, 16:47:15](https://news.ycombinator.com/item?id=36552015) - [The first Oxide rack being prepared for customer shipment](https://hachyderm.io/@oxidecomputer/110635621269494973)
 * [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
