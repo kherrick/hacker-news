@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-07-02, 11:07:36",
-      "https://news.ycombinator.com/item?id=36560310"
+      "2023-07-02, 10:56:43",
+      "https://news.ycombinator.com/item?id=36560254"
     ],
     [
-      "Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035",
-      "https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html"
+      "Writing as a Form of Thinking",
+      "https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html"
     ]
   ],
   [
@@ -41,12 +41,52 @@
   ],
   [
     [
+      "2023-07-02, 09:48:02",
+      "https://news.ycombinator.com/item?id=36559929"
+    ],
+    [
+      "Wayland on NixOS: Confusion, Conquest, Triumph",
+      "https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 08:53:29",
+      "https://news.ycombinator.com/item?id=36559630"
+    ],
+    [
+      "Moneyball for Software Teams: Quantifying Dev Performance",
+      "https://software.rajivprab.com/2023/07/01/moneyball-for-software-teams/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 08:03:13",
       "https://news.ycombinator.com/item?id=36559346"
     ],
     [
       "Flattening ASTs (and Other Compiler Data Structures)",
       "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 07:45:04",
+      "https://news.ycombinator.com/item?id=36559254"
+    ],
+    [
+      "Breaking Up with SVG-in-JS in 2023",
+      "https://kurtextrem.de/posts/svg-in-js"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 07:04:25",
+      "https://news.ycombinator.com/item?id=36559030"
+    ],
+    [
+      "Tree-Structured Concurrency",
+      "https://blog.yoshuawuyts.com/tree-structured-concurrency/"
     ]
   ],
   [
@@ -87,16 +127,6 @@
     [
       "After September 1, 2023, all Gfycat content and data will be deleted",
       "https://gfycat.com/"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 01:07:32",
-      "https://news.ycombinator.com/item?id=36557122"
-    ],
-    [
-      "China Has $3T of ‘Hidden’ Currency Reserves, Setser Says",
-      "https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2023-07-01, 17:43:20",
-      "https://news.ycombinator.com/item?id=36552748"
-    ],
-    [
-      "Nadezhda Khvoshchinskaya, a great Russian writer of the nineteenth century",
-      "https://www.full-stop.net/2023/06/27/interviews/annaberman/noraseligmanfavorov/"
-    ]
-  ],
-  [
-    [
       "2023-07-01, 14:41:56",
       "https://news.ycombinator.com/item?id=36550615"
     ],
     [
       "How to Do Great Work",
       "http://paulgraham.com/greatwork.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 13:00:17",
-      "https://news.ycombinator.com/item?id=36549637"
-    ],
-    [
-      "VUDA: A Vulkan Implementation of CUDA",
-      "https://github.com/jgbit/vuda"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Shifting views about psychedelic drugs require a new category for them",
       "https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/"
-    ]
-  ],
-  [
-    [
-      "2023-06-29, 06:52:53",
-      "https://news.ycombinator.com/item?id=36517238"
-    ],
-    [
-      "YouTube is testing a more aggressive approach against ad blockers",
-      "https://www.androidpolice.com/youtube-ad-blockers-three-strikes/"
     ]
   ]
 ]
