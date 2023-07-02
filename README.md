@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-02, 22:13:11](https://news.ycombinator.com/item?id=36566341) - [Women and immigrants poised to lead Newfoundland and Labrador’s tech industry](https://www.theglobeandmail.com/business/article-women-and-immigrants-poised-to-lead-newfoundland-and-labradors-tech/)
-* [2023-07-02, 21:15:48](https://news.ycombinator.com/item?id=36565842) - [GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
 * [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
 * [2023-07-02, 20:52:37](https://news.ycombinator.com/item?id=36565604) - [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
 * [2023-07-02, 20:35:08](https://news.ycombinator.com/item?id=36565405) - [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks/)
@@ -16,6 +15,7 @@
 * [2023-07-02, 16:57:37](https://news.ycombinator.com/item?id=36563284) - [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
 * [2023-07-02, 16:25:47](https://news.ycombinator.com/item?id=36562958) - [Designing the First Apple Macintosh: The Engineers’ Story (1984)](https://spectrum.ieee.org/apple-macintosh)
 * [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
+* [2023-07-02, 15:46:13](https://news.ycombinator.com/item?id=36562561) - [The Mysterious Airships of 1896-97 (2014)](https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97)
 * [2023-07-02, 15:40:53](https://news.ycombinator.com/item?id=36562502) - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
 * [2023-07-02, 15:36:04](https://news.ycombinator.com/item?id=36562432) - [A toy programming language in 137 lines of Python code](https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python)
 * [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
