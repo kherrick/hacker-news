@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 20:16:35](https://news.ycombinator.com/item?id=36565225) - [Googling for answers costs you time](https://prashanth.world/seo-ruining-programming-help/)
 * [2023-07-02, 19:30:07](https://news.ycombinator.com/item?id=36564810) - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
 * [2023-07-02, 19:26:46](https://news.ycombinator.com/item?id=36564782) - [Forgotten Tragedy of Italian War Detainees](https://www3.nhk.or.jp/nhkworld/en/news/backstories/816/)
 * [2023-07-02, 19:07:21](https://news.ycombinator.com/item?id=36564608) - [Why Commuters Prefer Origin to Destination Transfers](https://pedestrianobservations.com/2023/06/30/why-commuters-prefer-origin-to-destination-transfers/)
@@ -14,6 +15,7 @@
 * [2023-07-02, 18:06:47](https://news.ycombinator.com/item?id=36563956) - [Chinese Tech Terms Explained in English](https://16x.engineer/2022/10/18/chinese-tech-terms.html)
 * [2023-07-02, 17:53:44](https://news.ycombinator.com/item?id=36563815) - [Economic inequality cannot be explained by individual bad choices, study finds](https://phys.org/news/2023-06-economic-inequality-individual-bad-choices.html)
 * [2023-07-02, 17:52:13](https://news.ycombinator.com/item?id=36563796) - [Nim Succession Plan](https://forum.nim-lang.org/t/10312)
+* [2023-07-02, 17:50:52](https://news.ycombinator.com/item?id=36563780) - [AMIGAlive – Play Amiga games online with people across the world](https://www.amigalive.com/)
 * [2023-07-02, 17:50:30](https://news.ycombinator.com/item?id=36563774) - [Help Request: Laptop, Work, Assistance](https://news.ycombinator.com/item?id=36563774)
 * [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 * [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
