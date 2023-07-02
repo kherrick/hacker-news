@@ -11,6 +11,7 @@
 * [2023-07-02, 15:45:57](https://news.ycombinator.com/item?id=36562558) - [San Francisco may soon get 24/7 driverless cabs. City leaders are fuming](https://www.washingtonpost.com/technology/2023/07/01/san-francisco-self-driving-taxi-waymo-cruise/)
 * [2023-07-02, 15:40:53](https://news.ycombinator.com/item?id=36562502) - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
 * [2023-07-02, 15:36:09](https://news.ycombinator.com/item?id=36562433) - [Embattled physicist files patent for unprecedented ambient superconductor](https://www.science.org/content/article/embattled-physicist-files-patent-unprecedented-ambient-superconductor)
+* [2023-07-02, 15:36:04](https://news.ycombinator.com/item?id=36562432) - [A toy programming language in 137 lines of Python code](https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python)
 * [2023-07-02, 15:01:54](https://news.ycombinator.com/item?id=36562056) - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
 * [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
