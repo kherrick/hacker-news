@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
 * [2023-07-02, 16:03:59](https://news.ycombinator.com/item?id=36562757) - [Make Your Renders Unnecessarily Complicated by Modeling a Film Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
+* [2023-07-02, 16:02:36](https://news.ycombinator.com/item?id=36562739) - [Aspartame: Once More Unto the Breach](https://dynomight.net/aspartame/)
 * [2023-07-02, 16:01:41](https://news.ycombinator.com/item?id=36562727) - [It's 2023 and memory overwrite bugs are not just a thing theyre still number one](https://www.theregister.com/2023/06/29/cwe_top_25_2023/)
 * [2023-07-02, 15:45:57](https://news.ycombinator.com/item?id=36562558) - [San Francisco may soon get 24/7 driverless cabs. City leaders are fuming](https://www.washingtonpost.com/technology/2023/07/01/san-francisco-self-driving-taxi-waymo-cruise/)
 * [2023-07-02, 15:40:53](https://news.ycombinator.com/item?id=36562502) - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
