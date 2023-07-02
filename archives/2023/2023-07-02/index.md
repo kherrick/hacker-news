@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 22:13:11](https://news.ycombinator.com/item?id=36566341) - [Women and immigrants poised to lead Newfoundland and Labrador’s tech industry](https://www.theglobeandmail.com/business/article-women-and-immigrants-poised-to-lead-newfoundland-and-labradors-tech/)
 * [2023-07-02, 21:15:48](https://news.ycombinator.com/item?id=36565842) - [GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
 * [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
 * [2023-07-02, 20:52:37](https://news.ycombinator.com/item?id=36565604) - [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
