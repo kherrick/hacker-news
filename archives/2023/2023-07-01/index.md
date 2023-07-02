@@ -38,6 +38,7 @@
 * [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Espressif advances with Rust – 30-06-2023](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
 * [2023-07-01, 15:37:47](https://news.ycombinator.com/item?id=36551231) - [Higher- than-recommended doses of Vitamin D reduced risk of atrial fibrillation](https://www.uef.fi/en/article/taking-higher-than-recommended-doses-of-vitamin-d-for-five-years-reduced-the-risk-of-atrial)
 * [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
+* [2023-07-01, 15:19:27](https://news.ycombinator.com/item?id=36551052) - [Lev Landau's “Theoretical Minimum”](https://physics.stackexchange.com/questions/13861/lev-landaus-theoretical-minimum)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
 * [2023-07-01, 14:29:11](https://news.ycombinator.com/item?id=36550493) - [The Mystery of Crime-Scene Dust](https://daily.jstor.org/the-mystery-of-crime-scene-dust/)
