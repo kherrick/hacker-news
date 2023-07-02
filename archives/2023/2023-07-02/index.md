@@ -6,6 +6,8 @@
 
 * [2023-07-02, 21:15:48](https://news.ycombinator.com/item?id=36565842) - [GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
 * [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
+* [2023-07-02, 20:52:37](https://news.ycombinator.com/item?id=36565604) - [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
+* [2023-07-02, 20:35:08](https://news.ycombinator.com/item?id=36565405) - [WebAuthn Is Great and It Sucks](https://sec.okta.com/articles/2020/04/webauthn-great-and-it-sucks/)
 * [2023-07-02, 20:32:25](https://news.ycombinator.com/item?id=36565378) - [43% of white Harvard students are legacy, athletes, related to donors or staff](https://www.nbcnews.com/news/us-news/study-harvard-finds-43-percent-white-students-are-legacy-athletes-n1060361)
 * [2023-07-02, 20:16:35](https://news.ycombinator.com/item?id=36565225) - [Googling for answers costs you time](https://prashanth.world/seo-ruining-programming-help/)
 * [2023-07-02, 19:30:07](https://news.ycombinator.com/item?id=36564810) - [Recession canceled? U.S. stock market 'frothy' after S&P 500's strong first half](https://www.marketwatch.com/story/recession-canceled-u-s-stock-market-pretty-frothy-after-s-p-500s-strongest-first-half-since-2019-2b75f7a2)
