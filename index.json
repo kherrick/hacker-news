@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-02, 15:01:54",
+      "https://news.ycombinator.com/item?id=36562056"
+    ],
+    [
+      "Cyclorotor",
+      "https://en.wikipedia.org/wiki/Cyclorotor"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 14:50:46",
       "https://news.ycombinator.com/item?id=36561974"
     ],
     [
       "Parsing time stamps faster with SIMD instructions",
       "https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 14:41:32",
+      "https://news.ycombinator.com/item?id=36561897"
+    ],
+    [
+      "A curated list of Emacs Lisp development resources",
+      "https://github.com/p3r7/awesome-elisp"
     ]
   ],
   [
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2023-07-02, 09:48:02",
-      "https://news.ycombinator.com/item?id=36559929"
-    ],
-    [
-      "Wayland on NixOS: Confusion, Conquest, Triumph",
-      "https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph"
-    ]
-  ],
-  [
-    [
       "2023-07-02, 08:07:15",
       "https://news.ycombinator.com/item?id=36559370"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2023-07-02, 02:44:18",
+      "https://news.ycombinator.com/item?id=36557679"
+    ],
+    [
+      "Salary Negotiation: Make More Money, Be More Valued",
+      "https://www.kalzumeus.com/2012/01/23/salary-negotiation/"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 01:50:34",
       "https://news.ycombinator.com/item?id=36557378"
     ],
@@ -187,26 +207,6 @@
     [
       "Intro to Cryptography [pdf] (2011)",
       "https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 23:11:14",
-      "https://news.ycombinator.com/item?id=36556293"
-    ],
-    [
-      "C++ GPT-2 inference engine",
-      "https://github.com/a1k0n/a1gpt"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 23:06:29",
-      "https://news.ycombinator.com/item?id=36556261"
-    ],
-    [
-      "Beyond Markdown (2018)",
-      "https://johnmacfarlane.net/beyond-markdown.html"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2023-07-01, 18:04:17",
+      "https://news.ycombinator.com/item?id=36553057"
+    ],
+    [
+      "Worldwide survey kills the myth of ‘Man the Hunter’",
+      "https://www.science.org/content/article/worldwide-survey-kills-myth-man-hunter"
+    ]
+  ],
+  [
+    [
       "2023-07-01, 14:41:56",
       "https://news.ycombinator.com/item?id=36550615"
     ],
@@ -257,16 +267,6 @@
     [
       "Pixel-Perfect retro gaming on LCD 480p EDTVs",
       "https://blog.gingerbeardman.com/2021/05/06/pixel-perfect-retro-gaming-in-480p/"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 12:06:48",
-      "https://news.ycombinator.com/item?id=36549221"
-    ],
-    [
-      "Ball und Panzer Golf: making a Playdate game in a week",
-      "https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/"
     ]
   ],
   [
