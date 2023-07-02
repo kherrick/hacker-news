@@ -18,7 +18,6 @@
 * [2023-07-01, 20:37:06](https://news.ycombinator.com/item?id=36554909) - [How to 1.5x your salary through negotiation](https://careercutler.substack.com/p/how-you-can-15x-your-salary-through)
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
-* [2023-07-01, 17:07:50](https://news.ycombinator.com/item?id=36552242) - [Patent medicines and the history of cocaine (2020)](https://histmed.collegeofphysicians.org/patent-medicines/)
 * [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
@@ -28,6 +27,7 @@
 * [2023-07-01, 07:53:58](https://news.ycombinator.com/item?id=36547798) - [The unsolved mystery of the Brinks jewelry heist](https://www.bloomberg.com/features/2023-brinks-jewelry-heist/)
 * [2023-06-30, 13:11:14](https://news.ycombinator.com/item?id=36534210) - ['ghost particle' image of Milky Way captured: Neutrinos detected by IceCube](https://phys.org/news/2023-06-ghost-particle-image-milky-galaxy.html)
 * [2023-06-30, 12:51:08](https://news.ycombinator.com/item?id=36533947) - [Systems Programming with Racket](https://docs.racket-lang.org/more/index.html)
+* [2023-06-29, 20:10:23](https://news.ycombinator.com/item?id=36526023) - [Video: Power LED Attack [video]](https://www.youtube.com/watch?v=vXe8pe18MNk)
 * [2023-06-29, 17:54:46](https://news.ycombinator.com/item?id=36524122) - [Shifting views about psychedelic drugs require a new category for them](https://www.washingtonpost.com/made-by-history/2023/06/29/psychedelics-drugs/)
 * [2023-06-29, 12:26:19](https://news.ycombinator.com/item?id=36519467) - [A Compressed Indexable Bitset](https://quickwit.io/blog/compressed-indexable-bitset/)
 

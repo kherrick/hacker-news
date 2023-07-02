@@ -22,6 +22,7 @@
 * [2023-06-29, 21:01:22](https://news.ycombinator.com/item?id=36526645) - [Why Do Men Stupefy Themselves? Leo Tolstoy on Why We Drink (2014)](https://www.themarginalian.org/2014/12/30/why-do-men-stupefy-themselves-leo-tolstoy/)
 * [2023-06-29, 20:44:50](https://news.ycombinator.com/item?id=36526453) - [Keeping Open Source Open](https://rockylinux.org/news/keeping-open-source-open/)
 * [2023-06-29, 20:38:59](https://news.ycombinator.com/item?id=36526389) - [Fort Lauderdale saves nearly $350K after repurposing seaweed into planting soil](https://www.local10.com/news/local/2023/06/28/fort-lauderdale-saves-nearly-350k-after-repurposing-seaweed-into-planting-soil/)
+* [2023-06-29, 20:10:23](https://news.ycombinator.com/item?id=36526023) - [Video: Power LED Attack [video]](https://www.youtube.com/watch?v=vXe8pe18MNk)
 * [2023-06-29, 20:04:15](https://news.ycombinator.com/item?id=36525950) - [Now you can search on Google for free: Solution with API](https://github.com/karust/openserp)
 * [2023-06-29, 20:03:25](https://news.ycombinator.com/item?id=36525940) - [Tesla Fleet Telemetry](https://github.com/teslamotors/fleet-telemetry)
 * [2023-06-29, 19:58:28](https://news.ycombinator.com/item?id=36525876) - [From Fossils to Mind](https://www.nature.com/articles/s42003-023-04803-4)
