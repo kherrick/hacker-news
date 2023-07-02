@@ -24,6 +24,7 @@
 * [2023-07-01, 18:58:56](https://news.ycombinator.com/item?id=36553762) - [“It appears that Twitter is DDoSing itself”](https://sfba.social/@sysop408/110639474671754723)
 * [2023-07-01, 18:36:05](https://news.ycombinator.com/item?id=36553489) - [FBI obtains Kolektiva.social database while executing warrant on administrator](https://kolektiva.social/@admin/110637031574056150)
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
+* [2023-07-01, 18:04:17](https://news.ycombinator.com/item?id=36553057) - [Worldwide survey kills the myth of ‘Man the Hunter’](https://www.science.org/content/article/worldwide-survey-kills-myth-man-hunter)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
 * [2023-07-01, 17:43:20](https://news.ycombinator.com/item?id=36552748) - [Nadezhda Khvoshchinskaya, a great Russian writer of the nineteenth century](https://www.full-stop.net/2023/06/27/interviews/annaberman/noraseligmanfavorov/)
 * [2023-07-01, 17:14:08](https://news.ycombinator.com/item?id=36552324) - [Confirmed: Twitter switched temporarily to rate limited mode](https://news.ycombinator.com/item?id=36552324)

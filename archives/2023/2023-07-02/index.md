@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 15:01:54](https://news.ycombinator.com/item?id=36562056) - [Cyclorotor](https://en.wikipedia.org/wiki/Cyclorotor)
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
+* [2023-07-02, 14:41:32](https://news.ycombinator.com/item?id=36561897) - [A curated list of Emacs Lisp development resources](https://github.com/p3r7/awesome-elisp)
 * [2023-07-02, 14:40:00](https://news.ycombinator.com/item?id=36561888) - [Will Texas become too hot for humans?](https://www.bbc.com/future/article/20230630-will-texas-become-too-hot-for-humans)
 * [2023-07-02, 14:34:58](https://news.ycombinator.com/item?id=36561847) - [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
 * [2023-07-02, 13:11:26](https://news.ycombinator.com/item?id=36561166) - [/u/spez is right about feudalism and that's why Reddit as we know it is doomed](https://maya.land/monologues/2023/07/01/spez-feudalism-reddit.html)
@@ -34,6 +36,7 @@
 * [2023-07-02, 03:32:57](https://news.ycombinator.com/item?id=36557974) - [The Titan Submersible Was “An Accident Waiting to Happen”](https://www.newyorker.com/news/a-reporter-at-large/the-titan-submersible-was-an-accident-waiting-to-happen)
 * [2023-07-02, 03:05:19](https://news.ycombinator.com/item?id=36557819) - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
 * [2023-07-02, 03:01:24](https://news.ycombinator.com/item?id=36557790) - [The moral behavior of ethics professors: A replication-extension](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
+* [2023-07-02, 02:44:18](https://news.ycombinator.com/item?id=36557679) - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [2023-07-02, 01:50:34](https://news.ycombinator.com/item?id=36557378) - [A Look at Bluesky](https://juliette.page/blog/bluesky.html)
 * [2023-07-02, 01:34:55](https://news.ycombinator.com/item?id=36557287) - [After September 1, 2023, all Gfycat content and data will be deleted](https://gfycat.com/)
 * [2023-07-02, 01:07:32](https://news.ycombinator.com/item?id=36557122) - [China Has $3T of ‘Hidden’ Currency Reserves, Setser Says](https://www.bloomberg.com/news/articles/2023-06-30/china-has-3-trillion-of-hidden-currency-reserves-setser-says)
