@@ -47,6 +47,7 @@
 * [2023-07-01, 13:58:37](https://news.ycombinator.com/item?id=36550174) - [What's up in the Python community? – June 2023](https://www.bitecode.dev/p/whats-up-in-the-python-community-98e)
 * [2023-07-01, 13:27:30](https://news.ycombinator.com/item?id=36549877) - [Tell HN: Happy Canada Day!](https://news.ycombinator.com/item?id=36549877)
 * [2023-07-01, 13:21:06](https://news.ycombinator.com/item?id=36549808) - [Sqlpkg – SQLite Package Registry](https://sqlpkg.org/)
+* [2023-07-01, 13:00:48](https://news.ycombinator.com/item?id=36549640) - [Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)
 * [2023-07-01, 13:00:17](https://news.ycombinator.com/item?id=36549637) - [VUDA: A Vulkan Implementation of CUDA](https://github.com/jgbit/vuda)
 * [2023-07-01, 12:46:05](https://news.ycombinator.com/item?id=36549527) - [It’s not corruption. It’s a patch for gross underpayment](https://twitter.com/david_kasten/status/1674974488864104453)
 * [2023-07-01, 12:38:00](https://news.ycombinator.com/item?id=36549466) - [To Make More Stingers, US Needs to Revive Production Technology from Scratch](https://www.technology.org/2023/07/01/us-wants-to-make-more-stingers-needs-to-revive-production/)
