@@ -75,18 +75,8 @@
       "https://news.ycombinator.com/item?id=36564535"
     ],
     [
-      "C’s Biggest Mistake",
+      "C’s Biggest Mistake (2009)",
       "https://www.digitalmars.com/articles/C-biggest-mistake.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 18:41:41",
-      "https://news.ycombinator.com/item?id=36564350"
-    ],
-    [
-      "Relay Mining: Verifiable Multi-Tenant Distributed Rate Limiting",
-      "https://arxiv.org/abs/2305.10672"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Show HN: Script – A text editor for digitally interconnected documents",
       "https://www.use-script.com"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 16:48:00",
+      "https://news.ycombinator.com/item?id=36563187"
+    ],
+    [
+      "Are You Sure You Want to Use MMAP in Your Database Management System? (2022)",
+      "https://db.cs.cmu.edu/mmap-cidr2022/"
     ]
   ],
   [
