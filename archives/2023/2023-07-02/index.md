@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 11:07:36](https://news.ycombinator.com/item?id=36560310) - [Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035](https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html)
+* [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
 * [2023-07-02, 10:36:18](https://news.ycombinator.com/item?id=36560162) - [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
 * [2023-07-02, 10:29:55](https://news.ycombinator.com/item?id=36560136) - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
