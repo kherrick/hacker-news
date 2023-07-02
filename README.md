@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-02, 17:50:30](https://news.ycombinator.com/item?id=36563774) - [Help Request: Laptop, Work, Assistance](https://news.ycombinator.com/item?id=36563774)
 * [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 * [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
 * [2023-07-02, 16:57:37](https://news.ycombinator.com/item?id=36563284) - [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
 * [2023-07-02, 16:48:00](https://news.ycombinator.com/item?id=36563187) - [Are You Sure You Want to Use MMAP in Your Database Management System? (2022)](https://db.cs.cmu.edu/mmap-cidr2022/)
-* [2023-07-02, 16:43:00](https://news.ycombinator.com/item?id=36563130) - [Tesla Gives New UK Owners a ‘Reacher’ Stick to Deal with Left-Hand Drive Cars](https://www.carscoops.com/2023/06/tesla-seriously-gives-uk-owners-reacher-stick-after-cancelling-right-hand-drive-cars/)
 * [2023-07-02, 16:25:47](https://news.ycombinator.com/item?id=36562958) - [Designing the First Apple Macintosh: The Engineers’ Story](https://spectrum.ieee.org/apple-macintosh)
 * [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
 * [2023-07-02, 16:03:59](https://news.ycombinator.com/item?id=36562757) - [Make Your Renders Unnecessarily Complicated by Modeling a Film Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
