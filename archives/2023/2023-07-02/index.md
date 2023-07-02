@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 18:14:13](https://news.ycombinator.com/item?id=36564042) - [Google Search's Death by a Thousand Cuts](https://matt-rickard.com/google-searchs-death-by-a-thousand-cuts)
+* [2023-07-02, 17:53:44](https://news.ycombinator.com/item?id=36563815) - [Economic inequality cannot be explained by individual bad choices, study finds](https://phys.org/news/2023-06-economic-inequality-individual-bad-choices.html)
+* [2023-07-02, 17:52:13](https://news.ycombinator.com/item?id=36563796) - [Nim Succession Plan](https://forum.nim-lang.org/t/10312)
 * [2023-07-02, 17:50:30](https://news.ycombinator.com/item?id=36563774) - [Help Request: Laptop, Work, Assistance](https://news.ycombinator.com/item?id=36563774)
 * [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 * [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
@@ -39,6 +42,7 @@
 * [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
 * [2023-07-02, 10:36:18](https://news.ycombinator.com/item?id=36560162) - [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
 * [2023-07-02, 10:29:55](https://news.ycombinator.com/item?id=36560136) - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
+* [2023-07-02, 10:25:14](https://news.ycombinator.com/item?id=36560114) - [Kokuhaku: Japan’s Love Confessing Culture (2013)](https://www.tofugu.com/japan/kokuhaku-love-confessing-japan/)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 09:48:02](https://news.ycombinator.com/item?id=36559929) - [Wayland on NixOS: Confusion, Conquest, Triumph](https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph)
 * [2023-07-02, 08:53:29](https://news.ycombinator.com/item?id=36559630) - [Moneyball for Software Teams: Quantifying Dev Performance](https://software.rajivprab.com/2023/07/01/moneyball-for-software-teams/)
