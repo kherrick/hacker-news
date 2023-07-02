@@ -62,6 +62,7 @@
 * [2023-06-30, 14:32:45](https://news.ycombinator.com/item?id=36535609) - [Rise of pill-popping tech execs](https://www.axios.com/2023/06/30/pill-popping-tech-execs)
 * [2023-06-30, 14:21:04](https://news.ycombinator.com/item?id=36535417) - [YouTube confirms three-strikes test for ad blocking](https://www.androidauthority.com/youtube-confirm-three-strikes-policy-ad-blocking-test-3340826/)
 * [2023-06-30, 13:56:35](https://news.ycombinator.com/item?id=36534979) - [You can buy upvotes on Hacker News](https://goorapid.com/product/buy-hacker-news-upvotes/)
+* [2023-06-30, 13:44:18](https://news.ycombinator.com/item?id=36534778) - [Scientists find key evidence for existence of nanohertz gravitational waves](https://phys.org/news/2023-06-scientists-key-evidence-nanohertz-gravitational.html)
 * [2023-06-30, 13:41:17](https://news.ycombinator.com/item?id=36534725) - [McMansion Hell](https://mcmansionhell.com)
 * [2023-06-30, 13:28:59](https://news.ycombinator.com/item?id=36534512) - [How does Linux handle writes?](https://www.cyberdemon.org/2023/06/27/file-writes.html)
 * [2023-06-30, 13:09:04](https://news.ycombinator.com/item?id=36534179) - [Nineteen new Wolf-Rayet stars discovered in the Andromeda galaxy](https://phys.org/news/2023-06-nineteen-wolf-rayet-stars-andromeda-galaxy.html)
