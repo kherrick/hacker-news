@@ -2,6 +2,7 @@
 
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [Course Notes: A Functional Introduction to Computer Science (UWaterloo)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 * [2023-07-02, 05:10:03](https://news.ycombinator.com/item?id=36558428) - [Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
+* [2023-07-02, 05:08:40](https://news.ycombinator.com/item?id=36558414) - [Decoy Defenses: How Honeypots Sweeten Cybersecurity Strategies](https://www.thefinalhop.com/decoy-defenses-how-honeypots-sweeten-cybersecurity-strategies/)
 * [2023-07-02, 03:46:33](https://news.ycombinator.com/item?id=36558032) - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
 * [2023-07-02, 03:05:19](https://news.ycombinator.com/item?id=36557819) - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
 * [2023-07-02, 03:01:24](https://news.ycombinator.com/item?id=36557790) - [The moral behavior of ethics professors: A replication-extension (2018)](https://www.tandfonline.com/doi/full/10.1080/09515089.2019.1587912)
@@ -18,7 +19,6 @@
 * [2023-07-01, 19:36:09](https://news.ycombinator.com/item?id=36554172) - [Jak 2 Playable with OpenGOAL](https://opengoal.dev/blog/progress-report-june-2023/)
 * [2023-07-01, 18:17:21](https://news.ycombinator.com/item?id=36553236) - [Twitter Is DDOSing Itself](https://sfba.social/@sysop408/110639435788921057)
 * [2023-07-01, 17:49:52](https://news.ycombinator.com/item?id=36552844) - [The complex history of the Intel i960 RISC processor](http://www.righto.com/2023/07/the-complex-history-of-intel-i960-risc.html)
-* [2023-07-01, 17:07:50](https://news.ycombinator.com/item?id=36552242) - [Patent medicines and the history of cocaine (2020)](https://histmed.collegeofphysicians.org/patent-medicines/)
 * [2023-07-01, 16:39:58](https://news.ycombinator.com/item?id=36551941) - [SpaceX rocket launches Euclid space telescope to map the 'dark universe'](https://www.space.com/space-rocket-launches-euclid-dark-universe-telescope)
 * [2023-07-01, 16:09:25](https://news.ycombinator.com/item?id=36551617) - [Wazero: Zero dependency WebAssembly runtime written in Go](https://wazero.io/)
 * [2023-07-01, 15:39:30](https://news.ycombinator.com/item?id=36551255) - [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-30-06-2023/)
