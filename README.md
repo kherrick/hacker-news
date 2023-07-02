@@ -8,6 +8,7 @@
 * [2023-07-02, 16:03:59](https://news.ycombinator.com/item?id=36562757) - [Make Your Renders Unnecessarily Complicated by Modeling a Film Camera in Blender [video]](https://www.youtube.com/watch?v=YE9rEQAGpLw)
 * [2023-07-02, 16:02:36](https://news.ycombinator.com/item?id=36562739) - [Aspartame: Once More Unto the Breach](https://dynomight.net/aspartame/)
 * [2023-07-02, 16:01:41](https://news.ycombinator.com/item?id=36562727) - [It's 2023 and memory overwrite bugs are not just a thing theyre still number one](https://www.theregister.com/2023/06/29/cwe_top_25_2023/)
+* [2023-07-02, 15:46:13](https://news.ycombinator.com/item?id=36562561) - [The Mysterious Airships of 1896-97 (2014)](https://www.readex.com/blog/ufo-fever-americas-historical-newspapers-mysterious-airships-1896-97)
 * [2023-07-02, 15:40:53](https://news.ycombinator.com/item?id=36562502) - [Stanford A.I. Courses](https://ai.stanford.edu/courses/)
 * [2023-07-02, 15:36:04](https://news.ycombinator.com/item?id=36562432) - [A toy programming language in 137 lines of Python code](https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python)
 * [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm, Tormented Quantum Visionary](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
@@ -23,13 +24,12 @@
 * [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [64bit computing on a budget](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
 * [2023-07-02, 10:29:55](https://news.ycombinator.com/item?id=36560136) - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: A little understood concept in physics [video]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
-* [2023-07-02, 08:07:15](https://news.ycombinator.com/item?id=36559370) - [Neuronal wiring diagram of an adult brain](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs and other compiler data structures](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2023-07-02, 07:04:25](https://news.ycombinator.com/item?id=36559030) - [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
 * [2023-07-02, 02:44:18](https://news.ycombinator.com/item?id=36557679) - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 * [2023-07-01, 11:35:10](https://news.ycombinator.com/item?id=36549018) - [Origin Stories: Plantations, Computers, and Industrial Control](https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/)
 * [2023-07-01, 10:41:43](https://news.ycombinator.com/item?id=36548684) - [Why is the volume of a cone one third of the volume of a cylinder? (2010)](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
-* [2023-06-29, 20:10:23](https://news.ycombinator.com/item?id=36526023) - [Video: Power LED Attack [video]](https://www.youtube.com/watch?v=vXe8pe18MNk)
+* [2023-07-01, 08:14:25](https://news.ycombinator.com/item?id=36547928) - [Working Ternary ALU (2019)](https://louis-dr.github.io/ternalu3.html)
 
 ## [Archives](archives/index.md)
 
