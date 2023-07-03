@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-07-03, 10:37:50",
+      "https://news.ycombinator.com/item?id=36571081"
+    ],
+    [
+      "AMD to Expand ROCm Support to Consumer RDNA 3 GPUs This Fall",
+      "https://www.tomshardware.com/news/amd-to-expand-rocm-support-to-pro-and-consumer-rdna-3-gpus-this-fall"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 09:35:43",
       "https://news.ycombinator.com/item?id=36570714"
     ],
@@ -67,26 +77,6 @@
     [
       "Names should be as short as possible while still being clear",
       "https://benhoyt.com/writings/short-names/"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 08:38:15",
-      "https://news.ycombinator.com/item?id=36570339"
-    ],
-    [
-      "A Quick Overview of Matrix",
-      "https://juliette.page/b/matrix"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 08:05:33",
-      "https://news.ycombinator.com/item?id=36570139"
-    ],
-    [
-      "Batteries and Renewables Are Saving Texas During the Heat Wave",
-      "https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "Nvidia’s H100: Funny L2, and Tons of Bandwidth",
       "https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 04:48:15",
+      "https://news.ycombinator.com/item?id=36569001"
+    ],
+    [
+      "On breaking changes in transitive dependencies",
+      "https://dmytro.sh/blog/on-breaking-changes-in-transitive-dependencies/"
     ]
   ],
   [
