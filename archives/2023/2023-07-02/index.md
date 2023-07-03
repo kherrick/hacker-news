@@ -9,6 +9,7 @@
 * [2023-07-02, 22:51:50](https://news.ycombinator.com/item?id=36566638) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
 * [2023-07-02, 22:51:19](https://news.ycombinator.com/item?id=36566634) - [Illegal Life Pro Tip: Want to ruin your competitors business?](https://oppositeinvictus.com/illegal-life-pro-tip-want-to-ruin-your-competitors-business)
 * [2023-07-02, 22:13:11](https://news.ycombinator.com/item?id=36566341) - [Women and immigrants poised to lead Newfoundland and Labrador’s tech industry](https://www.theglobeandmail.com/business/article-women-and-immigrants-poised-to-lead-newfoundland-and-labradors-tech/)
+* [2023-07-02, 21:51:33](https://news.ycombinator.com/item?id=36566167) - [Ericsson to WhatsApp: The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of)
 * [2023-07-02, 21:16:39](https://news.ycombinator.com/item?id=36565854) - [AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 * [2023-07-02, 21:15:48](https://news.ycombinator.com/item?id=36565842) - [GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
 * [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
