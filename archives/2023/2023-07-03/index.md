@@ -6,6 +6,7 @@
 
 * [2023-07-03, 07:04:40](https://news.ycombinator.com/item?id=36569727) - [Perl 5.38 Released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 06:53:39](https://news.ycombinator.com/item?id=36569659) - [Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
+* [2023-07-03, 06:42:59](https://news.ycombinator.com/item?id=36569592) - [NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video](https://dc.watch.impress.co.jp/docs/news/1511787.html)
 * [2023-07-03, 06:03:20](https://news.ycombinator.com/item?id=36569411) - [Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
 * [2023-07-03, 04:55:09](https://news.ycombinator.com/item?id=36569044) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 * [2023-07-03, 02:54:46](https://news.ycombinator.com/item?id=36568192) - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
