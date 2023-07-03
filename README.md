@@ -26,8 +26,8 @@
 * [2023-07-03, 05:52:39](https://news.ycombinator.com/item?id=36569365) - [Douglas Hofstadter changes his mind on Deep Learning and AI risk](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai)
 * [2023-07-03, 02:04:35](https://news.ycombinator.com/item?id=36567839) - [Google’s quantum computer instantly makes calculations that take rivals 47 years](https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html)
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
-* [2023-07-02, 10:42:28](https://news.ycombinator.com/item?id=36560196) - [A Dialog in Real Time (Strategy)](https://www.filfre.net/2023/06/a-dialog-in-real-time-strategy/)
 * [2023-07-02, 09:01:37](https://news.ycombinator.com/item?id=36559683) - [The anatomy of search: A token of my affection (2018)](https://wikimediafoundation.org/news/2018/08/07/anatomy-search-token-affection/)
+* [2023-07-02, 05:59:17](https://news.ycombinator.com/item?id=36558667) - [Computer built using swarms of soldier crabs (2012)](https://www.wired.com/2012/04/soldier-crabs/)
 * [2023-07-01, 11:57:14](https://news.ycombinator.com/item?id=36549154) - [David Rumsey Map Collection](https://www.davidrumsey.com/)
 * [2023-07-01, 10:34:06](https://news.ycombinator.com/item?id=36548651) - [Theory X and Theory Y management](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
 
