@@ -61,6 +61,7 @@
 * [2023-07-01, 12:16:05](https://news.ycombinator.com/item?id=36549277) - [Pixel-Perfect retro gaming on LCD 480p EDTVs](https://blog.gingerbeardman.com/2021/05/06/pixel-perfect-retro-gaming-in-480p/)
 * [2023-07-01, 12:06:48](https://news.ycombinator.com/item?id=36549221) - [Ball und Panzer Golf: making a Playdate game in a week](https://blog.gingerbeardman.com/2023/06/26/ball-und-panzer-golf-making-a-playdate-game-in-a-week/)
 * [2023-07-01, 12:06:29](https://news.ycombinator.com/item?id=36549218) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
+* [2023-07-01, 11:57:14](https://news.ycombinator.com/item?id=36549154) - [David Rumsey Map Collection](https://www.davidrumsey.com/)
 * [2023-07-01, 11:44:53](https://news.ycombinator.com/item?id=36549077) - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
 * [2023-07-01, 11:35:10](https://news.ycombinator.com/item?id=36549018) - [Origin Stories: Plantations, Computers, and Industrial Control](https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/)
 * [2023-07-01, 11:24:31](https://news.ycombinator.com/item?id=36548951) - [Lookup Tables – Forth Dimensions (1997)](https://benhoyt.com/writings/forth-lookup-tables/)

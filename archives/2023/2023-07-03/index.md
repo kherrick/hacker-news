@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
+* [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
+* [2023-07-03, 16:57:23](https://news.ycombinator.com/item?id=36575712) - [SlowDownAndWasteMemory()](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp)
 * [2023-07-03, 16:23:31](https://news.ycombinator.com/item?id=36575190) - [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
 * [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA Is This?](https://pudding.cool/games/where/)
 * [2023-07-03, 16:16:54](https://news.ycombinator.com/item?id=36575085) - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
