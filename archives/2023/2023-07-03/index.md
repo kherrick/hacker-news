@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 16:23:31](https://news.ycombinator.com/item?id=36575190) - [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
 * [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA Is This?](https://pudding.cool/games/where/)
 * [2023-07-03, 16:16:54](https://news.ycombinator.com/item?id=36575085) - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
 * [2023-07-03, 16:11:03](https://news.ycombinator.com/item?id=36575003) - [Goodreads was the future of book reviews. Then Amazon bought it](https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/)
+* [2023-07-03, 16:01:16](https://news.ycombinator.com/item?id=36574844) - [The Animated Elliptic Curve](https://curves.xargs.org)
+* [2023-07-03, 15:57:00](https://news.ycombinator.com/item?id=36574775) - [Localhost Resource Permission](https://brave.com/privacy-updates/27-localhost-permission/)
 * [2023-07-03, 15:50:21](https://news.ycombinator.com/item?id=36574645) - [An Interactive Guide to SVG Paths](https://www.nan.fyi/svg-paths)
 * [2023-07-03, 15:30:29](https://news.ycombinator.com/item?id=36574332) - [German Catholic church ‘dying painful death’ as 500k leave in a year](https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year)
 * [2023-07-03, 15:24:18](https://news.ycombinator.com/item?id=36574221) - [100% Test Coverage](https://brandur.org/fragments/100-percent-coverage)
