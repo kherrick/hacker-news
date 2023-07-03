@@ -48,6 +48,7 @@
 * [2023-07-01, 13:59:25](https://news.ycombinator.com/item?id=36550184) - [Few lesser known tricks, quirks and features of C](https://jorengarenar.github.io/blog/less-known-c)
 * [2023-07-01, 13:59:00](https://news.ycombinator.com/item?id=36550180) - [Share of 40-year-olds in US who have never married reaches new high](https://www.pewresearch.org/short-reads/2023/06/28/a-record-high-share-of-40-year-olds-in-the-us-have-never-been-married/)
 * [2023-07-01, 13:58:37](https://news.ycombinator.com/item?id=36550174) - [What's up in the Python community? – June 2023](https://www.bitecode.dev/p/whats-up-in-the-python-community-98e)
+* [2023-07-01, 13:49:10](https://news.ycombinator.com/item?id=36550086) - [Simula – The forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 * [2023-07-01, 13:27:30](https://news.ycombinator.com/item?id=36549877) - [Tell HN: Happy Canada Day!](https://news.ycombinator.com/item?id=36549877)
 * [2023-07-01, 13:21:06](https://news.ycombinator.com/item?id=36549808) - [Sqlpkg – SQLite Package Registry](https://sqlpkg.org/)
 * [2023-07-01, 13:00:48](https://news.ycombinator.com/item?id=36549640) - [Mir: A lightweight JIT compiler project (2020)](https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project)
