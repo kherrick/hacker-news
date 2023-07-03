@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 09:03:24](https://news.ycombinator.com/item?id=36570499) - [Detecting and Handling Flaky Tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright)
 * [2023-07-03, 08:05:33](https://news.ycombinator.com/item?id=36570139) - [Batteries and Renewables Are Saving Texas During the Heat Wave](https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/)
 * [2023-07-03, 07:06:02](https://news.ycombinator.com/item?id=36569736) - [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)
 * [2023-07-03, 07:04:40](https://news.ycombinator.com/item?id=36569727) - [Perl 5.38 Released](https://perldoc.perl.org/perl5380delta)
