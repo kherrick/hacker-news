@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
 * [2023-07-03, 13:52:15](https://news.ycombinator.com/item?id=36572875) - [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
+* [2023-07-03, 13:33:18](https://news.ycombinator.com/item?id=36572645) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 13:11:59](https://news.ycombinator.com/item?id=36572401) - [Self-Driving Cars Are Surveillance Cameras on Wheels](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
 * [2023-07-03, 13:04:58](https://news.ycombinator.com/item?id=36572326) - [Six-year-old saves mum by calling for help on Alexa device](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-66085014)
 * [2023-07-03, 12:48:30](https://news.ycombinator.com/item?id=36572154) - [The rapid rise and meteoric fall of Doc Burnstein's Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
