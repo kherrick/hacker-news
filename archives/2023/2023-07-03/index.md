@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
+* [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
+* [2023-07-03, 14:46:54](https://news.ycombinator.com/item?id=36573667) - [Apple forced to make major cuts to Vision Pro headset production plans](https://www.ft.com/content/b6f06bde-17b0-4886-b465-b561212c96a9)
+* [2023-07-03, 14:46:34](https://news.ycombinator.com/item?id=36573664) - [Pay-frozen Microsofties not happy to hear of 'landmark year'](https://www.theregister.com/2023/07/03/pay_freeze_microsoft_landmark_year/)
+* [2023-07-03, 14:31:00](https://news.ycombinator.com/item?id=36573437) - [Humane unveils AI Pin – a contextual computer with a mini projector](https://hu.ma.ne)
 * [2023-07-03, 13:58:38](https://news.ycombinator.com/item?id=36572953) - [Vectorizing Graph Neural Networks](https://www.moderndescartes.com/essays/vectorized_pagerank/)
 * [2023-07-03, 13:52:15](https://news.ycombinator.com/item?id=36572875) - [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
 * [2023-07-03, 13:34:35](https://news.ycombinator.com/item?id=36572658) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
