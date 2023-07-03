@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 20:40:22](https://news.ycombinator.com/item?id=36578489) - [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
+* [2023-07-03, 20:30:25](https://news.ycombinator.com/item?id=36578354) - [Show HN: Yet another macOS ChatGPT app](https://letsflyai.com)
 * [2023-07-03, 19:39:34](https://news.ycombinator.com/item?id=36577822) - [Deep-sea mining may soon ease the world's battery-metal shortage](https://www.economist.com/science-and-technology/2023/07/02/deep-sea-mining-may-soon-ease-the-worlds-battery-metal-shortage)
 * [2023-07-03, 18:50:03](https://news.ycombinator.com/item?id=36577290) - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
 * [2023-07-03, 18:39:28](https://news.ycombinator.com/item?id=36577154) - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
@@ -27,9 +29,7 @@
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
 * [2023-07-03, 02:04:35](https://news.ycombinator.com/item?id=36567839) - [Google’s quantum computer instantly makes calculations that take rivals 47 years](https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html)
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
-* [2023-07-02, 09:01:37](https://news.ycombinator.com/item?id=36559683) - [The anatomy of search: A token of my affection (2018)](https://wikimediafoundation.org/news/2018/08/07/anatomy-search-token-affection/)
 * [2023-07-01, 11:57:14](https://news.ycombinator.com/item?id=36549154) - [David Rumsey Map Collection](https://www.davidrumsey.com/)
-* [2023-07-01, 07:07:01](https://news.ycombinator.com/item?id=36547528) - [Be like the Silkworm](https://www.lrb.co.uk/the-paper/v45/n13/terry-eagleton/be-like-the-silkworm)
 
 ## [Archives](archives/index.md)
 
