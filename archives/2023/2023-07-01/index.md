@@ -79,6 +79,7 @@
 * [2023-07-01, 08:06:15](https://news.ycombinator.com/item?id=36547864) - [Louis Rossmann: Autodesk turns lifetime licenses into subscriptions [video]](https://www.youtube.com/watch?v=OHY9K8X45XA)
 * [2023-07-01, 07:54:36](https://news.ycombinator.com/item?id=36547801) - [Someone dropped the source code for Far Cry 1 on archive.org](https://archive.org/details/far-cry-1.34-complete)
 * [2023-07-01, 07:53:58](https://news.ycombinator.com/item?id=36547798) - [The unsolved mystery of the Brinks jewelry heist](https://www.bloomberg.com/features/2023-brinks-jewelry-heist/)
+* [2023-07-01, 07:07:01](https://news.ycombinator.com/item?id=36547528) - [Be like the Silkworm](https://www.lrb.co.uk/the-paper/v45/n13/terry-eagleton/be-like-the-silkworm)
 * [2023-07-01, 07:00:08](https://news.ycombinator.com/item?id=36547475) - [Terra (YC W21) Is Hiring AI Engineers in London](https://www.ycombinator.com/companies/terra/jobs/0f5CP0r-ai-engineer)
 * [2023-07-01, 05:34:02](https://news.ycombinator.com/item?id=36546954) - [The Rise and Fall of CORBA (2006)](https://queue.acm.org/detail.cfm?id=1142044)
 * [2023-07-01, 05:27:16](https://news.ycombinator.com/item?id=36546917) - [Leveling Up in Job Interviews for Software Engineers (2022)](https://phauer.com/2022/leveling-up-job-interviews/)

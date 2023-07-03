@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 18:50:03](https://news.ycombinator.com/item?id=36577290) - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
 * [2023-07-03, 18:39:28](https://news.ycombinator.com/item?id=36577154) - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
 * [2023-07-03, 18:10:33](https://news.ycombinator.com/item?id=36576745) - [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
 * [2023-07-03, 17:42:03](https://news.ycombinator.com/item?id=36576361) - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
@@ -12,8 +13,6 @@
 * [2023-07-03, 16:11:03](https://news.ycombinator.com/item?id=36575003) - [Goodreads was the future of book reviews, then Amazon bought it](https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/)
 * [2023-07-03, 16:01:16](https://news.ycombinator.com/item?id=36574844) - [The Animated Elliptic Curve](https://curves.xargs.org)
 * [2023-07-03, 15:50:21](https://news.ycombinator.com/item?id=36574645) - [An Interactive Guide to SVG Paths](https://www.nan.fyi/svg-paths)
-* [2023-07-03, 15:21:42](https://news.ycombinator.com/item?id=36574173) - [Large scale precursor correlations between cosmic rays and earthquakes (2022)](https://arxiv.org/abs/2204.12310)
-* [2023-07-03, 15:18:21](https://news.ycombinator.com/item?id=36574128) - [DeltaTouch, a community created client for Ubuntu Touch](https://delta.chat/en/2023-07-02-deltatouch)
 * [2023-07-03, 15:16:24](https://news.ycombinator.com/item?id=36574090) - [Show HN: JobLens – AI-powered job search for 'Who Is Hiring'](https://www.kadoa.com/joblens)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
 * [2023-07-03, 15:00:58](https://news.ycombinator.com/item?id=36573873) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
@@ -30,6 +29,7 @@
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
 * [2023-07-02, 09:01:37](https://news.ycombinator.com/item?id=36559683) - [The anatomy of search: A token of my affection (2018)](https://wikimediafoundation.org/news/2018/08/07/anatomy-search-token-affection/)
 * [2023-07-01, 11:57:14](https://news.ycombinator.com/item?id=36549154) - [David Rumsey Map Collection](https://www.davidrumsey.com/)
+* [2023-07-01, 07:07:01](https://news.ycombinator.com/item?id=36547528) - [Be like the Silkworm](https://www.lrb.co.uk/the-paper/v45/n13/terry-eagleton/be-like-the-silkworm)
 
 ## [Archives](archives/index.md)
 
