@@ -65,6 +65,7 @@
 * [2023-07-03, 07:04:40](https://news.ycombinator.com/item?id=36569727) - [Perl 5.38 Released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 06:53:39](https://news.ycombinator.com/item?id=36569659) - [Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
 * [2023-07-03, 06:42:59](https://news.ycombinator.com/item?id=36569592) - [NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video](https://dc.watch.impress.co.jp/docs/news/1511787.html)
+* [2023-07-03, 06:28:44](https://news.ycombinator.com/item?id=36569526) - [The evolving Unix attitudes on handling signals in your code](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalHandlingOverTime)
 * [2023-07-03, 06:03:20](https://news.ycombinator.com/item?id=36569411) - [Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
 * [2023-07-03, 05:52:39](https://news.ycombinator.com/item?id=36569365) - [Douglas Hofstadter changes his mind on Deep Learning and AI risk](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai)
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
