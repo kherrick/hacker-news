@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 16:23:31](https://news.ycombinator.com/item?id=36575190) - [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
+* [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA Is This?](https://pudding.cool/games/where/)
+* [2023-07-03, 16:16:54](https://news.ycombinator.com/item?id=36575085) - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
+* [2023-07-03, 16:11:03](https://news.ycombinator.com/item?id=36575003) - [Goodreads was the future of book reviews. Then Amazon bought it](https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/)
 * [2023-07-03, 15:50:21](https://news.ycombinator.com/item?id=36574645) - [An Interactive Guide to SVG Paths](https://www.nan.fyi/svg-paths)
 * [2023-07-03, 15:30:29](https://news.ycombinator.com/item?id=36574332) - [German Catholic church ‘dying painful death’ as 500k leave in a year](https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year)
 * [2023-07-03, 15:24:18](https://news.ycombinator.com/item?id=36574221) - [100% Test Coverage](https://brandur.org/fragments/100-percent-coverage)
@@ -43,6 +47,7 @@
 * [2023-07-03, 06:53:39](https://news.ycombinator.com/item?id=36569659) - [Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
 * [2023-07-03, 06:42:59](https://news.ycombinator.com/item?id=36569592) - [NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video](https://dc.watch.impress.co.jp/docs/news/1511787.html)
 * [2023-07-03, 06:03:20](https://news.ycombinator.com/item?id=36569411) - [Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
+* [2023-07-03, 05:52:39](https://news.ycombinator.com/item?id=36569365) - [Douglas Hofstadter changes his mind on Deep Learning and AI risk](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai)
 * [2023-07-03, 04:55:09](https://news.ycombinator.com/item?id=36569044) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 * [2023-07-03, 04:48:15](https://news.ycombinator.com/item?id=36569001) - [On breaking changes in transitive dependencies](https://dmytro.sh/blog/on-breaking-changes-in-transitive-dependencies/)
 * [2023-07-03, 02:54:46](https://news.ycombinator.com/item?id=36568192) - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
