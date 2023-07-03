@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-03, 15:30:29",
+      "https://news.ycombinator.com/item?id=36574332"
+    ],
+    [
+      "German Catholic church ‘dying painful death’ as 500k leave in a year",
+      "https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 15:24:18",
       "https://news.ycombinator.com/item?id=36574221"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36574128"
     ],
     [
-      "DeltaTouch, Community-Created Delta Chat Client for Ubuntu Touch",
+      "DeltaTouch, a community created client for Ubuntu Touch",
       "https://delta.chat/en/2023-07-02-deltatouch"
     ]
   ],
@@ -27,6 +37,16 @@
     [
       "Automate Your Network",
       "https://github.com/automateyournetwork/automate_your_network"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 15:00:58",
+      "https://news.ycombinator.com/item?id=36573873"
+    ],
+    [
+      "Disabling Matrix Portalling",
+      "https://libera.chat/news/matrix-deportalling"
     ]
   ],
   [
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2023-07-03, 14:46:34",
-      "https://news.ycombinator.com/item?id=36573664"
+      "2023-07-03, 14:41:34",
+      "https://news.ycombinator.com/item?id=36573584"
     ],
     [
-      "Pay-frozen Microsofties not happy to hear of 'landmark year'",
-      "https://www.theregister.com/2023/07/03/pay_freeze_microsoft_landmark_year/"
+      "'Internet Research Agency' troll farm shut down",
+      "https://www.businessinsider.com/wagner-troll-factory-accused-of-interfering-us-elections-shut-down-2023-7"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36572953"
     ],
     [
-      "Vectorizing Graph Neural Networks",
+      "Vectorizing Graph Neural Networks (2020)",
       "https://www.moderndescartes.com/essays/vectorized_pagerank/"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-07-03, 09:35:43",
-      "https://news.ycombinator.com/item?id=36570714"
-    ],
-    [
-      "Wikipedia switches to CC BY-SA 4.0 license",
-      "https://diff.wikimedia.org/2023/06/29/stepping-into-the-future-wikimedia-projects-transition-to-creative-commons-4-0-license/"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 06:03:20",
       "https://news.ycombinator.com/item?id=36569411"
     ],
@@ -217,16 +227,6 @@
     [
       "First 'tooth regrowth' medicine moves toward clinical trials in Japan",
       "https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 13:29:12",
-      "https://news.ycombinator.com/item?id=36561309"
-    ],
-    [
-      "From AST to bytecode execution in EndBASIC (2022)",
-      "https://jmmv.dev/2022/11/endbasic-bytecode.html"
     ]
   ],
   [
