@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-03, 17:42:03",
+      "https://news.ycombinator.com/item?id=36576361"
+    ],
+    [
+      "A Dive into the Math Behind Bitcoin Schnorr Signatures",
+      "https://conduition.io/cryptography/schnorr/"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 17:01:41",
       "https://news.ycombinator.com/item?id=36575787"
     ],
@@ -217,16 +227,6 @@
     [
       "Douglas Hofstadter changes his mind on Deep Learning and AI risk",
       "https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 02:54:46",
-      "https://news.ycombinator.com/item?id=36568192"
-    ],
-    [
-      "55 GiB/s FizzBuzz (2021)",
-      "https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630"
     ]
   ],
   [
