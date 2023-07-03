@@ -69,6 +69,7 @@
 * [2023-07-02, 11:07:36](https://news.ycombinator.com/item?id=36560310) - [Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035](https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html)
 * [2023-07-02, 10:56:43](https://news.ycombinator.com/item?id=36560254) - [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
 * [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)
+* [2023-07-02, 10:42:28](https://news.ycombinator.com/item?id=36560196) - [A Dialog in Real Time (Strategy)](https://www.filfre.net/2023/06/a-dialog-in-real-time-strategy/)
 * [2023-07-02, 10:36:18](https://news.ycombinator.com/item?id=36560162) - [SoundCloud has begun blocking Datacenter IPs](https://twitter.com/sickcodes/status/1675315768236576769)
 * [2023-07-02, 10:29:55](https://news.ycombinator.com/item?id=36560136) - [Drastic increase in Tor clients from Germany](https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off)
 * [2023-07-02, 10:25:14](https://news.ycombinator.com/item?id=36560114) - [Kokuhaku: Japan’s Love Confessing Culture (2013)](https://www.tofugu.com/japan/kokuhaku-love-confessing-japan/)

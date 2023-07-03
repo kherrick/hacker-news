@@ -68,6 +68,7 @@
 * [2023-07-01, 10:41:43](https://news.ycombinator.com/item?id=36548684) - [It’s hard to give a good intuitive explanation for the volume of a cone](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
 * [2023-07-01, 10:39:36](https://news.ycombinator.com/item?id=36548676) - [gping – ping, but with a graph](https://github.com/orf/gping)
 * [2023-07-01, 10:35:11](https://news.ycombinator.com/item?id=36548657) - [YouTube's copyright system isn't broken. The world's is](https://www.youtube.com/watch?v=1Jwo5qc78QU)
+* [2023-07-01, 10:34:06](https://news.ycombinator.com/item?id=36548651) - [Theory X and Theory Y management](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
 * [2023-07-01, 08:36:28](https://news.ycombinator.com/item?id=36548056) - [Why the Champions of Affirmative Action Had to Leave Asian Americans Behind](https://www.newyorker.com/news/our-columnists/why-the-champions-of-affirmative-action-had-to-leave-asian-americans-behind)
 * [2023-07-01, 08:36:20](https://news.ycombinator.com/item?id=36548055) - [TabDB: Using browser tabs as a database like only a maniac would](https://github.com/kkuchta/tabdb)
 * [2023-07-01, 08:34:50](https://news.ycombinator.com/item?id=36548052) - [Over 900 Rarbg Magnet Link Repos Anonymously Nuked from GitHub](https://torrentfreak.com/over-900-rarbg-magnet-link-repos-anonymously-nuked-from-github-230701/)
