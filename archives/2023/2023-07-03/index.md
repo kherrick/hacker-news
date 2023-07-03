@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 15:24:18](https://news.ycombinator.com/item?id=36574221) - [100% Test Coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-03, 15:18:21](https://news.ycombinator.com/item?id=36574128) - [DeltaTouch, Community-Created Delta Chat Client for Ubuntu Touch](https://delta.chat/en/2023-07-02-deltatouch)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
 * [2023-07-03, 15:00:56](https://news.ycombinator.com/item?id=36573872) - [Vietnam bans 'Barbie' movie over South China Sea map](https://www.reuters.com/world/asia-pacific/vietnam-bans-barbie-movie-over-south-china-sea-map-2023-07-03/)

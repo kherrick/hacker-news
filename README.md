@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 15:24:18](https://news.ycombinator.com/item?id=36574221) - [100% Test Coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-03, 15:18:21](https://news.ycombinator.com/item?id=36574128) - [DeltaTouch, Community-Created Delta Chat Client for Ubuntu Touch](https://delta.chat/en/2023-07-02-deltatouch)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
 * [2023-07-03, 15:00:56](https://news.ycombinator.com/item?id=36573872) - [Vietnam bans 'Barbie' movie over South China Sea map](https://www.reuters.com/world/asia-pacific/vietnam-bans-barbie-movie-over-south-china-sea-map-2023-07-03/)
@@ -22,7 +23,6 @@
 * [2023-07-03, 02:17:29](https://news.ycombinator.com/item?id=36567918) - [Ask HN: Are people in tech inside an AI echo chamber?](https://news.ycombinator.com/item?id=36567918)
 * [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 * [2023-07-02, 13:29:12](https://news.ycombinator.com/item?id=36561309) - [From AST to bytecode execution in EndBASIC (2022)](https://jmmv.dev/2022/11/endbasic-bytecode.html)
-* [2023-07-02, 12:16:39](https://news.ycombinator.com/item?id=36560754) - [The mystery of the blend file format (2009)](https://github.com/fschutt/mystery-of-the-blend-backup)
 * [2023-07-02, 10:42:28](https://news.ycombinator.com/item?id=36560196) - [A Dialog in Real Time (Strategy)](https://www.filfre.net/2023/06/a-dialog-in-real-time-strategy/)
 * [2023-07-02, 09:22:27](https://news.ycombinator.com/item?id=36559779) - [Efficient Jagged Arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-02, 05:59:17](https://news.ycombinator.com/item?id=36558667) - [Computer built using swarms of soldier crabs (2012)](https://www.wired.com/2012/04/soldier-crabs/)
