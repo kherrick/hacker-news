@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-03, 13:58:38",
+      "https://news.ycombinator.com/item?id=36572953"
+    ],
+    [
+      "Vectorizing Graph Neural Networks",
+      "https://www.moderndescartes.com/essays/vectorized_pagerank/"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 13:34:35",
+      "https://news.ycombinator.com/item?id=36572658"
+    ],
+    [
+      "FoundationDB: A Distributed Key-Value Store",
+      "https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 13:33:18",
       "https://news.ycombinator.com/item?id=36572645"
     ],
@@ -37,16 +57,6 @@
     [
       "SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.",
       "https://www.suse.com/products/suse-liberty-linux/"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 11:14:16",
-      "https://news.ycombinator.com/item?id=36571346"
-    ],
-    [
-      "The Cluetrain Manifesto (1999)",
-      "https://www.cluetrain.com/#manifesto"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "A Quick Overview of Matrix",
       "https://juliette.page/b/matrix"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 07:06:02",
-      "https://news.ycombinator.com/item?id=36569736"
-    ],
-    [
-      "Show HN: Python can make 3M+ WebSocket keys per second",
-      "https://github.com/szabolcsdombi/optimization-demo"
     ]
   ],
   [
