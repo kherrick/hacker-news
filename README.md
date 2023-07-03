@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 06:53:39](https://news.ycombinator.com/item?id=36569659) - [Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
 * [2023-07-03, 06:03:20](https://news.ycombinator.com/item?id=36569411) - [Fluent: Static Extension Methods for Java](https://github.com/rogerkeays/fluent)
 * [2023-07-03, 04:55:09](https://news.ycombinator.com/item?id=36569044) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 * [2023-07-03, 02:54:46](https://news.ycombinator.com/item?id=36568192) - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
@@ -22,7 +23,6 @@
 * [2023-07-02, 16:25:47](https://news.ycombinator.com/item?id=36562958) - [Designing the First Apple Macintosh: The Engineers’ Story (1984)](https://spectrum.ieee.org/apple-macintosh)
 * [2023-07-02, 14:52:43](https://news.ycombinator.com/item?id=36561991) - [My Meeting with David Bohm](https://johnhorgan.org/cross-check/my-meeting-with-david-bohm-tormented-quantum-visionary)
 * [2023-07-02, 14:50:46](https://news.ycombinator.com/item?id=36561974) - [Parsing time stamps faster with SIMD instructions](https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/)
-* [2023-07-02, 14:34:58](https://news.ycombinator.com/item?id=36561847) - [Alt-F4 #65 – Factorio visualizer in Unreal Engine 5](https://alt-f4.blog/ALTF4-65/)
 * [2023-07-02, 10:17:14](https://news.ycombinator.com/item?id=36560074) - [The last Panhard to race in Le Mans is an aerodynamic piece of art](https://www.classicdriver.com/en/article/sponsored-content/last-panhard-race-le-mans-aerodynamic-piece-art)
 * [2023-07-02, 09:17:44](https://news.ycombinator.com/item?id=36559758) - [iAnnotate – Whatever happened to the web as an annotation system? (2013)](https://scholarlykitchen.sspnet.org/2013/04/30/iannotate-whatever-happened-to-the-web-as-an-annotation-system/)
 * [2023-07-02, 05:59:17](https://news.ycombinator.com/item?id=36558667) - [Computer built using swarms of soldier crabs (2012)](https://www.wired.com/2012/04/soldier-crabs/)
