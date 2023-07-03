@@ -2,7 +2,6 @@
 
 * [2023-07-03, 02:54:46](https://news.ycombinator.com/item?id=36568192) - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 * [2023-07-03, 02:31:33](https://news.ycombinator.com/item?id=36568022) - [Active knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
-* [2023-07-03, 01:14:38](https://news.ycombinator.com/item?id=36567570) - [Show HN: Prototype for ETH Signing for endorsing Wikipedia updates](https://www.loom.com/share/42e8a049faa64dcd9e4b8753a0bffb9c)
 * [2023-07-02, 23:42:43](https://news.ycombinator.com/item?id=36566999) - [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
 * [2023-07-02, 22:51:50](https://news.ycombinator.com/item?id=36566638) - [The Xerox Smalltalk-80 GUI Was Weird](https://collindonnell.com/the-xerox-smalltalk-80-gui-was-weird)
 * [2023-07-02, 21:51:33](https://news.ycombinator.com/item?id=36566167) - [Ericsson to WhatsApp: The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of)
@@ -17,6 +16,7 @@
 * [2023-07-02, 17:50:52](https://news.ycombinator.com/item?id=36563780) - [AMIGAlive – Play Amiga games online with people across the world](https://www.amigalive.com/)
 * [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
 * [2023-07-02, 17:00:08](https://news.ycombinator.com/item?id=36563303) - [HockeyStack (YC S23) Is Hiring Founding Engineers](https://www.ycombinator.com/companies/hockeystack/jobs/JehKPk7-founding-backend-engineer)
+* [2023-07-02, 16:57:37](https://news.ycombinator.com/item?id=36563284) - [Show HN: Script – A text editor for digitally interconnected documents](https://www.use-script.com)
 * [2023-07-02, 16:48:00](https://news.ycombinator.com/item?id=36563187) - [Are You Sure You Want to Use MMAP in Your Database Management System? (2022)](https://db.cs.cmu.edu/mmap-cidr2022/)
 * [2023-07-02, 16:25:47](https://news.ycombinator.com/item?id=36562958) - [Designing the First Apple Macintosh: The Engineers’ Story (1984)](https://spectrum.ieee.org/apple-macintosh)
 * [2023-07-02, 16:15:54](https://news.ycombinator.com/item?id=36562868) - [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
