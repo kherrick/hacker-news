@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-07-03, 06:42:59",
-      "https://news.ycombinator.com/item?id=36569592"
-    ],
-    [
-      "NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video",
-      "https://dc.watch.impress.co.jp/docs/news/1511787.html"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 06:03:20",
       "https://news.ycombinator.com/item?id=36569411"
     ],
@@ -227,6 +217,16 @@
     [
       "First 'tooth regrowth' medicine moves toward clinical trials in Japan",
       "https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 16:48:00",
+      "https://news.ycombinator.com/item?id=36563187"
+    ],
+    [
+      "Are You Sure You Want to Use MMAP in Your Database Management System? (2022)",
+      "https://db.cs.cmu.edu/mmap-cidr2022/"
     ]
   ],
   [
