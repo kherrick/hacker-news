@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 17:42:03](https://news.ycombinator.com/item?id=36576361) - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
 * [2023-07-03, 16:59:03](https://news.ycombinator.com/item?id=36575742) - [Use Clean Energy Charging on Your iPhone](https://support.apple.com/en-us/HT213323)
@@ -22,7 +23,6 @@
 * [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 05:52:39](https://news.ycombinator.com/item?id=36569365) - [Douglas Hofstadter changes his mind on Deep Learning and AI risk](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai)
-* [2023-07-03, 02:54:46](https://news.ycombinator.com/item?id=36568192) - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 * [2023-07-03, 02:04:35](https://news.ycombinator.com/item?id=36567839) - [Google’s quantum computer instantly makes calculations that take rivals 47 years](https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html)
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
 * [2023-07-02, 10:42:28](https://news.ycombinator.com/item?id=36560196) - [A Dialog in Real Time (Strategy)](https://www.filfre.net/2023/06/a-dialog-in-real-time-strategy/)
