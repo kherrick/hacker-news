@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-03, 13:52:15](https://news.ycombinator.com/item?id=36572875) - [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
 * [2023-07-03, 13:11:59](https://news.ycombinator.com/item?id=36572401) - [Self-Driving Cars Are Surveillance Cameras on Wheels](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
 * [2023-07-03, 12:48:30](https://news.ycombinator.com/item?id=36572154) - [The rapid rise and meteoric fall of Doc Burnstein's Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
 * [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
+* [2023-07-03, 11:27:20](https://news.ycombinator.com/item?id=36571433) - [A researcher who publishes a study every two days](https://english.elpais.com/science-tech/2023-06-04/a-researcher-who-publishes-a-study-every-two-days-reveals-the-darker-side-of-science.html)
 * [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto (1999)](https://www.cluetrain.com/#manifesto)
 * [2023-07-03, 11:01:37](https://news.ycombinator.com/item?id=36571251) - [OCR at Edge on Cloudflare Constellation](https://notes.willhackett.com/edge-ocr/)
 * [2023-07-03, 10:41:47](https://news.ycombinator.com/item?id=36571116) - [A curated list of data oriented design resources](https://github.com/dbartolini/data-oriented-design)
