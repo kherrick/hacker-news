@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 19:39:34](https://news.ycombinator.com/item?id=36577822) - [Deep-sea mining may soon ease the world's battery-metal shortage](https://www.economist.com/science-and-technology/2023/07/02/deep-sea-mining-may-soon-ease-the-worlds-battery-metal-shortage)
 * [2023-07-03, 19:33:26](https://news.ycombinator.com/item?id=36577760) - [Against Alcohol](https://www.thefitzwilliam.com/p/against-alcohol)
 * [2023-07-03, 19:12:59](https://news.ycombinator.com/item?id=36577536) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:50:03](https://news.ycombinator.com/item?id=36577290) - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
