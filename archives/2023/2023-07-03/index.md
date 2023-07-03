@@ -8,6 +8,7 @@
 * [2023-07-03, 13:11:59](https://news.ycombinator.com/item?id=36572401) - [Self-Driving Cars Are Surveillance Cameras on Wheels](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
 * [2023-07-03, 13:04:58](https://news.ycombinator.com/item?id=36572326) - [Six-year-old saves mum by calling for help on Alexa device](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-66085014)
 * [2023-07-03, 12:48:30](https://news.ycombinator.com/item?id=36572154) - [The rapid rise and meteoric fall of Doc Burnstein's Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
+* [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
 * [2023-07-03, 11:24:26](https://news.ycombinator.com/item?id=36571407) - [No One Is Happy About Diversity Efforts at Work](https://www.wsj.com/articles/diversity-workplace-affirmative-action-dei-3646683b)
 * [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto](https://www.cluetrain.com/#manifesto)
 * [2023-07-03, 11:01:47](https://news.ycombinator.com/item?id=36571253) - [I prefer trunk-based development](https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/)

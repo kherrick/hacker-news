@@ -63,6 +63,7 @@
 * [2023-07-01, 12:06:29](https://news.ycombinator.com/item?id=36549218) - [The problem with federated web apps](https://www.devever.net/~hl/webappcoupling)
 * [2023-07-01, 11:44:53](https://news.ycombinator.com/item?id=36549077) - [June 25th, 2023 Deno Deploy Postmortem](https://deno.com/blog/2023-06-25-outage-post-mortem)
 * [2023-07-01, 11:35:10](https://news.ycombinator.com/item?id=36549018) - [Origin Stories: Plantations, Computers, and Industrial Control](https://logicmag.io/supa-dupa-skies/origin-stories-plantations-computers-and-industrial-control/)
+* [2023-07-01, 11:24:31](https://news.ycombinator.com/item?id=36548951) - [Lookup Tables – Forth Dimensions (1997)](https://benhoyt.com/writings/forth-lookup-tables/)
 * [2023-07-01, 11:12:53](https://news.ycombinator.com/item?id=36548879) - [The Current Challenges with Using Linux on Airplanes](https://www.phoronix.com/news/Linux-On-Airplanes-Challenges)
 * [2023-07-01, 10:54:23](https://news.ycombinator.com/item?id=36548753) - [Psilocybin Decelerates Cellular Senescence](https://assets.researchsquare.com/files/rs-2921423/v1/3b645823-4eee-4717-8d80-f17baf2c56c9.pdf?c=1687887547)
 * [2023-07-01, 10:41:43](https://news.ycombinator.com/item?id=36548684) - [It’s hard to give a good intuitive explanation for the volume of a cone](https://math.stackexchange.com/questions/623/why-is-the-volume-of-a-cone-one-third-of-the-volume-of-a-cylinder)
