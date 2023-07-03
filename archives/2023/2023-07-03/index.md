@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 09:35:43](https://news.ycombinator.com/item?id=36570714) - [Wikipedia switches to CC BY-SA 4.0 license](https://diff.wikimedia.org/2023/06/29/stepping-into-the-future-wikimedia-projects-transition-to-creative-commons-4-0-license/)
 * [2023-07-03, 09:03:24](https://news.ycombinator.com/item?id=36570499) - [Detecting and Handling Flaky Tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright)
 * [2023-07-03, 08:05:33](https://news.ycombinator.com/item?id=36570139) - [Batteries and Renewables Are Saving Texas During the Heat Wave](https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/)
