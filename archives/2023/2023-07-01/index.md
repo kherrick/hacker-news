@@ -40,6 +40,7 @@
 * [2023-07-01, 15:35:41](https://news.ycombinator.com/item?id=36551212) - [Orca Rams into Yacht Near Scotland, Suggesting the Behavior May Be Spreading](https://www.smithsonianmag.com/smart-news/orca-rams-into-yacht-near-scotland-behavior-may-be-spreading-180982429/)
 * [2023-07-01, 15:19:27](https://news.ycombinator.com/item?id=36551052) - [Lev Landau's “Theoretical Minimum”](https://physics.stackexchange.com/questions/13861/lev-landaus-theoretical-minimum)
 * [2023-07-01, 14:41:56](https://news.ycombinator.com/item?id=36550615) - [How to Do Great Work](http://paulgraham.com/greatwork.html)
+* [2023-07-01, 14:39:40](https://news.ycombinator.com/item?id=36550598) - [Douglas Rushkoff: Crashing Technosolutionism [video]](https://www.youtube.com/watch?v=RCVXaqSEqmI)
 * [2023-07-01, 14:38:04](https://news.ycombinator.com/item?id=36550582) - [A child’s privacy is worth more than likes (2022)](https://www.theprivacywhisperer.com/p/your-childs-privacy-is-worth-more)
 * [2023-07-01, 14:29:11](https://news.ycombinator.com/item?id=36550493) - [The Mystery of Crime-Scene Dust](https://daily.jstor.org/the-mystery-of-crime-scene-dust/)
 * [2023-07-01, 14:17:58](https://news.ycombinator.com/item?id=36550379) - [Multimodal Interaction: A Review [pdf]](https://sites.cs.ucsb.edu/~mturk/Papers/TurkPRL2013.pdf)
