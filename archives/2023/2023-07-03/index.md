@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 23:05:16](https://news.ycombinator.com/item?id=36579963) - [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
 * [2023-07-03, 22:56:19](https://news.ycombinator.com/item?id=36579877) - [Velt (YC W22) Is Hiring](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
+* [2023-07-03, 22:16:01](https://news.ycombinator.com/item?id=36579519) - [Utilities Use Dark Money to Stop Climate Progress](https://climatebase.org/blog/utilities-use-dark-money-to-stop-climate-progress)
 * [2023-07-03, 21:37:44](https://news.ycombinator.com/item?id=36579181) - [LLMs are too easy to automatically red team into toxicity](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
 * [2023-07-03, 20:40:22](https://news.ycombinator.com/item?id=36578489) - [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
 * [2023-07-03, 20:30:25](https://news.ycombinator.com/item?id=36578354) - [Show HN: Yet another macOS ChatGPT app](https://letsflyai.com)
@@ -19,6 +21,7 @@
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
 * [2023-07-03, 16:59:03](https://news.ycombinator.com/item?id=36575742) - [Use Clean Energy Charging on Your iPhone](https://support.apple.com/en-us/HT213323)
 * [2023-07-03, 16:57:23](https://news.ycombinator.com/item?id=36575712) - [SlowDownAndWasteMemory()](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp)
+* [2023-07-03, 16:57:23](https://news.ycombinator.com/item?id=36575712) - [SlowDownAndWasteMemory()](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp#L269)
 * [2023-07-03, 16:42:41](https://news.ycombinator.com/item?id=36575443) - [Bfloat16 support coming to Apple's Metal and PyTorch [video]](https://developer.apple.com/videos/play/wwdc2023/10050/?time=590)
 * [2023-07-03, 16:23:31](https://news.ycombinator.com/item?id=36575190) - [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
 * [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA Is This?](https://pudding.cool/games/where/)
