@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-07-03, 18:39:28",
-      "https://news.ycombinator.com/item?id=36577154"
-    ],
-    [
-      "On the State of the Web",
-      "https://manuelmoreale.com/on-the-state-of-the-web"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 17:42:03",
       "https://news.ycombinator.com/item?id=36576361"
     ],
@@ -247,6 +237,16 @@
     [
       "Data-Oriented Design (2018)",
       "https://www.dataorienteddesign.com/dodbook/dodmain.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 06:28:44",
+      "https://news.ycombinator.com/item?id=36569526"
+    ],
+    [
+      "The evolving Unix attitudes on handling signals in your code",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/SignalHandlingOverTime"
     ]
   ],
   [
