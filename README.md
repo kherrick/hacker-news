@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-03, 19:39:34](https://news.ycombinator.com/item?id=36577822) - [Deep-sea mining may soon ease the world's battery-metal shortage](https://www.economist.com/science-and-technology/2023/07/02/deep-sea-mining-may-soon-ease-the-worlds-battery-metal-shortage)
-* [2023-07-03, 19:33:26](https://news.ycombinator.com/item?id=36577760) - [Against Alcohol](https://www.thefitzwilliam.com/p/against-alcohol)
 * [2023-07-03, 19:12:59](https://news.ycombinator.com/item?id=36577536) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:50:03](https://news.ycombinator.com/item?id=36577290) - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
 * [2023-07-03, 18:39:28](https://news.ycombinator.com/item?id=36577154) - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
@@ -26,6 +25,7 @@
 * [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto (1999)](https://www.cluetrain.com/#manifesto)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 05:52:39](https://news.ycombinator.com/item?id=36569365) - [Douglas Hofstadter changes his mind on Deep Learning and AI risk](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai)
+* [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
 * [2023-07-03, 02:04:35](https://news.ycombinator.com/item?id=36567839) - [Google’s quantum computer instantly makes calculations that take rivals 47 years](https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html)
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
 * [2023-07-01, 11:57:14](https://news.ycombinator.com/item?id=36549154) - [David Rumsey Map Collection](https://www.davidrumsey.com/)
