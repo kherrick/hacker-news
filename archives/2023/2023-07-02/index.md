@@ -65,6 +65,7 @@
 * [2023-07-02, 12:26:08](https://news.ycombinator.com/item?id=36560830) - [Scope-based resource management for the Linux kernel](https://lwn.net/Articles/934679/)
 * [2023-07-02, 12:24:15](https://news.ycombinator.com/item?id=36560815) - [Delve: A Solo Map Drawing Game](https://blackwellwriter.itch.io/delve-a-solo-map-drawing-game)
 * [2023-07-02, 12:19:22](https://news.ycombinator.com/item?id=36560769) - [Tackling America's weirdly short life expectancy should be a priority](https://www.slowboring.com/p/tackling-americas-weirdly-short-life)
+* [2023-07-02, 12:16:39](https://news.ycombinator.com/item?id=36560754) - [The mystery of the blend file format (2009)](https://github.com/fschutt/mystery-of-the-blend-backup)
 * [2023-07-02, 11:07:36](https://news.ycombinator.com/item?id=36560310) - [Bonilla hasn’t played for over 20 years. NY Mets pay him $1.2M a year until 2035](https://www.cnn.com/2020/07/01/us/bobby-bonilla-day-mets-mlb-spt-trnd/index.html)
 * [2023-07-02, 10:56:43](https://news.ycombinator.com/item?id=36560254) - [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
 * [2023-07-02, 10:54:46](https://news.ycombinator.com/item?id=36560242) - [Windows 10 on the Xiaomi PocoPhone F1](https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/)

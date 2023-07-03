@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 11:24:26](https://news.ycombinator.com/item?id=36571407) - [No One Is Happy About Diversity Efforts at Work](https://www.wsj.com/articles/diversity-workplace-affirmative-action-dei-3646683b)
+* [2023-07-03, 10:41:47](https://news.ycombinator.com/item?id=36571116) - [A curated list of data oriented design resources](https://github.com/dbartolini/data-oriented-design)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 09:35:43](https://news.ycombinator.com/item?id=36570714) - [Wikipedia switches to CC BY-SA 4.0 license](https://diff.wikimedia.org/2023/06/29/stepping-into-the-future-wikimedia-projects-transition-to-creative-commons-4-0-license/)
 * [2023-07-03, 09:03:24](https://news.ycombinator.com/item?id=36570499) - [Detecting and Handling Flaky Tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright)
