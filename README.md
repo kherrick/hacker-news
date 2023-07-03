@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 09:35:43](https://news.ycombinator.com/item?id=36570714) - [Wikipedia switches to CC BY-SA 4.0 license](https://diff.wikimedia.org/2023/06/29/stepping-into-the-future-wikimedia-projects-transition-to-creative-commons-4-0-license/)
 * [2023-07-03, 09:03:24](https://news.ycombinator.com/item?id=36570499) - [Detecting and Handling Flaky Tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright)
 * [2023-07-03, 08:05:33](https://news.ycombinator.com/item?id=36570139) - [Batteries and Renewables Are Saving Texas During the Heat Wave](https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/)
 * [2023-07-03, 07:06:02](https://news.ycombinator.com/item?id=36569736) - [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)
@@ -22,10 +23,9 @@
 * [2023-07-02, 18:12:09](https://news.ycombinator.com/item?id=36564010) - [JavaScript Gom Jabbar](https://frantic.im/javascript-gom-jabbar/)
 * [2023-07-02, 17:50:52](https://news.ycombinator.com/item?id=36563780) - [AMIGAlive – Play Amiga games online with people across the world](https://www.amigalive.com/)
 * [2023-07-02, 17:33:17](https://news.ycombinator.com/item?id=36563590) - [First 'tooth regrowth' medicine moves toward clinical trials in Japan](https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c)
-* [2023-07-02, 16:48:00](https://news.ycombinator.com/item?id=36563187) - [Are You Sure You Want to Use MMAP in Your Database Management System? (2022)](https://db.cs.cmu.edu/mmap-cidr2022/)
 * [2023-07-02, 14:32:04](https://news.ycombinator.com/item?id=36561827) - [Before Xerox, there was Addressograph](https://pncnmnp.github.io/blogs/addressograph.html)
 * [2023-07-02, 13:29:12](https://news.ycombinator.com/item?id=36561309) - [From AST to bytecode execution in EndBASIC](https://jmmv.dev/2022/11/endbasic-bytecode.html)
-* [2023-07-02, 12:32:30](https://news.ycombinator.com/item?id=36560864) - [Exploring the Vibrant World of Indigo](https://worldsensorium.com/exploring-the-vibrant-world-of-indigo-history-controversies-and-sustainable-solutions/)
+* [2023-07-02, 09:22:27](https://news.ycombinator.com/item?id=36559779) - [Efficient Jagged Arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-02, 09:17:44](https://news.ycombinator.com/item?id=36559758) - [iAnnotate – Whatever happened to the web as an annotation system? (2013)](https://scholarlykitchen.sspnet.org/2013/04/30/iannotate-whatever-happened-to-the-web-as-an-annotation-system/)
 * [2023-07-01, 14:39:40](https://news.ycombinator.com/item?id=36550598) - [Douglas Rushkoff: Crashing Technosolutionism [video]](https://www.youtube.com/watch?v=RCVXaqSEqmI)
 * [2023-07-01, 13:49:10](https://news.ycombinator.com/item?id=36550086) - [Simula – The forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
