@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 21:37:44](https://news.ycombinator.com/item?id=36579181) - [LLMs are too easy to automatically red team into toxicity](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
 * [2023-07-03, 20:40:22](https://news.ycombinator.com/item?id=36578489) - [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
 * [2023-07-03, 20:30:25](https://news.ycombinator.com/item?id=36578354) - [Show HN: Yet another macOS ChatGPT app](https://letsflyai.com)
 * [2023-07-03, 19:39:34](https://news.ycombinator.com/item?id=36577822) - [Deep-sea mining may soon ease the world's battery-metal shortage](https://www.economist.com/science-and-technology/2023/07/02/deep-sea-mining-may-soon-ease-the-worlds-battery-metal-shortage)

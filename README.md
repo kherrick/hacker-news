@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 21:37:44](https://news.ycombinator.com/item?id=36579181) - [LLMs are too easy to automatically red team into toxicity](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
 * [2023-07-03, 20:40:22](https://news.ycombinator.com/item?id=36578489) - [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
 * [2023-07-03, 20:30:25](https://news.ycombinator.com/item?id=36578354) - [Show HN: Yet another macOS ChatGPT app](https://letsflyai.com)
-* [2023-07-03, 19:39:34](https://news.ycombinator.com/item?id=36577822) - [Deep-sea mining may soon ease the world's battery-metal shortage](https://www.economist.com/science-and-technology/2023/07/02/deep-sea-mining-may-soon-ease-the-worlds-battery-metal-shortage)
+* [2023-07-03, 19:12:59](https://news.ycombinator.com/item?id=36577536) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:50:03](https://news.ycombinator.com/item?id=36577290) - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
 * [2023-07-03, 17:42:03](https://news.ycombinator.com/item?id=36576361) - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
@@ -19,7 +20,6 @@
 * [2023-07-03, 15:00:58](https://news.ycombinator.com/item?id=36573873) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
 * [2023-07-03, 15:00:51](https://news.ycombinator.com/item?id=36573869) - [Ask HN: Who wants to be hired? (July 2023)](https://news.ycombinator.com/item?id=36573869)
-* [2023-07-03, 13:58:38](https://news.ycombinator.com/item?id=36572953) - [Vectorizing Graph Neural Networks (2020)](https://www.moderndescartes.com/essays/vectorized_pagerank/)
 * [2023-07-03, 13:34:35](https://news.ycombinator.com/item?id=36572658) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
 * [2023-07-03, 13:33:18](https://news.ycombinator.com/item?id=36572645) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
