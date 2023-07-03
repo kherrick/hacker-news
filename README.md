@@ -2,6 +2,7 @@
 
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
+* [2023-07-03, 16:59:03](https://news.ycombinator.com/item?id=36575742) - [Use Clean Energy Charging on Your iPhone](https://support.apple.com/en-us/HT213323)
 * [2023-07-03, 16:57:23](https://news.ycombinator.com/item?id=36575712) - [SlowDownAndWasteMemory()](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp)
 * [2023-07-03, 16:42:41](https://news.ycombinator.com/item?id=36575443) - [Bfloat16 support coming to Apple's Metal and PyTorch [video]](https://developer.apple.com/videos/play/wwdc2023/10050/?time=590)
 * [2023-07-03, 16:23:31](https://news.ycombinator.com/item?id=36575190) - [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
@@ -20,7 +21,6 @@
 * [2023-07-03, 13:33:18](https://news.ycombinator.com/item?id=36572645) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
-* [2023-07-03, 09:02:11](https://news.ycombinator.com/item?id=36570488) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 * [2023-07-03, 05:52:39](https://news.ycombinator.com/item?id=36569365) - [Douglas Hofstadter changes his mind on Deep Learning and AI risk](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai)
 * [2023-07-03, 02:54:46](https://news.ycombinator.com/item?id=36568192) - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 * [2023-07-03, 02:04:35](https://news.ycombinator.com/item?id=36567839) - [Google’s quantum computer instantly makes calculations that take rivals 47 years](https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html)

@@ -6,6 +6,7 @@
 
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
+* [2023-07-03, 16:59:03](https://news.ycombinator.com/item?id=36575742) - [Use Clean Energy Charging on Your iPhone](https://support.apple.com/en-us/HT213323)
 * [2023-07-03, 16:57:23](https://news.ycombinator.com/item?id=36575712) - [SlowDownAndWasteMemory()](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp)
 * [2023-07-03, 16:42:41](https://news.ycombinator.com/item?id=36575443) - [Bfloat16 support coming to Apple's Metal and PyTorch [video]](https://developer.apple.com/videos/play/wwdc2023/10050/?time=590)
 * [2023-07-03, 16:23:31](https://news.ycombinator.com/item?id=36575190) - [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
