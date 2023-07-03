@@ -21,6 +21,7 @@
 * [2023-07-03, 14:46:34](https://news.ycombinator.com/item?id=36573664) - [Pay-frozen Microsofties not happy to hear of 'landmark year'](https://www.theregister.com/2023/07/03/pay_freeze_microsoft_landmark_year/)
 * [2023-07-03, 14:41:34](https://news.ycombinator.com/item?id=36573584) - ['Internet Research Agency' troll farm shut down](https://www.businessinsider.com/wagner-troll-factory-accused-of-interfering-us-elections-shut-down-2023-7)
 * [2023-07-03, 14:31:00](https://news.ycombinator.com/item?id=36573437) - [Humane unveils AI Pin – a contextual computer with a mini projector](https://hu.ma.ne)
+* [2023-07-03, 14:19:28](https://news.ycombinator.com/item?id=36573254) - [Classifier Free Guidance works on LLMs with a significant boost in performance](https://arxiv.org/abs/2306.17806)
 * [2023-07-03, 13:58:38](https://news.ycombinator.com/item?id=36572953) - [Vectorizing Graph Neural Networks](https://www.moderndescartes.com/essays/vectorized_pagerank/)
 * [2023-07-03, 13:52:15](https://news.ycombinator.com/item?id=36572875) - [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
 * [2023-07-03, 13:34:35](https://news.ycombinator.com/item?id=36572658) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
