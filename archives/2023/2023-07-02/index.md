@@ -82,6 +82,7 @@
 * [2023-07-02, 06:14:31](https://news.ycombinator.com/item?id=36558759) - [Course Notes: A Functional Introduction to Computer Science (UWaterloo)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
 * [2023-07-02, 05:10:03](https://news.ycombinator.com/item?id=36558428) - [Why do Ivy League students self-sabotage?](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
 * [2023-07-02, 05:08:40](https://news.ycombinator.com/item?id=36558414) - [Decoy Defenses: How Honeypots Sweeten Cybersecurity Strategies](https://www.thefinalhop.com/decoy-defenses-how-honeypots-sweeten-cybersecurity-strategies/)
+* [2023-07-02, 05:01:49](https://news.ycombinator.com/item?id=36558378) - [Dust3D – Low Poly Modeling Tool](https://dust3d.org/)
 * [2023-07-02, 03:46:33](https://news.ycombinator.com/item?id=36558032) - [GPT-Migrate converts repos from one lang/framework to another](https://github.com/0xpayne/gpt-migrate)
 * [2023-07-02, 03:32:57](https://news.ycombinator.com/item?id=36557974) - [The Titan Submersible Was “An Accident Waiting to Happen”](https://www.newyorker.com/news/a-reporter-at-large/the-titan-submersible-was-an-accident-waiting-to-happen)
 * [2023-07-02, 03:05:19](https://news.ycombinator.com/item?id=36557819) - [Safe Enough?](https://astralcodexten.substack.com/p/your-book-review-safe-enough)
