@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 13:04:58](https://news.ycombinator.com/item?id=36572326) - [Six-year-old saves mum by calling for help on Alexa device](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-66085014)
 * [2023-07-03, 11:24:26](https://news.ycombinator.com/item?id=36571407) - [No One Is Happy About Diversity Efforts at Work](https://www.wsj.com/articles/diversity-workplace-affirmative-action-dei-3646683b)
 * [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto](https://www.cluetrain.com/#manifesto)
 * [2023-07-03, 11:01:47](https://news.ycombinator.com/item?id=36571253) - [I prefer trunk-based development](https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/)

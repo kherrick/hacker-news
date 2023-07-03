@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 13:04:58](https://news.ycombinator.com/item?id=36572326) - [Six-year-old saves mum by calling for help on Alexa device](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-66085014)
 * [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto](https://www.cluetrain.com/#manifesto)
 * [2023-07-03, 11:01:47](https://news.ycombinator.com/item?id=36571253) - [I prefer trunk-based development](https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/)
 * [2023-07-03, 11:01:37](https://news.ycombinator.com/item?id=36571251) - [OCR at Edge on Cloudflare Constellation](https://notes.willhackett.com/edge-ocr/)
@@ -27,7 +28,6 @@
 * [2023-07-02, 10:17:14](https://news.ycombinator.com/item?id=36560074) - [The last Panhard to race in Le Mans is an aerodynamic piece of art](https://www.classicdriver.com/en/article/sponsored-content/last-panhard-race-le-mans-aerodynamic-piece-art)
 * [2023-07-02, 09:22:27](https://news.ycombinator.com/item?id=36559779) - [Efficient Jagged Arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-02, 09:17:44](https://news.ycombinator.com/item?id=36559758) - [iAnnotate – Whatever happened to the web as an annotation system? (2013)](https://scholarlykitchen.sspnet.org/2013/04/30/iannotate-whatever-happened-to-the-web-as-an-annotation-system/)
-* [2023-07-01, 14:39:40](https://news.ycombinator.com/item?id=36550598) - [Douglas Rushkoff: Crashing Technosolutionism [video]](https://www.youtube.com/watch?v=RCVXaqSEqmI)
 * [2023-07-01, 13:49:10](https://news.ycombinator.com/item?id=36550086) - [Simula – The forgotten programming language](https://www.deusinmachina.net/p/simula-the-forgotten-programming)
 * [2023-06-28, 14:58:48](https://news.ycombinator.com/item?id=36507423) - [2,200 forgotten vintage computers from a barn in Massachusetts](https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts)
 
