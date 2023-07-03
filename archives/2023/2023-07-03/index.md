@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 08:05:33](https://news.ycombinator.com/item?id=36570139) - [Batteries and Renewables Are Saving Texas During the Heat Wave](https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/)
+* [2023-07-03, 07:06:02](https://news.ycombinator.com/item?id=36569736) - [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)
 * [2023-07-03, 07:04:40](https://news.ycombinator.com/item?id=36569727) - [Perl 5.38 Released](https://perldoc.perl.org/perl5380delta)
 * [2023-07-03, 06:53:39](https://news.ycombinator.com/item?id=36569659) - [Tesla gives UK owners grabbing stick after forcing them to get left-hand-drive](https://electrek.co/2023/06/30/tesla-gives-new-owners-uk-grabbing-stick-after-forcing-left-hand-drive/)
 * [2023-07-03, 06:42:59](https://news.ycombinator.com/item?id=36569592) - [NanoSnap: A 19g, 5x3cm camera with 4K photo and 2K video](https://dc.watch.impress.co.jp/docs/news/1511787.html)
