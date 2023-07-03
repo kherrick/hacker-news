@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 15:30:29](https://news.ycombinator.com/item?id=36574332) - [German Catholic church ‘dying painful death’ as 500k leave in a year](https://www.theguardian.com/world/2023/jun/29/german-catholic-church-dying-painful-death-as-500000-leave-in-a-year)
 * [2023-07-03, 15:24:18](https://news.ycombinator.com/item?id=36574221) - [100% Test Coverage](https://brandur.org/fragments/100-percent-coverage)
 * [2023-07-03, 15:18:21](https://news.ycombinator.com/item?id=36574128) - [DeltaTouch, Community-Created Delta Chat Client for Ubuntu Touch](https://delta.chat/en/2023-07-02-deltatouch)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
+* [2023-07-03, 15:00:58](https://news.ycombinator.com/item?id=36573873) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-03, 15:00:56](https://news.ycombinator.com/item?id=36573872) - [Vietnam bans 'Barbie' movie over South China Sea map](https://www.reuters.com/world/asia-pacific/vietnam-bans-barbie-movie-over-south-china-sea-map-2023-07-03/)
 * [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
 * [2023-07-03, 14:46:54](https://news.ycombinator.com/item?id=36573667) - [Apple forced to make major cuts to Vision Pro headset production plans](https://www.ft.com/content/b6f06bde-17b0-4886-b465-b561212c96a9)
 * [2023-07-03, 14:46:34](https://news.ycombinator.com/item?id=36573664) - [Pay-frozen Microsofties not happy to hear of 'landmark year'](https://www.theregister.com/2023/07/03/pay_freeze_microsoft_landmark_year/)
+* [2023-07-03, 14:41:34](https://news.ycombinator.com/item?id=36573584) - ['Internet Research Agency' troll farm shut down](https://www.businessinsider.com/wagner-troll-factory-accused-of-interfering-us-elections-shut-down-2023-7)
 * [2023-07-03, 14:31:00](https://news.ycombinator.com/item?id=36573437) - [Humane unveils AI Pin – a contextual computer with a mini projector](https://hu.ma.ne)
 * [2023-07-03, 13:58:38](https://news.ycombinator.com/item?id=36572953) - [Vectorizing Graph Neural Networks](https://www.moderndescartes.com/essays/vectorized_pagerank/)
 * [2023-07-03, 13:52:15](https://news.ycombinator.com/item?id=36572875) - [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
