@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 18:10:33](https://news.ycombinator.com/item?id=36576745) - [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
 * [2023-07-03, 17:42:03](https://news.ycombinator.com/item?id=36576361) - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)

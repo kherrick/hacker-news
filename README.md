@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 18:10:33](https://news.ycombinator.com/item?id=36576745) - [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
 * [2023-07-03, 17:42:03](https://news.ycombinator.com/item?id=36576361) - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
@@ -27,7 +28,6 @@
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
 * [2023-07-02, 10:42:28](https://news.ycombinator.com/item?id=36560196) - [A Dialog in Real Time (Strategy)](https://www.filfre.net/2023/06/a-dialog-in-real-time-strategy/)
 * [2023-07-02, 09:01:37](https://news.ycombinator.com/item?id=36559683) - [The anatomy of search: A token of my affection (2018)](https://wikimediafoundation.org/news/2018/08/07/anatomy-search-token-affection/)
-* [2023-07-02, 05:59:17](https://news.ycombinator.com/item?id=36558667) - [Computer built using swarms of soldier crabs (2012)](https://www.wired.com/2012/04/soldier-crabs/)
 * [2023-07-01, 11:57:14](https://news.ycombinator.com/item?id=36549154) - [David Rumsey Map Collection](https://www.davidrumsey.com/)
 * [2023-07-01, 10:34:06](https://news.ycombinator.com/item?id=36548651) - [Theory X and Theory Y management](https://en.wikipedia.org/wiki/Theory_X_and_Theory_Y)
 
