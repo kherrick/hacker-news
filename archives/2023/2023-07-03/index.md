@@ -26,6 +26,7 @@
 * [2023-07-03, 15:00:58](https://news.ycombinator.com/item?id=36573873) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-03, 15:00:56](https://news.ycombinator.com/item?id=36573872) - [Vietnam bans 'Barbie' movie over South China Sea map](https://www.reuters.com/world/asia-pacific/vietnam-bans-barbie-movie-over-south-china-sea-map-2023-07-03/)
 * [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
+* [2023-07-03, 15:00:51](https://news.ycombinator.com/item?id=36573869) - [Ask HN: Who wants to be hired? (July 2023)](https://news.ycombinator.com/item?id=36573869)
 * [2023-07-03, 14:46:54](https://news.ycombinator.com/item?id=36573667) - [Apple forced to make major cuts to Vision Pro headset production plans](https://www.ft.com/content/b6f06bde-17b0-4886-b465-b561212c96a9)
 * [2023-07-03, 14:46:34](https://news.ycombinator.com/item?id=36573664) - [Pay-frozen Microsofties not happy to hear of 'landmark year'](https://www.theregister.com/2023/07/03/pay_freeze_microsoft_landmark_year/)
 * [2023-07-03, 14:41:34](https://news.ycombinator.com/item?id=36573584) - ['Internet Research Agency' troll farm shut down](https://www.businessinsider.com/wagner-troll-factory-accused-of-interfering-us-elections-shut-down-2023-7)
