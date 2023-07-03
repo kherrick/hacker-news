@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-03, 15:50:21",
+      "https://news.ycombinator.com/item?id=36574645"
+    ],
+    [
+      "An Interactive Guide to SVG Paths",
+      "https://www.nan.fyi/svg-paths"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 15:21:42",
+      "https://news.ycombinator.com/item?id=36574173"
+    ],
+    [
+      "Large scale precursor correlations between cosmic rays and earthquakes (2022)",
+      "https://arxiv.org/abs/2204.12310"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 15:18:21",
       "https://news.ycombinator.com/item?id=36574128"
     ],
@@ -27,16 +47,6 @@
     [
       "Disabling Matrix Portalling",
       "https://libera.chat/news/matrix-deportalling"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 15:00:56",
-      "https://news.ycombinator.com/item?id=36573872"
-    ],
-    [
-      "Vietnam bans 'Barbie' movie over South China Sea map",
-      "https://www.reuters.com/world/asia-pacific/vietnam-bans-barbie-movie-over-south-china-sea-map-2023-07-03/"
     ]
   ],
   [
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2023-07-03, 11:01:47",
-      "https://news.ycombinator.com/item?id=36571253"
-    ],
-    [
-      "I prefer trunk-based development",
-      "https://trishagee.com/2023/05/29/why-i-prefer-trunk-based-development/"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 11:01:37",
       "https://news.ycombinator.com/item?id=36571251"
     ],
@@ -127,16 +127,6 @@
     [
       "Data-Oriented Design (2018)",
       "https://www.dataorienteddesign.com/dodbook/dodmain.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 10:37:50",
-      "https://news.ycombinator.com/item?id=36571081"
-    ],
-    [
-      "AMD to Expand ROCm Support to Consumer RDNA 3 GPUs This Fall",
-      "https://www.tomshardware.com/news/amd-to-expand-rocm-support-to-pro-and-consumer-rdna-3-gpus-this-fall"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2023-07-03, 08:38:15",
-      "https://news.ycombinator.com/item?id=36570339"
-    ],
-    [
-      "A Quick Overview of Matrix",
-      "https://juliette.page/b/matrix"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 06:03:20",
       "https://news.ycombinator.com/item?id=36569411"
     ],
@@ -187,6 +167,16 @@
     [
       "Nvidia’s H100: Funny L2, and Tons of Bandwidth",
       "https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 04:48:15",
+      "https://news.ycombinator.com/item?id=36569001"
+    ],
+    [
+      "On breaking changes in transitive dependencies",
+      "https://dmytro.sh/blog/on-breaking-changes-in-transitive-dependencies/"
     ]
   ],
   [
@@ -211,22 +201,22 @@
   ],
   [
     [
+      "2023-07-03, 02:04:35",
+      "https://news.ycombinator.com/item?id=36567839"
+    ],
+    [
+      "Google’s quantum computer instantly makes calculations that take rivals 47 years",
+      "https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html"
+    ]
+  ],
+  [
+    [
       "2023-07-02, 17:33:17",
       "https://news.ycombinator.com/item?id=36563590"
     ],
     [
       "First 'tooth regrowth' medicine moves toward clinical trials in Japan",
       "https://mainichi.jp/english/articles/20230609/p2a/00m/0sc/026000c"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 13:29:12",
-      "https://news.ycombinator.com/item?id=36561309"
-    ],
-    [
-      "From AST to bytecode execution in EndBASIC (2022)",
-      "https://jmmv.dev/2022/11/endbasic-bytecode.html"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Efficient Jagged Arrays",
       "https://zeux.io/2023/06/30/efficient-jagged-arrays/"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 08:16:38",
+      "https://news.ycombinator.com/item?id=36559435"
+    ],
+    [
+      "The 80% Abstraction",
+      "https://engineering.gusto.com/the-80-abstraction/"
     ]
   ],
   [
