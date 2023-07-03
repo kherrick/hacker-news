@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-03, 19:33:26](https://news.ycombinator.com/item?id=36577760) - [Against Alcohol](https://www.thefitzwilliam.com/p/against-alcohol)
+* [2023-07-03, 19:12:59](https://news.ycombinator.com/item?id=36577536) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:50:03](https://news.ycombinator.com/item?id=36577290) - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
 * [2023-07-03, 18:39:28](https://news.ycombinator.com/item?id=36577154) - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
-* [2023-07-03, 18:10:33](https://news.ycombinator.com/item?id=36576745) - [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
 * [2023-07-03, 17:42:03](https://news.ycombinator.com/item?id=36576361) - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
@@ -29,7 +30,6 @@
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
 * [2023-07-02, 09:01:37](https://news.ycombinator.com/item?id=36559683) - [The anatomy of search: A token of my affection (2018)](https://wikimediafoundation.org/news/2018/08/07/anatomy-search-token-affection/)
 * [2023-07-01, 11:57:14](https://news.ycombinator.com/item?id=36549154) - [David Rumsey Map Collection](https://www.davidrumsey.com/)
-* [2023-07-01, 07:07:01](https://news.ycombinator.com/item?id=36547528) - [Be like the Silkworm](https://www.lrb.co.uk/the-paper/v45/n13/terry-eagleton/be-like-the-silkworm)
 
 ## [Archives](archives/index.md)
 

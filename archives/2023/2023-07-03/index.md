@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-03](index.md)
 
+* [2023-07-03, 19:33:26](https://news.ycombinator.com/item?id=36577760) - [Against Alcohol](https://www.thefitzwilliam.com/p/against-alcohol)
+* [2023-07-03, 19:12:59](https://news.ycombinator.com/item?id=36577536) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
 * [2023-07-03, 18:50:03](https://news.ycombinator.com/item?id=36577290) - [Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs](https://github.com/TylerGlaiel/Crashlogs)
 * [2023-07-03, 18:39:28](https://news.ycombinator.com/item?id=36577154) - [On the State of the Web](https://manuelmoreale.com/on-the-state-of-the-web)
 * [2023-07-03, 18:10:33](https://news.ycombinator.com/item?id=36576745) - [A Hand Wavy Defense of Domaining](https://floverfelt.org/posts/a-hand-wavy-defense-of-domaining.html)
