@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-03, 18:50:03",
+      "https://news.ycombinator.com/item?id=36577290"
+    ],
+    [
+      "Show HN: Using C++23 <stacktrace> to get proper crash logs in C++ programs",
+      "https://github.com/TylerGlaiel/Crashlogs"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 18:39:28",
       "https://news.ycombinator.com/item?id=36577154"
     ],
@@ -117,26 +127,6 @@
     [
       "An Interactive Guide to SVG Paths",
       "https://www.nan.fyi/svg-paths"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 15:21:42",
-      "https://news.ycombinator.com/item?id=36574173"
-    ],
-    [
-      "Large scale precursor correlations between cosmic rays and earthquakes (2022)",
-      "https://arxiv.org/abs/2204.12310"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 15:18:21",
-      "https://news.ycombinator.com/item?id=36574128"
-    ],
-    [
-      "DeltaTouch, a community created client for Ubuntu Touch",
-      "https://delta.chat/en/2023-07-02-deltatouch"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "David Rumsey Map Collection",
       "https://www.davidrumsey.com/"
+    ]
+  ],
+  [
+    [
+      "2023-07-01, 07:07:01",
+      "https://news.ycombinator.com/item?id=36547528"
+    ],
+    [
+      "Be like the Silkworm",
+      "https://www.lrb.co.uk/the-paper/v45/n13/terry-eagleton/be-like-the-silkworm"
     ]
   ]
 ]
