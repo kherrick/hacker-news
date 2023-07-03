@@ -78,6 +78,7 @@
 * [2023-07-02, 09:48:02](https://news.ycombinator.com/item?id=36559929) - [Wayland on NixOS: Confusion, Conquest, Triumph](https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph)
 * [2023-07-02, 09:22:27](https://news.ycombinator.com/item?id=36559779) - [Efficient Jagged Arrays](https://zeux.io/2023/06/30/efficient-jagged-arrays/)
 * [2023-07-02, 09:17:44](https://news.ycombinator.com/item?id=36559758) - [iAnnotate – Whatever Happened to the Web as an Annotation System?](https://scholarlykitchen.sspnet.org/2013/04/30/iannotate-whatever-happened-to-the-web-as-an-annotation-system/)
+* [2023-07-02, 09:01:37](https://news.ycombinator.com/item?id=36559683) - [The anatomy of search: A token of my affection (2018)](https://wikimediafoundation.org/news/2018/08/07/anatomy-search-token-affection/)
 * [2023-07-02, 08:53:29](https://news.ycombinator.com/item?id=36559630) - [Moneyball for Software Teams: Quantifying Dev Performance](https://software.rajivprab.com/2023/07/01/moneyball-for-software-teams/)
 * [2023-07-02, 08:16:38](https://news.ycombinator.com/item?id=36559435) - [The 80% Abstraction](https://engineering.gusto.com/the-80-abstraction/)
 * [2023-07-02, 08:07:15](https://news.ycombinator.com/item?id=36559370) - [Neuronal wiring diagram of an adult brain](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1)
