@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
 * [2023-07-02, 23:42:43](https://news.ycombinator.com/item?id=36566999) - [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
+* [2023-07-02, 23:24:57](https://news.ycombinator.com/item?id=36566881) - [Rings.social – Reddit-API compatible and Open Source content-voting platform](https://rings.social)
 * [2023-07-02, 22:51:19](https://news.ycombinator.com/item?id=36566634) - [Illegal Life Pro Tip: Want to ruin your competitors business?](https://oppositeinvictus.com/illegal-life-pro-tip-want-to-ruin-your-competitors-business)
 * [2023-07-02, 22:13:11](https://news.ycombinator.com/item?id=36566341) - [Women and immigrants poised to lead Newfoundland and Labrador’s tech industry](https://www.theglobeandmail.com/business/article-women-and-immigrants-poised-to-lead-newfoundland-and-labradors-tech/)
+* [2023-07-02, 21:16:39](https://news.ycombinator.com/item?id=36565854) - [AI and the Automation of Work](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 * [2023-07-02, 21:15:48](https://news.ycombinator.com/item?id=36565842) - [GitHub repository disabled at 22M commits](https://programming.dev/post/355447)
 * [2023-07-02, 20:59:10](https://news.ycombinator.com/item?id=36565671) - [Automated CPU Design with AI](https://arxiv.org/abs/2306.12456)
 * [2023-07-02, 20:52:37](https://news.ycombinator.com/item?id=36565604) - [AMD’s EPYC 7J13: Zen 3 Customized](https://chipsandcheese.com/2023/06/27/amds-epyc-7j13-zen-3-customized/)
@@ -65,6 +67,7 @@
 * [2023-07-02, 10:25:14](https://news.ycombinator.com/item?id=36560114) - [Kokuhaku: Japan’s Love Confessing Culture (2013)](https://www.tofugu.com/japan/kokuhaku-love-confessing-japan/)
 * [2023-07-02, 10:23:50](https://news.ycombinator.com/item?id=36560104) - [Entropy: The Most Misunderstood Concept in Physics [video by Veritasium]](https://www.youtube.com/watch?v=DxL2HoqLbyA)
 * [2023-07-02, 09:48:02](https://news.ycombinator.com/item?id=36559929) - [Wayland on NixOS: Confusion, Conquest, Triumph](https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph)
+* [2023-07-02, 09:17:44](https://news.ycombinator.com/item?id=36559758) - [iAnnotate – Whatever Happened to the Web as an Annotation System?](https://scholarlykitchen.sspnet.org/2013/04/30/iannotate-whatever-happened-to-the-web-as-an-annotation-system/)
 * [2023-07-02, 08:53:29](https://news.ycombinator.com/item?id=36559630) - [Moneyball for Software Teams: Quantifying Dev Performance](https://software.rajivprab.com/2023/07/01/moneyball-for-software-teams/)
 * [2023-07-02, 08:07:15](https://news.ycombinator.com/item?id=36559370) - [Neuronal wiring diagram of an adult brain](https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1)
 * [2023-07-02, 08:03:13](https://news.ycombinator.com/item?id=36559346) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
