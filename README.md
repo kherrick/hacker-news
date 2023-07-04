@@ -8,7 +8,6 @@
 * [2023-07-04, 12:04:36](https://news.ycombinator.com/item?id=36585560) - [Apple forced to make major cuts to Vision Pro headset production plans](https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/)
 * [2023-07-04, 11:43:34](https://news.ycombinator.com/item?id=36585371) - [A curated list of uBlock origin filters](https://letsblock.it/filters)
 * [2023-07-04, 11:39:51](https://news.ycombinator.com/item?id=36585331) - [The Ancient Roman Secret to Concrete Resilience in Seawater](https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/)
-* [2023-07-04, 11:39:10](https://news.ycombinator.com/item?id=36585327) - [Toyota claims battery breakthrough in potential boost for electric cars](https://www.theguardian.com/business/2023/jul/04/toyota-claims-battery-breakthrough-electric-cars)
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 10:21:02](https://news.ycombinator.com/item?id=36584656) - [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
 * [2023-07-04, 10:19:08](https://news.ycombinator.com/item?id=36584642) - [Why Physicists Tried to Put a Ferret in a Particle Accelerator](https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab)
@@ -25,11 +24,12 @@
 * [2023-07-03, 22:56:19](https://news.ycombinator.com/item?id=36579877) - [Velt (YC W22) Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
 * [2023-07-03, 20:25:16](https://news.ycombinator.com/item?id=36578285) - [Tracing food history with ancient leftovers](https://www.atlasobscura.com/articles/penn-ancient-food-exhibit)
 * [2023-07-03, 14:57:13](https://news.ycombinator.com/item?id=36573813) - [The industry behind the industry behind AI](https://restofworld.org/2023/exporter-industry-behind-ai/)
-* [2023-07-03, 11:29:48](https://news.ycombinator.com/item?id=36571458) - [The Dead Internet Theory [video]](https://www.youtube.com/watch?v=9WB5grLMXkU)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
+* [2023-07-03, 09:08:38](https://news.ycombinator.com/item?id=36570526) - [Photonics to Make Celestial HBM3 Memory Fabric](https://www.nextplatform.com/2023/06/28/photonics-to-make-celestial-hbm3-memory-fabric/)
 * [2023-07-03, 04:08:10](https://news.ycombinator.com/item?id=36568667) - [VPN use is at an all-time high – but are people safe?](https://www.techradar.com/pro/vpn-use-is-at-an-all-time-high-but-are-people-actually-safe)
 * [2023-07-03, 03:59:51](https://news.ycombinator.com/item?id=36568609) - [Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
 * [2023-07-03, 01:37:06](https://news.ycombinator.com/item?id=36567681) - [Makepad- Synthesizer Written in Rust](https://makepad.nl/makepad/examples/ironfish/src/index.html)
+* [2023-07-02, 23:42:04](https://news.ycombinator.com/item?id=36566994) - [OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP](https://github.com/Ottercast/OtterCastAudioV2)
 
 ## [Archives](archives/index.md)
 
