@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-04, 06:09:06](https://news.ycombinator.com/item?id=36582800) - [How Red Hat’s Open-Source Negligence Is Doing Actual Harm to the Linux Community](https://www.learnlinux.tv/how-red-hats-open-source-negligence-is-doing-actual-harm-to-the-linux-community-and-enterprise-it-in-general/)
-* [2023-07-04, 05:56:09](https://news.ycombinator.com/item?id=36582724) - [$1 Billion That Nobody Wants](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
+* [2023-07-04, 05:56:09](https://news.ycombinator.com/item?id=36582724) - [$1 Billion That Nobody Wants (2011)](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
 * [2023-07-04, 05:11:38](https://news.ycombinator.com/item?id=36582468) - [Show HN: Degrees What?](https://degreeswhat.com)
 * [2023-07-04, 05:03:50](https://news.ycombinator.com/item?id=36582430) - [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
 * [2023-07-04, 04:54:43](https://news.ycombinator.com/item?id=36582385) - [A header-only C implementation of C++ <algorithm>](https://github.com/clibraries/array-algorithms)
@@ -23,6 +22,7 @@
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
 * [2023-07-03, 16:57:23](https://news.ycombinator.com/item?id=36575712) - [SlowDownAndWasteMemory()](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp#L269)
 * [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA is this?](https://pudding.cool/games/where/)
+* [2023-07-03, 16:11:03](https://news.ycombinator.com/item?id=36575003) - [Goodreads was the future of book reviews, then Amazon bought it](https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/)
 * [2023-07-03, 16:01:16](https://news.ycombinator.com/item?id=36574844) - [The Animated Elliptic Curve](https://curves.xargs.org)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 10:13:24](https://news.ycombinator.com/item?id=36570939) - [Problems for computer solution (1980)](https://archive.org/details/Problems_for_Computer_Solution_Teacher_Edition_1980_Creative_Computing_Press)
