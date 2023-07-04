@@ -85,6 +85,7 @@
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
 * [2023-07-03, 04:55:09](https://news.ycombinator.com/item?id=36569044) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 * [2023-07-03, 04:48:15](https://news.ycombinator.com/item?id=36569001) - [On breaking changes in transitive dependencies](https://dmytro.sh/blog/on-breaking-changes-in-transitive-dependencies/)
+* [2023-07-03, 04:08:10](https://news.ycombinator.com/item?id=36568667) - [VPN use is at an all-time high – but are people safe?](https://www.techradar.com/pro/vpn-use-is-at-an-all-time-high-but-are-people-actually-safe)
 * [2023-07-03, 03:59:51](https://news.ycombinator.com/item?id=36568609) - [Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
 * [2023-07-03, 02:54:46](https://news.ycombinator.com/item?id=36568192) - [55 GiB/s FizzBuzz (2021)](https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630)
 * [2023-07-03, 02:31:33](https://news.ycombinator.com/item?id=36568022) - [Active Knowledge](https://surfingcomplexity.blog/2023/06/26/active-knowledge/)
