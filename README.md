@@ -20,7 +20,6 @@
 * [2023-07-03, 15:50:21](https://news.ycombinator.com/item?id=36574645) - [An interactive guide to SVG paths](https://www.nan.fyi/svg-paths)
 * [2023-07-03, 15:16:24](https://news.ycombinator.com/item?id=36574090) - [Show HN: JobLens – AI-powered job search for 'Who Is Hiring'](https://www.kadoa.com/joblens)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
-* [2023-07-03, 15:00:58](https://news.ycombinator.com/item?id=36573873) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
 * [2023-07-03, 15:00:51](https://news.ycombinator.com/item?id=36573869) - [Ask HN: Who wants to be hired? (July 2023)](https://news.ycombinator.com/item?id=36573869)
 * [2023-07-03, 13:34:35](https://news.ycombinator.com/item?id=36572658) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
@@ -30,6 +29,7 @@
 * [2023-07-03, 06:28:44](https://news.ycombinator.com/item?id=36569526) - [The evolving Unix attitudes on handling signals in your code](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalHandlingOverTime)
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders (2021)](https://eta.st/2021/06/20/showtime.html)
+* [2023-07-02, 23:42:04](https://news.ycombinator.com/item?id=36566994) - [OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP](https://github.com/Ottercast/OtterCastAudioV2)
 
 ## [Archives](archives/index.md)
 
