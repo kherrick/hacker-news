@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2023-07-04, 12:27:20",
+      "https://news.ycombinator.com/item?id=36585749"
+    ],
+    [
+      "History Never Repeats. But Sometimes It Rhymes",
+      "https://ciq.com/blog/history-never-repeats-but-sometimes-it-rhymes/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 11:43:34",
       "https://news.ycombinator.com/item?id=36585371"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2023-07-03, 23:56:14",
-      "https://news.ycombinator.com/item?id=36580417"
-    ],
-    [
-      "Hunting for Nginx alias traversals in the wild",
-      "https://labs.hakaioffsec.com/nginx-alias-traversal/"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 12:31:09",
       "https://news.ycombinator.com/item?id=36571956"
     ],
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36570158"
     ],
     [
-      "Why yewtu.be was down: data loss after being shut down by oracle cloud",
+      "Why yewtu.be was down: Data loss after being shut down by Oracle Cloud",
       "https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197"
     ]
   ],
