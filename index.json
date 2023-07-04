@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-04, 13:50:02",
+      "https://news.ycombinator.com/item?id=36586632"
+    ],
+    [
+      "Sao Paulo: The City with No Outdoor Advertisements",
+      "https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 13:27:41",
       "https://news.ycombinator.com/item?id=36586346"
     ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2023-07-04, 13:00:43",
+      "https://news.ycombinator.com/item?id=36586079"
+    ],
+    [
+      "Stable Diffusion XL technical report [pdf]",
+      "https://github.com/Stability-AI/generative-models/blob/main/assets/sdxl_report.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 12:45:47",
       "https://news.ycombinator.com/item?id=36585940"
     ],
     [
       "Long before CentOS or RHEL, a reminder from 2000: RedHatIsNotLinux.org",
       "https://web.archive.org/web/20000815063125/http://www.redhatisnotlinux.org/"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 12:36:51",
+      "https://news.ycombinator.com/item?id=36585841"
+    ],
+    [
+      "Node.js HTTP Request Smuggling via Empty Headers Separated by CR",
+      "https://hackerone.com/reports/2001873"
     ]
   ],
   [
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2023-07-03, 20:25:16",
-      "https://news.ycombinator.com/item?id=36578285"
-    ],
-    [
-      "Tracing food history with ancient leftovers",
-      "https://www.atlasobscura.com/articles/penn-ancient-food-exhibit"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 14:57:13",
       "https://news.ycombinator.com/item?id=36573813"
     ],
@@ -247,16 +267,6 @@
     [
       "Data-Oriented Design (2018)",
       "https://www.dataorienteddesign.com/dodbook/dodmain.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 09:08:38",
-      "https://news.ycombinator.com/item?id=36570526"
-    ],
-    [
-      "Photonics to Make Celestial HBM3 Memory Fabric",
-      "https://www.nextplatform.com/2023/06/28/photonics-to-make-celestial-hbm3-memory-fabric/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Makepad- Synthesizer Written in Rust",
       "https://makepad.nl/makepad/examples/ironfish/src/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 23:42:04",
-      "https://news.ycombinator.com/item?id=36566994"
-    ],
-    [
-      "OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP",
-      "https://github.com/Ottercast/OtterCastAudioV2"
     ]
   ]
 ]
