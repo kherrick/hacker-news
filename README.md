@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 08:19:48](https://news.ycombinator.com/item?id=36583738) - [Terence Tao Uses GPT-4 to Study Mathematics](https://twitter.com/blader/status/1670578014508433410)
 * [2023-07-04, 08:05:29](https://news.ycombinator.com/item?id=36583651) - [CJEU declares Meta's GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
 * [2023-07-04, 07:30:39](https://news.ycombinator.com/item?id=36583406) - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
 * [2023-07-04, 06:26:59](https://news.ycombinator.com/item?id=36582937) - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
-* [2023-07-04, 05:56:09](https://news.ycombinator.com/item?id=36582724) - [$1 Billion That Nobody Wants (2011)](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
 * [2023-07-04, 05:32:17](https://news.ycombinator.com/item?id=36582571) - [Instagram will shut down its companion app Threads by year end (2021)](https://techcrunch.com/2021/11/17/instagram-will-shut-down-its-companion-app-threads-by-year-end/)
 * [2023-07-04, 05:11:38](https://news.ycombinator.com/item?id=36582468) - [Show HN: Degrees What?](https://degreeswhat.com)
 * [2023-07-04, 05:03:50](https://news.ycombinator.com/item?id=36582430) - [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)

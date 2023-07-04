@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 08:19:48](https://news.ycombinator.com/item?id=36583738) - [Terence Tao Uses GPT-4 to Study Mathematics](https://twitter.com/blader/status/1670578014508433410)
 * [2023-07-04, 08:05:29](https://news.ycombinator.com/item?id=36583651) - [CJEU declares Meta's GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
 * [2023-07-04, 07:30:39](https://news.ycombinator.com/item?id=36583406) - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
 * [2023-07-04, 06:26:59](https://news.ycombinator.com/item?id=36582937) - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
