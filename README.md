@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 15:33:36](https://news.ycombinator.com/item?id=36588044) - [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
 * [2023-07-04, 15:32:17](https://news.ycombinator.com/item?id=36588017) - [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
 * [2023-07-04, 15:22:30](https://news.ycombinator.com/item?id=36587875) - [Makie, a modern and fast plotting library for Julia](https://makie.org)
 * [2023-07-04, 15:16:11](https://news.ycombinator.com/item?id=36587788) - [Google and HTTP](http://this.how/googleAndHttp/)
@@ -20,7 +21,6 @@
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 10:21:02](https://news.ycombinator.com/item?id=36584656) - [Sourcegraph is no longer open source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
 * [2023-07-04, 10:19:08](https://news.ycombinator.com/item?id=36584642) - [Why Physicists Tried to Put a Ferret in a Particle Accelerator](https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab)
-* [2023-07-04, 10:01:06](https://news.ycombinator.com/item?id=36584501) - [The disappointingly ongoing success of WvDial (2009)](https://apenwarr.ca/log/20091224)
 * [2023-07-04, 08:41:16](https://news.ycombinator.com/item?id=36583906) - [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
 * [2023-07-04, 04:30:27](https://news.ycombinator.com/item?id=36582255) - [SQLite-based databases on the Postgres protocol? Yes we can](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65?gi=b00cf93b1837)
 * [2023-07-04, 04:07:00](https://news.ycombinator.com/item?id=36582117) - [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
