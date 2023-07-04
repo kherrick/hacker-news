@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 15:46:56](https://news.ycombinator.com/item?id=36588240) - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
 * [2023-07-04, 15:33:36](https://news.ycombinator.com/item?id=36588044) - [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
 * [2023-07-04, 15:32:17](https://news.ycombinator.com/item?id=36588017) - [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
 * [2023-07-04, 15:22:30](https://news.ycombinator.com/item?id=36587875) - [Makie, a modern and fast plotting library for Julia](https://makie.org)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 15:46:56](https://news.ycombinator.com/item?id=36588240) - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
 * [2023-07-04, 15:33:36](https://news.ycombinator.com/item?id=36588044) - [One of the parallel worlds cannot be extremely different from the other](https://www.tsukuba.ac.jp/en/research-news/20230508140000.html)
 * [2023-07-04, 15:32:17](https://news.ycombinator.com/item?id=36588017) - [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
 * [2023-07-04, 15:22:30](https://news.ycombinator.com/item?id=36587875) - [Makie, a modern and fast plotting library for Julia](https://makie.org)
@@ -11,7 +12,6 @@
 * [2023-07-04, 13:27:41](https://news.ycombinator.com/item?id=36586346) - [More than 75% of Steam games tested are playable or verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
 * [2023-07-04, 13:18:52](https://news.ycombinator.com/item?id=36586262) - [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
 * [2023-07-04, 13:17:16](https://news.ycombinator.com/item?id=36586248) - [How Coders Can Survive–and Thrive–In a ChatGPT World](https://spectrum.ieee.org/ai-programming)
-* [2023-07-04, 13:08:42](https://news.ycombinator.com/item?id=36586170) - [Google's updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
 * [2023-07-04, 13:04:29](https://news.ycombinator.com/item?id=36586129) - [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview)
 * [2023-07-04, 13:04:19](https://news.ycombinator.com/item?id=36586127) - [Dutch rules will soon prevent schoolchildren from having a phone in classroom](https://nltimes.nl/2023/07/04/dutch-rules-will-soon-prevent-schoolchildren-phone-classroom)
 * [2023-07-04, 13:00:43](https://news.ycombinator.com/item?id=36586079) - [Stable Diffusion XL technical report [pdf]](https://github.com/Stability-AI/generative-models/blob/main/assets/sdxl_report.pdf)
@@ -23,13 +23,13 @@
 * [2023-07-04, 10:19:08](https://news.ycombinator.com/item?id=36584642) - [Why Physicists Tried to Put a Ferret in a Particle Accelerator](https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab)
 * [2023-07-04, 08:41:16](https://news.ycombinator.com/item?id=36583906) - [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
 * [2023-07-04, 04:30:27](https://news.ycombinator.com/item?id=36582255) - [SQLite-based databases on the Postgres protocol? Yes we can](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65?gi=b00cf93b1837)
-* [2023-07-04, 04:07:00](https://news.ycombinator.com/item?id=36582117) - [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 * [2023-07-03, 12:31:09](https://news.ycombinator.com/item?id=36571956) - [Dynamic Languages Strike Back (2008)](http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html)
 * [2023-07-03, 08:38:46](https://news.ycombinator.com/item?id=36570342) - [Rabbit Scheme Compiler](https://github.com/dhess/rabbit-scheme/blob/master/rabbit.lsp)
 * [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: Data loss after being shut down by Oracle Cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
 * [2023-07-03, 03:59:51](https://news.ycombinator.com/item?id=36568609) - [Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
+* [2023-07-03, 00:54:35](https://news.ycombinator.com/item?id=36567460) - [Anatomy of a Firework](https://www.pbs.org/wgbh/nova/fireworks/anat_nf.html)
 
 ## [Archives](archives/index.md)
 
