@@ -7,6 +7,7 @@
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 10:21:02](https://news.ycombinator.com/item?id=36584656) - [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
 * [2023-07-04, 10:16:07](https://news.ycombinator.com/item?id=36584615) - [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
+* [2023-07-04, 10:01:06](https://news.ycombinator.com/item?id=36584501) - [The disappointingly ongoing success of WvDial (2009)](https://apenwarr.ca/log/20091224)
 * [2023-07-04, 08:48:26](https://news.ycombinator.com/item?id=36583969) - [GPT-4 is great at infuriating telemarketing scammers](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
 * [2023-07-04, 08:41:16](https://news.ycombinator.com/item?id=36583906) - [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
 * [2023-07-04, 08:19:48](https://news.ycombinator.com/item?id=36583738) - [Terence Tao Uses GPT-4 to Study Mathematics](https://twitter.com/blader/status/1670578014508433410)
