@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 20:20:32](https://news.ycombinator.com/item?id=36592033) - [\"How's your PhD going?\" A study on mental health](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
+* [2023-07-04, 20:02:19](https://news.ycombinator.com/item?id=36591850) - [You need to plan for token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
 * [2023-07-04, 19:18:45](https://news.ycombinator.com/item?id=36591402) - [Monday was hottest day for global average temperature, as climate crisis bites](https://www.theguardian.com/world/2023/jul/04/monday-was-hottest-day-for-global-average-temperature-on-record-as-climate-crisis-bites)
 * [2023-07-04, 19:11:43](https://news.ycombinator.com/item?id=36591313) - [Elixir Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 19:06:47](https://news.ycombinator.com/item?id=36591247) - [Mozilla restricts extensions on some domains on Firefox 115](https://www.askvg.com/fix-some-extensions-are-not-allowed-in-firefox-115-and-later/)
