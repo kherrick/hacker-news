@@ -64,6 +64,7 @@
 * [2023-07-03, 12:48:30](https://news.ycombinator.com/item?id=36572154) - [The rapid rise and meteoric fall of Doc Burnstein's Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
 * [2023-07-03, 12:31:09](https://news.ycombinator.com/item?id=36571956) - [Dynamic Languages Strike Back (2008)](http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html)
 * [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
+* [2023-07-03, 11:57:41](https://news.ycombinator.com/item?id=36571677) - [The evolutionary stage of Betelgeuse inferred from its pulsation periods](https://arxiv.org/abs/2306.00287)
 * [2023-07-03, 11:29:48](https://news.ycombinator.com/item?id=36571458) - [The Dead Internet Theory [video]](https://www.youtube.com/watch?v=9WB5grLMXkU)
 * [2023-07-03, 11:27:20](https://news.ycombinator.com/item?id=36571433) - [A researcher who publishes a study every two days](https://english.elpais.com/science-tech/2023-06-04/a-researcher-who-publishes-a-study-every-two-days-reveals-the-darker-side-of-science.html)
 * [2023-07-03, 11:24:26](https://news.ycombinator.com/item?id=36571407) - [No One Is Happy About Diversity Efforts at Work](https://www.wsj.com/articles/diversity-workplace-affirmative-action-dei-3646683b)

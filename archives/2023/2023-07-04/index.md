@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
 * [2023-07-04, 18:50:25](https://news.ycombinator.com/item?id=36591057) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
+* [2023-07-04, 18:47:55](https://news.ycombinator.com/item?id=36591032) - [How to build a website without frameworks and tons of libraries](https://www.kodingkitty.com/blog/how-to-build-a-website/)
+* [2023-07-04, 18:35:11](https://news.ycombinator.com/item?id=36590834) - [Show HN: MongoDB Protocol for SQLite](https://github.com/FerretDB/FerretDB)
+* [2023-07-04, 18:32:34](https://news.ycombinator.com/item?id=36590806) - [Dark Waters of Self-Delusion: The crash of Transair flight 810](https://admiralcloudberg.medium.com/dark-waters-of-self-delusion-the-crash-of-transair-flight-810-a4eeb033bc00)
 * [2023-07-04, 17:53:41](https://news.ycombinator.com/item?id=36590226) - [What gets to the front page of Hacker News?](https://randomshit.dev/posts/what-gets-to-the-front-page-of-hacker-news)
 * [2023-07-04, 16:27:54](https://news.ycombinator.com/item?id=36588906) - [Opening up Intel's Device Modeling Language](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739)
 * [2023-07-04, 16:06:44](https://news.ycombinator.com/item?id=36588514) - [Turning My Passion/Hobby into a Business Made Me Hate It](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
