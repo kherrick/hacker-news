@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-04, 06:09:06](https://news.ycombinator.com/item?id=36582800) - [How Red Hat’s Open-Source Negligence Is Doing Actual Harm to the Linux Community](https://www.learnlinux.tv/how-red-hats-open-source-negligence-is-doing-actual-harm-to-the-linux-community-and-enterprise-it-in-general/)
-* [2023-07-04, 05:32:17](https://news.ycombinator.com/item?id=36582571) - [Instagram will shut down its companion app Threads by year end (2021)](https://techcrunch.com/2021/11/17/instagram-will-shut-down-its-companion-app-threads-by-year-end/)
+* [2023-07-04, 05:56:09](https://news.ycombinator.com/item?id=36582724) - [$1 Billion That Nobody Wants](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
 * [2023-07-04, 05:11:38](https://news.ycombinator.com/item?id=36582468) - [Show HN: Degrees What?](https://degreeswhat.com)
 * [2023-07-04, 05:03:50](https://news.ycombinator.com/item?id=36582430) - [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
 * [2023-07-04, 04:54:43](https://news.ycombinator.com/item?id=36582385) - [A header-only C implementation of C++ <algorithm>](https://github.com/clibraries/array-algorithms)
