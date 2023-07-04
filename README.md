@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 18:50:25](https://news.ycombinator.com/item?id=36591057) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-07-04, 17:53:41](https://news.ycombinator.com/item?id=36590226) - [What gets to the front page of Hacker News?](https://randomshit.dev/posts/what-gets-to-the-front-page-of-hacker-news)
 * [2023-07-04, 16:27:54](https://news.ycombinator.com/item?id=36588906) - [Opening up Intel's Device Modeling Language](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739)
 * [2023-07-04, 16:06:44](https://news.ycombinator.com/item?id=36588514) - [Turning my hobby into a business made me hate it](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
@@ -15,7 +16,6 @@
 * [2023-07-04, 13:08:42](https://news.ycombinator.com/item?id=36586170) - [Google's updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
 * [2023-07-04, 13:04:19](https://news.ycombinator.com/item?id=36586127) - [Dutch rules will soon prevent schoolchildren from having a phone in classroom](https://nltimes.nl/2023/07/04/dutch-rules-will-soon-prevent-schoolchildren-phone-classroom)
 * [2023-07-04, 13:00:43](https://news.ycombinator.com/item?id=36586079) - [Stable Diffusion XL technical report [pdf]](https://github.com/Stability-AI/generative-models/blob/main/assets/sdxl_report.pdf)
-* [2023-07-04, 11:43:34](https://news.ycombinator.com/item?id=36585371) - [A curated list of uBlock origin filters](https://letsblock.it/filters)
 * [2023-07-04, 11:39:51](https://news.ycombinator.com/item?id=36585331) - [The Ancient Roman Secret to Concrete Resilience in Seawater](https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/)
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 10:21:02](https://news.ycombinator.com/item?id=36584656) - [Sourcegraph is no longer open source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
