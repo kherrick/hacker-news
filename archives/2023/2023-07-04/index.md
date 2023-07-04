@@ -7,6 +7,7 @@
 * [2023-07-04, 13:56:42](https://news.ycombinator.com/item?id=36586734) - [gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion](https://github.com/mshumer/gpt-author)
 * [2023-07-04, 13:53:32](https://news.ycombinator.com/item?id=36586691) - [Debugging GraphQL N+1 Issues with Open Source Tracing Tools](https://kickstage.com/blog/open-source-tracing-to-debug-graphql-performance-issues/)
 * [2023-07-04, 13:50:02](https://news.ycombinator.com/item?id=36586632) - [Sao Paulo: The City with No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
+* [2023-07-04, 13:38:35](https://news.ycombinator.com/item?id=36586481) - [Firefox 115 Now Available with Intel GPU Video Decoding on Linux](https://www.phoronix.com/news/Mozilla-Firefox-115)
 * [2023-07-04, 13:27:41](https://news.ycombinator.com/item?id=36586346) - [More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
 * [2023-07-04, 13:18:52](https://news.ycombinator.com/item?id=36586262) - [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
 * [2023-07-04, 13:08:42](https://news.ycombinator.com/item?id=36586170) - [Google's updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)

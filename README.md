@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-04, 13:56:42](https://news.ycombinator.com/item?id=36586734) - [gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion](https://github.com/mshumer/gpt-author)
 * [2023-07-04, 13:53:32](https://news.ycombinator.com/item?id=36586691) - [Debugging GraphQL N+1 Issues with Open Source Tracing Tools](https://kickstage.com/blog/open-source-tracing-to-debug-graphql-performance-issues/)
 * [2023-07-04, 13:50:02](https://news.ycombinator.com/item?id=36586632) - [Sao Paulo: The City with No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
+* [2023-07-04, 13:38:35](https://news.ycombinator.com/item?id=36586481) - [Firefox 115 Now Available with Intel GPU Video Decoding on Linux](https://www.phoronix.com/news/Mozilla-Firefox-115)
 * [2023-07-04, 13:27:41](https://news.ycombinator.com/item?id=36586346) - [More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
 * [2023-07-04, 13:18:52](https://news.ycombinator.com/item?id=36586262) - [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
 * [2023-07-04, 13:08:42](https://news.ycombinator.com/item?id=36586170) - [Google's updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
@@ -27,7 +27,7 @@
 * [2023-07-03, 23:56:14](https://news.ycombinator.com/item?id=36580417) - [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
 * [2023-07-03, 23:31:44](https://news.ycombinator.com/item?id=36580192) - [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
 * [2023-07-03, 20:25:16](https://news.ycombinator.com/item?id=36578285) - [Tracing food history with ancient leftovers](https://www.atlasobscura.com/articles/penn-ancient-food-exhibit)
-* [2023-07-03, 14:57:13](https://news.ycombinator.com/item?id=36573813) - [The industry behind the industry behind AI](https://restofworld.org/2023/exporter-industry-behind-ai/)
+* [2023-07-03, 08:38:46](https://news.ycombinator.com/item?id=36570342) - [Rabbit Scheme Compiler](https://github.com/dhess/rabbit-scheme/blob/master/rabbit.lsp)
 * [2023-07-03, 03:59:51](https://news.ycombinator.com/item?id=36568609) - [Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
 * [2023-07-03, 01:37:06](https://news.ycombinator.com/item?id=36567681) - [Makepad- Synthesizer Written in Rust](https://makepad.nl/makepad/examples/ironfish/src/index.html)
 
