@@ -28,7 +28,7 @@
 * [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto (1999)](https://www.cluetrain.com/#manifesto)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
-* [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders (2021)](https://eta.st/2021/06/20/showtime.html)
+* [2023-07-03, 01:37:06](https://news.ycombinator.com/item?id=36567681) - [Makepad- Synthesizer Written in Rust](https://makepad.nl/makepad/examples/ironfish/src/index.html)
 * [2023-07-02, 23:42:04](https://news.ycombinator.com/item?id=36566994) - [OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP](https://github.com/Ottercast/OtterCastAudioV2)
 
 ## [Archives](archives/index.md)

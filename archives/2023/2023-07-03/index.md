@@ -85,6 +85,7 @@
 * [2023-07-03, 02:17:29](https://news.ycombinator.com/item?id=36567918) - [Ask HN: As people in “tech”, are we inside an AI echo chamber?](https://news.ycombinator.com/item?id=36567918)
 * [2023-07-03, 02:04:35](https://news.ycombinator.com/item?id=36567839) - [Google’s quantum computer instantly makes calculations that take rivals 47 years](https://www.smh.com.au/world/north-america/google-s-quantum-computer-instantly-makes-calculations-that-take-rivals-47-years-20230703-p5dlbp.html)
 * [2023-07-03, 01:43:42](https://news.ycombinator.com/item?id=36567725) - [Tesla on track to smash targets after producing almost a million EVs in 6 months](https://thedriven.io/2023/07/03/tesla-on-track-to-smash-targets-after-producing-almost-a-million-evs-in-first-6-months/)
+* [2023-07-03, 01:37:06](https://news.ycombinator.com/item?id=36567681) - [Makepad- Synthesizer Written in Rust](https://makepad.nl/makepad/examples/ironfish/src/index.html)
 * [2023-07-03, 01:14:38](https://news.ycombinator.com/item?id=36567570) - [Show HN: Prototype for ETH Signing for endorsing Wikipedia updates](https://www.loom.com/share/42e8a049faa64dcd9e4b8753a0bffb9c)
 * [2023-07-03, 00:39:29](https://news.ycombinator.com/item?id=36567370) - [The Energy Transition Isn’t](https://robertbryce.substack.com/p/the-energy-transition-isnt)
 * [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
