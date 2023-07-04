@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 19:11:43](https://news.ycombinator.com/item?id=36591313) - [Elixir Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 18:52:24](https://news.ycombinator.com/item?id=36591079) - [Designing a Language Without a Parser](https://thunderseethe.dev/posts/type-inference/)
 * [2023-07-04, 18:50:25](https://news.ycombinator.com/item?id=36591057) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-07-04, 18:47:55](https://news.ycombinator.com/item?id=36591032) - [How to build a website without frameworks and tons of libraries](https://www.kodingkitty.com/blog/how-to-build-a-website/)

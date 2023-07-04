@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 19:11:43](https://news.ycombinator.com/item?id=36591313) - [Elixir Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 18:52:24](https://news.ycombinator.com/item?id=36591079) - [Designing a Language Without a Parser](https://thunderseethe.dev/posts/type-inference/)
 * [2023-07-04, 18:50:25](https://news.ycombinator.com/item?id=36591057) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-07-04, 18:47:55](https://news.ycombinator.com/item?id=36591032) - [How to build a website without frameworks and tons of libraries](https://www.kodingkitty.com/blog/how-to-build-a-website/)
 * [2023-07-04, 18:35:11](https://news.ycombinator.com/item?id=36590834) - [Show HN: MongoDB Protocol for SQLite](https://github.com/FerretDB/FerretDB)
 * [2023-07-04, 18:32:34](https://news.ycombinator.com/item?id=36590806) - [Dark Waters of Self-Delusion: The crash of Transair flight 810](https://admiralcloudberg.medium.com/dark-waters-of-self-delusion-the-crash-of-transair-flight-810-a4eeb033bc00)
 * [2023-07-04, 17:53:41](https://news.ycombinator.com/item?id=36590226) - [What gets to the front page of Hacker News?](https://randomshit.dev/posts/what-gets-to-the-front-page-of-hacker-news)
-* [2023-07-04, 16:57:18](https://news.ycombinator.com/item?id=36589342) - [X Minus One: 1950s Science Fiction Radio Programs Available To Listen Online](https://archive.org/details/OTRR_X_Minus_One_Singles)
 * [2023-07-04, 16:27:54](https://news.ycombinator.com/item?id=36588906) - [Opening up Intel's Device Modeling Language](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739)
 * [2023-07-04, 16:06:44](https://news.ycombinator.com/item?id=36588514) - [Turning my hobby into a business made me hate it](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
 * [2023-07-04, 15:46:56](https://news.ycombinator.com/item?id=36588240) - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
