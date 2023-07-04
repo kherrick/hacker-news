@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 22:20:30](https://news.ycombinator.com/item?id=36593249) - [I Hate the News](http://www.aaronsw.com/weblog/hatethenews)
 * [2023-07-04, 22:01:35](https://news.ycombinator.com/item?id=36593074) - [Your startup idea probably isn’t venture-scale](https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture)
 * [2023-07-04, 21:47:58](https://news.ycombinator.com/item?id=36592930) - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
 * [2023-07-04, 20:55:18](https://news.ycombinator.com/item?id=36592406) - [Engineers at UMass Amherst harvest clean energy from thin air](https://www.umass.edu/news/article/engineers-umass-amherst-harvest-abundant-clean-energy-thin-air-247)
