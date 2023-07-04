@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 22:01:35](https://news.ycombinator.com/item?id=36593074) - [Your startup idea probably isn’t venture-scale](https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture)
 * [2023-07-04, 21:47:58](https://news.ycombinator.com/item?id=36592930) - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
+* [2023-07-04, 20:55:18](https://news.ycombinator.com/item?id=36592406) - [Engineers at UMass Amherst harvest clean energy from thin air](https://www.umass.edu/news/article/engineers-umass-amherst-harvest-abundant-clean-energy-thin-air-247)
 * [2023-07-04, 20:20:32](https://news.ycombinator.com/item?id=36592033) - [\"How's your PhD going?\" A study on mental health](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
 * [2023-07-04, 20:02:19](https://news.ycombinator.com/item?id=36591850) - [You need to plan for token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
 * [2023-07-04, 19:52:41](https://news.ycombinator.com/item?id=36591767) - [Show HN: Iridescent crystal with raymarching and signed distance fields](https://varun.ca/ray-march-sdf/)
@@ -15,7 +17,6 @@
 * [2023-07-04, 16:06:44](https://news.ycombinator.com/item?id=36588514) - [Turning my hobby into a business made me hate it](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
 * [2023-07-04, 15:46:56](https://news.ycombinator.com/item?id=36588240) - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
 * [2023-07-04, 15:22:30](https://news.ycombinator.com/item?id=36587875) - [Makie, a modern and fast plotting library for Julia](https://makie.org)
-* [2023-07-04, 15:16:11](https://news.ycombinator.com/item?id=36587788) - [Google and HTTP (2018)](http://this.how/googleAndHttp/)
 * [2023-07-04, 13:50:02](https://news.ycombinator.com/item?id=36586632) - [Sao Paulo: A city with no outdoor advertisements (2013)](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 * [2023-07-04, 13:27:41](https://news.ycombinator.com/item?id=36586346) - [More than 75% of Steam games tested are playable or verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
 * [2023-07-04, 13:17:16](https://news.ycombinator.com/item?id=36586248) - [Tips for programmers to stay ahead of generative AI](https://spectrum.ieee.org/ai-programming)
@@ -27,9 +28,8 @@
 * [2023-07-04, 08:41:16](https://news.ycombinator.com/item?id=36583906) - [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 * [2023-07-03, 13:40:15](https://news.ycombinator.com/item?id=36572734) - [New analysis of tooth minerals confirms megalodon shark was warm-blooded](https://phys.org/news/2023-06-analysis-tooth-minerals-megalodon-shark.html)
+* [2023-07-03, 12:33:59](https://news.ycombinator.com/item?id=36571993) - [Kepler: The Volume of a Wine Barrel](https://www.maa.org/press/periodicals/convergence/kepler-the-volume-of-a-wine-barrel)
 * [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: Data loss after being shut down by Oracle Cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
-* [2023-07-03, 06:27:56](https://news.ycombinator.com/item?id=36569518) - [Guy Kawasaki](https://deprogrammaticaipsum.com/guy-kawasaki/)
-* [2023-07-03, 00:54:35](https://news.ycombinator.com/item?id=36567460) - [Anatomy of a Firework (2002)](https://www.pbs.org/wgbh/nova/fireworks/anat_nf.html)
 
 ## [Archives](archives/index.md)
 

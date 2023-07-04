@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 22:01:35](https://news.ycombinator.com/item?id=36593074) - [Your startup idea probably isn’t venture-scale](https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture)
 * [2023-07-04, 21:47:58](https://news.ycombinator.com/item?id=36592930) - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
+* [2023-07-04, 20:55:18](https://news.ycombinator.com/item?id=36592406) - [Engineers at UMass Amherst harvest clean energy from thin air](https://www.umass.edu/news/article/engineers-umass-amherst-harvest-abundant-clean-energy-thin-air-247)
 * [2023-07-04, 20:20:32](https://news.ycombinator.com/item?id=36592033) - [\"How's your PhD going?\" A study on mental health](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103)
 * [2023-07-04, 20:02:19](https://news.ycombinator.com/item?id=36591850) - [You need to plan for token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
 * [2023-07-04, 19:52:41](https://news.ycombinator.com/item?id=36591767) - [Show HN: Iridescent crystal with raymarching and signed distance fields](https://varun.ca/ray-march-sdf/)

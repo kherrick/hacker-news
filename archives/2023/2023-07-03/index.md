@@ -62,6 +62,7 @@
 * [2023-07-03, 13:11:59](https://news.ycombinator.com/item?id=36572401) - [Self-Driving Cars Are Surveillance Cameras on Wheels](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
 * [2023-07-03, 13:04:58](https://news.ycombinator.com/item?id=36572326) - [Six-year-old saves mum by calling for help on Alexa device](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-66085014)
 * [2023-07-03, 12:48:30](https://news.ycombinator.com/item?id=36572154) - [The rapid rise and meteoric fall of Doc Burnstein's Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
+* [2023-07-03, 12:33:59](https://news.ycombinator.com/item?id=36571993) - [Kepler: The Volume of a Wine Barrel](https://www.maa.org/press/periodicals/convergence/kepler-the-volume-of-a-wine-barrel)
 * [2023-07-03, 12:31:09](https://news.ycombinator.com/item?id=36571956) - [Dynamic Languages Strike Back (2008)](http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html)
 * [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
 * [2023-07-03, 11:57:41](https://news.ycombinator.com/item?id=36571677) - [The evolutionary stage of Betelgeuse inferred from its pulsation periods](https://arxiv.org/abs/2306.00287)
