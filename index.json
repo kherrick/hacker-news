@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-04, 15:46:56",
+      "https://news.ycombinator.com/item?id=36588240"
+    ],
+    [
+      "ZFS 2.2.0 (RC): Block Cloning merged",
+      "https://github.com/openzfs/zfs/pull/13392"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 15:33:36",
       "https://news.ycombinator.com/item?id=36588044"
     ],
@@ -107,16 +117,6 @@
     [
       "How Coders Can Survive–and Thrive–In a ChatGPT World",
       "https://spectrum.ieee.org/ai-programming"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 13:08:42",
-      "https://news.ycombinator.com/item?id=36586170"
-    ],
-    [
-      "Google's updated privacy policy states it can use public data to train its AI",
-      "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-07-04, 04:07:00",
-      "https://news.ycombinator.com/item?id=36582117"
-    ],
-    [
-      "Ask HN: How to do market research for product?",
-      "https://news.ycombinator.com/item?id=36582117"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 01:02:25",
       "https://news.ycombinator.com/item?id=36580837"
     ],
@@ -297,6 +287,16 @@
     [
       "Whole-brain connectome of the fruit fly",
       "https://codex.flywire.ai"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 00:54:35",
+      "https://news.ycombinator.com/item?id=36567460"
+    ],
+    [
+      "Anatomy of a Firework",
+      "https://www.pbs.org/wgbh/nova/fireworks/anat_nf.html"
     ]
   ]
 ]
