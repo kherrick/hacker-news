@@ -7,6 +7,7 @@
 * [2023-07-04, 08:19:48](https://news.ycombinator.com/item?id=36583738) - [Terence Tao Uses GPT-4 to Study Mathematics](https://twitter.com/blader/status/1670578014508433410)
 * [2023-07-04, 08:05:29](https://news.ycombinator.com/item?id=36583651) - [CJEU declares Meta's GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
 * [2023-07-04, 07:30:39](https://news.ycombinator.com/item?id=36583406) - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
+* [2023-07-04, 07:14:15](https://news.ycombinator.com/item?id=36583277) - [YouTube is blocking videos for users who block ads](https://www.pcworld.com/article/1976999/youtube-is-blocking-videos-for-users-who-block-ads.html)
 * [2023-07-04, 06:26:59](https://news.ycombinator.com/item?id=36582937) - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
 * [2023-07-04, 06:09:06](https://news.ycombinator.com/item?id=36582800) - [How Red Hat’s Open-Source Negligence Is Doing Actual Harm to the Linux Community](https://www.learnlinux.tv/how-red-hats-open-source-negligence-is-doing-actual-harm-to-the-linux-community-and-enterprise-it-in-general/)
 * [2023-07-04, 05:56:09](https://news.ycombinator.com/item?id=36582724) - [$1 Billion That Nobody Wants](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
