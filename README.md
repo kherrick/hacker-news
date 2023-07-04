@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 08:05:29](https://news.ycombinator.com/item?id=36583651) - [CJEU declares Meta's GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
 * [2023-07-04, 07:30:39](https://news.ycombinator.com/item?id=36583406) - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
 * [2023-07-04, 06:26:59](https://news.ycombinator.com/item?id=36582937) - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
 * [2023-07-04, 05:56:09](https://news.ycombinator.com/item?id=36582724) - [$1 Billion That Nobody Wants (2011)](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
@@ -23,11 +24,10 @@
 * [2023-07-03, 17:42:03](https://news.ycombinator.com/item?id=36576361) - [A Dive into the Math Behind Bitcoin Schnorr Signatures](https://conduition.io/cryptography/schnorr/)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
 * [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA is this?](https://pudding.cool/games/where/)
-* [2023-07-03, 15:16:24](https://news.ycombinator.com/item?id=36574090) - [Show HN: JobLens – AI-powered job search for 'Who Is Hiring'](https://www.kadoa.com/joblens)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 10:13:24](https://news.ycombinator.com/item?id=36570939) - [Problems for computer solution (1980)](https://archive.org/details/Problems_for_Computer_Solution_Teacher_Edition_1980_Creative_Computing_Press)
 * [2023-07-03, 09:08:38](https://news.ycombinator.com/item?id=36570526) - [Photonics to Make Celestial HBM3 Memory Fabric](https://www.nextplatform.com/2023/06/28/photonics-to-make-celestial-hbm3-memory-fabric/)
-* [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
+* [2023-07-03, 03:59:51](https://news.ycombinator.com/item?id=36568609) - [Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
 * [2023-07-03, 01:37:06](https://news.ycombinator.com/item?id=36567681) - [Makepad- Synthesizer Written in Rust](https://makepad.nl/makepad/examples/ironfish/src/index.html)
 * [2023-07-02, 23:42:04](https://news.ycombinator.com/item?id=36566994) - [OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP](https://github.com/Ottercast/OtterCastAudioV2)
 
