@@ -57,6 +57,7 @@
 * [2023-07-03, 13:04:58](https://news.ycombinator.com/item?id=36572326) - [Six-year-old saves mum by calling for help on Alexa device](https://www.bbc.co.uk/news/uk-scotland-glasgow-west-66085014)
 * [2023-07-03, 12:48:30](https://news.ycombinator.com/item?id=36572154) - [The rapid rise and meteoric fall of Doc Burnstein's Ice Cream Lab](https://www.sfgate.com/centralcoast/article/doc-burnsteins-ice-cream-lab-rise-and-fall-18180038.php)
 * [2023-07-03, 12:29:59](https://news.ycombinator.com/item?id=36571951) - [SUSE Liberty Linux:  secure your Linux future without fear of vendor lock-in.](https://www.suse.com/products/suse-liberty-linux/)
+* [2023-07-03, 11:29:48](https://news.ycombinator.com/item?id=36571458) - [The Dead Internet Theory [video]](https://www.youtube.com/watch?v=9WB5grLMXkU)
 * [2023-07-03, 11:27:20](https://news.ycombinator.com/item?id=36571433) - [A researcher who publishes a study every two days](https://english.elpais.com/science-tech/2023-06-04/a-researcher-who-publishes-a-study-every-two-days-reveals-the-darker-side-of-science.html)
 * [2023-07-03, 11:24:26](https://news.ycombinator.com/item?id=36571407) - [No One Is Happy About Diversity Efforts at Work](https://www.wsj.com/articles/diversity-workplace-affirmative-action-dei-3646683b)
 * [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto](https://www.cluetrain.com/#manifesto)
