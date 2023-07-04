@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-07-03, 15:00:58",
-      "https://news.ycombinator.com/item?id=36573873"
-    ],
-    [
-      "Disabling Matrix Portalling",
-      "https://libera.chat/news/matrix-deportalling"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 15:00:52",
       "https://news.ycombinator.com/item?id=36573871"
     ],
@@ -297,6 +287,16 @@
     [
       "Sending audio to LKV373 HDMI extenders (2021)",
       "https://eta.st/2021/06/20/showtime.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 23:42:04",
+      "https://news.ycombinator.com/item?id=36566994"
+    ],
+    [
+      "OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP",
+      "https://github.com/Ottercast/OtterCastAudioV2"
     ]
   ]
 ]
