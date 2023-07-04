@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-04, 10:21:02",
+      "https://news.ycombinator.com/item?id=36584656"
+    ],
+    [
+      "Sourcegraph is no longer Open Source",
+      "https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 10:16:07",
+      "https://news.ycombinator.com/item?id=36584615"
+    ],
+    [
+      "Passwords Are Fine",
+      "https://herman.bearblog.dev/passwords-are-fine/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 08:48:26",
       "https://news.ycombinator.com/item?id=36583969"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36583027"
     ],
     [
-      "Starting a new digital identity – k3tan.com",
+      "Starting a new digital identity – k3tan.com (2021)",
       "https://k3tan.com/starting-a-new-digital-identity"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "SQLite-based databases on the Postgres protocol? Yes we can",
       "https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65?gi=b00cf93b1837"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 04:22:56",
-      "https://news.ycombinator.com/item?id=36582208"
-    ],
-    [
-      "Write a Book with Markdown",
-      "https://pianomanfrazier.com/post/write-a-book-with-markdown/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Huge phosphate rock deposit discovered in Norway",
       "https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 19:12:59",
-      "https://news.ycombinator.com/item?id=36577536"
-    ],
-    [
-      "Can Dell’s 6K monitor beat their 8K monitor?",
-      "https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/"
     ]
   ],
   [
