@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 13:27:41](https://news.ycombinator.com/item?id=36586346) - [More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
+* [2023-07-04, 13:18:52](https://news.ycombinator.com/item?id=36586262) - [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
 * [2023-07-04, 13:08:42](https://news.ycombinator.com/item?id=36586170) - [Google's updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
 * [2023-07-04, 13:04:19](https://news.ycombinator.com/item?id=36586127) - [Dutch rules will soon prevent schoolchildren from having a phone in classroom](https://nltimes.nl/2023/07/04/dutch-rules-will-soon-prevent-schoolchildren-phone-classroom)
+* [2023-07-04, 12:45:47](https://news.ycombinator.com/item?id=36585940) - [Long before CentOS or RHEL, a reminder from 2000: RedHatIsNotLinux.org](https://web.archive.org/web/20000815063125/http://www.redhatisnotlinux.org/)
 * [2023-07-04, 12:04:36](https://news.ycombinator.com/item?id=36585560) - [Apple forced to make major cuts to Vision Pro headset production plans](https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/)
 * [2023-07-04, 11:43:34](https://news.ycombinator.com/item?id=36585371) - [A curated list of uBlock origin filters](https://letsblock.it/filters)
 * [2023-07-04, 11:39:51](https://news.ycombinator.com/item?id=36585331) - [The Ancient Roman Secret to Concrete Resilience in Seawater](https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/)
@@ -15,7 +18,6 @@
 * [2023-07-04, 06:26:59](https://news.ycombinator.com/item?id=36582937) - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
 * [2023-07-04, 04:54:43](https://news.ycombinator.com/item?id=36582385) - [A header-only C implementation of C++ <algorithm>](https://github.com/clibraries/array-algorithms)
 * [2023-07-04, 04:30:27](https://news.ycombinator.com/item?id=36582255) - [SQLite-based databases on the Postgres protocol? Yes we can](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65?gi=b00cf93b1837)
-* [2023-07-04, 04:07:32](https://news.ycombinator.com/item?id=36582120) - [How the RWKV language model works](https://johanwind.github.io/2023/03/23/rwkv_details.html)
 * [2023-07-04, 04:07:00](https://news.ycombinator.com/item?id=36582117) - [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
 * [2023-07-03, 23:56:14](https://news.ycombinator.com/item?id=36580417) - [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
@@ -25,11 +27,9 @@
 * [2023-07-03, 14:57:13](https://news.ycombinator.com/item?id=36573813) - [The industry behind the industry behind AI](https://restofworld.org/2023/exporter-industry-behind-ai/)
 * [2023-07-03, 11:29:48](https://news.ycombinator.com/item?id=36571458) - [The Dead Internet Theory [video]](https://www.youtube.com/watch?v=9WB5grLMXkU)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
-* [2023-07-03, 09:08:38](https://news.ycombinator.com/item?id=36570526) - [Photonics to Make Celestial HBM3 Memory Fabric](https://www.nextplatform.com/2023/06/28/photonics-to-make-celestial-hbm3-memory-fabric/)
 * [2023-07-03, 04:08:10](https://news.ycombinator.com/item?id=36568667) - [VPN use is at an all-time high – but are people safe?](https://www.techradar.com/pro/vpn-use-is-at-an-all-time-high-but-are-people-actually-safe)
 * [2023-07-03, 03:59:51](https://news.ycombinator.com/item?id=36568609) - [Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
 * [2023-07-03, 01:37:06](https://news.ycombinator.com/item?id=36567681) - [Makepad- Synthesizer Written in Rust](https://makepad.nl/makepad/examples/ironfish/src/index.html)
-* [2023-07-02, 23:42:04](https://news.ycombinator.com/item?id=36566994) - [OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP](https://github.com/Ottercast/OtterCastAudioV2)
 
 ## [Archives](archives/index.md)
 
