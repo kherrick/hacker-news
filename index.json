@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-04, 01:02:25",
+      "https://news.ycombinator.com/item?id=36580837"
+    ],
+    [
+      "Learning needs to be effortful to be effective",
+      "https://giansegato.com/essays/edutainment-is-not-learning"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 23:56:14",
+      "https://news.ycombinator.com/item?id=36580417"
+    ],
+    [
+      "Leaking Bitwarden's Vault with a Nginx vulnerability",
+      "https://labs.hakaioffsec.com/nginx-alias-traversal/"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 23:31:44",
+      "https://news.ycombinator.com/item?id=36580192"
+    ],
+    [
+      "Threads, an Instagram app",
+      "https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002"
+    ]
+  ],
+  [
+    [
       "2023-07-03, 23:05:16",
       "https://news.ycombinator.com/item?id=36579963"
     ],
@@ -17,16 +47,6 @@
     [
       "Velt (YC W22) Is Hiring Founding Frontend Engineer in US",
       "https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 20:40:22",
-      "https://news.ycombinator.com/item?id=36578489"
-    ],
-    [
-      "Norway discovers Phosphate deposit large enough to supply world for 100 years",
-      "https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Bfloat16 support coming to Apple's Metal and PyTorch [video]",
       "https://developer.apple.com/videos/play/wwdc2023/10050/?time=590"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 16:23:31",
-      "https://news.ycombinator.com/item?id=36575190"
-    ],
-    [
-      "We are wasting up to 20% of our time on computer problems, says study",
-      "https://techxplore.com/news/2023-06-problems.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Sending audio to LKV373 HDMI extenders",
       "https://eta.st/2021/06/20/showtime.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-01, 11:57:14",
-      "https://news.ycombinator.com/item?id=36549154"
-    ],
-    [
-      "David Rumsey Map Collection",
-      "https://www.davidrumsey.com/"
     ]
   ]
 ]
