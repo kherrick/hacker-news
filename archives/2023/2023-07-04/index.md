@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 17:53:41](https://news.ycombinator.com/item?id=36590226) - [What gets to the front page of Hacker News?](https://randomshit.dev/posts/what-gets-to-the-front-page-of-hacker-news)
 * [2023-07-04, 16:27:54](https://news.ycombinator.com/item?id=36588906) - [Opening up Intel's Device Modeling Language](https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739)
 * [2023-07-04, 16:06:44](https://news.ycombinator.com/item?id=36588514) - [Turning My Passion/Hobby into a Business Made Me Hate It](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
 * [2023-07-04, 15:46:56](https://news.ycombinator.com/item?id=36588240) - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
