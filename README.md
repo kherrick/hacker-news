@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 05:32:17](https://news.ycombinator.com/item?id=36582571) - [Instagram will shut down its companion app Threads by year end](https://techcrunch.com/2021/11/17/instagram-will-shut-down-its-companion-app-threads-by-year-end/)
+* [2023-07-04, 05:11:38](https://news.ycombinator.com/item?id=36582468) - [Show HN: Degrees What?](https://degreeswhat.com)
 * [2023-07-04, 05:03:50](https://news.ycombinator.com/item?id=36582430) - [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
 * [2023-07-04, 04:07:32](https://news.ycombinator.com/item?id=36582120) - [How the RWKV language model works](https://johanwind.github.io/2023/03/23/rwkv_details.html)
 * [2023-07-04, 04:07:00](https://news.ycombinator.com/item?id=36582117) - [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
@@ -17,7 +19,6 @@
 * [2023-07-03, 17:01:41](https://news.ycombinator.com/item?id=36575787) - [MartyPC, cycle accurate IBM PC/XT emulator](https://www.vogons.org/viewtopic.php?t=94972)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
 * [2023-07-03, 16:57:23](https://news.ycombinator.com/item?id=36575712) - [SlowDownAndWasteMemory()](https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp#L269)
-* [2023-07-03, 16:42:41](https://news.ycombinator.com/item?id=36575443) - [Bfloat16 support coming to Apple's Metal and PyTorch [video]](https://developer.apple.com/videos/play/wwdc2023/10050/?time=590)
 * [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA is this?](https://pudding.cool/games/where/)
 * [2023-07-03, 16:11:03](https://news.ycombinator.com/item?id=36575003) - [Goodreads was the future of book reviews, then Amazon bought it](https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/)
 * [2023-07-03, 16:01:16](https://news.ycombinator.com/item?id=36574844) - [The Animated Elliptic Curve](https://curves.xargs.org)
@@ -25,7 +26,6 @@
 * [2023-07-03, 15:16:24](https://news.ycombinator.com/item?id=36574090) - [Show HN: JobLens – AI-powered job search for 'Who Is Hiring'](https://www.kadoa.com/joblens)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
 * [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
-* [2023-07-03, 11:14:16](https://news.ycombinator.com/item?id=36571346) - [The Cluetrain Manifesto (1999)](https://www.cluetrain.com/#manifesto)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
 * [2023-07-03, 01:37:06](https://news.ycombinator.com/item?id=36567681) - [Makepad- Synthesizer Written in Rust](https://makepad.nl/makepad/examples/ironfish/src/index.html)
