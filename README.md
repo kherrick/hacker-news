@@ -29,7 +29,7 @@
 * [2023-07-03, 08:38:46](https://news.ycombinator.com/item?id=36570342) - [Rabbit Scheme Compiler](https://github.com/dhess/rabbit-scheme/blob/master/rabbit.lsp)
 * [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: Data loss after being shut down by Oracle Cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
 * [2023-07-03, 03:59:51](https://news.ycombinator.com/item?id=36568609) - [Whole-brain connectome of the fruit fly](https://codex.flywire.ai)
-* [2023-07-03, 00:54:35](https://news.ycombinator.com/item?id=36567460) - [Anatomy of a Firework](https://www.pbs.org/wgbh/nova/fireworks/anat_nf.html)
+* [2023-07-03, 00:54:35](https://news.ycombinator.com/item?id=36567460) - [Anatomy of a Firework (2002)](https://www.pbs.org/wgbh/nova/fireworks/anat_nf.html)
 
 ## [Archives](archives/index.md)
 
