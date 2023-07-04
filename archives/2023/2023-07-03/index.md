@@ -54,6 +54,7 @@
 * [2023-07-03, 14:19:28](https://news.ycombinator.com/item?id=36573254) - [Classifier Free Guidance works on LLMs with a significant boost in performance](https://arxiv.org/abs/2306.17806)
 * [2023-07-03, 13:58:38](https://news.ycombinator.com/item?id=36572953) - [Vectorizing Graph Neural Networks](https://www.moderndescartes.com/essays/vectorized_pagerank/)
 * [2023-07-03, 13:52:15](https://news.ycombinator.com/item?id=36572875) - [Half a Million People Regularly Using Steroids in the UK](https://fullfact.org/health/steroids-bodybuilding-image-prevalence/)
+* [2023-07-03, 13:40:15](https://news.ycombinator.com/item?id=36572734) - [Megalodon shark was warm-blooded](https://phys.org/news/2023-06-analysis-tooth-minerals-megalodon-shark.html)
 * [2023-07-03, 13:34:35](https://news.ycombinator.com/item?id=36572658) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
 * [2023-07-03, 13:33:18](https://news.ycombinator.com/item?id=36572645) - [Problems of C, and how Zig addresses them](https://avestura.dev/blog/problems-of-c-and-how-zig-addresses-them)
 * [2023-07-03, 13:11:59](https://news.ycombinator.com/item?id=36572401) - [Self-Driving Cars Are Surveillance Cameras on Wheels](https://www.schneier.com/blog/archives/2023/07/self-driving-cars-are-surveillance-cameras-on-wheels.html)
