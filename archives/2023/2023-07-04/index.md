@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 13:56:42](https://news.ycombinator.com/item?id=36586734) - [gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion](https://github.com/mshumer/gpt-author)
+* [2023-07-04, 13:53:32](https://news.ycombinator.com/item?id=36586691) - [Debugging GraphQL N+1 Issues with Open Source Tracing Tools](https://kickstage.com/blog/open-source-tracing-to-debug-graphql-performance-issues/)
 * [2023-07-04, 13:50:02](https://news.ycombinator.com/item?id=36586632) - [Sao Paulo: The City with No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 * [2023-07-04, 13:27:41](https://news.ycombinator.com/item?id=36586346) - [More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
 * [2023-07-04, 13:18:52](https://news.ycombinator.com/item?id=36586262) - [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
 * [2023-07-04, 13:08:42](https://news.ycombinator.com/item?id=36586170) - [Google's updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
+* [2023-07-04, 13:04:29](https://news.ycombinator.com/item?id=36586129) - [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview)
 * [2023-07-04, 13:04:19](https://news.ycombinator.com/item?id=36586127) - [Dutch rules will soon prevent schoolchildren from having a phone in classroom](https://nltimes.nl/2023/07/04/dutch-rules-will-soon-prevent-schoolchildren-phone-classroom)
 * [2023-07-04, 13:00:43](https://news.ycombinator.com/item?id=36586079) - [Stable Diffusion XL technical report [pdf]](https://github.com/Stability-AI/generative-models/blob/main/assets/sdxl_report.pdf)
 * [2023-07-04, 12:45:47](https://news.ycombinator.com/item?id=36585940) - [Long before CentOS or RHEL, a reminder from 2000: RedHatIsNotLinux.org](https://web.archive.org/web/20000815063125/http://www.redhatisnotlinux.org/)
