@@ -65,6 +65,7 @@
 * [2023-07-03, 10:41:47](https://news.ycombinator.com/item?id=36571116) - [A curated list of data oriented design resources](https://github.com/dbartolini/data-oriented-design)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 10:37:50](https://news.ycombinator.com/item?id=36571081) - [AMD to Expand ROCm Support to Consumer RDNA 3 GPUs This Fall](https://www.tomshardware.com/news/amd-to-expand-rocm-support-to-pro-and-consumer-rdna-3-gpus-this-fall)
+* [2023-07-03, 10:13:24](https://news.ycombinator.com/item?id=36570939) - [Problems for computer solution (1980)](https://archive.org/details/Problems_for_Computer_Solution_Teacher_Edition_1980_Creative_Computing_Press)
 * [2023-07-03, 09:35:43](https://news.ycombinator.com/item?id=36570714) - [Wikipedia switches to CC BY-SA 4.0 license](https://diff.wikimedia.org/2023/06/29/stepping-into-the-future-wikimedia-projects-transition-to-creative-commons-4-0-license/)
 * [2023-07-03, 09:03:24](https://news.ycombinator.com/item?id=36570499) - [Detecting and Handling Flaky Tests in Playwright](https://ray.run/blog/detecting-and-handling-flaky-tests-in-playwright)
 * [2023-07-03, 09:02:11](https://news.ycombinator.com/item?id=36570488) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
