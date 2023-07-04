@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36591313"
     ],
     [
-      "Elixir Type system updates: moving from research into development",
+      "Type system updates: moving from research into development",
       "https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/"
     ]
   ],
@@ -85,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36588906"
     ],
     [
-      "Opening up Intel's Device Modeling Language",
+      "Opening up Intel's Device Modeling Language (2022)",
       "https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739"
     ]
   ],
@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-07-04, 15:33:36",
-      "https://news.ycombinator.com/item?id=36588044"
-    ],
-    [
-      "One of the parallel worlds cannot be extremely different from the other",
-      "https://www.tsukuba.ac.jp/en/research-news/20230508140000.html"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 15:32:17",
       "https://news.ycombinator.com/item?id=36588017"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2023-07-04, 15:16:11",
+      "https://news.ycombinator.com/item?id=36587788"
+    ],
+    [
+      "Google and HTTP (2018)",
+      "http://this.how/googleAndHttp/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 13:50:02",
       "https://news.ycombinator.com/item?id=36586632"
     ],
@@ -157,6 +157,26 @@
     [
       "More than 75% of Steam games tested are playable or verified on the Steam Deck",
       "https://mastodon.cloud/@boilingsteam/110655979942850128"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 13:17:16",
+      "https://news.ycombinator.com/item?id=36586248"
+    ],
+    [
+      "Tips for programmers to stay ahead of generative AI",
+      "https://spectrum.ieee.org/ai-programming"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 13:04:29",
+      "https://news.ycombinator.com/item?id=36586129"
+    ],
+    [
+      "How to pass a first-round interview",
+      "https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2023-07-03, 12:31:09",
-      "https://news.ycombinator.com/item?id=36571956"
-    ],
-    [
-      "Dynamic Languages Strike Back (2008)",
-      "http://steve-yegge.blogspot.com/2008/05/dynamic-languages-strike-back.html"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 11:57:41",
       "https://news.ycombinator.com/item?id=36571677"
     ],
     [
       "The evolutionary stage of Betelgeuse inferred from its pulsation periods",
       "https://arxiv.org/abs/2306.00287"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 08:38:46",
-      "https://news.ycombinator.com/item?id=36570342"
-    ],
-    [
-      "Rabbit Scheme Compiler",
-      "https://github.com/dhess/rabbit-scheme/blob/master/rabbit.lsp"
     ]
   ],
   [
