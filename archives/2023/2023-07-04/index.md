@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 12:04:36](https://news.ycombinator.com/item?id=36585560) - [Apple forced to make major cuts to Vision Pro headset production plans](https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/)
 * [2023-07-04, 11:43:34](https://news.ycombinator.com/item?id=36585371) - [A curated list of uBlock origin filters](https://letsblock.it/filters)
+* [2023-07-04, 11:39:51](https://news.ycombinator.com/item?id=36585331) - [The Ancient Roman Secret to Concrete Resilience in Seawater](https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/)
 * [2023-07-04, 11:39:10](https://news.ycombinator.com/item?id=36585327) - [Toyota claims battery breakthrough in potential boost for electric cars](https://www.theguardian.com/business/2023/jul/04/toyota-claims-battery-breakthrough-electric-cars)
 * [2023-07-04, 11:36:59](https://news.ycombinator.com/item?id=36585306) - [The Hypocrisy of Mandatory Diversity Statements](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/)
 * [2023-07-04, 10:33:38](https://news.ycombinator.com/item?id=36584753) - [A civil rights group is challenging legacy admissions at Harvard University](https://apnews.com/article/legacy-admissions-affirmative-action-colleges-4a4e1191274e91e695e0631ff5156875)
