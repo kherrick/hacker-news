@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 10:21:02](https://news.ycombinator.com/item?id=36584656) - [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
 * [2023-07-04, 10:16:07](https://news.ycombinator.com/item?id=36584615) - [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
 * [2023-07-04, 08:48:26](https://news.ycombinator.com/item?id=36583969) - [GPT-4 is great at infuriating telemarketing scammers](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
@@ -23,7 +24,6 @@
 * [2023-07-03, 21:57:17](https://news.ycombinator.com/item?id=36579347) - [Things that surprised me while running SQLite in production](https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/)
 * [2023-07-03, 20:40:22](https://news.ycombinator.com/item?id=36578489) - [Huge phosphate rock deposit discovered in Norway](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
 * [2023-07-03, 17:01:38](https://news.ycombinator.com/item?id=36575784) - [Joins 13 Ways](https://justinjaffray.com/joins-13-ways/?a=b)
-* [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA is this?](https://pudding.cool/games/where/)
 * [2023-07-03, 11:29:48](https://news.ycombinator.com/item?id=36571458) - [The Dead Internet Theory [video]](https://www.youtube.com/watch?v=9WB5grLMXkU)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 09:08:38](https://news.ycombinator.com/item?id=36570526) - [Photonics to Make Celestial HBM3 Memory Fabric](https://www.nextplatform.com/2023/06/28/photonics-to-make-celestial-hbm3-memory-fabric/)

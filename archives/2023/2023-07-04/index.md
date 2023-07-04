@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 10:21:02](https://news.ycombinator.com/item?id=36584656) - [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
 * [2023-07-04, 10:16:07](https://news.ycombinator.com/item?id=36584615) - [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
 * [2023-07-04, 08:48:26](https://news.ycombinator.com/item?id=36583969) - [GPT-4 is great at infuriating telemarketing scammers](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
