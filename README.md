@@ -4,7 +4,6 @@
 * [2023-07-04, 20:02:19](https://news.ycombinator.com/item?id=36591850) - [You need to plan for token revocation](https://www.biscuitsec.org/docs/guides/revocation/)
 * [2023-07-04, 19:18:45](https://news.ycombinator.com/item?id=36591402) - [Monday was hottest day for global average temperature, as climate crisis bites](https://www.theguardian.com/world/2023/jul/04/monday-was-hottest-day-for-global-average-temperature-on-record-as-climate-crisis-bites)
 * [2023-07-04, 19:11:43](https://news.ycombinator.com/item?id=36591313) - [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
-* [2023-07-04, 19:06:47](https://news.ycombinator.com/item?id=36591247) - [Mozilla restricts extensions on some domains on Firefox 115](https://www.askvg.com/fix-some-extensions-are-not-allowed-in-firefox-115-and-later/)
 * [2023-07-04, 18:52:24](https://news.ycombinator.com/item?id=36591079) - [Designing a Language Without a Parser](https://thunderseethe.dev/posts/type-inference/)
 * [2023-07-04, 18:50:25](https://news.ycombinator.com/item?id=36591057) - [Svix (YC W21) Is Hiring a Founding Account Executive (US Remote)](https://www.svix.com/careers/)
 * [2023-07-04, 18:47:55](https://news.ycombinator.com/item?id=36591032) - [How to build a website without frameworks and tons of libraries](https://www.kodingkitty.com/blog/how-to-build-a-website/)
@@ -28,6 +27,7 @@
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 * [2023-07-03, 13:40:15](https://news.ycombinator.com/item?id=36572734) - [New analysis of tooth minerals confirms megalodon shark was warm-blooded](https://phys.org/news/2023-06-analysis-tooth-minerals-megalodon-shark.html)
 * [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: Data loss after being shut down by Oracle Cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
+* [2023-07-03, 06:27:56](https://news.ycombinator.com/item?id=36569518) - [Guy Kawasaki](https://deprogrammaticaipsum.com/guy-kawasaki/)
 * [2023-07-03, 05:40:42](https://news.ycombinator.com/item?id=36569306) - [So Long “Prompt Engineering,” We Hardly Knew Ya](https://medium.com/art-interrupted/so-long-prompt-engineering-we-hardly-knew-ya-a77d871e00e9)
 * [2023-07-03, 00:54:35](https://news.ycombinator.com/item?id=36567460) - [Anatomy of a Firework (2002)](https://www.pbs.org/wgbh/nova/fireworks/anat_nf.html)
 
