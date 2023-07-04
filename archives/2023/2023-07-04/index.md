@@ -17,6 +17,7 @@
 * [2023-07-04, 13:00:43](https://news.ycombinator.com/item?id=36586079) - [Stable Diffusion XL technical report [pdf]](https://github.com/Stability-AI/generative-models/blob/main/assets/sdxl_report.pdf)
 * [2023-07-04, 12:45:47](https://news.ycombinator.com/item?id=36585940) - [Long before CentOS or RHEL, a reminder from 2000: RedHatIsNotLinux.org](https://web.archive.org/web/20000815063125/http://www.redhatisnotlinux.org/)
 * [2023-07-04, 12:36:51](https://news.ycombinator.com/item?id=36585841) - [Node.js HTTP Request Smuggling via Empty Headers Separated by CR](https://hackerone.com/reports/2001873)
+* [2023-07-04, 12:27:20](https://news.ycombinator.com/item?id=36585749) - [History Never Repeats. But Sometimes It Rhymes](https://ciq.com/blog/history-never-repeats-but-sometimes-it-rhymes/)
 * [2023-07-04, 12:04:36](https://news.ycombinator.com/item?id=36585560) - [Apple forced to make major cuts to Vision Pro headset production plans](https://arstechnica.com/gadgets/2023/07/apple-forced-to-make-major-cuts-to-vision-pro-headset-production-plans/)
 * [2023-07-04, 11:43:34](https://news.ycombinator.com/item?id=36585371) - [A curated list of uBlock origin filters](https://letsblock.it/filters)
 * [2023-07-04, 11:39:51](https://news.ycombinator.com/item?id=36585331) - [The Ancient Roman Secret to Concrete Resilience in Seawater](https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/)
