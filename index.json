@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-07-04, 11:39:10",
-      "https://news.ycombinator.com/item?id=36585327"
-    ],
-    [
-      "Toyota claims battery breakthrough in potential boost for electric cars",
-      "https://www.theguardian.com/business/2023/jul/04/toyota-claims-battery-breakthrough-electric-cars"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 10:26:55",
       "https://news.ycombinator.com/item?id=36584692"
     ],
@@ -251,22 +241,22 @@
   ],
   [
     [
-      "2023-07-03, 11:29:48",
-      "https://news.ycombinator.com/item?id=36571458"
-    ],
-    [
-      "The Dead Internet Theory [video]",
-      "https://www.youtube.com/watch?v=9WB5grLMXkU"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 10:41:09",
       "https://news.ycombinator.com/item?id=36571110"
     ],
     [
       "Data-Oriented Design (2018)",
       "https://www.dataorienteddesign.com/dodbook/dodmain.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 09:08:38",
+      "https://news.ycombinator.com/item?id=36570526"
+    ],
+    [
+      "Photonics to Make Celestial HBM3 Memory Fabric",
+      "https://www.nextplatform.com/2023/06/28/photonics-to-make-celestial-hbm3-memory-fabric/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Makepad- Synthesizer Written in Rust",
       "https://makepad.nl/makepad/examples/ironfish/src/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 23:42:04",
+      "https://news.ycombinator.com/item?id=36566994"
+    ],
+    [
+      "OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP",
+      "https://github.com/Ottercast/OtterCastAudioV2"
     ]
   ]
 ]
