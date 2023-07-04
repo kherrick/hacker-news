@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 07:30:39](https://news.ycombinator.com/item?id=36583406) - [Why there may never be a libjpeg-turbo 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE)
 * [2023-07-04, 06:26:59](https://news.ycombinator.com/item?id=36582937) - [The Lone Banana Problem in AI](https://www.digital-science.com/tldr/article/the-lone-banana-problem-or-the-new-programming-speaking-ai/)
 * [2023-07-04, 06:09:06](https://news.ycombinator.com/item?id=36582800) - [How Red Hat’s Open-Source Negligence Is Doing Actual Harm to the Linux Community](https://www.learnlinux.tv/how-red-hats-open-source-negligence-is-doing-actual-harm-to-the-linux-community-and-enterprise-it-in-general/)
 * [2023-07-04, 05:56:09](https://news.ycombinator.com/item?id=36582724) - [$1 Billion That Nobody Wants](https://www.npr.org/2011/06/28/137394348/-1-billion-that-nobody-wants)
