@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-04, 20:20:32",
+      "https://news.ycombinator.com/item?id=36592033"
+    ],
+    [
+      "\"How's your PhD going?\" A study on mental health",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 20:02:19",
+      "https://news.ycombinator.com/item?id=36591850"
+    ],
+    [
+      "You need to plan for token revocation",
+      "https://www.biscuitsec.org/docs/guides/revocation/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 19:18:45",
       "https://news.ycombinator.com/item?id=36591402"
     ],
@@ -117,16 +137,6 @@
     [
       "ZFS 2.2.0 (RC): Block Cloning merged",
       "https://github.com/openzfs/zfs/pull/13392"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 15:32:17",
-      "https://news.ycombinator.com/item?id=36588017"
-    ],
-    [
-      "Writing about writing about programming",
-      "https://axleos.com/writing-about-writing-about-programming/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "New analysis of tooth minerals confirms megalodon shark was warm-blooded",
       "https://phys.org/news/2023-06-analysis-tooth-minerals-megalodon-shark.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 11:57:41",
-      "https://news.ycombinator.com/item?id=36571677"
-    ],
-    [
-      "The evolutionary stage of Betelgeuse inferred from its pulsation periods",
-      "https://arxiv.org/abs/2306.00287"
     ]
   ],
   [
