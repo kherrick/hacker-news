@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-04, 13:56:42",
+      "https://news.ycombinator.com/item?id=36586734"
+    ],
+    [
+      "gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion",
+      "https://github.com/mshumer/gpt-author"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 13:53:32",
+      "https://news.ycombinator.com/item?id=36586691"
+    ],
+    [
+      "Debugging GraphQL N+1 Issues with Open Source Tracing Tools",
+      "https://kickstage.com/blog/open-source-tracing-to-debug-graphql-performance-issues/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 13:50:02",
       "https://news.ycombinator.com/item?id=36586632"
     ],
@@ -37,6 +57,16 @@
     [
       "Google's updated privacy policy states it can use public data to train its AI",
       "https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 13:04:29",
+      "https://news.ycombinator.com/item?id=36586129"
+    ],
+    [
+      "How to pass any first-round interview (even in a terrible talent market)",
+      "https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-07-04, 08:48:26",
-      "https://news.ycombinator.com/item?id=36583969"
-    ],
-    [
-      "GPT-4 is great at infuriating telemarketing scammers",
-      "https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 08:41:16",
       "https://news.ycombinator.com/item?id=36583906"
     ],
@@ -241,12 +261,12 @@
   ],
   [
     [
-      "2023-07-03, 22:56:19",
-      "https://news.ycombinator.com/item?id=36579877"
+      "2023-07-03, 20:25:16",
+      "https://news.ycombinator.com/item?id=36578285"
     ],
     [
-      "Velt (YC W22) Is Hiring Founding Frontend Engineer in US",
-      "https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only"
+      "Tracing food history with ancient leftovers",
+      "https://www.atlasobscura.com/articles/penn-ancient-food-exhibit"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "The industry behind the industry behind AI",
       "https://restofworld.org/2023/exporter-industry-behind-ai/"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 10:41:09",
-      "https://news.ycombinator.com/item?id=36571110"
-    ],
-    [
-      "Data-Oriented Design (2018)",
-      "https://www.dataorienteddesign.com/dodbook/dodmain.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 04:08:10",
-      "https://news.ycombinator.com/item?id=36568667"
-    ],
-    [
-      "VPN use is at an all-time high – but are people safe?",
-      "https://www.techradar.com/pro/vpn-use-is-at-an-all-time-high-but-are-people-actually-safe"
     ]
   ],
   [
