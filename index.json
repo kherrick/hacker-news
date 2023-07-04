@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-04, 06:09:06",
+      "https://news.ycombinator.com/item?id=36582800"
+    ],
+    [
+      "How Red Hat’s Open-Source Negligence Is Doing Actual Harm to the Linux Community",
+      "https://www.learnlinux.tv/how-red-hats-open-source-negligence-is-doing-actual-harm-to-the-linux-community-and-enterprise-it-in-general/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 05:32:17",
       "https://news.ycombinator.com/item?id=36582571"
     ],
@@ -37,6 +47,16 @@
     [
       "A header-only C implementation of C++ <algorithm>",
       "https://github.com/clibraries/array-algorithms"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 04:30:27",
+      "https://news.ycombinator.com/item?id=36582255"
+    ],
+    [
+      "SQLite-based databases on the Postgres protocol? Yes we can",
+      "https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65?gi=b00cf93b1837"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2023-07-03, 16:11:03",
-      "https://news.ycombinator.com/item?id=36575003"
-    ],
-    [
-      "Goodreads was the future of book reviews, then Amazon bought it",
-      "https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 16:01:16",
       "https://news.ycombinator.com/item?id=36574844"
     ],
@@ -237,16 +247,6 @@
     [
       "An interactive guide to SVG paths",
       "https://www.nan.fyi/svg-paths"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 11:14:16",
-      "https://news.ycombinator.com/item?id=36571346"
-    ],
-    [
-      "The Cluetrain Manifesto (1999)",
-      "https://www.cluetrain.com/#manifesto"
     ]
   ],
   [
