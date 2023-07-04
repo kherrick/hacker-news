@@ -10,6 +10,7 @@
 * [2023-07-04, 13:38:35](https://news.ycombinator.com/item?id=36586481) - [Firefox 115 Now Available with Intel GPU Video Decoding on Linux](https://www.phoronix.com/news/Mozilla-Firefox-115)
 * [2023-07-04, 13:27:41](https://news.ycombinator.com/item?id=36586346) - [More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck](https://mastodon.cloud/@boilingsteam/110655979942850128)
 * [2023-07-04, 13:18:52](https://news.ycombinator.com/item?id=36586262) - [Anti-ageing protein injection boosts monkeys’ memories](https://www.nature.com/articles/d41586-023-02214-3)
+* [2023-07-04, 13:17:16](https://news.ycombinator.com/item?id=36586248) - [How Coders Can Survive–and Thrive–In a ChatGPT World](https://spectrum.ieee.org/ai-programming)
 * [2023-07-04, 13:08:42](https://news.ycombinator.com/item?id=36586170) - [Google's updated privacy policy states it can use public data to train its AI](https://www.engadget.com/googles-updated-privacy-policy-states-it-can-use-public-data-to-train-its-ai-models-095541684.html)
 * [2023-07-04, 13:04:29](https://news.ycombinator.com/item?id=36586129) - [How to pass any first-round interview (even in a terrible talent market)](https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview)
 * [2023-07-04, 13:04:19](https://news.ycombinator.com/item?id=36586127) - [Dutch rules will soon prevent schoolchildren from having a phone in classroom](https://nltimes.nl/2023/07/04/dutch-rules-will-soon-prevent-schoolchildren-phone-classroom)
