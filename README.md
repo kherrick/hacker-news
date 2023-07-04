@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-04, 02:40:07](https://news.ycombinator.com/item?id=36581546) - [Threads.net](https://www.threads.net/)
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
 * [2023-07-03, 23:56:14](https://news.ycombinator.com/item?id=36580417) - [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
 * [2023-07-03, 23:31:44](https://news.ycombinator.com/item?id=36580192) - [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
-* [2023-07-03, 23:05:16](https://news.ycombinator.com/item?id=36579963) - [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
+* [2023-07-03, 23:11:35](https://news.ycombinator.com/item?id=36580006) - [CPU Utilization Is Wrong](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 * [2023-07-03, 22:56:19](https://news.ycombinator.com/item?id=36579877) - [Velt (YC W22) Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
 * [2023-07-03, 21:57:17](https://news.ycombinator.com/item?id=36579347) - [Things that surprised me while running SQLite in production](https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/)
 * [2023-07-03, 19:12:59](https://news.ycombinator.com/item?id=36577536) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
@@ -19,7 +20,6 @@
 * [2023-07-03, 15:50:21](https://news.ycombinator.com/item?id=36574645) - [An interactive guide to SVG paths](https://www.nan.fyi/svg-paths)
 * [2023-07-03, 15:16:24](https://news.ycombinator.com/item?id=36574090) - [Show HN: JobLens – AI-powered job search for 'Who Is Hiring'](https://www.kadoa.com/joblens)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
-* [2023-07-03, 15:00:58](https://news.ycombinator.com/item?id=36573873) - [Disabling Matrix Portalling](https://libera.chat/news/matrix-deportalling)
 * [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
 * [2023-07-03, 15:00:51](https://news.ycombinator.com/item?id=36573869) - [Ask HN: Who wants to be hired? (July 2023)](https://news.ycombinator.com/item?id=36573869)
 * [2023-07-03, 13:34:35](https://news.ycombinator.com/item?id=36572658) - [FoundationDB: A Distributed Key-Value Store](https://cacm.acm.org/magazines/2023/6/273229-foundationdb-a-distributed-key-value-store/fulltext)
@@ -29,7 +29,7 @@
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
 * [2023-07-03, 06:28:44](https://news.ycombinator.com/item?id=36569526) - [The evolving Unix attitudes on handling signals in your code](https://utcc.utoronto.ca/~cks/space/blog/unix/SignalHandlingOverTime)
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
-* [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders](https://eta.st/2021/06/20/showtime.html)
+* [2023-07-03, 00:19:01](https://news.ycombinator.com/item?id=36567235) - [Sending audio to LKV373 HDMI extenders (2021)](https://eta.st/2021/06/20/showtime.html)
 
 ## [Archives](archives/index.md)
 
