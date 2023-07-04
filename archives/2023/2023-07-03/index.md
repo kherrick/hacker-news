@@ -31,6 +31,7 @@
 * [2023-07-03, 16:23:31](https://news.ycombinator.com/item?id=36575190) - [We are wasting up to 20% of our time on computer problems, says study](https://techxplore.com/news/2023-06-problems.html)
 * [2023-07-03, 16:18:43](https://news.ycombinator.com/item?id=36575116) - [Where in the USA Is This?](https://pudding.cool/games/where/)
 * [2023-07-03, 16:16:54](https://news.ycombinator.com/item?id=36575085) - [So where are we all supposed to go now?](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon)
+* [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 * [2023-07-03, 16:11:03](https://news.ycombinator.com/item?id=36575003) - [Goodreads was the future of book reviews. Then Amazon bought it](https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/)
 * [2023-07-03, 16:01:16](https://news.ycombinator.com/item?id=36574844) - [The Animated Elliptic Curve](https://curves.xargs.org)
 * [2023-07-03, 15:57:00](https://news.ycombinator.com/item?id=36574775) - [Localhost Resource Permission](https://brave.com/privacy-updates/27-localhost-permission/)
