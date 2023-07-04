@@ -4,7 +4,7 @@
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
 * [2023-07-03, 23:56:14](https://news.ycombinator.com/item?id=36580417) - [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
 * [2023-07-03, 23:31:44](https://news.ycombinator.com/item?id=36580192) - [Threads, an Instagram app](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
-* [2023-07-03, 23:11:35](https://news.ycombinator.com/item?id=36580006) - [CPU Utilization Is Wrong](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
+* [2023-07-03, 23:11:35](https://news.ycombinator.com/item?id=36580006) - [CPU Utilization Is Wrong (2017)](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 * [2023-07-03, 22:56:19](https://news.ycombinator.com/item?id=36579877) - [Velt (YC W22) Is Hiring Founding Frontend Engineer in US](https://www.ycombinator.com/companies/velt/jobs/iC33Kfh-founding-frontend-engineer-web-us-only)
 * [2023-07-03, 21:57:17](https://news.ycombinator.com/item?id=36579347) - [Things that surprised me while running SQLite in production](https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/)
 * [2023-07-03, 19:12:59](https://news.ycombinator.com/item?id=36577536) - [Can Dell’s 6K monitor beat their 8K monitor?](https://michael.stapelberg.ch/posts/2023-07-03-dell-u3224kba-32-inch-6k-monitor/)
