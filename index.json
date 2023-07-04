@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-04, 13:27:41",
+      "https://news.ycombinator.com/item?id=36586346"
+    ],
+    [
+      "More Than 75% of Steam Games Tested Are Playable or Verified on the Steam Deck",
+      "https://mastodon.cloud/@boilingsteam/110655979942850128"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 13:18:52",
+      "https://news.ycombinator.com/item?id=36586262"
+    ],
+    [
+      "Anti-ageing protein injection boosts monkeys’ memories",
+      "https://www.nature.com/articles/d41586-023-02214-3"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 13:08:42",
       "https://news.ycombinator.com/item?id=36586170"
     ],
@@ -17,6 +37,16 @@
     [
       "Dutch rules will soon prevent schoolchildren from having a phone in classroom",
       "https://nltimes.nl/2023/07/04/dutch-rules-will-soon-prevent-schoolchildren-phone-classroom"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 12:45:47",
+      "https://news.ycombinator.com/item?id=36585940"
+    ],
+    [
+      "Long before CentOS or RHEL, a reminder from 2000: RedHatIsNotLinux.org",
+      "https://web.archive.org/web/20000815063125/http://www.redhatisnotlinux.org/"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2023-07-04, 04:07:32",
-      "https://news.ycombinator.com/item?id=36582120"
-    ],
-    [
-      "How the RWKV language model works",
-      "https://johanwind.github.io/2023/03/23/rwkv_details.html"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 04:07:00",
       "https://news.ycombinator.com/item?id=36582117"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-07-03, 09:08:38",
-      "https://news.ycombinator.com/item?id=36570526"
-    ],
-    [
-      "Photonics to Make Celestial HBM3 Memory Fabric",
-      "https://www.nextplatform.com/2023/06/28/photonics-to-make-celestial-hbm3-memory-fabric/"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 04:08:10",
       "https://news.ycombinator.com/item?id=36568667"
     ],
@@ -287,16 +297,6 @@
     [
       "Makepad- Synthesizer Written in Rust",
       "https://makepad.nl/makepad/examples/ironfish/src/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-02, 23:42:04",
-      "https://news.ycombinator.com/item?id=36566994"
-    ],
-    [
-      "OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP",
-      "https://github.com/Ottercast/OtterCastAudioV2"
     ]
   ]
 ]
