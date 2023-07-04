@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-04, 02:40:07",
+      "https://news.ycombinator.com/item?id=36581546"
+    ],
+    [
+      "Threads.net",
+      "https://www.threads.net/"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 01:02:25",
       "https://news.ycombinator.com/item?id=36580837"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2023-07-03, 23:05:16",
-      "https://news.ycombinator.com/item?id=36579963"
+      "2023-07-03, 23:11:35",
+      "https://news.ycombinator.com/item?id=36580006"
     ],
     [
-      "Booting RISC-V Linux on Star64 JH7110 SBC",
-      "https://lupyuen.codeberg.page/articles/linux.html"
+      "CPU Utilization Is Wrong",
+      "https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-07-03, 15:00:58",
-      "https://news.ycombinator.com/item?id=36573873"
-    ],
-    [
-      "Disabling Matrix Portalling",
-      "https://libera.chat/news/matrix-deportalling"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 15:00:52",
       "https://news.ycombinator.com/item?id=36573871"
     ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36567235"
     ],
     [
-      "Sending audio to LKV373 HDMI extenders",
+      "Sending audio to LKV373 HDMI extenders (2021)",
       "https://eta.st/2021/06/20/showtime.html"
     ]
   ]
