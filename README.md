@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-04, 05:32:17](https://news.ycombinator.com/item?id=36582571) - [Instagram will shut down its companion app Threads by year end](https://techcrunch.com/2021/11/17/instagram-will-shut-down-its-companion-app-threads-by-year-end/)
+* [2023-07-04, 05:32:17](https://news.ycombinator.com/item?id=36582571) - [Instagram will shut down its companion app Threads by year end (2021)](https://techcrunch.com/2021/11/17/instagram-will-shut-down-its-companion-app-threads-by-year-end/)
 * [2023-07-04, 05:11:38](https://news.ycombinator.com/item?id=36582468) - [Show HN: Degrees What?](https://degreeswhat.com)
 * [2023-07-04, 05:03:50](https://news.ycombinator.com/item?id=36582430) - [OpenAI temporarily disables the Browse with Bing beta feature](https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web)
+* [2023-07-04, 04:54:43](https://news.ycombinator.com/item?id=36582385) - [A header-only C implementation of C++ <algorithm>](https://github.com/clibraries/array-algorithms)
 * [2023-07-04, 04:07:32](https://news.ycombinator.com/item?id=36582120) - [How the RWKV language model works](https://johanwind.github.io/2023/03/23/rwkv_details.html)
 * [2023-07-04, 04:07:00](https://news.ycombinator.com/item?id=36582117) - [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
@@ -23,7 +24,6 @@
 * [2023-07-03, 16:11:03](https://news.ycombinator.com/item?id=36575003) - [Goodreads was the future of book reviews, then Amazon bought it](https://www.washingtonpost.com/technology/2023/07/01/amazon-goodreads-elizabeth-gilbert/)
 * [2023-07-03, 16:01:16](https://news.ycombinator.com/item?id=36574844) - [The Animated Elliptic Curve](https://curves.xargs.org)
 * [2023-07-03, 15:50:21](https://news.ycombinator.com/item?id=36574645) - [An interactive guide to SVG paths](https://www.nan.fyi/svg-paths)
-* [2023-07-03, 15:16:24](https://news.ycombinator.com/item?id=36574090) - [Show HN: JobLens – AI-powered job search for 'Who Is Hiring'](https://www.kadoa.com/joblens)
 * [2023-07-03, 15:01:25](https://news.ycombinator.com/item?id=36573881) - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
 * [2023-07-03, 15:00:52](https://news.ycombinator.com/item?id=36573871) - [Ask HN: Who is hiring? (July 2023)](https://news.ycombinator.com/item?id=36573871)
 * [2023-07-03, 10:41:09](https://news.ycombinator.com/item?id=36571110) - [Data-Oriented Design (2018)](https://www.dataorienteddesign.com/dodbook/dodmain.html)
