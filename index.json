@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-05, 10:15:15",
+      "https://news.ycombinator.com/item?id=36598254"
+    ],
+    [
+      "The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]",
+      "https://www.bell-labs.com/usr/dmr/www/hist.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 08:32:19",
       "https://news.ycombinator.com/item?id=36597460"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-07-04, 20:48:38",
-      "https://news.ycombinator.com/item?id=36592343"
-    ],
-    [
-      "LXD is now under Canonical",
-      "https://linuxcontainers.org/lxd/"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 20:02:19",
       "https://news.ycombinator.com/item?id=36591850"
     ],
@@ -157,6 +157,16 @@
     [
       "Designing a Language Without a Parser",
       "https://thunderseethe.dev/posts/type-inference/"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 18:47:55",
+      "https://news.ycombinator.com/item?id=36591032"
+    ],
+    [
+      "How to build a website without frameworks and tons of libraries",
+      "https://www.kodingkitty.com/blog/how-to-build-a-website/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "RunWithScissors() (2009)",
       "https://android.googlesource.com/platform/frameworks/base/+/android-5.0.0_r1/core/java/android/os/Handler.java#461"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 16:43:31",
-      "https://news.ycombinator.com/item?id=36575462"
-    ],
-    [
-      "A dispute over IPv4 addresses blew the lid off an effort reshape allocation",
-      "https://www.theregister.com/2023/07/03/what_is_number_resource_society/"
     ]
   ],
   [
