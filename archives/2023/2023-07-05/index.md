@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
+* [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30 years: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)
 * [2023-07-05, 16:16:32](https://news.ycombinator.com/item?id=36602584) - [Show HN: LineSelect, shell utility to interactively select lines in a pipeline](https://github.com/chfritz/lineselect)
 * [2023-07-05, 15:52:23](https://news.ycombinator.com/item?id=36602193) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
