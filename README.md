@@ -11,7 +11,6 @@
 * [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:16:32](https://news.ycombinator.com/item?id=36602584) - [Show HN: LineSelect, shell utility to interactively select lines in a pipeline](https://github.com/chfritz/lineselect)
-* [2023-07-05, 15:52:23](https://news.ycombinator.com/item?id=36602193) - [Firefox 115 can remotely disable any extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 * [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
 * [2023-07-05, 13:48:49](https://news.ycombinator.com/item?id=36600446) - [A Regex Barometer](https://github.com/BurntSushi/rebar)
@@ -30,6 +29,7 @@
 * [2023-07-04, 03:58:36](https://news.ycombinator.com/item?id=36582064) - [A user-friendly platform for virtual exploration of chemical reactions](https://phys.org/news/2023-06-user-friendly-platform-virtual-exploration-chemical.html)
 * [2023-07-04, 01:53:09](https://news.ycombinator.com/item?id=36581204) - [Repair adventure: A single white LED causing stuck keys on a RN988 keyboard](https://halestrom.net/darksleep/blog/052_rn988_keyboard/)
 * [2023-07-04, 00:26:32](https://news.ycombinator.com/item?id=36580623) - [Growing a Language (1998) [video]](https://www.youtube.com/watch?v=lw6TaiXzHAE)
+* [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
 
 ## [Archives](archives/index.md)
 
