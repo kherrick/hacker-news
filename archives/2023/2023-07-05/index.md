@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 12:07:05](https://news.ycombinator.com/item?id=36599217) - [Astro framework lowers competitors by ~40% on performance graph to looks better](https://twitter.com/sigma__dev/status/1676505365935005696)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 11:58:24](https://news.ycombinator.com/item?id=36599118) - [Let's have a chat about Java licensing, says unsolicited Oracle email](https://www.theregister.com/2023/07/05/unsolicited_oracle_emails_java/)
+* [2023-07-05, 11:56:16](https://news.ycombinator.com/item?id=36599096) - [OceanGate CEO Told Videographer to Sleep on the Titan Sub After the Battery Died](https://petapixel.com/2023/07/05/oceangate-ceo-told-videographer-to-sleep-on-the-titan-sub-after-the-battery-died/)
+* [2023-07-05, 11:25:21](https://news.ycombinator.com/item?id=36598773) - [There's a new online marketplace for open-hardware creators](https://lectronz.com/blog_entries/5)
 * [2023-07-05, 11:04:30](https://news.ycombinator.com/item?id=36598618) - [Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023](https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html)
 * [2023-07-05, 11:03:18](https://news.ycombinator.com/item?id=36598612) - [Driving London to Bath 60 years ago](https://www.youtube.com/watch?v=Qp-Sv_lXWvU)
 * [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
