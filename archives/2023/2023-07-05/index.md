@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
+* [2023-07-05, 15:00:06](https://news.ycombinator.com/item?id=36601361) - [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
+* [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
+* [2023-07-05, 14:51:22](https://news.ycombinator.com/item?id=36601228) - [Why is there no government-built social media?](https://loeber.substack.com/p/10-why-is-there-no-government-built)
 * [2023-07-05, 14:37:10](https://news.ycombinator.com/item?id=36601059) - [Hacking around the Twitter login idiocy](https://news.ycombinator.com/item?id=36601059)
+* [2023-07-05, 14:32:12](https://news.ycombinator.com/item?id=36601004) - [GPT-4’s secret](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
+* [2023-07-05, 13:48:49](https://news.ycombinator.com/item?id=36600446) - [A Regex Barometer](https://github.com/BurntSushi/rebar)
 * [2023-07-05, 13:48:03](https://news.ycombinator.com/item?id=36600434) - [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:24:34](https://news.ycombinator.com/item?id=36600119) - [Who cares about the Ivy League?](https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost)
