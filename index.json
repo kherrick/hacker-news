@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-07-05, 17:04:29",
-      "https://news.ycombinator.com/item?id=36603382"
-    ],
-    [
-      "Introducing Superalignment",
-      "https://openai.com/blog/introducing-superalignment"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 16:57:51",
       "https://news.ycombinator.com/item?id=36603263"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36599137"
     ],
     [
-      "PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada",
+      "Piinpoint (YC W14) is hiring for data science – remote within Canada",
       "https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist"
     ]
   ],
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36598254"
     ],
     [
-      "The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie (1984) [pdf]",
+      "The Evolution of the Unix Time-Sharing System (1984) [pdf]",
       "https://www.bell-labs.com/usr/dmr/www/hist.pdf"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Growing a Language (1998) [video]",
       "https://www.youtube.com/watch?v=lw6TaiXzHAE"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 08:36:05",
+      "https://news.ycombinator.com/item?id=36570321"
+    ],
+    [
+      "How to think about async/await in Rust",
+      "http://cliffle.com/blog/async-inversion/"
     ]
   ]
 ]
