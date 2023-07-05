@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-05, 23:11:57](https://news.ycombinator.com/item?id=36608530) - [Threads Is Now Live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
-* [2023-07-05, 22:07:05](https://news.ycombinator.com/item?id=36607852) - [New aluminum radical battery promises more sustainable power](https://techxplore.com/news/2023-07-aluminum-radical-battery-sustainable-power.html)
 * [2023-07-05, 21:34:25](https://news.ycombinator.com/item?id=36607487) - [My take on the current React and Server Components controversy](https://phryneas.de/react-server-components-controversy)
 * [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
 * [2023-07-05, 21:20:57](https://news.ycombinator.com/item?id=36607323) - [Tabby: A terminal for a more modern age](https://github.com/Eugeny/tabby)
@@ -23,6 +22,7 @@
 * [2023-07-05, 15:47:11](https://news.ycombinator.com/item?id=36602097) - [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 * [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
+* [2023-07-05, 14:24:53](https://news.ycombinator.com/item?id=36600898) - [Radioactive Fictions: Marie Corelli and the Omnipotence of Thoughts](https://publicdomainreview.org/essay/radioactive-fictions)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [Piinpoint (YC W14) is hiring for data science – remote within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)

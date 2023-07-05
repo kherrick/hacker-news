@@ -46,6 +46,7 @@
 * [2023-07-05, 14:51:22](https://news.ycombinator.com/item?id=36601228) - [Why is there no government-built social media?](https://loeber.substack.com/p/10-why-is-there-no-government-built)
 * [2023-07-05, 14:37:10](https://news.ycombinator.com/item?id=36601059) - [Hacking around the Twitter login idiocy](https://news.ycombinator.com/item?id=36601059)
 * [2023-07-05, 14:32:12](https://news.ycombinator.com/item?id=36601004) - [GPT-4’s secret](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
+* [2023-07-05, 14:24:53](https://news.ycombinator.com/item?id=36600898) - [Radioactive Fictions: Marie Corelli and the Omnipotence of Thoughts](https://publicdomainreview.org/essay/radioactive-fictions)
 * [2023-07-05, 13:48:49](https://news.ycombinator.com/item?id=36600446) - [A Regex Barometer](https://github.com/BurntSushi/rebar)
 * [2023-07-05, 13:48:03](https://news.ycombinator.com/item?id=36600434) - [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
 * [2023-07-05, 13:37:19](https://news.ycombinator.com/item?id=36600278) - [Real-Time Air Quality Index Visual Map](https://aqicn.org/map/europe/)
