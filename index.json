@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-05, 17:33:04",
+      "https://news.ycombinator.com/item?id=36603816"
+    ],
+    [
+      "LLama.cpp now has a web interface",
+      "https://github.com/ggerganov/llama.cpp/pull/1998"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 17:04:29",
+      "https://news.ycombinator.com/item?id=36603382"
+    ],
+    [
+      "OpenAI: Introducing SuperAlignment",
+      "https://openai.com/blog/introducing-superalignment"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 16:57:51",
       "https://news.ycombinator.com/item?id=36603263"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2023-07-05, 13:48:03",
-      "https://news.ycombinator.com/item?id=36600434"
-    ],
-    [
-      "Rich text editors and rendering engines",
-      "https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 13:37:19",
       "https://news.ycombinator.com/item?id=36600278"
     ],
@@ -167,16 +177,6 @@
     [
       "PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada",
       "https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 10:38:10",
-      "https://news.ycombinator.com/item?id=36598407"
-    ],
-    [
-      "Show HN: Pytheus – Python Prometheus client built with multiprocessing in mind",
-      "https://github.com/Llandy3d/pytheus"
     ]
   ],
   [
