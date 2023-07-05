@@ -2,6 +2,7 @@
 
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News User Blogroll](https://dm.hn)
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information Overload and the Limits of Working Memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
+* [2023-07-05, 18:13:16](https://news.ycombinator.com/item?id=36604618) - [Show HN: Redjet – a high performance Redis library for Go](https://github.com/ammario/redjet)
 * [2023-07-05, 17:51:21](https://news.ycombinator.com/item?id=36604203) - [A mathematician looks at the French verb (2015) [pdf]](https://www.math.mcgill.ca/barr/papers/pga.pdf)
 * [2023-07-05, 17:50:26](https://news.ycombinator.com/item?id=36604188) - [Beautifying our UI: Giving Gitlab build features a fresh look](https://about.gitlab.com/blog/2023/07/05/beautifying-of-our-ui/)
 * [2023-07-05, 17:40:19](https://news.ycombinator.com/item?id=36603965) - [A buggy Windows 11 update keeps slowing down SSDs](https://www.techspot.com/news/99291-buggy-windows-11-update-could-slowing-down-ssds.html)
@@ -21,7 +22,6 @@
 * [2023-07-05, 09:48:55](https://news.ycombinator.com/item?id=36598062) - [Ariane 5 User’s Manual (2011) [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
-* [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 * [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor update](http://worrydream.com/July2023/)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)

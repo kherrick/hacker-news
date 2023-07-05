@@ -6,6 +6,7 @@
 
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News User Blogroll](https://dm.hn)
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information Overload and the Limits of Working Memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
+* [2023-07-05, 18:13:16](https://news.ycombinator.com/item?id=36604618) - [Show HN: Redjet – a high performance Redis library for Go](https://github.com/ammario/redjet)
 * [2023-07-05, 17:51:21](https://news.ycombinator.com/item?id=36604203) - [A mathematician looks at the French verb (Joachim Lambek) [pdf]](https://www.math.mcgill.ca/barr/papers/pga.pdf)
 * [2023-07-05, 17:50:26](https://news.ycombinator.com/item?id=36604188) - [Beautifying our UI: Giving Gitlab build features a fresh look](https://about.gitlab.com/blog/2023/07/05/beautifying-of-our-ui/)
 * [2023-07-05, 17:40:19](https://news.ycombinator.com/item?id=36603965) - [A buggy Windows 11 update keeps slowing down SSDs](https://www.techspot.com/news/99291-buggy-windows-11-update-could-slowing-down-ssds.html)
