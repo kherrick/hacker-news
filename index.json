@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2023-07-05, 01:33:57",
+      "https://news.ycombinator.com/item?id=36594584"
+    ],
+    [
+      "Flyte: Open-source orchestrator for building production-grade ML pipelines",
+      "https://python.langchain.com/docs/ecosystem/integrations/flyte"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 01:25:22",
       "https://news.ycombinator.com/item?id=36594543"
     ],
     [
       "What if there was only the OS? (2022)",
       "https://dusted.dk/pages/phlog/2022-11-13.txt"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 22:20:30",
-      "https://news.ycombinator.com/item?id=36593249"
-    ],
-    [
-      "I Hate the News (2006)",
-      "http://www.aaronsw.com/weblog/hatethenews"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2023-07-04, 13:27:41",
-      "https://news.ycombinator.com/item?id=36586346"
-    ],
-    [
-      "More than 75% of Steam games tested are playable or verified on the Steam Deck",
-      "https://mastodon.cloud/@boilingsteam/110655979942850128"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 13:17:16",
       "https://news.ycombinator.com/item?id=36586248"
     ],
@@ -297,6 +287,16 @@
     [
       "Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]",
       "https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-02, 23:46:40",
+      "https://news.ycombinator.com/item?id=36567029"
+    ],
+    [
+      "The Safari of Deep Signal Processing: Hyena and Beyond",
+      "https://hazyresearch.stanford.edu/blog/2023-06-08-hyena-safari"
     ]
   ]
 ]
