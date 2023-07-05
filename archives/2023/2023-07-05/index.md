@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:16:53](https://news.ycombinator.com/item?id=36600020) - [News Is Bad for You](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
 * [2023-07-05, 12:55:43](https://news.ycombinator.com/item?id=36599759) - [Amid Twitter Chaos, Japanese Illustrators Flock to Weibo](https://www.sixthtone.com/news/1013241)
 * [2023-07-05, 12:53:08](https://news.ycombinator.com/item?id=36599726) - [Macron floats social media cuts during riots](https://www.politico.eu/article/macron-mulls-cutting-access-social-media-during-riots/)
