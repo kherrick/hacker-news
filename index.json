@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36600434"
     ],
     [
-      "The secret behind Google Docs and other powerful rich-text editors",
+      "Rich text editors and rendering engines",
       "https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf"
     ]
   ],
@@ -17,6 +17,16 @@
     [
       "Regex Engine Internals as a Library",
       "https://blog.burntsushi.net/regex-internals/"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 13:24:34",
+      "https://news.ycombinator.com/item?id=36600119"
+    ],
+    [
+      "Who cares about the Ivy League?",
+      "https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost"
     ]
   ],
   [
@@ -37,16 +47,6 @@
     [
       "Amid Twitter Chaos, Japanese Illustrators Flock to Weibo",
       "https://www.sixthtone.com/news/1013241"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 12:53:08",
-      "https://news.ycombinator.com/item?id=36599726"
-    ],
-    [
-      "Macron floats social media cuts during riots",
-      "https://www.politico.eu/article/macron-mulls-cutting-access-social-media-during-riots/"
     ]
   ],
   [
@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-07-05, 05:01:06",
+      "https://news.ycombinator.com/item?id=36595673"
+    ],
+    [
+      "Cloud Native Software Engineering",
+      "https://arxiv.org/abs/2307.01045"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 04:29:27",
       "https://news.ycombinator.com/item?id=36595512"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2023-07-04, 22:16:09",
-      "https://news.ycombinator.com/item?id=36593206"
+      "2023-07-04, 19:11:43",
+      "https://news.ycombinator.com/item?id=36591313"
     ],
     [
-      "How many people have ever lived on Earth?",
-      "https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/"
+      "Type system updates: moving from research into development",
+      "https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/"
     ]
   ],
   [
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36581304"
     ],
     [
-      "The Text Editor Sam by Rob Pike",
+      "The Text Editor Sam",
       "http://sam.cat-v.org"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Dogs are sensitive to small variations of the Earth’s magnetic field",
       "https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-10-80"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 16:16:33",
-      "https://news.ycombinator.com/item?id=36575081"
-    ],
-    [
-      "Ask HN: Could you share your personal blog here?",
-      "https://news.ycombinator.com/item?id=36575081"
     ]
   ]
 ]
