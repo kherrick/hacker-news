@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 13:16:53](https://news.ycombinator.com/item?id=36600020) - [News Is Bad for You](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
+* [2023-07-05, 12:55:43](https://news.ycombinator.com/item?id=36599759) - [Amid Twitter Chaos, Japanese Illustrators Flock to Weibo](https://www.sixthtone.com/news/1013241)
+* [2023-07-05, 12:53:08](https://news.ycombinator.com/item?id=36599726) - [Macron floats social media cuts during riots](https://www.politico.eu/article/macron-mulls-cutting-access-social-media-during-riots/)
 * [2023-07-05, 12:07:05](https://news.ycombinator.com/item?id=36599217) - [Astro framework lowers competitors by ~40% on performance graph to looks better](https://twitter.com/sigma__dev/status/1676505365935005696)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 11:58:24](https://news.ycombinator.com/item?id=36599118) - [Let's have a chat about Java licensing, says unsolicited Oracle email](https://www.theregister.com/2023/07/05/unsolicited_oracle_emails_java/)
-* [2023-07-05, 11:56:16](https://news.ycombinator.com/item?id=36599096) - [OceanGate CEO Told Videographer to Sleep on the Titan Sub After the Battery Died](https://petapixel.com/2023/07/05/oceangate-ceo-told-videographer-to-sleep-on-the-titan-sub-after-the-battery-died/)
 * [2023-07-05, 11:25:21](https://news.ycombinator.com/item?id=36598773) - [There's a new online marketplace for open-hardware creators](https://lectronz.com/blog_entries/5)
-* [2023-07-05, 11:04:30](https://news.ycombinator.com/item?id=36598618) - [Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023](https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html)
 * [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 * [2023-07-05, 09:48:55](https://news.ycombinator.com/item?id=36598062) - [Ariane 5 User's Manual [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
 * [2023-07-05, 09:03:37](https://news.ycombinator.com/item?id=36597709) - [The hardest part of building software is not coding, it's requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
@@ -29,7 +30,6 @@
 * [2023-07-03, 21:03:38](https://news.ycombinator.com/item?id=36578805) - [RunWithScissors() (2009)](https://android.googlesource.com/platform/frameworks/base/+/android-5.0.0_r1/core/java/android/os/Handler.java#461)
 * [2023-07-03, 20:56:22](https://news.ycombinator.com/item?id=36578715) - [Dogs are sensitive to small variations of the Earth’s magnetic field](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-10-80)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
-* [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 
 ## [Archives](archives/index.md)
 

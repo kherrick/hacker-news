@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 13:16:53](https://news.ycombinator.com/item?id=36600020) - [News Is Bad for You](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
+* [2023-07-05, 12:55:43](https://news.ycombinator.com/item?id=36599759) - [Amid Twitter Chaos, Japanese Illustrators Flock to Weibo](https://www.sixthtone.com/news/1013241)
+* [2023-07-05, 12:53:08](https://news.ycombinator.com/item?id=36599726) - [Macron floats social media cuts during riots](https://www.politico.eu/article/macron-mulls-cutting-access-social-media-during-riots/)
 * [2023-07-05, 12:07:05](https://news.ycombinator.com/item?id=36599217) - [Astro framework lowers competitors by ~40% on performance graph to looks better](https://twitter.com/sigma__dev/status/1676505365935005696)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 11:58:24](https://news.ycombinator.com/item?id=36599118) - [Let's have a chat about Java licensing, says unsolicited Oracle email](https://www.theregister.com/2023/07/05/unsolicited_oracle_emails_java/)
