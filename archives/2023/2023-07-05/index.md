@@ -19,6 +19,7 @@
 * [2023-07-05, 03:15:42](https://news.ycombinator.com/item?id=36595152) - [Show HN: CodePerfect, a fast, lightweight IDE for Go](https://codeperfect95.com)
 * [2023-07-05, 02:46:17](https://news.ycombinator.com/item?id=36594985) - [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
 * [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
+* [2023-07-05, 02:13:36](https://news.ycombinator.com/item?id=36594813) - [(IEEE Spectrum) Your navigation app is making traffic unmanageable](https://spectrum.ieee.org/your-navigation-app-is-making-traffic-unmanageable)
 * [2023-07-05, 01:53:46](https://news.ycombinator.com/item?id=36594695) - [Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
 * [2023-07-05, 01:42:57](https://news.ycombinator.com/item?id=36594634) - [Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]](https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes)
 * [2023-07-05, 01:33:57](https://news.ycombinator.com/item?id=36594584) - [Flyte: Open-source orchestrator for building production-grade ML pipelines](https://python.langchain.com/docs/ecosystem/integrations/flyte)
