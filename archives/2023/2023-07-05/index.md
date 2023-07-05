@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 07:00:00](https://news.ycombinator.com/item?id=36596547) - [Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
 * [2023-07-05, 06:21:27](https://news.ycombinator.com/item?id=36596193) - [I Posted Myself Out of a Job](https://cohost.org/stillinbeta/post/1847579-that-time-i-posted-m)
 * [2023-07-05, 06:15:02](https://news.ycombinator.com/item?id=36596145) - [Update on Twitter's Rate Limits](https://business.twitter.com/en/blog/update-on-twitters-limited-usage.html)
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor: Update July 2023](http://worrydream.com/July2023/)
