@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-05, 06:07:36",
+      "https://news.ycombinator.com/item?id=36596095"
+    ],
+    [
+      "Bret Victor: Update July 2023",
+      "http://worrydream.com/July2023/"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 05:06:55",
       "https://news.ycombinator.com/item?id=36595711"
     ],
@@ -277,16 +287,6 @@
     [
       "How to think about `async`/`await` in Rust",
       "http://cliffle.com/blog/async-inversion/"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 08:09:03",
-      "https://news.ycombinator.com/item?id=36570158"
-    ],
-    [
-      "Why yewtu.be was down: Data loss after being shut down by Oracle Cloud",
-      "https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197"
     ]
   ],
   [
