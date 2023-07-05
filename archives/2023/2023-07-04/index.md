@@ -78,4 +78,5 @@
 * [2023-07-04, 02:40:07](https://news.ycombinator.com/item?id=36581546) - [Threads.net](https://www.threads.net/)
 * [2023-07-04, 01:53:52](https://news.ycombinator.com/item?id=36581208) - [Effective Git as a Solo Developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
+* [2023-07-04, 00:41:43](https://news.ycombinator.com/item?id=36580713) - [Boom, Bubble, Bust: The Fiber Optic Mania [pdf]](https://internethistory.org/wp-content/uploads/2020/01/OSA_Boom.Bubble.Bust_Fiber.Optic_.Mania_.pdf)
 * [2023-07-04, 00:04:14](https://news.ycombinator.com/item?id=36580487) - [Autonomous robot to stave off spotted lanternflies](https://www.cmu.edu/news/stories/archives/2023/june/cmu-team-develops-autonomous-robot-to-stave-off-spotted-lanternflies)
