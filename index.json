@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2023-07-05, 15:52:23",
-      "https://news.ycombinator.com/item?id=36602193"
-    ],
-    [
-      "Firefox 115 can remotely disable any extension on any site",
-      "https://lapcatsoftware.com/articles/2023/7/1.html"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 15:18:44",
       "https://news.ycombinator.com/item?id=36601622"
     ],
@@ -297,6 +287,16 @@
     [
       "Growing a Language (1998) [video]",
       "https://www.youtube.com/watch?v=lw6TaiXzHAE"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 08:36:05",
+      "https://news.ycombinator.com/item?id=36570321"
+    ],
+    [
+      "How to think about async/await in Rust",
+      "http://cliffle.com/blog/async-inversion/"
     ]
   ]
 ]
