@@ -15,6 +15,7 @@
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30 years: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)
 * [2023-07-05, 16:16:32](https://news.ycombinator.com/item?id=36602584) - [Show HN: LineSelect, shell utility to interactively select lines in a pipeline](https://github.com/chfritz/lineselect)
+* [2023-07-05, 16:13:26](https://news.ycombinator.com/item?id=36602531) - [Show HN: I made a puzzle game with Three.js](https://www.thomasfriday.com/cuboid/)
 * [2023-07-05, 15:52:23](https://news.ycombinator.com/item?id=36602193) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 * [2023-07-05, 15:47:11](https://news.ycombinator.com/item?id=36602097) - [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
