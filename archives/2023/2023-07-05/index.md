@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 11:04:30](https://news.ycombinator.com/item?id=36598618) - [Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023](https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html)
+* [2023-07-05, 11:03:18](https://news.ycombinator.com/item?id=36598612) - [Driving London to Bath 60 years ago](https://www.youtube.com/watch?v=Qp-Sv_lXWvU)
 * [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
+* [2023-07-05, 09:03:37](https://news.ycombinator.com/item?id=36597709) - [The hardest part of building software is not coding, it's requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
@@ -14,6 +17,7 @@
 * [2023-07-05, 06:15:02](https://news.ycombinator.com/item?id=36596145) - [Update on Twitter's Rate Limits](https://business.twitter.com/en/blog/update-on-twitters-limited-usage.html)
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor: Update July 2023](http://worrydream.com/July2023/)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
+* [2023-07-05, 05:01:06](https://news.ycombinator.com/item?id=36595673) - [Cloud Native Software Engineering](https://arxiv.org/abs/2307.01045)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
 * [2023-07-05, 04:20:21](https://news.ycombinator.com/item?id=36595486) - [Monday Was the Hottest Day Ever as Global Temperatures Rise](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3)
 * [2023-07-05, 04:19:12](https://news.ycombinator.com/item?id=36595481) - [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
