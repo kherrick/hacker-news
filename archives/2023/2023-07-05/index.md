@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 19:34:55](https://news.ycombinator.com/item?id=36605912) - [Fast](https://patrickcollison.com/fast)
+* [2023-07-05, 19:32:01](https://news.ycombinator.com/item?id=36605869) - [Show HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
+* [2023-07-05, 19:29:23](https://news.ycombinator.com/item?id=36605831) - [A table that looks good on mobile and desktop](https://many.pw/)
+* [2023-07-05, 19:27:26](https://news.ycombinator.com/item?id=36605806) - [With plugins, GPT-4 posts GitHub issue without instructions to](https://chat.openai.com/share/ed8044da-22c5-4c5e-ba82-4353f67d553f)
 * [2023-07-05, 19:22:52](https://news.ycombinator.com/item?id=36605730) - [Graphical Python Profiler](https://functiontrace.com)
 * [2023-07-05, 19:15:40](https://news.ycombinator.com/item?id=36605620) - [The Central Bank of Brazil (Bacen) Opens Up GitHub for the Digital Real Industry](https://github.com/bacen/pilotord-kit-onboarding)
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News User Blogroll](https://dm.hn)
@@ -14,6 +18,7 @@
 * [2023-07-05, 17:40:19](https://news.ycombinator.com/item?id=36603965) - [A buggy Windows 11 update keeps slowing down SSDs](https://www.techspot.com/news/99291-buggy-windows-11-update-could-slowing-down-ssds.html)
 * [2023-07-05, 17:33:04](https://news.ycombinator.com/item?id=36603816) - [LLama.cpp now has a web interface](https://github.com/ggerganov/llama.cpp/pull/1998)
 * [2023-07-05, 17:31:04](https://news.ycombinator.com/item?id=36603785) - [The Two Party System Sucks](https://www.stovetop.xyz/p/nuance)
+* [2023-07-05, 17:17:08](https://news.ycombinator.com/item?id=36603573) - [The Many Ways That Digital Minds Can Know – A Better Way to Think about LLMs](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 * [2023-07-05, 17:04:29](https://news.ycombinator.com/item?id=36603382) - [OpenAI: Introducing SuperAlignment](https://openai.com/blog/introducing-superalignment)
 * [2023-07-05, 16:57:51](https://news.ycombinator.com/item?id=36603263) - [Canadian government pulls all advertising, escalating showdown with Meta](https://nationalpost.com/news/canada/canadian-government-suspends-advertising-on-facebook-instagram)
 * [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
