@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2023-07-05, 12:51:07",
+      "https://news.ycombinator.com/item?id=36599706"
+    ],
+    [
+      "Learn how to design systems at scale and prepare for system design interviews",
+      "https://github.com/karanpratapsingh/system-design"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 12:07:05",
       "https://news.ycombinator.com/item?id=36599217"
     ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=36598254"
     ],
     [
-      "The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]",
+      "The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie (1984) [pdf]",
       "https://www.bell-labs.com/usr/dmr/www/hist.pdf"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36598062"
     ],
     [
-      "Ariane 5 User's Manual [pdf]",
+      "Ariane 5 User's Manual (2011) [pdf]",
       "https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf"
     ]
   ],
@@ -157,16 +167,6 @@
     [
       "Is the aircraft in this image real?",
       "https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 05:01:06",
-      "https://news.ycombinator.com/item?id=36595673"
-    ],
-    [
-      "Cloud Native Software Engineering",
-      "https://arxiv.org/abs/2307.01045"
     ]
   ],
   [
