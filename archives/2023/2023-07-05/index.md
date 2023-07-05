@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 19:22:52](https://news.ycombinator.com/item?id=36605730) - [Graphical Python Profiler](https://functiontrace.com)
+* [2023-07-05, 19:15:40](https://news.ycombinator.com/item?id=36605620) - [The Central Bank of Brazil (Bacen) Opens Up GitHub for the Digital Real Industry](https://github.com/bacen/pilotord-kit-onboarding)
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News User Blogroll](https://dm.hn)
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information Overload and the Limits of Working Memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
 * [2023-07-05, 18:13:16](https://news.ycombinator.com/item?id=36604618) - [Show HN: Redjet – a high performance Redis library for Go](https://github.com/ammario/redjet)
