@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
 * [2023-07-05, 04:19:12](https://news.ycombinator.com/item?id=36595481) - [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
 * [2023-07-05, 03:15:42](https://news.ycombinator.com/item?id=36595152) - [Show HN: CodePerfect, a fast, lightweight IDE for Go](https://codeperfect95.com)
@@ -21,7 +22,6 @@
 * [2023-07-04, 15:22:30](https://news.ycombinator.com/item?id=36587875) - [Makie, a modern and fast plotting library for Julia](https://makie.org)
 * [2023-07-04, 13:50:02](https://news.ycombinator.com/item?id=36586632) - [Sao Paulo: A city with no outdoor advertisements (2013)](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 * [2023-07-04, 13:17:16](https://news.ycombinator.com/item?id=36586248) - [Tips for programmers to stay ahead of generative AI](https://spectrum.ieee.org/ai-programming)
-* [2023-07-04, 13:00:43](https://news.ycombinator.com/item?id=36586079) - [Stable Diffusion XL technical report [pdf]](https://github.com/Stability-AI/generative-models/blob/main/assets/sdxl_report.pdf)
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX (1992) [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 03:17:59](https://news.ycombinator.com/item?id=36581770) - [Construction Time Again: The quality crisis in American building](https://thebaffler.com/salvos/construction-time-again-sisson)
 * [2023-07-04, 00:41:43](https://news.ycombinator.com/item?id=36580713) - [Boom, Bubble, Bust: The Fiber Optic Mania [pdf]](https://internethistory.org/wp-content/uploads/2020/01/OSA_Boom.Bubble.Bust_Fiber.Optic_.Mania_.pdf)
