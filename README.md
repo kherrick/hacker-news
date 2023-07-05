@@ -4,7 +4,6 @@
 * [2023-07-05, 17:50:26](https://news.ycombinator.com/item?id=36604188) - [Beautifying our UI: Giving Gitlab build features a fresh look](https://about.gitlab.com/blog/2023/07/05/beautifying-of-our-ui/)
 * [2023-07-05, 17:40:19](https://news.ycombinator.com/item?id=36603965) - [A buggy Windows 11 update keeps slowing down SSDs](https://www.techspot.com/news/99291-buggy-windows-11-update-could-slowing-down-ssds.html)
 * [2023-07-05, 17:33:04](https://news.ycombinator.com/item?id=36603816) - [LLama.cpp now has a web interface](https://github.com/ggerganov/llama.cpp/pull/1998)
-* [2023-07-05, 17:04:29](https://news.ycombinator.com/item?id=36603382) - [Introducing Superalignment](https://openai.com/blog/introducing-superalignment)
 * [2023-07-05, 16:57:51](https://news.ycombinator.com/item?id=36603263) - [Ottawa pulls advertising, escalating showdown with Facebook and Instagram](https://nationalpost.com/news/canada/canadian-government-suspends-advertising-on-facebook-instagram)
 * [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
@@ -17,8 +16,8 @@
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:06:41](https://news.ycombinator.com/item?id=36599893) - [Deno 1.35: A fast and convenient way to build web servers](https://deno.com/blog/v1.35)
 * [2023-07-05, 12:51:07](https://news.ycombinator.com/item?id=36599706) - [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
-* [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
-* [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie (1984) [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
+* [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [Piinpoint (YC W14) is hiring for data science – remote within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
+* [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System (1984) [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 * [2023-07-05, 09:48:55](https://news.ycombinator.com/item?id=36598062) - [Ariane 5 User’s Manual (2011) [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
@@ -30,6 +29,7 @@
 * [2023-07-04, 03:58:36](https://news.ycombinator.com/item?id=36582064) - [A user-friendly platform for virtual exploration of chemical reactions](https://phys.org/news/2023-06-user-friendly-platform-virtual-exploration-chemical.html)
 * [2023-07-04, 01:53:09](https://news.ycombinator.com/item?id=36581204) - [Repair adventure: A single white LED causing stuck keys on a RN988 keyboard](https://halestrom.net/darksleep/blog/052_rn988_keyboard/)
 * [2023-07-04, 00:26:32](https://news.ycombinator.com/item?id=36580623) - [Growing a Language (1998) [video]](https://www.youtube.com/watch?v=lw6TaiXzHAE)
+* [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
 
 ## [Archives](archives/index.md)
 
