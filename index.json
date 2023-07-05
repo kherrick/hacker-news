@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-05, 01:53:46",
+      "https://news.ycombinator.com/item?id=36594695"
+    ],
+    [
+      "Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting",
+      "https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 01:42:57",
+      "https://news.ycombinator.com/item?id=36594634"
+    ],
+    [
+      "Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]",
+      "https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 01:25:22",
+      "https://news.ycombinator.com/item?id=36594543"
+    ],
+    [
+      "What if there was only the OS? (2022)",
+      "https://dusted.dk/pages/phlog/2022-11-13.txt"
+    ]
+  ],
+  [
+    [
       "2023-07-04, 22:20:30",
       "https://news.ycombinator.com/item?id=36593249"
     ],
@@ -37,6 +67,16 @@
     [
       "LXD is now under Canonical",
       "https://linuxcontainers.org/lxd/"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 20:20:32",
+      "https://news.ycombinator.com/item?id=36592033"
+    ],
+    [
+      "“How is your thesis going?” Students’ perspectives on mental health and stress",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103"
     ]
   ],
   [
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2023-07-04, 16:27:54",
-      "https://news.ycombinator.com/item?id=36588906"
-    ],
-    [
-      "Opening up Intel's Device Modeling Language (2022)",
-      "https://community.intel.com/t5/Blogs/Products-and-Solutions/Software/Opening-up-the-Device-Modeling-Language/post/1417739"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 16:06:44",
       "https://news.ycombinator.com/item?id=36588514"
     ],
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-07-04, 13:04:29",
-      "https://news.ycombinator.com/item?id=36586129"
-    ],
-    [
-      "How to pass a first-round interview",
-      "https://www.lennysnewsletter.com/p/how-to-pass-any-first-round-interview"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 13:00:43",
       "https://news.ycombinator.com/item?id=36586079"
     ],
@@ -225,28 +245,8 @@
       "https://news.ycombinator.com/item?id=36584692"
     ],
     [
-      "An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]",
+      "An Architectural Overview of QNX (1992) [pdf]",
       "https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 10:21:02",
-      "https://news.ycombinator.com/item?id=36584656"
-    ],
-    [
-      "Sourcegraph is no longer open source",
-      "https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 01:53:52",
-      "https://news.ycombinator.com/item?id=36581208"
-    ],
-    [
-      "Effective Git as a solo developer (2021)",
-      "https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2023-07-03, 12:33:59",
-      "https://news.ycombinator.com/item?id=36571993"
-    ],
-    [
-      "Kepler: The Volume of a Wine Barrel",
-      "https://www.maa.org/press/periodicals/convergence/kepler-the-volume-of-a-wine-barrel"
-    ]
-  ],
-  [
-    [
       "2023-07-03, 08:09:03",
       "https://news.ycombinator.com/item?id=36570158"
     ],
     [
       "Why yewtu.be was down: Data loss after being shut down by Oracle Cloud",
       "https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 05:10:47",
+      "https://news.ycombinator.com/item?id=36569156"
+    ],
+    [
+      "Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]",
+      "https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf"
     ]
   ]
 ]
