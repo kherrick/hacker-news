@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-07-05, 17:51:21",
+      "https://news.ycombinator.com/item?id=36604203"
+    ],
+    [
+      "A mathematician looks at the French verb (Joachim Lambek) [pdf]",
+      "https://www.math.mcgill.ca/barr/papers/pga.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 17:50:26",
+      "https://news.ycombinator.com/item?id=36604188"
+    ],
+    [
+      "Beautifying our UI: Giving Gitlab build features a fresh look",
+      "https://about.gitlab.com/blog/2023/07/05/beautifying-of-our-ui/"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 17:40:19",
+      "https://news.ycombinator.com/item?id=36603965"
+    ],
+    [
+      "A buggy Windows 11 update keeps slowing down SSDs",
+      "https://www.techspot.com/news/99291-buggy-windows-11-update-could-slowing-down-ssds.html"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 17:33:04",
       "https://news.ycombinator.com/item?id=36603816"
     ],
     [
       "LLama.cpp now has a web interface",
       "https://github.com/ggerganov/llama.cpp/pull/1998"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 17:31:04",
-      "https://news.ycombinator.com/item?id=36603785"
-    ],
-    [
-      "The Two Party System Sucks",
-      "https://www.stovetop.xyz/p/nuance"
     ]
   ],
   [
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36602193"
     ],
     [
-      "Firefox 115 can silently remotely disable my extension on any site",
+      "Firefox 115 can remotely disable any extension on any site",
       "https://lapcatsoftware.com/articles/2023/7/1.html"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "AI weights are not open “source”",
       "https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 15:00:06",
-      "https://news.ycombinator.com/item?id=36601361"
-    ],
-    [
-      "Microsoft denies data breach, theft of 30M customer accounts",
-      "https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Growing a Language (1998) [video]",
       "https://www.youtube.com/watch?v=lw6TaiXzHAE"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 08:36:05",
-      "https://news.ycombinator.com/item?id=36570321"
-    ],
-    [
-      "How to think about async/await in Rust",
-      "http://cliffle.com/blog/async-inversion/"
     ]
   ]
 ]
