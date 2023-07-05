@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub Profile Achievements](https://github.com/Flet/rejected-github-profile-achievements)
+* [2023-07-05, 21:18:58](https://news.ycombinator.com/item?id=36607292) - [Codereview: Should the Go project stop importing GitHub PRs?](https://github.com/golang/go/discussions/61182)
 * [2023-07-05, 21:02:39](https://news.ycombinator.com/item?id=36607064) - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 * [2023-07-05, 20:08:10](https://news.ycombinator.com/item?id=36606323) - [The U.S. Copyright Office Requires Libraries to Lie to Users about Fair Use](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
 * [2023-07-05, 19:34:55](https://news.ycombinator.com/item?id=36605912) - [Fast](https://patrickcollison.com/fast)

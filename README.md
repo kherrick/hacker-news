@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub Profile Achievements](https://github.com/Flet/rejected-github-profile-achievements)
+* [2023-07-05, 21:18:58](https://news.ycombinator.com/item?id=36607292) - [Codereview: Should the Go project stop importing GitHub PRs?](https://github.com/golang/go/discussions/61182)
 * [2023-07-05, 21:02:39](https://news.ycombinator.com/item?id=36607064) - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 * [2023-07-05, 20:08:10](https://news.ycombinator.com/item?id=36606323) - [The U.S. Copyright Office requires libraries to lie about fair use rights?](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
 * [2023-07-05, 19:34:55](https://news.ycombinator.com/item?id=36605912) - [Fast](https://patrickcollison.com/fast)
@@ -21,7 +23,6 @@
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 * [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
-* [2023-07-05, 13:06:41](https://news.ycombinator.com/item?id=36599893) - [Deno 1.35: A fast and convenient way to build web servers](https://deno.com/blog/v1.35)
 * [2023-07-05, 12:51:07](https://news.ycombinator.com/item?id=36599706) - [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [Piinpoint (YC W14) is hiring for data science – remote within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
@@ -29,7 +30,6 @@
 * [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 * [2023-07-04, 22:38:49](https://news.ycombinator.com/item?id=36593407) - [Life after detonation (2012)](http://www.sciencemadness.org/talk/viewthread.php?tid=22554)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
-* [2023-07-04, 03:58:36](https://news.ycombinator.com/item?id=36582064) - [A user-friendly platform for virtual exploration of chemical reactions](https://phys.org/news/2023-06-user-friendly-platform-virtual-exploration-chemical.html)
 
 ## [Archives](archives/index.md)
 
