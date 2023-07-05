@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
+* [2023-07-05, 04:19:12](https://news.ycombinator.com/item?id=36595481) - [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
 * [2023-07-05, 02:46:17](https://news.ycombinator.com/item?id=36594985) - [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
-* [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
+* [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [Simple Unix Chat](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-05, 01:53:46](https://news.ycombinator.com/item?id=36594695) - [Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
 * [2023-07-05, 01:42:57](https://news.ycombinator.com/item?id=36594634) - [Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]](https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes)
 * [2023-07-04, 21:47:58](https://news.ycombinator.com/item?id=36592930) - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
@@ -26,7 +27,6 @@
 * [2023-07-03, 23:10:32](https://news.ycombinator.com/item?id=36579995) - [Making infrared cooling paint from grocery store items [video]](https://www.youtube.com/watch?v=KDRnEm-B3AI)
 * [2023-07-03, 20:31:07](https://news.ycombinator.com/item?id=36578361) - [No one cares about your dreams unless you’re a famous writer](https://lithub.com/no-one-cares-about-your-dreams-unless-youre-a-famous-writer/)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
-* [2023-07-03, 13:40:15](https://news.ycombinator.com/item?id=36572734) - [New analysis of tooth minerals confirms megalodon shark was warm-blooded](https://phys.org/news/2023-06-analysis-tooth-minerals-megalodon-shark.html)
 * [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: Data loss after being shut down by Oracle Cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
 * [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 * [2023-07-02, 23:46:40](https://news.ycombinator.com/item?id=36567029) - [The Safari of Deep Signal Processing: Hyena and Beyond](https://hazyresearch.stanford.edu/blog/2023-06-08-hyena-safari)
