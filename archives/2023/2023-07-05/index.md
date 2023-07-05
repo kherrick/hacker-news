@@ -30,6 +30,7 @@
 * [2023-07-05, 11:25:21](https://news.ycombinator.com/item?id=36598773) - [There's a new online marketplace for open-hardware creators](https://lectronz.com/blog_entries/5)
 * [2023-07-05, 11:04:30](https://news.ycombinator.com/item?id=36598618) - [Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023](https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html)
 * [2023-07-05, 11:03:18](https://news.ycombinator.com/item?id=36598612) - [Driving London to Bath 60 years ago](https://www.youtube.com/watch?v=Qp-Sv_lXWvU)
+* [2023-07-05, 10:38:10](https://news.ycombinator.com/item?id=36598407) - [Show HN: Pytheus – Python Prometheus client built with multiprocessing in mind](https://github.com/Llandy3d/pytheus)
 * [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 * [2023-07-05, 09:48:55](https://news.ycombinator.com/item?id=36598062) - [Ariane 5 User's Manual [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
 * [2023-07-05, 09:03:37](https://news.ycombinator.com/item?id=36597709) - [The hardest part of building software is not coding, it's requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)

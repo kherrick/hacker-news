@@ -2,7 +2,6 @@
 
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 * [2023-07-05, 15:00:06](https://news.ycombinator.com/item?id=36601361) - [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
-* [2023-07-05, 14:57:07](https://news.ycombinator.com/item?id=36601312) - [Amazon CEO Asks His Hollywood Studio to Explain Its Big Spending](https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending)
 * [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
 * [2023-07-05, 14:51:42](https://news.ycombinator.com/item?id=36601236) - [Artificial General Intelligence remains a distant dream despite LLM boom](https://www.theregister.com/2023/07/04/agi_llm_distant_dream/)
 * [2023-07-05, 14:32:12](https://news.ycombinator.com/item?id=36601004) - [GPT-4’s secret](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
@@ -15,6 +14,7 @@
 * [2023-07-05, 12:07:05](https://news.ycombinator.com/item?id=36599217) - [Astro framework lowers competitors by ~40% on performance graph to looks better](https://twitter.com/sigma__dev/status/1676505365935005696)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [PiinPoint (YC W14) Is Hiring for Data Science, Remote Within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 11:25:21](https://news.ycombinator.com/item?id=36598773) - [There's a new online marketplace for open-hardware creators](https://lectronz.com/blog_entries/5)
+* [2023-07-05, 10:38:10](https://news.ycombinator.com/item?id=36598407) - [Show HN: Pytheus – Python Prometheus client built with multiprocessing in mind](https://github.com/Llandy3d/pytheus)
 * [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie (1984) [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 * [2023-07-05, 09:48:55](https://news.ycombinator.com/item?id=36598062) - [Ariane 5 User’s Manual (2011) [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
 * [2023-07-05, 09:03:37](https://news.ycombinator.com/item?id=36597709) - [The hardest part of building software is not coding, it's requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
