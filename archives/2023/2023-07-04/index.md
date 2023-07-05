@@ -77,6 +77,7 @@
 * [2023-07-04, 03:17:59](https://news.ycombinator.com/item?id=36581770) - [Construction Time Again: The quality crisis in American building](https://thebaffler.com/salvos/construction-time-again-sisson)
 * [2023-07-04, 02:40:07](https://news.ycombinator.com/item?id=36581546) - [Threads.net](https://www.threads.net/)
 * [2023-07-04, 02:06:16](https://news.ycombinator.com/item?id=36581304) - [The Text Editor Sam by Rob Pike](http://sam.cat-v.org)
+* [2023-07-04, 01:57:54](https://news.ycombinator.com/item?id=36581241) - [Ask HN: Good Books on the History of Technology?](https://news.ycombinator.com/item?id=36581241)
 * [2023-07-04, 01:53:52](https://news.ycombinator.com/item?id=36581208) - [Effective Git as a Solo Developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
 * [2023-07-04, 00:41:43](https://news.ycombinator.com/item?id=36580713) - [Boom, Bubble, Bust: The Fiber Optic Mania [pdf]](https://internethistory.org/wp-content/uploads/2020/01/OSA_Boom.Bubble.Bust_Fiber.Optic_.Mania_.pdf)
