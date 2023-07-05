@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 17:51:21](https://news.ycombinator.com/item?id=36604203) - [A mathematician looks at the French verb (Joachim Lambek) [pdf]](https://www.math.mcgill.ca/barr/papers/pga.pdf)
+* [2023-07-05, 17:50:26](https://news.ycombinator.com/item?id=36604188) - [Beautifying our UI: Giving Gitlab build features a fresh look](https://about.gitlab.com/blog/2023/07/05/beautifying-of-our-ui/)
+* [2023-07-05, 17:40:19](https://news.ycombinator.com/item?id=36603965) - [A buggy Windows 11 update keeps slowing down SSDs](https://www.techspot.com/news/99291-buggy-windows-11-update-could-slowing-down-ssds.html)
 * [2023-07-05, 17:33:04](https://news.ycombinator.com/item?id=36603816) - [LLama.cpp now has a web interface](https://github.com/ggerganov/llama.cpp/pull/1998)
 * [2023-07-05, 17:31:04](https://news.ycombinator.com/item?id=36603785) - [The Two Party System Sucks](https://www.stovetop.xyz/p/nuance)
 * [2023-07-05, 17:04:29](https://news.ycombinator.com/item?id=36603382) - [OpenAI: Introducing SuperAlignment](https://openai.com/blog/introducing-superalignment)
