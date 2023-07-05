@@ -6,6 +6,7 @@
 
 * [2023-07-03, 23:56:14](https://news.ycombinator.com/item?id=36580417) - [Leaking Bitwarden's Vault with a Nginx vulnerability](https://labs.hakaioffsec.com/nginx-alias-traversal/)
 * [2023-07-03, 23:31:44](https://news.ycombinator.com/item?id=36580192) - [Threads, an Instagram App](https://apps.apple.com/us/app/threads-an-instagram-app/id6446901002)
+* [2023-07-03, 23:25:40](https://news.ycombinator.com/item?id=36580128) - [For Carlos Santana, a Passion for Rock Began as a Walk in the Park](https://www.wsj.com/articles/for-carlos-santana-a-passion-for-rock-began-as-a-walk-in-the-park-ef1a49cd)
 * [2023-07-03, 23:11:35](https://news.ycombinator.com/item?id=36580006) - [CPU Utilization Is Wrong](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
 * [2023-07-03, 23:10:32](https://news.ycombinator.com/item?id=36579995) - [Making Radiative Sky Cooling Paint (With Novel CaCO₃ Microsphere Synthesis) [video]](https://www.youtube.com/watch?v=KDRnEm-B3AI)
 * [2023-07-03, 23:05:16](https://news.ycombinator.com/item?id=36579963) - [Booting RISC-V Linux on Star64 JH7110 SBC](https://lupyuen.codeberg.page/articles/linux.html)
