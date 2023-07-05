@@ -5,6 +5,7 @@
 * [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 * [2023-07-05, 09:48:55](https://news.ycombinator.com/item?id=36598062) - [Ariane 5 User's Manual [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
 * [2023-07-05, 09:03:37](https://news.ycombinator.com/item?id=36597709) - [The hardest part of building software is not coding, it's requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
+* [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 07:00:00](https://news.ycombinator.com/item?id=36596547) - [Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
@@ -28,7 +29,6 @@
 * [2023-07-03, 21:03:38](https://news.ycombinator.com/item?id=36578805) - [RunWithScissors() (2009)](https://android.googlesource.com/platform/frameworks/base/+/android-5.0.0_r1/core/java/android/os/Handler.java#461)
 * [2023-07-03, 20:56:22](https://news.ycombinator.com/item?id=36578715) - [Dogs are sensitive to small variations of the Earth’s magnetic field](https://frontiersinzoology.biomedcentral.com/articles/10.1186/1742-9994-10-80)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
-* [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/)
 * [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 
 ## [Archives](archives/index.md)
