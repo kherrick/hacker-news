@@ -2,7 +2,6 @@
 
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
-* [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
 * [2023-07-05, 07:00:00](https://news.ycombinator.com/item?id=36596547) - [Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor update](http://worrydream.com/July2023/)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
@@ -16,6 +15,7 @@
 * [2023-07-04, 19:52:41](https://news.ycombinator.com/item?id=36591767) - [Show HN: Iridescent crystal with raymarching and signed distance fields](https://varun.ca/ray-march-sdf/)
 * [2023-07-04, 19:11:43](https://news.ycombinator.com/item?id=36591313) - [Type system updates: moving from research into development](https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/)
 * [2023-07-04, 18:52:24](https://news.ycombinator.com/item?id=36591079) - [Designing a Language Without a Parser](https://thunderseethe.dev/posts/type-inference/)
+* [2023-07-04, 18:47:55](https://news.ycombinator.com/item?id=36591032) - [How to build a website without frameworks and tons of libraries](https://www.kodingkitty.com/blog/how-to-build-a-website/)
 * [2023-07-04, 18:35:11](https://news.ycombinator.com/item?id=36590834) - [Show HN: MongoDB Protocol for SQLite](https://github.com/FerretDB/FerretDB)
 * [2023-07-04, 18:32:34](https://news.ycombinator.com/item?id=36590806) - [Dark Waters of Self-Delusion: The crash of Transair flight 810](https://admiralcloudberg.medium.com/dark-waters-of-self-delusion-the-crash-of-transair-flight-810-a4eeb033bc00)
 * [2023-07-04, 15:46:56](https://news.ycombinator.com/item?id=36588240) - [ZFS 2.2.0 (RC): Block Cloning merged](https://github.com/openzfs/zfs/pull/13392)
