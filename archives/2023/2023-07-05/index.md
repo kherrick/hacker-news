@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 14:37:10](https://news.ycombinator.com/item?id=36601059) - [Hacking around the Twitter login idiocy](https://news.ycombinator.com/item?id=36601059)
 * [2023-07-05, 13:48:03](https://news.ycombinator.com/item?id=36600434) - [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 13:24:34](https://news.ycombinator.com/item?id=36600119) - [Who cares about the Ivy League?](https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost)
