@@ -6,6 +6,7 @@
 
 * [2023-07-05, 13:48:03](https://news.ycombinator.com/item?id=36600434) - [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
+* [2023-07-05, 13:24:34](https://news.ycombinator.com/item?id=36600119) - [Who cares about the Ivy League?](https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost)
 * [2023-07-05, 13:16:53](https://news.ycombinator.com/item?id=36600020) - [News Is Bad for You](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
 * [2023-07-05, 12:55:43](https://news.ycombinator.com/item?id=36599759) - [Amid Twitter Chaos, Japanese Illustrators Flock to Weibo](https://www.sixthtone.com/news/1013241)
 * [2023-07-05, 12:53:08](https://news.ycombinator.com/item?id=36599726) - [Macron floats social media cuts during riots](https://www.politico.eu/article/macron-mulls-cutting-access-social-media-during-riots/)
