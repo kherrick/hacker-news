@@ -2,6 +2,7 @@
 
 * [2023-07-05, 06:21:27](https://news.ycombinator.com/item?id=36596193) - [That Time I Posted Myself Out Of a Job](https://cohost.org/stillinbeta/post/1847579-that-time-i-posted-m)
 * [2023-07-05, 06:15:02](https://news.ycombinator.com/item?id=36596145) - [Update on Twitter's Rate Limits](https://business.twitter.com/en/blog/update-on-twitters-limited-usage.html)
+* [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor: Update July 2023](http://worrydream.com/July2023/)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
 * [2023-07-05, 03:15:42](https://news.ycombinator.com/item?id=36595152) - [Show HN: CodePerfect, a fast, lightweight IDE for Go](https://codeperfect95.com)
@@ -28,7 +29,6 @@
 * [2023-07-03, 23:10:32](https://news.ycombinator.com/item?id=36579995) - [Making infrared cooling paint from grocery store items [video]](https://www.youtube.com/watch?v=KDRnEm-B3AI)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 * [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/)
-* [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: Data loss after being shut down by Oracle Cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
 * [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 
 ## [Archives](archives/index.md)
