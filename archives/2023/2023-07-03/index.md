@@ -84,6 +84,7 @@
 * [2023-07-03, 09:02:11](https://news.ycombinator.com/item?id=36570488) - [Names should be as short as possible while still being clear](https://benhoyt.com/writings/short-names/)
 * [2023-07-03, 08:38:46](https://news.ycombinator.com/item?id=36570342) - [Rabbit Scheme Compiler](https://github.com/dhess/rabbit-scheme/blob/master/rabbit.lsp)
 * [2023-07-03, 08:38:15](https://news.ycombinator.com/item?id=36570339) - [A Quick Overview of Matrix](https://juliette.page/b/matrix)
+* [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/)
 * [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: data loss after being shut down by oracle cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
 * [2023-07-03, 08:05:33](https://news.ycombinator.com/item?id=36570139) - [Batteries and Renewables Are Saving Texas During the Heat Wave](https://www.forbes.com/sites/anandgopal/2023/07/02/batteries-and-renewables-are-saving-texas-in-the-heat-wave/)
 * [2023-07-03, 07:06:02](https://news.ycombinator.com/item?id=36569736) - [Show HN: Python can make 3M+ WebSocket keys per second](https://github.com/szabolcsdombi/optimization-demo)

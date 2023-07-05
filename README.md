@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 06:21:27](https://news.ycombinator.com/item?id=36596193) - [I Posted Myself Out of a Job](https://cohost.org/stillinbeta/post/1847579-that-time-i-posted-m)
+* [2023-07-05, 06:15:02](https://news.ycombinator.com/item?id=36596145) - [Update on Twitter's Rate Limits](https://business.twitter.com/en/blog/update-on-twitters-limited-usage.html)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
 * [2023-07-05, 04:19:12](https://news.ycombinator.com/item?id=36595481) - [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
@@ -23,11 +25,9 @@
 * [2023-07-04, 13:50:02](https://news.ycombinator.com/item?id=36586632) - [Sao Paulo: A city with no outdoor advertisements (2013)](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)
 * [2023-07-04, 13:17:16](https://news.ycombinator.com/item?id=36586248) - [Tips for programmers to stay ahead of generative AI](https://spectrum.ieee.org/ai-programming)
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX (1992) [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
-* [2023-07-04, 03:17:59](https://news.ycombinator.com/item?id=36581770) - [Construction Time Again: The quality crisis in American building](https://thebaffler.com/salvos/construction-time-again-sisson)
 * [2023-07-04, 00:41:43](https://news.ycombinator.com/item?id=36580713) - [Boom, Bubble, Bust: The Fiber Optic Mania [pdf]](https://internethistory.org/wp-content/uploads/2020/01/OSA_Boom.Bubble.Bust_Fiber.Optic_.Mania_.pdf)
 * [2023-07-03, 23:10:32](https://news.ycombinator.com/item?id=36579995) - [Making infrared cooling paint from grocery store items [video]](https://www.youtube.com/watch?v=KDRnEm-B3AI)
-* [2023-07-03, 20:31:07](https://news.ycombinator.com/item?id=36578361) - [No one cares about your dreams unless you’re a famous writer](https://lithub.com/no-one-cares-about-your-dreams-unless-youre-a-famous-writer/)
-* [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
+* [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/)
 * [2023-07-03, 08:09:03](https://news.ycombinator.com/item?id=36570158) - [Why yewtu.be was down: Data loss after being shut down by Oracle Cloud](https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197)
 * [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 
