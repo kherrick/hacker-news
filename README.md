@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
 * [2023-07-05, 07:00:00](https://news.ycombinator.com/item?id=36596547) - [Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
 * [2023-07-05, 06:40:09](https://news.ycombinator.com/item?id=36596324) - [Ask HN: Why is there no major push towards Android for Servers and Desktops?](https://news.ycombinator.com/item?id=36596324)
@@ -10,7 +11,6 @@
 * [2023-07-05, 02:46:17](https://news.ycombinator.com/item?id=36594985) - [Lobotomizing Gnome (2018)](https://eklitzke.org/lobotomizing-gnome)
 * [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [Simple Unix Chat](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-05, 01:53:46](https://news.ycombinator.com/item?id=36594695) - [Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
-* [2023-07-05, 01:42:57](https://news.ycombinator.com/item?id=36594634) - [Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]](https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes)
 * [2023-07-04, 22:16:09](https://news.ycombinator.com/item?id=36593206) - [How many people have ever lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
 * [2023-07-04, 21:47:58](https://news.ycombinator.com/item?id=36592930) - [Bottles – Easily run Windows software on Linux](https://usebottles.com/)
 * [2023-07-04, 20:48:38](https://news.ycombinator.com/item?id=36592343) - [LXD is now under Canonical](https://linuxcontainers.org/lxd/)

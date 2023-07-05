@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
 * [2023-07-05, 07:00:00](https://news.ycombinator.com/item?id=36596547) - [Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
 * [2023-07-05, 06:40:09](https://news.ycombinator.com/item?id=36596324) - [Ask HN: Why is there no major push towards Android for Servers and Desktops?](https://news.ycombinator.com/item?id=36596324)
