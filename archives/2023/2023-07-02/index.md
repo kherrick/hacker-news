@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-02](index.md)
 
+* [2023-07-02, 23:46:40](https://news.ycombinator.com/item?id=36567029) - [The Safari of Deep Signal Processing: Hyena and Beyond](https://hazyresearch.stanford.edu/blog/2023-06-08-hyena-safari)
 * [2023-07-02, 23:42:43](https://news.ycombinator.com/item?id=36566999) - [Lumia WOA Project – Windows 10 or Windows 11 Desktop OS for Lumia 950/XL](https://woa-project.github.io/LumiaWOA/)
 * [2023-07-02, 23:42:04](https://news.ycombinator.com/item?id=36566994) - [OtterCast: FOSS Audio streaming device running Linux using Sochip S3 SiP](https://github.com/Ottercast/OtterCastAudioV2)
 * [2023-07-02, 23:24:57](https://news.ycombinator.com/item?id=36566881) - [Rings.social – Reddit-API compatible and Open Source content-voting platform](https://rings.social)
