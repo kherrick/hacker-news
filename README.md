@@ -25,11 +25,11 @@
 * [2023-07-05, 12:51:07](https://news.ycombinator.com/item?id=36599706) - [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [Piinpoint (YC W14) is hiring for data science – remote within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
+* [2023-07-05, 07:17:59](https://news.ycombinator.com/item?id=36596760) - [Redox-Based Transistor as a Reservoir System for Neuromorphic Computing](https://www.tus.ac.jp/en/mediarelations/archive/20230602_6198.html)
 * [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 * [2023-07-04, 22:38:49](https://news.ycombinator.com/item?id=36593407) - [Life after detonation (2012)](http://www.sciencemadness.org/talk/viewthread.php?tid=22554)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
 * [2023-07-04, 03:58:36](https://news.ycombinator.com/item?id=36582064) - [A user-friendly platform for virtual exploration of chemical reactions](https://phys.org/news/2023-06-user-friendly-platform-virtual-exploration-chemical.html)
-* [2023-07-04, 00:26:32](https://news.ycombinator.com/item?id=36580623) - [Growing a Language (1998) [video]](https://www.youtube.com/watch?v=lw6TaiXzHAE)
 
 ## [Archives](archives/index.md)
 

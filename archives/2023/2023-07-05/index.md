@@ -62,6 +62,7 @@
 * [2023-07-05, 09:03:37](https://news.ycombinator.com/item?id=36597709) - [The hardest part of building software is not coding, it's requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
+* [2023-07-05, 07:17:59](https://news.ycombinator.com/item?id=36596760) - [Redox-Based Transistor as a Reservoir System for Neuromorphic Computing](https://www.tus.ac.jp/en/mediarelations/archive/20230602_6198.html)
 * [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 * [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
