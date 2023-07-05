@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-07-05, 11:04:30",
+      "https://news.ycombinator.com/item?id=36598618"
+    ],
+    [
+      "Germany Achieves Record 57.7% Renewable Energy Share for First Half of 2023",
+      "https://www.ise.fraunhofer.de/en/press-media/press-releases/2023/german-net-power-generation-in-first-half-of-2023-renewable-energy-share-of-57-percent.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 11:03:18",
+      "https://news.ycombinator.com/item?id=36598612"
+    ],
+    [
+      "Driving London to Bath 60 years ago",
+      "https://www.youtube.com/watch?v=Qp-Sv_lXWvU"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 10:15:15",
       "https://news.ycombinator.com/item?id=36598254"
     ],
     [
       "The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]",
       "https://www.bell-labs.com/usr/dmr/www/hist.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 09:03:37",
+      "https://news.ycombinator.com/item?id=36597709"
+    ],
+    [
+      "The hardest part of building software is not coding, it's requirements",
+      "https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/"
     ]
   ],
   [
@@ -61,12 +91,32 @@
   ],
   [
     [
+      "2023-07-05, 05:01:06",
+      "https://news.ycombinator.com/item?id=36595673"
+    ],
+    [
+      "Cloud Native Software Engineering",
+      "https://arxiv.org/abs/2307.01045"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 04:29:27",
       "https://news.ycombinator.com/item?id=36595512"
     ],
     [
       "Functions and algorithms implemented purely with TypeScript's type system",
       "https://github.com/ronami/meta-typing"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 04:20:21",
+      "https://news.ycombinator.com/item?id=36595486"
+    ],
+    [
+      "Monday Was the Hottest Day Ever as Global Temperatures Rise",
+      "https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3"
     ]
   ],
   [
@@ -121,22 +171,12 @@
   ],
   [
     [
-      "2023-07-04, 20:02:19",
-      "https://news.ycombinator.com/item?id=36591850"
+      "2023-07-04, 20:48:38",
+      "https://news.ycombinator.com/item?id=36592343"
     ],
     [
-      "Token revocation",
-      "https://www.biscuitsec.org/docs/guides/revocation/"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 19:52:41",
-      "https://news.ycombinator.com/item?id=36591767"
-    ],
-    [
-      "Show HN: Iridescent crystal with raymarching and signed distance fields",
-      "https://varun.ca/ray-march-sdf/"
+      "LXD is now under Canonical",
+      "https://linuxcontainers.org/lxd/"
     ]
   ],
   [
@@ -147,46 +187,6 @@
     [
       "Type system updates: moving from research into development",
       "https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 18:52:24",
-      "https://news.ycombinator.com/item?id=36591079"
-    ],
-    [
-      "Designing a Language Without a Parser",
-      "https://thunderseethe.dev/posts/type-inference/"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 18:47:55",
-      "https://news.ycombinator.com/item?id=36591032"
-    ],
-    [
-      "How to build a website without frameworks and tons of libraries",
-      "https://www.kodingkitty.com/blog/how-to-build-a-website/"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 18:35:11",
-      "https://news.ycombinator.com/item?id=36590834"
-    ],
-    [
-      "Show HN: MongoDB Protocol for SQLite",
-      "https://github.com/FerretDB/FerretDB"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 18:32:34",
-      "https://news.ycombinator.com/item?id=36590806"
-    ],
-    [
-      "Dark Waters of Self-Delusion: The crash of Transair flight 810",
-      "https://admiralcloudberg.medium.com/dark-waters-of-self-delusion-the-crash-of-transair-flight-810-a4eeb033bc00"
     ]
   ],
   [
@@ -207,6 +207,16 @@
     [
       "Sao Paulo: A city with no outdoor advertisements (2013)",
       "https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 13:17:16",
+      "https://news.ycombinator.com/item?id=36586248"
+    ],
+    [
+      "Tips for programmers to stay ahead of generative AI",
+      "https://spectrum.ieee.org/ai-programming"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Ask HN: Could you share your personal blog here?",
       "https://news.ycombinator.com/item?id=36575081"
-    ]
-  ],
-  [
-    [
-      "2023-07-03, 13:40:15",
-      "https://news.ycombinator.com/item?id=36572734"
-    ],
-    [
-      "New analysis of tooth minerals confirms megalodon shark was warm-blooded",
-      "https://phys.org/news/2023-06-analysis-tooth-minerals-megalodon-shark.html"
     ]
   ],
   [
