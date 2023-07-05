@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 16:57:51](https://news.ycombinator.com/item?id=36603263) - [Canadian government pulls all advertising, escalating showdown with Meta](https://nationalpost.com/news/canada/canadian-government-suspends-advertising-on-facebook-instagram)
 * [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30 years: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)

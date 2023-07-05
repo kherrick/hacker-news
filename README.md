@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 16:57:51](https://news.ycombinator.com/item?id=36603263) - [Canadian government pulls all advertising, escalating showdown with Meta](https://nationalpost.com/news/canada/canadian-government-suspends-advertising-on-facebook-instagram)
 * [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30 years: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)
@@ -24,9 +25,8 @@
 * [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor update](http://worrydream.com/July2023/)
 * [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [Simple Unix Chat](https://the-dam.org/docs/explanations/suc.html)
-* [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any Hardware Startups Here?](https://news.ycombinator.com/item?id=36583419)
+* [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
 * [2023-07-04, 04:04:54](https://news.ycombinator.com/item?id=36582107) - [Combinatorial coordinates for the aperiodic Spectre tiling](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/)
-* [2023-07-04, 02:06:16](https://news.ycombinator.com/item?id=36581304) - [The Text Editor Sam](http://sam.cat-v.org)
 * [2023-07-04, 01:53:09](https://news.ycombinator.com/item?id=36581204) - [Repair adventure: A single white LED causing stuck keys on a RN988 keyboard](https://halestrom.net/darksleep/blog/052_rn988_keyboard/)
 * [2023-07-04, 00:26:32](https://news.ycombinator.com/item?id=36580623) - [Growing a Language (1998) [video]](https://www.youtube.com/watch?v=lw6TaiXzHAE)
 * [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about async/await in Rust](http://cliffle.com/blog/async-inversion/)
