@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 23:11:57](https://news.ycombinator.com/item?id=36608530) - [Threads Is Now Live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
+* [2023-07-05, 22:07:05](https://news.ycombinator.com/item?id=36607852) - [New aluminum radical battery promises more sustainable power](https://techxplore.com/news/2023-07-aluminum-radical-battery-sustainable-power.html)
 * [2023-07-05, 21:34:25](https://news.ycombinator.com/item?id=36607487) - [My take on the current React and Server Components controversy](https://phryneas.de/react-server-components-controversy)
 * [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
 * [2023-07-05, 21:20:57](https://news.ycombinator.com/item?id=36607323) - [Tabby: A terminal for a more modern age](https://github.com/Eugeny/tabby)
@@ -22,10 +24,8 @@
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 * [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
-* [2023-07-05, 12:51:07](https://news.ycombinator.com/item?id=36599706) - [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [Piinpoint (YC W14) is hiring for data science – remote within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
-* [2023-07-05, 07:17:59](https://news.ycombinator.com/item?id=36596760) - [Redox-based transistor as a reservoir system for neuromorphic computing](https://www.tus.ac.jp/en/mediarelations/archive/20230602_6198.html)
 * [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 * [2023-07-04, 22:38:49](https://news.ycombinator.com/item?id=36593407) - [Life after detonation (2012)](http://www.sciencemadness.org/talk/viewthread.php?tid=22554)
 * [2023-07-04, 14:56:29](https://news.ycombinator.com/item?id=36587546) - [Programmatic SEO](https://zapier.com/blog/programmatic-seo/)
