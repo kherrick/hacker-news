@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
 * [2023-07-05, 07:00:00](https://news.ycombinator.com/item?id=36596547) - [Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
-* [2023-07-05, 06:21:27](https://news.ycombinator.com/item?id=36596193) - [That Time I Posted Myself Out Of a Job](https://cohost.org/stillinbeta/post/1847579-that-time-i-posted-m)
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor: Update July 2023](http://worrydream.com/July2023/)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
@@ -26,8 +26,8 @@
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX (1992) [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 00:41:43](https://news.ycombinator.com/item?id=36580713) - [Boom, Bubble, Bust: The Fiber Optic Mania [pdf]](https://internethistory.org/wp-content/uploads/2020/01/OSA_Boom.Bubble.Bust_Fiber.Optic_.Mania_.pdf)
 * [2023-07-03, 23:10:32](https://news.ycombinator.com/item?id=36579995) - [Making infrared cooling paint from grocery store items [video]](https://www.youtube.com/watch?v=KDRnEm-B3AI)
-* [2023-07-03, 20:31:07](https://news.ycombinator.com/item?id=36578361) - [No one cares about your dreams unless you’re a famous writer](https://lithub.com/no-one-cares-about-your-dreams-unless-youre-a-famous-writer/)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
+* [2023-07-03, 13:40:57](https://news.ycombinator.com/item?id=36572740) - [What Do the Best Investors Do That the Rest Don’t?](https://behavioralvalueinvestor.substack.com/p/what-do-the-best-investors-do-that)
 * [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/)
 * [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 
