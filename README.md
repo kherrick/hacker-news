@@ -2,10 +2,10 @@
 
 * [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
 * [2023-07-05, 07:00:00](https://news.ycombinator.com/item?id=36596547) - [Bitmovin (YC S15) Is Hiring a Technical Support Engineer in India](https://bitmovin.com/careers/technical-support-engineer-tier-1-chennai-6829109002/)
-* [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor: Update July 2023](http://worrydream.com/July2023/)
+* [2023-07-05, 06:40:09](https://news.ycombinator.com/item?id=36596324) - [Ask HN: Why is there no major push towards Android for Servers and Desktops?](https://news.ycombinator.com/item?id=36596324)
+* [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor update](http://worrydream.com/July2023/)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
-* [2023-07-05, 04:20:21](https://news.ycombinator.com/item?id=36595486) - [Monday Was the Hottest Day Ever as Global Temperatures Rise](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3)
 * [2023-07-05, 03:15:42](https://news.ycombinator.com/item?id=36595152) - [Show HN: CodePerfect, a fast, lightweight IDE for Go](https://codeperfect95.com)
 * [2023-07-05, 02:46:17](https://news.ycombinator.com/item?id=36594985) - [Lobotomizing Gnome (2018)](https://eklitzke.org/lobotomizing-gnome)
 * [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [Simple Unix Chat](https://the-dam.org/docs/explanations/suc.html)
