@@ -10,6 +10,7 @@
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor: Update July 2023](http://worrydream.com/July2023/)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
+* [2023-07-05, 04:20:21](https://news.ycombinator.com/item?id=36595486) - [Monday Was the Hottest Day Ever as Global Temperatures Rise](https://www.bloomberg.com/news/articles/2023-07-04/world-records-hottest-day-ever-on-july-3)
 * [2023-07-05, 04:19:12](https://news.ycombinator.com/item?id=36595481) - [Can the stock market go to zero?](https://www.afrugaldoctor.com/home/market-zero)
 * [2023-07-05, 03:15:42](https://news.ycombinator.com/item?id=36595152) - [Show HN: CodePerfect, a fast, lightweight IDE for Go](https://codeperfect95.com)
 * [2023-07-05, 02:46:17](https://news.ycombinator.com/item?id=36594985) - [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
