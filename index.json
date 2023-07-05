@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-05, 13:36:01",
+      "https://news.ycombinator.com/item?id=36600263"
+    ],
+    [
+      "Regex Engine Internals as a Library",
+      "https://blog.burntsushi.net/regex-internals/"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 13:16:53",
       "https://news.ycombinator.com/item?id=36600020"
     ],
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2023-07-04, 21:47:58",
-      "https://news.ycombinator.com/item?id=36592930"
-    ],
-    [
-      "Bottles – Easily run Windows software on Linux",
-      "https://usebottles.com/"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 19:11:43",
-      "https://news.ycombinator.com/item?id=36591313"
-    ],
-    [
-      "Type system updates: moving from research into development",
-      "https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 13:50:02",
       "https://news.ycombinator.com/item?id=36586632"
     ],
@@ -257,6 +247,16 @@
     [
       "Boom, Bubble, Bust: The Fiber Optic Mania [pdf]",
       "https://internethistory.org/wp-content/uploads/2020/01/OSA_Boom.Bubble.Bust_Fiber.Optic_.Mania_.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-04, 00:26:32",
+      "https://news.ycombinator.com/item?id=36580623"
+    ],
+    [
+      "Guy Steele: Growing a Language (1998) [video]",
+      "https://www.youtube.com/watch?v=lw6TaiXzHAE"
     ]
   ],
   [
