@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
 * [2023-07-05, 02:46:17](https://news.ycombinator.com/item?id=36594985) - [Lobotomizing Gnome](https://eklitzke.org/lobotomizing-gnome)
 * [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [A Slack clone in 5 lines of bash](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-05, 01:53:46](https://news.ycombinator.com/item?id=36594695) - [Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)

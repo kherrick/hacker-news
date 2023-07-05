@@ -74,6 +74,7 @@
 * [2023-07-04, 04:22:56](https://news.ycombinator.com/item?id=36582208) - [Write a Book with Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)
 * [2023-07-04, 04:07:32](https://news.ycombinator.com/item?id=36582120) - [How the RWKV language model works](https://johanwind.github.io/2023/03/23/rwkv_details.html)
 * [2023-07-04, 04:07:00](https://news.ycombinator.com/item?id=36582117) - [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
+* [2023-07-04, 03:17:59](https://news.ycombinator.com/item?id=36581770) - [Construction Time Again: The quality crisis in American building](https://thebaffler.com/salvos/construction-time-again-sisson)
 * [2023-07-04, 02:40:07](https://news.ycombinator.com/item?id=36581546) - [Threads.net](https://www.threads.net/)
 * [2023-07-04, 01:53:52](https://news.ycombinator.com/item?id=36581208) - [Effective Git as a Solo Developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
 * [2023-07-04, 01:02:25](https://news.ycombinator.com/item?id=36580837) - [Learning needs to be effortful to be effective](https://giansegato.com/essays/edutainment-is-not-learning)
