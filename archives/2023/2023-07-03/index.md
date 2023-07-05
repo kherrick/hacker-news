@@ -15,6 +15,7 @@
 * [2023-07-03, 22:15:57](https://news.ycombinator.com/item?id=36579517) - [libjpeg-turbo 3.0 has been released, and why there may never be a 3.1](https://groups.google.com/g/libjpeg-turbo-announce/c/YZ2wRgB0zIE/m/UOjrm9quBQAJ)
 * [2023-07-03, 21:57:17](https://news.ycombinator.com/item?id=36579347) - [Things that surprised me while running SQLite in production](https://www.joseferben.com/posts/3-things-that-surprised-me-while-running-sqlite-in-production/)
 * [2023-07-03, 21:37:44](https://news.ycombinator.com/item?id=36579181) - [LLMs are too easy to automatically red team into toxicity](https://interhumanagreement.substack.com/p/faketoxicityprompts-automatic-red)
+* [2023-07-03, 21:03:38](https://news.ycombinator.com/item?id=36578805) - [RunWithScissors() (2009)](https://android.googlesource.com/platform/frameworks/base/+/android-5.0.0_r1/core/java/android/os/Handler.java#461)
 * [2023-07-03, 20:40:22](https://news.ycombinator.com/item?id=36578489) - [Norway discovers Phosphate deposit large enough to supply world for 100 years](https://www.independent.co.uk/tech/battery-solar-panels-norway-phosphate-b2368444.html)
 * [2023-07-03, 20:31:07](https://news.ycombinator.com/item?id=36578361) - [No one cares about your dreams – unless you’re a famous writer](https://lithub.com/no-one-cares-about-your-dreams-unless-youre-a-famous-writer/)
 * [2023-07-03, 20:30:25](https://news.ycombinator.com/item?id=36578354) - [Show HN: Yet another macOS ChatGPT app](https://letsflyai.com)
