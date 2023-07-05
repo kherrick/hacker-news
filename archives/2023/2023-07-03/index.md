@@ -95,6 +95,7 @@
 * [2023-07-03, 05:52:39](https://news.ycombinator.com/item?id=36569365) - [Douglas Hofstadter changes his mind on Deep Learning and AI risk](https://www.lesswrong.com/posts/kAmgdEjq2eYQkB5PP/douglas-hofstadter-changes-his-mind-on-deep-learning-and-ai)
 * [2023-07-03, 05:46:21](https://news.ycombinator.com/item?id=36569336) - [A Dutch Village Where Everyone Has Dementia (2014)](https://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/)
 * [2023-07-03, 05:40:42](https://news.ycombinator.com/item?id=36569306) - [So Long “Prompt Engineering,” We Hardly Knew Ya](https://medium.com/art-interrupted/so-long-prompt-engineering-we-hardly-knew-ya-a77d871e00e9)
+* [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 * [2023-07-03, 04:55:09](https://news.ycombinator.com/item?id=36569044) - [Nvidia’s H100: Funny L2, and Tons of Bandwidth](https://chipsandcheese.com/2023/07/02/nvidias-h100-funny-l2-and-tons-of-bandwidth/)
 * [2023-07-03, 04:48:15](https://news.ycombinator.com/item?id=36569001) - [On breaking changes in transitive dependencies](https://dmytro.sh/blog/on-breaking-changes-in-transitive-dependencies/)
 * [2023-07-03, 04:08:10](https://news.ycombinator.com/item?id=36568667) - [VPN use is at an all-time high – but are people safe?](https://www.techradar.com/pro/vpn-use-is-at-an-all-time-high-but-are-people-actually-safe)
