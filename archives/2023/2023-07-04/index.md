@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-04](index.md)
 
+* [2023-07-04, 22:38:49](https://news.ycombinator.com/item?id=36593407) - [Life after detonation (2012)](http://www.sciencemadness.org/talk/viewthread.php?tid=22554)
 * [2023-07-04, 22:20:30](https://news.ycombinator.com/item?id=36593249) - [I Hate the News](http://www.aaronsw.com/weblog/hatethenews)
 * [2023-07-04, 22:16:09](https://news.ycombinator.com/item?id=36593206) - [How Many People Have Ever Lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
 * [2023-07-04, 22:01:35](https://news.ycombinator.com/item?id=36593074) - [Your startup idea probably isn’t venture-scale](https://www.lennysnewsletter.com/p/your-startup-idea-probably-isnt-venture)
