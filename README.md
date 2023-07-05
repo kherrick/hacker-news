@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub Profile Achievements](https://github.com/Flet/rejected-github-profile-achievements)
+* [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
+* [2023-07-05, 21:20:57](https://news.ycombinator.com/item?id=36607323) - [Tabby: A terminal for a more modern age](https://github.com/Eugeny/tabby)
 * [2023-07-05, 21:18:58](https://news.ycombinator.com/item?id=36607292) - [Codereview: Should the Go project stop importing GitHub PRs?](https://github.com/golang/go/discussions/61182)
 * [2023-07-05, 21:02:39](https://news.ycombinator.com/item?id=36607064) - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 * [2023-07-05, 20:08:10](https://news.ycombinator.com/item?id=36606323) - [The U.S. Copyright Office requires libraries to lie about fair use rights?](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
@@ -11,7 +12,6 @@
 * [2023-07-05, 19:22:52](https://news.ycombinator.com/item?id=36605730) - [FunctionTrace: Graphical Python Profiler](https://functiontrace.com)
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News user blogroll](https://dm.hn)
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
-* [2023-07-05, 17:50:26](https://news.ycombinator.com/item?id=36604188) - [Beautifying our UI: Giving Gitlab build features a fresh look](https://about.gitlab.com/blog/2023/07/05/beautifying-of-our-ui/)
 * [2023-07-05, 17:33:04](https://news.ycombinator.com/item?id=36603816) - [LLama.cpp now has a web interface](https://github.com/ggerganov/llama.cpp/pull/1998)
 * [2023-07-05, 17:17:08](https://news.ycombinator.com/item?id=36603573) - [The Many Ways That Digital Minds Can Know – A Better Way to Think about LLMs](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 * [2023-07-05, 17:04:29](https://news.ycombinator.com/item?id=36603382) - [Introducing Superalignment](https://openai.com/blog/introducing-superalignment)
