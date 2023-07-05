@@ -1,22 +1,62 @@
 [
   [
     [
-      "2023-07-05, 14:37:10",
-      "https://news.ycombinator.com/item?id=36601059"
+      "2023-07-05, 15:18:44",
+      "https://news.ycombinator.com/item?id=36601622"
     ],
     [
-      "Hacking around the Twitter login idiocy",
-      "https://news.ycombinator.com/item?id=36601059"
+      "AI weights are not open “source”",
+      "https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/"
     ]
   ],
   [
     [
-      "2023-07-05, 13:48:03",
-      "https://news.ycombinator.com/item?id=36600434"
+      "2023-07-05, 15:00:06",
+      "https://news.ycombinator.com/item?id=36601361"
     ],
     [
-      "Rich text editors and rendering engines",
-      "https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf"
+      "Microsoft denies data breach, theft of 30M customer accounts",
+      "https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 14:55:46",
+      "https://news.ycombinator.com/item?id=36601290"
+    ],
+    [
+      "How to foster shoshin",
+      "https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 14:51:22",
+      "https://news.ycombinator.com/item?id=36601228"
+    ],
+    [
+      "Why is there no government-built social media?",
+      "https://loeber.substack.com/p/10-why-is-there-no-government-built"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 14:32:12",
+      "https://news.ycombinator.com/item?id=36601004"
+    ],
+    [
+      "GPT-4’s secret",
+      "https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 13:48:49",
+      "https://news.ycombinator.com/item?id=36600446"
+    ],
+    [
+      "A Regex Barometer",
+      "https://github.com/BurntSushi/rebar"
     ]
   ],
   [
@@ -31,32 +71,12 @@
   ],
   [
     [
-      "2023-07-05, 13:24:34",
-      "https://news.ycombinator.com/item?id=36600119"
-    ],
-    [
-      "Who cares about the Ivy League?",
-      "https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 13:16:53",
       "https://news.ycombinator.com/item?id=36600020"
     ],
     [
       "News is bad for you – and giving up reading it will make you happier (2013)",
       "https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 12:55:43",
-      "https://news.ycombinator.com/item?id=36599759"
-    ],
-    [
-      "Amid Twitter Chaos, Japanese Illustrators Flock to Weibo",
-      "https://www.sixthtone.com/news/1013241"
     ]
   ],
   [
@@ -211,26 +231,6 @@
   ],
   [
     [
-      "2023-07-04, 13:50:02",
-      "https://news.ycombinator.com/item?id=36586632"
-    ],
-    [
-      "Sao Paulo: A city with no outdoor advertisements (2013)",
-      "https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 10:26:55",
-      "https://news.ycombinator.com/item?id=36584692"
-    ],
-    [
-      "An Architectural Overview of QNX (1992) [pdf]",
-      "https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 02:06:16",
       "https://news.ycombinator.com/item?id=36581304"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-07-03, 05:10:47",
-      "https://news.ycombinator.com/item?id=36569156"
+      "2023-07-03, 08:36:05",
+      "https://news.ycombinator.com/item?id=36570321"
     ],
     [
-      "Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]",
-      "https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf"
+      "How to think about `async`/`await` in Rust",
+      "http://cliffle.com/blog/async-inversion/"
     ]
   ]
 ]
