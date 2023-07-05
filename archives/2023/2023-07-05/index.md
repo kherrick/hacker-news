@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)
 * [2023-07-05, 07:05:46](https://news.ycombinator.com/item?id=36596610) - [Open Letter from Security Researchers in Relation to the Online Safety Bill [pdf]](https://haddadi.github.io/UKOSBOpenletter.pdf)
 * [2023-07-05, 07:03:46](https://news.ycombinator.com/item?id=36596588) - [Was Starship’s Stage Zero a Bad Pad?](https://practical.engineering/blog/2023/6/16/w47wdfg7h5uojks1c85boeyjhl9ot4)
