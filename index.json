@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-05, 02:46:17",
+      "https://news.ycombinator.com/item?id=36594985"
+    ],
+    [
+      "Lobotomizing Gnome",
+      "https://eklitzke.org/lobotomizing-gnome"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 02:34:16",
+      "https://news.ycombinator.com/item?id=36594916"
+    ],
+    [
+      "A Slack clone in 5 lines of bash",
+      "https://the-dam.org/docs/explanations/suc.html"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 01:53:46",
       "https://news.ycombinator.com/item?id=36594695"
     ],
@@ -17,16 +37,6 @@
     [
       "Healing of acute ACL tear on MRI following non-surgical bracing protocol [pdf]",
       "https://bjsm.bmj.com/content/bjsports/early/2023/06/13/bjsports-2023-106931.full.pdf?with-ds=yes"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 01:33:57",
-      "https://news.ycombinator.com/item?id=36594584"
-    ],
-    [
-      "Flyte: Open-source orchestrator for building production-grade ML pipelines",
-      "https://python.langchain.com/docs/ecosystem/integrations/flyte"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "LXD is now under Canonical",
       "https://linuxcontainers.org/lxd/"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 20:20:32",
-      "https://news.ycombinator.com/item?id=36592033"
-    ],
-    [
-      "“How is your thesis going?” Students’ perspectives on mental health and stress",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288103"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2023-07-04, 16:06:44",
-      "https://news.ycombinator.com/item?id=36588514"
-    ],
-    [
-      "Turning my hobby into a business made me hate it",
-      "https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/"
-    ]
-  ],
-  [
-    [
       "2023-07-04, 15:46:56",
       "https://news.ycombinator.com/item?id=36588240"
     ],
@@ -247,6 +237,16 @@
     [
       "Making infrared cooling paint from grocery store items [video]",
       "https://www.youtube.com/watch?v=KDRnEm-B3AI"
+    ]
+  ],
+  [
+    [
+      "2023-07-03, 20:31:07",
+      "https://news.ycombinator.com/item?id=36578361"
+    ],
+    [
+      "No one cares about your dreams – unless you’re a famous writer",
+      "https://lithub.com/no-one-cares-about-your-dreams-unless-youre-a-famous-writer/"
     ]
   ],
   [
