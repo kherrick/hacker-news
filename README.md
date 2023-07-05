@@ -7,7 +7,6 @@
 * [2023-07-05, 06:07:36](https://news.ycombinator.com/item?id=36596095) - [Bret Victor update](http://worrydream.com/July2023/)
 * [2023-07-05, 05:06:55](https://news.ycombinator.com/item?id=36595711) - [Is the aircraft in this image real?](https://aviation.stackexchange.com/questions/99788/is-the-aircraft-in-this-image-real)
 * [2023-07-05, 04:29:27](https://news.ycombinator.com/item?id=36595512) - [Functions and algorithms implemented purely with TypeScript's type system](https://github.com/ronami/meta-typing)
-* [2023-07-05, 02:46:17](https://news.ycombinator.com/item?id=36594985) - [Lobotomizing Gnome (2018)](https://eklitzke.org/lobotomizing-gnome)
 * [2023-07-05, 02:34:16](https://news.ycombinator.com/item?id=36594916) - [Simple Unix Chat](https://the-dam.org/docs/explanations/suc.html)
 * [2023-07-05, 01:53:46](https://news.ycombinator.com/item?id=36594695) - [Our Journey with Apache Arrow (Part 2): Adaptive Schemas and Sorting](https://arrow.apache.org/blog/2023/06/26/our-journey-at-f5-with-apache-arrow-part-2/)
 * [2023-07-04, 22:16:09](https://news.ycombinator.com/item?id=36593206) - [How many people have ever lived on Earth?](https://www.prb.org/articles/how-many-people-have-ever-lived-on-earth/)
@@ -28,6 +27,7 @@
 * [2023-07-03, 23:10:32](https://news.ycombinator.com/item?id=36579995) - [Making infrared cooling paint from grocery store items [video]](https://www.youtube.com/watch?v=KDRnEm-B3AI)
 * [2023-07-03, 16:16:33](https://news.ycombinator.com/item?id=36575081) - [Ask HN: Could you share your personal blog here?](https://news.ycombinator.com/item?id=36575081)
 * [2023-07-03, 13:40:57](https://news.ycombinator.com/item?id=36572740) - [What Do the Best Investors Do That the Rest Don’t?](https://behavioralvalueinvestor.substack.com/p/what-do-the-best-investors-do-that)
+* [2023-07-03, 13:40:15](https://news.ycombinator.com/item?id=36572734) - [New analysis of tooth minerals confirms megalodon shark was warm-blooded](https://phys.org/news/2023-06-analysis-tooth-minerals-megalodon-shark.html)
 * [2023-07-03, 08:36:05](https://news.ycombinator.com/item?id=36570321) - [How to think about `async`/`await` in Rust](http://cliffle.com/blog/async-inversion/)
 * [2023-07-03, 05:10:47](https://news.ycombinator.com/item?id=36569156) - [Solar Superstorms: Planning for an Internet Apocalypse (2021) [pdf]](https://www.ics.uci.edu/~sabdujyo/papers/sigcomm21-cme.pdf)
 
