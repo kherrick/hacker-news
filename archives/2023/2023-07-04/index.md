@@ -32,6 +32,7 @@
 * [2023-07-04, 15:22:30](https://news.ycombinator.com/item?id=36587875) - [Makie, a modern and fast plotting library for Julia](https://makie.org)
 * [2023-07-04, 15:16:11](https://news.ycombinator.com/item?id=36587788) - [Google and HTTP](http://this.how/googleAndHttp/)
 * [2023-07-04, 14:59:46](https://news.ycombinator.com/item?id=36587576) - [Longevity factor klotho enhances cognition in aged nonhuman primates](https://www.nature.com/articles/s43587-023-00441-x)
+* [2023-07-04, 14:56:29](https://news.ycombinator.com/item?id=36587546) - [Programmatic SEO](https://zapier.com/blog/programmatic-seo/)
 * [2023-07-04, 13:56:42](https://news.ycombinator.com/item?id=36586734) - [gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion](https://github.com/mshumer/gpt-author)
 * [2023-07-04, 13:53:32](https://news.ycombinator.com/item?id=36586691) - [Debugging GraphQL N+1 Issues with Open Source Tracing Tools](https://kickstage.com/blog/open-source-tracing-to-debug-graphql-performance-issues/)
 * [2023-07-04, 13:50:02](https://news.ycombinator.com/item?id=36586632) - [Sao Paulo: The City with No Outdoor Advertisements](https://www.amusingplanet.com/2013/07/sao-paulo-city-with-no-outdoor.html)

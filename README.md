@@ -21,7 +21,6 @@
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)
 * [2023-07-05, 15:47:11](https://news.ycombinator.com/item?id=36602097) - [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
-* [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex engine internals as a library](https://blog.burntsushi.net/regex-internals/)
 * [2023-07-05, 12:51:07](https://news.ycombinator.com/item?id=36599706) - [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 * [2023-07-05, 12:00:19](https://news.ycombinator.com/item?id=36599137) - [Piinpoint (YC W14) is hiring for data science – remote within Canada](https://www.ycombinator.com/companies/piinpoint/jobs/4jPeUKT-data-scientist)
@@ -29,6 +28,7 @@
 * [2023-07-05, 07:17:59](https://news.ycombinator.com/item?id=36596760) - [Redox-Based Transistor as a Reservoir System for Neuromorphic Computing](https://www.tus.ac.jp/en/mediarelations/archive/20230602_6198.html)
 * [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 * [2023-07-04, 22:38:49](https://news.ycombinator.com/item?id=36593407) - [Life after detonation (2012)](http://www.sciencemadness.org/talk/viewthread.php?tid=22554)
+* [2023-07-04, 14:56:29](https://news.ycombinator.com/item?id=36587546) - [Programmatic SEO](https://zapier.com/blog/programmatic-seo/)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
 
 ## [Archives](archives/index.md)
