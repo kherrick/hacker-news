@@ -54,6 +54,7 @@
 * [2023-07-05, 13:48:03](https://news.ycombinator.com/item?id=36600434) - [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
 * [2023-07-05, 13:37:19](https://news.ycombinator.com/item?id=36600278) - [Real-Time Air Quality Index Visual Map](https://aqicn.org/map/europe/)
 * [2023-07-05, 13:36:01](https://news.ycombinator.com/item?id=36600263) - [Regex Engine Internals as a Library](https://blog.burntsushi.net/regex-internals/)
+* [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
 * [2023-07-05, 13:24:34](https://news.ycombinator.com/item?id=36600119) - [Who cares about the Ivy League?](https://www.noahpinion.blog/p/who-cares-about-the-ivy-league-repost)
 * [2023-07-05, 13:16:53](https://news.ycombinator.com/item?id=36600020) - [News Is Bad for You](https://www.theguardian.com/media/2013/apr/12/news-is-bad-rolf-dobelli)
 * [2023-07-05, 13:06:41](https://news.ycombinator.com/item?id=36599893) - [Deno 1.35: A fast and convenient way to build web servers](https://deno.com/blog/v1.35)
