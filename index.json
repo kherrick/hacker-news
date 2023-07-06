@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2023-07-06, 06:44:35",
+      "https://news.ycombinator.com/item?id=36612190"
+    ],
+    [
+      "Goravel, Web framework inspired from Laravel in Golang",
+      "https://github.com/goravel/goravel"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 04:40:03",
       "https://news.ycombinator.com/item?id=36611355"
     ],
@@ -177,16 +187,6 @@
     [
       "Tell HN: People forget that you can stick any data at the end of a bash script",
       "https://news.ycombinator.com/item?id=36605869"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 19:22:52",
-      "https://news.ycombinator.com/item?id=36605730"
-    ],
-    [
-      "FunctionTrace: Graphical Python Profiler",
-      "https://functiontrace.com"
     ]
   ],
   [
