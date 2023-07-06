@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 14:29:23](https://news.ycombinator.com/item?id=36616390) - [Why your startup needs a podcast](https://accelerateokanagan.com/blog/why-your-startup-needs-a-podcast/)
 * [2023-07-06, 14:09:05](https://news.ycombinator.com/item?id=36616037) - [France passes bill to allow police remotely activate phone camera, microphone](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people/)
+* [2023-07-06, 14:08:56](https://news.ycombinator.com/item?id=36616032) - [Americans Have Quit Quitting Their Jobs](https://www.wsj.com/articles/americans-have-quit-quitting-their-jobs-4feda9bb)
 * [2023-07-06, 14:08:23](https://news.ycombinator.com/item?id=36616023) - [Fastmail 30 June outage post-mortem](https://www.fastmail.com/blog/partial-outage-on-30-june-2023/)
+* [2023-07-06, 14:05:09](https://news.ycombinator.com/item?id=36615965) - [A gigantic landslide shows the limit to how high mountains can grow](https://www.economist.com/science-and-technology/2023/07/06/a-gigantic-landslide-shows-the-limit-to-how-high-mountains-can-grow)
 * [2023-07-06, 13:48:07](https://news.ycombinator.com/item?id=36615691) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 13:29:59](https://news.ycombinator.com/item?id=36615454) - [15-20 more federal holidays](https://lindynewsletter.beehiiv.com/p/1520-federal-holidays)
 * [2023-07-06, 13:26:40](https://news.ycombinator.com/item?id=36615401) - [Earth entering ‘uncharted territory’ as heat records quickly shatter](https://www.washingtonpost.com/weather/2023/07/06/earth-record-heat-climate-extremes/)
