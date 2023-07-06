@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 14:34:41](https://news.ycombinator.com/item?id=36616491) - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
+* [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [The Internet Archive has Lego set instructions](https://archive.org/details/lego-set-instructions)
 * [2023-07-06, 14:29:23](https://news.ycombinator.com/item?id=36616390) - [Why your startup needs a podcast](https://accelerateokanagan.com/blog/why-your-startup-needs-a-podcast/)
 * [2023-07-06, 14:09:05](https://news.ycombinator.com/item?id=36616037) - [France passes bill to allow police remotely activate phone camera, microphone](https://gazettengr.com/france-passes-bill-to-allow-police-remotely-activate-phone-camera-microphone-spy-on-people/)
 * [2023-07-06, 14:08:56](https://news.ycombinator.com/item?id=36616032) - [Americans Have Quit Quitting Their Jobs](https://www.wsj.com/articles/americans-have-quit-quitting-their-jobs-4feda9bb)
