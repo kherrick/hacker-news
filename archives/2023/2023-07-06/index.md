@@ -31,6 +31,7 @@
 * [2023-07-06, 16:20:46](https://news.ycombinator.com/item?id=36618344) - [Six times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-06, 15:47:31](https://news.ycombinator.com/item?id=36617822) - [USGS estimates at least 45% of U.S. tap water contain forever chemicals](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
 * [2023-07-06, 15:35:41](https://news.ycombinator.com/item?id=36617628) - [“Greedflation” is a nonsense idea](https://www.economist.com/leaders/2023/07/06/greedflation-is-a-nonsense-idea)
+* [2023-07-06, 15:27:04](https://news.ycombinator.com/item?id=36617504) - [Multi-Layered Calendars](https://julian.digital/2023/07/06/multi-layered-calendars/)
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
 * [2023-07-06, 15:04:44](https://news.ycombinator.com/item?id=36617126) - [Threads Surpasses 30M Signups](https://www.threads.net/t/CuXCjGVrd6R)
 * [2023-07-06, 14:50:29](https://news.ycombinator.com/item?id=36616841) - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
