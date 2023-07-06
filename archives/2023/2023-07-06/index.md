@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:29:20](https://news.ycombinator.com/item?id=36623348) - [Please don't say just hello in chat](https://nohello.net/en/)
 * [2023-07-06, 21:13:31](https://news.ycombinator.com/item?id=36623146) - [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
 * [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
