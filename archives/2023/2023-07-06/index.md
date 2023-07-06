@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 04:40:10](https://news.ycombinator.com/item?id=36611356) - [My small, no name company has lost its mind with AI](https://www.teamblind.com/post/My-small-no-name-company-has-completely-lost-its-mind-with-AI-nfqEDfSi)
 * [2023-07-06, 03:38:53](https://news.ycombinator.com/item?id=36610846) - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 * [2023-07-06, 03:22:31](https://news.ycombinator.com/item?id=36610716) - [Threads hits 5M signups in the first four hours](https://www.threads.net/t/CuVxMmvLNsG)
 * [2023-07-06, 03:09:56](https://news.ycombinator.com/item?id=36610595) - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)

@@ -31,6 +31,7 @@
 * [2023-07-04, 15:32:17](https://news.ycombinator.com/item?id=36588017) - [Writing about writing about programming](https://axleos.com/writing-about-writing-about-programming/)
 * [2023-07-04, 15:22:30](https://news.ycombinator.com/item?id=36587875) - [Makie, a modern and fast plotting library for Julia](https://makie.org)
 * [2023-07-04, 15:16:11](https://news.ycombinator.com/item?id=36587788) - [Google and HTTP](http://this.how/googleAndHttp/)
+* [2023-07-04, 15:03:32](https://news.ycombinator.com/item?id=36587619) - [Ode to the Quick Computer](https://www.robinsloan.com/newsletters/feeling-of-something-waiting-there-for-you/)
 * [2023-07-04, 14:59:46](https://news.ycombinator.com/item?id=36587576) - [Longevity factor klotho enhances cognition in aged nonhuman primates](https://www.nature.com/articles/s43587-023-00441-x)
 * [2023-07-04, 14:56:29](https://news.ycombinator.com/item?id=36587546) - [Programmatic SEO](https://zapier.com/blog/programmatic-seo/)
 * [2023-07-04, 13:56:42](https://news.ycombinator.com/item?id=36586734) - [gpt-author: Generate an original fantasy novel using GPT-4 and Stable Diffusion](https://github.com/mshumer/gpt-author)
