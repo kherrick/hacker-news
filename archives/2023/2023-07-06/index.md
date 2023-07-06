@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
+* [2023-07-06, 20:21:47](https://news.ycombinator.com/item?id=36622274) - [Ubuntu 23.10’s New Software App Will Demote Debs (Apparently)](https://www.omgubuntu.co.uk/2023/07/ubuntu-23-10-new-app-store-deb-support)
 * [2023-07-06, 20:08:36](https://news.ycombinator.com/item?id=36622048) - [Ubuntu Plans to Ditch Its ‘Minimal’ Install Option](https://www.omgubuntu.co.uk/2023/07/ubuntu-new-unified-install-plans-sound-meh)
 * [2023-07-06, 20:04:05](https://news.ycombinator.com/item?id=36621998) - [Heat Records Broken Across Earth](https://www.nytimes.com/2023/07/06/climate/climate-change-record-heat.html)
 * [2023-07-06, 19:52:56](https://news.ycombinator.com/item?id=36621844) - [Marjorie Taylor Greene no longer member of Freedom Caucus after vote last month](https://www.politico.com/minutes/congress/07-6-2023/mtg-freedom-caucus-ouster/)
