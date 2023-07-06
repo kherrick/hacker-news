@@ -1,12 +1,32 @@
 [
   [
     [
-      "2023-07-06, 19:35:40",
-      "https://news.ycombinator.com/item?id=36621591"
+      "2023-07-06, 19:52:56",
+      "https://news.ycombinator.com/item?id=36621844"
     ],
     [
-      "Don't Join Threads – Make Threads Join You",
-      "https://www.wired.com/story/meta-threads-privacy-decentralization/"
+      "Marjorie Taylor Greene no longer member of Freedom Caucus after vote last month",
+      "https://www.politico.com/minutes/congress/07-6-2023/mtg-freedom-caucus-ouster/"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 19:46:05",
+      "https://news.ycombinator.com/item?id=36621741"
+    ],
+    [
+      "Twitter is threatening to sue Meta over Threads [pdf]",
+      "https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 19:32:24",
+      "https://news.ycombinator.com/item?id=36621526"
+    ],
+    [
+      "Threads profiles can't be deleted without removing your entire Instagram account",
+      "https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Zink brings conformant OpenGL on Imagination GPUs",
       "https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 19:06:55",
+      "https://news.ycombinator.com/item?id=36621171"
+    ],
+    [
+      "I'm a paid user of Threads[.com] – No trademark?",
+      "https://threads.com/"
     ]
   ],
   [
@@ -67,6 +97,16 @@
     [
       "The Distribution of Users’ Computer Skills: Worse Than You Think (2016)",
       "https://www.nngroup.com/articles/computer-skill-levels/"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 18:19:05",
+      "https://news.ycombinator.com/item?id=36620454"
+    ],
+    [
+      "Tea as Hepatoprotective Agent: A Revisit",
+      "https://sci-hub.se/10.1016/b978-0-12-814466-4.00015-x"
     ]
   ],
   [
@@ -191,16 +231,6 @@
   ],
   [
     [
-      "2023-07-06, 12:19:39",
-      "https://news.ycombinator.com/item?id=36614678"
-    ],
-    [
-      "Injunction issued in case about social media pressure from US Government",
-      "https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/"
-    ]
-  ],
-  [
-    [
       "2023-07-06, 12:01:18",
       "https://news.ycombinator.com/item?id=36614512"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2023-07-06, 11:11:25",
-      "https://news.ycombinator.com/item?id=36614114"
-    ],
-    [
-      "Godot 4.1",
-      "https://godotengine.org/article/godot-4-1-is-here/"
-    ]
-  ],
-  [
-    [
       "2023-07-06, 09:47:53",
       "https://news.ycombinator.com/item?id=36613543"
     ],
     [
       "/Uses: A list of /uses pages detailing developer setups, gear, software, configs",
       "https://uses.tech"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 08:52:49",
-      "https://news.ycombinator.com/item?id=36613106"
-    ],
-    [
-      "Web servers should refuse requests for random, unnecessary URLs",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "InternLM – new open source 7B LLM",
       "https://github.com/InternLM/InternLM"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 04:40:03",
-      "https://news.ycombinator.com/item?id=36611355"
-    ],
-    [
-      "Joplin – An open-source note taking and to-do application with synchronisation",
-      "https://github.com/laurent22/joplin"
     ]
   ],
   [
