@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-06, 19:03:15",
+      "https://news.ycombinator.com/item?id=36621120"
+    ],
+    [
+      "GPT-4 API General Availability",
+      "https://openai.com/blog/gpt-4-api-general-availability"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 18:59:53",
+      "https://news.ycombinator.com/item?id=36621057"
+    ],
+    [
+      "Imagination GPUs now support OpenGL 4.6",
+      "https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 18:29:29",
       "https://news.ycombinator.com/item?id=36620608"
     ],
@@ -15,8 +35,18 @@
       "https://news.ycombinator.com/item?id=36620450"
     ],
     [
-      "Chat with Andreas Kling about Ladybird & developing a new, novel browser engine",
+      "Chat with Andreas Kling about Ladybird and developing a browser engine",
       "https://www.igalia.com/chats/ladybird"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 18:17:24",
+      "https://news.ycombinator.com/item?id=36620434"
+    ],
+    [
+      "Code Interpreter will be available to all ChatGPT Plus users over the next week",
+      "https://twitter.com/OpenAI/status/1677015057316872192"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "AI for AWS Documentation",
       "https://www.awsdocsgpt.com/"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 17:06:08",
-      "https://news.ycombinator.com/item?id=36619187"
-    ],
-    [
-      "For the sixth year, Algeria blocks internet to prevent cheating during exams",
-      "https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Tor’s history of D/DoS attacks and future strategies for mitigation",
       "https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 12:55:48",
-      "https://news.ycombinator.com/item?id=36615038"
-    ],
-    [
-      "Single Fire Hydrant Nets NYC $33,000 a Year",
-      "https://iquantny.tumblr.com/post/83770853308/update-single-fire-hydrant-nets-nyc-33000-a"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Joplin – An open-source note taking and to-do application with synchronisation",
       "https://github.com/laurent22/joplin"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 03:38:53",
-      "https://news.ycombinator.com/item?id=36610846"
-    ],
-    [
-      "My Problem with the Four-Document Model",
-      "https://www.hillelwayne.com/post/problems-with-the-4doc-model/"
     ]
   ],
   [
