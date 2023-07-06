@@ -10,7 +10,6 @@
 * [2023-07-06, 01:57:21](https://news.ycombinator.com/item?id=36610006) - [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
 * [2023-07-06, 01:17:21](https://news.ycombinator.com/item?id=36609641) - [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 * [2023-07-06, 01:04:21](https://news.ycombinator.com/item?id=36609560) - [Ban on recording without consent is unconstitutional, US court rules](https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt)
-* [2023-07-05, 23:47:11](https://news.ycombinator.com/item?id=36608887) - [The ice machine that chills Chicago’s skyscrapers](https://wgntv.com/news/chicago-news/the-ice-machine-that-chills-chicagos-skyscrapers-inside-downtowns-district-cooling-systems/)
 * [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub profile achievements](https://github.com/Flet/rejected-github-profile-achievements)
 * [2023-07-05, 21:02:39](https://news.ycombinator.com/item?id=36607064) - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 * [2023-07-05, 19:34:55](https://news.ycombinator.com/item?id=36605912) - [Fast](https://patrickcollison.com/fast)
@@ -30,6 +29,7 @@
 * [2023-07-04, 09:22:39](https://news.ycombinator.com/item?id=36584180) - [Encyclopaedia Metallum](https://www.metal-archives.com/)
 * [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
+* [2023-07-04, 02:07:20](https://news.ycombinator.com/item?id=36581310) - [How Lee Valley built a cult-like following](https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/)
 
 ## [Archives](archives/index.md)
 
