@@ -14,6 +14,7 @@
 * [2023-07-06, 19:06:55](https://news.ycombinator.com/item?id=36621171) - [I'm a paid user of Threads[.com] – No trademark?](https://threads.com/)
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-06, 18:59:53](https://news.ycombinator.com/item?id=36621057) - [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
+* [2023-07-06, 18:56:38](https://news.ycombinator.com/item?id=36621001) - [Threads already has over 95M posts](https://www.theverge.com/2023/7/6/23786108/threads-internal-activity-data-exclusive-instagram-meta)
 * [2023-07-06, 18:54:29](https://news.ycombinator.com/item?id=36620969) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 * [2023-07-06, 18:53:43](https://news.ycombinator.com/item?id=36620954) - [Show HN: Ngnr.club – A link-in-bio service for engineers](https://ngnr.club)
 * [2023-07-06, 18:29:29](https://news.ycombinator.com/item?id=36620608) - [The Distribution of Users’ Computer Skills: Worse Than You Think (2016)](https://www.nngroup.com/articles/computer-skill-levels/)
