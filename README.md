@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 11:30:46](https://news.ycombinator.com/item?id=36614262) - [Ask HN: Stuck as a developer for 15 years. How to become a manager?](https://news.ycombinator.com/item?id=36614262)
+* [2023-07-06, 11:11:25](https://news.ycombinator.com/item?id=36614114) - [Godot 4.1 Is Released](https://godotengine.org/article/godot-4-1-is-here/)
 * [2023-07-06, 09:47:53](https://news.ycombinator.com/item?id=36613543) - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
 * [2023-07-06, 08:57:02](https://news.ycombinator.com/item?id=36613144) - [Declarative Enhancement for HTML](https://twinspark.js.org/)
-* [2023-07-06, 08:52:49](https://news.ycombinator.com/item?id=36613106) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-06, 08:17:00](https://news.ycombinator.com/item?id=36612835) - [Back end of Meta Threads is built with Python 3.10 with some interesting tweaks](https://twitter.com/llanga/status/1676846870520291329)
 * [2023-07-06, 07:22:11](https://news.ycombinator.com/item?id=36612434) - [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
 * [2023-07-06, 07:02:42](https://news.ycombinator.com/item?id=36612306) - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
@@ -20,7 +21,6 @@
 * [2023-07-05, 21:03:37](https://news.ycombinator.com/item?id=36607081) - [Cicada: Private on-chain voting using time-lock puzzles](https://a16zcrypto.com/posts/article/building-cicada-private-on-chain-voting-using-time-lock-puzzles/)
 * [2023-07-05, 21:02:39](https://news.ycombinator.com/item?id=36607064) - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News user blogroll](https://dm.hn)
-* [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
 * [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 13:37:16](https://news.ycombinator.com/item?id=36600276) - [Centauri: Practical Rowhammer Fingerprinting](https://arxiv.org/abs/2307.00143)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 11:30:46](https://news.ycombinator.com/item?id=36614262) - [Ask HN: Stuck as a developer for 15 years. How to become a manager?](https://news.ycombinator.com/item?id=36614262)
+* [2023-07-06, 11:11:25](https://news.ycombinator.com/item?id=36614114) - [Godot 4.1 Is Released](https://godotengine.org/article/godot-4-1-is-here/)
 * [2023-07-06, 09:47:53](https://news.ycombinator.com/item?id=36613543) - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
 * [2023-07-06, 08:57:02](https://news.ycombinator.com/item?id=36613144) - [Declarative Enhancement for HTML](https://twinspark.js.org/)
 * [2023-07-06, 08:52:49](https://news.ycombinator.com/item?id=36613106) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
