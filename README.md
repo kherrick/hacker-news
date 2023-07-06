@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-06, 17:37:37](https://news.ycombinator.com/item?id=36619758) - [Sacramento Sheriff sharing license plate reader data with anti-abortion states](https://www.sacbee.com/news/politics-government/capitol-alert/article276848586.html)
+* [2023-07-06, 18:29:29](https://news.ycombinator.com/item?id=36620608) - [The Distribution of Users’ Computer Skills: Worse Than You Think (2016)](https://www.nngroup.com/articles/computer-skill-levels/)
+* [2023-07-06, 18:15:53](https://news.ycombinator.com/item?id=36620413) - [Physicists generate the first snapshots of fermion pairs](https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706)
 * [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
 * [2023-07-06, 17:06:08](https://news.ycombinator.com/item?id=36619187) - [For the sixth year, Algeria blocks internet to prevent cheating during exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
 * [2023-07-06, 15:47:31](https://news.ycombinator.com/item?id=36617822) - [USGS estimates at least 45% of U.S. tap water contain forever chemicals](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
@@ -10,7 +11,6 @@
 * [2023-07-06, 14:08:23](https://news.ycombinator.com/item?id=36616023) - [Fastmail 30 June outage post-mortem](https://www.fastmail.com/blog/partial-outage-on-30-june-2023/)
 * [2023-07-06, 14:05:09](https://news.ycombinator.com/item?id=36615965) - [A gigantic landslide shows the limit to how high mountains can grow](https://www.economist.com/science-and-technology/2023/07/06/a-gigantic-landslide-shows-the-limit-to-how-high-mountains-can-grow)
 * [2023-07-06, 13:58:46](https://news.ycombinator.com/item?id=36615849) - [Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
-* [2023-07-06, 13:48:07](https://news.ycombinator.com/item?id=36615691) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 12:55:48](https://news.ycombinator.com/item?id=36615038) - [Single Fire Hydrant Nets NYC $33,000 a Year](https://iquantny.tumblr.com/post/83770853308/update-single-fire-hydrant-nets-nyc-33000-a)
 * [2023-07-06, 12:45:20](https://news.ycombinator.com/item?id=36614924) - [DigitalOcean acquires Paperspace (YC W15) for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
 * [2023-07-06, 12:30:09](https://news.ycombinator.com/item?id=36614788) - [Stop trying to make social networks succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html)
