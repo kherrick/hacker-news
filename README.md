@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-06, 04:40:10](https://news.ycombinator.com/item?id=36611356) - [My small, no name company has lost its mind with AI](https://www.teamblind.com/post/My-small-no-name-company-has-completely-lost-its-mind-with-AI-nfqEDfSi)
 * [2023-07-06, 04:22:12](https://news.ycombinator.com/item?id=36611245) - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 * [2023-07-06, 03:38:53](https://news.ycombinator.com/item?id=36610846) - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 * [2023-07-06, 03:09:56](https://news.ycombinator.com/item?id=36610595) - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
@@ -22,12 +21,13 @@
 * [2023-07-05, 16:16:52](https://news.ycombinator.com/item?id=36602591) - [New study sheds light on the origin of animals](https://www.ox.ac.uk/news/2023-06-28-new-oxford-study-sheds-light-origin-animals)
 * [2023-07-05, 15:47:11](https://news.ycombinator.com/item?id=36602097) - [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
 * [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
+* [2023-07-05, 13:43:39](https://news.ycombinator.com/item?id=36600370) - [‘Mind-boggling’ palm that flowers and fruits underground thrills scientists](https://www.theguardian.com/environment/2023/jun/27/mind-boggling-palm-that-flowers-and-fruits-underground-thrills-scientists)
 * [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
 * [2023-07-05, 09:31:15](https://news.ycombinator.com/item?id=36597916) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
 * [2023-07-04, 15:03:32](https://news.ycombinator.com/item?id=36587619) - [Ode to the Quick Computer](https://www.robinsloan.com/newsletters/feeling-of-something-waiting-there-for-you/)
 * [2023-07-04, 09:22:39](https://news.ycombinator.com/item?id=36584180) - [Encyclopaedia Metallum](https://www.metal-archives.com/)
-* [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [raylib is a simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)
+* [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
 * [2023-07-04, 02:07:20](https://news.ycombinator.com/item?id=36581310) - [How Lee Valley built a cult-like following](https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/)
 
