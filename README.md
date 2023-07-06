@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 07:02:42](https://news.ycombinator.com/item?id=36612306) - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 * [2023-07-06, 07:02:16](https://news.ycombinator.com/item?id=36612300) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
 * [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 * [2023-07-06, 04:22:12](https://news.ycombinator.com/item?id=36611245) - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 * [2023-07-06, 03:38:53](https://news.ycombinator.com/item?id=36610846) - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 * [2023-07-06, 03:09:56](https://news.ycombinator.com/item?id=36610595) - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
+* [2023-07-06, 02:36:48](https://news.ycombinator.com/item?id=36610343) - [Noctis, the 'No Man's Sky' Forerunner Whose Creator Retreated from the World](https://www.timeextension.com/features/the-making-of-noctis-the-no-mans-sky-forerunner-whose-creator-retreated-from-the-world)
 * [2023-07-06, 01:57:21](https://news.ycombinator.com/item?id=36610006) - [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
 * [2023-07-06, 01:17:21](https://news.ycombinator.com/item?id=36609641) - [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 * [2023-07-06, 01:04:21](https://news.ycombinator.com/item?id=36609560) - [Ban on recording without consent is unconstitutional, US court rules](https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt)
@@ -21,7 +23,6 @@
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)
 * [2023-07-05, 15:47:11](https://news.ycombinator.com/item?id=36602097) - [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
 * [2023-07-05, 14:36:49](https://news.ycombinator.com/item?id=36601054) - [History of Dogs in Space](https://stacker.com/space/history-dogs-space)
-* [2023-07-05, 13:43:39](https://news.ycombinator.com/item?id=36600370) - [‘Mind-boggling’ palm that flowers and fruits underground thrills scientists](https://www.theguardian.com/environment/2023/jun/27/mind-boggling-palm-that-flowers-and-fruits-underground-thrills-scientists)
 * [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
 * [2023-07-05, 09:31:15](https://news.ycombinator.com/item?id=36597916) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 07:17:10](https://news.ycombinator.com/item?id=36596750) - [Ask HN: What boosted your confidence as a new programmer?](https://news.ycombinator.com/item?id=36596750)
@@ -29,7 +30,6 @@
 * [2023-07-04, 09:22:39](https://news.ycombinator.com/item?id=36584180) - [Encyclopaedia Metallum](https://www.metal-archives.com/)
 * [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
-* [2023-07-04, 02:07:20](https://news.ycombinator.com/item?id=36581310) - [How Lee Valley built a cult-like following](https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/)
 
 ## [Archives](archives/index.md)
 
