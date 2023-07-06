@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
+* [2023-07-06, 15:04:44](https://news.ycombinator.com/item?id=36617126) - [Threads Surpasses 30M Signups](https://www.threads.net/t/CuXCjGVrd6R)
 * [2023-07-06, 14:50:29](https://news.ycombinator.com/item?id=36616841) - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
 * [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 * [2023-07-06, 14:34:41](https://news.ycombinator.com/item?id=36616491) - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)

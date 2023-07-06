@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
+* [2023-07-06, 15:04:44](https://news.ycombinator.com/item?id=36617126) - [Threads Surpasses 30M Signups](https://www.threads.net/t/CuXCjGVrd6R)
 * [2023-07-06, 14:50:29](https://news.ycombinator.com/item?id=36616841) - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
 * [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 * [2023-07-06, 14:34:41](https://news.ycombinator.com/item?id=36616491) - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
@@ -11,7 +12,6 @@
 * [2023-07-06, 13:58:46](https://news.ycombinator.com/item?id=36615849) - [Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
 * [2023-07-06, 13:48:07](https://news.ycombinator.com/item?id=36615691) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 12:45:20](https://news.ycombinator.com/item?id=36614924) - [DigitalOcean acquires Paperspace (YC W15) for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
-* [2023-07-06, 12:37:43](https://news.ycombinator.com/item?id=36614853) - [StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot)
 * [2023-07-06, 12:30:09](https://news.ycombinator.com/item?id=36614788) - [Stop trying to make social networks succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html)
 * [2023-07-06, 12:28:27](https://news.ycombinator.com/item?id=36614774) - [Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
 * [2023-07-06, 12:20:42](https://news.ycombinator.com/item?id=36614687) - [G/O Media Incorporating AI-Generated Content](https://awfulannouncing.com/online-outlets/go-media-ai-content-deadspin-bot-gizmodo.html)
