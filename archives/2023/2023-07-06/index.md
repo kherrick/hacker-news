@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 20:04:05](https://news.ycombinator.com/item?id=36621998) - [Heat Records Broken Across Earth](https://www.nytimes.com/2023/07/06/climate/climate-change-record-heat.html)
 * [2023-07-06, 19:52:56](https://news.ycombinator.com/item?id=36621844) - [Marjorie Taylor Greene no longer member of Freedom Caucus after vote last month](https://www.politico.com/minutes/congress/07-6-2023/mtg-freedom-caucus-ouster/)
+* [2023-07-06, 19:52:13](https://news.ycombinator.com/item?id=36621831) - [Toyota Is Right: We Need More Hybrid Cars and Fewer EVs. Here’s Why](https://www.thedrive.com/features/toyota-is-right-we-need-more-hybrid-cars-and-fewer-evs-heres-why)
 * [2023-07-06, 19:46:05](https://news.ycombinator.com/item?id=36621741) - [Twitter is threatening to sue Meta over Threads [pdf]](https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf)
 * [2023-07-06, 19:35:40](https://news.ycombinator.com/item?id=36621591) - [Don't Join Threads – Make Threads Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
 * [2023-07-06, 19:32:24](https://news.ycombinator.com/item?id=36621526) - [Threads profiles can't be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
@@ -24,6 +26,7 @@
 * [2023-07-06, 17:06:08](https://news.ycombinator.com/item?id=36619187) - [Algeria blocks internet nationwide to prevent cheating during final exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
 * [2023-07-06, 16:44:55](https://news.ycombinator.com/item?id=36618805) - [North America is TOO Expensive and it’s unsustainable [video]](https://www.youtube.com/watch?v=SJA-oJf8pqY)
 * [2023-07-06, 16:37:37](https://news.ycombinator.com/item?id=36618650) - [Canadian judge says thumbs-up emoji amounts to contract acceptance](https://www.theglobeandmail.com/canada/article-farmer-ordered-to-pay-after-judge-says-thumbs-up-emoji-amounts-to/)
+* [2023-07-06, 16:20:46](https://news.ycombinator.com/item?id=36618344) - [Six times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-06, 15:47:31](https://news.ycombinator.com/item?id=36617822) - [USGS estimates at least 45% of U.S. tap water contain forever chemicals](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
 * [2023-07-06, 15:35:41](https://news.ycombinator.com/item?id=36617628) - [“Greedflation” is a nonsense idea](https://www.economist.com/leaders/2023/07/06/greedflation-is-a-nonsense-idea)
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
