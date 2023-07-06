@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 15:35:41](https://news.ycombinator.com/item?id=36617628) - [“Greedflation” is a nonsense idea](https://www.economist.com/leaders/2023/07/06/greedflation-is-a-nonsense-idea)
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
 * [2023-07-06, 14:50:29](https://news.ycombinator.com/item?id=36616841) - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
 * [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
@@ -25,7 +26,6 @@
 * [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 * [2023-07-06, 03:09:56](https://news.ycombinator.com/item?id=36610595) - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
 * [2023-07-06, 02:36:48](https://news.ycombinator.com/item?id=36610343) - [Noctis, the 'No Man's Sky' Forerunner Whose Creator Retreated from the World](https://www.timeextension.com/features/the-making-of-noctis-the-no-mans-sky-forerunner-whose-creator-retreated-from-the-world)
-* [2023-07-06, 01:17:21](https://news.ycombinator.com/item?id=36609641) - [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 * [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-05, 14:53:33](https://news.ycombinator.com/item?id=36601262) - [Debunking the Myth of the National Dish](https://www.atlasobscura.com/articles/national-dish-anya-von-bremzen)
 * [2023-07-05, 13:31:37](https://news.ycombinator.com/item?id=36600219) - [Samuel R. Delany Reimagined Sci-Fi, Sex, and the City](https://www.newyorker.com/magazine/2023/07/10/samuel-r-delany-profile)

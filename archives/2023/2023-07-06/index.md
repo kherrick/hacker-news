@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 15:35:41](https://news.ycombinator.com/item?id=36617628) - [“Greedflation” is a nonsense idea](https://www.economist.com/leaders/2023/07/06/greedflation-is-a-nonsense-idea)
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
 * [2023-07-06, 15:04:44](https://news.ycombinator.com/item?id=36617126) - [Threads Surpasses 30M Signups](https://www.threads.net/t/CuXCjGVrd6R)
 * [2023-07-06, 14:50:29](https://news.ycombinator.com/item?id=36616841) - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
