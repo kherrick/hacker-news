@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 19:52:56](https://news.ycombinator.com/item?id=36621844) - [Marjorie Taylor Greene no longer member of Freedom Caucus after vote last month](https://www.politico.com/minutes/congress/07-6-2023/mtg-freedom-caucus-ouster/)
+* [2023-07-06, 19:46:05](https://news.ycombinator.com/item?id=36621741) - [Twitter is threatening to sue Meta over Threads [pdf]](https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf)
 * [2023-07-06, 19:35:40](https://news.ycombinator.com/item?id=36621591) - [Don't Join Threads – Make Threads Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
+* [2023-07-06, 19:32:24](https://news.ycombinator.com/item?id=36621526) - [Threads profiles can't be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
 * [2023-07-06, 19:12:21](https://news.ycombinator.com/item?id=36621263) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
+* [2023-07-06, 19:06:55](https://news.ycombinator.com/item?id=36621171) - [I'm a paid user of Threads[.com] – No trademark?](https://threads.com/)
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-06, 18:59:53](https://news.ycombinator.com/item?id=36621057) - [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
 * [2023-07-06, 18:54:29](https://news.ycombinator.com/item?id=36620969) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 * [2023-07-06, 18:53:43](https://news.ycombinator.com/item?id=36620954) - [Show HN: Ngnr.club – A link-in-bio service for engineers](https://ngnr.club)
 * [2023-07-06, 18:29:29](https://news.ycombinator.com/item?id=36620608) - [The Distribution of Users’ Computer Skills: Worse Than You Think (2016)](https://www.nngroup.com/articles/computer-skill-levels/)
+* [2023-07-06, 18:19:05](https://news.ycombinator.com/item?id=36620454) - [Tea as Hepatoprotective Agent: A Revisit](https://sci-hub.se/10.1016/b978-0-12-814466-4.00015-x)
 * [2023-07-06, 18:18:49](https://news.ycombinator.com/item?id=36620450) - [Chat with Andreas Kling about Ladybird & developing a new, novel browser engine](https://www.igalia.com/chats/ladybird)
 * [2023-07-06, 18:17:24](https://news.ycombinator.com/item?id=36620434) - [Code Interpreter will be available to all ChatGPT Plus users over the next week](https://twitter.com/OpenAI/status/1677015057316872192)
 * [2023-07-06, 18:15:53](https://news.ycombinator.com/item?id=36620413) - [Physicists generate the first snapshots of fermion pairs](https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706)
