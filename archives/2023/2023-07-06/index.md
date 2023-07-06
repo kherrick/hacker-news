@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 19:12:21](https://news.ycombinator.com/item?id=36621263) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-06, 18:59:53](https://news.ycombinator.com/item?id=36621057) - [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
+* [2023-07-06, 18:54:29](https://news.ycombinator.com/item?id=36620969) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
+* [2023-07-06, 18:53:43](https://news.ycombinator.com/item?id=36620954) - [Show HN: Ngnr.club – A link-in-bio service for engineers](https://ngnr.club)
 * [2023-07-06, 18:29:29](https://news.ycombinator.com/item?id=36620608) - [The Distribution of Users’ Computer Skills: Worse Than You Think (2016)](https://www.nngroup.com/articles/computer-skill-levels/)
 * [2023-07-06, 18:18:49](https://news.ycombinator.com/item?id=36620450) - [Chat with Andreas Kling about Ladybird & developing a new, novel browser engine](https://www.igalia.com/chats/ladybird)
 * [2023-07-06, 18:17:24](https://news.ycombinator.com/item?id=36620434) - [Code Interpreter will be available to all ChatGPT Plus users over the next week](https://twitter.com/OpenAI/status/1677015057316872192)
