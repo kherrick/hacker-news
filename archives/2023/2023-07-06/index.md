@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 17:37:37](https://news.ycombinator.com/item?id=36619758) - [Sacramento Sheriff sharing license plate reader data with anti-abortion states](https://www.sacbee.com/news/politics-government/capitol-alert/article276848586.html)
+* [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
 * [2023-07-06, 17:06:08](https://news.ycombinator.com/item?id=36619187) - [Algeria blocks internet nationwide to prevent cheating during final exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
 * [2023-07-06, 16:44:55](https://news.ycombinator.com/item?id=36618805) - [North America is TOO Expensive and it’s unsustainable [video]](https://www.youtube.com/watch?v=SJA-oJf8pqY)
 * [2023-07-06, 16:37:37](https://news.ycombinator.com/item?id=36618650) - [Canadian judge says thumbs-up emoji amounts to contract acceptance](https://www.theglobeandmail.com/canada/article-farmer-ordered-to-pay-after-judge-says-thumbs-up-emoji-amounts-to/)
