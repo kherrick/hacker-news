@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 22:35:16](https://news.ycombinator.com/item?id=36624172) - [Grumpy Locals Are Sabotaging Cruise and Waymo Robotaxis with Traffic Cones](https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones)
 * [2023-07-06, 22:19:24](https://news.ycombinator.com/item?id=36623991) - [Facebook's Threads is so depressing](https://jogblog.substack.com/p/facebooks-threads-is-so-depressing)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:29:20](https://news.ycombinator.com/item?id=36623348) - [Please don't say just hello in chat](https://nohello.net/en/)
