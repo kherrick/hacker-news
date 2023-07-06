@@ -7,7 +7,7 @@
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 * [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
 * [2023-07-06, 20:34:38](https://news.ycombinator.com/item?id=36622550) - [LXD Moves into Canonical](https://lwn.net/Articles/937369/)
-* [2023-07-06, 20:21:47](https://news.ycombinator.com/item?id=36622274) - [Ubuntu 23.10’s New Software App Will Demote Debs (Apparently)](https://www.omgubuntu.co.uk/2023/07/ubuntu-23-10-new-app-store-deb-support)
+* [2023-07-06, 20:26:18](https://news.ycombinator.com/item?id=36622375) - [Spanish minister proposes €20k ‘universal inheritance’ from age of 18](https://www.theguardian.com/world/2023/jul/05/spanish-minister-proposes-20000-universal-inheritance-from-age-of-18)
 * [2023-07-06, 19:32:24](https://news.ycombinator.com/item?id=36621526) - [Threads profiles can't be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
 * [2023-07-06, 19:12:21](https://news.ycombinator.com/item?id=36621263) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
