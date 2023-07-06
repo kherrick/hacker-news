@@ -54,6 +54,7 @@
 * [2023-07-04, 11:39:51](https://news.ycombinator.com/item?id=36585331) - [The Ancient Roman Secret to Concrete Resilience in Seawater](https://als.lbl.gov/ancient-roman-secret-concrete-resilience-seawater/)
 * [2023-07-04, 11:39:10](https://news.ycombinator.com/item?id=36585327) - [Toyota claims battery breakthrough in potential boost for electric cars](https://www.theguardian.com/business/2023/jul/04/toyota-claims-battery-breakthrough-electric-cars)
 * [2023-07-04, 11:36:59](https://news.ycombinator.com/item?id=36585306) - [The Hypocrisy of Mandatory Diversity Statements](https://www.theatlantic.com/ideas/archive/2023/07/hypocrisy-mandatory-diversity-statements/674611/)
+* [2023-07-04, 10:38:47](https://news.ycombinator.com/item?id=36584809) - [Vector Clocks: So what time is it?](https://distributed-computing-musings.com/2023/04/vector-clocks-so-what-time-is-it/)
 * [2023-07-04, 10:33:38](https://news.ycombinator.com/item?id=36584753) - [A civil rights group is challenging legacy admissions at Harvard University](https://apnews.com/article/legacy-admissions-affirmative-action-colleges-4a4e1191274e91e695e0631ff5156875)
 * [2023-07-04, 10:26:55](https://news.ycombinator.com/item?id=36584692) - [An Architectural Overview of QNX – inside the industry's only true microkernel [pdf]](https://cseweb.ucsd.edu/~voelker/cse221/papers/qnx-paper92.pdf)
 * [2023-07-04, 10:21:02](https://news.ycombinator.com/item?id=36584656) - [Sourcegraph is no longer Open Source](https://github.com/sourcegraph/sourcegraph/blob/main/CHANGELOG.md)
