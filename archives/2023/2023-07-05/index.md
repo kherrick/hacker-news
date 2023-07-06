@@ -12,6 +12,7 @@
 * [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub Profile Achievements](https://github.com/Flet/rejected-github-profile-achievements)
 * [2023-07-05, 21:20:57](https://news.ycombinator.com/item?id=36607323) - [Tabby: A terminal for a more modern age](https://github.com/Eugeny/tabby)
 * [2023-07-05, 21:18:58](https://news.ycombinator.com/item?id=36607292) - [Codereview: Should the Go project stop importing GitHub PRs?](https://github.com/golang/go/discussions/61182)
+* [2023-07-05, 21:03:37](https://news.ycombinator.com/item?id=36607081) - [Cicada: Private on-chain voting using time-lock puzzles](https://a16zcrypto.com/posts/article/building-cicada-private-on-chain-voting-using-time-lock-puzzles/)
 * [2023-07-05, 21:02:39](https://news.ycombinator.com/item?id=36607064) - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 * [2023-07-05, 20:08:10](https://news.ycombinator.com/item?id=36606323) - [The U.S. Copyright Office Requires Libraries to Lie to Users about Fair Use](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
 * [2023-07-05, 19:47:42](https://news.ycombinator.com/item?id=36606078) - [Video: Iranian Navy Warship Fires on Oil Tanker in the Strait of Hormuz](https://news.usni.org/2023/07/05/video-iranian-warship-fires-on-oil-tanker-in-the-strait-of-hormuz)
