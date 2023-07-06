@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
 * [2023-07-06, 04:40:10](https://news.ycombinator.com/item?id=36611356) - [My small, no name company has lost its mind with AI](https://www.teamblind.com/post/My-small-no-name-company-has-completely-lost-its-mind-with-AI-nfqEDfSi)
+* [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – open-source note-taking and to-do application with sync](https://github.com/laurent22/joplin)
 * [2023-07-06, 04:22:12](https://news.ycombinator.com/item?id=36611245) - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 * [2023-07-06, 03:38:53](https://news.ycombinator.com/item?id=36610846) - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 * [2023-07-06, 03:22:31](https://news.ycombinator.com/item?id=36610716) - [Threads hits 5M signups in the first four hours](https://www.threads.net/t/CuVxMmvLNsG)
