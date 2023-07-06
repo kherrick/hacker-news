@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
 * [2023-07-05, 23:49:52](https://news.ycombinator.com/item?id=36608912) - [A Smarter Battle Plan to Protect the Open Social Web](https://www.timothychambers.net/2023/06/23/project-and-the.html)
+* [2023-07-05, 23:47:11](https://news.ycombinator.com/item?id=36608887) - [The ice machine that chills Chicago’s skyscrapers](https://wgntv.com/news/chicago-news/the-ice-machine-that-chills-chicagos-skyscrapers-inside-downtowns-district-cooling-systems/)
 * [2023-07-05, 23:11:57](https://news.ycombinator.com/item?id=36608530) - [Threads Is Now Live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
 * [2023-07-05, 22:07:05](https://news.ycombinator.com/item?id=36607852) - [New aluminum radical battery promises more sustainable power](https://techxplore.com/news/2023-07-aluminum-radical-battery-sustainable-power.html)
 * [2023-07-05, 21:34:25](https://news.ycombinator.com/item?id=36607487) - [My take on the current React and Server Components controversy](https://phryneas.de/react-server-components-controversy)
@@ -34,6 +35,7 @@
 * [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30 years: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)
+* [2023-07-05, 16:16:52](https://news.ycombinator.com/item?id=36602591) - [New study sheds light on the origin of animals](https://www.ox.ac.uk/news/2023-06-28-new-oxford-study-sheds-light-origin-animals)
 * [2023-07-05, 16:16:32](https://news.ycombinator.com/item?id=36602584) - [Show HN: LineSelect, shell utility to interactively select lines in a pipeline](https://github.com/chfritz/lineselect)
 * [2023-07-05, 16:13:26](https://news.ycombinator.com/item?id=36602531) - [Show HN: I made a puzzle game with Three.js](https://www.thomasfriday.com/cuboid/)
 * [2023-07-05, 15:52:23](https://news.ycombinator.com/item?id=36602193) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
@@ -68,6 +70,7 @@
 * [2023-07-05, 10:38:10](https://news.ycombinator.com/item?id=36598407) - [Show HN: Pytheus – Python Prometheus client built with multiprocessing in mind](https://github.com/Llandy3d/pytheus)
 * [2023-07-05, 10:15:15](https://news.ycombinator.com/item?id=36598254) - [The Evolution of the Unix Time-Sharing System by Dennis M. Ritchie [pdf]](https://www.bell-labs.com/usr/dmr/www/hist.pdf)
 * [2023-07-05, 09:48:55](https://news.ycombinator.com/item?id=36598062) - [Ariane 5 User's Manual [pdf]](https://www.arianespace.com/wp-content/uploads/2015/09/Ariane5_users_manual_Issue5_July2011.pdf)
+* [2023-07-05, 09:31:15](https://news.ycombinator.com/item?id=36597916) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-05, 09:03:37](https://news.ycombinator.com/item?id=36597709) - [The hardest part of building software is not coding, it's requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
 * [2023-07-05, 08:39:27](https://news.ycombinator.com/item?id=36597534) - [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
 * [2023-07-05, 08:32:19](https://news.ycombinator.com/item?id=36597460) - [Demoscene accepted as UNESCO cultural heritage in The Netherlands](http://demoscene-the-art-of-coding.net/2023/07/03/unescodemoscene-accepted-as-unesco-cultural-heritage-in-the-netherlands/)

@@ -59,6 +59,7 @@
 * [2023-07-04, 10:19:08](https://news.ycombinator.com/item?id=36584642) - [Why Physicists Tried to Put a Ferret in a Particle Accelerator](https://www.atlasobscura.com/articles/felicia-ferret-particle-accelerator-fermilab)
 * [2023-07-04, 10:16:07](https://news.ycombinator.com/item?id=36584615) - [Passwords Are Fine](https://herman.bearblog.dev/passwords-are-fine/)
 * [2023-07-04, 10:01:06](https://news.ycombinator.com/item?id=36584501) - [The disappointingly ongoing success of WvDial (2009)](https://apenwarr.ca/log/20091224)
+* [2023-07-04, 09:22:39](https://news.ycombinator.com/item?id=36584180) - [Encyclopaedia Metallum](https://www.metal-archives.com/)
 * [2023-07-04, 08:48:26](https://news.ycombinator.com/item?id=36583969) - [GPT-4 is great at infuriating telemarketing scammers](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
 * [2023-07-04, 08:41:16](https://news.ycombinator.com/item?id=36583906) - [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
 * [2023-07-04, 08:19:48](https://news.ycombinator.com/item?id=36583738) - [Terence Tao Uses GPT-4 to Study Mathematics](https://twitter.com/blader/status/1670578014508433410)
