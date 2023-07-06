@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 16:44:55](https://news.ycombinator.com/item?id=36618805) - [North America is TOO Expensive and it’s unsustainable [video]](https://www.youtube.com/watch?v=SJA-oJf8pqY)
 * [2023-07-06, 16:37:37](https://news.ycombinator.com/item?id=36618650) - [Canadian judge says thumbs-up emoji amounts to contract acceptance](https://www.theglobeandmail.com/canada/article-farmer-ordered-to-pay-after-judge-says-thumbs-up-emoji-amounts-to/)
 * [2023-07-06, 15:35:41](https://news.ycombinator.com/item?id=36617628) - [“Greedflation” is a nonsense idea](https://www.economist.com/leaders/2023/07/06/greedflation-is-a-nonsense-idea)
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
@@ -23,6 +24,7 @@
 * [2023-07-06, 13:29:59](https://news.ycombinator.com/item?id=36615454) - [15-20 more federal holidays](https://lindynewsletter.beehiiv.com/p/1520-federal-holidays)
 * [2023-07-06, 13:26:40](https://news.ycombinator.com/item?id=36615401) - [Earth entering ‘uncharted territory’ as heat records quickly shatter](https://www.washingtonpost.com/weather/2023/07/06/earth-record-heat-climate-extremes/)
 * [2023-07-06, 13:18:51](https://news.ycombinator.com/item?id=36615286) - [Responding to “Are bugs and slow delivery ok?”:The blog post I’ve hated the most](https://uselessdevblog.wordpress.com/2023/07/03/responding-to-are-bugs-and-slow-delivery-ok-the-blog-post-that-ive-hated-the-most-ever/)
+* [2023-07-06, 12:55:48](https://news.ycombinator.com/item?id=36615038) - [Single Fire Hydrant Nets NYC $33,000 a Year](https://iquantny.tumblr.com/post/83770853308/update-single-fire-hydrant-nets-nyc-33000-a)
 * [2023-07-06, 12:45:20](https://news.ycombinator.com/item?id=36614924) - [DigitalOcean acquires Paperspace (YC W15) for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
 * [2023-07-06, 12:42:09](https://news.ycombinator.com/item?id=36614897) - [Big Update to OpenBSD's Pfsync](https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2)
 * [2023-07-06, 12:37:43](https://news.ycombinator.com/item?id=36614853) - [StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot)
