@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 03:22:31](https://news.ycombinator.com/item?id=36610716) - [Threads hits 5M signups in the first four hours](https://www.threads.net/t/CuVxMmvLNsG)
 * [2023-07-06, 01:57:21](https://news.ycombinator.com/item?id=36610006) - [Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself](https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/)
 * [2023-07-06, 01:17:21](https://news.ycombinator.com/item?id=36609641) - [Tell HN: Nearly all of Evernote’s remaining staff has been laid off](https://news.ycombinator.com/item?id=36609641)
 * [2023-07-06, 01:15:18](https://news.ycombinator.com/item?id=36609632) - [Threads has passed 2M sign ups in the first 2 hours](https://www.threads.net/t/CuVjWxcJ22Z)
@@ -10,7 +11,6 @@
 * [2023-07-05, 20:08:10](https://news.ycombinator.com/item?id=36606323) - [The U.S. Copyright Office requires libraries to lie about fair use rights](https://scholarlykitchen.sspnet.org/2023/07/05/why-does-the-u-s-copyright-office-require-libraries-to-lie-to-users-about-their-fair-use-rights-they-wont-say/)
 * [2023-07-05, 19:34:55](https://news.ycombinator.com/item?id=36605912) - [Fast](https://patrickcollison.com/fast)
 * [2023-07-05, 19:32:01](https://news.ycombinator.com/item?id=36605869) - [Tell HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
-* [2023-07-05, 19:27:26](https://news.ycombinator.com/item?id=36605806) - [With plugins, GPT-4 posts GitHub issue without being instructed to](https://chat.openai.com/share/ed8044da-22c5-4c5e-ba82-4353f67d553f)
 * [2023-07-05, 19:22:52](https://news.ycombinator.com/item?id=36605730) - [FunctionTrace: Graphical Python Profiler](https://functiontrace.com)
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News user blogroll](https://dm.hn)
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
