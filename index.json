@@ -1,12 +1,82 @@
 [
   [
     [
+      "2023-07-06, 12:45:20",
+      "https://news.ycombinator.com/item?id=36614924"
+    ],
+    [
+      "DigitalOcean acquires Paperspace (YC W15) for $111M in cash",
+      "https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 12:42:09",
+      "https://news.ycombinator.com/item?id=36614897"
+    ],
+    [
+      "Big Update to OpenBSD's Pfsync",
+      "https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 12:37:43",
+      "https://news.ycombinator.com/item?id=36614853"
+    ],
+    [
+      "StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability",
+      "https://github.com/lrh2000/StackRot"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 12:30:09",
+      "https://news.ycombinator.com/item?id=36614788"
+    ],
+    [
+      "Stop Trying to Make Social Networks Succeed",
+      "https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 12:20:42",
+      "https://news.ycombinator.com/item?id=36614687"
+    ],
+    [
+      "G/O Media Incorporating AI-Generated Content",
+      "https://awfulannouncing.com/online-outlets/go-media-ai-content-deadspin-bot-gizmodo.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 12:19:39",
+      "https://news.ycombinator.com/item?id=36614678"
+    ],
+    [
+      "Judge rules White House pressured social networks to “suppress free speech”",
+      "https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 12:01:18",
       "https://news.ycombinator.com/item?id=36614512"
     ],
     [
       "UpCodes (YC S17) is hiring engineers to automate building code compliance",
       "https://up.codes/careers"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 11:38:14",
+      "https://news.ycombinator.com/item?id=36614318"
+    ],
+    [
+      "Instagram Threads passes 10M users in seven hours",
+      "https://www.threads.net/t/CuWGPjwrfq9/?igshid=NTc4MTIwNjQ2YQ=="
     ]
   ],
   [
@@ -61,16 +131,6 @@
   ],
   [
     [
-      "2023-07-06, 06:44:35",
-      "https://news.ycombinator.com/item?id=36612190"
-    ],
-    [
-      "Goravel, Web framework inspired from Laravel in Golang",
-      "https://github.com/goravel/goravel"
-    ]
-  ],
-  [
-    [
       "2023-07-06, 04:40:03",
       "https://news.ycombinator.com/item?id=36611355"
     ],
@@ -121,32 +181,12 @@
   ],
   [
     [
-      "2023-07-06, 01:57:21",
-      "https://news.ycombinator.com/item?id=36610006"
-    ],
-    [
-      "Wash trading gone wrong – how a $100M/day crypto exchange bankrupted itself",
-      "https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/"
-    ]
-  ],
-  [
-    [
       "2023-07-06, 01:17:21",
       "https://news.ycombinator.com/item?id=36609641"
     ],
     [
       "Tell HN: Nearly all of Evernote’s remaining staff has been laid off",
       "https://news.ycombinator.com/item?id=36609641"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 01:04:21",
-      "https://news.ycombinator.com/item?id=36609560"
-    ],
-    [
-      "Ban on recording without consent is unconstitutional, US court rules",
-      "https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt"
     ]
   ],
   [
@@ -167,16 +207,6 @@
     [
       "Show HN: Hacker News user blogroll",
       "https://dm.hn"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 18:40:04",
-      "https://news.ycombinator.com/item?id=36605085"
-    ],
-    [
-      "The Overflowing Brain: Information overload and the limits of working memory",
-      "https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html"
     ]
   ],
   [
@@ -217,16 +247,6 @@
     [
       "Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery",
       "https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 08:39:27",
-      "https://news.ycombinator.com/item?id=36597534"
-    ],
-    [
-      "PhD Simulator",
-      "https://research.wmz.ninja/projects/phd/index.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Raylib – A simple and easy-to-use library to enjoy video games programming",
       "https://github.com/raysan5/raylib"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 07:31:31",
-      "https://news.ycombinator.com/item?id=36583419"
-    ],
-    [
-      "Ask HN: Any hardware startups here?",
-      "https://news.ycombinator.com/item?id=36583419"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 02:07:20",
-      "https://news.ycombinator.com/item?id=36581310"
-    ],
-    [
-      "How Lee Valley built a cult-like following",
-      "https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/"
     ]
   ]
 ]
