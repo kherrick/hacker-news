@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-06, 15:23:21",
+      "https://news.ycombinator.com/item?id=36617433"
+    ],
+    [
+      "PlanetScale Scaler Pro",
+      "https://planetscale.com/blog/announcing-scaler-pro"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 14:50:29",
       "https://news.ycombinator.com/item?id=36616841"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2023-07-06, 14:08:56",
-      "https://news.ycombinator.com/item?id=36616032"
-    ],
-    [
-      "Americans Have Quit Quitting Their Jobs",
-      "https://www.wsj.com/articles/americans-have-quit-quitting-their-jobs-4feda9bb"
-    ]
-  ],
-  [
-    [
       "2023-07-06, 14:08:23",
       "https://news.ycombinator.com/item?id=36616023"
     ],
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-07-06, 13:54:16",
-      "https://news.ycombinator.com/item?id=36615784"
-    ],
-    [
-      "GTA Online Fans Furious as 180+ Cars Are Removed, Some Now Paywalled",
-      "https://kotaku.com/gta-online-update-removed-cars-full-list-paywall-gta-1850535019"
-    ]
-  ],
-  [
-    [
       "2023-07-06, 13:48:07",
       "https://news.ycombinator.com/item?id=36615691"
     ],
@@ -117,6 +107,16 @@
     [
       "DigitalOcean acquires Paperspace (YC W15) for $111M in cash",
       "https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 12:37:43",
+      "https://news.ycombinator.com/item?id=36614853"
+    ],
+    [
+      "StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability",
+      "https://github.com/lrh2000/StackRot"
     ]
   ],
   [
