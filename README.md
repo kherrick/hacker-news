@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 22:19:24](https://news.ycombinator.com/item?id=36623991) - [Facebook's Threads is so depressing](https://jogblog.substack.com/p/facebooks-threads-is-so-depressing)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:13:31](https://news.ycombinator.com/item?id=36623146) - [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
 * [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
@@ -27,7 +28,6 @@
 * [2023-07-06, 12:01:18](https://news.ycombinator.com/item?id=36614512) - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
 * [2023-07-06, 09:47:53](https://news.ycombinator.com/item?id=36613543) - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
 * [2023-07-06, 08:17:00](https://news.ycombinator.com/item?id=36612835) - [Backend of Meta Threads is built with Python 3.10](https://twitter.com/llanga/status/1676846870520291329)
-* [2023-07-06, 07:02:42](https://news.ycombinator.com/item?id=36612306) - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 * [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 
