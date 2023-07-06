@@ -2,6 +2,7 @@
 
 * [2023-07-06, 07:48:05](https://news.ycombinator.com/item?id=36612615) - [Threads has 10M sign ups in seven hours](https://www.threads.net/t/CuWGPjwrfq9)
 * [2023-07-06, 07:22:11](https://news.ycombinator.com/item?id=36612434) - [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
+* [2023-07-06, 07:22:10](https://news.ycombinator.com/item?id=36612433) - [Ask HN: Great audio-only YouTube channels to listen while doing chores?](https://news.ycombinator.com/item?id=36612433)
 * [2023-07-06, 07:02:42](https://news.ycombinator.com/item?id=36612306) - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 * [2023-07-06, 07:02:16](https://news.ycombinator.com/item?id=36612300) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
 * [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
@@ -22,7 +23,6 @@
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:16:52](https://news.ycombinator.com/item?id=36602591) - [New study sheds light on the origin of animals](https://www.ox.ac.uk/news/2023-06-28-new-oxford-study-sheds-light-origin-animals)
-* [2023-07-05, 14:36:49](https://news.ycombinator.com/item?id=36601054) - [History of Dogs in Space](https://stacker.com/space/history-dogs-space)
 * [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
 * [2023-07-05, 09:31:15](https://news.ycombinator.com/item?id=36597916) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2023-07-04, 15:03:32](https://news.ycombinator.com/item?id=36587619) - [Ode to the Quick Computer](https://www.robinsloan.com/newsletters/feeling-of-something-waiting-there-for-you/)
