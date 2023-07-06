@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 19:35:40](https://news.ycombinator.com/item?id=36621591) - [Don't Join Threads – Make Threads Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
 * [2023-07-06, 19:12:21](https://news.ycombinator.com/item?id=36621263) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-06, 18:59:53](https://news.ycombinator.com/item?id=36621057) - [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
