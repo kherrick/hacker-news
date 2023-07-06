@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 20:08:36](https://news.ycombinator.com/item?id=36622048) - [Ubuntu Plans to Ditch Its ‘Minimal’ Install Option](https://www.omgubuntu.co.uk/2023/07/ubuntu-new-unified-install-plans-sound-meh)
 * [2023-07-06, 20:04:05](https://news.ycombinator.com/item?id=36621998) - [Heat Records Broken Across Earth](https://www.nytimes.com/2023/07/06/climate/climate-change-record-heat.html)
 * [2023-07-06, 19:52:56](https://news.ycombinator.com/item?id=36621844) - [Marjorie Taylor Greene no longer member of Freedom Caucus after vote last month](https://www.politico.com/minutes/congress/07-6-2023/mtg-freedom-caucus-ouster/)
 * [2023-07-06, 19:52:13](https://news.ycombinator.com/item?id=36621831) - [Toyota Is Right: We Need More Hybrid Cars and Fewer EVs. Here’s Why](https://www.thedrive.com/features/toyota-is-right-we-need-more-hybrid-cars-and-fewer-evs-heres-why)
