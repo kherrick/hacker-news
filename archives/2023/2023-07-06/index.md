@@ -7,6 +7,7 @@
 * [2023-07-06, 21:13:31](https://news.ycombinator.com/item?id=36623146) - [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
 * [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
+* [2023-07-06, 20:58:32](https://news.ycombinator.com/item?id=36622922) - [Sex workers worry that Threads could kill their business](https://www.fastcompany.com/90920031/sex-workers-worry-that-threads-could-kill-their-business)
 * [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
 * [2023-07-06, 20:21:47](https://news.ycombinator.com/item?id=36622274) - [Ubuntu 23.10’s New Software App Will Demote Debs (Apparently)](https://www.omgubuntu.co.uk/2023/07/ubuntu-23-10-new-app-store-deb-support)
 * [2023-07-06, 20:08:36](https://news.ycombinator.com/item?id=36622048) - [Ubuntu Plans to Ditch Its ‘Minimal’ Install Option](https://www.omgubuntu.co.uk/2023/07/ubuntu-new-unified-install-plans-sound-meh)
