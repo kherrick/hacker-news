@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-06, 08:52:49",
+      "https://news.ycombinator.com/item?id=36613106"
+    ],
+    [
+      "Web servers should refuse requests for random, unnecessary URLs",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 07:22:11",
       "https://news.ycombinator.com/item?id=36612434"
     ],
@@ -221,12 +231,12 @@
   ],
   [
     [
-      "2023-07-05, 16:16:52",
-      "https://news.ycombinator.com/item?id=36602591"
+      "2023-07-05, 13:37:16",
+      "https://news.ycombinator.com/item?id=36600276"
     ],
     [
-      "New study sheds light on the origin of animals",
-      "https://www.ox.ac.uk/news/2023-06-28-new-oxford-study-sheds-light-origin-animals"
+      "Centauri: Practical Rowhammer Fingerprinting",
+      "https://arxiv.org/abs/2307.00143"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Raylib – A simple and easy-to-use library to enjoy video games programming",
       "https://github.com/raysan5/raylib"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 07:31:31",
-      "https://news.ycombinator.com/item?id=36583419"
-    ],
-    [
-      "Ask HN: Any hardware startups here?",
-      "https://news.ycombinator.com/item?id=36583419"
     ]
   ],
   [
