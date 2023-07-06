@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-06, 17:06:08](https://news.ycombinator.com/item?id=36619187) - [Algeria blocks internet nationwide to prevent cheating during final exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
+* [2023-07-06, 15:47:31](https://news.ycombinator.com/item?id=36617822) - [USGS estimates at least 45% of U.S. tap water contain forever chemicals](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
 * [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [Lego building instructions](https://archive.org/details/lego-set-instructions)
@@ -27,7 +28,6 @@
 * [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-05, 14:53:33](https://news.ycombinator.com/item?id=36601262) - [Debunking the Myth of the National Dish](https://www.atlasobscura.com/articles/national-dish-anya-von-bremzen)
 * [2023-07-05, 13:31:37](https://news.ycombinator.com/item?id=36600219) - [Samuel R. Delany Reimagined Sci-Fi, Sex, and the City](https://www.newyorker.com/magazine/2023/07/10/samuel-r-delany-profile)
-* [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
 * [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 * [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
 
