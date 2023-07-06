@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-06, 09:47:53",
+      "https://news.ycombinator.com/item?id=36613543"
+    ],
+    [
+      "/Uses: A list of /uses pages detailing developer setups, gear, software, configs",
+      "https://uses.tech"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 08:57:02",
       "https://news.ycombinator.com/item?id=36613144"
     ],
@@ -17,6 +27,26 @@
     [
       "Web servers should refuse requests for random, unnecessary URLs",
       "https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 08:17:00",
+      "https://news.ycombinator.com/item?id=36612835"
+    ],
+    [
+      "Back end of Meta Threads is built with Python 3.10 with some interesting tweaks",
+      "https://twitter.com/llanga/status/1676846870520291329"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 07:22:11",
+      "https://news.ycombinator.com/item?id=36612434"
+    ],
+    [
+      "Meta will nuke your Instagram account if you delete Threads profile",
+      "https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2023-07-05, 23:47:11",
-      "https://news.ycombinator.com/item?id=36608887"
-    ],
-    [
-      "The ice machine that chills Chicago’s skyscrapers",
-      "https://wgntv.com/news/chicago-news/the-ice-machine-that-chills-chicagos-skyscrapers-inside-downtowns-district-cooling-systems/"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 21:30:09",
       "https://news.ycombinator.com/item?id=36607439"
     ],
@@ -187,16 +207,6 @@
     [
       "Show HN: Hacker News user blogroll",
       "https://dm.hn"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 18:40:04",
-      "https://news.ycombinator.com/item?id=36605085"
-    ],
-    [
-      "The Overflowing Brain: Information overload and the limits of working memory",
-      "https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Raylib – A simple and easy-to-use library to enjoy video games programming",
       "https://github.com/raysan5/raylib"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 07:31:31",
-      "https://news.ycombinator.com/item?id=36583419"
-    ],
-    [
-      "Ask HN: Any hardware startups here?",
-      "https://news.ycombinator.com/item?id=36583419"
     ]
   ],
   [
