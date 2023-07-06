@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – open-source note-taking and to-do application with sync](https://github.com/laurent22/joplin)
+* [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 * [2023-07-06, 04:22:12](https://news.ycombinator.com/item?id=36611245) - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 * [2023-07-06, 03:38:53](https://news.ycombinator.com/item?id=36610846) - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
 * [2023-07-06, 03:09:56](https://news.ycombinator.com/item?id=36610595) - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
