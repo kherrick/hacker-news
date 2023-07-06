@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36614897"
     ],
     [
-      "Big Update to OpenBSD's Pfsync",
+      "Big Update to OpenBSD's pfsync",
       "https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2"
     ]
   ],
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2023-07-06, 11:38:14",
-      "https://news.ycombinator.com/item?id=36614318"
-    ],
-    [
-      "Instagram Threads passes 10M users in seven hours",
-      "https://www.threads.net/t/CuWGPjwrfq9/?igshid=NTc4MTIwNjQ2YQ=="
-    ]
-  ],
-  [
-    [
       "2023-07-06, 11:11:25",
       "https://news.ycombinator.com/item?id=36614114"
     ],
@@ -107,16 +97,6 @@
     [
       "Declarative Enhancement for HTML",
       "https://twinspark.js.org/"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 08:17:00",
-      "https://news.ycombinator.com/item?id=36612835"
-    ],
-    [
-      "Back end of Meta Threads is built with Python 3.10 with some interesting tweaks",
-      "https://twitter.com/llanga/status/1676846870520291329"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2023-07-06, 01:04:21",
+      "https://news.ycombinator.com/item?id=36609560"
+    ],
+    [
+      "Ban on recording without consent is unconstitutional, US court rules",
+      "https://www.documentcloud.org/documents/23867036-appeals-court-ruling-in-project-veritas-v-schmidt"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 21:03:37",
       "https://news.ycombinator.com/item?id=36607081"
     ],
@@ -227,6 +217,16 @@
     [
       "Why is desalination so difficult?",
       "https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult"
+    ]
+  ],
+  [
+    [
+      "2023-07-05, 14:03:01",
+      "https://news.ycombinator.com/item?id=36600639"
+    ],
+    [
+      "My Kind of REPL",
+      "https://ianthehenry.com/posts/my-kind-of-repl/"
     ]
   ],
   [
