@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
 * [2023-07-06, 18:29:29](https://news.ycombinator.com/item?id=36620608) - [The Distribution of Users’ Computer Skills: Worse Than You Think (2016)](https://www.nngroup.com/articles/computer-skill-levels/)
+* [2023-07-06, 18:18:49](https://news.ycombinator.com/item?id=36620450) - [Chat with Andreas Kling about Ladybird & developing a new, novel browser engine](https://www.igalia.com/chats/ladybird)
 * [2023-07-06, 18:15:53](https://news.ycombinator.com/item?id=36620413) - [Physicists generate the first snapshots of fermion pairs](https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706)
 * [2023-07-06, 17:37:37](https://news.ycombinator.com/item?id=36619758) - [Sacramento Sheriff sharing license plate reader data with anti-abortion states](https://www.sacbee.com/news/politics-government/capitol-alert/article276848586.html)
 * [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
