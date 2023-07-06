@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-05](index.md)
 
+* [2023-07-05, 23:49:52](https://news.ycombinator.com/item?id=36608912) - [A Smarter Battle Plan to Protect the Open Social Web](https://www.timothychambers.net/2023/06/23/project-and-the.html)
 * [2023-07-05, 23:11:57](https://news.ycombinator.com/item?id=36608530) - [Threads Is Now Live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
 * [2023-07-05, 22:07:05](https://news.ycombinator.com/item?id=36607852) - [New aluminum radical battery promises more sustainable power](https://techxplore.com/news/2023-07-aluminum-radical-battery-sustainable-power.html)
 * [2023-07-05, 21:34:25](https://news.ycombinator.com/item?id=36607487) - [My take on the current React and Server Components controversy](https://phryneas.de/react-server-components-controversy)

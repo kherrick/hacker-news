@@ -82,6 +82,7 @@
 * [2023-07-04, 03:58:36](https://news.ycombinator.com/item?id=36582064) - [A user-friendly platform for virtual exploration of chemical reactions](https://phys.org/news/2023-06-user-friendly-platform-virtual-exploration-chemical.html)
 * [2023-07-04, 03:17:59](https://news.ycombinator.com/item?id=36581770) - [Construction Time Again: The quality crisis in American building](https://thebaffler.com/salvos/construction-time-again-sisson)
 * [2023-07-04, 02:40:07](https://news.ycombinator.com/item?id=36581546) - [Threads.net](https://www.threads.net/)
+* [2023-07-04, 02:07:20](https://news.ycombinator.com/item?id=36581310) - [How Lee Valley built a cult-like following](https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/)
 * [2023-07-04, 02:06:16](https://news.ycombinator.com/item?id=36581304) - [The Text Editor Sam by Rob Pike](http://sam.cat-v.org)
 * [2023-07-04, 01:57:54](https://news.ycombinator.com/item?id=36581241) - [Ask HN: Good Books on the History of Technology?](https://news.ycombinator.com/item?id=36581241)
 * [2023-07-04, 01:53:52](https://news.ycombinator.com/item?id=36581208) - [Effective Git as a Solo Developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
