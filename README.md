@@ -7,6 +7,7 @@
 * [2023-07-06, 14:08:56](https://news.ycombinator.com/item?id=36616032) - [Americans Have Quit Quitting Their Jobs](https://www.wsj.com/articles/americans-have-quit-quitting-their-jobs-4feda9bb)
 * [2023-07-06, 14:08:23](https://news.ycombinator.com/item?id=36616023) - [Fastmail 30 June outage post-mortem](https://www.fastmail.com/blog/partial-outage-on-30-june-2023/)
 * [2023-07-06, 14:05:09](https://news.ycombinator.com/item?id=36615965) - [A gigantic landslide shows the limit to how high mountains can grow](https://www.economist.com/science-and-technology/2023/07/06/a-gigantic-landslide-shows-the-limit-to-how-high-mountains-can-grow)
+* [2023-07-06, 13:58:46](https://news.ycombinator.com/item?id=36615849) - [Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
 * [2023-07-06, 13:48:07](https://news.ycombinator.com/item?id=36615691) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 12:45:20](https://news.ycombinator.com/item?id=36614924) - [DigitalOcean acquires Paperspace (YC W15) for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
 * [2023-07-06, 12:42:09](https://news.ycombinator.com/item?id=36614897) - [Big Update to OpenBSD's pfsync](https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2)
@@ -27,7 +28,6 @@
 * [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-05, 15:27:52](https://news.ycombinator.com/item?id=36601758) - [Are you living an AND life or an OR life?](https://alanakirk.substack.com/p/are-you-living-an-and-life-or-an)
 * [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
-* [2023-07-04, 10:38:47](https://news.ycombinator.com/item?id=36584809) - [Vector Clocks: So what time is it?](https://distributed-computing-musings.com/2023/04/vector-clocks-so-what-time-is-it/)
 * [2023-07-04, 09:22:39](https://news.ycombinator.com/item?id=36584180) - [Encyclopaedia Metallum](https://www.metal-archives.com/)
 * [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
 
