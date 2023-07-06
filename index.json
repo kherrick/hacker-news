@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-06, 08:57:02",
+      "https://news.ycombinator.com/item?id=36613144"
+    ],
+    [
+      "Declarative Enhancement for HTML",
+      "https://twinspark.js.org/"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 07:48:05",
       "https://news.ycombinator.com/item?id=36612615"
     ],
@@ -37,6 +47,16 @@
     [
       "SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev",
       "https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 06:44:35",
+      "https://news.ycombinator.com/item?id=36612190"
+    ],
+    [
+      "Goravel, Web framework inspired from Laravel in Golang",
+      "https://github.com/goravel/goravel"
     ]
   ],
   [
@@ -201,6 +221,16 @@
   ],
   [
     [
+      "2023-07-05, 16:52:41",
+      "https://news.ycombinator.com/item?id=36603163"
+    ],
+    [
+      "Mid-1990s Sega document leak shows how it lost the second console war to Sony",
+      "https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/"
+    ]
+  ],
+  [
+    [
       "2023-07-05, 16:37:46",
       "https://news.ycombinator.com/item?id=36602909"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2023-07-05, 16:16:52",
-      "https://news.ycombinator.com/item?id=36602591"
-    ],
-    [
-      "New study sheds light on the origin of animals",
-      "https://www.ox.ac.uk/news/2023-06-28-new-oxford-study-sheds-light-origin-animals"
-    ]
-  ],
-  [
-    [
       "2023-07-05, 13:28:56",
       "https://news.ycombinator.com/item?id=36600179"
     ],
     [
       "Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery",
       "https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/"
-    ]
-  ],
-  [
-    [
-      "2023-07-05, 09:31:15",
-      "https://news.ycombinator.com/item?id=36597916"
-    ],
-    [
-      "How can we compare expressive power between two Turing-complete languages?",
-      "https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Raylib – A simple and easy-to-use library to enjoy video games programming",
       "https://github.com/raysan5/raylib"
-    ]
-  ],
-  [
-    [
-      "2023-07-04, 07:31:31",
-      "https://news.ycombinator.com/item?id=36583419"
-    ],
-    [
-      "Ask HN: Any hardware startups here?",
-      "https://news.ycombinator.com/item?id=36583419"
     ]
   ],
   [
