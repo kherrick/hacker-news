@@ -15,6 +15,7 @@
 * [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 * [2023-07-06, 20:58:32](https://news.ycombinator.com/item?id=36622922) - [Sex workers worry that Threads could kill their business](https://www.fastcompany.com/90920031/sex-workers-worry-that-threads-could-kill-their-business)
+* [2023-07-06, 20:46:43](https://news.ycombinator.com/item?id=36622739) - [June’s record-smashing temperatures – in data](https://www.nature.com/articles/d41586-023-02219-y)
 * [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
 * [2023-07-06, 20:34:38](https://news.ycombinator.com/item?id=36622550) - [LXD Moves into Canonical](https://lwn.net/Articles/937369/)
 * [2023-07-06, 20:26:18](https://news.ycombinator.com/item?id=36622375) - [Spanish minister proposes €20k ‘universal inheritance’ from age of 18](https://www.theguardian.com/world/2023/jul/05/spanish-minister-proposes-20000-universal-inheritance-from-age-of-18)
