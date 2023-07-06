@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 13:18:51](https://news.ycombinator.com/item?id=36615286) - [Responding to “Are bugs and slow delivery ok?”:The blog post I’ve hated the most](https://uselessdevblog.wordpress.com/2023/07/03/responding-to-are-bugs-and-slow-delivery-ok-the-blog-post-that-ive-hated-the-most-ever/)
 * [2023-07-06, 12:45:20](https://news.ycombinator.com/item?id=36614924) - [DigitalOcean acquires Paperspace (YC W15) for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
 * [2023-07-06, 12:42:09](https://news.ycombinator.com/item?id=36614897) - [Big Update to OpenBSD's Pfsync](https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2)
 * [2023-07-06, 12:37:43](https://news.ycombinator.com/item?id=36614853) - [StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot)
 * [2023-07-06, 12:30:09](https://news.ycombinator.com/item?id=36614788) - [Stop Trying to Make Social Networks Succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html)
+* [2023-07-06, 12:28:27](https://news.ycombinator.com/item?id=36614774) - [Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
 * [2023-07-06, 12:20:42](https://news.ycombinator.com/item?id=36614687) - [G/O Media Incorporating AI-Generated Content](https://awfulannouncing.com/online-outlets/go-media-ai-content-deadspin-bot-gizmodo.html)
 * [2023-07-06, 12:19:39](https://news.ycombinator.com/item?id=36614678) - [Judge rules White House pressured social networks to “suppress free speech”](https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/)
 * [2023-07-06, 12:01:18](https://news.ycombinator.com/item?id=36614512) - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
