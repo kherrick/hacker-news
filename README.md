@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-06, 08:57:02](https://news.ycombinator.com/item?id=36613144) - [Declarative Enhancement for HTML](https://twinspark.js.org/)
+* [2023-07-06, 08:52:49](https://news.ycombinator.com/item?id=36613106) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-06, 07:22:11](https://news.ycombinator.com/item?id=36612434) - [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
 * [2023-07-06, 07:02:42](https://news.ycombinator.com/item?id=36612306) - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 * [2023-07-06, 07:02:16](https://news.ycombinator.com/item?id=36612300) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
@@ -22,13 +23,12 @@
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
 * [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
-* [2023-07-05, 16:16:52](https://news.ycombinator.com/item?id=36602591) - [New study sheds light on the origin of animals](https://www.ox.ac.uk/news/2023-06-28-new-oxford-study-sheds-light-origin-animals)
+* [2023-07-05, 13:37:16](https://news.ycombinator.com/item?id=36600276) - [Centauri: Practical Rowhammer Fingerprinting](https://arxiv.org/abs/2307.00143)
 * [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
 * [2023-07-04, 15:03:32](https://news.ycombinator.com/item?id=36587619) - [Ode to the Quick Computer](https://www.robinsloan.com/newsletters/feeling-of-something-waiting-there-for-you/)
 * [2023-07-04, 10:38:47](https://news.ycombinator.com/item?id=36584809) - [Vector Clocks: So what time is it?](https://distributed-computing-musings.com/2023/04/vector-clocks-so-what-time-is-it/)
 * [2023-07-04, 09:22:39](https://news.ycombinator.com/item?id=36584180) - [Encyclopaedia Metallum](https://www.metal-archives.com/)
 * [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [Raylib – A simple and easy-to-use library to enjoy video games programming](https://github.com/raysan5/raylib)
-* [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any hardware startups here?](https://news.ycombinator.com/item?id=36583419)
 * [2023-07-04, 02:07:20](https://news.ycombinator.com/item?id=36581310) - [How Lee Valley built a cult-like following](https://www.theglobeandmail.com/business/rob-magazine/article-lee-valley-tools-business-success/)
 
 ## [Archives](archives/index.md)

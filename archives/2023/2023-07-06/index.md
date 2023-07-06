@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
 * [2023-07-06, 08:57:02](https://news.ycombinator.com/item?id=36613144) - [Declarative Enhancement for HTML](https://twinspark.js.org/)
+* [2023-07-06, 08:52:49](https://news.ycombinator.com/item?id=36613106) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-06, 07:48:05](https://news.ycombinator.com/item?id=36612615) - [Threads has 10M sign ups in seven hours](https://www.threads.net/t/CuWGPjwrfq9)
 * [2023-07-06, 07:22:11](https://news.ycombinator.com/item?id=36612434) - [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
 * [2023-07-06, 07:22:10](https://news.ycombinator.com/item?id=36612433) - [Ask HN: Great audio-only YouTube channels to listen while doing chores?](https://news.ycombinator.com/item?id=36612433)
