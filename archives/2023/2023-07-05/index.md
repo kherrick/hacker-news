@@ -42,6 +42,7 @@
 * [2023-07-05, 16:13:26](https://news.ycombinator.com/item?id=36602531) - [Show HN: I made a puzzle game with Three.js](https://www.thomasfriday.com/cuboid/)
 * [2023-07-05, 15:52:23](https://news.ycombinator.com/item?id=36602193) - [Firefox 115 can silently remotely disable my extension on any site](https://lapcatsoftware.com/articles/2023/7/1.html)
 * [2023-07-05, 15:47:11](https://news.ycombinator.com/item?id=36602097) - [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
+* [2023-07-05, 15:27:52](https://news.ycombinator.com/item?id=36601758) - [Are you living an AND life or an OR life?](https://alanakirk.substack.com/p/are-you-living-an-and-life-or-an)
 * [2023-07-05, 15:18:44](https://news.ycombinator.com/item?id=36601622) - [AI weights are not open “source”](https://opencoreventures.com/blog/2023-06-27-ai-weights-are-not-open-source/)
 * [2023-07-05, 15:15:15](https://news.ycombinator.com/item?id=36601570) - [New tool exploits Microsoft Teams bug to send malware to users](https://www.bleepingcomputer.com/news/security/new-tool-exploits-microsoft-teams-bug-to-send-malware-to-users/)
 * [2023-07-05, 15:00:06](https://news.ycombinator.com/item?id=36601361) - [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
