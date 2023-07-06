@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 07:02:16](https://news.ycombinator.com/item?id=36612300) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
 * [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 * [2023-07-06, 04:22:12](https://news.ycombinator.com/item?id=36611245) - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
 * [2023-07-06, 03:38:53](https://news.ycombinator.com/item?id=36610846) - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
@@ -12,7 +13,6 @@
 * [2023-07-05, 21:02:39](https://news.ycombinator.com/item?id=36607064) - [Starting design work in a spreadsheet](https://clearleft.com/thinking/starting-design-work-in-a-spreadsheet)
 * [2023-07-05, 19:34:55](https://news.ycombinator.com/item?id=36605912) - [Fast](https://patrickcollison.com/fast)
 * [2023-07-05, 19:32:01](https://news.ycombinator.com/item?id=36605869) - [Tell HN: People forget that you can stick any data at the end of a bash script](https://news.ycombinator.com/item?id=36605869)
-* [2023-07-05, 19:22:52](https://news.ycombinator.com/item?id=36605730) - [FunctionTrace: Graphical Python Profiler](https://functiontrace.com)
 * [2023-07-05, 19:06:43](https://news.ycombinator.com/item?id=36605493) - [Show HN: Hacker News user blogroll](https://dm.hn)
 * [2023-07-05, 18:40:04](https://news.ycombinator.com/item?id=36605085) - [The Overflowing Brain: Information overload and the limits of working memory](https://tertulia-moderna.blogspot.com/2010/12/overflowing-brain-by-torkel-klingberg.html)
 * [2023-07-05, 17:17:08](https://news.ycombinator.com/item?id=36603573) - [The many ways that digital minds can know – A better way to think about LLMs](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
@@ -20,7 +20,7 @@
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)
 * [2023-07-05, 15:47:11](https://news.ycombinator.com/item?id=36602097) - [Heat Pumps – The Well-Tempered Future of A/Cs](https://spectrum.ieee.org/heat-pump-air-conditioning-alternative)
-* [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
+* [2023-07-05, 14:36:49](https://news.ycombinator.com/item?id=36601054) - [History of Dogs in Space](https://stacker.com/space/history-dogs-space)
 * [2023-07-05, 13:43:39](https://news.ycombinator.com/item?id=36600370) - [‘Mind-boggling’ palm that flowers and fruits underground thrills scientists](https://www.theguardian.com/environment/2023/jun/27/mind-boggling-palm-that-flowers-and-fruits-underground-thrills-scientists)
 * [2023-07-05, 13:28:56](https://news.ycombinator.com/item?id=36600179) - [Watch Baby Octopuses Hatch from a Surprising Deep-Sea Nursery](https://www.scientificamerican.com/article/watch-baby-octopuses-hatch-from-a-surprising-deep-sea-nursery/)
 * [2023-07-05, 09:31:15](https://news.ycombinator.com/item?id=36597916) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
