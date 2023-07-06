@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 17:37:37](https://news.ycombinator.com/item?id=36619758) - [Sacramento Sheriff sharing license plate reader data with anti-abortion states](https://www.sacbee.com/news/politics-government/capitol-alert/article276848586.html)
 * [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
 * [2023-07-06, 17:06:08](https://news.ycombinator.com/item?id=36619187) - [For the sixth year, Algeria blocks internet to prevent cheating during exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
 * [2023-07-06, 15:47:31](https://news.ycombinator.com/item?id=36617822) - [USGS estimates at least 45% of U.S. tap water contain forever chemicals](https://www.usgs.gov/news/national-news-release/tap-water-study-detects-pfas-forever-chemicals-across-us)
@@ -14,7 +15,7 @@
 * [2023-07-06, 12:45:20](https://news.ycombinator.com/item?id=36614924) - [DigitalOcean acquires Paperspace (YC W15) for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
 * [2023-07-06, 12:30:09](https://news.ycombinator.com/item?id=36614788) - [Stop trying to make social networks succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html)
 * [2023-07-06, 12:28:27](https://news.ycombinator.com/item?id=36614774) - [Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
-* [2023-07-06, 12:19:39](https://news.ycombinator.com/item?id=36614678) - [Judge rules White House pressured social networks to “suppress free speech”](https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/)
+* [2023-07-06, 12:19:39](https://news.ycombinator.com/item?id=36614678) - [Injunction issued in case about social media pressure from US Government](https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/)
 * [2023-07-06, 12:01:18](https://news.ycombinator.com/item?id=36614512) - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
 * [2023-07-06, 11:11:25](https://news.ycombinator.com/item?id=36614114) - [Godot 4.1](https://godotengine.org/article/godot-4-1-is-here/)
 * [2023-07-06, 09:47:53](https://news.ycombinator.com/item?id=36613543) - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
@@ -23,7 +24,6 @@
 * [2023-07-06, 07:02:42](https://news.ycombinator.com/item?id=36612306) - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 * [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – An open-source note taking and to-do application with synchronisation](https://github.com/laurent22/joplin)
 * [2023-07-06, 03:38:53](https://news.ycombinator.com/item?id=36610846) - [My Problem with the Four-Document Model](https://www.hillelwayne.com/post/problems-with-the-4doc-model/)
-* [2023-07-06, 03:09:56](https://news.ycombinator.com/item?id=36610595) - [Cloud Backed SQLite](https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki)
 * [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-05, 14:53:33](https://news.ycombinator.com/item?id=36601262) - [Debunking the Myth of the National Dish](https://www.atlasobscura.com/articles/national-dish-anya-von-bremzen)
 * [2023-07-05, 13:31:37](https://news.ycombinator.com/item?id=36600219) - [Samuel R. Delany Reimagined Sci-Fi, Sex, and the City](https://www.newyorker.com/magazine/2023/07/10/samuel-r-delany-profile)
