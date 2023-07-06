@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 17:06:08](https://news.ycombinator.com/item?id=36619187) - [Algeria blocks internet nationwide to prevent cheating during final exams](https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams)
 * [2023-07-06, 16:44:55](https://news.ycombinator.com/item?id=36618805) - [North America is TOO Expensive and it’s unsustainable [video]](https://www.youtube.com/watch?v=SJA-oJf8pqY)
 * [2023-07-06, 16:37:37](https://news.ycombinator.com/item?id=36618650) - [Canadian judge says thumbs-up emoji amounts to contract acceptance](https://www.theglobeandmail.com/canada/article-farmer-ordered-to-pay-after-judge-says-thumbs-up-emoji-amounts-to/)
 * [2023-07-06, 15:35:41](https://news.ycombinator.com/item?id=36617628) - [“Greedflation” is a nonsense idea](https://www.economist.com/leaders/2023/07/06/greedflation-is-a-nonsense-idea)
