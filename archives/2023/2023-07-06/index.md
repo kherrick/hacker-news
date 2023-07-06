@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 23:18:13](https://news.ycombinator.com/item?id=36624667) - [Why Is the U.S. So Good at Killing Pedestrians?](https://freakonomics.com/podcast/why-is-the-u-s-so-good-at-killing-pedestrians/)
+* [2023-07-06, 23:07:49](https://news.ycombinator.com/item?id=36624554) - [Epik Insult on Top of Injury](https://providencepost.com/epik-insult-on-top-of-injury/)
 * [2023-07-06, 22:44:17](https://news.ycombinator.com/item?id=36624294) - [Air France Denied My Delay Compensation, So I Challenged Them and Won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
 * [2023-07-06, 22:35:16](https://news.ycombinator.com/item?id=36624172) - [Grumpy Locals Are Sabotaging Cruise and Waymo Robotaxis with Traffic Cones](https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones)
 * [2023-07-06, 22:19:24](https://news.ycombinator.com/item?id=36623991) - [Facebook's Threads is so depressing](https://jogblog.substack.com/p/facebooks-threads-is-so-depressing)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 23:18:13](https://news.ycombinator.com/item?id=36624667) - [Why Is the U.S. So Good at Killing Pedestrians?](https://freakonomics.com/podcast/why-is-the-u-s-so-good-at-killing-pedestrians/)
+* [2023-07-06, 23:07:49](https://news.ycombinator.com/item?id=36624554) - [Epik Insult on Top of Injury](https://providencepost.com/epik-insult-on-top-of-injury/)
 * [2023-07-06, 22:44:17](https://news.ycombinator.com/item?id=36624294) - [Air France Denied My Delay Compensation, So I Challenged Them and Won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
 * [2023-07-06, 22:35:16](https://news.ycombinator.com/item?id=36624172) - [Grumpy Locals Are Sabotaging Cruise and Waymo Robotaxis with Traffic Cones](https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
@@ -7,7 +9,6 @@
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 * [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
 * [2023-07-06, 20:34:38](https://news.ycombinator.com/item?id=36622550) - [LXD Moves into Canonical](https://lwn.net/Articles/937369/)
-* [2023-07-06, 20:26:18](https://news.ycombinator.com/item?id=36622375) - [Spanish minister proposes €20k ‘universal inheritance’ from age of 18](https://www.theguardian.com/world/2023/jul/05/spanish-minister-proposes-20000-universal-inheritance-from-age-of-18)
 * [2023-07-06, 19:32:24](https://news.ycombinator.com/item?id=36621526) - [Threads profiles can't be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
 * [2023-07-06, 19:12:21](https://news.ycombinator.com/item?id=36621263) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
@@ -28,7 +29,6 @@
 * [2023-07-06, 12:01:18](https://news.ycombinator.com/item?id=36614512) - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
 * [2023-07-06, 09:47:53](https://news.ycombinator.com/item?id=36613543) - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
 * [2023-07-06, 08:17:00](https://news.ycombinator.com/item?id=36612835) - [Backend of Meta Threads is built with Python 3.10](https://twitter.com/llanga/status/1676846870520291329)
-* [2023-07-05, 13:31:37](https://news.ycombinator.com/item?id=36600219) - [Samuel R. Delany Reimagined Sci-Fi, Sex, and the City](https://www.newyorker.com/magazine/2023/07/10/samuel-r-delany-profile)
 * [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 
 ## [Archives](archives/index.md)
