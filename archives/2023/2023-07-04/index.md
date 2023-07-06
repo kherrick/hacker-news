@@ -62,6 +62,7 @@
 * [2023-07-04, 09:22:39](https://news.ycombinator.com/item?id=36584180) - [Encyclopaedia Metallum](https://www.metal-archives.com/)
 * [2023-07-04, 08:48:26](https://news.ycombinator.com/item?id=36583969) - [GPT-4 is great at infuriating telemarketing scammers](https://www.theregister.com/2023/07/03/jolly_roger_telephone_company/)
 * [2023-07-04, 08:41:16](https://news.ycombinator.com/item?id=36583906) - [Companies must stop using Google Analytics](https://www.imy.se/en/news/companies-must-stop-using-google-analytics/)
+* [2023-07-04, 08:20:31](https://news.ycombinator.com/item?id=36583743) - [raylib is a simple and easy-to-use library to enjoy videogames programming](https://github.com/raysan5/raylib)
 * [2023-07-04, 08:19:48](https://news.ycombinator.com/item?id=36583738) - [Terence Tao Uses GPT-4 to Study Mathematics](https://twitter.com/blader/status/1670578014508433410)
 * [2023-07-04, 08:05:29](https://news.ycombinator.com/item?id=36583651) - [CJEU declares Meta's GDPR approach illegal](https://noyb.eu/en/cjeu-declares-metafacebooks-gdpr-approach-largely-illegal)
 * [2023-07-04, 07:31:31](https://news.ycombinator.com/item?id=36583419) - [Ask HN: Any Hardware Startups Here?](https://news.ycombinator.com/item?id=36583419)
