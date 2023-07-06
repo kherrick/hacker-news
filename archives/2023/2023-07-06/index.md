@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 14:50:29](https://news.ycombinator.com/item?id=36616841) - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
+* [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 * [2023-07-06, 14:34:41](https://news.ycombinator.com/item?id=36616491) - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [The Internet Archive has Lego set instructions](https://archive.org/details/lego-set-instructions)
 * [2023-07-06, 14:29:23](https://news.ycombinator.com/item?id=36616390) - [Why your startup needs a podcast](https://accelerateokanagan.com/blog/why-your-startup-needs-a-podcast/)
@@ -12,6 +14,7 @@
 * [2023-07-06, 14:08:23](https://news.ycombinator.com/item?id=36616023) - [Fastmail 30 June outage post-mortem](https://www.fastmail.com/blog/partial-outage-on-30-june-2023/)
 * [2023-07-06, 14:05:09](https://news.ycombinator.com/item?id=36615965) - [A gigantic landslide shows the limit to how high mountains can grow](https://www.economist.com/science-and-technology/2023/07/06/a-gigantic-landslide-shows-the-limit-to-how-high-mountains-can-grow)
 * [2023-07-06, 13:58:46](https://news.ycombinator.com/item?id=36615849) - [Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
+* [2023-07-06, 13:54:16](https://news.ycombinator.com/item?id=36615784) - [GTA Online Fans Furious as 180+ Cars Are Removed, Some Now Paywalled](https://kotaku.com/gta-online-update-removed-cars-full-list-paywall-gta-1850535019)
 * [2023-07-06, 13:48:07](https://news.ycombinator.com/item?id=36615691) - [The case against self-closing tags in HTML](https://jakearchibald.com/2023/against-self-closing-tags-in-html/)
 * [2023-07-06, 13:29:59](https://news.ycombinator.com/item?id=36615454) - [15-20 more federal holidays](https://lindynewsletter.beehiiv.com/p/1520-federal-holidays)
 * [2023-07-06, 13:26:40](https://news.ycombinator.com/item?id=36615401) - [Earth entering ‘uncharted territory’ as heat records quickly shatter](https://www.washingtonpost.com/weather/2023/07/06/earth-record-heat-climate-extremes/)
