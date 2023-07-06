@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-06, 18:18:49",
+      "https://news.ycombinator.com/item?id=36620450"
+    ],
+    [
+      "Chat with Andreas Kling about Ladybird & developing a new, novel browser engine",
+      "https://www.igalia.com/chats/ladybird"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 18:15:53",
       "https://news.ycombinator.com/item?id=36620413"
     ],
@@ -187,16 +197,6 @@
     [
       "/Uses: A list of /uses pages detailing developer setups, gear, software, configs",
       "https://uses.tech"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 08:52:49",
-      "https://news.ycombinator.com/item?id=36613106"
-    ],
-    [
-      "Web servers should refuse requests for random, unnecessary URLs",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally"
     ]
   ],
   [
