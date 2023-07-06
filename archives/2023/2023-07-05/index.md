@@ -53,6 +53,7 @@
 * [2023-07-05, 14:36:49](https://news.ycombinator.com/item?id=36601054) - [History of Dogs in Space](https://stacker.com/space/history-dogs-space)
 * [2023-07-05, 14:32:12](https://news.ycombinator.com/item?id=36601004) - [GPT-4’s secret](https://thealgorithmicbridge.substack.com/p/gpt-4s-secret-has-been-revealed)
 * [2023-07-05, 14:24:53](https://news.ycombinator.com/item?id=36600898) - [Radioactive Fictions: Marie Corelli and the Omnipotence of Thoughts](https://publicdomainreview.org/essay/radioactive-fictions)
+* [2023-07-05, 14:03:01](https://news.ycombinator.com/item?id=36600639) - [My Kind of REPL](https://ianthehenry.com/posts/my-kind-of-repl/)
 * [2023-07-05, 13:48:49](https://news.ycombinator.com/item?id=36600446) - [A Regex Barometer](https://github.com/BurntSushi/rebar)
 * [2023-07-05, 13:48:03](https://news.ycombinator.com/item?id=36600434) - [The secret behind Google Docs and other powerful rich-text editors](https://writer.zohopublic.com/writer/published/djw8l10ba521e51a34c2488530291ebf76dbf)
 * [2023-07-05, 13:43:39](https://news.ycombinator.com/item?id=36600370) - [‘Mind-boggling’ palm that flowers and fruits underground thrills scientists](https://www.theguardian.com/environment/2023/jun/27/mind-boggling-palm-that-flowers-and-fruits-underground-thrills-scientists)
