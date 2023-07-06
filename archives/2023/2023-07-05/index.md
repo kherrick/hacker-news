@@ -32,6 +32,7 @@
 * [2023-07-05, 17:17:08](https://news.ycombinator.com/item?id=36603573) - [The Many Ways That Digital Minds Can Know – A Better Way to Think about LLMs](https://moultano.wordpress.com/2023/06/28/the-many-ways-that-digital-minds-can-know/)
 * [2023-07-05, 17:04:29](https://news.ycombinator.com/item?id=36603382) - [OpenAI: Introducing SuperAlignment](https://openai.com/blog/introducing-superalignment)
 * [2023-07-05, 16:57:51](https://news.ycombinator.com/item?id=36603263) - [Canadian government pulls all advertising, escalating showdown with Meta](https://nationalpost.com/news/canada/canadian-government-suspends-advertising-on-facebook-instagram)
+* [2023-07-05, 16:52:41](https://news.ycombinator.com/item?id=36603163) - [Mid-1990s Sega document leak shows how it lost the second console war to Sony](https://arstechnica.com/gaming/2023/07/mid-1990s-sega-document-leak-shows-how-it-lost-the-second-console-war-to-sony/)
 * [2023-07-05, 16:41:50](https://news.ycombinator.com/item?id=36602970) - [LiteFS Cloud: Distributed SQLite with Managed Backups](https://fly.io/blog/litefs-cloud/)
 * [2023-07-05, 16:37:46](https://news.ycombinator.com/item?id=36602909) - [Why is desalination so difficult?](https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult)
 * [2023-07-05, 16:25:22](https://news.ycombinator.com/item?id=36602709) - [FreeBSD at 30 years: Its secrets to success](https://issue.freebsdfoundation.org/publication/?i=794483&p=24&view=issueViewer&pp=1)

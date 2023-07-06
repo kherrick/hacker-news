@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 08:57:02](https://news.ycombinator.com/item?id=36613144) - [Declarative Enhancement for HTML](https://twinspark.js.org/)
 * [2023-07-06, 07:48:05](https://news.ycombinator.com/item?id=36612615) - [Threads has 10M sign ups in seven hours](https://www.threads.net/t/CuWGPjwrfq9)
 * [2023-07-06, 07:22:11](https://news.ycombinator.com/item?id=36612434) - [Meta will nuke your Instagram account if you delete Threads profile](https://techcrunch.com/2023/07/06/threads-delete-profile-instagram-meta/)
 * [2023-07-06, 07:22:10](https://news.ycombinator.com/item?id=36612433) - [Ask HN: Great audio-only YouTube channels to listen while doing chores?](https://news.ycombinator.com/item?id=36612433)
 * [2023-07-06, 07:02:42](https://news.ycombinator.com/item?id=36612306) - [InternLM – new open source 7B LLM](https://github.com/InternLM/InternLM)
 * [2023-07-06, 07:02:16](https://news.ycombinator.com/item?id=36612300) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring Sr Back End Dev](https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-sr-backend-engineer-go-remote)
+* [2023-07-06, 06:44:35](https://news.ycombinator.com/item?id=36612190) - [Goravel, Web framework inspired from Laravel in Golang](https://github.com/goravel/goravel)
 * [2023-07-06, 04:40:10](https://news.ycombinator.com/item?id=36611356) - [My small, no name company has lost its mind with AI](https://www.teamblind.com/post/My-small-no-name-company-has-completely-lost-its-mind-with-AI-nfqEDfSi)
 * [2023-07-06, 04:40:03](https://news.ycombinator.com/item?id=36611355) - [Joplin – open-source note-taking and to-do application with sync](https://github.com/laurent22/joplin)
 * [2023-07-06, 04:22:12](https://news.ycombinator.com/item?id=36611245) - [Cory Doctorow: Platform Capitalism and the Curse of “Enshittification” [audio]](https://podtail.com/podcast/future-tense-full-program-podcast/cory-doctorow-platform-capitalism-and-the-curse-of/)
