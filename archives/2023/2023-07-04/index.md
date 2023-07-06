@@ -81,6 +81,7 @@
 * [2023-07-04, 04:54:43](https://news.ycombinator.com/item?id=36582385) - [A header-only C implementation of C++ <algorithm>](https://github.com/clibraries/array-algorithms)
 * [2023-07-04, 04:30:27](https://news.ycombinator.com/item?id=36582255) - [SQLite-based databases on the Postgres protocol? Yes we can](https://blog.turso.tech/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65?gi=b00cf93b1837)
 * [2023-07-04, 04:22:56](https://news.ycombinator.com/item?id=36582208) - [Write a Book with Markdown](https://pianomanfrazier.com/post/write-a-book-with-markdown/)
+* [2023-07-04, 04:13:01](https://news.ycombinator.com/item?id=36582149) - [‘Biography of a Phantom’ Review: On Robert Johnson’s Trail](https://www.wsj.com/articles/biography-of-a-phantom-review-on-robert-johnsons-trail-a4c8dd7d)
 * [2023-07-04, 04:07:32](https://news.ycombinator.com/item?id=36582120) - [How the RWKV language model works](https://johanwind.github.io/2023/03/23/rwkv_details.html)
 * [2023-07-04, 04:07:00](https://news.ycombinator.com/item?id=36582117) - [Ask HN: How to do market research for product?](https://news.ycombinator.com/item?id=36582117)
 * [2023-07-04, 04:04:54](https://news.ycombinator.com/item?id=36582107) - [Combinatorial coordinates for the aperiodic Spectre tiling](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-spectre/)
