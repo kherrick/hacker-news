@@ -48,6 +48,7 @@
 * [2023-07-05, 15:00:06](https://news.ycombinator.com/item?id=36601361) - [Microsoft denies data breach, theft of 30M customer accounts](https://www.bleepingcomputer.com/news/security/microsoft-denies-data-breach-theft-of-30-million-customer-accounts/)
 * [2023-07-05, 14:57:07](https://news.ycombinator.com/item?id=36601312) - [Amazon CEO Asks His Hollywood Studio to Explain Its Big Spending](https://www.bloomberg.com/news/newsletters/2023-07-05/amazon-ceo-asks-his-hollywood-studio-to-explain-its-big-spending)
 * [2023-07-05, 14:55:46](https://news.ycombinator.com/item?id=36601290) - [How to foster shoshin](https://psyche.co/guides/how-to-cultivate-shoshin-or-a-beginners-mind)
+* [2023-07-05, 14:53:33](https://news.ycombinator.com/item?id=36601262) - [Debunking the Myth of the National Dish](https://www.atlasobscura.com/articles/national-dish-anya-von-bremzen)
 * [2023-07-05, 14:51:42](https://news.ycombinator.com/item?id=36601236) - [Artificial General Intelligence remains a distant dream despite LLM boom](https://www.theregister.com/2023/07/04/agi_llm_distant_dream/)
 * [2023-07-05, 14:51:22](https://news.ycombinator.com/item?id=36601228) - [Why is there no government-built social media?](https://loeber.substack.com/p/10-why-is-there-no-government-built)
 * [2023-07-05, 14:37:10](https://news.ycombinator.com/item?id=36601059) - [Hacking around the Twitter login idiocy](https://news.ycombinator.com/item?id=36601059)
