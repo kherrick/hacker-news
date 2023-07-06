@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 21:13:31](https://news.ycombinator.com/item?id=36623146) - [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
 * [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 * [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)

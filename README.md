@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-06, 21:13:31](https://news.ycombinator.com/item?id=36623146) - [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
 * [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 * [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
@@ -23,7 +24,6 @@
 * [2023-07-06, 13:58:46](https://news.ycombinator.com/item?id=36615849) - [Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
 * [2023-07-06, 12:28:27](https://news.ycombinator.com/item?id=36614774) - [Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
 * [2023-07-06, 12:01:18](https://news.ycombinator.com/item?id=36614512) - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
-* [2023-07-06, 11:11:25](https://news.ycombinator.com/item?id=36614114) - [Godot 4.1](https://godotengine.org/article/godot-4-1-is-here/)
 * [2023-07-06, 09:47:53](https://news.ycombinator.com/item?id=36613543) - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
 * [2023-07-06, 08:52:49](https://news.ycombinator.com/item?id=36613106) - [Web servers should refuse requests for random, unnecessary URLs](https://utcc.utoronto.ca/~cks/space/blog/web/WebServersShouldServeMinimally)
 * [2023-07-06, 08:17:00](https://news.ycombinator.com/item?id=36612835) - [Backend of Meta Threads is built with Python 3.10](https://twitter.com/llanga/status/1676846870520291329)
