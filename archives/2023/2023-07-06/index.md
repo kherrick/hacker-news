@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-06](index.md)
 
+* [2023-07-06, 12:45:20](https://news.ycombinator.com/item?id=36614924) - [DigitalOcean acquires Paperspace (YC W15) for $111M in cash](https://finance.yahoo.com/news/digitalocean-acquires-paperspace-expand-ai-120000933.html)
+* [2023-07-06, 12:42:09](https://news.ycombinator.com/item?id=36614897) - [Big Update to OpenBSD's Pfsync](https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2)
+* [2023-07-06, 12:37:43](https://news.ycombinator.com/item?id=36614853) - [StackRot (CVE-2023-3269): Linux kernel privilege escalation vulnerability](https://github.com/lrh2000/StackRot)
+* [2023-07-06, 12:30:09](https://news.ycombinator.com/item?id=36614788) - [Stop Trying to Make Social Networks Succeed](https://ploum.net/2023-07-06-stop-trying-to-make-social-networks-succeed.html)
+* [2023-07-06, 12:20:42](https://news.ycombinator.com/item?id=36614687) - [G/O Media Incorporating AI-Generated Content](https://awfulannouncing.com/online-outlets/go-media-ai-content-deadspin-bot-gizmodo.html)
+* [2023-07-06, 12:19:39](https://news.ycombinator.com/item?id=36614678) - [Judge rules White House pressured social networks to “suppress free speech”](https://arstechnica.com/tech-policy/2023/07/judge-rules-white-house-pressured-social-networks-to-suppress-free-speech/)
 * [2023-07-06, 12:01:18](https://news.ycombinator.com/item?id=36614512) - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
+* [2023-07-06, 11:38:14](https://news.ycombinator.com/item?id=36614318) - [Instagram Threads passes 10M users in seven hours](https://www.threads.net/t/CuWGPjwrfq9/?igshid=NTc4MTIwNjQ2YQ==)
 * [2023-07-06, 11:30:46](https://news.ycombinator.com/item?id=36614262) - [Ask HN: Stuck as a developer for 15 years. How to become a manager?](https://news.ycombinator.com/item?id=36614262)
 * [2023-07-06, 11:11:25](https://news.ycombinator.com/item?id=36614114) - [Godot 4.1 Is Released](https://godotengine.org/article/godot-4-1-is-here/)
 * [2023-07-06, 09:47:53](https://news.ycombinator.com/item?id=36613543) - [/Uses: A list of /uses pages detailing developer setups, gear, software, configs](https://uses.tech)
