@@ -16,6 +16,7 @@
 * [2023-07-06, 22:07:08](https://news.ycombinator.com/item?id=36623827) - [More green spaces linked to slower biological aging](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:29:20](https://news.ycombinator.com/item?id=36623348) - [Please don't say just hello in chat](https://nohello.net/en/)
+* [2023-07-06, 21:20:46](https://news.ycombinator.com/item?id=36623237) - [Exit Hector, Again and Again: How Different Translators Reveal the ‘Iliad’ Anew](https://www.nytimes.com/2023/06/28/books/review/iliad-translations.html)
 * [2023-07-06, 21:13:31](https://news.ycombinator.com/item?id=36623146) - [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
 * [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – create colorful visuals for your songs in seconds](https://banger.show)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [“Self-reflecting” AI agents explore like animals](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)

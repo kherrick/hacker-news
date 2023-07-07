@@ -25,7 +25,7 @@
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
 * [2023-07-07, 04:21:42](https://news.ycombinator.com/item?id=36627075) - [Understand (1991)](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
 * [2023-07-07, 00:26:25](https://news.ycombinator.com/item?id=36625302) - [Customers don't want chat bots](https://creativegood.com/blog/23/why-customers-dont-want-chat-bots.html)
-* [2023-07-06, 19:34:16](https://news.ycombinator.com/item?id=36621563) - [Mapping the Materials of the Human Body: The Evelyn Tables (2013)](https://dabrownstein.com/category/evelyn-tables/)
+* [2023-07-06, 21:20:46](https://news.ycombinator.com/item?id=36623237) - [Exit Hector, Again and Again: How Different Translators Reveal the ‘Iliad’ Anew](https://www.nytimes.com/2023/06/28/books/review/iliad-translations.html)
 * [2023-07-06, 14:47:56](https://news.ycombinator.com/item?id=36616798) - [Paint Drip People](https://tidyfirst.substack.com/p/paint-drip-people)
 * [2023-07-06, 04:02:06](https://news.ycombinator.com/item?id=36611073) - [Hold the Line: As telephony grew, so did a workforce of switchboard operators](https://daily.jstor.org/hold-the-line/)
 * [2023-07-06, 02:59:01](https://news.ycombinator.com/item?id=36610524) - [The Tyranny of the Tale](https://www.newyorker.com/magazine/2023/07/10/seduced-by-story-peter-brooks-bewitching-the-modern-mind-christian-salmon-the-story-paradox-jonathan-gottschall-book-review)
