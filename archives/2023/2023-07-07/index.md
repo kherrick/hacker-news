@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
 * [2023-07-07, 08:58:32](https://news.ycombinator.com/item?id=36629085) - [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
+* [2023-07-07, 08:54:25](https://news.ycombinator.com/item?id=36629055) - [Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
 * [2023-07-07, 08:50:31](https://news.ycombinator.com/item?id=36629031) - [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
 * [2023-07-07, 08:50:13](https://news.ycombinator.com/item?id=36629027) - [The Styx Programming Language](https://gitlab.com/styx-lang/styx)
 * [2023-07-07, 08:41:58](https://news.ycombinator.com/item?id=36628976) - [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
