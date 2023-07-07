@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
+* [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
 * [2023-07-07, 18:57:59](https://news.ycombinator.com/item?id=36636738) - [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
 * [2023-07-07, 18:42:03](https://news.ycombinator.com/item?id=36636486) - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
 * [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
@@ -11,7 +13,6 @@
 * [2023-07-07, 16:18:17](https://news.ycombinator.com/item?id=36633995) - [Experiencing decreased performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
-* [2023-07-07, 13:53:57](https://news.ycombinator.com/item?id=36631796) - [Civic honesty around the globe (2019)](https://www.science.org/doi/10.1126/science.aau8712)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP](http://windowsupdaterestored.com/)
 * [2023-07-07, 12:25:06](https://news.ycombinator.com/item?id=36630649) - [Why are there no startups in the real estate construction sector?](https://news.ycombinator.com/item?id=36630649)
 * [2023-07-07, 10:46:22](https://news.ycombinator.com/item?id=36629807) - [Charter schools, social norming and zero-sum games (2010)](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
@@ -24,10 +25,9 @@
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
 * [2023-07-07, 07:05:43](https://news.ycombinator.com/item?id=36628238) - [Escaping High School](https://skunkledger.substack.com/p/escaping-high-school)
+* [2023-07-07, 06:14:59](https://news.ycombinator.com/item?id=36627878) - [The Measurers Measured (2017)](http://seeingscience.umbc.edu/2017/03/seth-barry-watter-the-measurers-measured/)
 * [2023-07-06, 19:34:16](https://news.ycombinator.com/item?id=36621563) - [Mapping the Materials of the Human Body: The Evelyn Tables (2013)](https://dabrownstein.com/category/evelyn-tables/)
 * [2023-07-06, 18:28:18](https://news.ycombinator.com/item?id=36620588) - [The Spirit of Alan Turing (2012)](https://blog.sciencemuseum.org.uk/the-spirit-of-alan-turing/)
-* [2023-07-06, 16:54:57](https://news.ycombinator.com/item?id=36618990) - [Archaean Log or the Autopoiesis of a Prokaryote](https://www.asymptotejournal.com/special-feature/archaean-log-or-the-autopoeisis-of-a-prokaryote-johanna-drucker/)
-* [2023-07-06, 14:47:56](https://news.ycombinator.com/item?id=36616798) - [Paint Drip People](https://tidyfirst.substack.com/p/paint-drip-people)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
 * [2023-07-06, 02:59:01](https://news.ycombinator.com/item?id=36610524) - [The Tyranny of the Tale](https://www.newyorker.com/magazine/2023/07/10/seduced-by-story-peter-brooks-bewitching-the-modern-mind-christian-salmon-the-story-paradox-jonathan-gottschall-book-review)
 
