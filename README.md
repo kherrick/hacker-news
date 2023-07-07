@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 08:41:58](https://news.ycombinator.com/item?id=36628976) - [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
 * [2023-07-07, 08:23:08](https://news.ycombinator.com/item?id=36628809) - [Garbage Collection for MVCC – MyRocks, InnoDB and Postgres](http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html)
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Andreas Kling – Failure is also a habit](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
@@ -7,7 +8,6 @@
 * [2023-07-07, 06:16:35](https://news.ycombinator.com/item?id=36627890) - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
 * [2023-07-07, 06:01:39](https://news.ycombinator.com/item?id=36627800) - [Simulation Testing for Liveness](https://tigerbeetle.com/blog/2023-07-06-simulation-testing-for-liveness/)
 * [2023-07-07, 05:56:53](https://news.ycombinator.com/item?id=36627765) - [WebAssembly and Replayable Functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
-* [2023-07-07, 05:26:08](https://news.ycombinator.com/item?id=36627555) - [Binance execs quit over CEO CZ’s response to Justice Department investigation](https://fortune.com/crypto/2023/07/06/binance-crisis-executives-quit-changpeng-zhao-justice-department/)
 * [2023-07-07, 05:18:54](https://news.ycombinator.com/item?id=36627494) - [Albuquerque Techzonics](http://techzonics.com/)
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
 * [2023-07-07, 04:21:42](https://news.ycombinator.com/item?id=36627075) - [Understand (1991)](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
