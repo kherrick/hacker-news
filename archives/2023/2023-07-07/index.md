@@ -7,6 +7,7 @@
 * [2023-07-07, 16:18:17](https://news.ycombinator.com/item?id=36633995) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 15:25:41](https://news.ycombinator.com/item?id=36633151) - [California strikes deal with engine makers on zero-emissions trucking by 2036](https://www.sacbee.com/news/politics-government/capitol-alert/article277068878.html)
+* [2023-07-07, 14:37:58](https://news.ycombinator.com/item?id=36632397) - [GPU Guide (For AI Use-Cases)](https://gpus.llm-utils.org/the-gpu-guide/)
 * [2023-07-07, 14:32:20](https://news.ycombinator.com/item?id=36632320) - [Charger outages leave northern Ontario EV drivers stranded](https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from Why_ the Lucky Stiff](https://github.com/steveklabnik/CLOSURE)
 * [2023-07-07, 13:53:57](https://news.ycombinator.com/item?id=36631796) - [Civic Honesty Around the Globe](https://www.science.org/doi/10.1126/science.aau8712)

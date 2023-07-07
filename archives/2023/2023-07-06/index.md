@@ -46,6 +46,7 @@
 * [2023-07-06, 18:19:05](https://news.ycombinator.com/item?id=36620454) - [Tea as Hepatoprotective Agent: A Revisit](https://sci-hub.se/10.1016/b978-0-12-814466-4.00015-x)
 * [2023-07-06, 18:18:49](https://news.ycombinator.com/item?id=36620450) - [Chat with Andreas Kling about Ladybird & developing a new, novel browser engine](https://www.igalia.com/chats/ladybird)
 * [2023-07-06, 18:17:24](https://news.ycombinator.com/item?id=36620434) - [Code Interpreter will be available to all ChatGPT Plus users over the next week](https://twitter.com/OpenAI/status/1677015057316872192)
+* [2023-07-06, 18:16:43](https://news.ycombinator.com/item?id=36620426) - [Small banks don’t like high rates](https://www.bloomberg.com/opinion/articles/2023-07-06/small-banks-don-t-like-high-rates)
 * [2023-07-06, 18:15:53](https://news.ycombinator.com/item?id=36620413) - [Physicists generate the first snapshots of fermion pairs](https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706)
 * [2023-07-06, 17:37:37](https://news.ycombinator.com/item?id=36619758) - [Sacramento Sheriff sharing license plate reader data with anti-abortion states](https://www.sacbee.com/news/politics-government/capitol-alert/article276848586.html)
 * [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
