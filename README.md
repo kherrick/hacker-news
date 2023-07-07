@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 04:47:40](https://news.ycombinator.com/item?id=36627272) - [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
+* [2023-07-07, 04:06:31](https://news.ycombinator.com/item?id=36626966) - [French Assembly to allow remote police surveillance via phone cameras and mics](https://www.engadget.com/french-assembly-passes-bill-allowing-police-to-remotely-activate-phone-cameras-and-microphones-for-surveillance-210539401.html)
 * [2023-07-07, 02:43:08](https://news.ycombinator.com/item?id=36626405) - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
 * [2023-07-07, 02:31:31](https://news.ycombinator.com/item?id=36626317) - [The World Might Be Better Off Without College for Everyone (2018)](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
 * [2023-07-07, 02:27:33](https://news.ycombinator.com/item?id=36626277) - [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
@@ -25,10 +27,8 @@
 * [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
 * [2023-07-06, 16:20:46](https://news.ycombinator.com/item?id=36618344) - [{n} times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-06, 15:27:04](https://news.ycombinator.com/item?id=36617504) - [Multi-Layered Calendars](https://julian.digital/2023/07/06/multi-layered-calendars/)
-* [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
 * [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
-* [2023-07-06, 12:28:27](https://news.ycombinator.com/item?id=36614774) - [Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
 * [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 
 ## [Archives](archives/index.md)
