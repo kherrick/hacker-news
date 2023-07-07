@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 21:48:48](https://news.ycombinator.com/item?id=36638752) - [Once hailed for decriminalizing drugs, Portugal is now having doubts](https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/)
+* [2023-07-07, 21:30:42](https://news.ycombinator.com/item?id=36638591) - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 * [2023-07-07, 21:25:46](https://news.ycombinator.com/item?id=36638530) - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
+* [2023-07-07, 21:25:16](https://news.ycombinator.com/item?id=36638525) - [A FactoryFactoryFactory in Production](https://stevenheidel.medium.com/a-factoryfactoryfactory-in-production-822478b5afbd)
 * [2023-07-07, 21:10:52](https://news.ycombinator.com/item?id=36638347) - [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
 * [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
@@ -24,12 +27,9 @@
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP](http://windowsupdaterestored.com/)
-* [2023-07-07, 09:16:51](https://news.ycombinator.com/item?id=36629195) - [Show HN: Mystery-o-matic – A daily murder mystery to solve](https://mystery-o-matic.com/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
-* [2023-07-07, 06:14:59](https://news.ycombinator.com/item?id=36627878) - [The Measurers Measured (2017)](http://seeingscience.umbc.edu/2017/03/seth-barry-watter-the-measurers-measured/)
 * [2023-07-07, 00:19:37](https://news.ycombinator.com/item?id=36625247) - [Webb Telescope detects most distant active supermassive black hole](https://phys.org/news/2023-07-webb-telescope-distant-supermassive-black.html)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
-* [2023-07-06, 03:39:04](https://news.ycombinator.com/item?id=36610847) - [Where be your jibes now?](https://www.lrb.co.uk/the-paper/v45/n14/patricia-lockwood/where-be-your-jibes-now)
 
 ## [Archives](archives/index.md)
 
