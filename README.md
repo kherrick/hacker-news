@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-07, 11:34:36](https://news.ycombinator.com/item?id=36630158) - [A sci-fi short story exploring themes of equality, written by me](https://medium.com/@akshayshinde/ekalavya-4e29aa3c3bda)
+* [2023-07-07, 12:00:55](https://news.ycombinator.com/item?id=36630384) - [Finley (YC W21) is a financial software company hiring for sales and engineering](https://www.finleycms.com/careers/)
 * [2023-07-07, 11:15:28](https://news.ycombinator.com/item?id=36630032) - [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
 * [2023-07-07, 10:57:45](https://news.ycombinator.com/item?id=36629879) - [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
 * [2023-07-07, 10:46:22](https://news.ycombinator.com/item?id=36629807) - [Charter schools, social norming and zero-sum games](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
