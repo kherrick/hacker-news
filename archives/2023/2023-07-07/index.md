@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
 * [2023-07-07, 02:58:50](https://news.ycombinator.com/item?id=36626525) - [DoorDash, Grubhub and Uber sue New York City over minimum wage law](https://www.cnn.com/2023/07/06/business/doordash-grubhub-uber-sue-new-york-minimum-wage-law/index.html)
 * [2023-07-07, 02:43:08](https://news.ycombinator.com/item?id=36626405) - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
 * [2023-07-07, 02:31:31](https://news.ycombinator.com/item?id=36626317) - [The World Might Be Better Off Without College for Everyone (2018)](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
