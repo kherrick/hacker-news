@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
+* [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
+* [2023-07-07, 16:44:07](https://news.ycombinator.com/item?id=36634430) - [Gitlab.com is down](https://status.gitlab.com/)
 * [2023-07-07, 16:18:17](https://news.ycombinator.com/item?id=36633995) - [Experiencing Decreased Performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 15:25:41](https://news.ycombinator.com/item?id=36633151) - [California strikes deal with engine makers on zero-emissions trucking by 2036](https://www.sacbee.com/news/politics-government/capitol-alert/article277068878.html)
@@ -29,6 +32,7 @@
 * [2023-07-07, 10:41:50](https://news.ycombinator.com/item?id=36629777) - [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
 * [2023-07-07, 10:02:47](https://news.ycombinator.com/item?id=36629505) - [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
 * [2023-07-07, 09:32:25](https://news.ycombinator.com/item?id=36629281) - [Every person on the planet should have their own website](https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/)
+* [2023-07-07, 09:16:51](https://news.ycombinator.com/item?id=36629195) - [Show HN: Mystery-o-matic – A daily murder mystery to solve](https://mystery-o-matic.com/)
 * [2023-07-07, 08:58:32](https://news.ycombinator.com/item?id=36629085) - [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
 * [2023-07-07, 08:54:25](https://news.ycombinator.com/item?id=36629055) - [Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
 * [2023-07-07, 08:50:31](https://news.ycombinator.com/item?id=36629031) - [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
