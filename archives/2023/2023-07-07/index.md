@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 21:25:46](https://news.ycombinator.com/item?id=36638530) - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
+* [2023-07-07, 21:10:52](https://news.ycombinator.com/item?id=36638347) - [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
 * [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Godot's Introduction to Math for Game Developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
@@ -99,4 +101,5 @@
 * [2023-07-07, 00:36:24](https://news.ycombinator.com/item?id=36625400) - [Waterwave Could Quench AIs' Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
 * [2023-07-07, 00:26:25](https://news.ycombinator.com/item?id=36625302) - [Why customers don't want chat bots](https://creativegood.com/blog/23/why-customers-dont-want-chat-bots.html)
 * [2023-07-07, 00:22:21](https://news.ycombinator.com/item?id=36625270) - [All the red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
+* [2023-07-07, 00:19:37](https://news.ycombinator.com/item?id=36625247) - [Webb Telescope detects most distant active supermassive black hole](https://phys.org/news/2023-07-webb-telescope-distant-supermassive-black.html)
 * [2023-07-07, 00:07:40](https://news.ycombinator.com/item?id=36625140) - [Attention Caplanites: School Is Less Wasteful Than You Think](https://infovores.substack.com/p/attention-caplanites-school-is-less)

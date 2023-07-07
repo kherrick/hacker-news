@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 21:25:46](https://news.ycombinator.com/item?id=36638530) - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
+* [2023-07-07, 21:10:52](https://news.ycombinator.com/item?id=36638347) - [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
 * [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows 95 tips, tricks, and tweaks (2013)](https://windows95tips.com)
@@ -22,12 +24,10 @@
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP](http://windowsupdaterestored.com/)
-* [2023-07-07, 10:02:47](https://news.ycombinator.com/item?id=36629505) - [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
-* [2023-07-07, 08:58:32](https://news.ycombinator.com/item?id=36629085) - [32“ E Ink screen that displays daily newspapers on your wall (2021)](https://projecteink.com/pages/about)
-* [2023-07-07, 08:54:25](https://news.ycombinator.com/item?id=36629055) - [Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
-* [2023-07-07, 08:50:31](https://news.ycombinator.com/item?id=36629031) - [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
-* [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
+* [2023-07-07, 09:16:51](https://news.ycombinator.com/item?id=36629195) - [Show HN: Mystery-o-matic – A daily murder mystery to solve](https://mystery-o-matic.com/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
+* [2023-07-07, 06:14:59](https://news.ycombinator.com/item?id=36627878) - [The Measurers Measured (2017)](http://seeingscience.umbc.edu/2017/03/seth-barry-watter-the-measurers-measured/)
+* [2023-07-07, 00:19:37](https://news.ycombinator.com/item?id=36625247) - [Webb Telescope detects most distant active supermassive black hole](https://phys.org/news/2023-07-webb-telescope-distant-supermassive-black.html)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
 * [2023-07-06, 03:39:04](https://news.ycombinator.com/item?id=36610847) - [Where be your jibes now?](https://www.lrb.co.uk/the-paper/v45/n14/patricia-lockwood/where-be-your-jibes-now)
 
