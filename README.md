@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
-* [2023-07-07, 18:57:59](https://news.ycombinator.com/item?id=36636738) - [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
-* [2023-07-07, 18:42:03](https://news.ycombinator.com/item?id=36636486) - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
 * [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 * [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
@@ -13,6 +12,7 @@
 * [2023-07-07, 16:18:17](https://news.ycombinator.com/item?id=36633995) - [Experiencing decreased performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
+* [2023-07-07, 13:53:57](https://news.ycombinator.com/item?id=36631796) - [Civic honesty around the globe (2019)](https://www.science.org/doi/10.1126/science.aau8712)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP](http://windowsupdaterestored.com/)
 * [2023-07-07, 12:25:06](https://news.ycombinator.com/item?id=36630649) - [Why are there no startups in the real estate construction sector?](https://news.ycombinator.com/item?id=36630649)
 * [2023-07-07, 10:46:22](https://news.ycombinator.com/item?id=36629807) - [Charter schools, social norming and zero-sum games (2010)](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
