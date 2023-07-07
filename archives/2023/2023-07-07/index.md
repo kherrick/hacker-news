@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
+* [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Factory Factory Factory](https://factoryfactoryfactory.net/)
 * [2023-07-07, 19:51:45](https://news.ycombinator.com/item?id=36637418) - [New discovery toward sugar origami](https://phys.org/news/2023-07-discovery-sugar-origami.html)
 * [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)

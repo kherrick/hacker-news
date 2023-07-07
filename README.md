@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
+* [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Factory Factory Factory](https://factoryfactoryfactory.net/)
 * [2023-07-07, 19:51:45](https://news.ycombinator.com/item?id=36637418) - [New discovery toward sugar origami](https://phys.org/news/2023-07-discovery-sugar-origami.html)
 * [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
@@ -26,10 +28,8 @@
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
 * [2023-07-07, 07:05:43](https://news.ycombinator.com/item?id=36628238) - [Escaping High School](https://skunkledger.substack.com/p/escaping-high-school)
-* [2023-07-06, 19:34:16](https://news.ycombinator.com/item?id=36621563) - [Mapping the Materials of the Human Body: The Evelyn Tables (2013)](https://dabrownstein.com/category/evelyn-tables/)
 * [2023-07-06, 18:28:18](https://news.ycombinator.com/item?id=36620588) - [The Spirit of Alan Turing (2012)](https://blog.sciencemuseum.org.uk/the-spirit-of-alan-turing/)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
-* [2023-07-06, 02:59:01](https://news.ycombinator.com/item?id=36610524) - [The Tyranny of the Tale](https://www.newyorker.com/magazine/2023/07/10/seduced-by-story-peter-brooks-bewitching-the-modern-mind-christian-salmon-the-story-paradox-jonathan-gottschall-book-review)
 
 ## [Archives](archives/index.md)
 
