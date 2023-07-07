@@ -15,6 +15,7 @@
 * [2023-07-06, 22:19:24](https://news.ycombinator.com/item?id=36623991) - [Facebook's Threads is so depressing](https://jogblog.substack.com/p/facebooks-threads-is-so-depressing)
 * [2023-07-06, 22:07:08](https://news.ycombinator.com/item?id=36623827) - [More green spaces linked to slower biological aging](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
+* [2023-07-06, 22:02:52](https://news.ycombinator.com/item?id=36623762) - [Show HN: Matcheroni, a tiny C++20 header library for building lexers/parsers](https://github.com/aappleby/Matcheroni)
 * [2023-07-06, 21:29:20](https://news.ycombinator.com/item?id=36623348) - [Please don't say just hello in chat](https://nohello.net/en/)
 * [2023-07-06, 21:20:46](https://news.ycombinator.com/item?id=36623237) - [Exit Hector, Again and Again: How Different Translators Reveal the ‘Iliad’ Anew](https://www.nytimes.com/2023/06/28/books/review/iliad-translations.html)
 * [2023-07-06, 21:13:31](https://news.ycombinator.com/item?id=36623146) - [Why there are so many cybersecurity vendors and where do we go from here](https://ventureinsecurity.net/p/why-there-are-so-many-cybersecurity)
