@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Godot's Introduction to Math for Game Developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Factory Factory Factory](https://factoryfactoryfactory.net/)
 * [2023-07-07, 20:00:19](https://news.ycombinator.com/item?id=36637533) - [Look Where You're Headed](http://blog.quinefoundation.com/post/look-where-youre-headed)
@@ -15,7 +17,6 @@
 * [2023-07-07, 17:49:05](https://news.ycombinator.com/item?id=36635523) - [FastAPI 0.100.0:Release Notes](https://fastapi.tiangolo.com/release-notes/)
 * [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
 * [2023-07-07, 17:46:13](https://news.ycombinator.com/item?id=36635489) - [Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
-* [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
 * [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
@@ -24,7 +25,6 @@
 * [2023-07-07, 09:39:30](https://news.ycombinator.com/item?id=36629334) - [Show HN: My take on creating personal knowledge platform](https://worldofthis.com/)
 * [2023-07-07, 09:16:51](https://news.ycombinator.com/item?id=36629195) - [Show HN: Mystery-o-matic – A daily murder mystery to solve](https://mystery-o-matic.com/)
 * [2023-07-07, 08:58:32](https://news.ycombinator.com/item?id=36629085) - [32“ E Ink screen that displays daily newspapers on your wall (2021)](https://projecteink.com/pages/about)
-* [2023-07-07, 08:54:25](https://news.ycombinator.com/item?id=36629055) - [Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
 * [2023-07-07, 08:50:31](https://news.ycombinator.com/item?id=36629031) - [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)

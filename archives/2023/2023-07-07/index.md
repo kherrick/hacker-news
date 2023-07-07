@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Godot's Introduction to Math for Game Developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Factory Factory Factory](https://factoryfactoryfactory.net/)
 * [2023-07-07, 20:00:19](https://news.ycombinator.com/item?id=36637533) - [Look Where You're Headed](http://blog.quinefoundation.com/post/look-where-youre-headed)
