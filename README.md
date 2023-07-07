@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-07, 04:47:40](https://news.ycombinator.com/item?id=36627272) - [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
+* [2023-07-07, 04:30:01](https://news.ycombinator.com/item?id=36627147) - [After Vietnam, the Philippines could be next to ban 'Barbie.' Here's why](https://www.npr.org/2023/07/06/1186178724/barbie-movie-philippines-vietnam-china-map)
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
 * [2023-07-07, 04:21:42](https://news.ycombinator.com/item?id=36627075) - [Understand by Ted Chiang](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
 * [2023-07-07, 04:06:31](https://news.ycombinator.com/item?id=36626966) - [French Assembly to allow remote police surveillance via phone cameras and mics](https://www.engadget.com/french-assembly-passes-bill-allowing-police-to-remotely-activate-phone-cameras-and-microphones-for-surveillance-210539401.html)
@@ -22,14 +23,13 @@
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
 * [2023-07-06, 18:59:53](https://news.ycombinator.com/item?id=36621057) - [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
 * [2023-07-06, 18:54:29](https://news.ycombinator.com/item?id=36620969) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
-* [2023-07-06, 18:19:05](https://news.ycombinator.com/item?id=36620454) - [Tea as Hepatoprotective Agent: A Revisit](https://sci-hub.se/10.1016/b978-0-12-814466-4.00015-x)
 * [2023-07-06, 18:18:49](https://news.ycombinator.com/item?id=36620450) - [Chat with Andreas Kling about Ladybird and developing a browser engine](https://www.igalia.com/chats/ladybird)
 * [2023-07-06, 18:15:53](https://news.ycombinator.com/item?id=36620413) - [Physicists generate the first snapshots of fermion pairs](https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706)
 * [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
 * [2023-07-06, 16:20:46](https://news.ycombinator.com/item?id=36618344) - [{n} times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-06, 15:27:04](https://news.ycombinator.com/item?id=36617504) - [Multi-Layered Calendars](https://julian.digital/2023/07/06/multi-layered-calendars/)
-* [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
+* [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 
 ## [Archives](archives/index.md)
 
