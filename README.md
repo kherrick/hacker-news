@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-07, 21:48:48](https://news.ycombinator.com/item?id=36638752) - [Once hailed for decriminalizing drugs, Portugal is now having doubts](https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/)
 * [2023-07-07, 21:30:42](https://news.ycombinator.com/item?id=36638591) - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 * [2023-07-07, 21:25:46](https://news.ycombinator.com/item?id=36638530) - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
 * [2023-07-07, 21:25:16](https://news.ycombinator.com/item?id=36638525) - [A FactoryFactoryFactory in Production](https://stevenheidel.medium.com/a-factoryfactoryfactory-in-production-822478b5afbd)
@@ -27,6 +26,7 @@
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP](http://windowsupdaterestored.com/)
 * [2023-07-07, 09:16:51](https://news.ycombinator.com/item?id=36629195) - [Show HN: Mystery-o-matic – A daily murder mystery to solve](https://mystery-o-matic.com/)
+* [2023-07-07, 06:14:59](https://news.ycombinator.com/item?id=36627878) - [The Measurers Measured (2017)](http://seeingscience.umbc.edu/2017/03/seth-barry-watter-the-measurers-measured/)
 * [2023-07-07, 00:19:37](https://news.ycombinator.com/item?id=36625247) - [Webb Telescope detects most distant active supermassive black hole](https://phys.org/news/2023-07-webb-telescope-distant-supermassive-black.html)
 * [2023-07-06, 22:02:52](https://news.ycombinator.com/item?id=36623762) - [Show HN: Matcheroni, a tiny C++20 header library for building lexers/parsers](https://github.com/aappleby/Matcheroni)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
