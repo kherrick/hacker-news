@@ -6,8 +6,11 @@
 
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Factory Factory Factory](https://factoryfactoryfactory.net/)
+* [2023-07-07, 20:00:19](https://news.ycombinator.com/item?id=36637533) - [Look Where You're Headed](http://blog.quinefoundation.com/post/look-where-youre-headed)
 * [2023-07-07, 19:51:45](https://news.ycombinator.com/item?id=36637418) - [New discovery toward sugar origami](https://phys.org/news/2023-07-discovery-sugar-origami.html)
+* [2023-07-07, 19:51:26](https://news.ycombinator.com/item?id=36637417) - [Why you should not immigrate to Canada](https://readcanadabook.com/)
 * [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
+* [2023-07-07, 19:41:06](https://news.ycombinator.com/item?id=36637283) - [Show HN: Day by Day – every day of my life](https://days.rory.codes)
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
