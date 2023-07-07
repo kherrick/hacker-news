@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-07, 08:23:41](https://news.ycombinator.com/item?id=36628822) - [Queer-friendly Berlin sets itself apart](https://www.dw.com/en/how-queer-friendly-berlin-sets-itself-apart/a-66098528)
+* [2023-07-07, 08:23:08](https://news.ycombinator.com/item?id=36628809) - [Garbage Collection for MVCC – MyRocks, InnoDB and Postgres](http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html)
+* [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Andreas Kling – Failure is also a habit](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
 * [2023-07-07, 06:36:51](https://news.ycombinator.com/item?id=36628013) - [Homebrew's analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
 * [2023-07-07, 06:16:35](https://news.ycombinator.com/item?id=36627890) - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
@@ -13,7 +14,6 @@
 * [2023-07-07, 04:06:31](https://news.ycombinator.com/item?id=36626966) - [French Assembly to allow remote police surveillance via phone cameras and mics](https://www.engadget.com/french-assembly-passes-bill-allowing-police-to-remotely-activate-phone-cameras-and-microphones-for-surveillance-210539401.html)
 * [2023-07-07, 03:18:21](https://news.ycombinator.com/item?id=36626656) - [Design and synthesis of a minimal bacterial genome](https://www.science.org/doi/10.1126/science.aad6253)
 * [2023-07-07, 02:43:08](https://news.ycombinator.com/item?id=36626405) - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
-* [2023-07-07, 01:40:51](https://news.ycombinator.com/item?id=36625908) - [The $5 Plan](https://blog.railway.app/p/introducing-trial-hobby-pro-plans)
 * [2023-07-07, 00:36:24](https://news.ycombinator.com/item?id=36625400) - [Waterwave Could Quench AIs' Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
 * [2023-07-07, 00:26:25](https://news.ycombinator.com/item?id=36625302) - [Why customers don't want chat bots](https://creativegood.com/blog/23/why-customers-dont-want-chat-bots.html)
 * [2023-07-07, 00:22:21](https://news.ycombinator.com/item?id=36625270) - [Red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
