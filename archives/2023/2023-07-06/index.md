@@ -10,6 +10,7 @@
 * [2023-07-06, 23:14:33](https://news.ycombinator.com/item?id=36624622) - [Why Nvidia Keeps Winning: The Rise of an AI Giant](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
 * [2023-07-06, 23:07:49](https://news.ycombinator.com/item?id=36624554) - [Epik Insult on Top of Injury](https://providencepost.com/epik-insult-on-top-of-injury/)
 * [2023-07-06, 22:44:17](https://news.ycombinator.com/item?id=36624294) - [Air France Denied My Delay Compensation, So I Challenged Them and Won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
+* [2023-07-06, 22:42:08](https://news.ycombinator.com/item?id=36624269) - [A fun new feature we are working on in systemd: userspace-only reboot](https://mastodon.social/@pid_eins/110272799283345055)
 * [2023-07-06, 22:35:16](https://news.ycombinator.com/item?id=36624172) - [Grumpy Locals Are Sabotaging Cruise and Waymo Robotaxis with Traffic Cones](https://www.thedrive.com/news/rebels-are-disabling-waymo-cruise-robotaxis-with-traffic-cones)
 * [2023-07-06, 22:19:24](https://news.ycombinator.com/item?id=36623991) - [Facebook's Threads is so depressing](https://jogblog.substack.com/p/facebooks-threads-is-so-depressing)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Annotated scripts of old Sierra games](https://www.benshoof.org/blog/sci-scripts)
