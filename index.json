@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36637816"
     ],
     [
-      "Windows Tips, Tricks, and Tweaks",
+      "Windows 95 tips, tricks, and tweaks (2013)",
       "https://windows95tips.com"
     ]
   ],
@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36637736"
     ],
     [
-      "Top Suspect in 2015 Ashley Madison Hack Committed Suicide in 2014",
+      "Top suspect in 2015 Ashley Madison hack committed suicide in 2014",
       "https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/"
     ]
   ],
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36637585"
     ],
     [
-      "The Horrors of Pompeii",
+      "The horrors of Pompeii",
       "https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women"
     ]
   ],
@@ -105,18 +105,8 @@
       "https://news.ycombinator.com/item?id=36637221"
     ],
     [
-      "TypeScript please give us types",
+      "TypeScript please give us reflection/runtime types",
       "https://github.com/akutruff/typescript-needs-types"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 19:29:47",
-      "https://news.ycombinator.com/item?id=36637129"
-    ],
-    [
-      "Twitter’s legal letter to Meta: a guided tour of a weak litigation letter",
-      "https://davidallengreen.com/2023/07/a-close-reading-of-twitters-legal-letter-to-meta-a-guided-tour-of-a-weak-litigation-letter/"
     ]
   ],
   [
@@ -165,7 +155,7 @@
       "https://news.ycombinator.com/item?id=36635523"
     ],
     [
-      "FastAPI 0.100.0:Release Notes",
+      "FastAPI 0.100.0 release notes",
       "https://fastapi.tiangolo.com/release-notes/"
     ]
   ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2023-07-07, 09:39:30",
-      "https://news.ycombinator.com/item?id=36629334"
+      "2023-07-07, 10:02:47",
+      "https://news.ycombinator.com/item?id=36629505"
     ],
     [
-      "Show HN: My take on creating personal knowledge platform",
-      "https://worldofthis.com/"
+      "LOLBAS: Living Off the Land Binaries, Scripts and Libraries",
+      "https://lolbas-project.github.io/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "32“ E Ink screen that displays daily newspapers on your wall (2021)",
       "https://projecteink.com/pages/about"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 08:54:25",
+      "https://news.ycombinator.com/item?id=36629055"
+    ],
+    [
+      "Git and Jupyter Notebooks Guide",
+      "https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide"
     ]
   ],
   [
