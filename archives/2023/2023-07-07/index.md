@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 17:13:48](https://news.ycombinator.com/item?id=36634956) - [The Emergence of AI Engineering](https://www.ignorance.ai/p/becoming-an-ai-engineer)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
 * [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
 * [2023-07-07, 16:44:07](https://news.ycombinator.com/item?id=36634430) - [Gitlab.com is down](https://status.gitlab.com/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 17:13:48](https://news.ycombinator.com/item?id=36634956) - [The Emergence of AI Engineering](https://www.ignorance.ai/p/becoming-an-ai-engineer)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
 * [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
 * [2023-07-07, 16:44:07](https://news.ycombinator.com/item?id=36634430) - [Gitlab.com is down](https://status.gitlab.com/)
@@ -11,11 +12,9 @@
 * [2023-07-07, 13:05:03](https://news.ycombinator.com/item?id=36631112) - [Amazon’s electric Rivian vans have delivered 150M packages](https://arstechnica.com/cars/2023/07/amazon-has-5000-rivian-ev-delivery-vans-on-the-road/)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows Update on Windows 95. 98, Me, 2000, and XP](http://windowsupdaterestored.com/)
 * [2023-07-07, 12:25:06](https://news.ycombinator.com/item?id=36630649) - [Why are there no startups in the real estate construction sector?](https://news.ycombinator.com/item?id=36630649)
-* [2023-07-07, 12:14:33](https://news.ycombinator.com/item?id=36630531) - [Android Games on PC](https://play.google.com/googleplaygames)
 * [2023-07-07, 10:46:22](https://news.ycombinator.com/item?id=36629807) - [Charter schools, social norming and zero-sum games (2010)](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
 * [2023-07-07, 10:41:50](https://news.ycombinator.com/item?id=36629777) - [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
 * [2023-07-07, 10:02:47](https://news.ycombinator.com/item?id=36629505) - [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
-* [2023-07-07, 09:32:25](https://news.ycombinator.com/item?id=36629281) - [Every person on the planet should have their own website](https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/)
 * [2023-07-07, 09:16:51](https://news.ycombinator.com/item?id=36629195) - [Show HN: Mystery-o-matic – A daily murder mystery to solve](https://mystery-o-matic.com/)
 * [2023-07-07, 08:58:32](https://news.ycombinator.com/item?id=36629085) - [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
 * [2023-07-07, 08:54:25](https://news.ycombinator.com/item?id=36629055) - [Git and Jupyter Notebooks Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
@@ -28,6 +27,7 @@
 * [2023-07-06, 18:16:43](https://news.ycombinator.com/item?id=36620426) - [Small banks don’t like high rates](https://www.bloomberg.com/opinion/articles/2023-07-06/small-banks-don-t-like-high-rates)
 * [2023-07-06, 14:47:56](https://news.ycombinator.com/item?id=36616798) - [Paint Drip People](https://tidyfirst.substack.com/p/paint-drip-people)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
+* [2023-07-06, 05:15:44](https://news.ycombinator.com/item?id=36611548) - [The Doctor Is In (2011)](https://www.historytoday.com/archive/history-matters/doctor)
 * [2023-07-06, 02:59:01](https://news.ycombinator.com/item?id=36610524) - [The Tyranny of the Tale](https://www.newyorker.com/magazine/2023/07/10/seduced-by-story-peter-brooks-bewitching-the-modern-mind-christian-salmon-the-story-paradox-jonathan-gottschall-book-review)
 * [2023-07-05, 22:18:33](https://news.ycombinator.com/item?id=36607975) - [Novel microwave isolator points the way to new radio cameras, quantum computers](https://phys.org/news/2023-07-microwave-isolator-radio-cameras-quantum.html)
 
