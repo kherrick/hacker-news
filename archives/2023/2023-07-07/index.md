@@ -11,6 +11,7 @@
 * [2023-07-07, 12:00:55](https://news.ycombinator.com/item?id=36630384) - [Finley (YC W21) is a financial software company hiring for sales and engineering](https://www.finleycms.com/careers/)
 * [2023-07-07, 11:49:12](https://news.ycombinator.com/item?id=36630275) - [Seven people have acquired malaria in the US. They’re the first in 20 years](https://www.vox.com/science/2023/6/23/23771154/malaria-transmission-florida-texas-mosquitoes-risk-prevention-anopheles)
 * [2023-07-07, 11:34:36](https://news.ycombinator.com/item?id=36630158) - [A sci-fi short story exploring themes of equality, written by me](https://medium.com/@akshayshinde/ekalavya-4e29aa3c3bda)
+* [2023-07-07, 11:33:58](https://news.ycombinator.com/item?id=36630151) - [After days of destruction, Macron blames a familiar bogeyman: video games](https://www.npr.org/2023/07/07/1186316124/france-riots-macron-video-games)
 * [2023-07-07, 11:15:28](https://news.ycombinator.com/item?id=36630032) - [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
 * [2023-07-07, 10:57:45](https://news.ycombinator.com/item?id=36629879) - [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
 * [2023-07-07, 10:46:22](https://news.ycombinator.com/item?id=36629807) - [Charter schools, social norming and zero-sum games](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
