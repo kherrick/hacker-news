@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 11:15:28](https://news.ycombinator.com/item?id=36630032) - [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
 * [2023-07-07, 10:57:45](https://news.ycombinator.com/item?id=36629879) - [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
 * [2023-07-07, 10:41:50](https://news.ycombinator.com/item?id=36629777) - [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
 * [2023-07-07, 10:02:47](https://news.ycombinator.com/item?id=36629505) - [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
@@ -22,7 +23,6 @@
 * [2023-07-07, 03:18:21](https://news.ycombinator.com/item?id=36626656) - [Design and synthesis of a minimal bacterial genome (2016)](https://www.science.org/doi/10.1126/science.aad6253)
 * [2023-07-07, 02:43:08](https://news.ycombinator.com/item?id=36626405) - [Purchase and manage domains directly through Bluesky](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
 * [2023-07-07, 00:26:25](https://news.ycombinator.com/item?id=36625302) - [Why customers don't want chat bots](https://creativegood.com/blog/23/why-customers-dont-want-chat-bots.html)
-* [2023-07-07, 00:22:21](https://news.ycombinator.com/item?id=36625270) - [Red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
 * [2023-07-06, 22:07:08](https://news.ycombinator.com/item?id=36623827) - [More green spaces linked to slower biological aging](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 11:15:28](https://news.ycombinator.com/item?id=36630032) - [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
 * [2023-07-07, 10:57:45](https://news.ycombinator.com/item?id=36629879) - [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
 * [2023-07-07, 10:41:50](https://news.ycombinator.com/item?id=36629777) - [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
 * [2023-07-07, 10:02:47](https://news.ycombinator.com/item?id=36629505) - [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
