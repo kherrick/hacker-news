@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-07, 04:25:56",
+      "https://news.ycombinator.com/item?id=36627112"
+    ],
+    [
+      "Show HN: List (OPML) of Hacker News Users Personal Blogs",
+      "https://github.com/outcoldman/hackernews-personal-blogs"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 02:58:50",
       "https://news.ycombinator.com/item?id=36626525"
     ],
@@ -277,16 +287,6 @@
     [
       "Tor’s history of D/DoS attacks and future strategies for mitigation",
       "https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 12:28:27",
-      "https://news.ycombinator.com/item?id=36614774"
-    ],
-    [
-      "Scaling Transformers to 1B Tokens",
-      "https://arxiv.org/abs/2307.02486"
     ]
   ],
   [
