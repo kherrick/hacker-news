@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-07, 04:47:40](https://news.ycombinator.com/item?id=36627272) - [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
+* [2023-07-07, 06:06:35](https://news.ycombinator.com/item?id=36627834) - [WI Governor Drops Characters in Budget Bill to Change “2024-2025” to “2425”](https://twitter.com/mualphaxi/status/1676710715581759489)
+* [2023-07-07, 05:18:54](https://news.ycombinator.com/item?id=36627494) - [Albuquerque Techzonics](http://techzonics.com/)
 * [2023-07-07, 04:30:01](https://news.ycombinator.com/item?id=36627147) - [After Vietnam, the Philippines could be next to ban 'Barbie.' Here's why](https://www.npr.org/2023/07/06/1186178724/barbie-movie-philippines-vietnam-china-map)
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
 * [2023-07-07, 04:21:42](https://news.ycombinator.com/item?id=36627075) - [Understand by Ted Chiang](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
@@ -27,7 +28,6 @@
 * [2023-07-06, 18:15:53](https://news.ycombinator.com/item?id=36620413) - [Physicists generate the first snapshots of fermion pairs](https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706)
 * [2023-07-06, 17:22:00](https://news.ycombinator.com/item?id=36619481) - [AI for AWS Documentation](https://www.awsdocsgpt.com/)
 * [2023-07-06, 16:20:46](https://news.ycombinator.com/item?id=36618344) - [{n} times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
-* [2023-07-06, 15:27:04](https://news.ycombinator.com/item?id=36617504) - [Multi-Layered Calendars](https://julian.digital/2023/07/06/multi-layered-calendars/)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
 * [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 

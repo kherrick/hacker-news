@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 06:06:35](https://news.ycombinator.com/item?id=36627834) - [WI Governor Drops Characters in Budget Bill to Change “2024-2025” to “2425”](https://twitter.com/mualphaxi/status/1676710715581759489)
+* [2023-07-07, 05:18:54](https://news.ycombinator.com/item?id=36627494) - [Albuquerque Techzonics](http://techzonics.com/)
 * [2023-07-07, 04:47:40](https://news.ycombinator.com/item?id=36627272) - [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
 * [2023-07-07, 04:30:01](https://news.ycombinator.com/item?id=36627147) - [After Vietnam, the Philippines could be next to ban 'Barbie.' Here's why](https://www.npr.org/2023/07/06/1186178724/barbie-movie-philippines-vietnam-china-map)
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
