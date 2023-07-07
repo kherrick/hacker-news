@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 19:51:45](https://news.ycombinator.com/item?id=36637418) - [New discovery toward sugar origami](https://phys.org/news/2023-07-discovery-sugar-origami.html)
+* [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
 * [2023-07-07, 18:57:59](https://news.ycombinator.com/item?id=36636738) - [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
 * [2023-07-07, 18:42:03](https://news.ycombinator.com/item?id=36636486) - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
+* [2023-07-07, 18:40:09](https://news.ycombinator.com/item?id=36636457) - [Goroutines: The concurrency model we wanted all along](https://jayconrod.com/posts/128/goroutines-the-concurrency-model-we-wanted-all-along)
 * [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 * [2023-07-07, 18:09:40](https://news.ycombinator.com/item?id=36635890) - [Brave Browser deserves more love](https://github.com/brave/brave-browser)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta Releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
+* [2023-07-07, 17:49:05](https://news.ycombinator.com/item?id=36635523) - [FastAPI 0.100.0:Release Notes](https://fastapi.tiangolo.com/release-notes/)
 * [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech Debt Metaphor Maximalism](https://apenwarr.ca/log/?m=202306)
 * [2023-07-07, 17:46:13](https://news.ycombinator.com/item?id=36635489) - [Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
 * [2023-07-07, 17:20:07](https://news.ycombinator.com/item?id=36635061) - [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
