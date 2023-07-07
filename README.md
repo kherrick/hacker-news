@@ -3,6 +3,7 @@
 * [2023-07-07, 02:58:50](https://news.ycombinator.com/item?id=36626525) - [DoorDash, Grubhub and Uber sue New York City over minimum wage law](https://www.cnn.com/2023/07/06/business/doordash-grubhub-uber-sue-new-york-minimum-wage-law/index.html)
 * [2023-07-07, 02:43:08](https://news.ycombinator.com/item?id=36626405) - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
 * [2023-07-07, 02:27:33](https://news.ycombinator.com/item?id=36626277) - [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
+* [2023-07-07, 01:46:24](https://news.ycombinator.com/item?id=36625950) - [Tailwind and the Beauty of Ugly Code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
 * [2023-07-07, 01:15:11](https://news.ycombinator.com/item?id=36625733) - [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
 * [2023-07-07, 00:36:24](https://news.ycombinator.com/item?id=36625400) - [Waterwave Could Quench AIs' Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
 * [2023-07-07, 00:22:21](https://news.ycombinator.com/item?id=36625270) - [Red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
@@ -28,7 +29,6 @@
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
 * [2023-07-06, 13:58:46](https://news.ycombinator.com/item?id=36615849) - [Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
 * [2023-07-06, 12:28:27](https://news.ycombinator.com/item?id=36614774) - [Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
-* [2023-07-06, 12:01:18](https://news.ycombinator.com/item?id=36614512) - [UpCodes (YC S17) is hiring engineers to automate building code compliance](https://up.codes/careers)
 * [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 
 ## [Archives](archives/index.md)
