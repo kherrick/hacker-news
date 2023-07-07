@@ -21,7 +21,6 @@
 * [2023-07-07, 00:36:24](https://news.ycombinator.com/item?id=36625400) - [Waterwave Could Quench AIs' Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
 * [2023-07-07, 00:26:25](https://news.ycombinator.com/item?id=36625302) - [Why customers don't want chat bots](https://creativegood.com/blog/23/why-customers-dont-want-chat-bots.html)
 * [2023-07-07, 00:22:21](https://news.ycombinator.com/item?id=36625270) - [Red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
-* [2023-07-06, 22:44:17](https://news.ycombinator.com/item?id=36624294) - [Air France denied my delay compensation, so I challenged them and won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
 * [2023-07-06, 22:07:08](https://news.ycombinator.com/item?id=36623827) - [More green spaces linked to slower biological aging](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
@@ -30,6 +29,7 @@
 * [2023-07-06, 16:54:57](https://news.ycombinator.com/item?id=36618990) - [Archaean Log or the Autopoiesis of a Prokaryote](https://www.asymptotejournal.com/special-feature/archaean-log-or-the-autopoeisis-of-a-prokaryote-johanna-drucker/)
 * [2023-07-06, 16:20:46](https://news.ycombinator.com/item?id=36618344) - [{n} times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
+* [2023-07-05, 22:18:33](https://news.ycombinator.com/item?id=36607975) - [Novel microwave isolator points the way to new radio cameras, quantum computers](https://phys.org/news/2023-07-microwave-isolator-radio-cameras-quantum.html)
 
 ## [Archives](archives/index.md)
 

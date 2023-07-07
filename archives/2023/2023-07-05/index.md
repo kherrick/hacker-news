@@ -7,6 +7,7 @@
 * [2023-07-05, 23:49:52](https://news.ycombinator.com/item?id=36608912) - [A Smarter Battle Plan to Protect the Open Social Web](https://www.timothychambers.net/2023/06/23/project-and-the.html)
 * [2023-07-05, 23:47:11](https://news.ycombinator.com/item?id=36608887) - [The ice machine that chills Chicago’s skyscrapers](https://wgntv.com/news/chicago-news/the-ice-machine-that-chills-chicagos-skyscrapers-inside-downtowns-district-cooling-systems/)
 * [2023-07-05, 23:11:57](https://news.ycombinator.com/item?id=36608530) - [Threads Is Now Live](https://techcrunch.com/2023/07/05/threads-metas-twitter-competitor-is-now-live/)
+* [2023-07-05, 22:18:33](https://news.ycombinator.com/item?id=36607975) - [Novel microwave isolator points the way to new radio cameras, quantum computers](https://phys.org/news/2023-07-microwave-isolator-radio-cameras-quantum.html)
 * [2023-07-05, 22:07:05](https://news.ycombinator.com/item?id=36607852) - [New aluminum radical battery promises more sustainable power](https://techxplore.com/news/2023-07-aluminum-radical-battery-sustainable-power.html)
 * [2023-07-05, 21:34:25](https://news.ycombinator.com/item?id=36607487) - [My take on the current React and Server Components controversy](https://phryneas.de/react-server-components-controversy)
 * [2023-07-05, 21:30:09](https://news.ycombinator.com/item?id=36607439) - [Rejected GitHub Profile Achievements](https://github.com/Flet/rejected-github-profile-achievements)
