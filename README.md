@@ -7,7 +7,7 @@
 * [2023-07-07, 08:41:58](https://news.ycombinator.com/item?id=36628976) - [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
 * [2023-07-07, 08:23:08](https://news.ycombinator.com/item?id=36628809) - [Garbage Collection for MVCC – MyRocks, InnoDB and Postgres](http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html)
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
-* [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of Caenorhabditis elegans worm](https://github.com/openworm/OpenWorm)
+* [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
 * [2023-07-07, 07:05:43](https://news.ycombinator.com/item?id=36628238) - [Escaping High School](https://skunkledger.substack.com/p/escaping-high-school)
 * [2023-07-07, 06:36:51](https://news.ycombinator.com/item?id=36628013) - [Homebrew's analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
 * [2023-07-07, 06:16:35](https://news.ycombinator.com/item?id=36627890) - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
