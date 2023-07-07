@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 * [2023-07-07, 18:09:40](https://news.ycombinator.com/item?id=36635890) - [Brave Browser deserves more love](https://github.com/brave/brave-browser)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta Releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
+* [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech Debt Metaphor Maximalism](https://apenwarr.ca/log/?m=202306)
 * [2023-07-07, 17:20:07](https://news.ycombinator.com/item?id=36635061) - [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
 * [2023-07-07, 17:13:48](https://news.ycombinator.com/item?id=36634956) - [The Emergence of AI Engineering](https://www.ignorance.ai/p/becoming-an-ai-engineer)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)

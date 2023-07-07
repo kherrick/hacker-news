@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-07, 18:09:40](https://news.ycombinator.com/item?id=36635890) - [Brave Browser deserves more love](https://github.com/brave/brave-browser)
+* [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
+* [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech Debt Metaphor Maximalism](https://apenwarr.ca/log/?m=202306)
 * [2023-07-07, 17:20:07](https://news.ycombinator.com/item?id=36635061) - [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
 * [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
@@ -22,7 +23,6 @@
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Excellence is a habit, but so is failure](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
 * [2023-07-07, 07:05:43](https://news.ycombinator.com/item?id=36628238) - [Escaping High School](https://skunkledger.substack.com/p/escaping-high-school)
-* [2023-07-06, 21:20:46](https://news.ycombinator.com/item?id=36623237) - [Exit Hector, again and again: How different translators reveal the ‘Iliad’ anew](https://www.nytimes.com/2023/06/28/books/review/iliad-translations.html)
 * [2023-07-06, 19:34:16](https://news.ycombinator.com/item?id=36621563) - [Mapping the Materials of the Human Body: The Evelyn Tables (2013)](https://dabrownstein.com/category/evelyn-tables/)
 * [2023-07-06, 18:28:18](https://news.ycombinator.com/item?id=36620588) - [The Spirit of Alan Turing (2012)](https://blog.sciencemuseum.org.uk/the-spirit-of-alan-turing/)
 * [2023-07-06, 16:54:57](https://news.ycombinator.com/item?id=36618990) - [Archaean Log or the Autopoiesis of a Prokaryote](https://www.asymptotejournal.com/special-feature/archaean-log-or-the-autopoeisis-of-a-prokaryote-johanna-drucker/)
