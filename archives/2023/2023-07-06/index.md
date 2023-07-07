@@ -58,6 +58,7 @@
 * [2023-07-06, 15:04:44](https://news.ycombinator.com/item?id=36617126) - [Threads Surpasses 30M Signups](https://www.threads.net/t/CuXCjGVrd6R)
 * [2023-07-06, 14:50:29](https://news.ycombinator.com/item?id=36616841) - [Nearly half of the tap water in the US is contaminated with ‘forever chemicals,’](https://www.cnn.com/2023/07/05/health/pfas-nearly-half-us-tap-water-wellness/index.html)
 * [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
+* [2023-07-06, 14:47:56](https://news.ycombinator.com/item?id=36616798) - [Paint Drip People](https://tidyfirst.substack.com/p/paint-drip-people)
 * [2023-07-06, 14:34:41](https://news.ycombinator.com/item?id=36616491) - [Tuesday set an unofficial record for the hottest day on Earth](https://apnews.com/article/global-record-breaking-heat-july-27069b5380117534d78f1f40a6edc7a0)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [The Internet Archive has Lego set instructions](https://archive.org/details/lego-set-instructions)
 * [2023-07-06, 14:29:23](https://news.ycombinator.com/item?id=36616390) - [Why your startup needs a podcast](https://accelerateokanagan.com/blog/why-your-startup-needs-a-podcast/)

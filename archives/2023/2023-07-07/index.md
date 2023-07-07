@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 11:34:36](https://news.ycombinator.com/item?id=36630158) - [A sci-fi short story exploring themes of equality, written by me](https://medium.com/@akshayshinde/ekalavya-4e29aa3c3bda)
 * [2023-07-07, 11:15:28](https://news.ycombinator.com/item?id=36630032) - [Fedora considers “privacy-preserving” telemetry](https://lwn.net/Articles/937528/)
 * [2023-07-07, 10:57:45](https://news.ycombinator.com/item?id=36629879) - [Tell HN: Books Printed by Amazon](https://news.ycombinator.com/item?id=36629879)
+* [2023-07-07, 10:46:22](https://news.ycombinator.com/item?id=36629807) - [Charter schools, social norming and zero-sum games](http://educationandstatistics.blogspot.com/2010/10/charter-schools-social-norming-and-zero.html)
 * [2023-07-07, 10:41:50](https://news.ycombinator.com/item?id=36629777) - [Mechanical Turk workers are using AI to automate being human](https://techcrunch.com/2023/06/14/mechanical-turk-workers-are-using-ai-to-automate-being-human/)
 * [2023-07-07, 10:02:47](https://news.ycombinator.com/item?id=36629505) - [LOLBAS: Living Off the Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/)
 * [2023-07-07, 09:32:25](https://news.ycombinator.com/item?id=36629281) - [Every person on the planet should have their own website](https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/)
