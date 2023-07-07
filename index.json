@@ -1,11 +1,41 @@
 [
   [
     [
+      "2023-07-07, 17:00:47",
+      "https://news.ycombinator.com/item?id=36634731"
+    ],
+    [
+      "Type (YC W23) is hiring a founding engineer",
+      "https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 16:48:55",
+      "https://news.ycombinator.com/item?id=36634529"
+    ],
+    [
+      "The underground economy of Glassdoor reviews",
+      "https://www.careerfair.io/company-reviews"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 16:44:07",
+      "https://news.ycombinator.com/item?id=36634430"
+    ],
+    [
+      "Gitlab.com is down",
+      "https://status.gitlab.com/"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 16:18:17",
       "https://news.ycombinator.com/item?id=36633995"
     ],
     [
-      "Experiencing Decreased Performance with ChatGPT-4",
+      "Experiencing decreased performance with ChatGPT-4",
       "https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269"
     ]
   ],
@@ -17,16 +47,6 @@
     [
       "Going Rogue",
       "https://www.filfre.net/2023/07/going-rogue/"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 15:25:41",
-      "https://news.ycombinator.com/item?id=36633151"
-    ],
-    [
-      "California strikes deal with engine makers on zero-emissions trucking by 2036",
-      "https://www.sacbee.com/news/politics-government/capitol-alert/article277068878.html"
     ]
   ],
   [
@@ -57,6 +77,16 @@
     [
       "Closure, from why the lucky stiff (2013)",
       "https://github.com/steveklabnik/CLOSURE"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 13:53:57",
+      "https://news.ycombinator.com/item?id=36631796"
+    ],
+    [
+      "Civic honesty around the globe (2019)",
+      "https://www.science.org/doi/10.1126/science.aau8712"
     ]
   ],
   [
@@ -101,26 +131,6 @@
   ],
   [
     [
-      "2023-07-07, 12:00:55",
-      "https://news.ycombinator.com/item?id=36630384"
-    ],
-    [
-      "Finley (YC W21) is a financial software company hiring for sales and engineering",
-      "https://www.finleycms.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 11:15:28",
-      "https://news.ycombinator.com/item?id=36630032"
-    ],
-    [
-      "Fedora considers “privacy-preserving” telemetry",
-      "https://lwn.net/Articles/937528/"
-    ]
-  ],
-  [
-    [
       "2023-07-07, 10:46:22",
       "https://news.ycombinator.com/item?id=36629807"
     ],
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2023-07-07, 09:32:25",
-      "https://news.ycombinator.com/item?id=36629281"
+      "2023-07-07, 09:16:51",
+      "https://news.ycombinator.com/item?id=36629195"
     ],
     [
-      "Every person on the planet should have their own website",
-      "https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/"
+      "Show HN: Mystery-o-matic – A daily murder mystery to solve",
+      "https://mystery-o-matic.com/"
     ]
   ],
   [
@@ -177,26 +187,6 @@
     [
       "Git and Jupyter Notebooks Guide",
       "https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 08:41:58",
-      "https://news.ycombinator.com/item?id=36628976"
-    ],
-    [
-      "List of Unix binaries that can be used to bypass local security restrictions",
-      "https://gtfobins.github.io/"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 08:23:08",
-      "https://news.ycombinator.com/item?id=36628809"
-    ],
-    [
-      "Garbage Collection for MVCC – MyRocks, InnoDB and Postgres",
-      "http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html"
     ]
   ],
   [
@@ -235,7 +225,7 @@
       "https://news.ycombinator.com/item?id=36627112"
     ],
     [
-      "Show HN: List (OPML) of Hacker News Users Personal Blogs",
+      "Show HN: OPML list of Hacker News Users Personal Blogs",
       "https://github.com/outcoldman/hackernews-personal-blogs"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Paint Drip People",
       "https://tidyfirst.substack.com/p/paint-drip-people"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 10:15:16",
+      "https://news.ycombinator.com/item?id=36613727"
+    ],
+    [
+      "Show HN: Blogs.hn – tiny blog directory",
+      "https://blogs.hn"
     ]
   ],
   [
