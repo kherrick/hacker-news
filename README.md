@@ -23,13 +23,13 @@
 * [2023-07-06, 22:07:08](https://news.ycombinator.com/item?id=36623827) - [More green spaces linked to slower biological aging](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
+* [2023-07-06, 20:34:38](https://news.ycombinator.com/item?id=36622550) - [LXD Moves into Canonical](https://lwn.net/Articles/937369/)
 * [2023-07-06, 19:12:21](https://news.ycombinator.com/item?id=36621263) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 19:03:15](https://news.ycombinator.com/item?id=36621120) - [GPT-4 API General Availability](https://openai.com/blog/gpt-4-api-general-availability)
-* [2023-07-06, 18:59:53](https://news.ycombinator.com/item?id=36621057) - [Imagination GPUs now support OpenGL 4.6](https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6)
-* [2023-07-06, 18:54:29](https://news.ycombinator.com/item?id=36620969) - [I want XAES-256-GCM/11](https://words.filippo.io/dispatches/xaes-256-gcm-11/)
 * [2023-07-06, 18:18:49](https://news.ycombinator.com/item?id=36620450) - [Chat with Andreas Kling about Ladybird and developing a browser engine](https://www.igalia.com/chats/ladybird)
 * [2023-07-06, 16:54:57](https://news.ycombinator.com/item?id=36618990) - [Archaean Log or the Autopoiesis of a Prokaryote](https://www.asymptotejournal.com/special-feature/archaean-log-or-the-autopoeisis-of-a-prokaryote-johanna-drucker/)
 * [2023-07-06, 16:20:46](https://news.ycombinator.com/item?id=36618344) - [{n} times faster than C](https://owen.cafe/posts/six-times-faster-than-c/)
+* [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
 
 ## [Archives](archives/index.md)
 
