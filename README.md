@@ -22,7 +22,7 @@
 * [2023-07-07, 04:21:42](https://news.ycombinator.com/item?id=36627075) - [Understand (1991)](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
 * [2023-07-07, 03:18:21](https://news.ycombinator.com/item?id=36626656) - [Design and synthesis of a minimal bacterial genome (2016)](https://www.science.org/doi/10.1126/science.aad6253)
 * [2023-07-07, 02:43:08](https://news.ycombinator.com/item?id=36626405) - [Purchase and manage domains directly through Bluesky](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
-* [2023-07-07, 00:26:25](https://news.ycombinator.com/item?id=36625302) - [Why customers don't want chat bots](https://creativegood.com/blog/23/why-customers-dont-want-chat-bots.html)
+* [2023-07-07, 00:36:24](https://news.ycombinator.com/item?id=36625400) - [Waterwave Could Quench AIs' Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
 * [2023-07-06, 22:07:08](https://news.ycombinator.com/item?id=36623827) - [More green spaces linked to slower biological aging](https://news.northwestern.edu/stories/2023/06/more-green-spaces-linked-to-slower-biological-aging/)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
