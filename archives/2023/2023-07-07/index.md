@@ -6,6 +6,7 @@
 
 * [2023-07-07, 04:47:40](https://news.ycombinator.com/item?id=36627272) - [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
+* [2023-07-07, 04:21:42](https://news.ycombinator.com/item?id=36627075) - [Understand by Ted Chiang](https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html)
 * [2023-07-07, 04:06:31](https://news.ycombinator.com/item?id=36626966) - [French Assembly to allow remote police surveillance via phone cameras and mics](https://www.engadget.com/french-assembly-passes-bill-allowing-police-to-remotely-activate-phone-cameras-and-microphones-for-surveillance-210539401.html)
 * [2023-07-07, 03:18:21](https://news.ycombinator.com/item?id=36626656) - [Design and synthesis of a minimal bacterial genome](https://www.science.org/doi/10.1126/science.aad6253)
 * [2023-07-07, 02:58:50](https://news.ycombinator.com/item?id=36626525) - [DoorDash, Grubhub and Uber sue New York City over minimum wage law](https://www.cnn.com/2023/07/06/business/doordash-grubhub-uber-sue-new-york-minimum-wage-law/index.html)
