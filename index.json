@@ -1,32 +1,22 @@
 [
   [
     [
+      "2023-07-07, 00:22:21",
+      "https://news.ycombinator.com/item?id=36625270"
+    ],
+    [
+      "All the red flags in the Threads privacy policy",
+      "https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 00:07:40",
       "https://news.ycombinator.com/item?id=36625140"
     ],
     [
       "Attention Caplanites: School Is Less Wasteful Than You Think",
       "https://infovores.substack.com/p/attention-caplanites-school-is-less"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 23:56:54",
-      "https://news.ycombinator.com/item?id=36625046"
-    ],
-    [
-      "Show HN: I built a dashboard tracking the number of Threads users",
-      "https://www.quiverquant.com/threadstracker/"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 23:50:25",
-      "https://news.ycombinator.com/item?id=36624987"
-    ],
-    [
-      "C: Best System Language Ever or Bad by Design? (2015)",
-      "https://pastebin.com/UAQaWuWG"
     ]
   ],
   [
@@ -45,8 +35,18 @@
       "https://news.ycombinator.com/item?id=36624294"
     ],
     [
-      "Air France Denied My Delay Compensation, So I Challenged Them and Won",
+      "Air France denied my delay compensation, so I challenged them and won",
       "https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 22:42:08",
+      "https://news.ycombinator.com/item?id=36624269"
+    ],
+    [
+      "A fun new feature we are working on in systemd: userspace-only reboot",
+      "https://mastodon.social/@pid_eins/110272799283345055"
     ]
   ],
   [
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36622992"
     ],
     [
-      "Show HN: Banger.show – create colorful visuals for your songs in seconds",
+      "Show HN: Banger.show – Create colorful visuals for your songs in seconds",
       "https://banger.show"
     ]
   ],
@@ -77,6 +77,16 @@
     [
       "“Self-reflecting” AI agents explore like animals",
       "https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 20:46:43",
+      "https://news.ycombinator.com/item?id=36622739"
+    ],
+    [
+      "June’s record-smashing temperatures – in data",
+      "https://www.nature.com/articles/d41586-023-02219-y"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "LXD Moves into Canonical",
       "https://lwn.net/Articles/937369/"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 19:32:24",
-      "https://news.ycombinator.com/item?id=36621526"
-    ],
-    [
-      "Threads profiles can't be deleted without removing your entire Instagram account",
-      "https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-07-06, 09:47:53",
-      "https://news.ycombinator.com/item?id=36613543"
+      "2023-07-06, 08:17:00",
+      "https://news.ycombinator.com/item?id=36612835"
     ],
     [
-      "/Uses: A list of /uses pages detailing developer setups, gear, software, configs",
-      "https://uses.tech"
+      "Backend of Meta Threads is built with Python 3.10",
+      "https://twitter.com/llanga/status/1676846870520291329"
     ]
   ],
   [
