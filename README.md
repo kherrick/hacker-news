@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-07, 04:25:56](https://news.ycombinator.com/item?id=36627112) - [Show HN: List (OPML) of Hacker News Users Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
-* [2023-07-07, 02:58:50](https://news.ycombinator.com/item?id=36626525) - [DoorDash, Grubhub and Uber sue New York City over minimum wage law](https://www.cnn.com/2023/07/06/business/doordash-grubhub-uber-sue-new-york-minimum-wage-law/index.html)
 * [2023-07-07, 02:43:08](https://news.ycombinator.com/item?id=36626405) - [Bluesky partners with Namecheap to power domains as usernames](https://blueskyweb.xyz/blog/7-05-2023-namecheap)
 * [2023-07-07, 02:31:31](https://news.ycombinator.com/item?id=36626317) - [The World Might Be Better Off Without College for Everyone (2018)](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
 * [2023-07-07, 02:27:33](https://news.ycombinator.com/item?id=36626277) - [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
@@ -12,6 +11,7 @@
 * [2023-07-06, 23:14:33](https://news.ycombinator.com/item?id=36624622) - [Why Nvidia Keeps Winning](https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise)
 * [2023-07-06, 22:44:17](https://news.ycombinator.com/item?id=36624294) - [Air France denied my delay compensation, so I challenged them and won](https://airdisputes.com/air-france-denied-my-delay-compensation-so-i-challenged-them-and-won/)
 * [2023-07-06, 22:05:46](https://news.ycombinator.com/item?id=36623804) - [Sierra Creative Interpreter – Scripts](https://www.benshoof.org/blog/sci-scripts)
+* [2023-07-06, 21:03:16](https://news.ycombinator.com/item?id=36622992) - [Show HN: Banger.show – Create colorful visuals for your songs in seconds](https://banger.show)
 * [2023-07-06, 21:00:49](https://news.ycombinator.com/item?id=36622959) - [AI agents that “self-reflect” perform better in changing environments](https://hai.stanford.edu/news/ai-agents-self-reflect-perform-better-changing-environments)
 * [2023-07-06, 20:43:26](https://news.ycombinator.com/item?id=36622691) - [Stanford Graduate Students Won Their Union Vote](https://twitter.com/StanfordGWU/status/1677048098080845824)
 * [2023-07-06, 20:34:38](https://news.ycombinator.com/item?id=36622550) - [LXD Moves into Canonical](https://lwn.net/Articles/937369/)
