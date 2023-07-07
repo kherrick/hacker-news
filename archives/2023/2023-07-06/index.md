@@ -31,6 +31,7 @@
 * [2023-07-06, 19:52:13](https://news.ycombinator.com/item?id=36621831) - [Toyota Is Right: We Need More Hybrid Cars and Fewer EVs. Here’s Why](https://www.thedrive.com/features/toyota-is-right-we-need-more-hybrid-cars-and-fewer-evs-heres-why)
 * [2023-07-06, 19:46:05](https://news.ycombinator.com/item?id=36621741) - [Twitter is threatening to sue Meta over Threads [pdf]](https://cdn.sanity.io/files/ifn0l6bs/production/27109f01431939c8177d408d3c9848c3b46632cd.pdf)
 * [2023-07-06, 19:35:40](https://news.ycombinator.com/item?id=36621591) - [Don't Join Threads – Make Threads Join You](https://www.wired.com/story/meta-threads-privacy-decentralization/)
+* [2023-07-06, 19:34:16](https://news.ycombinator.com/item?id=36621563) - [Mapping the Materials of the Human Body: The Evelyn Tables (2013)](https://dabrownstein.com/category/evelyn-tables/)
 * [2023-07-06, 19:32:24](https://news.ycombinator.com/item?id=36621526) - [Threads profiles can't be deleted without removing your entire Instagram account](https://www.theverge.com/2023/7/6/23786029/instagram-threads-profiles-deleted-removing)
 * [2023-07-06, 19:12:21](https://news.ycombinator.com/item?id=36621263) - [Zink brings conformant OpenGL on Imagination GPUs](https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html)
 * [2023-07-06, 19:06:55](https://news.ycombinator.com/item?id=36621171) - [I'm a paid user of Threads[.com] – No trademark?](https://threads.com/)
