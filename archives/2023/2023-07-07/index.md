@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 08:58:32](https://news.ycombinator.com/item?id=36629085) - [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
+* [2023-07-07, 08:50:13](https://news.ycombinator.com/item?id=36629027) - [The Styx Programming Language](https://gitlab.com/styx-lang/styx)
 * [2023-07-07, 08:41:58](https://news.ycombinator.com/item?id=36628976) - [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
+* [2023-07-07, 08:26:42](https://news.ycombinator.com/item?id=36628852) - [Ask HN: What stage of grief are you at regarding climate change?](https://news.ycombinator.com/item?id=36628852)
 * [2023-07-07, 08:23:41](https://news.ycombinator.com/item?id=36628822) - [Queer-friendly Berlin sets itself apart](https://www.dw.com/en/how-queer-friendly-berlin-sets-itself-apart/a-66098528)
 * [2023-07-07, 08:23:08](https://news.ycombinator.com/item?id=36628809) - [Garbage Collection for MVCC – MyRocks, InnoDB and Postgres](http://smalldatum.blogspot.com/2023/04/gc-for-mvcc-myrocks-innodb-and-postgres.html)
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Andreas Kling – Failure is also a habit](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
