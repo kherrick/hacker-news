@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
+* [2023-07-07, 06:36:51](https://news.ycombinator.com/item?id=36628013) - [Homebrew's analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
 * [2023-07-07, 06:30:20](https://news.ycombinator.com/item?id=36627969) - [Mass store closures in San Francisco [video]](https://www.youtube.com/watch?v=vB3IU8uwb2k)
 * [2023-07-07, 06:27:45](https://news.ycombinator.com/item?id=36627950) - [Google Street View returns to Germany after 10 Years](https://www.androidpolice.com/google-street-view-germany-after-10-years-privacy-outcry/)
 * [2023-07-07, 06:16:35](https://news.ycombinator.com/item?id=36627890) - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
