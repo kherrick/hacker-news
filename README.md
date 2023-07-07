@@ -3,7 +3,7 @@
 * [2023-07-07, 14:32:20](https://news.ycombinator.com/item?id=36632320) - [Charger outages leave northern Ontario EV drivers stranded](https://www.cbc.ca/news/canada/thunder-bay/ev-charger-outtages-northern-ontario-1.6895863)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from Why_ the Lucky Stiff](https://github.com/steveklabnik/CLOSURE)
 * [2023-07-07, 13:53:57](https://news.ycombinator.com/item?id=36631796) - [Civic honesty around the globe](https://www.science.org/doi/10.1126/science.aau8712)
-* [2023-07-07, 13:34:50](https://news.ycombinator.com/item?id=36631521) - [The Invisible Reason for High Housing Prices: Restrictive Land-Use Regulations](https://www.strongtowns.org/journal/2023/7/5/the-invisible-reason-for-high-housing-prices-restrictive-land-use-regulations)
+* [2023-07-07, 12:51:46](https://news.ycombinator.com/item?id=36630942) - [‘Gay furries’ group hacks agencies in US states attacking gender-affirming care](https://www.theguardian.com/us-news/2023/jun/29/siegedsec-gay-furries-group-hacked-information-six-us-states)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows Update on Windows 95. 98, Me, 2000, and XP](http://windowsupdaterestored.com/)
 * [2023-07-07, 12:25:06](https://news.ycombinator.com/item?id=36630649) - [Why are there no startups in the real estate construction sector?](https://news.ycombinator.com/item?id=36630649)
 * [2023-07-07, 12:14:33](https://news.ycombinator.com/item?id=36630531) - [Android Games on PC](https://play.google.com/googleplaygames)
