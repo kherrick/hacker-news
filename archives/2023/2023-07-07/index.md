@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
 * [2023-07-07, 06:30:20](https://news.ycombinator.com/item?id=36627969) - [Mass store closures in San Francisco [video]](https://www.youtube.com/watch?v=vB3IU8uwb2k)
+* [2023-07-07, 06:27:45](https://news.ycombinator.com/item?id=36627950) - [Google Street View returns to Germany after 10 Years](https://www.androidpolice.com/google-street-view-germany-after-10-years-privacy-outcry/)
+* [2023-07-07, 06:16:35](https://news.ycombinator.com/item?id=36627890) - [In Defence of DOM­Content­Loaded](https://csswizardry.com/2023/07/in-defence-of-domcontentloaded/)
 * [2023-07-07, 06:06:35](https://news.ycombinator.com/item?id=36627834) - [WI Governor Drops Characters in Budget Bill to Change “2024-2025” to “2425”](https://twitter.com/mualphaxi/status/1676710715581759489)
+* [2023-07-07, 05:56:53](https://news.ycombinator.com/item?id=36627765) - [WebAssembly and Replayable Functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
 * [2023-07-07, 05:26:08](https://news.ycombinator.com/item?id=36627555) - [Binance execs quit over CEO CZ’s response to Justice Department investigation](https://fortune.com/crypto/2023/07/06/binance-crisis-executives-quit-changpeng-zhao-justice-department/)
 * [2023-07-07, 05:18:54](https://news.ycombinator.com/item?id=36627494) - [Albuquerque Techzonics](http://techzonics.com/)
 * [2023-07-07, 04:47:40](https://news.ycombinator.com/item?id=36627272) - [Robotaxi haters in San Francisco are disabling the AVs with traffic cones](https://techcrunch.com/2023/07/06/robotaxi-haters-in-san-francisco-are-disabling-waymo-cruise-traffic-cones/)
@@ -19,6 +22,7 @@
 * [2023-07-07, 02:31:31](https://news.ycombinator.com/item?id=36626317) - [The World Might Be Better Off Without College for Everyone (2018)](https://www.theatlantic.com/magazine/archive/2018/01/whats-college-good-for/546590/)
 * [2023-07-07, 02:27:33](https://news.ycombinator.com/item?id=36626277) - [Microsoft Edge Pre-Installing Google Docs Offline Extension](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel)
 * [2023-07-07, 01:46:24](https://news.ycombinator.com/item?id=36625950) - [Tailwind and the Beauty of Ugly Code](https://boot-and-shoe.vercel.app/posts/skeptics-guide-to-tailwind)
+* [2023-07-07, 01:40:51](https://news.ycombinator.com/item?id=36625908) - [The $5 Plan](https://blog.railway.app/p/introducing-trial-hobby-pro-plans)
 * [2023-07-07, 01:15:11](https://news.ycombinator.com/item?id=36625733) - [Understanding Cybersecurity Frameworks: NIST, ISO, and More](https://www.thefinalhop.com/understanding-cybersecurity-frameworks-nist-iso-and-more/)
 * [2023-07-07, 00:36:24](https://news.ycombinator.com/item?id=36625400) - [Waterwave Could Quench AIs' Thirst for GPU Memory](https://spectrum.ieee.org/ai-training)
 * [2023-07-07, 00:22:21](https://news.ycombinator.com/item?id=36625270) - [All the red flags in the Threads privacy policy](https://qz.com/threads-meta-delayed-launch-eu-privacy-policy-concerns-1850609340)
