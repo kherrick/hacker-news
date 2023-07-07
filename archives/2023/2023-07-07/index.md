@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
 * [2023-07-07, 08:58:32](https://news.ycombinator.com/item?id=36629085) - [32“ E Ink screen that displays daily newspapers on your wall](https://projecteink.com/pages/about)
+* [2023-07-07, 08:50:31](https://news.ycombinator.com/item?id=36629031) - [TeleSign profiles half of the world’s mobile phone users](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
 * [2023-07-07, 08:50:13](https://news.ycombinator.com/item?id=36629027) - [The Styx Programming Language](https://gitlab.com/styx-lang/styx)
 * [2023-07-07, 08:41:58](https://news.ycombinator.com/item?id=36628976) - [List of Unix binaries that can be used to bypass local security restrictions](https://gtfobins.github.io/)
 * [2023-07-07, 08:26:42](https://news.ycombinator.com/item?id=36628852) - [Ask HN: What stage of grief are you at regarding climate change?](https://news.ycombinator.com/item?id=36628852)
@@ -13,6 +14,7 @@
 * [2023-07-07, 07:24:16](https://news.ycombinator.com/item?id=36628356) - [Andreas Kling – Failure is also a habit](https://awesomekling.github.io/Excellence-is-a-habit-but-so-is-failure/)
 * [2023-07-07, 07:12:48](https://news.ycombinator.com/item?id=36628284) - [Ask HN: How did you migrate off Evernote?](https://news.ycombinator.com/item?id=36628284)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
+* [2023-07-07, 07:05:43](https://news.ycombinator.com/item?id=36628238) - [Escaping High School](https://skunkledger.substack.com/p/escaping-high-school)
 * [2023-07-07, 06:36:51](https://news.ycombinator.com/item?id=36628013) - [Homebrew's analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
 * [2023-07-07, 06:30:20](https://news.ycombinator.com/item?id=36627969) - [Mass store closures in San Francisco [video]](https://www.youtube.com/watch?v=vB3IU8uwb2k)
 * [2023-07-07, 06:27:45](https://news.ycombinator.com/item?id=36627950) - [Google Street View returns to Germany after 10 Years](https://www.androidpolice.com/google-street-view-germany-after-10-years-privacy-outcry/)
