@@ -2,11 +2,11 @@
 
 * [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
-* [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech Debt Metaphor Maximalism](https://apenwarr.ca/log/?m=202306)
+* [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
+* [2023-07-07, 17:46:13](https://news.ycombinator.com/item?id=36635489) - [Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
 * [2023-07-07, 17:20:07](https://news.ycombinator.com/item?id=36635061) - [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
 * [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
-* [2023-07-07, 16:44:07](https://news.ycombinator.com/item?id=36634430) - [Gitlab.com is down](https://status.gitlab.com/)
 * [2023-07-07, 16:18:17](https://news.ycombinator.com/item?id=36633995) - [Experiencing decreased performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
