@@ -28,7 +28,7 @@
 * [2023-07-06, 15:23:21](https://news.ycombinator.com/item?id=36617433) - [PlanetScale Scaler Pro](https://planetscale.com/blog/announcing-scaler-pro)
 * [2023-07-06, 14:47:58](https://news.ycombinator.com/item?id=36616799) - [Demystifying Text Data with the Unstructured Python Library](https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/)
 * [2023-07-06, 14:29:49](https://news.ycombinator.com/item?id=36616398) - [LEGO Building Instructions](https://archive.org/details/lego-set-instructions)
-* [2023-07-06, 13:58:46](https://news.ycombinator.com/item?id=36615849) - [Tor’s history of D/DoS attacks and future strategies for mitigation](https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145)
+* [2023-07-06, 12:28:27](https://news.ycombinator.com/item?id=36614774) - [Scaling Transformers to 1B Tokens](https://arxiv.org/abs/2307.02486)
 * [2023-07-04, 09:58:04](https://news.ycombinator.com/item?id=36584464) - [Open source code with profanity in comments is statistically better](https://blog.desdelinux.net/en/open-source-with-profanity-in-comments-is-statistically-better-than-code-without-it/)
 
 ## [Archives](archives/index.md)
