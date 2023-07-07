@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 18:57:59](https://news.ycombinator.com/item?id=36636738) - [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
+* [2023-07-07, 18:42:03](https://news.ycombinator.com/item?id=36636486) - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
 * [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 * [2023-07-07, 18:09:40](https://news.ycombinator.com/item?id=36635890) - [Brave Browser deserves more love](https://github.com/brave/brave-browser)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta Releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)

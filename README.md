@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-07, 18:57:59](https://news.ycombinator.com/item?id=36636738) - [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
+* [2023-07-07, 18:42:03](https://news.ycombinator.com/item?id=36636486) - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
 * [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 * [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
 * [2023-07-07, 17:46:13](https://news.ycombinator.com/item?id=36635489) - [Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
-* [2023-07-07, 16:50:38](https://news.ycombinator.com/item?id=36634568) - [The status quo coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
 * [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
 * [2023-07-07, 16:18:17](https://news.ycombinator.com/item?id=36633995) - [Experiencing decreased performance with ChatGPT-4](https://community.openai.com/t/experiencing-decreased-performance-with-chatgpt-4/234269)
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
@@ -29,7 +30,6 @@
 * [2023-07-06, 14:47:56](https://news.ycombinator.com/item?id=36616798) - [Paint Drip People](https://tidyfirst.substack.com/p/paint-drip-people)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
 * [2023-07-06, 02:59:01](https://news.ycombinator.com/item?id=36610524) - [The Tyranny of the Tale](https://www.newyorker.com/magazine/2023/07/10/seduced-by-story-peter-brooks-bewitching-the-modern-mind-christian-salmon-the-story-paradox-jonathan-gottschall-book-review)
-* [2023-07-05, 22:18:33](https://news.ycombinator.com/item?id=36607975) - [Novel microwave isolator points the way to new radio cameras, quantum computers](https://phys.org/news/2023-07-microwave-isolator-radio-cameras-quantum.html)
 
 ## [Archives](archives/index.md)
 
