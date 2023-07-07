@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
+* [2023-07-07, 08:23:41](https://news.ycombinator.com/item?id=36628822) - [Queer-friendly Berlin sets itself apart](https://www.dw.com/en/how-queer-friendly-berlin-sets-itself-apart/a-66098528)
 * [2023-07-07, 07:12:48](https://news.ycombinator.com/item?id=36628284) - [Ask HN: How did you migrate off Evernote?](https://news.ycombinator.com/item?id=36628284)
 * [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [Openworm – a biological simulation of a worm with 302 neurons](https://github.com/openworm/OpenWorm)
 * [2023-07-07, 06:36:51](https://news.ycombinator.com/item?id=36628013) - [Homebrew's analytics have moved to the EU and away from Google](https://docs.brew.sh/Analytics)
