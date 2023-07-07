@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-07-06, 20:34:38",
+      "https://news.ycombinator.com/item?id=36622550"
+    ],
+    [
+      "LXD Moves into Canonical",
+      "https://lwn.net/Articles/937369/"
+    ]
+  ],
+  [
+    [
       "2023-07-06, 19:12:21",
       "https://news.ycombinator.com/item?id=36621263"
     ],
@@ -247,26 +257,6 @@
     [
       "GPT-4 API General Availability",
       "https://openai.com/blog/gpt-4-api-general-availability"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 18:59:53",
-      "https://news.ycombinator.com/item?id=36621057"
-    ],
-    [
-      "Imagination GPUs now support OpenGL 4.6",
-      "https://blog.imaginationtech.com/imagination-gpus-now-support-opengl-4.6"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 18:54:29",
-      "https://news.ycombinator.com/item?id=36620969"
-    ],
-    [
-      "I want XAES-256-GCM/11",
-      "https://words.filippo.io/dispatches/xaes-256-gcm-11/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "{n} times faster than C",
       "https://owen.cafe/posts/six-times-faster-than-c/"
+    ]
+  ],
+  [
+    [
+      "2023-07-06, 14:29:49",
+      "https://news.ycombinator.com/item?id=36616398"
+    ],
+    [
+      "LEGO Building Instructions",
+      "https://archive.org/details/lego-set-instructions"
     ]
   ]
 ]
