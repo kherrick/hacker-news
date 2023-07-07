@@ -18,7 +18,6 @@
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us reflection/runtime types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
-* [2023-07-07, 18:40:09](https://news.ycombinator.com/item?id=36636457) - [Goroutines: The concurrency model we wanted all along](https://jayconrod.com/posts/128/goroutines-the-concurrency-model-we-wanted-all-along)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 * [2023-07-07, 17:49:05](https://news.ycombinator.com/item?id=36635523) - [FastAPI 0.100.0 release notes](https://fastapi.tiangolo.com/release-notes/)
 * [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
@@ -27,7 +26,8 @@
 * [2023-07-07, 15:48:57](https://news.ycombinator.com/item?id=36633529) - [Going Rogue](https://www.filfre.net/2023/07/going-rogue/)
 * [2023-07-07, 14:08:19](https://news.ycombinator.com/item?id=36632010) - [Closure, from why the lucky stiff (2013)](https://github.com/steveklabnik/CLOSURE)
 * [2023-07-07, 12:25:27](https://news.ycombinator.com/item?id=36630652) - [Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP](http://windowsupdaterestored.com/)
-* [2023-07-07, 07:08:38](https://news.ycombinator.com/item?id=36628258) - [OpenWorm – A computational model of C. elegans worm](https://github.com/openworm/OpenWorm)
+* [2023-07-07, 09:16:51](https://news.ycombinator.com/item?id=36629195) - [Show HN: Mystery-o-matic – A daily murder mystery to solve](https://mystery-o-matic.com/)
+* [2023-07-07, 06:14:59](https://news.ycombinator.com/item?id=36627878) - [The Measurers Measured (2017)](http://seeingscience.umbc.edu/2017/03/seth-barry-watter-the-measurers-measured/)
 * [2023-07-07, 00:19:37](https://news.ycombinator.com/item?id=36625247) - [Webb Telescope detects most distant active supermassive black hole](https://phys.org/news/2023-07-webb-telescope-distant-supermassive-black.html)
 * [2023-07-06, 10:15:16](https://news.ycombinator.com/item?id=36613727) - [Show HN: Blogs.hn – tiny blog directory](https://blogs.hn)
 
