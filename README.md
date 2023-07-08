@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 01:57:58](https://news.ycombinator.com/item?id=36640613) - [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
-* [2023-07-08, 00:39:59](https://news.ycombinator.com/item?id=36640120) - [Ask HN: Could you please brutally review my product website?](https://www.perfai.ai)
 * [2023-07-07, 23:18:23](https://news.ycombinator.com/item?id=36639530) - [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
 * [2023-07-07, 21:30:42](https://news.ycombinator.com/item?id=36638591) - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 * [2023-07-07, 21:25:46](https://news.ycombinator.com/item?id=36638530) - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
