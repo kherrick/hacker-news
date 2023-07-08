@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 21:10:51](https://news.ycombinator.com/item?id=36648817) - [Is Htmx Gaining in Popularity?](https://trends.builtwith.com/javascript/Htmx)
+* [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
 * [2023-07-08, 20:46:41](https://news.ycombinator.com/item?id=36648587) - [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
+* [2023-07-08, 20:28:59](https://news.ycombinator.com/item?id=36648394) - [City of Portland Inclusive Writing Guide [pdf]](https://www.portland.gov/officeofequity/documents/inclusive-writing-guide-6-23/download)
 * [2023-07-08, 20:23:05](https://news.ycombinator.com/item?id=36648333) - [Airline passenger finds plane floor soaked in blood](https://www.cnn.com/travel/airline-passenger-air-france-blood/index.html)
 * [2023-07-08, 20:16:34](https://news.ycombinator.com/item?id=36648289) - [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
 * [2023-07-08, 19:56:12](https://news.ycombinator.com/item?id=36648119) - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
