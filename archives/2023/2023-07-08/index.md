@@ -6,6 +6,7 @@
 
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 07:15:11](https://news.ycombinator.com/item?id=36642117) - [Chatgpt.js: An open-source, powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
+* [2023-07-08, 06:54:47](https://news.ycombinator.com/item?id=36642012) - [200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
 * [2023-07-08, 06:19:38](https://news.ycombinator.com/item?id=36641847) - [The media is spreading bad science; misleading studies are being taken as gospel](https://unherd.com/2023/04/the-media-is-spreading-bad-trans-science/)
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
 * [2023-07-08, 05:30:12](https://news.ycombinator.com/item?id=36641607) - [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
