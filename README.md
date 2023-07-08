@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 11:13:13](https://news.ycombinator.com/item?id=36643325) - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
+* [2023-07-08, 10:51:04](https://news.ycombinator.com/item?id=36643212) - [Super Drug](https://www.profgalloway.com/super-drug/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 06:54:47](https://news.ycombinator.com/item?id=36642012) - [200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
@@ -7,7 +9,6 @@
 * [2023-07-08, 04:47:51](https://news.ycombinator.com/item?id=36641423) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 04:39:39](https://news.ycombinator.com/item?id=36641393) - [LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
 * [2023-07-08, 03:56:20](https://news.ycombinator.com/item?id=36641226) - [ZeroVer: 0-Based Versioning](https://0ver.org/)
-* [2023-07-08, 03:44:41](https://news.ycombinator.com/item?id=36641183) - [POP64 Released: Quad-Core Cortex-A53(12nm) 1GB LPDDR4 SiP at 18x16mm](https://shop.popcorncomputer.com/products/pop64-system-in-package-sip-ic)
 * [2023-07-08, 02:23:36](https://news.ycombinator.com/item?id=36640769) - [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
 * [2023-07-08, 00:13:49](https://news.ycombinator.com/item?id=36639932) - [Money No Enough, Passion Needed Too: Restoring Classic Singaporean Films](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/)
@@ -20,7 +21,6 @@
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows 95 tips, tricks, and tweaks (2013)](https://windows95tips.com)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
-* [2023-07-07, 20:04:15](https://news.ycombinator.com/item?id=36637585) - [The horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
 * [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
 * [2023-07-07, 19:41:06](https://news.ycombinator.com/item?id=36637283) - [Show HN: Day by Day – every day of my life](https://days.rory.codes)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)

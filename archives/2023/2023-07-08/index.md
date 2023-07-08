@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 11:13:13](https://news.ycombinator.com/item?id=36643325) - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
+* [2023-07-08, 10:51:04](https://news.ycombinator.com/item?id=36643212) - [Super Drug](https://www.profgalloway.com/super-drug/)
 * [2023-07-08, 08:24:18](https://news.ycombinator.com/item?id=36642479) - [The Science of Science](https://slow-thoughts.com/the-science-of-science/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 07:15:11](https://news.ycombinator.com/item?id=36642117) - [Chatgpt.js: An open-source, powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
