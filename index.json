@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-08, 12:32:27",
-      "https://news.ycombinator.com/item?id=36643754"
-    ],
-    [
-      "How to Succeed: Lessons from Sam Altman",
-      "https://aarushgupta.com/2023/07/08/success-sam-altman.html"
-    ]
-  ],
-  [
-    [
       "2023-07-08, 12:29:22",
       "https://news.ycombinator.com/item?id=36643732"
     ],
@@ -21,12 +11,32 @@
   ],
   [
     [
+      "2023-07-08, 12:28:35",
+      "https://news.ycombinator.com/item?id=36643727"
+    ],
+    [
+      "The Truth About Deinstitutionalization (2021)",
+      "https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 12:18:46",
       "https://news.ycombinator.com/item?id=36643670"
     ],
     [
       "If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython",
-      "https://discuss.python.org/t/a-fast-free-threading-python/27903?page=5"
+      "https://discuss.python.org/t/a-fast-free-threading-python/27903/99"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 12:12:31",
+      "https://news.ycombinator.com/item?id=36643630"
+    ],
+    [
+      "Scams upon scams: The data-driven advertising grift",
+      "https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36642315"
     ],
     [
-      "Train Your AI Model Once and Deploy on Any Cloud",
+      "Train an AI model once and deploy on any cloud",
       "https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/"
     ]
   ],
@@ -231,42 +241,22 @@
   ],
   [
     [
-      "2023-07-07, 21:00:48",
-      "https://news.ycombinator.com/item?id=36638237"
-    ],
-    [
-      "Aviator (YC S21) is hiring engineers to build the future of monorepos",
-      "https://www.ycombinator.com/companies/aviator/jobs"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 20:35:11",
-      "https://news.ycombinator.com/item?id=36637964"
-    ],
-    [
-      "Introduction to math for game developers",
-      "https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 20:20:33",
-      "https://news.ycombinator.com/item?id=36637774"
-    ],
-    [
-      "A New Experiment Casts Doubt on the Leading Theory of the Nucleus",
-      "https://nautil.us/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-352026/"
-    ]
-  ],
-  [
-    [
       "2023-07-07, 20:11:04",
       "https://news.ycombinator.com/item?id=36637655"
     ],
     [
       "Why I Hate Frameworks (2005)",
       "https://factoryfactoryfactory.net/"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 19:03:35",
+      "https://news.ycombinator.com/item?id=36636810"
+    ],
+    [
+      "DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens",
+      "https://www.darpa.mil/news-events/2023-06-29"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Owner of Symbolics Lisp machines IP is interested in a non-commercial release",
       "https://hachyderm.io/@gmpalter/110673993659492472"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 12:25:27",
+      "https://news.ycombinator.com/item?id=36630652"
+    ],
+    [
+      "Windows Update Restored: Fix Windows update on Windows 95, 98, ME, 2000, and XP",
+      "http://windowsupdaterestored.com/"
     ]
   ]
 ]
