@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
 * [2023-07-08, 05:30:12](https://news.ycombinator.com/item?id=36641607) - [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
 * [2023-07-08, 04:47:51](https://news.ycombinator.com/item?id=36641423) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 03:56:20](https://news.ycombinator.com/item?id=36641226) - [ZeroVer: 0-Based Versioning](https://0ver.org/)
@@ -15,7 +16,6 @@
 * [2023-07-07, 20:17:31](https://news.ycombinator.com/item?id=36637736) - [Top suspect in 2015 Ashley Madison hack committed suicide in 2014](https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
 * [2023-07-07, 20:04:15](https://news.ycombinator.com/item?id=36637585) - [The horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
-* [2023-07-07, 20:00:19](https://news.ycombinator.com/item?id=36637533) - [Look Where You're Headed](http://blog.quinefoundation.com/post/look-where-youre-headed)
 * [2023-07-07, 19:41:06](https://news.ycombinator.com/item?id=36637283) - [Show HN: Day by Day – every day of my life](https://days.rory.codes)
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us reflection/runtime types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
