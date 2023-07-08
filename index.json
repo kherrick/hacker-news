@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-07-08, 05:30:12",
-      "https://news.ycombinator.com/item?id=36641607"
-    ],
-    [
-      "Google to explore alternatives to robots.txt",
-      "https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/"
-    ]
-  ],
-  [
-    [
       "2023-07-08, 05:15:11",
       "https://news.ycombinator.com/item?id=36641542"
     ],
@@ -217,6 +207,16 @@
     [
       "Meta releases Intermediate Graphics Library",
       "https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 17:49:05",
+      "https://news.ycombinator.com/item?id=36635523"
+    ],
+    [
+      "FastAPI 0.100.0 release notes",
+      "https://fastapi.tiangolo.com/release-notes/"
     ]
   ],
   [
