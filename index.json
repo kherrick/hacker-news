@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2023-07-07, 20:00:19",
+      "https://news.ycombinator.com/item?id=36637533"
+    ],
+    [
+      "Look Where You're Headed",
+      "http://blog.quinefoundation.com/post/look-where-youre-headed"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 19:41:06",
       "https://news.ycombinator.com/item?id=36637283"
     ],
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2023-07-07, 17:49:05",
+      "https://news.ycombinator.com/item?id=36635523"
+    ],
+    [
+      "FastAPI 0.100.0 release notes",
+      "https://fastapi.tiangolo.com/release-notes/"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 17:46:49",
       "https://news.ycombinator.com/item?id=36635496"
     ],
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2023-07-07, 09:16:51",
-      "https://news.ycombinator.com/item?id=36629195"
-    ],
-    [
-      "Show HN: Mystery-o-matic – A daily murder mystery to solve",
-      "https://mystery-o-matic.com/"
-    ]
-  ],
-  [
-    [
       "2023-07-07, 00:19:37",
       "https://news.ycombinator.com/item?id=36625247"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Matcheroni, a tiny C++20 header library for building lexers/parsers",
       "https://github.com/aappleby/Matcheroni"
-    ]
-  ],
-  [
-    [
-      "2023-07-06, 10:15:16",
-      "https://news.ycombinator.com/item?id=36613727"
-    ],
-    [
-      "Show HN: Blogs.hn – tiny blog directory",
-      "https://blogs.hn"
     ]
   ]
 ]
