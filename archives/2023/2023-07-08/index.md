@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
 * [2023-07-08, 16:42:51](https://news.ycombinator.com/item?id=36646116) - [San Francisco loses 2 big conferences](https://www.sfgate.com/bayarea/article/san-francisco-loses-meta-red-hat-conferences-18187573.php)
 * [2023-07-08, 16:32:49](https://news.ycombinator.com/item?id=36645999) - [Pokémon Go creator Niantic accused of ‘systemic sexual bias’ in lawsuit](https://www.theverge.com/2023/7/7/23787809/niantic-lawsuit-systemic-sexual-bias-pay-disparity)
@@ -17,6 +18,7 @@
 * [2023-07-08, 15:01:09](https://news.ycombinator.com/item?id=36645038) - [As a Therapist, I Know What’s Breaking Couples Up – The Walrus](https://thewalrus.ca/what-breaks-up-couples/)
 * [2023-07-08, 14:59:47](https://news.ycombinator.com/item?id=36645022) - [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
 * [2023-07-08, 14:49:51](https://news.ycombinator.com/item?id=36644952) - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
+* [2023-07-08, 14:47:48](https://news.ycombinator.com/item?id=36644933) - [CrunchGPT: A ChatGPT assisted framework for scientific machine learning](https://arxiv.org/abs/2306.15551)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
 * [2023-07-08, 14:14:59](https://news.ycombinator.com/item?id=36644634) - [Show HN: Sitemap2Feed – Convert an online sitemap to Atom, RSS and JSON feeds](https://github.com/midzer/sitemap2feed)
