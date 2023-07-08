@@ -6,7 +6,10 @@
 
 * [2023-07-08, 12:32:27](https://news.ycombinator.com/item?id=36643754) - [How to Succeed: Lessons from Sam Altman](https://aarushgupta.com/2023/07/08/success-sam-altman.html)
 * [2023-07-08, 12:29:22](https://news.ycombinator.com/item?id=36643732) - [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
+* [2023-07-08, 12:28:35](https://news.ycombinator.com/item?id=36643727) - [The Truth About Deinstitutionalization (2021)](https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/)
 * [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [Meta pledges Three-Year sponsorship for Python if GIL removal is accepted](https://discuss.python.org/t/a-fast-free-threading-python/27903?page=5)
+* [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
+* [2023-07-08, 12:12:31](https://news.ycombinator.com/item?id=36643630) - [Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
 * [2023-07-08, 11:13:13](https://news.ycombinator.com/item?id=36643325) - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
 * [2023-07-08, 11:04:48](https://news.ycombinator.com/item?id=36643278) - [Farmer ordered to pay >$92K after confusion over meaning of thumbs-up emoji](https://www.abc.net.au/news/2023-07-08/canadian-farmer-pay-92k-fine-after-emoji-confusion/102579514)
 * [2023-07-08, 10:51:04](https://news.ycombinator.com/item?id=36643212) - [Super Drug](https://www.profgalloway.com/super-drug/)
