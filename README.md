@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-08, 19:33:14](https://news.ycombinator.com/item?id=36647912) - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
-* [2023-07-08, 19:25:47](https://news.ycombinator.com/item?id=36647843) - [The riots in France have become antisemitic](https://www.jpost.com/opinion/article-749141)
 * [2023-07-08, 18:35:06](https://news.ycombinator.com/item?id=36647364) - [Learn Electronics by Practice](https://beletronics.wordpress.com/)
 * [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
 * [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why Use Pascal?](https://castle-engine.io/why_pascal)
@@ -18,6 +17,7 @@
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
 * [2023-07-08, 14:14:59](https://news.ycombinator.com/item?id=36644634) - [Show HN: Sitemap2Feed – Convert an online sitemap to Atom, RSS and JSON feeds](https://github.com/midzer/sitemap2feed)
 * [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
+* [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
 * [2023-07-08, 13:10:00](https://news.ycombinator.com/item?id=36644026) - [Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
 * [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
