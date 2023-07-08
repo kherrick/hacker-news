@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+* [2023-07-08, 18:09:43](https://news.ycombinator.com/item?id=36647070) - [“It brings out the worst in everyone”: Workers are competing for their own jobs](https://www.bbc.com/worklife/article/20230703-it-brings-out-the-worst-in-everyone-why-some-workers-are-competing-for-their-own-jobs)
+* [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why Use Pascal?](https://castle-engine.io/why_pascal)
+* [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [How and Why I Stopped Buying New Laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
-* [2023-07-08, 16:42:51](https://news.ycombinator.com/item?id=36646116) - [San Francisco loses 2 big conferences](https://www.sfgate.com/bayarea/article/san-francisco-loses-meta-red-hat-conferences-18187573.php)
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 15:56:19](https://news.ycombinator.com/item?id=36645575) - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
 * [2023-07-08, 15:42:20](https://news.ycombinator.com/item?id=36645448) - [Flickr Foundation is building a new bridge between Flickr and Wikimedia Commons](https://diff.wikimedia.org/2023/07/07/flickr-foundation-is-building-a-new-bridge-between-flickr-and-wikimedia-commons/)
@@ -20,7 +21,7 @@
 * [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
 * [2023-07-08, 12:12:31](https://news.ycombinator.com/item?id=36643630) - [Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
-* [2023-07-08, 10:11:00](https://news.ycombinator.com/item?id=36642998) - [A definitive guide to Docker in 2023](https://masteringbackend.com/posts/docker-tutorial)
+* [2023-07-08, 09:57:59](https://news.ycombinator.com/item?id=36642935) - [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline)
 * [2023-07-08, 09:57:03](https://news.ycombinator.com/item?id=36642932) - [I am drowning in mutes: The current Threads experience](https://internettalk.substack.com/p/i-am-drowning-in-mutes-please-help)
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
 * [2023-07-08, 09:28:32](https://news.ycombinator.com/item?id=36642799) - [We all need some space](https://aperiodical.com/2023/07/we-all-need-some-space/)
@@ -29,7 +30,6 @@
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
 * [2023-07-08, 04:39:39](https://news.ycombinator.com/item?id=36641393) - [LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
 * [2023-07-07, 19:14:20](https://news.ycombinator.com/item?id=36636921) - [Epistemological Relativism](https://www.reading.ac.uk/AcaDepts/ld/Philos/jmp/Theory%20of%20Knowledge/EpistemologicalRelativism.htm)
-* [2023-07-07, 17:21:00](https://news.ycombinator.com/item?id=36635079) - [How to Write Music for Rolling Boulders](https://www.nytimes.com/interactive/2023/07/07/opinion/indiana-jones-movie-john-williams-music.html)
 
 ## [Archives](archives/index.md)
 
