@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 12:32:27](https://news.ycombinator.com/item?id=36643754) - [How to Succeed: Lessons from Sam Altman](https://aarushgupta.com/2023/07/08/success-sam-altman.html)
+* [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [Meta pledges Three-Year sponsorship for Python if GIL removal is accepted](https://discuss.python.org/t/a-fast-free-threading-python/27903?page=5)
 * [2023-07-08, 11:13:13](https://news.ycombinator.com/item?id=36643325) - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
 * [2023-07-08, 11:04:48](https://news.ycombinator.com/item?id=36643278) - [Farmer ordered to pay >$92K after confusion over meaning of thumbs-up emoji](https://www.abc.net.au/news/2023-07-08/canadian-farmer-pay-92k-fine-after-emoji-confusion/102579514)
 * [2023-07-08, 10:51:04](https://news.ycombinator.com/item?id=36643212) - [Super Drug](https://www.profgalloway.com/super-drug/)
+* [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
+* [2023-07-08, 09:57:03](https://news.ycombinator.com/item?id=36642932) - [I am drowning in mutes please help (Threads)](https://internettalk.substack.com/p/i-am-drowning-in-mutes-please-help)
+* [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
+* [2023-07-08, 09:28:12](https://news.ycombinator.com/item?id=36642796) - [Software Engineers Hate Code](https://www.dancowell.com/software-engineers-hate-code/)
 * [2023-07-08, 08:24:18](https://news.ycombinator.com/item?id=36642479) - [The Science of Science](https://slow-thoughts.com/the-science-of-science/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 07:15:11](https://news.ycombinator.com/item?id=36642117) - [Chatgpt.js: An open-source, powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
