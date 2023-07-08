@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 18:33:16](https://news.ycombinator.com/item?id=36647353) - [Ask HN: Why hasn’t Apple created an ad-blocker in the system level for iOS?](https://news.ycombinator.com/item?id=36647353)
 * [2023-07-08, 18:09:43](https://news.ycombinator.com/item?id=36647070) - [“It brings out the worst in everyone”: Workers are competing for their own jobs](https://www.bbc.com/worklife/article/20230703-it-brings-out-the-worst-in-everyone-why-some-workers-are-competing-for-their-own-jobs)
 * [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why Use Pascal?](https://castle-engine.io/why_pascal)
 * [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
