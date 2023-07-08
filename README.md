@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
 * [2023-07-08, 21:27:44](https://news.ycombinator.com/item?id=36648949) - [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
 * [2023-07-08, 21:10:51](https://news.ycombinator.com/item?id=36648817) - [Is Htmx Gaining in Popularity?](https://trends.builtwith.com/javascript/Htmx)
 * [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
@@ -14,7 +15,6 @@
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 15:56:19](https://news.ycombinator.com/item?id=36645575) - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
-* [2023-07-08, 15:42:20](https://news.ycombinator.com/item?id=36645448) - [Flickr Foundation is building a new bridge between Flickr and Wikimedia Commons](https://diff.wikimedia.org/2023/07/07/flickr-foundation-is-building-a-new-bridge-between-flickr-and-wikimedia-commons/)
 * [2023-07-08, 15:32:07](https://news.ycombinator.com/item?id=36645356) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 14:47:48](https://news.ycombinator.com/item?id=36644933) - [CrunchGPT: A ChatGPT assisted framework for scientific machine learning](https://arxiv.org/abs/2306.15551)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
