@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 13:27:24](https://news.ycombinator.com/item?id=36644185) - [The WHO is about to declare aspartame can cause cancer](https://www.vox.com/2023/7/1/23780348/aspartame-cancer-carcinogenic-health-risk-who-iarc-fda-efsa-diet-coke-sugar-free)
 * [2023-07-08, 12:32:27](https://news.ycombinator.com/item?id=36643754) - [How to Succeed: Lessons from Sam Altman](https://aarushgupta.com/2023/07/08/success-sam-altman.html)
 * [2023-07-08, 12:29:22](https://news.ycombinator.com/item?id=36643732) - [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
 * [2023-07-08, 12:28:35](https://news.ycombinator.com/item?id=36643727) - [The Truth About Deinstitutionalization (2021)](https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/)
