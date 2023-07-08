@@ -11,6 +11,7 @@
 * [2023-07-08, 11:13:13](https://news.ycombinator.com/item?id=36643325) - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
 * [2023-07-08, 11:04:48](https://news.ycombinator.com/item?id=36643278) - [Farmer ordered to pay $CAD82k after confusion over meaning of thumbs-up emoji](https://www.abc.net.au/news/2023-07-08/canadian-farmer-pay-92k-fine-after-emoji-confusion/102579514)
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
+* [2023-07-08, 10:11:00](https://news.ycombinator.com/item?id=36642998) - [The Definitive Guide to Docker in 2023](https://masteringbackend.com/posts/docker-tutorial)
 * [2023-07-08, 09:57:59](https://news.ycombinator.com/item?id=36642935) - [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline)
 * [2023-07-08, 09:57:03](https://news.ycombinator.com/item?id=36642932) - [I am drowning in mutes: The current Threads experience](https://internettalk.substack.com/p/i-am-drowning-in-mutes-please-help)
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
@@ -27,7 +28,6 @@
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix multiplication using only addition](https://arxiv.org/abs/2307.01415)
 * [2023-07-08, 00:13:49](https://news.ycombinator.com/item?id=36639932) - [Money No Enough, Passion Needed Too: Restoring Classic Singaporean Films](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
-* [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us reflection/runtime types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 * [2023-07-07, 17:39:40](https://news.ycombinator.com/item?id=36635373) - [Owner of Symbolics Lisp machines IP is interested in a non-commercial release](https://hachyderm.io/@gmpalter/110673993659492472)
 
