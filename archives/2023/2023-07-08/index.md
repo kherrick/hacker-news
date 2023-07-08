@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
 * [2023-07-08, 18:33:16](https://news.ycombinator.com/item?id=36647353) - [Ask HN: Why hasn’t Apple created an ad-blocker in the system level for iOS?](https://news.ycombinator.com/item?id=36647353)
+* [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
 * [2023-07-08, 18:09:43](https://news.ycombinator.com/item?id=36647070) - [“It brings out the worst in everyone”: Workers are competing for their own jobs](https://www.bbc.com/worklife/article/20230703-it-brings-out-the-worst-in-everyone-why-some-workers-are-competing-for-their-own-jobs)
 * [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why Use Pascal?](https://castle-engine.io/why_pascal)
 * [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [How and Why I Stopped Buying New Laptops](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
+* [2023-07-08, 17:31:17](https://news.ycombinator.com/item?id=36646598) - [How to Verify Your Domain on Nostr and Bluesky (For Micro.blog Users)](https://mattlangford.com/2023/07/06/how-to-verify.html)
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
 * [2023-07-08, 16:42:51](https://news.ycombinator.com/item?id=36646116) - [San Francisco loses 2 big conferences](https://www.sfgate.com/bayarea/article/san-francisco-loses-meta-red-hat-conferences-18187573.php)
 * [2023-07-08, 16:32:49](https://news.ycombinator.com/item?id=36645999) - [Pokémon Go creator Niantic accused of ‘systemic sexual bias’ in lawsuit](https://www.theverge.com/2023/7/7/23787809/niantic-lawsuit-systemic-sexual-bias-pay-disparity)
