@@ -6,6 +6,7 @@
 
 * [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
 * [2023-07-08, 21:27:44](https://news.ycombinator.com/item?id=36648949) - [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
+* [2023-07-08, 21:11:17](https://news.ycombinator.com/item?id=36648821) - [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
 * [2023-07-08, 21:10:51](https://news.ycombinator.com/item?id=36648817) - [Is Htmx Gaining in Popularity?](https://trends.builtwith.com/javascript/Htmx)
 * [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
 * [2023-07-08, 20:46:41](https://news.ycombinator.com/item?id=36648587) - [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
