@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 20:16:34](https://news.ycombinator.com/item?id=36648289) - [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
+* [2023-07-08, 19:56:12](https://news.ycombinator.com/item?id=36648119) - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 * [2023-07-08, 19:33:14](https://news.ycombinator.com/item?id=36647912) - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
 * [2023-07-08, 19:25:47](https://news.ycombinator.com/item?id=36647843) - [The riots in France have become antisemitic](https://www.jpost.com/opinion/article-749141)
+* [2023-07-08, 18:45:45](https://news.ycombinator.com/item?id=36647462) - [Algae powers computer for a year using only light and water](https://www.anthropocenemagazine.org/2022/05/algae-powers-computer-for-a-year-using-only-light-and-water/)
 * [2023-07-08, 18:35:06](https://news.ycombinator.com/item?id=36647364) - [Learn Electronics by Practice](https://beletronics.wordpress.com/)
 * [2023-07-08, 18:33:16](https://news.ycombinator.com/item?id=36647353) - [Ask HN: Why hasn’t Apple created an ad-blocker in the system level for iOS?](https://news.ycombinator.com/item?id=36647353)
 * [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
