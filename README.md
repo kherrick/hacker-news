@@ -22,7 +22,6 @@
 * [2023-07-08, 12:12:31](https://news.ycombinator.com/item?id=36643630) - [Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
 * [2023-07-08, 09:57:59](https://news.ycombinator.com/item?id=36642935) - [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline)
-* [2023-07-08, 09:57:03](https://news.ycombinator.com/item?id=36642932) - [I am drowning in mutes: The current Threads experience](https://internettalk.substack.com/p/i-am-drowning-in-mutes-please-help)
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
 * [2023-07-08, 09:28:32](https://news.ycombinator.com/item?id=36642799) - [We all need some space](https://aperiodical.com/2023/07/we-all-need-some-space/)
 * [2023-07-08, 09:28:12](https://news.ycombinator.com/item?id=36642796) - [Software engineers hate code](https://www.dancowell.com/software-engineers-hate-code/)
@@ -30,6 +29,7 @@
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
 * [2023-07-08, 04:39:39](https://news.ycombinator.com/item?id=36641393) - [LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
 * [2023-07-07, 19:14:20](https://news.ycombinator.com/item?id=36636921) - [Epistemological Relativism](https://www.reading.ac.uk/AcaDepts/ld/Philos/jmp/Theory%20of%20Knowledge/EpistemologicalRelativism.htm)
+* [2023-07-07, 17:04:29](https://news.ycombinator.com/item?id=36634794) - [What Is Vsock and Why Use It with Unikernels?](https://nanovms.com/dev/tutorials/what-is-vsock-why-use-with-unikernels)
 
 ## [Archives](archives/index.md)
 

@@ -40,6 +40,7 @@
 * [2023-07-07, 17:21:00](https://news.ycombinator.com/item?id=36635079) - [How to Write Music for Rolling Boulders](https://www.nytimes.com/interactive/2023/07/07/opinion/indiana-jones-movie-john-williams-music.html)
 * [2023-07-07, 17:20:07](https://news.ycombinator.com/item?id=36635061) - [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
 * [2023-07-07, 17:13:48](https://news.ycombinator.com/item?id=36634956) - [The Emergence of AI Engineering](https://www.ignorance.ai/p/becoming-an-ai-engineer)
+* [2023-07-07, 17:04:29](https://news.ycombinator.com/item?id=36634794) - [What Is Vsock and Why Use It with Unikernels?](https://nanovms.com/dev/tutorials/what-is-vsock-why-use-with-unikernels)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
 * [2023-07-07, 16:50:38](https://news.ycombinator.com/item?id=36634568) - [The status quo coalition](https://acoup.blog/2023/07/07/collections-the-status-quo-coalition/)
 * [2023-07-07, 16:48:55](https://news.ycombinator.com/item?id=36634529) - [The underground economy of Glassdoor reviews](https://www.careerfair.io/company-reviews)
