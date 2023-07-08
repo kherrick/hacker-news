@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 14:49:51](https://news.ycombinator.com/item?id=36644952) - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
 * [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 * [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
 * [2023-07-08, 13:58:12](https://news.ycombinator.com/item?id=36644454) - [Cows Learn Better with Friends](https://blogs.scientificamerican.com/thoughtful-animal/cows-learn-better-with-friends/)
 * [2023-07-08, 13:38:16](https://news.ycombinator.com/item?id=36644274) - [Going from React to Vanilla JavaScript](https://alexbezhan.substack.com/p/going-from-react-to-vanilla-js)
 * [2023-07-08, 13:32:22](https://news.ycombinator.com/item?id=36644232) - [How to Spot Fake Reviews on Amazon](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
 * [2023-07-08, 13:27:24](https://news.ycombinator.com/item?id=36644185) - [The WHO is about to declare aspartame can cause cancer](https://www.vox.com/2023/7/1/23780348/aspartame-cancer-carcinogenic-health-risk-who-iarc-fda-efsa-diet-coke-sugar-free)
+* [2023-07-08, 13:10:00](https://news.ycombinator.com/item?id=36644026) - [Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
 * [2023-07-08, 12:56:20](https://news.ycombinator.com/item?id=36643934) - [Raytheon asks retirees for help making new Stinger anti-air missiles](https://www.popsci.com/technology/stinger-missiles-raytheon-ukraine/)
 * [2023-07-08, 12:32:27](https://news.ycombinator.com/item?id=36643754) - [How to Succeed: Lessons from Sam Altman](https://aarushgupta.com/2023/07/08/success-sam-altman.html)
 * [2023-07-08, 12:29:22](https://news.ycombinator.com/item?id=36643732) - [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
