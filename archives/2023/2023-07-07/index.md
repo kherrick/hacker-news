@@ -29,6 +29,7 @@
 * [2023-07-07, 19:14:20](https://news.ycombinator.com/item?id=36636921) - [Epistemological Relativism](https://www.reading.ac.uk/AcaDepts/ld/Philos/jmp/Theory%20of%20Knowledge/EpistemologicalRelativism.htm)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
 * [2023-07-07, 18:57:59](https://news.ycombinator.com/item?id=36636738) - [San Franciscans disable robotaxis by placing a traffic cone on the hood](https://twitter.com/DavidZipper/status/1676968755522588682)
+* [2023-07-07, 18:50:47](https://news.ycombinator.com/item?id=36636642) - [Building a more efficient bike [video]](https://www.youtube.com/watch?v=xev18rBrNr0)
 * [2023-07-07, 18:42:03](https://news.ycombinator.com/item?id=36636486) - [Threads isn’t for news and politics, says Instagram’s boss](https://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook)
 * [2023-07-07, 18:40:09](https://news.ycombinator.com/item?id=36636457) - [Goroutines: The concurrency model we wanted all along](https://jayconrod.com/posts/128/goroutines-the-concurrency-model-we-wanted-all-along)
 * [2023-07-07, 18:17:24](https://news.ycombinator.com/item?id=36636039) - [ChatGPT loses users for first time, shaking faith in AI revolution](https://www.washingtonpost.com/technology/2023/07/07/chatgpt-users-decline-future-ai-openai/)
