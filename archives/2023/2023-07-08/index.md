@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 14:59:47](https://news.ycombinator.com/item?id=36645022) - [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
 * [2023-07-08, 14:49:51](https://news.ycombinator.com/item?id=36644952) - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
+* [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 * [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
 * [2023-07-08, 13:58:12](https://news.ycombinator.com/item?id=36644454) - [Cows Learn Better with Friends](https://blogs.scientificamerican.com/thoughtful-animal/cows-learn-better-with-friends/)

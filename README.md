@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 14:59:47](https://news.ycombinator.com/item?id=36645022) - [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
 * [2023-07-08, 14:49:51](https://news.ycombinator.com/item?id=36644952) - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
+* [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 * [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
 * [2023-07-08, 13:58:12](https://news.ycombinator.com/item?id=36644454) - [Cows Learn Better with Friends (2014)](https://blogs.scientificamerican.com/thoughtful-animal/cows-learn-better-with-friends/)
@@ -9,7 +11,6 @@
 * [2023-07-08, 12:29:22](https://news.ycombinator.com/item?id=36643732) - [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
 * [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
 * [2023-07-08, 12:12:31](https://news.ycombinator.com/item?id=36643630) - [Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
-* [2023-07-08, 11:13:13](https://news.ycombinator.com/item?id=36643325) - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
 * [2023-07-08, 11:04:48](https://news.ycombinator.com/item?id=36643278) - [Farmer ordered to pay $CAD82k after confusion over meaning of thumbs-up emoji](https://www.abc.net.au/news/2023-07-08/canadian-farmer-pay-92k-fine-after-emoji-confusion/102579514)
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
 * [2023-07-08, 10:11:00](https://news.ycombinator.com/item?id=36642998) - [A definitive guide to Docker in 2023](https://masteringbackend.com/posts/docker-tutorial)
@@ -28,7 +29,6 @@
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix multiplication using only addition](https://arxiv.org/abs/2307.01415)
 * [2023-07-08, 00:13:49](https://news.ycombinator.com/item?id=36639932) - [Money No Enough, Passion Needed Too: Restoring Classic Singaporean Films](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
-* [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
 * [2023-07-07, 17:39:40](https://news.ycombinator.com/item?id=36635373) - [Owner of Symbolics Lisp machines IP is interested in a non-commercial release](https://hachyderm.io/@gmpalter/110673993659492472)
 
 ## [Archives](archives/index.md)
