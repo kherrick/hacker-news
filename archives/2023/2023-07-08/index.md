@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
 * [2023-07-08, 03:57:31](https://news.ycombinator.com/item?id=36641235) - [San Francisco’s Sluggish Recovery Puts Its Top-Grade Credit Rating at Risk](https://www.bloomberg.com/news/articles/2023-07-07/san-francisco-s-sluggish-recovery-puts-aaa-rating-at-risk)
+* [2023-07-08, 03:44:41](https://news.ycombinator.com/item?id=36641183) - [POP64 Released: Quad-Core Cortex-A53(12nm) 1GB LPDDR4 SiP at 18x16mm](https://shop.popcorncomputer.com/products/pop64-system-in-package-sip-ic)
 * [2023-07-08, 02:23:36](https://news.ycombinator.com/item?id=36640769) - [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
 * [2023-07-08, 01:57:58](https://news.ycombinator.com/item?id=36640613) - [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
