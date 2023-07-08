@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 20:23:05](https://news.ycombinator.com/item?id=36648333) - [Airline passenger finds plane floor soaked in blood](https://www.cnn.com/travel/airline-passenger-air-france-blood/index.html)
 * [2023-07-08, 20:16:34](https://news.ycombinator.com/item?id=36648289) - [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
 * [2023-07-08, 19:56:12](https://news.ycombinator.com/item?id=36648119) - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 * [2023-07-08, 19:33:14](https://news.ycombinator.com/item?id=36647912) - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)

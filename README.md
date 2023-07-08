@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 20:23:05](https://news.ycombinator.com/item?id=36648333) - [Airline passenger finds plane floor soaked in blood](https://www.cnn.com/travel/airline-passenger-air-france-blood/index.html)
 * [2023-07-08, 20:16:34](https://news.ycombinator.com/item?id=36648289) - [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
 * [2023-07-08, 19:56:12](https://news.ycombinator.com/item?id=36648119) - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 * [2023-07-08, 19:33:14](https://news.ycombinator.com/item?id=36647912) - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
@@ -22,13 +23,12 @@
 * [2023-07-08, 13:10:00](https://news.ycombinator.com/item?id=36644026) - [Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
 * [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
-* [2023-07-08, 09:57:59](https://news.ycombinator.com/item?id=36642935) - [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline)
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
 * [2023-07-08, 09:28:12](https://news.ycombinator.com/item?id=36642796) - [Software engineers hate code](https://www.dancowell.com/software-engineers-hate-code/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train an AI model once and deploy on any cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
-* [2023-07-07, 19:54:40](https://news.ycombinator.com/item?id=36637453) - [The Republic of Translation](https://www.nybooks.com/articles/2023/07/20/the-republic-of-translation-historiae-antonella-anedda/)
 * [2023-07-07, 19:14:20](https://news.ycombinator.com/item?id=36636921) - [Epistemological Relativism](https://www.reading.ac.uk/AcaDepts/ld/Philos/jmp/Theory%20of%20Knowledge/EpistemologicalRelativism.htm)
+* [2023-07-07, 18:06:43](https://news.ycombinator.com/item?id=36635839) - [Panel with photovoltaic material layered on silicon hits 33% efficiencies](https://arstechnica.com/science/2023/07/perovskite-silicon-solar-panels-hit-efficiencies-of-over-30/)
 * [2023-07-07, 17:04:29](https://news.ycombinator.com/item?id=36634794) - [What Is Vsock and Why Use It with Unikernels?](https://nanovms.com/dev/tutorials/what-is-vsock-why-use-with-unikernels)
 
 ## [Archives](archives/index.md)
