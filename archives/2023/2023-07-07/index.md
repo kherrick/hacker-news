@@ -13,6 +13,7 @@
 * [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Godot's Introduction to Math for Game Developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
+* [2023-07-07, 20:20:33](https://news.ycombinator.com/item?id=36637774) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://nautil.us/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-352026/)
 * [2023-07-07, 20:17:31](https://news.ycombinator.com/item?id=36637736) - [Top Suspect in 2015 Ashley Madison Hack Committed Suicide in 2014](https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Factory Factory Factory](https://factoryfactoryfactory.net/)
 * [2023-07-07, 20:04:15](https://news.ycombinator.com/item?id=36637585) - [The Horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
