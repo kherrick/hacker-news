@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 15:56:19](https://news.ycombinator.com/item?id=36645575) - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
 * [2023-07-08, 15:42:20](https://news.ycombinator.com/item?id=36645448) - [Flickr Foundation is building a new bridge between Flickr and Wikimedia Commons](https://diff.wikimedia.org/2023/07/07/flickr-foundation-is-building-a-new-bridge-between-flickr-and-wikimedia-commons/)
 * [2023-07-08, 15:30:00](https://news.ycombinator.com/item?id=36645337) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
@@ -12,6 +13,7 @@
 * [2023-07-08, 14:59:47](https://news.ycombinator.com/item?id=36645022) - [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
 * [2023-07-08, 14:49:51](https://news.ycombinator.com/item?id=36644952) - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
+* [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
 * [2023-07-08, 14:14:59](https://news.ycombinator.com/item?id=36644634) - [Show HN: Sitemap2Feed – Convert an online sitemap to Atom, RSS and JSON feeds](https://github.com/midzer/sitemap2feed)
 * [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 * [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
