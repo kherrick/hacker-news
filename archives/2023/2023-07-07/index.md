@@ -34,6 +34,7 @@
 * [2023-07-07, 17:49:05](https://news.ycombinator.com/item?id=36635523) - [FastAPI 0.100.0:Release Notes](https://fastapi.tiangolo.com/release-notes/)
 * [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech Debt Metaphor Maximalism](https://apenwarr.ca/log/?m=202306)
 * [2023-07-07, 17:46:13](https://news.ycombinator.com/item?id=36635489) - [Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
+* [2023-07-07, 17:39:40](https://news.ycombinator.com/item?id=36635373) - [Owner of Symbolics Lisp machines IP is interested in a non-commercial release](https://hachyderm.io/@gmpalter/110673993659492472)
 * [2023-07-07, 17:20:07](https://news.ycombinator.com/item?id=36635061) - [Carmakers don’t need ‘EV divisions,’ the whole company should go electric now](https://electrek.co/2023/07/06/carmakers-dont-need-ev-divisions-the-whole-company-should-go-electric-now/)
 * [2023-07-07, 17:13:48](https://news.ycombinator.com/item?id=36634956) - [The Emergence of AI Engineering](https://www.ignorance.ai/p/becoming-an-ai-engineer)
 * [2023-07-07, 17:00:47](https://news.ycombinator.com/item?id=36634731) - [Type (YC W23) is hiring a founding engineer](https://www.ycombinator.com/companies/type/jobs/OXVqWSn-founding-engineer-at-type)
