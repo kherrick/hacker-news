@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 21:27:44](https://news.ycombinator.com/item?id=36648949) - [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
 * [2023-07-08, 21:10:51](https://news.ycombinator.com/item?id=36648817) - [Is Htmx Gaining in Popularity?](https://trends.builtwith.com/javascript/Htmx)
 * [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
 * [2023-07-08, 20:46:41](https://news.ycombinator.com/item?id=36648587) - [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
@@ -18,7 +19,6 @@
 * [2023-07-08, 14:47:48](https://news.ycombinator.com/item?id=36644933) - [CrunchGPT: A ChatGPT assisted framework for scientific machine learning](https://arxiv.org/abs/2306.15551)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
-* [2023-07-08, 14:14:59](https://news.ycombinator.com/item?id=36644634) - [Show HN: Sitemap2Feed – Convert an online sitemap to Atom, RSS and JSON feeds](https://github.com/midzer/sitemap2feed)
 * [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 * [2023-07-08, 13:10:00](https://news.ycombinator.com/item?id=36644026) - [Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
 * [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
