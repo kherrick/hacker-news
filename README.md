@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-08, 18:33:16](https://news.ycombinator.com/item?id=36647353) - [Ask HN: Why hasn’t Apple created an ad-blocker in the system level for iOS?](https://news.ycombinator.com/item?id=36647353)
 * [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
 * [2023-07-08, 18:09:43](https://news.ycombinator.com/item?id=36647070) - [“It brings out the worst in everyone”: Workers are competing for their own jobs](https://www.bbc.com/worklife/article/20230703-it-brings-out-the-worst-in-everyone-why-some-workers-are-competing-for-their-own-jobs)
 * [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why Use Pascal?](https://castle-engine.io/why_pascal)
@@ -20,6 +19,7 @@
 * [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
 * [2023-07-08, 13:10:00](https://news.ycombinator.com/item?id=36644026) - [Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
 * [2023-07-08, 12:18:46](https://news.ycombinator.com/item?id=36643670) - [If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython](https://discuss.python.org/t/a-fast-free-threading-python/27903/99)
+* [2023-07-08, 12:12:31](https://news.ycombinator.com/item?id=36643630) - [Scams upon scams: The data-driven advertising grift](https://anotherangrywoman.com/2023/07/05/scams-upon-scams-the-data-driven-advertising-grift/)
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
 * [2023-07-08, 09:57:59](https://news.ycombinator.com/item?id=36642935) - [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline)
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
