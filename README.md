@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 20:46:41](https://news.ycombinator.com/item?id=36648587) - [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
 * [2023-07-08, 20:16:34](https://news.ycombinator.com/item?id=36648289) - [Two corpse flowers are blooming in the U.S.](https://www.npr.org/2023/07/06/1186289347/corpse-flower-bloom-california-where-to-see-livestream-san-diego-francisco)
 * [2023-07-08, 19:56:12](https://news.ycombinator.com/item?id=36648119) - [Thought-Terminating Cliché](https://en.wikipedia.org/wiki/Thought-terminating_clich%C3%A9)
 * [2023-07-08, 19:33:14](https://news.ycombinator.com/item?id=36647912) - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
@@ -7,7 +8,6 @@
 * [2023-07-08, 18:35:06](https://news.ycombinator.com/item?id=36647364) - [Learn Electronics by Practice](https://beletronics.wordpress.com/)
 * [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
 * [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why Use Pascal?](https://castle-engine.io/why_pascal)
-* [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [How and Why I Stopped Buying New Laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 * [2023-07-08, 17:31:17](https://news.ycombinator.com/item?id=36646598) - [How to Verify Your Domain on Nostr and Bluesky (For Micro.blog Users)](https://mattlangford.com/2023/07/06/how-to-verify.html)
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
