@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
 * [2023-07-08, 19:33:14](https://news.ycombinator.com/item?id=36647912) - [A mysterious grey-hat is patching people's outdated MikroTik routers (2018)](https://www.zdnet.com/article/a-mysterious-grey-hat-is-patching-peoples-outdated-mikrotik-routers/)
+* [2023-07-08, 19:25:47](https://news.ycombinator.com/item?id=36647843) - [The riots in France have become antisemitic](https://www.jpost.com/opinion/article-749141)
+* [2023-07-08, 18:35:06](https://news.ycombinator.com/item?id=36647364) - [Learn Electronics by Practice](https://beletronics.wordpress.com/)
 * [2023-07-08, 18:33:16](https://news.ycombinator.com/item?id=36647353) - [Ask HN: Why hasn’t Apple created an ad-blocker in the system level for iOS?](https://news.ycombinator.com/item?id=36647353)
 * [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
 * [2023-07-08, 18:09:43](https://news.ycombinator.com/item?id=36647070) - [“It brings out the worst in everyone”: Workers are competing for their own jobs](https://www.bbc.com/worklife/article/20230703-it-brings-out-the-worst-in-everyone-why-some-workers-are-competing-for-their-own-jobs)
