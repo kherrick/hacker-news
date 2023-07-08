@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 23:14:44](https://news.ycombinator.com/item?id=36649710) - [The First Machine Unlearning Challenge – Google Research Blog](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
 * [2023-07-08, 22:31:48](https://news.ycombinator.com/item?id=36649428) - [The Last Place on Earth Any Tourist Should Go](https://www.theatlantic.com/science/archive/2023/07/antarctica-tourism-overcrowding-environmental-threat/674600/)
 * [2023-07-08, 22:15:00](https://news.ycombinator.com/item?id=36649320) - [Show HN: An Ethereum-authenticated community on Web3, science and technology](https://caches.xyz/)
 * [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)

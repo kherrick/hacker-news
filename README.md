@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 23:14:44](https://news.ycombinator.com/item?id=36649710) - [The First Machine Unlearning Challenge – Google Research Blog](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
 * [2023-07-08, 22:31:48](https://news.ycombinator.com/item?id=36649428) - [The Last Place on Earth Any Tourist Should Go](https://www.theatlantic.com/science/archive/2023/07/antarctica-tourism-overcrowding-environmental-threat/674600/)
 * [2023-07-08, 22:15:00](https://news.ycombinator.com/item?id=36649320) - [Show HN: An Ethereum-authenticated community on Web3, science and technology](https://caches.xyz/)
 * [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
@@ -18,7 +19,6 @@
 * [2023-07-08, 15:56:19](https://news.ycombinator.com/item?id=36645575) - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
 * [2023-07-08, 15:32:07](https://news.ycombinator.com/item?id=36645356) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:26:59](https://news.ycombinator.com/item?id=36645306) - [The Away Team Model at Amazon (2022)](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
-* [2023-07-08, 14:47:48](https://news.ycombinator.com/item?id=36644933) - [CrunchGPT: A ChatGPT assisted framework for scientific machine learning](https://arxiv.org/abs/2306.15551)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
 * [2023-07-08, 13:10:00](https://news.ycombinator.com/item?id=36644026) - [Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
