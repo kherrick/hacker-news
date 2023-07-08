@@ -11,6 +11,7 @@
 * [2023-07-07, 21:25:16](https://news.ycombinator.com/item?id=36638525) - [A FactoryFactoryFactory in Production](https://stevenheidel.medium.com/a-factoryfactoryfactory-in-production-822478b5afbd)
 * [2023-07-07, 21:10:52](https://news.ycombinator.com/item?id=36638347) - [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
 * [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
+* [2023-07-07, 20:44:12](https://news.ycombinator.com/item?id=36638046) - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Godot's Introduction to Math for Game Developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows Tips, Tricks, and Tweaks](https://windows95tips.com)
 * [2023-07-07, 20:20:33](https://news.ycombinator.com/item?id=36637774) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://nautil.us/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-352026/)

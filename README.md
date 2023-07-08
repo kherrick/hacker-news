@@ -26,8 +26,8 @@
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
 * [2023-07-08, 09:28:12](https://news.ycombinator.com/item?id=36642796) - [Software engineers hate code](https://www.dancowell.com/software-engineers-hate-code/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train an AI model once and deploy on any cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
+* [2023-07-07, 20:44:12](https://news.ycombinator.com/item?id=36638046) - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 * [2023-07-07, 19:14:20](https://news.ycombinator.com/item?id=36636921) - [Epistemological Relativism](https://www.reading.ac.uk/AcaDepts/ld/Philos/jmp/Theory%20of%20Knowledge/EpistemologicalRelativism.htm)
-* [2023-07-07, 18:50:47](https://news.ycombinator.com/item?id=36636642) - [Building a more efficient bike [video]](https://www.youtube.com/watch?v=xev18rBrNr0)
 * [2023-07-07, 18:06:43](https://news.ycombinator.com/item?id=36635839) - [Panel with photovoltaic material layered on silicon hits 33% efficiencies](https://arstechnica.com/science/2023/07/perovskite-silicon-solar-panels-hit-efficiencies-of-over-30/)
 * [2023-07-07, 17:04:29](https://news.ycombinator.com/item?id=36634794) - [What Is Vsock and Why Use It with Unikernels?](https://nanovms.com/dev/tutorials/what-is-vsock-why-use-with-unikernels)
 
