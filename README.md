@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 08:24:18](https://news.ycombinator.com/item?id=36642479) - [The Science of Science](https://slow-thoughts.com/the-science-of-science/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 06:54:47](https://news.ycombinator.com/item?id=36642012) - [200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
@@ -14,7 +15,6 @@
 * [2023-07-07, 21:30:42](https://news.ycombinator.com/item?id=36638591) - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 * [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows 95 tips, tricks, and tweaks (2013)](https://windows95tips.com)
-* [2023-07-07, 20:17:31](https://news.ycombinator.com/item?id=36637736) - [Top suspect in 2015 Ashley Madison hack committed suicide in 2014](https://krebsonsecurity.com/2023/07/top-suspect-in-2015-ashley-madison-hack-committed-suicide-in-2014/)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
 * [2023-07-07, 20:04:15](https://news.ycombinator.com/item?id=36637585) - [The horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
 * [2023-07-07, 19:41:06](https://news.ycombinator.com/item?id=36637283) - [Show HN: Day by Day – every day of my life](https://days.rory.codes)

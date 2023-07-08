@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 08:24:18](https://news.ycombinator.com/item?id=36642479) - [The Science of Science](https://slow-thoughts.com/the-science-of-science/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 07:15:11](https://news.ycombinator.com/item?id=36642117) - [Chatgpt.js: An open-source, powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
 * [2023-07-08, 06:54:47](https://news.ycombinator.com/item?id=36642012) - [200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
