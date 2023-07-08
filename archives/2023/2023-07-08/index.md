@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 * [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
+* [2023-07-08, 13:58:12](https://news.ycombinator.com/item?id=36644454) - [Cows Learn Better with Friends](https://blogs.scientificamerican.com/thoughtful-animal/cows-learn-better-with-friends/)
 * [2023-07-08, 13:38:16](https://news.ycombinator.com/item?id=36644274) - [Going from React to Vanilla JavaScript](https://alexbezhan.substack.com/p/going-from-react-to-vanilla-js)
 * [2023-07-08, 13:32:22](https://news.ycombinator.com/item?id=36644232) - [How to Spot Fake Reviews on Amazon](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
 * [2023-07-08, 13:27:24](https://news.ycombinator.com/item?id=36644185) - [The WHO is about to declare aspartame can cause cancer](https://www.vox.com/2023/7/1/23780348/aspartame-cancer-carcinogenic-health-risk-who-iarc-fda-efsa-diet-coke-sugar-free)

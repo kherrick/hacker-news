@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)
 * [2023-07-08, 14:02:20](https://news.ycombinator.com/item?id=36644506) - [A $182B Chip Maker: AMD's Labs – Full Documentary [video]](https://www.youtube.com/watch?v=7H4eg2jOvVw)
-* [2023-07-08, 13:38:16](https://news.ycombinator.com/item?id=36644274) - [Going from React to Vanilla JavaScript](https://alexbezhan.substack.com/p/going-from-react-to-vanilla-js)
+* [2023-07-08, 13:58:12](https://news.ycombinator.com/item?id=36644454) - [Cows Learn Better with Friends](https://blogs.scientificamerican.com/thoughtful-animal/cows-learn-better-with-friends/)
 * [2023-07-08, 13:32:22](https://news.ycombinator.com/item?id=36644232) - [How to Spot Fake Reviews on Amazon](https://www.wired.com/story/how-to-spot-fake-reviews-amazon/)
 * [2023-07-08, 12:56:20](https://news.ycombinator.com/item?id=36643934) - [Raytheon asks retirees for help making new Stinger anti-air missiles](https://www.popsci.com/technology/stinger-missiles-raytheon-ukraine/)
 * [2023-07-08, 12:29:22](https://news.ycombinator.com/item?id=36643732) - [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
@@ -25,7 +26,6 @@
 * [2023-07-08, 03:56:20](https://news.ycombinator.com/item?id=36641226) - [ZeroVer: 0-Based Versioning](https://0ver.org/)
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix multiplication using only addition](https://arxiv.org/abs/2307.01415)
 * [2023-07-08, 00:13:49](https://news.ycombinator.com/item?id=36639932) - [Money No Enough, Passion Needed Too: Restoring Classic Singaporean Films](https://biblioasia.nlb.gov.sg/vol-19/issue-2/jul-sep-2023/restoring-singaporean-films/)
-* [2023-07-07, 23:18:23](https://news.ycombinator.com/item?id=36639530) - [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us reflection/runtime types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
