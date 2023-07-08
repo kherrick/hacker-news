@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-08, 03:57:31](https://news.ycombinator.com/item?id=36641235) - [San Francisco’s Sluggish Recovery Puts Its Top-Grade Credit Rating at Risk](https://www.bloomberg.com/news/articles/2023-07-07/san-francisco-s-sluggish-recovery-puts-aaa-rating-at-risk)
+* [2023-07-08, 04:47:51](https://news.ycombinator.com/item?id=36641423) - [RISC-V Assembly Programming](https://riscv-programming.org/)
+* [2023-07-08, 03:56:20](https://news.ycombinator.com/item?id=36641226) - [ZeroVer: 0-Based Versioning](https://0ver.org/)
 * [2023-07-08, 03:44:41](https://news.ycombinator.com/item?id=36641183) - [POP64 Released: Quad-Core Cortex-A53(12nm) 1GB LPDDR4 SiP at 18x16mm](https://shop.popcorncomputer.com/products/pop64-system-in-package-sip-ic)
 * [2023-07-08, 02:23:36](https://news.ycombinator.com/item?id=36640769) - [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
@@ -15,7 +16,6 @@
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
 * [2023-07-07, 20:04:15](https://news.ycombinator.com/item?id=36637585) - [The horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
 * [2023-07-07, 20:00:19](https://news.ycombinator.com/item?id=36637533) - [Look Where You're Headed](http://blog.quinefoundation.com/post/look-where-youre-headed)
-* [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
 * [2023-07-07, 19:41:06](https://news.ycombinator.com/item?id=36637283) - [Show HN: Day by Day – every day of my life](https://days.rory.codes)
 * [2023-07-07, 19:36:44](https://news.ycombinator.com/item?id=36637221) - [TypeScript please give us reflection/runtime types](https://github.com/akutruff/typescript-needs-types)
 * [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
