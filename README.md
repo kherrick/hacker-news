@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-08, 11:13:13](https://news.ycombinator.com/item?id=36643325) - [The other fruit company, Apricot](https://www.abortretry.fail/p/the-other-fruit-company-apricot)
+* [2023-07-08, 11:04:48](https://news.ycombinator.com/item?id=36643278) - [Farmer ordered to pay >$92K after confusion over meaning of thumbs-up emoji](https://www.abc.net.au/news/2023-07-08/canadian-farmer-pay-92k-fine-after-emoji-confusion/102579514)
 * [2023-07-08, 10:51:04](https://news.ycombinator.com/item?id=36643212) - [Super Drug](https://www.profgalloway.com/super-drug/)
 * [2023-07-08, 07:54:41](https://news.ycombinator.com/item?id=36642315) - [Train Your AI Model Once and Deploy on Any Cloud](https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/)
 * [2023-07-08, 06:54:47](https://news.ycombinator.com/item?id=36642012) - [200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
@@ -21,7 +22,6 @@
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:20:33](https://news.ycombinator.com/item?id=36637774) - [A New Experiment Casts Doubt on the Leading Theory of the Nucleus](https://nautil.us/a-new-experiment-casts-doubt-on-the-leading-theory-of-the-nucleus-352026/)
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Why I Hate Frameworks (2005)](https://factoryfactoryfactory.net/)
-* [2023-07-07, 20:04:15](https://news.ycombinator.com/item?id=36637585) - [The horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
 * [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
