@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
+* [2023-07-08, 16:42:51](https://news.ycombinator.com/item?id=36646116) - [San Francisco loses 2 big conferences](https://www.sfgate.com/bayarea/article/san-francisco-loses-meta-red-hat-conferences-18187573.php)
 * [2023-07-08, 16:32:49](https://news.ycombinator.com/item?id=36645999) - [Pokémon Go creator Niantic accused of ‘systemic sexual bias’ in lawsuit](https://www.theverge.com/2023/7/7/23787809/niantic-lawsuit-systemic-sexual-bias-pay-disparity)
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 15:56:19](https://news.ycombinator.com/item?id=36645575) - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
 * [2023-07-08, 15:42:20](https://news.ycombinator.com/item?id=36645448) - [Flickr Foundation is building a new bridge between Flickr and Wikimedia Commons](https://diff.wikimedia.org/2023/07/07/flickr-foundation-is-building-a-new-bridge-between-flickr-and-wikimedia-commons/)
+* [2023-07-08, 15:32:07](https://news.ycombinator.com/item?id=36645356) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:30:00](https://news.ycombinator.com/item?id=36645337) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-08, 15:26:20](https://news.ycombinator.com/item?id=36645297) - [Inner Source Commons](https://innersourcecommons.org/)
 * [2023-07-08, 15:08:36](https://news.ycombinator.com/item?id=36645120) - [Australia's great example of government using technology found crude and cruel](https://www.theregister.com/2023/07/07/robodebt_royal_comission_report_australia/)
