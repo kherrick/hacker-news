@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-08, 15:01:09",
+      "https://news.ycombinator.com/item?id=36645038"
+    ],
+    [
+      "As a Therapist, I Know What’s Breaking Couples Up – The Walrus",
+      "https://thewalrus.ca/what-breaks-up-couples/"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 14:59:47",
       "https://news.ycombinator.com/item?id=36645022"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36643670"
     ],
     [
-      "If PEP 703 is accepted, Meta can commit three engineer-years to nogil CPython",
+      "If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython",
       "https://discuss.python.org/t/a-fast-free-threading-python/27903/99"
     ]
   ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=36642796"
     ],
     [
-      "Software Engineers Hate Code",
+      "Software engineers hate code",
       "https://www.dancowell.com/software-engineers-hate-code/"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "ZeroVer: 0-Based Versioning",
       "https://0ver.org/"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 00:44:25",
-      "https://news.ycombinator.com/item?id=36640148"
-    ],
-    [
-      "Matrix multiplication using only addition",
-      "https://arxiv.org/abs/2307.01415"
     ]
   ],
   [
