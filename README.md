@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-08, 03:57:31](https://news.ycombinator.com/item?id=36641235) - [San Francisco’s Sluggish Recovery Puts Its Top-Grade Credit Rating at Risk](https://www.bloomberg.com/news/articles/2023-07-07/san-francisco-s-sluggish-recovery-puts-aaa-rating-at-risk)
 * [2023-07-08, 02:23:36](https://news.ycombinator.com/item?id=36640769) - [The Horror Game of the Year Is a Doom II Mod](https://kotaku.com/doom-2-free-mods-myhouse-download-gzdoom-goty-1850616515)
 * [2023-07-08, 01:57:58](https://news.ycombinator.com/item?id=36640613) - [Apple Vision Pro may have VR Apple TV+ content at launch](https://appleinsider.com/articles/23/07/07/apple-tv-shows-may-have-been-filmed-for-apple-vision-pro-all-along)
 * [2023-07-08, 00:44:25](https://news.ycombinator.com/item?id=36640148) - [Matrix Multiplication Using Only Addition](https://arxiv.org/abs/2307.01415)
@@ -7,7 +8,6 @@
 * [2023-07-07, 21:30:42](https://news.ycombinator.com/item?id=36638591) - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 * [2023-07-07, 21:25:46](https://news.ycombinator.com/item?id=36638530) - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
 * [2023-07-07, 21:25:16](https://news.ycombinator.com/item?id=36638525) - [A FactoryFactoryFactory in Production](https://stevenheidel.medium.com/a-factoryfactoryfactory-in-production-822478b5afbd)
-* [2023-07-07, 21:10:52](https://news.ycombinator.com/item?id=36638347) - [Intel VT-rp – Part 1. remapping attack and HLAT](https://tandasat.github.io/blog/2023/07/05/intel-vt-rp-part-1.html)
 * [2023-07-07, 21:00:48](https://news.ycombinator.com/item?id=36638237) - [Aviator (YC S21) is hiring engineers to build the future of monorepos](https://www.ycombinator.com/companies/aviator/jobs)
 * [2023-07-07, 20:35:11](https://news.ycombinator.com/item?id=36637964) - [Introduction to math for game developers](https://docs.godotengine.org/en/stable/tutorials/math/vector_math.html)
 * [2023-07-07, 20:23:51](https://news.ycombinator.com/item?id=36637816) - [Windows 95 tips, tricks, and tweaks (2013)](https://windows95tips.com)
