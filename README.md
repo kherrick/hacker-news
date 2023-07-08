@@ -2,7 +2,6 @@
 
 * [2023-07-08, 07:15:11](https://news.ycombinator.com/item?id=36642117) - [Chatgpt.js: An open-source, powerful client-side JavaScript library for ChatGPT](https://github.com/kudoai/chatgpt.js)
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
-* [2023-07-08, 05:30:12](https://news.ycombinator.com/item?id=36641607) - [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
 * [2023-07-08, 05:15:11](https://news.ycombinator.com/item?id=36641542) - [Khoj: An AI Personal Assistant for Your Digital Brain](https://khoj.dev/)
 * [2023-07-08, 04:47:51](https://news.ycombinator.com/item?id=36641423) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 04:39:39](https://news.ycombinator.com/item?id=36641393) - [LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
@@ -22,6 +21,7 @@
 * [2023-07-07, 19:23:56](https://news.ycombinator.com/item?id=36637044) - [Sinkholed: A DNS Horror Story (2019)](https://susam.net/blog/sinkholed.html)
 * [2023-07-07, 19:03:35](https://news.ycombinator.com/item?id=36636810) - [DARPA Seeks to Shield Blood from Fungal and Bacterial Pathogens](https://www.darpa.mil/news-events/2023-06-29)
 * [2023-07-07, 17:49:06](https://news.ycombinator.com/item?id=36635526) - [Meta releases Intermediate Graphics Library](https://www.khronos.org/blog/meta-uses-khronos-open-standards-in-new-intermediate-graphics-library)
+* [2023-07-07, 17:49:05](https://news.ycombinator.com/item?id=36635523) - [FastAPI 0.100.0 release notes](https://fastapi.tiangolo.com/release-notes/)
 * [2023-07-07, 17:46:49](https://news.ycombinator.com/item?id=36635496) - [Tech debt metaphor maximalism](https://apenwarr.ca/log/?m=202306)
 * [2023-07-07, 17:46:13](https://news.ycombinator.com/item?id=36635489) - [Sleeping through the technical interview (2022)](https://xeiaso.net/blog/sleeping-the-technical-interview)
 * [2023-07-07, 17:39:40](https://news.ycombinator.com/item?id=36635373) - [Owner of Symbolics Lisp machines IP is interested in a non-commercial release](https://hachyderm.io/@gmpalter/110673993659492472)
