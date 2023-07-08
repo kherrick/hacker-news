@@ -18,6 +18,7 @@
 * [2023-07-07, 20:11:04](https://news.ycombinator.com/item?id=36637655) - [Factory Factory Factory](https://factoryfactoryfactory.net/)
 * [2023-07-07, 20:04:15](https://news.ycombinator.com/item?id=36637585) - [The Horrors of Pompeii](https://aeon.co/essays/what-pompeiis-ruins-say-about-its-enslaved-prostituted-women)
 * [2023-07-07, 20:00:19](https://news.ycombinator.com/item?id=36637533) - [Look Where You're Headed](http://blog.quinefoundation.com/post/look-where-youre-headed)
+* [2023-07-07, 19:54:40](https://news.ycombinator.com/item?id=36637453) - [The Republic of Translation](https://www.nybooks.com/articles/2023/07/20/the-republic-of-translation-historiae-antonella-anedda/)
 * [2023-07-07, 19:51:45](https://news.ycombinator.com/item?id=36637418) - [New discovery toward sugar origami](https://phys.org/news/2023-07-discovery-sugar-origami.html)
 * [2023-07-07, 19:51:26](https://news.ycombinator.com/item?id=36637417) - [Why you should not immigrate to Canada](https://readcanadabook.com/)
 * [2023-07-07, 19:41:39](https://news.ycombinator.com/item?id=36637295) - [How the new Threads app is made](https://www.emergetools.com/deep-dives/threads)
