@@ -7,6 +7,7 @@
 * [2023-07-08, 06:19:38](https://news.ycombinator.com/item?id=36641847) - [The media is spreading bad science; misleading studies are being taken as gospel](https://unherd.com/2023/04/the-media-is-spreading-bad-trans-science/)
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
 * [2023-07-08, 05:30:12](https://news.ycombinator.com/item?id=36641607) - [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
+* [2023-07-08, 05:15:11](https://news.ycombinator.com/item?id=36641542) - [Khoj: An AI Personal Assistant for Your Digital Brain](https://khoj.dev/)
 * [2023-07-08, 04:47:51](https://news.ycombinator.com/item?id=36641423) - [RISC-V Assembly Programming](https://riscv-programming.org/)
 * [2023-07-08, 03:57:31](https://news.ycombinator.com/item?id=36641235) - [San Francisco’s Sluggish Recovery Puts Its Top-Grade Credit Rating at Risk](https://www.bloomberg.com/news/articles/2023-07-07/san-francisco-s-sluggish-recovery-puts-aaa-rating-at-risk)
 * [2023-07-08, 03:56:20](https://news.ycombinator.com/item?id=36641226) - [ZeroVer: 0-Based Versioning](https://0ver.org/)
