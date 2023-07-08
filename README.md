@@ -8,7 +8,6 @@
 * [2023-07-08, 15:32:07](https://news.ycombinator.com/item?id=36645356) - [How to Keep Lambda Calculus Simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:26:20](https://news.ycombinator.com/item?id=36645297) - [Inner Source Commons](https://innersourcecommons.org/)
 * [2023-07-08, 15:08:36](https://news.ycombinator.com/item?id=36645120) - [Australia's great example of government using technology found crude and cruel](https://www.theregister.com/2023/07/07/robodebt_royal_comission_report_australia/)
-* [2023-07-08, 14:59:47](https://news.ycombinator.com/item?id=36645022) - [How the Tour de France became a $100M business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
 * [2023-07-08, 14:49:51](https://news.ycombinator.com/item?id=36644952) - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
@@ -29,6 +28,7 @@
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
 * [2023-07-08, 05:30:12](https://news.ycombinator.com/item?id=36641607) - [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
 * [2023-07-08, 04:39:39](https://news.ycombinator.com/item?id=36641393) - [LlamaIndex: Unleash the power of LLMs over your data](https://www.llamaindex.ai/)
+* [2023-07-07, 19:14:20](https://news.ycombinator.com/item?id=36636921) - [Epistemological Relativism](https://www.reading.ac.uk/AcaDepts/ld/Philos/jmp/Theory%20of%20Knowledge/EpistemologicalRelativism.htm)
 * [2023-07-07, 17:21:00](https://news.ycombinator.com/item?id=36635079) - [How to Write Music for Rolling Boulders](https://www.nytimes.com/interactive/2023/07/07/opinion/indiana-jones-movie-john-williams-music.html)
 
 ## [Archives](archives/index.md)
