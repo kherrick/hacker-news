@@ -8,6 +8,7 @@
 * [2023-07-08, 15:56:19](https://news.ycombinator.com/item?id=36645575) - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
 * [2023-07-08, 15:42:20](https://news.ycombinator.com/item?id=36645448) - [Flickr Foundation is building a new bridge between Flickr and Wikimedia Commons](https://diff.wikimedia.org/2023/07/07/flickr-foundation-is-building-a-new-bridge-between-flickr-and-wikimedia-commons/)
 * [2023-07-08, 15:30:00](https://news.ycombinator.com/item?id=36645337) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
+* [2023-07-08, 15:26:20](https://news.ycombinator.com/item?id=36645297) - [Inner Source Commons](https://innersourcecommons.org/)
 * [2023-07-08, 15:08:36](https://news.ycombinator.com/item?id=36645120) - [Australia's great example of government using technology found crude and cruel](https://www.theregister.com/2023/07/07/robodebt_royal_comission_report_australia/)
 * [2023-07-08, 15:01:09](https://news.ycombinator.com/item?id=36645038) - [As a Therapist, I Know What’s Breaking Couples Up – The Walrus](https://thewalrus.ca/what-breaks-up-couples/)
 * [2023-07-08, 14:59:47](https://news.ycombinator.com/item?id=36645022) - [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
