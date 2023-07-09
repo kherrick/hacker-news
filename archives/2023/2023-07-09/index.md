@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
+* [2023-07-09, 19:25:32](https://news.ycombinator.com/item?id=36657970) - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
 * [2023-07-09, 19:21:49](https://news.ycombinator.com/item?id=36657935) - [Godot 4.1, new Linux Laptop and phone, GNOME 45, China's distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
 * [2023-07-09, 19:18:35](https://news.ycombinator.com/item?id=36657899) - [Wine-Based Hangover 8.11 Begins Integrating FEX Emulator Support](https://www.phoronix.com/news/Wine-Hangover-8.11-FEX)
 * [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
@@ -17,6 +19,7 @@
 * [2023-07-09, 16:56:09](https://news.ycombinator.com/item?id=36656168) - [The Hungry Caterpillar and the Ecosystem](https://nautil.us/the-very-hungry-caterpillar-and-the-ecosystem-352590/)
 * [2023-07-09, 16:54:29](https://news.ycombinator.com/item?id=36656145) - [Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/)
 * [2023-07-09, 16:45:24](https://news.ycombinator.com/item?id=36656052) - [The mathematically correct way to tie your shoes](https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/)
+* [2023-07-09, 16:42:06](https://news.ycombinator.com/item?id=36656012) - [PDP-10 Incompatible Timesharing System emulator](https://github.com/PDP-10/its)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 16:21:49](https://news.ycombinator.com/item?id=36655816) - [Ask HN: What Happened to Web3 Startups?](https://news.ycombinator.com/item?id=36655816)
 * [2023-07-09, 16:16:23](https://news.ycombinator.com/item?id=36655764) - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
