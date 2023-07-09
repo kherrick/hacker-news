@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 19:21:49](https://news.ycombinator.com/item?id=36657935) - [Godot 4.1, new Linux Laptop and phone, GNOME 45, China's distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
 * [2023-07-09, 19:18:35](https://news.ycombinator.com/item?id=36657899) - [Wine-Based Hangover 8.11 Begins Integrating FEX Emulator Support](https://www.phoronix.com/news/Wine-Hangover-8.11-FEX)
 * [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
 * [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
@@ -15,7 +16,6 @@
 * [2023-07-09, 16:04:36](https://news.ycombinator.com/item?id=36655654) - [Deputy US Marshal pleads guilty to obtaining cell phone location unlawfully [pdf]](https://oig.justice.gov/sites/default/files/2023-07/06-30-2023b.pdf)
 * [2023-07-09, 16:01:08](https://news.ycombinator.com/item?id=36655620) - [US spies are buying Americans’ data – Congress has a new chance to stop it](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
 * [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color appearance and the end of Hering’s Opponent-Colors theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
-* [2023-07-09, 14:56:20](https://news.ycombinator.com/item?id=36654960) - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
 * [2023-07-09, 13:56:05](https://news.ycombinator.com/item?id=36654471) - [A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
 * [2023-07-09, 13:47:32](https://news.ycombinator.com/item?id=36654420) - [New York City’s AI hiring law takes effect](https://qz.com/americas-first-law-regulating-ai-bias-in-hiring-takes-e-1850602243)
 * [2023-07-09, 13:40:37](https://news.ycombinator.com/item?id=36654376) - [The lost saga of Fossil Cycad National Monument (2017)](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 19:21:49](https://news.ycombinator.com/item?id=36657935) - [Godot 4.1, new Linux Laptop and phone, GNOME 45, China's distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
 * [2023-07-09, 19:18:35](https://news.ycombinator.com/item?id=36657899) - [Wine-Based Hangover 8.11 Begins Integrating FEX Emulator Support](https://www.phoronix.com/news/Wine-Hangover-8.11-FEX)
 * [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
 * [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
