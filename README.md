@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 04:27:26](https://news.ycombinator.com/item?id=36651506) - [Ask HN: Problems for the Next Decade](https://news.ycombinator.com/item?id=36651506)
 * [2023-07-09, 03:49:51](https://news.ycombinator.com/item?id=36651342) - [Specular Holography: How (2010)](http://zintaglio.com/how.html)
 * [2023-07-09, 00:24:31](https://news.ycombinator.com/item?id=36650120) - [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 * [2023-07-09, 00:05:05](https://news.ycombinator.com/item?id=36650010) - [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
@@ -20,7 +21,6 @@
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 15:32:07](https://news.ycombinator.com/item?id=36645356) - [How to keep lambda calculus simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
 * [2023-07-08, 15:26:59](https://news.ycombinator.com/item?id=36645306) - [The away team model at Amazon (2022)](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
-* [2023-07-08, 15:01:09](https://news.ycombinator.com/item?id=36645038) - [As a therapist, I know what’s breaking couples up](https://thewalrus.ca/what-breaks-up-couples/)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
 * [2023-07-08, 09:37:50](https://news.ycombinator.com/item?id=36642846) - [The Private Communication Technology (PCT) Protocol (1995)](http://graphcomp.com/info/specs/ms/pct.htm)
