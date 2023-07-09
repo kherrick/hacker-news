@@ -20,7 +20,7 @@
 * [2023-07-08, 16:19:54](https://news.ycombinator.com/item?id=36645846) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 15:32:07](https://news.ycombinator.com/item?id=36645356) - [How to keep lambda calculus simple](https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html)
-* [2023-07-08, 15:26:59](https://news.ycombinator.com/item?id=36645306) - [The away team model at Amazon (2022)](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
+* [2023-07-08, 15:19:37](https://news.ycombinator.com/item?id=36645240) - [Superrational](https://skunkledger.substack.com/p/superrational)
 * [2023-07-08, 15:01:09](https://news.ycombinator.com/item?id=36645038) - [As a therapist, I know what’s breaking couples up](https://thewalrus.ca/what-breaks-up-couples/)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [When an app asks for permissions, it should have a “feed fake data” option](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)

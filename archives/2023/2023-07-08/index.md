@@ -43,6 +43,7 @@
 * [2023-07-08, 15:30:00](https://news.ycombinator.com/item?id=36645337) - [The Secretive World of Penile Enlargement](https://www.propublica.org/article/penis-enlargement-enhancement-procedures-implants)
 * [2023-07-08, 15:26:59](https://news.ycombinator.com/item?id=36645306) - [The Away Team Model at Amazon (2022)](https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/)
 * [2023-07-08, 15:26:20](https://news.ycombinator.com/item?id=36645297) - [Inner Source Commons](https://innersourcecommons.org/)
+* [2023-07-08, 15:19:37](https://news.ycombinator.com/item?id=36645240) - [Superrational](https://skunkledger.substack.com/p/superrational)
 * [2023-07-08, 15:08:36](https://news.ycombinator.com/item?id=36645120) - [Australia's great example of government using technology found crude and cruel](https://www.theregister.com/2023/07/07/robodebt_royal_comission_report_australia/)
 * [2023-07-08, 15:01:09](https://news.ycombinator.com/item?id=36645038) - [As a Therapist, I Know What’s Breaking Couples Up – The Walrus](https://thewalrus.ca/what-breaks-up-couples/)
 * [2023-07-08, 14:59:47](https://news.ycombinator.com/item?id=36645022) - [Tour de France: How the Most Challenging Race Became a $100M Business](https://huddleup.substack.com/p/tour-de-france-how-the-worlds-most)
