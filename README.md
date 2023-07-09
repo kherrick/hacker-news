@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 22:51:12](https://news.ycombinator.com/item?id=36659859) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 22:22:07](https://news.ycombinator.com/item?id=36659573) - [Mozilla ending support for Windows 7](https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/)
-* [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [The PinePhone modem SDK: a free-software baseband firmware](https://github.com/the-modem-distro/pinephone_modem_sdk)
+* [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
 * [2023-07-09, 21:55:00](https://news.ycombinator.com/item?id=36659347) - [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
 * [2023-07-09, 21:41:20](https://news.ycombinator.com/item?id=36659219) - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
 * [2023-07-09, 21:35:27](https://news.ycombinator.com/item?id=36659166) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
@@ -13,7 +14,6 @@
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea -or- We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
-* [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
 * [2023-07-09, 18:28:22](https://news.ycombinator.com/item?id=36657391) - [Let the Internet Be Grimy](https://tedium.co/2023/07/08/threads-social-media-brand-safety/)
 * [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
 * [2023-07-09, 17:12:35](https://news.ycombinator.com/item?id=36656332) - [Computationally optimal arrangements of barbell plates](https://jacobbrazeal.wordpress.com/2023/07/09/computationally-optimal-sequences-of-barbell-plates/)
