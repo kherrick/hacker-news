@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
+* [2023-07-09, 20:41:50](https://news.ycombinator.com/item?id=36658667) - [Study: Vaccinate cats in their tails so when tumors form, tail can be amputated](https://pubmed.ncbi.nlm.nih.gov/24108201/)
 * [2023-07-09, 20:13:47](https://news.ycombinator.com/item?id=36658414) - [Mark Zuckerberg: “We’re moving very slowly” (2012)](https://www.threads.net/t/CufIxkipyez/)
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:25:32](https://news.ycombinator.com/item?id=36657970) - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
@@ -17,6 +19,7 @@
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
 * [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
 * [2023-07-09, 17:30:01](https://news.ycombinator.com/item?id=36656580) - [Here come the “metahumans”: Virtual avatars have real jobs in Indonesia](https://restofworld.org/2023/metahumans-go-mainstream-indonesia/)
+* [2023-07-09, 17:12:35](https://news.ycombinator.com/item?id=36656332) - [Computationally optimal arrangements of barbell plates](https://jacobbrazeal.wordpress.com/2023/07/09/computationally-optimal-sequences-of-barbell-plates/)
 * [2023-07-09, 16:58:00](https://news.ycombinator.com/item?id=36656190) - [A quick look back at when Microsoft made an interactive Barney toy](https://www.neowin.net/news/a-quick-look-back-at-when-microsoft-made-an-interactive-barney-toy/)
 * [2023-07-09, 16:56:09](https://news.ycombinator.com/item?id=36656168) - [The Hungry Caterpillar and the Ecosystem](https://nautil.us/the-very-hungry-caterpillar-and-the-ecosystem-352590/)
 * [2023-07-09, 16:54:29](https://news.ycombinator.com/item?id=36656145) - [Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/)
