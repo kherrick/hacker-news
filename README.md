@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 16:45:24](https://news.ycombinator.com/item?id=36656052) - [The mathematically correct way to tie your shoes](https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 16:16:23](https://news.ycombinator.com/item?id=36655764) - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
 * [2023-07-09, 16:04:36](https://news.ycombinator.com/item?id=36655654) - [Deputy US Marshal pleads guilty to obtaining cell phone location unlawfully [pdf]](https://oig.justice.gov/sites/default/files/2023-07/06-30-2023b.pdf)
 * [2023-07-09, 16:01:08](https://news.ycombinator.com/item?id=36655620) - [US Spies Are Buying Americans’ Data. Congress Has a New Chance to Stop It](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
 * [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color appearance and the end of Hering’s Opponent-Colors theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
-* [2023-07-09, 15:20:15](https://news.ycombinator.com/item?id=36655192) - [United Auto Workers (UAW) wants EPA to soften vehicle emissions plan](https://www.reuters.com/business/autos-transportation/uaw-wants-epa-soften-vehicle-emissions-plan-2023-07-07/)
 * [2023-07-09, 14:56:20](https://news.ycombinator.com/item?id=36654960) - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
 * [2023-07-09, 14:30:32](https://news.ycombinator.com/item?id=36654729) - [Definition for Open Weights Licensing](https://github.com/Open-Weights/Definition)
 * [2023-07-09, 13:56:05](https://news.ycombinator.com/item?id=36654471) - [A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
