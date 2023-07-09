@@ -7,6 +7,7 @@
 * [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
 * [2023-07-09, 20:41:50](https://news.ycombinator.com/item?id=36658667) - [Study: Vaccinate cats in their tails so when tumors form, tail can be amputated](https://pubmed.ncbi.nlm.nih.gov/24108201/)
 * [2023-07-09, 20:30:33](https://news.ycombinator.com/item?id=36658553) - [An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
+* [2023-07-09, 20:24:42](https://news.ycombinator.com/item?id=36658506) - [The Undecidability of BB(748): Understanding Godel’s Incompleteness Theorems [pdf]](https://www.ingo-blechschmidt.eu/assets/bachelor-thesis-undecidability-bb748.pdf)
 * [2023-07-09, 20:13:47](https://news.ycombinator.com/item?id=36658414) - [Mark Zuckerberg: “We’re moving very slowly” (2012)](https://www.threads.net/t/CufIxkipyez/)
 * [2023-07-09, 19:48:38](https://news.ycombinator.com/item?id=36658166) - [Fractal Vise](https://airgraver.com/fractal-vise.htm)
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
