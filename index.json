@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 22:51:12",
+      "https://news.ycombinator.com/item?id=36659859"
+    ],
+    [
+      "Wayland on OpenBSD",
+      "https://xenocara.org/Wayland_on_OpenBSD.html"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 22:22:07",
       "https://news.ycombinator.com/item?id=36659573"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36659544"
     ],
     [
-      "The PinePhone modem SDK: a free-software baseband firmware",
+      "PinePhone Modem SDK",
       "https://github.com/the-modem-distro/pinephone_modem_sdk"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion",
       "https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 18:43:44",
-      "https://news.ycombinator.com/item?id=36657540"
-    ],
-    [
-      "Sarah Silverman is suing OpenAI and Meta for copyright infringement",
-      "https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai"
     ]
   ],
   [
