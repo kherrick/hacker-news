@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
+* [2023-07-09, 18:29:27](https://news.ycombinator.com/item?id=36657399) - [Meta Threads logo appears to be a copy of German brand apotheken.de](https://old.reddit.com/r/Design/comments/14uzurq/threads_logo_appears_to_be_a_copy_of_german_brand/)
 * [2023-07-09, 17:30:01](https://news.ycombinator.com/item?id=36656580) - [Here come the “metahumans”: Virtual avatars have real jobs in Indonesia](https://restofworld.org/2023/metahumans-go-mainstream-indonesia/)
 * [2023-07-09, 16:45:24](https://news.ycombinator.com/item?id=36656052) - [The mathematically correct way to tie your shoes](https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
