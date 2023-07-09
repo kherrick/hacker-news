@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2023-07-09, 03:59:55",
-      "https://news.ycombinator.com/item?id=36651387"
-    ],
-    [
-      "KDE for Travelers",
-      "https://kde.org/for/travelers/"
-    ]
-  ],
-  [
-    [
       "2023-07-09, 03:49:51",
       "https://news.ycombinator.com/item?id=36651342"
     ],
@@ -187,6 +177,16 @@
     [
       "PdfGptIndexer: Indexing and searching PDF text data using GPT-2 and FAISS",
       "https://github.com/raghavan/PdfGptIndexer"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 20:46:41",
+      "https://news.ycombinator.com/item?id=36648587"
+    ],
+    [
+      "Packing a string of digits into an integer quickly",
+      "https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/"
     ]
   ],
   [
