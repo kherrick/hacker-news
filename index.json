@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2023-07-08, 20:44:15",
-      "https://news.ycombinator.com/item?id=36648550"
-    ],
-    [
-      "Onfim the Artist (2017)",
-      "https://www.cabinetmagazine.org/issues/64/smith.php"
-    ]
-  ],
-  [
-    [
       "2023-07-08, 20:13:14",
       "https://news.ycombinator.com/item?id=36648257"
     ],
@@ -257,6 +247,16 @@
     [
       "Quetzal-1 Satellite Goes Open Source",
       "https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 10:10:03",
+      "https://news.ycombinator.com/item?id=36642989"
+    ],
+    [
+      "Cargo-semver-checks: Scan your Rust crate for semver violations",
+      "https://github.com/obi1kenobi/cargo-semver-checks"
     ]
   ],
   [
