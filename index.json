@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-09, 10:51:52",
+      "https://news.ycombinator.com/item?id=36653399"
+    ],
+    [
+      "Show HN: Digger – an Open Source Terraform automation and collaboration tool",
+      "https://github.com/diggerhq/digger"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 10:25:16",
       "https://news.ycombinator.com/item?id=36653262"
     ],
@@ -267,16 +277,6 @@
     [
       "Cargo-semver-checks: Scan your Rust crate for semver violations",
       "https://github.com/obi1kenobi/cargo-semver-checks"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 05:56:14",
-      "https://news.ycombinator.com/item?id=36641722"
-    ],
-    [
-      "Stupid alloc – what if memory allocation was annoying",
-      "https://github.com/shadyfennec/stupidalloc"
     ]
   ],
   [
