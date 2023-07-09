@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-09, 02:43:30](https://news.ycombinator.com/item?id=36651001) - [Far-right figures are flocking to Threads](https://www.mediamatters.org/facebook/far-right-figures-including-nazi-supporters-anti-gay-extremists-and-white-supremacists-are)
 * [2023-07-09, 00:24:31](https://news.ycombinator.com/item?id=36650120) - [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 * [2023-07-09, 00:05:05](https://news.ycombinator.com/item?id=36650010) - [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
 * [2023-07-08, 23:19:47](https://news.ycombinator.com/item?id=36649740) - [Pocket gets worse the more you use it (2019)](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
@@ -8,6 +7,7 @@
 * [2023-07-08, 21:11:17](https://news.ycombinator.com/item?id=36648821) - [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
 * [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [Build Personal ChatGPT Using Your Data](https://github.com/raghavan/PdfGptIndexer)
 * [2023-07-08, 20:46:41](https://news.ycombinator.com/item?id=36648587) - [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
+* [2023-07-08, 20:44:15](https://news.ycombinator.com/item?id=36648550) - [Onfim the Artist (2017)](https://www.cabinetmagazine.org/issues/64/smith.php)
 * [2023-07-08, 18:45:45](https://news.ycombinator.com/item?id=36647462) - [Algae powers computer for a year using only light and water](https://www.anthropocenemagazine.org/2022/05/algae-powers-computer-for-a-year-using-only-light-and-water/)
 * [2023-07-08, 18:35:06](https://news.ycombinator.com/item?id=36647364) - [Learn Electronics by Practice](https://beletronics.wordpress.com/)
 * [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
