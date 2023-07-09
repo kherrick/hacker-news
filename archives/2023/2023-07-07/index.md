@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-07](index.md)
 
 * [2023-07-07, 23:18:23](https://news.ycombinator.com/item?id=36639530) - [ProtonMail Rewrites Your Emails](http://jfloren.net/b/2023/7/7/0)
+* [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 * [2023-07-07, 21:48:48](https://news.ycombinator.com/item?id=36638752) - [Once hailed for decriminalizing drugs, Portugal is now having doubts](https://www.washingtonpost.com/world/2023/07/07/portugal-drugs-decriminalization-heroin-crack/)
 * [2023-07-07, 21:30:42](https://news.ycombinator.com/item?id=36638591) - [Show HN: My platforming game written in C 89](https://zamfofex.neocities.org/mimimi/)
 * [2023-07-07, 21:25:46](https://news.ycombinator.com/item?id=36638530) - [ServiceNow Insecure Access Control to Full Admin Takeover](https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/)
