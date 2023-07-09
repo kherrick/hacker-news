@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 17:30:01](https://news.ycombinator.com/item?id=36656580) - [Here come the “metahumans”: Virtual avatars have real jobs in Indonesia](https://restofworld.org/2023/metahumans-go-mainstream-indonesia/)
 * [2023-07-09, 16:45:24](https://news.ycombinator.com/item?id=36656052) - [The mathematically correct way to tie your shoes](https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 16:16:23](https://news.ycombinator.com/item?id=36655764) - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
@@ -21,7 +22,6 @@
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-09, 08:01:59](https://news.ycombinator.com/item?id=36652569) - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
-* [2023-07-09, 07:44:29](https://news.ycombinator.com/item?id=36652496) - [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
 * [2023-07-09, 05:11:01](https://news.ycombinator.com/item?id=36651724) - [The HTTP status code for a web server's default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
 * [2023-07-09, 04:40:10](https://news.ycombinator.com/item?id=36651557) - [Show HN : Nova - GPT with composable prompts, workspaces, + LlamaIndex](https://samueltate.com/nova)
 * [2023-07-09, 03:49:51](https://news.ycombinator.com/item?id=36651342) - [Specular Holography: How (2010)](http://zintaglio.com/how.html)
