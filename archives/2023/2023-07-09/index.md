@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-09, 08:01:59](https://news.ycombinator.com/item?id=36652569) - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
+* [2023-07-09, 07:57:07](https://news.ycombinator.com/item?id=36652551) - [Story Behind Hackathon Photo](https://frantic.im/story-behind-hackathon-photo/)
 * [2023-07-09, 07:53:20](https://news.ycombinator.com/item?id=36652540) - [Free currency conversion API from dollar to 10 currencies](https://currencydatahub.tech/)
 * [2023-07-09, 07:44:29](https://news.ycombinator.com/item?id=36652496) - [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
 * [2023-07-09, 06:22:10](https://news.ycombinator.com/item?id=36652096) - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
