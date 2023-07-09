@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 13:56:05](https://news.ycombinator.com/item?id=36654471) - [A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
 * [2023-07-09, 13:47:32](https://news.ycombinator.com/item?id=36654420) - [America's first law regulating AI bias in hiring takes effect](https://qz.com/americas-first-law-regulating-ai-bias-in-hiring-takes-e-1850602243)
 * [2023-07-09, 13:40:37](https://news.ycombinator.com/item?id=36654376) - [The National Park That Was Stolen to Death](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
 * [2023-07-09, 13:34:23](https://news.ycombinator.com/item?id=36654337) - [Buying Apple’s Vision Pro headset could require an appointment and a face scan](https://www.theverge.com/2023/7/7/23786865/apple-vision-pro-headset-store-retail-face-scan)
