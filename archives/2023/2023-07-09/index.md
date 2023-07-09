@@ -1,0 +1,8 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2023](../index.md)
+
+### [Archives](../../index.md) for [2023-07-09](index.md)
+
+* [2023-07-09, 00:24:31](https://news.ycombinator.com/item?id=36650120) - [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
+* [2023-07-09, 00:05:05](https://news.ycombinator.com/item?id=36650010) - [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)

@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-08](index.md)
 
+* [2023-07-08, 23:19:47](https://news.ycombinator.com/item?id=36649740) - [Pocket: It gets worse the more you use it](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
 * [2023-07-08, 23:14:44](https://news.ycombinator.com/item?id=36649710) - [The First Machine Unlearning Challenge – Google Research Blog](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+* [2023-07-08, 22:52:24](https://news.ycombinator.com/item?id=36649576) - [Bluesky: Building a Social Internet](https://blueskyweb.xyz/)
 * [2023-07-08, 22:31:48](https://news.ycombinator.com/item?id=36649428) - [The Last Place on Earth Any Tourist Should Go](https://www.theatlantic.com/science/archive/2023/07/antarctica-tourism-overcrowding-environmental-threat/674600/)
 * [2023-07-08, 22:15:00](https://news.ycombinator.com/item?id=36649320) - [Show HN: An Ethereum-authenticated community on Web3, science and technology](https://caches.xyz/)
+* [2023-07-08, 21:46:10](https://news.ycombinator.com/item?id=36649094) - [How to Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
 * [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
 * [2023-07-08, 21:27:44](https://news.ycombinator.com/item?id=36648949) - [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
 * [2023-07-08, 21:11:17](https://news.ycombinator.com/item?id=36648821) - [Open Sourcing the Nginx Playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
@@ -68,6 +71,7 @@
 * [2023-07-08, 09:57:59](https://news.ycombinator.com/item?id=36642935) - [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline)
 * [2023-07-08, 09:57:03](https://news.ycombinator.com/item?id=36642932) - [I am drowning in mutes please help (Threads)](https://internettalk.substack.com/p/i-am-drowning-in-mutes-please-help)
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
+* [2023-07-08, 09:37:50](https://news.ycombinator.com/item?id=36642846) - [The Private Communication Technology (PCT) Protocol (1995)](http://graphcomp.com/info/specs/ms/pct.htm)
 * [2023-07-08, 09:34:24](https://news.ycombinator.com/item?id=36642825) - [The ARM powered ThinkPad x13s, as a developer](https://www.dev-eloper.com/thinkpad-x13s-as-a-developer/)
 * [2023-07-08, 09:28:32](https://news.ycombinator.com/item?id=36642799) - [We all need some space](https://aperiodical.com/2023/07/we-all-need-some-space/)
 * [2023-07-08, 09:28:12](https://news.ycombinator.com/item?id=36642796) - [Software Engineers Hate Code](https://www.dancowell.com/software-engineers-hate-code/)
@@ -77,6 +81,7 @@
 * [2023-07-08, 06:54:47](https://news.ycombinator.com/item?id=36642012) - [200 Frozen Heads and Bodies Await Revival at This Arizona Cryonics Facility](https://www.smithsonianmag.com/smart-news/200-frozen-heads-and-bodies-await-revival-at-this-arizona-cryonics-facility-180980981/)
 * [2023-07-08, 06:19:38](https://news.ycombinator.com/item?id=36641847) - [The media is spreading bad science; misleading studies are being taken as gospel](https://unherd.com/2023/04/the-media-is-spreading-bad-trans-science/)
 * [2023-07-08, 06:07:59](https://news.ycombinator.com/item?id=36641782) - [When did Alan Partridge first appear on television?](https://www.dirtyfeed.org/2023/07/better-on-television/)
+* [2023-07-08, 05:37:31](https://news.ycombinator.com/item?id=36641634) - [TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2023-07-08, 05:30:12](https://news.ycombinator.com/item?id=36641607) - [Google to explore alternatives to robots.txt](https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/)
 * [2023-07-08, 05:15:11](https://news.ycombinator.com/item?id=36641542) - [Khoj: An AI Personal Assistant for Your Digital Brain](https://khoj.dev/)
 * [2023-07-08, 04:47:51](https://news.ycombinator.com/item?id=36641423) - [RISC-V Assembly Programming](https://riscv-programming.org/)
