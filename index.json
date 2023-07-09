@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 22:22:07",
+      "https://news.ycombinator.com/item?id=36659573"
+    ],
+    [
+      "Mozilla ending support for Windows 7",
+      "https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 22:18:27",
       "https://news.ycombinator.com/item?id=36659544"
     ],
@@ -267,16 +277,6 @@
     [
       "How small is the smallest .NET Hello World binary?",
       "https://blog.washi.dev/posts/tinysharp/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 04:40:10",
-      "https://news.ycombinator.com/item?id=36651557"
-    ],
-    [
-      "Show HN : Nova - GPT with composable prompts, workspaces, + LlamaIndex",
-      "https://samueltate.com/nova"
     ]
   ],
   [
