@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-09, 08:01:59](https://news.ycombinator.com/item?id=36652569) - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
 * [2023-07-09, 07:44:29](https://news.ycombinator.com/item?id=36652496) - [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
 * [2023-07-09, 06:22:10](https://news.ycombinator.com/item?id=36652096) - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
@@ -19,7 +20,6 @@
 * [2023-07-08, 20:13:14](https://news.ycombinator.com/item?id=36648257) - [Victory Garden (Novel)](https://en.wikipedia.org/wiki/Victory_Garden_(novel))
 * [2023-07-08, 18:45:45](https://news.ycombinator.com/item?id=36647462) - [Algae powers computer for a year using only light and water](https://www.anthropocenemagazine.org/2022/05/algae-powers-computer-for-a-year-using-only-light-and-water/)
 * [2023-07-08, 18:35:06](https://news.ycombinator.com/item?id=36647364) - [Learn electronics by practice](https://beletronics.wordpress.com/)
-* [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
 * [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why use Pascal?](https://castle-engine.io/why_pascal)
 * [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [I stopped buying new laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 * [2023-07-08, 16:19:54](https://news.ycombinator.com/item?id=36645846) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
