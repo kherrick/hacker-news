@@ -2,8 +2,7 @@
 
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:25:32](https://news.ycombinator.com/item?id=36657970) - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
-* [2023-07-09, 19:21:49](https://news.ycombinator.com/item?id=36657935) - [Godot 4.1, new Linux Laptop and phone, GNOME 45, China's distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
-* [2023-07-09, 18:44:13](https://news.ycombinator.com/item?id=36657543) - [Harvard Discriminates Against Middle-Class Kids](https://www.wsj.com/articles/harvard-discriminates-against-middle-class-kids-legacy-admissions-court-85cf4503)
+* [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
 * [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
 * [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
@@ -28,6 +27,7 @@
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-09, 04:40:10](https://news.ycombinator.com/item?id=36651557) - [Show HN : Nova - GPT with composable prompts, workspaces, + LlamaIndex](https://samueltate.com/nova)
 * [2023-07-08, 20:42:20](https://news.ycombinator.com/item?id=36648529) - [Restoring the Apollo Guidance Computer [video]](https://www.youtube.com/watch?v=9uwC7WUain4)
+* [2023-07-08, 14:38:39](https://news.ycombinator.com/item?id=36644841) - [Refurb weekend(s): Commodore/MOS KIM-1](http://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html)
 * [2023-07-08, 10:10:03](https://news.ycombinator.com/item?id=36642989) - [Cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
 * [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 
