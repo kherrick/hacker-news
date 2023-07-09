@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 06:22:10](https://news.ycombinator.com/item?id=36652096) - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
 * [2023-07-09, 05:11:01](https://news.ycombinator.com/item?id=36651724) - [The HTTP status code for a web server's default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
 * [2023-07-09, 05:09:13](https://news.ycombinator.com/item?id=36651717) - [Google's Privacy Policy Now Admits to Collecting All Your Data for AI Training](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai/)
 * [2023-07-09, 04:27:26](https://news.ycombinator.com/item?id=36651506) - [Ask HN: Problems for the Next Decade](https://news.ycombinator.com/item?id=36651506)

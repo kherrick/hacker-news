@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 06:22:10](https://news.ycombinator.com/item?id=36652096) - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
 * [2023-07-09, 05:11:01](https://news.ycombinator.com/item?id=36651724) - [The HTTP status code for a web server's default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
 * [2023-07-09, 05:09:13](https://news.ycombinator.com/item?id=36651717) - [Google's Privacy Policy Now Admits to Collecting All Your Data for AI Training](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai/)
 * [2023-07-09, 03:59:55](https://news.ycombinator.com/item?id=36651387) - [KDE for Travelers](https://kde.org/for/travelers/)
@@ -22,7 +23,6 @@
 * [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [I stopped buying new laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
 * [2023-07-08, 16:19:54](https://news.ycombinator.com/item?id=36645846) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
-* [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 15:19:37](https://news.ycombinator.com/item?id=36645240) - [Superrational](https://skunkledger.substack.com/p/superrational)
 * [2023-07-08, 10:37:31](https://news.ycombinator.com/item?id=36643125) - [Quetzal-1 Satellite Goes Open Source](https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/)
 * [2023-07-08, 09:37:50](https://news.ycombinator.com/item?id=36642846) - [The Private Communication Technology (PCT) Protocol (1995)](http://graphcomp.com/info/specs/ms/pct.htm)
