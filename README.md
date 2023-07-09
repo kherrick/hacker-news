@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-09, 20:13:47](https://news.ycombinator.com/item?id=36658414) - [Mark Zuckerberg: “We’re moving very slowly” (2012)](https://www.threads.net/t/CufIxkipyez/)
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:25:32](https://news.ycombinator.com/item?id=36657970) - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
 * [2023-07-09, 19:21:49](https://news.ycombinator.com/item?id=36657935) - [Godot 4.1, new Linux Laptop and phone, GNOME 45, China's distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
@@ -22,6 +21,7 @@
 * [2023-07-09, 13:56:05](https://news.ycombinator.com/item?id=36654471) - [A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
 * [2023-07-09, 13:40:37](https://news.ycombinator.com/item?id=36654376) - [The lost saga of Fossil Cycad National Monument (2017)](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
 * [2023-07-09, 12:21:01](https://news.ycombinator.com/item?id=36653874) - [Defecting from North Korea is now harder](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html)
+* [2023-07-09, 11:56:26](https://news.ycombinator.com/item?id=36653740) - [Introduction to ActivityPub (2021)](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
 * [2023-07-09, 10:51:52](https://news.ycombinator.com/item?id=36653399) - [Show HN: Digger – Open Source Terraform automation and collaboration tool](https://github.com/diggerhq/digger)
 * [2023-07-09, 10:23:12](https://news.ycombinator.com/item?id=36653246) - [Engineering Intensity](https://ruiper.es/posts/engineering_intensity/)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
