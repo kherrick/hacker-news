@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-09, 21:14:17",
+      "https://news.ycombinator.com/item?id=36658959"
+    ],
+    [
+      "Clojure Plays Mario",
+      "https://blog.phronemophobic.com/mairio.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-09, 20:41:50",
+      "https://news.ycombinator.com/item?id=36658667"
+    ],
+    [
+      "Study: Vaccinate cats in their tails so when tumors form, tail can be amputated",
+      "https://pubmed.ncbi.nlm.nih.gov/24108201/"
+    ]
+  ],
+  [
+    [
+      "2023-07-09, 20:13:47",
+      "https://news.ycombinator.com/item?id=36658414"
+    ],
+    [
+      "Mark Zuckerberg: “We’re moving very slowly” (2012)",
+      "https://www.threads.net/t/CufIxkipyez/"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 19:28:51",
       "https://news.ycombinator.com/item?id=36658001"
     ],
@@ -71,6 +101,16 @@
   ],
   [
     [
+      "2023-07-09, 17:12:35",
+      "https://news.ycombinator.com/item?id=36656332"
+    ],
+    [
+      "Computationally optimal arrangements of barbell plates",
+      "https://jacobbrazeal.wordpress.com/2023/07/09/computationally-optimal-sequences-of-barbell-plates/"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 16:58:00",
       "https://news.ycombinator.com/item?id=36656190"
     ],
@@ -87,16 +127,6 @@
     [
       "Building cross-platform Rust for Web, Android and iOS – a minimal example",
       "https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 16:45:24",
-      "https://news.ycombinator.com/item?id=36656052"
-    ],
-    [
-      "A mathematically correct way to tie your shoes",
-      "https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2023-07-09, 11:56:26",
-      "https://news.ycombinator.com/item?id=36653740"
-    ],
-    [
-      "Introduction to ActivityPub (2021)",
-      "https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508"
-    ]
-  ],
-  [
-    [
       "2023-07-09, 10:51:52",
       "https://news.ycombinator.com/item?id=36653399"
     ],
@@ -267,26 +287,6 @@
     [
       "Restoring the Apollo Guidance Computer [video]",
       "https://www.youtube.com/watch?v=9uwC7WUain4"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 14:38:39",
-      "https://news.ycombinator.com/item?id=36644841"
-    ],
-    [
-      "Refurb weekend(s): Commodore/MOS KIM-1",
-      "http://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 10:10:03",
-      "https://news.ycombinator.com/item?id=36642989"
-    ],
-    [
-      "Cargo-semver-checks: Scan your Rust crate for semver violations",
-      "https://github.com/obi1kenobi/cargo-semver-checks"
     ]
   ],
   [
