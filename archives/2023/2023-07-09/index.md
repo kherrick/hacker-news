@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 16:21:49](https://news.ycombinator.com/item?id=36655816) - [Ask HN: What Happened to Web3 Startups?](https://news.ycombinator.com/item?id=36655816)
 * [2023-07-09, 16:16:23](https://news.ycombinator.com/item?id=36655764) - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
 * [2023-07-09, 16:15:15](https://news.ycombinator.com/item?id=36655756) - [Google’s medical AI chatbot is already being tested in hospitals](https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt)
