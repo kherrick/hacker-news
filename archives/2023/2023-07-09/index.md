@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
 * [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
 * [2023-07-09, 18:29:27](https://news.ycombinator.com/item?id=36657399) - [Meta Threads logo appears to be a copy of German brand apotheken.de](https://old.reddit.com/r/Design/comments/14uzurq/threads_logo_appears_to_be_a_copy_of_german_brand/)
+* [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
+* [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
 * [2023-07-09, 17:30:01](https://news.ycombinator.com/item?id=36656580) - [Here come the “metahumans”: Virtual avatars have real jobs in Indonesia](https://restofworld.org/2023/metahumans-go-mainstream-indonesia/)
+* [2023-07-09, 16:58:00](https://news.ycombinator.com/item?id=36656190) - [A quick look back at when Microsoft made an interactive Barney toy](https://www.neowin.net/news/a-quick-look-back-at-when-microsoft-made-an-interactive-barney-toy/)
+* [2023-07-09, 16:56:09](https://news.ycombinator.com/item?id=36656168) - [The Hungry Caterpillar and the Ecosystem](https://nautil.us/the-very-hungry-caterpillar-and-the-ecosystem-352590/)
+* [2023-07-09, 16:54:29](https://news.ycombinator.com/item?id=36656145) - [Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/)
 * [2023-07-09, 16:45:24](https://news.ycombinator.com/item?id=36656052) - [The mathematically correct way to tie your shoes](https://bigthink.com/starts-with-a-bang/math-tie-shoes-correct/)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 16:21:49](https://news.ycombinator.com/item?id=36655816) - [Ask HN: What Happened to Web3 Startups?](https://news.ycombinator.com/item?id=36655816)
