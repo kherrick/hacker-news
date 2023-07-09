@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 22:22:07](https://news.ycombinator.com/item?id=36659573) - [Mozilla ending support for Windows 7](https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/)
 * [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [The PinePhone modem SDK: a free-software baseband firmware](https://github.com/the-modem-distro/pinephone_modem_sdk)
 * [2023-07-09, 21:41:20](https://news.ycombinator.com/item?id=36659219) - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
 * [2023-07-09, 21:35:27](https://news.ycombinator.com/item?id=36659166) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
