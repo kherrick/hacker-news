@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 10:25:16](https://news.ycombinator.com/item?id=36653262) - [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
 * [2023-07-09, 10:18:49](https://news.ycombinator.com/item?id=36653224) - [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html)
 * [2023-07-09, 09:12:24](https://news.ycombinator.com/item?id=36652919) - [The Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
