@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [The PinePhone modem SDK: a free-software baseband firmware](https://github.com/the-modem-distro/pinephone_modem_sdk)
+* [2023-07-09, 21:41:20](https://news.ycombinator.com/item?id=36659219) - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
+* [2023-07-09, 21:35:27](https://news.ycombinator.com/item?id=36659166) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
 * [2023-07-09, 21:11:32](https://news.ycombinator.com/item?id=36658941) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 20:41:50](https://news.ycombinator.com/item?id=36658667) - [Study: Vaccinate cats in their tails so when tumors form, tail can be amputated](https://pubmed.ncbi.nlm.nih.gov/24108201/)

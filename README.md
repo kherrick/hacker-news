@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [The PinePhone modem SDK: a free-software baseband firmware](https://github.com/the-modem-distro/pinephone_modem_sdk)
+* [2023-07-09, 21:41:20](https://news.ycombinator.com/item?id=36659219) - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
+* [2023-07-09, 21:35:27](https://news.ycombinator.com/item?id=36659166) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
 * [2023-07-09, 21:11:32](https://news.ycombinator.com/item?id=36658941) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
-* [2023-07-09, 20:41:50](https://news.ycombinator.com/item?id=36658667) - [Tail vaccination in cats: a pilot study (2014)](https://pubmed.ncbi.nlm.nih.gov/24108201/)
 * [2023-07-09, 20:30:33](https://news.ycombinator.com/item?id=36658553) - [An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
 * [2023-07-09, 20:24:42](https://news.ycombinator.com/item?id=36658506) - [The Undecidability of BB(748): Understanding Godel’s Incompleteness Theorems [pdf]](https://www.ingo-blechschmidt.eu/assets/bachelor-thesis-undecidability-bb748.pdf)
 * [2023-07-09, 19:48:38](https://news.ycombinator.com/item?id=36658166) - [Fractal Vise](https://airgraver.com/fractal-vise.htm)
@@ -11,7 +13,6 @@
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
 * [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
-* [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
 * [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
 * [2023-07-09, 17:12:35](https://news.ycombinator.com/item?id=36656332) - [Computationally optimal arrangements of barbell plates](https://jacobbrazeal.wordpress.com/2023/07/09/computationally-optimal-sequences-of-barbell-plates/)
 * [2023-07-09, 16:58:00](https://news.ycombinator.com/item?id=36656190) - [A quick look back at when Microsoft made an interactive Barney toy](https://www.neowin.net/news/a-quick-look-back-at-when-microsoft-made-an-interactive-barney-toy/)
@@ -27,7 +28,6 @@
 * [2023-07-09, 12:21:01](https://news.ycombinator.com/item?id=36653874) - [Defecting from North Korea is now harder](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
-* [2023-07-09, 04:40:10](https://news.ycombinator.com/item?id=36651557) - [Show HN : Nova - GPT with composable prompts, workspaces, + LlamaIndex](https://samueltate.com/nova)
 * [2023-07-08, 20:42:20](https://news.ycombinator.com/item?id=36648529) - [Restoring the Apollo Guidance Computer [video]](https://www.youtube.com/watch?v=9uwC7WUain4)
 * [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 
