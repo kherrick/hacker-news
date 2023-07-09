@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 02:43:30",
+      "https://news.ycombinator.com/item?id=36651001"
+    ],
+    [
+      "Far-right figures are flocking to Threads",
+      "https://www.mediamatters.org/facebook/far-right-figures-including-nazi-supporters-anti-gay-extremists-and-white-supremacists-are"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 00:24:31",
       "https://news.ycombinator.com/item?id=36650120"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36649740"
     ],
     [
-      "Pocket: It gets worse the more you use it",
+      "Pocket gets worse the more you use it (2019)",
       "https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/"
     ]
   ],
@@ -35,38 +45,8 @@
       "https://news.ycombinator.com/item?id=36649710"
     ],
     [
-      "The First Machine Unlearning Challenge – Google Research Blog",
+      "Machine Unlearning Challenge",
       "https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 22:52:24",
-      "https://news.ycombinator.com/item?id=36649576"
-    ],
-    [
-      "Bluesky: Building a Social Internet",
-      "https://blueskyweb.xyz/"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 21:46:10",
-      "https://news.ycombinator.com/item?id=36649094"
-    ],
-    [
-      "How to Write a Computer Emulator",
-      "http://fms.komkon.org/EMUL8/HOWTO.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 21:41:02",
-      "https://news.ycombinator.com/item?id=36649047"
-    ],
-    [
-      "You Suck at Excel with Joel Spolsky [video]",
-      "https://www.youtube.com/watch?v=0nbkaYsR94c"
     ]
   ],
   [
@@ -77,16 +57,6 @@
     [
       "Open Sourcing the Nginx Playground",
       "https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 21:10:51",
-      "https://news.ycombinator.com/item?id=36648817"
-    ],
-    [
-      "Is Htmx Gaining in Popularity?",
-      "https://trends.builtwith.com/javascript/Htmx"
     ]
   ],
   [
@@ -145,8 +115,18 @@
       "https://news.ycombinator.com/item?id=36646890"
     ],
     [
-      "Why Use Pascal?",
+      "Why use Pascal?",
       "https://castle-engine.io/why_pascal"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 17:47:28",
+      "https://news.ycombinator.com/item?id=36646791"
+    ],
+    [
+      "I stopped buying new laptops (2020)",
+      "https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/"
     ]
   ],
   [
@@ -195,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36645306"
     ],
     [
-      "The Away Team Model at Amazon (2022)",
+      "The away team model at Amazon (2022)",
       "https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/"
     ]
   ],
@@ -241,22 +221,22 @@
   ],
   [
     [
-      "2023-07-08, 10:50:37",
-      "https://news.ycombinator.com/item?id=36643211"
-    ],
-    [
-      "Experiments with plane-filling curves and Fourier transform",
-      "https://github.com/mxmlnkn/fft-image-experiments"
-    ]
-  ],
-  [
-    [
       "2023-07-08, 09:37:50",
       "https://news.ycombinator.com/item?id=36642846"
     ],
     [
       "The Private Communication Technology (PCT) Protocol (1995)",
       "http://graphcomp.com/info/specs/ms/pct.htm"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 05:56:14",
+      "https://news.ycombinator.com/item?id=36641722"
+    ],
+    [
+      "Stupid alloc – what if memory allocation was annoying",
+      "https://github.com/shadyfennec/stupidalloc"
     ]
   ],
   [
@@ -271,22 +251,42 @@
   ],
   [
     [
+      "2023-07-08, 04:59:58",
+      "https://news.ycombinator.com/item?id=36641476"
+    ],
+    [
+      "Counterexamples in Type Systems",
+      "https://github.com/stedolan/counterexamples"
+    ]
+  ],
+  [
+    [
       "2023-07-07, 20:44:12",
       "https://news.ycombinator.com/item?id=36638046"
     ],
     [
-      "The Code Review Pyramid",
+      "The Code Review Pyramid (2022)",
       "https://www.morling.dev/blog/the-code-review-pyramid/"
     ]
   ],
   [
     [
-      "2023-07-07, 19:14:20",
-      "https://news.ycombinator.com/item?id=36636921"
+      "2023-07-07, 20:39:36",
+      "https://news.ycombinator.com/item?id=36638005"
     ],
     [
-      "Epistemological Relativism",
-      "https://www.reading.ac.uk/AcaDepts/ld/Philos/jmp/Theory%20of%20Knowledge/EpistemologicalRelativism.htm"
+      "Hollywood steps up anime piracy war and battles domain-hopping evaders",
+      "https://torrentfreak.com/hollywood-steps-up-anime-piracy-war-and-battles-domain-hopping-evaders-230707/"
+    ]
+  ],
+  [
+    [
+      "2023-07-07, 19:54:40",
+      "https://news.ycombinator.com/item?id=36637453"
+    ],
+    [
+      "The Republic of Translation",
+      "https://www.nybooks.com/articles/2023/07/20/the-republic-of-translation-historiae-antonella-anedda/"
     ]
   ],
   [
