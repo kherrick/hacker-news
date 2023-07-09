@@ -51,6 +51,7 @@
 * [2023-07-08, 14:49:51](https://news.ycombinator.com/item?id=36644952) - [Spying on a smartphone remotely by the authorities: feasibility and operation](https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation)
 * [2023-07-08, 14:47:48](https://news.ycombinator.com/item?id=36644933) - [CrunchGPT: A ChatGPT assisted framework for scientific machine learning](https://arxiv.org/abs/2306.15551)
 * [2023-07-08, 14:43:33](https://news.ycombinator.com/item?id=36644895) - [Nifflas: “When an app asks for permission feed fake data” – Fosstodon](https://mastodon.gamedev.place/@Nifflas/110668040598715116)
+* [2023-07-08, 14:38:39](https://news.ycombinator.com/item?id=36644841) - [Refurb weekend(s): Commodore/MOS KIM-1](http://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html)
 * [2023-07-08, 14:35:37](https://news.ycombinator.com/item?id=36644806) - [iVentoy](https://www.iventoy.com/en/index.html)
 * [2023-07-08, 14:14:59](https://news.ycombinator.com/item?id=36644634) - [Show HN: Sitemap2Feed – Convert an online sitemap to Atom, RSS and JSON feeds](https://github.com/midzer/sitemap2feed)
 * [2023-07-08, 14:03:17](https://news.ycombinator.com/item?id=36644515) - [The ants go marching methodically](https://news.arizona.edu/story/ants-go-marching-%E2%80%A6-methodically)

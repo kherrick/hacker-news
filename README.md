@@ -21,15 +21,15 @@
 * [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [PdfGptIndexer: Indexing and searching PDF text data using GPT-2 and FAISS](https://github.com/raghavan/PdfGptIndexer)
 * [2023-07-08, 20:13:14](https://news.ycombinator.com/item?id=36648257) - [Victory Garden (Novel)](https://en.wikipedia.org/wiki/Victory_Garden_(novel))
 * [2023-07-08, 18:35:06](https://news.ycombinator.com/item?id=36647364) - [Learn electronics by practice](https://beletronics.wordpress.com/)
-* [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why use Pascal?](https://castle-engine.io/why_pascal)
 * [2023-07-08, 16:19:54](https://news.ycombinator.com/item?id=36645846) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-08, 16:01:59](https://news.ycombinator.com/item?id=36645633) - [London Medieval Murder Map](https://www.vrc.crim.cam.ac.uk/vrcresearch/london-medieval-murder-map)
 * [2023-07-08, 15:19:37](https://news.ycombinator.com/item?id=36645240) - [Superrational](https://skunkledger.substack.com/p/superrational)
+* [2023-07-08, 14:38:39](https://news.ycombinator.com/item?id=36644841) - [Refurb weekend(s): Commodore/MOS KIM-1](http://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html)
 * [2023-07-08, 10:37:31](https://news.ycombinator.com/item?id=36643125) - [Quetzal-1 Satellite Goes Open Source](https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/)
 * [2023-07-08, 10:10:03](https://news.ycombinator.com/item?id=36642989) - [Cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
+* [2023-07-08, 05:56:14](https://news.ycombinator.com/item?id=36641722) - [Stupid alloc – what if memory allocation was annoying](https://github.com/shadyfennec/stupidalloc)
 * [2023-07-08, 05:37:31](https://news.ycombinator.com/item?id=36641634) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2023-07-07, 20:44:12](https://news.ycombinator.com/item?id=36638046) - [The Code Review Pyramid (2022)](https://www.morling.dev/blog/the-code-review-pyramid/)
-* [2023-07-07, 18:06:43](https://news.ycombinator.com/item?id=36635839) - [Panel with photovoltaic material layered on silicon hits 33% efficiencies](https://arstechnica.com/science/2023/07/perovskite-silicon-solar-panels-hit-efficiencies-of-over-30/)
 
 ## [Archives](archives/index.md)
 
