@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 03:49:51](https://news.ycombinator.com/item?id=36651342) - [Specular Holography: How](http://zintaglio.com/how.html)
 * [2023-07-09, 00:24:31](https://news.ycombinator.com/item?id=36650120) - [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 * [2023-07-09, 00:05:05](https://news.ycombinator.com/item?id=36650010) - [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
 * [2023-07-08, 23:19:47](https://news.ycombinator.com/item?id=36649740) - [Pocket gets worse the more you use it (2019)](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
@@ -12,7 +13,6 @@
 * [2023-07-08, 18:20:10](https://news.ycombinator.com/item?id=36647211) - [Container Training](https://container.training/)
 * [2023-07-08, 17:54:54](https://news.ycombinator.com/item?id=36646890) - [Why use Pascal?](https://castle-engine.io/why_pascal)
 * [2023-07-08, 17:47:28](https://news.ycombinator.com/item?id=36646791) - [I stopped buying new laptops (2020)](https://solar.lowtechmagazine.com/2020/12/how-and-why-i-stopped-buying-new-laptops/)
-* [2023-07-08, 17:31:17](https://news.ycombinator.com/item?id=36646598) - [How to Verify Your Domain on Nostr and Bluesky (For Micro.blog Users)](https://mattlangford.com/2023/07/06/how-to-verify.html)
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
 * [2023-07-08, 16:19:54](https://news.ycombinator.com/item?id=36645846) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
