@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-09, 08:01:59](https://news.ycombinator.com/item?id=36652569) - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
-* [2023-07-09, 07:53:20](https://news.ycombinator.com/item?id=36652540) - [Free currency conversion API from dollar to 10 currencies](https://currencydatahub.tech/)
 * [2023-07-09, 07:44:29](https://news.ycombinator.com/item?id=36652496) - [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
 * [2023-07-09, 06:22:10](https://news.ycombinator.com/item?id=36652096) - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
 * [2023-07-09, 05:09:13](https://news.ycombinator.com/item?id=36651717) - [Google's Privacy Policy Now Admits to Collecting All Your Data for AI Training](https://www.pcgamer.com/in-case-there-was-any-doubt-googles-privacy-policy-now-explicitly-states-that-its-going-to-suck-up-all-your-data-to-train-its-ai/)
@@ -12,6 +11,7 @@
 * [2023-07-09, 00:05:05](https://news.ycombinator.com/item?id=36650010) - [California needs real math education, not gimmicks](https://www.noahpinion.blog/p/california-needs-real-math-education)
 * [2023-07-08, 23:19:47](https://news.ycombinator.com/item?id=36649740) - [Pocket gets worse the more you use it (2019)](https://web.archive.org/web/20190512092903/https://old.reddit.com/r/dredmorbius/comments/5x2sfx/pocket_it_gets_worse_the_more_you_use_it/)
 * [2023-07-08, 23:14:44](https://news.ycombinator.com/item?id=36649710) - [Machine Unlearning Challenge](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+* [2023-07-08, 21:46:10](https://news.ycombinator.com/item?id=36649094) - [How to Write a Computer Emulator (2000)](http://fms.komkon.org/EMUL8/HOWTO.html)
 * [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel (2015) [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
 * [2023-07-08, 21:11:17](https://news.ycombinator.com/item?id=36648821) - [Open sourcing the Nginx playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
 * [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [PdfGptIndexer: Indexing and searching PDF text data using GPT-2 and FAISS](https://github.com/raghavan/PdfGptIndexer)
