@@ -73,6 +73,7 @@
 * [2023-07-08, 10:50:37](https://news.ycombinator.com/item?id=36643211) - [Experiments with plane-filling curves and Fourier transform](https://github.com/mxmlnkn/fft-image-experiments)
 * [2023-07-08, 10:37:31](https://news.ycombinator.com/item?id=36643125) - [Quetzal-1 Satellite Goes Open Source](https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/)
 * [2023-07-08, 10:11:00](https://news.ycombinator.com/item?id=36642998) - [The Definitive Guide to Docker in 2023](https://masteringbackend.com/posts/docker-tutorial)
+* [2023-07-08, 10:10:03](https://news.ycombinator.com/item?id=36642989) - [Cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
 * [2023-07-08, 09:57:59](https://news.ycombinator.com/item?id=36642935) - [How to Blow Up a Timeline](https://www.eugenewei.com/blog/2023/7/6/how-to-blow-up-a-timeline)
 * [2023-07-08, 09:57:03](https://news.ycombinator.com/item?id=36642932) - [I am drowning in mutes please help (Threads)](https://internettalk.substack.com/p/i-am-drowning-in-mutes-please-help)
 * [2023-07-08, 09:41:11](https://news.ycombinator.com/item?id=36642867) - [Bevy XPBD: A physics engine for the Bevy game engine](https://joonaa.dev/blog/02/bevy-xpbd-0-1-0)
