@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
 * [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
+* [2023-07-09, 21:11:32](https://news.ycombinator.com/item?id=36658941) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 20:41:50](https://news.ycombinator.com/item?id=36658667) - [Study: Vaccinate cats in their tails so when tumors form, tail can be amputated](https://pubmed.ncbi.nlm.nih.gov/24108201/)
 * [2023-07-09, 20:30:33](https://news.ycombinator.com/item?id=36658553) - [An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
 * [2023-07-09, 20:24:42](https://news.ycombinator.com/item?id=36658506) - [The Undecidability of BB(748): Understanding Godel’s Incompleteness Theorems [pdf]](https://www.ingo-blechschmidt.eu/assets/bachelor-thesis-undecidability-bb748.pdf)
