@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-09, 11:56:26](https://news.ycombinator.com/item?id=36653740) - [Introduction to ActivityPub](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
+* [2023-07-09, 10:51:52](https://news.ycombinator.com/item?id=36653399) - [Show HN: Digger – an Open Source Terraform automation and collaboration tool](https://github.com/diggerhq/digger)
 * [2023-07-09, 10:25:16](https://news.ycombinator.com/item?id=36653262) - [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
 * [2023-07-09, 10:18:49](https://news.ycombinator.com/item?id=36653224) - [Fairphone 4 is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
@@ -27,7 +28,6 @@
 * [2023-07-08, 14:38:39](https://news.ycombinator.com/item?id=36644841) - [Refurb weekend(s): Commodore/MOS KIM-1](http://oldvcr.blogspot.com/2023/07/refurb-weekends-commodoremos-kim-1.html)
 * [2023-07-08, 10:37:31](https://news.ycombinator.com/item?id=36643125) - [Quetzal-1 Satellite Goes Open Source](https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/)
 * [2023-07-08, 10:10:03](https://news.ycombinator.com/item?id=36642989) - [Cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
-* [2023-07-08, 05:56:14](https://news.ycombinator.com/item?id=36641722) - [Stupid alloc – what if memory allocation was annoying](https://github.com/shadyfennec/stupidalloc)
 * [2023-07-08, 05:37:31](https://news.ycombinator.com/item?id=36641634) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2023-07-07, 20:44:12](https://news.ycombinator.com/item?id=36638046) - [The Code Review Pyramid (2022)](https://www.morling.dev/blog/the-code-review-pyramid/)
 
