@@ -6,6 +6,7 @@
 
 * [2023-07-09, 22:22:07](https://news.ycombinator.com/item?id=36659573) - [Mozilla ending support for Windows 7](https://blog.mozilla.org/futurereleases/2023/07/06/firefox-support-for-windows-7-8-and-8-1/)
 * [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [The PinePhone modem SDK: a free-software baseband firmware](https://github.com/the-modem-distro/pinephone_modem_sdk)
+* [2023-07-09, 21:55:00](https://news.ycombinator.com/item?id=36659347) - [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
 * [2023-07-09, 21:41:20](https://news.ycombinator.com/item?id=36659219) - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
 * [2023-07-09, 21:35:27](https://news.ycombinator.com/item?id=36659166) - [Why engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
@@ -26,6 +27,7 @@
 * [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
 * [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
 * [2023-07-09, 18:29:27](https://news.ycombinator.com/item?id=36657399) - [Meta Threads logo appears to be a copy of German brand apotheken.de](https://old.reddit.com/r/Design/comments/14uzurq/threads_logo_appears_to_be_a_copy_of_german_brand/)
+* [2023-07-09, 18:28:22](https://news.ycombinator.com/item?id=36657391) - [Let the Internet Be Grimy](https://tedium.co/2023/07/08/threads-social-media-brand-safety/)
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
 * [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
 * [2023-07-09, 17:30:01](https://news.ycombinator.com/item?id=36656580) - [Here come the “metahumans”: Virtual avatars have real jobs in Indonesia](https://restofworld.org/2023/metahumans-go-mainstream-indonesia/)
