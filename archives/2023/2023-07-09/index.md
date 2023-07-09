@@ -6,9 +6,12 @@
 
 * [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
 * [2023-07-09, 20:41:50](https://news.ycombinator.com/item?id=36658667) - [Study: Vaccinate cats in their tails so when tumors form, tail can be amputated](https://pubmed.ncbi.nlm.nih.gov/24108201/)
+* [2023-07-09, 20:30:33](https://news.ycombinator.com/item?id=36658553) - [An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
 * [2023-07-09, 20:13:47](https://news.ycombinator.com/item?id=36658414) - [Mark Zuckerberg: “We’re moving very slowly” (2012)](https://www.threads.net/t/CufIxkipyez/)
+* [2023-07-09, 19:48:38](https://news.ycombinator.com/item?id=36658166) - [Fractal Vise](https://airgraver.com/fractal-vise.htm)
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:25:32](https://news.ycombinator.com/item?id=36657970) - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
+* [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea -or- We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
 * [2023-07-09, 19:21:49](https://news.ycombinator.com/item?id=36657935) - [Godot 4.1, new Linux Laptop and phone, GNOME 45, China's distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
 * [2023-07-09, 19:18:35](https://news.ycombinator.com/item?id=36657899) - [Wine-Based Hangover 8.11 Begins Integrating FEX Emulator Support](https://www.phoronix.com/news/Wine-Hangover-8.11-FEX)
 * [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
