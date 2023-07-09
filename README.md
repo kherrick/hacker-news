@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-09, 11:56:26](https://news.ycombinator.com/item?id=36653740) - [Introduction to ActivityPub](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
 * [2023-07-09, 10:25:16](https://news.ycombinator.com/item?id=36653262) - [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
 * [2023-07-09, 10:18:49](https://news.ycombinator.com/item?id=36653224) - [Fairphone 4 is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
@@ -16,7 +17,6 @@
 * [2023-07-08, 23:14:44](https://news.ycombinator.com/item?id=36649710) - [Machine Unlearning Challenge](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
 * [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel (2015) [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
 * [2023-07-08, 21:11:17](https://news.ycombinator.com/item?id=36648821) - [Open sourcing the Nginx playground](https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/)
-* [2023-07-08, 21:07:55](https://news.ycombinator.com/item?id=36648794) - [PdfGptIndexer: Indexing and searching PDF text data using GPT-2 and FAISS](https://github.com/raghavan/PdfGptIndexer)
 * [2023-07-08, 20:46:41](https://news.ycombinator.com/item?id=36648587) - [Packing a string of digits into an integer quickly](https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/)
 * [2023-07-08, 20:44:15](https://news.ycombinator.com/item?id=36648550) - [Onfim the Artist (2017)](https://www.cabinetmagazine.org/issues/64/smith.php)
 * [2023-07-08, 20:13:14](https://news.ycombinator.com/item?id=36648257) - [Victory Garden (Novel)](https://en.wikipedia.org/wiki/Victory_Garden_(novel))
