@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-09, 09:12:24",
+      "https://news.ycombinator.com/item?id=36652919"
+    ],
+    [
+      "The Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste",
+      "https://news.artnet.com/opinion/quantitative-aesthetics-2276351"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 08:50:07",
       "https://news.ycombinator.com/item?id=36652824"
     ],
@@ -257,16 +267,6 @@
     [
       "Cargo-semver-checks: Scan your Rust crate for semver violations",
       "https://github.com/obi1kenobi/cargo-semver-checks"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 05:56:14",
-      "https://news.ycombinator.com/item?id=36641722"
-    ],
-    [
-      "Stupid alloc – what if memory allocation was annoying",
-      "https://github.com/shadyfennec/stupidalloc"
     ]
   ],
   [
