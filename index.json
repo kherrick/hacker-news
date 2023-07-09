@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36651342"
     ],
     [
-      "Specular Holography: How",
+      "Specular Holography: How (2010)",
       "http://zintaglio.com/how.html"
     ]
   ],
@@ -51,11 +51,21 @@
   ],
   [
     [
+      "2023-07-08, 21:41:02",
+      "https://news.ycombinator.com/item?id=36649047"
+    ],
+    [
+      "You Suck at Excel (2015) [video]",
+      "https://www.youtube.com/watch?v=0nbkaYsR94c"
+    ]
+  ],
+  [
+    [
       "2023-07-08, 21:11:17",
       "https://news.ycombinator.com/item?id=36648821"
     ],
     [
-      "Open Sourcing the Nginx Playground",
+      "Open sourcing the Nginx playground",
       "https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36648794"
     ],
     [
-      "Build Personal ChatGPT Using Your Data",
+      "PdfGptIndexer: Indexing and searching PDF text data using GPT-2 and FAISS",
       "https://github.com/raghavan/PdfGptIndexer"
     ]
   ],
@@ -77,6 +87,16 @@
     [
       "Packing a string of digits into an integer quickly",
       "https://lemire.me/blog/2023/07/07/packing-a-string-of-digits-into-an-integer-quickly/"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 20:44:15",
+      "https://news.ycombinator.com/item?id=36648550"
+    ],
+    [
+      "Onfim the Artist (2017)",
+      "https://www.cabinetmagazine.org/issues/64/smith.php"
     ]
   ],
   [
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=36647364"
     ],
     [
-      "Learn Electronics by Practice",
+      "Learn electronics by practice",
       "https://beletronics.wordpress.com/"
     ]
   ],
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=36645356"
     ],
     [
-      "How to Keep Lambda Calculus Simple",
+      "How to keep lambda calculus simple",
       "https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html"
     ]
   ],
@@ -177,6 +197,16 @@
     [
       "The away team model at Amazon (2022)",
       "https://pedrodelgallego.github.io/blog/amazon/operating-model/away-team-model/"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 15:01:09",
+      "https://news.ycombinator.com/item?id=36645038"
+    ],
+    [
+      "As a therapist, I know what’s breaking couples up",
+      "https://thewalrus.ca/what-breaks-up-couples/"
     ]
   ],
   [
@@ -197,26 +227,6 @@
     [
       "iVentoy",
       "https://www.iventoy.com/en/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 13:10:00",
-      "https://news.ycombinator.com/item?id=36644026"
-    ],
-    [
-      "Thermochromic Breadboard",
-      "https://www.improwis.com/projects/hw_ThermochromicBreadboard/"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 12:18:46",
-      "https://news.ycombinator.com/item?id=36643670"
-    ],
-    [
-      "If PEP 703 is accepted, Meta can commit three engineer-years to no-GIL CPython",
-      "https://discuss.python.org/t/a-fast-free-threading-python/27903/99"
     ]
   ],
   [
@@ -245,18 +255,8 @@
       "https://news.ycombinator.com/item?id=36641634"
     ],
     [
-      "TypeScript Book",
+      "The Concise TypeScript Book",
       "https://github.com/gibbok/typescript-book"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 04:59:58",
-      "https://news.ycombinator.com/item?id=36641476"
-    ],
-    [
-      "Counterexamples in Type Systems",
-      "https://github.com/stedolan/counterexamples"
     ]
   ],
   [
