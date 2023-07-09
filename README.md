@@ -12,7 +12,7 @@
 * [2023-07-09, 20:24:42](https://news.ycombinator.com/item?id=36658506) - [The Undecidability of BB(748): Understanding Godel’s Incompleteness Theorems [pdf]](https://www.ingo-blechschmidt.eu/assets/bachelor-thesis-undecidability-bb748.pdf)
 * [2023-07-09, 19:48:38](https://news.ycombinator.com/item?id=36658166) - [Fractal Vise](https://airgraver.com/fractal-vise.htm)
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
-* [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea -or- We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
+* [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea or We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-09, 18:28:22](https://news.ycombinator.com/item?id=36657391) - [Let the Internet Be Grimy](https://tedium.co/2023/07/08/threads-social-media-brand-safety/)
 * [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
