@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-09, 14:56:20](https://news.ycombinator.com/item?id=36654960) - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
-* [2023-07-09, 14:37:16](https://news.ycombinator.com/item?id=36654795) - [The real reasons why sharks attack humans](https://www.bbc.com/future/article/20190808-why-do-sharks-attack-humans)
 * [2023-07-09, 14:30:32](https://news.ycombinator.com/item?id=36654729) - [Open Weights](https://github.com/Open-Weights/Definition)
 * [2023-07-09, 14:21:20](https://news.ycombinator.com/item?id=36654652) - [A solar storm on Thu is expected to make Northern Lights visible in 17 states](https://apnews.com/article/auroras-northern-lights-solar-storm-58f8d99d746bed1c656170a4a38d6362)
 * [2023-07-09, 13:56:05](https://news.ycombinator.com/item?id=36654471) - [A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
@@ -22,6 +21,7 @@
 * [2023-07-09, 05:11:01](https://news.ycombinator.com/item?id=36651724) - [The HTTP status code for a web server's default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
 * [2023-07-09, 03:49:51](https://news.ycombinator.com/item?id=36651342) - [Specular Holography: How (2010)](http://zintaglio.com/how.html)
 * [2023-07-09, 01:31:34](https://news.ycombinator.com/item?id=36650581) - [Show HN: An index of all monthly dividend stocks](https://thedividendlist.com/)
+* [2023-07-09, 00:24:31](https://news.ycombinator.com/item?id=36650120) - [Perl first commit: a “replacement” for Awk and sed](https://github.com/Perl/perl5/commit/8d063cd8450e59ea1c611a2f4f5a21059a2804f1)
 * [2023-07-08, 20:44:15](https://news.ycombinator.com/item?id=36648550) - [Onfim the Artist (2017)](https://www.cabinetmagazine.org/issues/64/smith.php)
 * [2023-07-08, 20:42:20](https://news.ycombinator.com/item?id=36648529) - [Restoring the Apollo Guidance Computer [video]](https://www.youtube.com/watch?v=9uwC7WUain4)
 * [2023-07-08, 16:19:54](https://news.ycombinator.com/item?id=36645846) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
