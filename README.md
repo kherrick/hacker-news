@@ -12,7 +12,6 @@
 * [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea -or- We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
-* [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
 * [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
 * [2023-07-09, 17:12:35](https://news.ycombinator.com/item?id=36656332) - [Computationally optimal arrangements of barbell plates](https://jacobbrazeal.wordpress.com/2023/07/09/computationally-optimal-sequences-of-barbell-plates/)
 * [2023-07-09, 16:58:00](https://news.ycombinator.com/item?id=36656190) - [A quick look back at when Microsoft made an interactive Barney toy](https://www.neowin.net/news/a-quick-look-back-at-when-microsoft-made-an-interactive-barney-toy/)
@@ -28,6 +27,7 @@
 * [2023-07-09, 12:21:01](https://news.ycombinator.com/item?id=36653874) - [Defecting from North Korea is now harder](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
+* [2023-07-09, 04:40:10](https://news.ycombinator.com/item?id=36651557) - [Show HN : Nova - GPT with composable prompts, workspaces, + LlamaIndex](https://samueltate.com/nova)
 * [2023-07-08, 20:42:20](https://news.ycombinator.com/item?id=36648529) - [Restoring the Apollo Guidance Computer [video]](https://www.youtube.com/watch?v=9uwC7WUain4)
 * [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 
