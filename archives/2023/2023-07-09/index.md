@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 20:13:47](https://news.ycombinator.com/item?id=36658414) - [Mark Zuckerberg: “We’re moving very slowly” (2012)](https://www.threads.net/t/CufIxkipyez/)
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:25:32](https://news.ycombinator.com/item?id=36657970) - [Bevy 0.11: ECS-driven game engine built in Rust](https://bevyengine.org/news/bevy-0-11/)
 * [2023-07-09, 19:21:49](https://news.ycombinator.com/item?id=36657935) - [Godot 4.1, new Linux Laptop and phone, GNOME 45, China's distro: FOSS Weekly](https://fossweekly.beehiiv.com/p/foss-weekly-47-godot-4-1-new-linux-laptop-and-phone-gnome-45-china-s-distro-and-more)
@@ -25,6 +26,7 @@
 * [2023-07-09, 16:16:23](https://news.ycombinator.com/item?id=36655764) - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
 * [2023-07-09, 16:15:15](https://news.ycombinator.com/item?id=36655756) - [Google’s medical AI chatbot is already being tested in hospitals](https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt)
 * [2023-07-09, 16:04:36](https://news.ycombinator.com/item?id=36655654) - [Deputy US Marshal Pleads Guilty to Obtaining Cell Phone Location Unlawfully [pdf]](https://oig.justice.gov/sites/default/files/2023-07/06-30-2023b.pdf)
+* [2023-07-09, 16:02:15](https://news.ycombinator.com/item?id=36655636) - [The Lucretius Problem: How History Blinds Us](https://fs.blog/lucretius-problem/)
 * [2023-07-09, 16:01:08](https://news.ycombinator.com/item?id=36655620) - [US Spies Are Buying Americans’ Data. Congress Has a New Chance to Stop It](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
 * [2023-07-09, 15:35:28](https://news.ycombinator.com/item?id=36655333) - [The internet's “town square” is dead](https://www.theintrinsicperspective.com/p/the-internets-town-square-is-dead)
 * [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color Appearance and the End of Hering’s Opponent-Colors Theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
