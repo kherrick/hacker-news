@@ -34,6 +34,7 @@
 * [2023-07-08, 16:58:55](https://news.ycombinator.com/item?id=36646277) - [An ARM Assembler Written in Lisp](http://forum.ulisp.com/t/an-arm-assembler-written-in-lisp/1237)
 * [2023-07-08, 16:42:51](https://news.ycombinator.com/item?id=36646116) - [San Francisco loses 2 big conferences](https://www.sfgate.com/bayarea/article/san-francisco-loses-meta-red-hat-conferences-18187573.php)
 * [2023-07-08, 16:32:49](https://news.ycombinator.com/item?id=36645999) - [Pokémon Go creator Niantic accused of ‘systemic sexual bias’ in lawsuit](https://www.theverge.com/2023/7/7/23787809/niantic-lawsuit-systemic-sexual-bias-pay-disparity)
+* [2023-07-08, 16:19:54](https://news.ycombinator.com/item?id=36645846) - [Can a Rubik's Cube be brute-forced?](https://www.stylewarning.com/posts/brute-force-rubiks-cube/)
 * [2023-07-08, 16:17:33](https://news.ycombinator.com/item?id=36645821) - [Reverse-engineering the 8086 processor's address and data pin circuits](https://www.righto.com/2023/07/8086-pins.html)
 * [2023-07-08, 16:01:59](https://news.ycombinator.com/item?id=36645633) - [London Medieval Murder Map](https://www.vrc.crim.cam.ac.uk/vrcresearch/london-medieval-murder-map)
 * [2023-07-08, 15:56:19](https://news.ycombinator.com/item?id=36645575) - [Langchain Is Pointless](https://old.reddit.com/r/LangChain/comments/13fcw36/langchain_is_pointless/)
