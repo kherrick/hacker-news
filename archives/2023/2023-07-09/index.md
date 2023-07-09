@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 16:15:15](https://news.ycombinator.com/item?id=36655756) - [Google’s medical AI chatbot is already being tested in hospitals](https://www.theverge.com/2023/7/8/23788265/google-med-palm-2-mayo-clinic-chatbot-bard-chatgpt)
 * [2023-07-09, 15:35:28](https://news.ycombinator.com/item?id=36655333) - [The internet's “town square” is dead](https://www.theintrinsicperspective.com/p/the-internets-town-square-is-dead)
 * [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color Appearance and the End of Hering’s Opponent-Colors Theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
 * [2023-07-09, 14:56:20](https://news.ycombinator.com/item?id=36654960) - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
@@ -21,6 +22,7 @@
 * [2023-07-09, 10:51:52](https://news.ycombinator.com/item?id=36653399) - [Show HN: Digger – an Open Source Terraform automation and collaboration tool](https://github.com/diggerhq/digger)
 * [2023-07-09, 10:25:16](https://news.ycombinator.com/item?id=36653262) - [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
 * [2023-07-09, 10:23:12](https://news.ycombinator.com/item?id=36653246) - [Engineering Intensity](https://ruiper.es/posts/engineering_intensity/)
+* [2023-07-09, 10:20:37](https://news.ycombinator.com/item?id=36653234) - [An untold story of the Tunisian startup ecosystem](https://www.realisticoptimist.io/p/an-untold-story-of-the-tunisian-startup)
 * [2023-07-09, 10:18:49](https://news.ycombinator.com/item?id=36653224) - [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
 * [2023-07-09, 10:06:49](https://news.ycombinator.com/item?id=36653163) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html)
