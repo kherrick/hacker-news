@@ -12,6 +12,7 @@
 * [2023-07-09, 16:01:08](https://news.ycombinator.com/item?id=36655620) - [US Spies Are Buying Americans’ Data. Congress Has a New Chance to Stop It](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
 * [2023-07-09, 15:35:28](https://news.ycombinator.com/item?id=36655333) - [The internet's “town square” is dead](https://www.theintrinsicperspective.com/p/the-internets-town-square-is-dead)
 * [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color Appearance and the End of Hering’s Opponent-Colors Theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
+* [2023-07-09, 15:20:15](https://news.ycombinator.com/item?id=36655192) - [United Auto Workers (UAW) wants EPA to soften vehicle emissions plan](https://www.reuters.com/business/autos-transportation/uaw-wants-epa-soften-vehicle-emissions-plan-2023-07-07/)
 * [2023-07-09, 14:56:20](https://news.ycombinator.com/item?id=36654960) - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
 * [2023-07-09, 14:37:16](https://news.ycombinator.com/item?id=36654795) - [The real reasons why sharks attack humans](https://www.bbc.com/future/article/20190808-why-do-sharks-attack-humans)
 * [2023-07-09, 14:30:32](https://news.ycombinator.com/item?id=36654729) - [Open Weights](https://github.com/Open-Weights/Definition)
