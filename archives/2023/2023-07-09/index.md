@@ -6,6 +6,7 @@
 
 * [2023-07-09, 10:18:49](https://news.ycombinator.com/item?id=36653224) - [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html)
+* [2023-07-09, 09:12:24](https://news.ycombinator.com/item?id=36652919) - [The Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-09, 08:48:40](https://news.ycombinator.com/item?id=36652816) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-09, 08:01:59](https://news.ycombinator.com/item?id=36652569) - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)

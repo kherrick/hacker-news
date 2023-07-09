@@ -2,6 +2,7 @@
 
 * [2023-07-09, 10:18:49](https://news.ycombinator.com/item?id=36653224) - [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
+* [2023-07-09, 09:12:24](https://news.ycombinator.com/item?id=36652919) - [The Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-09, 08:48:40](https://news.ycombinator.com/item?id=36652816) - [Test Against Reality](https://borretti.me/article/test-against-reality)
 * [2023-07-09, 08:01:59](https://news.ycombinator.com/item?id=36652569) - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)
@@ -26,7 +27,6 @@
 * [2023-07-08, 15:19:37](https://news.ycombinator.com/item?id=36645240) - [Superrational](https://skunkledger.substack.com/p/superrational)
 * [2023-07-08, 10:37:31](https://news.ycombinator.com/item?id=36643125) - [Quetzal-1 Satellite Goes Open Source](https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/)
 * [2023-07-08, 10:10:03](https://news.ycombinator.com/item?id=36642989) - [Cargo-semver-checks: Scan your Rust crate for semver violations](https://github.com/obi1kenobi/cargo-semver-checks)
-* [2023-07-08, 05:56:14](https://news.ycombinator.com/item?id=36641722) - [Stupid alloc – what if memory allocation was annoying](https://github.com/shadyfennec/stupidalloc)
 * [2023-07-08, 05:37:31](https://news.ycombinator.com/item?id=36641634) - [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 * [2023-07-07, 20:44:12](https://news.ycombinator.com/item?id=36638046) - [The Code Review Pyramid (2022)](https://www.morling.dev/blog/the-code-review-pyramid/)
 * [2023-07-07, 18:06:43](https://news.ycombinator.com/item?id=36635839) - [Panel with photovoltaic material layered on silicon hits 33% efficiencies](https://arstechnica.com/science/2023/07/perovskite-silicon-solar-panels-hit-efficiencies-of-over-30/)
