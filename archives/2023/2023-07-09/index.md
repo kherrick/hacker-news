@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
+* [2023-07-09, 14:56:20](https://news.ycombinator.com/item?id=36654960) - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
+* [2023-07-09, 14:30:32](https://news.ycombinator.com/item?id=36654729) - [Open Weights](https://github.com/Open-Weights/Definition)
 * [2023-07-09, 13:56:05](https://news.ycombinator.com/item?id=36654471) - [A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
 * [2023-07-09, 13:47:32](https://news.ycombinator.com/item?id=36654420) - [America's first law regulating AI bias in hiring takes effect](https://qz.com/americas-first-law-regulating-ai-bias-in-hiring-takes-e-1850602243)
 * [2023-07-09, 13:40:37](https://news.ycombinator.com/item?id=36654376) - [The National Park That Was Stolen to Death](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
 * [2023-07-09, 13:34:23](https://news.ycombinator.com/item?id=36654337) - [Buying Apple’s Vision Pro headset could require an appointment and a face scan](https://www.theverge.com/2023/7/7/23786865/apple-vision-pro-headset-store-retail-face-scan)
 * [2023-07-09, 12:48:19](https://news.ycombinator.com/item?id=36654067) - [Bay Area tech company Evernote lays off most staff, relocating to Europe](https://www.sfgate.com/tech/article/evernote-layoffs-moving-to-europe-18190083.php)
+* [2023-07-09, 12:21:01](https://news.ycombinator.com/item?id=36653874) - [Defecting from North Korea Is Now Far Harder](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html)
 * [2023-07-09, 11:56:26](https://news.ycombinator.com/item?id=36653740) - [Introduction to ActivityPub](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
 * [2023-07-09, 10:51:52](https://news.ycombinator.com/item?id=36653399) - [Show HN: Digger – an Open Source Terraform automation and collaboration tool](https://github.com/diggerhq/digger)
 * [2023-07-09, 10:25:16](https://news.ycombinator.com/item?id=36653262) - [A new method for packing objects inside a rigid container](https://techxplore.com/news/2023-07-method-dense-placement-rigid.html)
