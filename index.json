@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-09, 05:11:01",
-      "https://news.ycombinator.com/item?id=36651724"
-    ],
-    [
-      "The HTTP status code for a web server's default “hello” front page",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere"
-    ]
-  ],
-  [
-    [
       "2023-07-09, 05:09:13",
       "https://news.ycombinator.com/item?id=36651717"
     ],
@@ -257,6 +247,16 @@
     [
       "Cargo-semver-checks: Scan your Rust crate for semver violations",
       "https://github.com/obi1kenobi/cargo-semver-checks"
+    ]
+  ],
+  [
+    [
+      "2023-07-08, 09:37:50",
+      "https://news.ycombinator.com/item?id=36642846"
+    ],
+    [
+      "The Private Communication Technology (PCT) Protocol (1995)",
+      "http://graphcomp.com/info/specs/ms/pct.htm"
     ]
   ],
   [
