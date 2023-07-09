@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
+* [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
 * [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
 * [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
@@ -21,7 +22,6 @@
 * [2023-07-09, 11:56:26](https://news.ycombinator.com/item?id=36653740) - [Introduction to ActivityPub (2021)](https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508)
 * [2023-07-09, 10:51:52](https://news.ycombinator.com/item?id=36653399) - [Show HN: Digger – Open Source Terraform automation and collaboration tool](https://github.com/diggerhq/digger)
 * [2023-07-09, 10:23:12](https://news.ycombinator.com/item?id=36653246) - [Engineering Intensity](https://ruiper.es/posts/engineering_intensity/)
-* [2023-07-09, 10:20:37](https://news.ycombinator.com/item?id=36653234) - [An untold story of the Tunisian startup ecosystem](https://www.realisticoptimist.io/p/an-untold-story-of-the-tunisian-startup)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [The Development of the C Language (1993)](https://www.bell-labs.com/usr/dmr/www/chist.html)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-09, 08:01:59](https://news.ycombinator.com/item?id=36652569) - [The Web Assembly Shaper](https://github.com/harfbuzz/harfbuzz/blob/main/docs/wasm-shaper.md)

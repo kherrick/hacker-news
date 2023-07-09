@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-09](index.md)
 
 * [2023-07-09, 18:56:11](https://news.ycombinator.com/item?id=36657663) - [Ask HN: When were flagged submissions/comments added to the profile page?](https://news.ycombinator.com/item?id=36657663)
+* [2023-07-09, 18:43:44](https://news.ycombinator.com/item?id=36657540) - [Sarah Silverman is suing OpenAI and Meta for copyright infringement](https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai)
 * [2023-07-09, 18:37:11](https://news.ycombinator.com/item?id=36657477) - [Amateurs obsess over tools, pros over mastery](https://adamsinger.substack.com/p/amateurs-obsess-over-tools-pros-over)
 * [2023-07-09, 18:29:27](https://news.ycombinator.com/item?id=36657399) - [Meta Threads logo appears to be a copy of German brand apotheken.de](https://old.reddit.com/r/Design/comments/14uzurq/threads_logo_appears_to_be_a_copy_of_german_brand/)
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The End of the Magic World’s 50-Year Grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
