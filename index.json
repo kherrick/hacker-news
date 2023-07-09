@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-09, 11:56:26",
+      "https://news.ycombinator.com/item?id=36653740"
+    ],
+    [
+      "Introduction to ActivityPub",
+      "https://socialhub.activitypub.rocks/t/introduction-to-activitypub/508"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 10:25:16",
       "https://news.ycombinator.com/item?id=36653262"
     ],
@@ -157,16 +167,6 @@
     [
       "Open sourcing the Nginx playground",
       "https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 21:07:55",
-      "https://news.ycombinator.com/item?id=36648794"
-    ],
-    [
-      "PdfGptIndexer: Indexing and searching PDF text data using GPT-2 and FAISS",
-      "https://github.com/raghavan/PdfGptIndexer"
     ]
   ],
   [
