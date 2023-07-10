@@ -65,6 +65,7 @@
 * [2023-07-08, 13:10:00](https://news.ycombinator.com/item?id=36644026) - [Thermochromic Breadboard](https://www.improwis.com/projects/hw_ThermochromicBreadboard/)
 * [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
 * [2023-07-08, 12:56:20](https://news.ycombinator.com/item?id=36643934) - [Raytheon asks retirees for help making new Stinger anti-air missiles](https://www.popsci.com/technology/stinger-missiles-raytheon-ukraine/)
+* [2023-07-08, 12:53:40](https://news.ycombinator.com/item?id=36643904) - [The Unum Pattern (2019)](http://habitatchronicles.com/2019/08/the-unum-pattern/)
 * [2023-07-08, 12:32:27](https://news.ycombinator.com/item?id=36643754) - [How to Succeed: Lessons from Sam Altman](https://aarushgupta.com/2023/07/08/success-sam-altman.html)
 * [2023-07-08, 12:29:22](https://news.ycombinator.com/item?id=36643732) - [Ford unleashes the UK’s first legal hands-free drive car – but who will buy it?](https://www.theguardian.com/business/2023/jul/08/ford-unleashes-the-uks-first-legal-hands-free-drive-car-but-who-will-buy-it)
 * [2023-07-08, 12:28:35](https://news.ycombinator.com/item?id=36643727) - [The Truth About Deinstitutionalization (2021)](https://www.theatlantic.com/health/archive/2021/05/truth-about-deinstitutionalization/618986/)

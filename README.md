@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-10, 14:21:46](https://news.ycombinator.com/item?id=36666881) - [The New York Times to Disband Its Sports Department, Replacing with the Athletic](https://www.nytimes.com/2023/07/10/business/media/the-new-york-times-sports-department.html)
+* [2023-07-10, 14:17:52](https://news.ycombinator.com/item?id=36666830) - [EdgeNode: Deploy Serverless Containers on Edge](https://edgenode.com/)
 * [2023-07-10, 14:16:29](https://news.ycombinator.com/item?id=36666807) - [EU signs off on data transfers deal with US](https://www.politico.eu/article/eu-signs-off-on-data-transfers-deal-with-us/)
 * [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 14:10:34](https://news.ycombinator.com/item?id=36666702) - [Shelf – open-source asset management software](https://github.com/Shelf-nu/shelf.nu)
@@ -23,13 +24,12 @@
 * [2023-07-10, 06:01:59](https://news.ycombinator.com/item?id=36662655) - [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
 * [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [A Japanese factory that designs clothes on a 40-year-old computer [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
-* [2023-07-10, 05:07:40](https://news.ycombinator.com/item?id=36662353) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2023-07-10, 01:37:09](https://news.ycombinator.com/item?id=36660995) - [Methods for increasing efficiency of solar cells with silicon and perovskite](https://techxplore.com/news/2023-07-methods-efficiency-solar-cells-silicon.html)
 * [2023-07-09, 12:08:25](https://news.ycombinator.com/item?id=36653798) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
 * [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
-* [2023-07-08, 12:22:27](https://news.ycombinator.com/item?id=36643686) - [Entropy and Life (2013)](https://letstalkaboutscience.wordpress.com/2013/02/14/entropy-and-life/)
+* [2023-07-08, 12:53:40](https://news.ycombinator.com/item?id=36643904) - [The Unum Pattern (2019)](http://habitatchronicles.com/2019/08/the-unum-pattern/)
 
 ## [Archives](archives/index.md)
 
