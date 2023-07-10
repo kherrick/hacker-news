@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-10, 16:30:34",
+      "https://news.ycombinator.com/item?id=36668732"
+    ],
+    [
+      "Apple VisionOS Simulator streaming wirelessly to Meta Quest headset",
+      "https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 16:15:20",
+      "https://news.ycombinator.com/item?id=36668472"
+    ],
+    [
+      "Study: 87% of classic video games are not legally available",
+      "https://gamehistory.org/87percent/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 15:28:43",
       "https://news.ycombinator.com/item?id=36667848"
     ],
@@ -17,6 +37,16 @@
     [
       "Keep Linux Open and Free–We Can’t Afford Not To",
       "https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 15:02:27",
+      "https://news.ycombinator.com/item?id=36667469"
+    ],
+    [
+      "Feature Flags: Theory vs. Reality",
+      "https://bpapillon.com/post/feature-flags-theory-vs-reality/"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Firefox address bar",
       "https://wiki.tilde.institute/w/firefox-address-bar-tips"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 13:08:00",
-      "https://news.ycombinator.com/item?id=36665814"
-    ],
-    [
-      "Some companies think customers will accidentally cancel if it's too easy",
-      "https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2023-07-10, 01:37:09",
-      "https://news.ycombinator.com/item?id=36660995"
+      "2023-07-09, 13:40:11",
+      "https://news.ycombinator.com/item?id=36654372"
     ],
     [
-      "Methods for increasing efficiency of solar cells with silicon and perovskite",
-      "https://techxplore.com/news/2023-07-methods-efficiency-solar-cells-silicon.html"
+      "Bypassing Readout Protection in Nordic Semiconductor Microcontrollers",
+      "https://www.emproof.com/"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-07-08, 22:07:21",
-      "https://news.ycombinator.com/item?id=36649261"
-    ],
-    [
-      "A 286 running like a 386? (2021)",
-      "https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php"
-    ]
-  ],
-  [
-    [
       "2023-07-08, 13:04:55",
       "https://news.ycombinator.com/item?id=36643999"
     ],
     [
       "An Introduction to Statistical Learning with Applications in Python",
       "https://www.statlearning.com"
-    ]
-  ],
-  [
-    [
-      "2023-07-08, 12:53:40",
-      "https://news.ycombinator.com/item?id=36643904"
-    ],
-    [
-      "The Unum Pattern (2019)",
-      "http://habitatchronicles.com/2019/08/the-unum-pattern/"
     ]
   ]
 ]
