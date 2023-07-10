@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 23:30:27",
+      "https://news.ycombinator.com/item?id=36674487"
+    ],
+    [
+      "Frame Generation Essentials: Interpolation, Extrapolation, and Reprojection",
+      "https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 23:08:32",
       "https://news.ycombinator.com/item?id=36674259"
     ],
@@ -11,12 +21,42 @@
   ],
   [
     [
+      "2023-07-10, 23:05:21",
+      "https://news.ycombinator.com/item?id=36674224"
+    ],
+    [
+      "Easy HTTPS for your private networks",
+      "https://www.getlocalcert.net/"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 22:49:32",
+      "https://news.ycombinator.com/item?id=36674069"
+    ],
+    [
+      "Brian Eno Albums Available in Dolby Atmos and Spatial for the First Time",
+      "https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 22:49:01",
       "https://news.ycombinator.com/item?id=36674061"
     ],
     [
       "Did Airbnb kill the PM role?",
       "https://exponentially.substack.com/p/did-airbnb-kill-the-pm-role"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 22:35:26",
+      "https://news.ycombinator.com/item?id=36673945"
+    ],
+    [
+      "MicroVM by QEMU",
+      "https://qemu.readthedocs.io/en/latest/system/i386/microvm.html"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)",
       "https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 20:28:16",
-      "https://news.ycombinator.com/item?id=36672486"
-    ],
-    [
-      "Tumblr’s core product strategy",
-      "https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2023-07-10, 14:43:29",
-      "https://news.ycombinator.com/item?id=36667192"
-    ],
-    [
-      "Saving a German Library as an interface between research and infrastructure",
-      "https://zukunft-der-sub.de/for-a-library-with-a-future"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 14:15:04",
       "https://news.ycombinator.com/item?id=36666782"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-07-10, 06:47:58",
-      "https://news.ycombinator.com/item?id=36662899"
-    ],
-    [
-      "Polymorphism and other important aspects of inheritance",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 05:04:31",
       "https://news.ycombinator.com/item?id=36662339"
     ],
     [
       "Fifty years ago, a fire ripped through the National Personnel Records Center",
       "https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 10:08:36",
-      "https://news.ycombinator.com/item?id=36653169"
-    ],
-    [
-      "Petalisp: Elegant High Performance Computing",
-      "https://github.com/marcoheisig/Petalisp"
     ]
   ],
   [
