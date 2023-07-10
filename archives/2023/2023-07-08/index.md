@@ -9,6 +9,7 @@
 * [2023-07-08, 22:52:24](https://news.ycombinator.com/item?id=36649576) - [Bluesky: Building a Social Internet](https://blueskyweb.xyz/)
 * [2023-07-08, 22:31:48](https://news.ycombinator.com/item?id=36649428) - [The Last Place on Earth Any Tourist Should Go](https://www.theatlantic.com/science/archive/2023/07/antarctica-tourism-overcrowding-environmental-threat/674600/)
 * [2023-07-08, 22:15:00](https://news.ycombinator.com/item?id=36649320) - [Show HN: An Ethereum-authenticated community on Web3, science and technology](https://caches.xyz/)
+* [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 21:46:10](https://news.ycombinator.com/item?id=36649094) - [How to Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
 * [2023-07-08, 21:41:02](https://news.ycombinator.com/item?id=36649047) - [You Suck at Excel with Joel Spolsky [video]](https://www.youtube.com/watch?v=0nbkaYsR94c)
 * [2023-07-08, 21:27:44](https://news.ycombinator.com/item?id=36648949) - [Open Letter to Tim O’Reilly to Free the Perl Camel](https://news.ycombinator.com/item?id=36648949)
