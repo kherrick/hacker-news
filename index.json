@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 21:06:55",
+      "https://news.ycombinator.com/item?id=36672957"
+    ],
+    [
+      "Show HN: A hash array-mapped trie implementation in C",
+      "https://github.com/mkirchner/hamt"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 21:00:06",
       "https://news.ycombinator.com/item?id=36672888"
     ],
@@ -187,16 +197,6 @@
     [
       "Firefox address bar",
       "https://wiki.tilde.institute/w/firefox-address-bar-tips"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 12:33:56",
-      "https://news.ycombinator.com/item?id=36665406"
-    ],
-    [
-      "Nitter is working again",
-      "https://github.com/zedeus/nitter/pull/927"
     ]
   ],
   [
