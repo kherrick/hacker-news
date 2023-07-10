@@ -22,12 +22,12 @@
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-09, 18:28:22](https://news.ycombinator.com/item?id=36657391) - [Let the internet be grimy](https://tedium.co/2023/07/08/threads-social-media-brand-safety/)
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The end of the magic world’s 50-year grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
+* [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
 * [2023-07-09, 16:54:29](https://news.ycombinator.com/item?id=36656145) - [Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/)
 * [2023-07-09, 16:42:06](https://news.ycombinator.com/item?id=36656012) - [PDP-10 Incompatible Timesharing System emulator](https://github.com/PDP-10/its)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 16:16:23](https://news.ycombinator.com/item?id=36655764) - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
 * [2023-07-09, 16:02:15](https://news.ycombinator.com/item?id=36655636) - [The Lucretius Problem: How History Blinds Us](https://fs.blog/lucretius-problem/)
-* [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color appearance and the end of Hering’s Opponent-Colors theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
 * [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
 * [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 
