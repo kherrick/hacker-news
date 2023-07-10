@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 23:08:32](https://news.ycombinator.com/item?id=36674259) - [Show HN: Learn Japanese by Reading on iOS and macOS (SwiftUI)](https://reader.manabi.io/#page-top)
+* [2023-07-10, 22:49:01](https://news.ycombinator.com/item?id=36674061) - [Did Airbnb kill the PM role?](https://exponentially.substack.com/p/did-airbnb-kill-the-pm-role)
 * [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 * [2023-07-10, 22:07:15](https://news.ycombinator.com/item?id=36673653) - [US Army Physical Fitness Test (APFT): Normative Data on 6022 Soldiers (1994)](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
 * [2023-07-10, 21:34:48](https://news.ycombinator.com/item?id=36673280) - [Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)

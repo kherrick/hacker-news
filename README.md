@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
-* [2023-07-10, 22:07:15](https://news.ycombinator.com/item?id=36673653) - [US Army Physical Fitness Test (APFT): Normative Data on 6022 Soldiers (1994)](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
+* [2023-07-10, 23:08:32](https://news.ycombinator.com/item?id=36674259) - [Show HN: Learn Japanese by Reading on iOS and macOS (SwiftUI)](https://reader.manabi.io/#page-top)
+* [2023-07-10, 22:49:01](https://news.ycombinator.com/item?id=36674061) - [Did Airbnb kill the PM role?](https://exponentially.substack.com/p/did-airbnb-kill-the-pm-role)
+* [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
+* [2023-07-10, 22:07:15](https://news.ycombinator.com/item?id=36673653) - [US Army Physical Fitness Test: Normative Data on 6022 Soldiers (1994)](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
 * [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 21:06:55](https://news.ycombinator.com/item?id=36672957) - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
 * [2023-07-10, 21:00:06](https://news.ycombinator.com/item?id=36672888) - [Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
@@ -25,10 +27,8 @@
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 * [2023-07-10, 09:22:02](https://news.ycombinator.com/item?id=36663886) - [Fractals on an IBM 1401 mainframe (2015)](https://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
-* [2023-07-10, 06:47:58](https://news.ycombinator.com/item?id=36662899) - [Polymorphism and other important aspects of inheritance](https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects)
 * [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [Fifty years ago, a fire ripped through the National Personnel Records Center](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
-* [2023-07-09, 07:23:18](https://news.ycombinator.com/item?id=36652394) - [Convergence of Infinite Products (2008)](https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/)
 * [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 
 ## [Archives](archives/index.md)
