@@ -51,6 +51,7 @@
 * [2023-07-09, 14:56:20](https://news.ycombinator.com/item?id=36654960) - [Don't Take VC Funding – It Will Destroy Your Company](https://www.eidel.io/2023/07/09/vc-funding/)
 * [2023-07-09, 14:37:16](https://news.ycombinator.com/item?id=36654795) - [The real reasons why sharks attack humans](https://www.bbc.com/future/article/20190808-why-do-sharks-attack-humans)
 * [2023-07-09, 14:30:32](https://news.ycombinator.com/item?id=36654729) - [Open Weights](https://github.com/Open-Weights/Definition)
+* [2023-07-09, 14:24:35](https://news.ycombinator.com/item?id=36654678) - [Peptide analyses reveal female leadership in Copper Age Iberia (C. 2900–2650 BC)](https://www.nature.com/articles/s41598-023-36368-x)
 * [2023-07-09, 14:21:20](https://news.ycombinator.com/item?id=36654652) - [A solar storm on Thu is expected to make Northern Lights visible in 17 states](https://apnews.com/article/auroras-northern-lights-solar-storm-58f8d99d746bed1c656170a4a38d6362)
 * [2023-07-09, 13:56:05](https://news.ycombinator.com/item?id=36654471) - [A Compressive Light Field Projection System (2014)](https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/)
 * [2023-07-09, 13:47:32](https://news.ycombinator.com/item?id=36654420) - [America's first law regulating AI bias in hiring takes effect](https://qz.com/americas-first-law-regulating-ai-bias-in-hiring-takes-e-1850602243)

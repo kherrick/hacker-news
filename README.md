@@ -27,8 +27,8 @@
 * [2023-07-10, 13:39:45](https://news.ycombinator.com/item?id=36666260) - [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
 * [2023-07-10, 13:30:05](https://news.ycombinator.com/item?id=36666116) - [Firefox address bar](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
-* [2023-07-10, 09:22:02](https://news.ycombinator.com/item?id=36663886) - [Fractals on an IBM 1401 mainframe (2015)](https://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html)
 * [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [Fifty years ago, a fire ripped through the National Personnel Records Center](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
+* [2023-07-09, 14:24:35](https://news.ycombinator.com/item?id=36654678) - [Peptide analyses reveal female leadership in Copper Age Iberia (C. 2900–2650 BC)](https://www.nature.com/articles/s41598-023-36368-x)
 * [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 
 ## [Archives](archives/index.md)
