@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-10, 20:24:58](https://news.ycombinator.com/item?id=36672447) - [Postmortem: Co-founding a Web3 startup as a crypto sckeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
+* [2023-07-10, 20:28:16](https://news.ycombinator.com/item?id=36672486) - [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
+* [2023-07-10, 20:24:58](https://news.ycombinator.com/item?id=36672447) - [Postmortem: Co-founding a Web3 startup as a crypto skeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
 * [2023-07-10, 20:05:10](https://news.ycombinator.com/item?id=36672192) - [Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
 * [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
-* [2023-07-10, 19:37:58](https://news.ycombinator.com/item?id=36671818) - [I spent $855.77 on Google Ads and got my ads banned 5 times](https://www.lydiaoncybersecurity.com/launching-my-startup-incubator/)
 * [2023-07-10, 17:58:30](https://news.ycombinator.com/item?id=36670328) - [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
 * [2023-07-10, 17:03:18](https://news.ycombinator.com/item?id=36669253) - [Tuition costs have risen 710% since 1983](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
 * [2023-07-10, 17:02:42](https://news.ycombinator.com/item?id=36669249) - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)

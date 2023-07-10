@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 20:28:16](https://news.ycombinator.com/item?id=36672486) - [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
 * [2023-07-10, 20:24:58](https://news.ycombinator.com/item?id=36672447) - [Postmortem: Co-founding a Web3 startup as a crypto sckeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
 * [2023-07-10, 20:11:57](https://news.ycombinator.com/item?id=36672277) - [OpenAI: Superintelligence could arrive this decade](https://openai.com/blog/introducing-superalignment#fn-A:~:text=we%20believe%20it%20could%20arrive%20this%20decade)
 * [2023-07-10, 20:05:10](https://news.ycombinator.com/item?id=36672192) - [Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
