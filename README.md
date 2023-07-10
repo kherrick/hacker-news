@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [Japanese textile factory still uses tape cassette and punch cards](https://www.youtube.com/watch?v=zWJZFQHklBg)
+* [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [Japanese textile factory still uses tape cassette and punch cards [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:07:40](https://news.ycombinator.com/item?id=36662353) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2023-07-10, 04:14:51](https://news.ycombinator.com/item?id=36662011) - [Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
@@ -22,7 +22,7 @@
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-09, 18:28:22](https://news.ycombinator.com/item?id=36657391) - [Let the internet be grimy](https://tedium.co/2023/07/08/threads-social-media-brand-safety/)
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The end of the magic world’s 50-year grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
-* [2023-07-09, 17:56:38](https://news.ycombinator.com/item?id=36656963) - [Probing the mysteries of neutron stars with a surprising earthly analog](https://arstechnica.com/science/2023/07/probing-the-mysteries-of-neutron-stars-with-a-surprising-earthly-analog/)
+* [2023-07-09, 16:58:00](https://news.ycombinator.com/item?id=36656190) - [A quick look back at when Microsoft made an interactive Barney toy](https://www.neowin.net/news/a-quick-look-back-at-when-microsoft-made-an-interactive-barney-toy/)
 * [2023-07-09, 16:54:29](https://news.ycombinator.com/item?id=36656145) - [Building cross-platform Rust for Web, Android and iOS – a minimal example](https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/)
 * [2023-07-09, 16:42:06](https://news.ycombinator.com/item?id=36656012) - [PDP-10 Incompatible Timesharing System emulator](https://github.com/PDP-10/its)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
