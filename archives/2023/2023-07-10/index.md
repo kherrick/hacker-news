@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 21:00:06](https://news.ycombinator.com/item?id=36672888) - [Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
 * [2023-07-10, 20:28:16](https://news.ycombinator.com/item?id=36672486) - [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
 * [2023-07-10, 20:24:58](https://news.ycombinator.com/item?id=36672447) - [Postmortem: Co-founding a Web3 startup as a crypto sckeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
 * [2023-07-10, 20:11:57](https://news.ycombinator.com/item?id=36672277) - [OpenAI: Superintelligence could arrive this decade](https://openai.com/blog/introducing-superalignment#fn-A:~:text=we%20believe%20it%20could%20arrive%20this%20decade)
 * [2023-07-10, 20:05:10](https://news.ycombinator.com/item?id=36672192) - [Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
+* [2023-07-10, 20:04:29](https://news.ycombinator.com/item?id=36672183) - [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
 * [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
 * [2023-07-10, 19:37:58](https://news.ycombinator.com/item?id=36671818) - [I spent $855.77 on Google Ads and got my ads banned 5 times](https://www.lydiaoncybersecurity.com/launching-my-startup-incubator/)
 * [2023-07-10, 19:14:33](https://news.ycombinator.com/item?id=36671480) - [My business has been blocked by ad blockers](https://victorfalcon.substack.com/p/my-project-site-has-been-blocked)
@@ -56,6 +58,7 @@
 * [2023-07-10, 09:28:51](https://news.ycombinator.com/item?id=36663928) - [Greek shipwreck: hi-tech investigation suggests coastguard responsible](https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking)
 * [2023-07-10, 09:28:37](https://news.ycombinator.com/item?id=36663925) - [Amazon Prime Video’s Microservices Move Doesn’t Lead to a Monolith After All](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
 * [2023-07-10, 09:27:32](https://news.ycombinator.com/item?id=36663916) - [When Did LinkedIn Become the Dorky Social Network?](https://medium.com/@HenryInnis/when-did-linkedin-become-the-dorky-social-network-21b6dd35a719)
+* [2023-07-10, 09:22:02](https://news.ycombinator.com/item?id=36663886) - [Fractals on an IBM 1401 mainframe (2015)](https://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html)
 * [2023-07-10, 09:08:42](https://news.ycombinator.com/item?id=36663803) - [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
 * [2023-07-10, 08:27:04](https://news.ycombinator.com/item?id=36663509) - [The controller pattern is awful (and other OO heresy)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
