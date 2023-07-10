@@ -11,6 +11,7 @@
 * [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [Japanese textile factory still uses tape cassette and punch cards](https://www.youtube.com/watch?v=zWJZFQHklBg)
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:07:40](https://news.ycombinator.com/item?id=36662353) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
+* [2023-07-10, 05:06:41](https://news.ycombinator.com/item?id=36662346) - [William Saville-Kent: Marine Biology's Unsolved Murder (2021)](https://www.theatlantic.com/science/archive/2021/06/william-saville-kent-murder-mystery/619202/)
 * [2023-07-10, 04:14:51](https://news.ycombinator.com/item?id=36662011) - [Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
 * [2023-07-10, 03:50:18](https://news.ycombinator.com/item?id=36661845) - [Ask HN: Just moved to SF. How can I leverage my new location to skill up in dev?](https://news.ycombinator.com/item?id=36661845)
 * [2023-07-10, 03:45:09](https://news.ycombinator.com/item?id=36661806) - [GPTrolley – Who Would GPT Save in the Trolley Problem?](https://www.gptrolley.com/)
