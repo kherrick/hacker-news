@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 17:16:57](https://news.ycombinator.com/item?id=36669480) - [Threads isn't ever going to connect to Mastodon, so stop pretending that it is](https://knollslaw.substack.com/p/metas-threads-app-isnt-ever-going)
 * [2023-07-10, 17:03:18](https://news.ycombinator.com/item?id=36669253) - [Tuition costs have risen 710% since 1983 (1200% since 1980). Inflation: 194%](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
 * [2023-07-10, 17:01:07](https://news.ycombinator.com/item?id=36669230) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
@@ -54,6 +55,7 @@
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:07:40](https://news.ycombinator.com/item?id=36662353) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2023-07-10, 05:06:41](https://news.ycombinator.com/item?id=36662346) - [William Saville-Kent: Marine Biology's Unsolved Murder (2021)](https://www.theatlantic.com/science/archive/2021/06/william-saville-kent-murder-mystery/619202/)
+* [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [The Night 17M Precious Military Records Went Up in Smoke](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
 * [2023-07-10, 04:58:47](https://news.ycombinator.com/item?id=36662293) - [Can a puppetry major survive a flagship’s financial crisis? Should it?](https://www.chronicle.com/article/fuzz-cut)
 * [2023-07-10, 04:14:51](https://news.ycombinator.com/item?id=36662011) - [Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
 * [2023-07-10, 03:50:18](https://news.ycombinator.com/item?id=36661845) - [Ask HN: Just moved to SF. How can I leverage my new location to skill up in dev?](https://news.ycombinator.com/item?id=36661845)

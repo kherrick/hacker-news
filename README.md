@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-10, 17:16:57](https://news.ycombinator.com/item?id=36669480) - [Threads isn't ever going to connect to Mastodon, so stop pretending that it is](https://knollslaw.substack.com/p/metas-threads-app-isnt-ever-going)
 * [2023-07-10, 17:03:18](https://news.ycombinator.com/item?id=36669253) - [Tuition costs have risen 710% since 1983 (1200% since 1980). Inflation: 194%](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
 * [2023-07-10, 17:01:07](https://news.ycombinator.com/item?id=36669230) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
@@ -17,7 +18,6 @@
 * [2023-07-10, 13:30:05](https://news.ycombinator.com/item?id=36666116) - [Firefox address bar](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter is working again](https://github.com/zedeus/nitter/pull/927)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
-* [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 09:08:42](https://news.ycombinator.com/item?id=36663803) - [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
 * [2023-07-10, 08:27:04](https://news.ycombinator.com/item?id=36663509) - [The controller pattern is awful, and other OO heresy (2013)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
@@ -25,10 +25,10 @@
 * [2023-07-10, 06:01:59](https://news.ycombinator.com/item?id=36662655) - [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
 * [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [A Japanese factory that designs clothes on a 40-year-old computer [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
+* [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [The Night 17M Precious Military Records Went Up in Smoke](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
 * [2023-07-09, 13:40:11](https://news.ycombinator.com/item?id=36654372) - [Bypassing Readout Protection in Nordic Semiconductor Microcontrollers](https://www.emproof.com/)
 * [2023-07-09, 12:08:25](https://news.ycombinator.com/item?id=36653798) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
-* [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
 
 ## [Archives](archives/index.md)
