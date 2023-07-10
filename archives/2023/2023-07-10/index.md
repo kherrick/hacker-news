@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 13:30:05](https://news.ycombinator.com/item?id=36666116) - [Firefox Address Bar Tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 13:08:00](https://news.ycombinator.com/item?id=36665814) - [Idiot Customers Will Accidentally Cancel Their Subscriptions If It's Too Easy](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
 * [2023-07-10, 13:02:56](https://news.ycombinator.com/item?id=36665765) - [Are the Americans Awake?](https://are-the-americans-awake.yusuf.fyi/)
 * [2023-07-10, 12:41:05](https://news.ycombinator.com/item?id=36665481) - [Instagram Threads hits 100M users, becoming the fastest growing app](https://www.independent.co.uk/tech/instagram-threads-twitter-users-elon-musk-million-b2372336.html)
+* [2023-07-10, 12:40:56](https://news.ycombinator.com/item?id=36665478) - [Fixed Spelling Errors or Typos](https://github.com/google/oss-fuzz/pull/9340)
 * [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter (Twitter front end) is working again](https://github.com/zedeus/nitter/pull/927)
 * [2023-07-10, 12:16:18](https://news.ycombinator.com/item?id=36665247) - [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
 * [2023-07-10, 11:32:37](https://news.ycombinator.com/item?id=36664909) - [Debate over 'fake work' in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
@@ -35,6 +37,7 @@
 * [2023-07-10, 03:33:53](https://news.ycombinator.com/item?id=36661754) - [Python in 2023 still sucks at importing modules from another folder](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder/50194143#50194143)
 * [2023-07-10, 02:49:02](https://news.ycombinator.com/item?id=36661478) - [Car rental throwing away money?](https://games.greggman.com/game/stupid-car-rental/)
 * [2023-07-10, 01:49:34](https://news.ycombinator.com/item?id=36661070) - [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
+* [2023-07-10, 01:37:09](https://news.ycombinator.com/item?id=36660995) - [Methods for increasing efficiency of solar cells with silicon and perovskite](https://techxplore.com/news/2023-07-methods-efficiency-solar-cells-silicon.html)
 * [2023-07-10, 00:57:32](https://news.ycombinator.com/item?id=36660751) - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
 * [2023-07-10, 00:36:27](https://news.ycombinator.com/item?id=36660606) - [Ask HN: (How much) do you get paid for being on call?](https://news.ycombinator.com/item?id=36660606)
 * [2023-07-10, 00:35:20](https://news.ycombinator.com/item?id=36660598) - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
