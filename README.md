@@ -2,6 +2,7 @@
 
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 09:49:18](https://news.ycombinator.com/item?id=36664056) - [Rain Hashes](https://github.com/dosyago/rain)
+* [2023-07-10, 09:28:37](https://news.ycombinator.com/item?id=36663925) - [Amazon Prime Video’s Microservices Move Doesn’t Lead to a Monolith After All](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
 * [2023-07-10, 09:08:42](https://news.ycombinator.com/item?id=36663803) - [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
 * [2023-07-10, 07:57:16](https://news.ycombinator.com/item?id=36663312) - [Uber, DoorDash Sue NYC to Stop Delivery Drivers from Getting a Minimum Wage](https://www.vice.com/en/article/93k3ve/uber-doordash-sue-nyc-to-stop-delivery-drivers-from-getting-a-minimum-wage)
@@ -25,7 +26,6 @@
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea or We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
-* [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The end of the magic world’s 50-year grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
 * [2023-07-09, 12:08:25](https://news.ycombinator.com/item?id=36653798) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
