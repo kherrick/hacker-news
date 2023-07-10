@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 17:58:30](https://news.ycombinator.com/item?id=36670328) - [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
 * [2023-07-10, 17:16:57](https://news.ycombinator.com/item?id=36669480) - [Threads isn't ever going to connect to Mastodon, so stop pretending that it is](https://knollslaw.substack.com/p/metas-threads-app-isnt-ever-going)
 * [2023-07-10, 17:03:18](https://news.ycombinator.com/item?id=36669253) - [Tuition costs have risen 710% since 1983 (1200% since 1980). Inflation: 194%](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
 * [2023-07-10, 17:02:42](https://news.ycombinator.com/item?id=36669249) - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
@@ -40,6 +41,7 @@
 * [2023-07-10, 11:32:37](https://news.ycombinator.com/item?id=36664909) - [Debate over 'fake work' in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Using SVG to create simple sparkline charts](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 * [2023-07-10, 10:28:01](https://news.ycombinator.com/item?id=36664323) - [Prediction: Threads will be shut down in 12 months or less](https://twitter.com/alex_valaitis/status/1678146083145359362)
+* [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 09:49:18](https://news.ycombinator.com/item?id=36664056) - [Rain Hashes](https://github.com/dosyago/rain)
 * [2023-07-10, 09:28:51](https://news.ycombinator.com/item?id=36663928) - [Greek shipwreck: hi-tech investigation suggests coastguard responsible](https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking)
