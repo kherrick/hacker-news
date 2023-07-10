@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-10, 18:54:44](https://news.ycombinator.com/item?id=36671235) - [“Coning” AVs is part of a long tradition of tactical urbanism](https://oversharing.substack.com/p/traffic-cones-vs-self-driving-cars)
 * [2023-07-10, 18:45:30](https://news.ycombinator.com/item?id=36671105) - [Ask HN: What tech newsletters are you currently subscribing?](https://news.ycombinator.com/item?id=36671105)
 * [2023-07-10, 17:58:30](https://news.ycombinator.com/item?id=36670328) - [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
 * [2023-07-10, 17:03:18](https://news.ycombinator.com/item?id=36669253) - [Tuition costs have risen 710% since 1983](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
@@ -20,6 +19,7 @@
 * [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter is working again](https://github.com/zedeus/nitter/pull/927)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 * [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
+* [2023-07-10, 08:27:04](https://news.ycombinator.com/item?id=36663509) - [The controller pattern is awful, and other OO heresy (2013)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
 * [2023-07-10, 07:18:16](https://news.ycombinator.com/item?id=36663060) - [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
 * [2023-07-10, 06:47:58](https://news.ycombinator.com/item?id=36662899) - [Polymorphism and other important aspects of inheritance](https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects)
