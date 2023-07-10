@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-10, 03:50:18](https://news.ycombinator.com/item?id=36661845) - [Ask HN: Just moved to SF. How can I leverage my new location to skill up in dev?](https://news.ycombinator.com/item?id=36661845)
-* [2023-07-10, 03:33:53](https://news.ycombinator.com/item?id=36661754) - [Python in 2023 still sucks at importing modules from another folder](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder/50194143#50194143)
 * [2023-07-10, 01:49:34](https://news.ycombinator.com/item?id=36661070) - [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
 * [2023-07-10, 00:57:32](https://news.ycombinator.com/item?id=36660751) - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
 * [2023-07-10, 00:35:20](https://news.ycombinator.com/item?id=36660598) - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
+* [2023-07-10, 00:11:02](https://news.ycombinator.com/item?id=36660447) - [Sarah Silverman sues Meta, OpenAI for copyright infringement](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/)
 * [2023-07-09, 22:51:12](https://news.ycombinator.com/item?id=36659859) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
 * [2023-07-09, 21:55:00](https://news.ycombinator.com/item?id=36659347) - [Polynomial Functors: A Mathematical Theory of Interaction [pdf]](https://topos.site/poly-book.pdf)
@@ -27,8 +27,8 @@
 * [2023-07-09, 16:02:15](https://news.ycombinator.com/item?id=36655636) - [The Lucretius Problem: How History Blinds Us](https://fs.blog/lucretius-problem/)
 * [2023-07-09, 16:01:08](https://news.ycombinator.com/item?id=36655620) - [US spies are buying Americans’ data – Congress has a new chance to stop it](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
 * [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color appearance and the end of Hering’s Opponent-Colors theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
-* [2023-07-09, 13:40:37](https://news.ycombinator.com/item?id=36654376) - [The lost saga of Fossil Cycad National Monument (2017)](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
 * [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
+* [2023-07-09, 04:40:10](https://news.ycombinator.com/item?id=36651557) - [Show HN : Nova - GPT with composable prompts, workspaces, + LlamaIndex](https://samueltate.com/nova)
 * [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 
 ## [Archives](archives/index.md)
