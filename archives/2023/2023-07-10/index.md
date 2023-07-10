@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [Japanese textile factory still uses tape cassette and punch cards](https://www.youtube.com/watch?v=zWJZFQHklBg)
+* [2023-07-10, 04:14:51](https://news.ycombinator.com/item?id=36662011) - [Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
 * [2023-07-10, 03:50:18](https://news.ycombinator.com/item?id=36661845) - [Ask HN: Just moved to SF. How can I leverage my new location to skill up in dev?](https://news.ycombinator.com/item?id=36661845)
 * [2023-07-10, 03:45:09](https://news.ycombinator.com/item?id=36661806) - [GPTrolley – Who Would GPT Save in the Trolley Problem?](https://www.gptrolley.com/)
 * [2023-07-10, 03:33:53](https://news.ycombinator.com/item?id=36661754) - [Python in 2023 still sucks at importing modules from another folder](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder/50194143#50194143)
@@ -12,4 +14,5 @@
 * [2023-07-10, 00:57:32](https://news.ycombinator.com/item?id=36660751) - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
 * [2023-07-10, 00:36:27](https://news.ycombinator.com/item?id=36660606) - [Ask HN: (How much) do you get paid for being on call?](https://news.ycombinator.com/item?id=36660606)
 * [2023-07-10, 00:35:20](https://news.ycombinator.com/item?id=36660598) - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
+* [2023-07-10, 00:16:52](https://news.ycombinator.com/item?id=36660488) - [What Unix Cost Us [video]](https://www.youtube.com/watch?v=9-IWMbJXoLM)
 * [2023-07-10, 00:11:02](https://news.ycombinator.com/item?id=36660447) - [Sarah Silverman sues Meta, OpenAI for copyright infringement](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/)
