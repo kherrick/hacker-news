@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-10, 19:14:33](https://news.ycombinator.com/item?id=36671480) - [My business has been blocked by ad blockers](https://victorfalcon.substack.com/p/my-project-site-has-been-blocked)
 * [2023-07-10, 18:54:44](https://news.ycombinator.com/item?id=36671235) - [“Coning” AVs is part of a long tradition of tactical urbanism](https://oversharing.substack.com/p/traffic-cones-vs-self-driving-cars)
 * [2023-07-10, 18:45:30](https://news.ycombinator.com/item?id=36671105) - [Ask HN: What tech newsletters are you currently subscribing?](https://news.ycombinator.com/item?id=36671105)
 * [2023-07-10, 17:58:30](https://news.ycombinator.com/item?id=36670328) - [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
@@ -26,6 +25,7 @@
 * [2023-07-10, 06:47:58](https://news.ycombinator.com/item?id=36662899) - [Polymorphism and other important aspects of inheritance](https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects)
 * [2023-07-10, 06:01:59](https://news.ycombinator.com/item?id=36662655) - [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
 * [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [A Japanese factory that designs clothes on a 40-year-old computer [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
+* [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [Fifty years ago, a fire ripped through the National Personnel Records Center](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
 * [2023-07-09, 13:40:11](https://news.ycombinator.com/item?id=36654372) - [Bypassing Readout Protection in Nordic Semiconductor Microcontrollers](https://www.emproof.com/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
