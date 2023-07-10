@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-10, 21:34:48](https://news.ycombinator.com/item?id=36673280) - [Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)
 * [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 21:20:08](https://news.ycombinator.com/item?id=36673108) - [Gandi.net updates pricing, increases rates by up to 1000%](https://chatting.neocities.org/posts/2023-gandi-pricing)
 * [2023-07-10, 21:06:55](https://news.ycombinator.com/item?id=36672957) - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
@@ -22,14 +23,13 @@
 * [2023-07-10, 13:39:45](https://news.ycombinator.com/item?id=36666260) - [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
 * [2023-07-10, 13:30:05](https://news.ycombinator.com/item?id=36666116) - [Firefox address bar](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
-* [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
 * [2023-07-10, 09:22:02](https://news.ycombinator.com/item?id=36663886) - [Fractals on an IBM 1401 mainframe (2015)](https://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
-* [2023-07-10, 07:18:16](https://news.ycombinator.com/item?id=36663060) - [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
 * [2023-07-10, 06:47:58](https://news.ycombinator.com/item?id=36662899) - [Polymorphism and other important aspects of inheritance](https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects)
 * [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [Fifty years ago, a fire ripped through the National Personnel Records Center](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
 * [2023-07-09, 07:23:18](https://news.ycombinator.com/item?id=36652394) - [Convergence of Infinite Products (2008)](https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/)
+* [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 
 ## [Archives](archives/index.md)
 
