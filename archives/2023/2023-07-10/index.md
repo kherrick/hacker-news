@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
+* [2023-07-10, 22:07:15](https://news.ycombinator.com/item?id=36673653) - [US Army Physical Fitness Test (APFT): Normative Data on 6022 Soldiers (1994)](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
 * [2023-07-10, 21:34:48](https://news.ycombinator.com/item?id=36673280) - [Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)
 * [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 21:20:08](https://news.ycombinator.com/item?id=36673108) - [Gandi.net updates pricing, increases rates by up to 1000%](https://chatting.neocities.org/posts/2023-gandi-pricing)
