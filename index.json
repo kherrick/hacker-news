@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-07-10, 14:35:13",
+      "https://news.ycombinator.com/item?id=36667078"
+    ],
+    [
+      "Canonical and IBM Are Turning Ubuntu and Fedora into Microsoft Windows",
+      "http://techrights.org/2023/07/09/corporate-distros/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 14:21:46",
       "https://news.ycombinator.com/item?id=36666881"
     ],
     [
-      "The New York Times to Disband Its Sports Department, Replacing with the Athletic",
+      "The New York Times to disband its sports department",
       "https://www.nytimes.com/2023/07/10/business/media/the-new-york-times-sports-department.html"
     ]
   ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2023-07-10, 13:53:22",
-      "https://news.ycombinator.com/item?id=36666456"
-    ],
-    [
-      "Dashcam images reveal where police are deployed",
-      "https://news.cornell.edu/stories/2023/07/dashcam-images-reveal-where-police-are-deployed"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 13:42:10",
       "https://news.ycombinator.com/item?id=36666286"
     ],
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36666116"
     ],
     [
-      "Firefox Address Bar Tips",
+      "Firefox address bar",
       "https://wiki.tilde.institute/w/firefox-address-bar-tips"
     ]
   ],
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=36663509"
     ],
     [
-      "The controller pattern is awful (and other OO heresy)",
+      "The controller pattern is awful, and other OO heresy (2013)",
       "https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/"
     ]
   ],
