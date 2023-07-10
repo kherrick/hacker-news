@@ -56,6 +56,7 @@
 * [2023-07-09, 13:47:32](https://news.ycombinator.com/item?id=36654420) - [America's first law regulating AI bias in hiring takes effect](https://qz.com/americas-first-law-regulating-ai-bias-in-hiring-takes-e-1850602243)
 * [2023-07-09, 13:42:24](https://news.ycombinator.com/item?id=36654389) - [Dublin Airport Airbrige Collapsed, Damaging American Airlines Boeing 787](https://aviationa2z.com/index.php/2023/07/09/dublin-airport-airbrige-collapsed-damaging-american-airlines-boeing-787/)
 * [2023-07-09, 13:40:37](https://news.ycombinator.com/item?id=36654376) - [The National Park That Was Stolen to Death](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
+* [2023-07-09, 13:40:11](https://news.ycombinator.com/item?id=36654372) - [Bypassing Readout Protection in Nordic Semiconductor Microcontrollers](https://www.emproof.com/)
 * [2023-07-09, 13:34:23](https://news.ycombinator.com/item?id=36654337) - [Buying Apple’s Vision Pro headset could require an appointment and a face scan](https://www.theverge.com/2023/7/7/23786865/apple-vision-pro-headset-store-retail-face-scan)
 * [2023-07-09, 12:48:19](https://news.ycombinator.com/item?id=36654067) - [Bay Area tech company Evernote lays off most staff, relocating to Europe](https://www.sfgate.com/tech/article/evernote-layoffs-moving-to-europe-18190083.php)
 * [2023-07-09, 12:21:01](https://news.ycombinator.com/item?id=36653874) - [Defecting from North Korea Is Now Far Harder](https://www.nytimes.com/2023/07/09/world/asia/north-korea-china-defectors.html)
