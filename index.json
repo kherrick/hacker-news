@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-10, 09:49:18",
-      "https://news.ycombinator.com/item?id=36664056"
-    ],
-    [
-      "Rain Hashes",
-      "https://github.com/dosyago/rain"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 09:28:51",
       "https://news.ycombinator.com/item?id=36663928"
     ],
@@ -47,6 +37,16 @@
     [
       "OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]",
       "https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 08:27:04",
+      "https://news.ycombinator.com/item?id=36663509"
+    ],
+    [
+      "The controller pattern is awful (and other OO heresy)",
+      "https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/"
     ]
   ],
   [
