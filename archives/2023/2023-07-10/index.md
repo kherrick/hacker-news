@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 20:11:57](https://news.ycombinator.com/item?id=36672277) - [OpenAI: Superintelligence could arrive this decade](https://openai.com/blog/introducing-superalignment#fn-A:~:text=we%20believe%20it%20could%20arrive%20this%20decade)
+* [2023-07-10, 20:05:10](https://news.ycombinator.com/item?id=36672192) - [Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
 * [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
 * [2023-07-10, 19:37:58](https://news.ycombinator.com/item?id=36671818) - [I spent $855.77 on Google Ads and got my ads banned 5 times](https://www.lydiaoncybersecurity.com/launching-my-startup-incubator/)
 * [2023-07-10, 19:14:33](https://news.ycombinator.com/item?id=36671480) - [My business has been blocked by ad blockers](https://victorfalcon.substack.com/p/my-project-site-has-been-blocked)
