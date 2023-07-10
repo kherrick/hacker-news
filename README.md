@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-10, 13:08:00](https://news.ycombinator.com/item?id=36665814) - [Idiot Customers Will Accidentally Cancel Their Subscriptions If It's Too Easy](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
+* [2023-07-10, 13:02:56](https://news.ycombinator.com/item?id=36665765) - [Are the Americans Awake?](https://are-the-americans-awake.yusuf.fyi/)
+* [2023-07-10, 12:41:05](https://news.ycombinator.com/item?id=36665481) - [Instagram Threads hits 100M users, becoming the fastest growing app](https://www.independent.co.uk/tech/instagram-threads-twitter-users-elon-musk-million-b2372336.html)
 * [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter (Twitter front end) is working again](https://github.com/zedeus/nitter/pull/927)
 * [2023-07-10, 12:16:18](https://news.ycombinator.com/item?id=36665247) - [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
 * [2023-07-10, 11:32:37](https://news.ycombinator.com/item?id=36664909) - [Debate over 'fake work' in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
@@ -22,9 +25,6 @@
 * [2023-07-10, 00:35:20](https://news.ycombinator.com/item?id=36660598) - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
 * [2023-07-09, 22:51:12](https://news.ycombinator.com/item?id=36659859) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
-* [2023-07-09, 21:35:27](https://news.ycombinator.com/item?id=36659166) - [Engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
-* [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
-* [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-09, 12:08:25](https://news.ycombinator.com/item?id=36653798) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
 * [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)

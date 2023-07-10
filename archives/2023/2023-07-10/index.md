@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 13:08:00](https://news.ycombinator.com/item?id=36665814) - [Idiot Customers Will Accidentally Cancel Their Subscriptions If It's Too Easy](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
+* [2023-07-10, 13:02:56](https://news.ycombinator.com/item?id=36665765) - [Are the Americans Awake?](https://are-the-americans-awake.yusuf.fyi/)
+* [2023-07-10, 12:41:05](https://news.ycombinator.com/item?id=36665481) - [Instagram Threads hits 100M users, becoming the fastest growing app](https://www.independent.co.uk/tech/instagram-threads-twitter-users-elon-musk-million-b2372336.html)
 * [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter (Twitter front end) is working again](https://github.com/zedeus/nitter/pull/927)
 * [2023-07-10, 12:16:18](https://news.ycombinator.com/item?id=36665247) - [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
 * [2023-07-10, 11:32:37](https://news.ycombinator.com/item?id=36664909) - [Debate over 'fake work' in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
