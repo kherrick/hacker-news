@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter (Twitter front end) is working again](https://github.com/zedeus/nitter/pull/927)
+* [2023-07-10, 12:16:18](https://news.ycombinator.com/item?id=36665247) - [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
+* [2023-07-10, 11:32:37](https://news.ycombinator.com/item?id=36664909) - [Debate over 'fake work' in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Using SVG to create simple sparkline charts](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 * [2023-07-10, 10:28:01](https://news.ycombinator.com/item?id=36664323) - [Prediction: Threads will be shut down in 12 months or less](https://twitter.com/alex_valaitis/status/1678146083145359362)
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
@@ -22,6 +25,7 @@
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:07:40](https://news.ycombinator.com/item?id=36662353) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
 * [2023-07-10, 05:06:41](https://news.ycombinator.com/item?id=36662346) - [William Saville-Kent: Marine Biology's Unsolved Murder (2021)](https://www.theatlantic.com/science/archive/2021/06/william-saville-kent-murder-mystery/619202/)
+* [2023-07-10, 04:58:47](https://news.ycombinator.com/item?id=36662293) - [Can a puppetry major survive a flagship’s financial crisis? Should it?](https://www.chronicle.com/article/fuzz-cut)
 * [2023-07-10, 04:14:51](https://news.ycombinator.com/item?id=36662011) - [Hierarchical Navigable Small Worlds](https://zilliz.com/blog/hierarchical-navigable-small-worlds-HNSW)
 * [2023-07-10, 03:50:18](https://news.ycombinator.com/item?id=36661845) - [Ask HN: Just moved to SF. How can I leverage my new location to skill up in dev?](https://news.ycombinator.com/item?id=36661845)
 * [2023-07-10, 03:45:09](https://news.ycombinator.com/item?id=36661806) - [GPTrolley – Who Would GPT Save in the Trolley Problem?](https://www.gptrolley.com/)
