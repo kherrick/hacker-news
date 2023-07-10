@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-10, 13:42:10](https://news.ycombinator.com/item?id=36666286) - [Findly (YC S22) Is Hiring a Founding Front End Engineer (London, UK)](https://www.ycombinator.com/companies/findly/jobs/P34FKAV-senior-frontend-software-engineer)
 * [2023-07-10, 13:30:05](https://news.ycombinator.com/item?id=36666116) - [Firefox Address Bar Tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
 * [2023-07-10, 13:08:00](https://news.ycombinator.com/item?id=36665814) - [Idiot Customers Will Accidentally Cancel Their Subscriptions If It's Too Easy](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
 * [2023-07-10, 13:02:56](https://news.ycombinator.com/item?id=36665765) - [Are the Americans Awake?](https://are-the-americans-awake.yusuf.fyi/)
@@ -24,7 +25,6 @@
 * [2023-07-10, 01:37:09](https://news.ycombinator.com/item?id=36660995) - [Methods for increasing efficiency of solar cells with silicon and perovskite](https://techxplore.com/news/2023-07-methods-efficiency-solar-cells-silicon.html)
 * [2023-07-10, 00:57:32](https://news.ycombinator.com/item?id=36660751) - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
 * [2023-07-09, 22:51:12](https://news.ycombinator.com/item?id=36659859) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
-* [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
 * [2023-07-09, 12:08:25](https://news.ycombinator.com/item?id=36653798) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
 * [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
