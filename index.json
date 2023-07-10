@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 13:53:22",
+      "https://news.ycombinator.com/item?id=36666456"
+    ],
+    [
+      "Dashcam images reveal where police are deployed",
+      "https://news.cornell.edu/stories/2023/07/dashcam-images-reveal-where-police-are-deployed"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 13:42:10",
       "https://news.ycombinator.com/item?id=36666286"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2023-07-10, 13:35:47",
+      "https://news.ycombinator.com/item?id=36666212"
+    ],
+    [
+      "Medical LLM testing shows good signs",
+      "https://bensbites.beehiiv.com/p/medical-llms-testing-shows-good-signs"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 13:30:05",
       "https://news.ycombinator.com/item?id=36666116"
     ],
     [
       "Firefox Address Bar Tips",
       "https://wiki.tilde.institute/w/firefox-address-bar-tips"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 13:08:00",
+      "https://news.ycombinator.com/item?id=36665814"
+    ],
+    [
+      "Some companies think customers will accidentally cancel if it's too easy",
+      "https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222"
     ]
   ],
   [
@@ -91,32 +121,22 @@
   ],
   [
     [
-      "2023-07-10, 09:28:51",
-      "https://news.ycombinator.com/item?id=36663928"
-    ],
-    [
-      "Greek shipwreck: hi-tech investigation suggests coastguard responsible",
-      "https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 09:28:37",
-      "https://news.ycombinator.com/item?id=36663925"
-    ],
-    [
-      "Amazon Prime Video’s Microservices Move Doesn’t Lead to a Monolith After All",
-      "https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 09:08:42",
       "https://news.ycombinator.com/item?id=36663803"
     ],
     [
       "OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]",
       "https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 08:27:04",
+      "https://news.ycombinator.com/item?id=36663509"
+    ],
+    [
+      "The controller pattern is awful (and other OO heresy)",
+      "https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/"
     ]
   ],
   [
@@ -155,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36662392"
     ],
     [
-      "Japanese textile factory still uses tape cassette and punch cards [video]",
+      "A Japanese factory that designs clothes on a 40-year-old computer [video]",
       "https://www.youtube.com/watch?v=zWJZFQHklBg"
     ]
   ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2023-07-10, 00:35:20",
-      "https://news.ycombinator.com/item?id=36660598"
-    ],
-    [
-      "'Forever chemicals' could be in nearly half of US tap water, federal study finds",
-      "https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds"
-    ]
-  ],
-  [
-    [
       "2023-07-09, 22:51:12",
       "https://news.ycombinator.com/item?id=36659859"
     ],
     [
       "Wayland on OpenBSD",
       "https://xenocara.org/Wayland_on_OpenBSD.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 22:18:27",
-      "https://news.ycombinator.com/item?id=36659544"
-    ],
-    [
-      "PinePhone Modem SDK",
-      "https://github.com/the-modem-distro/pinephone_modem_sdk"
     ]
   ],
   [
