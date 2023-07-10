@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-10, 02:49:02](https://news.ycombinator.com/item?id=36661478) - [Car rental throwing away money?](https://games.greggman.com/game/stupid-car-rental/)
 * [2023-07-10, 01:49:34](https://news.ycombinator.com/item?id=36661070) - [Show HN: React95 – a React components library recreating the look of Windows 95](https://github.com/React95/React95)
 * [2023-07-10, 00:57:32](https://news.ycombinator.com/item?id=36660751) - [3M reaches $10.3B settlement over PFAS contamination of water systems](https://www.npr.org/2023/06/22/1183922303/3m-reaches-10-3-billion-settlement-over-contamination-of-water-systems)
-* [2023-07-10, 00:36:27](https://news.ycombinator.com/item?id=36660606) - [Ask HN: (How much) do you get paid for being on call?](https://news.ycombinator.com/item?id=36660606)
 * [2023-07-10, 00:35:20](https://news.ycombinator.com/item?id=36660598) - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
 * [2023-07-10, 00:11:02](https://news.ycombinator.com/item?id=36660447) - [Sarah Silverman sues Meta, OpenAI for copyright infringement](https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/)
 * [2023-07-09, 22:51:12](https://news.ycombinator.com/item?id=36659859) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
@@ -24,11 +24,11 @@
 * [2023-07-09, 16:42:06](https://news.ycombinator.com/item?id=36656012) - [PDP-10 Incompatible Timesharing System emulator](https://github.com/PDP-10/its)
 * [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-09, 16:16:23](https://news.ycombinator.com/item?id=36655764) - [Difference Between Implicit and Explicit Animations in SwiftUI](https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/)
-* [2023-07-09, 16:04:36](https://news.ycombinator.com/item?id=36655654) - [Deputy US Marshal pleads guilty to obtaining cell phone location unlawfully [pdf]](https://oig.justice.gov/sites/default/files/2023-07/06-30-2023b.pdf)
 * [2023-07-09, 16:02:15](https://news.ycombinator.com/item?id=36655636) - [The Lucretius Problem: How History Blinds Us](https://fs.blog/lucretius-problem/)
 * [2023-07-09, 16:01:08](https://news.ycombinator.com/item?id=36655620) - [US spies are buying Americans’ data – Congress has a new chance to stop it](https://www.wired.com/story/ndaa-2023-davidson-jacobs-fourth-amendment/)
 * [2023-07-09, 15:33:57](https://news.ycombinator.com/item?id=36655314) - [Color appearance and the end of Hering’s Opponent-Colors theory](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue)
 * [2023-07-09, 13:40:37](https://news.ycombinator.com/item?id=36654376) - [The lost saga of Fossil Cycad National Monument (2017)](https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland)
+* [2023-07-09, 08:50:07](https://news.ycombinator.com/item?id=36652824) - [How small is the smallest .NET Hello World binary?](https://blog.washi.dev/posts/tinysharp/)
 * [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 
 ## [Archives](archives/index.md)
