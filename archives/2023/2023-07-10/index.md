@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
+* [2023-07-10, 19:37:58](https://news.ycombinator.com/item?id=36671818) - [I spent $855.77 on Google Ads and got my ads banned 5 times](https://www.lydiaoncybersecurity.com/launching-my-startup-incubator/)
 * [2023-07-10, 19:14:33](https://news.ycombinator.com/item?id=36671480) - [My business has been blocked by ad blockers](https://victorfalcon.substack.com/p/my-project-site-has-been-blocked)
 * [2023-07-10, 18:54:44](https://news.ycombinator.com/item?id=36671235) - [“Coning” AVs is part of a long tradition of tactical urbanism](https://oversharing.substack.com/p/traffic-cones-vs-self-driving-cars)
 * [2023-07-10, 18:45:30](https://news.ycombinator.com/item?id=36671105) - [Ask HN: What tech newsletters are you currently subscribing?](https://news.ycombinator.com/item?id=36671105)

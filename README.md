@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
+* [2023-07-10, 19:37:58](https://news.ycombinator.com/item?id=36671818) - [I spent $855.77 on Google Ads and got my ads banned 5 times](https://www.lydiaoncybersecurity.com/launching-my-startup-incubator/)
 * [2023-07-10, 18:45:30](https://news.ycombinator.com/item?id=36671105) - [Ask HN: What tech newsletters are you currently subscribing?](https://news.ycombinator.com/item?id=36671105)
 * [2023-07-10, 17:58:30](https://news.ycombinator.com/item?id=36670328) - [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
 * [2023-07-10, 17:03:18](https://news.ycombinator.com/item?id=36669253) - [Tuition costs have risen 710% since 1983](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
@@ -19,17 +21,15 @@
 * [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter is working again](https://github.com/zedeus/nitter/pull/927)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 * [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
-* [2023-07-10, 08:27:04](https://news.ycombinator.com/item?id=36663509) - [The controller pattern is awful, and other OO heresy (2013)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
 * [2023-07-10, 07:18:16](https://news.ycombinator.com/item?id=36663060) - [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
 * [2023-07-10, 06:47:58](https://news.ycombinator.com/item?id=36662899) - [Polymorphism and other important aspects of inheritance](https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects)
 * [2023-07-10, 06:01:59](https://news.ycombinator.com/item?id=36662655) - [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
 * [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [A Japanese factory that designs clothes on a 40-year-old computer [video]](https://www.youtube.com/watch?v=zWJZFQHklBg)
-* [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [Fifty years ago, a fire ripped through the National Personnel Records Center](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
 * [2023-07-09, 13:40:11](https://news.ycombinator.com/item?id=36654372) - [Bypassing Readout Protection in Nordic Semiconductor Microcontrollers](https://www.emproof.com/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
-* [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
+* [2023-07-09, 07:23:18](https://news.ycombinator.com/item?id=36652394) - [Convergence of Infinite Products (2008)](https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/)
 
 ## [Archives](archives/index.md)
 

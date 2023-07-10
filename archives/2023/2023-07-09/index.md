@@ -78,6 +78,7 @@
 * [2023-07-09, 07:57:07](https://news.ycombinator.com/item?id=36652551) - [Story Behind Hackathon Photo](https://frantic.im/story-behind-hackathon-photo/)
 * [2023-07-09, 07:53:20](https://news.ycombinator.com/item?id=36652540) - [Free currency conversion API from dollar to 10 currencies](https://currencydatahub.tech/)
 * [2023-07-09, 07:44:29](https://news.ycombinator.com/item?id=36652496) - [Linux Lite: Easy to Use Free Linux Operating System](https://www.linuxliteos.com/)
+* [2023-07-09, 07:23:18](https://news.ycombinator.com/item?id=36652394) - [Convergence of Infinite Products (2008)](https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/)
 * [2023-07-09, 06:26:46](https://news.ycombinator.com/item?id=36652117) - [How to Pick a Mate (1946)](https://www.gutenberg.org/files/67472/67472-h/67472-h.htm)
 * [2023-07-09, 06:22:10](https://news.ycombinator.com/item?id=36652096) - [AMD Ryzen 7 7840U Performance Benchmarks on Linux](https://www.phoronix.com/review/amd-ryzen7-7840u)
 * [2023-07-09, 05:11:01](https://news.ycombinator.com/item?id=36651724) - [The HTTP status code for a web server's default “hello” front page](https://utcc.utoronto.ca/~cks/space/blog/web/WebServerDefaultNotThere)
