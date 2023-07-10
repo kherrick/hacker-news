@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-10, 19:58:01",
+      "https://news.ycombinator.com/item?id=36672115"
+    ],
+    [
+      "2048 Bit RSA and the Year 2030",
+      "https://articles.59.ca/doku.php?id=em:20482030"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 19:37:58",
+      "https://news.ycombinator.com/item?id=36671818"
+    ],
+    [
+      "I spent $855.77 on Google Ads and got my ads banned 5 times",
+      "https://www.lydiaoncybersecurity.com/launching-my-startup-incubator/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 18:45:30",
       "https://news.ycombinator.com/item?id=36671105"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-07-10, 08:27:04",
-      "https://news.ycombinator.com/item?id=36663509"
-    ],
-    [
-      "The controller pattern is awful, and other OO heresy (2013)",
-      "https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 08:26:03",
       "https://news.ycombinator.com/item?id=36663498"
     ],
@@ -251,16 +261,6 @@
   ],
   [
     [
-      "2023-07-10, 05:13:26",
-      "https://news.ycombinator.com/item?id=36662385"
-    ],
-    [
-      "Mistakes with Rust smart pointers: when Deref goes wrong",
-      "https://www.fuzzypixelz.com/blog/deref-confusion/"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 05:04:31",
       "https://news.ycombinator.com/item?id=36662339"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-07-08, 13:04:55",
-      "https://news.ycombinator.com/item?id=36643999"
+      "2023-07-09, 07:23:18",
+      "https://news.ycombinator.com/item?id=36652394"
     ],
     [
-      "An Introduction to Statistical Learning with Applications in Python",
-      "https://www.statlearning.com"
+      "Convergence of Infinite Products (2008)",
+      "https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/"
     ]
   ]
 ]
