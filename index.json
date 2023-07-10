@@ -11,22 +11,22 @@
   ],
   [
     [
+      "2023-07-10, 13:39:45",
+      "https://news.ycombinator.com/item?id=36666260"
+    ],
+    [
+      "Hilbert Transform",
+      "https://electroagenda.com/en/hilbert-transform/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 13:30:05",
       "https://news.ycombinator.com/item?id=36666116"
     ],
     [
       "Firefox Address Bar Tips",
       "https://wiki.tilde.institute/w/firefox-address-bar-tips"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 13:08:00",
-      "https://news.ycombinator.com/item?id=36665814"
-    ],
-    [
-      "Idiot Customers Will Accidentally Cancel Their Subscriptions If It's Too Easy",
-      "https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222"
     ]
   ],
   [
@@ -41,21 +41,11 @@
   ],
   [
     [
-      "2023-07-10, 12:40:56",
-      "https://news.ycombinator.com/item?id=36665478"
-    ],
-    [
-      "Fixed Spelling Errors or Typos",
-      "https://github.com/google/oss-fuzz/pull/9340"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 12:33:56",
       "https://news.ycombinator.com/item?id=36665406"
     ],
     [
-      "Nitter (Twitter front end) is working again",
+      "Nitter is working again",
       "https://github.com/zedeus/nitter/pull/927"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36664604"
     ],
     [
-      "Using SVG to create simple sparkline charts",
+      "Easy SVG sparklines",
       "https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/"
     ]
   ],
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=36664113"
     ],
     [
-      "What’s New in Thunderbird 115",
+      "Thunderbird 115",
       "https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/"
     ]
   ],
@@ -127,16 +117,6 @@
     [
       "OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]",
       "https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 08:27:04",
-      "https://news.ycombinator.com/item?id=36663509"
-    ],
-    [
-      "The controller pattern is awful (and other OO heresy)",
-      "https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/"
     ]
   ],
   [
@@ -241,12 +221,32 @@
   ],
   [
     [
+      "2023-07-10, 00:35:20",
+      "https://news.ycombinator.com/item?id=36660598"
+    ],
+    [
+      "'Forever chemicals' could be in nearly half of US tap water, federal study finds",
+      "https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 22:51:12",
       "https://news.ycombinator.com/item?id=36659859"
     ],
     [
       "Wayland on OpenBSD",
       "https://xenocara.org/Wayland_on_OpenBSD.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-09, 22:18:27",
+      "https://news.ycombinator.com/item?id=36659544"
+    ],
+    [
+      "PinePhone Modem SDK",
+      "https://github.com/the-modem-distro/pinephone_modem_sdk"
     ]
   ],
   [
