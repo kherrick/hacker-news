@@ -6,6 +6,7 @@
 
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 09:49:18](https://news.ycombinator.com/item?id=36664056) - [Rain Hashes](https://github.com/dosyago/rain)
+* [2023-07-10, 09:28:51](https://news.ycombinator.com/item?id=36663928) - [Greek shipwreck: hi-tech investigation suggests coastguard responsible](https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking)
 * [2023-07-10, 09:28:37](https://news.ycombinator.com/item?id=36663925) - [Amazon Prime Video’s Microservices Move Doesn’t Lead to a Monolith After All](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
 * [2023-07-10, 09:27:32](https://news.ycombinator.com/item?id=36663916) - [When Did LinkedIn Become the Dorky Social Network?](https://medium.com/@HenryInnis/when-did-linkedin-become-the-dorky-social-network-21b6dd35a719)
 * [2023-07-10, 09:08:42](https://news.ycombinator.com/item?id=36663803) - [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)

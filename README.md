@@ -2,6 +2,7 @@
 
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 09:49:18](https://news.ycombinator.com/item?id=36664056) - [Rain Hashes](https://github.com/dosyago/rain)
+* [2023-07-10, 09:28:51](https://news.ycombinator.com/item?id=36663928) - [Greek shipwreck: hi-tech investigation suggests coastguard responsible](https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking)
 * [2023-07-10, 09:28:37](https://news.ycombinator.com/item?id=36663925) - [Amazon Prime Video’s Microservices Move Doesn’t Lead to a Monolith After All](https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/)
 * [2023-07-10, 09:08:42](https://news.ycombinator.com/item?id=36663803) - [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
@@ -22,7 +23,6 @@
 * [2023-07-09, 21:11:32](https://news.ycombinator.com/item?id=36658941) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
 * [2023-07-09, 20:30:33](https://news.ycombinator.com/item?id=36658553) - [An Alerting Vista of macOS Sonoma](https://furbo.org/2023/07/09/an-alerting-vista-of-sonoma/)
 * [2023-07-09, 20:24:42](https://news.ycombinator.com/item?id=36658506) - [The Undecidability of BB(748): Understanding Godel’s Incompleteness Theorems [pdf]](https://www.ingo-blechschmidt.eu/assets/bachelor-thesis-undecidability-bb748.pdf)
-* [2023-07-09, 19:48:38](https://news.ycombinator.com/item?id=36658166) - [Fractal Vise](https://airgraver.com/fractal-vise.htm)
 * [2023-07-09, 19:28:51](https://news.ycombinator.com/item?id=36658001) - [Using Lidar to map tree shadows](https://tedpiotrowski.svbtle.com/using-lidar-for-tree-shadows-in-shademap)
 * [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea or We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
