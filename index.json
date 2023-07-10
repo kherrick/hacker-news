@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-10, 18:54:44",
+      "https://news.ycombinator.com/item?id=36671235"
+    ],
+    [
+      "“Coning” AVs is part of a long tradition of tactical urbanism",
+      "https://oversharing.substack.com/p/traffic-cones-vs-self-driving-cars"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 18:45:30",
+      "https://news.ycombinator.com/item?id=36671105"
+    ],
+    [
+      "Ask HN: What tech newsletters are you currently subscribing?",
+      "https://news.ycombinator.com/item?id=36671105"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 17:58:30",
       "https://news.ycombinator.com/item?id=36670328"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36669253"
     ],
     [
-      "Tuition costs have risen 710% since 1983 (1200% since 1980). Inflation: 194%",
+      "Tuition costs have risen 710% since 1983",
       "https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness"
     ]
   ],
@@ -77,16 +97,6 @@
     [
       "First U.S. ban on sale of cellphone location data might be coming",
       "https://www.wsj.com/articles/first-u-s-ban-on-sale-of-cellphone-location-data-might-be-coming-fbe47e53"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 15:02:27",
-      "https://news.ycombinator.com/item?id=36667469"
-    ],
-    [
-      "Feature Flags: Theory vs. Reality",
-      "https://bpapillon.com/post/feature-flags-theory-vs-reality/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2023-07-10, 08:27:04",
-      "https://news.ycombinator.com/item?id=36663509"
-    ],
-    [
-      "The controller pattern is awful, and other OO heresy (2013)",
-      "https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 08:26:03",
       "https://news.ycombinator.com/item?id=36663498"
     ],
@@ -217,6 +217,16 @@
     [
       "Kubernetes SidecarContainers feature is merged",
       "https://github.com/kubernetes/kubernetes/pull/116429"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 06:47:58",
+      "https://news.ycombinator.com/item?id=36662899"
+    ],
+    [
+      "Polymorphism and other important aspects of inheritance",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Bypassing Readout Protection in Nordic Semiconductor Microcontrollers",
       "https://www.emproof.com/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 12:08:25",
-      "https://news.ycombinator.com/item?id=36653798"
-    ],
-    [
-      "Implementing Wordle in the Firefox address bar",
-      "https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/"
     ]
   ],
   [
