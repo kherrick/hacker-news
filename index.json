@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-10, 09:27:32",
+      "https://news.ycombinator.com/item?id=36663916"
+    ],
+    [
+      "When Did LinkedIn Become the Dorky Social Network?",
+      "https://medium.com/@HenryInnis/when-did-linkedin-become-the-dorky-social-network-21b6dd35a719"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 09:08:42",
+      "https://news.ycombinator.com/item?id=36663803"
+    ],
+    [
+      "OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]",
+      "https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 08:26:03",
       "https://news.ycombinator.com/item?id=36663498"
     ],
@@ -27,16 +47,6 @@
     [
       "Kubernetes SidecarContainers feature is merged",
       "https://github.com/kubernetes/kubernetes/pull/116429"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 06:32:02",
-      "https://news.ycombinator.com/item?id=36662820"
-    ],
-    [
-      "Evernote has laid off most of its US staff and will move operations to Europe",
-      "https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "The end of the magic world’s 50-year grudge",
       "https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 16:28:53",
-      "https://news.ycombinator.com/item?id=36655885"
-    ],
-    [
-      "PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news",
-      "https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/"
     ]
   ],
   [
