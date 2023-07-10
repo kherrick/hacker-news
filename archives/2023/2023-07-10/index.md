@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 10:28:01](https://news.ycombinator.com/item?id=36664323) - [Prediction: Threads will be shut down in 12 months or less](https://twitter.com/alex_valaitis/status/1678146083145359362)
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 09:49:18](https://news.ycombinator.com/item?id=36664056) - [Rain Hashes](https://github.com/dosyago/rain)
 * [2023-07-10, 09:28:51](https://news.ycombinator.com/item?id=36663928) - [Greek shipwreck: hi-tech investigation suggests coastguard responsible](https://www.theguardian.com/global-development/2023/jul/10/greek-shipwreck-hi-tech-investigation-suggests-coastguard-responsible-for-sinking)
