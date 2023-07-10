@@ -11,7 +11,6 @@
 * [2023-07-10, 14:55:26](https://news.ycombinator.com/item?id=36667374) - [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
 * [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [A physicist who bets that gravity can’t be quantized](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
 * [2023-07-10, 14:43:29](https://news.ycombinator.com/item?id=36667192) - [Saving a German Library as an interface between research and infrastructure](https://zukunft-der-sub.de/for-a-library-with-a-future)
-* [2023-07-10, 14:24:14](https://news.ycombinator.com/item?id=36666920) - [Stéphane Graber has left Canonical](https://stgraber.org/2023/07/10/time-to-move-on/)
 * [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 14:10:34](https://news.ycombinator.com/item?id=36666702) - [Shelf – open-source asset management software](https://github.com/Shelf-nu/shelf.nu)
 * [2023-07-10, 13:39:45](https://news.ycombinator.com/item?id=36666260) - [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
@@ -29,6 +28,7 @@
 * [2023-07-09, 13:40:11](https://news.ycombinator.com/item?id=36654372) - [Bypassing Readout Protection in Nordic Semiconductor Microcontrollers](https://www.emproof.com/)
 * [2023-07-09, 12:08:25](https://news.ycombinator.com/item?id=36653798) - [Implementing Wordle in the Firefox address bar](https://eieio.games/nonsense/implementing-wordle-in-the-firefox-address-bar/)
 * [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
+* [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
 
 ## [Archives](archives/index.md)
