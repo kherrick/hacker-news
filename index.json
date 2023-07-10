@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 08:26:03",
+      "https://news.ycombinator.com/item?id=36663498"
+    ],
+    [
+      "A biological camera that captures and stores images directly into DNA",
+      "https://www.nature.com/articles/s41467-023-38876-w"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 07:57:16",
       "https://news.ycombinator.com/item?id=36663312"
     ],
@@ -231,22 +241,22 @@
   ],
   [
     [
-      "2023-07-09, 18:28:22",
-      "https://news.ycombinator.com/item?id=36657391"
-    ],
-    [
-      "Let the internet be grimy",
-      "https://tedium.co/2023/07/08/threads-social-media-brand-safety/"
-    ]
-  ],
-  [
-    [
       "2023-07-09, 18:06:36",
       "https://news.ycombinator.com/item?id=36657100"
     ],
     [
       "The end of the magic world’s 50-year grudge",
       "https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-09, 16:28:53",
+      "https://news.ycombinator.com/item?id=36655885"
+    ],
+    [
+      "PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news",
+      "https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Entropy and Life (2013)",
       "https://letstalkaboutscience.wordpress.com/2013/02/14/entropy-and-life/"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 22:06:21",
-      "https://news.ycombinator.com/item?id=36638900"
-    ],
-    [
-      "Apple plans a slow, appointment-only rollout of Vision Pro",
-      "https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment"
     ]
   ]
 ]
