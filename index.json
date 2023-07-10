@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-10, 12:33:56",
+      "https://news.ycombinator.com/item?id=36665406"
+    ],
+    [
+      "Nitter (Twitter front end) is working again",
+      "https://github.com/zedeus/nitter/pull/927"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 12:16:18",
+      "https://news.ycombinator.com/item?id=36665247"
+    ],
+    [
+      "Harvard ethics prof fabricated multiple behavioral science studies",
+      "https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 11:32:37",
+      "https://news.ycombinator.com/item?id=36664909"
+    ],
+    [
+      "Debate over 'fake work' in tech industry misses the real culprit: lazy managers",
+      "https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 10:59:47",
       "https://news.ycombinator.com/item?id=36664604"
     ],
@@ -131,6 +161,16 @@
   ],
   [
     [
+      "2023-07-10, 04:58:47",
+      "https://news.ycombinator.com/item?id=36662293"
+    ],
+    [
+      "Can a puppetry major survive a flagship’s financial crisis? Should it?",
+      "https://www.chronicle.com/article/fuzz-cut"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 04:14:51",
       "https://news.ycombinator.com/item?id=36662011"
     ],
@@ -181,32 +221,12 @@
   ],
   [
     [
-      "2023-07-09, 21:41:20",
-      "https://news.ycombinator.com/item?id=36659219"
-    ],
-    [
-      "It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom",
-      "https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/"
-    ]
-  ],
-  [
-    [
       "2023-07-09, 21:35:27",
       "https://news.ycombinator.com/item?id=36659166"
     ],
     [
       "Engineers should focus on writing",
       "https://www.yieldcode.blog/post/why-engineers-should-write/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 21:14:17",
-      "https://news.ycombinator.com/item?id=36658959"
-    ],
-    [
-      "Clojure Plays Mario",
-      "https://blog.phronemophobic.com/mairio.html"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion",
       "https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 16:28:53",
-      "https://news.ycombinator.com/item?id=36655885"
-    ],
-    [
-      "PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news",
-      "https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Entropy and Life (2013)",
       "https://letstalkaboutscience.wordpress.com/2013/02/14/entropy-and-life/"
-    ]
-  ],
-  [
-    [
-      "2023-07-07, 22:06:21",
-      "https://news.ycombinator.com/item?id=36638900"
-    ],
-    [
-      "Apple plans a slow, appointment-only rollout of Vision Pro",
-      "https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment"
     ]
   ]
 ]
