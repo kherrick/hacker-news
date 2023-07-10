@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 06:32:02](https://news.ycombinator.com/item?id=36662820) - [Evernote has laid off most of its US staff and will move operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
 * [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [Japanese textile factory still uses tape cassette and punch cards](https://www.youtube.com/watch?v=zWJZFQHklBg)
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:07:40](https://news.ycombinator.com/item?id=36662353) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)
