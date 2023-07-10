@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 14:21:46](https://news.ycombinator.com/item?id=36666881) - [The New York Times to Disband Its Sports Department, Replacing with the Athletic](https://www.nytimes.com/2023/07/10/business/media/the-new-york-times-sports-department.html)
+* [2023-07-10, 14:16:29](https://news.ycombinator.com/item?id=36666807) - [EU signs off on data transfers deal with US](https://www.politico.eu/article/eu-signs-off-on-data-transfers-deal-with-us/)
+* [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
+* [2023-07-10, 14:10:34](https://news.ycombinator.com/item?id=36666702) - [Shelf – open-source asset management software](https://github.com/Shelf-nu/shelf.nu)
 * [2023-07-10, 13:53:22](https://news.ycombinator.com/item?id=36666456) - [Dashcam images reveal where police are deployed](https://news.cornell.edu/stories/2023/07/dashcam-images-reveal-where-police-are-deployed)
 * [2023-07-10, 13:42:10](https://news.ycombinator.com/item?id=36666286) - [Findly (YC S22) Is Hiring a Founding Front End Engineer (London, UK)](https://www.ycombinator.com/companies/findly/jobs/P34FKAV-senior-frontend-software-engineer)
 * [2023-07-10, 13:39:45](https://news.ycombinator.com/item?id=36666260) - [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
