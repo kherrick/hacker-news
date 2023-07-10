@@ -66,6 +66,7 @@
 * [2023-07-09, 10:23:12](https://news.ycombinator.com/item?id=36653246) - [Engineering Intensity](https://ruiper.es/posts/engineering_intensity/)
 * [2023-07-09, 10:20:37](https://news.ycombinator.com/item?id=36653234) - [An untold story of the Tunisian startup ecosystem](https://www.realisticoptimist.io/p/an-untold-story-of-the-tunisian-startup)
 * [2023-07-09, 10:18:49](https://news.ycombinator.com/item?id=36653224) - [Fairphone 4–the repairable, sustainable smartphone–is coming to the US](https://arstechnica.com/gadgets/2023/07/fairphone-is-coming-to-america/)
+* [2023-07-09, 10:08:36](https://news.ycombinator.com/item?id=36653169) - [Petalisp: Elegant High Performance Computing](https://github.com/marcoheisig/Petalisp)
 * [2023-07-09, 10:06:49](https://news.ycombinator.com/item?id=36653163) - [The Most Powerful Law in Software](https://registerspill.thorstenball.com/p/the-most-powerful-law-in-software)
 * [2023-07-09, 09:15:09](https://news.ycombinator.com/item?id=36652934) - [“C is quirky, flawed, and an enormous success” – Dennis Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html)
 * [2023-07-09, 09:12:24](https://news.ycombinator.com/item?id=36652919) - [The Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
