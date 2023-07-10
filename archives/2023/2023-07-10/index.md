@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 15:11:20](https://news.ycombinator.com/item?id=36667582) - [Keep Linux Open and Free–We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
 * [2023-07-10, 14:55:26](https://news.ycombinator.com/item?id=36667374) - [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
 * [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [The Physicist Who’s Challenging the Quantum Orthodoxy](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
 * [2023-07-10, 14:35:13](https://news.ycombinator.com/item?id=36667078) - [Canonical and IBM Are Turning Ubuntu and Fedora into Microsoft Windows](http://techrights.org/2023/07/09/corporate-distros/)
