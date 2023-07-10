@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 09:27:32](https://news.ycombinator.com/item?id=36663916) - [When Did LinkedIn Become the Dorky Social Network?](https://medium.com/@HenryInnis/when-did-linkedin-become-the-dorky-social-network-21b6dd35a719)
+* [2023-07-10, 09:08:42](https://news.ycombinator.com/item?id=36663803) - [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
 * [2023-07-10, 07:57:16](https://news.ycombinator.com/item?id=36663312) - [Uber, DoorDash Sue NYC to Stop Delivery Drivers from Getting a Minimum Wage](https://www.vice.com/en/article/93k3ve/uber-doordash-sue-nyc-to-stop-delivery-drivers-from-getting-a-minimum-wage)
 * [2023-07-10, 07:18:16](https://news.ycombinator.com/item?id=36663060) - [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
