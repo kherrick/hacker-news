@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 14:55:26](https://news.ycombinator.com/item?id=36667374) - [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
+* [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [The Physicist Who’s Challenging the Quantum Orthodoxy](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
 * [2023-07-10, 14:35:13](https://news.ycombinator.com/item?id=36667078) - [Canonical and IBM Are Turning Ubuntu and Fedora into Microsoft Windows](http://techrights.org/2023/07/09/corporate-distros/)
+* [2023-07-10, 14:24:14](https://news.ycombinator.com/item?id=36666920) - [Stéphane Graber has left Canonical](https://stgraber.org/2023/07/10/time-to-move-on/)
 * [2023-07-10, 14:21:46](https://news.ycombinator.com/item?id=36666881) - [The New York Times to Disband Its Sports Department, Replacing with the Athletic](https://www.nytimes.com/2023/07/10/business/media/the-new-york-times-sports-department.html)
 * [2023-07-10, 14:17:52](https://news.ycombinator.com/item?id=36666830) - [EdgeNode: Deploy Serverless Containers on Edge](https://edgenode.com/)
 * [2023-07-10, 14:16:29](https://news.ycombinator.com/item?id=36666807) - [EU signs off on data transfers deal with US](https://www.politico.eu/article/eu-signs-off-on-data-transfers-deal-with-us/)
