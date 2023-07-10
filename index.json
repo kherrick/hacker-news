@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-10, 07:18:16",
+      "https://news.ycombinator.com/item?id=36663060"
+    ],
+    [
+      "Kubernetes SidecarContainers feature is merged",
+      "https://github.com/kubernetes/kubernetes/pull/116429"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 06:32:02",
       "https://news.ycombinator.com/item?id=36662820"
     ],
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2023-07-09, 20:24:42",
+      "https://news.ycombinator.com/item?id=36658506"
+    ],
+    [
+      "The Undecidability of BB(748): Understanding Godel’s Incompleteness Theorems [pdf]",
+      "https://www.ingo-blechschmidt.eu/assets/bachelor-thesis-undecidability-bb748.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-09, 19:48:38",
       "https://news.ycombinator.com/item?id=36658166"
     ],
@@ -227,26 +247,6 @@
     [
       "The end of the magic world’s 50-year grudge",
       "https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 16:54:29",
-      "https://news.ycombinator.com/item?id=36656145"
-    ],
-    [
-      "Building cross-platform Rust for Web, Android and iOS – a minimal example",
-      "https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 16:42:06",
-      "https://news.ycombinator.com/item?id=36656012"
-    ],
-    [
-      "PDP-10 Incompatible Timesharing System emulator",
-      "https://github.com/PDP-10/its"
     ]
   ],
   [
