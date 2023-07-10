@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-10, 09:27:32](https://news.ycombinator.com/item?id=36663916) - [When Did LinkedIn Become the Dorky Social Network?](https://medium.com/@HenryInnis/when-did-linkedin-become-the-dorky-social-network-21b6dd35a719)
+* [2023-07-10, 09:49:18](https://news.ycombinator.com/item?id=36664056) - [Rain Hashes](https://github.com/dosyago/rain)
 * [2023-07-10, 09:08:42](https://news.ycombinator.com/item?id=36663803) - [OwnCloud Infinite Scale added EULA that prohibits commercial use [pdf]](https://github.com/owncloud/ocis/blob/master/assets/End-User-License-Agreement-for-ownCloud-Infinite-Scale.pdf)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
 * [2023-07-10, 07:57:16](https://news.ycombinator.com/item?id=36663312) - [Uber, DoorDash Sue NYC to Stop Delivery Drivers from Getting a Minimum Wage](https://www.vice.com/en/article/93k3ve/uber-doordash-sue-nyc-to-stop-delivery-drivers-from-getting-a-minimum-wage)
@@ -15,7 +15,6 @@
 * [2023-07-10, 00:35:20](https://news.ycombinator.com/item?id=36660598) - ['Forever chemicals' could be in nearly half of US tap water, federal study finds](https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds)
 * [2023-07-09, 22:51:12](https://news.ycombinator.com/item?id=36659859) - [Wayland on OpenBSD](https://xenocara.org/Wayland_on_OpenBSD.html)
 * [2023-07-09, 22:18:27](https://news.ycombinator.com/item?id=36659544) - [PinePhone Modem SDK](https://github.com/the-modem-distro/pinephone_modem_sdk)
-* [2023-07-09, 21:41:20](https://news.ycombinator.com/item?id=36659219) - [It Took Me a Decade to Find the Perfect Personal Website Stack – Ghost+Fathom](https://davidgomes.com/it-took-me-a-decade-to-find-the-perfect-personal-website-stack/)
 * [2023-07-09, 21:35:27](https://news.ycombinator.com/item?id=36659166) - [Engineers should focus on writing](https://www.yieldcode.blog/post/why-engineers-should-write/)
 * [2023-07-09, 21:14:17](https://news.ycombinator.com/item?id=36658959) - [Clojure Plays Mario](https://blog.phronemophobic.com/mairio.html)
 * [2023-07-09, 21:11:32](https://news.ycombinator.com/item?id=36658941) - [The 90s Developer Starter Pack](https://retrocoding.net/the-90s-developer-starter-pack)
@@ -26,10 +25,11 @@
 * [2023-07-09, 19:23:10](https://news.ycombinator.com/item?id=36657952) - [The great Polish Sea or We forgot Poland (2006)](https://devblogs.microsoft.com/oldnewthing/20061027-00/?p=29213)
 * [2023-07-09, 19:11:00](https://news.ycombinator.com/item?id=36657829) - [InfluxDB Cloud shuts down in Belgium; some weren't notified before data deletion](https://community.influxdata.com/t/getting-weird-results-from-gcp-europe-west1/30615)
 * [2023-07-09, 18:06:36](https://news.ycombinator.com/item?id=36657100) - [The end of the magic world’s 50-year grudge](https://www.nytimes.com/2023/07/08/business/uri-geller-magic-deep-fakes.html)
-* [2023-07-09, 16:02:15](https://news.ycombinator.com/item?id=36655636) - [The Lucretius Problem: How History Blinds Us](https://fs.blog/lucretius-problem/)
+* [2023-07-09, 16:28:53](https://news.ycombinator.com/item?id=36655885) - [PoisonGPT: We hid a lobotomized LLM on Hugging Face to spread fake news](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/)
 * [2023-07-08, 22:07:21](https://news.ycombinator.com/item?id=36649261) - [A 286 running like a 386? (2021)](https://www.dosdays.co.uk/topics/get_a_286_running_like_a_386_pt1.php)
 * [2023-07-08, 13:04:55](https://news.ycombinator.com/item?id=36643999) - [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com)
 * [2023-07-08, 12:22:27](https://news.ycombinator.com/item?id=36643686) - [Entropy and Life (2013)](https://letstalkaboutscience.wordpress.com/2013/02/14/entropy-and-life/)
+* [2023-07-07, 22:06:21](https://news.ycombinator.com/item?id=36638900) - [Apple plans a slow, appointment-only rollout of Vision Pro](https://www.bloomberg.com/news/articles/2023-07-07/apple-vision-pro-headset-to-launch-in-us-stores-by-appointment)
 
 ## [Archives](archives/index.md)
 
