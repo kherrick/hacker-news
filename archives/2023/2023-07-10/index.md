@@ -8,6 +8,7 @@
 * [2023-07-10, 14:17:52](https://news.ycombinator.com/item?id=36666830) - [EdgeNode: Deploy Serverless Containers on Edge](https://edgenode.com/)
 * [2023-07-10, 14:16:29](https://news.ycombinator.com/item?id=36666807) - [EU signs off on data transfers deal with US](https://www.politico.eu/article/eu-signs-off-on-data-transfers-deal-with-us/)
 * [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We Replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
+* [2023-07-10, 14:12:02](https://news.ycombinator.com/item?id=36666738) - [World's Largest Selection of Tinned Seafood](https://rainbowtomatoesgarden.com/index.php/choosing-a-tin/)
 * [2023-07-10, 14:10:34](https://news.ycombinator.com/item?id=36666702) - [Shelf – open-source asset management software](https://github.com/Shelf-nu/shelf.nu)
 * [2023-07-10, 13:53:22](https://news.ycombinator.com/item?id=36666456) - [Dashcam images reveal where police are deployed](https://news.cornell.edu/stories/2023/07/dashcam-images-reveal-where-police-are-deployed)
 * [2023-07-10, 13:42:10](https://news.ycombinator.com/item?id=36666286) - [Findly (YC S22) Is Hiring a Founding Front End Engineer (London, UK)](https://www.ycombinator.com/companies/findly/jobs/P34FKAV-senior-frontend-software-engineer)
