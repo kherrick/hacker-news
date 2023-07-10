@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-10, 21:06:55](https://news.ycombinator.com/item?id=36672957) - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
 * [2023-07-10, 21:00:06](https://news.ycombinator.com/item?id=36672888) - [Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
 * [2023-07-10, 20:28:16](https://news.ycombinator.com/item?id=36672486) - [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
 * [2023-07-10, 20:24:58](https://news.ycombinator.com/item?id=36672447) - [Postmortem: Co-founding a Web3 startup as a crypto skeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
@@ -19,7 +20,6 @@
 * [2023-07-10, 14:10:34](https://news.ycombinator.com/item?id=36666702) - [Shelf – open-source asset management software](https://github.com/Shelf-nu/shelf.nu)
 * [2023-07-10, 13:39:45](https://news.ycombinator.com/item?id=36666260) - [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
 * [2023-07-10, 13:30:05](https://news.ycombinator.com/item?id=36666116) - [Firefox address bar](https://wiki.tilde.institute/w/firefox-address-bar-tips)
-* [2023-07-10, 12:33:56](https://news.ycombinator.com/item?id=36665406) - [Nitter is working again](https://github.com/zedeus/nitter/pull/927)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Easy SVG sparklines](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 * [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
 * [2023-07-10, 09:22:02](https://news.ycombinator.com/item?id=36663886) - [Fractals on an IBM 1401 mainframe (2015)](https://www.righto.com/2015/03/12-minute-mandelbrot-fractals-on-50.html)

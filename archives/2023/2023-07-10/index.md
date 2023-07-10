@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 21:06:55](https://news.ycombinator.com/item?id=36672957) - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
 * [2023-07-10, 21:00:06](https://news.ycombinator.com/item?id=36672888) - [Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
 * [2023-07-10, 20:28:16](https://news.ycombinator.com/item?id=36672486) - [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
 * [2023-07-10, 20:24:58](https://news.ycombinator.com/item?id=36672447) - [Postmortem: Co-founding a Web3 startup as a crypto sckeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
