@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2023-07-10, 03:33:53",
-      "https://news.ycombinator.com/item?id=36661754"
-    ],
-    [
-      "Python in 2023 still sucks at importing modules from another folder",
-      "https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder/50194143#50194143"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 01:49:34",
       "https://news.ycombinator.com/item?id=36661070"
     ],
@@ -47,6 +37,16 @@
     [
       "'Forever chemicals' could be in nearly half of US tap water, federal study finds",
       "https://www.ijpr.org/npr-news/2023-07-06/forever-chemicals-could-be-in-nearly-half-of-u-s-tap-water-a-federal-study-finds"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 00:11:02",
+      "https://news.ycombinator.com/item?id=36660447"
+    ],
+    [
+      "Sarah Silverman sues Meta, OpenAI for copyright infringement",
+      "https://www.reuters.com/legal/sarah-silverman-sues-meta-openai-copyright-infringement-2023-07-09/"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
-      "2023-07-09, 13:40:37",
-      "https://news.ycombinator.com/item?id=36654376"
-    ],
-    [
-      "The lost saga of Fossil Cycad National Monument (2017)",
-      "https://www.atlasobscura.com/articles/fossil-cycad-national-monument-stolen-george-wieland"
-    ]
-  ],
-  [
-    [
       "2023-07-09, 08:50:07",
       "https://news.ycombinator.com/item?id=36652824"
     ],
     [
       "How small is the smallest .NET Hello World binary?",
       "https://blog.washi.dev/posts/tinysharp/"
+    ]
+  ],
+  [
+    [
+      "2023-07-09, 04:40:10",
+      "https://news.ycombinator.com/item?id=36651557"
+    ],
+    [
+      "Show HN : Nova - GPT with composable prompts, workspaces, + LlamaIndex",
+      "https://samueltate.com/nova"
     ]
   ],
   [
