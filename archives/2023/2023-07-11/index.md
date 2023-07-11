@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 15:31:17](https://news.ycombinator.com/item?id=36682403) - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
+* [2023-07-11, 15:15:11](https://news.ycombinator.com/item?id=36682166) - [Shop Class 2.0: Rethinking High School to Accelerate Electrification](https://volted.substack.com/p/rethinking-high-school-to-electrify-everything)
+* [2023-07-11, 15:12:30](https://news.ycombinator.com/item?id=36682139) - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)
 * [2023-07-11, 15:06:42](https://news.ycombinator.com/item?id=36682070) - [HTTP vs. WebSockets: Which one is the fastest for Postgres queries at the Edge](https://neon.tech/blog/http-vs-websockets-for-postgres-queries-at-the-edge)
 * [2023-07-11, 15:02:04](https://news.ycombinator.com/item?id=36682008) - [Introducing Keras Core: Keras for TensorFlow, Jax, and PyTorch](https://keras.io/keras_core/announcement/)
 * [2023-07-11, 14:55:43](https://news.ycombinator.com/item?id=36681912) - [Firejail: Light, featureful and zero-dependency security sandbox for Linux](https://firejail.wordpress.com/)
