@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
+* [2023-07-11, 05:41:05](https://news.ycombinator.com/item?id=36676810) - [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
 * [2023-07-11, 05:14:46](https://news.ycombinator.com/item?id=36676657) - [Fungi stores 1/3 carbon from fossil fuel emits: essential to net zero – study](https://www.eurekalert.org/news-releases/991288)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 * [2023-07-11, 03:51:10](https://news.ycombinator.com/item?id=36676215) - [You're So Vain, You Probably Think This App Is About You: On Meta and Mastodon](https://micro.coyotetracks.org/2023/07/10/youre-so-vain.html)
@@ -14,7 +16,6 @@
 * [2023-07-10, 23:30:27](https://news.ycombinator.com/item?id=36674487) - [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 * [2023-07-10, 23:05:21](https://news.ycombinator.com/item?id=36674224) - [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
 * [2023-07-10, 22:49:32](https://news.ycombinator.com/item?id=36674069) - [Brian Eno albums available in Dolby Atmos and Spatial](https://www.udiscovermusic.com/news/brian-eno-albums-dolby-atmos-first-time/)
-* [2023-07-10, 22:35:26](https://news.ycombinator.com/item?id=36673945) - [MicroVM by QEMU](https://qemu.readthedocs.io/en/latest/system/i386/microvm.html)
 * [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 * [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 21:06:55](https://news.ycombinator.com/item?id=36672957) - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
@@ -26,7 +27,6 @@
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 * [2023-07-10, 16:30:34](https://news.ycombinator.com/item?id=36668732) - [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
 * [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
-* [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
 * [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)

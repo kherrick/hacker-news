@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [2023-07-11, 05:51:03](https://news.ycombinator.com/item?id=36676879) - [Sappers risk their lives to win Ukraine back, inch by inch](https://www.economist.com/europe/2023/07/09/sappers-risk-their-lives-to-win-ukraine-back-inch-by-inch)
+* [2023-07-11, 05:41:05](https://news.ycombinator.com/item?id=36676810) - [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
 * [2023-07-11, 05:28:58](https://news.ycombinator.com/item?id=36676737) - [Show HN: Improve Text-to-SQL Accuracy with LLM](https://github.com/csunny/DB-GPT-Hub)
 * [2023-07-11, 05:14:46](https://news.ycombinator.com/item?id=36676657) - [Fungi stores 1/3 carbon from fossil fuel emits: essential to net zero – study](https://www.eurekalert.org/news-releases/991288)
 * [2023-07-11, 04:50:35](https://news.ycombinator.com/item?id=36676538) - [Perfectly good M1 MacBooks are being scrapped because of Activation Lock [video]](https://www.youtube.com/watch?v=94zOFsQJ7lU)
