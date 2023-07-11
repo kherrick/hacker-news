@@ -14,6 +14,7 @@
 * [2023-07-10, 22:49:01](https://news.ycombinator.com/item?id=36674061) - [Did Airbnb kill the PM role?](https://exponentially.substack.com/p/did-airbnb-kill-the-pm-role)
 * [2023-07-10, 22:35:26](https://news.ycombinator.com/item?id=36673945) - [MicroVM by QEMU](https://qemu.readthedocs.io/en/latest/system/i386/microvm.html)
 * [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt Chain of Trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
+* [2023-07-10, 22:10:57](https://news.ycombinator.com/item?id=36673711) - [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
 * [2023-07-10, 22:07:15](https://news.ycombinator.com/item?id=36673653) - [US Army Physical Fitness Test (APFT): Normative Data on 6022 Soldiers (1994)](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
 * [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
 * [2023-07-10, 21:34:48](https://news.ycombinator.com/item?id=36673280) - [Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)

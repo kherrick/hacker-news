@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 18:36:18](https://news.ycombinator.com/item?id=36685350) - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
 * [2023-07-11, 18:19:54](https://news.ycombinator.com/item?id=36685115) - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
-* [2023-07-11, 18:19:16](https://news.ycombinator.com/item?id=36685099) - [FBI taps cell phone mic as eavesdropping tool (2006)](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
 * [2023-07-11, 18:15:56](https://news.ycombinator.com/item?id=36685045) - [Nothing Phone (2)](https://us.nothing.tech/pages/phone-2)
 * [2023-07-11, 18:11:07](https://news.ycombinator.com/item?id=36684946) - [QubesOS – A reasonably secure operating system](https://www.qubes-os.org/)
 * [2023-07-11, 17:25:21](https://news.ycombinator.com/item?id=36684242) - [UCLA professor refuses to cover for Dan Ariely in issue of data provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
@@ -23,7 +23,7 @@
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 12:37:58](https://news.ycombinator.com/item?id=36680131) - [Do painters subconsciously paint themselves into their work?](https://resobscura.substack.com/p/do-painters-subconsciously-paint)
 * [2023-07-11, 11:18:48](https://news.ycombinator.com/item?id=36679368) - [PhotoPrism: AI-powered photos app for the decentralized web](https://github.com/photoprism/photoprism)
-* [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
+* [2023-07-10, 22:10:57](https://news.ycombinator.com/item?id=36673711) - [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
 * [2023-07-10, 17:34:05](https://news.ycombinator.com/item?id=36669810) - [There's always more history (2020)](https://www.hillelwayne.com/post/always-more-history/)
 * [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 15:07:12](https://news.ycombinator.com/item?id=36667539) - [The story in pictures of the Hughes H-4 Hercules, 1945-1947](https://rarehistoricalphotos.com/hughes-h-4-hercules-spruce-goose-1945-1947/)
