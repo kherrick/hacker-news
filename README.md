@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 17:01:05](https://news.ycombinator.com/item?id=36683852) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 * [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
@@ -12,7 +13,6 @@
 * [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [What we learned from using GPT for 500k+ classifications](https://www.trygloo.com/blog/classify-text-llms-learnings)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
 * [2023-07-11, 14:37:14](https://news.ycombinator.com/item?id=36681597) - [IntelliJ Rust](https://www.jetbrains.com/rust/)
-* [2023-07-11, 14:30:59](https://news.ycombinator.com/item?id=36681491) - [Solar Energy Solves Global Warming](https://unchartedterritories.tomaspueyo.com/p/solar-energy-solves-global-warming)
 * [2023-07-11, 14:29:35](https://news.ycombinator.com/item?id=36681471) - [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
 * [2023-07-11, 14:28:27](https://news.ycombinator.com/item?id=36681459) - [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
 * [2023-07-11, 14:06:55](https://news.ycombinator.com/item?id=36681178) - [ScyllaDB is Moving to a New Replication Algorithm: Tablets](https://www.scylladb.com/2023/07/10/why-scylladb-is-moving-to-a-new-replication-algorithm-tablets/)
