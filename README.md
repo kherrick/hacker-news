@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 10:23:10](https://news.ycombinator.com/item?id=36678914) - [Tragedy of the Anticommons](https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons)
 * [2023-07-11, 10:12:41](https://news.ycombinator.com/item?id=36678818) - [SpaceX is stretching the lifetime of its reusable Falcon 9 boosters](https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/)
 * [2023-07-11, 09:35:59](https://news.ycombinator.com/item?id=36678475) - [Working memory: metric for state a programmer needs to keep in their head](https://sourcery.ai/blog/measuring_working_memory/)
 * [2023-07-11, 09:33:12](https://news.ycombinator.com/item?id=36678457) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
@@ -14,7 +15,6 @@
 * [2023-07-11, 03:29:39](https://news.ycombinator.com/item?id=36676103) - [Linux has achieved a 3% desktop market share](https://linuxiac.com/linux-hits-3-percent-market-share/)
 * [2023-07-11, 03:00:19](https://news.ycombinator.com/item?id=36675934) - [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
 * [2023-07-11, 02:28:47](https://news.ycombinator.com/item?id=36675750) - [FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]](https://download.vusec.net/papers/floatzone_sec23.pdf)
-* [2023-07-11, 00:35:45](https://news.ycombinator.com/item?id=36675036) - [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
 * [2023-07-11, 00:18:44](https://news.ycombinator.com/item?id=36674920) - [GPS Log: Tracking wood movement down the McKenzie River](https://gpslogdrive.com/)
 * [2023-07-10, 23:42:48](https://news.ycombinator.com/item?id=36674606) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-07-10, 23:30:27](https://news.ycombinator.com/item?id=36674487) - [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
