@@ -45,6 +45,7 @@
 * [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 15:22:14](https://news.ycombinator.com/item?id=36667743) - [Depth Precision Visualized (2015)](https://developer.nvidia.com/content/depth-precision-visualized)
 * [2023-07-10, 15:11:20](https://news.ycombinator.com/item?id=36667582) - [Keep Linux Open and Free–We Can’t Afford Not To](https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/)
+* [2023-07-10, 15:07:12](https://news.ycombinator.com/item?id=36667539) - [The story in pictures of the Hughes H-4 Hercules, 1945-1947](https://rarehistoricalphotos.com/hughes-h-4-hercules-spruce-goose-1945-1947/)
 * [2023-07-10, 15:02:27](https://news.ycombinator.com/item?id=36667469) - [Feature Flags: Theory vs. Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 14:55:26](https://news.ycombinator.com/item?id=36667374) - [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
 * [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [The Physicist Who’s Challenging the Quantum Orthodoxy](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
