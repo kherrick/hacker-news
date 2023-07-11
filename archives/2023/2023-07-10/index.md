@@ -62,6 +62,7 @@
 * [2023-07-10, 13:39:45](https://news.ycombinator.com/item?id=36666260) - [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
 * [2023-07-10, 13:35:47](https://news.ycombinator.com/item?id=36666212) - [Medical LLM testing shows good signs](https://bensbites.beehiiv.com/p/medical-llms-testing-shows-good-signs)
 * [2023-07-10, 13:30:05](https://news.ycombinator.com/item?id=36666116) - [Firefox Address Bar Tips](https://wiki.tilde.institute/w/firefox-address-bar-tips)
+* [2023-07-10, 13:20:04](https://news.ycombinator.com/item?id=36665978) - [People are paying to break printers with sledgehammers in smash rooms](https://www.washingtonpost.com/technology/2023/07/10/rage-room-printers-recycle-environment-health/)
 * [2023-07-10, 13:08:00](https://news.ycombinator.com/item?id=36665814) - [Idiot Customers Will Accidentally Cancel Their Subscriptions If It's Too Easy](https://gizmodo.com/cancel-subscription-ftc-click-to-cancel-pushback-1850615222)
 * [2023-07-10, 13:02:56](https://news.ycombinator.com/item?id=36665765) - [Are the Americans Awake?](https://are-the-americans-awake.yusuf.fyi/)
 * [2023-07-10, 12:41:05](https://news.ycombinator.com/item?id=36665481) - [Instagram Threads hits 100M users, becoming the fastest growing app](https://www.independent.co.uk/tech/instagram-threads-twitter-users-elon-musk-million-b2372336.html)

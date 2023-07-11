@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 10:12:41](https://news.ycombinator.com/item?id=36678818) - [SpaceX is stretching the lifetime of its reusable Falcon 9 boosters](https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/)
 * [2023-07-11, 09:35:59](https://news.ycombinator.com/item?id=36678475) - [Working memory: metric for state a programmer needs to keep in their head](https://sourcery.ai/blog/measuring_working_memory/)
+* [2023-07-11, 09:33:12](https://news.ycombinator.com/item?id=36678457) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
+* [2023-07-11, 09:27:25](https://news.ycombinator.com/item?id=36678412) - [What Is the Numerical Range of a Matrix?](https://nhigham.com/2023/07/11/what-is-the-numerical-range-of-a-matrix/)
 * [2023-07-11, 09:20:43](https://news.ycombinator.com/item?id=36678375) - [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
 * [2023-07-11, 09:16:38](https://news.ycombinator.com/item?id=36678348) - [Mailgun: Public Security Disclosure](https://news.ycombinator.com/item?id=36678348)
 * [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
@@ -20,16 +23,13 @@
 * [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
 * [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 21:06:55](https://news.ycombinator.com/item?id=36672957) - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
-* [2023-07-10, 21:00:06](https://news.ycombinator.com/item?id=36672888) - [Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
-* [2023-07-10, 20:04:29](https://news.ycombinator.com/item?id=36672183) - [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
-* [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 * [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
+* [2023-07-10, 13:20:04](https://news.ycombinator.com/item?id=36665978) - [People are paying to break printers with sledgehammers in smash rooms](https://www.washingtonpost.com/technology/2023/07/10/rage-room-printers-recycle-environment-health/)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
 * [2023-07-10, 10:34:10](https://news.ycombinator.com/item?id=36664372) - [Hybrid Insect Micro-Electro-Mechanical Systems (Hi-MEMS)](https://en.wikipedia.org/wiki/Hybrid_Insect_Micro-Electro-Mechanical_Systems)
 * [2023-07-10, 06:47:09](https://news.ycombinator.com/item?id=36662893) - [Docs as Code at Linode (2020)](https://www.linode.com/blog/linode/docs-as-code-at-linode/)
-* [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 
 ## [Archives](archives/index.md)
 
