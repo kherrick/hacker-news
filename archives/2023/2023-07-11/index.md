@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 09:35:59](https://news.ycombinator.com/item?id=36678475) - [Working memory: metric for state a programmer needs to keep in their head](https://sourcery.ai/blog/measuring_working_memory/)
 * [2023-07-11, 09:20:43](https://news.ycombinator.com/item?id=36678375) - [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
 * [2023-07-11, 09:16:38](https://news.ycombinator.com/item?id=36678348) - [Mailgun: Public Security Disclosure](https://news.ycombinator.com/item?id=36678348)
 * [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE Preserves Choice in Enterprise Linux by Forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
