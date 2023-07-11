@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-07-11, 18:06:31",
+      "https://news.ycombinator.com/item?id=36684866"
+    ],
+    [
+      "Panflute: Pythonic Pandoc Filters",
+      "https://github.com/sergiocorreia/panflute"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 17:25:21",
       "https://news.ycombinator.com/item?id=36684242"
     ],
     [
-      "UCLA Professor Refuses to Cover for Dan Ariely in Issue of Data Provenance",
+      "UCLA professor refuses to cover for Dan Ariely in issue of data provenance",
       "https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36683938"
     ],
     [
-      "Cancer’s origin story features predictable plot line",
+      "Cancer’s origin story features predictable plot line, researchers find",
       "https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html"
     ]
   ],
@@ -37,16 +47,6 @@
     [
       "Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup",
       "https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 16:55:01",
-      "https://news.ycombinator.com/item?id=36683756"
-    ],
-    [
-      "Intel is quitting on NUC computers",
-      "https://www.theverge.com/2023/7/11/23790956/intel-nuc-compact-pc-discontinued"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2023-07-11, 03:00:19",
-      "https://news.ycombinator.com/item?id=36675934"
-    ],
-    [
-      "GPT-4 details leaked?",
-      "https://threadreaderapp.com/thread/1678545170508267522.html"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 21:36:35",
       "https://news.ycombinator.com/item?id=36673308"
     ],
@@ -297,6 +287,16 @@
     [
       "The mystery of the Ain Dubai, the world’s largest (broken) Ferris wheel",
       "https://www.washingtonpost.com/world/2023/07/09/ain-dubai-wheel-real-estate/"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 05:16:39",
+      "https://news.ycombinator.com/item?id=36662406"
+    ],
+    [
+      "Resilience requires helping each other out",
+      "https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/"
     ]
   ]
 ]
