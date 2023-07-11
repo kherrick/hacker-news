@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2023-07-11, 01:55:05",
+      "https://news.ycombinator.com/item?id=36675564"
+    ],
+    [
+      "Libdns: Core interfaces for universal DNS record manipulation across providers",
+      "https://github.com/libdns/libdns"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 00:35:45",
       "https://news.ycombinator.com/item?id=36675036"
     ],
@@ -237,16 +247,6 @@
     [
       "Lima: A nice way to run Linux VMs on Mac",
       "https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 16:30:34",
-      "https://news.ycombinator.com/item?id=36668732"
-    ],
-    [
-      "Apple VisionOS Simulator streaming wirelessly to Meta Quest headset",
-      "https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr"
     ]
   ],
   [
