@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 12:43:27](https://news.ycombinator.com/item?id=36680186) - [Fairphone 3 gets seven years of updates, besting every other Android OEM](https://arstechnica.com/gadgets/2023/07/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem/)
 * [2023-07-11, 12:18:55](https://news.ycombinator.com/item?id=36679938) - [These are the oldest stone tools ever found in the United States](https://arstechnica.com/science/2023/07/these-are-the-oldest-stone-tools-ever-found-in-the-united-states/)
 * [2023-07-11, 11:39:17](https://news.ycombinator.com/item?id=36679569) - [How Cloudflare Images addressed the aCropalypse vulnerability](https://blog.cloudflare.com/how-cloudflare-images-addressed-the-acropalypse-vulnerability/)
 * [2023-07-11, 11:18:48](https://news.ycombinator.com/item?id=36679368) - [PhotoPrism: Browse Your Life in Pictures](https://github.com/photoprism/photoprism)
@@ -15,7 +16,6 @@
 * [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
-* [2023-07-11, 03:29:39](https://news.ycombinator.com/item?id=36676103) - [Linux has achieved a 3% desktop market share](https://linuxiac.com/linux-hits-3-percent-market-share/)
 * [2023-07-10, 23:42:48](https://news.ycombinator.com/item?id=36674606) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-07-10, 23:30:27](https://news.ycombinator.com/item?id=36674487) - [Frame generation essentials: Interpolation, extrapolation, and reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 * [2023-07-10, 23:05:21](https://news.ycombinator.com/item?id=36674224) - [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
