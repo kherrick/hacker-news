@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 18:56:06](https://news.ycombinator.com/item?id=36685649) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-11, 18:36:18](https://news.ycombinator.com/item?id=36685350) - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
 * [2023-07-11, 18:19:54](https://news.ycombinator.com/item?id=36685115) - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
 * [2023-07-11, 18:19:16](https://news.ycombinator.com/item?id=36685099) - [FBI taps cell phone mic as eavesdropping tool (2006)](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
