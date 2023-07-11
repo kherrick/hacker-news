@@ -6,6 +6,7 @@
 
 * [2023-07-11, 05:51:03](https://news.ycombinator.com/item?id=36676879) - [Sappers risk their lives to win Ukraine back, inch by inch](https://www.economist.com/europe/2023/07/09/sappers-risk-their-lives-to-win-ukraine-back-inch-by-inch)
 * [2023-07-11, 05:28:58](https://news.ycombinator.com/item?id=36676737) - [Show HN: Improve Text-to-SQL Accuracy with LLM](https://github.com/csunny/DB-GPT-Hub)
+* [2023-07-11, 05:14:46](https://news.ycombinator.com/item?id=36676657) - [Fungi stores 1/3 carbon from fossil fuel emits: essential to net zero – study](https://www.eurekalert.org/news-releases/991288)
 * [2023-07-11, 04:50:35](https://news.ycombinator.com/item?id=36676538) - [Perfectly good M1 MacBooks are being scrapped because of Activation Lock [video]](https://www.youtube.com/watch?v=94zOFsQJ7lU)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 * [2023-07-11, 03:51:10](https://news.ycombinator.com/item?id=36676215) - [You're So Vain, You Probably Think This App Is About You: On Meta and Mastodon](https://micro.coyotetracks.org/2023/07/10/youre-so-vain.html)

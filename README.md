@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-11, 05:51:03](https://news.ycombinator.com/item?id=36676879) - [Sappers risk their lives to win Ukraine back, inch by inch](https://www.economist.com/europe/2023/07/09/sappers-risk-their-lives-to-win-ukraine-back-inch-by-inch)
+* [2023-07-11, 05:14:46](https://news.ycombinator.com/item?id=36676657) - [Fungi stores 1/3 carbon from fossil fuel emits: essential to net zero – study](https://www.eurekalert.org/news-releases/991288)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 * [2023-07-11, 03:51:10](https://news.ycombinator.com/item?id=36676215) - [You're So Vain, You Probably Think This App Is About You: On Meta and Mastodon](https://micro.coyotetracks.org/2023/07/10/youre-so-vain.html)
 * [2023-07-11, 03:37:41](https://news.ycombinator.com/item?id=36676151) - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
@@ -26,7 +27,6 @@
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 * [2023-07-10, 16:30:34](https://news.ycombinator.com/item?id=36668732) - [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
 * [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
-* [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
 * [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
