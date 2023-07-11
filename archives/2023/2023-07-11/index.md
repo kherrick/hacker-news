@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [What we learned from using GPT for 500k+ classifications](https://www.trygloo.com/blog/classify-text-llms-learnings)
+* [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
+* [2023-07-11, 14:37:14](https://news.ycombinator.com/item?id=36681597) - [IntelliJ Rust](https://www.jetbrains.com/rust/)
 * [2023-07-11, 14:30:59](https://news.ycombinator.com/item?id=36681491) - [Solar Energy Solves Global Warming](https://unchartedterritories.tomaspueyo.com/p/solar-energy-solves-global-warming)
 * [2023-07-11, 14:29:35](https://news.ycombinator.com/item?id=36681471) - [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
 * [2023-07-11, 14:28:27](https://news.ycombinator.com/item?id=36681459) - [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)

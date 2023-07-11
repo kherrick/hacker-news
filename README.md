@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [What we learned from using GPT for 500k+ classifications](https://www.trygloo.com/blog/classify-text-llms-learnings)
+* [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
+* [2023-07-11, 14:37:14](https://news.ycombinator.com/item?id=36681597) - [IntelliJ Rust](https://www.jetbrains.com/rust/)
 * [2023-07-11, 14:30:59](https://news.ycombinator.com/item?id=36681491) - [Solar Energy Solves Global Warming](https://unchartedterritories.tomaspueyo.com/p/solar-energy-solves-global-warming)
 * [2023-07-11, 14:29:35](https://news.ycombinator.com/item?id=36681471) - [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
 * [2023-07-11, 14:28:27](https://news.ycombinator.com/item?id=36681459) - [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
@@ -21,13 +24,10 @@
 * [2023-07-11, 05:41:05](https://news.ycombinator.com/item?id=36676810) - [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 * [2023-07-11, 03:00:19](https://news.ycombinator.com/item?id=36675934) - [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
-* [2023-07-10, 22:19:22](https://news.ycombinator.com/item?id=36673793) - [Shortening the Let's Encrypt chain of trust](https://letsencrypt.org/2023/07/10/cross-sign-expiration.html)
-* [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backups directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 17:34:05](https://news.ycombinator.com/item?id=36669810) - [There's always more history (2020)](https://www.hillelwayne.com/post/always-more-history/)
 * [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 15:07:12](https://news.ycombinator.com/item?id=36667539) - [The story in pictures of the Hughes H-4 Hercules, 1945-1947](https://rarehistoricalphotos.com/hughes-h-4-hercules-spruce-goose-1945-1947/)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business (2014) [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
-* [2023-07-10, 10:34:10](https://news.ycombinator.com/item?id=36664372) - [Hybrid Insect Micro-Electro-Mechanical Systems (Hi-MEMS)](https://en.wikipedia.org/wiki/Hybrid_Insect_Micro-Electro-Mechanical_Systems)
 * [2023-07-10, 09:31:16](https://news.ycombinator.com/item?id=36663947) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 * [2023-07-10, 06:47:09](https://news.ycombinator.com/item?id=36662893) - [Docs as Code at Linode (2020)](https://www.linode.com/blog/linode/docs-as-code-at-linode/)
 
