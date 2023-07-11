@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-11, 10:23:10",
-      "https://news.ycombinator.com/item?id=36678914"
-    ],
-    [
-      "Tragedy of the Anticommons",
-      "https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons"
-    ]
-  ],
-  [
-    [
       "2023-07-11, 10:12:41",
       "https://news.ycombinator.com/item?id=36678818"
     ],
@@ -147,6 +137,16 @@
     [
       "FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]",
       "https://download.vusec.net/papers/floatzone_sec23.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 00:35:45",
+      "https://news.ycombinator.com/item?id=36675036"
+    ],
+    [
+      "XFS online filesystem check and repair",
+      "https://lwn.net/Articles/934561/"
     ]
   ],
   [
