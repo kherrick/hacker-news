@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 22:14:31](https://news.ycombinator.com/item?id=36687970) - [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
 * [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
 * [2023-07-11, 21:01:07](https://news.ycombinator.com/item?id=36687162) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -17,7 +18,6 @@
 * [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [Classifying customer messages with LLMs vs traditional ML](https://www.trygloo.com/blog/classify-text-llms-learnings)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
 * [2023-07-11, 14:06:55](https://news.ycombinator.com/item?id=36681178) - [ScyllaDB is Moving to a New Replication Algorithm: Tablets](https://www.scylladb.com/2023/07/10/why-scylladb-is-moving-to-a-new-replication-algorithm-tablets/)
-* [2023-07-11, 14:01:07](https://news.ycombinator.com/item?id=36681101) - [GitHub profile achievements](https://cqcumbers.com/github_achievements/)
 * [2023-07-11, 13:35:58](https://news.ycombinator.com/item?id=36680755) - [Claude 2](https://www.anthropic.com/index/claude-2)
 * [2023-07-11, 13:29:34](https://news.ycombinator.com/item?id=36680674) - [Intel exiting the PC business as it stops investment in the Intel NUC](https://www.servethehome.com/intel-exiting-the-pc-business-as-it-stops-investment-in-the-intel-nuc/)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)

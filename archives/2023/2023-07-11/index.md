@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 22:14:31](https://news.ycombinator.com/item?id=36687970) - [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
 * [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
 * [2023-07-11, 21:11:31](https://news.ycombinator.com/item?id=36687266) - [Tell HN: OneDrive sends your photos over unencrypted email](https://news.ycombinator.com/item?id=36687266)
