@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Google's new metrics: Interaction to Next Paint (INP)](https://web.dev/inp/)
 * [2023-07-11, 15:31:17](https://news.ycombinator.com/item?id=36682403) - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
 * [2023-07-11, 15:15:11](https://news.ycombinator.com/item?id=36682166) - [Shop Class 2.0: Rethinking High School to Accelerate Electrification](https://volted.substack.com/p/rethinking-high-school-to-electrify-everything)
 * [2023-07-11, 15:12:30](https://news.ycombinator.com/item?id=36682139) - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)
 * [2023-07-11, 15:06:42](https://news.ycombinator.com/item?id=36682070) - [HTTP vs. WebSockets: Which one is the fastest for Postgres queries at the Edge](https://neon.tech/blog/http-vs-websockets-for-postgres-queries-at-the-edge)
 * [2023-07-11, 15:02:04](https://news.ycombinator.com/item?id=36682008) - [Introducing Keras Core: Keras for TensorFlow, Jax, and PyTorch](https://keras.io/keras_core/announcement/)
+* [2023-07-11, 15:00:24](https://news.ycombinator.com/item?id=36681982) - [Claude 2 Model Card [pdf]](https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf)
 * [2023-07-11, 14:55:43](https://news.ycombinator.com/item?id=36681912) - [Firejail: Light, featureful and zero-dependency security sandbox for Linux](https://firejail.wordpress.com/)
 * [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [What we learned from using GPT for 500k+ classifications](https://www.trygloo.com/blog/classify-text-llms-learnings)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
