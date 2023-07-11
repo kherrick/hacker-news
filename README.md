@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 * [2023-07-11, 03:37:41](https://news.ycombinator.com/item?id=36676151) - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
 * [2023-07-11, 03:29:39](https://news.ycombinator.com/item?id=36676103) - [After 30 Years, Linux Finally Hits 3% Market Share](https://linuxiac.com/linux-hits-3-percent-market-share/)
 * [2023-07-11, 03:00:19](https://news.ycombinator.com/item?id=36675934) - [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
@@ -21,7 +22,6 @@
 * [2023-07-10, 17:02:42](https://news.ycombinator.com/item?id=36669249) - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 * [2023-07-10, 16:30:34](https://news.ycombinator.com/item?id=36668732) - [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
-* [2023-07-10, 15:02:27](https://news.ycombinator.com/item?id=36667469) - [Feature Flags: Theory vs. Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 14:55:26](https://news.ycombinator.com/item?id=36667374) - [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
 * [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [A physicist who bets that gravity can’t be quantized](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
 * [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
