@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-11, 18:19:54",
+      "https://news.ycombinator.com/item?id=36685115"
+    ],
+    [
+      "The Pile: a dataset for language modeling [pdf]",
+      "https://arxiv.org/abs/2101.00027"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 18:19:16",
       "https://news.ycombinator.com/item?id=36685099"
     ],
@@ -87,16 +97,6 @@
     [
       "Memos: A lightweight, self-hosted memo hub",
       "https://github.com/usememos/memos"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 16:03:52",
-      "https://news.ycombinator.com/item?id=36682961"
-    ],
-    [
-      "The magic of dependency resolution",
-      "https://ochagavia.nl/blog/the-magic-of-dependency-resolution/"
     ]
   ],
   [
