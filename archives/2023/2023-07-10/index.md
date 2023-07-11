@@ -34,6 +34,7 @@
 * [2023-07-10, 18:54:44](https://news.ycombinator.com/item?id=36671235) - [“Coning” AVs is part of a long tradition of tactical urbanism](https://oversharing.substack.com/p/traffic-cones-vs-self-driving-cars)
 * [2023-07-10, 18:45:30](https://news.ycombinator.com/item?id=36671105) - [Ask HN: What tech newsletters are you currently subscribing?](https://news.ycombinator.com/item?id=36671105)
 * [2023-07-10, 17:58:30](https://news.ycombinator.com/item?id=36670328) - [FreeShip Plus in Lazarus – an open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
+* [2023-07-10, 17:37:02](https://news.ycombinator.com/item?id=36669866) - [Understanding LangChain Basic Concepts](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit/)
 * [2023-07-10, 17:34:05](https://news.ycombinator.com/item?id=36669810) - [There's Always More History (2020)](https://www.hillelwayne.com/post/always-more-history/)
 * [2023-07-10, 17:16:57](https://news.ycombinator.com/item?id=36669480) - [Threads isn't ever going to connect to Mastodon, so stop pretending that it is](https://knollslaw.substack.com/p/metas-threads-app-isnt-ever-going)
 * [2023-07-10, 17:03:18](https://news.ycombinator.com/item?id=36669253) - [Tuition costs have risen 710% since 1983 (1200% since 1980). Inflation: 194%](https://statecraft.beehiiv.com/p/student-loan-debt-forgiveness)
