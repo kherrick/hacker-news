@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 17:25:21](https://news.ycombinator.com/item?id=36684242) - [UCLA Professor Refuses to Cover for Dan Ariely in Issue of Data Provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
+* [2023-07-11, 17:07:34](https://news.ycombinator.com/item?id=36683938) - [Cancer’s origin story features predictable plot line](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
+* [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
 * [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A Modern, Pragmatic Forth](https://retroforth.org/)
 * [2023-07-11, 17:01:05](https://news.ycombinator.com/item?id=36683852) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
 * [2023-07-11, 16:55:01](https://news.ycombinator.com/item?id=36683756) - [Intel is quitting on NUC computers](https://www.theverge.com/2023/7/11/23790956/intel-nuc-compact-pc-discontinued)
