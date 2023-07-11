@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 18:19:16](https://news.ycombinator.com/item?id=36685099) - [FBI taps cell phone mic as eavesdropping tool (2006)](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
+* [2023-07-11, 18:15:56](https://news.ycombinator.com/item?id=36685045) - [Nothing Phone (2)](https://us.nothing.tech/pages/phone-2)
+* [2023-07-11, 18:11:07](https://news.ycombinator.com/item?id=36684946) - [QubesOS – A reasonably secure operating system](https://www.qubes-os.org/)
 * [2023-07-11, 18:06:31](https://news.ycombinator.com/item?id=36684866) - [Panflute: Pythonic Pandoc Filters](https://github.com/sergiocorreia/panflute)
+* [2023-07-11, 17:39:04](https://news.ycombinator.com/item?id=36684460) - [Teenager ‘taken to security room and interrogated’ for throwaway ticketing](https://viewfromthewing.com/teenager-taken-to-security-room-and-interrogated-by-american-airlines-for-throwaway-ticketing/)
 * [2023-07-11, 17:25:21](https://news.ycombinator.com/item?id=36684242) - [UCLA Professor Refuses to Cover for Dan Ariely in Issue of Data Provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
 * [2023-07-11, 17:07:34](https://news.ycombinator.com/item?id=36683938) - [Cancer’s origin story features predictable plot line](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 * [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
