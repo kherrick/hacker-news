@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 13:35:58](https://news.ycombinator.com/item?id=36680755) - [Claude 2](https://www.anthropic.com/index/claude-2)
+* [2023-07-11, 13:26:25](https://news.ycombinator.com/item?id=36680639) - [Ask HN: Why do functional programmers hate loops (for, while, etc.)?](https://news.ycombinator.com/item?id=36680639)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 12:43:27](https://news.ycombinator.com/item?id=36680186) - [Fairphone 3 gets seven years of updates, besting every other Android OEM](https://arstechnica.com/gadgets/2023/07/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem/)
 * [2023-07-11, 12:18:55](https://news.ycombinator.com/item?id=36679938) - [These are the oldest stone tools ever found in the United States](https://arstechnica.com/science/2023/07/these-are-the-oldest-stone-tools-ever-found-in-the-united-states/)
