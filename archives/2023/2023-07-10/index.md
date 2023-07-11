@@ -47,6 +47,7 @@
 * [2023-07-10, 14:55:26](https://news.ycombinator.com/item?id=36667374) - [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
 * [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [The Physicist Who’s Challenging the Quantum Orthodoxy](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
 * [2023-07-10, 14:43:29](https://news.ycombinator.com/item?id=36667192) - [Saving a German Library as an interface between research and infrastructure](https://zukunft-der-sub.de/for-a-library-with-a-future)
+* [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [2023-07-10, 14:35:13](https://news.ycombinator.com/item?id=36667078) - [Canonical and IBM Are Turning Ubuntu and Fedora into Microsoft Windows](http://techrights.org/2023/07/09/corporate-distros/)
 * [2023-07-10, 14:24:14](https://news.ycombinator.com/item?id=36666920) - [Stéphane Graber has left Canonical](https://stgraber.org/2023/07/10/time-to-move-on/)
 * [2023-07-10, 14:21:46](https://news.ycombinator.com/item?id=36666881) - [The New York Times to Disband Its Sports Department, Replacing with the Athletic](https://www.nytimes.com/2023/07/10/business/media/the-new-york-times-sports-department.html)

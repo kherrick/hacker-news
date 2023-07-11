@@ -25,7 +25,7 @@
 * [2023-07-10, 17:02:42](https://news.ycombinator.com/item?id=36669249) - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 * [2023-07-10, 16:30:34](https://news.ycombinator.com/item?id=36668732) - [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
-* [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [A physicist who bets that gravity can’t be quantized](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
+* [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [2023-07-10, 14:15:04](https://news.ycombinator.com/item?id=36666782) - [We replaced Firecracker with QEMU](https://hocus.dev/blog/qemu-vs-firecracker/)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
