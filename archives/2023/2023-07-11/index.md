@@ -12,5 +12,6 @@
 * [2023-07-11, 03:03:08](https://news.ycombinator.com/item?id=36675950) - [Most Plastic Products Release Estrogenic Chemicals](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3222987/)
 * [2023-07-11, 03:00:19](https://news.ycombinator.com/item?id=36675934) - [GPT-4 Details Leaked](https://threadreaderapp.com/thread/1678545170508267522.html)
 * [2023-07-11, 02:28:47](https://news.ycombinator.com/item?id=36675750) - [FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]](https://download.vusec.net/papers/floatzone_sec23.pdf)
+* [2023-07-11, 01:55:05](https://news.ycombinator.com/item?id=36675564) - [Libdns: Core interfaces for universal DNS record manipulation across providers](https://github.com/libdns/libdns)
 * [2023-07-11, 00:35:45](https://news.ycombinator.com/item?id=36675036) - [XFS online filesystem check and repair](https://lwn.net/Articles/934561/)
 * [2023-07-11, 00:18:44](https://news.ycombinator.com/item?id=36674920) - [GPS Log: Tracking Wood Movement Down the McKenzie River Live June 8th](https://gpslogdrive.com/)
