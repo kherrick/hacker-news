@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 09:20:43](https://news.ycombinator.com/item?id=36678375) - [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
 * [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE Preserves Choice in Enterprise Linux by Forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 08:28:16](https://news.ycombinator.com/item?id=36678009) - [Stripe's Policies Left Us High and Dry This Is Not Fair Trade](https://news.ycombinator.com/item?id=36678009)
 * [2023-07-11, 07:28:55](https://news.ycombinator.com/item?id=36677578) - [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)

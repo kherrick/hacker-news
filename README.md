@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 09:20:43](https://news.ycombinator.com/item?id=36678375) - [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
 * [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 07:28:55](https://news.ycombinator.com/item?id=36677578) - [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
 * [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
@@ -21,9 +22,8 @@
 * [2023-07-10, 21:00:06](https://news.ycombinator.com/item?id=36672888) - [Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
 * [2023-07-10, 20:04:29](https://news.ycombinator.com/item?id=36672183) - [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
 * [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
-* [2023-07-10, 17:58:30](https://news.ycombinator.com/item?id=36670328) - [FreeShip Plus in Lazarus – An open-source software for boat and hull design](https://github.com/markmal/freeship-plus-in-lazarus)
-* [2023-07-10, 17:02:42](https://news.ycombinator.com/item?id=36669249) - [Invisible Details of Interaction Design](https://rauno.me/craft/interaction-design)
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
+* [2023-07-10, 16:30:34](https://news.ycombinator.com/item?id=36668732) - [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
 * [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 11:05:46](https://news.ycombinator.com/item?id=36664660) - [Feature Flags in Rails: How to Deploy, Test and Manage](https://www.railscarma.com/blog/feature-flags-in-rails-how-to-deploy-test-manage/)
