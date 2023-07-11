@@ -10,7 +10,6 @@
 * [2023-07-11, 18:11:07](https://news.ycombinator.com/item?id=36684946) - [QubesOS – A reasonably secure operating system](https://www.qubes-os.org/)
 * [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
 * [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
-* [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
 * [2023-07-11, 15:38:04](https://news.ycombinator.com/item?id=36682509) - [Newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Interaction to Next Paint (INP)](https://web.dev/inp/)
 * [2023-07-11, 14:55:43](https://news.ycombinator.com/item?id=36681912) - [Firejail: Light, featureful and zero-dependency security sandbox for Linux](https://firejail.wordpress.com/)
@@ -28,6 +27,7 @@
 * [2023-07-10, 22:07:53](https://news.ycombinator.com/item?id=36673663) - [Shining a light on the traffic signals of Sydney](https://jakecoppinger.com/2023/07/shining-a-light-on-the-traffic-signals-of-sydney/)
 * [2023-07-10, 17:37:02](https://news.ycombinator.com/item?id=36669866) - [Understanding LangChain Basic Concepts](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit/)
 * [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
+* [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business (2014) [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 09:31:16](https://news.ycombinator.com/item?id=36663947) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 * [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 
