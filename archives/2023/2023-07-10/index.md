@@ -18,6 +18,7 @@
 * [2023-07-10, 22:07:53](https://news.ycombinator.com/item?id=36673663) - [Shining a light on the traffic signals of Sydney](https://jakecoppinger.com/2023/07/shining-a-light-on-the-traffic-signals-of-sydney/)
 * [2023-07-10, 22:07:15](https://news.ycombinator.com/item?id=36673653) - [US Army Physical Fitness Test (APFT): Normative Data on 6022 Soldiers (1994)](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml)
 * [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
+* [2023-07-10, 21:35:34](https://news.ycombinator.com/item?id=36673288) - [The LSD Museum, the Largest Collection of “Blotter Art” in the World (2021)](https://www.openculture.com/2021/08/take-a-trip-to-the-lsd-museum-the-largest-collection-of-blotter-art-in-the-world.html)
 * [2023-07-10, 21:34:48](https://news.ycombinator.com/item?id=36673280) - [Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)
 * [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 21:20:08](https://news.ycombinator.com/item?id=36673108) - [Gandi.net updates pricing, increases rates by up to 1000%](https://chatting.neocities.org/posts/2023-gandi-pricing)
