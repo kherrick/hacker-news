@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-11, 15:35:30",
+      "https://news.ycombinator.com/item?id=36682468"
+    ],
+    [
+      "Google's new metrics: Interaction to Next Paint (INP)",
+      "https://web.dev/inp/"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 15:31:17",
       "https://news.ycombinator.com/item?id=36682403"
     ],
@@ -47,6 +57,16 @@
     [
       "Introducing Keras Core: Keras for TensorFlow, Jax, and PyTorch",
       "https://keras.io/keras_core/announcement/"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 15:00:24",
+      "https://news.ycombinator.com/item?id=36681982"
+    ],
+    [
+      "Claude 2 Model Card [pdf]",
+      "https://www-files.anthropic.com/production/images/Model-Card-Claude-2.pdf"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-07-11, 10:14:29",
-      "https://news.ycombinator.com/item?id=36678834"
-    ],
-    [
-      "Big Tech can transfer Europeans’ data to US in win for Facebook and Google",
-      "https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/"
-    ]
-  ],
-  [
-    [
       "2023-07-11, 10:09:57",
       "https://news.ycombinator.com/item?id=36678795"
     ],
@@ -227,16 +237,6 @@
     [
       "GPT-Prompt-Engineer",
       "https://github.com/mshumer/gpt-prompt-engineer"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 05:41:05",
-      "https://news.ycombinator.com/item?id=36676810"
-    ],
-    [
-      "Meta’s Microservice Architecture [pdf]",
-      "https://www.usenix.org/system/files/atc23-huye.pdf"
     ]
   ],
   [
