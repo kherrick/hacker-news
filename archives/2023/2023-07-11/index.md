@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 11:39:17](https://news.ycombinator.com/item?id=36679569) - [How Cloudflare Images addressed the aCropalypse vulnerability](https://blog.cloudflare.com/how-cloudflare-images-addressed-the-acropalypse-vulnerability/)
+* [2023-07-11, 11:18:48](https://news.ycombinator.com/item?id=36679368) - [PhotoPrism: Browse Your Life in Pictures](https://github.com/photoprism/photoprism)
 * [2023-07-11, 10:23:10](https://news.ycombinator.com/item?id=36678914) - [Tragedy of the Anticommons](https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons)
+* [2023-07-11, 10:14:29](https://news.ycombinator.com/item?id=36678834) - [Big Tech can transfer Europeans’ data to US in win for Facebook and Google](https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/)
 * [2023-07-11, 10:12:41](https://news.ycombinator.com/item?id=36678818) - [SpaceX is stretching the lifetime of its reusable Falcon 9 boosters](https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/)
 * [2023-07-11, 09:35:59](https://news.ycombinator.com/item?id=36678475) - [Working memory: metric for state a programmer needs to keep in their head](https://sourcery.ai/blog/measuring_working_memory/)
 * [2023-07-11, 09:33:12](https://news.ycombinator.com/item?id=36678457) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
