@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
 * [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Google's new metrics: Interaction to Next Paint (INP)](https://web.dev/inp/)

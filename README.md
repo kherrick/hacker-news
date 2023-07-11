@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
 * [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Google's new metrics: Interaction to Next Paint (INP)](https://web.dev/inp/)
@@ -27,7 +28,6 @@
 * [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
 * [2023-07-10, 17:34:05](https://news.ycombinator.com/item?id=36669810) - [There's always more history (2020)](https://www.hillelwayne.com/post/always-more-history/)
 * [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
-* [2023-07-10, 15:07:12](https://news.ycombinator.com/item?id=36667539) - [The story in pictures of the Hughes H-4 Hercules, 1945-1947](https://rarehistoricalphotos.com/hughes-h-4-hercules-spruce-goose-1945-1947/)
 * [2023-07-10, 09:31:16](https://news.ycombinator.com/item?id=36663947) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 * [2023-07-10, 06:53:42](https://news.ycombinator.com/item?id=36662924) - [The mystery of the Ain Dubai, the world’s largest (broken) Ferris wheel](https://www.washingtonpost.com/world/2023/07/09/ain-dubai-wheel-real-estate/)
 
