@@ -141,13 +141,99 @@
             <h4>
               <span>2023-07-11 @ 09:20:43</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">123</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36678375"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 123</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="36678348">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36678348"
+              >Mailgun: Public Security Disclosure</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-11 @ 09:16:38</span
+              ><span class="points-container"
+                >Points: <span class="points">19</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36678348"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                "complex incoming messages are simplified and parsed into all of
+                the data you need with Inbound Routes." [1]
+              </p>
+              <p>Mailgun refers to DKIM/SPF/DMARC with:</p>
+              <p>
+                "Mailgun leads the charge in email authentication by requiring
+                DKIM and SPF records by default before you can begin sending."
+                [2]
+              </p>
+              <p>
+                However, nowhere does it say that Mailgun does not provide SPF
+                or DKIM validation checks on inbound emails. Confusingly, these
+                headers appear only for a subset of inbound emails.
+              </p>
+              <p>Attack scenario:</p>
+              <p>
+                1) Pick any domain using mailgun for inbound email processing
+                (trivially found via MX records).
+              </p>
+              <p>
+                2) Spoof an email from any address you want to impersonate (eg.
+                security@mailgun.com).
+              </p>
+              <p>
+                If that address is handled via an inbound route to a webhook
+                (eg. CRM system / other), then it will appear as from the
+                spoofed sender without any DKIM/SPF flags. This makes phishing
+                via Inbound Routes trivial.
+              </p>
+              <p>Requested fix:</p>
+              <p>
+                Include SPF (X-Mailgun-Spf), DKIM (X-Mailgun-Dkim-Check-Result),
+                and Spam Assassin headers (eg. DMARC_QUAR / DMARC_REJECT /
+                DMARC_NONE / DMARC_MISSING) headers for ALL inbound routes to a
+                webhook. The application can then decide what to do.
+              </p>
+              <p>Mailgun Response:</p>
+              <p>
+                "Our security team has confirmed that our routes act as an open
+                relay and that this is not considered a security vulnerability
+                with Mailgun."
+              </p>
+              <p>
+                Nowhere in the Mailgun documentation / sales pages are inbound
+                routes described like this, and in fact, they pretend to have
+                protection as headers are sometimes present!
+              </p>
+              <p>
+                Note A: Using throwaway to not give information away for our own
+                exposed systems.
+              </p>
+              <p>
+                Note B: The spoofed email must not trigger above a certain spam
+                assassin threshold (this is fairly trivial to do and openly
+                testable by any attacker), otherwise it might get blocked by
+                higher level Mailgun spam handling.
+              </p>
+              <p>
+                [1] - https://www.mailgun.com/products/send/inbound-routing/
+              </p>
+              <p>
+                [2] -
+                https://www.mailgun.com/blog/deliverability/implement-dmarc/#chapter-5
+              </p>
+            </div>
           </section>
         </section>
         <section id="36678079">
@@ -162,11 +248,11 @@
             <h4>
               <span>2023-07-11 @ 08:41:22</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36678079"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -184,11 +270,11 @@
             <h4>
               <span>2023-07-11 @ 07:28:55</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36677578"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -205,11 +291,11 @@
             <h4>
               <span>2023-07-11 @ 06:16:14</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36677034"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -226,11 +312,11 @@
             <h4>
               <span>2023-07-11 @ 05:41:05</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36676810"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -245,7 +331,7 @@
             <h4>
               <span>2023-07-11 @ 04:27:41</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36676415"
                   >Comments</a
@@ -279,7 +365,7 @@
             <h4>
               <span>2023-07-11 @ 03:37:41</span
               ><span class="points-container"
-                >Points: <span class="points">29</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36676151"
                   >Comments</a
@@ -300,11 +386,11 @@
             <h4>
               <span>2023-07-11 @ 03:29:39</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">384</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36676103"
                   >Comments</a
-                ><span class="descendants">: 320</span></span
+                ><span class="descendants">: 329</span></span
               >
             </h4>
           </section>
@@ -321,11 +407,11 @@
             <h4>
               <span>2023-07-11 @ 03:00:19</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">342</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36675934"
                   >Comments</a
-                ><span class="descendants">: 246</span></span
+                ><span class="descendants">: 257</span></span
               >
             </h4>
           </section>
@@ -343,7 +429,7 @@
             <h4>
               <span>2023-07-11 @ 02:28:47</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36675750"
                   >Comments</a
@@ -362,11 +448,11 @@
             <h4>
               <span>2023-07-11 @ 00:35:45</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36675036"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -381,7 +467,7 @@
             <h4>
               <span>2023-07-11 @ 00:18:44</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36674920"
                   >Comments</a
@@ -402,7 +488,7 @@
             <h4>
               <span>2023-07-10 @ 23:42:48</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">60</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36674606"
                   >Comments</a
@@ -443,11 +529,11 @@
             <h4>
               <span>2023-07-10 @ 23:05:21</span
               ><span class="points-container"
-                >Points: <span class="points">170</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36674224"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 76</span></span
               >
             </h4>
           </section>
@@ -464,11 +550,11 @@
             <h4>
               <span>2023-07-10 @ 22:49:32</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36674069"
                   >Comments</a
-                ><span class="descendants">: 114</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -485,11 +571,11 @@
             <h4>
               <span>2023-07-10 @ 22:19:22</span
               ><span class="points-container"
-                >Points: <span class="points">381</span></span
+                >Points: <span class="points">391</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36673793"
                   >Comments</a
-                ><span class="descendants">: 183</span></span
+                ><span class="descendants">: 185</span></span
               >
             </h4>
           </section>
@@ -505,11 +591,11 @@
             <h4>
               <span>2023-07-10 @ 21:28:40</span
               ><span class="points-container"
-                >Points: <span class="points">585</span></span
+                >Points: <span class="points">589</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36673224"
                   >Comments</a
-                ><span class="descendants">: 269</span></span
+                ><span class="descendants">: 278</span></span
               >
             </h4>
           </section>
@@ -524,11 +610,11 @@
             <h4>
               <span>2023-07-10 @ 21:06:55</span
               ><span class="points-container"
-                >Points: <span class="points">127</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36672957"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
             <div class="text">
@@ -574,7 +660,7 @@
             <h4>
               <span>2023-07-10 @ 20:04:29</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36672183"
                   >Comments</a
@@ -618,11 +704,11 @@
             <h4>
               <span>2023-07-10 @ 19:58:01</span
               ><span class="points-container"
-                >Points: <span class="points">212</span></span
+                >Points: <span class="points">214</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36672115"
                   >Comments</a
-                ><span class="descendants">: 122</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -639,33 +725,11 @@
             <h4>
               <span>2023-07-10 @ 16:44:09</span
               ><span class="points-container"
-                >Points: <span class="points">446</span></span
+                >Points: <span class="points">448</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36668964"
                   >Comments</a
-                ><span class="descendants">: 135</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36668732">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr"
-              >Apple VisionOS Simulator streaming wirelessly to Meta Quest
-              headset</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-10 @ 16:30:34</span
-              ><span class="points-container"
-                >Points: <span class="points">385</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36668732"
-                  >Comments</a
-                ><span class="descendants">: 211</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -682,11 +746,11 @@
             <h4>
               <span>2023-07-10 @ 14:36:57</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36667103"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -703,7 +767,7 @@
             <h4>
               <span>2023-07-10 @ 13:47:59</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36666380"
                   >Comments</a
@@ -728,7 +792,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36664660"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -745,11 +809,32 @@
             <h4>
               <span>2023-07-10 @ 10:50:38</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36664509"
                   >Comments</a
                 ><span class="descendants">: 19</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36664372">
+          <h3>
+            <a
+              class="item"
+              href="https://en.wikipedia.org/wiki/Hybrid_Insect_Micro-Electro-Mechanical_Systems"
+              >Hybrid Insect Micro-Electro-Mechanical Systems (Hi-MEMS)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-10 @ 10:34:10</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36664372"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -766,33 +851,11 @@
             <h4>
               <span>2023-07-10 @ 06:47:09</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36662893"
                   >Comments</a
                 ><span class="descendants">: 0</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36650062">
-          <h3>
-            <a
-              class="item"
-              href="http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html"
-              >Making a potato livecam with the Commodore 128 VDC and
-              ComputerEyes</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-09 @ 00:13:56</span
-              ><span class="points-container"
-                >Points: <span class="points">44</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36650062"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
