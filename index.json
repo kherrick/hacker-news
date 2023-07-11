@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-07-11, 18:15:56",
-      "https://news.ycombinator.com/item?id=36685045"
-    ],
-    [
-      "Nothing Phone (2)",
-      "https://us.nothing.tech/pages/phone-2"
-    ]
-  ],
-  [
-    [
       "2023-07-11, 18:11:07",
       "https://news.ycombinator.com/item?id=36684946"
     ],
@@ -107,6 +97,16 @@
     [
       "Interaction to Next Paint (INP)",
       "https://web.dev/inp/"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 15:06:42",
+      "https://news.ycombinator.com/item?id=36682070"
+    ],
+    [
+      "HTTP vs. WebSockets: Which one is the fastest for Postgres queries at the edge?",
+      "https://neon.tech/blog/http-vs-websockets-for-postgres-queries-at-the-edge"
     ]
   ],
   [
