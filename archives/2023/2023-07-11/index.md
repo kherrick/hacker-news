@@ -44,6 +44,7 @@
 * [2023-07-11, 13:45:58](https://news.ycombinator.com/item?id=36680890) - [It is over. GPT-4's details are leaked](https://pastebin.com/npjASbNp)
 * [2023-07-11, 13:41:37](https://news.ycombinator.com/item?id=36680835) - [Laws of UX](https://lawsofux.com/)
 * [2023-07-11, 13:35:58](https://news.ycombinator.com/item?id=36680755) - [Claude 2](https://www.anthropic.com/index/claude-2)
+* [2023-07-11, 13:29:34](https://news.ycombinator.com/item?id=36680674) - [Intel exiting the PC business as it stops investment in the Intel NUC](https://www.servethehome.com/intel-exiting-the-pc-business-as-it-stops-investment-in-the-intel-nuc/)
 * [2023-07-11, 13:26:25](https://news.ycombinator.com/item?id=36680639) - [Ask HN: Why do functional programmers hate loops (for, while, etc.)?](https://news.ycombinator.com/item?id=36680639)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 12:43:27](https://news.ycombinator.com/item?id=36680186) - [Fairphone 3 gets seven years of updates, besting every other Android OEM](https://arstechnica.com/gadgets/2023/07/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem/)
