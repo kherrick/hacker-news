@@ -6,6 +6,7 @@
 
 * [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
+* [2023-07-11, 21:11:31](https://news.ycombinator.com/item?id=36687266) - [Tell HN: OneDrive sends your photos over unencrypted email](https://news.ycombinator.com/item?id=36687266)
 * [2023-07-11, 21:01:07](https://news.ycombinator.com/item?id=36687162) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
 * [2023-07-11, 20:17:48](https://news.ycombinator.com/item?id=36686672) - [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)

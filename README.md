@@ -2,6 +2,7 @@
 
 * [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
+* [2023-07-11, 21:11:31](https://news.ycombinator.com/item?id=36687266) - [Tell HN: OneDrive sends your photos over unencrypted email](https://news.ycombinator.com/item?id=36687266)
 * [2023-07-11, 21:01:07](https://news.ycombinator.com/item?id=36687162) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
 * [2023-07-11, 20:17:48](https://news.ycombinator.com/item?id=36686672) - [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
@@ -27,7 +28,6 @@
 * [2023-07-10, 22:07:53](https://news.ycombinator.com/item?id=36673663) - [Shining a light on the traffic signals of Sydney](https://jakecoppinger.com/2023/07/shining-a-light-on-the-traffic-signals-of-sydney/)
 * [2023-07-10, 17:45:33](https://news.ycombinator.com/item?id=36670064) - [Microarchitectural Attacks on Hardware RISC-V CPUs [pdf]](https://publications.cispa.saarland/3924/1/security_risc.pdf)
 * [2023-07-10, 17:37:02](https://news.ycombinator.com/item?id=36669866) - [Understanding LangChain Basic Concepts](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit/)
-* [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 09:31:16](https://news.ycombinator.com/item?id=36663947) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 * [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 
