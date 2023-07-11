@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-07-11, 10:12:41",
+      "https://news.ycombinator.com/item?id=36678818"
+    ],
+    [
+      "SpaceX is stretching the lifetime of its reusable Falcon 9 boosters",
+      "https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 09:35:59",
       "https://news.ycombinator.com/item?id=36678475"
     ],
     [
       "Working memory: metric for state a programmer needs to keep in their head",
       "https://sourcery.ai/blog/measuring_working_memory/"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 09:33:12",
+      "https://news.ycombinator.com/item?id=36678457"
+    ],
+    [
+      "Back-end parallelism in the Rust compiler",
+      "https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 09:27:25",
+      "https://news.ycombinator.com/item?id=36678412"
+    ],
+    [
+      "What Is the Numerical Range of a Matrix?",
+      "https://nhigham.com/2023/07/11/what-is-the-numerical-range-of-a-matrix/"
     ]
   ],
   [
@@ -201,36 +231,6 @@
   ],
   [
     [
-      "2023-07-10, 21:00:06",
-      "https://news.ycombinator.com/item?id=36672888"
-    ],
-    [
-      "Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)",
-      "https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 20:04:29",
-      "https://news.ycombinator.com/item?id=36672183"
-    ],
-    [
-      "Show HN: The full source code and assets for my custom game engine and game",
-      "https://news.ycombinator.com/item?id=36672183"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 19:58:01",
-      "https://news.ycombinator.com/item?id=36672115"
-    ],
-    [
-      "2048 Bit RSA and the Year 2030",
-      "https://articles.59.ca/doku.php?id=em:20482030"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 16:44:09",
       "https://news.ycombinator.com/item?id=36668964"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2023-07-10, 13:20:04",
+      "https://news.ycombinator.com/item?id=36665978"
+    ],
+    [
+      "People are paying to break printers with sledgehammers in smash rooms",
+      "https://www.washingtonpost.com/technology/2023/07/10/rage-room-printers-recycle-environment-health/"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 10:50:38",
       "https://news.ycombinator.com/item?id=36664509"
     ],
@@ -287,16 +297,6 @@
     [
       "Docs as Code at Linode (2020)",
       "https://www.linode.com/blog/linode/docs-as-code-at-linode/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 00:13:56",
-      "https://news.ycombinator.com/item?id=36650062"
-    ],
-    [
-      "Making a potato livecam with the Commodore 128 VDC and ComputerEyes",
-      "http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html"
     ]
   ]
 ]
