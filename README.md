@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
 * [2023-07-11, 21:01:07](https://news.ycombinator.com/item?id=36687162) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
@@ -18,7 +19,6 @@
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
 * [2023-07-11, 14:29:35](https://news.ycombinator.com/item?id=36681471) - [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
 * [2023-07-11, 14:06:55](https://news.ycombinator.com/item?id=36681178) - [ScyllaDB is Moving to a New Replication Algorithm: Tablets](https://www.scylladb.com/2023/07/10/why-scylladb-is-moving-to-a-new-replication-algorithm-tablets/)
-* [2023-07-11, 14:01:07](https://news.ycombinator.com/item?id=36681101) - [GitHub profile achievements](https://cqcumbers.com/github_achievements/)
 * [2023-07-11, 13:35:58](https://news.ycombinator.com/item?id=36680755) - [Claude 2](https://www.anthropic.com/index/claude-2)
 * [2023-07-11, 13:29:34](https://news.ycombinator.com/item?id=36680674) - [Intel exiting the PC business as it stops investment in the Intel NUC](https://www.servethehome.com/intel-exiting-the-pc-business-as-it-stops-investment-in-the-intel-nuc/)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
@@ -26,8 +26,8 @@
 * [2023-07-11, 11:18:48](https://news.ycombinator.com/item?id=36679368) - [PhotoPrism: AI-powered photos app for the decentralized web](https://github.com/photoprism/photoprism)
 * [2023-07-10, 22:10:57](https://news.ycombinator.com/item?id=36673711) - [Laniakea Supercluster](https://en.wikipedia.org/wiki/Laniakea_Supercluster)
 * [2023-07-10, 22:07:53](https://news.ycombinator.com/item?id=36673663) - [Shining a light on the traffic signals of Sydney](https://jakecoppinger.com/2023/07/shining-a-light-on-the-traffic-signals-of-sydney/)
+* [2023-07-10, 17:45:33](https://news.ycombinator.com/item?id=36670064) - [Microarchitectural Attacks on Hardware RISC-V CPUs [pdf]](https://publications.cispa.saarland/3924/1/security_risc.pdf)
 * [2023-07-10, 17:37:02](https://news.ycombinator.com/item?id=36669866) - [Understanding LangChain Basic Concepts](https://blog.kevinhu.me/2023/07/10/hacking-langchain-for-fun-and-profit/)
-* [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 09:31:16](https://news.ycombinator.com/item?id=36663947) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
 * [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 
