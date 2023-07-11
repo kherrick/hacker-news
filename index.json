@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-11, 13:35:58",
+      "https://news.ycombinator.com/item?id=36680755"
+    ],
+    [
+      "Claude 2",
+      "https://www.anthropic.com/index/claude-2"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 13:26:25",
+      "https://news.ycombinator.com/item?id=36680639"
+    ],
+    [
+      "Ask HN: Why do functional programmers hate loops (for, while, etc.)?",
+      "https://news.ycombinator.com/item?id=36680639"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 13:15:49",
       "https://news.ycombinator.com/item?id=36680535"
     ],
@@ -17,16 +37,6 @@
     [
       "Fairphone 3 gets seven years of updates, besting every other Android OEM",
       "https://arstechnica.com/gadgets/2023/07/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 12:18:55",
-      "https://news.ycombinator.com/item?id=36679938"
-    ],
-    [
-      "These are the oldest stone tools ever found in the United States",
-      "https://arstechnica.com/science/2023/07/these-are-the-oldest-stone-tools-ever-found-in-the-united-states/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Big Tech can transfer Europeans’ data to US in win for Facebook and Google",
       "https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 10:12:41",
-      "https://news.ycombinator.com/item?id=36678818"
-    ],
-    [
-      "SpaceX is stretching the lifetime of its reusable Falcon 9 boosters",
-      "https://arstechnica.com/space/2023/07/spacex-launches-its-fleet-leading-rocket-booster-for-record-16th-time/"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-07-11, 09:16:38",
-      "https://news.ycombinator.com/item?id=36678348"
-    ],
-    [
-      "Mailgun: Public Security Disclosure",
-      "https://news.ycombinator.com/item?id=36678348"
-    ]
-  ],
-  [
-    [
       "2023-07-11, 08:41:22",
       "https://news.ycombinator.com/item?id=36678079"
     ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2023-07-11, 05:41:05",
+      "https://news.ycombinator.com/item?id=36676810"
+    ],
+    [
+      "Meta’s Microservice Architecture [pdf]",
+      "https://www.usenix.org/system/files/atc23-huye.pdf"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 04:27:41",
       "https://news.ycombinator.com/item?id=36676415"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-07-10, 23:42:48",
-      "https://news.ycombinator.com/item?id=36674606"
+      "2023-07-11, 03:00:19",
+      "https://news.ycombinator.com/item?id=36675934"
     ],
     [
-      "Letting users block injected third-party DLLs in Firefox",
-      "https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/"
+      "GPT-4 details leaked?",
+      "https://threadreaderapp.com/thread/1678545170508267522.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2023-07-10, 10:50:38",
-      "https://news.ycombinator.com/item?id=36664509"
+      "2023-07-10, 13:20:04",
+      "https://news.ycombinator.com/item?id=36665978"
     ],
     [
-      "Teardown of the TM4313 GPS Disciplined Oscillator",
-      "https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html"
+      "People are paying to break printers with sledgehammers in smash rooms",
+      "https://www.washingtonpost.com/technology/2023/07/10/rage-room-printers-recycle-environment-health/"
     ]
   ],
   [
