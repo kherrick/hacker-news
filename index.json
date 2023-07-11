@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-11, 15:06:42",
+      "https://news.ycombinator.com/item?id=36682070"
+    ],
+    [
+      "HTTP vs. WebSockets: Which one is the fastest for Postgres queries at the Edge",
+      "https://neon.tech/blog/http-vs-websockets-for-postgres-queries-at-the-edge"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 15:02:04",
+      "https://news.ycombinator.com/item?id=36682008"
+    ],
+    [
+      "Introducing Keras Core: Keras for TensorFlow, Jax, and PyTorch",
+      "https://keras.io/keras_core/announcement/"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 14:55:43",
+      "https://news.ycombinator.com/item?id=36681912"
+    ],
+    [
+      "Firejail: Light, featureful and zero-dependency security sandbox for Linux",
+      "https://firejail.wordpress.com/"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 14:51:19",
       "https://news.ycombinator.com/item?id=36681839"
     ],
@@ -77,16 +107,6 @@
     [
       "GitHub Profile Achievements",
       "https://cqcumbers.com/github_achievements/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 13:57:16",
-      "https://news.ycombinator.com/item?id=36681049"
-    ],
-    [
-      "Ask HN: When is pure functional programming beneficial?",
-      "https://news.ycombinator.com/item?id=36681049"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2023-07-11, 08:41:22",
-      "https://news.ycombinator.com/item?id=36678079"
-    ],
-    [
-      "SUSE is forking RHEL",
-      "https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/"
-    ]
-  ],
-  [
-    [
       "2023-07-11, 06:16:14",
       "https://news.ycombinator.com/item?id=36677034"
     ],
@@ -287,16 +297,6 @@
     [
       "C++23: The Next C++ Standard",
       "http://modernescpp.com/index.php/c-23-the-next-c-standard"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 06:47:09",
-      "https://news.ycombinator.com/item?id=36662893"
-    ],
-    [
-      "Docs as Code at Linode (2020)",
-      "https://www.linode.com/blog/linode/docs-as-code-at-linode/"
     ]
   ]
 ]
