@@ -72,6 +72,7 @@
 * [2023-07-10, 11:05:46](https://news.ycombinator.com/item?id=36664660) - [Feature Flags in Rails: How to Deploy, Test and Manage](https://www.railscarma.com/blog/feature-flags-in-rails-how-to-deploy-test-manage/)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Using SVG to create simple sparkline charts](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
+* [2023-07-10, 10:34:10](https://news.ycombinator.com/item?id=36664372) - [Hybrid Insect Micro-Electro-Mechanical Systems (Hi-MEMS)](https://en.wikipedia.org/wiki/Hybrid_Insect_Micro-Electro-Mechanical_Systems)
 * [2023-07-10, 10:28:01](https://news.ycombinator.com/item?id=36664323) - [Prediction: Threads will be shut down in 12 months or less](https://twitter.com/alex_valaitis/status/1678146083145359362)
 * [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)

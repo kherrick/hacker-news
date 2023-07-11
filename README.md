@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-11, 09:20:43](https://news.ycombinator.com/item?id=36678375) - [Why privatisation has been a costly failure in Britain](https://www.economist.com/by-invitation/2023/07/10/mathew-lawrence-on-why-privatisation-has-been-a-costly-failure-in-britain)
+* [2023-07-11, 09:16:38](https://news.ycombinator.com/item?id=36678348) - [Mailgun: Public Security Disclosure](https://news.ycombinator.com/item?id=36678348)
 * [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 07:28:55](https://news.ycombinator.com/item?id=36677578) - [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
 * [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
@@ -23,13 +24,12 @@
 * [2023-07-10, 20:04:29](https://news.ycombinator.com/item?id=36672183) - [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
 * [2023-07-10, 19:58:01](https://news.ycombinator.com/item?id=36672115) - [2048 Bit RSA and the Year 2030](https://articles.59.ca/doku.php?id=em:20482030)
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
-* [2023-07-10, 16:30:34](https://news.ycombinator.com/item?id=36668732) - [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
 * [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 11:05:46](https://news.ycombinator.com/item?id=36664660) - [Feature Flags in Rails: How to Deploy, Test and Manage](https://www.railscarma.com/blog/feature-flags-in-rails-how-to-deploy-test-manage/)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
+* [2023-07-10, 10:34:10](https://news.ycombinator.com/item?id=36664372) - [Hybrid Insect Micro-Electro-Mechanical Systems (Hi-MEMS)](https://en.wikipedia.org/wiki/Hybrid_Insect_Micro-Electro-Mechanical_Systems)
 * [2023-07-10, 06:47:09](https://news.ycombinator.com/item?id=36662893) - [Docs as Code at Linode (2020)](https://www.linode.com/blog/linode/docs-as-code-at-linode/)
-* [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 
 ## [Archives](archives/index.md)
 
