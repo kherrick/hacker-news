@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE Preserves Choice in Enterprise Linux by Forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 07:28:55](https://news.ycombinator.com/item?id=36677578) - [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
 * [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [2023-07-11, 05:41:05](https://news.ycombinator.com/item?id=36676810) - [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
-* [2023-07-11, 05:14:46](https://news.ycombinator.com/item?id=36676657) - [Fungi stores a third of carbon from fossil fuel emissions](https://www.eurekalert.org/news-releases/991288)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 * [2023-07-11, 03:37:41](https://news.ycombinator.com/item?id=36676151) - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
 * [2023-07-11, 03:29:39](https://news.ycombinator.com/item?id=36676103) - [Linux has achieved a 3% desktop market share](https://linuxiac.com/linux-hits-3-percent-market-share/)
