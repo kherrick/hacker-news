@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-11, 17:25:21](https://news.ycombinator.com/item?id=36684242) - [UCLA Professor Refuses to Cover for Dan Ariely in Issue of Data Provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
-* [2023-07-11, 17:07:34](https://news.ycombinator.com/item?id=36683938) - [Cancer’s origin story features predictable plot line](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
+* [2023-07-11, 18:06:31](https://news.ycombinator.com/item?id=36684866) - [Panflute: Pythonic Pandoc Filters](https://github.com/sergiocorreia/panflute)
+* [2023-07-11, 17:25:21](https://news.ycombinator.com/item?id=36684242) - [UCLA professor refuses to cover for Dan Ariely in issue of data provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
+* [2023-07-11, 17:07:34](https://news.ycombinator.com/item?id=36683938) - [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 * [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
 * [2023-07-11, 17:01:05](https://news.ycombinator.com/item?id=36683852) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
-* [2023-07-11, 16:55:01](https://news.ycombinator.com/item?id=36683756) - [Intel is quitting on NUC computers](https://www.theverge.com/2023/7/11/23790956/intel-nuc-compact-pc-discontinued)
 * [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
@@ -25,11 +25,11 @@
 * [2023-07-11, 11:18:48](https://news.ycombinator.com/item?id=36679368) - [PhotoPrism: AI-powered photos app for the decentralized web](https://github.com/photoprism/photoprism)
 * [2023-07-11, 09:33:12](https://news.ycombinator.com/item?id=36678457) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
 * [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
-* [2023-07-11, 03:00:19](https://news.ycombinator.com/item?id=36675934) - [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
 * [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
 * [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 10:11:07](https://news.ycombinator.com/item?id=36664186) - [The Great Pendulum](https://hugotunius.se/2023/07/09/the-great-pendulum.html)
 * [2023-07-10, 06:53:42](https://news.ycombinator.com/item?id=36662924) - [The mystery of the Ain Dubai, the world’s largest (broken) Ferris wheel](https://www.washingtonpost.com/world/2023/07/09/ain-dubai-wheel-real-estate/)
+* [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 
 ## [Archives](archives/index.md)
 

@@ -97,6 +97,7 @@
 * [2023-07-10, 06:47:09](https://news.ycombinator.com/item?id=36662893) - [Docs as Code at Linode (2020)](https://www.linode.com/blog/linode/docs-as-code-at-linode/)
 * [2023-07-10, 06:32:02](https://news.ycombinator.com/item?id=36662820) - [Evernote has laid off most of its US staff and will move operations to Europe](https://www.theverge.com/2023/7/9/23789012/evernote-layoff-us-staff-bending-spoons-note-taking-app)
 * [2023-07-10, 06:01:59](https://news.ycombinator.com/item?id=36662655) - [Show HN: Workout.lol – a web app to easily create a workout routine](https://workout.lol)
+* [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 * [2023-07-10, 05:14:30](https://news.ycombinator.com/item?id=36662392) - [Japanese textile factory still uses tape cassette and punch cards](https://www.youtube.com/watch?v=zWJZFQHklBg)
 * [2023-07-10, 05:13:26](https://news.ycombinator.com/item?id=36662385) - [Mistakes with Rust smart pointers: when Deref goes wrong](https://www.fuzzypixelz.com/blog/deref-confusion/)
 * [2023-07-10, 05:07:40](https://news.ycombinator.com/item?id=36662353) - [Tiny ELF Files: Revisited in 2021](https://nathanotterness.com/2021/10/tiny_elf_modernized.html)

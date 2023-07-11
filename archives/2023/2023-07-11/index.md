@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 18:06:31](https://news.ycombinator.com/item?id=36684866) - [Panflute: Pythonic Pandoc Filters](https://github.com/sergiocorreia/panflute)
 * [2023-07-11, 17:25:21](https://news.ycombinator.com/item?id=36684242) - [UCLA Professor Refuses to Cover for Dan Ariely in Issue of Data Provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
 * [2023-07-11, 17:07:34](https://news.ycombinator.com/item?id=36683938) - [Cancer’s origin story features predictable plot line](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
 * [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
