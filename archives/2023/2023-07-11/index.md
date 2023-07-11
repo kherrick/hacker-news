@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
 * [2023-07-11, 18:56:06](https://news.ycombinator.com/item?id=36685649) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
+* [2023-07-11, 18:46:51](https://news.ycombinator.com/item?id=36685514) - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
 * [2023-07-11, 18:36:18](https://news.ycombinator.com/item?id=36685350) - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
 * [2023-07-11, 18:19:54](https://news.ycombinator.com/item?id=36685115) - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
 * [2023-07-11, 18:19:16](https://news.ycombinator.com/item?id=36685099) - [FBI taps cell phone mic as eavesdropping tool (2006)](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
@@ -21,6 +22,7 @@
 * [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
+* [2023-07-11, 15:38:04](https://news.ycombinator.com/item?id=36682509) - [Newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Google's new metrics: Interaction to Next Paint (INP)](https://web.dev/inp/)
 * [2023-07-11, 15:31:17](https://news.ycombinator.com/item?id=36682403) - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
 * [2023-07-11, 15:15:11](https://news.ycombinator.com/item?id=36682166) - [Shop Class 2.0: Rethinking High School to Accelerate Electrification](https://volted.substack.com/p/rethinking-high-school-to-electrify-everything)
