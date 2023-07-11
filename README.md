@@ -23,11 +23,11 @@
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 12:37:58](https://news.ycombinator.com/item?id=36680131) - [Do painters subconsciously paint themselves into their work?](https://resobscura.substack.com/p/do-painters-subconsciously-paint)
 * [2023-07-11, 11:18:48](https://news.ycombinator.com/item?id=36679368) - [PhotoPrism: AI-powered photos app for the decentralized web](https://github.com/photoprism/photoprism)
-* [2023-07-11, 10:09:57](https://news.ycombinator.com/item?id=36678795) - [Roots of Trust Are Difficult](https://mjg59.dreamwidth.org/66907.html)
 * [2023-07-11, 09:33:12](https://news.ycombinator.com/item?id=36678457) - [Back-end parallelism in the Rust compiler](https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html)
 * [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [2023-07-11, 03:00:19](https://news.ycombinator.com/item?id=36675934) - [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
 * [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
+* [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 10:11:07](https://news.ycombinator.com/item?id=36664186) - [The Great Pendulum](https://hugotunius.se/2023/07/09/the-great-pendulum.html)
 * [2023-07-10, 06:53:42](https://news.ycombinator.com/item?id=36662924) - [The mystery of the Ain Dubai, the world’s largest (broken) Ferris wheel](https://www.washingtonpost.com/world/2023/07/09/ain-dubai-wheel-real-estate/)
 
