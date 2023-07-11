@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-11, 16:55:01",
+      "https://news.ycombinator.com/item?id=36683756"
+    ],
+    [
+      "Intel is quitting on NUC computers",
+      "https://www.theverge.com/2023/7/11/23790956/intel-nuc-compact-pc-discontinued"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 16:21:37",
       "https://news.ycombinator.com/item?id=36683214"
     ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36682468"
     ],
     [
-      "Google's new metrics: Interaction to Next Paint (INP)",
+      "Interaction to Next Paint (INP)",
       "https://web.dev/inp/"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=36682008"
     ],
     [
-      "Introducing Keras Core: Keras for TensorFlow, Jax, and PyTorch",
+      "Keras Core: Keras for TensorFlow, Jax, and PyTorch",
       "https://keras.io/keras_core/announcement/"
     ]
   ],
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36681839"
     ],
     [
-      "What we learned from using GPT for 500k+ classifications",
+      "Classifying customer messages with LLMs vs traditional ML",
       "https://www.trygloo.com/blog/classify-text-llms-learnings"
     ]
   ],
@@ -131,32 +141,12 @@
   ],
   [
     [
-      "2023-07-11, 14:37:14",
-      "https://news.ycombinator.com/item?id=36681597"
-    ],
-    [
-      "IntelliJ Rust",
-      "https://www.jetbrains.com/rust/"
-    ]
-  ],
-  [
-    [
       "2023-07-11, 14:29:35",
       "https://news.ycombinator.com/item?id=36681471"
     ],
     [
       "Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context",
       "https://github.com/clickvote/clickvote"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 14:28:27",
-      "https://news.ycombinator.com/item?id=36681459"
-    ],
-    [
-      "AI Safety and the Age of Dislightenment",
-      "https://www.fast.ai/posts/2023-11-07-dislightenment.html"
     ]
   ],
   [
@@ -201,11 +191,21 @@
   ],
   [
     [
+      "2023-07-11, 12:37:58",
+      "https://news.ycombinator.com/item?id=36680131"
+    ],
+    [
+      "Do painters subconsciously paint themselves into their work?",
+      "https://resobscura.substack.com/p/do-painters-subconsciously-paint"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 11:18:48",
       "https://news.ycombinator.com/item?id=36679368"
     ],
     [
-      "PhotoPrism: Browse Your Life in Pictures",
+      "PhotoPrism: AI-powered photos app for the decentralized web",
       "https://github.com/photoprism/photoprism"
     ]
   ],
