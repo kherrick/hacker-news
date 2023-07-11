@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-10](index.md)
 
+* [2023-07-10, 23:50:08](https://news.ycombinator.com/item?id=36674665) - [Microsoft's Userspace Keylogger Tutorial](https://cohost.org/blep/post/1982850-i-think-microsoft-wi)
+* [2023-07-10, 23:43:43](https://news.ycombinator.com/item?id=36674614) - [Shopify partner payout delayed, zero communications](https://news.ycombinator.com/item?id=36674614)
 * [2023-07-10, 23:30:27](https://news.ycombinator.com/item?id=36674487) - [Frame Generation Essentials: Interpolation, Extrapolation, and Reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 * [2023-07-10, 23:08:32](https://news.ycombinator.com/item?id=36674259) - [Show HN: Learn Japanese by Reading on iOS and macOS (SwiftUI)](https://reader.manabi.io/#page-top)
 * [2023-07-10, 23:05:21](https://news.ycombinator.com/item?id=36674224) - [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
@@ -64,6 +66,7 @@
 * [2023-07-10, 12:16:18](https://news.ycombinator.com/item?id=36665247) - [Harvard ethics prof fabricated multiple behavioral science studies](https://www.thecollegefix.com/harvard-ethics-professor-allegedly-fabricated-multiple-behavioral-science-studies/)
 * [2023-07-10, 11:32:37](https://news.ycombinator.com/item?id=36664909) - [Debate over 'fake work' in tech industry misses the real culprit: lazy managers](https://www.businessinsider.com/tech-industry-fake-work-problem-bad-managers-bosses-layoffs-jobs-2023-7)
 * [2023-07-10, 10:59:47](https://news.ycombinator.com/item?id=36664604) - [Using SVG to create simple sparkline charts](https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/)
+* [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
 * [2023-07-10, 10:28:01](https://news.ycombinator.com/item?id=36664323) - [Prediction: Threads will be shut down in 12 months or less](https://twitter.com/alex_valaitis/status/1678146083145359362)
 * [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
