@@ -26,10 +26,10 @@
 * [2023-07-10, 16:44:09](https://news.ycombinator.com/item?id=36668964) - [Lima: A nice way to run Linux VMs on Mac](https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/)
 * [2023-07-10, 14:36:57](https://news.ycombinator.com/item?id=36667103) - [HyperPhysics (1998)](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html)
 * [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
-* [2023-07-10, 11:05:46](https://news.ycombinator.com/item?id=36664660) - [Feature Flags in Rails: How to Deploy, Test and Manage](https://www.railscarma.com/blog/feature-flags-in-rails-how-to-deploy-test-manage/)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
 * [2023-07-10, 10:34:10](https://news.ycombinator.com/item?id=36664372) - [Hybrid Insect Micro-Electro-Mechanical Systems (Hi-MEMS)](https://en.wikipedia.org/wiki/Hybrid_Insect_Micro-Electro-Mechanical_Systems)
 * [2023-07-10, 06:47:09](https://news.ycombinator.com/item?id=36662893) - [Docs as Code at Linode (2020)](https://www.linode.com/blog/linode/docs-as-code-at-linode/)
+* [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 
 ## [Archives](archives/index.md)
 
