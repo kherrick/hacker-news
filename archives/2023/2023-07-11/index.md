@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 14:30:59](https://news.ycombinator.com/item?id=36681491) - [Solar Energy Solves Global Warming](https://unchartedterritories.tomaspueyo.com/p/solar-energy-solves-global-warming)
+* [2023-07-11, 14:29:35](https://news.ycombinator.com/item?id=36681471) - [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
+* [2023-07-11, 14:28:27](https://news.ycombinator.com/item?id=36681459) - [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
 * [2023-07-11, 14:06:55](https://news.ycombinator.com/item?id=36681178) - [Why ScyllaDB Is Moving to a New Replication Algorithm: Tablets](https://www.scylladb.com/2023/07/10/why-scylladb-is-moving-to-a-new-replication-algorithm-tablets/)
 * [2023-07-11, 14:01:07](https://news.ycombinator.com/item?id=36681101) - [GitHub Profile Achievements](https://cqcumbers.com/github_achievements/)
 * [2023-07-11, 13:57:37](https://news.ycombinator.com/item?id=36681053) - [Mac shipments grow 10%, as all major PC brands see downturns](https://9to5mac.com/2023/07/11/mac-shipments-grow-10-percent/)
 * [2023-07-11, 13:57:16](https://news.ycombinator.com/item?id=36681049) - [Ask HN: When is pure functional programming beneficial?](https://news.ycombinator.com/item?id=36681049)
 * [2023-07-11, 13:45:58](https://news.ycombinator.com/item?id=36680890) - [It is over. GPT-4's details are leaked](https://pastebin.com/npjASbNp)
+* [2023-07-11, 13:41:37](https://news.ycombinator.com/item?id=36680835) - [Laws of UX](https://lawsofux.com/)
 * [2023-07-11, 13:35:58](https://news.ycombinator.com/item?id=36680755) - [Claude 2](https://www.anthropic.com/index/claude-2)
 * [2023-07-11, 13:26:25](https://news.ycombinator.com/item?id=36680639) - [Ask HN: Why do functional programmers hate loops (for, while, etc.)?](https://news.ycombinator.com/item?id=36680639)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
