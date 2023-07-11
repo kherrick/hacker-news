@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE Preserves Choice in Enterprise Linux by Forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
-* [2023-07-11, 08:28:16](https://news.ycombinator.com/item?id=36678009) - [Stripe's Policies Left Us High and Dry This Is Not Fair Trade](https://news.ycombinator.com/item?id=36678009)
+* [2023-07-11, 08:41:22](https://news.ycombinator.com/item?id=36678079) - [SUSE is forking RHEL](https://www.suse.com/news/SUSE-Preserves-Choice-in-Enterprise-Linux/)
 * [2023-07-11, 07:28:55](https://news.ycombinator.com/item?id=36677578) - [New Trans-Atlantic Data Privacy Framework Largely a Copy of “Privacy Shield”](https://noyb.eu/en/european-commission-gives-eu-us-data-transfers-third-round-cjeu)
 * [2023-07-11, 06:16:14](https://news.ycombinator.com/item?id=36677034) - [GPT-Prompt-Engineer](https://github.com/mshumer/gpt-prompt-engineer)
 * [2023-07-11, 05:41:05](https://news.ycombinator.com/item?id=36676810) - [Meta’s Microservice Architecture [pdf]](https://www.usenix.org/system/files/atc23-huye.pdf)
@@ -30,6 +29,7 @@
 * [2023-07-10, 11:05:46](https://news.ycombinator.com/item?id=36664660) - [Feature Flags in Rails: How to Deploy, Test and Manage](https://www.railscarma.com/blog/feature-flags-in-rails-how-to-deploy-test-manage/)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
 * [2023-07-10, 06:47:09](https://news.ycombinator.com/item?id=36662893) - [Docs as Code at Linode (2020)](https://www.linode.com/blog/linode/docs-as-code-at-linode/)
+* [2023-07-09, 00:13:56](https://news.ycombinator.com/item?id=36650062) - [Making a potato livecam with the Commodore 128 VDC and ComputerEyes](http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html)
 
 ## [Archives](archives/index.md)
 
