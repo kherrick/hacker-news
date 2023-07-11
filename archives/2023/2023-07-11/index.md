@@ -6,6 +6,7 @@
 
 * [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A Modern, Pragmatic Forth](https://retroforth.org/)
 * [2023-07-11, 17:01:05](https://news.ycombinator.com/item?id=36683852) - [Tesorio (YC S15) Is Hiring a Head of Marketing – join our 100% remote startup](https://jobs.lever.co/tesorio/10de016f-be07-4707-ac5c-7029f0398a17)
+* [2023-07-11, 16:55:01](https://news.ycombinator.com/item?id=36683756) - [Intel is quitting on NUC computers](https://www.theverge.com/2023/7/11/23790956/intel-nuc-compact-pc-discontinued)
 * [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The Magic of Dependency Resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
@@ -33,6 +34,7 @@
 * [2023-07-11, 13:26:25](https://news.ycombinator.com/item?id=36680639) - [Ask HN: Why do functional programmers hate loops (for, while, etc.)?](https://news.ycombinator.com/item?id=36680639)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 12:43:27](https://news.ycombinator.com/item?id=36680186) - [Fairphone 3 gets seven years of updates, besting every other Android OEM](https://arstechnica.com/gadgets/2023/07/fairphone-3-gets-seven-years-of-updates-besting-every-other-android-oem/)
+* [2023-07-11, 12:37:58](https://news.ycombinator.com/item?id=36680131) - [Do painters subconsciously paint themselves into their work?](https://resobscura.substack.com/p/do-painters-subconsciously-paint)
 * [2023-07-11, 12:18:55](https://news.ycombinator.com/item?id=36679938) - [These are the oldest stone tools ever found in the United States](https://arstechnica.com/science/2023/07/these-are-the-oldest-stone-tools-ever-found-in-the-united-states/)
 * [2023-07-11, 11:39:17](https://news.ycombinator.com/item?id=36679569) - [How Cloudflare Images addressed the aCropalypse vulnerability](https://blog.cloudflare.com/how-cloudflare-images-addressed-the-acropalypse-vulnerability/)
 * [2023-07-11, 11:18:48](https://news.ycombinator.com/item?id=36679368) - [PhotoPrism: Browse Your Life in Pictures](https://github.com/photoprism/photoprism)
