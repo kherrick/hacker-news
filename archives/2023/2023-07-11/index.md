@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 18:19:54](https://news.ycombinator.com/item?id=36685115) - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
 * [2023-07-11, 18:19:16](https://news.ycombinator.com/item?id=36685099) - [FBI taps cell phone mic as eavesdropping tool (2006)](https://www.cnet.com/news/privacy/fbi-taps-cell-phone-mic-as-eavesdropping-tool/)
 * [2023-07-11, 18:15:56](https://news.ycombinator.com/item?id=36685045) - [Nothing Phone (2)](https://us.nothing.tech/pages/phone-2)
 * [2023-07-11, 18:11:07](https://news.ycombinator.com/item?id=36684946) - [QubesOS – A reasonably secure operating system](https://www.qubes-os.org/)
