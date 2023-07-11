@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-10, 23:50:08",
+      "https://news.ycombinator.com/item?id=36674665"
+    ],
+    [
+      "Microsoft's Userspace Keylogger Tutorial",
+      "https://cohost.org/blep/post/1982850-i-think-microsoft-wi"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 23:43:43",
+      "https://news.ycombinator.com/item?id=36674614"
+    ],
+    [
+      "Shopify partner payout delayed, zero communications",
+      "https://news.ycombinator.com/item?id=36674614"
+    ]
+  ],
+  [
+    [
       "2023-07-10, 23:30:27",
       "https://news.ycombinator.com/item?id=36674487"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36674259"
     ],
     [
-      "Show HN: Learn Japanese by Reading on iOS and macOS (SwiftUI)",
+      "Show HN: Manabi Reader – Learn Japanese by Reading on iOS and macOS (SwiftUI)",
       "https://reader.manabi.io/#page-top"
     ]
   ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2023-07-10, 22:49:01",
-      "https://news.ycombinator.com/item?id=36674061"
-    ],
-    [
-      "Did Airbnb kill the PM role?",
-      "https://exponentially.substack.com/p/did-airbnb-kill-the-pm-role"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 22:35:26",
       "https://news.ycombinator.com/item?id=36673945"
     ],
@@ -67,16 +77,6 @@
     [
       "Shortening the Let's Encrypt chain of trust",
       "https://letsencrypt.org/2023/07/10/cross-sign-expiration.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 22:07:15",
-      "https://news.ycombinator.com/item?id=36673653"
-    ],
-    [
-      "US Army Physical Fitness Test: Normative Data on 6022 Soldiers (1994)",
-      "https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA274547.xhtml"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2023-07-10, 15:02:27",
-      "https://news.ycombinator.com/item?id=36667469"
-    ],
-    [
-      "Feature Flags: Theory vs. Reality",
-      "https://bpapillon.com/post/feature-flags-theory-vs-reality/"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 14:55:26",
       "https://news.ycombinator.com/item?id=36667374"
     ],
@@ -267,6 +257,16 @@
     [
       "Easy SVG sparklines",
       "https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/"
+    ]
+  ],
+  [
+    [
+      "2023-07-10, 10:50:38",
+      "https://news.ycombinator.com/item?id=36664509"
+    ],
+    [
+      "Teardown of the TM4313 GPS Disciplined Oscillator",
+      "https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html"
     ]
   ],
   [
