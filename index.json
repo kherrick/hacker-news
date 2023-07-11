@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2023-07-11, 08:28:16",
+      "https://news.ycombinator.com/item?id=36678009"
+    ],
+    [
+      "Stripe's Policies Left Us High and Dry This Is Not Fair Trade",
+      "https://news.ycombinator.com/item?id=36678009"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 07:28:55",
       "https://news.ycombinator.com/item?id=36677578"
     ],
@@ -87,16 +97,6 @@
     [
       "FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]",
       "https://download.vusec.net/papers/floatzone_sec23.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 01:55:05",
-      "https://news.ycombinator.com/item?id=36675564"
-    ],
-    [
-      "Libdns: Core interfaces for universal DNS record manipulation across providers",
-      "https://github.com/libdns/libdns"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-07-09, 00:13:56",
-      "https://news.ycombinator.com/item?id=36650062"
+      "2023-07-10, 06:47:09",
+      "https://news.ycombinator.com/item?id=36662893"
     ],
     [
-      "Making a potato livecam with the Commodore 128 VDC and ComputerEyes",
-      "http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html"
+      "Docs as Code at Linode (2020)",
+      "https://www.linode.com/blog/linode/docs-as-code-at-linode/"
     ]
   ]
 ]
