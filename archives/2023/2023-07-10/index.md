@@ -79,6 +79,7 @@
 * [2023-07-10, 10:34:10](https://news.ycombinator.com/item?id=36664372) - [Hybrid Insect Micro-Electro-Mechanical Systems (Hi-MEMS)](https://en.wikipedia.org/wiki/Hybrid_Insect_Micro-Electro-Mechanical_Systems)
 * [2023-07-10, 10:28:01](https://news.ycombinator.com/item?id=36664323) - [Prediction: Threads will be shut down in 12 months or less](https://twitter.com/alex_valaitis/status/1678146083145359362)
 * [2023-07-10, 10:15:04](https://news.ycombinator.com/item?id=36664221) - [Beyond the Gene (2018) [pdf]](https://nick-lane.net/wp-content/uploads/2020/12/Lane-Nature-review-of-Zimmer.pdf)
+* [2023-07-10, 10:11:07](https://news.ycombinator.com/item?id=36664186) - [The Great Pendulum](https://hugotunius.se/2023/07/09/the-great-pendulum.html)
 * [2023-07-10, 09:58:27](https://news.ycombinator.com/item?id=36664113) - [What’s New in Thunderbird 115](https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/)
 * [2023-07-10, 09:49:18](https://news.ycombinator.com/item?id=36664056) - [Rain Hashes](https://github.com/dosyago/rain)
 * [2023-07-10, 09:31:16](https://news.ycombinator.com/item?id=36663947) - [C++23: The Next C++ Standard](http://modernescpp.com/index.php/c-23-the-next-c-standard)
