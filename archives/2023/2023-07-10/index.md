@@ -56,6 +56,7 @@
 * [2023-07-10, 14:12:02](https://news.ycombinator.com/item?id=36666738) - [World's Largest Selection of Tinned Seafood](https://rainbowtomatoesgarden.com/index.php/choosing-a-tin/)
 * [2023-07-10, 14:10:34](https://news.ycombinator.com/item?id=36666702) - [Shelf – open-source asset management software](https://github.com/Shelf-nu/shelf.nu)
 * [2023-07-10, 13:53:22](https://news.ycombinator.com/item?id=36666456) - [Dashcam images reveal where police are deployed](https://news.cornell.edu/stories/2023/07/dashcam-images-reveal-where-police-are-deployed)
+* [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 13:42:10](https://news.ycombinator.com/item?id=36666286) - [Findly (YC S22) Is Hiring a Founding Front End Engineer (London, UK)](https://www.ycombinator.com/companies/findly/jobs/P34FKAV-senior-frontend-software-engineer)
 * [2023-07-10, 13:39:45](https://news.ycombinator.com/item?id=36666260) - [Hilbert Transform](https://electroagenda.com/en/hilbert-transform/)
 * [2023-07-10, 13:35:47](https://news.ycombinator.com/item?id=36666212) - [Medical LLM testing shows good signs](https://bensbites.beehiiv.com/p/medical-llms-testing-shows-good-signs)

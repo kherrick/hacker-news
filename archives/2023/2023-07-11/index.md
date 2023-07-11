@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
+* [2023-07-11, 05:28:58](https://news.ycombinator.com/item?id=36676737) - [Show HN: Improve Text-to-SQL Accuracy with LLM](https://github.com/csunny/DB-GPT-Hub)
 * [2023-07-11, 04:50:35](https://news.ycombinator.com/item?id=36676538) - [Perfectly good M1 MacBooks are being scrapped because of Activation Lock [video]](https://www.youtube.com/watch?v=94zOFsQJ7lU)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
 * [2023-07-11, 03:37:41](https://news.ycombinator.com/item?id=36676151) - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)

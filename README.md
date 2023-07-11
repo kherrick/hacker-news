@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-11, 04:50:35](https://news.ycombinator.com/item?id=36676538) - [Perfectly good M1 MacBooks are being scrapped because of Activation Lock [video]](https://www.youtube.com/watch?v=94zOFsQJ7lU)
+* [2023-07-11, 05:28:58](https://news.ycombinator.com/item?id=36676737) - [Show HN: Improve Text-to-SQL Accuracy with LLM](https://github.com/csunny/DB-GPT-Hub)
 * [2023-07-11, 04:27:41](https://news.ycombinator.com/item?id=36676415) - [Show HN: Laser, a new game played on a chess board](https://playlaser.xyz)
-* [2023-07-11, 03:37:41](https://news.ycombinator.com/item?id=36676151) - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
 * [2023-07-11, 03:29:39](https://news.ycombinator.com/item?id=36676103) - [After 30 Years, Linux Finally Hits 3% Market Share](https://linuxiac.com/linux-hits-3-percent-market-share/)
 * [2023-07-11, 03:00:19](https://news.ycombinator.com/item?id=36675934) - [GPT-4 details leaked?](https://threadreaderapp.com/thread/1678545170508267522.html)
 * [2023-07-11, 02:28:47](https://news.ycombinator.com/item?id=36675750) - [FloatZone: Accelerating Memory Error Detection Using the Floating Point Unit [pdf]](https://download.vusec.net/papers/floatzone_sec23.pdf)
@@ -26,6 +25,7 @@
 * [2023-07-10, 15:02:27](https://news.ycombinator.com/item?id=36667469) - [Feature Flags: Theory vs. Reality](https://bpapillon.com/post/feature-flags-theory-vs-reality/)
 * [2023-07-10, 14:55:26](https://news.ycombinator.com/item?id=36667374) - [Show HN: Danswer – Open-source question answering across all your docs](https://github.com/danswer-ai/danswer)
 * [2023-07-10, 14:48:55](https://news.ycombinator.com/item?id=36667278) - [A physicist who bets that gravity can’t be quantized](https://www.quantamagazine.org/the-physicist-who-bets-that-gravity-cant-be-quantized-20230710/)
+* [2023-07-10, 13:47:59](https://news.ycombinator.com/item?id=36666380) - [The Perfect Business [pdf]](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
 * [2023-07-10, 10:50:38](https://news.ycombinator.com/item?id=36664509) - [Teardown of the TM4313 GPS Disciplined Oscillator](https://tomverbeure.github.io/2023/07/09/TM4313-GPSDO-Teardown.html)
 * [2023-07-10, 05:04:31](https://news.ycombinator.com/item?id=36662339) - [Fifty years ago, a fire ripped through the National Personnel Records Center](https://www.wired.com/story/the-night-17-million-precious-military-records-went-up-in-smoke/)
 * [2023-07-10, 03:06:47](https://news.ycombinator.com/item?id=36661582) - [Spider mite males undress maturing females to win the first mating](https://phys.org/news/2023-07-spider-mite-males-maturing-females.html)
