@@ -6,6 +6,7 @@
 
 * [2023-07-10, 23:50:08](https://news.ycombinator.com/item?id=36674665) - [Microsoft's Userspace Keylogger Tutorial](https://cohost.org/blep/post/1982850-i-think-microsoft-wi)
 * [2023-07-10, 23:43:43](https://news.ycombinator.com/item?id=36674614) - [Shopify partner payout delayed, zero communications](https://news.ycombinator.com/item?id=36674614)
+* [2023-07-10, 23:42:48](https://news.ycombinator.com/item?id=36674606) - [Letting users block injected third-party DLLs in Firefox](https://hacks.mozilla.org/2023/03/letting-users-block-injected-third-party-dlls-in-firefox/)
 * [2023-07-10, 23:30:27](https://news.ycombinator.com/item?id=36674487) - [Frame Generation Essentials: Interpolation, Extrapolation, and Reprojection](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 * [2023-07-10, 23:08:32](https://news.ycombinator.com/item?id=36674259) - [Show HN: Learn Japanese by Reading on iOS and macOS (SwiftUI)](https://reader.manabi.io/#page-top)
 * [2023-07-10, 23:05:21](https://news.ycombinator.com/item?id=36674224) - [Easy HTTPS for your private networks](https://www.getlocalcert.net/)
