@@ -2,7 +2,6 @@
 
 * [2023-07-11, 18:36:18](https://news.ycombinator.com/item?id=36685350) - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
 * [2023-07-11, 18:19:54](https://news.ycombinator.com/item?id=36685115) - [The Pile: a dataset for language modeling [pdf]](https://arxiv.org/abs/2101.00027)
-* [2023-07-11, 18:15:56](https://news.ycombinator.com/item?id=36685045) - [Nothing Phone (2)](https://us.nothing.tech/pages/phone-2)
 * [2023-07-11, 18:11:07](https://news.ycombinator.com/item?id=36684946) - [QubesOS – A reasonably secure operating system](https://www.qubes-os.org/)
 * [2023-07-11, 17:25:21](https://news.ycombinator.com/item?id=36684242) - [UCLA professor refuses to cover for Dan Ariely in issue of data provenance](https://openmkt.org/blog/2023/ucla-professor-refuses-to-cover-for-dan-ariely-in-issue-of-data-provenance/)
 * [2023-07-11, 17:07:34](https://news.ycombinator.com/item?id=36683938) - [Cancer’s origin story features predictable plot line, researchers find](https://med.stanford.edu/news/all-news/2023/07/pre-cancer-evolution.html)
@@ -11,6 +10,7 @@
 * [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 15:52:48](https://news.ycombinator.com/item?id=36682761) - [Emacs GUI Library](https://andreyor.st/posts/2023-07-11-emacs-gui-library/)
 * [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Interaction to Next Paint (INP)](https://web.dev/inp/)
+* [2023-07-11, 15:06:42](https://news.ycombinator.com/item?id=36682070) - [HTTP vs. WebSockets: Which one is the fastest for Postgres queries at the edge?](https://neon.tech/blog/http-vs-websockets-for-postgres-queries-at-the-edge)
 * [2023-07-11, 15:02:04](https://news.ycombinator.com/item?id=36682008) - [Keras Core: Keras for TensorFlow, Jax, and PyTorch](https://keras.io/keras_core/announcement/)
 * [2023-07-11, 14:55:43](https://news.ycombinator.com/item?id=36681912) - [Firejail: Light, featureful and zero-dependency security sandbox for Linux](https://firejail.wordpress.com/)
 * [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [Classifying customer messages with LLMs vs traditional ML](https://www.trygloo.com/blog/classify-text-llms-learnings)
