@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-11, 09:35:59",
+      "https://news.ycombinator.com/item?id=36678475"
+    ],
+    [
+      "Working memory: metric for state a programmer needs to keep in their head",
+      "https://sourcery.ai/blog/measuring_working_memory/"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 09:20:43",
       "https://news.ycombinator.com/item?id=36678375"
     ],
@@ -287,16 +297,6 @@
     [
       "Docs as Code at Linode (2020)",
       "https://www.linode.com/blog/linode/docs-as-code-at-linode/"
-    ]
-  ],
-  [
-    [
-      "2023-07-09, 00:13:56",
-      "https://news.ycombinator.com/item?id=36650062"
-    ],
-    [
-      "Making a potato livecam with the Commodore 128 VDC and ComputerEyes",
-      "http://oldvcr.blogspot.com/2023/07/making-potato-webcam-with-commodore-128.html"
     ]
   ]
 ]
