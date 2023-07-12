@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
 * [2023-07-11, 23:37:16](https://news.ycombinator.com/item?id=36688612) - [The ad-based internet is dying, and it's getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
+* [2023-07-11, 23:22:14](https://news.ycombinator.com/item?id=36688499) - [Elo for VC – Founder's Choice](https://www.founderschoicevc.com/)
 * [2023-07-11, 22:14:31](https://news.ycombinator.com/item?id=36687970) - [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
 * [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
