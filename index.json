@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-12, 04:00:08",
+      "https://news.ycombinator.com/item?id=36690320"
+    ],
+    [
+      "Chiplet ASIC supercomputers for LLMs like GPT-4",
+      "https://arxiv.org/abs/2307.02666"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 01:51:22",
       "https://news.ycombinator.com/item?id=36689564"
     ],
@@ -197,16 +207,6 @@
     [
       "Microsoft wins FTC fight to buy Activision Blizzard",
       "https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 14:55:43",
-      "https://news.ycombinator.com/item?id=36681912"
-    ],
-    [
-      "Firejail: Light, featureful and zero-dependency security sandbox for Linux",
-      "https://firejail.wordpress.com/"
     ]
   ],
   [
