@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
 * [2023-07-12, 14:07:34](https://news.ycombinator.com/item?id=36694768) - [June Inflation Drops to 3%](https://www.nytimes.com/live/2023/07/12/business/cpi-inflation-fed)
 * [2023-07-12, 14:02:09](https://news.ycombinator.com/item?id=36694686) - [AGI Simulator](https://agi.aitida.com/)
 * [2023-07-12, 14:01:22](https://news.ycombinator.com/item?id=36694676) - [Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
 * [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
+* [2023-07-12, 13:23:46](https://news.ycombinator.com/item?id=36694164) - [Hollywood Studios’ WGA Strike Plan: Let Writers Go Broke, “Lose Apartments”](https://deadline.com/2023/07/writers-strike-hollywood-studios-deal-fight-wga-actors-1235434335/)
 * [2023-07-12, 13:21:23](https://news.ycombinator.com/item?id=36694125) - [How to Solve Your Big Problems, by Solving Your *Real* Problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
 * [2023-07-12, 13:09:01](https://news.ycombinator.com/item?id=36693994) - [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
 * [2023-07-12, 12:57:36](https://news.ycombinator.com/item?id=36693879) - [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)

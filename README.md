@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
 * [2023-07-12, 14:07:34](https://news.ycombinator.com/item?id=36694768) - [June Inflation Drops to 3%](https://www.nytimes.com/live/2023/07/12/business/cpi-inflation-fed)
 * [2023-07-12, 14:02:09](https://news.ycombinator.com/item?id=36694686) - [AGI Simulator](https://agi.aitida.com/)
 * [2023-07-12, 14:01:22](https://news.ycombinator.com/item?id=36694676) - [Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
 * [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
+* [2023-07-12, 13:23:46](https://news.ycombinator.com/item?id=36694164) - [Hollywood Studios’ WGA Strike Plan: Let Writers Go Broke, “Lose Apartments”](https://deadline.com/2023/07/writers-strike-hollywood-studios-deal-fight-wga-actors-1235434335/)
 * [2023-07-12, 13:21:23](https://news.ycombinator.com/item?id=36694125) - [How to solve your big problems, by solving your real problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
 * [2023-07-12, 13:09:01](https://news.ycombinator.com/item?id=36693994) - [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
-* [2023-07-12, 12:57:36](https://news.ycombinator.com/item?id=36693879) - [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)
 * [2023-07-12, 12:47:20](https://news.ycombinator.com/item?id=36693759) - [Nour: Play with Your Food (from Panic)](https://food.game/)
 * [2023-07-12, 12:00:02](https://news.ycombinator.com/item?id=36693286) - [GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-07-12, 11:54:58](https://news.ycombinator.com/item?id=36693239) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
@@ -28,7 +29,6 @@
 * [2023-07-11, 03:25:43](https://news.ycombinator.com/item?id=36676080) - [Grave of a man who never was (2015)](https://www.atlasobscura.com/places/grave-of-the-man-who-never-was)
 * [2023-07-10, 22:49:56](https://news.ycombinator.com/item?id=36674076) - [Proof you can do hard things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)
 * [2023-07-10, 22:11:01](https://news.ycombinator.com/item?id=36673714) - [Introduction to vector similarity search (2022)](https://zilliz.com/blog/vector-similarity-search)
-* [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
 * [2023-07-10, 07:18:34](https://news.ycombinator.com/item?id=36663061) - [Counting Sheep on the Chajnantor Plateau](https://eso.org/public/images/potw2328a/)
 
 ## [Archives](archives/index.md)
