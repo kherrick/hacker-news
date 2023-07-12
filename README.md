@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-12, 08:37:11](https://news.ycombinator.com/item?id=36691867) - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
+* [2023-07-12, 06:14:58](https://news.ycombinator.com/item?id=36691006) - [Show HN: Local First Hugo CMS](https://quiqr.org)
 * [2023-07-12, 05:53:54](https://news.ycombinator.com/item?id=36690895) - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 04:35:06](https://news.ycombinator.com/item?id=36690516) - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
@@ -16,12 +17,12 @@
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
 * [2023-07-11, 20:17:48](https://news.ycombinator.com/item?id=36686672) - [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
 * [2023-07-11, 18:56:06](https://news.ycombinator.com/item?id=36685649) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
-* [2023-07-11, 18:19:54](https://news.ycombinator.com/item?id=36685115) - [The Pile: An 800GB dataset of diverse text for language modeling (2020)](https://arxiv.org/abs/2101.00027)
-* [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
+* [2023-07-11, 18:46:51](https://news.ycombinator.com/item?id=36685514) - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The magic of dependency resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:38:04](https://news.ycombinator.com/item?id=36682509) - [Newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 15:31:17](https://news.ycombinator.com/item?id=36682403) - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
+* [2023-07-11, 12:37:58](https://news.ycombinator.com/item?id=36680131) - [Do painters subconsciously paint themselves into their work?](https://resobscura.substack.com/p/do-painters-subconsciously-paint)
 * [2023-07-11, 03:37:41](https://news.ycombinator.com/item?id=36676151) - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
 * [2023-07-11, 03:25:43](https://news.ycombinator.com/item?id=36676080) - [Grave of a man who never was (2015)](https://www.atlasobscura.com/places/grave-of-the-man-who-never-was)
 * [2023-07-10, 22:49:56](https://news.ycombinator.com/item?id=36674076) - [Proof you can do hard things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)
@@ -29,7 +30,6 @@
 * [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
 * [2023-07-10, 15:55:15](https://news.ycombinator.com/item?id=36668218) - [Echoes of Eco in His Library](https://www.the-tls.co.uk/articles/umberto-eco-a-library-of-the-world-film-review-irina-dumitrescu/)
 * [2023-07-10, 07:18:34](https://news.ycombinator.com/item?id=36663061) - [Counting Sheep on the Chajnantor Plateau](https://eso.org/public/images/potw2328a/)
-* [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 
 ## [Archives](archives/index.md)
 
