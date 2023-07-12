@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
 * [2023-07-12, 19:06:17](https://news.ycombinator.com/item?id=36700076) - [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 18:43:28](https://news.ycombinator.com/item?id=36699738) - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
@@ -25,7 +26,6 @@
 * [2023-07-12, 10:39:24](https://news.ycombinator.com/item?id=36692620) - [Istanbul's blue tile paradise](https://onthearts.com/p/istanbuls-blue-tile-paradise)
 * [2023-07-12, 10:11:13](https://news.ycombinator.com/item?id=36692450) - [TimeMaps (2017)](https://vincentmeertens.com/project/timemaps/)
 * [2023-07-12, 04:49:54](https://news.ycombinator.com/item?id=36690578) - [Hannie Schaft, resistance fighter during World War II](https://www.nytimes.com/2023/07/07/obituaries/hannie-schaft-overlooked.html)
-* [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's first prototype for immutable region borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
 * [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [Spirograph Inventor Denys Fisher (1977) [video]](https://laughingsquid.com/denys-fisher-spirograph-1977/)
