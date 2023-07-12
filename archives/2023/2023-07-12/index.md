@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 12:00:02](https://news.ycombinator.com/item?id=36693286) - [GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2023-07-12, 11:54:58](https://news.ycombinator.com/item?id=36693239) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
+* [2023-07-12, 11:43:40](https://news.ycombinator.com/item?id=36693109) - [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
 * [2023-07-12, 10:11:13](https://news.ycombinator.com/item?id=36692450) - [TimeMaps](https://vincentmeertens.com/project/timemaps/)
 * [2023-07-12, 09:08:29](https://news.ycombinator.com/item?id=36692047) - [Threads: The BBC drama which affected a generation of viewers](https://www.bbc.com/news/uk-england-south-yorkshire-66122775)
 * [2023-07-12, 08:37:11](https://news.ycombinator.com/item?id=36691867) - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)

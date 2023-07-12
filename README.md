@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 12:00:02](https://news.ycombinator.com/item?id=36693286) - [GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
+* [2023-07-12, 11:54:58](https://news.ycombinator.com/item?id=36693239) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
+* [2023-07-12, 11:43:40](https://news.ycombinator.com/item?id=36693109) - [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
 * [2023-07-12, 10:11:13](https://news.ycombinator.com/item?id=36692450) - [TimeMaps](https://vincentmeertens.com/project/timemaps/)
 * [2023-07-12, 09:08:29](https://news.ycombinator.com/item?id=36692047) - [Threads: The BBC drama which affected a generation of viewers](https://www.bbc.com/news/uk-england-south-yorkshire-66122775)
 * [2023-07-12, 08:37:11](https://news.ycombinator.com/item?id=36691867) - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
@@ -16,9 +19,6 @@
 * [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
-* [2023-07-11, 20:17:48](https://news.ycombinator.com/item?id=36686672) - [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
-* [2023-07-11, 18:56:06](https://news.ycombinator.com/item?id=36685649) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
-* [2023-07-11, 18:46:51](https://news.ycombinator.com/item?id=36685514) - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The magic of dependency resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:38:04](https://news.ycombinator.com/item?id=36682509) - [Newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
