@@ -10,6 +10,7 @@
 * [2023-07-12, 19:06:17](https://news.ycombinator.com/item?id=36700076) - [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 18:54:24](https://news.ycombinator.com/item?id=36699899) - [Schizoid Personality Disorder](https://en.wikipedia.org/wiki/Schizoid_personality_disorder)
 * [2023-07-12, 18:43:28](https://news.ycombinator.com/item?id=36699738) - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
+* [2023-07-12, 18:21:38](https://news.ycombinator.com/item?id=36699331) - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)
 * [2023-07-12, 18:21:28](https://news.ycombinator.com/item?id=36699327) - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 * [2023-07-12, 18:03:31](https://news.ycombinator.com/item?id=36698981) - [Why just blocking Meta's Threads won't be enough](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
