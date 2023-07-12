@@ -1,6 +1,66 @@
 [
   [
     [
+      "2023-07-12, 17:00:24",
+      "https://news.ycombinator.com/item?id=36697741"
+    ],
+    [
+      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 16:57:51",
+      "https://news.ycombinator.com/item?id=36697693"
+    ],
+    [
+      "Istio moved to CNCF Graduation stage",
+      "https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 16:55:36",
+      "https://news.ycombinator.com/item?id=36697646"
+    ],
+    [
+      "Going Beyond ‘Do You Know of Any Open Positions?’",
+      "https://www.dewanahmed.com/do-you-know-of-any-open-positions/"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 16:53:48",
+      "https://news.ycombinator.com/item?id=36697595"
+    ],
+    [
+      "Show HN: Floneum, a graph editor for local AI workflows",
+      "https://floneum.com/blog/anouncing_floneum/"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 16:52:46",
+      "https://news.ycombinator.com/item?id=36697580"
+    ],
+    [
+      "The Barbie-Oppenheimer Double Feature Is Happening, Data Shows",
+      "https://www.bnnbloomberg.ca/the-barbie-oppenheimer-double-feature-is-really-happening-data-shows-1.1944290"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 16:51:43",
+      "https://news.ycombinator.com/item?id=36697554"
+    ],
+    [
+      "Ask HN: What's the current job market and sentiment like for outsourcing shops?",
+      "https://news.ycombinator.com/item?id=36697554"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 16:32:47",
       "https://news.ycombinator.com/item?id=36697191"
     ],
@@ -37,6 +97,16 @@
     [
       "Inngest raises $3M seed to build the reliable workflow platform for every dev",
       "https://www.inngest.com/blog/announcing-inngest-seed-financing"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 16:04:46",
+      "https://news.ycombinator.com/item?id=36696673"
+    ],
+    [
+      "DoD Funded: Characterizing and Identifying Shills in Social Media (2017) [pdf]",
+      "http://sbp-brims.org/2017/proceedings/papers/ShortPapers/CharacterizingandIdentifying.pdf"
     ]
   ],
   [
@@ -151,52 +221,12 @@
   ],
   [
     [
-      "2023-07-12, 13:09:01",
-      "https://news.ycombinator.com/item?id=36693994"
-    ],
-    [
-      "Calls to investigate tax sites for sharing financial information with Meta",
-      "https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel"
-    ]
-  ],
-  [
-    [
       "2023-07-12, 12:01:05",
       "https://news.ycombinator.com/item?id=36693297"
     ],
     [
       "Lifers, Dayjobbers, and the Independently Wealthy: A Letter to a Former Student",
       "https://klangmag.co/lifers-dayjobbers-and-the-independently-wealthy-a-letter-to-a-former-student/"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 12:00:02",
-      "https://news.ycombinator.com/item?id=36693286"
-    ],
-    [
-      "GiveCampus (YC S15) Hiring Rails engineers who care about education",
-      "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 11:54:58",
-      "https://news.ycombinator.com/item?id=36693239"
-    ],
-    [
-      "Serverless Semantic Search, Free tier only",
-      "https://qdrant.tech/articles/serverless/"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 11:43:40",
-      "https://news.ycombinator.com/item?id=36693109"
-    ],
-    [
-      "Bcachefs File-System Plans to Try Again to Land in Linux 6.6",
-      "https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6"
     ]
   ],
   [
@@ -221,12 +251,12 @@
   ],
   [
     [
-      "2023-07-12, 09:08:29",
-      "https://news.ycombinator.com/item?id=36692047"
+      "2023-07-12, 04:49:54",
+      "https://news.ycombinator.com/item?id=36690578"
     ],
     [
-      "Threads: The BBC drama which affected a generation of viewers",
-      "https://www.bbc.com/news/uk-england-south-yorkshire-66122775"
+      "Overlooked No More: Hannie Schaft, Resistance Fighter During World War II",
+      "https://www.nytimes.com/2023/07/07/obituaries/hannie-schaft-overlooked.html"
     ]
   ],
   [
@@ -237,16 +267,6 @@
     [
       "Vale's first prototype for immutable region borrowing",
       "https://verdagon.dev/blog/first-regions-prototype"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 04:35:06",
-      "https://news.ycombinator.com/item?id=36690516"
-    ],
-    [
-      "Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]",
-      "https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Commit Mono – Neutral programming typeface",
       "https://commitmono.com/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 20:33:10",
-      "https://news.ycombinator.com/item?id=36686857"
-    ],
-    [
-      "Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly",
-      "https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 14:21:07",
-      "https://news.ycombinator.com/item?id=36681359"
-    ],
-    [
-      "1977 BBC Profile of Spirograph Inventor Denys Fisher",
-      "https://laughingsquid.com/denys-fisher-spirograph-1977/"
     ]
   ]
 ]
