@@ -29,6 +29,7 @@
 * [2023-07-10, 20:28:16](https://news.ycombinator.com/item?id=36672486) - [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
 * [2023-07-10, 20:24:58](https://news.ycombinator.com/item?id=36672447) - [Postmortem: Co-founding a Web3 startup as a crypto sckeptic young dev](https://anicetnougaret.fr/blog/farswap-xp)
 * [2023-07-10, 20:21:21](https://news.ycombinator.com/item?id=36672390) - [A Case Study on Fuzzing Satellite Firmware [pdf]](https://www.ndss-symposium.org/wp-content/uploads/2023/06/spacesec2023-230707-paper.pdf)
+* [2023-07-10, 20:12:57](https://news.ycombinator.com/item?id=36672288) - [Was Richard III a Bad King?](https://www.historytoday.com/archive/head-head/was-richard-iii-bad-king)
 * [2023-07-10, 20:11:57](https://news.ycombinator.com/item?id=36672277) - [OpenAI: Superintelligence could arrive this decade](https://openai.com/blog/introducing-superalignment#fn-A:~:text=we%20believe%20it%20could%20arrive%20this%20decade)
 * [2023-07-10, 20:05:10](https://news.ycombinator.com/item?id=36672192) - [Linoleic acid–good or bad for the brain?](https://www.nature.com/articles/s41538-019-0061-9)
 * [2023-07-10, 20:04:29](https://news.ycombinator.com/item?id=36672183) - [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
