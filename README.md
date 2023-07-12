@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-12, 07:49:03](https://news.ycombinator.com/item?id=36691546) - [Thunderbird 115 Now Available and It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
+* [2023-07-12, 08:37:11](https://news.ycombinator.com/item?id=36691867) - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
 * [2023-07-12, 05:53:54](https://news.ycombinator.com/item?id=36690895) - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 04:35:06](https://news.ycombinator.com/item?id=36690516) - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
