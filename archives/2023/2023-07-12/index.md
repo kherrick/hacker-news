@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 22:51:16](https://news.ycombinator.com/item?id=36702731) - [Xenia: Xbox 360 Emulator](https://xenia.jp/)
 * [2023-07-12, 22:35:11](https://news.ycombinator.com/item?id=36702603) - [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
 * [2023-07-12, 21:42:34](https://news.ycombinator.com/item?id=36702084) - [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
 * [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
@@ -49,6 +50,7 @@
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
 * [2023-07-12, 14:59:41](https://news.ycombinator.com/item?id=36695542) - [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-12, 14:49:42](https://news.ycombinator.com/item?id=36695394) - [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)
+* [2023-07-12, 14:43:03](https://news.ycombinator.com/item?id=36695284) - [The aloha shirt has many possible inventors](https://www.atlasobscura.com/articles/history-of-aloha-hawaiian-shirt)
 * [2023-07-12, 14:37:34](https://news.ycombinator.com/item?id=36695189) - [Bank of Canada raises its interest rate to 5%](https://www.cbc.ca/news/business/bank-of-canada-july-meeting-1.6904330)
 * [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
 * [2023-07-12, 14:07:34](https://news.ycombinator.com/item?id=36694768) - [June Inflation Drops to 3%](https://www.nytimes.com/live/2023/07/12/business/cpi-inflation-fed)
