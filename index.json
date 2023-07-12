@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 04:44:49",
+      "https://news.ycombinator.com/item?id=36690556"
+    ],
+    [
+      "Vale's First Prototype for Immutable Region Borrowing",
+      "https://verdagon.dev/blog/first-regions-prototype"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 04:35:06",
       "https://news.ycombinator.com/item?id=36690516"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2023-07-11, 14:55:43",
+      "https://news.ycombinator.com/item?id=36681912"
+    ],
+    [
+      "Firejail: Light, featureful and zero-dependency security sandbox for Linux",
+      "https://firejail.wordpress.com/"
+    ]
+  ],
+  [
+    [
       "2023-07-11, 14:51:19",
       "https://news.ycombinator.com/item?id=36681839"
     ],
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2023-07-11, 13:29:34",
-      "https://news.ycombinator.com/item?id=36680674"
+      "2023-07-11, 13:35:58",
+      "https://news.ycombinator.com/item?id=36680755"
     ],
     [
-      "Intel exiting the PC business as it stops investment in the Intel NUC",
-      "https://www.servethehome.com/intel-exiting-the-pc-business-as-it-stops-investment-in-the-intel-nuc/"
+      "Claude 2",
+      "https://www.anthropic.com/index/claude-2"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "Introduction to vector similarity search (2022)",
       "https://zilliz.com/blog/vector-similarity-search"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 21:35:34",
-      "https://news.ycombinator.com/item?id=36673288"
-    ],
-    [
-      "The LSD Museum (2021)",
-      "https://www.openculture.com/2021/08/take-a-trip-to-the-lsd-museum-the-largest-collection-of-blotter-art-in-the-world.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 09:31:16",
-      "https://news.ycombinator.com/item?id=36663947"
-    ],
-    [
-      "C++23: The Next C++ Standard",
-      "http://modernescpp.com/index.php/c-23-the-next-c-standard"
     ]
   ],
   [
