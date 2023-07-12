@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 10:11:13](https://news.ycombinator.com/item?id=36692450) - [TimeMaps](https://vincentmeertens.com/project/timemaps/)
 * [2023-07-12, 09:08:29](https://news.ycombinator.com/item?id=36692047) - [Threads: The BBC drama which affected a generation of viewers](https://www.bbc.com/news/uk-england-south-yorkshire-66122775)
 * [2023-07-12, 08:37:11](https://news.ycombinator.com/item?id=36691867) - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
 * [2023-07-12, 05:53:54](https://news.ycombinator.com/item?id=36690895) - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
@@ -22,7 +23,6 @@
 * [2023-07-11, 16:03:52](https://news.ycombinator.com/item?id=36682961) - [The magic of dependency resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 * [2023-07-11, 15:38:04](https://news.ycombinator.com/item?id=36682509) - [Newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
-* [2023-07-11, 12:37:58](https://news.ycombinator.com/item?id=36680131) - [Do painters subconsciously paint themselves into their work?](https://resobscura.substack.com/p/do-painters-subconsciously-paint)
 * [2023-07-11, 03:37:41](https://news.ycombinator.com/item?id=36676151) - [Growing Rat Neurons to Play Video Games [video]](https://www.youtube.com/watch?v=bEXefdbQDjw)
 * [2023-07-11, 03:25:43](https://news.ycombinator.com/item?id=36676080) - [Grave of a man who never was (2015)](https://www.atlasobscura.com/places/grave-of-the-man-who-never-was)
 * [2023-07-10, 22:49:56](https://news.ycombinator.com/item?id=36674076) - [Proof you can do hard things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)

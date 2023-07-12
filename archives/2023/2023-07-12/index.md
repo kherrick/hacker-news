@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 10:11:13](https://news.ycombinator.com/item?id=36692450) - [TimeMaps](https://vincentmeertens.com/project/timemaps/)
 * [2023-07-12, 09:08:29](https://news.ycombinator.com/item?id=36692047) - [Threads: The BBC drama which affected a generation of viewers](https://www.bbc.com/news/uk-england-south-yorkshire-66122775)
 * [2023-07-12, 08:37:11](https://news.ycombinator.com/item?id=36691867) - [I Am Leaving](https://briefs.video/videos/i-am-leaving/)
 * [2023-07-12, 07:49:03](https://news.ycombinator.com/item?id=36691546) - [Thunderbird 115 Now Available and It Looks Fantastic](https://www.phoronix.com/news/Thunderbird-115)
