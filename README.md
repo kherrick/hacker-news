@@ -2,6 +2,7 @@
 
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 04:35:06](https://news.ycombinator.com/item?id=36690516) - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
+* [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 * [2023-07-12, 01:51:22](https://news.ycombinator.com/item?id=36689564) - [The English Programming Language](https://github.com/theletterf/english-lang)
 * [2023-07-12, 01:42:15](https://news.ycombinator.com/item?id=36689503) - [How the design of Disney parks affects our perspective (2020)](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
 * [2023-07-12, 01:37:57](https://news.ycombinator.com/item?id=36689463) - [Birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
@@ -20,7 +21,6 @@
 * [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Interaction to Next Paint (INP)](https://web.dev/inp/)
 * [2023-07-11, 15:31:17](https://news.ycombinator.com/item?id=36682403) - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
 * [2023-07-11, 15:12:30](https://news.ycombinator.com/item?id=36682139) - [Microsoft wins FTC fight to buy Activision Blizzard](https://www.theverge.com/2023/7/11/23779039/microsoft-activision-blizzard-ftc-trial-win)
-* [2023-07-11, 14:55:43](https://news.ycombinator.com/item?id=36681912) - [Firejail: Light, featureful and zero-dependency security sandbox for Linux](https://firejail.wordpress.com/)
 * [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [Classifying customer messages with LLMs vs traditional ML](https://www.trygloo.com/blog/classify-text-llms-learnings)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
