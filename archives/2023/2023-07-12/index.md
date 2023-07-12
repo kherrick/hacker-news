@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 13:09:01](https://news.ycombinator.com/item?id=36693994) - [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
 * [2023-07-12, 12:00:02](https://news.ycombinator.com/item?id=36693286) - [GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-07-12, 11:54:58](https://news.ycombinator.com/item?id=36693239) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
 * [2023-07-12, 11:43:40](https://news.ycombinator.com/item?id=36693109) - [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
