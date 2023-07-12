@@ -2,7 +2,6 @@
 
 * [2023-07-12, 01:51:22](https://news.ycombinator.com/item?id=36689564) - [The English Programming Language](https://github.com/theletterf/english-lang)
 * [2023-07-12, 01:34:40](https://news.ycombinator.com/item?id=36689446) - [Dr. Gwynne Dyer – Geopolitics in a Hotter World – UBC Talk Transcribed (2010)](https://spaswell.wordpress.com/2016/11/18/dr-gwynne-dyer-geopolitics-in-a-hotter-world-ubc-talk-transcribed-sept-2010/)
-* [2023-07-11, 23:37:16](https://news.ycombinator.com/item?id=36688612) - [The ad-based internet is dying, and it's getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
 * [2023-07-11, 23:22:14](https://news.ycombinator.com/item?id=36688499) - [Elo for VC – Founder's Choice](https://www.founderschoicevc.com/)
 * [2023-07-11, 22:14:31](https://news.ycombinator.com/item?id=36687970) - [Breaking java.lang.String](https://wouter.coekaerts.be/2023/breaking-string)
 * [2023-07-11, 21:38:40](https://news.ycombinator.com/item?id=36687588) - [Darwin: A framework for evolving decentralized web apps](https://evolutionary.arweave.dev/)
@@ -21,6 +20,7 @@
 * [2023-07-11, 14:55:43](https://news.ycombinator.com/item?id=36681912) - [Firejail: Light, featureful and zero-dependency security sandbox for Linux](https://firejail.wordpress.com/)
 * [2023-07-11, 14:51:19](https://news.ycombinator.com/item?id=36681839) - [Classifying customer messages with LLMs vs traditional ML](https://www.trygloo.com/blog/classify-text-llms-learnings)
 * [2023-07-11, 14:50:23](https://news.ycombinator.com/item?id=36681814) - [Displayport: A Better Video Interface](https://hackaday.com/2023/07/11/displayport-a-better-video-interface/)
+* [2023-07-11, 13:35:58](https://news.ycombinator.com/item?id=36680755) - [Claude 2](https://www.anthropic.com/index/claude-2)
 * [2023-07-11, 13:29:34](https://news.ycombinator.com/item?id=36680674) - [Intel exiting the PC business as it stops investment in the Intel NUC](https://www.servethehome.com/intel-exiting-the-pc-business-as-it-stops-investment-in-the-intel-nuc/)
 * [2023-07-11, 13:15:49](https://news.ycombinator.com/item?id=36680535) - [We put a distributed database in the browser and made a game of it](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/)
 * [2023-07-11, 12:37:58](https://news.ycombinator.com/item?id=36680131) - [Do painters subconsciously paint themselves into their work?](https://resobscura.substack.com/p/do-painters-subconsciously-paint)
