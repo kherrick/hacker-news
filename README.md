@@ -2,6 +2,7 @@
 
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 04:35:06](https://news.ycombinator.com/item?id=36690516) - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
+* [2023-07-12, 04:31:18](https://news.ycombinator.com/item?id=36690498) - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 * [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 * [2023-07-12, 01:51:22](https://news.ycombinator.com/item?id=36689564) - [The English Programming Language](https://github.com/theletterf/english-lang)
 * [2023-07-12, 01:42:15](https://news.ycombinator.com/item?id=36689503) - [How the design of Disney parks affects our perspective (2020)](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
@@ -28,7 +29,6 @@
 * [2023-07-11, 03:25:43](https://news.ycombinator.com/item?id=36676080) - [Grave of a man who never was (2015)](https://www.atlasobscura.com/places/grave-of-the-man-who-never-was)
 * [2023-07-10, 22:49:56](https://news.ycombinator.com/item?id=36674076) - [Proof you can do hard things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)
 * [2023-07-10, 22:11:01](https://news.ycombinator.com/item?id=36673714) - [Introduction to vector similarity search (2022)](https://zilliz.com/blog/vector-similarity-search)
-* [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
 * [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 
 ## [Archives](archives/index.md)

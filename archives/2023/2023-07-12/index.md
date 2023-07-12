@@ -6,6 +6,7 @@
 
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 04:35:06](https://news.ycombinator.com/item?id=36690516) - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
+* [2023-07-12, 04:31:18](https://news.ycombinator.com/item?id=36690498) - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 * [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 * [2023-07-12, 01:51:22](https://news.ycombinator.com/item?id=36689564) - [The English Programming Language](https://github.com/theletterf/english-lang)
 * [2023-07-12, 01:42:15](https://news.ycombinator.com/item?id=36689503) - [How the design of Disney parks affects our perspective](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
