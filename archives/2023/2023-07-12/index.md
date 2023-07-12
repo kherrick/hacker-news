@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 15:12:17](https://news.ycombinator.com/item?id=36695738) - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
 * [2023-07-12, 15:06:03](https://news.ycombinator.com/item?id=36695635) - [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
+* [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
 * [2023-07-12, 14:59:41](https://news.ycombinator.com/item?id=36695542) - [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-12, 14:49:42](https://news.ycombinator.com/item?id=36695394) - [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)
 * [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
@@ -17,6 +19,7 @@
 * [2023-07-12, 13:09:01](https://news.ycombinator.com/item?id=36693994) - [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
 * [2023-07-12, 12:57:36](https://news.ycombinator.com/item?id=36693879) - [Starlink satellites are dodging objects in orbit thousands of times every month](https://techcrunch.com/2023/07/10/starlink-satellites-are-dodging-objects-in-orbit-thousands-of-times-every-month/)
 * [2023-07-12, 12:47:20](https://news.ycombinator.com/item?id=36693759) - [Nour: Play with Your Food (from Panic)](https://food.game/)
+* [2023-07-12, 12:01:05](https://news.ycombinator.com/item?id=36693297) - [Lifers, Dayjobbers, and the Independently Wealthy: A Letter to a Former Student](https://klangmag.co/lifers-dayjobbers-and-the-independently-wealthy-a-letter-to-a-former-student/)
 * [2023-07-12, 12:00:02](https://news.ycombinator.com/item?id=36693286) - [GiveCampus (YC S15) Hiring Rails engineers who care about education](https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915)
 * [2023-07-12, 11:54:58](https://news.ycombinator.com/item?id=36693239) - [Serverless Semantic Search, Free tier only](https://qdrant.tech/articles/serverless/)
 * [2023-07-12, 11:43:40](https://news.ycombinator.com/item?id=36693109) - [Bcachefs File-System Plans to Try Again to Land in Linux 6.6](https://www.phoronix.com/news/Bcachefs-Plans-For-Linux-6.6)
