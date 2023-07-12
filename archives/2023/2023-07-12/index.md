@@ -6,6 +6,7 @@
 
 * [2023-07-12, 20:33:33](https://news.ycombinator.com/item?id=36701250) - [Chemically induced reprogramming to reverse cellular aging](https://www.aging-us.com/article/204896/text)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
+* [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
 * [2023-07-12, 19:27:57](https://news.ycombinator.com/item?id=36700363) - [System Shock Remake](https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet)
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
 * [2023-07-12, 19:06:17](https://news.ycombinator.com/item?id=36700076) - [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)

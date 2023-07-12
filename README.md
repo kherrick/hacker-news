@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
+* [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
 * [2023-07-12, 19:27:57](https://news.ycombinator.com/item?id=36700363) - [System Shock remake](https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet)
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The problem with the “everything for everyone” approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
-* [2023-07-12, 19:06:17](https://news.ycombinator.com/item?id=36700076) - [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 18:45:59](https://news.ycombinator.com/item?id=36699780) - [Show HN: AI companions stack – create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 * [2023-07-12, 18:43:28](https://news.ycombinator.com/item?id=36699738) - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
 * [2023-07-12, 18:21:38](https://news.ycombinator.com/item?id=36699331) - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)
@@ -17,7 +17,7 @@
 * [2023-07-12, 16:41:08](https://news.ycombinator.com/item?id=36697366) - [Pines – Alpine and Tailwind UI Library](https://devdojo.com/pines)
 * [2023-07-12, 16:29:12](https://news.ycombinator.com/item?id=36697119) - [NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
 * [2023-07-12, 16:18:00](https://news.ycombinator.com/item?id=36696920) - [How will ATSC 3.0 transform TV advertising?](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
-* [2023-07-12, 15:35:22](https://news.ycombinator.com/item?id=36696127) - [“Computer security 80% solved if we deprecate technology shown in this graphic”](https://twitter.com/matthew_d_green/status/1679135426806784004)
+* [2023-07-12, 16:04:46](https://news.ycombinator.com/item?id=36696673) - [Characterizing and identifying shills in social media (2017) [pdf]](http://sbp-brims.org/2017/proceedings/papers/ShortPapers/CharacterizingandIdentifying.pdf)
 * [2023-07-12, 15:12:17](https://news.ycombinator.com/item?id=36695738) - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
 * [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [BeagleV-Ahead RISC-V board](https://beagleboard.org/beaglev-ahead)
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
@@ -27,7 +27,7 @@
 * [2023-07-12, 04:49:54](https://news.ycombinator.com/item?id=36690578) - [Hannie Schaft, resistance fighter during World War II](https://www.nytimes.com/2023/07/07/obituaries/hannie-schaft-overlooked.html)
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
-* [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [Spirograph Inventor Denys Fisher (1977) [video]](https://laughingsquid.com/denys-fisher-spirograph-1977/)
+* [2023-07-11, 15:52:17](https://news.ycombinator.com/item?id=36682746) - [Tell HN: LinkedIn banned me because of my avatar, in the middle of my fundraise](https://news.ycombinator.com/item?id=36682746)
 * [2023-07-11, 05:57:32](https://news.ycombinator.com/item?id=36676911) - [How Milwaukee Is Celebrating the Typewriter’s Long, Local History](https://www.atlasobscura.com/articles/typewriter-invented-in-milwaukee-qwerty-keyboard-history)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
