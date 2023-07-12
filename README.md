@@ -19,6 +19,7 @@
 * [2023-07-12, 16:29:12](https://news.ycombinator.com/item?id=36697119) - [NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
 * [2023-07-12, 16:18:00](https://news.ycombinator.com/item?id=36696920) - [How will ATSC 3.0 transform TV advertising?](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
 * [2023-07-12, 16:04:46](https://news.ycombinator.com/item?id=36696673) - [Characterizing and identifying shills in social media (2017) [pdf]](http://sbp-brims.org/2017/proceedings/papers/ShortPapers/CharacterizingandIdentifying.pdf)
+* [2023-07-12, 15:12:17](https://news.ycombinator.com/item?id=36695738) - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
 * [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [BeagleV-Ahead RISC-V board](https://beagleboard.org/beaglev-ahead)
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
 * [2023-07-12, 13:35:57](https://news.ycombinator.com/item?id=36694308) - [Can Chess, with Hexagons? [video]](https://www.youtube.com/watch?v=bgR3yESAEVE)
@@ -28,7 +29,6 @@
 * [2023-07-12, 02:50:35](https://news.ycombinator.com/item?id=36689916) - [When a Simple Blue Light Was the Hot New Anaesthetic in Dentistry](https://paleofuture.com/blog/2023/7/6/when-blue-light-was-the-hot-new-anaesthetic)
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
-* [2023-07-11, 05:57:32](https://news.ycombinator.com/item?id=36676911) - [How Milwaukee Is Celebrating the Typewriter’s Long, Local History](https://www.atlasobscura.com/articles/typewriter-invented-in-milwaukee-qwerty-keyboard-history)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
 ## [Archives](archives/index.md)
