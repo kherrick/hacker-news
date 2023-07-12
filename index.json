@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-12, 07:49:03",
+      "https://news.ycombinator.com/item?id=36691546"
+    ],
+    [
+      "Thunderbird 115 Now Available and It Looks Fantastic",
+      "https://www.phoronix.com/news/Thunderbird-115"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 05:53:54",
       "https://news.ycombinator.com/item?id=36690895"
     ],
@@ -157,16 +167,6 @@
     [
       "Storing Data in Control Flow",
       "https://research.swtch.com/pcdata"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 18:46:51",
-      "https://news.ycombinator.com/item?id=36685514"
-    ],
-    [
-      "Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak",
-      "https://github.com/containers/bubblewrap"
     ]
   ],
   [
