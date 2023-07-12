@@ -28,7 +28,7 @@
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's first prototype for immutable region borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 04:31:18](https://news.ycombinator.com/item?id=36690498) - [RPCS3 – Open Source Playstation 3 Emulator](https://rpcs3.net/)
 * [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
-* [2023-07-12, 02:25:48](https://news.ycombinator.com/item?id=36689756) - [Commit Mono – Neutral programming typeface](https://commitmono.com/)
+* [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [How a chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [Profile of Spirograph Inventor Denys Fisher (1977) [video]](https://laughingsquid.com/denys-fisher-spirograph-1977/)
 
 ## [Archives](archives/index.md)
