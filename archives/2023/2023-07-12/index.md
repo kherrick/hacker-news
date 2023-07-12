@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 16:18:00](https://news.ycombinator.com/item?id=36696920) - [How Will ATSC 3.0 Transform TV Advertising?](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
+* [2023-07-12, 16:11:53](https://news.ycombinator.com/item?id=36696800) - [Inngest raises $3M seed to build the reliable workflow platform for every dev](https://www.inngest.com/blog/announcing-inngest-seed-financing)
+* [2023-07-12, 15:53:36](https://news.ycombinator.com/item?id=36696473) - [XAI](https://x.ai/)
 * [2023-07-12, 15:35:22](https://news.ycombinator.com/item?id=36696127) - [Windows is the malware compatibility layer for everything](https://twitter.com/matthew_d_green/status/1679135426806784004)
 * [2023-07-12, 15:16:29](https://news.ycombinator.com/item?id=36695809) - [Grammarly will discontinue the Text Editor SDK](https://developer.grammarly.com/sdk-deprecation)
 * [2023-07-12, 15:12:17](https://news.ycombinator.com/item?id=36695738) - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
 * [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [Beagleboard BeagleV-Ahead RISC-V brd released](https://beagleboard.org/beaglev-ahead)
 * [2023-07-12, 15:06:03](https://news.ycombinator.com/item?id=36695635) - [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
+* [2023-07-12, 15:05:43](https://news.ycombinator.com/item?id=36695633) - [Stubhub buying their own tickets under fake names?](https://news.ycombinator.com/item?id=36695633)
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
 * [2023-07-12, 14:59:41](https://news.ycombinator.com/item?id=36695542) - [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-12, 14:49:42](https://news.ycombinator.com/item?id=36695394) - [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)

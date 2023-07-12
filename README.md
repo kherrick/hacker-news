@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 16:18:00](https://news.ycombinator.com/item?id=36696920) - [How Will ATSC 3.0 Transform TV Advertising?](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
+* [2023-07-12, 16:11:53](https://news.ycombinator.com/item?id=36696800) - [Inngest raises $3M seed to build the reliable workflow platform for every dev](https://www.inngest.com/blog/announcing-inngest-seed-financing)
+* [2023-07-12, 15:53:36](https://news.ycombinator.com/item?id=36696473) - [XAI](https://x.ai/)
 * [2023-07-12, 15:35:22](https://news.ycombinator.com/item?id=36696127) - [Windows is the malware compatibility layer for everything](https://twitter.com/matthew_d_green/status/1679135426806784004)
-* [2023-07-12, 15:16:29](https://news.ycombinator.com/item?id=36695809) - [Grammarly will discontinue the Text Editor SDK](https://developer.grammarly.com/sdk-deprecation)
 * [2023-07-12, 15:12:17](https://news.ycombinator.com/item?id=36695738) - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
 * [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [Beagleboard BeagleV-Ahead RISC-V brd released](https://beagleboard.org/beaglev-ahead)
 * [2023-07-12, 15:06:03](https://news.ycombinator.com/item?id=36695635) - [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
+* [2023-07-12, 15:05:43](https://news.ycombinator.com/item?id=36695633) - [Stubhub buying their own tickets under fake names?](https://news.ycombinator.com/item?id=36695633)
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
-* [2023-07-12, 14:59:41](https://news.ycombinator.com/item?id=36695542) - [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-12, 14:49:42](https://news.ycombinator.com/item?id=36695394) - [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)
 * [2023-07-12, 14:37:34](https://news.ycombinator.com/item?id=36695189) - [Bank of Canada raises its interest rate to 5%](https://www.cbc.ca/news/business/bank-of-canada-july-meeting-1.6904330)
 * [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
@@ -26,10 +28,8 @@
 * [2023-07-12, 04:31:18](https://news.ycombinator.com/item?id=36690498) - [RPCS3 – Open Source Playstation 3 Emulator](https://rpcs3.net/)
 * [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 * [2023-07-12, 02:25:48](https://news.ycombinator.com/item?id=36689756) - [Commit Mono – Neutral programming typeface](https://commitmono.com/)
-* [2023-07-12, 01:42:15](https://news.ycombinator.com/item?id=36689503) - [How the design of Disney parks affects our perspective (2020)](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
-* [2023-07-11, 23:37:16](https://news.ycombinator.com/item?id=36688612) - [The ad-based internet is dying, and it's getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
-* [2023-07-10, 22:11:01](https://news.ycombinator.com/item?id=36673714) - [Introduction to vector similarity search (2022)](https://zilliz.com/blog/vector-similarity-search)
+* [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [1977 BBC Profile of Spirograph Inventor Denys Fisher](https://laughingsquid.com/denys-fisher-spirograph-1977/)
 
 ## [Archives](archives/index.md)
 

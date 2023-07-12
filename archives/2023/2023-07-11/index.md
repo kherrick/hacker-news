@@ -47,6 +47,7 @@
 * [2023-07-11, 14:30:59](https://news.ycombinator.com/item?id=36681491) - [Solar Energy Solves Global Warming](https://unchartedterritories.tomaspueyo.com/p/solar-energy-solves-global-warming)
 * [2023-07-11, 14:29:35](https://news.ycombinator.com/item?id=36681471) - [Show HN: Clickvote – Open-source upvotes, likes, and reviews to any context](https://github.com/clickvote/clickvote)
 * [2023-07-11, 14:28:27](https://news.ycombinator.com/item?id=36681459) - [AI Safety and the Age of Dislightenment](https://www.fast.ai/posts/2023-11-07-dislightenment.html)
+* [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [1977 BBC Profile of Spirograph Inventor Denys Fisher](https://laughingsquid.com/denys-fisher-spirograph-1977/)
 * [2023-07-11, 14:06:55](https://news.ycombinator.com/item?id=36681178) - [Why ScyllaDB Is Moving to a New Replication Algorithm: Tablets](https://www.scylladb.com/2023/07/10/why-scylladb-is-moving-to-a-new-replication-algorithm-tablets/)
 * [2023-07-11, 14:01:07](https://news.ycombinator.com/item?id=36681101) - [GitHub Profile Achievements](https://cqcumbers.com/github_achievements/)
 * [2023-07-11, 13:57:37](https://news.ycombinator.com/item?id=36681053) - [Mac shipments grow 10%, as all major PC brands see downturns](https://9to5mac.com/2023/07/11/mac-shipments-grow-10-percent/)
