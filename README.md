@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 05:53:54](https://news.ycombinator.com/item?id=36690895) - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 04:35:06](https://news.ycombinator.com/item?id=36690516) - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 * [2023-07-12, 04:31:18](https://news.ycombinator.com/item?id=36690498) - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
@@ -18,7 +19,6 @@
 * [2023-07-11, 18:46:51](https://news.ycombinator.com/item?id=36685514) - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
 * [2023-07-11, 18:19:54](https://news.ycombinator.com/item?id=36685115) - [The Pile: An 800GB dataset of diverse text for language modeling (2020)](https://arxiv.org/abs/2101.00027)
 * [2023-07-11, 17:04:53](https://news.ycombinator.com/item?id=36683908) - [Retro: A modern, pragmatic Forth](http://www.retroforth.org/)
-* [2023-07-11, 16:21:37](https://news.ycombinator.com/item?id=36683214) - [Memos: A lightweight, self-hosted memo hub](https://github.com/usememos/memos)
 * [2023-07-11, 15:38:04](https://news.ycombinator.com/item?id=36682509) - [Newpipe.net removed from Google search results due to DMCA take down request](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/)
 * [2023-07-11, 15:35:30](https://news.ycombinator.com/item?id=36682468) - [Interaction to Next Paint (INP)](https://web.dev/inp/)
 * [2023-07-11, 15:31:17](https://news.ycombinator.com/item?id=36682403) - [Windows 9x and Word 9x at 800x600 resolution. Spacious. Comfy](https://oldbytes.space/@48kRAM/110695813509755748)
