@@ -22,12 +22,12 @@
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
 * [2023-07-12, 13:35:57](https://news.ycombinator.com/item?id=36694308) - [Can Chess, with Hexagons? [video]](https://www.youtube.com/watch?v=bgR3yESAEVE)
 * [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
-* [2023-07-12, 12:01:05](https://news.ycombinator.com/item?id=36693297) - [Lifers, Dayjobbers, and the Independently Wealthy: A Letter to a Former Student](https://klangmag.co/lifers-dayjobbers-and-the-independently-wealthy-a-letter-to-a-former-student/)
 * [2023-07-12, 10:39:24](https://news.ycombinator.com/item?id=36692620) - [Istanbul's blue tile paradise](https://onthearts.com/p/istanbuls-blue-tile-paradise)
 * [2023-07-12, 10:11:13](https://news.ycombinator.com/item?id=36692450) - [TimeMaps (2017)](https://vincentmeertens.com/project/timemaps/)
 * [2023-07-12, 04:49:54](https://news.ycombinator.com/item?id=36690578) - [Hannie Schaft, resistance fighter during World War II](https://www.nytimes.com/2023/07/07/obituaries/hannie-schaft-overlooked.html)
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's first prototype for immutable region borrowing](https://verdagon.dev/blog/first-regions-prototype)
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
+* [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
 * [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [Spirograph Inventor Denys Fisher (1977) [video]](https://laughingsquid.com/denys-fisher-spirograph-1977/)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
