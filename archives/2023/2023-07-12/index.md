@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 22:35:11](https://news.ycombinator.com/item?id=36702603) - [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
 * [2023-07-12, 21:42:34](https://news.ycombinator.com/item?id=36702084) - [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
 * [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
 * [2023-07-12, 21:07:50](https://news.ycombinator.com/item?id=36701706) - [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
