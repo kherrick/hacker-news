@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 15:35:22](https://news.ycombinator.com/item?id=36696127) - [Windows is the malware compatibility layer for everything](https://twitter.com/matthew_d_green/status/1679135426806784004)
 * [2023-07-12, 15:16:29](https://news.ycombinator.com/item?id=36695809) - [Grammarly will discontinue the Text Editor SDK](https://developer.grammarly.com/sdk-deprecation)
 * [2023-07-12, 15:12:17](https://news.ycombinator.com/item?id=36695738) - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
 * [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [Beagleboard BeagleV-Ahead RISC-V brd released](https://beagleboard.org/beaglev-ahead)
@@ -11,6 +12,7 @@
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
 * [2023-07-12, 14:59:41](https://news.ycombinator.com/item?id=36695542) - [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-12, 14:49:42](https://news.ycombinator.com/item?id=36695394) - [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)
+* [2023-07-12, 14:37:34](https://news.ycombinator.com/item?id=36695189) - [Bank of Canada raises its interest rate to 5%](https://www.cbc.ca/news/business/bank-of-canada-july-meeting-1.6904330)
 * [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
 * [2023-07-12, 14:07:34](https://news.ycombinator.com/item?id=36694768) - [June Inflation Drops to 3%](https://www.nytimes.com/live/2023/07/12/business/cpi-inflation-fed)
 * [2023-07-12, 14:02:09](https://news.ycombinator.com/item?id=36694686) - [AGI Simulator](https://agi.aitida.com/)
