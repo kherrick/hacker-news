@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-12, 21:42:34",
+      "https://news.ycombinator.com/item?id=36702084"
+    ],
+    [
+      "PCSX2 is an open source PS2 Emulator",
+      "https://pcsx2.net/"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 21:41:48",
       "https://news.ycombinator.com/item?id=36702078"
     ],
     [
       "Google Play adds NFTs",
       "https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 21:07:50",
+      "https://news.ycombinator.com/item?id=36701706"
+    ],
+    [
+      "Tax preparers that shared private data with Meta, Google could be fined billions",
+      "https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Creating a search engine with PostgreSQL",
       "https://xata.io/blog/postgres-full-text-search-engine"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 17:41:11",
-      "https://news.ycombinator.com/item?id=36698542"
-    ],
-    [
-      "Performant database tree traversal with Rails",
-      "https://planetscale.com/blog/performant-database-tree-traversal-with-rails"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "How is the speed of light measured? (1997)",
       "https://web.archive.org/web/20150821181850/http://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/measure_c.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 14:21:07",
-      "https://news.ycombinator.com/item?id=36681359"
-    ],
-    [
-      "Spirograph Inventor Denys Fisher (1977) [video]",
-      "https://laughingsquid.com/denys-fisher-spirograph-1977/"
     ]
   ],
   [
