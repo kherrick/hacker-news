@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 * [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
-* [2023-07-12, 19:27:57](https://news.ycombinator.com/item?id=36700363) - [System Shock remake](https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet)
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The problem with the “everything for everyone” approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
 * [2023-07-12, 18:45:59](https://news.ycombinator.com/item?id=36699780) - [Show HN: AI companions stack – create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 * [2023-07-12, 18:43:28](https://news.ycombinator.com/item?id=36699738) - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
@@ -27,7 +27,7 @@
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
 * [2023-07-11, 20:22:08](https://news.ycombinator.com/item?id=36686721) - [How is the speed of light measured? (1997)](https://web.archive.org/web/20150821181850/http://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/measure_c.html)
-* [2023-07-11, 15:52:17](https://news.ycombinator.com/item?id=36682746) - [Tell HN: LinkedIn banned me because of my avatar, in the middle of my fundraise](https://news.ycombinator.com/item?id=36682746)
+* [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [Spirograph Inventor Denys Fisher (1977) [video]](https://laughingsquid.com/denys-fisher-spirograph-1977/)
 * [2023-07-11, 05:57:32](https://news.ycombinator.com/item?id=36676911) - [How Milwaukee Is Celebrating the Typewriter’s Long, Local History](https://www.atlasobscura.com/articles/typewriter-invented-in-milwaukee-qwerty-keyboard-history)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 

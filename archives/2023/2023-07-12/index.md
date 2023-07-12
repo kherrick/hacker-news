@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
 * [2023-07-12, 20:33:33](https://news.ycombinator.com/item?id=36701250) - [Chemically induced reprogramming to reverse cellular aging](https://www.aging-us.com/article/204896/text)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 * [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
