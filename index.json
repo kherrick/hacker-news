@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-12, 15:16:29",
+      "https://news.ycombinator.com/item?id=36695809"
+    ],
+    [
+      "Grammarly will discontinue the Text Editor SDK",
+      "https://developer.grammarly.com/sdk-deprecation"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 15:12:17",
       "https://news.ycombinator.com/item?id=36695738"
     ],
     [
       "Computation and State Machines (2008) [pdf]",
       "https://lamport.azurewebsites.net/pubs/state-machine.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 15:09:05",
+      "https://news.ycombinator.com/item?id=36695682"
+    ],
+    [
+      "Beagleboard BeagleV-Ahead RISC-V brd released",
+      "https://beagleboard.org/beaglev-ahead"
     ]
   ],
   [
@@ -165,7 +185,7 @@
       "https://news.ycombinator.com/item?id=36692962"
     ],
     [
-      "Milan Kundera, ‘The Unbearable Lightness of Being’ Novelist, has died",
+      "Milan Kundera has died",
       "https://variety.com/2023/film/global/milan-kundera-the-unbearable-lightness-of-being-dies-dead-1235667595/"
     ]
   ],
@@ -215,7 +235,7 @@
       "https://news.ycombinator.com/item?id=36690498"
     ],
     [
-      "RPCS3 – The Open Source Playstation 3 Emulator",
+      "RPCS3 – Open Source Playstation 3 Emulator",
       "https://rpcs3.net/"
     ]
   ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2023-07-11, 03:25:43",
-      "https://news.ycombinator.com/item?id=36676080"
-    ],
-    [
-      "Grave of a man who never was (2015)",
-      "https://www.atlasobscura.com/places/grave-of-the-man-who-never-was"
-    ]
-  ],
-  [
-    [
       "2023-07-10, 22:11:01",
       "https://news.ycombinator.com/item?id=36673714"
     ],
     [
       "Introduction to vector similarity search (2022)",
       "https://zilliz.com/blog/vector-similarity-search"
-    ]
-  ],
-  [
-    [
-      "2023-07-10, 07:18:34",
-      "https://news.ycombinator.com/item?id=36663061"
-    ],
-    [
-      "Counting Sheep on the Chajnantor Plateau",
-      "https://eso.org/public/images/potw2328a/"
     ]
   ]
 ]
