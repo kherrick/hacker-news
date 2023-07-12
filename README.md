@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 20:33:33](https://news.ycombinator.com/item?id=36701250) - [Chemically induced reprogramming to reverse cellular aging](https://www.aging-us.com/article/204896/text)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 * [2023-07-12, 19:27:57](https://news.ycombinator.com/item?id=36700363) - [System Shock Remake](https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet)
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
@@ -15,7 +16,6 @@
 * [2023-07-12, 16:41:08](https://news.ycombinator.com/item?id=36697366) - [Pines – Alpine and Tailwind UI Library](https://devdojo.com/pines)
 * [2023-07-12, 16:29:12](https://news.ycombinator.com/item?id=36697119) - [NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
 * [2023-07-12, 16:18:00](https://news.ycombinator.com/item?id=36696920) - [How will ATSC 3.0 transform TV advertising?](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
-* [2023-07-12, 15:35:22](https://news.ycombinator.com/item?id=36696127) - [“Computer security 80% solved if we deprecate technology shown in this graphic”](https://twitter.com/matthew_d_green/status/1679135426806784004)
 * [2023-07-12, 15:12:17](https://news.ycombinator.com/item?id=36695738) - [Computation and State Machines (2008) [pdf]](https://lamport.azurewebsites.net/pubs/state-machine.pdf)
 * [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [BeagleV-Ahead RISC-V board](https://beagleboard.org/beaglev-ahead)
 * [2023-07-12, 15:05:43](https://news.ycombinator.com/item?id=36695633) - [Ask HN: Stubhub buying their own tickets under fake names?](https://news.ycombinator.com/item?id=36695633)
