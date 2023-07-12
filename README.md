@@ -8,7 +8,6 @@
 * [2023-07-12, 14:59:41](https://news.ycombinator.com/item?id=36695542) - [20x faster than pgvector: HNSW index in Postgres with pg_embedding](https://neon.tech/blog/pg-embedding-extension-for-vector-search)
 * [2023-07-12, 14:49:42](https://news.ycombinator.com/item?id=36695394) - [Mastodon has hit 2M active users today](https://cyberplace.social/@GossiTheDog/110700438240156452)
 * [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
-* [2023-07-12, 14:02:09](https://news.ycombinator.com/item?id=36694686) - [AGI Simulator](https://agi.aitida.com/)
 * [2023-07-12, 14:01:22](https://news.ycombinator.com/item?id=36694676) - [Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
 * [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
 * [2023-07-12, 13:23:46](https://news.ycombinator.com/item?id=36694164) - [Hollywood Studios’ WGA Strike Plan: Let Writers Go Broke, “Lose Apartments”](https://deadline.com/2023/07/writers-strike-hollywood-studios-deal-fight-wga-actors-1235434335/)
@@ -30,6 +29,7 @@
 * [2023-07-11, 23:37:16](https://news.ycombinator.com/item?id=36688612) - [The ad-based internet is dying, and it's getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
 * [2023-07-10, 22:11:01](https://news.ycombinator.com/item?id=36673714) - [Introduction to vector similarity search (2022)](https://zilliz.com/blog/vector-similarity-search)
+* [2023-07-10, 07:18:34](https://news.ycombinator.com/item?id=36663061) - [Counting Sheep on the Chajnantor Plateau](https://eso.org/public/images/potw2328a/)
 
 ## [Archives](archives/index.md)
 
