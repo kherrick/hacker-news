@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
 * [2023-07-12, 16:32:47](https://news.ycombinator.com/item?id=36697191) - [Ask HN: I am interested in reading about techniques HFT firms use](https://news.ycombinator.com/item?id=36697191)
+* [2023-07-12, 16:31:31](https://news.ycombinator.com/item?id=36697160) - [Ben Forta – How to Generate SQL Statements with ChatGPT](https://forta.com/2023/07/10/how-to-generate-sql-statements-with-chatgpt/)
 * [2023-07-12, 16:18:00](https://news.ycombinator.com/item?id=36696920) - [How Will ATSC 3.0 Transform TV Advertising?](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
 * [2023-07-12, 16:11:53](https://news.ycombinator.com/item?id=36696800) - [Inngest raises $3M seed to build the reliable workflow platform for every dev](https://www.inngest.com/blog/announcing-inngest-seed-financing)
 * [2023-07-12, 15:53:36](https://news.ycombinator.com/item?id=36696473) - [XAI](https://x.ai/)

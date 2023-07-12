@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-12, 16:32:47](https://news.ycombinator.com/item?id=36697191) - [Ask HN: I am interested in reading about techniques HFT firms use](https://news.ycombinator.com/item?id=36697191)
+* [2023-07-12, 16:31:31](https://news.ycombinator.com/item?id=36697160) - [Ben Forta – How to Generate SQL Statements with ChatGPT](https://forta.com/2023/07/10/how-to-generate-sql-statements-with-chatgpt/)
 * [2023-07-12, 16:18:00](https://news.ycombinator.com/item?id=36696920) - [How Will ATSC 3.0 Transform TV Advertising?](https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ)
 * [2023-07-12, 16:11:53](https://news.ycombinator.com/item?id=36696800) - [Inngest raises $3M seed to build the reliable workflow platform for every dev](https://www.inngest.com/blog/announcing-inngest-seed-financing)
 * [2023-07-12, 15:53:36](https://news.ycombinator.com/item?id=36696473) - [XAI](https://x.ai/)
@@ -10,7 +11,6 @@
 * [2023-07-12, 15:06:03](https://news.ycombinator.com/item?id=36695635) - [Official Mastodon server of the Dutch government](https://social.overheid.nl/@avhuffelen/110700825255524685)
 * [2023-07-12, 15:05:43](https://news.ycombinator.com/item?id=36695633) - [Stubhub buying their own tickets under fake names?](https://news.ycombinator.com/item?id=36695633)
 * [2023-07-12, 15:00:09](https://news.ycombinator.com/item?id=36695553) - [Computers and Automata (1953)](https://fermatslibrary.com/s/computers-and-automata)
-* [2023-07-12, 14:37:34](https://news.ycombinator.com/item?id=36695189) - [Bank of Canada raises its interest rate to 5%](https://www.cbc.ca/news/business/bank-of-canada-july-meeting-1.6904330)
 * [2023-07-12, 14:33:11](https://news.ycombinator.com/item?id=36695122) - [Paperspace Joins DigitalOcean to Expand AI Capabilities](https://www.digitalocean.com/blog/paperspace-joins-digitalocean)
 * [2023-07-12, 14:01:22](https://news.ycombinator.com/item?id=36694676) - [Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
 * [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
