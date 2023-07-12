@@ -50,6 +50,7 @@
 * [2023-07-10, 16:30:34](https://news.ycombinator.com/item?id=36668732) - [Apple VisionOS Simulator streaming wirelessly to Meta Quest headset](https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr)
 * [2023-07-10, 16:15:20](https://news.ycombinator.com/item?id=36668472) - [Study: 87% of classic video games are not legally available](https://gamehistory.org/87percent/)
 * [2023-07-10, 16:07:57](https://news.ycombinator.com/item?id=36668363) - [NixOS and My Descent into Insanity](https://ersei.net/en/blog/its-nixin-time)
+* [2023-07-10, 15:55:15](https://news.ycombinator.com/item?id=36668218) - [Echoes of Eco in His Library](https://www.the-tls.co.uk/articles/umberto-eco-a-library-of-the-world-film-review-irina-dumitrescu/)
 * [2023-07-10, 15:28:43](https://news.ycombinator.com/item?id=36667848) - [First U.S. Ban on Sale of Cellphone Location Data Might Be Coming](https://www.wsj.com/articles/first-u-s-ban-on-sale-of-cellphone-location-data-might-be-coming-fbe47e53)
 * [2023-07-10, 15:28:08](https://news.ycombinator.com/item?id=36667840) - [At Japan’s first winery, the country’s oldest grape lives on](https://www.japantimes.co.jp/life/2023/07/09/food/iwanohara-vineyard-niigata-joestu/)
 * [2023-07-10, 15:22:14](https://news.ycombinator.com/item?id=36667743) - [Depth Precision Visualized (2015)](https://developer.nvidia.com/content/depth-precision-visualized)

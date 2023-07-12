@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 06:26:03](https://news.ycombinator.com/item?id=36691062) - [NixOS Linux review, is it the alternative to Debian and Archlinux?](https://grigio.org/nixos-23-05-review-is-it-really-the-alternative-to-debian-and-archlinux/)
 * [2023-07-12, 06:05:18](https://news.ycombinator.com/item?id=36690955) - [AMC Says More Than 20k Have Booked 'Barbie'-'Oppenheimer' Double Features](https://variety.com/2023/film/news/barbie-oppenhemier-double-features-amc-theaters-1235665632/)
 * [2023-07-12, 05:53:54](https://news.ycombinator.com/item?id=36690895) - [Geddit: Open-source, Reddit client for Android without using API](https://github.com/kaangiray26/geddit-app)
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's First Prototype for Immutable Region Borrowing](https://verdagon.dev/blog/first-regions-prototype)
