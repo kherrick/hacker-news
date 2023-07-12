@@ -101,6 +101,7 @@
 * [2023-07-10, 08:27:04](https://news.ycombinator.com/item?id=36663509) - [The controller pattern is awful (and other OO heresy)](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 * [2023-07-10, 08:26:03](https://news.ycombinator.com/item?id=36663498) - [A biological camera that captures and stores images directly into DNA](https://www.nature.com/articles/s41467-023-38876-w)
 * [2023-07-10, 07:57:16](https://news.ycombinator.com/item?id=36663312) - [Uber, DoorDash Sue NYC to Stop Delivery Drivers from Getting a Minimum Wage](https://www.vice.com/en/article/93k3ve/uber-doordash-sue-nyc-to-stop-delivery-drivers-from-getting-a-minimum-wage)
+* [2023-07-10, 07:18:34](https://news.ycombinator.com/item?id=36663061) - [Counting Sheep on the Chajnantor Plateau](https://eso.org/public/images/potw2328a/)
 * [2023-07-10, 07:18:16](https://news.ycombinator.com/item?id=36663060) - [Kubernetes SidecarContainers feature is merged](https://github.com/kubernetes/kubernetes/pull/116429)
 * [2023-07-10, 06:53:42](https://news.ycombinator.com/item?id=36662924) - [The mystery of the Ain Dubai, the world’s largest (broken) Ferris wheel](https://www.washingtonpost.com/world/2023/07/09/ain-dubai-wheel-real-estate/)
 * [2023-07-10, 06:47:58](https://news.ycombinator.com/item?id=36662899) - [Polymorphism and other important aspects of inheritance](https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects)

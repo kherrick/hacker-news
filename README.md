@@ -6,7 +6,6 @@
 * [2023-07-12, 04:35:06](https://news.ycombinator.com/item?id=36690516) - [Hardening Emulated Devices in OpenBSD's Vmd(8) Hypervisor [pdf]](https://www.openbsd.org/papers/asiabsdcon2023-hardening_vmd_devices.pdf)
 * [2023-07-12, 04:31:18](https://news.ycombinator.com/item?id=36690498) - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 * [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
-* [2023-07-12, 01:51:22](https://news.ycombinator.com/item?id=36689564) - [The English Programming Language](https://github.com/theletterf/english-lang)
 * [2023-07-12, 01:42:15](https://news.ycombinator.com/item?id=36689503) - [How the design of Disney parks affects our perspective (2020)](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
 * [2023-07-12, 01:37:57](https://news.ycombinator.com/item?id=36689463) - [Birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
 * [2023-07-11, 23:22:14](https://news.ycombinator.com/item?id=36688499) - [Elo for VC – Founder's Choice](https://www.founderschoicevc.com/)
@@ -29,6 +28,7 @@
 * [2023-07-10, 21:36:35](https://news.ycombinator.com/item?id=36673308) - [Space After Periods (1993)](http://1997.webhistory.org/www.lists/www-talk.1993q3/)
 * [2023-07-10, 20:12:57](https://news.ycombinator.com/item?id=36672288) - [Was Richard III a Bad King?](https://www.historytoday.com/archive/head-head/was-richard-iii-bad-king)
 * [2023-07-10, 15:55:15](https://news.ycombinator.com/item?id=36668218) - [Echoes of Eco in His Library](https://www.the-tls.co.uk/articles/umberto-eco-a-library-of-the-world-film-review-irina-dumitrescu/)
+* [2023-07-10, 07:18:34](https://news.ycombinator.com/item?id=36663061) - [Counting Sheep on the Chajnantor Plateau](https://eso.org/public/images/potw2328a/)
 * [2023-07-10, 05:16:39](https://news.ycombinator.com/item?id=36662406) - [Resilience requires helping each other out](https://surfingcomplexity.blog/2023/06/17/resilience-requires-helping-each-other-out/)
 
 ## [Archives](archives/index.md)
