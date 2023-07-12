@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 21:42:34](https://news.ycombinator.com/item?id=36702084) - [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
 * [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
+* [2023-07-12, 21:07:50](https://news.ycombinator.com/item?id=36701706) - [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 * [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The problem with the “everything for everyone” approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
@@ -9,7 +11,6 @@
 * [2023-07-12, 18:21:38](https://news.ycombinator.com/item?id=36699331) - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)
 * [2023-07-12, 18:21:28](https://news.ycombinator.com/item?id=36699327) - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
-* [2023-07-12, 17:41:11](https://news.ycombinator.com/item?id=36698542) - [Performant database tree traversal with Rails](https://planetscale.com/blog/performant-database-tree-traversal-with-rails)
 * [2023-07-12, 17:00:24](https://news.ycombinator.com/item?id=36697741) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-07-12, 16:57:51](https://news.ycombinator.com/item?id=36697693) - [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
 * [2023-07-12, 16:53:48](https://news.ycombinator.com/item?id=36697595) - [Show HN: Floneum, a graph editor for local AI workflows](https://floneum.com/blog/anouncing_floneum/)
@@ -27,7 +28,6 @@
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
 * [2023-07-11, 20:22:08](https://news.ycombinator.com/item?id=36686721) - [How is the speed of light measured? (1997)](https://web.archive.org/web/20150821181850/http://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/measure_c.html)
-* [2023-07-11, 14:21:07](https://news.ycombinator.com/item?id=36681359) - [Spirograph Inventor Denys Fisher (1977) [video]](https://laughingsquid.com/denys-fisher-spirograph-1977/)
 * [2023-07-11, 05:57:32](https://news.ycombinator.com/item?id=36676911) - [How Milwaukee Is Celebrating the Typewriter’s Long, Local History](https://www.atlasobscura.com/articles/typewriter-invented-in-milwaukee-qwerty-keyboard-history)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
