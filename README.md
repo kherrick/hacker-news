@@ -2,7 +2,6 @@
 
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 * [2023-07-12, 18:03:31](https://news.ycombinator.com/item?id=36698981) - [Why just blocking Meta's Threads won't be enough](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
-* [2023-07-12, 17:37:57](https://news.ycombinator.com/item?id=36698482) - [Ask HN: React Native or Flutter for a new app in 2023?](https://news.ycombinator.com/item?id=36698482)
 * [2023-07-12, 17:00:24](https://news.ycombinator.com/item?id=36697741) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-07-12, 16:57:51](https://news.ycombinator.com/item?id=36697693) - [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
 * [2023-07-12, 16:55:36](https://news.ycombinator.com/item?id=36697646) - [Going beyond ‘do you know of any open positions?’](https://www.dewanahmed.com/do-you-know-of-any-open-positions/)
@@ -24,6 +23,7 @@
 * [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
 * [2023-07-12, 12:01:05](https://news.ycombinator.com/item?id=36693297) - [Lifers, Dayjobbers, and the Independently Wealthy: A Letter to a Former Student](https://klangmag.co/lifers-dayjobbers-and-the-independently-wealthy-a-letter-to-a-former-student/)
 * [2023-07-12, 11:27:34](https://news.ycombinator.com/item?id=36692962) - [Milan Kundera has died](https://variety.com/2023/film/global/milan-kundera-the-unbearable-lightness-of-being-dies-dead-1235667595/)
+* [2023-07-12, 10:39:24](https://news.ycombinator.com/item?id=36692620) - [Istanbul's Blue Tile Paradise](https://onthearts.com/p/istanbuls-blue-tile-paradise)
 * [2023-07-12, 10:11:13](https://news.ycombinator.com/item?id=36692450) - [TimeMaps](https://vincentmeertens.com/project/timemaps/)
 * [2023-07-12, 04:49:54](https://news.ycombinator.com/item?id=36690578) - [Overlooked No More: Hannie Schaft, Resistance Fighter During World War II](https://www.nytimes.com/2023/07/07/obituaries/hannie-schaft-overlooked.html)
 * [2023-07-12, 04:44:49](https://news.ycombinator.com/item?id=36690556) - [Vale's first prototype for immutable region borrowing](https://verdagon.dev/blog/first-regions-prototype)
