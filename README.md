@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
 * [2023-07-12, 13:21:23](https://news.ycombinator.com/item?id=36694125) - [How to Solve Your Big Problems, by Solving Your *Real* Problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
 * [2023-07-12, 13:09:01](https://news.ycombinator.com/item?id=36693994) - [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
 * [2023-07-12, 12:47:20](https://news.ycombinator.com/item?id=36693759) - [Nour: Play with Your Food (from Panic)](https://food.game/)
@@ -16,7 +17,6 @@
 * [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 * [2023-07-12, 02:25:48](https://news.ycombinator.com/item?id=36689756) - [Commit Mono – Neutral programming typeface](https://commitmono.com/)
 * [2023-07-12, 01:42:15](https://news.ycombinator.com/item?id=36689503) - [How the design of Disney parks affects our perspective (2020)](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
-* [2023-07-12, 01:37:57](https://news.ycombinator.com/item?id=36689463) - [Birds make nests out of anti-bird pins](https://www.naturalis.nl/en/about-us/media/press-releases/rebellious-birds-make-nests-out-of-anti-bird-pins)
 * [2023-07-11, 23:22:14](https://news.ycombinator.com/item?id=36688499) - [Elo for VC – Founder's Choice](https://www.founderschoicevc.com/)
 * [2023-07-11, 21:23:10](https://news.ycombinator.com/item?id=36687399) - [The Free Movie](https://thefreemovie.buzz/)
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
