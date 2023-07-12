@@ -7,6 +7,7 @@
 * [2023-07-12, 22:35:11](https://news.ycombinator.com/item?id=36702603) - [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
 * [2023-07-12, 21:42:34](https://news.ycombinator.com/item?id=36702084) - [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
 * [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
+* [2023-07-12, 21:11:03](https://news.ycombinator.com/item?id=36701748) - [Google now requires and lists phone number in Play Store listings](https://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html)
 * [2023-07-12, 21:07:50](https://news.ycombinator.com/item?id=36701706) - [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
 * [2023-07-12, 20:33:33](https://news.ycombinator.com/item?id=36701250) - [Chemically induced reprogramming to reverse cellular aging](https://www.aging-us.com/article/204896/text)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)

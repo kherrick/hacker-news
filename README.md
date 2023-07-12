@@ -2,6 +2,7 @@
 
 * [2023-07-12, 22:35:11](https://news.ycombinator.com/item?id=36702603) - [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
 * [2023-07-12, 21:42:34](https://news.ycombinator.com/item?id=36702084) - [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
+* [2023-07-12, 21:11:03](https://news.ycombinator.com/item?id=36701748) - [Google now requires and lists phone number in Play Store listings](https://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html)
 * [2023-07-12, 21:07:50](https://news.ycombinator.com/item?id=36701706) - [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
 * [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
@@ -27,7 +28,6 @@
 * [2023-07-12, 02:50:35](https://news.ycombinator.com/item?id=36689916) - [When a Simple Blue Light Was the Hot New Anaesthetic in Dentistry](https://paleofuture.com/blog/2023/7/6/when-blue-light-was-the-hot-new-anaesthetic)
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
-* [2023-07-11, 20:22:08](https://news.ycombinator.com/item?id=36686721) - [How is the speed of light measured? (1997)](https://web.archive.org/web/20150821181850/http://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/measure_c.html)
 * [2023-07-11, 05:57:32](https://news.ycombinator.com/item?id=36676911) - [How Milwaukee Is Celebrating the Typewriter’s Long, Local History](https://www.atlasobscura.com/articles/typewriter-invented-in-milwaukee-qwerty-keyboard-history)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
