@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 14:01:22](https://news.ycombinator.com/item?id=36694676) - [Gene linked to long Covid found in analysis of thousands of patients](https://www.nature.com/articles/d41586-023-02269-2)
 * [2023-07-12, 13:34:50](https://news.ycombinator.com/item?id=36694291) - [SF's Anchor Brewing Company shutting down after 127 years](https://abc7news.com/anchor-brewing-company-san-francisco-brewery-closing-business/13493162/)
 * [2023-07-12, 13:21:23](https://news.ycombinator.com/item?id=36694125) - [How to Solve Your Big Problems, by Solving Your *Real* Problem](https://jasonfeifer.beehiiv.com/p/how-to-solve-big-problems)
 * [2023-07-12, 13:09:01](https://news.ycombinator.com/item?id=36693994) - [Calls to investigate tax sites for sharing financial information with Meta](https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel)
