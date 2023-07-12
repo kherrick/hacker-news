@@ -24,6 +24,7 @@
 * [2023-07-10, 21:34:48](https://news.ycombinator.com/item?id=36673280) - [Show HN: Throw – The new space for asking and answering questions anonymously](https://www.trythrow.com)
 * [2023-07-10, 21:28:40](https://news.ycombinator.com/item?id=36673224) - [Self-hosted photo and video backup solution directly from your mobile phone](https://github.com/immich-app/immich)
 * [2023-07-10, 21:20:08](https://news.ycombinator.com/item?id=36673108) - [Gandi.net updates pricing, increases rates by up to 1000%](https://chatting.neocities.org/posts/2023-gandi-pricing)
+* [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 * [2023-07-10, 21:06:55](https://news.ycombinator.com/item?id=36672957) - [Show HN: A hash array-mapped trie implementation in C](https://github.com/mkirchner/hamt)
 * [2023-07-10, 21:00:06](https://news.ycombinator.com/item?id=36672888) - [Fathom AI Notetaker (YC W21) is hiring a staff engineer (remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-staff-engineer-full-stack-remote)
 * [2023-07-10, 20:28:16](https://news.ycombinator.com/item?id=36672486) - [Tumblr’s Core Product Strategy](https://staff.tumblr.com/post/722477242948747264/tumblrs-core-product-strategy)
