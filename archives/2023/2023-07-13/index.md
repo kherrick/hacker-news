@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 12:15:48](https://news.ycombinator.com/item?id=36707990) - [Tax prep firms shared ‘extraordinarily sensitive’ data about taxpayers with Meta](https://apnews.com/article/irs-taxpayer-tax-preparation-meta-congress-9315cfca7a0942ab89f765d183fbf822)
+* [2023-07-13, 12:15:17](https://news.ycombinator.com/item?id=36707986) - [Learning to Touch Type Again](https://www.deusinmachina.net/p/learning-to-touch-type-again)
+* [2023-07-13, 11:53:40](https://news.ycombinator.com/item?id=36707789) - [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
 * [2023-07-13, 11:48:02](https://news.ycombinator.com/item?id=36707737) - [Right-Wing Websites Scam Loyal Followers with Phony Celebrity Pitches](https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-13, 11:16:59](https://news.ycombinator.com/item?id=36707478) - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-13, 11:48:02](https://news.ycombinator.com/item?id=36707737) - [Right-Wing Websites Scam Loyal Followers with Phony Celebrity Pitches](https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches)
+* [2023-07-13, 12:15:48](https://news.ycombinator.com/item?id=36707990) - [Tax prep firms shared ‘extraordinarily sensitive’ data about taxpayers with Meta](https://apnews.com/article/irs-taxpayer-tax-preparation-meta-congress-9315cfca7a0942ab89f765d183fbf822)
+* [2023-07-13, 12:15:17](https://news.ycombinator.com/item?id=36707986) - [Learning to Touch Type Again](https://www.deusinmachina.net/p/learning-to-touch-type-again)
+* [2023-07-13, 11:53:40](https://news.ycombinator.com/item?id=36707789) - [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
-* [2023-07-13, 11:16:59](https://news.ycombinator.com/item?id=36707478) - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
-* [2023-07-13, 11:06:30](https://news.ycombinator.com/item?id=36707404) - [Ask HN: Is the Market Recovering?](https://news.ycombinator.com/item?id=36707404)
 * [2023-07-13, 10:57:15](https://news.ycombinator.com/item?id=36707321) - [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
 * [2023-07-13, 10:49:47](https://news.ycombinator.com/item?id=36707262) - [C++23’s Deducing this: what it is, why it is, how to use it](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)
 * [2023-07-13, 10:47:13](https://news.ycombinator.com/item?id=36707239) - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
