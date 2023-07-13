@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 17:10:22](https://news.ycombinator.com/item?id=36712564) - [We spent $20k on Google Play Pre-Registration Ads. Here are the results](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
+* [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Hype Will Turn Your Security Key into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 17:00:32](https://news.ycombinator.com/item?id=36712414) - [Flexport (Founders Fund company) is hiring](https://flexport.com/careers)
+* [2023-07-13, 16:58:17](https://news.ycombinator.com/item?id=36712388) - [Judge gives Ripple partial win in SEC case over XRP cryptocurrency](https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13/)
 * [2023-07-13, 16:41:09](https://news.ycombinator.com/item?id=36712084) - [OCI announces upcoming changes for registries](https://www.chainguard.dev/unchained/oci-announces-upcoming-changes-for-registries)
 * [2023-07-13, 16:40:03](https://news.ycombinator.com/item?id=36712062) - [Spike in Homelessness in US Cities Isn’t Slowing Down](https://www.msn.com/en-us/money/realestate/the-spike-in-homelessness-in-us-cities-isn-t-slowing-down/ar-AA1dOiKW)
 * [2023-07-13, 16:25:37](https://news.ycombinator.com/item?id=36711799) - [WW2 Meteorology](https://rafmetman.wordpress.com/meteorology/ww2-meteorology/)
