@@ -19,6 +19,7 @@
 * [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
 * [2023-07-12, 19:27:57](https://news.ycombinator.com/item?id=36700363) - [System Shock Remake](https://www.eurogamer.net/digitalfoundry-2023-the-system-shock-remake-is-excellent-and-nightdives-most-ambitious-work-yet)
 * [2023-07-12, 19:21:09](https://news.ycombinator.com/item?id=36700290) - [Improve Visibility and Capture More Data with Triage Incidents](https://rootly.com/blog/improve-visibility-and-capture-more-data-with-triage-incidents)
+* [2023-07-12, 19:19:35](https://news.ycombinator.com/item?id=36700262) - [Advice for finding a technical co-founder (2021)](https://www.mooreds.com/wordpress/archives/3445)
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
 * [2023-07-12, 19:06:17](https://news.ycombinator.com/item?id=36700076) - [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 18:54:24](https://news.ycombinator.com/item?id=36699899) - [Schizoid Personality Disorder](https://en.wikipedia.org/wiki/Schizoid_personality_disorder)
