@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-13, 15:16:14](https://news.ycombinator.com/item?id=36710558) - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
+* [2023-07-13, 15:10:49](https://news.ycombinator.com/item?id=36710444) - [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
@@ -29,7 +30,6 @@
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
 * [2023-07-13, 02:53:08](https://news.ycombinator.com/item?id=36704501) - [DJI Drone Rescue Map](https://enterprise.dji.com/drone-rescue-map/)
 * [2023-07-13, 00:50:20](https://news.ycombinator.com/item?id=36703711) - [Simpsons Hit and Run source code (2003)](https://github.com/Svxy/The-Simpsons-Hit-and-Run)
-* [2023-07-13, 00:18:14](https://news.ycombinator.com/item?id=36703474) - [Thunderbird 115 “Supernova”](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
 
 ## [Archives](archives/index.md)
 
