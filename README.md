@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 06:26:20](https://news.ycombinator.com/item?id=36705648) - [Dutch E-Bike startup VanMoof unable to pay the bills](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
 * [2023-07-13, 04:49:16](https://news.ycombinator.com/item?id=36705119) - [Scientists have identified the potato pathogen that devastated Ireland (2013)](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
@@ -22,7 +23,6 @@
 * [2023-07-12, 18:21:38](https://news.ycombinator.com/item?id=36699331) - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)
 * [2023-07-12, 18:21:28](https://news.ycombinator.com/item?id=36699327) - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
-* [2023-07-12, 16:57:51](https://news.ycombinator.com/item?id=36697693) - [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
 * [2023-07-12, 16:29:12](https://news.ycombinator.com/item?id=36697119) - [NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
 * [2023-07-12, 14:43:03](https://news.ycombinator.com/item?id=36695284) - [The aloha shirt has many possible inventors](https://www.atlasobscura.com/articles/history-of-aloha-hawaiian-shirt)
 * [2023-07-12, 10:39:24](https://news.ycombinator.com/item?id=36692620) - [Istanbul's blue tile paradise](https://onthearts.com/p/istanbuls-blue-tile-paradise)
