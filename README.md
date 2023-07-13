@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-13, 06:26:20](https://news.ycombinator.com/item?id=36705648) - [Dutch E-Bike startup VanMoof unable to pay the bills](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
+* [2023-07-13, 07:43:36](https://news.ycombinator.com/item?id=36706142) - [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
 * [2023-07-13, 04:49:16](https://news.ycombinator.com/item?id=36705119) - [Scientists have identified the potato pathogen that devastated Ireland (2013)](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
@@ -23,9 +23,9 @@
 * [2023-07-12, 18:21:28](https://news.ycombinator.com/item?id=36699327) - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
 * [2023-07-12, 18:16:38](https://news.ycombinator.com/item?id=36699223) - [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
+* [2023-07-12, 17:00:24](https://news.ycombinator.com/item?id=36697741) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-07-12, 16:41:08](https://news.ycombinator.com/item?id=36697366) - [Pines – Alpine and Tailwind UI Library](https://devdojo.com/pines)
 * [2023-07-12, 16:29:12](https://news.ycombinator.com/item?id=36697119) - [NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
-* [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [BeagleV-Ahead RISC-V board](https://beagleboard.org/beaglev-ahead)
 * [2023-07-12, 14:43:03](https://news.ycombinator.com/item?id=36695284) - [The aloha shirt has many possible inventors](https://www.atlasobscura.com/articles/history-of-aloha-hawaiian-shirt)
 * [2023-07-12, 02:46:55](https://news.ycombinator.com/item?id=36689888) - [IoSafe 1522 NAS Review Synology Powered Fireproof and Waterproof NAS](https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/)
 * [2023-07-11, 23:55:07](https://news.ycombinator.com/item?id=36688738) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
