@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 03:37:05](https://news.ycombinator.com/item?id=36704738) - [An update on the Federal Reserve’s Instant Payments Service: FedNow](https://www.clevelandfed.org/collections/speeches/2023/sp-20230712-update-on-the-federal-reserves-instant-payments-service)
 * [2023-07-13, 03:08:57](https://news.ycombinator.com/item?id=36704581) - [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
 * [2023-07-13, 02:14:39](https://news.ycombinator.com/item?id=36704277) - [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
 * [2023-07-13, 00:50:20](https://news.ycombinator.com/item?id=36703711) - [The Simpsons Hit and Run leaked source code](https://github.com/Svxy/The-Simpsons-Hit-and-Run)
@@ -22,7 +23,6 @@
 * [2023-07-12, 16:29:12](https://news.ycombinator.com/item?id=36697119) - [NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
 * [2023-07-12, 15:09:05](https://news.ycombinator.com/item?id=36695682) - [BeagleV-Ahead RISC-V board](https://beagleboard.org/beaglev-ahead)
 * [2023-07-12, 14:43:03](https://news.ycombinator.com/item?id=36695284) - [The aloha shirt has many possible inventors](https://www.atlasobscura.com/articles/history-of-aloha-hawaiian-shirt)
-* [2023-07-12, 13:35:57](https://news.ycombinator.com/item?id=36694308) - [Can Chess, with Hexagons? [video]](https://www.youtube.com/watch?v=bgR3yESAEVE)
 * [2023-07-12, 10:39:24](https://news.ycombinator.com/item?id=36692620) - [Istanbul's blue tile paradise](https://onthearts.com/p/istanbuls-blue-tile-paradise)
 * [2023-07-12, 02:50:35](https://news.ycombinator.com/item?id=36689916) - [When a Simple Blue Light Was the Hot New Anaesthetic in Dentistry](https://paleofuture.com/blog/2023/7/6/when-blue-light-was-the-hot-new-anaesthetic)
 * [2023-07-12, 02:46:55](https://news.ycombinator.com/item?id=36689888) - [IoSafe 1522 NAS Review Synology Powered Fireproof and Waterproof NAS](https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/)
