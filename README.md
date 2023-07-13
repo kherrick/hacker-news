@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-13, 07:56:40](https://news.ycombinator.com/item?id=36706216) - [JumpCloud Security Incident Details](https://news.ycombinator.com/item?id=36706216)
+* [2023-07-13, 10:00:10](https://news.ycombinator.com/item?id=36706934) - [Python consumes 38x more energy than Java](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
 * [2023-07-13, 07:43:36](https://news.ycombinator.com/item?id=36706142) - [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
 * [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
