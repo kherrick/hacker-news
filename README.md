@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-13, 13:37:21](https://news.ycombinator.com/item?id=36708907) - [Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
+* [2023-07-13, 13:30:41](https://news.ycombinator.com/item?id=36708827) - [Two new AI-based weather-forecasting systems challenging the status quo](https://phys.org/news/2023-07-ai-based-weather-forecasting-status-quo.html)
+* [2023-07-13, 13:25:42](https://news.ycombinator.com/item?id=36708759) - [Unchecked Java: Say Goodbye to Checked Exceptions Forever](https://github.com/rogerkeays/unchecked)
 * [2023-07-13, 13:09:24](https://news.ycombinator.com/item?id=36708550) - [B.C. government hit tweet limit amid wildfire evacuations](https://www.vancouverisawesome.com/highlights/bc-government-hit-tweet-limit-amid-wildfire-evacuations-7268169)
 * [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool but Obscure X11 Apps](https://cyber.dabamos.de/unix/x11/)
 * [2023-07-13, 12:54:13](https://news.ycombinator.com/item?id=36708377) - [“Suburban sprawl is a much worse problem than skyscrapers”](https://www.dezeen.com/2023/07/12/suburban-sprawl-worse-problem-skyscrapers/)
@@ -28,8 +30,6 @@
 * [2023-07-13, 00:18:14](https://news.ycombinator.com/item?id=36703474) - [Thunderbird 115 “Supernova”](https://blog.thunderbird.net/2023/07/our-fastest-most-beautiful-release-ever-thunderbird-115-supernova-is-here/)
 * [2023-07-12, 23:13:09](https://news.ycombinator.com/item?id=36702939) - [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
 * [2023-07-12, 23:09:50](https://news.ycombinator.com/item?id=36702911) - [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
-* [2023-07-12, 22:51:16](https://news.ycombinator.com/item?id=36702731) - [Xenia: Xbox 360 Emulator (2022)](https://xenia.jp/)
-* [2023-07-11, 19:33:04](https://news.ycombinator.com/item?id=36686156) - [Bacon's Cipher](https://en.wikipedia.org/wiki/Bacon%27s_cipher)
 
 ## [Archives](archives/index.md)
 
