@@ -43,6 +43,7 @@
 * [2023-07-13, 10:00:10](https://news.ycombinator.com/item?id=36706934) - [Python consumes 38x more energy than Java](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
 * [2023-07-13, 09:46:25](https://news.ycombinator.com/item?id=36706856) - [Bluesky now checks against this array of slurs when creating a username](https://github.com/bluesky-social/atproto/pull/1314/files)
 * [2023-07-13, 09:29:58](https://news.ycombinator.com/item?id=36706757) - [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
+* [2023-07-13, 08:42:31](https://news.ycombinator.com/item?id=36706453) - [OpenTTD's Infrastructure in 2023](https://www.openttd.org/news/2023/07/08/our-infrastructure)
 * [2023-07-13, 08:11:11](https://news.ycombinator.com/item?id=36706292) - [BRICS gold-backed currency coming in August](https://dailyreckoning.com/rickards-drops-bombshell/)
 * [2023-07-13, 07:56:40](https://news.ycombinator.com/item?id=36706216) - [JumpCloud Security Incident Details](https://news.ycombinator.com/item?id=36706216)
 * [2023-07-13, 07:43:36](https://news.ycombinator.com/item?id=36706142) - [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
