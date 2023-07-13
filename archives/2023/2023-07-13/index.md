@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 15:59:59](https://news.ycombinator.com/item?id=36711370) - [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force)
+* [2023-07-13, 15:42:10](https://news.ycombinator.com/item?id=36711033) - [AMD Ryzen 7040 Series Shows Great AVX-512 Performance for Laptops / Mobile](https://www.phoronix.com/review/amd-ryzen7040-avx512)
 * [2023-07-13, 15:16:14](https://news.ycombinator.com/item?id=36710558) - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
 * [2023-07-13, 15:10:49](https://news.ycombinator.com/item?id=36710444) - [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
+* [2023-07-13, 15:00:16](https://news.ycombinator.com/item?id=36710266) - [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
+* [2023-07-13, 14:52:16](https://news.ycombinator.com/item?id=36710119) - [TikTok ban bill in US faces changes after ByteDance spent $100M on lobbying](https://www.scmp.com/tech/tech-war/article/3227250/tiktok-crackdown-bill-us-faces-changes-after-bytedances-us100-million-lobbying-spending-spree)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
