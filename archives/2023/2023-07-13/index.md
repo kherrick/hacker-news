@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 10:49:47](https://news.ycombinator.com/item?id=36707262) - [C++23’s Deducing this: what it is, why it is, how to use it](https://devblogs.microsoft.com/cppblog/cpp23-deducing-this/)
+* [2023-07-13, 10:47:13](https://news.ycombinator.com/item?id=36707239) - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 * [2023-07-13, 10:00:10](https://news.ycombinator.com/item?id=36706934) - [Python consumes 38x more energy than Java](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
+* [2023-07-13, 09:29:58](https://news.ycombinator.com/item?id=36706757) - [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
 * [2023-07-13, 08:11:11](https://news.ycombinator.com/item?id=36706292) - [BRICS gold-backed currency coming in August](https://dailyreckoning.com/rickards-drops-bombshell/)
 * [2023-07-13, 07:56:40](https://news.ycombinator.com/item?id=36706216) - [JumpCloud Security Incident Details](https://news.ycombinator.com/item?id=36706216)
 * [2023-07-13, 07:43:36](https://news.ycombinator.com/item?id=36706142) - [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
