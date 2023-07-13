@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
 * [2023-07-13, 22:00:38](https://news.ycombinator.com/item?id=36716676) - [SEO Expert Hired and Fired by Ashley Madison Turned on Company Promising Revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
+* [2023-07-13, 21:29:50](https://news.ycombinator.com/item?id=36716258) - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
 * [2023-07-13, 21:19:14](https://news.ycombinator.com/item?id=36716124) - [Position-Driven Styles](https://kizu.dev/position-driven-styles/)
 * [2023-07-13, 21:04:15](https://news.ycombinator.com/item?id=36715958) - [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
 * [2023-07-13, 21:01:37](https://news.ycombinator.com/item?id=36715925) - [Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)

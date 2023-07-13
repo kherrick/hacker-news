@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-13, 22:00:38](https://news.ycombinator.com/item?id=36716676) - [SEO expert hired and fired by Ashley Madison turned on company promising revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
+* [2023-07-13, 21:29:50](https://news.ycombinator.com/item?id=36716258) - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
 * [2023-07-13, 21:19:14](https://news.ycombinator.com/item?id=36716124) - [Position-Driven Styles](https://kizu.dev/position-driven-styles/)
 * [2023-07-13, 21:04:15](https://news.ycombinator.com/item?id=36715958) - [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
 * [2023-07-13, 21:01:37](https://news.ycombinator.com/item?id=36715925) - [Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)
@@ -28,7 +29,6 @@
 * [2023-07-13, 12:03:36](https://news.ycombinator.com/item?id=36707877) - [Show HN: Free AI-based music demixing in the browser](https://sevag.xyz/free-music-demixer/)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
-* [2023-07-12, 17:22:14](https://news.ycombinator.com/item?id=36698163) - [New epoch marked by human impact, the Anthropocene, began in 1950s](https://www.npr.org/2023/07/11/1187125012/anthropocene-crawford-lake-canada-beginning)
 * [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
