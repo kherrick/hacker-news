@@ -8,6 +8,7 @@
 * [2023-07-13, 13:37:21](https://news.ycombinator.com/item?id=36708907) - [Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
 * [2023-07-13, 13:30:41](https://news.ycombinator.com/item?id=36708827) - [Two new AI-based weather-forecasting systems challenging the status quo](https://phys.org/news/2023-07-ai-based-weather-forecasting-status-quo.html)
 * [2023-07-13, 13:25:42](https://news.ycombinator.com/item?id=36708759) - [Unchecked Java: Say Goodbye to Checked Exceptions Forever](https://github.com/rogerkeays/unchecked)
+* [2023-07-13, 13:23:21](https://news.ycombinator.com/item?id=36708723) - [Commercial Interests Petition FCC for High Power Allocation on Shortwave](https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum)
 * [2023-07-13, 13:18:02](https://news.ycombinator.com/item?id=36708656) - [When Work Didn’t Follow You Home](https://calnewport.com/when-work-didnt-follow-you-home/)
 * [2023-07-13, 13:09:24](https://news.ycombinator.com/item?id=36708550) - [B.C. government hit tweet limit amid wildfire evacuations](https://www.vancouverisawesome.com/highlights/bc-government-hit-tweet-limit-amid-wildfire-evacuations-7268169)
 * [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool but Obscure X11 Apps](https://cyber.dabamos.de/unix/x11/)
