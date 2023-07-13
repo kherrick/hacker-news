@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter](https://github.com/rexdex/recompiler)
+* [2023-07-13, 04:49:16](https://news.ycombinator.com/item?id=36705119) - [After 168 Years, Potato Famine Mystery Solved](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
 * [2023-07-13, 04:36:56](https://news.ycombinator.com/item?id=36705070) - [The Anti-Ownership eBook Economy](https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/)
 * [2023-07-13, 03:37:05](https://news.ycombinator.com/item?id=36704738) - [An update on the Federal Reserve’s Instant Payments Service: FedNow](https://www.clevelandfed.org/collections/speeches/2023/sp-20230712-update-on-the-federal-reserves-instant-payments-service)
 * [2023-07-13, 03:08:57](https://news.ycombinator.com/item?id=36704581) - [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
