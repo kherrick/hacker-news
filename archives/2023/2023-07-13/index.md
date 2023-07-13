@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 18:45:41](https://news.ycombinator.com/item?id=36714139) - [Cowboy rides to the rescue of VanMoof owners with app to unlock threatened bikes](https://techcrunch.com/2023/07/13/cowboy-rides-to-the-rescue-of-vanmoof-owners-with-app-to-unlock-threatened-bikes/)
 * [2023-07-13, 18:25:55](https://news.ycombinator.com/item?id=36713847) - [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
+* [2023-07-13, 18:17:54](https://news.ycombinator.com/item?id=36713737) - [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
 * [2023-07-13, 17:57:06](https://news.ycombinator.com/item?id=36713375) - [Apple claims 99% iPhone 14 satisfaction. Is that possible? (No). We investigate](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
