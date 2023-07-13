@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 18:25:55](https://news.ycombinator.com/item?id=36713847) - [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
 * [2023-07-13, 17:57:06](https://news.ycombinator.com/item?id=36713375) - [Is Apple making implausible iPhone satisfaction claims?](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
@@ -18,7 +19,6 @@
 * [2023-07-13, 14:22:18](https://news.ycombinator.com/item?id=36709593) - [Is Design Dead? (2004)](https://www.martinfowler.com/articles/designDead.html)
 * [2023-07-13, 14:06:23](https://news.ycombinator.com/item?id=36709361) - [Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 13:37:21](https://news.ycombinator.com/item?id=36708907) - [Ory Kratos v1.0 with passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
-* [2023-07-13, 13:23:21](https://news.ycombinator.com/item?id=36708723) - [Commercial Interests Petition FCC for High Power Allocation on Shortwave](https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum)
 * [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool, but obscure X11 tools (2019)](https://cyber.dabamos.de/unix/x11/)
 * [2023-07-13, 12:03:36](https://news.ycombinator.com/item?id=36707877) - [Show HN: Free AI-based music demixing in the browser](https://sevag.xyz/free-music-demixer/)
 * [2023-07-13, 11:53:40](https://news.ycombinator.com/item?id=36707789) - [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
