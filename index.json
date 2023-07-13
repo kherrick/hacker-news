@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=36713375"
     ],
     [
-      "Apple claims 99% iPhone 14 satisfaction. Is that possible? (No). We investigate",
+      "Is Apple making implausible iPhone satisfaction claims?",
       "https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims"
     ]
   ],
@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36713037"
     ],
     [
-      "The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV",
+      "The FCC responds to my ATSC 3 encryption complaint – they want to hear from you",
       "https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/"
     ]
   ],
@@ -67,16 +67,6 @@
     [
       "Ripple notches win in SEC case over XRP cryptocurrency",
       "https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 16:41:09",
-      "https://news.ycombinator.com/item?id=36712084"
-    ],
-    [
-      "Open Container Initiative announces upcoming changes for registries",
-      "https://www.chainguard.dev/unchained/oci-announces-upcoming-changes-for-registries"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Xbox360 –> Windows Executable Converter (2017)",
       "https://github.com/rexdex/recompiler"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 12:01:14",
+      "https://news.ycombinator.com/item?id=36679763"
+    ],
+    [
+      "The subtle magic of tsnet",
+      "https://tailscale.dev/blog/tsup-tsnet"
     ]
   ]
 ]
