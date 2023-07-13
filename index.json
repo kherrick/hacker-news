@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 13:37:21",
+      "https://news.ycombinator.com/item?id=36708907"
+    ],
+    [
+      "Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region",
+      "https://github.com/ory/kratos/releases/tag/v1.0.0"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 13:09:24",
       "https://news.ycombinator.com/item?id=36708550"
     ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2023-07-13, 11:21:10",
+      "https://news.ycombinator.com/item?id=36707509"
+    ],
+    [
+      "A Parameter-Free Classification Method with Compressors",
+      "https://aclanthology.org/2023.findings-acl.426/"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 10:57:15",
       "https://news.ycombinator.com/item?id=36707321"
     ],
@@ -147,16 +167,6 @@
     [
       "Gzip and KNN Outperforms Transformers on Text Classification",
       "https://twitter.com/LukeGessler/status/1679211291292889100"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 09:46:25",
-      "https://news.ycombinator.com/item?id=36706856"
-    ],
-    [
-      "Bluesky now checks against this array of slurs when creating a username",
-      "https://github.com/bluesky-social/atproto/pull/1314/files"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2023-07-12, 22:15:48",
-      "https://news.ycombinator.com/item?id=36702405"
+      "2023-07-11, 19:33:04",
+      "https://news.ycombinator.com/item?id=36686156"
     ],
     [
-      "Maker Faire Bay Area Returns",
-      "https://makerfaire.com/bay-area/call-for-makers/"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 23:55:07",
-      "https://news.ycombinator.com/item?id=36688738"
-    ],
-    [
-      "Why it’s necessary to shoot yourself in the foot",
-      "https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html"
+      "Bacon's Cipher",
+      "https://en.wikipedia.org/wiki/Bacon%27s_cipher"
     ]
   ]
 ]
