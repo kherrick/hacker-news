@@ -7,6 +7,7 @@
 * [2023-07-13, 19:52:11](https://news.ycombinator.com/item?id=36715052) - [Actors union will join writers on strike, shutting down Hollywood](https://www.cnbc.com/2023/07/13/sag-actors-union-goes-on-strike-joining-hollywood-writers.html)
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to Build Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 19:37:52](https://news.ycombinator.com/item?id=36714869) - [StabilityAI Cofounder Says CEO Tricked Him into Selling Stake for $100](https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/)
+* [2023-07-13, 19:33:42](https://news.ycombinator.com/item?id=36714823) - [Microsoft Office’s new default font: Aptos](https://www.theverge.com/2023/7/13/23793428/microsoft-aptos-new-default-font-office-365)
 * [2023-07-13, 19:23:58](https://news.ycombinator.com/item?id=36714702) - [Mark F** Zuckerberg Is Not Your Friend](https://catvalente.substack.com/p/mark-fking-zuckerberg-is-not-your)
 * [2023-07-13, 19:11:42](https://news.ycombinator.com/item?id=36714522) - [Buddy Pond Cloud Desktop](https://buddypond.com/)
 * [2023-07-13, 19:07:55](https://news.ycombinator.com/item?id=36714459) - [Generative AI Can Save You Hours at Your Tech Job](https://blog.get-merit.com/how-generative-ai-can-save-you-four-hours-at-your-tech-job/)
