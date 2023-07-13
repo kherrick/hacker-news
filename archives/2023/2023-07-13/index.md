@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
+* [2023-07-13, 14:22:18](https://news.ycombinator.com/item?id=36709593) - [Is Design Dead?](https://www.martinfowler.com/articles/designDead.html)
 * [2023-07-13, 13:58:48](https://news.ycombinator.com/item?id=36709258) - [People helping Uyghur children struggling to build new lives in Turkey](https://thechinaproject.com/2023/07/13/the-people-helping-uyghur-children-struggling-to-build-new-lives-in-turkey/)
 * [2023-07-13, 13:37:21](https://news.ycombinator.com/item?id=36708907) - [Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
+* [2023-07-13, 13:34:11](https://news.ycombinator.com/item?id=36708880) - [ChatGPT Now Losing Users](https://futurism.com/the-byte/chatgpt-is-now-losing-users)
 * [2023-07-13, 13:30:41](https://news.ycombinator.com/item?id=36708827) - [Two new AI-based weather-forecasting systems challenging the status quo](https://phys.org/news/2023-07-ai-based-weather-forecasting-status-quo.html)
 * [2023-07-13, 13:25:42](https://news.ycombinator.com/item?id=36708759) - [Unchecked Java: Say Goodbye to Checked Exceptions Forever](https://github.com/rogerkeays/unchecked)
 * [2023-07-13, 13:23:21](https://news.ycombinator.com/item?id=36708723) - [Commercial Interests Petition FCC for High Power Allocation on Shortwave](https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum)
