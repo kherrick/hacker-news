@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 11:48:02](https://news.ycombinator.com/item?id=36707737) - [Right-Wing Websites Scam Loyal Followers with Phony Celebrity Pitches](https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-13, 11:16:59](https://news.ycombinator.com/item?id=36707478) - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
 * [2023-07-13, 11:06:30](https://news.ycombinator.com/item?id=36707404) - [Ask HN: Is the Market Recovering?](https://news.ycombinator.com/item?id=36707404)
@@ -8,7 +9,6 @@
 * [2023-07-13, 10:47:13](https://news.ycombinator.com/item?id=36707239) - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 * [2023-07-13, 10:38:54](https://news.ycombinator.com/item?id=36707193) - [Gzip and KNN Outperforms Transformers on Text Classification](https://twitter.com/LukeGessler/status/1679211291292889100)
 * [2023-07-13, 09:29:58](https://news.ycombinator.com/item?id=36706757) - [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
-* [2023-07-13, 08:11:11](https://news.ycombinator.com/item?id=36706292) - [BRICS gold-backed currency coming in August](https://dailyreckoning.com/rickards-drops-bombshell/)
 * [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)

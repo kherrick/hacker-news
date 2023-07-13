@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 11:48:02](https://news.ycombinator.com/item?id=36707737) - [Right-Wing Websites Scam Loyal Followers with Phony Celebrity Pitches](https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-13, 11:16:59](https://news.ycombinator.com/item?id=36707478) - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
 * [2023-07-13, 11:06:30](https://news.ycombinator.com/item?id=36707404) - [Ask HN: Is the Market Recovering?](https://news.ycombinator.com/item?id=36707404)
