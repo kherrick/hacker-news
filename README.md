@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 22:00:38](https://news.ycombinator.com/item?id=36716676) - [SEO Expert Hired and Fired by Ashley Madison Turned on Company Promising Revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
+* [2023-07-13, 21:19:14](https://news.ycombinator.com/item?id=36716124) - [Position-Driven Styles](https://kizu.dev/position-driven-styles/)
 * [2023-07-13, 21:04:15](https://news.ycombinator.com/item?id=36715958) - [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
 * [2023-07-13, 21:01:37](https://news.ycombinator.com/item?id=36715925) - [Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)
 * [2023-07-13, 21:00:33](https://news.ycombinator.com/item?id=36715912) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-* [2023-07-13, 20:41:11](https://news.ycombinator.com/item?id=36715686) - [Actors say Hollywood studios want their AI replicas – for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
 * [2023-07-13, 20:27:27](https://news.ycombinator.com/item?id=36715504) - [Boston Mayor Wu Announces Residential Conversion Program for Office Buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
 * [2023-07-13, 20:21:53](https://news.ycombinator.com/item?id=36715419) - [Remembering Lithium-Ion Battery Pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
 * [2023-07-13, 19:52:11](https://news.ycombinator.com/item?id=36715052) - [Actors union will join writers on strike, shutting down Hollywood](https://www.cnbc.com/2023/07/13/sag-actors-union-goes-on-strike-joining-hollywood-writers.html)
@@ -28,7 +29,6 @@
 * [2023-07-13, 12:03:36](https://news.ycombinator.com/item?id=36707877) - [Show HN: Free AI-based music demixing in the browser](https://sevag.xyz/free-music-demixer/)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
-* [2023-07-12, 17:22:14](https://news.ycombinator.com/item?id=36698163) - [New epoch marked by human impact, the Anthropocene, began in 1950s](https://www.npr.org/2023/07/11/1187125012/anthropocene-crawford-lake-canada-beginning)
 * [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
