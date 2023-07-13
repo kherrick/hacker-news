@@ -86,6 +86,7 @@
 * [2023-07-12, 04:31:18](https://news.ycombinator.com/item?id=36690498) - [RPCS3 – The Open Source Playstation 3 Emulator](https://rpcs3.net/)
 * [2023-07-12, 04:00:08](https://news.ycombinator.com/item?id=36690320) - [Chiplet ASIC supercomputers for LLMs like GPT-4](https://arxiv.org/abs/2307.02666)
 * [2023-07-12, 02:50:35](https://news.ycombinator.com/item?id=36689916) - [When a Simple Blue Light Was the Hot New Anaesthetic in Dentistry](https://paleofuture.com/blog/2023/7/6/when-blue-light-was-the-hot-new-anaesthetic)
+* [2023-07-12, 02:46:55](https://news.ycombinator.com/item?id=36689888) - [IoSafe 1522 NAS Review Synology Powered Fireproof and Waterproof NAS](https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/)
 * [2023-07-12, 02:25:48](https://news.ycombinator.com/item?id=36689756) - [Commit Mono – Neutral programming typeface](https://commitmono.com/)
 * [2023-07-12, 01:51:22](https://news.ycombinator.com/item?id=36689564) - [The English Programming Language](https://github.com/theletterf/english-lang)
 * [2023-07-12, 01:42:15](https://news.ycombinator.com/item?id=36689503) - [How the design of Disney parks affects our perspective](https://disneycicerone.com/how-the-design-of-disney-parks-affects-our-perspective/)
