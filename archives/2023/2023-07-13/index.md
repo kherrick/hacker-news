@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 17:57:06](https://news.ycombinator.com/item?id=36713375) - [Apple claims 99% iPhone 14 satisfaction. Is that possible? (No). We investigate](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
+* [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
+* [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:10:22](https://news.ycombinator.com/item?id=36712564) - [We spent $20k on Google Play Pre-Registration Ads. Here are the results](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Hype Will Turn Your Security Key into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 17:00:32](https://news.ycombinator.com/item?id=36712414) - [Flexport (Founders Fund company) is hiring](https://flexport.com/careers)
@@ -43,6 +46,7 @@
 * [2023-07-13, 12:43:27](https://news.ycombinator.com/item?id=36708273) - [VC firms face new scrutiny from LPs](https://www.axios.com/2023/07/13/venture-capital-firm-scrutiny-lp)
 * [2023-07-13, 12:15:48](https://news.ycombinator.com/item?id=36707990) - [Tax prep firms shared ‘extraordinarily sensitive’ data about taxpayers with Meta](https://apnews.com/article/irs-taxpayer-tax-preparation-meta-congress-9315cfca7a0942ab89f765d183fbf822)
 * [2023-07-13, 12:15:17](https://news.ycombinator.com/item?id=36707986) - [Learning to Touch Type Again](https://www.deusinmachina.net/p/learning-to-touch-type-again)
+* [2023-07-13, 12:03:36](https://news.ycombinator.com/item?id=36707877) - [Show HN: Free AI-based music demixing in the browser](https://sevag.xyz/free-music-demixer/)
 * [2023-07-13, 11:53:40](https://news.ycombinator.com/item?id=36707789) - [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
 * [2023-07-13, 11:51:30](https://news.ycombinator.com/item?id=36707773) - [The Many Planned Moon Landings of 2023](https://spectrum.ieee.org/lunar-landing)
 * [2023-07-13, 11:48:02](https://news.ycombinator.com/item?id=36707737) - [Right-Wing Websites Scam Loyal Followers with Phony Celebrity Pitches](https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches)
