@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 13:05:13](https://news.ycombinator.com/item?id=36708503) - [Shopify discourages meetings by shaming employees with cost calculator](https://financialpost.com/fp-work/shopify-discourages-meetings-shaming-cost-calculator)
+* [2023-07-13, 12:50:14](https://news.ycombinator.com/item?id=36708333) - [Show HN: Hansei](https://hansei.app/)
+* [2023-07-13, 12:46:10](https://news.ycombinator.com/item?id=36708301) - [Rapid Covid tests miss 90% of asymptomatic cases](https://www.nature.com/articles/d41586-023-02254-9)
+* [2023-07-13, 12:43:27](https://news.ycombinator.com/item?id=36708273) - [VC firms face new scrutiny from LPs](https://www.axios.com/2023/07/13/venture-capital-firm-scrutiny-lp)
 * [2023-07-13, 12:15:48](https://news.ycombinator.com/item?id=36707990) - [Tax prep firms shared ‘extraordinarily sensitive’ data about taxpayers with Meta](https://apnews.com/article/irs-taxpayer-tax-preparation-meta-congress-9315cfca7a0942ab89f765d183fbf822)
 * [2023-07-13, 12:15:17](https://news.ycombinator.com/item?id=36707986) - [Learning to Touch Type Again](https://www.deusinmachina.net/p/learning-to-touch-type-again)
 * [2023-07-13, 11:53:40](https://news.ycombinator.com/item?id=36707789) - [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
+* [2023-07-13, 11:51:30](https://news.ycombinator.com/item?id=36707773) - [The Many Planned Moon Landings of 2023](https://spectrum.ieee.org/lunar-landing)
 * [2023-07-13, 11:48:02](https://news.ycombinator.com/item?id=36707737) - [Right-Wing Websites Scam Loyal Followers with Phony Celebrity Pitches](https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-13, 11:16:59](https://news.ycombinator.com/item?id=36707478) - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
@@ -16,6 +21,7 @@
 * [2023-07-13, 10:47:13](https://news.ycombinator.com/item?id=36707239) - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 * [2023-07-13, 10:38:54](https://news.ycombinator.com/item?id=36707193) - [Gzip and KNN Outperforms Transformers on Text Classification](https://twitter.com/LukeGessler/status/1679211291292889100)
 * [2023-07-13, 10:00:10](https://news.ycombinator.com/item?id=36706934) - [Python consumes 38x more energy than Java](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
+* [2023-07-13, 09:46:25](https://news.ycombinator.com/item?id=36706856) - [Bluesky now checks against this array of slurs when creating a username](https://github.com/bluesky-social/atproto/pull/1314/files)
 * [2023-07-13, 09:29:58](https://news.ycombinator.com/item?id=36706757) - [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
 * [2023-07-13, 08:11:11](https://news.ycombinator.com/item?id=36706292) - [BRICS gold-backed currency coming in August](https://dailyreckoning.com/rickards-drops-bombshell/)
 * [2023-07-13, 07:56:40](https://news.ycombinator.com/item?id=36706216) - [JumpCloud Security Incident Details](https://news.ycombinator.com/item?id=36706216)
