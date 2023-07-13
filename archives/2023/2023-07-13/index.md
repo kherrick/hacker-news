@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 15:16:14](https://news.ycombinator.com/item?id=36710558) - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)

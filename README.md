@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 15:16:14](https://news.ycombinator.com/item?id=36710558) - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
@@ -21,7 +22,6 @@
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-13, 11:21:10](https://news.ycombinator.com/item?id=36707509) - [A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
 * [2023-07-13, 10:57:15](https://news.ycombinator.com/item?id=36707321) - [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
-* [2023-07-13, 10:47:13](https://news.ycombinator.com/item?id=36707239) - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 * [2023-07-13, 10:38:54](https://news.ycombinator.com/item?id=36707193) - [Gzip and KNN Outperforms Transformers on Text Classification](https://twitter.com/LukeGessler/status/1679211291292889100)
 * [2023-07-13, 09:29:58](https://news.ycombinator.com/item?id=36706757) - [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
 * [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
