@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
 * [2023-07-13, 17:10:22](https://news.ycombinator.com/item?id=36712564) - [We spent $20k on Google Play Pre-Registration Ads. Here are the results](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Hype Will Turn Your Security Key into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 17:00:32](https://news.ycombinator.com/item?id=36712414) - [Flexport (Founders Fund company) is hiring](https://flexport.com/careers)
