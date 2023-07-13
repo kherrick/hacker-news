@@ -6,6 +6,7 @@
 
 * [2023-07-13, 07:56:40](https://news.ycombinator.com/item?id=36706216) - [JumpCloud Security Incident Details](https://news.ycombinator.com/item?id=36706216)
 * [2023-07-13, 07:43:36](https://news.ycombinator.com/item?id=36706142) - [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
+* [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
 * [2023-07-13, 06:26:20](https://news.ycombinator.com/item?id=36705648) - [Dutch E-Bike startup VanMoof unable to pay the bills](https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter](https://github.com/rexdex/recompiler)
