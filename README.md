@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-13, 10:00:10](https://news.ycombinator.com/item?id=36706934) - [Python consumes 38x more energy than Java](https://stratoflow.com/efficient-and-environment-friendly-programming-languages/)
+* [2023-07-13, 08:11:11](https://news.ycombinator.com/item?id=36706292) - [BRICS gold-backed currency coming in August](https://dailyreckoning.com/rickards-drops-bombshell/)
 * [2023-07-13, 07:43:36](https://news.ycombinator.com/item?id=36706142) - [Indian developer fired 90 percent of tech support team, outsourced the job to AI](https://www.theregister.com/2023/07/13/dukaan_ai_support_replacement/)
 * [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
@@ -19,7 +20,6 @@
 * [2023-07-12, 22:15:48](https://news.ycombinator.com/item?id=36702405) - [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
 * [2023-07-12, 21:42:34](https://news.ycombinator.com/item?id=36702084) - [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
 * [2023-07-12, 19:48:55](https://news.ycombinator.com/item?id=36700656) - [Simone Weil’s Great Awakening](https://www.newstatesman.com/ideas/2023/07/simone-weil-great-awakening-wolfram-eilenberger)
-* [2023-07-12, 19:35:40](https://news.ycombinator.com/item?id=36700450) - [She Steals Surfboards by the Seashore. She’s a Sea Otter](https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html)
 * [2023-07-12, 18:43:28](https://news.ycombinator.com/item?id=36699738) - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
 * [2023-07-12, 18:21:28](https://news.ycombinator.com/item?id=36699327) - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
