@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 16:40:03](https://news.ycombinator.com/item?id=36712062) - [Spike in Homelessness in US Cities Isn’t Slowing Down](https://www.msn.com/en-us/money/realestate/the-spike-in-homelessness-in-us-cities-isn-t-slowing-down/ar-AA1dOiKW)
 * [2023-07-13, 15:59:59](https://news.ycombinator.com/item?id=36711370) - [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force)
 * [2023-07-13, 15:42:10](https://news.ycombinator.com/item?id=36711033) - [AMD Ryzen 7040 Series Shows Great AVX-512 Performance for Laptops / Mobile](https://www.phoronix.com/review/amd-ryzen7040-avx512)
 * [2023-07-13, 15:16:14](https://news.ycombinator.com/item?id=36710558) - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
