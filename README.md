@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 18:51:38](https://news.ycombinator.com/item?id=36714228) - [Age of universe at 26.7B years, nearly twice as old as previously believed](https://phys.org/news/2023-07-age-universe-billion-years-previously.html)
 * [2023-07-13, 18:45:41](https://news.ycombinator.com/item?id=36714139) - [Cowboy rides to the rescue of VanMoof owners with app to unlock threatened bikes](https://techcrunch.com/2023/07/13/cowboy-rides-to-the-rescue-of-vanmoof-owners-with-app-to-unlock-threatened-bikes/)
 * [2023-07-13, 18:25:55](https://news.ycombinator.com/item?id=36713847) - [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
 * [2023-07-13, 18:17:54](https://news.ycombinator.com/item?id=36713737) - [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
@@ -13,7 +14,6 @@
 * [2023-07-13, 16:25:37](https://news.ycombinator.com/item?id=36711799) - [WW2 Meteorology](https://rafmetman.wordpress.com/meteorology/ww2-meteorology/)
 * [2023-07-13, 15:42:10](https://news.ycombinator.com/item?id=36711033) - [AMD Ryzen 7040 Series Shows Great AVX-512 Performance for Laptops / Mobile](https://www.phoronix.com/review/amd-ryzen7040-avx512)
 * [2023-07-13, 15:16:14](https://news.ycombinator.com/item?id=36710558) - [Founder of crypto lender Celsius Network arrested, charged with fraud](https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/)
-* [2023-07-13, 15:10:49](https://news.ycombinator.com/item?id=36710444) - [Manuscript Textiles: Weaving the Thread of Faith](https://blogs.bl.uk/asian-and-african/2023/07/manuscript-textiles-weaving-the-thread-of-faith.html)
 * [2023-07-13, 15:00:16](https://news.ycombinator.com/item?id=36710266) - [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster neural networks straight from JPEG (2018)](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
