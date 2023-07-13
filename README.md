@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 21:04:15](https://news.ycombinator.com/item?id=36715958) - [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
 * [2023-07-13, 21:00:33](https://news.ycombinator.com/item?id=36715912) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-07-13, 20:41:11](https://news.ycombinator.com/item?id=36715686) - [Actors say Hollywood studios want their AI replicas – for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
+* [2023-07-13, 20:27:27](https://news.ycombinator.com/item?id=36715504) - [Boston Mayor Wu Announces Residential Conversion Program for Office Buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
 * [2023-07-13, 20:21:53](https://news.ycombinator.com/item?id=36715419) - [Remembering Lithium-Ion Battery Pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
 * [2023-07-13, 19:52:11](https://news.ycombinator.com/item?id=36715052) - [Actors union will join writers on strike, shutting down Hollywood](https://www.cnbc.com/2023/07/13/sag-actors-union-goes-on-strike-joining-hollywood-writers.html)
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to Build Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
@@ -27,8 +29,6 @@
 * [2023-07-13, 12:03:36](https://news.ycombinator.com/item?id=36707877) - [Show HN: Free AI-based music demixing in the browser](https://sevag.xyz/free-music-demixer/)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-13, 08:42:31](https://news.ycombinator.com/item?id=36706453) - [OpenTTD's Infrastructure in 2023](https://www.openttd.org/news/2023/07/08/our-infrastructure)
-* [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and more are fighting FTC's 'click to cancel' proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
-* [2023-07-11, 15:02:20](https://news.ycombinator.com/item?id=36682012) - [Show HN: CodSpeed – Continuous Performance Measurement](https://codspeed.io/)
 * [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
