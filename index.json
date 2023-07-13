@@ -1,12 +1,42 @@
 [
   [
     [
+      "2023-07-13, 17:57:06",
+      "https://news.ycombinator.com/item?id=36713375"
+    ],
+    [
+      "Apple claims 99% iPhone 14 satisfaction. Is that possible? (No). We investigate",
+      "https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims"
+    ]
+  ],
+  [
+    [
+      "2023-07-13, 17:38:53",
+      "https://news.ycombinator.com/item?id=36713037"
+    ],
+    [
+      "The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV",
+      "https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 17:31:07",
       "https://news.ycombinator.com/item?id=36712894"
     ],
     [
       "It's official: Smartphones will need to have replaceable batteries by 2027",
       "https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/"
+    ]
+  ],
+  [
+    [
+      "2023-07-13, 17:24:22",
+      "https://news.ycombinator.com/item?id=36712788"
+    ],
+    [
+      "Brute-forcing a macOS user’s real name from a browser using mDNS",
+      "https://fingerprint.com/blog/apple-macos-mdns-brute-force/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36712414"
     ],
     [
-      "Flexport (Founders Fund company) is hiring",
+      "Flexport (YC W14) is hiring",
       "https://flexport.com/careers"
     ]
   ],
@@ -45,18 +75,8 @@
       "https://news.ycombinator.com/item?id=36712388"
     ],
     [
-      "Judge gives Ripple partial win in SEC case over XRP cryptocurrency",
+      "Ripple notches win in SEC case over XRP cryptocurrency",
       "https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 16:48:12",
-      "https://news.ycombinator.com/item?id=36712206"
-    ],
-    [
-      "Ask HN: Does ChatGPT gather your stylometry or typing cadence?",
-      "https://news.ycombinator.com/item?id=36712206"
     ]
   ],
   [
@@ -175,7 +195,7 @@
       "https://news.ycombinator.com/item?id=36708907"
     ],
     [
-      "Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region",
+      "Ory Kratos v1.0 with passkeys, MFA and multi-region",
       "https://github.com/ory/kratos/releases/tag/v1.0.0"
     ]
   ],
@@ -195,8 +215,18 @@
       "https://news.ycombinator.com/item?id=36708511"
     ],
     [
-      "Cool but Obscure X11 Apps",
+      "Cool, but obscure X11 tools (2019)",
       "https://cyber.dabamos.de/unix/x11/"
+    ]
+  ],
+  [
+    [
+      "2023-07-13, 12:03:36",
+      "https://news.ycombinator.com/item?id=36707877"
+    ],
+    [
+      "Show HN: Free AI-based music demixing in the browser",
+      "https://sevag.xyz/free-music-demixer/"
     ]
   ],
   [
@@ -207,16 +237,6 @@
     [
       "100x Faster Than Wi-Fi: Light-Based Networking Standard Released",
       "https://www.tomshardware.com/news/li-fi-standard-released"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 11:51:30",
-      "https://news.ycombinator.com/item?id=36707773"
-    ],
-    [
-      "The Many Planned Moon Landings of 2023",
-      "https://spectrum.ieee.org/lunar-landing"
     ]
   ],
   [
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2023-07-13, 09:29:58",
-      "https://news.ycombinator.com/item?id=36706757"
-    ],
-    [
-      "Download Instructions for More Than 6,800 Lego Kits at the Internet Archive",
-      "https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html"
-    ]
-  ],
-  [
-    [
       "2023-07-13, 08:42:31",
       "https://news.ycombinator.com/item?id=36706453"
     ],
@@ -277,16 +287,6 @@
     [
       "Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal",
       "https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 06:20:05",
-      "https://news.ycombinator.com/item?id=36705609"
-    ],
-    [
-      "Dt: Duck tape for your Unix pipes",
-      "https://dt.plumbing/"
     ]
   ],
   [
