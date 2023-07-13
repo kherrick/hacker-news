@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter](https://github.com/rexdex/recompiler)
 * [2023-07-13, 04:49:16](https://news.ycombinator.com/item?id=36705119) - [After 168 Years, Potato Famine Mystery Solved](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
 * [2023-07-13, 04:44:47](https://news.ycombinator.com/item?id=36705101) - [The Mac Sonoma sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)

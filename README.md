@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
 * [2023-07-13, 04:49:16](https://news.ycombinator.com/item?id=36705119) - [Scientists have identified the potato pathogen that devastated Ireland (2013)](https://www.history.com/news/after-168-years-potato-famine-mystery-solved)
 * [2023-07-13, 04:44:47](https://news.ycombinator.com/item?id=36705101) - [The Mac Sonoma sure is starting to look like the iPhone](https://www.theverge.com/2023/7/12/23792490/macos-sonoma-public-beta-preview)
@@ -28,7 +29,6 @@
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:55:07](https://news.ycombinator.com/item?id=36688738) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 19:33:04](https://news.ycombinator.com/item?id=36686156) - [Bacon's Cipher](https://en.wikipedia.org/wiki/Bacon%27s_cipher)
-* [2023-07-11, 05:58:16](https://news.ycombinator.com/item?id=36676917) - [Africa’s Merchant Kings](https://www.archaeology.org/issues/515-2307/features/11500-aksum-ethiopia-eritrea-kingdom)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
 ## [Archives](archives/index.md)
