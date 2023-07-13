@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 13:37:21](https://news.ycombinator.com/item?id=36708907) - [Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
 * [2023-07-13, 13:09:24](https://news.ycombinator.com/item?id=36708550) - [B.C. government hit tweet limit amid wildfire evacuations](https://www.vancouverisawesome.com/highlights/bc-government-hit-tweet-limit-amid-wildfire-evacuations-7268169)
 * [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool but Obscure X11 Apps](https://cyber.dabamos.de/unix/x11/)
 * [2023-07-13, 13:05:13](https://news.ycombinator.com/item?id=36708503) - [Shopify discourages meetings by shaming employees with cost calculator](https://financialpost.com/fp-work/shopify-discourages-meetings-shaming-cost-calculator)
@@ -18,6 +19,7 @@
 * [2023-07-13, 11:51:30](https://news.ycombinator.com/item?id=36707773) - [The Many Planned Moon Landings of 2023](https://spectrum.ieee.org/lunar-landing)
 * [2023-07-13, 11:48:02](https://news.ycombinator.com/item?id=36707737) - [Right-Wing Websites Scam Loyal Followers with Phony Celebrity Pitches](https://www.propublica.org/article/right-wing-websites-scam-readers-phony-celebrity-pitches)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
+* [2023-07-13, 11:21:10](https://news.ycombinator.com/item?id=36707509) - [A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
 * [2023-07-13, 11:16:59](https://news.ycombinator.com/item?id=36707478) - [Three signs that Wayland is becoming the favored way to get a GUI on Linux](https://www.theregister.com/2023/07/13/wayland_is_coming/)
 * [2023-07-13, 11:06:30](https://news.ycombinator.com/item?id=36707404) - [Ask HN: Is the Market Recovering?](https://news.ycombinator.com/item?id=36707404)
 * [2023-07-13, 10:57:15](https://news.ycombinator.com/item?id=36707321) - [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)

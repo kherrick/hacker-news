@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-13, 13:37:21](https://news.ycombinator.com/item?id=36708907) - [Show HN: Open-source IAM Ory Kratos v1.0 with Passkeys, MFA and multi-region](https://github.com/ory/kratos/releases/tag/v1.0.0)
 * [2023-07-13, 13:09:24](https://news.ycombinator.com/item?id=36708550) - [B.C. government hit tweet limit amid wildfire evacuations](https://www.vancouverisawesome.com/highlights/bc-government-hit-tweet-limit-amid-wildfire-evacuations-7268169)
 * [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool but Obscure X11 Apps](https://cyber.dabamos.de/unix/x11/)
 * [2023-07-13, 12:54:13](https://news.ycombinator.com/item?id=36708377) - [“Suburban sprawl is a much worse problem than skyscrapers”](https://www.dezeen.com/2023/07/12/suburban-sprawl-worse-problem-skyscrapers/)
@@ -12,10 +13,10 @@
 * [2023-07-13, 11:53:40](https://news.ycombinator.com/item?id=36707789) - [100x Faster Than Wi-Fi: Light-Based Networking Standard Released](https://www.tomshardware.com/news/li-fi-standard-released)
 * [2023-07-13, 11:51:30](https://news.ycombinator.com/item?id=36707773) - [The Many Planned Moon Landings of 2023](https://spectrum.ieee.org/lunar-landing)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
+* [2023-07-13, 11:21:10](https://news.ycombinator.com/item?id=36707509) - [A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426/)
 * [2023-07-13, 10:57:15](https://news.ycombinator.com/item?id=36707321) - [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
 * [2023-07-13, 10:47:13](https://news.ycombinator.com/item?id=36707239) - [GitHub merge queue is generally available](https://github.blog/2023-07-12-github-merge-queue-is-generally-available/)
 * [2023-07-13, 10:38:54](https://news.ycombinator.com/item?id=36707193) - [Gzip and KNN Outperforms Transformers on Text Classification](https://twitter.com/LukeGessler/status/1679211291292889100)
-* [2023-07-13, 09:46:25](https://news.ycombinator.com/item?id=36706856) - [Bluesky now checks against this array of slurs when creating a username](https://github.com/bluesky-social/atproto/pull/1314/files)
 * [2023-07-13, 09:29:58](https://news.ycombinator.com/item?id=36706757) - [Download Instructions for More Than 6,800 Lego Kits at the Internet Archive](https://www.openculture.com/2023/07/download-instructions-for-more-than-6800-lego-kits-at-the-internet-archive.html)
 * [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
@@ -28,8 +29,7 @@
 * [2023-07-12, 23:13:09](https://news.ycombinator.com/item?id=36702939) - [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
 * [2023-07-12, 23:09:50](https://news.ycombinator.com/item?id=36702911) - [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
 * [2023-07-12, 22:51:16](https://news.ycombinator.com/item?id=36702731) - [Xenia: Xbox 360 Emulator (2022)](https://xenia.jp/)
-* [2023-07-12, 22:15:48](https://news.ycombinator.com/item?id=36702405) - [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
-* [2023-07-11, 23:55:07](https://news.ycombinator.com/item?id=36688738) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
+* [2023-07-11, 19:33:04](https://news.ycombinator.com/item?id=36686156) - [Bacon's Cipher](https://en.wikipedia.org/wiki/Bacon%27s_cipher)
 
 ## [Archives](archives/index.md)
 
