@@ -15,6 +15,7 @@
 * [2023-07-11, 20:33:10](https://news.ycombinator.com/item?id=36686857) - [Kelly Rowland couldn't have used the =HYPERLINK() function to message Nelly](https://blog.jgc.org/2023/07/unfortunately-kelly-rowland-couldnt.html)
 * [2023-07-11, 20:22:08](https://news.ycombinator.com/item?id=36686721) - [How is the speed of light measured? (1997)](https://web.archive.org/web/20150821181850/http://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/measure_c.html)
 * [2023-07-11, 20:17:48](https://news.ycombinator.com/item?id=36686672) - [Show HN: Van, truck or car camp for $0 a night](https://www.landcamp.org/)
+* [2023-07-11, 19:33:04](https://news.ycombinator.com/item?id=36686156) - [Bacon's Cipher](https://en.wikipedia.org/wiki/Bacon%27s_cipher)
 * [2023-07-11, 18:56:06](https://news.ycombinator.com/item?id=36685649) - [Storing Data in Control Flow](https://research.swtch.com/pcdata)
 * [2023-07-11, 18:46:51](https://news.ycombinator.com/item?id=36685514) - [Bubblewrap – Low-level unprivileged sandboxing tool used by Flatpak](https://github.com/containers/bubblewrap)
 * [2023-07-11, 18:36:18](https://news.ycombinator.com/item?id=36685350) - [A Petabyte of Health Insurance Prices Per Month – Why is there so much data?](https://blog.turquoise.health/a-petabyte-of-health-insurance-rates-a-month/)
