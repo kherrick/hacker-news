@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 06:26:20",
+      "https://news.ycombinator.com/item?id=36705648"
+    ],
+    [
+      "Dutch E-Bike startup VanMoof unable to pay the bills",
+      "https://techcrunch.com/2023/07/12/report-vanmoof-has-filed-for-bankruptcy-protection-in-holland/"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 06:20:05",
       "https://news.ycombinator.com/item?id=36705609"
     ],
@@ -217,16 +227,6 @@
     [
       "Creating a search engine with PostgreSQL",
       "https://xata.io/blog/postgres-full-text-search-engine"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 16:57:51",
-      "https://news.ycombinator.com/item?id=36697693"
-    ],
-    [
-      "Istio moved to CNCF Graduation stage",
-      "https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179"
     ]
   ],
   [
