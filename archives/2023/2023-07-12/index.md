@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-12](index.md)
 
+* [2023-07-12, 23:13:09](https://news.ycombinator.com/item?id=36702939) - [Figma Is a File Editor](https://digest.browsertech.com/archive/browsertech-digest-figma-is-a-file-editor/)
+* [2023-07-12, 23:09:50](https://news.ycombinator.com/item?id=36702911) - [Recreate the cavity-preventing GMO bacteria BCS3-L1 from precursor](https://manifund.org/projects/recreate-the-cavity-preventing-gmo-bacteria-bcs3-l1-from-precursor-)
 * [2023-07-12, 22:51:16](https://news.ycombinator.com/item?id=36702731) - [Xenia: Xbox 360 Emulator](https://xenia.jp/)
 * [2023-07-12, 22:35:11](https://news.ycombinator.com/item?id=36702603) - [Uber Eats Canada Ran Production in a MacBook Air](https://twitter.com/Altimor/status/1679235946334781440)
+* [2023-07-12, 22:15:48](https://news.ycombinator.com/item?id=36702405) - [Maker Faire Bay Area Returns](https://makerfaire.com/bay-area/call-for-makers/)
 * [2023-07-12, 21:42:34](https://news.ycombinator.com/item?id=36702084) - [PCSX2 is an open source PS2 Emulator](https://pcsx2.net/)
 * [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
 * [2023-07-12, 21:11:03](https://news.ycombinator.com/item?id=36701748) - [Google now requires and lists phone number in Play Store listings](https://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html)
