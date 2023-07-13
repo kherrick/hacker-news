@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-13, 17:57:06](https://news.ycombinator.com/item?id=36713375) - [Apple claims 99% iPhone 14 satisfaction. Is that possible? (No). We investigate](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
-* [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
+* [2023-07-13, 17:57:06](https://news.ycombinator.com/item?id=36713375) - [Is Apple making implausible iPhone satisfaction claims?](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
+* [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:10:22](https://news.ycombinator.com/item?id=36712564) - [We spent $20k on Google Play pre-registration ads](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 17:00:32](https://news.ycombinator.com/item?id=36712414) - [Flexport (YC W14) is hiring](https://flexport.com/careers)
 * [2023-07-13, 16:58:17](https://news.ycombinator.com/item?id=36712388) - [Ripple notches win in SEC case over XRP cryptocurrency](https://www.reuters.com/legal/us-judge-says-sec-lawsuit-vs-ripple-labs-can-proceed-trial-some-claims-2023-07-13/)
-* [2023-07-13, 16:41:09](https://news.ycombinator.com/item?id=36712084) - [Open Container Initiative announces upcoming changes for registries](https://www.chainguard.dev/unchained/oci-announces-upcoming-changes-for-registries)
 * [2023-07-13, 16:25:37](https://news.ycombinator.com/item?id=36711799) - [WW2 Meteorology](https://rafmetman.wordpress.com/meteorology/ww2-meteorology/)
 * [2023-07-13, 15:59:59](https://news.ycombinator.com/item?id=36711370) - [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force)
 * [2023-07-13, 15:42:10](https://news.ycombinator.com/item?id=36711033) - [AMD Ryzen 7040 Series Shows Great AVX-512 Performance for Laptops / Mobile](https://www.phoronix.com/review/amd-ryzen7040-avx512)
@@ -30,6 +29,7 @@
 * [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
 * [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
+* [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
 
