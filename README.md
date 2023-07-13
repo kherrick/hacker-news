@@ -24,11 +24,11 @@
 * [2023-07-13, 15:00:16](https://news.ycombinator.com/item?id=36710266) - [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster neural networks straight from JPEG (2018)](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 13:25:42](https://news.ycombinator.com/item?id=36708759) - [Unchecked Java: Say goodbye to checked exceptions](https://github.com/rogerkeays/unchecked)
-* [2023-07-13, 13:23:21](https://news.ycombinator.com/item?id=36708723) - [Commercial interests petition FCC for high power allocation on shortwave](https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum)
 * [2023-07-13, 12:03:36](https://news.ycombinator.com/item?id=36707877) - [Show HN: Free AI-based music demixing in the browser](https://sevag.xyz/free-music-demixer/)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
 * [2023-07-12, 19:19:35](https://news.ycombinator.com/item?id=36700262) - [Advice for finding a technical co-founder (2021)](https://www.mooreds.com/wordpress/archives/3445)
+* [2023-07-11, 21:16:17](https://news.ycombinator.com/item?id=36687321) - [Guam: The America That Americans Forget](https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html)
 * [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
