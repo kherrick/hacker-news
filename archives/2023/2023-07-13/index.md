@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 21:00:33](https://news.ycombinator.com/item?id=36715912) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2023-07-13, 20:41:11](https://news.ycombinator.com/item?id=36715686) - [Actors say Hollywood studios want their AI replicas – for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
 * [2023-07-13, 20:21:53](https://news.ycombinator.com/item?id=36715419) - [Remembering Lithium-Ion Battery Pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
 * [2023-07-13, 19:52:11](https://news.ycombinator.com/item?id=36715052) - [Actors union will join writers on strike, shutting down Hollywood](https://www.cnbc.com/2023/07/13/sag-actors-union-goes-on-strike-joining-hollywood-writers.html)
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to Build Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
