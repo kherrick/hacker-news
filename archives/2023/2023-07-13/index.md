@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
 * [2023-07-13, 22:19:42](https://news.ycombinator.com/item?id=36716916) - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
+* [2023-07-13, 22:17:01](https://news.ycombinator.com/item?id=36716891) - [The Future of AlmaLinux is Bright](https://almalinux.org/blog/future-of-almalinux/)
 * [2023-07-13, 22:00:38](https://news.ycombinator.com/item?id=36716676) - [SEO Expert Hired and Fired by Ashley Madison Turned on Company Promising Revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
 * [2023-07-13, 21:29:50](https://news.ycombinator.com/item?id=36716258) - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
 * [2023-07-13, 21:19:14](https://news.ycombinator.com/item?id=36716124) - [Position-Driven Styles](https://kizu.dev/position-driven-styles/)

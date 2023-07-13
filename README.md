@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-13, 22:19:42](https://news.ycombinator.com/item?id=36716916) - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
+* [2023-07-13, 22:17:01](https://news.ycombinator.com/item?id=36716891) - [The Future of AlmaLinux is Bright](https://almalinux.org/blog/future-of-almalinux/)
 * [2023-07-13, 22:00:38](https://news.ycombinator.com/item?id=36716676) - [SEO expert hired and fired by Ashley Madison turned on company promising revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
 * [2023-07-13, 21:29:50](https://news.ycombinator.com/item?id=36716258) - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
 * [2023-07-13, 21:19:14](https://news.ycombinator.com/item?id=36716124) - [Position-Driven Styles](https://kizu.dev/position-driven-styles/)
@@ -24,7 +25,6 @@
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster neural networks straight from JPEG (2018)](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 13:25:42](https://news.ycombinator.com/item?id=36708759) - [Unchecked Java: Say goodbye to checked exceptions](https://github.com/rogerkeays/unchecked)
 * [2023-07-13, 13:23:21](https://news.ycombinator.com/item?id=36708723) - [Commercial interests petition FCC for high power allocation on shortwave](https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum)
-* [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool, but obscure X11 tools (2019)](https://cyber.dabamos.de/unix/x11/)
 * [2023-07-13, 12:03:36](https://news.ycombinator.com/item?id=36707877) - [Show HN: Free AI-based music demixing in the browser](https://sevag.xyz/free-music-demixer/)
 * [2023-07-13, 11:21:16](https://news.ycombinator.com/item?id=36707510) - [DSReality: Turns a DS game into a 3D image that floats above your controller](https://github.com/zhuowei/DSReality)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
