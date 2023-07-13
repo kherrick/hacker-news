@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-13, 04:36:56](https://news.ycombinator.com/item?id=36705070) - [The Anti-Ownership eBook Economy](https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/)
-* [2023-07-13, 03:37:05](https://news.ycombinator.com/item?id=36704738) - [An update on the Federal Reserve’s Instant Payments Service: FedNow](https://www.clevelandfed.org/collections/speeches/2023/sp-20230712-update-on-the-federal-reserves-instant-payments-service)
 * [2023-07-13, 03:08:57](https://news.ycombinator.com/item?id=36704581) - [Invertible Bloom Lookup Tables with Less Randomness and Memory](https://arxiv.org/abs/2306.07583)
 * [2023-07-13, 02:14:39](https://news.ycombinator.com/item?id=36704277) - [Anchor Brewing Was San Francisco](https://defector.com/anchor-brewing-was-san-francisco)
 * [2023-07-13, 00:50:20](https://news.ycombinator.com/item?id=36703711) - [The Simpsons Hit and Run leaked source code](https://github.com/Svxy/The-Simpsons-Hit-and-Run)
@@ -29,6 +28,7 @@
 * [2023-07-12, 00:38:45](https://news.ycombinator.com/item?id=36689039) - [A chimpanzee brought Xerox to the masses](https://www.cbc.ca/radio/undertheinfluence/how-a-chimpanzee-brought-xerox-to-the-masses-1.6756916)
 * [2023-07-11, 23:55:07](https://news.ycombinator.com/item?id=36688738) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 19:33:04](https://news.ycombinator.com/item?id=36686156) - [Bacon's Cipher](https://en.wikipedia.org/wiki/Bacon%27s_cipher)
+* [2023-07-11, 05:58:16](https://news.ycombinator.com/item?id=36676917) - [Africa’s Merchant Kings](https://www.archaeology.org/issues/515-2307/features/11500-aksum-ethiopia-eritrea-kingdom)
 * [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
 ## [Archives](archives/index.md)
