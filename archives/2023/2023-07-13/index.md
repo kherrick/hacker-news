@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
 * [2023-07-13, 21:04:15](https://news.ycombinator.com/item?id=36715958) - [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
+* [2023-07-13, 21:01:37](https://news.ycombinator.com/item?id=36715925) - [Instant Messenger History: Lessons for the Threads Era of Social Media](https://tedium.co/2023/07/12/instant-messenger-competition-history/)
 * [2023-07-13, 21:00:33](https://news.ycombinator.com/item?id=36715912) - [Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2023-07-13, 20:41:11](https://news.ycombinator.com/item?id=36715686) - [Actors say Hollywood studios want their AI replicas – for free, forever](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
 * [2023-07-13, 20:27:27](https://news.ycombinator.com/item?id=36715504) - [Boston Mayor Wu Announces Residential Conversion Program for Office Buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
