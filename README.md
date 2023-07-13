@@ -7,7 +7,7 @@
 * [2023-07-13, 15:00:16](https://news.ycombinator.com/item?id=36710266) - [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [2023-07-13, 14:52:16](https://news.ycombinator.com/item?id=36710119) - [TikTok ban bill in US faces changes after ByteDance spent $100M on lobbying](https://www.scmp.com/tech/tech-war/article/3227250/tiktok-crackdown-bill-us-faces-changes-after-bytedances-us100-million-lobbying-spending-spree)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
-* [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
+* [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA approves first nonprescription daily oral contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
 * [2023-07-13, 14:22:18](https://news.ycombinator.com/item?id=36709593) - [Is Design Dead?](https://www.martinfowler.com/articles/designDead.html)
 * [2023-07-13, 14:06:23](https://news.ycombinator.com/item?id=36709361) - [Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
