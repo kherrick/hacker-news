@@ -22,6 +22,7 @@
 * [2023-07-12, 18:43:28](https://news.ycombinator.com/item?id=36699738) - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
 * [2023-07-12, 18:21:38](https://news.ycombinator.com/item?id=36699331) - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)
 * [2023-07-12, 18:21:28](https://news.ycombinator.com/item?id=36699327) - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
+* [2023-07-12, 18:16:38](https://news.ycombinator.com/item?id=36699223) - [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating a search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 * [2023-07-12, 16:41:08](https://news.ycombinator.com/item?id=36697366) - [Pines – Alpine and Tailwind UI Library](https://devdojo.com/pines)
 * [2023-07-12, 16:29:12](https://news.ycombinator.com/item?id=36697119) - [NotebookLM: An AI Notebook](https://blog.google/technology/ai/notebooklm-google-ai/)
@@ -29,7 +30,6 @@
 * [2023-07-12, 02:46:55](https://news.ycombinator.com/item?id=36689888) - [IoSafe 1522 NAS Review Synology Powered Fireproof and Waterproof NAS](https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/)
 * [2023-07-11, 23:55:07](https://news.ycombinator.com/item?id=36688738) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 * [2023-07-11, 19:33:04](https://news.ycombinator.com/item?id=36686156) - [Bacon's Cipher](https://en.wikipedia.org/wiki/Bacon%27s_cipher)
-* [2023-07-10, 21:13:31](https://news.ycombinator.com/item?id=36673040) - [Blocking Threads won't be enough to protect privacy once they join the Fediverse](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 
 ## [Archives](archives/index.md)
 
