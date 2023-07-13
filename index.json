@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-13, 03:08:57",
+      "https://news.ycombinator.com/item?id=36704581"
+    ],
+    [
+      "Invertible Bloom Lookup Tables with Less Randomness and Memory",
+      "https://arxiv.org/abs/2306.07583"
+    ]
+  ],
+  [
+    [
       "2023-07-13, 02:14:39",
       "https://news.ycombinator.com/item?id=36704277"
     ],
@@ -191,32 +201,12 @@
   ],
   [
     [
-      "2023-07-12, 15:12:17",
-      "https://news.ycombinator.com/item?id=36695738"
-    ],
-    [
-      "Computation and State Machines (2008) [pdf]",
-      "https://lamport.azurewebsites.net/pubs/state-machine.pdf"
-    ]
-  ],
-  [
-    [
       "2023-07-12, 15:09:05",
       "https://news.ycombinator.com/item?id=36695682"
     ],
     [
       "BeagleV-Ahead RISC-V board",
       "https://beagleboard.org/beaglev-ahead"
-    ]
-  ],
-  [
-    [
-      "2023-07-12, 15:00:09",
-      "https://news.ycombinator.com/item?id=36695553"
-    ],
-    [
-      "Computers and Automata (1953)",
-      "https://fermatslibrary.com/s/computers-and-automata"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "When a Simple Blue Light Was the Hot New Anaesthetic in Dentistry",
       "https://paleofuture.com/blog/2023/7/6/when-blue-light-was-the-hot-new-anaesthetic"
+    ]
+  ],
+  [
+    [
+      "2023-07-12, 01:04:15",
+      "https://news.ycombinator.com/item?id=36689237"
+    ],
+    [
+      "The Boundary of Computation: Busy Beaver [video]",
+      "https://www.youtube.com/watch?v=kmAc1nDizu0"
     ]
   ],
   [
