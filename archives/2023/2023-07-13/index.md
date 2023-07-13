@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 13:09:24](https://news.ycombinator.com/item?id=36708550) - [B.C. government hit tweet limit amid wildfire evacuations](https://www.vancouverisawesome.com/highlights/bc-government-hit-tweet-limit-amid-wildfire-evacuations-7268169)
+* [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool but Obscure X11 Apps](https://cyber.dabamos.de/unix/x11/)
 * [2023-07-13, 13:05:13](https://news.ycombinator.com/item?id=36708503) - [Shopify discourages meetings by shaming employees with cost calculator](https://financialpost.com/fp-work/shopify-discourages-meetings-shaming-cost-calculator)
+* [2023-07-13, 12:54:13](https://news.ycombinator.com/item?id=36708377) - [“Suburban sprawl is a much worse problem than skyscrapers”](https://www.dezeen.com/2023/07/12/suburban-sprawl-worse-problem-skyscrapers/)
 * [2023-07-13, 12:50:14](https://news.ycombinator.com/item?id=36708333) - [Show HN: Hansei](https://hansei.app/)
+* [2023-07-13, 12:49:26](https://news.ycombinator.com/item?id=36708327) - [A new, thin-lensed telescope design could far surpass James Webb](https://theconversation.com/a-new-thin-lensed-telescope-design-could-far-surpass-james-webb-goodbye-mirrors-hello-diffractive-lenses-206055)
 * [2023-07-13, 12:46:10](https://news.ycombinator.com/item?id=36708301) - [Rapid Covid tests miss 90% of asymptomatic cases](https://www.nature.com/articles/d41586-023-02254-9)
 * [2023-07-13, 12:43:27](https://news.ycombinator.com/item?id=36708273) - [VC firms face new scrutiny from LPs](https://www.axios.com/2023/07/13/venture-capital-firm-scrutiny-lp)
 * [2023-07-13, 12:15:48](https://news.ycombinator.com/item?id=36707990) - [Tax prep firms shared ‘extraordinarily sensitive’ data about taxpayers with Meta](https://apnews.com/article/irs-taxpayer-tax-preparation-meta-congress-9315cfca7a0942ab89f765d183fbf822)
