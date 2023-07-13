@@ -2,7 +2,6 @@
 
 * [2023-07-13, 17:57:06](https://news.ycombinator.com/item?id=36713375) - [Apple claims 99% iPhone 14 satisfaction. Is that possible? (No). We investigate](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
-* [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:10:22](https://news.ycombinator.com/item?id=36712564) - [We spent $20k on Google Play pre-registration ads](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
@@ -29,6 +28,7 @@
 * [2023-07-13, 10:57:15](https://news.ycombinator.com/item?id=36707321) - [CWE Top Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/index.html)
 * [2023-07-13, 08:42:31](https://news.ycombinator.com/item?id=36706453) - [OpenTTD's Infrastructure in 2023](https://www.openttd.org/news/2023/07/08/our-infrastructure)
 * [2023-07-13, 07:42:58](https://news.ycombinator.com/item?id=36706138) - [Disney, Netflix, and More Are Fighting FTC's 'Click to Cancel' Proposal](https://www.businessinsider.com/hollywood-streamers-oppose-ftc-proposal-regulation-click-to-cancel-subscription-2023-7)
+* [2023-07-13, 06:20:05](https://news.ycombinator.com/item?id=36705609) - [Dt: Duck tape for your Unix pipes](https://dt.plumbing/)
 * [2023-07-13, 05:08:28](https://news.ycombinator.com/item?id=36705223) - [Xbox360 –> Windows Executable Converter (2017)](https://github.com/rexdex/recompiler)
 
 ## [Archives](archives/index.md)
