@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-14, 03:39:57](https://news.ycombinator.com/item?id=36719217) - [The Proof of Riemann Hypothesis Through Integral Representation of Series](https://www.researchgate.net/publication/365174380_THE_PROOF_OF_RIEMANN_HYPOTHESIS_THROUGH_INTEGRAL_REPRESENTATION_OF_SERIES)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 * [2023-07-14, 00:42:48](https://news.ycombinator.com/item?id=36718046) - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 * [2023-07-14, 00:08:44](https://news.ycombinator.com/item?id=36717790) - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
@@ -14,6 +13,7 @@
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 19:37:52](https://news.ycombinator.com/item?id=36714869) - [StabilityAI cofounder says CEO tricked him into selling stake for $100](https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/)
 * [2023-07-13, 19:11:42](https://news.ycombinator.com/item?id=36714522) - [Buddy Pond Cloud Desktop](https://buddypond.com/)
+* [2023-07-13, 18:41:20](https://news.ycombinator.com/item?id=36714081) - [CEO Announcement to the Netlify Team](https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
