@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-14, 03:15:08",
-      "https://news.ycombinator.com/item?id=36719070"
-    ],
-    [
-      "The day FedEx delivered its promise",
-      "https://www.anaeo.com/fedex/"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 03:03:45",
       "https://news.ycombinator.com/item?id=36718991"
     ],
@@ -117,16 +107,6 @@
     [
       "Patching GCC to build Actually Portable Executables",
       "https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 19:42:45",
-      "https://news.ycombinator.com/item?id=36714928"
-    ],
-    [
-      "Yammer/circuitbox: Circuit breaker built with large Ruby apps in mind",
-      "https://github.com/yammer/circuitbox"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2023-07-13, 13:06:23",
+      "https://news.ycombinator.com/item?id=36708511"
+    ],
+    [
+      "Cool, but obscure X11 tools (2019)",
+      "https://cyber.dabamos.de/unix/x11/"
+    ]
+  ],
+  [
+    [
       "2023-07-12, 20:27:14",
       "https://news.ycombinator.com/item?id=36701160"
     ],
@@ -297,6 +287,16 @@
     [
       "Guam: The America that Americans forget",
       "https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-11, 12:01:14",
+      "https://news.ycombinator.com/item?id=36679763"
+    ],
+    [
+      "The subtle magic of tsnet",
+      "https://tailscale.dev/blog/tsup-tsnet"
     ]
   ]
 ]
