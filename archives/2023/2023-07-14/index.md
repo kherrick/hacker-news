@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 13:12:16](https://news.ycombinator.com/item?id=36723486) - [Megachurches are getting even bigger as churches close across the country](https://text.npr.org/1187460517)
 * [2023-07-14, 12:19:41](https://news.ycombinator.com/item?id=36722823) - [OpenBSD: Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
 * [2023-07-14, 12:16:24](https://news.ycombinator.com/item?id=36722782) - [‘It’s the Wild West’: Vienna’s spying problem spins out of control](https://www.ft.com/content/f790d8f4-2fe1-466d-8b29-83b1f4956984)
 * [2023-07-14, 12:09:28](https://news.ycombinator.com/item?id=36722702) - [Polar v1.0: Let’s Fix Open Source Funding](https://blog.polar.sh/polar-v1-0-lets-fix-open-source-funding/)
 * [2023-07-14, 11:57:37](https://news.ycombinator.com/item?id=36722575) - [Voice Actor Turns Instagram's Terms of Service into 51-Minute Sleep Aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
+* [2023-07-14, 11:57:08](https://news.ycombinator.com/item?id=36722570) - [OpenSSH might surprise you – in all the wrong ways](https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438)
 * [2023-07-14, 11:52:41](https://news.ycombinator.com/item?id=36722526) - [Electric Vehicles for Everyone? The Impossible Dream](https://manhattan.institute/article/electric-vehicles-for-everyone-the-impossible-dream)
 * [2023-07-14, 11:35:32](https://news.ycombinator.com/item?id=36722406) - [Meta is blocking EU-based users from accessing Threads via VPN](https://techcrunch.com/2023/07/14/meta-is-blocking-eu-based-users-from-accessing-threads-via-vpn/)
 * [2023-07-14, 11:18:17](https://news.ycombinator.com/item?id=36722284) - [SpaceX Starlink satellites had to make 25,000 collision-avoidance maneuvers](https://www.space.com/starlink-satellite-conjunction-increase-threatens-space-sustainability)
