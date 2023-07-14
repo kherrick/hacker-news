@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 20:06:05](https://news.ycombinator.com/item?id=36729230) - [In the Northern Rockies, grizzly bears are on the move](https://www.hcn.org/articles/bears-in-the-northern-rockies-grizzly-bears-are-on-the-move)
+* [2023-07-14, 20:01:35](https://news.ycombinator.com/item?id=36729166) - [The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]](https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf)
 * [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
 * [2023-07-14, 19:53:07](https://news.ycombinator.com/item?id=36729065) - [Why they're smearing Lina Khan](https://pluralistic.net/2023/07/14/making-good-trouble/)
 * [2023-07-14, 19:33:46](https://news.ycombinator.com/item?id=36728848) - [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
