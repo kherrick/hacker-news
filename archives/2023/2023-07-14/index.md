@@ -50,6 +50,7 @@
 * [2023-07-14, 11:57:37](https://news.ycombinator.com/item?id=36722575) - [Voice Actor Turns Instagram's Terms of Service into 51-Minute Sleep Aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
 * [2023-07-14, 11:57:08](https://news.ycombinator.com/item?id=36722570) - [OpenSSH might surprise you – in all the wrong ways](https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438)
 * [2023-07-14, 11:52:41](https://news.ycombinator.com/item?id=36722526) - [Electric Vehicles for Everyone? The Impossible Dream](https://manhattan.institute/article/electric-vehicles-for-everyone-the-impossible-dream)
+* [2023-07-14, 11:49:08](https://news.ycombinator.com/item?id=36722489) - [The M.C. Escher flavoured pages](https://www.josleys.com/galleries.php?catid=6)
 * [2023-07-14, 11:35:32](https://news.ycombinator.com/item?id=36722406) - [Meta is blocking EU-based users from accessing Threads via VPN](https://techcrunch.com/2023/07/14/meta-is-blocking-eu-based-users-from-accessing-threads-via-vpn/)
 * [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
 * [2023-07-14, 11:18:17](https://news.ycombinator.com/item?id=36722284) - [SpaceX Starlink satellites had to make 25,000 collision-avoidance maneuvers](https://www.space.com/starlink-satellite-conjunction-increase-threatens-space-sustainability)
