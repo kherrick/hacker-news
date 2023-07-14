@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 14:15:18](https://news.ycombinator.com/item?id=36724333) - [The internet didn’t kill counterculture, you just won’t find it on Instagram](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
 * [2023-07-14, 13:36:03](https://news.ycombinator.com/item?id=36723825) - [Interview with Senior Rust Developer in 2023 (Parody) [video]](https://www.youtube.com/watch?v=TGfQu0bQTKc)
 * [2023-07-14, 13:24:58](https://news.ycombinator.com/item?id=36723665) - [Hungary nuclear plant cuts output because of warm Danube waters](https://www.reuters.com/business/energy/hungary-nuclear-plant-cuts-output-because-warm-danube-waters-2023-07-14/)
 * [2023-07-14, 13:23:43](https://news.ycombinator.com/item?id=36723646) - [Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
