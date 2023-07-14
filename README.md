@@ -24,12 +24,12 @@
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [COSMIC DE: Desktop environment created for Pop!_OS and other Linux distros](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
 * [2023-07-14, 13:04:30](https://news.ycombinator.com/item?id=36723382) - [Supermassive Dark Star candidates seen by JWST](https://www.pnas.org/doi/10.1073/pnas.2305762120)
 * [2023-07-14, 12:19:41](https://news.ycombinator.com/item?id=36722823) - [Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
-* [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning (2016)](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
 * [2023-07-14, 09:41:17](https://news.ycombinator.com/item?id=36721641) - [Linux like original Unix [video]](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
-* [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-13, 18:38:28](https://news.ycombinator.com/item?id=36714039) - [The Blob Toy](https://oimo.io/works/blob/)
 * [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
+* [2023-07-13, 14:26:38](https://news.ycombinator.com/item?id=36709652) - [Magnetic control of GFP-like fluorescent proteins](https://andrewgyork.github.io/gfp_magnetofluorescence/)
+* [2023-07-11, 23:54:22](https://news.ycombinator.com/item?id=36688735) - [What does authorized_fetch actually do?](https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do/)
 
 ## [Archives](archives/index.md)
 

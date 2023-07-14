@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-11](index.md)
 
 * [2023-07-11, 23:55:07](https://news.ycombinator.com/item?id=36688738) - [Why it’s necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
+* [2023-07-11, 23:54:22](https://news.ycombinator.com/item?id=36688735) - [What does authorized_fetch actually do?](https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do/)
 * [2023-07-11, 23:37:16](https://news.ycombinator.com/item?id=36688612) - [The ad-based internet is dying, and it's getting worse in the process [video]](https://tilvids.com/videos/watch/41f5284e-b79e-4c84-97e5-664a6ac5a1ee)
 * [2023-07-11, 23:32:04](https://news.ycombinator.com/item?id=36688565) - [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
 * [2023-07-11, 23:22:14](https://news.ycombinator.com/item?id=36688499) - [Elo for VC – Founder's Choice](https://www.founderschoicevc.com/)

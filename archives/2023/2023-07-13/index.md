@@ -60,6 +60,7 @@
 * [2023-07-13, 14:42:22](https://news.ycombinator.com/item?id=36709929) - [Replications and Reversals](https://forrt.org/reversals/)
 * [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
+* [2023-07-13, 14:26:38](https://news.ycombinator.com/item?id=36709652) - [Magnetic control of GFP-like fluorescent proteins](https://andrewgyork.github.io/gfp_magnetofluorescence/)
 * [2023-07-13, 14:22:18](https://news.ycombinator.com/item?id=36709593) - [Is Design Dead?](https://www.martinfowler.com/articles/designDead.html)
 * [2023-07-13, 14:06:23](https://news.ycombinator.com/item?id=36709361) - [Rust 1.71.0](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 * [2023-07-13, 13:58:48](https://news.ycombinator.com/item?id=36709258) - [People helping Uyghur children struggling to build new lives in Turkey](https://thechinaproject.com/2023/07/13/the-people-helping-uyghur-children-struggling-to-build-new-lives-in-turkey/)
