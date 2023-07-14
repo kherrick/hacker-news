@@ -29,6 +29,7 @@
 * [2023-07-12, 18:21:38](https://news.ycombinator.com/item?id=36699331) - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)
 * [2023-07-12, 18:21:28](https://news.ycombinator.com/item?id=36699327) - [Telling the Bees](https://en.wikipedia.org/wiki/Telling_the_bees)
 * [2023-07-12, 18:16:38](https://news.ycombinator.com/item?id=36699223) - [ChatGPT visits the Emacs doctor](https://xenodium.com/chatgpt-visits-the-emacs-doctor/)
+* [2023-07-12, 18:10:37](https://news.ycombinator.com/item?id=36699115) - [Windows: A Software Engineering Odyssey by Mark Lucovsky (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
 * [2023-07-12, 18:05:04](https://news.ycombinator.com/item?id=36699016) - [Creating an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine)
 * [2023-07-12, 18:03:31](https://news.ycombinator.com/item?id=36698981) - [Why just blocking Meta's Threads won't be enough](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 * [2023-07-12, 17:41:11](https://news.ycombinator.com/item?id=36698542) - [Performant database tree traversal with Rails](https://planetscale.com/blog/performant-database-tree-traversal-with-rails)
