@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-13](index.md)
 
+* [2023-07-13, 23:42:52](https://news.ycombinator.com/item?id=36717593) - [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
 * [2023-07-13, 22:19:42](https://news.ycombinator.com/item?id=36716916) - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
 * [2023-07-13, 22:17:01](https://news.ycombinator.com/item?id=36716891) - [The Future of AlmaLinux is Bright](https://almalinux.org/blog/future-of-almalinux/)
 * [2023-07-13, 22:00:38](https://news.ycombinator.com/item?id=36716676) - [SEO Expert Hired and Fired by Ashley Madison Turned on Company Promising Revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
+* [2023-07-13, 21:47:51](https://news.ycombinator.com/item?id=36716511) - [What Makes Something an Heirloom?](https://putthison.com/what-makes-something-an-heirloom/)
 * [2023-07-13, 21:29:50](https://news.ycombinator.com/item?id=36716258) - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
 * [2023-07-13, 21:19:14](https://news.ycombinator.com/item?id=36716124) - [Position-Driven Styles](https://kizu.dev/position-driven-styles/)
 * [2023-07-13, 21:04:15](https://news.ycombinator.com/item?id=36715958) - [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
@@ -48,6 +50,7 @@
 * [2023-07-13, 15:00:12](https://news.ycombinator.com/item?id=36710265) - [“Sadly, I Think Godot Is a Scam. I'm Not Sure I Can Do This.”](https://godotforums.org/d/35412-sadly-i-think-godot-is-a-scam-im-not-sure-i-can-do-this)
 * [2023-07-13, 14:52:16](https://news.ycombinator.com/item?id=36710119) - [TikTok ban bill in US faces changes after ByteDance spent $100M on lobbying](https://www.scmp.com/tech/tech-war/article/3227250/tiktok-crackdown-bill-us-faces-changes-after-bytedances-us100-million-lobbying-spending-spree)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster Neural Networks Straight from JPEG](https://www.uber.com/blog/neural-networks-jpeg/)
+* [2023-07-13, 14:42:22](https://news.ycombinator.com/item?id=36709929) - [Replications and Reversals](https://forrt.org/reversals/)
 * [2023-07-13, 14:41:30](https://news.ycombinator.com/item?id=36709912) - [FDA Approves First Nonprescription Daily Oral Contraceptive](https://www.fda.gov/news-events/press-announcements/fda-approves-first-nonprescription-daily-oral-contraceptive)
 * [2023-07-13, 14:40:30](https://news.ycombinator.com/item?id=36709895) - [Bard’s latest update: more features, languages and countries](https://blog.google/products/bard/google-bard-new-features-update-july-2023/)
 * [2023-07-13, 14:22:18](https://news.ycombinator.com/item?id=36709593) - [Is Design Dead?](https://www.martinfowler.com/articles/designDead.html)
