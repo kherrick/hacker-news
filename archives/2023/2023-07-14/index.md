@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
 * [2023-07-14, 07:10:24](https://news.ycombinator.com/item?id=36720448) - [Margaret Hamilton Led the NASA Software Team That Landed Astronauts on the Moon](https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/)
 * [2023-07-14, 06:06:20](https://news.ycombinator.com/item?id=36720034) - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products)
 * [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-14, 05:58:04](https://news.ycombinator.com/item?id=36719987) - [A change of typeface: Microsoft’s new default font has arrived](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)
+* [2023-07-14, 05:51:47](https://news.ycombinator.com/item?id=36719949) - [Publishing in a Medieval Monastery](https://www.cambridge.org/core/elements/publishing-in-a-medieval-monastery/17B31679A5EF213BFCAF283BBB4C6440)
 * [2023-07-14, 05:35:55](https://news.ycombinator.com/item?id=36719871) - [Social media riot shutdowns possible under EU content law, top official says](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says/)
 * [2023-07-14, 04:59:43](https://news.ycombinator.com/item?id=36719651) - [Export all bike details (such as encryption key) of your VanMoof bikes](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 * [2023-07-14, 04:28:56](https://news.ycombinator.com/item?id=36719490) - [How Blind Photographers Visualize the World](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
