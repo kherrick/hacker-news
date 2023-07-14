@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 03:39:57](https://news.ycombinator.com/item?id=36719217) - [The Proof of Riemann Hypothesis Through Integral Representation of Series](https://www.researchgate.net/publication/365174380_THE_PROOF_OF_RIEMANN_HYPOTHESIS_THROUGH_INTEGRAL_REPRESENTATION_OF_SERIES)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 * [2023-07-14, 00:42:48](https://news.ycombinator.com/item?id=36718046) - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 * [2023-07-14, 00:08:44](https://news.ycombinator.com/item?id=36717790) - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
@@ -23,7 +24,6 @@
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster neural networks straight from JPEG (2018)](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 13:25:42](https://news.ycombinator.com/item?id=36708759) - [Unchecked Java: Say goodbye to checked exceptions](https://github.com/rogerkeays/unchecked)
 * [2023-07-13, 13:23:21](https://news.ycombinator.com/item?id=36708723) - [Commercial interests petition FCC for high power allocation on shortwave](https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum)
-* [2023-07-13, 13:06:23](https://news.ycombinator.com/item?id=36708511) - [Cool, but obscure X11 tools (2019)](https://cyber.dabamos.de/unix/x11/)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
 * [2023-07-12, 20:10:00](https://news.ycombinator.com/item?id=36700938) - [Large Multiplication](http://www.numberworld.org/y-cruncher/internals/multiplication.html)
 * [2023-07-12, 19:19:35](https://news.ycombinator.com/item?id=36700262) - [Advice for finding a technical co-founder (2021)](https://www.mooreds.com/wordpress/archives/3445)
