@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
 * [2023-07-14, 15:33:16](https://news.ycombinator.com/item?id=36725472) - [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
+* [2023-07-14, 15:29:09](https://news.ycombinator.com/item?id=36725406) - [Game Design Wiki](https://rosacarbo.notion.site/Game-design-wiki-6902c5dc9d1242c9a70822f13e6c76b3)
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [Cosmic Skies of a Colorado July](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
 * [2023-07-14, 14:45:01](https://news.ycombinator.com/item?id=36724739) - [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
 * [2023-07-14, 14:44:52](https://news.ycombinator.com/item?id=36724736) - [Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
