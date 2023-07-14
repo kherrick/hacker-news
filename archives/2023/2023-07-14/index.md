@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
 * [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
+* [2023-07-14, 19:33:46](https://news.ycombinator.com/item?id=36728848) - [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your Internet traffic (Like Wireshark)](https://www.sniffnet.net/)
 * [2023-07-14, 19:02:01](https://news.ycombinator.com/item?id=36728435) - [Parallel – shell tool for executing jobs in parallel using one or more computers](https://www.gnu.org/software/parallel/)
@@ -26,6 +27,7 @@
 * [2023-07-14, 16:34:29](https://news.ycombinator.com/item?id=36726316) - [“The days of using untyped languages on non-trivial projects are over.”](https://github.com/readme/featured/typescript-gradual-types)
 * [2023-07-14, 16:28:51](https://news.ycombinator.com/item?id=36726234) - [Using Lemmy from my existing Mastodon](https://vijayprema.com/using-lemmy-from-my-existing-mastodon/)
 * [2023-07-14, 16:28:03](https://news.ycombinator.com/item?id=36726219) - [S.F. says incidents by Cruise, Waymo driverless taxis are ‘skyrocketing.’](https://www.sfchronicle.com/sf/article/driverless-taxi-cruise-waymo-18157172.php)
+* [2023-07-14, 16:23:13](https://news.ycombinator.com/item?id=36726148) - [Could an Industrial Civilization Have Predated Humans on Earth?](https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/)
 * [2023-07-14, 16:19:03](https://news.ycombinator.com/item?id=36726078) - [Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more](https://www.bbc.co.uk/news/world-europe-66202093)
 * [2023-07-14, 16:18:59](https://news.ycombinator.com/item?id=36726077) - [Building a Safer FIDO2 Key with Privilege Separation and WebAssembly](https://benkettle.xyz/posts/plat/)
 * [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
