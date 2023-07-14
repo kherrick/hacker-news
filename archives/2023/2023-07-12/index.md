@@ -36,6 +36,7 @@
 * [2023-07-12, 17:37:57](https://news.ycombinator.com/item?id=36698482) - [Ask HN: React Native or Flutter for a new app in 2023?](https://news.ycombinator.com/item?id=36698482)
 * [2023-07-12, 17:22:14](https://news.ycombinator.com/item?id=36698163) - [New epoch marked by human impact, the Anthropocene, began in 1950s](https://www.npr.org/2023/07/11/1187125012/anthropocene-crawford-lake-canada-beginning)
 * [2023-07-12, 17:22:01](https://news.ycombinator.com/item?id=36698159) - [Behind Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
+* [2023-07-12, 17:21:38](https://news.ycombinator.com/item?id=36698150) - [Founders and Customers: Love and Service](https://multitudes.weisser.io/p/founders-and-customers-love-and-service)
 * [2023-07-12, 17:00:24](https://news.ycombinator.com/item?id=36697741) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2023-07-12, 16:57:51](https://news.ycombinator.com/item?id=36697693) - [Istio moved to CNCF Graduation stage](https://github.com/cncf/toc/commit/25b2ead46d56e3c39d48a6a87e3c558c2120d179)
 * [2023-07-12, 16:55:36](https://news.ycombinator.com/item?id=36697646) - [Going Beyond ‘Do You Know of Any Open Positions?’](https://www.dewanahmed.com/do-you-know-of-any-open-positions/)

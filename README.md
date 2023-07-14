@@ -3,7 +3,6 @@
 * [2023-07-14, 04:59:43](https://news.ycombinator.com/item?id=36719651) - [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 * [2023-07-14, 04:13:34](https://news.ycombinator.com/item?id=36719409) - [Looming demise of the 10x developer – an era of enthusiast programmers is ending](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
-* [2023-07-14, 02:51:21](https://news.ycombinator.com/item?id=36718893) - [Rising Ocean Temps Raise New Concerns for Coral Reefs](https://www.nesdis.noaa.gov/news/rising-ocean-temps-raise-new-concerns-coral-reefs)
 * [2023-07-14, 00:42:48](https://news.ycombinator.com/item?id=36718046) - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 * [2023-07-14, 00:08:44](https://news.ycombinator.com/item?id=36717790) - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
 * [2023-07-13, 23:42:52](https://news.ycombinator.com/item?id=36717593) - [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
@@ -27,8 +26,9 @@
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
 * [2023-07-12, 20:10:00](https://news.ycombinator.com/item?id=36700938) - [Large Multiplication](http://www.numberworld.org/y-cruncher/internals/multiplication.html)
 * [2023-07-12, 19:19:35](https://news.ycombinator.com/item?id=36700262) - [Advice for finding a technical co-founder (2021)](https://www.mooreds.com/wordpress/archives/3445)
-* [2023-07-12, 18:10:37](https://news.ycombinator.com/item?id=36699115) - [Windows: A Software Engineering Odyssey by Mark Lucovsky (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
+* [2023-07-12, 18:10:37](https://news.ycombinator.com/item?id=36699115) - [Windows: A software engineering odyssey (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
 * [2023-07-12, 17:22:01](https://news.ycombinator.com/item?id=36698159) - [Behind Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
+* [2023-07-12, 17:21:38](https://news.ycombinator.com/item?id=36698150) - [Founders and Customers: Love and Service](https://multitudes.weisser.io/p/founders-and-customers-love-and-service)
 * [2023-07-11, 21:16:17](https://news.ycombinator.com/item?id=36687321) - [Guam: The America that Americans forget](https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html)
 
 ## [Archives](archives/index.md)
