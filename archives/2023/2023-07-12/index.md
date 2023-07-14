@@ -24,6 +24,7 @@
 * [2023-07-12, 19:19:01](https://news.ycombinator.com/item?id=36700249) - [Instagram Threads: The Problem with the “Everything for Everyone” Approach](https://thisisunpacked.substack.com/p/instagram-threads-the-problem-with)
 * [2023-07-12, 19:06:17](https://news.ycombinator.com/item?id=36700076) - [Windows 11 Insider Preview Build 25905 brings a bit of Rust in the kernel](https://blogs.windows.com/windows-insider/2023/07/12/announcing-windows-11-insider-preview-build-25905/)
 * [2023-07-12, 18:54:24](https://news.ycombinator.com/item?id=36699899) - [Schizoid Personality Disorder](https://en.wikipedia.org/wiki/Schizoid_personality_disorder)
+* [2023-07-12, 18:52:46](https://news.ycombinator.com/item?id=36699877) - [Notes on a New Philosophy of Empirical Science (2011)](https://arxiv.org/abs/1104.5466)
 * [2023-07-12, 18:45:59](https://news.ycombinator.com/item?id=36699780) - [Show HN: AI companions stack – create and host your own AI companions](https://github.com/a16z-infra/companion-app)
 * [2023-07-12, 18:43:28](https://news.ycombinator.com/item?id=36699738) - [MuseScore 4.1 is now available](https://musescore.org/en/4.1)
 * [2023-07-12, 18:21:38](https://news.ycombinator.com/item?id=36699331) - [Tokenized Tokens](https://fly.io/blog/tokenized-tokens/)
