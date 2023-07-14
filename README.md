@@ -28,8 +28,8 @@
 * [2023-07-12, 20:10:00](https://news.ycombinator.com/item?id=36700938) - [Large Multiplication](http://www.numberworld.org/y-cruncher/internals/multiplication.html)
 * [2023-07-12, 19:19:35](https://news.ycombinator.com/item?id=36700262) - [Advice for finding a technical co-founder (2021)](https://www.mooreds.com/wordpress/archives/3445)
 * [2023-07-12, 18:10:37](https://news.ycombinator.com/item?id=36699115) - [Windows: A Software Engineering Odyssey by Mark Lucovsky (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
+* [2023-07-12, 17:22:01](https://news.ycombinator.com/item?id=36698159) - [Behind Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
 * [2023-07-11, 21:16:17](https://news.ycombinator.com/item?id=36687321) - [Guam: The America that Americans forget](https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html)
-* [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
 
