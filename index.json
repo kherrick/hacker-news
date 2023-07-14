@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 04:13:34",
+      "https://news.ycombinator.com/item?id=36719409"
+    ],
+    [
+      "Looming demise of the 10x developer – an era of enthusiast programmers is ending",
+      "https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 03:03:45",
       "https://news.ycombinator.com/item?id=36718991"
     ],
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2023-07-13, 18:41:20",
-      "https://news.ycombinator.com/item?id=36714081"
+      "2023-07-13, 18:51:38",
+      "https://news.ycombinator.com/item?id=36714228"
     ],
     [
-      "CEO Announcement to the Netlify Team",
-      "https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/"
+      "Age of universe at 26.7B years, nearly twice as old as previously believed",
+      "https://phys.org/news/2023-07-age-universe-billion-years-previously.html"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2023-07-13, 13:23:21",
-      "https://news.ycombinator.com/item?id=36708723"
-    ],
-    [
-      "Commercial interests petition FCC for high power allocation on shortwave",
-      "https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum"
-    ]
-  ],
-  [
-    [
       "2023-07-12, 20:27:14",
       "https://news.ycombinator.com/item?id=36701160"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2023-07-11, 14:45:50",
-      "https://news.ycombinator.com/item?id=36681743"
+      "2023-07-11, 12:01:14",
+      "https://news.ycombinator.com/item?id=36679763"
     ],
     [
-      "Buffers and Line Drivers",
-      "https://www.arrow.com/en/categories/standard-and-specialty-logic/specialty-logic/buffers-and-line-drivers"
+      "The subtle magic of tsnet",
+      "https://tailscale.dev/blog/tsup-tsnet"
     ]
   ]
 ]
