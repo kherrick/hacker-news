@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 07:10:24](https://news.ycombinator.com/item?id=36720448) - [Margaret Hamilton Led the NASA Software Team That Landed Astronauts on the Moon](https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/)
 * [2023-07-14, 06:06:20](https://news.ycombinator.com/item?id=36720034) - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products)
 * [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-14, 05:58:04](https://news.ycombinator.com/item?id=36719987) - [A change of typeface: Microsoft’s new default font has arrived](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)

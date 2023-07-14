@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 07:10:24](https://news.ycombinator.com/item?id=36720448) - [Margaret Hamilton Led the NASA Software Team That Landed Astronauts on the Moon](https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/)
 * [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-14, 05:58:04](https://news.ycombinator.com/item?id=36719987) - [A change of typeface: Microsoft’s new default font has arrived](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)
 * [2023-07-14, 05:35:55](https://news.ycombinator.com/item?id=36719871) - [Social media riot shutdowns possible under EU content law, top official says](https://www.politico.eu/article/social-media-riot-shutdowns-possible-under-eu-content-law-breton-says/)
@@ -15,7 +16,6 @@
 * [2023-07-13, 20:21:53](https://news.ycombinator.com/item?id=36715419) - [Remembering lithium-ion battery pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 19:37:52](https://news.ycombinator.com/item?id=36714869) - [StabilityAI cofounder says CEO tricked him into selling stake for $100](https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/)
-* [2023-07-13, 19:11:42](https://news.ycombinator.com/item?id=36714522) - [Buddy Pond Cloud Desktop](https://buddypond.com/)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
