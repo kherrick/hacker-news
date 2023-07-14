@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
+* [2023-07-14, 19:53:07](https://news.ycombinator.com/item?id=36729065) - [Why they're smearing Lina Khan](https://pluralistic.net/2023/07/14/making-good-trouble/)
 * [2023-07-14, 19:33:46](https://news.ycombinator.com/item?id=36728848) - [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your Internet traffic (Like Wireshark)](https://www.sniffnet.net/)
@@ -11,7 +12,6 @@
 * [2023-07-14, 17:41:11](https://news.ycombinator.com/item?id=36727330) - [Does the microbiome hold the key to chronic fatigue syndrome?](https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research)
 * [2023-07-14, 17:34:34](https://news.ycombinator.com/item?id=36727209) - [Ever Given report highlights Suez Canal pilots’ role in grounding](https://gcaptain.com/ever-given-report-highlights-suez-canal-pilots-role-in-grounding/)
 * [2023-07-14, 17:06:10](https://news.ycombinator.com/item?id=36726733) - [Binance lays off over 1k Employees](https://www.wsj.com/articles/binance-lays-off-over-1-000-employees-d59ff6ad)
-* [2023-07-14, 17:02:21](https://news.ycombinator.com/item?id=36726670) - [The deindustrialization of Germany](https://www.politico.eu/article/rust-belt-on-the-rhine-the-deindustrialization-of-germany/)
 * [2023-07-14, 16:57:45](https://news.ycombinator.com/item?id=36726593) - [WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
 * [2023-07-14, 16:23:13](https://news.ycombinator.com/item?id=36726148) - [Could an Industrial Civilization Have Predated Humans on Earth?](https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/)
 * [2023-07-14, 16:18:59](https://news.ycombinator.com/item?id=36726077) - [Building a safer FIDO2 key with privilege separation and WebAssembly](https://benkettle.xyz/posts/plat/)
