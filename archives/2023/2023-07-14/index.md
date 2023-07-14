@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 17:03:02](https://news.ycombinator.com/item?id=36726679) - [US inflation cooled in June for the 12th straight month](https://www.cnn.com/2023/07/12/economy/cpi-inflation-june/index.html)
+* [2023-07-14, 17:02:21](https://news.ycombinator.com/item?id=36726670) - [Germany’s biggest companies are ditching the fatherland](https://www.politico.eu/article/rust-belt-on-the-rhine-the-deindustrialization-of-germany/)
+* [2023-07-14, 16:42:40](https://news.ycombinator.com/item?id=36726414) - [Websites with fake MFA: security theater?](https://news.ycombinator.com/item?id=36726414)
+* [2023-07-14, 16:34:29](https://news.ycombinator.com/item?id=36726316) - [“The days of using untyped languages on non-trivial projects are over.”](https://github.com/readme/featured/typescript-gradual-types)
 * [2023-07-14, 16:28:51](https://news.ycombinator.com/item?id=36726234) - [Using Lemmy from my existing Mastodon](https://vijayprema.com/using-lemmy-from-my-existing-mastodon/)
 * [2023-07-14, 16:19:03](https://news.ycombinator.com/item?id=36726078) - [Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more](https://www.bbc.co.uk/news/world-europe-66202093)
 * [2023-07-14, 16:18:59](https://news.ycombinator.com/item?id=36726077) - [Building a Safer FIDO2 Key with Privilege Separation and WebAssembly](https://benkettle.xyz/posts/plat/)
@@ -20,6 +24,7 @@
 * [2023-07-14, 13:36:03](https://news.ycombinator.com/item?id=36723825) - [Interview with Senior Rust Developer in 2023 (Parody) [video]](https://www.youtube.com/watch?v=TGfQu0bQTKc)
 * [2023-07-14, 13:24:58](https://news.ycombinator.com/item?id=36723665) - [Hungary nuclear plant cuts output because of warm Danube waters](https://www.reuters.com/business/energy/hungary-nuclear-plant-cuts-output-because-warm-danube-waters-2023-07-14/)
 * [2023-07-14, 13:23:43](https://news.ycombinator.com/item?id=36723646) - [Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
+* [2023-07-14, 13:19:24](https://news.ycombinator.com/item?id=36723587) - [Ten Things You Can Do with GraalVM (2018)](https://gist.github.com/chrisseaton/535e0e80ea19803d5529c623c6beb921)
 * [2023-07-14, 13:15:42](https://news.ycombinator.com/item?id=36723535) - [Insects in Flight [video]](https://www.youtube.com/watch?v=xbOzYMKROs8)
 * [2023-07-14, 13:12:16](https://news.ycombinator.com/item?id=36723486) - [Megachurches are getting even bigger as churches close across the country](https://text.npr.org/1187460517)
 * [2023-07-14, 13:09:28](https://news.ycombinator.com/item?id=36723445) - [Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
