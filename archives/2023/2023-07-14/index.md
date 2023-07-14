@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 13:36:03](https://news.ycombinator.com/item?id=36723825) - [Interview with Senior Rust Developer in 2023 (Parody) [video]](https://www.youtube.com/watch?v=TGfQu0bQTKc)
 * [2023-07-14, 13:24:58](https://news.ycombinator.com/item?id=36723665) - [Hungary nuclear plant cuts output because of warm Danube waters](https://www.reuters.com/business/energy/hungary-nuclear-plant-cuts-output-because-warm-danube-waters-2023-07-14/)
+* [2023-07-14, 13:23:43](https://news.ycombinator.com/item?id=36723646) - [Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight](https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/)
+* [2023-07-14, 13:15:42](https://news.ycombinator.com/item?id=36723535) - [Insects in Flight [video]](https://www.youtube.com/watch?v=xbOzYMKROs8)
 * [2023-07-14, 13:12:16](https://news.ycombinator.com/item?id=36723486) - [Megachurches are getting even bigger as churches close across the country](https://text.npr.org/1187460517)
+* [2023-07-14, 13:04:30](https://news.ycombinator.com/item?id=36723382) - [Supermassive Dark Star candidates seen by JWST](https://www.pnas.org/doi/10.1073/pnas.2305762120)
 * [2023-07-14, 12:19:41](https://news.ycombinator.com/item?id=36722823) - [OpenBSD: Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
 * [2023-07-14, 12:16:24](https://news.ycombinator.com/item?id=36722782) - [‘It’s the Wild West’: Vienna’s spying problem spins out of control](https://www.ft.com/content/f790d8f4-2fe1-466d-8b29-83b1f4956984)
 * [2023-07-14, 12:09:28](https://news.ycombinator.com/item?id=36722702) - [Polar v1.0: Let’s Fix Open Source Funding](https://blog.polar.sh/polar-v1-0-lets-fix-open-source-funding/)
