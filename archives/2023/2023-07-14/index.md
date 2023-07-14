@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
+* [2023-07-14, 20:18:25](https://news.ycombinator.com/item?id=36729361) - [Arepo: Massively parallel gravity and magnetohydrodynamic for astrophysics](https://arepo-code.org)
 * [2023-07-14, 20:06:05](https://news.ycombinator.com/item?id=36729230) - [In the Northern Rockies, grizzly bears are on the move](https://www.hcn.org/articles/bears-in-the-northern-rockies-grizzly-bears-are-on-the-move)
 * [2023-07-14, 20:01:35](https://news.ycombinator.com/item?id=36729166) - [The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]](https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf)
 * [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
@@ -83,6 +85,7 @@
 * [2023-07-14, 03:15:08](https://news.ycombinator.com/item?id=36719070) - [The day FedEx delivered its promise](https://www.anaeo.com/fedex/)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 * [2023-07-14, 02:51:21](https://news.ycombinator.com/item?id=36718893) - [Rising Ocean Temps Raise New Concerns for Coral Reefs](https://www.nesdis.noaa.gov/news/rising-ocean-temps-raise-new-concerns-coral-reefs)
+* [2023-07-14, 02:36:37](https://news.ycombinator.com/item?id=36718793) - [Famous Programers with Repetitive Strain Injury (2022)](http://xahlee.info/emacs/emacs/emacs_hand_pain_celebrity.html)
 * [2023-07-14, 02:11:16](https://news.ycombinator.com/item?id=36718623) - [Striking Sag Actors in Disbelief over Studios’ Dystopian AI Proposal](https://www.rollingstone.com/tv-movies/tv-movie-features/actors-strike-sag-artificial-intelligence-hollywood-studios-background-1234788191/)
 * [2023-07-14, 00:42:48](https://news.ycombinator.com/item?id=36718046) - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 * [2023-07-14, 00:08:44](https://news.ycombinator.com/item?id=36717790) - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
