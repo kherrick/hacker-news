@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 22:07:13](https://news.ycombinator.com/item?id=36730603) - [Why was the F-117 retired so quickly?](https://www.technology.org/how-and-why/why-was-the-f-117-retired-so-quickly-top-facts/)
 * [2023-07-14, 20:51:08](https://news.ycombinator.com/item?id=36729757) - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Blender: Low-degree semi-structured splines for interactive modeling](https://projects.blender.org/blender/blender-addons/issues/91180)
 * [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
@@ -71,6 +72,7 @@
 * [2023-07-14, 11:35:32](https://news.ycombinator.com/item?id=36722406) - [Meta is blocking EU-based users from accessing Threads via VPN](https://techcrunch.com/2023/07/14/meta-is-blocking-eu-based-users-from-accessing-threads-via-vpn/)
 * [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
 * [2023-07-14, 11:18:17](https://news.ycombinator.com/item?id=36722284) - [SpaceX Starlink satellites had to make 25,000 collision-avoidance maneuvers](https://www.space.com/starlink-satellite-conjunction-increase-threatens-space-sustainability)
+* [2023-07-14, 09:41:17](https://news.ycombinator.com/item?id=36721641) - [Linux like original Unix [video]](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
 * [2023-07-14, 09:27:31](https://news.ycombinator.com/item?id=36721517) - [India's Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
 * [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
