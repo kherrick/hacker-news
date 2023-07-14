@@ -35,6 +35,7 @@
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
+* [2023-07-13, 17:15:54](https://news.ycombinator.com/item?id=36712656) - [John Boyd Compendium](https://dnipogo.org/john-r-boyd/)
 * [2023-07-13, 17:10:22](https://news.ycombinator.com/item?id=36712564) - [We spent $20k on Google Play Pre-Registration Ads. Here are the results](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Hype Will Turn Your Security Key into Junk](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 17:00:32](https://news.ycombinator.com/item?id=36712414) - [Flexport (Founders Fund company) is hiring](https://flexport.com/careers)
