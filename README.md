@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 18:30:33](https://news.ycombinator.com/item?id=36728033) - [FDA says aspartame is safe, disagreeing with WHO finding on possible cancer link](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
+* [2023-07-14, 18:29:10](https://news.ycombinator.com/item?id=36728013) - [Libxo: The Easy Way to Generate Text, XML, JSON, and HTML Output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 17:59:10](https://news.ycombinator.com/item?id=36727585) - [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
+* [2023-07-14, 17:41:41](https://news.ycombinator.com/item?id=36727337) - [Large-Scale Analysis of Code Re-Use in Atari 2600 Games](https://dl.acm.org/doi/fullHtml/10.1145/3555858.3555948)
 * [2023-07-14, 17:41:11](https://news.ycombinator.com/item?id=36727330) - [Does the microbiome hold the key to chronic fatigue syndrome?](https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research)
 * [2023-07-14, 17:34:34](https://news.ycombinator.com/item?id=36727209) - [Ever Given Report Highlights Suez Canal Pilots’ Role in Grounding](https://gcaptain.com/ever-given-report-highlights-suez-canal-pilots-role-in-grounding/)
 * [2023-07-14, 17:06:10](https://news.ycombinator.com/item?id=36726733) - [Binance lays off over 1k Employees](https://www.wsj.com/articles/binance-lays-off-over-1-000-employees-d59ff6ad)
@@ -22,14 +25,11 @@
 * [2023-07-14, 12:19:41](https://news.ycombinator.com/item?id=36722823) - [Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
 * [2023-07-14, 11:57:08](https://news.ycombinator.com/item?id=36722570) - [OpenSSH might surprise you – in all the wrong ways](https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438)
 * [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning (2016)](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
-* [2023-07-14, 09:27:31](https://news.ycombinator.com/item?id=36721517) - [India's Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
 * [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of perceptual load on performance within IDE in people with ADHD symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
 * [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-14, 05:58:04](https://news.ycombinator.com/item?id=36719987) - [Aptos, our modern successor to Calibri](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)
-* [2023-07-13, 17:42:44](https://news.ycombinator.com/item?id=36713097) - [Can you beat Pokemon FireRed while blind and deaf? (2022) [video]](https://www.youtube.com/watch?v=6gjsAA_5Agk)
 * [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
-* [2023-07-12, 17:31:59](https://news.ycombinator.com/item?id=36698359) - [The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/)
 
 ## [Archives](archives/index.md)
 

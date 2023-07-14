@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 18:30:33](https://news.ycombinator.com/item?id=36728033) - [FDA says aspartame is safe, disagreeing with WHO finding on possible cancer link](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
+* [2023-07-14, 18:29:10](https://news.ycombinator.com/item?id=36728013) - [Libxo: The Easy Way to Generate Text, XML, JSON, and HTML Output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 17:59:10](https://news.ycombinator.com/item?id=36727585) - [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
+* [2023-07-14, 17:41:41](https://news.ycombinator.com/item?id=36727337) - [Large-Scale Analysis of Code Re-Use in Atari 2600 Games](https://dl.acm.org/doi/fullHtml/10.1145/3555858.3555948)
 * [2023-07-14, 17:41:11](https://news.ycombinator.com/item?id=36727330) - [Does the microbiome hold the key to chronic fatigue syndrome?](https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research)
 * [2023-07-14, 17:34:34](https://news.ycombinator.com/item?id=36727209) - [Ever Given Report Highlights Suez Canal Pilots’ Role in Grounding](https://gcaptain.com/ever-given-report-highlights-suez-canal-pilots-role-in-grounding/)
 * [2023-07-14, 17:20:23](https://news.ycombinator.com/item?id=36726967) - [People on TikTok are paying elderly women to sit in stagnant mud for hours, cry](https://restofworld.org/2023/indonesia-government-ban-tiktok-mud-bath/)
