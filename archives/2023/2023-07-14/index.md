@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 14:45:01](https://news.ycombinator.com/item?id=36724739) - [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
+* [2023-07-14, 14:44:52](https://news.ycombinator.com/item?id=36724736) - [Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
 * [2023-07-14, 14:33:38](https://news.ycombinator.com/item?id=36724571) - [Show HN: I made a website that color-codes the world by language](https://languageworldmap.com)
 * [2023-07-14, 14:15:18](https://news.ycombinator.com/item?id=36724333) - [The internet didn’t kill counterculture, you just won’t find it on Instagram](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
 * [2023-07-14, 13:36:03](https://news.ycombinator.com/item?id=36723825) - [Interview with Senior Rust Developer in 2023 (Parody) [video]](https://www.youtube.com/watch?v=TGfQu0bQTKc)

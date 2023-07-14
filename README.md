@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 14:45:01](https://news.ycombinator.com/item?id=36724739) - [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
+* [2023-07-14, 14:44:52](https://news.ycombinator.com/item?id=36724736) - [Dropped iPad implicated in fatal Rotak Chinook helicopter crash](https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/)
 * [2023-07-14, 14:33:38](https://news.ycombinator.com/item?id=36724571) - [Show HN: I made a website that color-codes the world by language](https://languageworldmap.com)
 * [2023-07-14, 14:15:18](https://news.ycombinator.com/item?id=36724333) - [The internet didn’t kill counterculture, it's just not on Instagram (2021)](https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/)
 * [2023-07-14, 13:09:28](https://news.ycombinator.com/item?id=36723445) - [Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
@@ -24,8 +26,6 @@
 * [2023-07-13, 17:42:44](https://news.ycombinator.com/item?id=36713097) - [Can you beat Pokemon FireRed while blind and deaf? (2022) [video]](https://www.youtube.com/watch?v=6gjsAA_5Agk)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:15:54](https://news.ycombinator.com/item?id=36712656) - [John Boyd Compendium (2007)](https://dnipogo.org/john-r-boyd/)
-* [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
-* [2023-07-12, 18:52:46](https://news.ycombinator.com/item?id=36699877) - [Notes on a New Philosophy of Empirical Science (2011)](https://arxiv.org/abs/1104.5466)
 * [2023-07-12, 18:10:37](https://news.ycombinator.com/item?id=36699115) - [Windows: A software engineering odyssey (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
 * [2023-07-12, 17:31:59](https://news.ycombinator.com/item?id=36698359) - [The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/)
 * [2023-07-12, 17:22:01](https://news.ycombinator.com/item?id=36698159) - [Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
