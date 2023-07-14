@@ -25,7 +25,7 @@
 * [2023-07-14, 11:57:08](https://news.ycombinator.com/item?id=36722570) - [OpenSSH has some peculiar handling around command line arguments](https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438)
 * [2023-07-14, 11:49:08](https://news.ycombinator.com/item?id=36722489) - [The M.C. Escher flavoured pages](https://www.josleys.com/galleries.php?catid=6)
 * [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning (2016)](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
-* [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of perceptual load on performance within IDE in people with ADHD symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
+* [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
 * [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-14, 02:36:37](https://news.ycombinator.com/item?id=36718793) - [Famous Programers with Repetitive Strain Injury (2022)](http://xahlee.info/emacs/emacs/emacs_hand_pain_celebrity.html)
 * [2023-07-13, 22:17:33](https://news.ycombinator.com/item?id=36716893) - [Focusing is about saying no (1997) [video]](https://www.youtube.com/watch?v=H8eP99neOVs)
