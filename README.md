@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 04:13:34](https://news.ycombinator.com/item?id=36719409) - [Looming demise of the 10x developer – an era of enthusiast programmers is ending](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 * [2023-07-14, 00:42:48](https://news.ycombinator.com/item?id=36718046) - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 * [2023-07-14, 00:08:44](https://news.ycombinator.com/item?id=36717790) - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
@@ -13,7 +14,7 @@
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 19:37:52](https://news.ycombinator.com/item?id=36714869) - [StabilityAI cofounder says CEO tricked him into selling stake for $100](https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/)
 * [2023-07-13, 19:11:42](https://news.ycombinator.com/item?id=36714522) - [Buddy Pond Cloud Desktop](https://buddypond.com/)
-* [2023-07-13, 18:41:20](https://news.ycombinator.com/item?id=36714081) - [CEO Announcement to the Netlify Team](https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/)
+* [2023-07-13, 18:51:38](https://news.ycombinator.com/item?id=36714228) - [Age of universe at 26.7B years, nearly twice as old as previously believed](https://phys.org/news/2023-07-age-universe-billion-years-previously.html)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
@@ -23,13 +24,12 @@
 * [2023-07-13, 15:00:16](https://news.ycombinator.com/item?id=36710266) - [Understanding Kafka with Factorio (2019)](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster neural networks straight from JPEG (2018)](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-13, 13:25:42](https://news.ycombinator.com/item?id=36708759) - [Unchecked Java: Say goodbye to checked exceptions](https://github.com/rogerkeays/unchecked)
-* [2023-07-13, 13:23:21](https://news.ycombinator.com/item?id=36708723) - [Commercial interests petition FCC for high power allocation on shortwave](https://www.arrl.org/news/commercial-interests-petition-fcc-for-high-power-allocation-on-shortwave-spectrum)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
 * [2023-07-12, 20:10:00](https://news.ycombinator.com/item?id=36700938) - [Large Multiplication](http://www.numberworld.org/y-cruncher/internals/multiplication.html)
 * [2023-07-12, 19:19:35](https://news.ycombinator.com/item?id=36700262) - [Advice for finding a technical co-founder (2021)](https://www.mooreds.com/wordpress/archives/3445)
 * [2023-07-12, 18:10:37](https://news.ycombinator.com/item?id=36699115) - [Windows: A Software Engineering Odyssey by Mark Lucovsky (2000)](https://www.usenix.org/legacy/events/usenix-win2000/invitedtalks/lucovsky_html/)
 * [2023-07-11, 21:16:17](https://news.ycombinator.com/item?id=36687321) - [Guam: The America that Americans forget](https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html)
-* [2023-07-11, 14:45:50](https://news.ycombinator.com/item?id=36681743) - [Buffers and Line Drivers](https://www.arrow.com/en/categories/standard-and-specialty-logic/specialty-logic/buffers-and-line-drivers)
+* [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
 
