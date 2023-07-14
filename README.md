@@ -15,7 +15,7 @@
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
 * [2023-07-13, 19:37:52](https://news.ycombinator.com/item?id=36714869) - [StabilityAI cofounder says CEO tricked him into selling stake for $100](https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/)
 * [2023-07-13, 19:11:42](https://news.ycombinator.com/item?id=36714522) - [Buddy Pond Cloud Desktop](https://buddypond.com/)
-* [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC responds to my ATSC 3 encryption complaint – they want to hear from you](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
+* [2023-07-13, 18:51:38](https://news.ycombinator.com/item?id=36714228) - [Age of universe at 26.7B years, nearly twice as old as previously believed](https://phys.org/news/2023-07-age-universe-billion-years-previously.html)
 * [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
