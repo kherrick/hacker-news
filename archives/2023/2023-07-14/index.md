@@ -6,6 +6,7 @@
 
 * [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
+* [2023-07-14, 07:30:51](https://news.ycombinator.com/item?id=36720573) - [Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
 * [2023-07-14, 07:10:24](https://news.ycombinator.com/item?id=36720448) - [Margaret Hamilton Led the NASA Software Team That Landed Astronauts on the Moon](https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/)
 * [2023-07-14, 06:06:20](https://news.ycombinator.com/item?id=36720034) - [New EU regulations mandate user-replaceable batteries in Apple products](https://appleinsider.com/articles/23/07/13/new-eu-regulations-mandate-user-replaceable-batteries-in-apple-products)
 * [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
