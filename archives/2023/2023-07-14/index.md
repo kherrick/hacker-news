@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 23:04:48](https://news.ycombinator.com/item?id=36731131) - [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
 * [2023-07-14, 22:07:13](https://news.ycombinator.com/item?id=36730603) - [Why was the F-117 retired so quickly?](https://www.technology.org/how-and-why/why-was-the-f-117-retired-so-quickly-top-facts/)
 * [2023-07-14, 20:51:08](https://news.ycombinator.com/item?id=36729757) - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)

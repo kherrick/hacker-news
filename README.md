@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 23:04:48](https://news.ycombinator.com/item?id=36731131) - [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
 * [2023-07-14, 22:07:13](https://news.ycombinator.com/item?id=36730603) - [Why was the F-117 retired so quickly?](https://www.technology.org/how-and-why/why-was-the-f-117-retired-so-quickly-top-facts/)
 * [2023-07-14, 20:51:08](https://news.ycombinator.com/item?id=36729757) - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
@@ -7,7 +8,6 @@
 * [2023-07-14, 20:18:25](https://news.ycombinator.com/item?id=36729361) - [Arepo: Massively parallel gravity and magnetohydrodynamic for astrophysics](https://arepo-code.org)
 * [2023-07-14, 20:06:05](https://news.ycombinator.com/item?id=36729230) - [In the Northern Rockies, grizzly bears are on the move](https://www.hcn.org/articles/bears-in-the-northern-rockies-grizzly-bears-are-on-the-move)
 * [2023-07-14, 20:01:35](https://news.ycombinator.com/item?id=36729166) - [The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]](https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf)
-* [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
 * [2023-07-14, 19:33:46](https://news.ycombinator.com/item?id=36728848) - [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
 * [2023-07-14, 19:32:01](https://news.ycombinator.com/item?id=36728825) - [Avast Scandal: Why We Stopped Recommending Avast and AVG](https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
