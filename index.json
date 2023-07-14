@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-14, 16:28:51",
+      "https://news.ycombinator.com/item?id=36726234"
+    ],
+    [
+      "Using Lemmy from my existing Mastodon",
+      "https://vijayprema.com/using-lemmy-from-my-existing-mastodon/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 16:19:03",
       "https://news.ycombinator.com/item?id=36726078"
     ],
     [
       "Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more",
       "https://www.bbc.co.uk/news/world-europe-66202093"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 16:18:59",
+      "https://news.ycombinator.com/item?id=36726077"
+    ],
+    [
+      "Building a Safer FIDO2 Key with Privilege Separation and WebAssembly",
+      "https://benkettle.xyz/posts/plat/"
     ]
   ],
   [
@@ -27,6 +47,26 @@
     [
       "Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]",
       "https://www.youtube.com/watch?v=kpk2tdsPh0A"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 15:32:57",
+      "https://news.ycombinator.com/item?id=36725468"
+    ],
+    [
+      "Fast modular squaring with AVX512IFMA (2018) [pdf]",
+      "https://eprint.iacr.org/2018/335.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 15:29:57",
+      "https://news.ycombinator.com/item?id=36725417"
+    ],
+    [
+      "Keyboards and web apps, my post/rant for the year",
+      "https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Podman Desktop 1.2 Released: Compose and Kubernetes Support",
       "https://podman-desktop.io/blog/podman-desktop-release-1.2"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 13:05:20",
-      "https://news.ycombinator.com/item?id=36723392"
-    ],
-    [
-      "Buying Campaign Contributions as a Hack",
-      "https://www.schneier.com/blog/archives/2023/07/buying-campaign-contributions-as-a-hack.html"
     ]
   ],
   [
@@ -241,42 +271,12 @@
   ],
   [
     [
-      "2023-07-13, 21:00:33",
-      "https://news.ycombinator.com/item?id=36715912"
-    ],
-    [
-      "Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data",
-      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
-    ]
-  ],
-  [
-    [
       "2023-07-13, 17:42:44",
       "https://news.ycombinator.com/item?id=36713097"
     ],
     [
       "Can you beat Pokemon FireRed while blind and deaf? (2022) [video]",
       "https://www.youtube.com/watch?v=6gjsAA_5Agk"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 17:24:22",
-      "https://news.ycombinator.com/item?id=36712788"
-    ],
-    [
-      "Brute-forcing a macOS user’s real name from a browser using mDNS",
-      "https://fingerprint.com/blog/apple-macos-mdns-brute-force/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 17:15:54",
-      "https://news.ycombinator.com/item?id=36712656"
-    ],
-    [
-      "John Boyd Compendium (2007)",
-      "https://dnipogo.org/john-r-boyd/"
     ]
   ],
   [
