@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 17:59:10](https://news.ycombinator.com/item?id=36727585) - [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
 * [2023-07-14, 17:41:11](https://news.ycombinator.com/item?id=36727330) - [Does the microbiome hold the key to chronic fatigue syndrome?](https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research)
+* [2023-07-14, 17:34:34](https://news.ycombinator.com/item?id=36727209) - [Ever Given Report Highlights Suez Canal Pilots’ Role in Grounding](https://gcaptain.com/ever-given-report-highlights-suez-canal-pilots-role-in-grounding/)
 * [2023-07-14, 17:20:23](https://news.ycombinator.com/item?id=36726967) - [People on TikTok are paying elderly women to sit in stagnant mud for hours, cry](https://restofworld.org/2023/indonesia-government-ban-tiktok-mud-bath/)
 * [2023-07-14, 17:06:10](https://news.ycombinator.com/item?id=36726733) - [Binance lays off over 1k Employees](https://www.wsj.com/articles/binance-lays-off-over-1-000-employees-d59ff6ad)
 * [2023-07-14, 17:03:02](https://news.ycombinator.com/item?id=36726679) - [US inflation cooled in June for the 12th straight month](https://www.cnn.com/2023/07/12/economy/cpi-inflation-june/index.html)
