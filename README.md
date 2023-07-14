@@ -27,8 +27,8 @@
 * [2023-07-14, 11:49:08](https://news.ycombinator.com/item?id=36722489) - [The M.C. Escher flavoured pages](https://www.josleys.com/galleries.php?catid=6)
 * [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning (2016)](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of perceptual load on performance within IDE in people with ADHD symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
-* [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-14, 05:58:04](https://news.ycombinator.com/item?id=36719987) - [Aptos, our modern successor to Calibri](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)
+* [2023-07-13, 22:17:33](https://news.ycombinator.com/item?id=36716893) - [Focusing Is About Saying No (1997) [video]](https://www.youtube.com/watch?v=H8eP99neOVs)
 * [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
 
 ## [Archives](archives/index.md)

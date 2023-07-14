@@ -6,6 +6,7 @@
 
 * [2023-07-13, 23:42:52](https://news.ycombinator.com/item?id=36717593) - [FTC investigating ChatGPT over potential consumer harm](https://www.npr.org/2023/07/13/1187532997/ftc-investigating-chatgpt-over-potential-consumer-harm)
 * [2023-07-13, 22:19:42](https://news.ycombinator.com/item?id=36716916) - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
+* [2023-07-13, 22:17:33](https://news.ycombinator.com/item?id=36716893) - [Focusing Is About Saying No (1997) [video]](https://www.youtube.com/watch?v=H8eP99neOVs)
 * [2023-07-13, 22:17:01](https://news.ycombinator.com/item?id=36716891) - [The Future of AlmaLinux is Bright](https://almalinux.org/blog/future-of-almalinux/)
 * [2023-07-13, 22:00:38](https://news.ycombinator.com/item?id=36716676) - [SEO Expert Hired and Fired by Ashley Madison Turned on Company Promising Revenge](https://krebsonsecurity.com/2023/07/seo-expert-hired-and-fired-by-ashley-madison-turned-on-company-promising-revenge/)
 * [2023-07-13, 21:47:51](https://news.ycombinator.com/item?id=36716511) - [What Makes Something an Heirloom?](https://putthison.com/what-makes-something-an-heirloom/)
