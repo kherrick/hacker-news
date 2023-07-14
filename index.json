@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-07-14, 13:36:03",
-      "https://news.ycombinator.com/item?id=36723825"
+      "2023-07-14, 14:15:18",
+      "https://news.ycombinator.com/item?id=36724333"
     ],
     [
-      "Interview with Senior Rust Developer in 2023 (Parody) [video]",
-      "https://www.youtube.com/watch?v=TGfQu0bQTKc"
+      "The internet didn’t kill counterculture, you just won’t find it on Instagram",
+      "https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Hungary nuclear plant cuts output because of warm Danube waters",
       "https://www.reuters.com/business/energy/hungary-nuclear-plant-cuts-output-because-warm-danube-waters-2023-07-14/"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 13:23:43",
-      "https://news.ycombinator.com/item?id=36723646"
-    ],
-    [
-      "Police Department Uses Clearview AI for a Year, to the Surprise of Its Oversight",
-      "https://www.techdirt.com/2023/07/13/an-indiana-police-department-has-been-using-clearview-ai-for-a-year-much-to-the-surprise-of-its-oversight/"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "Scaling to ~15K requests per second with Java – Part 1",
       "https://medium.com/inspiredbrilliance/journey-to-handling-15k-requests-per-second-with-java-part-1-fc405319c726"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 12:59:48",
-      "https://news.ycombinator.com/item?id=36723332"
-    ],
-    [
-      "The Right to Sex: Feminism in the Twenty-First Century",
-      "https://ahalbert.com/reviews/2023/07/14/the_right_to_sex.html"
     ]
   ],
   [
@@ -155,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36721055"
     ],
     [
-      "Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms",
+      "Effect of perceptual load on performance within IDE in people with ADHD symptoms",
       "https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9"
     ]
   ],
@@ -207,6 +187,26 @@
     [
       "There is no data engineering roadmap",
       "https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/"
+    ]
+  ],
+  [
+    [
+      "2023-07-13, 21:00:33",
+      "https://news.ycombinator.com/item?id=36715912"
+    ],
+    [
+      "Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data",
+      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2023-07-13, 19:45:21",
+      "https://news.ycombinator.com/item?id=36714967"
+    ],
+    [
+      "Patching GCC to build Actually Portable Executables",
+      "https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/"
     ]
   ],
   [
