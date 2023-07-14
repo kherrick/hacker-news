@@ -30,6 +30,7 @@
 * [2023-07-13, 18:51:38](https://news.ycombinator.com/item?id=36714228) - [Age of universe at 26.7B years, nearly twice as old as previously believed](https://phys.org/news/2023-07-age-universe-billion-years-previously.html)
 * [2023-07-13, 18:45:41](https://news.ycombinator.com/item?id=36714139) - [Cowboy rides to the rescue of VanMoof owners with app to unlock threatened bikes](https://techcrunch.com/2023/07/13/cowboy-rides-to-the-rescue-of-vanmoof-owners-with-app-to-unlock-threatened-bikes/)
 * [2023-07-13, 18:41:20](https://news.ycombinator.com/item?id=36714081) - [CEO Announcement to the Netlify Team](https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/)
+* [2023-07-13, 18:38:28](https://news.ycombinator.com/item?id=36714039) - [The Blob Toy](https://oimo.io/works/blob/)
 * [2023-07-13, 18:25:55](https://news.ycombinator.com/item?id=36713847) - [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
 * [2023-07-13, 18:17:54](https://news.ycombinator.com/item?id=36713737) - [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
 * [2023-07-13, 18:05:18](https://news.ycombinator.com/item?id=36713526) - [ASTO Cloud: Utility Tokens for Analog Computing](https://www.astocloud.de/)
