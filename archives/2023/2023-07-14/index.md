@@ -31,6 +31,7 @@
 * [2023-07-14, 11:57:08](https://news.ycombinator.com/item?id=36722570) - [OpenSSH might surprise you – in all the wrong ways](https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438)
 * [2023-07-14, 11:52:41](https://news.ycombinator.com/item?id=36722526) - [Electric Vehicles for Everyone? The Impossible Dream](https://manhattan.institute/article/electric-vehicles-for-everyone-the-impossible-dream)
 * [2023-07-14, 11:35:32](https://news.ycombinator.com/item?id=36722406) - [Meta is blocking EU-based users from accessing Threads via VPN](https://techcrunch.com/2023/07/14/meta-is-blocking-eu-based-users-from-accessing-threads-via-vpn/)
+* [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
 * [2023-07-14, 11:18:17](https://news.ycombinator.com/item?id=36722284) - [SpaceX Starlink satellites had to make 25,000 collision-avoidance maneuvers](https://www.space.com/starlink-satellite-conjunction-increase-threatens-space-sustainability)
 * [2023-07-14, 09:27:31](https://news.ycombinator.com/item?id=36721517) - [India's Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
 * [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
