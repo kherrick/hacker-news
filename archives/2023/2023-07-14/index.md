@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 13:24:58](https://news.ycombinator.com/item?id=36723665) - [Hungary nuclear plant cuts output because of warm Danube waters](https://www.reuters.com/business/energy/hungary-nuclear-plant-cuts-output-because-warm-danube-waters-2023-07-14/)
 * [2023-07-14, 13:12:16](https://news.ycombinator.com/item?id=36723486) - [Megachurches are getting even bigger as churches close across the country](https://text.npr.org/1187460517)
 * [2023-07-14, 12:19:41](https://news.ycombinator.com/item?id=36722823) - [OpenBSD: Mandatory enforcement of indirect branch targets](https://undeadly.org/cgi?action=article;sid=20230714121907)
 * [2023-07-14, 12:16:24](https://news.ycombinator.com/item?id=36722782) - [‘It’s the Wild West’: Vienna’s spying problem spins out of control](https://www.ft.com/content/f790d8f4-2fe1-466d-8b29-83b1f4956984)
