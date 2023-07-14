@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
 * [2023-07-14, 19:02:01](https://news.ycombinator.com/item?id=36728435) - [Parallel – shell tool for executing jobs in parallel using one or more computers](https://www.gnu.org/software/parallel/)
+* [2023-07-14, 18:43:47](https://news.ycombinator.com/item?id=36728177) - [Bank Transfers as a Payment Method](https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/)
 * [2023-07-14, 18:30:33](https://news.ycombinator.com/item?id=36728033) - [FDA says aspartame is safe, disagreeing with WHO finding on possible cancer link](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
 * [2023-07-14, 18:29:10](https://news.ycombinator.com/item?id=36728013) - [Libxo: The Easy Way to Generate Text, XML, JSON, and HTML Output](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 17:59:10](https://news.ycombinator.com/item?id=36727585) - [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
