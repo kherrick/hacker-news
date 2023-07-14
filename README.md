@@ -21,7 +21,7 @@
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:06:08](https://news.ycombinator.com/item?id=36712497) - [Passkeys will come at a cost](https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/)
 * [2023-07-13, 16:25:37](https://news.ycombinator.com/item?id=36711799) - [WW2 Meteorology](https://rafmetman.wordpress.com/meteorology/ww2-meteorology/)
-* [2023-07-13, 15:59:59](https://news.ycombinator.com/item?id=36711370) - [A relatively small amount of force applied at just the right place](https://www.tonykulesa.com/p/a-relatively-small-amount-of-force)
+* [2023-07-13, 14:51:25](https://news.ycombinator.com/item?id=36710102) - [Faster neural networks straight from JPEG (2018)](https://www.uber.com/blog/neural-networks-jpeg/)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-oriented synthesizing superoptimizer](https://arxiv.org/abs/2306.00229)
 * [2023-07-12, 20:10:00](https://news.ycombinator.com/item?id=36700938) - [Large Multiplication](http://www.numberworld.org/y-cruncher/internals/multiplication.html)
 * [2023-07-12, 19:19:35](https://news.ycombinator.com/item?id=36700262) - [Advice for finding a technical co-founder (2021)](https://www.mooreds.com/wordpress/archives/3445)
