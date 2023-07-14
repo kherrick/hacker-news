@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 16:19:03](https://news.ycombinator.com/item?id=36726078) - [Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more](https://www.bbc.co.uk/news/world-europe-66202093)
+* [2023-07-14, 15:53:15](https://news.ycombinator.com/item?id=36725756) - [Iranians sell kidneys on Instagram to survive economic hardship](https://www.thenationalnews.com/mena/2023/07/14/iranians-sell-kidneys-on-instagram-to-survive-economic-hardship/)
 * [2023-07-14, 15:33:16](https://news.ycombinator.com/item?id=36725472) - [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
 * [2023-07-14, 15:29:09](https://news.ycombinator.com/item?id=36725406) - [Game Design Wiki](https://rosacarbo.notion.site/Game-design-wiki-6902c5dc9d1242c9a70822f13e6c76b3)
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [Cosmic Skies of a Colorado July](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
