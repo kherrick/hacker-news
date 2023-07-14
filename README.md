@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 09:27:31](https://news.ycombinator.com/item?id=36721517) - [India's Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
 * [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
 * [2023-07-14, 07:30:51](https://news.ycombinator.com/item?id=36720573) - [Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
@@ -15,7 +16,6 @@
 * [2023-07-13, 20:27:27](https://news.ycombinator.com/item?id=36715504) - [Boston mayor announces residential conversion program for office buildings](https://www.bostonplans.org/news-calendar/news-updates/2023/07/10/mayor-wu-announces-residential-conversion-program)
 * [2023-07-13, 20:21:53](https://news.ycombinator.com/item?id=36715419) - [Remembering lithium-ion battery pioneer John Goodenough](https://spectrum.ieee.org/john-goodenough-tribute)
 * [2023-07-13, 19:45:21](https://news.ycombinator.com/item?id=36714967) - [Patching GCC to build Actually Portable Executables](https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/)
-* [2023-07-13, 19:37:52](https://news.ycombinator.com/item?id=36714869) - [StabilityAI cofounder says CEO tricked him into selling stake for $100](https://www.forbes.com/sites/kenrickcai/2023/07/13/stability-ai-cofounder-says-emad-mostaque-tricked-him-into-selling-stake-for-100/)
 * [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:15:54](https://news.ycombinator.com/item?id=36712656) - [John Boyd Compendium (2007)](https://dnipogo.org/john-r-boyd/)

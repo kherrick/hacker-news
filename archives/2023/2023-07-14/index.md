@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 09:27:31](https://news.ycombinator.com/item?id=36721517) - [India's Chandrayaan-3 launches to explore moons water rich South Pole](https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/)
 * [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
 * [2023-07-14, 07:30:51](https://news.ycombinator.com/item?id=36720573) - [Why software projects take longer than you think: a statistical model (2019)](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
