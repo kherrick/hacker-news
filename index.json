@@ -31,22 +31,22 @@
   ],
   [
     [
-      "2023-07-14, 13:15:42",
-      "https://news.ycombinator.com/item?id=36723535"
-    ],
-    [
-      "Insects in Flight [video]",
-      "https://www.youtube.com/watch?v=xbOzYMKROs8"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 13:09:28",
       "https://news.ycombinator.com/item?id=36723445"
     ],
     [
       "Podman Desktop 1.2 Released: Compose and Kubernetes Support",
       "https://podman-desktop.io/blog/podman-desktop-release-1.2"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 13:05:20",
+      "https://news.ycombinator.com/item?id=36723392"
+    ],
+    [
+      "Buying Campaign Contributions as a Hack",
+      "https://www.schneier.com/blog/archives/2023/07/buying-campaign-contributions-as-a-hack.html"
     ]
   ],
   [
@@ -61,12 +61,32 @@
   ],
   [
     [
+      "2023-07-14, 13:03:30",
+      "https://news.ycombinator.com/item?id=36723371"
+    ],
+    [
+      "Scaling to ~15K requests per second with Java – Part 1",
+      "https://medium.com/inspiredbrilliance/journey-to-handling-15k-requests-per-second-with-java-part-1-fc405319c726"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 12:59:48",
       "https://news.ycombinator.com/item?id=36723332"
     ],
     [
       "The Right to Sex: Feminism in the Twenty-First Century",
       "https://ahalbert.com/reviews/2023/07/14/the_right_to_sex.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 12:35:29",
+      "https://news.ycombinator.com/item?id=36722994"
+    ],
+    [
+      "OpenBSD Innovations",
+      "https://www.openbsd.org/innovations.html"
     ]
   ],
   [
@@ -131,12 +151,32 @@
   ],
   [
     [
+      "2023-07-14, 08:36:02",
+      "https://news.ycombinator.com/item?id=36721055"
+    ],
+    [
+      "Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms",
+      "https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 07:30:51",
       "https://news.ycombinator.com/item?id=36720573"
     ],
     [
       "Why software projects take longer than you think: a statistical model (2019)",
       "https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 05:59:32",
+      "https://news.ycombinator.com/item?id=36719996"
+    ],
+    [
+      "Intuitionism",
+      "https://en.wikipedia.org/wiki/Intuitionism"
     ]
   ],
   [
@@ -167,36 +207,6 @@
     [
       "There is no data engineering roadmap",
       "https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 21:00:33",
-      "https://news.ycombinator.com/item?id=36715912"
-    ],
-    [
-      "Freshpaint (YC S19) Is Hiring Engineers to Safeguard Health Data",
-      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 20:21:53",
-      "https://news.ycombinator.com/item?id=36715419"
-    ],
-    [
-      "Remembering lithium-ion battery pioneer John Goodenough",
-      "https://spectrum.ieee.org/john-goodenough-tribute"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 19:45:21",
-      "https://news.ycombinator.com/item?id=36714967"
-    ],
-    [
-      "Patching GCC to build Actually Portable Executables",
-      "https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Passkeys will come at a cost",
       "https://fy.blackhats.net.au/blog/2023-02-02-how-hype-will-turn-your-security-key-into-junk/"
-    ]
-  ],
-  [
-    [
-      "2023-07-13, 16:25:37",
-      "https://news.ycombinator.com/item?id=36711799"
-    ],
-    [
-      "WW2 Meteorology",
-      "https://rafmetman.wordpress.com/meteorology/ww2-meteorology/"
     ]
   ],
   [
