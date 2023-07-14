@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 16:28:51](https://news.ycombinator.com/item?id=36726234) - [Using Lemmy from my existing Mastodon](https://vijayprema.com/using-lemmy-from-my-existing-mastodon/)
 * [2023-07-14, 16:19:03](https://news.ycombinator.com/item?id=36726078) - [Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more](https://www.bbc.co.uk/news/world-europe-66202093)
+* [2023-07-14, 16:18:59](https://news.ycombinator.com/item?id=36726077) - [Building a Safer FIDO2 Key with Privilege Separation and WebAssembly](https://benkettle.xyz/posts/plat/)
 * [2023-07-14, 15:53:15](https://news.ycombinator.com/item?id=36725756) - [Iranians sell kidneys on Instagram to survive economic hardship](https://www.thenationalnews.com/mena/2023/07/14/iranians-sell-kidneys-on-instagram-to-survive-economic-hardship/)
 * [2023-07-14, 15:33:16](https://news.ycombinator.com/item?id=36725472) - [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
+* [2023-07-14, 15:32:57](https://news.ycombinator.com/item?id=36725468) - [Fast modular squaring with AVX512IFMA (2018) [pdf]](https://eprint.iacr.org/2018/335.pdf)
+* [2023-07-14, 15:29:57](https://news.ycombinator.com/item?id=36725417) - [Keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 15:29:09](https://news.ycombinator.com/item?id=36725406) - [Game Design Wiki](https://rosacarbo.notion.site/Game-design-wiki-6902c5dc9d1242c9a70822f13e6c76b3)
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [Cosmic Skies of a Colorado July](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
 * [2023-07-14, 14:45:01](https://news.ycombinator.com/item?id=36724739) - [Meta to release open-source commercial AI model](https://www.zdnet.com/article/meta-to-release-open-source-commercial-ai-model-to-compete-with-openai-and-google/)
