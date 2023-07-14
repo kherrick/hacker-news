@@ -7,6 +7,7 @@
 * [2023-07-14, 20:06:05](https://news.ycombinator.com/item?id=36729230) - [In the Northern Rockies, grizzly bears are on the move](https://www.hcn.org/articles/bears-in-the-northern-rockies-grizzly-bears-are-on-the-move)
 * [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
 * [2023-07-14, 19:33:46](https://news.ycombinator.com/item?id=36728848) - [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
+* [2023-07-14, 19:32:01](https://news.ycombinator.com/item?id=36728825) - [Avast Scandal: Why We Stopped Recommending Avast and AVG](https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your internet traffic (like Wireshark)](https://www.sniffnet.net/)
 * [2023-07-14, 18:29:10](https://news.ycombinator.com/item?id=36728013) - [Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
@@ -28,7 +29,6 @@
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of perceptual load on performance within IDE in people with ADHD symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
 * [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
-* [2023-07-14, 02:36:37](https://news.ycombinator.com/item?id=36718793) - [Famous Programers with Repetitive Strain Injury (2022)](http://xahlee.info/emacs/emacs/emacs_hand_pain_celebrity.html)
 * [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
 
 ## [Archives](archives/index.md)

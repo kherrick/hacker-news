@@ -13,6 +13,7 @@
 * [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
 * [2023-07-14, 19:53:07](https://news.ycombinator.com/item?id=36729065) - [Why they're smearing Lina Khan](https://pluralistic.net/2023/07/14/making-good-trouble/)
 * [2023-07-14, 19:33:46](https://news.ycombinator.com/item?id=36728848) - [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
+* [2023-07-14, 19:32:01](https://news.ycombinator.com/item?id=36728825) - [Avast Scandal: Why We Stopped Recommending Avast and AVG](https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your Internet traffic (Like Wireshark)](https://www.sniffnet.net/)
 * [2023-07-14, 19:02:01](https://news.ycombinator.com/item?id=36728435) - [Parallel – shell tool for executing jobs in parallel using one or more computers](https://www.gnu.org/software/parallel/)
