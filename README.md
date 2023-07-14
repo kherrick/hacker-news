@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-14, 20:51:08](https://news.ycombinator.com/item?id=36729757) - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Blender: Low-degree semi-structured splines for interactive modeling](https://projects.blender.org/blender/blender-addons/issues/91180)
 * [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 * [2023-07-14, 20:18:25](https://news.ycombinator.com/item?id=36729361) - [Arepo: Massively parallel gravity and magnetohydrodynamic for astrophysics](https://arepo-code.org)
@@ -17,7 +18,6 @@
 * [2023-07-14, 16:23:13](https://news.ycombinator.com/item?id=36726148) - [Could an Industrial Civilization Have Predated Humans on Earth?](https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/)
 * [2023-07-14, 16:18:59](https://news.ycombinator.com/item?id=36726077) - [Building a safer FIDO2 key with privilege separation and WebAssembly](https://benkettle.xyz/posts/plat/)
 * [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
-* [2023-07-14, 15:32:57](https://news.ycombinator.com/item?id=36725468) - [Fast modular squaring with AVX512IFMA (2018) [pdf]](https://eprint.iacr.org/2018/335.pdf)
 * [2023-07-14, 15:29:57](https://news.ycombinator.com/item?id=36725417) - [Keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [COSMIC DE: Desktop environment created for Pop!_OS and other Linux distros](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
 * [2023-07-14, 13:04:30](https://news.ycombinator.com/item?id=36723382) - [Supermassive Dark Star candidates seen by JWST](https://www.pnas.org/doi/10.1073/pnas.2305762120)
