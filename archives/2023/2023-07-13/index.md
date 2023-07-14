@@ -31,6 +31,7 @@
 * [2023-07-13, 18:41:20](https://news.ycombinator.com/item?id=36714081) - [CEO Announcement to the Netlify Team](https://www.netlify.com/blog/ceo-announcement-to-the-netlify-team/)
 * [2023-07-13, 18:25:55](https://news.ycombinator.com/item?id=36713847) - [Celsius Was Lying](https://www.bloomberg.com/opinion/articles/2023-07-13/celsius-was-lying)
 * [2023-07-13, 18:17:54](https://news.ycombinator.com/item?id=36713737) - [New in Chrome 115](https://developer.chrome.com/blog/new-in-chrome-115/)
+* [2023-07-13, 18:05:18](https://news.ycombinator.com/item?id=36713526) - [ASTO Cloud: Utility Tokens for Analog Computing](https://www.astocloud.de/)
 * [2023-07-13, 17:57:06](https://news.ycombinator.com/item?id=36713375) - [Apple claims 99% iPhone 14 satisfaction. Is that possible? (No). We investigate](https://www.perfectrec.com/posts/is-apple-making-implausible-iphone-satisfaction-claims)
 * [2023-07-13, 17:42:44](https://news.ycombinator.com/item?id=36713097) - [Can you beat Pokemon FireRed while blind and deaf? (2022) [video]](https://www.youtube.com/watch?v=6gjsAA_5Agk)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
