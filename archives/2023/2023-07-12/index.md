@@ -36,6 +36,7 @@
 * [2023-07-12, 18:03:31](https://news.ycombinator.com/item?id=36698981) - [Why just blocking Meta's Threads won't be enough](https://privacy.thenexus.today/just-blocking-threads-isnt-enough/)
 * [2023-07-12, 17:41:11](https://news.ycombinator.com/item?id=36698542) - [Performant database tree traversal with Rails](https://planetscale.com/blog/performant-database-tree-traversal-with-rails)
 * [2023-07-12, 17:37:57](https://news.ycombinator.com/item?id=36698482) - [Ask HN: React Native or Flutter for a new app in 2023?](https://news.ycombinator.com/item?id=36698482)
+* [2023-07-12, 17:31:59](https://news.ycombinator.com/item?id=36698359) - [The Webb telescope just offered a revelatory view of humanity’s distant past](https://arstechnica.com/space/2023/07/the-webb-telescope-just-offered-a-revelatory-view-of-humanitys-distant-past/)
 * [2023-07-12, 17:22:14](https://news.ycombinator.com/item?id=36698163) - [New epoch marked by human impact, the Anthropocene, began in 1950s](https://www.npr.org/2023/07/11/1187125012/anthropocene-crawford-lake-canada-beginning)
 * [2023-07-12, 17:22:01](https://news.ycombinator.com/item?id=36698159) - [Behind Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
 * [2023-07-12, 17:21:38](https://news.ycombinator.com/item?id=36698150) - [Founders and Customers: Love and Service](https://multitudes.weisser.io/p/founders-and-customers-love-and-service)
