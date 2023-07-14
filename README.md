@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-14, 04:59:43](https://news.ycombinator.com/item?id=36719651) - [Export all bike details (such as encryption key) of your VanMoof bikes](https://github.com/grossartig/vanmoof-encryption-key-exporter)
+* [2023-07-14, 04:59:43](https://news.ycombinator.com/item?id=36719651) - [VanMoof encryption key exporter](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 * [2023-07-14, 04:13:34](https://news.ycombinator.com/item?id=36719409) - [Looming demise of the 10x developer – an era of enthusiast programmers is ending](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 * [2023-07-14, 02:51:21](https://news.ycombinator.com/item?id=36718893) - [Rising Ocean Temps Raise New Concerns for Coral Reefs](https://www.nesdis.noaa.gov/news/rising-ocean-temps-raise-new-concerns-coral-reefs)
