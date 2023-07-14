@@ -129,6 +129,27 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="36727330">
+          <h3>
+            <a
+              class="item"
+              href="https://www.theguardian.com/science/2023/jul/09/microbiome-chronic-fatigue-me-long-covid-research"
+              >Does the microbiome hold the key to chronic fatigue syndrome?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-14 @ 17:41:11</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36727330"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="36726733">
           <h3>
             <a
@@ -141,32 +162,11 @@
             <h4>
               <span>2023-07-14 @ 17:06:10</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36726733"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36726679">
-          <h3>
-            <a
-              class="item"
-              href="https://www.cnn.com/2023/07/12/economy/cpi-inflation-june/index.html"
-              >US inflation cooled in June for the 12th straight month</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-14 @ 17:03:02</span
-              ><span class="points-container"
-                >Points: <span class="points">65</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36726679"
-                  >Comments</a
-                ><span class="descendants">: 50</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -183,11 +183,11 @@
             <h4>
               <span>2023-07-14 @ 17:02:21</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36726670"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -203,91 +203,13 @@
             <h4>
               <span>2023-07-14 @ 16:57:45</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36726593"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="36726485">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/content/article/fraudulent-data-set-raise-questions-about-superstar-honesty-researcher"
-              >Fraudulent data raise questions about superstar honesty
-              researcher</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-14 @ 16:49:06</span
-              ><span class="points-container"
-                >Points: <span class="points">46</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36726485"
-                  >Comments</a
-                ><span class="descendants">: 20</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36726414">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=36726414"
-              >Websites with fake MFA: security theater?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-14 @ 16:42:40</span
-              ><span class="points-container"
-                >Points: <span class="points">17</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36726414"
-                  >Comments</a
-                ><span class="descendants">: 8</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                So far, the suspects include GitLab and Credly: the exploit
-                begins by invoking the "Forgot My Password" flow, then procuring
-                the "Reset Password" email. Follow the link found in that email
-                message, provide a new password, and you're signed in to the
-                victim's account without ever being challenged for 2FA.
-              </p>
-              <p>
-                Now, the challenge here is intercepting that email message, but
-                that's a trivial feat: it's in plaintext and you probably know
-                where it was sent. You may need to execute a takeover of the
-                email account. But this may be easier than procuring the
-                victim's TOTP secret, or otherwise providing that second factor,
-                and you also don't need to know the other factor -- the
-                password!
-              </p>
-              <p>Let's call it 0FA.</p>
-              <p>
-                I contacted GitLab via their HackerOne bug bounty program, and
-                the application was rejected, because an email intercept is not
-                part of their account threat model.
-              </p>
-              <p>
-                I innocently contacted Credly Support, asking where to find
-                recovery codes, and Dominique informed me with a straight face
-                how to completely bypass MANDATORY TOTP MFA and recover my
-                account WITHOUT EVEN GIVING THE PASSWORD to sign in. And then,
-                she explained, I would be free to disable MFA or do whatever I
-                wanted! yay
-              </p>
-              <p>
-                So am I wrong? Is this a nothingburger, or is it really what it
-                appears to be: security theater, brought to us by techbros who
-                don't know how to roll their own auth?
-              </p>
-            </div>
           </section>
         </section>
         <section id="36726234">
@@ -302,11 +224,11 @@
             <h4>
               <span>2023-07-14 @ 16:28:51</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36726234"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -324,11 +246,11 @@
             <h4>
               <span>2023-07-14 @ 16:28:03</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36726219"
                   >Comments</a
-                ><span class="descendants">: 12</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -344,7 +266,7 @@
             <h4>
               <span>2023-07-14 @ 16:18:59</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36726077"
                   >Comments</a
@@ -364,11 +286,11 @@
             <h4>
               <span>2023-07-14 @ 15:33:16</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36725472"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -383,7 +305,7 @@
             <h4>
               <span>2023-07-14 @ 15:32:57</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36725468"
                   >Comments</a
@@ -404,11 +326,11 @@
             <h4>
               <span>2023-07-14 @ 15:29:57</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36725417"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -425,11 +347,11 @@
             <h4>
               <span>2023-07-14 @ 15:29:09</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36725406"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -446,11 +368,11 @@
             <h4>
               <span>2023-07-14 @ 15:10:46</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36725105"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -467,11 +389,11 @@
             <h4>
               <span>2023-07-14 @ 14:45:01</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36724739"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 130</span></span
               >
             </h4>
           </section>
@@ -489,11 +411,32 @@
             <h4>
               <span>2023-07-14 @ 14:44:52</span
               ><span class="points-container"
-                >Points: <span class="points">191</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36724736"
                   >Comments</a
-                ><span class="descendants">: 128</span></span
+                ><span class="descendants">: 134</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36723587">
+          <h3>
+            <a
+              class="item"
+              href="https://gist.github.com/chrisseaton/535e0e80ea19803d5529c623c6beb921"
+              >Ten Things You Can Do with GraalVM (2018)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-14 @ 13:19:24</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36723587"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -510,11 +453,11 @@
             <h4>
               <span>2023-07-14 @ 13:09:28</span
               ><span class="points-container"
-                >Points: <span class="points">152</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36723445"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -531,7 +474,7 @@
             <h4>
               <span>2023-07-14 @ 13:04:30</span
               ><span class="points-container"
-                >Points: <span class="points">143</span></span
+                >Points: <span class="points">151</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36723382"
                   >Comments</a
@@ -550,11 +493,11 @@
             <h4>
               <span>2023-07-14 @ 12:35:29</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36722994"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -564,18 +507,18 @@
             <a
               class="item"
               href="https://undeadly.org/cgi?action=article;sid=20230714121907"
-              >OpenBSD: Mandatory enforcement of indirect branch targets</a
+              >Mandatory enforcement of indirect branch targets</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-07-14 @ 12:19:41</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">190</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36722823"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -592,11 +535,32 @@
             <h4>
               <span>2023-07-14 @ 11:57:08</span
               ><span class="points-container"
-                >Points: <span class="points">99</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36722570"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 61</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36722349">
+          <h3>
+            <a
+              class="item"
+              href="https://meltingasphalt.com/a-nihilists-guide-to-meaning/"
+              >A Nihilist's Guide to Meaning (2016)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-14 @ 11:27:40</span
+              ><span class="points-container"
+                >Points: <span class="points">36</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36722349"
+                  >Comments</a
+                ><span class="descendants">: 54</span></span
               >
             </h4>
           </section>
@@ -614,11 +578,11 @@
             <h4>
               <span>2023-07-14 @ 09:27:31</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">224</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36721517"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -639,7 +603,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36721080"
                   >Comments</a
-                ><span class="descendants">: 156</span></span
+                ><span class="descendants">: 167</span></span
               >
             </h4>
           </section>
@@ -657,11 +621,11 @@
             <h4>
               <span>2023-07-14 @ 08:36:02</span
               ><span class="points-container"
-                >Points: <span class="points">118</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36721055"
                   >Comments</a
-                ><span class="descendants">: 153</span></span
+                ><span class="descendants">: 163</span></span
               >
             </h4>
           </section>
@@ -676,11 +640,11 @@
             <h4>
               <span>2023-07-14 @ 05:59:32</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36719996"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -697,11 +661,11 @@
             <h4>
               <span>2023-07-14 @ 05:58:04</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36719987"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -717,11 +681,11 @@
             <h4>
               <span>2023-07-13 @ 17:42:44</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">129</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36713097"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -739,7 +703,7 @@
             <h4>
               <span>2023-07-13 @ 17:25:02</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36712793"
                   >Comments</a
@@ -765,7 +729,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36698359"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -786,7 +750,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36698159"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 65</span></span
               >
             </h4>
           </section>
