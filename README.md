@@ -10,6 +10,7 @@
 * [2023-07-14, 16:57:45](https://news.ycombinator.com/item?id=36726593) - [WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
 * [2023-07-14, 16:28:51](https://news.ycombinator.com/item?id=36726234) - [Using Lemmy from my existing Mastodon](https://vijayprema.com/using-lemmy-from-my-existing-mastodon/)
 * [2023-07-14, 16:18:59](https://news.ycombinator.com/item?id=36726077) - [Building a Safer FIDO2 Key with Privilege Separation and WebAssembly](https://benkettle.xyz/posts/plat/)
+* [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
 * [2023-07-14, 15:33:16](https://news.ycombinator.com/item?id=36725472) - [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
 * [2023-07-14, 15:32:57](https://news.ycombinator.com/item?id=36725468) - [Fast modular squaring with AVX512IFMA (2018) [pdf]](https://eprint.iacr.org/2018/335.pdf)
 * [2023-07-14, 15:29:57](https://news.ycombinator.com/item?id=36725417) - [Keyboards and web apps, my post/rant for the year](https://pb.co.za/keyboards-and-web-apps-my-post-slash-rant-for-the-year)
@@ -27,7 +28,6 @@
 * [2023-07-14, 11:27:40](https://news.ycombinator.com/item?id=36722349) - [A Nihilist's Guide to Meaning (2016)](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
 * [2023-07-14, 08:39:01](https://news.ycombinator.com/item?id=36721080) - [On Becoming a VP of Engineering](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt1)
 * [2023-07-14, 08:36:02](https://news.ycombinator.com/item?id=36721055) - [Effect of perceptual load on performance within IDE in people with ADHD symptoms](https://link.springer.com/chapter/10.1007/978-3-031-35017-7_9)
-* [2023-07-14, 05:59:32](https://news.ycombinator.com/item?id=36719996) - [Intuitionism](https://en.wikipedia.org/wiki/Intuitionism)
 * [2023-07-14, 05:58:04](https://news.ycombinator.com/item?id=36719987) - [Aptos, our modern successor to Calibri](https://medium.com/microsoft-design/a-change-of-typeface-microsofts-new-default-font-has-arrived-f200eb16718d)
 * [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
 
