@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-14, 19:02:01",
+      "https://news.ycombinator.com/item?id=36728435"
+    ],
+    [
+      "Parallel – shell tool for executing jobs in parallel using one or more computers",
+      "https://www.gnu.org/software/parallel/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 18:29:10",
       "https://news.ycombinator.com/item?id=36728013"
     ],
@@ -17,6 +27,16 @@
     [
       "Astronomers witness energetic switch on of black hole",
       "https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 17:44:24",
+      "https://news.ycombinator.com/item?id=36727384"
+    ],
+    [
+      "Pulling my site from Google over AI training",
+      "https://tracydurnell.com/2023/07/11/pulling-my-site-from-google-over-ai-training/"
     ]
   ],
   [
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=36725105"
     ],
     [
-      "Cosmic Skies of a Colorado July",
+      "COSMIC DE: Desktop environment created for Pop!_OS and other Linux distros",
       "https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/"
     ]
   ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2023-07-14, 14:33:38",
-      "https://news.ycombinator.com/item?id=36724571"
-    ],
-    [
-      "Show HN: I made a website that color-codes the world by language",
-      "https://languageworldmap.com"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 13:19:24",
       "https://news.ycombinator.com/item?id=36723587"
     ],
     [
       "Ten Things You Can Do with GraalVM (2018)",
       "https://gist.github.com/chrisseaton/535e0e80ea19803d5529c623c6beb921"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 13:09:28",
-      "https://news.ycombinator.com/item?id=36723445"
-    ],
-    [
-      "Podman Desktop 1.2 Released: Compose and Kubernetes Support",
-      "https://podman-desktop.io/blog/podman-desktop-release-1.2"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=36722570"
     ],
     [
-      "OpenSSH might surprise you – in all the wrong ways",
+      "OpenSSH has some peculiar handling around command line arguments",
       "https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438"
     ]
   ],
