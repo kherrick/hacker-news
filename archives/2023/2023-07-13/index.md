@@ -36,6 +36,7 @@
 * [2023-07-13, 17:42:44](https://news.ycombinator.com/item?id=36713097) - [Can you beat Pokemon FireRed while blind and deaf? (2022) [video]](https://www.youtube.com/watch?v=6gjsAA_5Agk)
 * [2023-07-13, 17:38:53](https://news.ycombinator.com/item?id=36713037) - [The FCC wants feedback about ATSC 3.0 encryption/DRM for OTA TV](https://blog.lon.tv/2023/07/10/the-fcc-responds-to-my-atsc-3-encryption-complaint-they-want-to-hear-from-you/)
 * [2023-07-13, 17:31:07](https://news.ycombinator.com/item?id=36712894) - [It's official: Smartphones will need to have replaceable batteries by 2027](https://www.androidauthority.com/phones-with-replaceable-batteries-2027-3345155/)
+* [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
 * [2023-07-13, 17:24:22](https://news.ycombinator.com/item?id=36712788) - [Brute-forcing a macOS user’s real name from a browser using mDNS](https://fingerprint.com/blog/apple-macos-mdns-brute-force/)
 * [2023-07-13, 17:15:54](https://news.ycombinator.com/item?id=36712656) - [John Boyd Compendium](https://dnipogo.org/john-r-boyd/)
 * [2023-07-13, 17:10:22](https://news.ycombinator.com/item?id=36712564) - [We spent $20k on Google Play Pre-Registration Ads. Here are the results](https://andreaskambanis.com/google-play-store-pre-registration-campaigns/)

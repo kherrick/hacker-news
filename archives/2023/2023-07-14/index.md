@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
 * [2023-07-14, 17:20:23](https://news.ycombinator.com/item?id=36726967) - [People on TikTok are paying elderly women to sit in stagnant mud for hours, cry](https://restofworld.org/2023/indonesia-government-ban-tiktok-mud-bath/)
+* [2023-07-14, 17:06:10](https://news.ycombinator.com/item?id=36726733) - [Binance lays off over 1k Employees](https://www.wsj.com/articles/binance-lays-off-over-1-000-employees-d59ff6ad)
 * [2023-07-14, 17:03:02](https://news.ycombinator.com/item?id=36726679) - [US inflation cooled in June for the 12th straight month](https://www.cnn.com/2023/07/12/economy/cpi-inflation-june/index.html)
 * [2023-07-14, 17:02:21](https://news.ycombinator.com/item?id=36726670) - [Germany’s biggest companies are ditching the fatherland](https://www.politico.eu/article/rust-belt-on-the-rhine-the-deindustrialization-of-germany/)
 * [2023-07-14, 16:57:45](https://news.ycombinator.com/item?id=36726593) - [WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
