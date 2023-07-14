@@ -1,22 +1,42 @@
 [
   [
     [
+      "2023-07-14, 19:55:22",
+      "https://news.ycombinator.com/item?id=36729090"
+    ],
+    [
+      "Claude 2 Internal API Client and CLI",
+      "https://github.com/Explosion-Scratch/claude-unofficial-api"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 19:25:40",
+      "https://news.ycombinator.com/item?id=36728745"
+    ],
+    [
+      "Internet Archive expands Flash support",
+      "https://mastodon.archive.org/@textfiles/110697893762381822"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 19:20:14",
+      "https://news.ycombinator.com/item?id=36728672"
+    ],
+    [
+      "Sniffnet – Comfortably monitor your Internet traffic (Like Wireshark)",
+      "https://www.sniffnet.net/"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 18:43:47",
       "https://news.ycombinator.com/item?id=36728177"
     ],
     [
       "Bank Transfers as a Payment Method",
       "https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 18:30:33",
-      "https://news.ycombinator.com/item?id=36728033"
-    ],
-    [
-      "FDA says aspartame is safe, disagreeing with WHO finding",
-      "https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2023-07-14, 13:19:24",
-      "https://news.ycombinator.com/item?id=36723587"
-    ],
-    [
-      "Ten Things You Can Do with GraalVM (2018)",
-      "https://gist.github.com/chrisseaton/535e0e80ea19803d5529c623c6beb921"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 13:04:30",
       "https://news.ycombinator.com/item?id=36723382"
     ],
     [
       "Supermassive Dark Star candidates seen by JWST",
       "https://www.pnas.org/doi/10.1073/pnas.2305762120"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 12:35:29",
-      "https://news.ycombinator.com/item?id=36722994"
-    ],
-    [
-      "OpenBSD Innovations",
-      "https://www.openbsd.org/innovations.html"
     ]
   ],
   [
