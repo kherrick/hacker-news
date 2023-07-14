@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-14](index.md)
 
+* [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)
+* [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
+* [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your Internet traffic (Like Wireshark)](https://www.sniffnet.net/)
 * [2023-07-14, 19:02:01](https://news.ycombinator.com/item?id=36728435) - [Parallel – shell tool for executing jobs in parallel using one or more computers](https://www.gnu.org/software/parallel/)
 * [2023-07-14, 18:43:47](https://news.ycombinator.com/item?id=36728177) - [Bank Transfers as a Payment Method](https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/)
 * [2023-07-14, 18:30:33](https://news.ycombinator.com/item?id=36728033) - [FDA says aspartame is safe, disagreeing with WHO finding on possible cancer link](https://www.cnbc.com/2023/07/14/fda-says-aspartame-is-safe-disagrees-with-who-on-possible-cancer-link.html)
