@@ -5,6 +5,7 @@
 * [2023-07-14, 04:28:56](https://news.ycombinator.com/item?id=36719490) - [How blind photographers visualize the world](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
 * [2023-07-14, 00:42:48](https://news.ycombinator.com/item?id=36718046) - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 * [2023-07-14, 00:08:44](https://news.ycombinator.com/item?id=36717790) - [Personal relations as a manager](https://fev.al/posts/personal-relations/)
+* [2023-07-13, 22:19:42](https://news.ycombinator.com/item?id=36716916) - [Someone crafted a redstone PC in Minecraft to play Minecraft inside Minecraft](https://www.pcgamer.com/minecraftception-redstone-pc-chungus/)
 * [2023-07-13, 22:17:01](https://news.ycombinator.com/item?id=36716891) - [The future of AlmaLinux](https://almalinux.org/blog/future-of-almalinux/)
 * [2023-07-13, 21:47:51](https://news.ycombinator.com/item?id=36716511) - [What makes something an heirloom?](https://putthison.com/what-makes-something-an-heirloom/)
 * [2023-07-13, 21:29:50](https://news.ycombinator.com/item?id=36716258) - [Benefit Layers: How to avoid sales fluff in devtools](https://dx.tips/benefit-layers)
@@ -29,7 +30,6 @@
 * [2023-07-12, 17:22:01](https://news.ycombinator.com/item?id=36698159) - [Europe’s agenda for undersea internet cables](https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/)
 * [2023-07-12, 17:21:38](https://news.ycombinator.com/item?id=36698150) - [Founders and Customers: Love and Service](https://multitudes.weisser.io/p/founders-and-customers-love-and-service)
 * [2023-07-11, 21:16:17](https://news.ycombinator.com/item?id=36687321) - [Guam: The America that Americans forget](https://www.nytimes.com/2023/07/07/magazine/guam-american-military.html)
-* [2023-07-11, 12:01:14](https://news.ycombinator.com/item?id=36679763) - [The subtle magic of tsnet](https://tailscale.dev/blog/tsup-tsnet)
 
 ## [Archives](archives/index.md)
 
