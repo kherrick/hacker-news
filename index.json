@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2023-07-13, 21:01:37",
-      "https://news.ycombinator.com/item?id=36715925"
-    ],
-    [
-      "Instant Messenger History: Lessons for the Threads Era of Social Media",
-      "https://tedium.co/2023/07/12/instant-messenger-competition-history/"
-    ]
-  ],
-  [
-    [
       "2023-07-13, 21:00:33",
       "https://news.ycombinator.com/item?id=36715912"
     ],
@@ -127,6 +117,16 @@
     [
       "Patching GCC to build Actually Portable Executables",
       "https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/"
+    ]
+  ],
+  [
+    [
+      "2023-07-13, 19:42:45",
+      "https://news.ycombinator.com/item?id=36714928"
+    ],
+    [
+      "Yammer/circuitbox: Circuit breaker built with large Ruby apps in mind",
+      "https://github.com/yammer/circuitbox"
     ]
   ],
   [
