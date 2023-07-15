@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 02:21:51](https://news.ycombinator.com/item?id=36732533) - [I Conscientiously Object to Self-Driving Cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T (2001)](http://www.paulgraham.com/thist.html)
 * [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
@@ -23,7 +24,6 @@
 * [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [COSMIC DE: Desktop environment created for Pop!_OS and other Linux distros](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
 * [2023-07-14, 13:06:28](https://news.ycombinator.com/item?id=36723411) - [A Partial Decipherment of the Unknown Kushan Script](https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.12269)
-* [2023-07-14, 12:15:32](https://news.ycombinator.com/item?id=36722776) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
 * [2023-07-14, 09:41:17](https://news.ycombinator.com/item?id=36721641) - [Linux like original Unix [video]](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
 * [2023-07-14, 08:02:13](https://news.ycombinator.com/item?id=36720746) - [How to Deploy a Basic OPC-UA Server in Node-Red – Part 1](https://flowforge.com/blog/2023/07/how-to-deploy-a-basic-opc-ua-server-in-node-red/)

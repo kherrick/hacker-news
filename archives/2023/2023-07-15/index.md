@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 02:21:51](https://news.ycombinator.com/item?id=36732533) - [I Conscientiously Object to Self-Driving Cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T](http://www.paulgraham.com/thist.html)
 * [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
