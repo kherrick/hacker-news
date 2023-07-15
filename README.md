@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
-* [2023-07-15, 02:21:51](https://news.ycombinator.com/item?id=36732533) - [I Conscientiously Object to Self-Driving Cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:58:31](https://news.ycombinator.com/item?id=36732424) - [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T (2001)](http://www.paulgraham.com/thist.html)
@@ -25,6 +24,7 @@
 * [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [COSMIC DE: Desktop environment created for Pop!_OS and other Linux distros](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
 * [2023-07-14, 13:06:28](https://news.ycombinator.com/item?id=36723411) - [A Partial Decipherment of the Unknown Kushan Script](https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.12269)
+* [2023-07-14, 09:41:17](https://news.ycombinator.com/item?id=36721641) - [Linux like original Unix [video]](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
 * [2023-07-14, 07:08:07](https://news.ycombinator.com/item?id=36720435) - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2023-07-14, 02:25:29](https://news.ycombinator.com/item?id=36718727) - [Brainkey review: MRI scan brain health and cognitive impairment markers (2022)](https://longevity.technology/news/brain-trust-our-product-review-of-brainkey/)
