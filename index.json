@@ -1,11 +1,21 @@
 [
   [
     [
+      "2023-07-15, 17:45:05",
+      "https://news.ycombinator.com/item?id=36739283"
+    ],
+    [
+      "“The Famous F40” Vector Illustration",
+      "https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 17:02:45",
       "https://news.ycombinator.com/item?id=36738828"
     ],
     [
-      "Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing",
+      "Meticulous (YC S21) is hiring founding engineer to build AI for UI testing",
       "https://news.ycombinator.com/item?id=36738828"
     ]
   ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=36738597"
     ],
     [
-      "Company Builds Powerful 500cc ‘One-Stroke’ Engine",
+      "Company Builds 500cc ‘One-Stroke’ Engine",
       "https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata"
     ]
   ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=36738347"
     ],
     [
-      "Another World Ported to FPGA",
+      "Another World ported to FPGA",
       "https://github.com/sylefeb/a5k"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36738018"
     ],
     [
-      "Fusion Reactor Is Held Together with Tape",
+      "Fusion reactor is held together with tape",
       "https://spectrum.ieee.org/fusion-2662267312"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=36737835"
     ],
     [
-      "Dairyland is still going?",
+      "DiaryLand is still going?",
       "https://members.diaryland.com/edit/"
     ]
   ],
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36737733"
     ],
     [
-      "Signal's president vows to reject UK law on message scanning before encryption",
+      "Signal president says company will not comply with U.K. ‘mass surveillance’ law",
       "https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=36737342"
     ],
     [
-      "Defenestration of Prague Window",
+      "Defenestration of Prague Window (2019)",
       "https://www.atlasobscura.com/places/defenestration-of-prague-window"
     ]
   ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2023-07-15, 14:12:20",
-      "https://news.ycombinator.com/item?id=36736940"
+      "2023-07-15, 13:48:07",
+      "https://news.ycombinator.com/item?id=36736715"
     ],
     [
-      "Why do cloud providers keep building datacenters in the America's hottest city?",
-      "https://www.theregister.com/2023/07/15/cloud_datacenters_desert/"
+      "Cairo – Open-Source 2D Graphics Layer/API with font support and many back-ends",
+      "https://en.wikipedia.org/wiki/Cairo_(graphics)"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=36735881"
     ],
     [
-      "A bell that rings two notes at once [video]",
+      "A bell that rings two notes at once (2017) [video]",
       "https://www.youtube.com/watch?v=eMgmJEaYs70"
     ]
   ],
@@ -165,7 +175,7 @@
       "https://news.ycombinator.com/item?id=36735032"
     ],
     [
-      "New Emojis in 2023-2024",
+      "New emojis in 2023-2024",
       "https://blog.emojipedia.org/new-emojis-in-2023/"
     ]
   ],
@@ -177,16 +187,6 @@
     [
       "Matrices and Graph",
       "https://thepalindrome.org/p/matrices-and-graphs"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 07:40:12",
-      "https://news.ycombinator.com/item?id=36734503"
-    ],
-    [
-      "JDF.jl – Julia DataFrames serialization format",
-      "https://github.com/xiaodaigh/JDF.jl"
     ]
   ],
   [
