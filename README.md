@@ -2,6 +2,7 @@
 
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a Gravitational Wave Background from a Galaxy-Sized Detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
+* [2023-07-15, 06:53:25](https://news.ycombinator.com/item?id=36734266) - [“balls”: The day I locked everyone out of the company intranet](https://www.dancowell.com/balls-the-day-i-locked-ev/)
 * [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
 * [2023-07-15, 06:19:49](https://news.ycombinator.com/item?id=36734110) - [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
@@ -12,7 +13,6 @@
 * [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 * [2023-07-15, 00:34:00](https://news.ycombinator.com/item?id=36731876) - [The cyberpragmatics of bounding asterisks (2013)](https://languagelog.ldc.upenn.edu/nll/?p=4466)
-* [2023-07-14, 23:51:51](https://news.ycombinator.com/item?id=36731566) - [2,500 continuous runtime hours on a 4.77Mhz DOS web server](http://brutmanlabs.org)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Polyhedral Splines](https://projects.blender.org/blender/blender-addons/issues/91180)
 * [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 * [2023-07-14, 20:01:35](https://news.ycombinator.com/item?id=36729166) - [The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]](https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf)
@@ -20,6 +20,7 @@
 * [2023-07-14, 19:32:01](https://news.ycombinator.com/item?id=36728825) - [Avast Scandal: Why We Stopped Recommending Avast and AVG](https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your internet traffic (like Wireshark)](https://www.sniffnet.net/)
+* [2023-07-14, 18:29:10](https://news.ycombinator.com/item?id=36728013) - [Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
 * [2023-07-14, 16:57:45](https://news.ycombinator.com/item?id=36726593) - [WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
 * [2023-07-14, 16:28:03](https://news.ycombinator.com/item?id=36726219) - [S.F. says incidents by Cruise, Waymo driverless taxis are ‘skyrocketing.’](https://www.sfchronicle.com/sf/article/driverless-taxi-cruise-waymo-18157172.php)
 * [2023-07-14, 16:23:13](https://news.ycombinator.com/item?id=36726148) - [Could an industrial civilization have predated humans on Earth?](https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/)
@@ -29,7 +30,6 @@
 * [2023-07-14, 07:08:07](https://news.ycombinator.com/item?id=36720435) - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2023-07-14, 02:25:29](https://news.ycombinator.com/item?id=36718727) - [Brainkey review: MRI scan brain health and cognitive impairment markers (2022)](https://longevity.technology/news/brain-trust-our-product-review-of-brainkey/)
 * [2023-07-13, 18:38:28](https://news.ycombinator.com/item?id=36714039) - [The Blob Toy](https://oimo.io/works/blob/)
-* [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
 
 ## [Archives](archives/index.md)
 
