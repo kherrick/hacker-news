@@ -9,6 +9,7 @@
 * [2023-07-15, 13:47:52](https://news.ycombinator.com/item?id=36736712) - [Child pornography on sale from hacked Hikvision cameras using Hik-Connect app](https://ipvm.com/reports/cp-sale-hack?code=fgasdtgf)
 * [2023-07-15, 13:31:16](https://news.ycombinator.com/item?id=36736576) - [Look ma, no React Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 * [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
+* [2023-07-15, 12:14:24](https://news.ycombinator.com/item?id=36735881) - [A bell that rings two notes at once [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
 * [2023-07-15, 12:06:39](https://news.ycombinator.com/item?id=36735829) - [Tricking Monty Hall](https://ignorethecode.net/blog/2023/07/15/tricking_monty_hall/)
 * [2023-07-15, 11:59:25](https://news.ycombinator.com/item?id=36735777) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 * [2023-07-15, 11:53:19](https://news.ycombinator.com/item?id=36735736) - [New research indicates social rigidity is a key predictor of cognitive rigidity](https://www.psypost.org/2023/07/new-psychology-research-indicates-that-social-rigidity-is-a-key-predictor-of-cognitive-rigidity-166284)
