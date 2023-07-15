@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-07-15, 11:53:19](https://news.ycombinator.com/item?id=36735736) - [New research indicates social rigidity is a key predictor of cognitive rigidity](https://www.psypost.org/2023/07/new-psychology-research-indicates-that-social-rigidity-is-a-key-predictor-of-cognitive-rigidity-166284)
 * [2023-07-15, 11:50:37](https://news.ycombinator.com/item?id=36735713) - [Is Quantum Computing taking off?](https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219)
 * [2023-07-15, 11:38:22](https://news.ycombinator.com/item?id=36735633) - [The Pull Request Hack Is Fucking Magic](https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/)

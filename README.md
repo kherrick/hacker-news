@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-15, 11:53:19](https://news.ycombinator.com/item?id=36735736) - [New research indicates social rigidity is a key predictor of cognitive rigidity](https://www.psypost.org/2023/07/new-psychology-research-indicates-that-social-rigidity-is-a-key-predictor-of-cognitive-rigidity-166284)
+* [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-07-15, 11:50:37](https://news.ycombinator.com/item?id=36735713) - [Is Quantum Computing taking off?](https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219)
 * [2023-07-15, 11:38:22](https://news.ycombinator.com/item?id=36735633) - [The Pull Request Hack Is Fucking Magic](https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/)
 * [2023-07-15, 11:35:33](https://news.ycombinator.com/item?id=36735616) - [Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
@@ -14,7 +14,6 @@
 * [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
 * [2023-07-15, 06:06:50](https://news.ycombinator.com/item?id=36734051) - [Private Market](https://www.privatemarket.dev/whatisthis)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
-* [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
 * [2023-07-15, 03:11:13](https://news.ycombinator.com/item?id=36732869) - [In Korean wilds and villages (1938)](https://archive.org/details/InKoreanwildsandvillages)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:58:31](https://news.ycombinator.com/item?id=36732424) - [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
@@ -24,6 +23,7 @@
 * [2023-07-15, 00:34:00](https://news.ycombinator.com/item?id=36731876) - [The cyberpragmatics of bounding asterisks (2013)](https://languagelog.ldc.upenn.edu/nll/?p=4466)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Polyhedral Splines](https://projects.blender.org/blender/blender-addons/issues/91180)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
+* [2023-07-14, 13:06:28](https://news.ycombinator.com/item?id=36723411) - [A Partial Decipherment of the Unknown Kushan Script](https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.12269)
 * [2023-07-14, 11:15:12](https://news.ycombinator.com/item?id=36722267) - [Can Neural Stimulation Zap Addiction?](https://spectrum.ieee.org/tms-for-addiction)
 * [2023-07-14, 07:08:07](https://news.ycombinator.com/item?id=36720435) - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2023-07-14, 04:02:47](https://news.ycombinator.com/item?id=36719346) - [Aya: An open science project to build open multilingual models and datasets](https://txt.cohere.com/aya-multilingual/)
