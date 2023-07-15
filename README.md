@@ -2,6 +2,7 @@
 
 * [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving Unintentional Voice Transmissions from GPS Satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
+* [2023-07-15, 17:42:37](https://news.ycombinator.com/item?id=36739258) - [Donald Triplett was Autism’s “Case 1”](https://www.economist.com/obituary/2023/07/06/donald-triplett-was-autisms-case-1)
 * [2023-07-15, 17:24:30](https://news.ycombinator.com/item?id=36739067) - [Underground Heat Is Shifting Chicago’s Foundations](https://www.nytimes.com/2023/07/11/climate/chicago-underground-heat.html)
 * [2023-07-15, 17:02:45](https://news.ycombinator.com/item?id=36738828) - [Meticulous (YC S21) is hiring founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36738828)
 * [2023-07-15, 16:42:56](https://news.ycombinator.com/item?id=36738597) - [Company Builds 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
@@ -24,7 +25,6 @@
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a gravitational wave background from a galaxy-sized detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
-* [2023-07-15, 00:52:15](https://news.ycombinator.com/item?id=36732002) - [The Forksheet: Imec’s In-Between Transistor](https://spectrum.ieee.org/forksheet-transistor)
 * [2023-07-14, 23:04:48](https://news.ycombinator.com/item?id=36731131) - [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
 * [2023-07-14, 20:38:17](https://news.ycombinator.com/item?id=36729592) - [Glorious glass – worth more than gold?](https://www.britishmuseum.org/blog/glorious-glass-worth-more-gold)
 * [2023-07-14, 20:06:17](https://news.ycombinator.com/item?id=36729233) - [Japan’s love affair with the fax machine (2021)](https://theconversation.com/japans-love-affair-with-the-fax-machine-a-strange-relic-of-technological-fantasies-168674)
