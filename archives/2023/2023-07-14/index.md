@@ -100,6 +100,7 @@
 * [2023-07-14, 03:15:08](https://news.ycombinator.com/item?id=36719070) - [The day FedEx delivered its promise](https://www.anaeo.com/fedex/)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 * [2023-07-14, 02:51:21](https://news.ycombinator.com/item?id=36718893) - [Rising Ocean Temps Raise New Concerns for Coral Reefs](https://www.nesdis.noaa.gov/news/rising-ocean-temps-raise-new-concerns-coral-reefs)
+* [2023-07-14, 02:49:16](https://news.ycombinator.com/item?id=36718877) - [MELF: Multivariant Executables for a Heterogeneous World](https://www.usenix.org/conference/atc23/presentation/tollner)
 * [2023-07-14, 02:36:37](https://news.ycombinator.com/item?id=36718793) - [Famous Programers with Repetitive Strain Injury (2022)](http://xahlee.info/emacs/emacs/emacs_hand_pain_celebrity.html)
 * [2023-07-14, 02:25:29](https://news.ycombinator.com/item?id=36718727) - [Brainkey review: MRI scan brain health and cognitive impairment markers (2022)](https://longevity.technology/news/brain-trust-our-product-review-of-brainkey/)
 * [2023-07-14, 02:11:16](https://news.ycombinator.com/item?id=36718623) - [Striking Sag Actors in Disbelief over Studios’ Dystopian AI Proposal](https://www.rollingstone.com/tv-movies/tv-movie-features/actors-strike-sag-artificial-intelligence-hollywood-studios-background-1234788191/)
