@@ -22,14 +22,14 @@
 * [2023-07-14, 16:23:13](https://news.ycombinator.com/item?id=36726148) - [Could an industrial civilization have predated humans on Earth?](https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/)
 * [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
 * [2023-07-14, 15:10:46](https://news.ycombinator.com/item?id=36725105) - [COSMIC DE: Desktop environment created for Pop!_OS and other Linux distros](https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023/)
+* [2023-07-14, 13:06:28](https://news.ycombinator.com/item?id=36723411) - [A Partial Decipherment of the Unknown Kushan Script](https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.12269)
 * [2023-07-14, 13:04:30](https://news.ycombinator.com/item?id=36723382) - [Supermassive Dark Star candidates seen by JWST](https://www.pnas.org/doi/10.1073/pnas.2305762120)
 * [2023-07-14, 12:15:32](https://news.ycombinator.com/item?id=36722776) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
-* [2023-07-14, 09:41:17](https://news.ycombinator.com/item?id=36721641) - [Linux like original Unix [video]](https://www.youtube.com/watch?v=S0pXQVMC770)
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
+* [2023-07-14, 08:02:13](https://news.ycombinator.com/item?id=36720746) - [How to Deploy a Basic OPC-UA Server in Node-Red – Part 1](https://flowforge.com/blog/2023/07/how-to-deploy-a-basic-opc-ua-server-in-node-red/)
 * [2023-07-14, 07:08:07](https://news.ycombinator.com/item?id=36720435) - [How Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2023-07-13, 18:38:28](https://news.ycombinator.com/item?id=36714039) - [The Blob Toy](https://oimo.io/works/blob/)
 * [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
-* [2023-07-11, 23:54:22](https://news.ycombinator.com/item?id=36688735) - [What does authorized_fetch actually do?](https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do/)
 
 ## [Archives](archives/index.md)
 

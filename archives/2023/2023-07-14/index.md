@@ -61,6 +61,7 @@
 * [2023-07-14, 13:15:42](https://news.ycombinator.com/item?id=36723535) - [Insects in Flight [video]](https://www.youtube.com/watch?v=xbOzYMKROs8)
 * [2023-07-14, 13:12:16](https://news.ycombinator.com/item?id=36723486) - [Megachurches are getting even bigger as churches close across the country](https://text.npr.org/1187460517)
 * [2023-07-14, 13:09:28](https://news.ycombinator.com/item?id=36723445) - [Podman Desktop 1.2 Released: Compose and Kubernetes Support](https://podman-desktop.io/blog/podman-desktop-release-1.2)
+* [2023-07-14, 13:06:28](https://news.ycombinator.com/item?id=36723411) - [A Partial Decipherment of the Unknown Kushan Script](https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.12269)
 * [2023-07-14, 13:05:20](https://news.ycombinator.com/item?id=36723392) - [Buying Campaign Contributions as a Hack](https://www.schneier.com/blog/archives/2023/07/buying-campaign-contributions-as-a-hack.html)
 * [2023-07-14, 13:04:30](https://news.ycombinator.com/item?id=36723382) - [Supermassive Dark Star candidates seen by JWST](https://www.pnas.org/doi/10.1073/pnas.2305762120)
 * [2023-07-14, 13:03:30](https://news.ycombinator.com/item?id=36723371) - [Scaling to ~15K requests per second with Java – Part 1](https://medium.com/inspiredbrilliance/journey-to-handling-15k-requests-per-second-with-java-part-1-fc405319c726)
