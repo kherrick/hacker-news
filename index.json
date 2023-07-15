@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-15, 17:02:45",
+      "https://news.ycombinator.com/item?id=36738828"
+    ],
+    [
+      "Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing",
+      "https://news.ycombinator.com/item?id=36738828"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 16:42:56",
+      "https://news.ycombinator.com/item?id=36738597"
+    ],
+    [
+      "Company Builds Powerful 500cc ‘One-Stroke’ Engine",
+      "https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 16:23:52",
       "https://news.ycombinator.com/item?id=36738347"
     ],
@@ -111,26 +131,6 @@
   ],
   [
     [
-      "2023-07-15, 13:31:16",
-      "https://news.ycombinator.com/item?id=36736576"
-    ],
-    [
-      "Look ma, no React: I recoded my portfolio site with vanilla everything",
-      "https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 12:30:40",
-      "https://news.ycombinator.com/item?id=36736002"
-    ],
-    [
-      "Why Checked Exceptions Failed",
-      "https://borretti.me/article/why-checked-exceptions-failed"
-    ]
-  ],
-  [
-    [
       "2023-07-15, 12:14:24",
       "https://news.ycombinator.com/item?id=36735881"
     ],
@@ -147,6 +147,16 @@
     [
       "The shady world of Brave selling copyrighted data for AI training",
       "https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 11:35:37",
+      "https://news.ycombinator.com/item?id=36735620"
+    ],
+    [
+      "Synit – A Reactive Operating System",
+      "https://synit.org/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Matrices and Graph",
       "https://thepalindrome.org/p/matrices-and-graphs"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 07:40:12",
-      "https://news.ycombinator.com/item?id=36734503"
-    ],
-    [
-      "JDF.jl – Julia DataFrames serialization format",
-      "https://github.com/xiaodaigh/JDF.jl"
     ]
   ],
   [
