@@ -1,12 +1,12 @@
 [
   [
     [
-      "2023-07-15, 21:49:36",
-      "https://news.ycombinator.com/item?id=36741270"
+      "2023-07-15, 22:15:34",
+      "https://news.ycombinator.com/item?id=36741430"
     ],
     [
-      "Show HN: Recursive COW Pages in Userspace",
-      "https://wheybags.com/blog/cow.html"
+      "Full Text of the Federalist Papers",
+      "https://guides.loc.gov/federalist-papers/full-text"
     ]
   ],
   [
@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2023-07-15, 17:24:30",
-      "https://news.ycombinator.com/item?id=36739067"
-    ],
-    [
-      "Underground heat is shifting Chicago’s foundations",
-      "https://www.nytimes.com/2023/07/11/climate/chicago-underground-heat.html"
-    ]
-  ],
-  [
-    [
       "2023-07-15, 17:02:45",
       "https://news.ycombinator.com/item?id=36738828"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2023-07-15, 08:27:36",
+      "https://news.ycombinator.com/item?id=36734771"
+    ],
+    [
+      "Matrices and Graph",
+      "https://thepalindrome.org/p/matrices-and-graphs"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 07:25:57",
       "https://news.ycombinator.com/item?id=36734426"
     ],
@@ -247,6 +247,16 @@
     [
       "The day I locked everyone out of the company intranet",
       "https://www.dancowell.com/balls-the-day-i-locked-ev/"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 03:01:58",
+      "https://news.ycombinator.com/item?id=36732803"
+    ],
+    [
+      "On Microchip AT86RF215 Radios for SDR",
+      "https://wirelesspi.com/on-microchip-at86rf215-radios/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Neural stimulation as a treatment for addiction",
       "https://spectrum.ieee.org/tms-for-addiction"
-    ]
-  ],
-  [
-    [
-      "2023-07-11, 23:54:22",
-      "https://news.ycombinator.com/item?id=36688735"
-    ],
-    [
-      "What does authorized_fetch actually do?",
-      "https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do/"
     ]
   ]
 ]
