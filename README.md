@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
+* [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a Gravitational Wave Background from a Galaxy-Sized Detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
+* [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
 * [2023-07-15, 06:19:49](https://news.ycombinator.com/item?id=36734110) - [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
@@ -18,8 +20,6 @@
 * [2023-07-14, 19:32:01](https://news.ycombinator.com/item?id=36728825) - [Avast Scandal: Why We Stopped Recommending Avast and AVG](https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your internet traffic (like Wireshark)](https://www.sniffnet.net/)
-* [2023-07-14, 18:29:10](https://news.ycombinator.com/item?id=36728013) - [Libxo: Easy way to generate text, XML, JSON, and HTML](https://juniper.github.io/libxo/libxo-manual.html)
-* [2023-07-14, 17:59:10](https://news.ycombinator.com/item?id=36727585) - [Astronomers witness energetic switch on of black hole](https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html)
 * [2023-07-14, 16:57:45](https://news.ycombinator.com/item?id=36726593) - [WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
 * [2023-07-14, 16:28:03](https://news.ycombinator.com/item?id=36726219) - [S.F. says incidents by Cruise, Waymo driverless taxis are ‘skyrocketing.’](https://www.sfchronicle.com/sf/article/driverless-taxi-cruise-waymo-18157172.php)
 * [2023-07-14, 16:23:13](https://news.ycombinator.com/item?id=36726148) - [Could an industrial civilization have predated humans on Earth?](https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/)
