@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-15, 07:40:12",
+      "https://news.ycombinator.com/item?id=36734503"
+    ],
+    [
+      "JDF.jl – Julia DataFrames serialization format",
+      "https://github.com/xiaodaigh/JDF.jl"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 07:27:42",
       "https://news.ycombinator.com/item?id=36734445"
     ],
     [
       "The Uxn Ecosystem",
       "https://100r.co/site/uxn.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 07:25:33",
+      "https://news.ycombinator.com/item?id=36734423"
+    ],
+    [
+      "The theory versus the practice of “static websites”",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "YC offers early interviews for AI companies",
       "https://www.ycombinator.com/blog/early-interviews-for-ai-companies"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 06:06:50",
+      "https://news.ycombinator.com/item?id=36734051"
+    ],
+    [
+      "Private Market",
+      "https://www.privatemarket.dev/whatisthis"
     ]
   ],
   [
@@ -197,36 +227,6 @@
     [
       "Sniffnet – Comfortably monitor your internet traffic (like Wireshark)",
       "https://www.sniffnet.net/"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 16:57:45",
-      "https://news.ycombinator.com/item?id=36726593"
-    ],
-    [
-      "WordPress Playground: A WordPress that runs entirely in the browser",
-      "https://developer.wordpress.org/playground/"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 16:28:03",
-      "https://news.ycombinator.com/item?id=36726219"
-    ],
-    [
-      "S.F. says incidents by Cruise, Waymo driverless taxis are ‘skyrocketing.’",
-      "https://www.sfchronicle.com/sf/article/driverless-taxi-cruise-waymo-18157172.php"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 16:23:13",
-      "https://news.ycombinator.com/item?id=36726148"
-    ],
-    [
-      "Could an industrial civilization have predated humans on Earth?",
-      "https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/"
     ]
   ],
   [
