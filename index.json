@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2023-07-15, 01:58:31",
+      "https://news.ycombinator.com/item?id=36732424"
+    ],
+    [
+      "Why do so few people major in computer science? (2017)",
+      "https://danwang.co/why-so-few-computer-science-majors/"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 01:43:47",
       "https://news.ycombinator.com/item?id=36732335"
     ],
@@ -106,7 +116,7 @@
     ],
     [
       "Polyhedral Splines",
-      "https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/"
+      "https://projects.blender.org/blender/blender-addons/issues/91180"
     ]
   ],
   [
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2023-07-14, 08:02:13",
-      "https://news.ycombinator.com/item?id=36720746"
-    ],
-    [
-      "How to Deploy a Basic OPC-UA Server in Node-Red – Part 1",
-      "https://flowforge.com/blog/2023/07/how-to-deploy-a-basic-opc-ua-server-in-node-red/"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 07:08:07",
       "https://news.ycombinator.com/item?id=36720435"
     ],
     [
-      "How Lewis Carroll Computed Determinants",
+      "How Lewis Carroll computed determinants",
       "https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/"
     ]
   ],
