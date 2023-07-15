@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 14:12:20](https://news.ycombinator.com/item?id=36736940) - [Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
 * [2023-07-15, 13:31:16](https://news.ycombinator.com/item?id=36736576) - [Look ma, no React Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 * [2023-07-15, 12:06:39](https://news.ycombinator.com/item?id=36735829) - [Tricking Monty Hall](https://ignorethecode.net/blog/2023/07/15/tricking_monty_hall/)
 * [2023-07-15, 11:59:25](https://news.ycombinator.com/item?id=36735777) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
@@ -22,13 +23,12 @@
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T (2001)](http://www.paulgraham.com/thist.html)
 * [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity (2022)](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
+* [2023-07-14, 23:04:48](https://news.ycombinator.com/item?id=36731131) - [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 11:15:12](https://news.ycombinator.com/item?id=36722267) - [Can Neural Stimulation Zap Addiction?](https://spectrum.ieee.org/tms-for-addiction)
 * [2023-07-14, 10:58:08](https://news.ycombinator.com/item?id=36722158) - [Tinygrad and rusticl and aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
-* [2023-07-14, 07:08:07](https://news.ycombinator.com/item?id=36720435) - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
 * [2023-07-14, 04:02:47](https://news.ycombinator.com/item?id=36719346) - [Aya: An open science project to build open multilingual models and datasets](https://txt.cohere.com/aya-multilingual/)
 * [2023-07-14, 02:49:16](https://news.ycombinator.com/item?id=36718877) - [MELF: Multivariant Executables for a Heterogeneous World](https://www.usenix.org/conference/atc23/presentation/tollner)
-* [2023-07-13, 18:38:28](https://news.ycombinator.com/item?id=36714039) - [The Blob Toy](https://oimo.io/works/blob/)
 * [2023-07-12, 20:46:41](https://news.ycombinator.com/item?id=36701424) - [Chiptune.app](https://chiptune.app/)
 
 ## [Archives](archives/index.md)
