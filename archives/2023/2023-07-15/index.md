@@ -15,6 +15,7 @@
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 04:33:38](https://news.ycombinator.com/item?id=36733536) - [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
+* [2023-07-15, 03:11:13](https://news.ycombinator.com/item?id=36732869) - [In Korean wilds and villages (1938)](https://archive.org/details/InKoreanwildsandvillages)
 * [2023-07-15, 02:21:51](https://news.ycombinator.com/item?id=36732533) - [I Conscientiously Object to Self-Driving Cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:58:31](https://news.ycombinator.com/item?id=36732424) - [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
