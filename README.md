@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-15, 15:34:04](https://news.ycombinator.com/item?id=36737733) - [Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
+* [2023-07-15, 15:32:38](https://news.ycombinator.com/item?id=36737721) - [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
 * [2023-07-15, 15:15:57](https://news.ycombinator.com/item?id=36737567) - [“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
 * [2023-07-15, 14:20:18](https://news.ycombinator.com/item?id=36737011) - [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
 * [2023-07-15, 14:12:20](https://news.ycombinator.com/item?id=36736940) - [Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
@@ -19,7 +20,6 @@
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a gravitational wave background from a galaxy-sized detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
 * [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
-* [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T (2001)](http://www.paulgraham.com/thist.html)
 * [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity (2022)](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)

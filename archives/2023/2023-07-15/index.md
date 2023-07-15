@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
 * [2023-07-15, 15:34:04](https://news.ycombinator.com/item?id=36737733) - [Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
+* [2023-07-15, 15:32:38](https://news.ycombinator.com/item?id=36737721) - [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
 * [2023-07-15, 15:15:57](https://news.ycombinator.com/item?id=36737567) - [“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
 * [2023-07-15, 14:20:18](https://news.ycombinator.com/item?id=36737011) - [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
 * [2023-07-15, 14:12:20](https://news.ycombinator.com/item?id=36736940) - [Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
