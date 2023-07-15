@@ -4,5 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
+* [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T](http://www.paulgraham.com/thist.html)
+* [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 * [2023-07-15, 00:34:00](https://news.ycombinator.com/item?id=36731876) - [The cyberpragmatics of bounding asterisks (2013)](https://languagelog.ldc.upenn.edu/nll/?p=4466)
