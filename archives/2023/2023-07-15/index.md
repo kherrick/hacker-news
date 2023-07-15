@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 07:40:12](https://news.ycombinator.com/item?id=36734503) - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
+* [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a Gravitational Wave Background from a Galaxy-Sized Detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
 * [2023-07-15, 06:53:25](https://news.ycombinator.com/item?id=36734266) - [“balls”: The day I locked everyone out of the company intranet](https://www.dancowell.com/balls-the-day-i-locked-ev/)
 * [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
 * [2023-07-15, 06:19:49](https://news.ycombinator.com/item?id=36734110) - [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
+* [2023-07-15, 06:06:50](https://news.ycombinator.com/item?id=36734051) - [Private Market](https://www.privatemarket.dev/whatisthis)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 04:33:38](https://news.ycombinator.com/item?id=36733536) - [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
