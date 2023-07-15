@@ -6,6 +6,7 @@
 
 * [2023-07-15, 19:57:57](https://news.ycombinator.com/item?id=36740400) - [Planes and Helicopters That Don't Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
 * [2023-07-15, 19:56:30](https://news.ycombinator.com/item?id=36740385) - [Metaculus](https://www.metaculus.com/home/)
+* [2023-07-15, 19:53:52](https://news.ycombinator.com/item?id=36740357) - [Nailing jelly to a wall: is it possible?](https://greem.co.uk/otherbits/jelly.html)
 * [2023-07-15, 19:08:55](https://news.ycombinator.com/item?id=36739961) - [EU to vote regulation that has a considerable potential to hurt OSS](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 19:01:53](https://news.ycombinator.com/item?id=36739906) - [Chuck E. Cheese's 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
