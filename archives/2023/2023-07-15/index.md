@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 23:33:11](https://news.ycombinator.com/item?id=36741910) - [A Third of North America’s Birds Have Vanished](https://nautil.us/a-third-of-north-americas-birds-have-vanished-340007/)
 * [2023-07-15, 22:15:34](https://news.ycombinator.com/item?id=36741430) - [Full Text of the Federalist Papers](https://guides.loc.gov/federalist-papers/full-text)
 * [2023-07-15, 21:49:36](https://news.ycombinator.com/item?id=36741270) - [Show HN: Recursive COW Pages in Userspace](https://wheybags.com/blog/cow.html)
 * [2023-07-15, 21:44:58](https://news.ycombinator.com/item?id=36741236) - [Mega-dose vit. C in treatment of the common cold: a randomised controlled trial](https://pubmed.ncbi.nlm.nih.gov/11700812/)
