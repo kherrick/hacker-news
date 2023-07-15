@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 13:31:16](https://news.ycombinator.com/item?id=36736576) - [Look ma, no React Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 * [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-07-15, 12:06:39](https://news.ycombinator.com/item?id=36735829) - [Tricking Monty Hall](https://ignorethecode.net/blog/2023/07/15/tricking_monty_hall/)
 * [2023-07-15, 11:59:25](https://news.ycombinator.com/item?id=36735777) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
