@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-15, 01:59:47",
+      "https://news.ycombinator.com/item?id=36732430"
+    ],
+    [
+      "Ziplm: Gzip-Backed Language Model",
+      "https://github.com/Futrell/ziplm"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 01:43:47",
+      "https://news.ycombinator.com/item?id=36732335"
+    ],
+    [
+      "History of T",
+      "http://www.paulgraham.com/thist.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 01:18:35",
+      "https://news.ycombinator.com/item?id=36732146"
+    ],
+    [
+      "Tor is not just for anonymity",
+      "https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/"
+    ]
+  ],
+  [
+    [
       "2023-07-15, 00:51:59",
       "https://news.ycombinator.com/item?id=36732000"
     ],
@@ -41,26 +71,6 @@
   ],
   [
     [
-      "2023-07-14, 23:04:48",
-      "https://news.ycombinator.com/item?id=36731131"
-    ],
-    [
-      "Fudge: Reverse Tetris",
-      "https://vividfax.itch.io/fudge"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 20:51:08",
-      "https://news.ycombinator.com/item?id=36729757"
-    ],
-    [
-      "Food companies ‘sweetened the world’ and increased the risk of disease",
-      "https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 20:46:25",
       "https://news.ycombinator.com/item?id=36729694"
     ],
@@ -77,16 +87,6 @@
     [
       "Generate RSS feed for any website using CSS selectors",
       "https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 20:01:35",
-      "https://news.ycombinator.com/item?id=36729166"
-    ],
-    [
-      "The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]",
-      "https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2023-07-14, 18:43:47",
-      "https://news.ycombinator.com/item?id=36728177"
-    ],
-    [
-      "Bank transfers as a payment method (2021)",
-      "https://www.bitsaboutmoney.com/archive/bank-transfers-as-a-payment-method/"
-    ]
-  ],
-  [
-    [
       "2023-07-14, 18:29:10",
       "https://news.ycombinator.com/item?id=36728013"
     ],
@@ -157,16 +147,6 @@
     [
       "Astronomers witness energetic switch on of black hole",
       "https://phys.org/news/2023-07-astronomers-witness-energetic-black-hole.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 17:41:41",
-      "https://news.ycombinator.com/item?id=36727337"
-    ],
-    [
-      "Large-scale analysis of code re-use in Atari 2600 games (2022)",
-      "https://dl.acm.org/doi/fullHtml/10.1145/3555858.3555948"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2023-07-14, 12:15:32",
+      "https://news.ycombinator.com/item?id=36722776"
+    ],
+    [
+      "Langford Pairing (2011)",
+      "https://susam.net/blog/langford-pairing.html"
+    ]
+  ],
+  [
+    [
       "2023-07-14, 09:41:17",
       "https://news.ycombinator.com/item?id=36721641"
     ],
@@ -257,6 +247,16 @@
     [
       "Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)",
       "https://www.bbc.com/news/world-middle-east-56067717"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 08:02:13",
+      "https://news.ycombinator.com/item?id=36720746"
+    ],
+    [
+      "How to Deploy a Basic OPC-UA Server in Node-Red – Part 1",
+      "https://flowforge.com/blog/2023/07/how-to-deploy-a-basic-opc-ua-server-in-node-red/"
     ]
   ],
   [
