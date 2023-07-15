@@ -11,6 +11,7 @@
 * [2023-07-14, 20:51:08](https://news.ycombinator.com/item?id=36729757) - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Blender: Low-degree semi-structured splines for interactive modeling](https://projects.blender.org/blender/blender-addons/issues/91180)
+* [2023-07-14, 20:38:17](https://news.ycombinator.com/item?id=36729592) - [Glorious glass – worth more than gold?](https://www.britishmuseum.org/blog/glorious-glass-worth-more-gold)
 * [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 * [2023-07-14, 20:18:25](https://news.ycombinator.com/item?id=36729361) - [Arepo: Massively parallel gravity and magnetohydrodynamic for astrophysics](https://arepo-code.org)
 * [2023-07-14, 20:06:05](https://news.ycombinator.com/item?id=36729230) - [In the Northern Rockies, grizzly bears are on the move](https://www.hcn.org/articles/bears-in-the-northern-rockies-grizzly-bears-are-on-the-move)
