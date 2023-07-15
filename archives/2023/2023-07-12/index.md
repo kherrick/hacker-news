@@ -13,6 +13,7 @@
 * [2023-07-12, 21:41:48](https://news.ycombinator.com/item?id=36702078) - [Google Play adds NFTs](https://android-developers.googleblog.com/2023/07/new-blockchain-based-content-opportunities-google-play.html)
 * [2023-07-12, 21:11:03](https://news.ycombinator.com/item?id=36701748) - [Google now requires and lists phone number in Play Store listings](https://android-developers.googleblog.com/2023/07/boosting-trust-and-transparency-in-google-play.html)
 * [2023-07-12, 21:07:50](https://news.ycombinator.com/item?id=36701706) - [Tax preparers that shared private data with Meta, Google could be fined billions](https://arstechnica.com/tech-policy/2023/07/meta-wont-say-what-happened-to-taxpayer-data-it-may-have-illegally-collected/)
+* [2023-07-12, 20:46:41](https://news.ycombinator.com/item?id=36701424) - [Chiptune.app](https://chiptune.app/)
 * [2023-07-12, 20:33:33](https://news.ycombinator.com/item?id=36701250) - [Chemically induced reprogramming to reverse cellular aging](https://www.aging-us.com/article/204896/text)
 * [2023-07-12, 20:27:14](https://news.ycombinator.com/item?id=36701160) - [Minotaur: A SIMD-Oriented Synthesizing Superoptimizer](https://arxiv.org/abs/2306.00229)
 * [2023-07-12, 20:25:46](https://news.ycombinator.com/item?id=36701142) - [About Dave on Design](https://daveon.design/about-dave-on-design.html)
