@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-15, 04:33:38](https://news.ycombinator.com/item?id=36733536) - [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
+* [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
 * [2023-07-15, 02:21:51](https://news.ycombinator.com/item?id=36732533) - [I Conscientiously Object to Self-Driving Cars](https://raypatrick.xyz/blog/2023/05/27/i-conscientiously-object-to-self-driving-cars/)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T (2001)](http://www.paulgraham.com/thist.html)
@@ -8,8 +9,6 @@
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 * [2023-07-15, 00:34:00](https://news.ycombinator.com/item?id=36731876) - [The cyberpragmatics of bounding asterisks (2013)](https://languagelog.ldc.upenn.edu/nll/?p=4466)
 * [2023-07-14, 23:51:51](https://news.ycombinator.com/item?id=36731566) - [2,500 continuous runtime hours on a 4.77Mhz DOS web server](http://brutmanlabs.org)
-* [2023-07-14, 22:07:13](https://news.ycombinator.com/item?id=36730603) - [Why was the F-117 retired so quickly?](https://www.technology.org/how-and-why/why-was-the-f-117-retired-so-quickly-top-facts/)
-* [2023-07-14, 20:51:08](https://news.ycombinator.com/item?id=36729757) - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Polyhedral Splines](https://uf-cise-surflab.github.io/blender-polyhedral-splines-web/)
 * [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 * [2023-07-14, 19:33:46](https://news.ycombinator.com/item?id=36728848) - [On Becoming a VP of Engineering pt. 2](https://www.honeycomb.io/blog/becoming-vp-of-engineering-pt2)
@@ -28,6 +27,7 @@
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
 * [2023-07-14, 08:02:13](https://news.ycombinator.com/item?id=36720746) - [How to Deploy a Basic OPC-UA Server in Node-Red – Part 1](https://flowforge.com/blog/2023/07/how-to-deploy-a-basic-opc-ua-server-in-node-red/)
 * [2023-07-14, 07:08:07](https://news.ycombinator.com/item?id=36720435) - [How Lewis Carroll Computed Determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
+* [2023-07-14, 02:25:29](https://news.ycombinator.com/item?id=36718727) - [Brainkey review: MRI scan brain health and cognitive impairment markers (2022)](https://longevity.technology/news/brain-trust-our-product-review-of-brainkey/)
 * [2023-07-13, 18:38:28](https://news.ycombinator.com/item?id=36714039) - [The Blob Toy](https://oimo.io/works/blob/)
 * [2023-07-13, 17:25:02](https://news.ycombinator.com/item?id=36712793) - [Keep work fresh by teaching your successors and investing a bit in long-shots](https://tidyfirst.substack.com/p/fresh-work-80155)
 

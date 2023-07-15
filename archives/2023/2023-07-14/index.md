@@ -100,6 +100,7 @@
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)
 * [2023-07-14, 02:51:21](https://news.ycombinator.com/item?id=36718893) - [Rising Ocean Temps Raise New Concerns for Coral Reefs](https://www.nesdis.noaa.gov/news/rising-ocean-temps-raise-new-concerns-coral-reefs)
 * [2023-07-14, 02:36:37](https://news.ycombinator.com/item?id=36718793) - [Famous Programers with Repetitive Strain Injury (2022)](http://xahlee.info/emacs/emacs/emacs_hand_pain_celebrity.html)
+* [2023-07-14, 02:25:29](https://news.ycombinator.com/item?id=36718727) - [Brainkey review: MRI scan brain health and cognitive impairment markers (2022)](https://longevity.technology/news/brain-trust-our-product-review-of-brainkey/)
 * [2023-07-14, 02:11:16](https://news.ycombinator.com/item?id=36718623) - [Striking Sag Actors in Disbelief over Studios’ Dystopian AI Proposal](https://www.rollingstone.com/tv-movies/tv-movie-features/actors-strike-sag-artificial-intelligence-hollywood-studios-background-1234788191/)
 * [2023-07-14, 00:42:48](https://news.ycombinator.com/item?id=36718046) - [There is no data engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
 * [2023-07-14, 00:08:44](https://news.ycombinator.com/item?id=36717790) - [On personal relations as a manager](https://fev.al/posts/personal-relations/)
