@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 06:19:49](https://news.ycombinator.com/item?id=36734110) - [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 04:33:38](https://news.ycombinator.com/item?id=36733536) - [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)

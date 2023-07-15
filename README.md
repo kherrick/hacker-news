@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 06:19:49](https://news.ycombinator.com/item?id=36734110) - [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
@@ -22,7 +23,6 @@
 * [2023-07-14, 16:57:45](https://news.ycombinator.com/item?id=36726593) - [WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
 * [2023-07-14, 16:28:03](https://news.ycombinator.com/item?id=36726219) - [S.F. says incidents by Cruise, Waymo driverless taxis are ‘skyrocketing.’](https://www.sfchronicle.com/sf/article/driverless-taxi-cruise-waymo-18157172.php)
 * [2023-07-14, 16:23:13](https://news.ycombinator.com/item?id=36726148) - [Could an industrial civilization have predated humans on Earth?](https://nautil.us/could-an-industrial-civilization-have-predated-humans-on-earth-352964/)
-* [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
 * [2023-07-14, 13:06:28](https://news.ycombinator.com/item?id=36723411) - [A Partial Decipherment of the Unknown Kushan Script](https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.12269)
 * [2023-07-14, 11:15:12](https://news.ycombinator.com/item?id=36722267) - [Can Neural Stimulation Zap Addiction?](https://spectrum.ieee.org/tms-for-addiction)
 * [2023-07-14, 09:28:39](https://news.ycombinator.com/item?id=36721529) - [Abydos beer factory: Ancient large-scale brewery discovered in Egypt (2021)](https://www.bbc.com/news/world-middle-east-56067717)
