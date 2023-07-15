@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving Unintentional Voice Transmissions from GPS Satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
+* [2023-07-15, 17:24:30](https://news.ycombinator.com/item?id=36739067) - [Underground Heat Is Shifting Chicago’s Foundations](https://www.nytimes.com/2023/07/11/climate/chicago-underground-heat.html)
 * [2023-07-15, 17:02:45](https://news.ycombinator.com/item?id=36738828) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36738828)
 * [2023-07-15, 16:50:04](https://news.ycombinator.com/item?id=36738694) - [Homebuyers must ‘learn to live’ with near-7% mortgage rates says RE/MAX chairman](https://www.cnn.com/2023/07/14/business/mortgage-rates-buy-home/index.html)
 * [2023-07-15, 16:42:56](https://news.ycombinator.com/item?id=36738597) - [Company Builds Powerful 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
@@ -53,5 +55,6 @@
 * [2023-07-15, 01:58:31](https://news.ycombinator.com/item?id=36732424) - [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T](http://www.paulgraham.com/thist.html)
 * [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
+* [2023-07-15, 00:52:15](https://news.ycombinator.com/item?id=36732002) - [The Forksheet: Imec’s In-Between Transistor](https://spectrum.ieee.org/forksheet-transistor)
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 * [2023-07-15, 00:34:00](https://news.ycombinator.com/item?id=36731876) - [The cyberpragmatics of bounding asterisks (2013)](https://languagelog.ldc.upenn.edu/nll/?p=4466)
