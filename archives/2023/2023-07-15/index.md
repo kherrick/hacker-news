@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 17:58:07](https://news.ycombinator.com/item?id=36739386) - [The phase transition of creativity: Symmetry breaking in diffusion models](https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/)
 * [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving Unintentional Voice Transmissions from GPS Satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-07-15, 17:42:37](https://news.ycombinator.com/item?id=36739258) - [Donald Triplett was Autism’s “Case 1”](https://www.economist.com/obituary/2023/07/06/donald-triplett-was-autisms-case-1)

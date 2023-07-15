@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 17:58:07](https://news.ycombinator.com/item?id=36739386) - [The phase transition of creativity: Symmetry breaking in diffusion models](https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/)
 * [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving Unintentional Voice Transmissions from GPS Satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-07-15, 17:42:37](https://news.ycombinator.com/item?id=36739258) - [Donald Triplett was Autism’s “Case 1”](https://www.economist.com/obituary/2023/07/06/donald-triplett-was-autisms-case-1)
@@ -22,7 +23,6 @@
 * [2023-07-15, 09:19:22](https://news.ycombinator.com/item?id=36735032) - [New emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
-* [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a gravitational wave background from a galaxy-sized detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-14, 23:04:48](https://news.ycombinator.com/item?id=36731131) - [Fudge: Reverse Tetris](https://vividfax.itch.io/fudge)
