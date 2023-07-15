@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-15, 19:57:57](https://news.ycombinator.com/item?id=36740400) - [Planes and Helicopters That Don't Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
+* [2023-07-15, 20:49:57](https://news.ycombinator.com/item?id=36740821) - [The Bus Ticket Theory of Genius](https://paulgraham.com/genius.html)
+* [2023-07-15, 20:00:13](https://news.ycombinator.com/item?id=36740430) - [Hackers in olden times: microscope research in 1677](https://theamericanscholar.org/a-kingdom-of-little-animals/)
 * [2023-07-15, 19:56:30](https://news.ycombinator.com/item?id=36740385) - [Metaculus](https://www.metaculus.com/home/)
 * [2023-07-15, 19:53:52](https://news.ycombinator.com/item?id=36740357) - [Nailing jelly to a wall: is it possible?](https://greem.co.uk/otherbits/jelly.html)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
@@ -22,7 +23,6 @@
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
-* [2023-07-15, 00:52:15](https://news.ycombinator.com/item?id=36732002) - [The Forksheet: Imec’s In-Between Transistor](https://spectrum.ieee.org/forksheet-transistor)
 * [2023-07-15, 00:20:20](https://news.ycombinator.com/item?id=36731778) - [Gadgets and Gizmos That Inspired Adam Smith](https://reason.com/2023/06/25/gadgets-and-gizmos-that-inspired-adam-smith/)
 * [2023-07-14, 21:26:47](https://news.ycombinator.com/item?id=36730167) - [The Labor of Polyps and Persons](https://www.laphamsquarterly.org/roundtable/labor-polyps-and-persons)
 * [2023-07-14, 20:06:17](https://news.ycombinator.com/item?id=36729233) - [Japan’s love affair with the fax machine (2021)](https://theconversation.com/japans-love-affair-with-the-fax-machine-a-strange-relic-of-technological-fantasies-168674)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 20:49:57](https://news.ycombinator.com/item?id=36740821) - [The Bus Ticket Theory of Genius](https://paulgraham.com/genius.html)
+* [2023-07-15, 20:00:13](https://news.ycombinator.com/item?id=36740430) - [Hackers in olden times: microscope research in 1677](https://theamericanscholar.org/a-kingdom-of-little-animals/)
 * [2023-07-15, 19:57:57](https://news.ycombinator.com/item?id=36740400) - [Planes and Helicopters That Don't Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
 * [2023-07-15, 19:56:30](https://news.ycombinator.com/item?id=36740385) - [Metaculus](https://www.metaculus.com/home/)
 * [2023-07-15, 19:53:52](https://news.ycombinator.com/item?id=36740357) - [Nailing jelly to a wall: is it possible?](https://greem.co.uk/otherbits/jelly.html)
