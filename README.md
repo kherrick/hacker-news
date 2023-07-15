@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 09:19:22](https://news.ycombinator.com/item?id=36735032) - [New Emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
+* [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 * [2023-07-15, 07:40:12](https://news.ycombinator.com/item?id=36734503) - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
@@ -22,8 +24,6 @@
 * [2023-07-14, 19:32:01](https://news.ycombinator.com/item?id=36728825) - [Avast Scandal: Why We Stopped Recommending Avast and AVG](https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/)
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 19:20:14](https://news.ycombinator.com/item?id=36728672) - [Sniffnet – Comfortably monitor your internet traffic (like Wireshark)](https://www.sniffnet.net/)
-* [2023-07-14, 16:57:45](https://news.ycombinator.com/item?id=36726593) - [WordPress Playground: A WordPress that runs entirely in the browser](https://developer.wordpress.org/playground/)
-* [2023-07-14, 16:28:03](https://news.ycombinator.com/item?id=36726219) - [S.F. says incidents by Cruise, Waymo driverless taxis are ‘skyrocketing.’](https://www.sfchronicle.com/sf/article/driverless-taxi-cruise-waymo-18157172.php)
 * [2023-07-14, 13:06:28](https://news.ycombinator.com/item?id=36723411) - [A Partial Decipherment of the Unknown Kushan Script](https://onlinelibrary.wiley.com/doi/10.1111/1467-968X.12269)
 * [2023-07-14, 11:15:12](https://news.ycombinator.com/item?id=36722267) - [Can Neural Stimulation Zap Addiction?](https://spectrum.ieee.org/tms-for-addiction)
 * [2023-07-14, 07:08:07](https://news.ycombinator.com/item?id=36720435) - [How Lewis Carroll computed determinants](https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/)
