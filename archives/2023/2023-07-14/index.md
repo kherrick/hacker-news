@@ -14,6 +14,7 @@
 * [2023-07-14, 20:38:17](https://news.ycombinator.com/item?id=36729592) - [Glorious glass – worth more than gold?](https://www.britishmuseum.org/blog/glorious-glass-worth-more-gold)
 * [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 * [2023-07-14, 20:18:25](https://news.ycombinator.com/item?id=36729361) - [Arepo: Massively parallel gravity and magnetohydrodynamic for astrophysics](https://arepo-code.org)
+* [2023-07-14, 20:06:17](https://news.ycombinator.com/item?id=36729233) - [Japan’s love affair with the fax machine (2021)](https://theconversation.com/japans-love-affair-with-the-fax-machine-a-strange-relic-of-technological-fantasies-168674)
 * [2023-07-14, 20:06:05](https://news.ycombinator.com/item?id=36729230) - [In the Northern Rockies, grizzly bears are on the move](https://www.hcn.org/articles/bears-in-the-northern-rockies-grizzly-bears-are-on-the-move)
 * [2023-07-14, 20:01:35](https://news.ycombinator.com/item?id=36729166) - [The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]](https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf)
 * [2023-07-14, 19:55:22](https://news.ycombinator.com/item?id=36729090) - [Claude 2 Internal API Client and CLI](https://github.com/Explosion-Scratch/claude-unofficial-api)

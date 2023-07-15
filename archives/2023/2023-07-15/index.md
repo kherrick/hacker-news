@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
 * [2023-07-15, 17:02:45](https://news.ycombinator.com/item?id=36738828) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36738828)
+* [2023-07-15, 16:50:04](https://news.ycombinator.com/item?id=36738694) - [Homebuyers must ‘learn to live’ with near-7% mortgage rates says RE/MAX chairman](https://www.cnn.com/2023/07/14/business/mortgage-rates-buy-home/index.html)
 * [2023-07-15, 16:42:56](https://news.ycombinator.com/item?id=36738597) - [Company Builds Powerful 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
 * [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World Ported to FPGA](https://github.com/sylefeb/a5k)
 * [2023-07-15, 16:03:36](https://news.ycombinator.com/item?id=36738082) - [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
