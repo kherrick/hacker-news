@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-07-15, 17:02:45](https://news.ycombinator.com/item?id=36738828) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36738828)
 * [2023-07-15, 16:50:04](https://news.ycombinator.com/item?id=36738694) - [Homebuyers must ‘learn to live’ with near-7% mortgage rates says RE/MAX chairman](https://www.cnn.com/2023/07/14/business/mortgage-rates-buy-home/index.html)
 * [2023-07-15, 16:42:56](https://news.ycombinator.com/item?id=36738597) - [Company Builds Powerful 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
@@ -19,6 +20,7 @@
 * [2023-07-15, 14:20:18](https://news.ycombinator.com/item?id=36737011) - [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
 * [2023-07-15, 14:12:20](https://news.ycombinator.com/item?id=36736940) - [Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
 * [2023-07-15, 13:56:55](https://news.ycombinator.com/item?id=36736795) - [Ask HN: How to price your first Enterprise customer?](https://news.ycombinator.com/item?id=36736795)
+* [2023-07-15, 13:48:07](https://news.ycombinator.com/item?id=36736715) - [Cairo – Open-Source 2D Graphics Layer/API with font support and many back-ends](https://en.wikipedia.org/wiki/Cairo_(graphics))
 * [2023-07-15, 13:47:52](https://news.ycombinator.com/item?id=36736712) - [Child pornography on sale from hacked Hikvision cameras using Hik-Connect app](https://ipvm.com/reports/cp-sale-hack?code=fgasdtgf)
 * [2023-07-15, 13:31:16](https://news.ycombinator.com/item?id=36736576) - [Look ma, no React Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 * [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
