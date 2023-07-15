@@ -68,3 +68,4 @@
 * [2023-07-15, 00:52:15](https://news.ycombinator.com/item?id=36732002) - [The Forksheet: Imec’s In-Between Transistor](https://spectrum.ieee.org/forksheet-transistor)
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 * [2023-07-15, 00:34:00](https://news.ycombinator.com/item?id=36731876) - [The cyberpragmatics of bounding asterisks (2013)](https://languagelog.ldc.upenn.edu/nll/?p=4466)
+* [2023-07-15, 00:20:20](https://news.ycombinator.com/item?id=36731778) - [Gadgets and Gizmos That Inspired Adam Smith](https://reason.com/2023/06/25/gadgets-and-gizmos-that-inspired-adam-smith/)
