@@ -2,6 +2,7 @@
 
 * [2023-07-15, 17:02:45](https://news.ycombinator.com/item?id=36738828) - [Meticulous (YC S21) Is Hiring Founding Engineer to Build AI for UI Testing](https://news.ycombinator.com/item?id=36738828)
 * [2023-07-15, 16:50:04](https://news.ycombinator.com/item?id=36738694) - [Homebuyers must ‘learn to live’ with near-7% mortgage rates says RE/MAX chairman](https://www.cnn.com/2023/07/14/business/mortgage-rates-buy-home/index.html)
+* [2023-07-15, 16:42:56](https://news.ycombinator.com/item?id=36738597) - [Company Builds Powerful 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
 * [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World Ported to FPGA](https://github.com/sylefeb/a5k)
 * [2023-07-15, 16:03:36](https://news.ycombinator.com/item?id=36738082) - [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
 * [2023-07-15, 15:57:17](https://news.ycombinator.com/item?id=36738018) - [Fusion Reactor Is Held Together with Tape](https://spectrum.ieee.org/fusion-2662267312)
@@ -11,7 +12,6 @@
 * [2023-07-15, 14:55:28](https://news.ycombinator.com/item?id=36737342) - [Defenestration of Prague Window](https://www.atlasobscura.com/places/defenestration-of-prague-window)
 * [2023-07-15, 14:21:53](https://news.ycombinator.com/item?id=36737027) - [1900s photo doesn’t show an 8-year-old miner, just a kid in a costume](https://apnews.com/article/fact-check-child-miner-utah-photo-833906766994)
 * [2023-07-15, 14:12:20](https://news.ycombinator.com/item?id=36736940) - [Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
-* [2023-07-15, 13:56:55](https://news.ycombinator.com/item?id=36736795) - [Ask HN: How to price your first Enterprise customer?](https://news.ycombinator.com/item?id=36736795)
 * [2023-07-15, 12:14:24](https://news.ycombinator.com/item?id=36735881) - [A bell that rings two notes at once [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
 * [2023-07-15, 11:59:25](https://news.ycombinator.com/item?id=36735777) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 * [2023-07-15, 11:35:37](https://news.ycombinator.com/item?id=36735620) - [Synit – A Reactive Operating System](https://synit.org/)
