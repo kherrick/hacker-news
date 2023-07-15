@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 15:57:17](https://news.ycombinator.com/item?id=36738018) - [Fusion Reactor Is Held Together with Tape](https://spectrum.ieee.org/fusion-2662267312)
+* [2023-07-15, 15:43:21](https://news.ycombinator.com/item?id=36737835) - [Dairyland (blogging platform from '99) is still going?](https://members.diaryland.com/edit/)
 * [2023-07-15, 15:34:04](https://news.ycombinator.com/item?id=36737733) - [Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
 * [2023-07-15, 15:32:38](https://news.ycombinator.com/item?id=36737721) - [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
 * [2023-07-15, 15:15:57](https://news.ycombinator.com/item?id=36737567) - [“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
@@ -16,7 +18,6 @@
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 * [2023-07-15, 07:40:12](https://news.ycombinator.com/item?id=36734503) - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
-* [2023-07-15, 07:25:57](https://news.ycombinator.com/item?id=36734426) - [Why can’t you just roll back from a bad macOS update?](https://eclecticlight.co/2023/07/15/why-cant-you-just-roll-back-from-a-bad-macos-update/)
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a gravitational wave background from a galaxy-sized detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
 * [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
@@ -28,7 +29,6 @@
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 10:58:08](https://news.ycombinator.com/item?id=36722158) - [Tinygrad and rusticl and aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
 * [2023-07-14, 04:02:47](https://news.ycombinator.com/item?id=36719346) - [Aya: An open science project to build open multilingual models and datasets](https://txt.cohere.com/aya-multilingual/)
-* [2023-07-14, 02:49:16](https://news.ycombinator.com/item?id=36718877) - [MELF: Multivariant Executables for a Heterogeneous World](https://www.usenix.org/conference/atc23/presentation/tollner)
 * [2023-07-12, 20:46:41](https://news.ycombinator.com/item?id=36701424) - [Chiptune.app](https://chiptune.app/)
 
 ## [Archives](archives/index.md)
