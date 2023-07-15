@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 * [2023-07-15, 06:19:49](https://news.ycombinator.com/item?id=36734110) - [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
@@ -10,7 +11,6 @@
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
 * [2023-07-15, 00:34:00](https://news.ycombinator.com/item?id=36731876) - [The cyberpragmatics of bounding asterisks (2013)](https://languagelog.ldc.upenn.edu/nll/?p=4466)
 * [2023-07-14, 23:51:51](https://news.ycombinator.com/item?id=36731566) - [2,500 continuous runtime hours on a 4.77Mhz DOS web server](http://brutmanlabs.org)
-* [2023-07-14, 20:51:08](https://news.ycombinator.com/item?id=36729757) - [Food companies ‘sweetened the world’ and increased the risk of disease](https://www.theguardian.com/global-development/2023/jul/14/how-food-companies-sweetened-the-world-and-increased-the-risk-of-disease-acc)
 * [2023-07-14, 20:46:25](https://news.ycombinator.com/item?id=36729694) - [Polyhedral Splines](https://projects.blender.org/blender/blender-addons/issues/91180)
 * [2023-07-14, 20:23:44](https://news.ycombinator.com/item?id=36729424) - [Generate RSS feed for any website using CSS selectors](https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge)
 * [2023-07-14, 20:01:35](https://news.ycombinator.com/item?id=36729166) - [The Bank of Vernal: The “Parcel Post Bank” (2014) [pdf]](https://about.usps.com/who-we-are/postal-history/bank-of-vernal.pdf)
