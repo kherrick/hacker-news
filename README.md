@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-15, 21:44:58](https://news.ycombinator.com/item?id=36741236) - [Mega-dose vit. C in treatment of the common cold: a randomised controlled trial](https://pubmed.ncbi.nlm.nih.gov/11700812/)
+* [2023-07-15, 21:44:58](https://news.ycombinator.com/item?id=36741236) - [Mega-dose vitamin C in treatment of the common cold (2001)](https://pubmed.ncbi.nlm.nih.gov/11700812/)
+* [2023-07-15, 21:17:23](https://news.ycombinator.com/item?id=36741034) - [Bipartisan legislation to mandate healthcare cost transparency passes House](https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/bipartisan-healthcare-transparency-cost)
 * [2023-07-15, 21:03:17](https://news.ycombinator.com/item?id=36740921) - [PostgreSQL: No More Vacuum, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
 * [2023-07-15, 20:49:57](https://news.ycombinator.com/item?id=36740821) - [The Bus Ticket Theory of Genius](https://paulgraham.com/genius.html)
 * [2023-07-15, 20:00:13](https://news.ycombinator.com/item?id=36740430) - [Hackers in olden times: microscope research in 1677](https://theamericanscholar.org/a-kingdom-of-little-animals/)
@@ -26,7 +27,6 @@
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
-* [2023-07-14, 20:06:17](https://news.ycombinator.com/item?id=36729233) - [Japan’s love affair with the fax machine (2021)](https://theconversation.com/japans-love-affair-with-the-fax-machine-a-strange-relic-of-technological-fantasies-168674)
 * [2023-07-14, 19:58:33](https://news.ycombinator.com/item?id=36729125) - [Enigmatic Ancient ‘Unknown Kushan Script’ 60% Deciphered by Scientists](https://www.ancientpages.com/2023/07/13/unknown-kushan-script-deciphered/)
 * [2023-07-14, 16:04:56](https://news.ycombinator.com/item?id=36725910) - [Eddiots](https://eddiots.com/1)
 * [2023-07-14, 11:15:12](https://news.ycombinator.com/item?id=36722267) - [Neural stimulation as a treatment for addiction](https://spectrum.ieee.org/tms-for-addiction)

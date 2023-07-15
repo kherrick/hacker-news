@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
 * [2023-07-15, 21:44:58](https://news.ycombinator.com/item?id=36741236) - [Mega-dose vit. C in treatment of the common cold: a randomised controlled trial](https://pubmed.ncbi.nlm.nih.gov/11700812/)
+* [2023-07-15, 21:17:23](https://news.ycombinator.com/item?id=36741034) - [Bipartisan legislation to mandate healthcare cost transparency passes House](https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/bipartisan-healthcare-transparency-cost)
 * [2023-07-15, 21:03:17](https://news.ycombinator.com/item?id=36740921) - [PostgreSQL: No More Vacuum, No More Bloat](https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/)
 * [2023-07-15, 20:49:57](https://news.ycombinator.com/item?id=36740821) - [The Bus Ticket Theory of Genius](https://paulgraham.com/genius.html)
 * [2023-07-15, 20:00:13](https://news.ycombinator.com/item?id=36740430) - [Hackers in olden times: microscope research in 1677](https://theamericanscholar.org/a-kingdom-of-little-animals/)
