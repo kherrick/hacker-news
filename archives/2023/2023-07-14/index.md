@@ -96,6 +96,7 @@
 * [2023-07-14, 04:59:43](https://news.ycombinator.com/item?id=36719651) - [Export all bike details (such as encryption key) of your VanMoof bikes](https://github.com/grossartig/vanmoof-encryption-key-exporter)
 * [2023-07-14, 04:28:56](https://news.ycombinator.com/item?id=36719490) - [How Blind Photographers Visualize the World](https://www.photoroo.com/37295319/how-blind-photographers-visualize-the-world#/)
 * [2023-07-14, 04:13:34](https://news.ycombinator.com/item?id=36719409) - [Looming demise of the 10x developer – an era of enthusiast programmers is ending](https://blog.testdouble.com/posts/2023-07-12-the-looming-demise-of-the-10x-developer/)
+* [2023-07-14, 04:02:47](https://news.ycombinator.com/item?id=36719346) - [Aya: An open science project to build open multilingual models and datasets](https://txt.cohere.com/aya-multilingual/)
 * [2023-07-14, 03:39:57](https://news.ycombinator.com/item?id=36719217) - [The Proof of Riemann Hypothesis Through Integral Representation of Series](https://www.researchgate.net/publication/365174380_THE_PROOF_OF_RIEMANN_HYPOTHESIS_THROUGH_INTEGRAL_REPRESENTATION_OF_SERIES)
 * [2023-07-14, 03:15:08](https://news.ycombinator.com/item?id=36719070) - [The day FedEx delivered its promise](https://www.anaeo.com/fedex/)
 * [2023-07-14, 03:03:45](https://news.ycombinator.com/item?id=36718991) - [AlmaLinux No Longer Aims for 1:1 Compatibility with RHEL](https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL)

@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 11:53:19](https://news.ycombinator.com/item?id=36735736) - [New research indicates social rigidity is a key predictor of cognitive rigidity](https://www.psypost.org/2023/07/new-psychology-research-indicates-that-social-rigidity-is-a-key-predictor-of-cognitive-rigidity-166284)
+* [2023-07-15, 11:50:37](https://news.ycombinator.com/item?id=36735713) - [Is Quantum Computing taking off?](https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219)
+* [2023-07-15, 11:38:22](https://news.ycombinator.com/item?id=36735633) - [The Pull Request Hack Is Fucking Magic](https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/)
 * [2023-07-15, 11:35:33](https://news.ycombinator.com/item?id=36735616) - [Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
 * [2023-07-15, 09:19:22](https://news.ycombinator.com/item?id=36735032) - [New Emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 * [2023-07-15, 07:40:12](https://news.ycombinator.com/item?id=36734503) - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
+* [2023-07-15, 07:25:57](https://news.ycombinator.com/item?id=36734426) - [Why can’t you just roll back from a bad macOS update?](https://eclecticlight.co/2023/07/15/why-cant-you-just-roll-back-from-a-bad-macos-update/)
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a Gravitational Wave Background from a Galaxy-Sized Detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
 * [2023-07-15, 06:53:25](https://news.ycombinator.com/item?id=36734266) - [“balls”: The day I locked everyone out of the company intranet](https://www.dancowell.com/balls-the-day-i-locked-ev/)
