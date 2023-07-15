@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-15, 15:34:04](https://news.ycombinator.com/item?id=36737733) - [Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
 * [2023-07-15, 15:15:57](https://news.ycombinator.com/item?id=36737567) - [“Our paying customers need X, when will you fix it?”](https://twitter.com/maximilianhils/status/1680193548212228097)
 * [2023-07-15, 14:20:18](https://news.ycombinator.com/item?id=36737011) - [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
 * [2023-07-15, 14:12:20](https://news.ycombinator.com/item?id=36736940) - [Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
 * [2023-07-15, 13:56:55](https://news.ycombinator.com/item?id=36736795) - [Ask HN: How to price your first Enterprise customer?](https://news.ycombinator.com/item?id=36736795)
-* [2023-07-15, 13:47:52](https://news.ycombinator.com/item?id=36736712) - [Child pornography on sale from hacked Hikvision cameras using Hik-Connect app](https://ipvm.com/reports/cp-sale-hack?code=fgasdtgf)
 * [2023-07-15, 13:31:16](https://news.ycombinator.com/item?id=36736576) - [Look ma, no React: I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 * [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-07-15, 12:14:24](https://news.ycombinator.com/item?id=36735881) - [A bell that rings two notes at once [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
@@ -18,7 +18,6 @@
 * [2023-07-15, 07:25:57](https://news.ycombinator.com/item?id=36734426) - [Why can’t you just roll back from a bad macOS update?](https://eclecticlight.co/2023/07/15/why-cant-you-just-roll-back-from-a-bad-macos-update/)
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)
 * [2023-07-15, 07:07:49](https://news.ycombinator.com/item?id=36734333) - [Evidence for a gravitational wave background from a galaxy-sized detector](https://astrobites.org/2023/06/28/drop-the-bass-evidence-for-a-gravitational-wave-background-from-a-galaxy-sized-detector/)
-* [2023-07-15, 06:53:25](https://news.ycombinator.com/item?id=36734266) - [The day I locked everyone out of the company intranet](https://www.dancowell.com/balls-the-day-i-locked-ev/)
 * [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
@@ -29,6 +28,7 @@
 * [2023-07-14, 19:25:40](https://news.ycombinator.com/item?id=36728745) - [Internet Archive expands Flash support](https://mastodon.archive.org/@textfiles/110697893762381822)
 * [2023-07-14, 10:58:08](https://news.ycombinator.com/item?id=36722158) - [Tinygrad and rusticl and aco: why not?](https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html)
 * [2023-07-14, 04:02:47](https://news.ycombinator.com/item?id=36719346) - [Aya: An open science project to build open multilingual models and datasets](https://txt.cohere.com/aya-multilingual/)
+* [2023-07-14, 02:49:16](https://news.ycombinator.com/item?id=36718877) - [MELF: Multivariant Executables for a Heterogeneous World](https://www.usenix.org/conference/atc23/presentation/tollner)
 * [2023-07-12, 20:46:41](https://news.ycombinator.com/item?id=36701424) - [Chiptune.app](https://chiptune.app/)
 
 ## [Archives](archives/index.md)
