@@ -47,6 +47,7 @@
 * [2023-07-14, 16:19:03](https://news.ycombinator.com/item?id=36726078) - [Southern Europe in extreme heat, with Greece seeing temperatures of 40C or more](https://www.bbc.co.uk/news/world-europe-66202093)
 * [2023-07-14, 16:18:59](https://news.ycombinator.com/item?id=36726077) - [Building a Safer FIDO2 Key with Privilege Separation and WebAssembly](https://benkettle.xyz/posts/plat/)
 * [2023-07-14, 16:11:09](https://news.ycombinator.com/item?id=36725982) - [The Problem with LangChain](https://minimaxir.com/2023/07/langchain-problem/)
+* [2023-07-14, 16:04:56](https://news.ycombinator.com/item?id=36725910) - [Eddiots](https://eddiots.com/1)
 * [2023-07-14, 15:53:15](https://news.ycombinator.com/item?id=36725756) - [Iranians sell kidneys on Instagram to survive economic hardship](https://www.thenationalnews.com/mena/2023/07/14/iranians-sell-kidneys-on-instagram-to-survive-economic-hardship/)
 * [2023-07-14, 15:33:16](https://news.ycombinator.com/item?id=36725472) - [Super Mario 64 – Watch for Rolling Rocks – 0.5x a Presses [video]](https://www.youtube.com/watch?v=kpk2tdsPh0A)
 * [2023-07-14, 15:32:57](https://news.ycombinator.com/item?id=36725468) - [Fast modular squaring with AVX512IFMA (2018) [pdf]](https://eprint.iacr.org/2018/335.pdf)

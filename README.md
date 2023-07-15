@@ -18,7 +18,6 @@
 * [2023-07-15, 15:32:38](https://news.ycombinator.com/item?id=36737721) - [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
 * [2023-07-15, 14:55:28](https://news.ycombinator.com/item?id=36737342) - [Defenestration of Prague Window (2019)](https://www.atlasobscura.com/places/defenestration-of-prague-window)
 * [2023-07-15, 12:14:24](https://news.ycombinator.com/item?id=36735881) - [A bell that rings two notes at once (2017) [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
-* [2023-07-15, 12:06:39](https://news.ycombinator.com/item?id=36735829) - [Tricking Monty Hall](https://ignorethecode.net/blog/2023/07/15/tricking_monty_hall/)
 * [2023-07-15, 11:35:37](https://news.ycombinator.com/item?id=36735620) - [Synit – A Reactive Operating System](https://synit.org/)
 * [2023-07-15, 11:35:33](https://news.ycombinator.com/item?id=36735616) - [Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
 * [2023-07-15, 10:26:47](https://news.ycombinator.com/item?id=36735295) - [Interpolating Polygons (2017)](http://lambdafunk.com/2017-02-21-Interpolating-Polygons/)
@@ -28,6 +27,7 @@
 * [2023-07-14, 21:26:47](https://news.ycombinator.com/item?id=36730167) - [The Labor of Polyps and Persons](https://www.laphamsquarterly.org/roundtable/labor-polyps-and-persons)
 * [2023-07-14, 20:38:17](https://news.ycombinator.com/item?id=36729592) - [Glorious glass – worth more than gold?](https://www.britishmuseum.org/blog/glorious-glass-worth-more-gold)
 * [2023-07-14, 20:06:17](https://news.ycombinator.com/item?id=36729233) - [Japan’s love affair with the fax machine (2021)](https://theconversation.com/japans-love-affair-with-the-fax-machine-a-strange-relic-of-technological-fantasies-168674)
+* [2023-07-14, 16:04:56](https://news.ycombinator.com/item?id=36725910) - [Eddiots](https://eddiots.com/1)
 * [2023-07-14, 04:02:47](https://news.ycombinator.com/item?id=36719346) - [Aya: An open science project to build open multilingual models and datasets](https://txt.cohere.com/aya-multilingual/)
 * [2023-07-12, 20:46:41](https://news.ycombinator.com/item?id=36701424) - [Chiptune.app](https://chiptune.app/)
 
