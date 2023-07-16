@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 * [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 * [2023-07-16, 15:59:49](https://news.ycombinator.com/item?id=36748448) - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
 * [2023-07-16, 15:54:10](https://news.ycombinator.com/item?id=36748393) - [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
@@ -23,13 +24,12 @@
 * [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear fission fuel is inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
 * [2023-07-16, 07:13:10](https://news.ycombinator.com/item?id=36744395) - [Self hosted YouTube media server](https://www.tubearchivist.com/)
 * [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers (2022)](https://blog.wesleyac.com/posts/how-i-run-my-servers)
-* [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 * [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex](https://www.abandonedamerica.us/bell-labs)
+* [2023-07-15, 20:10:33](https://news.ycombinator.com/item?id=36740512) - [Hallucinate This: An Authoritized Autobotography](https://markcmarino.com/chatgpt/)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 17:26:01](https://news.ycombinator.com/item?id=36739086) - [Human-Powered Air-Compressor and Energy Storage System](https://solar.lowtechmagazine.com/2023/07/human-powered-air-compressor-and-energy-storage-system/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 15:01:28](https://news.ycombinator.com/item?id=36737405) - [Negative Mass](https://students.tools/negative-mass/)
-* [2023-07-15, 14:10:25](https://news.ycombinator.com/item?id=36736917) - [How Manga Was Translated for America](https://www.nytimes.com/interactive/2023/07/14/books/manga-comic-books.html)
 
 ## [Archives](archives/index.md)
 
