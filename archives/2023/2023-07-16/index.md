@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
+* [2023-07-16, 11:22:03](https://news.ycombinator.com/item?id=36745726) - [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
 * [2023-07-16, 10:13:51](https://news.ycombinator.com/item?id=36745289) - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-16, 09:07:28](https://news.ycombinator.com/item?id=36744976) - [What the media won't tell you about US heat waves (2022)](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9)
