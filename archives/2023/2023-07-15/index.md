@@ -56,6 +56,7 @@
 * [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-07-15, 12:14:24](https://news.ycombinator.com/item?id=36735881) - [A bell that rings two notes at once [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
 * [2023-07-15, 12:06:39](https://news.ycombinator.com/item?id=36735829) - [Tricking Monty Hall](https://ignorethecode.net/blog/2023/07/15/tricking_monty_hall/)
+* [2023-07-15, 12:04:21](https://news.ycombinator.com/item?id=36735817) - [Reverse-engineering the 8086 processor’s address and data pin circuits](https://blog.adafruit.com/2023/07/15/reverse-engineering-the-8086-processors-address-and-data-pin-circuits/)
 * [2023-07-15, 11:59:25](https://news.ycombinator.com/item?id=36735777) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 * [2023-07-15, 11:59:14](https://news.ycombinator.com/item?id=36735774) - [AI Nursing Ethics: Viability of Robots and Artificial Intelligence in Nursing](https://www.tus.ac.jp/en/mediarelations/archive/20230706_1542.html)
 * [2023-07-15, 11:53:19](https://news.ycombinator.com/item?id=36735736) - [New research indicates social rigidity is a key predictor of cognitive rigidity](https://www.psypost.org/2023/07/new-psychology-research-indicates-that-social-rigidity-is-a-key-predictor-of-cognitive-rigidity-166284)
