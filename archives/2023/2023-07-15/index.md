@@ -24,6 +24,7 @@
 * [2023-07-15, 19:08:55](https://news.ycombinator.com/item?id=36739961) - [EU to vote regulation that has a considerable potential to hurt OSS](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 19:01:53](https://news.ycombinator.com/item?id=36739906) - [Chuck E. Cheese's 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
+* [2023-07-15, 18:56:25](https://news.ycombinator.com/item?id=36739848) - [Show HN: Simulating two gears in my game](https://old.reddit.com/r/indiegames/comments/150jcyz/simulating_two_gears_in_my_game/)
 * [2023-07-15, 18:35:31](https://news.ycombinator.com/item?id=36739688) - [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 * [2023-07-15, 18:24:10](https://news.ycombinator.com/item?id=36739602) - [Creative people enjoy idle time more than others](https://news.arizona.edu/story/creative-people-enjoy-idle-time-more-others)
 * [2023-07-15, 17:58:07](https://news.ycombinator.com/item?id=36739386) - [The phase transition of creativity: Symmetry breaking in diffusion models](https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/)

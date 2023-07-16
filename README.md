@@ -18,6 +18,7 @@
 * [2023-07-15, 19:53:52](https://news.ycombinator.com/item?id=36740357) - [Nailing jelly to a wall: is it possible? (2007)](https://greem.co.uk/otherbits/jelly.html)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 19:01:53](https://news.ycombinator.com/item?id=36739906) - [Chuck E. Cheese's 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
+* [2023-07-15, 18:56:25](https://news.ycombinator.com/item?id=36739848) - [Show HN: Simulating two gears in my game](https://old.reddit.com/r/indiegames/comments/150jcyz/simulating_two_gears_in_my_game/)
 * [2023-07-15, 18:35:31](https://news.ycombinator.com/item?id=36739688) - [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 * [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving unintentional voice transmissions from GPS satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
@@ -28,7 +29,6 @@
 * [2023-07-15, 01:30:17](https://news.ycombinator.com/item?id=36732235) - [Dril is everyone. More specifically, he’s a guy named Paul](https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity)
 * [2023-07-14, 20:19:46](https://news.ycombinator.com/item?id=36729377) - [Life After Coding: Becoming a Mentor](https://vadimkravcenko.com/shorts/good-mentor/)
 * [2023-07-14, 16:04:56](https://news.ycombinator.com/item?id=36725910) - [Eddiots](https://eddiots.com/1)
-* [2023-07-14, 15:56:02](https://news.ycombinator.com/item?id=36725796) - [Paint by Number Museum](https://www.paintbynumbermuseum.com/lobby)
 * [2023-07-14, 14:28:52](https://news.ycombinator.com/item?id=36724512) - [Darmok and Jalad on the Internet-The Importance of Metaphors in Natural Language](https://www.researchgate.net/publication/357662253_Darmok_and_Jalad_on_the_Internet_the_importance_of_metaphors_in_natural_languages_and_natural_language_processing)
 
 ## [Archives](archives/index.md)
