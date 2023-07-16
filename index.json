@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-16, 13:04:34",
+      "https://news.ycombinator.com/item?id=36746559"
+    ],
+    [
+      "Countries that will suffer the most temperature change from global warming",
+      "https://www.nature.com/articles/s41893-023-01155-z/tables/1"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 12:35:45",
+      "https://news.ycombinator.com/item?id=36746274"
+    ],
+    [
+      "A PostgreSQL Docker container that automatically upgrades PostgreSQL",
+      "https://github.com/justinclift/docker-pgautoupgrade"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 12:20:32",
       "https://news.ycombinator.com/item?id=36746154"
     ],
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2023-07-16, 11:38:00",
-      "https://news.ycombinator.com/item?id=36745858"
+      "2023-07-16, 11:57:34",
+      "https://news.ycombinator.com/item?id=36745985"
     ],
     [
-      "Todo apps are meant for robots",
-      "https://frantic.im/todo-for-robots/"
+      "I don't know how I feel about email",
+      "https://xeiaso.net/blog/idk-about-email"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-07-16, 01:51:49",
-      "https://news.ycombinator.com/item?id=36742748"
-    ],
-    [
-      "Teddit Is Shutting Down",
-      "https://tedd.it/shutdown"
-    ]
-  ],
-  [
-    [
       "2023-07-16, 01:47:11",
       "https://news.ycombinator.com/item?id=36742725"
     ],
@@ -187,16 +197,6 @@
     [
       "Lets-Plot: An open-source plotting library for statistical data",
       "https://lets-plot.org/"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 22:15:34",
-      "https://news.ycombinator.com/item?id=36741430"
-    ],
-    [
-      "Full Text of the Federalist Papers",
-      "https://guides.loc.gov/federalist-papers/full-text"
     ]
   ],
   [
