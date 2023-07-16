@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-16, 19:47:23](https://news.ycombinator.com/item?id=36750743) - [Exploring Linear A](https://lineara.xyz/)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 * [2023-07-16, 19:26:32](https://news.ycombinator.com/item?id=36750554) - [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
 * [2023-07-16, 19:21:49](https://news.ycombinator.com/item?id=36750516) - [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
@@ -16,11 +17,9 @@
 * [2023-07-16, 14:44:55](https://news.ycombinator.com/item?id=36747572) - [Who employs your doctor? Increasingly, a private equity firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
 * [2023-07-16, 13:57:14](https://news.ycombinator.com/item?id=36747052) - [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
 * [2023-07-16, 13:19:52](https://news.ycombinator.com/item?id=36746691) - [Speeding Up the Super Game Boy](https://nicole.express/2023/super-game-boy-can-go-fast-too.html)
-* [2023-07-16, 13:00:32](https://news.ycombinator.com/item?id=36746524) - [Electric bike, stupid love of my life](https://craigmod.com/essays/electric_bikes/)
 * [2023-07-16, 12:35:45](https://news.ycombinator.com/item?id=36746274) - [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
 * [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
 * [2023-07-16, 12:01:08](https://news.ycombinator.com/item?id=36746014) - [6 days to change 1 line of code (2015)](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
-* [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming [on an Atari 2600]](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
 * [2023-07-16, 11:13:11](https://news.ycombinator.com/item?id=36745664) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
 * [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear fission fuel is inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
 * [2023-07-16, 07:13:10](https://news.ycombinator.com/item?id=36744395) - [Self hosted YouTube media server](https://www.tubearchivist.com/)
@@ -29,6 +28,7 @@
 * [2023-07-15, 19:51:23](https://news.ycombinator.com/item?id=36740332) - [The Tantalizing, Lonely Search for Alien Life](https://newrepublic.com/article/172104/tantalizing-lonely-search-alien-life-jaime-green-book-review)
 * [2023-07-15, 19:14:06](https://news.ycombinator.com/item?id=36740008) - [Mr C's Worst Electric Shock Explained in Detail [video]](https://www.youtube.com/watch?v=WNes9blcFGk)
 * [2023-07-15, 17:26:01](https://news.ycombinator.com/item?id=36739086) - [Human-Powered Air-Compressor and Energy Storage System](https://solar.lowtechmagazine.com/2023/07/human-powered-air-compressor-and-energy-storage-system/)
+* [2023-07-15, 15:06:23](https://news.ycombinator.com/item?id=36737469) - [From second thoughts on the germ theory to a full-blown host theory](https://www.pnas.org/doi/10.1073/pnas.2301186120)
 * [2023-07-15, 04:32:13](https://news.ycombinator.com/item?id=36733520) - [The Evolution of What It Means to Be Human](https://www.noemamag.com/the-evolution-of-what-it-means-to-be-human/)
 
 ## [Archives](archives/index.md)

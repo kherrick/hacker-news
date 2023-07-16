@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 19:47:23](https://news.ycombinator.com/item?id=36750743) - [Exploring Linear A](https://lineara.xyz/)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 * [2023-07-16, 19:26:32](https://news.ycombinator.com/item?id=36750554) - [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
 * [2023-07-16, 19:21:49](https://news.ycombinator.com/item?id=36750516) - [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
