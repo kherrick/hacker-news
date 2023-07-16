@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
+* [2023-07-16, 19:26:32](https://news.ycombinator.com/item?id=36750554) - [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
 * [2023-07-16, 19:21:49](https://news.ycombinator.com/item?id=36750516) - [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
 * [2023-07-16, 19:00:43](https://news.ycombinator.com/item?id=36750337) - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
-* [2023-07-16, 18:45:07](https://news.ycombinator.com/item?id=36750200) - [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
 * [2023-07-16, 18:37:40](https://news.ycombinator.com/item?id=36750134) - [Forget Spotify for news – let's fix the real problem](https://baekdal.com/monetization/forget-spotify-for-news-lets-fix-the-real-problem/)
 * [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 * [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
