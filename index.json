@@ -1,12 +1,22 @@
 [
   [
     [
-      "2023-07-16, 13:04:34",
-      "https://news.ycombinator.com/item?id=36746559"
+      "2023-07-16, 13:00:32",
+      "https://news.ycombinator.com/item?id=36746524"
     ],
     [
-      "Countries that will suffer the most temperature change from global warming",
-      "https://www.nature.com/articles/s41893-023-01155-z/tables/1"
+      "Electric Bike, Stupid Love of My Life",
+      "https://craigmod.com/essays/electric_bikes/"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 12:54:39",
+      "https://news.ycombinator.com/item?id=36746465"
+    ],
+    [
+      "World’s largest climate modelling project",
+      "https://www.climateprediction.net/"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36746014"
     ],
     [
-      "It Takes 6 Days to Change 1 Line of Code",
+      "It Takes 6 Days to Change 1 Line of Code (2015)",
       "https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code"
     ]
   ],
@@ -57,6 +67,16 @@
     [
       "I don't know how I feel about email",
       "https://xeiaso.net/blog/idk-about-email"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 11:13:11",
+      "https://news.ycombinator.com/item?id=36745664"
+    ],
+    [
+      "Do not expose your RIGOL oscilloscopes to the internet",
+      "https://tortel.li/post/insecure-scope/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2023-07-16, 00:56:04",
-      "https://news.ycombinator.com/item?id=36742400"
-    ],
-    [
-      "Startup aims to make lab-grown human eggs from anyone's cells",
-      "https://www.npr.org/sections/health-shots/2023/07/15/1184298351/conception-human-eggs-ivg-ivf-infertility"
-    ]
-  ],
-  [
-    [
       "2023-07-16, 00:43:28",
       "https://news.ycombinator.com/item?id=36742311"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2023-07-15, 22:47:53",
-      "https://news.ycombinator.com/item?id=36741620"
-    ],
-    [
-      "Nobody cares about your blog",
-      "https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html"
-    ]
-  ],
-  [
-    [
       "2023-07-15, 22:22:58",
       "https://news.ycombinator.com/item?id=36741476"
     ],
@@ -207,6 +207,16 @@
     [
       "PostgreSQL: No More Vacuum, No More Bloat",
       "https://www.orioledata.com/blog/no-more-vacuum-in-postgresql/"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 20:10:33",
+      "https://news.ycombinator.com/item?id=36740512"
+    ],
+    [
+      "Hallucinate This: An Authoritized Autobotography",
+      "https://markcmarino.com/chatgpt/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Life After Coding: Becoming a Mentor",
       "https://vadimkravcenko.com/shorts/good-mentor/"
-    ]
-  ],
-  [
-    [
-      "2023-07-14, 14:28:52",
-      "https://news.ycombinator.com/item?id=36724512"
-    ],
-    [
-      "Darmok and Jalad on the Internet-The Importance of Metaphors in Natural Language",
-      "https://www.researchgate.net/publication/357662253_Darmok_and_Jalad_on_the_Internet_the_importance_of_metaphors_in_natural_languages_and_natural_language_processing"
     ]
   ]
 ]
