@@ -55,6 +55,7 @@
 * [2023-07-15, 12:14:24](https://news.ycombinator.com/item?id=36735881) - [A bell that rings two notes at once [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
 * [2023-07-15, 12:06:39](https://news.ycombinator.com/item?id=36735829) - [Tricking Monty Hall](https://ignorethecode.net/blog/2023/07/15/tricking_monty_hall/)
 * [2023-07-15, 11:59:25](https://news.ycombinator.com/item?id=36735777) - [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
+* [2023-07-15, 11:59:14](https://news.ycombinator.com/item?id=36735774) - [AI Nursing Ethics: Viability of Robots and Artificial Intelligence in Nursing](https://www.tus.ac.jp/en/mediarelations/archive/20230706_1542.html)
 * [2023-07-15, 11:53:19](https://news.ycombinator.com/item?id=36735736) - [New research indicates social rigidity is a key predictor of cognitive rigidity](https://www.psypost.org/2023/07/new-psychology-research-indicates-that-social-rigidity-is-a-key-predictor-of-cognitive-rigidity-166284)
 * [2023-07-15, 11:50:37](https://news.ycombinator.com/item?id=36735713) - [Is Quantum Computing taking off?](https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219)
 * [2023-07-15, 11:38:22](https://news.ycombinator.com/item?id=36735633) - [The Pull Request Hack Is Fucking Magic](https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/)
