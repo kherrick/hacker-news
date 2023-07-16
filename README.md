@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
+* [2023-07-16, 16:39:53](https://news.ycombinator.com/item?id=36748890) - [Men are lost. Here’s a map out of the wilderness](https://www.washingtonpost.com/opinions/2023/07/10/christine-emba-masculinity-new-model/)
 * [2023-07-16, 15:59:49](https://news.ycombinator.com/item?id=36748448) - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
 * [2023-07-16, 15:54:10](https://news.ycombinator.com/item?id=36748393) - [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
 * [2023-07-16, 15:53:03](https://news.ycombinator.com/item?id=36748378) - [L-System Simulations](https://eliben.github.io/lsystem/)
@@ -15,7 +17,6 @@
 * [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
 * [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
 * [2023-07-16, 12:01:08](https://news.ycombinator.com/item?id=36746014) - [6 Days to Change 1 Line of Code (2015)](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
-* [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming [on an Atari 2600]](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
 * [2023-07-16, 11:13:11](https://news.ycombinator.com/item?id=36745664) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club](https://nocss.club/)
 * [2023-07-16, 10:13:51](https://news.ycombinator.com/item?id=36745289) - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
@@ -29,7 +30,6 @@
 * [2023-07-15, 17:26:01](https://news.ycombinator.com/item?id=36739086) - [Human-Powered Air-Compressor and Energy Storage System](https://solar.lowtechmagazine.com/2023/07/human-powered-air-compressor-and-energy-storage-system/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 15:01:28](https://news.ycombinator.com/item?id=36737405) - [Negative Mass](https://students.tools/negative-mass/)
-* [2023-07-15, 14:10:25](https://news.ycombinator.com/item?id=36736917) - [How Manga Was Translated for America](https://www.nytimes.com/interactive/2023/07/14/books/manga-comic-books.html)
 
 ## [Archives](archives/index.md)
 
