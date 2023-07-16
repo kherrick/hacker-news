@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
 * [2023-07-16, 21:09:24](https://news.ycombinator.com/item?id=36751422) - [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 * [2023-07-16, 21:04:18](https://news.ycombinator.com/item?id=36751375) - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
@@ -14,6 +15,7 @@
 * [2023-07-16, 19:00:43](https://news.ycombinator.com/item?id=36750337) - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
 * [2023-07-16, 18:45:07](https://news.ycombinator.com/item?id=36750200) - [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
 * [2023-07-16, 18:37:40](https://news.ycombinator.com/item?id=36750134) - [Forget Spotify for news – let's fix the real problem](https://baekdal.com/monetization/forget-spotify-for-news-lets-fix-the-real-problem/)
+* [2023-07-16, 18:30:18](https://news.ycombinator.com/item?id=36750083) - [Show HN: Structured output from LLMs without reprompting](https://automorphic.ai/playground)
 * [2023-07-16, 18:26:20](https://news.ycombinator.com/item?id=36750044) - [AI Loses Its Mind After Being Trained on AI-Generated Data](https://promptideas.io/ai-loses-its-mind-after-being-trained-on-ai-generated-data/)
 * [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 * [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
