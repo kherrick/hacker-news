@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
 * [2023-07-16, 10:13:51](https://news.ycombinator.com/item?id=36745289) - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-16, 09:07:28](https://news.ycombinator.com/item?id=36744976) - [What the media won't tell you about US heat waves (2022)](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9)
@@ -14,7 +15,6 @@
 * [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 * [2023-07-16, 01:02:25](https://news.ycombinator.com/item?id=36742444) - [How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
-* [2023-07-16, 01:00:37](https://news.ycombinator.com/item?id=36742428) - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
 * [2023-07-16, 00:56:04](https://news.ycombinator.com/item?id=36742400) - [Startup aims to make lab-grown human eggs from anyone's cells](https://www.npr.org/sections/health-shots/2023/07/15/1184298351/conception-human-eggs-ivg-ivf-infertility)
 * [2023-07-16, 00:43:28](https://news.ycombinator.com/item?id=36742311) - [The Haskell job market has been growing steaily since 2008](https://github.com/nh2/haskell-jobs-statistics)
 * [2023-07-15, 23:33:11](https://news.ycombinator.com/item?id=36741910) - [A third of North America’s birds have vanished](https://nautil.us/a-third-of-north-americas-birds-have-vanished-340007/)
