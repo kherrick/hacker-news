@@ -9,6 +9,7 @@
 * [2023-07-16, 21:09:24](https://news.ycombinator.com/item?id=36751422) - [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 * [2023-07-16, 21:04:18](https://news.ycombinator.com/item?id=36751375) - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
+* [2023-07-16, 20:54:33](https://news.ycombinator.com/item?id=36751307) - [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:47:23](https://news.ycombinator.com/item?id=36750743) - [Exploring Linear A](https://lineara.xyz/)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater Ears Everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 * [2023-07-16, 19:26:32](https://news.ycombinator.com/item?id=36750554) - [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)

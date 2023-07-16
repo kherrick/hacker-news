@@ -4,6 +4,7 @@
 * [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 * [2023-07-16, 21:04:18](https://news.ycombinator.com/item?id=36751375) - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
+* [2023-07-16, 20:54:33](https://news.ycombinator.com/item?id=36751307) - [WebGPU – All of the cores, none of the canvas](https://surma.dev/things/webgpu/)
 * [2023-07-16, 19:47:23](https://news.ycombinator.com/item?id=36750743) - [Exploring Linear A](https://lineara.xyz/)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater ears everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 * [2023-07-16, 19:26:32](https://news.ycombinator.com/item?id=36750554) - [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
@@ -27,7 +28,6 @@
 * [2023-07-16, 04:37:49](https://news.ycombinator.com/item?id=36743707) - [A Cure for Wellness](https://www.historytoday.com/archive/great-debates/cure-wellness)
 * [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 20:10:33](https://news.ycombinator.com/item?id=36740512) - [Hallucinate This – An authoritized autobotography](https://markcmarino.com/chatgpt/)
-* [2023-07-15, 17:26:01](https://news.ycombinator.com/item?id=36739086) - [Human-powered air-compressor and energy storage system](https://solar.lowtechmagazine.com/2023/07/human-powered-air-compressor-and-energy-storage-system/)
 * [2023-07-15, 15:06:23](https://news.ycombinator.com/item?id=36737469) - [From second thoughts on the germ theory to a full-blown host theory](https://www.pnas.org/doi/10.1073/pnas.2301186120)
 * [2023-07-15, 04:29:05](https://news.ycombinator.com/item?id=36733488) - [The deadly “dancing plague” of 1518](https://bigthink.com/the-past/dancing-plague-middle-ages/)
 
