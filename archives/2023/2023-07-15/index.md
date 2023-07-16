@@ -25,6 +25,7 @@
 * [2023-07-15, 19:51:23](https://news.ycombinator.com/item?id=36740332) - [The Tantalizing, Lonely Search for Alien Life](https://newrepublic.com/article/172104/tantalizing-lonely-search-alien-life-jaime-green-book-review)
 * [2023-07-15, 19:49:50](https://news.ycombinator.com/item?id=36740321) - [Winterover Statistics (2004)](http://www.southpolestation.com/trivia/wo.html)
 * [2023-07-15, 19:27:46](https://news.ycombinator.com/item?id=36740133) - [Microsoft takes pains to obscure role in 0-days that caused email breach](https://arstechnica.com/security/2023/07/microsoft-takes-pains-to-obscure-role-in-0-days-that-caused-email-breach/)
+* [2023-07-15, 19:14:06](https://news.ycombinator.com/item?id=36740008) - [Mr C's Worst Electric Shock Explained in Detail [video]](https://www.youtube.com/watch?v=WNes9blcFGk)
 * [2023-07-15, 19:08:55](https://news.ycombinator.com/item?id=36739961) - [EU to vote regulation that has a considerable potential to hurt OSS](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 19:01:53](https://news.ycombinator.com/item?id=36739906) - [Chuck E. Cheese's 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
