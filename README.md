@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-16, 07:25:05](https://news.ycombinator.com/item?id=36744450) - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 * [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Melbourne’s Yarra River](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
-* [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
+* [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers (2022)](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 * [2023-07-16, 04:11:57](https://news.ycombinator.com/item?id=36743547) - [Are you a “harbinger of failure”? (2015)](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
@@ -22,6 +21,7 @@
 * [2023-07-15, 18:35:31](https://news.ycombinator.com/item?id=36739688) - [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 * [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving unintentional voice transmissions from GPS satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
+* [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World ported to FPGA](https://github.com/sylefeb/a5k)
 * [2023-07-15, 15:51:59](https://news.ycombinator.com/item?id=36737959) - [Game tutorials should be easily skipped. Why is that so hard?](https://arstechnica.com/gaming/2023/07/game-tutorials-should-be-easily-skipped-why-is-that-so-hard/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 12:04:21](https://news.ycombinator.com/item?id=36735817) - [Reverse-engineering the 8086 processor’s address and data pin circuits](https://blog.adafruit.com/2023/07/15/reverse-engineering-the-8086-processors-address-and-data-pin-circuits/)
