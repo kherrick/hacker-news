@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 15:24:30](https://news.ycombinator.com/item?id=36748043) - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
 * [2023-07-16, 14:46:48](https://news.ycombinator.com/item?id=36747591) - [KPIs for Software Engineers](https://www.sledgeworx.io/kpis-for-software-engineers/)
 * [2023-07-16, 14:44:55](https://news.ycombinator.com/item?id=36747572) - [Who Employs Your Doctor? Increasingly, a Private Equity Firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
