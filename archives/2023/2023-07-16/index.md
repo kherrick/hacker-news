@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
 * [2023-07-16, 19:00:43](https://news.ycombinator.com/item?id=36750337) - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
+* [2023-07-16, 18:45:07](https://news.ycombinator.com/item?id=36750200) - [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
 * [2023-07-16, 18:26:20](https://news.ycombinator.com/item?id=36750044) - [AI Loses Its Mind After Being Trained on AI-Generated Data](https://promptideas.io/ai-loses-its-mind-after-being-trained-on-ai-generated-data/)
 * [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 * [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
