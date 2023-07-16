@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=36750716"
     ],
     [
-      "Underwater Ears Everywhere",
+      "Underwater ears everywhere",
       "https://computer.rip/2023-07-15-underwater-ears-everywhere.html"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=36749059"
     ],
     [
-      "Google SoundStorm: Efficient Parallel Audio Generation",
+      "SoundStorm: Efficient Parallel Audio Generation",
       "https://google-research.github.io/seanet/soundstorm/examples/"
     ]
   ],
@@ -157,6 +157,16 @@
     [
       "Speeding Up the Super Game Boy",
       "https://nicole.express/2023/super-game-boy-can-go-fast-too.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 12:35:45",
+      "https://news.ycombinator.com/item?id=36746274"
+    ],
+    [
+      "A PostgreSQL Docker container that automatically upgrades PostgreSQL",
+      "https://github.com/justinclift/docker-pgautoupgrade"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The Evolution of What It Means to Be Human",
       "https://www.noemamag.com/the-evolution-of-what-it-means-to-be-human/"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 03:54:09",
-      "https://news.ycombinator.com/item?id=36733226"
-    ],
-    [
-      "Loops and Arcs (2012)",
-      "https://lostgarden.home.blog/2012/04/30/loops-and-arcs/"
     ]
   ]
 ]
