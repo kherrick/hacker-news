@@ -20,6 +20,7 @@
 * [2023-07-15, 19:57:57](https://news.ycombinator.com/item?id=36740400) - [Planes and Helicopters That Don't Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
 * [2023-07-15, 19:56:30](https://news.ycombinator.com/item?id=36740385) - [Metaculus](https://www.metaculus.com/home/)
 * [2023-07-15, 19:53:52](https://news.ycombinator.com/item?id=36740357) - [Nailing jelly to a wall: is it possible?](https://greem.co.uk/otherbits/jelly.html)
+* [2023-07-15, 19:49:50](https://news.ycombinator.com/item?id=36740321) - [Winterover Statistics (2004)](http://www.southpolestation.com/trivia/wo.html)
 * [2023-07-15, 19:27:46](https://news.ycombinator.com/item?id=36740133) - [Microsoft takes pains to obscure role in 0-days that caused email breach](https://arstechnica.com/security/2023/07/microsoft-takes-pains-to-obscure-role-in-0-days-that-caused-email-breach/)
 * [2023-07-15, 19:08:55](https://news.ycombinator.com/item?id=36739961) - [EU to vote regulation that has a considerable potential to hurt OSS](https://github.blog/2023-07-12-no-cyber-resilience-without-open-source-sustainability/)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
