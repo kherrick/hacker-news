@@ -6,6 +6,7 @@
 
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
 * [2023-07-16, 10:13:51](https://news.ycombinator.com/item?id=36745289) - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
+* [2023-07-16, 09:07:28](https://news.ycombinator.com/item?id=36744976) - [What the media won't tell you about US heat waves (2022)](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9)
 * [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-16, 08:18:40](https://news.ycombinator.com/item?id=36744730) - [AmazonBasics Microwave: Accessible for People with Visual Impairments (2019)](https://www.afb.org/aw/20/12/16848)
 * [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear Fission Fuel Is Inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
