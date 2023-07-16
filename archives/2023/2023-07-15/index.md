@@ -38,6 +38,7 @@
 * [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World Ported to FPGA](https://github.com/sylefeb/a5k)
 * [2023-07-15, 16:03:36](https://news.ycombinator.com/item?id=36738082) - [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
 * [2023-07-15, 15:57:17](https://news.ycombinator.com/item?id=36738018) - [Fusion Reactor Is Held Together with Tape](https://spectrum.ieee.org/fusion-2662267312)
+* [2023-07-15, 15:51:59](https://news.ycombinator.com/item?id=36737959) - [Game tutorials should be easily skipped. Why is that so hard?](https://arstechnica.com/gaming/2023/07/game-tutorials-should-be-easily-skipped-why-is-that-so-hard/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 15:43:21](https://news.ycombinator.com/item?id=36737835) - [Dairyland (blogging platform from '99) is still going?](https://members.diaryland.com/edit/)
 * [2023-07-15, 15:34:04](https://news.ycombinator.com/item?id=36737733) - [Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
