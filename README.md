@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-16, 18:26:20](https://news.ycombinator.com/item?id=36750044) - [AI Loses Its Mind After Being Trained on AI-Generated Data](https://promptideas.io/ai-loses-its-mind-after-being-trained-on-ai-generated-data/)
 * [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 * [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 * [2023-07-16, 15:59:49](https://news.ycombinator.com/item?id=36748448) - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
@@ -13,6 +12,7 @@
 * [2023-07-16, 13:00:32](https://news.ycombinator.com/item?id=36746524) - [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
 * [2023-07-16, 12:35:45](https://news.ycombinator.com/item?id=36746274) - [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
 * [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
+* [2023-07-16, 12:13:59](https://news.ycombinator.com/item?id=36746110) - [Peepdf – Powerful Python tool to analyze PDF documents](https://github.com/jesparza/peepdf)
 * [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
 * [2023-07-16, 12:01:08](https://news.ycombinator.com/item?id=36746014) - [6 Days to Change 1 Line of Code (2015)](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 * [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming [on an Atari 2600]](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
