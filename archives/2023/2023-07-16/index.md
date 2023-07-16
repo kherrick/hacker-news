@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 15:59:49](https://news.ycombinator.com/item?id=36748448) - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
+* [2023-07-16, 15:40:35](https://news.ycombinator.com/item?id=36748235) - [Zoom Fatigue Unpacked: Understanding and Overcoming Virtual Exhaustion](https://leadership.garden/zoom-fatigue/)
 * [2023-07-16, 15:24:30](https://news.ycombinator.com/item?id=36748043) - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
 * [2023-07-16, 14:46:48](https://news.ycombinator.com/item?id=36747591) - [KPIs for Software Engineers](https://www.sledgeworx.io/kpis-for-software-engineers/)
@@ -22,6 +24,7 @@
 * [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
 * [2023-07-16, 12:01:08](https://news.ycombinator.com/item?id=36746014) - [It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 * [2023-07-16, 11:57:34](https://news.ycombinator.com/item?id=36745985) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
+* [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming [on an Atari 2600]](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 11:22:03](https://news.ycombinator.com/item?id=36745726) - [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
 * [2023-07-16, 11:13:11](https://news.ycombinator.com/item?id=36745664) - [Do not expose your RIGOL oscilloscopes to the internet](https://tortel.li/post/insecure-scope/)
