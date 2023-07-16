@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
+* [2023-07-16, 12:01:08](https://news.ycombinator.com/item?id=36746014) - [It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
 * [2023-07-16, 10:13:51](https://news.ycombinator.com/item?id=36745289) - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
-* [2023-07-16, 09:07:28](https://news.ycombinator.com/item?id=36744976) - [What the media won't tell you about US heat waves (2022)](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9)
 * [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-16, 08:18:40](https://news.ycombinator.com/item?id=36744730) - [AmazonBasics Microwave: Accessible for People with Visual Impairments (2019)](https://www.afb.org/aw/20/12/16848)
 * [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear Fission Fuel Is Inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
@@ -25,11 +25,11 @@
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 16:00:06](https://news.ycombinator.com/item?id=36738050) - [Chemical Cartography Reveals the Milky Way’s Spiral Arms](https://cns.utexas.edu/news/research/chemical-cartography-reveals-milky-ways-spiral-arms)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
+* [2023-07-15, 15:01:28](https://news.ycombinator.com/item?id=36737405) - [Negative Mass](https://students.tools/negative-mass/)
 * [2023-07-15, 14:55:28](https://news.ycombinator.com/item?id=36737342) - [Defenestration of Prague Window (2019)](https://www.atlasobscura.com/places/defenestration-of-prague-window)
 * [2023-07-15, 14:10:25](https://news.ycombinator.com/item?id=36736917) - [How Manga Was Translated for America](https://www.nytimes.com/interactive/2023/07/14/books/manga-comic-books.html)
 * [2023-07-15, 01:30:17](https://news.ycombinator.com/item?id=36732235) - [Dril is everyone. More specifically, he’s a guy named Paul](https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity)
 * [2023-07-14, 20:19:46](https://news.ycombinator.com/item?id=36729377) - [Life After Coding: Becoming a Mentor](https://vadimkravcenko.com/shorts/good-mentor/)
-* [2023-07-14, 14:28:52](https://news.ycombinator.com/item?id=36724512) - [Darmok and Jalad on the Internet-The Importance of Metaphors in Natural Language](https://www.researchgate.net/publication/357662253_Darmok_and_Jalad_on_the_Internet_the_importance_of_metaphors_in_natural_languages_and_natural_language_processing)
 
 ## [Archives](archives/index.md)
 
