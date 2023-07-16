@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
-* [2023-07-16, 16:39:53](https://news.ycombinator.com/item?id=36748890) - [Men are lost. Here’s a map out of the wilderness](https://www.washingtonpost.com/opinions/2023/07/10/christine-emba-masculinity-new-model/)
 * [2023-07-16, 15:59:49](https://news.ycombinator.com/item?id=36748448) - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
 * [2023-07-16, 15:54:10](https://news.ycombinator.com/item?id=36748393) - [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
 * [2023-07-16, 15:53:03](https://news.ycombinator.com/item?id=36748378) - [L-System Simulations](https://eliben.github.io/lsystem/)
@@ -30,6 +29,7 @@
 * [2023-07-15, 17:26:01](https://news.ycombinator.com/item?id=36739086) - [Human-Powered Air-Compressor and Energy Storage System](https://solar.lowtechmagazine.com/2023/07/human-powered-air-compressor-and-energy-storage-system/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 15:01:28](https://news.ycombinator.com/item?id=36737405) - [Negative Mass](https://students.tools/negative-mass/)
+* [2023-07-15, 14:10:25](https://news.ycombinator.com/item?id=36736917) - [How Manga Was Translated for America](https://www.nytimes.com/interactive/2023/07/14/books/manga-comic-books.html)
 
 ## [Archives](archives/index.md)
 
