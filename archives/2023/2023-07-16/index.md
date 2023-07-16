@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 11:22:03](https://news.ycombinator.com/item?id=36745726) - [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
