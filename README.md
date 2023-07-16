@@ -2,7 +2,6 @@
 
 * [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
-* [2023-07-16, 01:15:58](https://news.ycombinator.com/item?id=36742534) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 * [2023-07-16, 01:02:25](https://news.ycombinator.com/item?id=36742444) - [How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
 * [2023-07-16, 01:00:37](https://news.ycombinator.com/item?id=36742428) - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
 * [2023-07-16, 00:43:28](https://news.ycombinator.com/item?id=36742311) - [The Haskell job market has been growing steaily since 2008](https://github.com/nh2/haskell-jobs-statistics)
@@ -22,6 +21,7 @@
 * [2023-07-15, 18:35:31](https://news.ycombinator.com/item?id=36739688) - [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 * [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving unintentional voice transmissions from GPS satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
+* [2023-07-15, 17:42:37](https://news.ycombinator.com/item?id=36739258) - [Donald Triplett was autism’s “case 1”](https://www.economist.com/obituary/2023/07/06/donald-triplett-was-autisms-case-1)
 * [2023-07-15, 17:02:45](https://news.ycombinator.com/item?id=36738828) - [Meticulous (YC S21) is hiring founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36738828)
 * [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World ported to FPGA](https://github.com/sylefeb/a5k)
 * [2023-07-15, 13:42:45](https://news.ycombinator.com/item?id=36736670) - [Kakure Kirishitan](https://en.wikipedia.org/wiki/Kakure_Kirishitan)
