@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-16, 08:18:40](https://news.ycombinator.com/item?id=36744730) - [AmazonBasics Microwave: Accessible for People with Visual Impairments (2019)](https://www.afb.org/aw/20/12/16848)
+* [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear Fission Fuel Is Inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
 * [2023-07-16, 07:25:05](https://news.ycombinator.com/item?id=36744450) - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 * [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Melbourne’s Yarra River](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
 * [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers (2022)](https://blog.wesleyac.com/posts/how-i-run-my-servers)
@@ -22,13 +23,12 @@
 * [2023-07-15, 19:53:52](https://news.ycombinator.com/item?id=36740357) - [Nailing jelly to a wall: is it possible? (2007)](https://greem.co.uk/otherbits/jelly.html)
 * [2023-07-15, 19:49:50](https://news.ycombinator.com/item?id=36740321) - [Winterover Statistics (2004)](http://www.southpolestation.com/trivia/wo.html)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
-* [2023-07-15, 19:01:53](https://news.ycombinator.com/item?id=36739906) - [Chuck E. Cheese's 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
-* [2023-07-15, 18:35:31](https://news.ycombinator.com/item?id=36739688) - [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
+* [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World ported to FPGA](https://github.com/sylefeb/a5k)
+* [2023-07-15, 16:00:06](https://news.ycombinator.com/item?id=36738050) - [Chemical Cartography Reveals the Milky Way’s Spiral Arms](https://cns.utexas.edu/news/research/chemical-cartography-reveals-milky-ways-spiral-arms)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 11:59:14](https://news.ycombinator.com/item?id=36735774) - [AI Nursing Ethics: Viability of Robots and Artificial Intelligence in Nursing](https://www.tus.ac.jp/en/mediarelations/archive/20230706_1542.html)
 * [2023-07-15, 01:30:17](https://news.ycombinator.com/item?id=36732235) - [Dril is everyone. More specifically, he’s a guy named Paul](https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity)
 * [2023-07-14, 20:19:46](https://news.ycombinator.com/item?id=36729377) - [Life After Coding: Becoming a Mentor](https://vadimkravcenko.com/shorts/good-mentor/)
-* [2023-07-14, 16:04:56](https://news.ycombinator.com/item?id=36725910) - [Eddiots](https://eddiots.com/1)
 * [2023-07-14, 14:28:52](https://news.ycombinator.com/item?id=36724512) - [Darmok and Jalad on the Internet-The Importance of Metaphors in Natural Language](https://www.researchgate.net/publication/357662253_Darmok_and_Jalad_on_the_Internet_the_importance_of_metaphors_in_natural_languages_and_natural_language_processing)
 
 ## [Archives](archives/index.md)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
 * [2023-07-16, 08:18:40](https://news.ycombinator.com/item?id=36744730) - [AmazonBasics Microwave: Accessible for People with Visual Impairments (2019)](https://www.afb.org/aw/20/12/16848)
+* [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear Fission Fuel Is Inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
 * [2023-07-16, 07:25:05](https://news.ycombinator.com/item?id=36744450) - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 * [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Yarra River after malfunction](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
 * [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)

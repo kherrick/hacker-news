@@ -38,6 +38,7 @@
 * [2023-07-15, 16:42:56](https://news.ycombinator.com/item?id=36738597) - [Company Builds Powerful 500cc ‘One-Stroke’ Engine](https://www.thedrive.com/news/company-builds-powerful-500cc-one-stroke-engine-immediately-installs-it-in-a-miata)
 * [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World Ported to FPGA](https://github.com/sylefeb/a5k)
 * [2023-07-15, 16:03:36](https://news.ycombinator.com/item?id=36738082) - [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
+* [2023-07-15, 16:00:06](https://news.ycombinator.com/item?id=36738050) - [Chemical Cartography Reveals the Milky Way’s Spiral Arms](https://cns.utexas.edu/news/research/chemical-cartography-reveals-milky-ways-spiral-arms)
 * [2023-07-15, 15:57:17](https://news.ycombinator.com/item?id=36738018) - [Fusion Reactor Is Held Together with Tape](https://spectrum.ieee.org/fusion-2662267312)
 * [2023-07-15, 15:51:59](https://news.ycombinator.com/item?id=36737959) - [Game tutorials should be easily skipped. Why is that so hard?](https://arstechnica.com/gaming/2023/07/game-tutorials-should-be-easily-skipped-why-is-that-so-hard/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
