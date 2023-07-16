@@ -2,7 +2,6 @@
 
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 * [2023-07-16, 04:11:57](https://news.ycombinator.com/item?id=36743547) - [Are You a “Harbinger of Failure”?](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
-* [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 * [2023-07-16, 01:02:25](https://news.ycombinator.com/item?id=36742444) - [How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
 * [2023-07-16, 01:00:37](https://news.ycombinator.com/item?id=36742428) - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
@@ -24,6 +23,7 @@
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-07-15, 17:42:37](https://news.ycombinator.com/item?id=36739258) - [Donald Triplett was autism’s “case 1”](https://www.economist.com/obituary/2023/07/06/donald-triplett-was-autisms-case-1)
 * [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World ported to FPGA](https://github.com/sylefeb/a5k)
+* [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 13:42:45](https://news.ycombinator.com/item?id=36736670) - [Kakure Kirishitan](https://en.wikipedia.org/wiki/Kakure_Kirishitan)
 * [2023-07-15, 11:59:14](https://news.ycombinator.com/item?id=36735774) - [AI Nursing Ethics: Viability of Robots and Artificial Intelligence in Nursing](https://www.tus.ac.jp/en/mediarelations/archive/20230706_1542.html)
 * [2023-07-15, 01:30:17](https://news.ycombinator.com/item?id=36732235) - [Dril is everyone. More specifically, he’s a guy named Paul](https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity)
