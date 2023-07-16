@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
-* [2023-07-16, 21:09:24](https://news.ycombinator.com/item?id=36751422) - [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 * [2023-07-16, 21:04:18](https://news.ycombinator.com/item?id=36751375) - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
 * [2023-07-16, 19:47:23](https://news.ycombinator.com/item?id=36750743) - [Exploring Linear A](https://lineara.xyz/)
@@ -14,6 +13,7 @@
 * [2023-07-16, 15:59:49](https://news.ycombinator.com/item?id=36748448) - [Infrared may no longer be a punchline, as IEEE approves 9.6Gbps wireless light](https://www.theverge.com/23795599/li-fi-wi-fi-802-11-bb-internet-of-light)
 * [2023-07-16, 15:54:10](https://news.ycombinator.com/item?id=36748393) - [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
 * [2023-07-16, 15:53:03](https://news.ycombinator.com/item?id=36748378) - [L-System Simulations](https://eliben.github.io/lsystem/)
+* [2023-07-16, 15:40:35](https://news.ycombinator.com/item?id=36748235) - [Zoom fatigue unpacked](https://leadership.garden/zoom-fatigue/)
 * [2023-07-16, 15:24:30](https://news.ycombinator.com/item?id=36748043) - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
 * [2023-07-16, 14:44:55](https://news.ycombinator.com/item?id=36747572) - [Who employs your doctor? Increasingly, a private equity firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
