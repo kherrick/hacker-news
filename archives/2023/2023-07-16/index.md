@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 07:25:05](https://news.ycombinator.com/item?id=36744450) - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 * [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Yarra River after malfunction](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 * [2023-07-16, 04:11:57](https://news.ycombinator.com/item?id=36743547) - [Are You a “Harbinger of Failure”?](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
