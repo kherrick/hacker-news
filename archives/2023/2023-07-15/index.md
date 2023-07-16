@@ -89,6 +89,7 @@
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 04:33:38](https://news.ycombinator.com/item?id=36733536) - [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
 * [2023-07-15, 04:32:13](https://news.ycombinator.com/item?id=36733520) - [The Evolution of What It Means to Be Human](https://www.noemamag.com/the-evolution-of-what-it-means-to-be-human/)
+* [2023-07-15, 03:54:09](https://news.ycombinator.com/item?id=36733226) - [Loops and Arcs (2012)](https://lostgarden.home.blog/2012/04/30/loops-and-arcs/)
 * [2023-07-15, 03:37:27](https://news.ycombinator.com/item?id=36733100) - [Motorola 6800 EXORciser development system simulator](https://github.com/jhallen/exorsim)
 * [2023-07-15, 03:11:13](https://news.ycombinator.com/item?id=36732869) - [In Korean wilds and villages (1938)](https://archive.org/details/InKoreanwildsandvillages)
 * [2023-07-15, 03:01:58](https://news.ycombinator.com/item?id=36732803) - [On Microchip AT86RF215 Radios for SDR](https://wirelesspi.com/on-microchip-at86rf215-radios/)
