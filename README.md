@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Yarra River after malfunction](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 * [2023-07-16, 04:11:57](https://news.ycombinator.com/item?id=36743547) - [Are You a “Harbinger of Failure”?](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
-* [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 * [2023-07-16, 01:02:25](https://news.ycombinator.com/item?id=36742444) - [How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
 * [2023-07-16, 01:00:37](https://news.ycombinator.com/item?id=36742428) - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
