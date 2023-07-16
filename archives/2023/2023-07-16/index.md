@@ -5,9 +5,12 @@
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
 * [2023-07-16, 14:46:48](https://news.ycombinator.com/item?id=36747591) - [KPIs for Software Engineers](https://www.sledgeworx.io/kpis-for-software-engineers/)
+* [2023-07-16, 14:44:55](https://news.ycombinator.com/item?id=36747572) - [Who Employs Your Doctor? Increasingly, a Private Equity Firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
+* [2023-07-16, 14:38:24](https://news.ycombinator.com/item?id=36747504) - [A functional cure for diabetes is now available in the US](https://www.freethink.com/health/brittle-diabetes)
 * [2023-07-16, 14:22:29](https://news.ycombinator.com/item?id=36747335) - [300K+ Free SVG Icons, Collections, and Logos](https://svgmix.com/)
 * [2023-07-16, 13:57:14](https://news.ycombinator.com/item?id=36747052) - [What Makes Developers Productive?](https://jeremymikkola.com/posts/developer_productivity.html)
 * [2023-07-16, 13:28:55](https://news.ycombinator.com/item?id=36746772) - [Big Oil quietly walks back on climate pledges](https://www.theguardian.com/us-news/2023/jul/16/big-oil-climate-pledges-extreme-heat-fossil-fuel)
+* [2023-07-16, 13:19:52](https://news.ycombinator.com/item?id=36746691) - [A Dangerous Hybrid: Speeding Up the Super Game Boy](https://nicole.express/2023/super-game-boy-can-go-fast-too.html)
 * [2023-07-16, 13:04:34](https://news.ycombinator.com/item?id=36746559) - [Countries that will suffer the most temperature change from global warming](https://www.nature.com/articles/s41893-023-01155-z/tables/1)
 * [2023-07-16, 13:00:32](https://news.ycombinator.com/item?id=36746524) - [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
 * [2023-07-16, 12:54:39](https://news.ycombinator.com/item?id=36746465) - [World’s largest climate modelling project](https://www.climateprediction.net/)
