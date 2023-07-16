@@ -50,6 +50,7 @@
 * [2023-07-15, 14:21:53](https://news.ycombinator.com/item?id=36737027) - [1900s photo doesn’t show an 8-year-old miner, just a kid in a costume](https://apnews.com/article/fact-check-child-miner-utah-photo-833906766994)
 * [2023-07-15, 14:20:18](https://news.ycombinator.com/item?id=36737011) - [‘I know about lying, I do it for a living’: Ben McKenzie as crypto critic](https://www.theguardian.com/tv-and-radio/2023/jul/15/ben-mckenzie-interview-oc-cryptocurrency)
 * [2023-07-15, 14:12:20](https://news.ycombinator.com/item?id=36736940) - [Why do cloud providers keep building datacenters in the America's hottest city?](https://www.theregister.com/2023/07/15/cloud_datacenters_desert/)
+* [2023-07-15, 14:10:25](https://news.ycombinator.com/item?id=36736917) - [How Manga Was Translated for America](https://www.nytimes.com/interactive/2023/07/14/books/manga-comic-books.html)
 * [2023-07-15, 13:56:55](https://news.ycombinator.com/item?id=36736795) - [Ask HN: How to price your first Enterprise customer?](https://news.ycombinator.com/item?id=36736795)
 * [2023-07-15, 13:48:07](https://news.ycombinator.com/item?id=36736715) - [Cairo – Open-Source 2D Graphics Layer/API with font support and many back-ends](https://en.wikipedia.org/wiki/Cairo_(graphics))
 * [2023-07-15, 13:47:52](https://news.ycombinator.com/item?id=36736712) - [Child pornography on sale from hacked Hikvision cameras using Hik-Connect app](https://ipvm.com/reports/cp-sale-hack?code=fgasdtgf)
