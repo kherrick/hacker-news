@@ -2,7 +2,6 @@
 
 * [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
-* [2023-07-16, 01:32:14](https://news.ycombinator.com/item?id=36742652) - [PlanetPC XR ARM-based Desktop Linux Computers](https://store.planetcom.co.uk/collections/desktop-pcs)
 * [2023-07-16, 01:15:58](https://news.ycombinator.com/item?id=36742534) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
 * [2023-07-16, 01:02:25](https://news.ycombinator.com/item?id=36742444) - [How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
 * [2023-07-16, 01:00:37](https://news.ycombinator.com/item?id=36742428) - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
@@ -24,6 +23,7 @@
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
 * [2023-07-15, 17:02:45](https://news.ycombinator.com/item?id=36738828) - [Meticulous (YC S21) is hiring founding engineer to build AI for UI testing](https://news.ycombinator.com/item?id=36738828)
 * [2023-07-15, 16:23:52](https://news.ycombinator.com/item?id=36738347) - [Another World ported to FPGA](https://github.com/sylefeb/a5k)
+* [2023-07-15, 13:42:45](https://news.ycombinator.com/item?id=36736670) - [Kakure Kirishitan](https://en.wikipedia.org/wiki/Kakure_Kirishitan)
 * [2023-07-15, 06:53:25](https://news.ycombinator.com/item?id=36734266) - [The day I locked everyone out of the company intranet](https://www.dancowell.com/balls-the-day-i-locked-ev/)
 * [2023-07-15, 01:30:17](https://news.ycombinator.com/item?id=36732235) - [Dril is everyone. More specifically, he’s a guy named Paul](https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity)
 * [2023-07-14, 20:19:46](https://news.ycombinator.com/item?id=36729377) - [Life After Coding: Becoming a Mentor](https://vadimkravcenko.com/shorts/good-mentor/)

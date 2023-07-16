@@ -48,6 +48,7 @@
 * [2023-07-15, 13:56:55](https://news.ycombinator.com/item?id=36736795) - [Ask HN: How to price your first Enterprise customer?](https://news.ycombinator.com/item?id=36736795)
 * [2023-07-15, 13:48:07](https://news.ycombinator.com/item?id=36736715) - [Cairo – Open-Source 2D Graphics Layer/API with font support and many back-ends](https://en.wikipedia.org/wiki/Cairo_(graphics))
 * [2023-07-15, 13:47:52](https://news.ycombinator.com/item?id=36736712) - [Child pornography on sale from hacked Hikvision cameras using Hik-Connect app](https://ipvm.com/reports/cp-sale-hack?code=fgasdtgf)
+* [2023-07-15, 13:42:45](https://news.ycombinator.com/item?id=36736670) - [Kakure Kirishitan](https://en.wikipedia.org/wiki/Kakure_Kirishitan)
 * [2023-07-15, 13:31:16](https://news.ycombinator.com/item?id=36736576) - [Look ma, no React Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 * [2023-07-15, 12:30:40](https://news.ycombinator.com/item?id=36736002) - [Why Checked Exceptions Failed](https://borretti.me/article/why-checked-exceptions-failed)
 * [2023-07-15, 12:14:24](https://news.ycombinator.com/item?id=36735881) - [A bell that rings two notes at once [video]](https://www.youtube.com/watch?v=eMgmJEaYs70)
