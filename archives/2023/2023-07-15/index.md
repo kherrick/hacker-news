@@ -6,6 +6,7 @@
 
 * [2023-07-15, 23:49:52](https://news.ycombinator.com/item?id=36741990) - [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
 * [2023-07-15, 23:33:11](https://news.ycombinator.com/item?id=36741910) - [A Third of North America’s Birds Have Vanished](https://nautil.us/a-third-of-north-americas-birds-have-vanished-340007/)
+* [2023-07-15, 22:47:53](https://news.ycombinator.com/item?id=36741620) - [Nobody cares about your blog](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
 * [2023-07-15, 22:22:58](https://news.ycombinator.com/item?id=36741476) - [Lets-Plot: An open-source plotting library by JetBrains](https://lets-plot.org/)
 * [2023-07-15, 22:15:34](https://news.ycombinator.com/item?id=36741430) - [Full Text of the Federalist Papers](https://guides.loc.gov/federalist-papers/full-text)
 * [2023-07-15, 21:49:36](https://news.ycombinator.com/item?id=36741270) - [Show HN: Recursive COW Pages in Userspace](https://wheybags.com/blog/cow.html)
