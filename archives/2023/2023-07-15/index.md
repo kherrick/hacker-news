@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
+* [2023-07-15, 23:49:52](https://news.ycombinator.com/item?id=36741990) - [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
 * [2023-07-15, 23:33:11](https://news.ycombinator.com/item?id=36741910) - [A Third of North America’s Birds Have Vanished](https://nautil.us/a-third-of-north-americas-birds-have-vanished-340007/)
+* [2023-07-15, 22:22:58](https://news.ycombinator.com/item?id=36741476) - [Lets-Plot: An open-source plotting library by JetBrains](https://lets-plot.org/)
 * [2023-07-15, 22:15:34](https://news.ycombinator.com/item?id=36741430) - [Full Text of the Federalist Papers](https://guides.loc.gov/federalist-papers/full-text)
 * [2023-07-15, 21:49:36](https://news.ycombinator.com/item?id=36741270) - [Show HN: Recursive COW Pages in Userspace](https://wheybags.com/blog/cow.html)
 * [2023-07-15, 21:44:58](https://news.ycombinator.com/item?id=36741236) - [Mega-dose vit. C in treatment of the common cold: a randomised controlled trial](https://pubmed.ncbi.nlm.nih.gov/11700812/)
@@ -76,6 +78,7 @@
 * [2023-07-15, 01:59:47](https://news.ycombinator.com/item?id=36732430) - [Ziplm: Gzip-Backed Language Model](https://github.com/Futrell/ziplm)
 * [2023-07-15, 01:58:31](https://news.ycombinator.com/item?id=36732424) - [Why do so few people major in computer science? (2017)](https://danwang.co/why-so-few-computer-science-majors/)
 * [2023-07-15, 01:43:47](https://news.ycombinator.com/item?id=36732335) - [History of T](http://www.paulgraham.com/thist.html)
+* [2023-07-15, 01:30:17](https://news.ycombinator.com/item?id=36732235) - [Dril is everyone. More specifically, he’s a guy named Paul](https://www.theringer.com/tech/2023/4/12/23673003/dril-twitter-interview-profile-identity)
 * [2023-07-15, 01:18:35](https://news.ycombinator.com/item?id=36732146) - [Tor is not just for anonymity](https://blog.pastly.net/posts/2022-11-09-tor-is-not-just-for-anonymity/)
 * [2023-07-15, 00:52:15](https://news.ycombinator.com/item?id=36732002) - [The Forksheet: Imec’s In-Between Transistor](https://spectrum.ieee.org/forksheet-transistor)
 * [2023-07-15, 00:51:59](https://news.ycombinator.com/item?id=36732000) - [Akan Names](https://en.wikipedia.org/wiki/Akan_names)
