@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
 * [2023-07-16, 13:04:34](https://news.ycombinator.com/item?id=36746559) - [Countries that will suffer the most temperature change from global warming](https://www.nature.com/articles/s41893-023-01155-z/tables/1)
+* [2023-07-16, 13:00:32](https://news.ycombinator.com/item?id=36746524) - [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
+* [2023-07-16, 12:54:39](https://news.ycombinator.com/item?id=36746465) - [World’s largest climate modelling project](https://www.climateprediction.net/)
 * [2023-07-16, 12:35:45](https://news.ycombinator.com/item?id=36746274) - [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
 * [2023-07-16, 12:23:12](https://news.ycombinator.com/item?id=36746177) - [TikTok Extends the Wasteland](https://hedgehogreview.com/issues/theological-variations/articles/tiktok-extends-the-wasteland)
 * [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
@@ -12,6 +14,7 @@
 * [2023-07-16, 11:57:34](https://news.ycombinator.com/item?id=36745985) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 11:22:03](https://news.ycombinator.com/item?id=36745726) - [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
+* [2023-07-16, 11:13:11](https://news.ycombinator.com/item?id=36745664) - [Do not expose your RIGOL oscilloscopes to the internet](https://tortel.li/post/insecure-scope/)
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
 * [2023-07-16, 10:13:51](https://news.ycombinator.com/item?id=36745289) - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-16, 09:07:28](https://news.ycombinator.com/item?id=36744976) - [What the media won't tell you about US heat waves (2022)](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9)
