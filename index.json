@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-07-15, 16:23:52",
-      "https://news.ycombinator.com/item?id=36738347"
-    ],
-    [
-      "Another World ported to FPGA",
-      "https://github.com/sylefeb/a5k"
-    ]
-  ],
-  [
-    [
       "2023-07-15, 15:51:59",
       "https://news.ycombinator.com/item?id=36737959"
     ],
@@ -247,6 +237,16 @@
     [
       "Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM",
       "https://www.phoronix.com/news/Linux-Device-Memory-TCP"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 12:04:21",
+      "https://news.ycombinator.com/item?id=36735817"
+    ],
+    [
+      "Reverse-engineering the 8086 processor’s address and data pin circuits",
+      "https://blog.adafruit.com/2023/07/15/reverse-engineering-the-8086-processors-address-and-data-pin-circuits/"
     ]
   ],
   [
