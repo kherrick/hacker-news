@@ -22,7 +22,7 @@
 * [2023-07-15, 19:49:50](https://news.ycombinator.com/item?id=36740321) - [Winterover Statistics (2004)](http://www.southpolestation.com/trivia/wo.html)
 * [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 19:01:53](https://news.ycombinator.com/item?id=36739906) - [Chuck E. Cheese's 1982 Annual Report For Kids [pdf]](https://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982kids.pdf)
-* [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving unintentional voice transmissions from GPS satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
+* [2023-07-15, 18:35:31](https://news.ycombinator.com/item?id=36739688) - [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 * [2023-07-15, 15:51:59](https://news.ycombinator.com/item?id=36737959) - [Game tutorials should be easily skipped. Why is that so hard?](https://arstechnica.com/gaming/2023/07/game-tutorials-should-be-easily-skipped-why-is-that-so-hard/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
 * [2023-07-15, 11:59:14](https://news.ycombinator.com/item?id=36735774) - [AI Nursing Ethics: Viability of Robots and Artificial Intelligence in Nursing](https://www.tus.ac.jp/en/mediarelations/archive/20230706_1542.html)
