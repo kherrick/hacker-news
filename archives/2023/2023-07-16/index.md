@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 19:21:49](https://news.ycombinator.com/item?id=36750516) - [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
 * [2023-07-16, 19:00:43](https://news.ycombinator.com/item?id=36750337) - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
 * [2023-07-16, 18:45:07](https://news.ycombinator.com/item?id=36750200) - [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
 * [2023-07-16, 18:26:20](https://news.ycombinator.com/item?id=36750044) - [AI Loses Its Mind After Being Trained on AI-Generated Data](https://promptideas.io/ai-loses-its-mind-after-being-trained-on-ai-generated-data/)

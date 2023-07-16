@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-16, 19:21:49](https://news.ycombinator.com/item?id=36750516) - [SEC Formally Accepts BlackRock Spot Bitcoin ETF Application for Review](https://decrypt.co/148752/sec-blackrock-spot-bitcoin-etf-application)
 * [2023-07-16, 19:00:43](https://news.ycombinator.com/item?id=36750337) - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
 * [2023-07-16, 18:45:07](https://news.ycombinator.com/item?id=36750200) - [ChatGPT use declines as users complain about ‘dumber’ answers](https://www.techradar.com/computing/artificial-intelligence/chatgpt-use-declines-as-users-complain-about-dumber-answers-and-the-reason-might-be-ais-biggest-threat-for-the-future)
 * [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [Google SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
@@ -26,7 +27,6 @@
 * [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 19:51:23](https://news.ycombinator.com/item?id=36740332) - [The Tantalizing, Lonely Search for Alien Life](https://newrepublic.com/article/172104/tantalizing-lonely-search-alien-life-jaime-green-book-review)
 * [2023-07-15, 19:14:06](https://news.ycombinator.com/item?id=36740008) - [Mr C's Worst Electric Shock Explained in Detail [video]](https://www.youtube.com/watch?v=WNes9blcFGk)
-* [2023-07-15, 19:03:16](https://news.ycombinator.com/item?id=36739920) - [Every time you click this link, it will send you to a random Web 1.0 website](https://wiby.me/surprise/)
 * [2023-07-15, 17:26:01](https://news.ycombinator.com/item?id=36739086) - [Human-Powered Air-Compressor and Energy Storage System](https://solar.lowtechmagazine.com/2023/07/human-powered-air-compressor-and-energy-storage-system/)
 * [2023-07-15, 15:01:28](https://news.ycombinator.com/item?id=36737405) - [Negative Mass](https://students.tools/negative-mass/)
 * [2023-07-15, 04:32:13](https://news.ycombinator.com/item?id=36733520) - [The Evolution of What It Means to Be Human](https://www.noemamag.com/the-evolution-of-what-it-means-to-be-human/)
