@@ -8,7 +8,7 @@
 * [2023-07-16, 12:01:08](https://news.ycombinator.com/item?id=36746014) - [It Takes 6 Days to Change 1 Line of Code (2015)](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 * [2023-07-16, 11:57:34](https://news.ycombinator.com/item?id=36745985) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:13:11](https://news.ycombinator.com/item?id=36745664) - [Do not expose your RIGOL oscilloscopes to the internet](https://tortel.li/post/insecure-scope/)
-* [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)
+* [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club](https://nocss.club/)
 * [2023-07-16, 10:13:51](https://news.ycombinator.com/item?id=36745289) - [CSS Findings from the Threads App](https://ishadeed.com/article/threads-app-css/)
 * [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-16, 07:13:10](https://news.ycombinator.com/item?id=36744395) - [Self hosted YouTube media server – Tube Archivist](https://www.tubearchivist.com/)
