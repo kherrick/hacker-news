@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-16, 18:26:20",
-      "https://news.ycombinator.com/item?id=36750044"
-    ],
-    [
-      "AI Loses Its Mind After Being Trained on AI-Generated Data",
-      "https://promptideas.io/ai-loses-its-mind-after-being-trained-on-ai-generated-data/"
-    ]
-  ],
-  [
-    [
       "2023-07-16, 16:53:17",
       "https://news.ycombinator.com/item?id=36749059"
     ],
@@ -127,6 +117,16 @@
     [
       "Discord Is Not Documentation",
       "https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 12:13:59",
+      "https://news.ycombinator.com/item?id=36746110"
+    ],
+    [
+      "Peepdf – Powerful Python tool to analyze PDF documents",
+      "https://github.com/jesparza/peepdf"
     ]
   ],
   [
