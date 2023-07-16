@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 02:26:05](https://news.ycombinator.com/item?id=36742920) - [Numbering Should Start at Zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
 * [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 * [2023-07-16, 01:32:14](https://news.ycombinator.com/item?id=36742652) - [PlanetPC XR ARM-based Desktop Linux Computers](https://store.planetcom.co.uk/collections/desktop-pcs)
