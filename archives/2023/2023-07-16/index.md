@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 13:28:55](https://news.ycombinator.com/item?id=36746772) - [Big Oil quietly walks back on climate pledges](https://www.theguardian.com/us-news/2023/jul/16/big-oil-climate-pledges-extreme-heat-fossil-fuel)
 * [2023-07-16, 13:04:34](https://news.ycombinator.com/item?id=36746559) - [Countries that will suffer the most temperature change from global warming](https://www.nature.com/articles/s41893-023-01155-z/tables/1)
 * [2023-07-16, 13:00:32](https://news.ycombinator.com/item?id=36746524) - [Electric Bike, Stupid Love of My Life](https://craigmod.com/essays/electric_bikes/)
 * [2023-07-16, 12:54:39](https://news.ycombinator.com/item?id=36746465) - [World’s largest climate modelling project](https://www.climateprediction.net/)
 * [2023-07-16, 12:35:45](https://news.ycombinator.com/item?id=36746274) - [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
 * [2023-07-16, 12:23:12](https://news.ycombinator.com/item?id=36746177) - [TikTok Extends the Wasteland](https://hedgehogreview.com/issues/theological-variations/articles/tiktok-extends-the-wasteland)
 * [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord Is Not Documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
+* [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
 * [2023-07-16, 12:01:08](https://news.ycombinator.com/item?id=36746014) - [It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 * [2023-07-16, 11:57:34](https://news.ycombinator.com/item?id=36745985) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
