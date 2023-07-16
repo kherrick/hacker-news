@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 23:35:11](https://news.ycombinator.com/item?id=36752490) - [Symbolics CGI production notes: How Stanley and Stella came together (1988)](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
 * [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
 * [2023-07-16, 21:09:24](https://news.ycombinator.com/item?id=36751422) - [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
@@ -58,6 +59,7 @@
 * [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Yarra River after malfunction](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
 * [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
+* [2023-07-16, 04:37:49](https://news.ycombinator.com/item?id=36743707) - [A Cure for Wellness](https://www.historytoday.com/archive/great-debates/cure-wellness)
 * [2023-07-16, 04:11:57](https://news.ycombinator.com/item?id=36743547) - [Are You a “Harbinger of Failure”?](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
 * [2023-07-16, 02:26:05](https://news.ycombinator.com/item?id=36742920) - [Numbering Should Start at Zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
 * [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
