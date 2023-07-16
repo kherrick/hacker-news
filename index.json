@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-16, 21:04:18",
+      "https://news.ycombinator.com/item?id=36751375"
+    ],
+    [
+      "Grav is a modern open-source flat-file CMS",
+      "https://getgrav.org/"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 19:47:23",
       "https://news.ycombinator.com/item?id=36750743"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2023-07-16, 15:40:35",
-      "https://news.ycombinator.com/item?id=36748235"
-    ],
-    [
-      "Zoom fatigue unpacked",
-      "https://leadership.garden/zoom-fatigue/"
-    ]
-  ],
-  [
-    [
       "2023-07-16, 15:24:30",
       "https://news.ycombinator.com/item?id=36748043"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2023-07-16, 12:35:45",
-      "https://news.ycombinator.com/item?id=36746274"
+      "2023-07-16, 12:13:59",
+      "https://news.ycombinator.com/item?id=36746110"
     ],
     [
-      "A PostgreSQL Docker container that automatically upgrades PostgreSQL",
-      "https://github.com/justinclift/docker-pgautoupgrade"
+      "Peepdf – Powerful Python tool to analyze PDF documents",
+      "https://github.com/jesparza/peepdf"
     ]
   ],
   [
@@ -197,16 +197,6 @@
     [
       "6 days to change 1 line of code (2015)",
       "https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 11:53:30",
-      "https://news.ycombinator.com/item?id=36745961"
-    ],
-    [
-      "Lisp Programming [on an Atari 2600]",
-      "https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "The Evolution of What It Means to Be Human",
       "https://www.noemamag.com/the-evolution-of-what-it-means-to-be-human/"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 03:54:09",
+      "https://news.ycombinator.com/item?id=36733226"
+    ],
+    [
+      "Loops and Arcs (2012)",
+      "https://lostgarden.home.blog/2012/04/30/loops-and-arcs/"
     ]
   ]
 ]
