@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-16](index.md)
 
+* [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
 * [2023-07-16, 14:46:48](https://news.ycombinator.com/item?id=36747591) - [KPIs for Software Engineers](https://www.sledgeworx.io/kpis-for-software-engineers/)
 * [2023-07-16, 14:44:55](https://news.ycombinator.com/item?id=36747572) - [Who Employs Your Doctor? Increasingly, a Private Equity Firm](https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html)
 * [2023-07-16, 14:38:24](https://news.ycombinator.com/item?id=36747504) - [A functional cure for diabetes is now available in the US](https://www.freethink.com/health/brittle-diabetes)
