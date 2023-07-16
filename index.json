@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-16, 07:25:05",
+      "https://news.ycombinator.com/item?id=36744450"
+    ],
+    [
+      "Taskfile: A Modern Alternative to Makefile",
+      "https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative"
+    ]
+  ],
+  [
+    [
       "2023-07-16, 06:09:09",
       "https://news.ycombinator.com/item?id=36744135"
     ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36741476"
     ],
     [
-      "Lets-Plot: An open-source plotting library by JetBrains",
+      "Lets-Plot: An open-source plotting library for statistical data",
       "https://lets-plot.org/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM",
       "https://www.phoronix.com/news/Linux-Device-Memory-TCP"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 13:42:45",
-      "https://news.ycombinator.com/item?id=36736670"
-    ],
-    [
-      "Kakure Kirishitan",
-      "https://en.wikipedia.org/wiki/Kakure_Kirishitan"
     ]
   ],
   [
