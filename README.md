@@ -4,7 +4,7 @@
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
 * [2023-07-17, 20:08:30](https://news.ycombinator.com/item?id=36763357) - [The Wikimedia Foundation joins Mastodon and the Fediverse](https://wikimedia.social/@wikimediafoundation/110708950540815886)
-* [2023-07-17, 19:38:01](https://news.ycombinator.com/item?id=36762942) - [Facebook, Instagram face Norwegian ban from tracking users for ads](https://www.politico.eu/article/facebook-instagram-norway-ban-track-users-ads/)
+* [2023-07-17, 19:55:01](https://news.ycombinator.com/item?id=36763175) - [Introducing the Nano ESP32](https://blog.arduino.cc/2023/07/17/introducing-the-nano-esp32-thats-iot/)
 * [2023-07-17, 19:33:30](https://news.ycombinator.com/item?id=36762879) - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
 * [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 18:58:37](https://news.ycombinator.com/item?id=36762465) - [uyuni – open-source configuration and infrastructure management](https://www.uyuni-project.org/)
