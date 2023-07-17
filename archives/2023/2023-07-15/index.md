@@ -50,6 +50,7 @@
 * [2023-07-15, 15:57:17](https://news.ycombinator.com/item?id=36738018) - [Fusion Reactor Is Held Together with Tape](https://spectrum.ieee.org/fusion-2662267312)
 * [2023-07-15, 15:51:59](https://news.ycombinator.com/item?id=36737959) - [Game tutorials should be easily skipped. Why is that so hard?](https://arstechnica.com/gaming/2023/07/game-tutorials-should-be-easily-skipped-why-is-that-so-hard/)
 * [2023-07-15, 15:51:58](https://news.ycombinator.com/item?id=36737958) - [Linux Code for “Device Memory TCP” – Network to/from Accelerator RAM](https://www.phoronix.com/news/Linux-Device-Memory-TCP)
+* [2023-07-15, 15:50:49](https://news.ycombinator.com/item?id=36737942) - [Practical DOD (2021) [video]](https://vimeo.com/649009599)
 * [2023-07-15, 15:43:21](https://news.ycombinator.com/item?id=36737835) - [Dairyland (blogging platform from '99) is still going?](https://members.diaryland.com/edit/)
 * [2023-07-15, 15:34:04](https://news.ycombinator.com/item?id=36737733) - [Signal's president vows to reject UK law on message scanning before encryption](https://fortune.com/2023/07/13/signal-president-mass-surveillance-uk-law/)
 * [2023-07-15, 15:32:38](https://news.ycombinator.com/item?id=36737721) - [Threads, a Slack alternative unrelated to Instagram, has seen downloads surge](https://techcrunch.com/2023/07/15/threads-a-slack-alternative-completely-unrelated-to-instagram-has-seen-downloads-surge/)
