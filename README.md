@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 21:55:11](https://news.ycombinator.com/item?id=36764610) - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
 * [2023-07-17, 21:44:22](https://news.ycombinator.com/item?id=36764489) - [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
 * [2023-07-17, 21:32:18](https://news.ycombinator.com/item?id=36764389) - [AI Watches Millions of Cars and Tells Cops If You’re Driving Like a Criminal](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/)
 * [2023-07-17, 21:00:24](https://news.ycombinator.com/item?id=36764004) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
@@ -29,7 +30,6 @@
 * [2023-07-16, 08:13:24](https://news.ycombinator.com/item?id=36744702) - [How to Convert Bytes to Grams](https://thatxliner.github.io/blog/posts/how-to-convert-bytes-to-grams/)
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-16, 04:24:20](https://news.ycombinator.com/item?id=36743623) - [Miyazaki has used the art of animation to study the major problem of adult life](https://www.nybooks.com/online/2023/07/13/loves-work-hayao-miyazaki/)
-* [2023-07-16, 01:04:53](https://news.ycombinator.com/item?id=36742457) - [A Tribute to the Compucolor II (2013)](http://compucolor.org/)
 
 ## [Archives](archives/index.md)
 

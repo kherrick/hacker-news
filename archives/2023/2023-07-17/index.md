@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 21:55:11](https://news.ycombinator.com/item?id=36764610) - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
 * [2023-07-17, 21:44:22](https://news.ycombinator.com/item?id=36764489) - [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
 * [2023-07-17, 21:32:18](https://news.ycombinator.com/item?id=36764389) - [AI Watches Millions of Cars and Tells Cops If You’re Driving Like a Criminal](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/)
 * [2023-07-17, 21:00:24](https://news.ycombinator.com/item?id=36764004) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
