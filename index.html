@@ -129,6 +129,201 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="36758433">
+          <h3>
+            <a class="item" href="https://kenschutte.com/gzip-knn-paper/"
+              >Bad numbers in the “gzip beats BERT” paper?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-17 @ 14:08:28</span
+              ><span class="points-container"
+                >Points: <span class="points">47</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36758433"
+                  >Comments</a
+                ><span class="descendants">: 6</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36758355">
+          <h3>
+            <a
+              class="item"
+              href="https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing"
+              >The force that shapes everything around us: Parking</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-17 @ 14:01:13</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36758355"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36758233">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2307.06962"
+              >Copy is all you need</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-17 @ 13:51:43</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36758233"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36758177">
+          <h3>
+            <a
+              class="item"
+              href="https://www.gutenberg.org/files/1727/1727-h/1727-h.htm"
+              >The Odyssey by Homer, Translated by Samuel Butler</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-17 @ 13:45:52</span
+              ><span class="points-container"
+                >Points: <span class="points">15</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36758177"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36758122">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36758122"
+              >Launch HN: Grai (YC S22) – Open-Source Data Observability
+              Platform</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-17 @ 13:40:22</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36758122"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://grai.io">https://grai.io</a>), an open-source
+              data observability platform. It helps prevent production data
+              outages by evaluating changes to your data pipelines in CI, rather
+              than at runtime.
+              <p>
+                Ever experienced a production outage due to changes in upstream
+                data sources? That's a problem we regularly encountered whether
+                deploying machine learning or keeping a datawarehouse
+                operational and it led us to create Grai.
+              </p>
+              <p>
+                Systematically testing the impact of data changes on the rest of
+                your stack turns out to be quite difficult when the same data is
+                copied and used across many different services and applications.
+                Simple changes like renaming a column in a database can result
+                in broken BI dashboards, incorrect training data for ML models,
+                and data pipeline failure. For example, business users regularly
+                deal with questions like "why does revenue look different in
+                different dashboards".
+              </p>
+              <p>
+                These sort of problems are commonly dealt with by passively
+                monitoring application execution logs for anomalies that might
+                indicate an outage. Our goal was to move that task out of
+                runtime where an outage has already occurred back into testing.
+              </p>
+              <p>
+                At its core, Grai is a graph of the relationships between the
+                data in your organization, from columns in a database to JSON
+                fields in an API. This graph allows Grai to analyze the
+                downstream impact of proposed changes during CI and before they
+                go live.
+              </p>
+              <p>
+                It includes a variety of pre-built integrations with common data
+                tools such as PostgreSQL, Snowflake, dbt, and Fivetran, which
+                automatically extract metadata and synchronize the state of your
+                graph. It's built on a flexible data model backed by REST and
+                GraphQL APIs and a Python client library. This way, users can
+                directly build on top of Grai as they see fit. For example,
+                because every object in Grai serializes to a yaml definition
+                file, sort of like a CRD in Kubernetes, even if a pre-built
+                integration doesn't exist it's fairly easy to manually create or
+                script a custom solution.
+              </p>
+              <p>
+                We made the decision to build open-source from the beginning in
+                part because we believe lineage is underutilized both
+                organizationally and technologically. We hope to provide a
+                foundation for the community to build cool concepts on top and
+                have already had companies come to us with amazing ideas, like
+                optimizing their real-time query pipelines to take advantage of
+                spot price arbitrage between cloud and on-prem.
+              </p>
+              <p>
+                We try not to be overly opinionated about how organizations
+                work, so whether you maintain a development database or run
+                service containers in GitHub Actions it doesn't really matter.
+                When your tests are triggered we evaluate the new state of the
+                environment and check for any impacts, before reporting back as
+                a comment in the pull request.
+              </p>
+              <p>
+                Data observability can have unexpected benefits. One of our
+                customers uses us because we make on-boarding new engineers
+                easier. Because we render an infinitely zoomable Figma-like
+                graph of the entire data stack it's possible for them to
+                visually explore end-to-end data flows and application
+                dependencies.
+              </p>
+              <p>
+                You can find a quick demo here:
+                <a href="https://vimeo.com/824026569"
+                  >https://vimeo.com/824026569</a
+                >, we've also put together an example getting started guide if
+                you want to try things out yourself:
+                <a href="https://docs.grai.io/examples/enhanced-dbt"
+                  >https://docs.grai.io/examples/enhanced-dbt</a
+                >. Since everything is open source, you can always explore the
+                code (<a href="https://github.com/grai-io/grai-core"
+                  >https://github.com/grai-io/grai-core</a
+                >) and docs (<a href="https://docs.grai.io"
+                  >https://docs.grai.io</a
+                >), where we have example deployment configurations for
+                docker-compose and Kubernetes.
+              </p>
+              <p>
+                We would love to hear your feedback. If there's a feature we're
+                missing, we'll build it. If you have a UX or developer
+                experience suggestion, we'll fix it. If it's something else, we
+                want to hear about it. We can't wait to hear your feedback and
+                thank you in advance!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="36757822">
           <h3>
             <a
@@ -142,7 +337,7 @@
             <h4>
               <span>2023-07-17 @ 13:09:04</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36757822"
                   >Comments</a
@@ -154,18 +349,18 @@
         <section id="36757798">
           <h3>
             <a class="item" href="https://www.lelanthran.com/chap9/content.html"
-              >The C Programming Language: Myths and Reality (1)</a
+              >The C Programming Language: Myths and Reality</a
             >
           </h3>
           <section>
             <h4>
               <span>2023-07-17 @ 13:05:48</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36757798"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -182,11 +377,11 @@
             <h4>
               <span>2023-07-17 @ 13:04:27</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36757778"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -203,11 +398,11 @@
             <h4>
               <span>2023-07-17 @ 12:44:09</span
               ><span class="points-container"
-                >Points: <span class="points">239</span></span
+                >Points: <span class="points">265</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36757542"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -225,11 +420,11 @@
             <h4>
               <span>2023-07-17 @ 12:41:54</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36757520"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -246,7 +441,7 @@
             <h4>
               <span>2023-07-17 @ 12:38:39</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36757492"
                   >Comments</a
@@ -266,7 +461,7 @@
             <h4>
               <span>2023-07-17 @ 12:19:36</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36757334"
                   >Comments</a
@@ -287,11 +482,11 @@
             <h4>
               <span>2023-07-17 @ 10:20:36</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36756201"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -309,31 +504,11 @@
             <h4>
               <span>2023-07-17 @ 10:04:00</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36756101"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36754392">
-          <h3>
-            <a class="item" href="https://github.com/dosyago/DiskerNet"
-              >Show HN: DiskerNet – Browse the Internet from Your Disk, Now Open
-              Source</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-17 @ 05:10:59</span
-              ><span class="points-container"
-                >Points: <span class="points">27</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36754392"
-                  >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -348,11 +523,11 @@
             <h4>
               <span>2023-07-17 @ 05:06:27</span
               ><span class="points-container"
-                >Points: <span class="points">84</span></span
+                >Points: <span class="points">88</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36754366"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
             <div class="text">
@@ -367,7 +542,7 @@
         <section id="36754348">
           <h3>
             <a class="item" href="https://www.backyardmetalcasting.com/"
-              >Backyard Metalcasting</a
+              >Backyard Metalcasting (2018)</a
             >
           </h3>
           <section>
@@ -378,7 +553,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36754348"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -389,11 +564,11 @@
             <h4>
               <span>2023-07-17 @ 01:52:48</span
               ><span class="points-container"
-                >Points: <span class="points">440</span></span
+                >Points: <span class="points">444</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36753225"
                   >Comments</a
-                ><span class="descendants">: 396</span></span
+                ><span class="descendants">: 402</span></span
               >
             </h4>
           </section>
@@ -410,11 +585,11 @@
             <h4>
               <span>2023-07-17 @ 01:14:06</span
               ><span class="points-container"
-                >Points: <span class="points">390</span></span
+                >Points: <span class="points">396</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36753032"
                   >Comments</a
-                ><span class="descendants">: 206</span></span
+                ><span class="descendants">: 209</span></span
               >
             </h4>
           </section>
@@ -431,11 +606,11 @@
             <h4>
               <span>2023-07-16 @ 23:53:03</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36752581"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -450,11 +625,11 @@
             <h4>
               <span>2023-07-16 @ 23:24:02</span
               ><span class="points-container"
-                >Points: <span class="points">121</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36752419"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
+                ><span class="descendants">: 77</span></span
               >
             </h4>
           </section>
@@ -471,47 +646,11 @@
             <h4>
               <span>2023-07-16 @ 22:51:20</span
               ><span class="points-container"
-                >Points: <span class="points">57</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36752215"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36752146">
-          <h3>
-            <a class="item" href="https://www.red-lang.org/p/about.html"
-              >Red Programming Language</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-16 @ 22:41:39</span
-              ><span class="points-container"
-                >Points: <span class="points">204</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36752146"
-                  >Comments</a
-                ><span class="descendants">: 122</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36750743">
-          <h3>
-            <a class="item" href="https://lineara.xyz/">Exploring Linear A</a>
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-16 @ 19:47:23</span
-              ><span class="points-container"
-                >Points: <span class="points">135</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36750743"
-                  >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -528,11 +667,11 @@
             <h4>
               <span>2023-07-16 @ 19:44:19</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36750716"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -547,30 +686,11 @@
             <h4>
               <span>2023-07-16 @ 12:08:23</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36746073"
                   >Comments</a
                 ><span class="descendants">: 2</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36745852">
-          <h3>
-            <a class="item" href="https://www.waseda.jp/top/en/news/78001"
-              >A novel solid, rechargeable air battery</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-16 @ 11:36:52</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36745852"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -587,11 +707,11 @@
             <h4>
               <span>2023-07-16 @ 03:29:33</span
               ><span class="points-container"
-                >Points: <span class="points">128</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36743286"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -613,26 +733,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36742279"
                   >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36740371">
-          <h3>
-            <a class="item" href="https://cpulator.01xz.net/"
-              >CPUlator Computer System Simulator</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-15 @ 19:55:15</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36740371"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 19</span></span
               >
             </h4>
           </section>
@@ -647,7 +748,7 @@
             <h4>
               <span>2023-07-15 @ 19:55:04</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36740368"
                   >Comments</a
@@ -666,7 +767,7 @@
             <h4>
               <span>2023-07-15 @ 15:50:49</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36737942"
                   >Comments</a
@@ -687,7 +788,7 @@
             <h4>
               <span>2023-07-15 @ 13:43:00</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">71</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36736671"
                   >Comments</a
@@ -708,11 +809,11 @@
             <h4>
               <span>2023-07-15 @ 11:16:51</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36735529"
                   >Comments</a
-                ><span class="descendants">: 168</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -729,7 +830,7 @@
             <h4>
               <span>2023-07-15 @ 07:36:25</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36734479"
                   >Comments</a
