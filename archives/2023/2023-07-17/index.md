@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 15:13:36](https://news.ycombinator.com/item?id=36759243) - [Ash HN: How can I make my idle CPU time useful to others?](https://news.ycombinator.com/item?id=36759243)
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 * [2023-07-17, 14:19:53](https://news.ycombinator.com/item?id=36758554) - [Show HN: Send Emails from Your Terminal](https://github.com/charmbracelet/pop)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)

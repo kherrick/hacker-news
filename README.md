@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 15:13:36](https://news.ycombinator.com/item?id=36759243) - [Ash HN: How can I make my idle CPU time useful to others?](https://news.ycombinator.com/item?id=36759243)
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 13:59:05](https://news.ycombinator.com/item?id=36758329) - [Tokyo Is the New Paris](https://www.noahpinion.blog/p/tokyo-is-the-new-paris)
@@ -21,7 +22,6 @@
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
 * [2023-07-17, 01:14:06](https://news.ycombinator.com/item?id=36753032) - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
 * [2023-07-16, 22:51:20](https://news.ycombinator.com/item?id=36752215) - [Medicine containers used in the golden age of piracy](http://www.piratesurgeon.com/pages/surgeon_pages/medicine_containers1.html)
-* [2023-07-16, 19:47:23](https://news.ycombinator.com/item?id=36750743) - [Exploring Linear A](https://lineara.xyz/)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater ears everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 * [2023-07-16, 12:08:23](https://news.ycombinator.com/item?id=36746073) - [Connected: An Internet Encyclopedia (1997)](https://u20.freesoft.org/CIE/)
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
