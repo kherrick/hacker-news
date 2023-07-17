@@ -85,6 +85,7 @@
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
 * [2023-07-15, 07:44:38](https://news.ycombinator.com/item?id=36734522) - [The Mad Hatter's Secret Ingredient: Math (2010)](https://www.npr.org/2010/03/13/124632317/the-mad-hatters-secret-ingredient-math)
 * [2023-07-15, 07:40:12](https://news.ycombinator.com/item?id=36734503) - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
+* [2023-07-15, 07:36:25](https://news.ycombinator.com/item?id=36734479) - [Minify and Gzip (2022)](https://blog.wesleyac.com/posts/minify-and-gzip)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 * [2023-07-15, 07:25:57](https://news.ycombinator.com/item?id=36734426) - [Why can’t you just roll back from a bad macOS update?](https://eclecticlight.co/2023/07/15/why-cant-you-just-roll-back-from-a-bad-macos-update/)
 * [2023-07-15, 07:25:33](https://news.ycombinator.com/item?id=36734423) - [The theory versus the practice of “static websites”](https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice)

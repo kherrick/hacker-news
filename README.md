@@ -4,7 +4,7 @@
 * [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
-* [2023-07-17, 04:01:02](https://news.ycombinator.com/item?id=36753914) - [Arrival's Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
+* [2023-07-17, 04:01:02](https://news.ycombinator.com/item?id=36753914) - [Arrival's Designers Crafted a Mesmerizing Alien Alphabet (2016)](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
 * [2023-07-17, 02:22:35](https://news.ycombinator.com/item?id=36753363) - [Moodle: Open-Source LMS](https://moodle.org/)
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
 * [2023-07-17, 01:43:21](https://news.ycombinator.com/item?id=36753175) - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
@@ -29,7 +29,7 @@
 * [2023-07-15, 13:43:00](https://news.ycombinator.com/item?id=36736671) - [She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)
 * [2023-07-15, 11:16:51](https://news.ycombinator.com/item?id=36735529) - [British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
 * [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
-* [2023-07-15, 04:29:05](https://news.ycombinator.com/item?id=36733488) - [The deadly “dancing plague” of 1518](https://bigthink.com/the-past/dancing-plague-middle-ages/)
+* [2023-07-15, 07:36:25](https://news.ycombinator.com/item?id=36734479) - [Minify and Gzip (2022)](https://blog.wesleyac.com/posts/minify-and-gzip)
 
 ## [Archives](archives/index.md)
 
