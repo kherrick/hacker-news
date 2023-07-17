@@ -31,6 +31,7 @@
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 * [2023-07-17, 13:59:05](https://news.ycombinator.com/item?id=36758329) - [Tokyo Is the New Paris](https://www.noahpinion.blog/p/tokyo-is-the-new-paris)
 * [2023-07-17, 13:56:23](https://news.ycombinator.com/item?id=36758292) - [Show HN: Peeng – like Pingdom, but the other way around and simpler](https://www.peeng.sh)
+* [2023-07-17, 13:54:07](https://news.ycombinator.com/item?id=36758267) - [The PoWeR technique: a strategic approach to self-discipline](https://www.indiehackers.com/post/the-power-technique-a-strategic-approach-to-self-discipline-11bc6724d6)
 * [2023-07-17, 13:51:43](https://news.ycombinator.com/item?id=36758233) - [Copy is all you need](https://arxiv.org/abs/2307.06962)
 * [2023-07-17, 13:45:52](https://news.ycombinator.com/item?id=36758177) - [The Odyssey by Homer, Translated by Samuel Butler](https://www.gutenberg.org/files/1727/1727-h/1727-h.htm)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
