@@ -82,6 +82,7 @@
 * [2023-07-15, 10:26:47](https://news.ycombinator.com/item?id=36735295) - [Interpolating Polygons (2017)](http://lambdafunk.com/2017-02-21-Interpolating-Polygons/)
 * [2023-07-15, 09:19:22](https://news.ycombinator.com/item?id=36735032) - [New Emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
+* [2023-07-15, 07:44:38](https://news.ycombinator.com/item?id=36734522) - [The Mad Hatter's Secret Ingredient: Math (2010)](https://www.npr.org/2010/03/13/124632317/the-mad-hatters-secret-ingredient-math)
 * [2023-07-15, 07:40:12](https://news.ycombinator.com/item?id=36734503) - [JDF.jl – Julia DataFrames serialization format](https://github.com/xiaodaigh/JDF.jl)
 * [2023-07-15, 07:27:42](https://news.ycombinator.com/item?id=36734445) - [The Uxn Ecosystem](https://100r.co/site/uxn.html)
 * [2023-07-15, 07:25:57](https://news.ycombinator.com/item?id=36734426) - [Why can’t you just roll back from a bad macOS update?](https://eclecticlight.co/2023/07/15/why-cant-you-just-roll-back-from-a-bad-macos-update/)
