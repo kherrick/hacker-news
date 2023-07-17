@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
@@ -29,7 +30,6 @@
 * [2023-07-15, 11:16:51](https://news.ycombinator.com/item?id=36735529) - [British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
 * [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
 * [2023-07-15, 07:44:38](https://news.ycombinator.com/item?id=36734522) - [The Mad Hatter's Secret Ingredient: Math (2010)](https://www.npr.org/2010/03/13/124632317/the-mad-hatters-secret-ingredient-math)
-* [2023-07-15, 04:29:05](https://news.ycombinator.com/item?id=36733488) - [The deadly “dancing plague” of 1518](https://bigthink.com/the-past/dancing-plague-middle-ages/)
 
 ## [Archives](archives/index.md)
 
