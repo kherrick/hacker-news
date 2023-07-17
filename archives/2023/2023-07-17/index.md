@@ -15,6 +15,8 @@
 * [2023-07-17, 13:09:04](https://news.ycombinator.com/item?id=36757822) - [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
 * [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality (1)](https://www.lelanthran.com/chap9/content.html)
 * [2023-07-17, 13:04:27](https://news.ycombinator.com/item?id=36757778) - [Wix’s new tool can create entire websites from prompts](https://techcrunch.com/2023/07/17/wixs-new-tool-can-create-entire-websites-from-prompts/)
+* [2023-07-17, 12:55:36](https://news.ycombinator.com/item?id=36757688) - [Kata Containers: Virtual Machines that feel and perform like containers](https://katacontainers.io/)
+* [2023-07-17, 12:46:34](https://news.ycombinator.com/item?id=36757578) - [Show HN: Open-Source AI Playground](https://chathub.gg/)
 * [2023-07-17, 12:44:09](https://news.ycombinator.com/item?id=36757542) - [A Firefox-Only Minimap](https://www.stefanjudis.com/a-firefox-only-minimap/)
 * [2023-07-17, 12:41:54](https://news.ycombinator.com/item?id=36757520) - [Wikipedia-grounded chatbot “outperforms all baselines” on factual accuracy](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research)
 * [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
