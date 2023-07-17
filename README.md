@@ -24,12 +24,12 @@
 * [2023-07-16, 15:24:30](https://news.ycombinator.com/item?id=36748043) - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
 * [2023-07-16, 12:35:45](https://news.ycombinator.com/item?id=36746274) - [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
-* [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
+* [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make (1987) [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-15, 21:33:41](https://news.ycombinator.com/item?id=36741154) - [Linux DCE, CORBA, and DCOM Guide (2001)](http://linas.org/linux/corba.html)
-* [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
 * [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
 * [2023-07-15, 15:06:23](https://news.ycombinator.com/item?id=36737469) - [From second thoughts on the germ theory to a full-blown host theory](https://www.pnas.org/doi/10.1073/pnas.2301186120)
+* [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
 
 ## [Archives](archives/index.md)
 

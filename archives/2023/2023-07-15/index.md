@@ -77,6 +77,7 @@
 * [2023-07-15, 11:38:22](https://news.ycombinator.com/item?id=36735633) - [The Pull Request Hack Is Fucking Magic](https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/)
 * [2023-07-15, 11:35:37](https://news.ycombinator.com/item?id=36735620) - [Synit – A Reactive Operating System](https://synit.org/)
 * [2023-07-15, 11:35:33](https://news.ycombinator.com/item?id=36735616) - [Snakemake – A framework for reproducible data analysis](https://snakemake.github.io/)
+* [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
 * [2023-07-15, 10:26:47](https://news.ycombinator.com/item?id=36735295) - [Interpolating Polygons (2017)](http://lambdafunk.com/2017-02-21-Interpolating-Polygons/)
 * [2023-07-15, 09:19:22](https://news.ycombinator.com/item?id=36735032) - [New Emojis in 2023-2024](https://blog.emojipedia.org/new-emojis-in-2023/)
 * [2023-07-15, 08:27:36](https://news.ycombinator.com/item?id=36734771) - [Matrices and Graph](https://thepalindrome.org/p/matrices-and-graphs)
