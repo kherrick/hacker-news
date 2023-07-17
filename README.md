@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 02:22:43](https://news.ycombinator.com/item?id=36753364) - [Frank fabricated 4.25M customers in JP Morgan fraud case](https://www.nbcnews.com/news/crime-courts/second-frank-financial-aid-executive-charged-jpmorgan-fraud-case-rcna94564)
+* [2023-07-17, 02:22:35](https://news.ycombinator.com/item?id=36753363) - [Moodle: Open-Source LMS](https://moodle.org/)
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
 * [2023-07-17, 01:43:21](https://news.ycombinator.com/item?id=36753175) - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
 * [2023-07-17, 01:14:06](https://news.ycombinator.com/item?id=36753032) - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
@@ -21,15 +23,13 @@
 * [2023-07-16, 15:54:10](https://news.ycombinator.com/item?id=36748393) - [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
 * [2023-07-16, 15:24:30](https://news.ycombinator.com/item?id=36748043) - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
-* [2023-07-16, 13:19:52](https://news.ycombinator.com/item?id=36746691) - [Speeding up the Super Game Boy](https://nicole.express/2023/super-game-boy-can-go-fast-too.html)
 * [2023-07-16, 12:35:45](https://news.ycombinator.com/item?id=36746274) - [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
-* [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord is not documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
 * [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
-* [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming on an Atari 2600](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
-* [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make (1987) [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-15, 21:33:41](https://news.ycombinator.com/item?id=36741154) - [Linux DCE, CORBA, and DCOM Guide (2001)](http://linas.org/linux/corba.html)
+* [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
 * [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
+* [2023-07-15, 15:06:23](https://news.ycombinator.com/item?id=36737469) - [From second thoughts on the germ theory to a full-blown host theory](https://www.pnas.org/doi/10.1073/pnas.2301186120)
 
 ## [Archives](archives/index.md)
 
