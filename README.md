@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)
+* [2023-07-17, 05:57:21](https://news.ycombinator.com/item?id=36754635) - [Europeans Are Becoming Poorer](https://www.wsj.com/articles/europeans-poorer-inflation-economy-255eb629)
 * [2023-07-17, 04:01:02](https://news.ycombinator.com/item?id=36753914) - [Arrival's Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
 * [2023-07-17, 03:58:17](https://news.ycombinator.com/item?id=36753893) - [Finland introduces the world’s first phone-free tourist island](https://www.independent.co.uk/travel/news-and-advice/finland-phone-mobile-free-island-b2361499.html)
 * [2023-07-17, 02:22:35](https://news.ycombinator.com/item?id=36753363) - [Moodle: Open-Source LMS](https://moodle.org/)
@@ -21,7 +22,6 @@
 * [2023-07-16, 19:00:43](https://news.ycombinator.com/item?id=36750337) - [Shell Script RSS Publishing](https://shinobi.bt.ht/)
 * [2023-07-16, 18:30:18](https://news.ycombinator.com/item?id=36750083) - [Show HN: Structured output from LLMs without reprompting](https://automorphic.ai/playground)
 * [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
-* [2023-07-16, 16:41:24](https://news.ycombinator.com/item?id=36748915) - [A tutorial quantum interpreter in 150 lines of Lisp](https://www.stylewarning.com/posts/quantum-interpreter/)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [TODO apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 11:36:52](https://news.ycombinator.com/item?id=36745852) - [A novel solid, rechargeable air battery](https://www.waseda.jp/top/en/news/78001)
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
