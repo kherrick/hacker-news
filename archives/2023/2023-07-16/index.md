@@ -80,6 +80,7 @@
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 * [2023-07-16, 01:32:14](https://news.ycombinator.com/item?id=36742652) - [PlanetPC XR ARM-based Desktop Linux Computers](https://store.planetcom.co.uk/collections/desktop-pcs)
 * [2023-07-16, 01:15:58](https://news.ycombinator.com/item?id=36742534) - [A Month on Chimera Linux](https://bitcannon.net/post/a-month-with-chimera-linux/)
+* [2023-07-16, 01:04:53](https://news.ycombinator.com/item?id=36742457) - [A Tribute to the Compucolor II (2013)](http://compucolor.org/)
 * [2023-07-16, 01:02:25](https://news.ycombinator.com/item?id=36742444) - [How does Sonic and Knuckles' “Lock-On Technology” work? (2016)](https://retrocomputing.stackexchange.com/questions/1514/how-exactly-does-sonic-knuckles-lock-on-technology-work)
 * [2023-07-16, 01:00:37](https://news.ycombinator.com/item?id=36742428) - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
 * [2023-07-16, 00:56:04](https://news.ycombinator.com/item?id=36742400) - [Startup aims to make lab-grown human eggs from anyone's cells](https://www.npr.org/sections/health-shots/2023/07/15/1184298351/conception-human-eggs-ivg-ivf-infertility)

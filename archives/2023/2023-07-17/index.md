@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 18:43:44](https://news.ycombinator.com/item?id=36762284) - [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)
+* [2023-07-17, 18:28:30](https://news.ycombinator.com/item?id=36762075) - [Investigating Zika-Microcephaly's ‘Crash’](https://www.amjmed.com/article/S0002-9343(22)00108-5/fulltext)
+* [2023-07-17, 18:21:45](https://news.ycombinator.com/item?id=36761988) - [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
 * [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 * [2023-07-17, 17:49:08](https://news.ycombinator.com/item?id=36761498) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36761498)
 * [2023-07-17, 17:34:20](https://news.ycombinator.com/item?id=36761290) - [What's wrong with enterprise Linux](https://unix.foo/posts/enterprise-linux/)
@@ -36,6 +39,7 @@
 * [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
 * [2023-07-17, 12:28:45](https://news.ycombinator.com/item?id=36757413) - [Norwegian DPA temporarily bans behavioral advertising on Facebook and Instagram](https://noyb.eu/en/norway-temporary-ban-behavioral-ads-facebook)
 * [2023-07-17, 12:19:36](https://news.ycombinator.com/item?id=36757334) - [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
+* [2023-07-17, 11:19:05](https://news.ycombinator.com/item?id=36756606) - [‘The Man Who Organized Nature’ Review: Linnaeus the Namer](https://www.wsj.com/articles/the-man-who-organized-nature-review-linnaeus-the-namer-673a3305)
 * [2023-07-17, 10:29:09](https://news.ycombinator.com/item?id=36756257) - [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
 * [2023-07-17, 10:20:36](https://news.ycombinator.com/item?id=36756201) - [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
 * [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
