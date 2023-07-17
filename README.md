@@ -2,9 +2,9 @@
 
 * [2023-07-17, 10:29:09](https://news.ycombinator.com/item?id=36756257) - [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
 * [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
+* [2023-07-17, 09:49:27](https://news.ycombinator.com/item?id=36755994) - [Byte Fanless Mini PC – Built for Linux](https://us.starlabs.systems/pages/byte)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
-* [2023-07-17, 04:01:02](https://news.ycombinator.com/item?id=36753914) - [Arrival's Designers Crafted a Mesmerizing Alien Alphabet (2016)](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
 * [2023-07-17, 02:22:35](https://news.ycombinator.com/item?id=36753363) - [Moodle: Open-Source LMS](https://moodle.org/)
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
 * [2023-07-17, 01:43:21](https://news.ycombinator.com/item?id=36753175) - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
