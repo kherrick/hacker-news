@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 12:19:36",
+      "https://news.ycombinator.com/item?id=36757334"
+    ],
+    [
+      "The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]",
+      "https://www.youtube.com/watch?v=TXMUXeml9JY"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 10:20:36",
       "https://news.ycombinator.com/item?id=36756201"
     ],
@@ -17,16 +27,6 @@
     [
       "Booking.com halts payments to hosts over IT technical maintenance",
       "https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 09:49:27",
-      "https://news.ycombinator.com/item?id=36755994"
-    ],
-    [
-      "Byte Fanless Mini PC – Built for Linux",
-      "https://us.starlabs.systems/pages/byte"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2023-07-16, 18:30:18",
-      "https://news.ycombinator.com/item?id=36750083"
+      "2023-07-16, 16:53:17",
+      "https://news.ycombinator.com/item?id=36749059"
     ],
     [
-      "Show HN: Structured output from LLMs without reprompting",
-      "https://automorphic.ai/playground"
+      "SoundStorm: Efficient Parallel Audio Generation",
+      "https://google-research.github.io/seanet/soundstorm/examples/"
     ]
   ],
   [
