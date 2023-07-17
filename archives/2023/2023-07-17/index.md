@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 04:01:02](https://news.ycombinator.com/item?id=36753914) - [Arrival's Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
 * [2023-07-17, 02:22:43](https://news.ycombinator.com/item?id=36753364) - [Frank fabricated 4.25M customers in JP Morgan fraud case](https://www.nbcnews.com/news/crime-courts/second-frank-financial-aid-executive-charged-jpmorgan-fraud-case-rcna94564)
 * [2023-07-17, 02:22:35](https://news.ycombinator.com/item?id=36753363) - [Moodle: Open-Source LMS](https://moodle.org/)
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)

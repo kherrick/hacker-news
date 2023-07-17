@@ -50,6 +50,7 @@
 * [2023-07-16, 11:57:34](https://news.ycombinator.com/item?id=36745985) - [I don't know how I feel about email](https://xeiaso.net/blog/idk-about-email)
 * [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming [on an Atari 2600]](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [Todo apps are meant for robots](https://frantic.im/todo-for-robots/)
+* [2023-07-16, 11:36:52](https://news.ycombinator.com/item?id=36745852) - [A novel solid, rechargeable air battery](https://www.waseda.jp/top/en/news/78001)
 * [2023-07-16, 11:22:03](https://news.ycombinator.com/item?id=36745726) - [Threads 24% likely to overtake Twitter, down from 49% say prediction markets](https://www.baseratetimes.com/#Twitter)
 * [2023-07-16, 11:13:11](https://news.ycombinator.com/item?id=36745664) - [Do not expose your RIGOL oscilloscopes to the internet](https://tortel.li/post/insecure-scope/)
 * [2023-07-16, 10:17:23](https://news.ycombinator.com/item?id=36745314) - [No CSS Club – because no JavaScript was not hardcore enough](https://nocss.club/)

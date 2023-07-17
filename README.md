@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 04:01:02](https://news.ycombinator.com/item?id=36753914) - [Arrival's Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
 * [2023-07-17, 01:43:21](https://news.ycombinator.com/item?id=36753175) - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
 * [2023-07-17, 01:14:06](https://news.ycombinator.com/item?id=36753032) - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
@@ -20,9 +21,8 @@
 * [2023-07-16, 15:54:10](https://news.ycombinator.com/item?id=36748393) - [Citizen scientists observe gamma ray glow associated with lightning flash](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103612)
 * [2023-07-16, 15:24:30](https://news.ycombinator.com/item?id=36748043) - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
-* [2023-07-16, 13:19:52](https://news.ycombinator.com/item?id=36746691) - [Speeding up the Super Game Boy](https://nicole.express/2023/super-game-boy-can-go-fast-too.html)
-* [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming on an Atari 2600](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [TODO apps are meant for robots](https://frantic.im/todo-for-robots/)
+* [2023-07-16, 11:36:52](https://news.ycombinator.com/item?id=36745852) - [A novel solid, rechargeable air battery](https://www.waseda.jp/top/en/news/78001)
 * [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make (1987) [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-15, 21:33:41](https://news.ycombinator.com/item?id=36741154) - [Linux DCE, CORBA, and DCOM Guide (2001)](http://linas.org/linux/corba.html)
 * [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
