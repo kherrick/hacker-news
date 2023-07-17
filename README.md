@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 16:26:11](https://news.ycombinator.com/item?id=36760181) - [Unceremoniously banned by Twitter: retaliation, or the norm?](https://blog.webb.page/2023-07-17-twitter.txt)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
 * [2023-07-17, 15:13:36](https://news.ycombinator.com/item?id=36759243) - [Ash HN: How can I make my idle CPU time useful to others?](https://news.ycombinator.com/item?id=36759243)
-* [2023-07-17, 15:06:49](https://news.ycombinator.com/item?id=36759162) - [Ask HN: Why does Firefox have such a low market share anyways?](https://news.ycombinator.com/item?id=36759162)
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 13:56:23](https://news.ycombinator.com/item?id=36758292) - [Show HN: Peeng – like Pingdom, but the other way around and simpler](https://www.peeng.sh)
@@ -16,7 +16,7 @@
 * [2023-07-17, 12:46:34](https://news.ycombinator.com/item?id=36757578) - [Show HN: Open-Source AI Playground](https://chathub.gg/)
 * [2023-07-17, 12:44:09](https://news.ycombinator.com/item?id=36757542) - [A Firefox-only minimap (2021)](https://www.stefanjudis.com/a-firefox-only-minimap/)
 * [2023-07-17, 12:41:54](https://news.ycombinator.com/item?id=36757520) - [Wikipedia-grounded chatbot “outperforms all baselines” on factual accuracy](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research)
-* [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
+* [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
 * [2023-07-17, 10:04:00](https://news.ycombinator.com/item?id=36756101) - [Temporary ban on behavioural advertising on Facebook and Instagram](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/temporary-ban-of-behavioural-advertising-on-facebook-and-instagram/)
 * [2023-07-17, 08:24:33](https://news.ycombinator.com/item?id=36755509) - [My broken ThinkPad plays music upon booting](https://nerology.substack.com/p/my-broken-thinkpad-plays-music-upon)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting (2018)](https://www.backyardmetalcasting.com/)
