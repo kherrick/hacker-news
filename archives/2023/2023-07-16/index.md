@@ -69,6 +69,7 @@
 * [2023-07-16, 06:51:31](https://news.ycombinator.com/item?id=36744293) - [German Buttercream Is Awesome](https://www.sidhe.org/blog/2022/02/23/german-buttercream-is-awesome/)
 * [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Yarra River after malfunction](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
 * [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
+* [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/#the-perfect-laptop)
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 * [2023-07-16, 04:37:49](https://news.ycombinator.com/item?id=36743707) - [A Cure for Wellness](https://www.historytoday.com/archive/great-debates/cure-wellness)
 * [2023-07-16, 04:11:57](https://news.ycombinator.com/item?id=36743547) - [Are You a “Harbinger of Failure”?](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
