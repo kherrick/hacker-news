@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
+* [2023-07-17, 14:19:53](https://news.ycombinator.com/item?id=36758554) - [Show HN: Send Emails from Your Terminal](https://github.com/charmbracelet/pop)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
+* [2023-07-17, 14:01:57](https://news.ycombinator.com/item?id=36758358) - [Higher interest rates mean for the size and distribution of UK household wealth](https://www.resolutionfoundation.org/publications/peaked-interest/)
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 * [2023-07-17, 13:51:43](https://news.ycombinator.com/item?id=36758233) - [Copy is all you need](https://arxiv.org/abs/2307.06962)
 * [2023-07-17, 13:45:52](https://news.ycombinator.com/item?id=36758177) - [The Odyssey by Homer, Translated by Samuel Butler](https://www.gutenberg.org/files/1727/1727-h/1727-h.htm)
