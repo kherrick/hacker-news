@@ -9,6 +9,7 @@
 * [2023-07-16, 23:35:11](https://news.ycombinator.com/item?id=36752490) - [Symbolics CGI production notes: How Stanley and Stella came together (1988)](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
 * [2023-07-16, 23:24:02](https://news.ycombinator.com/item?id=36752419) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 * [2023-07-16, 22:55:31](https://news.ycombinator.com/item?id=36752247) - [“That Deep Romantic Chasm”: Libertarianism, Neoliberalism, & Computer Culture](https://www.uvm.edu/~tstreete/romantic_chasm.html)
+* [2023-07-16, 22:51:20](https://news.ycombinator.com/item?id=36752215) - [Medicine containers used in the golden age of piracy](http://www.piratesurgeon.com/pages/surgeon_pages/medicine_containers1.html)
 * [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
 * [2023-07-16, 21:09:24](https://news.ycombinator.com/item?id=36751422) - [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
