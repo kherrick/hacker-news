@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
 * [2023-07-17, 16:26:11](https://news.ycombinator.com/item?id=36760181) - [Unceremoniously banned by Twitter: retaliation, or the norm?](https://blog.webb.page/2023-07-17-twitter.txt)
+* [2023-07-17, 16:06:38](https://news.ycombinator.com/item?id=36759912) - [Giant telecom company that once almost bought Apple is on the brink of failure](https://fortune.com/2023/07/17/telecom-italia-almost-bought-apple-teetering-brink-failure/)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
 * [2023-07-17, 15:13:36](https://news.ycombinator.com/item?id=36759243) - [Ash HN: How can I make my idle CPU time useful to others?](https://news.ycombinator.com/item?id=36759243)
 * [2023-07-17, 15:06:49](https://news.ycombinator.com/item?id=36759162) - [Ask HN: Why does Firefox have such a low market share anyways?](https://news.ycombinator.com/item?id=36759162)
