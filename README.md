@@ -8,6 +8,7 @@
 * [2023-07-16, 23:53:03](https://news.ycombinator.com/item?id=36752581) - [LOGO Manual (1974) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
 * [2023-07-16, 23:35:11](https://news.ycombinator.com/item?id=36752490) - [Symbolics CGI production notes: How Stanley and Stella came together (1988)](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
 * [2023-07-16, 23:24:02](https://news.ycombinator.com/item?id=36752419) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
+* [2023-07-16, 22:55:31](https://news.ycombinator.com/item?id=36752247) - [“That Deep Romantic Chasm”: Libertarianism, Neoliberalism, & Computer Culture](https://www.uvm.edu/~tstreete/romantic_chasm.html)
 * [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
 * [2023-07-16, 21:04:18](https://news.ycombinator.com/item?id=36751375) - [Grav is a modern open-source flat-file CMS](https://getgrav.org/)
@@ -28,7 +29,6 @@
 * [2023-07-15, 21:33:41](https://news.ycombinator.com/item?id=36741154) - [Linux DCE, CORBA, and DCOM Guide (2001)](http://linas.org/linux/corba.html)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
 * [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
-* [2023-07-15, 15:06:23](https://news.ycombinator.com/item?id=36737469) - [From second thoughts on the germ theory to a full-blown host theory](https://www.pnas.org/doi/10.1073/pnas.2301186120)
 * [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
 
 ## [Archives](archives/index.md)
