@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-17, 09:03:57](https://news.ycombinator.com/item?id=36755732) - [Deloitte Australia CEO tells Senate committee his work not worth $3.5mAUD salary](https://www.abc.net.au/news/2023-07-17/deloitte-ceo-fronts-senate-committe-into-integrity/102610116)
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
@@ -10,6 +9,7 @@
 * [2023-07-17, 01:43:21](https://news.ycombinator.com/item?id=36753175) - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
 * [2023-07-17, 01:14:06](https://news.ycombinator.com/item?id=36753032) - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
 * [2023-07-16, 23:53:03](https://news.ycombinator.com/item?id=36752581) - [LOGO Manual (1974) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
+* [2023-07-16, 23:24:02](https://news.ycombinator.com/item?id=36752419) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 * [2023-07-16, 22:55:31](https://news.ycombinator.com/item?id=36752247) - [“That Deep Romantic Chasm”: Libertarianism, Neoliberalism, & Computer Culture](https://www.uvm.edu/~tstreete/romantic_chasm.html)
 * [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
