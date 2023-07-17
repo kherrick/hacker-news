@@ -29,7 +29,7 @@
 * [2023-07-15, 13:43:00](https://news.ycombinator.com/item?id=36736671) - [She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)
 * [2023-07-15, 11:16:51](https://news.ycombinator.com/item?id=36735529) - [British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
 * [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
-* [2023-07-15, 07:44:38](https://news.ycombinator.com/item?id=36734522) - [The Mad Hatter's Secret Ingredient: Math (2010)](https://www.npr.org/2010/03/13/124632317/the-mad-hatters-secret-ingredient-math)
+* [2023-07-15, 04:29:05](https://news.ycombinator.com/item?id=36733488) - [The deadly “dancing plague” of 1518](https://bigthink.com/the-past/dancing-plague-middle-ages/)
 
 ## [Archives](archives/index.md)
 
