@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 21:00:24](https://news.ycombinator.com/item?id=36764004) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
 * [2023-07-17, 20:13:25](https://news.ycombinator.com/item?id=36763419) - [the US economy and the EU were the same size in 2008, the US is now nearly 2X](https://twitter.com/scienceisstrat1/status/1680959906969444352)
@@ -50,6 +51,7 @@
 * [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
 * [2023-07-17, 12:28:45](https://news.ycombinator.com/item?id=36757413) - [Norwegian DPA temporarily bans behavioral advertising on Facebook and Instagram](https://noyb.eu/en/norway-temporary-ban-behavioral-ads-facebook)
 * [2023-07-17, 12:19:36](https://news.ycombinator.com/item?id=36757334) - [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
+* [2023-07-17, 12:09:49](https://news.ycombinator.com/item?id=36757213) - [Writing Hurl's Grammar, Twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 11:19:05](https://news.ycombinator.com/item?id=36756606) - [‘The Man Who Organized Nature’ Review: Linnaeus the Namer](https://www.wsj.com/articles/the-man-who-organized-nature-review-linnaeus-the-namer-673a3305)
 * [2023-07-17, 10:29:09](https://news.ycombinator.com/item?id=36756257) - [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
 * [2023-07-17, 10:20:36](https://news.ycombinator.com/item?id=36756201) - [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
