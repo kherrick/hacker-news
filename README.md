@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-17, 18:43:44](https://news.ycombinator.com/item?id=36762284) - [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)
-* [2023-07-17, 18:28:30](https://news.ycombinator.com/item?id=36762075) - [Investigating Zika-Microcephaly's ‘Crash’](https://www.amjmed.com/article/S0002-9343(22)00108-5/fulltext)
 * [2023-07-17, 18:21:45](https://news.ycombinator.com/item?id=36761988) - [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
 * [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 * [2023-07-17, 17:49:08](https://news.ycombinator.com/item?id=36761498) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36761498)
@@ -11,6 +10,7 @@
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon knew about toxic lead cables for decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
+* [2023-07-17, 13:51:43](https://news.ycombinator.com/item?id=36758233) - [Copy is all you need](https://arxiv.org/abs/2307.06962)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 * [2023-07-17, 13:09:04](https://news.ycombinator.com/item?id=36757822) - [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
 * [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality](https://www.lelanthran.com/chap9/content.html)
