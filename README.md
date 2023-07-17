@@ -25,10 +25,10 @@
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [TODO apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 11:36:52](https://news.ycombinator.com/item?id=36745852) - [A novel solid, rechargeable air battery](https://www.waseda.jp/top/en/news/78001)
-* [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make (1987) [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
 * [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
+* [2023-07-15, 11:16:51](https://news.ycombinator.com/item?id=36735529) - [British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
 * [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
 
 ## [Archives](archives/index.md)
