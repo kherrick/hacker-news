@@ -9,6 +9,7 @@
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
 * [2023-07-17, 20:13:25](https://news.ycombinator.com/item?id=36763419) - [the US economy and the EU were the same size in 2008, the US is now nearly 2X](https://twitter.com/scienceisstrat1/status/1680959906969444352)
 * [2023-07-17, 20:08:30](https://news.ycombinator.com/item?id=36763357) - [The Wikimedia Foundation joins Mastodon and the Fediverse](https://wikimedia.social/@wikimediafoundation/110708950540815886)
+* [2023-07-17, 19:38:01](https://news.ycombinator.com/item?id=36762942) - [Facebook, Instagram face Norwegian ban from tracking users for ads](https://www.politico.eu/article/facebook-instagram-norway-ban-track-users-ads/)
 * [2023-07-17, 19:33:30](https://news.ycombinator.com/item?id=36762879) - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
 * [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 19:15:35](https://news.ycombinator.com/item?id=36762673) - [Ford slashes prices of F-150 Lightning trucks as EV wars heat up](https://www.reuters.com/business/autos-transportation/ford-slashes-prices-f-150-lightning-trucks-base-variant-cost-17-less-2023-07-17/)
