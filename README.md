@@ -3,7 +3,6 @@
 * [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 * [2023-07-17, 17:49:08](https://news.ycombinator.com/item?id=36761498) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36761498)
 * [2023-07-17, 17:34:20](https://news.ycombinator.com/item?id=36761290) - [What's wrong with enterprise Linux](https://unix.foo/posts/enterprise-linux/)
-* [2023-07-17, 17:13:03](https://news.ycombinator.com/item?id=36760955) - [2500 Job apps, 46 interviews, 1 offer](https://www.teamblind.com/post/2500-Job-apps-46-interviews-1-offer-hm028GVg)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon knew about toxic lead cables for decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
@@ -28,6 +27,7 @@
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
 * [2023-07-16, 00:38:15](https://news.ycombinator.com/item?id=36742279) - [Loss of Mid in English: Free Peasantry and Their Linguistic Advantage](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-968X.12268)
 * [2023-07-15, 13:43:00](https://news.ycombinator.com/item?id=36736671) - [She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)
+* [2023-07-15, 11:16:51](https://news.ycombinator.com/item?id=36735529) - [British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
 * [2023-07-15, 07:36:25](https://news.ycombinator.com/item?id=36734479) - [Minify and Gzip (2022)](https://blog.wesleyac.com/posts/minify-and-gzip)
 * [2023-07-14, 11:49:22](https://news.ycombinator.com/item?id=36722491) - [The Secret Life of Deep Sea Vents](https://nautil.us/the-secret-life-of-deep-sea-vents-353244/)
 
