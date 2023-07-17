@@ -95,6 +95,7 @@
 * [2023-07-15, 06:42:28](https://news.ycombinator.com/item?id=36734214) - [Wireshark Is 25: The email that started it all and lessons learned along the way](https://blog.wireshark.org/2023/07/wireshark-is-25/)
 * [2023-07-15, 06:19:49](https://news.ycombinator.com/item?id=36734110) - [YC offers early interviews for AI companies](https://www.ycombinator.com/blog/early-interviews-for-ai-companies)
 * [2023-07-15, 06:06:50](https://news.ycombinator.com/item?id=36734051) - [Private Market](https://www.privatemarket.dev/whatisthis)
+* [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics](https://omniglot.com/writing/cree.htm)
 * [2023-07-15, 05:30:16](https://news.ycombinator.com/item?id=36733868) - [How to store a permutation compactly (2022)](https://hackmd.io/@dabo/rkP8Pcf9t)
 * [2023-07-15, 04:33:38](https://news.ycombinator.com/item?id=36733536) - [News Is Propaganda](https://www.joshualiu.org/blog/news-is-propaganda)
 * [2023-07-15, 04:32:13](https://news.ycombinator.com/item?id=36733520) - [The Evolution of What It Means to Be Human](https://www.noemamag.com/the-evolution-of-what-it-means-to-be-human/)
