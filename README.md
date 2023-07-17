@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 22:45:56](https://news.ycombinator.com/item?id=36765116) - [Couples with Joint Checking Accounts Are Happier](https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad020/7077142)
 * [2023-07-17, 22:09:21](https://news.ycombinator.com/item?id=36764749) - [Incumbents vs. Startups in the AI Race](https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/)
 * [2023-07-17, 21:55:11](https://news.ycombinator.com/item?id=36764610) - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
 * [2023-07-17, 21:44:22](https://news.ycombinator.com/item?id=36764489) - [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
@@ -11,7 +12,6 @@
 * [2023-07-17, 19:55:01](https://news.ycombinator.com/item?id=36763175) - [Introducing the Nano ESP32](https://blog.arduino.cc/2023/07/17/introducing-the-nano-esp32-thats-iot/)
 * [2023-07-17, 19:33:30](https://news.ycombinator.com/item?id=36762879) - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
 * [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
-* [2023-07-17, 18:58:37](https://news.ycombinator.com/item?id=36762465) - [uyuni – open-source configuration and infrastructure management](https://www.uyuni-project.org/)
 * [2023-07-17, 18:45:05](https://news.ycombinator.com/item?id=36762301) - [WHO aspartame brouhaha](https://dynomight.net/aspartame-brouhaha/)
 * [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 * [2023-07-17, 17:56:57](https://news.ycombinator.com/item?id=36761623) - [A technical look at ZeroNet](https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 22:45:56](https://news.ycombinator.com/item?id=36765116) - [Couples with Joint Checking Accounts Are Happier](https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad020/7077142)
 * [2023-07-17, 22:17:01](https://news.ycombinator.com/item?id=36764829) - [Ask HN: What ever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
 * [2023-07-17, 22:09:21](https://news.ycombinator.com/item?id=36764749) - [Incumbents vs. Startups in the AI Race](https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/)
 * [2023-07-17, 21:55:11](https://news.ycombinator.com/item?id=36764610) - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
