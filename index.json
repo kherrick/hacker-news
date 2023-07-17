@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-17, 21:00:24",
+      "https://news.ycombinator.com/item?id=36764004"
+    ],
+    [
+      "Etleap (YC W13) Is Hiring a Software Engineer (London)",
+      "https://etleap.com/careers/software-engineer/"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 20:41:39",
       "https://news.ycombinator.com/item?id=36763758"
     ],
@@ -17,16 +27,6 @@
     [
       "Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94",
       "https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 20:13:25",
-      "https://news.ycombinator.com/item?id=36763419"
-    ],
-    [
-      "the US economy and the EU were the same size in 2008, the US is now nearly 2X",
-      "https://twitter.com/scienceisstrat1/status/1680959906969444352"
     ]
   ],
   [
@@ -111,32 +111,12 @@
   ],
   [
     [
-      "2023-07-17, 17:49:08",
-      "https://news.ycombinator.com/item?id=36761498"
-    ],
-    [
-      "Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors",
-      "https://news.ycombinator.com/item?id=36761498"
-    ]
-  ],
-  [
-    [
       "2023-07-17, 17:34:20",
       "https://news.ycombinator.com/item?id=36761290"
     ],
     [
       "What's wrong with enterprise Linux",
       "https://unix.foo/posts/enterprise-linux/"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 16:42:51",
-      "https://news.ycombinator.com/item?id=36760469"
-    ],
-    [
-      "Hayao Miyazaki’s How Do You Live is a beautiful relic – and the end of an era",
-      "https://www.theverge.com/23797349/how-do-you-live-review-studio-ghibli-hayao-miyazaki"
     ]
   ],
   [
@@ -231,12 +211,32 @@
   ],
   [
     [
+      "2023-07-17, 12:41:54",
+      "https://news.ycombinator.com/item?id=36757520"
+    ],
+    [
+      "Wikipedia-grounded chatbot “outperforms all baselines” on factual accuracy",
+      "https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research"
+    ]
+  ],
+  [
+    [
       "2023-07-17, 12:38:39",
       "https://news.ycombinator.com/item?id=36757492"
     ],
     [
       "Notes on Puzzles",
       "https://nabeelqu.substack.com/p/notes-on-puzzles"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 12:09:49",
+      "https://news.ycombinator.com/item?id=36757213"
+    ],
+    [
+      "Writing Hurl's Grammar, Twice",
+      "https://ntietz.com/blog/writing-hurl-grammar/"
     ]
   ],
   [
