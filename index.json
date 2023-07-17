@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2023-07-16, 12:05:33",
-      "https://news.ycombinator.com/item?id=36746047"
+      "2023-07-16, 09:03:30",
+      "https://news.ycombinator.com/item?id=36744955"
     ],
     [
-      "Penrose 3.0",
-      "https://penrose.cs.cmu.edu/blog/v3"
+      "Mk: A Successor to Make (1987) [pdf]",
+      "http://doc.cat-v.org/bell_labs/mk/mk.pdf"
     ]
   ],
   [
@@ -257,16 +257,6 @@
     [
       "Linux DCE, CORBA, and DCOM Guide (2001)",
       "http://linas.org/linux/corba.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-15, 20:30:13",
-      "https://news.ycombinator.com/item?id=36740653"
-    ],
-    [
-      "Bell Labs Holmdel Complex (2019)",
-      "https://www.abandonedamerica.us/bell-labs"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "From second thoughts on the germ theory to a full-blown host theory",
       "https://www.pnas.org/doi/10.1073/pnas.2301186120"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 11:16:15",
+      "https://news.ycombinator.com/item?id=36735527"
+    ],
+    [
+      "DeepSID: Online Commodore 64 SID Player",
+      "https://deepsid.chordian.net/"
     ]
   ]
 ]
