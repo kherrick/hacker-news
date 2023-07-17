@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 * [2023-07-17, 17:49:08](https://news.ycombinator.com/item?id=36761498) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36761498)
+* [2023-07-17, 17:34:20](https://news.ycombinator.com/item?id=36761290) - [What's wrong with enterprise Linux](https://unix.foo/posts/enterprise-linux/)
 * [2023-07-17, 17:13:03](https://news.ycombinator.com/item?id=36760955) - [2500 Job apps, 46 interviews, 1 offer](https://www.teamblind.com/post/2500-Job-apps-46-interviews-1-offer-hm028GVg)
 * [2023-07-17, 16:26:11](https://news.ycombinator.com/item?id=36760181) - [Unceremoniously banned by Twitter: retaliation, or the norm?](https://blog.webb.page/2023-07-17-twitter.txt)
 * [2023-07-17, 16:06:38](https://news.ycombinator.com/item?id=36759912) - [Giant telecom company that once almost bought Apple is on the brink of failure](https://fortune.com/2023/07/17/telecom-italia-almost-bought-apple-teetering-brink-failure/)
