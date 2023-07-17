@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 09:03:57](https://news.ycombinator.com/item?id=36755732) - [Deloitte Australia CEO tells Senate committee his work not worth $3.5mAUD salary](https://www.abc.net.au/news/2023-07-17/deloitte-ceo-fronts-senate-committe-into-integrity/102610116)
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
@@ -24,7 +25,6 @@
 * [2023-07-16, 11:38:00](https://news.ycombinator.com/item?id=36745858) - [TODO apps are meant for robots](https://frantic.im/todo-for-robots/)
 * [2023-07-16, 11:36:52](https://news.ycombinator.com/item?id=36745852) - [A novel solid, rechargeable air battery](https://www.waseda.jp/top/en/news/78001)
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
-* [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
 * [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
 * [2023-07-15, 13:43:00](https://news.ycombinator.com/item?id=36736671) - [She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)

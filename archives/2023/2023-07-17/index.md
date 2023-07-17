@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 09:03:57](https://news.ycombinator.com/item?id=36755732) - [Deloitte Australia CEO tells Senate committee his work not worth $3.5mAUD salary](https://www.abc.net.au/news/2023-07-17/deloitte-ceo-fronts-senate-committe-into-integrity/102610116)
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)
 * [2023-07-17, 05:57:21](https://news.ycombinator.com/item?id=36754635) - [Europeans Are Becoming Poorer](https://www.wsj.com/articles/europeans-poorer-inflation-economy-255eb629)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
