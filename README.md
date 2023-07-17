@@ -11,9 +11,8 @@
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon knew about toxic lead cables for decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
-* [2023-07-17, 13:56:23](https://news.ycombinator.com/item?id=36758292) - [Show HN: Peeng – like Pingdom, but the other way around and simpler](https://www.peeng.sh)
-* [2023-07-17, 13:51:43](https://news.ycombinator.com/item?id=36758233) - [Copy is all you need](https://arxiv.org/abs/2307.06962)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
+* [2023-07-17, 13:09:04](https://news.ycombinator.com/item?id=36757822) - [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
 * [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality](https://www.lelanthran.com/chap9/content.html)
 * [2023-07-17, 12:55:36](https://news.ycombinator.com/item?id=36757688) - [Kata Containers: Virtual Machines that feel and perform like containers](https://katacontainers.io/)
 * [2023-07-17, 12:44:09](https://news.ycombinator.com/item?id=36757542) - [A Firefox-only minimap (2021)](https://www.stefanjudis.com/a-firefox-only-minimap/)
@@ -28,6 +27,7 @@
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
 * [2023-07-16, 01:04:53](https://news.ycombinator.com/item?id=36742457) - [A Tribute to the Compucolor II (2013)](http://compucolor.org/)
+* [2023-07-15, 13:43:00](https://news.ycombinator.com/item?id=36736671) - [She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)
 * [2023-07-15, 07:36:25](https://news.ycombinator.com/item?id=36734479) - [Minify and Gzip (2022)](https://blog.wesleyac.com/posts/minify-and-gzip)
 * [2023-07-14, 11:49:22](https://news.ycombinator.com/item?id=36722491) - [The Secret Life of Deep Sea Vents](https://nautil.us/the-secret-life-of-deep-sea-vents-353244/)
 
