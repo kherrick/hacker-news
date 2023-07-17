@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 21:32:18](https://news.ycombinator.com/item?id=36764389) - [AI Watches Millions of Cars and Tells Cops If You’re Driving Like a Criminal](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/)
 * [2023-07-17, 21:00:24](https://news.ycombinator.com/item?id=36764004) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
+* [2023-07-17, 20:37:48](https://news.ycombinator.com/item?id=36763718) - [Are Large Language Models a Threat to Digital Public Goods?](https://arxiv.org/abs/2307.07367)
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
 * [2023-07-17, 20:08:30](https://news.ycombinator.com/item?id=36763357) - [The Wikimedia Foundation joins Mastodon and the Fediverse](https://wikimedia.social/@wikimediafoundation/110708950540815886)
 * [2023-07-17, 19:55:01](https://news.ycombinator.com/item?id=36763175) - [Introducing the Nano ESP32](https://blog.arduino.cc/2023/07/17/introducing-the-nano-esp32-thats-iot/)
@@ -12,7 +14,6 @@
 * [2023-07-17, 18:21:45](https://news.ycombinator.com/item?id=36761988) - [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
 * [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 * [2023-07-17, 17:56:57](https://news.ycombinator.com/item?id=36761623) - [A technical look at ZeroNet](https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet)
-* [2023-07-17, 17:34:20](https://news.ycombinator.com/item?id=36761290) - [What's wrong with enterprise Linux](https://unix.foo/posts/enterprise-linux/)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
@@ -28,7 +29,6 @@
 * [2023-07-17, 08:24:33](https://news.ycombinator.com/item?id=36755509) - [My broken ThinkPad plays music upon booting](https://nerology.substack.com/p/my-broken-thinkpad-plays-music-upon)
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-16, 04:24:20](https://news.ycombinator.com/item?id=36743623) - [Miyazaki has used the art of animation to study the major problem of adult life](https://www.nybooks.com/online/2023/07/13/loves-work-hayao-miyazaki/)
-* [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
 * [2023-07-16, 01:04:53](https://news.ycombinator.com/item?id=36742457) - [A Tribute to the Compucolor II (2013)](http://compucolor.org/)
 
 ## [Archives](archives/index.md)

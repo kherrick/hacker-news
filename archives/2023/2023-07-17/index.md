@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 21:32:18](https://news.ycombinator.com/item?id=36764389) - [AI Watches Millions of Cars and Tells Cops If You’re Driving Like a Criminal](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/)
 * [2023-07-17, 21:00:24](https://news.ycombinator.com/item?id=36764004) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
+* [2023-07-17, 20:37:48](https://news.ycombinator.com/item?id=36763718) - [Are Large Language Models a Threat to Digital Public Goods?](https://arxiv.org/abs/2307.07367)
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry G. Frankfurt, Philosopher with a Surprise Best Seller, Dies at 94](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
 * [2023-07-17, 20:13:25](https://news.ycombinator.com/item?id=36763419) - [the US economy and the EU were the same size in 2008, the US is now nearly 2X](https://twitter.com/scienceisstrat1/status/1680959906969444352)
 * [2023-07-17, 20:08:30](https://news.ycombinator.com/item?id=36763357) - [The Wikimedia Foundation joins Mastodon and the Fediverse](https://wikimedia.social/@wikimediafoundation/110708950540815886)
