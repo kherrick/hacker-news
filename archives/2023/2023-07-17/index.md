@@ -9,6 +9,7 @@
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 14:01:57](https://news.ycombinator.com/item?id=36758358) - [Higher interest rates mean for the size and distribution of UK household wealth](https://www.resolutionfoundation.org/publications/peaked-interest/)
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
+* [2023-07-17, 13:59:05](https://news.ycombinator.com/item?id=36758329) - [Tokyo Is the New Paris](https://www.noahpinion.blog/p/tokyo-is-the-new-paris)
 * [2023-07-17, 13:51:43](https://news.ycombinator.com/item?id=36758233) - [Copy is all you need](https://arxiv.org/abs/2307.06962)
 * [2023-07-17, 13:45:52](https://news.ycombinator.com/item?id=36758177) - [The Odyssey by Homer, Translated by Samuel Butler](https://www.gutenberg.org/files/1727/1727-h/1727-h.htm)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
