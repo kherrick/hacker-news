@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 12:19:36](https://news.ycombinator.com/item?id=36757334) - [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
 * [2023-07-17, 10:20:36](https://news.ycombinator.com/item?id=36756201) - [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
 * [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
-* [2023-07-17, 09:49:27](https://news.ycombinator.com/item?id=36755994) - [Byte Fanless Mini PC – Built for Linux](https://us.starlabs.systems/pages/byte)
 * [2023-07-17, 05:10:59](https://news.ycombinator.com/item?id=36754392) - [Show HN: DiskerNet – Browse the Internet from Your Disk, Now Open Source](https://github.com/dosyago/DiskerNet)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
@@ -20,7 +20,7 @@
 * [2023-07-16, 19:47:23](https://news.ycombinator.com/item?id=36750743) - [Exploring Linear A](https://lineara.xyz/)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater ears everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 * [2023-07-16, 19:26:32](https://news.ycombinator.com/item?id=36750554) - [How to register a Kei truck in Pennsylvania](https://danwilkerson.com/posts/2023-05-30-how-to-register-a-kei-truck-in-pa)
-* [2023-07-16, 18:30:18](https://news.ycombinator.com/item?id=36750083) - [Show HN: Structured output from LLMs without reprompting](https://automorphic.ai/playground)
+* [2023-07-16, 16:53:17](https://news.ycombinator.com/item?id=36749059) - [SoundStorm: Efficient Parallel Audio Generation](https://google-research.github.io/seanet/soundstorm/examples/)
 * [2023-07-16, 12:08:23](https://news.ycombinator.com/item?id=36746073) - [Connected: An Internet Encyclopedia (1997)](https://u20.freesoft.org/CIE/)
 * [2023-07-16, 11:36:52](https://news.ycombinator.com/item?id=36745852) - [A novel solid, rechargeable air battery](https://www.waseda.jp/top/en/news/78001)
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
