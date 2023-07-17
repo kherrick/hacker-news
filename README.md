@@ -3,6 +3,7 @@
 * [2023-07-17, 04:23:18](https://news.ycombinator.com/item?id=36754086) - [Why is spoken language so hard to understand?](https://blog.duolingo.com/why-is-spoken-language-so-hard-to-understand/)
 * [2023-07-17, 04:01:02](https://news.ycombinator.com/item?id=36753914) - [Arrival's Designers Crafted a Mesmerizing Alien Alphabet](https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/)
 * [2023-07-17, 03:58:17](https://news.ycombinator.com/item?id=36753893) - [Finland introduces the world’s first phone-free tourist island](https://www.independent.co.uk/travel/news-and-advice/finland-phone-mobile-free-island-b2361499.html)
+* [2023-07-17, 02:22:35](https://news.ycombinator.com/item?id=36753363) - [Moodle: Open-Source LMS](https://moodle.org/)
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
 * [2023-07-17, 01:43:21](https://news.ycombinator.com/item?id=36753175) - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
 * [2023-07-17, 01:14:06](https://news.ycombinator.com/item?id=36753032) - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
@@ -27,7 +28,6 @@
 * [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
 * [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
-* [2023-07-15, 11:16:51](https://news.ycombinator.com/item?id=36735529) - [British F-35Bs to Bring Vertical Landing Abilities to Highways](https://www.thedrive.com/the-war-zone/british-f-35bs-to-bring-vertical-landing-abilities-to-highways)
 * [2023-07-15, 11:16:15](https://news.ycombinator.com/item?id=36735527) - [DeepSID: Online Commodore 64 SID Player](https://deepsid.chordian.net/)
 * [2023-07-15, 07:44:38](https://news.ycombinator.com/item?id=36734522) - [The Mad Hatter's Secret Ingredient: Math (2010)](https://www.npr.org/2010/03/13/124632317/the-mad-hatters-secret-ingredient-math)
 
