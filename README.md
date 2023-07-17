@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-17, 22:17:01](https://news.ycombinator.com/item?id=36764829) - [Ask HN: What ever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
 * [2023-07-17, 22:09:21](https://news.ycombinator.com/item?id=36764749) - [Incumbents vs. Startups in the AI Race](https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/)
 * [2023-07-17, 21:55:11](https://news.ycombinator.com/item?id=36764610) - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
 * [2023-07-17, 21:44:22](https://news.ycombinator.com/item?id=36764489) - [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
@@ -17,6 +16,7 @@
 * [2023-07-17, 17:56:57](https://news.ycombinator.com/item?id=36761623) - [A technical look at ZeroNet](https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
+* [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 * [2023-07-17, 13:54:07](https://news.ycombinator.com/item?id=36758267) - [The PoWeR technique: a strategic approach to self-discipline](https://www.indiehackers.com/post/the-power-technique-a-strategic-approach-to-self-discipline-11bc6724d6)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 * [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality](https://www.lelanthran.com/chap9/content.html)
