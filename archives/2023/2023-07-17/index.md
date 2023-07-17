@@ -5,11 +5,13 @@
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
 * [2023-07-17, 10:29:09](https://news.ycombinator.com/item?id=36756257) - [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
+* [2023-07-17, 10:20:36](https://news.ycombinator.com/item?id=36756201) - [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
 * [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
 * [2023-07-17, 09:49:27](https://news.ycombinator.com/item?id=36755994) - [Byte Fanless Mini PC – Built for Linux](https://us.starlabs.systems/pages/byte)
 * [2023-07-17, 09:03:57](https://news.ycombinator.com/item?id=36755732) - [Deloitte Australia CEO tells Senate committee his work not worth $3.5mAUD salary](https://www.abc.net.au/news/2023-07-17/deloitte-ceo-fronts-senate-committe-into-integrity/102610116)
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)
 * [2023-07-17, 05:57:21](https://news.ycombinator.com/item?id=36754635) - [Europeans Are Becoming Poorer](https://www.wsj.com/articles/europeans-poorer-inflation-economy-255eb629)
+* [2023-07-17, 05:10:59](https://news.ycombinator.com/item?id=36754392) - [Show HN: DiskerNet – Browse the Internet from Your Disk, Now Open Source](https://github.com/dosyago/DiskerNet)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting](https://www.backyardmetalcasting.com/)
 * [2023-07-17, 04:23:18](https://news.ycombinator.com/item?id=36754086) - [Why is spoken language so hard to understand?](https://blog.duolingo.com/why-is-spoken-language-so-hard-to-understand/)
