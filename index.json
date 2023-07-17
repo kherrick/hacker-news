@@ -1,26 +1,6 @@
 [
   [
     [
-      "2023-07-17, 02:22:43",
-      "https://news.ycombinator.com/item?id=36753364"
-    ],
-    [
-      "Frank fabricated 4.25M customers in JP Morgan fraud case",
-      "https://www.nbcnews.com/news/crime-courts/second-frank-financial-aid-executive-charged-jpmorgan-fraud-case-rcna94564"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 02:22:35",
-      "https://news.ycombinator.com/item?id=36753363"
-    ],
-    [
-      "Moodle: Open-Source LMS",
-      "https://moodle.org/"
-    ]
-  ],
-  [
-    [
       "2023-07-17, 01:52:48",
       "https://news.ycombinator.com/item?id=36753225"
     ],
@@ -55,18 +35,8 @@
       "https://news.ycombinator.com/item?id=36752581"
     ],
     [
-      "LOGO Manual by Abelson, Goodman, and Rudolph (1974) [pdf]",
+      "LOGO Manual (1974) [pdf]",
       "https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf"
-    ]
-  ],
-  [
-    [
-      "2023-07-16, 23:49:02",
-      "https://news.ycombinator.com/item?id=36752561"
-    ],
-    [
-      "Ill in England? Your Location Can Determine If You Live or Die",
-      "https://www.bloomberg.com/graphics/2023-nhs-missing-targets-on-75th-anniversary/"
     ]
   ],
   [
@@ -231,12 +201,32 @@
   ],
   [
     [
-      "2023-07-16, 12:35:45",
-      "https://news.ycombinator.com/item?id=36746274"
+      "2023-07-16, 13:19:52",
+      "https://news.ycombinator.com/item?id=36746691"
     ],
     [
-      "A PostgreSQL Docker container that automatically upgrades your  database",
-      "https://github.com/justinclift/docker-pgautoupgrade"
+      "Speeding up the Super Game Boy",
+      "https://nicole.express/2023/super-game-boy-can-go-fast-too.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 11:53:30",
+      "https://news.ycombinator.com/item?id=36745961"
+    ],
+    [
+      "Lisp Programming on an Atari 2600",
+      "https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/"
+    ]
+  ],
+  [
+    [
+      "2023-07-16, 11:38:00",
+      "https://news.ycombinator.com/item?id=36745858"
+    ],
+    [
+      "TODO apps are meant for robots",
+      "https://frantic.im/todo-for-robots/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Linux DCE, CORBA, and DCOM Guide (2001)",
       "http://linas.org/linux/corba.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-15, 20:30:13",
+      "https://news.ycombinator.com/item?id=36740653"
+    ],
+    [
+      "Bell Labs Holmdel Complex (2019)",
+      "https://www.abandonedamerica.us/bell-labs"
     ]
   ],
   [
