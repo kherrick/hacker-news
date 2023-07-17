@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 19:33:30](https://news.ycombinator.com/item?id=36762879) - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
+* [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 19:15:35](https://news.ycombinator.com/item?id=36762673) - [Ford slashes prices of F-150 Lightning trucks as EV wars heat up](https://www.reuters.com/business/autos-transportation/ford-slashes-prices-f-150-lightning-trucks-base-variant-cost-17-less-2023-07-17/)
 * [2023-07-17, 18:43:44](https://news.ycombinator.com/item?id=36762284) - [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)
 * [2023-07-17, 18:21:45](https://news.ycombinator.com/item?id=36761988) - [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
@@ -12,7 +14,6 @@
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
-* [2023-07-17, 13:09:04](https://news.ycombinator.com/item?id=36757822) - [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
 * [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality](https://www.lelanthran.com/chap9/content.html)
 * [2023-07-17, 12:55:36](https://news.ycombinator.com/item?id=36757688) - [Kata Containers: Virtual Machines that feel and perform like containers](https://katacontainers.io/)
 * [2023-07-17, 12:44:09](https://news.ycombinator.com/item?id=36757542) - [A Firefox-only minimap (2021)](https://www.stefanjudis.com/a-firefox-only-minimap/)
@@ -27,7 +28,6 @@
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
 * [2023-07-16, 01:04:53](https://news.ycombinator.com/item?id=36742457) - [A Tribute to the Compucolor II (2013)](http://compucolor.org/)
-* [2023-07-15, 13:43:00](https://news.ycombinator.com/item?id=36736671) - [She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)
 * [2023-07-15, 07:36:25](https://news.ycombinator.com/item?id=36734479) - [Minify and Gzip (2022)](https://blog.wesleyac.com/posts/minify-and-gzip)
 * [2023-07-14, 11:49:22](https://news.ycombinator.com/item?id=36722491) - [The Secret Life of Deep Sea Vents](https://nautil.us/the-secret-life-of-deep-sea-vents-353244/)
 
