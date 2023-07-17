@@ -23,6 +23,7 @@
 * [2023-07-15, 19:57:57](https://news.ycombinator.com/item?id=36740400) - [Planes and Helicopters That Don't Require a Pilots License](https://pilotinstitute.com/flying-without-a-license/)
 * [2023-07-15, 19:56:30](https://news.ycombinator.com/item?id=36740385) - [Metaculus](https://www.metaculus.com/home/)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
+* [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
 * [2023-07-15, 19:53:52](https://news.ycombinator.com/item?id=36740357) - [Nailing jelly to a wall: is it possible?](https://greem.co.uk/otherbits/jelly.html)
 * [2023-07-15, 19:51:23](https://news.ycombinator.com/item?id=36740332) - [The Tantalizing, Lonely Search for Alien Life](https://newrepublic.com/article/172104/tantalizing-lonely-search-alien-life-jaime-green-book-review)
 * [2023-07-15, 19:49:50](https://news.ycombinator.com/item?id=36740321) - [Winterover Statistics (2004)](http://www.southpolestation.com/trivia/wo.html)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
+* [2023-07-17, 01:43:21](https://news.ycombinator.com/item?id=36753175) - [Camneerg: The Mac Plus Web Server](https://www.spacerogue.net/Camneerg/)
 * [2023-07-17, 01:14:06](https://news.ycombinator.com/item?id=36753032) - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
-* [2023-07-17, 00:09:24](https://news.ycombinator.com/item?id=36752681) - [Ord Phone](https://ordphone.com)
 * [2023-07-16, 23:53:03](https://news.ycombinator.com/item?id=36752581) - [LOGO Manual by Abelson, Goodman, and Rudolph (1974) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
 * [2023-07-16, 23:49:02](https://news.ycombinator.com/item?id=36752561) - [Ill in England? Your Location Can Determine If You Live or Die](https://www.bloomberg.com/graphics/2023-nhs-missing-targets-on-75th-anniversary/)
 * [2023-07-16, 23:35:11](https://news.ycombinator.com/item?id=36752490) - [Symbolics CGI production notes: How Stanley and Stella came together (1988)](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
@@ -22,14 +23,13 @@
 * [2023-07-16, 15:11:37](https://news.ycombinator.com/item?id=36747893) - [The Pacific Northwest Tree Octopus](https://zapatopi.net/treeoctopus/)
 * [2023-07-16, 13:19:52](https://news.ycombinator.com/item?id=36746691) - [Speeding up the Super Game Boy](https://nicole.express/2023/super-game-boy-can-go-fast-too.html)
 * [2023-07-16, 12:35:45](https://news.ycombinator.com/item?id=36746274) - [A PostgreSQL Docker container that automatically upgrades PostgreSQL](https://github.com/justinclift/docker-pgautoupgrade)
+* [2023-07-16, 12:20:32](https://news.ycombinator.com/item?id=36746154) - [Discord is not documentation](https://shkspr.mobi/blog/2023/07/discord-is-not-documentation/)
 * [2023-07-16, 12:05:33](https://news.ycombinator.com/item?id=36746047) - [Penrose 3.0](https://penrose.cs.cmu.edu/blog/v3)
-* [2023-07-16, 11:13:11](https://news.ycombinator.com/item?id=36745664) - [Unauthenticated RCE on a RIGOL oscilloscope](https://tortel.li/post/insecure-scope/)
+* [2023-07-16, 11:53:30](https://news.ycombinator.com/item?id=36745961) - [Lisp Programming on an Atari 2600](https://forums.atariage.com/topic/353031-lisp-programming-homebrew-wip/)
 * [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make (1987) [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
 * [2023-07-15, 21:33:41](https://news.ycombinator.com/item?id=36741154) - [Linux DCE, CORBA, and DCOM Guide (2001)](http://linas.org/linux/corba.html)
-* [2023-07-15, 20:30:13](https://news.ycombinator.com/item?id=36740653) - [Bell Labs Holmdel Complex (2019)](https://www.abandonedamerica.us/bell-labs)
 * [2023-07-15, 19:55:15](https://news.ycombinator.com/item?id=36740371) - [CPUlator Computer System Simulator](https://cpulator.01xz.net/)
-* [2023-07-15, 15:06:23](https://news.ycombinator.com/item?id=36737469) - [From second thoughts on the germ theory to a full-blown host theory](https://www.pnas.org/doi/10.1073/pnas.2301186120)
-* [2023-07-15, 04:29:05](https://news.ycombinator.com/item?id=36733488) - [The deadly “dancing plague” of 1518](https://bigthink.com/the-past/dancing-plague-middle-ages/)
+* [2023-07-15, 19:55:04](https://news.ycombinator.com/item?id=36740368) - [Commodore 64 VIC-II 6567/6569 Replacement Project](https://github.com/randyrossi/vicii-kawari)
 
 ## [Archives](archives/index.md)
 
