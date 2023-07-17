@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
+* [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
+* [2023-07-17, 13:51:43](https://news.ycombinator.com/item?id=36758233) - [Copy is all you need](https://arxiv.org/abs/2307.06962)
+* [2023-07-17, 13:45:52](https://news.ycombinator.com/item?id=36758177) - [The Odyssey by Homer, Translated by Samuel Butler](https://www.gutenberg.org/files/1727/1727-h/1727-h.htm)
+* [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 * [2023-07-17, 13:09:04](https://news.ycombinator.com/item?id=36757822) - [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
 * [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality (1)](https://www.lelanthran.com/chap9/content.html)
 * [2023-07-17, 13:04:27](https://news.ycombinator.com/item?id=36757778) - [Wix’s new tool can create entire websites from prompts](https://techcrunch.com/2023/07/17/wixs-new-tool-can-create-entire-websites-from-prompts/)
