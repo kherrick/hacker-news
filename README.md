@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 17:49:08](https://news.ycombinator.com/item?id=36761498) - [Glass Health (YC W23) is hiring a full-stack engineer in SF to build for doctors](https://news.ycombinator.com/item?id=36761498)
 * [2023-07-17, 17:13:03](https://news.ycombinator.com/item?id=36760955) - [2500 Job apps, 46 interviews, 1 offer](https://www.teamblind.com/post/2500-Job-apps-46-interviews-1-offer-hm028GVg)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
 * [2023-07-17, 15:21:38](https://news.ycombinator.com/item?id=36759326) - [California's Death Valley crosses 53° Celsius as blistering heat wave continues](https://www.hindustantimes.com/world-news/heat-wave-california-death-valley-hottest-temperature-climate-change-global-warming-101689555716777.html)
@@ -24,7 +25,6 @@
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
 * [2023-07-16, 22:51:20](https://news.ycombinator.com/item?id=36752215) - [Medicine containers used in the golden age of piracy](http://www.piratesurgeon.com/pages/surgeon_pages/medicine_containers1.html)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater ears everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
-* [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/#the-perfect-laptop)
 * [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
 * [2023-07-16, 00:38:15](https://news.ycombinator.com/item?id=36742279) - [Loss of Mid in English: Free Peasantry and Their Linguistic Advantage](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-968X.12268)
 * [2023-07-15, 13:43:00](https://news.ycombinator.com/item?id=36736671) - [She Turns Fluids into 'Black Holes' and 'Inflating Universes'](https://www.quantamagazine.org/she-turns-fluids-into-black-holes-and-inflating-universes-20221212/)
