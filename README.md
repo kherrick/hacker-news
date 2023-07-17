@@ -19,7 +19,7 @@
 * [2023-07-17, 10:04:00](https://news.ycombinator.com/item?id=36756101) - [Temporary ban on behavioural advertising on Facebook and Instagram](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/temporary-ban-of-behavioural-advertising-on-facebook-and-instagram/)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting (2018)](https://www.backyardmetalcasting.com/)
 * [2023-07-17, 01:52:48](https://news.ycombinator.com/item?id=36753225) - [LazyVim](https://www.lazyvim.org/)
-* [2023-07-16, 23:24:02](https://news.ycombinator.com/item?id=36752419) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
+* [2023-07-17, 01:14:06](https://news.ycombinator.com/item?id=36753032) - [Johnson and Johnson sues researchers who linked talc to cancer](https://www.reuters.com/legal/litigation/johnson-johnson-sues-researchers-who-linked-talc-cancer-2023-07-13/)
 * [2023-07-16, 22:51:20](https://news.ycombinator.com/item?id=36752215) - [Medicine containers used in the golden age of piracy](http://www.piratesurgeon.com/pages/surgeon_pages/medicine_containers1.html)
 * [2023-07-16, 19:44:19](https://news.ycombinator.com/item?id=36750716) - [Underwater ears everywhere](https://computer.rip/2023-07-15-underwater-ears-everywhere.html)
 * [2023-07-16, 12:08:23](https://news.ycombinator.com/item?id=36746073) - [Connected: An Internet Encyclopedia (1997)](https://u20.freesoft.org/CIE/)
