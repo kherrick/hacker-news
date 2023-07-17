@@ -4,10 +4,16 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 13:09:04](https://news.ycombinator.com/item?id=36757822) - [Crosswords and chess may help more than socializing in avoiding dementia](https://medicalxpress.com/news/2023-07-crosswords-chess-socializing-dementia.html)
+* [2023-07-17, 13:04:27](https://news.ycombinator.com/item?id=36757778) - [Wix’s new tool can create entire websites from prompts](https://techcrunch.com/2023/07/17/wixs-new-tool-can-create-entire-websites-from-prompts/)
+* [2023-07-17, 12:44:09](https://news.ycombinator.com/item?id=36757542) - [A Firefox-Only Minimap](https://www.stefanjudis.com/a-firefox-only-minimap/)
+* [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
+* [2023-07-17, 12:28:45](https://news.ycombinator.com/item?id=36757413) - [Norwegian DPA temporarily bans behavioral advertising on Facebook and Instagram](https://noyb.eu/en/norway-temporary-ban-behavioral-ads-facebook)
 * [2023-07-17, 12:19:36](https://news.ycombinator.com/item?id=36757334) - [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
 * [2023-07-17, 10:29:09](https://news.ycombinator.com/item?id=36756257) - [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
 * [2023-07-17, 10:20:36](https://news.ycombinator.com/item?id=36756201) - [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
 * [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
+* [2023-07-17, 10:04:00](https://news.ycombinator.com/item?id=36756101) - [Norwegian DPA: Temporary ban on behavioural advertising on Facebook, Instagram](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/temporary-ban-of-behavioural-advertising-on-facebook-and-instagram/)
 * [2023-07-17, 09:49:27](https://news.ycombinator.com/item?id=36755994) - [Byte Fanless Mini PC – Built for Linux](https://us.starlabs.systems/pages/byte)
 * [2023-07-17, 09:03:57](https://news.ycombinator.com/item?id=36755732) - [Deloitte Australia CEO tells Senate committee his work not worth $3.5mAUD salary](https://www.abc.net.au/news/2023-07-17/deloitte-ceo-fronts-senate-committe-into-integrity/102610116)
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)

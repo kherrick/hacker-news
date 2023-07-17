@@ -80,4 +80,5 @@
 * [2023-07-16, 01:00:37](https://news.ycombinator.com/item?id=36742428) - [New study gives clues on why exercise helps with inflammation](https://www.sciencedaily.com/releases/2023/06/230615183114.htm)
 * [2023-07-16, 00:56:04](https://news.ycombinator.com/item?id=36742400) - [Startup aims to make lab-grown human eggs from anyone's cells](https://www.npr.org/sections/health-shots/2023/07/15/1184298351/conception-human-eggs-ivg-ivf-infertility)
 * [2023-07-16, 00:43:28](https://news.ycombinator.com/item?id=36742311) - [The Haskell job market has been growing steaily since 2008](https://github.com/nh2/haskell-jobs-statistics)
+* [2023-07-16, 00:38:15](https://news.ycombinator.com/item?id=36742279) - [Loss of Mid in English: Free Peasantry and Their Linguistic Advantage](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-968X.12268)
 * [2023-07-16, 00:28:54](https://news.ycombinator.com/item?id=36742223) - [Unihertz Jelly 2E – smartphone with 3“ screen](https://www.unihertz.com/products/jelly-2e)
