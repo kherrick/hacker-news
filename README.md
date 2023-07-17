@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 21:44:22](https://news.ycombinator.com/item?id=36764489) - [US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows](https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view)
 * [2023-07-17, 21:32:18](https://news.ycombinator.com/item?id=36764389) - [AI Watches Millions of Cars and Tells Cops If You’re Driving Like a Criminal](https://www.forbes.com/sites/thomasbrewster/2023/07/17/license-plate-reader-ai-criminal/)
 * [2023-07-17, 21:00:24](https://news.ycombinator.com/item?id=36764004) - [Etleap (YC W13) Is Hiring a Software Engineer (London)](https://etleap.com/careers/software-engineer/)
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
@@ -10,8 +11,6 @@
 * [2023-07-17, 19:33:30](https://news.ycombinator.com/item?id=36762879) - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
 * [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 18:58:37](https://news.ycombinator.com/item?id=36762465) - [uyuni – open-source configuration and infrastructure management](https://www.uyuni-project.org/)
-* [2023-07-17, 18:43:44](https://news.ycombinator.com/item?id=36762284) - [Crystal 1.9.1](https://crystal-lang.org/2023/07/17/1.9.1-released/)
-* [2023-07-17, 18:21:45](https://news.ycombinator.com/item?id=36761988) - [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
 * [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)
 * [2023-07-17, 17:56:57](https://news.ycombinator.com/item?id=36761623) - [A technical look at ZeroNet](https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
@@ -27,6 +26,7 @@
 * [2023-07-17, 12:09:49](https://news.ycombinator.com/item?id=36757213) - [Writing Hurl's Grammar, Twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 11:19:05](https://news.ycombinator.com/item?id=36756606) - [‘The Man Who Organized Nature’: Linnaeus](https://www.wsj.com/articles/the-man-who-organized-nature-review-linnaeus-the-namer-673a3305)
 * [2023-07-17, 08:24:33](https://news.ycombinator.com/item?id=36755509) - [My broken ThinkPad plays music upon booting](https://nerology.substack.com/p/my-broken-thinkpad-plays-music-upon)
+* [2023-07-16, 08:13:24](https://news.ycombinator.com/item?id=36744702) - [How to Convert Bytes to Grams](https://thatxliner.github.io/blog/posts/how-to-convert-bytes-to-grams/)
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-16, 04:24:20](https://news.ycombinator.com/item?id=36743623) - [Miyazaki has used the art of animation to study the major problem of adult life](https://www.nybooks.com/online/2023/07/13/loves-work-hayao-miyazaki/)
 * [2023-07-16, 01:04:53](https://news.ycombinator.com/item?id=36742457) - [A Tribute to the Compucolor II (2013)](http://compucolor.org/)
