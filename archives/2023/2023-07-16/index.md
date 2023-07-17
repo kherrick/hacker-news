@@ -68,6 +68,7 @@
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 * [2023-07-16, 04:37:49](https://news.ycombinator.com/item?id=36743707) - [A Cure for Wellness](https://www.historytoday.com/archive/great-debates/cure-wellness)
 * [2023-07-16, 04:11:57](https://news.ycombinator.com/item?id=36743547) - [Are You a “Harbinger of Failure”?](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
+* [2023-07-16, 03:29:33](https://news.ycombinator.com/item?id=36743286) - [Birds Build Nests from Anti-Bird Spikes](https://www.nytimes.com/2023/07/13/science/magpies-birds-nests.html)
 * [2023-07-16, 02:26:05](https://news.ycombinator.com/item?id=36742920) - [Numbering Should Start at Zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
 * [2023-07-16, 01:51:49](https://news.ycombinator.com/item?id=36742748) - [Teddit Is Shutting Down](https://tedd.it/shutdown)
 * [2023-07-16, 01:47:11](https://news.ycombinator.com/item?id=36742725) - [WormGPT – The Generative AI Tool Cybercriminals Are Using](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
