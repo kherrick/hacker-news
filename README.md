@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-17, 17:13:03](https://news.ycombinator.com/item?id=36760955) - [2500 Job apps, 46 interviews, 1 offer](https://www.teamblind.com/post/2500-Job-apps-46-interviews-1-offer-hm028GVg)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
-* [2023-07-17, 15:57:44](https://news.ycombinator.com/item?id=36759801) - [Slack Takes an Important Step to Block Abuse](https://foundation.mozilla.org/en/blog/slack-takes-an-important-step-to-block-abuse/)
+* [2023-07-17, 15:21:38](https://news.ycombinator.com/item?id=36759326) - [California's Death Valley crosses 53° Celsius as blistering heat wave continues](https://www.hindustantimes.com/world-news/heat-wave-california-death-valley-hottest-temperature-climate-change-global-warming-101689555716777.html)
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon knew about toxic lead cables for decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
 * [2023-07-17, 14:08:28](https://news.ycombinator.com/item?id=36758433) - [Bad numbers in the “gzip beats BERT” paper?](https://kenschutte.com/gzip-knn-paper/)
 * [2023-07-17, 14:01:13](https://news.ycombinator.com/item?id=36758355) - [The force that shapes everything around us: Parking](https://www.vox.com/23712664/parking-lots-urban-planning-cities-housing)
@@ -17,7 +18,6 @@
 * [2023-07-17, 12:44:09](https://news.ycombinator.com/item?id=36757542) - [A Firefox-only minimap (2021)](https://www.stefanjudis.com/a-firefox-only-minimap/)
 * [2023-07-17, 12:41:54](https://news.ycombinator.com/item?id=36757520) - [Wikipedia-grounded chatbot “outperforms all baselines” on factual accuracy](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research)
 * [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
-* [2023-07-17, 10:04:00](https://news.ycombinator.com/item?id=36756101) - [Temporary ban on behavioural advertising on Facebook and Instagram](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/temporary-ban-of-behavioural-advertising-on-facebook-and-instagram/)
 * [2023-07-17, 08:24:33](https://news.ycombinator.com/item?id=36755509) - [My broken ThinkPad plays music upon booting](https://nerology.substack.com/p/my-broken-thinkpad-plays-music-upon)
 * [2023-07-17, 05:06:27](https://news.ycombinator.com/item?id=36754366) - [Show HN: Use DNS TXT to share information](https://news.ycombinator.com/item?id=36754366)
 * [2023-07-17, 05:01:05](https://news.ycombinator.com/item?id=36754348) - [Backyard Metalcasting (2018)](https://www.backyardmetalcasting.com/)

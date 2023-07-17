@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-17](index.md)
 
+* [2023-07-17, 17:13:03](https://news.ycombinator.com/item?id=36760955) - [2500 Job apps, 46 interviews, 1 offer](https://www.teamblind.com/post/2500-Job-apps-46-interviews-1-offer-hm028GVg)
 * [2023-07-17, 16:26:11](https://news.ycombinator.com/item?id=36760181) - [Unceremoniously banned by Twitter: retaliation, or the norm?](https://blog.webb.page/2023-07-17-twitter.txt)
 * [2023-07-17, 16:06:38](https://news.ycombinator.com/item?id=36759912) - [Giant telecom company that once almost bought Apple is on the brink of failure](https://fortune.com/2023/07/17/telecom-italia-almost-bought-apple-teetering-brink-failure/)
 * [2023-07-17, 16:04:24](https://news.ycombinator.com/item?id=36759882) - [A surprisingly simple way to foil car thieves](https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/)
 * [2023-07-17, 15:57:44](https://news.ycombinator.com/item?id=36759801) - [Slack Takes an Important Step to Block Abuse](https://foundation.mozilla.org/en/blog/slack-takes-an-important-step-to-block-abuse/)
+* [2023-07-17, 15:21:38](https://news.ycombinator.com/item?id=36759326) - [California's Death Valley crosses 53° Celsius as blistering heat wave continues](https://www.hindustantimes.com/world-news/heat-wave-california-death-valley-hottest-temperature-climate-change-global-warming-101689555716777.html)
 * [2023-07-17, 15:13:36](https://news.ycombinator.com/item?id=36759243) - [Ash HN: How can I make my idle CPU time useful to others?](https://news.ycombinator.com/item?id=36759243)
 * [2023-07-17, 15:06:49](https://news.ycombinator.com/item?id=36759162) - [Ask HN: Why does Firefox have such a low market share anyways?](https://news.ycombinator.com/item?id=36759162)
 * [2023-07-17, 14:30:48](https://news.ycombinator.com/item?id=36758680) - [What AT&T and Verizon Knew About Toxic Lead Cables for Decades](https://www.wsj.com/podcasts/the-journal/what-att-and-verizon-knew-about-toxic-lead-cables/a288b7d4-28f3-470e-b6c4-72341c97b3a0)
