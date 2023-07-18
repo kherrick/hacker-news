@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-18, 02:48:17](https://news.ycombinator.com/item?id=36767211) - [Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext)
-* [2023-07-18, 02:34:42](https://news.ycombinator.com/item?id=36767104) - [Lwn.net: PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
+* [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 * [2023-07-18, 01:43:02](https://news.ycombinator.com/item?id=36766700) - [fMRI-to-image with contrastive learning and diffusion priors](https://stability.ai/research/minds-eye)
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
@@ -26,7 +26,7 @@
 * [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality](https://www.lelanthran.com/chap9/content.html)
 * [2023-07-17, 12:44:09](https://news.ycombinator.com/item?id=36757542) - [A Firefox-only minimap (2021)](https://www.stefanjudis.com/a-firefox-only-minimap/)
 * [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
-* [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to Be an Independent Contractor](https://jacquesmattheij.com/be-consultant/)
+* [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-15, 18:19:45](https://news.ycombinator.com/item?id=36739565) - [The Problem with Slow Tools](https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html)
 * [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics](https://omniglot.com/writing/cree.htm)
 * [2023-07-14, 10:51:39](https://news.ycombinator.com/item?id=36722112) - [Alto Trek, a networked multiplayer game from 1978](https://en.wikipedia.org/wiki/Alto_Trek)

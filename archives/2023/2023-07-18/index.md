@@ -6,6 +6,7 @@
 
 * [2023-07-18, 02:48:17](https://news.ycombinator.com/item?id=36767211) - [Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext)
 * [2023-07-18, 02:34:42](https://news.ycombinator.com/item?id=36767104) - [Lwn.net: PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
+* [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 * [2023-07-18, 01:43:02](https://news.ycombinator.com/item?id=36766700) - [fMRI-to-Image with Contrastive Learning and Diffusion Priors](https://stability.ai/research/minds-eye)
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [StableDiffusion can now run directly in the browser on WebGPU](https://islamov.ai/stable-diffusion-webgpu/)
