@@ -35,6 +35,7 @@
 * [2023-07-15, 18:56:25](https://news.ycombinator.com/item?id=36739848) - [Show HN: Simulating two gears in my game](https://old.reddit.com/r/indiegames/comments/150jcyz/simulating_two_gears_in_my_game/)
 * [2023-07-15, 18:35:31](https://news.ycombinator.com/item?id=36739688) - [Unloop: A generative music looper that doesn’t repeat itself](https://github.com/hugofloresgarcia/unloop)
 * [2023-07-15, 18:24:10](https://news.ycombinator.com/item?id=36739602) - [Creative people enjoy idle time more than others](https://news.arizona.edu/story/creative-people-enjoy-idle-time-more-others)
+* [2023-07-15, 18:19:45](https://news.ycombinator.com/item?id=36739565) - [The Problem with Slow Tools](https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html)
 * [2023-07-15, 17:58:07](https://news.ycombinator.com/item?id=36739386) - [The phase transition of creativity: Symmetry breaking in diffusion models](https://gabrielraya.com/blog/2023/symmetry-breaking-diffusion-models/)
 * [2023-07-15, 17:49:12](https://news.ycombinator.com/item?id=36739320) - [Receiving Unintentional Voice Transmissions from GPS Satellites](https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/)
 * [2023-07-15, 17:45:05](https://news.ycombinator.com/item?id=36739283) - [“The Famous F40” Vector Illustration](https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/)
