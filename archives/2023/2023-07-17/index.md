@@ -63,6 +63,7 @@
 * [2023-07-17, 12:41:54](https://news.ycombinator.com/item?id=36757520) - [Wikipedia-grounded chatbot “outperforms all baselines” on factual accuracy](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research)
 * [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Problem-Solving](https://nabeelqu.substack.com/p/notes-on-puzzles)
 * [2023-07-17, 12:28:45](https://news.ycombinator.com/item?id=36757413) - [Norwegian DPA temporarily bans behavioral advertising on Facebook and Instagram](https://noyb.eu/en/norway-temporary-ban-behavioral-ads-facebook)
+* [2023-07-17, 12:26:39](https://news.ycombinator.com/item?id=36757400) - [How to Build a Big Prime Number](https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/)
 * [2023-07-17, 12:19:36](https://news.ycombinator.com/item?id=36757334) - [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
 * [2023-07-17, 12:09:49](https://news.ycombinator.com/item?id=36757213) - [Writing Hurl's Grammar, Twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 11:19:05](https://news.ycombinator.com/item?id=36756606) - [‘The Man Who Organized Nature’ Review: Linnaeus the Namer](https://www.wsj.com/articles/the-man-who-organized-nature-review-linnaeus-the-namer-673a3305)

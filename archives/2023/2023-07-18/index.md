@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
+* [2023-07-18, 10:46:26](https://news.ycombinator.com/item?id=36770320) - [Linux has nearly half of the desktop OS Linux market](https://www.theregister.com/2023/07/18/linux_desktop_debate/)
 * [2023-07-18, 10:30:29](https://news.ycombinator.com/item?id=36770235) - [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)
 * [2023-07-18, 10:11:42](https://news.ycombinator.com/item?id=36770135) - [Opening the Codebase Up to Everyone](https://ghiculescu.substack.com/p/opening-the-codebase-up-to-everyone)
 * [2023-07-18, 09:52:05](https://news.ycombinator.com/item?id=36769998) - [VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
