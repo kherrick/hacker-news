@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-15](index.md)
 
 * [2023-07-15, 23:49:52](https://news.ycombinator.com/item?id=36741990) - [Ada Outperforms Assembly: A Case Study](https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html)
+* [2023-07-15, 23:47:27](https://news.ycombinator.com/item?id=36741976) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 23:33:11](https://news.ycombinator.com/item?id=36741910) - [A Third of North America’s Birds Have Vanished](https://nautil.us/a-third-of-north-americas-birds-have-vanished-340007/)
 * [2023-07-15, 22:47:53](https://news.ycombinator.com/item?id=36741620) - [Nobody cares about your blog](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
 * [2023-07-15, 22:22:58](https://news.ycombinator.com/item?id=36741476) - [Lets-Plot: An open-source plotting library by JetBrains](https://lets-plot.org/)

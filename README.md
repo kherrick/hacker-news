@@ -25,9 +25,9 @@
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-16, 23:37:24](https://news.ycombinator.com/item?id=36752501) - [Three Reviews of J. Weizenbaum’s Computer Power and Human Reason (1976) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA044713.pdf)
 * [2023-07-16, 08:51:01](https://news.ycombinator.com/item?id=36744888) - [The Homepage of the Oldternet](https://www.geocities.ws/oldternet/)
-* [2023-07-16, 08:24:17](https://news.ycombinator.com/item?id=36744762) - [OpenBenches – A map of memorial benches](https://openbenches.org/)
 * [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
 * [2023-07-16, 00:12:53](https://news.ycombinator.com/item?id=36742131) - [“Kolmogorov music” by Christopher Ford (2015) [video]](https://www.youtube.com/watch?v=Qg3XOfioapI)
+* [2023-07-15, 23:47:27](https://news.ycombinator.com/item?id=36741976) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 13:48:41](https://news.ycombinator.com/item?id=36736723) - [Data-Oriented Design Principles](https://data-oriented.design/)
 * [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
 
