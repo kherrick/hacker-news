@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 * [2023-07-18, 17:29:12](https://news.ycombinator.com/item?id=36776221) - [Linear Programming in Python (2023)](https://slama.dev/youtube/linear-programming-in-python/)
 * [2023-07-18, 17:01:01](https://news.ycombinator.com/item?id=36775693) - [Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
@@ -11,7 +12,6 @@
 * [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
-* [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The office is a theatre for work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 * [2023-07-18, 14:53:10](https://news.ycombinator.com/item?id=36773363) - [G/O media will make more AI-generated stories despite critics](https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column)
 * [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to write a great README](https://www.appsmith.com/blog/write-a-great-readme)
 * [2023-07-18, 13:38:43](https://news.ycombinator.com/item?id=36771980) - [A Grub theme in the style of Minecraft](https://github.com/Lxtharia/minegrub-theme)
