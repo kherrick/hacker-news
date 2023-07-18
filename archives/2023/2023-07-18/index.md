@@ -82,6 +82,7 @@
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 * [2023-07-18, 01:57:45](https://news.ycombinator.com/item?id=36766816) - [The HTML review is an annual journal of literature made to exist on the web](https://thehtml.review/)
 * [2023-07-18, 01:43:02](https://news.ycombinator.com/item?id=36766700) - [fMRI-to-Image with Contrastive Learning and Diffusion Priors](https://stability.ai/research/minds-eye)
+* [2023-07-18, 01:31:41](https://news.ycombinator.com/item?id=36766631) - [Astronomers observe subpulse drifting and nulling of pulsar PSR J0026–1955](https://phys.org/news/2023-07-astronomers-subpulse-drifting-nulling-pulsar.html)
 * [2023-07-18, 01:20:37](https://news.ycombinator.com/item?id=36766556) - [Statistical Arbitrage – An Easy Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [StableDiffusion can now run directly in the browser on WebGPU](https://islamov.ai/stable-diffusion-webgpu/)
 * [2023-07-18, 01:00:27](https://news.ycombinator.com/item?id=36766395) - [MixRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=36766395)
