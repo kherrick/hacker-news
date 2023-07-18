@@ -39,6 +39,7 @@
 * [2023-07-18, 13:27:47](https://news.ycombinator.com/item?id=36771804) - [Cities are ending fares on transit. Here’s why](https://www.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html)
 * [2023-07-18, 13:22:35](https://news.ycombinator.com/item?id=36771737) - [Silicon Valley’s business model is a scam](https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7)
 * [2023-07-18, 13:22:15](https://news.ycombinator.com/item?id=36771729) - [I'm moving my projects off GitHub](https://ntietz.com/blog/moving-off-github/)
+* [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, Revolutionary, Cryptologist… Suspected Spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
 * [2023-07-18, 13:15:43](https://news.ycombinator.com/item?id=36771637) - [Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
 * [2023-07-18, 13:15:29](https://news.ycombinator.com/item?id=36771635) - [Apple Maps Gradually Winning over Google Maps Users, Report Suggests](https://www.macrumors.com/2023/07/18/apple-maps-winning-over-haters/)
 * [2023-07-18, 13:07:44](https://news.ycombinator.com/item?id=36771539) - [Why the Remote-Work Debate Stays So Heated](https://www.theatlantic.com/newsletters/archive/2023/07/remote-work-return-to-office-policies/674736/)
