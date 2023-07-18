@@ -13,6 +13,7 @@
 * [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans Font](https://identity.sweden.se/en/design-elements/typography)
 * [2023-07-18, 16:30:30](https://news.ycombinator.com/item?id=36775173) - [Llama 2: an open-source LLM](https://www.interconnects.ai/p/llama-2-from-meta)
 * [2023-07-18, 16:27:00](https://news.ycombinator.com/item?id=36775098) - [What I Learned about Payment Systems While Working at a Pizza Place](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
+* [2023-07-18, 16:24:45](https://news.ycombinator.com/item?id=36775054) - [Betterfox: User.js to harden Firefox and optimize privacy, security, and speed](https://github.com/yokoffing/Betterfox)
 * [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2 – Meta AI](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)

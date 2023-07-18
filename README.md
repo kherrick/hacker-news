@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-18, 17:38:34](https://news.ycombinator.com/item?id=36776382) - [In the Asian Flu of 1957-58, they rejected lockdowns (2021)](https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/)
 * [2023-07-18, 17:29:12](https://news.ycombinator.com/item?id=36776221) - [Linear Programming in Python (2023)](https://slama.dev/youtube/linear-programming-in-python/)
 * [2023-07-18, 17:01:01](https://news.ycombinator.com/item?id=36775693) - [Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
 * [2023-07-18, 16:47:53](https://news.ycombinator.com/item?id=36775475) - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 * [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
 * [2023-07-18, 16:30:30](https://news.ycombinator.com/item?id=36775173) - [Llama 2: an open-source LLM](https://www.interconnects.ai/p/llama-2-from-meta)
 * [2023-07-18, 16:27:00](https://news.ycombinator.com/item?id=36775098) - [Payment systems while working at a pizza place](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
+* [2023-07-18, 16:24:45](https://news.ycombinator.com/item?id=36775054) - [Betterfox: User.js to harden Firefox and optimize privacy, security, and speed](https://github.com/yokoffing/Betterfox)
 * [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
