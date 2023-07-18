@@ -20,7 +20,7 @@
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
 * [2023-07-17, 20:37:48](https://news.ycombinator.com/item?id=36763718) - [Are large language models a threat to digital public goods?](https://arxiv.org/abs/2307.07367)
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry Frankfurt has died](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
-* [2023-07-17, 19:55:01](https://news.ycombinator.com/item?id=36763175) - [The Nano ESP32](https://blog.arduino.cc/2023/07/17/introducing-the-nano-esp32-thats-iot/)
+* [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-16, 11:36:52](https://news.ycombinator.com/item?id=36745852) - [A novel solid, rechargeable air battery](https://www.waseda.jp/top/en/news/78001)
