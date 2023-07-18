@@ -7,6 +7,7 @@
 * [2023-07-17, 23:46:19](https://news.ycombinator.com/item?id=36765747) - [Strlcpy and strlcat added to glibc 2.38](https://sourceware.org/git/?p=glibc.git;a=commit;h=454a20c8756c9c1d55419153255fc7692b3d2199)
 * [2023-07-17, 23:29:12](https://news.ycombinator.com/item?id=36765558) - [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
 * [2023-07-17, 23:22:15](https://news.ycombinator.com/item?id=36765479) - [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
+* [2023-07-17, 23:20:52](https://news.ycombinator.com/item?id=36765466) - [Space Stations Without Compromise](https://www.gravitics.com/)
 * [2023-07-17, 22:45:56](https://news.ycombinator.com/item?id=36765116) - [Couples with Joint Checking Accounts Are Happier](https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad020/7077142)
 * [2023-07-17, 22:17:01](https://news.ycombinator.com/item?id=36764829) - [Ask HN: What ever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
 * [2023-07-17, 22:09:21](https://news.ycombinator.com/item?id=36764749) - [Incumbents vs. Startups in the AI Race](https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/)
