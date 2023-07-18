@@ -25,6 +25,7 @@
 * [2023-07-17, 19:33:30](https://news.ycombinator.com/item?id=36762879) - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
 * [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
 * [2023-07-17, 19:15:35](https://news.ycombinator.com/item?id=36762673) - [Ford slashes prices of F-150 Lightning trucks as EV wars heat up](https://www.reuters.com/business/autos-transportation/ford-slashes-prices-f-150-lightning-trucks-base-variant-cost-17-less-2023-07-17/)
+* [2023-07-17, 19:02:14](https://news.ycombinator.com/item?id=36762513) - [‘Everyday Utopia’ Review: The Road to Nowhere](https://www.wsj.com/articles/everyday-utopia-review-the-road-to-nowhere-1ca3ceb3)
 * [2023-07-17, 18:58:37](https://news.ycombinator.com/item?id=36762465) - [uyuni – open-source configuration and infrastructure management](https://www.uyuni-project.org/)
 * [2023-07-17, 18:45:05](https://news.ycombinator.com/item?id=36762301) - [WHO Aspartame Brouhaha](https://dynomight.net/aspartame-brouhaha/)
 * [2023-07-17, 18:43:44](https://news.ycombinator.com/item?id=36762284) - [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)

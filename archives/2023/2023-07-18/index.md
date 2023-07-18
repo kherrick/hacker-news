@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 16:27:00](https://news.ycombinator.com/item?id=36775098) - [What I Learned about Payment Systems While Working at a Pizza Place](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
+* [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2 – Meta AI](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 15:52:55](https://news.ycombinator.com/item?id=36774472) - [Whitewater Rafting on the Selway River in Idaho](https://fromthedesk.substack.com/p/trip-report-rafting-the-selway-to)
