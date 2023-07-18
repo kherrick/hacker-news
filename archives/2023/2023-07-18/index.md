@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 14:01:40](https://news.ycombinator.com/item?id=36772390) - [Ask HN: How to deal with 0.1X programmer colleagues?](https://news.ycombinator.com/item?id=36772390)
+* [2023-07-18, 13:38:43](https://news.ycombinator.com/item?id=36771980) - [Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
+* [2023-07-18, 13:35:36](https://news.ycombinator.com/item?id=36771928) - [Britain Is a Developing Country](https://www.sambowman.co/p/britain-is-a-developing-country)
 * [2023-07-18, 13:27:47](https://news.ycombinator.com/item?id=36771804) - [Cities are ending fares on transit. Here’s why](https://www.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html)
 * [2023-07-18, 13:22:35](https://news.ycombinator.com/item?id=36771737) - [Silicon Valley’s business model is a scam](https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7)
 * [2023-07-18, 13:15:43](https://news.ycombinator.com/item?id=36771637) - [Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
