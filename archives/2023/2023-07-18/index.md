@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 * [2023-07-18, 17:38:34](https://news.ycombinator.com/item?id=36776382) - [In the Asian Flu of 1957-58, they rejected lockdowns (2021)](https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/)
 * [2023-07-18, 17:29:12](https://news.ycombinator.com/item?id=36776221) - [Linear Programming in Python (2023)](https://slama.dev/youtube/linear-programming-in-python/)
 * [2023-07-18, 17:07:29](https://news.ycombinator.com/item?id=36775816) - [CloudFront Is Having an Outage](https://news.ycombinator.com/item?id=36775816)

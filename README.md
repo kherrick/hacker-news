@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 * [2023-07-18, 17:29:12](https://news.ycombinator.com/item?id=36776221) - [Linear Programming in Python (2023)](https://slama.dev/youtube/linear-programming-in-python/)
 * [2023-07-18, 17:01:01](https://news.ycombinator.com/item?id=36775693) - [Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
 * [2023-07-18, 16:47:53](https://news.ycombinator.com/item?id=36775475) - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
@@ -24,7 +25,6 @@
 * [2023-07-18, 07:50:32](https://news.ycombinator.com/item?id=36769173) - [Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-17, 19:02:14](https://news.ycombinator.com/item?id=36762513) - [‘Everyday Utopia’ Review: The Road to Nowhere](https://www.wsj.com/articles/everyday-utopia-review-the-road-to-nowhere-1ca3ceb3)
-* [2023-07-17, 18:43:42](https://news.ycombinator.com/item?id=36762283) - [Show HN: Rectfillcurve – generate rectangle-filling curves](https://hg.sr.ht/~dalke/rectfillcurve)
 * [2023-07-16, 22:37:13](https://news.ycombinator.com/item?id=36752123) - [Raven’s matrices](https://sep.stanford.edu/sep/jon/raven/)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
 * [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
