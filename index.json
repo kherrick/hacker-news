@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 15:01:39",
+      "https://news.ycombinator.com/item?id=36773554"
+    ],
+    [
+      "The Office Is a Theatre for Work (2019)",
+      "https://tomcritchlow.com/2019/11/18/yes-and/"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 14:34:29",
       "https://news.ycombinator.com/item?id=36773022"
     ],
@@ -67,6 +77,16 @@
     [
       "A Theory on Adam Instability in Large-Scale Machine Learning",
       "https://arxiv.org/abs/2304.09871"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 12:37:09",
+      "https://news.ycombinator.com/item?id=36771227"
+    ],
+    [
+      "Ten Years of “Go: The Good, the Bad, and the Meh”",
+      "https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "Stable Diffusion WebGPU demo",
       "https://islamov.ai/stable-diffusion-webgpu/"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 01:00:27",
-      "https://news.ycombinator.com/item?id=36766395"
-    ],
-    [
-      "MixRank (YC S11) is hiring global remote software engineers",
-      "https://news.ycombinator.com/item?id=36766395"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 23:46:19",
-      "https://news.ycombinator.com/item?id=36765747"
-    ],
-    [
-      "Strlcpy and strlcat added to glibc 2.38",
-      "https://sourceware.org/git/?p=glibc.git;a=commit;h=454a20c8756c9c1d55419153255fc7692b3d2199"
     ]
   ],
   [
