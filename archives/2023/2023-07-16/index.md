@@ -62,6 +62,7 @@
 * [2023-07-16, 09:31:37](https://news.ycombinator.com/item?id=36745104) - [Hutter Prize Submission 2021a: STARLIT and cmix (2021)](https://github.com/amargaritov/starlit)
 * [2023-07-16, 09:07:28](https://news.ycombinator.com/item?id=36744976) - [What the media won't tell you about US heat waves (2022)](https://rogerpielkejr.substack.com/p/what-the-media-wont-tell-you-about-9f9)
 * [2023-07-16, 09:03:30](https://news.ycombinator.com/item?id=36744955) - [Mk: A Successor to Make [pdf]](http://doc.cat-v.org/bell_labs/mk/mk.pdf)
+* [2023-07-16, 08:24:17](https://news.ycombinator.com/item?id=36744762) - [OpenBenches – A map of memorial benches](https://openbenches.org/)
 * [2023-07-16, 08:18:40](https://news.ycombinator.com/item?id=36744730) - [AmazonBasics Microwave: Accessible for People with Visual Impairments (2019)](https://www.afb.org/aw/20/12/16848)
 * [2023-07-16, 08:13:24](https://news.ycombinator.com/item?id=36744702) - [How to Convert Bytes to Grams](https://thatxliner.github.io/blog/posts/how-to-convert-bytes-to-grams/)
 * [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear Fission Fuel Is Inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
