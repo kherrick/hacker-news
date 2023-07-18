@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 17:01:01](https://news.ycombinator.com/item?id=36775693) - [Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
+* [2023-07-18, 16:54:30](https://news.ycombinator.com/item?id=36775576) - [17.1 Salesforce Towers worth of empty office space spread across SF](https://socketsite.com/archives/2023/07/enough-empty-office-space-for-178000-people-in-san-francisco.html)
+* [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans Font](https://identity.sweden.se/en/design-elements/typography)
 * [2023-07-18, 16:27:00](https://news.ycombinator.com/item?id=36775098) - [What I Learned about Payment Systems While Working at a Pizza Place](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
 * [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2 – Meta AI](https://ai.meta.com/llama/)
@@ -23,13 +26,10 @@
 * [2023-07-17, 19:02:14](https://news.ycombinator.com/item?id=36762513) - [‘Everyday Utopia’ Review: The Road to Nowhere](https://www.wsj.com/articles/everyday-utopia-review-the-road-to-nowhere-1ca3ceb3)
 * [2023-07-17, 18:43:42](https://news.ycombinator.com/item?id=36762283) - [Show HN: Rectfillcurve – generate rectangle-filling curves](https://hg.sr.ht/~dalke/rectfillcurve)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
-* [2023-07-16, 23:37:24](https://news.ycombinator.com/item?id=36752501) - [Three Reviews of J. Weizenbaum’s Computer Power and Human Reason (1976) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA044713.pdf)
-* [2023-07-16, 08:51:01](https://news.ycombinator.com/item?id=36744888) - [The Homepage of the Oldternet](https://www.geocities.ws/oldternet/)
 * [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
 * [2023-07-16, 00:12:53](https://news.ycombinator.com/item?id=36742131) - [“Kolmogorov music” by Christopher Ford (2015) [video]](https://www.youtube.com/watch?v=Qg3XOfioapI)
 * [2023-07-15, 23:47:27](https://news.ycombinator.com/item?id=36741976) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 13:48:41](https://news.ycombinator.com/item?id=36736723) - [Data-Oriented Design Principles](https://data-oriented.design/)
-* [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
 
 ## [Archives](archives/index.md)
 

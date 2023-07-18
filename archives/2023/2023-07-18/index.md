@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 17:01:01](https://news.ycombinator.com/item?id=36775693) - [Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
+* [2023-07-18, 16:54:30](https://news.ycombinator.com/item?id=36775576) - [17.1 Salesforce Towers worth of empty office space spread across SF](https://socketsite.com/archives/2023/07/enough-empty-office-space-for-178000-people-in-san-francisco.html)
+* [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans Font](https://identity.sweden.se/en/design-elements/typography)
 * [2023-07-18, 16:27:00](https://news.ycombinator.com/item?id=36775098) - [What I Learned about Payment Systems While Working at a Pizza Place](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
 * [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2 – Meta AI](https://ai.meta.com/llama/)
