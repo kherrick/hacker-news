@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-07-18, 20:37:03",
-      "https://news.ycombinator.com/item?id=36778730"
-    ],
-    [
-      "Qualcomm works with Meta to enable on-device AI applications using Llama 2",
-      "https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 20:26:23",
       "https://news.ycombinator.com/item?id=36778617"
     ],
@@ -267,6 +257,16 @@
     [
       "Bell Labs Holmdel Computer Center (1973)",
       "https://www.youtube.com/watch?v=HMYiktO0D64"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 07:50:32",
+      "https://news.ycombinator.com/item?id=36769173"
+    ],
+    [
+      "Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)",
+      "https://github.com/stalwartlabs/mail-server"
     ]
   ],
   [
