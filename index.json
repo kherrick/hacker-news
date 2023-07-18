@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 18:22:16",
+      "https://news.ycombinator.com/item?id=36777053"
+    ],
+    [
+      "Citus 12: Schema-based sharding for PostgreSQL",
+      "https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 17:29:12",
       "https://news.ycombinator.com/item?id=36776221"
     ],
@@ -237,16 +247,6 @@
     [
       "‘Everyday Utopia’ Review: The Road to Nowhere",
       "https://www.wsj.com/articles/everyday-utopia-review-the-road-to-nowhere-1ca3ceb3"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 18:43:42",
-      "https://news.ycombinator.com/item?id=36762283"
-    ],
-    [
-      "Show HN: Rectfillcurve – generate rectangle-filling curves",
-      "https://hg.sr.ht/~dalke/rectfillcurve"
     ]
   ],
   [
