@@ -12,6 +12,7 @@
 * [2023-07-16, 22:55:31](https://news.ycombinator.com/item?id=36752247) - [“That Deep Romantic Chasm”: Libertarianism, Neoliberalism, & Computer Culture](https://www.uvm.edu/~tstreete/romantic_chasm.html)
 * [2023-07-16, 22:51:20](https://news.ycombinator.com/item?id=36752215) - [Medicine containers used in the golden age of piracy](http://www.piratesurgeon.com/pages/surgeon_pages/medicine_containers1.html)
 * [2023-07-16, 22:41:39](https://news.ycombinator.com/item?id=36752146) - [Red Programming Language](https://www.red-lang.org/p/about.html)
+* [2023-07-16, 22:37:13](https://news.ycombinator.com/item?id=36752123) - [Raven’s matrices](https://sep.stanford.edu/sep/jon/raven/)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
 * [2023-07-16, 21:09:24](https://news.ycombinator.com/item?id=36751422) - [Dusk OS: 32-bit Forth OS. Useful during first stage of civilizational collapse](https://duskos.org/)
 * [2023-07-16, 21:06:17](https://news.ycombinator.com/item?id=36751399) - [Undocumented 8086 instructions, explained by the microcode](https://www.righto.com/2023/07/undocumented-8086-instructions.html)
