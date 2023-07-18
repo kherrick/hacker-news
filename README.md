@@ -2,7 +2,6 @@
 
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI Space and the Mental Imagery of Alien Minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-18, 03:27:01](https://news.ycombinator.com/item?id=36767452) - [AI: Startup vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
-* [2023-07-18, 03:07:38](https://news.ycombinator.com/item?id=36767330) - [Linux Hits All-Time High of 3% of Desktop PC Share After 30 Years](https://www.tomshardware.com/news/linux-hits-3-percent-client-pc-market-share)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 * [2023-07-18, 01:57:45](https://news.ycombinator.com/item?id=36766816) - [The HTML review is an annual journal of literature made to exist on the web](https://thehtml.review/)
@@ -26,6 +25,7 @@
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-16, 08:24:17](https://news.ycombinator.com/item?id=36744762) - [OpenBenches – A map of memorial benches](https://openbenches.org/)
+* [2023-07-16, 05:46:39](https://news.ycombinator.com/item?id=36744042) - [Running DOS Software from the Command-Line](https://www.pcjs.org/blog/2023/07/15/)
 * [2023-07-15, 18:19:45](https://news.ycombinator.com/item?id=36739565) - [The problem with slow tools (2021)](https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html)
 * [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics (2002)](https://omniglot.com/writing/cree.htm)
 * [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
