@@ -53,6 +53,7 @@
 * [2023-07-18, 12:46:13](https://news.ycombinator.com/item?id=36771304) - [Inconvenient Truths about TypeScript](https://fettblog.eu/5-truths-about-typescript/)
 * [2023-07-18, 12:37:09](https://news.ycombinator.com/item?id=36771227) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
+* [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Bell Labs Holmdel Computer Center (1973)](https://www.youtube.com/watch?v=HMYiktO0D64)
 * [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:27:21](https://news.ycombinator.com/item?id=36770624) - [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-07-18, 10:46:26](https://news.ycombinator.com/item?id=36770320) - [Linux has nearly half of the desktop OS Linux market](https://www.theregister.com/2023/07/18/linux_desktop_debate/)

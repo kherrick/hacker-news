@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-18, 20:37:03](https://news.ycombinator.com/item?id=36778730) - [Qualcomm Works with Meta to Enable On-Device AI Applications Using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
+* [2023-07-18, 20:37:03](https://news.ycombinator.com/item?id=36778730) - [Qualcomm works with Meta to enable on-device AI applications using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
 * [2023-07-18, 20:28:10](https://news.ycombinator.com/item?id=36778639) - [Companies Requiring Full-Time In-Office Are Struggling to Recruit New Employees](https://time.com/6294640/remote-work-winning/)
 * [2023-07-18, 20:26:23](https://news.ycombinator.com/item?id=36778617) - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 * [2023-07-18, 20:22:29](https://news.ycombinator.com/item?id=36778566) - [Val, a high-level systems programming language](https://www.val-lang.dev/)
@@ -23,13 +23,13 @@
 * [2023-07-18, 13:15:43](https://news.ycombinator.com/item?id=36771637) - [Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
+* [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Bell Labs Holmdel Computer Center (1973)](https://www.youtube.com/watch?v=HMYiktO0D64)
 * [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:27:21](https://news.ycombinator.com/item?id=36770624) - [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-07-18, 09:37:48](https://news.ycombinator.com/item?id=36769912) - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
 * [2023-07-18, 07:50:32](https://news.ycombinator.com/item?id=36769173) - [Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
-* [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
-* [2023-07-16, 22:37:13](https://news.ycombinator.com/item?id=36752123) - [Raven’s matrices](https://sep.stanford.edu/sep/jon/raven/)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
+* [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
 
 ## [Archives](archives/index.md)
 
