@@ -76,6 +76,7 @@
 * [2023-07-16, 05:46:39](https://news.ycombinator.com/item?id=36744042) - [Running DOS Software from the Command-Line](https://www.pcjs.org/blog/2023/07/15/)
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/#the-perfect-laptop)
+* [2023-07-16, 05:03:10](https://news.ycombinator.com/item?id=36743843) - [Overconfidence: How to Fail Spectacularly](https://fs.blog/bias-from-overconfidence/)
 * [2023-07-16, 04:51:38](https://news.ycombinator.com/item?id=36743784) - [How to Use AI to Do Stuff: An Opinionated Guide](https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated)
 * [2023-07-16, 04:37:49](https://news.ycombinator.com/item?id=36743707) - [A Cure for Wellness](https://www.historytoday.com/archive/great-debates/cure-wellness)
 * [2023-07-16, 04:24:20](https://news.ycombinator.com/item?id=36743623) - [Miyazaki has used the art of animation to study the major problem of adult life](https://www.nybooks.com/online/2023/07/13/loves-work-hayao-miyazaki/)
