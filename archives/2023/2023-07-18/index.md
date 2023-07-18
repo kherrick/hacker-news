@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 19:00:59](https://news.ycombinator.com/item?id=36777600) - [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
 * [2023-07-18, 18:53:45](https://news.ycombinator.com/item?id=36777502) - [The World Bakes Under Extreme Heat](https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d)
