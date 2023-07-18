@@ -1,22 +1,52 @@
 [
   [
     [
-      "2023-07-17, 22:45:56",
-      "https://news.ycombinator.com/item?id=36765116"
+      "2023-07-18, 01:14:58",
+      "https://news.ycombinator.com/item?id=36766523"
     ],
     [
-      "Couples with Joint Checking Accounts Are Happier",
-      "https://academic.oup.com/jcr/advance-article-abstract/doi/10.1093/jcr/ucad020/7077142"
+      "StableDiffusion can now run directly in the browser on WebGPU",
+      "https://islamov.ai/stable-diffusion-webgpu/"
     ]
   ],
   [
     [
-      "2023-07-17, 22:09:21",
-      "https://news.ycombinator.com/item?id=36764749"
+      "2023-07-18, 01:00:27",
+      "https://news.ycombinator.com/item?id=36766395"
     ],
     [
-      "Incumbents vs. Startups in the AI Race",
-      "https://blog.autopilot.fund/incumbents-vs-startups-in-the-ai-race/"
+      "MixRank (YC S11) Is Hiring",
+      "https://news.ycombinator.com/item?id=36766395"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 23:29:12",
+      "https://news.ycombinator.com/item?id=36765558"
+    ],
+    [
+      "Loss of smell may be an early sign of brain diseases",
+      "https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 23:22:15",
+      "https://news.ycombinator.com/item?id=36765479"
+    ],
+    [
+      "Never waste a midlife crisis",
+      "https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 22:17:01",
+      "https://news.ycombinator.com/item?id=36764829"
+    ],
+    [
+      "Ask HN: Whatever happened to the “coming wave” of delivery drones?",
+      "https://news.ycombinator.com/item?id=36764829"
     ]
   ],
   [
@@ -27,26 +57,6 @@
     [
       "Official Chrome extension to use iCloud Keychain Passwords",
       "https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 21:44:22",
-      "https://news.ycombinator.com/item?id=36764489"
-    ],
-    [
-      "US vs. Poller: Ruling says police can use iPhones to circumvent tinted windows",
-      "https://drive.google.com/file/d/1tFS1wmG8LtYdpvz_w-qnwYwa9Rac8DsZ/view"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 21:00:24",
-      "https://news.ycombinator.com/item?id=36764004"
-    ],
-    [
-      "Etleap (YC W13) Is Hiring a Software Engineer (London)",
-      "https://etleap.com/careers/software-engineer/"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=36763175"
     ],
     [
-      "Introducing the Nano ESP32",
+      "The Nano ESP32",
       "https://blog.arduino.cc/2023/07/17/introducing-the-nano-esp32-thats-iot/"
     ]
   ],
@@ -151,22 +161,12 @@
   ],
   [
     [
-      "2023-07-17, 16:04:24",
-      "https://news.ycombinator.com/item?id=36759882"
+      "2023-07-17, 17:34:20",
+      "https://news.ycombinator.com/item?id=36761290"
     ],
     [
-      "A surprisingly simple way to foil car thieves",
-      "https://news.umich.edu/a-surprisingly-simple-way-to-foil-car-thieves/"
-    ]
-  ],
-  [
-    [
-      "2023-07-17, 14:08:28",
-      "https://news.ycombinator.com/item?id=36758433"
-    ],
-    [
-      "Bad numbers in the “gzip beats BERT” paper?",
-      "https://kenschutte.com/gzip-knn-paper/"
+      "What's wrong with enterprise Linux",
+      "https://unix.foo/posts/enterprise-linux/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-07-17, 12:09:49",
-      "https://news.ycombinator.com/item?id=36757213"
-    ],
-    [
-      "Writing Hurl's Grammar, Twice",
-      "https://ntietz.com/blog/writing-hurl-grammar/"
-    ]
-  ],
-  [
-    [
       "2023-07-17, 11:19:05",
       "https://news.ycombinator.com/item?id=36756606"
     ],
@@ -297,6 +287,16 @@
     [
       "Cree Syllabics",
       "https://omniglot.com/writing/cree.htm"
+    ]
+  ],
+  [
+    [
+      "2023-07-14, 10:51:39",
+      "https://news.ycombinator.com/item?id=36722112"
+    ],
+    [
+      "Alto Trek, a networked multiplayer game from 1978",
+      "https://en.wikipedia.org/wiki/Alto_Trek"
     ]
   ]
 ]
