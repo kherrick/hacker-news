@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-18, 17:38:34",
-      "https://news.ycombinator.com/item?id=36776382"
-    ],
-    [
-      "In the Asian Flu of 1957-58, they rejected lockdowns (2021)",
-      "https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 17:29:12",
       "https://news.ycombinator.com/item?id=36776221"
     ],
@@ -67,6 +57,16 @@
     [
       "Payment systems while working at a pizza place",
       "https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 16:24:45",
+      "https://news.ycombinator.com/item?id=36775054"
+    ],
+    [
+      "Betterfox: User.js to harden Firefox and optimize privacy, security, and speed",
+      "https://github.com/yokoffing/Betterfox"
     ]
   ],
   [
