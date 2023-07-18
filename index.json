@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-18, 02:48:17",
-      "https://news.ycombinator.com/item?id=36767211"
-    ],
-    [
-      "Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial",
-      "https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 02:32:25",
       "https://news.ycombinator.com/item?id=36767092"
     ],
@@ -27,6 +17,16 @@
     [
       "The Drivers Cooperative: New York’s driver-owned ride-hailing app",
       "https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 01:57:45",
+      "https://news.ycombinator.com/item?id=36766816"
+    ],
+    [
+      "The HTML review is an annual journal of literature made to exist on the web",
+      "https://thehtml.review/"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=36766395"
     ],
     [
-      "MixRank (YC S11) Is Hiring Global Remote Software Engineers",
+      "Mixrank (YC S11) is hiring global remote software engineers",
       "https://news.ycombinator.com/item?id=36766395"
     ]
   ],
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2023-07-17, 18:45:05",
-      "https://news.ycombinator.com/item?id=36762301"
-    ],
-    [
-      "WHO aspartame brouhaha",
-      "https://dynomight.net/aspartame-brouhaha/"
-    ]
-  ],
-  [
-    [
       "2023-07-17, 17:59:22",
       "https://news.ycombinator.com/item?id=36761655"
     ],
@@ -217,6 +207,16 @@
     [
       "What's wrong with enterprise Linux",
       "https://unix.foo/posts/enterprise-linux/"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 13:54:07",
+      "https://news.ycombinator.com/item?id=36758267"
+    ],
+    [
+      "The PoWeR technique: a strategic approach to self-discipline",
+      "https://www.indiehackers.com/post/the-power-technique-a-strategic-approach-to-self-discipline-11bc6724d6"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=36739565"
     ],
     [
-      "The Problem with Slow Tools",
+      "The problem with slow tools (2021)",
       "https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html"
     ]
   ],
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=36722112"
     ],
     [
-      "Alto Trek, a networked multiplayer game from 1978",
+      "Alto Trek",
       "https://en.wikipedia.org/wiki/Alto_Trek"
     ]
   ]
