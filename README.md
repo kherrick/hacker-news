@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 15:38:26](https://news.ycombinator.com/item?id=36774239) - [Why ‘Dark Side of the Moon’ still matters at 50](https://www.washingtonpost.com/entertainment/music/2023/07/18/pink-floyd-dark-side-moon-50/)
 * [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The office is a theatre for work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 * [2023-07-18, 14:53:10](https://news.ycombinator.com/item?id=36773363) - [The plan is to flood Google search with AI garbage](https://www.theverge.com/2023/7/18/23798814/the-plan-is-to-flood-google-search-with-ai-garbage-it-is-not-a-secret-plan)
 * [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
@@ -19,7 +20,6 @@
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 01:43:02](https://news.ycombinator.com/item?id=36766700) - [fMRI-to-image with contrastive learning and diffusion priors](https://stability.ai/research/minds-eye)
-* [2023-07-18, 01:20:37](https://news.ycombinator.com/item?id=36766556) - [Statistical Arbitrage – An Easy Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
 * [2023-07-17, 12:26:39](https://news.ycombinator.com/item?id=36757400) - [How to Build a Big Prime Number](https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 15:38:26](https://news.ycombinator.com/item?id=36774239) - [Why ‘Dark Side of the Moon’ still matters at 50](https://www.washingtonpost.com/entertainment/music/2023/07/18/pink-floyd-dark-side-moon-50/)
 * [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The Office Is a Theatre for Work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 * [2023-07-18, 14:53:10](https://news.ycombinator.com/item?id=36773363) - [The plan is to flood Google search with AI garbage](https://www.theverge.com/2023/7/18/23798814/the-plan-is-to-flood-google-search-with-ai-garbage-it-is-not-a-secret-plan)
 * [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
