@@ -5,7 +5,7 @@
 * [2023-07-18, 01:57:45](https://news.ycombinator.com/item?id=36766816) - [The HTML review is an annual journal of literature made to exist on the web](https://thehtml.review/)
 * [2023-07-18, 01:43:02](https://news.ycombinator.com/item?id=36766700) - [fMRI-to-image with contrastive learning and diffusion priors](https://stability.ai/research/minds-eye)
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
-* [2023-07-18, 01:00:27](https://news.ycombinator.com/item?id=36766395) - [Mixrank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=36766395)
+* [2023-07-18, 01:00:27](https://news.ycombinator.com/item?id=36766395) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=36766395)
 * [2023-07-17, 23:46:19](https://news.ycombinator.com/item?id=36765747) - [Strlcpy and strlcat added to glibc 2.38](https://sourceware.org/git/?p=glibc.git;a=commit;h=454a20c8756c9c1d55419153255fc7692b3d2199)
 * [2023-07-17, 23:29:12](https://news.ycombinator.com/item?id=36765558) - [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
 * [2023-07-17, 23:22:15](https://news.ycombinator.com/item?id=36765479) - [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
@@ -28,7 +28,7 @@
 * [2023-07-17, 12:38:39](https://news.ycombinator.com/item?id=36757492) - [Notes on Puzzles](https://nabeelqu.substack.com/p/notes-on-puzzles)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-15, 18:19:45](https://news.ycombinator.com/item?id=36739565) - [The problem with slow tools (2021)](https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html)
-* [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics](https://omniglot.com/writing/cree.htm)
+* [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics (2002)](https://omniglot.com/writing/cree.htm)
 * [2023-07-14, 10:51:39](https://news.ycombinator.com/item?id=36722112) - [Alto Trek](https://en.wikipedia.org/wiki/Alto_Trek)
 
 ## [Archives](archives/index.md)
