@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI Space and the Mental Imagery of Alien Minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [The Businessmen Broke Hollywood, and Now They Don't Want to Pay Their Employees](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
 * [2023-07-18, 03:27:01](https://news.ycombinator.com/item?id=36767452) - [AI: Startup vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
@@ -13,7 +14,6 @@
 * [2023-07-17, 23:29:12](https://news.ycombinator.com/item?id=36765558) - [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
 * [2023-07-17, 23:22:15](https://news.ycombinator.com/item?id=36765479) - [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
 * [2023-07-17, 23:20:52](https://news.ycombinator.com/item?id=36765466) - [Space Stations Without Compromise](https://www.gravitics.com/)
-* [2023-07-17, 22:17:01](https://news.ycombinator.com/item?id=36764829) - [Ask HN: Whatever happened to the “coming wave” of delivery drones?](https://news.ycombinator.com/item?id=36764829)
 * [2023-07-17, 21:55:11](https://news.ycombinator.com/item?id=36764610) - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
 * [2023-07-17, 20:37:48](https://news.ycombinator.com/item?id=36763718) - [Are large language models a threat to digital public goods?](https://arxiv.org/abs/2307.07367)
