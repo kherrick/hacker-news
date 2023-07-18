@@ -129,6 +129,275 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="36774627">
+          <h3>
+            <a class="item" href="https://ai.meta.com/llama/"
+              >Llama 2 – Meta AI</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-18 @ 16:01:49</span
+              ><span class="points-container"
+                >Points: <span class="points">319</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36774627"
+                  >Comments</a
+                ><span class="descendants">: 79</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36774611">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=36774611"
+              >Launch HN: Highlight.io (YC W23) – Open-source, full stack web
+              app monitoring</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-18 @ 16:01:08</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36774611"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://highlight.io">https://highlight.io</a>). We’re
+              building a truly open source [1] observability platform for modern
+              web applications. We posted some of our tools to HN in recent
+              months [2][3]. Today, we’re excited to formally launch the
+              project, share more about where we’re going, and of course, poll
+              the community for some feedback. A bit of background: Vadim and I
+              have worked at quite a few startups at this point, and a recurring
+              challenge we’ve faced was tracing usability issues on the frontend
+              to downstream errors and logs on the server. Understanding the
+              real reason behind customer issues was always a chaotic juggling
+              of multiple tools. With the rise of "frontend-forward" frameworks
+              such as NextJS, which blur the boundary between the client and
+              server, the complexity of tracing these issues is only growing.
+              <p>
+                This is where Highlight.io comes in: our product bridges the gap
+                between client and server to give you a holistic view of your
+                entire application.
+              </p>
+              <p>
+                At its core, Highlight.io has three main “products”: Session
+                Replay, Error Monitoring, and Logging. The novelty here is not
+                in each product but in how they are connected. For example, in
+                Highlight.io it’s very easy to click from a given error to the
+                associated user session where it is thrown [4], and from a given
+                error, you can easily inspect all of the logs that fired leading
+                up to it. Ensuring that all of our products work together
+                seamlessly with little to no effort is a core principle of our
+                product strategy. If you’re using a common framework [5], for
+                example, we’ll automatically link your frontend sessions with
+                backend errors and logs. No agents, configuring facets, or
+                anything else, It just works.
+              </p>
+              <p>
+                We depend on several open source projects that help us move
+                quickly. OpenTelemetry (OTEL) [6] is one of them, which helps us
+                with maintainability, i.e. for every language that we support,
+                we only maintain a thin wrapper around its respective OTEL SDK.
+                OTEL is also a great way to enable the community to contribute,
+                and we’re already seeing traction in this space (ie. an open
+                source contributor built a wrapper for a Java SDK [7]).
+              </p>
+              <p>
+                rrweb [8] is another project we leverage heavily for our session
+                replay product. It drives our ability to record and replay the
+                DOM to visualize user flows in the frontend. We’ve had the
+                privilege to work closely with the rrweb team to ship
+                improvements, and we’re now actively sponsoring the project [9].
+              </p>
+              <p>
+                ClickHouse [10] has recently become a loved database on our
+                team, as we historically used Opensearch for search-heavy
+                workloads and started to hit growing pains with ingest
+                throughput. We recently rolled it out for our logging product
+                [3] and plan to replace our sessions and errors (and upcoming
+                tracing work) with the database as well.
+              </p>
+              <p>
+                From a business perspective, Highlight.io is open source under
+                the Apache 2.0 license, and we make money with our hosted
+                product [11]. For the hosted product, you can set billing caps
+                for each offering and we don’t charge for seats. At this point,
+                we have 100+ companies paying for our product (some of which are
+                large enterprises), and thousands of sole developers use
+                Highlight.io every week.
+              </p>
+              <p>
+                On our roadmap [12] for the future includes metrics, tracing,
+                release management and more. We also are launching several
+                updates this week on our launch week page [13].
+              </p>
+              <p>
+                Overall, we’re excited to be sharing Highlight.io with the
+                world, and Vadim and I are particularly excited to get some
+                feedback from the HN community. Please give us a test-drive at
+                <a href="https://app.highlight.io">https://app.highlight.io</a>
+                and let us know what you think. We would love to learn about
+                what you wish you had in an observability product as well as any
+                other experiences and ideas in this space. We look forward to
+                hearing from you!
+              </p>
+              <p>
+                1:
+                <a
+                  href="https://github.com/highlight/highlight/blob/main/LICENSE"
+                  >https://github.com/highlight/highlight/blob/main/LICENSE</a
+                >
+              </p>
+              <p>
+                2:
+                <a href="https://news.ycombinator.com/item?id=34897645"
+                  >https://news.ycombinator.com/item?id=34897645</a
+                >
+              </p>
+              <p>
+                3:
+                <a href="https://news.ycombinator.com/item?id=35643255"
+                  >https://news.ycombinator.com/item?id=35643255</a
+                >
+              </p>
+              <p>
+                4:
+                <a href="https://youtu.be/EvGsmbt0F7s?t=65"
+                  >https://youtu.be/EvGsmbt0F7s?t=65</a
+                >
+              </p>
+              <p>
+                5:
+                <a href="https://highlight.io/frameworks"
+                  >https://highlight.io/frameworks</a
+                >
+              </p>
+              <p>
+                6:
+                <a href="https://opentelemetry.io/"
+                  >https://opentelemetry.io/</a
+                >
+              </p>
+              <p>
+                7:
+                <a href="https://github.com/highlight/highlight/pull/4812"
+                  >https://github.com/highlight/highlight/pull/4812</a
+                >
+              </p>
+              <p>
+                8:
+                <a href="https://github.com/rrweb-io/rrweb"
+                  >https://github.com/rrweb-io/rrweb</a
+                >
+              </p>
+              <p>
+                9:
+                <a href="https://github.com/rrweb-io/rrweb#gold-sponsors-"
+                  >https://github.com/rrweb-io/rrweb#gold-sponsors-</a
+                >
+              </p>
+              <p>
+                10:
+                <a href="https://clickhouse.com/blog/overview-of-highlightio"
+                  >https://clickhouse.com/blog/overview-of-highlightio</a
+                >
+              </p>
+              <p>
+                11:
+                <a href="https://highlight.io/pricing"
+                  >https://highlight.io/pricing</a
+                >
+              </p>
+              <p>
+                12:
+                <a href="https://www.highlight.io/docs/general/roadmap"
+                  >https://www.highlight.io/docs/general/roadmap</a
+                >
+              </p>
+              <p>
+                13:
+                <a href="https://highlight.io/launch-week-2"
+                  >https://highlight.io/launch-week-2</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="36774472">
+          <h3>
+            <a
+              class="item"
+              href="https://fromthedesk.substack.com/p/trip-report-rafting-the-selway-to"
+              >Whitewater Rafting on the Selway River in Idaho</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-18 @ 15:52:55</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36774472"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36774369">
+          <h3>
+            <a class="item" href="https://mitadmissions.org/help/faq/legacy/"
+              >Does MIT consider legacy?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-18 @ 15:45:40</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36774369"
+                  >Comments</a
+                ><span class="descendants">: 49</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="36774093">
+          <h3>
+            <a class="item" href="https://github.com/weaviate/healthsearch-demo"
+              >Show HN: Weaviate – Build your own generative health search
+              engine</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-18 @ 15:30:22</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36774093"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              We are super excited to release our latest open-source demo,
+              Healthsearch. This demo decodes user reviews of supplements and
+              performs semantic- and generative search on them, retrieving the
+              most related products for specific health effects, and leveraging
+              Large Language Models to generate product and review summaries.
+              The demo can understand natural language queries and derive all
+              search filters directly from the context of your query.
+            </div>
+          </section>
+        </section>
         <section id="36773554">
           <h3>
             <a class="item" href="https://tomcritchlow.com/2019/11/18/yes-and/"
@@ -139,11 +408,11 @@
             <h4>
               <span>2023-07-18 @ 15:01:39</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">159</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36773554"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -160,11 +429,11 @@
             <h4>
               <span>2023-07-18 @ 14:56:43</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36773439"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
+                ><span class="descendants">: 50</span></span
               >
             </h4>
           </section>
@@ -181,11 +450,11 @@
             <h4>
               <span>2023-07-18 @ 14:53:10</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36773363"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -202,33 +471,11 @@
             <h4>
               <span>2023-07-18 @ 14:34:29</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">66</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36773022"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36772545">
-          <h3>
-            <a
-              class="item"
-              href="https://ashvardanian.com/posts/searching-stable-marriages/"
-              >From Dating to Vector Search – “Stable Marriages” on a Global
-              Scale</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-18 @ 14:10:22</span
-              ><span class="points-container"
-                >Points: <span class="points">28</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36772545"
-                  >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 25</span></span
               >
             </h4>
           </section>
@@ -243,51 +490,11 @@
             <h4>
               <span>2023-07-18 @ 13:38:43</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36771980"
                   >Comments</a
-                ><span class="descendants">: 35</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36771737">
-          <h3>
-            <a
-              class="item"
-              href="https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7"
-              >Silicon Valley’s business model is a scam</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-18 @ 13:22:35</span
-              ><span class="points-container"
-                >Points: <span class="points">205</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36771737"
-                  >Comments</a
-                ><span class="descendants">: 178</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36771729">
-          <h3>
-            <a class="item" href="https://ntietz.com/blog/moving-off-github/"
-              >I'm moving my projects off GitHub</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-18 @ 13:22:15</span
-              ><span class="points-container"
-                >Points: <span class="points">74</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36771729"
-                  >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -304,32 +511,11 @@
             <h4>
               <span>2023-07-18 @ 13:15:43</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36771637"
                   >Comments</a
                 ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36771527">
-          <h3>
-            <a
-              class="item"
-              href="https://dynomight.substack.com/p/aspartame-brouhaha"
-              >WHO aspartame brouhaha</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-18 @ 13:06:43</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36771527"
-                  >Comments</a
-                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -344,11 +530,11 @@
             <h4>
               <span>2023-07-18 @ 13:02:25</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36771484"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -365,11 +551,11 @@
             <h4>
               <span>2023-07-18 @ 12:37:09</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36771227"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -384,7 +570,7 @@
             <h4>
               <span>2023-07-18 @ 12:29:54</span
               ><span class="points-container"
-                >Points: <span class="points">149</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36771149"
                   >Comments</a
@@ -405,11 +591,11 @@
             <h4>
               <span>2023-07-18 @ 12:00:21</span
               ><span class="points-container"
-                >Points: <span class="points">718</span></span
+                >Points: <span class="points">742</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36770883"
                   >Comments</a
-                ><span class="descendants">: 310</span></span
+                ><span class="descendants">: 320</span></span
               >
             </h4>
           </section>
@@ -426,11 +612,11 @@
             <h4>
               <span>2023-07-18 @ 11:27:21</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36770624"
                   >Comments</a
-                ><span class="descendants">: 151</span></span
+                ><span class="descendants">: 157</span></span
               >
             </h4>
           </section>
@@ -447,11 +633,11 @@
             <h4>
               <span>2023-07-18 @ 10:30:29</span
               ><span class="points-container"
-                >Points: <span class="points">213</span></span
+                >Points: <span class="points">217</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36770235"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -467,11 +653,11 @@
             <h4>
               <span>2023-07-18 @ 09:37:48</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36769912"
                   >Comments</a
-                ><span class="descendants">: 69</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -486,11 +672,11 @@
             <h4>
               <span>2023-07-18 @ 07:50:32</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36769173"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -507,11 +693,11 @@
             <h4>
               <span>2023-07-18 @ 04:34:25</span
               ><span class="points-container"
-                >Points: <span class="points">176</span></span
+                >Points: <span class="points">180</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36767837"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -528,30 +714,11 @@
             <h4>
               <span>2023-07-18 @ 02:32:25</span
               ><span class="points-container"
-                >Points: <span class="points">325</span></span
+                >Points: <span class="points">329</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36767092"
                   >Comments</a
-                ><span class="descendants">: 232</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36766700">
-          <h3>
-            <a class="item" href="https://stability.ai/research/minds-eye"
-              >fMRI-to-image with contrastive learning and diffusion priors</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-18 @ 01:43:02</span
-              ><span class="points-container"
-                >Points: <span class="points">138</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36766700"
-                  >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 237</span></span
               >
             </h4>
           </section>
@@ -566,13 +733,45 @@
             <h4>
               <span>2023-07-18 @ 01:14:58</span
               ><span class="points-container"
-                >Points: <span class="points">427</span></span
+                >Points: <span class="points">429</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36766523"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="36762283">
+          <h3>
+            <a class="item" href="https://hg.sr.ht/~dalke/rectfillcurve"
+              >Show HN: Rectfillcurve – generate rectangle-filling curves</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2023-07-17 @ 18:43:42</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=36762283"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Luckily for me, people have developed generalized versions of
+                those algorithms which can handle arbitrary-sized rectangles.
+              </p>
+              <p>
+                I've taken those and packaged all of the those curves into
+                "rectfillcurve", with an iterator API for generating those
+                curves, and a bonus "mlcg curve" with a pseudo-random visit
+                order that should have poor cache behavior. Implemented in
+                stand-alone C, and also available as a Python module.
+              </p>
+            </div>
           </section>
         </section>
         <section id="36756504">
@@ -586,31 +785,11 @@
             <h4>
               <span>2023-07-17 @ 11:05:36</span
               ><span class="points-container"
-                >Points: <span class="points">282</span></span
+                >Points: <span class="points">286</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36756504"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="36752501">
-          <h3>
-            <a class="item" href="https://apps.dtic.mil/sti/pdfs/ADA044713.pdf"
-              >Three Reviews of J. Weizenbaum’s Computer Power and Human Reason
-              (1976) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2023-07-16 @ 23:37:24</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=36752501"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -625,7 +804,7 @@
             <h4>
               <span>2023-07-16 @ 08:51:01</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36744888"
                   >Comments</a
@@ -644,11 +823,11 @@
             <h4>
               <span>2023-07-16 @ 08:11:11</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">134</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36744690"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -663,7 +842,7 @@
             <h4>
               <span>2023-07-16 @ 00:12:53</span
               ><span class="points-container"
-                >Points: <span class="points">42</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36742131"
                   >Comments</a
@@ -684,7 +863,7 @@
             <h4>
               <span>2023-07-15 @ 23:47:27</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36741976"
                   >Comments</a
@@ -703,11 +882,11 @@
             <h4>
               <span>2023-07-15 @ 13:48:41</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36736723"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -724,7 +903,7 @@
             <h4>
               <span>2023-07-14 @ 11:58:44</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=36722587"
                   >Comments</a
