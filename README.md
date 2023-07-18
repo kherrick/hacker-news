@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [The Businessmen Broke Hollywood, and Now They Don't Want to Pay Their Employees](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
+* [2023-07-18, 03:27:01](https://news.ycombinator.com/item?id=36767452) - [AI: Startup vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 * [2023-07-18, 01:57:45](https://news.ycombinator.com/item?id=36766816) - [The HTML review is an annual journal of literature made to exist on the web](https://thehtml.review/)
@@ -24,7 +25,6 @@
 * [2023-07-17, 17:56:57](https://news.ycombinator.com/item?id=36761623) - [A technical look at ZeroNet](https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet)
 * [2023-07-17, 17:34:20](https://news.ycombinator.com/item?id=36761290) - [What's wrong with enterprise Linux](https://unix.foo/posts/enterprise-linux/)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
-* [2023-07-17, 13:05:48](https://news.ycombinator.com/item?id=36757798) - [The C Programming Language: Myths and Reality](https://www.lelanthran.com/chap9/content.html)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-16, 05:46:39](https://news.ycombinator.com/item?id=36744042) - [Running DOS Software from the Command-Line](https://www.pcjs.org/blog/2023/07/15/)
 * [2023-07-15, 18:19:45](https://news.ycombinator.com/item?id=36739565) - [The problem with slow tools (2021)](https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html)
