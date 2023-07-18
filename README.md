@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI Space and the Mental Imagery of Alien Minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
-* [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [The Businessmen Broke Hollywood, and Now They Don't Want to Pay Their Employees](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
 * [2023-07-18, 03:27:01](https://news.ycombinator.com/item?id=36767452) - [AI: Startup vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
+* [2023-07-18, 03:07:38](https://news.ycombinator.com/item?id=36767330) - [Linux Hits All-Time High of 3% of Desktop PC Share After 30 Years](https://www.tomshardware.com/news/linux-hits-3-percent-client-pc-market-share)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 * [2023-07-18, 01:57:45](https://news.ycombinator.com/item?id=36766816) - [The HTML review is an annual journal of literature made to exist on the web](https://thehtml.review/)
