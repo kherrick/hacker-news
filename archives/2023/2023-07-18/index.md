@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 23:20:52](https://news.ycombinator.com/item?id=36780295) - [Ask HN: Anyone else notice that HN isn’t full of JavaScript frameworks lately?](https://news.ycombinator.com/item?id=36780295)
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-07-18, 21:16:13](https://news.ycombinator.com/item?id=36779215) - [Quantum Physicists Explained Earth’s Oscillating Weather Patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
 * [2023-07-18, 20:59:17](https://news.ycombinator.com/item?id=36778999) - [Google Chrome Proposal – Web Environment Integrity](https://chromestatus.com/feature/5796524191121408)

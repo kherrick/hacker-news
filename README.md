@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 23:20:52](https://news.ycombinator.com/item?id=36780295) - [Ask HN: Anyone else notice that HN isn’t full of JavaScript frameworks lately?](https://news.ycombinator.com/item?id=36780295)
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-07-18, 21:16:13](https://news.ycombinator.com/item?id=36779215) - [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
 * [2023-07-18, 20:59:17](https://news.ycombinator.com/item?id=36778999) - [Google Chrome Proposal – Web Environment Integrity](https://chromestatus.com/feature/5796524191121408)
@@ -20,7 +21,6 @@
 * [2023-07-18, 16:02:17](https://news.ycombinator.com/item?id=36774642) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
-* [2023-07-18, 13:38:43](https://news.ycombinator.com/item?id=36771980) - [A Grub theme in the style of Minecraft](https://github.com/Lxtharia/minegrub-theme)
 * [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, revolutionary, cryptologist… suspected spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
 * [2023-07-18, 13:15:43](https://news.ycombinator.com/item?id=36771637) - [Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
