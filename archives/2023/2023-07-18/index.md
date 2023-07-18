@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [The Businessmen Broke Hollywood, and Now They Don't Want to Pay Their Employees](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
 * [2023-07-18, 02:48:17](https://news.ycombinator.com/item?id=36767211) - [Long Covid treatment: randomized, quadruple-blind, parallel-group, phase 3 trial](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00299-2/fulltext)
 * [2023-07-18, 02:34:42](https://news.ycombinator.com/item?id=36767104) - [Lwn.net: PostgreSQL reconsiders its process-based model](https://lwn.net/Articles/934940/)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
 * [2023-07-18, 01:57:45](https://news.ycombinator.com/item?id=36766816) - [The HTML review is an annual journal of literature made to exist on the web](https://thehtml.review/)
 * [2023-07-18, 01:43:02](https://news.ycombinator.com/item?id=36766700) - [fMRI-to-Image with Contrastive Learning and Diffusion Priors](https://stability.ai/research/minds-eye)
+* [2023-07-18, 01:20:37](https://news.ycombinator.com/item?id=36766556) - [Statistical Arbitrage – An Easy Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [StableDiffusion can now run directly in the browser on WebGPU](https://islamov.ai/stable-diffusion-webgpu/)
 * [2023-07-18, 01:00:27](https://news.ycombinator.com/item?id=36766395) - [MixRank (YC S11) Is Hiring](https://news.ycombinator.com/item?id=36766395)
