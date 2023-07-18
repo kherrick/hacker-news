@@ -94,3 +94,4 @@
 * [2023-07-16, 00:43:28](https://news.ycombinator.com/item?id=36742311) - [The Haskell job market has been growing steaily since 2008](https://github.com/nh2/haskell-jobs-statistics)
 * [2023-07-16, 00:38:15](https://news.ycombinator.com/item?id=36742279) - [Loss of Mid in English: Free Peasantry and Their Linguistic Advantage](https://onlinelibrary.wiley.com/doi/full/10.1111/1467-968X.12268)
 * [2023-07-16, 00:28:54](https://news.ycombinator.com/item?id=36742223) - [Unihertz Jelly 2E – smartphone with 3“ screen](https://www.unihertz.com/products/jelly-2e)
+* [2023-07-16, 00:12:53](https://news.ycombinator.com/item?id=36742131) - [“Kolmogorov music“ by Christopher Ford (2015) [video]](https://www.youtube.com/watch?v=Qg3XOfioapI)
