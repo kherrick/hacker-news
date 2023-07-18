@@ -10,7 +10,7 @@
 * [2023-07-18, 19:56:07](https://news.ycombinator.com/item?id=36778318) - [Kraken Technologies: How we organise our large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 19:00:59](https://news.ycombinator.com/item?id=36777600) - [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
-* [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
+* [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code (2008)](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
 * [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
