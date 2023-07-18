@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+* [2023-07-18, 20:59:17](https://news.ycombinator.com/item?id=36778999) - [Google Chrome Proposal – Web Environment Integrity](https://chromestatus.com/feature/5796524191121408)
 * [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 * [2023-07-18, 20:37:03](https://news.ycombinator.com/item?id=36778730) - [Qualcomm Works with Meta to Enable On-Device AI Applications Using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
 * [2023-07-18, 20:28:10](https://news.ycombinator.com/item?id=36778639) - [Companies Requiring Full-Time In-Office Are Struggling to Recruit New Employees](https://time.com/6294640/remote-work-winning/)

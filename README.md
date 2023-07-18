@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+* [2023-07-18, 20:59:17](https://news.ycombinator.com/item?id=36778999) - [Google Chrome Proposal – Web Environment Integrity](https://chromestatus.com/feature/5796524191121408)
 * [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 * [2023-07-18, 20:37:03](https://news.ycombinator.com/item?id=36778730) - [Qualcomm works with Meta to enable on-device AI applications using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
 * [2023-07-18, 20:26:23](https://news.ycombinator.com/item?id=36778617) - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
@@ -20,14 +21,13 @@
 * [2023-07-18, 16:02:17](https://news.ycombinator.com/item?id=36774642) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
-* [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to write a great README](https://www.appsmith.com/blog/write-a-great-readme)
 * [2023-07-18, 13:38:43](https://news.ycombinator.com/item?id=36771980) - [A Grub theme in the style of Minecraft](https://github.com/Lxtharia/minegrub-theme)
 * [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, Revolutionary, Cryptologist… Suspected Spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
 * [2023-07-18, 13:15:43](https://news.ycombinator.com/item?id=36771637) - [Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
 * [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Bell Labs Holmdel Computer Center (1973)](https://www.youtube.com/watch?v=HMYiktO0D64)
-* [2023-07-18, 07:50:32](https://news.ycombinator.com/item?id=36769173) - [Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
+* [2023-07-17, 21:35:01](https://news.ycombinator.com/item?id=36764415) - [Birds and Human Flight](https://longstreet.typepad.com/thesciencebookstore/2023/01/birds-and-human-flight.html)
 * [2023-07-17, 11:25:01](https://news.ycombinator.com/item?id=36756655) - [None of the Above](https://elevanth.org/blog/2023/07/17/none-of-the-above/)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
 
