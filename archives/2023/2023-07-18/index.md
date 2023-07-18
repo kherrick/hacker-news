@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The Office Is a Theatre for Work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 * [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
 * [2023-07-18, 14:10:22](https://news.ycombinator.com/item?id=36772545) - [From Dating to Vector Search – “Stable Marriages” on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
 * [2023-07-18, 14:01:40](https://news.ycombinator.com/item?id=36772390) - [Ask HN: How to deal with 0.1X programmer colleagues?](https://news.ycombinator.com/item?id=36772390)
@@ -19,6 +20,7 @@
 * [2023-07-18, 13:06:43](https://news.ycombinator.com/item?id=36771527) - [WHO Aspartame Brouhaha](https://dynomight.substack.com/p/aspartame-brouhaha)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
 * [2023-07-18, 12:46:13](https://news.ycombinator.com/item?id=36771304) - [Inconvenient Truths about TypeScript](https://fettblog.eu/5-truths-about-typescript/)
+* [2023-07-18, 12:37:09](https://news.ycombinator.com/item?id=36771227) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
 * [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:27:21](https://news.ycombinator.com/item?id=36770624) - [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)

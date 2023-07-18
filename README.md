@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The Office Is a Theatre for Work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 * [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
 * [2023-07-18, 14:10:22](https://news.ycombinator.com/item?id=36772545) - [From Dating to Vector Search – “Stable Marriages” on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
 * [2023-07-18, 13:38:43](https://news.ycombinator.com/item?id=36771980) - [Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
@@ -7,6 +8,7 @@
 * [2023-07-18, 13:22:15](https://news.ycombinator.com/item?id=36771729) - [I'm moving my projects off GitHub](https://ntietz.com/blog/moving-off-github/)
 * [2023-07-18, 13:15:43](https://news.ycombinator.com/item?id=36771637) - [Styling Flowcharts Using CSS](https://flowchart.fun/blog/post/styling-flowcharts-using-css)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
+* [2023-07-18, 12:37:09](https://news.ycombinator.com/item?id=36771227) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
 * [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:27:21](https://news.ycombinator.com/item?id=36770624) - [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
@@ -19,8 +21,6 @@
 * [2023-07-18, 01:43:02](https://news.ycombinator.com/item?id=36766700) - [fMRI-to-image with contrastive learning and diffusion priors](https://stability.ai/research/minds-eye)
 * [2023-07-18, 01:20:37](https://news.ycombinator.com/item?id=36766556) - [Statistical Arbitrage – An Easy Walkthrough](https://dm13450.github.io/2023/07/15/Stat-Arb-Walkthrough.html)
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
-* [2023-07-18, 01:00:27](https://news.ycombinator.com/item?id=36766395) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=36766395)
-* [2023-07-17, 23:46:19](https://news.ycombinator.com/item?id=36765747) - [Strlcpy and strlcat added to glibc 2.38](https://sourceware.org/git/?p=glibc.git;a=commit;h=454a20c8756c9c1d55419153255fc7692b3d2199)
 * [2023-07-17, 12:26:39](https://news.ycombinator.com/item?id=36757400) - [How to Build a Big Prime Number](https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-16, 23:37:24](https://news.ycombinator.com/item?id=36752501) - [Three Reviews of J. Weizenbaum’s Computer Power and Human Reason (1976) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA044713.pdf)
