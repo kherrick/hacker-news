@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 * [2023-07-18, 17:29:12](https://news.ycombinator.com/item?id=36776221) - [Linear Programming in Python (2023)](https://slama.dev/youtube/linear-programming-in-python/)
@@ -9,7 +10,6 @@
 * [2023-07-18, 16:30:30](https://news.ycombinator.com/item?id=36775173) - [Llama 2: an open-source LLM](https://www.interconnects.ai/p/llama-2-from-meta)
 * [2023-07-18, 16:27:00](https://news.ycombinator.com/item?id=36775098) - [Payment systems while working at a pizza place](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
 * [2023-07-18, 16:24:45](https://news.ycombinator.com/item?id=36775054) - [Betterfox: User.js to harden Firefox and optimize privacy, security, and speed](https://github.com/yokoffing/Betterfox)
-* [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 14:53:10](https://news.ycombinator.com/item?id=36773363) - [G/O media will make more AI-generated stories despite critics](https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column)
@@ -27,7 +27,7 @@
 * [2023-07-17, 19:02:14](https://news.ycombinator.com/item?id=36762513) - [‘Everyday Utopia’ Review: The Road to Nowhere](https://www.wsj.com/articles/everyday-utopia-review-the-road-to-nowhere-1ca3ceb3)
 * [2023-07-16, 22:37:13](https://news.ycombinator.com/item?id=36752123) - [Raven’s matrices](https://sep.stanford.edu/sep/jon/raven/)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
-* [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
+* [2023-07-16, 06:03:32](https://news.ycombinator.com/item?id=36744114) - [Recursive COW Pages in Userspace](https://wheybags.com/blog/cow.html)
 * [2023-07-15, 23:47:27](https://news.ycombinator.com/item?id=36741976) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 13:48:41](https://news.ycombinator.com/item?id=36736723) - [Data-Oriented Design Principles](https://data-oriented.design/)
 

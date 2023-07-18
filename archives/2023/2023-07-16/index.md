@@ -75,6 +75,7 @@
 * [2023-07-16, 07:13:10](https://news.ycombinator.com/item?id=36744395) - [Self hosted YouTube media server – Tube Archivist](https://www.tubearchivist.com/)
 * [2023-07-16, 06:51:31](https://news.ycombinator.com/item?id=36744293) - [German Buttercream Is Awesome](https://www.sidhe.org/blog/2022/02/23/german-buttercream-is-awesome/)
 * [2023-07-16, 06:09:09](https://news.ycombinator.com/item?id=36744135) - [Hundreds of drones plunge into Yarra River after malfunction](https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576)
+* [2023-07-16, 06:03:32](https://news.ycombinator.com/item?id=36744114) - [Recursive COW Pages in Userspace](https://wheybags.com/blog/cow.html)
 * [2023-07-16, 05:56:59](https://news.ycombinator.com/item?id=36744090) - [How I run my servers](https://blog.wesleyac.com/posts/how-i-run-my-servers)
 * [2023-07-16, 05:46:39](https://news.ycombinator.com/item?id=36744042) - [Running DOS Software from the Command-Line](https://www.pcjs.org/blog/2023/07/15/)
 * [2023-07-16, 05:35:41](https://news.ycombinator.com/item?id=36744002) - [The Perfect Laptop](https://blog.brossia.com/posts/the_perfect_laptop/)
