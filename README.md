@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 13:22:35](https://news.ycombinator.com/item?id=36771737) - [Silicon Valley’s business model is a scam](https://www.businessinsider.com/venture-capital-big-tech-antitrust-predatory-pricing-uber-wework-bird-2023-7)
 * [2023-07-18, 13:15:29](https://news.ycombinator.com/item?id=36771635) - [Apple Maps Gradually Winning over Google Maps Users, Report Suggests](https://www.macrumors.com/2023/07/18/apple-maps-winning-over-haters/)
 * [2023-07-18, 13:07:44](https://news.ycombinator.com/item?id=36771539) - [Why the Remote-Work Debate Stays So Heated](https://www.theatlantic.com/newsletters/archive/2023/07/remote-work-return-to-office-policies/674736/)
-* [2023-07-18, 13:06:43](https://news.ycombinator.com/item?id=36771527) - [WHO Aspartame Brouhaha](https://dynomight.substack.com/p/aspartame-brouhaha)
+* [2023-07-18, 13:06:43](https://news.ycombinator.com/item?id=36771527) - [WHO aspartame brouhaha](https://dynomight.substack.com/p/aspartame-brouhaha)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
 * [2023-07-18, 12:46:13](https://news.ycombinator.com/item?id=36771304) - [Inconvenient Truths about TypeScript](https://fettblog.eu/5-truths-about-typescript/)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
@@ -29,7 +30,6 @@
 * [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
 * [2023-07-16, 00:12:53](https://news.ycombinator.com/item?id=36742131) - [“Kolmogorov music” by Christopher Ford (2015) [video]](https://www.youtube.com/watch?v=Qg3XOfioapI)
 * [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
-* [2023-07-14, 10:51:39](https://news.ycombinator.com/item?id=36722112) - [Alto Trek](https://en.wikipedia.org/wiki/Alto_Trek)
 
 ## [Archives](archives/index.md)
 
