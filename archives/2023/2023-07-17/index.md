@@ -28,6 +28,7 @@
 * [2023-07-17, 18:58:37](https://news.ycombinator.com/item?id=36762465) - [uyuni – open-source configuration and infrastructure management](https://www.uyuni-project.org/)
 * [2023-07-17, 18:45:05](https://news.ycombinator.com/item?id=36762301) - [WHO Aspartame Brouhaha](https://dynomight.net/aspartame-brouhaha/)
 * [2023-07-17, 18:43:44](https://news.ycombinator.com/item?id=36762284) - [Crystal 1.9.1 Is Released](https://crystal-lang.org/2023/07/17/1.9.1-released/)
+* [2023-07-17, 18:43:42](https://news.ycombinator.com/item?id=36762283) - [Show HN: Rectfillcurve – generate rectangle-filling curves](https://hg.sr.ht/~dalke/rectfillcurve)
 * [2023-07-17, 18:28:30](https://news.ycombinator.com/item?id=36762075) - [Investigating Zika-Microcephaly's ‘Crash’](https://www.amjmed.com/article/S0002-9343(22)00108-5/fulltext)
 * [2023-07-17, 18:21:45](https://news.ycombinator.com/item?id=36761988) - [FlashAttention-2, 2x faster than FlashAttention](https://twitter.com/tri_dao/status/1680987580228308992)
 * [2023-07-17, 17:59:22](https://news.ycombinator.com/item?id=36761655) - [Bringing 19th century ornamental tile illustrations into a 21st century web app](https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app)

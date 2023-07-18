@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2 – Meta AI](https://ai.meta.com/llama/)
+* [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
+* [2023-07-18, 15:52:55](https://news.ycombinator.com/item?id=36774472) - [Whitewater Rafting on the Selway River in Idaho](https://fromthedesk.substack.com/p/trip-report-rafting-the-selway-to)
+* [2023-07-18, 15:45:40](https://news.ycombinator.com/item?id=36774369) - [Does MIT consider legacy?](https://mitadmissions.org/help/faq/legacy/)
 * [2023-07-18, 15:38:26](https://news.ycombinator.com/item?id=36774239) - [Why ‘Dark Side of the Moon’ still matters at 50](https://www.washingtonpost.com/entertainment/music/2023/07/18/pink-floyd-dark-side-moon-50/)
+* [2023-07-18, 15:30:22](https://news.ycombinator.com/item?id=36774093) - [Show HN: Weaviate – Build your own generative health search engine](https://github.com/weaviate/healthsearch-demo)
 * [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The Office Is a Theatre for Work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 * [2023-07-18, 14:56:43](https://news.ycombinator.com/item?id=36773439) - [Framework Laptop 16 pre-orders are now open](https://community.frame.work/t/framework-laptop-16-pre-orders-are-now-open/33828)
 * [2023-07-18, 14:53:10](https://news.ycombinator.com/item?id=36773363) - [The plan is to flood Google search with AI garbage](https://www.theverge.com/2023/7/18/23798814/the-plan-is-to-flood-google-search-with-ai-garbage-it-is-not-a-secret-plan)
