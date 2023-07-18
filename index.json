@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-18, 14:01:40",
-      "https://news.ycombinator.com/item?id=36772390"
-    ],
-    [
-      "Ask HN: How to deal with 0.1X programmer colleagues?",
-      "https://news.ycombinator.com/item?id=36772390"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 13:38:43",
       "https://news.ycombinator.com/item?id=36771980"
     ],
@@ -31,16 +21,6 @@
   ],
   [
     [
-      "2023-07-18, 13:27:47",
-      "https://news.ycombinator.com/item?id=36771804"
-    ],
-    [
-      "Cities are ending fares on transit. Here’s why",
-      "https://www.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 13:22:35",
       "https://news.ycombinator.com/item?id=36771737"
     ],
@@ -57,6 +37,16 @@
     [
       "Styling Flowcharts Using CSS",
       "https://flowchart.fun/blog/post/styling-flowcharts-using-css"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 13:06:43",
+      "https://news.ycombinator.com/item?id=36771527"
+    ],
+    [
+      "WHO aspartame brouhaha",
+      "https://dynomight.substack.com/p/aspartame-brouhaha"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Strlcpy and strlcat added to glibc 2.38",
       "https://sourceware.org/git/?p=glibc.git;a=commit;h=454a20c8756c9c1d55419153255fc7692b3d2199"
+    ]
+  ],
+  [
+    [
+      "2023-07-17, 12:26:39",
+      "https://news.ycombinator.com/item?id=36757400"
+    ],
+    [
+      "How to Build a Big Prime Number",
+      "https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/"
     ]
   ],
   [
