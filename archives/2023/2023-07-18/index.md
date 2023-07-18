@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 09:46:10](https://news.ycombinator.com/item?id=36769965) - [85% of AI Startups Will Be Out of Business in 3 Years, Major Investor Says](https://www.thestreet.com/technology/ai-85-pct-of-startups-will-be-out-of-business-in-3-years-major-investor-says)
+* [2023-07-18, 09:37:48](https://news.ycombinator.com/item?id=36769912) - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
 * [2023-07-18, 07:46:52](https://news.ycombinator.com/item?id=36769145) - [Windows 11 Collects an Awful Lot of Telemetry About Your PC](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI Space and the Mental Imagery of Alien Minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [The Businessmen Broke Hollywood, and Now They Don't Want to Pay Their Employees](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)

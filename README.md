@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 09:46:10](https://news.ycombinator.com/item?id=36769965) - [85% of AI Startups Will Be Out of Business in 3 Years, Major Investor Says](https://www.thestreet.com/technology/ai-85-pct-of-startups-will-be-out-of-business-in-3-years-major-investor-says)
+* [2023-07-18, 09:37:48](https://news.ycombinator.com/item?id=36769912) - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [The Businessmen Broke Hollywood](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
 * [2023-07-18, 03:27:01](https://news.ycombinator.com/item?id=36767452) - [AI: Startup vs Incumbent Value (2022)](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
@@ -16,7 +18,6 @@
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
 * [2023-07-17, 20:37:48](https://news.ycombinator.com/item?id=36763718) - [Are large language models a threat to digital public goods?](https://arxiv.org/abs/2307.07367)
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry Frankfurt has died](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
-* [2023-07-17, 20:13:25](https://news.ycombinator.com/item?id=36763419) - [The US economy and the EU were the same size in 2008, the US is now nearly 2X](https://twitter.com/scienceisstrat1/status/1680959906969444352)
 * [2023-07-17, 19:55:01](https://news.ycombinator.com/item?id=36763175) - [The Nano ESP32](https://blog.arduino.cc/2023/07/17/introducing-the-nano-esp32-thats-iot/)
 * [2023-07-17, 19:33:30](https://news.ycombinator.com/item?id=36762879) - [You can deactivate anyone's WhatsApp account by simply sending an email](https://twitter.com/JakeMooreUK/status/1680962682726363136)
 * [2023-07-17, 19:16:31](https://news.ycombinator.com/item?id=36762682) - [Coroutines for Go](https://research.swtch.com/coro)
@@ -26,7 +27,6 @@
 * [2023-07-16, 08:51:01](https://news.ycombinator.com/item?id=36744888) - [The Homepage of the Oldternet](https://www.geocities.ws/oldternet/)
 * [2023-07-16, 08:24:17](https://news.ycombinator.com/item?id=36744762) - [OpenBenches – A map of memorial benches](https://openbenches.org/)
 * [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
-* [2023-07-15, 18:19:45](https://news.ycombinator.com/item?id=36739565) - [The problem with slow tools (2021)](https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html)
 * [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics (2002)](https://omniglot.com/writing/cree.htm)
 * [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
 * [2023-07-14, 10:51:39](https://news.ycombinator.com/item?id=36722112) - [Alto Trek](https://en.wikipedia.org/wiki/Alto_Trek)
