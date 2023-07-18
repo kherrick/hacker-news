@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
 * [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The Office Is a Theatre for Work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
+* [2023-07-18, 14:53:10](https://news.ycombinator.com/item?id=36773363) - [The plan is to flood Google search with AI garbage](https://www.theverge.com/2023/7/18/23798814/the-plan-is-to-flood-google-search-with-ai-garbage-it-is-not-a-secret-plan)
 * [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to Write a Great Readme](https://www.appsmith.com/blog/write-a-great-readme)
 * [2023-07-18, 14:10:22](https://news.ycombinator.com/item?id=36772545) - [From Dating to Vector Search – “Stable Marriages” on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
 * [2023-07-18, 14:01:40](https://news.ycombinator.com/item?id=36772390) - [Ask HN: How to deal with 0.1X programmer colleagues?](https://news.ycombinator.com/item?id=36772390)
