@@ -79,6 +79,7 @@
 * [2023-07-14, 12:16:24](https://news.ycombinator.com/item?id=36722782) - [‘It’s the Wild West’: Vienna’s spying problem spins out of control](https://www.ft.com/content/f790d8f4-2fe1-466d-8b29-83b1f4956984)
 * [2023-07-14, 12:15:32](https://news.ycombinator.com/item?id=36722776) - [Langford Pairing (2011)](https://susam.net/blog/langford-pairing.html)
 * [2023-07-14, 12:09:28](https://news.ycombinator.com/item?id=36722702) - [Polar v1.0: Let’s Fix Open Source Funding](https://blog.polar.sh/polar-v1-0-lets-fix-open-source-funding/)
+* [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
 * [2023-07-14, 11:57:37](https://news.ycombinator.com/item?id=36722575) - [Voice Actor Turns Instagram's Terms of Service into 51-Minute Sleep Aid](https://www.vice.com/en/article/7kxkgx/voice-actor-turns-instagrams-terms-of-service-into-51-minute-sleep-aid)
 * [2023-07-14, 11:57:08](https://news.ycombinator.com/item?id=36722570) - [OpenSSH might surprise you – in all the wrong ways](https://blog.devops.dev/ssh-might-surprise-you-in-all-the-wrong-ways-a5926d11ff11?gi=0437cfc73438)
 * [2023-07-14, 11:52:41](https://news.ycombinator.com/item?id=36722526) - [Electric Vehicles for Everyone? The Impossible Dream](https://manhattan.institute/article/electric-vehicles-for-everyone-the-impossible-dream)

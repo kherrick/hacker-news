@@ -26,9 +26,9 @@
 * [2023-07-17, 17:56:57](https://news.ycombinator.com/item?id=36761623) - [A technical look at ZeroNet](https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to be a consultant, a freelancer, or an independent contractor (2009)](https://jacquesmattheij.com/be-consultant/)
-* [2023-07-16, 05:46:39](https://news.ycombinator.com/item?id=36744042) - [Running DOS Software from the Command-Line](https://www.pcjs.org/blog/2023/07/15/)
 * [2023-07-15, 18:19:45](https://news.ycombinator.com/item?id=36739565) - [The problem with slow tools (2021)](https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html)
 * [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics (2002)](https://omniglot.com/writing/cree.htm)
+* [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
 * [2023-07-14, 10:51:39](https://news.ycombinator.com/item?id=36722112) - [Alto Trek](https://en.wikipedia.org/wiki/Alto_Trek)
 
 ## [Archives](archives/index.md)
