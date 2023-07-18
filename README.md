@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 13:07:44](https://news.ycombinator.com/item?id=36771539) - [Why the Remote-Work Debate Stays So Heated](https://www.theatlantic.com/newsletters/archive/2023/07/remote-work-return-to-office-policies/674736/)
+* [2023-07-18, 13:06:43](https://news.ycombinator.com/item?id=36771527) - [WHO Aspartame Brouhaha](https://dynomight.substack.com/p/aspartame-brouhaha)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
 * [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
 * [2023-07-18, 11:27:21](https://news.ycombinator.com/item?id=36770624) - [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
@@ -18,7 +20,6 @@
 * [2023-07-18, 01:14:58](https://news.ycombinator.com/item?id=36766523) - [Stable Diffusion WebGPU demo](https://islamov.ai/stable-diffusion-webgpu/)
 * [2023-07-18, 01:00:27](https://news.ycombinator.com/item?id=36766395) - [MixRank (YC S11) is hiring global remote software engineers](https://news.ycombinator.com/item?id=36766395)
 * [2023-07-17, 23:46:19](https://news.ycombinator.com/item?id=36765747) - [Strlcpy and strlcat added to glibc 2.38](https://sourceware.org/git/?p=glibc.git;a=commit;h=454a20c8756c9c1d55419153255fc7692b3d2199)
-* [2023-07-17, 23:29:12](https://news.ycombinator.com/item?id=36765558) - [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
 * [2023-07-17, 23:22:15](https://news.ycombinator.com/item?id=36765479) - [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
 * [2023-07-17, 13:40:22](https://news.ycombinator.com/item?id=36758122) - [Launch HN: Grai (YC S22) – Open-Source Data Observability Platform](https://news.ycombinator.com/item?id=36758122)
 * [2023-07-17, 12:26:39](https://news.ycombinator.com/item?id=36757400) - [How to Build a Big Prime Number](https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/)
@@ -27,7 +28,6 @@
 * [2023-07-16, 08:24:17](https://news.ycombinator.com/item?id=36744762) - [OpenBenches – A map of memorial benches](https://openbenches.org/)
 * [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
 * [2023-07-16, 00:12:53](https://news.ycombinator.com/item?id=36742131) - [“Kolmogorov music” by Christopher Ford (2015) [video]](https://www.youtube.com/watch?v=Qg3XOfioapI)
-* [2023-07-15, 05:32:52](https://news.ycombinator.com/item?id=36733878) - [Cree Syllabics (2002)](https://omniglot.com/writing/cree.htm)
 * [2023-07-14, 11:58:44](https://news.ycombinator.com/item?id=36722587) - [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
 * [2023-07-14, 10:51:39](https://news.ycombinator.com/item?id=36722112) - [Alto Trek](https://en.wikipedia.org/wiki/Alto_Trek)
 
