@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
 * [2023-07-18, 10:30:29](https://news.ycombinator.com/item?id=36770235) - [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)
+* [2023-07-18, 10:11:42](https://news.ycombinator.com/item?id=36770135) - [Opening the Codebase Up to Everyone](https://ghiculescu.substack.com/p/opening-the-codebase-up-to-everyone)
 * [2023-07-18, 09:52:05](https://news.ycombinator.com/item?id=36769998) - [VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
 * [2023-07-18, 09:46:10](https://news.ycombinator.com/item?id=36769965) - [85% of AI Startups Will Be Out of Business in 3 Years, Major Investor Says](https://www.thestreet.com/technology/ai-85-pct-of-startups-will-be-out-of-business-in-3-years-major-investor-says)
 * [2023-07-18, 09:37:48](https://news.ycombinator.com/item?id=36769912) - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
