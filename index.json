@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 21:41:03",
+      "https://news.ycombinator.com/item?id=36779459"
+    ],
+    [
+      "Gym Class VR (YC W22) Is Hiring Back End Engineering",
+      "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 20:52:09",
       "https://news.ycombinator.com/item?id=36778905"
     ],
@@ -37,6 +47,16 @@
     [
       "Val, a high-level systems programming language",
       "https://www.val-lang.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 20:10:50",
+      "https://news.ycombinator.com/item?id=36778432"
+    ],
+    [
+      "Tesla directors agree to return $735M following claims they were overpaid",
+      "https://www.engadget.com/tesla-directors-agree-to-return-735-million-following-claims-they-were-massively-overpaid-105506056.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2023-07-18, 17:01:01",
-      "https://news.ycombinator.com/item?id=36775693"
-    ],
-    [
-      "Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”",
-      "https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 16:47:53",
       "https://news.ycombinator.com/item?id=36775475"
     ],
@@ -157,6 +167,16 @@
     [
       "Betterfox: User.js to harden Firefox and optimize privacy, security, and speed",
       "https://github.com/yokoffing/Betterfox"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 16:02:17",
+      "https://news.ycombinator.com/item?id=36774642"
+    ],
+    [
+      "10NES",
+      "https://fabiensanglard.net/10nes/index.html"
     ]
   ],
   [
@@ -247,26 +267,6 @@
     [
       "Bell Labs Holmdel Computer Center (1973)",
       "https://www.youtube.com/watch?v=HMYiktO0D64"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 12:00:21",
-      "https://news.ycombinator.com/item?id=36770883"
-    ],
-    [
-      "Firefox has surpassed Chrome on Speedometer",
-      "https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 09:37:48",
-      "https://news.ycombinator.com/item?id=36769912"
-    ],
-    [
-      "Swig – Connect C/C++ programs with high-level programming languages",
-      "https://www.swig.org/"
     ]
   ],
   [
