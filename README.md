@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-18, 07:46:52](https://news.ycombinator.com/item?id=36769145) - [Windows 11 Collects an Awful Lot of Telemetry About Your PC](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI Space and the Mental Imagery of Alien Minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-18, 03:27:01](https://news.ycombinator.com/item?id=36767452) - [AI: Startup vs Incumbent Value](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
@@ -12,7 +13,6 @@
 * [2023-07-17, 23:46:19](https://news.ycombinator.com/item?id=36765747) - [Strlcpy and strlcat added to glibc 2.38](https://sourceware.org/git/?p=glibc.git;a=commit;h=454a20c8756c9c1d55419153255fc7692b3d2199)
 * [2023-07-17, 23:29:12](https://news.ycombinator.com/item?id=36765558) - [Loss of smell may be an early sign of brain diseases](https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/)
 * [2023-07-17, 23:22:15](https://news.ycombinator.com/item?id=36765479) - [Never waste a midlife crisis](https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/)
-* [2023-07-17, 21:55:11](https://news.ycombinator.com/item?id=36764610) - [Official Chrome extension to use iCloud Keychain Passwords](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
 * [2023-07-17, 20:41:39](https://news.ycombinator.com/item?id=36763758) - [Computer memory prototype ditches 1s and 0s for denser data storage](https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/)
 * [2023-07-17, 20:37:48](https://news.ycombinator.com/item?id=36763718) - [Are large language models a threat to digital public goods?](https://arxiv.org/abs/2307.07367)
 * [2023-07-17, 20:20:15](https://news.ycombinator.com/item?id=36763493) - [Harry Frankfurt has died](https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html)
