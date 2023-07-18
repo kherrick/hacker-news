@@ -2,7 +2,7 @@
 
 * [2023-07-18, 07:46:52](https://news.ycombinator.com/item?id=36769145) - [Windows 11 collects an awful lot of telemetry about your PC](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
-* [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [Businessmen Broke Hollywood](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
+* [2023-07-18, 03:51:54](https://news.ycombinator.com/item?id=36767606) - [The Businessmen Broke Hollywood](https://www.theatlantic.com/ideas/archive/2023/07/hollywoods-cruel-strategy/674730/)
 * [2023-07-18, 03:27:01](https://news.ycombinator.com/item?id=36767452) - [AI: Startup vs Incumbent Value (2022)](https://blog.eladgil.com/p/ai-startup-vs-incumbent-value)
 * [2023-07-18, 02:32:25](https://news.ycombinator.com/item?id=36767092) - [A few things to know before stealing my 914 (2022)](https://www.hagerty.com/media/advice/a-few-things-to-know-before-you-steal-my-914/)
 * [2023-07-18, 02:01:08](https://news.ycombinator.com/item?id=36766844) - [The Drivers Cooperative: New York’s driver-owned ride-hailing app](https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera)
