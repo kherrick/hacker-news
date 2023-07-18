@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-18, 20:52:09",
+      "https://news.ycombinator.com/item?id=36778905"
+    ],
+    [
+      "Lazydocker a lazier way to manage everything Docker",
+      "https://github.com/jesseduffield/lazydocker"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 20:37:03",
       "https://news.ycombinator.com/item?id=36778730"
     ],
@@ -27,6 +37,16 @@
     [
       "Val, a high-level systems programming language",
       "https://www.val-lang.dev/"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 19:56:07",
+      "https://news.ycombinator.com/item?id=36778318"
+    ],
+    [
+      "Kraken Technologies: How we organise our large Python monolith",
+      "https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2023-07-18, 14:53:10",
-      "https://news.ycombinator.com/item?id=36773363"
-    ],
-    [
-      "G/O media will make more AI-generated stories despite critics",
-      "https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 14:34:29",
       "https://news.ycombinator.com/item?id=36773022"
     ],
@@ -247,16 +257,6 @@
     [
       "Firefox has surpassed Chrome on Speedometer",
       "https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 11:27:21",
-      "https://news.ycombinator.com/item?id=36770624"
-    ],
-    [
-      "Medicine is plagued by untrustworthy clinical trials",
-      "https://www.nature.com/articles/d41586-023-02299-w"
     ]
   ],
   [
