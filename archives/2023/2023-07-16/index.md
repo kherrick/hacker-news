@@ -67,6 +67,7 @@
 * [2023-07-16, 08:18:40](https://news.ycombinator.com/item?id=36744730) - [AmazonBasics Microwave: Accessible for People with Visual Impairments (2019)](https://www.afb.org/aw/20/12/16848)
 * [2023-07-16, 08:13:24](https://news.ycombinator.com/item?id=36744702) - [How to Convert Bytes to Grams](https://thatxliner.github.io/blog/posts/how-to-convert-bytes-to-grams/)
 * [2023-07-16, 08:13:05](https://news.ycombinator.com/item?id=36744699) - [Nuclear Fission Fuel Is Inexhaustible (2022)](https://scanalyst.fourmilab.ch/t/nuclear-fission-fuel-is-inexhaustible/1257)
+* [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
 * [2023-07-16, 07:25:05](https://news.ycombinator.com/item?id=36744450) - [Taskfile: A Modern Alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 * [2023-07-16, 07:13:10](https://news.ycombinator.com/item?id=36744395) - [Self hosted YouTube media server – Tube Archivist](https://www.tubearchivist.com/)
 * [2023-07-16, 06:51:31](https://news.ycombinator.com/item?id=36744293) - [German Buttercream Is Awesome](https://www.sidhe.org/blog/2022/02/23/german-buttercream-is-awesome/)
