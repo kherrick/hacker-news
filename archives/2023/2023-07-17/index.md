@@ -65,6 +65,7 @@
 * [2023-07-17, 12:19:36](https://news.ycombinator.com/item?id=36757334) - [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
 * [2023-07-17, 12:09:49](https://news.ycombinator.com/item?id=36757213) - [Writing Hurl's Grammar, Twice](https://ntietz.com/blog/writing-hurl-grammar/)
 * [2023-07-17, 11:19:05](https://news.ycombinator.com/item?id=36756606) - [‘The Man Who Organized Nature’ Review: Linnaeus the Namer](https://www.wsj.com/articles/the-man-who-organized-nature-review-linnaeus-the-namer-673a3305)
+* [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to Be an Independent Contractor](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-17, 10:29:09](https://news.ycombinator.com/item?id=36756257) - [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)
 * [2023-07-17, 10:20:36](https://news.ycombinator.com/item?id=36756201) - [Typo leaks millions of US military emails to Mali web operator](https://www.ft.com/content/ab62af67-ed2a-42d0-87eb-c762ac163cf0)
 * [2023-07-17, 10:10:53](https://news.ycombinator.com/item?id=36756147) - [Booking.com halts payments to hosts over IT technical maintenance](https://nltimes.nl/2023/07/17/bookingcom-halts-payments-hosts-technical-maintenance)
