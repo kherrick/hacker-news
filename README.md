@@ -2,7 +2,6 @@
 
 * [2023-07-18, 17:38:34](https://news.ycombinator.com/item?id=36776382) - [In the Asian Flu of 1957-58, they rejected lockdowns (2021)](https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/)
 * [2023-07-18, 17:29:12](https://news.ycombinator.com/item?id=36776221) - [Linear Programming in Python (2023)](https://slama.dev/youtube/linear-programming-in-python/)
-* [2023-07-18, 17:07:29](https://news.ycombinator.com/item?id=36775816) - [Tell HN: CloudFront Is Having an Outage](https://news.ycombinator.com/item?id=36775816)
 * [2023-07-18, 17:01:01](https://news.ycombinator.com/item?id=36775693) - [Velt (YC W22) Is Hiring Engineer to Build a Better “CRDT”](https://www.ycombinator.com/companies/velt/jobs/7W1w74l-founding-fullstack-engineer-crdts-us-only)
 * [2023-07-18, 16:47:53](https://news.ycombinator.com/item?id=36775475) - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 * [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
@@ -11,7 +10,6 @@
 * [2023-07-18, 16:18:30](https://news.ycombinator.com/item?id=36774940) - [Refusing to teach kids math will not improve equity](https://www.noahpinion.blog/p/refusing-to-teach-kids-math-will)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
-* [2023-07-18, 15:30:22](https://news.ycombinator.com/item?id=36774093) - [Show HN: Weaviate – Build your own generative health search engine](https://github.com/weaviate/healthsearch-demo)
 * [2023-07-18, 15:01:39](https://news.ycombinator.com/item?id=36773554) - [The office is a theatre for work (2019)](https://tomcritchlow.com/2019/11/18/yes-and/)
 * [2023-07-18, 14:53:10](https://news.ycombinator.com/item?id=36773363) - [G/O media will make more AI-generated stories despite critics](https://www.vox.com/technology/2023/7/18/23798164/gizmodo-ai-g-o-bot-stories-jalopnik-av-club-peter-kafka-media-column)
 * [2023-07-18, 14:34:29](https://news.ycombinator.com/item?id=36773022) - [How to write a great README](https://www.appsmith.com/blog/write-a-great-readme)
@@ -26,8 +24,10 @@
 * [2023-07-18, 07:50:32](https://news.ycombinator.com/item?id=36769173) - [Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI space and the mental imagery of alien minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
 * [2023-07-17, 19:02:14](https://news.ycombinator.com/item?id=36762513) - [‘Everyday Utopia’ Review: The Road to Nowhere](https://www.wsj.com/articles/everyday-utopia-review-the-road-to-nowhere-1ca3ceb3)
+* [2023-07-17, 18:43:42](https://news.ycombinator.com/item?id=36762283) - [Show HN: Rectfillcurve – generate rectangle-filling curves](https://hg.sr.ht/~dalke/rectfillcurve)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
 * [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
+* [2023-07-16, 00:12:53](https://news.ycombinator.com/item?id=36742131) - [Kolmogorov Music (2015) [video]](https://www.youtube.com/watch?v=Qg3XOfioapI)
 * [2023-07-15, 23:47:27](https://news.ycombinator.com/item?id=36741976) - [The path to implementing a programming language](https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md)
 * [2023-07-15, 13:48:41](https://news.ycombinator.com/item?id=36736723) - [Data-Oriented Design Principles](https://data-oriented.design/)
 
