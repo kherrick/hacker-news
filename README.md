@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
+* [2023-07-18, 21:16:13](https://news.ycombinator.com/item?id=36779215) - [Quantum Physicists Explained Earth’s Oscillating Weather Patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
 * [2023-07-18, 20:59:17](https://news.ycombinator.com/item?id=36778999) - [Google Chrome Proposal – Web Environment Integrity](https://chromestatus.com/feature/5796524191121408)
 * [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 * [2023-07-18, 20:37:03](https://news.ycombinator.com/item?id=36778730) - [Qualcomm works with Meta to enable on-device AI applications using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
@@ -9,7 +10,6 @@
 * [2023-07-18, 20:10:50](https://news.ycombinator.com/item?id=36778432) - [Tesla directors agree to return $735M following claims they were overpaid](https://www.engadget.com/tesla-directors-agree-to-return-735-million-following-claims-they-were-massively-overpaid-105506056.html)
 * [2023-07-18, 19:56:07](https://news.ycombinator.com/item?id=36778318) - [Kraken Technologies: How we organise our large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
-* [2023-07-18, 19:00:59](https://news.ycombinator.com/item?id=36777600) - [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code (2008)](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
 * [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
