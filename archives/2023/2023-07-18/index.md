@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 * [2023-07-18, 20:37:03](https://news.ycombinator.com/item?id=36778730) - [Qualcomm Works with Meta to Enable On-Device AI Applications Using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
 * [2023-07-18, 20:28:10](https://news.ycombinator.com/item?id=36778639) - [Companies Requiring Full-Time In-Office Are Struggling to Recruit New Employees](https://time.com/6294640/remote-work-winning/)
 * [2023-07-18, 20:26:23](https://news.ycombinator.com/item?id=36778617) - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 * [2023-07-18, 20:22:29](https://news.ycombinator.com/item?id=36778566) - [Val, a high-level systems programming language](https://www.val-lang.dev/)
+* [2023-07-18, 19:56:07](https://news.ycombinator.com/item?id=36778318) - [Kraken Technologies: How we organise our large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 19:00:59](https://news.ycombinator.com/item?id=36777600) - [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
