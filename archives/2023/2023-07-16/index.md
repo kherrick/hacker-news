@@ -6,6 +6,7 @@
 
 * [2023-07-16, 23:53:03](https://news.ycombinator.com/item?id=36752581) - [LOGO Manual by Abelson, Goodman, and Rudolph (1974) [pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/6226/AIM-313.pdf)
 * [2023-07-16, 23:49:02](https://news.ycombinator.com/item?id=36752561) - [Ill in England? Your Location Can Determine If You Live or Die](https://www.bloomberg.com/graphics/2023-nhs-missing-targets-on-75th-anniversary/)
+* [2023-07-16, 23:37:24](https://news.ycombinator.com/item?id=36752501) - [Three Reviews of J. Weizenbaum’s Computer Power and Human Reason (1976) [pdf]](https://apps.dtic.mil/sti/pdfs/ADA044713.pdf)
 * [2023-07-16, 23:35:11](https://news.ycombinator.com/item?id=36752490) - [Symbolics CGI production notes: How Stanley and Stella came together (1988)](https://archive.org/details/how-stanley-and-stella-came-together-sgd-s-news-march-1988)
 * [2023-07-16, 23:24:02](https://news.ycombinator.com/item?id=36752419) - [Using XPath in 2023](https://denizaksimsek.com/2023/xpath/)
 * [2023-07-16, 22:55:31](https://news.ycombinator.com/item?id=36752247) - [“That Deep Romantic Chasm”: Libertarianism, Neoliberalism, & Computer Culture](https://www.uvm.edu/~tstreete/romantic_chasm.html)
