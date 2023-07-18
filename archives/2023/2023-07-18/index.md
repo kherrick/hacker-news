@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-18](index.md)
 
+* [2023-07-18, 14:10:22](https://news.ycombinator.com/item?id=36772545) - [From Dating to Vector Search – “Stable Marriages” on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
 * [2023-07-18, 14:01:40](https://news.ycombinator.com/item?id=36772390) - [Ask HN: How to deal with 0.1X programmer colleagues?](https://news.ycombinator.com/item?id=36772390)
+* [2023-07-18, 13:53:48](https://news.ycombinator.com/item?id=36772253) - [AI System Helped Cops ID a Drug Trafficker by Analyzing His Driving Patterns](https://gizmodo.com/rekor-ai-system-analyzes-driving-patterns-criminals-1850647270)
 * [2023-07-18, 13:38:43](https://news.ycombinator.com/item?id=36771980) - [Minecraft Grub Theme](https://github.com/Lxtharia/minegrub-theme)
 * [2023-07-18, 13:35:36](https://news.ycombinator.com/item?id=36771928) - [Britain Is a Developing Country](https://www.sambowman.co/p/britain-is-a-developing-country)
 * [2023-07-18, 13:27:47](https://news.ycombinator.com/item?id=36771804) - [Cities are ending fares on transit. Here’s why](https://www.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html)
