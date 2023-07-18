@@ -8,6 +8,7 @@
 * [2023-07-18, 20:28:10](https://news.ycombinator.com/item?id=36778639) - [Companies Requiring Full-Time In-Office Are Struggling to Recruit New Employees](https://time.com/6294640/remote-work-winning/)
 * [2023-07-18, 20:26:23](https://news.ycombinator.com/item?id=36778617) - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 * [2023-07-18, 20:22:29](https://news.ycombinator.com/item?id=36778566) - [Val, a high-level systems programming language](https://www.val-lang.dev/)
+* [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 19:00:59](https://news.ycombinator.com/item?id=36777600) - [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)

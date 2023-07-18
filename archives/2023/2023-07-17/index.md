@@ -68,6 +68,7 @@
 * [2023-07-17, 12:26:39](https://news.ycombinator.com/item?id=36757400) - [How to Build a Big Prime Number](https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/)
 * [2023-07-17, 12:19:36](https://news.ycombinator.com/item?id=36757334) - [The Future of LLMs with Arthur, MosaicML, LangChain, and Weaviate [video]](https://www.youtube.com/watch?v=TXMUXeml9JY)
 * [2023-07-17, 12:09:49](https://news.ycombinator.com/item?id=36757213) - [Writing Hurl's Grammar, Twice](https://ntietz.com/blog/writing-hurl-grammar/)
+* [2023-07-17, 11:25:01](https://news.ycombinator.com/item?id=36756655) - [None of the Above](https://elevanth.org/blog/2023/07/17/none-of-the-above/)
 * [2023-07-17, 11:19:05](https://news.ycombinator.com/item?id=36756606) - [‘The Man Who Organized Nature’ Review: Linnaeus the Namer](https://www.wsj.com/articles/the-man-who-organized-nature-review-linnaeus-the-namer-673a3305)
 * [2023-07-17, 11:05:36](https://news.ycombinator.com/item?id=36756504) - [How to Be an Independent Contractor](https://jacquesmattheij.com/be-consultant/)
 * [2023-07-17, 10:29:09](https://news.ycombinator.com/item?id=36756257) - [Over 50% of Young Danes Have Streamed or Downloaded Content Illegally](https://torrentfreak.com/over-50-of-young-danes-have-streamed-or-downloaded-content-illegally-230716/)

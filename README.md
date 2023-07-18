@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-18, 20:37:03](https://news.ycombinator.com/item?id=36778730) - [Qualcomm works with Meta to enable on-device AI applications using Llama 2](https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi)
-* [2023-07-18, 20:28:10](https://news.ycombinator.com/item?id=36778639) - [Companies Requiring Full-Time In-Office Are Struggling to Recruit New Employees](https://time.com/6294640/remote-work-winning/)
 * [2023-07-18, 20:26:23](https://news.ycombinator.com/item?id=36778617) - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 * [2023-07-18, 20:22:29](https://news.ycombinator.com/item?id=36778566) - [Val, a high-level systems programming language](https://www.val-lang.dev/)
+* [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 19:00:59](https://news.ycombinator.com/item?id=36777600) - [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
@@ -28,8 +28,8 @@
 * [2023-07-18, 11:27:21](https://news.ycombinator.com/item?id=36770624) - [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-07-18, 09:37:48](https://news.ycombinator.com/item?id=36769912) - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
 * [2023-07-18, 07:50:32](https://news.ycombinator.com/item?id=36769173) - [Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
+* [2023-07-17, 11:25:01](https://news.ycombinator.com/item?id=36756655) - [None of the Above](https://elevanth.org/blog/2023/07/17/none-of-the-above/)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
-* [2023-07-16, 08:11:11](https://news.ycombinator.com/item?id=36744690) - [It's not mathematics that you need to contribute to (2010)](https://mathoverflow.net/a/44213)
 
 ## [Archives](archives/index.md)
 
