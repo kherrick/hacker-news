@@ -87,6 +87,7 @@
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 06:05:52](https://news.ycombinator.com/item?id=36782638) - [What Is Radio Spectrum?](https://www.transportation.gov/pnt/what-radio-spectrum)
+* [2023-07-19, 05:27:43](https://news.ycombinator.com/item?id=36782415) - [Now for something different: Prototheca, pathogenic algae (2021)](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009362)
 * [2023-07-19, 05:07:56](https://news.ycombinator.com/item?id=36782314) - [AI-Generated South Park](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-19, 04:58:41](https://news.ycombinator.com/item?id=36782276) - [IPv6 Deployment Status](https://datatracker.ietf.org/doc/html/rfc9386)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping](https://jazz-library.com/articles/comping/)

@@ -24,7 +24,7 @@
 * [2023-07-19, 14:41:45](https://news.ycombinator.com/item?id=36787200) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
 * [2023-07-19, 12:08:11](https://news.ycombinator.com/item?id=36785005) - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
-* [2023-07-19, 06:05:52](https://news.ycombinator.com/item?id=36782638) - [What Is Radio Spectrum?](https://www.transportation.gov/pnt/what-radio-spectrum)
+* [2023-07-19, 05:27:43](https://news.ycombinator.com/item?id=36782415) - [Now for something different: Prototheca, pathogenic algae (2021)](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1009362)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The life of salt and the limits of colonization in the southwest](http://commonplace.online/article/saline-survivance/)
 * [2023-07-18, 11:51:03](https://news.ycombinator.com/item?id=36770815) - [Green Oases: NYC’s Community Gardens](https://worldsensorium.com/green-oases-nycs-community-gardens/)
