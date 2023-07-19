@@ -26,10 +26,10 @@
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping](https://jazz-library.com/articles/comping/)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
-* [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [ASUS to manufacture and sell Intel’s NUC products](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The life of salt and the limits of colonization in the southwest](http://commonplace.online/article/saline-survivance/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
+* [2023-07-18, 08:38:01](https://news.ycombinator.com/item?id=36769535) - [Trouble with Lichen by John Wyndham (1962) [video]](https://www.youtube.com/watch?v=XsUhhOaAsaw)
 
 ## [Archives](archives/index.md)
 
