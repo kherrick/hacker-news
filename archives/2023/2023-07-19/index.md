@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Carnegie Mellon, University of Pittsburgh end use of legacy status in admissions](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
 * [2023-07-19, 15:21:54](https://news.ycombinator.com/item?id=36787924) - [Ask HN: How are you improving your use of LLMs in production?](https://news.ycombinator.com/item?id=36787924)
 * [2023-07-19, 15:18:51](https://news.ycombinator.com/item?id=36787886) - [Netflix Removes “Basic” Ad-Free Plan in U.S. and U.K](https://www.hollywoodreporter.com/business/digital/netflix-pulls-basic-plan-us-advertising-push-1235539481/)
 * [2023-07-19, 15:17:21](https://news.ycombinator.com/item?id=36787860) - [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)

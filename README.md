@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Carnegie Mellon, University of Pittsburgh end use of legacy status in admissions](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
 * [2023-07-19, 15:21:54](https://news.ycombinator.com/item?id=36787924) - [Ask HN: How are you improving your use of LLMs in production?](https://news.ycombinator.com/item?id=36787924)
 * [2023-07-19, 15:18:51](https://news.ycombinator.com/item?id=36787886) - [Netflix Removes “Basic” Ad-Free Plan in U.S. and U.K](https://www.hollywoodreporter.com/business/digital/netflix-pulls-basic-plan-us-advertising-push-1235539481/)
 * [2023-07-19, 15:17:21](https://news.ycombinator.com/item?id=36787860) - [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)
@@ -11,7 +12,6 @@
 * [2023-07-19, 13:56:18](https://news.ycombinator.com/item?id=36786407) - [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
 * [2023-07-19, 13:49:21](https://news.ycombinator.com/item?id=36786294) - [Zig: Upcoming release postponed two more weeks and lacks async functions](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 13:46:18](https://news.ycombinator.com/item?id=36786239) - [Show HN: Gemini web client in 100 lines of C](https://github.com/ir33k/gmi100)
-* [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
 * [2023-07-19, 12:48:08](https://news.ycombinator.com/item?id=36785450) - [Neopets is coming back bigger and better than ever](https://www.buzzfeed.com/haltherego/neopets-new-launch)
 * [2023-07-19, 12:44:30](https://news.ycombinator.com/item?id=36785409) - [Iosevka typeface for code, from code](https://github.com/be5invis/Iosevka)
 * [2023-07-19, 12:37:03](https://news.ycombinator.com/item?id=36785318) - [A Decade of Rust, and Announcing Ferrocene](https://ferrous-systems.com/blog/a-decade-of-rust/)
@@ -22,12 +22,12 @@
 * [2023-07-19, 11:14:45](https://news.ycombinator.com/item?id=36784583) - [The Jupyter+Git problem is now solved (2022)](https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/)
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Local async executors and why they should be the default](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
-* [2023-07-19, 05:07:56](https://news.ycombinator.com/item?id=36782314) - [SHOW-1 and Showrunner Agents in Multi-Agent Simulations](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 * [2023-07-19, 02:35:30](https://news.ycombinator.com/item?id=36781487) - [FiraCode: Free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [ASUS to manufacture and sell Intel’s NUC products](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
 * [2023-07-18, 20:59:57](https://news.ycombinator.com/item?id=36779010) - [A Medieval Age of Disruption](https://lareviewofbooks.org/article/a-medieval-age-of-disruption-on-nicholas-mortons-the-mongol-storm/)
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
+* [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 12:01:55](https://news.ycombinator.com/item?id=36770894) - [Investigating Blackout Crime in the Second World War (2022)](https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 
