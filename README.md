@@ -2,8 +2,10 @@
 
 * [2023-07-19, 04:28:56](https://news.ycombinator.com/item?id=36782128) - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
 * [2023-07-19, 03:39:28](https://news.ycombinator.com/item?id=36781860) - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
+* [2023-07-19, 02:56:06](https://news.ycombinator.com/item?id=36781594) - [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
 * [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
 * [2023-07-19, 02:42:26](https://news.ycombinator.com/item?id=36781525) - [Mad Pascal](https://github.com/tebe6502/Mad-Pascal)
+* [2023-07-19, 01:54:05](https://news.ycombinator.com/item?id=36781268) - [Can a 3D printed keyboard last three years?](https://danwilkerson.com/posts/2023-07-17-can-a-3d-printed-keyboard-make-it-three-years)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and Asus agree to term sheet to take NUC systems product line forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
 * [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [How is ChatGPT's behavior changing over time?](https://arxiv.org/abs/2307.09009)
 * [2023-07-18, 23:20:56](https://news.ycombinator.com/item?id=36780297) - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
@@ -12,7 +14,6 @@
 * [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 * [2023-07-18, 20:26:23](https://news.ycombinator.com/item?id=36778617) - [Cython 3.0 Released](https://cython.readthedocs.io/en/latest/src/changes.html)
 * [2023-07-18, 20:22:29](https://news.ycombinator.com/item?id=36778566) - [Val, a high-level systems programming language](https://www.val-lang.dev/)
-* [2023-07-18, 20:10:50](https://news.ycombinator.com/item?id=36778432) - [Tesla directors agree to return $735M following claims they were overpaid](https://www.engadget.com/tesla-directors-agree-to-return-735-million-following-claims-they-were-massively-overpaid-105506056.html)
 * [2023-07-18, 19:56:07](https://news.ycombinator.com/item?id=36778318) - [Kraken Technologies: How we organise our large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code (2008)](https://pdos.csail.mit.edu/~baford/vm/)
@@ -28,7 +29,6 @@
 * [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, revolutionary, cryptologist… suspected spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
 * [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Training Video for Bell Labs' Holmdel Computing Center (1973) [video]](https://www.youtube.com/watch?v=HMYiktO0D64)
 * [2023-07-17, 12:58:59](https://news.ycombinator.com/item?id=36757726) - [A.I. (1981)](https://www.newyorker.com/magazine/1981/12/14/a-i)
-* [2023-07-17, 12:57:56](https://news.ycombinator.com/item?id=36757710) - [Glykon, was an ancient snake god](https://en.wikipedia.org/wiki/Glycon)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
 
 ## [Archives](archives/index.md)
