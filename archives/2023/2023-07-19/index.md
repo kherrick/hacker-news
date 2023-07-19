@@ -13,6 +13,7 @@
 * [2023-07-19, 05:07:56](https://news.ycombinator.com/item?id=36782314) - [AI-Generated South Park](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-19, 04:28:56](https://news.ycombinator.com/item?id=36782128) - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
+* [2023-07-19, 04:03:48](https://news.ycombinator.com/item?id=36781994) - [Neil Howe: Trust in US Institutions Continues to Decline](https://app.hedgeye.com/insights/136510-neil-howe-trust-in-us-institutions-continues-to-decline)
 * [2023-07-19, 03:39:28](https://news.ycombinator.com/item?id=36781860) - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
 * [2023-07-19, 02:56:06](https://news.ycombinator.com/item?id=36781594) - [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
 * [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
