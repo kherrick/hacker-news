@@ -25,11 +25,11 @@
 * [2023-07-19, 12:08:11](https://news.ycombinator.com/item?id=36785005) - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
 * [2023-07-19, 06:05:52](https://news.ycombinator.com/item?id=36782638) - [What Is Radio Spectrum?](https://www.transportation.gov/pnt/what-radio-spectrum)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
+* [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The life of salt and the limits of colonization in the southwest](http://commonplace.online/article/saline-survivance/)
 * [2023-07-18, 11:51:03](https://news.ycombinator.com/item?id=36770815) - [Green Oases: NYC’s Community Gardens](https://worldsensorium.com/green-oases-nycs-community-gardens/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
-* [2023-07-17, 08:56:35](https://news.ycombinator.com/item?id=36755701) - [You can't stop the business, or why rewrites fail](https://swizec.com/blog/you-can-t-stop-the-business-or-why-rewrites-fail/)
 
 ## [Archives](archives/index.md)
 
