@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
+* [2023-07-19, 14:34:13](https://news.ycombinator.com/item?id=36787059) - [Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)
 * [2023-07-19, 14:23:37](https://news.ycombinator.com/item?id=36786874) - [Ask HN: My child was diagnosed with sensory processing disorder. What to do?](https://news.ycombinator.com/item?id=36786874)
 * [2023-07-19, 14:09:29](https://news.ycombinator.com/item?id=36786623) - [Non-native English speaking scientists work much harder just to keep up](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
+* [2023-07-19, 14:00:45](https://news.ycombinator.com/item?id=36786471) - [Ask HN: What is your streaming setup like?](https://news.ycombinator.com/item?id=36786471)
 * [2023-07-19, 13:56:18](https://news.ycombinator.com/item?id=36786407) - [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
+* [2023-07-19, 13:49:21](https://news.ycombinator.com/item?id=36786294) - [Zig: Upcoming Release Postponed Two More Weeks and Lacks Async Functions](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 13:11:11](https://news.ycombinator.com/item?id=36785707) - [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
 * [2023-07-19, 12:53:58](https://news.ycombinator.com/item?id=36785516) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
