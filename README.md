@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
+* [2023-07-19, 06:56:25](https://news.ycombinator.com/item?id=36782918) - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
@@ -10,7 +11,6 @@
 * [2023-07-19, 02:42:26](https://news.ycombinator.com/item?id=36781525) - [Mad Pascal](https://github.com/tebe6502/Mad-Pascal)
 * [2023-07-19, 01:54:05](https://news.ycombinator.com/item?id=36781268) - [Can a 3D printed keyboard last three years?](https://danwilkerson.com/posts/2023-07-17-can-a-3d-printed-keyboard-make-it-three-years)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and Asus agree to term sheet to take NUC systems product line forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
-* [2023-07-19, 01:07:03](https://news.ycombinator.com/item?id=36781021) - [Numbers without which it's impossible to talk about weight loss](https://dynomight.net/weight/)
 * [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [How is ChatGPT's behavior changing over time?](https://arxiv.org/abs/2307.09009)
 * [2023-07-18, 23:20:56](https://news.ycombinator.com/item?id=36780297) - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 * [2023-07-18, 21:16:13](https://news.ycombinator.com/item?id=36779215) - [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
@@ -23,13 +23,13 @@
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
 * [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
-* [2023-07-18, 16:47:53](https://news.ycombinator.com/item?id=36775475) - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 * [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, revolutionary, cryptologist… suspected spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
 * [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Training Video for Bell Labs' Holmdel Computing Center (1973) [video]](https://www.youtube.com/watch?v=HMYiktO0D64)
 * [2023-07-17, 12:58:59](https://news.ycombinator.com/item?id=36757726) - [A.I. (1981)](https://www.newyorker.com/magazine/1981/12/14/a-i)
+* [2023-07-17, 12:57:56](https://news.ycombinator.com/item?id=36757710) - [Glykon, was an ancient snake god](https://en.wikipedia.org/wiki/Glycon)
 
 ## [Archives](archives/index.md)
 
