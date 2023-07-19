@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 19:29:22](https://news.ycombinator.com/item?id=36791903) - [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
 * [2023-07-19, 19:21:30](https://news.ycombinator.com/item?id=36791793) - [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
 * [2023-07-19, 19:07:06](https://news.ycombinator.com/item?id=36791606) - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
 * [2023-07-19, 19:00:45](https://news.ycombinator.com/item?id=36791506) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
@@ -31,6 +32,7 @@
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 15:08:02](https://news.ycombinator.com/item?id=36787711) - [A stationary jet stream is fueling intense heat worldwide](https://e360.yale.edu/digest/jet-stream-climate-change-heat-wave)
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
+* [2023-07-19, 14:41:45](https://news.ycombinator.com/item?id=36787200) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
 * [2023-07-19, 14:36:03](https://news.ycombinator.com/item?id=36787096) - [SteamOS now available for custom hardware](https://store.steampowered.com/steamos/buildyourown)
 * [2023-07-19, 14:34:13](https://news.ycombinator.com/item?id=36787059) - [Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)
