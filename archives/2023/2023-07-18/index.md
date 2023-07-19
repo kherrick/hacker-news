@@ -18,6 +18,7 @@
 * [2023-07-18, 20:10:50](https://news.ycombinator.com/item?id=36778432) - [Tesla directors agree to return $735M following claims they were overpaid](https://www.engadget.com/tesla-directors-agree-to-return-735-million-following-claims-they-were-massively-overpaid-105506056.html)
 * [2023-07-18, 19:56:07](https://news.ycombinator.com/item?id=36778318) - [Kraken Technologies: How we organise our large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
 * [2023-07-18, 19:43:11](https://news.ycombinator.com/item?id=36778152) - [Airbnbust? Short-term rental prices plummet in Palm Springs](https://www.msn.com/en-us/money/realestate/airbnbust-short-term-rental-prices-plummet-in-palm-springs-and-some-owners-are-worried/ar-AA1e0CGc)
+* [2023-07-18, 19:40:42](https://news.ycombinator.com/item?id=36778115) - [Thomas Smillie’s Photographic Survey of the Smithsonian (1890–1913)](https://publicdomainreview.org/collection/smillie-smithsonian/)
 * [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 19:00:59](https://news.ycombinator.com/item?id=36777600) - [What is a merge queue, and does your team need one?](https://graphite.dev/blog/what-is-a-merge-queue)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code](https://pdos.csail.mit.edu/~baford/vm/)
