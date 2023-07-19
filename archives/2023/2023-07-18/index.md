@@ -77,6 +77,7 @@
 * [2023-07-18, 09:52:05](https://news.ycombinator.com/item?id=36769998) - [VanMoof, the e-bike startup, officially declared bankrupt in The Netherlands](https://techcrunch.com/2023/07/18/vanmoof-goes-vanpoof-bankruptcy/)
 * [2023-07-18, 09:46:10](https://news.ycombinator.com/item?id=36769965) - [85% of AI Startups Will Be Out of Business in 3 Years, Major Investor Says](https://www.thestreet.com/technology/ai-85-pct-of-startups-will-be-out-of-business-in-3-years-major-investor-says)
 * [2023-07-18, 09:37:48](https://news.ycombinator.com/item?id=36769912) - [Swig – Connect C/C++ programs with high-level programming languages](https://www.swig.org/)
+* [2023-07-18, 08:38:01](https://news.ycombinator.com/item?id=36769535) - [Trouble with Lichen by John Wyndham (1962) [video]](https://www.youtube.com/watch?v=XsUhhOaAsaw)
 * [2023-07-18, 07:50:32](https://news.ycombinator.com/item?id=36769173) - [Stalwart All-in-One Mail Server (IMAP, JMAP, SMTP)](https://github.com/stalwartlabs/mail-server)
 * [2023-07-18, 07:46:52](https://news.ycombinator.com/item?id=36769145) - [Windows 11 Collects an Awful Lot of Telemetry About Your PC](https://www.extremetech.com/computing/342941-windows-11-collects-an-awful-lot-of-telemetry-about-your-pc)
 * [2023-07-18, 04:34:25](https://news.ycombinator.com/item?id=36767837) - [Generative AI Space and the Mental Imagery of Alien Minds](https://writings.stephenwolfram.com/2023/07/generative-ai-space-and-the-mental-imagery-of-alien-minds/)
