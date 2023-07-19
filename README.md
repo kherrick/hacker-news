@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-19, 08:07:02](https://news.ycombinator.com/item?id=36783348) - [Nvidia just released FreeBSD Display Driver 535.86.05 (2023.7.18)](https://twitter.com/fosdembsd/status/1681574924282998784)
-* [2023-07-19, 07:12:55](https://news.ycombinator.com/item?id=36783019) - [Llama 2 is not open source](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-07-19, 06:56:25](https://news.ycombinator.com/item?id=36782918) - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Local Async Executors and Why They Should be the Default (Rust)](https://maciej.codes/2022-06-09-local-async.html)
@@ -25,6 +24,7 @@
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
 * [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
+* [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, revolutionary, cryptologist… suspected spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
