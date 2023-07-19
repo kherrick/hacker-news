@@ -13,6 +13,7 @@
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 05:07:56](https://news.ycombinator.com/item?id=36782314) - [AI-Generated South Park](https://fablestudio.github.io/showrunner-agents/)
+* [2023-07-19, 04:58:41](https://news.ycombinator.com/item?id=36782276) - [IPv6 Deployment Status](https://datatracker.ietf.org/doc/html/rfc9386)
 * [2023-07-19, 04:28:56](https://news.ycombinator.com/item?id=36782128) - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 * [2023-07-19, 04:03:48](https://news.ycombinator.com/item?id=36781994) - [Neil Howe: Trust in US Institutions Continues to Decline](https://app.hedgeye.com/insights/136510-neil-howe-trust-in-us-institutions-continues-to-decline)
