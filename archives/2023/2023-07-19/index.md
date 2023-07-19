@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 07:12:55](https://news.ycombinator.com/item?id=36783019) - [Llama 2 is not open source](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-07-19, 06:56:25](https://news.ycombinator.com/item?id=36782918) - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
+* [2023-07-19, 05:07:56](https://news.ycombinator.com/item?id=36782314) - [AI-Generated South Park](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-19, 04:28:56](https://news.ycombinator.com/item?id=36782128) - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 * [2023-07-19, 03:39:28](https://news.ycombinator.com/item?id=36781860) - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
