@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
+* [2023-07-19, 17:41:48](https://news.ycombinator.com/item?id=36790280) - [A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)
 * [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
 * [2023-07-19, 17:36:42](https://news.ycombinator.com/item?id=36790196) - [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
 * [2023-07-19, 17:32:40](https://news.ycombinator.com/item?id=36790133) - [Blizzard’s bringing its PC games to Steam, starting with Overwatch 2](https://www.polygon.com/23799285/blizzard-pc-games-steam-overwatch-2-release-date)
 * [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
+* [2023-07-19, 16:16:01](https://news.ycombinator.com/item?id=36788831) - [Target's EasySweep – Simplifying Skimmer Detection for All](https://tech.target.com/blog/cybersecurity-easysweep)
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:12:14](https://news.ycombinator.com/item?id=36788767) - [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)
 * [2023-07-19, 16:09:07](https://news.ycombinator.com/item?id=36788708) - [Apple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAI](https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google)
