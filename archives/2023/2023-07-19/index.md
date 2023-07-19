@@ -8,6 +8,7 @@
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 04:28:56](https://news.ycombinator.com/item?id=36782128) - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
+* [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 * [2023-07-19, 03:39:28](https://news.ycombinator.com/item?id=36781860) - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
 * [2023-07-19, 02:56:06](https://news.ycombinator.com/item?id=36781594) - [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
 * [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
