@@ -70,6 +70,7 @@
 * [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Bell Labs Holmdel Computer Center (1973)](https://www.youtube.com/watch?v=HMYiktO0D64)
 * [2023-07-18, 12:01:55](https://news.ycombinator.com/item?id=36770894) - [Investigating Blackout Crime in the Second World War (2022)](https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/)
 * [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
+* [2023-07-18, 11:51:03](https://news.ycombinator.com/item?id=36770815) - [Green Oases: NYC’s Community Gardens](https://worldsensorium.com/green-oases-nycs-community-gardens/)
 * [2023-07-18, 11:27:21](https://news.ycombinator.com/item?id=36770624) - [Medicine is plagued by untrustworthy clinical trials](https://www.nature.com/articles/d41586-023-02299-w)
 * [2023-07-18, 10:46:26](https://news.ycombinator.com/item?id=36770320) - [Linux has nearly half of the desktop OS Linux market](https://www.theregister.com/2023/07/18/linux_desktop_debate/)
 * [2023-07-18, 10:30:29](https://news.ycombinator.com/item?id=36770235) - [Microsoft lost its keys, and the government got hacked](https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/)

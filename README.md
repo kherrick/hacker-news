@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-19, 19:29:22](https://news.ycombinator.com/item?id=36791903) - [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
-* [2023-07-19, 19:21:30](https://news.ycombinator.com/item?id=36791793) - [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
 * [2023-07-19, 19:14:09](https://news.ycombinator.com/item?id=36791697) - [Ask HN: What hardware are you running for your home server?](https://news.ycombinator.com/item?id=36791697)
 * [2023-07-19, 19:07:06](https://news.ycombinator.com/item?id=36791606) - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
 * [2023-07-19, 19:00:45](https://news.ycombinator.com/item?id=36791506) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
@@ -28,6 +27,7 @@
 * [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The life of salt and the limits of colonization in the southwest](http://commonplace.online/article/saline-survivance/)
+* [2023-07-18, 11:51:03](https://news.ycombinator.com/item?id=36770815) - [Green Oases: NYC’s Community Gardens](https://worldsensorium.com/green-oases-nycs-community-gardens/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 * [2023-07-17, 08:56:35](https://news.ycombinator.com/item?id=36755701) - [You can't stop the business, or why rewrites fail](https://swizec.com/blog/you-can-t-stop-the-business-or-why-rewrites-fail/)
 
