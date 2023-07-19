@@ -4,10 +4,17 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 13:11:11](https://news.ycombinator.com/item?id=36785707) - [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
+* [2023-07-19, 12:53:58](https://news.ycombinator.com/item?id=36785516) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
+* [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
+* [2023-07-19, 12:49:41](https://news.ycombinator.com/item?id=36785467) - [Senators to Propose Ban on U.S. Lawmakers, Executive Branch Members Owning Stock](https://www.wsj.com/articles/senators-to-propose-ban-on-u-s-lawmakers-executive-branch-members-owning-stock-6db6411)
 * [2023-07-19, 12:34:07](https://news.ycombinator.com/item?id=36785285) - [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
 * [2023-07-19, 12:30:09](https://news.ycombinator.com/item?id=36785239) - [Mystery Object Is Found on Remote Beach in Western Australia](https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html)
 * [2023-07-19, 12:24:09](https://news.ycombinator.com/item?id=36785178) - [Why Oppenheimer Deserves His Own Movie [video]](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
 * [2023-07-19, 12:19:17](https://news.ycombinator.com/item?id=36785127) - [The global fight for critical minerals is costly and damaging](https://www.nature.com/articles/d41586-023-02330-0)
+* [2023-07-19, 12:08:11](https://news.ycombinator.com/item?id=36785005) - [Advanced Python Mastery – A Course by David Beazley](https://github.com/dabeaz-course/python-mastery)
+* [2023-07-19, 12:07:23](https://news.ycombinator.com/item?id=36784998) - [Kangaroo tendons could rebuild human knees better, stronger](https://lighthouse.mq.edu.au/article/july-2023/kangaroos-could-help-injured-athletes-get-back-in-the-game)
+* [2023-07-19, 11:53:16](https://news.ycombinator.com/item?id=36784886) - [Baldur's Gate 3: New Standard for the RPG Genre?](https://gameworldobserver.com/2023/07/12/baldurs-gate-3-new-standard-for-rpg-genre-opinions)
 * [2023-07-19, 11:28:45](https://news.ycombinator.com/item?id=36784699) - [Iceland’s Quest to Use 100 Percent of Its Fish Waste](https://hakaimagazine.com/news/icelands-quest-to-use-100-percent-of-its-fish-waste/)
 * [2023-07-19, 10:40:55](https://news.ycombinator.com/item?id=36784326) - [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
 * [2023-07-19, 10:34:42](https://news.ycombinator.com/item?id=36784291) - [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
