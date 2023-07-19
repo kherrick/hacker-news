@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
+* [2023-07-19, 01:12:54](https://news.ycombinator.com/item?id=36781049) - [Why Marketers Are Afraid of Kindness](https://www.admdnewsletter.com/p/why-marketers-are-afraid-of-kindness)
 * [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [(Databricks cofounder) How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
 * [2023-07-19, 00:23:18](https://news.ycombinator.com/item?id=36780752) - [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
 * [2023-07-18, 23:20:56](https://news.ycombinator.com/item?id=36780297) - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
@@ -25,7 +26,6 @@
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, revolutionary, cryptologist… suspected spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
-* [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
 * [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Training Video for Bell Labs' Holmdel Computing Center (1973) [video]](https://www.youtube.com/watch?v=HMYiktO0D64)
 * [2023-07-17, 12:58:59](https://news.ycombinator.com/item?id=36757726) - [A.I. (1981)](https://www.newyorker.com/magazine/1981/12/14/a-i)
 * [2023-07-17, 12:57:56](https://news.ycombinator.com/item?id=36757710) - [Glykon, was an ancient snake god](https://en.wikipedia.org/wiki/Glycon)
