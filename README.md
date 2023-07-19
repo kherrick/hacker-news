@@ -2,6 +2,7 @@
 
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:12:14](https://news.ycombinator.com/item?id=36788767) - [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)
+* [2023-07-19, 16:09:07](https://news.ycombinator.com/item?id=36788708) - [Apple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAI](https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google)
 * [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Carnegie Mellon, University of Pittsburgh end use of legacy status in admissions](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
 * [2023-07-19, 15:39:50](https://news.ycombinator.com/item?id=36788206) - [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 15:21:54](https://news.ycombinator.com/item?id=36787924) - [Ask HN: How are you improving your use of LLMs in production?](https://news.ycombinator.com/item?id=36787924)
@@ -10,7 +11,6 @@
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
 * [2023-07-19, 14:34:13](https://news.ycombinator.com/item?id=36787059) - [Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)
-* [2023-07-19, 13:56:18](https://news.ycombinator.com/item?id=36786407) - [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
 * [2023-07-19, 13:49:21](https://news.ycombinator.com/item?id=36786294) - [Zig: Upcoming release postponed two more weeks and lacks async functions](https://ziglang.org/news/0.11.0-postponed-again/)
 * [2023-07-19, 13:46:18](https://news.ycombinator.com/item?id=36786239) - [Show HN: Gemini web client in 100 lines of C](https://github.com/ir33k/gmi100)
 * [2023-07-19, 12:44:30](https://news.ycombinator.com/item?id=36785409) - [Iosevka typeface for code, from code](https://github.com/be5invis/Iosevka)
