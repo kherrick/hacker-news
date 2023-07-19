@@ -23,6 +23,7 @@
 * [2023-07-19, 02:35:30](https://news.ycombinator.com/item?id=36781487) - [FiraCode: Free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [2023-07-19, 01:54:05](https://news.ycombinator.com/item?id=36781268) - [Can a 3D printed keyboard last three years?](https://danwilkerson.com/posts/2023-07-17-can-a-3d-printed-keyboard-make-it-three-years)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
+* [2023-07-19, 01:18:08](https://news.ycombinator.com/item?id=36781077) - [K9s: A lazier way to manage Kubernetes Clusters](https://github.com/derailed/k9s)
 * [2023-07-19, 01:12:54](https://news.ycombinator.com/item?id=36781049) - [Why Marketers Are Afraid of Kindness](https://www.admdnewsletter.com/p/why-marketers-are-afraid-of-kindness)
 * [2023-07-19, 01:07:03](https://news.ycombinator.com/item?id=36781021) - [Numbers without which it's impossible to talk about weight loss](https://dynomight.net/weight/)
 * [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [(Databricks cofounder) How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
