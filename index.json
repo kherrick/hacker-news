@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 14:09:29",
+      "https://news.ycombinator.com/item?id=36786623"
+    ],
+    [
+      "Non-native English speaking scientists work much harder just to keep up",
+      "https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 13:56:18",
       "https://news.ycombinator.com/item?id=36786407"
     ],
@@ -85,8 +95,8 @@
       "https://news.ycombinator.com/item?id=36785239"
     ],
     [
-      "Mystery Object Is Found on Remote Beach in Western Australia",
-      "https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html"
+      "Space material found on a beach in Western Australia",
+      "https://www.reddit.com/r/space/comments/1515q3w/found_on_a_beach_in_western_australia/"
     ]
   ],
   [
@@ -125,7 +135,7 @@
       "https://news.ycombinator.com/item?id=36784583"
     ],
     [
-      "The Jupyter+Git problem is now solved",
+      "The Jupyter+Git problem is now solved (2022)",
       "https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=36781248"
     ],
     [
-      "ASUS agrees to manufacture and sell Intel’s NUC products",
+      "ASUS to manufacture and sell Intel’s NUC products",
       "https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "A Medieval Age of Disruption",
       "https://lareviewofbooks.org/article/a-medieval-age-of-disruption-on-nicholas-mortons-the-mongol-storm/"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 20:52:09",
-      "https://news.ycombinator.com/item?id=36778905"
-    ],
-    [
-      "Lazydocker: a lazier way to manage everything Docker",
-      "https://github.com/jesseduffield/lazydocker"
     ]
   ],
   [
