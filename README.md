@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-19, 04:28:56](https://news.ycombinator.com/item?id=36782128) - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
+* [2023-07-19, 03:39:28](https://news.ycombinator.com/item?id=36781860) - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
 * [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
 * [2023-07-19, 02:42:26](https://news.ycombinator.com/item?id=36781525) - [Mad Pascal](https://github.com/tebe6502/Mad-Pascal)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and Asus agree to term sheet to take NUC systems product line forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
@@ -20,7 +21,6 @@
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 * [2023-07-18, 16:47:53](https://news.ycombinator.com/item?id=36775475) - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 * [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
-* [2023-07-18, 16:27:00](https://news.ycombinator.com/item?id=36775098) - [Payment systems while working at a pizza place](https://nickjanetakis.com/blog/what-i-learned-about-payment-systems-while-working-at-a-pizza-place)
 * [2023-07-18, 16:24:45](https://news.ycombinator.com/item?id=36775054) - [Betterfox: User.js to harden Firefox and optimize privacy, security, and speed](https://github.com/yokoffing/Betterfox)
 * [2023-07-18, 16:02:17](https://news.ycombinator.com/item?id=36774642) - [10NES](https://fabiensanglard.net/10nes/index.html)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
