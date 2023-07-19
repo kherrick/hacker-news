@@ -13,7 +13,6 @@
 * [2023-07-19, 11:53:16](https://news.ycombinator.com/item?id=36784886) - [Baldur's Gate 3: New Standard for the RPG Genre?](https://gameworldobserver.com/2023/07/12/baldurs-gate-3-new-standard-for-rpg-genre-opinions)
 * [2023-07-19, 11:28:45](https://news.ycombinator.com/item?id=36784699) - [Iceland’s Quest to Use 100 Percent of Its Fish Waste](https://hakaimagazine.com/news/icelands-quest-to-use-100-percent-of-its-fish-waste/)
 * [2023-07-19, 10:40:55](https://news.ycombinator.com/item?id=36784326) - [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
-* [2023-07-19, 08:07:02](https://news.ycombinator.com/item?id=36783348) - [Nvidia just released FreeBSD Display Driver 535.86.05 (2023.7.18)](https://twitter.com/fosdembsd/status/1681574924282998784)
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-07-19, 06:56:25](https://news.ycombinator.com/item?id=36782918) - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Local Async Executors and Why They Should be the Default (Rust)](https://maciej.codes/2022-06-09-local-async.html)
@@ -30,6 +29,7 @@
 * [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
+* [2023-07-18, 12:01:55](https://news.ycombinator.com/item?id=36770894) - [Investigating Blackout Crime in the Second World War (2022)](https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/)
 
 ## [Archives](archives/index.md)
 
