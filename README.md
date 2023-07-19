@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 03:39:28](https://news.ycombinator.com/item?id=36781860) - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
 * [2023-07-19, 02:56:06](https://news.ycombinator.com/item?id=36781594) - [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
 * [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
@@ -18,7 +19,6 @@
 * [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code (2008)](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
-* [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 * [2023-07-18, 16:47:53](https://news.ycombinator.com/item?id=36775475) - [AutoChain, lightweight and testable alternative to LangChain](https://github.com/Forethought-Technologies/AutoChain)
 * [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
