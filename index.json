@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 15:17:21",
+      "https://news.ycombinator.com/item?id=36787860"
+    ],
+    [
+      "Postman acquires Akita for automated API observability",
+      "https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 15:10:10",
       "https://news.ycombinator.com/item?id=36787746"
     ],
@@ -27,16 +37,6 @@
     [
       "OneSignal (YC S11) Is Hiring Software Engineers",
       "https://onesignal.com/careers/4247164006"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 14:36:03",
-      "https://news.ycombinator.com/item?id=36787096"
-    ],
-    [
-      "SteamOS now available for custom hardware",
-      "https://store.steampowered.com/steamos/buildyourown"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "Zig: Upcoming release postponed two more weeks and lacks async functions",
       "https://ziglang.org/news/0.11.0-postponed-again/"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 13:11:11",
-      "https://news.ycombinator.com/item?id=36785707"
-    ],
-    [
-      "NeetoCal, a calendly alternative, is a commodity and is priced accordingly",
-      "https://blog.neeto.com/p/neetocal-a-calendly-alternative-is"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Investigating Blackout Crime in the Second World War (2022)",
       "https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 09:59:51",
+      "https://news.ycombinator.com/item?id=36770047"
+    ],
+    [
+      "When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies",
+      "https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/"
     ]
   ]
 ]
