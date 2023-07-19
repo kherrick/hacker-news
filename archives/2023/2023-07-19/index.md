@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 17:36:42](https://news.ycombinator.com/item?id=36790196) - [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
 * [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:12:14](https://news.ycombinator.com/item?id=36788767) - [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)
@@ -49,6 +50,7 @@
 * [2023-07-19, 11:14:45](https://news.ycombinator.com/item?id=36784583) - [The Jupyter+Git problem is now solved](https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/)
 * [2023-07-19, 10:40:55](https://news.ycombinator.com/item?id=36784326) - [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
 * [2023-07-19, 10:34:42](https://news.ycombinator.com/item?id=36784291) - [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
+* [2023-07-19, 08:22:48](https://news.ycombinator.com/item?id=36783445) - [Save Open Source /-/ the Impending Tragedy of the Cyber Resilience Act](https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act)
 * [2023-07-19, 08:07:02](https://news.ycombinator.com/item?id=36783348) - [Nvidia just released FreeBSD Display Driver 535.86.05 (2023.7.18)](https://twitter.com/fosdembsd/status/1681574924282998784)
 * [2023-07-19, 07:12:55](https://news.ycombinator.com/item?id=36783019) - [Llama 2 is not open source](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
