@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
+* [2023-07-19, 14:36:03](https://news.ycombinator.com/item?id=36787096) - [SteamOS now available for custom hardware](https://store.steampowered.com/steamos/buildyourown)
 * [2023-07-19, 14:34:13](https://news.ycombinator.com/item?id=36787059) - [Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)
 * [2023-07-19, 14:23:37](https://news.ycombinator.com/item?id=36786874) - [Ask HN: My child was diagnosed with sensory processing disorder. What to do?](https://news.ycombinator.com/item?id=36786874)
 * [2023-07-19, 14:09:29](https://news.ycombinator.com/item?id=36786623) - [Non-native English speaking scientists work much harder just to keep up](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
@@ -17,6 +18,7 @@
 * [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
 * [2023-07-19, 12:49:41](https://news.ycombinator.com/item?id=36785467) - [Senators to Propose Ban on U.S. Lawmakers, Executive Branch Members Owning Stock](https://www.wsj.com/articles/senators-to-propose-ban-on-u-s-lawmakers-executive-branch-members-owning-stock-6db6411)
 * [2023-07-19, 12:48:08](https://news.ycombinator.com/item?id=36785450) - [Neopets Is Coming Back Bigger and Better Than Ever](https://www.buzzfeed.com/haltherego/neopets-new-launch)
+* [2023-07-19, 12:44:30](https://news.ycombinator.com/item?id=36785409) - [Iosevka typeface for code, from code](https://github.com/be5invis/Iosevka)
 * [2023-07-19, 12:44:30](https://news.ycombinator.com/item?id=36785409) - [Iosevka typeface for code, from code. Has styles like Fira Mono, Consolas, Menlo](https://github.com/be5invis/Iosevka/blob/main/doc/stylistic-sets.md)
 * [2023-07-19, 12:37:03](https://news.ycombinator.com/item?id=36785318) - [A Decade of Rust, and Announcing Ferrocene](https://ferrous-systems.com/blog/a-decade-of-rust/)
 * [2023-07-19, 12:34:07](https://news.ycombinator.com/item?id=36785285) - [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
