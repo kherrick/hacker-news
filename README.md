@@ -12,7 +12,6 @@
 * [2023-07-19, 17:41:48](https://news.ycombinator.com/item?id=36790280) - [A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)
 * [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
 * [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
-* [2023-07-19, 16:16:01](https://news.ycombinator.com/item?id=36788831) - [Target's EasySweep – Simplifying Skimmer Detection for All](https://tech.target.com/blog/cybersecurity-easysweep)
 * [2023-07-19, 16:13:12](https://news.ycombinator.com/item?id=36788783) - [Mini – The Minimal Language](https://minilanguage.com/)
 * [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
 * [2023-07-19, 15:40:01](https://news.ycombinator.com/item?id=36788210) - [Show HN: Infisical – open-source secret management platform](https://infisical.com/)
@@ -30,6 +29,7 @@
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The life of salt and the limits of colonization in the southwest](http://commonplace.online/article/saline-survivance/)
 * [2023-07-18, 11:51:03](https://news.ycombinator.com/item?id=36770815) - [Green Oases: NYC’s Community Gardens](https://worldsensorium.com/green-oases-nycs-community-gardens/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
+* [2023-07-18, 08:42:23](https://news.ycombinator.com/item?id=36769565) - [Portable Grindhouse: The Lost Art of the VHS Box](https://cinemasojourns.com/2023/07/18/portable-grindhouse-the-lost-art-of-the-vhs-box/)
 
 ## [Archives](archives/index.md)
 
