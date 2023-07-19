@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 04:28:56](https://news.ycombinator.com/item?id=36782128) - [Telegram raises $210M through bond sales](https://techcrunch.com/2023/07/18/telegram-raises-210-million-through-bond-sales/)
 * [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
+* [2023-07-19, 02:42:26](https://news.ycombinator.com/item?id=36781525) - [Mad Pascal](https://github.com/tebe6502/Mad-Pascal)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and Asus agree to term sheet to take NUC systems product line forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
-* [2023-07-19, 01:12:54](https://news.ycombinator.com/item?id=36781049) - [Why Marketers Are Afraid of Kindness](https://www.admdnewsletter.com/p/why-marketers-are-afraid-of-kindness)
 * [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [How is ChatGPT's behavior changing over time?](https://arxiv.org/abs/2307.09009)
-* [2023-07-19, 00:23:18](https://news.ycombinator.com/item?id=36780752) - [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
 * [2023-07-18, 23:20:56](https://news.ycombinator.com/item?id=36780297) - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-07-18, 21:16:13](https://news.ycombinator.com/item?id=36779215) - [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
