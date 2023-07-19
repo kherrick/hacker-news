@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and ASUS Agree to Term Sheet to Take NUC Systems Product Line Forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
+* [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [(Databricks cofounder) How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
 * [2023-07-19, 00:23:18](https://news.ycombinator.com/item?id=36780752) - [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
 * [2023-07-18, 23:20:56](https://news.ycombinator.com/item?id=36780297) - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
@@ -9,7 +11,6 @@
 * [2023-07-18, 20:22:29](https://news.ycombinator.com/item?id=36778566) - [Val, a high-level systems programming language](https://www.val-lang.dev/)
 * [2023-07-18, 20:10:50](https://news.ycombinator.com/item?id=36778432) - [Tesla directors agree to return $735M following claims they were overpaid](https://www.engadget.com/tesla-directors-agree-to-return-735-million-following-claims-they-were-massively-overpaid-105506056.html)
 * [2023-07-18, 19:56:07](https://news.ycombinator.com/item?id=36778318) - [Kraken Technologies: How we organise our large Python monolith](https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/)
-* [2023-07-18, 19:43:11](https://news.ycombinator.com/item?id=36778152) - [Airbnbust? Short-term rental prices plummet in Palm Springs](https://www.msn.com/en-us/money/realestate/airbnbust-short-term-rental-prices-plummet-in-palm-springs-and-some-owners-are-worried/ar-AA1e0CGc)
 * [2023-07-18, 19:33:33](https://news.ycombinator.com/item?id=36778041) - [Accessing Llama 2 from the command-line with the LLM-replicate plugin](https://simonwillison.net/2023/Jul/18/accessing-llama-2/)
 * [2023-07-18, 18:59:07](https://news.ycombinator.com/item?id=36777576) - [Vx32: Portable, efficient, safe user-space execution of untrusted x86 code (2008)](https://pdos.csail.mit.edu/~baford/vm/)
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
@@ -26,9 +27,8 @@
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
 * [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Training Video for Bell Labs' Holmdel Computing Center (1973) [video]](https://www.youtube.com/watch?v=HMYiktO0D64)
-* [2023-07-18, 01:31:41](https://news.ycombinator.com/item?id=36766631) - [Astronomers observe subpulse drifting and nulling of pulsar PSR J0026–1955](https://phys.org/news/2023-07-astronomers-subpulse-drifting-nulling-pulsar.html)
+* [2023-07-17, 12:58:59](https://news.ycombinator.com/item?id=36757726) - [A.I. (1981)](https://www.newyorker.com/magazine/1981/12/14/a-i)
 * [2023-07-17, 12:57:56](https://news.ycombinator.com/item?id=36757710) - [Glykon, was an ancient snake god](https://en.wikipedia.org/wiki/Glycon)
-* [2023-07-17, 11:25:01](https://news.ycombinator.com/item?id=36756655) - [None of the Above](https://elevanth.org/blog/2023/07/17/none-of-the-above/)
 * [2023-07-16, 22:20:19](https://news.ycombinator.com/item?id=36751994) - [Tiffin Tom: Fish, chips and a side of identity theft](https://paul.reviews/tiffin-tom-fish-chips-and-a-side-of-identity-theft/)
 
 ## [Archives](archives/index.md)
