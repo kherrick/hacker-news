@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:12:14](https://news.ycombinator.com/item?id=36788767) - [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)
 * [2023-07-19, 16:09:07](https://news.ycombinator.com/item?id=36788708) - [Apple Tests ‘Apple GPT,’ Develops Generative AI Tools to Catch OpenAI](https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google)
