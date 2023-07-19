@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2023-07-19, 19:14:09",
+      "https://news.ycombinator.com/item?id=36791697"
+    ],
+    [
+      "Ask HN: What hardware are you running for your home server?",
+      "https://news.ycombinator.com/item?id=36791697"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 19:07:06",
       "https://news.ycombinator.com/item?id=36791606"
     ],
@@ -87,16 +97,6 @@
     [
       "Asynchronous Rust on Cortex-M Microcontrollers",
       "https://interrupt.memfault.com/blog/embedded-async-rust"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 17:36:42",
-      "https://news.ycombinator.com/item?id=36790196"
-    ],
-    [
-      "Remote Code Execution in OpenSSH’s forwarded SSH-agent",
-      "https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent"
     ]
   ],
   [
