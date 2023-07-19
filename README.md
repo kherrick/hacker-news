@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 13:56:18](https://news.ycombinator.com/item?id=36786407) - [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
 * [2023-07-19, 13:11:11](https://news.ycombinator.com/item?id=36785707) - [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
 * [2023-07-19, 12:53:58](https://news.ycombinator.com/item?id=36785516) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
@@ -8,11 +9,10 @@
 * [2023-07-19, 12:44:30](https://news.ycombinator.com/item?id=36785409) - [Iosevka typeface for code, from code. Has styles like Fira Mono, Consolas, Menlo](https://github.com/be5invis/Iosevka/blob/main/doc/stylistic-sets.md)
 * [2023-07-19, 12:34:07](https://news.ycombinator.com/item?id=36785285) - [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
 * [2023-07-19, 12:30:09](https://news.ycombinator.com/item?id=36785239) - [Mystery Object Is Found on Remote Beach in Western Australia](https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html)
-* [2023-07-19, 12:24:09](https://news.ycombinator.com/item?id=36785178) - [Why Oppenheimer Deserves His Own Movie [video]](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
-* [2023-07-19, 12:19:17](https://news.ycombinator.com/item?id=36785127) - [The global fight for critical minerals is costly and damaging](https://www.nature.com/articles/d41586-023-02330-0)
 * [2023-07-19, 12:08:11](https://news.ycombinator.com/item?id=36785005) - [Advanced Python Mastery – A Course by David Beazley](https://github.com/dabeaz-course/python-mastery)
 * [2023-07-19, 12:07:23](https://news.ycombinator.com/item?id=36784998) - [Kangaroo tendons could rebuild human knees better, stronger](https://lighthouse.mq.edu.au/article/july-2023/kangaroos-could-help-injured-athletes-get-back-in-the-game)
 * [2023-07-19, 12:03:54](https://news.ycombinator.com/item?id=36784971) - [Amsterdam police ask VanMoof customers to stop accusing the company of theft](https://nltimes.nl/2023/07/19/amsterdam-police-ask-vanmoof-customers-stop-accusing-company-theft)
+* [2023-07-19, 11:14:45](https://news.ycombinator.com/item?id=36784583) - [The Jupyter+Git problem is now solved](https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/)
 * [2023-07-19, 10:40:55](https://news.ycombinator.com/item?id=36784326) - [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-07-19, 06:56:25](https://news.ycombinator.com/item?id=36782918) - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
@@ -27,7 +27,7 @@
 * [2023-07-18, 23:20:56](https://news.ycombinator.com/item?id=36780297) - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 * [2023-07-18, 20:59:57](https://news.ycombinator.com/item?id=36779010) - [A Medieval Age of Disruption](https://lareviewofbooks.org/article/a-medieval-age-of-disruption-on-nicholas-mortons-the-mongol-storm/)
 * [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
-* [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
+* [2023-07-18, 17:38:34](https://news.ycombinator.com/item?id=36776382) - [In the Asian Flu of 1957-58, they rejected lockdowns (2021)](https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 12:01:55](https://news.ycombinator.com/item?id=36770894) - [Investigating Blackout Crime in the Second World War (2022)](https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/)
 

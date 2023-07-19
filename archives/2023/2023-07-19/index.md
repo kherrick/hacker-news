@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 13:56:18](https://news.ycombinator.com/item?id=36786407) - [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
 * [2023-07-19, 13:11:11](https://news.ycombinator.com/item?id=36785707) - [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
 * [2023-07-19, 12:53:58](https://news.ycombinator.com/item?id=36785516) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
@@ -19,6 +20,7 @@
 * [2023-07-19, 12:03:54](https://news.ycombinator.com/item?id=36784971) - [Amsterdam police ask VanMoof customers to stop accusing the company of theft](https://nltimes.nl/2023/07/19/amsterdam-police-ask-vanmoof-customers-stop-accusing-company-theft)
 * [2023-07-19, 11:53:16](https://news.ycombinator.com/item?id=36784886) - [Baldur's Gate 3: New Standard for the RPG Genre?](https://gameworldobserver.com/2023/07/12/baldurs-gate-3-new-standard-for-rpg-genre-opinions)
 * [2023-07-19, 11:28:45](https://news.ycombinator.com/item?id=36784699) - [Iceland’s Quest to Use 100 Percent of Its Fish Waste](https://hakaimagazine.com/news/icelands-quest-to-use-100-percent-of-its-fish-waste/)
+* [2023-07-19, 11:14:45](https://news.ycombinator.com/item?id=36784583) - [The Jupyter+Git problem is now solved](https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/)
 * [2023-07-19, 10:40:55](https://news.ycombinator.com/item?id=36784326) - [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
 * [2023-07-19, 10:34:42](https://news.ycombinator.com/item?id=36784291) - [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
 * [2023-07-19, 08:07:02](https://news.ycombinator.com/item?id=36783348) - [Nvidia just released FreeBSD Display Driver 535.86.05 (2023.7.18)](https://twitter.com/fosdembsd/status/1681574924282998784)
