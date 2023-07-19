@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 16:26:31",
+      "https://news.ycombinator.com/item?id=36789010"
+    ],
+    [
+      "Beyond introvert vs. extrovert",
+      "https://www.vipshek.com/blog/interaction"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 16:14:48",
       "https://news.ycombinator.com/item?id=36788813"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2023-07-19, 16:07:17",
-      "https://news.ycombinator.com/item?id=36788685"
-    ],
-    [
-      "Vendr (YC19) Q2 SaaS Data",
-      "https://www.vendr.com/insights/saas-trends-report-q2-2023"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 15:44:24",
       "https://news.ycombinator.com/item?id=36788274"
     ],
@@ -67,16 +67,6 @@
     [
       "Simply Parse in C",
       "https://pencil.toast.cafe/bunker-labs/simply-parse-in-c"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 15:21:54",
-      "https://news.ycombinator.com/item?id=36787924"
-    ],
-    [
-      "Ask HN: How are you improving your use of LLMs in production?",
-      "https://news.ycombinator.com/item?id=36787924"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "Show HN: Gemini web client in 100 lines of C",
       "https://github.com/ir33k/gmi100"
+    ]
+  ],
+  [
+    [
+      "2023-07-19, 12:53:58",
+      "https://news.ycombinator.com/item?id=36785516"
+    ],
+    [
+      "Web Environment Integrity Explainer",
+      "https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md"
     ]
   ],
   [
