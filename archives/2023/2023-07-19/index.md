@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 20:46:52](https://news.ycombinator.com/item?id=36793074) - [WhatsApp Is Down](https://metastatus.com/whatsapp-business-api)
+* [2023-07-19, 20:44:05](https://news.ycombinator.com/item?id=36793022) - [Complex Hearts](https://www.sharbonline.com/fun-stuff/card-games/complex-hearts/)
+* [2023-07-19, 20:06:29](https://news.ycombinator.com/item?id=36792421) - [Cold restart whole system after total outage](https://www.evalapply.org/posts/cold-restart-total-outage/index.html)
 * [2023-07-19, 19:29:22](https://news.ycombinator.com/item?id=36791903) - [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
 * [2023-07-19, 19:21:30](https://news.ycombinator.com/item?id=36791793) - [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
 * [2023-07-19, 19:14:09](https://news.ycombinator.com/item?id=36791697) - [Ask HN: What hardware are you running for your home server?](https://news.ycombinator.com/item?id=36791697)
 * [2023-07-19, 19:07:06](https://news.ycombinator.com/item?id=36791606) - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
+* [2023-07-19, 19:04:07](https://news.ycombinator.com/item?id=36791566) - [Stable Doodle: Transform your doodles into real images in seconds](https://clipdrop.co/stable-doodle)
 * [2023-07-19, 19:00:45](https://news.ycombinator.com/item?id=36791506) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 * [2023-07-19, 18:56:59](https://news.ycombinator.com/item?id=36791465) - [Full-text search engine with PostgreSQL (part 2): Postgres vs. Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch)
 * [2023-07-19, 18:54:50](https://news.ycombinator.com/item?id=36791434) - [Launch HN: Twenty.com (YC S23) – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
@@ -72,6 +76,7 @@
 * [2023-07-19, 06:56:25](https://news.ycombinator.com/item?id=36782918) - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
+* [2023-07-19, 06:05:52](https://news.ycombinator.com/item?id=36782638) - [What Is Radio Spectrum?](https://www.transportation.gov/pnt/what-radio-spectrum)
 * [2023-07-19, 05:07:56](https://news.ycombinator.com/item?id=36782314) - [AI-Generated South Park](https://fablestudio.github.io/showrunner-agents/)
 * [2023-07-19, 04:58:41](https://news.ycombinator.com/item?id=36782276) - [IPv6 Deployment Status](https://datatracker.ietf.org/doc/html/rfc9386)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping](https://jazz-library.com/articles/comping/)
