@@ -1,12 +1,32 @@
 [
   [
     [
+      "2023-07-19, 17:39:08",
+      "https://news.ycombinator.com/item?id=36790238"
+    ],
+    [
+      "Asynchronous Rust on Cortex-M Microcontrollers",
+      "https://interrupt.memfault.com/blog/embedded-async-rust"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 17:36:42",
       "https://news.ycombinator.com/item?id=36790196"
     ],
     [
       "Remote Code Execution in OpenSSH’s forwarded SSH-agent",
       "https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent"
+    ]
+  ],
+  [
+    [
+      "2023-07-19, 17:32:40",
+      "https://news.ycombinator.com/item?id=36790133"
+    ],
+    [
+      "Blizzard’s bringing its PC games to Steam, starting with Overwatch 2",
+      "https://www.polygon.com/23799285/blizzard-pc-games-steam-overwatch-2-release-date"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2023-07-19, 02:35:30",
-      "https://news.ycombinator.com/item?id=36781487"
-    ],
-    [
-      "FiraCode: Free monospaced font with programming ligatures",
-      "https://github.com/tonsky/FiraCode"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 01:48:10",
       "https://news.ycombinator.com/item?id=36781248"
     ],
@@ -267,16 +277,6 @@
     [
       "The Life of Salt and the Limits of Colonization in the Southwest",
       "http://commonplace.online/article/saline-survivance/"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 12:01:55",
-      "https://news.ycombinator.com/item?id=36770894"
-    ],
-    [
-      "Investigating Blackout Crime in the Second World War (2022)",
-      "https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/"
     ]
   ],
   [
