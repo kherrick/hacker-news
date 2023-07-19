@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-19, 20:51:31",
+      "https://news.ycombinator.com/item?id=36793147"
+    ],
+    [
+      "The Illusion of AI’s Existential Risk",
+      "https://www.noemamag.com/the-illusion-of-ais-existential-risk/"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 20:46:52",
       "https://news.ycombinator.com/item?id=36793074"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2023-07-19, 20:40:51",
+      "https://news.ycombinator.com/item?id=36792968"
+    ],
+    [
+      "A framework to securely use LLMs in companies – Part 1: Overview of Risks",
+      "https://boringappsec.substack.com/p/edition-21-a-framework-to-securely"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 20:06:29",
       "https://news.ycombinator.com/item?id=36792421"
     ],
     [
       "Cold restart whole system after total outage",
       "https://www.evalapply.org/posts/cold-restart-total-outage/index.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 19:07:06",
-      "https://news.ycombinator.com/item?id=36791606"
-    ],
-    [
-      "Language history and we: the case of “like”",
-      "https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "The single most impor­tant factor that dif­fer­enti­ates front-end frame­works",
       "https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 18:56:59",
-      "https://news.ycombinator.com/item?id=36791465"
-    ],
-    [
-      "Full-text search engine with PostgreSQL (part 2): Postgres vs. Elasticsearch",
-      "https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch"
     ]
   ],
   [
