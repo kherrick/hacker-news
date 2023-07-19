@@ -8,6 +8,7 @@
 * [2023-07-19, 12:53:58](https://news.ycombinator.com/item?id=36785516) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
 * [2023-07-19, 12:49:41](https://news.ycombinator.com/item?id=36785467) - [Senators to Propose Ban on U.S. Lawmakers, Executive Branch Members Owning Stock](https://www.wsj.com/articles/senators-to-propose-ban-on-u-s-lawmakers-executive-branch-members-owning-stock-6db6411)
+* [2023-07-19, 12:48:08](https://news.ycombinator.com/item?id=36785450) - [Neopets Is Coming Back Bigger and Better Than Ever](https://www.buzzfeed.com/haltherego/neopets-new-launch)
 * [2023-07-19, 12:34:07](https://news.ycombinator.com/item?id=36785285) - [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
 * [2023-07-19, 12:30:09](https://news.ycombinator.com/item?id=36785239) - [Mystery Object Is Found on Remote Beach in Western Australia](https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html)
 * [2023-07-19, 12:24:09](https://news.ycombinator.com/item?id=36785178) - [Why Oppenheimer Deserves His Own Movie [video]](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
