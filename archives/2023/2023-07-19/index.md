@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 14:23:37](https://news.ycombinator.com/item?id=36786874) - [Ask HN: My child was diagnosed with sensory processing disorder. What to do?](https://news.ycombinator.com/item?id=36786874)
 * [2023-07-19, 14:09:29](https://news.ycombinator.com/item?id=36786623) - [Non-native English speaking scientists work much harder just to keep up](https://theconversation.com/non-native-english-speaking-scientists-work-much-harder-just-to-keep-up-global-research-reveals-208750)
 * [2023-07-19, 13:56:18](https://news.ycombinator.com/item?id=36786407) - [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
 * [2023-07-19, 13:11:11](https://news.ycombinator.com/item?id=36785707) - [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
@@ -12,6 +13,7 @@
 * [2023-07-19, 12:49:41](https://news.ycombinator.com/item?id=36785467) - [Senators to Propose Ban on U.S. Lawmakers, Executive Branch Members Owning Stock](https://www.wsj.com/articles/senators-to-propose-ban-on-u-s-lawmakers-executive-branch-members-owning-stock-6db6411)
 * [2023-07-19, 12:48:08](https://news.ycombinator.com/item?id=36785450) - [Neopets Is Coming Back Bigger and Better Than Ever](https://www.buzzfeed.com/haltherego/neopets-new-launch)
 * [2023-07-19, 12:44:30](https://news.ycombinator.com/item?id=36785409) - [Iosevka typeface for code, from code. Has styles like Fira Mono, Consolas, Menlo](https://github.com/be5invis/Iosevka/blob/main/doc/stylistic-sets.md)
+* [2023-07-19, 12:37:03](https://news.ycombinator.com/item?id=36785318) - [A Decade of Rust, and Announcing Ferrocene](https://ferrous-systems.com/blog/a-decade-of-rust/)
 * [2023-07-19, 12:34:07](https://news.ycombinator.com/item?id=36785285) - [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
 * [2023-07-19, 12:30:09](https://news.ycombinator.com/item?id=36785239) - [Space material found on a beach in Western Australia](https://www.reddit.com/r/space/comments/1515q3w/found_on_a_beach_in_western_australia/)
 * [2023-07-19, 12:30:09](https://news.ycombinator.com/item?id=36785239) - [Mystery Object Is Found on Remote Beach in Western Australia](https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html)
