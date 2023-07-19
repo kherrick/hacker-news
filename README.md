@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 23:05:33](https://news.ycombinator.com/item?id=36794756) - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
 * [2023-07-19, 22:10:40](https://news.ycombinator.com/item?id=36794180) - [Novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
 * [2023-07-19, 21:55:31](https://news.ycombinator.com/item?id=36794025) - [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
 * [2023-07-19, 21:43:17](https://news.ycombinator.com/item?id=36793881) - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
@@ -21,7 +22,6 @@
 * [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
-* [2023-07-19, 14:41:45](https://news.ycombinator.com/item?id=36787200) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
 * [2023-07-19, 12:08:11](https://news.ycombinator.com/item?id=36785005) - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
 * [2023-07-19, 06:05:52](https://news.ycombinator.com/item?id=36782638) - [What Is Radio Spectrum?](https://www.transportation.gov/pnt/what-radio-spectrum)
