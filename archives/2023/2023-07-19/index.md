@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 20:51:31](https://news.ycombinator.com/item?id=36793147) - [The Illusion of AI’s Existential Risk](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
 * [2023-07-19, 20:46:52](https://news.ycombinator.com/item?id=36793074) - [WhatsApp Is Down](https://metastatus.com/whatsapp-business-api)
 * [2023-07-19, 20:44:05](https://news.ycombinator.com/item?id=36793022) - [Complex Hearts](https://www.sharbonline.com/fun-stuff/card-games/complex-hearts/)
+* [2023-07-19, 20:40:51](https://news.ycombinator.com/item?id=36792968) - [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
 * [2023-07-19, 20:06:29](https://news.ycombinator.com/item?id=36792421) - [Cold restart whole system after total outage](https://www.evalapply.org/posts/cold-restart-total-outage/index.html)
 * [2023-07-19, 19:29:22](https://news.ycombinator.com/item?id=36791903) - [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
 * [2023-07-19, 19:21:30](https://news.ycombinator.com/item?id=36791793) - [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
