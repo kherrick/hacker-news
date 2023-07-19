@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 18:54:50](https://news.ycombinator.com/item?id=36791434) - [Launch HN: Twenty.com (YC S23) – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
 * [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
 * [2023-07-19, 17:41:48](https://news.ycombinator.com/item?id=36790280) - [A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)
 * [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
@@ -23,7 +24,6 @@
 * [2023-07-19, 12:08:11](https://news.ycombinator.com/item?id=36785005) - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
 * [2023-07-19, 12:07:23](https://news.ycombinator.com/item?id=36784998) - [Kangaroo tendons could rebuild human knees better, stronger](https://lighthouse.mq.edu.au/article/july-2023/kangaroos-could-help-injured-athletes-get-back-in-the-game)
 * [2023-07-19, 11:14:45](https://news.ycombinator.com/item?id=36784583) - [The Jupyter+Git problem is now solved (2022)](https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/)
-* [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping](https://jazz-library.com/articles/comping/)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
