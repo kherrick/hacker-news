@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2023-07-19, 01:54:05",
-      "https://news.ycombinator.com/item?id=36781268"
-    ],
-    [
-      "Can a 3D printed keyboard last three years?",
-      "https://danwilkerson.com/posts/2023-07-17-can-a-3d-printed-keyboard-make-it-three-years"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 01:48:10",
       "https://news.ycombinator.com/item?id=36781248"
     ],
@@ -77,6 +67,16 @@
     [
       "How is ChatGPT's behavior changing over time?",
       "https://arxiv.org/abs/2307.09009"
+    ]
+  ],
+  [
+    [
+      "2023-07-19, 00:47:49",
+      "https://news.ycombinator.com/item?id=36780898"
+    ],
+    [
+      "NTP Implementation in Elixir",
+      "https://0x7f.dev/post/ntp-implementation-in-elixir/"
     ]
   ],
   [
