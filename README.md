@@ -2,6 +2,7 @@
 
 * [2023-07-19, 19:29:22](https://news.ycombinator.com/item?id=36791903) - [Cucumber: BDD Testing and Collaboration Tools](https://cucumber.io)
 * [2023-07-19, 19:21:30](https://news.ycombinator.com/item?id=36791793) - [India’s sex workers turn to WhatsApp, Instagram to find clients safely](https://restofworld.org/2023/india-sex-workers-online-safety/)
+* [2023-07-19, 19:14:09](https://news.ycombinator.com/item?id=36791697) - [Ask HN: What hardware are you running for your home server?](https://news.ycombinator.com/item?id=36791697)
 * [2023-07-19, 19:07:06](https://news.ycombinator.com/item?id=36791606) - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
 * [2023-07-19, 19:00:45](https://news.ycombinator.com/item?id=36791506) - [The single most impor­tant factor that dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 * [2023-07-19, 18:56:59](https://news.ycombinator.com/item?id=36791465) - [Full-text search engine with PostgreSQL (part 2): Postgres vs. Elasticsearch](https://xata.io/blog/postgres-full-text-search-postgres-vs-elasticsearch)
@@ -9,7 +10,6 @@
 * [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
 * [2023-07-19, 17:41:48](https://news.ycombinator.com/item?id=36790280) - [A Checklist for Choosing Type](https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type)
 * [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
-* [2023-07-19, 17:36:42](https://news.ycombinator.com/item?id=36790196) - [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
 * [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
 * [2023-07-19, 16:16:01](https://news.ycombinator.com/item?id=36788831) - [Target's EasySweep – Simplifying Skimmer Detection for All](https://tech.target.com/blog/cybersecurity-easysweep)
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
