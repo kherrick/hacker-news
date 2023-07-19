@@ -80,6 +80,7 @@
 * [2023-07-17, 10:04:00](https://news.ycombinator.com/item?id=36756101) - [Norwegian DPA: Temporary ban on behavioural advertising on Facebook, Instagram](https://www.datatilsynet.no/en/news/aktuelle-nyheter-2023/temporary-ban-of-behavioural-advertising-on-facebook-and-instagram/)
 * [2023-07-17, 09:49:27](https://news.ycombinator.com/item?id=36755994) - [Byte Fanless Mini PC – Built for Linux](https://us.starlabs.systems/pages/byte)
 * [2023-07-17, 09:03:57](https://news.ycombinator.com/item?id=36755732) - [Deloitte Australia CEO tells Senate committee his work not worth $3.5mAUD salary](https://www.abc.net.au/news/2023-07-17/deloitte-ceo-fronts-senate-committe-into-integrity/102610116)
+* [2023-07-17, 08:56:35](https://news.ycombinator.com/item?id=36755701) - [You can't stop the business, or why rewrites fail](https://swizec.com/blog/you-can-t-stop-the-business-or-why-rewrites-fail/)
 * [2023-07-17, 08:24:33](https://news.ycombinator.com/item?id=36755509) - [My broken ThinkPad plays music upon booting](https://nerology.substack.com/p/my-broken-thinkpad-plays-music-upon)
 * [2023-07-17, 06:54:59](https://news.ycombinator.com/item?id=36754950) - [Atari STacy (1989)](https://en.wikipedia.org/wiki/Atari_STacy)
 * [2023-07-17, 05:57:21](https://news.ycombinator.com/item?id=36754635) - [Europeans Are Becoming Poorer](https://www.wsj.com/articles/europeans-poorer-inflation-economy-255eb629)
