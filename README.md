@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 12:34:07](https://news.ycombinator.com/item?id=36785285) - [Bookwyrm – the federated social network for reading books](https://joinbookwyrm.com/)
+* [2023-07-19, 12:30:09](https://news.ycombinator.com/item?id=36785239) - [Mystery Object Is Found on Remote Beach in Western Australia](https://www.nytimes.com/2023/07/17/world/australia/mystery-object-australia-beach.html)
 * [2023-07-19, 12:24:09](https://news.ycombinator.com/item?id=36785178) - [Why Oppenheimer Deserves His Own Movie [video]](https://www.youtube.com/watch?v=Xzv84ZdtlE0)
+* [2023-07-19, 12:19:17](https://news.ycombinator.com/item?id=36785127) - [The global fight for critical minerals is costly and damaging](https://www.nature.com/articles/d41586-023-02330-0)
 * [2023-07-19, 11:28:45](https://news.ycombinator.com/item?id=36784699) - [Iceland’s Quest to Use 100 Percent of Its Fish Waste](https://hakaimagazine.com/news/icelands-quest-to-use-100-percent-of-its-fish-waste/)
 * [2023-07-19, 10:40:55](https://news.ycombinator.com/item?id=36784326) - [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
 * [2023-07-19, 10:34:42](https://news.ycombinator.com/item?id=36784291) - [Illusory Superiority](https://en.wikipedia.org/wiki/Illusory_superiority)
@@ -23,13 +26,10 @@
 * [2023-07-18, 21:16:13](https://news.ycombinator.com/item?id=36779215) - [Quantum physicists explained earth’s oscillating weather patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
 * [2023-07-18, 20:59:57](https://news.ycombinator.com/item?id=36779010) - [A Medieval Age of Disruption](https://lareviewofbooks.org/article/a-medieval-age-of-disruption-on-nicholas-mortons-the-mongol-storm/)
 * [2023-07-18, 20:52:09](https://news.ycombinator.com/item?id=36778905) - [Lazydocker: a lazier way to manage everything Docker](https://github.com/jesseduffield/lazydocker)
-* [2023-07-18, 20:22:29](https://news.ycombinator.com/item?id=36778566) - [Val, a high-level systems programming language](https://www.val-lang.dev/)
 * [2023-07-18, 17:38:34](https://news.ycombinator.com/item?id=36776382) - [In the Asian Flu of 1957-58, they rejected lockdowns (2021)](https://www.aier.org/article/in-the-asian-flu-of-1957-58-they-rejected-lockdowns/)
-* [2023-07-18, 16:43:12](https://news.ycombinator.com/item?id=36775398) - [Sweden Sans](https://identity.sweden.se/en/design-elements/typography)
 * [2023-07-18, 16:01:49](https://news.ycombinator.com/item?id=36774627) - [Llama 2](https://ai.meta.com/llama/)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 13:17:26](https://news.ycombinator.com/item?id=36771662) - [Wilfrid Voynich: Bookseller, revolutionary, cryptologist… suspected spy?](https://resobscura.substack.com/p/wilfrid-voynich-bookseller-revolutionary)
-* [2023-07-17, 12:57:56](https://news.ycombinator.com/item?id=36757710) - [Glykon, was an ancient snake god](https://en.wikipedia.org/wiki/Glycon)
 
 ## [Archives](archives/index.md)
 
