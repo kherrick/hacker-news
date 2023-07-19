@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
 * [2023-07-19, 17:36:42](https://news.ycombinator.com/item?id=36790196) - [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
+* [2023-07-19, 17:32:40](https://news.ycombinator.com/item?id=36790133) - [Blizzard’s bringing its PC games to Steam, starting with Overwatch 2](https://www.polygon.com/23799285/blizzard-pc-games-steam-overwatch-2-release-date)
 * [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:12:14](https://news.ycombinator.com/item?id=36788767) - [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)

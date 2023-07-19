@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
 * [2023-07-19, 17:36:42](https://news.ycombinator.com/item?id=36790196) - [Remote Code Execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
+* [2023-07-19, 17:32:40](https://news.ycombinator.com/item?id=36790133) - [Blizzard’s bringing its PC games to Steam, starting with Overwatch 2](https://www.polygon.com/23799285/blizzard-pc-games-steam-overwatch-2-release-date)
 * [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:12:14](https://news.ycombinator.com/item?id=36788767) - [JetBrains Mono Typeface](https://www.jetbrains.com/lp/mono/)
@@ -23,11 +25,9 @@
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Local async executors and why they should be the default](https://maciej.codes/2022-06-09-local-async.html)
 * [2023-07-19, 06:27:06](https://news.ycombinator.com/item?id=36782761) - [Netscape and Sun announce JavaScript (1995)](https://web.archive.org/web/20070916144913/https://wp.netscape.com/newsref/pr/newsrelease67.html)
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
-* [2023-07-19, 02:35:30](https://news.ycombinator.com/item?id=36781487) - [FiraCode: Free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [ASUS to manufacture and sell Intel’s NUC products](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The Life of Salt and the Limits of Colonization in the Southwest](http://commonplace.online/article/saline-survivance/)
-* [2023-07-18, 12:01:55](https://news.ycombinator.com/item?id=36770894) - [Investigating Blackout Crime in the Second World War (2022)](https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 * [2023-07-18, 08:38:01](https://news.ycombinator.com/item?id=36769535) - [Trouble with Lichen by John Wyndham (1962) [video]](https://www.youtube.com/watch?v=XsUhhOaAsaw)
 
