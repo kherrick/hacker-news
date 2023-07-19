@@ -14,7 +14,7 @@
 * [2023-07-19, 16:16:01](https://news.ycombinator.com/item?id=36788831) - [Target's EasySweep – Simplifying Skimmer Detection for All](https://tech.target.com/blog/cybersecurity-easysweep)
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:13:12](https://news.ycombinator.com/item?id=36788783) - [Mini – The Minimal Language](https://minilanguage.com/)
-* [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Children, alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
+* [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
 * [2023-07-19, 15:40:01](https://news.ycombinator.com/item?id=36788210) - [Show HN: Infisical – open-source secret management platform](https://infisical.com/)
 * [2023-07-19, 15:39:50](https://news.ycombinator.com/item?id=36788206) - [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
