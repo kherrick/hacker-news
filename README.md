@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-19, 07:12:55](https://news.ycombinator.com/item?id=36783019) - [Llama 2 is not open source](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)
+* [2023-07-19, 08:07:02](https://news.ycombinator.com/item?id=36783348) - [Nvidia just released FreeBSD Display Driver 535.86.05 (2023.7.18)](https://twitter.com/fosdembsd/status/1681574924282998784)
 * [2023-07-19, 07:00:09](https://news.ycombinator.com/item?id=36782935) - [Bitmovin (YC S15) Is Hiring a Senior Software Engineer (Java) in Austria](https://bitmovin.com/careers/senior-software-engineer-java-6834404002/)
 * [2023-07-19, 06:56:25](https://news.ycombinator.com/item?id=36782918) - [Microsoft faces antitrust scrutiny from the EU over Teams, Office 365](https://www.windowscentral.com/microsoft/microsoft-faces-antitrust-scrutiny-from-the-european-union)
 * [2023-07-19, 06:50:52](https://news.ycombinator.com/item?id=36782884) - [Async rust – are we doing it all wrong?](https://maciej.codes/2022-06-09-local-async.html)
@@ -9,8 +9,8 @@
 * [2023-07-19, 04:07:08](https://news.ycombinator.com/item?id=36782018) - [Lazygit: Simple terminal UI for Git commands](https://github.com/jesseduffield/lazygit)
 * [2023-07-19, 03:39:28](https://news.ycombinator.com/item?id=36781860) - [Meta Tells Managers Promotions Will Be Few and Far Between](https://www.businessinsider.com/meta-tells-managers-its-harder-to-get-promotions-2023-7)
 * [2023-07-19, 02:56:06](https://news.ycombinator.com/item?id=36781594) - [IBM PL/S Machine-oriented programming language [pdf]](http://bitsavers.trailing-edge.com/pdf/ibm/360/pls/GC28-0786-0_Guide_to_PL_S_Generated_Listings_Jul72.pdf)
-* [2023-07-19, 02:47:38](https://news.ycombinator.com/item?id=36781554) - [What Happened to Jai Alai? (2013)](https://www.sbnation.com/longform/2013/2/28/4036934/jai-alai-sport-in-america-miami)
 * [2023-07-19, 02:42:26](https://news.ycombinator.com/item?id=36781525) - [Mad Pascal](https://github.com/tebe6502/Mad-Pascal)
+* [2023-07-19, 02:35:30](https://news.ycombinator.com/item?id=36781487) - [FiraCode: Free monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [2023-07-19, 01:54:05](https://news.ycombinator.com/item?id=36781268) - [Can a 3D printed keyboard last three years?](https://danwilkerson.com/posts/2023-07-17-can-a-3d-printed-keyboard-make-it-three-years)
 * [2023-07-19, 01:48:10](https://news.ycombinator.com/item?id=36781248) - [Intel and Asus agree to term sheet to take NUC systems product line forward](https://www.intel.com/content/www/us/en/newsroom/news/intel-nuc-systems-agreement.html)
 * [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [How is ChatGPT's behavior changing over time?](https://arxiv.org/abs/2307.09009)
