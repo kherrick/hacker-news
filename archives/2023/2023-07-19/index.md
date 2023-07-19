@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-19](index.md)
 
+* [2023-07-19, 15:17:21](https://news.ycombinator.com/item?id=36787860) - [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)

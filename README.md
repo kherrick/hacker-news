@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-19, 15:17:21](https://news.ycombinator.com/item?id=36787860) - [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
-* [2023-07-19, 14:36:03](https://news.ycombinator.com/item?id=36787096) - [SteamOS now available for custom hardware](https://store.steampowered.com/steamos/buildyourown)
 * [2023-07-19, 14:34:13](https://news.ycombinator.com/item?id=36787059) - [Comic Code: Monospaced interpretation of the most over-hated typeface](https://tosche.net/fonts/comic-code)
 * [2023-07-19, 14:02:04](https://news.ycombinator.com/item?id=36786494) - [Installing Debian bookworm without systemd](https://diziet.dreamwidth.org/15336.html)
 * [2023-07-19, 13:56:18](https://news.ycombinator.com/item?id=36786407) - [GPT-4 is getting worse over time, not better](https://twitter.com/svpino/status/1681614284613099520)
 * [2023-07-19, 13:49:21](https://news.ycombinator.com/item?id=36786294) - [Zig: Upcoming release postponed two more weeks and lacks async functions](https://ziglang.org/news/0.11.0-postponed-again/)
-* [2023-07-19, 13:11:11](https://news.ycombinator.com/item?id=36785707) - [NeetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
 * [2023-07-19, 12:53:58](https://news.ycombinator.com/item?id=36785516) - [Web Environment Integrity Explainer](https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md)
 * [2023-07-19, 12:49:53](https://news.ycombinator.com/item?id=36785469) - [Tachyons – A CSS Toolkit](https://tachyons.io/)
 * [2023-07-19, 12:48:08](https://news.ycombinator.com/item?id=36785450) - [Neopets is coming back bigger and better than ever](https://www.buzzfeed.com/haltherego/neopets-new-launch)
@@ -30,6 +29,7 @@
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
 * [2023-07-18, 16:01:08](https://news.ycombinator.com/item?id=36774611) - [Launch HN: Highlight.io (YC W23) – Open-source, full stack web app monitoring](https://news.ycombinator.com/item?id=36774611)
 * [2023-07-18, 12:01:55](https://news.ycombinator.com/item?id=36770894) - [Investigating Blackout Crime in the Second World War (2022)](https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/)
+* [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When Open Becomes Opaque: The Changing Face of Open-Source Hardware Companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 
 ## [Archives](archives/index.md)
 
