@@ -2,6 +2,7 @@
 
 * [2023-07-20, 18:35:28](https://news.ycombinator.com/item?id=36804710) - [IRS moves forward with a new free-file tax return system](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
 * [2023-07-20, 18:27:02](https://news.ycombinator.com/item?id=36804591) - [The hometown of San Francisco’s drug dealers](https://www.sfchronicle.com/projects/2023/san-francisco-drug-trade-honduras/)
+* [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-Friendly Web Apps](https://shelterprotocol.net)
 * [2023-07-20, 18:12:32](https://news.ycombinator.com/item?id=36804394) - [In 1961 a Gallup poll showed only 33% of Americans in favor of moon landing](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
 * [2023-07-20, 17:44:24](https://news.ycombinator.com/item?id=36804013) - [Wiio’s laws: Communication usually fails, except by accident](https://en.wikipedia.org/wiki/Wiio%27s_laws)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
@@ -19,7 +20,6 @@
 * [2023-07-20, 12:37:46](https://news.ycombinator.com/item?id=36799600) - [Google tests A.I. tool that is able to write news articles](https://www.nytimes.com/2023/07/19/business/google-artificial-intelligence-news-articles.html)
 * [2023-07-20, 12:30:31](https://news.ycombinator.com/item?id=36799548) - [Anytype – open-source, local-first, P2P Notion alternative](https://anytype.io/?hn)
 * [2023-07-20, 12:01:19](https://news.ycombinator.com/item?id=36799283) - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
-* [2023-07-20, 11:30:57](https://news.ycombinator.com/item?id=36799073) - [AI That Teaches Other AI](https://viterbischool.usc.edu/news/2023/07/teaching-robots-to-teach-other-robots/)
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)
 * [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
