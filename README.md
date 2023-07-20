@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple. Fast. Web Components](https://lit.dev/)
 * [2023-07-20, 20:51:21](https://news.ycombinator.com/item?id=36806577) - [Decoding the ACL Paper: Gzip and KNN Rival Bert in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
 * [2023-07-20, 19:44:34](https://news.ycombinator.com/item?id=36805730) - [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
 * [2023-07-20, 18:35:28](https://news.ycombinator.com/item?id=36804710) - [IRS moves forward with a new free-file tax return system](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
@@ -26,7 +27,6 @@
 * [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative](https://github.com/docusealco/docuseal)
 * [2023-07-20, 05:36:00](https://news.ycombinator.com/item?id=36797188) - [It Takes Long to Become Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
-* [2023-07-20, 00:39:31](https://news.ycombinator.com/item?id=36795530) - [LZAV – Fast In-Memory Data Compression Algorithm (In C)](https://github.com/avaneev/lzav)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 20:06:29](https://news.ycombinator.com/item?id=36792421) - [Cold restart whole system after total outage](https://www.evalapply.org/posts/cold-restart-total-outage/index.html)
 * [2023-07-18, 22:23:38](https://news.ycombinator.com/item?id=36779855) - [Human Shader](https://humanshader.com)
