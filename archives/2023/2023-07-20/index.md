@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 17:41:12](https://news.ycombinator.com/item?id=36803964) - [What are the “trophy jobs” in tech?](https://anuatluru.com/blog/trophyjobs)
+* [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:50:33](https://news.ycombinator.com/item?id=36803267) - [Leaving the Web3 Cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
 * [2023-07-20, 16:49:24](https://news.ycombinator.com/item?id=36803249) - [Fury: a fast multi-language serialization framework](https://www.furyio.org/)
