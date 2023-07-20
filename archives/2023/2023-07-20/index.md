@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 12:01:19](https://news.ycombinator.com/item?id=36799283) - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
+* [2023-07-20, 11:28:26](https://news.ycombinator.com/item?id=36799059) - [TSMC delays U.S. chip plant start to 2025 due to labor shortages](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-delays-U.S.-chip-plant-start-to-2025-due-to-labor-shortages)
 * [2023-07-20, 10:54:50](https://news.ycombinator.com/item?id=36798864) - [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)
 * [2023-07-20, 10:51:39](https://news.ycombinator.com/item?id=36798850) - [Hearing aids may cut risk of cognitive decline by nearly half](https://www.washingtonpost.com/wellness/2023/07/19/hearing-loss-hearing-aids-dementia-study/)
+* [2023-07-20, 10:50:40](https://news.ycombinator.com/item?id=36798842) - [Why project-based learning fails (2018)](https://www.pathsensitive.com/2018/02/the-practice-is-not-performance-why.html)
 * [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
 * [2023-07-20, 09:27:11](https://news.ycombinator.com/item?id=36798408) - [Intel's 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)

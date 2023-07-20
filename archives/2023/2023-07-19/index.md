@@ -110,6 +110,7 @@
 * [2023-07-19, 01:12:54](https://news.ycombinator.com/item?id=36781049) - [Why Marketers Are Afraid of Kindness](https://www.admdnewsletter.com/p/why-marketers-are-afraid-of-kindness)
 * [2023-07-19, 01:07:03](https://news.ycombinator.com/item?id=36781021) - [Numbers without which it's impossible to talk about weight loss](https://dynomight.net/weight/)
 * [2023-07-19, 01:06:12](https://news.ycombinator.com/item?id=36781015) - [(Databricks cofounder) How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/abs/2307.09009)
+* [2023-07-19, 01:03:46](https://news.ycombinator.com/item?id=36780999) - [New tidal disruption event discovered by Chinese astronomers](https://phys.org/news/2023-07-tidal-disruption-event-chinese-astronomers.html)
 * [2023-07-19, 00:47:49](https://news.ycombinator.com/item?id=36780898) - [NTP Implementation in Elixir](https://0x7f.dev/post/ntp-implementation-in-elixir/)
 * [2023-07-19, 00:23:18](https://news.ycombinator.com/item?id=36780752) - [Google restricting internet access to some employees for security](https://www.cnbc.com/2023/07/18/google-restricting-internet-access-to-some-employees-for-security.html)
 * [2023-07-19, 00:21:41](https://news.ycombinator.com/item?id=36780739) - [The Death of Infosec Twitter](https://www.cyentia.com/the-death-of-infosec-twitter/)
