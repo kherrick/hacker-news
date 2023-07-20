@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 22:55:57](https://news.ycombinator.com/item?id=36807890) - [The precursory phase of large earthquakes](https://www.science.org/doi/full/10.1126/science.adg2565)
 * [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
@@ -22,7 +23,6 @@
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 * [2023-07-20, 13:21:18](https://news.ycombinator.com/item?id=36800041) - [Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
-* [2023-07-20, 12:56:48](https://news.ycombinator.com/item?id=36799772) - [Ether/Or – The story of black holes, and how I temporarily lost my mind [video]](https://www.youtube.com/watch?v=O0EKaSmtpA0)
 * [2023-07-20, 12:30:31](https://news.ycombinator.com/item?id=36799548) - [Anytype – local-first, P2P Notion alternative](https://anytype.io/?hn)
 * [2023-07-20, 12:01:19](https://news.ycombinator.com/item?id=36799283) - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 22:55:57](https://news.ycombinator.com/item?id=36807890) - [The precursory phase of large earthquakes](https://www.science.org/doi/full/10.1126/science.adg2565)
 * [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
 * [2023-07-20, 22:42:35](https://news.ycombinator.com/item?id=36807761) - [Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
