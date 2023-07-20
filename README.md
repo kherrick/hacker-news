@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
+* [2023-07-20, 22:42:35](https://news.ycombinator.com/item?id=36807761) - [Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
 * [2023-07-20, 21:26:15](https://news.ycombinator.com/item?id=36806970) - [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
@@ -11,7 +13,6 @@
 * [2023-07-20, 19:44:34](https://news.ycombinator.com/item?id=36805730) - [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
 * [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-end encrypted, federated, user-friendly web apps](https://shelterprotocol.net)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
-* [2023-07-20, 17:11:08](https://news.ycombinator.com/item?id=36803533) - [Show HN: RAGstack – private ChatGPT for enterprise VPCs, built with Llama 2](https://github.com/psychic-api/rag-stack)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
 * [2023-07-20, 16:06:44](https://news.ycombinator.com/item?id=36802582) - [Show HN: Ollama – Run LLMs on your Mac](https://github.com/jmorganca/ollama)
@@ -26,7 +27,6 @@
 * [2023-07-20, 12:30:31](https://news.ycombinator.com/item?id=36799548) - [Anytype – local-first, P2P Notion alternative](https://anytype.io/?hn)
 * [2023-07-20, 12:01:19](https://news.ycombinator.com/item?id=36799283) - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)
-* [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative](https://github.com/docusealco/docuseal)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-18, 22:23:38](https://news.ycombinator.com/item?id=36779855) - [Human Shader](https://humanshader.com)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
+* [2023-07-20, 22:42:35](https://news.ycombinator.com/item?id=36807761) - [Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
 * [2023-07-20, 21:26:15](https://news.ycombinator.com/item?id=36806970) - [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
