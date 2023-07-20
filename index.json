@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2023-07-20, 15:00:25",
-      "https://news.ycombinator.com/item?id=36801491"
-    ],
-    [
-      "FedNow Is Live",
-      "https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 14:57:21",
       "https://news.ycombinator.com/item?id=36801448"
     ],
@@ -87,16 +77,6 @@
     [
       "Accidentally Load Bearing",
       "https://www.jefftk.com/p/accidentally-load-bearing"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 13:29:41",
-      "https://news.ycombinator.com/item?id=36800144"
-    ],
-    [
-      "The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops",
-      "https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html"
     ]
   ],
   [
@@ -231,12 +211,12 @@
   ],
   [
     [
-      "2023-07-20, 08:21:22",
-      "https://news.ycombinator.com/item?id=36798051"
+      "2023-07-20, 08:29:06",
+      "https://news.ycombinator.com/item?id=36798092"
     ],
     [
-      "ChromiumOS Developer Guide, Programming languages and style",
-      "https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style"
+      "What Happened to Dolphin on Steam?",
+      "https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2023-07-19, 15:13:11",
+      "https://news.ycombinator.com/item?id=36787794"
+    ],
+    [
+      "Structure of elusive boron monoxide finally determined after 83 years",
+      "https://phys.org/news/2023-07-elusive-boron-monoxide-years.html"
+    ]
+  ],
+  [
+    [
       "2023-07-18, 19:55:39",
       "https://news.ycombinator.com/item?id=36778309"
     ],
     [
       "Japanese words of Portuguese origin",
       "https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 05:50:13",
+      "https://news.ycombinator.com/item?id=36768334"
+    ],
+    [
+      "Use multiple Git SSH identities on a single computer",
+      "https://github.com/InderdeepBajwa/gitid"
     ]
   ]
 ]
