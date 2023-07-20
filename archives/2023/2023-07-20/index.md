@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
 * [2023-07-20, 18:35:28](https://news.ycombinator.com/item?id=36804710) - [IRS moves forward with free-file tax return system; supporters, critics mobilize](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
+* [2023-07-20, 18:19:52](https://news.ycombinator.com/item?id=36804495) - [How to Build a Great Series A Pitch and Deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck)
 * [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-Friendly Web Apps](https://shelterprotocol.net)
 * [2023-07-20, 18:12:32](https://news.ycombinator.com/item?id=36804394) - [The Moon Landing Was Opposed by Majority of US](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
 * [2023-07-20, 17:41:12](https://news.ycombinator.com/item?id=36803964) - [What are the “trophy jobs” in tech?](https://anuatluru.com/blog/trophyjobs)
