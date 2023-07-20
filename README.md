@@ -23,11 +23,11 @@
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)
 * [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
+* [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
 * [2023-07-20, 00:39:31](https://news.ycombinator.com/item?id=36795530) - [LZAV – Fast In-Memory Data Compression Algorithm (In C)](https://github.com/avaneev/lzav)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 20:06:29](https://news.ycombinator.com/item?id=36792421) - [Cold restart whole system after total outage](https://www.evalapply.org/posts/cold-restart-total-outage/index.html)
-* [2023-07-19, 19:32:08](https://news.ycombinator.com/item?id=36791942) - [Machine Voice: Programmer Fiction](https://lareviewofbooks.org/article/machine-voice-programmer-fiction/)
 * [2023-07-19, 15:13:11](https://news.ycombinator.com/item?id=36787794) - [Structure of elusive boron monoxide finally determined after 83 years](https://phys.org/news/2023-07-elusive-boron-monoxide-years.html)
 * [2023-07-18, 22:23:38](https://news.ycombinator.com/item?id=36779855) - [Human Shader](https://humanshader.com)
 
