@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2023-07-19, 22:33:52",
-      "https://news.ycombinator.com/item?id=36794430"
-    ],
-    [
-      "LinkedIn adopts protocol buffers and reduces latency up to 60%",
-      "https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 19:31:42",
       "https://news.ycombinator.com/item?id=36791936"
     ],
@@ -287,6 +277,16 @@
     [
       "Japanese words of Portuguese origin",
       "https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 12:47:56",
+      "https://news.ycombinator.com/item?id=36771331"
+    ],
+    [
+      "Yelp rebuilds corrupted Cassandra cluster using its data streaming architecture",
+      "https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/"
     ]
   ],
   [
