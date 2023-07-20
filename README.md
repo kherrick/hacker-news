@@ -2,6 +2,7 @@
 
 * [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
+* [2023-07-20, 08:29:06](https://news.ycombinator.com/item?id=36798092) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 08:21:22](https://news.ycombinator.com/item?id=36798051) - [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
 * [2023-07-20, 07:02:16](https://news.ycombinator.com/item?id=36797624) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
 * [2023-07-20, 05:42:57](https://news.ycombinator.com/item?id=36797231) - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
@@ -12,7 +13,6 @@
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 23:05:33](https://news.ycombinator.com/item?id=36794756) - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
 * [2023-07-19, 22:33:52](https://news.ycombinator.com/item?id=36794430) - [LinkedIn adopts protocol buffers and reduces latency up to 60%](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/)
-* [2023-07-19, 21:55:31](https://news.ycombinator.com/item?id=36794025) - [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
 * [2023-07-19, 21:43:17](https://news.ycombinator.com/item?id=36793881) - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
 * [2023-07-19, 21:05:28](https://news.ycombinator.com/item?id=36793372) - [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
 * [2023-07-19, 20:51:31](https://news.ycombinator.com/item?id=36793147) - [The illusion of AI’s existential risk](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
