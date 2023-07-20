@@ -26,6 +26,7 @@
 * [2023-07-18, 18:56:42](https://news.ycombinator.com/item?id=36777536) - [Nintendo 64 Test Cart ROM](https://www.gamingalexandria.com/wp/2023/07/nintendo-64-test-cart-rom/)
 * [2023-07-18, 18:53:45](https://news.ycombinator.com/item?id=36777502) - [The World Bakes Under Extreme Heat](https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d)
 * [2023-07-18, 18:46:02](https://news.ycombinator.com/item?id=36777396) - [Data Parallel, Task Parallel, and Agent Actor Architectures](https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures)
+* [2023-07-18, 18:25:19](https://news.ycombinator.com/item?id=36777096) - [Kunga: Ancient Mesopotamians created the world’s first hybrid animal](https://bigthink.com/the-past/kunga-first-hybrid-animal/)
 * [2023-07-18, 18:22:16](https://news.ycombinator.com/item?id=36777053) - [Citus 12: Schema-based sharding for PostgreSQL](https://www.citusdata.com/blog/2023/07/18/citus-12-schema-based-sharding-for-postgres/)
 * [2023-07-18, 18:14:57](https://news.ycombinator.com/item?id=36776939) - [It's easy to underprice your product (2009)](https://venturehacks.com/pricing)
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The Life of Salt and the Limits of Colonization in the Southwest](http://commonplace.online/article/saline-survivance/)

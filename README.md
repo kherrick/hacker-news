@@ -27,9 +27,9 @@
 * [2023-07-19, 15:39:50](https://news.ycombinator.com/item?id=36788206) - [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
 * [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Glossary of Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
+* [2023-07-18, 18:25:19](https://news.ycombinator.com/item?id=36777096) - [Kunga: Ancient Mesopotamians created the world’s first hybrid animal](https://bigthink.com/the-past/kunga-first-hybrid-animal/)
 * [2023-07-18, 12:47:56](https://news.ycombinator.com/item?id=36771331) - [Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture](https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/)
 * [2023-07-18, 12:26:24](https://news.ycombinator.com/item?id=36771114) - [Teaching Programming in the Age of ChatGPT](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
-* [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 
 ## [Archives](archives/index.md)
 
