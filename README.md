@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-20, 07:02:16](https://news.ycombinator.com/item?id=36797624) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
-* [2023-07-20, 06:27:56](https://news.ycombinator.com/item?id=36797432) - [An evolutionary tree and graph for large language models](https://arxiv.org/abs/2307.09793)
 * [2023-07-20, 05:42:57](https://news.ycombinator.com/item?id=36797231) - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
 * [2023-07-20, 05:32:05](https://news.ycombinator.com/item?id=36797178) - [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
 * [2023-07-20, 05:09:23](https://news.ycombinator.com/item?id=36797079) - [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
@@ -25,6 +24,7 @@
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A glitch in the SEO matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:13:12](https://news.ycombinator.com/item?id=36788783) - [Mini – The Minimal Language](https://minilanguage.com/)
 * [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
+* [2023-07-19, 06:05:52](https://news.ycombinator.com/item?id=36782638) - [What Is Radio Spectrum?](https://www.transportation.gov/pnt/what-radio-spectrum)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
 * [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
 * [2023-07-18, 18:25:19](https://news.ycombinator.com/item?id=36777096) - [Kunga: Ancient Mesopotamians created the world’s first hybrid animal](https://bigthink.com/the-past/kunga-first-hybrid-animal/)
