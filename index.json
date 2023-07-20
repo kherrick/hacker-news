@@ -1,6 +1,36 @@
 [
   [
     [
+      "2023-07-20, 13:21:18",
+      "https://news.ycombinator.com/item?id=36800041"
+    ],
+    [
+      "Project Aria 'Digital Twin' Dataset by Meta",
+      "https://www.projectaria.com/datasets/adt/"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 12:57:03",
+      "https://news.ycombinator.com/item?id=36799776"
+    ],
+    [
+      "No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers",
+      "https://github.com/bartobri/no-more-secrets"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 12:40:53",
+      "https://news.ycombinator.com/item?id=36799628"
+    ],
+    [
+      "XYB JPEG: Perceptual Color Encoding Tested",
+      "https://giannirosato.com/blog/post/jpegli-xyb/"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 12:30:31",
       "https://news.ycombinator.com/item?id=36799548"
     ],
@@ -27,6 +57,26 @@
     [
       "Wall Street Shrinks Headcount by 21,000 as Dealmaking and Trading Slump",
       "https://www.bloomberg.com/news/articles/2023-07-19/wall-street-shrinks-ranks-by-21-000-amid-deals-trading-slump"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 11:52:46",
+      "https://news.ycombinator.com/item?id=36799221"
+    ],
+    [
+      "Spoil Your Secret Sauce",
+      "https://taylor.town/secret-sauce"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 11:30:57",
+      "https://news.ycombinator.com/item?id=36799073"
+    ],
+    [
+      "AI That Teaches Other AI",
+      "https://viterbischool.usc.edu/news/2023/07/teaching-robots-to-teach-other-robots/"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2023-07-20, 10:47:33",
-      "https://news.ycombinator.com/item?id=36798831"
-    ],
-    [
-      "Google Shattered Human Connection",
-      "https://staltz.com/google-shattered-human-connection.html"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 10:46:13",
       "https://news.ycombinator.com/item?id=36798826"
     ],
@@ -161,26 +201,6 @@
   ],
   [
     [
-      "2023-07-20, 05:32:05",
-      "https://news.ycombinator.com/item?id=36797178"
-    ],
-    [
-      "In Memoriam: Hans Petter William Sirevåg Selasky",
-      "https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 05:09:23",
-      "https://news.ycombinator.com/item?id=36797079"
-    ],
-    [
-      "Minigpt4 Inference on CPU",
-      "https://github.com/Maknee/minigpt4.cpp"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 23:53:59",
       "https://news.ycombinator.com/item?id=36795173"
     ],
@@ -207,16 +227,6 @@
     [
       "LinkedIn adopts protocol buffers and reduces latency up to 60%",
       "https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/"
-    ]
-  ],
-  [
-    [
-      "2023-07-19, 20:06:29",
-      "https://news.ycombinator.com/item?id=36792421"
-    ],
-    [
-      "Cold restart whole system after total outage",
-      "https://www.evalapply.org/posts/cold-restart-total-outage/index.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Yelp rebuilds corrupted Cassandra cluster using its data streaming architecture",
       "https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 12:26:24",
-      "https://news.ycombinator.com/item?id=36771114"
-    ],
-    [
-      "Teaching Programming in the Age of ChatGPT",
-      "https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/"
     ]
   ],
   [
