@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 09:27:11](https://news.ycombinator.com/item?id=36798408) - [Intel's 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)
 * [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:50:46](https://news.ycombinator.com/item?id=36798200) - [Android is now better than iOS, says head of Instagram](https://www.threads.net/@mosseri/post/CuzpnOwtadu)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)

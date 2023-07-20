@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 09:27:11](https://news.ycombinator.com/item?id=36798408) - [Intel's 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)
 * [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
 * [2023-07-20, 08:29:06](https://news.ycombinator.com/item?id=36798092) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
@@ -15,7 +16,6 @@
 * [2023-07-19, 22:33:52](https://news.ycombinator.com/item?id=36794430) - [LinkedIn adopts protocol buffers and reduces latency up to 60%](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/)
 * [2023-07-19, 21:43:17](https://news.ycombinator.com/item?id=36793881) - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
 * [2023-07-19, 21:05:28](https://news.ycombinator.com/item?id=36793372) - [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
-* [2023-07-19, 20:51:31](https://news.ycombinator.com/item?id=36793147) - [The illusion of AI’s existential risk](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
 * [2023-07-19, 20:44:05](https://news.ycombinator.com/item?id=36793022) - [Complex Hearts](https://www.sharbonline.com/fun-stuff/card-games/complex-hearts/)
 * [2023-07-19, 20:40:51](https://news.ycombinator.com/item?id=36792968) - [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
 * [2023-07-19, 19:31:42](https://news.ycombinator.com/item?id=36791936) - [Delts Don’t Lie](https://daily.jstor.org/delts-dont-lie/)
