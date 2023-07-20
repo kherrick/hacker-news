@@ -13,6 +13,7 @@
 * [2023-07-20, 17:44:24](https://news.ycombinator.com/item?id=36804013) - [Wiio’s laws: Communication usually fails, except by accident](https://en.wikipedia.org/wiki/Wiio%27s_laws)
 * [2023-07-20, 17:41:12](https://news.ycombinator.com/item?id=36803964) - [What are the “trophy jobs” in tech?](https://anuatluru.com/blog/trophyjobs)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
+* [2023-07-20, 17:11:08](https://news.ycombinator.com/item?id=36803533) - [Show HN: RAGstack – private ChatGPT for enterprise VPCs, built with Llama 2](https://github.com/psychic-api/rag-stack)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:50:33](https://news.ycombinator.com/item?id=36803267) - [Leaving the Web3 Cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
 * [2023-07-20, 16:49:24](https://news.ycombinator.com/item?id=36803249) - [Fury: a fast multi-language serialization framework](https://www.furyio.org/)
