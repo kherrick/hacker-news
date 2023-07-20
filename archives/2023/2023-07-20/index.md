@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
 * [2023-07-20, 15:32:37](https://news.ycombinator.com/item?id=36802021) - [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
+* [2023-07-20, 15:19:53](https://news.ycombinator.com/item?id=36801807) - [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)
 * [2023-07-20, 15:04:50](https://news.ycombinator.com/item?id=36801562) - [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
