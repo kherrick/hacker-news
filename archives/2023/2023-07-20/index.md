@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
+* [2023-07-20, 21:26:15](https://news.ycombinator.com/item?id=36806970) - [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
 * [2023-07-20, 21:06:12](https://news.ycombinator.com/item?id=36806753) - [Comprehensive Python “Cheatsheet”](https://gto76.github.io/python-cheatsheet/)
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple. Fast. Web Components](https://lit.dev/)
 * [2023-07-20, 20:51:21](https://news.ycombinator.com/item?id=36806577) - [Decoding the ACL Paper: Gzip and KNN Rival Bert in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
