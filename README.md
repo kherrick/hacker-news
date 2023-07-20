@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 05:42:57](https://news.ycombinator.com/item?id=36797231) - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
+* [2023-07-20, 05:32:05](https://news.ycombinator.com/item?id=36797178) - [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
 * [2023-07-20, 05:09:23](https://news.ycombinator.com/item?id=36797079) - [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
 * [2023-07-20, 04:51:17](https://news.ycombinator.com/item?id=36797001) - [This alien-looking airship design used a propulsion method unlike any other](https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other)
 * [2023-07-20, 03:48:51](https://news.ycombinator.com/item?id=36796685) - [ACL 2023 Tutorial: Retrieval-Based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
@@ -10,7 +12,6 @@
 * [2023-07-19, 21:55:31](https://news.ycombinator.com/item?id=36794025) - [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
 * [2023-07-19, 21:43:17](https://news.ycombinator.com/item?id=36793881) - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
 * [2023-07-19, 21:05:28](https://news.ycombinator.com/item?id=36793372) - [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
-* [2023-07-19, 20:51:31](https://news.ycombinator.com/item?id=36793147) - [The illusion of AI’s existential risk](https://www.noemamag.com/the-illusion-of-ais-existential-risk/)
 * [2023-07-19, 20:40:51](https://news.ycombinator.com/item?id=36792968) - [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
 * [2023-07-19, 19:07:06](https://news.ycombinator.com/item?id=36791606) - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
 * [2023-07-19, 19:00:45](https://news.ycombinator.com/item?id=36791506) - [What dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
@@ -26,7 +27,6 @@
 * [2023-07-19, 15:39:50](https://news.ycombinator.com/item?id=36788206) - [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
 * [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Glossary of Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
-* [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The life of salt and the limits of colonization in the southwest](http://commonplace.online/article/saline-survivance/)
 * [2023-07-18, 12:47:56](https://news.ycombinator.com/item?id=36771331) - [Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture](https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/)
 * [2023-07-18, 12:26:24](https://news.ycombinator.com/item?id=36771114) - [Teaching Programming in the Age of ChatGPT](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)

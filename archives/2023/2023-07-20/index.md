@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 05:42:57](https://news.ycombinator.com/item?id=36797231) - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
+* [2023-07-20, 05:32:05](https://news.ycombinator.com/item?id=36797178) - [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
 * [2023-07-20, 05:09:23](https://news.ycombinator.com/item?id=36797079) - [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
 * [2023-07-20, 04:51:17](https://news.ycombinator.com/item?id=36797001) - [This alien-looking airship design used a propulsion method unlike any other](https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other)
 * [2023-07-20, 03:48:51](https://news.ycombinator.com/item?id=36796685) - [ACL 2023 Tutorial: Retrieval-Based Language Models and Applications](https://acl2023-retrieval-lm.github.io/)
