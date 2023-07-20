@@ -1,6 +1,26 @@
 [
   [
     [
+      "2023-07-20, 17:41:12",
+      "https://news.ycombinator.com/item?id=36803964"
+    ],
+    [
+      "What are the “trophy jobs” in tech?",
+      "https://anuatluru.com/blog/trophyjobs"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 17:26:05",
+      "https://news.ycombinator.com/item?id=36803744"
+    ],
+    [
+      "Custom Instructions for ChatGPT",
+      "https://openai.com/blog/custom-instructions-for-chatgpt"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 17:01:06",
       "https://news.ycombinator.com/item?id=36803408"
     ],
@@ -11,42 +31,12 @@
   ],
   [
     [
-      "2023-07-20, 16:49:24",
-      "https://news.ycombinator.com/item?id=36803249"
-    ],
-    [
-      "Fury: a fast multi-language serialization framework",
-      "https://www.furyio.org/"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 16:11:04",
-      "https://news.ycombinator.com/item?id=36802662"
-    ],
-    [
-      "Why hundreds of decades-old yet vital drugs are nearly impossible to find",
-      "https://theconversation.com/blame-capitalism-why-hundreds-of-decades-old-yet-vital-drugs-are-nearly-impossible-to-find-206848"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 16:06:35",
       "https://news.ycombinator.com/item?id=36802579"
     ],
     [
       "Ask HN: Is SICP/HtDP still worth reading in 2023? Any alternatives?",
       "https://news.ycombinator.com/item?id=36802579"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 15:50:41",
-      "https://news.ycombinator.com/item?id=36802289"
-    ],
-    [
-      "NASA enters ‘home stretch’ to reach golden asteroid",
-      "https://studyfinds.org/nasa-mission-golden-asteroid/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Become Ungoogleable",
       "https://joeyh.name/blog/entry/become_ungoogleable/"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 13:47:26",
-      "https://news.ycombinator.com/item?id=36800374"
-    ],
-    [
-      "Two-Faced Star Exposed",
-      "https://www.caltech.edu/about/news/two-faced-star-exposed"
     ]
   ],
   [
@@ -171,32 +151,12 @@
   ],
   [
     [
-      "2023-07-20, 12:09:40",
-      "https://news.ycombinator.com/item?id=36799345"
-    ],
-    [
-      "PNG Specification (Third Edition) W3C Working Draft 20 July 2023",
-      "https://www.w3.org/TR/png-3/"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 12:01:19",
       "https://news.ycombinator.com/item?id=36799283"
     ],
     [
       "UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient",
       "https://up.codes/careers"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 11:52:46",
-      "https://news.ycombinator.com/item?id=36799221"
-    ],
-    [
-      "Spoil Your Secret Sauce",
-      "https://taylor.town/secret-sauce"
     ]
   ],
   [
@@ -211,12 +171,32 @@
   ],
   [
     [
+      "2023-07-20, 10:54:50",
+      "https://news.ycombinator.com/item?id=36798864"
+    ],
+    [
+      "Unshackle: A tool to bypass Windows and Linux password logins",
+      "https://github.com/Fadi002/unshackle"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 10:52:39",
       "https://news.ycombinator.com/item?id=36798854"
     ],
     [
       "The past is not true",
       "https://sive.rs/pnt"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 10:50:40",
+      "https://news.ycombinator.com/item?id=36798842"
+    ],
+    [
+      "Why project-based learning fails (2018)",
+      "https://www.pathsensitive.com/2018/02/the-practice-is-not-performance-why.html"
     ]
   ],
   [
@@ -237,6 +217,16 @@
     [
       "Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents",
       "https://github.com/docusealco/docuseal"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 09:24:47",
+      "https://news.ycombinator.com/item?id=36798395"
+    ],
+    [
+      "Vacuum airship",
+      "https://en.wikipedia.org/wiki/Vacuum_airship"
     ]
   ],
   [
@@ -271,6 +261,26 @@
   ],
   [
     [
+      "2023-07-19, 20:06:29",
+      "https://news.ycombinator.com/item?id=36792421"
+    ],
+    [
+      "Cold restart whole system after total outage",
+      "https://www.evalapply.org/posts/cold-restart-total-outage/index.html"
+    ]
+  ],
+  [
+    [
+      "2023-07-19, 19:32:08",
+      "https://news.ycombinator.com/item?id=36791942"
+    ],
+    [
+      "Machine Voice: Programmer Fiction",
+      "https://lareviewofbooks.org/article/machine-voice-programmer-fiction/"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 15:13:11",
       "https://news.ycombinator.com/item?id=36787794"
     ],
@@ -287,16 +297,6 @@
     [
       "Human Shader",
       "https://humanshader.com"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 19:55:39",
-      "https://news.ycombinator.com/item?id=36778309"
-    ],
-    [
-      "Japanese words of Portuguese origin",
-      "https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin"
     ]
   ]
 ]
