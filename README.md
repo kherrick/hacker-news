@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-20, 02:57:11](https://news.ycombinator.com/item?id=36796422) - [Sidebery – A Firefox extension for managing tabs and bookmarks in sidebar](https://github.com/mbnuqw/sidebery)
+* [2023-07-20, 02:21:49](https://news.ycombinator.com/item?id=36796188) - [Reading is selfish, elitist, and anti-social](https://otherlife.co/p/good-reading-selfish-elitist-antisocial)
 * [2023-07-20, 01:26:30](https://news.ycombinator.com/item?id=36795842) - [Spy Kids](https://www.cia.gov/spy-kids/games/index.html)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 23:05:33](https://news.ycombinator.com/item?id=36794756) - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
@@ -19,17 +20,16 @@
 * [2023-07-19, 16:14:48](https://news.ycombinator.com/item?id=36788813) - [A Glitch in the SEO Matrix](https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html)
 * [2023-07-19, 16:13:12](https://news.ycombinator.com/item?id=36788783) - [Mini – The Minimal Language](https://minilanguage.com/)
 * [2023-07-19, 15:44:24](https://news.ycombinator.com/item?id=36788274) - [Children of alumni no longer have admissions edge at Carnegie Mellon, Pitt](https://triblive.com/news/children-relatives-of-alumni-no-longer-have-admissions-edge-at-carnegie-mellon-pitt/)
-* [2023-07-19, 15:40:01](https://news.ycombinator.com/item?id=36788210) - [Show HN: Infisical – open-source secret management platform](https://infisical.com/)
 * [2023-07-19, 15:39:50](https://news.ycombinator.com/item?id=36788206) - [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
 * [2023-07-19, 03:06:59](https://news.ycombinator.com/item?id=36781669) - [A Story of a Stone](https://amerisurv.com/2023/06/10/a-story-of-a-stone/)
+* [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Glossary of Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
 * [2023-07-18, 17:40:19](https://news.ycombinator.com/item?id=36776407) - [The life of salt and the limits of colonization in the southwest](http://commonplace.online/article/saline-survivance/)
 * [2023-07-18, 12:47:56](https://news.ycombinator.com/item?id=36771331) - [Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture](https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/)
 * [2023-07-18, 12:26:24](https://news.ycombinator.com/item?id=36771114) - [Teaching Programming in the Age of ChatGPT](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
-* [2023-07-18, 08:42:23](https://news.ycombinator.com/item?id=36769565) - [Portable Grindhouse: The Lost Art of the VHS Box](https://cinemasojourns.com/2023/07/18/portable-grindhouse-the-lost-art-of-the-vhs-box/)
 
 ## [Archives](archives/index.md)
 
