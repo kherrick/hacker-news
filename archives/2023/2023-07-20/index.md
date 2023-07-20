@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
 * [2023-07-20, 16:50:33](https://news.ycombinator.com/item?id=36803267) - [Leaving the Web3 Cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
+* [2023-07-20, 16:49:24](https://news.ycombinator.com/item?id=36803249) - [Fury: a fast multi-language serialization framework](https://www.furyio.org/)
 * [2023-07-20, 16:06:35](https://news.ycombinator.com/item?id=36802579) - [Ask HN: Is SICP/HtDP still worth reading in 2023? Any alternatives?](https://news.ycombinator.com/item?id=36802579)
 * [2023-07-20, 15:32:37](https://news.ycombinator.com/item?id=36802021) - [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
 * [2023-07-20, 15:19:53](https://news.ycombinator.com/item?id=36801807) - [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)

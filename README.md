@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-20, 16:50:33](https://news.ycombinator.com/item?id=36803267) - [Leaving the Web3 Cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
+* [2023-07-20, 16:50:33](https://news.ycombinator.com/item?id=36803267) - [Leaving the Web3 cult](https://dope.bearblog.dev/leaving-the-web3-cult/)
+* [2023-07-20, 16:49:24](https://news.ycombinator.com/item?id=36803249) - [Fury: a fast multi-language serialization framework](https://www.furyio.org/)
 * [2023-07-20, 16:06:35](https://news.ycombinator.com/item?id=36802579) - [Ask HN: Is SICP/HtDP still worth reading in 2023? Any alternatives?](https://news.ycombinator.com/item?id=36802579)
 * [2023-07-20, 15:32:37](https://news.ycombinator.com/item?id=36802021) - [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
 * [2023-07-20, 15:19:53](https://news.ycombinator.com/item?id=36801807) - [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)
@@ -26,7 +27,6 @@
 * [2023-07-20, 08:29:06](https://news.ycombinator.com/item?id=36798092) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 05:54:11](https://news.ycombinator.com/item?id=36797277) - [Human Shader](https://humanshader.com)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
-* [2023-07-19, 18:54:50](https://news.ycombinator.com/item?id=36791434) - [Launch HN: Twenty.com (YC S23) – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
 * [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
 * [2023-07-19, 15:13:11](https://news.ycombinator.com/item?id=36787794) - [Structure of elusive boron monoxide finally determined after 83 years](https://phys.org/news/2023-07-elusive-boron-monoxide-years.html)
 * [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
