@@ -6,6 +6,7 @@
 
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 23:05:33](https://news.ycombinator.com/item?id=36794756) - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
+* [2023-07-19, 22:33:52](https://news.ycombinator.com/item?id=36794430) - [LinkedIn adopts protocol buffers and reduces latency up to 60%](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/)
 * [2023-07-19, 22:10:40](https://news.ycombinator.com/item?id=36794180) - [Body bag can save your life–novel method of cold water immersion for heat stroke](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
 * [2023-07-19, 21:55:31](https://news.ycombinator.com/item?id=36794025) - [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
 * [2023-07-19, 21:51:09](https://news.ycombinator.com/item?id=36793974) - [Economics, Anthropology and the Origin of Money as a Bargaining Counter](https://www.worldeconomicsassociation.org/newsletterarticles/bargaining-counter/)
