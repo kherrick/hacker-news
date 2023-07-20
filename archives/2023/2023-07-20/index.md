@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 13:21:18](https://news.ycombinator.com/item?id=36800041) - [Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
+* [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
+* [2023-07-20, 12:40:53](https://news.ycombinator.com/item?id=36799628) - [XYB JPEG: Perceptual Color Encoding Tested](https://giannirosato.com/blog/post/jpegli-xyb/)
 * [2023-07-20, 12:30:31](https://news.ycombinator.com/item?id=36799548) - [Anytype – open-source, local-first, P2P Notion alternative](https://anytype.io/?hn)
 * [2023-07-20, 12:01:19](https://news.ycombinator.com/item?id=36799283) - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
 * [2023-07-20, 11:54:12](https://news.ycombinator.com/item?id=36799235) - [Wall Street Shrinks Headcount by 21,000 as Dealmaking and Trading Slump](https://www.bloomberg.com/news/articles/2023-07-19/wall-street-shrinks-ranks-by-21-000-amid-deals-trading-slump)
+* [2023-07-20, 11:52:46](https://news.ycombinator.com/item?id=36799221) - [Spoil Your Secret Sauce](https://taylor.town/secret-sauce)
+* [2023-07-20, 11:30:57](https://news.ycombinator.com/item?id=36799073) - [AI That Teaches Other AI](https://viterbischool.usc.edu/news/2023/07/teaching-robots-to-teach-other-robots/)
 * [2023-07-20, 11:28:26](https://news.ycombinator.com/item?id=36799059) - [TSMC delays U.S. chip plant start to 2025 due to labor shortages](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-delays-U.S.-chip-plant-start-to-2025-due-to-labor-shortages)
 * [2023-07-20, 11:17:43](https://news.ycombinator.com/item?id=36798997) - [Open Source IMS Client](https://projects.osmocom.org/projects/foss-ims-client/wiki/Wiki)
 * [2023-07-20, 10:54:50](https://news.ycombinator.com/item?id=36798864) - [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
