@@ -41,6 +41,7 @@
 * [2023-07-20, 14:13:16](https://news.ycombinator.com/item?id=36800742) - [Coupled slow oscillations coordinate neuronal processing during human sleep](https://www.nature.com/articles/s41593-023-01381-w)
 * [2023-07-20, 13:47:26](https://news.ycombinator.com/item?id=36800374) - [Two-Faced Star Exposed](https://www.caltech.edu/about/news/two-faced-star-exposed)
 * [2023-07-20, 13:41:15](https://news.ycombinator.com/item?id=36800297) - [Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
+* [2023-07-20, 13:38:39](https://news.ycombinator.com/item?id=36800257) - [Piranesi, Borges, and the Labyrinths of Time](https://thereader.mitpress.mit.edu/piranesi-borges-and-the-labyrinths-of-time/)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 * [2023-07-20, 13:29:41](https://news.ycombinator.com/item?id=36800144) - [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)
 * [2023-07-20, 13:21:18](https://news.ycombinator.com/item?id=36800041) - [Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
