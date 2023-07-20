@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-Friendly Web Apps](https://shelterprotocol.net)
 * [2023-07-20, 18:12:32](https://news.ycombinator.com/item?id=36804394) - [The Moon Landing Was Opposed by Majority of US](https://newsletter.pessimistsarchive.org/p/the-moon-landing-was-opposed-by-majority)
-* [2023-07-20, 17:41:12](https://news.ycombinator.com/item?id=36803964) - [What are the “trophy jobs” in tech?](https://anuatluru.com/blog/trophyjobs)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom Instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [Introducing TypeChat from Microsoft](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
