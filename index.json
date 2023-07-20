@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-20, 21:06:12",
+      "https://news.ycombinator.com/item?id=36806753"
+    ],
+    [
+      "Comprehensive Python “Cheatsheet”",
+      "https://gto76.github.io/python-cheatsheet/"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 21:05:47",
       "https://news.ycombinator.com/item?id=36806747"
     ],
@@ -17,6 +27,16 @@
     [
       "Decoding the ACL Paper: Gzip and KNN Rival Bert in Text Classification",
       "https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 20:48:12",
+      "https://news.ycombinator.com/item?id=36806539"
+    ],
+    [
+      "Oxide Computer, an efficient rack-scale computing system",
+      "https://docs.oxide.computer/guides/introduction"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2023-07-20, 15:04:50",
-      "https://news.ycombinator.com/item?id=36801562"
-    ],
-    [
-      "Azorius 0.1",
-      "https://flak.tedunangst.com/post/azorius-01"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 15:00:25",
       "https://news.ycombinator.com/item?id=36801491"
     ],
@@ -197,16 +207,6 @@
     [
       "No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers",
       "https://github.com/bartobri/no-more-secrets"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 12:37:46",
-      "https://news.ycombinator.com/item?id=36799600"
-    ],
-    [
-      "Google tests A.I. tool that is able to write news articles",
-      "https://www.nytimes.com/2023/07/19/business/google-artificial-intelligence-news-articles.html"
     ]
   ],
   [
