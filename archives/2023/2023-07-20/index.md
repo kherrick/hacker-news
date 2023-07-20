@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
 * [2023-07-20, 13:47:26](https://news.ycombinator.com/item?id=36800374) - [Two-Faced Star Exposed](https://www.caltech.edu/about/news/two-faced-star-exposed)
 * [2023-07-20, 13:41:15](https://news.ycombinator.com/item?id=36800297) - [Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
@@ -14,6 +15,7 @@
 * [2023-07-20, 12:40:53](https://news.ycombinator.com/item?id=36799628) - [XYB JPEG: Perceptual Color Encoding Tested](https://giannirosato.com/blog/post/jpegli-xyb/)
 * [2023-07-20, 12:37:46](https://news.ycombinator.com/item?id=36799600) - [Google Tests A.I. Tool That Is Able to Write News Articles](https://www.nytimes.com/2023/07/19/business/google-artificial-intelligence-news-articles.html)
 * [2023-07-20, 12:30:31](https://news.ycombinator.com/item?id=36799548) - [Anytype – open-source, local-first, P2P Notion alternative](https://anytype.io/?hn)
+* [2023-07-20, 12:27:40](https://news.ycombinator.com/item?id=36799516) - [Alloy Artifacts – Museum of Tool History](http://alloy-artifacts.org)
 * [2023-07-20, 12:09:40](https://news.ycombinator.com/item?id=36799345) - [PNG Specification (Third Edition) W3C Working Draft 20 July 2023](https://www.w3.org/TR/png-3/)
 * [2023-07-20, 12:01:19](https://news.ycombinator.com/item?id=36799283) - [UpCodes (YC S17) is hiring a Growth Marketer to make construction efficient](https://up.codes/careers)
 * [2023-07-20, 11:54:12](https://news.ycombinator.com/item?id=36799235) - [Wall Street Shrinks Headcount by 21,000 as Dealmaking and Trading Slump](https://www.bloomberg.com/news/articles/2023-07-19/wall-street-shrinks-ranks-by-21-000-amid-deals-trading-slump)
