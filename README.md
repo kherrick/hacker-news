@@ -18,7 +18,7 @@
 * [2023-07-19, 19:00:45](https://news.ycombinator.com/item?id=36791506) - [What dif­fer­enti­ates front-end frame­works](https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks)
 * [2023-07-19, 18:54:50](https://news.ycombinator.com/item?id=36791434) - [Launch HN: Twenty.com (YC S23) – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
 * [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
-* [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M Microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
+* [2023-07-19, 17:39:08](https://news.ycombinator.com/item?id=36790238) - [Asynchronous Rust on Cortex-M microcontrollers](https://interrupt.memfault.com/blog/embedded-async-rust)
 * [2023-07-19, 17:36:42](https://news.ycombinator.com/item?id=36790196) - [Remote code execution in OpenSSH’s forwarded SSH-agent](https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent)
 * [2023-07-19, 16:26:31](https://news.ycombinator.com/item?id=36789010) - [Beyond introvert vs. extrovert](https://www.vipshek.com/blog/interaction)
 * [2023-07-19, 16:16:01](https://news.ycombinator.com/item?id=36788831) - [Target's EasySweep – Simplifying Skimmer Detection](https://tech.target.com/blog/cybersecurity-easysweep)
