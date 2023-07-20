@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 15:32:37](https://news.ycombinator.com/item?id=36802021) - [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
 * [2023-07-20, 15:04:50](https://news.ycombinator.com/item?id=36801562) - [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
@@ -27,7 +28,6 @@
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 19:31:42](https://news.ycombinator.com/item?id=36791936) - [Delts Don’t Lie](https://daily.jstor.org/delts-dont-lie/)
 * [2023-07-19, 18:54:50](https://news.ycombinator.com/item?id=36791434) - [Launch HN: Twenty.com (YC S23) – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
-* [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
 * [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
 * [2023-07-18, 05:50:13](https://news.ycombinator.com/item?id=36768334) - [Use multiple Git SSH identities on a single computer](https://github.com/InderdeepBajwa/gitid)
 
