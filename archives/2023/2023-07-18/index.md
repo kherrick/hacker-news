@@ -69,6 +69,7 @@
 * [2023-07-18, 12:46:13](https://news.ycombinator.com/item?id=36771304) - [Inconvenient Truths about TypeScript](https://fettblog.eu/5-truths-about-typescript/)
 * [2023-07-18, 12:37:09](https://news.ycombinator.com/item?id=36771227) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
+* [2023-07-18, 12:26:24](https://news.ycombinator.com/item?id=36771114) - [Teaching Programming in the Age of ChatGPT](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 * [2023-07-18, 12:11:39](https://news.ycombinator.com/item?id=36770968) - [Bell Labs Holmdel Computer Center (1973)](https://www.youtube.com/watch?v=HMYiktO0D64)
 * [2023-07-18, 12:01:55](https://news.ycombinator.com/item?id=36770894) - [Investigating Blackout Crime in the Second World War (2022)](https://blog.britishnewspaperarchive.co.uk/2022/11/30/blackout-crime-in-the-second-world-war/)
 * [2023-07-18, 12:00:21](https://news.ycombinator.com/item?id=36770883) - [Firefox has surpassed Chrome on Speedometer](https://treeherder.mozilla.org/perfherder/graphs?timerange=31536000&series=mozilla-central,3735773,1,13&series=mozilla-central,3412459,1,13)
