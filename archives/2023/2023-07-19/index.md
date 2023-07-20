@@ -48,6 +48,7 @@
 * [2023-07-19, 15:21:54](https://news.ycombinator.com/item?id=36787924) - [Ask HN: How are you improving your use of LLMs in production?](https://news.ycombinator.com/item?id=36787924)
 * [2023-07-19, 15:18:51](https://news.ycombinator.com/item?id=36787886) - [Netflix Removes “Basic” Ad-Free Plan in U.S. and U.K](https://www.hollywoodreporter.com/business/digital/netflix-pulls-basic-plan-us-advertising-push-1235539481/)
 * [2023-07-19, 15:17:21](https://news.ycombinator.com/item?id=36787860) - [Postman acquires Akita for automated API observability](https://blog.postman.com/postman-acquires-akita-for-automated-api-observability/)
+* [2023-07-19, 15:13:11](https://news.ycombinator.com/item?id=36787794) - [Structure of elusive boron monoxide finally determined after 83 years](https://phys.org/news/2023-07-elusive-boron-monoxide-years.html)
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 15:08:02](https://news.ycombinator.com/item?id=36787711) - [A stationary jet stream is fueling intense heat worldwide](https://e360.yale.edu/digest/jet-stream-climate-change-heat-wave)
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
