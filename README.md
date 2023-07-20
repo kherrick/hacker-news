@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 06:27:56](https://news.ycombinator.com/item?id=36797432) - [On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
 * [2023-07-20, 05:42:57](https://news.ycombinator.com/item?id=36797231) - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
 * [2023-07-20, 05:32:05](https://news.ycombinator.com/item?id=36797178) - [In Memoriam: Hans Petter William Sirevåg Selasky](https://lists.freebsd.org/archives/freebsd-announce/2023-July/000076.html)
 * [2023-07-20, 05:09:23](https://news.ycombinator.com/item?id=36797079) - [Minigpt4 Inference on CPU](https://github.com/Maknee/minigpt4.cpp)
@@ -9,7 +10,6 @@
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 23:05:33](https://news.ycombinator.com/item?id=36794756) - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
 * [2023-07-19, 22:33:52](https://news.ycombinator.com/item?id=36794430) - [LinkedIn adopts protocol buffers and reduces latency up to 60%](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/)
-* [2023-07-19, 21:55:31](https://news.ycombinator.com/item?id=36794025) - [Top Software Trends Reports for 2023](http://www.ofbizian.com/2023/07/top-20-must-read-software-reports.html)
 * [2023-07-19, 21:43:17](https://news.ycombinator.com/item?id=36793881) - [The open source learning curve for AI researchers](https://www.supervised.news/p/the-open-source-learning-curve-for)
 * [2023-07-19, 21:05:28](https://news.ycombinator.com/item?id=36793372) - [Geothermal Ahead of Schedule](https://twitter.com/TimMLatimer/status/1681304496234991620)
 * [2023-07-19, 20:40:51](https://news.ycombinator.com/item?id=36792968) - [A framework to securely use LLMs in companies – Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely)
