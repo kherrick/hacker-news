@@ -22,7 +22,6 @@
 * [2023-07-19, 19:07:06](https://news.ycombinator.com/item?id=36791606) - [Language history and we: the case of “like”](https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/)
 * [2023-07-19, 18:54:50](https://news.ycombinator.com/item?id=36791434) - [Launch HN: Twenty.com (YC S23) – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
 * [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
-* [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 06:05:52](https://news.ycombinator.com/item?id=36782638) - [What Is Radio Spectrum?](https://www.transportation.gov/pnt/what-radio-spectrum)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
 * [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
@@ -30,6 +29,7 @@
 * [2023-07-18, 12:47:56](https://news.ycombinator.com/item?id=36771331) - [Yelp rebuilds corrupted Cassandra cluster using its data streaming architecture](https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/)
 * [2023-07-18, 12:26:24](https://news.ycombinator.com/item?id=36771114) - [Teaching Programming in the Age of ChatGPT](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
+* [2023-07-18, 05:50:13](https://news.ycombinator.com/item?id=36768334) - [Use multiple Git SSH identities on a single computer](https://github.com/InderdeepBajwa/gitid)
 
 ## [Archives](archives/index.md)
 
