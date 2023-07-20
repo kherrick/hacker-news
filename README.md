@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 16:06:35](https://news.ycombinator.com/item?id=36802579) - [Ask HN: Is SICP/HtDP still worth reading in 2023? Any alternatives?](https://news.ycombinator.com/item?id=36802579)
 * [2023-07-20, 15:32:37](https://news.ycombinator.com/item?id=36802021) - [Uncensored Library: Banned Journalism Housed in Virtual Minecraft Architecture](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
 * [2023-07-20, 15:19:53](https://news.ycombinator.com/item?id=36801807) - [Fed Opens Service That Dramatically Speeds Up U.S. Payments](https://www.coindesk.com/policy/2023/07/20/us-federal-reserve-kickstarts-fednow-instant-payments/)
 * [2023-07-20, 15:04:50](https://news.ycombinator.com/item?id=36801562) - [Azorius 0.1](https://flak.tedunangst.com/post/azorius-01)
@@ -21,7 +22,6 @@
 * [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
-* [2023-07-20, 08:29:06](https://news.ycombinator.com/item?id=36798092) - [What Happened to Dolphin on Steam?](https://dolphin-emu.org/blog/2023/07/20/what-happened-to-dolphin-on-steam/)
 * [2023-07-20, 07:25:38](https://news.ycombinator.com/item?id=36797751) - [The Russell conjugation (2020)](https://emersongreenblog.wordpress.com/2020/12/06/the-russell-conjugation/)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 19:31:42](https://news.ycombinator.com/item?id=36791936) - [Delts Don’t Lie](https://daily.jstor.org/delts-dont-lie/)
