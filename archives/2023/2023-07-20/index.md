@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
 * [2023-07-20, 21:26:15](https://news.ycombinator.com/item?id=36806970) - [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
 * [2023-07-20, 21:22:32](https://news.ycombinator.com/item?id=36806922) - [Richard Rhodes wrote a classic book about Oppenheimer and the atomic bomb](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/)
@@ -42,6 +43,7 @@
 * [2023-07-20, 13:29:41](https://news.ycombinator.com/item?id=36800144) - [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)
 * [2023-07-20, 13:21:18](https://news.ycombinator.com/item?id=36800041) - [Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
+* [2023-07-20, 12:56:48](https://news.ycombinator.com/item?id=36799772) - [Ether/Or – The story of black holes, and how I temporarily lost my mind [video]](https://www.youtube.com/watch?v=O0EKaSmtpA0)
 * [2023-07-20, 12:48:55](https://news.ycombinator.com/item?id=36799700) - [Flame retardant found in US breast milk](https://www.theguardian.com/us-news/2023/jul/20/toxic-flame-retardants-human-breast-milk)
 * [2023-07-20, 12:40:53](https://news.ycombinator.com/item?id=36799628) - [XYB JPEG: Perceptual Color Encoding Tested](https://giannirosato.com/blog/post/jpegli-xyb/)
 * [2023-07-20, 12:37:46](https://news.ycombinator.com/item?id=36799600) - [Google Tests A.I. Tool That Is Able to Write News Articles](https://www.nytimes.com/2023/07/19/business/google-artificial-intelligence-news-articles.html)
