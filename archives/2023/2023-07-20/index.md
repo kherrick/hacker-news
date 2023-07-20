@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 21:06:12](https://news.ycombinator.com/item?id=36806753) - [Comprehensive Python “Cheatsheet”](https://gto76.github.io/python-cheatsheet/)
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple. Fast. Web Components](https://lit.dev/)
 * [2023-07-20, 20:51:21](https://news.ycombinator.com/item?id=36806577) - [Decoding the ACL Paper: Gzip and KNN Rival Bert in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
+* [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer, an efficient rack-scale computing system](https://docs.oxide.computer/guides/introduction)
 * [2023-07-20, 19:44:34](https://news.ycombinator.com/item?id=36805730) - [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
 * [2023-07-20, 18:35:28](https://news.ycombinator.com/item?id=36804710) - [IRS moves forward with free-file tax return system; supporters, critics mobilize](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
 * [2023-07-20, 18:27:02](https://news.ycombinator.com/item?id=36804591) - [The hometown of San Francisco’s drug dealers](https://www.sfchronicle.com/projects/2023/san-francisco-drug-trade-honduras/)
