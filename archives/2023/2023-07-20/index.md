@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 13:41:15](https://news.ycombinator.com/item?id=36800297) - [Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
+* [2023-07-20, 13:29:41](https://news.ycombinator.com/item?id=36800144) - [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)
 * [2023-07-20, 13:21:18](https://news.ycombinator.com/item?id=36800041) - [Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 * [2023-07-20, 12:48:55](https://news.ycombinator.com/item?id=36799700) - [Flame retardant found in US breast milk](https://www.theguardian.com/us-news/2023/jul/20/toxic-flame-retardants-human-breast-milk)
