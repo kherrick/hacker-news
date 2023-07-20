@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 13:47:26](https://news.ycombinator.com/item?id=36800374) - [Two-Faced Star Exposed](https://www.caltech.edu/about/news/two-faced-star-exposed)
 * [2023-07-20, 13:41:15](https://news.ycombinator.com/item?id=36800297) - [Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 * [2023-07-20, 13:29:41](https://news.ycombinator.com/item?id=36800144) - [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)

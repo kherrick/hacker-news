@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 13:47:26](https://news.ycombinator.com/item?id=36800374) - [Two-Faced Star Exposed](https://www.caltech.edu/about/news/two-faced-star-exposed)
 * [2023-07-20, 13:41:15](https://news.ycombinator.com/item?id=36800297) - [Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 * [2023-07-20, 13:29:41](https://news.ycombinator.com/item?id=36800144) - [The Crazily Unconstitutional New Laws Trying to Criminalize Filming Cops](https://slate.com/news-and-politics/2023/07/jarrell-garris-bodycam-footage-filming-cops-law-indiana-florida.html)
@@ -17,7 +18,6 @@
 * [2023-07-20, 10:54:50](https://news.ycombinator.com/item?id=36798864) - [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)
 * [2023-07-20, 10:50:40](https://news.ycombinator.com/item?id=36798842) - [Why project-based learning fails (2018)](https://www.pathsensitive.com/2018/02/the-practice-is-not-performance-why.html)
-* [2023-07-20, 10:46:13](https://news.ycombinator.com/item?id=36798826) - [Show HN: PDF Differ](https://pdfdiffer.com/)
 * [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
