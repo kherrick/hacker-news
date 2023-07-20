@@ -23,11 +23,11 @@
 * [2023-07-19, 15:39:50](https://news.ycombinator.com/item?id=36788206) - [Simply Parse in C](https://pencil.toast.cafe/bunker-labs/simply-parse-in-c)
 * [2023-07-19, 15:10:10](https://news.ycombinator.com/item?id=36787746) - [‘No way out’: how video games use tricks from gambling to attract big spenders](https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders)
 * [2023-07-19, 14:55:54](https://news.ycombinator.com/item?id=36787473) - [Use pytorch2+cu118 with ADA hardware for 50%+ speedup](https://gpux.ai/blog/sdxl_50_faster)
-* [2023-07-19, 14:41:45](https://news.ycombinator.com/item?id=36787200) - [A disk is a bunch of bits](https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html)
 * [2023-07-19, 14:38:31](https://news.ycombinator.com/item?id=36787136) - [OneSignal (YC S11) Is Hiring Software Engineers](https://onesignal.com/careers/4247164006)
 * [2023-07-19, 12:08:11](https://news.ycombinator.com/item?id=36785005) - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
 * [2023-07-19, 04:41:40](https://news.ycombinator.com/item?id=36782201) - [Jazz Comping (2021)](https://jazz-library.com/articles/comping/)
 * [2023-07-19, 03:06:59](https://news.ycombinator.com/item?id=36781669) - [A Story of a Stone](https://amerisurv.com/2023/06/10/a-story-of-a-stone/)
+* [2023-07-18, 12:47:56](https://news.ycombinator.com/item?id=36771331) - [Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture](https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/)
 * [2023-07-18, 09:59:51](https://news.ycombinator.com/item?id=36770047) - [When open becomes opaque: The changing face of open-source hardware companies](https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/)
 * [2023-07-18, 08:42:23](https://news.ycombinator.com/item?id=36769565) - [Portable Grindhouse: The Lost Art of the VHS Box](https://cinemasojourns.com/2023/07/18/portable-grindhouse-the-lost-art-of-the-vhs-box/)
 

@@ -65,6 +65,7 @@
 * [2023-07-18, 13:07:44](https://news.ycombinator.com/item?id=36771539) - [Why the Remote-Work Debate Stays So Heated](https://www.theatlantic.com/newsletters/archive/2023/07/remote-work-return-to-office-policies/674736/)
 * [2023-07-18, 13:06:43](https://news.ycombinator.com/item?id=36771527) - [WHO Aspartame Brouhaha](https://dynomight.substack.com/p/aspartame-brouhaha)
 * [2023-07-18, 13:02:25](https://news.ycombinator.com/item?id=36771484) - [A Theory on Adam Instability in Large-Scale Machine Learning](https://arxiv.org/abs/2304.09871)
+* [2023-07-18, 12:47:56](https://news.ycombinator.com/item?id=36771331) - [Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture](https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/)
 * [2023-07-18, 12:46:13](https://news.ycombinator.com/item?id=36771304) - [Inconvenient Truths about TypeScript](https://fettblog.eu/5-truths-about-typescript/)
 * [2023-07-18, 12:37:09](https://news.ycombinator.com/item?id=36771227) - [Ten Years of “Go: The Good, the Bad, and the Meh”](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/)
 * [2023-07-18, 12:29:54](https://news.ycombinator.com/item?id=36771149) - [Voder Speech Synthesizer](https://griffin.moe/voder/)
