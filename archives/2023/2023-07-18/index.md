@@ -6,6 +6,7 @@
 
 * [2023-07-18, 23:20:56](https://news.ycombinator.com/item?id=36780297) - [Enigma Crypto Transmission from KPH at 426 KHz and Shortwave](https://www.radiomarine.org/mrhs-events)
 * [2023-07-18, 23:20:52](https://news.ycombinator.com/item?id=36780295) - [Ask HN: Anyone else notice that HN isn’t full of JavaScript frameworks lately?](https://news.ycombinator.com/item?id=36780295)
+* [2023-07-18, 22:23:38](https://news.ycombinator.com/item?id=36779855) - [Human Shader](https://humanshader.com)
 * [2023-07-18, 21:41:03](https://news.ycombinator.com/item?id=36779459) - [Gym Class VR (YC W22) Is Hiring Back End Engineering](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ADcM4ZV-backend-engineer)
 * [2023-07-18, 21:16:13](https://news.ycombinator.com/item?id=36779215) - [Quantum Physicists Explained Earth’s Oscillating Weather Patterns](https://www.quantamagazine.org/how-quantum-physics-describes-earths-weather-patterns-20230718/)
 * [2023-07-18, 20:59:57](https://news.ycombinator.com/item?id=36779010) - [A Medieval Age of Disruption](https://lareviewofbooks.org/article/a-medieval-age-of-disruption-on-nicholas-mortons-the-mongol-storm/)
