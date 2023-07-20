@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 20:51:21](https://news.ycombinator.com/item?id=36806577) - [Decoding the ACL Paper: Gzip and KNN Rival Bert in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
 * [2023-07-20, 19:44:34](https://news.ycombinator.com/item?id=36805730) - [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
 * [2023-07-20, 18:35:28](https://news.ycombinator.com/item?id=36804710) - [IRS moves forward with free-file tax return system; supporters, critics mobilize](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
 * [2023-07-20, 18:27:02](https://news.ycombinator.com/item?id=36804591) - [The hometown of San Francisco’s drug dealers](https://www.sfchronicle.com/projects/2023/san-francisco-drug-trade-honduras/)
@@ -28,6 +29,7 @@
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How It Started, How It’s Going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
 * [2023-07-20, 14:16:36](https://news.ycombinator.com/item?id=36800789) - [Become Ungoogleable](https://joeyh.name/blog/entry/become_ungoogleable/)
+* [2023-07-20, 14:13:16](https://news.ycombinator.com/item?id=36800742) - [Coupled slow oscillations coordinate neuronal processing during human sleep](https://www.nature.com/articles/s41593-023-01381-w)
 * [2023-07-20, 13:47:26](https://news.ycombinator.com/item?id=36800374) - [Two-Faced Star Exposed](https://www.caltech.edu/about/news/two-faced-star-exposed)
 * [2023-07-20, 13:41:15](https://news.ycombinator.com/item?id=36800297) - [Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)

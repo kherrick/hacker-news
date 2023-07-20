@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-20, 20:51:21](https://news.ycombinator.com/item?id=36806577) - [Decoding the ACL Paper: Gzip and KNN Rival Bert in Text Classification](https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn)
 * [2023-07-20, 19:44:34](https://news.ycombinator.com/item?id=36805730) - [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
 * [2023-07-20, 18:35:28](https://news.ycombinator.com/item?id=36804710) - [IRS moves forward with a new free-file tax return system](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
 * [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-end encrypted, federated, user-friendly web apps](https://shelterprotocol.net)
@@ -14,7 +15,7 @@
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How it started, how it’s going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
 * [2023-07-20, 14:16:36](https://news.ycombinator.com/item?id=36800789) - [Become Ungoogleable](https://joeyh.name/blog/entry/become_ungoogleable/)
-* [2023-07-20, 13:41:15](https://news.ycombinator.com/item?id=36800297) - [Apple says it'll remove iMessage and FaceTime in UK rather than break encryption](https://9to5mac.com/2023/07/20/apple-imessage-facetime-remove-security-law/)
+* [2023-07-20, 14:13:16](https://news.ycombinator.com/item?id=36800742) - [Coupled slow oscillations coordinate neuronal processing during human sleep](https://www.nature.com/articles/s41593-023-01381-w)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 * [2023-07-20, 13:21:18](https://news.ycombinator.com/item?id=36800041) - [Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
@@ -24,7 +25,6 @@
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)
 * [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
 * [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative](https://github.com/docusealco/docuseal)
-* [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
 * [2023-07-20, 05:36:00](https://news.ycombinator.com/item?id=36797188) - [It Takes Long to Become Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
 * [2023-07-20, 00:39:31](https://news.ycombinator.com/item?id=36795530) - [LZAV – Fast In-Memory Data Compression Algorithm (In C)](https://github.com/avaneev/lzav)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
