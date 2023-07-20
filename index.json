@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2023-07-20, 01:26:30",
-      "https://news.ycombinator.com/item?id=36795842"
-    ],
-    [
-      "Spy Kids",
-      "https://www.cia.gov/spy-kids/games/index.html"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 23:53:59",
       "https://news.ycombinator.com/item?id=36795173"
     ],
@@ -127,6 +117,16 @@
     [
       "A framework to securely use LLMs in companies – Part 1: Overview of Risks",
       "https://boringappsec.substack.com/p/edition-21-a-framework-to-securely"
+    ]
+  ],
+  [
+    [
+      "2023-07-19, 19:07:06",
+      "https://news.ycombinator.com/item?id=36791606"
+    ],
+    [
+      "Language history and we: the case of “like”",
+      "https://blog.oup.com/2023/07/language-history-and-we-the-case-of-like/"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2023-07-19, 15:39:50",
+      "https://news.ycombinator.com/item?id=36788206"
+    ],
+    [
+      "Simply Parse in C",
+      "https://pencil.toast.cafe/bunker-labs/simply-parse-in-c"
+    ]
+  ],
+  [
+    [
       "2023-07-19, 15:10:10",
       "https://news.ycombinator.com/item?id=36787746"
     ],
@@ -287,16 +297,6 @@
     [
       "Teaching Programming in the Age of ChatGPT",
       "https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 09:59:51",
-      "https://news.ycombinator.com/item?id=36770047"
-    ],
-    [
-      "When open becomes opaque: The changing face of open-source hardware companies",
-      "https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/"
     ]
   ]
 ]
