@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 08:21:22](https://news.ycombinator.com/item?id=36798051) - [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
 * [2023-07-20, 07:02:16](https://news.ycombinator.com/item?id=36797624) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
 * [2023-07-20, 06:38:54](https://news.ycombinator.com/item?id=36797485) - [Ask HN: For 10 years I've been trying various projects, still clueless](https://news.ycombinator.com/item?id=36797485)
 * [2023-07-20, 06:27:56](https://news.ycombinator.com/item?id=36797432) - [On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
