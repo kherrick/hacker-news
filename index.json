@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2023-07-19, 14:41:45",
-      "https://news.ycombinator.com/item?id=36787200"
-    ],
-    [
-      "A disk is a bunch of bits",
-      "https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 14:38:31",
       "https://news.ycombinator.com/item?id=36787136"
     ],
@@ -277,6 +267,16 @@
     [
       "A Story of a Stone",
       "https://amerisurv.com/2023/06/10/a-story-of-a-stone/"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 12:47:56",
+      "https://news.ycombinator.com/item?id=36771331"
+    ],
+    [
+      "Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture",
+      "https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/"
     ]
   ],
   [
