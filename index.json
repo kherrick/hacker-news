@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=36795842"
     ],
     [
-      "CIA: Spy Games for Kids",
+      "Spy Kids",
       "https://www.cia.gov/spy-kids/games/index.html"
     ]
   ],
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2023-07-19, 19:31:27",
-      "https://news.ycombinator.com/item?id=36791934"
-    ],
-    [
-      "Sins of the salmon kings",
-      "https://www.thedial.world/issue-6/salmon-farming-norway-ethics-literature"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 19:00:45",
       "https://news.ycombinator.com/item?id=36791506"
     ],
@@ -155,7 +145,7 @@
       "https://news.ycombinator.com/item?id=36790196"
     ],
     [
-      "Remote Code Execution in OpenSSH’s forwarded SSH-agent",
+      "Remote code execution in OpenSSH’s forwarded SSH-agent",
       "https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Use pytorch2+cu118 with ADA hardware for 50%+ speedup",
       "https://gpux.ai/blog/sdxl_50_faster"
+    ]
+  ],
+  [
+    [
+      "2023-07-19, 14:41:45",
+      "https://news.ycombinator.com/item?id=36787200"
+    ],
+    [
+      "A disk is a bunch of bits",
+      "https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html"
     ]
   ],
   [
