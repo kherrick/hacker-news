@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-20, 13:29:56",
+      "https://news.ycombinator.com/item?id=36800151"
+    ],
+    [
+      "Accidentally Load Bearing",
+      "https://www.jefftk.com/p/accidentally-load-bearing"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 13:21:18",
       "https://news.ycombinator.com/item?id=36800041"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2023-07-20, 12:48:55",
+      "https://news.ycombinator.com/item?id=36799700"
+    ],
+    [
+      "Flame retardant found in US breast milk",
+      "https://www.theguardian.com/us-news/2023/jul/20/toxic-flame-retardants-human-breast-milk"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 12:40:53",
       "https://news.ycombinator.com/item?id=36799628"
     ],
     [
       "XYB JPEG: Perceptual Color Encoding Tested",
       "https://giannirosato.com/blog/post/jpegli-xyb/"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 12:37:46",
+      "https://news.ycombinator.com/item?id=36799600"
+    ],
+    [
+      "Google Tests A.I. Tool That Is Able to Write News Articles",
+      "https://www.nytimes.com/2023/07/19/business/google-artificial-intelligence-news-articles.html"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "AI That Teaches Other AI",
       "https://viterbischool.usc.edu/news/2023/07/teaching-robots-to-teach-other-robots/"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 11:28:26",
-      "https://news.ycombinator.com/item?id=36799059"
-    ],
-    [
-      "TSMC delays U.S. chip plant start to 2025 due to labor shortages",
-      "https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-delays-U.S.-chip-plant-start-to-2025-due-to-labor-shortages"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2023-07-19, 01:03:46",
-      "https://news.ycombinator.com/item?id=36780999"
-    ],
-    [
-      "New tidal disruption event discovered by Chinese astronomers",
-      "https://phys.org/news/2023-07-tidal-disruption-event-chinese-astronomers.html"
-    ]
-  ],
-  [
-    [
       "2023-07-18, 19:55:39",
       "https://news.ycombinator.com/item?id=36778309"
     ],
     [
       "Japanese words of Portuguese origin",
       "https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin"
-    ]
-  ],
-  [
-    [
-      "2023-07-18, 12:47:56",
-      "https://news.ycombinator.com/item?id=36771331"
-    ],
-    [
-      "Yelp rebuilds corrupted Cassandra cluster using its data streaming architecture",
-      "https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/"
     ]
   ],
   [
