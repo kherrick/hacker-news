@@ -1,6 +1,16 @@
 [
   [
     [
+      "2023-07-20, 21:05:47",
+      "https://news.ycombinator.com/item?id=36806747"
+    ],
+    [
+      "Lit: Simple. Fast. Web Components",
+      "https://lit.dev/"
+    ]
+  ],
+  [
+    [
       "2023-07-20, 20:51:21",
       "https://news.ycombinator.com/item?id=36806577"
     ],
@@ -257,16 +267,6 @@
     [
       "It Takes Long to Become Gaussian",
       "https://two-wrongs.com/it-takes-long-to-become-gaussian"
-    ]
-  ],
-  [
-    [
-      "2023-07-20, 00:39:31",
-      "https://news.ycombinator.com/item?id=36795530"
-    ],
-    [
-      "LZAV – Fast In-Memory Data Compression Algorithm (In C)",
-      "https://github.com/avaneev/lzav"
     ]
   ],
   [
