@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:39:30](https://news.ycombinator.com/item?id=36798157) - [MDN Playground](https://developer.mozilla.org/en-US/play)
 * [2023-07-20, 08:21:22](https://news.ycombinator.com/item?id=36798051) - [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
 * [2023-07-20, 07:02:16](https://news.ycombinator.com/item?id=36797624) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
