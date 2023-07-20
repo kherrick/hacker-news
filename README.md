@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-20, 22:55:57](https://news.ycombinator.com/item?id=36807890) - [The precursory phase of large earthquakes](https://www.science.org/doi/full/10.1126/science.adg2565)
+* [2023-07-20, 23:07:36](https://news.ycombinator.com/item?id=36808001) - [Hollywood Movie Aside, Just How Good a Physicist Was Oppenheimer?](https://www.science.org/content/article/movie-adds-oppenheimer-s-celebrity-just-how-good-physicist-was-he)
 * [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
