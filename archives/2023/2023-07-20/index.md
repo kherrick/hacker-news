@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 10:54:50](https://news.ycombinator.com/item?id=36798864) - [Unshackle: A tool to bypass windows password logins](https://github.com/Fadi002/unshackle)
 * [2023-07-20, 10:52:39](https://news.ycombinator.com/item?id=36798854) - [The past is not true](https://sive.rs/pnt)
+* [2023-07-20, 10:51:39](https://news.ycombinator.com/item?id=36798850) - [Hearing aids may cut risk of cognitive decline by nearly half](https://www.washingtonpost.com/wellness/2023/07/19/hearing-loss-hearing-aids-dementia-study/)
+* [2023-07-20, 10:37:59](https://news.ycombinator.com/item?id=36798774) - [Cool Retro Terminal](https://github.com/Swordfish90/cool-retro-term)
+* [2023-07-20, 10:04:44](https://news.ycombinator.com/item?id=36798593) - [Docuseal: Open-source DocuSign alternative. Create, fill, sign digital documents](https://github.com/docusealco/docuseal)
 * [2023-07-20, 09:27:11](https://news.ycombinator.com/item?id=36798408) - [Intel's 14th Gen Core K-Series CPU Specs Break Cover with Speeds Up to 6GHz](https://hothardware.com/news/intel-14thgen-core-k-cpu-spec-leak)
 * [2023-07-20, 09:24:47](https://news.ycombinator.com/item?id=36798395) - [Vacuum Airship](https://en.wikipedia.org/wiki/Vacuum_airship)
 * [2023-07-20, 08:50:46](https://news.ycombinator.com/item?id=36798200) - [Android is now better than iOS, says head of Instagram](https://www.threads.net/@mosseri/post/CuzpnOwtadu)
