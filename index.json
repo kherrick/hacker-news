@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2023-07-19, 15:10:10",
-      "https://news.ycombinator.com/item?id=36787746"
-    ],
-    [
-      "‘No way out’: how video games use tricks from gambling to attract big spenders",
-      "https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders"
-    ]
-  ],
-  [
-    [
       "2023-07-19, 06:05:52",
       "https://news.ycombinator.com/item?id=36782638"
     ],
@@ -297,6 +287,16 @@
     [
       "When open becomes opaque: The changing face of open-source hardware companies",
       "https://blog.adafruit.com/2023/07/12/when-open-becomes-opaque-the-changing-face-of-open-source-hardware-companies/"
+    ]
+  ],
+  [
+    [
+      "2023-07-18, 05:50:13",
+      "https://news.ycombinator.com/item?id=36768334"
+    ],
+    [
+      "Use multiple Git SSH identities on a single computer",
+      "https://github.com/InderdeepBajwa/gitid"
     ]
   ]
 ]
