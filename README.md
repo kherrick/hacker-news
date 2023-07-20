@@ -24,11 +24,11 @@
 * [2023-07-20, 08:21:22](https://news.ycombinator.com/item?id=36798051) - [ChromiumOS Developer Guide, Programming languages and style](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/development_basics.md#programming-languages-and-style)
 * [2023-07-19, 23:53:59](https://news.ycombinator.com/item?id=36795173) - [Kevin Mitnick has died](https://www.dignitymemorial.com/obituaries/las-vegas-nv/kevin-mitnick-11371668)
 * [2023-07-19, 23:05:33](https://news.ycombinator.com/item?id=36794756) - [The Danger of Popcorn Polymer: Incident at the TPC Group Chemical Plant [video]](https://www.youtube.com/watch?v=6-3BFXpBcjc)
-* [2023-07-19, 22:33:52](https://news.ycombinator.com/item?id=36794430) - [LinkedIn adopts protocol buffers and reduces latency up to 60%](https://www.infoq.com/news/2023/07/linkedin-protocol-buffers-restli/)
 * [2023-07-19, 19:31:42](https://news.ycombinator.com/item?id=36791936) - [Delts Don’t Lie](https://daily.jstor.org/delts-dont-lie/)
 * [2023-07-19, 18:54:50](https://news.ycombinator.com/item?id=36791434) - [Launch HN: Twenty.com (YC S23) – Open-source CRM](https://news.ycombinator.com/item?id=36791434)
 * [2023-07-19, 17:43:19](https://news.ycombinator.com/item?id=36790301) - [Stanford president resigns over manipulated research, will retract 3 papers](https://stanforddaily.com/2023/07/19/stanford-president-resigns-over-manipulated-research-will-retract-at-least-3-papers/)
 * [2023-07-18, 19:55:39](https://news.ycombinator.com/item?id=36778309) - [Japanese words of Portuguese origin](https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin)
+* [2023-07-18, 12:47:56](https://news.ycombinator.com/item?id=36771331) - [Yelp rebuilds corrupted Cassandra cluster using its data streaming architecture](https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/)
 * [2023-07-18, 05:50:13](https://news.ycombinator.com/item?id=36768334) - [Use multiple Git SSH identities on a single computer](https://github.com/InderdeepBajwa/gitid)
 
 ## [Archives](archives/index.md)
