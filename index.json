@@ -11,21 +11,11 @@
   ],
   [
     [
-      "2023-07-20, 06:38:54",
-      "https://news.ycombinator.com/item?id=36797485"
-    ],
-    [
-      "Ask HN: For 10 years I've been trying various projects, still clueless",
-      "https://news.ycombinator.com/item?id=36797485"
-    ]
-  ],
-  [
-    [
       "2023-07-20, 06:27:56",
       "https://news.ycombinator.com/item?id=36797432"
     ],
     [
-      "On the Origin of LLMs",
+      "An evolutionary tree and graph for large language models",
       "https://arxiv.org/abs/2307.09793"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "This alien-looking airship design used a propulsion method unlike any other",
       "https://www.thedrive.com/the-war-zone/this-alien-looking-airship-design-used-a-propulsion-method-unlike-any-other"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 03:48:51",
+      "https://news.ycombinator.com/item?id=36796685"
+    ],
+    [
+      "ACL 2023 Tutorial: Retrieval-Based Language Models and Applications",
+      "https://acl2023-retrieval-lm.github.io/"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=36788813"
     ],
     [
-      "A Glitch in the SEO Matrix",
+      "A glitch in the SEO matrix",
       "https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=36778309"
     ],
     [
-      "Glossary of Japanese words of Portuguese origin",
+      "Japanese words of Portuguese origin",
       "https://en.wikipedia.org/wiki/Glossary_of_Japanese_words_of_Portuguese_origin"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=36771331"
     ],
     [
-      "Yelp Rebuilds Corrupted Cassandra Cluster Using Its Data Streaming Architecture",
+      "Yelp rebuilds corrupted Cassandra cluster using its data streaming architecture",
       "https://www.infoq.com/news/2023/07/yelp-corrupted-cassandra-rebuild/"
     ]
   ],
