@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 23:42:10](https://news.ycombinator.com/item?id=36808296) - [Fly.io Postgres cluster down for 3 days, no word from them about it](https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au)
 * [2023-07-20, 23:34:23](https://news.ycombinator.com/item?id=36808233) - [Will a prompt that enables GPT-4 to solve easy Sudoku puzzles be found?](https://manifold.markets/Mira/will-a-prompt-that-enables-gpt4-to)
 * [2023-07-20, 23:07:36](https://news.ycombinator.com/item?id=36808001) - [Hollywood Movie Aside, Just How Good a Physicist Was Oppenheimer?](https://www.science.org/content/article/movie-adds-oppenheimer-s-celebrity-just-how-good-physicist-was-he)
 * [2023-07-20, 22:55:57](https://news.ycombinator.com/item?id=36807890) - [The precursory phase of large earthquakes](https://www.science.org/doi/full/10.1126/science.adg2565)
