@@ -7,6 +7,7 @@
 * [2023-07-21, 04:42:25](https://news.ycombinator.com/item?id=36810075) - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
 * [2023-07-21, 03:29:31](https://news.ycombinator.com/item?id=36809666) - [Octo.jl – A SQL Query DSL in Julia](https://github.com/wookay/Octo.jl)
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
+* [2023-07-21, 02:40:22](https://news.ycombinator.com/item?id=36809404) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
 * [2023-07-21, 02:36:19](https://news.ycombinator.com/item?id=36809385) - [An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
 * [2023-07-21, 02:00:49](https://news.ycombinator.com/item?id=36809180) - [The true cost of science’s language barrier for non-native English speakers](https://www.nature.com/articles/d41586-023-02320-2)
 * [2023-07-21, 01:37:54](https://news.ycombinator.com/item?id=36809065) - [“I give permission to IBM, ..., to use JSLint for evil.”](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
