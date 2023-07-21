@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
+* [2023-07-21, 07:29:26](https://news.ycombinator.com/item?id=36811018) - [Quench of LHC inner triplet magnet causes a small leak with major consequences](https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major)
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-21, 05:13:25](https://news.ycombinator.com/item?id=36810230) - [LLM Constellation](https://llmconstellation.olafblitz.repl.co/)
 * [2023-07-21, 04:42:25](https://news.ycombinator.com/item?id=36810075) - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
@@ -20,14 +21,13 @@
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple, fast web components](https://lit.dev/)
 * [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer: Docs](https://docs.oxide.computer/guides/introduction)
 * [2023-07-20, 18:34:10](https://news.ycombinator.com/item?id=36804692) - [How We Made MuseScore 4 [video]](https://www.youtube.com/watch?v=Qct6LKbneKQ)
-* [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-end encrypted, federated, user-friendly web apps](https://shelterprotocol.net)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
-* [2023-07-20, 07:02:46](https://news.ycombinator.com/item?id=36797626) - [Reasons to teach what we teach (2010)](http://educationandstatistics.blogspot.com/2010/12/reasons-to-teach-what-we-teach.html)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
+* [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to See Expertise Is a Milestone Worth Aiming For](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
 * [2023-07-19, 09:36:23](https://news.ycombinator.com/item?id=36783942) - [Show HN: LibreScroll – enable flywheel-scrolling on any generic mouse](https://github.com/EsportToys/LibreScroll)
 * [2023-07-19, 05:39:49](https://news.ycombinator.com/item?id=36782487) - [Momofuku Ando invented instant ramen (2016)](https://www.vox.com/2015/3/5/8150929/momofuku-ando-ramen-instant-noodles)
 

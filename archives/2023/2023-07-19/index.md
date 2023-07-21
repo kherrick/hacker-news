@@ -82,6 +82,7 @@
 * [2023-07-19, 12:07:23](https://news.ycombinator.com/item?id=36784998) - [Kangaroo tendons could rebuild human knees better, stronger](https://lighthouse.mq.edu.au/article/july-2023/kangaroos-could-help-injured-athletes-get-back-in-the-game)
 * [2023-07-19, 12:03:54](https://news.ycombinator.com/item?id=36784971) - [Amsterdam police ask VanMoof customers to stop accusing the company of theft](https://nltimes.nl/2023/07/19/amsterdam-police-ask-vanmoof-customers-stop-accusing-company-theft)
 * [2023-07-19, 11:53:16](https://news.ycombinator.com/item?id=36784886) - [Baldur's Gate 3: New Standard for the RPG Genre?](https://gameworldobserver.com/2023/07/12/baldurs-gate-3-new-standard-for-rpg-genre-opinions)
+* [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to See Expertise Is a Milestone Worth Aiming For](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
 * [2023-07-19, 11:28:45](https://news.ycombinator.com/item?id=36784699) - [Iceland’s Quest to Use 100 Percent of Its Fish Waste](https://hakaimagazine.com/news/icelands-quest-to-use-100-percent-of-its-fish-waste/)
 * [2023-07-19, 11:14:45](https://news.ycombinator.com/item?id=36784583) - [The Jupyter+Git problem is now solved](https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/)
 * [2023-07-19, 10:40:55](https://news.ycombinator.com/item?id=36784326) - [Proton Pass: Open-Source and Encrypted Password Manager App](https://proton.me/pass)
