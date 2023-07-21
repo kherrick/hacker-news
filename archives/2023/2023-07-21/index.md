@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 14:39:59](https://news.ycombinator.com/item?id=36814351) - [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
 * [2023-07-21, 14:14:48](https://news.ycombinator.com/item?id=36814019) - [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust?nxtPslug=how-turborepo-is-porting-from-go-to-rust)
 * [2023-07-21, 14:01:12](https://news.ycombinator.com/item?id=36813858) - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
 * [2023-07-21, 13:42:05](https://news.ycombinator.com/item?id=36813633) - [Study finds regular 'phubbing' could be damaging marriages](https://phys.org/news/2023-07-regular-phubbing-marriages.html)
@@ -14,6 +15,7 @@
 * [2023-07-21, 12:56:25](https://news.ycombinator.com/item?id=36813210) - [90s Internet: When 20 hours online triggered an email from my ISP’s president](https://arstechnica.com/gadgets/2023/07/the-90s-internet-when-20-hours-online-triggered-an-email-from-my-isps-president/)
 * [2023-07-21, 12:53:12](https://news.ycombinator.com/item?id=36813194) - [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
 * [2023-07-21, 12:52:49](https://news.ycombinator.com/item?id=36813187) - [Tony Bennett, Master Pop Vocalist, Dies at 96](https://variety.com/2023/music/news/tony-bennett-dead-dies-pop-vocalist-1235676390/)
+* [2023-07-21, 12:52:09](https://news.ycombinator.com/item?id=36813180) - [How to restore nature and supercharge food production](https://www.unep.org/news-and-stories/story/why-restoring-nature-good-farmers-fisheries-and-food-security)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 12:22:59](https://news.ycombinator.com/item?id=36812981) - [Show HN: A non-VC backed content creation and social media platform](https://news.ycombinator.com/item?id=36812981)
 * [2023-07-21, 12:14:17](https://news.ycombinator.com/item?id=36812912) - [Midjourney Showcase](https://www.midjourney.com/showcase/recent/)
