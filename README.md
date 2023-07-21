@@ -2,7 +2,6 @@
 
 * [2023-07-21, 14:14:48](https://news.ycombinator.com/item?id=36814019) - [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust?nxtPslug=how-turborepo-is-porting-from-go-to-rust)
 * [2023-07-21, 14:01:12](https://news.ycombinator.com/item?id=36813858) - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
-* [2023-07-21, 13:42:05](https://news.ycombinator.com/item?id=36813633) - [Study finds regular 'phubbing' could be damaging marriages](https://phys.org/news/2023-07-regular-phubbing-marriages.html)
 * [2023-07-21, 13:34:11](https://news.ycombinator.com/item?id=36813564) - [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
 * [2023-07-21, 12:53:12](https://news.ycombinator.com/item?id=36813194) - [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
@@ -23,6 +22,7 @@
 * [2023-07-21, 02:40:22](https://news.ycombinator.com/item?id=36809404) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
 * [2023-07-20, 23:42:10](https://news.ycombinator.com/item?id=36808296) - [Fly.io Postgres cluster down for 3 days, no word from them about it](https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+* [2023-07-20, 21:35:22](https://news.ycombinator.com/item?id=36807071) - [My Beautiful Friend](https://thepointmag.com/examined-life/my-beautiful-friend/)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
