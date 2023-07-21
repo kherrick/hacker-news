@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2023-07-21, 21:58:40](https://news.ycombinator.com/item?id=36820469) - [Managing Kitchen Fruit Flies with a Little Shop of Horrors](https://blog.zaccohn.com/Fruitflies-and-the-Little-Shop-of-Horrors/)
+* [2023-07-21, 21:51:07](https://news.ycombinator.com/item?id=36820378) - [Ask HN: What are some LLM prompts you've found useful?](https://news.ycombinator.com/item?id=36820378)
 * [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add grammar-based sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 21:16:08](https://news.ycombinator.com/item?id=36819894) - [Meta stops ordering new parts for Quest Pro](https://www.zdnet.com/article/meta-cancels-quest-pro-stops-development-of-quest-pro-2/)
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
@@ -9,12 +10,11 @@
 * [2023-07-21, 19:44:31](https://news.ycombinator.com/item?id=36818640) - [Big Tech as the New Big Tobacco](https://www.bigtechwiki.com/index.php/Big_Tech_as_the_New_Big_Tobacco)
 * [2023-07-21, 19:35:39](https://news.ycombinator.com/item?id=36818501) - [Don’t Make Fun of Renowned Dan Brown (2013)](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/)
 * [2023-07-21, 19:17:28](https://news.ycombinator.com/item?id=36818233) - [Slackware Linux distribution turns 30 years old](https://www.theregister.com/2023/07/20/slackware_turns_30/)
-* [2023-07-21, 18:55:19](https://news.ycombinator.com/item?id=36817938) - [Why did Meta open-source Llama 2?](https://matt-rickard.com/why-did-meta-open-source-llama)
 * [2023-07-21, 18:52:01](https://news.ycombinator.com/item?id=36817900) - [IMAX emulates PalmPilot software to power Oppenheimer’s 70 mm release](https://arstechnica.com/gadgets/2023/07/imax-emulates-palmpilot-software-to-power-oppenheimers-70-mm-release/)
 * [2023-07-21, 18:32:16](https://news.ycombinator.com/item?id=36817628) - [MiniZinc](https://www.minizinc.org/)
 * [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API Proposal](https://github.com/RupertBenWiser/Web-Environment-Integrity)
-* [2023-07-21, 16:25:03](https://news.ycombinator.com/item?id=36815781) - [Diablo](https://www.filfre.net/2023/07/diablo/)
+* [2023-07-21, 17:05:11](https://news.ycombinator.com/item?id=36816436) - [Longitudinal study on the relationship between childhood maltreatment and ADHD](https://www.psypost.org/2023/07/longitudinal-study-highlights-bidirectional-relationship-between-childhood-maltreatment-and-adhd-symptoms-166568)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ players trick AI-scraping website into publishing nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
 * [2023-07-21, 16:19:54](https://news.ycombinator.com/item?id=36815705) - [RFC 9420 a.k.a. Messaging Layer Security](https://blog.phnx.im/rfc-9420-mls/)
 * [2023-07-21, 16:02:42](https://news.ycombinator.com/item?id=36815453) - [Exxon bets carbon will be the new oil](https://www.semafor.com/article/07/21/2023/exxon-carbon-denbury)
@@ -28,8 +28,8 @@
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-20, 04:32:45](https://news.ycombinator.com/item?id=36796917) - [The Rediscovery of Susan Taubes](https://www.tabletmag.com/sections/arts-letters/articles/lament-for-susan)
 * [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to see expertise is a milestone worth aiming for (2022)](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
-* [2023-07-19, 08:02:55](https://news.ycombinator.com/item?id=36783327) - [The Memoirs of Joseph Grimaldi (2011)](https://publicdomainreview.org/essay/the-memoirs-of-joseph-grimaldi/)
 * [2023-07-19, 07:41:41](https://news.ycombinator.com/item?id=36783196) - [How professional ethics work](https://siderea.dreamwidth.org/1817931.html)
+* [2023-07-19, 07:20:26](https://news.ycombinator.com/item?id=36783062) - [Revisiting the “Cansole”, because my TV doesn't have the right connectors](https://blog.jgc.org/2023/07/revisiting-cansole-my-silly-pong-game.html)
 
 ## [Archives](archives/index.md)
 
