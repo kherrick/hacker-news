@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 18:29:10](https://news.ycombinator.com/item?id=36817584) - [Infant-deaths-surge-in-Texas-after-abortion-ban](https://arstechnica.com/health/2023/07/infant-deaths-surge-in-texas-after-abortion-ban/)
+* [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-21, 18:06:47](https://news.ycombinator.com/item?id=36817267) - [TSMC warns over deepening slump in chipmaking sector](https://www.ft.com/content/f433971d-fd8e-4ed3-91e9-e25a96284ea0)
 * [2023-07-21, 18:00:00](https://news.ycombinator.com/item?id=36817179) - [Mali Government takes back .ml domain, brings down one of largest Lemmy servers](https://very.bignutty.xyz/notes/9hfv05qcs5xf7irr)
@@ -12,6 +14,7 @@
 * [2023-07-21, 17:29:29](https://news.ycombinator.com/item?id=36816760) - [Is shareholder capitalism a suicide pact?](https://medium.com/imagining-equity-explorations-into-the-future-of/is-shareholder-capitalism-a-suicide-pact-bd26bd10edd7)
 * [2023-07-21, 17:10:52](https://news.ycombinator.com/item?id=36816519) - [Tony Bennett Dead at 96](https://www.goodmorningamerica.com/culture/story/legendary-crooner-tony-bennett-dead-96-75761535)
 * [2023-07-21, 17:08:29](https://news.ycombinator.com/item?id=36816488) - [Insurance Company Flew a Drone to Photograph Man's House and Canceled His Policy](https://petapixel.com/2023/07/20/insurance-company-flew-a-drone-to-take-photos-of-mans-house-and-canceled-his-policy/)
+* [2023-07-21, 17:05:11](https://news.ycombinator.com/item?id=36816436) - [Bidirectional relationship between childhood maltreatment and ADHD symptoms](https://www.psypost.org/2023/07/longitudinal-study-highlights-bidirectional-relationship-between-childhood-maltreatment-and-adhd-symptoms-166568)
 * [2023-07-21, 17:00:57](https://news.ycombinator.com/item?id=36816387) - ['Mystery company' buys land worth $800M near Travis AFB, raising concerns](https://abc7news.com/travis-afb-air-force-base-flannery-associates-llc-john-garamendi/13527836/)
 * [2023-07-21, 16:50:28](https://news.ycombinator.com/item?id=36816212) - [Sam Bankman-Fried wanted to buy a bunker in Nauru to wait out the world's end](https://qz.com/sam-bankman-fried-ftx-nauru-court-case-money-laundering-1850662899)
 * [2023-07-21, 16:32:41](https://news.ycombinator.com/item?id=36815902) - [Warcraft fans claim win over AI with Glorbo prank](https://www.bbc.com/news/newsbeat-66266344)
