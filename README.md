@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2023-07-21, 18:29:10](https://news.ycombinator.com/item?id=36817584) - [Infant-deaths-surge-in-Texas-after-abortion-ban](https://arstechnica.com/health/2023/07/infant-deaths-surge-in-texas-after-abortion-ban/)
+* [2023-07-21, 18:32:23](https://news.ycombinator.com/item?id=36817629) - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
 * [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
 * [2023-07-21, 18:06:47](https://news.ycombinator.com/item?id=36817267) - [TSMC warns over deepening slump in chipmaking sector](https://www.ft.com/content/f433971d-fd8e-4ed3-91e9-e25a96284ea0)

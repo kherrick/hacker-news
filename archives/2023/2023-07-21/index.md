@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 18:32:23](https://news.ycombinator.com/item?id=36817629) - [Stay or Leave: Manager Admitted I am on PIP because quota](https://www.teamblind.com/post/Stay-or-Leave-Manager-Admitted-I-am-on-PIP-because-quota-QVfiZ64y)
 * [2023-07-21, 18:29:10](https://news.ycombinator.com/item?id=36817584) - [Infant-deaths-surge-in-Texas-after-abortion-ban](https://arstechnica.com/health/2023/07/infant-deaths-surge-in-texas-after-abortion-ban/)
 * [2023-07-21, 18:22:52](https://news.ycombinator.com/item?id=36817482) - [For BSD Unix, It's Sayonara (1992)](https://www.tech-insider.org/unix/research/1992/0622.html)
 * [2023-07-21, 18:09:43](https://news.ycombinator.com/item?id=36817305) - [Web Environment Integrity API](https://github.com/RupertBenWiser/Web-Environment-Integrity)
