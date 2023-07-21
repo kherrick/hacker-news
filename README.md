@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 * [2023-07-21, 02:36:19](https://news.ycombinator.com/item?id=36809385) - [An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
 * [2023-07-21, 01:37:54](https://news.ycombinator.com/item?id=36809065) - [Crockford on JSON license (2011)](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
 * [2023-07-21, 00:38:15](https://news.ycombinator.com/item?id=36808679) - [Hardware Hacking (2004) [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
@@ -25,7 +26,6 @@
 * [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How it started, how it’s going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
 * [2023-07-20, 14:16:36](https://news.ycombinator.com/item?id=36800789) - [Become Ungoogleable](https://joeyh.name/blog/entry/become_ungoogleable/)
 * [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
-* [2023-07-20, 13:21:18](https://news.ycombinator.com/item?id=36800041) - [Project Aria 'Digital Twin' Dataset by Meta](https://www.projectaria.com/datasets/adt/)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
 * [2023-07-19, 05:39:49](https://news.ycombinator.com/item?id=36782487) - [Momofuku Ando invented instant ramen (2016)](https://www.vox.com/2015/3/5/8150929/momofuku-ando-ramen-instant-noodles)
