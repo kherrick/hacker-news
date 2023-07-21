@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
 * [2023-07-21, 13:15:15](https://news.ycombinator.com/item?id=36813375) - [Stanford DEI dean who confronted judge resigns](https://nypost.com/2023/07/20/stanford-dei-dean-who-confronted-trump-appointed-judge-resigns/)
+* [2023-07-21, 12:53:12](https://news.ycombinator.com/item?id=36813194) - [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 12:22:59](https://news.ycombinator.com/item?id=36812981) - [Show HN: A non-VC backed content creation and social media platform](https://news.ycombinator.com/item?id=36812981)
+* [2023-07-21, 12:14:17](https://news.ycombinator.com/item?id=36812912) - [Midjourney Showcase](https://www.midjourney.com/showcase/recent/)
 * [2023-07-21, 12:04:49](https://news.ycombinator.com/item?id=36812848) - [Rethinking Infrastructure as Code from Scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 * [2023-07-21, 11:53:14](https://news.ycombinator.com/item?id=36812765) - [Data breach exposes personal information of 4k Roblox developers](https://www.theverge.com/2023/7/21/23802742/roblox-data-breach-leak-developer-personal-information-exposed)
+* [2023-07-21, 11:39:51](https://news.ycombinator.com/item?id=36812655) - [White House Secures Commitments from Leading AI Companies to Manage AI Risks](https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/)
 * [2023-07-21, 11:23:44](https://news.ycombinator.com/item?id=36812512) - [Remove Taiwan flag – Taiwan is not a country](https://github.com/saadeghi/daisyui/pull/2150)
 * [2023-07-21, 11:01:16](https://news.ycombinator.com/item?id=36812337) - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
 * [2023-07-21, 10:58:38](https://news.ycombinator.com/item?id=36812317) - [Proofs from the Book](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
