@@ -8,6 +8,7 @@
 * [2023-07-21, 14:01:12](https://news.ycombinator.com/item?id=36813858) - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
 * [2023-07-21, 13:42:05](https://news.ycombinator.com/item?id=36813633) - [Study finds regular 'phubbing' could be damaging marriages](https://phys.org/news/2023-07-regular-phubbing-marriages.html)
 * [2023-07-21, 13:34:11](https://news.ycombinator.com/item?id=36813564) - [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
+* [2023-07-21, 13:17:22](https://news.ycombinator.com/item?id=36813392) - [Three lessons from negative trends in vertical farming](https://www.verticalfarmdaily.com/article/9537965/lessons-from-vertical-farming-bankruptcies-layoffs-and-closures-in-2023/)
 * [2023-07-21, 13:15:15](https://news.ycombinator.com/item?id=36813375) - [Stanford DEI dean who confronted judge resigns](https://nypost.com/2023/07/20/stanford-dei-dean-who-confronted-trump-appointed-judge-resigns/)
 * [2023-07-21, 13:06:08](https://news.ycombinator.com/item?id=36813297) - [What Tron teaches us about Cashless Society](https://brettscott.substack.com/p/tron-and-cashless-society)
 * [2023-07-21, 12:53:12](https://news.ycombinator.com/item?id=36813194) - [A.I. Companies Agree to Safeguards After Pressure from the White House](https://www.nytimes.com/2023/07/21/us/politics/ai-regulation-biden.html)
