@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
 * [2023-07-21, 07:29:26](https://news.ycombinator.com/item?id=36811018) - [Quench of LHC inner triplet magnet causes a small leak with major consequences](https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major)
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
@@ -21,7 +22,6 @@
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple, fast web components](https://lit.dev/)
 * [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer: Docs](https://docs.oxide.computer/guides/introduction)
 * [2023-07-20, 18:34:10](https://news.ycombinator.com/item?id=36804692) - [How We Made MuseScore 4 [video]](https://www.youtube.com/watch?v=Qct6LKbneKQ)
-* [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-end encrypted, federated, user-friendly web apps](https://shelterprotocol.net)
 * [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)

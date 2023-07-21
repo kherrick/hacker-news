@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
 * [2023-07-21, 07:30:16](https://news.ycombinator.com/item?id=36811026) - [Ask HN: What are some low cost payment processing alternatives to Stripe?](https://news.ycombinator.com/item?id=36811026)
 * [2023-07-21, 07:29:26](https://news.ycombinator.com/item?id=36811018) - [Quench of LHC inner triplet magnet causes a small leak with major consequences](https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major)
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
