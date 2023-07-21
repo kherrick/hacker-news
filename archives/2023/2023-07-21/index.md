@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
 * [2023-07-21, 14:14:48](https://news.ycombinator.com/item?id=36814019) - [How Turborepo is porting from Go to Rust](https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust?nxtPslug=how-turborepo-is-porting-from-go-to-rust)
+* [2023-07-21, 14:01:12](https://news.ycombinator.com/item?id=36813858) - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
 * [2023-07-21, 13:42:05](https://news.ycombinator.com/item?id=36813633) - [Study finds regular 'phubbing' could be damaging marriages](https://phys.org/news/2023-07-regular-phubbing-marriages.html)
 * [2023-07-21, 13:34:11](https://news.ycombinator.com/item?id=36813564) - [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
 * [2023-07-21, 13:15:15](https://news.ycombinator.com/item?id=36813375) - [Stanford DEI dean who confronted judge resigns](https://nypost.com/2023/07/20/stanford-dei-dean-who-confronted-trump-appointed-judge-resigns/)
