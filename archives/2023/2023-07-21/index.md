@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
 * [2023-07-21, 11:53:14](https://news.ycombinator.com/item?id=36812765) - [Data breach exposes personal information of 4k Roblox developers](https://www.theverge.com/2023/7/21/23802742/roblox-data-breach-leak-developer-personal-information-exposed)
 * [2023-07-21, 11:23:44](https://news.ycombinator.com/item?id=36812512) - [Remove Taiwan flag – Taiwan is not a country](https://github.com/saadeghi/daisyui/pull/2150)
 * [2023-07-21, 11:01:16](https://news.ycombinator.com/item?id=36812337) - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
