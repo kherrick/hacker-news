@@ -6,6 +6,7 @@
 
 * [2023-07-21, 11:23:44](https://news.ycombinator.com/item?id=36812512) - [Remove Taiwan flag – Taiwan is not a country](https://github.com/saadeghi/daisyui/pull/2150)
 * [2023-07-21, 11:01:16](https://news.ycombinator.com/item?id=36812337) - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
+* [2023-07-21, 10:58:38](https://news.ycombinator.com/item?id=36812317) - [Proofs from the Book](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
 * [2023-07-21, 10:45:52](https://news.ycombinator.com/item?id=36812256) - [Tell HN: Upgrade your Metabase installation immediately](https://github.com/metabase/metabase/releases/tag/v0.46.6.1)
 * [2023-07-21, 10:30:55](https://news.ycombinator.com/item?id=36812175) - [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)

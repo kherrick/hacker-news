@@ -2,6 +2,7 @@
 
 * [2023-07-21, 11:23:44](https://news.ycombinator.com/item?id=36812512) - [Remove Taiwan flag – Taiwan is not a country](https://github.com/saadeghi/daisyui/pull/2150)
 * [2023-07-21, 11:01:16](https://news.ycombinator.com/item?id=36812337) - [EU AI Act, the first ML law, is expected to come into force by early 2024](https://www.infoq.com/news/2023/07/eu-ai-act/)
+* [2023-07-21, 10:58:38](https://news.ycombinator.com/item?id=36812317) - [Proofs from the Book](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK)
 * [2023-07-21, 10:45:52](https://news.ycombinator.com/item?id=36812256) - [Tell HN: Upgrade your Metabase installation immediately](https://github.com/metabase/metabase/releases/tag/v0.46.6.1)
 * [2023-07-21, 10:30:55](https://news.ycombinator.com/item?id=36812175) - [Small Joys with Odin](http://www.zannzen.com/blog/small_joys_with_odin_1/)
 * [2023-07-21, 08:48:48](https://news.ycombinator.com/item?id=36811554) - [I have written a JVM in Rust](https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/)
@@ -22,7 +23,6 @@
 * [2023-07-20, 21:05:47](https://news.ycombinator.com/item?id=36806747) - [Lit: Simple, fast web components](https://lit.dev/)
 * [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer: Docs](https://docs.oxide.computer/guides/introduction)
 * [2023-07-20, 18:34:10](https://news.ycombinator.com/item?id=36804692) - [How We Made MuseScore 4 [video]](https://www.youtube.com/watch?v=Qct6LKbneKQ)
-* [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
