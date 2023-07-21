@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
 * [2023-07-21, 17:29:29](https://news.ycombinator.com/item?id=36816760) - [Is shareholder capitalism a suicide pact?](https://medium.com/imagining-equity-explorations-into-the-future-of/is-shareholder-capitalism-a-suicide-pact-bd26bd10edd7)
+* [2023-07-21, 17:10:52](https://news.ycombinator.com/item?id=36816519) - [Tony Bennett Dead at 96](https://www.goodmorningamerica.com/culture/story/legendary-crooner-tony-bennett-dead-96-75761535)
 * [2023-07-21, 17:08:29](https://news.ycombinator.com/item?id=36816488) - [Insurance Company Flew a Drone to Photograph Man's House and Canceled His Policy](https://petapixel.com/2023/07/20/insurance-company-flew-a-drone-to-take-photos-of-mans-house-and-canceled-his-policy/)
 * [2023-07-21, 17:00:57](https://news.ycombinator.com/item?id=36816387) - ['Mystery company' buys land worth $800M near Travis AFB, raising concerns](https://abc7news.com/travis-afb-air-force-base-flannery-associates-llc-john-garamendi/13527836/)
 * [2023-07-21, 16:50:28](https://news.ycombinator.com/item?id=36816212) - [Sam Bankman-Fried wanted to buy a bunker in Nauru to wait out the world's end](https://qz.com/sam-bankman-fried-ftx-nauru-court-case-money-laundering-1850662899)
