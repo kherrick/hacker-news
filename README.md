@@ -24,11 +24,11 @@
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 * [2023-07-21, 02:48:44](https://news.ycombinator.com/item?id=36809457) - [The Vanishing Family: Life in the Shadow of a Cruel Genetic Mutation](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html)
 * [2023-07-21, 02:40:22](https://news.ycombinator.com/item?id=36809404) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
-* [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to see expertise is a milestone worth aiming for (2022)](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
 * [2023-07-19, 11:49:47](https://news.ycombinator.com/item?id=36784851) - [Almost all research on the mind is in English](https://www.wired.co.uk/article/language-mind-cognition-english-bias)
 * [2023-07-19, 09:52:41](https://news.ycombinator.com/item?id=36784032) - [Paper Airplane Ideas and Tips](https://www.foldnfly.com/runway.php)
+* [2023-07-19, 08:02:55](https://news.ycombinator.com/item?id=36783327) - [The Memoirs of Joseph Grimaldi (2011)](https://publicdomainreview.org/essay/the-memoirs-of-joseph-grimaldi/)
 * [2023-07-19, 07:20:26](https://news.ycombinator.com/item?id=36783062) - [Revisiting the “Cansole”, because my TV doesn't have the right connectors](https://blog.jgc.org/2023/07/revisiting-cansole-my-silly-pong-game.html)
 
 ## [Archives](archives/index.md)
