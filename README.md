@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 03:29:31](https://news.ycombinator.com/item?id=36809666) - [Octo.jl – A SQL Query DSL in Julia](https://github.com/wookay/Octo.jl)
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 * [2023-07-21, 02:36:19](https://news.ycombinator.com/item?id=36809385) - [An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
 * [2023-07-21, 01:37:54](https://news.ycombinator.com/item?id=36809065) - [Crockford on JSON license (2011)](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
@@ -9,7 +10,7 @@
 * [2023-07-20, 23:34:23](https://news.ycombinator.com/item?id=36808233) - [Will a prompt that enables GPT-4 to solve easy Sudoku puzzles be found?](https://manifold.markets/Mira/will-a-prompt-that-enables-gpt4-to)
 * [2023-07-20, 23:07:36](https://news.ycombinator.com/item?id=36808001) - [Hollywood movie aside, just how good a physicist was Oppenheimer?](https://www.science.org/content/article/movie-adds-oppenheimer-s-celebrity-just-how-good-physicist-was-he)
 * [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An invitation to a secret society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
-* [2023-07-20, 22:20:14](https://news.ycombinator.com/item?id=36807533) - [Images in the Mind’s Eye Are Quick Sketches That Lack Simple, Real-World Details](https://www.scientificamerican.com/article/images-in-the-minds-eye-are-quick-sketches-that-lack-simple-real-world-details1/)
+* [2023-07-20, 22:20:14](https://news.ycombinator.com/item?id=36807533) - [Images in the mind’s eye are quick sketches that lack simple, real-world details](https://www.scientificamerican.com/article/images-in-the-minds-eye-are-quick-sketches-that-lack-simple-real-world-details1/)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 21:35:22](https://news.ycombinator.com/item?id=36807071) - [My Beautiful Friend](https://thepointmag.com/examined-life/my-beautiful-friend/)
 * [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
@@ -25,7 +26,6 @@
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How it started, how it’s going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
 * [2023-07-20, 14:16:36](https://news.ycombinator.com/item?id=36800789) - [Become Ungoogleable](https://joeyh.name/blog/entry/become_ungoogleable/)
-* [2023-07-20, 13:29:56](https://news.ycombinator.com/item?id=36800151) - [Accidentally Load Bearing](https://www.jefftk.com/p/accidentally-load-bearing)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
 * [2023-07-19, 05:39:49](https://news.ycombinator.com/item?id=36782487) - [Momofuku Ando invented instant ramen (2016)](https://www.vox.com/2015/3/5/8150929/momofuku-ando-ramen-instant-noodles)

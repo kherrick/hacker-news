@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 03:29:31](https://news.ycombinator.com/item?id=36809666) - [Octo.jl – A SQL Query DSL in Julia](https://github.com/wookay/Octo.jl)
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 * [2023-07-21, 02:36:19](https://news.ycombinator.com/item?id=36809385) - [An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
 * [2023-07-21, 02:00:49](https://news.ycombinator.com/item?id=36809180) - [The true cost of science’s language barrier for non-native English speakers](https://www.nature.com/articles/d41586-023-02320-2)
