@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2023-07-20](index.md)
 
+* [2023-07-20, 23:34:23](https://news.ycombinator.com/item?id=36808233) - [Will a prompt that enables GPT-4 to solve easy Sudoku puzzles be found?](https://manifold.markets/Mira/will-a-prompt-that-enables-gpt4-to)
 * [2023-07-20, 23:07:36](https://news.ycombinator.com/item?id=36808001) - [Hollywood Movie Aside, Just How Good a Physicist Was Oppenheimer?](https://www.science.org/content/article/movie-adds-oppenheimer-s-celebrity-just-how-good-physicist-was-he)
 * [2023-07-20, 22:55:57](https://news.ycombinator.com/item?id=36807890) - [The precursory phase of large earthquakes](https://www.science.org/doi/full/10.1126/science.adg2565)
 * [2023-07-20, 22:42:38](https://news.ycombinator.com/item?id=36807763) - [An Invitation to a Secret Society](https://www.experimental-history.com/p/an-invitation-to-a-secret-society)
 * [2023-07-20, 22:42:35](https://news.ycombinator.com/item?id=36807761) - [Leaked Docs Reveal Reuters and UK Gov Helped Overthrow Egyptian Democracy](https://orinocotribune.com/leaked-documents-reveal-reuters-helped-overthrow-egyptian-democracy/)
+* [2023-07-20, 22:20:14](https://news.ycombinator.com/item?id=36807533) - [Images in the Mind’s Eye Are Quick Sketches That Lack Simple, Real-World Details](https://www.scientificamerican.com/article/images-in-the-minds-eye-are-quick-sketches-that-lack-simple-real-world-details1/)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
+* [2023-07-20, 21:35:22](https://news.ycombinator.com/item?id=36807071) - [My Beautiful Friend](https://thepointmag.com/examined-life/my-beautiful-friend/)
 * [2023-07-20, 21:32:29](https://news.ycombinator.com/item?id=36807028) - [Good code is like a love letter to the next developer who will maintain it](https://addyosmani.com/blog/good-code/)
 * [2023-07-20, 21:26:15](https://news.ycombinator.com/item?id=36806970) - [GradIEEEnt half decent: The hidden power of imprecise lines [video]](https://www.youtube.com/watch?v=Ae9EKCyI1xU)
 * [2023-07-20, 21:22:32](https://news.ycombinator.com/item?id=36806922) - [Richard Rhodes wrote a classic book about Oppenheimer and the atomic bomb](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/)
