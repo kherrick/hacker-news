@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 04:42:25](https://news.ycombinator.com/item?id=36810075) - [Amazon shuts down customer’s smart home](https://forums.macrumors.com/threads/amazon-shuts-down-customers-smart-home.2392704/)
 * [2023-07-21, 03:29:31](https://news.ycombinator.com/item?id=36809666) - [Octo.jl – A SQL Query DSL in Julia](https://github.com/wookay/Octo.jl)
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 * [2023-07-21, 01:37:54](https://news.ycombinator.com/item?id=36809065) - [Crockford on JSON license (2011)](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
@@ -25,7 +26,6 @@
 * [2023-07-20, 15:32:37](https://news.ycombinator.com/item?id=36802021) - [Banned journalism housed in virtual Minecraft architecture (2022)](https://99percentinvisible.org/article/uncensored-library-virtual-minecraft-architecture-houses-banned-journalism/)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
 * [2023-07-20, 14:57:21](https://news.ycombinator.com/item?id=36801448) - [JPEG XL: How it started, how it’s going](https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going)
-* [2023-07-20, 14:16:36](https://news.ycombinator.com/item?id=36800789) - [Become Ungoogleable](https://joeyh.name/blog/entry/become_ungoogleable/)
 * [2023-07-20, 12:57:03](https://news.ycombinator.com/item?id=36799776) - [No-more-secrets: recreate the decryption effect seen in the 1992 movie Sneakers](https://github.com/bartobri/no-more-secrets)
 * [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
 * [2023-07-19, 05:39:49](https://news.ycombinator.com/item?id=36782487) - [Momofuku Ando invented instant ramen (2016)](https://www.vox.com/2015/3/5/8150929/momofuku-ando-ramen-instant-noodles)
