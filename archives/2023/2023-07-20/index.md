@@ -22,6 +22,7 @@
 * [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer, an efficient rack-scale computing system](https://docs.oxide.computer/guides/introduction)
 * [2023-07-20, 19:44:34](https://news.ycombinator.com/item?id=36805730) - [Nixhub: Search Historical Versions of Nix Packages](https://www.jetpack.io/blog/introducing-nixhub/)
 * [2023-07-20, 18:35:28](https://news.ycombinator.com/item?id=36804710) - [IRS moves forward with free-file tax return system; supporters, critics mobilize](https://www.pbs.org/newshour/politics/irs-moves-forward-with-a-new-free-file-tax-return-system-that-has-both-supporters-and-critics-mobilizing)
+* [2023-07-20, 18:34:10](https://news.ycombinator.com/item?id=36804692) - [How We Made MuseScore 4 [video]](https://www.youtube.com/watch?v=Qct6LKbneKQ)
 * [2023-07-20, 18:27:02](https://news.ycombinator.com/item?id=36804591) - [The hometown of San Francisco’s drug dealers](https://www.sfchronicle.com/projects/2023/san-francisco-drug-trade-honduras/)
 * [2023-07-20, 18:19:52](https://news.ycombinator.com/item?id=36804495) - [How to Build a Great Series A Pitch and Deck](https://www.ycombinator.com/library/8d-how-to-build-a-great-series-a-pitch-and-deck)
 * [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-End Encrypted, Fedederated, User-Friendly Web Apps](https://shelterprotocol.net)

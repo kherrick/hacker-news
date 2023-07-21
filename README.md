@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 02:36:19](https://news.ycombinator.com/item?id=36809385) - [An A.I. Supercomputer Whirs to Life, Powered by Giant Computer Chips](https://www.nytimes.com/2023/07/20/technology/an-ai-supercomputer-whirs-to-life-powered-by-giant-computer-chips.html)
 * [2023-07-21, 02:00:49](https://news.ycombinator.com/item?id=36809180) - [The true cost of science’s language barrier for non-native English speakers](https://www.nature.com/articles/d41586-023-02320-2)
 * [2023-07-21, 01:37:54](https://news.ycombinator.com/item?id=36809065) - [“I give permission to IBM, ..., to use JSLint for evil.”](https://gist.github.com/kemitchell/fdc179d60dc88f0c9b76e5d38fe47076)
-* [2023-07-21, 00:41:18](https://news.ycombinator.com/item?id=36808698) - [Faster Whisper Transcription with CTranslate2](https://github.com/guillaumekln/faster-whisper)
 * [2023-07-21, 00:38:15](https://news.ycombinator.com/item?id=36808679) - [Hardware Hacking (2004) [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
 * [2023-07-21, 00:00:23](https://news.ycombinator.com/item?id=36808430) - [FTC warns board game content creators, publishers to disclose relationships](https://boardgamewire.com/index.php/2023/07/17/ftc-warns-board-game-influencers-publishers-over-failing-to-properly-disclose-relationships-free-gifts/)
 * [2023-07-20, 23:42:10](https://news.ycombinator.com/item?id=36808296) - [Fly.io Postgres cluster down for 3 days, no word from them about it](https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au)
@@ -15,7 +15,7 @@
 * [2023-07-20, 21:22:32](https://news.ycombinator.com/item?id=36806922) - [Richard Rhodes wrote a classic book about Oppenheimer and the atomic bomb](https://www.theatlantic.com/technology/archive/2023/07/richard-rhodes-making-of-the-atomic-bomb-ai/674777/)
 * [2023-07-20, 21:06:12](https://news.ycombinator.com/item?id=36806753) - [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [2023-07-20, 20:48:12](https://news.ycombinator.com/item?id=36806539) - [Oxide Computer: Docs](https://docs.oxide.computer/guides/introduction)
-* [2023-07-20, 18:13:48](https://news.ycombinator.com/item?id=36804404) - [Shelter Protocol: End-to-end encrypted, federated, user-friendly web apps](https://shelterprotocol.net)
+* [2023-07-20, 18:34:10](https://news.ycombinator.com/item?id=36804692) - [How We Made MuseScore 4 [video]](https://www.youtube.com/watch?v=Qct6LKbneKQ)
 * [2023-07-20, 17:26:05](https://news.ycombinator.com/item?id=36803744) - [Custom instructions for ChatGPT](https://openai.com/blog/custom-instructions-for-chatgpt)
 * [2023-07-20, 17:01:06](https://news.ycombinator.com/item?id=36803408) - [Running Stable Diffusion in 260MB of RAM](https://github.com/vitoplantamura/OnnxStream)
 * [2023-07-20, 16:41:10](https://news.ycombinator.com/item?id=36803124) - [TypeChat](https://microsoft.github.io/TypeChat/blog/introducing-typechat/)
