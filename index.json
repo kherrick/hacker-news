@@ -1,16 +1,6 @@
 [
   [
     [
-      "2023-07-21, 11:23:44",
-      "https://news.ycombinator.com/item?id=36812512"
-    ],
-    [
-      "Remove Taiwan flag – Taiwan is not a country",
-      "https://github.com/saadeghi/daisyui/pull/2150"
-    ]
-  ],
-  [
-    [
       "2023-07-21, 11:01:16",
       "https://news.ycombinator.com/item?id=36812337"
     ],
@@ -57,16 +47,6 @@
     [
       "I have written a JVM in Rust",
       "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 07:30:16",
-      "https://news.ycombinator.com/item?id=36811026"
-    ],
-    [
-      "Ask HN: What are some low cost payment processing alternatives to Stripe?",
-      "https://news.ycombinator.com/item?id=36811026"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "Hardware Hacking (2004) [pdf]",
       "http://www.nicolascollins.com/texts/originalhackingmanual.pdf"
+    ]
+  ],
+  [
+    [
+      "2023-07-21, 00:00:23",
+      "https://news.ycombinator.com/item?id=36808430"
+    ],
+    [
+      "FTC warns board game content creators, publishers to disclose relationships",
+      "https://boardgamewire.com/index.php/2023/07/17/ftc-warns-board-game-influencers-publishers-over-failing-to-properly-disclose-relationships-free-gifts/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "How We Made MuseScore 4 [video]",
       "https://www.youtube.com/watch?v=Qct6LKbneKQ"
+    ]
+  ],
+  [
+    [
+      "2023-07-20, 16:41:10",
+      "https://news.ycombinator.com/item?id=36803124"
+    ],
+    [
+      "TypeChat",
+      "https://microsoft.github.io/TypeChat/blog/introducing-typechat/"
     ]
   ],
   [
