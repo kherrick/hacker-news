@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 15:24:59](https://news.ycombinator.com/item?id=36814895) - [Farmworkers thought a new overtime law would help them. Now, they want it gone](https://text.npr.org/1188258994)
 * [2023-07-21, 15:11:41](https://news.ycombinator.com/item?id=36814754) - [By 2028 there must be fast chargers every 60 km on the EU’s key motorways](https://www.fleeteurope.com/en/new-energies/europe/article/fast-chargers-every-60-km-key-eu-motorways?a=FJA05&t%5B0%5D=Charging&curl=1)
 * [2023-07-21, 15:01:12](https://news.ycombinator.com/item?id=36814627) - [India’s ban on rice exports raises fear of global food price rises](https://www.theguardian.com/business/2023/jul/21/india-ban-on-rice-exports-raises-fear-of-global-food-price-rises)
 * [2023-07-21, 14:39:59](https://news.ycombinator.com/item?id=36814351) - [The 115F Heat Is Killing Phones in Sardinia](https://www.bloomberg.com/news/articles/2023-07-19/dying-phones-wilting-cyclists-epicenter-of-europe-heat-wave-has-grim-warnings)
@@ -21,7 +22,6 @@
 * [2023-07-21, 03:10:16](https://news.ycombinator.com/item?id=36809565) - [Study finds billions of nanoplastics released when microwaving containers](https://news.unl.edu/newsrooms/today/article/nebraska-study-finds-billions-of-nanoplastics-released-when-microwaving/)
 * [2023-07-21, 02:48:44](https://news.ycombinator.com/item?id=36809457) - [The Vanishing Family: Life in the Shadow of a Cruel Genetic Mutation](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html)
 * [2023-07-21, 02:40:22](https://news.ycombinator.com/item?id=36809404) - [Sub-Pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
-* [2023-07-21, 00:38:15](https://news.ycombinator.com/item?id=36808679) - [Hardware Hacking (2004) [pdf]](http://www.nicolascollins.com/texts/originalhackingmanual.pdf)
 * [2023-07-20, 23:42:10](https://news.ycombinator.com/item?id=36808296) - [Fly.io Postgres cluster down for 3 days, no word from them about it](https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au)
 * [2023-07-20, 21:38:52](https://news.ycombinator.com/item?id=36807108) - [A 17th-century font in a 21st-century thesis](https://www.linyangchen.com/Typography-Fell-Types-font)
 * [2023-07-20, 15:00:25](https://news.ycombinator.com/item?id=36801491) - [FedNow Is Live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
