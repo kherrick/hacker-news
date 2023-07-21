@@ -82,6 +82,7 @@
 * [2023-07-20, 07:02:16](https://news.ycombinator.com/item?id=36797624) - [SigNoz (YC W21): Open-Source Observability Platform – Is Hiring DevRel Engineers](https://www.ycombinator.com/companies/signoz/jobs/emmP9Zs-developer-relations-engineer-remote-india)
 * [2023-07-20, 06:38:54](https://news.ycombinator.com/item?id=36797485) - [Ask HN: For 10 years I've been trying various projects, still clueless](https://news.ycombinator.com/item?id=36797485)
 * [2023-07-20, 06:27:56](https://news.ycombinator.com/item?id=36797432) - [On the Origin of LLMs](https://arxiv.org/abs/2307.09793)
+* [2023-07-20, 06:02:04](https://news.ycombinator.com/item?id=36797324) - [Hipgnosis, the designers who changed the record sleeve](https://www.theguardian.com/film/2023/jul/03/anton-corbijn-hipgnosis-film-pink-floyd-led-zeppelin)
 * [2023-07-20, 05:54:11](https://news.ycombinator.com/item?id=36797277) - [Human Shader](https://humanshader.com)
 * [2023-07-20, 05:42:57](https://news.ycombinator.com/item?id=36797231) - [Something in space has been lighting up every 20 minutes since 1988](https://arstechnica.com/science/2023/07/new-slow-repeating-radio-source-we-have-no-idea-what-it-is/)
 * [2023-07-20, 05:36:00](https://news.ycombinator.com/item?id=36797188) - [It Takes Long to Become Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
