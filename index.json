@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2023-07-21, 21:51:07",
-      "https://news.ycombinator.com/item?id=36820378"
-    ],
-    [
-      "Ask HN: What are some LLM prompts you've found useful?",
-      "https://news.ycombinator.com/item?id=36820378"
-    ]
-  ],
-  [
-    [
       "2023-07-21, 21:32:21",
       "https://news.ycombinator.com/item?id=36820105"
     ],
@@ -71,22 +61,22 @@
   ],
   [
     [
+      "2023-07-21, 20:03:56",
+      "https://news.ycombinator.com/item?id=36818923"
+    ],
+    [
+      "FreeWilly 1 and 2, two new open-access LLMs",
+      "https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models"
+    ]
+  ],
+  [
+    [
       "2023-07-21, 20:01:20",
       "https://news.ycombinator.com/item?id=36818896"
     ],
     [
       "Journalists should be skeptical of all sources including scientists",
       "https://natesilver.substack.com/p/journalists-should-be-skeptical-of"
-    ]
-  ],
-  [
-    [
-      "2023-07-21, 19:49:10",
-      "https://news.ycombinator.com/item?id=36818713"
-    ],
-    [
-      "Borderline personality disorder: a spurious condition?",
-      "https://journals.sagepub.com/doi/10.1177/01410768231164780"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "I have written a JVM in Rust",
       "https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2023-07-21, 07:01:03",
+      "https://news.ycombinator.com/item?id=36810818"
+    ],
+    [
+      "Nanosecond timestamp collisions are common",
+      "https://www.evanjones.ca/nanosecond-collisions.html"
     ]
   ],
   [
