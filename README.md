@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2023-07-21, 21:33:32](https://news.ycombinator.com/item?id=36820122) - [Meta’s LLaMa 2 license is not Open Source](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
+* [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add Grammar-Based Sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 21:16:08](https://news.ycombinator.com/item?id=36819894) - [Meta cancels Quest Pro, stops development of Quest Pro 2](https://www.zdnet.com/article/meta-cancels-quest-pro-stops-development-of-quest-pro-2/)
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
-* [2023-07-21, 20:19:38](https://news.ycombinator.com/item?id=36819119) - [OpenAI announces ChatGPT for Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US)
 * [2023-07-21, 20:01:20](https://news.ycombinator.com/item?id=36818896) - [Journalists should be skeptical of all sources including scientists](https://natesilver.substack.com/p/journalists-should-be-skeptical-of)
 * [2023-07-21, 19:51:18](https://news.ycombinator.com/item?id=36818747) - [An annual physical exam costs $400 USD on average in the USA](https://cost.sidecarhealth.com/n/annual-physical-exam-cost)
 * [2023-07-21, 19:49:10](https://news.ycombinator.com/item?id=36818713) - [Borderline personality disorder: a spurious condition unsupported by scie (cont)](https://journals.sagepub.com/doi/10.1177/01410768231164780)
@@ -19,7 +20,6 @@
 * [2023-07-21, 16:25:03](https://news.ycombinator.com/item?id=36815781) - [Diablo](https://www.filfre.net/2023/07/diablo/)
 * [2023-07-21, 16:22:20](https://news.ycombinator.com/item?id=36815744) - [‘World of Warcraft’ players trick AI-scraping website into publishing nonsense](https://www.forbes.com/sites/paultassi/2023/07/21/world-of-warcraft-players-trick-ai-scraping-games-website-into-publishing-nonsense/)
 * [2023-07-21, 16:19:54](https://news.ycombinator.com/item?id=36815705) - [RFC 9420 a.k.a. Messaging Layer Security](https://blog.phnx.im/rfc-9420-mls/)
-* [2023-07-21, 16:02:42](https://news.ycombinator.com/item?id=36815453) - [Exxon bets carbon will be the new oil](https://www.semafor.com/article/07/21/2023/exxon-carbon-denbury)
 * [2023-07-21, 15:49:04](https://news.ycombinator.com/item?id=36815255) - [In the LLM space, \"open source\" is being used to mean \"downloadable weights\"](https://www.alessiofanelli.com/blog/llama2-isnt-open-source)
 * [2023-07-21, 13:34:11](https://news.ycombinator.com/item?id=36813564) - [Dementia risk linked to blood-protein imbalance in middle age](https://www.nature.com/articles/d41586-023-02374-2)
 * [2023-07-21, 12:38:14](https://news.ycombinator.com/item?id=36813086) - [Show HN: Primo – a visual CMS with Svelte blocks, a code editor, and SSG](https://primocms.org)
@@ -29,7 +29,7 @@
 * [2023-07-21, 07:01:03](https://news.ycombinator.com/item?id=36810818) - [Nanosecond timestamp collisions are common](https://www.evanjones.ca/nanosecond-collisions.html)
 * [2023-07-20, 04:32:45](https://news.ycombinator.com/item?id=36796917) - [The Rediscovery of Susan Taubes](https://www.tabletmag.com/sections/arts-letters/articles/lament-for-susan)
 * [2023-07-19, 11:51:08](https://news.ycombinator.com/item?id=36784864) - [Ability to see expertise is a milestone worth aiming for (2022)](https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/)
-* [2023-07-19, 07:41:41](https://news.ycombinator.com/item?id=36783196) - [How Professional Ethics Work](https://siderea.dreamwidth.org/1817931.html)
+* [2023-07-19, 07:41:41](https://news.ycombinator.com/item?id=36783196) - [How professional ethics work](https://siderea.dreamwidth.org/1817931.html)
 
 ## [Archives](archives/index.md)
 

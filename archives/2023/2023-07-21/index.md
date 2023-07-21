@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2023-07-21](index.md)
 
+* [2023-07-21, 21:33:32](https://news.ycombinator.com/item?id=36820122) - [Meta’s LLaMa 2 license is not Open Source](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
+* [2023-07-21, 21:17:45](https://news.ycombinator.com/item?id=36819906) - [Llama: Add Grammar-Based Sampling](https://github.com/ggerganov/llama.cpp/pull/1773)
 * [2023-07-21, 21:16:08](https://news.ycombinator.com/item?id=36819894) - [Meta cancels Quest Pro, stops development of Quest Pro 2](https://www.zdnet.com/article/meta-cancels-quest-pro-stops-development-of-quest-pro-2/)
 * [2023-07-21, 21:01:12](https://news.ycombinator.com/item?id=36819670) - [Sleep Reset (YC W17) Is Hiring](https://www.ycombinator.com/companies/sleep-reset/jobs/8qZIdyD-personal-assistant-must-be-korean-english-bilingual)
 * [2023-07-21, 20:19:38](https://news.ycombinator.com/item?id=36819119) - [OpenAI announces ChatGPT for Android](https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en_US)
